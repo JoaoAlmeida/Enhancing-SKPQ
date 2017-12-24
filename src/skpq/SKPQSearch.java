@@ -25,11 +25,12 @@ import org.apache.jena.rdf.model.Resource;
 
 import cosinesimilarity.LuceneCosineSimilarity;
 import node.Sparql;
+import xxl.util.StarRTree;
 
 /**
  * Process a Spatial Preference Keyword Query using LOD.
  * 
- * @author  João Paulo
+ * @author  Jo�o Paulo
  */
 
 public class SKPQSearch extends SpatialQueryLD{
@@ -39,14 +40,14 @@ public class SKPQSearch extends SpatialQueryLD{
 	static final boolean debug = false;	
 	//private String keywords;
 	
-	public SKPQSearch(int k, String keywords, String neighborhood) throws IOException {
+	public SKPQSearch(int k, String keywords, String neighborhood, StarRTree rTree) throws IOException {
 		super(k, keywords);		
 	}
 
 	public static void main(String[] args) throws IOException {
 
 			//k=20 já gera os arquivos necessários para o experimento (k=5, k=10, k=15 e k=20)
-			SKPQSearch search = new SKPQSearch(20, "sunset", "range");
+			SKPQSearch search = new SKPQSearch(20, "sunset", "range", null);
 	
 			Writer outputFile = new OutputStreamWriter(new FileOutputStream("SPKQ-LD [" + "k=" + search.getK() + ", kw=" + search.getKeywords() + "].txt"), "ISO-8859-1");
 			

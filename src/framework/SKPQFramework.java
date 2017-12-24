@@ -67,7 +67,6 @@ public class SKPQFramework extends DefaultExperimentManager {
     public void open() throws ExperimentException {
         super.open();
         try {
-
             String randomSeed = getDataSet() + this.getRound();
 
             if (getProperties().getProperty("experiment.name").equals("SKPQ-LD")) {

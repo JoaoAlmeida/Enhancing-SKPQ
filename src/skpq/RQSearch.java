@@ -76,8 +76,7 @@ public class RQSearch extends SpatialQueryLD{
 //			topK.add(dummy);
 			topK.add(objSet.next());
 		}
-
-		System.out.println("Tamanho: " + topK.size());
+		
 		search.saveResults(topK);
 
 		if(debug){
