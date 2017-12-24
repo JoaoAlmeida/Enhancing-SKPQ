@@ -1,0 +1,2242 @@
+16 25.1387093 56.3371184 (tourism) (attraction) Fujairah Fort
+21 25.1874558 55.2574324 (amenity) (fuel) Eppco
+22 25.2219379 55.3528377 (shop) (mall) Festival City
+24 25.2586592 55.3264429 (tourism) (attraction) Deira Clocktower
+25 25.274671 55.2983665 (tourism) (attraction) Deira Fish Market
+29 25.1181992 55.2079616 (amenity) (fuel) Enoc
+35 25.2675726 55.2970289 (shop) (convenience) Spice Souk
+44 25.3088637 55.3689992 (amenity) (hospital) Al Taawun Mall
+49 24.0412994 53.8998008 (amenity) (fuel) ADNOC
+52 25.2164091 55.2529791 (shop) (mall) Mercato Shopping Mall
+67 25.2409192 55.2682849 (tourism) (attraction) Union House
+79 25.1415761 55.1908123 (amenity) (pub) Uptown Bar
+91 25.217593 55.2829648 (shop) (mall) Emirates Towers
+92 25.2167769 55.2827607 (amenity) (restaurant) Al Nafoorah
+99 25.0016322 55.6579422 (amenity) (fuel) Al Jabel
+102 25.238644 55.3122511 (amenity) (nightclub) Chi
+106 25.2563093 55.3332016 (amenity) (parking) RTA Public Parking
+107 25.2560919 55.3344805 (amenity) (parking) RTA Public Parking
+108 25.255696 55.3340427 (amenity) (parking) RTA Public Parking
+118 24.5419823 54.6352093 (shop) (convenience) Masuma
+120 24.4281765 54.5856772 (amenity) (school) Horizon School
+121 24.4916234 54.365301 (amenity) (bank) Al Hilal Bank - Hamdan Branch
+122 24.4912825 54.3648214 (shop) (supermarket) Emirates General Market
+123 24.4201509 54.5968366 (amenity) (university) Women's Technical College
+124 24.5270698 54.6771694 (shop) (convenience) ADNOC New Shahama
+125 24.4749688 54.3217521 (shop) (supermarket) Carrefour
+126 24.3770713 54.4971799 (shop) (car_repair) Nissan Body Work
+127 24.3392134 54.5253893 (amenity) (police) Musaffah Police Station
+128 24.3517154 54.4654226 (shop) (car_repair) Bin Hamouda Body Workshop
+134 25.2644068 55.2968432 (amenity) (place_of_worship) Grand Mosque
+139 25.2713696 55.3044273 (amenity) (restaurant) Afghan Kebab House
+140 25.2740932 55.3214883 (amenity) (restaurant) Bayt Al Baghdadi
+151 26.2138898 56.2340282 (amenity) (dive_centre) Extra Divers Musandam
+158 25.1681727 55.2281655 (shop) (supermarket) Spinneys
+159 25.0348259 55.1182385 (amenity) (bar) Jebel Ali Club
+160 25.2663451 55.2936079 (amenity) (library) Al Ras Public Library
+161 25.0354581 55.11688 (amenity) (school) Jebel Ali Primary School
+162 25.0292611 55.1147026 (amenity) (hospital) Lifeline Hospital
+163 25.0297763 55.1139623 (amenity) (school) Jebel Ali Primary School
+164 25.0472779 55.1235532 (amenity) (cinema) Grand Megaplex Cinema & IMAX
+165 25.0480152 55.1218741 (amenity) (taxi) China Court - Ibn Battuta Mall
+166 25.0418681 55.1167113 (amenity) (taxi) Tunisia - Ibn Battuta Mall
+169 25.0398404 55.1152792 (amenity) (fuel) ENOC Petrol Station
+171 24.0514128 56.061344 (amenity) (border_control) Oman Border Post
+177 25.2898981 55.3472934 (shop) (supermarket) Carrefour
+179 25.227978 55.3834742 (amenity) (restaurant) Pizza Hut
+181 25.2900382 55.3693223 (amenity) (hospital) NMC Specialist Hospital
+182 25.3067921 55.3781226 (amenity) (place_of_worship) Majlis Khalid bin Walid Mosque
+184 25.3065794 55.3788326 (amenity) (telephone) Etisalat Nahda Customer Service Centre
+185 25.3054615 55.3745335 (amenity) (fast_food) Chicken Tikka
+187 25.3035131 55.3792707 (amenity) (restaurant) Qantarah Restaurant
+188 25.3003608 55.3696684 (amenity) (restaurant) King's Biryani
+189 25.3051232 55.3775434 (amenity) (restaurant) Food Corner
+190 25.3085793 55.3774796 (amenity) (restaurant) Jabal Lebnan
+193 25.2538886 55.3073012 (amenity) (embassy) Consulate of Pakistan
+194 25.2545097 55.3075801 (amenity) (embassy) Consulate of Egypt
+205 24.4705197 54.3401287 (amenity) (restaurant) La Brioche
+206 24.473703 54.3402367 (amenity) (cafe) Nova Beach Cafe
+207 24.4735751 54.3401292 (amenity) (cafe) Cafe Sante
+208 25.0843496 55.1481164 (amenity) (cafe) Cafe Bateel
+211 24.323927 55.9051908 (tourism) (attraction) Hanging gardens
+215 24.6088053 56.0525189 (tourism) (viewpoint) View
+219 25.084448 55.144784 (amenity) (cafe) Cityport Cafe
+220 24.420824 54.5320294 (amenity) (parking) Golf Gardens Clubhouse Parking
+222 25.0860019 55.1483625 (amenity) (parking) Spinneys Park
+224 25.0860554 55.148675 (shop) (supermarket) Spinneys
+226 25.3636969 55.3918582 (shop) (department_store) Atlas Mall
+236 24.4715319 54.3407648 (shop) (dry_cleaning) Sketchleys
+237 24.4700436 54.340175 (shop) (supermarket) Choitram's Fresh
+241 24.473931 54.3408038 (amenity) (cafe) Coldstone Creamery
+243 24.4738733 54.3411644 (amenity) (restaurant) Saj 2 Go
+244 24.4739244 54.3406058 (amenity) (cafe) Cinnabon
+245 24.4719622 54.3398043 (amenity) (restaurant) Special
+247 24.4630532 54.3257203 (amenity) (restaurant) La Terrazza
+249 24.4722976 54.3411204 (amenity) (atm) National Bank of Abu Dhabi
+251 24.4654618 54.3345708 (shop) (supermarket) Spinneys
+252 24.4696016 54.3426228 (amenity) (fast_food) Subway
+264 24.464416 54.3252941 (amenity) (restaurant) Vasco's
+267 24.4704576 54.3397975 (shop) (photography) Kodak Express
+268 24.4735749 54.3413785 (amenity) (bicycle_rental) Byky
+269 24.4747967 54.3422414 (shop) (kiosk) Marina Cafe
+287 24.9411287 55.0421517 (shop) (convenience) Emarat
+288 24.9409505 55.0418996 (amenity) (fast_food) McDonald's
+289 25.194741 55.2760063 (amenity) (restaurant) Margaux
+290 25.1944225 55.2761711 (amenity) (restaurant) The Meat Co.
+291 25.1950332 55.2805918 (tourism) (attraction) The Waterfall
+294 24.4469025 54.3942563 (amenity) (university) Khalifa University
+295 24.4699191 54.3430382 (shop) (car) Prestige Cars
+296 24.47187 54.3414889 (amenity) (bank) Dubai Islamic Bank
+298 24.7827507 54.8544465 (amenity) (restaurant) Al Zuhour Restaurant
+300 24.4849318 54.3582367 (shop) (clothes) Marks & Spencer
+304 24.4807799 54.3613914 (amenity) (bank) HSBC
+305 24.4805874 54.3572993 (shop) (mall) Al Muhairy Centre
+309 24.4736391 54.3487395 (amenity) (atm) Abu Dhabi Islamic Bank
+310 24.4732581 54.3482153 (amenity) (bank) RAK Bank
+312 24.4556715 54.370397 (amenity) (restaurant) La Brioche
+314 25.3612709 55.3870393 (tourism) (museum) Sharjah Art Museum
+315 25.3648408 55.3893101 (tourism) (museum) Museum of Islamic Civilization
+318 25.3603983 55.4058377 (amenity) (place_of_worship) Maysaloon Mosque
+322 24.3365755 56.73519 (shop) (supermarket) Al Fair
+323 24.3402173 56.7306617 (shop) (supermarket) Lulu
+326 24.4947347 54.3845185 (amenity) (pub) Brauhaus
+327 24.4567285 54.328703 (amenity) (restaurant) Chamas
+328 24.4566624 54.3287633 (amenity) (restaurant) The Yacht Club
+329 24.456887 54.3286924 (amenity) (restaurant) The Belgian Beer Cafe
+331 24.462524 54.3255185 (amenity) (bar) Hemingways
+332 24.4625314 54.3254483 (amenity) (bar) The Jazz Club
+333 24.4629701 54.3256185 (amenity) (restaurant) Royal Orchid
+336 24.7947318 56.1228553 (amenity) (cafe) Al Saeei
+339 24.9985225 55.6606185 (shop) (supermarket) Jabal Nazwa Supermarket
+342 24.9553014 55.7138373 (shop) (convenience) For You Supermarket
+345 24.9960376 55.6635724 (amenity) (restaurant) Al Fareed Restaurant
+349 24.6580578 55.6919345 (amenity) (restaurant) Al Jabeeb Restaurant
+351 24.5169349 55.5072727 (amenity) (restaurant) Al Anood Cafeteria
+352 24.4714518 55.3408275 (amenity) (fuel) Sweihan ADNOC
+354 25.3337477 55.4231009 (amenity) (fire_station) Samnan
+355 25.3416747 55.43209 (amenity) (hospital) Al Qassimi Hospital
+356 25.2359227 55.2784165 (amenity) (fire_station) Satwa
+358 25.1649315 55.2365237 (shop) (bicycle) Wolfi's Bike Shop
+359 25.1738902 55.2447821 (shop) (bicycle) Cannondale
+361 24.4172257 54.4615873 (amenity) (hospital) Al Noor Hospital
+362 24.4568128 54.38226 (amenity) (restaurant) Il Forno
+363 24.4733995 54.3682663 (amenity) (fast_food) KFC
+364 24.4877909 54.3654604 (shop) (curtain) Dubai Curtain Establishment
+365 24.4636132 54.377503 (shop) (furniture) Al Salam Palace of Furniture
+367 24.4877675 54.3599364 (amenity) (pharmacy) Al Ahalia Pharmacy
+368 24.4885209 54.3621383 (amenity) (restaurant) Le Beaujolais
+369 24.4602433 54.3795459 (amenity) (bank) Al Hilal Bank
+370 24.5211983 54.3726898 (shop) (hardware) Ace Hardware
+371 24.462565 54.3783202 (amenity) (bank) Mashreq Bank
+372 24.4635499 54.3875645 (amenity) (cafe) Esquires
+375 24.4586119 54.3762607 (shop) (convenience) Al Hana Supermarket
+376 24.4624115 54.360198 (amenity) (restaurant) KFC
+378 24.4551726 54.37527 (amenity) (school) Poetry Academy
+380 24.4658964 54.3392845 (shop) (furniture) The ONE
+383 24.4151094 54.4900739 (amenity) (restaurant) Frankie's
+384 24.4147447 54.4905466 (amenity) (restaurant) Marco Pierre White Steakhouse & Grill
+385 24.4587659 54.3736901 (amenity) (embassy) Embassy of the Republic of Poland in Abu Dhabi
+386 24.4212382 54.4854542 (tourism) (attraction) Maqta Fort
+388 24.5260557 54.6764775 (amenity) (bank) National Bank of Abu Dhabi
+390 25.1079178 55.2255306 (shop) (furniture) Marina Exotic Home Interiors
+391 25.3074467 55.4190092 (amenity) (bank) Mashreq
+392 25.3057804 55.4244805 (shop) (car_repair) Yasir Car Services Centre
+393 25.3065139 55.423424 (amenity) (car_wash) Car wash
+394 24.4720677 54.3683553 (amenity) (restaurant) Texas Chicken
+395 24.4612502 54.3784622 (shop) (supermarket) Abdul Aziz Supermarket
+396 24.485227 54.3562113 (shop) (clothes) Abudhallah Hussain Khunji Stores
+397 24.4681875 54.3719177 (shop) (supermarket) Fatima Supermarket
+398 24.5205345 54.3732798 (shop) (toys) Toys 'R' Us
+399 24.4092342 54.4906932 (amenity) (restaurant) Certo
+400 24.4088353 54.4908087 (amenity) (restaurant) Ushna
+404 24.2736936 55.7641556 (amenity) (school) Al Ain Model School
+405 24.250125 55.7539971 (shop) (convenience) ADNOC Karees Al Jeemi
+406 24.2430793 55.7312998 (shop) (mall) Al Safa Commercial Centre
+416 24.332999 54.5230158 (shop) (supermarket) Carrefour
+417 24.4656409 54.3815797 (shop) (ceramics) Al Obaidly Ceramics
+419 25.1384727 55.1887228 (amenity) (parking) Wild Wadi Waterpark
+420 24.4554703 54.3271026 (amenity) (restaurant) Fishmarket
+424 25.1670972 55.2362656 (amenity) (fast_food) Burger King
+426 25.1337638 55.2158792 (shop) (car) Al Khoory
+427 25.2573437 55.3347125 (shop) (supermarket) Nine Town Hypermarket
+430 25.7232431 55.8712133 (shop) (convenience) ADNOC Oasis
+434 25.7799372 55.933276 (amenity) (pharmacy) Al Razi Pharmacy
+439 26.177283 56.2174634 (tourism) (attraction) Petroglyph Site
+443 26.201104 56.2471498 (amenity) (cafe) Al Hallah Coffee Shop
+444 24.4738348 54.3477818 (amenity) (fast_food) McDonald's
+445 24.4716213 54.344987 (amenity) (fast_food) Burger King
+446 24.4754517 54.3772426 (shop) (bakery) Lebanese Flower Bakery
+447 24.4756132 54.3774909 (amenity) (restaurant) Lebanese Flower Restaurant
+448 25.2569279 55.2992099 (amenity) (restaurant) Golden Sands
+449 25.2568619 55.2989976 (amenity) (restaurant) Kumarakam
+450 24.4578875 54.3815674 (shop) (furniture) Al Hawai Office Furniture and Equipment
+455 24.2396324 55.8097288 (amenity) (school) Sara'a Private School
+458 24.2592852 55.7730929 (amenity) (pharmacy) Yas Pharmacy
+461 24.2556073 55.7971866 (shop) (supermarket) Al Ain Gifts Market
+463 25.0542104 55.1716987 (shop) (supermarket) Spinneys
+473 24.3402821 56.7315477 (amenity) (fast_food) Quiznos
+474 24.3377983 56.7345046 (amenity) (hospital) Al Raffah
+475 24.3402271 56.7316217 (amenity) (fast_food) Papa John's
+476 24.3403323 56.7314644 (amenity) (fast_food) DQ
+478 24.4058321 56.7203328 (amenity) (bar) Sohar Beach
+480 24.3381667 56.736278 (amenity) (fast_food) KFC
+481 24.3379281 56.7364996 (amenity) (restaurant) Pizza Hut
+482 24.3507498 56.7336249 (amenity) (hospital) Al Raffah
+483 24.3506533 56.7339178 (amenity) (car_rental) Sixt
+487 24.456704 54.366674 (amenity) (embassy) Moroccan Embassy
+488 24.2176951 54.8527963 (shop) (convenience) ADNOC Petrol Station
+490 24.4090332 54.4906656 (amenity) (restaurant) The Meat Co.
+491 24.4090926 54.4906676 (amenity) (restaurant) Sho Cho
+503 24.3387541 56.7333585 (shop) (clothes) Home Centre
+509 25.3038964 56.3499283 (amenity) (fuel) Al Maha
+511 25.1954711 55.2622057 (shop) (supermarket) Safest Way
+518 24.4898717 54.3628881 (amenity) (cafe) Starbucks
+520 24.4908389 54.3611943 (amenity) (restaurant) Al Rousha
+522 24.4899315 54.3589765 (amenity) (bank) ADIB
+524 24.4909279 54.3606422 (amenity) (pharmacy) Al Noor Pharmacy
+526 24.4039797 54.6119187 (amenity) (fuel) ADNOC
+527 24.4894055 54.3633133 (amenity) (fast_food) Burger King
+528 24.4929813 54.3600568 (amenity) (hospital) Franco Emirien
+529 26.1756341 56.2466996 (tourism) (hostel) Khasab Hotel
+531 25.234788 55.358133 (amenity) (school) Al Mawakeb School
+533 24.4558765 54.3793157 (amenity) (cafe) Cafe Arabia
+535 25.2953169 56.3586346 (shop) (supermarket) Sajidha, Qidfa
+539 24.473801 54.3162985 (amenity) (restaurant) Il Porto Italian Restaurant & Sushi Bar
+540 24.4168528 54.4963691 (shop) (car) Jeep
+542 25.2386814 55.2998925 (shop) (supermarket) Lulu hypermarket
+547 25.2367156 55.307173 (shop) (supermarket) Sunrise City Super Market
+548 25.2378413 55.3080635 (shop) (supermarket) Family Super Market
+549 25.2368611 55.3089433 (amenity) (restaurant) Adukkala restaurant
+550 25.2340454 55.3081037 (shop) (supermarket) Al Maya Supermarket
+552 25.2357645 55.3079348 (shop) (supermarket) Spinneys Super Market
+554 24.4336768 54.4378142 (amenity) (restaurant) Al Fawar
+556 25.3495044 56.3481313 (amenity) (fuel) Adnoc, Khorfakkan
+557 25.3545352 56.350977 (amenity) (bank) Dubai Islamic Bank
+558 25.3543196 56.3511007 (amenity) (bank) Sharjah Islamic Bank
+559 25.3339804 56.3471067 (amenity) (fire_station) Khorfakkan Fire Station
+560 25.3336505 56.348271 (shop) (car) Al Futtaim Motors
+561 25.3326083 56.3469565 (amenity) (bus_station) Sharjah Transport
+562 25.3412093 56.3545147 (amenity) (bus_station) Sharjah Transport Bus Stop, Khorfakkan
+563 25.3302712 56.3452184 (amenity) (police) Khorfakkan Police Station
+566 25.1258642 56.3151927 (amenity) (hospital) Fujairah Hospital
+567 25.4061916 55.4422582 (amenity) (taxi) Taxi Pick Point, Ajman, Near Lulu Hyper market
+568 25.3896629 55.4725027 (shop) (supermarket) NK Hypermarket
+570 25.4122365 55.4462621 (amenity) (bus_station) Ajman Bus Station
+571 25.2632331 55.3319255 (shop) (Customer Care) Samsung Service Center
+573 25.3449278 56.3487485 (amenity) (fast_food) Mabrook Cafeteria
+574 24.416389 54.4973177 (shop) (car) Princess Cars
+577 25.1356207 56.2882752 (amenity) (fuel) Adnoc, Fujairah, University Road.
+578 25.1358441 56.2887312 (amenity) (fuel) Adnoc, Fujairah, University Road
+579 25.4115368 55.5106758 (amenity) (parking) Traffic Department Parking
+580 25.4107397 55.5098577 (amenity) (parking) General Parking
+581 25.4115974 55.5103191 (amenity) (parking) General Parking
+582 25.4122902 55.5106812 (amenity) (parking) General Parking
+583 25.2647124 55.3602265 (amenity) (taxi) Airport Taxi Stand, Dubai Airport Terminal 02
+585 25.1690211 55.2275968 (shop) (alcohol) African & Eastern
+586 25.1683745 55.2285685 (shop) (alcohol) MMI
+588 25.3729764 56.348351 (amenity) (fuel) Adnoc, Khorfakkan
+592 25.121136 56.3311255 (shop) (supermarket) Giant Super Market, Fujairah
+593 25.1209436 56.3474929 (amenity) (police) Fujairah Police Station.
+594 25.2331541 55.3512842 (amenity) (fuel) Emarat
+595 25.1944373 55.2805258 (amenity) (parking_entrance) Cinema Parking Dubai Mall
+596 25.1948961 55.2798367 (amenity) (parking_entrance) Cinema Parking Dubai Mall
+600 25.1617476 56.3507005 (amenity) (fuel) Adnoc Fuel Station, Fujairah
+601 25.1616558 56.3512078 (amenity) (fuel) Eppco, Fujairah
+602 25.1229885 56.3310966 (amenity) (restaurant) Al Meshwar Resturent
+603 24.3479837 54.5219171 (shop) (car) Gargash Enterprises LLC
+604 24.347969 54.5213108 (shop) (car_repair) Tensai Tuning LLC
+610 24.2150702 55.7607594 (tourism) (museum) Al Ain Sheikh Zayed Palace Museum
+611 24.2162979 55.7741921 (tourism) (museum) Al Ain National Museum
+612 24.0908546 55.7120401 (tourism) (picnic_site) Ain al-Faydah
+614 24.476779 54.3314426 (tourism) (museum) Heritage Village
+615 25.1007127 55.1552992 (amenity) (parking) Gateway Towers
+620 25.0804829 55.1372264 (amenity) (pharmacy) Pharmacy
+621 24.4753388 54.3218189 (amenity) (pharmacy) BinSina Pharmacy
+624 24.348013 54.5225072 (amenity) (car_rental) Sixt Rent a Car
+626 24.4891524 54.3674129 (shop) (electronics) Sharifi Electrical
+627 24.4917391 54.3706238 (amenity) (cinema) Eldorado
+628 24.4849965 54.3625668 (amenity) (restaurant) Ponderosa Steakhouse
+629 24.4879759 54.3657507 (shop) (furniture) Jabal Al Noor Furniture
+630 24.4586933 54.3761918 (amenity) (fast_food) Lulu Burger
+633 24.4261079 54.4292775 (amenity) (embassy) Embassy of Palestine
+636 24.4623098 54.3602968 (shop) (laundry) New Zaab Laundry
+639 25.3462513 56.3480775 (shop) (car_repair) Oil Change
+648 25.2251209 55.3233574 (amenity) (fast_food) Subway
+649 25.2193292 55.3139383 (amenity) (fast_food) Burger King
+650 25.2193689 55.3136451 (amenity) (fast_food) Subway
+653 25.3452482 55.4209777 (amenity) (place_of_worship) Al sahaba
+658 25.122522 56.3371608 (amenity) (bank) Dubai Islamic Bank, Fujairah
+659 25.3447844 56.3487366 (amenity) (fast_food) Green Valley Cafeteria
+660 25.2436287 55.3613517 (amenity) (parking) Terminal 03 Parking
+661 25.3945474 55.5246554 (amenity) (police) Al Hamidiya, Ajman Police
+662 24.2197788 55.7727732 (shop) (butcher) Al Ain Meat Market
+663 24.2209628 55.7696513 (shop) (convenience) Al Ain Souk
+664 24.2191849 55.7712345 (amenity) (bus_station) Al Ain Bus Station
+665 24.2192089 55.7710596 (amenity) (taxi) Taxi Stand
+666 24.2203556 55.7624304 (shop) (convenience) Al Ain Old Market
+667 24.2193112 55.7755265 (shop) (supermarket) Lulu Center
+668 24.2104635 55.7794901 (amenity) (fuel) Petrol Station
+669 24.2145803 55.7577996 (amenity) (hospital) Specialised Medical Care Hospital
+671 24.1611639 55.8143125 (shop) (convenience) Al Ain Central Market
+672 24.1611639 55.8128211 (shop) (convenience) Bawadi Souk
+673 24.1611735 55.8109439 (shop) (convenience) Al Qaws Souk
+675 24.3640932 54.5235589 (amenity) (fuel) Adnoc
+677 24.3537051 54.6484204 (shop) (supermarket) Emirates General Market
+680 24.3103533 55.7459647 (tourism) (museum) Heritage Village
+681 24.2279707 55.7667677 (amenity) (bank) UAE Central Bank Al Ain
+682 24.4819517 54.3497861 (amenity) (bank) Union National Bank (UNB)
+683 24.4783804 54.35157 (amenity) (bank) National Bank of Abu Dhabi, Khalidiya Branch
+684 25.2543001 55.3059148 (amenity) (bank) Dubai Islamic Bank
+686 25.2634722 55.2864377 (shop) (greengrocer) Bur Dubai Market
+688 25.2641854 55.2868507 (shop) (supermarket) Carrefour Hypermarket, Al Ghubaiba road
+689 25.1760687 55.2546108 (amenity) (fuel) Emarat
+692 25.1820685 55.2356582 (amenity) (hospital) Samaa Medical Centre
+693 25.1013394 55.1608675 (amenity) (hospital) Welcare Hospital
+694 25.2710109 55.3077882 (amenity) (car_rental) Sixt Car Rental
+695 25.228091 55.3647529 (shop) (car_repair) Gargash Enterprises Rashidya Workshop
+696 24.1907378 54.9936264 (amenity) (fuel) ADNOC Petrol Station
+698 24.2198619 54.85551 (shop) (convenience) ADNOC Petrol Station
+703 24.1067773 55.7413646 (amenity) (restaurant) Al Sahra
+730 25.2664281 55.3115031 (amenity) (post_office) Thanawiya Post Office
+734 25.2703474 55.3145494 (amenity) (hospital) Al Maktoum Hospital
+735 24.2301282 55.7427619 (amenity) (hospital) NMC Specialty Hospital Al Ain
+736 25.2488932 55.2833531 (amenity) (hospital) International Modern Hospital
+738 24.4909957 54.3656632 (amenity) (restaurant) Spaccanapoli
+741 24.0780506 55.76744 (amenity) (cafe) Al Khayma
+742 24.0777299 55.7681991 (amenity) (restaurant) Lawrence's
+743 24.0780311 55.7682822 (amenity) (restaurant) Le Belvedere
+744 24.0789445 55.7677672 (amenity) (restaurant) Eden's Rock
+745 24.4945046 54.3839147 (amenity) (restaurant) Trader Vic's
+746 24.4466766 54.3640285 (amenity) (pharmacy) Ar Razi Pharmacy
+754 25.1248182 56.3324176 (amenity) (fire_station) City Station
+758 25.1133485 55.1426955 (amenity) (cafe) Costa Coffee
+759 25.0855154 55.1392575 (amenity) (restaurant) Al Khayma
+762 25.0904335 55.1528458 (amenity) (restaurant) Vapiano
+763 25.0911826 55.1536885 (shop) (supermarket) Bake Mart Plus
+765 25.0918929 55.1707072 (amenity) (cafe) Caribou
+766 24.4838103 54.3611303 (amenity) (pharmacy) New Medical Center Pharmacy
+768 24.7416234 55.8006603 (amenity) (fuel) Adnoc Fuel Station, Shwaib
+771 24.4660929 54.3804736 (shop) (picture_framing) Posters Framing
+772 24.4622055 54.3183969 (amenity) (restaurant) Hakkasan
+780 24.2560967 55.7949229 (shop) (supermarket) Dar Al Freej Supermarket
+781 24.2583807 55.7855673 (amenity) (bank) Bank Muscat
+782 25.0260882 55.1146827 (amenity) (place_of_worship) Dubai Evangelical Church Centre
+790 24.4798879 54.362229 (shop) (clothes) Babyshop
+791 24.4675747 54.3726737 (shop) (courier) UPS
+792 24.4753353 54.3664957 (shop) (lighting) Next NEON
+793 24.462312 54.3776856 (shop) (tents) Al Khaleej Tents
+794 24.4868553 54.3564529 (shop) (copyshop) Prestige Typing & Photocopying
+795 24.477025 54.3647038 (shop) (courier) DHL
+796 24.4756997 54.3662839 (amenity) (bank) National Bank of Abu Dhabi (NBAD)
+799 25.3601264 56.3488278 (amenity) (restaurant) Golden Fork
+800 25.2610173 55.3069191 (amenity) (embassy) British Embassy
+801 25.2569106 55.3124264 (amenity) (ferry_terminal) Al Seef
+804 24.5589501 54.6946712 (amenity) (restaurant) Shela Lebanon Restaurant
+809 24.3380927 56.7360649 (shop) (convenience) alain
+810 24.3400913 56.7318094 (amenity) (restaurant) Al Sarayan
+811 25.2937748 55.3795413 (shop) (laundry) Al Jasim Laundry
+812 25.2937489 55.3794834 (shop) (hairdresser) Al Zahra Gents Saloon
+813 25.2933986 55.3793063 (amenity) (restaurant) Park View
+814 25.2938592 55.3784154 (shop) (convenience) Nawaes Al Madina
+815 25.2941516 55.3783166 (shop) (convenience) Zwad Grocery
+816 25.2942816 55.3784244 (amenity) (pharmacy) Nahda Sahara Pharmacy
+817 25.2953278 55.3791634 (amenity) (restaurant) Palm Valley
+818 25.2973144 55.3804468 (shop) (supermarket) West Zone
+820 25.2976196 55.3809396 (shop) (shoes) City Shoes
+821 25.2978225 55.3812172 (amenity) (restaurant) Dosa Plaza
+822 25.2978251 55.3814814 (amenity) (restaurant) Bombay Chowpaty
+823 25.2978084 55.3816808 (amenity) (restaurant) Anjappar
+824 25.2977899 55.382079 (amenity) (restaurant) Chow King
+825 25.2977787 55.382401 (shop) (supermarket) Carrefour Express
+828 25.2977709 55.382586 (amenity) (pharmacy) Life Pharmacy
+830 25.2977079 55.3830819 (amenity) (restaurant) Panoor
+831 25.2976808 55.3832286 (shop) (convenience) Nawaes Al Madina
+832 25.2976454 55.3833433 (amenity) (pharmacy) Ardh Al Naseem Pharmacy
+833 24.4603037 54.3478148 (shop) (supermarket) Fatima Supermarket
+835 25.2937145 55.3794564 (shop) (photo_studio) Nahda studio
+836 25.2935271 55.3793071 (shop) (convenience) Nawaes grocery
+837 25.3610541 55.3959558 (amenity) (fast_food) Green Valley Restaurant
+838 25.3666415 55.4011925 (amenity) (fire_station) Sharjah Fire Station
+839 25.3607979 55.3937552 (amenity) (restaurant) Delhi Nahari Restaurant
+840 25.3606344 55.3940298 (amenity) (hospital) Al Zahra Hospital
+841 25.3601607 55.3947163 (amenity) (cinema) Concord Cinema
+842 25.3618483 55.3979697 (shop) (supermarket) Al Shaleel Supermarket
+843 25.3608557 55.3980231 (amenity) (hospital) Central Private Hospital
+844 25.3630898 55.3972639 (amenity) (place_of_worship) Mosque
+845 25.3598295 55.3996237 (shop) (books) Dar us Salaam Bookstore
+846 25.3586752 55.4051331 (amenity) (fast_food) Kentucky Fried Chicken
+847 25.3615302 55.3953624 (amenity) (place_of_worship) Mosque
+848 25.3206189 55.3876398 (amenity) (bureau_de_change) Al Ansari Exchange
+849 25.3189806 55.3860839 (shop) (clothes) Way In
+850 25.3211809 55.3889053 (shop) (clothes) Giordano
+852 25.3241861 55.3909951 (amenity) (fast_food) Kentucky Fried Chicken
+853 25.3205678 55.387579 (amenity) (fast_food) Baskin Robbins
+854 25.3273839 55.3945666 (amenity) (fast_food) Candy Patisserie
+855 25.327494 55.3945766 (shop) (furniture) French Palace Furniture
+857 25.319562 55.387403 (amenity) (restaurant) The Grand Buffet
+858 25.3208978 55.3879223 (amenity) (restaurant) Pizza Hut
+861 24.4651819 54.3808491 (amenity) (pharmacy) Al Ghadeer Pharmacy
+862 24.5571051 54.6945145 (amenity) (fuel) ADNOC
+866 25.2704288 55.3432117 (shop) (furniture) Toufic Furniture Company
+868 25.2963181 55.3762089 (shop) (supermarket) Big Mart Supermarket
+869 25.1910881 55.2776242 (amenity) (restaurant) Nezesaussie
+871 25.1561912 55.2295211 (shop) (IT) Advanced Technology Solutions
+875 25.280883 55.386875 (amenity) (restaurant) Kumarakom Restaurant
+882 24.457746 54.3832124 (amenity) (car_rental) Al Dhaheri Car Rental
+883 24.4590245 54.3805613 (amenity) (restaurant) Pizza Hut
+884 24.4386638 54.412588 (amenity) (restaurant) Le Boulanger
+886 24.3729905 54.5181658 (amenity) (restaurant) Pizza Hut
+887 24.3738259 54.5115926 (shop) (supermarket) Al Qathara Market
+891 24.3436003 56.729224 (amenity) (hospital) Badr Al Samaa
+892 24.3488762 56.7307857 (amenity) (restaurant) Sunshine
+894 25.3110352 55.3786388 (amenity) (fuel) Eppco Petrol Pump
+895 25.2942259 55.3708791 (amenity) (fuel) ENOC Petrol Station
+896 25.3021697 55.383582 (amenity) (fuel) EPPCO Petrol Station
+897 25.3068552 55.3741658 (amenity) (fuel) ADNOC Petrol Station
+898 25.3029068 55.3832371 (amenity) (fuel) EPPCO Petrol Station
+906 24.4066611 54.4904158 (amenity) (restaurant) Sofra bld
+907 24.4064507 54.4905754 (amenity) (restaurant) Bord Eau
+908 24.6694139 54.7623347 (amenity) (cafe;atm) Havana Internet Cafe
+909 24.6697728 54.7622476 (amenity) (fast_food) Popeyes
+910 24.6696773 54.7621679 (amenity) (fast_food) Dominos Pizza
+911 24.6698679 54.7623194 (amenity) (fast_food) Burger King
+912 24.6695678 54.7621442 (amenity) (restaurant) Bon Food
+914 25.0965697 55.1652411 (shop) (convenience) Starmart
+915 25.0966936 55.1651324 (amenity) (fast_food) Burger King
+916 25.2142378 55.2762895 (amenity) (fast_food) Nando's
+917 25.6024392 56.3371448 (amenity) (restaurant) Breeze
+918 25.6024274 56.3372554 (amenity) (restaurant) Marco Polo
+926 25.2924469 55.3850079 (amenity) (restaurant) McDonalds
+927 25.2925536 55.3854103 (amenity) (fuel) ENOC Petrol Pump
+929 25.6342139 56.2680863 (amenity) (bank) Bank Muscat
+931 25.3266425 56.1684275 (shop) (bakery) Al Dahreez
+936 25.300094 55.441635 (shop) (hairdresser) Muwailaiha Sharjah
+937 24.4568138 54.3287017 (amenity) (restaurant) Il Bocaccio
+941 24.4560621 54.3674286 (amenity) (embassy) French Embassy
+943 25.3012605 55.3730205 (amenity) (hospital) Sunny Medical Centre
+944 24.4251001 54.4457784 (shop) (car_repair) Lexus Repair Shop
+945 24.42479 54.4457408 (shop) (car_repair) Toyota Repair Shop
+947 25.3013943 55.3719869 (shop) (supermarket) Carrefour Market
+948 25.3011342 55.3727277 (amenity) (clinic) Al Reem Diagonostic Centre
+950 25.3020689 55.3761039 (amenity) (restaurant) Sharjah Falcon Cafteria
+951 25.2998065 55.3752939 (shop) (convenience) Al Madina
+952 25.3011773 55.3743843 (shop) (convenience) Manila Grocery
+954 25.2998588 55.3754513 (amenity) (restaurant) Hot Chillies
+955 25.3016616 55.3752514 (amenity) (hospital) Sahara Medical Centre
+961 25.3019415 55.3746076 (amenity) (restaurant) Hyderabadi
+964 25.3001005 55.3750207 (amenity) (cafe) Freedom Internet
+967 25.300681 55.3729534 (amenity) (restaurant) Al Punjabi
+968 25.3008604 55.3736561 (amenity) (restaurant) Bab Al Nahda
+970 24.4569632 54.3821025 (amenity) (car_rental) Planet Rentacar
+971 25.0392542 55.1151758 (shop) (bicycle) Cannondale
+972 25.039371 55.1153008 (amenity) (fast_food) Diggy Dogs
+973 25.0394648 55.1153985 (amenity) (restaurant) Pizza Hut
+974 25.0394223 55.1153477 (amenity) (fast_food) Subway
+975 25.1153211 55.1981388 (shop) (confectionery) ChoCoa
+976 24.4586732 54.3810928 (amenity) (fast_food) Popeyes
+977 24.4240557 54.4512767 (shop) (furniture) World of Furniture
+978 25.2769121 55.3463451 (shop) (clothes) Sana Fashion
+979 25.276603 55.3460178 (amenity) (hospital) New Medical Centre
+980 25.2763781 55.3457367 (amenity) (restaurant) Foodlands
+985 25.2786487 55.3446364 (amenity) (restaurant) Kentuckuck Fried Chicken
+986 25.2787555 55.3442556 (amenity) (fuel) Emarat Petrol Pump
+990 25.2771062 55.3377807 (shop) (supermarket) Talal Supermarket
+992 25.2584738 55.4118433 (amenity) (college) Etisalat Academy build.
+996 25.3006206 55.3748757 (amenity) (restaurant) Mahdi
+997 25.3010571 55.3746048 (shop) (hairdresser) Cleopatra Laundry
+1001 24.4900929 54.3731241 (amenity) (hospital) National Hospital
+1003 25.3017482 55.3645331 (amenity) (bank) National Bank of AbuDhabi
+1004 25.3016875 55.3645357 (shop) (supermarket) Superfine
+1008 24.4580871 54.3813556 (amenity) (bank) Emirates Islamic Bank
+1009 24.4757922 54.3464059 (shop) (supermarket) Abela
+1010 24.4705368 54.3436606 (shop) (jewelry) Al Manara
+1012 24.4657034 54.3342576 (shop) (alcohol) Spinneys
+1013 24.4753297 54.3449058 (shop) (car) Audi Showroom
+1014 24.489137 54.3578275 (shop) (travel_agency) British Airways
+1015 24.4887723 54.3574413 (amenity) (car_rental) Diamond Lease
+1017 25.133396 55.1835749 (amenity) (restaurant) Khaymat Al Bahar
+1018 25.1939611 55.2762257 (amenity) (restaurant) Asado
+1019 25.1950784 55.2763253 (amenity) (restaurant) The Rivington Grill
+1020 24.4330756 54.430577 (amenity) (bank) Union National Bank
+1021 24.4445906 54.410939 (amenity) (school) Abu Dhabi Indian School
+1022 24.4477072 54.4082932 (amenity) (school) Sherwood Academy
+1024 24.5539327 54.8418279 (amenity) (fuel) ADNOC
+1025 24.5531325 54.8457439 (shop) (supermarket) co-op/px
+1027 24.4565188 54.3668744 (amenity) (embassy) Italian Embassy in Abu Dhabi
+1030 24.4467368 54.4021821 (amenity) (restaurant) Chawarmino Restaurant
+1031 24.4453296 54.4032644 (amenity) (restaurant) Pizza Hut
+1032 24.4468895 54.401828 (amenity) (pharmacy) Al Ahliya Pharmacy
+1033 24.4479821 54.4008168 (amenity) (restaurant) Sea Shell Restaurant
+1034 24.4478954 56.6078692 (amenity) (fast_food) Pizza Hut
+1035 25.3013225 55.3742398 (shop) (convenience) Al Arfaa Grocery
+1037 25.090955 55.153355 (amenity) (restaurant) Al Merkaaz
+1038 25.0928834 55.1517006 (amenity) (restaurant) Circle
+1041 25.0938879 55.1482766 (amenity) (restaurant) Bussola
+1043 24.4088185 54.4908085 (amenity) (restaurant) Noodle House
+1045 25.2339897 55.317983 (amenity) (pharmacy) German Limbtech Orthopaedic
+1046 24.432061 54.4375431 (amenity) (cafe) Nagham Cafe
+1048 24.5157025 54.3749694 (shop) (florist) Plant Market
+1050 25.3352814 55.3913941 (shop) (supermarket) Choithram's Super Market
+1051 25.3316062 55.39391 (shop) (car) Kia Showroom
+1052 25.3325307 55.3991876 (shop) (supermarket) Lulu Hypermarket
+1053 25.333536 55.3991564 (amenity) (car_rental) Al Futtaim Motors
+1054 25.3520196 55.3903186 (amenity) (post_office) Sharjah Central Post Office
+1055 25.3556481 55.3874379 (shop) (mall) K M Trading Centre
+1056 25.3553015 55.3878295 (shop) (supermarket) Giant Super Market
+1059 25.0763558 55.140558 (shop) (supermarket) Waitrose Dubai Marina
+1060 24.5272773 54.6773813 (shop) (convenience) ADNOC Oasis
+1061 24.5247541 54.6760075 (shop) (convenience) Hasna Supermarket
+1062 25.2873907 55.8822965 (amenity) (bank) Abu Dhabi Islamic Bank (ADIB)
+1063 25.2850933 55.8804616 (amenity) (bank) National Bank of Abu Dhabi
+1065 25.5834179 56.2646986 (shop) (supermarket) Al Khaleej Markets
+1066 25.6015707 56.3108249 (amenity) (fast_food) Chicken Hut
+1070 25.5215729 56.3551398 (amenity) (restaurant) Lebanon Lights Bakery & Sweets
+1071 25.1401637 55.2197853 (shop) (outdoor) Adventure HQ
+1076 25.091048 55.153575 (amenity) (cafe) Costa
+1077 24.4660173 54.5996756 (amenity) (restaurant) Rangoli
+1078 24.4661841 54.5991749 (amenity) (restaurant) Blue Grill
+1079 24.8039574 56.0222723 (tourism) (attraction) Hadf gorge
+1090 25.0921011 55.1511885 (amenity) (cafe) Costa Coffee
+1091 25.0905275 55.1530339 (amenity) (cafe) Panino
+1092 25.6971941 55.7798088 (amenity) (pub) Al Hamra Yacht Club
+1093 25.2775511 55.3468478 (shop) (shoes) Shoe Mart
+1095 25.7359311 55.8904689 (shop) (doityourself) Danube Buildmart
+1096 25.7376925 55.8904823 (amenity) (fuel) ADNOC
+1097 25.7391252 55.8950823 (amenity) (police) Ras al-Khaimah Police General Headquarter
+1098 25.2820816 55.346998 (amenity) (post_office) Deira Post Office
+1099 25.2833757 55.3484865 (amenity) (hospital) Hor-Al-Anz Primary Health Centre
+1104 25.2762875 55.3445828 (amenity) (restaurant) Madras Vegetarian Restaurant
+1105 25.275948 55.3446149 (amenity) (restaurant) Southern Spice Restaurant
+1106 25.2763723 55.3447933 (shop) (convenience) AL Wali Supermarket
+1107 25.2763529 55.3449327 (shop) (travel_agency) Dubai Sun and Sand Travel and Tourism
+1108 25.27647 55.3451057 (shop) (photo_studio) Marhaba Studio
+1111 25.3016232 55.3645384 (shop) (radiotechnics) Elite Lighting
+1112 25.2764609 55.3370717 (amenity) (hospital) Aster Medical Centre
+1117 25.2772468 55.3386515 (amenity) (bureau_de_change) AL Razouki Money Exchange
+1118 25.2772196 55.3384777 (amenity) (bureau_de_change) UAE Exchange
+1129 25.279016 55.3441013 (shop) (laundry) Panda Dry Cleaning
+1130 25.2800734 55.3446592 (amenity) (car_rental) AL Sakka Car Rental
+1133 25.2786556 55.3456773 (shop) (clothes) MAX
+1134 25.2787822 55.34543 (shop) (baby_goods) GoodBaby
+1137 25.2768921 55.3454669 (shop) (florist) Express flowers
+1138 25.2804993 55.3448614 (shop) (tailor) Royal Scissors
+1141 25.278919 55.3452492 (amenity) (restaurant) Milen Restaurant
+1144 25.274958 55.3449943 (shop) (books) Dubai Public Library Distributors
+1145 25.3018316 55.3748501 (amenity) (restaurant) Kolam Restaurant
+1146 25.2806264 55.3450132 (shop) (florist) Harmony flowers
+1147 25.279859 55.3439816 (shop) (hardware) Unimar Construction Equipment
+1151 25.740357 55.8956958 (shop) (car) Swaidan Trading Co LLC Peugeot RAK
+1153 25.7413766 55.8962942 (shop) (furniture) MAISON CHIC Furniture & Decorative Accessories Store
+1156 25.783325 55.9655779 (shop) (supermarket) Carrefour
+1157 25.7879851 55.9618794 (amenity) (fire_station) Darfan Nakheel Civil Defence Station
+1158 25.7884125 55.9642343 (amenity) (fuel) ADNOC
+1159 25.7873765 55.963663 (amenity) (fuel) EPPCO
+1160 25.7160563 55.8202233 (tourism) (theme_park) The Ice Land Waterpark
+1161 25.5898893 55.6595796 (tourism) (theme_park) Dream Land Aqua Park
+1163 25.2787434 55.3454732 (amenity) (gym) AbuHail Gym
+1164 25.2855816 55.351474 (amenity) (bank) Dubai Islamic Bank
+1167 25.5807015 55.6523126 (shop) (null) Aviation Cafe
+1169 25.2719751 55.3725485 (amenity) (bank) Union National Bank
+1170 25.2740661 55.3664344 (amenity) (fuel) Enoc
+1171 25.2403593 55.3212708 (amenity) (parking) 50
+1172 25.2441836 55.318893 (amenity) (hospital) Rashid Hospital
+1173 25.2405825 55.3176123 (amenity) (place_of_worship) St Marys Catholic Church
+1174 25.1597589 55.2340528 (shop) (hardware) Speedex
+1175 25.297276 55.3625275 (amenity) (bank) Emirates NBD
+1176 25.2781478 55.3472918 (shop) (confectionery) Sevan Bakery
+1177 25.2782497 55.347383 (amenity) (restaurant) ChinaTown Restaurant
+1178 24.44222 54.6074367 (shop) (supermarket) Souq Planet
+1179 25.2780812 55.347488 (amenity) (restaurant) Blue Mountain
+1181 25.2785833 55.3476672 (amenity) (bureau_de_change) UAE Exchange
+1184 25.2803451 55.3450025 (amenity) (car_rental) Layers Rent a Car
+1185 25.2795205 55.3436185 (amenity) (restaurant) Vembayan Restaturant
+1187 25.275143 55.3476296 (shop) (car) Galadahari Automobiles
+1191 25.2539449 55.3306044 (amenity) (bank) Commercial Bank of Dubai
+1195 25.1387937 55.3596716 (tourism) (museum) Repton Museum
+1196 25.1426787 55.3618818 (amenity) (library) Repton Tower Plaza Hotel
+1197 25.2921476 56.1177728 (amenity) (fuel) Adnoc Fuel Station, Friday Market
+1198 25.2807837 55.3452477 (shop) (hairdresser) Island Breeze Ladies Saloon
+1200 25.2789502 55.3461919 (amenity) (restaurant) Mashaad Restaturant
+1201 24.4214178 54.4461429 (shop) (alcohol) High Spirits
+1202 24.4628347 54.3253478 (amenity) (restaurant) Toki
+1211 26.2042686 56.2438744 (amenity) (fuel) Qarah Filling Station
+1212 26.2039695 56.243748 (amenity) (restaurant) Resturant Dhabi Elyamen
+1219 25.5886286 55.6546884 (amenity) (restaurant) Baracuda Italian Food
+1224 25.6280582 55.6954367 (amenity) (fountain) Fountan
+1226 25.7145182 55.9713743 (amenity) (place_of_worship) Mosque
+1228 25.5846004 55.6586918 (amenity) (hospital) Near Barracuda
+1233 25.2995549 55.3735869 (amenity) (restaurant) Saravana Bhavan
+1243 25.7848842 55.944233 (amenity) (bank) Emirates NBD
+1244 25.7613103 55.9248168 (amenity) (place_of_worship) Mosque
+1245 24.4358272 54.8325443 (amenity) (fuel) ADNOC
+1250 25.2996007 55.374319 (shop) (supermarket) Al Nahda Supermarket
+1257 25.2295686 55.3914759 (amenity) (parking) Rashidiya Metro Station Car Park (Red Line)
+1258 25.2547226 55.4028541 (amenity) (parking) Al Qusais Car Park (Metro Green Line)
+1260 25.7903682 55.9390696 (shop) (jewelry) Gold Market
+1261 25.7940083 55.9449633 (amenity) (police) Ras al Khaimah Police General Office
+1262 25.7955927 55.9503945 (amenity) (bank) HSBC
+1263 25.7948294 55.9506975 (amenity) (restaurant) Murad Zahi Restaurant
+1265 25.7997539 55.9485752 (amenity) (library) RAK Documentation and Studies Centre
+1266 25.79382 55.951038 (shop) (convenience) Vegetable and Fruit Market
+1267 25.8010139 55.9505043 (shop) (convenience) Fish Market
+1268 25.794387 55.945197 (tourism) (museum) National Museum of Ras al Khaimah
+1269 25.7940302 55.9414144 (amenity) (post_office) Emirates Post
+1270 25.2144125 55.2706863 (amenity) (embassy) Consulate General of the Republic of Singapore
+1272 24.4909536 54.3564156 (amenity) (fast_food) Silver Sea Shell Restaurant
+1273 24.4909404 54.3559063 (amenity) (bank) Abu Dhabi Islamic Bank
+1276 24.4913016 54.3569148 (amenity) (bank) Dubai Bank
+1277 24.4902862 54.3546296 (amenity) (bank) RAK Bank
+1283 25.3551241 55.3798514 (shop) (pet) Sharjah Bird and Animal Market
+1285 25.3581963 55.3837645 (tourism) (museum) Al Eslah School Museum
+1290 25.3223833 55.3781028 (amenity) (place_of_worship) Al Qasba Mosque
+1295 24.4424744 54.6073405 (shop) (alcohol) High Spirits
+1297 25.0937978 55.1607788 (amenity) (restaurant) Nando's
+1299 25.0896725 55.1523138 (amenity) (bar) M:ZONE
+1300 25.0899297 55.1524328 (shop) (convenience) Swiss Palace
+1302 25.3473953 55.3844724 (shop) (convenience) Sharjah Central Souk
+1303 25.3468281 55.3838501 (shop) (convenience) Sharjah Central Souk
+1305 25.7946291 55.973166 (amenity) (cinema) Gulf Cinema
+1306 25.7591817 55.983348 (amenity) (place_of_worship) Mosque Suhaib Al Roomi
+1307 25.7744962 55.9354219 (amenity) (place_of_worship) Zayed Mosque
+1308 25.7923832 55.9666536 (shop) (supermarket) Al Naeem Mall
+1311 25.7486684 55.9252162 (shop) (supermarket) Safeer Mall
+1312 25.6817673 55.7803035 (shop) (supermarket) Spinneys
+1313 25.1267993 55.3970047 (shop) (supermarket) Spinney's
+1315 25.1270253 55.3969284 (shop) (null) Starbucks
+1318 25.1167988 55.3895948 (shop) (supermarket) Choitrams
+1319 25.1214196 55.3982614 (shop) (supermarket) Green Belt
+1320 25.114019 55.3806028 (shop) (convenience) Spinney's
+1322 25.1118689 55.3835541 (shop) (convenience) Green Park
+1324 25.3427307 55.3641919 (tourism) (information) wasteland and beach with usage fee
+1333 25.3361589 55.3605655 (amenity) (townhall) SHARJAH
+1335 25.1224991 56.3305149 (amenity) (fast_food) Pizza Hut
+1346 25.0949822 55.3560746 (tourism) (theme_park) Theme Park
+1348 24.4655033 54.3845281 (shop) (stationery) Al Noor International Stationery
+1354 25.048291 55.2471986 (shop) (butcher) MeatOne Middle East , Motor City
+1359 24.4960429 54.3782864 (amenity) (bank) Emirates NBD
+1360 24.4935246 54.3830305 (shop) (florist) Gardenia Flowers & Plants
+1362 24.4679377 54.3825442 (amenity) (cafe) Tazza Cafe
+1375 25.248061 55.3017966 (shop) (books) Book World Library
+1378 25.0774753 55.1341126 (amenity) (restaurant) Jedoudna
+1379 24.4277777 54.419515 (amenity) (embassy) Embassy of Vietnam
+1380 24.4587817 54.3808156 (amenity) (pharmacy) Al Mushref Pharmacy
+1382 25.0753554 55.1321654 (amenity) (restaurant) AOC French Brasserie
+1383 25.075698 55.1317604 (amenity) (bar) Infini Pool Lounge
+1384 25.0751052 55.1322539 (amenity) (restaurant) Rococo
+1385 25.0751319 55.1324014 (amenity) (pub) The Hub
+1388 25.2656892 55.3325655 (amenity) (marketplace) Future Star BMT LLC
+1391 25.1579161 55.4111345 (amenity) (pharmacy) Easy Pharmacy
+1394 24.479722 54.3508251 (amenity) (cafe) Cafe Firenze
+1397 24.4658827 54.3391589 (amenity) (restaurant) The ONE Restaurant
+1400 24.4940345 54.3615599 (amenity) (restaurant) Zyara
+1401 24.4756165 54.3452417 (shop) (car) Western Motors
+1402 24.4754397 54.3486602 (amenity) (kindergarten) Mother Care
+1403 24.4768176 54.3489753 (amenity) (kindergarten) Playhouse
+1404 24.4740232 54.3472629 (shop) (null) Starbucks
+1409 24.475451 54.3464684 (amenity) (fast_food) Pizza Hut
+1410 24.1976317 55.6572274 (shop) (supermarket) Abela SuperMarket
+1411 24.1984537 55.6621198 (amenity) (fast_food) Famous Cafeteria
+1413 24.2024268 55.6521419 (amenity) (school) Al Ain American School
+1414 24.2016831 55.6525926 (amenity) (kindergarten) Smart Step Nursery
+1692 24.4318783 54.5666294 (shop) (supermarket) Al Safa Express
+1768 24.7458898 56.4383177 (amenity) (police) Police Station Shinas
+1773 25.2607367 55.3339478 (shop) (car) Kia Showroom
+1774 25.2596391 55.3341201 (shop) (car_repair) Nissan Service Center
+1775 25.2602755 55.3333969 (shop) (car) Suzuki Showroom
+1776 25.2612243 55.3332936 (shop) (car) Al Habtoor Showroom (Mitsubishi)
+1778 25.3031104 55.3830436 (amenity) (fast_food) McDonalds
+1779 25.296515 55.3967878 (amenity) (fuel) EPPCO Petrol Station
+1780 25.2962429 55.397152 (amenity) (fast_food) Kentucky Fried Chicken (KFC)
+1781 25.2964078 55.3972164 (amenity) (fast_food) Papa John's Pizza
+1782 25.2964951 55.39727 (amenity) (fast_food) Subway Sandwich
+1783 25.2905198 55.4001668 (amenity) (school) Galadari Driving School
+1784 25.2856015 55.3897813 (shop) (supermarket) Spinney's
+1785 25.2738532 55.3486577 (shop) (car) Galadari Automobile Showroom (Mazda)
+1786 25.2651988 55.391809 (amenity) (police) Al Ghusais Police Station
+1787 25.294433 55.3707753 (amenity) (car_wash) ENOC Car Wash
+1788 25.2950732 55.371977 (shop) (supermarket) West Zone Supermarket
+1789 25.2953157 55.3722345 (shop) (supermarket) Wow Pinoy Supermarket
+1790 25.2977408 55.3699492 (amenity) (parking) Sahara Center Outdoor Parking
+1791 25.2988174 55.3713869 (amenity) (parking) Sahara Center Outdoor Parking
+2567 25.1931548 55.4068159 (amenity) (pharmacy) ASTER Medical Centre, Al Warqa
+2832 25.2400651 55.2963324 (amenity) (hospital) Charly Poly Clinic
+2841 25.0928088 55.1698603 (amenity) (restaurant) Nando's
+2842 24.4234194 54.4727388 (shop) (garden_centre) Desert Garden Centre
+2846 25.1045328 55.1662253 (amenity) (restaurant) Vista Rooftop Bar & Restaurant
+2856 25.1418697 55.2206645 (shop) (car) Al Tayer Motors
+2863 25.3500715 55.406 (amenity) (place_of_worship) Mosque
+2913 25.5141158 55.5448122 (amenity) (fuel) Fuel UAQ#2
+2914 25.5304025 55.6321282 (amenity) (fuel) OLD St.Fuel
+2925 25.3902394 55.4468398 (shop) (car) Al Futtaim Motors - Toyota & Lexus Showroom
+2926 25.4091258 55.446489 (amenity) (police) Ajman Police Station, Bustan
+2928 25.38421 55.4503803 (amenity) (police) Ajman Police, Naymiyah
+2930 24.4613976 54.3796328 (amenity) (car_rental) Thrifty
+2931 24.4667282 54.3732656 (shop) (courier) DHL
+2932 24.4668737 54.3731451 (shop) (furniture) Office and Household Furniture
+2933 24.4666913 54.3735785 (amenity) (bank) Union National Bank
+2934 24.4670233 54.3730303 (shop) (fabric) Zulfiqar Ali Curtain
+2935 24.4695559 54.3708365 (amenity) (bank) Abu Dhabi Commercial Bank
+2936 24.4774463 54.3654238 (shop) (confectionery) Al Dar Sweets
+2937 24.477092 54.36502 (shop) (convenience) Asma Grocery
+2938 24.4767993 54.3649949 (shop) (furniture) Pan Emirates Home Furnishings
+2940 24.4269626 54.3979852 (amenity) (fuel) ADNOC
+2943 25.249373 55.2887467 (amenity) (library) Riadna
+2947 24.4318251 54.4359457 (amenity) (cafe) Starbucks coffee
+2948 25.6463178 56.2663056 (tourism) (guest_house) NOMAD DIVE CENTER
+2951 25.6505511 56.2690238 (amenity) (marketplace) Fish market
+2953 24.5195887 54.3714687 (shop) (supermarket) Abu Dhabi Cooperative
+2962 24.4352333 54.4250186 (amenity) (fast_food) Subway
+2963 25.046184 55.2427265 (amenity) (cafe) Starbucks Coffee
+2964 25.0465742 55.2438921 (amenity) (cafe) Caribou Coffee
+2965 24.5344946 54.4195393 (amenity) (restaurant) Al Fanr
+2976 24.4708258 54.3492874 (shop) (alcohol) Gray McKenziie
+2977 25.0271476 55.2818689 (shop) (supermarket) Choitram
+2978 25.0269708 55.2819498 (amenity) (cafe) Food To Go
+2980 24.4285296 54.4316867 (amenity) (fast_food) McDonald's
+2982 24.4393619 54.4134623 (amenity) (fast_food) Burger King
+2983 24.4395036 54.413532 (shop) (convenience) ADNOC Oasis
+2984 24.4345472 54.4245359 (amenity) (fast_food) McDonald's
+2987 24.442931 54.6093355 (amenity) (post_office) Etihad Plaza
+2990 24.4221512 54.5652698 (amenity) (restaurant) Jabal Al Noor
+2991 24.4215777 54.5655648 (amenity) (marketplace) Khalifa City A Market
+2992 24.4209915 54.591314 (amenity) (school) International Cooking Training Center
+3008 24.4327172 54.4330798 (amenity) (bank) ADCB
+3013 25.1871034 55.2393484 (amenity) (fast_food) McDonald's
+3014 25.1863418 55.2388812 (amenity) (pharmacy) Boots Pharmacy
+3019 25.1773462 55.2337742 (shop) (supermarket) Park'n Shop
+3029 25.1853968 55.2384736 (amenity) (fast_food) Eat & Drink
+3033 25.1612154 55.2214658 (amenity) (veterinary) Modern Veterinary Clinic
+3038 25.2597087 55.3730183 (amenity) (bank) Emirates NBD
+3048 25.2597281 55.372675 (amenity) (bank) HSBC
+3054 24.4639312 54.3872229 (amenity) (restaurant) Jones the Grocers
+3055 24.4636087 54.3876538 (shop) (dry_cleaning) Modern National Laundry
+3056 25.6837938 55.7729752 (amenity) (pub) The Village English Pub
+3059 24.4904488 54.3597572 (amenity) (bank) Mashreq Bank
+3060 24.4915189 54.3613577 (amenity) (bank) NBAD
+3063 25.7375205 55.8874884 (shop) (gift) Cove Arcade
+3067 25.1945148 55.4076843 (amenity) (post_office) Al Warqa Post Office
+3068 25.1945437 55.4078262 (amenity) (post_box) Al Warqa Post Office
+3081 25.0700525 55.1441783 (shop) (supermarket) Edelweiss Market
+3087 24.4961825 54.407845 (amenity) (restaurant) Italianissimo
+3088 24.4961899 54.4076773 (shop) (supermarket) Waitrose
+3089 25.218297 55.4088415 (shop) (supermarket) Carrefour
+3094 24.3730758 54.538394 (amenity) (fast_food) McDonalds
+3095 24.3730641 54.5376087 (shop) (supermarket) Lulu Express
+3096 25.2932101 55.385824 (amenity) (school) The Sheffield Private School
+3100 25.262207 55.4411381 (amenity) (fast_food) McDonalds
+3101 25.2618651 55.441307 (shop) (supermarket) Emirates CO-OP Al Mizhar 2
+3106 25.2662213 55.4522104 (amenity) (place_of_worship) Juma Mosque
+3107 25.2694 55.4478052 (amenity) (place_of_worship) Local Mosque
+3108 25.2612477 55.4411773 (amenity) (pharmacy) Life Mezhar Pharmacy
+3110 25.2577969 55.4415781 (amenity) (fuel) Enoc
+3111 25.257644 55.4418732 (amenity) (fast_food) Mcdonalds 24h
+3112 25.2577959 55.4411022 (amenity) (fast_food) SubWay
+3114 25.2579109 55.4411168 (amenity) (fast_food) Just Falafel
+3117 25.1390801 55.1890027 (amenity) (fast_food) Julshan`s Kitchen
+3118 25.1400312 55.1897001 (amenity) (fast_food) Sinbad`s Galley
+3132 24.3146314 54.5602449 (amenity) (school) Abu Dhabi Polytechnic
+3133 25.076319 55.14644 (shop) (supermarket) Casino
+3134 25.0769627 55.146853 (shop) (supermarket) Q-Mart
+3136 25.0772518 55.1503132 (amenity) (restaurant) Lebanos
+3436 24.4861378 54.3643102 (amenity) (embassy) Embassy of Sweden
+3437 25.0036745 55.1635213 (amenity) (restaurant) Aquamarine
+3439 25.0950335 55.166211 (shop) (supermarket) Organic Foods
+3440 25.0955995 55.1671726 (amenity) (cafe) Starbucks
+3443 24.4586168 54.3821203 (amenity) (bank) Abu Dhabi Islamic Bank (ADIB)
+3444 24.4643988 54.3802737 (amenity) (restaurant) Al Fawar
+3445 24.4638662 54.3805646 (shop) (pet) BRYN Trading Pet Accessories
+3446 24.4635319 54.3807582 (shop) (convenience) Bin Asker Grocery
+3447 24.4590514 54.3817384 (shop) (furniture) Emirates Spanish Furnishings
+3448 24.463689 54.3806575 (shop) (hairdresser) New Mode Gents Salon
+3451 24.2253325 55.7591393 (amenity) (restaurant) Golden Sheep
+3452 24.2256138 55.7620402 (amenity) (fast_food) McDonalds
+3453 24.225913 55.7644887 (amenity) (fast_food) Pizza Hut
+3457 25.4394375 56.3542227 (amenity) (parking) Al Badiyah Mosque parking
+3458 25.1489171 55.8790275 (amenity) (fuel) Adnoc
+3466 24.9849821 55.1087819 (amenity) (fast_food) Burger King
+3467 24.9848752 55.1091057 (amenity) (fast_food) Texaschicken
+3468 25.220465 55.2803615 (amenity) (fast_food) Wagamama
+3469 25.2111562 55.2742101 (amenity) (fast_food) Pizza Hut
+3470 25.2086915 55.2725145 (amenity) (fast_food) ZatarWZeit
+3480 25.1549667 55.2040231 (amenity) (restaurant) Tehran
+3481 25.0926015 55.1862219 (amenity) (fast_food) McDonalds
+3482 25.0998113 55.1722622 (amenity) (fast_food) Burger King
+3483 25.0998883 55.1721882 (amenity) (fast_food) Subway
+3486 24.4652893 54.5972735 (amenity) (bar) Stills
+3487 25.0704564 55.1359818 (shop) (supermarket) Al Maya Supermarket
+3488 25.0753263 55.1382552 (shop) (supermarket) Carrefour
+3490 25.0510111 55.2685857 (amenity) (restaurant) Arabian Ranches Golf Club
+3491 25.0374372 55.2533212 (amenity) (restaurant) Palermo
+3494 25.076589 55.132806 (amenity) (restaurant) The Butcher Shop & Grill
+3495 25.0771825 55.1335999 (amenity) (restaurant) El Chico Mexican
+3496 25.07279 55.1296608 (amenity) (cafe) Starbucks
+3497 25.0809152 55.1375564 (amenity) (cafe) Starbucks
+3498 25.1029819 55.1753261 (amenity) (restaurant) Paragon
+3499 25.0791233 55.13576 (amenity) (restaurant) Ihop
+3500 25.0460997 55.2422002 (shop) (supermarket) Spinney's
+3501 25.0461406 55.2424532 (shop) (alcohol) mmv
+3503 25.0726238 55.136065 (amenity) (bar) Aquara Restaurant & Lounge
+3504 25.0727404 55.1363007 (amenity) (pub) Yots Sports Lounge
+3506 24.9611107 55.0342371 (amenity) (hunting_stand) Jebel Ali Shooting Club
+3507 25.0727566 55.1382139 (amenity) (car_rental) Budget Rent a Car
+3509 24.3231188 54.5159268 (amenity) (car_wash) ADNOC Car Wash
+3510 24.4332758 54.6177994 (amenity) (bank) National Bank of Abu Dhabi
+3511 24.43382 54.6177504 (amenity) (restaurant) Sumo Sushi Bento
+3513 24.4327231 54.6172761 (amenity) (library) Knowledge center
+3580 25.0192319 56.3490941 (tourism) (viewpoint) Kalba
+3611 25.0695075 55.1348978 (amenity) (bank) RAK Bank
+3615 25.1221749 56.3438612 (shop) (supermarket) Choitram Super Market, Fujairah
+3620 25.1172554 56.3326544 (amenity) (fuel) Eppco Fuel Station
+3621 25.1213492 56.3307185 (shop) (supermarket) Giant Super Market, Fujairah
+3639 25.1202983 56.3277835 (shop) (supermarket) Lulu Hyper Market
+3660 25.1098623 56.2845871 (amenity) (townhall) Fujairah Traffic & License Department
+3661 25.091774 55.1458121 (amenity) (nightclub) Barasti
+3668 25.0756833 55.1378742 (amenity) (ferry_terminal) Dubai Marina
+3671 25.0765475 55.1352795 (amenity) (cafe) Starbucks
+3672 24.4653823 54.3871578 (amenity) (restaurant) BiancoRosso
+3673 24.4564112 54.3770127 (amenity) (fast_food) Just Falafel
+3674 24.4644319 54.3869285 (amenity) (restaurant) Shabby Chic
+3675 24.4636727 54.3874346 (amenity) (cafe) Slices
+3679 25.0940737 55.1593523 (amenity) (fast_food) Al Safeer
+3680 25.0938341 55.1610669 (amenity) (cafe) Beans & Byte
+3681 25.0938651 55.1592652 (amenity) (cafe) Costa
+3682 25.0940504 55.1614561 (amenity) (restaurant) Gazebo Internet City
+3683 25.0939712 55.1592078 (amenity) (fast_food) Golden Dragon
+3684 25.0940054 55.1592559 (amenity) (fast_food) Kamat Vegeterian Restaurant
+3685 25.0936831 55.1611266 (amenity) (restaurant) Labneh Wa Zaatar
+3686 25.0940396 55.1593041 (amenity) (fast_food) Seven Stones
+3687 25.093816 55.1609228 (amenity) (restaurant) Shish Kebap
+3688 25.0939692 55.1613455 (amenity) (restaurant) Southern Fried Chicken
+3689 25.0941079 55.1594004 (amenity) (fast_food) Subway
+3690 25.0940098 55.1614008 (amenity) (restaurant) The Vineyard
+3694 25.0732286 55.1383098 (shop) (supermarket) Marina Mini Mart
+3696 25.0736561 55.138055 (shop) (laundry) ER Laundry
+3697 25.0705999 55.1351368 (amenity) (marketplace) Pampered Pets
+3698 25.0703229 55.1338469 (shop) (hairdresser) Mist Spa
+3699 25.0733233 55.136746 (amenity) (restaurant) Kitchen Cafe
+3700 25.070165 55.1340666 (shop) (supermarket) Zumurud
+3701 25.0702473 55.1339483 (shop) (hairdresser) Marina Tranquility
+3702 25.0735905 55.137988 (amenity) (fast_food) Blends
+3703 25.0738238 55.1382133 (amenity) (fast_food) Potato Hut
+3706 25.0723371 55.1289011 (amenity) (fast_food) Blends
+3708 24.3121106 54.6217595 (shop) (supermarket) Carrefour
+3711 25.0116237 55.0950209 (amenity) (fast_food) KFC
+3713 25.1000801 55.1719979 (amenity) (cafe) Costa
+3714 25.0982554 55.1796239 (amenity) (bar) Rock Bottom
+3720 25.117068 55.196649 (amenity) (restaurant) Mall View Palace
+3722 24.4973804 54.3787437 (amenity) (restaurant) Pizza Hut
+3723 25.1608796 55.4058686 (shop) (florist) Online Flowers Trading
+3724 24.4325769 54.5666293 (amenity) (restaurant) Jones the Grocer
+3733 25.1104704 55.1371267 (amenity) (restaurant) West 14th
+3737 24.0585547 55.7787512 (amenity) (restaurant) Pentagon Restaurant
+3740 24.0583604 55.778717 (amenity) (cafe) Asphalt Cafe
+3742 24.0585661 55.7785266 (amenity) (fast_food) Asphalt Fastfood
+3751 25.2493219 55.2872056 (shop) (convenience) Maxim's super market
+3756 25.076178 55.1345098 (amenity) (parking) Rimal Parking P2
+3757 25.0758543 55.1334362 (amenity) (parking) Rimal Parking P3
+3758 24.0988278 54.4199295 (tourism) (museum) Emirates National Auto Museum
+3759 25.0829357 55.1402943 (amenity) (parking) Murjan Parking P1
+3760 25.0770481 55.1348383 (amenity) (parking) Rimal Parking P1
+3761 25.0803254 55.1387546 (amenity) (parking) Sadaf Parking P2
+3762 25.0771853 55.1349747 (amenity) (parking) Bahar Parking P4
+3765 24.4234846 54.5648272 (shop) (supermarket) Khalifa City A Market
+3766 24.4237118 54.5647441 (shop) (bakery) Khalifa City Bakery and Sweets
+3767 24.4205149 54.5658062 (shop) (greengrocer) Abu Ali Vegetables & Fruits Co.
+3768 24.421675 54.5654227 (amenity) (restaurant) Cone Zone
+3769 24.4218557 54.5653583 (shop) (supermarket) Supermarket Granite
+3770 24.4215528 54.5654763 (amenity) (restaurant) Rola
+3771 25.345056 55.3987147 (amenity) (bank) RakBank
+3772 25.3452517 55.3993516 (amenity) (parking) Sharjah Mega Mall Parking
+3773 25.3447457 55.3985376 (amenity) (cafe) Yogomagic
+3788 24.5536224 54.8451405 (shop) (supermarket) PX ARMY
+3789 24.20038 55.761823 (amenity) (car_rental) Europcar
+3791 25.0785863 55.1673069 (shop) (supermarket) Choitrams
+3796 25.3463046 55.3999114 (amenity) (restaurant) Golden Fork
+3797 25.3219651 55.3886247 (amenity) (restaurant) Golden Fork
+3798 25.1710411 55.3228325 (amenity) (fuel) Eppco
+3800 25.2359522 55.2796412 (amenity) (restaurant) Golden Fork
+3804 25.7654312 55.9702778 (amenity) (restaurant) Golden Fork
+3806 25.3470512 55.3996539 (amenity) (restaurant) Farhat Restaurant
+3807 25.3467797 55.4002118 (amenity) (restaurant) Chinese House
+3809 24.4396151 54.3782553 (amenity) (restaurant) HanKang
+3812 24.4314872 54.4354136 (amenity) (restaurant) Burger Hood
+3813 25.3587149 55.388858 (shop) (convenience) Day to Day
+3814 25.3454998 55.398109 (shop) (gift) Gift Palace
+3832 25.2632825 55.2997557 (amenity) (restaurant) Arabian Tea House
+3833 25.2633647 55.299892 (amenity) (restaurant) Local House
+3834 25.3454126 55.4013705 (amenity) (restaurant) Jabal al Sham
+3835 25.3452962 55.4016066 (amenity) (restaurant) Rainbow Steak House
+3836 25.3451411 55.401907 (amenity) (restaurant) Dwarka Vegetarian Restaurant
+3837 25.3453738 55.402422 (amenity) (restaurant) Shanghai Restaurant
+3840 25.3457326 55.4020357 (shop) (supermarket) Giant
+3841 25.345558 55.4010487 (amenity) (restaurant) Karachi Darbar
+3842 25.3458586 55.4005337 (shop) (supermarket) Al Madina
+3855 24.372439 54.5384438 (amenity) (fast_food) Pizza Amore
+3857 24.438666 54.5739158 (amenity) (fast_food) Subway
+3858 24.438622 54.5737602 (amenity) (fast_food) Pizza Amore
+3862 24.3932609 54.4937841 (shop) (supermarket) Spinneys
+3864 24.4751502 54.3211505 (shop) (supermarket) Marks & Spencers
+3865 24.4432965 54.3819169 (amenity) (restaurant) 19th Street Bar
+3869 24.5124782 54.3803717 (amenity) (parking) Carpet Souk Parking
+3871 24.4652824 54.3865239 (shop) (supermarket) Lulu Express
+3873 24.4661636 54.5994719 (amenity) (bar) Y bar
+3874 24.4679565 54.5979983 (amenity) (restaurant) Amerigos Mexican Bar & Restaurant
+3882 24.4819339 54.3748343 (amenity) (pharmacy) LIFELINE SCIENTIFIC
+3886 24.4891532 54.3572242 (amenity) (marketplace) The Souq Central Market
+3893 24.4684631 54.5982053 (amenity) (bar) Sands Pool Bar
+3894 24.4663443 54.5995707 (amenity) (bar) pool bar
+3895 24.4655701 54.5971447 (amenity) (bar) pool bar
+3896 25.1007052 56.3584925 (amenity) (fuel) Petrol Station
+3901 25.478493 55.5272734 (amenity) (fuel) Fuel
+3903 24.4645311 54.3482729 (amenity) (veterinary) British Veterinary Centre
+3905 25.3089093 55.3667755 (amenity) (school) Victoria International School Sharaj
+3906 24.4297429 54.4606293 (amenity) (school) Brighton College Abu Dhabi
+3907 24.3232422 54.5163432 (amenity) (fuel) ADNOC
+3912 25.416554 55.4957304 (amenity) (hospital) Khalifa Hospital
+3915 23.8877562 55.0218038 (tourism) (guest_house) Arabian Nights Village
+3923 25.1420819 55.2266574 (amenity) (auditorium) The Fridge
+3928 25.3575296 55.4451448 (amenity) (school) DRAWER SCHOOL
+3929 25.3416686 55.4302511 (amenity) (place_of_worship) Al Qassimi Hospital
+3948 25.1977146 55.2788456 (tourism) (zoo) Dubai Aquarium & Underwater Zoo
+3949 25.2288096 55.3190917 (amenity) (marketplace) Khan Murjan
+3950 25.1175589 55.1985575 (tourism) (theme_park) Ski Hall
+3952 25.1975739 55.2743429 (amenity) (restaurant) Armani/Amal
+3953 25.2587804 55.3197 (amenity) (restaurant) Table 9
+3954 25.2614604 55.3139587 (amenity) (restaurant) Ashiana
+3955 25.2173429 55.4071287 (amenity) (restaurant) P F Chang
+3956 25.0929939 55.148868 (amenity) (restaurant) Hunters Room & Grill
+3957 25.2295968 55.3186789 (amenity) (restaurant) Carter's
+3958 25.2432821 55.3418249 (amenity) (bar) The Irish Village
+3959 25.2264412 55.2841433 (amenity) (bar) Cavalli Club
+3960 25.1357038 55.1866875 (amenity) (bar) Skyview Bar
+3961 25.085947 55.14424 (amenity) (restaurant) Buddha Bar
+3962 25.2263473 55.2840585 (amenity) (bar) Cirque du Soir
+3963 25.1395457 55.2192977 (amenity) (bar) Chill Out Lounge
+3964 24.7130723 56.1863017 (amenity) (parking) Hatta Pools
+3965 24.7130982 56.1863049 (tourism) (attraction) Hatta Pools
+3967 24.6971725 56.171826 (tourism) (attraction) Rock Pools
+3969 24.3239383 54.5310259 (amenity) (bank) Uae Exchange
+3971 25.0796714 55.1419793 (amenity) (restaurant) Gusto
+3972 25.0795136 55.142366 (amenity) (restaurant) Zaatar W Zeit
+3973 25.0797273 55.1417885 (amenity) (restaurant) Moda Cafe
+3974 25.0796205 55.1417008 (amenity) (fast_food) NKD Pizza
+3975 25.0797595 55.1416258 (shop) (supermarket) West Zone
+3976 25.0795223 55.142114 (amenity) (restaurant) Fisherman's Wharf
+4000 24.4432944 54.3839794 (amenity) (restaurant) Mondo Pizzeria
+4002 25.0470081 55.1295548 (amenity) (kindergarten) Chubby cheeks Nursary
+4012 24.500152 54.3882621 (amenity) (restaurant) Jones the Grocer
+4014 25.2581318 55.2983295 (shop) (mall) MUSALLA TOWER MALL
+4024 24.488706 54.3612499 (shop) (kiosk) Turkish Airways Office
+4025 25.2357862 55.3283862 (tourism) (theme_park) Children's City
+4026 24.4763671 54.3459264 (shop) (travel_agency) Emirates
+4027 24.4826636 54.3499249 (amenity) (bank) ADCB
+4028 25.215938 55.2796567 (amenity) (bank) Russian Middle-Eastern Bank
+4031 25.1732591 55.369277 (shop) (car) Al Awir Cars Sales
+4037 24.2529559 55.8069715 (amenity) (police) Buraimi Police & Immigration
+4038 24.2490116 55.8078699 (amenity) (police) Buraimi Police & Immigration
+4039 24.2521737 55.8041926 (amenity) (hospital) Buraimi Hospital
+4045 25.1394784 55.2170815 (amenity) (restaurant) Reem Al Bawadi (Sheikh Zayed Road Branch)
+4046 25.1862186 55.2292907 (amenity) (restaurant) Reem Al Bawadi (Jumeirah Beach Road Branch)
+4047 25.197121 55.2708526 (amenity) (restaurant) Reem Al Bawadi (Downtown Branch)
+4051 24.4750574 54.32153 (shop) (bicycle) Marina Mall
+4063 25.6658779 55.8078317 (amenity) (place_of_worship) St Mary Indian Orthodox Church
+4083 24.4279951 54.6427871 (amenity) (car_rental) Hertz
+4084 24.2438307 55.7265891 (amenity) (restaurant) McDonald's
+4085 24.2503902 55.7539845 (amenity) (restaurant) Burger King, Al Jimi Restaurant
+4086 24.2252995 55.7374539 (amenity) (restaurant) Pizza Hut
+4088 24.1209746 55.6928186 (amenity) (kindergarten) Zakhir Kindergarten
+4089 24.2067229 55.7338942 (amenity) (restaurant) Pizza Felice
+4098 24.2438648 55.7263362 (shop) (supermarket) Carrefour
+4100 24.1869845 55.7616821 (amenity) (car_rental) Hertz Al Ain
+4101 24.2049864 55.7620443 (shop) (supermarket) Carrefour
+4118 24.2071442 55.7850711 (amenity) (car_rental) AVIS
+4126 24.3248715 55.6840417 (tourism) (information) Camel Racetrack
+4135 24.0892445 55.7107357 (tourism) (picnic_site) Ain Al Fayda
+4144 24.2324581 55.7733459 (amenity) (restaurant) KFC
+4146 24.2687231 55.7449162 (amenity) (restaurant) Rendez-vous
+4151 24.2451767 55.753093 (shop) (bakery) al noor bakery
+4152 24.2448539 55.753042 (shop) (supermarket) Al Noor Trading Market
+4154 24.2253487 55.7373652 (amenity) (car_wash) ADNOC
+4156 24.4936258 54.3820036 (amenity) (restaurant) Pizza Amore
+4165 24.4976954 54.3881883 (amenity) (hospital) Cleveland Clinic Abu Dhabi
+4168 25.2638815 55.290402 (amenity) (parking) Ghubaiba Parking
+4169 25.1799425 55.377839 (shop) (supermarket) Samari Supermarket
+4171 25.228984 55.2732684 (shop) (supermarket) Al Maya Supermarkt
+4178 24.4843972 54.3618911 (shop) (supermarket) Al Safa Supermarket Electra Street
+4179 24.4845046 54.365217 (shop) (department_store) KM Shopping Centre
+4180 24.4951558 54.3735947 (shop) (department_store) KM Trading
+4181 24.4860073 54.3640782 (shop) (department_store) KM Trading
+4182 24.4746123 54.3500449 (shop) (department_store) KM Trading
+4183 24.4890732 54.3571367 (shop) (department_store) KM Trading
+4184 24.4848942 54.3603446 (shop) (hifi) KM Trading
+4186 24.2073694 55.7842664 (shop) (alcohol) High Spirits
+4187 25.2613956 55.2951996 (shop) (jewelry) Javeri Jewellery
+4188 24.4958547 54.38278 (amenity) (embassy) Embassy of the Federal Republic of Germany
+4189 24.4792366 54.3829062 (amenity) (car_rental) Hertz
+4193 24.4922649 54.3816038 (amenity) (nightclub) Indian Night Club
+4194 25.0486314 55.1292534 (shop) (convenience) Better Grocery
+4195 25.0490823 55.1307732 (amenity) (restaurant) Breakfast to Breakfast
+4196 25.0486155 55.1290958 (amenity) (fast_food) Domino's Pizza
+4197 25.0487551 55.1296912 (amenity) (restaurant) New Midnight Cafe & Restaurant
+4199 25.0490969 55.1309243 (shop) (supermarket) Sunrise City Supermarket
+4200 25.1885397 55.2644429 (shop) (supermarket) Spinneys
+4201 25.1860647 55.2567569 (amenity) (parking) Executive Towers parking - West
+4207 25.2447954 55.304964 (shop) (supermarket) Family Supermarket
+4208 25.2380689 55.3022891 (amenity) (restaurant) Ajanta Restaurant
+4209 25.2390043 55.3019089 (amenity) (restaurant) Himalaya Restaurant
+4211 25.2387107 55.302963 (amenity) (restaurant) Sind Punjab Restaurant
+4213 25.0970562 55.1787933 (amenity) (restaurant) Lila Cafe
+4216 25.1056646 55.1688021 (shop) (supermarket) Aswaaq
+4218 25.342727 55.387244 (shop) (supermarket) Spinneys
+4219 25.332069 55.393561 (shop) (hifi) E-Max Electronics Store
+4221 25.331569 55.392895 (amenity) (bank) HSBC
+4222 25.3311077 55.3942382 (shop) (car) Hyundai Showroom
+4223 25.3349246 55.3906451 (amenity) (bank) Sharjah Islamic Bank
+4224 25.3321452 55.390127 (amenity) (bank) National Bank of Abu Dhabi (NBAD)
+4225 25.3336165 55.3892292 (amenity) (fast_food) Pizza Hut
+4226 25.3334625 55.3893229 (shop) (null) Krispy Kreme
+4227 25.3337271 55.3890473 (amenity) (fast_food) Baskin Robbins
+4228 25.3315295 55.3978761 (shop) (hardware) Ace Hardware
+4229 24.3868029 54.6641702 (amenity) (fuel) ADNOC
+4231 24.497922 54.3781565 (shop) (alcohol) African & Eastern
+4232 24.4975991 54.3785474 (amenity) (restaurant) TGI Fridays
+4233 24.502694 54.3739691 (amenity) (restaurant) Rock Bottom Cafe
+4234 24.5025793 54.3738994 (shop) (alcohol) High Spirit
+4239 25.1381086 55.1979413 (amenity) (kindergarten) Kids Palace Nursery
+4240 24.4839475 54.3763835 (amenity) (car_rental) Hertz
+4242 24.3971165 54.5114321 (amenity) (restaurant) Burger King
+4244 24.5124628 54.3715857 (amenity) (restaurant) Marka
+4245 24.5102766 54.3707918 (amenity) (restaurant) Al Dafra
+4258 25.1142022 55.2054057 (amenity) (restaurant) Shawarmaji Restaurant and Coffee Shop
+4259 24.4280904 54.6428474 (amenity) (car_rental) Dollar Rent a Car
+4260 24.4279267 54.6428796 (amenity) (car_rental) Payless
+4262 24.4280098 54.6427629 (amenity) (car_rental) Europcar
+4263 24.4279585 54.6428327 (amenity) (car_rental) Thrifty Car Rental
+4267 25.2220331 55.2586133 (amenity) (cafe) Maxine Cafe
+4268 25.2121618 55.2575703 (amenity) (pharmacy) Life Pharmacy
+4269 25.2113011 55.2571562 (amenity) (bank) Emirates Bank
+4270 25.2064489 55.2689428 (shop) (bakery) La Marquise
+4271 25.1980377 55.2459049 (amenity) (embassy) Consulate General of Algeria
+4284 24.4228307 54.4339626 (amenity) (embassy) Embassy of Armenia
+4291 24.4269798 54.432727 (amenity) (embassy) Embassy of Afghanistan
+4294 25.0304138 55.2862118 (shop) (supermarket) West Zone Supermarket
+4297 25.0747915 55.1328278 (shop) (supermarket) Al Maya
+4298 25.0746899 55.1337017 (amenity) (cafe) Starbucks
+4299 24.4952572 54.3843666 (amenity) (restaurant) Indigo
+4300 24.4953429 54.3844844 (amenity) (restaurant) Prego's
+4301 24.4951608 54.3842523 (amenity) (restaurant) Rodeo Grill
+4302 24.2643019 54.5524924 (amenity) (restaurant) Buffet
+4311 24.256247 54.5531307 (amenity) (hospital) Al Dhafra Hospital
+4312 24.2697156 54.5512854 (amenity) (bank) ADCB
+4334 25.1334445 55.186659 (amenity) (parking) Car Parking - Souk Madinat Jumeirah
+4337 25.3428522 55.3838591 (amenity) (restaurant) Sharjah Dhow Restaurant
+4338 25.3386572 55.3942521 (shop) (car) Alaad Used Car
+4339 25.3387788 55.3943577 (shop) (hardware) Elmech Technical Works
+4340 25.3396452 55.3883361 (amenity) (pharmacy) Aster Pharmacy
+4341 25.3375686 55.3968894 (shop) (supermarket) City Center Supermarket
+4358 25.3320353 55.3927185 (amenity) (restaurant) Saravana Bhavan
+4360 24.0907991 55.9332957 (shop) (greengrocer) Nadi Zakher
+4361 24.0906522 55.9334352 (amenity) (place_of_worship) Ma'dad Masjid
+4362 24.0955065 55.9269684 (amenity) (place_of_worship) Um Ghafa Eid Masjid
+4363 25.2643353 55.3293903 (shop) (travel_agency) The Travel Market LLC
+4364 25.2554187 55.3036152 (amenity) (restaurant) Aryaa's
+4366 25.2572999 55.2998423 (shop) (supermarket) Apsara
+4372 25.2646739 55.2968828 (amenity) (place_of_worship) Srinathji Temple
+4373 25.093768 55.156843 (amenity) (atm) HSBC
+4374 25.193024 55.260345 (shop) (car) Deals on Wheels
+4375 25.201155 55.27287 (amenity) (restaurant) Hey Pesto
+4378 25.1977216 55.281646 (amenity) (parking_entrance) Cinema Parking Dubai Mall
+4379 25.1963382 55.282161 (amenity) (parking_entrance) Cinema Parking Dubai Mall
+4382 25.402107 55.4373158 (shop) (supermarket) Manama Supermarket
+4383 25.3919009 55.4367746 (amenity) (bank) Ajman Bank
+4386 25.3873774 55.4613463 (amenity) (school) Al Hikmah School
+4387 25.3917116 55.435219 (shop) (supermarket) Al Maya Supermarket
+4388 25.3927105 55.429818 (shop) (car) Al Nuaimi Motors
+4389 25.3759597 55.4616393 (shop) (car_repair) Arabian Automobiles
+4390 25.379502 55.4604318 (amenity) (bank) Dubai Islamic Bank
+4391 25.4068322 55.4311939 (amenity) (fast_food) Hardee's
+4392 25.4007007 55.4958686 (amenity) (school) International Indian School
+4393 25.3865784 55.4455769 (amenity) (restaurant) Juraif for Mandi
+4394 25.4074227 55.4315166 (amenity) (fast_food) KFC
+4395 25.3914155 55.4395377 (shop) (bakery) Lebanon Spring Bakery
+4396 25.4118571 55.4441971 (amenity) (bank) Mashreq Bank
+4397 25.3772255 55.4561769 (shop) (supermarket) Nesto Supermarket
+4398 25.3901604 55.449384 (amenity) (pharmacy) New Al Madeenah Pharmacy
+4399 25.3886204 55.4347239 (shop) (supermarket) Sharjah Co-Op Society
+4400 25.4113176 55.4441115 (amenity) (bureau_de_change) UAE Exchange
+4403 25.3925874 55.4377276 (amenity) (fuel) Emarat
+4404 25.399282 55.4346063 (amenity) (fuel) Emarat
+4412 25.3783143 55.4634668 (shop) (supermarket) Nesto Hypermarket
+4414 24.4844658 54.3630399 (amenity) (parking) Cristal Hotel
+4417 24.4888514 54.6129555 (amenity) (parking_entrance) Covered, South Entrance
+4423 25.4125075 55.4437813 (shop) (convenience) Al Adil Trading
+4424 25.4066569 55.4424772 (shop) (supermarket) Al Manama Hypermarket
+4425 25.4127192 55.4443695 (amenity) (bank) Commercial Bank of Dubai
+4426 25.4070203 55.4442202 (shop) (supermarket) Lulu Hypermarket
+4427 25.4001866 55.4364698 (amenity) (social_facility) Umm Al Moumineen Women's Association
+4428 25.3902015 55.449063 (shop) (stationery) Al Wesam Stationery
+4429 25.3896814 55.4493484 (amenity) (gym) Emirates Body Fitness
+4430 25.3901301 55.449722 (shop) (convenience) Qawafi Supermarket
+4431 25.3888939 55.4503614 (shop) (convenience) Bait Al Madina
+4432 25.3860995 55.4562293 (amenity) (pharmacy) Al Madeenah Pharmacy
+4433 25.3861103 55.4588706 (amenity) (pharmacy) Al Makkah Pharmacy
+4435 25.3886973 55.4503285 (amenity) (fast_food) Al Lulu Cafeteria
+4436 25.3887209 55.4500997 (shop) (convenience) Al Ruken Al Soori
+4437 25.388624 55.4507552 (shop) (travel_agency) Al Zahra Travels & Tours
+4438 25.3893903 55.4511538 (shop) (hairdresser) Amoorah Beauty Saloon
+4439 25.3890217 55.4511401 (shop) (null) Elsalmlek Cafeteria & Coffee shop
+4440 25.3888438 55.4491957 (shop) (hairdresser) Retaj Beauty Saloon
+4441 25.3887974 55.4495595 (shop) (laundry) White Rose Laundry
+4443 25.1047397 55.1681453 (amenity) (restaurant) Oregano
+4461 24.2633778 55.7665007 (shop) (supermarket) Oasis Mall Al Ain
+4463 25.3924532 55.4324891 (amenity) (bank) First Gulf Bank
+4464 25.3931281 55.4328242 (shop) (charity) Human Appeal International
+4465 25.3877991 55.4187132 (amenity) (fast_food) KFC
+4466 25.3928354 55.4350919 (amenity) (restaurant) Karachi Darbar
+4467 25.391808 55.4381526 (amenity) (bank) National Bank of Fujairah
+4469 25.2520793 55.2894158 (shop) (electronics) Sharaf DG Express
+4482 25.2711409 55.3533823 (amenity) (courthouse) Traffic Court
+4489 25.5029344 55.5507281 (shop) (supermarket) Manama
+4490 25.548035 55.5448882 (amenity) (fast_food) Mcdonalds
+4491 25.5738649 55.5602055 (amenity) (hospital) Umm Al Quwain Hospital
+4496 25.3956859 55.4922666 (shop) (supermarket) Al Hooth
+4497 25.3948492 55.4943286 (shop) (supermarket) Al Madina
+4499 25.1491988 55.2462211 (shop) (supermarket) Al Khail Mall
+4500 25.1351644 55.2534994 (shop) (supermarket) Al Manama Hypermarket
+4516 25.206592 55.267974 (amenity) (car_wash) Express car wash
+4517 25.20651 55.268167 (amenity) (compressed_air) BP Grand Lube
+4518 25.1957399 55.281889 (amenity) (parking_entrance) Cinema Parking Dubai Mall P5-P10
+4519 25.1965195 55.2823688 (amenity) (parking) Grand Parking
+4520 25.2651767 55.4253617 (shop) (supermarket) Al Madina Supermarket
+4521 25.2815773 55.4114889 (amenity) (fast_food) Mcdonalds
+4525 25.1970512 55.282837 (amenity) (parking_entrance) Grand Parking
+4527 25.2600165 55.2938072 (amenity) (hospital) Aster Medical Centre (Aster Jubilee Medical Complex)
+4529 25.2600139 55.2930151 (shop) (supermarket) Talal Super Market
+4530 25.2611103 55.2925817 (amenity) (restaurant) Sind Punjab Restaurant
+4531 25.2619917 55.2917305 (amenity) (restaurant) Golden Fork Restaurant
+4532 25.2620299 55.2907049 (shop) (supermarket) Al Madina Supermarket
+4534 25.2624963 55.2897976 (amenity) (restaurant) Puranmal
+4535 25.2616908 55.2948937 (amenity) (restaurant) Bhavna
+4536 25.1709737 55.2421538 (amenity) (bank) National Bank Of Abudhabi
+4537 25.2601734 55.2929959 (amenity) (restaurant) Mithash Sweets
+4538 25.2602438 55.2929852 (amenity) (restaurant) Sukh Sagar
+4539 25.2603311 55.2929772 (amenity) (restaurant) Chavadi
+4540 25.2598411 55.2930335 (amenity) (restaurant) Red Onion
+4541 25.2609206 55.2926714 (amenity) (restaurant) Sangeetha Vegetarian Restaurant
+4542 25.2620606 55.29416 (amenity) (restaurant) Vaibhav
+4543 25.2625264 55.2941922 (amenity) (bank) Emirates NBD Bank
+4545 25.2648235 55.2968261 (amenity) (place_of_worship) Hindu Temple
+4546 25.2619707 55.2898233 (amenity) (school) Emirates Driving Institute
+4547 25.2620334 55.2898348 (amenity) (school) Belhasa Driving Institute
+4548 25.2614297 55.291668 (amenity) (restaurant) Hotel Vasantha Bhavan
+4550 25.2629364 55.2997509 (shop) (supermarket) Al Adil Super Market
+4551 25.2620429 55.2972222 (amenity) (restaurant) Puranmal
+4553 25.1479533 55.2459785 (shop) (supermarket) Grand Hypermarket
+4554 25.1524975 55.226921 (amenity) (bank) Emirates NBD
+4558 25.397892 55.4312567 (amenity) (fast_food) Pizza Hut
+4561 25.3973397 55.4950939 (amenity) (fuel) Adnoc
+4568 24.5010063 54.3896958 (shop) (mall) The Galleria, Main Entrance
+4569 24.4706799 54.3723287 (shop) (mall) Al Wahda Mall, Main Entrance
+4572 25.1532619 55.2378175 (shop) (newsagent) Khaleej Times
+4574 25.149602 55.2453803 (amenity) (restaurant) New Wide Range
+4575 24.4852257 54.3561478 (amenity) (hospital) Ansari Medical Centre
+4577 25.0274388 55.1136112 (amenity) (place_of_worship) Gurunanak Darbar Sikh Temple (gurudwara) Building
+4581 25.3884399 55.4777235 (shop) (supermarket) Al Jaleel Wholesale Point
+4588 25.0988712 55.1753009 (amenity) (restaurant) New Wide Range
+4589 25.3614588 56.3486627 (tourism) (picnic_site) Khorfakkan Beach
+4590 25.21074 55.3115743 (amenity) (hospital) Dubai Herbal And Treatment Centre
+4591 24.4709366 54.3442218 (amenity) (fast_food) KFC
+4650 25.194962 55.277181 (amenity) (restaurant) Souk al Bahar
+4658 25.133665 55.184653 (amenity) (restaurant) Toscana
+4660 24.3231584 54.5203977 (amenity) (bank) HSBC
+4661 25.0693219 55.1423788 (amenity) (university) Synergy University Dubai
+4670 25.3415522 55.409239 (amenity) (fuel) ADNOC Service Station
+4676 25.2934616 55.4518418 (amenity) (school) Delhi Private School
+4677 25.2924253 55.4509725 (amenity) (school) Rosary School
+4678 25.2947541 55.4526856 (amenity) (school) Gulf Asian English School
+4679 25.2948767 55.4495552 (amenity) (school) Wesgreen Internationaal School
+4680 25.2962881 55.4536892 (amenity) (school) Star international School
+4681 25.2917731 55.4547245 (amenity) (school) Indian International School
+4682 25.2929477 55.4555974 (amenity) (school) Sharjah British School
+4683 25.2904699 55.4538719 (amenity) (school) Scholars International School
+4684 25.2896807 55.4554756 (amenity) (school) Delta English School
+4685 25.291975 55.4576071 (amenity) (school) Our Own English High School Shj(Boys)
+4694 25.1748642 55.2558181 (amenity) (cafe) Cafe Fiesta Zone
+4697 25.1739813 55.2510085 (amenity) (place_of_worship) MASJED
+4700 24.4663902 54.3750139 (amenity) (restaurant) Inner Mongolian Xiao Wei Yang Little Lamb Hot Pot Restaurant
+4733 25.2711968 55.3764259 (amenity) (clinic) Joseph Qusais Polyclinic
+4734 25.2715396 55.3764563 (amenity) (pharmacy) Al Naseem Pharmacy
+4736 25.2716814 55.3766482 (shop) (supermarket) Talal Super Market
+4745 25.2423775 55.3058599 (amenity) (restaurant) Saravana Bhavan
+4748 25.200689 55.274942 (amenity) (atm) HSBC
+4751 25.2880813 55.3924622 (amenity) (restaurant) Pathan Resturant - Qusais
+4754 25.2872567 55.391856 (shop) (department_store) Shair Al Madina Supermarket
+4757 25.2825614 55.3877656 (amenity) (bank) Bank Of Baroda
+4758 25.2819672 55.3894286 (shop) (supermarket) West Zone Super Market
+4787 24.3231713 54.5205569 (amenity) (bank) NBAD
+4788 24.3229694 54.5204652 (amenity) (restaurant) Signature
+4789 24.3232096 54.5208319 (shop) (supermarket) Circle K
+4805 25.2109179 55.2760152 (amenity) (cafe) Starbucks Coffee
+4807 24.2748382 54.6524362 (amenity) (hospital) Central Veterinary Hospital
+4808 24.4730741 54.3773913 (shop) (supermarket) Spinneys
+4809 24.472121 54.3782363 (amenity) (post_office) Aramex
+4821 25.1541193 55.2309958 (shop) (car_repair) Infiniti Service Centre
+4822 25.1539833 55.2311943 (shop) (car_repair) Renault Service Centre
+4861 25.3430079 55.3910065 (amenity) (Grill, Cebab) Al Safadi
+4862 25.221093 55.281036 (amenity) (fast_food) McDonalds
+4863 24.4007321 54.5763386 (amenity) (restaurant) Maroosh
+4864 24.4007829 54.5758546 (amenity) (bank) ADCB Abu Dhabi Commercial Bank
+4865 24.4006299 54.5763689 (amenity) (restaurant) Krispy Kreme
+4866 24.4004439 54.5763976 (amenity) (restaurant) Dukkan Falafel
+4867 24.4007346 54.5756063 (amenity) (restaurant) Baskin Robbins
+4868 24.4008757 54.5763106 (amenity) (restaurant) Tandoor Express
+4870 24.4232101 54.5592458 (amenity) (kindergarten) Windsor Early Years Nursery
+4871 24.4971952 54.3786188 (amenity) (fast_food) KFC
+4910 24.3437133 54.5310327 (amenity) (restaurant) Sangeetha Vegetarian Restaurant
+4915 25.0636627 55.15749 (shop) (supermarket) Spinney's
+4916 25.0648166 55.1560348 (amenity) (school) EIS - Meadows
+4920 24.4505052 54.601288 (amenity) (restaurant) Nolu's Cafe
+4921 25.1695694 55.2381336 (amenity) (school) The English College
+4923 24.4721795 54.3457878 (amenity) (bank) Standard Chartered Bank
+4934 24.3122295 54.6205603 (amenity) (cinema) Grand Cinemas
+4935 24.3119558 54.6203243 (shop) (convenience) Centerpoint
+4936 25.2590744 55.423209 (amenity) (post_office) Muhaisnah Post Office
+4939 25.2101918 55.2435344 (amenity) (cafe) Sea More Cafe
+4940 25.2321443 55.2641364 (amenity) (cafe) Lime Tree Cafe
+4942 25.1141235 55.3808978 (amenity) (cafe) Costa
+4943 25.1139632 55.3809193 (shop) (alcohol) MMI
+4944 25.1139729 55.3806698 (amenity) (atm) HSBC
+4945 25.1141016 55.3806672 (amenity) (bank) Orient Exchange
+4946 25.1139802 55.3807289 (shop) (hairdresser) Supertrim
+4947 25.1265734 55.3968741 (shop) (alcohol) MMI
+4948 25.7882694 55.9929812 (amenity) (university) American University of Ras Al Khaimah
+4950 25.114123 55.3807863 (shop) (books) Spinneys Bookstore
+4951 25.1134825 55.380556 (amenity) (restaurant) Al Arrab
+4954 25.233555 55.2788687 (amenity) (restaurant) Ravi
+4955 25.2341374 55.2810574 (amenity) (restaurant) Pars
+4956 25.2973917 55.3901279 (amenity) (place_of_worship) Masjid al Muthaqeen
+4957 25.2935384 55.3758308 (shop) (supermarket) Al Madina
+4958 24.373808 54.4879389 (shop) (car_repair) Premier Motors Ford, Jaguar & Land Rover Service Centre
+4960 24.4563867 54.6717268 (amenity) (kindergarten) Smart Learning Nurseries
+4961 24.4560936 54.668478 (amenity) (restaurant) Rez B Haleeb
+4963 25.2597808 55.3267771 (amenity) (restaurant) China Gate (Hot Pot)
+4964 25.2593784 55.3252275 (amenity) (restaurant) China Sea
+4969 25.1295458 55.1529364 (amenity) (restaurant) Crescendo
+4970 25.1293644 55.1524628 (amenity) (bar) Mai Bar
+4971 25.4215865 56.1163299 (amenity) (bank) Commercial Bank Of Dubai
+4972 25.1291121 55.1538057 (amenity) (restaurant) Mekong
+4973 25.1301695 55.1535069 (amenity) (restaurant) Bushman's
+4974 25.1296615 55.1541243 (amenity) (bicycle_rental) Anantara Resort Station
+4979 24.4008103 54.5760033 (amenity) (restaurant) Just Kabab
+4980 25.1300313 55.151968 (amenity) (restaurant) The Beach House
+4986 25.1906256 55.2660338 (amenity) (restaurant) The Pizza Guys
+4988 24.4700619 54.3421246 (shop) (supermarket) Spar
+4989 25.0456551 55.1329297 (amenity) (post_box) PO Box, Street 2, Discovery Gardens, Dubai, UAE
+4994 25.0406714 55.1408705 (amenity) (place_of_worship) Mosque
+4997 25.0347795 55.1472018 (shop) (vacant) Discovery Pavilions (empty - completed 02-2014)
+5003 25.049047 55.1320666 (amenity) (restaurant) Mother's Restaurant
+5006 25.039732 55.1416434 (amenity) (post_box) PO Postal Box Street 6A, Discovery Gardens, Dubai, UAE
+5012 25.0823958 55.1425256 (amenity) (restaurant) Massimo's Italian Restaurant
+5024 25.0725738 55.1370268 (amenity) (restaurant) Better Grill
+5025 25.0740509 55.1368524 (amenity) (restaurant) Sarpino's
+5026 25.0751927 55.137633 (amenity) (restaurant) Barracuda
+5027 25.0754624 55.1382257 (amenity) (restaurant) La Gaufrette
+5028 25.0754915 55.1384376 (amenity) (restaurant) Bazerkan
+5029 25.0753361 55.1377993 (amenity) (restaurant) Chez Sushi
+5031 25.6836485 55.7728848 (amenity) (bar) Irish Pub
+5034 25.7954815 55.9749126 (shop) (supermarket) Nesto
+5037 25.7958055 55.9750837 (shop) (supermarket) Kerla
+5047 25.2542048 55.3061186 (amenity) (embassy) South African Consulate General
+5050 25.1660178 55.2376034 (shop) (motorcycle) Harley-Davidson
+5053 25.0855127 55.1438855 (amenity) (hospital) Health Avenue Polyclinics
+5054 25.2831061 55.3893582 (amenity) (bank) RAK Bank
+5055 25.085336 55.1417994 (amenity) (hospital) Emirates Hospital
+5057 25.0772412 55.1551174 (shop) (supermarket) Carrefour
+5058 24.3803593 54.4780312 (amenity) (fuel) Adnoc Petrol Pump
+5059 24.4890038 54.3728253 (amenity) (restaurant) Lebanese Mill Restaurant
+5060 25.2935933 55.362244 (shop) (supermarket) Al Manama Hypermarket
+5061 25.0915509 55.1347104 (tourism) (attraction) Skydive Dubai
+5070 25.0859824 55.1432521 (amenity) (bar) Embassy
+5071 25.1566776 55.2161419 (amenity) (kindergarten) Aspin Nursery
+5076 25.0762517 55.1460689 (amenity) (restaurant) Mister Baker
+5077 25.0747867 55.1452764 (amenity) (restaurant) Mister Baker
+5080 25.2705995 55.3219847 (amenity) (hospital) Prime Medical Centre
+5081 25.2393813 55.2706586 (shop) (department_store) Jumeirah Terrace
+5082 24.3149925 56.1260716 (tourism) (viewpoint) Gorge View
+5083 24.491083 54.3942205 (shop) (supermarket) Geant
+5084 24.4908857 54.3953552 (shop) (laundry) White Cat Laundry
+5085 24.4965995 54.3821331 (shop) (supermarket) Ahu Dhabi Mall Co-op
+5086 24.4952424 54.3831416 (amenity) (cafe) Tim Horton's
+5087 25.2758185 55.3321543 (shop) (electronics) Hor Al Anz Electronics
+5088 25.2725327 55.3713511 (amenity) (bank) UAE Exchange
+5090 25.2748586 55.3744822 (shop) (supermarket) Hayat Al Madina
+5091 24.220869 55.766955 (amenity) (toilets) Muncipal Toilet
+5096 25.077846 55.133147 (amenity) (toilets) Toilet
+5097 25.0782323 55.1335888 (amenity) (cinema) Reel Cinema - The Beach
+5098 25.077493 55.133826 (amenity) (restaurant) Sukh Sagar
+5100 25.0765369 55.1312 (amenity) (restaurant) Awani
+5101 25.076698 55.131308 (amenity) (restaurant) La Pasteria
+5102 25.076712 55.131391 (amenity) (restaurant) Bahria
+5103 25.077087 55.13168 (amenity) (restaurant) Shake Shack
+5104 25.077456 55.131938 (amenity) (restaurant) pizzaioli emigranti
+5105 25.077566 55.132256 (amenity) (restaurant) House of Curry
+5107 25.07691 55.132307 (amenity) (ice_cream) Merelli's
+5108 25.0768101 55.133233 (amenity) (cafe) Starbucks
+5109 25.0763126 55.1319592 (amenity) (fast_food) Operation Falafel
+5110 25.076721 55.132211 (amenity) (toilets) Toilets
+5112 25.076441 55.131853 (amenity) (cafe) Pappa Rotti
+5113 25.076178 55.131562 (shop) (chemist) Sephora
+5114 25.076441 55.131853 (shop) (erotic) Victorias's Secret
+5115 25.076407 55.131622 (amenity) (restaurant) La Pastreria
+5116 25.07624 55.13252 (amenity) (restaurant) Paul
+5118 25.076785 55.132971 (amenity) (restaurant) La Dolce Vota
+5119 25.076952 55.133038 (amenity) (restaurant) Wok Away
+5121 25.076974 55.133364 (amenity) (restaurant) Margherita
+5122 25.077437 55.133662 (amenity) (restaurant) UMI Fusion
+5123 25.0735047 55.1379482 (shop) (estate_agent) Hunter & Hunter
+5124 25.0726042 55.1380987 (shop) (massage) dreamworks SPA Wellness Massage Centre
+5125 25.0695939 55.1341052 (shop) (laundry) One Wash Laundry
+5126 25.0763499 55.1350571 (amenity) (restaurant) Le Parisien
+5128 25.0708991 55.1331301 (amenity) (restaurant) Decebal
+5129 25.0707592 55.1330001 (amenity) (restaurant) le Pirate
+5130 25.0696252 55.1341879 (amenity) (restaurant) Saravanaa Bhojan Shala
+5131 25.071158 55.1348534 (amenity) (nightclub) Society
+5132 25.07766 55.132529 (amenity) (restaurant) Aprons & Hammers
+5133 25.077854 55.132813 (amenity) (restaurant) Leopold's of London
+5134 25.0777441 55.1335085 (shop) (outdoor) Adventure HQ
+5137 25.2598229 55.3204147 (amenity) (restaurant) Mawlana
+5138 25.1094933 55.3749915 (amenity) (fuel) EPPCO
+5140 25.0757828 55.1301616 (amenity) (toilets) Shower
+5142 25.0769899 55.1313218 (amenity) (toilets) Shower
+5143 25.0713036 55.1358158 (shop) (estate_agent) Cando
+5144 25.075804 55.1352498 (shop) (bakery) Boulangerie Patisserie
+5145 25.0784833 55.1350501 (amenity) (fast_food) Burger Fuel
+5146 25.0790224 55.1356205 (amenity) (fast_food) Subway
+5147 25.0785524 55.1353198 (amenity) (cafe) Il Caffe di Roma
+5148 25.0778235 55.1321839 (amenity) (toilets) Shower
+5150 25.0759128 55.140413 (amenity) (parking) Marina Mall Parking
+5152 25.2834427 55.3412496 (amenity) (marketplace) Hamria Shopping Centre
+5159 25.2181651 55.2688194 (amenity) (kindergarten) Al-Manhal Kindergarten
+5166 25.2750744 55.3536955 (amenity) (parking) Parking Building
+5170 24.509873 54.370497 (amenity) (fuel) Adnoc Fuel
+5171 24.5104539 54.3704192 (amenity) (cafe) Las Vegas Coffee Shop
+5172 24.4995182 54.3721409 (shop) (supermarket) Seven Emirates Supermarket
+5173 24.501955 54.3734562 (amenity) (restaurant) Samurai Japanese
+5174 24.5008182 54.3742529 (amenity) (restaurant) Oasis Chinese
+5176 24.4919137 54.3592609 (amenity) (restaurant) Rock Restaurant
+5177 24.4132973 54.4756173 (amenity) (library) The Library of Sheikh Zayed Grand Mosque
+5179 24.5069883 54.3724092 (tourism) (viewpoint) Watch Tower
+5180 24.5071178 54.3731469 (amenity) (fast_food) Juices World
+5181 25.0783917 55.133061 (amenity) (restaurant) Eggspectation
+5182 25.0733732 55.1385354 (amenity) (restaurant) Apachi Restaurant & Cafe
+5196 25.8010749 55.9736166 (shop) (supermarket) Manamh Supermarket
+5197 25.8014178 55.973638 (shop) (supermarket) Rak Palce
+5198 25.8029877 55.9725547 (amenity) (police) immigration
+5199 25.8028715 55.9731553 (amenity) (post_office) Impost
+5202 24.5245399 54.4324608 (amenity) (parking) NYUAD Parking West
+5205 24.5225047 54.4346231 (amenity) (parking) NYUAD Parking East
+5208 24.5252696 54.4328285 (shop) (null) Starbucks
+5212 24.5226802 54.4356861 (shop) (null) Starbucks
+5213 24.9836852 55.2153893 (amenity) (parking) Visitor's Parking
+5216 24.4539214 54.6710664 (shop) (supermarket) Select Market
+5223 25.2089086 55.3617337 (shop) (car_repair) al futtaim  toyota motors
+5224 25.2088866 55.3620288 (shop) (car) al futtaim toyota motors
+5225 24.4862353 54.3812648 (shop) (model) Hobby Centre
+5226 24.3346243 54.5334768 (shop) (hobby) Baja Hobbies Toys Trading
+5227 25.1050504 55.1685202 (shop) (hifi) CyViz 116 Bldng C 3rd Floor
+5229 25.358833 56.3491645 (amenity) (restaurant) Aish W Melh
+5230 25.3958823 56.2690773 (tourism) (attraction) Wadi Wurayah Waterfall
+5237 25.2671038 55.297959 (amenity) (ferry_terminal) Deira Old Souk
+5239 24.4955946 54.3755927 (shop) (supermarket) Spar Express
+5240 24.4969354 54.3740268 (amenity) (bank) Al Masraf Bank
+5241 24.493035 54.3746074 (amenity) (bank) Abu Dhabi Commercial Bank Head Office
+5242 24.4971323 54.3745734 (amenity) (bank) National Bank of Umm Al Qaiwain
+5244 24.4941945 54.3743728 (amenity) (bank) Mashreq Bank
+5245 24.4950172 54.3737549 (shop) (department_store) Sidiq Gifts
+5249 25.10455 55.16841 (amenity) (fast_food) Subway
+5252 25.0638689 55.1577043 (amenity) (cafe) Costa
+5254 25.0539924 55.1712502 (amenity) (cafe) Tim Horton's
+5256 25.0539627 55.1711094 (amenity) (cafe) Starbucks
+5259 25.2977688 55.3825164 (amenity) (restaurant) Paratha king
+5260 24.4630446 54.3620264 (amenity) (fast_food) Burger King
+5270 25.2700941 55.3250122 (amenity) (bank) Dubai Islamic Bank
+5271 25.2711047 55.3305792 (amenity) (bank) Emirates NBD
+5272 25.2717933 55.3303408 (amenity) (restaurant) Anapoorna Vegetarian Restaurant
+5273 25.273462 55.3298929 (amenity) (restaurant) Calicut Notebook
+5274 25.2740183 55.3261748 (amenity) (restaurant) Hotel Saravana Bhavan
+5275 25.2719874 55.3259045 (amenity) (cafe) Najeela
+5276 25.2678758 55.3208579 (amenity) (restaurant) Aroos Damascus
+5277 25.2674021 55.3205381 (shop) (supermarket) Asheknani
+5279 25.2652588 55.319325 (amenity) (restaurant) Haagen-Dazs
+5281 25.2745317 55.3256792 (shop) (supermarket) Happy Land
+5282 25.2740911 55.3270358 (shop) (hairdresser) Manchester Saloon
+5283 25.274028 55.3269634 (amenity) (restaurant) Silver Eagle Restaurant
+5284 25.2740324 55.3264919 (shop) (photo) Photo Express
+5285 25.2739552 55.3260515 (amenity) (restaurant) BBQ World
+5286 25.2719898 55.3258669 (shop) (supermarket) Suroor Mefta Grocery
+5287 25.2700055 55.3219416 (shop) (supermarket) Al Maya
+5289 25.2655932 55.3305037 (shop) (department_store) Al Kabayal Discount Center
+5290 25.2661951 55.3300726 (amenity) (bank) Mashreq Bank
+5291 25.2700833 55.3288978 (shop) (supermarket) Shop Wise Supermarket
+5297 25.273034 55.3300842 (amenity) (pharmacy) Mother Pharmacy
+5300 25.277281 55.327674 (amenity) (pharmacy) Life Pharmacy
+5301 25.2740522 55.3267918 (shop) (hairdresser) Timeless Saloon
+5302 25.2740786 55.3213998 (amenity) (restaurant) Karachi Darbar
+5303 25.2741005 55.3215768 (amenity) (restaurant) Farooj
+5304 25.2744958 55.3215634 (shop) (supermarket) West Zone Supermarket
+5306 25.2705544 55.324428 (shop) (supermarket) A to Z Supermarket
+5308 25.2705603 55.3190203 (amenity) (restaurant) KFC
+5309 25.2705628 55.318913 (amenity) (restaurant) Pizza Hut
+5310 25.2682055 55.3075047 (shop) (supermarket) Choitrams
+5311 25.2680912 55.3051536 (amenity) (restaurant) Hatam Al Thai
+5312 25.2680937 55.3050115 (amenity) (restaurant) Shiraaz Nights
+5313 25.2685606 55.3034598 (shop) (clothes) Giordano
+5314 25.2685559 55.3035442 (amenity) (bureau_de_change) GCC Exchange
+5319 25.2714793 55.3297077 (shop) (supermarket) West Zone Supermarket
+5320 25.266826 55.3306301 (amenity) (bank) Al Ahli Bank of Kuwait
+5321 25.2664043 55.3305985 (amenity) (bank) Sharjah National Bank
+5323 25.2661135 55.3300619 (amenity) (bank) HSBC
+5324 25.2705734 55.3235488 (amenity) (hospital) Premier Diagnostic Center
+5325 25.2705394 55.3238666 (amenity) (restaurant) 2000 Restaurant
+5326 25.2705419 55.3239604 (amenity) (restaurant) Taza
+5327 25.2659345 55.3194054 (amenity) (fast_food) Burger King
+5328 25.2667511 55.3180385 (amenity) (restaurant) Elevation Burger
+5329 25.2670028 55.3182218 (amenity) (restaurant) Nandos
+5330 25.2679502 55.3187797 (amenity) (restaurant) Chowking
+5331 25.2671346 55.316869 (amenity) (fast_food) McDonald's
+5335 25.2677244 55.304462 (shop) (shoes) Aerosoft
+5336 25.2676169 55.3053699 (shop) (supermarket) Jesco
+5337 25.2685735 55.3042046 (shop) (electronics) Jackys
+5366 24.8269909 55.9349794 (amenity) (police) Oman Border Control
+5370 25.090169 55.148255 (shop) (supermarket) Carrefour Express
+5377 24.4451868 54.403408 (amenity) (fast_food) KFC
+5379 24.4565295 54.3911286 (amenity) (cafe) Mercato Cafeteria
+5382 25.2705744 55.3287762 (shop) (car_repair) Lube Express
+5384 25.2776642 55.3225523 (amenity) (bank) Wall Street Exchange
+5385 25.2776836 55.3224825 (shop) (supermarket) J-mart Supermarket
+5390 25.2696893 55.3094121 (amenity) (bank) Emirates NBD
+5391 25.2715788 55.3022587 (amenity) (restaurant) Wimpy's
+5392 25.2711616 55.3016525 (amenity) (bank) Wall Street Exchange Centre
+5393 25.2658399 55.3090688 (amenity) (restaurant) Daniels
+5394 25.2700634 55.3253214 (shop) (wine) Borocay
+5395 25.2701314 55.3253827 (amenity) (restaurant) Yuraku
+5396 25.2692533 55.3227863 (amenity) (fast_food) McDonald's
+5397 25.2698112 55.3220139 (shop) (clothes) Splash
+5398 25.2698063 55.3228668 (shop) (shoes) Shoemart
+5399 25.2674972 55.3215096 (amenity) (restaurant) Samad Al Iraqi
+5402 25.2739224 55.3190554 (shop) (wine) Fox & Hounds
+5405 25.2687828 55.3294382 (amenity) (restaurant) Bamboo Lagoon
+5407 25.2645379 55.3289179 (amenity) (restaurant) Domino's Pizza
+5408 25.2651201 55.3276384 (amenity) (restaurant) Bait Al Mandi
+5409 25.2652171 55.3263456 (shop) (supermarket) Al Madeena Supermarket
+5411 25.2650946 55.3264971 (amenity) (pharmacy) LIFE Pharmacy
+5413 25.2698961 55.3221506 (amenity) (atm) Emirates NBD
+5415 25.2634816 55.3146485 (amenity) (embassy) Russian Embassy
+5416 25.2634379 55.3146136 (amenity) (embassy) Denmark Embassy
+5419 25.2683763 55.3065422 (amenity) (fast_food) McDonald's
+5420 25.2683728 55.3053788 (shop) (gift) Gift Village
+5421 25.2685851 55.3037145 (amenity) (bureau_de_change) Al Dahab Exchange
+5422 25.2685657 55.3036541 (amenity) (bureau_de_change) Al Nell Exchange
+5423 25.2676379 55.3050918 (amenity) (bank) Bank Of Baroda
+5424 25.2749297 55.3294527 (amenity) (bank) Al Ansari Exchange
+5425 25.2741778 55.3276636 (amenity) (bank) Lulu Exchange
+5427 25.2705703 55.3208448 (amenity) (restaurant) Pizza Inn
+5441 25.270483 55.3249446 (amenity) (parking) RTA Public Parking
+5442 25.2704636 55.3222919 (amenity) (parking) RTA Public Parking
+5443 25.2704733 55.31921 (amenity) (parking) RTA Public Parking
+5444 25.2703812 55.317995 (amenity) (parking) RTA Public Parking
+5445 25.2701289 55.3225923 (amenity) (parking) RTA Public Parking
+5446 25.270141 55.3240058 (amenity) (parking) RTA Public Parking
+5450 25.2743263 55.3285428 (amenity) (parking) RTA Public Parking
+5453 25.2722421 55.3265893 (amenity) (parking) RTA Public Parking
+5454 25.2720868 55.3255701 (amenity) (parking) RTA Public Parking
+5455 25.2720141 55.3257471 (amenity) (parking) RTA Public Parking
+5456 25.2732292 55.3279143 (amenity) (parking) RTA Public Parking
+5457 25.2732001 55.3291696 (amenity) (parking) RTA Public Parking
+5458 25.2732365 55.3290596 (amenity) (parking) RTA Public Parking
+5459 25.2729867 55.3281638 (amenity) (parking) RTA Public Parking
+5460 25.2728654 55.3265249 (amenity) (parking) RTA Public Parking
+5461 25.2727854 55.3264874 (amenity) (parking) RTA Public Parking
+5462 25.2727538 55.3260153 (amenity) (parking) RTA Public Parking
+5463 25.2741679 55.3272545 (amenity) (parking) RTA Public Parking
+5464 25.27475 55.3283622 (amenity) (parking) RTA Public Parking
+5465 25.2745535 55.3265974 (amenity) (parking) RTA Public Parking
+5466 25.2744395 55.3255084 (amenity) (parking) RTA Public Parking
+5467 25.2743983 55.3249988 (amenity) (parking) RTA Public Parking
+5468 25.2742625 55.3240144 (amenity) (parking) RTA Public Parking
+5469 25.2742382 55.3236523 (amenity) (parking) RTA Public Parking
+5470 25.2741994 55.3232124 (amenity) (parking) RTA Public Parking
+5471 25.2741606 55.3228932 (amenity) (parking) RTA Public Parking
+5473 25.2739642 55.3214448 (amenity) (parking) RTA Public Parking
+5474 25.2738114 55.319916 (amenity) (parking) RTA Public Parking
+5475 25.2736464 55.318245 (amenity) (parking) RTA Public Parking
+5476 25.2734888 55.3166866 (amenity) (parking) RTA Public Parking
+5477 25.2737398 55.3231373 (amenity) (parking) RTA Public Parking
+5478 25.2727072 55.327396 (amenity) (parking) RTA Public Parking
+5479 24.3527545 54.6485227 (shop) (supermarket) Emirates General Market
+5480 24.3443888 55.7926961 (shop) (supermarket) Lule Hypermarket
+5482 25.5486368 55.5591107 (shop) (supermarket) Central Market
+5502 25.2614024 55.3272657 (amenity) (restaurant) China Star Restaurant
+5503 25.2582759 55.329214 (amenity) (restaurant) White Falcon Restaurant
+5506 25.2587886 55.3281057 (amenity) (restaurant) Tayyab Restaurant
+5516 25.1217777 56.346122 (amenity) (restaurant) Karachi Darbar Resturant
+5517 25.125702 56.3389829 (amenity) (restaurant) Zaman Resturant
+5521 25.114088 55.2048675 (shop) (laundry) Sparkle Oasis Laundry
+5522 25.1143535 55.2054004 (amenity) (restaurant) Red Tomato Pizza
+5526 25.2523384 55.3347187 (amenity) (embassy) BLS International / India
+5527 25.2532554 55.3332596 (shop) (supermarket) Zoom Market
+5528 25.2520279 55.3333293 (shop) (supermarket) Carrefour
+5529 25.2518727 55.3333186 (amenity) (fast_food) McDonald's
+5530 25.2517756 55.3330504 (amenity) (restaurant) KFC
+5531 25.251601 55.3332435 (amenity) (restaurant) Nando's
+5532 25.2514797 55.332986 (amenity) (restaurant) Maxx Burgers
+5533 25.2513341 55.3332113 (amenity) (cafe) Cinnabon
+5534 25.25114 55.3330825 (amenity) (cafe) Tim Hortons
+5535 25.2526878 55.3322296 (shop) (clothes) Zara
+5536 25.2524937 55.3322081 (shop) (clothes) H&M
+5537 25.2523093 55.3321277 (shop) (clothes) T.M.Lewin
+5538 25.2521104 55.332015 (shop) (clothes) Massimo Duti
+5539 25.251863 55.3317522 (shop) (clothes) Pierre Cardin
+5540 25.2516786 55.3320901 (shop) (clothes) Burberry
+5541 25.2515864 55.3317361 (shop) (clothes) Splash
+5542 25.2518387 55.3313284 (shop) (clothes) Max
+5543 25.2522463 55.331087 (shop) (clothes) Mango
+5544 25.2529255 55.3321384 (shop) (clothes) Jack & Jones
+5545 25.2531099 55.3318648 (shop) (clothes) Pull & Bear
+5546 25.2528624 55.331543 (shop) (clothes) Victorias Secret
+5549 25.2523336 55.3315322 (amenity) (theatre) VOX Cinemas
+5550 25.2509751 55.3329162 (amenity) (restaurant) Subway
+5551 25.2508247 55.3331362 (amenity) (restaurant) Charlies Sub
+5552 25.2513632 55.332294 (shop) (electronics) Jumbo Electronics
+5553 25.2525956 55.3327821 (shop) (electronics) Emax
+5554 25.2523336 55.3327553 (shop) (electronics) EROS
+5555 25.2518144 55.3338175 (amenity) (restaurant) Panda Chinese
+5556 25.2516058 55.3338711 (amenity) (post_box) DHL
+5558 25.2512274 55.3341125 (amenity) (cafe) Papa Roti
+5559 25.2512419 55.333619 (amenity) (telephone) Etisalat
+5560 25.2510576 55.3338282 (amenity) (telephone) du
+5561 25.2508683 55.3336565 (shop) (clothes) Armani Exchange
+5566 25.2527242 55.3290244 (amenity) (parking) RTA Public Parking
+5571 25.2696392 55.3223493 (shop) (furniture) Home Center
+5572 25.2674914 55.3203443 (amenity) (parking) RTA Public Parking
+5573 25.2669638 55.3213059 (amenity) (parking) RTA Public Parking
+5574 25.2667879 55.3200828 (amenity) (parking) RTA Public Parking
+5575 25.2662482 55.3184171 (amenity) (parking) RTA Public Parking
+5576 25.2660227 55.3188919 (amenity) (parking) RTA Public Parking
+5577 25.2661136 55.3178767 (amenity) (parking) RTA Public Parking
+5578 25.2666473 55.316726 (amenity) (parking) RTA Public Parking
+5579 25.2738509 55.3248445 (amenity) (restaurant) Reef Deira
+5580 25.2734847 55.3217412 (amenity) (hospital) Aster Clinic
+5587 25.2684055 55.3063786 (amenity) (cafe) Basking Robins
+5588 25.26842 55.3061533 (shop) (electronics) Jumbo Electronics
+5589 25.268437 55.3059682 (shop) (electronics) Lutfi Trading
+5590 25.2684176 55.3058663 (shop) (alcohol) Smokers Point
+5592 25.2685989 55.3045352 (amenity) (bureau_de_change) Al Rostamani Exchange
+5593 25.2671702 55.3075501 (shop) (supermarket) Choco Nuts
+5594 25.270566 55.319567 (shop) (stationery) Farook International Stationary
+5601 24.52344 54.4336904 (tourism) (information) NYUAD Welcome Center
+5602 24.5231065 54.4340711 (shop) (art) NYUAD Art Gallery
+5603 24.5236136 54.4335118 (shop) (books) NYUAD Book Store
+5605 25.1145398 55.2009655 (amenity) (cafe) Tikka Cafe
+5606 25.1148388 55.2012308 (amenity) (restaurant) Bistro 55
+5633 25.2153249 55.4546976 (amenity) (toilets) Toilets
+5649 25.2166923 55.4547765 (amenity) (fountain) Fountain
+5653 24.8133206 56.1609762 (amenity) (parking) Hatta MTB Trail Center Parking/Trailhead
+5655 24.4522125 54.604876 (amenity) (cafe) Costa Coffee
+5656 24.4498004 54.6053826 (amenity) (restaurant) Jones The Grocer
+5657 24.4521185 54.6048599 (shop) (laundry) Blue Rabbit Laundry
+5658 24.455446 54.6143418 (amenity) (restaurant) Andiamo! Italian Restaurant
+5659 24.4518988 54.604911 (amenity) (restaurant) Burger House
+5660 24.4522138 54.6037657 (amenity) (restaurant) German Doner Kebab
+5661 24.4520945 54.6043368 (amenity) (restaurant) La Brioche
+5662 24.4520163 54.6044682 (amenity) (restaurant) Lilies Restaurant and Coffee Shop
+5663 24.4526371 54.6055127 (amenity) (restaurant) Vasa Vasa Gelateria
+5664 24.4518245 54.6047823 (amenity) (atm) ADCB Bank ATM
+5665 24.4519089 54.6045567 (amenity) (restaurant) Kababs and Kurries
+5668 25.2140537 55.4560195 (amenity) (place_of_worship) Mosque
+5670 25.3689805 55.4486595 (amenity) (place_of_worship) Masjid
+5677 25.3772058 55.4460415 (amenity) (place_of_worship) Masjid
+5684 25.0802324 55.1454255 (amenity) (restaurant) Feri Kasif Tehroon
+5685 25.0825189 55.1481432 (shop) (supermarket) Maybury
+5686 25.0872496 55.1486565 (amenity) (bank) Citibank
+5687 25.0882076 55.1475796 (amenity) (cafe) Shooters Billiard Cafe
+5688 25.1036263 55.1630266 (shop) (supermarket) Circle K
+5689 25.1031201 55.1631314 (amenity) (cafe) Pizza Hut
+5690 25.1027752 55.1628685 (shop) (null) Starbucks
+5691 25.102972 55.1628793 (amenity) (cafe) Skyler's Place
+5692 25.1029647 55.1622704 (amenity) (fast_food) Food Court
+5696 24.4519856 54.6048997 (amenity) (restaurant) Al Suwadeh
+5697 24.4520501 54.6048492 (amenity) (spa) Me & Only Man Spa
+5699 24.4522982 54.6050653 (shop) (clothes) Beyond The Beach
+5701 24.4521238 54.6042027 (shop) (clothes) Minbart
+5702 24.4521384 54.6040498 (amenity) (pharmacy) Medicina
+5703 24.4521775 54.603905 (amenity) (spa) Fantastic Spa
+5704 24.4513055 54.6011549 (amenity) (restaurant) Bricco Pizza & Pasta
+5705 24.4510943 54.6009859 (amenity) (cafe) Julius Meinl Cafe
+5706 24.4501982 54.6009215 (shop) (supermarket) Spinneys Market
+5709 24.4501402 54.6008337 (amenity) (doctors) Health Plus
+5711 24.45015 54.6009785 (shop) (beauty) Nails Couture
+5712 24.4509533 54.6010107 (amenity) (boat_rental) Royal Yachting
+5714 24.4511235 54.601193 (shop) (alcohol) Spinneys Liquor (basement)
+5715 24.4435758 54.6090431 (amenity) (restaurant) Mugg & Bean
+5717 24.4425314 54.6079356 (amenity) (restaurant) Subway Sandwiches
+5718 24.4426999 54.6078954 (amenity) (restaurant) Soy Express
+5719 24.4567645 54.6153725 (amenity) (restaurant) Cafe Firenze
+5720 24.45695 54.6154878 (shop) (supermarket) Waitrose Market
+5721 24.4560124 54.6147442 (amenity) (restaurant) Dolmabahce Turkish Cuisine
+5722 24.4385339 54.5729706 (amenity) (pub) McGettigan's Irish Pub
+5723 25.2221688 55.3560055 (shop) (mall) MMI Festival City
+5725 24.462266 54.6050174 (amenity) (nightclub) O1NE Nightclub
+5727 24.4005996 54.575388 (shop) (supermarket) Geant Easy Supemarket
+5728 24.5241334 54.6706882 (amenity) (restaurant) Shakespeare and Co.
+5729 24.5247173 54.6721969 (amenity) (fast_food) Burger King
+5730 24.5245537 54.6716388 (shop) (supermarket) Carrefour Supermarket
+5731 24.5248249 54.6720429 (amenity) (fast_food) Kentucky Fried Chicken
+5732 24.5247318 54.6714668 (amenity) (restaurant) Pizza Hut
+5733 24.5236347 54.6710593 (amenity) (restaurant) Chili's
+5734 24.5250071 54.671782 (amenity) (fast_food) Texas Chicken
+5735 24.5242662 54.6719163 (amenity) (restaurant) Umi Fusion
+5736 24.5242913 54.6714452 (amenity) (restaurant) Johnny Rockets
+5737 24.5234311 54.6708828 (amenity) (restaurant) Romano's Macaroni Grill
+5738 24.5241916 54.6713445 (amenity) (restaurant) La Brioche
+5739 24.524925 54.6718997 (amenity) (fast_food) McDonald's
+5740 24.5233343 54.6710423 (shop) (null) Tim Hortons
+5741 24.5246572 54.6722829 (amenity) (fast_food) Subway
+5742 24.5235137 54.6707466 (shop) (null) Starbucks
+5743 24.5233867 54.6706346 (amenity) (restaurant) O' My Buns
+5744 24.5247825 54.6714178 (amenity) (cafe) Julius Meinl Cafe
+5745 24.5245175 54.6716737 (shop) (null) Coffeeshop Company
+5746 24.5235167 54.6712134 (amenity) (restaurant) Nasr Restaurant & Grill
+5747 24.5234125 54.6711157 (amenity) (restaurant) Yogenfruz
+5748 24.5232598 54.6709725 (amenity) (restaurant) Hey Sugar
+5750 24.4568966 54.6153651 (shop) (hairdresser) NStyle International
+5751 24.4815725 54.6061798 (amenity) (theatre) Du Arena
+5752 24.4673236 54.6090822 (amenity) (restaurant) Iris Sunset Lounge
+5753 24.4657611 54.6093155 (amenity) (restaurant) Aquarium Seafood & Fish Market
+5754 24.4662029 54.6093642 (amenity) (restaurant) Cafe D'Alsace
+5755 24.4663885 54.6094634 (amenity) (restaurant) Rozanah Lebanese Restaurant
+5756 24.4656659 54.6091358 (amenity) (restaurant) Diablito Music and Food
+5757 24.4670282 54.609176 (amenity) (restaurant) Cipriani Italian
+5758 24.4659905 54.6094259 (amenity) (restaurant) Stars N' Bars
+5760 24.4894186 54.6126913 (amenity) (parking_entrance) Covered, North Entrance
+5761 24.4675704 54.5978885 (amenity) (restaurant) Filini Bar & Restaurant
+5765 24.4429212 54.6086332 (amenity) (car_rental) Hertz
+5766 24.4430482 54.6092018 (shop) (beauty) Golden Desert Spa for Men
+5767 24.4431385 54.6093198 (shop) (beauty) Golden Desert Spa Ladies
+5779 24.4542897 54.6134142 (shop) (beauty) Glamorous Hair Salon (Ladies)
+5781 24.4547633 54.6137006 (amenity) (restaurant) Nando's
+5782 24.4550559 54.6140338 (amenity) (childcare) Yellow Submarine Nursery
+5783 24.4556785 54.6145189 (amenity) (atm) United Arab Bank
+5784 24.4570016 54.6154134 (amenity) (atm) ADIB
+5785 24.4570382 54.6153356 (amenity) (atm) ADCB
+5786 25.2353267 55.4361178 (shop) (mall) Arabian Center
+5787 25.3016652 55.3726907 (amenity) (restaurant) Udupi
+5792 25.2428629 55.3059616 (amenity) (restaurant) Aappa Kadai
+5793 25.2432159 55.3060703 (amenity) (restaurant) Calicut Paragon
+5794 24.0353983 53.8918095 (amenity) (fast_food) Southern Fried Chicken SFC
+5795 24.4337406 54.437342 (amenity) (restaurant) Al Farooj Arabic Food
+5796 24.4784293 54.3698558 (amenity) (restaurant) Shatter Al Hassan Lebanese Grill
+5797 24.4310272 54.4431134 (tourism) (guest_house) KEPCO Guest House
+5798 24.0352497 53.8918216 (amenity) (fuel) ADNOC Oasis
+5800 24.4323044 54.4413545 (amenity) (bus_station) B03115
+5801 24.0352045 53.8919102 (amenity) (atm) Islamic Bank, ADIB
+5802 24.4333133 54.4400301 (amenity) (fast_food) Southern Fried Chicken SFC
+5803 24.0346036 53.8893294 (amenity) (restaurant) Pakistani Food
+5805 24.0412064 53.8995705 (amenity) (atm) ATM
+5808 24.4761931 54.3207951 (amenity) (police) Abu Dhabi Police Kiosk
+5809 24.4338854 54.4392549 (amenity) (atm) UAE Exchange
+5810 24.4784446 54.3700692 (amenity) (bank) Habib Bank AG Zurich
+5816 24.135433 55.3096024 (tourism) (attraction) Al Ankah Fort
+5823 24.3468355 56.7367189 (amenity) (restaurant) Riyadh Restaurant
+5825 24.2201712 55.7740171 (amenity) (bureau_de_change) Al Fuad Exchange
+5826 24.1107474 56.8196328 (shop) (supermarket) Grand Hypermarket
+5827 24.3602457 56.7458341 (shop) (supermarket) Grand Hypermarket
+5828 24.3483345 56.737483 (shop) (supermarket) Hypermarket
+5830 24.2270813 56.8322287 (shop) (supermarket) Kubbah Hypermarket
+5831 24.143676 56.8758782 (shop) (supermarket) Makkah Hypermarket
+5863 25.2345164 55.2649087 (amenity) (arts_centre) ProArt Gallery
+5869 25.2439659 55.306012 (amenity) (restaurant) Keerthi
+5870 25.2440483 55.3058241 (amenity) (restaurant) Kayaloram
+5871 24.4856715 54.6089313 (amenity) (restaurant) Chili's
+5872 24.4854835 54.608934 (amenity) (restaurant) Dish-Dash Cafe & Restaurant
+5873 24.4858155 54.6088106 (amenity) (restaurant) Galito's Grilled Chicken
+5874 24.4859376 54.6086577 (amenity) (restaurant) Lemongrass Thai Restaurant
+5876 24.486106 54.6082446 (amenity) (restaurant) Cafe Bateel
+5877 24.4861743 54.6080515 (amenity) (restaurant) Texas Roadhouse
+5878 24.4861158 54.6079201 (amenity) (restaurant) Menchie's Frozen Yogurt
+5879 24.4863013 54.6076197 (amenity) (restaurant) Steers
+5880 24.4862061 54.6077806 (shop) (null) Gloria Jean's
+5881 24.4861084 54.6077297 (amenity) (restaurant) O' My Buns
+5882 24.4857105 54.6079764 (shop) (null) Starbucks
+5883 24.4858302 54.607499 (amenity) (restaurant) Gusto Italian
+5884 24.4859546 54.6077538 (amenity) (restaurant) Berry Bang
+5895 25.0491429 55.1319414 (amenity) (restaurant) The Kebap Shop
+5896 25.0353412 55.1468589 (amenity) (restaurant) Jawharet Beirut
+5897 25.0504771 55.1330982 (shop) (supermarket) West Zone
+5900 25.2631145 55.3127849 (amenity) (telephone) ETISALAT Public Phone
+5901 25.2634153 55.3125462 (shop) (travel_agency) Sadaf Holidays & Tours
+5902 25.2635778 55.312294 (amenity) (cafe) Arasco Coffee
+5903 25.2676529 55.3158184 (amenity) (restaurant) AGEMONO
+5904 25.2675655 55.3157755 (shop) (supermarket) Dream Land Nuts
+5905 25.2674467 55.3157273 (shop) (photo) Hasan Al Photo Studio
+5907 25.2692028 55.3160277 (amenity) (parking) RTA Public Parking
+5908 25.2666923 55.3158775 (amenity) (parking) RTA Public Parking
+5909 25.2662436 55.3156119 (amenity) (parking) RTA Public Parking
+5928 25.0033302 55.9826519 (amenity) (parking) Fili Dam Car Park
+5932 24.4765023 54.6062017 (amenity) (restaurant) Johnny Rockets
+5937 24.4496463 54.6050086 (shop) (hairdresser) Styles & Smiles Men's Salon
+5938 24.9860215 55.0180035 (tourism) (camp_site) Bush camp Jebel Ali
+5939 25.1663 55.2102581 (tourism) (camp_site) Public Parking Kite Beach
+5943 25.378209 55.4602306 (shop) (supermarket) Fathima Supermarket
+5944 25.3805251 55.4624691 (shop) (mall) Emirates Markets
+5946 25.3797601 55.4617364 (shop) (supermarket) Makkah Market
+5949 25.4948867 56.3613322 (tourism) (camp_site) Bush camp Al Aqqa
+5950 24.6040969 56.5436044 (tourism) (camp_site) Bush camp Dawanji
+5955 25.1500591 55.1990824 (amenity) (library) Dubai Public Library
+5956 25.0833407 55.1477207 (amenity) (cafe) Stefano's
+5958 25.0796381 55.1447392 (amenity) (car_rental) Hanco H
+5959 25.0802867 55.1454902 (amenity) (cafe) Doner Gyros
+5960 25.0800923 55.1452756 (amenity) (pharmacy) Community Pharmacy
+5961 25.0800535 55.1452274 (amenity) (fast_food) Papa John's
+5962 25.0800122 55.1451764 (amenity) (atm) Habib Bank AG Zurich
+5963 25.0807725 55.1455519 (shop) (supermarket) Jam E Jam
+5964 25.0807337 55.1456002 (shop) (beauty) Lolla Beaty&Spa Center
+5965 25.0817936 55.1468034 (amenity) (cafe) Bagets & more
+5966 25.082269 55.1466623 (shop) (supermarket) BlueMart
+5967 25.0812292 55.1460601 (amenity) (pharmacy) Life Pharmacy
+5969 25.0818179 55.1468262 (shop) (null) Simitchi coffee shop
+5970 25.0817717 55.1467806 (amenity) (cafe) Feras Aldiyafa Sweets
+5972 25.3548546 56.3507384 (amenity) (bank) RAK Bank
+5973 25.3550303 56.3506147 (amenity) (bank) Abu Dhabi Islamic Bank
+5975 25.3552333 56.3504879 (amenity) (bank) Mashreq Bank
+5979 25.3552299 56.3497046 (amenity) (restaurant) Taj Khorfakkan
+5982 24.4689173 54.3229564 (amenity) (restaurant) Le Boulanger Marine Cafe
+5983 24.4604368 54.3477169 (amenity) (fast_food) Baskin Robbins
+5985 25.3218172 55.376578 (tourism) (museum) Barjeel Art Foundation
+5986 25.0764787 55.1351601 (amenity) (cafe) Baskin Robbins
+5987 25.081743 55.1412595 (shop) (convenience) Fmart
+5988 25.081794 55.1413105 (amenity) (fast_food) Just Falafel
+5990 25.0821742 55.1415559 (shop) (laundry) Champion Cleaners Centre
+5991 25.0826236 55.1420588 (amenity) (restaurant) Zpizza
+5992 25.0823698 55.141741 (shop) (hairdresser) Super Trim Gents Salon
+5993 25.0824511 55.1418134 (amenity) (fast_food) Mom's Food
+5994 25.0825252 55.1418818 (shop) (bakery) Hey Sugar
+6001 25.1030123 55.1642604 (amenity) (clock) Middlesex Clock Tower
+6003 25.1025831 55.1722074 (amenity) (restaurant) The Noodle House
+6004 25.102775 55.1719741 (amenity) (restaurant) Qutoof
+6006 25.101615 55.1604886 (amenity) (clinic) Mediclinic Al Sufouh
+6022 24.4907161 54.3588984 (amenity) (restaurant) new city palace
+6023 24.4910516 54.3593019 (amenity) (bank) emirates money
+6024 24.4765132 54.6064057 (amenity) (school) Racing School
+6025 25.7560556 55.9085302 (shop) (alcohol) Alcoholic Beverages
+6028 25.1571278 55.6228545 (amenity) (bicycle_rental) 4x4 buggy rental
+6030 25.1572525 55.623136 (tourism) (attraction) Camel rides
+6031 25.2900659 55.3811306 (amenity) (bicycle_rental) ByKy rental
+6032 25.2903621 55.3806027 (shop) (convenience) Mini Mart
+6034 25.2927028 55.3805626 (shop) (supermarket) Madina Supermarket
+6036 25.2928479 55.3807373 (amenity) (restaurant) Today's Restaurant
+6037 25.292794 55.380692 (shop) (beauty) Beauty Talkz
+6038 25.297337 55.3837915 (shop) (shoes) Shoezies
+6040 25.2913817 55.3840953 (amenity) (atm) DIB
+6044 25.2917684 55.3703821 (amenity) (restaurant) Karachi Darbar
+6045 25.2924312 55.3695051 (amenity) (clinic) Aster Clinic
+6046 25.292569 55.3695757 (amenity) (pharmacy) Aster
+6047 25.2960656 55.3724698 (shop) (supermarket) Pakistan Grocery
+6048 25.1003982 55.1697939 (amenity) (restaurant) Marmaris Turkish Restaurant
+6052 25.1973552 55.2702487 (amenity) (restaurant) Arz Lebanon
+6069 25.635719 56.2676245 (amenity) (restaurant) Lebanon Spring Restaurat
+6078 25.3272462 56.1680556 (amenity) (restaurant) Aden Mandi Restaurant
+6079 25.3013429 55.3718685 (amenity) (restaurant) Dosa Plaza
+6087 25.102413 55.1615848 (amenity) (post_office) Emirates Post Knowledge Village
+6088 25.1133877 55.2063202 (amenity) (post_office) Emirates Post Al Barsha
+6097 25.2916248 55.3309087 (amenity) (embassy) Consulate of Ethiopia
+6103 24.4612308 54.3797378 (amenity) (clinic) American European Medical Center
+6107 25.2876022 55.3688914 (shop) (supermarket) istanbul super market
+6108 25.3463981 55.3905193 (amenity) (restaurant) Aroos Damascus Restaurant
+6109 25.3467821 55.3907899 (shop) (supermarket) Al Madina Supermarket
+6110 25.3469088 55.3905472 (amenity) (bank) Commercial Bank of Dubai
+6116 25.2440564 55.3057274 (amenity) (restaurant) Chef Lanka Restaurant
+6117 25.2441331 55.30542 (amenity) (hospital) Kottakal Ayurvedic Centre
+6118 25.2433872 55.3060853 (amenity) (restaurant) Venus vegetarian restaurant
+6119 25.2489397 55.2867984 (shop) (clothes) Fabindia
+6120 24.4525167 54.605385 (shop) (convenience) Circle K
+6123 25.0495553 55.13039 (amenity) (restaurant) Flavours
+6144 24.9643876 55.0494778 (amenity) (place_of_worship) Masjid
+6145 25.2392139 55.3213277 (amenity) (place_of_worship) Masjid
+6148 24.4494971 54.6048158 (shop) (supermarket) Carrefour Groceries
+6151 24.4508644 54.6012166 (amenity) (restaurant) Sushi Counter
+6154 25.0618708 55.2266874 (amenity) (school) Nord Anglia International School
+6155 25.0564368 55.2724957 (amenity) (school) Jumeirah Engllish Speaking School
+6156 24.782833 54.7333764 (amenity) (parking) Bus Parking
+6157 25.3933542 55.4311001 (amenity) (public_building) Ajman Freezone Authority
+6167 24.4733897 54.3502865 (amenity) (bank) Abu Dhabi Islamic Bank (ADIB)
+6168 25.2170472 55.5290987 (shop) (farm) Al Rawabi Farm
+6169 25.2977646 55.3826742 (amenity) (restaurant) ChicKing
+6170 25.2871497 55.3738999 (amenity) (parking) Students / Visitors
+6173 25.288215 55.3746226 (amenity) (parking) Buses Parking
+6189 25.2852372 55.3951844 (amenity) (marketplace) Cattle Market Dubai
+6198 25.7535043 55.9104597 (amenity) (restaurant) KFC - Pizza Hut
+6199 25.7804147 55.9352761 (amenity) (restaurant) Pizza Inn
+6200 25.7905025 55.943996 (amenity) (bureau_de_change) Al Ansari Exchange
+6208 25.1940704 55.2789638 (amenity) (bar) NEOS
+6210 24.4966854 54.3796802 (amenity) (nightclub) 49ers
+6219 25.7773289 55.938849 (amenity) (restaurant) Tower Restaurant
+6223 25.7150847 55.8382863 (amenity) (restaurant) Ha Noi
+6224 25.7146096 55.8339083 (amenity) (cafe) Iconics
+6225 25.7149285 55.8330271 (amenity) (restaurant) La Luna
+6229 25.2625938 55.2983475 (shop) (supermarket) Al Maya Super Market
+6240 25.7632831 55.9558453 (amenity) (restaurant) Linx Restaurant
+6241 25.7632331 55.9556912 (amenity) (bar) Bunker Bar
+6243 25.7634662 55.956081 (shop) (sports) Pro Shop
+6244 25.2484955 55.3047438 (amenity) (car_rental) Arabia Bus Rental
+6246 25.2478383 55.3066344 (amenity) (school) Arabic School
+6249 25.2417462 55.304658 (amenity) (restaurant) Karachi Darbar
+6253 25.7729022 55.9602543 (amenity) (taxi) RAK Mall Taxi Stand
+6254 25.7838696 55.96637 (amenity) (taxi) Manar Mall Taxi Stand South
+6255 25.7865063 55.9655337 (amenity) (taxi) Manar Mall Taxi Stand North
+6256 25.7883912 55.963926 (amenity) (fast_food) McDonald's
+6257 25.7913088 55.9697323 (amenity) (bank) Al Hilal Bank
+6261 25.7916478 55.9664216 (shop) (supermarket) Spinneys
+6266 25.2342757 55.3092098 (amenity) (restaurant) Lemongrass Thai Restaurant
+6268 25.2348206 55.3093091 (amenity) (restaurant) Punjabi by nature
+6275 25.2634454 55.3242952 (amenity) (restaurant) London Fish and Chips
+6276 25.2631519 55.3248096 (amenity) (restaurant) Al Safadi Lebanese Grill
+6277 25.2633319 55.3244896 (amenity) (restaurant) Juice World
+6278 25.2690382 55.3058145 (amenity) (bureau_de_change) Dollar Exchange
+6279 25.2685745 55.3040302 (amenity) (bureau_de_change) Al Ansari Exchange
+6280 25.2692698 55.3072618 (amenity) (restaurant) Fast Food Restaurant
+6281 24.4866398 54.3647866 (amenity) (bank) Emirates NBD
+6282 24.4721092 54.3740171 (amenity) (bank) Emirates NBD
+6283 24.4903666 54.3583538 (amenity) (bank) Emirates NBD
+6284 24.4614116 54.3759474 (amenity) (atm) Emirates NBD
+6285 24.4653903 54.375742 (amenity) (atm) Emirates NBD
+6286 24.488448 54.3731788 (amenity) (bank) Emirates NBD
+6287 24.4802631 54.3570189 (amenity) (bank) Emirates NBD
+6288 25.012004 55.090394 (amenity) (bank) Commercial Bank of Dubai
+6289 25.0417145 55.1158328 (amenity) (bank) Emriates NBD
+6290 25.2357706 55.3711022 (shop) (car_repair) Wheel Allignment
+6291 25.818849 55.961091 (amenity) (restaurant) Pure Vida
+6292 25.8187176 55.9609976 (amenity) (restaurant) Passage to Asia
+6294 25.290717 55.3933244 (amenity) (atm) Emirates NBD ATM
+6295 24.4936223 54.3761091 (amenity) (restaurant) Sangeetha Vegetarian Restaurant
+6296 24.4854367 54.363554 (amenity) (restaurant) Sangeetha Vegetarian Restaurant
+6298 25.2654985 55.3298998 (amenity) (hospital) American British Surgical & Medical Centre
+6308 25.1720352 55.6256508 (amenity) (restaurant) Al Marjan
+6309 25.2304537 55.2767409 (amenity) (restaurant) Al Reza
+6312 25.0346982 55.5935113 (amenity) (fuel) Mirate
+6316 25.8210185 55.9743264 (tourism) (museum) Last Dhow Building Station
+6318 25.29037 55.3797589 (amenity) (place_of_worship) Under construction May 2015
+6319 25.3069043 55.4229708 (amenity) (car_wash) Car wash
+6320 25.3057941 55.4244163 (amenity) (car_wash) Car Washing & service
+6321 25.2977719 55.3852035 (amenity) (charging_station) Quick Registration centre
+6324 24.4879681 54.3724999 (shop) (car) Nissan
+6325 25.1653709 55.2369392 (shop) (car) Exotic Cars
+6328 25.1745659 55.245487 (shop) (car) AGMC
+6329 25.1714024 55.2424923 (shop) (bicycle) Ride Bike Shop
+6330 25.162817 55.2397202 (shop) (bicycle) Micah's Bikeshop
+6332 25.7917858 55.9660815 (amenity) (restaurant) Shakespeare
+6333 25.7918489 55.9662146 (shop) (null) Tim Hurton
+6334 25.7962812 55.9722265 (amenity) (restaurant) Lebanese Resthouse
+6335 25.7965734 55.9723969 (amenity) (restaurant) Grand Restaurant
+6336 24.4903176 54.3578328 (amenity) (restaurant) Taste of Korea
+6337 24.4736053 54.3770899 (amenity) (restaurant) Hankook
+6338 24.4646169 54.386766 (amenity) (restaurant) Manna Land
+6339 24.4576384 54.383309 (amenity) (restaurant) Al Maskoof Al Iraqi
+6340 24.4671379 54.3845017 (amenity) (embassy) BLS International
+6341 24.2183243 55.7752443 (amenity) (restaurant) Al Taawon
+6342 25.2873975 55.882708 (amenity) (restaurant) Khaiber Durban
+6343 25.1661756 55.2377244 (shop) (outdoor) Tactical Trading
+6344 25.2700595 55.3052807 (shop) (doityourself) Speedex Naif Showroom
+6345 25.1129132 55.2159139 (shop) (craft) Creative Minds
+6347 25.2244354 55.2592567 (shop) (craft) Creative Minds
+6348 25.2428233 55.3036305 (amenity) (restaurant) Sangeetha Vegetarian Restaurant
+6349 25.2712854 55.3798691 (amenity) (restaurant) Sangeetha Vegetarian Restaurant
+6350 25.1669714 55.4156661 (shop) (bakery) House of Cakes Dubai
+6351 25.8007886 55.9741173 (amenity) (restaurant) Pure Vege
+6352 25.8010488 55.9749572 (amenity) (restaurant) Iranian
+6353 25.3018703 55.36714 (shop) (mall) iMall
+6367 25.2651475 55.2909607 (amenity) (ferry_terminal) Al Ghubaiba
+6368 25.2671814 55.3034866 (amenity) (ferry_terminal) Al Sabkha
+6369 25.2643119 55.2930978 (amenity) (bank) Bank of Baroda
+6370 25.1511126 55.2428504 (amenity) (restaurant) Shehar-e-Karachi Restaurant
+6371 25.154797 55.2331584 (amenity) (post_office) Emirates Post Al Quoz
+6403 24.4963362 54.3652609 (amenity) (restaurant) whEAT
+6407 25.1727361 55.2595245 (shop) (supermarket) Al Manama Supermarket
+6410 25.1502525 55.2441438 (amenity) (fast_food) McDonalds
+6417 24.4922059 54.3608668 (amenity) (car_rental) Europcar
+6421 24.9574593 55.0561865 (amenity) (restaurant) Peepees Restaurant and Mini Market
+6422 24.9571494 55.0561893 (amenity) (restaurant) Abdullah's Food Court AFC
+6423 24.9881722 55.0880943 (amenity) (post_office) Jebel Ali Post Office
+6426 24.9597402 55.0533433 (amenity) (parking) Jebel Ali Gate 7 Car Parking
+6430 24.3571943 54.4969832 (amenity) (place_of_worship) Masjid
+6436 24.9476037 55.0816776 (amenity) (place_of_worship) Masjid
+6454 25.276994 55.3315531 (amenity) (restaurant) Eagle Restaurant
+6455 25.2770886 55.3315424 (shop) (optician) Eye Link Optics
+6456 25.2772875 55.331706 (amenity) (pharmacy) Rotana Pharmacy
+6457 25.2772123 55.3315504 (amenity) (restaurant) Anmol Hyderabadi
+6458 24.4826743 54.3645604 (amenity) (fast_food) Al Sultan Bakeries and Markets
+6459 24.4574541 54.6730902 (shop) (supermarket) Select Market
+6460 24.4910741 54.6071441 (amenity) (cinema) VOX Cinemas
+6465 24.4778178 54.3805817 (amenity) (restaurant) Mono Restaurant
+6466 24.4776466 54.3803223 (shop) (bakery) Al Saada Bakery
+6468 24.4770297 54.3793637 (amenity) (bank) Union National Bank
+6478 25.2966145 55.3768334 (amenity) (restaurant) Vasanta Bhavan
+6479 25.2959506 55.375795 (amenity) (restaurant) Kerala Castle
+6480 25.2969758 55.3853144 (amenity) (restaurant) Calicut Paragon
+6482 25.2974508 55.3789109 (shop) (supermarket) Freshspot
+6483 25.2960171 55.3698832 (amenity) (restaurant) Calicut Sawariya
+6485 25.2967237 55.3683861 (amenity) (restaurant) Abad Plaza
+6486 25.2904733 55.3672654 (amenity) (restaurant) Yoko Sizzler
+6487 25.2864864 55.3706664 (amenity) (restaurant) Filis Cafe
+6598 25.012501 55.0907452 (amenity) (bank) Emirates NBD
+6599 25.0117974 55.0899318 (amenity) (bank) Emirates NBD
+6600 25.0127292 55.089712 (amenity) (bank) National Bank of Fujairah
+6628 25.1819223 55.3392081 (shop) (car_repair) Al Nawras Garage
+6673 25.3405354 55.4106449 (shop) (furniture) Home Box
+6674 25.3403102 55.4110404 (shop) (furniture) Royal Furniture
+6675 25.3400842 55.4114372 (shop) (furniture) Homes R Us
+6676 25.3007928 55.3707906 (amenity) (restaurant) Vasantha Bhavan
+6730 24.4546074 54.7236028 (shop) (mall) Village Center 2
+6731 24.4459704 54.7164265 (shop) (mall) Village Center 1
+6732 24.4460409 54.7292174 (shop) (mall) Village Center 3A
+6734 24.4346008 54.7328587 (shop) (mall) Village Center 5
+6735 24.4302997 54.7295332 (shop) (mall) Village Center 5A
+6736 24.4319821 54.7407751 (shop) (mall) Village Center 5B
+6737 24.4395735 54.742095 (shop) (mall) Village Center 4B
+6738 24.4468251 54.7429024 (shop) (mall) Village Center 4A
+6739 24.4418635 54.7114436 (shop) (mall) Village Center 1B
+6740 24.4498691 54.725849 (amenity) (place_of_worship) Khalifa Thani
+6741 24.4510793 54.7125418 (shop) (mall) Village Center 1A
+6742 24.4566182 54.7171956 (shop) (mall) Village Center 2A
+6743 24.4584285 54.7272732 (shop) (mall) Village Center 2B
+6744 24.4578359 54.7327133 (shop) (mall) Village Center 3A
+6745 24.4523318 54.7407218 (shop) (mall) Village Center 3B
+6938 25.2419547 55.3045969 (amenity) (restaurant) MRA
+6939 25.2117728 55.2825242 (shop) (convenience) Mini Mart
+6940 25.2143193 55.2814988 (amenity) (restaurant) Mado
+6941 25.2147656 55.2808037 (amenity) (car_rental) Avis
+6942 25.2142641 55.2816035 (amenity) (fast_food) Subway
+6943 25.2145526 55.2809815 (amenity) (fast_food) Potbelly
+6944 25.2144628 55.2814353 (shop) (tailor) Bespoke
+6945 25.2170094 55.2797628 (amenity) (bureau_de_change) UAE Exchange
+6947 25.2108241 55.2815975 (amenity) (place_of_worship) Burj Daman Masjid
+6950 24.3308933 54.5354719 (shop) (supermarket) Tuwairish SuperMarket
+6952 24.4920375 54.392933 (shop) (laundry) White Cat Laundry
+6953 24.4915998 54.3935371 (amenity) (restaurant) Burger Bureau
+6954 24.4912465 54.3941257 (amenity) (restaurant) Doner & Gyro
+6955 24.4904964 54.3950171 (amenity) (restaurant) Bshawarma
+6956 24.4913375 54.3937522 (amenity) (restaurant) 800 Pizza
+6957 24.4912796 54.3938115 (amenity) (dentist) Tower Clinic
+6958 24.4904329 54.3947032 (amenity) (bank) United Arab Bank
+6959 24.4904622 54.3949124 (shop) (florist) O'Hara Flowers
+6960 24.4912119 54.3940724 (amenity) (pharmacy) BinSina Pharmacy
+6961 24.4912034 54.3940071 (shop) (mobile_phone) Axiom Care
+6962 24.4911666 54.3940397 (amenity) (bureau_de_change) Al Ansari Exchange,
+6963 24.4914748 54.3936232 (shop) (null) First Clique
+6964 24.4912018 54.3939558 (shop) (laundry) Modern National Laundry
+6968 24.5295776 54.4019704 (tourism) (museum) Performing Arts Center
+6991 25.1031537 55.3856817 (amenity) (library) Library & Learning Resources
+7012 25.1037002 55.3867689 (amenity) (restaurant) Food Outlets
+7014 25.1038185 55.3861901 (shop) (hairdresser) Beauty Parlor
+7022 25.1023187 55.3857691 (amenity) (restaurant) Food Outlet
+7053 25.110198 55.3771342 (amenity) (bbq) Grills & More
+7054 25.1104323 55.3770418 (shop) (supermarket) Green Park
+7055 25.1145512 55.3805934 (tourism) (information) Al Arrab
+7060 25.3016759 55.3751755 (amenity) (restaurant) Kolam Restaurant
+7061 25.2249745 55.2584953 (amenity) (restaurant) Automatic
+7062 25.225171 55.2586723 (amenity) (fast_food) Burger King
+7063 25.2093339 55.2602293 (amenity) (fast_food) Subway
+7064 25.2098469 55.2604861 (shop) (cosmetics) Sephora
+7065 25.2112849 55.2576464 (shop) (supermarket) Spinney's Supermarket
+7066 25.1861522 55.2401026 (amenity) (fast_food) Tim Hortons
+7071 25.1051239 55.3957097 (amenity) (school) Ruwayyah Secondaire
+7072 25.1042261 55.3947045 (amenity) (school) Ruwayyah Primaire
+7079 25.1082493 55.401546 (amenity) (school) Sekundarstufe I & II
+7080 25.1083143 55.4010646 (amenity) (school) Vorschule
+7088 25.1186887 55.3870069 (amenity) (school) GEMS Sports Academy
+7089 25.1176935 55.3886003 (amenity) (school) GEMS Wellington Academy Silicon Oasis
+7094 25.1179926 55.3910334 (amenity) (bank) Union National Bank
+7095 25.1176448 55.3910538 (tourism) (information) DSOA Mosque
+7099 25.0496162 55.2052988 (shop) (convenience) BlueMart Mini Market
+7113 25.1219408 55.3806536 (tourism) (information) RIT
+7125 25.1173854 55.3694913 (amenity) (cafe) Coffee Bar
+7126 25.1176074 55.3697499 (shop) (null) Ice-cream shop
+7127 25.1169614 55.369683 (amenity) (bar) Pool Bar & Lounge
+7129 25.1169453 55.3696072 (shop) (boutique) Boutique Plaza
+7133 25.0814512 55.3236571 (shop) (mall) Mall of Arabia
+7163 25.0443617 55.2408222 (amenity) (post_box) P.O. Boxes
+7174 25.2580552 55.2983317 (amenity) (fast_food) Popeye
+7175 25.2580004 55.2984378 (amenity) (restaurant) Sbarro
+7176 25.2577411 55.2963298 (shop) (shoes) Shoe Mart
+7184 25.2643739 55.289439 (amenity) (fuel) Emirates Petroleum
+7185 25.2529731 55.2934472 (shop) (supermarket) Al Maya
+7186 25.2479815 55.2979017 (shop) (supermarket) Allday Fresh
+7187 25.2452369 55.2981099 (amenity) (pharmacy) New Mankhool
+7188 24.2448953 55.7530348 (amenity) (restaurant) Farooj Fresh
+7189 24.2451084 55.753068 (shop) (medical_supply) alain pharmacy
+7190 24.2450022 55.7530516 (shop) (beverages) Fruits
+7191 24.2450626 55.7530552 (amenity) (fast_food) Baskin Robbins
+7192 24.3589888 54.5405495 (amenity) (school) Future Centre for Special Needs
+7194 25.2599252 55.3181605 (amenity) (bar) The Edge Pool & Bar
+7195 25.2604703 55.3264567 (amenity) (bar) X Club
+7196 25.2491912 55.3471276 (amenity) (restaurant) Kiku
+7197 25.2794068 55.3045155 (amenity) (restaurant) Al Dawaar
+7198 25.2346535 55.3267637 (tourism) (aquarium) Dubai Dolphinarium
+7200 25.2500006 55.2935597 (shop) (supermarket) Jyothis
+7203 24.498511 54.3815457 (amenity) (pub) Captains Arms
+7204 24.4619186 54.3167157 (amenity) (bar) Havana Club
+7205 24.4960467 54.3657552 (amenity) (bar) Sax
+7206 24.4967853 54.3658114 (amenity) (pub) PJ O'Reilly's
+7207 24.465828 54.5973175 (amenity) (nightclub) Heroes
+7208 24.5028332 54.374005 (amenity) (bar) Mardi Gras
+7209 24.4092768 54.4906571 (amenity) (bar) Left Bank
+7210 24.4890012 54.3681767 (amenity) (pub) Harvesters Pub
+7211 24.4831923 54.3506502 (amenity) (pub) Rabbit Hutch
+7213 25.2635211 55.2971826 (tourism) (museum) Dubai Museum
+7214 25.2675195 55.3156732 (amenity) (pub) Jockey's Pub
+7215 25.2534536 55.2935704 (amenity) (pub) Barrels
+7217 25.2590794 55.2913393 (amenity) (bar) Chill Rooftop Lounge
+7218 25.2553129 55.2849018 (amenity) (bar) Marines Club
+7219 25.0854374 55.1438313 (amenity) (bar) Bar 44
+7220 25.2415829 55.333505 (amenity) (restaurant) Legends
+7221 25.2206462 55.28046 (amenity) (bar) Zinc
+7222 25.228099 55.3206971 (amenity) (restaurant) Azur
+7223 25.1859832 55.2581954 (amenity) (bar) VIP Room
+7224 25.2080658 55.2720521 (amenity) (restaurant) The Act
+7225 25.2174918 55.2832274 (amenity) (restaurant) Alfie's
+7226 25.2263553 55.2842183 (amenity) (bar) Cigar Bar Room
+7227 25.2205324 55.2804413 (amenity) (restaurant) Al Fresco Italian
+7228 25.2682684 55.3295273 (amenity) (restaurant) JW's Steakhouse
+7229 25.1333003 55.1860762 (shop) (mall) Souk Madinat Jumeirah
+7231 25.2079345 55.2719596 (amenity) (restaurant) Shang Palace
+7232 25.1411259 55.1853921 (amenity) (restaurant) Al Mahara
+7233 25.1144439 55.1929946 (amenity) (restaurant) Chimes
+7234 24.3303381 54.6232633 (amenity) (restaurant) Olive Branch
+7235 24.330343 54.6233491 (amenity) (restaurant) Burlington Grill
+7236 24.3304188 54.6231453 (amenity) (bar) Hunter B&R
+7237 24.3304946 54.6230688 (amenity) (bar) Rimal
+7238 24.3310537 54.623522 (amenity) (restaurant) Oasis Courtyard
+7239 24.4971144 54.3650218 (amenity) (bar) Cheers
+7240 24.4969851 54.3650165 (amenity) (restaurant) Kuya Juan
+7241 24.4970339 54.3650701 (amenity) (restaurant) Taste of Asia
+7242 24.4969948 54.3650808 (amenity) (restaurant) Chinoy Haven
+7243 24.4969778 54.3651184 (amenity) (restaurant) Hub33
+7244 24.4969997 54.3649575 (amenity) (restaurant) Cafe de Al Ain
+7245 24.4969656 54.3650379 (amenity) (pub) Ally Pally
+7246 24.4969509 54.3649923 (amenity) (bar) Tambayan
+7247 24.9876303 55.0230251 (amenity) (bar) Mushref Bar
+7248 24.9880722 55.0225312 (amenity) (bar) Palmito Pool Bar
+7249 25.0417761 55.1151362 (amenity) (restaurant) London Fish & Chips Ibn Battuta Mall
+7250 24.9874963 55.0228772 (amenity) (restaurant) Ibn Majed
+7251 24.9875382 55.0231587 (amenity) (restaurant) La Traviata
+7252 24.987766 55.0229841 (amenity) (bar) Sunset Lounge
+7253 24.9885638 55.0223996 (amenity) (bar) Captain's
+7254 24.9877918 55.0213037 (amenity) (bar) The Anchor
+7255 24.9875382 55.0215728 (amenity) (bar) La Fontana Pool Bar
+7256 24.9892685 55.0259011 (amenity) (bar) Divaz
+7258 24.9875521 55.0219254 (amenity) (restaurant) La Fontana
+7259 25.0030211 55.1643165 (amenity) (bar) The Bar
+7260 25.0030273 55.164358 (amenity) (restaurant) Cucina
+7261 24.9889891 55.023543 (tourism) (attraction) Seawings
+7262 25.2488335 55.3474108 (amenity) (restaurant) Casa Mia
+7263 25.2486152 55.3471586 (amenity) (restaurant) Sukhothai
+7264 25.2487559 55.3474966 (amenity) (restaurant) M's Seafood Bistro
+7265 25.2485279 55.3476468 (amenity) (restaurant) Long Yin
+7266 25.2491586 55.3468636 (amenity) (bar) Jules Bar
+7267 25.2478437 55.3477112 (amenity) (bar) Warehouse
+7268 25.2484163 55.3472123 (amenity) (bar) The Dubliner's
+7270 25.2486961 55.3475319 (amenity) (restaurant) M's Beef Bistro
+7271 25.0877294 55.1461982 (amenity) (restaurant) The Observatory
+7274 25.2106485 55.2589985 (shop) (clothes) Michelle Belau City Walk
+7289 25.181999 55.4416894 (amenity) (place_of_worship) Masjid Aisha
+7307 24.5236067 54.4356113 (amenity) (theatre) Black Box
+7308 24.5234178 54.4359558 (amenity) (theatre) Red Theater
+7309 24.5231441 54.4361124 (amenity) (theatre) Blue Hall
+7314 24.8497328 55.3456219 (amenity) (bicycle_rental) Trek Bicycle Store
+7315 25.371798 55.4722208 (amenity) (car_wash) al waleed car wash
+7316 24.4881382 54.3711609 (amenity) (restaurant) Bait El Khetyar
+7320 25.2201736 55.3657197 (amenity) (pharmacy) Marina Pharmacy
+7337 24.435318 54.4562832 (amenity) (cafe) Bikers Cafe
+7338 24.4349868 54.4559288 (amenity) (restaurant) Zaytinya
+7340 24.4356426 54.4556431 (amenity) (fast_food) McDonald's
+7341 24.4354647 54.4558307 (amenity) (fast_food) Subway
+7342 24.4353287 54.4557389 (shop) (null) Starbucks
+7343 24.4356681 54.4557389 (shop) (supermarket) Carrefour Market
+7344 24.435515 54.4555103 (amenity) (fast_food) Papa Murphy's Pizza
+7346 24.4354019 54.4557765 (amenity) (fast_food) Cold Stone
+7348 24.5228141 54.4343253 (shop) (travel_agency) Nirvana Travel & Tourism (NYUAD)
+7349 24.5244974 54.4341126 (amenity) (restaurant) Marketplace
+7354 25.2911101 56.2446205 (amenity) (parking) Shiis Pools
+7355 25.2922184 56.2445052 (natural) (spring) Shiis Pools
+7367 25.0762329 55.1388207 (amenity) (restaurant) The Scene
+7369 25.0761229 55.1388791 (amenity) (restaurant) Cargo
+7370 25.0762921 55.1388767 (amenity) (restaurant) Atelier M
+7371 25.0762646 55.1389608 (amenity) (restaurant) Asia Asia
+7383 25.1823575 55.3450761 (shop) (car_repair) Nissan Service
+7468 24.4899317 54.6096534 (amenity) (cafe) Starbucks
+7762 25.2024285 55.2775403 (amenity) (bar) Double Decker Pub
+7995 24.5203473 54.3736895 (shop) (hardware) Ace Hardware
+8087 24.4088808 54.4911616 (amenity) (restaurant) Left Bank
+8158 24.4925551 54.3745158 (shop) (convenience) ADNOC
+8267 24.4338322 54.4396841 (amenity) (atm) ADCB
+8439 24.4909052 54.3604589 (amenity) (hospital) Al Noor Hospital
+8499 24.4322583 54.4368952 (shop) (bakery) Al Fawar
+8561 24.4723349 54.3460004 (amenity) (cafe) Starbucks
+8565 24.471869 54.3453225 (amenity) (bank) Dubai Islamic Bank
+8596 24.435435 54.4560603 (amenity) (restaurant) La Brioche
+8732 25.0952272 55.175889 (amenity) (fast_food) Subway
+9134 24.433809 54.4368352 (amenity) (restaurant) Lebanese Flower
+9651 24.478294 54.3697506 (shop) (convenience) Baqala
+10111 25.3011851 55.3728775 (shop) (supermarket) AL Madina
+10196 24.9411009 55.0418857 (amenity) (fast_food) Subway
+10933 24.489732 54.35877 (amenity) (bank) Emirates NBD
+11850 24.4712861 54.3730984 (amenity) (parking) Al Wahda Mall Parking (LuLu HyperMarket)
+11851 24.4712034 54.3730009 (amenity) (parking) Al Wahda Mall Parking (General)
+11857 24.4773259 54.3685592 (shop) (convenience) Baqala
+11902 24.4764075 54.3672547 (shop) (convenience) Baqala
+12208 24.479956 54.3624346 (shop) (convenience) Baqala
+12390 25.3463332 55.3926415 (shop) (supermarket) Al Madina Supermarket
+12395 25.2016139 55.3764524 (shop) (car_parts) Yellow Hat
+12681 24.482112 54.3619155 (shop) (department_store) KM Trading
+13127 25.2916106 56.1146542 (tourism) (viewpoint) Friday Market
+13339 24.2621052 54.5514163 (amenity) (bank) ADCB
+13537 24.491419 54.370249 (shop) (confectionery) Chhappan Bhog
+14865 25.2706214 55.3232352 (shop) (supermarket) New Era Supermarket
+15252 25.0731778 55.1317267 (amenity) (fast_food) Subway
+16443 25.3603819 55.3945495 (amenity) (hospital) Al Zahra Hospital
+16479 25.1448651 55.2555267 (amenity) (place_of_worship) Masjid Aysha
+16511 24.4736758 54.3750393 (amenity) (fast_food) Abu Dhabi
+16563 24.2966168 54.5410234 (amenity) (fuel) ADNOC
+17041 25.0119349 55.08991 (amenity) (atm) Emirates NBD
+17042 25.0127893 55.0908086 (amenity) (atm) Emirates NBD
+17611 24.4841248 54.6051388 (tourism) (attraction) Ferrari World
+17788 24.4834612 54.6069833 (tourism) (attraction) Ferrari World
+18436 24.4704948 54.3433829 (amenity) (cafe) Starbucks
+18680 24.625816 54.7140166 (shop) (trade) Al Rahba
+18885 24.4774575 54.3494577 (amenity) (childcare) Playhouse
+19418 24.4988107 54.3722455 (shop) (supermarket) Seven Emirates Supermarket
+19820 25.2672209 55.3034959 (amenity) (ferry_terminal) Al Sabkha
+21108 24.4738227 54.3681399 (shop) (convenience) Baqala
+21116 25.2671902 55.3034887 (amenity) (ferry_terminal) Al Sabkha
+21663 25.0777655 55.1334313 (amenity) (restaurant) El Chico Mexican
+22244 25.1657524 55.2372545 (shop) (weapons) Tactical Trading
+24353 25.087995 55.1488024 (amenity) (pharmacy) Life Pharmacy
+24407 25.1001841 55.1687917 (amenity) (fast_food) Subway
+24408 25.0872788 55.1485967 (amenity) (pharmacy) Life Pharmacy
+24411 25.0868866 55.1483498 (amenity) (pharmacy) Life Pharmacy
+24491 25.0883441 55.1464775 (amenity) (pharmacy) Community Pharmacy
+24498 25.0824031 55.1468073 (amenity) (pharmacy) Life Pharmacy
+24533 25.0755289 55.1312751 (shop) (beauty) Sephora
+25143 25.1342049 55.2154815 (shop) (car) Al Khoory
+26314 25.2679484 55.301253 (amenity) (bureau_de_change) Al Ansari Exchange
+28904 25.2523135 55.332632149999995 (shop) (mall) Deira City Centre
+29214 25.2790716 55.36239255 (shop) (supermarket) Lulu Hypermarket
+30696 25.194780350000002 55.27658685 (shop) (mall) Souk al Bahar
+31700 24.0744175 56.043916949999996 (natural) (cliff) Wonderwall
+33151 24.4516888 54.3485098 (amenity) (place_of_worship) Sultan Mosque
+33548 24.48787355 54.35993595 (amenity) (hospital) Al Ahlia Hospital
+34105 25.2681523 55.3110829 (amenity) (grave_yard) Al Rigga Graveyard
+34281 24.500100850000003 54.34514755 (natural) (coastline) Lulu Island
+35846 24.329061850000002 54.6132955 (amenity) (hospital) Al Mafraq Hospital
+36527 24.4592404 54.3491568 (amenity) (clinic) Cure Medical
+36948 25.7592218 55.9158905 (shop) (supermarket) Emirates Supermarket
+36951 25.7922385 55.9670535 (shop) (mall) Al Naeem Mall
+36968 24.4834101 54.607563999999996 (tourism) (theme_park) Ferrari World
+37260 25.25545785 55.398126399999995 (amenity) (fuel) EPPCO
+37284 25.334868800000002 55.387096150000005 (amenity) (place_of_worship) Al Noor Mosque
+37329 25.787239800000002 55.963744899999995 (amenity) (fuel) EPPCO
+37375 25.12254015 56.33053665 (amenity) (restaurant) Pizza Hut
+38237 25.5850674 55.65928335 (amenity) (fuel) EPPCO
+38637 24.43531015 54.42500355 (shop) (convenience) ADNOC Oasis
+38640 24.43449205 54.424525700000004 (shop) (convenience) ADNOC Oasis
+39034 25.3343924 55.3624361 (amenity) (restaurant) Sanobar Restaurant
+40630 24.4327066 54.617365050000004 (amenity) (library) Knowledge center
+40750 25.12236795 56.34422335 (shop) (supermarket) Choitram Super Market, Fujairah
+40767 25.121216099999998 56.3312171 (shop) (supermarket) Giant Super Market, Fujairah
+40804 25.120044200000002 56.32824225 (shop) (supermarket) Lulu Hyper Market
+40997 25.3914961 55.478773700000005 (amenity) (post_office) Emirates Post
+41266 25.36499475 55.4286537 (amenity) (school) Esheliah Primary Girls School
+42648 24.45815095 54.33119495 (amenity) (place_of_worship) Al Bateen Mosque
+42850 25.2803651 55.31310485 (amenity) (hospital) Belhoul Speciality Hospital
+43010 24.5172469 54.3735983 (amenity) (marketplace) Iranian Souk
+43011 24.5156944 54.3749593 (amenity) (marketplace) Plant Market
+43066 25.3417013 55.430362200000005 (amenity) (place_of_worship) Al Qassimi Hospital
+43648 24.4969336 54.3880101 (amenity) (hospital) Cleveland Clinic Abu Dhabi
+43738 24.252225 55.80422345 (amenity) (hospital) Buraimi Hospital
+43983 24.22522175 55.7369576 (amenity) (fuel) ADNOC
+44058 24.4010667 55.79706725 (amenity) (fuel) ADNOC Station
+44282 24.263505449999997 55.765843700000005 (shop) (mall) Oasis Mall Al Ain
+44290 24.26969405 55.7571129 (amenity) (place_of_worship) EMIRATO de DUBAI (UAE) Mezquita de Al Ain
+44472 24.47603955 54.321168650000004 (shop) (mall) Marina Mall
+47171 24.4233342 54.430823149999995 (amenity) (parking) Zayed Military Hospital Parking
+47736 24.4519539 54.60504135 (natural) (coastline) Al Muneera Island
+47759 24.45088995 54.60005065 (natural) (coastline) Al Bandar Island
+47878 25.14917485 55.2461305 (shop) (mall) Al Khail Mall
+47934 25.097169649999998 55.183819 (amenity) (hospital) Saudi German Hospital
+48109 25.1754295 55.2559783 (amenity) (parking) Parking lot
+48514 24.4597279 54.67220295 (shop) (supermarket) Select Market
+48518 24.42905845 54.565044400000005 (amenity) (school) GEMS American Academy (GAA)
+48640 25.20924255 55.2756902 (amenity) (parking) Emirates Grand Hotel
+48873 25.8014054 55.97347565 (shop) (supermarket) Rak Palce
+49232 24.5455118 54.6737853 (tourism) (zoo) Emirates Park Zoo
+49322 25.8036697 55.972761199999994 (amenity) (public_building) immigration
+49342 24.48335495 54.3749359 (amenity) (bank) Citibank
+49383 26.198284100000002 56.249243899999996 (tourism) (attraction) Khasab Fort
+49413 25.20865145 55.3616636 (shop) (car) al futtaim toyota motors
+49435 24.49794835 54.3725594 (amenity) (fuel) ADNOC
+49935 25.5638876 55.5518608 (shop) (supermarket) Lulu Center
+50750 25.294438800000002 55.3739796 (amenity) (fuel) Emarat Petrol Station
+51154 25.26661225 55.33079945 (amenity) (bank) Commercial Bank of Dubai
+51816 24.9592787 55.05345405 (amenity) (parking) Jebel Ali Gate 7 Car Parking
+51973 25.07777875 55.178793299999995 (amenity) (school) Dubai International Academy
+53208 25.295704450000002 55.379045000000005 (amenity) (place_of_worship) Masjid Nahda
+53262 25.34444785 55.4048669 (shop) (mall) The Gold Centre
+53377 24.420258150000002 54.4575063 (amenity) (fast_food) KFC
+53521 25.132532949999998 55.19910825 (amenity) (fuel) ENOC
+53524 25.239346150000003 55.2800867 (amenity) (clinic) UniCare Centre
+53525 25.240184550000002 55.2805274 (amenity) (childcare) New Dubai Nursery
+53531 25.03837005 55.18569635 (shop) (convenience) Enoc
+53532 25.038550200000003 55.18162935 (shop) (convenience) Enoc
+53578 25.08077 55.216056699999996 (amenity) (fuel) Enoc
+53579 25.0808854 55.2158197 (shop) (convenience) Enoc
+53583 25.2709221 55.33090475 (amenity) (fuel) Emarat
+53584 25.2709024 55.330979400000004 (amenity) (fuel) Emarat
+53722 25.4277478 55.52504005 (shop) (mall) China Mall
+53739 24.712840800000002 56.18610075 (natural) (water) Hatta Pools
+53830 25.4150833 55.4707991 (amenity) (police) Ajman Police Station, Musheirif
+53949 25.37092115 55.41439095 (amenity) (hospital) Kuwaiti Hospital
+54030 24.49275815 54.3747587 (amenity) (fuel) ADNOC
+55092 25.30515265 55.3740867 (amenity) (restaurant) Pizza Hut
+55101 25.30903215 55.37955865 (shop) (mall) Safeer Mall
+55102 25.30548625 55.374471299999996 (amenity) (fast_food) Kentucky Fried Chicken
+55105 25.3217652 55.3895522 (amenity) (restaurant) Fish Market Restaurant
+55107 25.33155885 55.395179999999996 (amenity) (place_of_worship) Al Salam Mosque
+55120 25.2781861 55.359042 (amenity) (bank) Emirates NBD
+55140 24.87414085 54.92195445 (amenity) (restaurant) Al Assaha Restaurant
+55263 24.37265675 54.52006 (amenity) (fuel) Adnoc
+55264 24.3727525 54.52045615 (amenity) (fast_food) KFC
+55596 25.19218915 55.26550695 (amenity) (parking) Executive Towers parking - East
+56532 25.1526818 55.26062105 (amenity) (fast_food) Burger King
+56535 25.058770850000002 55.264915650000006 (amenity) (fuel) Emarat
+56541 25.059270599999998 55.2856996 (amenity) (fast_food) Burger King
+56591 25.3666337 55.40122685 (amenity) (fire_station) Sharjah Fire Station
+59130 24.468538199999998 54.34138225 (amenity) (fuel) ADNOC
+59607 24.4713263 54.3483775 (shop) (convenience) Spar
+59688 24.2205584 55.739030650000004 (amenity) (fuel) ADNOC
+59863 24.230012350000003 55.7343056 (amenity) (hospital) Al Ain Hospital
+60259 24.406104499999998 54.60394545 (amenity) (fuel) ADNOC
+60874 24.417775849999998 54.5634225 (amenity) (veterinary) German Veterinary Clinic
+60879 24.41887925 54.567803999999995 (amenity) (kindergarten) Humpty Dumpty Nursery
+61441 25.2571932 55.32844125 (amenity) (parking) RTA Public Parking
+61599 25.0756653 55.1380598 (shop) (ticket) Dubai Marina
+61725 25.134707849999998 55.21604135 (amenity) (fuel) Emarat Petrol Station
+63583 25.17317685 55.218169700000004 (amenity) (fast_food) KFC
+63584 25.172993249999998 55.218025049999994 (amenity) (fast_food) Hardees
+63591 25.1696 55.215279499999994 (amenity) (fuel) ENOC Petrol Station Jumeirah 3
+63613 25.1521041 55.20071595 (amenity) (fuel) Emarat
+64078 25.08554295 55.1476339 (amenity) (restaurant) Reem Al Bawadi (Dubai Marina Walk Branch)
+64439 25.16448065 55.212091799999996 (amenity) (pharmacy) Aster Pharmacy
+65958 25.226981199999997 55.385794149999995 (amenity) (police) Al Rashidiya Police Station
+66735 25.2369924 55.4213245 (shop) (mall) Etihad Mall
+67012 24.23919525 55.74089575 (amenity) (university) Al Ain University of Science and Technology
+67102 24.9688428 55.19682160000001 (amenity) (pharmacy) Al Ittihad Drug Store
