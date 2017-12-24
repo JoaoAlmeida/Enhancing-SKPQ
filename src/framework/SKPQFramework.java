@@ -5,26 +5,9 @@
 package framework;
 
 import dataset.DatasetTupleFactory;
-import dataset.DatasetTupleFactoryReuters;
-import invertedFile.Indexer;
-import invertedFile.InvertedFileSearch;
-import util.LoadRTree;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Properties;
-import s2i.S2IBuildIndex;
-import s2i.preference.PreferenceFileTermManager;
-import s2i.preference.PreferenceIndex;
-import s2i.preference.PreferenceSearch;
-import s2i.preference.PreferenceTreeTermManager;
-import s2i.range.RangeFileTermManager;
-import s2i.range.RangeIndex;
-import s2i.range.RangeSearch;
-import s2i.range.RangeTreeTermManager;
-import s2i.text.TextFileTermManager;
-import s2i.text.TextIndex;
-import s2i.text.TextSearch;
-import s2i.text.TextTreeTermManager;
 import util.RandomUtil;
 
 import util.experiment.DefaultExperimentManager;
@@ -87,7 +70,8 @@ public class SKPQFramework extends DefaultExperimentManager {
 
             String randomSeed = getDataSet() + this.getRound();
 
-            if (getProperties().getProperty("experiment.name").equals("PreferenceSearch")) {
+            if (getProperties().getProperty("experiment.name").equals("SKPQ-LD")) {
+            	
                 RandomUtil.setNewSeed(randomSeed.hashCode());
 
                 PreferenceFileTermManager fileTermManager = createFileTermManager();

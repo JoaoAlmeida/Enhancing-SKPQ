@@ -1,0 +1,160 @@
+http://stackoverflow.com/questions/21290186/how-to-find-similar-content-using-sparql
+
+
+SELECT DISTINCT * WHERE {
+
+<http://wikidata.dbpedia.org/resource/Q219315> ?property ?object.
+
+  FILTER(?property != <http://dbpedia.org/ontology/wikiPageWikiLink>)
+  
+}
+  
+ORDER BY DESC(?property) LIMIT 100
+
+
+
+//http://wikidata.dbpedia.org/page/Q274748
+
+
+// TYPE of resources
+SELECT *
+WHERE 
+{
+   <http://wikidata.dbpedia.org/resource/Q2138213> rdf:type ?type .
+
+} LIMIT 5
+
+
+//PROPERTIES of similar resources
+
+SELECT DISTINCT * WHERE {
+
+<http://wikidata.dbpedia.org/resource/Q219315> ?property [].
+<http://wikidata.dbpedia.org/resource/Q219345> ?property [].
+
+
+  FILTER(?property != <http://dbpedia.org/ontology/wikiPageWikiLink>)
+}
+
+
+SHARED PROPERTIES
+http://stackoverflow.com/questions/27105465/how-to-get-intersection-like-behavior-with-sparql-1-1s-values
+
+
+  
+ORDER BY DESC(?property) LIMIT 100
+
+
+http://stackoverflow.com/questions/27105465/how-to-get-intersection-like-behavior-with-sparql-1-1s-values
+
+
+http://stackoverflow.com/questions/35505714/retrieving-all-dbpedia-resource-properties
+
+
+EXTERNAL LINK
+//SELECT (count(?o)){dbpedia:Philipp_Melanchthon dbpedia-owl:wikiPageExternalLink ?o.}
+
+
+DESCRIBE
+describe <http://dbpedia.org/resource/Mahatma_Gandhi>
+
+
+INFOBOX CATEGORIES
+http://stackoverflow.com/questions/5364851/getting-dbpedia-infobox-categories
+
+
+
+
+PROPERTIES OF A RESOURCE http://wikidata.dbpedia.org / http://wikidata.dbpedia.org/sparql
+
+SELECT DISTINCT * WHERE { 
+
+<http://wikidata.dbpedia.org/resource/Q219315> ?property ?object. 
+
+FILTER(
+
+?property != <http://dbpedia.org/ontology/wikiPageWikiLink>
+
+AND
+
+?property != <http://www.w3.org/2002/07/owl#sameAs>
+
+AND
+
+?property != <http://www.w3.org/2000/01/rdf-schema#label>
+
+)} 
+
+
+
+This query orders Rihanna's categories by the total number of members in each category:
+
+SELECT ?category (COUNT(?member) as ?memberCount) WHERE {
+    ?member dct:subject ?category.
+    { SELECT ?category WHERE { dbr:Rihanna dct:subject ?category. } }
+}
+ORDER BY ?memberCount
+
+
+
+
+select by prperties
+
+
+SELECT ?p ?o{
+
+<http://dbpedia.org/resource/The_Hangover> ?p  ?o.
+
+
+
+FILTER(?p != <http://dbpedia.org/ontology/wikiPageWikiLink>).
+
+FILTER(?p != <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>).
+
+FILTER(?p != <http://purl.org/dc/terms/subject>).
+
+FILTER(?p != <http://www.w3.org/2002/07/owl#sameAs>).
+
+FILTER(?p != <http://www.w3.org/2000/01/rdf-schema#comment>).
+
+FILTER(?p != <http://www.w3.org/2000/01/rdf-schema#label>).
+
+FILTER(?p != <http://dbpedia.org/property/extra>).
+
+FILTER(?p != <http://dbpedia.org/ontology/abstract>).
+
+FILTER(?p != <http://dbpedia.org/property/quote>).
+
+FILTER(?p != <http://dbpedia.org/property/length>).
+
+FILTER(?p != <http://dbpedia.org/property/title>).
+
+FILTER(?p != <http://dbpedia.org/property/name>).
+
+FILTER(?p != <http://dbpedia.org/property/label>).
+
+FILTER(?p != <http://dbpedia.org/ontology/wikiPageExternalLink>).
+
+FILTER(?p != <http://dbpedia.org/property/caption>).
+
+FILTER(?p != <http://dbpedia.org/property/type>).
+
+FILTER(?p != <http://dbpedia.org/ontology/wikiPageID>).
+
+FILTER(?p != <http://dbpedia.org/property/alt>).
+
+FILTER(?p != <http://dbpedia.org/property/artist>).
+
+FILTER(?p != <http://dbpedia.org/ontology/wikiPageRevisionID>).
+
+FILTER(?p != <http://dbpedia.org/property/id>).
+
+FILTER(!isLiteral(?o)) .
+
+
+
+
+              
+}
+
+LIMIT 1000

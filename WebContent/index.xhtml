@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:p="http://primefaces.org/ui">
+
+<h:head>
+
+
+
+
+
+</h:head>
+
+
+<h:form id="form1">
+
+	<p:panel header="LODICA">
+
+		<p:messages  autoUpdate="true" />
+
+		<h:panelGrid id="grid" columns="4" cellpadding="5">
+
+<!-- 			<h:outputLabel for="name" value="Query:" style="font-weight:bold" />
+			<p:inputText id="name" value="#{lodBean.text}" required="true"label="Name" />
+			<p:message for="name" /> -->
+
+			<p:selectOneMenu id="domain" value="#{lodBean.domain}"
+				style="width:125px" valueChangeListener="#{lodBean.fireSelection}">
+				<f:selectItems value="#{lodBean.domains}" />
+				<p:ajax event="valueChange" immediate="true" update="empT"
+					process="@this" />
+			</p:selectOneMenu>
+
+	<!-- 		<p:commandButton value="Search" ajax="false"
+				actionListener="#{lodBean.searchLod(lodBean.text)}"
+				icon="ui-icon-check" validateClient="true" style="margin-right:10px" /> -->
+		</h:panelGrid>
+
+
+
+	</p:panel>
+
+	
+
+	<p:panel id="panelTable" header="Subject: #{lodBean.subject}">
+	
+<!-- 	<p:growl id="growl" life="2000" /> -->
+
+		<p:dataTable id="empT" value="#{lodBean.resourceViews}" var="resourceView">
+			<p:column>
+				<f:facet name="header">
+					<h:outputText value="Semantic Link"></h:outputText>
+				</f:facet>
+				<h:outputText value="#{resourceView.property}"></h:outputText>
+			</p:column>
+			
+			<p:column>
+				<f:facet name="header">
+					<h:outputText value="Resource"></h:outputText>
+				</f:facet>
+
+				<p:commandLink id="najax" update="empT form1:panelTable" action="#{lodBean.getRelatedResources}" ajax="true">
+					<h:outputText value="#{resourceView.object}" />
+					<f:param name="resourceUri" value="#{resourceView.object}" />
+				</p:commandLink>
+
+			</p:column>
+			
+			<p:column  rendered="#{lodBean.isEvaluation}" >
+			
+				 <f:facet name="header">
+					<h:outputText value="Evaluation"></h:outputText>
+				</f:facet>
+			
+			     <p:commandButton value="LIKE"  id="likeBT"    action="#{lodBean.updateLabelLIKE}" styleClass="ui-priority-primary">
+			             <f:param name="resourceLIKE" value="#{resourceView.object}" />
+			     </p:commandButton>
+			     
+			     <p:commandButton value="DISLIKE"  id="dislikeBT" action="#{lodBean.updateLabelDISLIKE}" styleClass="ui-priority-primary" >
+			     <f:param name="resourceDISLIKE" value="#{resourceView.object}" />
+			     </p:commandButton>
+			</p:column>
+			
+			
+			
+		</p:dataTable>
+
+	</p:panel>
+
+</h:form>
+
+
+</html>

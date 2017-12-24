@@ -1,0 +1,10 @@
+@relation trainingDataset
+
+@attribute wikiPageExternalLinks numeric
+@attribute rdfsSeeAlso numeric
+@attribute owlSameAs numeric
+@attribute E {like, dislike}
+
+@data
+3,3,3,like
+2,2,2,like

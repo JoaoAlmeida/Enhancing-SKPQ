@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+	<graph edgedefault="undirected">
+		<key attr.name="name" attr.type="string" id="name" target="node" />
+		<node id="01">
+			<data key="name">Finding_Nemo</data>
+		</node>
+		<node id="02">
+			<data key="name">Andrew_Stanton</data>
+		</node>
+		<node id="03">
+			<data key="name">Walt_Disney_Studios_Motion_Pictures</data>
+		</node>
+		<node id="04">
+			<data key="name">Finding_Dory</data>
+		</node>
+		<node id="05">
+			<data key="name">Diane_Keaton</data>
+		</node>
+		<node id="06">
+			<data key="name">Willem_Dafoe</data>
+		</node>
+		<node id="07">
+			<data key="name">The_Matrix</data>
+		</node>
+		<node id="08">
+			<data key="name">American_films</data>
+		</node>
+		<node id="09">
+			<data key="name">Jurassic_Shark</data>
+		</node>
+		<node id="10">
+			<data key="name">Albert_Brooks</data>
+		</node>
+		<edge source="01" target="02" />
+		<edge source="01" target="03" />
+		<edge source="01" target="06" />
+		<edge source="01" target="08" />
+		<edge source="01" target="10" />
+		<edge source="02" target="01" />
+		<edge source="02" target="04" />
+		<edge source="03" target="01" />
+		<edge source="03" target="04" />
+		<edge source="04" target="02" />
+		<edge source="04" target="03" />
+		<edge source="04" target="05" />
+		<edge source="04" target="08" />
+		<edge source="04" target="10" />
+		<edge source="05" target="04" />
+		<edge source="06" target="01" />
+		<edge source="07" target="08" />
+		<edge source="08" target="01" />
+		<edge source="08" target="04" />
+		<edge source="08" target="07" />
+		<edge source="08" target="09" />
+		<edge source="09" target="08" />
+		<edge source="10" target="01" />
+		<edge source="10" target="04" />
+	</graph>
+</graphml>
