@@ -1,14 +1,11 @@
 package skpq;
 
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
-import java.io.UnsupportedEncodingException;
 import java.io.Writer;
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 import java.util.TreeSet;
@@ -25,122 +22,101 @@ import org.apache.jena.rdf.model.Resource;
 
 import cosinesimilarity.LuceneCosineSimilarity;
 import node.Sparql;
-import xxl.util.StarRTree;
 
 /**
  * Process a Spatial Preference Keyword Query using LOD.
  * 
- * @author  Jo�o Paulo
+ * @author Jo�o Paulo
  */
 
-public class SKPQSearch extends SpatialQueryLD{
-		
-	public static boolean USING_GRAPH = false;	
-	//static final int k = 300;
-	static final boolean debug = false;	
-	//private String keywords;
+public class SKPQSearch extends SpatialQueryLD {
+
+	public static boolean USING_GRAPH = false;
+	private double radius;
+	private static double oldRadius; 	//remove later
+	static final boolean debug = true;
 	
-	public SKPQSearch(int k, String keywords, String neighborhood, StarRTree rTree) throws IOException {
-		super(k, keywords);		
+	public SKPQSearch(int k, String keywords, String neighborhood, double radius) throws IOException {
+		super(k, keywords);
+		this.radius = radius;
+		oldRadius = radius;		
+	}
+
+	public TreeSet<SpatialObject> execute(String queryKeywords, int k) {
+
+		List<SpatialObject> interestObjectSet = new ArrayList<SpatialObject>();
+		TreeSet<SpatialObject> topK = new TreeSet<>();
+
+		try {
+			interestObjectSet = loadObjectsInterest("hotel_LGD.txt");
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+
+		System.out.println("Processing SKPQ query...\n");
+
+		if (debug) {
+			printQueryName();
+		}
+
+		topK = findFeaturesLGD(interestObjectSet, keywords, radius);
+
+		System.out.println("\n\nPrinting top-k result set.....\n");
+
+		return topK;
 	}
 
 	public static void main(String[] args) throws IOException {
 
-			//k=20 já gera os arquivos necessários para o experimento (k=5, k=10, k=15 e k=20)
-			SKPQSearch search = new SKPQSearch(20, "sunset", "range", null);
-	
-			Writer outputFile = new OutputStreamWriter(new FileOutputStream("SPKQ-LD [" + "k=" + search.getK() + ", kw=" + search.getKeywords() + "].txt"), "ISO-8859-1");
-			
-			List<SpatialObject> interestObjectSet = new ArrayList<SpatialObject>();
-			TreeSet<SpatialObject> topK = new TreeSet<>();
-	
-			interestObjectSet = loadObjectsInterest("hotel_LGD.txt");	
-			
-			System.out.println("Processing SKPQ query...\n");
-			
-			if(debug){			
-				System.out.println("\nk = " + search.k + " | keywords = [ " + search.keywords + " ]" + " | type = range\n\n");
-			}
-			
-			double start = System.currentTimeMillis();
-			
-			topK = search.findFeaturesLGD(interestObjectSet, search.keywords);
-	
-			//Iterator<SpatialObject> it = topK.descendingIterator();
-			
-			System.out.println("\n\nPrinting top-k result set.....\n");
-			
-			search.saveResults(topK);
-			/*
-			int i = 0;
-			
-			while (it.hasNext()) {
-				i++;
-				SpatialObject aux = it.next();
-	
-				if (aux != null) {
-					//System.out.println("-->[" + i + "]  " + "[OSMlabel=" + aux.getName() + ", uri=" + aux.getURI() + ", score=" + " --> " + aux.getScore());	
-					System.out.println("-->[" + i + "]  " + "[OSMlabel=" + aux.getName() + ", lat=" + aux.getLat() + ", lgt=" + aux.getLgt() + ", score=" + aux.getScore() + "]");
-					outputFile.write("-->[" + i + "]  " + "[OSMlabel=" + aux.getName() + ", lat=" + aux.getLat() + ", lgt=" + aux.getLgt() + ", score=" + aux.getScore() + "]\n");
-				} else {
-					System.out.println("No objects to display.");
-				}
-			}*/
-			
-			System.out.println("\n\nQuery processed in " + ((System.currentTimeMillis() - start)/1000)/60 + " mins");
-			//o armazenamento pode ser feito após cada busca de descrição para se prevenir de httpexceptions
-			search.searchCache.store();	
-			outputFile.close();		
-	}
-	
-	private void saveResults(TreeSet<SpatialObject> topK) throws IOException{
-		
-		/* Imprime 5 */
-		Writer outputFile = new OutputStreamWriter(new FileOutputStream("SPKQ-LD [" + "k=" + "5" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
-		
-		Iterator<SpatialObject> it = topK.descendingIterator();
-		
-		for(int a = 1; a <= 5; a++){
-			SpatialObject obj = it.next();
-			outputFile.write("-->[" + a + "]  " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt=" + obj.getLgt() + ", score=" + obj.getScore() + "]\n");
+		// k=20 j� gera os arquivos necess�ios para o experimento (k=5, k=10,
+		// k=15 e k=20)
+		SKPQSearch search = new SKPQSearch(20, "sunset", "range", 0.2);
+
+		Writer outputFile = new OutputStreamWriter(
+				new FileOutputStream("SPKQ-LD [" + "k=" + search.getK() + ", kw=" + search.getKeywords() + "].txt"),
+				"ISO-8859-1");
+
+		List<SpatialObject> interestObjectSet = new ArrayList<SpatialObject>();
+		TreeSet<SpatialObject> topK = new TreeSet<>();
+
+		interestObjectSet = loadObjectsInterest("hotel_LGD.txt");
+
+		System.out.println("Processing SKPQ query...\n");
+
+		if (debug) {
+			System.out
+					.println("\nk = " + search.k + " | keywords = [ " + search.keywords + " ]" + " | type = range\n\n");
 		}
-		
-		outputFile.close();
-		
-		/* Imprime 10 */
-		outputFile = new OutputStreamWriter(new FileOutputStream("SPKQ-LD [" + "k=" + "10" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
-		
-		it = topK.descendingIterator();
-		
-		for(int a = 1; a <= 10; a++){
-			SpatialObject obj = it.next();
-			outputFile.write("-->[" + a + "]  " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt=" + obj.getLgt() + ", score=" + obj.getScore() + "]\n");
-		}
-		
-		outputFile.close();
-		
-		/* Imprime 15 */
-		outputFile = new OutputStreamWriter(new FileOutputStream("SPKQ-LD [" + "k=" + "15" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
-		
-		it = topK.descendingIterator();
-		
-		for(int a = 1; a <= 15; a++){
-			SpatialObject obj = it.next();
-			outputFile.write("-->[" + a + "]  " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt=" + obj.getLgt() + ", score=" + obj.getScore() + "]\n");
-		}
-		
-		outputFile.close();
-		
-		/* Imprime 20 */
-		outputFile = new OutputStreamWriter(new FileOutputStream("SPKQ-LD [" + "k=" + "20" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
-		
-		it = topK.descendingIterator();
-		
-		for(int a = 1; a <= 20; a++){
-			SpatialObject obj = it.next();
-			outputFile.write("-->[" + a + "]  " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt=" + obj.getLgt() + ", score=" + obj.getScore() + "]\n");
-		}
-		
+
+		double start = System.currentTimeMillis();
+
+		topK = search.findFeaturesLGD(interestObjectSet, search.keywords, oldRadius);
+
+		// Iterator<SpatialObject> it = topK.descendingIterator();
+
+		System.out.println("\n\nPrinting top-k result set.....\n");
+
+		search.saveResults(topK);
+		/*
+		 * int i = 0;
+		 * 
+		 * while (it.hasNext()) { i++; SpatialObject aux = it.next();
+		 * 
+		 * if (aux != null) { //System.out.println("-->[" + i + "]  " +
+		 * "[OSMlabel=" + aux.getName() + ", uri=" + aux.getURI() + ", score=" +
+		 * " --> " + aux.getScore()); System.out.println("-->[" + i + "]  " +
+		 * "[OSMlabel=" + aux.getName() + ", lat=" + aux.getLat() + ", lgt=" +
+		 * aux.getLgt() + ", score=" + aux.getScore() + "]");
+		 * outputFile.write("-->[" + i + "]  " + "[OSMlabel=" + aux.getName() +
+		 * ", lat=" + aux.getLat() + ", lgt=" + aux.getLgt() + ", score=" +
+		 * aux.getScore() + "]\n"); } else {
+		 * System.out.println("No objects to display."); } }
+		 */
+
+		System.out.println("\n\nQuery processed in " + ((System.currentTimeMillis() - start) / 1000) / 60 + " mins");
+		// o armazenamento pode ser feito após cada busca de descrição para
+		// se prevenir de httpexceptions
+		search.searchCache.store();
 		outputFile.close();
 	}
 
@@ -153,11 +129,11 @@ public class SKPQSearch extends SpatialQueryLD{
 		String serviceURI = "http://dbpedia.org/sparql";
 
 		for (int a = 0; a < interestSet.size(); a++) {
-			
-			if(debug){
+
+			if (debug) {
 				System.out.println("Objeto de interesse: " + interestSet.get(a).getURI());
 			}
-			
+
 			featureSet = new ArrayList<>();
 
 			// Find features within 200 meters (200m = 0.2)
@@ -217,19 +193,21 @@ public class SKPQSearch extends SpatialQueryLD{
 
 			if (topK.size() < k) {
 				topK.add(interestSet.get(a));
-				// keeps the best objects, if they have the same scores, keeps the objects with smaller ids
-			} else if (interestSet.get(a).getScore() > topK.first().getScore() || (interestSet.get(a).getScore() == topK.first().getScore()
+				// keeps the best objects, if they have the same scores, keeps
+				// the objects with smaller ids
+			} else if (interestSet.get(a).getScore() > topK.first().getScore()
+					|| (interestSet.get(a).getScore() == topK.first().getScore()
 							&& interestSet.get(a).getId() > topK.first().getId())) {
 				topK.pollFirst();
 				topK.add(interestSet.get(a));
 			}
 		}
 		return topK;
-		
+
 	}
 
 	// Searches for features in OpenStreetMap dataset
-	public TreeSet<SpatialObject> findFeaturesLGD(List<SpatialObject> interestSet, String keywords) {
+	public TreeSet<SpatialObject> findFeaturesLGD(List<SpatialObject> interestSet, String keywords, double radius) {
 
 		List<Resource> featureSet;
 		TreeSet<SpatialObject> topK = new TreeSet<>();
@@ -237,11 +215,11 @@ public class SKPQSearch extends SpatialQueryLD{
 		String serviceURI = "http://linkedgeodata.org/sparql";
 
 		for (int a = 0; a < interestSet.size(); a++) {
-			
-			if(debug){
+
+			if (debug) {
 				System.out.print("Objeto de interesse: " + interestSet.get(a).getURI());
 			}
-			
+
 			featureSet = new ArrayList<>();
 
 			// Find features within 200 meters (200m = 0.2)
@@ -251,22 +229,24 @@ public class SKPQSearch extends SpatialQueryLD{
 					+ "?point <http://www.opengis.net/ont/geosparql#asWKT> ?sourcegeo."
 					+ "?resource <http://geovocab.org/geometry#geometry> ?loc."
 					+ "?loc <http://www.opengis.net/ont/geosparql#asWKT> ?location." + "?resource rdfs:label ?nome."
-					+ "filter(bif:st_intersects( ?location, ?sourcegeo, 0.2)).}"
+					+ "filter(bif:st_intersects( ?location, ?sourcegeo, " + radius + ")).}"
 					+ Sparql.addServiceClosing(USING_GRAPH);
 
-			//System.out.println(queryString);
+			// System.out.println(queryString);
 
 			Query query = QueryFactory.create(Sparql.addPrefix().concat(queryString));
 
 			try (QueryExecution qexec = QueryExecutionFactory.create(query, model)) {
 
-//				Map<String, Map<String, List<String>>> serviceParams = new HashMap<String, Map<String, List<String>>>();
-//				Map<String, List<String>> params = new HashMap<String, List<String>>();
-//				List<String> values = new ArrayList<String>();
-//				values.add("2000000");
-//				params.put("timeout", values);
-//				serviceParams.put(serviceURI, params);
-//				qexec.getContext().set(ARQ.serviceParams, serviceParams);
+				// Map<String, Map<String, List<String>>> serviceParams = new
+				// HashMap<String, Map<String, List<String>>>();
+				// Map<String, List<String>> params = new HashMap<String,
+				// List<String>>();
+				// List<String> values = new ArrayList<String>();
+				// values.add("2000000");
+				// params.put("timeout", values);
+				// serviceParams.put(serviceURI, params);
+				// qexec.getContext().set(ARQ.serviceParams, serviceParams);
 				try {
 					ResultSet rs = qexec.execSelect();
 
@@ -277,7 +257,7 @@ public class SKPQSearch extends SpatialQueryLD{
 						RDFNode x = rb.get("resource");
 
 						if (x.isResource()) {
-							//Set of objects neighbors to object of interest
+							// Set of objects neighbors to object of interest
 							featureSet.add((Resource) x);
 							// System.out.println(featureSet.get(0).getURI());
 						}
@@ -290,7 +270,7 @@ public class SKPQSearch extends SpatialQueryLD{
 
 			double maxScore = 0;
 
-			//compute the textual score for each feature
+			// compute the textual score for each feature
 			for (int b = 0; b < featureSet.size(); b++) {
 
 				String abs;
@@ -301,7 +281,7 @@ public class SKPQSearch extends SpatialQueryLD{
 					abs = getTextDescriptionLGD(featureSet.get(b).getURI());
 					searchCache.putDescription(featureSet.get(b).getURI(), abs);
 				}
-//				 System.out.println("abstract: " + abs);
+				// System.out.println("abstract: " + abs);
 				// System.out.println("key: " + keywords);
 				double score = LuceneCosineSimilarity.getCosineSimilarity(abs, keywords);
 				// System.out.println("Score: " + score);
@@ -312,22 +292,24 @@ public class SKPQSearch extends SpatialQueryLD{
 				}
 			}
 
-			//set the highest score from one feature in the interest object
+			// set the highest score from one feature in the interest object
 			interestSet.get(a).setScore(maxScore);
-			
-			if(debug){
+
+			if (debug) {
 				System.out.print(" | Score = " + maxScore + "\n");
 			}
-			
+
 			if (topK.size() < k) {
 				topK.add(interestSet.get(a));
-				// keeps the best objects, if they have the same scores, keeps the objects with smaller ids
-			} else if (interestSet.get(a).getScore() > topK.first().getScore() || (interestSet.get(a).getScore() == topK.first().getScore()
+				// keeps the best objects, if they have the same scores, keeps
+				// the objects with smaller ids
+			} else if (interestSet.get(a).getScore() > topK.first().getScore()
+					|| (interestSet.get(a).getScore() == topK.first().getScore()
 							&& interestSet.get(a).getId() > topK.first().getId())) {
 				topK.pollFirst();
 				topK.add(interestSet.get(a));
 			}
-		}		
+		}
 		return topK;
 	}
 
@@ -496,7 +478,7 @@ public class SKPQSearch extends SpatialQueryLD{
 			} finally {
 				qexec.close();
 			}
-		}		
+		}
 		return description;
 	}
 
@@ -705,7 +687,8 @@ public class SKPQSearch extends SpatialQueryLD{
 		return abs;
 	}
 
-	// procura por resources que pertencem a ontologia passada como parâmetro. É
+	// procura por resources que pertencem a ontologia passada como parâmetro.
+	// É
 	// possível fazer isso mais fácil usando o prefixo lgdo
 	public List<Resource> searchObjectofInterest(String object) {
 
@@ -789,6 +772,10 @@ public class SKPQSearch extends SpatialQueryLD{
 			}
 			return resources;
 		}
-
+	}
+	
+	@Override
+	public void printQueryName(){
+		System.out.println("\nk = " + k + " | keywords = [ " + keywords + " ]" + " | type = range [radius = " + radius + "]\n\n");
 	}
 }

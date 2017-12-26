@@ -14,13 +14,14 @@ import java.util.Set;
  * 	Cache used to store Web content that has access limits
  *  Cache usually used to improve query performance, storing the textual descriptions from objects at LinkedGeoData and DBpedia.
  * 
- * @author  Jo√£o Paulo
+ * @author  Jo„o Paulo
  */
 
 public class WebContentCache {
 	
 	private HashMap<String, String> cache;
 	private String cacheFileName;
+	private boolean debug = false;
 
 	public WebContentCache(String cacheFileName) {
 		this.cacheFileName = cacheFileName;
@@ -43,7 +44,10 @@ public class WebContentCache {
 
 		try {
 			writer.writeObject(cache);
-		} finally {
+			if(debug){
+				System.out.println("\n[Cache stored successfully!]");	
+			}			
+		} finally {			
 			writer.close();
 			fostr.close();
 		}
@@ -58,6 +62,7 @@ public class WebContentCache {
 			
 			cache = (HashMap<String, String>) reader.readObject();
 			
+			if(debug)
 			System.out.println("\nINFO: Cache loaded successfully...\n\n");
 			
 			reader.close();

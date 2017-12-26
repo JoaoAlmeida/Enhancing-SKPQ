@@ -5,8 +5,8 @@
 	<classpathentry kind="lib" path="google_places_api.jar"/>
 	<classpathentry kind="src" path="/LODWEB"/>
 	<classpathentry kind="lib" path="lib/Dataset.jar"/>
-	<classpathentry kind="lib" path="lib/Util.jar"/>
 	<classpathentry kind="lib" path="lib/XXL.jar"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/google-places-api-java-2.1.7"/>
+	<classpathentry kind="lib" path="C:/Users/JoãoPaulo/Dropbox/Mestrado/Artigo SBBD/Code/s2i/lib/Util.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

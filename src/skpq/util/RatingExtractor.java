@@ -90,7 +90,7 @@ public class RatingExtractor {
 		String queryResult = line;
 
 		while (queryResult != null) {
-			System.out.println(queryResult);
+//			System.out.println(queryResult);
 			String lat = queryResult.substring(queryResult.indexOf("lat=")+4, queryResult.indexOf(", lgt="));
 			String lgt = queryResult.substring(queryResult.indexOf("lgt=")+4, queryResult.indexOf(", score="));
 			String key = lat + " " + lgt;
@@ -131,7 +131,7 @@ public class RatingExtractor {
 		String queryResult = line;
 
 		while (queryResult != null) {
-			System.out.println(queryResult);
+			
 			String lat = queryResult.substring(queryResult.indexOf("lat=")+4, queryResult.indexOf(", lgt="));
 			String lgt = queryResult.substring(queryResult.indexOf("lgt=")+4, queryResult.indexOf(", score="));
 			String key = lat + " " + lgt;

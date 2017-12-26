@@ -20,6 +20,8 @@ import org.apache.jena.rdf.model.Resource;
 
 import cosinesimilarity.LuceneCosineSimilarity;
 import node.Sparql;
+import util.experiment.ExperimentException;
+import xxl.util.StarRTree;
 
 /**
  * Process a top-k Spatial Boolean range Query (BRQ) using LOD.
@@ -29,19 +31,26 @@ import node.Sparql;
  * 
  * In this query k value limits the result size, indicating how many objects will be presented to the user.
  * 
- * @author Jo√£o Paulo
+ * @author Jo„o Paulo
  */
 
-//Deve conter todas as keywords na descri√ß√£o textual
+//FALTA ORGANIZAR O EXECUTE
+//Deve conter todas as keywords na descriÁ„o textual
 public class RankedBRQ extends SpatialQueryLD {
 
 	static final boolean debug = true;
 	private final int k = 1;
 	
-	public RankedBRQ(String keywords, String queryRegion) throws IOException {
-		super(keywords);
+	public RankedBRQ(int k, String keywords, String queryRegion, StarRTree rTree, double radius) throws IOException {
+		super(keywords, null);
 	}
 
+	@Override
+	protected TreeSet<SpatialObject> execute(String queryKeywords, int k) throws ExperimentException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
 	public static void main(String[] args) throws IOException {		
 
 		List<SpatialObject> interestObjectSet = new ArrayList<SpatialObject>();
@@ -59,7 +68,7 @@ public class RankedBRQ extends SpatialQueryLD {
 
 			SpatialObject interestObject = objSet.next();
 
-			RankedBRQ search = new RankedBRQ("food McDonald's", interestObject.getURI());
+			RankedBRQ search = new RankedBRQ(0, "food McDonald's", interestObject.getURI(), null, 0);
 
 			if (debug) {
 				System.out.println("Region = 200m from " + interestObject.getURI() + " | keywords = [ " + search.keywords + " ]\n\n");

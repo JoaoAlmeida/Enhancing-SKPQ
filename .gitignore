@@ -1,3 +1,19 @@
+# =========================
+# Project Ignored Files
+# =========================
+
+# Notepad++ backup folder
+nppBackup/
+
+# Framework output folder
+output/
+evaluations/
+indexDubai/
+
+# =========================
+# Windows Files
+# =========================
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db

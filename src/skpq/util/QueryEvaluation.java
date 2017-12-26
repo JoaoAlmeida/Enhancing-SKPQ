@@ -20,6 +20,7 @@ public class QueryEvaluation {
 	ArrayList<SpatialObject> results;
 	ArrayList<SpatialObject> idealResults;
 	private String query_keywords;
+	private boolean debug = false;
 
 	public QueryEvaluation(String fileName, String query_keywords) throws IOException{
 		this.fileName = fileName;
@@ -208,13 +209,14 @@ public class QueryEvaluation {
 		return ndcg;
 	}
 	
-	private void outputVec(String fileName, double[] dcg, double[] idcg, double[] ndcg, double precision, double avPrecision) throws IOException{
+	private double outputVec(String fileName, double[] dcg, double[] idcg, double[] ndcg, double precision, double avPrecision) throws IOException{
 		
 		double acumulator1 = 0, acumulator2 = 0;
 		
-		String file = "C:\\Users\\JoãoPaulo\\Dropbox\\Doutorado\\SKPQ enhanced"
-					+ "\\resultados\\range\\mais frequente\\evaluations\\" + fileName.split(" --- ratings.txt")[0] + " Evaluation.txt";
+//		String file = "C:\\Users\\Jo�oPaulo\\Dropbox\\Doutorado\\SKPQ enhanced"
+//					+ "\\resultados\\range\\mais frequente\\evaluations\\" + fileName.split(" --- ratings.txt")[0] + " Evaluation.txt";
 		
+		String file = "evaluations\\" + fileName.split(" --- ratings")[0] + " Evaluation.txt";
 		//String file = fileName.split(" --- ratings.txt")[0] + " Evaluation.txt";
 				
 		Writer output = new OutputStreamWriter(new FileOutputStream(file), "ISO-8859-1");			
@@ -243,9 +245,12 @@ public class QueryEvaluation {
 		output.write("[Precision] = " + precision + "\n");
 		output.write("[Average Precision] = " + avPrecision);
 		
+		if(debug)
 		System.out.println("Evaluation data printed at: " + file);
 		
 		output.close();
+		
+		return acumulator1/acumulator2;
 	}
 
 	@SuppressWarnings("unused")
@@ -267,7 +272,7 @@ public class QueryEvaluation {
 		output.close();
 	}
 	
-	public void execute() throws IOException{
+	public double execute() throws IOException{
 		
 		double[] dcg = discountCumulativeGain();
 		@SuppressWarnings("unchecked")
@@ -276,9 +281,9 @@ public class QueryEvaluation {
 		double[] ndcg = normalizedDiscountCumulativeGain(idcg, dcg);
 		
 		double precision = precision();
-		double avPrecision = averagePrecision();
+		double avPrecision = averagePrecision();		
 		
-		outputVec(fileName, dcg, idcg, ndcg, precision, avPrecision);
+		return outputVec(fileName, dcg, idcg, ndcg, precision, avPrecision);
 	}
 	
 	/* A cada experimento, mudar o diretório de saída */
