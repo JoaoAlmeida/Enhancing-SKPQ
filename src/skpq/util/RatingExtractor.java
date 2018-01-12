@@ -233,7 +233,7 @@ public class RatingExtractor {
 		System.out.println("\n\n");					
 		
 			}catch(se.walkercrou.places.exception.GooglePlacesException e){
-			System.out.println("ZERO RESULTS");
+//			System.out.println("ZERO RESULTS");
 			result = osmLabel + " " + "0.0";
 			ratingCache.putDescription(osmLabel, "0.0");
 			ratingCache.store();
@@ -332,7 +332,7 @@ private String rateObjectwithCossine (String osmLabel, String lat, String lgt, S
 		System.out.println("\n\n");					
 		
 			}catch(se.walkercrou.places.exception.GooglePlacesException e){
-			System.out.println("ZERO RESULTS");			
+//			System.out.println("ZERO RESULTS");			
 			result =  "osmLabel=" + osmLabel + " googleDescription=empty" + " score=0.1" + "rate=0.0";
 			ratingCache.putDescription(osmLabel, "0.1");
 			descriptionCache.putDescription(osmLabel, "empty");
@@ -439,7 +439,7 @@ private String rateObjectwithCossineP (String osmLabel, String lat, String lgt, 
 	System.out.println("\n\n");					
 	
 		}catch(se.walkercrou.places.exception.GooglePlacesException e){
-		System.out.println("ZERO RESULTS");
+//		System.out.println("ZERO RESULTS");
 		result = osmLabel + " " + "0.0";
 		ratingCache.putDescription(osmLabel, "0.0");
 		descriptionCache.putDescription(osmLabel, "0.0");
@@ -476,7 +476,7 @@ private String rateObjectwithCossineP (String osmLabel, String lat, String lgt, 
 		// line has the first query result
 		String queryResult = line;
 
-		while (queryResult.contains("-->")) {
+		while (queryResult != null && queryResult.contains("-->")) {
 		
 			String[] qResVec = queryResult.split(" ");
 
@@ -527,8 +527,8 @@ private String rateObjectwithCossineP (String osmLabel, String lat, String lgt, 
 
 		// line has the first query result
 		String queryResult = line;
-
-		while (queryResult.contains("-->")) {
+		
+		while (queryResult != null && queryResult.contains("-->")) {
 		
 			String[] qResVec = queryResult.split(" ");
 

@@ -12,6 +12,8 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Iterator;
 
+import org.apache.commons.vfs2.FileName;
+
 import skpq.SpatialObject;
 
 public class QueryEvaluation {
@@ -286,30 +288,36 @@ public class QueryEvaluation {
 		return outputVec(fileName, dcg, idcg, ndcg, precision, avPrecision);
 	}
 	
-	/* A cada experimento, mudar o diretÃ³rio de saÃ­da */
-	public static void main(String[] args) throws IOException {
-
-		int k_max = 20;
-		int inc = 5, k = 5;
+	/* A cada experimento, mudar o diretório de saída */
+	public static void main(String[] args) throws IOException {	
+		
+		int k_max = 5;
+		int inc = 5, k = 5, a = 0, i = 1;
 		
 		while(k <= k_max){
 			
+			a = 0;
+			i = 1;
+			
 			boolean arquivoCriado = false;
 	
-//			String fileName = "SPKQ-LD [k="+k+", kw=cafe].txt";
+//			String fileName = "SPKQ-LD [k="+k+", kw=supermarket food].txt";
 //			String fileName = "RQ-LD [k="+k+", kw=cafe].txt";
-			String fileName = "SPKQ [k="+k+", kw=cafe].txt";
+			String fileName = "SKPQ [k="+k+", kw=parking supermarket cafe bank].txt";
+//			while(i <= 4){
+				
+//			String fileName = "RQ [k="+ k + ", kw=jesco, loc=" + i + "].txt";
 			
 			if(!arquivoCriado){
-				Writer output = new OutputStreamWriter(new FileOutputStream(fileName.split("\\.")[0] + " --- ratings.txt"), "ISO-8859-1");
+				Writer output = new OutputStreamWriter(new FileOutputStream(fileName.split("\\.txt")[0] + " --- ratings.txt"), "ISO-8859-1");
 				RatingExtractor obj = new RatingExtractor("cossine");
 	
-//				ArrayList<String> rateResults = obj.rateSKPQresults2(fileName);
+				ArrayList<String> rateResults = obj.rateSKPQresults2(fileName);
 //				ArrayList<String> rateResults = obj.rateLODresult(fileName);
 //				ArrayList<String> rateResults = obj.rateRangeLODresult(fileName);
-				ArrayList<String> rateResults = obj.rateRangeResults(fileName);
+//				ArrayList<String> rateResults = obj.rateRangeResults(fileName);
 	
-				System.out.println("\n\n --- Resultados ---\n");
+//				System.out.println("\n\n --- Resultados ---\n");
 	
 				for (String x : rateResults) {
 	
@@ -318,11 +326,37 @@ public class QueryEvaluation {
 				output.close();
 			}
 			
-			QueryEvaluation q = new QueryEvaluation(fileName.split("\\.")[0] + " --- ratings.txt", fileName.split("kw=")[1].split("\\]\\.txt")[0]);
+			QueryEvaluation q = new QueryEvaluation(fileName.split("\\.txt")[0] + " --- ratings.txt", fileName.split("kw=")[1].split("\\]\\.txt")[0]);
 	
-			q.execute();
+//			ndcg[a] = q.execute();
+			System.out.println(q.execute());
+			a++;	
+			i++;
 			k = k + inc;
 		}
+		
+			
+		
+		double soma = 0;
+		
+//		for(int b = 0; b < ndcg.length; b++){											
+//			soma = soma + ndcg[b];
+//			System.out.print(ndcg[b] + " ");
+//		}
+		
+//		System.out.println("\nSomatório " + k + ": " + soma);		
+//		}
+//		System.out.println("\nSomatório ");
+//		//Calculate evaluation arithmetic mean
+//		
+//
+//		for(int b = 0; b < evaluations.get(0).length; b++){
+//			for(int c = 0; c < evaluations.size(); c++){		
+//				ndcg[b] = ndcg[b] + evaluations.get(c)[b];
+//			}
+//			//			ndcg[b] = ndcg[b] / evaluations.size();
+//			System.out.print(ndcg[b] + " ");
+//		}
 	}
 
 }

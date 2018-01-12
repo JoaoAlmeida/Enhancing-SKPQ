@@ -36,8 +36,6 @@ public abstract class SpatialQueryLD implements Experiment {
 
 	protected WebContentCache searchCache;	
 	protected ArrayList<ExperimentResult> result;
-	// private int iterations;
-	// private final String queryType;
 	public final boolean debugMode = false;
 	protected static BufferedReader reader;
 	protected boolean USING_GRAPH;
@@ -52,7 +50,6 @@ public abstract class SpatialQueryLD implements Experiment {
 		this.k = k;
 		this.keywords = keywords;
 		this.USING_GRAPH = false; // default option
-		// this.queryType = queryType;
 
 		searchCache = new WebContentCache(cacheFileName);
 		searchCache.load();	
@@ -100,7 +97,6 @@ public abstract class SpatialQueryLD implements Experiment {
 		reader = new BufferedReader((new InputStreamReader(new FileInputStream(new File(inputFileName)), "UTF-8")));
 
 		String line = reader.readLine();
-		// System.out.println(line);
 
 		int i = 1;
 
@@ -113,12 +109,10 @@ public abstract class SpatialQueryLD implements Experiment {
 
 			String lat = lineVec[0];
 			String lgt = lineVec[1];
-			// String uri = line.split("http")[1];
 			obj = new SpatialObject(i, osmLabel, uri, lat, lgt);
 			objectsInterest.add(obj);
 			line = reader.readLine();
-			// System.out.println(line);
-			// uri = line.split(" ")[1];
+
 			i++;
 		}
 
@@ -179,9 +173,7 @@ public abstract class SpatialQueryLD implements Experiment {
 			if (debugMode) {
 				System.out.println(Util.time(System.currentTimeMillis() - time) + "]");
 			}
-
-			saveResults(topK);
-
+			
 			System.out.println("\n\nQuery processed in " + ((System.currentTimeMillis() - start) / 1000) / 60 + " mins");
 			// o armazenamento pode ser feito após cada busca de descrição para
 			// se prevenir de httpexceptions
@@ -196,8 +188,8 @@ public abstract class SpatialQueryLD implements Experiment {
 		System.out.println("\nk = " + k + " | keywords = [ " + keywords + " ]\n\n");
 	}
 
-	protected void saveResults(TreeSet<SpatialObject> topK) throws IOException {
-
+	protected void saveResults(TreeSet<SpatialObject> topK) throws IOException {			
+				
 		/* Imprime 5 */
 		Writer outputFile = new OutputStreamWriter(
 				new FileOutputStream("SPKQ-LD [" + "k=" + "5" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
@@ -212,59 +204,61 @@ public abstract class SpatialQueryLD implements Experiment {
 
 		outputFile.close();
 
-		/* Imprime 10 */
-		outputFile = new OutputStreamWriter(
-				new FileOutputStream("SPKQ-LD [" + "k=" + "10" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
-
-		it = topK.descendingIterator();
-
-		for (int a = 1; a <= 10; a++) {
-			SpatialObject obj = it.next();
-			outputFile.write("-->[" + a + "]  " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt="
-					+ obj.getLgt() + ", score=" + obj.getScore() + "]\n");
-		}
-
-		outputFile.close();
-
-		/* Imprime 15 */
-		outputFile = new OutputStreamWriter(
-				new FileOutputStream("SPKQ-LD [" + "k=" + "15" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
-
-		it = topK.descendingIterator();
-
-		for (int a = 1; a <= 15; a++) {
-			SpatialObject obj = it.next();
-			outputFile.write("-->[" + a + "]  " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt="
-					+ obj.getLgt() + ", score=" + obj.getScore() + "]\n");
-		}
-
-		outputFile.close();
-
-		/* Imprime 20 */
-		outputFile = new OutputStreamWriter(
-				new FileOutputStream("SPKQ-LD [" + "k=" + "20" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
-
-		it = topK.descendingIterator();
-
-		for (int a = 1; a <= 20; a++) {
-			SpatialObject obj = it.next();
-			outputFile.write("-->[" + a + "]  " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt="
-					+ obj.getLgt() + ", score=" + obj.getScore() + "]\n");
-		}
-
-		outputFile.close();
+//		/* Imprime 10 */
+//		outputFile = new OutputStreamWriter(
+//				new FileOutputStream("SPKQ-LD [" + "k=" + "10" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
+//
+//		it = topK.descendingIterator();
+//
+//		for (int a = 1; a <= 10; a++) {
+//			SpatialObject obj = it.next();
+//			outputFile.write("-->[" + a + "]  " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt="
+//					+ obj.getLgt() + ", score=" + obj.getScore() + "]\n");
+//		}
+//
+//		outputFile.close();
+//
+//		/* Imprime 15 */
+//		outputFile = new OutputStreamWriter(
+//				new FileOutputStream("SPKQ-LD [" + "k=" + "15" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
+//
+//		it = topK.descendingIterator();
+//
+//		for (int a = 1; a <= 15; a++) {
+//			SpatialObject obj = it.next();
+//			outputFile.write("-->[" + a + "]  " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt="
+//					+ obj.getLgt() + ", score=" + obj.getScore() + "]\n");
+//		}
+//
+//		outputFile.close();
+//
+//		/* Imprime 20 */
+//		outputFile = new OutputStreamWriter(
+//				new FileOutputStream("SPKQ-LD [" + "k=" + "20" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
+//
+//		it = topK.descendingIterator();
+//
+//		for (int a = 1; a <= 20; a++) {
+//			SpatialObject obj = it.next();
+//			outputFile.write("-->[" + a + "]  " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt="
+//					+ obj.getLgt() + ", score=" + obj.getScore() + "]\n");
+//		}
+//
+//		outputFile.close();
 	}
 	
-	protected double[] evaluateQuery(String keywords, String queryLocation) throws IOException{
+	protected double[] evaluateQuery(String keywords, String queryLocation, int numResult) throws IOException{
 		
 		System.out.println("=========================");
 		System.out.println("  Evaluating Query...  ");
 		System.out.println("=========================");					
 		
 		String fileName;
+		ArrayList<String> rateResults = null;
+		
 		double[] ndcg = new double[4];
 		
-			int k_max = 20;
+			int k_max = numResult;
 			int inc = 5, k = 5, a = 0;
 			
 			System.out.println("NDCG");
@@ -283,8 +277,13 @@ public abstract class SpatialQueryLD implements Experiment {
 
 					Writer output = new OutputStreamWriter(new FileOutputStream(fileName.split("\\.txt")[0] + " --- ratings.txt"), "ISO-8859-1");
 					RatingExtractor obj = new RatingExtractor("cossine");
-							
-					ArrayList<String> rateResults = obj.rateRangeLODresult(fileName);
+					
+					if(queryLocation == null){
+						rateResults = obj.rateLODresult(fileName);
+					}else{
+						rateResults = obj.rateRangeLODresult(fileName);
+					}
+					
 		
 					for (String x : rateResults) {
 		
@@ -295,7 +294,6 @@ public abstract class SpatialQueryLD implements Experiment {
 				
 				QueryEvaluation q = new QueryEvaluation(fileName.split("\\.txt")[0] + " --- ratings.txt", fileName.split("kw=")[1].split("\\]\\.txt")[0]);
 						
-//				ndcg = String.valueOf(q.execute()) + " ";
 				ndcg[a] = q.execute();
 				System.out.print(ndcg[a] + " ");
 				

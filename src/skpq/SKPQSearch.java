@@ -34,10 +34,10 @@ public class SKPQSearch extends SpatialQueryLD {
 	public static boolean USING_GRAPH = false;
 	private double radius;
 	private static double oldRadius; 	//remove later
-	static final boolean debug = true;
+	static final boolean debug = false;
 	
 	public SKPQSearch(int k, String keywords, String neighborhood, double radius) throws IOException {
-		super(k, keywords);
+		super(k, keywords, null);
 		this.radius = radius;
 		oldRadius = radius;		
 	}
@@ -60,7 +60,14 @@ public class SKPQSearch extends SpatialQueryLD {
 		}
 
 		topK = findFeaturesLGD(interestObjectSet, keywords, radius);
-
+		
+		try {
+			saveResults(topK);
+			evaluateQuery(keywords, null, k);
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		
 		System.out.println("\n\nPrinting top-k result set.....\n");
 
 		return topK;
@@ -91,8 +98,6 @@ public class SKPQSearch extends SpatialQueryLD {
 		double start = System.currentTimeMillis();
 
 		topK = search.findFeaturesLGD(interestObjectSet, search.keywords, oldRadius);
-
-		// Iterator<SpatialObject> it = topK.descendingIterator();
 
 		System.out.println("\n\nPrinting top-k result set.....\n");
 
@@ -772,6 +777,14 @@ public class SKPQSearch extends SpatialQueryLD {
 			}
 			return resources;
 		}
+	}
+	
+	@Override
+	public void open() {		
+	}
+	
+	@Override
+	public void close() {		
 	}
 	
 	@Override
