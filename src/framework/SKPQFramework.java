@@ -33,6 +33,7 @@ public class SKPQFramework extends DefaultExperimentManager {
 
 	public String getNameID() {
 		return getProperties().getProperty("experiment.name") + "_" + getProperties().getProperty("query.name") + "_"
+				+ getProperties().getProperty("query.keywords") + "_"
 				+ getNeighborhood(Integer.parseInt(getProperties().getProperty("query.neighborhood"))) + "_"
 				+ getProperties().getProperty("query.type") + "_" + getProperties().getProperty("query.numQueries")
 				+ "_" + getProperties().getProperty("query.numKeywords") + "_"

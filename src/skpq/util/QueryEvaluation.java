@@ -8,9 +8,14 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.io.Writer;
+import java.math.RoundingMode;
+import java.text.DecimalFormat;
+import java.text.DecimalFormatSymbols;
+import java.text.NumberFormat;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Iterator;
+import java.util.Locale;
 
 import org.apache.commons.vfs2.FileName;
 
@@ -293,29 +298,36 @@ public class QueryEvaluation {
 		
 		int k_max = 5;
 		int inc = 5, k = 5, a = 0, i = 1;
-		
+		double radius = 0.005, radiusMax = 0.005;
 		while(k <= k_max){
 			
-			a = 0;
-			i = 1;
+		//	a = 0;
+//			i = 1;
 			
 			boolean arquivoCriado = false;
 	
 //			String fileName = "SPKQ-LD [k="+k+", kw=supermarket food].txt";
 //			String fileName = "RQ-LD [k="+k+", kw=cafe].txt";
-			String fileName = "SKPQ [k="+k+", kw=parking supermarket cafe bank].txt";
-//			while(i <= 4){
-				
-//			String fileName = "RQ [k="+ k + ", kw=jesco, loc=" + i + "].txt";
+//			String fileName = "SKPQ [k="+k+", kw=amenity].txt";
+//			String fileName = "RQ [k="+k+", kw=amenity, radius="+radius+"].txt";
 			
-			if(!arquivoCriado){
+			while(radius <= radiusMax){
+
+				DecimalFormat df = new DecimalFormat("#.###");
+				DecimalFormatSymbols sym = DecimalFormatSymbols.getInstance();
+				sym.setDecimalSeparator('.');
+				df.setDecimalFormatSymbols(sym);
+				String fileName = "RQ [k="+k+", kw=cafe, radius="+df.format(radius)+"].txt";
+//				System.out.println(fileName);
+			
+				if(!arquivoCriado){
 				Writer output = new OutputStreamWriter(new FileOutputStream(fileName.split("\\.txt")[0] + " --- ratings.txt"), "ISO-8859-1");
 				RatingExtractor obj = new RatingExtractor("cossine");
 	
-				ArrayList<String> rateResults = obj.rateSKPQresults2(fileName);
+//				ArrayList<String> rateResults = obj.rateSKPQresults2(fileName);
 //				ArrayList<String> rateResults = obj.rateLODresult(fileName);
 //				ArrayList<String> rateResults = obj.rateRangeLODresult(fileName);
-//				ArrayList<String> rateResults = obj.rateRangeResults(fileName);
+				ArrayList<String> rateResults = obj.rateRangeResults(fileName);
 	
 //				System.out.println("\n\n --- Resultados ---\n");
 	
@@ -330,14 +342,14 @@ public class QueryEvaluation {
 	
 //			ndcg[a] = q.execute();
 			System.out.println(q.execute());
-			a++;	
-			i++;
+		//	a++;	
+			radius = radius + 0.02;	
+			
+		}
 			k = k + inc;
 		}
 		
-			
-		
-		double soma = 0;
+		//double soma = 0;
 		
 //		for(int b = 0; b < ndcg.length; b++){											
 //			soma = soma + ndcg[b];

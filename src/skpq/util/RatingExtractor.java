@@ -483,7 +483,7 @@ private String rateObjectwithCossineP (String osmLabel, String lat, String lgt, 
 			String lat = qResVec[4].split("=|,")[1];
 			String lgt = qResVec[5].split("=|,")[1];
 			String key = lat + " " + lgt;
-			String osmLabel = objetosInteresse.get(key);
+			String osmLabel = objetosInteresse.get(key);		
 			String score = qResVec[3].split("=|,")[1];
 
 			if (debug) {
@@ -513,7 +513,7 @@ private String rateObjectwithCossineP (String osmLabel, String lat, String lgt, 
 
 		ArrayList<String> rateResults = new ArrayList<>();
 
-		importObjectsInterest2("hotel.txt");
+		importObjectsInterest2("dubai_abu-dhabi.txt");
 
 		BufferedReader reader = new BufferedReader(
 				(new InputStreamReader(new FileInputStream(new File(fileName)), "ISO-8859-1")));
@@ -535,7 +535,7 @@ private String rateObjectwithCossineP (String osmLabel, String lat, String lgt, 
 			String lat = qResVec[4].split("=|,")[1];
 			String lgt = qResVec[5].split("=|,")[1];
 			String key = lat + " " + lgt;
-			String osmLabel = objetosInteresse.get(key);
+			String osmLabel = objetosInteresse.get(key);			
 			String score = qResVec[3].split("=|,")[1];
 
 			if (debug) {

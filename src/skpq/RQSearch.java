@@ -40,20 +40,22 @@ public class RQSearch extends SpatialQueryLD {
 
 	static final boolean debug = false;
 	private String queryLocation;	
+	private double radius;
 	boolean evaluate = true;
 
 	public RQSearch(int k, String keywords, String queryLocation, double radius, StarRTree objectsOfInterest)
 			throws IOException {
 		super(k, keywords, objectsOfInterest);
 
-		this.queryLocation = queryLocation;		
+		this.queryLocation = queryLocation;
+		this.radius	= radius;
 	}
 
 	@Override
 	protected TreeSet<SpatialObject> execute(String queryKeywords, int k) throws ExperimentException {
 
 		List<SpatialObject> interestObjectSet = new ArrayList<SpatialObject>();
-		ArrayList<double[]> evaluations = new ArrayList<>();
+//		ArrayList<double[]> evaluations = new ArrayList<>();
 
 		try {
 			interestObjectSet = loadObjectsInterest("hotel_LGD.txt");
@@ -77,18 +79,18 @@ public class RQSearch extends SpatialQueryLD {
 		SpatioTreeHeapEntry leafEntry = new SpatioTreeHeapEntry(leaves.next());
 		Cursor interestPointer = objectsOfInterest.query(leafEntry.getMBR());
 
-		while (interestPointer.hasNext() && a < iterations) {					
+//		while (interestPointer.hasNext() && a < iterations) {					
 
 			SpatioTreeHeapEntry point = new SpatioTreeHeapEntry(interestPointer.next());
 
 			String coordinates = String.valueOf(point.getMBR().getCorner(false).getValue(0)) + ", "
 					+ String.valueOf(point.getMBR().getCorner(false).getValue(1));
 
-			queryLocation = coordinates;
+			queryLocation = "25.23544055, 55.2796043";
 
 			SpatialObject queryLocationObj = identifyURILocation(queryLocation, interestObjectSet);
 
-			topK = findFeatureLGD(queryLocationObj, keywords);
+			topK = findFeatureLGD(queryLocationObj, keywords, radius);
 
 			//Preparação para preencher as outras posições
 			Cursor dummy = null; 
@@ -111,26 +113,26 @@ public class RQSearch extends SpatialQueryLD {
 			try {
 				saveResults(topK);
 				if(evaluate){
-					evaluations.add(evaluateQuery(keywords, queryLocation, k));	
+					evaluateQuery(keywords, String.valueOf(radius), k);	
 				}							
 			} catch (IOException e) {
 				System.out.println("We can't save the results on your disk!");
 				e.printStackTrace();
 			}
 			a++;
-		}
+//		}
 
-		System.out.println("\nSomatório " + keywords);
+//		System.out.println("\nSomatório " + keywords);
 		//Calculate evaluation arithmetic mean
-		double[] ndcg = new double[evaluations.get(0).length];
-
-		for(int b = 0; b < evaluations.get(0).length; b++){
-			for(int c = 0; c < evaluations.size(); c++){		
-				ndcg[b] = ndcg[b] + evaluations.get(c)[b];
-			}
-			//			ndcg[b] = ndcg[b] / evaluations.size();
-			System.out.print(ndcg[b] + " ");
-		}
+//		double[] ndcg = new double[evaluations.get(0).length];
+//
+//		for(int b = 0; b < evaluations.get(0).length; b++){
+//			for(int c = 0; c < evaluations.size(); c++){		
+//				ndcg[b] = ndcg[b] + evaluations.get(c)[b];
+//			}
+//			//			ndcg[b] = ndcg[b] / evaluations.size();
+//			System.out.print(ndcg[b] + " ");
+//		}
 
 		if (debug) {
 
@@ -156,66 +158,66 @@ public class RQSearch extends SpatialQueryLD {
 		return topK;
 	}
 
-	public static void main(String[] args) throws IOException {
-
-		List<SpatialObject> interestObjectSet = new ArrayList<SpatialObject>();
-
-		interestObjectSet = loadObjectsInterest("hotel_LGD.txt");
-
-		System.out.println("Processing Range query...\n");
-
-		double start = System.currentTimeMillis();	
-
-		SpatialObject queryLocation = identifyURILocation("24.4903228, 54.3578107", interestObjectSet);
-
-		RQSearch search = new RQSearch(20, "amenity", queryLocation.getURI(), 0, null);
-
-		if (debug) {
-			System.out.println("\nk = " + search.k + " | keywords = [ " + search.keywords + " ]\n\n");
-		}
-
-		TreeSet<SpatialObject> topK = search.findFeatureLGD(queryLocation, search.keywords);
-
-		System.out.println("\n\nPrinting top-k result set.....\n");
-
-		int i = 0;
-
-		Iterator<SpatialObject> objSet = interestObjectSet.iterator();
-
-		while (topK.size() < search.k && objSet.hasNext()) {
-			topK.add(objSet.next());
-		}
-
-		search.saveResults(topK);
-
-		if (debug) {
-			
-			Iterator<SpatialObject> it = topK.iterator();
-
-			i = 0;
-
-			while (it.hasNext()) {
-
-				i++;
-				SpatialObject aux = it.next();
-
-				if (aux != null) {
-					System.out.println(i + " - " + aux.getURI() + " --> " + aux.getScore());
-				} else {
-					System.out.println("No objects to display.");
-				}
-			}
-		}
-		search.searchCache.store();
-		System.out.println("\n\nQuery processed in " + ((System.currentTimeMillis() - start) / 1000) / 60 + " mins");
-	}
+//	public static void main(String[] args) throws IOException {
+//
+//		List<SpatialObject> interestObjectSet = new ArrayList<SpatialObject>();
+//
+//		interestObjectSet = loadObjectsInterest("hotel_LGD.txt");
+//
+//		System.out.println("Processing Range query...\n");
+//
+//		double start = System.currentTimeMillis();	
+//
+//		SpatialObject queryLocation = identifyURILocation("24.4903228, 54.3578107", interestObjectSet);
+//
+//		RQSearch search = new RQSearch(20, "amenity", queryLocation.getURI(), 0, null);
+//
+//		if (debug) {
+//			System.out.println("\nk = " + search.k + " | keywords = [ " + search.keywords + " ]\n\n");
+//		}
+//
+//		TreeSet<SpatialObject> topK = search.findFeatureLGD(queryLocation, search.keywords, 0);
+//
+//		System.out.println("\n\nPrinting top-k result set.....\n");
+//
+//		int i = 0;
+//
+//		Iterator<SpatialObject> objSet = interestObjectSet.iterator();
+//
+//		while (topK.size() < search.k && objSet.hasNext()) {
+//			topK.add(objSet.next());
+//		}
+//
+//		search.saveResults(topK);
+//
+//		if (debug) {
+//			
+//			Iterator<SpatialObject> it = topK.iterator();
+//
+//			i = 0;
+//
+//			while (it.hasNext()) {
+//
+//				i++;
+//				SpatialObject aux = it.next();
+//
+//				if (aux != null) {
+//					System.out.println(i + " - " + aux.getURI() + " --> " + aux.getScore());
+//				} else {
+//					System.out.println("No objects to display.");
+//				}
+//			}
+//		}
+//		search.searchCache.store();
+//		System.out.println("\n\nQuery processed in " + ((System.currentTimeMillis() - start) / 1000) / 60 + " mins");
+//	}
 
 	@Override
 	protected void saveResults(TreeSet<SpatialObject> topK) throws IOException {
 
 		/* Imprime 5 */			
 		Writer outputFile = new OutputStreamWriter(
-				new FileOutputStream("RQ-LD [" + "k=" + "5" + ", kw=" + getKeywords() + ", loc=" + queryLocation + "].txt"), "ISO-8859-1");
+				new FileOutputStream("RQ-LD [" + "k=" + "5" + ", kw=" + getKeywords() + ", radius=" + radius + "].txt"), "ISO-8859-1");
 
 		Iterator<SpatialObject> it = topK.iterator();
 
@@ -227,52 +229,52 @@ public class RQSearch extends SpatialQueryLD {
 
 		outputFile.close();
 
-		/* Imprime 10 */
-		outputFile = new OutputStreamWriter(
-				new FileOutputStream("RQ-LD [" + "k=" + "10" + ", kw=" + getKeywords() + ", loc=" + queryLocation + "].txt"), "ISO-8859-1");
-
-		it = topK.iterator();
-		;
-
-		for (int a = 1; a <= 10; a++) {
-			SpatialObject obj = it.next();
-			outputFile.write("-->[" + a + "] " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt="
-					+ obj.getLgt() + ", score=" + obj.getScore() + "]\n");
-		}
-
-		outputFile.close();
-
-		/* Imprime 15 */
-		outputFile = new OutputStreamWriter(
-				new FileOutputStream("RQ-LD [" + "k=" + "15" + ", kw=" + getKeywords() + ", loc=" + queryLocation +  "].txt"), "ISO-8859-1");
-
-		it = topK.iterator();
-
-		for (int a = 1; a <= 15; a++) {
-			SpatialObject obj = it.next();
-			outputFile.write("-->[" + a + "] " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt="
-					+ obj.getLgt() + ", score=" + obj.getScore() + "]\n");
-		}
-
-		outputFile.close();
-
-		/* Imprime 20 */
-		outputFile = new OutputStreamWriter(
-				new FileOutputStream("RQ-LD [" + "k=" + "20" + ", kw=" + getKeywords() + ", loc=" + queryLocation + "].txt"), "ISO-8859-1");
-
-		it = topK.iterator();
-
-		for (int a = 1; a <= 20; a++) {
-			SpatialObject obj = it.next();
-			outputFile.write("-->[" + a + "] " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt="
-					+ obj.getLgt() + ", score=" + obj.getScore() + "]\n");
-		}
-
-		outputFile.close();
+//		/* Imprime 10 */
+//		outputFile = new OutputStreamWriter(
+//				new FileOutputStream("RQ-LD [" + "k=" + "10" + ", kw=" + getKeywords() + ", loc=" + queryLocation + "].txt"), "ISO-8859-1");
+//
+//		it = topK.iterator();
+//		;
+//
+//		for (int a = 1; a <= 10; a++) {
+//			SpatialObject obj = it.next();
+//			outputFile.write("-->[" + a + "] " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt="
+//					+ obj.getLgt() + ", score=" + obj.getScore() + "]\n");
+//		}
+//
+//		outputFile.close();
+//
+//		/* Imprime 15 */
+//		outputFile = new OutputStreamWriter(
+//				new FileOutputStream("RQ-LD [" + "k=" + "15" + ", kw=" + getKeywords() + ", loc=" + queryLocation +  "].txt"), "ISO-8859-1");
+//
+//		it = topK.iterator();
+//
+//		for (int a = 1; a <= 15; a++) {
+//			SpatialObject obj = it.next();
+//			outputFile.write("-->[" + a + "] " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt="
+//					+ obj.getLgt() + ", score=" + obj.getScore() + "]\n");
+//		}
+//
+//		outputFile.close();
+//
+//		/* Imprime 20 */
+//		outputFile = new OutputStreamWriter(
+//				new FileOutputStream("RQ-LD [" + "k=" + "20" + ", kw=" + getKeywords() + ", loc=" + queryLocation + "].txt"), "ISO-8859-1");
+//
+//		it = topK.iterator();
+//
+//		for (int a = 1; a <= 20; a++) {
+//			SpatialObject obj = it.next();
+//			outputFile.write("-->[" + a + "] " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt="
+//					+ obj.getLgt() + ", score=" + obj.getScore() + "]\n");
+//		}
+//
+//		outputFile.close();
 	}
 
 	// Searches for features in OpenStreetMap dataset
-	public TreeSet<SpatialObject> findFeatureLGD(SpatialObject interestObject, String keywords) {
+	public TreeSet<SpatialObject> findFeatureLGD(SpatialObject interestObject, String keywords,double radius) {
 
 		List<SpatialObject> featureSet;
 		TreeSet<SpatialObject> topK = new TreeSet<>();
@@ -292,7 +294,7 @@ public class RQSearch extends SpatialQueryLD {
 		+ "?point <http://www.opengis.net/ont/geosparql#asWKT> ?sourcegeo."
 		+ "?resource <http://geovocab.org/geometry#geometry> ?loc."
 		+ "?loc <http://www.opengis.net/ont/geosparql#asWKT> ?location." + "?resource rdfs:label ?nome."
-		+ "filter(bif:st_intersects( ?location, ?sourcegeo, 0.2)).}" + Sparql.addServiceClosing(USING_GRAPH);
+		+ "filter(bif:st_intersects( ?location, ?sourcegeo, " + radius + ")).}" + Sparql.addServiceClosing(USING_GRAPH);
 
 		Query query = QueryFactory.create(Sparql.addPrefix().concat(queryString));
 
@@ -478,7 +480,7 @@ public class RQSearch extends SpatialQueryLD {
 				+ "&&lang( ?comment) =" + quotes + "en" + quotes + ")}" + Sparql.addServiceClosing(USING_GRAPH);
 
 		Query query = QueryFactory.create(Sparql.addPrefix().concat(queryString));
-		System.out.println("executou " + label);
+//		System.out.println("executou " + label);
 		try (QueryExecution qexec = QueryExecutionFactory.create(query, model)) {
 
 			Map<String, Map<String, List<String>>> serviceParams = new HashMap<String, Map<String, List<String>>>();

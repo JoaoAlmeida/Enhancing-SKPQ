@@ -247,7 +247,7 @@ public abstract class SpatialQueryLD implements Experiment {
 //		outputFile.close();
 	}
 	
-	protected double[] evaluateQuery(String keywords, String queryLocation, int numResult) throws IOException{
+	protected double[] evaluateQuery(String keywords, String radius, int numResult) throws IOException{
 		
 		System.out.println("=========================");
 		System.out.println("  Evaluating Query...  ");
@@ -265,10 +265,10 @@ public abstract class SpatialQueryLD implements Experiment {
 			
 			while(k <= k_max){
 				
-				if(queryLocation == null){			
+				if(radius == null){			
 					fileName = "SPKQ-LD [k="+k+", kw="+ keywords +"].txt";
 				} else{
-					fileName = "RQ-LD [k="+k+", kw="+ keywords + ", loc=" + queryLocation + "].txt";			
+					fileName = "RQ-LD [k="+k+", kw="+ keywords + ", radius=" + radius + "].txt";			
 				}
 				
 				boolean arquivoCriado = false;					
@@ -278,7 +278,7 @@ public abstract class SpatialQueryLD implements Experiment {
 					Writer output = new OutputStreamWriter(new FileOutputStream(fileName.split("\\.txt")[0] + " --- ratings.txt"), "ISO-8859-1");
 					RatingExtractor obj = new RatingExtractor("cossine");
 					
-					if(queryLocation == null){
+					if(radius == null){
 						rateResults = obj.rateLODresult(fileName);
 					}else{
 						rateResults = obj.rateRangeLODresult(fileName);
