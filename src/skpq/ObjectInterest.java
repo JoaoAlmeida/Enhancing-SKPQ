@@ -1,5 +1,6 @@
 package skpq;
 
+@SuppressWarnings("rawtypes")
 public class ObjectInterest implements Comparable{
 	
 	private String uri;

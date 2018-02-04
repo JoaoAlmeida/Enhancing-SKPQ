@@ -8,16 +8,10 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.io.Writer;
-import java.math.RoundingMode;
 import java.text.DecimalFormat;
 import java.text.DecimalFormatSymbols;
-import java.text.NumberFormat;
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Iterator;
-import java.util.Locale;
-
-import org.apache.commons.vfs2.FileName;
 
 import skpq.SpatialObject;
 
@@ -26,12 +20,10 @@ public class QueryEvaluation {
 	private String fileName;
 	ArrayList<SpatialObject> results;
 	ArrayList<SpatialObject> idealResults;
-	private String query_keywords;
 	private boolean debug = false;
 
-	public QueryEvaluation(String fileName, String query_keywords) throws IOException{
+	public QueryEvaluation(String fileName) throws IOException{
 		this.fileName = fileName;
-		this.query_keywords = query_keywords;
 		
 		results = new ArrayList<>();
 		idealResults = new ArrayList<>();
@@ -52,14 +44,9 @@ public class QueryEvaluation {
 			String label = line.split("[0-9]\\.[0-9]")[0].trim();
 			String googleDescription = line.split("googleDescription=")[1].split("score")[0].trim();
 			String score = line.split("score=")[1].split("rate")[0].trim();
-			
-//			System.out.println("label = " + label);
-//			System.out.println("rate = " + rate);
-//			System.out.println("score = " + score);
+
 			SpatialObject obj = new SpatialObject(label, Double.parseDouble(rate), Double.parseDouble(score));
-//			System.out.println("Gdesc = " + googleDescription);
-//			System.out.println("rate = " + rate);
-//			System.out.println("key = " + query_keywords);
+
 			SpatialObject idealObj = new SpatialObject(googleDescription, Double.parseDouble(rate), Double.parseDouble(rate));
 			
 			results.add(obj);
@@ -97,8 +84,7 @@ public class QueryEvaluation {
 			if(results.get(a).getScore() > 3){
 				relevants++;
 			}
-		}
-				
+		}				
 		return (double) relevants / (n+1);
 	}
 	
@@ -121,8 +107,7 @@ public class QueryEvaluation {
 			if(results.get(a).getScore() > 3){
 				relevants++;
 			}
-		}
-		
+		}		
 		return (double) ap / relevants;
 	}
 	
@@ -135,7 +120,6 @@ public class QueryEvaluation {
 		for(int a = 1; a < results.size(); a++){			
 			cg[a] = results.get(a).getScore() + cg[a - 1];			
 		}
-
 		return cg;
 	}
 		
@@ -159,47 +143,33 @@ public class QueryEvaluation {
 		return icg;
 	}
 		
+
 	@SuppressWarnings("unchecked")
 	public double[] idealDiscountCumulativeGain(ArrayList<SpatialObject> resultsClone){
 
 		double[] idcg = new double[idealResults.size()];
 
-		Collections.sort(idealResults);
+		Collections.sort(idealResults);		
 		
-//		System.out.println("Printing ordered scores: IDCG");
-//		Iterator<SpatialObject> it = idealResults.iterator();
-//		while(it.hasNext()){
-//			System.out.println(it.next().getScore());
-//		}
-		
-		idcg[0] = idealResults.get(0).getScore();
-		
+		idcg[0] = idealResults.get(idealResults.size()-1).getScore();
+
 		int b = 1;
-		for(int a = 1; a < idealResults.size(); a++){			
-			idcg[b] = idcg[b - 1] + (idealResults.get(a).getScore() / (Math.log10(b+1) / Math.log10(2)));			
+		for(int a = idealResults.size()-2; a >= 0; a--){	
+			idcg[b] = idcg[b - 1] + (idealResults.get(a).getScore() / (Math.log10(b+1) / Math.log10(2)));		
 			b++;
 		}
 
 		return idcg;
 	}
 
-	@SuppressWarnings("unchecked")
 	public double[] discountCumulativeGain(){
 
 		double[] dcg = new double[results.size()];
-
-		Collections.sort(results);
-		
-//		System.out.println("Printing ordered scores: DCG");
-//		Iterator<SpatialObject> it = results.iterator();
-//		while(it.hasNext()){
-//			System.out.println(it.next().getScore());
-//		}
+	
 		dcg[0] = results.get(0).getRate();
-		
-		//System.out.println(dcg[0]);
+				
 		for(int a = 1; a < results.size(); a++){			
-			dcg[a] = dcg[a - 1] + (results.get(a).getRate() / (Math.log10(a+1) / Math.log10(2)));			
+			dcg[a] = dcg[a - 1] + (results.get(a).getRate() / (Math.log10(a+1) / Math.log10(2)));		
 		}
 
 		return dcg;
@@ -211,8 +181,7 @@ public class QueryEvaluation {
 
 		for(int a = 0; a < ndcg.length; a++){
 			ndcg[a] = dcg[a] / idcg[a];
-		}			
-		
+		}					
 		return ndcg;
 	}
 	
@@ -220,11 +189,7 @@ public class QueryEvaluation {
 		
 		double acumulator1 = 0, acumulator2 = 0;
 		
-//		String file = "C:\\Users\\JoãoPaulo\\Dropbox\\Doutorado\\SKPQ enhanced"
-//					+ "\\resultados\\range\\mais frequente\\evaluations\\" + fileName.split(" --- ratings.txt")[0] + " Evaluation.txt";
-		
 		String file = "evaluations\\" + fileName.split(" --- ratings")[0] + " Evaluation.txt";
-		//String file = fileName.split(" --- ratings.txt")[0] + " Evaluation.txt";
 				
 		Writer output = new OutputStreamWriter(new FileOutputStream(file), "ISO-8859-1");			
 			
@@ -243,10 +208,7 @@ public class QueryEvaluation {
 		output.write(" } = " + acumulator2 + "\n");
 				
 		output.write("[NDCG] =");		
-		//for(int a = 0; a < results.size(); a++){
-			//acumulator = acumulator + ndcg[a];
-			//output.write(Double.toString(ndcg[a]) + "  ");
-		//}
+
 		output.write(" " + acumulator1/acumulator2 + "\n");
 			
 		output.write("[Precision] = " + precision + "\n");
@@ -293,10 +255,11 @@ public class QueryEvaluation {
 		return outputVec(fileName, dcg, idcg, ndcg, precision, avPrecision);
 	}
 	
-	/* A cada experimento, mudar o diretório de saída */
+
 	public static void main(String[] args) throws IOException {	
 		
 		int k_max = 5;
+		@SuppressWarnings("unused")
 		int inc = 5, k = 5, a = 0, i = 1;
 		double radius = 0.005, radiusMax = 0.005;
 		while(k <= k_max){
@@ -305,7 +268,7 @@ public class QueryEvaluation {
 //			i = 1;
 			
 			boolean arquivoCriado = false;
-	
+			/* A cada experimento, mudar o diretÃ³rio de saÃ­da */
 //			String fileName = "SPKQ-LD [k="+k+", kw=supermarket food].txt";
 //			String fileName = "RQ-LD [k="+k+", kw=cafe].txt";
 //			String fileName = "SKPQ [k="+k+", kw=amenity].txt";
@@ -318,13 +281,12 @@ public class QueryEvaluation {
 				sym.setDecimalSeparator('.');
 				df.setDecimalFormatSymbols(sym);
 				String fileName = "RQ [k="+k+", kw=cafe, radius="+df.format(radius)+"].txt";
-//				System.out.println(fileName);
 			
 				if(!arquivoCriado){
 				Writer output = new OutputStreamWriter(new FileOutputStream(fileName.split("\\.txt")[0] + " --- ratings.txt"), "ISO-8859-1");
 				RatingExtractor obj = new RatingExtractor("cossine");
 	
-//				ArrayList<String> rateResults = obj.rateSKPQresults2(fileName);
+//				ArrayList<String> rateResults = obj.rateSKPQresults(fileName);
 //				ArrayList<String> rateResults = obj.rateLODresult(fileName);
 //				ArrayList<String> rateResults = obj.rateRangeLODresult(fileName);
 				ArrayList<String> rateResults = obj.rateRangeResults(fileName);
@@ -338,7 +300,7 @@ public class QueryEvaluation {
 				output.close();
 			}
 			
-			QueryEvaluation q = new QueryEvaluation(fileName.split("\\.txt")[0] + " --- ratings.txt", fileName.split("kw=")[1].split("\\]\\.txt")[0]);
+			QueryEvaluation q = new QueryEvaluation(fileName.split("\\.txt")[0] + " --- ratings.txt");
 	
 //			ndcg[a] = q.execute();
 			System.out.println(q.execute());
@@ -356,9 +318,9 @@ public class QueryEvaluation {
 //			System.out.print(ndcg[b] + " ");
 //		}
 		
-//		System.out.println("\nSomatório " + k + ": " + soma);		
+//		System.out.println("\nSomatï¿½rio " + k + ": " + soma);		
 //		}
-//		System.out.println("\nSomatório ");
+//		System.out.println("\nSomatï¿½rio ");
 //		//Calculate evaluation arithmetic mean
 //		
 //

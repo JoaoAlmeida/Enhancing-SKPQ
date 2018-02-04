@@ -1,13 +1,13 @@
 package skpq.util;
 
-import org.apache.log4j.Logger;
+//import org.apache.log4j.Logger;
 
 //Work in progress
 public class LogClass {
 
-    private static org.apache.log4j.Logger log = Logger
-
-	    .getLogger(LogClass.class);
+//    private static org.apache.log4j.Logger log = Logger
+//
+//	    .getLogger(LogClass.class);
 
 
 public static void main(String[] args) {

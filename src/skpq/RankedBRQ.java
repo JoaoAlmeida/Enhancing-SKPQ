@@ -31,18 +31,18 @@ import xxl.util.StarRTree;
  * 
  * In this query k value limits the result size, indicating how many objects will be presented to the user.
  * 
- * @author João Paulo
+ * @author JoÃ£o Paulo
  */
 
 //FALTA ORGANIZAR O EXECUTE
-//Deve conter todas as keywords na descrição textual
+//Deve conter todas as keywords na descriï¿½ï¿½o textual
 public class RankedBRQ extends SpatialQueryLD {
 
 	static final boolean debug = true;
 	private final int k = 1;
 	
-	public RankedBRQ(int k, String keywords, String queryRegion, StarRTree rTree, double radius) throws IOException {
-		super(keywords, null);
+	public RankedBRQ(int k, String keywords, String queryRegion, StarRTree rTree, double radius, boolean debug) throws IOException {
+		super(keywords, null, debug);
 	}
 
 	@Override
@@ -68,7 +68,7 @@ public class RankedBRQ extends SpatialQueryLD {
 
 			SpatialObject interestObject = objSet.next();
 
-			RankedBRQ search = new RankedBRQ(0, "food McDonald's", interestObject.getURI(), null, 0);
+			RankedBRQ search = new RankedBRQ(0, "food McDonald's", interestObject.getURI(), null, 0, false);
 
 			if (debug) {
 				System.out.println("Region = 200m from " + interestObject.getURI() + " | keywords = [ " + search.keywords + " ]\n\n");
@@ -342,5 +342,11 @@ public class RankedBRQ extends SpatialQueryLD {
 			}
 		}
 		return abs;
+	}
+
+	@Override
+	protected void saveResults(TreeSet<SpatialObject> topK) throws IOException {
+		// TODO Auto-generated method stub
+		
 	}
 }

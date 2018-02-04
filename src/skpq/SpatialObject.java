@@ -128,9 +128,9 @@ public class SpatialObject implements Comparable {
 			double thisScore = this.getScore();
 			double otherScore = otherDocument.getScore();
 			if (thisScore < otherScore) {
-				return 1;
-			} else if (thisScore > otherScore) {
 				return -1;
+			} else if (thisScore > otherScore) {
+				return 1;
 			} else {// They are equals
 				SpatialObject outro = (SpatialObject) other;
 				return this.getId() - outro.getId();

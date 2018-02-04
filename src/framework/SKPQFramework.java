@@ -17,7 +17,7 @@ import xxl.util.StarRTree;
 
 /**
  *
- * @author Jo„o Paulo
+ * @author Jo√£o Paulo
  */
 public class SKPQFramework extends DefaultExperimentManager {
 
@@ -59,10 +59,13 @@ public class SKPQFramework extends DefaultExperimentManager {
 		try {
 			if (getProperties().getProperty("query.name").equals("SKPQ-LD")) {		
 
+				StarRTree objectsOfInterest = createRtree();
+				
 				experiment = new SKPQSearch(Integer.parseInt(getProperties().getProperty("query.numResults")),
 						getProperties().getProperty("query.keywords"),
 						getProperties().getProperty("query.neighborhood"),
-						Double.parseDouble(getProperties().getProperty("query.radius")));
+						Double.parseDouble(getProperties().getProperty("query.radius")), objectsOfInterest,
+						Boolean.parseBoolean(getProperties().getProperty("experiment.debug")));
 
 			} else if (getProperties().getProperty("query.name").equals("RQ-LD")) {
 
@@ -70,9 +73,9 @@ public class SKPQFramework extends DefaultExperimentManager {
 					
 					experiment = new RQSearch(Integer.parseInt(getProperties().getProperty("query.numResults")),
 							getProperties().getProperty("query.keywords")," ",
-							Double.parseDouble(getProperties().getProperty("query.radius")), objectsOfInterest);
-									
-
+							Double.parseDouble(getProperties().getProperty("query.radius")), objectsOfInterest, 
+							Boolean.parseBoolean(getProperties().getProperty("experiment.debug")));
+					
 			} else if (getProperties().getProperty("query.name").equals("BRQ-LD")) {
 
 
@@ -121,12 +124,12 @@ public class SKPQFramework extends DefaultExperimentManager {
 		if (args == null || args.length == 0) {
 			args = new String[] { "framework.properties" };
 		}
-		ExperimentRunner runner = new ExperimentRunner(new SKFrameworkFactory(), args[0]);
+		ExperimentRunner runner = new ExperimentRunner(new SKPQFrameworkFactory(), args[0]);
 		runner.run();
 	}
 }
 
-class SKFrameworkFactory implements ExperimentFactory {
+class SKPQFrameworkFactory implements ExperimentFactory {
 
 	public ExperimentManager produce(Properties cfg, int round) {
 		return new SKPQFramework(cfg, round);

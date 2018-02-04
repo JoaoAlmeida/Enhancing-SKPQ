@@ -14,7 +14,7 @@ import java.util.Set;
  * 	Cache used to store Web content that has access limits
  *  Cache usually used to improve query performance, storing the textual descriptions from objects at LinkedGeoData and DBpedia.
  * 
- * @author  Jo„o Paulo
+ * @author  Jo√£o Paulo
  */
 
 public class WebContentCache {
@@ -53,6 +53,7 @@ public class WebContentCache {
 		}
 	}
 
+	@SuppressWarnings("unchecked")
 	public void load() throws IOException {
 		
 		try {
@@ -79,6 +80,7 @@ public class WebContentCache {
 		}
 	}
 
+	@SuppressWarnings("rawtypes")
 	public void printCache() {
 
 		if (!cache.isEmpty()) {
