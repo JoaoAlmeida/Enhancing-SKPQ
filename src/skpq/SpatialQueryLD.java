@@ -35,6 +35,7 @@ import skpq.util.WebContentCache;
 import util.experiment.Experiment;
 import util.experiment.ExperimentException;
 import util.experiment.ExperimentResult;
+import xxl.core.spatial.points.DoublePoint;
 import xxl.util.StarRTree;
 
 /**
@@ -116,7 +117,7 @@ public abstract class SpatialQueryLD implements Experiment {
 		while (line != null) {
 			String uri = line.substring(line.indexOf("http") - 1).trim();
 
-			String osmLabel = line.substring(line.indexOf(" ", line.indexOf(" ") + 1), line.indexOf("http") - 1).trim();
+			String osmLabel = "(tourism) (hotel) " +line.substring(line.indexOf(" ", line.indexOf(" ") + 1), line.indexOf("http") - 1).trim();
 
 			String[] lineVec = line.split(" ");
 
@@ -225,7 +226,7 @@ public abstract class SpatialQueryLD implements Experiment {
 			if(!arquivoCriado){
 
 				Writer output = new OutputStreamWriter(new FileOutputStream(fileName.split("\\.txt")[0] + " --- ratings.txt"), "ISO-8859-1");
-				RatingExtractor obj = new RatingExtractor("cossine");
+				RatingExtractor obj = new RatingExtractor("tripAdvisor");
 
 				if(radius == null){
 					rateResults = obj.rateLODresult(fileName);
@@ -312,11 +313,12 @@ public abstract class SpatialQueryLD implements Experiment {
 			}
 
 			double maxScore = 0;
-
+			SpatialObject bestFeature = null;
+			
 			// compute the textual score for each feature
 			for (int b = 0; b < featureSet.size(); b++) {
 
-				String abs;
+				String abs;				
 
 				if (searchCache.containsKey(featureSet.get(b).getURI())) {
 					abs = searchCache.getDescription(featureSet.get(b).getURI());
@@ -329,12 +331,83 @@ public abstract class SpatialQueryLD implements Experiment {
 
 				if (score > maxScore) {
 					maxScore = score;
+					bestFeature = new SpatialObject(0, featureSet.get(b).getURI());						
 				}
 			}
 
 			// set the highest score from one feature in the interest object
 			interestSet.get(a).setScore(maxScore);
+			interestSet.get(a).bestNeighbor = bestFeature;
+			
+			if (debug) {
+				System.out.print(" | Score = " + maxScore + "\n");
+			}
 
+			if (topK.size() < k) {
+				topK.add(interestSet.get(a));
+				// keeps the best objects, if they have the same scores, keeps
+				// the objects with smaller ids
+			} else if (interestSet.get(a).getScore() > topK.first().getScore()
+					|| (interestSet.get(a).getScore() == topK.first().getScore()
+					&& interestSet.get(a).getId() > topK.first().getId())) {
+				topK.pollFirst();
+				topK.add(interestSet.get(a));
+			}
+		}
+		return topK;
+	}
+	
+	public TreeSet<SpatialObject> findFeaturesExperiment(List<SpatialObject> interestSet, String keywords, double radius) throws IOException {
+
+		ArrayList<SpatialObject> featureSet = loadObjectsInterest("hotel_LGD.txt");			
+		TreeSet<SpatialObject> topK = new TreeSet<>();				
+		
+		for(int a = 0; a < interestSet.size(); a++){
+		
+			SpatialObject objectInterest  = interestSet.get(a);
+			
+			if (debug) {
+				System.out.print("Objeto de interesse: " + interestSet.get(a).getURI());
+			}
+			
+			DoublePoint oiPoint = new DoublePoint(new double[]{Double.parseDouble(objectInterest.getLat()), Double.parseDouble(objectInterest.getLgt())});
+			
+			Iterator<SpatialObject> featureIT = featureSet.iterator();
+		
+			double maxScore = -1;
+			SpatialObject bestFeature = null;
+			
+			while(featureIT.hasNext()){
+							
+				SpatialObject feature = featureIT.next();
+				
+				double distance = oiPoint.distanceTo(new DoublePoint(new double[]{Double.parseDouble(feature.getLat()), Double.parseDouble(feature.getLgt())}));
+					
+				if(distance <= radius){
+					
+					String abs;				
+
+					if (searchCache.containsKey(feature.getURI())) {
+						abs = searchCache.getDescription(feature.getURI());
+					} else {
+						abs = getTextDescriptionLGD(feature.getURI());
+						searchCache.putDescription(feature.getURI(), abs);
+					}
+
+//					System.out.println("ABS> " + abs);
+					double score = LuceneCosineSimilarity.getCosineSimilarity(abs, keywords);
+
+					if (score > maxScore) {
+						maxScore = score;
+						bestFeature = new SpatialObject(0, feature.getURI());						
+					}
+				}
+			}		
+
+			// set the highest score from one feature in the interest object
+			interestSet.get(a).setScore(maxScore);
+			interestSet.get(a).bestNeighbor = bestFeature;
+			
 			if (debug) {
 				System.out.print(" | Score = " + maxScore + "\n");
 			}

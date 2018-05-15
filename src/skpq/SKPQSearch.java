@@ -43,7 +43,13 @@ public class SKPQSearch extends SpatialQueryLD {
 			printQueryName();
 		}
 
-		topK = findFeaturesLGD(interestObjectSet, keywords, radius);
+//		topK = findFeaturesLGD(interestObjectSet, keywords, radius);
+		try {
+			topK = findFeaturesExperiment(interestObjectSet, keywords, radius);
+		} catch (IOException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
 		
 		try {	
 			saveResults(topK);
@@ -62,10 +68,10 @@ public class SKPQSearch extends SpatialQueryLD {
 
 		Iterator<SpatialObject> it = topK.descendingIterator();
 
-		for (int a = 1; a <= k; a++) {
+		for (int a = 1; a <= topK.size(); a++) {
 			SpatialObject obj = it.next();
 			outputFile.write("-->[" + a + "]  " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt="
-					+ obj.getLgt() + ", score=" + obj.getScore() + "]\n");
+					+ obj.getLgt() + ", BN=" + obj.bestNeighbor.getURI() + ", score=" + obj.getScore() + "]\n");
 		}
 
 		outputFile.close();

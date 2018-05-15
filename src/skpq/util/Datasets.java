@@ -92,7 +92,7 @@ public class Datasets {
 				fileWrt.append(rawLat + " " + rawlgt + " " + label + " " + link + "\n");
 
 				fileWrt.close();
-
+				
 				fileWrt = new OutputStreamWriter(new FileOutputStream("DatasetsOutput\\"
 						+ nomeArquivo, true), "ISO-8859-1");
 			}

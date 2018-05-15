@@ -5,6 +5,8 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
+import java.io.OutputStreamWriter;
+import java.io.Writer;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
@@ -103,6 +105,35 @@ public class WebContentCache {
 		}
 	}
 
+	public void exportCache() throws IOException {
+
+		Writer fileWrt = new OutputStreamWriter(new FileOutputStream(cacheFileName+".exported", true), "ISO-8859-1");
+		
+		if (!cache.isEmpty()) {
+
+			@SuppressWarnings("rawtypes")
+			Set set = cache.entrySet();
+			@SuppressWarnings("rawtypes")
+			Iterator iterator = set.iterator();
+
+			int i = 0;
+
+			while (iterator.hasNext()) {
+
+				i++;
+				@SuppressWarnings("rawtypes")
+				Map.Entry mentry = (Map.Entry) iterator.next();
+				
+				String line = "Object " + i + " -- key: " + mentry.getKey() + " | Value: " + mentry.getValue() + "\n";	
+				
+				fileWrt.write(line);				
+			}
+			fileWrt.close();
+		} else {
+			System.out.println("WARNING: Cache is empty! There is nothing to export.");
+		}
+	}
+	
 	public boolean containsKey(String uri) {
 		return cache.containsKey(uri);
 	}
@@ -113,9 +144,9 @@ public class WebContentCache {
 
 	public static void main(String[] args) throws IOException {
 		
-		WebContentCache cache = new WebContentCache("ratings_dubai.ch");
+		WebContentCache cache = new WebContentCache("descriptions.ch");
 		
-		System.out.println(cache.containsKey("null"));
+//		System.out.println(cache.containsKey("null"));
 		
 		cache.load();
 		
@@ -123,7 +154,7 @@ public class WebContentCache {
 		 
 		//cache.store();
 
-//		cache.printCache();
+		cache.exportCache();
 		
 		if(cache.containsKey("Test")){
 			System.out.println("It is working.");				

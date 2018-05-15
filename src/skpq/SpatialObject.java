@@ -13,6 +13,7 @@ public class SpatialObject implements Comparable {
 	private String lat;
 	private String lgt;
 	private double alpha = 0.5;
+	public SpatialObject bestNeighbor;
 	
 	public SpatialObject(int id, String uri) {
 		this.id = id;
@@ -134,7 +135,6 @@ public class SpatialObject implements Comparable {
 			} else {// They are equals
 				SpatialObject outro = (SpatialObject) other;
 				return this.getId() - outro.getId();
-
 			}
 		}
 		throw new UnsupportedOperationException("Not supported yet.");

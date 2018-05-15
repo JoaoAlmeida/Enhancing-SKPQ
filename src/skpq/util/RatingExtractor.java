@@ -11,6 +11,8 @@ import java.io.Writer;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 import se.walkercrou.places.GooglePlaces;
 import se.walkercrou.places.Place;
@@ -18,7 +20,7 @@ import se.walkercrou.places.Place;
 public class RatingExtractor {
 
 	private HashMap<String, String> objetosInteresse;
-	private WebContentCache ratingCache;
+	private WebContentCache ratingCache, tripCache, uriCache;
 	private WebContentCache descriptionCache;
 	private GooglePlaces googleAPI;
 	private Writer ratingBkp;
@@ -35,7 +37,13 @@ public class RatingExtractor {
 
 		ratingCache = new WebContentCache("ratings_dubai.ch");
 		ratingCache.load();
+		
+		uriCache = new WebContentCache("uri.ch");
+		uriCache.load();
 
+		tripCache = new WebContentCache("trip_dubai.ch");
+		tripCache.load();
+		
 		descriptionCache = new WebContentCache("googleDescriptions.ch");
 		descriptionCache.load();
 
@@ -96,6 +104,37 @@ public class RatingExtractor {
 			else if(ratingMode.equals("cossine")){
 				rateResults.add(rateObjectwithCossine(osmLabel, lat, lgt, score));
 			}
+			else if(ratingMode.equals("tripAdvisor")){
+				
+				String uriBN = queryResult.substring(queryResult.indexOf("BN=")+3, queryResult.indexOf(", score="));
+				String label = null;		
+				
+				if(uriCache.containsKey(uriBN)){
+					label = uriCache.getDescription(uriBN);					
+				}
+				else{
+					BufferedReader uriReader = new BufferedReader(
+							(new InputStreamReader(new FileInputStream(new File("hotel_LGD.txt")), "ISO-8859-1")));
+					
+					String uriLine = uriReader.readLine();
+					
+					while(uriLine != null){
+						
+						String uriCheck = uriLine.substring(uriLine.indexOf("http")).trim();						
+						
+						if(uriBN.equals(uriCheck)){
+							
+							String[] uriLineVec = uriLine.split("http");							
+							label = uriLineVec[0].split("[0-9]+\\.[0-9]+ [0-9]+\\.[0-9]+")[1].trim();							
+						}
+						uriLine = uriReader.readLine();
+					}
+					uriCache.putDescription(uriBN, label);
+					uriCache.store();
+					uriReader.close();
+				}
+				rateResults.add(rateObjectwithTA(label, lat, lgt, score));
+			}
 
 			queryResult = reader.readLine();
 		}
@@ -127,7 +166,7 @@ public class RatingExtractor {
 
 			String lat = queryResult.substring(queryResult.indexOf("lat=")+4, queryResult.indexOf(", lgt="));
 			String lgt = queryResult.substring(queryResult.indexOf("lgt=")+4, queryResult.indexOf(", score="));			
-			String osmLabel = queryResult.substring(queryResult.indexOf("OSMlabel=")+9, queryResult.indexOf(", lat="));;			
+			String osmLabel = queryResult.substring(queryResult.indexOf("OSMlabel=")+9, queryResult.indexOf(", lat="));			
 			String score = queryResult.split("score=")[1].split("\\]")[0];
 
 			if(ratingMode.equals("default")){
@@ -135,6 +174,10 @@ public class RatingExtractor {
 			}
 			else if(ratingMode.equals("cossine")){
 				rateResults.add(rateObjectwithCossine(osmLabel, lat, lgt, score));
+			}
+			else if(ratingMode.equals("tripAdvisor")){
+				osmLabel = queryResult.substring(queryResult.indexOf("BN=")+3, queryResult.indexOf(", score="));
+				rateResults.add(rateObjectwithTA(osmLabel, lat, lgt, score));
 			}
 
 			queryResult = reader.readLine();
@@ -333,6 +376,84 @@ public class RatingExtractor {
 			result = "osmLabel=" + osmLabel + " googleDescription=empty" + " score=0.1" + " rate=0.1";
 		}
 		return result;
+	}
+	
+	//Rate object with TripAdvisor judgments
+	private String rateObjectwithTA (String osmLabel, String lat, String lgt, String score) throws IOException{
+
+		String key = lat + " " + lgt;
+		String result;
+
+		if (debug) {
+			System.out.println("\n\nAvaliando objeto OSM: " + osmLabel + "\n");
+		}
+
+		if (tripCache.containsKey(osmLabel) && !key.equals("null null") && !key.equals("0.0 0.0")) {
+
+			if (debug){
+				System.out.println("Pegou do cache: " + osmLabel + " -- " + tripCache.getDescription(osmLabel));
+			}
+
+			result = "osmLabel=" + osmLabel + " googleDescription=" + descriptionCache.getDescription(osmLabel)
+			+ " score=" + score + " rate=" + tripCache.getDescription(osmLabel);
+		} else if(!key.equals("null null") && !key.equals("0.0 0.0")){
+			
+			BufferedReader readerLink = new BufferedReader(
+					(new InputStreamReader(new FileInputStream(new File("osmLinkTrip.txt")), "ISO-8859-1")));
+			
+			BufferedReader readerRate = new BufferedReader(
+					(new InputStreamReader(new FileInputStream(new File("qdubai_9.q")), "ISO-8859-1")));
+
+			String tripLabel="";
+			String rate="";
+			String lineLink = readerLink.readLine();
+			boolean inserted = false;
+
+			while(lineLink != null){
+				
+				String[] lineLinkVec = lineLink.split(";");
+				
+				if(lineLinkVec.length > 1){
+					String[] labelVec = lineLinkVec[1].split("\\)");
+
+					String label = labelVec[labelVec.length - 1].trim();
+					
+					if(label.equals(osmLabel)){
+						tripLabel=lineLinkVec[0];
+						break;
+					}	
+				}
+				lineLink = readerLink.readLine();
+			}
+			readerLink.close();
+//			System.out.println("Trip = " + tripLabel);
+			String lineRate = readerRate.readLine();
+			
+			while(lineRate != null){
+				String[] lineRateVec = lineRate.split(";");
+				
+				if(lineRateVec[0].equals(tripLabel)){
+					rate=lineRateVec[1];
+					tripCache.putDescription(osmLabel, rate);
+					inserted = true;
+					break;
+				}
+				lineRate = readerRate.readLine();
+			}	
+			
+			readerRate.close();
+			
+			if(!inserted){
+				tripCache.putDescription(osmLabel, "0.0");
+				tripCache.store();
+			}
+			
+			result = "osmLabel=" + osmLabel + " googleDescription=" + descriptionCache.getDescription(osmLabel)
+			+ " score=" + score + " rate=" + tripCache.getDescription(osmLabel);
+		}else{			
+			result = "osmLabel=" + osmLabel + " googleDescription=empty" + " score=0.1" + " rate=0.1";
+		}
+		return result;
 	}	
 
 	public ArrayList<String> rateSKPQresults(String fileName) throws IOException {
@@ -374,8 +495,8 @@ public class RatingExtractor {
 			else if(ratingMode.equals("cossine")){
 				rateResults.add(rateObjectwithCossine(osmLabel, lat, lgt, score));
 			}
-			else if(ratingMode.equals("cossinePenalty")){
-				System.out.println("Not implemented yet!");
+			else if(ratingMode.equals("tripAdvisor")){
+				rateResults.add(rateObjectwithTA(osmLabel, lat, lgt, score));
 			}
 
 			queryResult = reader.readLine();
@@ -426,8 +547,8 @@ public class RatingExtractor {
 				//				System.out.println(queryResult);
 				rateResults.add(rateObjectwithCossine(osmLabel, lat, lgt, score));
 			}
-			else if(ratingMode.equals("cossinePenalty")){
-				System.out.println("Not implemented yet!");
+			else if(ratingMode.equals("tripAdvisor")){
+				rateResults.add(rateObjectwithTA(osmLabel, lat, lgt, score));
 			}
 
 			queryResult = reader.readLine();
@@ -476,6 +597,105 @@ public class RatingExtractor {
 
 			line = reader.readLine();
 		}
+		reader.close();
+	}
+	
+	@Deprecated
+	public void readTripAdvisorJudgments(String fileName) throws IOException{
+
+		BufferedReader reader = new BufferedReader(
+				(new InputStreamReader(new FileInputStream(new File(fileName)), "ISO-8859-1")));
+		
+		HashMap<String, String> tripToOsm = new HashMap<String, String>();
+//		TreeSet<Hotel> aux = new TreeSet<>();
+
+		int[] count = new int[162];
+
+		for(int i = 0; i < count.length; i++){
+			count[i] = 0;
+		}
+
+		String trip = reader.readLine();
+
+		while(trip.contains("#")){
+			trip = reader.readLine();
+		}
+		
+		int b = 0;
+		while(b == 0){
+			System.out.println(trip);
+			
+			String[] tripVec = trip.split(";")[0].split("_");		
+			
+			BufferedReader osmHotels = new BufferedReader(
+					(new InputStreamReader(new FileInputStream(new File("hotel.txt")), "ISO-8859-1")));
+			
+			String hotelLine = osmHotels.readLine();
+
+			int flag = 0;
+
+			for(int i = 2; i < tripVec.length; i++){
+				while(hotelLine != null){
+
+					String[] labelVec = hotelLine.split("\\)");
+
+					String REGEX = "\\s*" + tripVec[i].toLowerCase() + "\\s";
+					Pattern pattern;
+					Matcher matcher;
+					pattern = Pattern.compile(REGEX);
+				      
+					String label = labelVec[labelVec.length - 1].trim();
+					matcher = pattern.matcher(label.toLowerCase());
+					System.out.println(label.toLowerCase() + " --> " + tripVec[i].toLowerCase() + " --> " + matcher.lookingAt());
+					System.out.println(label.toLowerCase() + " --> " + tripVec[i].toLowerCase() + " --> " + label.toLowerCase().matches("\\b"+tripVec[i].toLowerCase()+"\\b"));
+					if(matcher.lookingAt()){
+//						System.out.println(label.toLowerCasse() + " --> " + tripVec[i] + " --> " + matcher.lookingAt());
+						count[flag] = count[flag] + 1;						
+					}
+					flag++;
+					hotelLine = osmHotels.readLine();
+				}
+				osmHotels = new BufferedReader(
+						(new InputStreamReader(new FileInputStream(new File("hotel.txt")), "ISO-8859-1")));
+				hotelLine = osmHotels.readLine();
+				flag = 0;
+			}
+
+			String maxLine="";
+			int maxCount = 0;
+
+			osmHotels = new BufferedReader(
+					(new InputStreamReader(new FileInputStream(new File("hotel.txt")), "ISO-8859-1")));
+
+			hotelLine = osmHotels.readLine();
+			int a = 0;
+			while(hotelLine != null){
+				if(count[a] >= maxCount){
+					maxCount = count[a];
+					maxLine = hotelLine;
+				}
+				a++;
+				hotelLine = osmHotels.readLine();
+			}
+
+			String[] labelVec = maxLine.split("\\)");
+
+			String label = labelVec[labelVec.length - 1].trim();
+
+			if(maxCount > 0){
+				tripToOsm.put(label, trip);
+			}
+			else{
+				tripToOsm.put(label, "Não encontrou");
+			}
+				
+			trip = reader.readLine();
+			for(int i = 0; i < count.length; i++){
+				count[i] = 0;
+			}
+			b++;
+		}
+		System.out.println(tripToOsm.toString());
 		reader.close();
 	}
 
@@ -581,7 +801,9 @@ public class RatingExtractor {
 		//		String fileName = "SPKQ [k=10, kw=amenity].txt";
 		//		
 		//		Writer output = new OutputStreamWriter(new FileOutputStream(fileName.split("\\.")[0] + " --- ratings.txt"), "ISO-8859-1");
-		//		RatingExtractor obj = new RatingExtractor("default");
+				RatingExtractor obj = new RatingExtractor("cossine");
+				
+				obj.readTripAdvisorJudgments("qdubai_0.q");
 
 		//obj.createDescriptionCachefromBKP();
 		//		ArrayList<String> rateResults = obj.rateSKPQresults(fileName);

@@ -43,7 +43,7 @@ public class QueryEvaluation {
 			String rate = line.split("rate=")[1].trim();
 			String label = line.split("[0-9]\\.[0-9]")[0].trim();
 			String googleDescription = line.split("googleDescription=")[1].split("score")[0].trim();
-			String score = line.split("score=")[1].split("rate")[0].trim();
+			String score = line.split("score=")[1].split("rate=")[0].trim();
 
 			SpatialObject obj = new SpatialObject(label, Double.parseDouble(rate), Double.parseDouble(score));
 
@@ -271,7 +271,7 @@ public class QueryEvaluation {
 			/* A cada experimento, mudar o diretório de saída */
 //			String fileName = "SPKQ-LD [k="+k+", kw=supermarket food].txt";
 //			String fileName = "RQ-LD [k="+k+", kw=cafe].txt";
-//			String fileName = "SKPQ [k="+k+", kw=amenity].txt";
+			String fileName = "SKPQ-LD [k="+k+", kw=cafe].txt";
 //			String fileName = "RQ [k="+k+", kw=amenity, radius="+radius+"].txt";
 			
 			while(radius <= radiusMax){
@@ -280,16 +280,16 @@ public class QueryEvaluation {
 				DecimalFormatSymbols sym = DecimalFormatSymbols.getInstance();
 				sym.setDecimalSeparator('.');
 				df.setDecimalFormatSymbols(sym);
-				String fileName = "RQ [k="+k+", kw=cafe, radius="+df.format(radius)+"].txt";
+//				String fileName = "RQ [k="+k+", kw=cafe, radius="+df.format(radius)+"].txt";
 			
 				if(!arquivoCriado){
 				Writer output = new OutputStreamWriter(new FileOutputStream(fileName.split("\\.txt")[0] + " --- ratings.txt"), "ISO-8859-1");
-				RatingExtractor obj = new RatingExtractor("cossine");
+				RatingExtractor obj = new RatingExtractor("tripAdvisor");
 	
 //				ArrayList<String> rateResults = obj.rateSKPQresults(fileName);
-//				ArrayList<String> rateResults = obj.rateLODresult(fileName);
+				ArrayList<String> rateResults = obj.rateLODresult(fileName);
 //				ArrayList<String> rateResults = obj.rateRangeLODresult(fileName);
-				ArrayList<String> rateResults = obj.rateRangeResults(fileName);
+//				ArrayList<String> rateResults = obj.rateRangeResults(fileName);
 	
 //				System.out.println("\n\n --- Resultados ---\n");
 	
