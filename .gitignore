@@ -7,7 +7,7 @@ nppBackup/
 
 # Framework output folder
 output/
-evaluations/
+#evaluations/
 indexDubai/
 
 # =========================
@@ -62,3 +62,5 @@ Network Trash Folder
 Temporary Items
 .apdisk
 /bin/
+
+SKPQ-LD [k=5, kw=nice location] --- ratings.txt
