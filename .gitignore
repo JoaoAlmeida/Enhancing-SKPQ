@@ -6,9 +6,9 @@
 nppBackup/
 
 # Framework output folder
-#output/
-#evaluations/
-#indexDubai/
+output/
+evaluations/
+indexDubai/
 
 # =========================
 # Windows Files
