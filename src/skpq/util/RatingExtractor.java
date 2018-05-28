@@ -435,6 +435,7 @@ public class RatingExtractor {
 				if(lineRateVec[0].equals(tripLabel)){
 					rate=lineRateVec[1];
 					tripCache.putDescription(osmLabel, rate);
+					tripCache.store();
 					inserted = true;
 					break;
 				}

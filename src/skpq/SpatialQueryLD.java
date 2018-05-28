@@ -389,9 +389,11 @@ public abstract class SpatialQueryLD implements Experiment {
 
 					if (searchCache.containsKey(feature.getURI())) {
 						abs = searchCache.getDescription(feature.getURI());
+						feature.setCompleteDescription(abs);
 					} else {
 						abs = getTextDescriptionLGD(feature.getURI());
 						searchCache.putDescription(feature.getURI(), abs);
+						feature.setCompleteDescription(abs);
 					}
 
 //					System.out.println("ABS> " + abs);

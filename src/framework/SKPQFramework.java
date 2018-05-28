@@ -4,6 +4,7 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Properties;
 
+import skpq.PersonalizedSKPQSearch;
 import skpq.RQSearch;
 import skpq.SKPQSearch;
 import util.experiment.DefaultExperimentManager;
@@ -61,7 +62,7 @@ public class SKPQFramework extends DefaultExperimentManager {
 
 				StarRTree objectsOfInterest = createRtree();
 				
-				experiment = new SKPQSearch(Integer.parseInt(getProperties().getProperty("query.numResults")),
+				experiment = new PersonalizedSKPQSearch(Integer.parseInt(getProperties().getProperty("query.numResults")),
 						getProperties().getProperty("query.keywords"),
 						getProperties().getProperty("query.neighborhood"),
 						Double.parseDouble(getProperties().getProperty("query.radius")), objectsOfInterest,

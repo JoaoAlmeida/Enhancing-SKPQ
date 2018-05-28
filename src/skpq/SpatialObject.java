@@ -14,6 +14,7 @@ public class SpatialObject implements Comparable {
 	private String lgt;
 	private double alpha = 0.5;
 	public SpatialObject bestNeighbor;
+	private String completeDescription;
 	
 	public SpatialObject(int id, String uri) {
 		this.id = id;
@@ -121,6 +122,14 @@ public class SpatialObject implements Comparable {
 
 	protected void setName(String name) {
 		this.label = name;
+	}	
+
+	public String getCompleteDescription() {
+		return completeDescription;
+	}
+
+	public void setCompleteDescription(String completeDescription) {
+		this.completeDescription = completeDescription;
 	}
 
 	public int compareTo(Object other) {

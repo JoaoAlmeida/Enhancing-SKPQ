@@ -144,7 +144,7 @@ public class WebContentCache {
 
 	public static void main(String[] args) throws IOException {
 		
-		WebContentCache cache = new WebContentCache("descriptions.ch");
+		WebContentCache cache = new WebContentCache("trip_dubai.ch");
 		
 //		System.out.println(cache.containsKey("null"));
 		
@@ -154,10 +154,8 @@ public class WebContentCache {
 		 
 		//cache.store();
 
-		cache.exportCache();
+//		cache.exportCache();
 		
-		if(cache.containsKey("Test")){
-			System.out.println("It is working.");				
-		}		
+		cache.printCache();		
 	}
 }
