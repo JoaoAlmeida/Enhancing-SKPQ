@@ -1,0 +1,5 @@
+-->[1]  [OSMlabel=(tourism) (hotel) Hatta Fort Hotel, lat=24.8203921, lgt=56.13534165, BN=http://linkedgeodata.org/triplify/node914422178, score=0.6513583785381656]
+-->[2]  [OSMlabel=(tourism) (hotel) Orchid Hotel, lat=25.26060445, lgt=55.3246791, BN=http://linkedgeodata.org/triplify/node90174230, score=0.6000000000000001]
+-->[3]  [OSMlabel=(tourism) (hotel) Royal Grand, lat=25.30807215, lgt=55.3787103, BN=http://linkedgeodata.org/triplify/node90174230, score=0.6000000000000001]
+-->[4]  [OSMlabel=(tourism) (hotel) Novotel, lat=25.2214828, lgt=55.2883397, BN=http://linkedgeodata.org/triplify/node90174230, score=0.6000000000000001]
+-->[5]  [OSMlabel=(tourism) (hotel) Novotel, lat=24.429290899999998, lgt=54.42887835, BN=http://linkedgeodata.org/triplify/node1062852818, score=0.6000000000000001]

@@ -62,11 +62,22 @@ public class SKPQFramework extends DefaultExperimentManager {
 
 				StarRTree objectsOfInterest = createRtree();
 				
+				experiment = new SKPQSearch(Integer.parseInt(getProperties().getProperty("query.numResults")),
+						getProperties().getProperty("query.keywords"),
+						getProperties().getProperty("query.neighborhood"),
+						Double.parseDouble(getProperties().getProperty("query.radius")), objectsOfInterest,
+						Boolean.parseBoolean(getProperties().getProperty("experiment.debug")));
+		
+			} else if (getProperties().getProperty("query.name").equals("PSKPQ-LD")) {		
+
+				StarRTree objectsOfInterest = createRtree();
+				
 				experiment = new PersonalizedSKPQSearch(Integer.parseInt(getProperties().getProperty("query.numResults")),
 						getProperties().getProperty("query.keywords"),
 						getProperties().getProperty("query.neighborhood"),
 						Double.parseDouble(getProperties().getProperty("query.radius")), objectsOfInterest,
 						Boolean.parseBoolean(getProperties().getProperty("experiment.debug")));
+			
 
 			} else if (getProperties().getProperty("query.name").equals("RQ-LD")) {
 

@@ -9,21 +9,37 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.TreeSet;
 
+import se.walkercrou.places.GooglePlaces;
+import se.walkercrou.places.Place;
+import se.walkercrou.places.Review;
+import skpq.util.RatingExtractor;
+import skpq.util.WebContentCache;
 import weka.Predictor;
 import xxl.util.StarRTree;
 
 /**
  * Process a Spatial Preference Keyword Query using LOD.
  * 
- * @author Jo„oo Paulo
+ * @author Jo√£o Paulo
  */
 public class PersonalizedSKPQSearch extends SpatialQueryLD {
 
-	private double radius;	
+	private double radius;
+	GooglePlaces googleAPI;
+	private WebContentCache reviewCache;
 
 	public PersonalizedSKPQSearch(int k, String keywords, String neighborhood, double radius, StarRTree objectsOfInterest, boolean debug) throws IOException {
 		super(k, keywords, objectsOfInterest, debug);
-		this.radius = radius;				
+		this.radius = radius;	
+		
+		reviewCache = new WebContentCache("reviews.ch");
+		reviewCache.load();
+		
+		try {
+			googleAPI = new GooglePlaces(RatingExtractor.readGoogleUserKey());
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
 	}
 
 	public TreeSet<SpatialObject> execute(String queryKeywords, int k) {
@@ -52,39 +68,50 @@ public class PersonalizedSKPQSearch extends SpatialQueryLD {
 		}
 		
 		//Predicting
-		try {
-			Predictor p = new Predictor("WEKADataset.arff");
-			
-			Iterator<SpatialObject> it = topK.iterator();			
-			
-			
-			while(it.hasNext()){
+				try {
+					Predictor p = new Predictor("balanceado.arff");
+					
+					Iterator<SpatialObject> it = topK.iterator();			
+					
+					ArrayList<String> reviews = new ArrayList<>();
+					
+					reviews.add("slept like a baby");
+					reviews.add("The hotel was excellent in all aspects. Lobby was warm and friendly, staff was knowledgeable. The room was clean, comfortable and quiet. My one night stay was outstanding. "
+							+ "The location of this best western was right off the interstate highway with plenty of restaurants to choose from. It also had its own restaurant.");
+					reviews.add("horrible place");
+					reviews.add("disgusting");
+					reviews.add("I will not come back to this horrible place");
+					
+					int count = 0;
+					while(it.hasNext()){
+						
+						SpatialObject obj = it.next();
+						
+						double score = p.classifyInstance(reviews.get(count));
+						
+						System.out.println("Descri√ß√£o? " + obj.getName());
+						System.out.println("Score antigo: " + obj.getScore());
+						System.out.println("Score novo: " + score);
+						System.out.println("Score somado: " + ((score*0.2)+obj.getScore()));
+						
+						obj.setScore(((score*0.2)+obj.getScore()));
+						
+						pTopK.add(obj);
+						count++;
+					}
+				} catch (Exception e1) {
+					System.out.println("Error during prediction process");
+					e1.printStackTrace();
+				}
 				
-				SpatialObject obj = it.next();
-				
-				double score = p.classifyInstance(obj.getName());
-				
-				System.out.println("DescriÁ„o? " + obj.getName());
-				System.out.println("Score antigo: " + obj.getScore());
-				System.out.println("Score novo: " + score);
-				
-				obj.setScore(score);
-				
-				pTopK.add(obj);
-			}
-		} catch (Exception e1) {
-			System.out.println("Error during prediction process");
-			e1.printStackTrace();
-		}
-		
-		try {	
-			saveResults(pTopK);
-			evaluateQuery(keywords, null, k);
-		} catch (IOException e) {
-			e.printStackTrace();
-		}		
+				try {	
+					saveResults(pTopK);
+					evaluateQuery(keywords, null, k);
+				} catch (IOException e) {
+					e.printStackTrace();
+				}		
 
-		return topK;
+				return topK;
 	}
 
 	protected void saveResults(TreeSet<SpatialObject> topK) throws IOException {			

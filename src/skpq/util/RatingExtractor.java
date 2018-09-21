@@ -54,7 +54,7 @@ public class RatingExtractor {
 		}
 	}
 
-	private String readGoogleUserKey() throws IOException {
+	static public String readGoogleUserKey() throws IOException {
 
 		BufferedReader reader = new BufferedReader(
 				(new InputStreamReader(new FileInputStream(new File("key.info")), "ISO-8859-1")));
@@ -275,6 +275,111 @@ public class RatingExtractor {
 	}	
 
 	private String rateObjectwithCossine (String osmLabel, String lat, String lgt, String score) throws IOException{
+
+		String key = lat + " " + lgt;
+		String result;
+
+		if (debug) {
+			System.out.println("\n\nAvaliando objeto OSM: " + osmLabel + " -- " + key + "\n");
+		}
+
+		if (ratingCache.containsKey(osmLabel) && !key.equals("null null") && !key.equals("0.0 0.0")) {
+
+			if (debug){
+				System.out.println("Pegou do cache: " + osmLabel + " -- " + ratingCache.getDescription(osmLabel));
+			}
+
+			result = "osmLabel=" + osmLabel + " googleDescription=" + descriptionCache.getDescription(osmLabel)
+			+ " score=" + score + " rate=" + ratingCache.getDescription(osmLabel);
+		} else if(!key.equals("null null") && !key.equals("0.0 0.0")){
+
+			List<Place> places = null;
+
+			try{
+				places = googleAPI.getPlacesByQueryPosition(osmLabel, lat, lgt,
+						GooglePlaces.MAXIMUM_RESULTS);
+
+				if (places.size() > 1) {
+
+					String candidate = "Empty";
+					double maxRating = 0;
+
+					for (int a = 0; a < places.size(); a++) {
+
+						Place obj = places.get(a);
+
+						String objStr = obj.getName() + " " + obj.getLatitude() + " " + obj.getLongitude() + " "
+								+ obj.getRating();
+
+						if (debug)
+							System.out.println("Obteve do Google: " + objStr);
+
+						if (lat.regionMatches(0, Double.toString(obj.getLatitude()), 0, 5)
+								&& lgt.regionMatches(0, Double.toString(obj.getLongitude()), 0, 5)) {
+
+							double rating = obj.getRating();
+
+							if (rating > maxRating) {
+								candidate = objStr;
+								maxRating = rating;
+							}
+						}
+					}
+					// adiciona escolhido
+					ratingCache.putDescription(osmLabel, Double.toString(maxRating));
+
+					String description = candidate.split("[0-9]+\\.[0-9]+ [0-9]+\\.[0-9]+")[0].trim();
+					descriptionCache.putDescription(osmLabel, description);
+
+					// salva backup com mais informações dos ratings
+					ratingBkp.append(osmLabel + "[ " + key + " ]" + " -- Google ---> " + candidate + "\n");
+
+					if (debug){
+						System.out.println("Salvou no cache: " + osmLabel + " -- " + maxRating);
+					}
+					result =  "osmLabel=" + osmLabel + " googleDescription=" + description + " score=" + score + " rate=" + maxRating;
+				} else {
+					ratingCache.putDescription(osmLabel, Double.toString(places.get(0).getRating()));
+					descriptionCache.putDescription(osmLabel, places.get(0).getName());
+					String objStr = places.get(0).getName() + " " + places.get(0).getLatitude() + " "
+							+ places.get(0).getLongitude() + " " + places.get(0).getRating();
+					ratingBkp.append(osmLabel + "[ " + key + " ]" + " -- Google ---> " + objStr + "\n");
+
+					if (debug) {
+						System.out.println("Obteve do Google: " + objStr);
+						System.out.println("Salvou no cache: " + osmLabel + " -- " + places.get(0).getRating());
+					}
+
+					result =  "osmLabel=" + osmLabel + " googleDescription=" + places.get(0).getName() + " score=" + score + 
+							" rate=" + places.get(0).getRating();
+				}
+
+
+				if(debug)
+					System.out.println("\n\n");					
+
+			}catch(se.walkercrou.places.exception.GooglePlacesException e){
+
+				result =  "osmLabel=" + osmLabel + " googleDescription=empty" + " score=0.1" + "rate=0.0";
+				ratingCache.putDescription(osmLabel, "0.1");
+				descriptionCache.putDescription(osmLabel, "empty");
+
+				ratingCache.store();
+				descriptionCache.store();
+
+				return result;
+			}
+
+			ratingCache.store();
+			descriptionCache.store();		
+		}else{			
+			result = "osmLabel=" + osmLabel + " googleDescription=empty" + " score=0.1" + " rate=0.1";
+		}
+		return result;
+	}
+	
+	//Remover
+	private String rateObjectwithComments (String osmLabel, String lat, String lgt, String score) throws IOException{
 
 		String key = lat + " " + lgt;
 		String result;

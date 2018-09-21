@@ -222,14 +222,15 @@ public abstract class SpatialQueryLD implements Experiment {
 			}
 
 			boolean arquivoCriado = false;					
-
+			boolean personalized = true;
+			
 			if(!arquivoCriado){
 
 				Writer output = new OutputStreamWriter(new FileOutputStream(fileName.split("\\.txt")[0] + " --- ratings.txt"), "ISO-8859-1");
 				RatingExtractor obj = new RatingExtractor("tripAdvisor");
 
 				if(radius == null){
-					rateResults = obj.rateLODresult(fileName);
+					rateResults = obj.rateLODresult(fileName);			
 				}else{
 					rateResults = obj.rateRangeLODresult(fileName);
 				}
