@@ -1,0 +1,16 @@
+@relation balanceado
+
+@attribute class {1,5}
+@attribute description string
+
+@data
+5,'The hotel was excellent in all aspects.'
+5,'overall an 8, breakfast was acceptable ''
+1,'Bad hotel'
+1,'I will not come back'
+1,'Horrible experience'
+1,'Awful experience'
+5,'Slightly tired hotel, but probably the best hotel in Waterville. Skip the in-house'
+1,'The worst service'
+5,'slept like a baby!!! :)'
+5,'The hotel was excellent in all aspects.'
