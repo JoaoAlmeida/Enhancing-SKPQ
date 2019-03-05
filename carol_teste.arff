@@ -1,8 +1,0 @@
-@relation Carol
-
-@attribute rate numeric
-@attribute description string
-
-@data
-1,'This hotel is absolutely disgusting! You could not pay me to stay here again. We'
-5,'The room was great! Lots of space, good full-length mirrors, and an excellent bed. The'

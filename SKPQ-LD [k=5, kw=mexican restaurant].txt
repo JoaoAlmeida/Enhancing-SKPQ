@@ -1,0 +1,5 @@
+-->[1]  [OSMlabel=(tourism) (hotel) Orchid Hotel, lat=25.26060445, lgt=55.3246791, BN=http://linkedgeodata.org/triplify/node2488031375, score=0.1505569665358147]
+-->[2]  [OSMlabel=(tourism) (hotel) Royal Grand, lat=25.30807215, lgt=55.3787103, BN=http://linkedgeodata.org/triplify/node2488031375, score=0.1505569665358147]
+-->[3]  [OSMlabel=(tourism) (hotel) Novotel, lat=25.2214828, lgt=55.2883397, BN=http://linkedgeodata.org/triplify/node2488031375, score=0.1505569665358147]
+-->[4]  [OSMlabel=(tourism) (hotel) Imperial hotel apartments, lat=25.255447699999998, lgt=55.2999467, BN=http://linkedgeodata.org/triplify/node2488031375, score=0.1505569665358147]
+-->[5]  [OSMlabel=(tourism) (hotel) London Crown, lat=25.25469415, lgt=55.29921495, BN=http://linkedgeodata.org/triplify/node2488031375, score=0.1505569665358147]

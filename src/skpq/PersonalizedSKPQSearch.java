@@ -14,6 +14,7 @@ import se.walkercrou.places.GooglePlaces;
 import se.walkercrou.places.Place;
 import se.walkercrou.places.Review;
 import skpq.util.RatingExtractor;
+import skpq.util.User;
 import skpq.util.WebContentCache;
 import weka.Predictor;
 import xxl.util.StarRTree;
@@ -61,12 +62,10 @@ public class PersonalizedSKPQSearch extends SpatialQueryLD {
 			printQueryName();
 		}
 
-		try {
-			topK = findFeaturesExperiment(interestObjectSet, keywords, radius);
-		} catch (IOException e1) {
+		
+			topK = findFeatures(interestObjectSet, keywords);
+		
 
-			e1.printStackTrace();
-		}
 		
 		//Predicting
 				try {
@@ -77,6 +76,7 @@ public class PersonalizedSKPQSearch extends SpatialQueryLD {
 					
 					ArrayList<String> reviews = new ArrayList<>();
 					
+					//reviews do usuário?
 					reviews.add("slept like a baby");
 					reviews.add("The hotel was excellent in all aspects. Lobby was warm and friendly, staff was knowledgeable. The room was clean, comfortable and quiet. My one night stay was outstanding. "
 							+ "The location of this best western was right off the interstate highway with plenty of restaurants to choose from. It also had its own restaurant.");
@@ -107,8 +107,11 @@ public class PersonalizedSKPQSearch extends SpatialQueryLD {
 				}
 				
 				try {	
-					saveResults(pTopK);
-					evaluateQuery(keywords, null, k);
+					if(!pTopK.isEmpty()){
+						saveResults(pTopK);
+					}
+					//Retirei porque o NDCG não me interessa por agora
+//						evaluateQuery(keywords, null, k);									
 				} catch (IOException e) {
 					e.printStackTrace();
 				}		
@@ -119,14 +122,16 @@ public class PersonalizedSKPQSearch extends SpatialQueryLD {
 	protected void saveResults(TreeSet<SpatialObject> topK) throws IOException {			
 
 		Writer outputFile = new OutputStreamWriter(
-				new FileOutputStream("SKPQ-LD [" + "k=" + k + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
+				new FileOutputStream("PSKPQ-LD [" + "k=" + k + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
 
 		Iterator<SpatialObject> it = topK.descendingIterator();
 
 		for (int a = 1; a <= topK.size(); a++) {
 			SpatialObject obj = it.next();
+			System.out.println("-->[" + a + "]  " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt="
+					+ obj.getLgt() + ", score=" + obj.getScore() + "]\n");
 			outputFile.write("-->[" + a + "]  " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt="
-					+ obj.getLgt() + ", BN=" + obj.bestNeighbor.getURI() + ", score=" + obj.getScore() + "]\n");
+					+ obj.getLgt() + ", score=" + obj.getScore() + "]\n");
 		}
 
 		outputFile.close();

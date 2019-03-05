@@ -214,11 +214,11 @@ public abstract class SpatialQueryLD implements Experiment {
 		System.out.println("NDCG");
 
 		while(k <= k_max){
-
+			//mudar nome dos arquivos
 			if(radius == null){			
-				fileName = "SKPQ-LD [k="+k+", kw="+ keywords +"].txt";
+				fileName = "PSKPQ-LD [k="+k+", kw="+ keywords +"].txt";
 			} else{
-				fileName = "RQ-LD [k="+k+", kw="+ keywords + ", radius=" + radius + "].txt";			
+				fileName = "PSKPQ-LD [k="+k+", kw="+ keywords + ", radius=" + radius + "].txt";			
 			}
 
 			boolean arquivoCriado = false;					

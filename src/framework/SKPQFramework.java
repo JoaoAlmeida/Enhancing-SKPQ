@@ -32,7 +32,7 @@ public class SKPQFramework extends DefaultExperimentManager {
 		return "categoryName experimentName dataset neighborhood plusMode queryType numQueries numKeywords numResults radius";
 	}
 
-	public String getNameID() {
+	public String getNameID() {		
 		return getProperties().getProperty("experiment.name") + "_" + getProperties().getProperty("query.name") + "_"
 				+ getProperties().getProperty("query.keywords") + "_"
 				+ getNeighborhood(Integer.parseInt(getProperties().getProperty("query.neighborhood"))) + "_"
@@ -56,8 +56,9 @@ public class SKPQFramework extends DefaultExperimentManager {
 	@Override
 	public void open() throws ExperimentException {
 		super.open();
-
+		
 		try {
+			System.out.println("DEbug " + getProperties().getProperty("query.name"));
 			if (getProperties().getProperty("query.name").equals("SKPQ-LD")) {		
 
 				StarRTree objectsOfInterest = createRtree();
