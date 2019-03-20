@@ -10,10 +10,15 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.io.UnsupportedEncodingException;
 import java.io.Writer;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 import org.apache.jena.query.ARQ;
 import org.apache.jena.query.Query;
@@ -217,13 +222,84 @@ public class Datasets {
 		rmk.close();
 	}
 	
+	public void hotelProfiler(String filePath, String hotelName) throws IOException{
+		
+		try (Stream<Path> paths = Files.walk(Paths.get("C://Users//JoãoPaulo//Documents//GitHub//Enhancing-SKPQ//dubai"))) {
+		    paths
+		        .filter(Files::isRegularFile)
+		        .forEach(System.out::println);
+		}
+		
+		BufferedReader read = new BufferedReader((new InputStreamReader(new FileInputStream(new File(filePath)), "ISO-8859-1")));
+		
+		Writer profile = new OutputStreamWriter(new FileOutputStream(hotelName+".arff"), "ISO-8859-1");			
+		
+		profile.write("@relation "+ hotelName + "\n\n");
+		profile.write("@attribute class {1,5}" + "\n");
+		profile.write("@attribute description string" + "\n\n");
+		profile.write("@data" + "\n");
+		
+		String line = read.readLine();
+		
+		while(line != null){
+			line = line.replaceAll("'", " ");
+			int index = line.indexOf(" ", 4);
+			profile.write("1,'"+ line.substring(index+5).trim() + "'\n");
+			line = read.readLine();
+		}
+		
+		read.close();
+		profile.close();
+	}
+	
+//Read a folder and create a profile hotel for each file in the readen folder	
+public void hotelGroupProfiler() throws IOException{		
+	
+	File folder = new File("C://Users//JoãoPaulo//Documents//GitHub//Enhancing-SKPQ//dubai");
+	
+	String[] files = new String[folder.listFiles().length];
+	
+	files = folder.list();
+	
+	for(int i = 0; i < folder.listFiles().length; i++){
+		System.out.println(files[i]);
+		BufferedReader read = new BufferedReader((new InputStreamReader(new FileInputStream(new File("dubai/"+files[i])), "ISO-8859-1")));
+		
+		Writer profile = new OutputStreamWriter(new FileOutputStream("all/"+files[i]+".arff"), "ISO-8859-1");			
+		
+		profile.write("@relation "+ files[i] + "\n\n");
+		profile.write("@attribute class {1,5}" + "\n");
+		profile.write("@attribute description string" + "\n\n");
+		profile.write("@data" + "\n");
+		
+		String line = read.readLine();
+		
+		while(line != null){
+			line = line.replaceAll("'", " ");
+			int index = line.indexOf(" ", 4);
+			profile.write("1,'"+ line.substring(index+5).trim() + "'\n");
+			line = read.readLine();
+		}
+		
+		read.close();
+		profile.close();
+	}		
+	}
+
 	//Examples of usage
 	public static void main(String[] args) throws IOException {
+		
+//		String line = "(tourism) (hotel) Orchid Hotel";
+////		
+//		int index = line.indexOf(" ", 4);
+//		
+//		System.out.println(line.split("\\(hotel\\)")[1].trim().toLowerCase());
 		try {
-			Datasets obj = new Datasets("hotel.txt");
-
-			obj.interestObjectCreateFile("hotelLGD2.txt");
-			//Datasets.fileHeallthCheck("C://Users//JoãoPaulo//Documents//NetBeansProjects//DatasetsOutput//OSM_features.txt");
+			Datasets obj = new Datasets("hotel.txt");					
+			obj.hotelGroupProfiler();
+//			obj.hotelProfiler("are_dubai_chelsea_tower_hotel_apartments", "Chelsea Gardens Hotel");
+//			obj.interestObjectCreateFile("hotelLGD2.txt");
+//			//Datasets.fileHeallthCheck("C://Users//JoãoPaulo//Documents//NetBeansProjects//DatasetsOutput//OSM_features.txt");
 		} catch (UnsupportedEncodingException | FileNotFoundException e) {
 			e.printStackTrace();
 		}

@@ -52,6 +52,14 @@ public class MyFilteredLearner {
 	 * Object that stores the classifier
 	 */
 	FilteredClassifier classifier;
+	String userProfile;
+	
+	public MyFilteredLearner(String userProfile){
+		this.userProfile = userProfile;
+		
+		loadDataset("profiles/"+userProfile+".arff");
+		learn();
+	}
 		
 	/**
 	 * This method loads a dataset in ARFF format. If the file does not exist, or
@@ -174,15 +182,19 @@ public class MyFilteredLearner {
 		return clsLabel;
 	}	
 	
-	public double classifyInstanceFinal(int index) throws Exception{
+	public double classifyHotel(String hotelProfile) throws Exception{
+		System.out.println("Hotel name: " + hotelProfile);
+		double count = 0;
+		Instances unlabeled = null;
 		
-		loadDataset("profiles/room.arff");
-		learn();
-		
-		 Instances unlabeled = new Instances(
+		try{
+		 unlabeled = new Instances(
                  new BufferedReader(
-                   new FileReader("profiles/hotels/orchid hotel.arff")));
-
+                   new FileReader("profiles/hotels/"+hotelProfile+".arff")));
+		}catch(Exception IOException){
+			 System.out.println("Hotel does not have reviews yet! " + IOException + "\n");
+			 return 0;
+		 }
 		// set class attribute
 		unlabeled.setClassIndex(0);
 		
@@ -190,20 +202,29 @@ public class MyFilteredLearner {
 		Instances labeled = new Instances(unlabeled);
 		
 		// label instances		
-		double clsLabel = classifier.classifyInstance(unlabeled.instance(index));
-		
-		labeled.instance(0).setClassValue(clsLabel);
+		for(int i = 0; i < unlabeled.numInstances(); i++){
+			double clsLabel = classifier.classifyInstance(unlabeled.instance(i));
+//			System.out.println(clsLabel);
+			//pode remover a linha abaixo. Não preciso armazenar essa classificação
+			labeled.instance(i).setClassValue(clsLabel);
+//			System.out.println(clsLabel);
+			if(clsLabel == 0){
+				count--;
+			}else{
+				count++;
+			}			
+		}					
 		
 		// save labeled data
-		BufferedWriter writer = new BufferedWriter(
-		                   new FileWriter("labeledOrchid.arff"));
+//		BufferedWriter writer = new BufferedWriter(
+//		                   new FileWriter("labeledOrchid.arff"));
+//		
+//		writer.write(labeled.toString());
+//		writer.newLine();
+//		writer.flush();
+//		writer.close();
 		
-		writer.write(labeled.toString());
-		writer.newLine();
-		writer.flush();
-		writer.close();
-		
-		return clsLabel;
+		return count/unlabeled.numInstances();
 	}	
 	
 	public double classifyInstance(String description) throws Exception{
@@ -249,14 +270,15 @@ public class MyFilteredLearner {
 //		if (args.length < 1)
 //			System.out.println("Usage: java MyLearner <fileData> <fileModel>");
 //		else {
-			learner = new MyFilteredLearner();
+			learner = new MyFilteredLearner("room");
 //			learner.loadDataset("profiles/room.arff");
 
 			// Evaluation must be done before training
 			// More info in: http://weka.wikispaces.com/Use+WEKA+in+your+Java+code
 //			learner.evaluate();
-			learner.learn();
-			System.out.println("Resultado -> " + learner.classifyInstanceFinal(0));
+			//learn já é feito no construtor
+//			learner.learn();
+			System.out.println("Resultado -> " + learner.classifyHotel("Al Bustan Beach Hotel"));
 //			learner.saveModel("output.txt");
 //		}
 	}

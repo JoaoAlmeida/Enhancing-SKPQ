@@ -3,10 +3,12 @@ package skpq.util;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
+import java.io.UnsupportedEncodingException;
 import java.io.Writer;
 import java.text.DecimalFormat;
 import java.text.DecimalFormatSymbols;
@@ -30,6 +32,10 @@ public class QueryEvaluation {
 
 		readResultSet();
 	}
+	
+	public QueryEvaluation(){
+		
+	}
 
 	private void readResultSet() throws IOException{
 
@@ -42,12 +48,13 @@ public class QueryEvaluation {
 		
 			String rate = line.split("rate=")[1].trim();
 			String label = line.split("[0-9]\\.[0-9]")[0].trim();
-			String googleDescription = line.split("googleDescription=")[1].split("score")[0].trim();
-			String score = line.split("score=")[1].split("rate=")[0].trim();
-
+//			String googleDescription = line.split("googleDescription=")[1].split("score")[0].trim();
+			String score = line.split("score=")[1].split("rate=")[0].trim();					
+			
 			SpatialObject obj = new SpatialObject(label, Double.parseDouble(rate), Double.parseDouble(score));
 
-			SpatialObject idealObj = new SpatialObject(googleDescription, Double.parseDouble(rate), Double.parseDouble(rate));
+//			SpatialObject idealObj = new SpatialObject(googleDescription, Double.parseDouble(rate), Double.parseDouble(rate));
+			SpatialObject idealObj = new SpatialObject(label, Double.parseDouble(rate), Double.parseDouble(rate));
 			
 			results.add(obj);
 			idealResults.add(idealObj);
@@ -255,43 +262,27 @@ public class QueryEvaluation {
 		return outputVec(fileName, dcg, idcg, ndcg, precision, avPrecision);
 	}
 	
-
-	public static void main(String[] args) throws IOException {	
-		
-		int k_max = 5;
+	private void evaluateQueriesGroup(String queryName, String queryKeyword) throws IOException{
+		int k_max = 20;
 		@SuppressWarnings("unused")
-		int inc = 5, k = 5, a = 0, i = 1;
-		double radius = 0.005, radiusMax = 0.005;
+		int inc = 5, k = 5; 
+		int a = 0, i = 1;
+		double[] ndcg = new double[4];
+		
 		while(k <= k_max){
-			
-		//	a = 0;
+						
 //			i = 1;
 			
 			boolean arquivoCriado = false;
 			/* A cada experimento, mudar o diretório de saída */
-//			String fileName = "SPKQ-LD [k="+k+", kw=supermarket food].txt";
-//			String fileName = "RQ-LD [k="+k+", kw=cafe].txt";
-			String fileName = "SKPQ-LD [k="+k+", kw=cafe].txt";
-//			String fileName = "RQ [k="+k+", kw=amenity, radius="+radius+"].txt";
-			
-			while(radius <= radiusMax){
 
-				DecimalFormat df = new DecimalFormat("#.###");
-				DecimalFormatSymbols sym = DecimalFormatSymbols.getInstance();
-				sym.setDecimalSeparator('.');
-				df.setDecimalFormatSymbols(sym);
-//				String fileName = "RQ [k="+k+", kw=cafe, radius="+df.format(radius)+"].txt";
+			String fileName = queryName + "-LD [k="+k+", kw="+queryKeyword+"].txt";
 			
 				if(!arquivoCriado){
 				Writer output = new OutputStreamWriter(new FileOutputStream(fileName.split("\\.txt")[0] + " --- ratings.txt"), "ISO-8859-1");
-				RatingExtractor obj = new RatingExtractor("tripAdvisor");
-	
-//				ArrayList<String> rateResults = obj.rateSKPQresults(fileName);
-				ArrayList<String> rateResults = obj.rateLODresult(fileName);
-//				ArrayList<String> rateResults = obj.rateRangeLODresult(fileName);
-//				ArrayList<String> rateResults = obj.rateRangeResults(fileName);
-	
-//				System.out.println("\n\n --- Resultados ---\n");
+				RatingExtractor obj = new RatingExtractor("personalized");
+					
+				ArrayList<String> rateResults = obj.rateLODresult("pskpq/"+fileName);
 	
 				for (String x : rateResults) {
 	
@@ -301,36 +292,104 @@ public class QueryEvaluation {
 			}
 			
 			QueryEvaluation q = new QueryEvaluation(fileName.split("\\.txt")[0] + " --- ratings.txt");
-	
-//			ndcg[a] = q.execute();
-			System.out.println(q.execute());
-		//	a++;	
-			radius = radius + 0.02;	
 			
+			ndcg[a] = q.execute();
+			System.out.println(ndcg[a]);
+			a++;					
+		
+			k = k + inc;		
+	}
+		double soma = 0;
+		
+		for(int b = 0; b < ndcg.length; b++){											
+			soma = soma + ndcg[b];
+			System.out.print(ndcg[b] + " ");
 		}
-			k = k + inc;
-		}
 		
-		//double soma = 0;
+		System.out.println("\nMédia: " + soma/4);				
+	}
+	
+	public static void main(String[] args) throws IOException {	
 		
-//		for(int b = 0; b < ndcg.length; b++){											
-//			soma = soma + ndcg[b];
-//			System.out.print(ndcg[b] + " ");
-//		}
+		QueryEvaluation q = new QueryEvaluation();
 		
-//		System.out.println("\nSomat�rio " + k + ": " + soma);		
-//		}
-//		System.out.println("\nSomat�rio ");
-//		//Calculate evaluation arithmetic mean
-//		
+		q.evaluateQueriesGroup("PSKPQ", "day");		
+//		q.evaluateQueriesGroup("SKPQ", "day");
+		
+//		int k_max = 5;
+//		@SuppressWarnings("unused")
+//		int inc = 5, k = 5; 
+////		a = 0, i = 1;
+////		double radius = 0.005, radiusMax = 0.005;
+//		while(k <= k_max){
+//			
+//		//	a = 0;
+////			i = 1;
+//			
+//			boolean arquivoCriado = false;
+//			/* A cada experimento, mudar o diretório de saída */
+////			String fileName = "SPKQ-LD [k="+k+", kw=supermarket food].txt";
+////			String fileName = "RQ-LD [k="+k+", kw=cafe].txt";
+//			String fileName = "SKPQ-LD [k="+k+", kw=cafe].txt";
+////			String fileName = "RQ [k="+k+", kw=amenity, radius="+radius+"].txt";
+//			
+////			while(radius <= radiusMax){
 //
-//		for(int b = 0; b < evaluations.get(0).length; b++){
-//			for(int c = 0; c < evaluations.size(); c++){		
-//				ndcg[b] = ndcg[b] + evaluations.get(c)[b];
+//				DecimalFormat df = new DecimalFormat("#.###");
+//				DecimalFormatSymbols sym = DecimalFormatSymbols.getInstance();
+//				sym.setDecimalSeparator('.');
+//				df.setDecimalFormatSymbols(sym);
+////				String fileName = "RQ [k="+k+", kw=cafe, radius="+df.format(radius)+"].txt";
+//			
+//				if(!arquivoCriado){
+//				Writer output = new OutputStreamWriter(new FileOutputStream(fileName.split("\\.txt")[0] + " --- ratings.txt"), "ISO-8859-1");
+//				RatingExtractor obj = new RatingExtractor("tripAdvisor");
+//	
+////				ArrayList<String> rateResults = obj.rateSKPQresults(fileName);
+//				ArrayList<String> rateResults = obj.rateLODresult(fileName);
+////				ArrayList<String> rateResults = obj.rateRangeLODresult(fileName);
+////				ArrayList<String> rateResults = obj.rateRangeResults(fileName);
+//	
+////				System.out.println("\n\n --- Resultados ---\n");
+//	
+//				for (String x : rateResults) {
+//	
+//					output.write(x + "\n");	
+//				}		
+//				output.close();
 //			}
-//			//			ndcg[b] = ndcg[b] / evaluations.size();
-//			System.out.print(ndcg[b] + " ");
+//			
+//			QueryEvaluation q = new QueryEvaluation(fileName.split("\\.txt")[0] + " --- ratings.txt");
+//	
+////			ndcg[a] = q.execute();
+//			System.out.println(q.execute());
+//		//	a++;	
+////			radius = radius + 0.02;	
+//			
 //		}
+//			k = k + inc;
+//		}
+//		
+//		//double soma = 0;
+//		
+////		for(int b = 0; b < ndcg.length; b++){											
+////			soma = soma + ndcg[b];
+////			System.out.print(ndcg[b] + " ");
+////		}
+//		
+////		System.out.println("\nSomat�rio " + k + ": " + soma);		
+////		}
+////		System.out.println("\nSomat�rio ");
+////		//Calculate evaluation arithmetic mean
+////		
+////
+////		for(int b = 0; b < evaluations.get(0).length; b++){
+////			for(int c = 0; c < evaluations.size(); c++){		
+////				ndcg[b] = ndcg[b] + evaluations.get(c)[b];
+////			}
+////			//			ndcg[b] = ndcg[b] / evaluations.size();
+////			System.out.print(ndcg[b] + " ");
+////		}
 	}
 
 }

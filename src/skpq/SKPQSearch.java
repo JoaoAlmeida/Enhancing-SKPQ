@@ -43,17 +43,11 @@ public class SKPQSearch extends SpatialQueryLD {
 			printQueryName();
 		}
 
-//		topK = findFeaturesLGD(interestObjectSet, keywords, radius);
-		try {
-			topK = findFeaturesExperiment(interestObjectSet, keywords, radius);
-		} catch (IOException e1) {
-			// TODO Auto-generated catch block
-			e1.printStackTrace();
-		}
+topK = findFeaturesLGD(interestObjectSet, keywords, radius);
 		
 		try {	
-			saveResults(topK);
-			evaluateQuery(keywords, null, k);
+			saveGroupResults(topK);
+//			evaluateQuery(keywords, null, k);
 		} catch (IOException e) {
 			e.printStackTrace();
 		}		
@@ -74,6 +68,57 @@ public class SKPQSearch extends SpatialQueryLD {
 					+ obj.getLgt() + ", BN=" + obj.bestNeighbor.getURI() + ", score=" + obj.getScore() + "]\n");
 		}
 
+		outputFile.close();
+	}
+	
+protected void saveGroupResults(TreeSet<SpatialObject> topK) throws IOException{
+		
+		/* Imprime 5 */
+		Writer outputFile = new OutputStreamWriter(new FileOutputStream("pskpq/SKPQ-LD [" + "k=" + "5" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
+		
+		Iterator<SpatialObject> it = topK.descendingIterator();
+		
+		for(int a = 1; a <= 5; a++){
+			SpatialObject obj = it.next();
+			outputFile.write("-->[" + a + "]  " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt=" + obj.getLgt() + ", score=" + obj.getScore() + "]\n");
+		}
+		
+		outputFile.close();
+		
+		/* Imprime 10 */
+		outputFile = new OutputStreamWriter(new FileOutputStream("pskpq/SKPQ-LD [" + "k=" + "10" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
+		
+		it = topK.descendingIterator();
+		
+		for(int a = 1; a <= 10; a++){
+			SpatialObject obj = it.next();
+			outputFile.write("-->[" + a + "]  " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt=" + obj.getLgt() + ", score=" + obj.getScore() + "]\n");
+		}
+		
+		outputFile.close();
+		
+		/* Imprime 15 */
+		outputFile = new OutputStreamWriter(new FileOutputStream("pskpq/SKPQ-LD [" + "k=" + "15" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
+		
+		it = topK.descendingIterator();
+		
+		for(int a = 1; a <= 15; a++){
+			SpatialObject obj = it.next();
+			outputFile.write("-->[" + a + "]  " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt=" + obj.getLgt() + ", score=" + obj.getScore() + "]\n");
+		}
+		
+		outputFile.close();
+		
+		/* Imprime 20 */
+		outputFile = new OutputStreamWriter(new FileOutputStream("pskpq/SKPQ-LD [" + "k=" + "20" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
+		
+		it = topK.descendingIterator();
+		
+		for(int a = 1; a <= 20; a++){
+			SpatialObject obj = it.next();
+			outputFile.write("-->[" + a + "]  " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt=" + obj.getLgt() + ", score=" + obj.getScore() + "]\n");
+		}
+		
 		outputFile.close();
 	}
 	

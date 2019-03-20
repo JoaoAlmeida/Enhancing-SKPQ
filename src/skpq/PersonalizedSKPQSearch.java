@@ -56,47 +56,54 @@ public class PersonalizedSKPQSearch extends SpatialQueryLD {
 			e.printStackTrace();
 		}
 
-		System.out.println("Processing SKPQ query...\n");
+		System.out.println("Processing PSKPQ query...\n");
 
 		if (debug) {
 			printQueryName();
 		}
-
 		
-			topK = findFeatures(interestObjectSet, keywords);
-		
-
-		
+			topK = findFeaturesLGD(interestObjectSet, keywords, radius);
+				
 		//Predicting
 				try {
 //					Predictor p = new Predictor("balanceado.arff");
-					MyFilteredLearner p = new MyFilteredLearner(); 										
+					MyFilteredLearner p = new MyFilteredLearner("room"); 										
 					
 					Iterator<SpatialObject> it = topK.iterator();			
 					
 					ArrayList<String> reviews = new ArrayList<>();
 					
 					//reviews do usuário?
-					reviews.add("slept like a baby");
-					reviews.add("The hotel was excellent in all aspects. Lobby was warm and friendly, staff was knowledgeable. The room was clean, comfortable and quiet. My one night stay was outstanding. "
-							+ "The location of this best western was right off the interstate highway with plenty of restaurants to choose from. It also had its own restaurant.");
-					reviews.add("horrible place");
-					reviews.add("disgusting");
-					reviews.add("I will not come back to this horrible place");
+//					reviews.add("slept like a baby");
+//					reviews.add("The hotel was excellent in all aspects. Lobby was warm and friendly, staff was knowledgeable. The room was clean, comfortable and quiet. My one night stay was outstanding. "
+//							+ "The location of this best western was right off the interstate highway with plenty of restaurants to choose from. It also had its own restaurant.");
+//					reviews.add("horrible place");
+//					reviews.add("disgusting");
+//					reviews.add("I will not come back to this horrible place");
 					
 					int count = 0;
 					while(it.hasNext()){
 						
 						SpatialObject obj = it.next();
 						
-						double score = p.classifyInstance2(count);
+						String hotelName = obj.getName().split("\\(hotel\\)")[1].trim(); 
 						
-						System.out.println("Descrição? " + obj.getName());
-						System.out.println("Score antigo: " + obj.getScore());
+						if(hotelName.equals("novotel")){
+							if(count == 0){
+								count++;
+								hotelName=hotelName+"25";
+							}else{
+								hotelName=hotelName+"24";
+							}						
+						}
+						double score = p.classifyHotel(hotelName);
+						
+//						System.out.println("Descrição? " + hotelName);
+//						System.out.println("Score antigo: " + obj.getScore());
 						System.out.println("Score novo: " + score);
-						System.out.println("Score somado: " + ((score*0.2)+obj.getScore()));
+						System.out.println("Score somado: " + (score+obj.getScore()) + "\n");
 						
-						obj.setScore(((score*0.2)+obj.getScore()));
+						obj.setScore((score + obj.getScore()));
 						
 						pTopK.add(obj);
 						count++;
@@ -108,7 +115,7 @@ public class PersonalizedSKPQSearch extends SpatialQueryLD {
 				
 				try {	
 					if(!pTopK.isEmpty()){
-						saveResults(pTopK);
+						saveGroupResults(pTopK);
 					}
 					//Retirei porque o NDCG não me interessa por agora
 //						evaluateQuery(keywords, null, k);									
@@ -134,6 +141,57 @@ public class PersonalizedSKPQSearch extends SpatialQueryLD {
 					+ obj.getLgt() + ", score=" + obj.getScore() + "]\n");
 		}
 
+		outputFile.close();
+	}
+	
+protected void saveGroupResults(TreeSet<SpatialObject> topK) throws IOException{
+		
+		/* Imprime 5 */
+		Writer outputFile = new OutputStreamWriter(new FileOutputStream("pskpq/PSKPQ-LD [" + "k=" + "5" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
+		
+		Iterator<SpatialObject> it = topK.descendingIterator();
+		
+		for(int a = 1; a <= 5; a++){
+			SpatialObject obj = it.next();
+			outputFile.write("-->[" + a + "]  " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt=" + obj.getLgt() + ", score=" + obj.getScore() + "]\n");
+		}
+		
+		outputFile.close();
+		
+		/* Imprime 10 */
+		outputFile = new OutputStreamWriter(new FileOutputStream("pskpq/PSKPQ-LD [" + "k=" + "10" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
+		
+		it = topK.descendingIterator();
+		
+		for(int a = 1; a <= 10; a++){
+			SpatialObject obj = it.next();
+			outputFile.write("-->[" + a + "]  " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt=" + obj.getLgt() + ", score=" + obj.getScore() + "]\n");
+		}
+		
+		outputFile.close();
+		
+		/* Imprime 15 */
+		outputFile = new OutputStreamWriter(new FileOutputStream("pskpq/PSKPQ-LD [" + "k=" + "15" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
+		
+		it = topK.descendingIterator();
+		
+		for(int a = 1; a <= 15; a++){
+			SpatialObject obj = it.next();
+			outputFile.write("-->[" + a + "]  " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt=" + obj.getLgt() + ", score=" + obj.getScore() + "]\n");
+		}
+		
+		outputFile.close();
+		
+		/* Imprime 20 */
+		outputFile = new OutputStreamWriter(new FileOutputStream("pskpq/PSKPQ-LD [" + "k=" + "20" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
+		
+		it = topK.descendingIterator();
+		
+		for(int a = 1; a <= 20; a++){
+			SpatialObject obj = it.next();
+			outputFile.write("-->[" + a + "]  " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt=" + obj.getLgt() + ", score=" + obj.getScore() + "]\n");
+		}
+		
 		outputFile.close();
 	}
 

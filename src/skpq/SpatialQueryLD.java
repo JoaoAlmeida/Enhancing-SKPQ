@@ -358,6 +358,7 @@ public abstract class SpatialQueryLD implements Experiment {
 		return topK;
 	}
 	
+	//Search for hotels using hotels as features. Employed as Experiment 2 at first article.
 	public TreeSet<SpatialObject> findFeaturesExperiment(List<SpatialObject> interestSet, String keywords, double radius) throws IOException {
 
 		ArrayList<SpatialObject> featureSet = loadObjectsInterest("hotel_LGD.txt");			
@@ -397,7 +398,6 @@ public abstract class SpatialQueryLD implements Experiment {
 						feature.setCompleteDescription(abs);
 					}
 
-//					System.out.println("ABS> " + abs);
 					double score = LuceneCosineSimilarity.getCosineSimilarity(abs, keywords);
 
 					if (score > maxScore) {
@@ -809,12 +809,14 @@ public abstract class SpatialQueryLD implements Experiment {
 			interestSet.get(a).setScore(maxScore);
 
 			if (topK.size() < k) {
+				System.out.println(interestSet.get(a).getScore());		
 				topK.add(interestSet.get(a));
 				// keeps the best objects, if they have the same scores, keeps
 				// the objects with smaller ids
 			} else if (interestSet.get(a).getScore() > topK.first().getScore()
 					|| (interestSet.get(a).getScore() == topK.first().getScore()
 					&& interestSet.get(a).getId() > topK.first().getId())) {
+				System.out.println(interestSet.get(a).getScore());
 				topK.pollFirst();
 				topK.add(interestSet.get(a));
 			}
