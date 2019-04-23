@@ -20,12 +20,20 @@ import xxl.util.StarRTree;
 public class SKPQSearch extends SpatialQueryLD {
 
 	private double radius;	
+	private String match;
 	
-	public SKPQSearch(int k, String keywords, String neighborhood, double radius, StarRTree objectsOfInterest, boolean debug) throws IOException {
+	public SKPQSearch(int k, String keywords, String neighborhood, double radius, StarRTree objectsOfInterest, boolean debug, String match) throws IOException {
 		super(k, keywords, objectsOfInterest, debug);
-		this.radius = radius;				
+		this.radius = radius;
+		this.match = match;
 	}
 
+//	public SKPQSearch(int k, String keywords, String neighborhood, double radius, StarRTree objectsOfInterest, boolean debug) throws IOException {
+//		super(k, keywords, objectsOfInterest, debug);
+//		this.radius = radius;
+//		this.match = "default";
+//	}
+	
 	public TreeSet<SpatialObject> execute(String queryKeywords, int k) {
 
 		List<SpatialObject> interestObjectSet = new ArrayList<SpatialObject>();
@@ -43,7 +51,7 @@ public class SKPQSearch extends SpatialQueryLD {
 			printQueryName();
 		}
 
-topK = findFeaturesLGD(interestObjectSet, keywords, radius);
+		topK = findFeaturesLGD(interestObjectSet, keywords, radius, match);
 		
 		try {	
 			saveGroupResults(topK);

@@ -66,8 +66,9 @@ public class SKPQFramework extends DefaultExperimentManager {
 				experiment = new SKPQSearch(Integer.parseInt(getProperties().getProperty("query.numResults")),
 						getProperties().getProperty("query.keywords"),
 						getProperties().getProperty("query.neighborhood"),
-						Double.parseDouble(getProperties().getProperty("query.radius")), objectsOfInterest,
-						Boolean.parseBoolean(getProperties().getProperty("experiment.debug")));
+						Double.parseDouble(getProperties().getProperty("query.radius", "0.2")), objectsOfInterest,
+						Boolean.parseBoolean(getProperties().getProperty("experiment.debug", "false")),
+						getProperties().getProperty("query.match", "default"));
 		
 			} else if (getProperties().getProperty("query.name").equals("PSKPQ-LD")) {		
 

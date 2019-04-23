@@ -10,5 +10,6 @@
 	<classpathentry kind="lib" path="lib/jython-2.5.3.jar"/>
 	<classpathentry kind="lib" path="lib/libsvm.jar"/>
 	<classpathentry kind="lib" path="lib/weka.jar"/>
+	<classpathentry kind="lib" path="lib/commons-text-1.6.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

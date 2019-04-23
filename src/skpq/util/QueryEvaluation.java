@@ -262,21 +262,20 @@ public class QueryEvaluation {
 		return outputVec(fileName, dcg, idcg, ndcg, precision, avPrecision);
 	}
 	
-	private void evaluateQueriesGroup(String queryName, String queryKeyword) throws IOException{
-		int k_max = 20;
+	private void evaluateQueriesGroup(String queryName, String[] queryKeyword, int k_max) throws IOException{
+		
 		@SuppressWarnings("unused")
-		int inc = 5, k = 5; 
-		int a = 0, i = 1;
+		int inc = 5, k = 5, a = 0;		
 		double[] ndcg = new double[4];
 		
-		while(k <= k_max){
-						
-//			i = 1;
+		for(int ind = 0; ind < queryKeyword.length; ind++){
+		System.out.println("Key: " + queryKeyword[ind]);
+			while(k <= k_max){								
 			
 			boolean arquivoCriado = false;
 			/* A cada experimento, mudar o diretório de saída */
 
-			String fileName = queryName + "-LD [k="+k+", kw="+queryKeyword+"].txt";
+			String fileName = queryName + "-LD [k="+k+", kw="+queryKeyword[ind]+"].txt";
 			
 				if(!arquivoCriado){
 				Writer output = new OutputStreamWriter(new FileOutputStream(fileName.split("\\.txt")[0] + " --- ratings.txt"), "ISO-8859-1");
@@ -296,9 +295,11 @@ public class QueryEvaluation {
 			ndcg[a] = q.execute();
 			System.out.println(ndcg[a]);
 			a++;					
-		
+			
 			k = k + inc;		
 	}
+		
+		
 		double soma = 0;
 		
 		for(int b = 0; b < ndcg.length; b++){											
@@ -306,15 +307,20 @@ public class QueryEvaluation {
 			System.out.print(ndcg[b] + " ");
 		}
 		
-		System.out.println("\nMédia: " + soma/4);				
+		System.out.println("\nMédia: " + soma/4 + "\n\n");
+		a = 0;
+		k = 5;
+		}		
 	}
+	
 	
 	public static void main(String[] args) throws IOException {	
 		
 		QueryEvaluation q = new QueryEvaluation();
+		String keys[] = {"day","change","discount","air","sunset","ras","chili","american","jesco","station"};
 		
-		q.evaluateQueriesGroup("PSKPQ", "day");		
-//		q.evaluateQueriesGroup("SKPQ", "day");
+//		q.evaluateQueriesGroup("PSKPQ", keys, 20);		
+		q.evaluateQueriesGroup("SKPQ", keys, 20);
 		
 //		int k_max = 5;
 //		@SuppressWarnings("unused")

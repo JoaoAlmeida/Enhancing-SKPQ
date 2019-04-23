@@ -62,7 +62,7 @@ public class PersonalizedSKPQSearch extends SpatialQueryLD {
 			printQueryName();
 		}
 		
-			topK = findFeaturesLGD(interestObjectSet, keywords, radius);
+			topK = findFeaturesLGD(interestObjectSet, keywords, radius, "default");
 				
 		//Predicting
 				try {

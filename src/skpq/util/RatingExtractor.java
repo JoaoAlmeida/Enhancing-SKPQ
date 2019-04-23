@@ -312,9 +312,10 @@ public class RatingExtractor {
 //			System.out.println(line);
 //			System.out.println(osmLabel);
 			String fileID = null;
-			
+			System.out.println(osmLabel);
 			//Search for the hotel fileID in opinrankdataset 
 			while(line != null){
+				
 				line = line.trim();
 				if(line.contains(osmLabel)){
 					String[] vec = line.split("->");
