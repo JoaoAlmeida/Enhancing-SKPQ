@@ -67,7 +67,7 @@ public class PersonalizedSKPQSearch extends SpatialQueryLD {
 		//Predicting
 				try {
 //					Predictor p = new Predictor("balanceado.arff");
-					MyFilteredLearner p = new MyFilteredLearner("room"); 										
+					MyFilteredLearner p = new MyFilteredLearner("teste"); 										
 					
 					Iterator<SpatialObject> it = topK.iterator();			
 					
@@ -100,8 +100,8 @@ public class PersonalizedSKPQSearch extends SpatialQueryLD {
 						
 //						System.out.println("Descrição? " + hotelName);
 //						System.out.println("Score antigo: " + obj.getScore());
-						System.out.println("Score novo: " + score);
-						System.out.println("Score somado: " + (score+obj.getScore()) + "\n");
+//						System.out.println("Score novo: " + score);
+//						System.out.println("Score somado: " + (score+obj.getScore()) + "\n");
 						
 						obj.setScore((score + obj.getScore()));
 						

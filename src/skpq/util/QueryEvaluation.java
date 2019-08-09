@@ -317,10 +317,11 @@ public class QueryEvaluation {
 	public static void main(String[] args) throws IOException {	
 		
 		QueryEvaluation q = new QueryEvaluation();
-		String keys[] = {"day","change","discount","air","sunset","ras","chili","american","jesco","station"};
+//		String keys[] = {"amenity", "shop", "restaurant","al","supermarket","food","fast","bank","parking","cafe"};
+		String keys[] = {"food"};		
 		
-//		q.evaluateQueriesGroup("PSKPQ", keys, 20);		
-		q.evaluateQueriesGroup("SKPQ", keys, 20);
+		q.evaluateQueriesGroup("PSKPQ", keys, 20);		
+//		q.evaluateQueriesGroup("SKPQ", keys, 20);
 		
 //		int k_max = 5;
 //		@SuppressWarnings("unused")

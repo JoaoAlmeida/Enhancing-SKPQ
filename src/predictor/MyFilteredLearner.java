@@ -117,9 +117,12 @@ public class MyFilteredLearner {
 	 */
 	public void learn() {
 		try {
+			String[] options = {"-C"};
+			
 			trainData.setClassIndex(0);
-			filter = new StringToWordVector();
+			filter = new StringToWordVector(5000);
 			filter.setAttributeIndices("last");
+			filter.setOptions(options);
 			classifier = new FilteredClassifier();
 			classifier.setFilter(filter);
 			classifier.setClassifier(new NaiveBayes());
@@ -183,7 +186,7 @@ public class MyFilteredLearner {
 	}	
 	
 	public double classifyHotel(String hotelProfile) throws Exception{
-		System.out.println("Hotel name: " + hotelProfile);
+//		System.out.println("Hotel name: " + hotelProfile);
 		double count = 0;
 		Instances unlabeled = null;
 		

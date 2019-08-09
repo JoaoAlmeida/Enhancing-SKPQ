@@ -309,13 +309,11 @@ public class RatingExtractor {
 					(new InputStreamReader(new FileInputStream(new File("profiles/hotels/hotel profiles.info")), "ISO-8859-1")));
 			
 			String line = link.readLine();
-//			System.out.println(line);
-//			System.out.println(osmLabel);
 			String fileID = null;
-			System.out.println(osmLabel);
+			
 			//Search for the hotel fileID in opinrankdataset 
 			while(line != null){
-				
+					
 				line = line.trim();
 				if(line.contains(osmLabel)){
 					String[] vec = line.split("->");
@@ -335,8 +333,8 @@ public class RatingExtractor {
 					(new InputStreamReader(new FileInputStream(new File("dubai.txt")), "ISO-8859-1")));
 			
 			line = rates.readLine();
-//			System.out.println(line);
-//			System.out.println("FileID " + fileID);
+
+			try{
 			if(fileID.equals("vazio")){
 				
 				String ratesValues = 0 + "," + 0 + "," + 0 + "," + 0 + "," + 0 + "," + 0 + "," + 0;
@@ -362,6 +360,10 @@ public class RatingExtractor {
 					line = rates.readLine();
 				}
 		}
+			}catch (NullPointerException e) {
+				System.out.println("Hotel profile was not created. Please contact the administrator. Missing hotel: " + osmLabel);
+				System.exit(0);
+			}
 			rates.close();
 		}	
 //		System.out.println(result);
