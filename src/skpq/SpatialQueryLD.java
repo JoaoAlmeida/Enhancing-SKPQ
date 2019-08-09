@@ -300,7 +300,7 @@ public abstract class SpatialQueryLD implements Experiment {
 
 						QuerySolution rb = rs.nextSolution();
 
-						RDFNode x = rb.get("resource");
+						RDFNode x = rb.get("resource");						
 
 						if (x.isResource()) {
 							// Set of objects neighbors to object of interest
@@ -475,7 +475,7 @@ public abstract class SpatialQueryLD implements Experiment {
 					RDFNode resource = rb.get("resource");
 					RDFNode location = rb.get("location");
 					RDFNode name = rb.get("name");
-
+					
 					if (resource.isResource()) {
 
 						SpatialObject obj = new SpatialObject(name.asLiteral().getString(), resource.asResource().getURI());
