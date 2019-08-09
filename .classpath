@@ -6,9 +6,10 @@
 	<classpathentry kind="lib" path="lib/Dataset.jar"/>
 	<classpathentry kind="lib" path="lib/XXL.jar"/>
 	<classpathentry kind="src" path="/LODWEB"/>
-	<classpathentry kind="lib" path="lib/Util.jar"/>
-	<classpathentry kind="lib" path="D:/aplicativos/Weka-3-8/weka.jar"/>
-	<classpathentry kind="lib" path="D:/Documents/GitHub/Enhancing-SKPQ/lib/jython-2.5.3.jar"/>
-	<classpathentry kind="lib" path="D:/Documents/GitHub/Enhancing-SKPQ/lib/libsvm.jar"/>
+	<classpathentry kind="lib" path="lib/Util.jar" sourcepath="lib/Util.jar"/>
+	<classpathentry kind="lib" path="lib/jython-2.5.3.jar"/>
+	<classpathentry kind="lib" path="lib/libsvm.jar"/>
+	<classpathentry kind="lib" path="lib/weka.jar"/>
+	<classpathentry kind="lib" path="lib/commons-text-1.6.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

@@ -12,6 +12,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
+import java.util.Locale;
 import java.util.Map;
 import java.util.TreeSet;
 
@@ -26,9 +27,16 @@ import org.apache.jena.rdf.model.Model;
 import org.apache.jena.rdf.model.ModelFactory;
 import org.apache.jena.rdf.model.RDFNode;
 import org.apache.jena.rdf.model.Resource;
+import org.apache.lucene.index.Term;
+import org.apache.lucene.search.similarities.ClassicSimilarity;
+import org.apache.lucene.search.similarities.TFIDFSimilarity;
+
+import org.apache.commons.text.similarity.*;
 
 import cosinesimilarity.LuceneCosineSimilarity;
+import lucene.Configuration;
 import node.Sparql;
+import similarity.TextSimilarity;
 import skpq.util.QueryEvaluation;
 import skpq.util.RatingExtractor;
 import skpq.util.WebContentCache;
@@ -214,11 +222,11 @@ public abstract class SpatialQueryLD implements Experiment {
 		System.out.println("NDCG");
 
 		while(k <= k_max){
-
+			//mudar nome dos arquivos
 			if(radius == null){			
-				fileName = "SKPQ-LD [k="+k+", kw="+ keywords +"].txt";
+				fileName = "PSKPQ-LD [k="+k+", kw="+ keywords +"].txt";
 			} else{
-				fileName = "RQ-LD [k="+k+", kw="+ keywords + ", radius=" + radius + "].txt";			
+				fileName = "PSKPQ-LD [k="+k+", kw="+ keywords + ", radius=" + radius + "].txt";			
 			}
 
 			boolean arquivoCriado = false;					
@@ -255,7 +263,7 @@ public abstract class SpatialQueryLD implements Experiment {
 	}	
 
 	// Searches for features in OpenStreetMap dataset
-	public TreeSet<SpatialObject> findFeaturesLGD(List<SpatialObject> interestSet, String keywords, double radius) {
+	public TreeSet<SpatialObject> findFeaturesLGD(List<SpatialObject> interestSet, String keywords, double radius, String match) {
 
 		List<Resource> featureSet;
 		TreeSet<SpatialObject> topK = new TreeSet<>();
@@ -328,7 +336,22 @@ public abstract class SpatialQueryLD implements Experiment {
 					searchCache.putDescription(featureSet.get(b).getURI(), abs);
 				}
 
-				double score = LuceneCosineSimilarity.getCosineSimilarity(abs, keywords);
+				double score = 0;
+				
+				if(match.equals("default")){
+					 score = LuceneCosineSimilarity.getCosineSimilarity(abs, keywords);
+				}else if(match.equals("fuzzy")){
+					FuzzyScore f = new FuzzyScore(Locale.ENGLISH);
+					score = f.fuzzyScore(abs, keywords);
+				}else if(match.equals("jw")){
+//					System.out.println("\nUsing Levenshtein Distance ...\n");
+					JaroWinklerDistance jw = new JaroWinklerDistance();
+					score = jw.apply(abs, keywords);					
+
+				}else{
+					System.out.println("WARN -- Unknown similarity measure! Default measure used instead. ");
+					score = LuceneCosineSimilarity.getCosineSimilarity(abs, keywords);
+				}
 
 				if (score > maxScore) {
 					maxScore = score;
@@ -358,6 +381,7 @@ public abstract class SpatialQueryLD implements Experiment {
 		return topK;
 	}
 	
+	//Search for hotels using hotels as features. Employed as Experiment 2 at first article.
 	public TreeSet<SpatialObject> findFeaturesExperiment(List<SpatialObject> interestSet, String keywords, double radius) throws IOException {
 
 		ArrayList<SpatialObject> featureSet = loadObjectsInterest("hotel_LGD.txt");			
@@ -397,7 +421,6 @@ public abstract class SpatialQueryLD implements Experiment {
 						feature.setCompleteDescription(abs);
 					}
 
-//					System.out.println("ABS> " + abs);
 					double score = LuceneCosineSimilarity.getCosineSimilarity(abs, keywords);
 
 					if (score > maxScore) {
@@ -809,12 +832,14 @@ public abstract class SpatialQueryLD implements Experiment {
 			interestSet.get(a).setScore(maxScore);
 
 			if (topK.size() < k) {
+				System.out.println(interestSet.get(a).getScore());		
 				topK.add(interestSet.get(a));
 				// keeps the best objects, if they have the same scores, keeps
 				// the objects with smaller ids
 			} else if (interestSet.get(a).getScore() > topK.first().getScore()
 					|| (interestSet.get(a).getScore() == topK.first().getScore()
 					&& interestSet.get(a).getId() > topK.first().getId())) {
+				System.out.println(interestSet.get(a).getScore());
 				topK.pollFirst();
 				topK.add(interestSet.get(a));
 			}

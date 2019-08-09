@@ -14,13 +14,15 @@ import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+import javax.sound.sampled.LineEvent;
+
 import se.walkercrou.places.GooglePlaces;
 import se.walkercrou.places.Place;
 
 public class RatingExtractor {
 
 	private HashMap<String, String> objetosInteresse;
-	private WebContentCache ratingCache, tripCache, uriCache;
+	private WebContentCache ratingCache, tripCache, uriCache, personalizedCache;
 	private WebContentCache descriptionCache;
 	private GooglePlaces googleAPI;
 	private Writer ratingBkp;
@@ -35,15 +37,23 @@ public class RatingExtractor {
 		objetosInteresse = new HashMap<String, String>();
 		ratingBkp = new OutputStreamWriter(new FileOutputStream(bkpFileName, true), "ISO-8859-1");
 
+		//stores google rates
 		ratingCache = new WebContentCache("ratings_dubai.ch");
 		ratingCache.load();
 		
+		//stores hotels uri
 		uriCache = new WebContentCache("uri.ch");
 		uriCache.load();
 
+		//stores TA ratings
 		tripCache = new WebContentCache("trip_dubai.ch");
 		tripCache.load();
 		
+		//relate a osm hotel name to its name in opinrank dataset 
+		personalizedCache = new WebContentCache("osm_to_opddb.ch");
+		personalizedCache.load();
+		
+		//hotel description on Google
 		descriptionCache = new WebContentCache("googleDescriptions.ch");
 		descriptionCache.load();
 
@@ -134,8 +144,9 @@ public class RatingExtractor {
 					uriReader.close();
 				}
 				rateResults.add(rateObjectwithTA(label, lat, lgt, score));
-			}
-
+			}else if(ratingMode.equals("personalized")){
+				rateResults.add(ratePersonalizedQuery(osmLabel, score, 1));
+			}			
 			queryResult = reader.readLine();
 		}
 
@@ -274,6 +285,91 @@ public class RatingExtractor {
 		return result;
 	}	
 
+	//profiles é obtido da tabela dubai.txt, começa na coluna 11 (contagem iniciando de 0). O numero no profile começa de zero.
+	private String ratePersonalizedQuery(String osmLabel, String score, int profile) throws IOException{
+		
+		String result = "";		
+		
+		if (debug) {
+			System.out.println("\n\nEvaluating object: " + osmLabel + "\n");
+		}
+
+		if (personalizedCache.containsKey(osmLabel)) {
+
+			if (debug){
+				System.out.println("Got it from cache: " + osmLabel + " -- " + personalizedCache.getDescription(osmLabel));
+			}
+			String[] profiles = personalizedCache.getDescription(osmLabel).split(",");
+			
+			result = "osmLabel=" + osmLabel + " score=" + score + " rate=" + profiles[profile];
+//			result = osmLabel + " " + profiles[profile];
+		} else {
+			
+			BufferedReader link = new BufferedReader(
+					(new InputStreamReader(new FileInputStream(new File("profiles/hotels/hotel profiles.info")), "ISO-8859-1")));
+			
+			String line = link.readLine();
+			String fileID = null;
+			
+			//Search for the hotel fileID in opinrankdataset 
+			while(line != null){
+					
+				line = line.trim();
+				if(line.contains(osmLabel)){
+					String[] vec = line.split("->");
+					if(vec.length > 1){
+						fileID = vec[1].trim();	
+					}else{
+						fileID="vazio";
+					}
+					break;
+				}else{
+					line = link.readLine();
+				}
+			}			
+			link.close();
+			
+			BufferedReader rates = new BufferedReader(
+					(new InputStreamReader(new FileInputStream(new File("dubai.txt")), "ISO-8859-1")));
+			
+			line = rates.readLine();
+
+			try{
+			if(fileID.equals("vazio")){
+				
+				String ratesValues = 0 + "," + 0 + "," + 0 + "," + 0 + "," + 0 + "," + 0 + "," + 0;
+								
+				result = "osmLabel=" + osmLabel + " score=" + score + " rate=" + 0;
+				
+				personalizedCache.putDescription(osmLabel, ratesValues);
+				personalizedCache.store();
+			}else{					
+				while(line != null){
+					if(line.contains(fileID)){
+						String[] lineVec = line.split(",");
+						String ratesValues = lineVec[11] + "," + lineVec[12] + "," + lineVec[13] + "," + lineVec[14]
+								+ "," + lineVec[15] + "," + lineVec[16] + "," + lineVec[17];
+						
+//						result = osmLabel + " " + lineVec[profile+11];
+						result = "osmLabel=" + osmLabel + " score=" + score + " rate=" + lineVec[profile+11];
+						
+						personalizedCache.putDescription(osmLabel, ratesValues);
+						personalizedCache.store();
+						break;
+					}	
+					line = rates.readLine();
+				}
+		}
+			}catch (NullPointerException e) {
+				System.out.println("Hotel profile was not created. Please contact the administrator. Missing hotel: " + osmLabel);
+				System.exit(0);
+			}
+			rates.close();
+		}	
+//		System.out.println(result);
+		return result;
+	}	
+	
 	private String rateObjectwithCossine (String osmLabel, String lat, String lgt, String score) throws IOException{
 
 		String key = lat + " " + lgt;
@@ -907,10 +1003,10 @@ public class RatingExtractor {
 		//		String fileName = "SPKQ [k=10, kw=amenity].txt";
 		//		
 		//		Writer output = new OutputStreamWriter(new FileOutputStream(fileName.split("\\.")[0] + " --- ratings.txt"), "ISO-8859-1");
-				RatingExtractor obj = new RatingExtractor("cossine");
+				RatingExtractor obj = new RatingExtractor("personalized");
 				
-				obj.readTripAdvisorJudgments("qdubai_0.q");
-
+				obj.rateLODresult("pskpq/PSPKQ-LD [k=5, kw=amenity].txt");
+				
 		//obj.createDescriptionCachefromBKP();
 		//		ArrayList<String> rateResults = obj.rateSKPQresults(fileName);
 		//ArrayList<String> rateResults = obj.rateLODresult(fileName);

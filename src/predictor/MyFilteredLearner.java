@@ -21,8 +21,13 @@ import weka.filters.Filter;
 import weka.filters.unsupervised.attribute.StringToWordVector;
 import weka.classifiers.Evaluation;
 import java.util.Random;
+
+import libsvm.svm;
 import weka.classifiers.bayes.NaiveBayes;
+import weka.classifiers.functions.LibSVM;
+import weka.classifiers.lazy.IBk;
 import weka.classifiers.meta.FilteredClassifier;
+import weka.classifiers.pmml.consumer.SupportVectorMachineModel;
 import weka.core.converters.ArffLoader.ArffReader;
 import java.io.*;
 
@@ -47,6 +52,14 @@ public class MyFilteredLearner {
 	 * Object that stores the classifier
 	 */
 	FilteredClassifier classifier;
+	String userProfile;
+	
+	public MyFilteredLearner(String userProfile){
+		this.userProfile = userProfile;
+		
+		loadDataset("profiles/"+userProfile+".arff");
+		learn();
+	}
 		
 	/**
 	 * This method loads a dataset in ARFF format. If the file does not exist, or
@@ -62,7 +75,7 @@ public class MyFilteredLearner {
 			reader.close();
 		}
 		catch (IOException e) {
-			System.out.println("Problem found when reading: " + fileName);
+			System.out.println("Problem found when reading: " + fileName + "Error: " + e);
 		}
 	}
 	
@@ -80,6 +93,9 @@ public class MyFilteredLearner {
 			classifier = new FilteredClassifier();
 			classifier.setFilter(filter);
 //			classifier.setClassifier(new NaiveBayes());
+//			classifier.setClassifier(new LibSVM());
+//			KNN
+			classifier.setClassifier(new IBk());
 			
 			filter.setInputFormat(trainData);
 			Instances otp = Filter.useFilter(trainData, filter);
@@ -87,12 +103,12 @@ public class MyFilteredLearner {
 			
 			Evaluation eval = new Evaluation(trainData);
 			eval.crossValidateModel(classifier, trainData, 10, new Random(1));
-//			System.out.println(eval.toSummaryString());
+			System.out.println(eval.toSummaryString());
 //			System.out.println(eval.toClassDetailsString());
 			System.out.println("===== Evaluating on filtered (training) dataset done =====");
 		}
 		catch (Exception e) {
-			System.out.println("Problem found when evaluating");
+			System.out.println("Problem found when evaluating. Error: " + e);
 		}
 	}
 	
@@ -101,9 +117,12 @@ public class MyFilteredLearner {
 	 */
 	public void learn() {
 		try {
+			String[] options = {"-C"};
+			
 			trainData.setClassIndex(0);
-			filter = new StringToWordVector();
+			filter = new StringToWordVector(5000);
 			filter.setAttributeIndices("last");
+			filter.setOptions(options);
 			classifier = new FilteredClassifier();
 			classifier.setFilter(filter);
 			classifier.setClassifier(new NaiveBayes());
@@ -164,7 +183,52 @@ public class MyFilteredLearner {
 		writer.close();
 		
 		return clsLabel;
-	}
+	}	
+	
+	public double classifyHotel(String hotelProfile) throws Exception{
+//		System.out.println("Hotel name: " + hotelProfile);
+		double count = 0;
+		Instances unlabeled = null;
+		
+		try{
+		 unlabeled = new Instances(
+                 new BufferedReader(
+                   new FileReader("profiles/hotels/"+hotelProfile+".arff")));
+		}catch(Exception IOException){
+			 System.out.println("Hotel does not have reviews yet! " + IOException + "\n");
+			 return 0;
+		 }
+		// set class attribute
+		unlabeled.setClassIndex(0);
+		
+		// create copy
+		Instances labeled = new Instances(unlabeled);
+		
+		// label instances		
+		for(int i = 0; i < unlabeled.numInstances(); i++){
+			double clsLabel = classifier.classifyInstance(unlabeled.instance(i));
+//			System.out.println(clsLabel);
+			//pode remover a linha abaixo. Não preciso armazenar essa classificação
+			labeled.instance(i).setClassValue(clsLabel);
+//			System.out.println(clsLabel);
+			if(clsLabel == 0){
+				count--;
+			}else{
+				count++;
+			}			
+		}					
+		
+		// save labeled data
+//		BufferedWriter writer = new BufferedWriter(
+//		                   new FileWriter("labeledOrchid.arff"));
+//		
+//		writer.write(labeled.toString());
+//		writer.newLine();
+//		writer.flush();
+//		writer.close();
+		
+		return count/unlabeled.numInstances();
+	}	
 	
 	public double classifyInstance(String description) throws Exception{
 		
@@ -209,14 +273,15 @@ public class MyFilteredLearner {
 //		if (args.length < 1)
 //			System.out.println("Usage: java MyLearner <fileData> <fileModel>");
 //		else {
-			learner = new MyFilteredLearner();
-//			learner.loadDataset("bFrente.arff");
-//			learner.loadDataset("smsspam.small.arff");
+			learner = new MyFilteredLearner("room");
+//			learner.loadDataset("profiles/room.arff");
+
 			// Evaluation must be done before training
 			// More info in: http://weka.wikispaces.com/Use+WEKA+in+your+Java+code
 //			learner.evaluate();
-			learner.learn();
-			System.out.println("Resultado -> " + learner.classifyInstance2(0));
+			//learn já é feito no construtor
+//			learner.learn();
+			System.out.println("Resultado -> " + learner.classifyHotel("Al Bustan Beach Hotel"));
 //			learner.saveModel("output.txt");
 //		}
 	}
