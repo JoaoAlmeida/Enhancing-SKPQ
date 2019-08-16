@@ -9,7 +9,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.TreeSet;
 
-import predictor.MyFilteredLearner;
+import predictor.MyLearner;
 import se.walkercrou.places.GooglePlaces;
 import se.walkercrou.places.Place;
 import se.walkercrou.places.Review;
@@ -67,7 +67,7 @@ public class PersonalizedSKPQSearch extends SpatialQueryLD {
 		//Predicting
 				try {
 //					Predictor p = new Predictor("balanceado.arff");
-					MyFilteredLearner p = new MyFilteredLearner("teste"); 										
+					MyLearner p = new MyLearner("teste"); 										
 					
 					Iterator<SpatialObject> it = topK.iterator();			
 					

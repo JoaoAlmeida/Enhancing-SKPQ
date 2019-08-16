@@ -27,7 +27,7 @@ import weka.classifiers.bayes.NaiveBayes;
 import weka.classifiers.functions.LibSVM;
 import weka.classifiers.lazy.IBk;
 import weka.classifiers.meta.FilteredClassifier;
-import weka.classifiers.pmml.consumer.SupportVectorMachineModel;
+//import weka.classifiers.pmml.consumer.SupportVectorMachineModel;
 import weka.core.converters.ArffLoader.ArffReader;
 import java.io.*;
 
@@ -38,7 +38,7 @@ import java.io.*;
  * @author Jose Maria Gomez Hidalgo - http://www.esp.uem.es/jmgomez
  * @see MyFilteredClassifier
  */
-public class MyFilteredLearner {
+public class MyLearner {
 
 	/**
 	 * Object that stores training data.
@@ -54,9 +54,9 @@ public class MyFilteredLearner {
 	FilteredClassifier classifier;
 	String userProfile;
 	
-	public MyFilteredLearner(String userProfile){
+	public MyLearner(String userProfile){
 		this.userProfile = userProfile;
-		
+		System.out.println("Perfil" + userProfile);
 		loadDataset("profiles/"+userProfile+".arff");
 		learn();
 	}
@@ -103,7 +103,7 @@ public class MyFilteredLearner {
 			
 			Evaluation eval = new Evaluation(trainData);
 			eval.crossValidateModel(classifier, trainData, 10, new Random(1));
-			System.out.println(eval.toSummaryString());
+			System.out.println(eval.toSummaryString(true));
 //			System.out.println(eval.toClassDetailsString());
 			System.out.println("===== Evaluating on filtered (training) dataset done =====");
 		}
@@ -269,19 +269,19 @@ public class MyFilteredLearner {
 	 */
 	public static void main (String[] args) throws Exception {
 	
-		MyFilteredLearner learner;
+		MyLearner learner;
 //		if (args.length < 1)
 //			System.out.println("Usage: java MyLearner <fileData> <fileModel>");
 //		else {
-			learner = new MyFilteredLearner("room");
+			learner = new MyLearner("room");
 //			learner.loadDataset("profiles/room.arff");
 
 			// Evaluation must be done before training
 			// More info in: http://weka.wikispaces.com/Use+WEKA+in+your+Java+code
-//			learner.evaluate();
+			learner.evaluate();
 			//learn já é feito no construtor
 //			learner.learn();
-			System.out.println("Resultado -> " + learner.classifyHotel("Al Bustan Beach Hotel"));
+			//System.out.println("Resultado -> " + learner.classifyHotel("Al Bustan Beach Hotel"));
 //			learner.saveModel("output.txt");
 //		}
 	}
