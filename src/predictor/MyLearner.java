@@ -92,10 +92,10 @@ public class MyLearner {
 			filter.setAttributeIndices("last");
 			classifier = new FilteredClassifier();
 			classifier.setFilter(filter);
-//			classifier.setClassifier(new NaiveBayes());
+			classifier.setClassifier(new NaiveBayes());
 //			classifier.setClassifier(new LibSVM());
 //			KNN
-			classifier.setClassifier(new IBk());
+			//classifier.setClassifier(new IBk());
 			
 			filter.setInputFormat(trainData);
 			Instances otp = Filter.useFilter(trainData, filter);
@@ -273,7 +273,7 @@ public class MyLearner {
 //		if (args.length < 1)
 //			System.out.println("Usage: java MyLearner <fileData> <fileModel>");
 //		else {
-			learner = new MyLearner("room");
+			learner = new MyLearner("clean");
 //			learner.loadDataset("profiles/room.arff");
 
 			// Evaluation must be done before training
