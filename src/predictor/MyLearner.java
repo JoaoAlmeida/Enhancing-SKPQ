@@ -55,8 +55,7 @@ public class MyLearner {
 	String userProfile;
 	
 	public MyLearner(String userProfile){
-		this.userProfile = userProfile;
-		System.out.println("Perfil" + userProfile);
+		this.userProfile = userProfile;	
 		loadDataset("profiles/"+userProfile+".arff");
 		learn();
 	}
@@ -92,19 +91,24 @@ public class MyLearner {
 			filter.setAttributeIndices("last");
 			classifier = new FilteredClassifier();
 			classifier.setFilter(filter);
-			classifier.setClassifier(new NaiveBayes());
-//			classifier.setClassifier(new LibSVM());
+//			classifier.setClassifier(new NaiveBayes());
+			//classifier.setClassifier(new LibSVM());
 //			KNN
-			//classifier.setClassifier(new IBk());
+			classifier.setClassifier(new IBk());
 			
 			filter.setInputFormat(trainData);
 			Instances otp = Filter.useFilter(trainData, filter);
 
 			
 			Evaluation eval = new Evaluation(trainData);
-			eval.crossValidateModel(classifier, trainData, 10, new Random(1));
+			eval.crossValidateModel(classifier, trainData, 5, new Random(1));
 			System.out.println(eval.toSummaryString(true));
-//			System.out.println(eval.toClassDetailsString());
+			System.out.println(eval.toClassDetailsString());
+			//double accuracy = eval.pctCorrect();
+			//System.out.println("Accuracy = " + accuracy);
+			
+//			double fmeasure = eval.fMeasure(classIndex);
+//			System.out.println("F-measure = " + fmeasure);
 			System.out.println("===== Evaluating on filtered (training) dataset done =====");
 		}
 		catch (Exception e) {
@@ -273,6 +277,7 @@ public class MyLearner {
 //		if (args.length < 1)
 //			System.out.println("Usage: java MyLearner <fileData> <fileModel>");
 //		else {
+		//room value location service clean
 			learner = new MyLearner("clean");
 //			learner.loadDataset("profiles/room.arff");
 
