@@ -40,7 +40,7 @@ public class SKPQSearch extends SpatialQueryLD {
 		TreeSet<SpatialObject> topK = new TreeSet<>();
 
 		try {
-			interestObjectSet = loadObjectsInterest("hotel_LGD.txt");
+			interestObjectSet = loadObjectsInterest("hotelLondon_LGD.txt");
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
@@ -52,8 +52,9 @@ public class SKPQSearch extends SpatialQueryLD {
 		}
 
 		topK = findFeaturesLGD(interestObjectSet, keywords, radius, match);
-		
-		try {	
+		System.out.println("Qtd " + topK.size());
+		try {
+//			saveResults(topK);
 			saveGroupResults(topK);
 //			evaluateQuery(keywords, null, k);
 		} catch (IOException e) {
@@ -73,7 +74,11 @@ public class SKPQSearch extends SpatialQueryLD {
 		for (int a = 1; a <= topK.size(); a++) {
 			SpatialObject obj = it.next();
 			outputFile.write("-->[" + a + "]  " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt="
-					+ obj.getLgt() + ", BN=" + obj.bestNeighbor.getURI() + ", score=" + obj.getScore() + "]\n");
+					+ obj.getLgt() + ", score=" + obj.getScore() + "]\n");
+			
+//			Not using BN anymore. Maintaining for later use.
+//			outputFile.write("-->[" + a + "]  " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt="
+//					+ obj.getLgt() + ", BN=" + obj.bestNeighbor.getURI() + ", score=" + obj.getScore() + "]\n");
 		}
 
 		outputFile.close();
@@ -82,7 +87,7 @@ public class SKPQSearch extends SpatialQueryLD {
 protected void saveGroupResults(TreeSet<SpatialObject> topK) throws IOException{
 		
 		/* Imprime 5 */
-		Writer outputFile = new OutputStreamWriter(new FileOutputStream("pskpq/SKPQ-LD [" + "k=" + "5" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
+		Writer outputFile = new OutputStreamWriter(new FileOutputStream("skpq/SKPQ-LD [" + "k=" + "5" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
 		
 		Iterator<SpatialObject> it = topK.descendingIterator();
 		
@@ -94,7 +99,7 @@ protected void saveGroupResults(TreeSet<SpatialObject> topK) throws IOException{
 		outputFile.close();
 		
 		/* Imprime 10 */
-		outputFile = new OutputStreamWriter(new FileOutputStream("pskpq/SKPQ-LD [" + "k=" + "10" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
+		outputFile = new OutputStreamWriter(new FileOutputStream("skpq/SKPQ-LD [" + "k=" + "10" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
 		
 		it = topK.descendingIterator();
 		
@@ -106,7 +111,7 @@ protected void saveGroupResults(TreeSet<SpatialObject> topK) throws IOException{
 		outputFile.close();
 		
 		/* Imprime 15 */
-		outputFile = new OutputStreamWriter(new FileOutputStream("pskpq/SKPQ-LD [" + "k=" + "15" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
+		outputFile = new OutputStreamWriter(new FileOutputStream("skpq/SKPQ-LD [" + "k=" + "15" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
 		
 		it = topK.descendingIterator();
 		
@@ -118,7 +123,7 @@ protected void saveGroupResults(TreeSet<SpatialObject> topK) throws IOException{
 		outputFile.close();
 		
 		/* Imprime 20 */
-		outputFile = new OutputStreamWriter(new FileOutputStream("pskpq/SKPQ-LD [" + "k=" + "20" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
+		outputFile = new OutputStreamWriter(new FileOutputStream("skpq/SKPQ-LD [" + "k=" + "20" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
 		
 		it = topK.descendingIterator();
 		

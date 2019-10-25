@@ -81,6 +81,7 @@ public class PersonalizedSKPQSearch extends SpatialQueryLD {
 //					reviews.add("disgusting");
 //					reviews.add("I will not come back to this horrible place");
 					
+					//Used with Dubai dataset because there is two Novotel in this dataset
 					int count = 0;
 					while(it.hasNext()){
 						
@@ -88,14 +89,16 @@ public class PersonalizedSKPQSearch extends SpatialQueryLD {
 						
 						String hotelName = obj.getName().split("\\(hotel\\)")[1].trim(); 
 						
-						if(hotelName.equals("novotel")){
-							if(count == 0){
-								count++;
-								hotelName=hotelName+"25";
-							}else{
-								hotelName=hotelName+"24";
-							}						
-						}
+						//Used with Dubai dataset because there is two Novotel in this dataset
+//						if(hotelName.equals("novotel")){
+//							if(count == 0){
+//								count++;
+//								hotelName=hotelName+"25";
+//							}else{
+//								hotelName=hotelName+"24";
+//							}						
+//						}
+						
 						double score = p.classifyHotel(hotelName);
 						
 //						System.out.println("Descrição? " + hotelName);

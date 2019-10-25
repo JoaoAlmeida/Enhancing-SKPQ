@@ -25,8 +25,11 @@ import java.util.Random;
 import libsvm.svm;
 import weka.classifiers.bayes.NaiveBayes;
 import weka.classifiers.functions.LibSVM;
+import weka.classifiers.functions.Logistic;
 import weka.classifiers.lazy.IBk;
 import weka.classifiers.meta.FilteredClassifier;
+import weka.classifiers.trees.J48;
+import weka.classifiers.trees.RandomForest;
 //import weka.classifiers.pmml.consumer.SupportVectorMachineModel;
 import weka.core.converters.ArffLoader.ArffReader;
 import java.io.*;
@@ -82,9 +85,11 @@ public class MyLearner {
 	 * This method evaluates the classifier. As recommended by WEKA documentation,
 	 * the classifier is defined but not trained yet. Evaluation of previously
 	 * trained classifiers can lead to unexpected results.
+	 * 
+	 * The classifiers evaluation reported in "Personalizing the Top-k Spatial Keyword Preference Query with Textual Classifiers" employs this method.
 	 * @throws Exception 
 	 */
-	public void evaluate() throws Exception {
+	public String evaluate() throws Exception {
 		try {
 			trainData.setClassIndex(0);
 			filter = new StringToWordVector();
@@ -95,24 +100,34 @@ public class MyLearner {
 			//classifier.setClassifier(new LibSVM());
 //			KNN
 			classifier.setClassifier(new IBk());
+//			Random Forest
+//			classifier.setClassifier(new RandomForest());
+//			Decision Tree
+//			classifier.setClassifier(new J48());
+//			Logistic Regression
+//			classifier.setClassifier(new Logistic());
 			
 			filter.setInputFormat(trainData);
 			Instances otp = Filter.useFilter(trainData, filter);
 
 			
 			Evaluation eval = new Evaluation(trainData);
-			eval.crossValidateModel(classifier, trainData, 5, new Random(1));
-			System.out.println(eval.toSummaryString(true));
-			System.out.println(eval.toClassDetailsString());
+			eval.crossValidateModel(classifier, trainData, 5, new Random(1));			
+			String summary = eval.toSummaryString(true);
+			System.out.println(summary);
+			String details = eval.toClassDetailsString();
+			System.out.println(details);
 			//double accuracy = eval.pctCorrect();
 			//System.out.println("Accuracy = " + accuracy);
 			
 //			double fmeasure = eval.fMeasure(classIndex);
 //			System.out.println("F-measure = " + fmeasure);
 			System.out.println("===== Evaluating on filtered (training) dataset done =====");
+			return summary + "\n\n" + details;
 		}
 		catch (Exception e) {
 			System.out.println("Problem found when evaluating. Error: " + e);
+			return null;
 		}
 	}
 	
@@ -264,7 +279,7 @@ public class MyLearner {
 						
 		System.out.println(data.toString());
 		return classifier.classifyInstance(data.instance(0));
-	}
+	}	
 	
 	/**
 	 * Main method. It is an example of the usage of this class.
@@ -272,13 +287,17 @@ public class MyLearner {
 	 * @throws Exception 
 	 */
 	public static void main (String[] args) throws Exception {
-	
+		
 		MyLearner learner;
 //		if (args.length < 1)
 //			System.out.println("Usage: java MyLearner <fileData> <fileModel>");
 //		else {
 		//room value location service clean
-			learner = new MyLearner("clean");
+		
+		String[] experiment = {"room", "value", "location", "service", "clean"};
+		
+		learner = new MyLearner(experiment[4]);
+		
 //			learner.loadDataset("profiles/room.arff");
 
 			// Evaluation must be done before training

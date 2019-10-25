@@ -30,7 +30,7 @@ import org.apache.jena.rdf.model.Resource;
 import org.apache.lucene.index.Term;
 import org.apache.lucene.search.similarities.ClassicSimilarity;
 import org.apache.lucene.search.similarities.TFIDFSimilarity;
-
+import org.python.modules.math;
 import org.apache.commons.text.similarity.*;
 
 import cosinesimilarity.LuceneCosineSimilarity;
@@ -224,9 +224,9 @@ public abstract class SpatialQueryLD implements Experiment {
 		while(k <= k_max){
 			//mudar nome dos arquivos
 			if(radius == null){			
-				fileName = "PSKPQ-LD [k="+k+", kw="+ keywords +"].txt";
+				fileName = "SKPQ-LD [k="+k+", kw="+ keywords +"].txt";
 			} else{
-				fileName = "PSKPQ-LD [k="+k+", kw="+ keywords + ", radius=" + radius + "].txt";			
+				fileName = "SKPQ-LD [k="+k+", kw="+ keywords + ", radius=" + radius + "].txt";			
 			}
 
 			boolean arquivoCriado = false;					
@@ -262,7 +262,7 @@ public abstract class SpatialQueryLD implements Experiment {
 		return ndcg;
 	}	
 
-	// Searches for features in OpenStreetMap dataset
+	// Searches for features in OpenStreetMap dataset. Actually using this because the match method is important in second article.
 	public TreeSet<SpatialObject> findFeaturesLGD(List<SpatialObject> interestSet, String keywords, double radius, String match) {
 
 		List<Resource> featureSet;
@@ -273,7 +273,8 @@ public abstract class SpatialQueryLD implements Experiment {
 		for (int a = 0; a < interestSet.size(); a++) {
 
 			if (debug) {
-				System.out.print("Objeto de interesse: " + interestSet.get(a).getURI());
+				System.out.println("::::::::::::::::::::::::::::::::::::::::::::::::::::::::");
+				System.out.print("POI #" + a + " - " + interestSet.get(a).getURI());
 			}
 
 			featureSet = new ArrayList<>();
@@ -303,11 +304,11 @@ public abstract class SpatialQueryLD implements Experiment {
 
 				try {
 					ResultSet rs = qexec.execSelect();
-
+					
 					for (; rs.hasNext();) {
 
 						QuerySolution rb = rs.nextSolution();
-
+						
 						RDFNode x = rb.get("resource");						
 
 						if (x.isResource()) {
@@ -316,17 +317,22 @@ public abstract class SpatialQueryLD implements Experiment {
 							// System.out.println(featureSet.get(0).getURI());
 						}
 					}
-				} finally {
-					qexec.close();
+				} finally {					
+					qexec.close();					
 				}
 			}
 
+			if (debug) {
+				System.out.println(" | Number of features: " + featureSet.size());
+				System.out.println("\nSelecting the best feature...");
+			}
+			
 			double maxScore = 0;
 			SpatialObject bestFeature = null;
 			
 			// compute the textual score for each feature
 			for (int b = 0; b < featureSet.size(); b++) {
-
+								
 				String abs;				
 
 				if (searchCache.containsKey(featureSet.get(b).getURI())) {
@@ -334,11 +340,17 @@ public abstract class SpatialQueryLD implements Experiment {
 				} else {
 					abs = getTextDescriptionLGD(featureSet.get(b).getURI());
 					searchCache.putDescription(featureSet.get(b).getURI(), abs);
+					try {
+						searchCache.store();
+					} catch (IOException e) {
+						System.out.println("Problema ao salvar no cache.");
+						e.printStackTrace();
+					}
 				}
 
 				double score = 0;
 				
-				if(match.equals("default")){
+				if(match.equals("default")){					
 					 score = LuceneCosineSimilarity.getCosineSimilarity(abs, keywords);
 				}else if(match.equals("fuzzy")){
 					FuzzyScore f = new FuzzyScore(Locale.ENGLISH);
@@ -364,7 +376,8 @@ public abstract class SpatialQueryLD implements Experiment {
 			interestSet.get(a).bestNeighbor = bestFeature;
 			
 			if (debug) {
-				System.out.print(" | Score = " + maxScore + "\n");
+				System.out.println("\nPOI Score = " + maxScore + "\n");
+				System.out.println("\n::::::::::::::::::::::::::::::::::::::::::::::::::::::::");
 			}
 
 			if (topK.size() < k) {
@@ -525,7 +538,7 @@ public abstract class SpatialQueryLD implements Experiment {
 
 			} else {
 				description = getTextDescriptionLGD(featureSet.get(b).getURI());
-				searchCache.putDescription(featureSet.get(b).getURI(), description);
+				searchCache.putDescription(featureSet.get(b).getURI(), description);				
 			}
 
 			double score = LuceneCosineSimilarity.getCosineSimilarity(description, keywords);

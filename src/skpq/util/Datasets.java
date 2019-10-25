@@ -20,16 +20,7 @@ import java.util.Map;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-import org.apache.jena.query.ARQ;
-import org.apache.jena.query.Query;
-import org.apache.jena.query.QueryExecution;
-import org.apache.jena.query.QueryExecutionFactory;
-import org.apache.jena.query.QueryFactory;
-import org.apache.jena.query.QuerySolution;
-import org.apache.jena.query.ResultSet;
-import org.apache.jena.rdf.model.Model;
-import org.apache.jena.rdf.model.ModelFactory;
-import org.apache.jena.rdf.model.RDFNode;
+
 
 import node.Sparql;
 
@@ -44,6 +35,7 @@ public class Datasets {
 	static String arquivoOSMLinkado = "features_linked.txt";
 	//private static org.apache.log4j.Logger log = Logger.getLogger(); //create log
 	protected String file;
+	
 	public Datasets(String file) throws UnsupportedEncodingException, FileNotFoundException{
 		this.file = file;
 		reader = new BufferedReader((new InputStreamReader(new FileInputStream(new File(file)), "ISO-8859-1")));
@@ -59,6 +51,8 @@ public class Datasets {
 	//Create a file with LGD links to OSM objects
 	public void interestObjectCreateFile(String nomeArquivo) throws IOException{
 
+		System.out.println("Creating the POIs File...");
+		
 		Writer fileWrt = new OutputStreamWriter(new FileOutputStream("DatasetsOutput\\"
 				+ nomeArquivo, true), "ISO-8859-1");
 
@@ -103,6 +97,7 @@ public class Datasets {
 			}
 			line = reader.readLine();		
 		}
+		System.out.println("\nFile created!");
 	}
 
 	public static String getOSMObject(String service, String line, String label, String lat, String lon) throws IOException {
@@ -200,7 +195,7 @@ public class Datasets {
 		BufferedReader read = new BufferedReader((new InputStreamReader(new FileInputStream(new File(filePath)), "ISO-8859-1")));
 		
 		Writer rmk = new OutputStreamWriter(new FileOutputStream("DatasetsOutput\\"
-				+ "reamake.txt"), "ISO-8859-1");
+				+ "unhealth.txt"), "ISO-8859-1");
 		Writer health = new OutputStreamWriter(new FileOutputStream("DatasetsOutput\\"
 				+ "health.txt"), "ISO-8859-1");
 		String line = read.readLine();
@@ -252,10 +247,12 @@ public class Datasets {
 		profile.close();
 	}
 	
-//Read a folder and create a profile hotel for each file in the readen folder	
+//Read a folder and create a profile hotel for each file in the folder	
 public void hotelGroupProfiler() throws IOException{		
 	
-	File folder = new File("C://Users//JoãoPaulo//Documents//GitHub//Enhancing-SKPQ//dubai");
+	String city = "london";
+//	File folder = new File("C://Users//JoãoPaulo//Documents//GitHub//Enhancing-SKPQ//london");
+	File folder = new File("D://Documents//GitHub//Enhancing-SKPQ//"+city);
 	
 	String[] files = new String[folder.listFiles().length];
 	
@@ -263,7 +260,8 @@ public void hotelGroupProfiler() throws IOException{
 	
 	for(int i = 0; i < folder.listFiles().length; i++){
 		System.out.println(files[i]);
-		BufferedReader read = new BufferedReader((new InputStreamReader(new FileInputStream(new File("dubai/"+files[i])), "ISO-8859-1")));
+		System.out.println(city+"/"+files[i]);
+		BufferedReader read = new BufferedReader((new InputStreamReader(new FileInputStream(new File(city+"/"+files[i])), "ISO-8859-1")));
 		
 		Writer profile = new OutputStreamWriter(new FileOutputStream("all/"+files[i]+".arff"), "ISO-8859-1");			
 		
@@ -295,11 +293,12 @@ public void hotelGroupProfiler() throws IOException{
 //		
 //		System.out.println(line.split("\\(hotel\\)")[1].trim().toLowerCase());
 		try {
-			Datasets obj = new Datasets("hotel.txt");					
-			obj.hotelGroupProfiler();
+			Datasets obj = new Datasets("hotelLondon.txt");					
+//			obj.hotelGroupProfiler();
+//			hotelProfiler replaced by groupProfiler
 //			obj.hotelProfiler("are_dubai_chelsea_tower_hotel_apartments", "Chelsea Gardens Hotel");
-//			obj.interestObjectCreateFile("hotelLGD2.txt");
-//			//Datasets.fileHeallthCheck("C://Users//JoãoPaulo//Documents//NetBeansProjects//DatasetsOutput//OSM_features.txt");
+			obj.interestObjectCreateFile("hotelLondon.txt");
+//			Datasets.fileHeallthCheck("D://Documents//GitHub//Enhancing-SKPQ//DatasetsOutput//hotelLondon.txt");
 		} catch (UnsupportedEncodingException | FileNotFoundException e) {
 			e.printStackTrace();
 		}

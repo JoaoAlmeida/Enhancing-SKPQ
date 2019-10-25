@@ -1,0 +1,5 @@
+-->[1]  [OSMlabel=(tourism) (hotel) mk london, lat=51.4643533, lgt=-0.2136615, score=0.44943640581057204]
+-->[2]  [OSMlabel=(tourism) (hotel) Ham Yard Hotel, lat=51.511163, lgt=-0.134909, score=0.44943640581057204]
+-->[3]  [OSMlabel=(tourism) (hotel) Red Lion, lat=51.2624739, lgt=-1.0850023, score=0.44943640581057204]
+-->[4]  [OSMlabel=(tourism) (hotel) The George Hotel, lat=51.1494806, lgt=0.8721089, score=0.44943640581057204]
+-->[5]  [OSMlabel=(tourism) (hotel) Travellodge, lat=51.44695765, lgt=-0.4114661, score=0.4103626347583772]

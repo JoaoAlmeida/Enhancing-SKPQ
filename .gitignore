@@ -10,6 +10,9 @@ output/
 indexDubai/
 pskpq/
 
+#Temporary ignored files
+src/log4j.properties
+
 # =========================
 # Windows Files
 # =========================
