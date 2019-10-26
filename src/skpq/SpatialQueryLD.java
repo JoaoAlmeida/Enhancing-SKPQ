@@ -23,6 +23,7 @@ import org.apache.jena.query.QueryExecutionFactory;
 import org.apache.jena.query.QueryFactory;
 import org.apache.jena.query.QuerySolution;
 import org.apache.jena.query.ResultSet;
+import org.apache.jena.rdf.model.Literal;
 import org.apache.jena.rdf.model.Model;
 import org.apache.jena.rdf.model.ModelFactory;
 import org.apache.jena.rdf.model.RDFNode;
@@ -37,6 +38,7 @@ import cosinesimilarity.LuceneCosineSimilarity;
 import lucene.Configuration;
 import node.Sparql;
 import similarity.TextSimilarity;
+import skpq.util.Datasets;
 import skpq.util.QueryEvaluation;
 import skpq.util.RatingExtractor;
 import skpq.util.WebContentCache;
@@ -178,7 +180,7 @@ public abstract class SpatialQueryLD implements Experiment {
 		}
 	}
 
-	protected abstract TreeSet<SpatialObject> execute(String queryKeywords, int k) throws ExperimentException;
+	protected abstract TreeSet<SpatialObject> execute(String queryKeywords, int k) throws ExperimentException, IOException;
 
 	@Override
 	public void run() throws ExperimentException {
@@ -262,16 +264,22 @@ public abstract class SpatialQueryLD implements Experiment {
 		return ndcg;
 	}	
 
+	//Remover IOException que foi colocado para recolher os features de London
 	// Searches for features in OpenStreetMap dataset. Actually using this because the match method is important in second article.
 	public TreeSet<SpatialObject> findFeaturesLGD(List<SpatialObject> interestSet, String keywords, double radius, String match) {
 
 		List<Resource> featureSet;
 		TreeSet<SpatialObject> topK = new TreeSet<>();
-
+//		temporário
+//		ArrayList<String> coordinates;
+//		int id = 0;
+		
 		String serviceURI = "http://linkedgeodata.org/sparql";
 
 		for (int a = 0; a < interestSet.size(); a++) {
 
+//			 coordinates = new ArrayList<>();
+					 
 			if (debug) {
 				System.out.println("::::::::::::::::::::::::::::::::::::::::::::::::::::::::");
 				System.out.print("POI #" + a + " - " + interestSet.get(a).getURI());
@@ -280,7 +288,7 @@ public abstract class SpatialQueryLD implements Experiment {
 			featureSet = new ArrayList<>();
 
 			// Find features within 200 meters (200m = 0.2)
-			String queryString = "" + Sparql.addService(USING_GRAPH, serviceURI) + "SELECT DISTINCT ?resource WHERE { <"
+			String queryString = "" + Sparql.addService(USING_GRAPH, serviceURI) + "SELECT DISTINCT ?resource ?location WHERE { <"
 					+ interestSet.get(a).getURI() + "> <http://geovocab.org/geometry#geometry>  ?point ."
 					+ "?point <http://www.opengis.net/ont/geosparql#asWKT> ?sourcegeo."
 					+ "?resource <http://geovocab.org/geometry#geometry> ?loc."
@@ -310,10 +318,21 @@ public abstract class SpatialQueryLD implements Experiment {
 						QuerySolution rb = rs.nextSolution();
 						
 						RDFNode x = rb.get("resource");						
-
+						RDFNode y = rb.get("location");						
+						
 						if (x.isResource()) {
 							// Set of objects neighbors to object of interest
 							featureSet.add((Resource) x);
+							
+//							Remove it in the next commit
+//							String[] cTemp = y.toString().split("\\(");
+//							String lgt = cTemp[1].split(" ")[0];
+//							System.out.println("LGT: " + lgt);
+//							String lat = cTemp[1].split(" ")[1].split(",")[0];
+//							System.out.println("LAT: " + lat);
+//							//remove it too
+//							coordinates.add(lat + " " + lgt);
+							//don't remove
 							// System.out.println(featureSet.get(0).getURI());
 						}
 					}
@@ -347,7 +366,11 @@ public abstract class SpatialQueryLD implements Experiment {
 						e.printStackTrace();
 					}
 				}
-
+				
+//				Datasets data = new Datasets();
+//				data.addFeature(id, coordinates.get(b), featureSet.get(b).getURI(), abs);
+//				id++;
+				
 				double score = 0;
 				
 				if(match.equals("default")){					

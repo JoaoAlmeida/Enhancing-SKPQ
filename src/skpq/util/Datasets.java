@@ -20,7 +20,14 @@ import java.util.Map;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-
+import org.apache.jena.query.ARQ;
+import org.apache.jena.query.Query;
+import org.apache.jena.query.QueryExecution;
+import org.apache.jena.query.QueryExecutionFactory;
+import org.apache.jena.query.QueryFactory;
+import org.apache.jena.query.QuerySolution;
+import org.apache.jena.query.ResultSet;
+import org.apache.jena.rdf.model.*;
 
 import node.Sparql;
 
@@ -35,10 +42,15 @@ public class Datasets {
 	static String arquivoOSMLinkado = "features_linked.txt";
 	//private static org.apache.log4j.Logger log = Logger.getLogger(); //create log
 	protected String file;
+	public int featureID;
 	
 	public Datasets(String file) throws UnsupportedEncodingException, FileNotFoundException{
 		this.file = file;
 		reader = new BufferedReader((new InputStreamReader(new FileInputStream(new File(file)), "ISO-8859-1")));
+	}
+	
+	public Datasets() {
+		this.featureID = 0;
 	}
 	
 	public static Model getTestModel() {
@@ -46,6 +58,23 @@ public class Datasets {
 		Model model = ModelFactory.createDefaultModel();
 		return model;
 
+	}
+	
+//	public void addFeature(int id, String coordinates, String uri, String description) throws IOException {
+//		
+//		Writer fileWrt = new OutputStreamWriter(new FileOutputStream("DatasetsOutput\\LondonFeatures.txt", true), "ISO-8859-1");
+//						
+//		fileWrt.append(id + " " + coordinates + " " + uri + description + "\n");
+//		System.out.println("POI salvo: " + id + " " + coordinates + " " + uri + description);
+//		featureID++;
+//		
+//		fileWrt.close();
+//		
+//	}
+	
+	public void creatingLinkedFeatures(String coordinates, String uri, String description) {
+		
+		
 	}
 
 	//Create a file with LGD links to OSM objects
@@ -286,6 +315,8 @@ public void hotelGroupProfiler() throws IOException{
 
 	//Examples of usage
 	public static void main(String[] args) throws IOException {
+		String teste = "LINESTRING(-0.8958306 51.0409491,-0.894704 51.042129)";
+		
 		
 //		String line = "(tourism) (hotel) Orchid Hotel";
 ////		
@@ -297,8 +328,9 @@ public void hotelGroupProfiler() throws IOException{
 //			obj.hotelGroupProfiler();
 //			hotelProfiler replaced by groupProfiler
 //			obj.hotelProfiler("are_dubai_chelsea_tower_hotel_apartments", "Chelsea Gardens Hotel");
-			obj.interestObjectCreateFile("hotelLondon.txt");
-//			Datasets.fileHeallthCheck("D://Documents//GitHub//Enhancing-SKPQ//DatasetsOutput//hotelLondon.txt");
+//			obj.interestObjectCreateFile("hotelLondon.txt");
+//			Datasets.fileHeallthCheck("D://Documents//GitHub//Enhancing-SKPQ//DatasetsOutput//hotelLondon.txt");				
+			
 		} catch (UnsupportedEncodingException | FileNotFoundException e) {
 			e.printStackTrace();
 		}
