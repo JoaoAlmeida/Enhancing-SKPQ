@@ -1,0 +1,5 @@
+-->[1]  [OSMlabel=(tourism) (hotel) Griffin House Hotel, lat=51.5147591, lgt=-0.1648277, score=0.6060606060606061]
+-->[2]  [OSMlabel=(tourism) (hotel) Travelodge, lat=51.3805078, lgt=-0.2807418, score=0.6055555555555555]
+-->[3]  [OSMlabel=(tourism) (hotel) London Hotel, lat=51.4615782, lgt=-0.1130331, score=0.6037414965986394]
+-->[4]  [OSMlabel=(tourism) (hotel) The Abbey Court, lat=51.509844, lgt=-0.196707, score=0.6029411764705882]
+-->[5]  [OSMlabel=(tourism) (hotel) Hilltop Hotel, lat=51.510805, lgt=-0.196909, score=0.6029411764705882]

@@ -1,10 +1,17 @@
 package skpq;
 
+import java.io.Serializable;
+
 import cosinesimilarity.LuceneCosineSimilarity;
 
 @SuppressWarnings("rawtypes")
-public class SpatialObject implements Comparable {
+public class SpatialObject implements Comparable, Serializable {
 
+	/**
+	 * 
+	 */
+	//Change this id in case of big changes on this class. A exception will be launched to warn about the compatibility issues over serialization: https://blog.caelum.com.br/entendendo-o-serialversionuid/
+	private static final long serialVersionUID = 1L;
 	private String uri;
 	private double score;
 	private double rate;
@@ -125,6 +132,7 @@ public class SpatialObject implements Comparable {
 	}	
 
 	public String getCompleteDescription() {
+		completeDescription = id + " " + label + " " + lat + " " + lgt + " " + score;
 		return completeDescription;
 	}
 

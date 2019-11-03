@@ -18,7 +18,7 @@ import xxl.util.StarRTree;
 
 /**
  *
- * @author João Paulo
+ * @author Joao Paulo
  */
 public class SKPQFramework extends DefaultExperimentManager {
 
@@ -58,7 +58,6 @@ public class SKPQFramework extends DefaultExperimentManager {
 		super.open();
 		
 		try {
-//			System.out.println("DEbug " + getProperties().getProperty("query.name"));
 			if (getProperties().getProperty("query.name").equals("SKPQ-LD")) {		
 
 				StarRTree objectsOfInterest = createRtree();

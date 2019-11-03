@@ -1,0 +1,5 @@
+-->[1]  [OSMlabel=(tourism) (hotel) Sanctum Soho Hotel, lat=51.511565, lgt=-0.138332, score=0.65]
+-->[2]  [OSMlabel=(tourism) (hotel) Ham Yard Hotel, lat=51.511163, lgt=-0.134909, score=0.65]
+-->[3]  [OSMlabel=(tourism) (hotel) Citadines, lat=51.5178529, lgt=-0.1185245, score=0.6479674796747967]
+-->[4]  [OSMlabel=(tourism) (hotel) St Leonards Hotel, lat=51.492453, lgt=-0.140664, score=0.6391304347826087]
+-->[5]  [OSMlabel=(tourism) (hotel) The Chester Hotel, lat=51.492389, lgt=-0.140855, score=0.6391304347826087]

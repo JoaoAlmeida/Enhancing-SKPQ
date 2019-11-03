@@ -1,0 +1,5 @@
+-->[1]  [OSMlabel=(tourism) (hotel) Griffin House Hotel, lat=51.5147591, lgt=-0.1648277, score=0.6268115942028986]
+-->[2]  [OSMlabel=(tourism) (hotel) Saracens, lat=51.7343751, lgt=0.4733813, score=0.625]
+-->[3]  [OSMlabel=(tourism) (hotel) Holiday Inn Express- Harlow, lat=51.7692955, lgt=0.0967175, score=0.625]
+-->[4]  [OSMlabel=(tourism) (hotel) Cumberland Hotel, lat=51.5817549, lgt=-0.3321528, score=0.625]
+-->[5]  [OSMlabel=(tourism) (hotel) Carr-Saunders Hall, lat=51.5220169, lgt=-0.1382046, score=0.625]

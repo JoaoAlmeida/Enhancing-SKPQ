@@ -1,0 +1,5 @@
+-->[1]  [OSMlabel=(tourism) (hotel) Bosco Hotel & Lounge, lat=51.3936864, lgt=-0.3033492, score=0.6396825396825397]
+-->[2]  [OSMlabel=(tourism) (hotel) Malmaison Hotel, lat=51.5207376, lgt=-0.1002415, score=0.636231884057971]
+-->[3]  [OSMlabel=(tourism) (hotel) Astor Court, lat=51.5198739, lgt=-0.1432064, score=0.6354609929078014]
+-->[4]  [OSMlabel=(tourism) (hotel) Cadogan Hotel, lat=51.4969518, lgt=-0.1591526, score=0.6340136054421769]
+-->[5]  [OSMlabel=(tourism) (hotel) Sheraton Belgravia, lat=51.4973611, lgt=-0.1562075, score=0.6340136054421769]

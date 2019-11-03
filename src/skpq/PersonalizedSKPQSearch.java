@@ -13,6 +13,7 @@ import predictor.MyLearner;
 import se.walkercrou.places.GooglePlaces;
 import se.walkercrou.places.Place;
 import se.walkercrou.places.Review;
+import skpq.util.Datasets;
 import skpq.util.RatingExtractor;
 import skpq.util.User;
 import skpq.util.WebContentCache;
@@ -62,12 +63,19 @@ public class PersonalizedSKPQSearch extends SpatialQueryLD {
 			printQueryName();
 		}
 		
-			topK = findFeaturesLGD(interestObjectSet, keywords, radius, "default");
+//			topK = findFeaturesLGD(interestObjectSet, keywords, radius, "default");
+		Datasets data = new Datasets();
+		try {
+			topK = data.loadResultstoPersonalize("SKPQ", keywords, k);
+		} catch (IOException e2) {
+			// TODO Auto-generated catch block
+			e2.printStackTrace();
+		}
 				
 		//Predicting
 				try {
 //					Predictor p = new Predictor("balanceado.arff");
-					MyLearner p = new MyLearner("teste"); 										
+					MyLearner p = new MyLearner("service"); 										
 					
 					Iterator<SpatialObject> it = topK.iterator();			
 					
@@ -118,7 +126,8 @@ public class PersonalizedSKPQSearch extends SpatialQueryLD {
 				
 				try {	
 					if(!pTopK.isEmpty()){
-						saveGroupResults(pTopK);
+//						saveGroupResults(pTopK);
+						saveResults(pTopK);
 					}
 					//Retirei porque o NDCG não me interessa por agora
 //						evaluateQuery(keywords, null, k);									
@@ -132,14 +141,19 @@ public class PersonalizedSKPQSearch extends SpatialQueryLD {
 	protected void saveResults(TreeSet<SpatialObject> topK) throws IOException {			
 
 		Writer outputFile = new OutputStreamWriter(
-				new FileOutputStream("PSKPQ-LD [" + "k=" + k + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
+				new FileOutputStream("pskpq/PSKPQ-LD [" + "k=" + k + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
 
 		Iterator<SpatialObject> it = topK.descendingIterator();
 
 		for (int a = 1; a <= topK.size(); a++) {
+			
 			SpatialObject obj = it.next();
-			System.out.println("-->[" + a + "]  " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt="
-					+ obj.getLgt() + ", score=" + obj.getScore() + "]\n");
+			
+			if(debug) {
+				System.out.println("-->[" + a + "]  " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt="
+						+ obj.getLgt() + ", score=" + obj.getScore() + "]\n");
+			}
+			
 			outputFile.write("-->[" + a + "]  " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt="
 					+ obj.getLgt() + ", score=" + obj.getScore() + "]\n");
 		}

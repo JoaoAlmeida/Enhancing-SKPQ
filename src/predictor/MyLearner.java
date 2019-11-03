@@ -212,7 +212,7 @@ public class MyLearner {
 		try{
 		 unlabeled = new Instances(
                  new BufferedReader(
-                   new FileReader("profiles/hotels/"+hotelProfile+".arff")));
+                   new FileReader("profiles/hotelsLondon/"+hotelProfile+".arff")));
 		}catch(Exception IOException){
 			 System.out.println("Hotel does not have reviews yet! " + IOException + "\n");
 			 return 0;

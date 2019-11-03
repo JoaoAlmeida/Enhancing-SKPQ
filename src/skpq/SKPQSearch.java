@@ -14,7 +14,7 @@ import xxl.util.StarRTree;
 /**
  * Process a Spatial Preference Keyword Query using LOD.
  * 
- * @author João Paulo
+ * @author Joao Paulo
  */
 
 public class SKPQSearch extends SpatialQueryLD {
@@ -51,8 +51,8 @@ public class SKPQSearch extends SpatialQueryLD {
 			printQueryName();
 		}
 
-		topK = findFeaturesLGD(interestObjectSet, keywords, radius, match);
-		System.out.println("Qtd " + topK.size());
+		topK = findFeaturesLGDFast(interestObjectSet, keywords, radius, match);
+		
 		try {
 //			saveResults(topK);
 			saveGroupResults(topK);

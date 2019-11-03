@@ -16,6 +16,8 @@ import java.util.Locale;
 import java.util.Map;
 import java.util.TreeSet;
 
+import org.apache.commons.text.similarity.FuzzyScore;
+import org.apache.commons.text.similarity.JaroWinklerDistance;
 import org.apache.jena.query.ARQ;
 import org.apache.jena.query.Query;
 import org.apache.jena.query.QueryExecution;
@@ -23,24 +25,16 @@ import org.apache.jena.query.QueryExecutionFactory;
 import org.apache.jena.query.QueryFactory;
 import org.apache.jena.query.QuerySolution;
 import org.apache.jena.query.ResultSet;
-import org.apache.jena.rdf.model.Literal;
 import org.apache.jena.rdf.model.Model;
 import org.apache.jena.rdf.model.ModelFactory;
 import org.apache.jena.rdf.model.RDFNode;
 import org.apache.jena.rdf.model.Resource;
-import org.apache.lucene.index.Term;
-import org.apache.lucene.search.similarities.ClassicSimilarity;
-import org.apache.lucene.search.similarities.TFIDFSimilarity;
-import org.python.modules.math;
-import org.apache.commons.text.similarity.*;
 
 import cosinesimilarity.LuceneCosineSimilarity;
-import lucene.Configuration;
 import node.Sparql;
-import similarity.TextSimilarity;
-import skpq.util.Datasets;
 import skpq.util.QueryEvaluation;
 import skpq.util.RatingExtractor;
+import skpq.util.WebContentArrayCache;
 import skpq.util.WebContentCache;
 import util.experiment.Experiment;
 import util.experiment.ExperimentException;
@@ -51,12 +45,12 @@ import xxl.util.StarRTree;
 /**
  * Essentials to process a top-k query using LOD
  * 
- * @author Jo√£o Paulo
+ * @author Joao Paulo
  */
 
 public abstract class SpatialQueryLD implements Experiment {
 
-	protected WebContentCache searchCache;	
+	protected WebContentCache searchCache;
 	protected ArrayList<ExperimentResult> result;	
 	protected static BufferedReader reader;
 	protected boolean USING_GRAPH;
@@ -68,6 +62,7 @@ public abstract class SpatialQueryLD implements Experiment {
 	protected StarRTree objectsOfInterest;
 	protected boolean debug;
 
+
 	public SpatialQueryLD(int k, String keywords, StarRTree objectsOfInterest, boolean debug) throws IOException {
 		this.k = k;
 		this.keywords = keywords;
@@ -76,7 +71,7 @@ public abstract class SpatialQueryLD implements Experiment {
 
 		searchCache = new WebContentCache(cacheFileName);
 		searchCache.load();	
-
+		
 		this.objectsOfInterest = objectsOfInterest;
 	}
 
@@ -206,7 +201,7 @@ public abstract class SpatialQueryLD implements Experiment {
 		System.out.println("\nk = " + k + " | keywords = [ " + keywords + " ]\n\n");
 	}
 
-	protected double[] evaluateQuery(String keywords, String radius, int numResult) throws IOException{
+	protected double[] evaluateQuery(String keywords, String radius, int numResult, boolean personalized) throws IOException{
 
 		System.out.println("\n");
 		System.out.println("=========================");
@@ -225,20 +220,32 @@ public abstract class SpatialQueryLD implements Experiment {
 
 		while(k <= k_max){
 			//mudar nome dos arquivos
-			if(radius == null){			
-				fileName = "SKPQ-LD [k="+k+", kw="+ keywords +"].txt";
-			} else{
-				fileName = "SKPQ-LD [k="+k+", kw="+ keywords + ", radius=" + radius + "].txt";			
+			if(personalized) {
+				fileName = "PSKPQ-LD [k="+k+", kw="+ keywords +"].txt";
+			}else {			
+				if(radius == null){			
+					fileName = "SKPQ-LD [k="+k+", kw="+ keywords +"].txt";
+				} else{
+					fileName = "SKPQ-LD [k="+k+", kw="+ keywords + ", radius=" + radius + "].txt";			
+				}
 			}
-
+			
 			boolean arquivoCriado = false;					
-			boolean personalized = true;
+			
 			
 			if(!arquivoCriado){
 
 				Writer output = new OutputStreamWriter(new FileOutputStream(fileName.split("\\.txt")[0] + " --- ratings.txt"), "ISO-8859-1");
-				RatingExtractor obj = new RatingExtractor("tripAdvisor");
 
+				/*Evaluation methods: 
+				 * default --> using only Google Maps rate
+				 * cosine --> considers cosine similarity score and Google Maps rate 
+				 * tripAdvisor --> using an opinRank query, it searches for user's judgment related to the query. It is necessary to set the rate file manually.
+				 * personalized --> searches for the rate related to the the user preference. Each user preference is represented by a profile. The user preference must be described manually in the method.				 
+				 * */				
+				//RatingExtractor obj = new RatingExtractor("tripAdvisor");
+				RatingExtractor obj = new RatingExtractor("personalized");
+				
 				if(radius == null){
 					rateResults = obj.rateLODresult(fileName);			
 				}else{
@@ -264,31 +271,166 @@ public abstract class SpatialQueryLD implements Experiment {
 		return ndcg;
 	}	
 
-	//Remover IOException que foi colocado para recolher os features de London
 	// Searches for features in OpenStreetMap dataset. Actually using this because the match method is important in second article.
-	public TreeSet<SpatialObject> findFeaturesLGD(List<SpatialObject> interestSet, String keywords, double radius, String match) {
+	public TreeSet<SpatialObject> findFeaturesLGD(List<SpatialObject> interestSet, String keywords, double radius, String match){
 
-		List<Resource> featureSet;
+		//Resource is not serializable, for this reason there are two features set
+		ArrayList<Resource> featureSet;
 		TreeSet<SpatialObject> topK = new TreeSet<>();
-//		tempor·rio
-//		ArrayList<String> coordinates;
-//		int id = 0;
-		
+		ArrayList<String> features;
+
 		String serviceURI = "http://linkedgeodata.org/sparql";
 
-		for (int a = 0; a < interestSet.size(); a++) {
+		for (int a = 0; a < interestSet.size(); a++) {					 
+			
+			//if (debug) {
+			// System.out.println("::::::::::::::::::::::::::::::::::::::::::::::::::::::::");
+			//	System.out.print("POI #" + a + " - " + interestSet.get(a).getURI());
+			//}
+			
+			featureSet = new ArrayList<>();
+			
+			// Find features within 200 meters (200m = 0.2)
+			String queryString = "" + Sparql.addService(USING_GRAPH, serviceURI) + "SELECT DISTINCT ?resource WHERE { <"
+					+ interestSet.get(a).getURI() + "> <http://geovocab.org/geometry#geometry>  ?point ."
+					+ "?point <http://www.opengis.net/ont/geosparql#asWKT> ?sourcegeo."
+					+ "?resource <http://geovocab.org/geometry#geometry> ?loc."
+					+ "?loc <http://www.opengis.net/ont/geosparql#asWKT> ?location." + "?resource rdfs:label ?nome."
+					+ "filter(bif:st_intersects( ?location, ?sourcegeo, " + radius + ")).}"
+					+ Sparql.addServiceClosing(USING_GRAPH);
 
-//			 coordinates = new ArrayList<>();
-					 
-			if (debug) {
-				System.out.println("::::::::::::::::::::::::::::::::::::::::::::::::::::::::");
-				System.out.print("POI #" + a + " - " + interestSet.get(a).getURI());
+			Query query = QueryFactory.create(Sparql.addPrefix().concat(queryString));
+
+			try (QueryExecution qexec = QueryExecutionFactory.create(query, model)) {
+
+				Map<String, Map<String, List<String>>> serviceParams = new HashMap<String, Map<String, List<String>>>();
+				Map<String, List<String>> params = new HashMap<String, List<String>>();
+				List<String> values = new ArrayList<String>();
+				values.add("2000000");
+				params.put("timeout", values);
+				serviceParams.put(serviceURI, params);
+				qexec.getContext().set(ARQ.serviceParams, serviceParams);
+
+				try {
+					ResultSet rs = qexec.execSelect();
+
+					for (; rs.hasNext();) {
+
+						QuerySolution rb = rs.nextSolution();
+
+						RDFNode x = rb.get("resource");											
+
+						if (x.isResource()) {
+							// Set of objects neighbors to object of interest
+							featureSet.add((Resource) x);							
+							// System.out.println(featureSet.get(0).getURI());
+						}
+					}
+				} finally {					
+					qexec.close();					
+				}
+			}
+			
+			//if (debug) {
+			//	System.out.println(" | Number of features: " + featureSet.size());
+			//	System.out.println("\nSelecting the best feature...");
+			//}
+			
+			double maxScore = 0;
+
+			WebContentArrayCache featuresCache = new WebContentArrayCache("pois/POI["+ a +"].cache"); ;
+
+			features  = new ArrayList<String>();
+
+			//compute the textual score for each feature
+			for (int b = 0; b < featureSet.size(); b++) {
+
+				features.add(featureSet.get(b).getURI());
+
+				String abs;				
+
+				if (searchCache.containsKey(featureSet.get(b).getURI())) {
+					abs = searchCache.getDescription(featureSet.get(b).getURI());
+				} else {
+					abs = getTextDescriptionLGD(featureSet.get(b).getURI());
+					searchCache.putDescription(featureSet.get(b).getURI(), abs);
+				}
+
+				double score = 0;
+
+				if(match.equals("default")){					
+					score = LuceneCosineSimilarity.getCosineSimilarity(abs, keywords);
+				}else if(match.equals("fuzzy")){
+					FuzzyScore f = new FuzzyScore(Locale.ENGLISH);
+					score = f.fuzzyScore(abs, keywords);
+				}else if(match.equals("jw")){
+					//System.out.println("\nUsing Levenshtein Distance ...\n");
+					JaroWinklerDistance jw = new JaroWinklerDistance();
+					score = jw.apply(abs, keywords);					
+
+				}else{
+					System.out.println("WARN -- Unknown similarity measure! Default measure used instead. ");
+					score = LuceneCosineSimilarity.getCosineSimilarity(abs, keywords);
+				}
+
+				if (score > maxScore) {
+					maxScore = score;
+				}
+			}				
+			featuresCache.putArray(interestSet.get(a).getURI(), features);
+
+			try {
+				featuresCache.store();
+			} catch (IOException e) {
+				e.printStackTrace();
 			}
 
-			featureSet = new ArrayList<>();
+			features.clear();
+			features = new ArrayList<>();
 
+			//set the highest score from one feature in the interest object
+			interestSet.get(a).setScore(maxScore);
+
+			//if (debug) {
+			//	System.out.println("\nPOI Score = " + maxScore + "\n");
+			//	System.out.println("\n::::::::::::::::::::::::::::::::::::::::::::::::::::::::");
+			//}
+			
+			if (topK.size() < k) {
+				topK.add(interestSet.get(a));
+				// keeps the best objects, if they have the same scores, keeps
+				// the objects with smaller ids
+			} else if (interestSet.get(a).getScore() > topK.first().getScore()
+					|| (interestSet.get(a).getScore() == topK.first().getScore()
+					&& interestSet.get(a).getId() > topK.first().getId())) {
+				topK.pollFirst();
+				topK.add(interestSet.get(a));
+			}
+		}		
+		return topK;
+	}
+	
+	/* Search including the best feature in the POI object. It is necessary verify the need to maintain this method in future versions of the program. */
+	public TreeSet<SpatialObject> findFeaturesLGDBN(List<SpatialObject> interestSet, String keywords, double radius, String match){
+
+		//Resource is not serializable, for this reason there are two features set
+		ArrayList<Resource> featureSet;
+		TreeSet<SpatialObject> topK = new TreeSet<>();
+		ArrayList<String> features;
+
+		String serviceURI = "http://linkedgeodata.org/sparql";
+
+		for (int a = 0; a < interestSet.size(); a++) {					 
+			
+			//if (debug) {
+			// System.out.println("::::::::::::::::::::::::::::::::::::::::::::::::::::::::");
+			//	System.out.print("POI #" + a + " - " + interestSet.get(a).getURI());
+			//}
+			
+			featureSet = new ArrayList<>();
+			
 			// Find features within 200 meters (200m = 0.2)
-			String queryString = "" + Sparql.addService(USING_GRAPH, serviceURI) + "SELECT DISTINCT ?resource ?location WHERE { <"
+			String queryString = "" + Sparql.addService(USING_GRAPH, serviceURI) + "SELECT DISTINCT ?resource WHERE { <"
 					+ interestSet.get(a).getURI() + "> <http://geovocab.org/geometry#geometry>  ?point ."
 					+ "?point <http://www.opengis.net/ont/geosparql#asWKT> ?sourcegeo."
 					+ "?resource <http://geovocab.org/geometry#geometry> ?loc."
@@ -312,27 +454,16 @@ public abstract class SpatialQueryLD implements Experiment {
 
 				try {
 					ResultSet rs = qexec.execSelect();
-					
+
 					for (; rs.hasNext();) {
 
 						QuerySolution rb = rs.nextSolution();
-						
-						RDFNode x = rb.get("resource");						
-						RDFNode y = rb.get("location");						
-						
+
+						RDFNode x = rb.get("resource");											
+
 						if (x.isResource()) {
 							// Set of objects neighbors to object of interest
-							featureSet.add((Resource) x);
-							
-//							Remove it in the next commit
-//							String[] cTemp = y.toString().split("\\(");
-//							String lgt = cTemp[1].split(" ")[0];
-//							System.out.println("LGT: " + lgt);
-//							String lat = cTemp[1].split(" ")[1].split(",")[0];
-//							System.out.println("LAT: " + lat);
-//							//remove it too
-//							coordinates.add(lat + " " + lgt);
-							//don't remove
+							featureSet.add((Resource) x);							
 							// System.out.println(featureSet.get(0).getURI());
 						}
 					}
@@ -340,18 +471,24 @@ public abstract class SpatialQueryLD implements Experiment {
 					qexec.close();					
 				}
 			}
-
-			if (debug) {
-				System.out.println(" | Number of features: " + featureSet.size());
-				System.out.println("\nSelecting the best feature...");
-			}
+			
+			//			if (debug) {
+			//				System.out.println(" | Number of features: " + featureSet.size());
+			//				System.out.println("\nSelecting the best feature...");
+			//			}
 			
 			double maxScore = 0;
 			SpatialObject bestFeature = null;
-			
+
+			WebContentArrayCache featuresCache = new WebContentArrayCache("pois/POI["+ a +"].cache"); ;
+
+			features  = new ArrayList<String>();
+
 			// compute the textual score for each feature
 			for (int b = 0; b < featureSet.size(); b++) {
-								
+
+				features.add(featureSet.get(b).getURI());
+
 				String abs;				
 
 				if (searchCache.containsKey(featureSet.get(b).getURI())) {
@@ -359,27 +496,17 @@ public abstract class SpatialQueryLD implements Experiment {
 				} else {
 					abs = getTextDescriptionLGD(featureSet.get(b).getURI());
 					searchCache.putDescription(featureSet.get(b).getURI(), abs);
-					try {
-						searchCache.store();
-					} catch (IOException e) {
-						System.out.println("Problema ao salvar no cache.");
-						e.printStackTrace();
-					}
 				}
-				
-//				Datasets data = new Datasets();
-//				data.addFeature(id, coordinates.get(b), featureSet.get(b).getURI(), abs);
-//				id++;
-				
+
 				double score = 0;
-				
+
 				if(match.equals("default")){					
-					 score = LuceneCosineSimilarity.getCosineSimilarity(abs, keywords);
+					score = LuceneCosineSimilarity.getCosineSimilarity(abs, keywords);
 				}else if(match.equals("fuzzy")){
 					FuzzyScore f = new FuzzyScore(Locale.ENGLISH);
 					score = f.fuzzyScore(abs, keywords);
 				}else if(match.equals("jw")){
-//					System.out.println("\nUsing Levenshtein Distance ...\n");
+					//System.out.println("\nUsing Levenshtein Distance ...\n");
 					JaroWinklerDistance jw = new JaroWinklerDistance();
 					score = jw.apply(abs, keywords);					
 
@@ -390,19 +517,29 @@ public abstract class SpatialQueryLD implements Experiment {
 
 				if (score > maxScore) {
 					maxScore = score;
-					bestFeature = new SpatialObject(0, featureSet.get(b).getURI());						
+					bestFeature = new SpatialObject(0, featureSet.get(b).getURI());		
 				}
+			}				
+			featuresCache.putArray(interestSet.get(a).getURI(), features);
+
+			try {
+				featuresCache.store();
+			} catch (IOException e) {
+				e.printStackTrace();
 			}
+
+			features.clear();
+			features = new ArrayList<>();
 
 			// set the highest score from one feature in the interest object
 			interestSet.get(a).setScore(maxScore);
 			interestSet.get(a).bestNeighbor = bestFeature;
-			
-			if (debug) {
-				System.out.println("\nPOI Score = " + maxScore + "\n");
-				System.out.println("\n::::::::::::::::::::::::::::::::::::::::::::::::::::::::");
-			}
 
+			//if (debug) {
+			//	System.out.println("\nPOI Score = " + maxScore + "\n");
+			//	System.out.println("\n::::::::::::::::::::::::::::::::::::::::::::::::::::::::");
+			//}
+			
 			if (topK.size() < k) {
 				topK.add(interestSet.get(a));
 				// keeps the best objects, if they have the same scores, keeps
@@ -413,7 +550,83 @@ public abstract class SpatialQueryLD implements Experiment {
 				topK.pollFirst();
 				topK.add(interestSet.get(a));
 			}
-		}
+		}		
+		return topK;
+	}
+	
+	/* Used in the second article to process the query faster using cache of features in folder pois. 
+	 * Adapted of findFeaturesLGDFast(List<SpatialObject> interestSet, String keywords, double radius, String match) */
+	public TreeSet<SpatialObject> findFeaturesLGDFast(List<SpatialObject> interestSet, String keywords, double radius, String match){
+
+		ArrayList<String> featureSet;
+		TreeSet<SpatialObject> topK = new TreeSet<>();
+		
+		for (int a = 0; a < interestSet.size(); a++) {
+				
+			WebContentArrayCache featuresCache = new WebContentArrayCache("pois/POI["+ a +"].cache");
+
+			try {
+				featuresCache.load();
+			} catch (IOException e1) {
+				e1.printStackTrace();
+			}
+			
+			
+//			if (debug) {
+//				System.out.println("::::::::::::::::::::::::::::::::::::::::::::::::::::::::");
+//				System.out.println("POI #" + a + " - " + interestSet.get(a).getURI());
+//			}
+
+			featureSet = featuresCache.getArray(interestSet.get(a).getURI());											
+			
+			double maxScore = 0;
+
+			// compute the textual score for each feature
+			for (int b = 0; b < featureSet.size(); b++) {					
+				
+				String abs;				
+
+				if (searchCache.containsKey(featureSet.get(b))) {
+					abs = searchCache.getDescription(featureSet.get(b));
+				} else {
+					abs = getTextDescriptionLGD(featureSet.get(b));
+					searchCache.putDescription(featureSet.get(b), abs);
+				}
+				
+				double score = 0;
+				
+				if(match.equals("default")){					
+					 score = LuceneCosineSimilarity.getCosineSimilarity(abs, keywords);
+				}else if(match.equals("fuzzy")){
+					FuzzyScore f = new FuzzyScore(Locale.ENGLISH);
+					score = f.fuzzyScore(abs, keywords);
+				}else if(match.equals("jw")){
+					JaroWinklerDistance jw = new JaroWinklerDistance();
+					score = jw.apply(abs, keywords);					
+				}else{
+					System.out.println("WARN -- Unknown similarity measure! Default measure used instead. ");
+					score = LuceneCosineSimilarity.getCosineSimilarity(abs, keywords);
+				}
+
+				if (score > maxScore) {
+					maxScore = score;		
+				}
+			}			
+			
+			// set the highest score from one feature in the interest object
+				interestSet.get(a).setScore(maxScore);			
+			
+			if (topK.size() < k) {
+				topK.add(interestSet.get(a));
+				// keeps the best objects, if they have the same scores, keeps
+				// the objects with smaller ids
+			} else if (interestSet.get(a).getScore() > topK.first().getScore()
+					|| (interestSet.get(a).getScore() == topK.first().getScore()
+					&& interestSet.get(a).getId() > topK.first().getId())) {
+				topK.pollFirst();
+				topK.add(interestSet.get(a));
+			}
+		}		
 		return topK;
 	}
 	

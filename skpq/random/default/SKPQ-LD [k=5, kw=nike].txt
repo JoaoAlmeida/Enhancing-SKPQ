@@ -1,0 +1,5 @@
+-->[1]  [OSMlabel=(tourism) (hotel) Seven Dials Hotel, lat=51.51481, lgt=-0.126725, score=0.30321606093791126]
+-->[2]  [OSMlabel=(tourism) (hotel) Coventry Garden Hotel, lat=51.514594, lgt=-0.127048, score=0.30321606093791126]
+-->[3]  [OSMlabel=(tourism) (hotel) Radisson Edwardian, lat=51.514283, lgt=-0.127063, score=0.30321606093791126]
+-->[4]  [OSMlabel=(tourism) (hotel) Courthouse, lat=51.5143154, lgt=-0.1394202, score=0.09819162321718075]
+-->[5]  [OSMlabel=(tourism) (hotel) The Wellesley, lat=51.5024239, lgt=-0.1538473, score=0.056514089692017835]

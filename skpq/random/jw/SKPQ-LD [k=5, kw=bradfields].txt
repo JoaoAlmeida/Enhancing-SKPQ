@@ -1,0 +1,5 @@
+-->[1]  [OSMlabel=(tourism) (hotel) Citadines, lat=51.5178529, lgt=-0.1185245, score=0.5608932461873639]
+-->[2]  [OSMlabel=(tourism) (hotel) THe Knightsbridge Green Hotel, lat=51.5015554, lgt=-0.1623833, score=0.557183908045977]
+-->[3]  [OSMlabel=(tourism) (hotel) Millenium Hotel, lat=51.5000884, lgt=-0.1601195, score=0.557183908045977]
+-->[4]  [OSMlabel=(tourism) (hotel) Capital Hotel, lat=51.5001038, lgt=-0.1614634, score=0.557183908045977]
+-->[5]  [OSMlabel=(tourism) (hotel) The Abbey Court, lat=51.509844, lgt=-0.196707, score=0.5546296296296296]

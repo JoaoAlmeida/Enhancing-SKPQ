@@ -1,0 +1,5 @@
+-->[1]  [OSMlabel=(tourism) (hotel) The Ship Hotel, lat=51.37410575, lgt=-0.45626795, score=0.5774578565276239]
+-->[2]  [OSMlabel=(tourism) (hotel) Holiday Inn, lat=51.39182325, lgt=-0.4244812, score=0.5774578565276239]
+-->[3]  [OSMlabel=(tourism) (hotel) Talbot Inn, lat=51.3006821, lgt=-0.4888882, score=0.5774578565276239]
+-->[4]  [OSMlabel=(tourism) (hotel) Travelodge, lat=51.4264038, lgt=-0.3332728, score=0.5774578565276239]
+-->[5]  [OSMlabel=(tourism) (hotel) Inn on the Broadway, lat=51.3195159, lgt=-0.5554826, score=0.5774578565276239]

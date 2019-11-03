@@ -1,0 +1,5 @@
+-->[1]  [OSMlabel=(tourism) (hotel) York & Albany, lat=51.5360898, lgt=-0.1464514, score=0.5995370370370371]
+-->[2]  [OSMlabel=(tourism) (hotel) The Ship Hotel, lat=51.37410575, lgt=-0.45626795, score=0.5975877192982456]
+-->[3]  [OSMlabel=(tourism) (hotel) Holiday Inn Express, lat=51.506096, lgt=-0.102055, score=0.5975877192982456]
+-->[4]  [OSMlabel=(tourism) (hotel) DoubleTree by Hilton Hotel London - Islington, lat=51.5321106, lgt=-0.1094659, score=0.5975877192982456]
+-->[5]  [OSMlabel=(tourism) (hotel) The Rose Court Hotel, lat=51.5153483, lgt=-0.1601533, score=0.5971320346320347]

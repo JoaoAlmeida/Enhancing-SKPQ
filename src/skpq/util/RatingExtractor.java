@@ -49,8 +49,8 @@ public class RatingExtractor {
 		tripCache = new WebContentCache("trip_dubai.ch");
 		tripCache.load();
 		
-		//relate a osm hotel name to its name in opinrank dataset 
-		personalizedCache = new WebContentCache("osm_to_opddb.ch");
+		//relate a osm hotel name to its name in opinrank dataset. Criado um para London e outro para Dubai (que esta sem o Dubai no fim) 
+		personalizedCache = new WebContentCache("osm_to_opdbLondon.ch");
 		personalizedCache.load();
 		
 		//hotel description on Google
@@ -81,11 +81,12 @@ public class RatingExtractor {
 		}			
 	}
 
+	//Evaluate a LOD query result considering different methods
 	public ArrayList<String> rateLODresult(String fileName) throws IOException{
 
 		ArrayList<String> rateResults = new ArrayList<>();
 
-		importObjectsInterest("hotel.txt", "hotel");
+		importObjectsInterest("hotelLondon.txt", "hotel");
 
 		BufferedReader reader = new BufferedReader(
 				(new InputStreamReader(new FileInputStream(new File(fileName)), "ISO-8859-1")));
@@ -111,7 +112,7 @@ public class RatingExtractor {
 			if(ratingMode.equals("default")){
 				rateResults.add(rateObject(osmLabel, lat, lgt));
 			}
-			else if(ratingMode.equals("cossine")){
+			else if(ratingMode.equals("cosine")){
 				rateResults.add(rateObjectwithCossine(osmLabel, lat, lgt, score));
 			}
 			else if(ratingMode.equals("tripAdvisor")){
@@ -145,7 +146,7 @@ public class RatingExtractor {
 				}
 				rateResults.add(rateObjectwithTA(label, lat, lgt, score));
 			}else if(ratingMode.equals("personalized")){
-				rateResults.add(ratePersonalizedQuery(osmLabel, score, 1));
+				rateResults.add(ratePersonalizedQuery(osmLabel, score, 2));
 			}			
 			queryResult = reader.readLine();
 		}
@@ -200,6 +201,7 @@ public class RatingExtractor {
 		return rateResults;
 	}
 
+	//Just consider Google Maps rate
 	private String rateObject(String osmLabel, String lat, String lgt) throws IOException{
 
 		String key = lat + " " + lgt;
@@ -285,7 +287,7 @@ public class RatingExtractor {
 		return result;
 	}	
 
-	//profiles é obtido da tabela dubai.txt, começa na coluna 11 (contagem iniciando de 0). O numero no profile começa de zero.
+	//profiles sao obtidos da tabela dubai.txt, comeca na coluna 11 (contagem iniciando de 0). O numero no profile comeca de zero.
 	private String ratePersonalizedQuery(String osmLabel, String score, int profile) throws IOException{
 		
 		String result = "";		
@@ -306,7 +308,7 @@ public class RatingExtractor {
 		} else {
 			
 			BufferedReader link = new BufferedReader(
-					(new InputStreamReader(new FileInputStream(new File("profiles/hotels/hotel profiles.info")), "ISO-8859-1")));
+					(new InputStreamReader(new FileInputStream(new File("profiles/hotelsLondon/hotel profiles.info")), "ISO-8859-1")));
 			
 			String line = link.readLine();
 			String fileID = null;
@@ -329,12 +331,15 @@ public class RatingExtractor {
 			}			
 			link.close();
 			
+//			BufferedReader rates = new BufferedReader(
+//					(new InputStreamReader(new FileInputStream(new File("dubai.txt")), "ISO-8859-1")));
+			
 			BufferedReader rates = new BufferedReader(
-					(new InputStreamReader(new FileInputStream(new File("dubai.txt")), "ISO-8859-1")));
+					(new InputStreamReader(new FileInputStream(new File("london.txt")), "ISO-8859-1")));
 			
 			line = rates.readLine();
 
-			try{
+			try{				
 			if(fileID.equals("vazio")){
 				
 				String ratesValues = 0 + "," + 0 + "," + 0 + "," + 0 + "," + 0 + "," + 0 + "," + 0;
@@ -344,12 +349,12 @@ public class RatingExtractor {
 				personalizedCache.putDescription(osmLabel, ratesValues);
 				personalizedCache.store();
 			}else{					
-				while(line != null){
+				while(line != null){					
 					if(line.contains(fileID)){
 						String[] lineVec = line.split(",");
 						String ratesValues = lineVec[11] + "," + lineVec[12] + "," + lineVec[13] + "," + lineVec[14]
 								+ "," + lineVec[15] + "," + lineVec[16] + "," + lineVec[17];
-						
+				
 //						result = osmLabel + " " + lineVec[profile+11];
 						result = "osmLabel=" + osmLabel + " score=" + score + " rate=" + lineVec[profile+11];
 						
@@ -370,6 +375,7 @@ public class RatingExtractor {
 		return result;
 	}	
 	
+	//Considers cosine similarity and Google Maps rating
 	private String rateObjectwithCossine (String osmLabel, String lat, String lgt, String score) throws IOException{
 
 		String key = lat + " " + lgt;
@@ -427,7 +433,7 @@ public class RatingExtractor {
 					String description = candidate.split("[0-9]+\\.[0-9]+ [0-9]+\\.[0-9]+")[0].trim();
 					descriptionCache.putDescription(osmLabel, description);
 
-					// salva backup com mais informações dos ratings
+					// salva backup com mais informacoes dos ratings
 					ratingBkp.append(osmLabel + "[ " + key + " ]" + " -- Google ---> " + candidate + "\n");
 
 					if (debug){

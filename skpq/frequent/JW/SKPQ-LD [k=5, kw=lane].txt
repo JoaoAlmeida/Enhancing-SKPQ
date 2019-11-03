@@ -1,0 +1,5 @@
+-->[1]  [OSMlabel=(tourism) (hotel) The Abbey Court, lat=51.509844, lgt=-0.196707, score=0.6158536585365854]
+-->[2]  [OSMlabel=(tourism) (hotel) London Hotel, lat=51.4615782, lgt=-0.1130331, score=0.6150793650793651]
+-->[3]  [OSMlabel=(tourism) (hotel) Novotel, lat=51.4568873, lgt=-0.9726533, score=0.6150793650793651]
+-->[4]  [OSMlabel=(tourism) (hotel) Threadneedle, lat=51.5139693, lgt=-0.0860502, score=0.6150793650793651]
+-->[5]  [OSMlabel=(tourism) (hotel) Club Quarters, lat=51.5127507, lgt=-0.0846424, score=0.6150793650793651]

@@ -15,8 +15,10 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
+import java.util.TreeSet;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
@@ -30,6 +32,7 @@ import org.apache.jena.query.ResultSet;
 import org.apache.jena.rdf.model.*;
 
 import node.Sparql;
+import skpq.SpatialObject;
 
 
 public class Datasets {
@@ -72,10 +75,40 @@ public class Datasets {
 //		
 //	}
 	
-	public void creatingLinkedFeatures(String coordinates, String uri, String description) {
-		
-		
+	public TreeSet<SpatialObject> loadResultstoPersonalize(String queryName, String keyword, int k) throws IOException {
+
+		System.out.println("Loading Results...");
+
+		TreeSet<SpatialObject> topk = new TreeSet<>();
+		SpatialObject obj;			
+
+		String fileName = queryName + "-LD [k="+k+", kw="+keyword+"].txt";
+
+		BufferedReader read = new BufferedReader((new InputStreamReader(new FileInputStream(new File("skpq/default/"+fileName)), "ISO-8859-1")));			
+
+		String line = read.readLine();
+
+		int i = 1;
+
+		while (line != null) {								
+
+			String osmLabel = line.substring(line.indexOf("(tourism) (hotel)"), line.indexOf(", lat")).trim();	
+
+			String lat = line.substring(line.indexOf("lat=")+4, line.indexOf(", lgt")).trim();
+			String lgt = line.substring(line.indexOf("lgt=")+4, line.indexOf(", score=")).trim();
+			String score[] = line.split("score=")[1].split("]");
+			obj = new SpatialObject(i, osmLabel, null, lat, lgt);
+			obj.setScore(Double.parseDouble(score[0]));
+//			System.out.println(obj.getCompleteDescription());
+			topk.add(obj);
+			line = read.readLine();
+
+			i++;
+		}		
+		read.close();
+		return topk;			
 	}
+
 
 	//Create a file with LGD links to OSM objects
 	public void interestObjectCreateFile(String nomeArquivo) throws IOException{
@@ -314,26 +347,25 @@ public void hotelGroupProfiler() throws IOException{
 	}
 
 	//Examples of usage
-	public static void main(String[] args) throws IOException {
-		String teste = "LINESTRING(-0.8958306 51.0409491,-0.894704 51.042129)";
-		
-		
-//		String line = "(tourism) (hotel) Orchid Hotel";
-////		
+	public static void main(String[] args) throws IOException {		
+//		String line = "-->[1]  [OSMlabel=(tourism) (hotel) The Five Arrows Hotel, lat=51.8454561, lgt=-0.9254593, score=0.3799783574435262]";
+//		String score[] = line.split("score=")[1].split("]");
+//		System.out.println(Double.parseDouble(score[0]));
 //		int index = line.indexOf(" ", 4);
 //		
 //		System.out.println(line.split("\\(hotel\\)")[1].trim().toLowerCase());
-		try {
-			Datasets obj = new Datasets("hotelLondon.txt");					
+//		try {
+			Datasets obj = new Datasets("hotelLondon.txt");
+			obj.loadResultstoPersonalize("SKPQ", "amenity", 5);
 //			obj.hotelGroupProfiler();
 //			hotelProfiler replaced by groupProfiler
 //			obj.hotelProfiler("are_dubai_chelsea_tower_hotel_apartments", "Chelsea Gardens Hotel");
 //			obj.interestObjectCreateFile("hotelLondon.txt");
 //			Datasets.fileHeallthCheck("D://Documents//GitHub//Enhancing-SKPQ//DatasetsOutput//hotelLondon.txt");				
 			
-		} catch (UnsupportedEncodingException | FileNotFoundException e) {
-			e.printStackTrace();
-		}
+//		} catch (UnsupportedEncodingException | FileNotFoundException e) {
+//			e.printStackTrace();
+//		}
 	}
 
 }

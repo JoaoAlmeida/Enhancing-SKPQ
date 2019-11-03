@@ -273,15 +273,21 @@ public class QueryEvaluation {
 			while(k <= k_max){								
 			
 			boolean arquivoCriado = false;
-			/* A cada experimento, mudar o diretório de saída */
+			/* A cada experimento, mudar o diretorio de saida */
 
 			String fileName = queryName + "-LD [k="+k+", kw="+queryKeyword[ind]+"].txt";
 			
 				if(!arquivoCriado){
 				Writer output = new OutputStreamWriter(new FileOutputStream(fileName.split("\\.txt")[0] + " --- ratings.txt"), "ISO-8859-1");
+				/*Evaluation methods: 
+				 * default --> using only Google Maps rate
+				 * cosine --> considers cosine similarity score and Google Maps rate 
+				 * tripAdvisor --> using an opinRank query, it searches for user's judgment related to the query. It is necessary to set the rate file manually.
+				 * personalized --> searches for the rate related to the the user preference. Each user preference is represented by a profile. The user preference must be described manually in the method.				 
+				 * */	
 				RatingExtractor obj = new RatingExtractor("personalized");
 					
-				ArrayList<String> rateResults = obj.rateLODresult("pskpq/"+fileName);
+				ArrayList<String> rateResults = obj.rateLODresult("skpq/default/"+fileName);
 	
 				for (String x : rateResults) {
 	
@@ -307,7 +313,7 @@ public class QueryEvaluation {
 			System.out.print(ndcg[b] + " ");
 		}
 		
-		System.out.println("\nMédia: " + soma/4 + "\n\n");
+		System.out.println("\nAverage: " + soma/4 + "\n\n");
 		a = 0;
 		k = 5;
 		}		
@@ -318,9 +324,9 @@ public class QueryEvaluation {
 		
 		QueryEvaluation q = new QueryEvaluation();
 //		String keys[] = {"amenity", "shop", "restaurant","al","supermarket","food","fast","bank","parking","cafe"};
-		String keys[] = {"food"};		
+		String keys[] = {"amenity"};		
 		
-		q.evaluateQueriesGroup("PSKPQ", keys, 20);		
+		q.evaluateQueriesGroup("SKPQ", keys, 20);		
 //		q.evaluateQueriesGroup("SKPQ", keys, 20);
 		
 //		int k_max = 5;
