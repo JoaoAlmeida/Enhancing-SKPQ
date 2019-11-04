@@ -84,7 +84,7 @@ public class Datasets {
 
 		String fileName = queryName + "-LD [k="+k+", kw="+keyword+"].txt";
 
-		BufferedReader read = new BufferedReader((new InputStreamReader(new FileInputStream(new File("skpq/default/"+fileName)), "ISO-8859-1")));			
+		BufferedReader read = new BufferedReader((new InputStreamReader(new FileInputStream(new File("skpq/random/default/"+fileName)), "ISO-8859-1")));			
 
 		String line = read.readLine();
 

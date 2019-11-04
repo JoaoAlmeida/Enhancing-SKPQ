@@ -22,7 +22,8 @@ import se.walkercrou.places.Place;
 public class RatingExtractor {
 
 	private HashMap<String, String> objetosInteresse;
-	private WebContentCache ratingCache, tripCache, uriCache, personalizedCache;
+	private WebContentCache ratingCache, tripCache, uriCache;
+//	, personalizedCache;
 	private WebContentCache descriptionCache;
 	private GooglePlaces googleAPI;
 	private Writer ratingBkp;
@@ -50,8 +51,8 @@ public class RatingExtractor {
 		tripCache.load();
 		
 		//relate a osm hotel name to its name in opinrank dataset. Criado um para London e outro para Dubai (que esta sem o Dubai no fim) 
-		personalizedCache = new WebContentCache("osm_to_opdbLondon.ch");
-		personalizedCache.load();
+//		personalizedCache = new WebContentCache("osm_to_opdbLondon.ch");
+//		personalizedCache.load();
 		
 		//hotel description on Google
 		descriptionCache = new WebContentCache("googleDescriptions.ch");
@@ -108,7 +109,7 @@ public class RatingExtractor {
 			String key = lat + " " + lgt;
 			String osmLabel = objetosInteresse.get(key);			
 			String score = queryResult.split("score=")[1].split("\\]")[0];
-
+//			System.out.println("label [score]: " + osmLabel + score);
 			if(ratingMode.equals("default")){
 				rateResults.add(rateObject(osmLabel, lat, lgt));
 			}
@@ -296,16 +297,16 @@ public class RatingExtractor {
 			System.out.println("\n\nEvaluating object: " + osmLabel + "\n");
 		}
 
-		if (personalizedCache.containsKey(osmLabel)) {
-
-			if (debug){
-				System.out.println("Got it from cache: " + osmLabel + " -- " + personalizedCache.getDescription(osmLabel));
-			}
-			String[] profiles = personalizedCache.getDescription(osmLabel).split(",");
-			
-			result = "osmLabel=" + osmLabel + " score=" + score + " rate=" + profiles[profile];
-//			result = osmLabel + " " + profiles[profile];
-		} else {
+//		if (personalizedCache.containsKey(osmLabel)) {
+//
+//			if (debug){
+//				System.out.println("Got it from cache: " + osmLabel + " -- " + personalizedCache.getDescription(osmLabel));
+//			}
+//			String[] profiles = personalizedCache.getDescription(osmLabel).split(",");
+//			
+//			result = "osmLabel=" + osmLabel + " score=" + score + " rate=" + profiles[profile];
+////			result = osmLabel + " " + profiles[profile];
+//		} else {
 			
 			BufferedReader link = new BufferedReader(
 					(new InputStreamReader(new FileInputStream(new File("profiles/hotelsLondon/hotel profiles.info")), "ISO-8859-1")));
@@ -315,15 +316,16 @@ public class RatingExtractor {
 			
 			//Search for the hotel fileID in opinrankdataset 
 			while(line != null){
-					
+//					System.out.println(osmLabel);
 				line = line.trim();
+				
 				if(line.contains(osmLabel)){
 					String[] vec = line.split("->");
 					if(vec.length > 1){
 						fileID = vec[1].trim();	
 					}else{
 						fileID="vazio";
-					}
+					}				
 					break;
 				}else{
 					line = link.readLine();
@@ -346,10 +348,11 @@ public class RatingExtractor {
 								
 				result = "osmLabel=" + osmLabel + " score=" + score + " rate=" + 0;
 				
-				personalizedCache.putDescription(osmLabel, ratesValues);
-				personalizedCache.store();
+//				personalizedCache.putDescription(osmLabel, ratesValues);
+//				personalizedCache.store();
 			}else{					
-				while(line != null){					
+				while(line != null){	
+					
 					if(line.contains(fileID)){
 						String[] lineVec = line.split(",");
 						String ratesValues = lineVec[11] + "," + lineVec[12] + "," + lineVec[13] + "," + lineVec[14]
@@ -358,8 +361,8 @@ public class RatingExtractor {
 //						result = osmLabel + " " + lineVec[profile+11];
 						result = "osmLabel=" + osmLabel + " score=" + score + " rate=" + lineVec[profile+11];
 						
-						personalizedCache.putDescription(osmLabel, ratesValues);
-						personalizedCache.store();
+//						personalizedCache.putDescription(osmLabel, ratesValues);
+//						personalizedCache.store();
 						break;
 					}	
 					line = rates.readLine();
@@ -370,8 +373,7 @@ public class RatingExtractor {
 				System.exit(0);
 			}
 			rates.close();
-		}	
-//		System.out.println(result);
+//		}	
 		return result;
 	}	
 	

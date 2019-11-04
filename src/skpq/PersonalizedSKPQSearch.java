@@ -29,14 +29,14 @@ public class PersonalizedSKPQSearch extends SpatialQueryLD {
 
 	private double radius;
 	GooglePlaces googleAPI;
-	private WebContentCache reviewCache;
+//	private WebContentCache reviewCache;
 
 	public PersonalizedSKPQSearch(int k, String keywords, String neighborhood, double radius, StarRTree objectsOfInterest, boolean debug) throws IOException {
 		super(k, keywords, objectsOfInterest, debug);
 		this.radius = radius;	
 		
-		reviewCache = new WebContentCache("reviews.ch");
-		reviewCache.load();
+//		reviewCache = new WebContentCache("reviews.ch");
+//		reviewCache.load();
 		
 		try {
 			googleAPI = new GooglePlaces(RatingExtractor.readGoogleUserKey());
@@ -52,7 +52,7 @@ public class PersonalizedSKPQSearch extends SpatialQueryLD {
 		TreeSet<SpatialObject> pTopK = new TreeSet<>();
 		
 		try {
-			interestObjectSet = loadObjectsInterest("hotel_LGD.txt");
+			interestObjectSet = loadObjectsInterest("hotelLondon_LGD.txt");
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
@@ -68,29 +68,18 @@ public class PersonalizedSKPQSearch extends SpatialQueryLD {
 		try {
 			topK = data.loadResultstoPersonalize("SKPQ", keywords, k);
 		} catch (IOException e2) {
-			// TODO Auto-generated catch block
 			e2.printStackTrace();
 		}
 				
 		//Predicting
 				try {
-//					Predictor p = new Predictor("balanceado.arff");
 					MyLearner p = new MyLearner("service"); 										
 					
 					Iterator<SpatialObject> it = topK.iterator();			
 					
-					ArrayList<String> reviews = new ArrayList<>();
-					
-					//reviews do usuário?
-//					reviews.add("slept like a baby");
-//					reviews.add("The hotel was excellent in all aspects. Lobby was warm and friendly, staff was knowledgeable. The room was clean, comfortable and quiet. My one night stay was outstanding. "
-//							+ "The location of this best western was right off the interstate highway with plenty of restaurants to choose from. It also had its own restaurant.");
-//					reviews.add("horrible place");
-//					reviews.add("disgusting");
-//					reviews.add("I will not come back to this horrible place");
-					
 					//Used with Dubai dataset because there is two Novotel in this dataset
-					int count = 0;
+//					int count = 0;														
+					
 					while(it.hasNext()){
 						
 						SpatialObject obj = it.next();
@@ -98,7 +87,7 @@ public class PersonalizedSKPQSearch extends SpatialQueryLD {
 						String hotelName = obj.getName().split("\\(hotel\\)")[1].trim(); 
 						
 						//Used with Dubai dataset because there is two Novotel in this dataset
-//						if(hotelName.equals("novotel")){
+//						if(hotelName.equals("Novotel")){
 //							if(count == 0){
 //								count++;
 //								hotelName=hotelName+"25";
@@ -106,7 +95,7 @@ public class PersonalizedSKPQSearch extends SpatialQueryLD {
 //								hotelName=hotelName+"24";
 //							}						
 //						}
-						
+
 						double score = p.classifyHotel(hotelName);
 						
 //						System.out.println("Descrição? " + hotelName);
@@ -115,9 +104,9 @@ public class PersonalizedSKPQSearch extends SpatialQueryLD {
 //						System.out.println("Score somado: " + (score+obj.getScore()) + "\n");
 						
 						obj.setScore((score + obj.getScore()));
-						
+												
 						pTopK.add(obj);
-						count++;
+//						count++;
 					}
 				} catch (Exception e1) {
 					System.out.println("Error during prediction process");
@@ -134,8 +123,7 @@ public class PersonalizedSKPQSearch extends SpatialQueryLD {
 				} catch (IOException e) {
 					e.printStackTrace();
 				}		
-
-				return topK;
+				return pTopK;
 	}
 
 	protected void saveResults(TreeSet<SpatialObject> topK) throws IOException {			
@@ -161,6 +149,7 @@ public class PersonalizedSKPQSearch extends SpatialQueryLD {
 		outputFile.close();
 	}
 	
+	//Don't use it! Nao usar quando estiver carregando resultados ja existentes do SKPQ. Esta lendo o 20 e colocando valores que nao deveria estar no top-5 mas que estao no top 20
 protected void saveGroupResults(TreeSet<SpatialObject> topK) throws IOException{
 		
 		/* Imprime 5 */

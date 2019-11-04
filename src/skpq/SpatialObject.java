@@ -31,9 +31,9 @@ public class SpatialObject implements Comparable, Serializable {
 	public SpatialObject(String googleDescription, double rate, String query_keywords) {
 		this.label = googleDescription;
 		this.rate = rate;
-		System.out.println("Rate: " + rate);
-		System.out.println("Gscore: " + getGoogleCossineSim(query_keywords));
-		System.out.println("final score " + getGoogleScore(query_keywords));
+//		System.out.println("Rate: " + rate);
+//		System.out.println("Gscore: " + getGoogleCossineSim(query_keywords));
+//		System.out.println("final score " + getGoogleScore(query_keywords));
 		this.score = getGoogleScore(query_keywords);
 	}
 	
@@ -63,7 +63,7 @@ public class SpatialObject implements Comparable, Serializable {
 	public double getRate() {
 		
 		if(score <= 0){
-//			System.out.println("Punido!");
+			System.out.println("Punido!");
 			return rate/2;
 		}
 		return rate;

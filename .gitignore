@@ -9,6 +9,8 @@ nppBackup/
 output/
 indexDubai/
 pskpq/
+evaluations/
+skpq/
 
 #Temporary ignored files
 src/log4j.properties
