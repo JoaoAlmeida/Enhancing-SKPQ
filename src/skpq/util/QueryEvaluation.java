@@ -52,9 +52,9 @@ public class QueryEvaluation {
 			String score = line.split("score=")[1].split("rate=")[0].trim();					
 			
 			SpatialObject obj = new SpatialObject(label, Double.parseDouble(rate), Double.parseDouble(score));
-			System.out.println("Label: " + label);
-			System.out.println("Rate: " + rate);
-			System.out.println("Score: " + score);
+//			System.out.println("Label: " + label);
+//			System.out.println("Rate: " + rate);
+//			System.out.println("Score: " + score);
 //			SpatialObject idealObj = new SpatialObject(googleDescription, Double.parseDouble(rate), Double.parseDouble(rate));
 			SpatialObject idealObj = new SpatialObject(label, Double.parseDouble(rate), Double.parseDouble(rate));
 			
@@ -176,7 +176,7 @@ public class QueryEvaluation {
 		double[] dcg = new double[results.size()];
 	
 		dcg[0] = results.get(0).getRate();
-				System.out.println(dcg[0]);
+
 		for(int a = 1; a < results.size(); a++){			
 			dcg[a] = dcg[a - 1] + (results.get(a).getRate() / (Math.log10(a+1) / Math.log10(2)));		
 		}
@@ -267,7 +267,7 @@ public class QueryEvaluation {
 	private void evaluateQueriesGroup(String queryName, String[] queryKeyword, int k_max) throws IOException{
 		
 		@SuppressWarnings("unused")
-		int inc = 5, k = 20, a = 0;		
+		int inc = 5, k = 5, a = 0;		
 		double[] ndcg = new double[4];
 		
 		for(int ind = 0; ind < queryKeyword.length; ind++){
@@ -326,10 +326,11 @@ public class QueryEvaluation {
 		
 		QueryEvaluation q = new QueryEvaluation();
 //		String keys[] = {"pitseahall","mischief","nike","devons","crash","glenavon","cullings","laffans","thales","bradfields"};
-		String keys[] = {"bradfields"};		
+		String keys[] = {"amenity","shop","restaurant","close","street","road","avenue","drive","lane","pub"};
+//		String keys[] = {"bradfields"};		
 		
-//		q.evaluateQueriesGroup("PSKPQ", keys, 20);		
-		q.evaluateQueriesGroup("PSKPQ", keys, 20);
+		q.evaluateQueriesGroup("PSKPQ", keys, 20);		
+//		q.evaluateQueriesGroup("SKPQ", keys, 20);
 		
 //		int k_max = 5;
 //		@SuppressWarnings("unused")

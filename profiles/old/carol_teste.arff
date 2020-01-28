@@ -1,6 +1,6 @@
-@relation Carol
+@relation CarolTeste
 
-@attribute rate numeric
+@attribute class {1,5}
 @attribute description string
 
 @data

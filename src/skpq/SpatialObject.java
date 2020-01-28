@@ -63,7 +63,7 @@ public class SpatialObject implements Comparable, Serializable {
 	public double getRate() {
 		
 		if(score <= 0){
-			System.out.println("Punido!");
+//			System.out.println("Punido!");
 			return rate/2;
 		}
 		return rate;

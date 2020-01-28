@@ -73,7 +73,7 @@ public class PersonalizedSKPQSearch extends SpatialQueryLD {
 				
 		//Predicting
 				try {
-					MyLearner p = new MyLearner("service"); 										
+					MyLearner p = new MyLearner("serviceLondon"); 										
 					
 					Iterator<SpatialObject> it = topK.iterator();			
 					
