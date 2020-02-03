@@ -1,0 +1,51 @@
+===== Loaded dataset: profiles/room.arff =====
+
+Correctly Classified Instances          11               55      %
+Incorrectly Classified Instances         9               45      %
+Kappa statistic                          0.1   
+Mean absolute error                      0.4775
+Root mean squared error                  0.648 
+Relative absolute error                 95.5    %
+Root relative squared error            129.5955 %
+Total Number of Instances               20     
+
+===== Evaluating on filtered (training) dataset done =====
+
+===== Loaded dataset: profiles/value.arff =====
+
+Correctly Classified Instances          10               50      %
+Incorrectly Classified Instances        10               50      %
+Kappa statistic                          0     
+Mean absolute error                      0.5   
+Root mean squared error                  0.6727
+Relative absolute error                100      %
+Root relative squared error            134.5362 %
+Total Number of Instances               20     
+
+===== Evaluating on filtered (training) dataset done =====
+
+===== Loaded dataset: profiles/location.arff =====
+
+Correctly Classified Instances          15               75      %
+Incorrectly Classified Instances         5               25      %
+Kappa statistic                          0.5   
+Mean absolute error                      0.275 
+Root mean squared error                  0.477 
+Relative absolute error                 55      %
+Root relative squared error             95.3939 %
+Total Number of Instances               20     
+
+===== Evaluating on filtered (training) dataset done =====
+
+===== Loaded dataset: profiles/service.arff =====
+
+Correctly Classified Instances          11               55      %
+Incorrectly Classified Instances         9               45      %
+Kappa statistic                          0.1   
+Mean absolute error                      0.4775
+Root mean squared error                  0.648 
+Relative absolute error                 95.5    %
+Root relative squared error            129.5955 %
+Total Number of Instances               20     
+
+===== Evaluating on filtered (training) dataset done =====

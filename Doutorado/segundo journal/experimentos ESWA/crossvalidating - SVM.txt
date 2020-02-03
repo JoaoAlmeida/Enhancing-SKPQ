@@ -1,0 +1,44 @@
+===== Loaded dataset: profiles/room.arff =====
+
+Correctly Classified Instances          16               80      %
+Incorrectly Classified Instances         4               20      %
+Kappa statistic                          0.6   
+Mean absolute error                      0.2   
+Root mean squared error                  0.4472
+Relative absolute error                 40      %
+Root relative squared error             89.4427 %
+Total Number of Instances               20     
+
+
+===== Loaded dataset: profiles/value.arff =====
+
+Correctly Classified Instances          15               75      %
+Incorrectly Classified Instances         5               25      %
+Kappa statistic                          0.5   
+Mean absolute error                      0.25  
+Root mean squared error                  0.5   
+Relative absolute error                 50      %
+Root relative squared error            100      %
+Total Number of Instances               20     
+
+===== Loaded dataset: profiles/location.arff =====
+
+Correctly Classified Instances          12               60      %
+Incorrectly Classified Instances         8               40      %
+Kappa statistic                          0.2   
+Mean absolute error                      0.4   
+Root mean squared error                  0.6325
+Relative absolute error                 80      %
+Root relative squared error            126.4911 %
+Total Number of Instances               20   
+
+===== Loaded dataset: profiles/service.arff =====
+
+Correctly Classified Instances          15               75      %
+Incorrectly Classified Instances         5               25      %
+Kappa statistic                          0.5   
+Mean absolute error                      0.25  
+Root mean squared error                  0.5   
+Relative absolute error                 50      %
+Root relative squared error            100      %
+Total Number of Instances               20  

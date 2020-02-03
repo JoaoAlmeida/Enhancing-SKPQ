@@ -1,0 +1,5 @@
+-->[1]  [OSMlabel=(tourism) (hotel) DoubleTree by Hilton Hotel Dubai - Jumeirah Beach, lat=25.0724883, lgt=55.128186, score=0.8652361473159427]
+-->[2]  [OSMlabel=(tourism) (hotel) Dusit, lat=25.0829862, lgt=55.1443893, score=0.7853626347583772]
+-->[3]  [OSMlabel=(tourism) (hotel) Hilton Al Hamra Beach & Golf Resort, lat=25.689291400000002, lgt=55.77551805, score=0.5668449197860963]
+-->[4]  [OSMlabel=(tourism) (hotel) Auris Plaza Hotel, lat=25.1138027, lgt=55.2003057, score=0.4103626347583772]
+-->[5]  [OSMlabel=(tourism) (hotel) Emirates Grand Hotel, lat=25.2094854, lgt=55.275152750000004, score=0.2789425420442515]

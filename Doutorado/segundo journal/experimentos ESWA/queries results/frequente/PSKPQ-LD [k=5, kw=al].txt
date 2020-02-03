@@ -1,0 +1,5 @@
+-->[1]  [OSMlabel=(tourism) (hotel) Al Manzil, lat=25.19119165, lgt=55.2776364, score=0.898734727781633]
+-->[2]  [OSMlabel=(tourism) (hotel) intercontinental Suites, lat=25.2318304, lgt=55.3471422, score=0.7610119854077279]
+-->[3]  [OSMlabel=(tourism) (hotel) Lords Beach Hotel, lat=25.3367017, lgt=55.36214835, score=0.7436959680917106]
+-->[4]  [OSMlabel=(tourism) (hotel) Royal Grand, lat=25.30807215, lgt=55.3787103, score=0.4103626347583772]
+-->[5]  [OSMlabel=(tourism) (hotel) Novotel, lat=25.2214828, lgt=55.2883397, score=0.4103626347583772]

@@ -11,6 +11,9 @@ indexDubai/
 pskpq/
 evaluations/
 skpq/
+datasetsOutput/
+Doutorado/terceiro journal/Datasets
+Doutorado/Datasets.zip
 
 #Temporary ignored files
 src/log4j.properties

@@ -1,0 +1,5 @@
+-->[1]  [OSMlabel=(tourism) (hotel) Byblos Hotel, lat=25.09750405, lgt=55.173544699999994, score=0.6071428571428571]
+-->[2]  [OSMlabel=(tourism) (hotel) Grandeur Hotel, lat=25.10956975, lgt=55.20311445, score=0.6071428571428571]
+-->[3]  [OSMlabel=(tourism) (hotel) Holiday Inn Dubai - Al Barsha, lat=25.11612815, lgt=55.194125650000004, score=0.6071428571428571]
+-->[4]  [OSMlabel=(tourism) (hotel) Hotel Madinat Jumeirah - Dar Al Masyaf, lat=25.131031, lgt=55.1838897, score=0.6071428571428571]
+-->[5]  [OSMlabel=(tourism) (hotel) DoubleTree by Hilton Hotel Dubai - Jumeirah Beach, lat=25.0724883, lgt=55.128186, score=0.6071428571428571]

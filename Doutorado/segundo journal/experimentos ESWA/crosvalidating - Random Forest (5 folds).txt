@@ -1,0 +1,139 @@
+===== Loaded dataset: profiles/room.arff =====
+===== Training on filtered (training) dataset done =====
+=== Summary ===
+
+Correctly Classified Instances          12               60      %
+Incorrectly Classified Instances         8               40      %
+Kappa statistic                          0.2   
+K&B Relative Info Score                204.0312 %
+K&B Information Score                    2.0403 bits      0.102  bits/instance
+Class complexity | order 0              20      bits      1      bits/instance
+Class complexity | scheme               19.2244 bits      0.9612 bits/instance
+Complexity improvement     (Sf)          0.7756 bits      0.0388 bits/instance
+Mean absolute error                      0.455 
+Root mean squared error                  0.4884
+Relative absolute error                 91      %
+Root relative squared error             97.6729 %
+Total Number of Instances               20     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.8       0.6        0.571     0.8       0.667      0.635    1
+                 0.4       0.2        0.667     0.4       0.5        0.635    5
+Weighted Avg.    0.6       0.4        0.619     0.6       0.583      0.635
+
+===== Evaluating on filtered (training) dataset done =====
+
+
+
+===== Loaded dataset: profiles/value.arff =====
+===== Training on filtered (training) dataset done =====
+=== Summary ===
+
+Correctly Classified Instances          10               50      %
+Incorrectly Classified Instances        10               50      %
+Kappa statistic                          0     
+K&B Relative Info Score                -30.4607 %
+K&B Information Score                   -0.3046 bits     -0.0152 bits/instance
+Class complexity | order 0              20      bits      1      bits/instance
+Class complexity | scheme               22.3828 bits      1.1191 bits/instance
+Complexity improvement     (Sf)         -2.3828 bits     -0.1191 bits/instance
+Mean absolute error                      0.505 
+Root mean squared error                  0.5371
+Relative absolute error                101      %
+Root relative squared error            107.4244 %
+Total Number of Instances               20     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.5       0.5        0.5       0.5       0.5        0.455    1
+                 0.5       0.5        0.5       0.5       0.5        0.455    5
+Weighted Avg.    0.5       0.5        0.5       0.5       0.5        0.455
+
+===== Evaluating on filtered (training) dataset done =====
+
+
+===== Loaded dataset: profiles/location.arff =====
+===== Training on filtered (training) dataset done =====
+=== Summary ===
+
+Correctly Classified Instances          12               60      %
+Incorrectly Classified Instances         8               40      %
+Kappa statistic                          0.2   
+K&B Relative Info Score                -14.0178 %
+K&B Information Score                   -0.1402 bits     -0.007  bits/instance
+Class complexity | order 0              20      bits      1      bits/instance
+Class complexity | scheme             1093.915  bits     54.6958 bits/instance
+Complexity improvement     (Sf)      -1073.915  bits    -53.6958 bits/instance
+Mean absolute error                      0.505 
+Root mean squared error                  0.5482
+Relative absolute error                101      %
+Root relative squared error            109.6358 %
+Total Number of Instances               20     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 1         0.8        0.556     1         0.714      0.445    1
+                 0.2       0          1         0.2       0.333      0.445    5
+Weighted Avg.    0.6       0.4        0.778     0.6       0.524      0.445
+
+===== Evaluating on filtered (training) dataset done =====
+
+
+===== Loaded dataset: profiles/service.arff =====
+===== Training on filtered (training) dataset done =====
+=== Summary ===
+
+Correctly Classified Instances          11               55      %
+Incorrectly Classified Instances         9               45      %
+Kappa statistic                          0.1   
+K&B Relative Info Score                 66.0421 %
+K&B Information Score                    0.6604 bits      0.033  bits/instance
+Class complexity | order 0              20      bits      1      bits/instance
+Class complexity | scheme             2163.5163 bits    108.1758 bits/instance
+Complexity improvement     (Sf)      -2143.5163 bits   -107.1758 bits/instance
+Mean absolute error                      0.495 
+Root mean squared error                  0.5334
+Relative absolute error                 99      %
+Root relative squared error            106.6771 %
+Total Number of Instances               20     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.9       0.8        0.529     0.9       0.667      0.615    1
+                 0.2       0.1        0.667     0.2       0.308      0.615    5
+Weighted Avg.    0.55      0.45       0.598     0.55      0.487      0.615
+
+===== Evaluating on filtered (training) dataset done =====
+
+
+===== Loaded dataset: profiles/clean.arff =====
+===== Training on filtered (training) dataset done =====
+=== Summary ===
+
+Correctly Classified Instances          14               70      %
+Incorrectly Classified Instances         6               30      %
+Kappa statistic                          0.4   
+K&B Relative Info Score                636.731  %
+K&B Information Score                    6.3673 bits      0.3184 bits/instance
+Class complexity | order 0              20      bits      1      bits/instance
+Class complexity | scheme               15.6686 bits      0.7834 bits/instance
+Complexity improvement     (Sf)          4.3314 bits      0.2166 bits/instance
+Mean absolute error                      0.355 
+Root mean squared error                  0.426 
+Relative absolute error                 71      %
+Root relative squared error             85.2056 %
+Total Number of Instances               20     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 1         0.6        0.625     1         0.769      0.85     1
+                 0.4       0          1         0.4       0.571      0.85     5
+Weighted Avg.    0.7       0.3        0.813     0.7       0.67       0.85 
+
+===== Evaluating on filtered (training) dataset done =====

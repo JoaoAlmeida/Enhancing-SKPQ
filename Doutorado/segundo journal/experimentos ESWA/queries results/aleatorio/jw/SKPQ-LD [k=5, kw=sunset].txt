@@ -1,0 +1,5 @@
+-->[1]  [OSMlabel=(tourism) (hotel) Sun City Hotel, lat=25.2626792, lgt=55.2964882, score=0.5742471443406023]
+-->[2]  [OSMlabel=(tourism) (hotel) Dubai Nova Hotel, lat=25.262376, lgt=55.2958793, score=0.5742471443406023]
+-->[3]  [OSMlabel=(tourism) (hotel) Hilton Fujairah, lat=25.13619195, lgt=56.3557447, score=0.5622605363984675]
+-->[4]  [OSMlabel=(tourism) (hotel) Iberotel Miramar Al Aqah Beach Resort, lat=25.5015835, lgt=56.3614543, score=0.5622605363984675]
+-->[5]  [OSMlabel=(tourism) (hotel) Sandy Beach Hotel & Resort, lat=25.4926581, lgt=56.3604552, score=0.5622605363984675]

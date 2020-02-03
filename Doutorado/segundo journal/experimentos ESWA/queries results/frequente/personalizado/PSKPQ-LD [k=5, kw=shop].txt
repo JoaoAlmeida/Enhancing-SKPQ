@@ -1,0 +1,5 @@
+-->[1]  [OSMlabel=(tourism) (hotel) Al Manzil, lat=25.19119165, lgt=55.2776364, score=0.7915881539611671]
+-->[2]  [OSMlabel=(tourism) (hotel) JW Marriot Hotel Dubai, lat=25.2685711, lgt=55.3297557, score=0.6942640650092731]
+-->[3]  [OSMlabel=(tourism) (hotel) intercontinental Suites, lat=25.2318304, lgt=55.3471422, score=0.653865411587262]
+-->[4]  [OSMlabel=(tourism) (hotel) Lords Beach Hotel, lat=25.3367017, lgt=55.36214835, score=0.6365493942712446]
+-->[5]  [OSMlabel=(tourism) (hotel) Royal Grand, lat=25.30807215, lgt=55.3787103, score=0.30321606093791126]

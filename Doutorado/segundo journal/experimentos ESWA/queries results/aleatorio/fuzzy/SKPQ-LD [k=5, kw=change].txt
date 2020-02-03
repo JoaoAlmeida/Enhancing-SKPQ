@@ -1,0 +1,5 @@
+-->[1]  [OSMlabel=(tourism) (hotel) Rafee Hotel, lat=25.2700328, lgt=55.3048302, score=16.0]
+-->[2]  [OSMlabel=(tourism) (hotel) Landmark Hotel, lat=25.2690822, lgt=55.3053996, score=16.0]
+-->[3]  [OSMlabel=(tourism) (hotel) Florida International Hotel, lat=25.271353, lgt=55.30257, score=16.0]
+-->[4]  [OSMlabel=(tourism) (hotel) Florida Hotel, lat=25.2704944, lgt=55.3024547, score=16.0]
+-->[5]  [OSMlabel=(tourism) (hotel) Flora Al Souq Hotel, lat=25.2702243, lgt=55.3043578, score=16.0]

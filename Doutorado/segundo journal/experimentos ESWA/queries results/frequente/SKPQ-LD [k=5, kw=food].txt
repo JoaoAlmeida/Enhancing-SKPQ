@@ -1,0 +1,5 @@
+-->[1]  [OSMlabel=(tourism) (hotel) Landmark Hotel, lat=25.2690822, lgt=55.3053996, score=0.2596979894126401]
+-->[2]  [OSMlabel=(tourism) (hotel) Media One Hotel, lat=25.0897789, lgt=55.1525559, score=0.14997829550032904]
+-->[3]  [OSMlabel=(tourism) (hotel) Mallika Hotel Apartments, Ajman, lat=25.406211, lgt=55.4323555, score=0.14088237698200903]
+-->[4]  [OSMlabel=(tourism) (hotel) Hilton Capital Grand Abu Dhabi, lat=24.421231650000003, lgt=54.4564366, score=0.0923910116426449]
+-->[5]  [OSMlabel=(tourism) (hotel) Pulman, lat=25.2505072, lgt=55.3346895, score=0.09165979821622382]

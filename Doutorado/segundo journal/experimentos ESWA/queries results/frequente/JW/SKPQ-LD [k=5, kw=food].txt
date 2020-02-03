@@ -1,0 +1,5 @@
+-->[1]  [OSMlabel=(tourism) (hotel) Sun City Hotel, lat=25.2626792, lgt=55.2964882, score=0.6703703703703704]
+-->[2]  [OSMlabel=(tourism) (hotel) Novotel, lat=24.429290899999998, lgt=54.42887835, score=0.6677852348993288]
+-->[3]  [OSMlabel=(tourism) (hotel) Southern Sun Abu Dhabi, lat=24.500459, lgt=54.3712254, score=0.6677852348993288]
+-->[4]  [OSMlabel=(tourism) (hotel) Dusit Thani Abu Dhabi, lat=24.45571085, lgt=54.3949107, score=0.6677852348993288]
+-->[5]  [OSMlabel=(tourism) (hotel) Hilton Capital Grand Abu Dhabi, lat=24.421231650000003, lgt=54.4564366, score=0.6677852348993288]
