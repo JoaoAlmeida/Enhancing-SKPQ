@@ -14,8 +14,6 @@ import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import javax.sound.sampled.LineEvent;
-
 import se.walkercrou.places.GooglePlaces;
 import se.walkercrou.places.Place;
 

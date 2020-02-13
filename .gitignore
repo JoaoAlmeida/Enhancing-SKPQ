@@ -12,8 +12,12 @@ pskpq/
 evaluations/
 skpq/
 datasetsOutput/
+
+
+#Research datasets
 Doutorado/terceiro journal/Datasets
 Doutorado/Datasets.zip
+profiles/check-ins
 
 #Temporary ignored files
 src/log4j.properties
