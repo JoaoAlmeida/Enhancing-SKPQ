@@ -41,6 +41,7 @@ import org.apache.jena.rdf.model.RDFNode;
 
 import node.Sparql;
 import skpq.SpatialObject;
+import skpq.SpatialQueryLD;
 
 
 public class Datasets {
@@ -336,7 +337,8 @@ public class Datasets {
 		}		
 	}
 	
-	/* ============= Methods regarding the thir article: "" ============= */
+	/* ============= Methods regarding the third article: "" ============= */
+		
 	public void createUserProfile(String DatasetFileName) throws IOException {			
 
 		//jump the file header
@@ -401,7 +403,7 @@ public class Datasets {
 		while(line != null) {
 			//Create a date object from the string in user profile			
 			Date date = sdf.parse(dateString);			
-			//This line is needed to conserve the hour during parse. Without this, the time will be converted to local computer timeZone.
+			//This line is needed to conserve the hour during parse. Without this, the time will be converted to local computer time zone.
 			sdf.setTimeZone(TimeZone.getTimeZone("UTC"));
 
 			int dateThreshold = 25;
@@ -431,7 +433,6 @@ public class Datasets {
 				System.out.println("Date occurs inside the time gap");		        			        
 
 				writer.write(line + "\n");		        			        
-
 			}
 			else {
 				System.out.println("DAYS: " + Math.abs(ChronoUnit.DAYS.between(firstDate, secondDate)));
@@ -440,13 +441,63 @@ public class Datasets {
 				writer.write("===\n");
 				writer.write(line + "\n");
 			}
-
 			dateString = nextDateString;
 		}
 		writer.flush();
 		writer.close();
 	}
+	
+	public void calculteSequentialPOISDistance(String profileName) throws IOException, FileNotFoundException {
 
+		reader = new BufferedReader((new InputStreamReader(new FileInputStream(new File("D:\\Documents\\GitHub\\Enhancing-SKPQ\\profiles\\check-ins\\new\\" + profileName + ".txt")), "ISO-8859-1")));
+		Writer writer = new OutputStreamWriter(new FileOutputStream("profiles\\check-ins\\new\\" + profileName + "-Dist.txt", true), "ISO-8859-1");	
+		
+		String line = reader.readLine();
+		
+		while(line !=null) {			
+
+			String[] lineVec = line.split("\\t");	
+			String[] venueLocationVec = lineVec[4].split(",");
+
+			String lat = venueLocationVec[0].split("\\{")[1];
+			String lgt = venueLocationVec[1];
+			
+			line = reader.readLine();
+			
+			String distLine = "[";
+			while(!line.contains("===")) {
+
+				lineVec = line.split("\\t");	
+				venueLocationVec = lineVec[4].split(",");
+
+				String lat2 = venueLocationVec[0].split("\\{")[1];
+				String lgt2 = venueLocationVec[1];
+
+				//distance method online verified at https://gps-coordinates.org/distance-between-coordinates.php
+				double dist = SpatialQueryLD.distFrom(Double.parseDouble(lat), Double.parseDouble(lgt), Double.parseDouble(lat2), Double.parseDouble(lgt2));
+
+				distLine = distLine.concat(Double.toString(dist));
+
+				line = reader.readLine();
+
+				if(line == null) {
+					break;
+				}
+				if(!line.contains("===")) {
+					distLine = distLine + ",";
+					lat = lat2;
+					lgt = lgt2;
+				}
+			}
+
+			distLine = distLine + "]";
+			System.out.println(distLine);
+			writer.write(distLine + "\n");
+			line = reader.readLine();
+		}
+		writer.flush();
+		writer.close();
+	}
 	//Examples of usage
 	public static void main(String[] args) throws IOException {		
 		//		String line = "-->[1]  [OSMlabel=(tourism) (hotel) The Five Arrows Hotel, lat=51.8454561, lgt=-0.9254593, score=0.3799783574435262]";
@@ -459,14 +510,7 @@ public class Datasets {
 		Datasets obj = new Datasets("Doutorado\\terceiro journal\\Datasets\\CA\\checkin_CA_venues.txt");
 //		obj.loadResultstoPersonalize("SKPQ", "amenity", 5);
 		
-		try {
-			for(int a = 1; a <= 4163; a++) {
-			obj.groupCheckinsByDateThreshold(a);
-			}
-		} catch (ParseException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
+		obj.calculteSequentialPOISDistance("user profile 4162-Agruped");
 		
 		//			obj.hotelGroupProfiler();
 		//			hotelProfiler replaced by groupProfiler
