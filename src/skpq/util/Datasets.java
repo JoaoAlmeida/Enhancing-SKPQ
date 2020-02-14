@@ -13,10 +13,18 @@ import java.io.Writer;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
+import java.time.temporal.ChronoUnit;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.HashMap;
 import java.util.List;
+import java.util.Locale;
 import java.util.Map;
+import java.util.TimeZone;
 import java.util.TreeSet;
 import java.util.stream.Stream;
 
@@ -371,6 +379,73 @@ public class Datasets {
 		reader.close();
 	}
 	
+	//every profile is named as user profile <profile number>
+	//WARN: sdf.format(date) is necessary to print the date object using the same pattern as the user profile
+	public void groupCheckinsByDateThreshold(int profileNumber) throws IOException, ParseException {
+
+		reader = new BufferedReader((new InputStreamReader(new FileInputStream(new File("D:\\Documents\\GitHub\\Enhancing-SKPQ\\profiles\\check-ins\\user profile " + profileNumber + ".txt")), "ISO-8859-1")));
+		Writer writer = new OutputStreamWriter(new FileOutputStream("profiles\\check-ins\\new\\user profile " + profileNumber + "-Agruped.txt", true), "ISO-8859-1");
+
+		String line = reader.readLine();
+
+		writer.write(line + "\n");
+
+		String[] lineVec = line.split("\\t");
+
+		String dateString = lineVec[1];
+
+		//Date pattern in user profile
+		String pattern = "EEE MMM dd HH:mm:ss Z yyyy";
+		SimpleDateFormat sdf = new SimpleDateFormat(pattern, Locale.ENGLISH);						
+
+		while(line != null) {
+			//Create a date object from the string in user profile			
+			Date date = sdf.parse(dateString);			
+			//This line is needed to conserve the hour during parse. Without this, the time will be converted to local computer timeZone.
+			sdf.setTimeZone(TimeZone.getTimeZone("UTC"));
+
+			int dateThreshold = 25;
+
+			//Next POI visit date
+			line = reader.readLine();
+
+			if(line == null) {
+				break;
+			}
+
+			lineVec = line.split("\\t");			
+			String nextDateString = lineVec[1];			
+			Date nextDate = sdf.parse(nextDateString);
+
+			System.out.println("Day 1: " + sdf.format(date));
+			System.out.println("Day 2: " + sdf.format(nextDate));
+
+			DateTimeFormatter formatter = DateTimeFormatter.ofPattern(pattern);
+			formatter = formatter.withLocale(Locale.ENGLISH);
+
+			LocalDate firstDate = LocalDate.parse(dateString, formatter);
+			LocalDate secondDate = LocalDate.parse(nextDateString, formatter);						  
+
+			if(Math.abs(ChronoUnit.DAYS.between(firstDate, secondDate)) < dateThreshold) {
+				System.out.println("DAYS: " + Math.abs(ChronoUnit.DAYS.between(firstDate, secondDate)));
+				System.out.println("Date occurs inside the time gap");		        			        
+
+				writer.write(line + "\n");		        			        
+
+			}
+			else {
+				System.out.println("DAYS: " + Math.abs(ChronoUnit.DAYS.between(firstDate, secondDate)));
+				System.out.println("Date occurs OUTSIDE the time gap: " + profileNumber);
+
+				writer.write("===\n");
+				writer.write(line + "\n");
+			}
+
+			dateString = nextDateString;
+		}
+		writer.flush();
+		writer.close();
+	}
 
 	//Examples of usage
 	public static void main(String[] args) throws IOException {		
@@ -383,7 +458,16 @@ public class Datasets {
 		//		try {
 		Datasets obj = new Datasets("Doutorado\\terceiro journal\\Datasets\\CA\\checkin_CA_venues.txt");
 //		obj.loadResultstoPersonalize("SKPQ", "amenity", 5);
-		obj.createUserProfile(" ");
+		
+		try {
+			for(int a = 1; a <= 4163; a++) {
+			obj.groupCheckinsByDateThreshold(a);
+			}
+		} catch (ParseException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
 		//			obj.hotelGroupProfiler();
 		//			hotelProfiler replaced by groupProfiler
 		//			obj.hotelProfiler("are_dubai_chelsea_tower_hotel_apartments", "Chelsea Gardens Hotel");
