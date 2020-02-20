@@ -21,6 +21,7 @@ import java.time.temporal.ChronoUnit;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.HashMap;
+import java.util.Iterator;
 import java.util.List;
 import java.util.Locale;
 import java.util.Map;
@@ -59,7 +60,7 @@ public class Datasets {
 	public Datasets(String file) throws UnsupportedEncodingException, FileNotFoundException{
 		this.file = file;
 		reader = new BufferedReader((new InputStreamReader(new FileInputStream(new File(file)), "ISO-8859-1")));
-	}
+	}	
 
 	public Datasets() {
 		this.featureID = 0;
@@ -445,6 +446,7 @@ public class Datasets {
 		}
 		writer.flush();
 		writer.close();
+		reader.close();
 	}
 	
 	public void calculteSequentialPOISDistance(String profileName) throws IOException, FileNotFoundException {
@@ -497,7 +499,53 @@ public class Datasets {
 		}
 		writer.flush();
 		writer.close();
+		reader.close();
 	}
+	
+	public void parseSpatialCoordinates() throws IOException, FileNotFoundException {
+		
+		TreeSet<String> coords = new TreeSet<>();
+		
+		reader = new BufferedReader((new InputStreamReader(new FileInputStream(new File("D:\\Documents\\GitHub\\Enhancing-SKPQ\\profiles\\check-ins\\checkin_CA_venues.txt")), "ISO-8859-1")));
+		Writer writer = new OutputStreamWriter(new FileOutputStream("profiles\\check-ins\\new\\coordinates2.txt", true), "ISO-8859-1");
+		
+		String line = reader.readLine();
+		line = reader.readLine();
+		
+		while(line !=null) {			
+//			System.out.println(line);
+			String[] lineVec = line.split("\\t");	
+			String[] venueLocationVec = lineVec[4].split(",");
+
+			String[] aux = venueLocationVec[0].split("\\{");
+			
+			if(aux.length > 1) {
+							
+			String lat = venueLocationVec[0].split("\\{")[1];
+			String lgt = venueLocationVec[1];
+			
+			coords.add(lat + " " + lgt + "\n");
+//			writer.write(lat + " " + lgt + "\n");						
+			}else {
+//				lines without coordinates
+//				System.out.println(line);
+//				writer.write("0" + "\n");
+//				
+			}
+			line = reader.readLine();
+		}
+		
+		Iterator<String> it = coords.iterator();
+		
+		while(it.hasNext()) {
+			writer.write(it.next());
+		}
+		
+		writer.flush();
+		writer.close();
+		reader.close();
+	}
+	
 	//Examples of usage
 	public static void main(String[] args) throws IOException {		
 		//		String line = "-->[1]  [OSMlabel=(tourism) (hotel) The Five Arrows Hotel, lat=51.8454561, lgt=-0.9254593, score=0.3799783574435262]";
@@ -507,10 +555,14 @@ public class Datasets {
 		//		
 		//		System.out.println(line.split("\\(hotel\\)")[1].trim().toLowerCase());
 		//		try {
-		Datasets obj = new Datasets("Doutorado\\terceiro journal\\Datasets\\CA\\checkin_CA_venues.txt");
+		Datasets obj = new Datasets();
 //		obj.loadResultstoPersonalize("SKPQ", "amenity", 5);
 		
-		obj.calculteSequentialPOISDistance("user profile 4162-Agruped");
+		obj.parseSpatialCoordinates();
+//		TreeSet<String> al = new TreeSet<>();
+//		al.add("Teste");
+//		al.add("Teste");
+//		System.out.println(al.size());
 		
 		//			obj.hotelGroupProfiler();
 		//			hotelProfiler replaced by groupProfiler
