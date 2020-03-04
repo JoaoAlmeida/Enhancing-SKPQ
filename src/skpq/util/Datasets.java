@@ -44,7 +44,6 @@ import node.Sparql;
 import skpq.SpatialObject;
 import skpq.SpatialQueryLD;
 
-
 public class Datasets {
 
 	BufferedReader reader;
@@ -53,14 +52,14 @@ public class Datasets {
 	private static boolean debug = false;
 	static Model model = getTestModel();
 	static String arquivoOSMLinkado = "features_linked.txt";
-	//private static org.apache.log4j.Logger log = Logger.getLogger(); //create log
+	// private static org.apache.log4j.Logger log = Logger.getLogger(); //create log
 	protected String file;
 	public int featureID;
 
-	public Datasets(String file) throws UnsupportedEncodingException, FileNotFoundException{
+	public Datasets(String file) throws UnsupportedEncodingException, FileNotFoundException {
 		this.file = file;
 		reader = new BufferedReader((new InputStreamReader(new FileInputStream(new File(file)), "ISO-8859-1")));
-	}	
+	}
 
 	public Datasets() {
 		this.featureID = 0;
@@ -71,29 +70,30 @@ public class Datasets {
 		Model model = ModelFactory.createDefaultModel();
 		return model;
 
-	}	
+	}
 
 	public TreeSet<SpatialObject> loadResultstoPersonalize(String queryName, String keyword, int k) throws IOException {
 
 		System.out.println("Loading Results...");
 
 		TreeSet<SpatialObject> topk = new TreeSet<>();
-		SpatialObject obj;			
+		SpatialObject obj;
 
-		String fileName = queryName + "-LD [k="+k+", kw="+keyword+"].txt";
+		String fileName = queryName + "-LD [k=" + k + ", kw=" + keyword + "].txt";
 
-		BufferedReader read = new BufferedReader((new InputStreamReader(new FileInputStream(new File("skpq/frequent/default/"+fileName)), "ISO-8859-1")));			
+		BufferedReader read = new BufferedReader((new InputStreamReader(
+				new FileInputStream(new File("skpq/frequent/default/" + fileName)), "ISO-8859-1")));
 
 		String line = read.readLine();
 
 		int i = 1;
 
-		while (line != null) {								
+		while (line != null) {
 
-			String osmLabel = line.substring(line.indexOf("(tourism) (hotel)"), line.indexOf(", lat")).trim();	
+			String osmLabel = line.substring(line.indexOf("(tourism) (hotel)"), line.indexOf(", lat")).trim();
 
-			String lat = line.substring(line.indexOf("lat=")+4, line.indexOf(", lgt")).trim();
-			String lgt = line.substring(line.indexOf("lgt=")+4, line.indexOf(", score=")).trim();
+			String lat = line.substring(line.indexOf("lat=") + 4, line.indexOf(", lgt")).trim();
+			String lgt = line.substring(line.indexOf("lgt=") + 4, line.indexOf(", score=")).trim();
 			String score[] = line.split("score=")[1].split("]");
 			obj = new SpatialObject(i, osmLabel, null, lat, lgt);
 			obj.setScore(Double.parseDouble(score[0]));
@@ -101,76 +101,75 @@ public class Datasets {
 			line = read.readLine();
 
 			i++;
-		}		
+		}
 		read.close();
-		return topk;			
+		return topk;
 	}
 
-
-	//Create a file with LGD links to OSM objects
-	public void interestObjectCreateFile(String nomeArquivo) throws IOException{
+	// Create a file with LGD links to OSM objects
+	public void interestObjectCreateFile(String nomeArquivo) throws IOException {
 
 		System.out.println("Creating the POIs File...");
 
-		Writer fileWrt = new OutputStreamWriter(new FileOutputStream("DatasetsOutput\\"
-				+ nomeArquivo, true), "ISO-8859-1");
+		Writer fileWrt = new OutputStreamWriter(new FileOutputStream("DatasetsOutput\\" + nomeArquivo, true),
+				"ISO-8859-1");
 
 		String line = reader.readLine();
 
-		while(line != null){
+		while (line != null) {
 
 			String[] lineVec = line.split(" ");
 
 			String rawLat = lineVec[1];
 			String rawlgt = lineVec[2];
 
-			String lat  = rawLat.substring(0, rawLat.indexOf('.')+3);
-			String lgt  = rawlgt.substring(0, rawlgt.indexOf('.')+3);	
+			String lat = rawLat.substring(0, rawLat.indexOf('.') + 3);
+			String lgt = rawlgt.substring(0, rawlgt.indexOf('.') + 3);
 
-			String label;		
+			String label;
 
-			/*if(lineVec[3].equals("-")){
-				label = line.split("-")[1].trim();
-				System.out.println("Label = " + label);
-			}*/
+			/*
+			 * if(lineVec[3].equals("-")){ label = line.split("-")[1].trim();
+			 * System.out.println("Label = " + label); }
+			 */
 
 			int fim = line.indexOf(')');
 
 			int inicioSub = line.indexOf('(', fim + 1);
 			int fimSub = line.indexOf(')', inicioSub + 1);
 
-			//String subCategoria = line.substring(inicioSub + 1, fimSub);               
+			// String subCategoria = line.substring(inicioSub + 1, fimSub);
 
 			label = line.substring(fimSub + 1).replace('"', ' ').trim();
 
-			if(!label.equals(" ")){
-				///"http://linkedgeodata.org/vsparql";
+			if (!label.equals(" ")) {
+				/// "http://linkedgeodata.org/vsparql";
 				String link = getOSMObject("http://linkedgeodata.org/sparql", line, label, lat, lgt);
 
 				fileWrt.append(rawLat + " " + rawlgt + " " + label + " " + link + "\n");
 
 				fileWrt.close();
 
-				fileWrt = new OutputStreamWriter(new FileOutputStream("DatasetsOutput\\"
-						+ nomeArquivo, true), "ISO-8859-1");
+				fileWrt = new OutputStreamWriter(new FileOutputStream("DatasetsOutput\\" + nomeArquivo, true),
+						"ISO-8859-1");
 			}
-			line = reader.readLine();		
+			line = reader.readLine();
 		}
 		System.out.println("\nFile created!");
 	}
 
-	public static String getOSMObject(String service, String line, String label, String lat, String lon) throws IOException {
+	public static String getOSMObject(String service, String line, String label, String lat, String lon)
+			throws IOException {
 
-		if(debug)
-			System.out.println(label + " " + lat + " " + lon + " ");		
+		if (debug)
+			System.out.println(label + " " + lat + " " + lon + " ");
 
-		//String serviceURI = "http://linkedgeodata.org/vsparql";
+		// String serviceURI = "http://linkedgeodata.org/vsparql";
 		String serviceURI = service;
 
-		String queryString = "" + Sparql.addService(USING_GRAPH, serviceURI) + "SELECT * WHERE { ?var rdfs:label " + quotes + label + quotes +"."
-				+ "?var geo:lat ?lat."
-				+ "?var geo:long ?lon."
-				+ "}" + Sparql.addServiceClosing(USING_GRAPH);
+		String queryString = "" + Sparql.addService(USING_GRAPH, serviceURI) + "SELECT * WHERE { ?var rdfs:label "
+				+ quotes + label + quotes + "." + "?var geo:lat ?lat." + "?var geo:long ?lon." + "}"
+				+ Sparql.addServiceClosing(USING_GRAPH);
 
 		Query query = QueryFactory.create(Sparql.addPrefix().concat(queryString));
 
@@ -205,64 +204,65 @@ public class Datasets {
 						objLat = Float.toString(flat);
 						objLon = Float.toString(flon);
 
-						if(objLat.contains(lat) && objLon.contains(lon)){
-							if(uri.isResource()){														
-								if(debug){
-									System.out.print(uri.asResource().getURI().toString());	
+						if (objLat.contains(lat) && objLon.contains(lon)) {
+							if (uri.isResource()) {
+								if (debug) {
+									System.out.print(uri.asResource().getURI().toString());
 									System.out.println();
 								}
-								Writer fileWrt = new OutputStreamWriter(new FileOutputStream("DatasetsOutput\\"
-										+ arquivoOSMLinkado, true), "ISO-8859-1");
+								Writer fileWrt = new OutputStreamWriter(
+										new FileOutputStream("DatasetsOutput\\" + arquivoOSMLinkado, true),
+										"ISO-8859-1");
 
 								fileWrt.append(line + "\n");
 								fileWrt.close();
 
 								return uri.asResource().getURI().toString();
-							}else{								
+							} else {
 								System.out.println("URI malformed or inexistent!");
 							}
-						}									
-					}					
+						}
+					}
 				}
 			} finally {
 				qexec.close();
 			}
 		}
 		return "Vazio";
-	}	
+	}
 
-	//Work in progress
-	public static void osm_matches_URI(String filePath1) throws IOException{
+	// Work in progress
+	public static void osm_matches_URI(String filePath1) throws IOException {
 
 		@SuppressWarnings("resource")
-		BufferedReader read = new BufferedReader((new InputStreamReader(new FileInputStream(new File(filePath1)), "ISO-8859-1")));
+		BufferedReader read = new BufferedReader(
+				(new InputStreamReader(new FileInputStream(new File(filePath1)), "ISO-8859-1")));
 
 		String line = read.readLine();
 
-		while(line != null){
+		while (line != null) {
 
 		}
 	}
 
-	//Separate that objects which have a LGD link from those that have not 
-	public static void fileHeallthCheck(String filePath) throws IOException{
+	// Separate that objects which have a LGD link from those that have not
+	public static void fileHeallthCheck(String filePath) throws IOException {
 
 		@SuppressWarnings("resource")
-		BufferedReader read = new BufferedReader((new InputStreamReader(new FileInputStream(new File(filePath)), "ISO-8859-1")));
+		BufferedReader read = new BufferedReader(
+				(new InputStreamReader(new FileInputStream(new File(filePath)), "ISO-8859-1")));
 
-		Writer rmk = new OutputStreamWriter(new FileOutputStream("DatasetsOutput\\"
-				+ "unhealth.txt"), "ISO-8859-1");
-		Writer health = new OutputStreamWriter(new FileOutputStream("DatasetsOutput\\"
-				+ "health.txt"), "ISO-8859-1");
+		Writer rmk = new OutputStreamWriter(new FileOutputStream("DatasetsOutput\\" + "unhealth.txt"), "ISO-8859-1");
+		Writer health = new OutputStreamWriter(new FileOutputStream("DatasetsOutput\\" + "health.txt"), "ISO-8859-1");
 		String line = read.readLine();
 
-		while(line != null){
+		while (line != null) {
 
 			String[] lineVec = line.split("http:");
 
-			if(lineVec.length > 1){
+			if (lineVec.length > 1) {
 				health.write(line + "\n");
-			}else{
+			} else {
 				rmk.write(line + "\n");
 			}
 			line = read.readLine();
@@ -271,29 +271,29 @@ public class Datasets {
 		rmk.close();
 	}
 
-	public void hotelProfiler(String filePath, String hotelName) throws IOException{
+	public void hotelProfiler(String filePath, String hotelName) throws IOException {
 
-		try (Stream<Path> paths = Files.walk(Paths.get("C://Users//JoãoPaulo//Documents//GitHub//Enhancing-SKPQ//dubai"))) {
-			paths
-			.filter(Files::isRegularFile)
-			.forEach(System.out::println);
+		try (Stream<Path> paths = Files
+				.walk(Paths.get("C://Users//JoãoPaulo//Documents//GitHub//Enhancing-SKPQ//dubai"))) {
+			paths.filter(Files::isRegularFile).forEach(System.out::println);
 		}
 
-		BufferedReader read = new BufferedReader((new InputStreamReader(new FileInputStream(new File(filePath)), "ISO-8859-1")));
+		BufferedReader read = new BufferedReader(
+				(new InputStreamReader(new FileInputStream(new File(filePath)), "ISO-8859-1")));
 
-		Writer profile = new OutputStreamWriter(new FileOutputStream(hotelName+".arff"), "ISO-8859-1");			
+		Writer profile = new OutputStreamWriter(new FileOutputStream(hotelName + ".arff"), "ISO-8859-1");
 
-		profile.write("@relation "+ hotelName + "\n\n");
+		profile.write("@relation " + hotelName + "\n\n");
 		profile.write("@attribute class {1,5}" + "\n");
 		profile.write("@attribute description string" + "\n\n");
 		profile.write("@data" + "\n");
 
 		String line = read.readLine();
 
-		while(line != null){
+		while (line != null) {
 			line = line.replaceAll("'", " ");
 			int index = line.indexOf(" ", 4);
-			profile.write("1,'"+ line.substring(index+5).trim() + "'\n");
+			profile.write("1,'" + line.substring(index + 5).trim() + "'\n");
 			line = read.readLine();
 		}
 
@@ -301,93 +301,116 @@ public class Datasets {
 		profile.close();
 	}
 
-	//Read a folder and create a profile hotel for each file in the folder	
-	public void hotelGroupProfiler() throws IOException{		
+	// Read a folder and create a profile hotel for each file in the folder
+	public void hotelGroupProfiler() throws IOException {
 
 		String city = "london";
-		//	File folder = new File("C://Users//JoãoPaulo//Documents//GitHub//Enhancing-SKPQ//london");
-		File folder = new File("D://Documents//GitHub//Enhancing-SKPQ//"+city);
+		// File folder = new
+		// File("C://Users//JoãoPaulo//Documents//GitHub//Enhancing-SKPQ//london");
+		File folder = new File("D://Documents//GitHub//Enhancing-SKPQ//" + city);
 
 		String[] files = new String[folder.listFiles().length];
 
 		files = folder.list();
 
-		for(int i = 0; i < folder.listFiles().length; i++){
+		for (int i = 0; i < folder.listFiles().length; i++) {
 			System.out.println(files[i]);
-			System.out.println(city+"/"+files[i]);
-			BufferedReader read = new BufferedReader((new InputStreamReader(new FileInputStream(new File(city+"/"+files[i])), "ISO-8859-1")));
+			System.out.println(city + "/" + files[i]);
+			BufferedReader read = new BufferedReader(
+					(new InputStreamReader(new FileInputStream(new File(city + "/" + files[i])), "ISO-8859-1")));
 
-			Writer profile = new OutputStreamWriter(new FileOutputStream("all/"+files[i]+".arff"), "ISO-8859-1");			
+			Writer profile = new OutputStreamWriter(new FileOutputStream("all/" + files[i] + ".arff"), "ISO-8859-1");
 
-			profile.write("@relation "+ files[i] + "\n\n");
+			profile.write("@relation " + files[i] + "\n\n");
 			profile.write("@attribute class {1,5}" + "\n");
 			profile.write("@attribute description string" + "\n\n");
 			profile.write("@data" + "\n");
 
 			String line = read.readLine();
 
-			while(line != null){
+			while (line != null) {
 				line = line.replaceAll("'", " ");
 				int index = line.indexOf(" ", 4);
-				profile.write("1,'"+ line.substring(index+5).trim() + "'\n");
+				profile.write("1,'" + line.substring(index + 5).trim() + "'\n");
 				line = read.readLine();
 			}
 
 			read.close();
 			profile.close();
-		}		
+		}
 	}
-	
-	/* ============= Methods regarding the third article: "" ============= */
-		
-	public void createUserProfile(String DatasetFileName) throws IOException {			
 
-		//jump the file header
+	/* ============= Methods regarding the third article: "" ============= */
+
+	// Every profile is named as user profile <profile number>
+	public void createUserProfile(String datasetFileName) throws IOException {					
+				
+		// jump the file header
 		String line = reader.readLine();
-		
+
 		line = reader.readLine();
+
+		int numCheckIns = 1;
 		
-		while(line != null) {
+		while (line != null) {		
 			
 			String[] lineVec = line.split("\\t");
+			String userID = lineVec[0];					
+			String file="";							
 			
-			String userID = lineVec[0];
-			System.out.println("Building user profile #" + userID);
 //			String dateTime = lineVec[1];
 //			String venueID = lineVec[2];
 //			String venueName = lineVec[3];
 //			String venueLocation = lineVec[4];
 //			String venueCategory = lineVec[5];
+
+			String currentID = userID;		
 						
-			String currentID = userID;
-			
-			Writer userProfile = new OutputStreamWriter(new FileOutputStream("profiles\\check-ins\\user profile " + userID + ".txt", true), "ISO-8859-1");
-			
-			while(currentID.equals(userID) && line != null) {
+			file = "";
+//			System.out.println("\nUser profile #" + currentID);
+			while (currentID.equals(userID) && line != null) {
+
+				numCheckIns++;
 				
-				userProfile.write(line + "\n");				
+//				userProfile.write(line + "\n");				
+				file = file + line + "\n";
 				
 				line = reader.readLine();
-				
-				if(line != null) {
+
+				if (line != null) {
 					lineVec = line.split("\\t");
-					
+
 					userID = lineVec[0];
 				}
 			}
-			userProfile.flush();
-			userProfile.close();
-		}
-
+			
+			if(numCheckIns > 4) {				
+//				System.out.println("Building user profile #" + currentID);
+				
+				System.out.println(file);
+				Writer userProfile = new OutputStreamWriter(
+						new FileOutputStream("profiles\\check-ins\\"+datasetFileName+"\\user profile " + currentID + ".txt", true), "ISO-8859-1");
+				
+				userProfile.write(file);
+				
+				userProfile.flush();
+				userProfile.close();
+			}
+			numCheckIns = 0;			
+		}	
 		reader.close();
 	}
-	
-	//every profile is named as user profile <profile number>
-	//WARN: sdf.format(date) is necessary to print the date object using the same pattern as the user profile
+
+	// WARN: sdf.format(date) is necessary to print the date object using the same
+	// pattern as the user profile
 	public void groupCheckinsByDateThreshold(int profileNumber) throws IOException, ParseException {
 
-		reader = new BufferedReader((new InputStreamReader(new FileInputStream(new File("D:\\Documents\\GitHub\\Enhancing-SKPQ\\profiles\\check-ins\\user profile " + profileNumber + ".txt")), "ISO-8859-1")));
-		Writer writer = new OutputStreamWriter(new FileOutputStream("profiles\\check-ins\\new\\user profile " + profileNumber + "-Agruped.txt", true), "ISO-8859-1");
+		reader = new BufferedReader((new InputStreamReader(new FileInputStream(new File(
+				"D:\\Documents\\GitHub\\Enhancing-SKPQ\\profiles\\check-ins\\user profile " + profileNumber + ".txt")),
+				"ISO-8859-1")));
+		Writer writer = new OutputStreamWriter(
+				new FileOutputStream("profiles\\check-ins\\new\\user profile " + profileNumber + "-Agruped.txt", true),
+				"ISO-8859-1");
 
 		String line = reader.readLine();
 
@@ -397,27 +420,28 @@ public class Datasets {
 
 		String dateString = lineVec[1];
 
-		//Date pattern in user profile
+		// Date pattern in user profile
 		String pattern = "EEE MMM dd HH:mm:ss Z yyyy";
-		SimpleDateFormat sdf = new SimpleDateFormat(pattern, Locale.ENGLISH);						
+		SimpleDateFormat sdf = new SimpleDateFormat(pattern, Locale.ENGLISH);
 
-		while(line != null) {
-			//Create a date object from the string in user profile			
-			Date date = sdf.parse(dateString);			
-			//This line is needed to conserve the hour during parse. Without this, the time will be converted to local computer time zone.
+		while (line != null) {
+			// Create a date object from the string in user profile
+			Date date = sdf.parse(dateString);
+			// This line is needed to conserve the hour during parse. Without this, the time
+			// will be converted to local computer time zone.
 			sdf.setTimeZone(TimeZone.getTimeZone("UTC"));
 
 			int dateThreshold = 25;
 
-			//Next POI visit date
+			// Next POI visit date
 			line = reader.readLine();
 
-			if(line == null) {
+			if (line == null) {
 				break;
 			}
 
-			lineVec = line.split("\\t");			
-			String nextDateString = lineVec[1];			
+			lineVec = line.split("\\t");
+			String nextDateString = lineVec[1];
 			Date nextDate = sdf.parse(nextDateString);
 
 			System.out.println("Day 1: " + sdf.format(date));
@@ -427,15 +451,14 @@ public class Datasets {
 			formatter = formatter.withLocale(Locale.ENGLISH);
 
 			LocalDate firstDate = LocalDate.parse(dateString, formatter);
-			LocalDate secondDate = LocalDate.parse(nextDateString, formatter);						  
+			LocalDate secondDate = LocalDate.parse(nextDateString, formatter);
 
-			if(Math.abs(ChronoUnit.DAYS.between(firstDate, secondDate)) < dateThreshold) {
+			if (Math.abs(ChronoUnit.DAYS.between(firstDate, secondDate)) < dateThreshold) {
 				System.out.println("DAYS: " + Math.abs(ChronoUnit.DAYS.between(firstDate, secondDate)));
-				System.out.println("Date occurs inside the time gap");		        			        
+				System.out.println("Date occurs inside the time gap");
 
-				writer.write(line + "\n");		        			        
-			}
-			else {
+				writer.write(line + "\n");
+			} else {
 				System.out.println("DAYS: " + Math.abs(ChronoUnit.DAYS.between(firstDate, secondDate)));
 				System.out.println("Date occurs OUTSIDE the time gap: " + profileNumber);
 
@@ -448,44 +471,49 @@ public class Datasets {
 		writer.close();
 		reader.close();
 	}
-	
+
 	public void calculteSequentialPOISDistance(String profileName) throws IOException, FileNotFoundException {
 
-		reader = new BufferedReader((new InputStreamReader(new FileInputStream(new File("D:\\Documents\\GitHub\\Enhancing-SKPQ\\profiles\\check-ins\\new\\" + profileName + ".txt")), "ISO-8859-1")));
-		Writer writer = new OutputStreamWriter(new FileOutputStream("profiles\\check-ins\\new\\" + profileName + "-Dist.txt", true), "ISO-8859-1");	
-		
-		String line = reader.readLine();
-		
-		while(line !=null) {			
+		reader = new BufferedReader((new InputStreamReader(
+				new FileInputStream(new File(
+						"D:\\Documents\\GitHub\\Enhancing-SKPQ\\profiles\\check-ins\\new\\" + profileName + ".txt")),
+				"ISO-8859-1")));
+		Writer writer = new OutputStreamWriter(
+				new FileOutputStream("profiles\\check-ins\\new\\" + profileName + "-Dist.txt", true), "ISO-8859-1");
 
-			String[] lineVec = line.split("\\t");	
+		String line = reader.readLine();
+
+		while (line != null) {
+
+			String[] lineVec = line.split("\\t");
 			String[] venueLocationVec = lineVec[4].split(",");
 
 			String lat = venueLocationVec[0].split("\\{")[1];
 			String lgt = venueLocationVec[1];
-			
-			line = reader.readLine();
-			
-			String distLine = "[";
-			while(!line.contains("===")) {
 
-				lineVec = line.split("\\t");	
+			line = reader.readLine();
+
+			String distLine = "[";
+			while (!line.contains("===")) {
+
+				lineVec = line.split("\\t");
 				venueLocationVec = lineVec[4].split(",");
 
 				String lat2 = venueLocationVec[0].split("\\{")[1];
 				String lgt2 = venueLocationVec[1];
 
-				//distance method online verified at https://gps-coordinates.org/distance-between-coordinates.php
-				double dist = SpatialQueryLD.distFrom(Double.parseDouble(lat), Double.parseDouble(lgt), Double.parseDouble(lat2), Double.parseDouble(lgt2));
+				// distance method online verified at <https://gps-coordinates.org/distance-between-coordinates.php>
+				double dist = SpatialQueryLD.distFrom(Double.parseDouble(lat), Double.parseDouble(lgt),
+						Double.parseDouble(lat2), Double.parseDouble(lgt2));
 
 				distLine = distLine.concat(Double.toString(dist));
 
 				line = reader.readLine();
 
-				if(line == null) {
+				if (line == null) {
 					break;
 				}
-				if(!line.contains("===")) {
+				if (!line.contains("===")) {
 					distLine = distLine + ",";
 					lat = lat2;
 					lgt = lgt2;
@@ -501,32 +529,37 @@ public class Datasets {
 		writer.close();
 		reader.close();
 	}
-	
+
+	// Prepare coordinates for analyze in Python
 	public void parseSpatialCoordinates() throws IOException, FileNotFoundException {
-		
+
 		TreeSet<String> coords = new TreeSet<>();
-		
-		reader = new BufferedReader((new InputStreamReader(new FileInputStream(new File("D:\\Documents\\GitHub\\Enhancing-SKPQ\\profiles\\check-ins\\checkin_CA_venues.txt")), "ISO-8859-1")));
-		Writer writer = new OutputStreamWriter(new FileOutputStream("profiles\\check-ins\\new\\coordinates2.txt", true), "ISO-8859-1");
-		
+
+		reader = new BufferedReader((new InputStreamReader(
+				new FileInputStream(
+						new File("./profiles/check-ins/New York/user profile Test.txt")),
+				"ISO-8859-1")));
+		Writer writer = new OutputStreamWriter(new FileOutputStream("profiles\\check-ins\\New York\\coordinates.txt", true),
+				"ISO-8859-1");
+
 		String line = reader.readLine();
 		line = reader.readLine();
-		
-		while(line !=null) {			
+
+		while (line != null) {
 //			System.out.println(line);
-			String[] lineVec = line.split("\\t");	
+			String[] lineVec = line.split("\\t");
 			String[] venueLocationVec = lineVec[4].split(",");
 
 			String[] aux = venueLocationVec[0].split("\\{");
-			
-			if(aux.length > 1) {
-							
-			String lat = venueLocationVec[0].split("\\{")[1];
-			String lgt = venueLocationVec[1];
-			
-			coords.add(lat + " " + lgt + "\n");
+
+			if (aux.length > 1) {
+
+				String lat = venueLocationVec[0].split("\\{")[1];
+				String lgt = venueLocationVec[1];
+
+				coords.add(lat + " " + lgt + "\n");
 //			writer.write(lat + " " + lgt + "\n");						
-			}else {
+			} else {
 //				lines without coordinates
 //				System.out.println(line);
 //				writer.write("0" + "\n");
@@ -534,45 +567,69 @@ public class Datasets {
 			}
 			line = reader.readLine();
 		}
-		
+
 		Iterator<String> it = coords.iterator();
-		
-		while(it.hasNext()) {
+
+		while (it.hasNext()) {
 			writer.write(it.next());
+		}
+
+		writer.flush();
+		writer.close();
+		reader.close();
+		
+		System.out.println("Parse completed!");
+	}
+
+	/*
+	 * City options: Los Angeles, San Francisco, San Diego, New York
+	 */
+	public void splitPOISbyCity(String city) throws IOException {
+		
+		Writer writer = new OutputStreamWriter(
+				new FileOutputStream("./datasetsOutput/" + city + ".txt", false), "ISO-8859-1");
+		
+		String line = reader.readLine();
+		
+		line = reader.readLine();
+		
+		while(line != null) {
+			String[] lineVec = line.split("\\t");
+			String[] venueLocationVec = lineVec[4].split(",");
+
+			String poiCity = venueLocationVec[2].trim();
+			
+			if(poiCity.equals(city)) {
+				writer.write(line + "\n");
+			}			
+			
+			line = reader.readLine();
 		}
 		
 		writer.flush();
 		writer.close();
+		
 		reader.close();
+		
+		System.out.println("Dataset splitted!");
 	}
-	
-	//Examples of usage
-	public static void main(String[] args) throws IOException {		
-		//		String line = "-->[1]  [OSMlabel=(tourism) (hotel) The Five Arrows Hotel, lat=51.8454561, lgt=-0.9254593, score=0.3799783574435262]";
-		//		String score[] = line.split("score=")[1].split("]");
-		//		System.out.println(Double.parseDouble(score[0]));
-		//		int index = line.indexOf(" ", 4);
-		//		
-		//		System.out.println(line.split("\\(hotel\\)")[1].trim().toLowerCase());
-		//		try {
-		Datasets obj = new Datasets();
-//		obj.loadResultstoPersonalize("SKPQ", "amenity", 5);
-		
-		obj.parseSpatialCoordinates();
-//		TreeSet<String> al = new TreeSet<>();
-//		al.add("Teste");
-//		al.add("Teste");
-//		System.out.println(al.size());
-		
-		//			obj.hotelGroupProfiler();
-		//			hotelProfiler replaced by groupProfiler
-		//			obj.hotelProfiler("are_dubai_chelsea_tower_hotel_apartments", "Chelsea Gardens Hotel");
-		//			obj.interestObjectCreateFile("hotelLondon.txt");
-		//			Datasets.fileHeallthCheck("D://Documents//GitHub//Enhancing-SKPQ//DatasetsOutput//hotelLondon.txt");				
 
-		//		} catch (UnsupportedEncodingException | FileNotFoundException e) {
-		//			e.printStackTrace();
-		//		}
+	// Examples of usage
+	public static void main(String[] args) throws IOException {
+
+		Datasets obj = new Datasets("./datasetsOutput/New York.txt");
+
+		obj.createUserProfile("New York");
+		
+//obj.parseSpatialCoordinates();
+
+		// obj.hotelGroupProfiler();
+		// hotelProfiler replaced by groupProfiler
+		// obj.hotelProfiler("are_dubai_chelsea_tower_hotel_apartments", "Chelsea
+		// Gardens Hotel");
+		// obj.interestObjectCreateFile("hotelLondon.txt");
+		// Datasets.fileHeallthCheck("D://Documents//GitHub//Enhancing-SKPQ//DatasetsOutput//hotelLondon.txt");
+
 	}
 
 }
