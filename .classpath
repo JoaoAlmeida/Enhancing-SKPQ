@@ -11,6 +11,16 @@
 	<classpathentry kind="lib" path="lib/libsvm.jar"/>
 	<classpathentry kind="lib" path="lib/weka.jar"/>
 	<classpathentry kind="lib" path="lib/commons-text-1.6.jar"/>
-	<classpathentry kind="lib" path="lib/jena-core-3.13.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jena-core-3.13.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jpalm/.m2/repository/org/apache/jena/jena-arq/3.1.1/jena-arq-3.1.1.jar" sourcepath="C:/Users/jpalm/.m2/repository/org/apache/jena/jena-arq/3.1.1/jena-arq-3.1.1-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.archivename" value="jena-arq-3.1.1.jar"/>
+			<attribute name="maven.groupId" value="org.apache.jena"/>
+			<attribute name="maven.artifactId" value="jena-arq"/>
+			<attribute name="maven.version" value="3.1.1"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

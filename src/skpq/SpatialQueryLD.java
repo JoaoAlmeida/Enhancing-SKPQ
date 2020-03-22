@@ -29,6 +29,7 @@ import org.apache.jena.rdf.model.Model;
 import org.apache.jena.rdf.model.ModelFactory;
 import org.apache.jena.rdf.model.RDFNode;
 import org.apache.jena.rdf.model.Resource;
+import org.apache.jena.sparql.function.library.max;
 
 import cosinesimilarity.LuceneCosineSimilarity;
 import node.Sparql;
@@ -137,7 +138,7 @@ public abstract class SpatialQueryLD implements Experiment {
 		return objectsInterest;
 	}
 
-	// Euclidean distance (return distance in meters)
+	// Euclidean distance (return distance in meters). Distance method online verified at <https://gps-coordinates.org/distance-between-coordinates.php>
 	public static double distFrom(double lat1, double lng1, double lat2, double lng2) {
 
 		double earthRadius = 6371000;
@@ -275,9 +276,9 @@ public abstract class SpatialQueryLD implements Experiment {
 	public TreeSet<SpatialObject> findFeaturesLGD(List<SpatialObject> interestSet, String keywords, double radius, String match){
 
 		//Resource is not serializable, for this reason there are two features set
-		ArrayList<Resource> featureSet;
+		ArrayList<SpatialObject> featureSet;
 		TreeSet<SpatialObject> topK = new TreeSet<>();
-		ArrayList<String> features;
+//		ArrayList<String> features;
 
 		String serviceURI = "http://linkedgeodata.org/sparql";
 
@@ -314,17 +315,29 @@ public abstract class SpatialQueryLD implements Experiment {
 				try {
 					ResultSet rs = qexec.execSelect();
 
-					for (; rs.hasNext();) {
+					for (; rs.hasNext();) {QuerySolution rb = rs.nextSolution();
 
-						QuerySolution rb = rs.nextSolution();
+					RDFNode x = rb.get("resource");
+					RDFNode location = rb.get("location");
+					RDFNode nome = rb.get("name");
 
-						RDFNode x = rb.get("resource");											
-
-						if (x.isResource()) {
-							// Set of objects neighbors to object of interest
-							featureSet.add((Resource) x);							
-							// System.out.println(featureSet.get(0).getURI());
-						}
+					if (x.isResource()) {
+						// Set of objects neighbors to the object of interest (POI)
+//						featureSet.add((Resource) x);
+						
+						Resource r = (Resource) x;
+																			
+						String[] array = location.asLiteral().getString().split(",")[0].split(" ");
+						String lat = array[0].split("\\(")[1];
+						String lgt = array[1];	
+						
+//						System.out.println("Location from LGD: " + location.asLiteral().getString() + " " + lat + " " + lgt);
+//						System.out.println("Nome from LGD: " + nome.asLiteral().getString());
+//						System.out.println("URI from LGD: " + r.getURI());
+						
+						SpatialObject feature = new SpatialObject(0, nome.asLiteral().getString(), r.getURI(), lat, lgt);
+						featureSet.add(feature);
+					}
 					}
 				} finally {					
 					qexec.close();					
@@ -338,14 +351,14 @@ public abstract class SpatialQueryLD implements Experiment {
 			
 			double maxScore = 0;
 
-			WebContentArrayCache featuresCache = new WebContentArrayCache("pois/POI["+ a +"].cache"); ;
+			WebContentArrayCache featuresCache = new WebContentArrayCache("pois/POI["+ a +"].cache", radius); ;
 
-			features  = new ArrayList<String>();
+//			features  = new ArrayList<String>();
 
 			//compute the textual score for each feature
 			for (int b = 0; b < featureSet.size(); b++) {
 
-				features.add(featureSet.get(b).getURI());
+//				features.add(featureSet.get(b).getURI());
 
 				String abs;				
 
@@ -377,7 +390,7 @@ public abstract class SpatialQueryLD implements Experiment {
 					maxScore = score;
 				}
 			}				
-			featuresCache.putArray(interestSet.get(a).getURI(), features);
+			featuresCache.putArray(interestSet.get(a).getURI(), featureSet);
 
 			try {
 				featuresCache.store();
@@ -385,8 +398,8 @@ public abstract class SpatialQueryLD implements Experiment {
 				e.printStackTrace();
 			}
 
-			features.clear();
-			features = new ArrayList<>();
+//			features.clear();
+//			features = new ArrayList<>();
 
 			//set the highest score from one feature in the interest object
 			interestSet.get(a).setScore(maxScore);
@@ -410,31 +423,36 @@ public abstract class SpatialQueryLD implements Experiment {
 		return topK;
 	}
 	
-	/* Search including the best feature in the POI object. It is necessary verify the need to maintain this method in future versions of the program. */
+	/* Search including the best feature in the POI object. It is necessary verify the need to maintain this method in future versions of the program. 
+	 * 
+	 * Change note 0.1: included best neighbor latitude and longitude in the sparql query. Updated during third article.
+	 * 
+	 * */
 	public TreeSet<SpatialObject> findFeaturesLGDBN(List<SpatialObject> interestSet, String keywords, double radius, String match){
 
 		//Resource is not serializable, for this reason there are two features set
-		ArrayList<Resource> featureSet;
+//		ArrayList<Resource> featureSet;
+		ArrayList<SpatialObject> featureSet;
 		TreeSet<SpatialObject> topK = new TreeSet<>();
-		ArrayList<String> features;
+//		ArrayList<String> features;
 
 		String serviceURI = "http://linkedgeodata.org/sparql";
 
 		for (int a = 0; a < interestSet.size(); a++) {					 
-			
-			//if (debug) {
-			// System.out.println("::::::::::::::::::::::::::::::::::::::::::::::::::::::::");
-			//	System.out.print("POI #" + a + " - " + interestSet.get(a).getURI());
-			//}
+			if (debug) {
+			 System.out.println("::::::::::::::::::::::::::::::::::::::::::::::::::::::::");
+				System.out.print("POI #" + a + " - " + interestSet.get(a).getURI());
+			}
 			
 			featureSet = new ArrayList<>();
 			
 			// Find features within 200 meters (200m = 0.2)
-			String queryString = "" + Sparql.addService(USING_GRAPH, serviceURI) + "SELECT DISTINCT ?resource WHERE { <"
+			String queryString = "" + Sparql.addService(USING_GRAPH, serviceURI) + "SELECT DISTINCT ?resource ?location ?name WHERE { <"
 					+ interestSet.get(a).getURI() + "> <http://geovocab.org/geometry#geometry>  ?point ."
 					+ "?point <http://www.opengis.net/ont/geosparql#asWKT> ?sourcegeo."
 					+ "?resource <http://geovocab.org/geometry#geometry> ?loc."
-					+ "?loc <http://www.opengis.net/ont/geosparql#asWKT> ?location." + "?resource rdfs:label ?nome."
+					+ "?loc <http://www.opengis.net/ont/geosparql#asWKT> ?location." 
+					+ "?resource rdfs:label ?name."					
 					+ "filter(bif:st_intersects( ?location, ?sourcegeo, " + radius + ")).}"
 					+ Sparql.addServiceClosing(USING_GRAPH);
 
@@ -459,12 +477,30 @@ public abstract class SpatialQueryLD implements Experiment {
 
 						QuerySolution rb = rs.nextSolution();
 
-						RDFNode x = rb.get("resource");											
+						RDFNode x = rb.get("resource");
+						RDFNode location = rb.get("location");
+						RDFNode nome = rb.get("name");
 
 						if (x.isResource()) {
-							// Set of objects neighbors to object of interest
-							featureSet.add((Resource) x);							
-							// System.out.println(featureSet.get(0).getURI());
+							// Set of objects neighbors to the object of interest (POI)
+//							featureSet.add((Resource) x);
+							
+							Resource r = (Resource) x;
+																				
+							String[] array = location.asLiteral().getString().split(",")[0].split(" ");
+							String lgt = array[0].split("\\(")[1];
+							String lat = array[1];	
+		
+							if(lat.contains(")")){
+								lat = lat.split("\\)")[0];
+							}
+							
+//							System.out.println("Location from LGD: " + location.asLiteral().getString() + " " + lat + " " + lgt);
+//							System.out.println("Nome from LGD: " + nome.asLiteral().getString());
+//							System.out.println("URI from LGD: " + r.getURI());
+							
+							SpatialObject feature = new SpatialObject(0, nome.asLiteral().getString(), r.getURI(), lat, lgt);
+							featureSet.add(feature);
 						}
 					}
 				} finally {					
@@ -472,22 +508,32 @@ public abstract class SpatialQueryLD implements Experiment {
 				}
 			}
 			
-			//			if (debug) {
-			//				System.out.println(" | Number of features: " + featureSet.size());
-			//				System.out.println("\nSelecting the best feature...");
-			//			}
+						if (debug) {
+							System.out.println(" | Number of features: " + featureSet.size());
+							System.out.println("\nSelecting the best feature...");
+						}
+			
+			/* Store the features that are spatially close to the POI in the cache to speed up the next queries */			
+			WebContentArrayCache featuresCache = new WebContentArrayCache("poisNewYork/POI["+ a +"].cache", radius); 			
+			featuresCache.putArray(interestSet.get(a).getURI(), featureSet);					
+			
+			try {
+				featuresCache.store();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+			
+			/* ============== End =============== */
 			
 			double maxScore = 0;
 			SpatialObject bestFeature = null;
+					
+//			features  = new ArrayList<String>();
 
-			WebContentArrayCache featuresCache = new WebContentArrayCache("pois/POI["+ a +"].cache"); ;
-
-			features  = new ArrayList<String>();
-
-			// compute the textual score for each feature
+			//compute the textual score for each feature
 			for (int b = 0; b < featureSet.size(); b++) {
 
-				features.add(featureSet.get(b).getURI());
+//				features.add(featureSet.get(b).getURI());
 
 				String abs;				
 
@@ -496,8 +542,8 @@ public abstract class SpatialQueryLD implements Experiment {
 				} else {
 					abs = getTextDescriptionLGD(featureSet.get(b).getURI());
 					searchCache.putDescription(featureSet.get(b).getURI(), abs);
-				}
-
+				}		
+				
 				double score = 0;
 
 				if(match.equals("default")){					
@@ -514,31 +560,32 @@ public abstract class SpatialQueryLD implements Experiment {
 					System.out.println("WARN -- Unknown similarity measure! Default measure used instead. ");
 					score = LuceneCosineSimilarity.getCosineSimilarity(abs, keywords);
 				}
+				
+				try {
+					searchCache.store();
+				} catch (IOException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
 
 				if (score > maxScore) {
 					maxScore = score;
-					bestFeature = new SpatialObject(0, featureSet.get(b).getURI());		
+					bestFeature = featureSet.get(b);		
 				}
-			}				
-			featuresCache.putArray(interestSet.get(a).getURI(), features);
-
-			try {
-				featuresCache.store();
-			} catch (IOException e) {
-				e.printStackTrace();
-			}
-
-			features.clear();
-			features = new ArrayList<>();
+			}					
+			
+//			features.clear();
+//			features = new ArrayList<>();
 
 			// set the highest score from one feature in the interest object
 			interestSet.get(a).setScore(maxScore);
-			interestSet.get(a).bestNeighbor = bestFeature;
+			interestSet.get(a).setBestNeighbor(bestFeature);
+//			interestSet.get(a).bestNeighbor = bestFeature;
 
-			//if (debug) {
-			//	System.out.println("\nPOI Score = " + maxScore + "\n");
-			//	System.out.println("\n::::::::::::::::::::::::::::::::::::::::::::::::::::::::");
-			//}
+			if (debug) {
+				System.out.println("\nPOI Score = " + maxScore + "\n");
+				System.out.println("\n::::::::::::::::::::::::::::::::::::::::::::::::::::::::");
+			}
 			
 			if (topK.size() < k) {
 				topK.add(interestSet.get(a));
@@ -555,47 +602,47 @@ public abstract class SpatialQueryLD implements Experiment {
 	}
 	
 	/* Used in the second article to process the query faster using cache of features in folder pois. 
-	 * Adapted of findFeaturesLGDFast(List<SpatialObject> interestSet, String keywords, double radius, String match) */
+	 * Change note 0.1: include the best neighbor into the POI object. FeatureSet now stores SpatialObjects */
 	public TreeSet<SpatialObject> findFeaturesLGDFast(List<SpatialObject> interestSet, String keywords, double radius, String match){
-
-		ArrayList<String> featureSet;
+		 
 		TreeSet<SpatialObject> topK = new TreeSet<>();
 		
 		for (int a = 0; a < interestSet.size(); a++) {
 				
-			WebContentArrayCache featuresCache = new WebContentArrayCache("pois/POI["+ a +"].cache");
+			WebContentArrayCache featuresCache = new WebContentArrayCache("pois/POI["+ a +"].cache", radius);
 
 			try {
 				featuresCache.load();
 			} catch (IOException e1) {
 				e1.printStackTrace();
 			}
+						
+			if (debug) {
+				System.out.println("::::::::::::::::::::::::::::::::::::::::::::::::::::::::");
+				System.out.println("POI #" + a + " - " + interestSet.get(a).getURI());
+			}
 			
-			
-//			if (debug) {
-//				System.out.println("::::::::::::::::::::::::::::::::::::::::::::::::::::::::");
-//				System.out.println("POI #" + a + " - " + interestSet.get(a).getURI());
-//			}
+			ArrayList<SpatialObject> featureSet = featuresCache.getArray(interestSet.get(a).getURI());											
 
-			featureSet = featuresCache.getArray(interestSet.get(a).getURI());											
-			
 			double maxScore = 0;
-
+			SpatialObject bestFeature = null;
+			
 			// compute the textual score for each feature
 			for (int b = 0; b < featureSet.size(); b++) {					
 				
 				String abs;				
-
-				if (searchCache.containsKey(featureSet.get(b))) {
-					abs = searchCache.getDescription(featureSet.get(b));
+				
+				if (searchCache.containsKey(featureSet.get(b).getURI())) {									
+					abs = searchCache.getDescription(featureSet.get(b).getURI());
+					
 				} else {
-					abs = getTextDescriptionLGD(featureSet.get(b));
-					searchCache.putDescription(featureSet.get(b), abs);
+					abs = getTextDescriptionLGD(featureSet.get(b).getURI());
+					searchCache.putDescription(featureSet.get(b).getURI(), abs);
 				}
 				
 				double score = 0;
 				
-				if(match.equals("default")){					
+				if(match.equals("default")){						
 					 score = LuceneCosineSimilarity.getCosineSimilarity(abs, keywords);
 				}else if(match.equals("fuzzy")){
 					FuzzyScore f = new FuzzyScore(Locale.ENGLISH);
@@ -607,15 +654,24 @@ public abstract class SpatialQueryLD implements Experiment {
 					System.out.println("WARN -- Unknown similarity measure! Default measure used instead. ");
 					score = LuceneCosineSimilarity.getCosineSimilarity(abs, keywords);
 				}
-
+				
 				if (score > maxScore) {
-					maxScore = score;		
+					maxScore = score;	
+					bestFeature = featureSet.get(b);
 				}
 			}			
 			
 			// set the highest score from one feature in the interest object
-				interestSet.get(a).setScore(maxScore);			
-			
+			if(maxScore != 0) {
+				interestSet.get(a).setScore(maxScore);	
+				interestSet.get(a).setBestNeighbor(bestFeature);
+			}else {
+				interestSet.get(a).setScore(0);
+				SpatialObject nb = new SpatialObject(0, "empty", "empty", "0", "0");
+				nb.setScore(0);
+				interestSet.get(a).setBestNeighbor(nb);
+			}
+
 			if (topK.size() < k) {
 				topK.add(interestSet.get(a));
 				// keeps the best objects, if they have the same scores, keeps
@@ -626,7 +682,9 @@ public abstract class SpatialQueryLD implements Experiment {
 				topK.pollFirst();
 				topK.add(interestSet.get(a));
 			}
-		}		
+			featureSet.clear();
+		}
+		
 		return topK;
 	}
 	
@@ -649,6 +707,7 @@ public abstract class SpatialQueryLD implements Experiment {
 			Iterator<SpatialObject> featureIT = featureSet.iterator();
 		
 			double maxScore = -1;
+			@SuppressWarnings("unused")
 			SpatialObject bestFeature = null;
 			
 			while(featureIT.hasNext()){
@@ -680,8 +739,8 @@ public abstract class SpatialQueryLD implements Experiment {
 			}		
 
 			// set the highest score from one feature in the interest object
-			interestSet.get(a).setScore(maxScore);
-			interestSet.get(a).bestNeighbor = bestFeature;
+			interestSet.get(a).setScore(maxScore);			
+//			interestSet.get(a).bestNeighbor = bestFeature;
 			
 			if (debug) {
 				System.out.print(" | Score = " + maxScore + "\n");
@@ -701,7 +760,7 @@ public abstract class SpatialQueryLD implements Experiment {
 		return topK;
 	}
 
-	// Searches for features in OpenStreetMap dataset
+	// Searches for features in OpenStreetMap dataset for one POI only
 	protected TreeSet<SpatialObject> findFeaturesLGD(SpatialObject interestObject, String keywords, double radius) {
 
 		boolean debugMethod = false;
@@ -1244,6 +1303,7 @@ public abstract class SpatialQueryLD implements Experiment {
 		}
 		return abs;
 	}
+	
 	protected void printResults(Iterator<SpatialObject> iterator){
 
 		System.out.println("\n\nPrinting top-k result set.....\n");
@@ -1256,7 +1316,9 @@ public abstract class SpatialQueryLD implements Experiment {
 			SpatialObject aux = iterator.next();
 
 			if (aux != null) {
-				System.out.println(i + " - " + aux.getURI() + " --> " + aux.getScore());
+				System.out.println(i + " - " + aux.getURI() + " " + aux.getCompleteDescription() + " --> " + aux.getScore());
+				System.out.println("BN: " + aux.getBestNeighbor().getName() + " " + aux.getBestNeighbor().getLat() + " " + aux.getBestNeighbor().getLgt() );
+
 			} else {
 				System.out.println("No objects to display.");
 			}

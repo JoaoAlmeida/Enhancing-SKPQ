@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15a95df4-0510-404f-a2a3-b64a27caccf5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myplot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/coordinates.txt" beforeDir="false" afterPath="$PROJECT_DIR$/source/coordinates.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/user profile 4162-Agruped-Dist.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/Dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/Dataset.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../src/skpq/util/Datasets.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/skpq/util/Datasets.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,9 +56,9 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="settings.editor.selected.configurable" value="PyScientificConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Kmeans">
+  <component name="RunManager" selected="Python.Dataset">
     <configuration name="Cluster" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="distribution" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,9 +85,6 @@
       <module name="distribution" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -108,6 +104,9 @@
       <module name="distribution" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -169,9 +168,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Dataset" />
         <item itemvalue="Python.Kmeans" />
         <item itemvalue="Python.Cluster" />
-        <item itemvalue="Python.Dataset" />
         <item itemvalue="Python.Main" />
       </list>
     </recent_temporary>
@@ -219,6 +218,9 @@
       <workItem from="1583325109244" duration="2396000" />
       <workItem from="1583327576930" duration="511000" />
       <workItem from="1583328190604" duration="1572000" />
+      <workItem from="1583365723417" duration="1332000" />
+      <workItem from="1583763805766" duration="3896000" />
+      <workItem from="1583777131579" duration="2127000" />
     </task>
     <servers />
   </component>
@@ -234,14 +236,14 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="392" y="92" key="#Notifications/0.0.1600.860@0.0.1600.860" timestamp="1581553880760" />
-    <state x="480" y="170" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582145005953">
+    <state x="480" y="170" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583365815414">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="480" y="170" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1600.860@0.0.1600.860" timestamp="1582145005953" />
-    <state x="580" y="189" key="FileChooserDialogImpl" timestamp="1583328565324">
+    <state x="480" y="170" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1600.860@0.0.1600.860" timestamp="1583365815414" />
+    <state x="580" y="189" key="FileChooserDialogImpl" timestamp="1583766057009">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="580" y="189" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1583328565324" />
+    <state x="580" y="189" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1583766057009" />
     <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1582043878614">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -274,14 +276,14 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="778" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1581567922369" />
-    <state x="303" y="76" key="SettingsEditor" timestamp="1582159167393">
+    <state x="303" y="76" key="SettingsEditor" timestamp="1583766372466">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="303" y="76" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1582159167393" />
-    <state x="508" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1583328190786">
+    <state x="303" y="76" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1583766372466" />
+    <state x="508" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1583777337021">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="508" y="259" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1583328190786" />
+    <state x="508" y="259" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1583777337021" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/distribution$Main.coverage" NAME="Main Coverage Results" MODIFIED="1582035171097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />

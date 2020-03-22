@@ -105,6 +105,57 @@ public class Datasets {
 		read.close();
 		return topk;
 	}
+	
+	//Load results with POIs containing the best neighbor
+	public TreeSet<SpatialObject> loadResultstoPersonalizeBN(String queryName, String keyword, int k) throws IOException {
+
+		System.out.println("Loading Results...");
+
+		TreeSet<SpatialObject> topk = new TreeSet<>();
+		SpatialObject obj;
+
+		String fileName = queryName + "-LD [k=" + k + ", kw=" + keyword + "].txt";
+
+		BufferedReader read = new BufferedReader((new InputStreamReader(
+				new FileInputStream(new File("./skpq/" + fileName)), "ISO-8859-1")));
+
+		String line = read.readLine();
+
+		int i = 1;
+
+		while (line != null) {
+
+			String osmLabel = line.substring(line.indexOf("(tourism) (hotel)"), line.indexOf(", lat")).trim();
+
+			String lat = line.substring(line.indexOf("lat=") + 4, line.indexOf(", lgt")).trim();
+			String lgt = line.substring(line.indexOf("lgt=") + 4, line.indexOf(", score=")).trim();
+			String score[] = line.split("score=")[1].split("]");
+			obj = new SpatialObject(i, osmLabel, null, lat, lgt);
+			obj.setScore(Double.parseDouble(score[0]));
+			
+			
+			/* Collect the Best Neighbor (BN) */
+			line = read.readLine();
+			
+			String bnLabel = line.substring(line.indexOf("OSMlabel=") + 9, line.indexOf(", lat")).trim();
+			String bnLat = line.substring(line.indexOf("lat=") + 4, line.indexOf(", lgt")).trim();
+			String bnLgt = line.substring(line.indexOf("lgt=") + 4, line.indexOf(", score=")).trim();
+			
+			SpatialObject bn = new SpatialObject(0, bnLabel, null, bnLat, bnLgt);
+			bn.setScore(Double.parseDouble(score[0]));
+//			System.out.println("Neighbor" + bn.getCompleteDescription());
+			obj.setBestNeighbor(bn);
+			topk.add(obj);
+			System.out.println(line);
+			System.out.println("BF: " + bn.getLat() + bn.getLgt());
+			//New POI
+			line = read.readLine();
+
+			i++;			
+		}
+		read.close();
+		return topk;
+	}
 
 	// Create a file with LGD links to OSM objects
 	public void interestObjectCreateFile(String nomeArquivo) throws IOException {
@@ -502,7 +553,7 @@ public class Datasets {
 				String lat2 = venueLocationVec[0].split("\\{")[1];
 				String lgt2 = venueLocationVec[1];
 
-				// distance method online verified at <https://gps-coordinates.org/distance-between-coordinates.php>
+				// Distance in meters. Distance method online verified at <https://gps-coordinates.org/distance-between-coordinates.php>
 				double dist = SpatialQueryLD.distFrom(Double.parseDouble(lat), Double.parseDouble(lgt),
 						Double.parseDouble(lat2), Double.parseDouble(lgt2));
 
@@ -536,9 +587,8 @@ public class Datasets {
 		TreeSet<String> coords = new TreeSet<>();
 
 		reader = new BufferedReader((new InputStreamReader(
-				new FileInputStream(
-						new File("./profiles/check-ins/New York/user profile Test.txt")),
-				"ISO-8859-1")));
+				new FileInputStream(new File("./profiles/check-ins/New York/coordinates.txt")),"ISO-8859-1")));
+		
 		Writer writer = new OutputStreamWriter(new FileOutputStream("profiles\\check-ins\\New York\\coordinates.txt", true),
 				"ISO-8859-1");
 
@@ -617,9 +667,10 @@ public class Datasets {
 	// Examples of usage
 	public static void main(String[] args) throws IOException {
 
-		Datasets obj = new Datasets("./datasetsOutput/New York.txt");
+	
+		Datasets obj = new Datasets("./hotelNewYork.txt");
 
-		obj.createUserProfile("New York");
+//		obj.createUserProfile("New York");
 		
 //obj.parseSpatialCoordinates();
 
@@ -627,7 +678,7 @@ public class Datasets {
 		// hotelProfiler replaced by groupProfiler
 		// obj.hotelProfiler("are_dubai_chelsea_tower_hotel_apartments", "Chelsea
 		// Gardens Hotel");
-		// obj.interestObjectCreateFile("hotelLondon.txt");
+		 Datasets.fileHeallthCheck("./datasetsOutput/hotelNewYorkLGD.txt");
 		// Datasets.fileHeallthCheck("D://Documents//GitHub//Enhancing-SKPQ//DatasetsOutput//hotelLondon.txt");
 
 	}

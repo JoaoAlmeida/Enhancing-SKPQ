@@ -6,6 +6,7 @@ import java.util.Properties;
 
 import skpq.PersonalizedSKPQSearch;
 import skpq.RQSearch;
+import skpq.SKPQPareto;
 import skpq.SKPQSearch;
 import util.experiment.DefaultExperimentManager;
 import util.experiment.Experiment;
@@ -35,9 +36,7 @@ public class SKPQFramework extends DefaultExperimentManager {
 	public String getNameID() {		
 		return getProperties().getProperty("experiment.name") + "_" + getProperties().getProperty("query.name") + "_"
 				+ getProperties().getProperty("query.keywords") + "_"
-				+ getNeighborhood(Integer.parseInt(getProperties().getProperty("query.neighborhood"))) + "_"
-				+ getProperties().getProperty("query.type") + "_" + getProperties().getProperty("query.numQueries")
-				+ "_" + getProperties().getProperty("query.numKeywords") + "_"
+				+ getNeighborhood(Integer.parseInt(getProperties().getProperty("query.neighborhood"))) + "_"		
 				+ getProperties().getProperty("query.numResults") + "_" + getProperties().getProperty("query.radius");
 	}
 
@@ -79,7 +78,16 @@ public class SKPQFramework extends DefaultExperimentManager {
 						Double.parseDouble(getProperties().getProperty("query.radius")), objectsOfInterest,
 						Boolean.parseBoolean(getProperties().getProperty("experiment.debug")));
 			
-
+			}else if(getProperties().getProperty("query.name").equals("Pareto-LD")) {
+				
+				StarRTree objectsOfInterest = createRtree();
+				
+				experiment = new SKPQPareto(Integer.parseInt(getProperties().getProperty("query.numResults")),
+						getProperties().getProperty("query.keywords"),
+						getProperties().getProperty("query.neighborhood"),
+						Double.parseDouble(getProperties().getProperty("query.radius")), objectsOfInterest,
+						Boolean.parseBoolean(getProperties().getProperty("experiment.debug")));
+				
 			} else if (getProperties().getProperty("query.name").equals("RQ-LD")) {
 
 				StarRTree objectsOfInterest = createRtree();			

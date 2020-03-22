@@ -1,8 +1,11 @@
 package skpq.util;
 
+import java.io.BufferedReader;
+import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.io.OutputStreamWriter;
@@ -18,6 +21,9 @@ import skpq.SpatialObject;
 
 
 /**
+ *  WARN: cache must be used only when using the same query radius. The cache is not prepared to store different query results from different query radius. This issue
+ *  might be resolved in future versions.
+ *   
  * 	Cache used to store Web content that has access limits
  *  Cache usually used to improve query performance, storing the textual descriptions from objects at LinkedGeoData and DBpedia.
  * 
@@ -26,22 +32,27 @@ import skpq.SpatialObject;
 
 public class WebContentArrayCache {
 	
-	private HashMap<String, ArrayList<String>> cache;
+	//hashmap pode ser removido. Troque apenas por um ArrayList de SpatialObjects. Cada arquivo armazena o conjunto de features, o nome do arquivo identifica o POI
+	private HashMap<String, ArrayList<SpatialObject>> cache;
 	private String cacheFileName;
 	private boolean debug = false;
+	private final double radius = 0.2;
 
-	public WebContentArrayCache(String cacheFileName) {
+	public WebContentArrayCache(String cacheFileName, double radius) {
 		this.cacheFileName = cacheFileName;
 		
-		cache = new HashMap<String, ArrayList<String>>();
+		cache = new HashMap<String, ArrayList<SpatialObject>>();
 		
+		if(this.radius != radius) {
+			System.out.println("The cache contains only query results obtained using query radius of " + radius + " km");
+		}
 	}
 
-	public void putArray(String uri, ArrayList<String> poiSet) {
+	public void putArray(String uri, ArrayList<SpatialObject> poiSet) {
 		cache.put(uri, poiSet);
 	}
 
-	public ArrayList<String> getArray(String uri) {
+	public ArrayList<SpatialObject> getArray(String uri) {
 		return cache.get(uri);
 	}
 
@@ -69,7 +80,7 @@ public class WebContentArrayCache {
 			FileInputStream fis = new FileInputStream(cacheFileName);
 			ObjectInputStream reader = new ObjectInputStream(fis);
 			
-			cache = (HashMap<String, ArrayList<String>>) reader.readObject();
+			cache = (HashMap<String, ArrayList<SpatialObject>>) reader.readObject();
 			
 			if(debug)
 			System.out.println("\nINFO: Cache loaded successfully...\n\n");
@@ -144,17 +155,56 @@ public class WebContentArrayCache {
 		return cache.containsKey(uri);
 	}
 
-	public HashMap<String, ArrayList<String>> getObject() {
+	public HashMap<String, ArrayList<SpatialObject>> getObject() {
 		return cache;
 	}
 
+	public void restoreCache() throws IOException {
+		load();
+		
+		
+	}
+	
 	public static void main(String[] args) throws IOException {
 		
-		WebContentArrayCache cache = new WebContentArrayCache("osm_to_opdbLondon.ch");
 		
+		BufferedReader reader = new BufferedReader((new InputStreamReader(new FileInputStream(new File("hotelLondon_LGD.txt")), "UTF-8")));
+		
+		String line = reader.readLine();
+		int count = 0;
+		while (line != null) {
+			
+			String uri = line.substring(line.indexOf("http") - 1).trim();
+			WebContentArrayCache cache = new WebContentArrayCache("./pois/POI["+count+"].cache", 0.2);
+			cache.load();
+			
+			ArrayList<SpatialObject> set = cache.getArray(uri);
+			
+			Iterator<SpatialObject> it = set.iterator();
+			
+			while(it.hasNext()) {
+				SpatialObject obj = it.next();
+				System.out.println("Feature: " + obj.getCompleteDescription());
+				if(obj.getLat().contains(")")){
+					System.out.println("problema encontrado!!");
+					System.out.println("Cache ID:" + count);
+					System.out.println("URI POI: " + uri);
+					
+					System.exit(0);
+					break;
+				}
+			}			
+			count++;
+			line = reader.readLine();
+			break;
+		}
+		
+		reader.close();
+		
+//		WebContentArrayCache cache = new WebContentArrayCache("./pois/POI[0].cache", 0.2);
 //		System.out.println(cache.containsKey("null"));
 		
-		cache.load();
+//		cache.load();
 		
 		//cache.putDescription("Test", "Description");
 		 
@@ -162,6 +212,27 @@ public class WebContentArrayCache {
 
 //		cache.exportCache();
 		
-		cache.printCache();		
+//		cache.printCache();
+		
+		//print Array
+//		ArrayList<SpatialObject> set = cache.getArray("http://linkedgeodata.org/triplify/node262778");
+//		
+//		Iterator<SpatialObject> it = set.iterator();
+//		
+//		while(it.hasNext()) {
+//			SpatialObject obj = it.next();
+//			System.out.println(obj.getCompleteDescription());
+//			if(obj.getLat().contains(")")){
+//				System.out.println("problema encontrado!!");
+//				
+//				
+////				System.out.println("Feature: " + obj.getCompleteDescription());
+//				System.exit(0);
+//				break;
+//			}
+//
+//		}
+	
+		
 	}
 }
