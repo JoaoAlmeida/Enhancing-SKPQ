@@ -1,0 +1,455 @@
+3686	Fri Aug 12 01:52:52 +0000 2011	47f6995af964a520b04e1fe3	{Downtown Disney District}	{33.80917676965434,-117.92439222335815,Anaheim,CA,United States}	{Shop & Service,Outdoors & Recreation,}
+3686	Thu Aug 11 05:39:12 +0000 2011	4bb830a253649c74fbda46fb	{Brian's Beer & Billiards}	{33.89101980635394,-117.87231354235796,Placentia,CA,United States}	{Nightlife Spot,}
+3686	Wed Aug 10 01:56:54 +0000 2011	4b2d9ad6f964a52070d924e3	{Balboa Sushi 21}	{33.60289,-117.90017047,Newport Beach,CA,United States}	{Food,}
+3686	Tue Aug 09 23:33:12 +0000 2011	4b6f82baf964a520adf32ce3	{Catalina Island Express}	{33.34462398136739,-118.32208304566501,Avalon,CA,United States}	{Travel & Transport,}
+3686	Tue Aug 09 18:10:52 +0000 2011	4bddf859e75c0f479c5bc603	{Casino Dock Cafe}	{33.34850605,-118.32600706666666,Avalon,CA,United States}	{Food,}
+3686	Tue Aug 09 05:52:32 +0000 2011	4bc28f262a89ef3b8c06f488	{CC Gallagher}	{33.34292471775338,-118.32454562187195,Avalon,CA,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+3686	Tue Aug 09 03:27:34 +0000 2011	4b63b283f964a520b18c2ae3	{Steve's Steakhouse}	{33.34355336666667,-118.325576,Avalon,CA,United States}	{Food,}
+3686	Mon Aug 08 21:22:49 +0000 2011	4a850202f964a52000fe1fe3	{Glenmore Plaza Hotel}	{33.343364,-118.32623,Avalon,CA,United States}	{Travel & Transport,}
+3686	Mon Aug 08 19:28:47 +0000 2011	4bca005068f976b0e15b5e83	{Avalon Grille}	{33.343372683333335,-118.32540929317474,Avalon,CA,United States}	{Food,}
+3686	Mon Aug 08 18:22:59 +0000 2011	4a850202f964a52000fe1fe3	{Glenmore Plaza Hotel}	{33.343364,-118.32623,Avalon,CA,United States}	{Travel & Transport,}
+3686	Mon Aug 08 15:49:11 +0000 2011	4bf1505e7077952140863e7c	{Catalina Flyer}	{33.602925131699145,-117.89910435676575,Newport Beach,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+3686	Mon Aug 08 15:01:48 +0000 2011	4b11bdc9f964a520948323e3	{Harborside Pavillion}	{33.60276433333333,-117.89893228333334,Newport Beach,CA,United States}	{Travel & Transport,}
+3686	Tue Aug 02 18:55:38 +0000 2011	4b4b87a2f964a520479f26e3	{Geisha House}	{33.773225795244585,-117.86686420440674,Santa Ana,CA,United States}	{Shop & Service,Food,}
+3686	Tue Aug 02 15:34:07 +0000 2011	4da46f92bf22a143f0b1ddf8	{Dr. Lee's Office}	{33.77984816666667,-117.864731,Orange,CA,United States}	{}
+3686	Tue Aug 02 15:32:35 +0000 2011	4a942b02f964a5209d2020e3	{St Joseph Outpatient Pavilion}	{33.77943269617864,-117.86523342132568,Orange,CA,United States}	{Medical Center,Professional & Other Places,}
+3686	Fri Jul 29 19:10:11 +0000 2011	4a8ca52bf964a520c70e20e3	{King's Fish House}	{33.80888366271461,-117.86879978423283,Orange,CA,United States}	{Food,}
+3686	Sun Jul 24 23:23:39 +0000 2011	4bafe7a7f964a5206b2a3ce3	{Malibu Creek State Park}	{34.09637357869737,-118.7168562412262,Calabasas,CA,United States}	{Outdoors & Recreation,}
+3686	Sat Jul 23 00:27:52 +0000 2011	4bb830a253649c74fbda46fb	{Brian's Beer & Billiards}	{33.89101980635394,-117.87231354235796,Placentia,CA,United States}	{Nightlife Spot,}
+3686	Fri Jul 22 18:18:27 +0000 2011	4b4f52f9f964a520550127e3	{Avalon Bagels to Burgers}	{33.88606538,-117.863604,Placentia,CA,United States}	{Food,}
+3686	Wed Jul 20 02:30:21 +0000 2011	4c3f3fb0ff711b8dff9d0e05	{El Farolito Mexican Restaurant}	{33.870471226888284,-117.87110209465027,Placentia,CA,United States}	{Food,}
+3686	Wed Jul 13 19:45:10 +0000 2011	4b6793d5f964a520f0552be3	{Super Mex}	{33.85920888,-117.92754875,Fullerton,CA,United States}	{Food,}
+3686	Tue Jul 12 21:38:57 +0000 2011	4da5f6fd4df024212d5391bc	{SanSai Fresh Grill & Roll}	{33.874526,-117.8904894,Fullerton,CA,United States}	{Food,}
+3686	Sun Jul 10 17:55:10 +0000 2011	4bb4e08bb1edef3bae3b2cdd	{Artist Barber}	{33.87553,-117.888114,,,United States}	{Shop & Service,}
+3686	Sun Jul 10 17:55:10 +0000 2011	4bb4e08bb1edef3bae3b2cdd	{Artist Barber}	{33.87553,-117.888114,,,United States}	{Shop & Service,}
+3686	Fri Jul 08 23:57:20 +0000 2011	4d6fb1e056dea093067bc38c	{SONIC Drive In}	{33.87479404056402,-117.87923785031967,Fullerton,CA,United States}	{Food,}
+3686	Fri Jul 08 00:39:02 +0000 2011	464ef2faf964a520c2461fe3	{Stone Brewing World Bistro & Gardens}	{33.116339535974085,-117.11991745068472,Escondido,CA,United States}	{Nightlife Spot,Outdoors & Recreation,Food,}
+3686	Wed Jul 06 02:24:43 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Wed Jul 06 01:50:53 +0000 2011	4ffb37ae3d7c2dd2e14bd717	{REI}	{33.721658790389576,-117.79536734836088,Tustin,CA,United States}	{Shop & Service,}
+3686	Sun Jul 03 21:46:36 +0000 2011	4b521c1af964a520a16827e3	{Morongo Casino Resort & Spa}	{33.92215623310512,-116.8005895614624,Cabazon,CA,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+3686	Sat Jul 02 23:46:47 +0000 2011	4b241ef4f964a5208c6124e3	{Starbucks}	{33.854157,-117.83682482,Anaheim,CA,United States}	{Food,}
+3686	Fri Jul 01 21:12:45 +0000 2011	4b6ce522f964a520345c2ce3	{Pink Chopstix}	{33.87958063,-117.74372325,Yorba Linda,CA,United States}	{Food,}
+3686	Fri Jul 01 00:33:42 +0000 2011	4b1b2ef0f964a52053f923e3	{Target}	{33.88837250075928,-117.8772497177124,Fullerton,CA,United States}	{Shop & Service,}
+3686	Thu Jun 30 23:51:24 +0000 2011	4d6fb1e056dea093067bc38c	{SONIC Drive In}	{33.87479404056402,-117.87923785031967,Fullerton,CA,United States}	{Food,}
+3686	Thu Jun 30 23:38:03 +0000 2011	4c3f3fb0ff711b8dff9d0e05	{El Farolito Mexican Restaurant}	{33.870471226888284,-117.87110209465027,Placentia,CA,United States}	{Food,}
+3686	Sun Jun 26 18:41:33 +0000 2011	4cf07935c9af6dcbe737937f	{Orange Julius}	{33.938398361206055,-117.2707325220108,Moreno Valley,CA,United States}	{Food,}
+3686	Sat Jun 25 17:22:11 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Sat Jun 25 15:46:42 +0000 2011	4b65e2d7f964a52030062be3	{Denny's}	{33.86199916332781,-117.87246805459102,Placentia,CA,United States}	{Food,}
+3686	Sat Jun 25 15:46:41 +0000 2011	4b65e2d7f964a52030062be3	{Denny's}	{33.86199916332781,-117.87246805459102,Placentia,CA,United States}	{Food,}
+3686	Sat Jun 25 03:14:23 +0000 2011	4b66446df964a520651b2be3	{Sake Sushi & Grill}	{33.87858538331576,-117.84279929812988,Placentia,CA,United States}	{Food,}
+3686	Fri Jun 24 18:17:30 +0000 2011	4b4d3cb7f964a52000cf26e3	{Starbucks}	{33.777089,-117.86687144,Orange,CA,United States}	{Food,}
+3686	Thu Jun 23 05:22:34 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Sat Jun 18 12:22:22 +0000 2011	4ad0be3ef964a52081d920e3	{St. Joseph Hospital}	{33.78182258982711,-117.86394596099854,Orange,CA,United States}	{Medical Center,Professional & Other Places,}
+3686	Sat Jun 18 03:53:32 +0000 2011	4b65e2d7f964a52030062be3	{Denny's}	{33.86199916332781,-117.87246805459102,Placentia,CA,United States}	{Food,}
+3686	Sat Jun 18 00:37:48 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Fri Jun 17 01:57:41 +0000 2011	4ad64aaef964a5205a0621e3	{Philly's Best}	{33.88572301666667,-117.86331083333333,Placentia,CA,United States}	{Food,}
+3686	Fri Jun 17 01:41:19 +0000 2011	4b4a3839f964a5204d7f26e3	{Walgreens}	{33.888092,-117.864142,Placentia,CA,United States}	{Shop & Service,}
+3686	Thu Jun 16 19:57:11 +0000 2011	4b5dff64f964a520407829e3	{El Torito}	{33.88773124619451,-117.86287307739258,Placentia,CA,United States}	{Food,}
+3686	Thu Jun 16 02:38:45 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Wed Jun 15 21:47:30 +0000 2011	4b43eea6f964a52057ee25e3	{Pho 79}	{33.7524676322937,-117.955676,Garden Grove,CA,United States}	{Food,}
+3686	Wed Jun 15 21:43:25 +0000 2011	4c379c76ae2da5930534ffc5	{Pro Reflexology}	{33.751421,-117.955728,Westminster,CA,United States}	{Professional & Other Places,}
+3686	Wed Jun 15 03:40:14 +0000 2011	4cd091467561236a13082df3	{Bruxie}	{33.79137202386545,-117.85321041941643,Orange,CA,United States}	{Food,}
+3686	Tue Jun 14 19:11:35 +0000 2011	4b4f52f9f964a520550127e3	{Avalon Bagels to Burgers}	{33.88606538,-117.863604,Placentia,CA,United States}	{Food,}
+3686	Tue Jun 14 19:11:35 +0000 2011	4b4f52f9f964a520550127e3	{Avalon Bagels to Burgers}	{33.88606538,-117.863604,Placentia,CA,United States}	{Food,}
+3686	Tue Jun 14 17:47:33 +0000 2011	4d4c54291ae43704ed77f360	{Dr. Linzey's Office}	{33.78000972777198,-117.86528595813833,,,United States}	{}
+3686	Mon Jun 13 23:48:23 +0000 2011	4c36962e2c8020a1e4b08700	{Cham Sut Gol Korean BBQ}	{33.77336534348835,-117.96950423800753,Garden Grove,CA,United States}	{Food,}
+3686	Sun Jun 12 17:32:21 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Fri Jun 10 23:04:20 +0000 2011	4c82ec8ddc018cfa9485d46c	{Kabuki Japanese Restaurant}	{33.918953704626794,-117.8850975540013,Brea,CA,United States}	{Food,}
+3686	Fri Jun 10 02:52:27 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Tue Jun 07 19:03:42 +0000 2011	4b4f52f9f964a520550127e3	{Avalon Bagels to Burgers}	{33.88606538,-117.863604,Placentia,CA,United States}	{Food,}
+3686	Tue Jun 07 15:44:20 +0000 2011	4da46f92bf22a143f0b1ddf8	{Dr. Lee's Office}	{33.77984816666667,-117.864731,Orange,CA,United States}	{}
+3686	Tue Jun 07 15:44:02 +0000 2011	4a942b02f964a5209d2020e3	{St Joseph Outpatient Pavilion}	{33.77943269617864,-117.86523342132568,Orange,CA,United States}	{Medical Center,Professional & Other Places,}
+3686	Tue Jun 07 02:42:06 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Mon Jun 06 20:35:31 +0000 2011	4ad64aaef964a5205a0621e3	{Philly's Best}	{33.88572301666667,-117.86331083333333,Placentia,CA,United States}	{Food,}
+3686	Sun Jun 05 19:37:36 +0000 2011	4c82ec8ddc018cfa9485d46c	{Kabuki Japanese Restaurant}	{33.918953704626794,-117.8850975540013,Brea,CA,United States}	{Food,}
+3686	Sat Jun 04 16:59:29 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Thu Jun 02 19:27:07 +0000 2011	4bb254faa32876b04d7500fe	{Marconi Automotive Museum}	{33.72116587383385,-117.83125883333334,Tustin,CA,United States}	{Arts & Entertainment,}
+3686	Thu Jun 02 17:30:47 +0000 2011	4b7708baf964a5208c762ee3	{Yorba Country Car Wash}	{33.88882224659217,-117.82747656196314,Yorba Linda,CA,United States}	{Shop & Service,}
+3686	Thu Jun 02 17:00:42 +0000 2011	4bb4e08bb1edef3bae3b2cdd	{Artist Barber}	{33.87553,-117.888114,,,United States}	{Shop & Service,}
+3686	Tue May 31 17:35:02 +0000 2011	4ad64aaef964a5205a0621e3	{Philly's Best}	{33.88572301666667,-117.86331083333333,Placentia,CA,United States}	{Food,}
+3686	Tue May 31 17:08:58 +0000 2011	4b4d3cb7f964a52000cf26e3	{Starbucks}	{33.777089,-117.86687144,Orange,CA,United States}	{Food,}
+3686	Tue May 31 16:17:52 +0000 2011	4d4c54291ae43704ed77f360	{Dr. Linzey's Office}	{33.78000972777198,-117.86528595813833,,,United States}	{}
+3686	Tue May 31 16:17:23 +0000 2011	4a942b02f964a5209d2020e3	{St Joseph Outpatient Pavilion}	{33.77943269617864,-117.86523342132568,Orange,CA,United States}	{Medical Center,Professional & Other Places,}
+3686	Tue May 31 16:00:34 +0000 2011	4bf1bc7678cec928fac0ba86	{Union Bank Tower}	{33.77999119509105,-117.86755221206425,Orange,CA,United States}	{Professional & Other Places,}
+3686	Tue May 31 02:41:40 +0000 2011	4aba6500f964a520258120e3	{Milk + Honey}	{33.67950922277163,-117.88611307740211,Costa Mesa,CA,United States}	{Food,}
+3686	Mon May 30 22:24:32 +0000 2011	4a7355fef964a5202edc1fe3	{Tommy Bahama's Island Grille}	{33.6053612700524,-117.87455681816878,Newport Beach,CA,United States}	{Food,}
+3686	Mon May 30 17:38:23 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Sat May 28 20:55:56 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Sat May 28 01:39:36 +0000 2011	4a5d6e2ff964a520a2bd1fe3	{Cinema City Theatres}	{33.86126473413924,-117.79181775901259,Anaheim Hills,CA,United States}	{Arts & Entertainment,Movie Theater,}
+3686	Sat May 28 00:43:03 +0000 2011	4b66446df964a520651b2be3	{Sake Sushi & Grill}	{33.87858538331576,-117.84279929812988,Placentia,CA,United States}	{Food,}
+3686	Thu May 26 17:19:37 +0000 2011	4b4f52f9f964a520550127e3	{Avalon Bagels to Burgers}	{33.88606538,-117.863604,Placentia,CA,United States}	{Food,}
+3686	Thu May 26 17:19:37 +0000 2011	4b4f52f9f964a520550127e3	{Avalon Bagels to Burgers}	{33.88606538,-117.863604,Placentia,CA,United States}	{Food,}
+3686	Wed May 25 03:31:52 +0000 2011	4ad64aaef964a5205a0621e3	{Philly's Best}	{33.88572301666667,-117.86331083333333,Placentia,CA,United States}	{Food,}
+3686	Mon May 23 15:55:52 +0000 2011	4d4c54291ae43704ed77f360	{Dr. Linzey's Office}	{33.78000972777198,-117.86528595813833,,,United States}	{}
+3686	Mon May 23 15:55:19 +0000 2011	4a942b02f964a5209d2020e3	{St Joseph Outpatient Pavilion}	{33.77943269617864,-117.86523342132568,Orange,CA,United States}	{Medical Center,Professional & Other Places,}
+3686	Mon May 23 15:43:46 +0000 2011	4bf1bc7678cec928fac0ba86	{Union Bank Tower}	{33.77999119509105,-117.86755221206425,Orange,CA,United States}	{Professional & Other Places,}
+3686	Sat May 21 04:11:24 +0000 2011	4a9053e6f964a5204e1720e3	{Chipotle Mexican Grill}	{33.874549287189055,-117.89009875275809,Fullerton,CA,United States}	{Food,}
+3686	Sat May 21 01:36:22 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Thu May 19 20:46:46 +0000 2011	4ad64aaef964a5205a0621e3	{Philly's Best}	{33.88572301666667,-117.86331083333333,Placentia,CA,United States}	{Food,}
+3686	Thu May 19 18:22:24 +0000 2011	4bf1bc7678cec928fac0ba86	{Union Bank Tower}	{33.77999119509105,-117.86755221206425,Orange,CA,United States}	{Professional & Other Places,}
+3686	Thu May 19 00:53:24 +0000 2011	4d32123a2c76a143b7be6cc7	{Mother Baby Assesment Center}	{33.782671,-117.867071,Orange,CA,United States}	{Professional & Other Places,}
+3686	Thu May 19 00:35:52 +0000 2011	4bf1bc7678cec928fac0ba86	{Union Bank Tower}	{33.77999119509105,-117.86755221206425,Orange,CA,United States}	{Professional & Other Places,}
+3686	Wed May 18 17:08:50 +0000 2011	4dd3fd00d22dc96be812f6e1	{Law Offices Of Benjamin Berkley}	{33.885373,-117.925401,Fullerton,CA,United States}	{}
+3686	Wed May 18 02:53:07 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Tue May 17 03:51:45 +0000 2011	4ad64aaef964a5205a0621e3	{Philly's Best}	{33.88572301666667,-117.86331083333333,Placentia,CA,United States}	{Food,}
+3686	Tue May 17 00:44:12 +0000 2011	4b1448d0f964a52087a023e3	{CVS Pharmacy}	{33.78069836341302,-117.86778112503053,Orange,CA,United States}	{Shop & Service,}
+3686	Tue May 17 00:43:34 +0000 2011	4d32123a2c76a143b7be6cc7	{Mother Baby Assesment Center}	{33.782671,-117.867071,Orange,CA,United States}	{Professional & Other Places,}
+3686	Tue May 17 00:29:22 +0000 2011	4bf1bc7678cec928fac0ba86	{Union Bank Tower}	{33.77999119509105,-117.86755221206425,Orange,CA,United States}	{Professional & Other Places,}
+3686	Mon May 16 17:05:33 +0000 2011	4b241ef4f964a5208c6124e3	{Starbucks}	{33.854157,-117.83682482,Anaheim,CA,United States}	{Food,}
+3686	Mon May 16 16:07:59 +0000 2011	4d4c54291ae43704ed77f360	{Dr. Linzey's Office}	{33.78000972777198,-117.86528595813833,,,United States}	{}
+3686	Mon May 16 16:06:07 +0000 2011	4a942b02f964a5209d2020e3	{St Joseph Outpatient Pavilion}	{33.77943269617864,-117.86523342132568,Orange,CA,United States}	{Medical Center,Professional & Other Places,}
+3686	Mon May 16 15:33:30 +0000 2011	4bf1bc7678cec928fac0ba86	{Union Bank Tower}	{33.77999119509105,-117.86755221206425,Orange,CA,United States}	{Professional & Other Places,}
+3686	Mon May 16 04:14:37 +0000 2011	4d6fb1e056dea093067bc38c	{SONIC Drive In}	{33.87479404056402,-117.87923785031967,Fullerton,CA,United States}	{Food,}
+3686	Sun May 15 18:05:05 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Sun May 15 01:49:11 +0000 2011	4aeca21af964a520afc921e3	{Pacific Whey Cafe}	{33.69240585785874,-117.89273662917796,Costa Mesa,CA,United States}	{Food,}
+3686	Sun May 15 01:48:35 +0000 2011	4aac01c5f964a5208e5b20e3	{Paper Source}	{33.69240613706554,-117.89280529356053,Costa Mesa,CA,United States}	{Shop & Service,}
+3686	Sat May 14 04:07:26 +0000 2011	4b05b16af964a52016e122e3	{Daily Grill - Irvine}	{33.6687469278737,-117.85231590270996,Irvine,CA,United States}	{Nightlife Spot,Food,}
+3686	Fri May 13 23:07:25 +0000 2011	4c77faee566db60c140c400e	{Dr. Frank Yoon}	{33.79171161666667,-117.83526568333333,Orange,CA,United States}	{Professional & Other Places,}
+3686	Fri May 13 20:38:40 +0000 2011	4b2ea6b8f964a52053e424e3	{Pei Wei Asian Diner}	{33.69553242308622,-117.82779514789581,Tustin,CA,United States}	{Food,}
+3686	Fri May 13 17:03:12 +0000 2011	4c77faee566db60c140c400e	{Dr. Frank Yoon}	{33.79171161666667,-117.83526568333333,Orange,CA,United States}	{Professional & Other Places,}
+3686	Thu May 12 23:16:54 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Thu May 12 02:14:57 +0000 2011	4d32123a2c76a143b7be6cc7	{Mother Baby Assesment Center}	{33.782671,-117.867071,Orange,CA,United States}	{Professional & Other Places,}
+3686	Thu May 12 02:14:57 +0000 2011	4d32123a2c76a143b7be6cc7	{Mother Baby Assesment Center}	{33.782671,-117.867071,Orange,CA,United States}	{Professional & Other Places,}
+3686	Sun May 08 18:01:56 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Sat May 07 20:08:58 +0000 2011	4b4f52f9f964a520550127e3	{Avalon Bagels to Burgers}	{33.88606538,-117.863604,Placentia,CA,United States}	{Food,}
+3686	Sat May 07 15:13:31 +0000 2011	4b65d8b2f964a520ad032be3	{Yorba Regional Park}	{33.87072,-117.762982,Anaheim,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+3686	Sat May 07 02:46:49 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Sat May 07 01:11:30 +0000 2011	4b66446df964a520651b2be3	{Sake Sushi & Grill}	{33.87858538331576,-117.84279929812988,Placentia,CA,United States}	{Food,}
+3686	Sat May 07 01:11:30 +0000 2011	4b66446df964a520651b2be3	{Sake Sushi & Grill}	{33.87858538331576,-117.84279929812988,Placentia,CA,United States}	{Food,}
+3686	Fri May 06 23:30:17 +0000 2011	4bf1bc7678cec928fac0ba86	{Union Bank Tower}	{33.77999119509105,-117.86755221206425,Orange,CA,United States}	{Professional & Other Places,}
+3686	Thu May 05 19:25:06 +0000 2011	4c406345e26920a172c55ce7	{Ford/ Mazda Of Orange}	{33.80765176678262,-117.86645914867387,Orange,CA,United States}	{Shop & Service,}
+3686	Thu May 05 03:53:02 +0000 2011	4ad64aaef964a5205a0621e3	{Philly's Best}	{33.88572301666667,-117.86331083333333,Placentia,CA,United States}	{Food,}
+3686	Thu May 05 00:50:42 +0000 2011	4d32123a2c76a143b7be6cc7	{Mother Baby Assesment Center}	{33.782671,-117.867071,Orange,CA,United States}	{Professional & Other Places,}
+3686	Thu Apr 28 02:39:18 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Thu Apr 28 00:00:37 +0000 2011	45428531f964a5205a3c1fe3	{Stadium Tavern}	{33.87245017,-117.92510841666666,Fullerton,CA,United States}	{Nightlife Spot,}
+3686	Wed Apr 27 02:25:05 +0000 2011	4b155044f964a5203db023e3	{Angel Stadium of Anaheim}	{33.80002327603627,-117.88301914930344,Anaheim,CA,United States}	{Stadium,Arts & Entertainment,}
+3686	Tue Apr 26 18:00:58 +0000 2011	4ad64aaef964a5205a0621e3	{Philly's Best}	{33.88572301666667,-117.86331083333333,Placentia,CA,United States}	{Food,}
+3686	Tue Apr 26 02:42:07 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Sun Apr 24 03:27:37 +0000 2011	4b7615bff964a520a43b2ee3	{Meritage Wine Tasting Lounge}	{35.625774,-120.689437,Paso Robles,CA,United States}	{Nightlife Spot,}
+3686	Sun Apr 24 01:51:41 +0000 2011	4b6f931ff964a5207ef62ce3	{Cool Hand Luke's Steak House & Saloon}	{35.62622148145905,-120.68730354309082,Paso Robles,CA,United States}	{Food,}
+3686	Sat Apr 23 16:31:11 +0000 2011	4adcea6df964a520806221e3	{Graveyard Vineyards}	{35.7180757,-120.61623328561993,San Miguel,CA,United States}	{Food,}
+3686	Sat Apr 23 05:24:03 +0000 2011	4b6f9232f964a5204ef62ce3	{Bernick's Steakhouse}	{35.6280068591577,-120.68923287646717,Paso Robles,CA,United States}	{Nightlife Spot,Food,}
+3686	Sat Apr 23 03:44:47 +0000 2011	4bc92b1fb6c49c74ad188e91	{Mondo Cellars}	{35.68381905555725,-120.753373,Paso Robles,CA,United States}	{Nightlife Spot,}
+3686	Fri Apr 22 21:35:23 +0000 2011	4a9e8fe0f964a5206c3a20e3	{Di Raimondos Italian Market}	{35.62775015830994,-120.6896424293518,Paso Robles,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+3686	Fri Apr 22 20:39:25 +0000 2011	4b6f826af964a520a1f32ce3	{Pianetta Winery}	{35.62794,-120.689388,Paso Robles,CA,United States}	{Food,}
+3686	Fri Apr 22 20:05:15 +0000 2011	4b887418f964a52004f931e3	{Clayhouse Wines}	{35.62798661666667,-120.68908955,Paso Robles,CA,United States}	{Food,}
+3686	Fri Apr 22 19:30:48 +0000 2011	4b6f9939f964a52063f72ce3	{Red Scooter Deli}	{35.62592,-120.6887752,Paso Robles,CA,United States}	{Food,}
+3686	Thu Apr 21 22:03:06 +0000 2011	4c406345e26920a172c55ce7	{Ford/ Mazda Of Orange}	{33.80765176678262,-117.86645914867387,Orange,CA,United States}	{Shop & Service,}
+3686	Thu Apr 21 20:54:37 +0000 2011	4b7708baf964a5208c762ee3	{Yorba Country Car Wash}	{33.88882224659217,-117.82747656196314,Yorba Linda,CA,United States}	{Shop & Service,}
+3686	Thu Apr 21 05:33:52 +0000 2011	4bb830a253649c74fbda46fb	{Brian's Beer & Billiards}	{33.89101980635394,-117.87231354235796,Placentia,CA,United States}	{Nightlife Spot,}
+3686	Thu Apr 21 02:44:41 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Tue Apr 19 23:09:39 +0000 2011	4cd091467561236a13082df3	{Bruxie}	{33.79137202386545,-117.85321041941643,Orange,CA,United States}	{Food,}
+3686	Tue Apr 19 03:47:36 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Mon Apr 18 01:13:49 +0000 2011	4b1d8279f964a5207f1124e3	{Nello Cucina}	{33.69245946749698,-117.8922700881958,Costa Mesa,CA,United States}	{Nightlife Spot,Food,}
+3686	Mon Apr 18 01:12:46 +0000 2011	4aac01c5f964a5208e5b20e3	{Paper Source}	{33.69240613706554,-117.89280529356053,Costa Mesa,CA,United States}	{Shop & Service,}
+3686	Mon Apr 18 01:11:40 +0000 2011	45a9d338f964a52025411fe3	{South Coast Plaza}	{33.69101333272498,-117.88911581039427,Costa Mesa,CA,United States}	{Shop & Service,}
+3686	Sun Apr 17 00:52:34 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Sat Apr 16 17:37:11 +0000 2011	4b5f6daef964a520b4b929e3	{Office Depot}	{33.87524159738988,-117.88871971746404,Fullerton,CA,United States}	{Shop & Service,}
+3686	Sat Apr 16 17:34:33 +0000 2011	4ab1141ef964a520f76720e3	{Panera Bread}	{33.87529707992748,-117.88905143737793,Fullerton,CA,United States}	{Food,}
+3686	Sat Apr 16 02:45:27 +0000 2011	4c82ec8ddc018cfa9485d46c	{Kabuki Japanese Restaurant}	{33.918953704626794,-117.8850975540013,Brea,CA,United States}	{Food,}
+3686	Fri Apr 15 01:12:16 +0000 2011	4af5d726f964a520a0fd21e3	{Q-tortas}	{33.86972949878122,-117.87106027160875,Placentia,CA,United States}	{Food,}
+3686	Fri Apr 15 00:46:20 +0000 2011	4c50a174250dd13aedaee27b	{76 / Circle K}	{33.876122298723296,-117.84287942859558,Placentia,CA,United States}	{Shop & Service,}
+3686	Thu Apr 14 02:41:56 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Tue Apr 12 19:07:07 +0000 2011	4adf6d11f964a520727a21e3	{Kaffa!}	{33.78128754480386,-117.86836624145508,Orange,CA,United States}	{Food,}
+3686	Tue Apr 12 15:28:59 +0000 2011	4da46f92bf22a143f0b1ddf8	{Dr. Lee's Office}	{33.77984816666667,-117.864731,Orange,CA,United States}	{}
+3686	Tue Apr 12 15:27:35 +0000 2011	4a942b02f964a5209d2020e3	{St Joseph Outpatient Pavilion}	{33.77943269617864,-117.86523342132568,Orange,CA,United States}	{Medical Center,Professional & Other Places,}
+3686	Sun Apr 10 17:18:13 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Sun Apr 10 05:05:18 +0000 2011	4a5d6e2ff964a520a2bd1fe3	{Cinema City Theatres}	{33.86126473413924,-117.79181775901259,Anaheim Hills,CA,United States}	{Arts & Entertainment,Movie Theater,}
+3686	Sun Apr 10 02:45:11 +0000 2011	4cd091467561236a13082df3	{Bruxie}	{33.79137202386545,-117.85321041941643,Orange,CA,United States}	{Food,}
+3686	Sat Apr 09 20:04:20 +0000 2011	4ad64aaef964a5205a0621e3	{Philly's Best}	{33.88572301666667,-117.86331083333333,Placentia,CA,United States}	{Food,}
+3686	Thu Apr 07 15:40:57 +0000 2011	4b4f52f9f964a520550127e3	{Avalon Bagels to Burgers}	{33.88606538,-117.863604,Placentia,CA,United States}	{Food,}
+3686	Thu Apr 07 15:24:41 +0000 2011	4b241ef4f964a5208c6124e3	{Starbucks}	{33.854157,-117.83682482,Anaheim,CA,United States}	{Food,}
+3686	Wed Apr 06 18:07:59 +0000 2011	4b241ef4f964a5208c6124e3	{Starbucks}	{33.854157,-117.83682482,Anaheim,CA,United States}	{Food,}
+3686	Wed Apr 06 17:48:05 +0000 2011	4a860b1cf964a5202b0020e3	{Best Buy}	{33.82801879,-117.83458,Orange,CA,United States}	{Shop & Service,}
+3686	Wed Apr 06 03:11:50 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Mon Apr 04 23:02:13 +0000 2011	4ad64aaef964a5205a0621e3	{Philly's Best}	{33.88572301666667,-117.86331083333333,Placentia,CA,United States}	{Food,}
+3686	Mon Apr 04 23:01:30 +0000 2011	4b4a3839f964a5204d7f26e3	{Walgreens}	{33.888092,-117.864142,Placentia,CA,United States}	{Shop & Service,}
+3686	Mon Apr 04 20:51:06 +0000 2011	4d4c54291ae43704ed77f360	{Dr. Linzey's Office}	{33.78000972777198,-117.86528595813833,,,United States}	{}
+3686	Mon Apr 04 20:50:32 +0000 2011	4a942b02f964a5209d2020e3	{St Joseph Outpatient Pavilion}	{33.77943269617864,-117.86523342132568,Orange,CA,United States}	{Medical Center,Professional & Other Places,}
+3686	Sun Apr 03 21:46:32 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Sun Apr 03 18:54:45 +0000 2011	49e76cc2f964a520a0641fe3	{Starbucks}	{34.155857,-118.75659906666667,Agoura Hills,CA,United States}	{Food,}
+3686	Sun Apr 03 05:58:29 +0000 2011	4b1ae736f964a52055f423e3	{Sheraton Agoura Hills Hotel}	{34.14447651928131,-118.7792343189874,Agoura Hills,CA,United States}	{Travel & Transport,Outdoors & Recreation,Hotel,}
+3686	Sat Apr 02 23:46:56 +0000 2011	4bbd1ee94e069c74c0679ee3	{Malibu West Beach Club}	{34.030424891507664,-118.8438481092453,Malibu,CA,United States}	{Outdoors & Recreation,}
+3686	Sat Apr 02 22:06:10 +0000 2011	4b1ae736f964a52055f423e3	{Sheraton Agoura Hills Hotel}	{34.14447651928131,-118.7792343189874,Agoura Hills,CA,United States}	{Travel & Transport,Outdoors & Recreation,Hotel,}
+3686	Sat Apr 02 15:03:50 +0000 2011	4b4f52f9f964a520550127e3	{Avalon Bagels to Burgers}	{33.88606538,-117.863604,Placentia,CA,United States}	{Food,}
+3686	Sat Apr 02 14:09:04 +0000 2011	4a2f650bf964a520c5981fe3	{Long Beach Airport (LGB)}	{33.81851869758065,-118.1443977355957,Long Beach,CA,United States}	{Travel & Transport,}
+3686	Sat Apr 02 12:51:29 +0000 2011	4cb5b96c52edb1f79f4c69fe	{30,000 feet...}	{37.612949,-122.38429,San Francisco,CA,United States}	{Travel & Transport,Airport,}
+3686	Sat Apr 02 12:06:05 +0000 2011	4ba3a3b1f964a520ce4e38e3	{Gate A1}	{37.61372149050774,-122.38842487335205,San Francisco,CA,United States}	{Travel & Transport,Airport,}
+3686	Sat Apr 02 12:00:22 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+3686	Sat Apr 02 03:28:07 +0000 2011	4b9313b4f964a5205c3334e3	{Freedom Hall & Gardens}	{37.38835192812261,-121.97178066584333,Santa Clara,CA,United States}	{Professional & Other Places,}
+3686	Fri Apr 01 19:14:26 +0000 2011	466bfdecf964a520ae471fe3	{Pedro's}	{37.38507949847186,-121.97080320733536,Santa Clara,CA,United States}	{Food,}
+3686	Fri Apr 01 16:04:04 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+3686	Fri Apr 01 14:35:42 +0000 2011	4bdf7fed0ee3a593ba9634b0	{Gate 3}	{33.81737893075319,-118.14532871001344,Long Beach,CA,United States}	{Travel & Transport,Airport,}
+3686	Fri Apr 01 14:02:11 +0000 2011	4a2f650bf964a520c5981fe3	{Long Beach Airport (LGB)}	{33.81851869758065,-118.1443977355957,Long Beach,CA,United States}	{Travel & Transport,}
+3686	Fri Apr 01 01:44:10 +0000 2011	4c33afec452620a10d02240f	{Lexus Dugout Club}	{34.07323294622204,-118.24028670787811,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+3686	Fri Apr 01 01:41:48 +0000 2011	40db6b00f964a5207d011fe3	{Dodger Stadium}	{34.073408462960174,-118.24019819498062,Los Angeles,CA,United States}	{Outdoors & Recreation,Stadium,Arts & Entertainment,Athletics & Sports,}
+3686	Thu Mar 31 22:04:31 +0000 2011	4b241ef4f964a5208c6124e3	{Starbucks}	{33.854157,-117.83682482,Anaheim,CA,United States}	{Food,}
+3686	Tue Mar 29 21:18:55 +0000 2011	4ad64aaef964a5205a0621e3	{Philly's Best}	{33.88572301666667,-117.86331083333333,Placentia,CA,United States}	{Food,}
+3686	Tue Mar 29 19:22:53 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Tue Mar 29 02:50:53 +0000 2011	4ba6bf31f964a520126d39e3	{Cold Stone Creamery}	{33.85890543966268,-117.79214859008789,Anaheim,CA,United States}	{Food,}
+3686	Tue Mar 29 01:42:29 +0000 2011	4b0218d4f964a520b34722e3	{Thai House - Anaheim Hills}	{33.85926790152696,-117.79194371335564,Anaheim,CA,United States}	{Food,}
+3686	Sun Mar 27 17:28:20 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Sun Mar 27 01:49:51 +0000 2011	4ad64aaef964a5205a0621e3	{Philly's Best}	{33.88572301666667,-117.86331083333333,Placentia,CA,United States}	{Food,}
+3686	Sat Mar 26 18:51:50 +0000 2011	4d8d0e0dd265236afa70e916	{Pit Road Auto Club Speedway}	{34.087125167919915,-117.4985261851037,Fontana,CA,United States}	{Arts & Entertainment,}
+3686	Sat Mar 26 16:28:49 +0000 2011	4bb4e08bb1edef3bae3b2cdd	{Artist Barber}	{33.87553,-117.888114,,,United States}	{Shop & Service,}
+3686	Sat Mar 26 16:28:49 +0000 2011	4bb4e08bb1edef3bae3b2cdd	{Artist Barber}	{33.87553,-117.888114,,,United States}	{Shop & Service,}
+3686	Sat Mar 26 00:26:50 +0000 2011	4b66446df964a520651b2be3	{Sake Sushi & Grill}	{33.87858538331576,-117.84279929812988,Placentia,CA,United States}	{Food,}
+3686	Fri Mar 25 02:38:07 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Fri Mar 25 02:38:06 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Tue Mar 22 04:13:30 +0000 2011	4bb830a253649c74fbda46fb	{Brian's Beer & Billiards}	{33.89101980635394,-117.87231354235796,Placentia,CA,United States}	{Nightlife Spot,}
+3686	Tue Mar 22 03:04:29 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Sun Mar 20 22:08:19 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Sat Mar 19 17:37:49 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Fri Mar 18 04:10:23 +0000 2011	4b75b080f964a520341d2ee3	{Renaissance Bistro}	{33.91902240709057,-117.88589715957642,Brea,CA,United States}	{Food,}
+3686	Tue Mar 15 22:22:22 +0000 2011	4ad64aaef964a5205a0621e3	{Philly's Best}	{33.88572301666667,-117.86331083333333,Placentia,CA,United States}	{Food,}
+3686	Tue Mar 15 22:22:22 +0000 2011	4ad64aaef964a5205a0621e3	{Philly's Best}	{33.88572301666667,-117.86331083333333,Placentia,CA,United States}	{Food,}
+3686	Tue Mar 15 19:15:46 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Mon Mar 14 02:07:55 +0000 2011	4b88346af964a52042e731e3	{Los Gallos}	{33.8684302,-117.82955121,Placentia,CA,United States}	{Food,}
+3686	Mon Mar 14 00:31:47 +0000 2011	4be75076d4f7c9b636c22720	{St. Martin de Porres Catholic Church}	{33.8893379465085,-117.79021469620213,Yorba Linda,CA,United States}	{Spiritual Center,Professional & Other Places,}
+3686	Sun Mar 13 18:59:52 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Sat Mar 12 19:49:09 +0000 2011	4bae7c50f964a52043b83be3	{The Yost Theater}	{33.74747234114662,-117.86552059685133,Santa Ana,CA,United States}	{Arts & Entertainment,}
+3686	Sat Mar 12 04:35:12 +0000 2011	4a6b36e8f964a5202dce1fe3	{The Slidebar Rock-N-Roll Kitchen}	{33.869977569036486,-117.92320388566755,Fullerton,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+3686	Thu Mar 10 02:52:38 +0000 2011	4a961998f964a520042620e3	{Il Fornaio (Irvine)}	{33.679740717357994,-117.85285539643392,Irvine,CA,United States}	{Food,}
+3686	Thu Mar 10 01:35:48 +0000 2011	4be75076d4f7c9b636c22720	{St. Martin de Porres Catholic Church}	{33.8893379465085,-117.79021469620213,Yorba Linda,CA,United States}	{Spiritual Center,Professional & Other Places,}
+3686	Tue Mar 08 20:49:24 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Tue Mar 08 19:28:53 +0000 2011	4b66446df964a520651b2be3	{Sake Sushi & Grill}	{33.87858538331576,-117.84279929812988,Placentia,CA,United States}	{Food,}
+3686	Tue Mar 08 03:59:21 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Mon Mar 07 23:38:48 +0000 2011	4ad64aaef964a5205a0621e3	{Philly's Best}	{33.88572301666667,-117.86331083333333,Placentia,CA,United States}	{Food,}
+3686	Mon Mar 07 22:08:59 +0000 2011	4d4c54291ae43704ed77f360	{Dr. Linzey's Office}	{33.78000972777198,-117.86528595813833,,,United States}	{}
+3686	Mon Mar 07 22:08:15 +0000 2011	4a942b02f964a5209d2020e3	{St Joseph Outpatient Pavilion}	{33.77943269617864,-117.86523342132568,Orange,CA,United States}	{Medical Center,Professional & Other Places,}
+3686	Mon Mar 07 01:20:25 +0000 2011	4bc797d015a7ef3b25b879da	{Shell}	{33.8451294,-117.22518968333333,Perris,CA,United States}	{Shop & Service,}
+3686	Sun Mar 06 04:37:10 +0000 2011	4c88291da0ffb60cc61c20c5	{Blondies Sports Bar}	{33.4254977192277,-111.9399207937907,Tempe,AZ,United States}	{Nightlife Spot,Food,}
+3686	Sun Mar 06 01:27:00 +0000 2011	413ba880f964a5205f1b1fe3	{Fat Tuesday}	{33.423792551432996,-111.9404447850343,Tempe,AZ,United States}	{Nightlife Spot,}
+3686	Sat Mar 05 23:59:26 +0000 2011	4b7397caf964a5204eb52de3	{Four Points by Sheraton Tempe}	{33.41378283626561,-111.92572832107544,Tempe,AZ,United States}	{Travel & Transport,}
+3686	Sat Mar 05 23:59:26 +0000 2011	4b7397caf964a5204eb52de3	{Four Points by Sheraton Tempe}	{33.41378283626561,-111.92572832107544,Tempe,AZ,United States}	{Travel & Transport,}
+3686	Sat Mar 05 20:52:15 +0000 2011	472f0b7ff964a520104c1fe3	{Phoenix Municipal Stadium}	{33.44894629862417,-111.95536941289902,Phoenix,AZ,United States}	{Stadium,Arts & Entertainment,}
+3686	Sat Mar 05 19:09:14 +0000 2011	413ba880f964a520f11a1fe3	{Alice Cooper'stown Rock and Roll Sports Grill}	{33.44480599361292,-112.07222518313434,Phoenix,AZ,United States}	{Nightlife Spot,Food,}
+3686	Sat Mar 05 03:11:33 +0000 2011	4a42d5e9f964a5204aa61fe3	{R?la B?la Irish Pub and Restaurant}	{33.426437836021115,-111.93960057688142,Tempe,AZ,United States}	{Nightlife Spot,Food,}
+3686	Fri Mar 04 23:48:02 +0000 2011	4b7397caf964a5204eb52de3	{Four Points by Sheraton Tempe}	{33.41378283626561,-111.92572832107544,Tempe,AZ,United States}	{Travel & Transport,}
+3686	Fri Mar 04 23:14:58 +0000 2011	4a2ff0b0f964a520f3981fe3	{Sheraton Phoenix Airport Hotel Tempe}	{33.410997175158954,-111.970236466542,Tempe,AZ,United States}	{Travel & Transport,}
+3686	Fri Mar 04 19:08:47 +0000 2011	4ad9dbabf964a5205a1b21e3	{Tempe Diablo Stadium}	{33.40079411525116,-111.97091549634933,Tempe,AZ,United States}	{Stadium,Arts & Entertainment,}
+3686	Fri Mar 04 18:50:11 +0000 2011	4a2ff0b0f964a520f3981fe3	{Sheraton Phoenix Airport Hotel Tempe}	{33.410997175158954,-111.970236466542,Tempe,AZ,United States}	{Travel & Transport,}
+3686	Thu Mar 03 22:59:32 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Tue Mar 01 20:15:50 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Sun Feb 27 21:07:21 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Sun Feb 27 18:14:17 +0000 2011	4b730b21f964a520c5972de3	{Bonjour Cafe}	{33.46560471,-117.699691,Dana Point,CA,United States}	{Food,}
+3686	Sun Feb 27 03:28:35 +0000 2011	4b761f31f964a5202f3e2ee3	{Marrakesh}	{33.645344451779,-117.9141929792823,Costa Mesa,CA,United States}	{Food,}
+3686	Sat Feb 26 21:21:59 +0000 2011	4ad64aaef964a5205a0621e3	{Philly's Best}	{33.88572301666667,-117.86331083333333,Placentia,CA,United States}	{Food,}
+3686	Sat Feb 26 21:21:13 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Sat Feb 26 19:04:33 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Sat Feb 26 03:38:50 +0000 2011	4b9fe6c4f964a520f44837e3	{Scott's Restaurant & Bar}	{33.69099965231054,-117.88513760991746,Costa Mesa,CA,United States}	{Nightlife Spot,Food,}
+3686	Fri Feb 25 21:31:44 +0000 2011	4d681f95a800721efdd717b8	{Weickert, Allison And Jeter}	{34.07553575885842,-117.86044718252812,,,United States}	{Residence,}
+3686	Fri Feb 25 20:22:06 +0000 2011	4b3d0fadf964a520158d25e3	{Hooters of West Covina}	{34.07283525505212,-117.88008213043213,West Covina,CA,United States}	{Nightlife Spot,Food,}
+3686	Thu Feb 24 23:09:40 +0000 2011	4b4a3839f964a5204d7f26e3	{Walgreens}	{33.888092,-117.864142,Placentia,CA,United States}	{Shop & Service,}
+3686	Thu Feb 24 23:08:51 +0000 2011	47f8df62f964a520c64e1fe3	{Pick Up Stix}	{33.88819303333333,-117.86443108333333,Placentia,CA,United States}	{Food,}
+3686	Wed Feb 23 02:17:49 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Mon Feb 21 22:25:21 +0000 2011	4b204edcf964a520663024e3	{The Home Depot}	{33.8713212324955,-117.74984463931254,Anaheim,CA,United States}	{Shop & Service,}
+3686	Mon Feb 21 20:30:09 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Sun Feb 20 20:39:23 +0000 2011	4af638e5f964a520640222e3	{ChaCha's}	{33.91868173273726,-117.90052987019378,Brea,CA,United States}	{Food,}
+3686	Sun Feb 20 00:57:45 +0000 2011	4b625bdbf964a52018442ae3	{Star BBQ}	{33.774133463257726,-117.98734275254832,Garden Grove,CA,United States}	{Food,}
+3686	Sat Feb 19 23:10:01 +0000 2011	49bd9bbcf964a5208a541fe3	{SONIC Drive In}	{33.85862479450807,-117.91936039924622,Anaheim,CA,United States}	{Food,}
+3686	Sat Feb 19 22:46:25 +0000 2011	4b9e59e6f964a5200adc36e3	{Robbins Brothers}	{33.85973908,-117.927442,Fullerton,CA,United States}	{Shop & Service,}
+3686	Sat Feb 19 02:32:35 +0000 2011	4a95b776f964a520412420e3	{Edwards Brea Stadium West 10}	{33.919120340898324,-117.90096044540405,Brea,CA,United States}	{Arts & Entertainment,Movie Theater,}
+3686	Sat Feb 19 01:27:56 +0000 2011	4ab43114f964a5204e7020e3	{Thai Basil Restaurant}	{33.875154557490475,-117.8884506225586,Fullerton,CA,United States}	{Food,}
+3686	Thu Feb 17 20:58:20 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Thu Feb 17 01:56:30 +0000 2011	4c3a2b12ae2da5935ecd03c6	{The Winery At Main Street}	{33.89059773743284,-117.81429924110299,Yorba Linda,CA,United States}	{Food,}
+3686	Wed Feb 16 02:36:39 +0000 2011	4cfdd533c51fa1cdd340f32b	{Rock City Climbing Gym}	{33.858535,-117.80658346,Anaheim,CA,United States}	{College & University,}
+3686	Tue Feb 15 20:38:01 +0000 2011	4b620220f964a52040302ae3	{Loving Hut}	{33.78524944,-117.83534824848175,Orange,CA,United States}	{Food,}
+3686	Tue Feb 15 19:48:43 +0000 2011	4b4d3cb7f964a52000cf26e3	{Starbucks}	{33.777089,-117.86687144,Orange,CA,United States}	{Food,}
+3686	Tue Feb 15 16:40:29 +0000 2011	4a942b02f964a5209d2020e3	{St Joseph Outpatient Pavilion}	{33.77943269617864,-117.86523342132568,Orange,CA,United States}	{Medical Center,Professional & Other Places,}
+3686	Tue Feb 15 03:39:53 +0000 2011	4b0868fff964a5203f0b23e3	{Fitness Pizza & Grill}	{33.88972033333334,-117.815579,Yorba Linda,CA,United States}	{Food,}
+3686	Mon Feb 14 23:17:22 +0000 2011	4c717afcd97fa1433206f9ca	{Rock City}	{33.858545,-117.806574,Anaheim,CA,United States}	{Outdoors & Recreation,}
+3686	Mon Feb 14 20:59:00 +0000 2011	4adf6d11f964a520727a21e3	{Kaffa!}	{33.78128754480386,-117.86836624145508,Orange,CA,United States}	{Food,}
+3686	Mon Feb 14 20:29:37 +0000 2011	4bf1bc7678cec928fac0ba86	{Union Bank Tower}	{33.77999119509105,-117.86755221206425,Orange,CA,United States}	{Professional & Other Places,}
+3686	Mon Feb 14 17:52:45 +0000 2011	4c0fd512ce640f47d8f43852	{Taylor Graphics}	{33.700895,-117.845698,Irvine,CA,United States}	{}
+3686	Mon Feb 14 17:52:45 +0000 2011	4c0fd512ce640f47d8f43852	{Taylor Graphics}	{33.700895,-117.845698,Irvine,CA,United States}	{}
+3686	Mon Feb 14 00:14:45 +0000 2011	4ffb37ae3d7c2dd2e14bd717	{REI}	{33.721658790389576,-117.79536734836088,Tustin,CA,United States}	{Shop & Service,}
+3686	Sun Feb 13 22:50:33 +0000 2011	4b339db8f964a520841b25e3	{Tustin Ranch Golf Club}	{33.74047159791936,-117.78429508209229,Tustin,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+3686	Sat Feb 12 20:37:09 +0000 2011	4c717afcd97fa1433206f9ca	{Rock City}	{33.858545,-117.806574,Anaheim,CA,United States}	{Outdoors & Recreation,}
+3686	Sat Feb 12 04:50:05 +0000 2011	4b36c98ef964a520693c25e3	{Gulfstream}	{33.604945,-117.874059,Newport Beach,CA,United States}	{Food,}
+3686	Fri Feb 11 17:59:23 +0000 2011	4c813654d8086dcbddb76a52	{Archstone}	{33.87002751756898,-117.83467159668322,Placentia,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+3686	Thu Feb 10 20:39:39 +0000 2011	4ae20de6f964a520398a21e3	{Mattern Sausage & Deli}	{33.78795262,-117.80711545,Orange,CA,United States}	{Food,}
+3686	Thu Feb 10 19:55:11 +0000 2011	4bf1bc7678cec928fac0ba86	{Union Bank Tower}	{33.77999119509105,-117.86755221206425,Orange,CA,United States}	{Professional & Other Places,}
+3686	Thu Feb 10 18:17:35 +0000 2011	4d542b91b3d9a35d0aa6ca7b	{BJ Bindery}	{33.736879,-117.84884,,,United States}	{}
+3686	Wed Feb 09 04:08:12 +0000 2011	4b5dff64f964a520407829e3	{El Torito}	{33.88773124619451,-117.86287307739258,Placentia,CA,United States}	{Food,}
+3686	Wed Feb 09 02:17:12 +0000 2011	4c813654d8086dcbddb76a52	{Archstone}	{33.87002751756898,-117.83467159668322,Placentia,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+3686	Tue Feb 08 21:59:27 +0000 2011	4c0fd512ce640f47d8f43852	{Taylor Graphics}	{33.700895,-117.845698,Irvine,CA,United States}	{}
+3686	Tue Feb 08 20:53:32 +0000 2011	4aa46276f964a520a84620e3	{The Winery Restaurant}	{33.69695946628539,-117.82731628747975,Tustin,CA,United States}	{Nightlife Spot,Music Venue,Food,Arts & Entertainment,}
+3686	Tue Feb 08 19:44:47 +0000 2011	4c0fd512ce640f47d8f43852	{Taylor Graphics}	{33.700895,-117.845698,Irvine,CA,United States}	{}
+3686	Tue Feb 08 04:12:23 +0000 2011	4c813654d8086dcbddb76a52	{Archstone}	{33.87002751756898,-117.83467159668322,Placentia,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+3686	Mon Feb 07 19:26:03 +0000 2011	4adf6d11f964a520727a21e3	{Kaffa!}	{33.78128754480386,-117.86836624145508,Orange,CA,United States}	{Food,}
+3686	Mon Feb 07 18:50:18 +0000 2011	4d4c54291ae43704ed77f360	{Dr. Linzey's Office}	{33.78000972777198,-117.86528595813833,,,United States}	{}
+3686	Mon Feb 07 18:50:18 +0000 2011	4d4c54291ae43704ed77f360	{Dr. Linzey's Office}	{33.78000972777198,-117.86528595813833,,,United States}	{}
+3686	Mon Feb 07 03:31:00 +0000 2011	4c813654d8086dcbddb76a52	{Archstone}	{33.87002751756898,-117.83467159668322,Placentia,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+3686	Sun Feb 06 00:25:47 +0000 2011	4bee2a592c082d7fc8293042	{I-10 / I-405 Interchange}	{34.03123400697286,-118.433518409729,Los Angeles,CA,United States}	{Travel & Transport,}
+3686	Sat Feb 05 22:13:13 +0000 2011	40a6af00f964a52027f31ee3	{Los Angeles County Museum of Art (LACMA)}	{34.063263442961286,-118.35897445678711,Los Angeles,CA,United States}	{Museum,Arts & Entertainment,}
+3686	Sat Feb 05 21:27:55 +0000 2011	4d07deae6a19236a5ff5eb3f	{Pentimento}	{34.06331755,-118.358022,,CA,United States}	{Food,}
+3686	Sat Feb 05 20:04:54 +0000 2011	40a6af00f964a52027f31ee3	{Los Angeles County Museum of Art (LACMA)}	{34.063263442961286,-118.35897445678711,Los Angeles,CA,United States}	{Museum,Arts & Entertainment,}
+3686	Sat Feb 05 05:55:37 +0000 2011	4a8dcac5f964a520e11020e3	{Twisted Vine}	{33.870617960223136,-117.92556667097868,Fullerton,CA,United States}	{Nightlife Spot,}
+3686	Sat Feb 05 04:35:38 +0000 2011	4a8f5647f964a520f51420e3	{The Bruery}	{33.86197020290518,-117.8792667388916,Placentia,CA,United States}	{Nightlife Spot,}
+3686	Sat Feb 05 03:44:33 +0000 2011	4bbcdf42078095213de0d991	{Crepes Bonaparte Truck}	{33.887517493601685,-118.06182861328125,Southern California,CA,United States}	{Food,}
+3686	Sat Feb 05 01:49:36 +0000 2011	4c813654d8086dcbddb76a52	{Archstone}	{33.87002751756898,-117.83467159668322,Placentia,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+3686	Sat Feb 05 01:49:36 +0000 2011	4c813654d8086dcbddb76a52	{Archstone}	{33.87002751756898,-117.83467159668322,Placentia,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+3686	Fri Feb 04 21:55:09 +0000 2011	4bcf2a38aeedef3b2547c598	{Fritz the Printer}	{33.922798,-117.902172,,CA,United States}	{Professional & Other Places,}
+3686	Fri Feb 04 20:24:05 +0000 2011	4adf6d11f964a520727a21e3	{Kaffa!}	{33.78128754480386,-117.86836624145508,Orange,CA,United States}	{Food,}
+3686	Fri Feb 04 19:32:43 +0000 2011	4d4c54291ae43704ed77f360	{Dr. Linzey's Office}	{33.78000972777198,-117.86528595813833,,,United States}	{}
+3686	Fri Feb 04 02:36:30 +0000 2011	4c813654d8086dcbddb76a52	{Archstone}	{33.87002751756898,-117.83467159668322,Placentia,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+3686	Thu Feb 03 05:22:43 +0000 2011	4bb830a253649c74fbda46fb	{Brian's Beer & Billiards}	{33.89101980635394,-117.87231354235796,Placentia,CA,United States}	{Nightlife Spot,}
+3686	Wed Feb 02 23:15:07 +0000 2011	4b5cbde4f964a5208e4129e3	{Jamba Juice}	{33.91236374,-117.890141,Brea,CA,United States}	{Food,}
+3686	Wed Feb 02 22:54:37 +0000 2011	4bb4e08bb1edef3bae3b2cdd	{Artist Barber}	{33.87553,-117.888114,,,United States}	{Shop & Service,}
+3686	Wed Feb 02 22:28:39 +0000 2011	4cf2827b1c158cfa130bd8b5	{Chase Bank}	{33.877033,-117.842992,Placentia,CA,United States}	{Shop & Service,}
+3686	Wed Feb 02 20:34:14 +0000 2011	4c813654d8086dcbddb76a52	{Archstone}	{33.87002751756898,-117.83467159668322,Placentia,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+3686	Wed Feb 02 02:23:00 +0000 2011	4c22d29499282d7f04d767b0	{Sengoku Japanese Restaurant}	{33.887846,-117.861803,Placentia,CA,United States}	{Food,}
+3686	Tue Feb 01 21:36:17 +0000 2011	4c813654d8086dcbddb76a52	{Archstone}	{33.87002751756898,-117.83467159668322,Placentia,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+3686	Mon Jan 31 01:50:05 +0000 2011	4b5a51b7f964a520d8bc28e3	{Ralphs}	{33.87753737336674,-117.84220404213978,Placentia,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3686	Mon Jan 31 00:39:00 +0000 2011	4be7368ccf200f47696d153c	{Super 1 Mart Hannam Chain Supermarket}	{33.88470303451057,-117.99694061279297,Buena Park,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+3686	Sun Jan 30 23:49:42 +0000 2011	4af25fb0f964a5208de721e3	{Target}	{33.9187156816278,-117.88695728362637,Brea,CA,United States}	{Shop & Service,}
+3686	Sat Jan 29 22:08:24 +0000 2011	4a75c0e6f964a5202ce11fe3	{Plums Cafe and Catering}	{33.63116923907565,-117.91365517126083,Costa Mesa,CA,United States}	{Food,}
+3686	Sat Jan 29 05:48:34 +0000 2011	4b84b388f964a520974131e3	{Concourse Bowling Center}	{33.85049100224678,-117.84847130341251,Anaheim,CA,United States}	{Arts & Entertainment,}
+3686	Sat Jan 29 03:40:52 +0000 2011	4b241ef4f964a5208c6124e3	{Starbucks}	{33.854157,-117.83682482,Anaheim,CA,United States}	{Food,}
+3686	Sat Jan 29 02:44:47 +0000 2011	4b43909af964a52054e325e3	{Saigon Noodle House}	{33.88783872127533,-117.861849,Placentia,CA,United States}	{Food,}
+3686	Fri Jan 28 04:02:31 +0000 2011	4bbcdf42078095213de0d991	{Crepes Bonaparte Truck}	{33.887517493601685,-118.06182861328125,Southern California,CA,United States}	{Food,}
+3686	Fri Jan 28 03:26:46 +0000 2011	4d014ad838ec8eece1a5d84d	{Chuck Wagon Thursdays at AMF Carter Lanes}	{33.85592966313162,-117.92022943496704,Fullerton,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+3686	Wed Jan 26 22:21:48 +0000 2011	4ad64aaef964a5205a0621e3	{Philly's Best}	{33.88572301666667,-117.86331083333333,Placentia,CA,United States}	{Food,}
+3686	Tue Jan 25 22:22:42 +0000 2011	4adcb8e9f964a520132f21e3	{Hooters of Costa Mesa}	{33.69081094067202,-117.92112712624903,Costa Mesa,CA,United States}	{Nightlife Spot,Food,}
+3686	Mon Jan 24 01:48:13 +0000 2011	4b05c9fdf964a52050e322e3	{Pinkberry}	{33.87568691,-117.8891366,Fullerton,CA,United States}	{Food,}
+3686	Mon Jan 24 01:08:06 +0000 2011	4b4fdb7cf964a520c11727e3	{Jinga Korean BBQ Restaurant}	{33.872631,-117.89001658333333,Fullerton,CA,United States}	{Food,}
+3686	Thu Jan 20 02:40:31 +0000 2011	4a75311bf964a520abe01fe3	{The Pint House}	{33.87222751103371,-117.92598430293002,Fullerton,CA,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+3686	Sun Jan 16 00:28:39 +0000 2011	4b1481a3f964a52003a423e3	{Acapulco Mexican Restaurant}	{33.668805783688214,-117.88547522371614,Costa Mesa,CA,United States}	{Food,}
+3686	Sat Jan 15 04:12:02 +0000 2011	4c3a2b12ae2da5935ecd03c6	{The Winery At Main Street}	{33.89059773743284,-117.81429924110299,Yorba Linda,CA,United States}	{Food,}
+3686	Wed Jan 05 03:27:22 +0000 2011	4bc765eb8b7c9c742e6136cf	{Sushi Pia}	{33.88931285,-117.8702062368393,Fullerton,CA,United States}	{Food,}
+3686	Tue Dec 28 18:35:08 +0000 2010	4abd4923f964a520718920e3	{Wilcox High School}	{37.36566138900087,-121.98483667598767,Santa Clara,CA,United States}	{School,Professional & Other Places,}
+3686	Thu Dec 23 21:48:12 +0000 2010	4a2f650bf964a520c5981fe3	{Long Beach Airport (LGB)}	{33.81851869758065,-118.1443977355957,Long Beach,CA,United States}	{Travel & Transport,}
+3686	Mon Dec 20 02:44:14 +0000 2010	4b7b735ef964a52021642fe3	{Red Robin Gourmet Burgers}	{33.91572820435001,-117.88557529449463,Brea,CA,United States}	{Food,}
+3686	Sun Dec 12 06:48:01 +0000 2010	4a4f7618f964a52059af1fe3	{Baja Sharkeez}	{33.658531379293166,-118.00080299377441,Huntington Beach,CA,United States}	{Nightlife Spot,Food,}
+3686	Sat Dec 11 23:34:47 +0000 2010	4c3f3fb0ff711b8dff9d0e05	{El Farolito Mexican Restaurant}	{33.870471226888284,-117.87110209465027,Placentia,CA,United States}	{Food,}
+3686	Sat Dec 11 08:21:18 +0000 2010	3fd66200f964a520a0ef1ee3	{Westwood Brewing Company}	{34.06081921364923,-118.44469785690308,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+3686	Fri Dec 03 23:03:57 +0000 2010	4b4d3cb7f964a52000cf26e3	{Starbucks}	{33.777089,-117.86687144,Orange,CA,United States}	{Food,}
+3686	Sun Nov 21 04:24:41 +0000 2010	4c5101f10ef3a593935d487b	{Sakae Sushi}	{33.61014312372006,-117.92915941826739,Newport Beach,CA,United States}	{Food,}
+3686	Sun Nov 07 02:29:13 +0000 2010	4c3e0535b8b4be9ab88dcbef	{Big B's BBQ}	{33.89119,-117.872403,Fullerton,CA,United States}	{Food,}
+3686	Thu Nov 04 05:40:03 +0000 2010	4a6fae4cf964a520cdd61fe3	{BJ's Restaurant & Brewhouse}	{33.72956,-117.7870843,Irvine,CA,United States}	{Nightlife Spot,Food,}
+3686	Thu Nov 04 04:30:40 +0000 2010	4aa6028ef964a520a64920e3	{Honda-Ya Japanese Restaurant}	{33.740422891102114,-117.8238474553162,Tustin,CA,United States}	{Food,Arts & Entertainment,}
+3686	Mon Nov 01 02:07:48 +0000 2010	4b7d83a2f964a5209fc32fe3	{THEBlvd}	{34.0671947,-118.400949,Beverly Hills,CA,United States}	{Food,}
+3686	Sun Oct 31 20:06:59 +0000 2010	4b7708baf964a5208c762ee3	{Yorba Country Car Wash}	{33.88882224659217,-117.82747656196314,Yorba Linda,CA,United States}	{Shop & Service,}
+3686	Sat Oct 30 01:34:13 +0000 2010	4c3f3fb0ff711b8dff9d0e05	{El Farolito Mexican Restaurant}	{33.870471226888284,-117.87110209465027,Placentia,CA,United States}	{Food,}
+3686	Thu Oct 28 19:06:32 +0000 2010	4ae0fe0ef964a5205d8421e3	{Green China}	{33.79671335220337,-117.83528923988342,Orange,CA,United States}	{Food,}
+3686	Sat Oct 23 21:37:54 +0000 2010	4af2eb13f964a5202fe921e3	{Starbucks}	{33.80739384305862,-117.87001311779022,Orange,CA,United States}	{Food,}
+3686	Sat Oct 23 20:54:58 +0000 2010	4b25a120f964a520c07424e3	{Acapulco Mexican Restaurant}	{33.80849767546821,-117.86929194337381,Orange,CA,United States}	{Nightlife Spot,Food,}
+3686	Sat Oct 23 20:53:55 +0000 2010	4c406345e26920a172c55ce7	{Ford/ Mazda Of Orange}	{33.80765176678262,-117.86645914867387,Orange,CA,United States}	{Shop & Service,}
+3686	Sun Oct 17 22:40:32 +0000 2010	4b242b55f964a520c76224e3	{Firestone Walker Brewery}	{35.596200012751005,-120.69452768888111,Paso Robles,CA,United States}	{Nightlife Spot,}
+3686	Sun Oct 17 22:39:18 +0000 2010	4c294eb6360cef3ba53fbedc	{Tolo Cellars}	{35.641781,-120.869567,Paso Robles,CA,United States}	{}
+3686	Sun Oct 17 19:12:23 +0000 2010	4bc92b1fb6c49c74ad188e91	{Mondo Cellars}	{35.68381905555725,-120.753373,Paso Robles,CA,United States}	{Nightlife Spot,}
+3686	Sun Oct 17 02:25:15 +0000 2010	4b109c1cf964a520b77323e3	{Big Bubba's Bad BBQ}	{35.6407082041694,-120.68754275664892,Paso Robles,CA,United States}	{Food,}
+3686	Sun Oct 17 01:43:15 +0000 2010	4c27deb297d00f4759123fea	{Paso Port}	{35.64022202332738,-120.59012313872168,Paso Robles,CA,United States}	{Food,}
+3686	Sun Oct 17 01:04:28 +0000 2010	4cba4b65d78f4688b614bc73	{Terro Prieto}	{35.625079,-120.689023,Paso Robles,CA,United States}	{}
+3686	Sun Oct 17 01:03:02 +0000 2010	4c6ee6070d68ef3b1f4d45e7	{TKL Wines}	{35.625409,-120.689347,Paso Robles,CA,United States}	{}
+3686	Sun Oct 17 01:02:23 +0000 2010	4c6ee6070d68ef3b1f4d45e7	{TKL Wines}	{35.625409,-120.689347,Paso Robles,CA,United States}	{}
+3686	Sat Oct 16 23:53:43 +0000 2010	4cba3ae84352a1cdefcc91f5	{Brochelle Vineyards}	{35.625632,-120.68905,Paso Robles,CA,United States}	{}
+3686	Sat Oct 16 23:34:58 +0000 2010	4b7615bff964a520a43b2ee3	{Meritage Wine Tasting Lounge}	{35.625774,-120.689437,Paso Robles,CA,United States}	{Nightlife Spot,}
+3686	Sat Oct 16 22:19:41 +0000 2010	4bed9cd091380f47a62ca018	{San Marcos Creek Vineyard}	{35.714848,-120.695947,Paso Robles,CA,United States}	{Food,}
+3686	Sat Oct 16 20:07:28 +0000 2010	4c27deb297d00f4759123fea	{Paso Port}	{35.64022202332738,-120.59012313872168,Paso Robles,CA,United States}	{Food,}
+3686	Sat Oct 16 19:01:14 +0000 2010	4b8ae3cbf964a5207c8732e3	{Steinbeck Winery}	{35.64034438,-120.59003,Paso Robles,CA,United States}	{Food,}
+3686	Sat Oct 16 03:57:03 +0000 2010	4b6f97baf964a52027f72ce3	{Marv's Pizza}	{35.62686061666667,-120.69058393333333,Paso Robles,CA,United States}	{Food,}
+3686	Sat Oct 16 02:00:59 +0000 2010	4c5b577a2815c9287f47af67	{Albeno Munari Tasting Room}	{35.62692,-120.690711,Paso Robles,CA,United States}	{Food,}
+3686	Sat Oct 16 01:07:32 +0000 2010	4bbd3b43f57ba59373ebadb9	{Buona Tavola}	{35.62420964241028,-120.69141268730164,Paso Robles,CA,United States}	{Food,}
+3686	Fri Oct 15 22:58:22 +0000 2010	4b6c52aaf964a5209f302ce3	{Booker Vineyards}	{35.57846,-120.739507,Paso Robles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3686	Fri Oct 15 17:10:26 +0000 2010	4c96a46b533aa0933ea5d345	{Casa Colima}	{33.98482487,-117.889511,East San Gabriel Valley,CA,United States}	{Nightlife Spot,}
+3686	Wed Oct 13 04:37:47 +0000 2010	49cfa966f964a520b45a1fe3	{Urban Tavern}	{37.786138,-122.41047101154962,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+3686	Wed Oct 13 01:09:57 +0000 2010	4cb506cb55af224ba4c68f7e	{DMA2010 Echo Awards Gala}	{37.784611,-122.401111,San Francisco,CA,United States}	{}
+3686	Tue Oct 12 23:15:01 +0000 2010	451c196df964a520813a1fe3	{Bloomingdale's}	{37.784197986515366,-122.40589141845703,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+3686	Tue Oct 12 19:39:20 +0000 2010	4cb4b948ef1b37044f0a5b00	{DMA2010 Hall Of Fame Lunch}	{37.784269,-122.4012,San Francisco,CA,United States}	{}
+3686	Tue Oct 12 18:24:26 +0000 2010	4c7568b008dcef3b83931dcf	{DMA2010}	{37.784194,-122.401425,San Francisco,CA,United States}	{Professional & Other Places,}
+3686	Sun Oct 10 21:30:27 +0000 2010	49cfa966f964a520b45a1fe3	{Urban Tavern}	{37.786138,-122.41047101154962,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+3686	Sun Oct 03 21:52:26 +0000 2010	4af5f707f964a5208aff21e3	{SONIC Drive In}	{37.30618713333333,-120.49216,Merced,CA,United States}	{Food,}
+3686	Fri Oct 01 18:48:37 +0000 2010	4adf6d11f964a520727a21e3	{Kaffa!}	{33.78128754480386,-117.86836624145508,Orange,CA,United States}	{Food,}
+3686	Fri Oct 01 16:43:14 +0000 2010	4ba512f9f964a52062d938e3	{Browning Mazda}	{33.86004,-118.099689,Cerritos,CA,United States}	{Shop & Service,}
+3686	Wed Sep 29 23:57:15 +0000 2010	4be19d5485670f47ce9b2bd7	{Lake Forest Golf Course}	{33.62380123481164,-117.68937129504035,Lake Forest,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+3686	Thu Sep 23 17:35:03 +0000 2010	4a942b02f964a5209d2020e3	{St Joseph Outpatient Pavilion}	{33.77943269617864,-117.86523342132568,Orange,CA,United States}	{Medical Center,Professional & Other Places,}
+3686	Sun Sep 19 08:02:58 +0000 2010	4ad7f975f964a520601021e3	{Hearthstone Lounge}	{33.80762116826607,-117.92226791381836,Anaheim,CA,United States}	{Nightlife Spot,}
+3686	Sat Sep 18 17:57:31 +0000 2010	45db8e2df964a520fc421fe3	{Disney's Grand Californian Hotel & Spa}	{33.807121538398384,-117.92272185849217,Anaheim,CA,United States}	{Travel & Transport,Shop & Service,}
+3686	Mon Sep 13 18:10:34 +0000 2010	4bfc0b38b5cd2d7f6bfa30fb	{Imaging Partners}	{33.7880649269135,-117.86374076880485,Orange,CA,United States}	{Medical Center,Professional & Other Places,}
+3686	Mon Sep 13 00:56:05 +0000 2010	4b75d2fdf964a52062272ee3	{Charm Thai Restaurant}	{33.888864,-117.81505465507507,Yorba Linda,CA,United States}	{Food,}
+3686	Sat Sep 11 03:27:08 +0000 2010	4b3d5aeaf964a520fa9225e3	{Oggis Pizza & Brewing Co}	{33.74236415976996,-117.81724160958562,Tustin,CA,United States}	{Nightlife Spot,Food,Professional & Other Places,}
+3686	Mon Sep 06 01:38:21 +0000 2010	4c1e5ef0fcf8c9b64f24ad0b	{Mission 261}	{34.098799483704845,-118.10966466274134,San Gabriel,CA,United States}	{Food,}
+3686	Fri Sep 03 17:54:58 +0000 2010	4c813654d8086dcbddb76a52	{Archstone}	{33.87002751756898,-117.83467159668322,Placentia,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+3686	Wed Sep 01 19:47:31 +0000 2010	4babc2b0f964a52028c73ae3	{The Habit Burger Grill}	{33.877728832331975,-117.88206696510315,Fullerton,CA,United States}	{Food,}
+3686	Sun Aug 29 02:56:04 +0000 2010	4a8f5647f964a520f51420e3	{The Bruery}	{33.86197020290518,-117.8792667388916,Placentia,CA,United States}	{Nightlife Spot,}
+3686	Sat Aug 28 20:44:40 +0000 2010	4c0aea0602c9d13ac60874dd	{OC Foodie Fest}	{33.80696,-117.87819,Anaheim,CA,United States}	{Shop & Service,Arts & Entertainment,}
+3686	Thu Aug 26 16:13:01 +0000 2010	4a942b02f964a5209d2020e3	{St Joseph Outpatient Pavilion}	{33.77943269617864,-117.86523342132568,Orange,CA,United States}	{Medical Center,Professional & Other Places,}
+3686	Sat Aug 21 01:44:41 +0000 2010	41326e00f964a520c5141fe3	{The Orleans Hotel & Casino}	{36.102316608590634,-115.20156887749258,Las Vegas,NV,United States}	{Nightlife Spot,Travel & Transport,Arts & Entertainment,}
+3686	Mon Aug 16 01:58:48 +0000 2010	49ce8f8af964a520585a1fe3	{Tahoe Galbi Korean Restaurant}	{34.061362,-118.313976,Los Angeles,CA,United States}	{Food,}
+3686	Sat Aug 14 20:31:59 +0000 2010	4c042bbc0d0e0f47759b039a	{Chevron}	{35.03765214898939,-120.4841983024356,Nipomo,CA,United States}	{Shop & Service,}
+3686	Sat Aug 14 19:36:47 +0000 2010	4bad3f14f964a520a53d3be3	{Jocko's Steak House}	{35.043016591941445,-120.47640872319278,Nipomo,CA,United States}	{Food,}
+3686	Sat Aug 14 18:31:51 +0000 2010	4b5b7268f964a520c6fe28e3	{Laetitia Vineyard & Winery}	{35.09229569817027,-120.5363917350769,Arroyo Grande,CA,United States}	{Travel & Transport,Shop & Service,Food,Food & Drink Shop,}
+3686	Fri Aug 13 21:10:24 +0000 2010	4b69f9e1f964a5204bbf2be3	{Pierside Seafood}	{35.13941450506328,-120.64325094223022,Pismo Beach,CA,United States}	{Shop & Service,Food,}
+3686	Fri Aug 13 02:00:11 +0000 2010	4b2a99ebf964a5201dac24e3	{Steamers of Pismo}	{35.14497051415755,-120.64592830588673,Pismo beach,CA,United States}	{Food,}
+3686	Fri Aug 13 01:59:42 +0000 2010	4bd3429341b9ef3bc4b3ffe5	{Pismo State Beach}	{35.13983807382417,-120.64222108712507,Pismo Beach,CA,United States}	{Travel & Transport,Outdoors & Recreation,Beach,}
+3686	Thu Aug 12 21:23:19 +0000 2010	4c646637d6a320a1cffecf2a	{AMPM}	{34.396288990974426,-119.512229,Carpinteria,CA,United States}	{Shop & Service,}
+3686	Wed Aug 11 21:01:34 +0000 2010	46d71bdef964a520724a1fe3	{Knott's Berry Farm}	{33.84297402663761,-118.00020217895508,Buena Park,CA,United States}	{Arts & Entertainment,}
+3686	Sat Aug 07 05:38:05 +0000 2010	4abc1249f964a520448620e3	{In-N-Out Burger}	{33.86022401407431,-117.92402744293213,Fullerton,CA,United States}	{Food,}
+3686	Thu Aug 05 23:58:28 +0000 2010	4b6ce0ebf964a520265b2ce3	{The Habit Burger Grill}	{34.115393164629445,-117.77279376983643,La Verne,CA,United States}	{Food,}
+3686	Tue Aug 03 01:57:31 +0000 2010	4b43909af964a52054e325e3	{Saigon Noodle House}	{33.88783872127533,-117.861849,Placentia,CA,United States}	{Food,}
+3686	Sun Aug 01 21:11:12 +0000 2010	4b7854f4f964a5200fc62ee3	{Kohl's}	{33.888813,-117.869976,Fullerton,CA,United States}	{Shop & Service,Clothing Store,}
+3686	Sun Aug 01 20:00:49 +0000 2010	4ba10f0ef964a520879337e3	{Bruegger's}	{33.911461331912655,-117.86753504358016,Brea,CA,United States}	{Food,}
+3686	Thu Jul 29 19:49:47 +0000 2010	4a942b02f964a5209d2020e3	{St Joseph Outpatient Pavilion}	{33.77943269617864,-117.86523342132568,Orange,CA,United States}	{Medical Center,Professional & Other Places,}
+3686	Tue Jul 27 23:20:43 +0000 2010	4aa46276f964a520a84620e3	{The Winery Restaurant}	{33.69695946628539,-117.82731628747975,Tustin,CA,United States}	{Nightlife Spot,Music Venue,Food,Arts & Entertainment,}
+3686	Fri Jul 23 19:40:33 +0000 2010	45428531f964a5205a3c1fe3	{Stadium Tavern}	{33.87245017,-117.92510841666666,Fullerton,CA,United States}	{Nightlife Spot,}
+3686	Sun Jul 11 20:37:34 +0000 2010	4c3a2b12ae2da5935ecd03c6	{The Winery At Main Street}	{33.89059773743284,-117.81429924110299,Yorba Linda,CA,United States}	{Food,}
+3686	Tue Jun 22 23:13:20 +0000 2010	4ac3bc14f964a5209f9c20e3	{Old Towne Grinder}	{33.78955807558277,-117.8529542684555,Orange,CA,United States}	{Food,}
+3686	Tue Jun 22 02:29:07 +0000 2010	4ae285aaf964a520d88e21e3	{Chomp Sushi & Teppan Grill}	{33.87060319,-117.92239593333333,Fullerton,CA,United States}	{Nightlife Spot,Food,}
+3686	Mon Jun 21 03:15:57 +0000 2010	4ac91459f964a5207dbe20e3	{Houston's Restaurant}	{33.673702460663705,-117.84597516059875,Irvine,CA,United States}	{Food,}
+3686	Sat Jun 05 20:14:18 +0000 2010	43fed1fff964a520fe2f1fe3	{Hog Island Oyster Co.}	{37.7960679927155,-122.39360690116882,San Francisco,CA,United States}	{Food,}
+3686	Mon May 31 00:40:21 +0000 2010	4bd69c916f649521df1e71ec	{76 Gas Station}	{33.45985,-117.65433635,Dana Point,CA,United States}	{Shop & Service,}
+3686	Sun May 30 20:30:19 +0000 2010	464ef2faf964a520c2461fe3	{Stone Brewing World Bistro & Gardens}	{33.116339535974085,-117.11991745068472,Escondido,CA,United States}	{Nightlife Spot,Outdoors & Recreation,Food,}
+3686	Fri May 28 03:39:27 +0000 2010	4a99ff52f964a5205d3120e3	{Alcatraz Brewing Co.}	{33.78297738394318,-117.89200723171234,Orange,CA,United States}	{Nightlife Spot,Food,}
+3686	Tue May 25 01:22:13 +0000 2010	4b4a3839f964a5204d7f26e3	{Walgreens}	{33.888092,-117.864142,Placentia,CA,United States}	{Shop & Service,}
+3686	Tue May 25 01:22:12 +0000 2010	4b4a3839f964a5204d7f26e3	{Walgreens}	{33.888092,-117.864142,Placentia,CA,United States}	{Shop & Service,}
+3686	Sat May 22 01:45:07 +0000 2010	4a765284f964a520d7e21fe3	{Napa Rose}	{33.807795004781916,-117.92161345481873,Anaheim,CA,United States}	{Nightlife Spot,Food,}
+3686	Sat May 22 00:05:51 +0000 2010	45db8e2df964a520fc421fe3	{Disney's Grand Californian Hotel & Spa}	{33.807121538398384,-117.92272185849217,Anaheim,CA,United States}	{Travel & Transport,Shop & Service,}
+3686	Fri May 14 01:19:01 +0000 2010	4c3f3fb0ff711b8dff9d0e05	{El Farolito Mexican Restaurant}	{33.870471226888284,-117.87110209465027,Placentia,CA,United States}	{Food,}
+3686	Thu May 13 19:41:34 +0000 2010	4b7708baf964a5208c762ee3	{Yorba Country Car Wash}	{33.88882224659217,-117.82747656196314,Yorba Linda,CA,United States}	{Shop & Service,}
+3686	Thu May 13 03:18:23 +0000 2010	49e58716f964a520d5631fe3	{Islands Fine Burgers & Drinks}	{33.911651936484205,-117.88590439289102,Brea,CA,United States}	{Food,}
+3686	Mon May 10 22:50:39 +0000 2010	4adcb8e9f964a520132f21e3	{Hooters of Costa Mesa}	{33.69081094067202,-117.92112712624903,Costa Mesa,CA,United States}	{Nightlife Spot,Food,}
+3686	Mon May 10 22:29:49 +0000 2010	4be888b6c5220f4782dca9ca	{Towne Inc.}	{33.70373,-117.914732,Santa Ana,CA,United States}	{}
+3686	Mon May 10 20:01:42 +0000 2010	4be865f49a54a593a6ec0911	{Sprinter - Computer To Press Inc.}	{33.73993855,-117.855404925,,,United States}	{}
+3686	Thu May 06 20:04:02 +0000 2010	4b11f234f964a520588723e3	{Rudy's Pub & Grill}	{33.671711352974896,-117.66477584838867,Lake Forest,CA,United States}	{Nightlife Spot,Food,}
+3686	Thu May 06 19:47:26 +0000 2010	4ad7ad70f964a520920d21e3	{Oakley Headquarters}	{33.67144571965228,-117.64734148979187,Foothill Ranch,CA,United States}	{Professional & Other Places,}
+3686	Thu May 06 17:47:34 +0000 2010	4bbcdba58a4fb713bd423c9d	{Czar Press}	{33.548064,-117.635731,,,United States}	{}
+3686	Thu May 06 17:47:34 +0000 2010	4bbcdba58a4fb713bd423c9d	{Czar Press}	{33.548064,-117.635731,,,United States}	{}
+3686	Sun May 02 02:01:56 +0000 2010	4a10af0af964a520f4761fe3	{The Waterfront Restaurant}	{37.7993397561378,-122.39729542198901,San Francisco,CA,United States}	{Food,}
+3686	Fri Apr 30 18:37:15 +0000 2010	4b4b4759f964a5204e9626e3	{Jiffy Lube}	{33.88851935,-117.842044,Yorba Linda,CA,United States}	{Shop & Service,}
+3686	Mon Apr 26 20:22:46 +0000 2010	4bb437ce0cbcef3bafd5582a	{Crossing Theater}	{33.86229836,-117.83706024,,,United States}	{Arts & Entertainment,Movie Theater,}
+3686	Sat Apr 24 22:15:47 +0000 2010	4b11df4ef964a5204b8623e3	{Taleo Mexican Grill}	{33.67092561169523,-117.84150123596193,Irvine,CA,United States}	{Food,}
+3686	Sun Apr 18 18:45:25 +0000 2010	4b439a4ef964a5201de425e3	{Avila's El Ranchito}	{33.78613849744807,-117.85233736038208,Orange,CA,United States}	{Food,}
+3686	Wed Apr 14 02:31:11 +0000 2010	4b40eb44f964a5206bbd25e3	{The Pho Company}	{33.83479013,-117.837012,Orange,CA,United States}	{Food,}
+3686	Mon Apr 12 19:32:48 +0000 2010	4a942b02f964a5209d2020e3	{St Joseph Outpatient Pavilion}	{33.77943269617864,-117.86523342132568,Orange,CA,United States}	{Medical Center,Professional & Other Places,}
+3686	Mon Apr 12 19:32:48 +0000 2010	4a942b02f964a5209d2020e3	{St Joseph Outpatient Pavilion}	{33.77943269617864,-117.86523342132568,Orange,CA,United States}	{Medical Center,Professional & Other Places,}
+3686	Fri Apr 09 20:24:17 +0000 2010	4a942b02f964a5209d2020e3	{St Joseph Outpatient Pavilion}	{33.77943269617864,-117.86523342132568,Orange,CA,United States}	{Medical Center,Professional & Other Places,}
+3686	Wed Apr 07 20:03:13 +0000 2010	4b22a3cbf964a520db4a24e3	{Corky??s Kitchen & Bakery}	{33.56351519554346,-117.62876987457275,Ladera Ranch,CA,United States}	{Food,}
+3686	Wed Apr 07 19:23:32 +0000 2010	4bbcdba58a4fb713bd423c9d	{Czar Press}	{33.548064,-117.635731,,,United States}	{}
+3686	Wed Apr 07 18:21:43 +0000 2010	4a942b02f964a5209d2020e3	{St Joseph Outpatient Pavilion}	{33.77943269617864,-117.86523342132568,Orange,CA,United States}	{Medical Center,Professional & Other Places,}
+3686	Tue Apr 06 21:46:46 +0000 2010	4b4a3839f964a5204d7f26e3	{Walgreens}	{33.888092,-117.864142,Placentia,CA,United States}	{Shop & Service,}
+3686	Sun Apr 04 05:21:07 +0000 2010	4b26c6aef964a520c58024e3	{DoubleTree by Hilton Hotel San Jose}	{37.37162350154705,-121.92233034383786,San Jose,CA,United States}	{Travel & Transport,}
+3686	Thu Apr 01 18:21:25 +0000 2010	4bb4e08bb1edef3bae3b2cdd	{Artist Barber}	{33.87553,-117.888114,,,United States}	{Shop & Service,}
+3686	Thu Apr 01 17:47:53 +0000 2010	4ad0be3ef964a52081d920e3	{St. Joseph Hospital}	{33.78182258982711,-117.86394596099854,Orange,CA,United States}	{Medical Center,Professional & Other Places,}
+3686	Wed Mar 31 01:38:27 +0000 2010	4b21e481f964a5203f4224e3	{Archstone Placentia Place}	{33.86539198299001,-117.83700405507383,Placentia,CA,United States}	{Residence,}
+3686	Tue Mar 30 19:37:04 +0000 2010	4b5cde9cf964a520744829e3	{Pismo Beach Pier}	{35.13863365552091,-120.6434440612793,Pismo Beach,CA,United States}	{Travel & Transport,Outdoors & Recreation,Beach,}
+3686	Tue Mar 30 03:36:36 +0000 2010	4b69c710f964a5209eb32be3	{F.McLintocks Saloon & Dining House}	{35.15704337456198,-120.66788852724854,Shell Beach,CA,United States}	{Nightlife Spot,Food,}
+3686	Mon Mar 29 23:30:33 +0000 2010	4b9fd87df964a520114437e3	{Shore Cliff Lodge}	{35.14895975589752,-120.652803,Pismo Beach,CA,United States}	{Travel & Transport,}
+3686	Mon Mar 29 20:44:06 +0000 2010	4b64fd7af964a52021de2ae3	{Brad's Restaurant}	{35.14021,-120.64220315,Pismo Beach,CA,United States}	{Food,}
+3686	Sat Mar 27 04:45:00 +0000 2010	4b8adfd5f964a5209e8632e3	{Rancho Alisal}	{33.72976553379736,-117.80183372241373,Tustin,CA,United States}	{Residence,}
+3686	Sat Mar 27 00:07:43 +0000 2010	4a8b68b1f964a520650c20e3	{Embassy Suites Orange County Airport - Irvine}	{33.683948,-117.849603,Irvine,CA,United States}	{Travel & Transport,}
+3686	Mon Mar 22 00:19:21 +0000 2010	4a5bc475f964a520bdbb1fe3	{Honda Center}	{33.80785622955976,-117.87656517386878,Anaheim,CA,United States}	{Stadium,Arts & Entertainment,}
+3686	Sat Mar 20 04:41:22 +0000 2010	4b1550fdf964a520d4aa23e3	{Roman Cucina}	{33.871892,-117.924573,Fullerton,CA,United States}	{Food,}
+3686	Sat Mar 20 02:22:10 +0000 2010	4a8dcac5f964a520e11020e3	{Twisted Vine}	{33.870617960223136,-117.92556667097868,Fullerton,CA,United States}	{Nightlife Spot,}
+3686	Tue Mar 16 20:55:32 +0000 2010	4b9ff008f964a520fd4b37e3	{CHOC Commerce Tower}	{33.78018591266658,-117.86677390582165,Orange,CA,United States}	{Professional & Other Places,}
+3686	Tue Mar 16 20:32:19 +0000 2010	4f183890a17c202e1059b154	{Allied Medical Supply, Inc.}	{33.7812830860813,-117.86830723285675,Orange,CA,United States}	{Shop & Service,}
+3686	Tue Mar 16 15:51:02 +0000 2010	4b9fa8c2f964a520713237e3	{Centers For Excellence In Pain Management}	{33.890961,-117.874142,Placentia,CA,United States}	{}
+3686	Tue Mar 16 15:27:18 +0000 2010	4b21e481f964a5203f4224e3	{Archstone Placentia Place}	{33.86539198299001,-117.83700405507383,Placentia,CA,United States}	{Residence,}
+3686	Tue Mar 16 03:57:18 +0000 2010	4afb3fccf964a5205c1c22e3	{Lazy Dog Cafe}	{33.80817833533797,-117.8699380159378,Orange,CA,United States}	{Food,}
+3686	Sun Mar 14 09:51:51 +0000 2010	4b24ba3df964a520966924e3	{Denny's}	{33.87775056666667,-117.87895716666667,Fullerton,CA,United States}	{Food,}
+3686	Sun Mar 14 05:38:42 +0000 2010	4a6a9bf2f964a520cccd1fe3	{Roscoe's Famous Deli}	{33.87011651169255,-117.92522341111523,Fullerton,CA,United States}	{Nightlife Spot,Food,}
+3686	Sat Mar 06 04:05:16 +0000 2010	4aea387af964a5204eba21e3	{Sushi Momo Tokyo}	{33.8717641569077,-117.92414785930514,Fullerton,CA,United States}	{Food,}
+3686	Sat Mar 06 03:44:20 +0000 2010	4b91cf82f964a52000d933e3	{Violet Hour Studio}	{33.869418,-117.927709,Fullerton,CA,United States}	{Arts & Entertainment,}
+3686	Sat Mar 06 03:29:26 +0000 2010	4b91cc0bf964a5201ad833e3	{PAS | project art school}	{33.869717,-117.92479396,Fullerton,CA,United States}	{Arts & Entertainment,}
+3686	Sat Mar 06 03:01:06 +0000 2010	4a8f7c6df964a520611520e3	{Hibbleton Gallery}	{33.86953376,-117.927525,Fullerton,CA,United States}	{Arts & Entertainment,}

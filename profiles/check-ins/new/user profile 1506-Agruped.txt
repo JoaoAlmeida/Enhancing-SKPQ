@@ -1,0 +1,308 @@
+1506	Sun Aug 07 06:58:38 +0000 2011	3fd66200f964a520a4ed1ee3	{Hi Fi Lounge}	{37.79966792198222,-122.43643633433153,San Francisco,CA,United States}	{Nightlife Spot,}
+1506	Sun Aug 07 06:34:47 +0000 2011	49dcfbd4f964a520da5f1fe3	{Monaghan's}	{37.80004994254537,-122.4395771511625,San Francisco,CA,United States}	{Nightlife Spot,}
+1506	Fri Aug 05 23:28:37 +0000 2011	465c6e83f964a52033471fe3	{BJ's Restaurant & Brewhouse}	{37.33129385601666,-122.03177212265498,Cupertino,CA,United States}	{Nightlife Spot,Food,}
+1506	Thu Aug 04 23:15:59 +0000 2011	45ec3ed1f964a52099431fe3	{Stevens Creek Reservoir}	{37.2961786225835,-122.07776069641113,Cupertino,CA,United States}	{Outdoors & Recreation,}
+1506	Thu Aug 04 20:25:50 +0000 2011	4afe1685f964a520d12d22e3	{Elephant Bar}	{37.29483463308755,-121.94147540215448,Campbell,CA,United States}	{Food,}
+1506	Wed Aug 03 23:36:38 +0000 2011	49ea79e5f964a5206d661fe3	{Falafel's Drive-In}	{37.323606,-121.93498021666667,San Jose,CA,United States}	{Food,}
+1506	Tue Aug 02 20:30:00 +0000 2011	4a1877bff964a520b5791fe3	{Aqui Cal-Mex}	{37.287148116015096,-121.94637537002563,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Mon Aug 01 17:54:19 +0000 2011	40da1980f964a5206b011fe3	{Orchard Valley Coffee}	{37.287215,-121.9437222,Campbell,CA,United States}	{Food,}
+1506	Fri Jul 29 19:12:08 +0000 2011	4b144274f964a5201ca023e3	{Le Boulanger}	{37.262664,-121.931958,San Jose,CA,United States}	{Food,}
+1506	Sun Jul 24 04:09:20 +0000 2011	4a8e0c65f964a520e31120e3	{Improv Comedy Club}	{37.33565422709046,-121.88874901180883,San Jose,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+1506	Sat Jul 23 02:50:54 +0000 2011	4a33bce5f964a5203a9b1fe3	{Starbucks}	{37.341385264528334,-121.91160053014755,San Jose,CA,United States}	{Food,}
+1506	Thu Jul 21 20:37:46 +0000 2011	4aaef7adf964a520d46320e3	{Willow Street Pizza}	{37.30866353333333,-121.90050275,San Jose,CA,United States}	{Food,}
+1506	Wed Jul 20 02:05:52 +0000 2011	4c4207e1e26920a12b695fe7	{Willow Glen Frozen Yogurt & Ice Cream Co.}	{37.28702861244244,-121.94515228271484,Campbell,CA,United States}	{Food,}
+1506	Sun Jul 17 16:54:17 +0000 2011	4a2763a8f964a5207c911fe3	{Century 20 Oakridge & XD}	{37.251480683488246,-121.86248123645782,San Jose,CA,United States}	{Arts & Entertainment,Professional & Other Places,Movie Theater,}
+1506	Sat Jul 16 21:03:00 +0000 2011	4e20ce2a18a88345f0450050	{iOSDevCamp 2011}	{37.377088,-121.921448,San Jose,CA,United States}	{Professional & Other Places,}
+1506	Wed Jul 13 14:13:07 +0000 2011	450af4f4f964a5204c391fe3	{Red Rock Coffee}	{37.393803003654625,-122.07888155105633,Mountain View,CA,United States}	{Food,}
+1506	Mon Jun 27 23:55:38 +0000 2011	4ad2b5cef964a5208ae220e3	{Buca di Beppo}	{37.28954,-121.93179,Campbell,CA,United States}	{Food,}
+1506	Sat Jun 18 13:17:44 +0000 2011	4b9ac1c8f964a520f0d235e3	{Shadow Cliffs Regional Recreation Area}	{37.67033577442535,-121.84267044067383,Pleasanton,CA,United States}	{Outdoors & Recreation,}
+1506	Thu Jun 09 20:49:49 +0000 2011	4d6d7abcfbf0a093408b008d	{Panera Bread}	{37.24762718720088,-121.95626248328635,Los Gatos,CA,United States}	{Food,}
+1506	Sun Jun 05 21:41:13 +0000 2011	4b9d592cf964a520aca536e3	{Kailua Pier}	{19.639879504619557,-155.99697589874268,Kailua-Kona,HI,United States}	{Outdoors & Recreation,Government Building,Professional & Other Places,}
+1506	Thu Jun 02 19:33:31 +0000 2011	4abfdbebf964a520a69220e3	{Kona International Airport (KOA)}	{19.736158213475058,-156.04092121124268,Kailua-Kona,HI,United States}	{Travel & Transport,}
+1506	Wed Jun 01 22:18:17 +0000 2011	49e926d5f964a520d2651fe3	{FireHouse Grill & Brewery}	{37.37740012772162,-122.0301528275013,Sunnyvale,CA,United States}	{Nightlife Spot,}
+1506	Wed Jun 01 03:31:20 +0000 2011	49eddb23f964a520fd671fe3	{Sugar Butter Flour - Pruneyard}	{37.288624823071494,-121.93416595458984,Campbell,CA,United States}	{Food,}
+1506	Wed Jun 01 02:49:03 +0000 2011	4a10c680f964a520fc761fe3	{Outback Steakhouse}	{37.28726458021015,-121.9346878104461,Campbell,CA,United States}	{Food,}
+1506	Sat May 28 08:13:48 +0000 2011	4baa5f4df964a520ee633ae3	{Formula 1 Grand Prix de Monaco}	{43.734964567616224,7.421243190765381,Monaco,Monaco,Monaco}	{Arts & Entertainment,Professional & Other Places,}
+1506	Sun May 22 19:59:46 +0000 2011	4bf83f2a4a67c928290b25cf	{Boogie On The Bayou}	{37.28705422036684,-121.94488406181335,Campbell,CA,United States}	{Shop & Service,Food,}
+1506	Sat May 21 20:01:13 +0000 2011	4bcafba50687ef3b9ad7dccc	{Vista Point}	{37.83263257682617,-122.4799633026123,Sausalito,CA,United States}	{Outdoors & Recreation,}
+1506	Sat May 21 05:25:49 +0000 2011	4287e280f964a52043231fe3	{Britannia Arms}	{37.25790569739619,-121.87698662281036,San Jose,CA,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+1506	Sat May 21 04:52:23 +0000 2011	44f41867f964a52023381fe3	{Rooster T Feathers Comedy Club}	{37.368671,-122.03359013333333,Sunnyvale,CA,United States}	{Arts & Entertainment,}
+1506	Sun May 15 02:28:34 +0000 2011	42a8d800f964a52020251fe3	{Rosie McCann's Irish Pub & Restaurant}	{37.32092160475435,-121.94864451885223,San Jose,CA,United States}	{Nightlife Spot,Food,}
+1506	Fri May 13 21:31:15 +0000 2011	450af4f4f964a5204c391fe3	{Red Rock Coffee}	{37.393803003654625,-122.07888155105633,Mountain View,CA,United States}	{Food,}
+1506	Sun May 08 07:25:15 +0000 2011	46d36eb9f964a520584a1fe3	{In-N-Out Burger}	{37.38044374583181,-122.07400023937225,Mountain View,CA,United States}	{Food,}
+1506	Sun May 08 01:42:52 +0000 2011	49f92297f964a520646d1fe3	{Vaso Azzurro}	{37.39491283893585,-122.07839369773865,Mountain View,CA,United States}	{Food,}
+1506	Fri Apr 29 18:20:19 +0000 2011	4bdb2b383904a593db15499e	{Wildflower Triathlon}	{35.82551603614978,-120.96471184510669,,,United States}	{Shop & Service,}
+1506	Fri Apr 22 05:24:30 +0000 2011	43f0ed34f964a520802f1fe3	{Boswell's "The Proper Drinking Place!"}	{37.2878950090444,-121.93403720855713,Campbell,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+1506	Fri Apr 22 04:43:19 +0000 2011	42cc7080f964a520ea251fe3	{Aqui Cal-Mex}	{37.307631637547466,-121.90084218978882,San Jose,CA,United States}	{Nightlife Spot,Food,}
+1506	Fri Apr 15 19:06:55 +0000 2011	4ae0e307f964a520648321e3	{Starbucks}	{37.235637,-121.964413,Los Gatos,CA,United States}	{Food,}
+1506	Sun Apr 10 22:08:18 +0000 2011	4ab579e4f964a520d77420e3	{Santa Cruz Wharf}	{36.95873971617671,-122.01776504516603,Santa Cruz,CA,United States}	{Outdoors & Recreation,}
+1506	Sat Apr 09 15:17:50 +0000 2011	4d86821761676dcbf4baa1e4	{That 70s Underpass}	{37.28526770426656,-121.94120874981901,Campbell,CA,United States}	{Nightlife Spot,}
+1506	Fri Apr 08 22:34:00 +0000 2011	49ee3196f964a52037681fe3	{Specialty's Cafe & Bakery}	{37.402659153829646,-122.05092024699968,Mountain View,CA,United States}	{Food,}
+1506	Tue Apr 05 05:05:47 +0000 2011	43f0ed34f964a520802f1fe3	{Boswell's "The Proper Drinking Place!"}	{37.2878950090444,-121.93403720855713,Campbell,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+1506	Tue Apr 05 00:22:43 +0000 2011	4b74f156f964a520dff82de3	{Rookies Sports Lodge}	{37.29694656,-121.91395800000001,San Jose,CA,United States}	{Nightlife Spot,}
+1506	Sun Apr 03 01:39:08 +0000 2011	4b1478f0f964a5208da323e3	{Coach's Sports Bar and Grill}	{37.282744391164385,-121.94958576825933,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Sun Apr 03 00:53:06 +0000 2011	43996c58f964a520bc2b1fe3	{Sonoma Chicken Coop}	{37.28708903331068,-121.94634169364961,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Fri Apr 01 23:10:57 +0000 2011	4a68fd50f964a52068cb1fe3	{Seabright Brewery}	{36.967414,-122.008314,Santa Cruz,CA,United States}	{Nightlife Spot,Food,}
+1506	Wed Mar 30 23:56:25 +0000 2011	4aa41956f964a520454520e3	{A Perfect Day Spa}	{37.373926,-121.977138,Santa Clara,CA,United States}	{Shop & Service,}
+1506	Wed Mar 30 22:10:37 +0000 2011	4a81c986f964a52092f71fe3	{Pasta Pomodoro}	{37.319305,-121.9476842880249,San Jose,CA,United States}	{Food,}
+1506	Mon Mar 28 23:59:54 +0000 2011	4a2dcb31f964a520f3971fe3	{Pluto's}	{37.320919471721844,-121.949143409729,San Jose,CA,United States}	{Food,}
+1506	Fri Mar 25 23:12:25 +0000 2011	4cd9b4ffa99d370492b70cce	{LGBG}	{37.222998,-121.983884,Los Gatos,CA,United States}	{Nightlife Spot,Food,}
+1506	Thu Mar 24 23:39:33 +0000 2011	43996c58f964a520bc2b1fe3	{Sonoma Chicken Coop}	{37.28708903331068,-121.94634169364961,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Mon Mar 21 21:15:09 +0000 2011	40da1980f964a5206b011fe3	{Orchard Valley Coffee}	{37.287215,-121.9437222,Campbell,CA,United States}	{Food,}
+1506	Mon Mar 21 14:23:08 +0000 2011	450af4f4f964a5204c391fe3	{Red Rock Coffee}	{37.393803003654625,-122.07888155105633,Mountain View,CA,United States}	{Food,}
+1506	Mon Mar 21 01:20:41 +0000 2011	4cd9b4ffa99d370492b70cce	{LGBG}	{37.222998,-121.983884,Los Gatos,CA,United States}	{Nightlife Spot,Food,}
+1506	Fri Mar 18 04:15:35 +0000 2011	49e926d5f964a520d2651fe3	{FireHouse Grill & Brewery}	{37.37740012772162,-122.0301528275013,Sunnyvale,CA,United States}	{Nightlife Spot,}
+1506	Fri Mar 18 01:46:08 +0000 2011	4b298e17f964a520d1a024e3	{Lilly Mac's}	{37.37636424632677,-122.03055381774902,Sunnyvale,CA,United States}	{Nightlife Spot,}
+1506	Fri Mar 11 00:06:18 +0000 2011	4551d7f6f964a520ec3c1fe3	{Sports Basement}	{37.38307549272568,-121.9972137351915,Sunnyvale,CA,United States}	{Shop & Service,}
+1506	Sun Mar 06 21:39:39 +0000 2011	4b11b8c5f964a5201f8323e3	{Le Boulanger}	{37.38816902000001,-122.082713,Mountain View,CA,United States}	{Food,}
+1506	Fri Mar 04 03:16:47 +0000 2011	4cd9b4ffa99d370492b70cce	{LGBG}	{37.222998,-121.983884,Los Gatos,CA,United States}	{Nightlife Spot,Food,}
+1506	Fri Mar 04 00:23:30 +0000 2011	4a642eb5f964a52026c61fe3	{Double D's Sports Grille}	{37.22862473333333,-121.980861,Los Gatos,CA,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+1506	Sun Feb 27 20:06:15 +0000 2011	4a2afa84f964a52079961fe3	{Campbell Farmers' Market}	{37.287103007958144,-121.94512514097626,Campbell,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1506	Sun Feb 27 01:56:36 +0000 2011	4d69af05342b8cfad0cccc2c	{Chris's Ironman Training}	{36.98282105,-121.91673021666666,,,United States}	{Shop & Service,}
+1506	Wed Feb 23 05:25:10 +0000 2011	43f0ed34f964a520802f1fe3	{Boswell's "The Proper Drinking Place!"}	{37.2878950090444,-121.93403720855713,Campbell,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+1506	Wed Feb 23 00:52:15 +0000 2011	4a1877bff964a520b5791fe3	{Aqui Cal-Mex}	{37.287148116015096,-121.94637537002563,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Tue Feb 22 02:30:36 +0000 2011	4a736872f964a5205fdc1fe3	{Opa! - Los Gatos}	{37.2235,-121.983742,Los Gatos,CA,United States}	{Food,}
+1506	Thu Feb 17 02:28:12 +0000 2011	4a6a6dd8f964a52072cd1fe3	{Los Gatos Brewing Co.}	{37.225195,-121.982245,Los Gatos,CA,United States}	{Nightlife Spot,}
+1506	Sun Feb 13 21:51:21 +0000 2011	4a1877bff964a520b5791fe3	{Aqui Cal-Mex}	{37.287148116015096,-121.94637537002563,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Sun Feb 13 21:25:20 +0000 2011	4bdcc297c79cc928790788e9	{Rancho San Antonio County Park}	{37.33167558501772,-122.0881462097168,Los Altos,CA,United States}	{Outdoors & Recreation,}
+1506	Sun Feb 13 04:01:41 +0000 2011	49d82367f964a520ae5d1fe3	{The Prolific Oven}	{37.50320699,-121.97623645,Fremont,CA,United States}	{Food,}
+1506	Sun Feb 13 03:50:27 +0000 2011	4a280bfcf964a520ef941fe3	{Dickey's Barbecue Pit}	{37.50301708647376,-121.9761513537766,Fremont,CA,United States}	{Food,}
+1506	Sat Feb 12 02:25:02 +0000 2011	455e05faf964a5207f3d1fe3	{Gestalt Haus}	{37.76482,-122.423351,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+1506	Thu Feb 10 15:33:21 +0000 2011	4b1c00b6f964a520830024e3	{Lou's Coffee House}	{37.240672,-121.961078,Los Gatos,CA,United States}	{Food,}
+1506	Mon Feb 07 01:23:12 +0000 2011	4d4ad2e8f2cc6a31686ec188	{Super Bowl Sunday}	{32.747868226330375,-97.09356307983398,Arlington,TX,United States}	{Stadium,Arts & Entertainment,}
+1506	Mon Feb 07 01:22:45 +0000 2011	4bac08d8f964a520a8df3ae3	{Gordon Biersch Brewery Restaurant}	{37.4433779,-122.16098427772522,Palo Alto,CA,United States}	{Nightlife Spot,}
+1506	Sun Feb 06 19:16:18 +0000 2011	4a2afa84f964a52079961fe3	{Campbell Farmers' Market}	{37.287103007958144,-121.94512514097626,Campbell,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1506	Sat Feb 05 00:06:11 +0000 2011	45143eacf964a520dd391fe3	{Rock Bottom Restaurant & Brewery}	{37.28894064683028,-121.93425178527833,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Fri Feb 04 23:28:54 +0000 2011	4b3d0d93f964a520e28c25e3	{Baja Fresh}	{37.28746394597214,-121.93138718605042,Campbell,CA,United States}	{Food,}
+1506	Mon Jan 31 02:10:38 +0000 2011	4aaef7adf964a520d46320e3	{Willow Street Pizza}	{37.30866353333333,-121.90050275,San Jose,CA,United States}	{Food,}
+1506	Mon Jan 31 00:04:49 +0000 2011	49d8e987f964a520d95d1fe3	{Bowlmor Lanes}	{37.326893556713294,-122.013725404458,Cupertino,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+1506	Sun Jan 30 17:55:41 +0000 2011	4a58b42df964a520aeb71fe3	{Bill's Cafe}	{37.308317390686874,-121.90163149233247,San Jose,CA,United States}	{Food,}
+1506	Sat Jan 29 21:33:37 +0000 2011	4a6a6dd8f964a52072cd1fe3	{Los Gatos Brewing Co.}	{37.225195,-121.982245,Los Gatos,CA,United States}	{Nightlife Spot,}
+1506	Sun Jan 23 15:13:59 +0000 2011	4ac3d67bf964a520059d20e3	{Starbucks}	{37.287190795816485,-121.94501280784607,Campbell,CA,United States}	{Food,}
+1506	Fri Jan 21 22:48:29 +0000 2011	40da1980f964a5206b011fe3	{Orchard Valley Coffee}	{37.287215,-121.9437222,Campbell,CA,United States}	{Food,}
+1506	Thu Jan 13 02:54:20 +0000 2011	4a036e4af964a520bc711fe3	{Sweet Tomatoes}	{37.340789,-121.908874,San Jose,CA,United States}	{Food,}
+1506	Thu Jan 13 00:15:52 +0000 2011	4b1dddc9f964a520061624e3	{Nordstrom Rack}	{37.293143405396115,-121.98723001645597,San Jose,CA,United States}	{Shop & Service,}
+1506	Wed Jan 12 23:25:24 +0000 2011	4b749f2ff964a5204de82de3	{Slice of Heaven Day Spa}	{37.31174,-121.903649,San Jose,CA,United States}	{Shop & Service,}
+1506	Wed Jan 12 21:11:45 +0000 2011	4afe1685f964a520d12d22e3	{Elephant Bar}	{37.29483463308755,-121.94147540215448,Campbell,CA,United States}	{Food,}
+1506	Wed Jan 12 20:39:04 +0000 2011	40da1980f964a5206b011fe3	{Orchard Valley Coffee}	{37.287215,-121.9437222,Campbell,CA,United States}	{Food,}
+1506	Wed Jan 12 20:31:46 +0000 2011	4bd730f609ecb7131755467c	{Faux Hair Salon}	{37.28681629003699,-121.94321973689358,Campbell,CA,United States}	{Shop & Service,}
+1506	Wed Jan 12 16:16:13 +0000 2011	40d77680f964a5205f011fe3	{Stacks}	{37.28716518793858,-121.94738388061525,Campbell,CA,United States}	{Food,}
+1506	Sun Jan 09 19:16:44 +0000 2011	4bc10f912a89ef3be2bff188	{Bear Valley Ski Area}	{38.49246633829787,-120.0442224740982,Bear Valley,CA,United States}	{Outdoors & Recreation,Ski Area,}
+1506	Sun Jan 09 01:57:18 +0000 2011	4b709b2df964a520dc242de3	{Mikes Pizza of Angels}	{38.07913500394977,-120.5545023837748,Angels Camp,CA,United States}	{Food,}
+1506	Sat Jan 08 18:44:15 +0000 2011	4bc10f912a89ef3be2bff188	{Bear Valley Ski Area}	{38.49246633829787,-120.0442224740982,Bear Valley,CA,United States}	{Outdoors & Recreation,Ski Area,}
+1506	Thu Jan 06 21:33:51 +0000 2011	4a1877bff964a520b5791fe3	{Aqui Cal-Mex}	{37.287148116015096,-121.94637537002563,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Thu Jan 06 03:33:16 +0000 2011	4ae0e307f964a520648321e3	{Starbucks}	{37.235637,-121.964413,Los Gatos,CA,United States}	{Food,}
+1506	Wed Jan 05 21:37:31 +0000 2011	43582f80f964a520e6281fe3	{Coffee Society}	{37.28788220522635,-121.93446636199951,Campbell,CA,United States}	{Food,}
+1506	Wed Jan 05 00:34:54 +0000 2011	4a81c986f964a52092f71fe3	{Pasta Pomodoro}	{37.319305,-121.9476842880249,San Jose,CA,United States}	{Food,}
+1506	Tue Jan 04 00:49:04 +0000 2011	4a2dcb31f964a520f3971fe3	{Pluto's}	{37.320919471721844,-121.949143409729,San Jose,CA,United States}	{Food,}
+1506	Sun Jan 02 21:18:44 +0000 2011	4a1877bff964a520b5791fe3	{Aqui Cal-Mex}	{37.287148116015096,-121.94637537002563,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Sun Jan 02 20:54:00 +0000 2011	4a2afa84f964a52079961fe3	{Campbell Farmers' Market}	{37.287103007958144,-121.94512514097626,Campbell,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1506	Sat Jan 01 06:57:28 +0000 2011	4d1ed051f7a9a1434e001f9f	{Donovan New Years}	{37.219093,-121.970797,,,United States}	{}
+1506	Wed Dec 29 02:39:14 +0000 2010	4b5bc891f964a520fc1529e3	{Thaibodia}	{37.3529534810511,-121.96207233914214,Santa Clara,CA,United States}	{Food,}
+1506	Wed Dec 29 01:34:55 +0000 2010	4aa41956f964a520454520e3	{A Perfect Day Spa}	{37.373926,-121.977138,Santa Clara,CA,United States}	{Shop & Service,}
+1506	Wed Dec 22 02:06:18 +0000 2010	4bf8273a4a67c928f6e124cf	{Gap}	{37.223403972943935,-121.98226558140753,Los Gatos,CA,United States}	{Shop & Service,}
+1506	Mon Dec 20 03:26:32 +0000 2010	4abb0cc8f964a5208d8320e3	{Winchester 23}	{37.31823445,-121.952613,San Jose,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1506	Sat Dec 18 21:11:51 +0000 2010	4a21cb75f964a5203e7d1fe3	{Anthropologie}	{37.32116477006454,-121.94794178009033,San Jose,CA,United States}	{Shop & Service,Clothing Store,}
+1506	Fri Dec 17 01:31:39 +0000 2010	4aef5e9af964a520ecd721e3	{Viva Los Gatos}	{37.2365476,-121.96157433333333,Los Gatos,CA,United States}	{Food,}
+1506	Mon Dec 13 05:29:14 +0000 2010	4abd740ef964a5206d8a20e3	{The Capital Grille}	{36.12758048604335,-115.16860485076904,Las Vegas,NV,United States}	{Food,}
+1506	Sun Dec 12 22:42:26 +0000 2010	4c60919d3986e21eba99944f	{Apple Store, Fashion Show}	{36.1275,-115.1725,Las Vegas,NV,United States}	{Shop & Service,}
+1506	Sun Dec 12 02:26:31 +0000 2010	4a677f82f964a52091c91fe3	{Las Vegas McCarran International Airport (LAS)}	{36.08365019548198,-115.14985084533691,Las Vegas,NV,United States}	{Travel & Transport,}
+1506	Fri Dec 10 23:56:15 +0000 2010	4ae0e307f964a520648321e3	{Starbucks}	{37.235637,-121.964413,Los Gatos,CA,United States}	{Food,}
+1506	Thu Dec 09 04:48:49 +0000 2010	4ad2b5cef964a5208ae220e3	{Buca di Beppo}	{37.28954,-121.93179,Campbell,CA,United States}	{Food,}
+1506	Thu Dec 09 03:09:58 +0000 2010	4a3440caf964a520f99b1fe3	{Vasona Park}	{37.236324916835564,-121.9723391532898,Los Gatos,CA,United States}	{Outdoors & Recreation,}
+1506	Sun Dec 05 21:04:33 +0000 2010	4acff955f964a52029d720e3	{Pyramid Alehouse Brewery}	{38.579065400000005,-121.492673,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+1506	Sat Dec 04 23:41:48 +0000 2010	4b0586b6f964a520e26a22e3	{Sacramento Convention Center}	{38.57852002752224,-121.48839272244031,Sacramento,CA,United States}	{Government Building,Convention Center,Professional & Other Places,}
+1506	Sat Dec 04 05:21:35 +0000 2010	4c9271b0911b8cfa0861edb5	{Los Gatos Bar & Grill}	{37.22303298559933,-121.98385378086931,Los Gatos,CA,United States}	{Nightlife Spot,Food,}
+1506	Sat Dec 04 03:15:34 +0000 2010	4a6a6dd8f964a52072cd1fe3	{Los Gatos Brewing Co.}	{37.225195,-121.982245,Los Gatos,CA,United States}	{Nightlife Spot,}
+1506	Fri Dec 03 18:41:15 +0000 2010	4bc1cd192a89ef3b0cb9f288	{Buttonwillow Raceway Kart Track}	{35.489588661722536,-119.54427017100976,Buttonwillow,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+1506	Fri Dec 03 01:48:10 +0000 2010	4ae0e307f964a520648321e3	{Starbucks}	{37.235637,-121.964413,Los Gatos,CA,United States}	{Food,}
+1506	Thu Dec 02 17:34:56 +0000 2010	4c4c77399e6dbe9a339a880d	{Pick N Pull}	{37.31129701020411,-121.86956700599684,San Jose,CA,United States}	{Shop & Service,}
+1506	Wed Dec 01 22:06:27 +0000 2010	4b1dddc9f964a520061624e3	{Nordstrom Rack}	{37.293143405396115,-121.98723001645597,San Jose,CA,United States}	{Shop & Service,}
+1506	Wed Dec 01 00:34:25 +0000 2010	45143eacf964a520dd391fe3	{Rock Bottom Restaurant & Brewery}	{37.28894064683028,-121.93425178527833,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Mon Nov 29 01:30:07 +0000 2010	4ae0e307f964a520648321e3	{Starbucks}	{37.235637,-121.964413,Los Gatos,CA,United States}	{Food,}
+1506	Sat Nov 20 03:30:43 +0000 2010	4af79556f964a520f50922e3	{Los Gatos Cinemas}	{37.223879506763424,-121.98364831580284,Los Gatos,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+1506	Mon Nov 15 02:37:54 +0000 2010	4aaef7adf964a520d46320e3	{Willow Street Pizza}	{37.30866353333333,-121.90050275,San Jose,CA,United States}	{Food,}
+1506	Tue Nov 09 02:54:44 +0000 2010	4a6a6dd8f964a52072cd1fe3	{Los Gatos Brewing Co.}	{37.225195,-121.982245,Los Gatos,CA,United States}	{Nightlife Spot,}
+1506	Sat Nov 06 02:29:08 +0000 2010	4a1877bff964a520b5791fe3	{Aqui Cal-Mex}	{37.287148116015096,-121.94637537002563,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Mon Nov 01 23:15:04 +0000 2010	465c6e83f964a52033471fe3	{BJ's Restaurant & Brewhouse}	{37.33129385601666,-122.03177212265498,Cupertino,CA,United States}	{Nightlife Spot,Food,}
+1506	Sun Oct 31 21:35:16 +0000 2010	4a3c3cabf964a5204ca11fe3	{Wahoo's Fish Taco}	{37.32101119206543,-121.94929361343384,San Jose,CA,United States}	{Food,}
+1506	Thu Oct 28 02:46:16 +0000 2010	462d478ff964a520e9451fe3	{St. Stephen's Green}	{37.39348439077878,-122.0791034814007,Mountain View,CA,United States}	{Nightlife Spot,}
+1506	Wed Oct 27 23:15:50 +0000 2010	462d478ff964a520e9451fe3	{St. Stephen's Green}	{37.39348439077878,-122.0791034814007,Mountain View,CA,United States}	{Nightlife Spot,}
+1506	Fri Oct 22 03:06:24 +0000 2010	4b298e17f964a520d1a024e3	{Lilly Mac's}	{37.37636424632677,-122.03055381774902,Sunnyvale,CA,United States}	{Nightlife Spot,}
+1506	Wed Oct 20 03:25:21 +0000 2010	4b1478f0f964a5208da323e3	{Coach's Sports Bar and Grill}	{37.282744391164385,-121.94958576825933,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Sun Oct 17 22:14:22 +0000 2010	4aa41956f964a520454520e3	{A Perfect Day Spa}	{37.373926,-121.977138,Santa Clara,CA,United States}	{Shop & Service,}
+1506	Sat Oct 16 21:35:31 +0000 2010	4cb9eca8dd41a35d9af6e4a0	{Campbell Oktoberfest}	{37.28710125,-121.944724,Campbell,CA,United States}	{Nightlife Spot,}
+1506	Fri Oct 15 21:08:40 +0000 2010	40bbc700f964a520b1001fe3	{Union Square}	{37.787750172585,-122.40762822536455,San Francisco,CA,United States}	{Outdoors & Recreation,}
+1506	Mon Oct 11 01:26:55 +0000 2010	4a2dcb31f964a520f3971fe3	{Pluto's}	{37.320919471721844,-121.949143409729,San Jose,CA,United States}	{Food,}
+1506	Sun Oct 10 18:46:38 +0000 2010	4a0cf435f964a5206f751fe3	{Firestone Grill}	{35.28111529583604,-120.66039562225342,San Luis Obispo,CA,United States}	{Nightlife Spot,Food,}
+1506	Fri Oct 08 04:01:16 +0000 2010	4a1877bff964a520b5791fe3	{Aqui Cal-Mex}	{37.287148116015096,-121.94637537002563,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Fri Oct 08 03:10:10 +0000 2010	43996c58f964a520bc2b1fe3	{Sonoma Chicken Coop}	{37.28708903331068,-121.94634169364961,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Mon Oct 04 01:36:21 +0000 2010	43996c58f964a520bc2b1fe3	{Sonoma Chicken Coop}	{37.28708903331068,-121.94634169364961,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Sun Oct 03 13:49:45 +0000 2010	4ca7f949f47ea143e7af7021	{Rock N' Roll San Jose Half Marathon}	{37.33300893,-121.890939,San Jose,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+1506	Sat Oct 02 20:44:50 +0000 2010	4a0dd2dbf964a520a0751fe3	{The Counter}	{37.32078935662378,-121.9488000869751,San Jose,CA,United States}	{Food,}
+1506	Fri Oct 01 23:21:03 +0000 2010	4328b980f964a520ca271fe3	{San Jose McEnery Convention Center}	{37.329679325807774,-121.88878297805786,San Jose,CA,United States}	{Arts & Entertainment,Convention Center,Professional & Other Places,}
+1506	Fri Oct 01 22:06:17 +0000 2010	4551d7f6f964a520ec3c1fe3	{Sports Basement}	{37.38307549272568,-121.9972137351915,Sunnyvale,CA,United States}	{Shop & Service,}
+1506	Mon Sep 27 21:25:39 +0000 2010	4a9f2a3ff964a520c13c20e3	{Baja Fresh}	{37.36756507197194,-122.03268885612488,Sunnyvale,CA,United States}	{Food,}
+1506	Sun Sep 26 22:50:31 +0000 2010	49daa91af964a5209f5e1fe3	{San Francisco Botanical Garden}	{37.767763359972506,-122.4692130088806,San Francisco,CA,United States}	{Outdoors & Recreation,}
+1506	Sat Sep 25 02:02:27 +0000 2010	4c40992aa5c5ef3b0408b06f	{Palo Alto Weekly Moonlight Run}	{37.45132850213026,-122.11997529749073,Palo Alto,CA,United States}	{Outdoors & Recreation,}
+1506	Thu Sep 23 03:34:04 +0000 2010	4a9898fcf964a520e32c20e3	{Tsunami Sushi}	{37.393644,-122.078964,Mountain View,CA,United States}	{Food,}
+1506	Thu Sep 23 01:46:45 +0000 2010	49e926d5f964a520d2651fe3	{FireHouse Grill & Brewery}	{37.37740012772162,-122.0301528275013,Sunnyvale,CA,United States}	{Nightlife Spot,}
+1506	Wed Sep 22 21:27:24 +0000 2010	4a1877bff964a520b5791fe3	{Aqui Cal-Mex}	{37.287148116015096,-121.94637537002563,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Wed Sep 22 15:44:44 +0000 2010	40d77680f964a5205f011fe3	{Stacks}	{37.28716518793858,-121.94738388061525,Campbell,CA,United States}	{Food,}
+1506	Tue Sep 21 22:10:37 +0000 2010	4a1877bff964a520b5791fe3	{Aqui Cal-Mex}	{37.287148116015096,-121.94637537002563,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Sun Sep 19 12:58:31 +0000 2010	4b9ac1c8f964a520f0d235e3	{Shadow Cliffs Regional Recreation Area}	{37.67033577442535,-121.84267044067383,Pleasanton,CA,United States}	{Outdoors & Recreation,}
+1506	Sun Sep 19 03:37:08 +0000 2010	4aa41956f964a520454520e3	{A Perfect Day Spa}	{37.373926,-121.977138,Santa Clara,CA,United States}	{Shop & Service,}
+1506	Wed Sep 15 04:15:12 +0000 2010	438f5a5ff964a5203f2b1fe3	{Gordon Biersch Brewery Restaurant}	{37.33472821639385,-121.8885933902626,San Jose,CA,United States}	{Nightlife Spot,Food,}
+1506	Tue Sep 14 02:39:40 +0000 2010	4a8ee47af964a5200e1320e3	{Aquatic Park}	{37.80687093208493,-122.4227162762659,San Francisco,CA,United States}	{Outdoors & Recreation,}
+1506	Mon Sep 13 23:29:22 +0000 2010	4a135140f964a520d3771fe3	{Starbucks}	{37.7976921554458,-122.43051386916126,San Francisco,CA,United States}	{Food,}
+1506	Sat Sep 11 01:48:42 +0000 2010	4c4b8599712ac9287562fd6c	{Favaloro's}	{36.62070645,-121.91693,Pacific Grove,CA,United States}	{}
+1506	Fri Sep 10 19:37:11 +0000 2010	4bad1647f964a5203f2c3be3	{ZURB}	{37.28467264611492,-121.95148229598998,Campbell,CA,United States}	{Office,Professional & Other Places,}
+1506	Mon Sep 06 03:38:55 +0000 2010	4a2dcb31f964a520f3971fe3	{Pluto's}	{37.320919471721844,-121.949143409729,San Jose,CA,United States}	{Food,}
+1506	Sat Sep 04 00:02:38 +0000 2010	40bd1880f964a520b3001fe3	{Red's Java House}	{37.78716566682713,-122.38748610019684,San Francisco,CA,United States}	{Food,}
+1506	Thu Sep 02 03:33:32 +0000 2010	4a1877bff964a520b5791fe3	{Aqui Cal-Mex}	{37.287148116015096,-121.94637537002563,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Fri Aug 27 21:16:06 +0000 2010	4a1877bff964a520b5791fe3	{Aqui Cal-Mex}	{37.287148116015096,-121.94637537002563,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Thu Aug 26 22:16:09 +0000 2010	4aa41956f964a520454520e3	{A Perfect Day Spa}	{37.373926,-121.977138,Santa Clara,CA,United States}	{Shop & Service,}
+1506	Thu Aug 26 22:16:09 +0000 2010	4aa41956f964a520454520e3	{A Perfect Day Spa}	{37.373926,-121.977138,Santa Clara,CA,United States}	{Shop & Service,}
+1506	Wed Aug 25 06:34:43 +0000 2010	40d77680f964a52061011fe3	{Cardiff Lounge}	{37.286964654922485,-121.945389,Campbell,CA,United States}	{Nightlife Spot,}
+1506	Wed Aug 25 05:44:09 +0000 2010	43996c58f964a520bc2b1fe3	{Sonoma Chicken Coop}	{37.28708903331068,-121.94634169364961,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Wed Aug 25 04:52:31 +0000 2010	44e321fff964a52039371fe3	{TGI's Sushi}	{37.29393879986359,-121.95194099527733,Campbell,CA,United States}	{Food,}
+1506	Mon Aug 23 23:08:34 +0000 2010	40c10d00f964a520d9001fe3	{Starbucks}	{37.32836978507986,-121.96612983942032,Santa Clara,CA,United States}	{Food,}
+1506	Sat Aug 21 13:14:56 +0000 2010	4b9ac1c8f964a520f0d235e3	{Shadow Cliffs Regional Recreation Area}	{37.67033577442535,-121.84267044067383,Pleasanton,CA,United States}	{Outdoors & Recreation,}
+1506	Sat Aug 21 00:30:40 +0000 2010	40c8f600f964a520fe001fe3	{Shoreline Amphitheatre}	{37.42555592999895,-122.0794918584107,Mountain View,CA,United States}	{Arts & Entertainment,}
+1506	Fri Aug 20 22:09:08 +0000 2010	4bd730f609ecb7131755467c	{Faux Hair Salon}	{37.28681629003699,-121.94321973689358,Campbell,CA,United States}	{Shop & Service,}
+1506	Thu Aug 19 01:16:47 +0000 2010	4ba4849ff964a520e8a138e3	{Kaama Lounge}	{37.321062384766684,-121.9506025314331,San Jose,CA,United States}	{Nightlife Spot,Food,}
+1506	Thu Aug 19 00:05:56 +0000 2010	43598100f964a520e7281fe3	{Straits}	{37.32180605556545,-121.94794707816047,San Jose,CA,United States}	{Nightlife Spot,Food,}
+1506	Mon Aug 16 01:52:52 +0000 2010	4aa41956f964a520454520e3	{A Perfect Day Spa}	{37.373926,-121.977138,Santa Clara,CA,United States}	{Shop & Service,}
+1506	Sun Aug 15 22:54:08 +0000 2010	4a1877bff964a520b5791fe3	{Aqui Cal-Mex}	{37.287148116015096,-121.94637537002563,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Sun Aug 15 20:56:16 +0000 2010	4b8ac008f964a520737e32e3	{Santana Row Farmers Market}	{37.32098403665517,-121.94843591030762,San Jose,CA,United States}	{Outdoors & Recreation,Shop & Service,Food & Drink Shop,}
+1506	Sun Aug 15 20:53:04 +0000 2010	4a2dcb31f964a520f3971fe3	{Pluto's}	{37.320919471721844,-121.949143409729,San Jose,CA,United States}	{Food,}
+1506	Sat Aug 14 22:28:27 +0000 2010	4a6a2e19f964a520c4cc1fe3	{Aldo's Harbor Restaurant}	{36.96403,-122.002723,Santa Cruz,CA,United States}	{Food,}
+1506	Fri Aug 13 04:15:09 +0000 2010	43996c58f964a520bc2b1fe3	{Sonoma Chicken Coop}	{37.28708903331068,-121.94634169364961,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Fri Aug 13 02:14:29 +0000 2010	45143eacf964a520dd391fe3	{Rock Bottom Restaurant & Brewery}	{37.28894064683028,-121.93425178527833,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Thu Aug 12 05:19:41 +0000 2010	4a15a3b3f964a520ab781fe3	{Panda Express}	{37.32239338275921,-121.99450492858887,San Jose,CA,United States}	{Food,}
+1506	Thu Aug 12 04:22:18 +0000 2010	43c96da6f964a5209d2d1fe3	{GoKart Racer}	{37.59519254561905,-122.37020848596019,Burlingame,CA,United States}	{Food,Arts & Entertainment,}
+1506	Tue Aug 10 17:37:15 +0000 2010	4a7ef4edf964a5205df21fe3	{The Walnut Avenue Cafe}	{36.973494120203924,-122.02644335019566,Santa Cruz,CA,United States}	{Food,}
+1506	Wed Aug 04 20:53:15 +0000 2010	4afe1685f964a520d12d22e3	{Elephant Bar}	{37.29483463308755,-121.94147540215448,Campbell,CA,United States}	{Food,}
+1506	Wed Aug 04 15:19:46 +0000 2010	40d77680f964a5205f011fe3	{Stacks}	{37.28716518793858,-121.94738388061525,Campbell,CA,United States}	{Food,}
+1506	Wed Aug 04 15:19:45 +0000 2010	40d77680f964a5205f011fe3	{Stacks}	{37.28716518793858,-121.94738388061525,Campbell,CA,United States}	{Food,}
+1506	Tue Aug 03 18:19:40 +0000 2010	49eb867af964a520f0661fe3	{Apple Store}	{37.3255888888888,-121.946377477682,Santa Clara,CA,United States}	{Shop & Service,}
+1506	Mon Aug 02 22:33:26 +0000 2010	4a934b46f964a520781f20e3	{Panera Bread}	{37.600555,-122.382053,Millbrae,CA,United States}	{Food,}
+1506	Mon Aug 02 01:46:53 +0000 2010	4a2dcb31f964a520f3971fe3	{Pluto's}	{37.320919471721844,-121.949143409729,San Jose,CA,United States}	{Food,}
+1506	Sat Jul 31 03:19:46 +0000 2010	4b43e74df964a520a9ed25e3	{Panda Express}	{37.29059953009168,-121.9918221960283,San Jose,CA,United States}	{Food,}
+1506	Thu Jul 29 01:29:12 +0000 2010	4a934b46f964a520781f20e3	{Panera Bread}	{37.600555,-122.382053,Millbrae,CA,United States}	{Food,}
+1506	Mon Jul 26 00:31:56 +0000 2010	4aa41956f964a520454520e3	{A Perfect Day Spa}	{37.373926,-121.977138,Santa Clara,CA,United States}	{Shop & Service,}
+1506	Sun Jul 25 18:56:14 +0000 2010	40d77680f964a5205f011fe3	{Stacks}	{37.28716518793858,-121.94738388061525,Campbell,CA,United States}	{Food,}
+1506	Sun Jul 25 18:09:42 +0000 2010	4a2afa84f964a52079961fe3	{Campbell Farmers' Market}	{37.287103007958144,-121.94512514097626,Campbell,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1506	Sun Jul 25 12:19:21 +0000 2010	4c4c2f3246240f47fbcb6bf4	{SF Marathon Start Line}	{37.79384675087477,-122.39254474639893,San Francisco,CA,United States}	{Shop & Service,Outdoors & Recreation,Arts & Entertainment,Gym / Fitness Center,}
+1506	Fri Jul 23 22:31:31 +0000 2010	4ac3d67bf964a520059d20e3	{Starbucks}	{37.287190795816485,-121.94501280784607,Campbell,CA,United States}	{Food,}
+1506	Fri Jul 23 15:35:16 +0000 2010	40d77680f964a5205f011fe3	{Stacks}	{37.28716518793858,-121.94738388061525,Campbell,CA,United States}	{Food,}
+1506	Thu Jul 22 04:25:52 +0000 2010	43c96da6f964a5209d2d1fe3	{GoKart Racer}	{37.59519254561905,-122.37020848596019,Burlingame,CA,United States}	{Food,Arts & Entertainment,}
+1506	Thu Jul 22 01:05:54 +0000 2010	4a934b46f964a520781f20e3	{Panera Bread}	{37.600555,-122.382053,Millbrae,CA,United States}	{Food,}
+1506	Wed Jul 21 15:26:14 +0000 2010	40d77680f964a5205f011fe3	{Stacks}	{37.28716518793858,-121.94738388061525,Campbell,CA,United States}	{Food,}
+1506	Mon Jul 19 23:12:40 +0000 2010	4a2dcb31f964a520f3971fe3	{Pluto's}	{37.320919471721844,-121.949143409729,San Jose,CA,United States}	{Food,}
+1506	Mon Jul 19 01:41:28 +0000 2010	42accc80f964a5204f251fe3	{Camera 7 Pruneyard}	{37.28798890364347,-121.93404257297516,Campbell,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1506	Sun Jul 18 22:08:36 +0000 2010	4bc5f166f360ef3b7bd5da2d	{Capitola Beach}	{36.972052835468475,-121.95113000299604,Capitola,CA,United States}	{Outdoors & Recreation,}
+1506	Sun Jul 18 20:13:00 +0000 2010	4a75ebebf964a520aae11fe3	{Hank's at the Hook}	{36.96392,-121.964855,Capitola,CA,United States}	{Food,}
+1506	Sun Jul 18 06:15:28 +0000 2010	4b1478f0f964a5208da323e3	{Coach's Sports Bar and Grill}	{37.282744391164385,-121.94958576825933,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Sun Jul 18 02:39:14 +0000 2010	4a1877bff964a520b5791fe3	{Aqui Cal-Mex}	{37.287148116015096,-121.94637537002563,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Sat Jul 17 21:24:10 +0000 2010	4c41e4263735be9abc1619a4	{Big Bands & Barbeque Downtown Campbell}	{37.287033,-121.94393716666667,Campbell,CA,United States}	{Arts & Entertainment,}
+1506	Sat Jul 17 05:56:21 +0000 2010	49c5ae3ff964a5201c571fe3	{Carry Nation's}	{37.22283405900733,-121.9835983377554,Los Gatos,CA,United States}	{Nightlife Spot,}
+1506	Sat Jul 17 01:26:46 +0000 2010	4ad231edf964a520fddf20e3	{Steamer's}	{37.22319609063294,-121.98238775141482,Los Gatos,CA,United States}	{Food,}
+1506	Fri Jul 16 21:57:09 +0000 2010	4afe1685f964a520d12d22e3	{Elephant Bar}	{37.29483463308755,-121.94147540215448,Campbell,CA,United States}	{Food,}
+1506	Thu Jul 15 23:05:48 +0000 2010	4aa41956f964a520454520e3	{A Perfect Day Spa}	{37.373926,-121.977138,Santa Clara,CA,United States}	{Shop & Service,}
+1506	Thu Jul 15 00:20:09 +0000 2010	49e3cb7cf964a520d3621fe3	{Peet's Coffee & Tea}	{37.486422853891796,-122.23330683162291,Redwood City,CA,United States}	{Food,}
+1506	Mon Jul 12 23:55:53 +0000 2010	4a89ed8ef964a520600920e3	{Starbucks}	{37.42342911076776,-122.19777345657349,Menlo Park,CA,United States}	{Food,}
+1506	Sun Jul 11 20:43:51 +0000 2010	43996c58f964a520bc2b1fe3	{Sonoma Chicken Coop}	{37.28708903331068,-121.94634169364961,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Sun Jul 11 18:20:10 +0000 2010	4a1877bff964a520b5791fe3	{Aqui Cal-Mex}	{37.287148116015096,-121.94637537002563,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Sun Jul 11 18:18:22 +0000 2010	4a1877bff964a520b5791fe3	{Aqui Cal-Mex}	{37.287148116015096,-121.94637537002563,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Sun Jul 11 16:53:13 +0000 2010	4c39f6a8ae2da593915403c6	{Jungle Run}	{37.223633154704906,-121.97525168385134,Los Gatos,CA,United States}	{Shop & Service,}
+1506	Sat Jul 10 01:05:21 +0000 2010	49dbd89cf964a5201b5f1fe3	{Shana Thai Restaurant}	{37.39776376909154,-122.07610183503613,Mountain View,CA,United States}	{Food,}
+1506	Fri Jul 09 23:37:00 +0000 2010	4bc51e575935c9b6c896a5d2	{Shoreline Park & Lake}	{37.43231544281039,-122.08716988563536,Mountain View,CA,United States}	{Outdoors & Recreation,}
+1506	Fri Jul 09 21:26:11 +0000 2010	450af4f4f964a5204c391fe3	{Red Rock Coffee}	{37.393803003654625,-122.07888155105633,Mountain View,CA,United States}	{Food,}
+1506	Fri Jul 09 20:44:40 +0000 2010	4b5dc92ef964a5208f6b29e3	{SheSpeaks}	{40.74565,-73.9867062,New York,NY,United States}	{Office,Professional & Other Places,}
+1506	Fri Jul 09 20:02:39 +0000 2010	46c6259cf964a5200b4a1fe3	{City Pub}	{37.48648177008505,-122.23388671875,Redwood City,CA,United States}	{Nightlife Spot,Food,}
+1506	Fri Jul 09 02:32:44 +0000 2010	43996c58f964a520bc2b1fe3	{Sonoma Chicken Coop}	{37.28708903331068,-121.94634169364961,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Thu Jul 08 02:52:47 +0000 2010	45143eacf964a520dd391fe3	{Rock Bottom Restaurant & Brewery}	{37.28894064683028,-121.93425178527833,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Wed Jul 07 19:42:58 +0000 2010	4bf333443f86c9b6b5ecb11c	{Dickey's Barbecue Pit}	{37.15450209904577,-121.65088176727295,Morgan Hill,CA,United States}	{Food,}
+1506	Mon Jul 05 18:39:09 +0000 2010	40da1980f964a5206b011fe3	{Orchard Valley Coffee}	{37.287215,-121.9437222,Campbell,CA,United States}	{Food,}
+1506	Sun Jul 04 18:55:16 +0000 2010	4a2afa84f964a52079961fe3	{Campbell Farmers' Market}	{37.287103007958144,-121.94512514097626,Campbell,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1506	Sat Jul 03 23:30:07 +0000 2010	4aff271bf964a520073522e3	{Fortino Winery}	{37.014118,-121.652994,Gilroy,CA,United States}	{Food,}
+1506	Sat Jul 03 21:51:32 +0000 2010	4bc5f166f360ef3b7bd5da2d	{Capitola Beach}	{36.972052835468475,-121.95113000299604,Capitola,CA,United States}	{Outdoors & Recreation,}
+1506	Sat Jul 03 18:23:38 +0000 2010	4a90ccc9f964a520801920e3	{Margaritaville}	{36.97237988263237,-121.9525575675933,Capitola,CA,United States}	{Nightlife Spot,}
+1506	Sat Jul 03 05:00:56 +0000 2010	43bd9291f964a520092d1fe3	{Khartoum}	{37.285748205110586,-121.94383263587952,Campbell,CA,United States}	{Nightlife Spot,}
+1506	Sat Jul 03 04:01:04 +0000 2010	441b2867f964a52045311fe3	{Katie Bloom's}	{37.2871575,-121.943399,Campbell,CA,United States}	{Nightlife Spot,}
+1506	Sat Jul 03 03:21:35 +0000 2010	49ee3126f964a52035681fe3	{Roux Louisiana Kitchen}	{37.32072,-121.94908193,San Jose,CA,United States}	{Nightlife Spot,Food,}
+1506	Fri Jul 02 20:25:04 +0000 2010	45143eacf964a520dd391fe3	{Rock Bottom Restaurant & Brewery}	{37.28894064683028,-121.93425178527833,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Fri Jul 02 03:39:33 +0000 2010	465c6e83f964a52033471fe3	{BJ's Restaurant & Brewhouse}	{37.33129385601666,-122.03177212265498,Cupertino,CA,United States}	{Nightlife Spot,Food,}
+1506	Thu Jul 01 20:25:03 +0000 2010	4ad2b5cef964a5208ae220e3	{Buca di Beppo}	{37.28954,-121.93179,Campbell,CA,United States}	{Food,}
+1506	Wed Jun 30 22:52:47 +0000 2010	40da1980f964a5206b011fe3	{Orchard Valley Coffee}	{37.287215,-121.9437222,Campbell,CA,United States}	{Food,}
+1506	Wed Jun 30 15:17:02 +0000 2010	40d77680f964a5205f011fe3	{Stacks}	{37.28716518793858,-121.94738388061525,Campbell,CA,United States}	{Food,}
+1506	Wed Jun 30 01:09:49 +0000 2010	4a1877bff964a520b5791fe3	{Aqui Cal-Mex}	{37.287148116015096,-121.94637537002563,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Mon Jun 28 21:25:17 +0000 2010	4a1877bff964a520b5791fe3	{Aqui Cal-Mex}	{37.287148116015096,-121.94637537002563,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Sun Jun 27 16:37:43 +0000 2010	43c96da6f964a5209d2d1fe3	{GoKart Racer}	{37.59519254561905,-122.37020848596019,Burlingame,CA,United States}	{Food,Arts & Entertainment,}
+1506	Sun Jun 27 14:25:54 +0000 2010	4283ee00f964a520c7221fe3	{The Old Pro}	{37.4449352800068,-122.16129181350485,Palo Alto,CA,United States}	{Nightlife Spot,Food,}
+1506	Sat Jun 26 21:20:13 +0000 2010	43996c58f964a520bc2b1fe3	{Sonoma Chicken Coop}	{37.28708903331068,-121.94634169364961,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Sat Jun 26 21:03:44 +0000 2010	441b2867f964a52045311fe3	{Katie Bloom's}	{37.2871575,-121.943399,Campbell,CA,United States}	{Nightlife Spot,}
+1506	Fri Jun 25 03:22:12 +0000 2010	4ad2b5cef964a5208ae220e3	{Buca di Beppo}	{37.28954,-121.93179,Campbell,CA,United States}	{Food,}
+1506	Wed Jun 23 00:35:51 +0000 2010	4489da69f964a52043341fe3	{Trial's Pub}	{37.339963,-121.893523,San Jose,CA,United States}	{Nightlife Spot,}
+1506	Sat Jun 19 03:20:17 +0000 2010	4a1877bff964a520b5791fe3	{Aqui Cal-Mex}	{37.287148116015096,-121.94637537002563,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Tue Jun 08 01:04:55 +0000 2010	40da1980f964a5206b011fe3	{Orchard Valley Coffee}	{37.287215,-121.9437222,Campbell,CA,United States}	{Food,}
+===
+1506	Tue May 11 01:58:47 +0000 2010	4a1877bff964a520b5791fe3	{Aqui Cal-Mex}	{37.287148116015096,-121.94637537002563,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Sun May 09 05:23:02 +0000 2010	4ba16de9f964a52046b637e3	{180 restaraunt}	{37.22298860549927,-121.983925,Los Gatos,CA,United States}	{Nightlife Spot,}
+1506	Sat May 08 03:27:33 +0000 2010	4a4ac040f964a52026ac1fe3	{Rickhouse}	{37.79054655738382,-122.40394681692123,San Francisco,CA,United States}	{Nightlife Spot,}
+1506	Thu May 06 03:37:17 +0000 2010	4a1877bff964a520b5791fe3	{Aqui Cal-Mex}	{37.287148116015096,-121.94637537002563,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Thu May 06 03:37:17 +0000 2010	4a1877bff964a520b5791fe3	{Aqui Cal-Mex}	{37.287148116015096,-121.94637537002563,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Sun Apr 25 00:23:37 +0000 2010	4a5ea15ef964a520edbe1fe3	{Sam's Anchor Cafe}	{37.8728719948043,-122.45649496277812,Tiburon,CA,United States}	{Food,}
+1506	Sat Apr 24 22:30:20 +0000 2010	4161e400f964a520671d1fe3	{Guaymas Restaurant}	{37.873006539472755,-122.45556731484496,Tiburon,CA,United States}	{Food,}
+1506	Fri Apr 23 03:09:42 +0000 2010	4aa41956f964a520454520e3	{A Perfect Day Spa}	{37.373926,-121.977138,Santa Clara,CA,United States}	{Shop & Service,}
+1506	Wed Apr 21 01:23:03 +0000 2010	45143eacf964a520dd391fe3	{Rock Bottom Restaurant & Brewery}	{37.28894064683028,-121.93425178527833,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Thu Apr 15 19:13:06 +0000 2010	4a68bb81f964a520e3ca1fe3	{Joy Sushi}	{37.567179,-122.324413,San Mateo,CA,United States}	{Food,}
+1506	Thu Apr 15 17:49:55 +0000 2010	450af4f4f964a5204c391fe3	{Red Rock Coffee}	{37.393803003654625,-122.07888155105633,Mountain View,CA,United States}	{Food,}
+1506	Wed Apr 14 16:03:47 +0000 2010	40d77680f964a5205f011fe3	{Stacks}	{37.28716518793858,-121.94738388061525,Campbell,CA,United States}	{Food,}
+1506	Tue Apr 13 17:32:25 +0000 2010	40da1980f964a5206b011fe3	{Orchard Valley Coffee}	{37.287215,-121.9437222,Campbell,CA,United States}	{Food,}
+1506	Fri Apr 09 18:29:03 +0000 2010	40d77680f964a5205f011fe3	{Stacks}	{37.28716518793858,-121.94738388061525,Campbell,CA,United States}	{Food,}
+1506	Thu Apr 08 23:38:48 +0000 2010	43996c58f964a520bc2b1fe3	{Sonoma Chicken Coop}	{37.28708903331068,-121.94634169364961,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Thu Apr 08 00:24:10 +0000 2010	4283ee00f964a520c7221fe3	{The Old Pro}	{37.4449352800068,-122.16129181350485,Palo Alto,CA,United States}	{Nightlife Spot,Food,}
+1506	Wed Apr 07 15:53:21 +0000 2010	4ab7e57cf964a5205f7b20e3	{foursquare HQ}	{40.728446986504814,-73.99121834617733,New York,NY,United States}	{Office,Professional & Other Places,}
+1506	Wed Apr 07 04:02:05 +0000 2010	42accc80f964a5204f251fe3	{Camera 7 Pruneyard}	{37.28798890364347,-121.93404257297516,Campbell,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1506	Tue Apr 06 19:13:51 +0000 2010	40da1980f964a5206b011fe3	{Orchard Valley Coffee}	{37.287215,-121.9437222,Campbell,CA,United States}	{Food,}
+1506	Mon Mar 29 00:34:39 +0000 2010	4aa41956f964a520454520e3	{A Perfect Day Spa}	{37.373926,-121.977138,Santa Clara,CA,United States}	{Shop & Service,}
+1506	Thu Mar 18 01:10:33 +0000 2010	412bd680f964a520ad0c1fe3	{Molly Magees}	{37.393214,-122.078907,Mountain View,CA,United States}	{Nightlife Spot,}
+1506	Sat Feb 27 03:48:51 +0000 2010	4283ee00f964a520c7221fe3	{The Old Pro}	{37.4449352800068,-122.16129181350485,Palo Alto,CA,United States}	{Nightlife Spot,Food,}
+1506	Thu Feb 25 00:53:57 +0000 2010	45143eacf964a520dd391fe3	{Rock Bottom Restaurant & Brewery}	{37.28894064683028,-121.93425178527833,Campbell,CA,United States}	{Nightlife Spot,Food,}
+1506	Sun Feb 21 04:15:09 +0000 2010	462d478ff964a520e9451fe3	{St. Stephen's Green}	{37.39348439077878,-122.0791034814007,Mountain View,CA,United States}	{Nightlife Spot,}
+1506	Sun Feb 21 00:32:05 +0000 2010	4afe1685f964a520d12d22e3	{Elephant Bar}	{37.29483463308755,-121.94147540215448,Campbell,CA,United States}	{Food,}
+1506	Thu Feb 18 20:24:39 +0000 2010	43b439b6f964a520bc2c1fe3	{Papalote Mexican Grill}	{37.752163420695425,-122.42097418166016,San Francisco,CA,United States}	{Food,}
+1506	Tue Feb 09 23:41:10 +0000 2010	4a5a77a4f964a52062ba1fe3	{Chicago O'Hare International Airport (ORD)}	{41.977270920041626,-87.90440082550049,Chicago,IL,United States}	{Travel & Transport,}
+1506	Tue Feb 09 00:06:09 +0000 2010	4b40be74f964a52091ba25e3	{Terminal 1}	{41.97911333235607,-87.9069972038269,Chicago,IL,United States}	{Travel & Transport,Airport,}
+1506	Sun Feb 07 20:36:00 +0000 2010	4a4f745df964a52054af1fe3	{Fred's Mexican Cafe}	{33.657316862774806,-118.00161838531494,Huntington Beach,CA,United States}	{Nightlife Spot,Food,}
+1506	Sun Jan 24 22:31:34 +0000 2010	4ad2b5cef964a5208ae220e3	{Buca di Beppo}	{37.28954,-121.93179,Campbell,CA,United States}	{Food,}
+1506	Wed Jan 20 19:31:24 +0000 2010	4ad8fde0f964a520db1621e3	{Mozilla HQ}	{37.38807010872821,-122.08305931359776,Mountain View,CA,United States}	{Office,Professional & Other Places,}
+1506	Wed Dec 30 04:32:50 +0000 2009	4afe1685f964a520d12d22e3	{Elephant Bar}	{37.29483463308755,-121.94147540215448,Campbell,CA,United States}	{Food,}
+1506	Tue Dec 29 15:00:56 +0000 2009	45486961f964a520823c1fe3	{Mountain View Caltrain Station}	{37.39416407012379,-122.07572221755981,Mountain View,CA,United States}	{Travel & Transport,Bus Station,}
+1506	Tue Dec 29 03:37:25 +0000 2009	4b3f982bf964a520e7a925e3	{Willow Street Pizza}	{37.29352671,-121.9891702,San Jose,CA,United States}	{Food,}
+1506	Mon Dec 28 05:08:17 +0000 2009	4a07916af964a52083731fe3	{AMC Mercado 20}	{37.38896010475414,-121.98297679424286,Santa Clara,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1506	Sun Dec 27 03:06:30 +0000 2009	457ae857f964a520eb3e1fe3	{Daphne's Greek Cafe}	{37.367766,-122.03317031666667,Sunnyvale,CA,United States}	{Food,}
+1506	Tue Dec 22 22:37:50 +0000 2009	4afe1685f964a520d12d22e3	{Elephant Bar}	{37.29483463308755,-121.94147540215448,Campbell,CA,United States}	{Food,}
+1506	Tue Dec 22 21:57:13 +0000 2009	4a63aa0af964a5208ac51fe3	{Redwood Trading Post}	{37.482256926165334,-122.22937524318695,Redwood City,CA,United States}	{Shop & Service,}
+1506	Sun Dec 20 22:32:03 +0000 2009	43616a00f964a52037291fe3	{Coupa Caf?}	{37.444808199215785,-122.16147780418396,Palo Alto,CA,United States}	{Food,}
+1506	Sun Dec 20 21:37:03 +0000 2009	4a1eeee1f964a520eb7b1fe3	{Pluto's}	{37.44802649761261,-122.15952325218242,Palo Alto,CA,United States}	{Food,}
+1506	Sun Dec 20 04:14:01 +0000 2009	4a4ac040f964a52026ac1fe3	{Rickhouse}	{37.79054655738382,-122.40394681692123,San Francisco,CA,United States}	{Nightlife Spot,}
+1506	Sun Dec 20 01:45:01 +0000 2009	4bcbfb813740b713c06a6365	{Knuckles Sports Bar}	{37.594233,-122.36511,Burlingame,CA,United States}	{Nightlife Spot,}
+1506	Sat Dec 19 20:39:17 +0000 2009	4a5ea15ef964a520edbe1fe3	{Sam's Anchor Cafe}	{37.8728719948043,-122.45649496277812,Tiburon,CA,United States}	{Food,}
+1506	Fri Dec 18 02:43:07 +0000 2009	4a7688a0f964a52021e31fe3	{Nola}	{37.44501495519979,-122.16135834189019,Palo Alto,CA,United States}	{Nightlife Spot,Food,}
+1506	Fri Dec 18 01:40:08 +0000 2009	439ab032f964a520ce2b1fe3	{Gordon Biersch - Palo Alto}	{37.443415,-122.160856,Palo Alto,CA,United States}	{Food,}
+1506	Thu Dec 17 16:58:51 +0000 2009	45073758f964a52021391fe3	{San Francisco Caltrain Station}	{37.776642582524694,-122.39486753940582,San Francisco,CA,United States}	{Travel & Transport,Train Station,}
+1506	Thu Dec 17 16:01:42 +0000 2009	45486961f964a520823c1fe3	{Mountain View Caltrain Station}	{37.39416407012379,-122.07572221755981,Mountain View,CA,United States}	{Travel & Transport,Bus Station,}
+1506	Wed Dec 16 07:12:01 +0000 2009	45073758f964a52021391fe3	{San Francisco Caltrain Station}	{37.776642582524694,-122.39486753940582,San Francisco,CA,United States}	{Travel & Transport,Train Station,}
+1506	Tue Dec 15 18:54:53 +0000 2009	45073758f964a52021391fe3	{San Francisco Caltrain Station}	{37.776642582524694,-122.39486753940582,San Francisco,CA,United States}	{Travel & Transport,Train Station,}
+1506	Tue Dec 15 02:00:07 +0000 2009	4a2dcb31f964a520f3971fe3	{Pluto's}	{37.320919471721844,-121.949143409729,San Jose,CA,United States}	{Food,}
+1506	Mon Dec 14 04:27:35 +0000 2009	4a2dcb31f964a520f3971fe3	{Pluto's}	{37.320919471721844,-121.949143409729,San Jose,CA,United States}	{Food,}
+1506	Fri Dec 11 02:43:57 +0000 2009	4aa001bdf964a520eb3d20e3	{US Venture Partners}	{37.419496806530226,-122.20902800559998,Menlo Park,CA,United States}	{Professional & Other Places,}
+1506	Fri Dec 11 01:18:46 +0000 2009	46596303f964a52016471fe3	{Costco}	{37.42083884039676,-122.09522724151611,Mountain View,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1506	Wed Dec 09 23:51:14 +0000 2009	4a15a3b3f964a520ab781fe3	{Panda Express}	{37.32239338275921,-121.99450492858887,San Jose,CA,United States}	{Food,}
+1506	Wed Dec 09 04:25:51 +0000 2009	465c6e83f964a52033471fe3	{BJ's Restaurant & Brewhouse}	{37.33129385601666,-122.03177212265498,Cupertino,CA,United States}	{Nightlife Spot,Food,}
+1506	Wed Dec 09 01:58:41 +0000 2009	45486961f964a520823c1fe3	{Mountain View Caltrain Station}	{37.39416407012379,-122.07572221755981,Mountain View,CA,United States}	{Travel & Transport,Bus Station,}
+1506	Tue Dec 08 16:19:37 +0000 2009	45073758f964a52021391fe3	{San Francisco Caltrain Station}	{37.776642582524694,-122.39486753940582,San Francisco,CA,United States}	{Travel & Transport,Train Station,}
+1506	Tue Dec 08 15:09:17 +0000 2009	45486961f964a520823c1fe3	{Mountain View Caltrain Station}	{37.39416407012379,-122.07572221755981,Mountain View,CA,United States}	{Travel & Transport,Bus Station,}

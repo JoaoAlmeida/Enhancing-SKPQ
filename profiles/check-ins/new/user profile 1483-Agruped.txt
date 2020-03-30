@@ -1,0 +1,259 @@
+1483	Thu Aug 11 03:35:42 +0000 2011	4b548bf1f964a5206ebf27e3	{Kyoto Restaurant}	{38.3490623238861,-122.70821339135655,Rohnert Park,CA,United States}	{Food,}
+1483	Wed Aug 10 21:01:00 +0000 2011	4b9aa505f964a52029c935e3	{Port Of Subs}	{38.345928783333335,-122.70686944,Rohnert Park,CA,United States}	{Food,}
+1483	Tue Aug 09 21:58:57 +0000 2011	4d3771753ffba143ea425256	{H&R Block}	{38.4515144112998,-122.7524576980731,Santa Rosa,CA,United States}	{Shop & Service,}
+1483	Tue Aug 09 21:58:23 +0000 2011	4c4b416c9e6dbe9a469ccb0b	{Hot Cuts}	{38.451412,-122.751964,Santa Rosa,CA,United States}	{Shop & Service,}
+1483	Sun Aug 07 20:32:00 +0000 2011	4e702fdde4cd5c8693e2b64a	{Larkspur, CA}	{37.945616841426045,-122.51313817948359,Larkspur,CA,United States}	{Outdoors & Recreation,}
+1483	Sun Aug 07 01:52:02 +0000 2011	4b8c3f51f964a52069c632e3	{RAB Motors}	{37.96515257600302,-122.51569651531064,San Rafael,CA,United States}	{Shop & Service,}
+1483	Sun Aug 07 01:51:39 +0000 2011	4c48b9fb9e3e2d7fa29cd347	{KFC}	{37.97018808954687,-122.52013891879906,San Rafael,CA,United States}	{Food,}
+1483	Sat Aug 06 05:31:27 +0000 2011	4c48b074b5eec9b60c4cc1a3	{Highway 101}	{38.33607245023337,-122.71296186080313,Rohnert Park,CA,United States}	{Travel & Transport,}
+1483	Sat Aug 06 04:34:17 +0000 2011	4ba54162f964a52060f238e3	{Carl's Jr.}	{38.34673721591185,-122.71613289928817,Rohnert Park,CA,United States}	{Food,}
+1483	Wed Aug 03 04:49:02 +0000 2011	4b884b48f964a5203aed31e3	{Papa John's Pizza}	{38.459424,-122.73351,Santa Rosa,CA,United States}	{Food,}
+1483	Tue Aug 02 19:18:35 +0000 2011	4be73371d4f7c9b6a4992720	{Valero}	{38.34886904065251,-122.71793069651713,Rohnert Park,CA,United States}	{Shop & Service,}
+1483	Mon Aug 01 20:45:35 +0000 2011	4ae23fd2f964a520618c21e3	{Seafood Peddler}	{37.968109,-122.5183999583332,San Rafael,CA,United States}	{Food,}
+1483	Sat Jul 30 05:28:46 +0000 2011	4ba3f74af964a520547238e3	{Brain Freeze  Frozen Yogurt}	{38.34978242696128,-122.70644634962082,Rohnert Park,CA,United States}	{Food,}
+1483	Thu Jul 28 21:39:23 +0000 2011	4e702fdde4cd5c8693e2b64a	{Larkspur, CA}	{37.945616841426045,-122.51313817948359,Larkspur,CA,United States}	{Outdoors & Recreation,}
+1483	Thu Jul 28 21:34:13 +0000 2011	4b65c235f964a520e3fd2ae3	{Redwood Credit Union}	{37.969772983333336,-122.51584,San Rafael,CA,United States}	{Shop & Service,}
+1483	Thu Jul 28 02:20:19 +0000 2011	47d86b7af964a5202f4e1fe3	{Olive Garden}	{38.34794885,-122.715486,Rohnert Park,CA,United States}	{Food,}
+1483	Thu Jul 28 01:50:00 +0000 2011	4cbd2b4b4495721e546f5e7a	{El Pollo Loco}	{38.359788597118886,-122.71400969310287,Rohnert Park,CA,United States}	{Food,}
+1483	Wed Jul 27 19:21:03 +0000 2011	4b75e942f964a520152e2ee3	{Burger King}	{38.34996578,-122.71014415,Rohnert Park,CA,United States}	{Food,}
+1483	Sat Jul 23 23:49:30 +0000 2011	4c51f08694790f4799dadda1	{El Salvadore?o Restaurant}	{37.9643147,-122.50788152,San Rafael,CA,United States}	{Food,}
+1483	Thu Jul 21 17:43:18 +0000 2011	4aede831f964a5201bd021e3	{Pier 15}	{37.965942,-122.5138,San Rafael,CA,United States}	{Food,}
+1483	Mon Jul 18 13:52:01 +0000 2011	4b4b8ed6f964a5203ba026e3	{Redwood Credit Union}	{38.34909810579208,-122.7074467768858,Rohnert Park,CA,United States}	{Shop & Service,}
+1483	Sun Jul 17 23:45:01 +0000 2011	48078ddff964a520064f1fe3	{Royal Coach Car Wash}	{37.95989,-122.504285,San Rafael,CA,United States}	{Shop & Service,}
+1483	Sun Jul 17 05:14:07 +0000 2011	4b4b8ed6f964a5203ba026e3	{Redwood Credit Union}	{38.34909810579208,-122.7074467768858,Rohnert Park,CA,United States}	{Shop & Service,}
+1483	Fri Jul 15 04:19:57 +0000 2011	4ceeec0428abb60c8fffbf09	{Novatoluma}	{38.12275948476722,-122.56728630676625,Novato,CA,United States}	{Travel & Transport,}
+1483	Wed Jul 13 20:54:35 +0000 2011	4b916fd5f964a5206dbc33e3	{McDonald's}	{38.344427,-122.71159498333333,Rohnert Park,CA,United States}	{Food,}
+1483	Wed Jul 13 17:14:06 +0000 2011	4b6a1732f964a520eec62be3	{CVS/pharmacy}	{38.34631958828137,-122.7087373331913,Rohnert Park,CA,United States}	{Shop & Service,}
+1483	Tue Jul 12 22:12:31 +0000 2011	4cfd6680d7206ea80fef4869	{Seasons Pizzeria Sports Bar & Grill}	{38.34792087740528,-122.72325221141939,Rohnert Park,CA,United States}	{Nightlife Spot,Food,}
+1483	Tue Jul 12 18:55:28 +0000 2011	4cdb06f6cea2224bff1c834c	{US Post Office}	{38.34614871533507,-122.70703864885157,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1483	Sun Jul 10 18:26:21 +0000 2011	4d48915b11618cfabf2ed623	{U.S. Bank}	{38.34704728542269,-122.70889175764074,Rohnert Park,CA,United States}	{Shop & Service,}
+1483	Fri Jul 08 16:08:20 +0000 2011	4af62f96f964a520050222e3	{United Markets}	{37.970750399927596,-122.5197410993539,San Rafael,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1483	Thu Jul 07 00:24:54 +0000 2011	4cdb06f6cea2224bff1c834c	{US Post Office}	{38.34614871533507,-122.70703864885157,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1483	Wed Jul 06 03:04:45 +0000 2011	4b99b213f964a520998c35e3	{Exchange Bank}	{38.3489309,-122.70887911319733,Rohnert Park,CA,United States}	{Shop & Service,}
+1483	Tue Jul 05 17:14:03 +0000 2011	4b830383f964a5209df230e3	{Wells Fargo}	{38.34903296367515,-122.708042420282,Rohnert Park,CA,United States}	{Shop & Service,}
+1483	Tue Jul 05 03:07:37 +0000 2011	4cbd2b4b4495721e546f5e7a	{El Pollo Loco}	{38.359788597118886,-122.71400969310287,Rohnert Park,CA,United States}	{Food,}
+1483	Tue Jul 05 03:07:28 +0000 2011	4a9229f4f964a520ef1c20e3	{In-N-Out Burger}	{38.36123179523965,-122.71416410958597,Rohnert Park,CA,United States}	{Food,}
+1483	Sun Jul 03 22:56:25 +0000 2011	4ccb53b5c9b84688cd30b5c3	{580/101 Connector}	{37.96795369830066,-122.5184039728466,San Rafael,CA,United States}	{Travel & Transport,}
+1483	Sat Jul 02 23:34:02 +0000 2011	4c48b9fb9e3e2d7fa29cd347	{KFC}	{37.97018808954687,-122.52013891879906,San Rafael,CA,United States}	{Food,}
+1483	Wed Jun 29 23:08:01 +0000 2011	4bb3841da32876b097ce01fe	{Mandalay Bay Arena}	{36.09055359307299,-115.17903004883509,Las Vegas,NV,United States}	{Arts & Entertainment,Professional & Other Places,}
+1483	Tue Jun 28 21:42:57 +0000 2011	4c705fd0d97fa143edfff5ca	{R Section Park}	{38.337127,-122.682398,Rohnert Park,CA,United States}	{Outdoors & Recreation,}
+1483	Fri Jun 24 02:48:33 +0000 2011	4c91519251d9b1f74b947f46	{Mercedes Benz Of Marin}	{37.96520920170812,-122.51548102076588,San Rafael,CA,United States}	{Shop & Service,}
+1483	Wed Jun 22 19:49:32 +0000 2011	4b548bf1f964a5206ebf27e3	{Kyoto Restaurant}	{38.3490623238861,-122.70821339135655,Rohnert Park,CA,United States}	{Food,}
+1483	Wed Jun 22 02:41:59 +0000 2011	4b884b48f964a5203aed31e3	{Papa John's Pizza}	{38.459424,-122.73351,Santa Rosa,CA,United States}	{Food,}
+1483	Tue Jun 21 22:59:39 +0000 2011	4d081654143cb60cb79779a6	{Hansel Ford}	{38.40305482223405,-122.7171034931332,Santa Rosa,CA,United States}	{Shop & Service,}
+1483	Tue Jun 21 22:59:19 +0000 2011	4b23d304f964a520805a24e3	{Manly Honda}	{38.412054616666666,-122.717158,Santa Rosa,CA,United States}	{Shop & Service,}
+1483	Sun Jun 19 20:28:09 +0000 2011	4c1ecaec63750f47b456ba67	{Rumi's}	{37.969476,-122.515669,San rafael,CA,United States}	{Food,}
+1483	Sat Jun 18 16:45:34 +0000 2011	4ad2530cf964a520ebe020e3	{Starbucks Coffee}	{37.970006761001926,-122.51945378436403,San Rafael,CA,United States}	{Food,}
+1483	Fri Jun 17 05:14:54 +0000 2011	43efd417f964a520722f1fe3	{Escape From New York Pizza}	{37.76067018085379,-122.43498754555843,San Francisco,CA,United States}	{Food,}
+1483	Thu Jun 16 20:18:42 +0000 2011	4bde2e64ffdec9288011e8a1	{San Rafael Yacht Harbor}	{37.96754890335376,-122.51431513228594,San Rafael,CA,United States}	{Outdoors & Recreation,}
+1483	Thu Jun 16 02:49:56 +0000 2011	4bd36bab462cb713086ede07	{Mosby Winery}	{34.60900926760474,-120.1933323882732,Buellton,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1483	Mon Jun 13 18:55:03 +0000 2011	4bb6213a2ea195218d2cab2f	{FedEx Office Print & Ship Center}	{37.970207,-122.518089,San Rafael,CA,United States}	{Shop & Service,}
+1483	Sun Jun 12 04:38:00 +0000 2011	4babbba3f964a520aac43ae3	{KFC}	{38.343683589103826,-122.7116989328573,Rohnert Park,CA,United States}	{Food,}
+1483	Sat Jun 11 19:00:00 +0000 2011	4ae23fd2f964a520618c21e3	{Seafood Peddler}	{37.968109,-122.5183999583332,San Rafael,CA,United States}	{Food,}
+1483	Sat Jun 11 18:01:51 +0000 2011	4cdee803f8cdb1f716368e12	{Chevron}	{37.97109212120069,-122.51843712495123,San Rafael,CA,United States}	{Shop & Service,}
+1483	Sat Jun 11 01:31:53 +0000 2011	4ccb53b5c9b84688cd30b5c3	{580/101 Connector}	{37.96795369830066,-122.5184039728466,San Rafael,CA,United States}	{Travel & Transport,}
+1483	Fri Jun 10 00:29:36 +0000 2011	4ad17629f964a5207bde20e3	{McDonald's}	{37.996441690255736,-122.53458648920059,San Rafael,CA,United States}	{Food,}
+1483	Tue Jun 07 21:43:59 +0000 2011	4cdc543d99026dcbe67f1281	{Oasis Laundry}	{38.33787500596196,-122.68989855894529,,CA,United States}	{Residence,}
+1483	Mon Jun 06 21:57:21 +0000 2011	4b956adcf964a5207fa134e3	{Subway}	{37.95924776,-122.507222,San Rafael,CA,United States}	{Food,}
+1483	Sun Jun 05 05:20:14 +0000 2011	4ced458962ef6dcb2959f159	{Chevron Oil Stop}	{38.349127458191184,-122.71745643406307,Rohnert Park,CA,United States}	{Shop & Service,Professional & Other Places,}
+1483	Sun Jun 05 01:09:56 +0000 2011	4b6c8263f964a520b63f2ce3	{House of Bagels}	{37.97263253333333,-122.52239,San Rafael,CA,United States}	{Food,}
+1483	Sun Jun 05 00:50:31 +0000 2011	4ac00102f964a5206b9320e3	{Whole Foods Market}	{37.971318034512734,-122.51676321029663,San Rafael,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1483	Sat Jun 04 21:41:11 +0000 2011	4d24b64075526dcb74a90ca9	{Pizza Orgasmica & Brewing Co.}	{37.972722029929116,-122.52412255461385,San Rafael,CA,United States}	{Food,}
+1483	Wed Jun 01 02:24:41 +0000 2011	4b843516f964a520852731e3	{Szechwan 7}	{37.970139,-122.518125,San Rafael,CA,United States}	{Food,}
+1483	Wed Jun 01 02:24:20 +0000 2011	4b317169f964a5200a0725e3	{Pete's 881 Club}	{37.967634,-122.522343,San Rafael,CA,United States}	{Nightlife Spot,}
+1483	Tue May 31 19:40:16 +0000 2011	4bcdd5070687ef3b0682e1cc	{Lexus Of Marin}	{37.967945398375974,-122.51827136432239,San Rafael,CA,United States}	{Shop & Service,}
+1483	Tue May 31 01:48:59 +0000 2011	4b65c235f964a520e3fd2ae3	{Redwood Credit Union}	{37.969772983333336,-122.51584,San Rafael,CA,United States}	{Shop & Service,}
+1483	Tue May 31 00:57:47 +0000 2011	4bca3abefb84c9b695bf1c3e	{Office Depot}	{37.96045086885391,-122.51107709862247,San Rafael,CA,United States}	{Shop & Service,}
+1483	Tue May 31 00:57:35 +0000 2011	4d0115cb202e224b1412b72a	{Light Express}	{37.961627642856214,-122.51237563957785,San Rafael,CA,United States}	{Shop & Service,}
+1483	Mon May 30 19:35:17 +0000 2011	4aafd3ddf964a520d66420e3	{Audi Marin}	{37.96277001150462,-122.51225960040686,San Francisco,CA,United States}	{Shop & Service,}
+1483	Mon May 30 15:11:20 +0000 2011	4ba03fa1f964a5201d6437e3	{Valero Express}	{38.347979243786085,-122.7099506618668,Rohnert Park,CA,United States}	{Travel & Transport,Shop & Service,}
+1483	Sun May 29 04:07:23 +0000 2011	4aafd3ddf964a520d66420e3	{Audi Marin}	{37.96277001150462,-122.51225960040686,San Francisco,CA,United States}	{Shop & Service,}
+1483	Sat May 28 05:32:26 +0000 2011	4ba03fa1f964a5201d6437e3	{Valero Express}	{38.347979243786085,-122.7099506618668,Rohnert Park,CA,United States}	{Travel & Transport,Shop & Service,}
+1483	Fri May 27 02:29:53 +0000 2011	4bcd240cfb84c9b6dabc213e	{West Brooklyn Pizza}	{37.957515632317644,-122.50810973360659,San Rafael,CA,United States}	{Food,}
+1483	Thu May 26 22:47:20 +0000 2011	4c12b75277cea5935592cd60	{The Loading Dock}	{40.69586736898409,-73.98356437683105,Brooklyn,NY,United States}	{Nightlife Spot,}
+1483	Thu May 26 19:39:34 +0000 2011	4bd493db5631c9b64fa8a230	{Toscalito Tire & Automotive Marin}	{37.96805913599761,-122.51892335460559,San Rafael,CA,United States}	{Shop & Service,}
+1483	Thu May 26 17:45:16 +0000 2011	4b5263adf964a520ee7a27e3	{Cal Skate}	{38.35133,-122.70909144,Rohnert Park,CA,United States}	{Arts & Entertainment,}
+1483	Thu May 26 01:40:58 +0000 2011	4b69ca49f964a52065b42be3	{Baskin-Robbins}	{38.34601498003543,-122.71039724349976,Rohnert Park,CA,United States}	{Food,}
+1483	Thu May 26 01:11:30 +0000 2011	4b8c3f51f964a52069c632e3	{RAB Motors}	{37.96515257600302,-122.51569651531064,San Rafael,CA,United States}	{Shop & Service,}
+1483	Thu May 26 00:52:42 +0000 2011	4a76413ff964a520b8e21fe3	{Ceiba Records}	{37.7703322,-122.44461168333333,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+1483	Wed May 25 19:02:03 +0000 2011	4bae6184f964a520cbaa3be3	{Round Table Pizza}	{38.34814968333333,-122.70856856666667,Rohnert Park,CA,United States}	{Food,}
+1483	Wed May 25 00:17:57 +0000 2011	4bb1166ff964a5204a793ce3	{Ross}	{38.34598,-122.706402,Rohnert Park,CA,United States}	{Shop & Service,}
+1483	Tue May 24 00:13:16 +0000 2011	4af7389cf964a5204d0722e3	{Staples}	{37.96803,-122.52162,San Rafael,CA,United States}	{Shop & Service,}
+1483	Mon May 23 16:33:40 +0000 2011	4ca2798d6bb1b7133a0e7869	{Grocery Outlet}	{38.34719765009889,-122.71066210698255,Rohnert Park,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1483	Sun May 22 19:50:37 +0000 2011	4c784e0a97028cfa006ed7fe	{Skyline Eco Adventure Zipline Gear Shack}	{20.900118034882986,-156.68230736612148,Lahaina,HI,United States}	{Outdoors & Recreation,}
+1483	Sun May 22 03:38:39 +0000 2011	4bc939e2cc8cd13af667bbcf	{Da Kitchen Cafe}	{20.88763330757838,-156.45521060205888,Kahului,HI,United States}	{Food,}
+1483	Sat May 21 23:15:46 +0000 2011	4bc93f97b6c49c74ec418e91	{Outback Steakhouse}	{20.7517721741727,-156.4479946838315,Kihei, Maui,HI,United States}	{Food,}
+1483	Sat May 21 19:06:20 +0000 2011	4b32cebff964a5204a1425e3	{Napili Beach}	{20.99474846807128,-156.66687905788422,Lahaina,HI,United States}	{Outdoors & Recreation,}
+1483	Sat May 21 18:28:10 +0000 2011	4c0053c8ad46c9b60f528f66	{Honokowai Beach Park}	{20.90964783871473,-156.68813396183765,Lahaina,HI,United States}	{Outdoors & Recreation,}
+1483	Sat May 21 18:27:52 +0000 2011	4b52075ef964a520706227e3	{Son'z Maui at Swan Court}	{20.912555238545615,-156.69176252627807,Lahaina,HI,United States}	{Food,}
+1483	Sat May 21 08:20:03 +0000 2011	4cb6311bb315a093d1169a76	{Lahaina Civic Center Gym}	{20.905034,-156.683787,Lahaina,HI,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1483	Fri May 20 22:16:46 +0000 2011	4b2e8ed6f964a52074e224e3	{Skyline Eco Adventures}	{20.926506,-156.6903,Lahaina,HI,United States}	{Outdoors & Recreation,}
+1483	Fri May 20 17:32:09 +0000 2011	4cd30612536654810ff824ed	{Wahikuli Beach}	{20.902646059200695,-156.68498224403652,Lahaina,HI,United States}	{Outdoors & Recreation,}
+1483	Thu May 19 18:44:44 +0000 2011	4cba1176dd41a35d6dfde5a0	{Lahaina Fire Station}	{20.905041,-156.684291,Lahaina,HI,United States}	{Government Building,Professional & Other Places,}
+1483	Thu May 19 03:23:17 +0000 2011	4b65cb71f964a5202c002be3	{Hyatt Regency Maui Resort And Spa}	{20.91272019977228,-156.69244050979614,Lahaina,HI,United States}	{Travel & Transport,Hotel,}
+1483	Tue May 17 02:04:50 +0000 2011	4ba2da4af964a5203c1e38e3	{Highway 101}	{38.18527362202721,-122.60085582733154,Novato,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1483	Mon May 16 22:33:14 +0000 2011	4bdf2ed7ffdec928e103eba1	{Shell}	{37.97066837150735,-122.52070249374202,San Rafael,CA,United States}	{Shop & Service,}
+1483	Mon May 16 15:09:57 +0000 2011	4c0074eb34ccc92894abe1cd	{Popeyes Louisiana Kitchen}	{38.349481627398646,-122.70925998687744,Rohnert Park,CA,United States}	{Food,}
+1483	Mon May 16 03:27:31 +0000 2011	4842faf1f964a5205d501fe3	{OSH Petaluma}	{38.2753777,-122.66788091,Petaluma,CA,United States}	{Outdoors & Recreation,Shop & Service,}
+1483	Sun May 15 21:22:16 +0000 2011	4ad17629f964a5207bde20e3	{McDonald's}	{37.996441690255736,-122.53458648920059,San Rafael,CA,United States}	{Food,}
+1483	Sun May 15 02:07:15 +0000 2011	4c865495d92ea09333376d72	{Marin Subaru}	{37.965389,-122.514094,San Rafael,CA,United States}	{Shop & Service,}
+1483	Sat May 14 22:18:02 +0000 2011	4bd1d21177b29c74964f8d82	{Circle K}	{37.96095884420736,-122.50507597134695,San Rafael,CA,United States}	{Shop & Service,}
+1483	Sat May 14 21:14:52 +0000 2011	4bd0e7039854d13a79bef84d	{Jamba Juice}	{37.94632960839509,-122.52347946166992,Greenbrae,CA,United States}	{Food,}
+1483	Fri May 13 00:07:37 +0000 2011	4b6b6064f964a520a2042ce3	{The UPS Store}	{37.97002289163506,-122.51735415073583,San Rafael,CA,United States}	{Shop & Service,}
+1483	Thu May 12 23:05:40 +0000 2011	4b7cae05f964a520dca02fe3	{O'Reilly Auto Parts}	{37.959684,-122.506923,San Rafael,CA,United States}	{Shop & Service,}
+1483	Thu May 12 23:04:52 +0000 2011	4bbb86262d9ea5936f829fce	{Wendy's}	{37.95665685920502,-122.50718137858259,San Rafael,CA,United States}	{Food,}
+1483	Thu May 12 20:13:54 +0000 2011	4bc0b07cabf49521e3a4bf93	{Planet Juice}	{37.9698581,-122.51675493333333,San Rafael,CA,United States}	{Food,}
+1483	Thu May 12 02:13:36 +0000 2011	4c855067d92ea093b8da6472	{Paper Source}	{37.9271905,-122.51724064350128,Corte Madera,CA,United States}	{Shop & Service,}
+1483	Wed May 11 17:25:30 +0000 2011	4b9aa505f964a52029c935e3	{Port Of Subs}	{38.345928783333335,-122.70686944,Rohnert Park,CA,United States}	{Food,}
+1483	Wed May 11 16:38:40 +0000 2011	4bb22940f964a520d4be3ce3	{The UPS Store}	{38.346648,-122.708708,Rohnert Park,CA,United States}	{Shop & Service,Professional & Other Places,}
+1483	Wed May 11 05:15:05 +0000 2011	4cf174efd29b2d4389eef0bb	{ski hell yeah}	{37.785775,-122.402034,San Fransisco,CA,United States}	{Outdoors & Recreation,}
+1483	Tue May 10 22:23:46 +0000 2011	4c48e8499f2ad13a77a19052	{Dr Dryclean}	{38.338569,-122.6864438,Rohnert Park,CA,United States}	{Shop & Service,}
+1483	Mon May 09 17:33:01 +0000 2011	4bde2e64ffdec9288011e8a1	{San Rafael Yacht Harbor}	{37.96754890335376,-122.51431513228594,San Rafael,CA,United States}	{Outdoors & Recreation,}
+1483	Sun May 08 16:49:30 +0000 2011	4b4b8ed6f964a5203ba026e3	{Redwood Credit Union}	{38.34909810579208,-122.7074467768858,Rohnert Park,CA,United States}	{Shop & Service,}
+1483	Sat May 07 15:48:51 +0000 2011	4ba3f74af964a520547238e3	{Brain Freeze  Frozen Yogurt}	{38.34978242696128,-122.70644634962082,Rohnert Park,CA,United States}	{Food,}
+1483	Sat May 07 02:44:31 +0000 2011	4bb51d726edc76b064462f1c	{Beverly's Crafts Outlet}	{38.34674,-122.719189,Rohnert Park,CA,United States}	{Shop & Service,}
+1483	Thu May 05 17:47:37 +0000 2011	4ba3f74af964a520547238e3	{Brain Freeze  Frozen Yogurt}	{38.34978242696128,-122.70644634962082,Rohnert Park,CA,United States}	{Food,}
+1483	Wed May 04 23:37:44 +0000 2011	4b05961bf964a5207bdf22e3	{Santa Rosa Nissan}	{38.42529718532185,-122.71404278236888,Santa Rosa,CA,United States}	{Shop & Service,}
+1483	Wed May 04 00:21:06 +0000 2011	4c0074eb34ccc92894abe1cd	{Popeyes Louisiana Kitchen}	{38.349481627398646,-122.70925998687744,Rohnert Park,CA,United States}	{Food,}
+1483	Tue May 03 20:59:10 +0000 2011	4ba3f74af964a520547238e3	{Brain Freeze  Frozen Yogurt}	{38.34978242696128,-122.70644634962082,Rohnert Park,CA,United States}	{Food,}
+1483	Tue May 03 02:40:55 +0000 2011	4bf879395317a5937feeff7e	{76 Station}	{37.970725990064786,-122.51854419708252,San Rafael,CA,United States}	{Shop & Service,}
+1483	Sun May 01 23:00:13 +0000 2011	4bad4aabf964a520bb423be3	{Quiznos}	{37.969893,-122.517373,San Rafael,CA,United States}	{Food,}
+1483	Sun May 01 21:10:10 +0000 2011	4bb6213a2ea195218d2cab2f	{FedEx Office Print & Ship Center}	{37.970207,-122.518089,San Rafael,CA,United States}	{Shop & Service,}
+1483	Sun May 01 19:05:48 +0000 2011	4b89e3a0f964a520245432e3	{Cattlemens Steakhouse}	{38.27038,-122.66912341117859,Petaluma,CA,United States}	{Food,}
+1483	Sun May 01 19:05:08 +0000 2011	4ba3caf4f964a520e35f38e3	{Petaluma Golf Center}	{38.270385,-122.67198375,Petaluma,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1483	Sun May 01 17:26:52 +0000 2011	4ba3f74af964a520547238e3	{Brain Freeze  Frozen Yogurt}	{38.34978242696128,-122.70644634962082,Rohnert Park,CA,United States}	{Food,}
+1483	Sat Apr 30 18:27:51 +0000 2011	4bef11c3f2712d7f1043fbd8	{United Nursery}	{37.97089,-122.520145,,,United States}	{Shop & Service,}
+1483	Sat Apr 30 17:10:29 +0000 2011	4bc9f332fb84c9b61dfa1b3e	{Performance Bicycle}	{37.969661,-122.516404,San Rafael,CA,United States}	{Shop & Service,}
+1483	Sat Apr 30 17:10:10 +0000 2011	4bc0b07cabf49521e3a4bf93	{Planet Juice}	{37.9698581,-122.51675493333333,San Rafael,CA,United States}	{Food,}
+1483	Fri Apr 29 06:09:17 +0000 2011	485c4ca8f964a520cc501fe3	{Black Bear Diner}	{38.34956110357364,-122.71000029773325,Rohnert Park,CA,United States}	{Food,}
+1483	Fri Apr 29 02:54:11 +0000 2011	4cfa3fc4feec6dcb77923e36	{San Rafael Yacht Club}	{37.96807450976914,-122.5183321432503,San Rafael,CA,United States}	{Nightlife Spot,}
+1483	Thu Apr 28 22:49:16 +0000 2011	4cdee803f8cdb1f716368e12	{Chevron}	{37.97109212120069,-122.51843712495123,San Rafael,CA,United States}	{Shop & Service,}
+1483	Wed Apr 27 19:50:12 +0000 2011	4d811962a4e23704e86bc2cc	{Kia Of Santa Rosa}	{38.424755,-122.713817,Santa Rosa,CA,United States}	{Shop & Service,}
+1483	Mon Apr 25 22:26:41 +0000 2011	4bf61e04004ed13a9b0442a0	{Burger King}	{37.961286,-122.50532432,San Rafael,CA,United States}	{Food,}
+1483	Mon Apr 25 20:28:32 +0000 2011	4cdc7666fc973704448fd505	{San Rafael Mitsubishi / Scotland Yard}	{37.96307777029352,-122.50979511889783,San Rafael,CA,United States}	{Shop & Service,}
+1483	Mon Apr 25 06:41:15 +0000 2011	4bd0aa29462cb7135cd4d807	{76}	{38.27002433333333,-122.66977250576019,Petaluma,CA,United States}	{Shop & Service,}
+1483	Sun Apr 24 22:49:52 +0000 2011	4ad2530cf964a520ebe020e3	{Starbucks Coffee}	{37.970006761001926,-122.51945378436403,San Rafael,CA,United States}	{Food,}
+1483	Sat Apr 23 19:27:18 +0000 2011	4b6b6005f964a5208a042ce3	{Petco}	{37.969962,-122.517644,San Rafael,CA,United States}	{Shop & Service,}
+1483	Sat Apr 23 02:12:20 +0000 2011	4b7986bdf964a520f5fe2ee3	{Redwood Sanitary Landfill}	{38.16276983135253,-122.57449876743205,Novato,CA,United States}	{Professional & Other Places,}
+1483	Fri Apr 22 22:00:17 +0000 2011	4ccb53b5c9b84688cd30b5c3	{580/101 Connector}	{37.96795369830066,-122.5184039728466,San Rafael,CA,United States}	{Travel & Transport,}
+1483	Fri Apr 22 04:57:51 +0000 2011	4bc2915f920eb71358771c2c	{Jack in the Box}	{38.3487685,-122.70993471,Rohnert Park,CA,United States}	{Food,}
+1483	Thu Apr 21 00:58:39 +0000 2011	4b75e942f964a520152e2ee3	{Burger King}	{38.34996578,-122.71014415,Rohnert Park,CA,United States}	{Food,}
+1483	Wed Apr 20 18:42:11 +0000 2011	4b99b044f964a5201c8c35e3	{Subway}	{38.346168,-122.71051756666667,Rohnert Park,CA,United States}	{Food,}
+1483	Tue Apr 19 20:07:19 +0000 2011	4ce88a8fe1eeb60cee22a4ae	{Verizon Wireless}	{38.004152,-122.54499418333333,San Rafael,CA,United States}	{Shop & Service,}
+1483	Mon Apr 18 18:50:23 +0000 2011	4ae23fd2f964a520618c21e3	{Seafood Peddler}	{37.968109,-122.5183999583332,San Rafael,CA,United States}	{Food,}
+1483	Mon Apr 18 00:14:07 +0000 2011	4ccb53b5c9b84688cd30b5c3	{580/101 Connector}	{37.96795369830066,-122.5184039728466,San Rafael,CA,United States}	{Travel & Transport,}
+1483	Sun Apr 17 07:26:02 +0000 2011	4c0591465753c92851ad39f1	{Concentra Urgent Care}	{38.34998646511427,-122.7064597606659,Rohnert Park,CA,United States}	{Medical Center,Professional & Other Places,}
+1483	Sun Apr 17 06:16:30 +0000 2011	4b6da88bf964a520f8832ce3	{North Bay Nissan}	{38.26729096244211,-122.66519137466328,Petaluma,CA,United States}	{Shop & Service,}
+1483	Sat Apr 16 17:32:08 +0000 2011	4bbb86262d9ea5936f829fce	{Wendy's}	{37.95665685920502,-122.50718137858259,San Rafael,CA,United States}	{Food,}
+1483	Sat Apr 16 05:54:16 +0000 2011	4ba3f74af964a520547238e3	{Brain Freeze  Frozen Yogurt}	{38.34978242696128,-122.70644634962082,Rohnert Park,CA,United States}	{Food,}
+1483	Wed Apr 13 19:49:52 +0000 2011	4b9aa505f964a52029c935e3	{Port Of Subs}	{38.345928783333335,-122.70686944,Rohnert Park,CA,United States}	{Food,}
+1483	Tue Apr 12 03:54:46 +0000 2011	4b4b8ed6f964a5203ba026e3	{Redwood Credit Union}	{38.34909810579208,-122.7074467768858,Rohnert Park,CA,United States}	{Shop & Service,}
+1483	Tue Apr 12 01:24:49 +0000 2011	4aa9a522f964a520ad5420e3	{Celia's Mexican Restaurant}	{37.9627967141015,-122.50913201974315,San Rafael,CA,United States}	{Food,}
+1483	Mon Apr 11 19:50:45 +0000 2011	4b956adcf964a5207fa134e3	{Subway}	{37.95924776,-122.507222,San Rafael,CA,United States}	{Food,}
+1483	Mon Apr 11 17:43:59 +0000 2011	4b64d479f964a52058d32ae3	{Infiniti of Marin}	{37.96797688362282,-122.51826031360443,San Rafael,CA,United States}	{Shop & Service,}
+1483	Mon Apr 11 17:43:32 +0000 2011	4ccb53b5c9b84688cd30b5c3	{580/101 Connector}	{37.96795369830066,-122.5184039728466,San Rafael,CA,United States}	{Travel & Transport,}
+1483	Mon Apr 11 00:36:58 +0000 2011	4bcdd5070687ef3b0682e1cc	{Lexus Of Marin}	{37.967945398375974,-122.51827136432239,San Rafael,CA,United States}	{Shop & Service,}
+1483	Fri Apr 08 19:23:28 +0000 2011	4ad2530cf964a520ebe020e3	{Starbucks Coffee}	{37.970006761001926,-122.51945378436403,San Rafael,CA,United States}	{Food,}
+1483	Wed Apr 06 20:59:00 +0000 2011	4b898f6af964a520bb4132e3	{Freeman Toyota}	{38.40797347637138,-122.71767702152492,Santa Rosa,CA,United States}	{Shop & Service,}
+1483	Sun Apr 03 17:51:57 +0000 2011	4c7d0ee5247cb60c0cbd5f5e	{Staten Island, NY}	{40.58345286156245,-74.14962530136108,Staten Island,NY,United States}	{Outdoors & Recreation,}
+1483	Sun Apr 03 14:02:28 +0000 2011	4b802ea9f964a520085a30e3	{Golden Corral}	{39.88970616302079,-75.08857318454334,Audubon,NJ,United States}	{Food,}
+1483	Fri Apr 01 21:51:03 +0000 2011	3fd66200f964a52000ee1ee3	{Pat's King of Steaks}	{39.933178407993445,-75.15926241874695,Philadelphia,PA,United States}	{Food,}
+1483	Fri Apr 01 17:29:25 +0000 2011	4cdddb3541ed224bc02ed53c	{Center City}	{39.95304325255671,-75.16485214233398,Philadelphia,PA,United States}	{Outdoors & Recreation,}
+1483	Fri Apr 01 13:21:21 +0000 2011	4bcc8f0a68f976b062d16283	{The Maryland School For The Blind}	{39.36300385672008,-76.53037804737548,Baltimore,MD,United States}	{Professional & Other Places,}
+1483	Thu Mar 31 20:20:21 +0000 2011	4bee929bd355a5934e020b60	{McDonald's}	{38.358354078498415,-81.71663057291266,South Charleston,WV,United States}	{Food,}
+1483	Tue Mar 29 13:17:41 +0000 2011	4d8cd04a3bfef04d351e7286	{Xclusive Kuts}	{35.25082564560008,-80.77796226649289,Charlotte,NC,United States}	{Shop & Service,}
+1483	Tue Mar 29 00:48:41 +0000 2011	4b3671f5f964a5209a3525e3	{Kohl's}	{35.44207,-80.86322,Huntersville,NC,United States}	{Shop & Service,Clothing Store,}
+1483	Fri Mar 25 15:03:12 +0000 2011	4d8bb3f84037b1f72457ca5b	{The Parentals}	{35.26407315792884,-80.79347975603018,Charlotte,NC,United States}	{Residence,}
+1483	Thu Mar 24 14:59:15 +0000 2011	4d8ada2226a36ea86791fdad	{Mom & Bob's}	{36.01205424587298,-80.79347975603018,Hamptonville,NC,United States}	{Residence,}
+1483	Mon Mar 21 04:12:37 +0000 2011	4cbd2b4b4495721e546f5e7a	{El Pollo Loco}	{38.359788597118886,-122.71400969310287,Rohnert Park,CA,United States}	{Food,}
+1483	Fri Mar 18 03:26:56 +0000 2011	4d6f07fd5b5ca1cd43396744	{Petaluma Hyundai}	{38.26638634187195,-122.66384509382384,Petaluma,CA,United States}	{Shop & Service,}
+1483	Tue Mar 15 18:13:01 +0000 2011	4d65a85d84f28cfad11f6269	{Hertz Rent a Car}	{38.27065389,-122.66979156666666,Petaluma,CA,United States}	{Travel & Transport,}
+1483	Sat Mar 12 05:59:15 +0000 2011	4bdc66dd2a3a0f470fa9b2b6	{Victory Chevrolet}	{38.269035029043266,-122.66755284102022,Petaluma,CA,United States}	{Shop & Service,}
+1483	Thu Mar 10 03:04:05 +0000 2011	4bc644a4b387d13a219ac1e8	{AT&T}	{38.41792815961034,-122.71236073110725,Santa Rosa,CA,United States}	{Shop & Service,}
+1483	Thu Mar 10 02:28:48 +0000 2011	4b23d304f964a520805a24e3	{Manly Honda}	{38.412054616666666,-122.717158,Santa Rosa,CA,United States}	{Shop & Service,}
+1483	Tue Mar 08 00:39:56 +0000 2011	4bf61e04004ed13a9b0442a0	{Burger King}	{37.961286,-122.50532432,San Rafael,CA,United States}	{Food,}
+1483	Mon Mar 07 19:52:38 +0000 2011	4b660219f964a5200b0e2be3	{Pinky's Pizza}	{37.969668,-122.51673763333334,San Rafael,CA,United States}	{Food,}
+1483	Sun Mar 06 05:23:18 +0000 2011	4ca639b0d971b1f7a111fee0	{Henry Curtis Ford}	{38.26406296833961,-122.66128063201904,Petaluma,CA,United States}	{Shop & Service,}
+1483	Sat Mar 05 05:38:50 +0000 2011	4a9229f4f964a520ef1c20e3	{In-N-Out Burger}	{38.36123179523965,-122.71416410958597,Rohnert Park,CA,United States}	{Food,}
+1483	Thu Mar 03 03:10:48 +0000 2011	4cab6d8fd971b1f7bcf22ae1	{Autoworld Dodge Chrysler Jeep}	{38.26925432,-122.66767128,Petaluma,CA,United States}	{Shop & Service,}
+1483	Wed Mar 02 23:20:08 +0000 2011	4bc644a4b387d13a219ac1e8	{AT&T}	{38.41792815961034,-122.71236073110725,Santa Rosa,CA,United States}	{Shop & Service,}
+1483	Wed Mar 02 07:34:13 +0000 2011	4c0074eb34ccc92894abe1cd	{Popeyes Louisiana Kitchen}	{38.349481627398646,-122.70925998687744,Rohnert Park,CA,United States}	{Food,}
+1483	Wed Mar 02 07:12:23 +0000 2011	4ba2da4af964a5203c1e38e3	{Highway 101}	{38.18527362202721,-122.60085582733154,Novato,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1483	Sat Feb 26 02:55:28 +0000 2011	4d6419c1072a6ea8bc2bee4d	{76 Gasoline}	{37.962515,-122.508831,San Rafael,CA,United States}	{Shop & Service,}
+1483	Sat Feb 26 01:44:51 +0000 2011	4ccb53b5c9b84688cd30b5c3	{580/101 Connector}	{37.96795369830066,-122.5184039728466,San Rafael,CA,United States}	{Travel & Transport,}
+1483	Tue Feb 22 19:37:57 +0000 2011	4bd0e7039854d13a79bef84d	{Jamba Juice}	{37.94632960839509,-122.52347946166992,Greenbrae,CA,United States}	{Food,}
+1483	Tue Feb 22 05:19:09 +0000 2011	4b830383f964a5209df230e3	{Wells Fargo}	{38.34903296367515,-122.708042420282,Rohnert Park,CA,United States}	{Shop & Service,}
+1483	Tue Feb 22 02:51:11 +0000 2011	4bdf2ed7ffdec928e103eba1	{Shell}	{37.97066837150735,-122.52070249374202,San Rafael,CA,United States}	{Shop & Service,}
+1483	Tue Feb 22 01:43:53 +0000 2011	4c48b9fb9e3e2d7fa29cd347	{KFC}	{37.97018808954687,-122.52013891879906,San Rafael,CA,United States}	{Food,}
+1483	Sun Feb 20 05:45:16 +0000 2011	4b6a15c0f964a5208fc62be3	{Chase Bank}	{38.34794586538454,-122.7074357464198,Rohnert Park,CA,United States}	{Shop & Service,}
+1483	Fri Feb 18 23:35:24 +0000 2011	4bf61e04004ed13a9b0442a0	{Burger King}	{37.961286,-122.50532432,San Rafael,CA,United States}	{Food,}
+1483	Thu Feb 17 19:14:35 +0000 2011	4b956adcf964a5207fa134e3	{Subway}	{37.95924776,-122.507222,San Rafael,CA,United States}	{Food,}
+1483	Wed Feb 16 06:20:33 +0000 2011	4d4895bd753aa0934439d1e0	{Eddie's Private Dog Park}	{38.349521677306996,-122.70838436214515,,,United States}	{Outdoors & Recreation,}
+1483	Mon Feb 14 23:07:47 +0000 2011	4bf61e04004ed13a9b0442a0	{Burger King}	{37.961286,-122.50532432,San Rafael,CA,United States}	{Food,}
+1483	Fri Feb 11 05:32:54 +0000 2011	4cbd2b4b4495721e546f5e7a	{El Pollo Loco}	{38.359788597118886,-122.71400969310287,Rohnert Park,CA,United States}	{Food,}
+1483	Wed Feb 09 05:43:43 +0000 2011	4d48915b11618cfabf2ed623	{U.S. Bank}	{38.34704728542269,-122.70889175764074,Rohnert Park,CA,United States}	{Shop & Service,}
+1483	Wed Feb 09 05:23:01 +0000 2011	4bd9fff7c79cc92807fc7ce9	{Petaluma, CA}	{38.23963496540567,-122.63984633260951,Petaluma,CA,United States}	{Outdoors & Recreation,}
+1483	Mon Feb 07 03:24:35 +0000 2011	4b476991f964a5204e3126e3	{Golden Gate Transit}	{37.954946680419596,-122.5044294204267,San Rafael,CA,United States}	{Travel & Transport,Bus Station,}
+1483	Wed Feb 02 23:14:56 +0000 2011	4c4b461c46240f472d2b1bf3	{Petaluma River}	{38.23426992996706,-122.63879299163818,,,United States}	{Outdoors & Recreation,}
+1483	Tue Feb 01 18:45:55 +0000 2011	4c3ce581b169c9b6f1564668	{Medical Center of Marin}	{37.924708127975464,-122.51680978563174,Corte Madera,CA,United States}	{Professional & Other Places,}
+1483	Sun Jan 30 02:09:44 +0000 2011	4bbb86262d9ea5936f829fce	{Wendy's}	{37.95665685920502,-122.50718137858259,San Rafael,CA,United States}	{Food,}
+1483	Sat Jan 29 00:29:58 +0000 2011	4a0f25cdf964a52030761fe3	{Central Computers}	{37.78260386903649,-122.40325212478638,San Francisco,CA,United States}	{Shop & Service,}
+1483	Thu Jan 27 21:00:24 +0000 2011	4c3ce581b169c9b6f1564668	{Medical Center of Marin}	{37.924708127975464,-122.51680978563174,Corte Madera,CA,United States}	{Professional & Other Places,}
+1483	Mon Jan 24 17:57:13 +0000 2011	4ccb53b5c9b84688cd30b5c3	{580/101 Connector}	{37.96795369830066,-122.5184039728466,San Rafael,CA,United States}	{Travel & Transport,}
+1483	Sun Jan 23 04:18:49 +0000 2011	4ddea38fc65bb2aa73951cfd	{US-101 (Redwood Hwy)}	{37.9508982021563,-122.51069068908691,North Bay Area,CA,United States}	{Travel & Transport,}
+1483	Sat Jan 22 03:35:55 +0000 2011	4c3a7f9f93db0f47da532592	{Gate 22}	{37.71166479078903,-122.21306204795837,Oakland,CA,United States}	{Travel & Transport,Airport,}
+1483	Sat Jan 22 03:30:56 +0000 2011	4c5946e46407d13a69b7b128	{Southwest Airlines Ticket Counter}	{37.7119703427386,-122.21208572387695,Oakland,CA,United States}	{Travel & Transport,Airport,}
+1483	Thu Jan 20 20:56:42 +0000 2011	4ddea38fc65bb2aa73951cfd	{US-101 (Redwood Hwy)}	{37.9508982021563,-122.51069068908691,North Bay Area,CA,United States}	{Travel & Transport,}
+1483	Wed Jan 19 19:54:27 +0000 2011	4cdc7666fc973704448fd505	{San Rafael Mitsubishi / Scotland Yard}	{37.96307777029352,-122.50979511889783,San Rafael,CA,United States}	{Shop & Service,}
+1483	Wed Jan 19 19:54:10 +0000 2011	4e702fdde4cd5c8693e2b64a	{Larkspur, CA}	{37.945616841426045,-122.51313817948359,Larkspur,CA,United States}	{Outdoors & Recreation,}
+1483	Wed Jan 19 02:49:46 +0000 2011	4d081654143cb60cb79779a6	{Hansel Ford}	{38.40305482223405,-122.7171034931332,Santa Rosa,CA,United States}	{Shop & Service,}
+1483	Mon Jan 17 02:11:40 +0000 2011	4c48b9fb9e3e2d7fa29cd347	{KFC}	{37.97018808954687,-122.52013891879906,San Rafael,CA,United States}	{Food,}
+1483	Sun Jan 16 19:05:24 +0000 2011	4bdb43862a3a0f479d2faeb6	{Wash & Fold Laundromat}	{37.86250813243522,-122.28134714342372,Berkeley,CA,United States}	{Shop & Service,}
+1483	Sat Jan 15 19:04:40 +0000 2011	4ae23fd2f964a520618c21e3	{Seafood Peddler}	{37.968109,-122.5183999583332,San Rafael,CA,United States}	{Food,}
+1483	Fri Jan 14 03:23:40 +0000 2011	4b53e672f964a52043ae27e3	{Johnny Garlic's}	{38.434133,-122.687673,Santa Rosa,CA,United States}	{Food,}
+1483	Fri Jan 14 03:05:45 +0000 2011	4c48b074b5eec9b60c4cc1a3	{Highway 101}	{38.33607245023337,-122.71296186080313,Rohnert Park,CA,United States}	{Travel & Transport,}
+1483	Fri Jan 14 03:04:26 +0000 2011	4cbd2b4b4495721e546f5e7a	{El Pollo Loco}	{38.359788597118886,-122.71400969310287,Rohnert Park,CA,United States}	{Food,}
+1483	Mon Jan 10 15:02:47 +0000 2011	4c48b074b5eec9b60c4cc1a3	{Highway 101}	{38.33607245023337,-122.71296186080313,Rohnert Park,CA,United States}	{Travel & Transport,}
+1483	Tue Jan 04 05:52:48 +0000 2011	4ba2da4af964a5203c1e38e3	{Highway 101}	{38.18527362202721,-122.60085582733154,Novato,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1483	Tue Jan 04 01:36:32 +0000 2011	4aafd3ddf964a520d66420e3	{Audi Marin}	{37.96277001150462,-122.51225960040686,San Francisco,CA,United States}	{Shop & Service,}
+1483	Sun Jan 02 05:43:50 +0000 2011	4c48b074b5eec9b60c4cc1a3	{Highway 101}	{38.33607245023337,-122.71296186080313,Rohnert Park,CA,United States}	{Travel & Transport,}
+1483	Mon Dec 27 05:02:41 +0000 2010	4c48b074b5eec9b60c4cc1a3	{Highway 101}	{38.33607245023337,-122.71296186080313,Rohnert Park,CA,United States}	{Travel & Transport,}
+1483	Sun Dec 26 03:01:40 +0000 2010	4b66213cf964a52059152be3	{Chevys Fresh Mex}	{38.94898,-119.95619658333334,South Lake Tahoe,CA,United States}	{Food,}
+1483	Sat Dec 25 21:16:05 +0000 2010	4b916fd5f964a5206dbc33e3	{McDonald's}	{38.344427,-122.71159498333333,Rohnert Park,CA,United States}	{Food,}
+1483	Wed Dec 22 03:32:25 +0000 2010	4bef95fdd1b7d13abefacdec	{California-Nevada Border}	{38.94761327045777,-119.96171948290899,South Lake Tahoe,CA,United States}	{Travel & Transport,}
+1483	Sun Dec 19 02:51:03 +0000 2010	4bd0e7039854d13a79bef84d	{Jamba Juice}	{37.94632960839509,-122.52347946166992,Greenbrae,CA,United States}	{Food,}
+1483	Sat Dec 11 03:25:14 +0000 2010	4ccf5890f6378cfa281aaed6	{580 East (San Rafael)}	{37.96160769155725,-122.50880046858227,San Rafael,CA,United States}	{Travel & Transport,}
+1483	Fri Dec 10 20:16:26 +0000 2010	4b808bccf964a520c67b30e3	{Toyota Marin}	{37.968071,-122.518533,San Rafael,CA,United States}	{Shop & Service,}
+1483	Fri Dec 10 01:58:14 +0000 2010	4aecf3f8f964a5206bcc21e3	{Chili's Grill & Bar}	{38.36551923,-122.713967,Rohnert Park,CA,United States}	{Food,}
+1483	Fri Dec 10 01:35:51 +0000 2010	4ae2964ff964a520218f21e3	{Target}	{38.416846331371076,-122.70981788635254,Santa Rosa,CA,United States}	{Shop & Service,}
+1483	Thu Dec 09 23:48:45 +0000 2010	4bd0aa29462cb7135cd4d807	{76}	{38.27002433333333,-122.66977250576019,Petaluma,CA,United States}	{Shop & Service,}
+1483	Thu Dec 09 08:07:10 +0000 2010	4c48b074b5eec9b60c4cc1a3	{Highway 101}	{38.33607245023337,-122.71296186080313,Rohnert Park,CA,United States}	{Travel & Transport,}
+1483	Thu Dec 09 07:13:56 +0000 2010	4b8d9c3cf964a520170433e3	{Marin Headlands}	{37.830259903513955,-122.50717163085938,Sausalito,CA,United States}	{Outdoors & Recreation,}
+1483	Thu Dec 09 07:10:36 +0000 2010	49d01698f964a520fd5a1fe3	{Golden Gate Bridge}	{37.81700118722001,-122.47821718454361,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1483	Thu Dec 09 07:00:57 +0000 2010	40b7d280f964a52093001fe3	{Crissy Field}	{37.805104875814145,-122.44876384735107,San Francisco,CA,United States}	{Outdoors & Recreation,}
+1483	Thu Dec 09 05:23:01 +0000 2010	4bde53c86198c9b648bd13ff	{Papa John's Pizza}	{37.33298335783049,-121.91341781144897,San Jose,CA,United States}	{Food,}
+1483	Thu Dec 09 01:03:41 +0000 2010	4b564049f964a520810728e3	{Jamba Juice}	{38.182174,-122.254305,American Canyon,CA,United States}	{Food,}
+1483	Wed Dec 08 22:38:20 +0000 2010	4aba9914f964a5200d8220e3	{Apple Store, Santa Rosa Plaza}	{38.4384398079659,-122.716418643098,Santa Rosa,CA,United States}	{Shop & Service,}
+1483	Wed Dec 08 22:36:38 +0000 2010	4b77386cf964a5201c892ee3	{Santa Rosa Plaza}	{38.4388335,-122.7164483,Santa Rosa,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1483	Tue Dec 07 17:21:53 +0000 2010	4b808bccf964a520c67b30e3	{Toyota Marin}	{37.968071,-122.518533,San Rafael,CA,United States}	{Shop & Service,}
+1483	Mon Dec 06 20:50:21 +0000 2010	4bf61e04004ed13a9b0442a0	{Burger King}	{37.961286,-122.50532432,San Rafael,CA,United States}	{Food,}
+1483	Mon Dec 06 16:12:39 +0000 2010	4cd201f06449a093ac7fd3cf	{Home}	{38.34968681026803,-122.71249033276271,Rohnert Park,CA,United States}	{Residence,}
+1483	Mon Dec 06 01:59:52 +0000 2010	4c127536a9c220a1f402549d	{Marin Express Lube Diagnostic Center}	{37.96256447300608,-122.50880599444358,San Rafael,CA,United States}	{Shop & Service,}
+1483	Sun Dec 05 23:08:35 +0000 2010	4cd30a28558a370414d3bea6	{Precision Auto Detail}	{37.967355959272325,-122.5196250683958,San Rafael,CA,United States}	{Shop & Service,}
+1483	Sun Dec 05 20:24:01 +0000 2010	4b808bccf964a520c67b30e3	{Toyota Marin}	{37.968071,-122.518533,San Rafael,CA,United States}	{Shop & Service,}
+1483	Sun Dec 05 18:12:23 +0000 2010	4cd201f06449a093ac7fd3cf	{Home}	{38.34968681026803,-122.71249033276271,Rohnert Park,CA,United States}	{Residence,}
+1483	Sun Dec 05 03:15:31 +0000 2010	4bd0e7039854d13a79bef84d	{Jamba Juice}	{37.94632960839509,-122.52347946166992,Greenbrae,CA,United States}	{Food,}
+1483	Sat Dec 04 18:35:46 +0000 2010	4b808bccf964a520c67b30e3	{Toyota Marin}	{37.968071,-122.518533,San Rafael,CA,United States}	{Shop & Service,}
+1483	Sat Dec 04 05:54:44 +0000 2010	4cd201f06449a093ac7fd3cf	{Home}	{38.34968681026803,-122.71249033276271,Rohnert Park,CA,United States}	{Residence,}
+1483	Sat Dec 04 02:13:15 +0000 2010	4b808bccf964a520c67b30e3	{Toyota Marin}	{37.968071,-122.518533,San Rafael,CA,United States}	{Shop & Service,}
+1483	Fri Dec 03 23:12:20 +0000 2010	4c48b9fb9e3e2d7fa29cd347	{KFC}	{37.97018808954687,-122.52013891879906,San Rafael,CA,United States}	{Food,}
+1483	Fri Dec 03 23:12:20 +0000 2010	4c48b9fb9e3e2d7fa29cd347	{KFC}	{37.97018808954687,-122.52013891879906,San Rafael,CA,United States}	{Food,}
+1483	Fri Dec 03 20:36:51 +0000 2010	4b808bccf964a520c67b30e3	{Toyota Marin}	{37.968071,-122.518533,San Rafael,CA,United States}	{Shop & Service,}
+1483	Thu Dec 02 21:11:21 +0000 2010	4b479eacf964a520b23726e3	{Panera Bread}	{38.004039,-122.544938,San Rafael,CA,United States}	{Food,}
+1483	Thu Dec 02 21:11:02 +0000 2010	4b422965f964a520eacd25e3	{Northgate Mall}	{38.0041699641318,-122.54424283104366,San Rafael,CA,United States}	{Shop & Service,}
+1483	Thu Dec 02 17:56:41 +0000 2010	4cd3185b9828b60c64b7d384	{Toyota Marin Certified}	{37.96844891348592,-122.51865261337392,San Rafael,CA,United States}	{Shop & Service,}
+1483	Thu Dec 02 17:21:46 +0000 2010	4b808bccf964a520c67b30e3	{Toyota Marin}	{37.968071,-122.518533,San Rafael,CA,United States}	{Shop & Service,}
+1483	Thu Dec 02 16:19:52 +0000 2010	4cd201f06449a093ac7fd3cf	{Home}	{38.34968681026803,-122.71249033276271,Rohnert Park,CA,United States}	{Residence,}
+1483	Wed Dec 01 19:15:35 +0000 2010	4cd201f06449a093ac7fd3cf	{Home}	{38.34968681026803,-122.71249033276271,Rohnert Park,CA,United States}	{Residence,}
+1483	Wed Dec 01 19:08:24 +0000 2010	4b99b044f964a5201c8c35e3	{Subway}	{38.346168,-122.71051756666667,Rohnert Park,CA,United States}	{Food,}
+1483	Wed Dec 01 19:08:24 +0000 2010	4b99b044f964a5201c8c35e3	{Subway}	{38.346168,-122.71051756666667,Rohnert Park,CA,United States}	{Food,}

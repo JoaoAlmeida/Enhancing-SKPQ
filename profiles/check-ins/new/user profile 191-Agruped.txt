@@ -1,0 +1,728 @@
+191	Fri Aug 12 01:41:43 +0000 2011	4a29ae24f964a520c0951fe3	{Gourmet Haus Staudt}	{37.48586668172416,-122.23347902297974,Redwood City,CA,United States}	{Nightlife Spot,Food,}
+191	Tue Aug 09 02:15:50 +0000 2011	4a7b5e03f964a520d0ea1fe3	{Gelato Classico}	{37.445054,-122.163499,Palo Alto,CA,United States}	{Food,}
+191	Tue Aug 09 01:11:47 +0000 2011	42b9fb80f964a52097251fe3	{Patxi's Chicago Pizza}	{37.44500594121503,-122.16348722850391,Palo Alto,CA,United States}	{Nightlife Spot,Food,}
+191	Sun Aug 07 21:58:19 +0000 2011	4be5dfd62468c92812b20043	{Lamps Plus}	{37.542187,-122.302341,San Mateo,CA,United States}	{Shop & Service,}
+191	Sun Aug 07 04:31:32 +0000 2011	4e358f29aeb7f67fbd323dfa	{Caffe Frascati}	{37.33111467223919,-121.88686486478149,San Jose,CA,United States}	{Food,}
+191	Sun Aug 07 01:59:21 +0000 2011	4a62225cf964a5202bc31fe3	{Original Joe's}	{37.33131728598851,-121.8871521949768,San Jose,CA,United States}	{Nightlife Spot,Food,}
+191	Sat Aug 06 22:10:22 +0000 2011	4ad67a4af964a520640721e3	{Lunar Mini Golf}	{37.41759141525649,-121.89879169587074,Milpitas,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+191	Sat Aug 06 19:29:37 +0000 2011	4e3c38c981dc6ce0fac7be92	{San Jose Ren Faire}	{37.33475423214649,-121.89891219109995,San Jose,CA,United States}	{Arts & Entertainment,}
+191	Sat Aug 06 01:17:19 +0000 2011	4a6caf4df964a52043d11fe3	{Copenhagen Bakery & Cafe}	{37.579008010192574,-122.34658472596546,Burlingame,CA,United States}	{Food,}
+191	Sat Aug 06 00:01:42 +0000 2011	4d719bd93815f04d94df8067	{Le Rouge Salon}	{37.577799,-122.34756563,Burlingame,CA,United States}	{Shop & Service,}
+191	Fri Aug 05 16:30:51 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Fri Aug 05 15:48:52 +0000 2011	4aae9cdcf964a5209d6220e3	{The UPS Store}	{37.4453380439353,-122.16041585259526,Palo Alto,CA,United States}	{Shop & Service,Professional & Other Places,}
+191	Thu Aug 04 15:03:17 +0000 2011	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Thu Aug 04 02:15:28 +0000 2011	4a688daaf964a5208bca1fe3	{Palo Alto Creamery}	{37.443896762802375,-122.16169238090515,Palo Alto,CA,United States}	{Food,}
+191	Tue Aug 02 02:21:20 +0000 2011	4e2361ecb61cdcf1ecd259ca	{Bob and Tab's House}	{37.52888631712388,-122.29374282336232,San Mateo,CA,United States}	{Residence,}
+191	Mon Aug 01 16:08:34 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Sun Jul 31 21:06:07 +0000 2011	4d5dfec5ef378cfa19375ca6	{Jack's Restaurant & Bar}	{37.634094676481354,-122.42035476327844,San Bruno,CA,United States}	{Food,}
+191	Sat Jul 30 02:27:19 +0000 2011	49fd1941f964a520086f1fe3	{Cowabunga Creamery}	{37.504036,-122.258423,San Carlos,CA,United States}	{Food,}
+191	Sat Jul 30 02:27:19 +0000 2011	49fd1941f964a520086f1fe3	{Cowabunga Creamery}	{37.504036,-122.258423,San Carlos,CA,United States}	{Food,}
+191	Sat Jul 30 01:31:49 +0000 2011	4b56604cf964a520c90d28e3	{Village Host Pizza}	{37.511354,-122.29363848333334,Belmont,CA,United States}	{Food,}
+191	Fri Jul 29 02:01:46 +0000 2011	4b61e5d3f964a520e7292ae3	{USGS Menlo Park}	{37.45677861160564,-122.17081049846465,Menlo Park,CA,United States}	{Professional & Other Places,}
+191	Thu Jul 28 16:04:04 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Thu Jul 28 01:32:12 +0000 2011	4ae74eb5f964a52042aa21e3	{Tacos Peralta}	{37.54186882578553,-122.29029034117401,San Mateo,CA,United States}	{Food,}
+191	Wed Jul 27 20:56:16 +0000 2011	4a9b0be9f964a5202e3420e3	{Mitchell Park}	{37.42217658990169,-122.11512923240662,Palo Alto,CA,United States}	{Outdoors & Recreation,}
+191	Wed Jul 27 16:32:49 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Wed Jul 27 15:45:45 +0000 2011	4b26aaf9f964a520307f24e3	{Caf? Venetia}	{37.44338141300074,-122.16496467590332,Palo Alto,CA,United States}	{Food,}
+191	Wed Jul 27 03:16:48 +0000 2011	43ba62b4f964a520e72c1fe3	{Norman Y. Mineta San Jos? International Airport (SJC)}	{37.36662498287745,-121.9263043999672,San Jose,CA,United States}	{Travel & Transport,}
+191	Tue Jul 26 19:46:25 +0000 2011	4c3e08860596c928fab98378	{Cramster}	{34.1414669,-118.1325368,Pasadena,CA,United States}	{Office,Professional & Other Places,}
+191	Tue Jul 26 19:20:40 +0000 2011	4b2e9835f964a5203de324e3	{Wahoo's Fish Taco}	{34.141268044249706,-118.13213483382904,Pasadena,CA,United States}	{Food,}
+191	Tue Jul 26 16:10:34 +0000 2011	43ba62b4f964a520e72c1fe3	{Norman Y. Mineta San Jos? International Airport (SJC)}	{37.36662498287745,-121.9263043999672,San Jose,CA,United States}	{Travel & Transport,}
+191	Tue Jul 26 01:27:39 +0000 2011	4cb33d631463a1439117b3a9	{The Counter}	{37.5358409254587,-122.29812397631106,San Mateo,CA,United States}	{Food,}
+191	Mon Jul 25 16:30:52 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Mon Jul 25 15:27:15 +0000 2011	4b26aaf9f964a520307f24e3	{Caf? Venetia}	{37.44338141300074,-122.16496467590332,Palo Alto,CA,United States}	{Food,}
+191	Sat Jul 23 22:03:12 +0000 2011	4bb666556edc76b099e0301c	{North Shoreview Montessori}	{37.57484689739462,-122.31673343673158,San Mateo,CA,United States}	{Professional & Other Places,}
+191	Sat Jul 23 02:01:35 +0000 2011	47bae90ff964a520d24d1fe3	{BJ's Restaurant & Brewhouse}	{37.56087054657975,-122.2827315885589,Foster City,CA,United States}	{Food,}
+191	Sat Jul 23 00:20:05 +0000 2011	4c3e60ecdb3b1b8d61676595	{Mission Caltrain Shuttle}	{37.386467,-121.965499,Santa Clara,CA,United States}	{Travel & Transport,Bus Station,}
+191	Fri Jul 22 16:32:32 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Fri Jul 22 15:17:19 +0000 2011	4aef26acf964a52017d621e3	{Noah's Bagels}	{37.562975,-122.32408004,San Mateo,CA,United States}	{Food,}
+191	Fri Jul 22 04:08:26 +0000 2011	49fd1941f964a520086f1fe3	{Cowabunga Creamery}	{37.504036,-122.258423,San Carlos,CA,United States}	{Food,}
+191	Thu Jul 21 14:50:14 +0000 2011	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Wed Jul 20 02:58:01 +0000 2011	4aa09b6bf964a5201e4020e3	{Chevys Fresh Mex}	{37.54353949942113,-122.27049350738525,Foster City,CA,United States}	{Food,}
+191	Mon Jul 18 16:30:46 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Mon Jul 18 01:29:43 +0000 2011	4a6b65fff964a520a5ce1fe3	{Chipotle Mexican Grill}	{37.50218666912624,-122.24632023218973,San Carlos,CA,United States}	{Food,}
+191	Sun Jul 17 22:28:32 +0000 2011	4e2361ecb61cdcf1ecd259ca	{Bob and Tab's House}	{37.52888631712388,-122.29374282336232,San Mateo,CA,United States}	{Residence,}
+191	Fri Jul 15 20:05:43 +0000 2011	4afb3610f964a520211c22e3	{Monterey Bay Aquarium Cafe & Restaurant}	{36.618266,-121.901829,Monterey,CA,United States}	{Food,}
+191	Fri Jul 15 16:42:51 +0000 2011	4a028eeef964a5205d711fe3	{Monterey Bay Aquarium}	{36.617967759196716,-121.90173708022454,Monterey,CA,United States}	{Arts & Entertainment,}
+191	Fri Jul 15 15:16:36 +0000 2011	4a6dd4e1f964a5201bd31fe3	{First Awakenings}	{36.6182107,-121.903955,Pacific Grove,CA,United States}	{Food,}
+191	Fri Jul 15 01:51:48 +0000 2011	4b95743af964a5206ca334e3	{Aliotti's Victorian Corner}	{36.62051148,-121.91676598333333,Pacific Grove,CA,United States}	{Food,}
+191	Thu Jul 14 20:28:41 +0000 2011	4827696af964a520aa4f1fe3	{Red Robin Gourmet Burgers}	{37.39412890940786,-121.9457396864891,Santa Clara,CA,United States}	{Food,}
+191	Thu Jul 14 16:05:29 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Wed Jul 13 15:34:37 +0000 2011	4b26aaf9f964a520307f24e3	{Caf? Venetia}	{37.44338141300074,-122.16496467590332,Palo Alto,CA,United States}	{Food,}
+191	Wed Jul 13 01:56:50 +0000 2011	47bae90ff964a520d24d1fe3	{BJ's Restaurant & Brewhouse}	{37.56087054657975,-122.2827315885589,Foster City,CA,United States}	{Food,}
+191	Mon Jul 11 16:07:28 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Sun Jul 10 04:33:22 +0000 2011	43f8f151f964a520cd2f1fe3	{The Cheesecake Factory}	{37.44708,-122.160559581,Palo Alto,CA,United States}	{Food,}
+191	Sun Jul 10 02:00:16 +0000 2011	44ca82f1f964a52005361fe3	{Stanford Theatre}	{37.44505096311692,-122.16270625591278,Palo Alto,CA,United States}	{Arts & Entertainment,Movie Theater,}
+191	Sun Jul 10 01:00:51 +0000 2011	4abbd076f964a520148520e3	{Vero}	{37.4454538663738,-122.16108668405778,Palo Alto,CA,United States}	{Food,}
+191	Sat Jul 09 16:53:25 +0000 2011	4d719bd93815f04d94df8067	{Le Rouge Salon}	{37.577799,-122.34756563,Burlingame,CA,United States}	{Shop & Service,}
+191	Sat Jul 09 16:53:25 +0000 2011	4d719bd93815f04d94df8067	{Le Rouge Salon}	{37.577799,-122.34756563,Burlingame,CA,United States}	{Shop & Service,}
+191	Sat Jul 09 01:59:38 +0000 2011	4822564df964a520924f1fe3	{El Torito}	{37.56293,-122.278924,San Mateo,CA,United States}	{Food,}
+191	Fri Jul 08 01:38:05 +0000 2011	422ceb00f964a520e01f1fe3	{Steelhead Brewing Company}	{37.57994818144164,-122.346271276474,Burlingame,CA,United States}	{Nightlife Spot,Food,}
+191	Fri Jul 08 01:36:26 +0000 2011	49f793caf964a520ba6c1fe3	{Burlingame Caltrain Station}	{37.57996518671194,-122.34494090080261,Burlingame,CA,United States}	{Travel & Transport,}
+191	Thu Jul 07 16:04:38 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Wed Jul 06 16:03:54 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Tue Jul 05 16:05:30 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Mon Jul 04 17:09:31 +0000 2011	4e11daa852b1655efa493ad7	{Redwood City 4th July Parade}	{37.486837,-122.226409,Redwood City,CA,United States}	{Arts & Entertainment,}
+191	Mon Jul 04 04:11:27 +0000 2011	49fd1941f964a520086f1fe3	{Cowabunga Creamery}	{37.504036,-122.258423,San Carlos,CA,United States}	{Food,}
+191	Mon Jul 04 01:16:00 +0000 2011	4aff5cd3f964a520c43722e3	{Harry's Hofbrau}	{37.4778448133685,-122.22318974296083,Redwood City,CA,United States}	{Food,}
+191	Sat Jul 02 20:16:10 +0000 2011	4827696af964a520aa4f1fe3	{Red Robin Gourmet Burgers}	{37.39412890940786,-121.9457396864891,Santa Clara,CA,United States}	{Food,}
+191	Sat Jul 02 03:42:30 +0000 2011	44fc846ff964a52089381fe3	{Gelato Classico}	{37.39324988614936,-122.07925200462341,Mountain View,CA,United States}	{Food,}
+191	Sat Jul 02 02:28:02 +0000 2011	466bfdecf964a520ae471fe3	{Pedro's}	{37.38507949847186,-121.97080320733536,Santa Clara,CA,United States}	{Food,}
+191	Thu Jun 30 16:10:42 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Thu Jun 30 00:09:35 +0000 2011	49cc413df964a5205a591fe3	{California Academy of Sciences}	{37.7697648824009,-122.46631622314455,San Francisco,CA,United States}	{Museum,Arts & Entertainment,}
+191	Wed Jun 29 15:31:01 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Tue Jun 28 16:06:33 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Tue Jun 28 01:37:33 +0000 2011	4cb33d631463a1439117b3a9	{The Counter}	{37.5358409254587,-122.29812397631106,San Mateo,CA,United States}	{Food,}
+191	Mon Jun 27 15:39:32 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Sun Jun 26 23:02:27 +0000 2011	4e04df49d22df322e6e38586	{San Francisco Pride 2011}	{37.779383,-122.417797,San Francisco,CA,United States}	{Nightlife Spot,Outdoors & Recreation,Arts & Entertainment,}
+191	Sun Jun 26 21:48:58 +0000 2011	4a5437d6f964a5201eb31fe3	{Soup Freaks}	{37.78666,-122.40131055714286,San Francisco,CA,United States}	{Food,}
+191	Sun Jun 26 17:16:46 +0000 2011	4e04df49d22df322e6e38586	{San Francisco Pride 2011}	{37.779383,-122.417797,San Francisco,CA,United States}	{Nightlife Spot,Outdoors & Recreation,Arts & Entertainment,}
+191	Sun Jun 26 14:58:00 +0000 2011	4d5dfec5ef378cfa19375ca6	{Jack's Restaurant & Bar}	{37.634094676481354,-122.42035476327844,San Bruno,CA,United States}	{Food,}
+191	Sun Jun 26 03:53:35 +0000 2011	4cad204cd971b1f7b1ba36e1	{Club Fox}	{37.486482,-122.22953,Redwood City,CA,United States}	{Arts & Entertainment,}
+191	Sun Jun 26 02:33:12 +0000 2011	4a7cd60ef964a520d1ed1fe3	{Margaritas}	{37.48665428423909,-122.22804894608896,Redwood City,CA,United States}	{Food,}
+191	Thu Jun 23 16:09:01 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Thu Jun 23 00:23:06 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Wed Jun 22 02:08:01 +0000 2011	4a2b0748f964a5208a961fe3	{Pasta Q}	{37.394384655845585,-122.07881497186447,Mountain View,CA,United States}	{Food,}
+191	Tue Jun 21 15:49:09 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Mon Jun 20 15:34:10 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Mon Jun 20 01:43:53 +0000 2011	4b5b6072f964a52005f928e3	{Curry Up Now}	{37.79118456389419,-122.4011492729187,SF Bay Area,CA,United States}	{Travel & Transport,Food,}
+191	Sun Jun 19 22:47:26 +0000 2011	4486b2d2f964a5202d341fe3	{Washington Square Park}	{37.8007578222182,-122.40980749855548,San Francisco,CA,United States}	{Outdoors & Recreation,}
+191	Sun Jun 19 22:34:04 +0000 2011	4b651a7ef964a52043e42ae3	{Gelato Classico}	{37.8005086,-122.408914,San Francisco,CA,United States}	{Food,}
+191	Sun Jun 19 20:34:45 +0000 2011	49c9a70bf964a5208e581fe3	{Calzone's}	{37.79899141753134,-122.40835834222793,San Francisco,CA,United States}	{Food,}
+191	Sun Jun 19 20:20:44 +0000 2011	4c3a1d760a71c9b662af43c9	{North Beach District}	{37.80023899922264,-122.41037607192993,San Francisco,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+191	Fri Jun 17 16:30:56 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Fri Jun 17 15:44:02 +0000 2011	4b26aaf9f964a520307f24e3	{Caf? Venetia}	{37.44338141300074,-122.16496467590332,Palo Alto,CA,United States}	{Food,}
+191	Wed Jun 15 15:27:30 +0000 2011	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Mon Jun 13 19:54:57 +0000 2011	4a0cf910f964a52073751fe3	{B Street & Vine}	{37.56511150261607,-122.32239104890903,San Mateo,CA,United States}	{Nightlife Spot,Shop & Service,Food,Food & Drink Shop,}
+191	Fri Jun 10 01:34:30 +0000 2011	4abc3476f964a520c08620e3	{Max's Restaurant}	{37.48442790854927,-122.2325348854065,Redwood City,CA,United States}	{Food,}
+191	Thu Jun 09 16:08:43 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Wed Jun 08 16:36:05 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Wed Jun 08 15:24:27 +0000 2011	4b26aaf9f964a520307f24e3	{Caf? Venetia}	{37.44338141300074,-122.16496467590332,Palo Alto,CA,United States}	{Food,}
+191	Tue Jun 07 16:10:54 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Tue Jun 07 16:10:54 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Tue Jun 07 03:13:41 +0000 2011	4a70e0b5f964a520a8d81fe3	{Young's Ice Cream & Candy Bar}	{37.48666,-122.22673746666666,Redwood City,CA,United States}	{Food,}
+191	Tue Jun 07 02:00:06 +0000 2011	4a735b57f964a52042dc1fe3	{Milagros Cantina}	{37.48424912414831,-122.22641944885254,Redwood City,CA,United States}	{Nightlife Spot,Food,}
+191	Mon Jun 06 16:23:02 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Sun Jun 05 10:47:30 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Sun Jun 05 04:58:50 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Sat Jun 04 19:30:32 +0000 2011	4a2845e3f964a52005951fe3	{Specialty's Cafe & Bakery}	{37.38204223333334,-121.977334,Santa Clara,CA,United States}	{Food,}
+191	Thu Jun 02 21:54:42 +0000 2011	4ac3ce9bf964a520df9c20e3	{Romolo's Cannoli & Spumoni Factory}	{37.53371753935779,-122.295888455454,San Mateo,CA,United States}	{Food,}
+191	Thu Jun 02 21:53:25 +0000 2011	4c337bce7cc0c9b60be1f19a	{Laurel Elementary School}	{37.5319840193884,-122.30417157296472,San Mateo,CA,United States}	{School,Professional & Other Places,}
+191	Thu Jun 02 01:01:13 +0000 2011	42b9fb80f964a52097251fe3	{Patxi's Chicago Pizza}	{37.44500594121503,-122.16348722850391,Palo Alto,CA,United States}	{Nightlife Spot,Food,}
+191	Mon May 30 20:17:53 +0000 2011	4ac53e11f964a5202cb120e3	{Olivo's}	{37.78730994409305,-122.41840246536385,San Francisco,CA,United States}	{Food,}
+191	Sun May 29 23:15:15 +0000 2011	4c057bcb91d776b0577bf7f9	{Downtown Placerville}	{38.7291384800307,-120.80064602972406,Placerville,CA,United States}	{Outdoors & Recreation,}
+191	Sun May 29 20:22:42 +0000 2011	4b58d091f964a520926c28e3	{Gold Bug Park & Mine}	{38.743174,-120.799524,Placerville,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+191	Sun May 29 15:43:00 +0000 2011	4b8af238f964a520a28a32e3	{Sweetpea's}	{38.92777987829514,-121.05680915065349,Auburn,CA,United States}	{Food,}
+191	Sun May 29 02:16:18 +0000 2011	4bc11b39f8219c7419e5b210	{The Club Car}	{38.900526,-121.0684211,Auburn,CA,United States}	{Nightlife Spot,Food,}
+191	Sat May 28 19:46:14 +0000 2011	4d5857a4e319a1cd47710f34	{Auburn Burrito}	{38.944056483333334,-121.0919009,,CA,United States}	{Food,}
+191	Thu May 26 15:01:36 +0000 2011	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Wed May 25 15:34:56 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Tue May 24 22:02:25 +0000 2011	4ab03ce9f964a5209b6620e3	{The Bently Reserve}	{37.79432152573488,-122.40037679672241,San Francisco,CA,United States}	{Professional & Other Places,}
+191	Tue May 24 16:19:50 +0000 2011	4ab03ce9f964a5209b6620e3	{The Bently Reserve}	{37.79432152573488,-122.40037679672241,San Francisco,CA,United States}	{Professional & Other Places,}
+191	Tue May 24 01:28:11 +0000 2011	50ca02bd245f2d4aa8c2a952	{The Elephant Bar}	{37.59987648908293,-122.36699366326087,Burlingame,CA,United States}	{Food,}
+191	Sun May 22 18:21:22 +0000 2011	4dd67fd6091ad1a805410764	{Maker Faire 2011}	{37.546652920382165,-122.30190753936768,San Mateo,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+191	Sat May 21 02:07:30 +0000 2011	4d0c25123bbaa143864034da	{Bayside Performing Arts Center}	{37.56579452089428,-122.29629266000407,San Mateo,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+191	Tue May 17 15:47:50 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Mon May 16 15:09:38 +0000 2011	4b26aaf9f964a520307f24e3	{Caf? Venetia}	{37.44338141300074,-122.16496467590332,Palo Alto,CA,United States}	{Food,}
+191	Sun May 15 18:09:56 +0000 2011	49eb83f1f964a520ed661fe3	{Nini's Coffee Shop}	{37.58507153,-122.33132233333333,San Mateo,CA,United States}	{Food,}
+191	Sun May 15 01:34:20 +0000 2011	422ceb00f964a520e01f1fe3	{Steelhead Brewing Company}	{37.57994818144164,-122.346271276474,Burlingame,CA,United States}	{Nightlife Spot,Food,}
+191	Sat May 14 15:59:08 +0000 2011	4b9bdcf3f964a520a62e36e3	{Salon Kavi}	{37.54527486484889,-122.29074954986572,San Mateo,CA,United States}	{Shop & Service,}
+191	Sat May 14 02:41:54 +0000 2011	4549c7fef964a520963c1fe3	{3 Bees Coffee House}	{37.565349,-122.32270954,San Mateo,CA,United States}	{Food,}
+191	Sat May 14 01:37:16 +0000 2011	4549c884f964a520983c1fe3	{North Beach Pizza}	{37.56544649051606,-122.32240765593663,San Mateo,CA,United States}	{Outdoors & Recreation,Food,}
+191	Fri May 13 15:44:23 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Thu May 12 16:07:06 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Thu May 12 15:09:08 +0000 2011	4b26aaf9f964a520307f24e3	{Caf? Venetia}	{37.44338141300074,-122.16496467590332,Palo Alto,CA,United States}	{Food,}
+191	Thu May 12 01:39:10 +0000 2011	4b11e399f964a520908623e3	{Fernando's Mexican Restaurant}	{37.53372959292773,-122.29573341768426,San Mateo,CA,United States}	{Food,}
+191	Wed May 11 15:32:55 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Tue May 10 15:35:23 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Mon May 09 15:38:21 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Fri May 06 23:31:28 +0000 2011	4c3e60ecdb3b1b8d61676595	{Mission Caltrain Shuttle}	{37.386467,-121.965499,Santa Clara,CA,United States}	{Travel & Transport,Bus Station,}
+191	Fri May 06 16:08:29 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Fri May 06 01:33:02 +0000 2011	47bae90ff964a520d24d1fe3	{BJ's Restaurant & Brewhouse}	{37.56087054657975,-122.2827315885589,Foster City,CA,United States}	{Food,}
+191	Wed May 04 23:42:32 +0000 2011	462d478ff964a520e9451fe3	{St. Stephen's Green}	{37.39348439077878,-122.0791034814007,Mountain View,CA,United States}	{Nightlife Spot,}
+191	Wed May 04 16:04:35 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Wed May 04 15:13:12 +0000 2011	4b26aaf9f964a520307f24e3	{Caf? Venetia}	{37.44338141300074,-122.16496467590332,Palo Alto,CA,United States}	{Food,}
+191	Tue May 03 14:35:10 +0000 2011	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Mon May 02 15:39:10 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Fri Apr 29 16:08:45 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Wed Apr 27 15:35:22 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Tue Apr 26 15:44:51 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Tue Apr 26 15:44:51 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Mon Apr 25 17:04:45 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Mon Apr 25 03:38:21 +0000 2011	43f8f151f964a520cd2f1fe3	{The Cheesecake Factory}	{37.44708,-122.160559581,Palo Alto,CA,United States}	{Food,}
+191	Mon Apr 25 03:09:37 +0000 2011	48277a1cf964a520b74f1fe3	{P.F. Chang's}	{37.44361992244108,-122.1680599451065,Palo Alto,CA,United States}	{Food,}
+191	Sat Apr 23 20:19:25 +0000 2011	4840c7c2f964a5202d501fe3	{Mimi's Cafe}	{37.560544,-122.28320185,Foster City,CA,United States}	{Food,}
+191	Sat Apr 23 02:43:15 +0000 2011	4a0cf910f964a52073751fe3	{B Street & Vine}	{37.56511150261607,-122.32239104890903,San Mateo,CA,United States}	{Nightlife Spot,Shop & Service,Food,Food & Drink Shop,}
+191	Thu Apr 21 00:35:49 +0000 2011	4cb33d631463a1439117b3a9	{The Counter}	{37.5358409254587,-122.29812397631106,San Mateo,CA,United States}	{Food,}
+191	Wed Apr 20 22:57:54 +0000 2011	4c3e60ecdb3b1b8d61676595	{Mission Caltrain Shuttle}	{37.386467,-121.965499,Santa Clara,CA,United States}	{Travel & Transport,Bus Station,}
+191	Wed Apr 20 19:45:15 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Tue Apr 19 15:33:56 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Mon Apr 18 15:34:54 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Sat Apr 16 16:59:42 +0000 2011	4b9bdcf3f964a520a62e36e3	{Salon Kavi}	{37.54527486484889,-122.29074954986572,San Mateo,CA,United States}	{Shop & Service,}
+191	Sat Apr 16 16:59:29 +0000 2011	4b9bdcf3f964a520a62e36e3	{Salon Kavi}	{37.54527486484889,-122.29074954986572,San Mateo,CA,United States}	{Shop & Service,}
+191	Sat Apr 16 16:59:29 +0000 2011	4b9bdcf3f964a520a62e36e3	{Salon Kavi}	{37.54527486484889,-122.29074954986572,San Mateo,CA,United States}	{Shop & Service,}
+191	Sat Apr 16 01:08:48 +0000 2011	4ab43cf3f964a520827020e3	{Hardy's Bavaria}	{37.377579,-122.029301,Sunnyvale,CA,United States}	{Food,}
+191	Fri Apr 15 16:59:45 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Fri Apr 15 14:53:26 +0000 2011	4b26aaf9f964a520307f24e3	{Caf? Venetia}	{37.44338141300074,-122.16496467590332,Palo Alto,CA,United States}	{Food,}
+191	Wed Apr 13 23:16:48 +0000 2011	4bd36138a8b3a59361db695f	{Savvy Cellar Wine Bar & Wine Shop}	{37.394868,-122.077939,Mountain View,CA,United States}	{Nightlife Spot,Shop & Service,Food & Drink Shop,}
+191	Wed Apr 13 16:51:47 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Wed Apr 13 14:58:06 +0000 2011	4b26aaf9f964a520307f24e3	{Caf? Venetia}	{37.44338141300074,-122.16496467590332,Palo Alto,CA,United States}	{Food,}
+191	Tue Apr 12 20:47:51 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Mon Apr 11 16:10:34 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Mon Apr 11 15:13:49 +0000 2011	4b26aaf9f964a520307f24e3	{Caf? Venetia}	{37.44338141300074,-122.16496467590332,Palo Alto,CA,United States}	{Food,}
+191	Sun Apr 10 23:23:13 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+191	Sun Apr 10 19:44:55 +0000 2011	45f555cef964a5200e441fe3	{Seattle-Tacoma International Airport (SEA)}	{47.44364658280913,-122.30259418487549,Seatac,WA,United States}	{Travel & Transport,}
+191	Sun Apr 10 18:16:20 +0000 2011	4aef1778f964a52090d521e3	{Columbia City LINK Station}	{47.55981837943413,-122.2928524017334,Seattle,WA,United States}	{Travel & Transport,}
+191	Sun Apr 10 17:38:37 +0000 2011	4ac905ddf964a52015be20e3	{Hyatt at Olive 8}	{47.61382580084679,-122.33370385673744,Seattle,WA,United States}	{Travel & Transport,}
+191	Sun Apr 10 02:38:26 +0000 2011	45942885f964a5205b401fe3	{Mexico Cantina y Cocina}	{47.612673885169606,-122.3349248560451,Seattle,WA,United States}	{Food,}
+191	Sun Apr 10 02:37:32 +0000 2011	414a2900f964a520cb1c1fe3	{Pacific Place}	{47.61280309241865,-122.33531713485718,Seattle,WA,United States}	{Shop & Service,Professional & Other Places,}
+191	Sat Apr 09 21:42:22 +0000 2011	428bd700f964a5209e231fe3	{Collins Pub}	{47.602225,-122.33254,Seattle,WA,United States}	{Nightlife Spot,}
+191	Sat Apr 09 18:58:08 +0000 2011	4a88a98df964a520500720e3	{Bill Speidel's Underground Tour}	{47.60215046379497,-122.33396133659727,Seattle,WA,United States}	{Arts & Entertainment,}
+191	Sat Apr 09 18:13:39 +0000 2011	4ac905ddf964a52015be20e3	{Hyatt at Olive 8}	{47.61382580084679,-122.33370385673744,Seattle,WA,United States}	{Travel & Transport,}
+191	Sat Apr 09 17:05:30 +0000 2011	4a65d6aef964a520a2c71fe3	{Seattle Bagel}	{47.614859202856564,-122.33055191670506,Seattle,WA,United States}	{Food,}
+191	Sat Apr 09 07:35:18 +0000 2011	4ac905ddf964a52015be20e3	{Hyatt at Olive 8}	{47.61382580084679,-122.33370385673744,Seattle,WA,United States}	{Travel & Transport,}
+191	Sat Apr 09 06:16:53 +0000 2011	4bc5e3cbb387d13a93e1c0e8	{City of Monroe}	{47.855747141084954,-121.97075128555298,Monroe,WA,United States}	{Outdoors & Recreation,}
+191	Fri Apr 08 22:12:24 +0000 2011	49de874bf964a5206c601fe3	{The Fremont Troll}	{47.651041093700194,-122.34732806682587,Seattle,WA,United States}	{Arts & Entertainment,}
+191	Fri Apr 08 21:02:38 +0000 2011	440daad8f964a52096301fe3	{Starbucks}	{47.61001842523946,-122.34262347221373,Seattle,WA,United States}	{Food,}
+191	Fri Apr 08 20:25:15 +0000 2011	4a297962f964a52099951fe3	{Rocky Mountain Chocolate Factory}	{47.608389368959514,-122.33951464819754,Seattle,WA,United States}	{Food,}
+191	Fri Apr 08 19:22:30 +0000 2011	40b13b00f964a520e1f61ee3	{Pike Brewing Company}	{47.60817602188259,-122.33995035786286,Seattle,WA,United States}	{Nightlife Spot,}
+191	Fri Apr 08 19:06:44 +0000 2011	427ea800f964a520b1211fe3	{Pike Place Market}	{47.60889728360187,-122.34109997749329,Seattle,WA,United States}	{Shop & Service,Food & Drink Shop,}
+191	Fri Apr 08 18:51:56 +0000 2011	4b5e1c02f964a520217e29e3	{Urbane}	{47.61397062052918,-122.33405916107039,Seattle,WA,United States}	{Nightlife Spot,Food,}
+191	Fri Apr 08 06:32:51 +0000 2011	4ac905ddf964a52015be20e3	{Hyatt at Olive 8}	{47.61382580084679,-122.33370385673744,Seattle,WA,United States}	{Travel & Transport,}
+191	Fri Apr 08 02:45:12 +0000 2011	4aa6cfa9f964a5200f4b20e3	{Bremerton Ferry Terminal}	{47.56232337139346,-122.62502789497375,Bremerton,WA,United States}	{Travel & Transport,}
+191	Fri Apr 08 01:51:28 +0000 2011	4b8f1099f964a520554733e3	{New Delhi Restaurant}	{47.564580314958555,-122.62492562063524,Bremerton,WA,United States}	{Food,}
+191	Fri Apr 08 01:22:05 +0000 2011	4cbed770ca4aa1cd485d16b4	{M/V Hyak}	{47.56165731585705,-122.62471675872803,Bremerton,WA,United States}	{Travel & Transport,}
+191	Thu Apr 07 23:31:30 +0000 2011	4a341f93f964a520c49b1fe3	{Ye Olde Curiosity Shop}	{47.60457162160717,-122.33920097351074,Seattle,WA,United States}	{Shop & Service,}
+191	Thu Apr 07 20:27:05 +0000 2011	49ee65a3f964a52058681fe3	{Piroshky Piroshky}	{47.60987376315282,-122.34245181083679,Seattle,WA,United States}	{Food,}
+191	Thu Apr 07 19:21:29 +0000 2011	47f245d1f964a520974e1fe3	{Three Girls Bakery}	{47.609093,-122.34094979,Seattle,WA,United States}	{Food,}
+191	Thu Apr 07 17:30:13 +0000 2011	474acec2f964a520994c1fe3	{Sound View Caf?}	{47.608519,-122.34127108,Seattle,WA,United States}	{Food,}
+191	Thu Apr 07 17:29:22 +0000 2011	427ea800f964a520b1211fe3	{Pike Place Market}	{47.60889728360187,-122.34109997749329,Seattle,WA,United States}	{Shop & Service,Food & Drink Shop,}
+191	Thu Apr 07 17:01:32 +0000 2011	4ac905ddf964a52015be20e3	{Hyatt at Olive 8}	{47.61382580084679,-122.33370385673744,Seattle,WA,United States}	{Travel & Transport,}
+191	Thu Apr 07 15:52:11 +0000 2011	4a3975c3f964a520799f1fe3	{Caffe Senso Unico}	{47.61362954805855,-122.33564191142557,Seattle,WA,United States}	{Food,}
+191	Thu Apr 07 05:57:10 +0000 2011	4ac905ddf964a52015be20e3	{Hyatt at Olive 8}	{47.61382580084679,-122.33370385673744,Seattle,WA,United States}	{Travel & Transport,}
+191	Thu Apr 07 02:59:57 +0000 2011	4ac905ddf964a52015be20e3	{Hyatt at Olive 8}	{47.61382580084679,-122.33370385673744,Seattle,WA,United States}	{Travel & Transport,}
+191	Thu Apr 07 01:39:54 +0000 2011	49162cecf964a5206e521fe3	{King Street Station (SEA)}	{47.598342908035356,-122.32978105545044,Seattle,WA,United States}	{Travel & Transport,}
+191	Wed Apr 06 22:21:59 +0000 2011	4c6e1eb7e6b7b1f776e6ab8e	{Amtrak Train 516 (Cascades)}	{45.53061754143193,-122.67811085209235,Portland,OR,United States}	{Travel & Transport,Train Station,}
+191	Wed Apr 06 21:27:27 +0000 2011	488a5f73f964a5204f511fe3	{Union Station Amtrak (PDX)}	{45.52906511302793,-122.67691280040766,Portland,OR,United States}	{Travel & Transport,Train Station,}
+191	Wed Apr 06 19:58:05 +0000 2011	4abeb25df964a5206c8f20e3	{Pazzo Ristorante}	{45.520704,-122.678717,Portland,OR,United States}	{Nightlife Spot,Food,}
+191	Wed Apr 06 18:23:28 +0000 2011	4a7369b0f964a52061dc1fe3	{Flying Elephants Deli}	{45.51877120916404,-122.68130458930159,Portland,OR,United States}	{Food,}
+191	Wed Apr 06 18:17:45 +0000 2011	4bad48f5f964a520ed413be3	{The Real Mother Goose}	{45.5190165392315,-122.68116617431896,Portland,OR,United States}	{Shop & Service,}
+191	Wed Apr 06 15:33:21 +0000 2011	4a2a1402f964a52004961fe3	{The Original}	{45.52161124432859,-122.67712231046475,Portland,OR,United States}	{Food,}
+191	Wed Apr 06 15:32:01 +0000 2011	4a623c8bf964a52078c31fe3	{Courtyard by Marriott Portland City Center}	{45.521656478718995,-122.6770467106376,Portland,OR,United States}	{Travel & Transport,}
+191	Wed Apr 06 03:49:15 +0000 2011	49c2e861f964a5203f561fe3	{Stumptown Coffee Roasters}	{45.522254675053595,-122.68169791638714,Portland,OR,United States}	{Food,}
+191	Wed Apr 06 03:16:54 +0000 2011	4a06431ff964a520dc721fe3	{Powell's City of Books}	{45.523311177161325,-122.68161177635193,Portland,OR,United States}	{Shop & Service,Food,Arts & Entertainment,}
+191	Wed Apr 06 00:50:21 +0000 2011	48837e4ef964a52036511fe3	{Deschutes Brewery & Public House}	{45.52454204404492,-122.6819497346878,Portland,OR,United States}	{Nightlife Spot,}
+191	Wed Apr 06 00:22:58 +0000 2011	4a623c8bf964a52078c31fe3	{Courtyard by Marriott Portland City Center}	{45.521656478718995,-122.6770467106376,Portland,OR,United States}	{Travel & Transport,}
+191	Tue Apr 05 17:15:14 +0000 2011	4c44e9c9dcd61b8dc80c7c56	{Crater Lake National Park}	{42.918576,-122.146954,Crater Lake,OR,United States}	{Outdoors & Recreation,}
+191	Tue Apr 05 15:45:37 +0000 2011	4b13625af964a520bf9623e3	{Klamath Falls Amtrak (KFS)}	{42.22537130210413,-121.77173137664795,Klamath Falls,OR,United States}	{Travel & Transport,}
+191	Tue Apr 05 13:53:29 +0000 2011	4b3aa9a1f964a520336c25e3	{City of Mount Shasta}	{41.312346986131836,-122.31101632118225,Mt Shasta,CA,United States}	{Outdoors & Recreation,}
+191	Tue Apr 05 04:50:31 +0000 2011	4a80d01bf964a5203cf61fe3	{Emeryville Amtrak (EMY)}	{37.84060589480996,-122.29209065437317,Emeryville,CA,United States}	{Travel & Transport,}
+191	Sun Apr 03 20:05:21 +0000 2011	4ae74eb5f964a52042aa21e3	{Tacos Peralta}	{37.54186882578553,-122.29029034117401,San Mateo,CA,United States}	{Food,}
+191	Fri Apr 01 21:53:16 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Fri Apr 01 15:07:36 +0000 2011	40e35400f964a520e8091fe3	{University Cafe}	{37.44568447463292,-122.16192937550616,Palo Alto,CA,United States}	{Food,}
+191	Fri Apr 01 01:30:44 +0000 2011	4c6e03bb4d24b60c43c5d7d8	{Osteria Coppa}	{37.566716,-122.323551,San Mateo,CA,United States}	{Food,}
+191	Thu Mar 31 14:20:26 +0000 2011	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Thu Mar 31 01:29:03 +0000 2011	4b9bdcf3f964a520a62e36e3	{Salon Kavi}	{37.54527486484889,-122.29074954986572,San Mateo,CA,United States}	{Shop & Service,}
+191	Thu Mar 31 01:28:49 +0000 2011	4b9bdcf3f964a520a62e36e3	{Salon Kavi}	{37.54527486484889,-122.29074954986572,San Mateo,CA,United States}	{Shop & Service,}
+191	Wed Mar 30 17:06:14 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Wed Mar 30 02:35:49 +0000 2011	4840c7c2f964a5202d501fe3	{Mimi's Cafe}	{37.560544,-122.28320185,Foster City,CA,United States}	{Food,}
+191	Tue Mar 29 16:18:29 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Tue Mar 29 14:29:04 +0000 2011	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Mon Mar 28 20:31:11 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Mon Mar 28 15:04:00 +0000 2011	4b26aaf9f964a520307f24e3	{Caf? Venetia}	{37.44338141300074,-122.16496467590332,Palo Alto,CA,United States}	{Food,}
+191	Sun Mar 27 02:08:37 +0000 2011	4ab50479f964a520027220e3	{Hillsdale High School}	{37.532342345060954,-122.31056618485432,San Mateo,CA,United States}	{School,Professional & Other Places,}
+191	Fri Mar 25 15:45:09 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Thu Mar 24 19:02:13 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Thu Mar 24 15:25:52 +0000 2011	4b26aaf9f964a520307f24e3	{Caf? Venetia}	{37.44338141300074,-122.16496467590332,Palo Alto,CA,United States}	{Food,}
+191	Wed Mar 23 15:49:14 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Tue Mar 22 16:30:33 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Tue Mar 22 15:06:50 +0000 2011	4b26aaf9f964a520307f24e3	{Caf? Venetia}	{37.44338141300074,-122.16496467590332,Palo Alto,CA,United States}	{Food,}
+191	Mon Mar 21 15:43:51 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Sat Mar 19 16:40:40 +0000 2011	4ab6dee5f964a5205c7920e3	{Bay Area Educational Theater Company}	{37.511616,-122.255392,San Carlos,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+191	Sat Mar 19 15:16:38 +0000 2011	4af049b9f964a5200ddb21e3	{Little Belmont Cafe}	{37.52152,-122.26706027984619,San Francisco,CA,United States}	{Food,}
+191	Thu Mar 17 15:39:28 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Thu Mar 17 01:42:24 +0000 2011	47124c9ff964a520a14b1fe3	{The Melting Pot}	{37.5678641,-122.324017,San Mateo,CA,United States}	{Food,}
+191	Wed Mar 16 20:10:02 +0000 2011	4ac3c4dbf964a520be9c20e3	{Buon Appetito Italian Pizzeria}	{37.53374,-122.29584574699402,San Mateo,CA,United States}	{Food,}
+191	Tue Mar 15 17:39:39 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Tue Mar 15 15:07:13 +0000 2011	4b26aaf9f964a520307f24e3	{Caf? Venetia}	{37.44338141300074,-122.16496467590332,Palo Alto,CA,United States}	{Food,}
+191	Mon Mar 14 15:38:31 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Mon Mar 14 00:32:33 +0000 2011	4b5bb1eaf964a520831029e3	{Levi's Outlet}	{37.02252934739815,-121.56335460791068,Gilroy,CA,United States}	{Shop & Service,}
+191	Sun Mar 13 22:33:54 +0000 2011	4b12cbaef964a520508e23e3	{Gilroy Premium Outlets}	{37.022393898643315,-121.56329154968262,Gilroy,CA,United States}	{Shop & Service,}
+191	Sun Mar 13 22:33:04 +0000 2011	4bbe3ae65ce0d13a8dd3df57	{Kenneth Cole}	{37.02320886455696,-121.56220077661438,Gilroy,CA,United States}	{Shop & Service,Clothing Store,}
+191	Sun Mar 13 20:55:49 +0000 2011	4b3fa9f4f964a52096ab25e3	{Los Pericos Taqueria}	{37.00810114347671,-121.57013243450336,Gilroy,CA,United States}	{Food,}
+191	Sun Mar 13 18:55:56 +0000 2011	4a6e1b7bf964a520edd31fe3	{Mission San Juan Bautista}	{36.84528632334465,-121.53632848505625,San Juan Bautista,CA,United States}	{Spiritual Center,Professional & Other Places,}
+191	Sat Mar 12 21:00:59 +0000 2011	4ab6dee5f964a5205c7920e3	{Bay Area Educational Theater Company}	{37.511616,-122.255392,San Carlos,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+191	Sat Mar 12 21:00:58 +0000 2011	4ab6dee5f964a5205c7920e3	{Bay Area Educational Theater Company}	{37.511616,-122.255392,San Carlos,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+191	Fri Mar 11 22:43:21 +0000 2011	4a11d753f964a5204f771fe3	{Apple Store, Hillsdale}	{37.536710876843,-122.300123499564,San Mateo,CA,United States}	{Shop & Service,}
+191	Fri Mar 11 17:46:53 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Fri Mar 11 01:43:24 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Thu Mar 10 16:01:06 +0000 2011	4b26aaf9f964a520307f24e3	{Caf? Venetia}	{37.44338141300074,-122.16496467590332,Palo Alto,CA,United States}	{Food,}
+191	Thu Mar 10 03:35:48 +0000 2011	4cb33d631463a1439117b3a9	{The Counter}	{37.5358409254587,-122.29812397631106,San Mateo,CA,United States}	{Food,}
+191	Thu Mar 10 02:49:59 +0000 2011	4b9bdcf3f964a520a62e36e3	{Salon Kavi}	{37.54527486484889,-122.29074954986572,San Mateo,CA,United States}	{Shop & Service,}
+191	Thu Mar 10 02:48:26 +0000 2011	4b9bdcf3f964a520a62e36e3	{Salon Kavi}	{37.54527486484889,-122.29074954986572,San Mateo,CA,United States}	{Shop & Service,}
+191	Tue Mar 08 17:09:24 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Tue Mar 08 03:58:28 +0000 2011	4bafdc16f964a520c1263ce3	{Celia's Mexican Restaurant}	{37.579847340798324,-122.33506145417299,San Mateo,CA,United States}	{Food,}
+191	Mon Mar 07 16:45:15 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Mon Mar 07 15:38:12 +0000 2011	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Sat Mar 05 05:38:39 +0000 2011	4bf755855efe2d7f4df16834	{Max's Restaurant}	{37.59233256529163,-122.36208547482434,Burlingame,CA,United States}	{Food,}
+191	Sat Mar 05 03:03:01 +0000 2011	4ae76173f964a520ceaa21e3	{Aragon High School}	{37.55051895073985,-122.3284745825111,San Mateo,CA,United States}	{School,Professional & Other Places,}
+191	Sat Mar 05 02:23:09 +0000 2011	4a2975e8f964a52094951fe3	{Astaria Restaurant & Bar}	{37.5636029477234,-122.32497064266734,San Mateo,CA,United States}	{Food,}
+191	Fri Mar 04 17:17:52 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Fri Mar 04 03:30:40 +0000 2011	4b3285ebf964a520bb0d25e3	{Harry's Hofbrau}	{37.561679,-122.27887706,Foster City,CA,United States}	{Food,}
+191	Thu Mar 03 16:32:40 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Thu Mar 03 01:14:33 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Thu Mar 03 01:14:33 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Tue Mar 01 17:46:26 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Tue Mar 01 17:46:26 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Tue Mar 01 16:20:59 +0000 2011	4b26aaf9f964a520307f24e3	{Caf? Venetia}	{37.44338141300074,-122.16496467590332,Palo Alto,CA,United States}	{Food,}
+191	Mon Feb 28 17:09:48 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Mon Feb 28 17:09:48 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Sun Feb 27 21:43:01 +0000 2011	46d36f99f964a520594a1fe3	{SHN Orpheum Theatre}	{37.77931196324254,-122.41477983342365,San Francisco,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+191	Sun Feb 27 19:38:44 +0000 2011	4d5dfec5ef378cfa19375ca6	{Jack's Restaurant & Bar}	{37.634094676481354,-122.42035476327844,San Bruno,CA,United States}	{Food,}
+191	Sat Feb 26 02:54:57 +0000 2011	4ab50479f964a520027220e3	{Hillsdale High School}	{37.532342345060954,-122.31056618485432,San Mateo,CA,United States}	{School,Professional & Other Places,}
+191	Sat Feb 26 01:39:14 +0000 2011	4cb33d631463a1439117b3a9	{The Counter}	{37.5358409254587,-122.29812397631106,San Mateo,CA,United States}	{Food,}
+191	Thu Feb 24 23:50:45 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Wed Feb 23 20:23:56 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Wed Feb 23 02:39:13 +0000 2011	4549c884f964a520983c1fe3	{North Beach Pizza}	{37.56544649051606,-122.32240765593663,San Mateo,CA,United States}	{Outdoors & Recreation,Food,}
+191	Tue Feb 22 17:13:50 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Mon Feb 21 03:04:03 +0000 2011	4a57806ef964a52044b61fe3	{Romano's Macaroni Grill}	{37.535834,-122.29787,San Mateo,CA,United States}	{Nightlife Spot,Food,}
+191	Thu Feb 17 18:32:37 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Wed Feb 16 15:50:55 +0000 2011	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Tue Feb 15 17:32:52 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Tue Feb 15 02:49:31 +0000 2011	4aa09b6bf964a5201e4020e3	{Chevys Fresh Mex}	{37.54353949942113,-122.27049350738525,Foster City,CA,United States}	{Food,}
+191	Mon Feb 14 18:09:02 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Mon Feb 14 15:55:27 +0000 2011	4b26aaf9f964a520307f24e3	{Caf? Venetia}	{37.44338141300074,-122.16496467590332,Palo Alto,CA,United States}	{Food,}
+191	Sun Feb 13 22:56:01 +0000 2011	49fa254ef964a520cb6d1fe3	{East Bay Vivarium}	{37.869600406467114,-122.29907221676265,Berkeley,CA,United States}	{Shop & Service,}
+191	Sun Feb 13 21:34:29 +0000 2011	4ad53f28f964a520830221e3	{T-Rex Barbecue}	{37.88007820668639,-122.29707891650418,Berkeley,CA,United States}	{Nightlife Spot,Food,}
+191	Sun Feb 13 21:14:00 +0000 2011	49e8cfb6f964a5208b651fe3	{Urban Ore Salvage}	{37.85052267605451,-122.29054505900856,Berkeley,CA,United States}	{Shop & Service,}
+191	Sun Feb 13 19:46:18 +0000 2011	49e8cfb6f964a5208b651fe3	{Urban Ore Salvage}	{37.85052267605451,-122.29054505900856,Berkeley,CA,United States}	{Shop & Service,}
+191	Sun Feb 13 01:20:56 +0000 2011	49de836ef964a5205f601fe3	{Whole Foods Market}	{37.544229714540485,-122.29148640223116,San Mateo,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+191	Sat Feb 12 22:48:11 +0000 2011	4b1eba89f964a520991e24e3	{Classic 101 Burgers and Shakes}	{37.52187252044678,-122.27394819259644,Belmont,CA,United States}	{Food,}
+191	Sat Feb 12 21:36:29 +0000 2011	4ab6dee5f964a5205c7920e3	{Bay Area Educational Theater Company}	{37.511616,-122.255392,San Carlos,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+191	Sat Feb 12 03:26:11 +0000 2011	4ab50479f964a520027220e3	{Hillsdale High School}	{37.532342345060954,-122.31056618485432,San Mateo,CA,United States}	{School,Professional & Other Places,}
+191	Sat Feb 12 01:17:08 +0000 2011	4a29ae24f964a520c0951fe3	{Gourmet Haus Staudt}	{37.48586668172416,-122.23347902297974,Redwood City,CA,United States}	{Nightlife Spot,Food,}
+191	Fri Feb 11 17:27:28 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Thu Feb 10 16:35:19 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Wed Feb 09 18:09:21 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Wed Feb 09 16:08:45 +0000 2011	450af4f4f964a5204c391fe3	{Red Rock Coffee}	{37.393803003654625,-122.07888155105633,Mountain View,CA,United States}	{Food,}
+191	Wed Feb 09 03:36:34 +0000 2011	4840c7c2f964a5202d501fe3	{Mimi's Cafe}	{37.560544,-122.28320185,Foster City,CA,United States}	{Food,}
+191	Tue Feb 08 16:32:16 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Tue Feb 08 02:31:55 +0000 2011	4b28656bf964a520159324e3	{Pasta Pomodoro}	{37.54478910176226,-122.29117631361983,San Mateo,CA,United States}	{Food,}
+191	Mon Feb 07 16:31:20 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Sat Feb 05 21:30:22 +0000 2011	4ae74eb5f964a52042aa21e3	{Tacos Peralta}	{37.54186882578553,-122.29029034117401,San Mateo,CA,United States}	{Food,}
+191	Sat Feb 05 18:04:48 +0000 2011	4b9bdcf3f964a520a62e36e3	{Salon Kavi}	{37.54527486484889,-122.29074954986572,San Mateo,CA,United States}	{Shop & Service,}
+191	Sat Feb 05 18:01:22 +0000 2011	4b9bdcf3f964a520a62e36e3	{Salon Kavi}	{37.54527486484889,-122.29074954986572,San Mateo,CA,United States}	{Shop & Service,}
+191	Sat Feb 05 02:36:44 +0000 2011	4a0cf910f964a52073751fe3	{B Street & Vine}	{37.56511150261607,-122.32239104890903,San Mateo,CA,United States}	{Nightlife Spot,Shop & Service,Food,Food & Drink Shop,}
+191	Fri Feb 04 15:59:39 +0000 2011	4b26aaf9f964a520307f24e3	{Caf? Venetia}	{37.44338141300074,-122.16496467590332,Palo Alto,CA,United States}	{Food,}
+191	Thu Feb 03 16:40:26 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Thu Feb 03 02:33:36 +0000 2011	4cb33d631463a1439117b3a9	{The Counter}	{37.5358409254587,-122.29812397631106,San Mateo,CA,United States}	{Food,}
+191	Sun Jan 30 21:09:12 +0000 2011	4b1adfd3f964a520b3f323e3	{The Home Depot}	{37.56376623191452,-122.280821246082,San Mateo,CA,United States}	{Shop & Service,}
+191	Sun Jan 30 01:50:25 +0000 2011	43fed255f964a520ff2f1fe3	{Half Moon Bay Brewing Company}	{37.50396261790166,-122.48547319651864,Half Moon Bay,CA,United States}	{Nightlife Spot,Food,}
+191	Sun Jan 30 00:40:58 +0000 2011	4ab4199ef964a520d76f20e3	{Raman's Coffee & Chai}	{37.46961236000061,-122.43155479431152,Half Moon Bay,CA,United States}	{Food,}
+191	Sat Jan 29 21:34:16 +0000 2011	4ab6b45af964a520a47820e3	{James V. Fitzgerald Marine Reserve}	{37.52424359819009,-122.51783609390259,Moss Beach,CA,United States}	{Outdoors & Recreation,}
+191	Fri Jan 28 04:01:30 +0000 2011	4a7b5e03f964a520d0ea1fe3	{Gelato Classico}	{37.445054,-122.163499,Palo Alto,CA,United States}	{Food,}
+191	Fri Jan 28 02:50:10 +0000 2011	42b9fb80f964a52097251fe3	{Patxi's Chicago Pizza}	{37.44500594121503,-122.16348722850391,Palo Alto,CA,United States}	{Nightlife Spot,Food,}
+191	Wed Jan 26 17:15:14 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Wed Jan 26 17:15:08 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Wed Jan 26 16:18:15 +0000 2011	4b26aaf9f964a520307f24e3	{Caf? Venetia}	{37.44338141300074,-122.16496467590332,Palo Alto,CA,United States}	{Food,}
+191	Sun Jan 23 22:26:17 +0000 2011	4bb673ea1344b71311899d04	{Seal Point Dog Park}	{37.573358346842134,-122.29982614517212,San Mateo,CA,United States}	{Outdoors & Recreation,}
+191	Sun Jan 23 01:39:30 +0000 2011	4a735b57f964a52042dc1fe3	{Milagros Cantina}	{37.48424912414831,-122.22641944885254,Redwood City,CA,United States}	{Nightlife Spot,Food,}
+191	Sat Jan 22 01:52:07 +0000 2011	4a29ae24f964a520c0951fe3	{Gourmet Haus Staudt}	{37.48586668172416,-122.23347902297974,Redwood City,CA,United States}	{Nightlife Spot,Food,}
+191	Fri Jan 21 16:11:43 +0000 2011	4b26aaf9f964a520307f24e3	{Caf? Venetia}	{37.44338141300074,-122.16496467590332,Palo Alto,CA,United States}	{Food,}
+191	Thu Jan 20 18:17:36 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Wed Jan 19 17:23:04 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Wed Jan 19 16:28:11 +0000 2011	4b26aaf9f964a520307f24e3	{Caf? Venetia}	{37.44338141300074,-122.16496467590332,Palo Alto,CA,United States}	{Food,}
+191	Wed Jan 19 02:36:55 +0000 2011	4b3285ebf964a520bb0d25e3	{Harry's Hofbrau}	{37.561679,-122.27887706,Foster City,CA,United States}	{Food,}
+191	Tue Jan 18 17:17:42 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Mon Jan 17 18:42:38 +0000 2011	4b1adfd3f964a520b3f323e3	{The Home Depot}	{37.56376623191452,-122.280821246082,San Mateo,CA,United States}	{Shop & Service,}
+191	Mon Jan 17 01:43:31 +0000 2011	4aa1e227f964a520ac4120e3	{Hola Mexican Restaurant & Cantina}	{37.511721563477366,-122.29308307170868,Belmont,CA,United States}	{Nightlife Spot,Food,}
+191	Sat Jan 15 20:18:32 +0000 2011	4a49961cf964a52076ab1fe3	{Ferry Plaza Farmers Market}	{37.794940424096616,-122.39297389984131,San Francisco,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+191	Sat Jan 15 16:33:41 +0000 2011	4c15deb37f7f2d7f311ee368	{Laurel Court}	{37.792384255569374,-122.4102795124054,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+191	Sat Jan 15 04:14:04 +0000 2011	3fd66200f964a5207bed1ee3	{Biscuits & Blues}	{37.78717643056921,-122.40990152709257,San Francisco,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+191	Sat Jan 15 02:49:06 +0000 2011	3fd66200f964a5207bed1ee3	{Biscuits & Blues}	{37.78717643056921,-122.40990152709257,San Francisco,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+191	Fri Jan 14 23:16:06 +0000 2011	4698fe39f964a520f9481fe3	{The Fairmont San Francisco}	{37.79235252013811,-122.41054313133543,San Francisco,CA,United States}	{Nightlife Spot,Travel & Transport,}
+191	Fri Jan 14 22:42:51 +0000 2011	4698dfcbf964a520ef481fe3	{Huntington Park}	{37.79227026577922,-122.41215818674429,San Francisco,CA,United States}	{Outdoors & Recreation,}
+191	Fri Jan 14 20:38:08 +0000 2011	466bfdecf964a520ae471fe3	{Pedro's}	{37.38507949847186,-121.97080320733536,Santa Clara,CA,United States}	{Food,}
+191	Fri Jan 14 16:55:18 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Fri Jan 14 15:50:08 +0000 2011	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Thu Jan 13 17:34:38 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Thu Jan 13 02:27:51 +0000 2011	4a18fcabf964a520017a1fe3	{Jack's Prime Burgers & Shakes}	{37.53439413686688,-122.2943839430809,San Mateo,CA,United States}	{Food,}
+191	Wed Jan 12 17:13:51 +0000 2011	4b82d6a6f964a52044e830e3	{Kaffeehaus}	{37.564087,-122.324307,San Mateo,CA,United States}	{Food,}
+191	Tue Jan 11 17:37:54 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Tue Jan 11 16:22:52 +0000 2011	450af4f4f964a5204c391fe3	{Red Rock Coffee}	{37.393803003654625,-122.07888155105633,Mountain View,CA,United States}	{Food,}
+191	Tue Jan 11 04:37:12 +0000 2011	464f57fef964a520c8461fe3	{Barnes & Noble}	{37.53642748188103,-122.29772329330444,San Mateo,CA,United States}	{Shop & Service,Food,}
+191	Tue Jan 11 03:31:49 +0000 2011	4b08b877f964a520601123e3	{California Pizza Kitchen}	{37.53805673158047,-122.30140875999173,San Mateo,CA,United States}	{Food,}
+191	Mon Jan 10 17:31:03 +0000 2011	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Mon Jan 10 15:58:07 +0000 2011	4b26aaf9f964a520307f24e3	{Caf? Venetia}	{37.44338141300074,-122.16496467590332,Palo Alto,CA,United States}	{Food,}
+191	Sun Jan 09 19:00:39 +0000 2011	4af73e28f964a520930722e3	{The Home Depot}	{37.50108225669617,-122.25004178676765,San Carlos,CA,United States}	{Shop & Service,}
+191	Sun Jan 09 01:32:48 +0000 2011	454f462ff964a520d53c1fe3	{BJ's Restaurant & Brewhouse}	{37.63560125278854,-122.41890575243465,San Bruno,CA,United States}	{Nightlife Spot,Food,}
+191	Sat Jan 08 20:57:17 +0000 2011	4b9bdcf3f964a520a62e36e3	{Salon Kavi}	{37.54527486484889,-122.29074954986572,San Mateo,CA,United States}	{Shop & Service,}
+191	Sat Jan 08 20:32:47 +0000 2011	4ae74eb5f964a52042aa21e3	{Tacos Peralta}	{37.54186882578553,-122.29029034117401,San Mateo,CA,United States}	{Food,}
+191	Sat Jan 08 02:02:46 +0000 2011	4a29ae24f964a520c0951fe3	{Gourmet Haus Staudt}	{37.48586668172416,-122.23347902297974,Redwood City,CA,United States}	{Nightlife Spot,Food,}
+191	Fri Jan 07 16:04:09 +0000 2011	4b26aaf9f964a520307f24e3	{Caf? Venetia}	{37.44338141300074,-122.16496467590332,Palo Alto,CA,United States}	{Food,}
+191	Thu Jan 06 15:52:16 +0000 2011	4b26aaf9f964a520307f24e3	{Caf? Venetia}	{37.44338141300074,-122.16496467590332,Palo Alto,CA,United States}	{Food,}
+191	Wed Jan 05 15:55:35 +0000 2011	4b26aaf9f964a520307f24e3	{Caf? Venetia}	{37.44338141300074,-122.16496467590332,Palo Alto,CA,United States}	{Food,}
+191	Wed Jan 05 03:36:52 +0000 2011	4ae219a5f964a520b68a21e3	{La Lanterna Ristorante}	{37.54349935,-122.30878875,San Mateo,CA,United States}	{Food,}
+191	Mon Jan 03 02:31:43 +0000 2011	4a4a6a1ef964a520c9ab1fe3	{Baja Fresh Mexican Grill}	{37.51091293122425,-122.26549673225303,San Carlos,CA,United States}	{Food,}
+191	Sat Jan 01 21:53:07 +0000 2011	4a7bc48cf964a520c6eb1fe3	{Johnny Rockets}	{37.33302616928824,-121.88837663131508,San Jose,CA,United States}	{Food,}
+191	Sat Jan 01 21:09:12 +0000 2011	42c48780f964a520cf251fe3	{The Tech Museum of Innovation}	{37.331516996846325,-121.88996062920883,San Jose,CA,United States}	{Museum,Arts & Entertainment,}
+191	Wed Dec 29 16:43:11 +0000 2010	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Tue Dec 28 01:52:01 +0000 2010	422ceb00f964a520e01f1fe3	{Steelhead Brewing Company}	{37.57994818144164,-122.346271276474,Burlingame,CA,United States}	{Nightlife Spot,Food,}
+191	Mon Dec 27 00:25:04 +0000 2010	43c51016f964a520632d1fe3	{In-N-Out Burger}	{37.38799257914823,-121.982102394104,Santa Clara,CA,United States}	{Food,}
+191	Fri Dec 24 01:20:34 +0000 2010	49de836ef964a5205f601fe3	{Whole Foods Market}	{37.544229714540485,-122.29148640223116,San Mateo,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+191	Thu Dec 23 02:32:27 +0000 2010	4ae3aeb0f964a5201b9821e3	{Saffron Indian Bistro}	{37.50675655,-122.26064443588257,San Carlos,CA,United States}	{Food,}
+191	Wed Dec 22 16:26:55 +0000 2010	4aa2a63af964a520034220e3	{Alana's Cafe}	{37.4835898071695,-122.22647540847173,Redwood City,CA,United States}	{Food,}
+191	Sun Dec 19 21:27:09 +0000 2010	4c37d3be1a38ef3b3d7c9221	{NDNU Theatre}	{37.515649019695296,-122.28547096252441,Belmont,CA,United States}	{College & University,}
+191	Sat Dec 18 20:00:23 +0000 2010	440b26bff964a52070301fe3	{Flax Art & Design}	{37.77244399498879,-122.42211345949866,San Francisco,CA,United States}	{Shop & Service,}
+191	Sat Dec 18 18:09:33 +0000 2010	466299c2f964a5206b471fe3	{Stacks}	{37.77657923955352,-122.42464637272006,San Francisco,CA,United States}	{Food,}
+191	Tue Dec 14 03:33:03 +0000 2010	4b0762edf964a520fcfc22e3	{Beard Papa's}	{37.566664816289126,-122.32283815741539,San Mateo,CA,United States}	{Food,}
+191	Tue Dec 14 02:38:42 +0000 2010	4b3285ebf964a520bb0d25e3	{Harry's Hofbrau}	{37.561679,-122.27887706,Foster City,CA,United States}	{Food,}
+191	Tue Dec 14 02:38:42 +0000 2010	4b3285ebf964a520bb0d25e3	{Harry's Hofbrau}	{37.561679,-122.27887706,Foster City,CA,United States}	{Food,}
+191	Mon Dec 13 16:10:17 +0000 2010	450af4f4f964a5204c391fe3	{Red Rock Coffee}	{37.393803003654625,-122.07888155105633,Mountain View,CA,United States}	{Food,}
+191	Sun Dec 12 18:00:08 +0000 2010	4b119961f964a520418023e3	{Santa's Tree Farm and Village}	{37.49292753654768,-122.3851027366648,Half Moon Bay,CA,United States}	{Outdoors & Recreation,}
+191	Sat Dec 11 20:29:59 +0000 2010	4cb33d631463a1439117b3a9	{The Counter}	{37.5358409254587,-122.29812397631106,San Mateo,CA,United States}	{Food,}
+191	Thu Dec 09 03:07:12 +0000 2010	4b28656bf964a520159324e3	{Pasta Pomodoro}	{37.54478910176226,-122.29117631361983,San Mateo,CA,United States}	{Food,}
+191	Thu Dec 09 01:56:14 +0000 2010	4b9bdcf3f964a520a62e36e3	{Salon Kavi}	{37.54527486484889,-122.29074954986572,San Mateo,CA,United States}	{Shop & Service,}
+191	Wed Dec 08 21:13:21 +0000 2010	4ac3c4dbf964a520be9c20e3	{Buon Appetito Italian Pizzeria}	{37.53374,-122.29584574699402,San Mateo,CA,United States}	{Food,}
+191	Wed Dec 08 15:57:41 +0000 2010	4b26aaf9f964a520307f24e3	{Caf? Venetia}	{37.44338141300074,-122.16496467590332,Palo Alto,CA,United States}	{Food,}
+191	Mon Dec 06 19:05:02 +0000 2010	4b97418cf964a5209cfd34e3	{127.0.0.1}	{37.54191795609165,-122.28240209225058,San Francisco,CA,United States}	{Residence,}
+191	Sun Dec 05 22:15:16 +0000 2010	4af73e28f964a520930722e3	{The Home Depot}	{37.50108225669617,-122.25004178676765,San Carlos,CA,United States}	{Shop & Service,}
+191	Fri Dec 03 15:59:23 +0000 2010	4b26aaf9f964a520307f24e3	{Caf? Venetia}	{37.44338141300074,-122.16496467590332,Palo Alto,CA,United States}	{Food,}
+191	Fri Dec 03 03:48:35 +0000 2010	4a9c338ef964a520673620e3	{Fortune Star}	{37.543338,-122.308442,San Mateo,CA,United States}	{Food,}
+191	Tue Nov 30 15:55:31 +0000 2010	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Tue Nov 30 15:42:48 +0000 2010	4b97418cf964a5209cfd34e3	{127.0.0.1}	{37.54191795609165,-122.28240209225058,San Francisco,CA,United States}	{Residence,}
+191	Tue Nov 30 02:34:29 +0000 2010	4cb33d631463a1439117b3a9	{The Counter}	{37.5358409254587,-122.29812397631106,San Mateo,CA,United States}	{Food,}
+191	Mon Nov 29 16:13:36 +0000 2010	4b26aaf9f964a520307f24e3	{Caf? Venetia}	{37.44338141300074,-122.16496467590332,Palo Alto,CA,United States}	{Food,}
+191	Sun Nov 28 22:16:02 +0000 2010	4af73e28f964a520930722e3	{The Home Depot}	{37.50108225669617,-122.25004178676765,San Carlos,CA,United States}	{Shop & Service,}
+191	Sun Nov 28 02:23:17 +0000 2010	4b958a07f964a52040a834e3	{Sodini's Bertolucci's}	{37.65642991789916,-122.40784394223832,South San Francisco,CA,United States}	{Food,}
+191	Sun Nov 28 01:51:22 +0000 2010	440b26bff964a52070301fe3	{Flax Art & Design}	{37.77244399498879,-122.42211345949866,San Francisco,CA,United States}	{Shop & Service,}
+191	Sun Nov 28 00:17:41 +0000 2010	4ab3edf8f964a520286f20e3	{Lafayette Park}	{37.79152370132501,-122.4276065826416,San Francisco,CA,United States}	{Outdoors & Recreation,}
+191	Sat Nov 27 22:59:57 +0000 2010	437e6b00f964a520b72a1fe3	{Ghiradelli Chocolate Marketplace}	{37.8056447,-122.4223745,San Francisco,CA,United States}	{Shop & Service,Food,}
+191	Sat Nov 27 19:19:43 +0000 2010	4bb7fa1653649c74b99546fb	{Fort Mason Herbst Pavillion}	{37.807410545108375,-122.43121147155762,San Francisco,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+191	Fri Nov 26 23:41:08 +0000 2010	4b3d1be9f964a5202a8e25e3	{Foster City Dog Park}	{37.55587758046442,-122.26012408733368,Foster City,CA,United States}	{Outdoors & Recreation,}
+191	Mon Nov 22 16:05:27 +0000 2010	4b26aaf9f964a520307f24e3	{Caf? Venetia}	{37.44338141300074,-122.16496467590332,Palo Alto,CA,United States}	{Food,}
+191	Sat Nov 20 17:25:27 +0000 2010	49f9fc9df964a520a26d1fe3	{Stacks}	{37.58023175226067,-122.34703301232123,Burlingame,CA,United States}	{Food,}
+191	Wed Nov 17 21:49:41 +0000 2010	4ac3ce9bf964a520df9c20e3	{Romolo's Cannoli & Spumoni Factory}	{37.53371753935779,-122.295888455454,San Mateo,CA,United States}	{Food,}
+191	Wed Nov 17 21:17:37 +0000 2010	4b11e399f964a520908623e3	{Fernando's Mexican Restaurant}	{37.53372959292773,-122.29573341768426,San Mateo,CA,United States}	{Food,}
+191	Tue Nov 16 16:17:46 +0000 2010	4b26aaf9f964a520307f24e3	{Caf? Venetia}	{37.44338141300074,-122.16496467590332,Palo Alto,CA,United States}	{Food,}
+191	Tue Nov 16 16:17:45 +0000 2010	4b26aaf9f964a520307f24e3	{Caf? Venetia}	{37.44338141300074,-122.16496467590332,Palo Alto,CA,United States}	{Food,}
+191	Sun Nov 14 21:40:51 +0000 2010	4b940c66f964a520146434e3	{Ca?ada College Theatre}	{37.44800965292962,-122.2652142611825,Santa Clara,CA,United States}	{College & University,}
+191	Sun Nov 14 19:42:48 +0000 2010	4abc3476f964a520c08620e3	{Max's Restaurant}	{37.48442790854927,-122.2325348854065,Redwood City,CA,United States}	{Food,}
+191	Sun Nov 14 03:42:59 +0000 2010	4cdf5a9994c3b60ce9846bea	{Harini's}	{37.55303,-122.369947,Burlingame,CA,United States}	{}
+191	Sat Nov 13 22:13:06 +0000 2010	4b940c66f964a520146434e3	{Ca?ada College Theatre}	{37.44800965292962,-122.2652142611825,Santa Clara,CA,United States}	{College & University,}
+191	Sat Nov 13 02:58:42 +0000 2010	4b940c66f964a520146434e3	{Ca?ada College Theatre}	{37.44800965292962,-122.2652142611825,Santa Clara,CA,United States}	{College & University,}
+191	Thu Nov 11 03:17:14 +0000 2010	4b28656bf964a520159324e3	{Pasta Pomodoro}	{37.54478910176226,-122.29117631361983,San Mateo,CA,United States}	{Food,}
+191	Thu Nov 11 02:01:45 +0000 2010	4b9bdcf3f964a520a62e36e3	{Salon Kavi}	{37.54527486484889,-122.29074954986572,San Mateo,CA,United States}	{Shop & Service,}
+191	Tue Nov 09 15:42:07 +0000 2010	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Mon Nov 08 01:34:55 +0000 2010	4aff5cd3f964a520c43722e3	{Harry's Hofbrau}	{37.4778448133685,-122.22318974296083,Redwood City,CA,United States}	{Food,}
+191	Sun Nov 07 02:32:49 +0000 2010	4a61170ef964a520d2c11fe3	{San Mateo Performing Arts Center}	{37.577704570244066,-122.33045068703551,San Mateo,CA,United States}	{Arts & Entertainment,}
+191	Sun Nov 07 02:31:36 +0000 2010	4b7608a2f964a52011382ee3	{San Mateo High School}	{37.57722310905673,-122.32971449554209,San Mateo,CA,United States}	{School,Professional & Other Places,}
+191	Sat Nov 06 02:12:36 +0000 2010	4b940c66f964a520146434e3	{Ca?ada College Theatre}	{37.44800965292962,-122.2652142611825,Santa Clara,CA,United States}	{College & University,}
+191	Fri Nov 05 15:00:05 +0000 2010	4b26aaf9f964a520307f24e3	{Caf? Venetia}	{37.44338141300074,-122.16496467590332,Palo Alto,CA,United States}	{Food,}
+191	Fri Nov 05 02:50:55 +0000 2010	422ceb00f964a520e01f1fe3	{Steelhead Brewing Company}	{37.57994818144164,-122.346271276474,Burlingame,CA,United States}	{Nightlife Spot,Food,}
+191	Thu Nov 04 01:06:59 +0000 2010	4b940c66f964a520146434e3	{Ca?ada College Theatre}	{37.44800965292962,-122.2652142611825,Santa Clara,CA,United States}	{College & University,}
+191	Tue Nov 02 15:54:44 +0000 2010	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Tue Nov 02 15:14:40 +0000 2010	4bbd2ad7f57ba5935ed2adb9	{George Hall School}	{37.53762128701664,-122.28965908130108,San Mateo,CA,United States}	{Outdoors & Recreation,School,Professional & Other Places,}
+191	Tue Nov 02 02:34:26 +0000 2010	4b940c66f964a520146434e3	{Ca?ada College Theatre}	{37.44800965292962,-122.2652142611825,Santa Clara,CA,United States}	{College & University,}
+191	Tue Nov 02 00:19:24 +0000 2010	4ae74eb5f964a52042aa21e3	{Tacos Peralta}	{37.54186882578553,-122.29029034117401,San Mateo,CA,United States}	{Food,}
+191	Sun Oct 31 00:03:10 +0000 2010	4ab50479f964a520027220e3	{Hillsdale High School}	{37.532342345060954,-122.31056618485432,San Mateo,CA,United States}	{School,Professional & Other Places,}
+191	Sat Oct 30 16:30:39 +0000 2010	49eb83f1f964a520ed661fe3	{Nini's Coffee Shop}	{37.58507153,-122.33132233333333,San Mateo,CA,United States}	{Food,}
+191	Sat Oct 30 03:51:56 +0000 2010	4ab50479f964a520027220e3	{Hillsdale High School}	{37.532342345060954,-122.31056618485432,San Mateo,CA,United States}	{School,Professional & Other Places,}
+191	Thu Oct 28 15:09:24 +0000 2010	4b26aaf9f964a520307f24e3	{Caf? Venetia}	{37.44338141300074,-122.16496467590332,Palo Alto,CA,United States}	{Food,}
+191	Thu Oct 28 02:03:13 +0000 2010	4b3285ebf964a520bb0d25e3	{Harry's Hofbrau}	{37.561679,-122.27887706,Foster City,CA,United States}	{Food,}
+191	Wed Oct 27 14:36:56 +0000 2010	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Sun Oct 24 17:30:56 +0000 2010	4b940c66f964a520146434e3	{Ca?ada College Theatre}	{37.44800965292962,-122.2652142611825,Santa Clara,CA,United States}	{College & University,}
+191	Sun Oct 24 17:12:44 +0000 2010	4ab6dee5f964a5205c7920e3	{Bay Area Educational Theater Company}	{37.511616,-122.255392,San Carlos,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+191	Sat Oct 23 17:52:07 +0000 2010	4ab6dee5f964a5205c7920e3	{Bay Area Educational Theater Company}	{37.511616,-122.255392,San Carlos,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+191	Sat Oct 23 01:35:51 +0000 2010	4b3285ebf964a520bb0d25e3	{Harry's Hofbrau}	{37.561679,-122.27887706,Foster City,CA,United States}	{Food,}
+191	Fri Oct 22 15:26:58 +0000 2010	450af4f4f964a5204c391fe3	{Red Rock Coffee}	{37.393803003654625,-122.07888155105633,Mountain View,CA,United States}	{Food,}
+191	Wed Oct 20 00:15:23 +0000 2010	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Sun Oct 17 16:29:41 +0000 2010	4a7316adf964a5208cdb1fe3	{Bay Watch}	{37.56586542201349,-122.32412923701246,San Mateo,CA,United States}	{Food,}
+191	Sat Oct 16 01:27:41 +0000 2010	4a57806ef964a52044b61fe3	{Romano's Macaroni Grill}	{37.535834,-122.29787,San Mateo,CA,United States}	{Nightlife Spot,Food,}
+191	Wed Oct 13 14:56:40 +0000 2010	4b26aaf9f964a520307f24e3	{Caf? Venetia}	{37.44338141300074,-122.16496467590332,Palo Alto,CA,United States}	{Food,}
+191	Tue Oct 12 01:20:31 +0000 2010	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Sun Oct 10 19:10:41 +0000 2010	4bfdc2d8f7c82d7f7bb88e04	{College Park Elementary School}	{37.576929684430354,-122.32688426971436,San Mateo,CA,United States}	{College & University,}
+191	Sat Oct 09 23:03:54 +0000 2010	4ab6dee5f964a5205c7920e3	{Bay Area Educational Theater Company}	{37.511616,-122.255392,San Carlos,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+191	Sat Oct 09 19:25:59 +0000 2010	4bfdc2d8f7c82d7f7bb88e04	{College Park Elementary School}	{37.576929684430354,-122.32688426971436,San Mateo,CA,United States}	{College & University,}
+191	Fri Oct 08 14:32:42 +0000 2010	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Thu Oct 07 01:38:54 +0000 2010	4b9bdcf3f964a520a62e36e3	{Salon Kavi}	{37.54527486484889,-122.29074954986572,San Mateo,CA,United States}	{Shop & Service,}
+191	Tue Oct 05 15:04:25 +0000 2010	450af4f4f964a5204c391fe3	{Red Rock Coffee}	{37.393803003654625,-122.07888155105633,Mountain View,CA,United States}	{Food,}
+191	Tue Oct 05 05:21:21 +0000 2010	4b97418cf964a5209cfd34e3	{127.0.0.1}	{37.54191795609165,-122.28240209225058,San Francisco,CA,United States}	{Residence,}
+191	Sat Oct 02 01:50:32 +0000 2010	4a18fcabf964a520017a1fe3	{Jack's Prime Burgers & Shakes}	{37.53439413686688,-122.2943839430809,San Mateo,CA,United States}	{Food,}
+191	Tue Sep 28 01:40:04 +0000 2010	4b08b877f964a520601123e3	{California Pizza Kitchen}	{37.53805673158047,-122.30140875999173,San Mateo,CA,United States}	{Food,}
+191	Mon Sep 27 15:28:48 +0000 2010	450af4f4f964a5204c391fe3	{Red Rock Coffee}	{37.393803003654625,-122.07888155105633,Mountain View,CA,United States}	{Food,}
+191	Mon Sep 27 01:29:52 +0000 2010	47bae90ff964a520d24d1fe3	{BJ's Restaurant & Brewhouse}	{37.56087054657975,-122.2827315885589,Foster City,CA,United States}	{Food,}
+191	Sun Sep 26 22:13:14 +0000 2010	4ab6dee5f964a5205c7920e3	{Bay Area Educational Theater Company}	{37.511616,-122.255392,San Carlos,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+191	Sat Sep 25 20:15:12 +0000 2010	4ab6dee5f964a5205c7920e3	{Bay Area Educational Theater Company}	{37.511616,-122.255392,San Carlos,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+191	Wed Sep 22 01:49:58 +0000 2010	4ab50479f964a520027220e3	{Hillsdale High School}	{37.532342345060954,-122.31056618485432,San Mateo,CA,United States}	{School,Professional & Other Places,}
+191	Tue Sep 21 20:31:56 +0000 2010	4c93b15d94a0236ae39a8512	{Oracle OpenWorld 2010}	{37.784527,-122.40211041666667,San Francisco,CA,United States}	{Professional & Other Places,}
+191	Tue Sep 21 16:02:29 +0000 2010	4c93b15d94a0236ae39a8512	{Oracle OpenWorld 2010}	{37.784527,-122.40211041666667,San Francisco,CA,United States}	{Professional & Other Places,}
+191	Tue Sep 21 15:21:52 +0000 2010	45073758f964a52021391fe3	{San Francisco Caltrain Station}	{37.776642582524694,-122.39486753940582,San Francisco,CA,United States}	{Travel & Transport,Train Station,}
+191	Tue Sep 21 14:38:00 +0000 2010	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Tue Sep 21 01:56:19 +0000 2010	4a821f2cf964a520adf81fe3	{The Fish Market San Mateo}	{37.55594392521265,-122.29296092570154,San Mateo,CA,United States}	{Food,}
+191	Sun Sep 19 21:31:56 +0000 2010	4ab6dee5f964a5205c7920e3	{Bay Area Educational Theater Company}	{37.511616,-122.255392,San Carlos,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+191	Sat Sep 18 19:51:58 +0000 2010	4ab6dee5f964a5205c7920e3	{Bay Area Educational Theater Company}	{37.511616,-122.255392,San Carlos,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+191	Sat Sep 18 17:46:29 +0000 2010	4bfdc2d8f7c82d7f7bb88e04	{College Park Elementary School}	{37.576929684430354,-122.32688426971436,San Mateo,CA,United States}	{College & University,}
+191	Sat Sep 18 02:18:46 +0000 2010	4aa1e227f964a520ac4120e3	{Hola Mexican Restaurant & Cantina}	{37.511721563477366,-122.29308307170868,Belmont,CA,United States}	{Nightlife Spot,Food,}
+191	Sat Sep 18 00:56:35 +0000 2010	4bc51e575935c9b6c896a5d2	{Shoreline Park & Lake}	{37.43231544281039,-122.08716988563536,Mountain View,CA,United States}	{Outdoors & Recreation,}
+191	Thu Sep 16 15:54:23 +0000 2010	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Thu Sep 16 02:43:52 +0000 2010	4ab50479f964a520027220e3	{Hillsdale High School}	{37.532342345060954,-122.31056618485432,San Mateo,CA,United States}	{School,Professional & Other Places,}
+191	Wed Sep 15 20:45:29 +0000 2010	40958b80f964a520e8f21ee3	{Faultline Brewing Company}	{37.387604712954364,-121.99252545833588,Sunnyvale,CA,United States}	{Nightlife Spot,}
+191	Tue Sep 14 17:50:52 +0000 2010	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Mon Sep 13 14:37:39 +0000 2010	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Sun Sep 12 19:47:35 +0000 2010	4be5d7d3d4f7c9b65d042620	{Midway @ Circus Circus Reno}	{39.531651134518654,-119.81544613838196,Reno,NV,United States}	{Arts & Entertainment,}
+191	Sun Sep 12 18:20:37 +0000 2010	4b3faec5f964a5201bac25e3	{Flavors! the Buffet}	{39.53036,-119.81520355,Reno,NV,United States}	{Food,}
+191	Sun Sep 12 01:46:40 +0000 2010	4c1196f5416620a1ee74d9e4	{The Brew Brothers at the Eldorado}	{39.53024439364354,-119.81496870517731,Reno,NV,United States}	{Nightlife Spot,}
+191	Sat Sep 11 18:16:19 +0000 2010	4ba4b8a0f964a52013af38e3	{Mel's Diner}	{39.528707283553985,-119.81859955065204,Reno,NV,United States}	{Food,}
+191	Sat Sep 11 18:15:13 +0000 2010	4ba4b8a0f964a52013af38e3	{Mel's Diner}	{39.528707283553985,-119.81859955065204,Reno,NV,United States}	{Food,}
+191	Sat Sep 11 12:36:46 +0000 2010	4b9d4cf0f964a5209da136e3	{Rancho San Rafael Park}	{39.547867970522745,-119.82856750488281,Reno,NV,United States}	{Outdoors & Recreation,}
+191	Sat Sep 11 12:26:11 +0000 2010	4b859bf9f964a520676831e3	{Rtc Citicenter}	{39.53007996082306,-119.812746,Reno,NV,United States}	{}
+191	Sat Sep 11 01:51:28 +0000 2010	4a88c216f964a520890720e3	{Dos Coyotes Border Cafe}	{38.5411251493295,-121.72362327575682,Davis,CA,United States}	{Food,}
+191	Thu Sep 09 14:26:10 +0000 2010	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Thu Sep 09 01:54:15 +0000 2010	4b9bdcf3f964a520a62e36e3	{Salon Kavi}	{37.54527486484889,-122.29074954986572,San Mateo,CA,United States}	{Shop & Service,}
+191	Tue Sep 07 14:54:12 +0000 2010	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Tue Sep 07 14:53:38 +0000 2010	4c8280272f1c236a7df33943	{King's Mountain Art Fair}	{37.43586197598995,-122.320154612085,King's Mountain,CA,United States}	{Arts & Entertainment,}
+191	Mon Sep 06 16:11:18 +0000 2010	4c8280272f1c236a7df33943	{King's Mountain Art Fair}	{37.43586197598995,-122.320154612085,King's Mountain,CA,United States}	{Arts & Entertainment,}
+191	Mon Sep 06 02:33:55 +0000 2010	47bae90ff964a520d24d1fe3	{BJ's Restaurant & Brewhouse}	{37.56087054657975,-122.2827315885589,Foster City,CA,United States}	{Food,}
+191	Sat Sep 04 20:27:07 +0000 2010	49ecf399f964a520b5671fe3	{Jersey Joe's Hoagies & Cheesesteaks}	{37.513007232741636,-122.26651029875303,San Carlos,CA,United States}	{Food,}
+191	Sat Sep 04 18:43:44 +0000 2010	4ab6dee5f964a5205c7920e3	{Bay Area Educational Theater Company}	{37.511616,-122.255392,San Carlos,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+191	Wed Sep 01 13:38:53 +0000 2010	4ac379f4f964a520719b20e3	{Pilgrim Kitchen}	{37.528452,-122.285891,Belmont,CA,United States}	{Food,}
+191	Sun Aug 29 21:38:56 +0000 2010	4ace4f03f964a520c0cf20e3	{Sequoia High School}	{37.48450966892627,-122.23630409845661,Redwood City,CA,United States}	{School,Professional & Other Places,}
+191	Sun Aug 29 21:01:05 +0000 2010	4b09fb4ff964a520bc2023e3	{Johnny Rockets}	{37.483611,-122.230053,Redwood City,CA,United States}	{Food,}
+191	Sat Aug 28 03:28:27 +0000 2010	4ace4f03f964a520c0cf20e3	{Sequoia High School}	{37.48450966892627,-122.23630409845661,Redwood City,CA,United States}	{School,Professional & Other Places,}
+191	Sat Aug 28 03:28:27 +0000 2010	4ace4f03f964a520c0cf20e3	{Sequoia High School}	{37.48450966892627,-122.23630409845661,Redwood City,CA,United States}	{School,Professional & Other Places,}
+191	Tue Aug 24 01:51:49 +0000 2010	50ca02bd245f2d4aa8c2a952	{The Elephant Bar}	{37.59987648908293,-122.36699366326087,Burlingame,CA,United States}	{Food,}
+191	Sat Aug 21 02:01:04 +0000 2010	4ace4f03f964a520c0cf20e3	{Sequoia High School}	{37.48450966892627,-122.23630409845661,Redwood City,CA,United States}	{School,Professional & Other Places,}
+191	Sat Aug 21 00:47:15 +0000 2010	4abc3476f964a520c08620e3	{Max's Restaurant}	{37.48442790854927,-122.2325348854065,Redwood City,CA,United States}	{Food,}
+191	Sat Aug 21 00:46:15 +0000 2010	4abc3476f964a520c08620e3	{Max's Restaurant}	{37.48442790854927,-122.2325348854065,Redwood City,CA,United States}	{Food,}
+191	Thu Aug 19 14:36:20 +0000 2010	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Thu Aug 19 01:34:21 +0000 2010	4b11e399f964a520908623e3	{Fernando's Mexican Restaurant}	{37.53372959292773,-122.29573341768426,San Mateo,CA,United States}	{Food,}
+191	Wed Aug 18 01:12:08 +0000 2010	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Sun Aug 15 20:06:28 +0000 2010	4a075182f964a52046731fe3	{BevMo!}	{37.541849497393905,-122.28991933801865,San Mateo,CA,United States}	{Shop & Service,Food & Drink Shop,}
+191	Sun Aug 15 19:18:23 +0000 2010	4b1adfd3f964a520b3f323e3	{The Home Depot}	{37.56376623191452,-122.280821246082,San Mateo,CA,United States}	{Shop & Service,}
+191	Sat Aug 14 20:39:10 +0000 2010	4bfdc2d8f7c82d7f7bb88e04	{College Park Elementary School}	{37.576929684430354,-122.32688426971436,San Mateo,CA,United States}	{College & University,}
+191	Sat Aug 14 19:52:05 +0000 2010	4ae74eb5f964a52042aa21e3	{Tacos Peralta}	{37.54186882578553,-122.29029034117401,San Mateo,CA,United States}	{Food,}
+191	Sat Aug 14 01:59:31 +0000 2010	422ceb00f964a520e01f1fe3	{Steelhead Brewing Company}	{37.57994818144164,-122.346271276474,Burlingame,CA,United States}	{Nightlife Spot,Food,}
+191	Thu Aug 12 14:44:56 +0000 2010	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Thu Aug 12 02:30:24 +0000 2010	4ab50479f964a520027220e3	{Hillsdale High School}	{37.532342345060954,-122.31056618485432,San Mateo,CA,United States}	{School,Professional & Other Places,}
+191	Wed Aug 11 14:38:12 +0000 2010	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Wed Aug 11 02:58:24 +0000 2010	4a2ca363f964a5207c971fe3	{Cafe Epi}	{37.44729940989582,-122.16041585259526,Palo Alto,CA,United States}	{Shop & Service,Food,}
+191	Wed Aug 11 02:25:45 +0000 2010	4a3c3553f964a52042a11fe3	{Thaiphoon}	{37.444235,-122.161846,Palo Alto,CA,United States}	{Food,}
+191	Sat Aug 07 20:40:56 +0000 2010	4549c884f964a520983c1fe3	{North Beach Pizza}	{37.56544649051606,-122.32240765593663,San Mateo,CA,United States}	{Outdoors & Recreation,Food,}
+191	Sat Aug 07 02:54:44 +0000 2010	4c411dfecc410f477fcfaa61	{Lopez Restaurante Y Cantina}	{36.59558933,-121.89434856666666,Monterey,CA,United States}	{Food,}
+191	Fri Aug 06 15:35:27 +0000 2010	49e78a1df964a520b7641fe3	{Los Gatos Cafe}	{37.22829847149859,-121.98097988963127,Los Gatos,CA,United States}	{Food,}
+191	Thu Aug 05 18:34:49 +0000 2010	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Thu Aug 05 00:56:49 +0000 2010	4b9bdcf3f964a520a62e36e3	{Salon Kavi}	{37.54527486484889,-122.29074954986572,San Mateo,CA,United States}	{Shop & Service,}
+191	Wed Aug 04 01:24:44 +0000 2010	4a57806ef964a52044b61fe3	{Romano's Macaroni Grill}	{37.535834,-122.29787,San Mateo,CA,United States}	{Nightlife Spot,Food,}
+191	Mon Aug 02 15:39:10 +0000 2010	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Sat Jul 31 02:15:08 +0000 2010	44ca82f1f964a52005361fe3	{Stanford Theatre}	{37.44505096311692,-122.16270625591278,Palo Alto,CA,United States}	{Arts & Entertainment,Movie Theater,}
+191	Sat Jul 31 01:38:44 +0000 2010	4a688daaf964a5208bca1fe3	{Palo Alto Creamery}	{37.443896762802375,-122.16169238090515,Palo Alto,CA,United States}	{Food,}
+191	Fri Jul 30 02:33:08 +0000 2010	4a444c8af964a5206fa71fe3	{Tenka Sushi}	{37.565776,-122.322851,San Mateo,CA,United States}	{Food,}
+191	Sun Jul 25 17:09:26 +0000 2010	4c49a7669f2ad13ae0239653	{Gilroy Garlic Festival}	{36.99737733838832,-121.5860366821289,Gilroy,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,Professional & Other Places,}
+191	Sun Jul 25 16:39:33 +0000 2010	4c365c9b0a71c9b6c9063dc9	{Sue's Coffee Roasting Company}	{37.008447325168035,-121.56968593597412,Gilroy,CA,United States}	{Food,}
+191	Fri Jul 23 20:16:16 +0000 2010	4a0cf910f964a52073751fe3	{B Street & Vine}	{37.56511150261607,-122.32239104890903,San Mateo,CA,United States}	{Nightlife Spot,Shop & Service,Food,Food & Drink Shop,}
+191	Fri Jul 23 02:33:00 +0000 2010	4a621866f964a52013c31fe3	{Jeffrey's Hamburgers}	{37.56700543,-122.324267,San Mateo,CA,United States}	{Food,}
+191	Wed Jul 21 14:36:10 +0000 2010	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Wed Jul 21 14:36:09 +0000 2010	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Sun Jul 18 03:49:46 +0000 2010	4549c7fef964a520963c1fe3	{3 Bees Coffee House}	{37.565349,-122.32270954,San Mateo,CA,United States}	{Food,}
+191	Sun Jul 18 02:06:36 +0000 2010	4b1de88ff964a5206a1a24e3	{Broadway Grill}	{37.584911,-122.36587308333333,Burlingame,CA,United States}	{Nightlife Spot,Food,}
+191	Fri Jul 16 02:43:15 +0000 2010	4aa1e227f964a520ac4120e3	{Hola Mexican Restaurant & Cantina}	{37.511721563477366,-122.29308307170868,Belmont,CA,United States}	{Nightlife Spot,Food,}
+191	Fri Jul 16 01:11:15 +0000 2010	4c3e60ecdb3b1b8d61676595	{Mission Caltrain Shuttle}	{37.386467,-121.965499,Santa Clara,CA,United States}	{Travel & Transport,Bus Station,}
+191	Thu Jul 15 03:28:35 +0000 2010	450af4f4f964a5204c391fe3	{Red Rock Coffee}	{37.393803003654625,-122.07888155105633,Mountain View,CA,United States}	{Food,}
+191	Thu Jul 15 02:26:11 +0000 2010	4a07959bf964a52086731fe3	{New Mongolian BBQ}	{37.392408677319445,-122.08000468388377,Mountain View,CA,United States}	{Food,}
+191	Tue Jul 13 04:40:46 +0000 2010	44ca82f1f964a52005361fe3	{Stanford Theatre}	{37.44505096311692,-122.16270625591278,Palo Alto,CA,United States}	{Arts & Entertainment,Movie Theater,}
+191	Tue Jul 13 01:43:05 +0000 2010	4a688daaf964a5208bca1fe3	{Palo Alto Creamery}	{37.443896762802375,-122.16169238090515,Palo Alto,CA,United States}	{Food,}
+191	Sun Jul 11 21:02:29 +0000 2010	4aeb4460f964a5205ac021e3	{Japanese Tea Garden at Central Park}	{37.561894896844706,-122.32182025909424,San Mateo,CA,United States}	{Outdoors & Recreation,}
+191	Sun Jul 11 20:13:38 +0000 2010	4a444caaf964a52070a71fe3	{Central Park}	{37.561004719294516,-122.32239104890903,San Mateo,CA,United States}	{Outdoors & Recreation,}
+191	Sun Jul 11 18:14:10 +0000 2010	4b3d1be9f964a5202a8e25e3	{Foster City Dog Park}	{37.55587758046442,-122.26012408733368,Foster City,CA,United States}	{Outdoors & Recreation,}
+191	Fri Jul 09 02:53:48 +0000 2010	4ab464adf964a5201a7120e3	{Outback Steakhouse}	{37.538029135980125,-122.30186868234296,San Mateo,CA,United States}	{Food,}
+191	Thu Jul 08 01:55:31 +0000 2010	4b9bdcf3f964a520a62e36e3	{Salon Kavi}	{37.54527486484889,-122.29074954986572,San Mateo,CA,United States}	{Shop & Service,}
+191	Thu Jul 08 01:55:31 +0000 2010	4b9bdcf3f964a520a62e36e3	{Salon Kavi}	{37.54527486484889,-122.29074954986572,San Mateo,CA,United States}	{Shop & Service,}
+191	Wed Jul 07 18:42:03 +0000 2010	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Wed Jul 07 01:38:53 +0000 2010	4abd21d9f964a5209f8820e3	{Ozuma Japanese Restaurant}	{37.50260353088379,-122.25679,San Carlos,CA,United States}	{Food,}
+191	Mon Jul 05 05:11:02 +0000 2010	4c316952a0ced13a88ae136e	{Foster City Fireworks Show}	{37.561749,-122.268916,San Mateo,CA,United States}	{}
+191	Sun Jul 04 20:20:48 +0000 2010	4a9af1ecf964a520b63320e3	{Belmont Farmers' Market}	{37.51857639324129,-122.27302551269531,Belmont,CA,United States}	{Shop & Service,Food & Drink Shop,}
+191	Sun Jul 04 17:37:09 +0000 2010	4c2cd5e5781db7134d003974	{Redwood City 4th of July Parade}	{37.48763,-122.230287,Redwood City,CA,United States}	{Arts & Entertainment,}
+191	Sun Jul 04 15:59:12 +0000 2010	4abc3476f964a520c08620e3	{Max's Restaurant}	{37.48442790854927,-122.2325348854065,Redwood City,CA,United States}	{Food,}
+191	Fri Jul 02 15:33:59 +0000 2010	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Thu Jul 01 15:00:34 +0000 2010	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Thu Jul 01 04:20:01 +0000 2010	43f8f151f964a520cd2f1fe3	{The Cheesecake Factory}	{37.44708,-122.160559581,Palo Alto,CA,United States}	{Food,}
+191	Thu Jul 01 02:24:34 +0000 2010	4b21bf6df964a520fa4024e3	{Zucca}	{37.39411191102149,-122.078889,Mountain View,CA,United States}	{Food,}
+191	Wed Jun 30 01:37:50 +0000 2010	4aff5cd3f964a520c43722e3	{Harry's Hofbrau}	{37.4778448133685,-122.22318974296083,Redwood City,CA,United States}	{Food,}
+191	Sun Jun 27 02:52:01 +0000 2010	4a7e1dc4f964a52006f11fe3	{Stella Pastry and Cafe}	{37.79911662530604,-122.40845237206142,San Francisco,CA,United States}	{Food,}
+191	Sun Jun 27 02:01:58 +0000 2010	49bc2d06f964a5201d541fe3	{City Lights Bookstore}	{37.797677287828435,-122.40646666535821,San Francisco,CA,United States}	{Shop & Service,}
+191	Sun Jun 27 01:18:42 +0000 2010	3fd66200f964a520a9ed1ee3	{The Stinking Rose}	{37.7981847974544,-122.40738485194984,San Francisco,CA,United States}	{Food,}
+191	Fri Jun 25 03:39:22 +0000 2010	49c6cacff964a5207e571fe3	{Caffe Trieste}	{37.331217,-121.88700228888888,San Jose,CA,United States}	{Food,Arts & Entertainment,}
+191	Fri Jun 25 01:51:06 +0000 2010	4c082ce5a1b32d7f019d95f0	{Music In The Park}	{37.332415,-121.889918,San Jose,CA,United States}	{Arts & Entertainment,}
+191	Fri Jun 25 01:30:37 +0000 2010	4b159261f964a5200eaf23e3	{Baja Fresh}	{37.333093835238785,-121.88787907361984,San Jose,CA,United States}	{Food,}
+191	Thu Jun 24 17:57:56 +0000 2010	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Tue Jun 22 20:51:46 +0000 2010	4bf755855efe2d7f4df16834	{Max's Restaurant}	{37.59233256529163,-122.36208547482434,Burlingame,CA,United States}	{Food,}
+191	Mon Jun 21 15:14:48 +0000 2010	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Sun Jun 20 21:19:07 +0000 2010	4b4517eff964a520510426e3	{Laurie Meadows Park}	{37.53284424821991,-122.28188431027537,San Mateo,CA,United States}	{Outdoors & Recreation,}
+191	Sun Jun 20 01:13:31 +0000 2010	4b573a8df964a520252c28e3	{San Mateo County Event Center}	{37.54597086298595,-122.30180740678294,San Mateo,CA,United States}	{Travel & Transport,Arts & Entertainment,Convention Center,Professional & Other Places,}
+191	Sat Jun 19 04:31:55 +0000 2010	429f9d80f964a520c1241fe3	{Caff? Greco}	{37.799057,-122.40841831,San Francisco,CA,United States}	{Food,}
+191	Sat Jun 19 03:23:12 +0000 2010	49c9a70bf964a5208e581fe3	{Calzone's}	{37.79899141753134,-122.40835834222793,San Francisco,CA,United States}	{Food,}
+191	Sat Jun 19 01:15:13 +0000 2010	4abee430f964a520709020e3	{Beach Blanket Babylon}	{37.799453487928524,-122.41029976466993,San Francisco,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+191	Thu Jun 17 01:30:31 +0000 2010	4a4a7a5cf964a520dcab1fe3	{Casa Lupe}	{37.39064365478561,-122.08070039749146,Mountain View,CA,United States}	{Food,}
+191	Sun Jun 13 19:41:35 +0000 2010	40b7d280f964a52093001fe3	{Crissy Field}	{37.805104875814145,-122.44876384735107,San Francisco,CA,United States}	{Outdoors & Recreation,}
+191	Sat Jun 12 02:18:14 +0000 2010	44fc846ff964a52089381fe3	{Gelato Classico}	{37.39324988614936,-122.07925200462341,Mountain View,CA,United States}	{Food,}
+191	Sat Jun 12 01:02:48 +0000 2010	4a2b0748f964a5208a961fe3	{Pasta Q}	{37.394384655845585,-122.07881497186447,Mountain View,CA,United States}	{Food,}
+191	Thu Jun 10 01:47:18 +0000 2010	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Wed Jun 09 02:27:54 +0000 2010	4549c7fef964a520963c1fe3	{3 Bees Coffee House}	{37.565349,-122.32270954,San Mateo,CA,United States}	{Food,}
+191	Wed Jun 09 01:37:12 +0000 2010	4549c884f964a520983c1fe3	{North Beach Pizza}	{37.56544649051606,-122.32240765593663,San Mateo,CA,United States}	{Outdoors & Recreation,Food,}
+191	Wed Jun 09 01:37:12 +0000 2010	4549c884f964a520983c1fe3	{North Beach Pizza}	{37.56544649051606,-122.32240765593663,San Mateo,CA,United States}	{Outdoors & Recreation,Food,}
+191	Sat Jun 05 22:12:52 +0000 2010	4ae74eb5f964a52042aa21e3	{Tacos Peralta}	{37.54186882578553,-122.29029034117401,San Mateo,CA,United States}	{Food,}
+191	Sat Jun 05 19:19:49 +0000 2010	4b9bdcf3f964a520a62e36e3	{Salon Kavi}	{37.54527486484889,-122.29074954986572,San Mateo,CA,United States}	{Shop & Service,}
+191	Sat Jun 05 03:02:18 +0000 2010	4aa34b0cf964a520d24320e3	{Bombay Garden}	{37.564706,-122.323445,San Mateo,CA,United States}	{Food,}
+191	Fri Jun 04 16:35:51 +0000 2010	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Thu Jun 03 21:11:18 +0000 2010	49cd87e8f964a520fb591fe3	{In-N-Out Burger}	{37.600721473871886,-122.38244354724884,Millbrae,CA,United States}	{Food,}
+191	Thu Jun 03 16:25:27 +0000 2010	49eb83f1f964a520ed661fe3	{Nini's Coffee Shop}	{37.58507153,-122.33132233333333,San Mateo,CA,United States}	{Food,}
+191	Thu Jun 03 02:47:19 +0000 2010	422ceb00f964a520e01f1fe3	{Steelhead Brewing Company}	{37.57994818144164,-122.346271276474,Burlingame,CA,United States}	{Nightlife Spot,Food,}
+191	Wed Jun 02 02:50:43 +0000 2010	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Tue Jun 01 15:03:13 +0000 2010	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Tue Jun 01 15:03:04 +0000 2010	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Sat May 29 18:38:38 +0000 2010	4b8ad55bf964a5202e8432e3	{Camino Corner}	{37.61605214,-122.40679800510406,San Bruno,CA,United States}	{Food,}
+191	Fri May 28 19:28:26 +0000 2010	4a0cf910f964a52073751fe3	{B Street & Vine}	{37.56511150261607,-122.32239104890903,San Mateo,CA,United States}	{Nightlife Spot,Shop & Service,Food,Food & Drink Shop,}
+191	Fri May 28 00:29:42 +0000 2010	466bfdecf964a520ae471fe3	{Pedro's}	{37.38507949847186,-121.97080320733536,Santa Clara,CA,United States}	{Food,}
+191	Thu May 27 00:07:09 +0000 2010	49d68c61f964a520e65c1fe3	{Blue Bottle Coffee}	{37.79590475625579,-122.39393759555746,San Francisco,CA,United States}	{Food,}
+191	Wed May 26 20:39:26 +0000 2010	4bbbf9b6e436ef3bcd205664	{Sue Bierman Park}	{37.796072,-122.395988,San Francisco,CA,United States}	{Outdoors & Recreation,}
+191	Tue May 25 02:23:18 +0000 2010	454f462ff964a520d53c1fe3	{BJ's Restaurant & Brewhouse}	{37.63560125278854,-122.41890575243465,San Bruno,CA,United States}	{Nightlife Spot,Food,}
+191	Sun May 23 22:36:20 +0000 2010	4bf6c3615ec320a1d0b585d3	{Maker Faire}	{37.54679,-122.30246833333334,San Mateo,CA,United States}	{Arts & Entertainment,}
+191	Sun May 23 04:58:27 +0000 2010	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Sat May 22 20:56:26 +0000 2010	4bf6c3615ec320a1d0b585d3	{Maker Faire}	{37.54679,-122.30246833333334,San Mateo,CA,United States}	{Arts & Entertainment,}
+191	Thu May 20 01:02:31 +0000 2010	4b11e399f964a520908623e3	{Fernando's Mexican Restaurant}	{37.53372959292773,-122.29573341768426,San Mateo,CA,United States}	{Food,}
+191	Wed May 19 00:51:29 +0000 2010	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Tue May 18 15:01:38 +0000 2010	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Mon May 17 15:49:31 +0000 2010	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Sun May 16 16:14:53 +0000 2010	4a6caf4df964a52043d11fe3	{Copenhagen Bakery & Cafe}	{37.579008010192574,-122.34658472596546,Burlingame,CA,United States}	{Food,}
+191	Sun May 16 04:18:52 +0000 2010	4a8da106f964a5204f1020e3	{Les Joulins Jazz Bistro}	{37.785574239999995,-122.406891,San Francisco,CA,United States}	{Music Venue,Food,Arts & Entertainment,}
+191	Sat May 15 02:34:00 +0000 2010	44ca82f1f964a52005361fe3	{Stanford Theatre}	{37.44505096311692,-122.16270625591278,Palo Alto,CA,United States}	{Arts & Entertainment,Movie Theater,}
+191	Sat May 15 01:41:35 +0000 2010	44fc846ff964a52089381fe3	{Gelato Classico}	{37.39324988614936,-122.07925200462341,Mountain View,CA,United States}	{Food,}
+191	Sat May 15 00:51:50 +0000 2010	4a07959bf964a52086731fe3	{New Mongolian BBQ}	{37.392408677319445,-122.08000468388377,Mountain View,CA,United States}	{Food,}
+191	Wed May 12 19:46:53 +0000 2010	48225836f964a520974f1fe3	{El Torito}	{37.38539255861284,-121.98042333126068,Santa Clara,CA,United States}	{Food,}
+191	Tue May 11 02:29:40 +0000 2010	4549c884f964a520983c1fe3	{North Beach Pizza}	{37.56544649051606,-122.32240765593663,San Mateo,CA,United States}	{Outdoors & Recreation,Food,}
+191	Mon May 10 00:08:30 +0000 2010	442fe898f964a520e5311fe3	{Stanford Shopping Center}	{37.44237626,-122.1711016,Palo Alto,CA,United States}	{Shop & Service,Food & Drink Shop,}
+191	Sat May 08 15:42:40 +0000 2010	4ac379f4f964a520719b20e3	{Pilgrim Kitchen}	{37.528452,-122.285891,Belmont,CA,United States}	{Food,}
+191	Sat May 08 01:37:39 +0000 2010	4a444c8af964a5206fa71fe3	{Tenka Sushi}	{37.565776,-122.322851,San Mateo,CA,United States}	{Food,}
+191	Fri May 07 15:06:28 +0000 2010	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Thu May 06 02:02:37 +0000 2010	4b9bdcf3f964a520a62e36e3	{Salon Kavi}	{37.54527486484889,-122.29074954986572,San Mateo,CA,United States}	{Shop & Service,}
+191	Wed May 05 20:21:41 +0000 2010	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Wed May 05 20:21:41 +0000 2010	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Fri Apr 30 19:21:59 +0000 2010	4a285f62f964a5201a951fe3	{Birk's Restaurant}	{37.38548633141253,-121.97287559509277,Santa Clara,CA,United States}	{Nightlife Spot,Food,}
+191	Thu Apr 29 18:32:18 +0000 2010	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Wed Apr 28 21:46:52 +0000 2010	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Mon Apr 26 16:35:00 +0000 2010	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Mon Apr 26 02:12:41 +0000 2010	4a18fcabf964a520017a1fe3	{Jack's Prime Burgers & Shakes}	{37.53439413686688,-122.2943839430809,San Mateo,CA,United States}	{Food,}
+191	Sat Apr 24 02:01:16 +0000 2010	4abc3476f964a520c08620e3	{Max's Restaurant}	{37.48442790854927,-122.2325348854065,Redwood City,CA,United States}	{Food,}
+191	Fri Apr 23 17:01:02 +0000 2010	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Thu Apr 22 16:11:27 +0000 2010	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Thu Apr 22 02:29:30 +0000 2010	4b08b877f964a520601123e3	{California Pizza Kitchen}	{37.53805673158047,-122.30140875999173,San Mateo,CA,United States}	{Food,}
+191	Wed Apr 21 18:46:39 +0000 2010	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Tue Apr 20 02:54:22 +0000 2010	4a735b57f964a52042dc1fe3	{Milagros Cantina}	{37.48424912414831,-122.22641944885254,Redwood City,CA,United States}	{Nightlife Spot,Food,}
+191	Mon Apr 19 17:39:09 +0000 2010	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Mon Apr 19 14:52:09 +0000 2010	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Sat Apr 17 03:00:53 +0000 2010	422ceb00f964a520e01f1fe3	{Steelhead Brewing Company}	{37.57994818144164,-122.346271276474,Burlingame,CA,United States}	{Nightlife Spot,Food,}
+191	Thu Apr 15 22:18:15 +0000 2010	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Thu Apr 15 02:38:23 +0000 2010	4a821f2cf964a520adf81fe3	{The Fish Market San Mateo}	{37.55594392521265,-122.29296092570154,San Mateo,CA,United States}	{Food,}
+191	Wed Apr 14 02:10:25 +0000 2010	4aff5cd3f964a520c43722e3	{Harry's Hofbrau}	{37.4778448133685,-122.22318974296083,Redwood City,CA,United States}	{Food,}
+191	Tue Apr 13 18:16:24 +0000 2010	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Tue Apr 13 15:01:15 +0000 2010	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Mon Apr 12 17:27:52 +0000 2010	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Sat Apr 10 01:07:53 +0000 2010	4aa09b6bf964a5201e4020e3	{Chevys Fresh Mex}	{37.54353949942113,-122.27049350738525,Foster City,CA,United States}	{Food,}
+191	Thu Apr 08 15:07:23 +0000 2010	4b6c51bff964a5205f302ce3	{Luke's Local}	{37.53813749062544,-122.29810953140259,San Mateo,CA,United States}	{Food,}
+191	Wed Apr 07 19:42:03 +0000 2010	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Wed Apr 07 03:21:04 +0000 2010	49f9392af964a5206e6d1fe3	{Heidi's Pies}	{37.54888,-122.310278,San Mateo,CA,United States}	{Food,}
+191	Wed Apr 07 02:52:20 +0000 2010	47bae90ff964a520d24d1fe3	{BJ's Restaurant & Brewhouse}	{37.56087054657975,-122.2827315885589,Foster City,CA,United States}	{Food,}
+191	Wed Apr 07 00:14:53 +0000 2010	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Mon Apr 05 01:12:09 +0000 2010	4a444c8af964a5206fa71fe3	{Tenka Sushi}	{37.565776,-122.322851,San Mateo,CA,United States}	{Food,}
+191	Sat Apr 03 01:57:06 +0000 2010	4b11e399f964a520908623e3	{Fernando's Mexican Restaurant}	{37.53372959292773,-122.29573341768426,San Mateo,CA,United States}	{Food,}
+191	Thu Apr 01 02:20:56 +0000 2010	4b9bdcf3f964a520a62e36e3	{Salon Kavi}	{37.54527486484889,-122.29074954986572,San Mateo,CA,United States}	{Shop & Service,}
+191	Tue Mar 30 21:37:12 +0000 2010	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Tue Mar 30 02:47:31 +0000 2010	4b42a000f964a520b7d725e3	{Caprino's}	{37.519009,-122.277291,Belmont,CA,United States}	{Nightlife Spot,Food,}
+191	Mon Mar 29 17:24:42 +0000 2010	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Mon Mar 29 03:11:29 +0000 2010	4ab6dee5f964a5205c7920e3	{Bay Area Educational Theater Company}	{37.511616,-122.255392,San Carlos,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+191	Sun Mar 28 21:05:11 +0000 2010	4b940c66f964a520146434e3	{Ca?ada College Theatre}	{37.44800965292962,-122.2652142611825,Santa Clara,CA,United States}	{College & University,}
+191	Sun Mar 28 01:08:16 +0000 2010	4baeabeff964a5203acd3be3	{Barrett Community Center}	{37.51433697678653,-122.29185186264733,Belmont,CA,United States}	{Outdoors & Recreation,}
+191	Sat Mar 27 21:33:31 +0000 2010	4b940c66f964a520146434e3	{Ca?ada College Theatre}	{37.44800965292962,-122.2652142611825,Santa Clara,CA,United States}	{College & University,}
+191	Sat Mar 27 03:06:31 +0000 2010	4b940c66f964a520146434e3	{Ca?ada College Theatre}	{37.44800965292962,-122.2652142611825,Santa Clara,CA,United States}	{College & University,}
+191	Sat Mar 27 01:15:27 +0000 2010	4af8c18df964a520b60f22e3	{El Grullense}	{37.482052,-122.23002598333333,Redwood City,CA,United States}	{Food,}
+191	Fri Mar 26 17:58:05 +0000 2010	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Wed Mar 24 17:51:17 +0000 2010	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Tue Mar 23 22:00:09 +0000 2010	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Tue Mar 23 04:03:39 +0000 2010	4b571558f964a520c02528e3	{Mediterranean Fusion Cuisine}	{37.506938,-122.260502,San Carlos,CA,United States}	{Food,}
+191	Tue Mar 23 02:22:36 +0000 2010	4ae3aeb0f964a5201b9821e3	{Saffron Indian Bistro}	{37.50675655,-122.26064443588257,San Carlos,CA,United States}	{Food,}
+191	Mon Mar 22 00:43:48 +0000 2010	471b73def964a520af4b1fe3	{Red Robin Gourmet Burgers}	{37.56170175892549,-122.28209474603453,San Mateo,CA,United States}	{Food,}
+191	Sun Mar 21 21:08:52 +0000 2010	4b940c66f964a520146434e3	{Ca?ada College Theatre}	{37.44800965292962,-122.2652142611825,Santa Clara,CA,United States}	{College & University,}
+191	Sun Mar 21 21:08:52 +0000 2010	4b940c66f964a520146434e3	{Ca?ada College Theatre}	{37.44800965292962,-122.2652142611825,Santa Clara,CA,United States}	{College & University,}
+191	Sun Mar 21 00:21:15 +0000 2010	4a30bc2df964a52088991fe3	{Rainbow Pizza}	{37.521305,-122.337287,San Mateo,CA,United States}	{Food,}
+191	Sat Mar 20 19:54:22 +0000 2010	4b940c66f964a520146434e3	{Ca?ada College Theatre}	{37.44800965292962,-122.2652142611825,Santa Clara,CA,United States}	{College & University,}
+191	Sat Mar 20 19:15:39 +0000 2010	4b2d3b7ff964a520cad124e3	{Prima Deli}	{37.46617266480187,-122.24086046218872,Redwood City,CA,United States}	{Food,}
+191	Sat Mar 20 07:17:31 +0000 2010	47bae90ff964a520d24d1fe3	{BJ's Restaurant & Brewhouse}	{37.56087054657975,-122.2827315885589,Foster City,CA,United States}	{Food,}
+191	Sat Mar 20 02:27:19 +0000 2010	4b940c66f964a520146434e3	{Ca?ada College Theatre}	{37.44800965292962,-122.2652142611825,Santa Clara,CA,United States}	{College & University,}
+191	Sat Mar 20 02:27:19 +0000 2010	4b940c66f964a520146434e3	{Ca?ada College Theatre}	{37.44800965292962,-122.2652142611825,Santa Clara,CA,United States}	{College & University,}
+191	Fri Mar 19 01:05:20 +0000 2010	4a18fcabf964a520017a1fe3	{Jack's Prime Burgers & Shakes}	{37.53439413686688,-122.2943839430809,San Mateo,CA,United States}	{Food,}
+191	Thu Mar 18 17:35:48 +0000 2010	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Wed Mar 17 16:10:15 +0000 2010	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Tue Mar 16 17:30:43 +0000 2010	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Tue Mar 16 04:53:51 +0000 2010	4b940c66f964a520146434e3	{Ca?ada College Theatre}	{37.44800965292962,-122.2652142611825,Santa Clara,CA,United States}	{College & University,}
+191	Mon Mar 15 16:13:37 +0000 2010	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Sun Mar 14 20:20:40 +0000 2010	43b2bf13f964a520a72c1fe3	{Malibu Grand Prix}	{37.49181728947601,-122.21762180328369,Redwood City,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+191	Sun Mar 14 03:00:07 +0000 2010	49fa9048f964a520056e1fe3	{Century 12 San Mateo}	{37.566209658241696,-122.32251836938754,San Mateo,CA,United States}	{Food,Arts & Entertainment,Movie Theater,}
+191	Sun Mar 14 02:51:43 +0000 2010	49bd7233f964a5207c541fe3	{Sweet Breams}	{37.56607292302802,-122.32350924962269,San Mateo,CA,United States}	{Food,}
+191	Sat Mar 13 23:55:39 +0000 2010	4ab6dee5f964a5205c7920e3	{Bay Area Educational Theater Company}	{37.511616,-122.255392,San Carlos,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+191	Sat Mar 13 17:53:21 +0000 2010	4a7dcf49f964a520b2ef1fe3	{Christie's Restaurant}	{37.57923028333333,-122.344673,Burlingame,CA,United States}	{Food,}
+191	Sat Mar 13 02:58:52 +0000 2010	4a57806ef964a52044b61fe3	{Romano's Macaroni Grill}	{37.535834,-122.29787,San Mateo,CA,United States}	{Nightlife Spot,Food,}
+191	Sun Mar 07 23:03:42 +0000 2010	4b5bb71bf964a520c21129e3	{Canyon Inn}	{37.47259718797232,-122.25983055177215,Redwood City,CA,United States}	{Food,}
+191	Sun Mar 07 16:44:56 +0000 2010	4abc3476f964a520c08620e3	{Max's Restaurant}	{37.48442790854927,-122.2325348854065,Redwood City,CA,United States}	{Food,}
+191	Sun Mar 07 02:29:02 +0000 2010	4b09fb4ff964a520bc2023e3	{Johnny Rockets}	{37.483611,-122.230053,Redwood City,CA,United States}	{Food,}
+191	Sat Mar 06 16:11:44 +0000 2010	4ab6dee5f964a5205c7920e3	{Bay Area Educational Theater Company}	{37.511616,-122.255392,San Carlos,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+191	Sat Mar 06 03:37:12 +0000 2010	4a821f2cf964a520adf81fe3	{The Fish Market San Mateo}	{37.55594392521265,-122.29296092570154,San Mateo,CA,United States}	{Food,}
+191	Fri Mar 05 19:01:05 +0000 2010	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Mon Mar 01 19:12:29 +0000 2010	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Mon Mar 01 02:00:43 +0000 2010	451cfbd2f964a520833a1fe3	{John Wayne Airport (SNA)}	{33.67956837093503,-117.86175727844238,Santa Ana,CA,United States}	{Travel & Transport,}
+191	Sun Feb 28 22:49:51 +0000 2010	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+191	Sun Feb 28 19:35:54 +0000 2010	45db8eb5f964a520fd421fe3	{Disney California Adventure Park}	{33.80798489664312,-117.91896778777333,Anaheim,CA,United States}	{Arts & Entertainment,}
+191	Sun Feb 28 18:37:55 +0000 2010	4703a234f964a5204b4b1fe3	{The Twilight Zone Tower of Terror}	{33.80683935374519,-117.91716165840626,Anaheim,CA,United States}	{Arts & Entertainment,Theme Park,}
+191	Sun Feb 28 17:31:50 +0000 2010	4b26fc81f964a520c68324e3	{Village Haus Restaurant}	{33.81343280374815,-117.91944986965322,Anaheim,CA,United States}	{Food,}
+191	Sun Feb 28 05:29:21 +0000 2010	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+191	Sun Feb 28 03:23:08 +0000 2010	4b4a80b4f964a520708926e3	{Naples Ristorante E Pizzeria}	{33.80885138832211,-117.92212843894958,Anaheim,CA,United States}	{Food,}
+191	Sat Feb 27 19:23:56 +0000 2010	45db8eb5f964a520fd421fe3	{Disney California Adventure Park}	{33.80798489664312,-117.91896778777333,Anaheim,CA,United States}	{Arts & Entertainment,}
+191	Sat Feb 27 16:53:08 +0000 2010	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+191	Fri Feb 26 16:41:41 +0000 2010	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+191	Fri Feb 26 15:55:55 +0000 2010	4aca26b0f964a520a2c020e3	{Millie's}	{33.81140314707494,-117.9147657752037,Anaheim,CA,United States}	{Food,}
+191	Fri Feb 26 06:11:13 +0000 2010	4ac8198bf964a520a8bb20e3	{Fairfield Inn Resort}	{33.81126314441724,-117.91419870063561,Anaheim,CA,United States}	{Travel & Transport,}
+191	Fri Feb 26 04:40:53 +0000 2010	4ac7e458f964a52064ba20e3	{Mickey & Friends Tram}	{33.813526,-117.924671,Anaheim,CA,United States}	{Travel & Transport,Arts & Entertainment,Theme Park,}
+191	Fri Feb 26 04:17:04 +0000 2010	451cfbd2f964a520833a1fe3	{John Wayne Airport (SNA)}	{33.67956837093503,-117.86175727844238,Santa Ana,CA,United States}	{Travel & Transport,}
+191	Thu Feb 25 23:47:01 +0000 2010	4a9f3c11f964a520fb3c20e3	{SFO Long Term Parking}	{37.636103901431824,-122.40076303482056,San Francisco,CA,United States}	{Travel & Transport,Professional & Other Places,}
+191	Thu Feb 25 02:39:56 +0000 2010	4b202b5df964a520322e24e3	{Stilo Salon}	{37.522081,-122.25166056666667,Redwood City,CA,United States}	{}
+191	Wed Feb 24 20:58:43 +0000 2010	4b11e399f964a520908623e3	{Fernando's Mexican Restaurant}	{37.53372959292773,-122.29573341768426,San Mateo,CA,United States}	{Food,}
+191	Wed Feb 24 20:58:43 +0000 2010	4b11e399f964a520908623e3	{Fernando's Mexican Restaurant}	{37.53372959292773,-122.29573341768426,San Mateo,CA,United States}	{Food,}
+191	Wed Feb 24 04:15:48 +0000 2010	4a444c8af964a5206fa71fe3	{Tenka Sushi}	{37.565776,-122.322851,San Mateo,CA,United States}	{Food,}
+191	Tue Feb 23 20:06:34 +0000 2010	4b3b600af964a520077325e3	{DFW Terminal D}	{32.897887,-97.03942,Irving,TX,United States}	{Travel & Transport,}
+191	Tue Feb 23 05:45:24 +0000 2010	4b80c725f964a5208d8b30e3	{The Lighthouse Inn}	{28.059657,-97.033853,Rockport,TX,United States}	{Professional & Other Places,}
+191	Mon Feb 22 03:55:52 +0000 2010	4b80c725f964a5208d8b30e3	{The Lighthouse Inn}	{28.059657,-97.033853,Rockport,TX,United States}	{Professional & Other Places,}
+191	Mon Feb 22 03:55:51 +0000 2010	4b80c725f964a5208d8b30e3	{The Lighthouse Inn}	{28.059657,-97.033853,Rockport,TX,United States}	{Professional & Other Places,}
+191	Mon Feb 22 02:40:53 +0000 2010	4b819964f964a520cab130e3	{Paradise Key Rockport Tx}	{28.04155486784424,-97.03028331279606,Rockport,TX,United States}	{}
+191	Sun Feb 21 05:40:14 +0000 2010	4b80c725f964a5208d8b30e3	{The Lighthouse Inn}	{28.059657,-97.033853,Rockport,TX,United States}	{Professional & Other Places,}
+191	Sat Feb 20 20:49:26 +0000 2010	4b3b600af964a520077325e3	{DFW Terminal D}	{32.897887,-97.03942,Irving,TX,United States}	{Travel & Transport,}
+191	Wed Feb 17 23:10:00 +0000 2010	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Mon Feb 15 00:15:49 +0000 2010	4ab6dee5f964a5205c7920e3	{Bay Area Educational Theater Company}	{37.511616,-122.255392,San Carlos,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+191	Sun Feb 14 00:12:29 +0000 2010	4b1adfd3f964a520b3f323e3	{The Home Depot}	{37.56376623191452,-122.280821246082,San Mateo,CA,United States}	{Shop & Service,}
+191	Sat Feb 13 23:01:18 +0000 2010	4ab6dee5f964a5205c7920e3	{Bay Area Educational Theater Company}	{37.511616,-122.255392,San Carlos,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+191	Sat Feb 13 00:22:35 +0000 2010	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Thu Feb 11 18:02:22 +0000 2010	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Tue Feb 09 19:06:25 +0000 2010	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Mon Feb 08 00:55:30 +0000 2010	4ab6dee5f964a5205c7920e3	{Bay Area Educational Theater Company}	{37.511616,-122.255392,San Carlos,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+191	Sat Feb 06 19:06:35 +0000 2010	4ab6dee5f964a5205c7920e3	{Bay Area Educational Theater Company}	{37.511616,-122.255392,San Carlos,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+191	Sat Feb 06 03:08:35 +0000 2010	4a61170ef964a520d2c11fe3	{San Mateo Performing Arts Center}	{37.577704570244066,-122.33045068703551,San Mateo,CA,United States}	{Arts & Entertainment,}
+191	Sat Feb 06 02:13:40 +0000 2010	4549c884f964a520983c1fe3	{North Beach Pizza}	{37.56544649051606,-122.32240765593663,San Mateo,CA,United States}	{Outdoors & Recreation,Food,}
+191	Fri Feb 05 21:09:21 +0000 2010	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Wed Feb 03 20:01:01 +0000 2010	4aae94d4f964a5207f6220e3	{Chegg HQ}	{37.38852109688567,-121.97221040725708,Santa Clara,CA,United States}	{College & University,Office,Professional & Other Places,}
+191	Sat Jan 30 03:04:41 +0000 2010	422ceb00f964a520e01f1fe3	{Steelhead Brewing Company}	{37.57994818144164,-122.346271276474,Burlingame,CA,United States}	{Nightlife Spot,Food,}
+191	Sun Jan 24 02:42:41 +0000 2010	4a621866f964a52013c31fe3	{Jeffrey's Hamburgers}	{37.56700543,-122.324267,San Mateo,CA,United States}	{Food,}
+191	Tue Jan 19 03:30:03 +0000 2010	4a18fcabf964a520017a1fe3	{Jack's Prime Burgers & Shakes}	{37.53439413686688,-122.2943839430809,San Mateo,CA,United States}	{Food,}
+191	Sun Jan 10 03:18:50 +0000 2010	4b11e399f964a520908623e3	{Fernando's Mexican Restaurant}	{37.53372959292773,-122.29573341768426,San Mateo,CA,United States}	{Food,}
+191	Mon Jan 04 02:15:28 +0000 2010	4a444c8af964a5206fa71fe3	{Tenka Sushi}	{37.565776,-122.322851,San Mateo,CA,United States}	{Food,}
+191	Sun Dec 27 22:47:26 +0000 2009	4acb4dc4f964a52071c320e3	{Blue Mermaid Seafood Restaurant and Chowder House}	{37.8075622952963,-122.41999527772042,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+191	Sun Dec 13 21:29:56 +0000 2009	4a73561ff964a52031dc1fe3	{Armadillo Willy's}	{37.55995580060531,-122.28147983551025,San Mateo,CA,United States}	{Food,}
+191	Sat Dec 12 18:20:44 +0000 2009	4b119961f964a520418023e3	{Santa's Tree Farm and Village}	{37.49292753654768,-122.3851027366648,Half Moon Bay,CA,United States}	{Outdoors & Recreation,}

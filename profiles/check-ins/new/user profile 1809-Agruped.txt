@@ -1,0 +1,412 @@
+1809	Wed Aug 10 19:45:01 +0000 2011	4bd2177d046076b055357371	{AT&T Park}	{37.77833858778822,-122.38940119743347,San Francisco,CA,United States}	{Stadium,Arts & Entertainment,}
+1809	Mon Aug 08 20:12:23 +0000 2011	3fd66200f964a52029ed1ee3	{Grumpy's American Pub}	{37.799577,-122.400623,San Francisco,CA,United States}	{Nightlife Spot,}
+1809	Sat Aug 06 18:38:37 +0000 2011	4c1fc69cb306c928f5f368b7	{Boulder Creek}	{40.014599938522146,-105.28045892715454,Boulder,CO,United States}	{Outdoors & Recreation,}
+1809	Wed Aug 03 03:41:51 +0000 2011	49d2c58df964a520d35b1fe3	{Happy / The Bitter Bar}	{40.0160855,-105.2841459,Boulder,CO,United States}	{Nightlife Spot,Food,}
+1809	Tue Aug 02 16:24:51 +0000 2011	482d61baf964a520d64f1fe3	{Denver International Airport (DEN)}	{39.85029261500981,-104.67378616333006,Denver,CO,United States}	{Travel & Transport,}
+1809	Mon Aug 01 16:07:05 +0000 2011	4bb2b1f64019a593bd3a37b8	{Head Royce School}	{37.80843937439088,-122.20510846675253,Oakland,CA,United States}	{School,Professional & Other Places,}
+1809	Fri Jul 29 18:37:24 +0000 2011	4abe7f9ef964a520068e20e3	{One World Trade Center}	{40.71297995577654,-74.01318669319153,New York,NY,United States}	{Arts & Entertainment,Professional & Other Places,}
+1809	Thu Jul 28 01:58:08 +0000 2011	4aeb36a9f964a520b8bf21e3	{Omni Providence}	{41.825101429195705,-71.4157052957816,Providence,RI,United States}	{Travel & Transport,}
+1809	Tue Jul 26 02:15:39 +0000 2011	3fd66200f964a52029ed1ee3	{Grumpy's American Pub}	{37.799577,-122.400623,San Francisco,CA,United States}	{Nightlife Spot,}
+1809	Mon Jul 25 19:54:41 +0000 2011	3fd66200f964a52018ed1ee3	{Slanted Door}	{37.79619516102866,-122.3938000202179,San Francisco,CA,United States}	{Food,}
+1809	Wed Jul 20 21:02:35 +0000 2011	4c125167b2510f475e63c498	{Facebook 1050 Building 1}	{37.419117624349965,-122.14629650115967,Palo Alto,CA,United States}	{Office,Professional & Other Places,}
+1809	Mon Jul 18 02:28:37 +0000 2011	4bbd3b43f57ba59372ebadb9	{Foster's Freeze}	{36.969068,-122.026012,Santa Cruz,CA,United States}	{Food,}
+1809	Sun Jul 17 16:46:09 +0000 2011	4aeca5bcf964a520e1c921e3	{Zachary's Restaurant}	{36.970017668877865,-122.02518327946066,Santa Cruz,CA,United States}	{Food,}
+1809	Sun Jul 17 03:36:50 +0000 2011	4c449ee1dcd61b8d00997b56	{Santa Cruz Main Beach}	{36.96378051855939,-122.01883792877197,Santa Cruz,CA,United States}	{Outdoors & Recreation,}
+1809	Wed Jul 13 20:07:30 +0000 2011	4bfd63edf7c82d7f831d8e04	{Gansevoort Park Ave}	{40.744058033260636,-73.98395849991054,New York,NY,United States}	{Travel & Transport,Hotel,}
+1809	Tue Jul 12 23:28:38 +0000 2011	4bfd63edf7c82d7f831d8e04	{Gansevoort Park Ave}	{40.744058033260636,-73.98395849991054,New York,NY,United States}	{Travel & Transport,Hotel,}
+1809	Mon Jul 11 14:34:55 +0000 2011	49b79f54f964a5202c531fe3	{Rockefeller Center}	{40.75872943796283,-73.97862678587563,New York,NY,United States}	{Outdoors & Recreation,}
+1809	Sun Jul 10 15:49:10 +0000 2011	43a52546f964a520532c1fe3	{John F. Kennedy International Airport (JFK)}	{40.645089355976346,-73.7845230102539,Jamaica,NY,United States}	{Travel & Transport,}
+1809	Sun Jul 10 11:59:10 +0000 2011	452113b6f964a520bc3a1fe3	{Boston Logan International Airport (BOS)}	{42.36650312404415,-71.01667642593384,Boston,MA,United States}	{Travel & Transport,}
+1809	Fri Jul 08 01:29:25 +0000 2011	4eb5b0e9dab4fe5111c5f84d	{Omnicom University}	{42.2972395664233,-71.27041759384223,Wellseley,MA,United States}	{College & University,}
+1809	Thu Jul 07 02:04:27 +0000 2011	4aea58eef964a52026bb21e3	{W Boston Hotel}	{42.350977518218876,-71.0654258465467,Boston,MA,United States}	{Travel & Transport,}
+1809	Wed Jul 06 22:34:10 +0000 2011	452113b6f964a520bc3a1fe3	{Boston Logan International Airport (BOS)}	{42.36650312404415,-71.01667642593384,Boston,MA,United States}	{Travel & Transport,}
+1809	Fri Jul 01 16:14:49 +0000 2011	4b686b62f964a52060772be3	{Olson Chicago}	{41.88456316303698,-87.64248847961426,Chicago,IL,United States}	{Office,Professional & Other Places,}
+1809	Thu Jun 30 16:18:10 +0000 2011	40b28c80f964a520fdfb1ee3	{Cubby Bear}	{41.94699907677714,-87.65670955181122,Chicago,IL,United States}	{Nightlife Spot,}
+1809	Sat Jun 25 19:31:11 +0000 2011	4fb67355a17c7f02fb79151b	{San Francisco Bay Ferry - Jack London Square Terminal}	{37.795017,-122.279763,Oakland,CA,United States}	{Travel & Transport,}
+1809	Sat Jun 25 00:49:18 +0000 2011	49c42f96f964a520a6561fe3	{Bloodhound}	{37.775921768505334,-122.40889549255371,San Francisco,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+1809	Tue Jun 21 19:30:35 +0000 2011	438d6b12f964a520322b1fe3	{W New York - Times Square}	{40.75925299429778,-73.98515224456787,New York,NY,United States}	{Travel & Transport,}
+1809	Fri Jun 17 04:16:10 +0000 2011	44d5eaacf964a5205d361fe3	{Terra Gallery & Event Space}	{37.78574721610599,-122.39299163170321,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Fri Jun 17 02:39:50 +0000 2011	42a63500f964a52003251fe3	{Kate O'Brien's}	{37.78716142736885,-122.39767849445343,San Francisco,CA,United States}	{Nightlife Spot,}
+1809	Wed Jun 15 14:38:09 +0000 2011	49d6619ff964a520bf5c1fe3	{Cafe deStijl}	{37.801415081071,-122.40044294123282,San Francisco,CA,United States}	{Food,}
+1809	Tue Jun 14 19:49:19 +0000 2011	3fd66200f964a52029ed1ee3	{Grumpy's American Pub}	{37.799577,-122.400623,San Francisco,CA,United States}	{Nightlife Spot,}
+1809	Sat Jun 11 01:36:20 +0000 2011	4bc8dcc7511f95214d86acc7	{Virgin America Flight 27}	{40.643081158922605,-73.77994647329339,Queens,NY,United States}	{Travel & Transport,Airport,}
+1809	Fri Jun 10 03:00:21 +0000 2011	4bfd63edf7c82d7f831d8e04	{Gansevoort Park Ave}	{40.744058033260636,-73.98395849991054,New York,NY,United States}	{Travel & Transport,Hotel,}
+1809	Fri Jun 03 15:05:10 +0000 2011	4dda93c981dcd5bca5b11c02	{Evolution Bureau (EVB)}	{37.80135249024572,-122.4010237561088,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,Professional & Other Places,}
+1809	Wed Jun 01 02:22:11 +0000 2011	41044980f964a520700b1fe3	{Hillstone}	{37.805918649667305,-122.40514039993286,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+1809	Sun May 29 02:35:25 +0000 2011	4a3304acf964a520f19a1fe3	{Grand Lake Theater}	{37.81146648347445,-122.2477376461029,Oakland,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1809	Sun May 29 00:44:19 +0000 2011	4b1c4e34f964a520c90524e3	{Boot & Shoe Service}	{37.81285866282477,-122.24683541720094,Oakland,CA,United States}	{Nightlife Spot,Food,}
+1809	Fri May 27 22:03:06 +0000 2011	3fd66200f964a52029ed1ee3	{Grumpy's American Pub}	{37.799577,-122.400623,San Francisco,CA,United States}	{Nightlife Spot,}
+1809	Thu May 26 15:39:04 +0000 2011	4cbc55ca7a5d9eb0b25c31e9	{Element New York Times Square West}	{40.755785293283495,-73.99160285211633,New York,NY,United States}	{Travel & Transport,}
+1809	Thu May 26 15:39:04 +0000 2011	4cbc55ca7a5d9eb0b25c31e9	{Element New York Times Square West}	{40.755785293283495,-73.99160285211633,New York,NY,United States}	{Travel & Transport,}
+1809	Wed May 25 23:46:52 +0000 2011	4bfd63edf7c82d7f831d8e04	{Gansevoort Park Ave}	{40.744058033260636,-73.98395849991054,New York,NY,United States}	{Travel & Transport,Hotel,}
+1809	Wed May 25 15:09:42 +0000 2011	49b87b8cf964a52044531fe3	{City Winery}	{40.72635525176133,-74.0057623386383,New York,NY,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+1809	Tue May 24 22:22:56 +0000 2011	4cbc55ca7a5d9eb0b25c31e9	{Element New York Times Square West}	{40.755785293283495,-73.99160285211633,New York,NY,United States}	{Travel & Transport,}
+1809	Mon May 23 23:46:54 +0000 2011	3fd66200f964a52029ed1ee3	{Grumpy's American Pub}	{37.799577,-122.400623,San Francisco,CA,United States}	{Nightlife Spot,}
+1809	Sun May 22 00:56:51 +0000 2011	4ae4fa03f964a520db9f21e3	{Xyclo}	{37.827823,-122.250497,Oakland,CA,United States}	{Food,}
+1809	Fri May 20 19:37:49 +0000 2011	4a96fe3af964a520de2720e3	{Sage Lounge}	{37.771628,-122.416821,San Francisco,CA,United States}	{Food,}
+1809	Sat May 07 02:20:20 +0000 2011	4aab3571f964a5203e5920e3	{Bungalow 44}	{37.906221,-122.546018,Mill Valley,CA,United States}	{Food,}
+1809	Fri Apr 29 03:15:40 +0000 2011	49d2c58df964a520d35b1fe3	{Happy / The Bitter Bar}	{40.0160855,-105.2841459,Boulder,CO,United States}	{Nightlife Spot,Food,}
+1809	Wed Apr 27 21:56:26 +0000 2011	4a7f854ef964a52046f41fe3	{Hotel Boulderado}	{40.019437581352555,-105.27948718107416,Boulder,CO,United States}	{Travel & Transport,}
+1809	Wed Apr 06 19:43:43 +0000 2011	40870b00f964a5209bf21ee3	{Googleplex}	{37.42194653277123,-122.08385467529297,Mountain View,CA,United States}	{Professional & Other Places,}
+1809	Mon Apr 04 15:18:38 +0000 2011	4a96fe3af964a520de2720e3	{Sage Lounge}	{37.771628,-122.416821,San Francisco,CA,United States}	{Food,}
+1809	Sat Apr 02 14:47:49 +0000 2011	4a93ee71f964a520032020e3	{Peet's Coffee & Tea}	{37.90649225818463,-122.54806535335425,Mill Valley,CA,United States}	{Food,}
+1809	Sat Mar 26 18:36:22 +0000 2011	43fed5a9f964a52004301fe3	{In-N-Out Burger}	{37.89656642953388,-122.51554280519485,Mill Valley,CA,United States}	{Food,}
+1809	Thu Mar 24 21:11:12 +0000 2011	4be31ad2cbdbef3b4a8860d8	{Phil Stefani's 437 Rush}	{41.890337467921434,-87.625784224248,Chicago,IL,United States}	{Food,}
+1809	Sat Mar 19 20:44:56 +0000 2011	45a163a4f964a520e2401fe3	{Cactus Taqueria}	{37.84403,-122.25160969,Oakland,CA,United States}	{Food,}
+1809	Thu Mar 17 01:30:21 +0000 2011	4a3c3dc9f964a5204ea11fe3	{Peche}	{30.266888319139184,-97.74523258209229,Austin,TX,United States}	{Nightlife Spot,}
+1809	Wed Mar 16 02:10:02 +0000 2011	43c968a2f964a5209c2d1fe3	{The Salt Lick}	{30.13179695917902,-98.01333343113726,Driftwood,TX,United States}	{Food,Professional & Other Places,}
+1809	Wed Mar 16 00:16:47 +0000 2011	4bb52afeef159c74446274f7	{W Austin}	{30.265275959959258,-97.74669170379639,Austin,TX,United States}	{Nightlife Spot,Travel & Transport,}
+1809	Tue Mar 15 00:39:37 +0000 2011	49dad3eef964a520ba5e1fe3	{Wink}	{30.275894803989615,-97.7525281906128,Austin,TX,United States}	{Nightlife Spot,Food,}
+1809	Mon Mar 14 04:32:25 +0000 2011	4bb52afeef159c74446274f7	{W Austin}	{30.265275959959258,-97.74669170379639,Austin,TX,United States}	{Nightlife Spot,Travel & Transport,}
+1809	Mon Mar 14 01:43:28 +0000 2011	45f4fde8f964a52001441fe3	{The Mohawk}	{30.269913737750787,-97.73610770702362,Austin,TX,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+1809	Sun Mar 13 23:15:54 +0000 2011	43f5b4ddf964a520a42f1fe3	{Molotov West Sixth}	{30.270100564278383,-97.75048995405383,Austin,TX,United States}	{Nightlife Spot,}
+1809	Sun Mar 13 22:03:13 +0000 2011	4bb52afeef159c74446274f7	{W Austin}	{30.265275959959258,-97.74669170379639,Austin,TX,United States}	{Nightlife Spot,Travel & Transport,}
+1809	Sun Mar 13 03:06:26 +0000 2011	49ee9350f964a5206e681fe3	{Lustre Pearl Bar}	{30.260709171865322,-97.73776872520746,Austin,TX,United States}	{Nightlife Spot,}
+1809	Sat Mar 12 20:16:46 +0000 2011	40b13b00f964a520d2f31ee3	{Paradise Cafe}	{30.267034997515484,-97.73930172906618,Austin,TX,United States}	{Nightlife Spot,Outdoors & Recreation,}
+1809	Sat Mar 12 18:50:22 +0000 2011	4a6b3dabf964a52041ce1fe3	{Mellow Johnny's}	{30.267972476803028,-97.74929881095886,Austin,TX,United States}	{Shop & Service,}
+1809	Sat Mar 12 17:01:25 +0000 2011	4bdb3a362a3a0f47b404aeb6	{Facebook}	{30.268855417498134,-97.74577360092951,Austin,TX,United States}	{Professional & Other Places,}
+1809	Sat Mar 12 02:39:10 +0000 2011	43c968a2f964a5209c2d1fe3	{The Salt Lick}	{30.13179695917902,-98.01333343113726,Driftwood,TX,United States}	{Food,Professional & Other Places,}
+1809	Fri Mar 11 18:36:39 +0000 2011	4493522af964a5207c341fe3	{Oakland International Airport (OAK)}	{37.71226740592608,-122.21261143684387,Oakland,CA,United States}	{Travel & Transport,}
+1809	Sun Feb 27 03:17:06 +0000 2011	4c31398c16adc9288060c09c	{Gate 60}	{22.313679870565213,113.9261637012762,Chek Lap Kok,,Hong Kong}	{Travel & Transport,Airport,}
+1809	Sat Feb 26 10:12:14 +0000 2011	4d31491e72a8b1f77fbd92d0	{Rooftop Pool @ The Rex Hotel}	{10.775506,106.7012535,Ho Chi Minh City,Ho Chi Minh City,Vietnam}	{Travel & Transport,Hotel,}
+1809	Thu Feb 24 09:20:41 +0000 2011	4d6622d8f75c3704525cd49a	{Royal Dalat}	{11.94629202,108.46015341,Da Lat,Lam Dong,Vietnam}	{Travel & Transport,}
+1809	Tue Feb 22 11:40:40 +0000 2011	4bd0a88c1f89ce7270c367ea	{Asia Paradise Hotel Nha Trang}	{12.235849420621,109.19553330605613,Nha Trang,,Vietnam}	{Travel & Transport,}
+1809	Sun Feb 20 10:11:30 +0000 2011	4dbf973e81545e1cc7d1c3ed	{HoiAn Hotel}	{15.8805256844996,108.33052972998453,Hoi An,Quang Nam,Vietnam}	{Travel & Transport,}
+1809	Sun Jan 30 20:11:11 +0000 2011	43fed5a9f964a52004301fe3	{In-N-Out Burger}	{37.89656642953388,-122.51554280519485,Mill Valley,CA,United States}	{Food,}
+1809	Thu Jan 20 03:05:18 +0000 2011	4a08f159f964a52028741fe3	{The Publican}	{41.886719758849296,-87.64892578125,Chicago,IL,United States}	{Food,}
+1809	Tue Jan 11 15:37:36 +0000 2011	4a96fe3af964a520de2720e3	{Sage Lounge}	{37.771628,-122.416821,San Francisco,CA,United States}	{Food,}
+1809	Mon Jan 10 16:04:15 +0000 2011	4a96fe3af964a520de2720e3	{Sage Lounge}	{37.771628,-122.416821,San Francisco,CA,United States}	{Food,}
+1809	Thu Jan 06 22:55:00 +0000 2011	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Mon Jan 03 00:31:09 +0000 2011	4a4700e9f964a520bca91fe3	{Grand Tavern}	{37.81515774469184,-122.24609345197678,Oakland,CA,United States}	{Nightlife Spot,Food,}
+1809	Wed Dec 29 02:46:45 +0000 2010	49f0fec0f964a5207b691fe3	{Don Ramon's}	{37.772899,-122.415063,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+1809	Sat Dec 25 22:00:50 +0000 2010	4a7414a6f964a520b8dd1fe3	{Top Dog}	{37.86796310705031,-122.25739893132352,Berkeley,CA,United States}	{Food,}
+1809	Thu Dec 23 05:50:35 +0000 2010	4a05c14ef964a5206e721fe3	{Kona Club}	{37.830420908758946,-122.24730312824249,Oakland,CA,United States}	{Nightlife Spot,}
+1809	Sun Dec 19 22:53:20 +0000 2010	42814b00f964a520eb211fe3	{Nick's Crispy Tacos}	{37.796083,-122.42188095,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+1809	Sat Dec 18 02:20:57 +0000 2010	4617e746f964a52051451fe3	{Bourbon & Branch}	{37.785828234206285,-122.41311504005402,San Francisco,CA,United States}	{Nightlife Spot,}
+1809	Fri Dec 17 16:43:49 +0000 2010	4a96fe3af964a520de2720e3	{Sage Lounge}	{37.771628,-122.416821,San Francisco,CA,United States}	{Food,}
+1809	Mon Dec 13 19:35:28 +0000 2010	43e612eaf964a520ff2e1fe3	{Shutters On The Beach}	{34.00667258232673,-118.49162578582764,Santa Monica,CA,United States}	{Nightlife Spot,Travel & Transport,Shop & Service,}
+1809	Mon Dec 13 07:09:30 +0000 2010	4a181f55f964a52083791fe3	{Le Meridien Delfina Santa Monica}	{34.0104753799281,-118.48552097362814,Santa Monica,CA,United States}	{Travel & Transport,}
+1809	Sun Dec 12 21:21:36 +0000 2010	4a47e5b9f964a52044aa1fe3	{Cleveland Hopkins International Airport (CLE)}	{41.40875980931533,-81.83945670635418,Cleveland,OH,United States}	{Travel & Transport,}
+1809	Fri Dec 10 02:44:03 +0000 2010	4b89b4f7f964a5209e4c32e3	{Applebee's}	{41.75598587583896,-87.74076154531278,Chicago,IL,United States}	{Nightlife Spot,Food,}
+1809	Mon Dec 06 17:24:06 +0000 2010	4533d338f964a5208f3b1fe3	{Del Posto}	{40.743485405490695,-74.00755405426025,New York,NY,United States}	{Food,}
+1809	Mon Dec 06 03:45:22 +0000 2010	438d6b12f964a520322b1fe3	{W New York - Times Square}	{40.75925299429778,-73.98515224456787,New York,NY,United States}	{Travel & Transport,}
+1809	Sun Dec 05 00:35:28 +0000 2010	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Thu Dec 02 22:53:20 +0000 2010	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Wed Dec 01 16:50:27 +0000 2010	4a96fe3af964a520de2720e3	{Sage Lounge}	{37.771628,-122.416821,San Francisco,CA,United States}	{Food,}
+1809	Tue Nov 30 16:36:05 +0000 2010	4a96fe3af964a520de2720e3	{Sage Lounge}	{37.771628,-122.416821,San Francisco,CA,United States}	{Food,}
+1809	Mon Nov 29 15:40:10 +0000 2010	4a96fe3af964a520de2720e3	{Sage Lounge}	{37.771628,-122.416821,San Francisco,CA,United States}	{Food,}
+1809	Wed Nov 24 16:10:05 +0000 2010	4a96fe3af964a520de2720e3	{Sage Lounge}	{37.771628,-122.416821,San Francisco,CA,United States}	{Food,}
+1809	Wed Nov 10 19:59:33 +0000 2010	4c4f331779ffe21e46fd401a	{Molokini Crater}	{20.6326235996198,-156.49629592895508,Between Molokai & Lanai,HI,United States}	{Outdoors & Recreation,}
+1809	Wed Nov 03 18:44:31 +0000 2010	4cd080487561236a919d2cf3	{San Francisco Giants 2010 World Series Championship Parade}	{37.78896317523384,-122.40211486816406,San Francisco,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+1809	Wed Nov 03 13:44:29 +0000 2010	482d61baf964a520d64f1fe3	{Denver International Airport (DEN)}	{39.85029261500981,-104.67378616333006,Denver,CO,United States}	{Travel & Transport,}
+1809	Tue Nov 02 23:10:20 +0000 2010	4ad7e5f9f964a520e90f21e3	{1111 Mississippi}	{38.61962020397186,-90.212959,Saint Louis,MO,United States}	{Food,}
+1809	Thu Oct 28 00:38:54 +0000 2010	4bd2177d046076b055357371	{AT&T Park}	{37.77833858778822,-122.38940119743347,San Francisco,CA,United States}	{Stadium,Arts & Entertainment,}
+1809	Sun Oct 24 18:40:49 +0000 2010	4abea642f964a520138f20e3	{The Cheesecake Factory}	{37.895819270467236,-122.06175327301025,Walnut Creek,CA,United States}	{Food,}
+1809	Sat Oct 23 19:45:52 +0000 2010	463c53f3f964a5202d461fe3	{Fentons Creamery & Restaurant}	{37.8279973189658,-122.250095307827,Oakland,CA,United States}	{Food,}
+1809	Sun Oct 17 14:53:18 +0000 2010	4ac79860f964a52053b820e3	{La Coppa Coffee Roasters}	{37.90603995973844,-122.54833601794812,Mill Valley,CA,United States}	{Food,}
+1809	Sat Oct 09 19:11:05 +0000 2010	3fd66200f964a52092ee1ee3	{In-N-Out Burger}	{33.953693952548974,-118.39676812291145,Los Angeles,CA,United States}	{Food,}
+1809	Sat Oct 09 01:24:26 +0000 2010	40e0b100f964a52029041fe3	{West End Tavern}	{40.01706063284189,-105.28320810477051,Boulder,CO,United States}	{Nightlife Spot,Food,}
+1809	Fri Oct 08 12:34:47 +0000 2010	4b3016f2f964a520e8f524e3	{Aloft Denver International Airport}	{39.77061347090079,-104.79532241821289,Aurora,CO,United States}	{Travel & Transport,}
+1809	Wed Oct 06 22:38:55 +0000 2010	461937cff964a5205c451fe3	{San Francisco DMV Office}	{37.77322661460681,-122.44045634183084,San Francisco,CA,United States}	{Professional & Other Places,}
+1809	Sun Oct 03 22:31:22 +0000 2010	4bd2177d046076b055357371	{AT&T Park}	{37.77833858778822,-122.38940119743347,San Francisco,CA,United States}	{Stadium,Arts & Entertainment,}
+1809	Fri Oct 01 02:59:49 +0000 2010	4ca54de8d971b1f732d5f5e0	{#Failure}	{40.738947,-73.989702,New York,NY,United States}	{Arts & Entertainment,}
+1809	Wed Sep 29 21:29:51 +0000 2010	438d6b12f964a520322b1fe3	{W New York - Times Square}	{40.75925299429778,-73.98515224456787,New York,NY,United States}	{Travel & Transport,}
+===
+1809	Thu Aug 19 03:44:43 +0000 2010	4839ec98f964a52013501fe3	{Sushi Groove South}	{37.77171363,-122.414283,San Francisco,CA,United States}	{Food,}
+1809	Mon Aug 16 00:48:30 +0000 2010	49cd18abf964a520b7591fe3	{Pyramid Brewery & Alehouse}	{37.87994958946737,-122.30004116865365,Berkeley,CA,United States}	{Nightlife Spot,Food,}
+1809	Sun Aug 15 23:32:13 +0000 2010	49d80129f964a5208e5d1fe3	{Point Isabel Regional Shoreline}	{37.90066191178704,-122.3249101638794,Richmond,CA,United States}	{Outdoors & Recreation,}
+1809	Sun Aug 15 18:58:13 +0000 2010	49c6844bf964a52053571fe3	{The Claremont Hotel Club & Spa}	{37.858955655536846,-122.24212646484375,Berkeley,CA,United States}	{Travel & Transport,Hotel,}
+1809	Sat Aug 14 20:03:42 +0000 2010	4af9188ef964a520fe1022e3	{GameStop}	{37.83471901173261,-122.24975475195806,Oakland,CA,United States}	{Shop & Service,}
+1809	Sat Aug 14 01:37:26 +0000 2010	4bd2177d046076b055357371	{AT&T Park}	{37.77833858778822,-122.38940119743347,San Francisco,CA,United States}	{Stadium,Arts & Entertainment,}
+1809	Wed Aug 11 18:15:50 +0000 2010	4a6f28ddf964a52077d51fe3	{Big Spaceship}	{40.702594,-73.98998062,Brooklyn,NY,United States}	{Arts & Entertainment,Office,Professional & Other Places,}
+1809	Wed Aug 11 09:50:29 +0000 2010	49c046f1f964a5205b551fe3	{Terminal 5}	{40.64557779020594,-73.77643346786499,Jamaica,NY,United States}	{Travel & Transport,Airport,}
+1809	Wed Aug 04 20:12:23 +0000 2010	457c6a6df964a520093f1fe3	{In-N-Out Burger}	{37.68826935148615,-122.47197300195694,Daly City,CA,United States}	{Food,}
+1809	Wed Aug 04 17:56:28 +0000 2010	4c125167b2510f475e63c498	{Facebook 1050 Building 1}	{37.419117624349965,-122.14629650115967,Palo Alto,CA,United States}	{Office,Professional & Other Places,}
+1809	Sun Aug 01 18:17:11 +0000 2010	4be7160a2457a5930587ad15	{Deep Fried Twinkies}	{36.96444955,-122.015556,Santa Cruz,CA,United States}	{Food,}
+1809	Sat Jul 31 02:23:23 +0000 2010	430d0a00f964a5203b271fe3	{Mountain Winery}	{37.260183994673426,-122.06438296801328,Saratoga,CA,United States}	{Food,Arts & Entertainment,}
+1809	Sun Jul 25 01:22:45 +0000 2010	4b284a2af964a520159224e3	{Viva! Taqueria}	{37.85882,-122.2449803352356,Berkeley,CA,United States}	{Food,}
+1809	Sun Jul 18 18:39:29 +0000 2010	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Sun Jul 18 00:24:11 +0000 2010	4bd2177d046076b055357371	{AT&T Park}	{37.77833858778822,-122.38940119743347,San Francisco,CA,United States}	{Stadium,Arts & Entertainment,}
+1809	Sat Jul 17 02:27:07 +0000 2010	49b41d95f964a520e7521fe3	{Waterbar}	{37.79060429269959,-122.38908598334135,San Francisco,CA,United States}	{Food,}
+1809	Sat Jul 10 21:08:56 +0000 2010	4a32e0a7f964a520b29a1fe3	{Peet's Coffee & Tea}	{37.878512,-122.180968,Orinda,CA,United States}	{Food,}
+1809	Thu Jul 08 04:24:20 +0000 2010	4a198a3ef964a520237a1fe3	{Chicago Midway International Airport (MDW)}	{41.78790499530704,-87.74070024490356,Chicago,IL,United States}	{Travel & Transport,}
+1809	Mon Jul 05 23:25:14 +0000 2010	49c6f462f964a52091571fe3	{Beach School Playground}	{37.82315872530029,-122.24635900964272,Piedmont,CA,United States}	{Outdoors & Recreation,}
+1809	Sun Jul 04 16:08:27 +0000 2010	4afb0a4df964a5208c1a22e3	{Peet's Coffee & Tea}	{37.858701123156955,-122.24410435433313,Berkeley,CA,United States}	{Food,}
+1809	Fri Jul 02 00:18:25 +0000 2010	40b13b00f964a520b3f51ee3	{McMenamins Tavern & Pool}	{45.5348915,-122.698820114136,Portland,OR,United States}	{Nightlife Spot,Arts & Entertainment,}
+1809	Thu Jul 01 01:06:54 +0000 2010	42a63500f964a52003251fe3	{Kate O'Brien's}	{37.78716142736885,-122.39767849445343,San Francisco,CA,United States}	{Nightlife Spot,}
+1809	Wed Jun 30 01:41:09 +0000 2010	4bd2177d046076b055357371	{AT&T Park}	{37.77833858778822,-122.38940119743347,San Francisco,CA,United States}	{Stadium,Arts & Entertainment,}
+1809	Tue Jun 29 15:18:52 +0000 2010	4b3d0530f964a520118c25e3	{Starbucks}	{37.800240679220785,-122.2738265227584,Oakland,CA,United States}	{Food,}
+1809	Mon Jun 28 17:18:50 +0000 2010	4a0f74f4f964a52069761fe3	{Union St Coffee Roastery}	{37.797149,-122.43539718333334,San Francisco,CA,United States}	{Food,}
+1809	Sun Jun 27 22:46:44 +0000 2010	49c6844bf964a52053571fe3	{The Claremont Hotel Club & Spa}	{37.858955655536846,-122.24212646484375,Berkeley,CA,United States}	{Travel & Transport,Hotel,}
+1809	Fri Jun 25 21:10:09 +0000 2010	4089ae00f964a520bef21ee3	{Jillian's}	{37.783689229353435,-122.40304827690125,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+1809	Fri Jun 25 04:08:26 +0000 2010	49c42f96f964a520a6561fe3	{Bloodhound}	{37.775921768505334,-122.40889549255371,San Francisco,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+1809	Wed Jun 23 19:46:42 +0000 2010	43a52546f964a520532c1fe3	{John F. Kennedy International Airport (JFK)}	{40.645089355976346,-73.7845230102539,Jamaica,NY,United States}	{Travel & Transport,}
+1809	Wed Jun 23 14:13:40 +0000 2010	4cb22b4b1168a0934b0e3923	{Tavern on 7}	{41.15755813565381,-73.42182807690199,Norwalk,CT,United States}	{Nightlife Spot,Food,}
+1809	Tue Jun 22 21:36:19 +0000 2010	4b4756c3f964a520422f26e3	{Starbucks}	{40.75708314082242,-73.97595226764679,New York,NY,United States}	{Food,}
+1809	Mon Jun 21 11:46:42 +0000 2010	43a52546f964a520532c1fe3	{John F. Kennedy International Airport (JFK)}	{40.645089355976346,-73.7845230102539,Jamaica,NY,United States}	{Travel & Transport,}
+1809	Tue Jun 15 04:50:14 +0000 2010	4a81b8bff964a5205bf71fe3	{Wieden + Kennedy}	{45.52472056448648,-122.68368244171143,Portland,OR,United States}	{Office,Professional & Other Places,}
+1809	Wed Jun 09 12:18:28 +0000 2010	4b07dc16f964a5208e0023e3	{Four Points by Sheraton}	{41.758836353839214,-87.74097790050855,Chicago,IL,United States}	{Travel & Transport,}
+1809	Wed Jun 09 03:12:32 +0000 2010	4ac7e2f3f964a52056ba20e3	{Gibsons Bar & Steakhouse}	{41.90157766493146,-87.62799176137517,Chicago,IL,United States}	{Nightlife Spot,Food,}
+1809	Tue Jun 08 19:18:10 +0000 2010	4a5d5ea5f964a5209bbd1fe3	{W Chicago - Lakeshore}	{41.89381886305944,-87.61530902000062,Chicago,IL,United States}	{Travel & Transport,Shop & Service,Gym / Fitness Center,}
+1809	Tue Jun 08 03:25:12 +0000 2010	4a5d5ea5f964a5209bbd1fe3	{W Chicago - Lakeshore}	{41.89381886305944,-87.61530902000062,Chicago,IL,United States}	{Travel & Transport,Shop & Service,Gym / Fitness Center,}
+1809	Mon Jun 07 22:10:33 +0000 2010	4a5d5ea5f964a5209bbd1fe3	{W Chicago - Lakeshore}	{41.89381886305944,-87.61530902000062,Chicago,IL,United States}	{Travel & Transport,Shop & Service,Gym / Fitness Center,}
+1809	Mon Jun 07 01:29:41 +0000 2010	49c6844bf964a52053571fe3	{The Claremont Hotel Club & Spa}	{37.858955655536846,-122.24212646484375,Berkeley,CA,United States}	{Travel & Transport,Hotel,}
+1809	Mon Jun 07 01:09:27 +0000 2010	4a682b57f964a52059ca1fe3	{In-N-Out Burger}	{37.73983817038426,-122.19826698303223,Oakland,CA,United States}	{Food,}
+1809	Sat Jun 05 21:05:00 +0000 2010	4ab595e1f964a520877520e3	{Mission Dolores Park}	{37.76005771562691,-122.42678658144186,San Francisco,CA,United States}	{Outdoors & Recreation,}
+1809	Thu Jun 03 22:50:43 +0000 2010	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Mon May 31 20:51:04 +0000 2010	4bd2177d046076b055357371	{AT&T Park}	{37.77833858778822,-122.38940119743347,San Francisco,CA,United States}	{Stadium,Arts & Entertainment,}
+1809	Sun May 30 19:10:49 +0000 2010	49c6844bf964a52053571fe3	{The Claremont Hotel Club & Spa}	{37.858955655536846,-122.24212646484375,Berkeley,CA,United States}	{Travel & Transport,Hotel,}
+1809	Wed May 26 16:14:58 +0000 2010	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Tue May 25 21:22:30 +0000 2010	4b54df8ff964a520c7d027e3	{Ted's Market & Deli}	{37.77274306004753,-122.41625102421008,San Francisco,CA,United States}	{Food,}
+1809	Tue May 25 00:05:53 +0000 2010	43c3ad7ef964a520542d1fe3	{Sushi Ran}	{37.858815,-122.4859201,Sausalito,CA,United States}	{Food,}
+1809	Sun May 23 15:48:21 +0000 2010	4b00b30ff964a520a64022e3	{Starbucks}	{37.834154,-122.250359,Oakland,CA,United States}	{Food,}
+1809	Sun May 23 00:49:27 +0000 2010	4b284a2af964a520159224e3	{Viva! Taqueria}	{37.85882,-122.2449803352356,Berkeley,CA,United States}	{Food,}
+1809	Fri May 21 17:41:00 +0000 2010	4af03937f964a520d0da21e3	{Starbucks}	{38.9961145,-77.02625,Silver Spring,MD,United States}	{Food,}
+1809	Fri May 21 13:40:38 +0000 2010	42911d00f964a520f5231fe3	{New York Penn Station}	{40.750794799423865,-73.99357639021292,New York,NY,United States}	{Travel & Transport,}
+1809	Fri May 21 13:15:31 +0000 2010	3fd66200f964a520a8e91ee3	{Friend of a Farmer}	{40.73679403608297,-73.98679974554109,New York,NY,United States}	{Food,}
+1809	Fri May 21 01:42:29 +0000 2010	447bf8f1f964a520ec331fe3	{Apple Store}	{40.763822537332,-73.97301,New York,NY,United States}	{Shop & Service,}
+1809	Thu May 20 23:52:58 +0000 2010	438d6b12f964a520322b1fe3	{W New York - Times Square}	{40.75925299429778,-73.98515224456787,New York,NY,United States}	{Travel & Transport,}
+1809	Thu May 20 16:58:22 +0000 2010	438d6b12f964a520322b1fe3	{W New York - Times Square}	{40.75925299429778,-73.98515224456787,New York,NY,United States}	{Travel & Transport,}
+1809	Thu May 20 14:25:31 +0000 2010	4a3953aff964a5205a9f1fe3	{PHD Media}	{40.75010772261496,-73.97333510004495,New York,NY,United States}	{Office,Professional & Other Places,}
+1809	Thu May 20 01:37:50 +0000 2010	40f47780f964a5208e0a1fe3	{Company Bar & Grill}	{40.728921,-73.984698,New York,NY,United States}	{Nightlife Spot,}
+1809	Wed May 19 23:59:05 +0000 2010	4731be8af964a520244c1fe3	{Momofuku Noodle Bar}	{40.729110403548944,-73.9842454555664,New York,NY,United States}	{Food,}
+1809	Tue May 18 15:31:26 +0000 2010	49c6f462f964a52091571fe3	{Beach School Playground}	{37.82315872530029,-122.24635900964272,Piedmont,CA,United States}	{Outdoors & Recreation,}
+1809	Sat May 15 02:10:52 +0000 2010	49b41d95f964a520e7521fe3	{Waterbar}	{37.79060429269959,-122.38908598334135,San Francisco,CA,United States}	{Food,}
+1809	Sat May 15 01:40:27 +0000 2010	42a63500f964a52003251fe3	{Kate O'Brien's}	{37.78716142736885,-122.39767849445343,San Francisco,CA,United States}	{Nightlife Spot,}
+1809	Fri May 14 16:28:04 +0000 2010	4a8b7829f964a520890c20e3	{Buttercup Grill - Oakland Cotton}	{37.77993703713042,-122.23897755146027,Oakland,CA,United States}	{Food,}
+1809	Fri May 14 04:15:51 +0000 2010	49c42f96f964a520a6561fe3	{Bloodhound}	{37.775921768505334,-122.40889549255371,San Francisco,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+1809	Fri May 14 02:26:51 +0000 2010	4becb4666b88c9b690688762	{San Francisco Gravel Company}	{37.770291,-122.401106,San Francisco,CA,United States}	{Professional & Other Places,}
+1809	Thu May 13 14:46:24 +0000 2010	49c6844bf964a52053571fe3	{The Claremont Hotel Club & Spa}	{37.858955655536846,-122.24212646484375,Berkeley,CA,United States}	{Travel & Transport,Hotel,}
+1809	Tue May 11 19:46:44 +0000 2010	4a44417af964a52062a71fe3	{Basil Canteen}	{37.771822746139456,-122.41385064967962,San Francisco,CA,United States}	{Food,}
+1809	Tue May 11 15:14:29 +0000 2010	4afb0a4df964a5208c1a22e3	{Peet's Coffee & Tea}	{37.858701123156955,-122.24410435433313,Berkeley,CA,United States}	{Food,}
+1809	Tue May 11 13:15:06 +0000 2010	49c6844bf964a52053571fe3	{The Claremont Hotel Club & Spa}	{37.858955655536846,-122.24212646484375,Berkeley,CA,United States}	{Travel & Transport,Hotel,}
+1809	Tue May 11 00:42:57 +0000 2010	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Mon May 10 19:26:41 +0000 2010	3fd66200f964a52019ed1ee3	{LuLu}	{37.781806,-122.401752,San Francisco,CA,United States}	{Food,}
+1809	Mon May 10 16:14:03 +0000 2010	4a5b5f9af964a5200bbb1fe3	{Starbucks}	{37.77844326422595,-122.41520017575083,San Francisco,CA,United States}	{Food,}
+1809	Mon May 10 00:36:15 +0000 2010	4afb0a4df964a5208c1a22e3	{Peet's Coffee & Tea}	{37.858701123156955,-122.24410435433313,Berkeley,CA,United States}	{Food,}
+1809	Sun May 09 20:19:04 +0000 2010	4a34549df964a520139c1fe3	{Sushi House}	{37.754811522163905,-122.25073099136353,Alameda,CA,United States}	{Food,}
+1809	Sat May 08 23:20:55 +0000 2010	49c6844bf964a52053571fe3	{The Claremont Hotel Club & Spa}	{37.858955655536846,-122.24212646484375,Berkeley,CA,United States}	{Travel & Transport,Hotel,}
+1809	Fri May 07 22:38:14 +0000 2010	45603082f964a520973d1fe3	{Americano Restaurant & Bar}	{37.793793320327836,-122.39285333218187,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+1809	Thu May 06 14:35:29 +0000 2010	49c6844bf964a52053571fe3	{The Claremont Hotel Club & Spa}	{37.858955655536846,-122.24212646484375,Berkeley,CA,United States}	{Travel & Transport,Hotel,}
+1809	Thu May 06 14:35:29 +0000 2010	49c6844bf964a52053571fe3	{The Claremont Hotel Club & Spa}	{37.858955655536846,-122.24212646484375,Berkeley,CA,United States}	{Travel & Transport,Hotel,}
+1809	Thu May 06 00:52:17 +0000 2010	4bca9451937ca593d746a892	{Yerba Buena Island Tunnel}	{37.809224513734,-122.36602306365967,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1809	Wed May 05 15:36:46 +0000 2010	4aabd315f964a520435a20e3	{Bread Garden Bakery}	{37.85875570885249,-122.24403787728681,Berkeley,CA,United States}	{Food,}
+1809	Wed May 05 15:36:46 +0000 2010	4aabd315f964a520435a20e3	{Bread Garden Bakery}	{37.85875570885249,-122.24403787728681,Berkeley,CA,United States}	{Food,}
+1809	Wed May 05 15:36:36 +0000 2010	4afb0a4df964a5208c1a22e3	{Peet's Coffee & Tea}	{37.858701123156955,-122.24410435433313,Berkeley,CA,United States}	{Food,}
+1809	Wed May 05 15:36:36 +0000 2010	4afb0a4df964a5208c1a22e3	{Peet's Coffee & Tea}	{37.858701123156955,-122.24410435433313,Berkeley,CA,United States}	{Food,}
+1809	Mon May 03 19:31:20 +0000 2010	4a9f30d3f964a520de3c20e3	{Le Central Bistro}	{37.7906028,-122.40516185760498,San Francisco,CA,United States}	{Food,}
+1809	Sun May 02 22:22:49 +0000 2010	49c6844bf964a52053571fe3	{The Claremont Hotel Club & Spa}	{37.858955655536846,-122.24212646484375,Berkeley,CA,United States}	{Travel & Transport,Hotel,}
+1809	Sun May 02 18:25:49 +0000 2010	4aabd315f964a520435a20e3	{Bread Garden Bakery}	{37.85875570885249,-122.24403787728681,Berkeley,CA,United States}	{Food,}
+1809	Sun May 02 17:38:16 +0000 2010	45bcbb04f964a52004421fe3	{Crepevine}	{37.843503529046615,-122.25155711174011,Oakland,CA,United States}	{Food,}
+1809	Wed Apr 28 16:15:29 +0000 2010	49c42510f964a5209d561fe3	{Starbucks}	{37.77665106264782,-122.39327430725098,San Francisco,CA,United States}	{Food,}
+1809	Sun Apr 25 20:34:16 +0000 2010	4bd2177d046076b055357371	{AT&T Park}	{37.77833858778822,-122.38940119743347,San Francisco,CA,United States}	{Stadium,Arts & Entertainment,}
+1809	Sat Apr 24 01:55:18 +0000 2010	4a71e4cff964a520ccd91fe3	{San Francisco-Oakland Bay Bridge}	{37.81534420993673,-122.35495090484619,San Francisco,CA,United States}	{Outdoors & Recreation,}
+1809	Sat Apr 24 00:22:29 +0000 2010	49b41d95f964a520e7521fe3	{Waterbar}	{37.79060429269959,-122.38908598334135,San Francisco,CA,United States}	{Food,}
+1809	Fri Apr 23 14:21:50 +0000 2010	4a71e4cff964a520ccd91fe3	{San Francisco-Oakland Bay Bridge}	{37.81534420993673,-122.35495090484619,San Francisco,CA,United States}	{Outdoors & Recreation,}
+1809	Thu Apr 22 02:47:11 +0000 2010	49c42f96f964a520a6561fe3	{Bloodhound}	{37.775921768505334,-122.40889549255371,San Francisco,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+1809	Wed Apr 21 04:47:31 +0000 2010	44e19caaf964a5201e371fe3	{Il Fornaio}	{37.447905775632584,-122.15883023433476,Palo Alto,CA,United States}	{Food,}
+1809	Tue Apr 20 02:48:27 +0000 2010	4a61284bf964a52004c21fe3	{BarrelHouse}	{37.787077875127046,-122.39729542198901,San Francisco,CA,United States}	{Arts & Entertainment,}
+1809	Mon Apr 19 16:01:30 +0000 2010	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Sat Apr 17 18:49:45 +0000 2010	4b652587f964a5203ee62ae3	{Pump It Up}	{37.77553167798752,-122.23925113677979,Oakland,CA,United States}	{Arts & Entertainment,}
+1809	Fri Apr 16 23:21:33 +0000 2010	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Fri Apr 16 17:30:27 +0000 2010	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Fri Apr 16 15:34:36 +0000 2010	4a580da6f964a5204eb71fe3	{Proto}	{37.777586,-122.411232,San Francisco,CA,United States}	{Shop & Service,}
+1809	Fri Apr 16 15:34:36 +0000 2010	4a580da6f964a5204eb71fe3	{Proto}	{37.777586,-122.411232,San Francisco,CA,United States}	{Shop & Service,}
+1809	Fri Apr 16 02:42:25 +0000 2010	44ec3e24f964a520cf371fe3	{? C?t?}	{37.84210155459334,-122.25139995855979,Oakland,CA,United States}	{Food,}
+1809	Fri Apr 16 01:34:29 +0000 2010	4b253793f964a520306e24e3	{DS HQ}	{37.827989,-122.239396,Piedmont,CA,United States}	{}
+1809	Fri Apr 16 01:34:29 +0000 2010	4b253793f964a520306e24e3	{DS HQ}	{37.827989,-122.239396,Piedmont,CA,United States}	{}
+1809	Fri Apr 16 01:34:00 +0000 2010	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Fri Apr 16 01:34:00 +0000 2010	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Thu Apr 15 06:49:50 +0000 2010	4a05c14ef964a5206e721fe3	{Kona Club}	{37.830420908758946,-122.24730312824249,Oakland,CA,United States}	{Nightlife Spot,}
+1809	Wed Apr 14 23:17:47 +0000 2010	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Wed Apr 14 02:44:51 +0000 2010	463c53f3f964a5202d461fe3	{Fentons Creamery & Restaurant}	{37.8279973189658,-122.250095307827,Oakland,CA,United States}	{Food,}
+1809	Tue Apr 13 21:11:08 +0000 2010	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Tue Apr 13 09:27:46 +0000 2010	4bb0af0af964a520b9543ce3	{VX 23 JFK To SFO}	{40.645426,-73.785309,,,United States}	{}
+1809	Tue Apr 13 01:01:47 +0000 2010	438d6b12f964a520322b1fe3	{W New York - Times Square}	{40.75925299429778,-73.98515224456787,New York,NY,United States}	{Travel & Transport,}
+1809	Mon Apr 12 23:48:21 +0000 2010	4bb36fda42959c74b2e7212c	{DKNY}	{40.75612822031462,-73.99104237556458,New York,NY,United States}	{Professional & Other Places,}
+1809	Mon Apr 12 22:57:42 +0000 2010	4ace0770f964a520f9cd20e3	{Blue Fin}	{40.759220487652186,-73.98510932922363,New York,NY,United States}	{Food,}
+1809	Mon Apr 12 16:03:43 +0000 2010	4ab136aef964a5208a6820e3	{Firstborn}	{40.759869,-73.991434,New York,NY,United States}	{Office,Professional & Other Places,}
+1809	Mon Apr 12 15:38:51 +0000 2010	4a3953aff964a5205a9f1fe3	{PHD Media}	{40.75010772261496,-73.97333510004495,New York,NY,United States}	{Office,Professional & Other Places,}
+1809	Sun Apr 11 14:43:55 +0000 2010	4a50f449f964a5204fb01fe3	{Sheraton New York Times Square Hotel}	{40.7625685886431,-73.9822769165039,New York,NY,United States}	{Travel & Transport,}
+1809	Sun Apr 11 12:24:38 +0000 2010	4ba7ea39f964a52050be39e3	{Re:vive}	{40.6457894439287,-73.77447009086609,Jamaica,NY,United States}	{Travel & Transport,Nightlife Spot,Airport,}
+1809	Sun Apr 11 06:20:16 +0000 2010	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+1809	Sat Apr 10 21:33:55 +0000 2010	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Fri Apr 09 23:53:59 +0000 2010	3fd66200f964a5206df11ee3	{Paragon Restaurant & Bar}	{37.780732049006275,-122.39034178126587,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+1809	Fri Apr 09 22:32:50 +0000 2010	4bd2177d046076b055357371	{AT&T Park}	{37.77833858778822,-122.38940119743347,San Francisco,CA,United States}	{Stadium,Arts & Entertainment,}
+1809	Fri Apr 09 20:40:28 +0000 2010	43728d80f964a520102a1fe3	{Tres}	{37.78021262835114,-122.39134311676025,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+1809	Fri Apr 09 16:35:29 +0000 2010	4a96fe3af964a520de2720e3	{Sage Lounge}	{37.771628,-122.416821,San Francisco,CA,United States}	{Food,}
+1809	Fri Apr 09 03:24:20 +0000 2010	4839ec98f964a52013501fe3	{Sushi Groove South}	{37.77171363,-122.414283,San Francisco,CA,United States}	{Food,}
+1809	Fri Apr 09 01:37:48 +0000 2010	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Thu Apr 08 03:41:27 +0000 2010	4884e11ff964a5203e511fe3	{Epic Roasthouse}	{37.790825611583784,-122.38936259209979,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+1809	Thu Apr 08 02:08:36 +0000 2010	49b41d95f964a520e7521fe3	{Waterbar}	{37.79060429269959,-122.38908598334135,San Francisco,CA,United States}	{Food,}
+1809	Wed Apr 07 22:25:13 +0000 2010	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Wed Apr 07 05:31:51 +0000 2010	463c53f3f964a5202d461fe3	{Fentons Creamery & Restaurant}	{37.8279973189658,-122.250095307827,Oakland,CA,United States}	{Food,}
+1809	Wed Apr 07 04:36:41 +0000 2010	4aa318c2f964a520514320e3	{Marzano}	{37.83935,-122.251215,Oakland,CA,United States}	{Nightlife Spot,Food,}
+1809	Wed Apr 07 01:00:28 +0000 2010	4b6c7db0f964a520633e2ce3	{BART: Transbay Tube}	{37.80639334694058,-122.3052978515625,Oakland,CA,United States}	{Travel & Transport,}
+1809	Tue Apr 06 20:34:33 +0000 2010	4bb755226edc76b0aa05321c	{Casa Beanito}	{33.7217753141931,-116.38987891477665,,CA,United States}	{Residence,}
+1809	Sun Apr 04 19:52:25 +0000 2010	4bb755226edc76b0aa05321c	{Casa Beanito}	{33.7217753141931,-116.38987891477665,,CA,United States}	{Residence,}
+1809	Sat Apr 03 20:15:10 +0000 2010	4b773956f964a52068892ee3	{Best Buy}	{33.72666915,-116.4042569,Palm Desert,CA,United States}	{Shop & Service,}
+1809	Fri Apr 02 02:16:18 +0000 2010	4a669f43f964a520c7c81fe3	{Sinbad's}	{37.794660648766964,-122.39194393157959,San Francisco,CA,United States}	{Food,}
+1809	Fri Apr 02 00:46:39 +0000 2010	40bd1880f964a520b3001fe3	{Red's Java House}	{37.78716566682713,-122.38748610019684,San Francisco,CA,United States}	{Food,}
+1809	Thu Apr 01 15:43:02 +0000 2010	468eec84f964a5208d481fe3	{MacArthur BART Station}	{37.82938707949219,-122.26697444915771,Oakland,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1809	Thu Apr 01 00:30:22 +0000 2010	4b889757f964a520f10232e3	{New Yorker Pizza & Restaurant}	{38.23314065498087,-122.63967275619507,Petaluma,CA,United States}	{Food,}
+1809	Wed Mar 31 04:04:15 +0000 2010	4a384bcff964a520df9e1fe3	{Mercury Lounge}	{37.770963,-122.414943,San Francisco,CA,United States}	{Nightlife Spot,}
+1809	Sun Mar 28 23:08:22 +0000 2010	4a32e0a7f964a520b29a1fe3	{Peet's Coffee & Tea}	{37.878512,-122.180968,Orinda,CA,United States}	{Food,}
+1809	Sun Mar 28 20:12:35 +0000 2010	4bafb5d4f964a520d7193ce3	{Hampton Field}	{37.81979360842727,-122.21838018888295,Piedmont,CA,United States}	{Outdoors & Recreation,}
+1809	Sun Mar 28 00:16:04 +0000 2010	4b943a2ef964a520dd6f34e3	{Wheels of Justice Cyclery}	{37.8269199,-122.20970392227173,Oakland,CA,United States}	{Shop & Service,}
+1809	Sat Mar 27 20:51:25 +0000 2010	49c6844bf964a52053571fe3	{The Claremont Hotel Club & Spa}	{37.858955655536846,-122.24212646484375,Berkeley,CA,United States}	{Travel & Transport,Hotel,}
+1809	Sat Mar 27 04:05:24 +0000 2010	40e4a580f964a520f5091fe3	{Great American Music Hall}	{37.784919196285855,-122.41892787488793,San Francisco,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+1809	Sat Mar 27 02:38:35 +0000 2010	40a2ba80f964a52006f31ee3	{Bender's Bar & Grill}	{37.760344,-122.417205,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+1809	Fri Mar 26 04:02:06 +0000 2010	4a05c14ef964a5206e721fe3	{Kona Club}	{37.830420908758946,-122.24730312824249,Oakland,CA,United States}	{Nightlife Spot,}
+1809	Fri Mar 26 01:23:56 +0000 2010	49f4d0e5f964a520586b1fe3	{Dopo}	{37.828787,-122.24945785,Oakland,CA,United States}	{Food,}
+1809	Thu Mar 25 01:44:36 +0000 2010	44d0de34f964a52029361fe3	{Manora's Thai Cuisine}	{37.77082080965625,-122.41501765889433,San Francisco,CA,United States}	{Food,}
+1809	Wed Mar 24 16:11:02 +0000 2010	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Tue Mar 23 17:26:38 +0000 2010	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Mon Mar 22 23:14:13 +0000 2010	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Mon Mar 22 22:02:32 +0000 2010	49ced10bf964a5208c5a1fe3	{Mike's Bikes of San Francisco}	{37.775861,-122.41216047,San Francisco,CA,United States}	{Shop & Service,}
+1809	Mon Mar 22 14:22:13 +0000 2010	4b6c7db0f964a520633e2ce3	{BART: Transbay Tube}	{37.80639334694058,-122.3052978515625,Oakland,CA,United States}	{Travel & Transport,}
+1809	Sun Mar 21 21:59:45 +0000 2010	4a71e4cff964a520ccd91fe3	{San Francisco-Oakland Bay Bridge}	{37.81534420993673,-122.35495090484619,San Francisco,CA,United States}	{Outdoors & Recreation,}
+1809	Sun Mar 21 19:58:58 +0000 2010	4b8f2689f964a5204b4b33e3	{SFFD Station 31}	{37.77974840942486,-122.4707092735215,San Francisco,CA,United States}	{Government Building,Professional & Other Places,}
+1809	Sat Mar 20 18:39:21 +0000 2010	4b132e1ef964a520319523e3	{Taqueria Las Comadres}	{37.8258800862096,-122.20949746041855,Oakland,CA,United States}	{Food,}
+1809	Fri Mar 19 16:17:17 +0000 2010	4a5b5f9af964a5200bbb1fe3	{Starbucks}	{37.77844326422595,-122.41520017575083,San Francisco,CA,United States}	{Food,}
+1809	Fri Mar 19 04:26:54 +0000 2010	40c3b000f964a520e7001fe3	{The Fillmore}	{37.78395985760533,-122.43303551986902,San Francisco,CA,United States}	{Music Venue,Arts & Entertainment,}
+1809	Fri Mar 19 01:52:26 +0000 2010	4aff8b4af964a520663922e3	{Dosa}	{37.78533895584412,-122.4329138626742,San Francisco,CA,United States}	{Food,}
+1809	Wed Mar 17 20:01:58 +0000 2010	4a5a2b3bf964a520ceb91fe3	{Sports Authority}	{37.77009171275626,-122.41580303220512,San Francisco,CA,United States}	{Shop & Service,}
+1809	Wed Mar 17 01:57:06 +0000 2010	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Wed Mar 17 01:14:35 +0000 2010	4a384bcff964a520df9e1fe3	{Mercury Lounge}	{37.770963,-122.414943,San Francisco,CA,United States}	{Nightlife Spot,}
+1809	Tue Mar 16 15:10:22 +0000 2010	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Sun Mar 14 21:04:30 +0000 2010	49c6f462f964a52091571fe3	{Beach School Playground}	{37.82315872530029,-122.24635900964272,Piedmont,CA,United States}	{Outdoors & Recreation,}
+1809	Sun Mar 14 20:10:49 +0000 2010	4b943a2ef964a520dd6f34e3	{Wheels of Justice Cyclery}	{37.8269199,-122.20970392227173,Oakland,CA,United States}	{Shop & Service,}
+1809	Sun Mar 14 07:06:52 +0000 2010	4a580da6f964a5204eb71fe3	{Proto}	{37.777586,-122.411232,San Francisco,CA,United States}	{Shop & Service,}
+1809	Sun Mar 14 07:06:51 +0000 2010	4a580da6f964a5204eb71fe3	{Proto}	{37.777586,-122.411232,San Francisco,CA,United States}	{Shop & Service,}
+1809	Fri Mar 12 14:28:42 +0000 2010	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Tue Mar 09 17:02:31 +0000 2010	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Mon Mar 08 07:44:53 +0000 2010	4b94aaeef964a520118034e3	{The Hurt Locker}	{37.827996,-122.239354,Piedmont,CA,United States}	{}
+1809	Sun Mar 07 20:12:31 +0000 2010	4afb0a4df964a5208c1a22e3	{Peet's Coffee & Tea}	{37.858701123156955,-122.24410435433313,Berkeley,CA,United States}	{Food,}
+1809	Sun Mar 07 04:50:22 +0000 2010	4b353382f964a5202e2b25e3	{Dracena Park}	{37.82668299818557,-122.23915505,Piedmont,CA,United States}	{Outdoors & Recreation,}
+1809	Sun Mar 07 02:15:40 +0000 2010	4a7b71d8f964a5200eeb1fe3	{Bar C?sar}	{37.82613456931768,-122.25298974689706,Oakland,CA,United States}	{Food,}
+1809	Fri Mar 05 23:55:59 +0000 2010	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Fri Mar 05 01:26:03 +0000 2010	4a198a3ef964a520237a1fe3	{Chicago Midway International Airport (MDW)}	{41.78790499530704,-87.74070024490356,Chicago,IL,United States}	{Travel & Transport,}
+1809	Thu Mar 04 22:10:04 +0000 2010	4b6061e2f964a520e0e229e3	{Wrigley River North}	{41.89738624917809,-87.64308498696259,Chicago,IL,United States}	{Shop & Service,Professional & Other Places,}
+1809	Thu Mar 04 14:55:10 +0000 2010	4a5d5ea5f964a5209bbd1fe3	{W Chicago - Lakeshore}	{41.89381886305944,-87.61530902000062,Chicago,IL,United States}	{Travel & Transport,Shop & Service,Gym / Fitness Center,}
+1809	Wed Mar 03 22:02:40 +0000 2010	4a5d5ea5f964a5209bbd1fe3	{W Chicago - Lakeshore}	{41.89381886305944,-87.61530902000062,Chicago,IL,United States}	{Travel & Transport,Shop & Service,Gym / Fitness Center,}
+1809	Wed Mar 03 21:24:32 +0000 2010	4a198a3ef964a520237a1fe3	{Chicago Midway International Airport (MDW)}	{41.78790499530704,-87.74070024490356,Chicago,IL,United States}	{Travel & Transport,}
+1809	Wed Mar 03 18:46:01 +0000 2010	4ace6c89f964a52078d020e3	{LaGuardia Airport (LGA)}	{40.773839,-73.87122,East Elmhurst,NY,United States}	{Travel & Transport,}
+1809	Tue Mar 02 23:26:39 +0000 2010	4821cbb7f964a5208c4f1fe3	{Emmett O'Lunney's Irish Pub}	{40.761653,-73.984462,New York,NY,United States}	{Nightlife Spot,}
+1809	Tue Mar 02 19:15:15 +0000 2010	4ab136aef964a5208a6820e3	{Firstborn}	{40.759869,-73.991434,New York,NY,United States}	{Office,Professional & Other Places,}
+1809	Tue Mar 02 14:34:30 +0000 2010	4a5d022ef964a5200bbd1fe3	{Vanderbilt Suites}	{40.75362450304634,-73.9775248416076,New York,NY,United States}	{Professional & Other Places,}
+1809	Mon Mar 01 21:50:30 +0000 2010	4a50f449f964a5204fb01fe3	{Sheraton New York Times Square Hotel}	{40.7625685886431,-73.9822769165039,New York,NY,United States}	{Travel & Transport,}
+1809	Sun Feb 28 22:02:43 +0000 2010	4a93ee71f964a520032020e3	{Peet's Coffee & Tea}	{37.90649225818463,-122.54806535335425,Mill Valley,CA,United States}	{Food,}
+1809	Sun Feb 28 19:03:44 +0000 2010	4b311fedf964a520ac0025e3	{Bovine Bakery}	{38.068399,-122.806385,Point Reyes Station,CA,United States}	{Food,}
+1809	Sun Feb 28 16:24:23 +0000 2010	4ac79860f964a52053b820e3	{La Coppa Coffee Roasters}	{37.90603995973844,-122.54833601794812,Mill Valley,CA,United States}	{Food,}
+1809	Sun Feb 28 03:01:46 +0000 2010	4b1c4e34f964a520c90524e3	{Boot & Shoe Service}	{37.81285866282477,-122.24683541720094,Oakland,CA,United States}	{Nightlife Spot,Food,}
+1809	Fri Feb 26 22:16:50 +0000 2010	43d81d42f964a520602e1fe3	{Big Nate's Barbeque}	{37.77002513408661,-122.415386,San Francisco,CA,United States}	{Food,}
+1809	Fri Feb 26 17:01:10 +0000 2010	4b6c7db0f964a520633e2ce3	{BART: Transbay Tube}	{37.80639334694058,-122.3052978515625,Oakland,CA,United States}	{Travel & Transport,}
+1809	Fri Feb 26 01:50:24 +0000 2010	4a71e4cff964a520ccd91fe3	{San Francisco-Oakland Bay Bridge}	{37.81534420993673,-122.35495090484619,San Francisco,CA,United States}	{Outdoors & Recreation,}
+1809	Wed Feb 24 20:10:57 +0000 2010	4a579f7cf964a5207bb61fe3	{Taqueria Cazadores}	{37.77265,-122.418791,San Francisco,CA,United States}	{Food,}
+1809	Wed Feb 24 02:34:20 +0000 2010	4a4d0faaf964a52080ad1fe3	{Town Hall Restaurant}	{37.7895960330791,-122.39506057085072,San Francisco,CA,United States}	{Food,}
+1809	Tue Feb 23 22:32:56 +0000 2010	4a96fe3af964a520de2720e3	{Sage Lounge}	{37.771628,-122.416821,San Francisco,CA,United States}	{Food,}
+1809	Tue Feb 23 20:37:25 +0000 2010	4a96fe3af964a520de2720e3	{Sage Lounge}	{37.771628,-122.416821,San Francisco,CA,United States}	{Food,}
+1809	Mon Feb 22 23:17:42 +0000 2010	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Mon Feb 22 02:08:30 +0000 2010	4645b988f964a5207d461fe3	{Baja Taqueria}	{37.82618962779191,-122.2524358163678,Oakland,CA,United States}	{Food,}
+1809	Sun Feb 21 22:02:44 +0000 2010	4a32e0a7f964a520b29a1fe3	{Peet's Coffee & Tea}	{37.878512,-122.180968,Orinda,CA,United States}	{Food,}
+1809	Sun Feb 21 03:34:37 +0000 2010	4a5a86b7f964a52080ba1fe3	{Lo Coco's}	{37.828487,-122.2495025396347,Oakland,CA,United States}	{Food,}
+1809	Sat Feb 20 23:30:35 +0000 2010	4a9ad3b6f964a520003320e3	{Montano Velo Bicycles}	{37.828337516666664,-122.249661,Oakland,CA,United States}	{Shop & Service,}
+1809	Sat Feb 20 22:58:31 +0000 2010	4aabd315f964a520435a20e3	{Bread Garden Bakery}	{37.85875570885249,-122.24403787728681,Berkeley,CA,United States}	{Food,}
+1809	Sat Feb 20 22:53:34 +0000 2010	4afb0a4df964a5208c1a22e3	{Peet's Coffee & Tea}	{37.858701123156955,-122.24410435433313,Berkeley,CA,United States}	{Food,}
+1809	Sat Feb 20 16:06:06 +0000 2010	4b353382f964a5202e2b25e3	{Dracena Park}	{37.82668299818557,-122.23915505,Piedmont,CA,United States}	{Outdoors & Recreation,}
+1809	Sat Feb 20 16:06:06 +0000 2010	4b353382f964a5202e2b25e3	{Dracena Park}	{37.82668299818557,-122.23915505,Piedmont,CA,United States}	{Outdoors & Recreation,}
+1809	Sat Feb 20 02:00:48 +0000 2010	40a2ba80f964a52004f31ee3	{Wish Bar & Lounge}	{37.771333,-122.414319,San Francisco,CA,United States}	{Nightlife Spot,}
+1809	Fri Feb 19 02:08:20 +0000 2010	463c53f3f964a5202d461fe3	{Fentons Creamery & Restaurant}	{37.8279973189658,-122.250095307827,Oakland,CA,United States}	{Food,}
+1809	Fri Feb 19 01:27:32 +0000 2010	45a163a4f964a520e2401fe3	{Cactus Taqueria}	{37.84403,-122.25160969,Oakland,CA,United States}	{Food,}
+1809	Thu Feb 18 18:50:56 +0000 2010	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Thu Feb 18 02:23:32 +0000 2010	49b41d95f964a520e7521fe3	{Waterbar}	{37.79060429269959,-122.38908598334135,San Francisco,CA,United States}	{Food,}
+1809	Wed Feb 17 21:34:49 +0000 2010	40e0b100f964a520e1091fe3	{Blowfish Sushi to Die For}	{37.75963095,-122.410067,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+1809	Wed Feb 17 20:03:29 +0000 2010	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Tue Feb 16 20:28:11 +0000 2010	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Tue Feb 16 02:19:47 +0000 2010	4ad3636af964a52016e420e3	{Paragon Restaurant & Bar}	{37.85874,-122.242012,Berkeley,CA,United States}	{Nightlife Spot,Food,}
+1809	Mon Feb 15 19:00:13 +0000 2010	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Sun Feb 14 19:09:28 +0000 2010	4a5824e5f964a5206db71fe3	{AMC Loews Metreon 16}	{37.7844481241691,-122.40364372730255,San Francisco,CA,United States}	{Shop & Service,Arts & Entertainment,Movie Theater,}
+1809	Sun Feb 14 03:49:19 +0000 2010	40870b00f964a520aff21ee3	{Dalva}	{37.7647525336473,-122.42246187695144,San Francisco,CA,United States}	{Nightlife Spot,}
+1809	Sat Feb 13 07:20:42 +0000 2010	49d7967af964a520375d1fe3	{The Triple Crown}	{37.77228007,-122.422949,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+1809	Sat Feb 13 06:27:43 +0000 2010	3fd66200f964a5201df11ee3	{Make-Out Room}	{37.755311,-122.41941301,San Francisco,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+1809	Sat Feb 13 04:55:51 +0000 2010	4adb9dadf964a520672921e3	{Mission Control SF}	{37.75668382644653,-122.41866409778595,San Francisco,CA,United States}	{Nightlife Spot,}
+1809	Sat Feb 13 04:32:53 +0000 2010	42829c80f964a5205b221fe3	{Medjool}	{37.75663561564448,-122.41913803796149,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+1809	Fri Feb 12 14:22:42 +0000 2010	4a71e4cff964a520ccd91fe3	{San Francisco-Oakland Bay Bridge}	{37.81534420993673,-122.35495090484619,San Francisco,CA,United States}	{Outdoors & Recreation,}
+1809	Thu Feb 11 16:33:05 +0000 2010	4a71e4cff964a520ccd91fe3	{San Francisco-Oakland Bay Bridge}	{37.81534420993673,-122.35495090484619,San Francisco,CA,United States}	{Outdoors & Recreation,}
+1809	Thu Feb 11 02:22:58 +0000 2010	49b41d95f964a520e7521fe3	{Waterbar}	{37.79060429269959,-122.38908598334135,San Francisco,CA,United States}	{Food,}
+1809	Tue Feb 09 22:06:32 +0000 2010	49ff6869f964a52018701fe3	{Linden Lab}	{37.8004,-122.401653,San Francisco,CA,United States}	{Office,Professional & Other Places,}
+1809	Sat Feb 06 03:13:12 +0000 2010	4b03737bf964a520784f22e3	{Grace Restaurant}	{34.076074,-118.350369,Los Angeles,CA,United States}	{Food,}
+1809	Fri Feb 05 18:18:20 +0000 2010	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1809	Wed Feb 03 22:37:09 +0000 2010	43d3c4d0f964a520252e1fe3	{Virgin Atlantic Clubhouse Lounge}	{40.643262241796414,-73.77955006100726,Queens,NY,United States}	{Travel & Transport,Airport,}
+1809	Wed Feb 03 19:18:13 +0000 2010	4a3953aff964a5205a9f1fe3	{PHD Media}	{40.75010772261496,-73.97333510004495,New York,NY,United States}	{Office,Professional & Other Places,}
+1809	Wed Feb 03 18:25:04 +0000 2010	3fd66200f964a520c1e71ee3	{The Palm}	{40.76193686194642,-73.98542196927326,New York,NY,United States}	{Food,}
+1809	Tue Feb 02 23:25:10 +0000 2010	3fd66200f964a52095e61ee3	{Tribeca Tavern}	{40.71983296351316,-74.00556506012573,New York,NY,United States}	{Nightlife Spot,}
+1809	Tue Feb 02 18:30:16 +0000 2010	4ab136aef964a5208a6820e3	{Firstborn}	{40.759869,-73.991434,New York,NY,United States}	{Office,Professional & Other Places,}
+1809	Tue Feb 02 16:07:27 +0000 2010	3fd66200f964a52070e91ee3	{Balthazar Restaurant}	{40.72270549271865,-73.99819850921631,New York,NY,United States}	{Food,}
+1809	Tue Feb 02 14:14:08 +0000 2010	3fd66200f964a520e1e61ee3	{The Grey Dog}	{40.730136,-74.003065,New York,NY,United States}	{Food,}
+1809	Tue Feb 02 01:49:42 +0000 2010	44e9b357f964a520a4371fe3	{Giorgione}	{40.72586404777099,-74.00854330319025,New York,NY,United States}	{Food,}
+1809	Mon Feb 01 20:33:47 +0000 2010	4ab136aef964a5208a6820e3	{Firstborn}	{40.759869,-73.991434,New York,NY,United States}	{Office,Professional & Other Places,}
+1809	Mon Feb 01 12:51:21 +0000 2010	43a52546f964a520532c1fe3	{John F. Kennedy International Airport (JFK)}	{40.645089355976346,-73.7845230102539,Jamaica,NY,United States}	{Travel & Transport,}
+1809	Sun Jan 31 04:33:49 +0000 2010	4a05c14ef964a5206e721fe3	{Kona Club}	{37.830420908758946,-122.24730312824249,Oakland,CA,United States}	{Nightlife Spot,}
+1809	Sun Jan 31 04:33:49 +0000 2010	4a05c14ef964a5206e721fe3	{Kona Club}	{37.830420908758946,-122.24730312824249,Oakland,CA,United States}	{Nightlife Spot,}
+1809	Sun Jan 31 02:36:03 +0000 2010	4aa318c2f964a520514320e3	{Marzano}	{37.83935,-122.251215,Oakland,CA,United States}	{Nightlife Spot,Food,}
+1809	Sun Jan 31 01:44:07 +0000 2010	49c6844bf964a52053571fe3	{The Claremont Hotel Club & Spa}	{37.858955655536846,-122.24212646484375,Berkeley,CA,United States}	{Travel & Transport,Hotel,}
+1809	Sat Jan 30 16:47:26 +0000 2010	4a93ee71f964a520032020e3	{Peet's Coffee & Tea}	{37.90649225818463,-122.54806535335425,Mill Valley,CA,United States}	{Food,}
+1809	Thu Jan 28 00:18:26 +0000 2010	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Tue Jan 26 20:54:58 +0000 2010	4a860c4df964a520310020e3	{Barnes & Noble}	{41.9028920379844,-87.62858459707067,Chicago,IL,United States}	{Shop & Service,Food,}
+1809	Tue Jan 26 19:10:01 +0000 2010	4ac7e2f3f964a52056ba20e3	{Gibsons Bar & Steakhouse}	{41.90157766493146,-87.62799176137517,Chicago,IL,United States}	{Nightlife Spot,Food,}
+1809	Mon Jan 25 18:55:47 +0000 2010	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Sat Jan 23 22:30:57 +0000 2010	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Thu Jan 21 01:29:34 +0000 2010	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Wed Jan 20 16:35:17 +0000 2010	49c6f462f964a52091571fe3	{Beach School Playground}	{37.82315872530029,-122.24635900964272,Piedmont,CA,United States}	{Outdoors & Recreation,}
+1809	Wed Jan 20 01:16:57 +0000 2010	49b41d95f964a520e7521fe3	{Waterbar}	{37.79060429269959,-122.38908598334135,San Francisco,CA,United States}	{Food,}
+1809	Sun Jan 17 22:53:04 +0000 2010	480b6670f964a5201c4f1fe3	{St. George Spirits}	{37.787590842344954,-122.30975234656009,Alameda,CA,United States}	{Nightlife Spot,Food,Professional & Other Places,}
+1809	Sun Jan 17 03:28:05 +0000 2010	4a05c14ef964a5206e721fe3	{Kona Club}	{37.830420908758946,-122.24730312824249,Oakland,CA,United States}	{Nightlife Spot,}
+1809	Sat Jan 16 02:23:25 +0000 2010	4a669f43f964a520c7c81fe3	{Sinbad's}	{37.794660648766964,-122.39194393157959,San Francisco,CA,United States}	{Food,}
+1809	Fri Jan 15 03:21:12 +0000 2010	4b6c7db0f964a520633e2ce3	{BART: Transbay Tube}	{37.80639334694058,-122.3052978515625,Oakland,CA,United States}	{Travel & Transport,}
+1809	Thu Jan 14 02:13:00 +0000 2010	4a384bcff964a520df9e1fe3	{Mercury Lounge}	{37.770963,-122.414943,San Francisco,CA,United States}	{Nightlife Spot,}
+1809	Wed Jan 13 21:26:42 +0000 2010	43eca4fdf964a520452f1fe3	{Zaoh}	{37.773435,-122.41833136,San Francisco,CA,United States}	{Food,}
+1809	Wed Jan 13 21:21:31 +0000 2010	43eca4fdf964a520452f1fe3	{Zaoh}	{37.773435,-122.41833136,San Francisco,CA,United States}	{Food,}
+1809	Wed Jan 13 21:21:30 +0000 2010	43eca4fdf964a520452f1fe3	{Zaoh}	{37.773435,-122.41833136,San Francisco,CA,United States}	{Food,}
+1809	Wed Jan 13 18:26:10 +0000 2010	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Wed Jan 13 16:14:59 +0000 2010	4fb67355a17c7f02fb79151b	{San Francisco Bay Ferry - Jack London Square Terminal}	{37.795017,-122.279763,Oakland,CA,United States}	{Travel & Transport,}
+1809	Mon Jan 11 17:23:28 +0000 2010	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Sat Jan 09 21:37:26 +0000 2010	4b48f6ebf964a520c15f26e3	{Castro Village Bowl}	{37.69677384211926,-122.07578002698484,Castro Valley,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+1809	Sat Jan 09 04:54:11 +0000 2010	40a2ba80f964a52004f31ee3	{Wish Bar & Lounge}	{37.771333,-122.414319,San Francisco,CA,United States}	{Nightlife Spot,}
+1809	Sat Jan 09 02:25:18 +0000 2010	4839ec98f964a52013501fe3	{Sushi Groove South}	{37.77171363,-122.414283,San Francisco,CA,United States}	{Food,}
+1809	Fri Jan 08 20:18:55 +0000 2010	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Fri Jan 08 17:44:28 +0000 2010	4a5b5f9af964a5200bbb1fe3	{Starbucks}	{37.77844326422595,-122.41520017575083,San Francisco,CA,United States}	{Food,}
+1809	Thu Jan 07 23:55:02 +0000 2010	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Tue Jan 05 23:10:44 +0000 2010	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Mon Jan 04 00:38:15 +0000 2010	4827b8b1f964a520bb4f1fe3	{Rainbow Grocery}	{37.769103368269896,-122.41523623466492,San Francisco,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1809	Sun Jan 03 19:28:30 +0000 2010	43fed5a9f964a52004301fe3	{In-N-Out Burger}	{37.89656642953388,-122.51554280519485,Mill Valley,CA,United States}	{Food,}
+1809	Sun Jan 03 01:57:33 +0000 2010	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Sat Jan 02 21:02:33 +0000 2010	435d7580f964a5201a291fe3	{Zuni Cafe}	{37.77364852834092,-122.42156041354832,San Francisco,CA,United States}	{Food,}
+1809	Sat Jan 02 02:03:40 +0000 2010	4a9af5ecf964a520cc3320e3	{Takara Sushi}	{37.847002,-122.252194,Oakland,CA,United States}	{Food,}
+1809	Thu Dec 31 23:18:47 +0000 2009	4a424d0ef964a520b7a51fe3	{Whole Foods Market}	{37.78109875315899,-122.39961504936218,San Francisco,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1809	Thu Dec 31 22:39:24 +0000 2009	49f099d3f964a52038691fe3	{Yerba Buena Ice Skating & Bowling Center}	{37.782928206894745,-122.40086495876312,San Francisco,CA,United States}	{Outdoors & Recreation,Food,Arts & Entertainment,Athletics & Sports,}
+1809	Tue Dec 29 23:42:29 +0000 2009	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Tue Dec 29 20:36:36 +0000 2009	43eca4fdf964a520452f1fe3	{Zaoh}	{37.773435,-122.41833136,San Francisco,CA,United States}	{Food,}
+1809	Tue Dec 29 01:34:57 +0000 2009	4a5d8e07f964a520adbd1fe3	{Alameda Theatre & Cineplex}	{37.76461560535736,-122.24366671301753,Alameda,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1809	Fri Dec 25 00:08:11 +0000 2009	4b253793f964a520306e24e3	{DS HQ}	{37.827989,-122.239396,Piedmont,CA,United States}	{}
+1809	Thu Dec 24 22:55:10 +0000 2009	4b3fff5df964a520efb325e3	{Mulberry's Market}	{37.82501560839243,-122.23277496033407,Oakland,CA,United States}	{Shop & Service,}
+1809	Wed Dec 23 20:20:11 +0000 2009	45a578cdf964a52000411fe3	{El Tonayense Taco Truck}	{37.76880225358186,-122.41328096748707,San Francisco,CA,United States}	{Food,}
+1809	Tue Dec 22 21:20:20 +0000 2009	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Tue Dec 22 02:43:10 +0000 2009	44d0de34f964a52029361fe3	{Manora's Thai Cuisine}	{37.77082080965625,-122.41501765889433,San Francisco,CA,United States}	{Food,}
+1809	Mon Dec 21 21:45:31 +0000 2009	49c5cf26f964a52025571fe3	{Evolution Bureau (EVB)}	{37.772015,-122.416957,San Francisco,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1809	Mon Dec 21 02:05:17 +0000 2009	4b253793f964a520306e24e3	{DS HQ}	{37.827989,-122.239396,Piedmont,CA,United States}	{}
+1809	Sun Dec 20 21:00:18 +0000 2009	4a93ee71f964a520032020e3	{Peet's Coffee & Tea}	{37.90649225818463,-122.54806535335425,Mill Valley,CA,United States}	{Food,}
+1809	Sat Dec 19 21:34:45 +0000 2009	4b253793f964a520306e24e3	{DS HQ}	{37.827989,-122.239396,Piedmont,CA,United States}	{}
+1809	Fri Dec 18 08:49:31 +0000 2009	4b253793f964a520306e24e3	{DS HQ}	{37.827989,-122.239396,Piedmont,CA,United States}	{}
+1809	Fri Dec 18 01:31:45 +0000 2009	4a198a3ef964a520237a1fe3	{Chicago Midway International Airport (MDW)}	{41.78790499530704,-87.74070024490356,Chicago,IL,United States}	{Travel & Transport,}
+1809	Thu Dec 17 02:57:11 +0000 2009	4a577e39f964a5203db61fe3	{Sheraton Chicago Hotel & Towers}	{41.889291603863505,-87.61956095695496,Chicago,IL,United States}	{Nightlife Spot,Travel & Transport,Convention Center,Professional & Other Places,}
+1809	Thu Dec 17 00:32:57 +0000 2009	4283ee00f964a52096221fe3	{Hard Rock Hotel}	{41.88676962235482,-87.62484925906477,Chicago,IL,United States}	{Travel & Transport,Hotel,}
+1809	Wed Dec 16 18:36:25 +0000 2009	4ae590c4f964a520eba021e3	{NBC Tower}	{41.88996712174782,-87.62159539460032,Chicago,IL,United States}	{Professional & Other Places,}
+1809	Wed Dec 16 04:24:26 +0000 2009	4a577e39f964a5203db61fe3	{Sheraton Chicago Hotel & Towers}	{41.889291603863505,-87.61956095695496,Chicago,IL,United States}	{Nightlife Spot,Travel & Transport,Convention Center,Professional & Other Places,}
+1809	Sun Dec 13 01:47:05 +0000 2009	4a3304acf964a520f19a1fe3	{Grand Lake Theater}	{37.81146648347445,-122.2477376461029,Oakland,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1809	Thu Dec 10 22:23:55 +0000 2009	3fd66200f964a52066f11ee3	{Maya Mexican Restaurant}	{37.784959,-122.396221,San Francisco,CA,United States}	{Food,}
+1809	Wed Dec 09 06:47:14 +0000 2009	468ef191f964a52093481fe3	{San Francisco Int'l Airport BART Station}	{37.61593963841623,-122.39242672920227,San Francisco,CA,United States}	{Travel & Transport,}
+1809	Tue Dec 08 20:33:19 +0000 2009	4a3953aff964a5205a9f1fe3	{PHD Media}	{40.75010772261496,-73.97333510004495,New York,NY,United States}	{Office,Professional & Other Places,}
+1809	Tue Dec 08 13:25:43 +0000 2009	4afe312ef964a520a22e22e3	{Das Haus der Zurueckgebliebenden Huenden}	{40.72026,-74.008573,New York,NY,United States}	{}
+1809	Tue Dec 08 13:25:41 +0000 2009	4afe312ef964a520a22e22e3	{Das Haus der Zurueckgebliebenden Huenden}	{40.72026,-74.008573,New York,NY,United States}	{}

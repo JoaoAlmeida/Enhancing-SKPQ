@@ -1,0 +1,4 @@
+#categoryName experimentName dataset neighborhood plusMode queryType numQueries numKeywords numResults radius item value min max observations
+PSKPQLondon Pareto-LD close range 5 0.2 nodesAccessed 0.0 - 9223372036854775807 0 0
+PSKPQLondon Pareto-LD close range 5 0.2 pageFaults 0.0 - 9223372036854775807 0 0
+PSKPQLondon Pareto-LD close range 5 0.2 totalExecutionTime 536.0 - 536 536 1

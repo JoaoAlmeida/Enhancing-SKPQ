@@ -1,0 +1,420 @@
+3552	Tue Aug 02 01:02:03 +0000 2011	4c31069ba0ced13a690c136e	{Mehak Halal - Pakistani & Indian Cuisine}	{42.36718463,-71.03601048,East Boston,MA,United States}	{Food,}
+3552	Sun Jul 31 02:19:04 +0000 2011	4bba91717421a5931300c440	{Chappaquiddick Ferry}	{41.38916377499976,-70.5098612822984,Edgartown,MA,United States}	{Travel & Transport,}
+3552	Sat Jul 30 19:09:28 +0000 2011	4bb508011344b71398bc9b04	{Edgartown Lighthouse}	{41.39086958804659,-70.50309509038925,Edgartown,MA,United States}	{Outdoors & Recreation,}
+3552	Sat Jul 30 19:04:57 +0000 2011	4bb508011344b71398bc9b04	{Edgartown Lighthouse}	{41.39086958804659,-70.50309509038925,Edgartown,MA,United States}	{Outdoors & Recreation,}
+3552	Sat Jul 30 17:29:42 +0000 2011	4a62230ef964a5202cc31fe3	{Among The Flowers Cafe}	{41.38959784162839,-70.51228433847427,Edgartown,MA,United States}	{Food,}
+3552	Sat Jul 30 00:03:16 +0000 2011	4bb7c3a098c7ef3bbf543002	{Atlantic Fish And Chop House}	{41.388935,-70.512162,Edgartown,MA,United States}	{Food,}
+3552	Thu Jul 28 21:59:22 +0000 2011	4c2bb5958abca5938a9b0020	{Mattakesett tennis club}	{41.36740057234027,-70.51398085910537,Dukes,MA,United States}	{}
+3552	Thu Jul 28 20:05:52 +0000 2011	4c02ec780d0e0f47ace0019a	{Jack Wills}	{41.389384,-70.513011,Edgartown,MA,United States}	{Shop & Service,}
+3552	Tue Jul 26 20:26:18 +0000 2011	4a65e635f964a520b0c71fe3	{Espresso Love}	{41.390603,-70.514511,Edgartown,MA,United States}	{Food,}
+3552	Mon Jul 25 19:36:24 +0000 2011	4bf48841706e20a18881a998	{The Seafood Shanty}	{41.389042450894515,-70.51088154315948,Edgartown,MA,United States}	{Food,}
+3552	Sun Jul 24 20:51:51 +0000 2011	4a8ede9df964a520f81220e3	{Steamship Authority - Woods Hole Terminal}	{41.52262786595496,-70.67007064819336,Woods Hole,MA,United States}	{Travel & Transport,}
+3552	Sun Jul 24 18:39:03 +0000 2011	4c65bc719cb82d7ffdb88ed2	{Peter Pan Bus to Woods Hole}	{42.36353426378016,-71.0210277131244,Boston,MA,United States}	{Travel & Transport,Bus Station,}
+3552	Sun Jul 24 16:05:35 +0000 2011	452113b6f964a520bc3a1fe3	{Boston Logan International Airport (BOS)}	{42.36650312404415,-71.01667642593384,Boston,MA,United States}	{Travel & Transport,}
+3552	Sun Jul 24 14:23:44 +0000 2011	4a3b08fdf964a52086a01fe3	{Baltimore / Washington International Thurgood Marshall Airport (BWI)}	{39.17931234542311,-76.66867017745972,Baltimore,MD,United States}	{Travel & Transport,}
+3552	Sun Jul 24 10:28:25 +0000 2011	4aac1b4ef964a520475c20e3	{San Antonio International Airport (SAT)}	{29.52611853089306,-98.4719181060791,San Antonio,TX,United States}	{Travel & Transport,}
+3552	Sun Jul 24 05:30:02 +0000 2011	4b52a8e5f964a5204c8527e3	{Barbarella}	{30.267111,-97.73668169975281,Austin,TX,United States}	{Nightlife Spot,}
+3552	Fri Jul 22 03:56:46 +0000 2011	42e2da00f964a5206b261fe3	{Barcelona}	{30.267496601049967,-97.7411159151453,Austin,TX,United States}	{Nightlife Spot,}
+3552	Fri Jul 15 05:53:40 +0000 2011	42e2da00f964a5206b261fe3	{Barcelona}	{30.267496601049967,-97.7411159151453,Austin,TX,United States}	{Nightlife Spot,}
+3552	Thu Jul 14 04:59:17 +0000 2011	48261dbef964a5209f4f1fe3	{Barfly's}	{30.31673972343371,-97.71425270583143,Austin,TX,United States}	{Nightlife Spot,}
+3552	Tue Jul 12 05:28:11 +0000 2011	4be5c4142457a59394f8ab15	{Oakwood Cemetery}	{30.27644063526819,-97.72735685212372,,TX,United States}	{Outdoors & Recreation,}
+3552	Tue Jul 12 04:53:48 +0000 2011	49bd2c3af964a52052541fe3	{Texas State Capitol}	{30.274189936110623,-97.74046897888184,Austin,TX,United States}	{Government Building,Arts & Entertainment,Professional & Other Places,}
+3552	Sat Jul 09 00:52:15 +0000 2011	43d1d4e9f964a520072e1fe3	{Home Slice Pizza}	{30.249132056056872,-97.7496357879637,Austin,TX,United States}	{Food,}
+3552	Fri Jul 08 21:56:52 +0000 2011	4adbaa09f964a520e02921e3	{The Brixton}	{30.263593,-97.727621,Austin,TX,United States}	{Nightlife Spot,}
+3552	Fri Jul 08 02:11:21 +0000 2011	4cdee0e3ffcf3704e0b91582	{Pinballz Arcade}	{30.37020728650863,-97.72141168994696,Austin,TX,United States}	{Arts & Entertainment,}
+3552	Sun Jul 03 06:32:16 +0000 2011	4e0bc8282271c698c7338245	{Naan Sense}	{30.267162322998047,-97.73706793785095,Austin,TX,United States}	{Food,}
+3552	Sat Jul 02 06:02:03 +0000 2011	40b3de00f964a52047001fe3	{Emo's (WE MOVED!)}	{30.266808465283603,-97.73684546619462,Austin,TX,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+3552	Sat Jul 02 03:54:57 +0000 2011	4ba41714f964a5205d8038e3	{The Beast House}	{30.270536770919517,-97.73623840688633,Austin,TX,United States}	{Residence,}
+3552	Fri Jul 01 19:16:20 +0000 2011	4b22a1c0f964a5209f4a24e3	{The Coffee Bean & Tea Leaf}	{30.299833950290985,-97.72197246551514,Austin,TX,United States}	{Food,}
+3552	Fri Jul 01 02:54:53 +0000 2011	49e03d51f964a52048611fe3	{Shangri-La}	{30.265059,-97.73156045,Austin,TX,United States}	{Nightlife Spot,}
+3552	Fri Jul 01 02:05:24 +0000 2011	4d5f3bc3ef378cfa3d206da6	{Yellow Jacket Social Club}	{30.261555,-97.724761,Austin,TX,United States}	{Nightlife Spot,}
+3552	Tue Jun 28 01:03:20 +0000 2011	4b863c35f964a520788331e3	{Williams Grant Subdivision}	{29.472297456544602,-98.74261012398779,San Antonio,TX,United States}	{Residence,}
+3552	Sun Jun 26 19:07:32 +0000 2011	4a98d8c5f964a5204a2d20e3	{La Mexicana Bakery}	{30.24572657,-97.757152,Austin,TX,United States}	{Food,}
+3552	Fri Jun 24 06:35:45 +0000 2011	42e2da00f964a5206b261fe3	{Barcelona}	{30.267496601049967,-97.7411159151453,Austin,TX,United States}	{Nightlife Spot,}
+3552	Fri Jun 24 06:20:30 +0000 2011	441adcb1f964a5203c311fe3	{Beauty Bar}	{30.266891880799115,-97.73614558102156,Austin,TX,United States}	{Nightlife Spot,}
+3552	Fri Jun 24 06:06:35 +0000 2011	40b3de00f964a52047001fe3	{Emo's (WE MOVED!)}	{30.266808465283603,-97.73684546619462,Austin,TX,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+3552	Fri Jun 24 03:37:40 +0000 2011	4101a680f964a520640b1fe3	{The Elephant Room}	{30.265535421844756,-97.74358034133911,Austin,TX,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+3552	Tue Jun 14 19:23:13 +0000 2011	4ba41714f964a5205d8038e3	{The Beast House}	{30.270536770919517,-97.73623840688633,Austin,TX,United States}	{Residence,}
+3552	Tue Jun 14 19:23:13 +0000 2011	4ba41714f964a5205d8038e3	{The Beast House}	{30.270536770919517,-97.73623840688633,Austin,TX,United States}	{Residence,}
+3552	Sun Jun 12 03:58:08 +0000 2011	4d6adba72ea9b1f7d82cca28	{Big Trouble In Little Fatima}	{30.390260605041174,-97.64938584270895,Austin,TX,United States}	{Residence,}
+3552	Sun Jun 05 02:43:17 +0000 2011	40b13b00f964a52060f31ee3	{Austin Music Hall}	{30.266822423891966,-97.74969945216009,Austin,TX,United States}	{Arts & Entertainment,Professional & Other Places,}
+3552	Sat Jun 04 06:30:24 +0000 2011	4adc8e40f964a520332d21e3	{The Mix}	{29.44900713760143,-98.48804357446106,San Antonio,TX,United States}	{Nightlife Spot,}
+3552	Sat Jun 04 02:20:54 +0000 2011	4b57d346f964a520e24228e3	{AT&T Center}	{29.426927033500082,-98.43672752380371,San Antonio,TX,United States}	{Stadium,Arts & Entertainment,}
+3552	Thu Jun 02 04:14:17 +0000 2011	4bb55e11941ad13aab301ee3	{Havana Bar}	{29.431075966207047,-98.49020004272461,San Antonio,TX,United States}	{Nightlife Spot,}
+3552	Thu Jun 02 04:14:17 +0000 2011	4bb55e11941ad13aab301ee3	{Havana Bar}	{29.431075966207047,-98.49020004272461,San Antonio,TX,United States}	{Nightlife Spot,}
+3552	Wed Jun 01 21:43:53 +0000 2011	43bbd28ef964a520f12c1fe3	{Opal Divine's Penn Field}	{30.227834029898393,-97.76062071666666,Austin,TX,United States}	{Food,}
+3552	Wed Jun 01 20:42:10 +0000 2011	4ba41714f964a5205d8038e3	{The Beast House}	{30.270536770919517,-97.73623840688633,Austin,TX,United States}	{Residence,}
+3552	Sat May 21 02:30:42 +0000 2011	4d83def5f9f3a1cd4dfda964	{Esquire Tavern}	{29.42485212312419,-98.49169341532226,San Antonio,TX,United States}	{Food,}
+3552	Thu May 12 02:31:00 +0000 2011	4bb55e11941ad13aab301ee3	{Havana Bar}	{29.431075966207047,-98.49020004272461,San Antonio,TX,United States}	{Nightlife Spot,}
+3552	Thu May 12 01:55:37 +0000 2011	4c81ce8de602b1f7cfe3967a	{The Monterey}	{29.411768663296648,-98.48854200045206,San Antonio,TX,United States}	{Food,}
+3552	Sun May 08 04:17:52 +0000 2011	4dc618cae4cd169dc65ec528	{Boot Scootin'}	{29.58832465,-98.04054226,McQueeney,TX,United States}	{Nightlife Spot,}
+3552	Sun May 08 01:18:13 +0000 2011	45f2a42df964a520e3431fe3	{Guero's Taco Bar}	{30.249113839904933,-97.75016784667969,Austin,TX,United States}	{Food,}
+3552	Sat May 07 10:40:53 +0000 2011	4b9ae9abf964a52064e235e3	{Aloft Austin At The Domain}	{30.402565006671665,-97.7239465713501,Austin,TX,United States}	{Travel & Transport,}
+3552	Sat May 07 04:22:07 +0000 2011	4c9bfa2946978cfab62b8a7f	{Icenhauer's}	{30.25932472467953,-97.73830447708839,Austin,TX,United States}	{Nightlife Spot,}
+3552	Fri May 06 23:25:51 +0000 2011	40b13b00f964a52095f31ee3	{The Dog & Duck Pub}	{30.28009,-97.74268905,Austin,TX,United States}	{Nightlife Spot,Food,}
+3552	Fri May 06 04:41:01 +0000 2011	49e03d51f964a52048611fe3	{Shangri-La}	{30.265059,-97.73156045,Austin,TX,United States}	{Nightlife Spot,}
+3552	Fri May 06 04:09:25 +0000 2011	4b3ada28f964a5202d6f25e3	{Kung Fu Saloon}	{30.26936660663496,-97.74980555928184,Austin,TX,United States}	{Nightlife Spot,Shop & Service,Arts & Entertainment,}
+3552	Thu May 05 17:41:14 +0000 2011	45fd161af964a52076441fe3	{Juan in a Million}	{30.25529618,-97.719077,Austin,TX,United States}	{Food,}
+3552	Thu May 05 03:33:10 +0000 2011	440fee99f964a520b2301fe3	{The Parish}	{30.267605586764116,-97.7407976335064,Austin,TX,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+3552	Mon May 02 16:03:54 +0000 2011	4ced06f1d7268cfad299c04e	{Taco Cabana}	{31.840457485304583,-106.57299818920904,El Paso,TX,United States}	{Food,}
+3552	Sun May 01 23:13:27 +0000 2011	4b0586d3f964a520327022e3	{O.K. Corral}	{31.713224283336285,-110.06763380229555,Tombstone,AZ,United States}	{Shop & Service,Government Building,Professional & Other Places,}
+3552	Sun May 01 23:01:49 +0000 2011	4b0586d3f964a520317022e3	{Tombstone}	{31.713264906076684,-110.06753492973623,Tombstone,AZ,United States}	{Outdoors & Recreation,Government Building,Professional & Other Places,}
+3552	Sun May 01 02:33:20 +0000 2011	4161e400f964a520641d1fe3	{Urth Caffe}	{34.08207402627318,-118.3788710304973,West Hollywood,CA,United States}	{Food,}
+3552	Sat Apr 30 23:00:11 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+3552	Sat Apr 30 02:07:27 +0000 2011	4db11c066e81a2637ee53ea0	{Prince Welcome 2 America}	{33.9583,-118.341868,Inglewood,CA,United States}	{Arts & Entertainment,}
+3552	Wed Apr 27 05:48:34 +0000 2011	4d5233843062a1cd6eff6ea3	{The Loft Series  @Dim Mak Studios}	{34.101113,-118.328535,Los Angeles,CA,United States}	{Nightlife Spot,}
+3552	Sun Apr 24 03:08:18 +0000 2011	4ba999caf964a52082303ae3	{la rizza pizza}	{33.775453544737545,-118.168971,Long Beach,CA,United States}	{Food,}
+3552	Sun Apr 24 00:49:37 +0000 2011	4a6b7867f964a520bdce1fe3	{Seal Beach}	{33.7414083704956,-118.10475468635559,Seal Beach,CA,United States}	{Outdoors & Recreation,}
+3552	Sat Apr 23 23:45:58 +0000 2011	4bf083a1f45ec928e6f1933c	{Naples Island}	{33.754531032538004,-118.12379837036133,90803,CA,United States}	{Outdoors & Recreation,Residence,}
+3552	Fri Apr 22 09:26:46 +0000 2011	4b909a5cf964a520d59133e3	{Art Share LA}	{34.04469891327835,-118.23633851870875,Los Angeles,CA,United States}	{Arts & Entertainment,}
+3552	Wed Apr 20 18:47:07 +0000 2011	4a71f5f7f964a52001da1fe3	{Starbucks}	{34.12963,-118.348643,Los Angeles,CA,United States}	{Food,}
+3552	Sun Apr 17 23:56:09 +0000 2011	4ae8ea37f964a5204cb321e3	{Ace Hotel & Swim Club}	{33.800694124998216,-116.53986634101257,Palm Springs,CA,United States}	{Travel & Transport,}
+3552	Sun Apr 17 04:55:52 +0000 2011	4bc72cc52f94d13a5b5d117f	{Coachella Valley Music and Arts Festival}	{33.68178249178,-116.24299049377441,Indio,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+3552	Sat Apr 16 05:57:51 +0000 2011	4ae8ea37f964a5204cb321e3	{Ace Hotel & Swim Club}	{33.800694124998216,-116.53986634101257,Palm Springs,CA,United States}	{Travel & Transport,}
+3552	Sat Apr 16 01:27:59 +0000 2011	4c3f78193735be9adb6c15a4	{The Lounge}	{33.81500800150369,-116.40817041531375,Rancho Mirage,CA,United States}	{Nightlife Spot,Performing Arts Venue,Arts & Entertainment,}
+3552	Fri Apr 15 23:46:17 +0000 2011	4bb4c8d7a705952106ac1bce	{The Westin Mission Hills Golf Resort & Spa}	{33.8003831468826,-116.41754184829358,Rancho Mirage,CA,United States}	{Travel & Transport,Outdoors & Recreation,Hotel,Athletics & Sports,}
+3552	Fri Apr 15 03:21:43 +0000 2011	4d9b8f397ae55481267e3a74	{Long Beach Grand Prix}	{33.765335868904,-118.1840188751803,,,United States}	{Arts & Entertainment,}
+3552	Fri Apr 15 02:33:33 +0000 2011	4c099d04009a0f473421e8bf	{City of Long Beach}	{33.77768482129236,-118.1893515586853,Long Beach,CA,United States}	{Outdoors & Recreation,}
+3552	Wed Apr 13 23:20:46 +0000 2011	4a26f642f964a520f57e1fe3	{Sake House Hikari}	{34.016534940713285,-118.49514641503221,Santa Monica,CA,United States}	{Nightlife Spot,Food,}
+3552	Tue Apr 12 18:27:32 +0000 2011	4b61f90ff964a5205a2e2ae3	{Kaiser Permanente: Los Angeles Medical Center & Sunset Hospital}	{34.09852211704991,-118.29407151808178,Los Angeles,CA,United States}	{Medical Center,Shop & Service,Professional & Other Places,}
+3552	Mon Apr 11 00:24:57 +0000 2011	4ac8ffe5f964a520e6bd20e3	{Belmont Brewing Company}	{33.75918726602139,-118.14822793006897,Long Beach,CA,United States}	{Nightlife Spot,Food,}
+3552	Sun Apr 10 06:49:40 +0000 2011	4da152e163b5a35df791e619	{Ava's Bathtub}	{34.09667524402876,-118.23144993310267,Los Angeles,CA,United States}	{Nightlife Spot,}
+3552	Sat Apr 09 20:11:57 +0000 2011	4abe44b7f964a520528c20e3	{Toni & Guy Santa Monica Academy}	{34.01730155106939,-118.4944735647231,Santa Monica,CA,United States}	{Shop & Service,}
+3552	Wed Mar 30 07:23:49 +0000 2011	4c8eadf2ad70a143559e8b0f	{Hemingway's Lounge}	{34.101533196467685,-118.32849872974232,Los Angeles,CA,United States}	{Nightlife Spot,}
+3552	Tue Mar 29 05:12:49 +0000 2011	40a2ba80f964a5200ef31ee3	{Amoeba Music}	{34.09775400505154,-118.32916083276535,Hollywood,CA,United States}	{Shop & Service,Music Venue,Arts & Entertainment,}
+3552	Tue Mar 29 05:01:55 +0000 2011	42893400f964a5205f231fe3	{ArcLight Cinemas Hollywood}	{34.09722897058994,-118.32819077603945,Los Angeles,CA,United States}	{Arts & Entertainment,Movie Theater,}
+3552	Mon Mar 28 18:59:22 +0000 2011	4ade4d45f964a520cf7421e3	{The Coffee Bean & Tea Leaf}	{34.09827977166242,-118.32535703025913,Hollywood,CA,United States}	{Food,}
+3552	Mon Mar 28 06:37:39 +0000 2011	4a905681f964a520601720e3	{The Piano Bar}	{34.09991700959531,-118.33064997540593,Los Angeles,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+3552	Sat Mar 26 18:50:09 +0000 2011	4b78393ef964a520a5bd2ee3	{Los Burritos}	{34.09832592599174,-118.29695641994476,Los Angeles,CA,United States}	{Food,}
+3552	Sun Mar 13 11:08:13 +0000 2011	4ad6d4f1f964a520500821e3	{Denny's}	{34.09786553,-118.32262033333333,Los Angeles,CA,United States}	{Food,}
+3552	Wed Mar 02 22:58:55 +0000 2011	49e3aa19f964a520aa621fe3	{Joan's on Third}	{34.072716609069985,-118.37179822628323,Los Angeles,CA,United States}	{Food,}
+3552	Wed Mar 02 08:31:55 +0000 2011	4b6100adf964a52080052ae3	{Library Bar}	{34.10100227884199,-118.34155082702637,Los Angeles,CA,United States}	{Nightlife Spot,}
+3552	Tue Mar 01 02:49:30 +0000 2011	3fd66200f964a52055ef1ee3	{Kibitz Room}	{34.07898215622557,-118.36165206345595,Los Angeles,CA,United States}	{Nightlife Spot,}
+3552	Sat Feb 26 11:21:07 +0000 2011	4bb22676f964a520b2bd3ce3	{Hampton Inn & Suites}	{34.20684176565954,-118.34251649547515,Burbank,CA,United States}	{Travel & Transport,}
+3552	Fri Feb 25 06:36:07 +0000 2011	4abdc796f964a520738b20e3	{Ecco Ultra Lounge}	{34.101039734643415,-118.3292978192743,Los Angeles,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+3552	Wed Feb 23 23:21:35 +0000 2011	4b980019f964a520312535e3	{Tender Greens}	{34.09802309695123,-118.3262098881351,Hollywood,CA,United States}	{Food,}
+3552	Tue Feb 22 21:54:10 +0000 2011	4a8b3633f964a520cc0b20e3	{Noah's Bagels}	{34.07604509544935,-118.3235614143459,Los Angeles,CA,United States}	{Food,}
+3552	Tue Feb 22 08:27:03 +0000 2011	44084533f964a52053301fe3	{Teddy's}	{34.101251030990305,-118.34180831909178,Los Angeles,CA,United States}	{Nightlife Spot,}
+3552	Fri Feb 18 08:11:38 +0000 2011	445b56e7f964a520e8321fe3	{Cha Cha Lounge}	{34.09938061272287,-118.25947174538054,Los Angeles,CA,United States}	{Nightlife Spot,}
+3552	Thu Feb 17 23:43:12 +0000 2011	4a7a381df964a520e9e81fe3	{The Coffee Bean & Tea Leaf}	{34.072837730737916,-118.35933083047671,Los Angeles,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+3552	Wed Feb 16 01:39:00 +0000 2011	4a8890e0f964a520ee0620e3	{Starbucks}	{34.097697359480584,-118.32249641418457,Los Angeles,CA,United States}	{Shop & Service,Food,}
+3552	Tue Feb 15 20:16:52 +0000 2011	3fd66200f964a520a0ee1ee3	{Canter's Delicatessen}	{34.078780432271145,-118.36171567440033,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+3552	Mon Feb 14 21:31:43 +0000 2011	4d574d6ecf1b37043820cb3f	{Boyfriend's House}	{34.10886943057216,-118.38709905694157,,CA,United States}	{Residence,}
+3552	Mon Feb 14 09:32:11 +0000 2011	4d5870afe319a1cd62b41034	{??The Look Like You Give a Damn?? Grammy House}	{34.100068387925795,-118.42215189536238,Beverly Hills,CA,United States}	{Nightlife Spot,Residence,}
+3552	Sun Feb 13 03:27:45 +0000 2011	4d574d6ecf1b37043820cb3f	{Boyfriend's House}	{34.10886943057216,-118.38709905694157,,CA,United States}	{Residence,}
+3552	Sat Feb 12 22:30:56 +0000 2011	49c97bf9f964a5206c581fe3	{Cheech's Pizza}	{34.110537,-118.28737029,Los Angeles,CA,United States}	{Food,}
+3552	Sat Feb 12 07:29:32 +0000 2011	4d315fa38c42a1cdcb07de5d	{Roxbury}	{34.100971274823486,-118.32827612555799,Los Angeles,CA,United States}	{Nightlife Spot,}
+3552	Fri Feb 11 09:38:35 +0000 2011	4c3debce980320a10aaa8ce4	{Big Game Lodge}	{34.211603984035484,-118.4987,Van Nuys,CA,United States}	{Professional & Other Places,}
+3552	Thu Feb 10 06:24:24 +0000 2011	47d83de0f964a520294e1fe3	{The Happy Ending Bar & Restaurant}	{34.097795766666664,-118.342876,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+3552	Wed Feb 09 01:37:04 +0000 2011	4d4743b91b62b1f7f1510fe3	{BFG LA}	{34.14432742351085,-118.34066731280616,,CA,United States}	{Professional & Other Places,}
+3552	Tue Feb 08 06:07:42 +0000 2011	41098f80f964a5209c0b1fe3	{Birds Rotisserie Chicken Cafe}	{34.10533650850494,-118.3189150693421,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+3552	Sat Feb 05 07:28:10 +0000 2011	4b207bfaf964a520a23224e3	{Voyeur}	{34.091007,-118.36354796188292,West Hollywood,CA,United States}	{Nightlife Spot,}
+3552	Wed Feb 02 10:43:54 +0000 2011	4a01e786f964a5200a711fe3	{Cactus Mexican Food}	{34.088183,-118.32655191421509,Los Angeles,CA,United States}	{Food,}
+3552	Wed Feb 02 08:05:51 +0000 2011	4c8eadf2ad70a143559e8b0f	{Hemingway's Lounge}	{34.101533196467685,-118.32849872974232,Los Angeles,CA,United States}	{Nightlife Spot,}
+3552	Tue Feb 01 22:24:25 +0000 2011	4ca9fbb1ae1eef3ba5783347	{CONAN}	{34.14644958764877,-118.33399772644043,Burbank,CA,United States}	{Arts & Entertainment,}
+3552	Sun Jan 30 20:24:33 +0000 2011	43bd6072f964a520062d1fe3	{The 101 Coffee Shop}	{34.10535533586527,-118.3237624168396,Los Angeles,CA,United States}	{Food,}
+3552	Sun Jan 30 19:42:34 +0000 2011	4bad4002f964a520073e3be3	{Westmoreland Lofts}	{34.07474589819924,-118.28819119395494,Los Angeles,CA,United States}	{Residence,}
+3552	Sat Jan 29 07:02:05 +0000 2011	41098f80f964a5209c0b1fe3	{Birds Rotisserie Chicken Cafe}	{34.10533650850494,-118.3189150693421,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+3552	Thu Jan 27 22:50:09 +0000 2011	49c7323ff964a520a2571fe3	{Los Angeles Zoo}	{34.14839998630527,-118.28366301865034,Los Angeles,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+3552	Tue Jan 25 07:51:58 +0000 2011	44084533f964a52053301fe3	{Teddy's}	{34.101251030990305,-118.34180831909178,Los Angeles,CA,United States}	{Nightlife Spot,}
+3552	Mon Jan 24 04:42:03 +0000 2011	49f20692f964a520d5691fe3	{The Woods}	{34.09876347660219,-118.34481239318848,Los Angeles,CA,United States}	{Nightlife Spot,}
+3552	Sat Jan 22 06:59:34 +0000 2011	44084533f964a52053301fe3	{Teddy's}	{34.101251030990305,-118.34180831909178,Los Angeles,CA,United States}	{Nightlife Spot,}
+3552	Sun Jan 16 05:20:52 +0000 2011	4a905681f964a520601720e3	{The Piano Bar}	{34.09991700959531,-118.33064997540593,Los Angeles,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+3552	Sun Jan 16 03:52:41 +0000 2011	4161e400f964a520641d1fe3	{Urth Caffe}	{34.08207402627318,-118.3788710304973,West Hollywood,CA,United States}	{Food,}
+3552	Sat Jan 15 04:50:53 +0000 2011	3fd66200f964a52039f01ee3	{Saddle Ranch Chop House}	{34.0955517580628,-118.3723720908165,West Hollywood,CA,United States}	{Nightlife Spot,Food,}
+3552	Fri Jan 14 23:11:45 +0000 2011	3fd66200f964a520a0ee1ee3	{Canter's Delicatessen}	{34.078780432271145,-118.36171567440033,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+3552	Wed Jan 12 01:31:43 +0000 2011	4a32da5af964a520a69a1fe3	{Trader Joe's}	{34.0895500043872,-118.34906101226807,West Hollywood,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3552	Mon Jan 10 20:14:04 +0000 2011	3fd66200f964a520a0ee1ee3	{Canter's Delicatessen}	{34.078780432271145,-118.36171567440033,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+3552	Mon Jan 10 04:36:13 +0000 2011	4ae118a2f964a5202c8521e3	{The Hudson}	{34.09118922536886,-118.36565810182488,West Hollywood,CA,United States}	{Nightlife Spot,Food,}
+3552	Sun Jan 09 06:54:59 +0000 2011	4a905681f964a520601720e3	{The Piano Bar}	{34.09991700959531,-118.33064997540593,Los Angeles,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+3552	Sat Jan 08 23:27:12 +0000 2011	43bd6072f964a520062d1fe3	{The 101 Coffee Shop}	{34.10535533586527,-118.3237624168396,Los Angeles,CA,United States}	{Food,}
+3552	Sat Jan 08 04:28:07 +0000 2011	4c048ecb187ec9289b43b77b	{US-101 (Hollywood Freeway / Ventura Freeway)}	{34.155603592490245,-118.43600749969484,Southern California,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+3552	Sat Jan 08 01:01:21 +0000 2011	4e4f15a845ddff0031bbcfcc	{California / Arizona State Line}	{33.60482623885115,-114.53068971633911,Blythe,CA,United States}	{Travel & Transport,}
+3552	Fri Jan 07 22:35:29 +0000 2011	4c4a3fb8c668e21e627353f8	{Vija Truck Stop}	{32.833337183333335,-112.13466956666667,Stanfield,AZ,United States}	{Shop & Service,}
+3552	Fri Jan 07 20:47:14 +0000 2011	4b284ae3f964a520199224e3	{In-N-Out Burger}	{32.17838611535042,-110.94280206288524,Tucson,AZ,United States}	{Food,}
+3552	Fri Jan 07 05:22:50 +0000 2011	4c4a4d6742b4d13a5384007d	{IH 10}	{31.858785495075793,-106.52789014989418,El Paso,TX,United States}	{Travel & Transport,}
+3552	Tue Jan 04 08:30:16 +0000 2011	4ad4bffdf964a5205eea20e3	{Hotel Valencia Riverwalk}	{29.426365185833276,-98.49155858159065,San Antonio,TX,United States}	{Travel & Transport,}
+3552	Tue Jan 04 01:12:11 +0000 2011	4b75ff8af964a5206f352ee3	{Koi Kawa Japanese Restaurant}	{29.46353,-98.46646249294281,San Antonio,TX,United States}	{Food,}
+3552	Mon Jan 03 02:46:37 +0000 2011	4ad4bffff964a5205ceb20e3	{Olmos Pharmacy}	{29.466701696080143,-98.49158622217452,San Antonio,TX,United States}	{Nightlife Spot,Music Venue,Food,Arts & Entertainment,}
+3552	Sat Jan 01 04:00:58 +0000 2011	441d4341f964a52060311fe3	{Scoot Inn}	{30.262250183600703,-97.72945183271916,Austin,TX,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+3552	Sat Jan 01 02:43:29 +0000 2011	4adbaa09f964a520e02921e3	{The Brixton}	{30.263593,-97.727621,Austin,TX,United States}	{Nightlife Spot,}
+3552	Thu Dec 30 23:07:21 +0000 2010	4c365e5f1e06d13a1120743e	{Buffalo Exchange}	{29.47116776,-98.493585,San Antonio,TX,United States}	{}
+3552	Thu Dec 30 04:42:20 +0000 2010	4adce922f964a520706221e3	{Broadway 5050}	{29.473023,-98.46251964569092,San Antonio,TX,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+3552	Thu Dec 30 01:41:08 +0000 2010	4b44d417f964a5206bfd25e3	{Piatti}	{29.495381416611572,-98.48011493682861,San Antonio,TX,United States}	{Food,}
+3552	Wed Dec 29 04:42:09 +0000 2010	4ad4bffef964a520c6ea20e3	{The Revolution Room}	{29.51051652431488,-98.46677112,San Antonio,TX,United States}	{Nightlife Spot,}
+3552	Wed Dec 29 01:12:25 +0000 2010	4ad4c000f964a5207aeb20e3	{Pappadeaux Seafood Kitchen}	{29.519700764212896,-98.48798462106737,San Antonio,TX,United States}	{Food,Arts & Entertainment,}
+3552	Tue Dec 28 03:30:19 +0000 2010	4bb55e11941ad13aab301ee3	{Havana Bar}	{29.431075966207047,-98.49020004272461,San Antonio,TX,United States}	{Nightlife Spot,}
+3552	Fri Dec 24 00:05:27 +0000 2010	4ae1192ef964a520338521e3	{Kona Grill}	{29.59254674460012,-98.61366748809814,San Antonio,TX,United States}	{Food,}
+3552	Wed Dec 22 22:27:41 +0000 2010	4aac1b4ef964a520475c20e3	{San Antonio International Airport (SAT)}	{29.52611853089306,-98.4719181060791,San Antonio,TX,United States}	{Travel & Transport,}
+3552	Wed Dec 22 16:19:34 +0000 2010	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+3552	Wed Dec 22 01:04:42 +0000 2010	4d0fe416b765224b7260e732	{The Lower Gower Pad}	{34.10597092024422,-118.31697144375005,Los Angeles,CA,United States}	{Residence,}
+3552	Wed Dec 22 01:04:42 +0000 2010	4d0fe416b765224b7260e732	{The Lower Gower Pad}	{34.10597092024422,-118.31697144375005,Los Angeles,CA,United States}	{Residence,}
+3552	Tue Dec 21 05:08:46 +0000 2010	4a905681f964a520601720e3	{The Piano Bar}	{34.09991700959531,-118.33064997540593,Los Angeles,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+3552	Mon Dec 20 23:17:58 +0000 2010	4d0fe416b765224b7260e732	{The Lower Gower Pad}	{34.10597092024422,-118.31697144375005,Los Angeles,CA,United States}	{Residence,}
+3552	Mon Dec 20 03:19:25 +0000 2010	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+3552	Sun Dec 19 17:48:23 +0000 2010	4b148691f964a5203da423e3	{Wichita Mid-Continent Airport (ICT)}	{37.65275462465427,-97.42865681648254,Wichita,KS,United States}	{Travel & Transport,Airport,}
+3552	Fri Dec 17 01:47:57 +0000 2010	4d0ac11dd8d78cfaa9db18be	{Party pParty Party Bus}	{37.68790662288666,-97.32733368873596,Wichita,KS,United States}	{Nightlife Spot,}
+3552	Sat Dec 11 00:18:58 +0000 2010	4c1144a972caa593603a5da4	{Thread}	{39.185734,-96.57610058784485,Manhattan,KS,United States}	{Shop & Service,}
+3552	Thu Dec 09 08:00:39 +0000 2010	4b74ecf7f964a5204cf82de3	{Pita Pit}	{39.185549593870896,-96.57468438148499,Manhattan,KS,United States}	{Food,}
+3552	Thu Dec 09 06:43:52 +0000 2010	4b4a866bf964a520fa8926e3	{O'Malley's Alley}	{39.1857907563642,-96.57536029815674,Manhattan,KS,United States}	{Nightlife Spot,Food,}
+3552	Tue Dec 07 21:33:57 +0000 2010	4b74c070f964a52021f02de3	{Houlihan's}	{39.185642,-96.58285300775081,Manhattan,KS,United States}	{Food,}
+3552	Mon Dec 06 20:18:24 +0000 2010	4bca2c7a68f976b0afd65e83	{Oz Museum}	{39.20247160967673,-96.30508828668174,Wamego,KS,United States}	{Museum,Arts & Entertainment,}
+3552	Mon Dec 06 18:38:24 +0000 2010	4c2f78f3213c2d7fdfe5305d	{Toto's Tacoz}	{39.20263,-96.30526,Wamego,KS,United States}	{Food,}
+3552	Sun Dec 05 01:46:06 +0000 2010	4cf83e576cee236a46e8e503	{The Party Pparty Party Bus}	{39.04377155,-95.726557,Topeka,KS,United States}	{Nightlife Spot,}
+3552	Sat Dec 04 03:04:30 +0000 2010	4cf83e576cee236a46e8e503	{The Party Pparty Party Bus}	{39.04377155,-95.726557,Topeka,KS,United States}	{Nightlife Spot,}
+3552	Wed Dec 01 23:32:12 +0000 2010	4b3b9182f964a520037625e3	{Chipotle Mexican Grill}	{39.02955242934905,-95.76155662536621,Topeka,KS,United States}	{Food,}
+3552	Wed Dec 01 18:59:05 +0000 2010	44d1efc9f964a52032361fe3	{George Bush International Airport (IAH)}	{29.986460430837823,-95.34201622009277,Houston,TX,United States}	{Travel & Transport,}
+3552	Wed Dec 01 17:33:54 +0000 2010	4aac1b4ef964a520475c20e3	{San Antonio International Airport (SAT)}	{29.52611853089306,-98.4719181060791,San Antonio,TX,United States}	{Travel & Transport,}
+3552	Wed Dec 01 16:58:03 +0000 2010	4af86910f964a520010d22e3	{Taco Garage}	{29.515243066940393,-98.4655642422668,San Antonio,TX,United States}	{Food,}
+3552	Tue Nov 30 05:48:53 +0000 2010	4a50231cf964a520ffaf1fe3	{The Liberty}	{30.262811037851165,-97.7250623703003,Austin,TX,United States}	{Nightlife Spot,}
+3552	Fri Nov 26 18:11:57 +0000 2010	4adccfdef964a5201c3021e3	{Taco Haven}	{29.409836668946745,-98.4867251732254,San Antonio,TX,United States}	{Food,}
+3552	Thu Nov 25 06:14:15 +0000 2010	4b1cf905f964a520d70a24e3	{Limelight}	{29.450667,-98.48652005195618,San Antonio,TX,United States}	{Nightlife Spot,}
+3552	Thu Nov 25 04:53:28 +0000 2010	4adc8e40f964a520332d21e3	{The Mix}	{29.44900713760143,-98.48804357446106,San Antonio,TX,United States}	{Nightlife Spot,}
+3552	Thu Nov 25 02:04:27 +0000 2010	4b11c45ff964a5203b8423e3	{Romano's Macaroni Grill}	{29.549490317811546,-98.58375878873937,San Antonio,TX,United States}	{Food,}
+3552	Tue Nov 23 23:27:53 +0000 2010	4ba2c63af964a5202b1838e3	{Backstage live}	{29.425217195777766,-98.47688076861976,San Antonio,TX,United States}	{Music Venue,Arts & Entertainment,}
+3552	Mon Nov 22 18:53:53 +0000 2010	4aac1b4ef964a520475c20e3	{San Antonio International Airport (SAT)}	{29.52611853089306,-98.4719181060791,San Antonio,TX,United States}	{Travel & Transport,}
+3552	Sun Nov 21 14:33:16 +0000 2010	4ce540747f69b60c307ab312	{Southwest Nationals}	{33.63195582,-111.87904282,Phoenix,AZ,United States}	{Arts & Entertainment,}
+3552	Sat Nov 20 14:05:02 +0000 2010	4ce540745bf68cfa57b83b17	{Southwest Nationals}	{33.63195582,-111.88346698,Phoenix,AZ,United States}	{Arts & Entertainment,}
+3552	Sat Nov 20 14:03:50 +0000 2010	4ce540747f69b60c307ab312	{Southwest Nationals}	{33.63195582,-111.87904282,Phoenix,AZ,United States}	{Arts & Entertainment,}
+3552	Sat Nov 20 02:43:42 +0000 2010	4ac6b852f964a520ffb520e3	{Harkins Theatres Scottsdale 101}	{33.65854030949819,-111.93259477615356,Phoenix,AZ,United States}	{Arts & Entertainment,Movie Theater,}
+3552	Thu Nov 18 19:02:34 +0000 2010	4ce540745bf68cfa57b83b17	{Southwest Nationals}	{33.63195582,-111.88346698,Phoenix,AZ,United States}	{Arts & Entertainment,}
+3552	Thu Nov 18 03:34:25 +0000 2010	413ba880f964a520011c1fe3	{The Rhythm Room}	{33.49430678505953,-112.05970291777216,Phoenix,AZ,United States}	{Music Venue,Arts & Entertainment,}
+3552	Tue Nov 16 20:07:54 +0000 2010	4be0a2ed652b0f47c3197311	{Poolside @ Xona Resort}	{33.64672591370997,-111.91514174377596,Scottsdale,AZ,United States}	{Outdoors & Recreation,}
+3552	Tue Nov 16 03:30:01 +0000 2010	4a309422f964a5207f991fe3	{Tilted Kilt Pub & Eatery}	{33.638021696107636,-111.92810475826263,Scottsdale,AZ,United States}	{Nightlife Spot,Food,}
+3552	Tue Nov 16 00:44:47 +0000 2010	4b9d9556f964a520f8b436e3	{Zona Hotel & Suites}	{33.64704636869213,-111.91518187522888,Scottsdale,AZ,United States}	{Travel & Transport,Hotel,}
+3552	Tue Nov 16 00:19:35 +0000 2010	4c02fb92f423a593aaa5cf16	{Orange Iguana At The Xona}	{33.64697667,-111.914848,Scottsdale,AZ,United States}	{Nightlife Spot,}
+3552	Mon Nov 15 19:59:17 +0000 2010	4b9d9556f964a520f8b436e3	{Zona Hotel & Suites}	{33.64704636869213,-111.91518187522888,Scottsdale,AZ,United States}	{Travel & Transport,Hotel,}
+3552	Sun Nov 14 02:46:09 +0000 2010	4b657b71f964a520fef12ae3	{Great Skate}	{33.578537195848135,-112.15363728639029,Glendale,AZ,United States}	{Outdoors & Recreation,Arts & Entertainment,Athletics & Sports,}
+3552	Sat Nov 13 03:34:07 +0000 2010	4a7b7c14f964a5202eeb1fe3	{Chipotle Mexican Grill}	{33.638211630824394,-112.35909549385678,Surprise,AZ,United States}	{Food,}
+3552	Fri Nov 12 15:50:24 +0000 2010	4a9a0d79f964a520783120e3	{Phoenix International Raceway}	{33.374764,-112.310808,Avondale,AZ,United States}	{Arts & Entertainment,}
+3552	Fri Nov 12 00:24:34 +0000 2010	4bcf42d10ffdce726952b2c0	{Hampton Inn & Suites}	{33.65817040707099,-112.37736743669238,Surprise,AZ,United States}	{Travel & Transport,}
+3552	Thu Nov 11 22:51:25 +0000 2010	4b1c4ceef964a520b80524e3	{In-N-Out Burger}	{33.50792107,-112.26648131,Phoenix,AZ,United States}	{Food,}
+3552	Thu Nov 11 17:01:29 +0000 2010	4aac1b4ef964a520475c20e3	{San Antonio International Airport (SAT)}	{29.52611853089306,-98.4719181060791,San Antonio,TX,United States}	{Travel & Transport,}
+3552	Thu Nov 11 16:00:51 +0000 2010	4af86910f964a520010d22e3	{Taco Garage}	{29.515243066940393,-98.4655642422668,San Antonio,TX,United States}	{Food,}
+3552	Thu Nov 11 01:20:14 +0000 2010	4af869a9f964a5200e0d22e3	{Tong's Thai}	{29.48660284573005,-98.44811055570169,San Antonio,TX,United States}	{Food,}
+3552	Wed Nov 10 22:36:19 +0000 2010	4fc94575d4f24895b44671d4	{Starbucks}	{29.51866222841538,-98.49545063149351,San Antonio,TX,United States}	{Food,}
+3552	Wed Nov 10 21:50:52 +0000 2010	4ad4c001f964a52022ec20e3	{M.A.C. Cosmetics}	{29.518440197243553,-98.49590086682696,San Antonio,TX,United States}	{Shop & Service,}
+3552	Wed Nov 10 21:49:43 +0000 2010	4b047eabf964a520a05422e3	{Saks Fifth Avenue}	{29.518995603105292,-98.49409994163096,San Antonio,TX,United States}	{Shop & Service,}
+3552	Wed Nov 10 04:26:33 +0000 2010	48261dbef964a5209f4f1fe3	{Barfly's}	{30.31673972343371,-97.71425270583143,Austin,TX,United States}	{Nightlife Spot,}
+3552	Tue Nov 09 22:40:08 +0000 2010	4ba1582df964a520afae37e3	{Toni&Guy}	{29.51901500090205,-98.49460376755847,San Antonio,TX,United States}	{Shop & Service,}
+3552	Mon Nov 08 21:06:09 +0000 2010	4ba7e5e4f964a520dcbc39e3	{Chiro Java}	{29.568214500973703,-97.96464744875796,Seguin,TX,United States}	{Food,}
+3552	Mon Nov 08 21:06:08 +0000 2010	4ba7e5e4f964a520dcbc39e3	{Chiro Java}	{29.568214500973703,-97.96464744875796,Seguin,TX,United States}	{Food,}
+3552	Sun Nov 07 21:30:54 +0000 2010	4af5ca8df964a520e8fc21e3	{Fun Fun Fun Fest}	{30.274024,-97.736017,Austin,TX,United States}	{Arts & Entertainment,}
+3552	Sun Nov 07 18:34:37 +0000 2010	4c3bcc56be4620a129ea0c13	{Buffalo Wild Wings}	{30.196846778900973,-97.76772022247314,Austin,TX,United States}	{Food,}
+3552	Sun Nov 07 05:37:09 +0000 2010	43fda18af964a520f22f1fe3	{Red 7}	{30.266929358759604,-97.73628349377908,Austin,TX,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+3552	Sun Nov 07 04:27:05 +0000 2010	441adcb1f964a5203c311fe3	{Beauty Bar}	{30.266891880799115,-97.73614558102156,Austin,TX,United States}	{Nightlife Spot,}
+3552	Sun Nov 07 00:24:29 +0000 2010	4af5ca8df964a520e8fc21e3	{Fun Fun Fun Fest}	{30.274024,-97.736017,Austin,TX,United States}	{Arts & Entertainment,}
+3552	Sat Nov 06 01:56:39 +0000 2010	4b3ada28f964a5202d6f25e3	{Kung Fu Saloon}	{30.26936660663496,-97.74980555928184,Austin,TX,United States}	{Nightlife Spot,Shop & Service,Arts & Entertainment,}
+3552	Fri Nov 05 23:37:57 +0000 2010	41059b00f964a520820b1fe3	{BookPeople}	{30.2720402778801,-97.75310754776001,Austin,TX,United States}	{Shop & Service,Food,}
+3552	Fri Nov 05 21:32:36 +0000 2010	40ec8e80f964a5202b0a1fe3	{Magnolia Cafe South}	{30.24449825100856,-97.75188446044922,Austin,TX,United States}	{Food,}
+3552	Fri Nov 05 04:44:45 +0000 2010	4ae3bd69f964a520979821e3	{Acenar}	{29.42641526285124,-98.49231513858655,San Antonio,TX,United States}	{Food,}
+3552	Fri Nov 05 02:29:54 +0000 2010	4ae3bd69f964a520979821e3	{Acenar}	{29.42641526285124,-98.49231513858655,San Antonio,TX,United States}	{Food,}
+3552	Thu Nov 04 01:05:23 +0000 2010	4ad4bffef964a520dfea20e3	{Paloma Blanca Mexican Cuisine}	{29.479691068708796,-98.46361938582498,San Antonio,TX,United States}	{Food,}
+3552	Thu Nov 04 01:04:53 +0000 2010	4ae0dd7af964a520298321e3	{Bombay Bicycle Club}	{29.457242488861084,-98.478804,San Antonio,TX,United States}	{Nightlife Spot,Food,}
+3552	Wed Nov 03 21:47:46 +0000 2010	4ae0dd7af964a520298321e3	{Bombay Bicycle Club}	{29.457242488861084,-98.478804,San Antonio,TX,United States}	{Nightlife Spot,Food,}
+3552	Wed Nov 03 01:56:27 +0000 2010	4b3e75acf964a5207b9d25e3	{Best Buy}	{29.52275211715731,-98.49511831666307,San Antonio,TX,United States}	{Shop & Service,Music Venue,Arts & Entertainment,Professional & Other Places,}
+3552	Tue Nov 02 20:33:12 +0000 2010	4bdc949f3904a59342d84e9e	{Olmos Perk Coffee Bar}	{29.479224818505248,-98.49215805530548,San Antonio,TX,United States}	{Food,}
+3552	Tue Nov 02 05:50:27 +0000 2010	4ba422dbf964a520238538e3	{Vegas Bar}	{29.523721086344274,-98.59907006204021,San Antonio,TX,United States}	{Nightlife Spot,}
+3552	Sun Oct 31 20:04:22 +0000 2010	4b5214a7f964a5204a6627e3	{Las Palapas Mexican Grill}	{29.56563,-98.33033274,Selma,TX,United States}	{Food,}
+3552	Sat Oct 30 18:01:15 +0000 2010	4ba7e5e4f964a520dcbc39e3	{Chiro Java}	{29.568214500973703,-97.96464744875796,Seguin,TX,United States}	{Food,}
+3552	Fri Oct 29 00:12:56 +0000 2010	4c786cc92d3ba1435e158bd0	{Grandma B's}	{29.551211451837343,-98.04106335636106,Seguin,TX,United States}	{Residence,}
+3552	Thu Oct 28 04:20:46 +0000 2010	4a9a16b5f964a520883120e3	{Republic Live}	{30.267543937149703,-97.74585317682381,Austin,TX,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+3552	Wed Oct 27 19:35:35 +0000 2010	4c786cc92d3ba1435e158bd0	{Grandma B's}	{29.551211451837343,-98.04106335636106,Seguin,TX,United States}	{Residence,}
+3552	Wed Oct 27 03:39:41 +0000 2010	40b3de00f964a52047001fe3	{Emo's (WE MOVED!)}	{30.266808465283603,-97.73684546619462,Austin,TX,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+3552	Mon Oct 25 21:34:31 +0000 2010	4c6bd4c47c052d7f83502acf	{Terminal 2}	{33.435542034921106,-112.01379060745239,Phoenix,AZ,United States}	{Travel & Transport,Airport,}
+3552	Mon Oct 25 18:21:37 +0000 2010	4bd7217c637ba593c85af970	{Moe's Southwest Grill}	{36.08528025035065,-115.1540994644165,Las Vegas,NV,United States}	{Food,}
+3552	Sat Oct 23 23:09:59 +0000 2010	4b464329f964a520e01b26e3	{Planet Hollywood Westgate Towers}	{36.10867644304474,-115.16923358298997,Las Vegas,NV,United States}	{Nightlife Spot,Travel & Transport,Arts & Entertainment,}
+3552	Sat Oct 23 21:46:26 +0000 2010	4c9d6bdd8afca093ed10f715	{City of Las Vegas}	{36.114615457909544,-115.17293930053711,Las Vegas,NV,United States}	{Outdoors & Recreation,}
+3552	Sat Oct 23 02:14:29 +0000 2010	4bd0e03977b29c7416b68b82	{Lollipop}	{33.84154915809631,-84.37874972820282,Atlanta,GA,United States}	{Shop & Service,}
+3552	Fri Oct 22 23:06:02 +0000 2010	4bbf520782a2ef3bce8b2cd2	{Nordstrom Rack}	{33.850066901834154,-84.37105178833008,Atlanta,GA,United States}	{Shop & Service,}
+3552	Mon Oct 18 20:01:38 +0000 2010	4c6307e679d1e21eb795d715	{BFG Communications}	{33.78272699517417,-84.41669978130292,Atlanta,GA,United States}	{Professional & Other Places,}
+3552	Mon Oct 18 14:13:51 +0000 2010	4bd5a67e5631c9b62466a430	{Bfg Offices - Charlotte, NC}	{35.2192165,-80.81540143,Charlotte,NC,United States}	{Professional & Other Places,}
+3552	Thu Oct 14 20:31:37 +0000 2010	4b575015f964a520c23028e3	{Charlotte Motor Speedway}	{35.35158850219186,-80.68683385848999,Concord,NC,United States}	{Arts & Entertainment,Professional & Other Places,}
+3552	Sun Oct 10 16:23:45 +0000 2010	4b6e2a1cf964a520feae2ce3	{Starbucks}	{35.71571071,-81.31395672,Hickory,NC,United States}	{Food,}
+3552	Fri Oct 08 19:07:41 +0000 2010	4caf460775ebb60cf9d6baad	{Oktoberfest}	{35.73247432963684,-81.33843898773193,Hickory,NC,United States}	{Nightlife Spot,}
+3552	Thu Oct 07 19:15:05 +0000 2010	4bc4108fdce4eee187e9719d	{Crowne Plaza}	{35.709792528223026,-81.31093220669398,Hickory,NC,United States}	{Travel & Transport,}
+3552	Wed Oct 06 19:40:05 +0000 2010	4c2df4d476a7ef3b41e5deb8	{Pigeon River Smokehouse}	{35.81637713333333,-83.14428,Hartford,TN,United States}	{Shop & Service,Food,}
+3552	Sun Oct 03 22:46:01 +0000 2010	4be4b4aacf200f477163123c	{Bo Ling's Chinese Restaurant}	{39.25111728070931,-94.66197073960255,Kansas City,MO,United States}	{Food,}
+3552	Fri Oct 01 22:31:05 +0000 2010	4b15505ff964a52071b023e3	{Kansas Speedway}	{39.11567745318206,-94.83484268188477,Kansas City,KS,United States}	{Arts & Entertainment,}
+3552	Fri Oct 01 00:57:58 +0000 2010	4a6b9acef964a52055cf1fe3	{Arthur Bryant's Barbeque}	{39.09152781661507,-94.55620437474978,Kansas City,MO,United States}	{Food,}
+3552	Thu Sep 30 23:39:11 +0000 2010	4a3c6fecf964a52088a11fe3	{Hyatt Place Kansas City Airport}	{39.270683976175135,-94.66963681773079,Kansas City,MO,United States}	{Travel & Transport,}
+3552	Sun Sep 26 21:25:17 +0000 2010	4ad6567af964a520a60621e3	{Trump International Hotel Las Vegas}	{36.129278954091966,-115.17269253730774,Las Vegas,NV,United States}	{Travel & Transport,}
+3552	Wed Sep 22 23:37:27 +0000 2010	4ad6567af964a520a60621e3	{Trump International Hotel Las Vegas}	{36.129278954091966,-115.17269253730774,Las Vegas,NV,United States}	{Travel & Transport,}
+3552	Wed Sep 22 18:03:48 +0000 2010	4bb3d6e235f0c9b64ef6bc83	{Meteor Crater}	{35.022883459548716,-111.02161789254751,Winslow,AZ,United States}	{Travel & Transport,Outdoors & Recreation,}
+3552	Tue Sep 21 22:33:55 +0000 2010	4b7203faf964a520316a2de3	{DoubleTree by Hilton Hotel Albuquerque}	{35.08843356097834,-106.64927668869495,Albuquerque,NM,United States}	{Travel & Transport,}
+3552	Fri Sep 17 21:31:18 +0000 2010	4b058661f964a5208d5f22e3	{Charles Vergos' Rendezvous}	{35.14340862352884,-90.05179650742065,Memphis,TN,United States}	{Nightlife Spot,Travel & Transport,Food,}
+3552	Fri Sep 17 04:03:45 +0000 2010	4b075448f964a5201afc22e3	{Bardog Tavern}	{35.14446294,-90.053768,Memphis,TN,United States}	{Nightlife Spot,}
+3552	Thu Sep 16 17:36:36 +0000 2010	4b058660f964a5200e5f22e3	{B.B. King's Blues Club}	{35.13991459577941,-90.05327939987183,Memphis,TN,United States}	{Music Venue,Food,Arts & Entertainment,Professional & Other Places,}
+3552	Wed Sep 15 18:23:03 +0000 2010	4c76a4d73adda14383a70aaf	{Flight Restaurant and Wine Bar}	{35.14413306263685,-90.05310514245858,Memphis,TN,United States}	{Food,}
+3552	Sun Sep 12 15:51:49 +0000 2010	4b087f5cf964a5201d0d23e3	{Marriott}	{36.099025,-80.24708032608032,Winston Salem,NC,United States}	{Travel & Transport,}
+3552	Fri Sep 10 15:37:54 +0000 2010	4c8a9fc252a98cfa3a4a2ee9	{Time Warner Cable BBQ & Blues}	{35.225954587715336,-80.84551334381104,Charlotte,NC,United States}	{Food,Arts & Entertainment,}
+3552	Thu Sep 09 17:12:40 +0000 2010	4b14731af964a5204aa323e3	{DoubleTree by Hilton Hotel Charlotte}	{35.233229987433994,-80.85174976194257,Charlotte,NC,United States}	{Travel & Transport,}
+3552	Wed Sep 08 21:29:30 +0000 2010	4b14731af964a5204aa323e3	{DoubleTree by Hilton Hotel Charlotte}	{35.233229987433994,-80.85174976194257,Charlotte,NC,United States}	{Travel & Transport,}
+3552	Sun Sep 05 23:18:50 +0000 2010	4c8247fe47cc224bc7e6839f	{Boomsday}	{35.956188,-83.923505,Knoxville,TN,United States}	{Arts & Entertainment,}
+3552	Thu Sep 02 21:09:18 +0000 2010	4b4cb17bf964a5208aba26e3	{Soccer Taco}	{35.9651394,-83.9196079375,Knoxville,TN,United States}	{Food,}
+3552	Thu Sep 02 20:29:59 +0000 2010	4b51fa9df964a520e75e27e3	{Yee Haw Industries}	{35.965824,-83.9187142,Knoxville,TN,United States}	{Shop & Service,}
+3552	Thu Sep 02 17:05:59 +0000 2010	4b7c41c6f964a520c1872fe3	{Crowne Plaza}	{35.966751050313654,-83.92065955455493,Knoxville,TN,United States}	{Travel & Transport,Hotel,}
+3552	Tue Aug 31 19:12:07 +0000 2010	4ad7cea7f964a520f40e21e3	{W New Orleans - French Quarter}	{29.954594032492093,-90.06630342092794,New Orleans,LA,United States}	{Travel & Transport,}
+3552	Tue Aug 31 14:54:20 +0000 2010	4addc49cf964a520b06521e3	{Caf? Fleur de Lis}	{29.954471,-90.066541,New Orleans,LA,United States}	{Food,}
+3552	Mon Aug 30 03:19:30 +0000 2010	4ad7cea7f964a520f40e21e3	{W New Orleans - French Quarter}	{29.954594032492093,-90.06630342092794,New Orleans,LA,United States}	{Travel & Transport,}
+3552	Sun Aug 29 18:20:19 +0000 2010	40fb0f00f964a520fc0a1fe3	{Stubb's Bar-B-Q}	{30.268695050182224,-97.73612436369821,Austin,TX,United States}	{Music Venue,Food,Arts & Entertainment,}
+3552	Sun Aug 29 17:59:10 +0000 2010	4ba41714f964a5205d8038e3	{The Beast House}	{30.270536770919517,-97.73623840688633,Austin,TX,United States}	{Residence,}
+3552	Fri Aug 27 16:51:10 +0000 2010	4af86910f964a520010d22e3	{Taco Garage}	{29.515243066940393,-98.4655642422668,San Antonio,TX,United States}	{Food,}
+3552	Thu Aug 26 20:15:07 +0000 2010	4ad4bffdf964a5209aea20e3	{Gruene Hall}	{29.73833365106003,-98.1043803691864,New Braunfels,TX,United States}	{Nightlife Spot,Arts & Entertainment,}
+3552	Tue Aug 24 16:50:04 +0000 2010	4bc10122920eb713c0091a2c	{Virginia's on the Bay}	{27.839553952217102,-97.06044852733612,Port Aransas,TX,United States}	{Food,}
+3552	Tue Aug 24 15:50:24 +0000 2010	4bbb2b851261d13acf52eb98	{Sandcastle Hotel}	{27.816143328465618,-97.06719160079956,Port Aransas,TX,United States}	{}
+3552	Sun Aug 22 00:30:15 +0000 2010	4b57d346f964a520e24228e3	{AT&T Center}	{29.426927033500082,-98.43672752380371,San Antonio,TX,United States}	{Stadium,Arts & Entertainment,}
+3552	Tue Aug 03 01:55:45 +0000 2010	4b7c2ee8f964a520b2822fe3	{Thai Hut}	{29.435822735364972,-98.68563652038574,San Antonio,TX,United States}	{Food,}
+3552	Sun Aug 01 04:51:18 +0000 2010	49e03d51f964a52048611fe3	{Shangri-La}	{30.265059,-97.73156045,Austin,TX,United States}	{Nightlife Spot,}
+3552	Thu Jul 29 10:33:39 +0000 2010	4c3debce980320a10aaa8ce4	{Big Game Lodge}	{34.211603984035484,-118.4987,Van Nuys,CA,United States}	{Professional & Other Places,}
+3552	Wed Jul 28 05:16:37 +0000 2010	3fd66200f964a5203eef1ee3	{Burgundy Room}	{34.10038354519199,-118.32960603851411,Los Angeles,CA,United States}	{Nightlife Spot,}
+3552	Mon Jul 26 00:15:35 +0000 2010	4ad4e8faf964a5209ffc20e3	{Unicorn}	{47.61405353887538,-122.31723896872319,Seattle,WA,United States}	{Nightlife Spot,Food,}
+3552	Sun Jul 25 23:38:58 +0000 2010	4c475b5c5438b7134d4db77b	{Capitol Hill Block Party 2010}	{47.614096,-122.319428,Seattle,WA,United States}	{Music Venue,Arts & Entertainment,}
+3552	Tue Jul 20 06:06:19 +0000 2010	4b47d197f964a5202c4026e3	{The Red Room Tavern}	{43.619828870914965,-116.21260643005371,Boise,ID,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+3552	Tue Jul 20 05:31:01 +0000 2010	4b916ca5f964a52071bb33e3	{Flatbread Neapolitan Pizzeria}	{43.61476129,-116.20186725,Boise,ID,United States}	{Food,}
+3552	Sun Jul 18 21:04:00 +0000 2010	4b45c236f964a520ec0f26e3	{Bad Irish}	{43.61630737,-116.2028089,Boise,ID,United States}	{Nightlife Spot,}
+3552	Sat Jul 17 05:25:49 +0000 2010	4bcf3b100ffdce72dc4bb2c0	{Virginian Lodge Jackson Hole}	{43.47372658193543,-110.77832195042191,Jackson Hole,WY,United States}	{Travel & Transport,}
+3552	Fri Jul 16 22:00:25 +0000 2010	4c3d9e367d00d13af36e3a50	{Cadillac Grille}	{43.47997973584532,-110.7625146666887,Jackson,WY,United States}	{Nightlife Spot,Food,}
+3552	Thu Jul 15 22:57:01 +0000 2010	4b553553f964a520a3de27e3	{Million Dollar Cowboy Bar}	{43.47994115132219,-110.76261600835204,Jackson,WY,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+3552	Wed Jul 07 18:11:11 +0000 2010	4c34c32216adc928feb3c59c	{Yellowstone River}	{45.70131643107508,-110.32908942069629,springdale,MT,United States}	{}
+3552	Tue Jul 06 16:27:25 +0000 2010	4c33581e7cc0c9b6bd9cf19a	{BFG Communications}	{39.745903,-104.983931,Denver,CO,United States}	{}
+3552	Tue Jul 06 01:47:13 +0000 2010	4b2d58acf964a520c6d424e3	{Austin's American Grill}	{40.58723347936198,-105.07742643356323,Fort Collins,CO,United States}	{Food,}
+3552	Mon Jul 05 07:23:03 +0000 2010	4b104fb0f964a520936d23e3	{The Vault}	{40.58801895547282,-105.07646540118014,Fort Collins,CO,United States}	{Nightlife Spot,Food,}
+3552	Mon Jul 05 05:31:34 +0000 2010	4bb036f7f964a520a33c3ce3	{The East Coast}	{40.588455,-105.074712,Fort Collins,CO,United States}	{Nightlife Spot,}
+3552	Mon Jul 05 05:16:36 +0000 2010	4bb036f7f964a520a33c3ce3	{The East Coast}	{40.588455,-105.074712,Fort Collins,CO,United States}	{Nightlife Spot,}
+3552	Mon Jul 05 03:33:04 +0000 2010	4b481733f964a520034826e3	{Town Pump}	{40.58761641795212,-105.07669687271118,Fort Collins,CO,United States}	{Nightlife Spot,}
+3552	Sun Jul 04 17:24:57 +0000 2010	4b104fb0f964a520936d23e3	{The Vault}	{40.58801895547282,-105.07646540118014,Fort Collins,CO,United States}	{Nightlife Spot,Food,}
+3552	Sun Jul 04 14:52:38 +0000 2010	4b7a3df3f964a52053272fe3	{Hilton Fort Collins}	{40.56627443305882,-105.0827693939209,Fort Collins,CO,United States}	{Travel & Transport,Food,}
+3552	Sun Jul 04 03:17:03 +0000 2010	4bbd1ffbf57ba593d9bfadb9	{Washingtons Sports Bar}	{40.5895107,-105.07790623,Fort Collins,CO,United States}	{Nightlife Spot,Food,}
+3552	Sun Jul 04 00:38:50 +0000 2010	4b7a3df3f964a52053272fe3	{Hilton Fort Collins}	{40.56627443305882,-105.0827693939209,Fort Collins,CO,United States}	{Travel & Transport,Food,}
+3552	Sat Jul 03 23:41:07 +0000 2010	4b104fb0f964a520936d23e3	{The Vault}	{40.58801895547282,-105.07646540118014,Fort Collins,CO,United States}	{Nightlife Spot,Food,}
+3552	Sat Jul 03 23:41:07 +0000 2010	4b104fb0f964a520936d23e3	{The Vault}	{40.58801895547282,-105.07646540118014,Fort Collins,CO,United States}	{Nightlife Spot,Food,}
+3552	Sat Jul 03 22:24:16 +0000 2010	4b575bfaf964a520763328e3	{Lulu Asian Bistro}	{40.586518,-105.07722,Fort Collins,CO,United States}	{Food,}
+3552	Sat Jul 03 21:48:38 +0000 2010	4b75963ff964a52046162ee3	{Two Pairs}	{40.586824,-105.076299,Fort Collins,CO,United States}	{}
+3552	Fri Jul 02 03:22:08 +0000 2010	4bbd1ffbf57ba593d9bfadb9	{Washingtons Sports Bar}	{40.5895107,-105.07790623,Fort Collins,CO,United States}	{Nightlife Spot,Food,}
+3552	Thu Jul 01 22:44:40 +0000 2010	4b2d58acf964a520c6d424e3	{Austin's American Grill}	{40.58723347936198,-105.07742643356323,Fort Collins,CO,United States}	{Food,}
+3552	Thu Jul 01 22:32:20 +0000 2010	4ba2ab61f964a5206e0e38e3	{Studio Be}	{40.5883,-105.07594,Fort Collins,CO,United States}	{Shop & Service,}
+3552	Thu Jul 01 20:52:34 +0000 2010	4b104fb0f964a520936d23e3	{The Vault}	{40.58801895547282,-105.07646540118014,Fort Collins,CO,United States}	{Nightlife Spot,Food,}
+3552	Thu Jul 01 05:00:25 +0000 2010	4527e265f964a520093b1fe3	{Tony's Bar & Lounge}	{40.58483398906802,-105.076576,Fort Collins,CO,United States}	{Nightlife Spot,}
+3552	Thu Jul 01 03:29:43 +0000 2010	4b481733f964a520034826e3	{Town Pump}	{40.58761641795212,-105.07669687271118,Fort Collins,CO,United States}	{Nightlife Spot,}
+3552	Thu Jul 01 01:17:45 +0000 2010	4b11a511f964a520448123e3	{Carmike 10 Cinemas}	{40.53642904077237,-105.08158614334987,Fort Collins,CO,United States}	{Arts & Entertainment,Movie Theater,}
+3552	Wed Jun 30 23:24:39 +0000 2010	4b481733f964a520034826e3	{Town Pump}	{40.58761641795212,-105.07669687271118,Fort Collins,CO,United States}	{Nightlife Spot,}
+3552	Wed Jun 30 20:31:42 +0000 2010	4b8abfb9f964a520557e32e3	{Le Creperie}	{40.586858465148076,-105.07875458714062,Fort Collins,CO,United States}	{Food,}
+3552	Tue Jun 29 16:57:10 +0000 2010	4c2a25d8e19720a11899fa58	{Continental Divide}	{39.67899240815054,-105.89677977048437,Dillon,CO,United States}	{Outdoors & Recreation,}
+3552	Tue Jun 29 02:12:16 +0000 2010	4b7f5ceaf964a520142a30e3	{Bob's Place}	{39.63586914392471,-106.52408123016357,Avon,CO,United States}	{Nightlife Spot,Food,}
+3552	Mon Jun 28 05:16:24 +0000 2010	4b8c1fe4f964a52067bf32e3	{Boston's Restaurant & Sports Bar}	{39.09502865920704,-108.60727896715886,Grand Junction,CO,United States}	{Food,}
+3552	Sun Jun 27 05:58:16 +0000 2010	4b8c1fe4f964a52067bf32e3	{Boston's Restaurant & Sports Bar}	{39.09502865920704,-108.60727896715886,Grand Junction,CO,United States}	{Food,}
+3552	Wed Jun 23 02:19:15 +0000 2010	4be7094f2457a5938c74ad15	{Smugglers Pub}	{39.091365,-108.606151,Grand Junction,CO,United States}	{Nightlife Spot,}
+3552	Sun Jun 20 20:28:10 +0000 2010	4bc5d00a41cb76b02dd33e6f	{Pilot Travel Center}	{36.6768035709339,-87.4064557186439,Oak Grove,KY,United States}	{Shop & Service,Food,}
+3552	Sat Jun 19 17:37:17 +0000 2010	4ba24c9cf964a52009eb37e3	{Jimmy John's}	{35.04503333170578,-85.30952963379472,Chattanooga,TN,United States}	{Food,}
+3552	Thu Jun 17 06:59:53 +0000 2010	4bd511076798ef3bd0ed628d	{The Sheraton Read House Hotel Chattanooga}	{35.046043010626384,-85.31095850246572,Chattanooga,TN,United States}	{Nightlife Spot,Travel & Transport,Outdoors & Recreation,}
+3552	Wed Jun 16 15:15:30 +0000 2010	4b6c561cf964a520a6312ce3	{The Innside Restaurant}	{35.046690755215636,-85.31180663866286,Chattanooga,TN,United States}	{Food,}
+3552	Tue Jun 15 22:31:21 +0000 2010	4b510668f964a5203c3e27e3	{Sushi Nabe}	{35.061874674471746,-85.30823200692946,Chattanooga,TN,United States}	{Food,}
+3552	Tue Jun 15 21:25:51 +0000 2010	4c0fe58ed67aef3b4498553d	{Association for Visual Arts (AVA)}	{35.062244,-85.307563,Chattanooga,TN,United States}	{Arts & Entertainment,}
+3552	Sun Jun 13 05:04:45 +0000 2010	4b0e8bb9f964a5205c5823e3	{City Caf? Diner}	{35.04552954369604,-85.31204581260681,Chattanooga,TN,United States}	{Food,}
+3552	Sat Jun 12 15:34:19 +0000 2010	4bd511076798ef3bd0ed628d	{The Sheraton Read House Hotel Chattanooga}	{35.046043010626384,-85.31095850246572,Chattanooga,TN,United States}	{Nightlife Spot,Travel & Transport,Outdoors & Recreation,}
+3552	Thu Jun 10 03:17:04 +0000 2010	4b058669f964a520ee6022e3	{The End}	{36.15114366666667,-86.803827,Nashville,TN,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+3552	Mon Jun 07 12:38:38 +0000 2010	4bc00dfc920eb7130988182c	{DoubleTree Suites by Hilton Hotel Houston by the Galleria}	{29.739116179119243,-95.46900272369385,Houston,TX,United States}	{Nightlife Spot,Travel & Transport,}
+3552	Sat Jun 05 17:16:30 +0000 2010	4c09a85fa1b32d7fe72498f0	{Freepress Summerfest 2010}	{29.761249,-95.37790417671204,,TX,United States}	{Arts & Entertainment,}
+3552	Fri Jun 04 00:27:09 +0000 2010	4aabbfd8f964a520e95920e3	{Kona Grill}	{29.74034585373344,-95.46432495117188,Houston,TX,United States}	{Food,}
+3552	Thu Jun 03 06:45:55 +0000 2010	4ad4c04af964a520b3f220e3	{Ernst Cafe}	{29.94703292381487,-90.0657570362091,New Orleans,LA,United States}	{Nightlife Spot,Food,}
+3552	Thu Jun 03 00:36:41 +0000 2010	4ad4c04ff964a5204af420e3	{Drago's Seafood Restaurant}	{30.008832436835117,-90.16069181263447,Metairie,LA,United States}	{Food,}
+3552	Wed Jun 02 03:51:02 +0000 2010	4ad4c04df964a5203df320e3	{Half Moon Bar & Grill}	{29.932188,-90.07433819,New Orleans,LA,United States}	{Nightlife Spot,}
+3552	Wed Jun 02 02:27:58 +0000 2010	4ad4c04cf964a5200ff320e3	{Nacho Mama's Mexican Grill}	{29.92349541666667,-90.087529,New Orleans,LA,United States}	{Nightlife Spot,Food,}
+3552	Tue Jun 01 18:48:09 +0000 2010	4aa59477f964a520dd4820e3	{Caf? Du Monde}	{29.957505928636447,-90.06194561719894,New Orleans,LA,United States}	{Food,}
+3552	Tue Jun 01 18:18:26 +0000 2010	4b91624bf964a5200eb833e3	{Gator-me-crazy}	{29.957882165908813,-90.061783,Orleans,LA,United States}	{Food,}
+3552	Tue Jun 01 16:37:42 +0000 2010	4ad4d226f964a52006fc20e3	{CC's Community Coffee House}	{29.949544,-90.070233,New Orleans,LA,United States}	{Food,}
+3552	Mon May 31 19:50:42 +0000 2010	4ad7cea7f964a520f40e21e3	{W New Orleans - French Quarter}	{29.954594032492093,-90.06630342092794,New Orleans,LA,United States}	{Travel & Transport,}
+3552	Sun May 30 04:10:19 +0000 2010	4afddad2f964a5207d2b22e3	{Big River Grille & Brewing Works}	{35.05390652521826,-85.31066179275513,Chattanooga,TN,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+3552	Tue May 25 10:18:29 +0000 2010	41326e00f964a5209f141fe3	{The Mirage Hotel & Casino}	{36.121566227189106,-115.17517089843749,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+3552	Sun May 23 11:49:08 +0000 2010	4be0a13bf92c20a12a32bad3	{Artisan Hotel Boutique and Lounge}	{36.14368845659706,-115.16986012458801,Las Vegas,NV,United States}	{Nightlife Spot,Travel & Transport,}
+3552	Sun May 23 10:05:42 +0000 2010	4b80843ff964a520497930e3	{Chapel of the Flowers}	{36.150495874347726,-115.15230372548103,Las Vegas,NV,United States}	{Spiritual Center,Professional & Other Places,}
+3552	Fri May 21 19:16:28 +0000 2010	4b76dcb6f964a52019652ee3	{Peppermill Restaurant}	{36.13364844085978,-115.16329139471054,Las Vegas,NV,United States}	{Food,}
+3552	Tue May 18 19:23:09 +0000 2010	4c9d6bdd8afca093ed10f715	{City of Las Vegas}	{36.114615457909544,-115.17293930053711,Las Vegas,NV,United States}	{Outdoors & Recreation,}
+3552	Fri May 14 16:38:26 +0000 2010	4b7053a2f964a520ed122de3	{The Hangout}	{30.248205568461838,-87.68943786621094,Gulf Shores,AL,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+3552	Wed May 12 23:01:13 +0000 2010	4b92cebef964a520bd1d34e3	{Pink Pony Pub}	{30.2477920743493,-87.68758381708818,Gulf Shores,AL,United States}	{Nightlife Spot,}
+3552	Wed May 12 01:58:16 +0000 2010	4d59ab4235966dcb21875728	{Hilton Garden Inn, Beachfront Hotel, Orange Beach Alabama}	{30.257769801475057,-87.63068675994873,Orange Beach,AL,United States}	{Travel & Transport,}
+3552	Tue May 11 21:53:10 +0000 2010	4be9d10cb3352d7f2f7254d2	{Divine Nails & Tan}	{30.29606580734253,-87.68364429473877,Gulf Shores,AL,United States}	{Shop & Service,}
+3552	Tue May 11 14:08:16 +0000 2010	4be89e08ee96c9289658febf	{Renaissance Montgomery Hotel & Spa at the Convention Center}	{32.380242,-86.31193,Montgomery,AL,United States}	{Travel & Transport,Hotel,}
+3552	Tue May 11 02:58:33 +0000 2010	4bc3e0242a89ef3b35b6f588	{Alley Bar}	{32.379744008113676,-86.31134033203125,Montgomery,AL,United States}	{Nightlife Spot,Outdoors & Recreation,}
+3552	Tue May 11 01:21:09 +0000 2010	4be84cc89a54a593efcc0911	{Wintzell's}	{32.37956278398814,-86.31097976353092,Montgomery,AL,United States}	{Food,}
+3552	Mon May 10 14:33:15 +0000 2010	4b215398f964a520333a24e3	{Central Coffee Company}	{35.22154,-80.821864,Charlotte,NC,United States}	{Food,}
+3552	Mon May 10 14:32:04 +0000 2010	4bd5a67e5631c9b62466a430	{Bfg Offices - Charlotte, NC}	{35.2192165,-80.81540143,Charlotte,NC,United States}	{Professional & Other Places,}
+3552	Sat May 08 20:07:03 +0000 2010	4ba399a3f964a520bb4a38e3	{Tanglewood Park}	{36.01244975266108,-80.41305541992188,Clemmons,NC,United States}	{Outdoors & Recreation,Athletics & Sports,}
+3552	Thu May 06 22:21:04 +0000 2010	4b3a1091f964a520ad6025e3	{Mellow Mushroom}	{36.09805014307211,-80.24778968906521,Winston-Salem,NC,United States}	{Food,}
+3552	Wed May 05 17:18:41 +0000 2010	4bd5a67e5631c9b62466a430	{Bfg Offices - Charlotte, NC}	{35.2192165,-80.81540143,Charlotte,NC,United States}	{Professional & Other Places,}
+3552	Wed May 05 17:18:41 +0000 2010	4bd5a67e5631c9b62466a430	{Bfg Offices - Charlotte, NC}	{35.2192165,-80.81540143,Charlotte,NC,United States}	{Professional & Other Places,}
+3552	Wed May 05 04:40:41 +0000 2010	4b230630f964a5204c5224e3	{Whisky River}	{35.225713017694474,-80.84193796945435,Charlotte,NC,United States}	{Nightlife Spot,Food,}
+3552	Tue May 04 20:44:48 +0000 2010	4b11c4c8f964a520488423e3	{BlackFinn American Saloon}	{35.22571795366681,-80.84225177764893,Charlotte,NC,United States}	{Nightlife Spot,Food,}
+3552	Tue May 04 20:00:46 +0000 2010	4b0a8795f964a520d32423e3	{Studio Movie Grill}	{35.22542197189648,-80.84204688851263,Charlotte,NC,United States}	{Nightlife Spot,Arts & Entertainment,}
+3552	Mon May 03 06:56:41 +0000 2010	4b4936bef964a520426a26e3	{the upside down plaza}	{33.501180542295344,-86.7964768409729,,AL,United States}	{Nightlife Spot,}
+3552	Mon May 03 05:19:38 +0000 2010	4b9d7d15f964a520f4af36e3	{The Nick}	{33.50529583550477,-86.79057598114014,Birmingham,AL,United States}	{Music Venue,Arts & Entertainment,}
+3552	Fri Apr 30 02:53:52 +0000 2010	4b4936bef964a520426a26e3	{the upside down plaza}	{33.501180542295344,-86.7964768409729,,AL,United States}	{Nightlife Spot,}
+3552	Wed Apr 28 19:24:38 +0000 2010	4bb6af2f1344b713c4f29d04	{DoubleTree by Hilton Hotel Birmingham}	{33.50369447292464,-86.79895520210266,Birmingham,AL,United States}	{Travel & Transport,}
+3552	Wed Apr 28 05:29:56 +0000 2010	4b25cce6f964a5205c7624e3	{Chaparral}	{33.82821841889415,-84.34563703711264,Atlanta,GA,United States}	{Nightlife Spot,}
+3552	Wed Apr 28 00:18:06 +0000 2010	4b60cf2ef964a520dafa29e3	{Clark Atlanta University}	{33.74860779538701,-84.41139221191406,Atlanta,GA,United States}	{College & University,}
+3552	Tue Apr 27 17:55:31 +0000 2010	4a5e52d8f964a5205dbe1fe3	{Gladys Knight's Signature Chicken & Waffles}	{33.76897166807486,-84.38500463962555,Atlanta,GA,United States}	{Food,}
+3552	Mon Apr 26 18:48:57 +0000 2010	4baac8e4f964a52073863ae3	{Atlanta Marriott Buckhead Hotel & Conference Center?}	{33.84842699942558,-84.35959356872426,Atlanta,GA,United States}	{Travel & Transport,Professional & Other Places,}
+3552	Mon Apr 26 14:46:42 +0000 2010	4bd5a67e5631c9b62466a430	{Bfg Offices - Charlotte, NC}	{35.2192165,-80.81540143,Charlotte,NC,United States}	{Professional & Other Places,}
+3552	Sat Apr 24 02:42:46 +0000 2010	4b3bf1a8f964a520ec7e25e3	{Quaker Steak & Lube}	{35.36607384681702,-80.70854395,Concord,NC,United States}	{Nightlife Spot,Food,}
+3552	Fri Apr 23 16:40:11 +0000 2010	4b58c44af964a5200d6a28e3	{zMax Dragway}	{35.361297808284675,-80.6873078753678,Concord,NC,United States}	{Arts & Entertainment,Professional & Other Places,}
+3552	Thu Apr 22 19:48:53 +0000 2010	4b837025f964a520580631e3	{Hampton Inn & Suites}	{35.36922002407205,-80.70964662436556,Concord,NC,United States}	{Travel & Transport,}
+3552	Tue Apr 20 04:54:54 +0000 2010	4bb3514f715eef3b1d2686bb	{A billboard.}	{35.07351841263474,-110.85684901530735,,,United States}	{}
+3552	Sun Apr 18 22:58:56 +0000 2010	4bca35d1511f9521b953afc7	{THE ANTHEM LAGOON}	{33.74634146690369,-116.40912652015686,Rancho Mirage,CA,United States}	{Nightlife Spot,Outdoors & Recreation,Arts & Entertainment,}
+3552	Sun Apr 18 03:26:43 +0000 2010	49e82983f964a52045651fe3	{Riviera Palm Springs}	{33.84561575955359,-116.54489507392393,Palm Springs,CA,United States}	{Travel & Transport,Hotel,}
+3552	Sat Apr 17 22:27:49 +0000 2010	4bca35d1511f9521b953afc7	{THE ANTHEM LAGOON}	{33.74634146690369,-116.40912652015686,Rancho Mirage,CA,United States}	{Nightlife Spot,Outdoors & Recreation,Arts & Entertainment,}
+3552	Wed Apr 14 23:23:20 +0000 2010	4b721ffcf964a520e56f2de3	{jj's oasis latino}	{33.844096816666664,-116.54665,Palm Springs,CA,United States}	{Food,}
+3552	Wed Apr 14 22:07:54 +0000 2010	49e82983f964a52045651fe3	{Riviera Palm Springs}	{33.84561575955359,-116.54489507392393,Palm Springs,CA,United States}	{Travel & Transport,Hotel,}
+3552	Wed Apr 14 09:32:36 +0000 2010	40d38200f964a52040011fe3	{Fred 62}	{34.10462202421534,-118.2916394863315,Los Angeles,CA,United States}	{Food,}
+3552	Wed Apr 14 03:52:16 +0000 2010	49e417fcf964a520fb621fe3	{The Glass House}	{34.05754828013925,-117.75149703025818,Pomona,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+3552	Tue Apr 13 21:15:26 +0000 2010	4abe44b7f964a520528c20e3	{Toni & Guy Santa Monica Academy}	{34.01730155106939,-118.4944735647231,Santa Monica,CA,United States}	{Shop & Service,}
+3552	Tue Apr 13 05:58:01 +0000 2010	4810bfbbf964a5202f4f1fe3	{The Yard}	{34.01329828637092,-118.49600315093994,Santa Monica,CA,United States}	{Nightlife Spot,Food,}
+3552	Mon Apr 12 22:09:43 +0000 2010	4ae08aa7f964a520288021e3	{Holiday Inn}	{34.01180421302305,-118.49423289299011,SANTA MONICA,CA,United States}	{Travel & Transport,}
+3552	Mon Apr 12 05:00:17 +0000 2010	4223b080f964a520bc1f1fe3	{Cinespace Restaurant & Lounge}	{34.10118617549027,-118.32851014533362,Los Angeles,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+3552	Mon Apr 12 03:27:40 +0000 2010	4a905681f964a520601720e3	{The Piano Bar}	{34.09991700959531,-118.33064997540593,Los Angeles,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+3552	Mon Apr 12 02:26:31 +0000 2010	49e3c0c1f964a520c7621fe3	{In-N-Out Burger}	{34.098239304029015,-118.3416648209095,Hollywood,CA,United States}	{Food,}
+3552	Sun Apr 11 03:41:19 +0000 2010	4c25b776f3859c74223b6588	{Tatou Supper Club}	{34.05640164584884,-118.25815558433533,Los Angeles,CA,United States}	{Nightlife Spot,}
+3552	Sat Apr 10 06:26:50 +0000 2010	4562fe5cf964a520a33d1fe3	{Club 740}	{34.0437126159668,-118.25379760999999,Los Angeles,CA,United States}	{Nightlife Spot,}
+3552	Fri Apr 09 21:33:31 +0000 2010	4a8f73b0f964a520501520e3	{Sweet love hangover}	{34.10153809,-118.331474,Los Angeles,CA,United States}	{Food,}
+3552	Fri Apr 09 01:24:20 +0000 2010	4a596c45f964a5205fb91fe3	{Club Nokia}	{34.04455218329944,-118.26516151428223,Los Angeles,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+3552	Thu Apr 08 04:23:32 +0000 2010	4a73a143f964a520ffdc1fe3	{Izaka-ya by Katsuya}	{34.07304721722809,-118.37389814306742,Los Angeles,CA,United States}	{Food,}
+3552	Thu Apr 08 01:10:13 +0000 2010	4b62a634f964a520db4d2ae3	{W Hollywood}	{34.101067,-118.325845,Los Angeles,CA,United States}	{Nightlife Spot,}
+3552	Tue Apr 06 23:50:48 +0000 2010	4bb6a3d72f70c9b6ceca8530	{SpringHill Suites Marriott}	{35.17791689909626,-111.66345534488427,Flagstaff,AZ,United States}	{Travel & Transport,}
+3552	Sun Apr 04 23:40:29 +0000 2010	4b058661f964a520905f22e3	{Kings Palace Cafe}	{35.139873961953604,-90.05262636836201,Memphis,TN,United States}	{Food,}
+3552	Sun Apr 04 23:21:35 +0000 2010	4b5226caf964a520c06b27e3	{SpringHill Suites by Marriott}	{35.14611512317733,-90.05271756296722,Memphis,TN,United States}	{Travel & Transport,}
+3552	Wed Mar 31 21:12:44 +0000 2010	4a8a103af964a520c90920e3	{Hartsfield-Jackson Atlanta International Airport (ATL)}	{33.640669114843895,-84.43606853485107,Atlanta,GA,United States}	{Travel & Transport,}
+3552	Wed Mar 31 18:17:30 +0000 2010	4aac1b4ef964a520475c20e3	{San Antonio International Airport (SAT)}	{29.52611853089306,-98.4719181060791,San Antonio,TX,United States}	{Travel & Transport,}
+3552	Mon Mar 29 17:09:52 +0000 2010	4af86910f964a520010d22e3	{Taco Garage}	{29.515243066940393,-98.4655642422668,San Antonio,TX,United States}	{Food,}
+3552	Sat Mar 27 00:52:45 +0000 2010	4b57d346f964a520e24228e3	{AT&T Center}	{29.426927033500082,-98.43672752380371,San Antonio,TX,United States}	{Stadium,Arts & Entertainment,}
+3552	Fri Mar 26 22:46:20 +0000 2010	4bad3938f964a520263b3be3	{Tanfastic @ The Forum}	{29.568204,-98.32851757,San Antonio,TX,United States}	{Shop & Service,}
+3552	Fri Mar 26 05:50:20 +0000 2010	4b4d381cf964a52087ce26e3	{Hookah Cafe}	{29.58778,-98.45272421836853,San Antonio,TX,United States}	{Nightlife Spot,}
+3552	Tue Mar 23 20:04:58 +0000 2010	4af86910f964a520010d22e3	{Taco Garage}	{29.515243066940393,-98.4655642422668,San Antonio,TX,United States}	{Food,}
+3552	Sun Mar 21 18:03:27 +0000 2010	49be75ccf964a520ad541fe3	{Torchy's Tacos}	{30.250934991532457,-97.75433331727982,Austin,TX,United States}	{Food,}
+3552	Sun Mar 21 06:51:51 +0000 2010	4ba0541df964a520a46837e3	{The PureVolume House}	{30.263552374314873,-97.74106979370117,Austin,TX,United States}	{Nightlife Spot,Arts & Entertainment,}
+3552	Sun Mar 21 05:37:23 +0000 2010	45f1b019f964a520d3431fe3	{Sheraton Austin Hotel At The Capitol}	{30.270607186664904,-97.73445882376514,Austin,TX,United States}	{Travel & Transport,Convention Center,Professional & Other Places,}
+3552	Sun Mar 21 02:59:32 +0000 2010	4ba3c854f964a520c15e38e3	{Mess With Texas}	{30.264559816666665,-97.732153,Austin,TX,United States}	{Music Venue,Arts & Entertainment,}
+3552	Fri Mar 19 07:59:53 +0000 2010	4ba0541df964a520a46837e3	{The PureVolume House}	{30.263552374314873,-97.74106979370117,Austin,TX,United States}	{Nightlife Spot,Arts & Entertainment,}
+3552	Thu Mar 18 02:30:11 +0000 2010	45f1b019f964a520d3431fe3	{Sheraton Austin Hotel At The Capitol}	{30.270607186664904,-97.73445882376514,Austin,TX,United States}	{Travel & Transport,Convention Center,Professional & Other Places,}
+3552	Wed Mar 17 04:44:29 +0000 2010	441d4341f964a52060311fe3	{Scoot Inn}	{30.262250183600703,-97.72945183271916,Austin,TX,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+3552	Wed Mar 17 02:02:51 +0000 2010	45f4fde8f964a52001441fe3	{The Mohawk}	{30.269913737750787,-97.73610770702362,Austin,TX,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+3552	Tue Mar 16 17:27:09 +0000 2010	4a4422cdf964a52035a71fe3	{Robertson Hill Apartments}	{30.270536770919517,-97.73623840688633,Austin,TX,United States}	{Residence,}
+3552	Sat Mar 13 22:53:59 +0000 2010	4af86910f964a520010d22e3	{Taco Garage}	{29.515243066940393,-98.4655642422668,San Antonio,TX,United States}	{Food,}
+3552	Thu Mar 11 20:00:48 +0000 2010	4af86910f964a520010d22e3	{Taco Garage}	{29.515243066940393,-98.4655642422668,San Antonio,TX,United States}	{Food,}
+3552	Sat Mar 06 06:05:20 +0000 2010	4ad7fdfbf964a520751021e3	{The Grotto}	{29.62566375732422,-98.494288,San Antonio,TX,United States}	{Nightlife Spot,}
+3552	Sat Mar 06 04:18:56 +0000 2010	4b25b6acf964a5209b7524e3	{Green Lantern}	{29.64867168535045,-98.46316398594148,San Antonio,TX,United States}	{Nightlife Spot,}
+3552	Thu Mar 04 02:24:14 +0000 2010	4b7b3a0ef964a5202f592fe3	{Thai Bistro & Sushi}	{29.563344276640013,-98.60088422014529,San Antonio,TX,United States}	{Food,}
+3552	Sun Feb 28 01:52:35 +0000 2010	4ae1192ef964a520338521e3	{Kona Grill}	{29.59254674460012,-98.61366748809814,San Antonio,TX,United States}	{Food,}
+3552	Thu Feb 25 19:59:15 +0000 2010	4b310ef4f964a5204eff24e3	{Las Palapas}	{29.51715773,-98.46193814,San Antonio,TX,United States}	{Food,}
+3552	Thu Feb 25 07:29:04 +0000 2010	4ad7ffa8f964a5207c1021e3	{Chicago Bar}	{29.624929,-98.496144,San Antonio,TX,United States}	{Nightlife Spot,}
+3552	Sun Feb 21 08:34:47 +0000 2010	4b698765f964a52014a62be3	{The Bar}	{34.098194882475305,-118.31770598888397,Hollywood,CA,United States}	{Nightlife Spot,}
+3552	Sun Feb 21 04:41:15 +0000 2010	4b9adf30f964a5201dde35e3	{Lucy's 51}	{34.1523718359934,-118.35233330726624,Toluca Lake,CA,United States}	{Nightlife Spot,Food,}
+3552	Sun Feb 21 03:26:03 +0000 2010	49e3c0c1f964a520c7621fe3	{In-N-Out Burger}	{34.098239304029015,-118.3416648209095,Hollywood,CA,United States}	{Food,}
+3552	Sat Feb 20 09:06:44 +0000 2010	44084533f964a52053301fe3	{Teddy's}	{34.101251030990305,-118.34180831909178,Los Angeles,CA,United States}	{Nightlife Spot,}
+3552	Sat Feb 20 07:22:13 +0000 2010	438cf623f964a520302b1fe3	{Hollywood Roosevelt Hotel}	{34.10128656695182,-118.34167957305908,Los Angeles,CA,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+3552	Sat Feb 20 01:21:24 +0000 2010	3fd66200f964a5206aee1ee3	{Pink's Hot Dogs}	{34.083858829388745,-118.34420084953308,Los Angeles,CA,United States}	{Food,}
+3552	Fri Feb 19 17:41:12 +0000 2010	4a188de0f964a520c8791fe3	{Mondrian Hotel}	{34.09429457916573,-118.37448835372925,West Hollywood,CA,United States}	{Travel & Transport,}
+3552	Fri Feb 19 07:33:00 +0000 2010	4a905681f964a520601720e3	{The Piano Bar}	{34.09991700959531,-118.33064997540593,Los Angeles,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+3552	Fri Feb 19 04:52:39 +0000 2010	4b7c90edf964a520649b2fe3	{Hayworth Apartments}	{34.053315891150525,-118.3637264271307,Los Angeles,CA,United States}	{Residence,}
+3552	Fri Feb 19 02:02:28 +0000 2010	4a1f57cff964a520207c1fe3	{8 oz Burger Bar}	{34.083756,-118.3568286895752,Los Angeles,CA,United States}	{Food,}
+3552	Thu Feb 18 06:27:49 +0000 2010	4a905681f964a520601720e3	{The Piano Bar}	{34.09991700959531,-118.33064997540593,Los Angeles,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+3552	Wed Feb 17 20:54:16 +0000 2010	4161e400f964a520641d1fe3	{Urth Caffe}	{34.08207402627318,-118.3788710304973,West Hollywood,CA,United States}	{Food,}

@@ -1,0 +1,143 @@
+114	Fri Aug 12 06:04:51 +0000 2011	4330a280f964a520fa271fe3	{Supperclub}	{37.78315555661277,-122.39646565606623,San Francisco,CA,United States}	{Nightlife Spot,}
+114	Mon Aug 01 19:35:08 +0000 2011	4c67330819f3c9b6ba5ca2ff	{Urgent Care, Scotts Valley}	{37.050020266666664,-122.01622009277344,Scotts Valley,CA,United States}	{Professional & Other Places,}
+114	Fri Jul 29 15:05:10 +0000 2011	4a1ffc6cf964a520417c1fe3	{Royal Grounds Coffee}	{37.79175442178412,-122.42105713920168,San Francisco,CA,United States}	{Food,}
+114	Thu Jul 28 02:29:22 +0000 2011	4390a026f964a5204d2b1fe3	{AMC Van Ness 14}	{37.785289944969335,-122.42002293049931,San Francisco,CA,United States}	{Arts & Entertainment,Movie Theater,}
+114	Sat Jul 23 20:45:43 +0000 2011	4b50d8c2f964a520143527e3	{Kichi Grill}	{37.784370031905404,-122.40621775797287,San Francisco,CA,United States}	{Food,}
+114	Fri Jul 22 00:03:02 +0000 2011	4bd26d84462cb713c879dc07	{MUNI Metro Stop - Church & 20th}	{37.75821297747208,-122.42799282073973,San Francisco,CA,United States}	{Travel & Transport,Bus Station,}
+114	Tue Jul 19 21:57:18 +0000 2011	457c6a6df964a520093f1fe3	{In-N-Out Burger}	{37.68826935148615,-122.47197300195694,Daly City,CA,United States}	{Food,}
+114	Sun Jul 17 21:18:37 +0000 2011	4b50d8c2f964a520143527e3	{Kichi Grill}	{37.784370031905404,-122.40621775797287,San Francisco,CA,United States}	{Food,}
+===
+114	Sun Jun 12 18:43:30 +0000 2011	4813b6c2f964a520404f1fe3	{Castro Valley BART Station}	{37.69073997327936,-122.07747101783752,Castro Valley,CA,United States}	{Travel & Transport,}
+114	Sun Jun 12 18:14:21 +0000 2011	4ddd26867d8b3654d510a5af	{BART Dublin/Pleasanton - Daly City (Blue Line)}	{37.69986688376866,-121.92813643742299,Oakland,CA,United States}	{Travel & Transport,Train Station,}
+114	Sun May 22 11:01:17 +0000 2011	4a5d7fa0f964a520a9bd1fe3	{Salt Lake City International Airport (SLC)}	{40.78665044119936,-111.98209762573242,Salt Lake City,UT,United States}	{Travel & Transport,}
+114	Wed May 18 12:41:21 +0000 2011	4c55e781a724e21e4813d6f8	{TSA Security Checkpoint}	{37.617800791930435,-122.3870301246643,San Francisco,CA,United States}	{Travel & Transport,Airport,}
+===
+114	Wed Feb 23 19:03:08 +0000 2011	4b05fbe6f964a520ede622e3	{Tully's Coffee}	{37.79094089670738,-122.39753328701352,San Francisco,CA,United States}	{Food,}
+114	Sat Feb 19 18:58:54 +0000 2011	455f7a06f964a520933d1fe3	{Balboa Park BART Station}	{37.72100053142698,-122.44691848754883,San Francisco,CA,United States}	{Travel & Transport,}
+114	Wed Feb 16 02:02:35 +0000 2011	4bdba30e63c5c9b6ec1e2968	{Aldo Shoes}	{37.786819,-122.408082,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+114	Fri Feb 11 21:48:44 +0000 2011	4a5f8994f964a520d5bf1fe3	{Tropisue?o}	{37.78534267732514,-122.40393340587616,San Francisco,CA,United States}	{Food,}
+114	Tue Feb 08 22:50:16 +0000 2011	4acb9931f964a5207fc420e3	{City College of SF - Evans Campus}	{37.74146029928017,-122.38470440371246,San Francisco,CA,United States}	{College & University,}
+114	Tue Feb 08 20:10:04 +0000 2011	4b7efc02f964a5204e0e30e3	{Javalencia}	{37.74198588658891,-122.3880127344801,San Francisco,CA,United States}	{Food,}
+114	Wed Feb 02 02:04:20 +0000 2011	49ebf27bf964a5204a671fe3	{City College of SF - Downtown Campus}	{37.78467980309337,-122.40443667015504,San Francisco,CA,United States}	{College & University,}
+114	Wed Feb 02 01:20:35 +0000 2011	4ac791c1f964a52014b820e3	{Cafe Bellini}	{37.78686991695686,-122.40810943932146,San Francisco,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+114	Wed Feb 02 00:44:05 +0000 2011	4a5612e3f964a52063b41fe3	{SF Muni - K Ingleside / T Third Street}	{37.72996173565652,-122.46951341629028,San Francisco,CA,United States}	{Travel & Transport,}
+114	Tue Feb 01 21:42:13 +0000 2011	4acb9931f964a5207fc420e3	{City College of SF - Evans Campus}	{37.74146029928017,-122.38470440371246,San Francisco,CA,United States}	{College & University,}
+114	Tue Feb 01 20:40:14 +0000 2011	4bbca9388a4fb7138cf33b9d	{Bayshore + Arleta Transit Center}	{37.712360768396195,-122.40291953086853,San Francisco,CA,United States}	{Travel & Transport,Bus Station,}
+114	Tue Feb 01 20:11:00 +0000 2011	4b1adce9f964a52077f323e3	{SF MUNI - 8X/8AX/8BX Bayshore Express}	{37.78558009245828,-122.40569829940796,San Francisco,CA,United States}	{Travel & Transport,Bus Station,}
+114	Tue Feb 01 20:11:00 +0000 2011	4b1adce9f964a52077f323e3	{SF MUNI - 8X/8AX/8BX Bayshore Express}	{37.78558009245828,-122.40569829940796,San Francisco,CA,United States}	{Travel & Transport,Bus Station,}
+114	Sat Jan 29 01:45:42 +0000 2011	455f7871f964a520913d1fe3	{Powell St. BART Station}	{37.78504797811959,-122.4070076486654,San Francisco,CA,United States}	{Travel & Transport,}
+114	Sat Jan 29 00:04:02 +0000 2011	4b50d8c2f964a520143527e3	{Kichi Grill}	{37.784370031905404,-122.40621775797287,San Francisco,CA,United States}	{Food,}
+114	Fri Jan 28 22:29:35 +0000 2011	4a415f56f964a52033a51fe3	{Sassoon Salon}	{37.78944146098006,-122.40631732099772,San Francisco,CA,United States}	{Shop & Service,}
+114	Fri Jan 28 22:29:35 +0000 2011	4a415f56f964a52033a51fe3	{Sassoon Salon}	{37.78944146098006,-122.40631732099772,San Francisco,CA,United States}	{Shop & Service,}
+114	Fri Jan 28 00:49:51 +0000 2011	4b1adce9f964a52077f323e3	{SF MUNI - 8X/8AX/8BX Bayshore Express}	{37.78558009245828,-122.40569829940796,San Francisco,CA,United States}	{Travel & Transport,Bus Station,}
+114	Thu Jan 27 20:31:40 +0000 2011	4b8091dcf964a520a17d30e3	{SUBWAY}	{37.741605,-122.387509,San Francisco,CA,United States}	{Food,}
+114	Thu Jan 27 17:42:55 +0000 2011	4bbca9388a4fb7138cf33b9d	{Bayshore + Arleta Transit Center}	{37.712360768396195,-122.40291953086853,San Francisco,CA,United States}	{Travel & Transport,Bus Station,}
+114	Thu Jan 27 17:31:23 +0000 2011	4b1adce9f964a52077f323e3	{SF MUNI - 8X/8AX/8BX Bayshore Express}	{37.78558009245828,-122.40569829940796,San Francisco,CA,United States}	{Travel & Transport,Bus Station,}
+114	Thu Jan 27 03:44:59 +0000 2011	49ebf27bf964a5204a671fe3	{City College of SF - Downtown Campus}	{37.78467980309337,-122.40443667015504,San Francisco,CA,United States}	{College & University,}
+114	Wed Jan 26 20:34:35 +0000 2011	412d2800f964a520c50c1fe3	{BrainWash Cafe & Laundromat}	{37.776392,-122.408686,San Francisco,CA,United States}	{Shop & Service,Food,}
+114	Wed Jan 26 07:10:36 +0000 2011	4cb680698db0a1436bb06a16	{The Beehive (Home Base)}	{37.72254908670265,-122.44106181790796,San Francisco,CA,United States}	{Residence,}
+114	Wed Jan 26 05:03:38 +0000 2011	455f7871f964a520913d1fe3	{Powell St. BART Station}	{37.78504797811959,-122.4070076486654,San Francisco,CA,United States}	{Travel & Transport,}
+114	Wed Jan 26 02:33:04 +0000 2011	49ebf27bf964a5204a671fe3	{City College of SF - Downtown Campus}	{37.78467980309337,-122.40443667015504,San Francisco,CA,United States}	{College & University,}
+114	Wed Jan 26 01:24:26 +0000 2011	4b50d8c2f964a520143527e3	{Kichi Grill}	{37.784370031905404,-122.40621775797287,San Francisco,CA,United States}	{Food,}
+114	Wed Jan 26 00:40:34 +0000 2011	4a611bd8f964a520e1c11fe3	{SF MUNI - 19 Polk}	{37.78103580453662,-122.4170032040199,San Francisco,CA,United States}	{Travel & Transport,Bus Station,}
+114	Wed Jan 26 00:17:41 +0000 2011	4afcc5faf964a520c42522e3	{FedEx Ship Center}	{37.74819353673507,-122.3948392958787,San Francisco,CA,United States}	{Shop & Service,}
+114	Tue Jan 25 22:54:24 +0000 2011	4acb9931f964a5207fc420e3	{City College of SF - Evans Campus}	{37.74146029928017,-122.38470440371246,San Francisco,CA,United States}	{College & University,}
+114	Tue Jan 25 22:54:24 +0000 2011	4acb9931f964a5207fc420e3	{City College of SF - Evans Campus}	{37.74146029928017,-122.38470440371246,San Francisco,CA,United States}	{College & University,}
+114	Tue Jan 25 17:35:16 +0000 2011	4bbca9388a4fb7138cf33b9d	{Bayshore + Arleta Transit Center}	{37.712360768396195,-122.40291953086853,San Francisco,CA,United States}	{Travel & Transport,Bus Station,}
+114	Tue Jan 25 17:01:24 +0000 2011	4b1adce9f964a52077f323e3	{SF MUNI - 8X/8AX/8BX Bayshore Express}	{37.78558009245828,-122.40569829940796,San Francisco,CA,United States}	{Travel & Transport,Bus Station,}
+114	Tue Jan 25 16:53:55 +0000 2011	4b6733dff964a5202d412be3	{City College: Community Health & Wellness Center}	{37.72399620613363,-122.44944512844086,San Francisco,CA,United States}	{Outdoors & Recreation,College & University,Athletics & Sports,}
+114	Sun Jan 23 20:55:50 +0000 2011	455f7a06f964a520933d1fe3	{Balboa Park BART Station}	{37.72100053142698,-122.44691848754883,San Francisco,CA,United States}	{Travel & Transport,}
+114	Sun Jan 23 18:16:22 +0000 2011	4c4caaa639f9d13a4a672694	{Care Wash & Dry Coin Laundry}	{37.71700859069824,-122.44084596633911,San Francisco,CA,United States}	{Shop & Service,}
+114	Sat Jan 22 03:57:05 +0000 2011	40870b00f964a520abf21ee3	{Orphan Andy's}	{37.76257963,-122.43504,San Francisco,CA,United States}	{Food,}
+114	Fri Jan 21 22:16:51 +0000 2011	4d3e44203ec9a35d1d065981	{The Franciscan Crab Restaurant}	{37.809153924463196,-122.41471346342875,San Francisco,CA,United States}	{Food,}
+114	Fri Jan 21 20:39:10 +0000 2011	4ba7f1b9f964a520b8c039e3	{Boudin Bakery & Cafe}	{37.808428,-122.414738,San Francisco,CA,United States}	{Food,}
+114	Fri Jan 21 19:31:37 +0000 2011	455f7a06f964a520933d1fe3	{Balboa Park BART Station}	{37.72100053142698,-122.44691848754883,San Francisco,CA,United States}	{Travel & Transport,}
+114	Thu Jan 20 21:26:40 +0000 2011	4acb9931f964a5207fc420e3	{City College of SF - Evans Campus}	{37.74146029928017,-122.38470440371246,San Francisco,CA,United States}	{College & University,}
+114	Thu Jan 20 04:20:25 +0000 2011	435ad280f964a52006291fe3	{Mel's Drive-In}	{37.78441844686463,-122.40456640720367,San Francisco,CA,United States}	{Food,}
+114	Thu Jan 20 04:19:50 +0000 2011	49ebf27bf964a5204a671fe3	{City College of SF - Downtown Campus}	{37.78467980309337,-122.40443667015504,San Francisco,CA,United States}	{College & University,}
+114	Thu Jan 20 01:00:24 +0000 2011	4d0c2235eea9b60c69ba563f	{BART Pittsburg/Bay Point/SFO (Yellow Line) Train}	{37.61655278218827,-122.39163628855941,South San Francisco,CA,United States}	{Travel & Transport,Train Station,}
+114	Thu Jan 20 00:59:33 +0000 2011	455f7a06f964a520933d1fe3	{Balboa Park BART Station}	{37.72100053142698,-122.44691848754883,San Francisco,CA,United States}	{Travel & Transport,}
+114	Wed Jan 19 03:47:35 +0000 2011	40a2ba80f964a520fcf21ee3	{Edinburgh Castle}	{37.786141,-122.41893793,San Francisco,CA,United States}	{Nightlife Spot,}
+114	Mon Jan 17 02:32:18 +0000 2011	4a7e4593f964a520a8f11fe3	{Benihana}	{37.785385072940564,-122.43060529232025,San Francisco,CA,United States}	{Food,}
+114	Mon Jan 17 01:18:52 +0000 2011	40ca4780f964a52009011fe3	{The Caf?}	{37.76296711864107,-122.43435770273209,San Francisco,CA,United States}	{Nightlife Spot,}
+114	Mon Jan 17 00:47:49 +0000 2011	4735a4c2f964a520344c1fe3	{Lookout}	{37.764353,-122.433365,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+114	Sat Jan 15 21:40:20 +0000 2011	4b50d8c2f964a520143527e3	{Kichi Grill}	{37.784370031905404,-122.40621775797287,San Francisco,CA,United States}	{Food,}
+114	Fri Jan 14 02:52:34 +0000 2011	49cc413df964a5205a591fe3	{California Academy of Sciences}	{37.7697648824009,-122.46631622314455,San Francisco,CA,United States}	{Museum,Arts & Entertainment,}
+114	Tue Jan 04 19:08:31 +0000 2011	4a415f56f964a52033a51fe3	{Sassoon Salon}	{37.78944146098006,-122.40631732099772,San Francisco,CA,United States}	{Shop & Service,}
+114	Mon Jan 03 22:36:36 +0000 2011	4a6b9ea9f964a52063cf1fe3	{Hard Rock Cafe}	{37.80858030567975,-122.41001397371292,San Francisco,CA,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+114	Fri Dec 31 20:26:57 +0000 2010	4c06fa50cf8c76b023673b65	{American Gasoline}	{37.12520374,-122.12259426,Boulder Creek,CA,United States}	{Shop & Service,}
+114	Fri Dec 31 04:57:53 +0000 2010	4ad55cd8f964a520e70221e3	{Red Restaurant and Bar}	{36.97513383091898,-122.02802535670943,Santa Cruz,CA,United States}	{Nightlife Spot,}
+114	Thu Dec 30 20:33:59 +0000 2010	464f9e51f964a520ca461fe3	{Crow's Nest Restaurant}	{36.96331653118003,-122.00147791567431,Santa Cruz,CA,United States}	{Food,}
+114	Sat Dec 25 01:02:24 +0000 2010	49b44b96f964a520ea521fe3	{Fabric Outlet}	{37.763223,-122.419437,San Francisco,CA,United States}	{Shop & Service,}
+114	Fri Dec 24 23:16:04 +0000 2010	455f7a06f964a520933d1fe3	{Balboa Park BART Station}	{37.72100053142698,-122.44691848754883,San Francisco,CA,United States}	{Travel & Transport,}
+114	Thu Dec 23 21:53:18 +0000 2010	4813c4f3f964a5204e4f1fe3	{San Leandro BART Station}	{37.722466842327876,-122.16119536029737,San Leandro,CA,United States}	{Travel & Transport,}
+114	Wed Dec 22 04:43:06 +0000 2010	4bcf9643462cb713fb10d707	{Sizzler}	{40.69803178310394,-111.93860198,Salt Lake City,UT,United States}	{Food,}
+114	Wed Dec 22 01:45:07 +0000 2010	4ad4f28ff964a5204cfd20e3	{Temple Square}	{40.77045058765374,-111.89244747161865,Salt Lake City,UT,United States}	{Outdoors & Recreation,Government Building,Arts & Entertainment,Professional & Other Places,}
+114	Sat Dec 04 07:18:52 +0000 2010	410c3280f964a520ba0b1fe3	{Butter}	{37.77109824243092,-122.41324225110944,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+114	Wed Dec 01 21:23:57 +0000 2010	4a5aaa99f964a520baba1fe3	{Frjtz}	{37.76349142529405,-122.42180928458654,San Francisco,CA,United States}	{Food,}
+114	Tue Nov 30 20:31:41 +0000 2010	4a5612e3f964a52063b41fe3	{SF Muni - K Ingleside / T Third Street}	{37.72996173565652,-122.46951341629028,San Francisco,CA,United States}	{Travel & Transport,}
+114	Wed Nov 24 22:32:23 +0000 2010	4bf9e69a8d30d13a0c000318	{Cafe Cruz}	{36.98492166973166,-121.96537704340048,Soquel,CA,United States}	{Food,}
+114	Wed Nov 24 20:11:17 +0000 2010	4ced713f28abb60c08feb709	{Oh Suzannah!}	{37.12413847446442,-122.12167918682098,Boulder Creek,CA,United States}	{Shop & Service,}
+114	Tue Nov 23 22:22:12 +0000 2010	43f2ed24f964a520922f1fe3	{City College of San Francisco, Ocean Campus}	{37.72570190445349,-122.45015323162079,San Francisco,CA,United States}	{Shop & Service,College & University,Gym / Fitness Center,}
+114	Wed Nov 17 23:53:13 +0000 2010	49ebf27bf964a5204a671fe3	{City College of SF - Downtown Campus}	{37.78467980309337,-122.40443667015504,San Francisco,CA,United States}	{College & University,}
+114	Tue Nov 16 02:51:34 +0000 2010	49df8e23f964a520db601fe3	{Noe's Bar}	{37.7517324,-122.427291,San Francisco,CA,United States}	{Nightlife Spot,}
+114	Tue Nov 16 01:40:02 +0000 2010	4b3eeebef964a5202fa325e3	{The Peaks}	{37.751021,-122.434202,San Francisco,CA,United States}	{Nightlife Spot,}
+114	Mon Nov 15 22:31:10 +0000 2010	43728d80f964a520102a1fe3	{Tres}	{37.78021262835114,-122.39134311676025,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+114	Mon Nov 15 20:40:42 +0000 2010	4c4caaa639f9d13a4a672694	{Care Wash & Dry Coin Laundry}	{37.71700859069824,-122.44084596633911,San Francisco,CA,United States}	{Shop & Service,}
+114	Sat Nov 13 21:48:38 +0000 2010	4ab595e1f964a520877520e3	{Mission Dolores Park}	{37.76005771562691,-122.42678658144186,San Francisco,CA,United States}	{Outdoors & Recreation,}
+114	Sat Nov 13 21:04:22 +0000 2010	4abff08bf964a520219320e3	{16th St. Mission BART Station}	{37.76489493179778,-122.42010035824161,San Francisco,CA,United States}	{Travel & Transport,}
+114	Fri Nov 12 05:26:11 +0000 2010	4bd26d84462cb713c879dc07	{MUNI Metro Stop - Church & 20th}	{37.75821297747208,-122.42799282073973,San Francisco,CA,United States}	{Travel & Transport,Bus Station,}
+114	Wed Nov 03 01:19:19 +0000 2010	4acb9931f964a5207fc420e3	{City College of SF - Evans Campus}	{37.74146029928017,-122.38470440371246,San Francisco,CA,United States}	{College & University,}
+114	Tue Nov 02 21:06:23 +0000 2010	4cb680698db0a1436bb06a16	{The Beehive (Home Base)}	{37.72254908670265,-122.44106181790796,San Francisco,CA,United States}	{Residence,}
+114	Tue Nov 02 19:59:16 +0000 2010	4abff08bf964a520219320e3	{16th St. Mission BART Station}	{37.76489493179778,-122.42010035824161,San Francisco,CA,United States}	{Travel & Transport,}
+114	Tue Nov 02 19:03:29 +0000 2010	4a5612e3f964a52063b41fe3	{SF Muni - K Ingleside / T Third Street}	{37.72996173565652,-122.46951341629028,San Francisco,CA,United States}	{Travel & Transport,}
+114	Tue Nov 02 04:40:28 +0000 2010	4cb680698db0a1436bb06a16	{The Beehive (Home Base)}	{37.72254908670265,-122.44106181790796,San Francisco,CA,United States}	{Residence,}
+114	Mon Nov 01 05:46:15 +0000 2010	4cb680698db0a1436bb06a16	{The Beehive (Home Base)}	{37.72254908670265,-122.44106181790796,San Francisco,CA,United States}	{Residence,}
+114	Sat Oct 30 19:50:15 +0000 2010	45df6218f964a5201a431fe3	{Mas Sake Freestyle Sushi}	{37.80014930184792,-122.43523638474873,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+114	Sat Oct 30 03:18:12 +0000 2010	45df6218f964a5201a431fe3	{Mas Sake Freestyle Sushi}	{37.80014930184792,-122.43523638474873,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+114	Thu Oct 21 06:09:30 +0000 2010	4cb680698db0a1436bb06a16	{The Beehive (Home Base)}	{37.72254908670265,-122.44106181790796,San Francisco,CA,United States}	{Residence,}
+114	Thu Oct 21 00:29:00 +0000 2010	49ebf27bf964a5204a671fe3	{City College of SF - Downtown Campus}	{37.78467980309337,-122.40443667015504,San Francisco,CA,United States}	{College & University,}
+114	Tue Oct 19 08:21:27 +0000 2010	4cb680698db0a1436bb06a16	{The Beehive (Home Base)}	{37.72254908670265,-122.44106181790796,San Francisco,CA,United States}	{Residence,}
+114	Tue Oct 19 00:37:43 +0000 2010	49972b39f964a52089521fe3	{Humphry Slocombe}	{37.7528095950639,-122.41196125745773,San Francisco,CA,United States}	{Food,}
+114	Sun Oct 17 22:01:16 +0000 2010	4089ae00f964a520bdf21ee3	{People's Cafe}	{37.77011714661275,-122.4457810937172,San Francisco,CA,United States}	{Food,}
+114	Sun Oct 17 02:41:30 +0000 2010	4a3f1064f964a520afa31fe3	{SONIC Drive In}	{37.75773103695544,-121.46079661483253,Tracy,CA,United States}	{Food,}
+114	Sun Oct 17 01:52:25 +0000 2010	4bf1ceb652bda593d200b2b7	{Interstate 5 N}	{37.28172757852742,-121.09783125996994,Newman,CA,United States}	{Travel & Transport,}
+114	Sat Oct 16 21:28:26 +0000 2010	4c005c988c1076b0590a2071	{Lady Studio Exotic Shoes}	{34.101585,-118.331268,Hollywood,CA,United States}	{Shop & Service,Clothing Store,}
+114	Sat Oct 16 21:25:14 +0000 2010	4b578df1f964a520823828e3	{Maya's Shoes}	{34.10245924530946,-118.33159446716309,Hollywood,CA,United States}	{Shop & Service,Clothing Store,}
+114	Sat Oct 16 21:06:22 +0000 2010	4b4e9c49f964a52099f226e3	{Tony's Shoes}	{34.10166405,-118.33118071,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,}
+114	Sat Oct 16 19:20:06 +0000 2010	4b1ed85ef964a5206d2024e3	{Los Angeles Fashion District}	{34.03761774628442,-118.255934715271,Los Angeles,CA,United States}	{Shop & Service,}
+114	Fri Oct 15 03:14:48 +0000 2010	4a5612e3f964a52063b41fe3	{SF Muni - K Ingleside / T Third Street}	{37.72996173565652,-122.46951341629028,San Francisco,CA,United States}	{Travel & Transport,}
+114	Thu Oct 14 20:00:48 +0000 2010	4c7bf78fbd346dcb4bc8fcef	{Wok In Chinese American Food}	{37.74351,-122.383792,San Francisco,CA,United States}	{Food,}
+114	Thu Oct 14 17:52:02 +0000 2010	4acb9931f964a5207fc420e3	{City College of SF - Evans Campus}	{37.74146029928017,-122.38470440371246,San Francisco,CA,United States}	{College & University,}
+114	Thu Oct 14 04:00:58 +0000 2010	4cb680698db0a1436bb06a16	{The Beehive (Home Base)}	{37.72254908670265,-122.44106181790796,San Francisco,CA,United States}	{Residence,}
+114	Wed Oct 13 20:38:11 +0000 2010	49f5f683f964a520e06b1fe3	{Peasant Pies}	{37.751355,-122.434357,San Francisco,CA,United States}	{Food,}
+114	Wed Oct 13 20:14:23 +0000 2010	4b0098b5f964a520d33f22e3	{Quickly ???}	{37.78441844686463,-122.4177360534668,San Francisco,CA,United States}	{Food,}
+114	Wed Oct 13 03:04:40 +0000 2010	4acb9931f964a5207fc420e3	{City College of SF - Evans Campus}	{37.74146029928017,-122.38470440371246,San Francisco,CA,United States}	{College & University,}
+114	Mon Oct 11 20:59:06 +0000 2010	4ab595e1f964a520877520e3	{Mission Dolores Park}	{37.76005771562691,-122.42678658144186,San Francisco,CA,United States}	{Outdoors & Recreation,}
+114	Mon Oct 11 20:58:44 +0000 2010	4c08a97aa1b32d7fbf6c96f0	{The Summit}	{37.760553988302846,-122.42168006462327,San Francisco,CA,United States}	{Food,}
+114	Fri Oct 08 01:41:25 +0000 2010	4acb9931f964a5207fc420e3	{City College of SF - Evans Campus}	{37.74146029928017,-122.38470440371246,San Francisco,CA,United States}	{College & University,}
+114	Tue Oct 05 17:04:21 +0000 2010	4acb9931f964a5207fc420e3	{City College of SF - Evans Campus}	{37.74146029928017,-122.38470440371246,San Francisco,CA,United States}	{College & University,}
+114	Tue Oct 05 16:49:30 +0000 2010	4bbb870a51b89c746152862a	{Tiffany's Cafe}	{37.74174562235951,-122.3873875896387,San Francisco,CA,United States}	{Food,}
+114	Tue Sep 28 19:10:01 +0000 2010	4acb9931f964a5207fc420e3	{City College of SF - Evans Campus}	{37.74146029928017,-122.38470440371246,San Francisco,CA,United States}	{College & University,}
+114	Mon Sep 27 23:38:04 +0000 2010	4c05623d13b99c749537aff3	{Earthjustice Ad}	{37.72198495914296,-122.44747638702393,San Francisco,CA,United States}	{Arts & Entertainment,}
+114	Fri Sep 24 23:41:27 +0000 2010	45603082f964a520973d1fe3	{Americano Restaurant & Bar}	{37.793793320327836,-122.39285333218187,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+114	Fri Sep 24 21:35:08 +0000 2010	4c05623d13b99c749537aff3	{Earthjustice Ad}	{37.72198495914296,-122.44747638702393,San Francisco,CA,United States}	{Arts & Entertainment,}
+===
+114	Mon Aug 23 22:36:27 +0000 2010	4de7a6447d8b1f2dd29cde68	{BART Fremont/Daly City (Green Line) Train}	{37.7930386190363,-122.26502594671948,San Francisco,CA,United States}	{Travel & Transport,Train Station,}
+114	Mon Aug 23 22:32:15 +0000 2010	4c05623d13b99c749537aff3	{Earthjustice Ad}	{37.72198495914296,-122.44747638702393,San Francisco,CA,United States}	{Arts & Entertainment,}
+114	Mon Aug 16 23:21:35 +0000 2010	4de7a6447d8b1f2dd29cde68	{BART Fremont/Daly City (Green Line) Train}	{37.7930386190363,-122.26502594671948,San Francisco,CA,United States}	{Travel & Transport,Train Station,}
+114	Mon Aug 16 23:19:32 +0000 2010	4c05623d13b99c749537aff3	{Earthjustice Ad}	{37.72198495914296,-122.44747638702393,San Francisco,CA,United States}	{Arts & Entertainment,}
+114	Mon Aug 16 02:24:58 +0000 2010	4813bd9cf964a520424f1fe3	{24th St. Mission BART Station}	{37.75206982929254,-122.41871771139375,San Francisco,CA,United States}	{Travel & Transport,}
+114	Mon Aug 16 02:14:32 +0000 2010	4c38b35a3849c928afedbfb1	{Dublin / Pleasanton Train}	{37.722174525260925,-122.44732081890106,San Francisco,CA,United States}	{Travel & Transport,}
+114	Mon Aug 16 02:13:58 +0000 2010	4c05623d13b99c749537aff3	{Earthjustice Ad}	{37.72198495914296,-122.44747638702393,San Francisco,CA,United States}	{Arts & Entertainment,}
+114	Sun Aug 15 02:02:52 +0000 2010	4c66127cf7a80f4745639d7a	{S curve}	{37.821105,-122.331176,Oakland,CA,United States}	{Outdoors & Recreation,}
+114	Sun Aug 15 02:01:57 +0000 2010	4a71e4cff964a520ccd91fe3	{San Francisco-Oakland Bay Bridge}	{37.81534420993673,-122.35495090484619,San Francisco,CA,United States}	{Outdoors & Recreation,}
+114	Sun Aug 15 02:00:31 +0000 2010	4a71e4cff964a520ccd91fe3	{San Francisco-Oakland Bay Bridge}	{37.81534420993673,-122.35495090484619,San Francisco,CA,United States}	{Outdoors & Recreation,}
+114	Sun Aug 15 01:39:53 +0000 2010	4a9b21fef964a520853420e3	{Buffalo Exchange}	{37.863784,-122.258445,Berkeley,CA,United States}	{Shop & Service,}
+114	Sat Aug 14 23:50:56 +0000 2010	4a6a67a4f964a5205dcd1fe3	{American Apparel}	{37.86852424001949,-122.25913818257669,Berkeley,CA,United States}	{Shop & Service,Clothing Store,}
+114	Sat Aug 14 04:22:47 +0000 2010	4839ec98f964a52013501fe3	{Sushi Groove South}	{37.77171363,-122.414283,San Francisco,CA,United States}	{Food,}
+114	Sat Aug 14 02:40:16 +0000 2010	49c99371f964a5207d581fe3	{Potrero Center}	{37.766316342766466,-122.4094258524531,San Francisco,CA,United States}	{Shop & Service,}
+===
+114	Thu May 06 22:15:33 +0000 2010	45cf404cf964a5209f421fe3	{Jamba Juice}	{37.766259,-122.40901,San Francisco,CA,United States}	{Food,}
+114	Thu May 06 22:08:52 +0000 2010	4b1215a0f964a520ec8823e3	{Blockbuster}	{37.76597499847412,-122.408168,San Francisco,CA,United States}	{Shop & Service,}
+114	Thu May 06 22:07:43 +0000 2010	49c99371f964a5207d581fe3	{Potrero Center}	{37.766316342766466,-122.4094258524531,San Francisco,CA,United States}	{Shop & Service,}

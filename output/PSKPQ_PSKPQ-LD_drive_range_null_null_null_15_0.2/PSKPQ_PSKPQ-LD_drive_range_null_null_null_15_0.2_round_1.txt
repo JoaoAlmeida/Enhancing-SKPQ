@@ -1,0 +1,4 @@
+#categoryName experimentName dataset neighborhood plusMode queryType numQueries numKeywords numResults radius item value min max observations
+PSKPQ PSKPQ-LD drive range null null null 15 0.2 nodesAccessed 0.0 - 9223372036854775807 0 0
+PSKPQ PSKPQ-LD drive range null null null 15 0.2 pageFaults 0.0 - 9223372036854775807 0 0
+PSKPQ PSKPQ-LD drive range null null null 15 0.2 totalExecutionTime 1692.0 - 1692 1692 1

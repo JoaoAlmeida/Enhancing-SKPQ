@@ -1,0 +1,887 @@
+1680	Fri Aug 12 18:47:17 +0000 2011	4c13dd68a5eb76b0f0bcc0b7	{US Post Office}	{38.101057,-122.260352,Vallejo,CA,United States}	{Professional & Other Places,}
+1680	Fri Aug 12 16:06:45 +0000 2011	4b8d7d97f964a520eafe32e3	{State Farm}	{38.10355407408272,-122.264909634679,Vallejo,CA,United States}	{Professional & Other Places,}
+1680	Fri Aug 12 16:03:28 +0000 2011	4d8a76d61508a143b6b4251e	{Vallejo Marina}	{38.106905837576406,-122.266194598746,Vallejo,CA,United States}	{Outdoors & Recreation,}
+1680	Fri Aug 12 16:01:06 +0000 2011	4c15a1cb7f7f2d7fefdbe268	{Mare Island}	{38.101665705978384,-122.27677834665917,Vallejo,CA,United States}	{Outdoors & Recreation,}
+1680	Fri Aug 12 04:30:59 +0000 2011	4a8c3e40f964a5206d0d20e3	{Screamin' Mimi's}	{38.402638526227506,-122.8229695558548,Sebastopol,CA,United States}	{Food,}
+1680	Fri Aug 12 01:12:02 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Fri Aug 12 01:08:43 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Fri Aug 12 00:11:33 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Fri Aug 12 00:07:12 +0000 2011	4b5f7959f964a52073bc29e3	{Rohnert Park - Cotati Regional Library}	{38.34888945090782,-122.70435819992716,Rohnert Park,CA,United States}	{College & University,Professional & Other Places,}
+1680	Fri Aug 12 00:07:12 +0000 2011	4b5f7959f964a52073bc29e3	{Rohnert Park - Cotati Regional Library}	{38.34888945090782,-122.70435819992716,Rohnert Park,CA,United States}	{College & University,Professional & Other Places,}
+1680	Thu Aug 11 16:05:20 +0000 2011	4b8d7d97f964a520eafe32e3	{State Farm}	{38.10355407408272,-122.264909634679,Vallejo,CA,United States}	{Professional & Other Places,}
+1680	Thu Aug 11 15:11:48 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Thu Aug 11 15:11:18 +0000 2011	4e14ff97aeb733245ecbb83d	{Highway 12 & Fulton Intersection}	{38.4283580782661,-122.76890656413009,Santa Rosa,CA,United States}	{Travel & Transport,}
+1680	Thu Aug 11 00:42:57 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Thu Aug 11 00:40:03 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Wed Aug 10 19:25:17 +0000 2011	4b9be602f964a520263336e3	{John F. Kennedy Library}	{38.10174631622616,-122.26039552170388,Vallejo,CA,United States}	{Professional & Other Places,}
+1680	Wed Aug 10 19:21:22 +0000 2011	4c269d11136d20a1b8b7e561	{Vallejo Yacht Club}	{38.105033287323394,-122.26598967017055,Vallejo,CA,United States}	{Outdoors & Recreation,}
+1680	Wed Aug 10 19:20:20 +0000 2011	4d8a76d61508a143b6b4251e	{Vallejo Marina}	{38.106905837576406,-122.266194598746,Vallejo,CA,United States}	{Outdoors & Recreation,}
+1680	Wed Aug 10 19:19:19 +0000 2011	4df7a20a1495dd5ffb86be9a	{The Stairs Of Champs}	{38.105258328128464,-122.26318155512176,Vallejo,CA,United States}	{Outdoors & Recreation,}
+1680	Wed Aug 10 18:27:49 +0000 2011	4b8d7d97f964a520eafe32e3	{State Farm}	{38.10355407408272,-122.264909634679,Vallejo,CA,United States}	{Professional & Other Places,}
+1680	Wed Aug 10 15:43:24 +0000 2011	4c8ad2791eafb1f7c9157e35	{Mare Island Causeway Bridge}	{38.120614178543065,-122.27972030639648,Vallejo,CA,United States}	{Outdoors & Recreation,}
+1680	Wed Aug 10 15:38:16 +0000 2011	4de551218877a085f8af6310	{Highway 37 @ Sears Point}	{38.15117932152741,-122.44874238967896,Sonoma,CA,United States}	{Travel & Transport,}
+1680	Wed Aug 10 15:33:52 +0000 2011	4c15a1cb7f7f2d7fefdbe268	{Mare Island}	{38.101665705978384,-122.27677834665917,Vallejo,CA,United States}	{Outdoors & Recreation,}
+1680	Wed Aug 10 14:50:36 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Wed Aug 10 14:48:06 +0000 2011	4b5f7959f964a52073bc29e3	{Rohnert Park - Cotati Regional Library}	{38.34888945090782,-122.70435819992716,Rohnert Park,CA,United States}	{College & University,Professional & Other Places,}
+1680	Wed Aug 10 14:35:54 +0000 2011	4c3156c0a0ced13a7794136e	{California Hwy 12}	{38.42812289755473,-122.76912704024646,Santa Rosa,CA,United States}	{Travel & Transport,}
+1680	Wed Aug 10 14:34:57 +0000 2011	4e14ff97aeb733245ecbb83d	{Highway 12 & Fulton Intersection}	{38.4283580782661,-122.76890656413009,Santa Rosa,CA,United States}	{Travel & Transport,}
+1680	Wed Aug 10 14:34:26 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Wed Aug 10 02:00:10 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Wed Aug 10 01:19:45 +0000 2011	4a874cc9f964a520b60320e3	{Hook & Ladder Winery}	{38.47244015,-122.81304566666667,Santa Rosa,CA,United States}	{Nightlife Spot,Food,}
+1680	Wed Aug 10 00:58:57 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Tue Aug 09 19:19:28 +0000 2011	4d8a76d61508a143b6b4251e	{Vallejo Marina}	{38.106905837576406,-122.266194598746,Vallejo,CA,United States}	{Outdoors & Recreation,}
+1680	Tue Aug 09 19:17:07 +0000 2011	4d8a76d61508a143b6b4251e	{Vallejo Marina}	{38.106905837576406,-122.266194598746,Vallejo,CA,United States}	{Outdoors & Recreation,}
+1680	Tue Aug 09 18:51:07 +0000 2011	4b8ae3c4f964a5207b8732e3	{St. Vincent Ferrer Catholic Church}	{38.10545344100292,-122.25864887237549,Vallejo,CA,United States}	{Spiritual Center,Professional & Other Places,}
+1680	Tue Aug 09 16:34:20 +0000 2011	4b8d7d97f964a520eafe32e3	{State Farm}	{38.10355407408272,-122.264909634679,Vallejo,CA,United States}	{Professional & Other Places,}
+1680	Tue Aug 09 16:25:56 +0000 2011	4c15a1cb7f7f2d7fefdbe268	{Mare Island}	{38.101665705978384,-122.27677834665917,Vallejo,CA,United States}	{Outdoors & Recreation,}
+1680	Tue Aug 09 15:31:39 +0000 2011	4838dd4ef964a52000501fe3	{Costco Gasoline Emporium}	{38.35182067919209,-122.71689891815186,Rohnert Park,CA,United States}	{Shop & Service,}
+1680	Tue Aug 09 15:19:13 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Tue Aug 09 15:18:52 +0000 2011	4e14ff97aeb733245ecbb83d	{Highway 12 & Fulton Intersection}	{38.4283580782661,-122.76890656413009,Santa Rosa,CA,United States}	{Travel & Transport,}
+1680	Tue Aug 09 15:18:22 +0000 2011	4c3156c0a0ced13a7794136e	{California Hwy 12}	{38.42812289755473,-122.76912704024646,Santa Rosa,CA,United States}	{Travel & Transport,}
+1680	Tue Aug 09 00:42:08 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Tue Aug 09 00:38:44 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Tue Aug 09 00:26:52 +0000 2011	4e14ff97aeb733245ecbb83d	{Highway 12 & Fulton Intersection}	{38.4283580782661,-122.76890656413009,Santa Rosa,CA,United States}	{Travel & Transport,}
+1680	Tue Aug 09 00:05:04 +0000 2011	4c31576b452620a1cf8c200f	{Highway 101}	{38.23534862402563,-122.61900901794434,Petaluma,CA,United States}	{Travel & Transport,}
+1680	Tue Aug 09 00:03:59 +0000 2011	4ceece2c7db3224be897292e	{Petaluma bridge}	{38.23130343880136,-122.61669158935545,Petaluma,CA,United States}	{Outdoors & Recreation,}
+1680	Mon Aug 08 19:13:43 +0000 2011	4d8a76d61508a143b6b4251e	{Vallejo Marina}	{38.106905837576406,-122.266194598746,Vallejo,CA,United States}	{Outdoors & Recreation,}
+1680	Mon Aug 08 19:09:02 +0000 2011	4c13dd68a5eb76b0f0bcc0b7	{US Post Office}	{38.101057,-122.260352,Vallejo,CA,United States}	{Professional & Other Places,}
+1680	Mon Aug 08 18:57:55 +0000 2011	4df7a20a1495dd5ffb86be9a	{The Stairs Of Champs}	{38.105258328128464,-122.26318155512176,Vallejo,CA,United States}	{Outdoors & Recreation,}
+1680	Mon Aug 08 16:30:44 +0000 2011	4b8d7d97f964a520eafe32e3	{State Farm}	{38.10355407408272,-122.264909634679,Vallejo,CA,United States}	{Professional & Other Places,}
+1680	Mon Aug 08 15:22:31 +0000 2011	4c708d7d9a669c7451a6debd	{Inspiration Vineyards & Winery}	{38.47206437495762,-122.74428188737201,Santa Rosa,CA,United States}	{Food,}
+1680	Mon Aug 08 04:48:10 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Mon Aug 08 04:44:09 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Mon Aug 08 02:49:14 +0000 2011	4a980f97f964a520472a20e3	{Starlight Wine Bar & Restaurant}	{38.4023651,-122.819869,Sebastopol,CA,United States}	{Nightlife Spot,Food,}
+1680	Mon Aug 08 02:37:35 +0000 2011	4d866dbff9f3a1cdfdf6df64	{12 Highway}	{38.44981243160755,-122.6854937955625,,,United States}	{}
+1680	Mon Aug 08 02:30:28 +0000 2011	4c0a7542009a0f473060e9bf	{Fresh by Lisa Hemenway}	{38.46298140146755,-122.64344930648804,Santa Rosa,CA,United States}	{Food,}
+1680	Sun Aug 07 21:30:55 +0000 2011	4c708d7d9a669c7451a6debd	{Inspiration Vineyards & Winery}	{38.47206437495762,-122.74428188737201,Santa Rosa,CA,United States}	{Food,}
+1680	Sun Aug 07 01:11:16 +0000 2011	4a874a34f964a520aa0320e3	{Pellegrini Family Vineyard}	{38.474256016666665,-122.82119,Santa Rosa,CA,United States}	{Travel & Transport,Food,}
+1680	Sat Aug 06 22:18:10 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Sat Aug 06 22:06:32 +0000 2011	4c7db5b7d461a143e82e7ef5	{Graton, CA}	{38.43641321853435,-122.8665018081665,Graton,CA,United States}	{Outdoors & Recreation,}
+1680	Sat Aug 06 21:31:37 +0000 2011	4c0c15d17e3fc928134ff682	{Dutton Goldfield Tasting Room}	{38.437324,-122.8584,Sebastopol,CA,United States}	{Food,}
+1680	Sat Aug 06 21:13:23 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Sat Aug 06 20:59:49 +0000 2011	4dc5b58745dd264552787234	{Town Of Fulton}	{38.49621377893274,-122.7700254754764,,CA,United States}	{Outdoors & Recreation,}
+1680	Sat Aug 06 20:58:36 +0000 2011	4bbfb05f4cdfc9b681b59121	{Mike's Truck Garden}	{38.496658,-122.773804,Fulton,CA,United States}	{Food,}
+1680	Sat Aug 06 20:00:26 +0000 2011	4b314deff964a520530425e3	{Kendall-Jackson Wine Estate & Gardens}	{38.506836974010476,-122.77204513549805,Santa Rosa,CA,United States}	{Food,}
+1680	Sat Aug 06 02:48:16 +0000 2011	4c43f454f799e21e3836ada2	{LoCoco's Cucina Rustica}	{38.437762,-122.72012946666666,Santa Rosa,CA,United States}	{Food,}
+1680	Sat Aug 06 02:16:58 +0000 2011	4c09c1eca1b32d7f705598f0	{Fabulous Finds}	{38.437709102685126,-122.72043983913238,Santa Rosa,CA,United States}	{Shop & Service,Clothing Store,}
+1680	Sat Aug 06 01:53:38 +0000 2011	4df1a8441850de4d97a97bf0	{Sack's on the Square}	{38.437644376695125,-122.71991908550262,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Sat Aug 06 01:47:44 +0000 2011	4b7dbabbf964a52009d12fe3	{Daredevils & Queens}	{38.437665,-122.7198846,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Sat Aug 06 01:42:35 +0000 2011	4c09223732daef3b09674b50	{Summer Nights | Railroad Sqaure}	{38.43765698230148,-122.72054672241211,Santa Rosa,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+1680	Sat Aug 06 01:34:44 +0000 2011	4c3156c0a0ced13a7794136e	{California Hwy 12}	{38.42812289755473,-122.76912704024646,Santa Rosa,CA,United States}	{Travel & Transport,}
+1680	Sat Aug 06 01:33:49 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Sat Aug 06 01:33:30 +0000 2011	4e14ff97aeb733245ecbb83d	{Highway 12 & Fulton Intersection}	{38.4283580782661,-122.76890656413009,Santa Rosa,CA,United States}	{Travel & Transport,}
+1680	Fri Aug 05 23:10:56 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Fri Aug 05 23:03:26 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Fri Aug 05 19:09:21 +0000 2011	4d8a76d61508a143b6b4251e	{Vallejo Marina}	{38.106905837576406,-122.266194598746,Vallejo,CA,United States}	{Outdoors & Recreation,}
+1680	Fri Aug 05 18:39:37 +0000 2011	4c269d11136d20a1b8b7e561	{Vallejo Yacht Club}	{38.105033287323394,-122.26598967017055,Vallejo,CA,United States}	{Outdoors & Recreation,}
+1680	Fri Aug 05 15:57:00 +0000 2011	4b8d7d97f964a520eafe32e3	{State Farm}	{38.10355407408272,-122.264909634679,Vallejo,CA,United States}	{Professional & Other Places,}
+1680	Fri Aug 05 15:51:14 +0000 2011	4c8ad2791eafb1f7c9157e35	{Mare Island Causeway Bridge}	{38.120614178543065,-122.27972030639648,Vallejo,CA,United States}	{Outdoors & Recreation,}
+1680	Fri Aug 05 15:50:03 +0000 2011	4c56f458d12a20a1d19165bd	{City of Vallejo}	{38.102110226899164,-122.26038694381714,Vallejo,CA,United States}	{Outdoors & Recreation,}
+1680	Fri Aug 05 01:41:32 +0000 2011	4bfef2fe9454952132881a4d	{Windsor Farmers Market}	{38.548408757490684,-122.81366229057312,Windsor,CA,United States}	{Shop & Service,Food,}
+1680	Fri Aug 05 01:38:54 +0000 2011	4ba2a3ecf964a520c60b38e3	{Windsor Town Green}	{38.54865910792397,-122.81433106552983,Windsor,CA,United States}	{Outdoors & Recreation,}
+1680	Fri Aug 05 00:58:47 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Fri Aug 05 00:46:13 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Thu Aug 04 16:19:59 +0000 2011	4b8d7d97f964a520eafe32e3	{State Farm}	{38.10355407408272,-122.264909634679,Vallejo,CA,United States}	{Professional & Other Places,}
+1680	Thu Aug 04 15:31:44 +0000 2011	4838dd4ef964a52000501fe3	{Costco Gasoline Emporium}	{38.35182067919209,-122.71689891815186,Rohnert Park,CA,United States}	{Shop & Service,}
+1680	Thu Aug 04 15:19:36 +0000 2011	4c3156c0a0ced13a7794136e	{California Hwy 12}	{38.42812289755473,-122.76912704024646,Santa Rosa,CA,United States}	{Travel & Transport,}
+1680	Thu Aug 04 15:19:01 +0000 2011	4e14ff97aeb733245ecbb83d	{Highway 12 & Fulton Intersection}	{38.4283580782661,-122.76890656413009,Santa Rosa,CA,United States}	{Travel & Transport,}
+1680	Thu Aug 04 15:18:50 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Thu Aug 04 00:16:00 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Thu Aug 04 00:12:26 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Wed Aug 03 23:16:00 +0000 2011	4bd5e47d4e32d13a4aacc180	{Sonoma county}	{38.15209144580814,-122.45404138802319,Sonoma,CA,United States}	{Outdoors & Recreation,}
+1680	Wed Aug 03 16:13:22 +0000 2011	4b8d7d97f964a520eafe32e3	{State Farm}	{38.10355407408272,-122.264909634679,Vallejo,CA,United States}	{Professional & Other Places,}
+1680	Wed Aug 03 16:02:58 +0000 2011	4c8ad2791eafb1f7c9157e35	{Mare Island Causeway Bridge}	{38.120614178543065,-122.27972030639648,Vallejo,CA,United States}	{Outdoors & Recreation,}
+1680	Wed Aug 03 16:01:43 +0000 2011	4c15a1cb7f7f2d7fefdbe268	{Mare Island}	{38.101665705978384,-122.27677834665917,Vallejo,CA,United States}	{Outdoors & Recreation,}
+1680	Wed Aug 03 15:54:03 +0000 2011	4de551218877a085f8af6310	{Highway 37 @ Sears Point}	{38.15117932152741,-122.44874238967896,Sonoma,CA,United States}	{Travel & Transport,}
+1680	Wed Aug 03 15:06:54 +0000 2011	4c3156c0a0ced13a7794136e	{California Hwy 12}	{38.42812289755473,-122.76912704024646,Santa Rosa,CA,United States}	{Travel & Transport,}
+1680	Wed Aug 03 15:06:06 +0000 2011	4e14ff97aeb733245ecbb83d	{Highway 12 & Fulton Intersection}	{38.4283580782661,-122.76890656413009,Santa Rosa,CA,United States}	{Travel & Transport,}
+1680	Wed Aug 03 15:05:51 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Wed Aug 03 05:25:20 +0000 2011	4a8c3e40f964a5206d0d20e3	{Screamin' Mimi's}	{38.402638526227506,-122.8229695558548,Sebastopol,CA,United States}	{Food,}
+1680	Wed Aug 03 03:47:38 +0000 2011	4a874cc9f964a520b60320e3	{Hook & Ladder Winery}	{38.47244015,-122.81304566666667,Santa Rosa,CA,United States}	{Nightlife Spot,Food,}
+1680	Wed Aug 03 00:47:21 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Wed Aug 03 00:44:30 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Tue Aug 02 23:53:06 +0000 2011	4bd5e47d4e32d13a4aacc180	{Sonoma county}	{38.15209144580814,-122.45404138802319,Sonoma,CA,United States}	{Outdoors & Recreation,}
+1680	Tue Aug 02 16:07:50 +0000 2011	4b8d7d97f964a520eafe32e3	{State Farm}	{38.10355407408272,-122.264909634679,Vallejo,CA,United States}	{Professional & Other Places,}
+1680	Tue Aug 02 16:06:33 +0000 2011	4c56f458d12a20a1d19165bd	{City of Vallejo}	{38.102110226899164,-122.26038694381714,Vallejo,CA,United States}	{Outdoors & Recreation,}
+1680	Tue Aug 02 16:02:17 +0000 2011	4c15a1cb7f7f2d7fefdbe268	{Mare Island}	{38.101665705978384,-122.27677834665917,Vallejo,CA,United States}	{Outdoors & Recreation,}
+1680	Tue Aug 02 16:01:01 +0000 2011	4c8ad2791eafb1f7c9157e35	{Mare Island Causeway Bridge}	{38.120614178543065,-122.27972030639648,Vallejo,CA,United States}	{Outdoors & Recreation,}
+1680	Tue Aug 02 15:09:33 +0000 2011	4c3156c0a0ced13a7794136e	{California Hwy 12}	{38.42812289755473,-122.76912704024646,Santa Rosa,CA,United States}	{Travel & Transport,}
+1680	Tue Aug 02 15:09:17 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Tue Aug 02 15:08:52 +0000 2011	4e14ff97aeb733245ecbb83d	{Highway 12 & Fulton Intersection}	{38.4283580782661,-122.76890656413009,Santa Rosa,CA,United States}	{Travel & Transport,}
+1680	Tue Aug 02 00:58:12 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Tue Aug 02 00:41:12 +0000 2011	4e14ff97aeb733245ecbb83d	{Highway 12 & Fulton Intersection}	{38.4283580782661,-122.76890656413009,Santa Rosa,CA,United States}	{Travel & Transport,}
+1680	Mon Aug 01 23:56:27 +0000 2011	4bd5e47d4e32d13a4aacc180	{Sonoma county}	{38.15209144580814,-122.45404138802319,Sonoma,CA,United States}	{Outdoors & Recreation,}
+1680	Mon Aug 01 15:08:36 +0000 2011	4b8d7d97f964a520eafe32e3	{State Farm}	{38.10355407408272,-122.264909634679,Vallejo,CA,United States}	{Professional & Other Places,}
+1680	Mon Aug 01 15:08:36 +0000 2011	4b8d7d97f964a520eafe32e3	{State Farm}	{38.10355407408272,-122.264909634679,Vallejo,CA,United States}	{Professional & Other Places,}
+1680	Mon Aug 01 15:07:35 +0000 2011	4c15a1cb7f7f2d7fefdbe268	{Mare Island}	{38.101665705978384,-122.27677834665917,Vallejo,CA,United States}	{Outdoors & Recreation,}
+1680	Mon Aug 01 15:04:33 +0000 2011	4c8ad2791eafb1f7c9157e35	{Mare Island Causeway Bridge}	{38.120614178543065,-122.27972030639648,Vallejo,CA,United States}	{Outdoors & Recreation,}
+1680	Mon Aug 01 14:51:42 +0000 2011	4ded39c67d8bb216741fc6da	{Hwy 37}	{38.15405636339659,-122.44032916376275,Sonoma,CA,United States}	{Travel & Transport,}
+1680	Mon Aug 01 14:14:08 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Mon Aug 01 03:20:34 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Mon Aug 01 03:18:48 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Sat Jul 30 20:29:04 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Sat Jul 30 19:18:36 +0000 2011	4b9bf886f964a520f73b36e3	{Friedman's Home Improvement}	{38.380948,-122.7140282,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Sat Jul 30 19:01:32 +0000 2011	4d11231c99b78cfa3293c7d5	{Highway 101}	{38.428754172392054,-122.71514480489355,Santa Rosa,CA,United States}	{Travel & Transport,}
+1680	Sat Jul 30 18:58:41 +0000 2011	4b898f6af964a520bb4132e3	{Freeman Toyota}	{38.40797347637138,-122.71767702152492,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Sat Jul 30 18:09:27 +0000 2011	4df6222614954f21cf36cdd1	{Hansel BMW, Subaru and Volkswagen}	{38.409368,-122.716955,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Sat Jul 30 17:26:36 +0000 2011	4b23d304f964a520805a24e3	{Manly Honda}	{38.412054616666666,-122.717158,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Sat Jul 30 17:18:24 +0000 2011	4c3156c0a0ced13a7794136e	{California Hwy 12}	{38.42812289755473,-122.76912704024646,Santa Rosa,CA,United States}	{Travel & Transport,}
+1680	Sat Jul 30 17:17:44 +0000 2011	4e14ff97aeb733245ecbb83d	{Highway 12 & Fulton Intersection}	{38.4283580782661,-122.76890656413009,Santa Rosa,CA,United States}	{Travel & Transport,}
+1680	Sat Jul 30 17:17:30 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Fri Jul 29 23:22:26 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Fri Jul 29 22:50:15 +0000 2011	4c89ac3a1797236a8d5a5b88	{Umpqua Bank}	{38.44654228473028,-122.70192036438608,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Fri Jul 29 20:46:25 +0000 2011	4c708d7d9a669c7451a6debd	{Inspiration Vineyards & Winery}	{38.47206437495762,-122.74428188737201,Santa Rosa,CA,United States}	{Food,}
+1680	Fri Jul 29 20:34:32 +0000 2011	4d2e05e9ad3a8cfab44f90bd	{Alexander Valley Cellars}	{38.52357195704022,-122.79824221849235,Windsor,CA,United States}	{Food,}
+1680	Fri Jul 29 20:32:06 +0000 2011	4d11231c99b78cfa3293c7d5	{Highway 101}	{38.428754172392054,-122.71514480489355,Santa Rosa,CA,United States}	{Travel & Transport,}
+1680	Fri Jul 29 19:30:05 +0000 2011	4a874ec0f964a520c30320e3	{Willi's Wine Bar}	{38.492523735647644,-122.7422309404788,Santa Rosa,CA,United States}	{Nightlife Spot,}
+1680	Fri Jul 29 19:01:08 +0000 2011	4c708d7d9a669c7451a6debd	{Inspiration Vineyards & Winery}	{38.47206437495762,-122.74428188737201,Santa Rosa,CA,United States}	{Food,}
+1680	Fri Jul 29 16:30:29 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Fri Jul 29 15:46:10 +0000 2011	4b5f7959f964a52073bc29e3	{Rohnert Park - Cotati Regional Library}	{38.34888945090782,-122.70435819992716,Rohnert Park,CA,United States}	{College & University,Professional & Other Places,}
+1680	Fri Jul 29 15:38:37 +0000 2011	4838dd4ef964a52000501fe3	{Costco Gasoline Emporium}	{38.35182067919209,-122.71689891815186,Rohnert Park,CA,United States}	{Shop & Service,}
+1680	Thu Jul 28 23:45:13 +0000 2011	4d0d3a99e0b98cfa968cda93	{Olivet Kennel and Dog Training Resort}	{38.482212,-122.81684158333333,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Thu Jul 28 22:00:39 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Thu Jul 28 21:49:05 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Thu Jul 28 19:36:32 +0000 2011	4b205acef964a520133124e3	{French Garden Bistro}	{38.398435,-122.84023225307465,Sebastopol,CA,United States}	{Food,}
+1680	Thu Jul 28 19:26:49 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Thu Jul 28 19:26:35 +0000 2011	4c3156c0a0ced13a7794136e	{California Hwy 12}	{38.42812289755473,-122.76912704024646,Santa Rosa,CA,United States}	{Travel & Transport,}
+1680	Thu Jul 28 15:59:52 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Thu Jul 28 15:41:23 +0000 2011	4bd73cb735aad13a28758ef3	{AMPM}	{38.45227102687187,-122.77008610578876,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Thu Jul 28 15:30:39 +0000 2011	4d0d3a99e0b98cfa968cda93	{Olivet Kennel and Dog Training Resort}	{38.482212,-122.81684158333333,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Thu Jul 28 00:12:59 +0000 2011	4a874cc9f964a520b60320e3	{Hook & Ladder Winery}	{38.47244015,-122.81304566666667,Santa Rosa,CA,United States}	{Nightlife Spot,Food,}
+1680	Wed Jul 27 23:37:23 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Wed Jul 27 23:34:47 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Wed Jul 27 23:05:39 +0000 2011	4b5f7959f964a52073bc29e3	{Rohnert Park - Cotati Regional Library}	{38.34888945090782,-122.70435819992716,Rohnert Park,CA,United States}	{College & University,Professional & Other Places,}
+1680	Wed Jul 27 15:45:41 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Wed Jul 27 15:40:15 +0000 2011	4838dd4ef964a52000501fe3	{Costco Gasoline Emporium}	{38.35182067919209,-122.71689891815186,Rohnert Park,CA,United States}	{Shop & Service,}
+1680	Wed Jul 27 15:26:23 +0000 2011	4c3156c0a0ced13a7794136e	{California Hwy 12}	{38.42812289755473,-122.76912704024646,Santa Rosa,CA,United States}	{Travel & Transport,}
+1680	Wed Jul 27 15:26:23 +0000 2011	4c3156c0a0ced13a7794136e	{California Hwy 12}	{38.42812289755473,-122.76912704024646,Santa Rosa,CA,United States}	{Travel & Transport,}
+1680	Wed Jul 27 15:25:05 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Wed Jul 27 15:24:48 +0000 2011	4e14ff97aeb733245ecbb83d	{Highway 12 & Fulton Intersection}	{38.4283580782661,-122.76890656413009,Santa Rosa,CA,United States}	{Travel & Transport,}
+1680	Wed Jul 27 00:11:36 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Wed Jul 27 00:07:18 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Tue Jul 26 20:26:15 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Tue Jul 26 20:22:05 +0000 2011	4b5f7959f964a52073bc29e3	{Rohnert Park - Cotati Regional Library}	{38.34888945090782,-122.70435819992716,Rohnert Park,CA,United States}	{College & University,Professional & Other Places,}
+1680	Tue Jul 26 20:11:08 +0000 2011	4b873f0ef964a52068b831e3	{Spreckels Performing Arts Center}	{38.344258,-122.687034,Rohnert Park,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+1680	Tue Jul 26 20:04:21 +0000 2011	4d48687dc3e5a35d2e899d4f	{Tasty Tuesday}	{38.344587,-122.68709186666666,,,United States}	{Food,}
+1680	Tue Jul 26 20:02:13 +0000 2011	4c6ed1bfd7fab1f7837c59c9	{City of Rohnert Park}	{38.36359892841914,-122.71359443664551,Rohnert,CA,United States}	{Outdoors & Recreation,}
+1680	Tue Jul 26 15:48:39 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Tue Jul 26 15:35:11 +0000 2011	4c3156c0a0ced13a7794136e	{California Hwy 12}	{38.42812289755473,-122.76912704024646,Santa Rosa,CA,United States}	{Travel & Transport,}
+1680	Tue Jul 26 15:33:04 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Tue Jul 26 15:32:28 +0000 2011	4e14ff97aeb733245ecbb83d	{Highway 12 & Fulton Intersection}	{38.4283580782661,-122.76890656413009,Santa Rosa,CA,United States}	{Travel & Transport,}
+1680	Tue Jul 26 00:43:54 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Tue Jul 26 00:34:58 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Tue Jul 26 00:19:58 +0000 2011	4c3156c0a0ced13a7794136e	{California Hwy 12}	{38.42812289755473,-122.76912704024646,Santa Rosa,CA,United States}	{Travel & Transport,}
+1680	Tue Jul 26 00:04:20 +0000 2011	4b5f7959f964a52073bc29e3	{Rohnert Park - Cotati Regional Library}	{38.34888945090782,-122.70435819992716,Rohnert Park,CA,United States}	{College & University,Professional & Other Places,}
+1680	Mon Jul 25 23:56:37 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Mon Jul 25 17:50:17 +0000 2011	4b8d7d97f964a520eafe32e3	{State Farm}	{38.10355407408272,-122.264909634679,Vallejo,CA,United States}	{Professional & Other Places,}
+1680	Mon Jul 25 15:03:52 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Mon Jul 25 14:48:41 +0000 2011	4e14ff97aeb733245ecbb83d	{Highway 12 & Fulton Intersection}	{38.4283580782661,-122.76890656413009,Santa Rosa,CA,United States}	{Travel & Transport,}
+1680	Mon Jul 25 14:48:00 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Sun Jul 24 21:51:13 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Sun Jul 24 21:40:34 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Sun Jul 24 21:35:50 +0000 2011	4dc5b58745dd264552787234	{Town Of Fulton}	{38.49621377893274,-122.7700254754764,,CA,United States}	{Outdoors & Recreation,}
+1680	Sun Jul 24 21:27:14 +0000 2011	4c5f2a92832fa593d0e6ecd3	{City of Healdsburg}	{38.60987045619198,-122.8694200515747,Healdsburg,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Sun Jul 24 21:11:53 +0000 2011	4c700bd5b3ce224b388f72c6	{Highway 101}	{38.7784023381845,-123.00600924538982,Cloverdale,CA,United States}	{Travel & Transport,}
+1680	Sun Jul 24 20:33:30 +0000 2011	4b88e2daf964a520021232e3	{Boonville, Ca}	{39.008002505566445,-123.36617843809984,Boonville,CA,United States}	{Travel & Transport,}
+1680	Sun Jul 24 20:13:09 +0000 2011	4ce817379f776ea855f55b22	{Foursight Wines}	{39.00475677215987,-123.36286374124373,Booneville,CA,United States}	{Outdoors & Recreation,}
+1680	Sat Jul 23 02:49:41 +0000 2011	4c322ede3896e21e1a1be890	{Mendocino Art Center}	{39.30703634460109,-123.80305205185248,Mendocino,CA,United States}	{Shop & Service,}
+1680	Sat Jul 23 02:44:54 +0000 2011	4c35483b4308b713b2a6c430	{Sallie Mac}	{39.30674775441824,-123.7987545132637,Mendocino,CA,United States}	{Shop & Service,}
+1680	Sat Jul 23 02:43:46 +0000 2011	4df512fda809141629a818bc	{Mendocino Theatre Company}	{39.307205,-123.802472,Mendocino,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+1680	Fri Jul 22 20:39:32 +0000 2011	4c1d20d2b9f876b0af157d46	{Harvest Market}	{39.42127425606338,-123.8065422268363,Fort Bragg,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1680	Fri Jul 22 19:49:27 +0000 2011	4c61a969eb82d13aeb8603d6	{North Coast Brewing Co. Taproom & Grill}	{39.446388,-123.80570411682129,Fort Bragg,CA,United States}	{Nightlife Spot,Food,}
+1680	Fri Jul 22 19:17:20 +0000 2011	4c0460d49a7920a19440d179	{Northcoast Artists Gallery}	{39.445275,-123.80564811666666,Fort Bragg,CA,United States}	{Arts & Entertainment,}
+1680	Fri Jul 22 18:48:45 +0000 2011	4c66edc9e1da1b8dd2749cc3	{Ace Hardware}	{39.44094892834567,-123.80622593513436,Ft Bragg,CA,United States}	{Shop & Service,}
+1680	Thu Jul 21 21:55:07 +0000 2011	4c7db5b7d461a143e82e7ef5	{Graton, CA}	{38.43641321853435,-122.8665018081665,Graton,CA,United States}	{Outdoors & Recreation,}
+1680	Thu Jul 21 18:46:46 +0000 2011	4ca372196bb1b71391d77f69	{Sonoma Canopy Tours}	{38.43038172419134,-122.9113442670076,Occidental,CA,United States}	{Outdoors & Recreation,}
+1680	Thu Jul 21 05:39:34 +0000 2011	4d1cae2bddc854817f2fca60	{Mocha Mama's}	{38.347110156821586,-122.70607899002768,Rohnert Park,CA,United States}	{Food,}
+1680	Thu Jul 21 04:07:19 +0000 2011	4b6b487ff964a52006fe2be3	{Kindred Fair Trade Handcrafts}	{38.44061813581221,-122.7138663061596,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Thu Jul 21 03:14:44 +0000 2011	49fcfd2df964a520f66e1fe3	{Mary's Pizza Shack}	{38.44086503755895,-122.7135756611824,Santa Rosa,CA,United States}	{Food,}
+1680	Thu Jul 21 02:35:09 +0000 2011	4bfda7084cf820a1fccbecf4	{Wednesday Night Market}	{38.44119486881837,-122.71237134933472,Santa Rosa,CA,United States}	{Shop & Service,Food,}
+1680	Thu Jul 21 02:24:13 +0000 2011	4bc79fd66501c9b630d33e29	{Sole Desire Shoes}	{38.457646,-122.730225,Santa Rosa,CA,United States}	{Shop & Service,Clothing Store,}
+1680	Thu Jul 21 02:14:45 +0000 2011	4ba7bc10f964a52057ae39e3	{Old Navy}	{38.45806595,-122.729634,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Thu Jul 21 01:59:22 +0000 2011	4b9c0974f964a520744336e3	{Coddingtown Mall}	{38.4570502,-122.7293015,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Thu Jul 21 01:58:36 +0000 2011	4b5f752cf964a52086bb29e3	{Northwest Santa Rosa Library}	{38.45907755,-122.730736,Santa Rosa,CA,United States}	{College & University,Professional & Other Places,}
+1680	Wed Jul 20 23:32:02 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Wed Jul 20 23:29:35 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Wed Jul 20 18:03:21 +0000 2011	4b5f7959f964a52073bc29e3	{Rohnert Park - Cotati Regional Library}	{38.34888945090782,-122.70435819992716,Rohnert Park,CA,United States}	{College & University,Professional & Other Places,}
+1680	Wed Jul 20 16:10:15 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Wed Jul 20 16:04:25 +0000 2011	4838dd4ef964a52000501fe3	{Costco Gasoline Emporium}	{38.35182067919209,-122.71689891815186,Rohnert Park,CA,United States}	{Shop & Service,}
+1680	Wed Jul 20 15:52:32 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Wed Jul 20 02:33:10 +0000 2011	4a874cc9f964a520b60320e3	{Hook & Ladder Winery}	{38.47244015,-122.81304566666667,Santa Rosa,CA,United States}	{Nightlife Spot,Food,}
+1680	Wed Jul 20 00:23:53 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Wed Jul 20 00:19:43 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Tue Jul 19 23:59:47 +0000 2011	4b7dbabbf964a52009d12fe3	{Daredevils & Queens}	{38.437665,-122.7198846,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Tue Jul 19 22:54:56 +0000 2011	4b24b4d7f964a520846924e3	{Historic Railroad Square}	{38.437638992100325,-122.72091960223793,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Tue Jul 19 22:53:20 +0000 2011	4df1a8441850de4d97a97bf0	{Sack's on the Square}	{38.437644376695125,-122.71991908550262,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Tue Jul 19 22:44:20 +0000 2011	44dc9a3cf964a520b2361fe3	{Aroma Roasters}	{38.43808142,-122.72138176666667,Santa Rosa,CA,United States}	{Food,}
+1680	Tue Jul 19 21:36:40 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Tue Jul 19 20:47:22 +0000 2011	4d48687dc3e5a35d2e899d4f	{Tasty Tuesday}	{38.344587,-122.68709186666666,,,United States}	{Food,}
+1680	Tue Jul 19 16:45:12 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Tue Jul 19 16:18:25 +0000 2011	4b5f7959f964a52073bc29e3	{Rohnert Park - Cotati Regional Library}	{38.34888945090782,-122.70435819992716,Rohnert Park,CA,United States}	{College & University,Professional & Other Places,}
+1680	Tue Jul 19 16:05:43 +0000 2011	4e14ff97aeb733245ecbb83d	{Highway 12 & Fulton Intersection}	{38.4283580782661,-122.76890656413009,Santa Rosa,CA,United States}	{Travel & Transport,}
+1680	Tue Jul 19 16:04:10 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Tue Jul 19 02:32:39 +0000 2011	4c54bca21b46c9b6540a09cf	{Perkins Family Vineyard}	{38.46982115,-122.81976699829102,Santa Rosa,CA,United States}	{Food,}
+1680	Tue Jul 19 02:15:30 +0000 2011	4a874a34f964a520aa0320e3	{Pellegrini Family Vineyard}	{38.474256016666665,-122.82119,Santa Rosa,CA,United States}	{Travel & Transport,Food,}
+1680	Mon Jul 18 23:32:39 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Mon Jul 18 16:37:45 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Mon Jul 18 15:48:00 +0000 2011	4b0d933ef964a5205c4b23e3	{Target}	{38.346814181432364,-122.71991595730472,Rohnert Park,CA,United States}	{Shop & Service,}
+1680	Mon Jul 18 15:36:54 +0000 2011	4e14ff97aeb733245ecbb83d	{Highway 12 & Fulton Intersection}	{38.4283580782661,-122.76890656413009,Santa Rosa,CA,United States}	{Travel & Transport,}
+1680	Mon Jul 18 15:36:08 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Sat Jul 16 19:56:31 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Sat Jul 16 19:50:32 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Sat Jul 16 19:39:53 +0000 2011	4b65f68bf964a520520b2be3	{Mom's Apple Pie}	{38.4516978263855,-122.868262,Sebastopol,CA,United States}	{Food,}
+1680	Fri Jul 15 05:09:17 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Fri Jul 15 05:02:22 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Fri Jul 15 04:39:00 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Fri Jul 15 04:22:22 +0000 2011	4ba2da4af964a5203c1e38e3	{Highway 101}	{38.18527362202721,-122.60085582733154,Novato,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Fri Jul 15 04:21:45 +0000 2011	4c3fd5abda3dc9286891c6b9	{Sonoma County}	{38.19031033604957,-122.60001999170306,Petaluma,CA,United States}	{Outdoors & Recreation,}
+1680	Fri Jul 15 03:56:13 +0000 2011	4b89622bf964a520e03032e3	{Waldo / Rainbow Tunnel}	{37.841529422174844,-122.48599290847778,Sausalito,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Fri Jul 15 03:53:17 +0000 2011	49d01698f964a520fd5a1fe3	{Golden Gate Bridge}	{37.81700118722001,-122.47821718454361,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Fri Jul 15 00:25:15 +0000 2011	4a4ec460f964a52005af1fe3	{Fort Mason Firehouse}	{37.80763093619796,-122.42975234985352,San Francisco,CA,United States}	{Arts & Entertainment,}
+1680	Fri Jul 15 00:11:11 +0000 2011	4c47aed719fde21e5f3c0976	{Golden Gate Bridge Toll Plaza}	{37.80719862997888,-122.47566103935242,San Francisco,CA,United States}	{Travel & Transport,}
+1680	Fri Jul 15 00:07:57 +0000 2011	49d01698f964a520fd5a1fe3	{Golden Gate Bridge}	{37.81700118722001,-122.47821718454361,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Fri Jul 15 00:06:00 +0000 2011	4b89622bf964a520e03032e3	{Waldo / Rainbow Tunnel}	{37.841529422174844,-122.48599290847778,Sausalito,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Thu Jul 14 23:44:06 +0000 2011	4c3fd5abda3dc9286891c6b9	{Sonoma County}	{38.19031033604957,-122.60001999170306,Petaluma,CA,United States}	{Outdoors & Recreation,}
+1680	Thu Jul 14 23:43:26 +0000 2011	4ba2da4af964a5203c1e38e3	{Highway 101}	{38.18527362202721,-122.60085582733154,Novato,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Thu Jul 14 21:21:08 +0000 2011	4b5f7959f964a52073bc29e3	{Rohnert Park - Cotati Regional Library}	{38.34888945090782,-122.70435819992716,Rohnert Park,CA,United States}	{College & University,Professional & Other Places,}
+1680	Thu Jul 14 15:40:33 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Thu Jul 14 15:24:41 +0000 2011	4e14ff97aeb733245ecbb83d	{Highway 12 & Fulton Intersection}	{38.4283580782661,-122.76890656413009,Santa Rosa,CA,United States}	{Travel & Transport,}
+1680	Thu Jul 14 15:24:26 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Thu Jul 14 02:01:22 +0000 2011	4a874cc9f964a520b60320e3	{Hook & Ladder Winery}	{38.47244015,-122.81304566666667,Santa Rosa,CA,United States}	{Nightlife Spot,Food,}
+1680	Thu Jul 14 01:39:32 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Wed Jul 13 23:40:35 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Wed Jul 13 16:39:21 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Wed Jul 13 02:13:51 +0000 2011	4a874cc9f964a520b60320e3	{Hook & Ladder Winery}	{38.47244015,-122.81304566666667,Santa Rosa,CA,United States}	{Nightlife Spot,Food,}
+1680	Wed Jul 13 01:51:49 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Wed Jul 13 00:33:57 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Wed Jul 13 00:04:45 +0000 2011	4c708d7d9a669c7451a6debd	{Inspiration Vineyards & Winery}	{38.47206437495762,-122.74428188737201,Santa Rosa,CA,United States}	{Food,}
+1680	Tue Jul 12 18:52:13 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Tue Jul 12 18:33:17 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Tue Jul 12 18:31:51 +0000 2011	4e14ff97aeb733245ecbb83d	{Highway 12 & Fulton Intersection}	{38.4283580782661,-122.76890656413009,Santa Rosa,CA,United States}	{Travel & Transport,}
+1680	Tue Jul 12 04:10:42 +0000 2011	4c708d7d9a669c7451a6debd	{Inspiration Vineyards & Winery}	{38.47206437495762,-122.74428188737201,Santa Rosa,CA,United States}	{Food,}
+1680	Tue Jul 12 03:46:27 +0000 2011	4da3a187bf22a143e6ddccf8	{Healdsburg Food & Wine Club}	{38.6144,-122.85419,Healdsburg,CA,United States}	{}
+1680	Tue Jul 12 01:15:45 +0000 2011	4b970c2df964a5203af534e3	{Tayman Park (golf club)}	{38.614562663562,-122.85467416694414,Healdsburg,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1680	Tue Jul 12 00:57:08 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Tue Jul 12 00:53:33 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Tue Jul 12 00:22:02 +0000 2011	4b5f7959f964a52073bc29e3	{Rohnert Park - Cotati Regional Library}	{38.34888945090782,-122.70435819992716,Rohnert Park,CA,United States}	{College & University,Professional & Other Places,}
+1680	Mon Jul 11 19:55:32 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Mon Jul 11 16:44:30 +0000 2011	4838dd4ef964a52000501fe3	{Costco Gasoline Emporium}	{38.35182067919209,-122.71689891815186,Rohnert Park,CA,United States}	{Shop & Service,}
+1680	Mon Jul 11 16:32:06 +0000 2011	4e14ff97aeb733245ecbb83d	{Highway 12 & Fulton Intersection}	{38.4283580782661,-122.76890656413009,Santa Rosa,CA,United States}	{Travel & Transport,}
+1680	Mon Jul 11 03:01:06 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Mon Jul 11 02:48:48 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Mon Jul 11 02:39:24 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Mon Jul 11 01:29:00 +0000 2011	4bef27da2ff520a1c334e8a2	{Fentons Creamery & Restaurant}	{38.370275983374235,-121.96121698770436,Vacaville,CA,United States}	{Food,}
+1680	Sun Jul 10 04:03:05 +0000 2011	4e1774d1b61c3f2c4879b494	{Iron Door Restaurant}	{39.761723375588964,-120.69528579711914,Johnsville,CA,United States}	{Food,}
+1680	Sat Jul 09 21:11:03 +0000 2011	4c708d7d9a669c7451a6debd	{Inspiration Vineyards & Winery}	{38.47206437495762,-122.74428188737201,Santa Rosa,CA,United States}	{Food,}
+1680	Sat Jul 09 20:05:28 +0000 2011	4bccc05d0245eee1994b25b9	{Chalet View Lodge}	{39.79307275220299,-120.53144574165344,Graeagle,CA,United States}	{Travel & Transport,Hotel,}
+1680	Sat Jul 09 20:05:28 +0000 2011	4bccc05d0245eee1994b25b9	{Chalet View Lodge}	{39.79307275220299,-120.53144574165344,Graeagle,CA,United States}	{Travel & Transport,Hotel,}
+1680	Sat Jul 09 19:49:55 +0000 2011	4d3ee774978476eb67b857fc	{Ace Hardware}	{39.809853159892604,-120.47210091959631,Portola,CA,United States}	{Shop & Service,}
+1680	Sat Jul 09 19:36:27 +0000 2011	4d3ee79e978476eb76f657fc	{Ace Hardware}	{39.78074159152499,-120.61642481162721,Blairsden,CA,United States}	{Shop & Service,}
+1680	Sat Jul 09 19:28:49 +0000 2011	4dc9aea4185083d439426ef7	{Graegle Post Office}	{39.76922855402402,-120.61961592611176,Graeagle,CA,United States}	{Professional & Other Places,}
+1680	Sat Jul 09 19:28:24 +0000 2011	4bbccf09a8cf76b0a2fbb0fd	{Herb Rowe Memorial Park}	{39.76825560417452,-120.6194136747714,Graeagle,CA,United States}	{Outdoors & Recreation,}
+1680	Sat Jul 09 19:28:24 +0000 2011	4bbccf09a8cf76b0a2fbb0fd	{Herb Rowe Memorial Park}	{39.76825560417452,-120.6194136747714,Graeagle,CA,United States}	{Outdoors & Recreation,}
+1680	Sat Jul 09 19:27:41 +0000 2011	4bdcb2362a3a0f47f4fdb3b6	{Chevron}	{39.76647730987598,-120.61860466616902,Graeagle,CA,United States}	{Shop & Service,}
+1680	Sat Jul 09 19:22:25 +0000 2011	4c4b5a79712ac9281e1cc76c	{Graeagle Market}	{39.76606918903447,-120.61841926763397,Blairsden-Graeagle,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1680	Fri Jul 08 21:01:42 +0000 2011	4c27d337d26eb713882114d1	{Plumas-Eureka State Park}	{39.76583277192398,-120.69992895282522,Blairsden,CA,United States}	{Outdoors & Recreation,}
+1680	Fri Jul 08 20:13:03 +0000 2011	4dc9920c63652df343105442	{Portola, Calif}	{39.81051403652413,-120.46955108642578,Portola,CA,United States}	{Travel & Transport,}
+1680	Fri Jul 08 20:05:11 +0000 2011	4e1762bc14957dc705ccf34f	{Sierra Valley Farms}	{39.74158034303759,-120.37545919418335,Beckwourth,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1680	Fri Jul 08 17:46:21 +0000 2011	4dc9920c63652df343105442	{Portola, Calif}	{39.81051403652413,-120.46955108642578,Portola,CA,United States}	{Travel & Transport,}
+1680	Fri Jul 08 17:39:34 +0000 2011	4bccc05d0245eee1994b25b9	{Chalet View Lodge}	{39.79307275220299,-120.53144574165344,Graeagle,CA,United States}	{Travel & Transport,Hotel,}
+1680	Fri Jul 08 17:30:26 +0000 2011	4dc9aea4185083d439426ef7	{Graegle Post Office}	{39.76922855402402,-120.61961592611176,Graeagle,CA,United States}	{Professional & Other Places,}
+1680	Fri Jul 08 00:20:12 +0000 2011	4e06522245ddb2875c43c868	{Mill Pond}	{39.7660310637769,-120.61808217869074,Graeagle,CA,United States}	{}
+1680	Wed Jul 06 03:19:01 +0000 2011	4df67c2922717445a0b2f9e8	{Graeagle Pond}	{39.76646996523455,-120.61791363388157,Graeagle,CA,United States}	{Outdoors & Recreation,}
+1680	Wed Jul 06 01:20:51 +0000 2011	4e06522245ddb2875c43c868	{Mill Pond}	{39.7660310637769,-120.61808217869074,Graeagle,CA,United States}	{}
+1680	Tue Jul 05 21:53:02 +0000 2011	4cdf23d870bba1cdb4ee64c4	{Sav Mor}	{39.93447044518909,-120.9036970635359,Quincy,CA,United States}	{}
+1680	Tue Jul 05 21:24:57 +0000 2011	4b9b2c7cf964a520ccf735e3	{Safeway}	{39.93695440621393,-120.93707084655762,Quincy,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1680	Tue Jul 05 21:19:30 +0000 2011	4e03db6a18381783e72f6494	{American Valley Hardware}	{39.937008,-120.9371035,Quincy,CA,United States}	{Shop & Service,}
+1680	Tue Jul 05 21:15:47 +0000 2011	4b9b2b1af964a52078f735e3	{Rite Aid}	{39.9368556899583,-120.93612670898438,Quincy,CA,United States}	{Shop & Service,}
+1680	Tue Jul 05 18:33:29 +0000 2011	4e135843a809291902c7c1cd	{Cafe Le Coq}	{39.93674052081343,-120.94226360321045,Quincy,CA,United States}	{Food,}
+1680	Mon Jul 04 22:25:45 +0000 2011	4c510469d2a7c9b6dc867d10	{Grey Eagle Lodge}	{39.72317181000361,-120.66295202416214,Calpine,CA,United States}	{Food,}
+1680	Sun Jul 03 22:16:25 +0000 2011	4c4b5a79712ac9281e1cc76c	{Graeagle Market}	{39.76606918903447,-120.61841926763397,Blairsden-Graeagle,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1680	Sun Jul 03 19:57:48 +0000 2011	4bbccf09a8cf76b0a2fbb0fd	{Herb Rowe Memorial Park}	{39.76825560417452,-120.6194136747714,Graeagle,CA,United States}	{Outdoors & Recreation,}
+1680	Sun Jul 03 19:46:17 +0000 2011	4e10a38fb61c637b97a5e7dd	{July 4th Parade - Graeagle}	{39.77031702238808,-120.61919456878697,Graeagle,CA,United States}	{Arts & Entertainment,}
+1680	Sun Jul 03 18:12:48 +0000 2011	4e06522245ddb2875c43c868	{Mill Pond}	{39.7660310637769,-120.61808217869074,Graeagle,CA,United States}	{}
+1680	Sun Jul 03 17:57:59 +0000 2011	4df67c2922717445a0b2f9e8	{Graeagle Pond}	{39.76646996523455,-120.61791363388157,Graeagle,CA,United States}	{Outdoors & Recreation,}
+1680	Sun Jul 03 17:54:54 +0000 2011	4e10a38fb61c637b97a5e7dd	{July 4th Parade - Graeagle}	{39.77031702238808,-120.61919456878697,Graeagle,CA,United States}	{Arts & Entertainment,}
+1680	Sun Jul 03 04:25:50 +0000 2011	4e0fcefbfa76d62f445676e5	{July 4th Fireworks}	{39.76454918128628,-120.61664954063978,Graeagle,CA,United States}	{Outdoors & Recreation,}
+1680	Sun Jul 03 00:56:47 +0000 2011	4e06522245ddb2875c43c868	{Mill Pond}	{39.7660310637769,-120.61808217869074,Graeagle,CA,United States}	{}
+1680	Sun Jul 03 00:01:48 +0000 2011	4bbccf09a8cf76b0a2fbb0fd	{Herb Rowe Memorial Park}	{39.76825560417452,-120.6194136747714,Graeagle,CA,United States}	{Outdoors & Recreation,}
+1680	Sat Jul 02 23:37:03 +0000 2011	4e0fab8a14956c628506bd86	{Epilog & Company}	{39.76800224015618,-120.6192563679493,Graeagle,CA,United States}	{Shop & Service,}
+1680	Sat Jul 02 23:19:29 +0000 2011	4e0f8cad62e1d5a30d0c47fc	{Eco Centric}	{39.76755076929806,-120.61944738335063,Graeagle,CA,United States}	{Shop & Service,}
+1680	Sat Jul 02 22:40:26 +0000 2011	4e0f9e01ae603a50b54e8e38	{Red House Art}	{39.767317766666665,-120.61887256666667,Graeagle,CA,United States}	{Shop & Service,}
+1680	Sat Jul 02 01:33:22 +0000 2011	4c393344ae2da593a13802c6	{Longboards Bar & Grill}	{39.79353094143271,-120.65527450589731,Plumas Eureka,CA,United States}	{Food,}
+1680	Fri Jul 01 22:05:07 +0000 2011	4c4b5a79712ac9281e1cc76c	{Graeagle Market}	{39.76606918903447,-120.61841926763397,Blairsden-Graeagle,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1680	Fri Jul 01 00:10:50 +0000 2011	4ad972a1f964a5202d1a21e3	{Safeway}	{39.326856067548626,-120.20656656697027,Truckee,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1680	Fri Jul 01 00:06:44 +0000 2011	4c574f2c6201e21e5e578b6e	{City of Truckee}	{39.32682504775129,-120.20094163903265,Truckee,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+1680	Thu Jun 30 22:59:15 +0000 2011	4ba55023f964a52081f938e3	{ARCO}	{38.925619337542656,-121.05722901394824,Auburn,CA,United States}	{Shop & Service,}
+1680	Thu Jun 30 19:00:45 +0000 2011	4c5338a5479fc92876f91e91	{Quiznos Sub}	{38.74520999,-121.30861,Roseville,CA,United States}	{Food,}
+1680	Thu Jun 30 16:12:27 +0000 2011	4c600eab12e5c9288c4f1e4c	{State Farm Roseville}	{38.74316730787726,-121.30869091926819,Roseville,CA,United States}	{Professional & Other Places,}
+1680	Thu Jun 30 15:54:19 +0000 2011	4b0bf230f964a520fd3423e3	{Starbucks}	{38.752309497631295,-121.30996227264404,Roseville,CA,United States}	{Food,}
+1680	Thu Jun 30 15:35:12 +0000 2011	4c293df7d26eb713dd6514d1	{Holiday Inn Express and Suites}	{38.76162069005493,-121.25215488541501,Roseville,CA,United States}	{Travel & Transport,Professional & Other Places,}
+1680	Thu Jun 30 05:45:28 +0000 2011	4c293df7d26eb713dd6514d1	{Holiday Inn Express and Suites}	{38.76162069005493,-121.25215488541501,Roseville,CA,United States}	{Travel & Transport,Professional & Other Places,}
+1680	Thu Jun 30 03:41:38 +0000 2011	4b194bc7f964a520c7da23e3	{DSW Designer Shoe Warehouse}	{38.76761943259974,-121.27068400382996,Roseville,CA,United States}	{Shop & Service,Clothing Store,}
+1680	Thu Jun 30 03:21:47 +0000 2011	4b9c70aaf964a520c76836e3	{Miabella Gelato}	{38.76797076959952,-121.26842021942139,Roseville,CA,United States}	{Food,}
+1680	Thu Jun 30 03:14:04 +0000 2011	4b37c049f964a520844525e3	{Fountains at Roseville}	{38.767799283899116,-121.26840949058533,Roseville,CA,United States}	{Shop & Service,}
+1680	Thu Jun 30 02:27:48 +0000 2011	4c293df7d26eb713dd6514d1	{Holiday Inn Express and Suites}	{38.76162069005493,-121.25215488541501,Roseville,CA,United States}	{Travel & Transport,Professional & Other Places,}
+1680	Thu Jun 30 01:24:45 +0000 2011	4bb28cc42397b713923037b3	{Chevron}	{38.744253,-121.308563,Roseville,CA,United States}	{Shop & Service,}
+1680	Wed Jun 29 17:14:07 +0000 2011	4c600eab12e5c9288c4f1e4c	{State Farm Roseville}	{38.74316730787726,-121.30869091926819,Roseville,CA,United States}	{Professional & Other Places,}
+1680	Wed Jun 29 15:05:45 +0000 2011	4b0bf230f964a520fd3423e3	{Starbucks}	{38.752309497631295,-121.30996227264404,Roseville,CA,United States}	{Food,}
+1680	Wed Jun 29 01:20:39 +0000 2011	4c293df7d26eb713dd6514d1	{Holiday Inn Express and Suites}	{38.76162069005493,-121.25215488541501,Roseville,CA,United States}	{Travel & Transport,Professional & Other Places,}
+1680	Wed Jun 29 00:26:25 +0000 2011	4b0d54def964a520744623e3	{Whole Foods Market}	{38.767539963276526,-121.26692354679108,Roseville,CA,United States}	{Outdoors & Recreation,Shop & Service,Food & Drink Shop,}
+1680	Tue Jun 28 15:05:37 +0000 2011	4c600eab12e5c9288c4f1e4c	{State Farm Roseville}	{38.74316730787726,-121.30869091926819,Roseville,CA,United States}	{Professional & Other Places,}
+1680	Tue Jun 28 14:55:00 +0000 2011	4b0bf230f964a520fd3423e3	{Starbucks}	{38.752309497631295,-121.30996227264404,Roseville,CA,United States}	{Food,}
+1680	Tue Jun 28 04:19:27 +0000 2011	4c293df7d26eb713dd6514d1	{Holiday Inn Express and Suites}	{38.76162069005493,-121.25215488541501,Roseville,CA,United States}	{Travel & Transport,Professional & Other Places,}
+1680	Tue Jun 28 03:02:04 +0000 2011	4b194bc7f964a520c7da23e3	{DSW Designer Shoe Warehouse}	{38.76761943259974,-121.27068400382996,Roseville,CA,United States}	{Shop & Service,Clothing Store,}
+1680	Tue Jun 28 00:57:39 +0000 2011	4b2c3240f964a52086c324e3	{Crush 29}	{38.75164850298746,-121.25271320343018,Roseville,CA,United States}	{Nightlife Spot,Food,}
+1680	Tue Jun 28 00:25:00 +0000 2011	4c293df7d26eb713dd6514d1	{Holiday Inn Express and Suites}	{38.76162069005493,-121.25215488541501,Roseville,CA,United States}	{Travel & Transport,Professional & Other Places,}
+1680	Mon Jun 27 15:00:35 +0000 2011	4c600eab12e5c9288c4f1e4c	{State Farm Roseville}	{38.74316730787726,-121.30869091926819,Roseville,CA,United States}	{Professional & Other Places,}
+1680	Mon Jun 27 14:48:54 +0000 2011	4b0bf230f964a520fd3423e3	{Starbucks}	{38.752309497631295,-121.30996227264404,Roseville,CA,United States}	{Food,}
+1680	Mon Jun 27 05:02:40 +0000 2011	4c293df7d26eb713dd6514d1	{Holiday Inn Express and Suites}	{38.76162069005493,-121.25215488541501,Roseville,CA,United States}	{Travel & Transport,Professional & Other Places,}
+1680	Sun Jun 26 03:42:58 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Sun Jun 26 03:37:03 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Sun Jun 26 03:30:25 +0000 2011	4a874cc9f964a520b60320e3	{Hook & Ladder Winery}	{38.47244015,-122.81304566666667,Santa Rosa,CA,United States}	{Nightlife Spot,Food,}
+1680	Sun Jun 26 01:37:06 +0000 2011	455ad751f964a5205a3d1fe3	{Stoneridge Shopping Center}	{37.69506124,-121.9287372,Pleasanton,CA,United States}	{Shop & Service,Food,Professional & Other Places,}
+1680	Sat Jun 25 18:13:10 +0000 2011	455ad751f964a5205a3d1fe3	{Stoneridge Shopping Center}	{37.69506124,-121.9287372,Pleasanton,CA,United States}	{Shop & Service,Food,Professional & Other Places,}
+1680	Sat Jun 25 01:36:51 +0000 2011	4a874cc9f964a520b60320e3	{Hook & Ladder Winery}	{38.47244015,-122.81304566666667,Santa Rosa,CA,United States}	{Nightlife Spot,Food,}
+1680	Fri Jun 24 23:59:22 +0000 2011	4b4bf3c5f964a520ffab26e3	{Trader Joe's}	{38.473542,-122.731886,Santa Rosa,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1680	Fri Jun 24 23:41:44 +0000 2011	4c12eca98aedd13a43625137	{Rohnert Park Farmers Market}	{38.349161895025205,-122.70385265350342,Rohnert Park,CA,United States}	{Outdoors & Recreation,}
+1680	Fri Jun 24 23:32:32 +0000 2011	4b5f7959f964a52073bc29e3	{Rohnert Park - Cotati Regional Library}	{38.34888945090782,-122.70435819992716,Rohnert Park,CA,United States}	{College & University,Professional & Other Places,}
+1680	Fri Jun 24 18:15:56 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Fri Jun 24 17:47:46 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Fri Jun 24 16:52:37 +0000 2011	4d0d3a99e0b98cfa968cda93	{Olivet Kennel and Dog Training Resort}	{38.482212,-122.81684158333333,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Fri Jun 24 04:21:27 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Fri Jun 24 02:32:38 +0000 2011	4abd8064f964a520b58a20e3	{Expresso Airport Parking}	{37.71998658965351,-122.188958526383,Oakland,CA,United States}	{Travel & Transport,Professional & Other Places,}
+1680	Fri Jun 24 02:10:22 +0000 2011	4493522af964a5207c341fe3	{Oakland International Airport (OAK)}	{37.71226740592608,-122.21261143684387,Oakland,CA,United States}	{Travel & Transport,}
+1680	Thu Jun 23 23:38:26 +0000 2011	4c925e0aae45224bd1afef97	{Gate C16}	{33.433845371683354,-111.9942158460617,Phoenix,AZ,United States}	{Travel & Transport,Airport,}
+1680	Thu Jun 23 22:49:17 +0000 2011	449e9fb9f964a520c0341fe3	{Phoenix Sky Harbor International Airport (PHX)}	{33.43562440517176,-112.00306606318918,Phoenix,AZ,United States}	{Travel & Transport,}
+1680	Thu Jun 23 14:34:24 +0000 2011	4ae1c10cf964a5202a8721e3	{Starbucks}	{33.44227687878494,-111.95550620555878,Tempe,AZ,United States}	{Food,}
+1680	Thu Jun 23 03:00:15 +0000 2011	4c56f9a0cc96c9b642df772e	{Holiday Inn Express and Suites}	{33.37869749693704,-111.96355854184226,Tempe,AZ,United States}	{Travel & Transport,}
+1680	Thu Jun 23 01:05:19 +0000 2011	4a3b0ebbf964a52087a01fe3	{Grimaldi's Coal Brick-Oven Pizzeria}	{33.493844099576535,-111.92656517028809,Scottsdale,AZ,United States}	{Food,}
+1680	Wed Jun 22 19:08:41 +0000 2011	4a3d9ccdf964a5208aa21fe3	{In-N-Out Burger}	{33.434924256368745,-111.92541718482971,Tempe,AZ,United States}	{Food,}
+1680	Wed Jun 22 14:25:15 +0000 2011	4b060606f964a520a6e722e3	{Starbucks}	{33.37884926751324,-111.92995548248291,Tempe,AZ,United States}	{Food,}
+1680	Wed Jun 22 04:34:51 +0000 2011	4c56f9a0cc96c9b642df772e	{Holiday Inn Express and Suites}	{33.37869749693704,-111.96355854184226,Tempe,AZ,United States}	{Travel & Transport,}
+1680	Wed Jun 22 04:01:11 +0000 2011	4a6cc843f964a520a0d11fe3	{Arizona Mills}	{33.38286286,-111.9648457,Tempe,AZ,United States}	{Shop & Service,Food & Drink Shop,}
+1680	Wed Jun 22 03:15:55 +0000 2011	4b7d8bd2f964a520c7c52fe3	{Paradise Bakery & Cafe}	{33.38490542542365,-111.96488857269287,Tempe,AZ,United States}	{Food,}
+1680	Wed Jun 22 02:33:43 +0000 2011	449e9fb9f964a520c0341fe3	{Phoenix Sky Harbor International Airport (PHX)}	{33.43562440517176,-112.00306606318918,Phoenix,AZ,United States}	{Travel & Transport,}
+1680	Tue Jun 21 23:26:21 +0000 2011	4c19893c834e2d7f86a62a80	{Gate 30}	{37.70996725701494,-122.21240758895874,Oakland,CA,United States}	{Travel & Transport,Airport,}
+1680	Tue Jun 21 23:13:20 +0000 2011	4493522af964a5207c341fe3	{Oakland International Airport (OAK)}	{37.71226740592608,-122.21261143684387,Oakland,CA,United States}	{Travel & Transport,}
+1680	Tue Jun 21 22:47:51 +0000 2011	4abd8064f964a520b58a20e3	{Expresso Airport Parking}	{37.71998658965351,-122.188958526383,Oakland,CA,United States}	{Travel & Transport,Professional & Other Places,}
+1680	Tue Jun 21 21:22:12 +0000 2011	4d0d3a99e0b98cfa968cda93	{Olivet Kennel and Dog Training Resort}	{38.482212,-122.81684158333333,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Tue Jun 21 16:44:44 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Tue Jun 21 16:24:22 +0000 2011	4c708d7d9a669c7451a6debd	{Inspiration Vineyards & Winery}	{38.47206437495762,-122.74428188737201,Santa Rosa,CA,United States}	{Food,}
+1680	Tue Jun 21 15:44:34 +0000 2011	4bf46b386a31d13a1dc0952e	{Darrin Schettler DDS}	{38.45213477969238,-122.76648129529438,Santa Rosa,CA,United States}	{Medical Center,Professional & Other Places,}
+1680	Tue Jun 21 03:20:32 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Tue Jun 21 03:11:41 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Tue Jun 21 02:29:59 +0000 2011	4a874a34f964a520aa0320e3	{Pellegrini Family Vineyard}	{38.474256016666665,-122.82119,Santa Rosa,CA,United States}	{Travel & Transport,Food,}
+1680	Mon Jun 20 15:41:05 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Mon Jun 20 15:10:07 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Sun Jun 19 00:44:14 +0000 2011	4a874cc9f964a520b60320e3	{Hook & Ladder Winery}	{38.47244015,-122.81304566666667,Santa Rosa,CA,United States}	{Nightlife Spot,Food,}
+1680	Sat Jun 18 22:53:29 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Sat Jun 18 22:34:54 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Sat Jun 18 22:26:17 +0000 2011	4b65f68bf964a520520b2be3	{Mom's Apple Pie}	{38.4516978263855,-122.868262,Sebastopol,CA,United States}	{Food,}
+1680	Sat Jun 18 21:46:28 +0000 2011	4b62182cf964a52009352ae3	{Safeway}	{38.452025941977794,-122.75284051895142,Santa Rosa,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1680	Sat Jun 18 18:36:09 +0000 2011	4c708d7d9a669c7451a6debd	{Inspiration Vineyards & Winery}	{38.47206437495762,-122.74428188737201,Santa Rosa,CA,United States}	{Food,}
+1680	Sat Jun 18 17:11:54 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Sat Jun 18 01:34:35 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Sat Jun 18 01:27:34 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Sat Jun 18 01:19:15 +0000 2011	4a874a34f964a520aa0320e3	{Pellegrini Family Vineyard}	{38.474256016666665,-122.82119,Santa Rosa,CA,United States}	{Travel & Transport,Food,}
+1680	Fri Jun 17 22:31:44 +0000 2011	4c708d7d9a669c7451a6debd	{Inspiration Vineyards & Winery}	{38.47206437495762,-122.74428188737201,Santa Rosa,CA,United States}	{Food,}
+1680	Fri Jun 17 22:14:56 +0000 2011	4a886d9ff964a520630620e3	{Western Farm Center}	{38.43928889993142,-122.72342315704125,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Fri Jun 17 22:14:55 +0000 2011	4a886d9ff964a520630620e3	{Western Farm Center}	{38.43928889993142,-122.72342315704125,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Fri Jun 17 17:42:05 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Fri Jun 17 01:07:38 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Fri Jun 17 01:01:20 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Fri Jun 17 00:38:21 +0000 2011	4a874cc9f964a520b60320e3	{Hook & Ladder Winery}	{38.47244015,-122.81304566666667,Santa Rosa,CA,United States}	{Nightlife Spot,Food,}
+1680	Fri Jun 17 00:00:15 +0000 2011	4d0d3a99e0b98cfa968cda93	{Olivet Kennel and Dog Training Resort}	{38.482212,-122.81684158333333,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Thu Jun 16 19:24:05 +0000 2011	4b8d7d97f964a520eafe32e3	{State Farm}	{38.10355407408272,-122.264909634679,Vallejo,CA,United States}	{Professional & Other Places,}
+1680	Thu Jun 16 17:17:39 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Thu Jun 16 15:32:50 +0000 2011	4d0d3a99e0b98cfa968cda93	{Olivet Kennel and Dog Training Resort}	{38.482212,-122.81684158333333,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Thu Jun 16 15:32:49 +0000 2011	4d0d3a99e0b98cfa968cda93	{Olivet Kennel and Dog Training Resort}	{38.482212,-122.81684158333333,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Thu Jun 16 02:59:47 +0000 2011	4ab6d922f964a520497920e3	{American Conservatory Theater}	{37.78700220936606,-122.41015595682995,San Francisco,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+1680	Thu Jun 16 01:34:21 +0000 2011	3fd66200f964a52099ed1ee3	{Johnny Foley's Irish House}	{37.78621178258041,-122.40875601768494,San Francisco,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+1680	Thu Jun 16 01:17:01 +0000 2011	4a343fdcf964a520f89b1fe3	{Mason O'Farrell Garage}	{37.78646286458811,-122.40970793883629,San Francisco,CA,United States}	{Professional & Other Places,}
+1680	Wed Jun 15 16:23:01 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Wed Jun 15 01:21:58 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Wed Jun 15 00:43:39 +0000 2011	4a874a34f964a520aa0320e3	{Pellegrini Family Vineyard}	{38.474256016666665,-122.82119,Santa Rosa,CA,United States}	{Travel & Transport,Food,}
+1680	Wed Jun 15 00:43:39 +0000 2011	4a874a34f964a520aa0320e3	{Pellegrini Family Vineyard}	{38.474256016666665,-122.82119,Santa Rosa,CA,United States}	{Travel & Transport,Food,}
+1680	Tue Jun 14 23:40:20 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Tue Jun 14 20:00:13 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Tue Jun 14 19:35:14 +0000 2011	4d48687dc3e5a35d2e899d4f	{Tasty Tuesday}	{38.344587,-122.68709186666666,,,United States}	{Food,}
+1680	Tue Jun 14 15:49:25 +0000 2011	4838dd4ef964a52000501fe3	{Costco Gasoline Emporium}	{38.35182067919209,-122.71689891815186,Rohnert Park,CA,United States}	{Shop & Service,}
+1680	Sun Jun 12 02:55:04 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Sun Jun 12 02:15:06 +0000 2011	4a874a34f964a520aa0320e3	{Pellegrini Family Vineyard}	{38.474256016666665,-122.82119,Santa Rosa,CA,United States}	{Travel & Transport,Food,}
+1680	Sun Jun 12 02:11:18 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Sat Jun 11 22:46:56 +0000 2011	4c708d7d9a669c7451a6debd	{Inspiration Vineyards & Winery}	{38.47206437495762,-122.74428188737201,Santa Rosa,CA,United States}	{Food,}
+1680	Sat Jun 11 19:51:00 +0000 2011	4c708d7d9a669c7451a6debd	{Inspiration Vineyards & Winery}	{38.47206437495762,-122.74428188737201,Santa Rosa,CA,United States}	{Food,}
+1680	Sat Jun 11 02:54:11 +0000 2011	4b9e734af964a520efe436e3	{Franco's Ristorante Pizzeria}	{38.44247348333333,-122.715751,Santa Rosa,CA,United States}	{Food,}
+1680	Sat Jun 11 01:52:56 +0000 2011	4c09223732daef3b09674b50	{Summer Nights | Railroad Sqaure}	{38.43765698230148,-122.72054672241211,Santa Rosa,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+1680	Sat Jun 11 01:37:58 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Fri Jun 10 23:36:32 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Fri Jun 10 23:32:00 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Fri Jun 10 16:15:25 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Fri Jun 10 04:43:47 +0000 2011	4c855637e602b1f725d8b67a	{Bill's Market}	{38.43749462664246,-122.85781875347224,Sebastopol,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1680	Fri Jun 10 03:25:26 +0000 2011	4a9a3797f964a520a53120e3	{Underwood Bar and Bistro}	{38.43627728333333,-122.868689,Graton,CA,United States}	{Food,}
+1680	Fri Jun 10 03:25:26 +0000 2011	4a9a3797f964a520a53120e3	{Underwood Bar and Bistro}	{38.43627728333333,-122.868689,Graton,CA,United States}	{Food,}
+1680	Thu Jun 09 23:17:58 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Thu Jun 09 23:14:29 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Thu Jun 09 23:03:29 +0000 2011	4be5df65bcef2d7f5a7604e5	{Ace Hardware}	{38.4532282,-122.771516,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Thu Jun 09 22:58:03 +0000 2011	4b771108f964a520c9792ee3	{Starbucks}	{38.45326523576188,-122.77109563350677,Santa Rosa,CA,United States}	{Food,}
+1680	Thu Jun 09 15:49:24 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Thu Jun 09 15:34:20 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Thu Jun 09 00:31:38 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Thu Jun 09 00:27:41 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Thu Jun 09 00:17:54 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Thu Jun 09 00:04:31 +0000 2011	4b7dbabbf964a52009d12fe3	{Daredevils & Queens}	{38.437665,-122.7198846,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Wed Jun 08 15:56:48 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Wed Jun 08 15:38:36 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Wed Jun 08 02:24:21 +0000 2011	4a874cc9f964a520b60320e3	{Hook & Ladder Winery}	{38.47244015,-122.81304566666667,Santa Rosa,CA,United States}	{Nightlife Spot,Food,}
+1680	Wed Jun 08 02:02:19 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Wed Jun 08 00:11:24 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Tue Jun 07 23:54:27 +0000 2011	4bbccf188ec3d13af3421b28	{Wells Fargo Center for the Arts}	{38.4930955245081,-122.74983908435838,Santa Rosa,CA,United States}	{Arts & Entertainment,}
+1680	Tue Jun 07 23:23:42 +0000 2011	4c708d7d9a669c7451a6debd	{Inspiration Vineyards & Winery}	{38.47206437495762,-122.74428188737201,Santa Rosa,CA,United States}	{Food,}
+1680	Tue Jun 07 19:56:03 +0000 2011	4d48687dc3e5a35d2e899d4f	{Tasty Tuesday}	{38.344587,-122.68709186666666,,,United States}	{Food,}
+1680	Tue Jun 07 16:06:46 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Tue Jun 07 15:52:42 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Tue Jun 07 01:13:00 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Tue Jun 07 01:13:00 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Tue Jun 07 01:10:10 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Tue Jun 07 00:44:56 +0000 2011	4c708d7d9a669c7451a6debd	{Inspiration Vineyards & Winery}	{38.47206437495762,-122.74428188737201,Santa Rosa,CA,United States}	{Food,}
+1680	Tue Jun 07 00:31:43 +0000 2011	4b1adcd2f964a52075f323e3	{Macy's}	{38.45778953,-122.7281857,Santa Rosa,CA,United States}	{Shop & Service,Clothing Store,}
+1680	Tue Jun 07 00:16:33 +0000 2011	4b9c0974f964a520744336e3	{Coddingtown Mall}	{38.4570502,-122.7293015,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Mon Jun 06 23:32:08 +0000 2011	4b5f7959f964a52073bc29e3	{Rohnert Park - Cotati Regional Library}	{38.34888945090782,-122.70435819992716,Rohnert Park,CA,United States}	{College & University,Professional & Other Places,}
+1680	Mon Jun 06 16:06:42 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Mon Jun 06 03:10:37 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Mon Jun 06 02:32:10 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Mon Jun 06 02:24:47 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Mon Jun 06 02:04:04 +0000 2011	4ba2da4af964a5203c1e38e3	{Highway 101}	{38.18527362202721,-122.60085582733154,Novato,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Mon Jun 06 01:41:03 +0000 2011	4b89622bf964a520e03032e3	{Waldo / Rainbow Tunnel}	{37.841529422174844,-122.48599290847778,Sausalito,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Mon Jun 06 01:37:58 +0000 2011	49d01698f964a520fd5a1fe3	{Golden Gate Bridge}	{37.81700118722001,-122.47821718454361,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Mon Jun 06 01:36:15 +0000 2011	4c437c83dcd61b8d15117a56	{General Douglas MacArthur Tunnel}	{37.795220198366735,-122.46957778930664,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Mon Jun 06 01:01:09 +0000 2011	409ad180f964a520eef21ee3	{Ocean Beach}	{37.769391721310974,-122.51133441925049,San Francisco,CA,United States}	{Outdoors & Recreation,Beach,}
+1680	Sun Jun 05 19:18:54 +0000 2011	4c437c83dcd61b8d15117a56	{General Douglas MacArthur Tunnel}	{37.795220198366735,-122.46957778930664,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Sun Jun 05 19:15:05 +0000 2011	49d01698f964a520fd5a1fe3	{Golden Gate Bridge}	{37.81700118722001,-122.47821718454361,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Sun Jun 05 19:12:33 +0000 2011	4b89622bf964a520e03032e3	{Waldo / Rainbow Tunnel}	{37.841529422174844,-122.48599290847778,Sausalito,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Sun Jun 05 18:48:39 +0000 2011	4ba2da4af964a5203c1e38e3	{Highway 101}	{38.18527362202721,-122.60085582733154,Novato,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Sun Jun 05 18:21:45 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Sun Jun 05 01:48:53 +0000 2011	4a980f97f964a520472a20e3	{Starlight Wine Bar & Restaurant}	{38.4023651,-122.819869,Sebastopol,CA,United States}	{Nightlife Spot,Food,}
+1680	Sat Jun 04 03:06:52 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Fri Jun 03 16:09:13 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Fri Jun 03 15:43:43 +0000 2011	4b0d933ef964a5205c4b23e3	{Target}	{38.346814181432364,-122.71991595730472,Rohnert Park,CA,United States}	{Shop & Service,}
+1680	Fri Jun 03 02:18:27 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Fri Jun 03 02:11:14 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Fri Jun 03 02:11:14 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Fri Jun 03 00:18:56 +0000 2011	4bef27da2ff520a1c334e8a2	{Fentons Creamery & Restaurant}	{38.370275983374235,-121.96121698770436,Vacaville,CA,United States}	{Food,}
+1680	Thu Jun 02 15:28:33 +0000 2011	4c5b2ed06147be9a91f88b09	{California Emergency Management Agency}	{38.570166573550225,-121.305802754265,Rancho Cordova,CA,United States}	{Professional & Other Places,}
+1680	Thu Jun 02 15:04:43 +0000 2011	4b3e7625f964a520849d25e3	{Starbucks}	{38.58422028226205,-121.2845778465271,Rancho Cordova,CA,United States}	{Food,}
+1680	Thu Jun 02 05:34:36 +0000 2011	4bc37fb6dce4eee19ba1719d	{Holiday Inn}	{38.60904768356371,-121.26756278321945,RANCHO CORDOVA,CA,United States}	{Travel & Transport,Professional & Other Places,}
+1680	Wed Jun 01 23:59:12 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Wed Jun 01 23:56:14 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Wed Jun 01 17:46:53 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Wed Jun 01 15:52:32 +0000 2011	4bf46b386a31d13a1dc0952e	{Darrin Schettler DDS}	{38.45213477969238,-122.76648129529438,Santa Rosa,CA,United States}	{Medical Center,Professional & Other Places,}
+1680	Wed Jun 01 02:22:27 +0000 2011	4a874cc9f964a520b60320e3	{Hook & Ladder Winery}	{38.47244015,-122.81304566666667,Santa Rosa,CA,United States}	{Nightlife Spot,Food,}
+1680	Tue May 31 23:18:04 +0000 2011	4c708d7d9a669c7451a6debd	{Inspiration Vineyards & Winery}	{38.47206437495762,-122.74428188737201,Santa Rosa,CA,United States}	{Food,}
+1680	Tue May 31 20:28:01 +0000 2011	4b5f7959f964a52073bc29e3	{Rohnert Park - Cotati Regional Library}	{38.34888945090782,-122.70435819992716,Rohnert Park,CA,United States}	{College & University,Professional & Other Places,}
+1680	Tue May 31 19:53:30 +0000 2011	4d48687dc3e5a35d2e899d4f	{Tasty Tuesday}	{38.344587,-122.68709186666666,,,United States}	{Food,}
+1680	Tue May 31 15:45:54 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Tue May 31 15:28:46 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Tue May 31 01:48:32 +0000 2011	4a874a34f964a520aa0320e3	{Pellegrini Family Vineyard}	{38.474256016666665,-122.82119,Santa Rosa,CA,United States}	{Travel & Transport,Food,}
+1680	Mon May 30 22:42:58 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Mon May 30 22:32:35 +0000 2011	4bb3f9fb9af3b713d5da8b28	{2 Guys With A Big Truck}	{38.43773815,-122.8578854,,,United States}	{}
+1680	Mon May 30 22:28:59 +0000 2011	4a980fdef964a520512a20e3	{Harmony Farm Supply}	{38.438839292476175,-122.85944332631313,Sebastopol,CA,United States}	{Shop & Service,}
+1680	Mon May 30 22:20:52 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Sat May 28 18:24:30 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Sat May 28 18:06:16 +0000 2011	4cc642093ed5199c37a74b1e	{Weight Watchers}	{38.46196003198099,-122.71689944860182,Santa Rosa,CA,United States}	{Professional & Other Places,}
+1680	Sat May 28 01:41:44 +0000 2011	4a874a34f964a520aa0320e3	{Pellegrini Family Vineyard}	{38.474256016666665,-122.82119,Santa Rosa,CA,United States}	{Travel & Transport,Food,}
+1680	Fri May 27 22:52:59 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Fri May 27 22:43:38 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Fri May 27 22:33:37 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Fri May 27 22:18:28 +0000 2011	4b5f7959f964a52073bc29e3	{Rohnert Park - Cotati Regional Library}	{38.34888945090782,-122.70435819992716,Rohnert Park,CA,United States}	{College & University,Professional & Other Places,}
+1680	Fri May 27 15:44:57 +0000 2011	4c3f52c5d7fad13a9c5704da	{State Farm Rohnert Park Oc}	{38.353779409884446,-122.70898000007854,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Fri May 27 15:44:41 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Fri May 27 15:28:30 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Fri May 27 15:20:40 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Fri May 27 15:19:15 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Fri May 27 03:24:57 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Fri May 27 03:21:35 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Thu May 26 23:33:51 +0000 2011	4d583cab92326ea855b763c0	{Allen Farm & Vineyard}	{38.482086,-122.782593,Fulton,CA,United States}	{Outdoors & Recreation,}
+1680	Thu May 26 16:23:17 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Thu May 26 16:11:39 +0000 2011	4838dd4ef964a52000501fe3	{Costco Gasoline Emporium}	{38.35182067919209,-122.71689891815186,Rohnert Park,CA,United States}	{Shop & Service,}
+1680	Thu May 26 15:59:16 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Thu May 26 15:49:51 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Thu May 26 15:47:52 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Thu May 26 01:45:46 +0000 2011	4a874cc9f964a520b60320e3	{Hook & Ladder Winery}	{38.47244015,-122.81304566666667,Santa Rosa,CA,United States}	{Nightlife Spot,Food,}
+1680	Thu May 26 00:29:48 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Thu May 26 00:27:37 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Thu May 26 00:16:06 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Wed May 25 16:41:47 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Wed May 25 16:36:46 +0000 2011	4b5f7959f964a52073bc29e3	{Rohnert Park - Cotati Regional Library}	{38.34888945090782,-122.70435819992716,Rohnert Park,CA,United States}	{College & University,Professional & Other Places,}
+1680	Wed May 25 16:22:07 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Wed May 25 16:22:07 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Wed May 25 16:13:02 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Wed May 25 16:12:08 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Wed May 25 03:26:33 +0000 2011	4c774c25923ba14310dc66e6	{In-N-Out Burger}	{38.46056316146564,-122.72532008279337,Santa Rosa,CA,United States}	{Food,}
+1680	Wed May 25 02:31:23 +0000 2011	49d01698f964a520fd5a1fe3	{Golden Gate Bridge}	{37.81700118722001,-122.47821718454361,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Wed May 25 01:22:22 +0000 2011	4bd3adf09854d13a1975fe4d	{SFO Baggage Claim Terminal 3}	{37.617782025879535,-122.38683989332111,San Francisco,CA,United States}	{Travel & Transport,Airport,}
+1680	Wed May 25 00:55:19 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+1680	Tue May 24 19:47:35 +0000 2011	4a5a77a4f964a52062ba1fe3	{Chicago O'Hare International Airport (ORD)}	{41.977270920041626,-87.90440082550049,Chicago,IL,United States}	{Travel & Transport,}
+1680	Mon May 09 00:02:52 +0000 2011	4b3cd805f964a520218825e3	{Terminal C}	{40.69576975606927,-74.1773271560669,Newark,NJ,United States}	{Travel & Transport,Airport,}
+1680	Sun May 08 23:48:03 +0000 2011	4459d2f1f964a520d7321fe3	{Newark Liberty International Airport (EWR)}	{40.68968493541091,-74.17938709259033,Newark,NJ,United States}	{Travel & Transport,}
+1680	Sun May 08 17:19:29 +0000 2011	4c367d93ae2da593ff58fdc5	{Gate 32A}	{37.612314579382314,-122.38552872996101,San Francisco,CA,United States}	{Travel & Transport,Airport,}
+1680	Sun May 08 16:45:41 +0000 2011	4aec931bf964a520e8c821e3	{Max's Eatz & Fresh Bakery}	{37.61305858288884,-122.38494873046875,San Francisco,CA,United States}	{Food,}
+1680	Sun May 08 15:23:18 +0000 2011	4ce58ba37f69b60cb727b512	{TSA Grope Point @SFO}	{37.613426,-122.3851624,San Francisco,CA,United States}	{Travel & Transport,}
+1680	Sun May 08 14:51:54 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+1680	Sun May 08 04:46:27 +0000 2011	4bcf7dd40ffdce72458bb2c0	{Holiday Inn Hotel & Suites}	{37.57880175738679,-122.32156069421035,San Mateo,CA,United States}	{Travel & Transport,}
+1680	Sun May 08 04:03:12 +0000 2011	4c3499e5213c2d7fdeb5385d	{Park Presidio & California}	{37.784426926095676,-122.47259259223938,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Sun May 08 04:02:40 +0000 2011	4cb0fc2fdb32f04df4b8c44d	{Park Presidio & Lake}	{37.786309291312804,-122.47263550758362,San Francisco,CA,United States}	{Travel & Transport,}
+1680	Sun May 08 04:01:50 +0000 2011	4c437c83dcd61b8d15117a56	{General Douglas MacArthur Tunnel}	{37.795220198366735,-122.46957778930664,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Sun May 08 03:58:31 +0000 2011	49d01698f964a520fd5a1fe3	{Golden Gate Bridge}	{37.81700118722001,-122.47821718454361,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Sun May 08 03:56:25 +0000 2011	4b89622bf964a520e03032e3	{Waldo / Rainbow Tunnel}	{37.841529422174844,-122.48599290847778,Sausalito,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Sun May 08 03:36:21 +0000 2011	4b9062edf964a520998733e3	{Novato Narrows}	{38.12328165776527,-122.56538646324518,Novato,CA,United States}	{Travel & Transport,}
+1680	Sun May 08 03:31:06 +0000 2011	4ba2da4af964a5203c1e38e3	{Highway 101}	{38.18527362202721,-122.60085582733154,Novato,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Sun May 08 03:08:07 +0000 2011	4b9c0974f964a520744336e3	{Coddingtown Mall}	{38.4570502,-122.7293015,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Sun May 08 03:06:05 +0000 2011	4c0839c06071a593e0f3db32	{US Post Office}	{38.4555739644421,-122.73168334945314,Santa Rosa,CA,United States}	{Professional & Other Places,}
+1680	Sun May 08 03:06:04 +0000 2011	4c0839c06071a593e0f3db32	{US Post Office}	{38.4555739644421,-122.73168334945314,Santa Rosa,CA,United States}	{Professional & Other Places,}
+1680	Sun May 08 00:29:09 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Fri May 06 15:50:26 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Fri May 06 15:32:54 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Fri May 06 05:11:26 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Fri May 06 04:48:08 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Fri May 06 04:42:39 +0000 2011	4b9d7dbaf964a5200fb036e3	{Cotati Grade}	{38.30944942091829,-122.71351397037506,Cotati,CA,United States}	{Travel & Transport,}
+1680	Fri May 06 04:31:34 +0000 2011	4ba2da4af964a5203c1e38e3	{Highway 101}	{38.18527362202721,-122.60085582733154,Novato,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Fri May 06 04:27:23 +0000 2011	4b9062edf964a520998733e3	{Novato Narrows}	{38.12328165776527,-122.56538646324518,Novato,CA,United States}	{Travel & Transport,}
+1680	Fri May 06 04:05:49 +0000 2011	4b89622bf964a520e03032e3	{Waldo / Rainbow Tunnel}	{37.841529422174844,-122.48599290847778,Sausalito,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Fri May 06 04:03:16 +0000 2011	49d01698f964a520fd5a1fe3	{Golden Gate Bridge}	{37.81700118722001,-122.47821718454361,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Fri May 06 03:48:06 +0000 2011	4a343fdcf964a520f89b1fe3	{Mason O'Farrell Garage}	{37.78646286458811,-122.40970793883629,San Francisco,CA,United States}	{Professional & Other Places,}
+1680	Fri May 06 02:45:16 +0000 2011	4550e681f964a520e43c1fe3	{Colibr? Mexican Bistro}	{37.78709639552427,-122.41044910337239,San Francisco,CA,United States}	{Food,}
+1680	Fri May 06 02:12:59 +0000 2011	4698fe39f964a520f9481fe3	{The Fairmont San Francisco}	{37.79235252013811,-122.41054313133543,San Francisco,CA,United States}	{Nightlife Spot,Travel & Transport,}
+1680	Fri May 06 01:00:01 +0000 2011	4c315a1116adc9285296c09c	{Fairmont Hotel Crown Room}	{37.79265560364946,-122.40964156563778,San Francisco,CA,United States}	{Nightlife Spot,}
+1680	Fri May 06 00:34:31 +0000 2011	4a343fdcf964a520f89b1fe3	{Mason O'Farrell Garage}	{37.78646286458811,-122.40970793883629,San Francisco,CA,United States}	{Professional & Other Places,}
+1680	Fri May 06 00:14:27 +0000 2011	49d01698f964a520fd5a1fe3	{Golden Gate Bridge}	{37.81700118722001,-122.47821718454361,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Fri May 06 00:11:42 +0000 2011	4b89622bf964a520e03032e3	{Waldo / Rainbow Tunnel}	{37.841529422174844,-122.48599290847778,Sausalito,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Thu May 05 23:52:18 +0000 2011	4b9062edf964a520998733e3	{Novato Narrows}	{38.12328165776527,-122.56538646324518,Novato,CA,United States}	{Travel & Transport,}
+1680	Thu May 05 23:48:17 +0000 2011	4ba2da4af964a5203c1e38e3	{Highway 101}	{38.18527362202721,-122.60085582733154,Novato,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Thu May 05 16:13:00 +0000 2011	4b5f7959f964a52073bc29e3	{Rohnert Park - Cotati Regional Library}	{38.34888945090782,-122.70435819992716,Rohnert Park,CA,United States}	{College & University,Professional & Other Places,}
+1680	Thu May 05 15:57:11 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Thu May 05 03:35:23 +0000 2011	4a8c3e40f964a5206d0d20e3	{Screamin' Mimi's}	{38.402638526227506,-122.8229695558548,Sebastopol,CA,United States}	{Food,}
+1680	Thu May 05 02:10:44 +0000 2011	4a9a3797f964a520a53120e3	{Underwood Bar and Bistro}	{38.43627728333333,-122.868689,Graton,CA,United States}	{Food,}
+1680	Thu May 05 00:23:24 +0000 2011	4bba1345cf2fc9b62019a102	{Kaiser Pharmacy 1 West}	{38.471567676751675,-122.72603142086204,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Thu May 05 00:02:30 +0000 2011	4b242ffbf964a520406324e3	{Kaiser Permanente Medical Center}	{38.47187344371015,-122.72616927650343,Santa Rosa,CA,United States}	{Medical Center,Professional & Other Places,}
+1680	Wed May 04 23:36:57 +0000 2011	4b5f7959f964a52073bc29e3	{Rohnert Park - Cotati Regional Library}	{38.34888945090782,-122.70435819992716,Rohnert Park,CA,United States}	{College & University,Professional & Other Places,}
+1680	Wed May 04 16:41:12 +0000 2011	4838dd4ef964a52000501fe3	{Costco Gasoline Emporium}	{38.35182067919209,-122.71689891815186,Rohnert Park,CA,United States}	{Shop & Service,}
+1680	Wed May 04 16:30:47 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Wed May 04 01:52:24 +0000 2011	4a874cc9f964a520b60320e3	{Hook & Ladder Winery}	{38.47244015,-122.81304566666667,Santa Rosa,CA,United States}	{Nightlife Spot,Food,}
+1680	Tue May 03 23:43:14 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Tue May 03 23:41:34 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Tue May 03 19:32:15 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Tue May 03 19:16:20 +0000 2011	4d48687dc3e5a35d2e899d4f	{Tasty Tuesday}	{38.344587,-122.68709186666666,,,United States}	{Food,}
+1680	Tue May 03 16:20:21 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Tue May 03 16:09:00 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Tue May 03 00:28:41 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Tue May 03 00:14:15 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Tue May 03 00:05:38 +0000 2011	4c051e99f56c2d7f01241f66	{Park Avenue Cleaners}	{38.43364629521514,-122.72736034149035,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Mon May 02 18:56:56 +0000 2011	4bb1166ff964a5204a793ce3	{Ross}	{38.34598,-122.706402,Rohnert Park,CA,United States}	{Shop & Service,}
+1680	Mon May 02 18:38:15 +0000 2011	4b6a1732f964a520eec62be3	{CVS/pharmacy}	{38.34631958828137,-122.7087373331913,Rohnert Park,CA,United States}	{Shop & Service,}
+1680	Mon May 02 16:55:47 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Mon May 02 15:50:16 +0000 2011	4b0d933ef964a5205c4b23e3	{Target}	{38.346814181432364,-122.71991595730472,Rohnert Park,CA,United States}	{Shop & Service,}
+1680	Mon May 02 15:38:02 +0000 2011	4c413194520fa593d75ec9ac	{Santa Rosa, CA}	{38.4404385656072,-122.71400213241577,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Sun May 01 20:26:35 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Sun May 01 20:11:32 +0000 2011	4bbfb05f4cdfc9b681b59121	{Mike's Truck Garden}	{38.496658,-122.773804,Fulton,CA,United States}	{Food,}
+1680	Sun May 01 20:00:42 +0000 2011	4bfef2fe9454952132881a4d	{Windsor Farmers Market}	{38.548408757490684,-122.81366229057312,Windsor,CA,United States}	{Shop & Service,Food,}
+1680	Sun May 01 17:59:50 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Sat Apr 30 05:21:45 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Sat Apr 30 00:11:39 +0000 2011	4a874cc9f964a520b60320e3	{Hook & Ladder Winery}	{38.47244015,-122.81304566666667,Santa Rosa,CA,United States}	{Nightlife Spot,Food,}
+1680	Fri Apr 29 21:17:20 +0000 2011	4a886d9ff964a520630620e3	{Western Farm Center}	{38.43928889993142,-122.72342315704125,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Fri Apr 29 21:05:26 +0000 2011	4c051e99f56c2d7f01241f66	{Park Avenue Cleaners}	{38.43364629521514,-122.72736034149035,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Fri Apr 29 19:29:57 +0000 2011	4b3288fbf964a520000e25e3	{Aioli Delicatessen}	{38.473577,-122.89078,Forestville,CA,United States}	{Food,}
+1680	Fri Apr 29 06:51:09 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Fri Apr 29 06:18:18 +0000 2011	4ba2da4af964a5203c1e38e3	{Highway 101}	{38.18527362202721,-122.60085582733154,Novato,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Fri Apr 29 05:52:47 +0000 2011	4b89622bf964a520e03032e3	{Waldo / Rainbow Tunnel}	{37.841529422174844,-122.48599290847778,Sausalito,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Fri Apr 29 05:49:39 +0000 2011	49d01698f964a520fd5a1fe3	{Golden Gate Bridge}	{37.81700118722001,-122.47821718454361,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Fri Apr 29 05:41:31 +0000 2011	4c437c83dcd61b8d15117a56	{General Douglas MacArthur Tunnel}	{37.795220198366735,-122.46957778930664,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Fri Apr 29 00:45:17 +0000 2011	44d344bef964a52041361fe3	{California Palace of the Legion of Honor}	{37.7845604738567,-122.50067263841629,San Francisco,CA,United States}	{Museum,Arts & Entertainment,}
+1680	Fri Apr 29 00:36:12 +0000 2011	49d01698f964a520fd5a1fe3	{Golden Gate Bridge}	{37.81700118722001,-122.47821718454361,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Fri Apr 29 00:30:40 +0000 2011	4b89622bf964a520e03032e3	{Waldo / Rainbow Tunnel}	{37.841529422174844,-122.48599290847778,Sausalito,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Fri Apr 29 00:05:47 +0000 2011	4ba2da4af964a5203c1e38e3	{Highway 101}	{38.18527362202721,-122.60085582733154,Novato,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Thu Apr 28 23:18:22 +0000 2011	4d0d3a99e0b98cfa968cda93	{Olivet Kennel and Dog Training Resort}	{38.482212,-122.81684158333333,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Thu Apr 28 22:30:12 +0000 2011	4b5f7959f964a52073bc29e3	{Rohnert Park - Cotati Regional Library}	{38.34888945090782,-122.70435819992716,Rohnert Park,CA,United States}	{College & University,Professional & Other Places,}
+1680	Thu Apr 28 15:36:12 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Thu Apr 28 15:33:10 +0000 2011	4d0d3a99e0b98cfa968cda93	{Olivet Kennel and Dog Training Resort}	{38.482212,-122.81684158333333,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Thu Apr 28 00:57:55 +0000 2011	4a874cc9f964a520b60320e3	{Hook & Ladder Winery}	{38.47244015,-122.81304566666667,Santa Rosa,CA,United States}	{Nightlife Spot,Food,}
+1680	Thu Apr 28 00:16:43 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Wed Apr 27 23:55:06 +0000 2011	4b1adcd2f964a52075f323e3	{Macy's}	{38.45778953,-122.7281857,Santa Rosa,CA,United States}	{Shop & Service,Clothing Store,}
+1680	Wed Apr 27 23:55:06 +0000 2011	4b1adcd2f964a52075f323e3	{Macy's}	{38.45778953,-122.7281857,Santa Rosa,CA,United States}	{Shop & Service,Clothing Store,}
+1680	Wed Apr 27 23:47:54 +0000 2011	4ba92e0df964a520e6113ae3	{Hallmark}	{38.44525,-122.68751,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Wed Apr 27 23:43:24 +0000 2011	4ba7bc10f964a52057ae39e3	{Old Navy}	{38.45806595,-122.729634,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Wed Apr 27 23:16:29 +0000 2011	4b9c0974f964a520744336e3	{Coddingtown Mall}	{38.4570502,-122.7293015,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Wed Apr 27 16:05:00 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Wed Apr 27 01:38:52 +0000 2011	4a874cc9f964a520b60320e3	{Hook & Ladder Winery}	{38.47244015,-122.81304566666667,Santa Rosa,CA,United States}	{Nightlife Spot,Food,}
+1680	Wed Apr 27 00:26:14 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Wed Apr 27 00:20:43 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Wed Apr 27 00:06:24 +0000 2011	4c051e99f56c2d7f01241f66	{Park Avenue Cleaners}	{38.43364629521514,-122.72736034149035,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Tue Apr 26 23:53:34 +0000 2011	4a886d9ff964a520630620e3	{Western Farm Center}	{38.43928889993142,-122.72342315704125,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Tue Apr 26 22:46:00 +0000 2011	4d262a358fd5a143a5c9db1a	{Face To Face}	{38.43815267086029,-122.707548,,,United States}	{}
+1680	Tue Apr 26 22:44:48 +0000 2011	4b7dbabbf964a52009d12fe3	{Daredevils & Queens}	{38.437665,-122.7198846,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Tue Apr 26 20:35:45 +0000 2011	4bb1166ff964a5204a793ce3	{Ross}	{38.34598,-122.706402,Rohnert Park,CA,United States}	{Shop & Service,}
+1680	Tue Apr 26 20:12:33 +0000 2011	4d48687dc3e5a35d2e899d4f	{Tasty Tuesday}	{38.344587,-122.68709186666666,,,United States}	{Food,}
+1680	Tue Apr 26 16:09:48 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Tue Apr 26 15:55:45 +0000 2011	4838dd4ef964a52000501fe3	{Costco Gasoline Emporium}	{38.35182067919209,-122.71689891815186,Rohnert Park,CA,United States}	{Shop & Service,}
+1680	Tue Apr 26 01:35:19 +0000 2011	4a874cc9f964a520b60320e3	{Hook & Ladder Winery}	{38.47244015,-122.81304566666667,Santa Rosa,CA,United States}	{Nightlife Spot,Food,}
+1680	Mon Apr 25 23:44:43 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Mon Apr 25 23:18:28 +0000 2011	4b5f7959f964a52073bc29e3	{Rohnert Park - Cotati Regional Library}	{38.34888945090782,-122.70435819992716,Rohnert Park,CA,United States}	{College & University,Professional & Other Places,}
+1680	Mon Apr 25 16:44:19 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Mon Apr 25 07:55:23 +0000 2011	4d11231c99b78cfa3293c7d5	{Highway 101}	{38.428754172392054,-122.71514480489355,Santa Rosa,CA,United States}	{Travel & Transport,}
+1680	Mon Apr 25 07:46:57 +0000 2011	4b9d7dbaf964a5200fb036e3	{Cotati Grade}	{38.30944942091829,-122.71351397037506,Cotati,CA,United States}	{Travel & Transport,}
+1680	Mon Apr 25 07:41:10 +0000 2011	4cfd4be2c51fa1cddb5ef02b	{Petaluma}	{38.230283133801755,-122.61078814512761,,CA,United States}	{Residence,}
+1680	Mon Apr 25 07:37:37 +0000 2011	4ba2da4af964a5203c1e38e3	{Highway 101}	{38.18527362202721,-122.60085582733154,Novato,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Mon Apr 25 07:33:46 +0000 2011	4b9062edf964a520998733e3	{Novato Narrows}	{38.12328165776527,-122.56538646324518,Novato,CA,United States}	{Travel & Transport,}
+1680	Mon Apr 25 07:12:09 +0000 2011	4b89622bf964a520e03032e3	{Waldo / Rainbow Tunnel}	{37.841529422174844,-122.48599290847778,Sausalito,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Mon Apr 25 07:09:23 +0000 2011	49d01698f964a520fd5a1fe3	{Golden Gate Bridge}	{37.81700118722001,-122.47821718454361,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Mon Apr 25 07:08:10 +0000 2011	4c437c83dcd61b8d15117a56	{General Douglas MacArthur Tunnel}	{37.795220198366735,-122.46957778930664,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Mon Apr 25 07:04:14 +0000 2011	445e36bff964a520fb321fe3	{Golden Gate Park}	{37.769018558337955,-122.48339653015137,San Francisco,CA,United States}	{Outdoors & Recreation,}
+1680	Mon Apr 25 06:13:48 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+1680	Sun Apr 24 21:34:32 +0000 2011	49c046f1f964a5205b551fe3	{Terminal 5}	{40.64557779020594,-73.77643346786499,Jamaica,NY,United States}	{Travel & Transport,Airport,}
+1680	Sun Apr 24 21:09:05 +0000 2011	43a52546f964a520532c1fe3	{John F. Kennedy International Airport (JFK)}	{40.645089355976346,-73.7845230102539,Jamaica,NY,United States}	{Travel & Transport,}
+1680	Sun Apr 24 20:39:08 +0000 2011	4a9e601bf964a5201b3a20e3	{JFK AirTrain - Federal Circle Station}	{40.659724550278824,-73.80353450775146,New York,NY,United States}	{Travel & Transport,Airport,}
+1680	Sun Apr 24 20:19:13 +0000 2011	4baa969ef964a52058773ae3	{BP}	{40.696879211951845,-73.81408093264106,Richmond Hill,NY,United States}	{Shop & Service,}
+1680	Sun Apr 24 20:02:33 +0000 2011	4b390cf4f964a5201c5525e3	{Bronx-Whitestone Bridge}	{40.80023122491412,-73.82881164550781,Whitestone,NY,United States}	{Outdoors & Recreation,}
+1680	Sun Apr 24 19:40:52 +0000 2011	4a33eb53f964a5206a9b1fe3	{George Washington Bridge}	{40.85121557428245,-73.95206451416016,New York,NY,United States}	{Outdoors & Recreation,}
+1680	Sun Apr 24 19:39:21 +0000 2011	4a33eb53f964a5206a9b1fe3	{George Washington Bridge}	{40.85121557428245,-73.95206451416016,New York,NY,United States}	{Outdoors & Recreation,}
+1680	Sun Apr 24 18:33:15 +0000 2011	4c5024953a6f2d7f72090d77	{Sunoco APlus}	{41.741786,-74.06778,New Paltz,NY,United States}	{Shop & Service,Food,}
+1680	Sun Apr 24 15:18:53 +0000 2011	4bc41b1ddce4eee127f1719d	{The Morgan State House Inn}	{42.656766672822584,-73.76580153681135,Albany,NY,United States}	{Travel & Transport,Hotel,}
+1680	Sun Apr 24 15:18:52 +0000 2011	4bc41b1ddce4eee127f1719d	{The Morgan State House Inn}	{42.656766672822584,-73.76580153681135,Albany,NY,United States}	{Travel & Transport,Hotel,}
+1680	Sun Apr 24 02:47:26 +0000 2011	4d32623d12412c0f420b8fd9	{Sunoco}	{42.089065,-73.97383493333334,Saugerties,NY,United States}	{Shop & Service,}
+1680	Sun Apr 24 01:55:57 +0000 2011	4c6bcecf0c3ac9b6b5b8d238	{Green Island Bridge}	{42.735811118200075,-73.6905558080884,Troy,NY,United States}	{Outdoors & Recreation,}
+1680	Sat Apr 23 22:14:43 +0000 2011	4b6372e1f964a520a47a2ae3	{River Street Cafe}	{42.73622119478845,-73.68750378288499,Troy,NY,United States}	{Food,}
+1680	Sat Apr 23 18:00:26 +0000 2011	4bc41b1ddce4eee127f1719d	{The Morgan State House Inn}	{42.656766672822584,-73.76580153681135,Albany,NY,United States}	{Travel & Transport,Hotel,}
+1680	Sat Apr 23 15:01:08 +0000 2011	4b40e44bf964a520eabc25e3	{Love Bites}	{42.07731666666667,-73.952147,Saugerties,NY,United States}	{Food,}
+1680	Sat Apr 23 14:58:20 +0000 2011	4b40e44bf964a520eabc25e3	{Love Bites}	{42.07731666666667,-73.952147,Saugerties,NY,United States}	{Food,}
+1680	Sat Apr 23 01:31:05 +0000 2011	4b494113f964a520936b26e3	{The Wine Bar and Bistro}	{42.656127,-73.763814,Albany,NY,United States}	{Nightlife Spot,Food,}
+1680	Sat Apr 23 00:36:14 +0000 2011	4bc41b1ddce4eee127f1719d	{The Morgan State House Inn}	{42.656766672822584,-73.76580153681135,Albany,NY,United States}	{Travel & Transport,Hotel,}
+1680	Fri Apr 22 20:16:21 +0000 2011	4da4763cb1c93704e28110a2	{Woodstock Legends}	{42.04043267782599,-74.12107404106047,Woodstock,NY,United States}	{Shop & Service,}
+1680	Fri Apr 22 19:51:35 +0000 2011	4ca7d500b0b8236a989fade6	{Woodstock Town Hall}	{42.040342281510235,-74.1225536574724,Woodstock,NY,United States}	{Government Building,Professional & Other Places,}
+1680	Fri Apr 22 18:34:40 +0000 2011	4c1ffa4aeac020a159f04bc2	{Hudson River}	{42.07073463818873,-73.92768859863281,Saugerties,NY,United States}	{Travel & Transport,}
+1680	Fri Apr 22 18:28:55 +0000 2011	4bf14c7f48d520a1c05c2e84	{Saugerties Lighthouse}	{42.071978317051695,-73.93438339233398,Saugerties,NY,United States}	{Outdoors & Recreation,}
+1680	Fri Apr 22 17:30:23 +0000 2011	4ac93817f964a52031bf20e3	{Kaaterskill Falls}	{42.193426083778945,-74.06263134737794,Palenville,NY,United States}	{Outdoors & Recreation,}
+1680	Fri Apr 22 04:36:56 +0000 2011	4a33eb53f964a5206a9b1fe3	{George Washington Bridge}	{40.85121557428245,-73.95206451416016,New York,NY,United States}	{Outdoors & Recreation,}
+1680	Fri Apr 22 04:17:47 +0000 2011	4aaf803ef964a520376420e3	{Robert F. Kennedy Bridge (Triborough Bridge)}	{40.780086483152836,-73.92702341079712,Astoria,NY,United States}	{Outdoors & Recreation,}
+1680	Fri Apr 22 03:11:10 +0000 2011	43a52546f964a520532c1fe3	{John F. Kennedy International Airport (JFK)}	{40.645089355976346,-73.7845230102539,Jamaica,NY,United States}	{Travel & Transport,}
+1680	Thu Apr 21 21:28:03 +0000 2011	4d9a794a17a4236a1823cc59	{Napa Farms Market}	{37.61713350563832,-122.38322170670911,San Francisco,CA,United States}	{Food,}
+1680	Thu Apr 21 21:10:25 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+1680	Thu Apr 21 20:09:14 +0000 2011	445e36bff964a520fb321fe3	{Golden Gate Park}	{37.769018558337955,-122.48339653015137,San Francisco,CA,United States}	{Outdoors & Recreation,}
+1680	Thu Apr 21 20:05:22 +0000 2011	4c437c83dcd61b8d15117a56	{General Douglas MacArthur Tunnel}	{37.795220198366735,-122.46957778930664,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Thu Apr 21 20:02:26 +0000 2011	49d01698f964a520fd5a1fe3	{Golden Gate Bridge}	{37.81700118722001,-122.47821718454361,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Thu Apr 21 20:00:54 +0000 2011	4b89622bf964a520e03032e3	{Waldo / Rainbow Tunnel}	{37.841529422174844,-122.48599290847778,Sausalito,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Thu Apr 21 19:15:34 +0000 2011	4b5f752cf964a52086bb29e3	{Northwest Santa Rosa Library}	{38.45907755,-122.730736,Santa Rosa,CA,United States}	{College & University,Professional & Other Places,}
+1680	Thu Apr 21 19:15:33 +0000 2011	4b5f752cf964a52086bb29e3	{Northwest Santa Rosa Library}	{38.45907755,-122.730736,Santa Rosa,CA,United States}	{College & University,Professional & Other Places,}
+1680	Thu Apr 21 00:40:50 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Wed Apr 20 23:33:05 +0000 2011	4c708d7d9a669c7451a6debd	{Inspiration Vineyards & Winery}	{38.47206437495762,-122.74428188737201,Santa Rosa,CA,United States}	{Food,}
+1680	Wed Apr 20 16:29:59 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Wed Apr 20 04:49:33 +0000 2011	4a8c3e40f964a5206d0d20e3	{Screamin' Mimi's}	{38.402638526227506,-122.8229695558548,Sebastopol,CA,United States}	{Food,}
+1680	Wed Apr 20 03:52:30 +0000 2011	4bcafba50687ef3b9ad7dccc	{Vista Point}	{37.83263257682617,-122.4799633026123,Sausalito,CA,United States}	{Outdoors & Recreation,}
+1680	Wed Apr 20 03:34:16 +0000 2011	4a343fdcf964a520f89b1fe3	{Mason O'Farrell Garage}	{37.78646286458811,-122.40970793883629,San Francisco,CA,United States}	{Professional & Other Places,}
+1680	Wed Apr 20 02:02:51 +0000 2011	4ab6d922f964a520497920e3	{American Conservatory Theater}	{37.78700220936606,-122.41015595682995,San Francisco,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+1680	Wed Apr 20 01:35:48 +0000 2011	49d01698f964a520fd5a1fe3	{Golden Gate Bridge}	{37.81700118722001,-122.47821718454361,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Wed Apr 20 01:33:48 +0000 2011	4b89622bf964a520e03032e3	{Waldo / Rainbow Tunnel}	{37.841529422174844,-122.48599290847778,Sausalito,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Wed Apr 20 01:10:16 +0000 2011	4ba2da4af964a5203c1e38e3	{Highway 101}	{38.18527362202721,-122.60085582733154,Novato,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Tue Apr 19 16:42:54 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Mon Apr 18 17:04:33 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Sun Apr 17 22:49:15 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Sun Apr 17 22:36:24 +0000 2011	4c3156c0a0ced13a7794136e	{California Hwy 12}	{38.42812289755473,-122.76912704024646,Santa Rosa,CA,United States}	{Travel & Transport,}
+1680	Sun Apr 17 22:31:50 +0000 2011	4c6ed1bfd7fab1f7837c59c9	{City of Rohnert Park}	{38.36359892841914,-122.71359443664551,Rohnert,CA,United States}	{Outdoors & Recreation,}
+1680	Sun Apr 17 22:22:07 +0000 2011	4ba2da4af964a5203c1e38e3	{Highway 101}	{38.18527362202721,-122.60085582733154,Novato,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Sun Apr 17 22:16:25 +0000 2011	4ba2da4af964a5203c1e38e3	{Highway 101}	{38.18527362202721,-122.60085582733154,Novato,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Sun Apr 17 22:13:08 +0000 2011	4b9062edf964a520998733e3	{Novato Narrows}	{38.12328165776527,-122.56538646324518,Novato,CA,United States}	{Travel & Transport,}
+1680	Sun Apr 17 21:55:03 +0000 2011	4c6449cf39732d7f8d57d4fe	{Richmond-San Rafael Bridge Toll Plaza}	{37.93253397466505,-122.40333795547485,Richmond,CA,United States}	{Outdoors & Recreation,Professional & Other Places,}
+1680	Sun Apr 17 21:47:42 +0000 2011	4b090299f964a520ce1323e3	{Rosie The Riveter/WWII Home Front National Historical Park}	{37.91447692720397,-122.34797716140747,Richmond,CA,United States}	{Outdoors & Recreation,Government Building,Arts & Entertainment,Professional & Other Places,}
+1680	Sun Apr 17 21:46:12 +0000 2011	4b72e29cf964a520728d2de3	{Bay Trail}	{37.915492634784584,-122.34720468521118,Marina Bay, Richmond,CA,United States}	{Outdoors & Recreation,}
+1680	Sun Apr 17 21:16:05 +0000 2011	4b090299f964a520ce1323e3	{Rosie The Riveter/WWII Home Front National Historical Park}	{37.91447692720397,-122.34797716140747,Richmond,CA,United States}	{Outdoors & Recreation,Government Building,Arts & Entertainment,Professional & Other Places,}
+1680	Sun Apr 17 20:56:40 +0000 2011	4b5bae98f964a520bf0f29e3	{I-80}	{37.8480192057276,-122.29864597320557,Northern California,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Sun Apr 17 19:23:05 +0000 2011	4a85d584f964a52066ff1fe3	{Knudsen's Ice Creamery}	{37.695417,-122.07823744,Castro Valley,CA,United States}	{Food,}
+1680	Sun Apr 17 17:10:49 +0000 2011	4ac92a5bf964a520f6be20e3	{Richmond-San Rafael Bridge}	{37.93462763671665,-122.43695139884949,Richmond,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Sun Apr 17 17:04:48 +0000 2011	4a348baef964a520639c1fe3	{San Quentin State Prison}	{37.94145612859755,-122.48260259628296,San Quentin,CA,United States}	{Government Building,Professional & Other Places,}
+1680	Sun Apr 17 16:21:56 +0000 2011	4c708d7d9a669c7451a6debd	{Inspiration Vineyards & Winery}	{38.47206437495762,-122.74428188737201,Santa Rosa,CA,United States}	{Food,}
+1680	Sat Apr 16 19:24:27 +0000 2011	4aff7905f964a520e83822e3	{Macy's}	{38.44053642,-122.7167616,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Sat Apr 16 19:17:40 +0000 2011	4a8b27baf964a520980b20e3	{Ann Taylor Loft}	{38.439466,-122.716268,Santa Rosa,CA,United States}	{Shop & Service,Clothing Store,}
+1680	Sat Apr 16 19:01:00 +0000 2011	4b77386cf964a5201c892ee3	{Santa Rosa Plaza}	{38.4388335,-122.7164483,Santa Rosa,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1680	Sat Apr 16 01:51:22 +0000 2011	4d9603fadaec224b6b770c3e	{Place To Play Dog Park}	{38.44083095376562,-122.76495444865142,,,United States}	{Outdoors & Recreation,}
+1680	Fri Apr 15 22:18:42 +0000 2011	4bda43862a3a0f47f798aab6	{A Place To Play}	{38.4397493856102,-122.76188414973178,Santa Rosa,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1680	Fri Apr 15 22:06:42 +0000 2011	4c051e99f56c2d7f01241f66	{Park Avenue Cleaners}	{38.43364629521514,-122.72736034149035,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Fri Apr 15 22:06:41 +0000 2011	4c051e99f56c2d7f01241f66	{Park Avenue Cleaners}	{38.43364629521514,-122.72736034149035,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Fri Apr 15 20:27:41 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Fri Apr 15 20:02:52 +0000 2011	4b3288fbf964a520000e25e3	{Aioli Delicatessen}	{38.473577,-122.89078,Forestville,CA,United States}	{Food,}
+1680	Thu Apr 14 23:26:15 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Thu Apr 14 15:43:40 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Wed Apr 13 17:48:35 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Wed Apr 13 16:33:03 +0000 2011	4b5f7959f964a52073bc29e3	{Rohnert Park - Cotati Regional Library}	{38.34888945090782,-122.70435819992716,Rohnert Park,CA,United States}	{College & University,Professional & Other Places,}
+1680	Tue Apr 12 20:21:22 +0000 2011	4b5f7959f964a52073bc29e3	{Rohnert Park - Cotati Regional Library}	{38.34888945090782,-122.70435819992716,Rohnert Park,CA,United States}	{College & University,Professional & Other Places,}
+1680	Tue Apr 12 20:21:22 +0000 2011	4b5f7959f964a52073bc29e3	{Rohnert Park - Cotati Regional Library}	{38.34888945090782,-122.70435819992716,Rohnert Park,CA,United States}	{College & University,Professional & Other Places,}
+1680	Tue Apr 12 19:37:10 +0000 2011	4d48687dc3e5a35d2e899d4f	{Tasty Tuesday}	{38.344587,-122.68709186666666,,,United States}	{Food,}
+1680	Tue Apr 12 16:25:05 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Tue Apr 12 01:23:52 +0000 2011	4b970c2df964a5203af534e3	{Tayman Park (golf club)}	{38.614562663562,-122.85467416694414,Healdsburg,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1680	Mon Apr 11 23:28:25 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Mon Apr 11 23:28:25 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Mon Apr 11 23:00:33 +0000 2011	4b72dee4f964a520978c2de3	{Kaiser Permanente}	{38.35398166855473,-122.7064760913231,Rohnert Park,CA,United States}	{Medical Center,Professional & Other Places,}
+1680	Mon Apr 11 16:55:53 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Mon Apr 11 16:17:28 +0000 2011	4b0d933ef964a5205c4b23e3	{Target}	{38.346814181432364,-122.71991595730472,Rohnert Park,CA,United States}	{Shop & Service,}
+1680	Mon Apr 11 04:05:07 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Mon Apr 11 03:40:26 +0000 2011	4b62182cf964a52009352ae3	{Safeway}	{38.452025941977794,-122.75284051895142,Santa Rosa,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1680	Mon Apr 11 01:47:14 +0000 2011	4d9fb168090da0932e15dda8	{La Rosa Tequileria & Grille}	{38.44009432159955,-122.7145391200733,Santa Rosa,CA,United States}	{Nightlife Spot,Food,}
+1680	Sun Apr 10 19:41:01 +0000 2011	4a874cc9f964a520b60320e3	{Hook & Ladder Winery}	{38.47244015,-122.81304566666667,Santa Rosa,CA,United States}	{Nightlife Spot,Food,}
+1680	Sun Apr 10 19:21:13 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Sun Apr 10 00:37:12 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Sat Apr 09 23:21:10 +0000 2011	4af5fa41f964a520bbff21e3	{Route 128 Vineyard & Winery}	{38.70676220436194,-122.90499228652608,Geyserville,CA,United States}	{Food,}
+1680	Sat Apr 09 22:20:25 +0000 2011	4b524329f964a5207f7327e3	{Frick Winery}	{38.71475607595243,-122.94942019130482,Geyserville,CA,United States}	{Food,}
+1680	Sat Apr 09 21:29:48 +0000 2011	4bd4a4477b1876b0387c8986	{Mounts Family Winery}	{38.659756,-122.94403246,Healdsburg,CA,United States}	{Food,}
+1680	Sat Apr 09 21:03:55 +0000 2011	4ad240eaf964a5206de020e3	{Quivira Vineyards and Winery}	{38.65625058290308,-122.93749451637268,Healdsburg,CA,United States}	{Food,}
+1680	Sat Apr 09 19:35:43 +0000 2011	4b65f68bf964a520520b2be3	{Mom's Apple Pie}	{38.4516978263855,-122.868262,Sebastopol,CA,United States}	{Food,}
+1680	Fri Apr 08 22:28:51 +0000 2011	4c708d7d9a669c7451a6debd	{Inspiration Vineyards & Winery}	{38.47206437495762,-122.74428188737201,Santa Rosa,CA,United States}	{Food,}
+1680	Fri Apr 08 16:45:14 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Fri Apr 08 16:38:22 +0000 2011	4b5f7959f964a52073bc29e3	{Rohnert Park - Cotati Regional Library}	{38.34888945090782,-122.70435819992716,Rohnert Park,CA,United States}	{College & University,Professional & Other Places,}
+1680	Fri Apr 08 16:29:13 +0000 2011	4838dd4ef964a52000501fe3	{Costco Gasoline Emporium}	{38.35182067919209,-122.71689891815186,Rohnert Park,CA,United States}	{Shop & Service,}
+1680	Thu Apr 07 16:53:19 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Thu Apr 07 16:27:11 +0000 2011	4c051e99f56c2d7f01241f66	{Park Avenue Cleaners}	{38.43364629521514,-122.72736034149035,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Thu Apr 07 16:09:32 +0000 2011	4c708d7d9a669c7451a6debd	{Inspiration Vineyards & Winery}	{38.47206437495762,-122.74428188737201,Santa Rosa,CA,United States}	{Food,}
+1680	Wed Apr 06 22:41:40 +0000 2011	44dc9a3cf964a520b2361fe3	{Aroma Roasters}	{38.43808142,-122.72138176666667,Santa Rosa,CA,United States}	{Food,}
+1680	Wed Apr 06 15:48:00 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Wed Apr 06 01:16:18 +0000 2011	4a874a34f964a520aa0320e3	{Pellegrini Family Vineyard}	{38.474256016666665,-122.82119,Santa Rosa,CA,United States}	{Travel & Transport,Food,}
+1680	Tue Apr 05 19:30:20 +0000 2011	4d48687dc3e5a35d2e899d4f	{Tasty Tuesday}	{38.344587,-122.68709186666666,,,United States}	{Food,}
+1680	Tue Apr 05 16:16:37 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Tue Apr 05 01:21:05 +0000 2011	4a874a34f964a520aa0320e3	{Pellegrini Family Vineyard}	{38.474256016666665,-122.82119,Santa Rosa,CA,United States}	{Travel & Transport,Food,}
+1680	Mon Apr 04 16:18:27 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Sun Apr 03 23:49:26 +0000 2011	4a874cc9f964a520b60320e3	{Hook & Ladder Winery}	{38.47244015,-122.81304566666667,Santa Rosa,CA,United States}	{Nightlife Spot,Food,}
+1680	Sat Apr 02 21:33:22 +0000 2011	4c2f63d77cc0c9b6f694eb9a	{Olivet Wine Road}	{38.470654825510806,-122.81554313541996,Santa Rosa,CA,United States}	{Food,}
+1680	Sat Apr 02 21:08:47 +0000 2011	4b9fd036f964a520054137e3	{Street-eatz Mobile Kitchen}	{38.512781,-122.791751,,,United States}	{Food,}
+1680	Sat Apr 02 21:08:47 +0000 2011	4b9fd036f964a520054137e3	{Street-eatz Mobile Kitchen}	{38.512781,-122.791751,,,United States}	{Food,}
+1680	Sat Apr 02 20:56:00 +0000 2011	4a874eb6f964a520c20320e3	{De Loach Winery & Vineyards}	{38.46251741169135,-122.81980179317868,Santa Rosa,CA,United States}	{Food,}
+1680	Sat Apr 02 18:10:51 +0000 2011	4c708d7d9a669c7451a6debd	{Inspiration Vineyards & Winery}	{38.47206437495762,-122.74428188737201,Santa Rosa,CA,United States}	{Food,}
+1680	Sat Apr 02 04:31:38 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Sat Apr 02 01:33:36 +0000 2011	4a874f17f964a520c80320e3	{Rosso Pizzeria and Wine Bar}	{38.44197427300326,-122.70359247922897,Santa Rosa,CA,United States}	{Nightlife Spot,Food,}
+1680	Fri Apr 01 22:34:07 +0000 2011	4ae2964ff964a520218f21e3	{Target}	{38.416846331371076,-122.70981788635254,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Fri Apr 01 19:16:08 +0000 2011	4bb1166ff964a5204a793ce3	{Ross}	{38.34598,-122.706402,Rohnert Park,CA,United States}	{Shop & Service,}
+1680	Fri Apr 01 18:58:40 +0000 2011	4b5f7959f964a52073bc29e3	{Rohnert Park - Cotati Regional Library}	{38.34888945090782,-122.70435819992716,Rohnert Park,CA,United States}	{College & University,Professional & Other Places,}
+1680	Fri Apr 01 16:15:10 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Fri Apr 01 02:39:37 +0000 2011	4af72da6f964a520d30622e3	{Ravenous Cafe & Lounge}	{38.61207532273516,-122.87032127380371,Healdsburg,CA,United States}	{Food,}
+1680	Fri Apr 01 01:23:05 +0000 2011	4bd47be24e32d13a362fbf80	{Windsor Vineyards Tasting Room}	{38.61094057559967,-122.869433,Healdsburg,CA,United States}	{Nightlife Spot,Shop & Service,Food & Drink Shop,}
+1680	Thu Mar 31 15:55:58 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Thu Mar 31 15:44:02 +0000 2011	4b5f7959f964a52073bc29e3	{Rohnert Park - Cotati Regional Library}	{38.34888945090782,-122.70435819992716,Rohnert Park,CA,United States}	{College & University,Professional & Other Places,}
+1680	Thu Mar 31 15:44:02 +0000 2011	4b5f7959f964a52073bc29e3	{Rohnert Park - Cotati Regional Library}	{38.34888945090782,-122.70435819992716,Rohnert Park,CA,United States}	{College & University,Professional & Other Places,}
+1680	Wed Mar 30 21:22:20 +0000 2011	49d01698f964a520fd5a1fe3	{Golden Gate Bridge}	{37.81700118722001,-122.47821718454361,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Wed Mar 30 19:29:35 +0000 2011	49e2d7c6f964a52063621fe3	{Japan Center Garage Annex}	{37.78504295,-122.43026135,San Francisco,CA,United States}	{Shop & Service,}
+1680	Wed Mar 30 19:25:46 +0000 2011	4aff8b4af964a520663922e3	{Dosa}	{37.78533895584412,-122.4329138626742,San Francisco,CA,United States}	{Food,}
+1680	Wed Mar 30 19:04:19 +0000 2011	4b89622bf964a520e03032e3	{Waldo / Rainbow Tunnel}	{37.841529422174844,-122.48599290847778,Sausalito,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Wed Mar 30 16:07:14 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Wed Mar 30 15:37:39 +0000 2011	4bc8cec58b7c9c7407f738cf	{76 Gas Station}	{38.45241793333334,-122.75085978333334,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Wed Mar 30 05:06:33 +0000 2011	4abd8064f964a520b58a20e3	{Expresso Airport Parking}	{37.71998658965351,-122.188958526383,Oakland,CA,United States}	{Travel & Transport,Professional & Other Places,}
+1680	Wed Mar 30 02:49:01 +0000 2011	4493522af964a5207c341fe3	{Oakland International Airport (OAK)}	{37.71226740592608,-122.21261143684387,Oakland,CA,United States}	{Travel & Transport,}
+1680	Tue Mar 29 23:50:05 +0000 2011	47053daef964a520544b1fe3	{Ontario International Airport (ONT)}	{34.05994816216629,-117.5930643081665,Ontario,CA,United States}	{Travel & Transport,Airport,}
+1680	Tue Mar 29 15:48:37 +0000 2011	4cf6f65881cd6dcbd4f17e0d	{State Farm Insurance}	{34.083097095223756,-117.56897415819151,Rancho Cucamonga,CA,United States}	{Professional & Other Places,}
+1680	Tue Mar 29 15:12:17 +0000 2011	4b65fe9bf964a5202c0d2be3	{Starbucks}	{34.07557792673255,-117.5583639010272,Ontario,CA,United States}	{Food,}
+1680	Tue Mar 29 15:08:08 +0000 2011	4bb2cb69715eef3bc3bc85bb	{Homewood Suites}	{34.07873676807735,-117.55565248738334,Rancho Cucamonga,CA,United States}	{Travel & Transport,}
+1680	Tue Mar 29 03:22:00 +0000 2011	4ad5269ef964a520200221e3	{BJ's Restaurant & Brewhouse}	{34.07759853939048,-117.55333542823792,Rancho Cucamonga,CA,United States}	{Nightlife Spot,Food,}
+1680	Tue Mar 29 03:00:02 +0000 2011	4bb2cb69715eef3bc3bc85bb	{Homewood Suites}	{34.07873676807735,-117.55565248738334,Rancho Cucamonga,CA,United States}	{Travel & Transport,}
+1680	Tue Mar 29 02:23:03 +0000 2011	47053daef964a520544b1fe3	{Ontario International Airport (ONT)}	{34.05994816216629,-117.5930643081665,Ontario,CA,United States}	{Travel & Transport,Airport,}
+1680	Tue Mar 29 00:47:22 +0000 2011	4bf96a7e5ec320a1562c8ad3	{Gate 25}	{37.711011244889704,-122.21203207969666,Oakland,CA,United States}	{Travel & Transport,Airport,}
+1680	Tue Mar 29 00:13:57 +0000 2011	4493522af964a5207c341fe3	{Oakland International Airport (OAK)}	{37.71226740592608,-122.21261143684387,Oakland,CA,United States}	{Travel & Transport,}
+1680	Mon Mar 28 23:50:12 +0000 2011	4abd8064f964a520b58a20e3	{Expresso Airport Parking}	{37.71998658965351,-122.188958526383,Oakland,CA,United States}	{Travel & Transport,Professional & Other Places,}
+1680	Mon Mar 28 17:33:00 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Mon Mar 28 17:18:43 +0000 2011	4b5f7959f964a52073bc29e3	{Rohnert Park - Cotati Regional Library}	{38.34888945090782,-122.70435819992716,Rohnert Park,CA,United States}	{College & University,Professional & Other Places,}
+1680	Mon Mar 28 17:10:38 +0000 2011	4838dd4ef964a52000501fe3	{Costco Gasoline Emporium}	{38.35182067919209,-122.71689891815186,Rohnert Park,CA,United States}	{Shop & Service,}
+1680	Sun Mar 27 23:14:18 +0000 2011	4bc263f774a9a5939f4cd3f6	{Novato Dumps}	{38.165052946230205,-122.57761885693807,Novato,CA,United States}	{Professional & Other Places,}
+1680	Sun Mar 27 22:45:27 +0000 2011	49dcfa66f964a520cf5f1fe3	{Marina Green}	{37.80666580547457,-122.4385597137619,San Francisco,CA,United States}	{Shop & Service,Outdoors & Recreation,Gym / Fitness Center,}
+1680	Sun Mar 27 19:52:15 +0000 2011	4d8e30deca75b60ce069f9a8	{Rhone Rangers Grand Tasting}	{37.807513,-122.43025685,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+1680	Sun Mar 27 19:29:01 +0000 2011	4bae72d5f964a520bdb33be3	{Fort Mason}	{37.804981961275594,-122.43021368980408,San Francisco,CA,United States}	{Outdoors & Recreation,}
+1680	Sun Mar 27 19:22:04 +0000 2011	49d01698f964a520fd5a1fe3	{Golden Gate Bridge}	{37.81700118722001,-122.47821718454361,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Sun Mar 27 19:20:28 +0000 2011	4b89622bf964a520e03032e3	{Waldo / Rainbow Tunnel}	{37.841529422174844,-122.48599290847778,Sausalito,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Sat Mar 26 21:30:42 +0000 2011	4b5f752cf964a52086bb29e3	{Northwest Santa Rosa Library}	{38.45907755,-122.730736,Santa Rosa,CA,United States}	{College & University,Professional & Other Places,}
+1680	Sat Mar 26 21:07:28 +0000 2011	4d1d6597dbac2c0f7b173e35	{J Jill}	{38.44391396012557,-122.6869446026694,Santa Rosa,CA,United States}	{Shop & Service,Clothing Store,}
+1680	Sat Mar 26 20:39:44 +0000 2011	4b12dc0cf964a5209a8f23e3	{Montgomery Village Shopping Center}	{38.44390518235561,-122.68629918911725,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Fri Mar 25 20:32:18 +0000 2011	4b1adcd2f964a52075f323e3	{Macy's}	{38.45778953,-122.7281857,Santa Rosa,CA,United States}	{Shop & Service,Clothing Store,}
+1680	Fri Mar 25 20:19:30 +0000 2011	4c0839c06071a593e0f3db32	{US Post Office}	{38.4555739644421,-122.73168334945314,Santa Rosa,CA,United States}	{Professional & Other Places,}
+1680	Thu Mar 24 17:33:44 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Thu Mar 24 05:41:35 +0000 2011	4b89622bf964a520e03032e3	{Waldo / Rainbow Tunnel}	{37.841529422174844,-122.48599290847778,Sausalito,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Thu Mar 24 02:57:51 +0000 2011	4ab6d922f964a520497920e3	{American Conservatory Theater}	{37.78700220936606,-122.41015595682995,San Francisco,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+1680	Thu Mar 24 02:43:25 +0000 2011	4a343fdcf964a520f89b1fe3	{Mason O'Farrell Garage}	{37.78646286458811,-122.40970793883629,San Francisco,CA,United States}	{Professional & Other Places,}
+1680	Thu Mar 24 02:26:20 +0000 2011	49d01698f964a520fd5a1fe3	{Golden Gate Bridge}	{37.81700118722001,-122.47821718454361,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Wed Mar 23 17:44:14 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Tue Mar 22 19:44:56 +0000 2011	4d48687dc3e5a35d2e899d4f	{Tasty Tuesday}	{38.344587,-122.68709186666666,,,United States}	{Food,}
+1680	Tue Mar 22 16:21:57 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Mon Mar 21 19:46:20 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Mon Mar 21 18:01:36 +0000 2011	4b5f7959f964a52073bc29e3	{Rohnert Park - Cotati Regional Library}	{38.34888945090782,-122.70435819992716,Rohnert Park,CA,United States}	{College & University,Professional & Other Places,}
+1680	Mon Mar 21 01:09:09 +0000 2011	4cfaf785c51fa1cd2b23e42b	{Shimo Modern Steak}	{38.609889,-122.87055,Healdsburg,CA,United States}	{Food,}
+1680	Thu Mar 17 15:48:51 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Thu Mar 17 04:09:14 +0000 2011	4aa01288f964a5202c3e20e3	{Safeway}	{38.46317837139283,-122.71749503690329,Santa Rosa,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1680	Thu Mar 17 03:49:47 +0000 2011	4bba1345cf2fc9b62019a102	{Kaiser Pharmacy 1 West}	{38.471567676751675,-122.72603142086204,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Thu Mar 17 00:39:55 +0000 2011	4a874cc9f964a520b60320e3	{Hook & Ladder Winery}	{38.47244015,-122.81304566666667,Santa Rosa,CA,United States}	{Nightlife Spot,Food,}
+1680	Wed Mar 16 23:50:20 +0000 2011	4c708d7d9a669c7451a6debd	{Inspiration Vineyards & Winery}	{38.47206437495762,-122.74428188737201,Santa Rosa,CA,United States}	{Food,}
+1680	Wed Mar 16 16:37:40 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Wed Mar 16 16:12:49 +0000 2011	4b0d933ef964a5205c4b23e3	{Target}	{38.346814181432364,-122.71991595730472,Rohnert Park,CA,United States}	{Shop & Service,}
+1680	Tue Mar 15 19:27:25 +0000 2011	4d48687dc3e5a35d2e899d4f	{Tasty Tuesday}	{38.344587,-122.68709186666666,,,United States}	{Food,}
+1680	Tue Mar 15 16:40:29 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Tue Mar 15 01:16:46 +0000 2011	4b970c2df964a5203af534e3	{Tayman Park (golf club)}	{38.614562663562,-122.85467416694414,Healdsburg,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1680	Mon Mar 14 23:18:53 +0000 2011	4b5f7959f964a52073bc29e3	{Rohnert Park - Cotati Regional Library}	{38.34888945090782,-122.70435819992716,Rohnert Park,CA,United States}	{College & University,Professional & Other Places,}
+1680	Mon Mar 14 19:45:44 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Mon Mar 14 16:28:49 +0000 2011	4838dd4ef964a52000501fe3	{Costco Gasoline Emporium}	{38.35182067919209,-122.71689891815186,Rohnert Park,CA,United States}	{Shop & Service,}
+1680	Mon Mar 14 01:22:21 +0000 2011	4a874cc9f964a520b60320e3	{Hook & Ladder Winery}	{38.47244015,-122.81304566666667,Santa Rosa,CA,United States}	{Nightlife Spot,Food,}
+1680	Sun Mar 13 21:53:47 +0000 2011	4a874eb6f964a520c20320e3	{De Loach Winery & Vineyards}	{38.46251741169135,-122.81980179317868,Santa Rosa,CA,United States}	{Food,}
+1680	Sun Mar 13 21:42:33 +0000 2011	4d7d3a40cf3f3704bbab6040	{Tara Bella Winery}	{38.48253231110281,-122.81364789247014,Santa Rosa,CA,United States}	{Food,}
+1680	Sun Mar 13 20:08:11 +0000 2011	4c49cf991b430f476a660dc4	{Old World Winery}	{38.49602401256561,-122.766378,Santa Rosa,CA,United States}	{Food,}
+1680	Sun Mar 13 19:57:01 +0000 2011	4cfc11fed7206ea825364269	{MJ Lords Wine Cellars}	{38.44891795,-122.72743188333334,Santa Rosa,CA,United States}	{Food,}
+1680	Sun Mar 13 19:57:01 +0000 2011	4cfc11fed7206ea825364269	{MJ Lords Wine Cellars}	{38.44891795,-122.72743188333334,Santa Rosa,CA,United States}	{Food,}
+1680	Sun Mar 13 19:19:37 +0000 2011	4c708d7d9a669c7451a6debd	{Inspiration Vineyards & Winery}	{38.47206437495762,-122.74428188737201,Santa Rosa,CA,United States}	{Food,}
+1680	Sun Mar 13 06:06:44 +0000 2011	4a8c3e40f964a5206d0d20e3	{Screamin' Mimi's}	{38.402638526227506,-122.8229695558548,Sebastopol,CA,United States}	{Food,}
+1680	Sun Mar 13 01:01:12 +0000 2011	4a874cc9f964a520b60320e3	{Hook & Ladder Winery}	{38.47244015,-122.81304566666667,Santa Rosa,CA,United States}	{Nightlife Spot,Food,}
+1680	Sat Mar 12 21:50:45 +0000 2011	4d2a833e3c795481d223e19b	{Twisted Vine Vineyards}	{38.470686924845445,-122.81541091031893,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+1680	Sat Mar 12 01:09:12 +0000 2011	4a874cc9f964a520b60320e3	{Hook & Ladder Winery}	{38.47244015,-122.81304566666667,Santa Rosa,CA,United States}	{Nightlife Spot,Food,}
+1680	Thu Mar 10 16:56:45 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Thu Mar 10 01:56:02 +0000 2011	4a874a34f964a520aa0320e3	{Pellegrini Family Vineyard}	{38.474256016666665,-122.82119,Santa Rosa,CA,United States}	{Travel & Transport,Food,}
+1680	Wed Mar 09 21:31:18 +0000 2011	4c708d7d9a669c7451a6debd	{Inspiration Vineyards & Winery}	{38.47206437495762,-122.74428188737201,Santa Rosa,CA,United States}	{Food,}
+1680	Wed Mar 09 21:05:09 +0000 2011	4b9fd036f964a520054137e3	{Street-eatz Mobile Kitchen}	{38.512781,-122.791751,,,United States}	{Food,}
+1680	Wed Mar 09 21:04:15 +0000 2011	4b2ffdf4f964a5200bf424e3	{Sonic.net}	{38.41923364103339,-122.75176763534546,Santa Rosa,CA,United States}	{Office,Professional & Other Places,}
+1680	Wed Mar 09 01:30:55 +0000 2011	4a874cc9f964a520b60320e3	{Hook & Ladder Winery}	{38.47244015,-122.81304566666667,Santa Rosa,CA,United States}	{Nightlife Spot,Food,}
+1680	Tue Mar 08 21:40:18 +0000 2011	4b5f7959f964a52073bc29e3	{Rohnert Park - Cotati Regional Library}	{38.34888945090782,-122.70435819992716,Rohnert Park,CA,United States}	{College & University,Professional & Other Places,}
+1680	Tue Mar 08 21:24:36 +0000 2011	4d48687dc3e5a35d2e899d4f	{Tasty Tuesday}	{38.344587,-122.68709186666666,,,United States}	{Food,}
+1680	Tue Mar 08 18:32:32 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Tue Mar 08 01:39:49 +0000 2011	4a874cc9f964a520b60320e3	{Hook & Ladder Winery}	{38.47244015,-122.81304566666667,Santa Rosa,CA,United States}	{Nightlife Spot,Food,}
+1680	Mon Mar 07 17:14:31 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Mon Mar 07 00:55:20 +0000 2011	4a874cc9f964a520b60320e3	{Hook & Ladder Winery}	{38.47244015,-122.81304566666667,Santa Rosa,CA,United States}	{Nightlife Spot,Food,}
+1680	Sun Mar 06 22:21:40 +0000 2011	4cfc11fed7206ea825364269	{MJ Lords Wine Cellars}	{38.44891795,-122.72743188333334,Santa Rosa,CA,United States}	{Food,}
+1680	Sun Mar 06 21:06:41 +0000 2011	4cc1ff77b2beb1f7a2020d4c	{Sheldon Wines}	{38.44890933799557,-122.72739894058608,Santa Rosa,CA,United States}	{Food,}
+1680	Sun Mar 06 20:27:52 +0000 2011	4c708d7d9a669c7451a6debd	{Inspiration Vineyards & Winery}	{38.47206437495762,-122.74428188737201,Santa Rosa,CA,United States}	{Food,}
+1680	Sun Mar 06 20:20:23 +0000 2011	4b7cdad2f964a5207fa72fe3	{Raley??s}	{38.45402045748858,-122.77100106792969,Santa Rosa,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1680	Sun Mar 06 00:10:47 +0000 2011	4a874cc9f964a520b60320e3	{Hook & Ladder Winery}	{38.47244015,-122.81304566666667,Santa Rosa,CA,United States}	{Nightlife Spot,Food,}
+1680	Sat Mar 05 19:33:18 +0000 2011	4c708d7d9a669c7451a6debd	{Inspiration Vineyards & Winery}	{38.47206437495762,-122.74428188737201,Santa Rosa,CA,United States}	{Food,}
+1680	Fri Mar 04 22:51:12 +0000 2011	4a874cc9f964a520b60320e3	{Hook & Ladder Winery}	{38.47244015,-122.81304566666667,Santa Rosa,CA,United States}	{Nightlife Spot,Food,}
+1680	Fri Mar 04 20:56:34 +0000 2011	4b3288fbf964a520000e25e3	{Aioli Delicatessen}	{38.473577,-122.89078,Forestville,CA,United States}	{Food,}
+1680	Fri Mar 04 20:33:23 +0000 2011	4c1fec00b306c928642e69b7	{Wikiup Veterinary Hospital}	{38.5073962,-122.75828341666667,Santa Rosa,CA,United States}	{Medical Center,Professional & Other Places,}
+1680	Thu Mar 03 17:37:01 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Thu Mar 03 01:51:53 +0000 2011	4be5df65bcef2d7f5a7604e5	{Ace Hardware}	{38.4532282,-122.771516,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Thu Mar 03 00:30:02 +0000 2011	4b7dbabbf964a52009d12fe3	{Daredevils & Queens}	{38.437665,-122.7198846,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Thu Mar 03 00:30:02 +0000 2011	4b7dbabbf964a52009d12fe3	{Daredevils & Queens}	{38.437665,-122.7198846,Santa Rosa,CA,United States}	{Shop & Service,}
+1680	Wed Mar 02 17:52:47 +0000 2011	4a7b5b40f964a520c6ea1fe3	{State Farm}	{38.345787572301056,-122.70324408320178,Rohnert Park,CA,United States}	{Professional & Other Places,}
+1680	Wed Mar 02 17:49:19 +0000 2011	4b5f7959f964a52073bc29e3	{Rohnert Park - Cotati Regional Library}	{38.34888945090782,-122.70435819992716,Rohnert Park,CA,United States}	{College & University,Professional & Other Places,}
+1680	Wed Mar 02 05:51:16 +0000 2011	49d01698f964a520fd5a1fe3	{Golden Gate Bridge}	{37.81700118722001,-122.47821718454361,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1680	Wed Mar 02 04:47:31 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+1680	Tue Mar 01 22:54:10 +0000 2011	4aa18a65f964a520ea4020e3	{Honolulu International Airport (HNL)}	{21.331234509259605,-157.91996955871582,Honolulu,HI,United States}	{Travel & Transport,}
+1680	Tue Mar 01 22:30:29 +0000 2011	4c08a823009a0f47087fe6bf	{Enterprise}	{21.332953439047387,-157.91409015655518,Honolulu,HI,United States}	{Travel & Transport,Shop & Service,}
+1680	Tue Mar 01 22:19:15 +0000 2011	4b5dde4af964a520f17029e3	{Chevron}	{21.33651443145885,-157.91424425497084,Honolulu,HI,United States}	{Shop & Service,}
+1680	Tue Mar 01 21:57:47 +0000 2011	4aef0988f964a52044d521e3	{??Iolani Palace}	{21.30671293366346,-157.85924607505228,Honolulu,HI,United States}	{Government Building,Museum,Arts & Entertainment,Professional & Other Places,}
+1680	Tue Mar 01 21:20:38 +0000 2011	4c187237d4d9c9289d7eef29	{Pali Tunnels}	{21.362531864689746,-157.8006649017334,Honolulu,HI,United States}	{Travel & Transport,}
+1680	Tue Mar 01 02:33:47 +0000 2011	4c364d3a93db0f4706d81d92	{Post Office}	{21.333452081340226,-157.69782889722566,Waimanalo,HI,United States}	{Shop & Service,Professional & Other Places,}
+1680	Tue Mar 01 01:53:02 +0000 2011	4b23d1f2f964a5206b5a24e3	{US Post Office}	{21.289185205018093,-157.7031669354961,Honolulu,HI,United States}	{Professional & Other Places,}
+1680	Tue Mar 01 01:40:38 +0000 2011	4aee40a7f964a52033d321e3	{Costco Wholesale}	{21.28391606453675,-157.70983457565308,Honolulu,HI,United States}	{Shop & Service,Food,}
+1680	Tue Mar 01 01:26:46 +0000 2011	4b34235df964a5206d2525e3	{CLOSED - Mayor just checks in to cheat.}	{21.276777993308603,-157.7050495147705,Honolulu,HI,United States}	{Shop & Service,Food & Drink Shop,}
+1680	Mon Feb 28 23:24:34 +0000 2011	4b058652f964a520455c22e3	{Queen Emma Summer Palace}	{21.335804966289444,-157.8392777714373,Honolulu,HI,United States}	{Museum,Arts & Entertainment,}
+1680	Mon Feb 28 23:16:37 +0000 2011	4b69fae9f964a52086bf2be3	{Nu?uanu Pali Lookout}	{21.366688354189435,-157.79329419136047,Honolulu,HI,United States}	{Outdoors & Recreation,Government Building,Professional & Other Places,}
+1680	Mon Feb 28 22:59:58 +0000 2011	4b058652f964a520405c22e3	{Waimanalo Beach Park}	{21.33168232591751,-157.69373078576976,Waimanalo,HI,United States}	{Outdoors & Recreation,}
+1680	Mon Feb 28 02:49:58 +0000 2011	4d0d97ed95c1a1cdfe5f03ff	{Serg??s Mexican Kitchen}	{21.333576,-157.697993,Waimanalo,HI,United States}	{Food,}
+1680	Mon Feb 28 02:12:51 +0000 2011	4b058652f964a520355c22e3	{Ulupo Heiau State Historical Monument}	{21.38536581559822,-157.75282837593068,Kailua,HI,United States}	{Government Building,Professional & Other Places,}
+1680	Mon Feb 28 01:52:37 +0000 2011	4b058651f964a520ef5b22e3	{Ho??omaluhia Botanical Garden}	{21.38676672809483,-157.80784700396205,Kaneohe,HI,United States}	{Outdoors & Recreation,}
+1680	Mon Feb 28 01:49:09 +0000 2011	4b058651f964a520ef5b22e3	{Ho??omaluhia Botanical Garden}	{21.38676672809483,-157.80784700396205,Kaneohe,HI,United States}	{Outdoors & Recreation,}
+1680	Mon Feb 28 01:01:01 +0000 2011	4cce3d15c0378cfa73b39248	{Likelike Highway}	{21.358894839625684,-157.85692691802979,Honolulu,HI,United States}	{Travel & Transport,}
+1680	Mon Feb 28 00:38:45 +0000 2011	4b058651f964a520cc5b22e3	{Byodo-In Temple}	{21.430953,-157.831789,Kaneohe,HI,United States}	{Spiritual Center,Government Building,Professional & Other Places,}
+1680	Sun Feb 27 00:24:04 +0000 2011	4b820ae4f964a520e0c830e3	{Kona Brewing Co.}	{21.27834613603715,-157.7056816988374,Honolulu,HI,United States}	{Nightlife Spot,Food,}
+1680	Sat Feb 26 19:59:49 +0000 2011	4b058651f964a520d05b22e3	{Hanauma Bay Nature Preserve}	{21.273298807845077,-157.6956081390381,Honolulu,HI,United States}	{Outdoors & Recreation,Beach,}
+1680	Sat Feb 26 05:29:06 +0000 2011	4c3fd48eff711b8d9a990f05	{Scenic Point On Pali Highway}	{21.367327755251242,-157.7821858034908,Koolaupoko,HI,United States}	{Outdoors & Recreation,}
+1680	Sat Feb 26 05:21:07 +0000 2011	4ca22a85750ca09310110e67	{Pali Highway (Hawaii Route 61)}	{21.333992782171922,-157.84139156341553,Honolulu,HI,United States}	{Travel & Transport,}
+1680	Sat Feb 26 03:46:08 +0000 2011	4d423d351da9a093a147603d	{Eat The Street Food Truck Rally}	{21.295467209130848,-157.85975396633148,Honolulu,HI,United States}	{Food,}
+1680	Sat Feb 26 03:16:46 +0000 2011	4c187237d4d9c9289d7eef29	{Pali Tunnels}	{21.362531864689746,-157.8006649017334,Honolulu,HI,United States}	{Travel & Transport,}

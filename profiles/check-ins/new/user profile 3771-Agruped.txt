@@ -1,0 +1,475 @@
+3771	Thu Aug 11 18:20:04 +0000 2011	4dee7ef12271e7b44637b1fd	{Garage Workout}	{33.87414,-118.30498,Gardena,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+3771	Mon Aug 08 23:24:41 +0000 2011	4e02c5a9aeb798576577a866	{T.G.I. Friday's}	{33.84254889447152,-117.99768244049233,Buena Park,CA,United States}	{Food,}
+3771	Mon Aug 08 20:59:06 +0000 2011	4aee693df964a520cdd321e3	{GhostRider}	{33.8425997630998,-117.99878597259521,Buena Park,CA,United States}	{Arts & Entertainment,Theme Park,}
+3771	Mon Aug 08 20:33:07 +0000 2011	4c3ba22e4565e21ed912576a	{Knott's Parking Lot (East)}	{33.84428484421503,-117.99660160518934,Buena Park,CA,United States}	{Professional & Other Places,}
+3771	Mon Aug 08 19:08:14 +0000 2011	4d8d41a5ca75b60c581ce5a8	{2 Grahams}	{33.873842782236245,-118.30519545367989,Gardena,CA,United States}	{}
+3771	Fri Aug 05 18:14:05 +0000 2011	4a65d6a4f964a520a1c71fe3	{Louis Armstrong New Orleans International Airport (MSY)}	{29.984936414376474,-90.25714874267578,Kenner,LA,United States}	{Travel & Transport,}
+3771	Fri Aug 05 08:47:58 +0000 2011	4ad4c04df964a5206cf320e3	{Fat Catz Music Club}	{29.957081824166604,-90.06709814071655,New Orleans,LA,United States}	{Nightlife Spot,Arts & Entertainment,}
+3771	Fri Aug 05 08:47:21 +0000 2011	41326e00f964a5206d181fe3	{Bourbon Street Blues Company}	{29.95699884236546,-90.06714728004074,New Orleans,LA,United States}	{Nightlife Spot,}
+3771	Fri Aug 05 08:17:39 +0000 2011	4b5e8834f964a520ed9129e3	{The Beach on Bourbon}	{29.95534919476552,-90.0688852321087,New Orleans,LA,United States}	{Nightlife Spot,}
+3771	Fri Aug 05 07:28:29 +0000 2011	4aa59477f964a520dd4820e3	{Caf? Du Monde}	{29.957505928636447,-90.06194561719894,New Orleans,LA,United States}	{Food,}
+3771	Fri Aug 05 04:09:12 +0000 2011	4aaaeb39f964a5200e5820e3	{Harrah's Casino New Orleans}	{29.950269142446164,-90.0653820391889,New Orleans,LA,United States}	{Travel & Transport,Arts & Entertainment,}
+3771	Thu Aug 04 10:52:51 +0000 2011	4d7ae6513579370442f2755d	{Greyhound Bus Lines}	{29.94617765136072,-90.07823467254639,NEW ORLEANS,LA,United States}	{Travel & Transport,}
+3771	Thu Aug 04 09:17:54 +0000 2011	4aaaeb39f964a5200e5820e3	{Harrah's Casino New Orleans}	{29.950269142446164,-90.0653820391889,New Orleans,LA,United States}	{Travel & Transport,Arts & Entertainment,}
+3771	Thu Aug 04 08:21:01 +0000 2011	4ad4c04ef964a520c2f320e3	{Hermann-Grima House}	{29.957165483273762,-90.0675916671753,New Orleans,LA,United States}	{Government Building,Museum,Arts & Entertainment,Professional & Other Places,}
+3771	Thu Aug 04 07:41:43 +0000 2011	4ad4c04df964a5203cf320e3	{Deja Vu Restaurant And Bar}	{29.95690221145874,-90.06862521852725,New Orleans,LA,United States}	{Nightlife Spot,Food,}
+3771	Thu Aug 04 07:34:15 +0000 2011	4ad76daaf964a520520a21e3	{The Old Absinthe House}	{29.955478344339674,-90.06839632987976,New Orleans,LA,United States}	{Nightlife Spot,Arts & Entertainment,}
+3771	Thu Aug 04 07:31:26 +0000 2011	4b5e8834f964a520ed9129e3	{The Beach on Bourbon}	{29.95534919476552,-90.0688852321087,New Orleans,LA,United States}	{Nightlife Spot,}
+3771	Thu Aug 04 07:28:44 +0000 2011	41326e00f964a52086181fe3	{Cajun Cabin}	{29.957145851926445,-90.06698306816524,New Orleans,LA,United States}	{Nightlife Spot,Food,}
+3771	Thu Aug 04 07:27:03 +0000 2011	4ad4c04df964a5206df320e3	{Erin Rose}	{29.9564,-90.06795349,New Orleans,LA,United States}	{Nightlife Spot,}
+3771	Thu Aug 04 07:22:11 +0000 2011	4ad4c04df964a5206cf320e3	{Fat Catz Music Club}	{29.957081824166604,-90.06709814071655,New Orleans,LA,United States}	{Nightlife Spot,Arts & Entertainment,}
+3771	Thu Aug 04 07:15:29 +0000 2011	41326e00f964a5206d181fe3	{Bourbon Street Blues Company}	{29.95699884236546,-90.06714728004074,New Orleans,LA,United States}	{Nightlife Spot,}
+3771	Thu Aug 04 05:41:13 +0000 2011	4c0534a639d476b02e8332a7	{Alamo}	{29.981274962158597,-90.27017354965209,Kenner,LA,United States}	{Travel & Transport,}
+3771	Thu Aug 04 05:23:49 +0000 2011	4a65d6a4f964a520a1c71fe3	{Louis Armstrong New Orleans International Airport (MSY)}	{29.984936414376474,-90.25714874267578,Kenner,LA,United States}	{Travel & Transport,}
+3771	Mon Aug 01 18:11:44 +0000 2011	4dee7ef12271e7b44637b1fd	{Garage Workout}	{33.87414,-118.30498,Gardena,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+3771	Tue Jul 26 23:53:11 +0000 2011	4dee7ef12271e7b44637b1fd	{Garage Workout}	{33.87414,-118.30498,Gardena,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+3771	Tue Jul 26 09:31:51 +0000 2011	4d58bc1bc88da1cda76f3268	{Tiff's}	{33.87315622937399,-118.30528067963546,Gardena,CA,United States}	{Residence,}
+3771	Tue Jul 26 01:04:01 +0000 2011	4a2f6908f964a520c7981fe3	{Albertsons}	{33.873966230101566,-118.30826909365636,Gardena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3771	Mon Jul 25 23:58:04 +0000 2011	4dee7ef12271e7b44637b1fd	{Garage Workout}	{33.87414,-118.30498,Gardena,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+3771	Mon Jul 25 03:39:09 +0000 2011	4e177f09091ada32262c751b	{Hooters of Downtown LA}	{34.04108503566296,-118.2672107219696,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+3771	Mon Jul 25 03:02:23 +0000 2011	4d92a92c7b5ea143f7d9b6b8	{Icon LA}	{34.040974,-118.2674016,Los Angeles,CA,United States}	{Nightlife Spot,}
+3771	Wed Jul 20 05:29:33 +0000 2011	4c99529bb8e9224b0a86443d	{Blockbuster}	{33.87343539762367,-118.3087828558114,Gardena,CA,United States}	{Shop & Service,}
+3771	Sun Jul 17 20:48:53 +0000 2011	4aec97caf964a52032c921e3	{Gap}	{34.01589061910808,-118.49602997303009,Santa Monica,CA,United States}	{Shop & Service,Clothing Store,}
+3771	Thu Jul 14 01:50:28 +0000 2011	4dee7ef12271e7b44637b1fd	{Garage Workout}	{33.87414,-118.30498,Gardena,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+3771	Tue Jul 05 01:21:57 +0000 2011	4afce70cf964a520762622e3	{Target}	{33.886593677330985,-118.3161694419679,Gardena,CA,United States}	{Shop & Service,}
+3771	Tue Jul 05 00:15:54 +0000 2011	4aa017e9f964a520413e20e3	{South Bay Galleria}	{33.87086095749672,-118.35506916046143,Redondo Beach,CA,United States}	{Shop & Service,}
+3771	Tue Jul 05 00:15:14 +0000 2011	4afa1a17f964a520c01622e3	{AMC South Bay Galleria 16}	{33.87159141921541,-118.3553695678711,Redondo Beach,CA,United States}	{Arts & Entertainment,}
+3771	Mon Jul 04 05:14:02 +0000 2011	4d12bdc0d6e06a3102c97461	{Coolington}	{33.95406038265983,-118.33418930651516,Inglewood,CA,United States}	{}
+3771	Mon Jul 04 03:26:28 +0000 2011	4d58bc1bc88da1cda76f3268	{Tiff's}	{33.87315622937399,-118.30528067963546,Gardena,CA,United States}	{Residence,}
+3771	Mon Jul 04 00:07:32 +0000 2011	4ac6b0aaf964a520d5b520e3	{Mount Palomar Winery}	{33.52938777600288,-117.07377980183394,Temecula,CA,United States}	{Outdoors & Recreation,Food,}
+3771	Sun Jul 03 23:05:36 +0000 2011	4ac39d7af964a520079c20e3	{South Coast Winery Resort & Spa}	{33.53395431879405,-117.05413341522217,Temecula,CA,United States}	{Travel & Transport,Shop & Service,Food,Hotel,}
+3771	Sun Jul 03 22:56:32 +0000 2011	4b91e2bdf964a52097dd33e3	{Longshadow Ranch Winery}	{33.53379318698186,-117.07521637164629,Temecula,CA,United States}	{Food,}
+3771	Sun Jul 03 21:38:39 +0000 2011	4b64cb8df964a520a9d02ae3	{Stuart Cellars}	{33.523742445239094,-117.0740441314245,Temecula,CA,United States}	{Food,}
+3771	Sun Jul 03 21:02:26 +0000 2011	4b91e97ef964a5200bdf33e3	{Miramonte Vineyard & Winery}	{33.52560355886409,-117.0779285883874,Temecula,CA,United States}	{Food,}
+3771	Sun Jul 03 19:46:54 +0000 2011	4b91e4caf964a52014de33e3	{Churon Winery}	{33.52117811808114,-117.0793708756696,Temecula,CA,United States}	{Travel & Transport,Food,}
+3771	Sun Jul 03 19:18:51 +0000 2011	4ac3c1abf964a520b09c20e3	{Callaway Vineyard & Winery}	{33.524796085610056,-117.08979606628418,Temecula,CA,United States}	{Outdoors & Recreation,Food,}
+3771	Sun Jul 03 11:03:46 +0000 2011	4de07d287d8b84d5dc6e8fc3	{Bazile's Sons}	{33.948189,-118.3713755,Los Angeles,CA,United States}	{}
+3771	Sun Jul 03 11:03:00 +0000 2011	4c71f67e6b91b71325ddf020	{Exotic City}	{33.943181935699016,-118.37011098861694,Los Angeles,CA,United States}	{Nightlife Spot,}
+3771	Sun Jul 03 11:02:59 +0000 2011	4c71f67e6b91b71325ddf020	{Exotic City}	{33.943181935699016,-118.37011098861694,Los Angeles,CA,United States}	{Nightlife Spot,}
+3771	Sun Jul 03 00:56:05 +0000 2011	4e0fb026aeb7a5b33ef681a0	{The cool party ....}	{34.0468829870224,-118.33347737789154,,,United States}	{Outdoors & Recreation,}
+3771	Fri Jul 01 02:25:21 +0000 2011	4d8d41a5ca75b60c581ce5a8	{2 Grahams}	{33.873842782236245,-118.30519545367989,Gardena,CA,United States}	{}
+3771	Thu Jun 30 00:15:32 +0000 2011	4afce70cf964a520762622e3	{Target}	{33.886593677330985,-118.3161694419679,Gardena,CA,United States}	{Shop & Service,}
+3771	Tue Jun 28 19:07:41 +0000 2011	4b6b84c0f964a520a00d2ce3	{New millennium beauty & barber}	{34.06206965446472,-118.34475413,Los Angeles,CA,United States}	{Shop & Service,}
+3771	Tue Jun 28 01:31:25 +0000 2011	4b5142d0f964a520114927e3	{Red Lobster}	{33.94517,-118.33127734871779,Inglewood,CA,United States}	{Food,}
+3771	Mon Jun 27 23:24:59 +0000 2011	4ad12a42f964a5202bdd20e3	{Westfield Culver City}	{33.98604389243085,-118.39315784907377,Culver City,CA,United States}	{Outdoors & Recreation,Shop & Service,}
+3771	Mon Jun 27 07:06:22 +0000 2011	4cb62c6615a79521ebe53805	{Chocolate Sundaes Comedy Show inside the Laugh Factory}	{34.098078,-118.36456418037415,W Hollywood,CA,United States}	{Arts & Entertainment,}
+3771	Sun Jun 26 08:09:55 +0000 2011	4c71f67e6b91b71325ddf020	{Exotic City}	{33.943181935699016,-118.37011098861694,Los Angeles,CA,United States}	{Nightlife Spot,}
+3771	Sat Jun 25 07:18:00 +0000 2011	4bc8047b14d79521c97b68e9	{Erotic City}	{33.95262823634247,-118.36658826518926,,,United States}	{}
+3771	Sat Jun 25 07:17:33 +0000 2011	4da7a0b25da3ef8bf14c9d77	{Erotic City}	{33.94826,-118.37125,Inglewood,CA,United States}	{Nightlife Spot,}
+3771	Sat Jun 25 04:58:29 +0000 2011	4de07d287d8b84d5dc6e8fc3	{Bazile's Sons}	{33.948189,-118.3713755,Los Angeles,CA,United States}	{}
+3771	Sat Jun 25 00:28:36 +0000 2011	4adaaf4df964a5200a2421e3	{Wingstop}	{33.97624106838502,-118.37374806404114,Los Angeles,CA,United States}	{Food,}
+3771	Fri Jun 24 22:17:28 +0000 2011	4de07d287d8b84d5dc6e8fc3	{Bazile's Sons}	{33.948189,-118.3713755,Los Angeles,CA,United States}	{}
+3771	Tue Jun 14 05:52:29 +0000 2011	40b3de00f964a52018001fe3	{Lucky Strike Lanes}	{34.102419267905745,-118.33888739347458,Los Angeles,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+3771	Tue Jun 14 04:03:17 +0000 2011	4de07d287d8b84d5dc6e8fc3	{Bazile's Sons}	{33.948189,-118.3713755,Los Angeles,CA,United States}	{}
+3771	Mon Jun 13 11:33:02 +0000 2011	4b6a796ff964a5203ad62be3	{Carl's Jr. / Green Burrito}	{34.03749662915166,-118.37715067978931,Los Angeles,CA,United States}	{Food,}
+3771	Mon Jun 13 09:19:24 +0000 2011	4a01e786f964a5200a711fe3	{Cactus Mexican Food}	{34.088183,-118.32655191421509,Los Angeles,CA,United States}	{Food,}
+3771	Sat Jun 11 22:50:13 +0000 2011	4de07d287d8b84d5dc6e8fc3	{Bazile's Sons}	{33.948189,-118.3713755,Los Angeles,CA,United States}	{}
+3771	Sat Jun 11 04:00:20 +0000 2011	4dee7ef12271e7b44637b1fd	{Garage Workout}	{33.87414,-118.30498,Gardena,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+3771	Sat Jun 11 02:01:55 +0000 2011	4d8d41a5ca75b60c581ce5a8	{2 Grahams}	{33.873842782236245,-118.30519545367989,Gardena,CA,United States}	{}
+3771	Sat Jun 11 02:01:40 +0000 2011	4c99529bb8e9224b0a86443d	{Blockbuster}	{33.87343539762367,-118.3087828558114,Gardena,CA,United States}	{Shop & Service,}
+3771	Thu Jun 09 23:06:58 +0000 2011	4c2c10c0721695215a3d7f8f	{AMPM}	{33.86576048909865,-118.32682062944619,Torrance,CA,United States}	{Shop & Service,Convention Center,Professional & Other Places,}
+3771	Thu Jun 09 23:06:33 +0000 2011	4aea2c66f964a520f7b921e3	{North Torrance Post Office}	{33.86651106523039,-118.32617564089355,Torrance,CA,United States}	{Professional & Other Places,}
+3771	Thu Jun 09 03:31:05 +0000 2011	4dee7ef12271e7b44637b1fd	{Garage Workout}	{33.87414,-118.30498,Gardena,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+3771	Wed Jun 08 21:15:34 +0000 2011	4bcb8047511f9521b1a2b1c7	{Food 4 Less}	{33.87315921838246,-118.29408645629883,Gardena,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+3771	Wed Jun 08 20:17:49 +0000 2011	4aea2c66f964a520f7b921e3	{North Torrance Post Office}	{33.86651106523039,-118.32617564089355,Torrance,CA,United States}	{Professional & Other Places,}
+3771	Tue Jun 07 19:42:25 +0000 2011	4dee7ef12271e7b44637b1fd	{Garage Workout}	{33.87414,-118.30498,Gardena,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+3771	Tue Jun 07 19:40:26 +0000 2011	4d8d41a5ca75b60c581ce5a8	{2 Grahams}	{33.873842782236245,-118.30519545367989,Gardena,CA,United States}	{}
+3771	Mon Jun 06 23:38:22 +0000 2011	4b459716f964a5203d0e26e3	{T.G.I. Friday's}	{33.81345149167098,-118.3501812558635,Torrance,CA,United States}	{Nightlife Spot,Food,}
+3771	Mon Jun 06 04:58:23 +0000 2011	4afa1a17f964a520c01622e3	{AMC South Bay Galleria 16}	{33.87159141921541,-118.3553695678711,Redondo Beach,CA,United States}	{Arts & Entertainment,}
+3771	Mon Jun 06 04:57:52 +0000 2011	4aa017e9f964a520413e20e3	{South Bay Galleria}	{33.87086095749672,-118.35506916046143,Redondo Beach,CA,United States}	{Shop & Service,}
+3771	Fri Jun 03 22:09:12 +0000 2011	4aa30ecaf964a5202b4320e3	{BJ's Restaurant & Brewhouse}	{33.86628843102686,-118.09800555210603,Cerritos,CA,United States}	{Nightlife Spot,Food,}
+3771	Fri Jun 03 19:00:59 +0000 2011	4d8d41a5ca75b60c581ce5a8	{2 Grahams}	{33.873842782236245,-118.30519545367989,Gardena,CA,United States}	{}
+3771	Fri Jun 03 19:00:39 +0000 2011	4d58bc1bc88da1cda76f3268	{Tiff's}	{33.87315622937399,-118.30528067963546,Gardena,CA,United States}	{Residence,}
+3771	Wed Jun 01 17:06:40 +0000 2011	4aa017e9f964a520413e20e3	{South Bay Galleria}	{33.87086095749672,-118.35506916046143,Redondo Beach,CA,United States}	{Shop & Service,}
+3771	Tue May 31 02:25:31 +0000 2011	4aa017e9f964a520413e20e3	{South Bay Galleria}	{33.87086095749672,-118.35506916046143,Redondo Beach,CA,United States}	{Shop & Service,}
+3771	Sun May 29 22:53:06 +0000 2011	4d1c38f3c17ff04db50bc541	{The Hamptons}	{33.97868977112068,-118.37541314826537,,,United States}	{Residence,}
+3771	Sat May 28 17:52:45 +0000 2011	4de07d287d8b84d5dc6e8fc3	{Bazile's Sons}	{33.948189,-118.3713755,Los Angeles,CA,United States}	{}
+3771	Sat May 28 04:42:51 +0000 2011	4de07d287d8b84d5dc6e8fc3	{Bazile's Sons}	{33.948189,-118.3713755,Los Angeles,CA,United States}	{}
+3771	Sun May 15 14:28:36 +0000 2011	41326e00f964a520a2141fe3	{Monte Carlo Resort and Casino}	{36.1047342531898,-115.17521381378174,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+3771	Sun May 15 09:13:05 +0000 2011	41326e00f964a52014151fe3	{Spearmint Rhino}	{36.12844705596655,-115.1781964302063,Las Vegas,NV,United States}	{Nightlife Spot,}
+3771	Sun May 15 02:11:52 +0000 2011	4b9831a9f964a520283335e3	{Outback Steakhouse}	{36.103739352297175,-115.17277702035568,Las Vegas,NV,United States}	{Food,}
+3771	Sat May 14 23:11:11 +0000 2011	4b05ff7df964a52032e722e3	{Sbarro}	{36.10499397583079,-115.17589197028654,Las Vegas,NV,United States}	{Food,}
+3771	Sat May 14 23:03:14 +0000 2011	4b884cc4f964a5208fed31e3	{Monte Carlo Food Court}	{36.10495545058461,-115.17582249218212,Las Vegas,NV,United States}	{Nightlife Spot,Shop & Service,Food & Drink Shop,}
+3771	Sat May 14 22:58:23 +0000 2011	4ba53706f964a520f2ec38e3	{M&M's World?}	{36.10327797055952,-115.17276763916016,Las Vegas,NV,United States}	{Shop & Service,}
+3771	Fri May 06 01:45:54 +0000 2011	4b5e7164f964a520e78e29e3	{Cold Stone Creamery}	{33.873241939790454,-118.3520645763255,Torrance,CA,United States}	{Food,}
+3771	Wed May 04 20:21:16 +0000 2011	4a7eb4d6f964a5200ff21fe3	{California Hospital Medical Center}	{34.03713299673379,-118.26611247672685,Los Angeles,CA,United States}	{Medical Center,Professional & Other Places,}
+3771	Sat Apr 30 23:25:39 +0000 2011	4b64c592f964a520efce2ae3	{The Promenade at Howard Hughes Center}	{33.977730448332515,-118.39172925910522,Los Angeles,CA,United States}	{Shop & Service,Arts & Entertainment,Professional & Other Places,}
+3771	Mon Apr 18 20:24:55 +0000 2011	4d7c392a8f89224b41cda026	{Baskin-Robbins}	{33.87331138,-118.3068154,Gardena,CA,United States}	{Food,}
+3771	Sat Apr 16 22:14:10 +0000 2011	4bcb8047511f9521b1a2b1c7	{Food 4 Less}	{33.87315921838246,-118.29408645629883,Gardena,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+3771	Sat Apr 16 06:13:04 +0000 2011	4d8d41a5ca75b60c581ce5a8	{2 Grahams}	{33.873842782236245,-118.30519545367989,Gardena,CA,United States}	{}
+3771	Sat Apr 16 06:13:03 +0000 2011	4d8d41a5ca75b60c581ce5a8	{2 Grahams}	{33.873842782236245,-118.30519545367989,Gardena,CA,United States}	{}
+3771	Sat Apr 16 06:12:44 +0000 2011	4d58bc1bc88da1cda76f3268	{Tiff's}	{33.87315622937399,-118.30528067963546,Gardena,CA,United States}	{Residence,}
+3771	Sat Apr 16 06:11:49 +0000 2011	4c99529bb8e9224b0a86443d	{Blockbuster}	{33.87343539762367,-118.3087828558114,Gardena,CA,United States}	{Shop & Service,}
+3771	Fri Apr 15 20:22:11 +0000 2011	4a96c631f964a520ea2620e3	{Department of Motor Vehicles}	{33.828431,-118.31113994121552,Torrance,CA,United States}	{Professional & Other Places,}
+3771	Fri Apr 15 18:12:57 +0000 2011	4b623730f964a520b23c2ae3	{El Pollo Loco}	{34.025548083333334,-118.27738919,Los Angeles,CA,United States}	{Food,}
+3771	Fri Apr 15 18:12:36 +0000 2011	4b3823aff964a5201e4c25e3	{Subway}	{34.02610275217485,-118.27795437839805,Los Angeles,CA,United States}	{Food,}
+3771	Wed Apr 13 23:22:55 +0000 2011	4c466f5596abd13a50f16d01	{Living Spaces}	{33.86856273294406,-118.35565424102458,Redondo Beach,CA,United States}	{Shop & Service,}
+3771	Wed Apr 13 23:22:55 +0000 2011	4c466f5596abd13a50f16d01	{Living Spaces}	{33.86856273294406,-118.35565424102458,Redondo Beach,CA,United States}	{Shop & Service,}
+3771	Wed Apr 13 20:45:13 +0000 2011	4bd5eaf34e32d13a85b9c180	{El Pollo Loco}	{34.12532038628793,-117.87218764340417,Glendora,CA,United States}	{Food,}
+3771	Mon Apr 11 23:27:07 +0000 2011	4b8eb096f964a520403133e3	{Party City}	{33.794062,-118.33174864,Torrance,CA,United States}	{Shop & Service,}
+3771	Mon Apr 11 23:27:07 +0000 2011	4b8eb096f964a520403133e3	{Party City}	{33.794062,-118.33174864,Torrance,CA,United States}	{Shop & Service,}
+3771	Mon Apr 11 21:05:46 +0000 2011	4aa30ecaf964a5202b4320e3	{BJ's Restaurant & Brewhouse}	{33.86628843102686,-118.09800555210603,Cerritos,CA,United States}	{Nightlife Spot,Food,}
+3771	Sun Apr 10 02:23:19 +0000 2011	4c99529bb8e9224b0a86443d	{Blockbuster}	{33.87343539762367,-118.3087828558114,Gardena,CA,United States}	{Shop & Service,}
+3771	Sat Apr 09 23:18:04 +0000 2011	4c698b1a8e7c0f4722e8df0f	{Islands Restaurant}	{33.792237467061454,-118.33034992218018,Torrance,CA,United States}	{Food,}
+3771	Sat Apr 09 23:01:33 +0000 2011	4b8eb096f964a520403133e3	{Party City}	{33.794062,-118.33174864,Torrance,CA,United States}	{Shop & Service,}
+3771	Sat Apr 09 22:12:41 +0000 2011	4b9bddc6f964a520132f36e3	{Robeks}	{33.79338598505494,-118.33193478795913,Torrance,CA,United States}	{Food,}
+3771	Wed Apr 06 00:17:50 +0000 2011	4aa017e9f964a520413e20e3	{South Bay Galleria}	{33.87086095749672,-118.35506916046143,Redondo Beach,CA,United States}	{Shop & Service,}
+3771	Tue Apr 05 22:44:13 +0000 2011	4d58bc1bc88da1cda76f3268	{Tiff's}	{33.87315622937399,-118.30528067963546,Gardena,CA,United States}	{Residence,}
+3771	Tue Apr 05 08:35:31 +0000 2011	4a6ab5d0f964a520dbcd1fe3	{Libertine}	{34.09773553357701,-118.36790075689792,Los Angeles,CA,United States}	{Nightlife Spot,}
+3771	Tue Apr 05 05:49:26 +0000 2011	40b3de00f964a52018001fe3	{Lucky Strike Lanes}	{34.102419267905745,-118.33888739347458,Los Angeles,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+3771	Tue Apr 05 05:10:57 +0000 2011	4d2150385c4ca1cd74b8a83d	{Clene or Chas' dual house of of Pleasure}	{34.16730502341621,-118.3987841518733,San Fernando Valley,CA,United States}	{Residence,}
+3771	Mon Apr 04 05:29:33 +0000 2011	4cb62c6615a79521ebe53805	{Chocolate Sundaes Comedy Show inside the Laugh Factory}	{34.098078,-118.36456418037415,W Hollywood,CA,United States}	{Arts & Entertainment,}
+3771	Sun Apr 03 21:04:21 +0000 2011	4c4282dbda3dc928deb7cab9	{Starz}	{33.90168254737774,-118.32196317736874,Gardena,CA,United States}	{Nightlife Spot,}
+3771	Sun Apr 03 20:02:12 +0000 2011	4d72aaeb27ddb60c8cb5d11b	{Tasha's House O' Attractive Body Parts}	{34.04453228174581,-118.31697144375005,Los Angeles,CA,United States}	{Residence,}
+3771	Sun Apr 03 10:54:37 +0000 2011	4d5bae7b1ef2f04d1963eccd	{Red's Usetaknowher Palace}	{34.0255188487139,-118.35203889482426,Los Angeles,CA,United States}	{Residence,}
+3771	Sun Apr 03 08:26:44 +0000 2011	4b520eedf964a520b66427e3	{Drai's Hollywood}	{34.10097602730849,-118.32541867698268,Los Angeles,CA,United States}	{Nightlife Spot,}
+3771	Sun Apr 03 02:37:47 +0000 2011	4d72aaeb27ddb60c8cb5d11b	{Tasha's House O' Attractive Body Parts}	{34.04453228174581,-118.31697144375005,Los Angeles,CA,United States}	{Residence,}
+3771	Sun Apr 03 02:37:47 +0000 2011	4d72aaeb27ddb60c8cb5d11b	{Tasha's House O' Attractive Body Parts}	{34.04453228174581,-118.31697144375005,Los Angeles,CA,United States}	{Residence,}
+3771	Sun Apr 03 02:17:11 +0000 2011	4b84b181f964a520484131e3	{ARCO}	{34.02189759019639,-118.37283611297607,Los Angeles,CA,United States}	{Shop & Service,}
+3771	Sat Apr 02 20:16:38 +0000 2011	4d7afe00432b721e62286abf	{Bazile And Sons}	{34.0285742892168,-118.40245106682066,Los Angeles,CA,United States}	{}
+3771	Sat Apr 02 20:16:07 +0000 2011	4b0af4f0f964a520a92a23e3	{Bob's Market & Liquor}	{34.02848397573213,-118.4031687050491,Los Angeles,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+3771	Fri Apr 01 00:18:20 +0000 2011	4d57ab481270236ac0ae8c59	{Borges Residence}	{33.96873901666667,-118.30061581666666,Los Angeles,CA,United States}	{Nightlife Spot,}
+3771	Fri Apr 01 00:15:09 +0000 2011	4ca1f0f7d3c2b60c15b1e9bc	{McDonald's}	{33.959719403493224,-118.3010591341327,Los Angeles,CA,United States}	{Food,}
+3771	Wed Mar 30 19:36:40 +0000 2011	4b7b6d04f964a52011632fe3	{SUBWAY}	{33.873408638322054,-118.299880027771,Gardena,CA,United States}	{Food,}
+3771	Wed Mar 30 16:57:19 +0000 2011	4d7c392a8f89224b41cda026	{Baskin-Robbins}	{33.87331138,-118.3068154,Gardena,CA,United States}	{Food,}
+3771	Tue Mar 29 20:35:26 +0000 2011	4be47040cf200f4777f6113c	{Rinaldi's of Redondo}	{33.818457,-118.38512,Redondo Beach,CA,United States}	{Food,}
+3771	Tue Mar 29 19:51:40 +0000 2011	4ba91b22f964a520ca0b3ae3	{The Comic Bug}	{33.88749788333333,-118.380401,Manhattan Beach,CA,United States}	{Shop & Service,}
+3771	Tue Mar 29 15:17:46 +0000 2011	4d58bc1bc88da1cda76f3268	{Tiff's}	{33.87315622937399,-118.30528067963546,Gardena,CA,United States}	{Residence,}
+3771	Tue Mar 29 15:17:46 +0000 2011	4d58bc1bc88da1cda76f3268	{Tiff's}	{33.87315622937399,-118.30528067963546,Gardena,CA,United States}	{Residence,}
+3771	Tue Mar 29 05:22:40 +0000 2011	40b3de00f964a52018001fe3	{Lucky Strike Lanes}	{34.102419267905745,-118.33888739347458,Los Angeles,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+3771	Mon Mar 28 21:46:50 +0000 2011	4a70ddb7f964a520a1d81fe3	{In-N-Out Burger}	{34.104899168014526,-117.87307943333333,Covina,CA,United States}	{Food,}
+3771	Sun Mar 27 23:28:54 +0000 2011	4b3abc2cf964a5208f6d25e3	{Little Caesar's Pizza}	{33.86541,-118.34302091,Torrance,CA,United States}	{Food,}
+3771	Sun Mar 27 22:49:52 +0000 2011	4c466f5596abd13a50f16d01	{Living Spaces}	{33.86856273294406,-118.35565424102458,Redondo Beach,CA,United States}	{Shop & Service,}
+3771	Sat Mar 26 21:57:45 +0000 2011	4b6a241bf964a520dec92be3	{Wetzel's Pretzels}	{33.80909653875586,-117.92260587215424,Anaheim,CA,United States}	{Food,}
+3771	Sat Mar 26 21:50:33 +0000 2011	4b282afdf964a520279024e3	{Disney Vault 28}	{33.80892,-117.923064,Anaheim,CA,United States}	{Shop & Service,Clothing Store,}
+3771	Sat Mar 26 21:47:08 +0000 2011	4abfaaa6f964a5208c9120e3	{The LEGO? Store}	{33.80892716216754,-117.92441368103027,Anaheim,CA,United States}	{Shop & Service,}
+3771	Sat Mar 26 21:45:54 +0000 2011	4a96fc66f964a520d82720e3	{Rainforest Cafe}	{33.80910545330386,-117.92501449584961,Anaheim,CA,United States}	{Food,}
+3771	Sat Mar 26 21:45:21 +0000 2011	47f6995af964a520b04e1fe3	{Downtown Disney District}	{33.80917676965434,-117.92439222335815,Anaheim,CA,United States}	{Shop & Service,Outdoors & Recreation,}
+3771	Sat Mar 26 01:30:24 +0000 2011	4d8d41a5ca75b60c581ce5a8	{2 Grahams}	{33.873842782236245,-118.30519545367989,Gardena,CA,United States}	{}
+3771	Sat Mar 26 01:28:44 +0000 2011	4b5617aaf964a520fbff27e3	{Wendy's}	{33.872011681364725,-118.30888560805583,Gardena,CA,United States}	{Food,}
+3771	Fri Mar 25 22:23:29 +0000 2011	4d1524cd8312236a561a50ba	{The Dude Ranch}	{34.04159787313442,-118.41046843177514,Los Angeles,CA,United States}	{Residence,}
+3771	Fri Mar 25 06:05:02 +0000 2011	4d1524cd8312236a561a50ba	{The Dude Ranch}	{34.04159787313442,-118.41046843177514,Los Angeles,CA,United States}	{Residence,}
+3771	Thu Mar 24 18:49:31 +0000 2011	4bad4197f964a520b73e3be3	{AMPM}	{33.87275684422268,-118.30946216116266,Torrance,CA,United States}	{Shop & Service,}
+3771	Thu Mar 24 18:34:52 +0000 2011	4bc2334574a9a59380f1d2f6	{IHOP}	{33.88860318134431,-118.32672359592716,Gardena,CA,United States}	{Food,}
+3771	Thu Mar 24 05:45:37 +0000 2011	4a2f6908f964a520c7981fe3	{Albertsons}	{33.873966230101566,-118.30826909365636,Gardena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3771	Thu Mar 24 05:44:41 +0000 2011	4c99529bb8e9224b0a86443d	{Blockbuster}	{33.87343539762367,-118.3087828558114,Gardena,CA,United States}	{Shop & Service,}
+3771	Thu Mar 24 04:43:36 +0000 2011	4d7c392a8f89224b41cda026	{Baskin-Robbins}	{33.87331138,-118.3068154,Gardena,CA,United States}	{Food,}
+3771	Wed Mar 23 06:24:10 +0000 2011	4552069bf964a520ee3c1fe3	{Bar Copa}	{33.99985851435258,-118.48171169871505,Santa Monica,CA,United States}	{Nightlife Spot,}
+3771	Tue Mar 22 14:15:55 +0000 2011	4d1524cd8312236a561a50ba	{The Dude Ranch}	{34.04159787313442,-118.41046843177514,Los Angeles,CA,United States}	{Residence,}
+3771	Tue Mar 22 07:01:43 +0000 2011	40b3de00f964a52018001fe3	{Lucky Strike Lanes}	{34.102419267905745,-118.33888739347458,Los Angeles,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+3771	Mon Mar 21 22:57:53 +0000 2011	4d1524cd8312236a561a50ba	{The Dude Ranch}	{34.04159787313442,-118.41046843177514,Los Angeles,CA,United States}	{Residence,}
+3771	Mon Mar 21 21:00:03 +0000 2011	4b9a99f2f964a52056c535e3	{Mobil}	{34.03110063682289,-118.4160840511322,LOS ANGELES,CA,United States}	{Shop & Service,}
+3771	Mon Mar 21 20:40:34 +0000 2011	4b80dbb8f964a5206c8f30e3	{Yohana Sushi}	{34.039982630818876,-118.42300951480865,Los Angeles,CA,United States}	{Food,}
+3771	Mon Mar 21 17:42:48 +0000 2011	4d1524cd8312236a561a50ba	{The Dude Ranch}	{34.04159787313442,-118.41046843177514,Los Angeles,CA,United States}	{Residence,}
+3771	Mon Mar 21 05:46:25 +0000 2011	4cb62c6615a79521ebe53805	{Chocolate Sundaes Comedy Show inside the Laugh Factory}	{34.098078,-118.36456418037415,W Hollywood,CA,United States}	{Arts & Entertainment,}
+3771	Mon Mar 21 05:44:34 +0000 2011	3fd66200f964a5205fef1ee3	{The Body Shop}	{34.096852,-118.36944813,West Hollywood,CA,United States}	{Nightlife Spot,}
+3771	Mon Mar 21 02:21:24 +0000 2011	4d5bae7b1ef2f04d1963eccd	{Red's Usetaknowher Palace}	{34.0255188487139,-118.35203889482426,Los Angeles,CA,United States}	{Residence,}
+3771	Sun Mar 20 21:33:34 +0000 2011	4d1524cd8312236a561a50ba	{The Dude Ranch}	{34.04159787313442,-118.41046843177514,Los Angeles,CA,United States}	{Residence,}
+3771	Sun Mar 20 07:08:13 +0000 2011	4d72aaeb27ddb60c8cb5d11b	{Tasha's House O' Attractive Body Parts}	{34.04453228174581,-118.31697144375005,Los Angeles,CA,United States}	{Residence,}
+3771	Sun Mar 20 03:46:38 +0000 2011	4d7afe00432b721e62286abf	{Bazile And Sons}	{34.0285742892168,-118.40245106682066,Los Angeles,CA,United States}	{}
+3771	Sun Mar 20 01:35:54 +0000 2011	4ae37f0bf964a520d49521e3	{Target}	{34.02257340341831,-118.37337255477905,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+3771	Sun Mar 20 01:28:57 +0000 2011	4b84b181f964a520484131e3	{ARCO}	{34.02189759019639,-118.37283611297607,Los Angeles,CA,United States}	{Shop & Service,}
+3771	Sun Mar 20 01:14:34 +0000 2011	4b9c4fd3f964a520795e36e3	{Louisiana Famous Fried Chicken}	{34.02164860502129,-118.37373733520508,Los Angeles,CA,United States}	{Food,}
+3771	Sat Mar 19 04:23:09 +0000 2011	4d7afe00432b721e62286abf	{Bazile And Sons}	{34.0285742892168,-118.40245106682066,Los Angeles,CA,United States}	{}
+3771	Sat Mar 19 04:17:01 +0000 2011	4b0c8b35f964a520113f23e3	{Rite Aid}	{34.030286,-118.401899,Los Angeles,CA,United States}	{Shop & Service,}
+3771	Sat Mar 19 02:20:59 +0000 2011	4b6b84c0f964a520a00d2ce3	{New millennium beauty & barber}	{34.06206965446472,-118.34475413,Los Angeles,CA,United States}	{Shop & Service,}
+3771	Fri Mar 18 23:52:19 +0000 2011	4b0af4f0f964a520a92a23e3	{Bob's Market & Liquor}	{34.02848397573213,-118.4031687050491,Los Angeles,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+3771	Fri Mar 18 23:52:19 +0000 2011	4b0af4f0f964a520a92a23e3	{Bob's Market & Liquor}	{34.02848397573213,-118.4031687050491,Los Angeles,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+3771	Fri Mar 18 23:51:55 +0000 2011	4b0c8b35f964a520113f23e3	{Rite Aid}	{34.030286,-118.401899,Los Angeles,CA,United States}	{Shop & Service,}
+3771	Fri Mar 18 04:11:15 +0000 2011	4d7afe00432b721e62286abf	{Bazile And Sons}	{34.0285742892168,-118.40245106682066,Los Angeles,CA,United States}	{}
+3771	Fri Mar 18 04:11:02 +0000 2011	4b0af4f0f964a520a92a23e3	{Bob's Market & Liquor}	{34.02848397573213,-118.4031687050491,Los Angeles,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+3771	Thu Mar 17 17:26:03 +0000 2011	4bad4197f964a520b73e3be3	{AMPM}	{33.87275684422268,-118.30946216116266,Torrance,CA,United States}	{Shop & Service,}
+3771	Thu Mar 17 17:25:37 +0000 2011	4d7c392a8f89224b41cda026	{Baskin-Robbins}	{33.87331138,-118.3068154,Gardena,CA,United States}	{Food,}
+3771	Thu Mar 17 17:25:37 +0000 2011	4d7c392a8f89224b41cda026	{Baskin-Robbins}	{33.87331138,-118.3068154,Gardena,CA,United States}	{Food,}
+3771	Thu Mar 17 17:24:55 +0000 2011	4d7c392a8f89224b41cda026	{Baskin-Robbins}	{33.87331138,-118.3068154,Gardena,CA,United States}	{Food,}
+3771	Thu Mar 17 04:42:36 +0000 2011	4b7b6d04f964a52011632fe3	{SUBWAY}	{33.873408638322054,-118.299880027771,Gardena,CA,United States}	{Food,}
+3771	Thu Mar 17 04:42:36 +0000 2011	4b7b6d04f964a52011632fe3	{SUBWAY}	{33.873408638322054,-118.299880027771,Gardena,CA,United States}	{Food,}
+3771	Thu Mar 17 03:18:01 +0000 2011	4b459716f964a5203d0e26e3	{T.G.I. Friday's}	{33.81345149167098,-118.3501812558635,Torrance,CA,United States}	{Nightlife Spot,Food,}
+3771	Thu Mar 17 01:18:38 +0000 2011	4ce068e941ed224b36dfe43c	{GameStop}	{33.83277921501038,-118.3505630493164,Torrance,CA,United States}	{Shop & Service,}
+3771	Thu Mar 17 01:13:53 +0000 2011	4b526e99f964a520147d27e3	{Old Navy}	{33.83288615990497,-118.35052013397217,Torrance,CA,United States}	{Shop & Service,}
+3771	Wed Mar 16 23:29:05 +0000 2011	4b43f5b9f964a52010ef25e3	{Chevron}	{33.87256069455995,-118.30874860504944,Gardena,CA,United States}	{Shop & Service,}
+3771	Wed Mar 16 23:24:27 +0000 2011	4d7c392a8f89224b41cda026	{Baskin-Robbins}	{33.87331138,-118.3068154,Gardena,CA,United States}	{Food,}
+3771	Wed Mar 16 23:22:26 +0000 2011	4c99529bb8e9224b0a86443d	{Blockbuster}	{33.87343539762367,-118.3087828558114,Gardena,CA,United States}	{Shop & Service,}
+3771	Tue Mar 15 22:20:45 +0000 2011	4afce70cf964a520762622e3	{Target}	{33.886593677330985,-118.3161694419679,Gardena,CA,United States}	{Shop & Service,}
+3771	Mon Mar 14 23:30:09 +0000 2011	4c1a2ab795e89521252b57e7	{Sam's Club}	{33.873561492145654,-118.29758248850878,Gardena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3771	Sun Mar 13 17:07:13 +0000 2011	4d7afe00432b721e62286abf	{Bazile And Sons}	{34.0285742892168,-118.40245106682066,Los Angeles,CA,United States}	{}
+3771	Sun Mar 13 07:08:47 +0000 2011	4b0c8b35f964a520113f23e3	{Rite Aid}	{34.030286,-118.401899,Los Angeles,CA,United States}	{Shop & Service,}
+3771	Sun Mar 13 01:55:19 +0000 2011	4b08d18bf964a5209d1223e3	{VONS}	{34.03048,-118.40145,Cheviot Hills,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3771	Sat Mar 12 22:57:06 +0000 2011	4a872c67f964a520040320e3	{Roxbury Memorial Park}	{34.05847268718841,-118.40695381164551,Beverly Hills,CA,United States}	{Nightlife Spot,Outdoors & Recreation,}
+3771	Sat Mar 12 20:20:53 +0000 2011	4d7afe00432b721e62286abf	{Bazile And Sons}	{34.0285742892168,-118.40245106682066,Los Angeles,CA,United States}	{}
+3771	Sat Mar 12 20:20:53 +0000 2011	4d7afe00432b721e62286abf	{Bazile And Sons}	{34.0285742892168,-118.40245106682066,Los Angeles,CA,United States}	{}
+3771	Sat Mar 12 18:19:28 +0000 2011	4ae37f0bf964a520d49521e3	{Target}	{34.02257340341831,-118.37337255477905,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+3771	Sat Mar 12 18:18:24 +0000 2011	4b84b181f964a520484131e3	{ARCO}	{34.02189759019639,-118.37283611297607,Los Angeles,CA,United States}	{Shop & Service,}
+3771	Sat Mar 12 18:18:24 +0000 2011	4b84b181f964a520484131e3	{ARCO}	{34.02189759019639,-118.37283611297607,Los Angeles,CA,United States}	{Shop & Service,}
+3771	Sat Mar 12 05:01:00 +0000 2011	4d7afe00432b721e62286abf	{Bazile And Sons}	{34.0285742892168,-118.40245106682066,Los Angeles,CA,United States}	{}
+3771	Sat Mar 12 04:19:50 +0000 2011	4b0af4f0f964a520a92a23e3	{Bob's Market & Liquor}	{34.02848397573213,-118.4031687050491,Los Angeles,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+3771	Sat Mar 12 03:22:31 +0000 2011	4ae37f0bf964a520d49521e3	{Target}	{34.02257340341831,-118.37337255477905,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+3771	Sat Mar 12 03:15:54 +0000 2011	4b84b181f964a520484131e3	{ARCO}	{34.02189759019639,-118.37283611297607,Los Angeles,CA,United States}	{Shop & Service,}
+3771	Sat Mar 12 03:11:28 +0000 2011	4b774baef964a520c38f2ee3	{7-Eleven}	{34.02189739122652,-118.37184759560311,Los Angeles,CA,United States}	{Shop & Service,}
+3771	Sat Mar 12 02:55:38 +0000 2011	4b9c4fd3f964a520795e36e3	{Louisiana Famous Fried Chicken}	{34.02164860502129,-118.37373733520508,Los Angeles,CA,United States}	{Food,}
+3771	Sat Mar 12 02:55:38 +0000 2011	4b9c4fd3f964a520795e36e3	{Louisiana Famous Fried Chicken}	{34.02164860502129,-118.37373733520508,Los Angeles,CA,United States}	{Food,}
+3771	Thu Mar 10 09:35:51 +0000 2011	4d72aaeb27ddb60c8cb5d11b	{Tasha's House O' Attractive Body Parts}	{34.04453228174581,-118.31697144375005,Los Angeles,CA,United States}	{Residence,}
+3771	Thu Mar 10 04:10:52 +0000 2011	4d3b0da7687ca35dc0ea8fc4	{Queen'z Palace}	{34.171696,-118.375062,San Fernando Valley,CA,United States}	{}
+3771	Thu Mar 10 04:01:24 +0000 2011	4bf2ba2a82002d7f02e0d0bb	{USA Gasoline}	{34.165193171281395,-118.36190886364594,North Hollywood,CA,United States}	{Shop & Service,Food,}
+3771	Thu Mar 10 03:36:57 +0000 2011	4c116f256e5dc9b6881cb02d	{I-10 / I-110 Interchange}	{34.03818674708323,-118.27398598194122,Los Angeles,CA,United States}	{Travel & Transport,}
+3771	Thu Mar 10 02:41:28 +0000 2011	4c1447d9a1010f47fe454c18	{Louisiana Fried Chicken}	{33.96021456377333,-118.30051680493122,Los Angeles,CA,United States}	{Food,}
+3771	Thu Mar 10 01:47:31 +0000 2011	4ca1f0f7d3c2b60c15b1e9bc	{McDonald's}	{33.959719403493224,-118.3010591341327,Los Angeles,CA,United States}	{Food,}
+3771	Thu Mar 10 01:45:58 +0000 2011	4ba58f2bf964a520441239e3	{Liquor Market}	{33.862257478276554,-118.29915811996564,Gardena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3771	Wed Mar 09 01:57:56 +0000 2011	4a2f6908f964a520c7981fe3	{Albertsons}	{33.873966230101566,-118.30826909365636,Gardena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3771	Wed Mar 09 01:52:21 +0000 2011	4c99529bb8e9224b0a86443d	{Blockbuster}	{33.87343539762367,-118.3087828558114,Gardena,CA,United States}	{Shop & Service,}
+3771	Wed Mar 09 01:52:21 +0000 2011	4c99529bb8e9224b0a86443d	{Blockbuster}	{33.87343539762367,-118.3087828558114,Gardena,CA,United States}	{Shop & Service,}
+3771	Wed Mar 09 01:51:30 +0000 2011	4c1a2ab795e89521252b57e7	{Sam's Club}	{33.873561492145654,-118.29758248850878,Gardena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3771	Tue Mar 08 23:07:02 +0000 2011	4b526e99f964a520147d27e3	{Old Navy}	{33.83288615990497,-118.35052013397217,Torrance,CA,United States}	{Shop & Service,}
+3771	Tue Mar 08 23:02:43 +0000 2011	4bf8626c5317a59312c2ff7e	{Del Amo Fashion Center}	{33.83292181,-118.3474731,Torrance,CA,United States}	{Shop & Service,Food,}
+3771	Sat Mar 05 10:28:05 +0000 2011	4b5d138cf964a520805129e3	{McDonald's}	{34.02114045076877,-118.35511208670856,Los Angeles,CA,United States}	{Food,}
+3771	Sat Mar 05 05:52:28 +0000 2011	4d12bdc0d6e06a3102c97461	{Coolington}	{33.95406038265983,-118.33418930651516,Inglewood,CA,United States}	{}
+3771	Fri Mar 04 04:02:44 +0000 2011	4b6e8e4af964a520cec12ce3	{Denny's}	{33.83525673738041,-118.35262298583984,Torrance,CA,United States}	{Food,}
+3771	Fri Mar 04 02:54:27 +0000 2011	4c92a3a5418ea1cd05b8a685	{Lawndale, CA}	{33.88741061710444,-118.35256934165953,Lawndale,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+3771	Fri Mar 04 02:53:51 +0000 2011	4c60407dcd522d7f0ca4cd3f	{I-405 / Hawthorne Blvd.}	{33.88461396783381,-118.35262298583984,Lawndale,CA,United States}	{Travel & Transport,}
+3771	Sun Feb 27 04:15:32 +0000 2011	4ba58f2bf964a520441239e3	{Liquor Market}	{33.862257478276554,-118.29915811996564,Gardena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3771	Sun Feb 27 00:50:54 +0000 2011	4b134234f964a520f69523e3	{Red Lobster}	{33.83626045,-118.35643708705902,Torrance,CA,United States}	{Food,}
+3771	Fri Feb 25 06:17:59 +0000 2011	4bad4197f964a520b73e3be3	{AMPM}	{33.87275684422268,-118.30946216116266,Torrance,CA,United States}	{Shop & Service,}
+3771	Fri Feb 25 06:17:04 +0000 2011	4b43f5b9f964a52010ef25e3	{Chevron}	{33.87256069455995,-118.30874860504944,Gardena,CA,United States}	{Shop & Service,}
+3771	Fri Feb 25 06:16:39 +0000 2011	4a2f6908f964a520c7981fe3	{Albertsons}	{33.873966230101566,-118.30826909365636,Gardena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3771	Thu Feb 24 18:22:45 +0000 2011	4b7b6d04f964a52011632fe3	{SUBWAY}	{33.873408638322054,-118.299880027771,Gardena,CA,United States}	{Food,}
+3771	Thu Feb 24 18:08:26 +0000 2011	4c99529bb8e9224b0a86443d	{Blockbuster}	{33.87343539762367,-118.3087828558114,Gardena,CA,United States}	{Shop & Service,}
+3771	Thu Feb 24 00:15:42 +0000 2011	4c855664d92ea09373186572	{Jack in the Box - Los Angeles, CA}	{33.97424,-118.30915237,Los Angeles,CA,United States}	{Food,}
+3771	Wed Feb 23 21:19:29 +0000 2011	4d57ab481270236ac0ae8c59	{Borges Residence}	{33.96873901666667,-118.30061581666666,Los Angeles,CA,United States}	{Nightlife Spot,}
+3771	Wed Feb 23 21:19:02 +0000 2011	4c8c7e50509e3704d93b3455	{Burger King}	{33.9602694,-118.30204626,Los Angeles,CA,United States}	{Food,}
+3771	Wed Feb 23 20:08:53 +0000 2011	4b7b6d04f964a52011632fe3	{SUBWAY}	{33.873408638322054,-118.299880027771,Gardena,CA,United States}	{Food,}
+3771	Wed Feb 23 20:07:40 +0000 2011	4ba58f2bf964a520441239e3	{Liquor Market}	{33.862257478276554,-118.29915811996564,Gardena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3771	Tue Feb 22 22:38:12 +0000 2011	4bf0922e17880f47b8802937	{99? Only Stores}	{33.86474389538615,-118.30985033442855,Torrance,CA,United States}	{Shop & Service,}
+3771	Tue Feb 22 20:58:18 +0000 2011	4bc7a0ad8b7c9c7408db36cf	{Bank Of America}	{33.85102910366138,-118.19576361814197,Long Beach,CA,United States}	{Shop & Service,}
+3771	Tue Feb 22 02:02:47 +0000 2011	4ba58f2bf964a520441239e3	{Liquor Market}	{33.862257478276554,-118.29915811996564,Gardena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3771	Tue Feb 22 00:24:50 +0000 2011	4b903097f964a520337b33e3	{Chin-Ma-Ya of Tokyo}	{33.862458,-118.309735,Gardena,CA,United States}	{Food,}
+3771	Mon Feb 21 23:25:02 +0000 2011	4ba58f2bf964a520441239e3	{Liquor Market}	{33.862257478276554,-118.29915811996564,Gardena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3771	Mon Feb 21 23:25:00 +0000 2011	4ba58f2bf964a520441239e3	{Liquor Market}	{33.862257478276554,-118.29915811996564,Gardena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3771	Mon Feb 21 18:38:45 +0000 2011	4c99529bb8e9224b0a86443d	{Blockbuster}	{33.87343539762367,-118.3087828558114,Gardena,CA,United States}	{Shop & Service,}
+3771	Mon Feb 21 01:06:01 +0000 2011	42893400f964a5207e231fe3	{STAPLES Center}	{34.043058660157634,-118.26724290847778,Los Angeles,CA,United States}	{Stadium,Arts & Entertainment,}
+3771	Sun Feb 20 11:47:55 +0000 2011	4b67df7ff964a520e05f2be3	{Jack in the Box - Glendale, CA}	{34.14275574126472,-118.2403564453125,Glendale,CA,United States}	{Food,}
+3771	Sun Feb 20 10:40:23 +0000 2011	4a01e786f964a5200a711fe3	{Cactus Mexican Food}	{34.088183,-118.32655191421509,Los Angeles,CA,United States}	{Food,}
+3771	Sun Feb 20 10:38:55 +0000 2011	4b7f8ae1f964a520b43330e3	{L bar}	{34.09818844347352,-118.33138114209815,Hollywood,CA,United States}	{Nightlife Spot,}
+3771	Sun Feb 20 00:58:23 +0000 2011	4d57ab481270236ac0ae8c59	{Borges Residence}	{33.96873901666667,-118.30061581666666,Los Angeles,CA,United States}	{Nightlife Spot,}
+3771	Sun Feb 20 00:25:23 +0000 2011	4c9b745fdb10b60ccd559b6d	{76 Gas Station}	{33.974405,-118.29999268054962,Los Angeles,CA,United States}	{Professional & Other Places,}
+3771	Sat Feb 19 23:55:22 +0000 2011	4ad12a42f964a5202bdd20e3	{Westfield Culver City}	{33.98604389243085,-118.39315784907377,Culver City,CA,United States}	{Outdoors & Recreation,Shop & Service,}
+3771	Sat Feb 19 20:23:05 +0000 2011	4c4b29d19c8d2d7f8fd9976a	{Hyde Park Jr. Market}	{33.97560962636688,-118.34830362150629,Inglewood,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3771	Sat Feb 19 20:21:10 +0000 2011	4d602629e4fe5481f2aa7c9e	{Fort Taylor}	{33.976473618708084,-118.34630040802053,Inglewood,CA,United States}	{Nightlife Spot,}
+3771	Sat Feb 19 13:06:37 +0000 2011	4b4b2384f964a520ee9226e3	{IHOP}	{33.988927379530075,-118.44600677490234,Marina Del Rey,CA,United States}	{Food,}
+3771	Sat Feb 19 11:46:08 +0000 2011	4b520eedf964a520b66427e3	{Drai's Hollywood}	{34.10097602730849,-118.32541867698268,Los Angeles,CA,United States}	{Nightlife Spot,}
+3771	Sat Feb 19 03:59:19 +0000 2011	4b099755f964a520041a23e3	{Target}	{33.94796139863574,-118.33288192749023,Inglewood,CA,United States}	{Shop & Service,}
+3771	Sat Feb 19 03:21:37 +0000 2011	4be9b70a415e20a12f2ce4bb	{I-405 (San Diego Freeway)}	{33.835898386142745,-118.26003313064575,Southern California,CA,United States}	{Travel & Transport,}
+3771	Sat Feb 19 02:56:02 +0000 2011	4a8746cdf964a520940320e3	{Starbucks}	{34.0310472887042,-118.40099930763245,Los Angeles,CA,United States}	{Food,}
+3771	Fri Feb 18 21:10:26 +0000 2011	4ca1f0f7d3c2b60c15b1e9bc	{McDonald's}	{33.959719403493224,-118.3010591341327,Los Angeles,CA,United States}	{Food,}
+3771	Fri Feb 18 10:28:17 +0000 2011	4c21677c9085d13ae4d184cc	{76 Station}	{34.051311,-118.375941,Los Angeles,CA,United States}	{Shop & Service,}
+3771	Fri Feb 18 10:26:31 +0000 2011	4b8a0877f964a5209a5c32e3	{Bar Celona at SLS Hotel}	{34.069893,-118.376487,Los Angeles,CA,United States}	{Nightlife Spot,}
+3771	Fri Feb 18 10:21:54 +0000 2011	49ff928df964a52036701fe3	{SLS Hotel at Beverly Hills}	{34.06996159643052,-118.37658006386414,Los Angeles,CA,United States}	{Travel & Transport,}
+3771	Fri Feb 18 09:42:26 +0000 2011	438cf623f964a520302b1fe3	{Hollywood Roosevelt Hotel}	{34.10128656695182,-118.34167957305908,Los Angeles,CA,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+3771	Fri Feb 18 07:10:09 +0000 2011	41f43a80f964a520281f1fe3	{Roscoe's House of Chicken and Waffles}	{34.09858134921175,-118.32220673561096,Los Angeles,CA,United States}	{Food,}
+3771	Fri Feb 18 02:56:45 +0000 2011	4c098b34009a0f4740fbe7bf	{La Cienega NB}	{33.99704070827198,-118.36907057783635,,CA,United States}	{Travel & Transport,}
+3771	Fri Feb 18 02:47:50 +0000 2011	4be17982d4c362b55605f9ec	{Starbucks Coffee}	{33.975509342547525,-118.35789702930018,Inglewood,CA,United States}	{Food,}
+3771	Thu Feb 17 22:59:52 +0000 2011	4d57ab481270236ac0ae8c59	{Borges Residence}	{33.96873901666667,-118.30061581666666,Los Angeles,CA,United States}	{Nightlife Spot,}
+3771	Thu Feb 17 22:59:15 +0000 2011	4ca1f0f7d3c2b60c15b1e9bc	{McDonald's}	{33.959719403493224,-118.3010591341327,Los Angeles,CA,United States}	{Food,}
+3771	Thu Feb 17 19:57:47 +0000 2011	4b7b6d04f964a52011632fe3	{SUBWAY}	{33.873408638322054,-118.299880027771,Gardena,CA,United States}	{Food,}
+3771	Thu Feb 17 19:57:36 +0000 2011	4c103be2b93cc9b6648156e0	{Gardena Presby}	{33.88118097,-118.29902724,Gardena,CA,United States}	{Spiritual Center,Professional & Other Places,}
+3771	Thu Feb 17 05:52:24 +0000 2011	4b7b49f3f964a520ac5c2fe3	{Carl's Jr. / Green Burrito}	{33.873194849847025,-118.29949378967285,Gardena,CA,United States}	{Food,}
+3771	Thu Feb 17 03:15:06 +0000 2011	4b5e4d04f964a520758829e3	{76}	{33.865785716666664,-118.308864,Gardena,CA,United States}	{Shop & Service,}
+3771	Thu Feb 17 02:22:35 +0000 2011	4b6da3aef964a5206f822ce3	{California Fish Grill}	{33.87330174415148,-118.30026626586914,Gardena,CA,United States}	{Food,}
+3771	Thu Feb 17 02:22:14 +0000 2011	4c1a2ab795e89521252b57e7	{Sam's Club}	{33.873561492145654,-118.29758248850878,Gardena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3771	Wed Feb 16 21:16:55 +0000 2011	4ac7a06bf964a52094b820e3	{Krispy Kreme Doughnuts}	{33.87290979771401,-118.29297065734863,Gardena,CA,United States}	{Food,}
+3771	Wed Feb 16 20:49:13 +0000 2011	4c1a2ab795e89521252b57e7	{Sam's Club}	{33.873561492145654,-118.29758248850878,Gardena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3771	Wed Feb 16 20:41:22 +0000 2011	4b5e4d04f964a520758829e3	{76}	{33.865785716666664,-118.308864,Gardena,CA,United States}	{Shop & Service,}
+3771	Wed Feb 16 17:46:35 +0000 2011	4bcb8047511f9521b1a2b1c7	{Food 4 Less}	{33.87315921838246,-118.29408645629883,Gardena,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+3771	Wed Feb 16 04:27:23 +0000 2011	4b29ad23f964a52071a224e3	{The Local Place Bakery & Cafe}	{33.86172007,-118.309468,Gardena,CA,United States}	{Food,}
+3771	Wed Feb 16 00:44:12 +0000 2011	4cec57127db3224bf6c81b2e	{Styles for less}	{33.88678711411199,-118.30880568964888,Gardena,CA,United States}	{}
+3771	Wed Feb 16 00:29:24 +0000 2011	4ea83879cc21adeb9936f83e	{O'Reilly Auto Parts}	{33.798725329468084,-118.30817204951917,Lomita,CA,United States}	{Shop & Service,}
+3771	Tue Feb 15 23:36:33 +0000 2011	4b8ff31ef964a520976b33e3	{HomeTown Buffet}	{33.89157870127412,-118.29700469970703,Gardena,CA,United States}	{Food,}
+3771	Tue Feb 15 15:48:30 +0000 2011	4ca1f0f7d3c2b60c15b1e9bc	{McDonald's}	{33.959719403493224,-118.3010591341327,Los Angeles,CA,United States}	{Food,}
+3771	Mon Feb 14 23:01:37 +0000 2011	4d59b43f35966dcb6bf15728	{Planet Venus}	{33.968543,-118.30239399999999,Los Angeles,CA,United States}	{}
+3771	Mon Feb 14 22:57:33 +0000 2011	4d57ab481270236ac0ae8c59	{Borges Residence}	{33.96873901666667,-118.30061581666666,Los Angeles,CA,United States}	{Nightlife Spot,}
+3771	Mon Feb 14 22:57:18 +0000 2011	4c4dd6b9f53d0f476a9da5a5	{Corner Of Normandie Ave & W 83rd St}	{33.96340480444597,-118.30030558151081,Los Angeles,CA,United States}	{}
+3771	Mon Feb 14 22:56:54 +0000 2011	4d57ab481270236ac0ae8c59	{Borges Residence}	{33.96873901666667,-118.30061581666666,Los Angeles,CA,United States}	{Nightlife Spot,}
+3771	Mon Feb 14 22:18:30 +0000 2011	4ca1f0f7d3c2b60c15b1e9bc	{McDonald's}	{33.959719403493224,-118.3010591341327,Los Angeles,CA,United States}	{Food,}
+3771	Mon Feb 14 22:17:02 +0000 2011	4d57ab481270236ac0ae8c59	{Borges Residence}	{33.96873901666667,-118.30061581666666,Los Angeles,CA,United States}	{Nightlife Spot,}
+3771	Mon Feb 14 20:20:48 +0000 2011	4b5bf80df964a520751f29e3	{Denny's}	{33.861377,-118.30869376659393,Gardena,CA,United States}	{Food,}
+3771	Mon Feb 14 05:22:50 +0000 2011	4d58bc1bc88da1cda76f3268	{Tiff's}	{33.87315622937399,-118.30528067963546,Gardena,CA,United States}	{Residence,}
+3771	Mon Feb 14 05:20:21 +0000 2011	4c99529bb8e9224b0a86443d	{Blockbuster}	{33.87343539762367,-118.3087828558114,Gardena,CA,United States}	{Shop & Service,}
+3771	Mon Feb 14 05:20:05 +0000 2011	4b6737b8f964a520f6412be3	{Burger King}	{33.87313865,-118.30721172,Gardena,CA,United States}	{Food,}
+3771	Mon Feb 14 01:55:04 +0000 2011	4bf57197706e20a1017aaa98	{Edwards Long Beach Stadium 26 & IMAX}	{33.830105549161786,-118.08684825897217,Long Beach,CA,United States}	{Food,Arts & Entertainment,Movie Theater,}
+3771	Sun Feb 13 17:34:47 +0000 2011	4ca1f0f7d3c2b60c15b1e9bc	{McDonald's}	{33.959719403493224,-118.3010591341327,Los Angeles,CA,United States}	{Food,}
+3771	Sun Feb 13 17:34:47 +0000 2011	4ca1f0f7d3c2b60c15b1e9bc	{McDonald's}	{33.959719403493224,-118.3010591341327,Los Angeles,CA,United States}	{Food,}
+3771	Sun Feb 13 10:01:32 +0000 2011	4d57ab481270236ac0ae8c59	{Borges Residence}	{33.96873901666667,-118.30061581666666,Los Angeles,CA,United States}	{Nightlife Spot,}
+3771	Sun Feb 13 09:52:48 +0000 2011	4ca1f0f7d3c2b60c15b1e9bc	{McDonald's}	{33.959719403493224,-118.3010591341327,Los Angeles,CA,United States}	{Food,}
+3771	Sat Feb 12 20:44:14 +0000 2011	4d1524cd8312236a561a50ba	{The Dude Ranch}	{34.04159787313442,-118.41046843177514,Los Angeles,CA,United States}	{Residence,}
+3771	Fri Feb 11 18:06:15 +0000 2011	4d12bdc0d6e06a3102c97461	{Coolington}	{33.95406038265983,-118.33418930651516,Inglewood,CA,United States}	{}
+3771	Fri Feb 11 17:40:57 +0000 2011	4b9fd503f964a520bf4237e3	{USC Credit Union (CUB)}	{34.017359066349066,-118.28113453696518,Los Angeles,CA,United States}	{Shop & Service,Office,Professional & Other Places,}
+3771	Fri Feb 11 08:33:18 +0000 2011	4b9345fef964a5201b3e34e3	{Industry}	{34.083311,-118.376656,Los Angeles,CA,United States}	{Nightlife Spot,}
+3771	Fri Feb 11 06:03:09 +0000 2011	4c577fbfb7a31b8d288e50da	{Sterling International Towers}	{34.066591391691844,-118.42834984631891,Los Angeles,CA,United States}	{Residence,}
+3771	Fri Feb 11 05:24:41 +0000 2011	4a9a37a5f964a520a63120e3	{In-N-Out Burger}	{34.026449221695934,-118.39427903294563,Los Angeles,CA,United States}	{Food,}
+3771	Thu Feb 10 22:54:13 +0000 2011	4b412e5bf964a520bbc225e3	{7-Eleven}	{34.14237690651729,-118.26469070814578,Glendale,CA,United States}	{Shop & Service,}
+3771	Thu Feb 10 21:52:44 +0000 2011	4d12bdc0d6e06a3102c97461	{Coolington}	{33.95406038265983,-118.33418930651516,Inglewood,CA,United States}	{}
+3771	Thu Feb 10 21:14:56 +0000 2011	4b32b8d2f964a520961225e3	{Shell}	{34.075848,-118.36182293333333,Los Angeles,CA,United States}	{Shop & Service,}
+3771	Thu Feb 10 21:04:09 +0000 2011	4a0c64dcf964a5202b751fe3	{Chipotle Mexican Grill}	{34.073454,-118.36091,Los Angeles,CA,United States}	{Food,}
+3771	Thu Feb 10 20:40:17 +0000 2011	4b809f2af964a520ab8130e3	{St?ssy}	{34.0732085071537,-118.34373950958252,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,}
+3771	Thu Feb 10 20:30:27 +0000 2011	4bc51d5b22c676b0dba796d3	{Undefeated}	{34.073172959405355,-118.34373607635497,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,}
+3771	Thu Feb 10 19:42:12 +0000 2011	4b6b84c0f964a520a00d2ce3	{New millennium beauty & barber}	{34.06206965446472,-118.34475413,Los Angeles,CA,United States}	{Shop & Service,}
+3771	Thu Feb 10 07:40:34 +0000 2011	4b520eedf964a520b66427e3	{Drai's Hollywood}	{34.10097602730849,-118.32541867698268,Los Angeles,CA,United States}	{Nightlife Spot,}
+3771	Thu Feb 10 06:42:05 +0000 2011	457bb517f964a520f33e1fe3	{Big Wangs}	{34.09962663,-118.32897092647327,Los Angeles,CA,United States}	{Nightlife Spot,}
+3771	Thu Feb 10 03:01:58 +0000 2011	4ad959faf964a520e41921e3	{Rallys}	{34.023793520336305,-118.39864436917486,Los Angeles,CA,United States}	{Food,}
+3771	Thu Feb 10 03:01:49 +0000 2011	4ac6befcf964a52020b620e3	{Thai Original BBQ Restaurant}	{34.022203050766755,-118.39989385119767,Culver City,CA,United States}	{Food,}
+3771	Thu Feb 10 03:01:06 +0000 2011	4ad959faf964a520e41921e3	{Rallys}	{34.023793520336305,-118.39864436917486,Los Angeles,CA,United States}	{Food,}
+3771	Wed Feb 09 17:33:51 +0000 2011	4d1524cd8312236a561a50ba	{The Dude Ranch}	{34.04159787313442,-118.41046843177514,Los Angeles,CA,United States}	{Residence,}
+3771	Wed Feb 09 07:30:22 +0000 2011	49ff928df964a52036701fe3	{SLS Hotel at Beverly Hills}	{34.06996159643052,-118.37658006386414,Los Angeles,CA,United States}	{Travel & Transport,}
+3771	Wed Feb 09 06:30:22 +0000 2011	49d8e078f964a520d25d1fe3	{The Comedy Store}	{34.095099,-118.373752,Los Angeles,CA,United States}	{Arts & Entertainment,}
+3771	Tue Feb 08 18:52:45 +0000 2011	4c99529bb8e9224b0a86443d	{Blockbuster}	{33.87343539762367,-118.3087828558114,Gardena,CA,United States}	{Shop & Service,}
+3771	Tue Feb 08 11:50:11 +0000 2011	4d12bdc0d6e06a3102c97461	{Coolington}	{33.95406038265983,-118.33418930651516,Inglewood,CA,United States}	{}
+3771	Tue Feb 08 06:45:31 +0000 2011	40b3de00f964a52018001fe3	{Lucky Strike Lanes}	{34.102419267905745,-118.33888739347458,Los Angeles,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+3771	Mon Feb 07 10:54:39 +0000 2011	4d1524cd8312236a561a50ba	{The Dude Ranch}	{34.04159787313442,-118.41046843177514,Los Angeles,CA,United States}	{Residence,}
+3771	Mon Feb 07 09:41:54 +0000 2011	4b52101cf964a520006527e3	{W Hollywood}	{34.10115665934232,-118.32553702667387,Hollywood,CA,United States}	{Travel & Transport,}
+3771	Mon Feb 07 09:39:05 +0000 2011	4b520eedf964a520b66427e3	{Drai's Hollywood}	{34.10097602730849,-118.32541867698268,Los Angeles,CA,United States}	{Nightlife Spot,}
+3771	Mon Feb 07 08:38:35 +0000 2011	4cb62c6615a79521ebe53805	{Chocolate Sundaes Comedy Show inside the Laugh Factory}	{34.098078,-118.36456418037415,W Hollywood,CA,United States}	{Arts & Entertainment,}
+3771	Mon Feb 07 07:13:06 +0000 2011	4d1524cd8312236a561a50ba	{The Dude Ranch}	{34.04159787313442,-118.41046843177514,Los Angeles,CA,United States}	{Residence,}
+3771	Sun Feb 06 23:23:08 +0000 2011	4d4ad2e8f2cc6a31686ec188	{Super Bowl Sunday}	{32.747868226330375,-97.09356307983398,Arlington,TX,United States}	{Stadium,Arts & Entertainment,}
+3771	Sat Feb 05 12:43:04 +0000 2011	4d1524cd8312236a561a50ba	{The Dude Ranch}	{34.04159787313442,-118.41046843177514,Los Angeles,CA,United States}	{Residence,}
+3771	Sat Feb 05 12:40:44 +0000 2011	4d1524cd8312236a561a50ba	{The Dude Ranch}	{34.04159787313442,-118.41046843177514,Los Angeles,CA,United States}	{Residence,}
+3771	Sat Feb 05 12:01:27 +0000 2011	4d12bdc0d6e06a3102c97461	{Coolington}	{33.95406038265983,-118.33418930651516,Inglewood,CA,United States}	{}
+3771	Sat Feb 05 11:59:59 +0000 2011	4c11a28ea9420f470e347d51	{7-Eleven}	{33.9524121198253,-118.34430287802671,Inglewood,CA,United States}	{Shop & Service,}
+3771	Sat Feb 05 11:58:13 +0000 2011	4b523c49f964a520b77127e3	{VONS}	{33.9607058626241,-118.34884579770618,Inglewood,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3771	Sat Feb 05 11:57:56 +0000 2011	4b818d6ff964a52080ae30e3	{IHOP}	{33.96200716495514,-118.348942,Inglewood,CA,United States}	{Food,}
+3771	Sat Feb 05 11:11:39 +0000 2011	4d19c41ebb64224b8dfdd065	{After Hours}	{34.13687253694441,-118.36322557145381,San Fernando Valley,CA,United States}	{Nightlife Spot,}
+3771	Sat Feb 05 10:56:11 +0000 2011	4a01e786f964a5200a711fe3	{Cactus Mexican Food}	{34.088183,-118.32655191421509,Los Angeles,CA,United States}	{Food,}
+3771	Sat Feb 05 09:22:40 +0000 2011	4ad55bcaf964a520e50221e3	{Cabana Club}	{34.097148133333334,-118.32916975021362,Los Angeles,CA,United States}	{Nightlife Spot,}
+3771	Sat Feb 05 08:56:25 +0000 2011	4a2f4a8cf964a520be981fe3	{Crown Bar}	{34.09091244922122,-118.34948499267286,West Hollywood,CA,United States}	{Nightlife Spot,}
+3771	Fri Feb 04 22:42:35 +0000 2011	4d1524cd8312236a561a50ba	{The Dude Ranch}	{34.04159787313442,-118.41046843177514,Los Angeles,CA,United States}	{Residence,}
+3771	Fri Feb 04 00:22:05 +0000 2011	4d1524cd8312236a561a50ba	{The Dude Ranch}	{34.04159787313442,-118.41046843177514,Los Angeles,CA,United States}	{Residence,}
+3771	Thu Feb 03 16:03:56 +0000 2011	4d1524cd8312236a561a50ba	{The Dude Ranch}	{34.04159787313442,-118.41046843177514,Los Angeles,CA,United States}	{Residence,}
+3771	Thu Feb 03 07:11:27 +0000 2011	4d1524cd8312236a561a50ba	{The Dude Ranch}	{34.04159787313442,-118.41046843177514,Los Angeles,CA,United States}	{Residence,}
+3771	Thu Feb 03 05:31:36 +0000 2011	457bb517f964a520f33e1fe3	{Big Wangs}	{34.09962663,-118.32897092647327,Los Angeles,CA,United States}	{Nightlife Spot,}
+3771	Mon Jan 31 19:23:02 +0000 2011	4d1524cd8312236a561a50ba	{The Dude Ranch}	{34.04159787313442,-118.41046843177514,Los Angeles,CA,United States}	{Residence,}
+3771	Sat Jan 29 22:37:09 +0000 2011	4b43f5b9f964a52010ef25e3	{Chevron}	{33.87256069455995,-118.30874860504944,Gardena,CA,United States}	{Shop & Service,}
+3771	Sat Jan 29 22:36:49 +0000 2011	4a2f6908f964a520c7981fe3	{Albertsons}	{33.873966230101566,-118.30826909365636,Gardena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3771	Sat Jan 29 22:35:07 +0000 2011	4c99529bb8e9224b0a86443d	{Blockbuster}	{33.87343539762367,-118.3087828558114,Gardena,CA,United States}	{Shop & Service,}
+3771	Sat Jan 29 21:03:21 +0000 2011	4d1524cd8312236a561a50ba	{The Dude Ranch}	{34.04159787313442,-118.41046843177514,Los Angeles,CA,United States}	{Residence,}
+3771	Sat Jan 29 17:58:33 +0000 2011	4a5682c7f964a5204db51fe3	{Laemmle's Royal Theater}	{34.04545509079489,-118.45289979568444,Los Angeles,CA,United States}	{Arts & Entertainment,Movie Theater,}
+3771	Sat Jan 29 10:08:00 +0000 2011	4d1c38f3c17ff04db50bc541	{The Hamptons}	{33.97868977112068,-118.37541314826537,,,United States}	{Residence,}
+3771	Fri Jan 28 03:17:28 +0000 2011	4c99529bb8e9224b0a86443d	{Blockbuster}	{33.87343539762367,-118.3087828558114,Gardena,CA,United States}	{Shop & Service,}
+3771	Fri Jan 28 03:17:04 +0000 2011	4c99529bb8e9224b0a86443d	{Blockbuster}	{33.87343539762367,-118.3087828558114,Gardena,CA,United States}	{Shop & Service,}
+3771	Fri Jan 28 02:01:58 +0000 2011	4b9c4fd3f964a520795e36e3	{Louisiana Famous Fried Chicken}	{34.02164860502129,-118.37373733520508,Los Angeles,CA,United States}	{Food,}
+3771	Thu Jan 27 21:39:43 +0000 2011	4d1524cd8312236a561a50ba	{The Dude Ranch}	{34.04159787313442,-118.41046843177514,Los Angeles,CA,United States}	{Residence,}
+3771	Thu Jan 27 00:07:36 +0000 2011	4b2d4bfaf964a52077d324e3	{Macy's}	{33.85976073,-118.0929852,Cerritos,CA,United States}	{Shop & Service,Clothing Store,}
+3771	Wed Jan 26 23:48:14 +0000 2011	4ac65f58f964a52002b420e3	{Chick-fil-A}	{33.8623265635853,-118.09152603149414,Cerritos,CA,United States}	{Food,}
+3771	Tue Jan 25 05:58:19 +0000 2011	40b3de00f964a52018001fe3	{Lucky Strike Lanes}	{34.102419267905745,-118.33888739347458,Los Angeles,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+3771	Mon Jan 24 18:41:18 +0000 2011	4b6737b8f964a520f6412be3	{Burger King}	{33.87313865,-118.30721172,Gardena,CA,United States}	{Food,}
+3771	Mon Jan 24 17:25:50 +0000 2011	4c115e2ca9420f479ca07c51	{I-405 / I-105 Interchange}	{33.93002590153573,-118.36837023496628,Los Angeles,CA,United States}	{Travel & Transport,}
+3771	Mon Jan 24 17:25:08 +0000 2011	4c115e2ca9420f479ca07c51	{I-405 / I-105 Interchange}	{33.93002590153573,-118.36837023496628,Los Angeles,CA,United States}	{Travel & Transport,}
+3771	Mon Jan 24 10:47:24 +0000 2011	4d19c41ebb64224b8dfdd065	{After Hours}	{34.13687253694441,-118.36322557145381,San Fernando Valley,CA,United States}	{Nightlife Spot,}
+3771	Mon Jan 24 10:30:28 +0000 2011	4d19c41ebb64224b8dfdd065	{After Hours}	{34.13687253694441,-118.36322557145381,San Fernando Valley,CA,United States}	{Nightlife Spot,}
+3771	Mon Jan 24 08:55:11 +0000 2011	40a2ba80f964a52010f31ee3	{Bossa Nova Brazilian Cuisine}	{34.0980527333467,-118.3467435836792,Los Angeles,CA,United States}	{Food,}
+3771	Mon Jan 24 06:52:12 +0000 2011	4d1173086360a35d8dab8a88	{Keith House}	{33.959633407694035,-118.32866140184572,Inglewood,CA,United States}	{Residence,}
+3771	Mon Jan 24 06:51:30 +0000 2011	4d12bdc0d6e06a3102c97461	{Coolington}	{33.95406038265983,-118.33418930651516,Inglewood,CA,United States}	{}
+3771	Mon Jan 24 06:50:29 +0000 2011	4d1173086360a35d8dab8a88	{Keith House}	{33.959633407694035,-118.32866140184572,Inglewood,CA,United States}	{Residence,}
+3771	Mon Jan 24 06:50:06 +0000 2011	4d12bdc0d6e06a3102c97461	{Coolington}	{33.95406038265983,-118.33418930651516,Inglewood,CA,United States}	{}
+3771	Sun Jan 23 19:16:22 +0000 2011	4d3c5f9c557d6dcba02e3a44	{Breakfast At Tiffani's}	{33.87417854934643,-118.30513459185305,Gardena,CA,United States}	{}
+3771	Sun Jan 23 17:08:53 +0000 2011	4b6737b8f964a520f6412be3	{Burger King}	{33.87313865,-118.30721172,Gardena,CA,United States}	{Food,}
+3771	Sun Jan 23 17:08:22 +0000 2011	4a2f6908f964a520c7981fe3	{Albertsons}	{33.873966230101566,-118.30826909365636,Gardena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3771	Sun Jan 23 17:08:08 +0000 2011	4b23d46af964a520a85a24e3	{Starbucks}	{33.87326611273155,-118.3086347579956,Gardena,CA,United States}	{Food,}
+3771	Sun Jan 23 17:04:42 +0000 2011	4d3c5f9c557d6dcba02e3a44	{Breakfast At Tiffani's}	{33.87417854934643,-118.30513459185305,Gardena,CA,United States}	{}
+3771	Sun Jan 23 16:53:09 +0000 2011	4c99529bb8e9224b0a86443d	{Blockbuster}	{33.87343539762367,-118.3087828558114,Gardena,CA,United States}	{Shop & Service,}
+3771	Sun Jan 23 16:49:05 +0000 2011	4c99529bb8e9224b0a86443d	{Blockbuster}	{33.87343539762367,-118.3087828558114,Gardena,CA,United States}	{Shop & Service,}
+3771	Sun Jan 23 01:49:03 +0000 2011	4be9b70a415e20a12f2ce4bb	{I-405 (San Diego Freeway)}	{33.835898386142745,-118.26003313064575,Southern California,CA,United States}	{Travel & Transport,}
+3771	Sat Jan 22 18:08:22 +0000 2011	4d1524cd8312236a561a50ba	{The Dude Ranch}	{34.04159787313442,-118.41046843177514,Los Angeles,CA,United States}	{Residence,}
+3771	Sat Jan 22 10:19:42 +0000 2011	4d3aaed8325ff04d24901e45	{The Caddy Shack}	{34.02004314355084,-118.39721661652858,Los Angeles,CA,United States}	{}
+3771	Sat Jan 22 09:51:35 +0000 2011	4d1524cd8312236a561a50ba	{The Dude Ranch}	{34.04159787313442,-118.41046843177514,Los Angeles,CA,United States}	{Residence,}
+3771	Sat Jan 22 05:25:31 +0000 2011	4d12bdc0d6e06a3102c97461	{Coolington}	{33.95406038265983,-118.33418930651516,Inglewood,CA,United States}	{}
+3771	Sat Jan 22 05:11:07 +0000 2011	4bf4ce26cad2c928eb639c99	{Rallys}	{33.96049351633616,-118.32626125898445,Inglewood,CA,United States}	{Food,}
+3771	Sat Jan 22 05:00:16 +0000 2011	4d1173086360a35d8dab8a88	{Keith House}	{33.959633407694035,-118.32866140184572,Inglewood,CA,United States}	{Residence,}
+3771	Sat Jan 22 04:46:15 +0000 2011	4be9b70a415e20a12f2ce4bb	{I-405 (San Diego Freeway)}	{33.835898386142745,-118.26003313064575,Southern California,CA,United States}	{Travel & Transport,}
+3771	Sat Jan 22 02:04:33 +0000 2011	4d1524cd8312236a561a50ba	{The Dude Ranch}	{34.04159787313442,-118.41046843177514,Los Angeles,CA,United States}	{Residence,}
+3771	Fri Jan 21 10:50:55 +0000 2011	4d19c41ebb64224b8dfdd065	{After Hours}	{34.13687253694441,-118.36322557145381,San Fernando Valley,CA,United States}	{Nightlife Spot,}
+3771	Fri Jan 21 10:50:42 +0000 2011	4bad26d4f964a52021333be3	{Subway}	{34.137305,-118.36360491,San Fernando Valley,CA,United States}	{Food,}
+3771	Fri Jan 21 10:49:52 +0000 2011	4d19c41ebb64224b8dfdd065	{After Hours}	{34.13687253694441,-118.36322557145381,San Fernando Valley,CA,United States}	{Nightlife Spot,}
+3771	Fri Jan 21 10:49:52 +0000 2011	4d19c41ebb64224b8dfdd065	{After Hours}	{34.13687253694441,-118.36322557145381,San Fernando Valley,CA,United States}	{Nightlife Spot,}
+3771	Fri Jan 21 07:46:34 +0000 2011	4b9345fef964a5201b3e34e3	{Industry}	{34.083311,-118.376656,Los Angeles,CA,United States}	{Nightlife Spot,}
+3771	Fri Jan 21 05:00:05 +0000 2011	4ad959faf964a520e41921e3	{Rallys}	{34.023793520336305,-118.39864436917486,Los Angeles,CA,United States}	{Food,}
+3771	Fri Jan 21 04:12:12 +0000 2011	4d1173086360a35d8dab8a88	{Keith House}	{33.959633407694035,-118.32866140184572,Inglewood,CA,United States}	{Residence,}
+3771	Thu Jan 20 22:02:56 +0000 2011	4d1524cd8312236a561a50ba	{The Dude Ranch}	{34.04159787313442,-118.41046843177514,Los Angeles,CA,United States}	{Residence,}
+3771	Thu Jan 20 22:02:21 +0000 2011	49e4b211f964a5201b631fe3	{Fox Studios}	{34.052019404448785,-118.41251134872437,Los Angeles,CA,United States}	{Arts & Entertainment,Movie Theater,Professional & Other Places,}
+3771	Thu Jan 20 22:02:01 +0000 2011	4b8309ccf964a520f1f330e3	{Palms - Rancho Park Branch Library}	{34.03346766287979,-118.4178077732378,Los Angeles,CA,United States}	{Professional & Other Places,}
+3771	Thu Jan 20 22:01:36 +0000 2011	4b3f7f08f964a520dda725e3	{Overland Park}	{34.033598,-118.417579,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+3771	Thu Jan 20 21:59:46 +0000 2011	4d1524cd8312236a561a50ba	{The Dude Ranch}	{34.04159787313442,-118.41046843177514,Los Angeles,CA,United States}	{Residence,}
+3771	Tue Jan 18 10:25:06 +0000 2011	4d19c41ebb64224b8dfdd065	{After Hours}	{34.13687253694441,-118.36322557145381,San Fernando Valley,CA,United States}	{Nightlife Spot,}
+3771	Tue Jan 18 08:07:21 +0000 2011	40b3de00f964a52018001fe3	{Lucky Strike Lanes}	{34.102419267905745,-118.33888739347458,Los Angeles,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+3771	Mon Jan 17 19:48:03 +0000 2011	4c4282dbda3dc928deb7cab9	{Starz}	{33.90168254737774,-118.32196317736874,Gardena,CA,United States}	{Nightlife Spot,}
+3771	Sun Jan 16 20:32:15 +0000 2011	49c7323ff964a520a2571fe3	{Los Angeles Zoo}	{34.14839998630527,-118.28366301865034,Los Angeles,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+3771	Fri Jan 14 08:28:20 +0000 2011	4d190d9f85fc6dcb1b30ba4e	{Grizzly Cove}	{33.97004607448858,-118.36579684982289,Inglewood,CA,United States}	{Professional & Other Places,}
+3771	Fri Jan 14 08:25:39 +0000 2011	4c5eb75e857ca593484bd0cb	{7-Eleven}	{33.96846384271132,-118.35593647556864,Inglewood,CA,United States}	{Shop & Service,}
+3771	Fri Jan 14 08:05:22 +0000 2011	4d190d9f85fc6dcb1b30ba4e	{Grizzly Cove}	{33.97004607448858,-118.36579684982289,Inglewood,CA,United States}	{Professional & Other Places,}
+3771	Fri Jan 14 07:21:36 +0000 2011	4d1524cd8312236a561a50ba	{The Dude Ranch}	{34.04159787313442,-118.41046843177514,Los Angeles,CA,United States}	{Residence,}
+3771	Thu Jan 13 02:11:37 +0000 2011	4d1524cd8312236a561a50ba	{The Dude Ranch}	{34.04159787313442,-118.41046843177514,Los Angeles,CA,United States}	{Residence,}
+3771	Tue Jan 11 06:11:58 +0000 2011	40b3de00f964a52018001fe3	{Lucky Strike Lanes}	{34.102419267905745,-118.33888739347458,Los Angeles,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+3771	Tue Jan 11 05:38:39 +0000 2011	40b3de00f964a52018001fe3	{Lucky Strike Lanes}	{34.102419267905745,-118.33888739347458,Los Angeles,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+3771	Sun Jan 09 03:23:56 +0000 2011	4c76f271f247370426a264eb	{Kind For Cures}	{34.02869595,-118.40293167517382,Palms,CA,United States}	{Shop & Service,}
+3771	Sun Jan 09 03:22:13 +0000 2011	4ab2e492f964a520db6c20e3	{The Coop Pizza}	{34.02901589669177,-118.4033569786719,Los Angeles,CA,United States}	{Food,}
+3771	Sun Jan 09 03:21:31 +0000 2011	4b0af4f0f964a520a92a23e3	{Bob's Market & Liquor}	{34.02848397573213,-118.4031687050491,Los Angeles,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+3771	Sun Jan 09 03:20:00 +0000 2011	4c76f271f247370426a264eb	{Kind For Cures}	{34.02869595,-118.40293167517382,Palms,CA,United States}	{Shop & Service,}
+3771	Sun Jan 09 02:31:44 +0000 2011	4d1524cd8312236a561a50ba	{The Dude Ranch}	{34.04159787313442,-118.41046843177514,Los Angeles,CA,United States}	{Residence,}
+3771	Sat Jan 08 05:18:43 +0000 2011	4d1524cd8312236a561a50ba	{The Dude Ranch}	{34.04159787313442,-118.41046843177514,Los Angeles,CA,United States}	{Residence,}
+3771	Sat Jan 08 05:18:43 +0000 2011	4d1524cd8312236a561a50ba	{The Dude Ranch}	{34.04159787313442,-118.41046843177514,Los Angeles,CA,United States}	{Residence,}
+3771	Thu Jan 06 23:45:06 +0000 2011	4cdb49e8cea2224b0fe7844c	{Pollos Puebla #1}	{34.181258,-118.14196539,Pasadena,CA,United States}	{Food,}
+3771	Thu Jan 06 23:43:53 +0000 2011	4d26534c068e8cfaba75af4c	{Bella Management}	{34.181164371750825,-118.1421445270299,Pasadena,CA,United States}	{}
+3771	Wed Jan 05 23:48:28 +0000 2011	49cff672f964a520e95a1fe3	{Beverly Center}	{34.075056969511444,-118.37755680084229,Los Angeles,CA,United States}	{Shop & Service,}
+3771	Tue Jan 04 11:47:33 +0000 2011	4d19c41ebb64224b8dfdd065	{After Hours}	{34.13687253694441,-118.36322557145381,San Fernando Valley,CA,United States}	{Nightlife Spot,}
+3771	Tue Jan 04 10:59:52 +0000 2011	4d19c41ebb64224b8dfdd065	{After Hours}	{34.13687253694441,-118.36322557145381,San Fernando Valley,CA,United States}	{Nightlife Spot,}
+3771	Tue Jan 04 06:52:21 +0000 2011	40b3de00f964a52018001fe3	{Lucky Strike Lanes}	{34.102419267905745,-118.33888739347458,Los Angeles,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+3771	Tue Jan 04 02:32:19 +0000 2011	4b240030f964a520ca5e24e3	{Vons}	{33.891229986227295,-118.29806203006308,Gardena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3771	Tue Jan 04 02:25:21 +0000 2011	4c99529bb8e9224b0a86443d	{Blockbuster}	{33.87343539762367,-118.3087828558114,Gardena,CA,United States}	{Shop & Service,}
+3771	Tue Jan 04 00:36:14 +0000 2011	4b95c526f964a520acb234e3	{Jamba Juice}	{33.89149799777107,-118.29760532385154,Gardena,CA,United States}	{Food,}
+3771	Mon Jan 03 07:01:26 +0000 2011	3fd66200f964a52053ef1ee3	{Laugh Factory}	{34.098141576580055,-118.36442470550537,Los Angeles,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+3771	Mon Jan 03 06:16:51 +0000 2011	4b56858bf964a520d41328e3	{Walgreens}	{33.966035487707344,-118.35309505462646,Inglewood,CA,United States}	{Shop & Service,}
+3771	Sun Jan 02 06:37:59 +0000 2011	4d200c526e8c3704ce07f69f	{Number 2's House O' Intoxocation}	{33.97061871360689,-118.42805321700453,Los Angeles,CA,United States}	{Arts & Entertainment,}
+3771	Sat Jan 01 12:21:18 +0000 2011	4b648456f964a52009ba2ae3	{Denny's}	{33.95968973636627,-118.38071903,Los Angeles,CA,United States}	{Food,}
+3771	Sat Jan 01 02:27:08 +0000 2011	4b6b84c0f964a520a00d2ce3	{New millennium beauty & barber}	{34.06206965446472,-118.34475413,Los Angeles,CA,United States}	{Shop & Service,}
+3771	Sat Jan 01 02:26:14 +0000 2011	4ba7d338f964a520acb639e3	{Bank of America}	{34.06210355384051,-118.34429740905762,Los Angeles,CA,United States}	{Shop & Service,}
+3771	Sat Jan 01 02:17:46 +0000 2011	4b6b84c0f964a520a00d2ce3	{New millennium beauty & barber}	{34.06206965446472,-118.34475413,Los Angeles,CA,United States}	{Shop & Service,}
+3771	Fri Dec 31 07:55:34 +0000 2010	4b3bbf53f964a520427a25e3	{Jamba Juice}	{34.14567563332864,-118.14892271086318,Pasadena,CA,United States}	{Food,}
+3771	Thu Dec 30 21:52:18 +0000 2010	4aac3ee0f964a520175d20e3	{Beverly Hills Country Club}	{34.03355855718241,-118.40996353713197,Los Angeles,CA,United States}	{Shop & Service,Gym / Fitness Center,Professional & Other Places,}
+3771	Thu Dec 30 21:46:52 +0000 2010	4af39bc7f964a520e5ee21e3	{Nike West}	{34.026647,-118.381313,Los Angeles,CA,United States}	{Professional & Other Places,}
+3771	Thu Dec 30 21:44:13 +0000 2010	4ba9237af964a5207e0e3ae3	{McDonald's}	{33.9877971282044,-118.36513880593172,Los Angeles,CA,United States}	{Food,}
+3771	Thu Dec 30 21:35:22 +0000 2010	4c99529bb8e9224b0a86443d	{Blockbuster}	{33.87343539762367,-118.3087828558114,Gardena,CA,United States}	{Shop & Service,}
+3771	Thu Dec 30 21:35:22 +0000 2010	4c99529bb8e9224b0a86443d	{Blockbuster}	{33.87343539762367,-118.3087828558114,Gardena,CA,United States}	{Shop & Service,}
+3771	Thu Dec 30 21:34:50 +0000 2010	4b4a844af964a520ca8926e3	{Teriyaki Hawaii}	{33.87350806651468,-118.301534,Gardena,CA,United States}	{Food,}
+3771	Thu Dec 30 04:10:07 +0000 2010	4c99529bb8e9224b0a86443d	{Blockbuster}	{33.87343539762367,-118.3087828558114,Gardena,CA,United States}	{Shop & Service,}
+3771	Tue Dec 28 21:52:25 +0000 2010	4d1524cd8312236a561a50ba	{The Dude Ranch}	{34.04159787313442,-118.41046843177514,Los Angeles,CA,United States}	{Residence,}
+3771	Fri Dec 24 22:55:23 +0000 2010	4d1524cd8312236a561a50ba	{The Dude Ranch}	{34.04159787313442,-118.41046843177514,Los Angeles,CA,United States}	{Residence,}
+3771	Fri Dec 24 22:38:10 +0000 2010	4c1019d36b7e2d7f72192735	{T-Mobile Store}	{33.872442092388724,-118.32676355091229,Torrance,CA,United States}	{Shop & Service,}
+3771	Fri Dec 24 22:32:02 +0000 2010	4bec7d93b68520a1c3331287	{Wells Fargo}	{33.872718,-118.326636,Torrance,CA,United States}	{Shop & Service,}
+3771	Fri Dec 24 22:14:00 +0000 2010	4b8daccef964a520e80733e3	{Sushi Yoshi}	{33.872206050171954,-118.31720262505411,Torrance,CA,United States}	{Food,}
+3771	Fri Dec 24 06:47:43 +0000 2010	4b6737b8f964a520f6412be3	{Burger King}	{33.87313865,-118.30721172,Gardena,CA,United States}	{Food,}
+3771	Fri Dec 24 00:25:47 +0000 2010	4d119a22e8aff04d04b5721a	{Hef's Mansion}	{34.699783876177065,-118.10641562097527,Lancaster,CA,United States}	{Residence,}
+3771	Thu Dec 23 22:57:34 +0000 2010	4b6f2d67f964a5203ee22ce3	{Stater Brother's}	{34.68864245683525,-118.09597655897282,Lancaster,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3771	Thu Dec 23 22:39:20 +0000 2010	4bce66f229d4b713949fa8dc	{The Vitamin Shoppe}	{34.59711,-118.14710139,Palmdale,CA,United States}	{Shop & Service,}
+3771	Thu Dec 23 22:05:42 +0000 2010	4b8f3085f964a520004d33e3	{Jamba Juice}	{34.59845781326294,-118.147309,Palmdale,CA,United States}	{Food,}
+3771	Thu Dec 23 22:03:46 +0000 2010	4b33da15f964a520972025e3	{Target}	{34.59949204941528,-118.14657433397836,Palmdale,CA,United States}	{Shop & Service,}
+3771	Thu Dec 23 21:44:10 +0000 2010	4bdf13ba17fdef3b92b74e36	{JCPenney}	{34.60401109197755,-118.15163616280554,Palmdale,CA,United States}	{Shop & Service,Clothing Store,}
+3771	Thu Dec 23 21:43:38 +0000 2010	4cf04adc1d18a1439a704bec	{Journeys}	{34.604966,-118.152552,palmdale,CA,United States}	{Shop & Service,Clothing Store,}
+3771	Thu Dec 23 21:41:01 +0000 2010	4bc923bcfb84c9b68baa1a3e	{Orange Julius}	{34.60484723,-118.15236021666666,Palmdale,CA,United States}	{Food,}
+3771	Thu Dec 23 20:59:40 +0000 2010	4d8cac4efe8d41bdb470d705	{Macy's}	{34.60470274,-118.1500426,Palmdale,CA,United States}	{Shop & Service,}
+3771	Thu Dec 23 19:37:17 +0000 2010	4d119a22e8aff04d04b5721a	{Hef's Mansion}	{34.699783876177065,-118.10641562097527,Lancaster,CA,United States}	{Residence,}
+3771	Thu Dec 23 19:32:47 +0000 2010	4d119a22e8aff04d04b5721a	{Hef's Mansion}	{34.699783876177065,-118.10641562097527,Lancaster,CA,United States}	{Residence,}
+3771	Thu Dec 23 19:31:41 +0000 2010	4d119a22e8aff04d04b5721a	{Hef's Mansion}	{34.699783876177065,-118.10641562097527,Lancaster,CA,United States}	{Residence,}
+3771	Thu Dec 23 19:31:40 +0000 2010	4d119a22e8aff04d04b5721a	{Hef's Mansion}	{34.699783876177065,-118.10641562097527,Lancaster,CA,United States}	{Residence,}
+3771	Thu Dec 23 19:26:26 +0000 2010	4d12d1d1ffa1224b34449cad	{Hef's Kitchen}	{34.7008752822876,-118.10099422931671,Lancaster,CA,United States}	{}
+3771	Thu Dec 23 19:26:26 +0000 2010	4d12d1d1ffa1224b34449cad	{Hef's Kitchen}	{34.7008752822876,-118.10099422931671,Lancaster,CA,United States}	{}
+3771	Thu Dec 23 09:31:19 +0000 2010	4d11afc6f6f3721ebdf795e9	{Hef's Recliner}	{34.700939655303955,-118.10085475444794,Lancaster,CA,United States}	{Arts & Entertainment,Movie Theater,}
+3771	Thu Dec 23 06:20:44 +0000 2010	4d11afc6f6f3721ebdf795e9	{Hef's Recliner}	{34.700939655303955,-118.10085475444794,Lancaster,CA,United States}	{Arts & Entertainment,Movie Theater,}
+3771	Thu Dec 23 05:36:42 +0000 2010	4d11afc6f6f3721ebdf795e9	{Hef's Recliner}	{34.700939655303955,-118.10085475444794,Lancaster,CA,United States}	{Arts & Entertainment,Movie Theater,}
+3771	Thu Dec 23 05:10:31 +0000 2010	4d11afc6f6f3721ebdf795e9	{Hef's Recliner}	{34.700939655303955,-118.10085475444794,Lancaster,CA,United States}	{Arts & Entertainment,Movie Theater,}
+3771	Thu Dec 23 04:37:36 +0000 2010	4d12d1d1ffa1224b34449cad	{Hef's Kitchen}	{34.7008752822876,-118.10099422931671,Lancaster,CA,United States}	{}
+3771	Thu Dec 23 01:07:29 +0000 2010	4d11afc6f6f3721ebdf795e9	{Hef's Recliner}	{34.700939655303955,-118.10085475444794,Lancaster,CA,United States}	{Arts & Entertainment,Movie Theater,}
+3771	Wed Dec 22 18:59:08 +0000 2010	4d119a22e8aff04d04b5721a	{Hef's Mansion}	{34.699783876177065,-118.10641562097527,Lancaster,CA,United States}	{Residence,}
+3771	Wed Dec 22 18:00:19 +0000 2010	4d11afc6f6f3721ebdf795e9	{Hef's Recliner}	{34.700939655303955,-118.10085475444794,Lancaster,CA,United States}	{Arts & Entertainment,Movie Theater,}
+3771	Wed Dec 22 08:02:53 +0000 2010	4d119a22e8aff04d04b5721a	{Hef's Mansion}	{34.699783876177065,-118.10641562097527,Lancaster,CA,United States}	{Residence,}
+3771	Wed Dec 22 08:00:51 +0000 2010	4d119a22e8aff04d04b5721a	{Hef's Mansion}	{34.699783876177065,-118.10641562097527,Lancaster,CA,United States}	{Residence,}
+3771	Wed Dec 22 07:50:53 +0000 2010	4bb04cb4f964a5203a403ce3	{del taco}	{34.68998,-118.097587,Lancaster,CA,United States}	{Food,}
+3771	Wed Dec 22 05:30:15 +0000 2010	4cd85a2a8f949eb0892775ae	{7-Eleven}	{34.70380715686547,-118.12568895643068,Lancaster,CA,United States}	{Shop & Service,}
+3771	Wed Dec 22 05:20:31 +0000 2010	4b37db07f964a5208a4725e3	{In-N-Out Burger}	{34.70448730585324,-118.1669772979277,Lancaster,CA,United States}	{Food,}
+3771	Wed Dec 22 05:19:01 +0000 2010	4bfd92184cf820a159a9ecf4	{Chevron}	{34.703748666447915,-118.1654518722152,Lancaster,CA,United States}	{Shop & Service,}

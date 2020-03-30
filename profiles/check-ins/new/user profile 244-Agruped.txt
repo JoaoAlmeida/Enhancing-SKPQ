@@ -1,0 +1,519 @@
+244	Wed Aug 10 14:13:25 +0000 2011	4c5b1e4ab05c1b8d9df0d9b1	{Porto di Levante}	{38.41448264914376,14.960581185183631,Vulcano,ME,Italy}	{Outdoors & Recreation,}
+244	Wed Aug 10 13:23:35 +0000 2011	4c59ebd36407d13ac06cb328	{Porto di Lipari}	{38.4710135642681,14.955538430234968,,,Italy}	{Outdoors & Recreation,}
+244	Wed Aug 10 08:12:05 +0000 2011	4c174bb35e88c928325d2566	{Porto di Panarea "Scalo Ditella"}	{38.63760768984036,15.077253197214803,Panarea,ME,Italy}	{Outdoors & Recreation,}
+244	Mon Aug 08 18:38:20 +0000 2011	4bd0967a1f89ce72adb467ea	{Quisisana Grand Hotel}	{40.54970650169804,14.244383193138928,Capri,NA,Italy}	{Travel & Transport,}
+244	Sun Aug 07 02:49:32 +0000 2011	4c4ac5a0c9e4ef3b4a39e310	{Amalfi}	{40.633952085720985,14.602718353271484,Amalfi,SA,Italy}	{Outdoors & Recreation,}
+244	Fri Aug 05 13:15:58 +0000 2011	4c686680f984a59303ee49f4	{Porto Di Anzio}	{41.4454777135312,12.63007858171629,Anzio,Lazio,Italy}	{Outdoors & Recreation,}
+244	Fri Aug 05 11:11:05 +0000 2011	4abdac59f964a520538b20e3	{Aeroporto di Roma Fiumicino "Leonardo da Vinci" (FCO)}	{41.79659197138809,12.252416610717773,Fiumicino,RM,Italy}	{Travel & Transport,}
+244	Thu Aug 04 21:16:18 +0000 2011	4b5381aff964a52033a027e3	{Air France VIP Lounge}	{33.94623477073579,-118.40426087379456,Los Angeles,CA,United States}	{Travel & Transport,Airport,}
+244	Thu Aug 04 03:00:04 +0000 2011	4c82ac252f1c236a31fd3b43	{2 Ten Ten}	{34.03739992465589,-118.63229960203171,Malibu,CA,United States}	{}
+244	Thu Aug 04 02:51:03 +0000 2011	3fd66200f964a520e1ef1ee3	{Duke's Malibu}	{34.03639569311383,-118.63577427994049,Malibu,CA,United States}	{Food,}
+244	Wed Aug 03 20:25:43 +0000 2011	4c2bcd4577cfe21ee217b5f1	{Lea Journo Salon}	{34.065845,-118.400583,Beverly Hills,CA,United States}	{Shop & Service,}
+244	Wed Aug 03 02:37:31 +0000 2011	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Mon Aug 01 01:52:38 +0000 2011	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Sat Jul 30 17:52:56 +0000 2011	4bb84a2ccf2fc9b67c749f02	{Malibu Beach Inn}	{34.03806924819946,-118.67437,Malibu,CA,United States}	{Travel & Transport,Outdoors & Recreation,Food,}
+244	Fri Jul 29 19:13:21 +0000 2011	4bb84a2ccf2fc9b67c749f02	{Malibu Beach Inn}	{34.03806924819946,-118.67437,Malibu,CA,United States}	{Travel & Transport,Outdoors & Recreation,Food,}
+244	Fri Jul 29 02:11:02 +0000 2011	4bfd7723ee20ef3bee603c5e	{Caf? Habana}	{34.03468722126182,-118.68562854639704,Malibu,CA,United States}	{Food,}
+244	Thu Jul 28 02:36:33 +0000 2011	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Wed Jul 27 01:18:41 +0000 2011	3fd66200f964a520e1ef1ee3	{Duke's Malibu}	{34.03639569311383,-118.63577427994049,Malibu,CA,United States}	{Food,}
+244	Tue Jul 26 01:11:15 +0000 2011	4d2e61c15d4ca1cd0df7171b	{Craig's}	{34.08069078541643,-118.38646856358281,Los Angeles,CA,United States}	{Food,}
+244	Sun Jul 24 17:13:02 +0000 2011	4c1539e47f7f2d7f1a24e268	{Malibu Farmers Market}	{34.03667533031541,-118.68902564048767,Malibu,CA,United States}	{Shop & Service,Food & Drink Shop,}
+244	Fri Jul 22 01:42:43 +0000 2011	4a6be18bf964a5202dd01fe3	{Melisse Restaurant}	{34.024394840002635,-118.49147991784176,Santa Monica,CA,United States}	{Food,}
+244	Wed Jul 20 18:20:23 +0000 2011	4accd88ff964a520bdc920e3	{Beverly Hills Juice Club}	{34.07598649878741,-118.37289383831191,Los Angeles,CA,United States}	{Food,}
+244	Tue Jul 19 21:48:41 +0000 2011	3fd66200f964a520e1ef1ee3	{Duke's Malibu}	{34.03639569311383,-118.63577427994049,Malibu,CA,United States}	{Food,}
+244	Mon Jul 18 20:07:29 +0000 2011	4bb84a2ccf2fc9b67c749f02	{Malibu Beach Inn}	{34.03806924819946,-118.67437,Malibu,CA,United States}	{Travel & Transport,Outdoors & Recreation,Food,}
+244	Sun Jul 17 18:14:30 +0000 2011	45a0ddd0f964a520d3401fe3	{Rock Store}	{34.109657091072876,-118.78824055194855,Cornell,CA,United States}	{Food,}
+244	Sat Jul 16 22:08:05 +0000 2011	4cae101655238cfa0f4bb7fb	{Marina del Rey Sailing Marina}	{33.980026214369346,-118.44216534222193,Marina del Rey,CA,United States}	{Outdoors & Recreation,}
+244	Sat Jul 16 01:54:14 +0000 2011	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Thu Jul 14 02:21:02 +0000 2011	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Wed Jul 13 20:06:36 +0000 2011	4a8eed21f964a520331320e3	{Laguna Beach Boardwalk}	{33.54243197462879,-117.78493881225586,Laguna Beach,CA,United States}	{Outdoors & Recreation,Beach,Professional & Other Places,}
+244	Sun Jul 10 18:00:56 +0000 2011	4c1539e47f7f2d7f1a24e268	{Malibu Farmers Market}	{34.03667533031541,-118.68902564048767,Malibu,CA,United States}	{Shop & Service,Food & Drink Shop,}
+244	Sat Jul 09 22:29:34 +0000 2011	4e16512c6284b506cfd90cdd	{Salvation}	{34.03582896229397,-118.68442680253715,Malibu,CA,United States}	{Shop & Service,}
+244	Sat Jul 09 17:44:31 +0000 2011	4b76f129f964a520d56c2ee3	{Malibu NewsStand}	{34.03433706763897,-118.69197314937293,,CA,United States}	{Shop & Service,}
+244	Sat Jul 09 03:56:05 +0000 2011	4c2024b28b3aa593199e9e5f	{Windward Circle}	{33.98822882366507,-118.47127566127726,Venice,CA,United States}	{Outdoors & Recreation,}
+244	Fri Jul 08 14:43:21 +0000 2011	4c12560cb7b9c9289c8ea737	{Topanga Canyon Certified Farmers' Market (Fridays)}	{34.08935,-118.60362618333333,Topanga,CA,United States}	{Shop & Service,Food & Drink Shop,}
+244	Thu Jul 07 21:59:25 +0000 2011	3fd66200f964a520f2ee1ee3	{Geoffrey's}	{34.02517831390104,-118.76986482989095,Malibu,CA,United States}	{Food,}
+244	Mon Jul 04 19:18:25 +0000 2011	4bb84a2ccf2fc9b67c749f02	{Malibu Beach Inn}	{34.03806924819946,-118.67437,Malibu,CA,United States}	{Travel & Transport,Outdoors & Recreation,Food,}
+244	Sun Jul 03 17:50:16 +0000 2011	4c1539e47f7f2d7f1a24e268	{Malibu Farmers Market}	{34.03667533031541,-118.68902564048767,Malibu,CA,United States}	{Shop & Service,Food & Drink Shop,}
+244	Sat Jul 02 17:48:57 +0000 2011	4c3a3febae2da593edf503c6	{action watersports}	{33.98748296148524,-118.44466364562868,Marina del Rey,CA,United States}	{Shop & Service,}
+244	Fri Jul 01 07:17:34 +0000 2011	4ae2d953f964a5208b8f21e3	{BA Galleries First Lounge}	{51.470370314024905,-0.48717498779296875,Hounslow,Middlesex,United Kingdom}	{Travel & Transport,Airport,}
+244	Thu Jun 30 14:21:14 +0000 2011	4ac518f3f964a520bdae20e3	{Bamford & Sons}	{51.4925879,-0.1567533,London,UK,United Kingdom}	{Shop & Service,Clothing Store,}
+244	Thu Jun 30 14:08:05 +0000 2011	4b5b1c8ef964a520e2e328e3	{Daylesford Organic}	{51.49057295637637,-0.15327806418610118,Westminster,Greater London,United Kingdom}	{Food,}
+244	Thu Jun 30 13:25:04 +0000 2011	4ade1095f964a520c67221e3	{Daylesford Organic}	{51.514444752021404,-0.20058631896972656,London,UK,United Kingdom}	{Shop & Service,Food,Food & Drink Shop,}
+244	Thu Jun 30 10:00:39 +0000 2011	4e082df18877394591ea9fe0	{Masterpiece Art Fair}	{51.48592647760656,-0.1553302671780077,Chelsea,Greater London,United Kingdom}	{Arts & Entertainment,}
+244	Wed Jun 29 13:46:08 +0000 2011	4ad6bf91f964a520380821e3	{Terminal 5}	{51.471493077591596,-0.48833370208740234,Hounslow,Middlesex,United Kingdom}	{Travel & Transport,Airport,}
+244	Wed Jun 29 09:59:48 +0000 2011	4b602c5df964a52073d829e3	{Terminal 1}	{43.66569856044182,7.212438583374023,Nice,PACA,France}	{Travel & Transport,Airport,}
+244	Sun Jun 26 11:48:24 +0000 2011	4bd08caa41b9ef3b444efae5	{Sanremo}	{43.81848132448026,7.778288125991821,Sanremo,IM,Italy}	{Outdoors & Recreation,}
+244	Sun Jun 26 09:36:06 +0000 2011	4bcdc10c0687ef3bc459e1cc	{Carrara}	{44.07761245786934,10.097956710898744,Carrara,MS,Italy}	{Outdoors & Recreation,}
+244	Fri Jun 24 17:04:19 +0000 2011	4c753d8e1b30a0933ab8ee09	{Todi}	{42.78078728488571,12.407426834106445,Todi,PG,Italy}	{Outdoors & Recreation,}
+244	Thu Jun 23 19:08:01 +0000 2011	4bc8eda4762beee15eb63d38	{Il Pellicano Hotel}	{42.37376483277339,11.187804276102735,Monte Argentario,GR,Italy}	{Travel & Transport,Outdoors & Recreation,Hotel,}
+244	Thu Jun 23 17:08:30 +0000 2011	4bda97553904a593d8d6469e	{Porto Santo Stefano}	{42.43637989059034,11.12113527224615,Monte Argentario,GR,Italy}	{Outdoors & Recreation,}
+244	Tue Jun 21 12:30:24 +0000 2011	4ddbc82245ddf752bfc8e8ff	{Porto Di Marina Di Carrara}	{44.034041369251796,10.04917373143455,Carrara,Toscana,Italy}	{Travel & Transport,}
+244	Sat Jun 18 19:33:18 +0000 2011	4dfcfd36183853f2cb52b0fd	{Mingo}	{44.30301448274544,9.20961160230694,Portofino,Liguria,Italy}	{}
+244	Sat Jun 18 19:14:32 +0000 2011	4d3afe120333a093690c5a34	{Gelateria 100% Naturale}	{44.270473,9.393819,,,Italy}	{Food,}
+244	Sat Jun 18 12:33:26 +0000 2011	4c605102de6920a1e4a39564	{La Terrazza, Hotel Splendido}	{44.306245,9.210753,,,Italy}	{Food,}
+244	Fri Jun 17 17:52:47 +0000 2011	4dced98ab0fb25f6e34ed722	{Da o Batti}	{44.303632666564745,9.209292453958318,Portofino,Liguria,Italy}	{Food,}
+244	Fri Jun 17 11:35:14 +0000 2011	4e1065256284edb6bace0aea	{Area di Servizio Bordighera Sud}	{43.79775439809769,7.69092321395874,Bordighera,Liguria,Italy}	{Travel & Transport,Shop & Service,}
+244	Fri Jun 17 08:39:06 +0000 2011	4bed447891380f47ce9c9f18	{H?tel du Cap-Eden-Roc}	{43.548029390093866,7.119048093039454,Antibes,Alpes-Maritimes,France}	{Travel & Transport,}
+244	Sat Jun 11 19:56:08 +0000 2011	4cf9619bee9cb60c7bc883ad	{Hakkasan}	{51.5104785955435,-0.14460325241088867,Mayfair,Greater London,United Kingdom}	{Food,}
+244	Sat Jun 11 16:29:20 +0000 2011	4b5b1c8ef964a520e2e328e3	{Daylesford Organic}	{51.49057295637637,-0.15327806418610118,Westminster,Greater London,United Kingdom}	{Food,}
+244	Sat Jun 11 09:03:55 +0000 2011	4ad6bf91f964a520380821e3	{Terminal 5}	{51.471493077591596,-0.48833370208740234,Hounslow,Middlesex,United Kingdom}	{Travel & Transport,Airport,}
+244	Fri Jun 10 22:31:13 +0000 2011	4ae668f6f964a520dfa621e3	{British Airways First Lounge}	{33.943725,-118.409111,Los Angeles,CA,United States}	{Travel & Transport,Airport,}
+244	Wed Jun 08 20:41:35 +0000 2011	4b91de6df964a520acdc33e3	{Soho House}	{34.08948780782094,-118.39279174804688,West Hollywood,CA,United States}	{Nightlife Spot,Shop & Service,Arts & Entertainment,}
+244	Wed Jun 08 17:21:49 +0000 2011	4c86826f2f1c236ab8dc5d43	{Partners Trust Real Estate}	{34.066986,-118.396783,Beverly Hills,CA,United States}	{Professional & Other Places,}
+244	Tue Jun 07 20:32:24 +0000 2011	4c06e335b4aa0f477bd26462	{Garage Company}	{33.96462478964464,-118.36847140227414,Inglewood,CA,United States}	{Shop & Service,}
+244	Tue Jun 07 02:22:09 +0000 2011	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Sun Jun 05 02:30:11 +0000 2011	4a50e8acf964a5203eb01fe3	{Fairmont Miramar Hotel & Bungalows}	{34.01788934382033,-118.50165809585988,Santa Monica,CA,United States}	{Travel & Transport,Food,Professional & Other Places,}
+244	Sat Jun 04 04:03:01 +0000 2011	4b629754f964a520434c2ae3	{The Whisky Bar}	{34.092264,-118.37757,West Hollywood,CA,United States}	{Nightlife Spot,}
+244	Sat Jun 04 02:07:25 +0000 2011	4b91de6df964a520acdc33e3	{Soho House}	{34.08948780782094,-118.39279174804688,West Hollywood,CA,United States}	{Nightlife Spot,Shop & Service,Arts & Entertainment,}
+244	Wed Jun 01 03:44:36 +0000 2011	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Mon May 30 15:59:25 +0000 2011	4bb84a2ccf2fc9b67c749f02	{Malibu Beach Inn}	{34.03806924819946,-118.67437,Malibu,CA,United States}	{Travel & Transport,Outdoors & Recreation,Food,}
+244	Sun May 29 17:40:16 +0000 2011	4c1539e47f7f2d7f1a24e268	{Malibu Farmers Market}	{34.03667533031541,-118.68902564048767,Malibu,CA,United States}	{Shop & Service,Food & Drink Shop,}
+244	Sat May 28 07:21:46 +0000 2011	47cedc51f964a520064e1fe3	{The Forum}	{33.95820919323983,-118.34187805652618,Inglewood,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+244	Sat May 28 01:38:36 +0000 2011	49c290c4f964a52002561fe3	{SUGARFISH | Marina del Rey}	{33.97882563527064,-118.43795746564865,Marina Del Rey,CA,United States}	{Food,}
+244	Fri May 27 01:07:41 +0000 2011	4d5d6404b9b2a14364b3818c	{Fig & Olive}	{34.083389,-118.376276,Los Angeles,CA,United States}	{Food,}
+244	Fri May 27 00:25:13 +0000 2011	4ba03a42f964a520cd6237e3	{Froma On Melrose}	{34.083699710425805,-118.36313579248265,Los Angeles,CA,United States}	{Food,}
+244	Tue May 24 20:33:50 +0000 2011	4afc7703f964a520ff2222e3	{Poquito M?s}	{34.09316621188763,-118.37830781936646,West Hollywood,CA,United States}	{Food,}
+244	Sun May 22 21:12:36 +0000 2011	4abe6e33f964a520878d20e3	{Inn of the Seventh Ray}	{34.09048294739777,-118.60423564910889,Topanga,CA,United States}	{Food,}
+244	Sun May 22 20:11:33 +0000 2011	45a0ddd0f964a520d3401fe3	{Rock Store}	{34.109657091072876,-118.78824055194855,Cornell,CA,United States}	{Food,}
+244	Sun May 22 16:16:26 +0000 2011	4da638bf43a1a8b317978dd3	{SunLife Organics}	{34.02142344,-118.80966384,Malibu,CA,United States}	{Food,}
+244	Sat May 21 22:04:22 +0000 2011	4c1709b4955976b08586a5f6	{One Gun Ranch}	{34.05811042620505,-118.65373657850961,Malibu,CA,United States}	{}
+244	Sat May 21 20:23:51 +0000 2011	4a1a1f8ef964a520837a1fe3	{Taverna Tony}	{34.03655442152991,-118.68578579,Malibu,CA,United States}	{Food,}
+244	Sat May 21 02:13:05 +0000 2011	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Fri May 20 23:34:41 +0000 2011	4b8e9de9f964a520262c33e3	{Brown Field Municipal Airport (SDM)}	{32.56882331630335,-116.98817253112793,San Diego,CA,United States}	{Travel & Transport,Airport,}
+244	Fri May 20 21:38:52 +0000 2011	4b5f0c04f964a520b5a329e3	{Aeropuerto Loreto B.C.S.}	{25.992418900415533,-111.35263614304536,,,Mexico}	{Travel & Transport,}
+244	Thu May 19 00:24:26 +0000 2011	4dd46319ae60a78cec561b49	{Air Conditioned}	{34.002704,-118.48348,Santa Monica,CA,United States}	{}
+244	Wed May 18 18:16:59 +0000 2011	4c86826f2f1c236ab8dc5d43	{Partners Trust Real Estate}	{34.066986,-118.396783,Beverly Hills,CA,United States}	{Professional & Other Places,}
+244	Tue May 17 21:43:21 +0000 2011	4a849d32f964a5201bfd1fe3	{Tra di Noi}	{34.035884048444025,-118.68632733821869,Malibu,CA,United States}	{Food,}
+244	Sun May 15 23:22:24 +0000 2011	41cf5080f964a520a61e1fe3	{The Abbey Food & Bar}	{34.083373986214625,-118.38528500025966,West Hollywood,CA,United States}	{Nightlife Spot,}
+244	Sun May 15 17:10:29 +0000 2011	4c1539e47f7f2d7f1a24e268	{Malibu Farmers Market}	{34.03667533031541,-118.68902564048767,Malibu,CA,United States}	{Shop & Service,Food & Drink Shop,}
+244	Sat May 14 19:45:03 +0000 2011	45a0ddd0f964a520d3401fe3	{Rock Store}	{34.109657091072876,-118.78824055194855,Cornell,CA,United States}	{Food,}
+244	Sat May 14 19:20:12 +0000 2011	4d4b652b9a8af04dcbe80caf	{Hillbilly Hip}	{34.088718,-118.60394,,,United States}	{}
+244	Sat May 14 19:18:31 +0000 2011	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Sat May 14 03:03:21 +0000 2011	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Wed May 11 17:18:36 +0000 2011	4c86826f2f1c236ab8dc5d43	{Partners Trust Real Estate}	{34.066986,-118.396783,Beverly Hills,CA,United States}	{Professional & Other Places,}
+244	Tue May 10 19:58:04 +0000 2011	4b6779d2f964a52039512be3	{Ch?teau Marmont}	{34.09814601873928,-118.36843192577362,West Hollywood,CA,United States}	{Nightlife Spot,Travel & Transport,Food,}
+244	Sun May 08 19:22:54 +0000 2011	4c1539e47f7f2d7f1a24e268	{Malibu Farmers Market}	{34.03667533031541,-118.68902564048767,Malibu,CA,United States}	{Shop & Service,Food & Drink Shop,}
+244	Sun May 08 02:09:13 +0000 2011	4c1e8abd63750f4718ebb967	{The Colony Malibu}	{34.0325477387496,-118.6869157123197,Malibu,CA,United States}	{Residence,}
+244	Sat May 07 18:16:40 +0000 2011	45a0ddd0f964a520d3401fe3	{Rock Store}	{34.109657091072876,-118.78824055194855,Cornell,CA,United States}	{Food,}
+244	Sat May 07 02:08:04 +0000 2011	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Sat May 07 00:15:08 +0000 2011	4dc48ee152b1e8f9f7be4fba	{Gyrotonic w/Darcy Paley}	{34.033875191140936,-118.64398089958469,Malibu,CA,United States}	{Residence,}
+244	Fri May 06 01:34:03 +0000 2011	4bfd7723ee20ef3bee603c5e	{Caf? Habana}	{34.03468722126182,-118.68562854639704,Malibu,CA,United States}	{Food,}
+244	Thu May 05 02:24:16 +0000 2011	4b91de6df964a520acdc33e3	{Soho House}	{34.08948780782094,-118.39279174804688,West Hollywood,CA,United States}	{Nightlife Spot,Shop & Service,Arts & Entertainment,}
+244	Thu May 05 02:24:16 +0000 2011	4b91de6df964a520acdc33e3	{Soho House}	{34.08948780782094,-118.39279174804688,West Hollywood,CA,United States}	{Nightlife Spot,Shop & Service,Arts & Entertainment,}
+244	Wed May 04 23:24:43 +0000 2011	4c2bcd4577cfe21ee217b5f1	{Lea Journo Salon}	{34.065845,-118.400583,Beverly Hills,CA,United States}	{Shop & Service,}
+244	Wed May 04 22:27:02 +0000 2011	4b7d83a2f964a5209fc32fe3	{THEBlvd}	{34.0671947,-118.400949,Beverly Hills,CA,United States}	{Food,}
+244	Wed May 04 22:22:10 +0000 2011	4576ad82f964a520aa3e1fe3	{Beverly Wilshire Beverly Hills - A Four Seasons Hotel}	{34.06689854816261,-118.40075254440308,Beverly Hills,CA,United States}	{Nightlife Spot,Travel & Transport,Food,}
+244	Sun May 01 20:52:30 +0000 2011	4a849d32f964a5201bfd1fe3	{Tra di Noi}	{34.035884048444025,-118.68632733821869,Malibu,CA,United States}	{Food,}
+244	Sun May 01 20:03:17 +0000 2011	45a0ddd0f964a520d3401fe3	{Rock Store}	{34.109657091072876,-118.78824055194855,Cornell,CA,United States}	{Food,}
+244	Sun May 01 17:50:13 +0000 2011	4c1539e47f7f2d7f1a24e268	{Malibu Farmers Market}	{34.03667533031541,-118.68902564048767,Malibu,CA,United States}	{Shop & Service,Food & Drink Shop,}
+244	Sun May 01 02:22:59 +0000 2011	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Sat Apr 30 18:02:00 +0000 2011	4b06ca52f964a5204af022e3	{Santa Monica Airport (SMO)}	{34.016161192442986,-118.44854791957451,Santa Monica,CA,United States}	{Travel & Transport,}
+244	Wed Apr 27 01:27:40 +0000 2011	49cc5d80f964a5206e591fe3	{Montage Laguna Beach}	{33.51434879178374,-117.75768756866455,Laguna Beach,CA,United States}	{Travel & Transport,Outdoors & Recreation,Hotel,}
+244	Tue Apr 26 20:15:00 +0000 2011	4aad9d3bf964a520036120e3	{Blue Plate Oysterette (BPO)}	{34.01448100989093,-118.49825403555445,Santa Monica,CA,United States}	{Food,}
+244	Mon Apr 25 19:24:42 +0000 2011	4b730f86f964a520cf982de3	{See's Candies}	{34.0249920592766,-118.3721923828125,Los Angeles,CA,United States}	{Shop & Service,Food,}
+244	Mon Apr 25 17:16:04 +0000 2011	4a0dc867f964a52097751fe3	{The Ivy at the Shore}	{34.012068,-118.495622,Santa Monica,CA,United States}	{Food,}
+244	Sat Apr 23 02:29:03 +0000 2011	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Wed Apr 20 01:27:24 +0000 2011	4b91de6df964a520acdc33e3	{Soho House}	{34.08948780782094,-118.39279174804688,West Hollywood,CA,United States}	{Nightlife Spot,Shop & Service,Arts & Entertainment,}
+244	Sun Apr 17 00:11:01 +0000 2011	49cdadc9f964a5200f5a1fe3	{Santa Anita Park}	{34.14075780032176,-118.04485559463501,Arcadia,CA,United States}	{Arts & Entertainment,}
+244	Fri Apr 15 02:13:49 +0000 2011	4da7a9d381541df437ac7e85	{Tamsen}	{33.971491,-118.447828,Marina del Rey,CA,United States}	{Outdoors & Recreation,}
+244	Mon Apr 11 16:01:30 +0000 2011	4c4b336d46240f47056f02f3	{Del Rey Landing & Docks}	{33.971578947466696,-118.4497342876587,Marina del Rey,CA,United States}	{Travel & Transport,}
+244	Mon Apr 11 06:03:49 +0000 2011	4cc4168406c25481f8999447	{Jamaica Bay Inn}	{33.98228198143173,-118.45832347869873,Marina del Rey,CA,United States}	{Travel & Transport,Hotel,}
+244	Mon Apr 11 04:24:41 +0000 2011	4cf4832ce3b9a093e4754f53	{Vu Restaurant}	{33.98249270680857,-118.45766790656985,Marina del Rey,CA,United States}	{Food,}
+244	Sun Apr 10 22:11:05 +0000 2011	4be1be30edbb0f47f588a615	{Dana Point Yacht Club}	{33.46001685087425,-117.70430088043213,Dana Point,CA,United States}	{Outdoors & Recreation,}
+244	Sun Apr 10 19:29:21 +0000 2011	4abd4716f964a520648920e3	{Surf & Sand Resort}	{33.53041013470407,-117.7739714475126,Laguna Beach,CA,United States}	{Travel & Transport,Hotel,Convention Center,Professional & Other Places,}
+244	Sun Apr 10 03:22:02 +0000 2011	4aec907df964a520cac821e3	{Watermarc}	{33.541242,-117.78241217136383,Laguna Beach,CA,United States}	{Nightlife Spot,}
+244	Sat Apr 09 03:11:01 +0000 2011	4b3e7f5ef964a520ff9d25e3	{Chemosphere House}	{34.12496330561339,-118.3637264271307,Los Angeles,CA,United States}	{Residence,}
+244	Wed Apr 06 19:34:41 +0000 2011	4f0cbe0de4b06b1f3eeec21d	{Southbay Triumph}	{33.7894339841787,-118.32291641338051,Lomita,CA,United States}	{Shop & Service,}
+244	Wed Apr 06 17:25:51 +0000 2011	4c86826f2f1c236ab8dc5d43	{Partners Trust Real Estate}	{34.066986,-118.396783,Beverly Hills,CA,United States}	{Professional & Other Places,}
+244	Wed Apr 06 16:16:35 +0000 2011	4cdc5e06fc97370475efd405	{Blackhorse motorsports inc}	{34.04689216,-118.37641,Los Angeles,CA,United States}	{}
+244	Wed Apr 06 16:16:34 +0000 2011	4cdc5e06fc97370475efd405	{Blackhorse motorsports inc}	{34.04689216,-118.37641,Los Angeles,CA,United States}	{}
+244	Tue Apr 05 21:27:17 +0000 2011	4b91de6df964a520acdc33e3	{Soho House}	{34.08948780782094,-118.39279174804688,West Hollywood,CA,United States}	{Nightlife Spot,Shop & Service,Arts & Entertainment,}
+244	Tue Apr 05 00:58:52 +0000 2011	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Sun Apr 03 21:02:13 +0000 2011	45a0ddd0f964a520d3401fe3	{Rock Store}	{34.109657091072876,-118.78824055194855,Cornell,CA,United States}	{Food,}
+244	Sat Apr 02 02:33:29 +0000 2011	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Fri Apr 01 03:57:11 +0000 2011	4d5d6404b9b2a14364b3818c	{Fig & Olive}	{34.083389,-118.376276,Los Angeles,CA,United States}	{Food,}
+244	Thu Mar 31 22:03:20 +0000 2011	4c4b336d46240f47056f02f3	{Del Rey Landing & Docks}	{33.971578947466696,-118.4497342876587,Marina del Rey,CA,United States}	{Travel & Transport,}
+244	Wed Mar 30 04:12:29 +0000 2011	4c41f15cd7fad13a6f4f08da	{Thai Body Works}	{34.039226,-118.6677753447123,,,United States}	{}
+244	Tue Mar 29 19:47:48 +0000 2011	4ba6915ff964a5200e5f39e3	{Mauro's Cafe at Fred Segal}	{34.083381,-118.36644,Los Angeles,CA,United States}	{Food,}
+244	Mon Mar 28 02:24:23 +0000 2011	4aff60e5f964a520f03722e3	{Cholada Thai}	{34.03908135976145,-118.58401715755463,Malibu,CA,United States}	{Food,}
+244	Sun Mar 27 17:54:10 +0000 2011	4c1539e47f7f2d7f1a24e268	{Malibu Farmers Market}	{34.03667533031541,-118.68902564048767,Malibu,CA,United States}	{Shop & Service,Food & Drink Shop,}
+244	Sun Mar 27 02:46:07 +0000 2011	4a6d5523f964a520b6d21fe3	{Polo Lounge}	{34.081544042226405,-118.41426014900208,Beverly Hills,CA,United States}	{Nightlife Spot,Food,}
+244	Fri Mar 25 04:11:28 +0000 2011	4a1a1f8ef964a520837a1fe3	{Taverna Tony}	{34.03655442152991,-118.68578579,Malibu,CA,United States}	{Food,}
+244	Tue Mar 22 01:11:13 +0000 2011	4b042e81f964a520dc5122e3	{Canyon Ranch SpaClub}	{36.122658187381916,-115.16984939575195,Las Vegas,NV,United States}	{Travel & Transport,Shop & Service,Food,Hotel,}
+244	Sun Mar 20 00:56:55 +0000 2011	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Sat Mar 19 21:01:57 +0000 2011	4a1a1f8ef964a520837a1fe3	{Taverna Tony}	{34.03655442152991,-118.68578579,Malibu,CA,United States}	{Food,}
+244	Sat Mar 12 23:16:44 +0000 2011	4c2bcd4577cfe21ee217b5f1	{Lea Journo Salon}	{34.065845,-118.400583,Beverly Hills,CA,United States}	{Shop & Service,}
+244	Sat Mar 12 18:55:49 +0000 2011	4bb84a2ccf2fc9b67c749f02	{Malibu Beach Inn}	{34.03806924819946,-118.67437,Malibu,CA,United States}	{Travel & Transport,Outdoors & Recreation,Food,}
+244	Sat Mar 12 15:58:45 +0000 2011	4c4b336d46240f47056f02f3	{Del Rey Landing & Docks}	{33.971578947466696,-118.4497342876587,Marina del Rey,CA,United States}	{Travel & Transport,}
+244	Sat Mar 05 04:23:23 +0000 2011	3fd66200f964a520e1ef1ee3	{Duke's Malibu}	{34.03639569311383,-118.63577427994049,Malibu,CA,United States}	{Food,}
+244	Wed Mar 02 02:22:50 +0000 2011	3fd66200f964a520e1ef1ee3	{Duke's Malibu}	{34.03639569311383,-118.63577427994049,Malibu,CA,United States}	{Food,}
+244	Sun Feb 27 20:46:44 +0000 2011	4c1539e47f7f2d7f1a24e268	{Malibu Farmers Market}	{34.03667533031541,-118.68902564048767,Malibu,CA,United States}	{Shop & Service,Food & Drink Shop,}
+244	Wed Feb 23 17:58:17 +0000 2011	4c86826f2f1c236ab8dc5d43	{Partners Trust Real Estate}	{34.066986,-118.396783,Beverly Hills,CA,United States}	{Professional & Other Places,}
+244	Tue Feb 22 23:17:12 +0000 2011	4c86826f2f1c236ab8dc5d43	{Partners Trust Real Estate}	{34.066986,-118.396783,Beverly Hills,CA,United States}	{Professional & Other Places,}
+244	Tue Feb 22 22:59:32 +0000 2011	4a935cb8f964a5209e1f20e3	{Hirozen}	{34.076337137684746,-118.37273406200231,Los Angeles,CA,United States}	{Food,}
+244	Thu Feb 17 22:41:34 +0000 2011	3fd66200f964a520d5ee1ee3	{Spago Beverly Hills}	{34.06766287806912,-118.4015679359436,Beverly Hills,CA,United States}	{Food,}
+244	Thu Feb 17 17:41:15 +0000 2011	4accd88ff964a520bdc920e3	{Beverly Hills Juice Club}	{34.07598649878741,-118.37289383831191,Los Angeles,CA,United States}	{Food,}
+244	Thu Feb 17 02:53:04 +0000 2011	4b91de6df964a520acdc33e3	{Soho House}	{34.08948780782094,-118.39279174804688,West Hollywood,CA,United States}	{Nightlife Spot,Shop & Service,Arts & Entertainment,}
+244	Fri Feb 11 08:38:22 +0000 2011	4b6779d2f964a52039512be3	{Ch?teau Marmont}	{34.09814601873928,-118.36843192577362,West Hollywood,CA,United States}	{Nightlife Spot,Travel & Transport,Food,}
+244	Fri Feb 11 06:15:45 +0000 2011	4b970787f964a5203ef434e3	{Sunset Tower Hotel}	{34.095167117497574,-118.37205501099288,West Hollywood,CA,United States}	{Travel & Transport,Nightlife Spot,}
+244	Fri Feb 11 04:13:49 +0000 2011	4b91de6df964a520acdc33e3	{Soho House}	{34.08948780782094,-118.39279174804688,West Hollywood,CA,United States}	{Nightlife Spot,Shop & Service,Arts & Entertainment,}
+244	Fri Feb 11 03:59:11 +0000 2011	4b91de6df964a520acdc33e3	{Soho House}	{34.08948780782094,-118.39279174804688,West Hollywood,CA,United States}	{Nightlife Spot,Shop & Service,Arts & Entertainment,}
+244	Fri Feb 11 02:25:49 +0000 2011	4c86826f2f1c236ab8dc5d43	{Partners Trust Real Estate}	{34.066986,-118.396783,Beverly Hills,CA,United States}	{Professional & Other Places,}
+244	Tue Jan 25 12:29:34 +0000 2011	4b5df1b3f964a5203e7529e3	{The Hayfield Manor}	{51.890954,-8.489794,Cork,Co Cork,Ireland}	{Travel & Transport,}
+244	Mon Jan 24 18:35:04 +0000 2011	4d3dc5098edf37046140bda5	{Coolmore Stud}	{51.891039,-8.489823,Tipperary,,Ireland}	{}
+244	Fri Jan 21 23:20:25 +0000 2011	4b7a8452f964a5208a2f2fe3	{Restaurant Patrick Guilbaud}	{53.338344633960915,-6.252755290658946,Dublin,,Ireland}	{Food,}
+244	Fri Jan 21 03:37:42 +0000 2011	4b4ad8eef964a520fc8e26e3	{Merrion Hotel}	{53.338480186136394,-6.252502402819555,Dublin,Dublin,Ireland}	{Nightlife Spot,Travel & Transport,}
+244	Tue Jan 18 11:55:03 +0000 2011	4acdb243f964a520b7cc20e3	{London City Airport (LCY)}	{51.505965,0.047979,London,Greater London,United Kingdom}	{Travel & Transport,}
+244	Mon Jan 17 22:34:56 +0000 2011	4ba7f626f964a52027c239e3	{Air New Zealand Koru Club Lounge}	{33.9462570213181,-118.40428233146667,Los Angeles,CA,United States}	{Travel & Transport,Airport,}
+244	Sun Jan 16 17:31:05 +0000 2011	4c1539e47f7f2d7f1a24e268	{Malibu Farmers Market}	{34.03667533031541,-118.68902564048767,Malibu,CA,United States}	{Shop & Service,Food & Drink Shop,}
+244	Thu Jan 13 23:57:17 +0000 2011	4a9314f3f964a520bc1e20e3	{Pacific Design Center}	{34.08239544772336,-118.38274831925936,West Hollywood,CA,United States}	{Shop & Service,Professional & Other Places,}
+244	Thu Jan 13 19:34:04 +0000 2011	4c2bcd4577cfe21ee217b5f1	{Lea Journo Salon}	{34.065845,-118.400583,Beverly Hills,CA,United States}	{Shop & Service,}
+244	Wed Jan 12 03:51:41 +0000 2011	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Mon Jan 10 19:56:13 +0000 2011	4b79a7c0f964a520d0082fe3	{The Vitamin Barn}	{34.034294091394976,-118.69442777144239,Malibu,CA,United States}	{Shop & Service,}
+244	Mon Jan 10 19:56:13 +0000 2011	4b79a7c0f964a520d0082fe3	{The Vitamin Barn}	{34.034294091394976,-118.69442777144239,Malibu,CA,United States}	{Shop & Service,}
+244	Sat Jan 08 05:03:59 +0000 2011	4bfd7723ee20ef3bee603c5e	{Caf? Habana}	{34.03468722126182,-118.68562854639704,Malibu,CA,United States}	{Food,}
+244	Sat Jan 08 04:43:15 +0000 2011	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Thu Jan 06 04:29:55 +0000 2011	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Tue Jan 04 05:29:59 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+244	Sat Jan 01 05:34:52 +0000 2011	4bc16a3bf8219c746374b310	{Sky Bar}	{39.18613170882215,-106.81691408157349,Aspen,CO,United States}	{Nightlife Spot,}
+244	Fri Dec 31 19:57:36 +0000 2010	4a1f5fc5f964a520247c1fe3	{Ajax Tavern}	{39.1864726596262,-106.81798696517944,Aspen,CO,United States}	{Food,}
+244	Fri Dec 31 19:57:36 +0000 2010	4a1f5fc5f964a520247c1fe3	{Ajax Tavern}	{39.1864726596262,-106.81798696517944,Aspen,CO,United States}	{Food,}
+244	Thu Dec 30 02:47:27 +0000 2010	4b3ab6b4f964a5202b6d25e3	{campo DeFiori}	{39.18978,-106.820082,Aspen,CO,United States}	{Food,}
+244	Mon Dec 27 21:21:12 +0000 2010	4b2302d8f964a520195224e3	{The St. Regis Aspen Resort}	{39.18670531430866,-106.82110152750123,Aspen,CO,United States}	{Travel & Transport,Hotel,}
+244	Mon Dec 27 18:44:09 +0000 2010	4b39746bf964a520c85c25e3	{Il Mulino New York}	{39.18653,-106.818619,Aspen,CO,United States}	{Food,}
+244	Mon Dec 27 17:07:16 +0000 2010	4a7c18acf964a520e3eb1fe3	{Aspen - Pitkin County Airport (ASE)}	{39.21964261284728,-106.8647484696595,Aspen,CO,United States}	{Travel & Transport,Airport,}
+244	Mon Dec 27 02:46:07 +0000 2010	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Sun Dec 26 22:23:59 +0000 2010	4a849d32f964a5201bfd1fe3	{Tra di Noi}	{34.035884048444025,-118.68632733821869,Malibu,CA,United States}	{Food,}
+244	Sun Dec 26 03:58:22 +0000 2010	4c1709b4955976b08586a5f6	{One Gun Ranch}	{34.05811042620505,-118.65373657850961,Malibu,CA,United States}	{}
+244	Sat Dec 25 21:07:21 +0000 2010	4a6d5523f964a520b6d21fe3	{Polo Lounge}	{34.081544042226405,-118.41426014900208,Beverly Hills,CA,United States}	{Nightlife Spot,Food,}
+244	Sat Dec 25 03:57:28 +0000 2010	4a1a1f8ef964a520837a1fe3	{Taverna Tony}	{34.03655442152991,-118.68578579,Malibu,CA,United States}	{Food,}
+244	Fri Dec 24 18:53:11 +0000 2010	4a7ca2e2f964a52004ed1fe3	{Frontrunners}	{34.05359,-118.46241074,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,}
+244	Thu Dec 23 22:49:56 +0000 2010	4b91f9ddf964a520e0e133e3	{MacArthur Park}	{34.05866823354151,-118.27752113342285,Los Angeles,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+244	Thu Dec 23 19:37:17 +0000 2010	4c86826f2f1c236ab8dc5d43	{Partners Trust Real Estate}	{34.066986,-118.396783,Beverly Hills,CA,United States}	{Professional & Other Places,}
+244	Thu Dec 23 03:40:35 +0000 2010	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Wed Dec 22 22:18:05 +0000 2010	4b6b1118f964a5207ef02be3	{John & Pete's}	{34.082683,-118.37669831666666,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+244	Tue Dec 21 23:12:34 +0000 2010	4c86826f2f1c236ab8dc5d43	{Partners Trust Real Estate}	{34.066986,-118.396783,Beverly Hills,CA,United States}	{Professional & Other Places,}
+244	Tue Dec 21 01:29:21 +0000 2010	4d1002ed71e8a1cdbf417ebd	{MAMEG}	{34.06389899331066,-118.41399904146094,,CA,United States}	{Shop & Service,Clothing Store,}
+244	Tue Dec 21 01:13:11 +0000 2010	4b6076c5f964a52085e729e3	{Maison Martin Margiela}	{34.064196209653446,-118.41365465263222,Beverly Hills,CA,United States}	{Shop & Service,Clothing Store,}
+244	Tue Dec 21 00:40:21 +0000 2010	4b2f1bbbf964a52091e924e3	{OK Store}	{34.072819,-118.370288,Los Angeles,CA,United States}	{Shop & Service,}
+244	Mon Dec 20 23:16:01 +0000 2010	4ba6915ff964a5200e5f39e3	{Mauro's Cafe at Fred Segal}	{34.083381,-118.36644,Los Angeles,CA,United States}	{Food,}
+244	Mon Dec 20 21:34:12 +0000 2010	4c86826f2f1c236ab8dc5d43	{Partners Trust Real Estate}	{34.066986,-118.396783,Beverly Hills,CA,United States}	{Professional & Other Places,}
+244	Mon Dec 20 00:40:47 +0000 2010	4c1709b4955976b08586a5f6	{One Gun Ranch}	{34.05811042620505,-118.65373657850961,Malibu,CA,United States}	{}
+244	Sun Dec 19 21:43:58 +0000 2010	49e0e4aaf964a5207b611fe3	{Whole Foods Market}	{34.001095918015736,-118.46969604492188,Venice,CA,United States}	{Shop & Service,Food & Drink Shop,}
+244	Sun Dec 19 00:08:53 +0000 2010	4bfd7723ee20ef3bee603c5e	{Caf? Habana}	{34.03468722126182,-118.68562854639704,Malibu,CA,United States}	{Food,}
+244	Sat Dec 18 19:50:24 +0000 2010	4aae825cf964a5204c6220e3	{Long Beach Convention Center}	{33.76427582964914,-118.19072377691555,Long Beach,CA,United States}	{Arts & Entertainment,Convention Center,Professional & Other Places,}
+244	Sat Dec 18 03:59:50 +0000 2010	4a935cb8f964a5209e1f20e3	{Hirozen}	{34.076337137684746,-118.37273406200231,Los Angeles,CA,United States}	{Food,}
+244	Sat Dec 18 02:38:14 +0000 2010	4c86826f2f1c236ab8dc5d43	{Partners Trust Real Estate}	{34.066986,-118.396783,Beverly Hills,CA,United States}	{Professional & Other Places,}
+244	Thu Dec 16 03:45:56 +0000 2010	4a6d5523f964a520b6d21fe3	{Polo Lounge}	{34.081544042226405,-118.41426014900208,Beverly Hills,CA,United States}	{Nightlife Spot,Food,}
+244	Tue Dec 14 22:18:03 +0000 2010	4b91de6df964a520acdc33e3	{Soho House}	{34.08948780782094,-118.39279174804688,West Hollywood,CA,United States}	{Nightlife Spot,Shop & Service,Arts & Entertainment,}
+244	Tue Dec 14 20:30:57 +0000 2010	4c86826f2f1c236ab8dc5d43	{Partners Trust Real Estate}	{34.066986,-118.396783,Beverly Hills,CA,United States}	{Professional & Other Places,}
+244	Tue Dec 14 03:10:48 +0000 2010	4b91de6df964a520acdc33e3	{Soho House}	{34.08948780782094,-118.39279174804688,West Hollywood,CA,United States}	{Nightlife Spot,Shop & Service,Arts & Entertainment,}
+244	Sun Dec 12 18:13:57 +0000 2010	4bb9affd3db7b713e670229a	{Paradise Cove}	{34.020154678632245,-118.7872052192688,Malibu,CA,United States}	{Outdoors & Recreation,Beach,}
+244	Sat Dec 11 20:15:27 +0000 2010	4cd3160b558a37044e17bfa6	{Main Street US Antiques}	{34.08444639732026,-118.60020840913018,Topanga,CA,United States}	{}
+244	Sat Dec 11 02:57:04 +0000 2010	4a1a1f8ef964a520837a1fe3	{Taverna Tony}	{34.03655442152991,-118.68578579,Malibu,CA,United States}	{Food,}
+244	Fri Dec 10 19:11:49 +0000 2010	4c86826f2f1c236ab8dc5d43	{Partners Trust Real Estate}	{34.066986,-118.396783,Beverly Hills,CA,United States}	{Professional & Other Places,}
+244	Thu Dec 09 22:29:20 +0000 2010	4a0dc867f964a52097751fe3	{The Ivy at the Shore}	{34.012068,-118.495622,Santa Monica,CA,United States}	{Food,}
+244	Thu Dec 09 03:34:35 +0000 2010	4b91de6df964a520acdc33e3	{Soho House}	{34.08948780782094,-118.39279174804688,West Hollywood,CA,United States}	{Nightlife Spot,Shop & Service,Arts & Entertainment,}
+244	Thu Dec 09 02:25:20 +0000 2010	4cd857c65e1b721ed6ad39d9	{Devon}	{34.06713902950287,-118.396671,Beverly Hills,CA,United States}	{}
+244	Wed Dec 08 23:54:52 +0000 2010	4c2bcd4577cfe21ee217b5f1	{Lea Journo Salon}	{34.065845,-118.400583,Beverly Hills,CA,United States}	{Shop & Service,}
+244	Wed Dec 08 22:05:09 +0000 2010	4ced623df368b1f7b6a37af7	{Lancer Dermatology}	{34.07019975588385,-118.40377916723801,Beverly Hills,CA,United States}	{Professional & Other Places,}
+244	Wed Dec 08 22:05:09 +0000 2010	4ced623df368b1f7b6a37af7	{Lancer Dermatology}	{34.07019975588385,-118.40377916723801,Beverly Hills,CA,United States}	{Professional & Other Places,}
+244	Wed Dec 08 03:45:37 +0000 2010	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Tue Dec 07 22:07:38 +0000 2010	4b01f6c8f964a520de4622e3	{Bouchon}	{34.06792950315861,-118.39921832084656,Beverly Hills,CA,United States}	{Nightlife Spot,Food,}
+244	Tue Dec 07 02:31:26 +0000 2010	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Sun Dec 05 21:21:10 +0000 2010	4bfd7723ee20ef3bee603c5e	{Caf? Habana}	{34.03468722126182,-118.68562854639704,Malibu,CA,United States}	{Food,}
+244	Sun Dec 05 19:55:46 +0000 2010	49e78d7cf964a520bd641fe3	{Santa Monica Farmers Market - Sunday}	{34.001559019088745,-118.483741,Santa Monica,CA,United States}	{Shop & Service,Food & Drink Shop,}
+244	Sun Dec 05 19:01:42 +0000 2010	4c1539e47f7f2d7f1a24e268	{Malibu Farmers Market}	{34.03667533031541,-118.68902564048767,Malibu,CA,United States}	{Shop & Service,Food & Drink Shop,}
+244	Sat Dec 04 23:51:48 +0000 2010	4ba6915ff964a5200e5f39e3	{Mauro's Cafe at Fred Segal}	{34.083381,-118.36644,Los Angeles,CA,United States}	{Food,}
+244	Sat Dec 04 02:39:31 +0000 2010	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Fri Dec 03 22:04:03 +0000 2010	4b91de6df964a520acdc33e3	{Soho House}	{34.08948780782094,-118.39279174804688,West Hollywood,CA,United States}	{Nightlife Spot,Shop & Service,Arts & Entertainment,}
+244	Fri Dec 03 21:34:12 +0000 2010	4c86826f2f1c236ab8dc5d43	{Partners Trust Real Estate}	{34.066986,-118.396783,Beverly Hills,CA,United States}	{Professional & Other Places,}
+244	Thu Dec 02 17:41:03 +0000 2010	4accd88ff964a520bdc920e3	{Beverly Hills Juice Club}	{34.07598649878741,-118.37289383831191,Los Angeles,CA,United States}	{Food,}
+244	Wed Dec 01 20:49:58 +0000 2010	4b79a7c0f964a520d0082fe3	{The Vitamin Barn}	{34.034294091394976,-118.69442777144239,Malibu,CA,United States}	{Shop & Service,}
+244	Mon Nov 29 22:01:05 +0000 2010	4cc4168406c25481f8999447	{Jamaica Bay Inn}	{33.98228198143173,-118.45832347869873,Marina del Rey,CA,United States}	{Travel & Transport,Hotel,}
+244	Mon Nov 29 21:32:44 +0000 2010	4aad9d3bf964a520036120e3	{Blue Plate Oysterette (BPO)}	{34.01448100989093,-118.49825403555445,Santa Monica,CA,United States}	{Food,}
+244	Sun Nov 28 18:21:54 +0000 2010	4c1539e47f7f2d7f1a24e268	{Malibu Farmers Market}	{34.03667533031541,-118.68902564048767,Malibu,CA,United States}	{Shop & Service,Food & Drink Shop,}
+244	Sun Nov 28 00:04:35 +0000 2010	45a0ddd0f964a520d3401fe3	{Rock Store}	{34.109657091072876,-118.78824055194855,Cornell,CA,United States}	{Food,}
+244	Sat Nov 27 21:25:35 +0000 2010	4b524c9df964a520c47527e3	{The Old Place}	{34.114511571189496,-118.77827882766724,Cornell,CA,United States}	{Food,}
+244	Thu Nov 25 17:45:25 +0000 2010	4c1709b4955976b08586a5f6	{One Gun Ranch}	{34.05811042620505,-118.65373657850961,Malibu,CA,United States}	{}
+244	Wed Nov 24 19:07:23 +0000 2010	4ced623df368b1f7b6a37af7	{Lancer Dermatology}	{34.07019975588385,-118.40377916723801,Beverly Hills,CA,United States}	{Professional & Other Places,}
+244	Wed Nov 24 16:58:08 +0000 2010	4b0d6b1af964a520dc4723e3	{Santa Monica Farmers Market}	{34.01702446188861,-118.49767684936523,Santa Monica,CA,United States}	{Shop & Service,Food & Drink Shop,}
+244	Wed Nov 24 00:00:55 +0000 2010	4a8ff19ff964a520b21520e3	{CHANEL Boutique}	{34.07581171389464,-118.383826742127,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,}
+244	Tue Nov 23 21:04:47 +0000 2010	477644daf964a520134d1fe3	{The Ivy Restaurant}	{34.0756306764319,-118.383857,Los Angeles,CA,United States}	{Food,}
+244	Tue Nov 23 03:00:43 +0000 2010	4c41f15cd7fad13a6f4f08da	{Thai Body Works}	{34.039226,-118.6677753447123,,,United States}	{}
+244	Mon Nov 22 22:45:17 +0000 2010	3fd66200f964a520e2ef1ee3	{Gladstone's}	{33.76184640555942,-118.19322736963748,Long Beach,CA,United States}	{Outdoors & Recreation,Food,}
+244	Mon Nov 22 18:11:16 +0000 2010	4b79a7c0f964a520d0082fe3	{The Vitamin Barn}	{34.034294091394976,-118.69442777144239,Malibu,CA,United States}	{Shop & Service,}
+244	Mon Nov 22 02:28:11 +0000 2010	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Mon Nov 22 01:24:44 +0000 2010	4b6f6429f964a52084ee2ce3	{Maxfield}	{34.034981,-118.685459,Malibu,CA,United States}	{Shop & Service,Clothing Store,}
+244	Sun Nov 21 23:51:20 +0000 2010	4c1709b4955976b08586a5f6	{One Gun Ranch}	{34.05811042620505,-118.65373657850961,Malibu,CA,United States}	{}
+244	Sun Nov 21 19:55:37 +0000 2010	4c026e2ef56c2d7f825e1b66	{Malibu Sport Fishing Pier}	{34.03658642260804,-118.67621541023254,Malibu,CA,United States}	{Travel & Transport,Outdoors & Recreation,Beach,}
+244	Sun Nov 21 19:31:08 +0000 2010	4c1539e47f7f2d7f1a24e268	{Malibu Farmers Market}	{34.03667533031541,-118.68902564048767,Malibu,CA,United States}	{Shop & Service,Food & Drink Shop,}
+244	Sun Nov 21 19:31:08 +0000 2010	4c1539e47f7f2d7f1a24e268	{Malibu Farmers Market}	{34.03667533031541,-118.68902564048767,Malibu,CA,United States}	{Shop & Service,Food & Drink Shop,}
+244	Sun Nov 21 01:33:55 +0000 2010	49f8e126f964a520316d1fe3	{Santa Monica Seafood}	{34.02372049512086,-118.49225878715515,Santa Monica,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+244	Sat Nov 20 23:16:17 +0000 2010	4c3f5c8b520fa593ca7ac6ac	{Shutters - Oceanside Room}	{34.006887,-118.491751,Santa Monica,CA,United States}	{Professional & Other Places,}
+244	Sat Nov 20 22:51:14 +0000 2010	4c5e30ed85a1e21e05d45b11	{Louis Vuitton}	{34.01373984328841,-118.49404590420379,Santa Monica,CA,United States}	{Shop & Service,Clothing Store,}
+244	Fri Nov 19 22:03:06 +0000 2010	4a849d32f964a5201bfd1fe3	{Tra di Noi}	{34.035884048444025,-118.68632733821869,Malibu,CA,United States}	{Food,}
+244	Fri Nov 19 17:03:18 +0000 2010	4b79a7c0f964a520d0082fe3	{The Vitamin Barn}	{34.034294091394976,-118.69442777144239,Malibu,CA,United States}	{Shop & Service,}
+244	Thu Nov 18 21:23:25 +0000 2010	4c86826f2f1c236ab8dc5d43	{Partners Trust Real Estate}	{34.066986,-118.396783,Beverly Hills,CA,United States}	{Professional & Other Places,}
+244	Thu Nov 18 20:39:39 +0000 2010	4ba6915ff964a5200e5f39e3	{Mauro's Cafe at Fred Segal}	{34.083381,-118.36644,Los Angeles,CA,United States}	{Food,}
+244	Tue Nov 16 00:01:21 +0000 2010	4b91de6df964a520acdc33e3	{Soho House}	{34.08948780782094,-118.39279174804688,West Hollywood,CA,United States}	{Nightlife Spot,Shop & Service,Arts & Entertainment,}
+244	Mon Nov 15 18:08:58 +0000 2010	4accd88ff964a520bdc920e3	{Beverly Hills Juice Club}	{34.07598649878741,-118.37289383831191,Los Angeles,CA,United States}	{Food,}
+244	Mon Nov 15 05:45:06 +0000 2010	4aff60e5f964a520f03722e3	{Cholada Thai}	{34.03908135976145,-118.58401715755463,Malibu,CA,United States}	{Food,}
+244	Sat Nov 13 05:32:39 +0000 2010	4b074076f964a520b1fa22e3	{PC Greens}	{34.039871500503295,-118.66688668727875,Malibu,CA,United States}	{Food,}
+244	Sat Nov 13 00:34:41 +0000 2010	4c1709b4955976b08586a5f6	{One Gun Ranch}	{34.05811042620505,-118.65373657850961,Malibu,CA,United States}	{}
+244	Fri Nov 12 02:59:32 +0000 2010	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Thu Nov 11 21:47:27 +0000 2010	4aad9d3bf964a520036120e3	{Blue Plate Oysterette (BPO)}	{34.01448100989093,-118.49825403555445,Santa Monica,CA,United States}	{Food,}
+244	Wed Nov 10 08:25:25 +0000 2010	4c6906b6897b1b8dcc1eae17	{Singapore Airlines}	{35.762235,140.386409,,,Japan}	{Travel & Transport,Airport,}
+244	Wed Nov 10 04:34:08 +0000 2010	4b946ad3f964a5209e7834e3	{Nobu Tokyo}	{35.66629207220754,139.74377632141113,??,???,Japan}	{Food,}
+244	Wed Nov 10 04:34:08 +0000 2010	4b946ad3f964a5209e7834e3	{Nobu Tokyo}	{35.66629207220754,139.74377632141113,??,???,Japan}	{Food,}
+244	Wed Nov 10 04:32:10 +0000 2010	4d36c3b04dec60fc6ea97a61	{The Lobby Lounge & Bar (????????? & ??)}	{35.66555989185584,139.73115921020508,Minato,Tokyo,Japan}	{Nightlife Spot,}
+244	Wed Nov 10 01:11:22 +0000 2010	4c93ada56b35a143dc4e14dc	{BAR AZURE}	{35.698473042238156,139.81473416090012,???,???,Japan}	{Nightlife Spot,}
+244	Tue Nov 09 09:31:05 +0000 2010	4b946ad3f964a5209e7834e3	{Nobu Tokyo}	{35.66629207220754,139.74377632141113,??,???,Japan}	{Food,}
+244	Tue Nov 09 07:27:02 +0000 2010	4b05879ff964a520149d22e3	{The Ritz-Carlton Caf? & Deli (??????????? ??? & ??)}	{35.666022,139.730939,??,???,Japan}	{Food,}
+244	Mon Nov 08 10:47:30 +0000 2010	4b6f6429f964a52084ee2ce3	{Maxfield}	{34.034981,-118.685459,Malibu,CA,United States}	{Shop & Service,Clothing Store,}
+244	Mon Nov 08 09:21:30 +0000 2010	4cbd67c5f50e224b9d4804fc	{Daylesford Organic Aoyama (???????? ??????)}	{35.66277057185875,139.70948964357376,???,???,Japan}	{Shop & Service,Food,Food & Drink Shop,}
+244	Wed Nov 03 11:58:13 +0000 2010	4b8dddfcf964a520521133e3	{Roti Wine Bar & Brasserie ????????}	{35.666564,139.730652,??,???,Japan}	{Food,}
+244	Wed Nov 03 05:21:17 +0000 2010	4a7379d2f964a52088dc1fe3	{Hong Kong International Airport | HKG | ??????}	{22.31530176363214,113.9348316192627,Chek Lap Kok,,Hong Kong}	{Travel & Transport,}
+244	Tue Nov 02 06:57:06 +0000 2010	4b0588cbf964a52039da22e3	{The Peninsula Hong Kong ????}	{22.295166666666667,114.17177777777778,Tsim Sha Tsui,,Hong Kong}	{Travel & Transport,}
+244	Mon Nov 01 22:56:36 +0000 2010	4b5ed34ef964a520ff9929e3	{???? ?2??????? (HND/RJTT)}	{35.55137976854632,139.78840827941895,???,???,Japan}	{Travel & Transport,Airport,}
+244	Mon Nov 01 09:52:28 +0000 2010	4b0587b0f964a52000a022e3	{INAKAYA West Shop (??? ??)}	{35.664097887939405,139.7319351179653,??,???,Japan}	{Food,}
+244	Sun Oct 31 07:16:27 +0000 2010	4d36c3b04dec60fc6ea97a61	{The Lobby Lounge & Bar (????????? & ??)}	{35.66555989185584,139.73115921020508,Minato,Tokyo,Japan}	{Nightlife Spot,}
+244	Sat Oct 30 23:12:42 +0000 2010	4d36c3b04dec60fc6ea97a61	{The Lobby Lounge & Bar (????????? & ??)}	{35.66555989185584,139.73115921020508,Minato,Tokyo,Japan}	{Nightlife Spot,}
+244	Sat Oct 30 09:18:41 +0000 2010	4ad6cea1f964a520480821e3	{?????? (Narita International Airport) (NRT)}	{35.76834146030437,140.3871738910675,Narita,Chiba Prefecture,Japan}	{Travel & Transport,Airport,}
+244	Fri Oct 29 19:37:03 +0000 2010	4bdb1dd82a3a0f47897eadb6	{Singapore Airlines LAX}	{33.944103028691096,-118.40885675710123,Los Angeles,CA,United States}	{}
+244	Thu Oct 28 02:13:43 +0000 2010	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Wed Oct 27 17:06:44 +0000 2010	4accd88ff964a520bdc920e3	{Beverly Hills Juice Club}	{34.07598649878741,-118.37289383831191,Los Angeles,CA,United States}	{Food,}
+244	Tue Oct 26 16:51:30 +0000 2010	4accd88ff964a520bdc920e3	{Beverly Hills Juice Club}	{34.07598649878741,-118.37289383831191,Los Angeles,CA,United States}	{Food,}
+244	Sun Oct 24 18:32:13 +0000 2010	4c1709b4955976b08586a5f6	{One Gun Ranch}	{34.05811042620505,-118.65373657850961,Malibu,CA,United States}	{}
+244	Sat Oct 23 17:39:34 +0000 2010	4b79a7c0f964a520d0082fe3	{The Vitamin Barn}	{34.034294091394976,-118.69442777144239,Malibu,CA,United States}	{Shop & Service,}
+244	Sat Oct 23 00:53:49 +0000 2010	4aff60e5f964a520f03722e3	{Cholada Thai}	{34.03908135976145,-118.58401715755463,Malibu,CA,United States}	{Food,}
+244	Fri Oct 22 20:17:49 +0000 2010	4b91de6df964a520acdc33e3	{Soho House}	{34.08948780782094,-118.39279174804688,West Hollywood,CA,United States}	{Nightlife Spot,Shop & Service,Arts & Entertainment,}
+244	Fri Oct 22 04:31:07 +0000 2010	4ab2a1f4f964a520b76b20e3	{Cube Marketplace & Cafe}	{34.08239932124522,-118.34421962499619,Los Angeles,CA,United States}	{Food,}
+244	Fri Oct 22 02:46:39 +0000 2010	4bb584d26edc76b08cdc2f1c	{Fahey/Klein Gallery}	{34.07498285813637,-118.34387483281078,Los Angeles,CA,United States}	{}
+244	Tue Oct 19 19:20:48 +0000 2010	4c86826f2f1c236ab8dc5d43	{Partners Trust Real Estate}	{34.066986,-118.396783,Beverly Hills,CA,United States}	{Professional & Other Places,}
+244	Tue Oct 19 01:18:56 +0000 2010	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Mon Oct 18 20:18:13 +0000 2010	4b74d61bf964a520a3f42de3	{Pizzicotto}	{34.05301498424774,-118.46776485443115,Brentwood,CA,United States}	{Food,}
+244	Mon Oct 18 18:37:29 +0000 2010	4aef9519f964a52062d921e3	{Partners Trust Real Estate Brokerage}	{34.05309293276765,-118.46639387933968,Los Angeles,CA,United States}	{Office,Residence,Professional & Other Places,}
+244	Sun Oct 17 20:26:55 +0000 2010	4b6f6429f964a52084ee2ce3	{Maxfield}	{34.034981,-118.685459,Malibu,CA,United States}	{Shop & Service,Clothing Store,}
+244	Sun Oct 17 18:27:58 +0000 2010	4c1539e47f7f2d7f1a24e268	{Malibu Farmers Market}	{34.03667533031541,-118.68902564048767,Malibu,CA,United States}	{Shop & Service,Food & Drink Shop,}
+244	Sun Oct 17 04:17:52 +0000 2010	4c82ac252f1c236a31fd3b43	{2 Ten Ten}	{34.03739992465589,-118.63229960203171,Malibu,CA,United States}	{}
+244	Thu Oct 14 20:29:12 +0000 2010	4c86826f2f1c236ab8dc5d43	{Partners Trust Real Estate}	{34.066986,-118.396783,Beverly Hills,CA,United States}	{Professional & Other Places,}
+244	Thu Oct 14 02:49:04 +0000 2010	4aff60e5f964a520f03722e3	{Cholada Thai}	{34.03908135976145,-118.58401715755463,Malibu,CA,United States}	{Food,}
+244	Wed Oct 13 18:32:20 +0000 2010	4cae101655238cfa0f4bb7fb	{Marina del Rey Sailing Marina}	{33.980026214369346,-118.44216534222193,Marina del Rey,CA,United States}	{Outdoors & Recreation,}
+244	Wed Oct 13 18:32:20 +0000 2010	4cae101655238cfa0f4bb7fb	{Marina del Rey Sailing Marina}	{33.980026214369346,-118.44216534222193,Marina del Rey,CA,United States}	{Outdoors & Recreation,}
+244	Wed Oct 13 18:06:09 +0000 2010	4b0d562cf964a520914623e3	{West Marine on Admiralty}	{33.978367,-118.43750615,Marina del Rey,CA,United States}	{Shop & Service,}
+244	Tue Oct 12 22:37:19 +0000 2010	4baff04ef964a520042d3ce3	{Vital Zuman Organic Farm}	{34.02220031282444,-118.80843215109441,Malibu,CA,United States}	{Outdoors & Recreation,}
+244	Tue Oct 12 00:25:16 +0000 2010	4b7d9f3ef964a52069ca2fe3	{Bui Sushi}	{34.0341117253875,-118.69290716312115,Malibu,CA,United States}	{Food,}
+244	Sun Oct 10 16:37:20 +0000 2010	4c1539e47f7f2d7f1a24e268	{Malibu Farmers Market}	{34.03667533031541,-118.68902564048767,Malibu,CA,United States}	{Shop & Service,Food & Drink Shop,}
+244	Sun Oct 10 02:50:18 +0000 2010	4c82ac252f1c236a31fd3b43	{2 Ten Ten}	{34.03739992465589,-118.63229960203171,Malibu,CA,United States}	{}
+244	Sat Oct 09 17:13:14 +0000 2010	4accd88ff964a520bdc920e3	{Beverly Hills Juice Club}	{34.07598649878741,-118.37289383831191,Los Angeles,CA,United States}	{Food,}
+244	Fri Oct 08 22:19:09 +0000 2010	49dac6abf964a520af5e1fe3	{Nijiya Market}	{34.03912627665558,-118.44186873750066,Los Angeles,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+244	Fri Oct 08 02:05:06 +0000 2010	3fd66200f964a520efee1ee3	{Buffalo Club}	{34.020833,-118.478791,Santa Monica,CA,United States}	{Food,}
+244	Thu Oct 07 18:23:32 +0000 2010	4cae101655238cfa0f4bb7fb	{Marina del Rey Sailing Marina}	{33.980026214369346,-118.44216534222193,Marina del Rey,CA,United States}	{Outdoors & Recreation,}
+244	Thu Oct 07 02:04:13 +0000 2010	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Tue Oct 05 21:24:01 +0000 2010	4c86826f2f1c236ab8dc5d43	{Partners Trust Real Estate}	{34.066986,-118.396783,Beverly Hills,CA,United States}	{Professional & Other Places,}
+244	Tue Oct 05 21:24:01 +0000 2010	4c86826f2f1c236ab8dc5d43	{Partners Trust Real Estate}	{34.066986,-118.396783,Beverly Hills,CA,United States}	{Professional & Other Places,}
+244	Tue Oct 05 20:55:04 +0000 2010	4c2bcd4577cfe21ee217b5f1	{Lea Journo Salon}	{34.065845,-118.400583,Beverly Hills,CA,United States}	{Shop & Service,}
+244	Sun Oct 03 16:49:40 +0000 2010	4bef0725ea570f4723cd8ed2	{Solvang, CA}	{34.59569910061965,-120.14219284057617,Solvang,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+244	Sun Oct 03 00:30:00 +0000 2010	4b64d411f964a52037d32ae3	{Sunstone Vineyards & Winery}	{34.586650492263786,-120.10320009378549,Santa Ynez,CA,United States}	{Food,}
+244	Sat Oct 02 23:38:28 +0000 2010	4bda2edec79cc92882f17de9	{New Frontiers Natural Foods}	{34.598463683333335,-120.129698,Solvang,CA,United States}	{Shop & Service,Food & Drink Shop,}
+244	Sat Oct 02 21:21:11 +0000 2010	4b586868f964a520615628e3	{Santa Barbara Harbor}	{34.404271836097905,-119.6934984815263,Santa Barbara,CA,United States}	{Outdoors & Recreation,}
+244	Sat Oct 02 18:09:58 +0000 2010	49e3c28ff964a520c8621fe3	{Camarillo Airport (CMA)}	{34.20889197024698,-119.07836437225342,Camarillo,CA,United States}	{Travel & Transport,Airport,}
+244	Fri Oct 01 06:43:52 +0000 2010	4c1709b4955976b08586a5f6	{One Gun Ranch}	{34.05811042620505,-118.65373657850961,Malibu,CA,United States}	{}
+244	Thu Sep 30 20:31:53 +0000 2010	4a1c2f8df964a5201d7b1fe3	{Malibu Seafood}	{34.033643524906225,-118.7351381778717,Malibu,CA,United States}	{Food,}
+244	Thu Sep 30 16:34:18 +0000 2010	4accd88ff964a520bdc920e3	{Beverly Hills Juice Club}	{34.07598649878741,-118.37289383831191,Los Angeles,CA,United States}	{Food,}
+244	Wed Sep 29 20:36:50 +0000 2010	4a3ea931f964a5203da31fe3	{Fratelli Cafe}	{34.083409190936855,-118.34629470082565,Los Angeles,CA,United States}	{Food,}
+244	Tue Sep 28 20:06:13 +0000 2010	477644daf964a520134d1fe3	{The Ivy Restaurant}	{34.0756306764319,-118.383857,Los Angeles,CA,United States}	{Food,}
+244	Tue Sep 28 00:07:36 +0000 2010	4c8d2c1eed3ab60c66366e21	{Cafe Habana}	{34.02224,-118.405488,Los Angeles,CA,United States}	{Food,}
+244	Sun Sep 26 19:47:30 +0000 2010	4c82ac252f1c236a31fd3b43	{2 Ten Ten}	{34.03739992465589,-118.63229960203171,Malibu,CA,United States}	{}
+244	Sun Sep 26 15:54:16 +0000 2010	3fd66200f964a520e3ef1ee3	{Paradise Cove Beach Cafe}	{34.02015912488075,-118.78725349903107,Malibu,CA,United States}	{Food,}
+244	Fri Sep 24 15:16:34 +0000 2010	4accd88ff964a520bdc920e3	{Beverly Hills Juice Club}	{34.07598649878741,-118.37289383831191,Los Angeles,CA,United States}	{Food,}
+244	Fri Sep 24 04:34:32 +0000 2010	4b91de6df964a520acdc33e3	{Soho House}	{34.08948780782094,-118.39279174804688,West Hollywood,CA,United States}	{Nightlife Spot,Shop & Service,Arts & Entertainment,}
+244	Thu Sep 23 19:55:14 +0000 2010	4b81a749f964a5208eb530e3	{Cabana Cafe at the Beverly Hills Hotel}	{34.080798,-118.414388,Beverly Hills,CA,United States}	{Food,}
+244	Thu Sep 23 19:20:11 +0000 2010	4bb7b5b7b35776b0ca0cc801	{Busybody Home Fitness Store}	{34.04786225760358,-118.46402707586175,West Hollywood,CA,United States}	{}
+244	Thu Sep 23 01:12:24 +0000 2010	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Tue Sep 21 19:22:35 +0000 2010	4b91de6df964a520acdc33e3	{Soho House}	{34.08948780782094,-118.39279174804688,West Hollywood,CA,United States}	{Nightlife Spot,Shop & Service,Arts & Entertainment,}
+244	Tue Sep 21 16:27:42 +0000 2010	4aef9519f964a52062d921e3	{Partners Trust Real Estate Brokerage}	{34.05309293276765,-118.46639387933968,Los Angeles,CA,United States}	{Office,Residence,Professional & Other Places,}
+244	Mon Sep 20 21:16:20 +0000 2010	4a5be975f964a520fbbb1fe3	{The Country Kitchen}	{34.03728926345061,-118.63767713614031,Malibu,CA,United States}	{Food,}
+244	Mon Sep 20 02:14:36 +0000 2010	4c1709b4955976b08586a5f6	{One Gun Ranch}	{34.05811042620505,-118.65373657850961,Malibu,CA,United States}	{}
+244	Sun Sep 19 01:19:43 +0000 2010	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Sat Sep 18 04:39:00 +0000 2010	4c1709b4955976b08586a5f6	{One Gun Ranch}	{34.05811042620505,-118.65373657850961,Malibu,CA,United States}	{}
+244	Fri Sep 17 20:10:10 +0000 2010	4b91de6df964a520acdc33e3	{Soho House}	{34.08948780782094,-118.39279174804688,West Hollywood,CA,United States}	{Nightlife Spot,Shop & Service,Arts & Entertainment,}
+244	Fri Sep 17 18:56:32 +0000 2010	4accd88ff964a520bdc920e3	{Beverly Hills Juice Club}	{34.07598649878741,-118.37289383831191,Los Angeles,CA,United States}	{Food,}
+244	Fri Sep 17 18:56:32 +0000 2010	4accd88ff964a520bdc920e3	{Beverly Hills Juice Club}	{34.07598649878741,-118.37289383831191,Los Angeles,CA,United States}	{Food,}
+244	Fri Sep 17 00:57:51 +0000 2010	4ba810dff964a52035ca39e3	{Xpress Spa}	{40.77114373499859,-73.86609853518799,,NY,United States}	{Shop & Service,}
+244	Thu Sep 16 22:24:07 +0000 2010	43d3c4d0f964a520252e1fe3	{Virgin Atlantic Clubhouse Lounge}	{40.643262241796414,-73.77955006100726,Queens,NY,United States}	{Travel & Transport,Airport,}
+244	Thu Sep 16 19:07:46 +0000 2010	40a16900f964a520f9f21ee3	{SoHo House}	{40.74051840514877,-74.0058159828186,New York,NY,United States}	{Nightlife Spot,Travel & Transport,}
+244	Thu Sep 16 15:32:58 +0000 2010	4b01674af964a5205e4222e3	{TODAY Show}	{40.75848906765483,-73.9793662095376,New York,NY,United States}	{Arts & Entertainment,Professional & Other Places,}
+244	Thu Sep 16 00:35:10 +0000 2010	3fd66200f964a520b8e91ee3	{Indochine}	{40.72914601577066,-73.99215378465571,New York,NY,United States}	{Food,}
+244	Wed Sep 15 20:43:10 +0000 2010	4bb4df032ba29c74c468ef2d	{Soho House Rooftop}	{40.74056114620667,-74.005958,New York,NY,United States}	{Travel & Transport,Hotel,}
+244	Wed Sep 15 19:09:34 +0000 2010	3fd66200f964a52003e71ee3	{Pastis}	{40.73968518262072,-74.00601983070374,New York,NY,United States}	{Food,}
+244	Wed Sep 15 02:27:39 +0000 2010	40fb0f00f964a520fb0a1fe3	{Matsuri}	{40.74213634153319,-74.00417634519744,New York,NY,United States}	{Food,}
+244	Tue Sep 14 23:31:33 +0000 2010	4be45024cf200f4716c6113c	{Gagosian Gallery 21}	{40.746841651891565,-74.00627089070936,New York,NY,United States}	{Arts & Entertainment,}
+244	Tue Sep 14 19:09:04 +0000 2010	49f4b70bf964a5203e6b1fe3	{Bumble & Bumble}	{40.74069002789907,-74.00646084225797,New York,NY,United States}	{Shop & Service,Food,}
+244	Tue Sep 14 15:57:18 +0000 2010	40a16900f964a520f9f21ee3	{SoHo House}	{40.74051840514877,-74.0058159828186,New York,NY,United States}	{Nightlife Spot,Travel & Transport,}
+244	Tue Sep 14 04:10:11 +0000 2010	3fd66200f964a5203de41ee3	{Sake Bar Decibel}	{40.72941823593811,-73.98776923605922,New York,NY,United States}	{Nightlife Spot,Food,}
+244	Mon Sep 13 22:22:12 +0000 2010	3fd66200f964a52053ea1ee3	{Monkey Bar}	{40.760182803990986,-73.97307108587752,New York,NY,United States}	{Food,}
+244	Mon Sep 13 13:47:31 +0000 2010	4c0fb1ca336220a10d29ce77	{Virgin America Flight 404}	{33.94658187915746,-118.40703964233398,Los Angeles,CA,United States}	{Travel & Transport,Airport,}
+244	Sun Sep 12 02:34:19 +0000 2010	4b65e939f964a520cb072be3	{Saddle Peak Lodge}	{34.078227281570435,-118.69319595,Calabasas,CA,United States}	{Food,}
+244	Sat Sep 11 18:08:23 +0000 2010	4b71c33af964a520fa5a2de3	{CVS}	{34.034361,-118.693932,Malibu,CA,United States}	{Shop & Service,}
+244	Fri Sep 10 00:38:44 +0000 2010	4c1709b4955976b08586a5f6	{One Gun Ranch}	{34.05811042620505,-118.65373657850961,Malibu,CA,United States}	{}
+244	Thu Sep 09 03:35:28 +0000 2010	4aff60e5f964a520f03722e3	{Cholada Thai}	{34.03908135976145,-118.58401715755463,Malibu,CA,United States}	{Food,}
+244	Wed Sep 08 22:08:11 +0000 2010	3fd66200f964a520e3ef1ee3	{Paradise Cove Beach Cafe}	{34.02015912488075,-118.78725349903107,Malibu,CA,United States}	{Food,}
+244	Tue Sep 07 19:03:50 +0000 2010	4c86826f2f1c236ab8dc5d43	{Partners Trust Real Estate}	{34.066986,-118.396783,Beverly Hills,CA,United States}	{Professional & Other Places,}
+244	Tue Sep 07 19:01:09 +0000 2010	4c86826f2f1c236ab8dc5d43	{Partners Trust Real Estate}	{34.066986,-118.396783,Beverly Hills,CA,United States}	{Professional & Other Places,}
+244	Tue Sep 07 16:55:17 +0000 2010	4c2bcd4577cfe21ee217b5f1	{Lea Journo Salon}	{34.065845,-118.400583,Beverly Hills,CA,United States}	{Shop & Service,}
+244	Mon Sep 06 15:37:50 +0000 2010	4c1709b4955976b08586a5f6	{One Gun Ranch}	{34.05811042620505,-118.65373657850961,Malibu,CA,United States}	{}
+244	Sun Sep 05 23:52:53 +0000 2010	4c82ac252f1c236a31fd3b43	{2 Ten Ten}	{34.03739992465589,-118.63229960203171,Malibu,CA,United States}	{}
+244	Sun Sep 05 23:52:53 +0000 2010	4c82ac252f1c236a31fd3b43	{2 Ten Ten}	{34.03739992465589,-118.63229960203171,Malibu,CA,United States}	{}
+244	Sun Sep 05 05:30:05 +0000 2010	4c1709b4955976b08586a5f6	{One Gun Ranch}	{34.05811042620505,-118.65373657850961,Malibu,CA,United States}	{}
+244	Sun Sep 05 02:56:28 +0000 2010	4c48117189a6c9b63f3b9c88	{Lois Ewen Scenic Overlook}	{34.08130633977035,-118.64546924829483,Topanga,CA,United States}	{Outdoors & Recreation,}
+244	Sat Sep 04 20:29:38 +0000 2010	4c82ac252f1c236a31fd3b43	{2 Ten Ten}	{34.03739992465589,-118.63229960203171,Malibu,CA,United States}	{}
+244	Sat Sep 04 18:39:15 +0000 2010	49f8e126f964a520316d1fe3	{Santa Monica Seafood}	{34.02372049512086,-118.49225878715515,Santa Monica,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+244	Fri Sep 03 00:52:02 +0000 2010	4a6d5523f964a520b6d21fe3	{Polo Lounge}	{34.081544042226405,-118.41426014900208,Beverly Hills,CA,United States}	{Nightlife Spot,Food,}
+244	Thu Sep 02 01:39:20 +0000 2010	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Thu Sep 02 01:06:26 +0000 2010	4c48117189a6c9b63f3b9c88	{Lois Ewen Scenic Overlook}	{34.08130633977035,-118.64546924829483,Topanga,CA,United States}	{Outdoors & Recreation,}
+244	Wed Sep 01 21:51:25 +0000 2010	4aad9d3bf964a520036120e3	{Blue Plate Oysterette (BPO)}	{34.01448100989093,-118.49825403555445,Santa Monica,CA,United States}	{Food,}
+244	Wed Sep 01 18:23:26 +0000 2010	4c1709b4955976b08586a5f6	{One Gun Ranch}	{34.05811042620505,-118.65373657850961,Malibu,CA,United States}	{}
+244	Wed Sep 01 18:23:26 +0000 2010	4c1709b4955976b08586a5f6	{One Gun Ranch}	{34.05811042620505,-118.65373657850961,Malibu,CA,United States}	{}
+244	Tue Aug 31 23:08:01 +0000 2010	4a0dc867f964a52097751fe3	{The Ivy at the Shore}	{34.012068,-118.495622,Santa Monica,CA,United States}	{Food,}
+244	Tue Aug 31 22:40:21 +0000 2010	49dac6abf964a520af5e1fe3	{Nijiya Market}	{34.03912627665558,-118.44186873750066,Los Angeles,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+244	Tue Aug 31 12:29:39 +0000 2010	4c1709b4955976b08586a5f6	{One Gun Ranch}	{34.05811042620505,-118.65373657850961,Malibu,CA,United States}	{}
+244	Mon Aug 30 14:32:08 +0000 2010	4aefffa5f964a52075da21e3	{Star Alliance Lounge}	{51.471813862107,-0.44945240020751953,Heathrow,Middlesex,United Kingdom}	{Travel & Transport,Airport,}
+244	Sun Aug 29 14:57:01 +0000 2010	4c78f10993ef236a44d1ad0f	{Sw4 festival}	{51.460354,-0.144627,Lambeth,Greater London,United Kingdom}	{Nightlife Spot,}
+244	Wed Aug 25 05:32:04 +0000 2010	4c37766018e72d7f319516f5	{poseidonion grace hotel spetses}	{37.268441889898035,23.15563433613492,,,Greece}	{Nightlife Spot,}
+244	Tue Aug 24 17:37:41 +0000 2010	4c1cb10c63750f479ee9b667	{??????? (Spetses)}	{37.2675869243252,23.15564015242875,???????,??????,Greece}	{Travel & Transport,Outdoors & Recreation,}
+244	Mon Aug 23 16:33:59 +0000 2010	4c2f06f7213c2d7fc530305d	{Mills}	{38.44988305,20.69028686,,,Greece}	{Food,}
+244	Mon Aug 23 16:33:14 +0000 2010	4c66d0c6e1da1b8d7e029cc3	{Kioni}	{38.44976740622747,20.690301636876256,,,Greece}	{Outdoors & Recreation,}
+244	Sun Aug 22 13:14:43 +0000 2010	4c5ae1d3d3aee21e2abe6b55	{Frikes Marina}	{38.458897069193355,20.66380300843419,,,Greece}	{Travel & Transport,Outdoors & Recreation,}
+244	Sat Aug 21 07:25:50 +0000 2010	4c5962e3b8b3c9b621f688b6	{?????? (Frikes)}	{38.36492859584409,20.715374900240096,?????,????? ?????,Greece}	{Outdoors & Recreation,}
+244	Fri Aug 20 18:37:12 +0000 2010	4c30d644a0ced13a57be126e	{Pinakothiki}	{38.36481783613915,20.71994960448067,Ithaki,Ionian Islands,Greece}	{Food,}
+244	Thu Aug 19 14:36:34 +0000 2010	4c2e3f82e307d13a843b0fda	{Drakoulis Cafe}	{38.364776647951665,20.71974277496338,?????,????? ?????,Greece}	{Food,}
+244	Thu Aug 19 07:32:05 +0000 2010	4c546a2e06901b8d75f3c54b	{Psathora - Taverna}	{38.25314158585333,20.630169891454706,????,Ionian Islands,Greece}	{Food,}
+244	Thu Aug 19 07:32:05 +0000 2010	4c546a2e06901b8d75f3c54b	{Psathora - Taverna}	{38.25314158585333,20.630169891454706,????,Ionian Islands,Greece}	{Food,}
+244	Wed Aug 18 08:39:01 +0000 2010	4c546a2e06901b8d75f3c54b	{Psathora - Taverna}	{38.25314158585333,20.630169891454706,????,Ionian Islands,Greece}	{Food,}
+244	Tue Aug 17 05:38:47 +0000 2010	4ac518b5f964a5209da020e3	{Blakes}	{51.489274,-0.180209,London,UK,United Kingdom}	{Travel & Transport,}
+244	Sun Aug 15 03:35:24 +0000 2010	4ac7cd8ef964a520dab920e3	{Malibu Yogurt}	{34.03423956774286,-118.69339125347507,Malibu,CA,United States}	{Food,}
+244	Sun Aug 15 01:05:39 +0000 2010	4a849d32f964a5201bfd1fe3	{Tra di Noi}	{34.035884048444025,-118.68632733821869,Malibu,CA,United States}	{Food,}
+244	Sat Aug 14 17:50:20 +0000 2010	4c66d756b80abe9aee23cee5	{Moto Club}	{34.01441216468811,-118.481565,Santa Monica,CA,United States}	{}
+244	Sat Aug 14 17:21:15 +0000 2010	4c5e30ed85a1e21e05d45b11	{Louis Vuitton}	{34.01373984328841,-118.49404590420379,Santa Monica,CA,United States}	{Shop & Service,Clothing Store,}
+244	Sat Aug 14 01:08:43 +0000 2010	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Fri Aug 13 21:17:16 +0000 2010	4b76f129f964a520d56c2ee3	{Malibu NewsStand}	{34.03433706763897,-118.69197314937293,,CA,United States}	{Shop & Service,}
+244	Fri Aug 13 00:22:28 +0000 2010	4b709e79f964a520a0252de3	{Maxfield}	{34.08095810029607,-118.38620038921896,West Hollywood,CA,United States}	{Shop & Service,Clothing Store,}
+244	Thu Aug 12 21:45:11 +0000 2010	4aef9519f964a52062d921e3	{Partners Trust Real Estate Brokerage}	{34.05309293276765,-118.46639387933968,Los Angeles,CA,United States}	{Office,Residence,Professional & Other Places,}
+244	Thu Aug 12 19:22:33 +0000 2010	4bbf81744cdfc9b6f35f9121	{Pure Energy Cafe}	{34.039165534780864,-118.55486518586402,Pacific Palisades,CA,United States}	{Food,}
+244	Thu Aug 12 19:22:32 +0000 2010	4bbf81744cdfc9b6f35f9121	{Pure Energy Cafe}	{34.039165534780864,-118.55486518586402,Pacific Palisades,CA,United States}	{Food,}
+244	Thu Aug 12 15:44:41 +0000 2010	4accd88ff964a520bdc920e3	{Beverly Hills Juice Club}	{34.07598649878741,-118.37289383831191,Los Angeles,CA,United States}	{Food,}
+244	Thu Aug 12 00:57:13 +0000 2010	49fb2882f964a5201e6e1fe3	{Itacho}	{34.076302,-118.34908253,Los Angeles,CA,United States}	{Food,}
+244	Thu Aug 12 00:57:12 +0000 2010	49fb2882f964a5201e6e1fe3	{Itacho}	{34.076302,-118.34908253,Los Angeles,CA,United States}	{Food,}
+244	Tue Aug 10 21:58:27 +0000 2010	4b91de6df964a520acdc33e3	{Soho House}	{34.08948780782094,-118.39279174804688,West Hollywood,CA,United States}	{Nightlife Spot,Shop & Service,Arts & Entertainment,}
+244	Tue Aug 10 17:45:21 +0000 2010	4aef9519f964a52062d921e3	{Partners Trust Real Estate Brokerage}	{34.05309293276765,-118.46639387933968,Los Angeles,CA,United States}	{Office,Residence,Professional & Other Places,}
+244	Mon Aug 09 17:57:27 +0000 2010	4b09e7cff964a520831f23e3	{Spectrum Club}	{34.039680356019865,-118.55473279953004,Pacific Palisades,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+244	Mon Aug 09 17:57:23 +0000 2010	4b09e7cff964a520831f23e3	{Spectrum Club}	{34.039680356019865,-118.55473279953004,Pacific Palisades,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+244	Sun Aug 08 02:18:50 +0000 2010	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Fri Aug 06 17:16:44 +0000 2010	4b09e7cff964a520831f23e3	{Spectrum Club}	{34.039680356019865,-118.55473279953004,Pacific Palisades,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+244	Thu Aug 05 16:38:25 +0000 2010	4ab56a2bf964a5207b7420e3	{Whole Foods Market}	{34.05359777136271,-118.46722652988277,Los Angeles,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+244	Thu Aug 05 06:02:25 +0000 2010	4c1af52ab4e62d7f0dbdd893	{The Shack on Old Malibu Road}	{34.03359678471946,-118.72563122821994,,CA,United States}	{Residence,}
+244	Thu Aug 05 02:10:46 +0000 2010	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Thu Aug 05 01:15:28 +0000 2010	45a0ddd0f964a520d3401fe3	{Rock Store}	{34.109657091072876,-118.78824055194855,Cornell,CA,United States}	{Food,}
+244	Wed Aug 04 18:47:01 +0000 2010	4a6b9a88f964a52052cf1fe3	{Millennium Biltmore Hotel}	{34.04931521684163,-118.25345889171192,Los Angeles,CA,United States}	{Nightlife Spot,Travel & Transport,Hotel,}
+244	Tue Aug 03 21:03:16 +0000 2010	4b6f6429f964a52084ee2ce3	{Maxfield}	{34.034981,-118.685459,Malibu,CA,United States}	{Shop & Service,Clothing Store,}
+244	Tue Aug 03 20:58:51 +0000 2010	4c54a5e3728920a156c51783	{Spindle & Canister}	{34.035296163006976,-118.6842730242385,Malibu,CA,United States}	{Shop & Service,Clothing Store,}
+244	Fri Jul 30 18:33:59 +0000 2010	4a1e137ef964a520c27b1fe3	{Craft}	{34.05884600256191,-118.41362714767456,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+244	Fri Jul 30 16:45:21 +0000 2010	4b79a7c0f964a520d0082fe3	{The Vitamin Barn}	{34.034294091394976,-118.69442777144239,Malibu,CA,United States}	{Shop & Service,}
+244	Fri Jul 30 05:48:02 +0000 2010	4b91de6df964a520acdc33e3	{Soho House}	{34.08948780782094,-118.39279174804688,West Hollywood,CA,United States}	{Nightlife Spot,Shop & Service,Arts & Entertainment,}
+244	Wed Jul 28 21:17:36 +0000 2010	4aef9519f964a52062d921e3	{Partners Trust Real Estate Brokerage}	{34.05309293276765,-118.46639387933968,Los Angeles,CA,United States}	{Office,Residence,Professional & Other Places,}
+244	Wed Jul 28 17:04:40 +0000 2010	4b074076f964a520b1fa22e3	{PC Greens}	{34.039871500503295,-118.66688668727875,Malibu,CA,United States}	{Food,}
+244	Wed Jul 28 16:14:21 +0000 2010	4b79a7c0f964a520d0082fe3	{The Vitamin Barn}	{34.034294091394976,-118.69442777144239,Malibu,CA,United States}	{Shop & Service,}
+244	Wed Jul 28 06:20:22 +0000 2010	4c1af52ab4e62d7f0dbdd893	{The Shack on Old Malibu Road}	{34.03359678471946,-118.72563122821994,,CA,United States}	{Residence,}
+244	Wed Jul 28 01:53:37 +0000 2010	49ff252ef964a520e26f1fe3	{Sushi King}	{34.02654703018564,-118.48888538001286,Santa Monica,CA,United States}	{Food,}
+244	Tue Jul 27 02:24:06 +0000 2010	4b91de6df964a520acdc33e3	{Soho House}	{34.08948780782094,-118.39279174804688,West Hollywood,CA,United States}	{Nightlife Spot,Shop & Service,Arts & Entertainment,}
+244	Mon Jul 26 21:27:12 +0000 2010	4b3efdbff964a5206fa325e3	{Four Seasons Resort The Biltmore}	{34.41723461642956,-119.64215397834778,Santa Barbara,CA,United States}	{Travel & Transport,Hotel,}
+244	Sat Jul 24 20:22:08 +0000 2010	4bb15921f964a520ee8d3ce3	{Enoteca Toscana}	{34.216672947770185,-119.04240667819977,Camarillo,CA,United States}	{Nightlife Spot,Food,}
+244	Fri Jul 23 20:00:03 +0000 2010	49dac6abf964a520af5e1fe3	{Nijiya Market}	{34.03912627665558,-118.44186873750066,Los Angeles,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+244	Fri Jul 23 19:14:31 +0000 2010	4bdf81ace75c0f47968ecb03	{Christian Louboutin}	{34.08222595,-118.385448,West Hollywood,CA,United States}	{Shop & Service,Clothing Store,}
+244	Fri Jul 23 04:46:15 +0000 2010	4aad9d3bf964a520036120e3	{Blue Plate Oysterette (BPO)}	{34.01448100989093,-118.49825403555445,Santa Monica,CA,United States}	{Food,}
+244	Thu Jul 22 22:44:19 +0000 2010	4aef9519f964a52062d921e3	{Partners Trust Real Estate Brokerage}	{34.05309293276765,-118.46639387933968,Los Angeles,CA,United States}	{Office,Residence,Professional & Other Places,}
+244	Thu Jul 22 20:44:27 +0000 2010	4ba6915ff964a5200e5f39e3	{Mauro's Cafe at Fred Segal}	{34.083381,-118.36644,Los Angeles,CA,United States}	{Food,}
+244	Thu Jul 22 18:19:06 +0000 2010	4a56b1d6f964a520a8b51fe3	{Montage Beverly Hills}	{34.06792728128631,-118.3986309170723,Beverly Hills,CA,United States}	{Travel & Transport,Hotel,}
+244	Tue Jul 20 20:17:34 +0000 2010	4b6f6b03f964a520c4ef2ce3	{Malibu Lumber Yard Fish Tank}	{34.035193,-118.685897,Malibu,CA,United States}	{Outdoors & Recreation,}
+244	Tue Jul 20 16:08:09 +0000 2010	4aef9519f964a52062d921e3	{Partners Trust Real Estate Brokerage}	{34.05309293276765,-118.46639387933968,Los Angeles,CA,United States}	{Office,Residence,Professional & Other Places,}
+244	Mon Jul 19 19:13:08 +0000 2010	4bbf81744cdfc9b6f35f9121	{Pure Energy Cafe}	{34.039165534780864,-118.55486518586402,Pacific Palisades,CA,United States}	{Food,}
+244	Sun Jul 18 18:21:58 +0000 2010	45a0ddd0f964a520d3401fe3	{Rock Store}	{34.109657091072876,-118.78824055194855,Cornell,CA,United States}	{Food,}
+244	Sun Jul 18 15:56:15 +0000 2010	4a485539f964a520b1aa1fe3	{The Coffee Bean & Tea Leaf}	{34.0357666015625,-118.68636322021484,Malibu,CA,United States}	{Food,}
+244	Sun Jul 18 01:12:02 +0000 2010	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Sat Jul 17 18:07:43 +0000 2010	4c41f15cd7fad13a6f4f08da	{Thai Body Works}	{34.039226,-118.6677753447123,,,United States}	{}
+244	Sat Jul 17 17:03:08 +0000 2010	4b79a7c0f964a520d0082fe3	{The Vitamin Barn}	{34.034294091394976,-118.69442777144239,Malibu,CA,United States}	{Shop & Service,}
+244	Fri Jul 16 22:10:52 +0000 2010	45a0ddd0f964a520d3401fe3	{Rock Store}	{34.109657091072876,-118.78824055194855,Cornell,CA,United States}	{Food,}
+244	Fri Jul 16 18:16:36 +0000 2010	4a7614e4f964a52023e21fe3	{John's Garden}	{34.035966,-118.6858673,Malibu,CA,United States}	{Food,}
+244	Thu Jul 15 07:47:25 +0000 2010	4c1af52ab4e62d7f0dbdd893	{The Shack on Old Malibu Road}	{34.03359678471946,-118.72563122821994,,CA,United States}	{Residence,}
+244	Wed Jul 14 20:37:04 +0000 2010	4bbf81744cdfc9b6f35f9121	{Pure Energy Cafe}	{34.039165534780864,-118.55486518586402,Pacific Palisades,CA,United States}	{Food,}
+244	Tue Jul 13 23:02:08 +0000 2010	4b91de6df964a520acdc33e3	{Soho House}	{34.08948780782094,-118.39279174804688,West Hollywood,CA,United States}	{Nightlife Spot,Shop & Service,Arts & Entertainment,}
+244	Tue Jul 13 20:05:47 +0000 2010	4b81a749f964a5208eb530e3	{Cabana Cafe at the Beverly Hills Hotel}	{34.080798,-118.414388,Beverly Hills,CA,United States}	{Food,}
+244	Tue Jul 13 16:17:47 +0000 2010	4aef9519f964a52062d921e3	{Partners Trust Real Estate Brokerage}	{34.05309293276765,-118.46639387933968,Los Angeles,CA,United States}	{Office,Residence,Professional & Other Places,}
+244	Tue Jul 13 16:17:47 +0000 2010	4aef9519f964a52062d921e3	{Partners Trust Real Estate Brokerage}	{34.05309293276765,-118.46639387933968,Los Angeles,CA,United States}	{Office,Residence,Professional & Other Places,}
+244	Mon Jul 12 23:25:34 +0000 2010	4bfd7723ee20ef3bee603c5e	{Caf? Habana}	{34.03468722126182,-118.68562854639704,Malibu,CA,United States}	{Food,}
+244	Mon Jul 12 03:40:51 +0000 2010	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Sun Jul 11 02:41:48 +0000 2010	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Sat Jul 10 23:54:53 +0000 2010	45a0ddd0f964a520d3401fe3	{Rock Store}	{34.109657091072876,-118.78824055194855,Cornell,CA,United States}	{Food,}
+244	Sat Jul 10 23:54:52 +0000 2010	45a0ddd0f964a520d3401fe3	{Rock Store}	{34.109657091072876,-118.78824055194855,Cornell,CA,United States}	{Food,}
+244	Sat Jul 10 20:17:29 +0000 2010	4a849d32f964a5201bfd1fe3	{Tra di Noi}	{34.035884048444025,-118.68632733821869,Malibu,CA,United States}	{Food,}
+244	Sat Jul 10 16:48:20 +0000 2010	4b09e7cff964a520831f23e3	{Spectrum Club}	{34.039680356019865,-118.55473279953004,Pacific Palisades,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+244	Sat Jul 10 16:23:15 +0000 2010	4b79a7c0f964a520d0082fe3	{The Vitamin Barn}	{34.034294091394976,-118.69442777144239,Malibu,CA,United States}	{Shop & Service,}
+244	Sat Jul 10 03:22:43 +0000 2010	4c1af52ab4e62d7f0dbdd893	{The Shack on Old Malibu Road}	{34.03359678471946,-118.72563122821994,,CA,United States}	{Residence,}
+244	Fri Jul 09 18:22:54 +0000 2010	4c2bcd4577cfe21ee217b5f1	{Lea Journo Salon}	{34.065845,-118.400583,Beverly Hills,CA,United States}	{Shop & Service,}
+244	Fri Jul 09 18:22:54 +0000 2010	4c2bcd4577cfe21ee217b5f1	{Lea Journo Salon}	{34.065845,-118.400583,Beverly Hills,CA,United States}	{Shop & Service,}
+244	Fri Jul 09 16:02:13 +0000 2010	4b79a7c0f964a520d0082fe3	{The Vitamin Barn}	{34.034294091394976,-118.69442777144239,Malibu,CA,United States}	{Shop & Service,}
+244	Thu Jul 08 22:56:22 +0000 2010	44df0768f964a520e2361fe3	{Apple Store, Third Street Promenade}	{34.01541,-118.49529,Santa Monica,CA,United States}	{Shop & Service,}
+244	Tue Jul 06 17:06:04 +0000 2010	4b79a7c0f964a520d0082fe3	{The Vitamin Barn}	{34.034294091394976,-118.69442777144239,Malibu,CA,United States}	{Shop & Service,}
+244	Tue Jul 06 17:06:04 +0000 2010	4b79a7c0f964a520d0082fe3	{The Vitamin Barn}	{34.034294091394976,-118.69442777144239,Malibu,CA,United States}	{Shop & Service,}
+244	Tue Jul 06 00:37:29 +0000 2010	4b660898f964a520b80f2be3	{The Snake}	{34.09879901360827,-118.80475223064423,Agoura Hills,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+244	Sun Jul 04 17:22:04 +0000 2010	4c1539e47f7f2d7f1a24e268	{Malibu Farmers Market}	{34.03667533031541,-118.68902564048767,Malibu,CA,United States}	{Shop & Service,Food & Drink Shop,}
+244	Sun Jul 04 17:22:04 +0000 2010	4c1539e47f7f2d7f1a24e268	{Malibu Farmers Market}	{34.03667533031541,-118.68902564048767,Malibu,CA,United States}	{Shop & Service,Food & Drink Shop,}
+244	Sun Jul 04 02:41:50 +0000 2010	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Sat Jul 03 20:25:36 +0000 2010	4a8e004cf964a520b71120e3	{Howdy's Taqueria}	{34.03576325997447,-118.68569119630448,Malibu,CA,United States}	{Food,}
+244	Sat Jul 03 01:21:11 +0000 2010	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Sat Jul 03 01:21:11 +0000 2010	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Fri Jul 02 23:12:30 +0000 2010	45a0ddd0f964a520d3401fe3	{Rock Store}	{34.109657091072876,-118.78824055194855,Cornell,CA,United States}	{Food,}
+244	Fri Jul 02 21:57:21 +0000 2010	4a849d32f964a5201bfd1fe3	{Tra di Noi}	{34.035884048444025,-118.68632733821869,Malibu,CA,United States}	{Food,}
+244	Fri Jul 02 17:56:38 +0000 2010	4b09e7cff964a520831f23e3	{Spectrum Club}	{34.039680356019865,-118.55473279953004,Pacific Palisades,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+244	Fri Jul 02 03:53:40 +0000 2010	4c1af52ab4e62d7f0dbdd893	{The Shack on Old Malibu Road}	{34.03359678471946,-118.72563122821994,,CA,United States}	{Residence,}
+244	Fri Jul 02 03:53:39 +0000 2010	4c1af52ab4e62d7f0dbdd893	{The Shack on Old Malibu Road}	{34.03359678471946,-118.72563122821994,,CA,United States}	{Residence,}
+244	Thu Jul 01 22:07:48 +0000 2010	4aef9519f964a52062d921e3	{Partners Trust Real Estate Brokerage}	{34.05309293276765,-118.46639387933968,Los Angeles,CA,United States}	{Office,Residence,Professional & Other Places,}
+244	Thu Jul 01 03:24:37 +0000 2010	49d61462f964a520aa5c1fe3	{Tower Bar}	{34.095203,-118.372107,Los Angeles,CA,United States}	{Nightlife Spot,}
+244	Wed Jun 30 23:03:44 +0000 2010	4c2bcd4577cfe21ee217b5f1	{Lea Journo Salon}	{34.065845,-118.400583,Beverly Hills,CA,United States}	{Shop & Service,}
+244	Wed Jun 30 19:56:20 +0000 2010	4b09e7cff964a520831f23e3	{Spectrum Club}	{34.039680356019865,-118.55473279953004,Pacific Palisades,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+244	Wed Jun 30 18:26:52 +0000 2010	4b79a7c0f964a520d0082fe3	{The Vitamin Barn}	{34.034294091394976,-118.69442777144239,Malibu,CA,United States}	{Shop & Service,}
+244	Tue Jun 29 20:52:35 +0000 2010	4b91de6df964a520acdc33e3	{Soho House}	{34.08948780782094,-118.39279174804688,West Hollywood,CA,United States}	{Nightlife Spot,Shop & Service,Arts & Entertainment,}
+244	Tue Jun 29 15:55:17 +0000 2010	4aef9519f964a52062d921e3	{Partners Trust Real Estate Brokerage}	{34.05309293276765,-118.46639387933968,Los Angeles,CA,United States}	{Office,Residence,Professional & Other Places,}
+244	Tue Jun 29 03:03:24 +0000 2010	4b21fdd8f964a520dd4224e3	{guidos  malibu}	{34.035552,-118.683928,Malibu,CA,United States}	{Food,}
+244	Mon Jun 28 01:57:31 +0000 2010	501186f8e4b0f164322a22ae	{Nobu}	{34.03895822534244,-118.66972037567945,Malibu,CA,United States}	{Food,}
+244	Mon Jun 28 00:51:22 +0000 2010	45a0ddd0f964a520d3401fe3	{Rock Store}	{34.109657091072876,-118.78824055194855,Cornell,CA,United States}	{Food,}
+244	Sun Jun 27 20:16:28 +0000 2010	4ada7edbf964a5200c2321e3	{Coral Beach Cantina}	{34.01890478966649,-118.8134800407293,Malibu,CA,United States}	{Food,}
+244	Sat Jun 26 20:12:11 +0000 2010	4a919343f964a520bd1a20e3	{The Beachcomber}	{34.03722655602115,-118.67646753787994,Malibu,CA,United States}	{Food,}
+244	Sat Jun 26 03:14:24 +0000 2010	49fb2882f964a5201e6e1fe3	{Itacho}	{34.076302,-118.34908253,Los Angeles,CA,United States}	{Food,}
+244	Sat Jun 26 00:16:04 +0000 2010	4710becbf964a520974b1fe3	{Jimmy Kimmel Live!}	{34.101666356608334,-118.34009438753128,Los Angeles,CA,United States}	{Arts & Entertainment,}
+244	Fri Jun 25 20:18:17 +0000 2010	43e612eaf964a520ff2e1fe3	{Shutters On The Beach}	{34.00667258232673,-118.49162578582764,Santa Monica,CA,United States}	{Nightlife Spot,Travel & Transport,Shop & Service,}
+244	Fri Jun 25 17:05:18 +0000 2010	4b79a7c0f964a520d0082fe3	{The Vitamin Barn}	{34.034294091394976,-118.69442777144239,Malibu,CA,United States}	{Shop & Service,}
+244	Fri Jun 25 03:15:53 +0000 2010	4c1af52ab4e62d7f0dbdd893	{The Shack on Old Malibu Road}	{34.03359678471946,-118.72563122821994,,CA,United States}	{Residence,}
+244	Fri Jun 25 03:15:52 +0000 2010	4c1af52ab4e62d7f0dbdd893	{The Shack on Old Malibu Road}	{34.03359678471946,-118.72563122821994,,CA,United States}	{Residence,}
+244	Thu Jun 24 16:43:50 +0000 2010	4b79a7c0f964a520d0082fe3	{The Vitamin Barn}	{34.034294091394976,-118.69442777144239,Malibu,CA,United States}	{Shop & Service,}
+244	Thu Jun 24 03:00:13 +0000 2010	4aa958eff964a520345320e3	{Sushi Roku Santa Monica}	{34.014256,-118.497733,Santa Monica,CA,United States}	{Food,}
+244	Mon Jun 21 20:42:07 +0000 2010	4a458db2f964a52053a81fe3	{Mi Piace}	{34.153373,-118.646419,Calabasas,CA,United States}	{Food,}
+244	Sun Jun 20 20:02:57 +0000 2010	4c1539e47f7f2d7f1a24e268	{Malibu Farmers Market}	{34.03667533031541,-118.68902564048767,Malibu,CA,United States}	{Shop & Service,Food & Drink Shop,}
+244	Sun Jun 20 02:09:10 +0000 2010	4bfd7723ee20ef3bee603c5e	{Caf? Habana}	{34.03468722126182,-118.68562854639704,Malibu,CA,United States}	{Food,}
+244	Sun Jun 20 02:09:10 +0000 2010	4bfd7723ee20ef3bee603c5e	{Caf? Habana}	{34.03468722126182,-118.68562854639704,Malibu,CA,United States}	{Food,}
+244	Sat Jun 19 16:22:28 +0000 2010	4b09e7cff964a520831f23e3	{Spectrum Club}	{34.039680356019865,-118.55473279953004,Pacific Palisades,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+244	Fri Jun 18 23:04:30 +0000 2010	4b660898f964a520b80f2be3	{The Snake}	{34.09879901360827,-118.80475223064423,Agoura Hills,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+244	Fri Jun 18 04:25:45 +0000 2010	4c1af52ab4e62d7f0dbdd893	{The Shack on Old Malibu Road}	{34.03359678471946,-118.72563122821994,,CA,United States}	{Residence,}
+244	Wed Jun 16 00:49:13 +0000 2010	4c16cc1274fb20a1e0b75012	{Malibu Sporthorses}	{34.098819,-118.840282,Malibu,CA,United States}	{Outdoors & Recreation,}
+244	Tue Jun 15 20:31:41 +0000 2010	4b91de6df964a520acdc33e3	{Soho House}	{34.08948780782094,-118.39279174804688,West Hollywood,CA,United States}	{Nightlife Spot,Shop & Service,Arts & Entertainment,}
+244	Tue Jun 15 16:07:34 +0000 2010	4aef9519f964a52062d921e3	{Partners Trust Real Estate Brokerage}	{34.05309293276765,-118.46639387933968,Los Angeles,CA,United States}	{Office,Residence,Professional & Other Places,}
+244	Mon Jun 14 00:53:38 +0000 2010	4b7d9f3ef964a52069ca2fe3	{Bui Sushi}	{34.0341117253875,-118.69290716312115,Malibu,CA,United States}	{Food,}
+244	Sun Jun 13 19:54:47 +0000 2010	45a0ddd0f964a520d3401fe3	{Rock Store}	{34.109657091072876,-118.78824055194855,Cornell,CA,United States}	{Food,}
+244	Sun Jun 13 17:35:11 +0000 2010	4b524c9df964a520c47527e3	{The Old Place}	{34.114511571189496,-118.77827882766724,Cornell,CA,United States}	{Food,}
+244	Sun Jun 13 17:22:21 +0000 2010	45a0ddd0f964a520d3401fe3	{Rock Store}	{34.109657091072876,-118.78824055194855,Cornell,CA,United States}	{Food,}
+244	Sat Jun 12 02:54:30 +0000 2010	4b1571faf964a520f7ac23e3	{Radisson - Los Angeles Westside}	{33.982455,-118.39654,Culver City,CA,United States}	{Travel & Transport,}
+244	Fri Jun 11 17:20:03 +0000 2010	4bbf81744cdfc9b6f35f9121	{Pure Energy Cafe}	{34.039165534780864,-118.55486518586402,Pacific Palisades,CA,United States}	{Food,}
+244	Thu Jun 10 20:15:38 +0000 2010	44df0768f964a520e2361fe3	{Apple Store, Third Street Promenade}	{34.01541,-118.49529,Santa Monica,CA,United States}	{Shop & Service,}

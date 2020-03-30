@@ -1,0 +1,528 @@
+1819	Thu Dec 08 18:22:56 +0000 2011	4bd90fe00f7cd13af45a7c9f	{Dance Asylum}	{33.6742954773922,-117.89001292099238,Costa Mesa,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+===
+1819	Sun Aug 07 20:11:36 +0000 2011	4527b30cf964a520073b1fe3	{WaveHouse Beach Club}	{32.771005642629945,-117.2526647426465,San Diego,CA,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+1819	Sun Aug 07 18:58:19 +0000 2011	46dee6e9f964a5209b4a1fe3	{Belmont Park}	{32.77009956632245,-117.2519302368164,San Diego,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+1819	Sun Aug 07 17:48:58 +0000 2011	4b6674c8f964a520d4212be3	{Fresh MXN Food}	{32.802505,-117.22764702,San Diego,CA,United States}	{Food,}
+1819	Sun Aug 07 17:48:04 +0000 2011	4a81f1c6f964a52010f81fe3	{Campland on the Bay}	{32.796230555826845,-117.22478317137103,San Diego,CA,United States}	{Shop & Service,Outdoors & Recreation,}
+1819	Sun Aug 07 05:10:48 +0000 2011	4deb0ca1d22da22d4ee55fd5	{Sea World Fireworks}	{32.771003,-117.233721,San Diego,CA,United States}	{}
+1819	Sat Aug 06 15:35:57 +0000 2011	4b6674c8f964a520d4212be3	{Fresh MXN Food}	{32.802505,-117.22764702,San Diego,CA,United States}	{Food,}
+1819	Sat Aug 06 07:35:32 +0000 2011	4a81f1c6f964a52010f81fe3	{Campland on the Bay}	{32.796230555826845,-117.22478317137103,San Diego,CA,United States}	{Shop & Service,Outdoors & Recreation,}
+1819	Sat Aug 06 06:02:29 +0000 2011	4b81cde1f964a52006bf30e3	{Ralphs}	{32.794215651105695,-117.25420339919164,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1819	Wed Aug 03 03:41:50 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1819	Wed Aug 03 02:50:04 +0000 2011	4a1de2caf964a520a67b1fe3	{Versailles - Manhattan Beach}	{33.8858394946291,-118.39575740246892,Manhattan Beach,CA,United States}	{Food,}
+1819	Tue Aug 02 23:26:04 +0000 2011	4abe8ab0f964a5205b8e20e3	{Starbucks}	{33.66840078333333,-117.76353992,Irvine,CA,United States}	{Food,}
+1819	Sun Jul 31 02:19:39 +0000 2011	4a8e0651f964a520ca1120e3	{AMC Tustin 14 at The District}	{33.69695839782663,-117.82858371734619,Tustin,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1819	Sun Jul 31 02:14:40 +0000 2011	4a8e0651f964a520ca1120e3	{AMC Tustin 14 at The District}	{33.69695839782663,-117.82858371734619,Tustin,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1819	Sat Jul 30 05:46:24 +0000 2011	4bfc5de5e9d8c9285972b2c7	{The Ranch}	{33.686615709091924,-117.78598368834386,Irvine,CA,United States}	{Residence,}
+1819	Wed Jul 27 04:51:52 +0000 2011	4b770222f964a5200b742ee3	{Whiting Ranch Wilderness Park}	{33.68124682261094,-117.6649796962738,Foothill Ranch,CA,United States}	{Outdoors & Recreation,}
+1819	Tue Jul 26 14:56:54 +0000 2011	4af27f6bf964a520cee721e3	{Ralphs}	{33.70490343899434,-117.78564016516856,Irvine,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1819	Sat Jul 23 05:15:57 +0000 2011	4b4b87a2f964a520479f26e3	{Geisha House}	{33.773225795244585,-117.86686420440674,Santa Ana,CA,United States}	{Shop & Service,Food,}
+1819	Fri Jul 22 07:32:11 +0000 2011	4e26f0ab18a81b3b73b1ac83	{Camp Do More 2011}	{33.683121,-117.884666,Costa Mesa,CA,United States}	{Professional & Other Places,}
+1819	Thu Jul 21 15:02:31 +0000 2011	4a440714f964a5200da71fe3	{Hilton Orange County/Costa Mesa}	{33.68307377117306,-117.88469127206545,Costa Mesa,CA,United States}	{Travel & Transport,}
+1819	Thu Jul 21 15:01:44 +0000 2011	4e26f0ab18a81b3b73b1ac83	{Camp Do More 2011}	{33.683121,-117.884666,Costa Mesa,CA,United States}	{Professional & Other Places,}
+1819	Wed Jul 20 22:06:26 +0000 2011	4a440714f964a5200da71fe3	{Hilton Orange County/Costa Mesa}	{33.68307377117306,-117.88469127206545,Costa Mesa,CA,United States}	{Travel & Transport,}
+1819	Wed Jul 20 22:05:25 +0000 2011	4e26f0ab18a81b3b73b1ac83	{Camp Do More 2011}	{33.683121,-117.884666,Costa Mesa,CA,United States}	{Professional & Other Places,}
+1819	Mon Jul 18 03:25:45 +0000 2011	42829c80f964a52040221fe3	{Irvine Spectrum Center}	{33.65035092225259,-117.74352550506592,Irvine,CA,United States}	{Shop & Service,Arts & Entertainment,Movie Theater,}
+1819	Mon Jul 18 02:08:07 +0000 2011	4a80e0d4f964a52062f61fe3	{Red Robin Gourmet Burgers}	{33.65033752566994,-117.74309635162354,Irvine,CA,United States}	{Food,}
+1819	Sun Jul 17 23:08:57 +0000 2011	4a80e20df964a52066f61fe3	{Edwards Irvine Spectrum 21 IMAX & RPX}	{33.65195403158847,-117.74535477161407,Irvine,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1819	Sun Jul 17 03:03:11 +0000 2011	4e1cb53f52b1c2b69f37aaae	{OC Fair 2011}	{33.66667534125443,-117.90162563323975,Costa Mesa,CA,United States}	{Professional & Other Places,}
+1819	Sun Jul 17 02:04:38 +0000 2011	4c126ba6a1010f47dfcb4818	{Pacific Amphitheatre}	{33.66621101327118,-117.9047155380249,Costa Mesa,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1819	Sat Jul 16 19:21:39 +0000 2011	4a7a4f2ef964a5201de91fe3	{Riptide Sushi}	{33.56074373422427,-117.6710844039917,Mission Viejo,CA,United States}	{Food,}
+1819	Sat Jul 16 19:21:13 +0000 2011	4a7a4f2ef964a5201de91fe3	{Riptide Sushi}	{33.56074373422427,-117.6710844039917,Mission Viejo,CA,United States}	{Food,}
+1819	Sat Jul 16 16:03:23 +0000 2011	4ad0d9a5f964a52061da20e3	{Aliso & Wood Canyons Wilderness Park - Gate 1}	{33.54937087148056,-117.72047996520996,Laguna Niguel,CA,United States}	{Outdoors & Recreation,}
+1819	Fri Jul 15 22:51:19 +0000 2011	4c3fafa7d7fad13ac0f204da	{Dr. Irineo G. Garcia D.D.S.}	{33.72659504413605,-117.85218715667725,Santa Ana,CA,United States}	{Medical Center,Professional & Other Places,}
+1819	Tue Jul 12 04:56:07 +0000 2011	4afddda0f964a520962b22e3	{The Home Depot}	{33.72466340069014,-117.79610499365154,Tustin,CA,United States}	{Shop & Service,}
+1819	Sun Jul 10 19:51:03 +0000 2011	4b5b5c45f964a520e3f728e3	{Gyu-Kaku Huntington Beach}	{33.71531212525122,-117.99025942882297,Huntington Beach,CA,United States}	{Food,}
+1819	Fri Jul 08 00:30:10 +0000 2011	4ba8294af964a520aace39e3	{Duffy Electric Boats}	{33.617465,-117.919826,Newport Beach,CA,United States}	{Travel & Transport,}
+1819	Tue Jul 05 21:55:45 +0000 2011	4c3fafa7d7fad13ac0f204da	{Dr. Irineo G. Garcia D.D.S.}	{33.72659504413605,-117.85218715667725,Santa Ana,CA,United States}	{Medical Center,Professional & Other Places,}
+1819	Sun Jul 03 23:45:26 +0000 2011	4b1c361ef964a5205b0424e3	{The Coffee Bean & Tea Leaf?}	{33.65070538926843,-117.74497255682945,Irvine,CA,United States}	{Food,}
+1819	Sun Jul 03 21:36:28 +0000 2011	4a80e20df964a52066f61fe3	{Edwards Irvine Spectrum 21 IMAX & RPX}	{33.65195403158847,-117.74535477161407,Irvine,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1819	Sat Jul 02 18:15:12 +0000 2011	4bd88b4011dcc928bbcaf633	{Manhattan Beach}	{33.89834695102012,-118.42030048370361,Manhattan Beach,CA,United States}	{Outdoors & Recreation,}
+1819	Sat Jul 02 18:13:48 +0000 2011	4c290be2e19720a1fee4f858	{Sand Dune Park}	{33.89907337443141,-118.41234251889927,Manhattan Beach,CA,United States}	{Shop & Service,Outdoors & Recreation,}
+1819	Sat Jul 02 07:13:49 +0000 2011	412a8500f964a5207f0c1fe3	{Yard House}	{33.65035092225259,-117.74502754211426,Irvine,CA,United States}	{Nightlife Spot,Food,}
+1819	Sat Jul 02 04:39:11 +0000 2011	4ad90384f964a5201c1721e3	{Improv Comedy Club}	{33.65035092225259,-117.744619846344,Irvine,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+1819	Fri Jul 01 18:17:25 +0000 2011	4e0e0b21b61c3fe477ff63dc	{Sessions}	{33.634858679164076,-117.91708223960218,,,United States}	{Shop & Service,}
+1819	Fri Jul 01 17:57:12 +0000 2011	4ba8f95cf964a52088ff39e3	{Starbucks}	{33.6341,-117.916529,Costa Mesa,CA,United States}	{Food,}
+1819	Fri Jul 01 05:26:17 +0000 2011	4a80e20df964a52066f61fe3	{Edwards Irvine Spectrum 21 IMAX & RPX}	{33.65195403158847,-117.74535477161407,Irvine,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1819	Fri Jul 01 04:47:14 +0000 2011	4aac69f7f964a520e45d20e3	{Dave & Buster's}	{33.65101626291111,-117.74363699801864,Irvine,CA,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+1819	Fri Jul 01 03:57:22 +0000 2011	4c2e4285e116e21e33059060	{Irvine Spectrum Parking Structure}	{33.652137114598915,-117.74351477622986,Irvine,CA,United States}	{Professional & Other Places,}
+1819	Mon Jun 27 03:02:42 +0000 2011	4bfc5de5e9d8c9285972b2c7	{The Ranch}	{33.686615709091924,-117.78598368834386,Irvine,CA,United States}	{Residence,}
+1819	Mon Jun 27 01:00:07 +0000 2011	4b3c09c6f964a520cc8025e3	{ABC Supermarket}	{33.74300532111085,-117.97402381896973,Westminster,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1819	Sat Jun 25 16:45:34 +0000 2011	4bdf311b89ca76b07cb35d5e	{OCC Swap Meet}	{33.67285423656696,-117.91213989257812,Costa Mesa,CA,United States}	{Shop & Service,}
+1819	Fri Jun 24 22:24:12 +0000 2011	4b58a0fef964a520486228e3	{CVS Pharmacy}	{33.69620753,-117.79952,Irvine,CA,United States}	{Shop & Service,}
+1819	Wed Jun 22 01:36:07 +0000 2011	4b035955f964a520d74e22e3	{Trader Joe's}	{33.70608943090539,-117.78832376003265,Irvine,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1819	Sun Jun 19 22:49:13 +0000 2011	4b809b98f964a5209b8030e3	{Hokkaido Seafood Buffet}	{33.665934615369515,-117.86668234016216,Newport Beach,CA,United States}	{Food,}
+1819	Sun Jun 19 05:18:12 +0000 2011	49f6dc31f964a520606c1fe3	{Ajisen Ramen}	{33.68874588724238,-117.83411979675293,Irvine,CA,United States}	{Food,}
+1819	Sun Jun 19 02:24:29 +0000 2011	4a6ff170f964a52026d71fe3	{Edwards Market Place Stadium 10}	{33.72280482842427,-117.79056072235107,Irvine,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1819	Sat Jun 18 23:19:05 +0000 2011	4d38cb3d76d1a35d4249018e	{Obey}	{33.68720278611942,-117.842777,Irvine,CA,United States}	{Professional & Other Places,}
+1819	Fri Jun 17 23:54:31 +0000 2011	4b81841bf964a520c2ab30e3	{Lazy Dog Cafe}	{33.72858708066024,-117.78794825077057,Irvine,CA,United States}	{Food,}
+1819	Fri Jun 17 23:46:29 +0000 2011	4b81841bf964a520c2ab30e3	{Lazy Dog Cafe}	{33.72858708066024,-117.78794825077057,Irvine,CA,United States}	{Food,}
+1819	Wed Jun 15 23:34:14 +0000 2011	4ad0d9a5f964a52061da20e3	{Aliso & Wood Canyons Wilderness Park - Gate 1}	{33.54937087148056,-117.72047996520996,Laguna Niguel,CA,United States}	{Outdoors & Recreation,}
+1819	Wed Jun 15 03:54:34 +0000 2011	4c0072e3df6c0f479e728b22	{Walnut Trail}	{33.691948,-117.78176432,Irvine,CA,United States}	{Outdoors & Recreation,}
+1819	Wed Jun 15 03:54:18 +0000 2011	4bfc5de5e9d8c9285972b2c7	{The Ranch}	{33.686615709091924,-117.78598368834386,Irvine,CA,United States}	{Residence,}
+1819	Tue Jun 14 23:25:57 +0000 2011	4d122aad0ad2f04d8b5baa54	{OC Bicycle Garage}	{33.62778371123188,-117.7310347567382,Laguna Hills,CA,United States}	{Shop & Service,}
+1819	Mon Jun 13 03:46:30 +0000 2011	4aa32899f964a5208a4320e3	{Bob's Big Boy Restaurant}	{33.80832096952508,-117.86986827850342,Orange,CA,United States}	{Food,}
+1819	Sun Jun 12 22:24:13 +0000 2011	4a8f25bcf964a5201b1420e3	{Century Stadium 25 & Xd}	{33.809141111486525,-117.87034034729004,Orange,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1819	Sun Jun 12 18:55:03 +0000 2011	4b08a489f964a5201a1023e3	{Thai Spice}	{33.680389744998195,-117.77872145175934,Irvine,CA,United States}	{Food,}
+1819	Sun Jun 12 04:52:31 +0000 2011	4a16597ff964a52002791fe3	{Bowlmor Lanes Orange County}	{33.698029536996,-117.82785415649414,Tustin,CA,United States}	{Arts & Entertainment,}
+1819	Sun Jun 12 02:59:01 +0000 2011	4a81d6d2f964a520b5f71fe3	{Bluewater Grill}	{33.69788671921163,-117.82815456390381,Tustin,CA,United States}	{Nightlife Spot,Food,}
+1819	Sun Jun 12 02:57:35 +0000 2011	4de7f3b9d1641887900b1e67	{Five Guys}	{33.69769927050938,-117.82814383506775,Tustin,CA,United States}	{Food,}
+1819	Sun Jun 12 02:18:18 +0000 2011	4b09037bf964a520d71323e3	{Lollicup Diamond Jamboree}	{33.68817455296093,-117.83399105072021,Irvine,CA,United States}	{Food,}
+1819	Sat Jun 11 02:42:16 +0000 2011	4b3bb943f964a520ae7925e3	{Stonefire Grill}	{33.685499018751244,-117.81142552044201,Irvine,CA,United States}	{Food,}
+1819	Sat Jun 11 01:29:59 +0000 2011	4b53934ef964a52005a327e3	{Bath & Body Works}	{33.72661360917467,-117.79357538682,Tustin,CA,United States}	{Shop & Service,}
+1819	Fri Jun 10 02:10:48 +0000 2011	4b3bb943f964a520ae7925e3	{Stonefire Grill}	{33.685499018751244,-117.81142552044201,Irvine,CA,United States}	{Food,}
+1819	Tue Jun 07 23:31:15 +0000 2011	4a85f33bf964a520c7ff1fe3	{IKEA}	{33.69040630593994,-117.91617393493652,Costa Mesa,CA,United States}	{Shop & Service,}
+1819	Tue Jun 07 04:42:58 +0000 2011	47039ff5f964a520424b1fe3	{Space Mountain}	{33.81144023055639,-117.91740842163563,Anaheim,CA,United States}	{Arts & Entertainment,Theme Park,}
+1819	Tue Jun 07 04:42:47 +0000 2011	4a6beb6ef964a52041d01fe3	{Star Tours - The Adventures Continue}	{33.81201570836017,-117.91795022785664,Anaheim,CA,United States}	{Arts & Entertainment,Theme Park,}
+1819	Tue Jun 07 04:42:35 +0000 2011	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+1819	Tue Jun 07 03:30:41 +0000 2011	4703a234f964a5204b4b1fe3	{The Twilight Zone Tower of Terror}	{33.80683935374519,-117.91716165840626,Anaheim,CA,United States}	{Arts & Entertainment,Theme Park,}
+1819	Tue Jun 07 02:09:32 +0000 2011	4aadba50f964a520596120e3	{Mickey & Friends Parking Structure}	{33.81481057349054,-117.92484283447264,Anaheim,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1819	Mon Jun 06 00:44:36 +0000 2011	4a6beb6ef964a52041d01fe3	{Star Tours - The Adventures Continue}	{33.81201570836017,-117.91795022785664,Anaheim,CA,United States}	{Arts & Entertainment,Theme Park,}
+1819	Sun Jun 05 21:17:21 +0000 2011	4703a1abf964a520484b1fe3	{California Screamin'}	{33.804559784592094,-117.92067971579354,Anaheim,CA,United States}	{Arts & Entertainment,Theme Park,}
+1819	Sun Jun 05 20:51:58 +0000 2011	4d9a489f3e1c530c1a4222a3	{The Little Mermaid ~ Ariel's Undersea Adventure}	{33.80633144660732,-117.92138200796013,Anaheim,CA,United States}	{Arts & Entertainment,Theme Park,}
+1819	Sun Jun 05 19:32:31 +0000 2011	4aadba50f964a520596120e3	{Mickey & Friends Parking Structure}	{33.81481057349054,-117.92484283447264,Anaheim,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1819	Sun Jun 05 05:35:38 +0000 2011	4b4bbf18f964a5203ca626e3	{Wingstop}	{33.63907107,-117.9212513,Costa Mesa,CA,United States}	{Food,}
+1819	Sun Jun 05 04:58:56 +0000 2011	4b3117d6f964a520090025e3	{Sports Authority}	{33.721765,-117.789983,Irvine,CA,United States}	{Shop & Service,}
+1819	Sat Jun 04 23:42:40 +0000 2011	4a8e0651f964a520ca1120e3	{AMC Tustin 14 at The District}	{33.69695839782663,-117.82858371734619,Tustin,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1819	Fri Jun 03 14:29:03 +0000 2011	4b72d9f5f964a5207a8b2de3	{Krazy Eddy's Doughnuts}	{33.6287707905009,-117.72854804992676,Laguna Hills,CA,United States}	{Food,}
+1819	Thu Jun 02 15:28:24 +0000 2011	4ba8e583f964a52011f839e3	{Powder Blue Productions}	{33.63145073669896,-117.74095058441162,Irvine,CA,United States}	{Professional & Other Places,}
+1819	Thu Jun 02 00:02:51 +0000 2011	4d8655475ad3a093b03cf7fd	{Pinoy Pam's Best}	{33.62007742,-117.704129,Lake Forest,CA,United States}	{Food,}
+1819	Sat May 28 21:20:44 +0000 2011	4b538294f964a5205ca027e3	{Queen of Heaven Cemetery}	{33.98148130477585,-117.91066859115747,Rowland Heights,CA,United States}	{Outdoors & Recreation,}
+1819	Sat May 28 04:00:37 +0000 2011	4da655186a23f2e805064628	{Food Trucks @ Best Buy}	{33.80756872,-118.16811919212341,Signal Hill,CA,United States}	{Food,}
+1819	Fri May 27 23:18:41 +0000 2011	4d85364e8de9721e7c6c4251	{Queen Of Heaven Mortuary}	{33.982635938501716,-117.91248228650304,East San Gabriel Valley,CA,United States}	{Spiritual Center,Professional & Other Places,}
+1819	Fri May 27 23:18:41 +0000 2011	4d85364e8de9721e7c6c4251	{Queen Of Heaven Mortuary}	{33.982635938501716,-117.91248228650304,East San Gabriel Valley,CA,United States}	{Spiritual Center,Professional & Other Places,}
+1819	Fri May 27 23:18:20 +0000 2011	4b538294f964a5205ca027e3	{Queen of Heaven Cemetery}	{33.98148130477585,-117.91066859115747,Rowland Heights,CA,United States}	{Outdoors & Recreation,}
+1819	Fri May 27 13:56:20 +0000 2011	4babd66df964a520d9cd3ae3	{Burger King}	{33.643538044356795,-117.74385809898376,Irvine,CA,United States}	{Food,}
+1819	Fri May 27 01:02:30 +0000 2011	4d85364e8de9721e7c6c4251	{Queen Of Heaven Mortuary}	{33.982635938501716,-117.91248228650304,East San Gabriel Valley,CA,United States}	{Spiritual Center,Professional & Other Places,}
+1819	Fri May 27 01:01:04 +0000 2011	4b538294f964a5205ca027e3	{Queen of Heaven Cemetery}	{33.98148130477585,-117.91066859115747,Rowland Heights,CA,United States}	{Outdoors & Recreation,}
+1819	Thu May 26 16:49:52 +0000 2011	4aef51fbf964a5208ad721e3	{Ralphs}	{33.61676807538353,-117.70214974880219,Lake Forest,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1819	Thu May 26 04:00:49 +0000 2011	4a5f76fbf964a5209ebf1fe3	{Target}	{33.699859368851435,-117.82782196998596,Tustin,CA,United States}	{Shop & Service,Professional & Other Places,}
+1819	Tue May 24 16:14:55 +0000 2011	4c36609552dfef3bc8beee70	{The Johnsons house/zoo}	{33.59776716819867,-117.70801332293695,Laguna hills,CA,United States}	{Residence,}
+1819	Mon May 23 06:05:35 +0000 2011	4bfc5de5e9d8c9285972b2c7	{The Ranch}	{33.686615709091924,-117.78598368834386,Irvine,CA,United States}	{Residence,}
+1819	Sun May 22 21:31:09 +0000 2011	4ba9b00ef964a52069343ae3	{Columbus Square}	{33.71374511339555,-117.82528136173623,,CA,United States}	{Residence,}
+1819	Sat May 21 21:28:08 +0000 2011	4b53934ef964a52005a327e3	{Bath & Body Works}	{33.72661360917467,-117.79357538682,Tustin,CA,United States}	{Shop & Service,}
+1819	Sat May 21 20:41:05 +0000 2011	4a67514df964a52029c91fe3	{Laguna Hills Mall}	{33.61065216749633,-117.70704746246338,Laguna Hills,CA,United States}	{Shop & Service,}
+1819	Sat May 21 03:02:35 +0000 2011	4b04b2f3f964a520335622e3	{The District at Tustin Legacy}	{33.69785101472845,-117.827467918396,Tustin,CA,United States}	{Shop & Service,}
+1819	Sat May 21 02:39:10 +0000 2011	4aee062df964a52069d121e3	{Sharky's Woodfired Mexican Grill}	{33.69675309462751,-117.82829403877258,Tustin,CA,United States}	{Food,}
+1819	Sat May 21 02:38:20 +0000 2011	4ba453ebf964a5203c9638e3	{Finish Line @ The District}	{33.69732141494751,-117.82833158969879,Tustin,CA,United States}	{}
+1819	Fri May 20 20:26:57 +0000 2011	4d8655475ad3a093b03cf7fd	{Pinoy Pam's Best}	{33.62007742,-117.704129,Lake Forest,CA,United States}	{Food,}
+1819	Fri May 20 18:23:29 +0000 2011	4ba8e583f964a52011f839e3	{Powder Blue Productions}	{33.63145073669896,-117.74095058441162,Irvine,CA,United States}	{Professional & Other Places,}
+1819	Fri May 20 01:45:01 +0000 2011	4aede540f964a520f9cf21e3	{99 Ranch Market}	{33.69638711814283,-117.79815673828125,Irvine,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1819	Fri May 20 01:26:08 +0000 2011	4b9d66bff964a52004aa36e3	{Portola Place Apartments}	{33.69594621999559,-117.71502687139584,Irvine,CA,United States}	{Outdoors & Recreation,Residence,}
+1819	Wed May 18 18:42:24 +0000 2011	4ba487aef964a52090a238e3	{Providence Holy Cross Medical Center}	{34.27970163367014,-118.46068382263184,Mission Hills,CA,United States}	{Medical Center,Professional & Other Places,}
+1819	Wed May 18 13:12:52 +0000 2011	4b7b0293f964a520ea4b2fe3	{Renaissance ClubSport Aliso Viejo Hotel}	{33.58238831007175,-117.73024441764719,Aliso Viejo,CA,United States}	{Travel & Transport,Shop & Service,Gym / Fitness Center,}
+1819	Tue May 17 17:53:40 +0000 2011	4b7b0293f964a520ea4b2fe3	{Renaissance ClubSport Aliso Viejo Hotel}	{33.58238831007175,-117.73024441764719,Aliso Viejo,CA,United States}	{Travel & Transport,Shop & Service,Gym / Fitness Center,}
+1819	Mon May 16 20:47:15 +0000 2011	4b7b0293f964a520ea4b2fe3	{Renaissance ClubSport Aliso Viejo Hotel}	{33.58238831007175,-117.73024441764719,Aliso Viejo,CA,United States}	{Travel & Transport,Shop & Service,Gym / Fitness Center,}
+1819	Sun May 15 17:53:51 +0000 2011	4aa3d601f964a520284420e3	{IHOP}	{33.72945480182806,-117.78649897190479,Irvine,CA,United States}	{Food,}
+1819	Sun May 15 00:00:57 +0000 2011	4a6cb2ebf964a5204ed11fe3	{Costco Wholesale}	{33.69973103225719,-117.82333500455927,Tustin,CA,United States}	{Shop & Service,}
+1819	Sat May 14 21:46:42 +0000 2011	4bc66431b387d13a12e0c1e8	{Sunrise Medical Center}	{33.860139,-117.7959031,Anaheim,CA,United States}	{Medical Center,Professional & Other Places,}
+1819	Fri May 13 02:09:30 +0000 2011	4afddda0f964a520962b22e3	{The Home Depot}	{33.72466340069014,-117.79610499365154,Tustin,CA,United States}	{Shop & Service,}
+1819	Sat May 07 18:27:25 +0000 2011	4a6cc0f0f964a52088d11fe3	{Universal Studios Hollywood}	{34.13763203794546,-118.35429668426512,Universal City,CA,United States}	{Arts & Entertainment,Theme Park,}
+1819	Wed May 04 23:44:24 +0000 2011	4ccfb397f6378cfab14eb0d6	{Primal Fitness Centers}	{33.69321750210391,-117.83324634977751,Irvine,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+1819	Tue May 03 23:46:40 +0000 2011	4ccfb397f6378cfab14eb0d6	{Primal Fitness Centers}	{33.69321750210391,-117.83324634977751,Irvine,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+1819	Tue May 03 22:07:17 +0000 2011	4c3fafa7d7fad13ac0f204da	{Dr. Irineo G. Garcia D.D.S.}	{33.72659504413605,-117.85218715667725,Santa Ana,CA,United States}	{Medical Center,Professional & Other Places,}
+1819	Tue May 03 03:25:19 +0000 2011	4a90a61ef964a520f31820e3	{Westfield MainPlace}	{33.77533985790398,-117.86961412675883,Santa Ana,CA,United States}	{Shop & Service,Professional & Other Places,}
+1819	Mon May 02 00:04:07 +0000 2011	4a80e20df964a52066f61fe3	{Edwards Irvine Spectrum 21 IMAX & RPX}	{33.65195403158847,-117.74535477161407,Irvine,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1819	Mon Apr 25 15:43:22 +0000 2011	4ca227e5d7c337047afe9562	{Powder Blue - Upstairs}	{33.631646,-117.740836,Laguna Hills,CA,United States}	{Professional & Other Places,}
+1819	Mon Apr 25 15:43:06 +0000 2011	4ba8e583f964a52011f839e3	{Powder Blue Productions}	{33.63145073669896,-117.74095058441162,Irvine,CA,United States}	{Professional & Other Places,}
+1819	Thu Apr 21 23:33:39 +0000 2011	4d0bb1206d26a0932da3792d	{Walnut Grove Medical Center}	{33.82147,-117.90964,Anaheim,CA,United States}	{Medical Center,Professional & Other Places,}
+1819	Thu Apr 21 16:02:14 +0000 2011	4ca227e5d7c337047afe9562	{Powder Blue - Upstairs}	{33.631646,-117.740836,Laguna Hills,CA,United States}	{Professional & Other Places,}
+1819	Thu Apr 21 16:01:19 +0000 2011	4ba8e583f964a52011f839e3	{Powder Blue Productions}	{33.63145073669896,-117.74095058441162,Irvine,CA,United States}	{Professional & Other Places,}
+1819	Thu Apr 21 02:31:52 +0000 2011	451cfbd2f964a520833a1fe3	{John Wayne Airport (SNA)}	{33.67956837093503,-117.86175727844238,Santa Ana,CA,United States}	{Travel & Transport,}
+1819	Wed Apr 20 21:57:40 +0000 2011	4be7f4bf947820a18443b4db	{Gate C32}	{29.985642668815547,-95.34006357192993,Houston,TX,United States}	{Travel & Transport,Airport,}
+1819	Wed Apr 20 21:56:29 +0000 2011	4c1f76ffeac020a1321b4bc2	{Starbucks}	{29.985698425530995,-95.33987045288086,Houston,TX,United States}	{Food,}
+1819	Wed Apr 20 21:28:41 +0000 2011	44d1efc9f964a52032361fe3	{George Bush International Airport (IAH)}	{29.986460430837823,-95.34201622009277,Houston,TX,United States}	{Travel & Transport,}
+1819	Wed Apr 20 18:36:00 +0000 2011	4cdebd3c94c3b60c873667ea	{Gate 36}	{28.426807,-81.312507,Orlando,FL,United States}	{Travel & Transport,Airport,}
+1819	Wed Apr 20 18:35:29 +0000 2011	4c755cdd1b30a093a021ef09	{Continental Airlines Flight 687}	{28.42748656095544,-81.31410598754883,Orlando,FL,United States}	{Travel & Transport,Airport,}
+1819	Wed Apr 20 18:25:17 +0000 2011	4a78c47ff964a5205de61fe3	{Orlando International Airport (MCO)}	{28.430902032399718,-81.3084089756012,Orlando,FL,United States}	{Travel & Transport,}
+1819	Wed Apr 20 00:14:50 +0000 2011	4b0ac52df964a5208e2723e3	{Maelstrom}	{28.370737170102174,-81.54703933879122,Lake Buena Vista,FL,United States}	{Arts & Entertainment,Theme Park,}
+1819	Wed Apr 20 00:14:18 +0000 2011	4b5b81dcf964a520660329e3	{Friendship I}	{28.369878705723448,-81.54932498931885,Lake Buena Vista,FL,United States}	{Travel & Transport,Arts & Entertainment,}
+1819	Tue Apr 19 23:33:53 +0000 2011	4b0ad8b9f964a520cc2823e3	{Mission: SPACE}	{28.37385904720763,-81.54709768295284,Lake Buena Vista,FL,United States}	{Arts & Entertainment,Theme Park,}
+1819	Tue Apr 19 22:24:34 +0000 2011	4b301d74f964a52053f624e3	{Epcot}	{28.375550775447067,-81.54940092563623,Lake Buena Vista,FL,United States}	{Arts & Entertainment,}
+1819	Tue Apr 19 21:20:18 +0000 2011	4b7c6788f964a52048912fe3	{Kilimanjaro Safaris}	{28.359461145776564,-81.59225893020628,Bay Lake,FL,United States}	{Arts & Entertainment,Theme Park,}
+1819	Tue Apr 19 20:24:16 +0000 2011	4b4deeabf964a52068db26e3	{Dinosaur}	{28.355347822526582,-81.58839096220372,Bay Lake,FL,United States}	{Arts & Entertainment,Theme Park,}
+1819	Tue Apr 19 16:14:46 +0000 2011	4b5c9fe5f964a520903a29e3	{Voyage of The Little Mermaid}	{28.3574448675328,-81.56089976718938,Lake Buena Vista,FL,United States}	{Arts & Entertainment,Theme Park,}
+1819	Tue Apr 19 15:36:39 +0000 2011	4b57bc1cf964a5207c3e28e3	{Rock 'N' Roller Coaster Starring Aerosmith}	{28.359587032033545,-81.56072023763181,Lake Buena Vista,FL,United States}	{Arts & Entertainment,Theme Park,}
+1819	Tue Apr 19 15:00:32 +0000 2011	4b5212d2f964a520bb6527e3	{The Twilight Zone Tower of Terror}	{28.359762503356762,-81.55978371511841,Lake Buena Vista,FL,United States}	{Arts & Entertainment,Theme Park,}
+1819	Tue Apr 19 14:19:40 +0000 2011	4d91f168cbc1224bd50224d5	{Walt Disney World Resort}	{28.368837379294106,-81.55437183380126,Lake Buena Vista,FL,United States}	{Arts & Entertainment,}
+1819	Tue Apr 19 14:16:44 +0000 2011	4d4db14f9aaab60c1c253b29	{Hollywood Studios Parking Lot}	{28.358599683547425,-81.55502832022587,Lake Buena Vista,FL,United States}	{Professional & Other Places,}
+1819	Mon Apr 18 19:50:20 +0000 2011	4b36904df964a520123825e3	{Ron Jon Surf Shop}	{28.356331029574946,-80.60786426067352,Cocoa Beach,FL,United States}	{Shop & Service,}
+1819	Sun Apr 17 03:23:59 +0000 2011	4ba6e69cf964a5205c7639e3	{Fairfield Inn}	{29.654772496248093,-82.41592897777403,Gainesville,FL,United States}	{Travel & Transport,Hotel,}
+1819	Sat Apr 16 18:05:33 +0000 2011	4b59dfdcf964a5208b9d28e3	{Jimmy John's}	{29.652205991518024,-82.34548307348038,Gainesville,FL,United States}	{Food,}
+1819	Sat Apr 16 11:21:40 +0000 2011	4b46529ff964a520961d26e3	{Starbucks}	{29.656358009336163,-82.41115093231201,Gainesville,FL,United States}	{Food,}
+1819	Sat Apr 16 02:20:48 +0000 2011	4b0c9624f964a520b43f23e3	{Pilot Travel Center}	{29.3459003030303,-82.1115112121212,Ocala,FL,United States}	{Shop & Service,Food,}
+1819	Sat Apr 16 01:20:59 +0000 2011	4c6bd2ece503c92864c648b3	{Florida Turnpike}	{28.53824523515816,-81.53276410536932,Gotha,FL,United States}	{Travel & Transport,}
+1819	Sat Apr 16 01:10:22 +0000 2011	4bdad4aaa8d976b0738e0cb5	{Amway Center}	{28.53974301845183,-81.38371467590332,Orlando,FL,United States}	{Stadium,Arts & Entertainment,}
+1819	Fri Apr 15 15:24:27 +0000 2011	449e9fb9f964a520c0341fe3	{Phoenix Sky Harbor International Airport (PHX)}	{33.43562440517176,-112.00306606318918,Phoenix,AZ,United States}	{Travel & Transport,}
+1819	Fri Apr 15 12:48:35 +0000 2011	451cfbd2f964a520833a1fe3	{John Wayne Airport (SNA)}	{33.67956837093503,-117.86175727844238,Santa Ana,CA,United States}	{Travel & Transport,}
+1819	Wed Apr 13 03:47:20 +0000 2011	4b155044f964a5203db023e3	{Angel Stadium of Anaheim}	{33.80002327603627,-117.88301914930344,Anaheim,CA,United States}	{Stadium,Arts & Entertainment,}
+1819	Mon Apr 11 23:42:24 +0000 2011	4bc4e188461576b03b988032	{Sunrise Medical}	{33.717206966666666,-117.81000307,Tustin,CA,United States}	{Medical Center,Professional & Other Places,}
+1819	Mon Apr 11 02:23:57 +0000 2011	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+1819	Mon Apr 11 02:21:44 +0000 2011	4ad29f2af964a5205de220e3	{Little Red Wagon Corn Dogs}	{33.8114867186727,-117.9186999052763,Anaheim,CA,United States}	{Food,}
+1819	Sun Apr 10 21:55:07 +0000 2011	4aadba50f964a520596120e3	{Mickey & Friends Parking Structure}	{33.81481057349054,-117.92484283447264,Anaheim,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1819	Sat Apr 09 02:46:24 +0000 2011	4c4c8d87712ac9286f4d806e	{Stonecreek Plaza}	{33.68106826547957,-117.80536651611328,Irvine,CA,United States}	{Shop & Service,}
+1819	Sat Apr 09 02:45:02 +0000 2011	4b0d9654f964a520ac4b23e3	{Thai Kitchen}	{33.68154829,-117.805308,Irvine,CA,United States}	{Food,}
+1819	Sat Apr 02 19:24:52 +0000 2011	4bc0b0542a89ef3beceaf088	{Warrior Dash}	{33.655320573713595,-117.30334234648143,Lake Elsinore,CA,United States}	{Outdoors & Recreation,}
+1819	Tue Mar 29 01:52:01 +0000 2011	42893400f964a5207e231fe3	{STAPLES Center}	{34.043058660157634,-118.26724290847778,Los Angeles,CA,United States}	{Stadium,Arts & Entertainment,}
+1819	Sun Mar 27 05:49:16 +0000 2011	4b4898d3f964a5201f5026e3	{Blends}	{33.67744425132709,-117.88595017087636,Costa Mesa,CA,United States}	{Shop & Service,Clothing Store,}
+1819	Fri Mar 25 13:48:47 +0000 2011	4ba8e583f964a52011f839e3	{Powder Blue Productions}	{33.63145073669896,-117.74095058441162,Irvine,CA,United States}	{Professional & Other Places,}
+1819	Sun Mar 20 23:43:14 +0000 2011	4a6ff170f964a52026d71fe3	{Edwards Market Place Stadium 10}	{33.72280482842427,-117.79056072235107,Irvine,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1819	Fri Mar 18 23:37:12 +0000 2011	4a9b2cbff964a520a83420e3	{Best Buy}	{33.72131459,-117.79504,Tustin,CA,United States}	{Shop & Service,}
+1819	Thu Mar 17 14:38:44 +0000 2011	4ba8e583f964a52011f839e3	{Powder Blue Productions}	{33.63145073669896,-117.74095058441162,Irvine,CA,United States}	{Professional & Other Places,}
+1819	Mon Mar 14 01:06:08 +0000 2011	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+1819	Sat Mar 05 22:56:13 +0000 2011	4aede540f964a520f9cf21e3	{99 Ranch Market}	{33.69638711814283,-117.79815673828125,Irvine,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1819	Sat Mar 05 15:55:04 +0000 2011	4b12c520f964a520c08d23e3	{Cream Pan}	{33.73980674,-117.824031,Tustin,CA,United States}	{Food,}
+1819	Fri Mar 04 21:37:23 +0000 2011	4b22a51df964a520034b24e3	{Baja Fish Tacos}	{33.628490567207336,-117.725065,Laguna Hills,CA,United States}	{Food,}
+1819	Fri Mar 04 20:01:53 +0000 2011	4ba8e583f964a52011f839e3	{Powder Blue Productions}	{33.63145073669896,-117.74095058441162,Irvine,CA,United States}	{Professional & Other Places,}
+1819	Fri Mar 04 20:01:53 +0000 2011	4ba8e583f964a52011f839e3	{Powder Blue Productions}	{33.63145073669896,-117.74095058441162,Irvine,CA,United States}	{Professional & Other Places,}
+1819	Thu Mar 03 17:24:12 +0000 2011	4ba8e583f964a52011f839e3	{Powder Blue Productions}	{33.63145073669896,-117.74095058441162,Irvine,CA,United States}	{Professional & Other Places,}
+1819	Thu Mar 03 03:39:18 +0000 2011	4a907b3ff964a520201820e3	{Trader Joe's}	{33.65039334475055,-117.83749133348465,Irvine,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1819	Wed Mar 02 20:59:10 +0000 2011	4c36609552dfef3bc8beee70	{The Johnsons house/zoo}	{33.59776716819867,-117.70801332293695,Laguna hills,CA,United States}	{Residence,}
+1819	Wed Mar 02 04:50:14 +0000 2011	4b3bb943f964a520ae7925e3	{Stonefire Grill}	{33.685499018751244,-117.81142552044201,Irvine,CA,United States}	{Food,}
+1819	Wed Mar 02 00:58:38 +0000 2011	4ccfb397f6378cfab14eb0d6	{Primal Fitness Centers}	{33.69321750210391,-117.83324634977751,Irvine,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+1819	Tue Mar 01 23:25:01 +0000 2011	4ca5fb95d971b1f78578fbe0	{Warehouse PB}	{33.6316836,-117.740841,Laguna Hills,CA,United States}	{}
+1819	Tue Mar 01 23:25:01 +0000 2011	4ca5fb95d971b1f78578fbe0	{Warehouse PB}	{33.6316836,-117.740841,Laguna Hills,CA,United States}	{}
+1819	Tue Mar 01 23:24:46 +0000 2011	4ca0ee1f8afca093ed0d1716	{Powder Blue Kitchen}	{33.631662,-117.740875,Laguna Hills,CA,United States}	{Food,}
+1819	Tue Mar 01 23:24:46 +0000 2011	4ca0ee1f8afca093ed0d1716	{Powder Blue Kitchen}	{33.631662,-117.740875,Laguna Hills,CA,United States}	{Food,}
+1819	Tue Mar 01 23:24:24 +0000 2011	4ba8e583f964a52011f839e3	{Powder Blue Productions}	{33.63145073669896,-117.74095058441162,Irvine,CA,United States}	{Professional & Other Places,}
+1819	Mon Feb 28 04:08:16 +0000 2011	4b0d9654f964a520ac4b23e3	{Thai Kitchen}	{33.68154829,-117.805308,Irvine,CA,United States}	{Food,}
+1819	Mon Feb 28 03:49:48 +0000 2011	4aa417dcf964a520404520e3	{Target}	{33.68517498567542,-117.8124475479126,Irvine,CA,United States}	{Shop & Service,}
+1819	Mon Feb 28 02:24:05 +0000 2011	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+1819	Mon Feb 28 00:09:00 +0000 2011	45db8eb5f964a520fd421fe3	{Disney California Adventure Park}	{33.80798489664312,-117.91896778777333,Anaheim,CA,United States}	{Arts & Entertainment,}
+1819	Sun Feb 27 05:29:19 +0000 2011	4ae217b4f964a5209f8a21e3	{Tokyo Table}	{33.68773316,-117.833719,Irvine,CA,United States}	{Food,}
+1819	Sat Feb 26 23:11:06 +0000 2011	4ab993a9f964a520ef7f20e3	{Total Wine & More}	{33.722178,-117.79577,Tustin,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1819	Sat Feb 26 22:32:40 +0000 2011	4b53934ef964a52005a327e3	{Bath & Body Works}	{33.72661360917467,-117.79357538682,Tustin,CA,United States}	{Shop & Service,}
+1819	Sat Feb 26 21:15:31 +0000 2011	4b53e189f964a520dead27e3	{Pho Bac Ky}	{33.73171092,-117.81808962,Tustin,CA,United States}	{Food,}
+1819	Sat Feb 26 21:05:01 +0000 2011	4b12c520f964a520c08d23e3	{Cream Pan}	{33.73980674,-117.824031,Tustin,CA,United States}	{Food,}
+1819	Sat Feb 26 03:12:54 +0000 2011	4aa05973f964a520463f20e3	{Haven Gastropub}	{33.786278939134874,-117.85325467586517,Orange,CA,United States}	{Food,}
+1819	Fri Feb 25 04:34:21 +0000 2011	4ac532aff964a520e4b020e3	{24 Hour Fitness}	{33.64343,-117.921566,Costa Mesa,CA,United States}	{Shop & Service,}
+1819	Fri Feb 25 01:01:12 +0000 2011	4ccfb397f6378cfab14eb0d6	{Primal Fitness Centers}	{33.69321750210391,-117.83324634977751,Irvine,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+1819	Thu Feb 24 04:59:46 +0000 2011	4a9053c4f964a5204c1720e3	{Ralphs}	{33.69670846343234,-117.74258136749268,Irvine,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1819	Thu Feb 24 03:41:16 +0000 2011	4ac2afa8f964a520599a20e3	{24 Hour Fitness}	{33.6495269841383,-117.838844243549,Irvine,CA,United States}	{Shop & Service,}
+1819	Wed Feb 23 04:33:27 +0000 2011	4b65e377f964a52055062be3	{Ruby's Diner}	{33.63034893,-117.91089,Costa Mesa,CA,United States}	{Food,}
+1819	Wed Feb 23 00:46:20 +0000 2011	4ccfb397f6378cfab14eb0d6	{Primal Fitness Centers}	{33.69321750210391,-117.83324634977751,Irvine,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+1819	Tue Feb 22 18:07:39 +0000 2011	4ba8e583f964a52011f839e3	{Powder Blue Productions}	{33.63145073669896,-117.74095058441162,Irvine,CA,United States}	{Professional & Other Places,}
+1819	Tue Feb 22 18:07:28 +0000 2011	4ca227e5d7c337047afe9562	{Powder Blue - Upstairs}	{33.631646,-117.740836,Laguna Hills,CA,United States}	{Professional & Other Places,}
+1819	Tue Feb 22 18:07:16 +0000 2011	4ca0ee1f8afca093ed0d1716	{Powder Blue Kitchen}	{33.631662,-117.740875,Laguna Hills,CA,United States}	{Food,}
+1819	Tue Feb 22 17:57:08 +0000 2011	4b4fbd4cf964a520661327e3	{Fresh & Easy Neighborhood Market}	{33.61865770934298,-117.73200273513794,Laguna Hills,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1819	Mon Feb 21 02:08:26 +0000 2011	458278cdf964a520783f1fe3	{Bandera}	{33.59628321449781,-117.8711986541748,Newport Beach,CA,United States}	{Food,}
+1819	Sun Feb 20 00:08:48 +0000 2011	4a7cdd8cf964a520e3ed1fe3	{Costco Wholesale}	{33.66041563202108,-117.74482369422913,Irvine,CA,United States}	{Shop & Service,Food,}
+1819	Sat Feb 19 21:32:35 +0000 2011	4b5b5c45f964a520e3f728e3	{Gyu-Kaku Huntington Beach}	{33.71531212525122,-117.99025942882297,Huntington Beach,CA,United States}	{Food,}
+1819	Sat Feb 19 20:19:37 +0000 2011	4b48d048f964a520345826e3	{Starbucks}	{33.68150126588241,-117.81187891960144,Irvine,CA,United States}	{Food,}
+1819	Sat Feb 19 03:50:28 +0000 2011	412a8500f964a5207f0c1fe3	{Yard House}	{33.65035092225259,-117.74502754211426,Irvine,CA,United States}	{Nightlife Spot,Food,}
+1819	Fri Feb 18 16:20:57 +0000 2011	4ba8e583f964a52011f839e3	{Powder Blue Productions}	{33.63145073669896,-117.74095058441162,Irvine,CA,United States}	{Professional & Other Places,}
+1819	Thu Feb 17 03:41:44 +0000 2011	4ac2afa8f964a520599a20e3	{24 Hour Fitness}	{33.6495269841383,-117.838844243549,Irvine,CA,United States}	{Shop & Service,}
+1819	Wed Feb 16 03:47:56 +0000 2011	4a9053c4f964a5204c1720e3	{Ralphs}	{33.69670846343234,-117.74258136749268,Irvine,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1819	Tue Feb 15 23:38:27 +0000 2011	4c36609552dfef3bc8beee70	{The Johnsons house/zoo}	{33.59776716819867,-117.70801332293695,Laguna hills,CA,United States}	{Residence,}
+1819	Tue Feb 15 01:40:14 +0000 2011	45db8eb5f964a520fd421fe3	{Disney California Adventure Park}	{33.80798489664312,-117.91896778777333,Anaheim,CA,United States}	{Arts & Entertainment,}
+1819	Tue Feb 15 00:39:24 +0000 2011	4aadba50f964a520596120e3	{Mickey & Friends Parking Structure}	{33.81481057349054,-117.92484283447264,Anaheim,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1819	Mon Feb 14 22:34:08 +0000 2011	4a71d4faf964a520acd91fe3	{Tranquil Tea Lounge}	{33.8723623752594,-117.92469506000002,Fullerton,CA,United States}	{Food,Arts & Entertainment,}
+1819	Mon Feb 14 17:21:23 +0000 2011	4ba8e583f964a52011f839e3	{Powder Blue Productions}	{33.63145073669896,-117.74095058441162,Irvine,CA,United States}	{Professional & Other Places,}
+1819	Sun Feb 13 19:07:40 +0000 2011	4b64a178f964a520ccc32ae3	{Orange County Great Park}	{33.673438,-117.741964,Irvine,CA,United States}	{Outdoors & Recreation,}
+1819	Sun Feb 13 16:51:18 +0000 2011	4b4a6bfbf964a520178726e3	{The Cliff}	{33.5397895033806,-117.78195083141327,Laguna Beach,CA,United States}	{Nightlife Spot,Food,}
+1819	Sat Feb 12 04:29:14 +0000 2011	4b118d33f964a5201d7f23e3	{El Torito}	{33.78535826166042,-117.89138495922089,Orange,CA,United States}	{Food,}
+1819	Fri Feb 11 16:34:36 +0000 2011	4ba8e583f964a52011f839e3	{Powder Blue Productions}	{33.63145073669896,-117.74095058441162,Irvine,CA,United States}	{Professional & Other Places,}
+1819	Fri Feb 11 16:20:13 +0000 2011	4ca227e5d7c337047afe9562	{Powder Blue - Upstairs}	{33.631646,-117.740836,Laguna Hills,CA,United States}	{Professional & Other Places,}
+1819	Fri Feb 11 16:20:13 +0000 2011	4ca227e5d7c337047afe9562	{Powder Blue - Upstairs}	{33.631646,-117.740836,Laguna Hills,CA,United States}	{Professional & Other Places,}
+1819	Fri Feb 11 04:09:35 +0000 2011	4ba8e583f964a52011f839e3	{Powder Blue Productions}	{33.63145073669896,-117.74095058441162,Irvine,CA,United States}	{Professional & Other Places,}
+1819	Fri Feb 11 04:07:49 +0000 2011	4ca227e5d7c337047afe9562	{Powder Blue - Upstairs}	{33.631646,-117.740836,Laguna Hills,CA,United States}	{Professional & Other Places,}
+1819	Fri Feb 11 01:03:33 +0000 2011	4ccfb397f6378cfab14eb0d6	{Primal Fitness Centers}	{33.69321750210391,-117.83324634977751,Irvine,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+1819	Thu Feb 10 15:55:19 +0000 2011	4ca227e5d7c337047afe9562	{Powder Blue - Upstairs}	{33.631646,-117.740836,Laguna Hills,CA,United States}	{Professional & Other Places,}
+1819	Thu Feb 10 15:55:05 +0000 2011	4ba8e583f964a52011f839e3	{Powder Blue Productions}	{33.63145073669896,-117.74095058441162,Irvine,CA,United States}	{Professional & Other Places,}
+1819	Thu Feb 10 04:00:50 +0000 2011	4b9d66bff964a52004aa36e3	{Portola Place Apartments}	{33.69594621999559,-117.71502687139584,Irvine,CA,United States}	{Outdoors & Recreation,Residence,}
+1819	Thu Feb 10 02:21:03 +0000 2011	4ac2afa8f964a520599a20e3	{24 Hour Fitness}	{33.6495269841383,-117.838844243549,Irvine,CA,United States}	{Shop & Service,}
+1819	Thu Feb 10 00:07:42 +0000 2011	4ba8e583f964a52011f839e3	{Powder Blue Productions}	{33.63145073669896,-117.74095058441162,Irvine,CA,United States}	{Professional & Other Places,}
+1819	Wed Feb 09 16:05:14 +0000 2011	4ca227e5d7c337047afe9562	{Powder Blue - Upstairs}	{33.631646,-117.740836,Laguna Hills,CA,United States}	{Professional & Other Places,}
+1819	Wed Feb 09 16:04:37 +0000 2011	4ba8e583f964a52011f839e3	{Powder Blue Productions}	{33.63145073669896,-117.74095058441162,Irvine,CA,United States}	{Professional & Other Places,}
+1819	Wed Feb 09 00:44:07 +0000 2011	4ccfb397f6378cfab14eb0d6	{Primal Fitness Centers}	{33.69321750210391,-117.83324634977751,Irvine,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+1819	Mon Feb 07 04:51:16 +0000 2011	4a2f650bf964a520c5981fe3	{Long Beach Airport (LGB)}	{33.81851869758065,-118.1443977355957,Long Beach,CA,United States}	{Travel & Transport,}
+1819	Sun Jan 30 21:06:44 +0000 2011	4a5f76fbf964a5209ebf1fe3	{Target}	{33.699859368851435,-117.82782196998596,Tustin,CA,United States}	{Shop & Service,Professional & Other Places,}
+1819	Sun Jan 30 17:48:36 +0000 2011	4ba9b00ef964a52069343ae3	{Columbus Square}	{33.71374511339555,-117.82528136173623,,CA,United States}	{Residence,}
+1819	Sun Jan 30 04:36:43 +0000 2011	4ba9b00ef964a52069343ae3	{Columbus Square}	{33.71374511339555,-117.82528136173623,,CA,United States}	{Residence,}
+1819	Sat Jan 29 00:38:14 +0000 2011	4a9b2cbff964a520a83420e3	{Best Buy}	{33.72131459,-117.79504,Tustin,CA,United States}	{Shop & Service,}
+1819	Fri Jan 28 21:39:23 +0000 2011	4ba8e583f964a52011f839e3	{Powder Blue Productions}	{33.63145073669896,-117.74095058441162,Irvine,CA,United States}	{Professional & Other Places,}
+1819	Thu Jan 27 19:46:29 +0000 2011	4ba8e583f964a52011f839e3	{Powder Blue Productions}	{33.63145073669896,-117.74095058441162,Irvine,CA,United States}	{Professional & Other Places,}
+1819	Thu Jan 27 17:48:53 +0000 2011	4c36609552dfef3bc8beee70	{The Johnsons house/zoo}	{33.59776716819867,-117.70801332293695,Laguna hills,CA,United States}	{Residence,}
+1819	Thu Jan 27 04:10:55 +0000 2011	4b0d9654f964a520ac4b23e3	{Thai Kitchen}	{33.68154829,-117.805308,Irvine,CA,United States}	{Food,}
+1819	Wed Jan 26 02:32:16 +0000 2011	49b5e6aaf964a52005531fe3	{The Waffle}	{34.098031689440866,-118.32585599963838,Los Angeles,CA,United States}	{Food,}
+1819	Tue Jan 25 20:56:11 +0000 2011	4b58cbeaf964a520a96b28e3	{The Ellen DeGeneres Show}	{34.147584,-118.34199503264892,Burbank,CA,United States}	{Arts & Entertainment,}
+1819	Tue Jan 25 20:07:06 +0000 2011	4331f400f964a52006281fe3	{Warner Bros. Studios}	{34.147660747214005,-118.33873820561311,Burbank,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1819	Tue Jan 25 03:13:00 +0000 2011	4b72251af964a520fc702de3	{Kragen Auto Parts}	{33.696903,-117.79995,,CA,United States}	{Shop & Service,}
+1819	Tue Jan 25 03:07:01 +0000 2011	4bbeae22f353d13a03a47d10	{AutoZone}	{33.73276067882023,-117.82688051462173,Tustin,CA,United States}	{Shop & Service,}
+1819	Tue Jan 25 01:26:29 +0000 2011	4b5b3c3df964a5202ded28e3	{USA Express Tire}	{33.545092,-117.783243,,,United States}	{}
+1819	Sun Jan 23 06:36:55 +0000 2011	4c175fb9368220a191393657	{Atlantic Bar & Grill}	{34.100656,-118.32930386066437,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+1819	Sat Jan 22 21:58:46 +0000 2011	4c53794e1b46c9b684fafccc	{Next Nails & Spa}	{33.702471366666664,-117.88457658333333,Santa Ana,CA,United States}	{Shop & Service,}
+1819	Sat Jan 22 21:44:33 +0000 2011	4b9f986ff964a520c22d37e3	{Chick-fil-A}	{33.69966076703546,-117.88499593734741,Santa Ana,CA,United States}	{Food,}
+1819	Sat Jan 22 21:24:11 +0000 2011	45a9d338f964a52025411fe3	{South Coast Plaza}	{33.69101333272498,-117.88911581039427,Costa Mesa,CA,United States}	{Shop & Service,}
+1819	Wed Jan 19 00:56:01 +0000 2011	4c621402ec94a59360a828ca	{American Gym}	{33.63408703,-117.931596,Costa Mesa,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+1819	Tue Jan 18 00:39:24 +0000 2011	4ccfb397f6378cfab14eb0d6	{Primal Fitness Centers}	{33.69321750210391,-117.83324634977751,Irvine,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+1819	Sat Jan 15 02:05:50 +0000 2011	4c36962e2c8020a1e4b08700	{Cham Sut Gol Korean BBQ}	{33.77336534348835,-117.96950423800753,Garden Grove,CA,United States}	{Food,}
+1819	Fri Jan 14 02:42:08 +0000 2011	4afecc57f964a5207b3022e3	{24 Hour Fitness}	{33.695557,-117.796998,Irvine,CA,United States}	{Shop & Service,}
+1819	Thu Jan 13 04:23:55 +0000 2011	4cb66a3d55af224bbf049a7e	{OCDinDinAGoGo @ Irvine Lanes}	{33.671641,-117.832799,Irvine,CA,United States}	{Food,}
+1819	Mon Jan 10 03:15:34 +0000 2011	4cb557a758b6ef3b0361270c	{Flynn's Arcade}	{33.808098103503234,-117.91664600372314,Anaheim,CA,United States}	{Arts & Entertainment,}
+1819	Mon Jan 10 02:21:03 +0000 2011	45db8eb5f964a520fd421fe3	{Disney California Adventure Park}	{33.80798489664312,-117.91896778777333,Anaheim,CA,United States}	{Arts & Entertainment,}
+1819	Sun Jan 09 23:20:59 +0000 2011	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+1819	Sun Jan 09 21:26:28 +0000 2011	4a84c4a6f964a5208ffd1fe3	{Tortilla Jo's}	{33.80932385943949,-117.92360097169876,Anaheim,CA,United States}	{Food,}
+1819	Sun Jan 09 20:49:00 +0000 2011	4ac7e458f964a52064ba20e3	{Mickey & Friends Tram}	{33.813526,-117.924671,Anaheim,CA,United States}	{Travel & Transport,Arts & Entertainment,Theme Park,}
+1819	Sun Jan 09 19:26:13 +0000 2011	4c110648ce640f47d7d33a52	{Chevron}	{33.63881446,-117.920547,Costa Mesa,CA,United States}	{Shop & Service,}
+1819	Sun Jan 09 19:22:37 +0000 2011	4c110648ce640f47d7d33a52	{Chevron}	{33.63881446,-117.920547,Costa Mesa,CA,United States}	{Shop & Service,}
+1819	Sun Jan 09 19:06:52 +0000 2011	4b5ac9bdf964a520a9d428e3	{Seaside Donuts Bakery}	{33.608571,-117.929088,Newport Beach,CA,United States}	{Food,}
+1819	Sat Jan 08 19:27:07 +0000 2011	4ba9b00ef964a52069343ae3	{Columbus Square}	{33.71374511339555,-117.82528136173623,,CA,United States}	{Residence,}
+1819	Fri Jan 07 20:29:46 +0000 2011	4c36609552dfef3bc8beee70	{The Johnsons house/zoo}	{33.59776716819867,-117.70801332293695,Laguna hills,CA,United States}	{Residence,}
+1819	Fri Jan 07 00:45:51 +0000 2011	4a78e0fff964a520a5e61fe3	{24 Hour Fitness}	{33.62666527961578,-117.67796004751844,Mission Viejo,CA,United States}	{Shop & Service,}
+1819	Thu Jan 06 04:11:28 +0000 2011	4ac2afa8f964a520599a20e3	{24 Hour Fitness}	{33.6495269841383,-117.838844243549,Irvine,CA,United States}	{Shop & Service,}
+1819	Thu Jan 06 04:10:17 +0000 2011	4ac2afa8f964a520599a20e3	{24 Hour Fitness}	{33.6495269841383,-117.838844243549,Irvine,CA,United States}	{Shop & Service,}
+1819	Thu Dec 30 22:40:00 +0000 2010	4bde00906198c9b6829112ff	{Starbucks}	{33.70635666488057,-117.78816504554524,Irvine,CA,United States}	{Food,}
+1819	Thu Dec 30 21:26:40 +0000 2010	4aa417dcf964a520404520e3	{Target}	{33.68517498567542,-117.8124475479126,Irvine,CA,United States}	{Shop & Service,}
+1819	Thu Dec 30 20:28:51 +0000 2010	4b3bb943f964a520ae7925e3	{Stonefire Grill}	{33.685499018751244,-117.81142552044201,Irvine,CA,United States}	{Food,}
+1819	Thu Dec 30 04:19:21 +0000 2010	4a8582b4f964a5205efe1fe3	{Starbucks}	{33.696130487361,-117.76279717683792,Irvine,CA,United States}	{Food,}
+1819	Thu Dec 30 04:18:37 +0000 2010	4b4b4c0ff964a520cf9626e3	{Pho Ha Noi}	{33.696360339314445,-117.76282668113708,Irvine,CA,United States}	{Food,}
+1819	Wed Dec 29 04:13:49 +0000 2010	4b146d54f964a520fba223e3	{Pat & Oscar's}	{33.69664869883875,-117.88514333219047,Santa Ana,CA,United States}	{Food,}
+1819	Mon Dec 27 17:22:58 +0000 2010	4b2c1083f964a520c3c024e3	{Mountain High Ski Resort (Mt High)}	{34.37675507408885,-117.6913833618164,Wrightwood,CA,United States}	{Outdoors & Recreation,Ski Area,}
+1819	Sun Dec 26 05:24:10 +0000 2010	4bfc5de5e9d8c9285972b2c7	{The Ranch}	{33.686615709091924,-117.78598368834386,Irvine,CA,United States}	{Residence,}
+1819	Sat Dec 25 21:50:24 +0000 2010	4c19441c98f4a59381d1fff5	{Orcutt}	{34.86524650051743,-120.43590545654297,Orcutt,CA,United States}	{Travel & Transport,}
+1819	Sat Dec 25 19:58:40 +0000 2010	4bb79976b35776b0c0d9c701	{Glen Annie Golf Course}	{34.44354798291897,-119.88204002380371,Goleta,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1819	Sat Dec 25 04:05:16 +0000 2010	4b25c5f8f964a520117624e3	{ROCKHARBOR - Central}	{33.673611460311044,-117.87606758013108,Costa Mesa,CA,United States}	{Spiritual Center,Professional & Other Places,}
+1819	Sat Dec 25 00:37:30 +0000 2010	4a5bc475f964a520bdbb1fe3	{Honda Center}	{33.80785622955976,-117.87656517386878,Anaheim,CA,United States}	{Stadium,Arts & Entertainment,}
+1819	Fri Dec 24 07:25:41 +0000 2010	47039ff5f964a520424b1fe3	{Space Mountain}	{33.81144023055639,-117.91740842163563,Anaheim,CA,United States}	{Arts & Entertainment,Theme Park,}
+1819	Fri Dec 24 06:08:25 +0000 2010	4c7736a5947ca1cd94f74637	{World of Color}	{33.80581216949732,-117.92142035786982,Anaheim,CA,United States}	{Arts & Entertainment,Theme Park,}
+1819	Fri Dec 24 00:39:32 +0000 2010	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+1819	Thu Dec 23 23:26:35 +0000 2010	4aff5daef964a520d13722e3	{Disney's Aladdin - A Musical Spectacular}	{33.80737023450549,-117.91690074747156,Anaheim,CA,United States}	{Performing Arts Venue,Arts & Entertainment,Theme Park,}
+1819	Thu Dec 23 20:15:45 +0000 2010	45db8eb5f964a520fd421fe3	{Disney California Adventure Park}	{33.80798489664312,-117.91896778777333,Anaheim,CA,United States}	{Arts & Entertainment,}
+1819	Wed Dec 22 02:29:48 +0000 2010	49ea58d3f964a52054661fe3	{Goldilocks Restaurant & Bakeshop}	{34.141219550870616,-118.22525024414062,Los Angeles,CA,United States}	{Food,}
+1819	Mon Dec 20 21:50:50 +0000 2010	4ca227e5d7c337047afe9562	{Powder Blue - Upstairs}	{33.631646,-117.740836,Laguna Hills,CA,United States}	{Professional & Other Places,}
+1819	Mon Dec 20 03:11:58 +0000 2010	4a792d7cf964a520ffe61fe3	{Guppy Teahouse}	{33.68886491948083,-117.83371570942431,Irvine,CA,United States}	{Food,}
+1819	Sun Dec 19 23:05:46 +0000 2010	4a80e20df964a52066f61fe3	{Edwards Irvine Spectrum 21 IMAX & RPX}	{33.65195403158847,-117.74535477161407,Irvine,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1819	Sat Dec 18 04:28:57 +0000 2010	4bde00906198c9b6829112ff	{Starbucks}	{33.70635666488057,-117.78816504554524,Irvine,CA,United States}	{Food,}
+1819	Sat Dec 18 02:59:40 +0000 2010	4b01f80cf964a520e44622e3	{Claim Jumper}	{33.759603383333335,-117.8345274925232,Santa Ana,CA,United States}	{Food,}
+1819	Fri Dec 17 03:28:14 +0000 2010	4b4a4693f964a520e98126e3	{OC Fair & Event Center}	{33.66585383619394,-117.9023551940918,Costa Mesa,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1819	Thu Dec 16 01:54:01 +0000 2010	4c3fafa7d7fad13ac0f204da	{Dr. Irineo G. Garcia D.D.S.}	{33.72659504413605,-117.85218715667725,Santa Ana,CA,United States}	{Medical Center,Professional & Other Places,}
+1819	Wed Dec 15 05:06:24 +0000 2010	4b53934ef964a52005a327e3	{Bath & Body Works}	{33.72661360917467,-117.79357538682,Tustin,CA,United States}	{Shop & Service,}
+1819	Tue Dec 14 06:00:20 +0000 2010	4b00a9d8f964a5205e4022e3	{Chipotle Mexican Grill}	{33.650859990848105,-117.74286568164825,Irvine,CA,United States}	{Food,}
+1819	Mon Dec 13 03:46:52 +0000 2010	4b660628f964a5201b0f2be3	{Century Theatres}	{33.73291053139245,-117.99287867781445,Huntington Beach,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1819	Sun Dec 12 22:06:40 +0000 2010	4c02c4609a7920a118f2ce79	{Orange County Christian Evangelical Church}	{33.689118,-117.840795,Irvine,CA,United States}	{Spiritual Center,Professional & Other Places,}
+1819	Sat Dec 11 07:32:27 +0000 2010	4ae2595af964a520808d21e3	{Tokyo Delve's Sushi Bar}	{34.16594994084682,-118.3754160013696,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+1819	Fri Dec 10 02:42:09 +0000 2010	4cdd82cad4ecb1f767d88548	{Noonan's Christmas Trees}	{33.649388,-117.919873,Costa Mesa,CA,United States}	{Nightlife Spot,}
+1819	Thu Dec 09 22:47:50 +0000 2010	4ac7e458f964a52064ba20e3	{Mickey & Friends Tram}	{33.813526,-117.924671,Anaheim,CA,United States}	{Travel & Transport,Arts & Entertainment,Theme Park,}
+1819	Mon Dec 06 03:38:06 +0000 2010	4a5f76fbf964a5209ebf1fe3	{Target}	{33.699859368851435,-117.82782196998596,Tustin,CA,United States}	{Shop & Service,Professional & Other Places,}
+1819	Sun Dec 05 22:09:25 +0000 2010	4b4b4c0ff964a520cf9626e3	{Pho Ha Noi}	{33.696360339314445,-117.76282668113708,Irvine,CA,United States}	{Food,}
+1819	Sat Dec 04 05:40:20 +0000 2010	4bf33e003f86c9b6f1fbb11c	{Moon Park}	{33.69433405042668,-117.93391942977905,Costa Mesa,CA,United States}	{Outdoors & Recreation,}
+1819	Sat Dec 04 05:34:40 +0000 2010	4bf33e003f86c9b6f1fbb11c	{Moon Park}	{33.69433405042668,-117.93391942977905,Costa Mesa,CA,United States}	{Outdoors & Recreation,}
+1819	Fri Dec 03 05:15:19 +0000 2010	4bd736270b779c7481ab04a0	{George's Thai Bistro}	{33.68032127304566,-117.91757426743877,Costa Mesa,CA,United States}	{Food,}
+1819	Fri Dec 03 03:23:44 +0000 2010	4ac532aff964a520e4b020e3	{24 Hour Fitness}	{33.64343,-117.921566,Costa Mesa,CA,United States}	{Shop & Service,}
+1819	Thu Dec 02 15:51:27 +0000 2010	4c36609552dfef3bc8beee70	{The Johnsons house/zoo}	{33.59776716819867,-117.70801332293695,Laguna hills,CA,United States}	{Residence,}
+1819	Thu Dec 02 04:49:16 +0000 2010	4ac2afa8f964a520599a20e3	{24 Hour Fitness}	{33.6495269841383,-117.838844243549,Irvine,CA,United States}	{Shop & Service,}
+1819	Wed Dec 01 20:26:54 +0000 2010	4c36609552dfef3bc8beee70	{The Johnsons house/zoo}	{33.59776716819867,-117.70801332293695,Laguna hills,CA,United States}	{Residence,}
+1819	Wed Dec 01 19:22:50 +0000 2010	4c36609552dfef3bc8beee70	{The Johnsons house/zoo}	{33.59776716819867,-117.70801332293695,Laguna hills,CA,United States}	{Residence,}
+1819	Mon Nov 29 04:19:26 +0000 2010	4a85f33bf964a520c7ff1fe3	{IKEA}	{33.69040630593994,-117.91617393493652,Costa Mesa,CA,United States}	{Shop & Service,}
+1819	Mon Nov 29 02:19:37 +0000 2010	4a6ff170f964a52026d71fe3	{Edwards Market Place Stadium 10}	{33.72280482842427,-117.79056072235107,Irvine,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1819	Sun Nov 28 21:38:33 +0000 2010	4a9493caf964a5200c2220e3	{El Torito Grill}	{33.684789763152075,-117.85272948400682,Irvine,CA,United States}	{Nightlife Spot,Food,}
+1819	Sun Nov 28 06:20:15 +0000 2010	4a075e27f964a52053731fe3	{Edwards Metro Pointe 12}	{33.68903155295892,-117.89591789245605,Costa Mesa,CA,United States}	{Arts & Entertainment,}
+1819	Sun Nov 28 03:17:09 +0000 2010	4adcb8e9f964a520132f21e3	{Hooters of Costa Mesa}	{33.69081094067202,-117.92112712624903,Costa Mesa,CA,United States}	{Nightlife Spot,Food,}
+1819	Sat Nov 27 22:45:04 +0000 2010	4cd091467561236a13082df3	{Bruxie}	{33.79137202386545,-117.85321041941643,Orange,CA,United States}	{Food,}
+1819	Sat Nov 27 00:35:26 +0000 2010	4a9c1749f964a520f53520e3	{Best Buy}	{33.695949729567644,-117.82619655132294,Tustin,CA,United States}	{Shop & Service,}
+1819	Fri Nov 26 23:09:21 +0000 2010	4aa417dcf964a520404520e3	{Target}	{33.68517498567542,-117.8124475479126,Irvine,CA,United States}	{Shop & Service,}
+1819	Fri Nov 26 03:20:42 +0000 2010	4b87f661f964a52071d531e3	{Rancho Palos Verdes Estates}	{33.744114178970904,-118.32866140184572,,CA,United States}	{Outdoors & Recreation,College & University,Residence,}
+1819	Fri Nov 26 00:56:54 +0000 2010	4ba512bdf964a52041d938e3	{CA-1 (Pacific Coast Highway)}	{33.81606297472537,-118.37766945362091,Southern California,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1819	Thu Nov 25 21:56:41 +0000 2010	4c635de9eb82d13aa3e707d6	{Tuscany Condominiums}	{33.680991685832495,-117.65484326822884,Foothill Ranch,CA,United States}	{Residence,}
+1819	Tue Nov 23 17:52:18 +0000 2010	4c8ce88cb37395214f410cc0	{ExtraTV at The Grove}	{34.07196432708613,-118.35734367370605,Los Angeles,CA,United States}	{Arts & Entertainment,}
+1819	Tue Nov 23 03:24:54 +0000 2010	4c32d6a17cc0c9b67debf09a	{24 Hour Fitness}	{33.72282267548109,-117.78794288635254,Irvine,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+1819	Sun Nov 21 04:45:45 +0000 2010	4a80e20df964a52066f61fe3	{Edwards Irvine Spectrum 21 IMAX & RPX}	{33.65195403158847,-117.74535477161407,Irvine,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1819	Sat Nov 20 04:55:08 +0000 2010	4b81841bf964a520c2ab30e3	{Lazy Dog Cafe}	{33.72858708066024,-117.78794825077057,Irvine,CA,United States}	{Food,}
+1819	Fri Nov 19 06:58:12 +0000 2010	4c029fb258dad13abaf34797	{M&M Donuts}	{33.80282938167959,-117.93776035308838,Anaheim,CA,United States}	{Food,}
+1819	Mon Nov 15 04:49:09 +0000 2010	4c36962e2c8020a1e4b08700	{Cham Sut Gol Korean BBQ}	{33.77336534348835,-117.96950423800753,Garden Grove,CA,United States}	{Food,}
+1819	Sat Nov 13 20:57:11 +0000 2010	4a7cdd8cf964a520e3ed1fe3	{Costco Wholesale}	{33.66041563202108,-117.74482369422913,Irvine,CA,United States}	{Shop & Service,Food,}
+1819	Fri Nov 12 03:34:58 +0000 2010	4a7a4f2ef964a5201de91fe3	{Riptide Sushi}	{33.56074373422427,-117.6710844039917,Mission Viejo,CA,United States}	{Food,}
+1819	Wed Nov 10 16:00:40 +0000 2010	428bd700f964a52099231fe3	{24 Hour Fitness}	{33.6432776964404,-117.742837898828,Irvine,CA,United States}	{Shop & Service,}
+1819	Sat Nov 06 04:40:19 +0000 2010	4335e880f964a52020281fe3	{Here Lounge}	{34.083594391928706,-118.38522468738594,West Hollywood,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+1819	Sat Nov 06 02:16:26 +0000 2010	4a55476bf964a520fdb31fe3	{Target}	{34.089701053000745,-118.34459781646729,West Hollywood,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1819	Fri Nov 05 22:56:14 +0000 2010	49fe6d4ef964a520a16f1fe3	{Pacific Theatres at The Grove}	{34.071863236652966,-118.35784524679184,Los Angeles,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1819	Mon Nov 01 04:10:44 +0000 2010	4b401294f964a52042b525e3	{Avila's El Ranchito}	{33.650889,-117.932357,Costa Mesa,CA,United States}	{Food,}
+1819	Mon Nov 01 00:43:41 +0000 2010	4ca2b2e1d5a2a14387634390	{Peter Pan The Show}	{42.36047831940106,-71.0595703125,Boston,MA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+1819	Sat Oct 30 03:06:14 +0000 2010	412a8500f964a5207f0c1fe3	{Yard House}	{33.65035092225259,-117.74502754211426,Irvine,CA,United States}	{Nightlife Spot,Food,}
+1819	Sat Oct 30 00:51:08 +0000 2010	4aac69f7f964a520e45d20e3	{Dave & Buster's}	{33.65101626291111,-117.74363699801864,Irvine,CA,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+1819	Fri Oct 29 20:02:57 +0000 2010	4c3fafa7d7fad13ac0f204da	{Dr. Irineo G. Garcia D.D.S.}	{33.72659504413605,-117.85218715667725,Santa Ana,CA,United States}	{Medical Center,Professional & Other Places,}
+1819	Fri Oct 29 18:41:54 +0000 2010	4c36609552dfef3bc8beee70	{The Johnsons house/zoo}	{33.59776716819867,-117.70801332293695,Laguna hills,CA,United States}	{Residence,}
+1819	Fri Oct 29 18:41:54 +0000 2010	4c36609552dfef3bc8beee70	{The Johnsons house/zoo}	{33.59776716819867,-117.70801332293695,Laguna hills,CA,United States}	{Residence,}
+1819	Wed Oct 27 01:37:19 +0000 2010	4a6cb2ebf964a5204ed11fe3	{Costco Wholesale}	{33.69973103225719,-117.82333500455927,Tustin,CA,United States}	{Shop & Service,}
+1819	Wed Oct 27 01:17:57 +0000 2010	4a9065fef964a520a11720e3	{Jo-Ann Fabric & Craft}	{33.6996226534302,-117.83652039437135,Irvine,CA,United States}	{Shop & Service,}
+1819	Tue Oct 26 23:31:02 +0000 2010	4a61408cf964a52030c21fe3	{Michaels}	{33.694855,-117.826687,Tustin,CA,United States}	{Shop & Service,}
+1819	Tue Oct 26 23:30:30 +0000 2010	4a61408cf964a52030c21fe3	{Michaels}	{33.694855,-117.826687,Tustin,CA,United States}	{Shop & Service,}
+1819	Mon Oct 25 23:40:30 +0000 2010	4a9065fef964a520a11720e3	{Jo-Ann Fabric & Craft}	{33.6996226534302,-117.83652039437135,Irvine,CA,United States}	{Shop & Service,}
+1819	Thu Oct 21 22:53:42 +0000 2010	4c3fafa7d7fad13ac0f204da	{Dr. Irineo G. Garcia D.D.S.}	{33.72659504413605,-117.85218715667725,Santa Ana,CA,United States}	{Medical Center,Professional & Other Places,}
+1819	Thu Oct 21 22:53:42 +0000 2010	4c3fafa7d7fad13ac0f204da	{Dr. Irineo G. Garcia D.D.S.}	{33.72659504413605,-117.85218715667725,Santa Ana,CA,United States}	{Medical Center,Professional & Other Places,}
+1819	Wed Oct 20 01:25:06 +0000 2010	4a6cb372f964a5204fd11fe3	{Costco Wholesale}	{33.728613849440585,-117.79649376869202,Tustin,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1819	Wed Oct 20 00:27:43 +0000 2010	4b58a0fef964a520486228e3	{CVS Pharmacy}	{33.69620753,-117.79952,Irvine,CA,United States}	{Shop & Service,}
+1819	Tue Oct 19 22:50:23 +0000 2010	4c3fafa7d7fad13ac0f204da	{Dr. Irineo G. Garcia D.D.S.}	{33.72659504413605,-117.85218715667725,Santa Ana,CA,United States}	{Medical Center,Professional & Other Places,}
+1819	Sun Oct 17 19:29:13 +0000 2010	4a7a4f2ef964a5201de91fe3	{Riptide Sushi}	{33.56074373422427,-117.6710844039917,Mission Viejo,CA,United States}	{Food,}
+1819	Sat Oct 16 00:08:51 +0000 2010	4ac7d676f964a5200bba20e3	{ULTA Beauty}	{33.69578013,-117.8268671,Tustin,CA,United States}	{Shop & Service,}
+1819	Fri Oct 15 23:42:26 +0000 2010	4ba51e07f964a52088df38e3	{Diva's Threading}	{33.70299230753698,-117.88600444793701,Santa Ana,CA,United States}	{Shop & Service,}
+1819	Fri Oct 15 19:03:28 +0000 2010	4c36609552dfef3bc8beee70	{The Johnsons house/zoo}	{33.59776716819867,-117.70801332293695,Laguna hills,CA,United States}	{Residence,}
+1819	Fri Oct 15 01:51:32 +0000 2010	4c53794e1b46c9b684fafccc	{Next Nails & Spa}	{33.702471366666664,-117.88457658333333,Santa Ana,CA,United States}	{Shop & Service,}
+1819	Thu Oct 14 23:34:08 +0000 2010	4c196c0c98f4a593a61e00f6	{Carlton Hair International}	{33.69160250168076,-117.88780689239502,Costa Mesa,CA,United States}	{Shop & Service,}
+1819	Wed Oct 13 03:25:02 +0000 2010	49ccf8e9f964a520a5591fe3	{Verizon Wireless Amphitheatre}	{33.637613,-117.749699,Irvine,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+1819	Tue Oct 12 00:07:38 +0000 2010	4ac7d676f964a5200bba20e3	{ULTA Beauty}	{33.69578013,-117.8268671,Tustin,CA,United States}	{Shop & Service,}
+1819	Mon Oct 11 14:06:40 +0000 2010	4ca227e5d7c337047afe9562	{Powder Blue - Upstairs}	{33.631646,-117.740836,Laguna Hills,CA,United States}	{Professional & Other Places,}
+1819	Sun Oct 10 19:01:58 +0000 2010	4a7a4f2ef964a5201de91fe3	{Riptide Sushi}	{33.56074373422427,-117.6710844039917,Mission Viejo,CA,United States}	{Food,}
+1819	Sun Oct 03 23:51:50 +0000 2010	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+1819	Sun Oct 03 22:43:52 +0000 2010	4703a234f964a5204b4b1fe3	{The Twilight Zone Tower of Terror}	{33.80683935374519,-117.91716165840626,Anaheim,CA,United States}	{Arts & Entertainment,Theme Park,}
+1819	Sun Oct 03 22:25:13 +0000 2010	4703a1abf964a520484b1fe3	{California Screamin'}	{33.804559784592094,-117.92067971579354,Anaheim,CA,United States}	{Arts & Entertainment,Theme Park,}
+1819	Sun Oct 03 21:58:14 +0000 2010	45db8eb5f964a520fd421fe3	{Disney California Adventure Park}	{33.80798489664312,-117.91896778777333,Anaheim,CA,United States}	{Arts & Entertainment,}
+1819	Sun Oct 03 21:44:39 +0000 2010	4c9d8c5d0df79c74d456181a	{Gay Days 2010 @ the Disneyland Resort}	{33.8090887385256,-117.91896343231201,Anaheim,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+1819	Sun Oct 03 01:57:31 +0000 2010	4b441340f964a52017f125e3	{Albertsons}	{33.6836573075876,-117.81371355056763,Irvine,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1819	Sun Oct 03 01:15:10 +0000 2010	4ba9b00ef964a52069343ae3	{Columbus Square}	{33.71374511339555,-117.82528136173623,,CA,United States}	{Residence,}
+1819	Sat Oct 02 23:03:58 +0000 2010	4a9ec31ef964a520123b20e3	{Doheny State Beach}	{33.46236191682077,-117.68576145172119,Dana Point,CA,United States}	{Outdoors & Recreation,Beach,}
+1819	Sat Oct 02 20:57:27 +0000 2010	4b441340f964a52017f125e3	{Albertsons}	{33.6836573075876,-117.81371355056763,Irvine,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1819	Sat Oct 02 19:19:24 +0000 2010	4b0b67d3f964a520283123e3	{Buffalo Wild Wings}	{33.62917725437147,-117.71877408027649,Lake Forest,CA,United States}	{Food,}
+1819	Sat Oct 02 04:09:10 +0000 2010	4b00a9d8f964a5205e4022e3	{Chipotle Mexican Grill}	{33.650859990848105,-117.74286568164825,Irvine,CA,United States}	{Food,}
+1819	Sat Oct 02 03:00:02 +0000 2010	4afddda0f964a520962b22e3	{The Home Depot}	{33.72466340069014,-117.79610499365154,Tustin,CA,United States}	{Shop & Service,}
+1819	Wed Sep 29 16:22:57 +0000 2010	4ca227e5d7c337047afe9562	{Powder Blue - Upstairs}	{33.631646,-117.740836,Laguna Hills,CA,United States}	{Professional & Other Places,}
+1819	Wed Sep 29 15:41:51 +0000 2010	4ca0ee1f8afca093ed0d1716	{Powder Blue Kitchen}	{33.631662,-117.740875,Laguna Hills,CA,United States}	{Food,}
+1819	Tue Sep 28 13:32:13 +0000 2010	4ba8e583f964a52011f839e3	{Powder Blue Productions}	{33.63145073669896,-117.74095058441162,Irvine,CA,United States}	{Professional & Other Places,}
+1819	Tue Sep 28 03:27:19 +0000 2010	4ba9b00ef964a52069343ae3	{Columbus Square}	{33.71374511339555,-117.82528136173623,,CA,United States}	{Residence,}
+1819	Tue Sep 28 03:25:32 +0000 2010	4b19bb8cf964a520fee223e3	{Sport Chalet}	{33.670969,-117.844731,Irvine,CA,United States}	{Outdoors & Recreation,Shop & Service,Athletics & Sports,}
+1819	Tue Sep 28 01:57:28 +0000 2010	4ac2afa8f964a520599a20e3	{24 Hour Fitness}	{33.6495269841383,-117.838844243549,Irvine,CA,United States}	{Shop & Service,}
+1819	Tue Sep 28 00:17:22 +0000 2010	4b035955f964a520d74e22e3	{Trader Joe's}	{33.70608943090539,-117.78832376003265,Irvine,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1819	Sat Sep 25 21:31:47 +0000 2010	4c2a9767d1a10f476fbbf664	{Adobo & Tacos}	{33.788259,-117.870088,Orange,CA,United States}	{Food,}
+1819	Sat Sep 25 17:31:36 +0000 2010	4bb030cdf964a520b03b3ce3	{El Moro Canyon}	{33.56857511805391,-117.82562255859375,Laguna Beach,CA,United States}	{Outdoors & Recreation,}
+1819	Sat Sep 25 02:37:20 +0000 2010	4ad90384f964a5201c1721e3	{Improv Comedy Club}	{33.65035092225259,-117.744619846344,Irvine,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+1819	Sat Sep 25 01:32:46 +0000 2010	4a91e193f964a520371c20e3	{The Cheesecake Factory}	{33.65109219657597,-117.74612993001938,Irvine,CA,United States}	{Food,}
+1819	Fri Sep 24 19:25:37 +0000 2010	4b7f08b3f964a520c71130e3	{The Flame Broiler}	{33.628848,-117.7296148,Laguna Hills,CA,United States}	{Food,}
+1819	Fri Sep 24 03:17:31 +0000 2010	4b09fd6ff964a520d12023e3	{P.F. Chang's}	{33.6525490499485,-117.74569138884544,Irvine,CA,United States}	{Food,}
+1819	Sun Sep 19 19:56:16 +0000 2010	4a9493caf964a5200c2220e3	{El Torito Grill}	{33.684789763152075,-117.85272948400682,Irvine,CA,United States}	{Nightlife Spot,Food,}
+1819	Sat Sep 18 22:25:04 +0000 2010	4c36962e2c8020a1e4b08700	{Cham Sut Gol Korean BBQ}	{33.77336534348835,-117.96950423800753,Garden Grove,CA,United States}	{Food,}
+1819	Sat Sep 18 04:07:28 +0000 2010	3fd66200f964a5202bf01ee3	{Barney's Beanery}	{34.09084305602956,-118.37464739072279,West Hollywood,CA,United States}	{Food,}
+1819	Wed Sep 15 04:44:09 +0000 2010	4b81841bf964a520c2ab30e3	{Lazy Dog Cafe}	{33.72858708066024,-117.78794825077057,Irvine,CA,United States}	{Food,}
+1819	Wed Sep 15 02:56:39 +0000 2010	4b9a9bd9f964a520fac535e3	{Paradise Pier}	{33.80525172412538,-117.92094834549376,Anaheim,CA,United States}	{Arts & Entertainment,Theme Park,}
+1819	Mon Sep 13 02:57:16 +0000 2010	4c6d8effef4b199c88847766	{Nha Hang 1.99 Restaurant}	{33.77474143168416,-117.92268898887062,Garden Grove,CA,United States}	{Food,}
+1819	Sun Sep 12 19:34:04 +0000 2010	4a8db18cf964a5208c1020e3	{Puente Hills Mall}	{33.99379322501359,-117.92793273925781,City of Industry,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1819	Sun Sep 12 04:58:04 +0000 2010	4ad12919f964a52024dd20e3	{Wheel of Life}	{33.705410566666664,-117.784825,Irvine,CA,United States}	{Food,}
+1819	Sun Sep 12 04:54:13 +0000 2010	4af27f6bf964a520cee721e3	{Ralphs}	{33.70490343899434,-117.78564016516856,Irvine,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1819	Sat Sep 11 20:52:35 +0000 2010	4bd75bf7f645c9b6f8c1a5e0	{Get Shaved Ice}	{34.23886,-118.536328,Northridge,CA,United States}	{Food,}
+1819	Sat Sep 11 18:29:25 +0000 2010	4adbb20bf964a520142a21e3	{Home Restaurant}	{34.10309169517856,-118.28728343650194,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+1819	Sat Sep 11 08:53:10 +0000 2010	4b678fc0f964a52053552be3	{Thai Patio}	{34.101933,-118.305913,Los Angeles,CA,United States}	{Food,}
+1819	Sat Sep 11 02:43:52 +0000 2010	4a612031f964a520f2c11fe3	{Forever 21}	{34.14430966266865,-118.25778007507324,Glendale,CA,United States}	{Shop & Service,Clothing Store,}
+1819	Sat Sep 11 02:42:02 +0000 2010	49c31443f964a52054561fe3	{The Americana at Brand}	{34.14381241092894,-118.25670719146729,Glendale,CA,United States}	{Shop & Service,Arts & Entertainment,}
+1819	Thu Sep 09 04:58:22 +0000 2010	4becd608bbe62d7f81787f2b	{Yes Plaza}	{33.98740985683564,-117.90733294613464,Rowland Heights,CA,United States}	{Shop & Service,Outdoors & Recreation,}
+1819	Mon Sep 06 04:52:44 +0000 2010	4becd608bbe62d7f81787f2b	{Yes Plaza}	{33.98740985683564,-117.90733294613464,Rowland Heights,CA,United States}	{Shop & Service,Outdoors & Recreation,}
+1819	Sun Sep 05 04:39:01 +0000 2010	4a542e59f964a5201bb31fe3	{Breakwall Bar & Grill}	{33.83896397485434,-118.39102149009705,Redondo Beach,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+1819	Sun Sep 05 03:52:58 +0000 2010	4a4fcd6cf964a520b6af1fe3	{Redondo Beach Pier}	{33.83898179772301,-118.39150428771973,Redondo Beach,CA,United States}	{Outdoors & Recreation,Food,}
+1819	Sun Sep 05 02:31:23 +0000 2010	4a77991ff964a520dde41fe3	{L&L Hawaiian Barbecue}	{33.90256430045421,-118.37196941613323,Hawthorne,CA,United States}	{Food,}
+1819	Sat Sep 04 23:23:07 +0000 2010	4a6ff170f964a52026d71fe3	{Edwards Market Place Stadium 10}	{33.72280482842427,-117.79056072235107,Irvine,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1819	Sat Sep 04 06:06:39 +0000 2010	4bccd541fb84c9b6031f213e	{Life Reflexology}	{33.736744,-117.953957,Westminster,CA,United States}	{Shop & Service,}
+1819	Fri Sep 03 15:51:54 +0000 2010	4bc4e188461576b03b988032	{Sunrise Medical}	{33.717206966666666,-117.81000307,Tustin,CA,United States}	{Medical Center,Professional & Other Places,}
+1819	Tue Aug 31 14:56:36 +0000 2010	4bc4e188461576b03b988032	{Sunrise Medical}	{33.717206966666666,-117.81000307,Tustin,CA,United States}	{Medical Center,Professional & Other Places,}
+1819	Wed Aug 25 03:40:27 +0000 2010	4a7a4f2ef964a5201de91fe3	{Riptide Sushi}	{33.56074373422427,-117.6710844039917,Mission Viejo,CA,United States}	{Food,}
+1819	Tue Aug 24 02:06:31 +0000 2010	4a5f76fbf964a5209ebf1fe3	{Target}	{33.699859368851435,-117.82782196998596,Tustin,CA,United States}	{Shop & Service,Professional & Other Places,}
+1819	Sun Aug 22 23:44:31 +0000 2010	4a1de2caf964a520a67b1fe3	{Versailles - Manhattan Beach}	{33.8858394946291,-118.39575740246892,Manhattan Beach,CA,United States}	{Food,}
+1819	Sun Aug 22 19:52:00 +0000 2010	4a0ddea8f964a520a9751fe3	{Northridge Fashion Center}	{34.23857471418914,-118.55578422546387,Northridge,CA,United States}	{Shop & Service,Clothing Store,}
+1819	Sun Aug 22 18:20:59 +0000 2010	474a2b79f964a520954c1fe3	{Porto's Bakery & Cafe}	{34.16779994361975,-118.34663713217746,Burbank,CA,United States}	{Food,}
+1819	Sun Aug 22 07:02:14 +0000 2010	4b5bbf05f964a520d01329e3	{Boba Loca}	{34.18166442653277,-118.30955349612863,Burbank,CA,United States}	{Food,}
+1819	Sun Aug 22 01:10:48 +0000 2010	4c7078e134443704a667245f	{Vincent Hill Vineyard}	{34.51272904815362,-118.11055620982704,Acton,CA,United States}	{Outdoors & Recreation,}
+1819	Sat Aug 21 19:25:32 +0000 2010	4bd75bf7f645c9b6f8c1a5e0	{Get Shaved Ice}	{34.23886,-118.536328,Northridge,CA,United States}	{Food,}
+1819	Sat Aug 21 18:20:15 +0000 2010	4ad7eab9f964a5200d1021e3	{Firing Line}	{34.1858472171157,-118.3224597740441,Burbank,CA,United States}	{Outdoors & Recreation,Shop & Service,Professional & Other Places,}
+1819	Sat Aug 21 17:16:56 +0000 2010	4af5ba68f964a520fdfb21e3	{More Than Waffles}	{34.159887254922474,-118.5077565908432,Encino,CA,United States}	{Food,}
+1819	Sat Aug 21 04:25:19 +0000 2010	4acfe8e0f964a520d7d620e3	{Chili's Grill & Bar}	{33.809230790365724,-117.86749498377763,Orange,CA,United States}	{Food,}
+1819	Thu Aug 19 04:14:16 +0000 2010	4a792d7cf964a520ffe61fe3	{Guppy Teahouse}	{33.68886491948083,-117.83371570942431,Irvine,CA,United States}	{Food,}
+1819	Wed Aug 18 02:14:29 +0000 2010	4b328b00f964a520330e25e3	{K1 Speed}	{33.69112183620626,-117.8418549007034,Irvine,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+1819	Mon Aug 16 00:17:26 +0000 2010	4b4a4693f964a520e98126e3	{OC Fair & Event Center}	{33.66585383619394,-117.9023551940918,Costa Mesa,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1819	Sun Aug 15 07:09:46 +0000 2010	49dc07e0f964a5204c5f1fe3	{Kahunaville}	{36.125261952371304,-115.1724933152219,Las Vegas,NV,United States}	{Nightlife Spot,Food,}
+1819	Sun Aug 15 07:09:04 +0000 2010	458dbb67f964a5200d401fe3	{Treasure Island - TI Hotel & Casino}	{36.12453008380567,-115.17152309417725,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+1819	Sun Aug 15 02:19:09 +0000 2010	46ae2f06f964a5207f491fe3	{Red Rock Casino Resort & Spa}	{36.15620689185038,-115.33408641815186,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+1819	Sat Aug 14 20:44:30 +0000 2010	4b7ac7dbf964a520713c2fe3	{American Shooters}	{36.127424240112305,-115.1988733,Las Vegas,NV,United States}	{Shop & Service,}
+1819	Fri Aug 13 07:17:58 +0000 2010	4b54f35bf964a520ced427e3	{Regal Red Rock Stadium 16 & IMAX}	{36.155617833818525,-115.33374309539795,Las Vegas,NV,United States}	{Arts & Entertainment,Movie Theater,}
+1819	Fri Aug 13 00:27:12 +0000 2010	46ae2f06f964a5207f491fe3	{Red Rock Casino Resort & Spa}	{36.15620689185038,-115.33408641815186,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+1819	Thu Aug 12 22:27:53 +0000 2010	4b2361b4f964a5208f5524e3	{BODIES...The Exhibition}	{36.09580542914082,-115.175621509552,Las Vegas,NV,United States}	{Arts & Entertainment,}
+1819	Thu Aug 12 22:12:46 +0000 2010	41326e00f964a52092141fe3	{Mandalay Bay Resort & Casino}	{36.09185214999439,-115.1748275756836,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+1819	Thu Aug 12 15:59:19 +0000 2010	4bef3bd2d1b7d13ad587cdec	{McDonald's}	{35.61021727523143,-115.38803100585938,Primm,NV,United States}	{Food,}
+1819	Wed Aug 11 01:31:22 +0000 2010	4a792d7cf964a520ffe61fe3	{Guppy Teahouse}	{33.68886491948083,-117.83371570942431,Irvine,CA,United States}	{Food,}
+1819	Mon Aug 09 02:54:01 +0000 2010	4161e400f964a5206f1d1fe3	{The Hollywood Bowl}	{34.11223093293252,-118.33858966827391,Los Angeles,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+1819	Sun Aug 08 06:10:02 +0000 2010	4b6674c8f964a520d4212be3	{Fresh MXN Food}	{32.802505,-117.22764702,San Diego,CA,United States}	{Food,}
+1819	Sat Aug 07 23:56:35 +0000 2010	4c5df2832815c928316fb667	{Featured Acoustic Playlist 2.0}	{32.708455,-117.086964,San Diego,CA,United States}	{Arts & Entertainment,}
+1819	Sat Aug 07 23:51:41 +0000 2010	4ba98f0af964a520702e3ae3	{Market Creek Plaza}	{32.708835168095106,-117.08607651806055,San Diego,CA,United States}	{Shop & Service,}
+1819	Sat Aug 07 21:10:37 +0000 2010	4a7a4f2ef964a5201de91fe3	{Riptide Sushi}	{33.56074373422427,-117.6710844039917,Mission Viejo,CA,United States}	{Food,}
+1819	Sat Aug 07 21:09:02 +0000 2010	4bc400f7461576b0e4757f32	{Edwards Kaleidoscope Stadium 10}	{33.561315914169235,-117.67125606536865,Mission Viejo,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1819	Sat Aug 07 02:48:57 +0000 2010	4a3f28d1f964a520b6a31fe3	{Pacific Theatres Glendale 18}	{34.143510506659105,-118.25707197189331,Glendale,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1819	Sat Aug 07 02:36:23 +0000 2010	4b1f2587f964a5206b2424e3	{The Cheesecake Factory}	{34.14403439867437,-118.25725436210632,Glendale,CA,United States}	{Nightlife Spot,Food,}
+1819	Sat Aug 07 01:17:29 +0000 2010	49c31443f964a52054561fe3	{The Americana at Brand}	{34.14381241092894,-118.25670719146729,Glendale,CA,United States}	{Shop & Service,Arts & Entertainment,}
+1819	Fri Aug 06 22:17:51 +0000 2010	4a6e5d0df964a52093d41fe3	{Griffith Observatory}	{34.118284371322225,-118.30031991004944,Los Angeles,CA,United States}	{Outdoors & Recreation,Museum,Arts & Entertainment,}
+1819	Fri Aug 06 19:27:03 +0000 2010	4c5c47bb9b28d13a6b535670	{IDEA World Fitness Convention}	{34.041009,-118.267733,Los Angeles,CA,United States}	{College & University,}
+1819	Fri Aug 06 17:35:27 +0000 2010	4c5c47bb9b28d13a6b535670	{IDEA World Fitness Convention}	{34.041009,-118.267733,Los Angeles,CA,United States}	{College & University,}
+1819	Fri Aug 06 16:34:46 +0000 2010	4b6900daf964a52092962be3	{JW Marriott LA Live}	{34.04530782486832,-118.26658844947815,Los Angeles,CA,United States}	{Nightlife Spot,Travel & Transport,Food,}
+1819	Thu Aug 05 05:47:39 +0000 2010	4b593784f964a520b58128e3	{FedEx Office Print & Ship Center}	{33.745522,-117.816353,Tustin,CA,United States}	{Shop & Service,}
+1819	Tue Aug 03 01:41:48 +0000 2010	4b5ac9bdf964a520a9d428e3	{Seaside Donuts Bakery}	{33.608571,-117.929088,Newport Beach,CA,United States}	{Food,}
+1819	Tue Aug 03 00:58:48 +0000 2010	4a790799f964a520dce61fe3	{Newport Pier}	{33.605934267867816,-117.93116211891173,Newport Beach,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1819	Mon Aug 02 05:10:25 +0000 2010	4a6fae4cf964a520cdd61fe3	{BJ's Restaurant & Brewhouse}	{33.72956,-117.7870843,Irvine,CA,United States}	{Nightlife Spot,Food,}
+1819	Sat Jul 31 04:58:21 +0000 2010	4ab81ed8f964a520427c20e3	{RA Sushi Bar Restaurant}	{33.69830401,-117.8276043,Tustin,CA,United States}	{Nightlife Spot,Shop & Service,Food,}
+1819	Fri Jul 30 06:12:29 +0000 2010	4c4b7aca6e209521081608ec	{camp turbo kick 2010}	{33.722646832466125,-117.837815,Costa Mesa,CA,United States}	{Shop & Service,Performing Arts Venue,Music Venue,Arts & Entertainment,Clothing Store,}
+1819	Fri Jul 30 06:10:07 +0000 2010	4c4b7aca6e209521081608ec	{camp turbo kick 2010}	{33.722646832466125,-117.837815,Costa Mesa,CA,United States}	{Shop & Service,Performing Arts Venue,Music Venue,Arts & Entertainment,Clothing Store,}
+1819	Fri Jul 30 06:09:35 +0000 2010	4c4b7aca6e209521081608ec	{camp turbo kick 2010}	{33.722646832466125,-117.837815,Costa Mesa,CA,United States}	{Shop & Service,Performing Arts Venue,Music Venue,Arts & Entertainment,Clothing Store,}
+1819	Fri Jul 30 06:09:05 +0000 2010	4c4b7aca6e209521081608ec	{camp turbo kick 2010}	{33.722646832466125,-117.837815,Costa Mesa,CA,United States}	{Shop & Service,Performing Arts Venue,Music Venue,Arts & Entertainment,Clothing Store,}
+1819	Fri Jul 30 02:50:20 +0000 2010	4c4b7aca6e209521081608ec	{camp turbo kick 2010}	{33.722646832466125,-117.837815,Costa Mesa,CA,United States}	{Shop & Service,Performing Arts Venue,Music Venue,Arts & Entertainment,Clothing Store,}
+1819	Fri Jul 30 02:15:44 +0000 2010	4a57970bf964a5206bb61fe3	{Mitsuwa Marketplace}	{33.681693213816956,-117.88426637649536,Costa Mesa,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1819	Fri Jul 30 02:14:06 +0000 2010	4a440714f964a5200da71fe3	{Hilton Orange County/Costa Mesa}	{33.68307377117306,-117.88469127206545,Costa Mesa,CA,United States}	{Travel & Transport,}
+1819	Thu Jul 29 22:18:42 +0000 2010	4c4b7aca6e209521081608ec	{camp turbo kick 2010}	{33.722646832466125,-117.837815,Costa Mesa,CA,United States}	{Shop & Service,Performing Arts Venue,Music Venue,Arts & Entertainment,Clothing Store,}
+1819	Thu Jul 29 05:58:48 +0000 2010	4b0b67d3f964a520283123e3	{Buffalo Wild Wings}	{33.62917725437147,-117.71877408027649,Lake Forest,CA,United States}	{Food,}
+1819	Thu Jul 29 04:35:00 +0000 2010	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+1819	Thu Jul 29 04:06:06 +0000 2010	4b5cbfc2f964a520074229e3	{The Rinks Anaheim Ice}	{33.834133840455735,-117.91784763336182,Anaheim,CA,United States}	{Shop & Service,Outdoors & Recreation,College & University,College Stadium,Athletics & Sports,}
+1819	Wed Jul 28 04:57:23 +0000 2010	4a94ae66f964a520502220e3	{Starplex Cinemas Woodbridge 5}	{33.67714132480426,-117.80018208499446,Irvine,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1819	Tue Jul 27 04:38:54 +0000 2010	4a94ae66f964a520502220e3	{Starplex Cinemas Woodbridge 5}	{33.67714132480426,-117.80018208499446,Irvine,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1819	Mon Jul 26 01:57:26 +0000 2010	4b6203f1f964a520ae302ae3	{Ma Dang Sae BBQ}	{33.83838441346491,-118.08151001511418,Lakewood,CA,United States}	{Food,}
+1819	Sun Jul 25 06:53:31 +0000 2010	4be9b70a415e20a12f2ce4bb	{I-405 (San Diego Freeway)}	{33.835898386142745,-118.26003313064575,Southern California,CA,United States}	{Travel & Transport,}
+1819	Sat Jul 24 18:25:50 +0000 2010	4c4b2f80959220a1d066380f	{Sturtevant Falls}	{34.1678192652135,-118.03188833909702,Arcadia,CA,United States}	{Outdoors & Recreation,}
+1819	Sat Jul 24 13:03:10 +0000 2010	4bdef5d40ee3a593387732b0	{I-210 (Foothill Freeway)}	{34.14818102254435,-118.048095703125,Southern California,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1819	Sat Jul 24 12:50:05 +0000 2010	4beea334e24d20a1df1e7314	{I-605 (San Gabriel River Freeway)}	{33.96123034391297,-118.08581829071045,Southern California,CA,United States}	{Travel & Transport,Professional & Other Places,}
+1819	Sat Jul 24 03:43:00 +0000 2010	4b09fd6ff964a520d12023e3	{P.F. Chang's}	{33.6525490499485,-117.74569138884544,Irvine,CA,United States}	{Food,}
+1819	Fri Jul 23 04:13:02 +0000 2010	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+1819	Fri Jul 23 04:08:49 +0000 2010	4ab82fc4f964a520817c20e3	{World of Disney}	{33.80856166417663,-117.92110919952393,Anaheim,CA,United States}	{Shop & Service,}
+1819	Sun Jul 18 21:36:36 +0000 2010	4a8e0651f964a520ca1120e3	{AMC Tustin 14 at The District}	{33.69695839782663,-117.82858371734619,Tustin,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1819	Fri Jul 16 03:01:50 +0000 2010	4b155044f964a5203db023e3	{Angel Stadium of Anaheim}	{33.80002327603627,-117.88301914930344,Anaheim,CA,United States}	{Stadium,Arts & Entertainment,}
+1819	Thu Jul 15 23:34:25 +0000 2010	4ce5cc15d99f721ed83aa073	{Ross}	{33.726176549863645,-117.79248760611915,Tustin,CA,United States}	{Shop & Service,}
+1819	Mon Jul 12 03:14:26 +0000 2010	4a695219f964a520e5cb1fe3	{Cafe Coyote}	{32.75191070096623,-117.19420909881592,San Diego,CA,United States}	{Food,}
+1819	Fri Jul 09 04:29:04 +0000 2010	4a08721cf964a520ca731fe3	{Kappo Honda}	{33.6948287,-117.95388808,Fountain Valley,CA,United States}	{Food,}
+1819	Thu Jul 08 05:31:59 +0000 2010	4a8e0651f964a520ca1120e3	{AMC Tustin 14 at The District}	{33.69695839782663,-117.82858371734619,Tustin,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1819	Sun Jul 04 20:17:42 +0000 2010	4b6203f1f964a520ae302ae3	{Ma Dang Sae BBQ}	{33.83838441346491,-118.08151001511418,Lakewood,CA,United States}	{Food,}
+1819	Sat Jul 03 06:27:19 +0000 2010	4a7e1ad7f964a520faf01fe3	{Proof Bar}	{33.746799,-117.86956250667572,Santa Ana,CA,United States}	{Nightlife Spot,}
+1819	Sun Jun 27 07:10:23 +0000 2010	41098f80f964a5209f0b1fe3	{Cafe Brass Monkey}	{34.06109350956715,-118.2988555541882,Los Angeles,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+1819	Sun Jun 27 05:18:51 +0000 2010	4b678fc0f964a52053552be3	{Thai Patio}	{34.101933,-118.305913,Los Angeles,CA,United States}	{Food,}
+1819	Fri Jun 18 01:08:16 +0000 2010	4b81841bf964a520c2ab30e3	{Lazy Dog Cafe}	{33.72858708066024,-117.78794825077057,Irvine,CA,United States}	{Food,}
+1819	Sun Jun 06 05:00:02 +0000 2010	4b52865af964a520fd8027e3	{California Wok}	{33.80987226963043,-118.05516064167023,Los Alamitos,CA,United States}	{Food,}
+1819	Sat Jun 05 06:25:25 +0000 2010	4335e880f964a52020281fe3	{Here Lounge}	{34.083594391928706,-118.38522468738594,West Hollywood,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+1819	Sat May 22 20:53:29 +0000 2010	4b7b0293f964a520ea4b2fe3	{Renaissance ClubSport Aliso Viejo Hotel}	{33.58238831007175,-117.73024441764719,Aliso Viejo,CA,United States}	{Travel & Transport,Shop & Service,Gym / Fitness Center,}
+1819	Sat May 22 17:22:45 +0000 2010	4b3d28cff964a5202f8f25e3	{Forever 21}	{33.65006959357917,-117.74360865354538,Irvine,CA,United States}	{Shop & Service,Clothing Store,}
+1819	Tue May 18 02:06:25 +0000 2010	4adb76e9f964a520c72721e3	{Ellen's Pinoy Grille}	{33.847496,-118.02916213,La Palma,CA,United States}	{Food,}
+1819	Sun May 16 01:30:47 +0000 2010	422e3c80f964a520e81f1fe3	{Hamburger Mary's}	{33.76909207080478,-118.18264603614807,Long Beach,CA,United States}	{Nightlife Spot,Food,}
+1819	Thu May 13 03:02:17 +0000 2010	4a83abc4f964a52097fb1fe3	{Veggie Grill}	{33.65024374953304,-117.83781051635742,Irvine,CA,United States}	{Food,}
+1819	Mon May 10 04:17:48 +0000 2010	4a790799f964a520dce61fe3	{Newport Pier}	{33.605934267867816,-117.93116211891173,Newport Beach,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1819	Mon May 03 03:38:43 +0000 2010	4bccd541fb84c9b6031f213e	{Life Reflexology}	{33.736744,-117.953957,Westminster,CA,United States}	{Shop & Service,}
+1819	Mon May 03 00:38:43 +0000 2010	4af379d5f964a52001ee21e3	{Trader Joe's}	{33.636753866666666,-117.924772,Costa Mesa,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1819	Sun May 02 23:33:51 +0000 2010	4b819583f964a520a2b030e3	{Michaels}	{33.636650590144534,-117.92375882834483,Costa Mesa,CA,United States}	{Shop & Service,}
+1819	Fri Apr 30 01:37:40 +0000 2010	4a94ae66f964a520502220e3	{Starplex Cinemas Woodbridge 5}	{33.67714132480426,-117.80018208499446,Irvine,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1819	Fri Apr 30 01:34:17 +0000 2010	4b196afef964a520fadc23e3	{Yen Sushi & Roll}	{33.671539,-117.78943,Irvine,CA,United States}	{Food,}
+1819	Tue Apr 27 01:39:27 +0000 2010	4b7b0293f964a520ea4b2fe3	{Renaissance ClubSport Aliso Viejo Hotel}	{33.58238831007175,-117.73024441764719,Aliso Viejo,CA,United States}	{Travel & Transport,Shop & Service,Gym / Fitness Center,}
+1819	Sun Apr 25 23:25:34 +0000 2010	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+1819	Mon Apr 19 16:22:34 +0000 2010	4ba8e583f964a52011f839e3	{Powder Blue Productions}	{33.63145073669896,-117.74095058441162,Irvine,CA,United States}	{Professional & Other Places,}
+1819	Mon Apr 19 03:16:17 +0000 2010	4a766ca7f964a52003e31fe3	{BJ's Restaurant & Brewhouse}	{33.729622134086554,-117.98857212066649,Huntington Beach,CA,United States}	{Nightlife Spot,Food,}
+1819	Sat Apr 17 23:57:14 +0000 2010	4b5f5b60f964a520e4b529e3	{Starbucks}	{33.74368780769615,-117.81713604927063,Tustin,CA,United States}	{Food,}
+1819	Fri Apr 16 19:14:51 +0000 2010	4bc4e188461576b03b988032	{Sunrise Medical}	{33.717206966666666,-117.81000307,Tustin,CA,United States}	{Medical Center,Professional & Other Places,}
+1819	Sat Apr 10 18:00:58 +0000 2010	4b5ac9bdf964a520a9d428e3	{Seaside Donuts Bakery}	{33.608571,-117.929088,Newport Beach,CA,United States}	{Food,}
+1819	Fri Apr 09 14:23:46 +0000 2010	4ba8e583f964a52011f839e3	{Powder Blue Productions}	{33.63145073669896,-117.74095058441162,Irvine,CA,United States}	{Professional & Other Places,}
+1819	Sun Apr 04 01:20:08 +0000 2010	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+1819	Sun Apr 04 01:14:42 +0000 2010	4aadba50f964a520596120e3	{Mickey & Friends Parking Structure}	{33.81481057349054,-117.92484283447264,Anaheim,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1819	Sat Apr 03 21:53:38 +0000 2010	4b2155ecf964a520473a24e3	{Aloha Hawaiian BBQ}	{33.700470791784475,-117.82830476760864,Tustin,CA,United States}	{Food,}
+1819	Sat Apr 03 04:43:33 +0000 2010	4b1abf33f964a520e6f023e3	{405 North - Orange County}	{33.638919,-117.72657,Orange County,CA,United States}	{Travel & Transport,}
+1819	Thu Apr 01 01:19:42 +0000 2010	4b70dc35f964a520fd312de3	{24 Hour Fitness}	{33.6586340820808,-117.999558160254,Huntington Beach,CA,United States}	{Shop & Service,}
+1819	Wed Mar 31 03:31:49 +0000 2010	4b357dd6f964a520862d25e3	{Jerry's Famous Deli}	{33.688888720219325,-117.88304328918457,Costa Mesa,CA,United States}	{Food,}
+1819	Tue Mar 30 15:58:44 +0000 2010	4ba8e583f964a52011f839e3	{Powder Blue Productions}	{33.63145073669896,-117.74095058441162,Irvine,CA,United States}	{Professional & Other Places,}
+1819	Tue Mar 30 15:58:44 +0000 2010	4ba8e583f964a52011f839e3	{Powder Blue Productions}	{33.63145073669896,-117.74095058441162,Irvine,CA,United States}	{Professional & Other Places,}
+1819	Tue Mar 30 03:09:40 +0000 2010	4aeccb43f964a52041cb21e3	{Starbucks}	{33.65896105,-118.00046458333334,Huntington Beach,CA,United States}	{Food,}
+1819	Tue Mar 30 02:59:38 +0000 2010	4b70dc35f964a520fd312de3	{24 Hour Fitness}	{33.6586340820808,-117.999558160254,Huntington Beach,CA,United States}	{Shop & Service,}
+1819	Mon Mar 29 04:12:19 +0000 2010	4b36c6fdf964a520343c25e3	{Joe's Crab Shack}	{33.619183844692664,-117.92355287043738,Newport Beach,CA,United States}	{Food,}
+1819	Sun Mar 28 23:33:23 +0000 2010	4b240f2bf964a5201c6024e3	{The Flame Broiler}	{33.6355703,-117.91787445545197,Costa Mesa,CA,United States}	{Food,}
+1819	Sun Mar 28 16:29:40 +0000 2010	4a790799f964a520dce61fe3	{Newport Pier}	{33.605934267867816,-117.93116211891173,Newport Beach,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1819	Sun Mar 28 16:28:12 +0000 2010	4b5ac9bdf964a520a9d428e3	{Seaside Donuts Bakery}	{33.608571,-117.929088,Newport Beach,CA,United States}	{Food,}
+1819	Fri Mar 26 00:53:33 +0000 2010	4b999d57f964a5208d8735e3	{linear hair}	{33.684018,-117.811751,,,United States}	{}
+1819	Wed Mar 24 08:17:57 +0000 2010	4ad687d1f964a520ab0721e3	{McDonald's}	{33.69170962287512,-117.88797855377197,Costa Mesa,CA,United States}	{Food,}
+1819	Wed Mar 24 06:24:38 +0000 2010	4ba9b00ef964a52069343ae3	{Columbus Square}	{33.71374511339555,-117.82528136173623,,CA,United States}	{Residence,}
+1819	Wed Mar 24 02:31:06 +0000 2010	4b295e20f964a520bb9d24e3	{3400 Avenue of the Arts Apartments}	{33.69331382860915,-117.87923785031967,Costa Mesa,CA,United States}	{Outdoors & Recreation,Professional & Other Places,Residence,}
+1819	Tue Mar 23 20:20:34 +0000 2010	4ba8e583f964a52011f839e3	{Powder Blue Productions}	{33.63145073669896,-117.74095058441162,Irvine,CA,United States}	{Professional & Other Places,}

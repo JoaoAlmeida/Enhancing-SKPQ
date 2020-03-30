@@ -1,0 +1,256 @@
+279	Sun Aug 07 17:08:29 +0000 2011	45f555cef964a5200e441fe3	{Seattle-Tacoma International Airport (SEA)}	{47.44364658280913,-122.30259418487549,Seatac,WA,United States}	{Travel & Transport,}
+279	Sun Aug 07 08:45:35 +0000 2011	4a65d6a4f964a520a1c71fe3	{Louis Armstrong New Orleans International Airport (MSY)}	{29.984936414376474,-90.25714874267578,Kenner,LA,United States}	{Travel & Transport,}
+279	Sun Aug 07 03:32:25 +0000 2011	41326e00f964a52062181fe3	{Blue Nile}	{29.963163647248255,-90.0577928845637,New Orleans,LA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+279	Sun Aug 07 00:24:08 +0000 2011	4ad4c04ef964a520bef320e3	{The Creole Queen Paddlewheeler}	{29.94848599162547,-90.06204335598672,New Orleans,LA,United States}	{Travel & Transport,Outdoors & Recreation,}
+279	Sat Aug 06 19:47:53 +0000 2011	4ad4c04af964a52081f220e3	{Crowne Plaza}	{29.95386089500902,-90.06958186626434,New Orleans,LA,United States}	{Travel & Transport,Hotel,Professional & Other Places,}
+279	Fri Aug 05 00:46:42 +0000 2011	4ad4c050f964a52099f420e3	{Emeril's Delmonico}	{29.940353236301362,-90.07431864738464,New Orleans,LA,United States}	{Food,}
+279	Thu Aug 04 16:31:55 +0000 2011	4c72a9dc1b11199cc58f5a13	{Ash? Cultural Arts Center}	{29.939463634197505,-90.08030475762277,New Orleans,LA,United States}	{Arts & Entertainment,Professional & Other Places,}
+279	Thu Aug 04 16:19:15 +0000 2011	4d8e3af5ca75b60caf75faa8	{Circle Food Store}	{29.97242527260365,-90.06575150148768,,,United States}	{}
+279	Wed Aug 03 17:38:35 +0000 2011	4ad4c04ef964a520bff320e3	{New Orleans City Park}	{29.98705516262387,-90.09527206420898,New Orleans,LA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+279	Wed Aug 03 01:52:22 +0000 2011	4aec4c13f964a520e7c521e3	{Oceana Grill}	{29.9561630947951,-90.06757605880485,New Orleans,LA,United States}	{Food,}
+279	Tue Aug 02 23:18:59 +0000 2011	4ad4c04af964a52081f220e3	{Crowne Plaza}	{29.95386089500902,-90.06958186626434,New Orleans,LA,United States}	{Travel & Transport,Hotel,Professional & Other Places,}
+279	Tue Aug 02 21:42:43 +0000 2011	4a65d6a4f964a520a1c71fe3	{Louis Armstrong New Orleans International Airport (MSY)}	{29.984936414376474,-90.25714874267578,Kenner,LA,United States}	{Travel & Transport,}
+279	Tue Aug 02 18:32:14 +0000 2011	44d1efc9f964a52032361fe3	{George Bush International Airport (IAH)}	{29.986460430837823,-95.34201622009277,Houston,TX,United States}	{Travel & Transport,}
+279	Sun Jul 31 23:43:43 +0000 2011	44e9bf5bf964a520ab371fe3	{Red Robin Gourmet Burgers}	{47.397711379694,-122.32482628608797,Seattle,WA,United States}	{Food,}
+279	Sat Jul 30 20:04:33 +0000 2011	4b5a2e79f964a52082b228e3	{Serenity Nails & Spa}	{47.457985915468974,-122.25729003709283,Tukwila,WA,United States}	{Shop & Service,}
+279	Fri Jul 29 18:30:26 +0000 2011	45f555cef964a5200e441fe3	{Seattle-Tacoma International Airport (SEA)}	{47.44364658280913,-122.30259418487549,Seatac,WA,United States}	{Travel & Transport,}
+279	Thu Jul 28 10:41:53 +0000 2011	4aa37fb3f964a520f64320e3	{Edinburgh Castle}	{55.9484308720065,-3.1998109817504883,Edinburgh,Midlothian,United Kingdom}	{Outdoors & Recreation,}
+279	Tue Jul 26 21:13:21 +0000 2011	4c9b86697421b71359eb0614	{Slouch}	{55.86468915496568,-4.2638325691223145,Glasgow,Scotland,United Kingdom}	{Nightlife Spot,Food,Arts & Entertainment,}
+279	Tue Jul 26 15:47:26 +0000 2011	4c6fa3561f58199c46af357c	{Auchentoshan Distillery}	{55.922638,-4.43882,Clydebank,Dunbartonshire,United Kingdom}	{Food,}
+279	Mon Jul 25 20:51:51 +0000 2011	4c151cf5f1e0b713f9f134bc	{Mussel Inn}	{55.86204322224005,-4.258124912073795,Glasgow,Scotland,United Kingdom}	{Food,}
+279	Mon Jul 25 17:49:42 +0000 2011	4ba647c4f964a520f04139e3	{Kelvingrove Art Gallery and Museum}	{55.86846080125798,-4.290783405303955,Glasgow,Glasgow City,United Kingdom}	{Arts & Entertainment,}
+279	Sun Jul 24 20:32:35 +0000 2011	4b856efdf964a5209b5d31e3	{Drum & Monkey}	{55.86141511591413,-4.25657916069063,Glasgow,Glasgow City,United Kingdom}	{Nightlife Spot,}
+279	Sun Jul 24 10:39:03 +0000 2011	4b813e0bf964a520d79b30e3	{People's Palace}	{55.85127315304659,-4.237347032403617,Glasgow,Glasgow City,United Kingdom}	{Museum,Arts & Entertainment,}
+279	Sun Jul 24 09:54:05 +0000 2011	4c3edcb30596c92846d58478	{Cathedral House Hotel}	{55.86193468866136,-4.2350685596466064,Glasgow,Lanarkshire,United Kingdom}	{Travel & Transport,}
+279	Sun Jul 24 08:01:06 +0000 2011	4b5d887af964a5206d6029e3	{Scottish Exhibition and Conference Centre}	{55.86074253121217,-4.288573265075684,Glasgow,Glasgow City,United Kingdom}	{Arts & Entertainment,Professional & Other Places,}
+279	Sat Jul 23 22:03:27 +0000 2011	4b7c5622f964a520258d2fe3	{Crowne Plaza Hotel}	{55.85968280498898,-4.290579557418823,Glasgow,Strathclyde,United Kingdom}	{Nightlife Spot,Travel & Transport,}
+279	Sat Jul 23 17:10:41 +0000 2011	4a84e798f964a520defd1fe3	{Amsterdam Airport Schiphol (AMS)}	{52.30923954430745,4.7621870040893555,Schiphol,,The Netherlands}	{Travel & Transport,}
+279	Sat Jul 23 12:48:13 +0000 2011	4a26ff64f964a5206a7f1fe3	{Hard Rock Cafe Amsterdam}	{52.3621534754032,4.882859922131477,Amsterdam,Noord-Holland,The Netherlands}	{Food,}
+279	Fri Jul 22 21:34:31 +0000 2011	4bb50dd96edc76b0c22e2f1c	{Inntel Hotels Amsterdam Centre}	{52.37615590333853,4.894580841064453,Amsterdam,Noord-Holland,The Netherlands}	{Nightlife Spot,Travel & Transport,}
+279	Fri Jul 22 17:38:59 +0000 2011	4a26ff66f964a520727f1fe3	{Het Molenpad}	{52.367174,4.882481,Amsterdam,Netherlands,The Netherlands}	{Nightlife Spot,Food,}
+279	Fri Jul 22 16:36:29 +0000 2011	4a270702f964a520ac8c1fe3	{Heineken Experience}	{52.35774745497318,4.891587495803833,Amsterdam,Noord-Holland,The Netherlands}	{Nightlife Spot,Arts & Entertainment,Professional & Other Places,}
+279	Fri Jul 22 16:32:49 +0000 2011	4b5f191ff964a520f9a529e3	{Hoofdkantoor Van Gogh Museum}	{52.35890588641999,4.888403383300148,Amsterdam,Noord-Holland,The Netherlands}	{Museum,Arts & Entertainment,}
+279	Fri Jul 22 16:31:12 +0000 2011	4a26ffccf964a52012811fe3	{The Pancake Bakery}	{52.377671,4.886212,Amsterdam,Noord-Holland,The Netherlands}	{Food,}
+279	Thu Jul 21 15:40:03 +0000 2011	4bb50dd96edc76b0c22e2f1c	{Inntel Hotels Amsterdam Centre}	{52.37615590333853,4.894580841064453,Amsterdam,Noord-Holland,The Netherlands}	{Nightlife Spot,Travel & Transport,}
+279	Wed Jul 20 03:02:43 +0000 2011	4d336e31b6093704485001e0	{Mayflower Of China}	{47.45061712202481,-122.26277225670948,Tukwila,WA,United States}	{Food,}
+279	Tue Jul 19 16:52:37 +0000 2011	4c641d0d58810f47264b0b1e	{Tsunami Hair Salon}	{47.448217710244194,-122.24673986434937,Tukwila,WA,United States}	{Shop & Service,}
+279	Sun Jul 17 19:06:10 +0000 2011	4a568685f964a52052b51fe3	{City Church Belltown}	{47.616294,-122.351003,Seattle,WA,United States}	{Spiritual Center,Professional & Other Places,}
+279	Sun Jul 10 19:32:53 +0000 2011	4bca1dde511f9521c813afc7	{DSW Designer Shoe Warehouse}	{45.57400771027151,-122.55821308651154,Portland,OR,United States}	{Shop & Service,Clothing Store,}
+279	Sun Jul 10 06:10:34 +0000 2011	4a2a1402f964a52004961fe3	{The Original}	{45.52161124432859,-122.67712231046475,Portland,OR,United States}	{Food,}
+279	Sat Jul 09 18:37:56 +0000 2011	4b53e1e8f964a520e9ad27e3	{Starbucks}	{46.67688226666667,-122.979412,Chehalis,WA,United States}	{Food,}
+279	Fri Jul 08 14:30:30 +0000 2011	4b43b46af964a52005e725e3	{Lowe's Home Improvement}	{47.38482,-122.293068,Kent,WA,United States}	{Shop & Service,}
+279	Thu Jul 07 15:15:22 +0000 2011	4a1d9a32f964a520817b1fe3	{UW Medicine}	{47.61531562626394,-122.34826644534724,Seattle,WA,United States}	{Medical Center,College & University,Professional & Other Places,}
+279	Sat Jul 02 21:09:59 +0000 2011	4c6086cf1e5cd13ad4e9a1ed	{Comfort Family Dentistry}	{47.35736797,-122.16775586,Kent,WA,United States}	{Medical Center,Professional & Other Places,}
+279	Fri Jun 24 21:46:04 +0000 2011	4b35a6d2f964a5206d2e25e3	{AMC Southcenter 16}	{47.45767795643763,-122.2585254907608,Tukwila,WA,United States}	{Food,Arts & Entertainment,Movie Theater,}
+279	Sat Jun 04 21:59:48 +0000 2011	4a0ede1af964a520f4751fe3	{Starbucks}	{47.48575847473231,-122.27283239364624,Tukwila,WA,United States}	{Food,}
+279	Sat Jun 04 21:46:51 +0000 2011	4d336e31b6093704485001e0	{Mayflower Of China}	{47.45061712202481,-122.26277225670948,Tukwila,WA,United States}	{Food,}
+279	Sat May 28 17:10:10 +0000 2011	49fe33b2f964a5207d6f1fe3	{Macy's}	{47.61125527,-122.3385143,Seattle,WA,United States}	{Shop & Service,}
+279	Tue May 24 01:18:05 +0000 2011	44fd67d9f964a52091381fe3	{Spitfire}	{47.614966,-122.34357833862305,Seattle,WA,United States}	{Nightlife Spot,}
+279	Sat May 21 19:43:03 +0000 2011	4ba946d6f964a5209e1a3ae3	{Seattle Metropolitan Credit Union}	{47.8212963,-122.2863666,Lynnwood,WA,United States}	{Shop & Service,}
+279	Sat May 21 18:08:13 +0000 2011	4aeca0b1f964a520a0c921e3	{Alderwood Community Church}	{47.822252593590235,-122.2795701662622,Lynnwood,WA,United States}	{Spiritual Center,Professional & Other Places,}
+279	Wed May 18 00:28:20 +0000 2011	4acb817df964a52000c420e3	{Safeway}	{47.40977977917114,-122.29918613401857,Des Moines,WA,United States}	{Shop & Service,Food & Drink Shop,}
+279	Tue May 17 15:32:53 +0000 2011	4a8e0dbbf964a520e71120e3	{Bell Harbor Conference Center}	{47.61130918933672,-122.34893285436755,Seattle,WA,United States}	{Convention Center,Professional & Other Places,}
+279	Tue May 17 00:56:54 +0000 2011	4b562910f964a5200f0328e3	{Fred Meyer}	{47.374228615278135,-122.29901005163438,Kent,WA,United States}	{Shop & Service,Food & Drink Shop,}
+279	Sat May 14 22:19:36 +0000 2011	4a7e4978f964a520b0f11fe3	{Genghis Khan Mongolian Grill & China House Restaurant}	{47.31933385832581,-122.31302596167524,Federal Way,WA,United States}	{Food,}
+279	Fri May 13 22:21:57 +0000 2011	4c641d0d58810f47264b0b1e	{Tsunami Hair Salon}	{47.448217710244194,-122.24673986434937,Tukwila,WA,United States}	{Shop & Service,}
+279	Sat May 07 20:32:37 +0000 2011	4c6086cf1e5cd13ad4e9a1ed	{Comfort Family Dentistry}	{47.35736797,-122.16775586,Kent,WA,United States}	{Medical Center,Professional & Other Places,}
+279	Sat May 07 18:02:09 +0000 2011	4b562910f964a5200f0328e3	{Fred Meyer}	{47.374228615278135,-122.29901005163438,Kent,WA,United States}	{Shop & Service,Food & Drink Shop,}
+279	Mon May 02 01:31:23 +0000 2011	4b86ef37f964a520c4a631e3	{Jack in the Box - Des Moines, WA}	{47.39834547042847,-122.32490479946136,Des Moines,WA,United States}	{Food,}
+279	Sat Apr 30 17:12:21 +0000 2011	4b5a2e79f964a52082b228e3	{Serenity Nails & Spa}	{47.457985915468974,-122.25729003709283,Tukwila,WA,United States}	{Shop & Service,}
+279	Fri Apr 29 22:31:31 +0000 2011	4f997b4ed4f21823bb1f4f38	{Baskin-Robbins}	{47.38948347380372,-122.29613315976854,Des Moines,WA,United States}	{Food,}
+279	Thu Apr 28 19:35:14 +0000 2011	4d336e31b6093704485001e0	{Mayflower Of China}	{47.45061712202481,-122.26277225670948,Tukwila,WA,United States}	{Food,}
+279	Tue Apr 26 00:54:05 +0000 2011	4ddc33e41f6e54b34d854330	{Des Moines Drug Store}	{47.3972845267645,-122.32534301431252,Des Moines,WA,United States}	{Shop & Service,}
+279	Sat Apr 23 23:49:37 +0000 2011	4b562910f964a5200f0328e3	{Fred Meyer}	{47.374228615278135,-122.29901005163438,Kent,WA,United States}	{Shop & Service,Food & Drink Shop,}
+279	Sat Apr 23 23:05:52 +0000 2011	4e4de7e5bd4101d0d79ddc58	{The HoneyBaked Ham Company}	{47.15625,-122.291686,Puyallup,WA,United States}	{Food,}
+279	Sat Apr 23 00:34:42 +0000 2011	43a81a89f964a5206e2c1fe3	{Best Buy}	{47.44761926,-122.2605523,Tukwila,WA,United States}	{Shop & Service,}
+279	Fri Apr 22 01:08:19 +0000 2011	4b8b3b06f964a520a39832e3	{Qfc}	{47.40658378253874,-122.32557635193704,Des Moines,WA,United States}	{Shop & Service,Food & Drink Shop,}
+279	Thu Apr 21 00:27:54 +0000 2011	4b562910f964a5200f0328e3	{Fred Meyer}	{47.374228615278135,-122.29901005163438,Kent,WA,United States}	{Shop & Service,Food & Drink Shop,}
+279	Sat Apr 16 05:32:39 +0000 2011	4bf2cc2bcad2c9288f129a99	{Baggage Claim}	{47.443457924570204,-122.29926824569702,Seattle,WA,United States}	{Travel & Transport,Airport,}
+279	Fri Apr 15 17:46:07 +0000 2011	4b552a4df964a52066dd27e3	{Ithaca Tompkins Regional Airport (ITH)}	{42.49020073655701,-76.46325588226318,Ithaca,NY,United States}	{Travel & Transport,Airport,}
+279	Thu Apr 14 22:50:59 +0000 2011	4b639195f964a520fd832ae3	{The BoatYard Grill}	{42.445843,-76.512551,Ithaca,NY,United States}	{Food,}
+279	Thu Apr 14 14:24:16 +0000 2011	4b5b229ef964a52094e528e3	{Sage Hall}	{42.445913058388804,-76.4832866191864,Ithaca,NY,United States}	{College & University,}
+279	Tue Apr 12 23:06:50 +0000 2011	4cdc70a06ad1a093bb9ef156	{Ciao!}	{42.48770892679496,-76.4889904681583,Ithaca,NY,United States}	{Food,}
+279	Mon Apr 11 16:02:56 +0000 2011	4b5b229ef964a52094e528e3	{Sage Hall}	{42.445913058388804,-76.4832866191864,Ithaca,NY,United States}	{College & University,}
+279	Sun Apr 10 23:07:28 +0000 2011	4c5349c6728920a1cf96d380	{Convenient Care}	{42.47958719730377,-76.466377,Ithaca,NY,United States}	{Medical Center,Professional & Other Places,}
+279	Fri Apr 08 19:50:36 +0000 2011	4bb66ad2941ad13a18651fe3	{Seattle Metropolitan Credit Union}	{47.45950521872055,-122.24959965621733,Tukwila,WA,United States}	{Shop & Service,}
+279	Wed Apr 06 14:41:30 +0000 2011	4c003ac937850f47ecf6973f	{Les Schwab}	{47.37661957740784,-122.2999188,Kent,WA,United States}	{Shop & Service,}
+279	Tue Apr 05 19:41:33 +0000 2011	4ab7e782f964a5206b7b20e3	{Red Bowls}	{47.60462949235592,-122.3328709602356,Seattle,WA,United States}	{Food,}
+279	Sat Apr 02 18:02:09 +0000 2011	4b56504df964a520bd0a28e3	{Mutual Fish}	{47.58198595151549,-122.30127094460434,Seattle,WA,United States}	{Shop & Service,Food & Drink Shop,}
+279	Sat Apr 02 16:03:37 +0000 2011	43961629f964a520902b1fe3	{Marion Oliver McCaw Hall}	{47.6242729111103,-122.35080957412718,Seattle,WA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+279	Wed Mar 30 22:06:38 +0000 2011	4ae24566f964a520a68c21e3	{Seattle Metropolitan Credit Union}	{47.60437633367921,-122.3331247928218,Seattle,WA,United States}	{Shop & Service,}
+279	Sat Mar 26 23:46:53 +0000 2011	4576201df964a520a63e1fe3	{Target}	{47.45501490950588,-122.25792531683288,Tukwila,WA,United States}	{Shop & Service,Food & Drink Shop,}
+279	Sat Mar 26 23:00:43 +0000 2011	4b5a2e79f964a52082b228e3	{Serenity Nails & Spa}	{47.457985915468974,-122.25729003709283,Tukwila,WA,United States}	{Shop & Service,}
+279	Thu Mar 24 20:02:02 +0000 2011	4b576296f964a520133528e3	{Quiznos}	{47.604774168947614,-122.333664894104,Seattle,WA,United States}	{Food,}
+279	Sat Mar 19 07:00:54 +0000 2011	44fdc137f964a52097381fe3	{Canlis}	{47.64300933,-122.346751,Seattle,WA,United States}	{Food,}
+279	Thu Mar 17 01:22:49 +0000 2011	43a81a89f964a5206e2c1fe3	{Best Buy}	{47.44761926,-122.2605523,Tukwila,WA,United States}	{Shop & Service,}
+279	Fri Mar 11 21:05:22 +0000 2011	4ab7e782f964a5206b7b20e3	{Red Bowls}	{47.60462949235592,-122.3328709602356,Seattle,WA,United States}	{Food,}
+279	Fri Mar 11 01:21:21 +0000 2011	41f98080f964a5203b1f1fe3	{Benaroya Hall}	{47.607826751737576,-122.33639001846315,Seattle,WA,United States}	{Food,Arts & Entertainment,Professional & Other Places,}
+279	Mon Mar 07 20:36:33 +0000 2011	40b3de00f964a5202f001fe3	{Blue C Sushi}	{47.64995516270215,-122.34992176294327,Seattle,WA,United States}	{Nightlife Spot,Food,}
+279	Mon Mar 07 04:23:28 +0000 2011	45f555cef964a5200e441fe3	{Seattle-Tacoma International Airport (SEA)}	{47.44364658280913,-122.30259418487549,Seatac,WA,United States}	{Travel & Transport,}
+279	Sun Mar 06 15:15:48 +0000 2011	44d17cecf964a5202b361fe3	{Ronald Reagan Washington National Airport (DCA)}	{38.853043701842566,-77.04231262207031,Arlington,VA,United States}	{Travel & Transport,}
+279	Fri Mar 04 20:02:50 +0000 2011	4b9c416ff964a5206c5936e3	{Nana Sushi}	{36.88032383,-76.42660081386566,Suffolk,VA,United States}	{Food,}
+279	Fri Mar 04 18:41:20 +0000 2011	4c0fbda498102d7fb5b3e506	{Georges Seafood}	{36.87828695389023,-76.25031357536484,Norfolk,VA,United States}	{Food,}
+279	Thu Mar 03 20:28:53 +0000 2011	44d17cecf964a5202b361fe3	{Ronald Reagan Washington National Airport (DCA)}	{38.853043701842566,-77.04231262207031,Arlington,VA,United States}	{Travel & Transport,}
+279	Wed Mar 02 21:01:59 +0000 2011	4ba23b47f964a5207ee537e3	{U.S. Capitol - Senate}	{38.89034806599386,-77.0090103149414,Washington,DC,United States}	{Government Building,Professional & Other Places,}
+279	Wed Mar 02 16:01:43 +0000 2011	4ab92e2bf964a520647e20e3	{Longworth House Office Building}	{38.88684065264819,-77.00860261917114,Washington,DC,United States}	{Professional & Other Places,}
+279	Wed Mar 02 01:48:06 +0000 2011	4a5e592cf964a52068be1fe3	{Johnny's Half Shell}	{38.89548420420873,-77.00924050259233,Washington,DC,United States}	{Food,}
+279	Tue Mar 01 12:44:19 +0000 2011	49cd9f7df964a520075a1fe3	{Walter E. Washington Convention Center}	{38.90414357185364,-77.02294334999999,Washington,DC,United States}	{Convention Center,Professional & Other Places,}
+279	Mon Feb 28 23:55:36 +0000 2011	4a8474c4f964a520a9fc1fe3	{Capital Hilton}	{38.90314865501842,-77.03548908233643,Washington,DC,United States}	{Travel & Transport,Professional & Other Places,}
+279	Mon Feb 28 14:27:36 +0000 2011	49cd9f7df964a520075a1fe3	{Walter E. Washington Convention Center}	{38.90414357185364,-77.02294334999999,Washington,DC,United States}	{Convention Center,Professional & Other Places,}
+279	Sun Feb 27 23:06:09 +0000 2011	4b9ee091f964a520e20737e3	{Embassy of the United Kingdom of Great Britain and Northern Ireland}	{38.92037792647422,-77.06261597905545,Washington,DC,United States}	{Government Building,Professional & Other Places,}
+279	Sun Feb 27 19:14:45 +0000 2011	49cd9f7df964a520075a1fe3	{Walter E. Washington Convention Center}	{38.90414357185364,-77.02294334999999,Washington,DC,United States}	{Convention Center,Professional & Other Places,}
+279	Sun Feb 27 01:17:00 +0000 2011	4a8483eaf964a520ccfc1fe3	{Hyatt Regency Washington on Capitol Hill}	{38.895341655691624,-77.01171398162842,Washington,DC,United States}	{Travel & Transport,Food,Professional & Other Places,}
+279	Sat Feb 26 23:25:50 +0000 2011	4b09f8d2f964a5209a2023e3	{Oceanaire Seafood Room}	{38.89748103380819,-77.02879660426402,Washington,DC,United States}	{Food,}
+279	Sat Feb 26 21:31:59 +0000 2011	44d17cecf964a5202b361fe3	{Ronald Reagan Washington National Airport (DCA)}	{38.853043701842566,-77.04231262207031,Arlington,VA,United States}	{Travel & Transport,}
+279	Sat Feb 26 15:47:09 +0000 2011	45f555cef964a5200e441fe3	{Seattle-Tacoma International Airport (SEA)}	{47.44364658280913,-122.30259418487549,Seatac,WA,United States}	{Travel & Transport,}
+279	Fri Feb 25 23:44:59 +0000 2011	4c641d0d58810f47264b0b1e	{Tsunami Hair Salon}	{47.448217710244194,-122.24673986434937,Tukwila,WA,United States}	{Shop & Service,}
+279	Wed Feb 23 01:31:14 +0000 2011	44fd67d9f964a52091381fe3	{Spitfire}	{47.614966,-122.34357833862305,Seattle,WA,United States}	{Nightlife Spot,}
+279	Tue Feb 22 17:09:03 +0000 2011	4b562910f964a5200f0328e3	{Fred Meyer}	{47.374228615278135,-122.29901005163438,Kent,WA,United States}	{Shop & Service,Food & Drink Shop,}
+279	Mon Feb 21 20:43:28 +0000 2011	4a7e4978f964a520b0f11fe3	{Genghis Khan Mongolian Grill & China House Restaurant}	{47.31933385832581,-122.31302596167524,Federal Way,WA,United States}	{Food,}
+279	Sun Feb 20 22:54:55 +0000 2011	4b26fc96f964a520c88324e3	{Duke's Chowder House}	{47.45779402250935,-122.25847721099854,Tukwila,WA,United States}	{Nightlife Spot,Food,}
+279	Sun Feb 20 22:16:49 +0000 2011	4b5f38f0f964a52042ae29e3	{Coach}	{47.45854638996454,-122.25905244227368,Tukwila,WA,United States}	{Shop & Service,Clothing Store,}
+279	Sun Feb 20 21:13:47 +0000 2011	4a568685f964a52052b51fe3	{City Church Belltown}	{47.616294,-122.351003,Seattle,WA,United States}	{Spiritual Center,Professional & Other Places,}
+279	Sun Feb 20 02:15:39 +0000 2011	4b562910f964a5200f0328e3	{Fred Meyer}	{47.374228615278135,-122.29901005163438,Kent,WA,United States}	{Shop & Service,Food & Drink Shop,}
+279	Sat Feb 19 23:03:13 +0000 2011	4b5a2e79f964a52082b228e3	{Serenity Nails & Spa}	{47.457985915468974,-122.25729003709283,Tukwila,WA,United States}	{Shop & Service,}
+279	Sat Feb 19 04:29:12 +0000 2011	4bee0ce54daaa593e6b58f61	{Marjorie}	{47.613063606516775,-122.31372049584822,Seattle,WA,United States}	{Nightlife Spot,Food,}
+279	Fri Feb 18 21:46:56 +0000 2011	4ab7e782f964a5206b7b20e3	{Red Bowls}	{47.60462949235592,-122.3328709602356,Seattle,WA,United States}	{Food,}
+279	Thu Feb 17 03:14:41 +0000 2011	43125000f964a52055271fe3	{The Cheesecake Factory}	{47.61165390234629,-122.33351001164789,Seattle,WA,United States}	{Food,}
+279	Tue Feb 15 20:40:29 +0000 2011	4a0b6572f964a520f5741fe3	{Palisade Restaurant}	{47.630296089277955,-122.39143162965775,Seattle,WA,United States}	{Outdoors & Recreation,Food,}
+279	Mon Feb 14 20:14:59 +0000 2011	4a92e680f964a5200f1e20e3	{Thai 2 Go}	{47.60457516236486,-122.33332177928425,Seattle,WA,United States}	{Food,}
+279	Sun Feb 13 22:13:40 +0000 2011	43f11afff964a520822f1fe3	{Westfield Southcenter}	{47.45850298,-122.25826,Tukwila,WA,United States}	{Shop & Service,}
+279	Fri Feb 11 20:49:35 +0000 2011	4ab7e782f964a5206b7b20e3	{Red Bowls}	{47.60462949235592,-122.3328709602356,Seattle,WA,United States}	{Food,}
+279	Wed Feb 09 01:52:28 +0000 2011	4b562910f964a5200f0328e3	{Fred Meyer}	{47.374228615278135,-122.29901005163438,Kent,WA,United States}	{Shop & Service,Food & Drink Shop,}
+279	Sat Feb 05 17:51:44 +0000 2011	4bd3782bcaff95218c06d5f0	{Damask Tattoo}	{47.638607,-122.356784,Seattle,WA,United States}	{Shop & Service,}
+279	Sat Feb 05 02:44:57 +0000 2011	46a0b659f964a52020491fe3	{Tokyo Japanese Steak House}	{47.315524,-122.315579,Federal Way,WA,United States}	{Food,}
+279	Fri Feb 04 02:01:18 +0000 2011	47b5b90bf964a520ae4d1fe3	{Metropolitan Grill}	{47.604673,-122.334333,Seattle,WA,United States}	{Food,}
+279	Tue Feb 01 20:39:22 +0000 2011	4ade2ca0f964a520997321e3	{Oasis Cafe}	{47.614225033333334,-122.318307,Seattle,WA,United States}	{Food,}
+279	Tue Feb 01 17:33:20 +0000 2011	4b7360c2f964a52087ab2de3	{St. Francis Hospital}	{47.292393805338904,-122.32662740574575,Federal Way,WA,United States}	{Medical Center,Professional & Other Places,}
+279	Sat Jan 29 22:38:53 +0000 2011	4c641d0d58810f47264b0b1e	{Tsunami Hair Salon}	{47.448217710244194,-122.24673986434937,Tukwila,WA,United States}	{Shop & Service,}
+279	Fri Jan 28 21:14:48 +0000 2011	4b576296f964a520133528e3	{Quiznos}	{47.604774168947614,-122.333664894104,Seattle,WA,United States}	{Food,}
+279	Sat Jan 22 03:38:10 +0000 2011	4c31237d16adc928c839c09c	{Kaihana Sushisaki}	{47.40681074334209,-122.32458757451475,Des Moines,WA,United States}	{Food,}
+279	Sat Jan 15 22:01:30 +0000 2011	4b5a2e79f964a52082b228e3	{Serenity Nails & Spa}	{47.457985915468974,-122.25729003709283,Tukwila,WA,United States}	{Shop & Service,}
+279	Sat Jan 15 01:36:24 +0000 2011	4bee0ce54daaa593e6b58f61	{Marjorie}	{47.613063606516775,-122.31372049584822,Seattle,WA,United States}	{Nightlife Spot,Food,}
+279	Fri Jan 14 21:32:20 +0000 2011	4ab7e782f964a5206b7b20e3	{Red Bowls}	{47.60462949235592,-122.3328709602356,Seattle,WA,United States}	{Food,}
+279	Tue Jan 04 21:26:31 +0000 2011	4ab7e782f964a5206b7b20e3	{Red Bowls}	{47.60462949235592,-122.3328709602356,Seattle,WA,United States}	{Food,}
+279	Thu Dec 30 20:34:40 +0000 2010	47b5b90bf964a520ae4d1fe3	{Metropolitan Grill}	{47.604673,-122.334333,Seattle,WA,United States}	{Food,}
+279	Mon Dec 27 21:12:42 +0000 2010	4b576296f964a520133528e3	{Quiznos}	{47.604774168947614,-122.333664894104,Seattle,WA,United States}	{Food,}
+279	Sun Dec 26 19:29:25 +0000 2010	4a568685f964a52052b51fe3	{City Church Belltown}	{47.616294,-122.351003,Seattle,WA,United States}	{Spiritual Center,Professional & Other Places,}
+279	Fri Dec 24 02:58:29 +0000 2010	48d0079bf964a520f0511fe3	{Theatre Off Jackson}	{47.598913,-122.324055,Seattle,WA,United States}	{Arts & Entertainment,}
+279	Fri Dec 24 01:33:46 +0000 2010	4a8cd2ecf964a5202e0f20e3	{The Capital Grille}	{47.60815622287009,-122.33507777211167,Seattle,WA,United States}	{Food,}
+279	Wed Dec 22 02:55:12 +0000 2010	47b5b90bf964a520ae4d1fe3	{Metropolitan Grill}	{47.604673,-122.334333,Seattle,WA,United States}	{Food,}
+279	Mon Dec 20 04:20:59 +0000 2010	457f179cf964a5204d3f1fe3	{Candy Cane Lane}	{47.669753449469795,-122.3054180996636,Seattle,WA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+279	Sat Dec 18 23:34:03 +0000 2010	4a320a75f964a5203b9a1fe3	{Laser Quest}	{47.31671,-122.303855,Federal Way,WA,United States}	{Arts & Entertainment,}
+279	Thu Dec 16 03:42:31 +0000 2010	4d336e31b6093704485001e0	{Mayflower Of China}	{47.45061712202481,-122.26277225670948,Tukwila,WA,United States}	{Food,}
+279	Thu Dec 16 01:37:33 +0000 2010	4c641d0d58810f47264b0b1e	{Tsunami Hair Salon}	{47.448217710244194,-122.24673986434937,Tukwila,WA,United States}	{Shop & Service,}
+279	Mon Dec 13 01:36:57 +0000 2010	4bee0ce54daaa593e6b58f61	{Marjorie}	{47.613063606516775,-122.31372049584822,Seattle,WA,United States}	{Nightlife Spot,Food,}
+279	Sat Dec 11 02:15:20 +0000 2010	4c5b7322857ca5939ba9c7cb	{Happy Teriyaki}	{47.449011185324736,-122.29522696700514,Seattle,WA,United States}	{Food,}
+279	Thu Dec 09 02:39:15 +0000 2010	4c012aafde3376b0d85af9a4	{Mt Rainier High School}	{47.39954830066079,-122.30801609963308,Seattle,WA,United States}	{School,Professional & Other Places,}
+279	Tue Nov 30 01:47:18 +0000 2010	4b8b3b06f964a520a39832e3	{Qfc}	{47.40658378253874,-122.32557635193704,Des Moines,WA,United States}	{Shop & Service,Food & Drink Shop,}
+279	Sun Nov 28 20:01:30 +0000 2010	4a568685f964a52052b51fe3	{City Church Belltown}	{47.616294,-122.351003,Seattle,WA,United States}	{Spiritual Center,Professional & Other Places,}
+279	Fri Nov 26 14:40:29 +0000 2010	4a923cdbf964a520021d20e3	{Macy's}	{47.45963654,-122.2592497,Tukwila,WA,United States}	{Shop & Service,Arts & Entertainment,}
+279	Fri Nov 26 06:50:13 +0000 2010	4cb9dae34352a1cd032c8ff5	{Babies "R" Us}	{47.44566506865415,-122.26318598607483,Tukwila,WA,United States}	{Shop & Service,Clothing Store,}
+279	Fri Nov 26 06:50:13 +0000 2010	4cb9dae34352a1cd032c8ff5	{Babies "R" Us}	{47.44566506865415,-122.26318598607483,Tukwila,WA,United States}	{Shop & Service,Clothing Store,}
+279	Fri Nov 19 01:41:17 +0000 2010	4bee0ce54daaa593e6b58f61	{Marjorie}	{47.613063606516775,-122.31372049584822,Seattle,WA,United States}	{Nightlife Spot,Food,}
+279	Mon Nov 15 21:26:04 +0000 2010	44e9bf5bf964a520ab371fe3	{Red Robin Gourmet Burgers}	{47.397711379694,-122.32482628608797,Seattle,WA,United States}	{Food,}
+279	Sat Nov 13 18:51:29 +0000 2010	4ae24566f964a520a68c21e3	{Seattle Metropolitan Credit Union}	{47.60437633367921,-122.3331247928218,Seattle,WA,United States}	{Shop & Service,}
+279	Sat Nov 13 15:31:36 +0000 2010	4b52043bf964a520866127e3	{Starbucks}	{47.38477033,-122.29653239250183,Kent,WA,United States}	{Food,}
+279	Fri Nov 12 21:45:29 +0000 2010	4b64701ef964a52021b32ae3	{Seattle Metropolitan Credit Union}	{47.57075078837349,-122.29178791975043,Seattle,WA,United States}	{Shop & Service,}
+279	Fri Nov 12 21:08:26 +0000 2010	4b771043f964a5207b792ee3	{J Styles Barbershop}	{47.568532,-122.289735,Seattle,WA,United States}	{Shop & Service,}
+279	Thu Nov 11 18:15:40 +0000 2010	4c641d0d58810f47264b0b1e	{Tsunami Hair Salon}	{47.448217710244194,-122.24673986434937,Tukwila,WA,United States}	{Shop & Service,}
+279	Thu Nov 11 03:08:51 +0000 2010	4cb9dae34352a1cd032c8ff5	{Babies "R" Us}	{47.44566506865415,-122.26318598607483,Tukwila,WA,United States}	{Shop & Service,Clothing Store,}
+279	Thu Nov 11 02:03:04 +0000 2010	4d336e31b6093704485001e0	{Mayflower Of China}	{47.45061712202481,-122.26277225670948,Tukwila,WA,United States}	{Food,}
+279	Wed Nov 10 20:15:38 +0000 2010	4a3695b5f964a520b89d1fe3	{Sound Soups}	{47.60510217072109,-122.33503661669413,Seattle,WA,United States}	{Food,}
+279	Sun Nov 07 22:24:19 +0000 2010	4b410ccdf964a5201ac025e3	{Jimmy Mac's Roadhouse}	{47.28862514868882,-122.31802746147949,Federal Way,WA,United States}	{Food,}
+279	Sat Nov 06 17:41:31 +0000 2010	4c6086cf1e5cd13ad4e9a1ed	{Comfort Family Dentistry}	{47.35736797,-122.16775586,Kent,WA,United States}	{Medical Center,Professional & Other Places,}
+279	Wed Nov 03 14:53:40 +0000 2010	4ccae02e26fea1cddd2f304d	{Seattle Christian Schools}	{47.438741248708595,-122.27431297302246,SeaTac,WA,United States}	{School,Professional & Other Places,}
+279	Wed Nov 03 14:53:40 +0000 2010	4ccae02e26fea1cddd2f304d	{Seattle Christian Schools}	{47.438741248708595,-122.27431297302246,SeaTac,WA,United States}	{School,Professional & Other Places,}
+279	Sat Oct 30 01:21:21 +0000 2010	4d336e31b6093704485001e0	{Mayflower Of China}	{47.45061712202481,-122.26277225670948,Tukwila,WA,United States}	{Food,}
+279	Fri Oct 29 20:36:58 +0000 2010	4ba946d6f964a5209e1a3ae3	{Seattle Metropolitan Credit Union}	{47.8212963,-122.2863666,Lynnwood,WA,United States}	{Shop & Service,}
+279	Fri Oct 29 19:39:08 +0000 2010	4b8992d0f964a520e24232e3	{Seattle Metropolitan credit union}	{47.70770490033364,-122.33275215600409,Seattle,WA,United States}	{Shop & Service,}
+279	Thu Oct 28 01:00:25 +0000 2010	4b8b3b06f964a520a39832e3	{Qfc}	{47.40658378253874,-122.32557635193704,Des Moines,WA,United States}	{Shop & Service,Food & Drink Shop,}
+279	Wed Oct 27 19:02:16 +0000 2010	4af0ab05f964a5201dde21e3	{Rolls-n-Sushi}	{47.604835,-122.333582,Seattle,WA,United States}	{Food,}
+279	Wed Oct 27 00:39:41 +0000 2010	4ace7da2f964a520ddd020e3	{JUNO}	{47.603718,-122.331895,Seattle,WA,United States}	{Nightlife Spot,Food,}
+279	Tue Oct 26 01:06:58 +0000 2010	4b8b3b06f964a520a39832e3	{Qfc}	{47.40658378253874,-122.32557635193704,Des Moines,WA,United States}	{Shop & Service,Food & Drink Shop,}
+279	Sat Oct 23 01:55:43 +0000 2010	4bb6406ff562ef3b93dc2f97	{Konich's Teriyaki}	{47.39346147,-122.29644945,Kent,WA,United States}	{Food,}
+279	Sat Oct 23 01:55:43 +0000 2010	4bb6406ff562ef3b93dc2f97	{Konich's Teriyaki}	{47.39346147,-122.29644945,Kent,WA,United States}	{Food,}
+279	Fri Oct 22 00:45:39 +0000 2010	4d336e31b6093704485001e0	{Mayflower Of China}	{47.45061712202481,-122.26277225670948,Tukwila,WA,United States}	{Food,}
+279	Sun Oct 17 15:23:51 +0000 2010	4c2f8851ed37a593a36f6703	{First Hill Neighborhood}	{47.60581582859567,-122.32074737548828,Seattle,WA,United States}	{Outdoors & Recreation,}
+279	Sat Oct 16 19:47:24 +0000 2010	4c2f8851ed37a593a36f6703	{First Hill Neighborhood}	{47.60581582859567,-122.32074737548828,Seattle,WA,United States}	{Outdoors & Recreation,}
+279	Sat Oct 16 19:19:55 +0000 2010	4a807f76f964a52079f51fe3	{Burgermaster}	{47.66156821038164,-122.29402110392098,Seattle,WA,United States}	{Food,}
+279	Sat Oct 16 14:58:41 +0000 2010	4b8072aef964a520477330e3	{Magnuson Park Off-Leash Dog Park}	{47.68177206700876,-122.25628852844238,Seattle,WA,United States}	{Outdoors & Recreation,}
+279	Fri Oct 15 19:55:10 +0000 2010	4a3695b5f964a520b89d1fe3	{Sound Soups}	{47.60510217072109,-122.33503661669413,Seattle,WA,United States}	{Food,}
+279	Mon Oct 11 14:27:27 +0000 2010	4ae24566f964a520a68c21e3	{Seattle Metropolitan Credit Union}	{47.60437633367921,-122.3331247928218,Seattle,WA,United States}	{Shop & Service,}
+279	Sat Oct 09 23:48:04 +0000 2010	4c641d0d58810f47264b0b1e	{Tsunami Hair Salon}	{47.448217710244194,-122.24673986434937,Tukwila,WA,United States}	{Shop & Service,}
+279	Sat Oct 09 19:32:17 +0000 2010	4ba4f9bcf964a5200ecb38e3	{Lupus foundation of america offices}	{47.77346,-122.34371928,Seattle,WA,United States}	{}
+279	Sat Oct 09 19:32:17 +0000 2010	4ba4f9bcf964a5200ecb38e3	{Lupus foundation of america offices}	{47.77346,-122.34371928,Seattle,WA,United States}	{}
+279	Sat Oct 09 16:34:59 +0000 2010	4b5a2e79f964a52082b228e3	{Serenity Nails & Spa}	{47.457985915468974,-122.25729003709283,Tukwila,WA,United States}	{Shop & Service,}
+279	Sat Oct 09 05:13:18 +0000 2010	4b410ccdf964a5201ac025e3	{Jimmy Mac's Roadhouse}	{47.28862514868882,-122.31802746147949,Federal Way,WA,United States}	{Food,}
+279	Fri Oct 08 23:57:22 +0000 2010	4ad267a4f964a52071e120e3	{Old Navy}	{47.445984,-122.260461291412,Tukwila,WA,United States}	{Shop & Service,Clothing Store,}
+279	Thu Oct 07 18:19:34 +0000 2010	47b5b90bf964a520ae4d1fe3	{Metropolitan Grill}	{47.604673,-122.334333,Seattle,WA,United States}	{Food,}
+279	Wed Oct 06 19:32:03 +0000 2010	4bbbab4b3de8c9b686109aad	{Teriyaki San}	{47.604802544338206,-122.33374616876092,Seattle,WA,United States}	{Food,}
+279	Sun Oct 03 22:18:36 +0000 2010	4c60a08813791b8d921f50af	{B & E Meats & Seafood}	{47.40023135518949,-122.32487797737122,Des Moines,WA,United States}	{Shop & Service,Food & Drink Shop,}
+279	Sun Oct 03 20:51:17 +0000 2010	4c13e6c1583c9c7477833fa4	{Northwest African American Museum}	{47.588863964096106,-122.30174235384101,Seattle,WA,United States}	{Arts & Entertainment,}
+279	Sat Oct 02 19:32:19 +0000 2010	4bf08f726f8aa593990fc23c	{Walgreens}	{47.39532959,-122.29536294937134,DES MOINES,WA,United States}	{Shop & Service,}
+279	Sat Oct 02 17:07:17 +0000 2010	4bbb53611261d13a0884eb98	{UW Medicine Kent- Des Moines Clinic}	{47.39353358745575,-122.2962749004364,Kent,WA,United States}	{Medical Center,Professional & Other Places,}
+279	Sat Oct 02 02:33:04 +0000 2010	4c941f7d94a0236a56e88912	{Highline HS Football Stadium}	{47.4642630072562,-122.32911372303428,Burien,WA,United States}	{Stadium,Arts & Entertainment,}
+279	Thu Sep 30 18:34:47 +0000 2010	4a8cd2ecf964a5202e0f20e3	{The Capital Grille}	{47.60815622287009,-122.33507777211167,Seattle,WA,United States}	{Food,}
+279	Thu Sep 30 00:22:40 +0000 2010	4c641d0d58810f47264b0b1e	{Tsunami Hair Salon}	{47.448217710244194,-122.24673986434937,Tukwila,WA,United States}	{Shop & Service,}
+279	Sun Sep 26 18:02:53 +0000 2010	4a0b6572f964a520f5741fe3	{Palisade Restaurant}	{47.630296089277955,-122.39143162965775,Seattle,WA,United States}	{Outdoors & Recreation,Food,}
+279	Sat Sep 25 21:36:33 +0000 2010	4b6fc05cf964a52092fb2ce3	{Talaris Conference Center}	{47.660127067269315,-122.28450896569498,Seattle,WA,United States}	{Convention Center,Professional & Other Places,}
+279	Sat Sep 25 01:04:22 +0000 2010	40b13b00f964a520bbf61ee3	{McCormick & Schmick's Seafood}	{47.60538,-122.336803,Seattle,WA,United States}	{Food,}
+279	Thu Sep 23 15:34:11 +0000 2010	4ae24566f964a520a68c21e3	{Seattle Metropolitan Credit Union}	{47.60437633367921,-122.3331247928218,Seattle,WA,United States}	{Shop & Service,}
+279	Thu Sep 23 00:50:20 +0000 2010	4b8b3b06f964a520a39832e3	{Qfc}	{47.40658378253874,-122.32557635193704,Des Moines,WA,United States}	{Shop & Service,Food & Drink Shop,}
+279	Tue Sep 21 15:13:09 +0000 2010	4ae24566f964a520a68c21e3	{Seattle Metropolitan Credit Union}	{47.60437633367921,-122.3331247928218,Seattle,WA,United States}	{Shop & Service,}
+279	Sat Sep 18 20:30:14 +0000 2010	4b60eabbf964a5204e012ae3	{Campion Hall}	{47.60689795927446,-122.31945096627426,Seattle,WA,United States}	{College & University,}
+279	Fri Sep 17 14:10:13 +0000 2010	4ae24566f964a520a68c21e3	{Seattle Metropolitan Credit Union}	{47.60437633367921,-122.3331247928218,Seattle,WA,United States}	{Shop & Service,}
+279	Fri Sep 17 03:13:33 +0000 2010	4c5b7322857ca5939ba9c7cb	{Happy Teriyaki}	{47.449011185324736,-122.29522696700514,Seattle,WA,United States}	{Food,}
+279	Thu Sep 16 00:59:36 +0000 2010	4b8b3b06f964a520a39832e3	{Qfc}	{47.40658378253874,-122.32557635193704,Des Moines,WA,United States}	{Shop & Service,Food & Drink Shop,}
+279	Sat Sep 11 23:43:46 +0000 2010	4b5a2e79f964a52082b228e3	{Serenity Nails & Spa}	{47.457985915468974,-122.25729003709283,Tukwila,WA,United States}	{Shop & Service,}
+279	Sat Sep 11 23:43:45 +0000 2010	4b5a2e79f964a52082b228e3	{Serenity Nails & Spa}	{47.457985915468974,-122.25729003709283,Tukwila,WA,United States}	{Shop & Service,}
+279	Sat Sep 04 22:48:59 +0000 2010	4af37175f964a520b2ed21e3	{Red Robin Gourmet Burgers}	{47.296127,-122.241853,Auburn,WA,United States}	{Food,}
+279	Wed Sep 01 21:48:27 +0000 2010	45aaa417f964a52037411fe3	{Starbucks}	{47.44580884815342,-122.26026356220245,Tukwila,WA,United States}	{Food,}
+279	Mon Aug 30 20:05:17 +0000 2010	4ab7e782f964a5206b7b20e3	{Red Bowls}	{47.60462949235592,-122.3328709602356,Seattle,WA,United States}	{Food,}
+279	Mon Aug 30 00:44:43 +0000 2010	4acb9a46f964a52087c420e3	{DAR Rainier Chapter House}	{47.625299309082294,-122.32211377035722,Seattle,WA,United States}	{Professional & Other Places,}
+279	Sat Aug 28 02:36:04 +0000 2010	4bf5dd8fbfeac92812719336	{Sushi Itto Go}	{47.45772421360016,-122.258387,Tukwila,WA,United States}	{Food,}
+279	Sat Aug 28 02:17:01 +0000 2010	4b35a6d2f964a5206d2e25e3	{AMC Southcenter 16}	{47.45767795643763,-122.2585254907608,Tukwila,WA,United States}	{Food,Arts & Entertainment,Movie Theater,}
+279	Fri Aug 27 19:15:42 +0000 2010	4b49098df964a520286326e3	{Seattle City Hall}	{47.6040833346158,-122.32996344566345,Seattle,WA,United States}	{Government Building,Professional & Other Places,}
+279	Fri Aug 27 01:12:48 +0000 2010	4c641d0d58810f47264b0b1e	{Tsunami Hair Salon}	{47.448217710244194,-122.24673986434937,Tukwila,WA,United States}	{Shop & Service,}
+279	Fri Aug 27 01:12:48 +0000 2010	4c641d0d58810f47264b0b1e	{Tsunami Hair Salon}	{47.448217710244194,-122.24673986434937,Tukwila,WA,United States}	{Shop & Service,}
+279	Thu Aug 26 15:28:22 +0000 2010	4ae24566f964a520a68c21e3	{Seattle Metropolitan Credit Union}	{47.60437633367921,-122.3331247928218,Seattle,WA,United States}	{Shop & Service,}
+279	Wed Aug 25 17:17:19 +0000 2010	4ae24566f964a520a68c21e3	{Seattle Metropolitan Credit Union}	{47.60437633367921,-122.3331247928218,Seattle,WA,United States}	{Shop & Service,}
+279	Tue Aug 24 20:11:13 +0000 2010	4ab7e782f964a5206b7b20e3	{Red Bowls}	{47.60462949235592,-122.3328709602356,Seattle,WA,United States}	{Food,}
+279	Sat Aug 21 17:15:22 +0000 2010	4b562910f964a5200f0328e3	{Fred Meyer}	{47.374228615278135,-122.29901005163438,Kent,WA,United States}	{Shop & Service,Food & Drink Shop,}
+279	Thu Aug 19 14:08:02 +0000 2010	4b562910f964a5200f0328e3	{Fred Meyer}	{47.374228615278135,-122.29901005163438,Kent,WA,United States}	{Shop & Service,Food & Drink Shop,}
+279	Thu Aug 19 01:58:14 +0000 2010	4ba4f9bcf964a5200ecb38e3	{Lupus foundation of america offices}	{47.77346,-122.34371928,Seattle,WA,United States}	{}
+279	Tue Aug 17 18:04:47 +0000 2010	4b2fe766f964a5204af224e3	{IHOP}	{47.449102866789175,-122.26212501525879,Tukwila,WA,United States}	{Food,}
+279	Mon Aug 16 20:16:49 +0000 2010	4b576296f964a520133528e3	{Quiznos}	{47.604774168947614,-122.333664894104,Seattle,WA,United States}	{Food,}
+279	Sun Aug 15 23:29:47 +0000 2010	4b89f884f964a520635932e3	{Fred Myers}	{47.22028926506742,-122.34592542498288,Fife,WA,United States}	{Shop & Service,Food & Drink Shop,}
+279	Sun Aug 15 01:45:46 +0000 2010	43768200f964a5204d2a1fe3	{CenturyLink Field}	{47.59507995257869,-122.33173370361328,Seattle,WA,United States}	{Stadium,Arts & Entertainment,}
+279	Sat Aug 14 01:40:24 +0000 2010	4b5a2e79f964a52082b228e3	{Serenity Nails & Spa}	{47.457985915468974,-122.25729003709283,Tukwila,WA,United States}	{Shop & Service,}
+279	Fri Aug 13 02:31:19 +0000 2010	44e9bf5bf964a520ab371fe3	{Red Robin Gourmet Burgers}	{47.397711379694,-122.32482628608797,Seattle,WA,United States}	{Food,}
+279	Thu Aug 12 20:26:23 +0000 2010	4ab7e782f964a5206b7b20e3	{Red Bowls}	{47.60462949235592,-122.3328709602356,Seattle,WA,United States}	{Food,}
+279	Tue Aug 10 18:14:58 +0000 2010	4ae24566f964a520a68c21e3	{Seattle Metropolitan Credit Union}	{47.60437633367921,-122.3331247928218,Seattle,WA,United States}	{Shop & Service,}
+279	Tue Aug 10 18:14:58 +0000 2010	4ae24566f964a520a68c21e3	{Seattle Metropolitan Credit Union}	{47.60437633367921,-122.3331247928218,Seattle,WA,United States}	{Shop & Service,}
+279	Tue Aug 10 01:00:04 +0000 2010	4ae24566f964a520a68c21e3	{Seattle Metropolitan Credit Union}	{47.60437633367921,-122.3331247928218,Seattle,WA,United States}	{Shop & Service,}
+279	Sun Aug 08 19:17:47 +0000 2010	45f555cef964a5200e441fe3	{Seattle-Tacoma International Airport (SEA)}	{47.44364658280913,-122.30259418487549,Seatac,WA,United States}	{Travel & Transport,}
+279	Sun Aug 08 05:03:44 +0000 2010	4af73b36f964a520780722e3	{Hyatt Regency St. Louis at the Arch}	{38.625868871503876,-90.18781900405884,Saint Louis,MO,United States}	{Travel & Transport,}
+279	Sat Aug 07 23:39:45 +0000 2010	4acbc3fbf964a52013c620e3	{Gateway Arch}	{38.624733131038525,-90.18470764160156,St Louis,MO,United States}	{Government Building,Museum,Arts & Entertainment,Professional & Other Places,}
+279	Sat Aug 07 20:54:49 +0000 2010	4acbc3fbf964a5200fc620e3	{Anheuser-Busch Brewery}	{38.59918731911869,-90.2141784247714,St. Louis,MO,United States}	{Nightlife Spot,Professional & Other Places,}
+279	Thu Aug 05 22:49:19 +0000 2010	4b2935dbf964a520039b24e3	{Brewhouse Historical Sports Bar}	{38.626124515401465,-90.18818378448486,Saint Louis,MO,United States}	{Travel & Transport,Nightlife Spot,}
+279	Thu Aug 05 17:31:03 +0000 2010	4b60b706f964a52082f529e3	{Red Kitchen & Bar}	{38.62599040724098,-90.1876848936081,Saint Louis,MO,United States}	{Food,}
+279	Thu Aug 05 14:56:35 +0000 2010	4bb4b97e8786ef3b168f6533	{Anheuser-Busch Employees' Credit Union}	{38.59980666522421,-90.21118396815014,Saint Louis,MO,United States}	{Shop & Service,}
+279	Thu Aug 05 14:09:10 +0000 2010	4c4f475ebec4d13a1af9fa61	{Vantage Credit Union East St. Louis Branch}	{38.626045,-90.16218,East Saint Louis,IL,United States}	{Shop & Service,}
+279	Wed Aug 04 23:54:39 +0000 2010	4b155059f964a5206ab023e3	{Busch Stadium}	{38.622560086694754,-90.19299030303955,Saint Louis,MO,United States}	{Stadium,Arts & Entertainment,}
+279	Wed Aug 04 21:23:49 +0000 2010	4acbc3fbf964a52021c620e3	{Old Courthouse}	{38.62565932664582,-90.18926739692688,St. Louis,MO,United States}	{Government Building,Arts & Entertainment,Professional & Other Places,}
+279	Wed Aug 04 20:45:38 +0000 2010	4b2935dbf964a520039b24e3	{Brewhouse Historical Sports Bar}	{38.626124515401465,-90.18818378448486,Saint Louis,MO,United States}	{Travel & Transport,Nightlife Spot,}
+279	Wed Aug 04 18:12:34 +0000 2010	4acbc3fdf964a520d5c620e3	{Mount Pleasant Winery}	{38.570770834221754,-90.88739603652608,Augusta,MO,United States}	{Food,}
+279	Wed Aug 04 05:01:30 +0000 2010	4acbc3fbf964a52013c620e3	{Gateway Arch}	{38.624733131038525,-90.18470764160156,St Louis,MO,United States}	{Government Building,Museum,Arts & Entertainment,Professional & Other Places,}
+279	Wed Aug 04 01:57:10 +0000 2010	4af73b36f964a520780722e3	{Hyatt Regency St. Louis at the Arch}	{38.625868871503876,-90.18781900405884,Saint Louis,MO,United States}	{Travel & Transport,}
+279	Tue Aug 03 18:55:25 +0000 2010	4bfc133de9d8c928ef00b2c7	{Gate A9}	{47.44005107572216,-122.29830265045166,SeaTac,WA,United States}	{Travel & Transport,Airport,}
+279	Tue Jul 27 02:06:45 +0000 2010	4b1bdb31f964a52037fe23e3	{Home Turf Sports Bar & Restaurant}	{38.69407248686367,-121.5874582529068,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+279	Mon Jul 26 22:27:24 +0000 2010	4bcb4ec8511f9521232db1c7	{Gate 8}	{32.732950990628524,-117.1963119506836,San Diego,CA,United States}	{Travel & Transport,Airport,}
+279	Mon Jul 26 22:26:25 +0000 2010	4c2e584a16adc92835b4bb9c	{City of San Diego}	{32.71574749728067,-117.1574306488037,San Diego,CA,United States}	{Outdoors & Recreation,}
+279	Sat Jul 24 21:30:03 +0000 2010	4b818b2ff964a520d8ad30e3	{Cutters Point Coffee}	{47.3747381682102,-122.30013246430772,Kent,WA,United States}	{Food,}
+===
+279	Sat May 29 17:19:12 +0000 2010	4b562910f964a5200f0328e3	{Fred Meyer}	{47.374228615278135,-122.29901005163438,Kent,WA,United States}	{Shop & Service,Food & Drink Shop,}
+279	Sat May 29 17:17:54 +0000 2010	4b818b2ff964a520d8ad30e3	{Cutters Point Coffee}	{47.3747381682102,-122.30013246430772,Kent,WA,United States}	{Food,}

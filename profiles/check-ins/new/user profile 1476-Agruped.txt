@@ -1,0 +1,915 @@
+1476	Wed Jul 13 22:01:36 +0000 2011	4c8330f3d4e23704173f6f88	{NBC San Diego Control Room}	{32.715544393198144,-117.16238334774971,San Diego,CA,United States}	{Office,Professional & Other Places,}
+1476	Sat Jul 09 18:59:37 +0000 2011	4b96aa0df964a52074dc34e3	{RadioShack}	{32.76089251041412,-117.06656312,San Diego,CA,United States}	{}
+1476	Fri Jul 08 03:17:04 +0000 2011	4bb9439d1261d13a6782e998	{Valero (Rolando)}	{32.75417756359244,-117.05865499309284,San Diego,CA,United States}	{Shop & Service,}
+1476	Thu Jul 07 07:03:04 +0000 2011	4c52196f94790f47f1271aa2	{College Ave}	{32.76105765391008,-117.06256847028381,San Diego,CA,United States}	{Travel & Transport,}
+1476	Wed Jul 06 21:46:03 +0000 2011	4c0d4a97336220a16581ca77	{Horton Square}	{32.71541350365547,-117.1615719795227,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Tue Jul 05 22:10:00 +0000 2011	4af31fe9f964a520edea21e3	{Jamba Juice}	{32.714935078175664,-117.16209769248962,San Diego,CA,United States}	{Food,}
+1476	Tue Jun 28 22:49:40 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sat Jun 18 19:43:07 +0000 2011	4d73c6345838a093183b1ddb	{Christ Temple}	{30.671740563142826,-88.05369798,Mobile,AL,United States}	{Spiritual Center,Professional & Other Places,}
+1476	Wed Jun 15 21:59:09 +0000 2011	4c0d4a97336220a16581ca77	{Horton Square}	{32.71541350365547,-117.1615719795227,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Fri Jun 10 23:58:49 +0000 2011	4bb9439d1261d13a6782e998	{Valero (Rolando)}	{32.75417756359244,-117.05865499309284,San Diego,CA,United States}	{Shop & Service,}
+1476	Sun Jun 05 19:46:54 +0000 2011	4d73cd0e5838a093de9e1ddb	{Holly Drive Leadership Academy}	{32.7030111,-117.086909,San Diego,CA,United States}	{School,Professional & Other Places,}
+1476	Fri Jun 03 07:01:07 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Fri Jun 03 06:37:28 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Fri Jun 03 06:12:03 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Fri Jun 03 04:50:54 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Fri Jun 03 03:09:37 +0000 2011	4b745b4bf964a5206dd72de3	{Wendy's}	{32.715544393198144,-117.16359436511993,San Diego,CA,United States}	{Food,}
+1476	Fri Jun 03 02:12:56 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Fri Jun 03 02:00:07 +0000 2011	4c0d4a97336220a16581ca77	{Horton Square}	{32.71541350365547,-117.1615719795227,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Fri Jun 03 00:02:10 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Thu Jun 02 23:55:04 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Thu Jun 02 23:25:43 +0000 2011	4bb9439d1261d13a6782e998	{Valero (Rolando)}	{32.75417756359244,-117.05865499309284,San Diego,CA,United States}	{Shop & Service,}
+1476	Thu Jun 02 09:26:35 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Thu Jun 02 06:49:55 +0000 2011	4ba64299f964a520204039e3	{ARCO}	{32.74103182,-117.0493118,La Mesa,CA,United States}	{Shop & Service,}
+1476	Thu Jun 02 06:49:54 +0000 2011	4ba64299f964a520204039e3	{ARCO}	{32.74103182,-117.0493118,La Mesa,CA,United States}	{Shop & Service,}
+1476	Thu Jun 02 01:01:58 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Thu Jun 02 00:55:09 +0000 2011	4baa65b5f964a5204a663ae3	{CVS/Pharmacy}	{32.714763007123274,-117.16200115446442,San Diego,CA,United States}	{Shop & Service,}
+1476	Thu Jun 02 00:51:24 +0000 2011	4db36411cda1c57c8245ff5f	{Bank Of America Atm}	{32.71502662,-117.16225878,San Diego,CA,United States}	{Shop & Service,}
+1476	Thu Jun 02 00:42:40 +0000 2011	4c9f8ef90e9bb1f77585f15f	{Horton Plaza Parking Garage}	{32.71368005041479,-117.16201838599042,San Diego,CA,United States}	{Professional & Other Places,}
+1476	Wed Jun 01 22:24:11 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Wed Jun 01 21:49:12 +0000 2011	4c0d4a97336220a16581ca77	{Horton Square}	{32.71541350365547,-117.1615719795227,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Wed Jun 01 17:27:00 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Wed Jun 01 17:06:23 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Wed Jun 01 07:01:31 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Wed Jun 01 04:44:26 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Wed Jun 01 03:20:35 +0000 2011	4a5ab9a6f964a520ceba1fe3	{Ralphs}	{32.712258231224205,-117.16351177939859,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Tue May 31 22:09:17 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue May 31 21:56:41 +0000 2011	465a059af964a52022471fe3	{Westfield Horton Plaza}	{32.714005195322024,-117.16228260254077,San Diego,CA,United States}	{Shop & Service,}
+1476	Tue May 31 18:04:04 +0000 2011	4b6ee0f1f964a520acce2ce3	{Starbucks}	{32.74211099267821,-117.05593585968018,San Diego,CA,United States}	{Food,}
+1476	Tue May 31 17:43:22 +0000 2011	4c0ac73affb8c9b6fe356c61	{US Post Office}	{32.74197427625969,-117.05599999318004,San Diego,CA,United States}	{Professional & Other Places,}
+1476	Tue May 31 17:43:22 +0000 2011	4c0ac73affb8c9b6fe356c61	{US Post Office}	{32.74197427625969,-117.05599999318004,San Diego,CA,United States}	{Professional & Other Places,}
+1476	Tue May 31 17:39:58 +0000 2011	4ba66d16f964a520415139e3	{Sprint}	{32.742029775122376,-117.05602169036865,San Diego,CA,United States}	{Shop & Service,}
+1476	Tue May 31 17:26:42 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Tue May 31 15:40:18 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Tue May 31 14:58:53 +0000 2011	4b4923e5f964a520876726e3	{Walmart Supercenter}	{32.741802530973224,-117.05298411904302,San Diego,CA,United States}	{Shop & Service,}
+1476	Tue May 31 05:57:31 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue May 31 05:06:08 +0000 2011	4bdb2c132a3a0f477cc2adb6	{7-Eleven}	{32.71575373860863,-117.16304078726952,San Diego,CA,United States}	{Shop & Service,}
+1476	Tue May 31 02:38:20 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue May 31 02:06:05 +0000 2011	4bdb2c132a3a0f477cc2adb6	{7-Eleven}	{32.71575373860863,-117.16304078726952,San Diego,CA,United States}	{Shop & Service,}
+1476	Mon May 30 22:54:53 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Mon May 30 20:26:28 +0000 2011	4aad3e4ef964a520345f20e3	{VONS}	{32.76112497124472,-117.06521189346643,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Mon May 30 18:07:04 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Mon May 30 17:56:31 +0000 2011	4b799a89f964a520d7042fe3	{Save a Lot Foods}	{32.75486454,-117.05616528,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Mon May 30 17:47:21 +0000 2011	4b7998cff964a52059042fe3	{DOLLAR TREE}	{32.7550074263985,-117.05604596749203,San Diego,CA,United States}	{Shop & Service,}
+1476	Mon May 30 08:00:58 +0000 2011	40e0b100f964a520a2011fe3	{The Arizona Cafe}	{32.74730097453799,-117.2505519413719,San Diego,CA,United States}	{Nightlife Spot,}
+1476	Mon May 30 01:49:19 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Mon May 30 01:40:12 +0000 2011	4bb4f68bc29a9521bd04a835	{Se?or El Taquero}	{32.71571033180073,-117.16050200614924,San Diego,CA,United States}	{Food,}
+1476	Mon May 30 00:57:48 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun May 29 23:54:17 +0000 2011	4baa65b5f964a5204a663ae3	{CVS/Pharmacy}	{32.714763007123274,-117.16200115446442,San Diego,CA,United States}	{Shop & Service,}
+1476	Sun May 29 23:50:38 +0000 2011	4c0d4a97336220a16581ca77	{Horton Square}	{32.71541350365547,-117.1615719795227,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Sun May 29 23:50:38 +0000 2011	4c0d4a97336220a16581ca77	{Horton Square}	{32.71541350365547,-117.1615719795227,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Sun May 29 11:31:13 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Sun May 29 06:52:42 +0000 2011	4bb26ff014cfd13a8def14ab	{7-Eleven}	{32.766924214164504,-117.05686775660948,San Diego,CA,United States}	{Shop & Service,}
+1476	Sun May 29 06:10:31 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun May 29 06:03:24 +0000 2011	4bdb2c132a3a0f477cc2adb6	{7-Eleven}	{32.71575373860863,-117.16304078726952,San Diego,CA,United States}	{Shop & Service,}
+1476	Sun May 29 02:50:45 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun May 29 01:52:04 +0000 2011	4a54270cf964a52013b31fe3	{Subway}	{32.71547991640927,-117.1599793120098,San Diego,CA,United States}	{Food,}
+1476	Sun May 29 01:47:05 +0000 2011	4c0d4a97336220a16581ca77	{Horton Square}	{32.71541350365547,-117.1615719795227,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Sun May 29 00:09:08 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun May 29 00:09:08 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun May 29 00:00:28 +0000 2011	465a059af964a52022471fe3	{Westfield Horton Plaza}	{32.714005195322024,-117.16228260254077,San Diego,CA,United States}	{Shop & Service,}
+1476	Sat May 28 03:14:18 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Sat May 28 02:57:12 +0000 2011	4c9199ef51d9b1f792388246	{Zappy Pizza}	{32.75019786519482,-117.06858508258621,San Diego,CA,United States}	{Food,}
+1476	Fri May 27 22:39:02 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Fri May 27 20:59:22 +0000 2011	4bb26ff014cfd13a8def14ab	{7-Eleven}	{32.766924214164504,-117.05686775660948,San Diego,CA,United States}	{Shop & Service,}
+1476	Fri May 27 17:19:24 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Fri May 27 16:47:02 +0000 2011	4ddfd5778877e0877e63ba95	{NAPA Auto Parts}	{32.754822516666664,-117.05770603333333,San Diego,CA,United States}	{Shop & Service,}
+1476	Fri May 27 15:49:13 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Fri May 27 15:35:55 +0000 2011	4b799a89f964a520d7042fe3	{Save a Lot Foods}	{32.75486454,-117.05616528,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Fri May 27 15:28:23 +0000 2011	4b7998cff964a52059042fe3	{DOLLAR TREE}	{32.7550074263985,-117.05604596749203,San Diego,CA,United States}	{Shop & Service,}
+1476	Fri May 27 14:39:58 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Fri May 27 14:14:58 +0000 2011	4c1ebda28b3aa5935f999c5f	{El Cajon Blvd Car Wash}	{32.76913225650787,-117.04909175,San Diego,CA,United States}	{Shop & Service,}
+1476	Fri May 27 14:12:23 +0000 2011	4bb26ff014cfd13a8def14ab	{7-Eleven}	{32.766924214164504,-117.05686775660948,San Diego,CA,United States}	{Shop & Service,}
+1476	Fri May 27 06:49:43 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Fri May 27 04:51:29 +0000 2011	4bb26ff014cfd13a8def14ab	{7-Eleven}	{32.766924214164504,-117.05686775660948,San Diego,CA,United States}	{Shop & Service,}
+1476	Fri May 27 04:21:03 +0000 2011	4c0408159a7920a10fb3d079	{Taco Bell}	{32.75326770676474,-117.06444185626259,San Diego,CA,United States}	{Food,}
+1476	Fri May 27 04:03:56 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Fri May 27 03:18:26 +0000 2011	4bbceb5ca8cf76b0ae24b1fd	{AMPM}	{32.74593700536093,-117.04259804966054,La Mesa,CA,United States}	{Shop & Service,}
+1476	Fri May 27 02:08:15 +0000 2011	4b4923e5f964a520876726e3	{Walmart Supercenter}	{32.741802530973224,-117.05298411904302,San Diego,CA,United States}	{Shop & Service,}
+1476	Fri May 27 01:58:55 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Fri May 27 01:24:08 +0000 2011	4b4923e5f964a520876726e3	{Walmart Supercenter}	{32.741802530973224,-117.05298411904302,San Diego,CA,United States}	{Shop & Service,}
+1476	Thu May 26 23:14:19 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Thu May 26 22:39:40 +0000 2011	4baa65b5f964a5204a663ae3	{CVS/Pharmacy}	{32.714763007123274,-117.16200115446442,San Diego,CA,United States}	{Shop & Service,}
+1476	Thu May 26 22:13:38 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Thu May 26 21:34:57 +0000 2011	4c0d4a97336220a16581ca77	{Horton Square}	{32.71541350365547,-117.1615719795227,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Thu May 26 21:17:52 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Thu May 26 21:15:59 +0000 2011	465a059af964a52022471fe3	{Westfield Horton Plaza}	{32.714005195322024,-117.16228260254077,San Diego,CA,United States}	{Shop & Service,}
+1476	Thu May 26 18:46:03 +0000 2011	4a859f66f964a520b0fe1fe3	{Cutters Point}	{32.760758358986386,-117.06793573356207,San Diego,CA,United States}	{Food,}
+1476	Thu May 26 18:26:51 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Thu May 26 18:01:40 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Thu May 26 03:51:12 +0000 2011	4ac500bef964a520e79f20e3	{Zorba's Greek Buffet}	{32.64457363524544,-117.09501703743753,Chula Vista,CA,United States}	{Food,}
+1476	Thu May 26 02:03:40 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Thu May 26 01:31:39 +0000 2011	4baa65b5f964a5204a663ae3	{CVS/Pharmacy}	{32.714763007123274,-117.16200115446442,San Diego,CA,United States}	{Shop & Service,}
+1476	Wed May 25 22:09:53 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Wed May 25 21:54:13 +0000 2011	4af31fe9f964a520edea21e3	{Jamba Juice}	{32.714935078175664,-117.16209769248962,San Diego,CA,United States}	{Food,}
+1476	Wed May 25 21:52:34 +0000 2011	465a059af964a52022471fe3	{Westfield Horton Plaza}	{32.714005195322024,-117.16228260254077,San Diego,CA,United States}	{Shop & Service,}
+1476	Wed May 25 19:17:02 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Wed May 25 08:49:38 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Wed May 25 05:10:54 +0000 2011	4bdb2c132a3a0f477cc2adb6	{7-Eleven}	{32.71575373860863,-117.16304078726952,San Diego,CA,United States}	{Shop & Service,}
+1476	Wed May 25 04:36:35 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Wed May 25 03:19:34 +0000 2011	4a5ab9a6f964a520ceba1fe3	{Ralphs}	{32.712258231224205,-117.16351177939859,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Wed May 25 00:52:01 +0000 2011	465a059af964a52022471fe3	{Westfield Horton Plaza}	{32.714005195322024,-117.16228260254077,San Diego,CA,United States}	{Shop & Service,}
+1476	Tue May 24 22:05:09 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue May 24 22:05:09 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue May 24 21:55:05 +0000 2011	465a059af964a52022471fe3	{Westfield Horton Plaza}	{32.714005195322024,-117.16228260254077,San Diego,CA,United States}	{Shop & Service,}
+1476	Tue May 24 17:25:13 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Tue May 24 17:13:51 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Tue May 24 15:33:30 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Tue May 24 05:06:03 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue May 24 05:02:28 +0000 2011	4bdb2c132a3a0f477cc2adb6	{7-Eleven}	{32.71575373860863,-117.16304078726952,San Diego,CA,United States}	{Shop & Service,}
+1476	Tue May 24 04:21:33 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue May 24 03:55:10 +0000 2011	4b745b4bf964a5206dd72de3	{Wendy's}	{32.715544393198144,-117.16359436511993,San Diego,CA,United States}	{Food,}
+1476	Tue May 24 03:51:59 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue May 24 03:20:42 +0000 2011	4b9e8549f964a5204beb36e3	{Brooklyn Pizzeria}	{32.716713363699206,-117.16089606285095,San Diego,CA,United States}	{Food,}
+1476	Mon May 23 22:24:27 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Mon May 23 21:55:52 +0000 2011	465a059af964a52022471fe3	{Westfield Horton Plaza}	{32.714005195322024,-117.16228260254077,San Diego,CA,United States}	{Shop & Service,}
+1476	Mon May 23 21:37:58 +0000 2011	4b2d43e4f964a520a6d224e3	{Target}	{32.74135087831558,-117.05556898351252,San Diego,CA,United States}	{Shop & Service,}
+1476	Mon May 23 21:32:32 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Mon May 23 17:53:46 +0000 2011	4a7b350ff964a5204fea1fe3	{Starbucks}	{32.76828746760395,-117.0533909343761,San Diego,CA,United States}	{Food,}
+1476	Mon May 23 17:44:29 +0000 2011	4ba64299f964a520204039e3	{ARCO}	{32.74103182,-117.0493118,La Mesa,CA,United States}	{Shop & Service,}
+1476	Mon May 23 17:40:48 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Mon May 23 03:51:10 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Mon May 23 03:31:52 +0000 2011	4b7998cff964a52059042fe3	{DOLLAR TREE}	{32.7550074263985,-117.05604596749203,San Diego,CA,United States}	{Shop & Service,}
+1476	Mon May 23 03:25:43 +0000 2011	4bb26ff014cfd13a8def14ab	{7-Eleven}	{32.766924214164504,-117.05686775660948,San Diego,CA,United States}	{Shop & Service,}
+1476	Sun May 22 22:54:51 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Sun May 22 22:18:02 +0000 2011	4b9bf3acf964a520c63936e3	{Burlington Coat Factory}	{32.771012626043394,-117.02726981714578,La Mesa,CA,United States}	{Shop & Service,Clothing Store,}
+1476	Sun May 22 21:44:04 +0000 2011	4aa318bbf964a520504320e3	{Target}	{32.77922868714283,-117.01261281967163,La Mesa,CA,United States}	{Shop & Service,}
+1476	Sun May 22 20:54:26 +0000 2011	4bae7c85f964a52057b83be3	{Fuddruckers}	{32.77691943281426,-117.01297760009766,La Mesa,CA,United States}	{Food,}
+1476	Sun May 22 20:40:34 +0000 2011	4aa07a4ff964a520c53f20e3	{Grossmont Center}	{32.778430377482955,-117.01114296913147,La Mesa,CA,United States}	{Shop & Service,}
+1476	Sun May 22 17:40:48 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Sun May 22 17:31:44 +0000 2011	4b799a89f964a520d7042fe3	{Save a Lot Foods}	{32.75486454,-117.05616528,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Sun May 22 17:23:31 +0000 2011	4b7998cff964a52059042fe3	{DOLLAR TREE}	{32.7550074263985,-117.05604596749203,San Diego,CA,United States}	{Shop & Service,}
+1476	Sun May 22 15:53:16 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Sun May 22 15:40:58 +0000 2011	4bcbaed1511f9521ee05b2c7	{Smart & Final}	{32.76238898353807,-117.0637522682909,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Sun May 22 15:40:58 +0000 2011	4bcbaed1511f9521ee05b2c7	{Smart & Final}	{32.76238898353807,-117.0637522682909,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Sun May 22 15:26:32 +0000 2011	4b6e4806f964a52002b62ce3	{CVS/Pharmacy}	{32.76283139396992,-117.0640855694289,San Diego,CA,United States}	{Shop & Service,}
+1476	Sun May 22 15:01:23 +0000 2011	4b4923e5f964a520876726e3	{Walmart Supercenter}	{32.741802530973224,-117.05298411904302,San Diego,CA,United States}	{Shop & Service,}
+1476	Sun May 22 07:12:39 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Sun May 22 05:04:06 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun May 22 04:47:09 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Sun May 22 04:42:53 +0000 2011	4baa65b5f964a5204a663ae3	{CVS/Pharmacy}	{32.714763007123274,-117.16200115446442,San Diego,CA,United States}	{Shop & Service,}
+1476	Sun May 22 04:38:44 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun May 22 02:24:10 +0000 2011	4b64e4c3f964a52004d82ae3	{Pho Xpress}	{32.717427,-117.15915844999999,San Diego,CA,United States}	{Food,}
+1476	Sun May 22 02:03:23 +0000 2011	465a059af964a52022471fe3	{Westfield Horton Plaza}	{32.714005195322024,-117.16228260254077,San Diego,CA,United States}	{Shop & Service,}
+1476	Sun May 22 00:24:07 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun May 22 00:12:52 +0000 2011	4c0d4a97336220a16581ca77	{Horton Square}	{32.71541350365547,-117.1615719795227,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Sat May 21 22:01:25 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Sat May 21 21:51:31 +0000 2011	4bb26ff014cfd13a8def14ab	{7-Eleven}	{32.766924214164504,-117.05686775660948,San Diego,CA,United States}	{Shop & Service,}
+1476	Sat May 21 21:44:08 +0000 2011	4a5bd5bff964a520d8bb1fe3	{Living Room Cafe & Bistro}	{32.75999961102035,-117.07052707672119,San Diego,CA,United States}	{Food,}
+1476	Sat May 21 21:32:36 +0000 2011	4c9199ef51d9b1f792388246	{Zappy Pizza}	{32.75019786519482,-117.06858508258621,San Diego,CA,United States}	{Food,}
+1476	Sat May 21 21:24:55 +0000 2011	4dd82d86d1647fcf3e5e0c8f	{Hair Addictions II}	{32.75551095,-117.04711705,La Mesa,CA,United States}	{}
+1476	Sat May 21 21:00:50 +0000 2011	4ba90446f964a520ec033ae3	{La Mesita Mexican Food}	{32.7554691,-117.047051,La Mesa,CA,United States}	{Food,}
+1476	Sat May 21 20:45:13 +0000 2011	4b2d43e4f964a520a6d224e3	{Target}	{32.74135087831558,-117.05556898351252,San Diego,CA,United States}	{Shop & Service,}
+1476	Sat May 21 17:11:29 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Sat May 21 17:01:37 +0000 2011	4a859f66f964a520b0fe1fe3	{Cutters Point}	{32.760758358986386,-117.06793573356207,San Diego,CA,United States}	{Food,}
+1476	Sat May 21 16:59:48 +0000 2011	4c52196f94790f47f1271aa2	{College Ave}	{32.76105765391008,-117.06256847028381,San Diego,CA,United States}	{Travel & Transport,}
+1476	Sat May 21 16:17:31 +0000 2011	4bcd08600687ef3b416ee0cc	{FedEx Office Print & Ship Center}	{32.809849,-117.115761,San Diego,CA,United States}	{Shop & Service,}
+1476	Sat May 21 16:00:52 +0000 2011	4c52196f94790f47f1271aa2	{College Ave}	{32.76105765391008,-117.06256847028381,San Diego,CA,United States}	{Travel & Transport,}
+1476	Sat May 21 15:50:48 +0000 2011	4b2d43e4f964a520a6d224e3	{Target}	{32.74135087831558,-117.05556898351252,San Diego,CA,United States}	{Shop & Service,}
+1476	Sat May 21 14:20:31 +0000 2011	4b6ee0f1f964a520acce2ce3	{Starbucks}	{32.74211099267821,-117.05593585968018,San Diego,CA,United States}	{Food,}
+1476	Sat May 21 14:04:20 +0000 2011	4c0ac73affb8c9b6fe356c61	{US Post Office}	{32.74197427625969,-117.05599999318004,San Diego,CA,United States}	{Professional & Other Places,}
+1476	Sat May 21 05:05:29 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Sat May 21 04:48:25 +0000 2011	4b2d43e4f964a520a6d224e3	{Target}	{32.74135087831558,-117.05556898351252,San Diego,CA,United States}	{Shop & Service,}
+1476	Sat May 21 04:16:20 +0000 2011	4bca6ff40687ef3b1e25dccc	{Cinnabon}	{32.65692622,-117.066058,National City,CA,United States}	{Food,}
+1476	Sat May 21 04:00:39 +0000 2011	4cca39cec4d06dcbfd8f6103	{Pumpkin Patch}	{32.658019,-117.063147,National City,CA,United States}	{Shop & Service,Clothing Store,}
+1476	Sat May 21 03:58:50 +0000 2011	4dd73873e4cd37c893a74117	{Dona Michi}	{32.65654889036321,-117.06617730922217,Bonita,CA,United States}	{}
+1476	Sat May 21 03:49:07 +0000 2011	4bd7a4ccf645c9b61682a6e0	{Stride Rite}	{32.656210737204965,-117.06577505320116,National City,CA,United States}	{Shop & Service,Clothing Store,}
+1476	Sat May 21 03:43:42 +0000 2011	4bb3f9d4f187a5933fbe13f8	{Bath & Body Works}	{32.655292,-117.065523,National City,CA,United States}	{Shop & Service,}
+1476	Sat May 21 03:01:36 +0000 2011	4bc655f2db8fa5930a399c37	{Hibachi-san Japanese Grill}	{32.654264,-117.06547016666667,National City,CA,United States}	{Food,}
+1476	Sat May 21 02:47:23 +0000 2011	4b3285c3f964a520b70d25e3	{H&M}	{32.65570786503289,-117.06563472747803,National City,CA,United States}	{Shop & Service,Clothing Store,}
+1476	Sat May 21 02:43:02 +0000 2011	4b6e2a04f964a520f6ae2ce3	{EXPRESS}	{32.655827393659,-117.06566012276673,National City,CA,United States}	{Shop & Service,Clothing Store,}
+1476	Sat May 21 02:22:38 +0000 2011	4b6e2f12f964a5203eb02ce3	{Macy's}	{32.6574845,-117.0661945,National City,CA,United States}	{Shop & Service,Food,}
+1476	Fri May 20 20:59:04 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Fri May 20 18:26:40 +0000 2011	4c0692030e0a2d7f3008ec0c	{Kaiser Permanente Medical Center}	{32.79123649613554,-117.09583292681407,San Diego,CA,United States}	{Medical Center,Shop & Service,Professional & Other Places,}
+1476	Fri May 20 04:37:50 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Fri May 20 04:18:44 +0000 2011	4b2d43e4f964a520a6d224e3	{Target}	{32.74135087831558,-117.05556898351252,San Diego,CA,United States}	{Shop & Service,}
+1476	Fri May 20 03:43:42 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Fri May 20 02:51:50 +0000 2011	4b4923e5f964a520876726e3	{Walmart Supercenter}	{32.741802530973224,-117.05298411904302,San Diego,CA,United States}	{Shop & Service,}
+1476	Fri May 20 02:12:00 +0000 2011	465a059af964a52022471fe3	{Westfield Horton Plaza}	{32.714005195322024,-117.16228260254077,San Diego,CA,United States}	{Shop & Service,}
+1476	Thu May 19 23:51:22 +0000 2011	4b7e09eef964a52046e02fe3	{The Tipsy Crow}	{32.71354492165452,-117.16031670570374,San Diego,CA,United States}	{Nightlife Spot,}
+1476	Thu May 19 23:45:21 +0000 2011	465a059af964a52022471fe3	{Westfield Horton Plaza}	{32.714005195322024,-117.16228260254077,San Diego,CA,United States}	{Shop & Service,}
+1476	Thu May 19 21:50:42 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Thu May 19 21:37:26 +0000 2011	4b7998cff964a52059042fe3	{DOLLAR TREE}	{32.7550074263985,-117.05604596749203,San Diego,CA,United States}	{Shop & Service,}
+1476	Thu May 19 21:24:47 +0000 2011	4c0ac73affb8c9b6fe356c61	{US Post Office}	{32.74197427625969,-117.05599999318004,San Diego,CA,United States}	{Professional & Other Places,}
+1476	Thu May 19 21:06:13 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Thu May 19 19:41:09 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Thu May 19 19:35:32 +0000 2011	4c9199ef51d9b1f792388246	{Zappy Pizza}	{32.75019786519482,-117.06858508258621,San Diego,CA,United States}	{Food,}
+1476	Thu May 19 19:32:44 +0000 2011	4c26446a136d20a1e803e561	{Ok Beauty Supply}	{32.749451177850254,-117.06983205689012,San Diego,CA,United States}	{Shop & Service,}
+1476	Thu May 19 19:27:24 +0000 2011	4c9199ef51d9b1f792388246	{Zappy Pizza}	{32.75019786519482,-117.06858508258621,San Diego,CA,United States}	{Food,}
+1476	Thu May 19 19:22:55 +0000 2011	4ccc92ceba0a5481d4523e59	{Payd To Fade}	{32.752854,-117.065941,San Diego,CA,United States}	{Shop & Service,}
+1476	Thu May 19 18:42:26 +0000 2011	4c4b01f3959220a1229af10e	{Food 4 Less}	{32.750701589572884,-117.06830350670944,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Thu May 19 18:42:26 +0000 2011	4c4b01f3959220a1229af10e	{Food 4 Less}	{32.750701589572884,-117.06830350670944,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Thu May 19 18:22:11 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Thu May 19 17:57:46 +0000 2011	4bcb8839511f952169b4b1c7	{Rite Aid}	{32.7431397419775,-117.04258918762207,Lemon Grove,CA,United States}	{Shop & Service,}
+1476	Thu May 19 17:45:57 +0000 2011	4ba64299f964a520204039e3	{ARCO}	{32.74103182,-117.0493118,La Mesa,CA,United States}	{Shop & Service,}
+1476	Thu May 19 17:36:49 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Thu May 19 17:20:09 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Thu May 19 16:39:30 +0000 2011	4a7b40aef964a5207cea1fe3	{San Diego DMV Office}	{32.75035870115045,-117.14910507202148,San Diego,CA,United States}	{Government Building,Professional & Other Places,}
+1476	Thu May 19 15:36:07 +0000 2011	4b0ec183f964a520985a23e3	{Starbucks}	{32.74863973956091,-117.15243637561798,San Diego,CA,United States}	{Food,}
+1476	Thu May 19 15:31:43 +0000 2011	4b173361f964a520b2c323e3	{FedEx Office Print & Ship Center}	{32.74847,-117.157204,San Diego,CA,United States}	{Shop & Service,}
+1476	Thu May 19 14:17:16 +0000 2011	4a7b40aef964a5207cea1fe3	{San Diego DMV Office}	{32.75035870115045,-117.14910507202148,San Diego,CA,United States}	{Government Building,Professional & Other Places,}
+1476	Thu May 19 14:11:20 +0000 2011	4b27c7a4f964a520ce8924e3	{7-Eleven}	{32.74873754871128,-117.14916437266193,San Diego,CA,United States}	{Shop & Service,}
+1476	Thu May 19 13:50:36 +0000 2011	4c52196f94790f47f1271aa2	{College Ave}	{32.76105765391008,-117.06256847028381,San Diego,CA,United States}	{Travel & Transport,}
+1476	Wed May 18 22:49:31 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Wed May 18 22:39:26 +0000 2011	4b799a89f964a520d7042fe3	{Save a Lot Foods}	{32.75486454,-117.05616528,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Wed May 18 22:20:24 +0000 2011	4dd446211f6ec4e0bb7655ba	{USA Smog Test Center}	{32.75419831,-117.05848097,San Diego,CA,United States}	{Shop & Service,}
+1476	Wed May 18 22:10:16 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Wed May 18 21:33:53 +0000 2011	4d7e4a939df3f04d30bdc194	{USA Smog Check}	{32.755492,-117.05838357,San Diego,CA,United States}	{Shop & Service,}
+1476	Wed May 18 20:28:46 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Wed May 18 20:18:53 +0000 2011	4bb26ff014cfd13a8def14ab	{7-Eleven}	{32.766924214164504,-117.05686775660948,San Diego,CA,United States}	{Shop & Service,}
+1476	Wed May 18 20:06:55 +0000 2011	4bcbaed1511f9521ee05b2c7	{Smart & Final}	{32.76238898353807,-117.0637522682909,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Wed May 18 19:58:53 +0000 2011	4b6de94bf964a5202d9b2ce3	{Burger King}	{32.76184855,-117.06560681,San Diego,CA,United States}	{Food,}
+1476	Wed May 18 19:58:53 +0000 2011	4b6de94bf964a5202d9b2ce3	{Burger King}	{32.76184855,-117.06560681,San Diego,CA,United States}	{Food,}
+1476	Wed May 18 19:54:44 +0000 2011	4c52196f94790f47f1271aa2	{College Ave}	{32.76105765391008,-117.06256847028381,San Diego,CA,United States}	{Travel & Transport,}
+1476	Wed May 18 19:23:22 +0000 2011	4b64d419f964a5203bd32ae3	{Staples}	{32.770854,-117.144404,San Diego,CA,United States}	{Shop & Service,}
+1476	Wed May 18 19:08:57 +0000 2011	4b200eadf964a520a72c24e3	{Wendy's}	{32.77455985,-117.146527,San Diego,CA,United States}	{Food,}
+1476	Wed May 18 18:38:57 +0000 2011	4b469fd3f964a520c92526e3	{Sprint}	{32.78031764288149,-117.12988481757704,San Diego,CA,United States}	{Shop & Service,}
+1476	Wed May 18 18:16:14 +0000 2011	4ba7e06df964a52030bb39e3	{Wawanesa Insurance}	{32.779301576621585,-117.1347735341446,San Diego,CA,United States}	{Professional & Other Places,}
+1476	Wed May 18 18:14:04 +0000 2011	4ba7e06df964a52030bb39e3	{Wawanesa Insurance}	{32.779301576621585,-117.1347735341446,San Diego,CA,United States}	{Professional & Other Places,}
+1476	Wed May 18 17:07:32 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Wed May 18 17:02:10 +0000 2011	4c52196f94790f47f1271aa2	{College Ave}	{32.76105765391008,-117.06256847028381,San Diego,CA,United States}	{Travel & Transport,}
+1476	Wed May 18 17:01:30 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Wed May 18 07:35:37 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Wed May 18 07:31:24 +0000 2011	4bb26ff014cfd13a8def14ab	{7-Eleven}	{32.766924214164504,-117.05686775660948,San Diego,CA,United States}	{Shop & Service,}
+1476	Wed May 18 07:04:33 +0000 2011	4a78feeaf964a520c8e61fe3	{VONS}	{32.76521628680254,-117.0245511946613,La Mesa,CA,United States}	{Outdoors & Recreation,Shop & Service,Food & Drink Shop,}
+1476	Wed May 18 06:58:37 +0000 2011	4c52196f94790f47f1271aa2	{College Ave}	{32.76105765391008,-117.06256847028381,San Diego,CA,United States}	{Travel & Transport,}
+1476	Wed May 18 06:56:38 +0000 2011	4ba64299f964a520204039e3	{ARCO}	{32.74103182,-117.0493118,La Mesa,CA,United States}	{Shop & Service,}
+1476	Wed May 18 03:54:54 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Wed May 18 03:34:20 +0000 2011	4bdb2c132a3a0f477cc2adb6	{7-Eleven}	{32.71575373860863,-117.16304078726952,San Diego,CA,United States}	{Shop & Service,}
+1476	Wed May 18 03:33:28 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Wed May 18 03:26:07 +0000 2011	4a9887fdf964a520882c20e3	{Sushi Deli 2}	{32.71588027,-117.163093,San Diego,CA,United States}	{Food,}
+1476	Wed May 18 01:04:57 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Wed May 18 00:54:37 +0000 2011	465a059af964a52022471fe3	{Westfield Horton Plaza}	{32.714005195322024,-117.16228260254077,San Diego,CA,United States}	{Shop & Service,}
+1476	Tue May 17 23:18:06 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue May 17 23:12:14 +0000 2011	465a059af964a52022471fe3	{Westfield Horton Plaza}	{32.714005195322024,-117.16228260254077,San Diego,CA,United States}	{Shop & Service,}
+1476	Tue May 17 21:43:10 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Tue May 17 21:32:39 +0000 2011	4c52196f94790f47f1271aa2	{College Ave}	{32.76105765391008,-117.06256847028381,San Diego,CA,United States}	{Travel & Transport,}
+1476	Tue May 17 21:19:31 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Tue May 17 18:22:27 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Tue May 17 17:56:33 +0000 2011	4bb26ff014cfd13a8def14ab	{7-Eleven}	{32.766924214164504,-117.05686775660948,San Diego,CA,United States}	{Shop & Service,}
+1476	Tue May 17 17:31:25 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Tue May 17 17:29:15 +0000 2011	4c52196f94790f47f1271aa2	{College Ave}	{32.76105765391008,-117.06256847028381,San Diego,CA,United States}	{Travel & Transport,}
+1476	Tue May 17 17:24:24 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Tue May 17 14:21:08 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Tue May 17 14:13:46 +0000 2011	4c0ac73affb8c9b6fe356c61	{US Post Office}	{32.74197427625969,-117.05599999318004,San Diego,CA,United States}	{Professional & Other Places,}
+1476	Tue May 17 01:42:47 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Tue May 17 01:37:27 +0000 2011	4b7998cff964a52059042fe3	{DOLLAR TREE}	{32.7550074263985,-117.05604596749203,San Diego,CA,United States}	{Shop & Service,}
+1476	Tue May 17 01:33:02 +0000 2011	4b799a89f964a520d7042fe3	{Save a Lot Foods}	{32.75486454,-117.05616528,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Mon May 16 21:13:50 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Mon May 16 21:07:07 +0000 2011	4ba64299f964a520204039e3	{ARCO}	{32.74103182,-117.0493118,La Mesa,CA,United States}	{Shop & Service,}
+1476	Mon May 16 20:58:27 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Mon May 16 20:52:54 +0000 2011	4c52196f94790f47f1271aa2	{College Ave}	{32.76105765391008,-117.06256847028381,San Diego,CA,United States}	{Travel & Transport,}
+1476	Mon May 16 18:49:35 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Mon May 16 18:41:31 +0000 2011	4b799a89f964a520d7042fe3	{Save a Lot Foods}	{32.75486454,-117.05616528,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Mon May 16 18:37:16 +0000 2011	4b7998cff964a52059042fe3	{DOLLAR TREE}	{32.7550074263985,-117.05604596749203,San Diego,CA,United States}	{Shop & Service,}
+1476	Mon May 16 18:22:54 +0000 2011	4a859f66f964a520b0fe1fe3	{Cutters Point}	{32.760758358986386,-117.06793573356207,San Diego,CA,United States}	{Food,}
+1476	Mon May 16 17:28:17 +0000 2011	4c52196f94790f47f1271aa2	{College Ave}	{32.76105765391008,-117.06256847028381,San Diego,CA,United States}	{Travel & Transport,}
+1476	Mon May 16 17:18:31 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Mon May 16 17:14:52 +0000 2011	4c52196f94790f47f1271aa2	{College Ave}	{32.76105765391008,-117.06256847028381,San Diego,CA,United States}	{Travel & Transport,}
+1476	Mon May 16 15:00:24 +0000 2011	4dd13bfa45ddbe15f8cb4b47	{Rolando Community}	{32.755288436642196,-117.05870096681961,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Mon May 16 04:44:05 +0000 2011	4bb26ff014cfd13a8def14ab	{7-Eleven}	{32.766924214164504,-117.05686775660948,San Diego,CA,United States}	{Shop & Service,}
+1476	Mon May 16 04:30:14 +0000 2011	4b5be282f964a520951b29e3	{McDonald's}	{32.74302786623941,-117.0438164436828,Lemon Grove,CA,United States}	{Outdoors & Recreation,Food,}
+1476	Sun May 15 19:55:06 +0000 2011	4a78feeaf964a520c8e61fe3	{VONS}	{32.76521628680254,-117.0245511946613,La Mesa,CA,United States}	{Outdoors & Recreation,Shop & Service,Food & Drink Shop,}
+1476	Sun May 15 19:44:39 +0000 2011	4bd4987b637ba593ad06f570	{SUBWAY}	{32.75740334878606,-117.03821866915344,La Mesa,CA,United States}	{Food,}
+1476	Sun May 15 17:11:06 +0000 2011	4d73cd0e5838a093de9e1ddb	{Holly Drive Leadership Academy}	{32.7030111,-117.086909,San Diego,CA,United States}	{School,Professional & Other Places,}
+1476	Sun May 15 16:59:06 +0000 2011	4dd00647e4cd130e168e0c42	{Canyon View Luxury Rentals}	{32.69825113,-117.02631877,San Diego,CA,United States}	{Residence,}
+1476	Sun May 15 16:55:59 +0000 2011	4bddbae4587b2d7f6bd65409	{ARCO}	{32.697882459761935,-117.02571221745325,San Diego,CA,United States}	{Shop & Service,}
+1476	Sun May 15 14:33:29 +0000 2011	4c1ebda28b3aa5935f999c5f	{El Cajon Blvd Car Wash}	{32.76913225650787,-117.04909175,San Diego,CA,United States}	{Shop & Service,}
+1476	Sun May 15 14:33:29 +0000 2011	4c1ebda28b3aa5935f999c5f	{El Cajon Blvd Car Wash}	{32.76913225650787,-117.04909175,San Diego,CA,United States}	{Shop & Service,}
+1476	Sun May 15 14:08:12 +0000 2011	4bb26ff014cfd13a8def14ab	{7-Eleven}	{32.766924214164504,-117.05686775660948,San Diego,CA,United States}	{Shop & Service,}
+1476	Sun May 15 05:15:34 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun May 15 05:04:31 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Sun May 15 02:07:50 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun May 15 01:50:21 +0000 2011	4bdb2c132a3a0f477cc2adb6	{7-Eleven}	{32.71575373860863,-117.16304078726952,San Diego,CA,United States}	{Shop & Service,}
+1476	Sun May 15 01:42:56 +0000 2011	4b745b4bf964a5206dd72de3	{Wendy's}	{32.715544393198144,-117.16359436511993,San Diego,CA,United States}	{Food,}
+1476	Sun May 15 01:10:55 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Thu May 12 20:57:35 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Thu May 12 19:43:51 +0000 2011	4bd5e8bb7b1876b0599b8b86	{VAVi Office}	{32.801039,-117.234639,San Diego,CA,United States}	{Professional & Other Places,}
+1476	Thu May 12 18:40:40 +0000 2011	4b6ee0f1f964a520acce2ce3	{Starbucks}	{32.74211099267821,-117.05593585968018,San Diego,CA,United States}	{Food,}
+1476	Thu May 12 18:34:10 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Wed May 11 21:06:33 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Wed May 11 19:23:11 +0000 2011	4b6de94bf964a5202d9b2ce3	{Burger King}	{32.76184855,-117.06560681,San Diego,CA,United States}	{Food,}
+1476	Wed May 11 19:14:55 +0000 2011	4aad3e4ef964a520345f20e3	{VONS}	{32.76112497124472,-117.06521189346643,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Wed May 11 18:51:42 +0000 2011	4a859f66f964a520b0fe1fe3	{Cutters Point}	{32.760758358986386,-117.06793573356207,San Diego,CA,United States}	{Food,}
+1476	Wed May 11 17:05:30 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Wed May 11 05:09:35 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Wed May 11 05:05:55 +0000 2011	4b9ea34bf964a520e3f536e3	{Great Wall Express}	{32.715659452854865,-117.16020332394723,San Diego,CA,United States}	{Food,}
+1476	Tue May 10 22:44:30 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue May 10 21:46:06 +0000 2011	4dc9b201d22d8bfd5db42fad	{PostNet}	{32.71577763,-117.16293947,San Diego,CA,United States}	{Professional & Other Places,}
+1476	Tue May 10 21:34:28 +0000 2011	4b745b4bf964a5206dd72de3	{Wendy's}	{32.715544393198144,-117.16359436511993,San Diego,CA,United States}	{Food,}
+1476	Tue May 10 21:31:35 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue May 10 17:11:58 +0000 2011	4b6ee0f1f964a520acce2ce3	{Starbucks}	{32.74211099267821,-117.05593585968018,San Diego,CA,United States}	{Food,}
+1476	Tue May 10 17:07:48 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Tue May 10 03:44:46 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue May 10 03:23:37 +0000 2011	4b745b4bf964a5206dd72de3	{Wendy's}	{32.715544393198144,-117.16359436511993,San Diego,CA,United States}	{Food,}
+1476	Mon May 09 22:00:41 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Mon May 09 21:44:16 +0000 2011	4baa65b5f964a5204a663ae3	{CVS/Pharmacy}	{32.714763007123274,-117.16200115446442,San Diego,CA,United States}	{Shop & Service,}
+1476	Mon May 09 21:44:15 +0000 2011	4baa65b5f964a5204a663ae3	{CVS/Pharmacy}	{32.714763007123274,-117.16200115446442,San Diego,CA,United States}	{Shop & Service,}
+1476	Mon May 09 21:29:45 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Mon May 09 13:07:31 +0000 2011	4b06ea9af964a520f4f222e3	{Jack in the Box - San Diego, CA}	{32.9368681729823,-117.10094652645085,San Diego,CA,United States}	{Food,}
+1476	Mon May 09 12:58:38 +0000 2011	4bbfc489f8219c74b49cb010	{ARCO}	{32.937819560910036,-117.10033175205152,San Diego,CA,United States}	{Shop & Service,Professional & Other Places,}
+1476	Mon May 09 01:38:41 +0000 2011	4a78f5b2f964a520b4e61fe3	{The Coffee Bean & Tea Leaf?}	{32.767452744821284,-117.15536647868657,San Diego,CA,United States}	{Food,}
+1476	Mon May 09 00:59:01 +0000 2011	4b92e95af964a520582634e3	{JCPenney}	{32.767085109063984,-117.16930959259034,San Diego,CA,United States}	{Shop & Service,Clothing Store,}
+1476	Mon May 09 00:31:38 +0000 2011	4b04bcd9f964a5206f5622e3	{H&M}	{32.767393125258764,-117.16854572296143,San Diego,CA,United States}	{Shop & Service,Clothing Store,}
+1476	Sun May 08 23:58:05 +0000 2011	4b1ed114f964a520f91f24e3	{Macy's}	{32.767366060432565,-117.16753721237183,San Diego,CA,United States}	{Shop & Service,}
+1476	Sun May 08 23:37:52 +0000 2011	4ad6c5fdf964a5203e0821e3	{Express}	{32.768078764777684,-117.16609954833984,San Diego,CA,United States}	{Shop & Service,Clothing Store,}
+1476	Sun May 08 23:34:34 +0000 2011	4be7473fcf200f47c184153c	{Peek}	{32.76824750462412,-117.16589544244596,,,United States}	{Shop & Service,Clothing Store,}
+1476	Sun May 08 22:54:25 +0000 2011	4b8058d7f964a520116a30e3	{Cafe Socrates}	{32.767928,-117.16600311120723,San Diego,CA,United States}	{Food,}
+1476	Sun May 08 22:44:34 +0000 2011	45933bd9f964a52042401fe3	{Fashion Valley Mall}	{32.76831332445334,-117.16644287109375,San Diego,CA,United States}	{Outdoors & Recreation,Shop & Service,Food & Drink Shop,}
+1476	Sun May 08 19:36:57 +0000 2011	4d73cd0e5838a093de9e1ddb	{Holly Drive Leadership Academy}	{32.7030111,-117.086909,San Diego,CA,United States}	{School,Professional & Other Places,}
+1476	Sun May 08 16:49:48 +0000 2011	4bddbae4587b2d7f6bd65409	{ARCO}	{32.697882459761935,-117.02571221745325,San Diego,CA,United States}	{Shop & Service,}
+1476	Sun May 08 06:50:18 +0000 2011	4c76c1145cd6b1f77fe53c94	{Yum Yum Donuts}	{32.74151539554974,-117.04902648925781,San Diego,CA,United States}	{Food,}
+1476	Sun May 08 05:52:28 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun May 08 05:14:57 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Sun May 08 04:01:11 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun May 08 00:11:05 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun May 08 00:02:33 +0000 2011	465a059af964a52022471fe3	{Westfield Horton Plaza}	{32.714005195322024,-117.16228260254077,San Diego,CA,United States}	{Shop & Service,}
+1476	Sat May 07 22:47:21 +0000 2011	4c4b01f3959220a1229af10e	{Food 4 Less}	{32.750701589572884,-117.06830350670944,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Sat May 07 22:21:52 +0000 2011	4b2d43e4f964a520a6d224e3	{Target}	{32.74135087831558,-117.05556898351252,San Diego,CA,United States}	{Shop & Service,}
+1476	Sat May 07 17:39:37 +0000 2011	4aad3e4ef964a520345f20e3	{VONS}	{32.76112497124472,-117.06521189346643,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Sat May 07 17:16:24 +0000 2011	4b90b116f964a520799433e3	{Ralphs}	{32.76929196073767,-117.05429893651524,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Sat May 07 16:34:17 +0000 2011	4c1ebda28b3aa5935f999c5f	{El Cajon Blvd Car Wash}	{32.76913225650787,-117.04909175,San Diego,CA,United States}	{Shop & Service,}
+1476	Sat May 07 16:28:45 +0000 2011	4bb26ff014cfd13a8def14ab	{7-Eleven}	{32.766924214164504,-117.05686775660948,San Diego,CA,United States}	{Shop & Service,}
+1476	Sat May 07 16:02:29 +0000 2011	4b799a89f964a520d7042fe3	{Save a Lot Foods}	{32.75486454,-117.05616528,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Sat May 07 03:24:09 +0000 2011	4c4b01f3959220a1229af10e	{Food 4 Less}	{32.750701589572884,-117.06830350670944,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Sat May 07 03:12:20 +0000 2011	4b8ed354f964a5205d3933e3	{Burritos Santana}	{32.75515422943829,-117.05496556848217,San Diego,CA,United States}	{Food,}
+1476	Fri May 06 22:44:49 +0000 2011	4bbad78b935e9521ca962890	{AMPM}	{33.197610335238096,-117.12752371546516,Escondido,CA,United States}	{Shop & Service,}
+1476	Fri May 06 21:26:47 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Fri May 06 20:55:00 +0000 2011	4c76f787f247370420b864eb	{Food Court}	{32.777893498751006,-117.01102653051692,la mesa,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Fri May 06 20:09:32 +0000 2011	4aa07a4ff964a520c53f20e3	{Grossmont Center}	{32.778430377482955,-117.01114296913147,La Mesa,CA,United States}	{Shop & Service,}
+1476	Fri May 06 17:53:45 +0000 2011	4bbceb5ca8cf76b0ae24b1fd	{AMPM}	{32.74593700536093,-117.04259804966054,La Mesa,CA,United States}	{Shop & Service,}
+1476	Fri May 06 17:40:05 +0000 2011	4c20c5f34d4a20a1ef399b70	{San Diego City College}	{32.717435499982315,-117.15266704559326,San Diego,CA,United States}	{College & University,}
+1476	Fri May 06 17:29:48 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Fri May 06 17:27:05 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Fri May 06 17:01:59 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Fri May 06 02:29:37 +0000 2011	4b6e4806f964a52002b62ce3	{CVS/Pharmacy}	{32.76283139396992,-117.0640855694289,San Diego,CA,United States}	{Shop & Service,}
+1476	Thu May 05 22:30:44 +0000 2011	4b2d43e4f964a520a6d224e3	{Target}	{32.74135087831558,-117.05556898351252,San Diego,CA,United States}	{Shop & Service,}
+1476	Thu May 05 21:15:11 +0000 2011	4b4923e5f964a520876726e3	{Walmart Supercenter}	{32.741802530973224,-117.05298411904302,San Diego,CA,United States}	{Shop & Service,}
+1476	Thu May 05 20:56:02 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Thu May 05 17:36:12 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Thu May 05 04:27:09 +0000 2011	4be4c6012457a59392c5aa15	{Bank of America}	{32.7432470144661,-117.05281624743677,College Grove,CA,United States}	{Shop & Service,}
+1476	Thu May 05 04:24:52 +0000 2011	4b2d43e4f964a520a6d224e3	{Target}	{32.74135087831558,-117.05556898351252,San Diego,CA,United States}	{Shop & Service,}
+1476	Wed May 04 22:35:27 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Wed May 04 17:57:18 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Wed May 04 04:17:56 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Wed May 04 01:06:04 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Wed May 04 00:52:02 +0000 2011	4bdb2c132a3a0f477cc2adb6	{7-Eleven}	{32.71575373860863,-117.16304078726952,San Diego,CA,United States}	{Shop & Service,}
+1476	Tue May 03 22:09:14 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue May 03 21:27:36 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Tue May 03 19:11:01 +0000 2011	4bcbaed1511f9521ee05b2c7	{Smart & Final}	{32.76238898353807,-117.0637522682909,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Tue May 03 18:58:28 +0000 2011	4aad3e4ef964a520345f20e3	{VONS}	{32.76112497124472,-117.06521189346643,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Tue May 03 17:51:27 +0000 2011	4b4923e5f964a520876726e3	{Walmart Supercenter}	{32.741802530973224,-117.05298411904302,San Diego,CA,United States}	{Shop & Service,}
+1476	Tue May 03 17:45:17 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Tue May 03 01:45:02 +0000 2011	4c4b01f3959220a1229af10e	{Food 4 Less}	{32.750701589572884,-117.06830350670944,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Tue May 03 00:31:08 +0000 2011	4b2d43e4f964a520a6d224e3	{Target}	{32.74135087831558,-117.05556898351252,San Diego,CA,United States}	{Shop & Service,}
+1476	Mon May 02 18:11:53 +0000 2011	4a589892f964a52091b71fe3	{McDonald's}	{32.73252681009106,-117.19768524169922,San Diego,CA,United States}	{Food,}
+1476	Mon May 02 18:03:12 +0000 2011	4541114bf964a520433c1fe3	{San Diego International Airport (SAN)}	{32.73299611609881,-117.19931602478027,San Diego,CA,United States}	{Travel & Transport,}
+1476	Mon May 02 04:17:12 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Mon May 02 04:08:24 +0000 2011	4a9887fdf964a520882c20e3	{Sushi Deli 2}	{32.71588027,-117.163093,San Diego,CA,United States}	{Food,}
+1476	Mon May 02 02:32:59 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun May 01 20:56:32 +0000 2011	4b799a89f964a520d7042fe3	{Save a Lot Foods}	{32.75486454,-117.05616528,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Sun May 01 20:49:56 +0000 2011	4b7998cff964a52059042fe3	{DOLLAR TREE}	{32.7550074263985,-117.05604596749203,San Diego,CA,United States}	{Shop & Service,}
+1476	Sun May 01 19:34:11 +0000 2011	4bdc4d542a3a0f471034b2b6	{Jack in the Box}	{32.75487048224358,-117.04726469016613,La Mesa,CA,United States}	{Food,}
+1476	Sun May 01 14:12:02 +0000 2011	4bd6242c637ba5936bc0f770	{Cancer Survivors Park}	{32.7290249872624,-117.19918727874756,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Sun May 01 03:21:11 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun May 01 03:17:56 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Sun May 01 03:08:35 +0000 2011	4a5ab9a6f964a520ceba1fe3	{Ralphs}	{32.712258231224205,-117.16351177939859,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Sun May 01 02:24:41 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sat Apr 30 03:05:55 +0000 2011	4c20c5f34d4a20a1ef399b70	{San Diego City College}	{32.717435499982315,-117.15266704559326,San Diego,CA,United States}	{College & University,}
+1476	Sat Apr 30 02:14:50 +0000 2011	4b3c2217f964a5201d8225e3	{Party City}	{32.65309989452362,-117.08963655,National City,CA,United States}	{Shop & Service,}
+1476	Sat Apr 30 01:54:17 +0000 2011	4d6ec290f703b60c1822a3e2	{Crafter's Design}	{32.60483858,-117.09154781,Chula Vista,CA,United States}	{Shop & Service,}
+1476	Sat Apr 30 01:44:22 +0000 2011	4c00562cad15a593fabe8d73	{Party Productions}	{32.604026198387146,-117.08334267139435,Chula Vista,CA,United States}	{Shop & Service,}
+1476	Fri Apr 29 22:42:53 +0000 2011	4c1288d582a3c9b6dee6f9f8	{BMW of El Cajon}	{32.78500627621823,-116.97705872300126,El Cajon,CA,United States}	{Shop & Service,}
+1476	Fri Apr 29 22:31:09 +0000 2011	4c193ae24ff90f471e9d0f49	{Autobahn}	{32.81289956419311,-116.96672760997834,El Cajon,CA,United States}	{Shop & Service,}
+1476	Fri Apr 29 20:59:12 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Fri Apr 29 19:59:49 +0000 2011	4c2e0c1d987f20a15b6a4aaa	{Harloff Automotive}	{32.75777041912079,-117.03691682,La Mesa,CA,United States}	{Shop & Service,}
+1476	Fri Apr 29 19:53:08 +0000 2011	4c6d925ec5243704f88a28eb	{Napa Auto Parts}	{32.708324,-116.997792,Spring Valley,CA,United States}	{Shop & Service,}
+1476	Fri Apr 29 18:01:42 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Thu Apr 28 23:02:32 +0000 2011	4b4923e5f964a520876726e3	{Walmart Supercenter}	{32.741802530973224,-117.05298411904302,San Diego,CA,United States}	{Shop & Service,}
+1476	Tue Apr 26 20:13:07 +0000 2011	4b2d43e4f964a520a6d224e3	{Target}	{32.74135087831558,-117.05556898351252,San Diego,CA,United States}	{Shop & Service,}
+1476	Tue Apr 26 01:38:14 +0000 2011	4a9887fdf964a520882c20e3	{Sushi Deli 2}	{32.71588027,-117.163093,San Diego,CA,United States}	{Food,}
+1476	Mon Apr 25 22:07:59 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Mon Apr 25 00:44:06 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun Apr 24 20:16:58 +0000 2011	4c9199ef51d9b1f792388246	{Zappy Pizza}	{32.75019786519482,-117.06858508258621,San Diego,CA,United States}	{Food,}
+1476	Sun Apr 24 20:12:59 +0000 2011	4c4b01f3959220a1229af10e	{Food 4 Less}	{32.750701589572884,-117.06830350670944,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Sun Apr 24 06:13:28 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun Apr 24 06:04:24 +0000 2011	4b745b4bf964a5206dd72de3	{Wendy's}	{32.715544393198144,-117.16359436511993,San Diego,CA,United States}	{Food,}
+1476	Sun Apr 24 06:00:07 +0000 2011	4baa65b5f964a5204a663ae3	{CVS/Pharmacy}	{32.714763007123274,-117.16200115446442,San Diego,CA,United States}	{Shop & Service,}
+1476	Sun Apr 24 05:57:40 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Sun Apr 24 03:00:01 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun Apr 24 01:48:59 +0000 2011	4a5ab9a6f964a520ceba1fe3	{Ralphs}	{32.712258231224205,-117.16351177939859,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Fri Apr 22 18:07:11 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Thu Apr 21 20:41:10 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Thu Apr 21 19:19:49 +0000 2011	44b3bd91f964a52051351fe3	{T.G.I. Friday's}	{32.76012756,-117.1617071,San Diego,CA,United States}	{Nightlife Spot,Food,}
+1476	Wed Apr 20 20:09:52 +0000 2011	4d4319a208d16dcb6a0f7854	{Cafe 21}	{32.713223467366724,-117.16016886058821,San Diego,CA,United States}	{Nightlife Spot,Food,}
+1476	Wed Apr 20 05:16:54 +0000 2011	4bdb2c132a3a0f477cc2adb6	{7-Eleven}	{32.71575373860863,-117.16304078726952,San Diego,CA,United States}	{Shop & Service,}
+1476	Wed Apr 20 03:01:41 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Wed Apr 20 02:52:38 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Wed Apr 20 01:16:45 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Wed Apr 20 00:47:30 +0000 2011	4baa65b5f964a5204a663ae3	{CVS/Pharmacy}	{32.714763007123274,-117.16200115446442,San Diego,CA,United States}	{Shop & Service,}
+1476	Tue Apr 19 22:52:42 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue Apr 19 03:00:58 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue Apr 19 02:55:41 +0000 2011	4bdb2c132a3a0f477cc2adb6	{7-Eleven}	{32.71575373860863,-117.16304078726952,San Diego,CA,United States}	{Shop & Service,}
+1476	Tue Apr 19 01:49:52 +0000 2011	4b9ea34bf964a520e3f536e3	{Great Wall Express}	{32.715659452854865,-117.16020332394723,San Diego,CA,United States}	{Food,}
+1476	Tue Apr 19 00:09:42 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Mon Apr 18 15:27:45 +0000 2011	4c3a2f9f1e06d13a13e77a3e	{Commuter Terminal}	{32.730423927831126,-117.19162344932556,San Diego,CA,United States}	{Travel & Transport,Airport,}
+1476	Mon Apr 18 00:16:45 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Mon Apr 18 00:01:12 +0000 2011	4a5ab9a6f964a520ceba1fe3	{Ralphs}	{32.712258231224205,-117.16351177939859,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Sun Apr 17 03:37:34 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun Apr 17 03:10:23 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Sun Apr 17 02:15:40 +0000 2011	40e0b100f964a52023021fe3	{The Field Irish Pub & Restaurant}	{32.711110924362224,-117.1601516289065,San Diego,CA,United States}	{Nightlife Spot,Food,}
+1476	Sun Apr 17 01:48:52 +0000 2011	465a059af964a52022471fe3	{Westfield Horton Plaza}	{32.714005195322024,-117.16228260254077,San Diego,CA,United States}	{Shop & Service,}
+1476	Sun Apr 17 00:13:20 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun Apr 17 00:06:23 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Sat Apr 16 23:59:30 +0000 2011	4baa65b5f964a5204a663ae3	{CVS/Pharmacy}	{32.714763007123274,-117.16200115446442,San Diego,CA,United States}	{Shop & Service,}
+1476	Sat Apr 16 21:48:45 +0000 2011	4cb4f409e262b60c1e3064e0	{Starbucks}	{33.12504470612179,-117.32021098369829,Carlsbad,CA,United States}	{Food,}
+1476	Sat Apr 16 20:14:37 +0000 2011	4b3e7d7bf964a520ea9d25e3	{Reebok}	{33.1253142609942,-117.32102394104004,Carlsbad,CA,United States}	{Shop & Service,}
+1476	Sat Apr 16 20:07:34 +0000 2011	4aa07383f964a520ad3f20e3	{Adidas}	{33.12652469566551,-117.32196721428053,Carlsbad,CA,United States}	{Shop & Service,}
+1476	Sat Apr 16 20:04:03 +0000 2011	50983855f47034e88aab56bc	{Gymboree Outlet}	{33.12688525089061,-117.3221451322003,Carlsbad,CA,United States}	{Shop & Service,Clothing Store,}
+1476	Sat Apr 16 19:50:20 +0000 2011	4b94021ff964a520d66034e3	{The PUMA Outlet Carlsbad Company Stores, Carlsbad}	{33.1263429127511,-117.32085378884699,Carlsbad,CA,United States}	{Shop & Service,Clothing Store,}
+1476	Sat Apr 16 19:47:48 +0000 2011	4b44d05af964a520fdfc25e3	{Converse}	{33.125703736648326,-117.3202511590809,Carlsbad,CA,United States}	{Shop & Service,Clothing Store,}
+1476	Sat Apr 16 19:44:18 +0000 2011	4bacfbdff964a5203f213be3	{Carlsbad Premium Outlets}	{33.126266682499754,-117.32128143310547,Carlsbad,CA,United States}	{Shop & Service,}
+1476	Fri Apr 15 11:08:57 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Fri Apr 15 00:38:57 +0000 2011	4a6bd57bf964a5200cd01fe3	{Nicks at the Pier}	{32.74843,-117.25197,San Diego,CA,United States}	{Nightlife Spot,}
+1476	Thu Apr 14 22:41:05 +0000 2011	4abd4245f964a520488920e3	{Grossmont College}	{32.81597421341714,-117.00575552695076,El Cajon,CA,United States}	{College & University,}
+1476	Thu Apr 14 19:01:20 +0000 2011	4bb9439d1261d13a6782e998	{Valero (Rolando)}	{32.75417756359244,-117.05865499309284,San Diego,CA,United States}	{Shop & Service,}
+1476	Thu Apr 14 17:19:50 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Thu Apr 14 14:57:45 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Thu Apr 14 01:01:44 +0000 2011	4aad3e4ef964a520345f20e3	{VONS}	{32.76112497124472,-117.06521189346643,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Thu Apr 14 00:17:03 +0000 2011	4bcbaed1511f9521ee05b2c7	{Smart & Final}	{32.76238898353807,-117.0637522682909,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Wed Apr 13 17:15:28 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Wed Apr 13 12:53:44 +0000 2011	4b8b3f47f964a520589932e3	{Mobil}	{32.93669589706497,-117.1003145153598,SAN DIEGO,CA,United States}	{Shop & Service,}
+1476	Wed Apr 13 12:44:22 +0000 2011	4a4432c7f964a5204ca71fe3	{Starbucks @ Vons}	{32.935764619339466,-117.0992975480073,San Diego,CA,United States}	{Food,}
+1476	Tue Apr 12 18:38:54 +0000 2011	4bfd3266e529c9281a85ba8c	{7-Eleven}	{32.74615169805899,-117.05904614040635,San Diego,CA,United States}	{Shop & Service,}
+1476	Tue Apr 12 18:36:21 +0000 2011	4b4923e5f964a520876726e3	{Walmart Supercenter}	{32.741802530973224,-117.05298411904302,San Diego,CA,United States}	{Shop & Service,}
+1476	Tue Apr 12 17:15:50 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Tue Apr 12 05:57:37 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue Apr 12 05:25:58 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Tue Apr 12 03:49:19 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue Apr 12 03:01:20 +0000 2011	4bdb2c132a3a0f477cc2adb6	{7-Eleven}	{32.71575373860863,-117.16304078726952,San Diego,CA,United States}	{Shop & Service,}
+1476	Tue Apr 12 02:54:25 +0000 2011	4b745b4bf964a5206dd72de3	{Wendy's}	{32.715544393198144,-117.16359436511993,San Diego,CA,United States}	{Food,}
+1476	Mon Apr 11 22:17:35 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Mon Apr 11 21:24:10 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Mon Apr 11 18:41:52 +0000 2011	4b2d43e4f964a520a6d224e3	{Target}	{32.74135087831558,-117.05556898351252,San Diego,CA,United States}	{Shop & Service,}
+1476	Mon Apr 11 18:35:28 +0000 2011	4c0ac73affb8c9b6fe356c61	{US Post Office}	{32.74197427625969,-117.05599999318004,San Diego,CA,United States}	{Professional & Other Places,}
+1476	Mon Apr 11 06:30:35 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Mon Apr 11 05:10:28 +0000 2011	4a521f7df964a52046b11fe3	{Starbucks}	{32.713681181341386,-117.1599850559087,San Diego,CA,United States}	{Food,}
+1476	Sun Apr 10 05:55:44 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun Apr 10 05:27:12 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Sun Apr 10 03:54:16 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun Apr 10 02:49:22 +0000 2011	4bdb2c132a3a0f477cc2adb6	{7-Eleven}	{32.71575373860863,-117.16304078726952,San Diego,CA,United States}	{Shop & Service,}
+1476	Sun Apr 10 02:35:06 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sat Apr 09 20:34:56 +0000 2011	46a32b5bf964a52033491fe3	{Oggi's Pizza & Brewing Co. - Liberty Station}	{32.728595,-117.217379,San Diego,CA,United States}	{Food,}
+1476	Fri Apr 08 18:06:33 +0000 2011	4bbbfb0d3de8c9b62f8e9aad	{National University - Spectrum Campus, California}	{32.82948114058719,-117.12748350181275,San Diego,CA,United States}	{College & University,}
+1476	Fri Apr 08 17:31:17 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Fri Apr 08 16:16:12 +0000 2011	4ba64299f964a520204039e3	{ARCO}	{32.74103182,-117.0493118,La Mesa,CA,United States}	{Shop & Service,}
+1476	Fri Apr 08 16:06:33 +0000 2011	4b4923e5f964a520876726e3	{Walmart Supercenter}	{32.741802530973224,-117.05298411904302,San Diego,CA,United States}	{Shop & Service,}
+1476	Fri Apr 08 05:16:07 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Fri Apr 08 04:27:29 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Fri Apr 08 02:17:45 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Thu Apr 07 05:38:21 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Thu Apr 07 05:16:40 +0000 2011	4b64b4c9f964a520eac92ae3	{7-Eleven}	{32.715799858784266,-117.1601401411179,San Diego,CA,United States}	{Shop & Service,}
+1476	Wed Apr 06 22:32:44 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue Apr 05 21:08:48 +0000 2011	4d5d94dab36d548198c680b6	{Ocean Beach MainStreet Association}	{32.74649517,-117.251493,San Diego,CA,United States}	{Convention Center,Professional & Other Places,}
+1476	Mon Apr 04 17:43:51 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Sun Apr 03 05:49:05 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun Apr 03 05:45:14 +0000 2011	4b64b4c9f964a520eac92ae3	{7-Eleven}	{32.715799858784266,-117.1601401411179,San Diego,CA,United States}	{Shop & Service,}
+1476	Sun Apr 03 03:54:25 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun Apr 03 02:33:55 +0000 2011	4b745b4bf964a5206dd72de3	{Wendy's}	{32.715544393198144,-117.16359436511993,San Diego,CA,United States}	{Food,}
+1476	Sun Apr 03 00:06:16 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sat Apr 02 03:22:03 +0000 2011	4b591e97f964a520867d28e3	{@ Spacebar}	{32.75816202163696,-117.03726768493652,La Mesa,CA,United States}	{Shop & Service,Food,Gym / Fitness Center,}
+1476	Fri Apr 01 15:55:04 +0000 2011	4d5d94dab36d548198c680b6	{Ocean Beach MainStreet Association}	{32.74649517,-117.251493,San Diego,CA,United States}	{Convention Center,Professional & Other Places,}
+1476	Fri Apr 01 15:13:47 +0000 2011	4abdcc2df964a520778b20e3	{7-Eleven}	{32.751967132994594,-117.24676262271694,San Diego,CA,United States}	{Shop & Service,}
+1476	Fri Apr 01 06:29:43 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Fri Apr 01 05:41:13 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Fri Apr 01 04:44:34 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Fri Apr 01 04:39:13 +0000 2011	4b9ea34bf964a520e3f536e3	{Great Wall Express}	{32.715659452854865,-117.16020332394723,San Diego,CA,United States}	{Food,}
+1476	Fri Apr 01 04:39:13 +0000 2011	4b9ea34bf964a520e3f536e3	{Great Wall Express}	{32.715659452854865,-117.16020332394723,San Diego,CA,United States}	{Food,}
+1476	Thu Mar 31 22:02:50 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Thu Mar 31 19:06:04 +0000 2011	4b7998cff964a52059042fe3	{DOLLAR TREE}	{32.7550074263985,-117.05604596749203,San Diego,CA,United States}	{Shop & Service,}
+1476	Thu Mar 31 17:28:30 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Thu Mar 31 06:08:20 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Thu Mar 31 06:01:31 +0000 2011	4bdb2c132a3a0f477cc2adb6	{7-Eleven}	{32.71575373860863,-117.16304078726952,San Diego,CA,United States}	{Shop & Service,}
+1476	Thu Mar 31 05:20:04 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Thu Mar 31 02:26:14 +0000 2011	4b745b4bf964a5206dd72de3	{Wendy's}	{32.715544393198144,-117.16359436511993,San Diego,CA,United States}	{Food,}
+1476	Thu Mar 31 00:52:35 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Thu Mar 31 00:33:41 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Wed Mar 30 23:41:44 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Wed Mar 30 23:36:37 +0000 2011	4af31fe9f964a520edea21e3	{Jamba Juice}	{32.714935078175664,-117.16209769248962,San Diego,CA,United States}	{Food,}
+1476	Wed Mar 30 20:46:47 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Wed Mar 30 16:51:40 +0000 2011	4d935e76b053b60c95f28ccb	{Channel 4 San Diego}	{32.709019567722805,-117.15549327777762,San Diego,CA,United States}	{Professional & Other Places,}
+1476	Wed Mar 30 16:11:54 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Wed Mar 30 01:53:24 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Wed Mar 30 01:40:42 +0000 2011	4b9ea34bf964a520e3f536e3	{Great Wall Express}	{32.715659452854865,-117.16020332394723,San Diego,CA,United States}	{Food,}
+1476	Tue Mar 29 21:46:40 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue Mar 29 21:37:35 +0000 2011	4b745b4bf964a5206dd72de3	{Wendy's}	{32.715544393198144,-117.16359436511993,San Diego,CA,United States}	{Food,}
+1476	Tue Mar 29 21:33:04 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue Mar 29 21:16:55 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Tue Mar 29 17:30:00 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Mon Mar 28 20:42:22 +0000 2011	4b4923e5f964a520876726e3	{Walmart Supercenter}	{32.741802530973224,-117.05298411904302,San Diego,CA,United States}	{Shop & Service,}
+1476	Mon Mar 28 05:44:24 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Mon Mar 28 05:39:47 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun Mar 27 06:08:43 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Sun Mar 27 05:59:15 +0000 2011	4a5ab9a6f964a520ceba1fe3	{Ralphs}	{32.712258231224205,-117.16351177939859,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Sun Mar 27 02:57:27 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun Mar 27 02:43:22 +0000 2011	4bb652122ea19521287dab2f	{Quiznos}	{32.71581186666666,-117.163449,San Diego,CA,United States}	{Food,}
+1476	Sun Mar 27 00:57:17 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun Mar 27 00:25:05 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Sun Mar 27 00:15:30 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sat Mar 26 18:07:35 +0000 2011	4b4224abf964a52084cd25e3	{Rohr Park}	{32.66519342625016,-117.03344837352662,Bonita,CA,United States}	{Outdoors & Recreation,}
+1476	Sat Mar 26 00:28:04 +0000 2011	43f09b8cf964a520782f1fe3	{Islands Restaurant}	{33.765626,-118.19265604019165,Long Beach,CA,United States}	{Food,}
+1476	Fri Mar 25 19:45:59 +0000 2011	4c6e089165eda093119650d0	{Taco Bell}	{33.93127156691751,-118.3255991446211,Inglewood,CA,United States}	{Food,}
+1476	Fri Mar 25 03:07:34 +0000 2011	4b745b4bf964a5206dd72de3	{Wendy's}	{32.715544393198144,-117.16359436511993,San Diego,CA,United States}	{Food,}
+1476	Fri Mar 25 02:51:51 +0000 2011	465a059af964a52022471fe3	{Westfield Horton Plaza}	{32.714005195322024,-117.16228260254077,San Diego,CA,United States}	{Shop & Service,}
+1476	Fri Mar 25 02:17:27 +0000 2011	4c8b10f352a98cfa060033e9	{Sprinkles Cupcakes}	{32.86924283752851,-117.23167419433594,La Jolla,CA,United States}	{Food,}
+1476	Thu Mar 24 05:14:59 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Thu Mar 24 05:11:48 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Thu Mar 24 04:28:38 +0000 2011	4a3547c1f964a520b89c1fe3	{RA Sushi Bar Restaurant}	{32.715704714144934,-117.16048477449557,San Diego,CA,United States}	{Nightlife Spot,Food,}
+1476	Wed Mar 23 22:23:37 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Wed Mar 23 22:05:52 +0000 2011	4af31fe9f964a520edea21e3	{Jamba Juice}	{32.714935078175664,-117.16209769248962,San Diego,CA,United States}	{Food,}
+1476	Wed Mar 23 21:56:36 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Wed Mar 23 19:51:52 +0000 2011	4ad15291f964a5200ade20e3	{SONIC Drive In}	{32.837984994199,-116.96862300558271,Santee,CA,United States}	{Food,}
+1476	Tue Mar 22 21:08:52 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Tue Mar 22 17:35:49 +0000 2011	4b4923e5f964a520876726e3	{Walmart Supercenter}	{32.741802530973224,-117.05298411904302,San Diego,CA,United States}	{Shop & Service,}
+1476	Tue Mar 22 17:18:12 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Tue Mar 22 04:15:04 +0000 2011	40f5c900f964a520a70a1fe3	{Borders}	{32.76629248235638,-117.15526342391968,San Diego,CA,United States}	{Shop & Service,Food,}
+1476	Mon Mar 21 16:47:25 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Sun Mar 20 18:52:59 +0000 2011	4b799a89f964a520d7042fe3	{Save a Lot Foods}	{32.75486454,-117.05616528,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Sun Mar 20 18:52:59 +0000 2011	4b799a89f964a520d7042fe3	{Save a Lot Foods}	{32.75486454,-117.05616528,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Sun Mar 20 05:31:26 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun Mar 20 05:28:07 +0000 2011	4b64b4c9f964a520eac92ae3	{7-Eleven}	{32.715799858784266,-117.1601401411179,San Diego,CA,United States}	{Shop & Service,}
+1476	Sun Mar 20 05:25:12 +0000 2011	4af31fe9f964a520edea21e3	{Jamba Juice}	{32.714935078175664,-117.16209769248962,San Diego,CA,United States}	{Food,}
+1476	Sun Mar 20 05:23:22 +0000 2011	4baa65b5f964a5204a663ae3	{CVS/Pharmacy}	{32.714763007123274,-117.16200115446442,San Diego,CA,United States}	{Shop & Service,}
+1476	Sun Mar 20 05:23:22 +0000 2011	4baa65b5f964a5204a663ae3	{CVS/Pharmacy}	{32.714763007123274,-117.16200115446442,San Diego,CA,United States}	{Shop & Service,}
+1476	Sun Mar 20 05:21:29 +0000 2011	4a9887fdf964a520882c20e3	{Sushi Deli 2}	{32.71588027,-117.163093,San Diego,CA,United States}	{Food,}
+1476	Sun Mar 20 00:55:30 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sat Mar 19 23:16:42 +0000 2011	4bbe6b9b82a2ef3b545e2bd2	{Steak Escape}	{32.71386911772286,-117.16239747919538,San Diego,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1476	Sat Mar 19 16:48:18 +0000 2011	4a970136f964a520eb2720e3	{San Diego State University}	{32.77484466101961,-117.07383155822752,San Diego,CA,United States}	{College & University,}
+1476	Fri Mar 18 21:26:36 +0000 2011	4bfd3266e529c9281a85ba8c	{7-Eleven}	{32.74615169805899,-117.05904614040635,San Diego,CA,United States}	{Shop & Service,}
+1476	Fri Mar 18 21:19:05 +0000 2011	4cdd6d543f6a8cfa11eff7ea	{O'Reilly Auto Parts}	{32.74119154670701,-117.048682,Lemon Grove,CA,United States}	{Shop & Service,}
+1476	Fri Mar 18 20:59:12 +0000 2011	4b54f11af964a52052d427e3	{The Home Depot}	{32.74399129735902,-117.03605231102581,Lemon Grove,CA,United States}	{Shop & Service,}
+1476	Fri Mar 18 17:47:42 +0000 2011	4cdd6d543f6a8cfa11eff7ea	{O'Reilly Auto Parts}	{32.74119154670701,-117.048682,Lemon Grove,CA,United States}	{Shop & Service,}
+1476	Fri Mar 18 17:43:28 +0000 2011	4ba64299f964a520204039e3	{ARCO}	{32.74103182,-117.0493118,La Mesa,CA,United States}	{Shop & Service,}
+1476	Fri Mar 18 16:32:11 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Fri Mar 18 15:34:48 +0000 2011	522a58658bfdc93df143c906	{Einstein Bros Bagels}	{32.74793188365104,-117.20722890092394,San Diego,CA,United States}	{Food,}
+1476	Fri Mar 18 12:22:23 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Fri Mar 18 12:12:05 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Fri Mar 18 12:08:40 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Thu Mar 17 01:28:38 +0000 2011	4b4b8ab2f964a520a99f26e3	{Ocean Beach Pier}	{32.747696636039436,-117.25315275065967,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Tue Mar 15 17:08:05 +0000 2011	4b4923e5f964a520876726e3	{Walmart Supercenter}	{32.741802530973224,-117.05298411904302,San Diego,CA,United States}	{Shop & Service,}
+1476	Tue Mar 15 16:23:50 +0000 2011	4b673b42f964a520bb422be3	{Jack in the Box - El Cajon, CA}	{32.8016761946377,-117.00281244464544,El Cajon,CA,United States}	{Food,}
+1476	Tue Mar 15 15:14:59 +0000 2011	4a7b40aef964a5207cea1fe3	{San Diego DMV Office}	{32.75035870115045,-117.14910507202148,San Diego,CA,United States}	{Government Building,Professional & Other Places,}
+1476	Tue Mar 15 04:24:38 +0000 2011	4b64e4c3f964a52004d82ae3	{Pho Xpress}	{32.717427,-117.15915844999999,San Diego,CA,United States}	{Food,}
+1476	Tue Mar 15 04:22:05 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue Mar 15 01:40:45 +0000 2011	4baa65b5f964a5204a663ae3	{CVS/Pharmacy}	{32.714763007123274,-117.16200115446442,San Diego,CA,United States}	{Shop & Service,}
+1476	Tue Mar 15 01:29:48 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Mon Mar 14 20:08:03 +0000 2011	4b43604ff964a52020df25e3	{Starbucks}	{32.74955515413257,-117.15387920045788,San Diego,CA,United States}	{Food,}
+1476	Mon Mar 14 19:41:54 +0000 2011	4a6e1d9cf964a520f4d31fe3	{Bank Of America}	{32.748202,-117.157504,San Diego,CA,United States}	{Shop & Service,}
+1476	Mon Mar 14 18:33:51 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Mon Mar 14 17:39:06 +0000 2011	4d7e4a939df3f04d30bdc194	{USA Smog Check}	{32.755492,-117.05838357,San Diego,CA,United States}	{Shop & Service,}
+1476	Mon Mar 14 17:05:39 +0000 2011	4d7e4a939df3f04d30bdc194	{USA Smog Check}	{32.755492,-117.05838357,San Diego,CA,United States}	{Shop & Service,}
+1476	Mon Mar 14 16:20:19 +0000 2011	4b799a89f964a520d7042fe3	{Save a Lot Foods}	{32.75486454,-117.05616528,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Mon Mar 14 04:41:44 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Mon Mar 14 04:37:30 +0000 2011	4b64b4c9f964a520eac92ae3	{7-Eleven}	{32.715799858784266,-117.1601401411179,San Diego,CA,United States}	{Shop & Service,}
+1476	Mon Mar 14 02:12:48 +0000 2011	4b745b4bf964a5206dd72de3	{Wendy's}	{32.715544393198144,-117.16359436511993,San Diego,CA,United States}	{Food,}
+1476	Mon Mar 14 01:51:04 +0000 2011	4a5ab9a6f964a520ceba1fe3	{Ralphs}	{32.712258231224205,-117.16351177939859,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Sun Mar 13 03:16:34 +0000 2011	465a059af964a52022471fe3	{Westfield Horton Plaza}	{32.714005195322024,-117.16228260254077,San Diego,CA,United States}	{Shop & Service,}
+1476	Sun Mar 13 01:30:21 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sat Mar 12 01:36:09 +0000 2011	4b4923e5f964a520876726e3	{Walmart Supercenter}	{32.741802530973224,-117.05298411904302,San Diego,CA,United States}	{Shop & Service,}
+1476	Sat Mar 12 01:22:55 +0000 2011	4cdd6d543f6a8cfa11eff7ea	{O'Reilly Auto Parts}	{32.74119154670701,-117.048682,Lemon Grove,CA,United States}	{Shop & Service,}
+1476	Fri Mar 11 17:51:46 +0000 2011	4b65ed67f964a520de082be3	{Starbucks}	{32.7483735456925,-117.1310806274414,San Diego,CA,United States}	{Food,}
+1476	Fri Mar 11 06:32:50 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Fri Mar 11 06:30:45 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Fri Mar 11 05:12:03 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Fri Mar 11 02:03:40 +0000 2011	42eeb780f964a520af261fe3	{The W Beach Bar}	{32.71770668158207,-117.16713608499197,San Diego,CA,United States}	{Nightlife Spot,}
+1476	Fri Mar 11 01:10:44 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Thu Mar 10 21:59:29 +0000 2011	4bed85896c5c9521f3e3068a	{Bob Brown Automotive}	{32.75441338273214,-117.0604134809202,San Diego,CA,United States}	{Shop & Service,}
+1476	Thu Mar 10 15:34:38 +0000 2011	4a7b40aef964a5207cea1fe3	{San Diego DMV Office}	{32.75035870115045,-117.14910507202148,San Diego,CA,United States}	{Government Building,Professional & Other Places,}
+1476	Thu Mar 10 02:18:58 +0000 2011	4b6e002bf964a5206ca22ce3	{Ocean Beach People's Organic Food Market}	{32.74938804,-117.24283754825592,San Diego,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1476	Thu Mar 10 01:39:55 +0000 2011	4c6491fe3f69c9b6d30c89d9	{OB Centric}	{32.74652128333334,-117.24814331666667,San Diego,CA,United States}	{Arts & Entertainment,}
+1476	Wed Mar 09 21:49:29 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Wed Mar 09 18:37:28 +0000 2011	4a859f66f964a520b0fe1fe3	{Cutters Point}	{32.760758358986386,-117.06793573356207,San Diego,CA,United States}	{Food,}
+1476	Wed Mar 09 17:55:54 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Wed Mar 09 03:03:40 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Wed Mar 09 02:56:14 +0000 2011	4b745b4bf964a5206dd72de3	{Wendy's}	{32.715544393198144,-117.16359436511993,San Diego,CA,United States}	{Food,}
+1476	Tue Mar 08 18:42:38 +0000 2011	4a7ddaf2f964a520ebef1fe3	{Valley View Casino Center}	{32.754292787610474,-117.2114610671997,San Diego,CA,United States}	{Stadium,Arts & Entertainment,Professional & Other Places,}
+1476	Tue Mar 08 03:02:21 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue Mar 08 02:39:18 +0000 2011	4a54270cf964a52013b31fe3	{Subway}	{32.71547991640927,-117.1599793120098,San Diego,CA,United States}	{Food,}
+1476	Tue Mar 08 00:04:25 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue Mar 08 00:01:32 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Mon Mar 07 22:31:33 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Mon Mar 07 18:51:17 +0000 2011	4d59322dc88da1cd184f3768	{Security At Terminal 1}	{32.732835263585,-117.19814969811223,San Diego,CA,United States}	{Travel & Transport,Airport,}
+1476	Sun Mar 06 21:57:27 +0000 2011	4bb7e912cf2fc9b6ed019f02	{Albertsons}	{32.74342851157562,-117.04494953155518,Lemon Grove,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Sun Mar 06 01:40:37 +0000 2011	4c0afd30ffb8c9b693a16c61	{Mission Valley Resort}	{32.75927226427409,-117.17088668542429,San Diego,CA,United States}	{Travel & Transport,Hotel,}
+1476	Sat Mar 05 16:21:44 +0000 2011	4b4923e5f964a520876726e3	{Walmart Supercenter}	{32.741802530973224,-117.05298411904302,San Diego,CA,United States}	{Shop & Service,}
+1476	Sat Mar 05 01:05:31 +0000 2011	4b4923e5f964a520876726e3	{Walmart Supercenter}	{32.741802530973224,-117.05298411904302,San Diego,CA,United States}	{Shop & Service,}
+1476	Fri Mar 04 23:33:23 +0000 2011	4bb3d0f34019a5936b7e38b8	{The Spot}	{32.758539253614124,-117.07673337859207,San Diego,CA,United States}	{Shop & Service,}
+1476	Fri Mar 04 23:33:22 +0000 2011	4bb3d0f34019a5936b7e38b8	{The Spot}	{32.758539253614124,-117.07673337859207,San Diego,CA,United States}	{Shop & Service,}
+1476	Fri Mar 04 22:56:54 +0000 2011	4a91b446f964a520701b20e3	{Men's Wearhouse}	{32.778542,-117.00583976666667,La Mesa,CA,United States}	{Shop & Service,Clothing Store,}
+1476	Fri Mar 04 22:29:40 +0000 2011	4bb26ff014cfd13a8def14ab	{7-Eleven}	{32.766924214164504,-117.05686775660948,San Diego,CA,United States}	{Shop & Service,}
+1476	Thu Mar 03 18:40:30 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Wed Mar 02 06:59:36 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Wed Mar 02 06:58:27 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Tue Mar 01 22:48:59 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue Mar 01 22:40:30 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Tue Mar 01 22:38:21 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue Mar 01 22:38:21 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue Mar 01 07:31:51 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Tue Mar 01 07:30:15 +0000 2011	4baa65b5f964a5204a663ae3	{CVS/Pharmacy}	{32.714763007123274,-117.16200115446442,San Diego,CA,United States}	{Shop & Service,}
+1476	Tue Mar 01 00:25:37 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue Mar 01 00:25:37 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun Feb 27 23:48:06 +0000 2011	4b7998cff964a52059042fe3	{DOLLAR TREE}	{32.7550074263985,-117.05604596749203,San Diego,CA,United States}	{Shop & Service,}
+1476	Sun Feb 27 23:26:51 +0000 2011	4b4923e5f964a520876726e3	{Walmart Supercenter}	{32.741802530973224,-117.05298411904302,San Diego,CA,United States}	{Shop & Service,}
+1476	Sun Feb 27 22:17:15 +0000 2011	4bcbaed1511f9521ee05b2c7	{Smart & Final}	{32.76238898353807,-117.0637522682909,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Sun Feb 27 22:17:15 +0000 2011	4bcbaed1511f9521ee05b2c7	{Smart & Final}	{32.76238898353807,-117.0637522682909,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Sun Feb 27 18:09:23 +0000 2011	4bb7e912cf2fc9b6ed019f02	{Albertsons}	{32.74342851157562,-117.04494953155518,Lemon Grove,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Sun Feb 27 07:00:15 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun Feb 27 06:54:56 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Sun Feb 27 04:18:56 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun Feb 27 03:26:02 +0000 2011	4c96b84794a0236ab690a112	{Mint Downtown Thai}	{32.71297400375008,-117.16105916216905,San Diego,CA,United States}	{Food,}
+1476	Sun Feb 27 02:51:11 +0000 2011	465a059af964a52022471fe3	{Westfield Horton Plaza}	{32.714005195322024,-117.16228260254077,San Diego,CA,United States}	{Shop & Service,}
+1476	Sun Feb 27 01:55:12 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun Feb 27 01:39:09 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Sun Feb 27 01:25:42 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sat Feb 26 03:04:41 +0000 2011	4c9199ef51d9b1f792388246	{Zappy Pizza}	{32.75019786519482,-117.06858508258621,San Diego,CA,United States}	{Food,}
+1476	Sat Feb 26 02:59:11 +0000 2011	4bf5cd2c94b2a5939b63acee	{99 Cent Only Store}	{32.74976134300232,-117.06950688333333,San Diego,CA,United States}	{Shop & Service,}
+1476	Fri Feb 25 23:21:01 +0000 2011	4b81c954f964a52005be30e3	{Staples}	{32.74009382072572,-117.05459777179827,San Diego,CA,United States}	{Shop & Service,}
+1476	Fri Feb 25 23:16:47 +0000 2011	4b4923e5f964a520876726e3	{Walmart Supercenter}	{32.741802530973224,-117.05298411904302,San Diego,CA,United States}	{Shop & Service,}
+1476	Fri Feb 25 22:19:38 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Fri Feb 25 19:31:36 +0000 2011	4c0ac73affb8c9b6fe356c61	{US Post Office}	{32.74197427625969,-117.05599999318004,San Diego,CA,United States}	{Professional & Other Places,}
+1476	Fri Feb 25 19:11:12 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Fri Feb 25 18:48:19 +0000 2011	465a059af964a52022471fe3	{Westfield Horton Plaza}	{32.714005195322024,-117.16228260254077,San Diego,CA,United States}	{Shop & Service,}
+1476	Fri Feb 25 18:29:53 +0000 2011	4ba64299f964a520204039e3	{ARCO}	{32.74103182,-117.0493118,La Mesa,CA,United States}	{Shop & Service,}
+1476	Fri Feb 25 18:22:22 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Thu Feb 24 18:30:18 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Wed Feb 23 04:05:52 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Wed Feb 23 03:12:39 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Wed Feb 23 02:44:32 +0000 2011	4b745b4bf964a5206dd72de3	{Wendy's}	{32.715544393198144,-117.16359436511993,San Diego,CA,United States}	{Food,}
+1476	Wed Feb 23 01:35:05 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue Feb 22 22:24:55 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Tue Feb 22 18:22:34 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Tue Feb 22 06:32:11 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue Feb 22 04:38:35 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Tue Feb 22 04:34:53 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue Feb 22 04:01:15 +0000 2011	4a5ab9a6f964a520ceba1fe3	{Ralphs}	{32.712258231224205,-117.16351177939859,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Mon Feb 21 20:02:45 +0000 2011	4b3baf04f964a520b97825e3	{Our Lady of the Rosary Catholic Church}	{32.72276222705841,-117.166669,San Diego,CA,United States}	{Spiritual Center,Professional & Other Places,}
+1476	Mon Feb 21 19:50:28 +0000 2011	4ae4ed2df964a5207c9f21e3	{Little Italy Neighborhood}	{32.72336710505513,-117.16832502703502,San Diego,CA,United States}	{Outdoors & Recreation,Residence,}
+1476	Mon Feb 21 19:46:18 +0000 2011	4a986d1cf964a520f42b20e3	{Yogurtland}	{32.722814937283154,-117.16839427496564,San Diego,CA,United States}	{Food,}
+1476	Mon Feb 21 19:17:53 +0000 2011	4a95d369f964a520e12420e3	{George's Camera and Video}	{32.748107866666665,-117.12996808333334,San Diego,CA,United States}	{Shop & Service,}
+1476	Mon Feb 21 19:03:05 +0000 2011	4b65ed67f964a520de082be3	{Starbucks}	{32.7483735456925,-117.1310806274414,San Diego,CA,United States}	{Food,}
+1476	Mon Feb 21 18:57:32 +0000 2011	4b960cbdf964a52027bb34e3	{Birch North Park Theatre}	{32.74815976917889,-117.13118312496044,San Diego,CA,United States}	{Performing Arts Venue,Arts & Entertainment,Movie Theater,}
+1476	Mon Feb 21 18:45:23 +0000 2011	4ae3a2cbf964a520849721e3	{Off The Record}	{32.74862620429867,-117.13101625442505,San Diego,CA,United States}	{Shop & Service,}
+1476	Mon Feb 21 18:39:45 +0000 2011	4c714a2fd274b60c29f0db0d	{North Park Community}	{32.74840963982297,-117.13013648986816,San Diego,CA,United States}	{Outdoors & Recreation,}
+1476	Mon Feb 21 18:04:53 +0000 2011	4bfdbadbe529c9284e67bb8c	{Balboa Park}	{32.731192034631285,-117.15034652208219,San Diego,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+1476	Sun Feb 20 06:53:53 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun Feb 20 04:29:21 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Sun Feb 20 04:25:43 +0000 2011	4b64b4c9f964a520eac92ae3	{7-Eleven}	{32.715799858784266,-117.1601401411179,San Diego,CA,United States}	{Shop & Service,}
+1476	Sun Feb 20 04:25:42 +0000 2011	4b64b4c9f964a520eac92ae3	{7-Eleven}	{32.715799858784266,-117.1601401411179,San Diego,CA,United States}	{Shop & Service,}
+1476	Sun Feb 20 02:07:10 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun Feb 20 02:02:51 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Sun Feb 20 01:36:09 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sat Feb 19 05:35:47 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sat Feb 19 05:22:42 +0000 2011	4b64b4c9f964a520eac92ae3	{7-Eleven}	{32.715799858784266,-117.1601401411179,San Diego,CA,United States}	{Shop & Service,}
+1476	Sat Feb 19 04:29:06 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sat Feb 19 04:23:23 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Sat Feb 19 00:24:11 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Fri Feb 18 23:23:59 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Fri Feb 18 22:25:19 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Fri Feb 18 03:59:45 +0000 2011	4ba64299f964a520204039e3	{ARCO}	{32.74103182,-117.0493118,La Mesa,CA,United States}	{Shop & Service,}
+1476	Fri Feb 18 03:40:12 +0000 2011	4bbab98753649c74156749fb	{Jack in the Box - Lemon Grove, CA}	{32.7420724,-117.04678644,Lemon Grove,CA,United States}	{Food,}
+1476	Thu Feb 17 22:11:17 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Thu Feb 17 18:14:05 +0000 2011	4c64a873f07e2d7f4a0a9050	{Big Lots}	{32.739742,-117.05482958,San Diego,CA,United States}	{Shop & Service,}
+1476	Thu Feb 17 18:14:05 +0000 2011	4c64a873f07e2d7f4a0a9050	{Big Lots}	{32.739742,-117.05482958,San Diego,CA,United States}	{Shop & Service,}
+1476	Thu Feb 17 18:03:23 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Wed Feb 16 21:49:23 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Wed Feb 16 21:35:05 +0000 2011	4b4923e5f964a520876726e3	{Walmart Supercenter}	{32.741802530973224,-117.05298411904302,San Diego,CA,United States}	{Shop & Service,}
+1476	Wed Feb 16 21:22:17 +0000 2011	4c64a873f07e2d7f4a0a9050	{Big Lots}	{32.739742,-117.05482958,San Diego,CA,United States}	{Shop & Service,}
+1476	Wed Feb 16 20:53:27 +0000 2011	4b6ee0f1f964a520acce2ce3	{Starbucks}	{32.74211099267821,-117.05593585968018,San Diego,CA,United States}	{Food,}
+1476	Wed Feb 16 20:49:32 +0000 2011	4c0ac73affb8c9b6fe356c61	{US Post Office}	{32.74197427625969,-117.05599999318004,San Diego,CA,United States}	{Professional & Other Places,}
+1476	Wed Feb 16 20:32:08 +0000 2011	4ba92082f964a520900d3ae3	{Bank Of America}	{32.768601799528895,-117.05113240559608,San Diego,CA,United States}	{Shop & Service,Professional & Other Places,}
+1476	Wed Feb 16 04:10:57 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Wed Feb 16 02:57:49 +0000 2011	4baa65b5f964a5204a663ae3	{CVS/Pharmacy}	{32.714763007123274,-117.16200115446442,San Diego,CA,United States}	{Shop & Service,}
+1476	Wed Feb 16 02:51:38 +0000 2011	4a54270cf964a52013b31fe3	{Subway}	{32.71547991640927,-117.1599793120098,San Diego,CA,United States}	{Food,}
+1476	Tue Feb 15 23:09:25 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue Feb 15 19:03:17 +0000 2011	4bf5cd2c94b2a5939b63acee	{99 Cent Only Store}	{32.74976134300232,-117.06950688333333,San Diego,CA,United States}	{Shop & Service,}
+1476	Tue Feb 15 18:41:06 +0000 2011	4b7998cff964a52059042fe3	{DOLLAR TREE}	{32.7550074263985,-117.05604596749203,San Diego,CA,United States}	{Shop & Service,}
+1476	Tue Feb 15 18:41:06 +0000 2011	4b7998cff964a52059042fe3	{DOLLAR TREE}	{32.7550074263985,-117.05604596749203,San Diego,CA,United States}	{Shop & Service,}
+1476	Tue Feb 15 18:24:22 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Tue Feb 15 04:25:06 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Tue Feb 15 04:22:19 +0000 2011	4baa65b5f964a5204a663ae3	{CVS/Pharmacy}	{32.714763007123274,-117.16200115446442,San Diego,CA,United States}	{Shop & Service,}
+1476	Tue Feb 15 03:00:37 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue Feb 15 02:53:39 +0000 2011	4b745b4bf964a5206dd72de3	{Wendy's}	{32.715544393198144,-117.16359436511993,San Diego,CA,United States}	{Food,}
+1476	Tue Feb 15 00:29:12 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Mon Feb 14 23:22:50 +0000 2011	4baa65b5f964a5204a663ae3	{CVS/Pharmacy}	{32.714763007123274,-117.16200115446442,San Diego,CA,United States}	{Shop & Service,}
+1476	Mon Feb 14 22:59:07 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Mon Feb 14 19:02:19 +0000 2011	4b4923e5f964a520876726e3	{Walmart Supercenter}	{32.741802530973224,-117.05298411904302,San Diego,CA,United States}	{Shop & Service,}
+1476	Mon Feb 14 18:34:12 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Mon Feb 14 17:07:17 +0000 2011	4b7998cff964a52059042fe3	{DOLLAR TREE}	{32.7550074263985,-117.05604596749203,San Diego,CA,United States}	{Shop & Service,}
+1476	Mon Feb 14 16:54:51 +0000 2011	4b6ee0f1f964a520acce2ce3	{Starbucks}	{32.74211099267821,-117.05593585968018,San Diego,CA,United States}	{Food,}
+1476	Sun Feb 13 05:33:33 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun Feb 13 05:05:50 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Sun Feb 13 03:32:26 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun Feb 13 02:49:35 +0000 2011	4808bebdf964a5200e4f1fe3	{The Kebab Shop}	{32.711802681917874,-117.15659379959106,San Diego,CA,United States}	{Food,}
+1476	Sun Feb 13 02:12:43 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun Feb 13 01:44:35 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Sun Feb 13 01:41:38 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sat Feb 12 05:36:17 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sat Feb 12 05:21:19 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Sat Feb 12 04:28:29 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sat Feb 12 02:42:55 +0000 2011	4bdb2c132a3a0f477cc2adb6	{7-Eleven}	{32.71575373860863,-117.16304078726952,San Diego,CA,United States}	{Shop & Service,}
+1476	Sat Feb 12 02:37:46 +0000 2011	4b745b4bf964a5206dd72de3	{Wendy's}	{32.715544393198144,-117.16359436511993,San Diego,CA,United States}	{Food,}
+1476	Sat Feb 12 02:37:46 +0000 2011	4b745b4bf964a5206dd72de3	{Wendy's}	{32.715544393198144,-117.16359436511993,San Diego,CA,United States}	{Food,}
+1476	Fri Feb 11 22:44:35 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Fri Feb 11 19:08:40 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Fri Feb 11 18:35:07 +0000 2011	4aeb8764f964a52012c321e3	{McDonald's}	{32.71854436,-117.15413487,San Diego,CA,United States}	{Food,}
+1476	Fri Feb 11 18:33:54 +0000 2011	4bbb691953649c74370b4afb	{SDCC M Building}	{32.7180583378302,-117.15251684188843,San Diego,CA,United States}	{College Academic Building,College & University,}
+1476	Fri Feb 11 18:22:42 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Fri Feb 11 16:58:00 +0000 2011	4d18b97e25cda143310e81d6	{Kaiser Permanente}	{32.77598846648538,-117.02475236243689,La Mesa,CA,United States}	{Medical Center,Professional & Other Places,}
+1476	Fri Feb 11 05:10:03 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Fri Feb 11 05:08:15 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Fri Feb 11 05:05:33 +0000 2011	4a5ab9a6f964a520ceba1fe3	{Ralphs}	{32.712258231224205,-117.16351177939859,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Fri Feb 11 05:01:54 +0000 2011	4a6f673bf964a52015d61fe3	{Heavenly Cupcake}	{32.71075551627421,-117.1593189239502,San Diego,CA,United States}	{Food,}
+1476	Fri Feb 11 00:30:27 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Thu Feb 10 23:42:22 +0000 2011	4baa65b5f964a5204a663ae3	{CVS/Pharmacy}	{32.714763007123274,-117.16200115446442,San Diego,CA,United States}	{Shop & Service,}
+1476	Thu Feb 10 23:19:16 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Wed Feb 09 20:09:41 +0000 2011	4c9199ef51d9b1f792388246	{Zappy Pizza}	{32.75019786519482,-117.06858508258621,San Diego,CA,United States}	{Food,}
+1476	Tue Feb 08 06:22:52 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Tue Feb 08 03:21:25 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue Feb 08 03:15:44 +0000 2011	4baa65b5f964a5204a663ae3	{CVS/Pharmacy}	{32.714763007123274,-117.16200115446442,San Diego,CA,United States}	{Shop & Service,}
+1476	Mon Feb 07 23:51:47 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Mon Feb 07 23:48:54 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Mon Feb 07 22:54:59 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun Feb 06 00:44:23 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun Feb 06 00:40:17 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Sat Feb 05 23:15:06 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sat Feb 05 05:23:54 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Sat Feb 05 03:38:49 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sat Feb 05 01:37:39 +0000 2011	4baa65b5f964a5204a663ae3	{CVS/Pharmacy}	{32.714763007123274,-117.16200115446442,San Diego,CA,United States}	{Shop & Service,}
+1476	Fri Feb 04 22:55:26 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Fri Feb 04 22:38:16 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Fri Feb 04 22:36:12 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Fri Feb 04 04:13:08 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Fri Feb 04 04:05:38 +0000 2011	4a5ab9a6f964a520ceba1fe3	{Ralphs}	{32.712258231224205,-117.16351177939859,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Fri Feb 04 04:03:37 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Wed Feb 02 01:58:33 +0000 2011	4b2d43e4f964a520a6d224e3	{Target}	{32.74135087831558,-117.05556898351252,San Diego,CA,United States}	{Shop & Service,}
+1476	Wed Feb 02 01:42:50 +0000 2011	4b4923e5f964a520876726e3	{Walmart Supercenter}	{32.741802530973224,-117.05298411904302,San Diego,CA,United States}	{Shop & Service,}
+1476	Wed Feb 02 00:53:50 +0000 2011	4ac76441f964a52001b720e3	{Starbucks}	{32.779887907037136,-117.10283105715305,San Diego,CA,United States}	{Food,}
+1476	Wed Feb 02 00:11:44 +0000 2011	4a91b446f964a520701b20e3	{Men's Wearhouse}	{32.778542,-117.00583976666667,La Mesa,CA,United States}	{Shop & Service,Clothing Store,}
+1476	Tue Feb 01 21:44:43 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Tue Feb 01 20:51:57 +0000 2011	4c1ebda28b3aa5935f999c5f	{El Cajon Blvd Car Wash}	{32.76913225650787,-117.04909175,San Diego,CA,United States}	{Shop & Service,}
+1476	Tue Feb 01 18:04:35 +0000 2011	4c4b01f3959220a1229af10e	{Food 4 Less}	{32.750701589572884,-117.06830350670944,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Tue Feb 01 17:14:24 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Tue Feb 01 06:10:58 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue Feb 01 05:15:15 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Mon Jan 31 23:18:22 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Mon Jan 31 18:34:22 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Mon Jan 31 04:37:12 +0000 2011	4bbceb5ca8cf76b0ae24b1fd	{AMPM}	{32.74593700536093,-117.04259804966054,La Mesa,CA,United States}	{Shop & Service,}
+1476	Mon Jan 31 04:08:22 +0000 2011	4b4923e5f964a520876726e3	{Walmart Supercenter}	{32.741802530973224,-117.05298411904302,San Diego,CA,United States}	{Shop & Service,}
+1476	Mon Jan 31 04:04:48 +0000 2011	4bb7e912cf2fc9b6ed019f02	{Albertsons}	{32.74342851157562,-117.04494953155518,Lemon Grove,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Mon Jan 31 03:39:08 +0000 2011	4c23cce3b7b8a5936a703be8	{Crunchtime Popcorn Ice Cream Hot Dogs And More}	{32.708295,-117.158844,San Diego,CA,United States}	{Food,}
+1476	Mon Jan 31 02:23:36 +0000 2011	4a824276f964a5200df91fe3	{The Old Spaghetti Factory}	{32.70808338272434,-117.15991973876953,San Diego,CA,United States}	{Food,}
+1476	Sun Jan 30 06:35:47 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun Jan 30 03:59:49 +0000 2011	4a5ab9a6f964a520ceba1fe3	{Ralphs}	{32.712258231224205,-117.16351177939859,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Sun Jan 30 02:27:42 +0000 2011	465a059af964a52022471fe3	{Westfield Horton Plaza}	{32.714005195322024,-117.16228260254077,San Diego,CA,United States}	{Shop & Service,}
+1476	Sun Jan 30 02:05:56 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sat Jan 29 23:31:20 +0000 2011	4baa65b5f964a5204a663ae3	{CVS/Pharmacy}	{32.714763007123274,-117.16200115446442,San Diego,CA,United States}	{Shop & Service,}
+1476	Sat Jan 29 23:04:13 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sat Jan 29 20:27:43 +0000 2011	4bcbaed1511f9521ee05b2c7	{Smart & Final}	{32.76238898353807,-117.0637522682909,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Sat Jan 29 06:33:08 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sat Jan 29 04:02:50 +0000 2011	4b6cd7e9f964a52083582ce3	{Evolution Fast Food}	{32.73648424581483,-117.16012895107269,San Diego,CA,United States}	{Food,}
+1476	Sat Jan 29 02:51:00 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sat Jan 29 02:33:00 +0000 2011	4be09be2652b0f4786ff7211	{US Post Office}	{32.714945270281504,-117.16246640515719,San Diego,CA,United States}	{Professional & Other Places,}
+1476	Sat Jan 29 00:28:06 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Fri Jan 28 18:39:11 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Thu Jan 27 17:53:21 +0000 2011	4bb3d0f34019a5936b7e38b8	{The Spot}	{32.758539253614124,-117.07673337859207,San Diego,CA,United States}	{Shop & Service,}
+1476	Thu Jan 27 17:33:11 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Thu Jan 27 15:20:43 +0000 2011	4b4923e5f964a520876726e3	{Walmart Supercenter}	{32.741802530973224,-117.05298411904302,San Diego,CA,United States}	{Shop & Service,}
+1476	Tue Jan 25 22:44:36 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue Jan 25 05:04:17 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Mon Jan 24 23:55:56 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Mon Jan 24 18:12:59 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Sun Jan 23 03:59:22 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun Jan 23 02:54:19 +0000 2011	4a5ab9a6f964a520ceba1fe3	{Ralphs}	{32.712258231224205,-117.16351177939859,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Sun Jan 23 00:36:13 +0000 2011	4af31fe9f964a520edea21e3	{Jamba Juice}	{32.714935078175664,-117.16209769248962,San Diego,CA,United States}	{Food,}
+1476	Sat Jan 22 23:24:20 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sat Jan 22 05:21:23 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Fri Jan 21 22:38:59 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Fri Jan 21 19:31:10 +0000 2011	4bd4d1d5637ba593778bf570	{World Foods Supermarket}	{32.7563681059263,-117.0831403122724,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Fri Jan 21 18:40:53 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Fri Jan 21 17:40:27 +0000 2011	4b4923e5f964a520876726e3	{Walmart Supercenter}	{32.741802530973224,-117.05298411904302,San Diego,CA,United States}	{Shop & Service,}
+1476	Thu Jan 20 22:58:14 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue Jan 18 22:08:42 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Tue Jan 18 00:12:29 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Mon Jan 17 22:55:34 +0000 2011	4af31fe9f964a520edea21e3	{Jamba Juice}	{32.714935078175664,-117.16209769248962,San Diego,CA,United States}	{Food,}
+1476	Mon Jan 17 22:40:42 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Mon Jan 17 04:38:54 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun Jan 16 05:23:38 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun Jan 16 01:30:12 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sat Jan 15 06:31:41 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Fri Jan 14 23:03:14 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Fri Jan 14 18:41:43 +0000 2011	4b81c954f964a52005be30e3	{Staples}	{32.74009382072572,-117.05459777179827,San Diego,CA,United States}	{Shop & Service,}
+1476	Fri Jan 14 18:16:33 +0000 2011	4b4923e5f964a520876726e3	{Walmart Supercenter}	{32.741802530973224,-117.05298411904302,San Diego,CA,United States}	{Shop & Service,}
+1476	Wed Jan 12 02:56:50 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue Jan 11 03:44:56 +0000 2011	4b66200df964a52014152be3	{Jamba Juice}	{32.74799455643962,-117.2070837020874,San Diego,CA,United States}	{Food,}
+1476	Tue Jan 11 03:42:51 +0000 2011	4c604647c6a103bb7500685b	{RadioShack}	{32.74806696,-117.2067293,San Diego,CA,United States}	{Shop & Service,}
+1476	Tue Jan 11 03:41:14 +0000 2011	46cf56cef964a520484a1fe3	{Sprouts Farmers Market}	{32.747789,-117.20639937,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Mon Jan 10 23:20:32 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Mon Jan 10 20:51:48 +0000 2011	4c97f3404804a14340a3e70e	{Farmers Market}	{32.74221528,-117.044025,Lemon Grove,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Mon Jan 10 20:46:13 +0000 2011	4d2b6fba888af04d5100e0af	{Medina Market}	{32.75438328,-117.04554907,La Mesa,CA,United States}	{}
+1476	Mon Jan 10 07:03:18 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Mon Jan 10 05:14:55 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Mon Jan 10 01:46:46 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Mon Jan 10 00:55:02 +0000 2011	4ae5fa85f964a520baa321e3	{7-Eleven}	{32.71538601215665,-117.14064052153212,San Diego,CA,United States}	{Shop & Service,}
+1476	Sun Jan 09 23:22:16 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun Jan 09 05:22:18 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun Jan 09 05:16:31 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Sun Jan 09 03:12:34 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sat Jan 08 06:34:05 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Sat Jan 08 05:38:09 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Fri Jan 07 03:03:21 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Fri Jan 07 02:55:43 +0000 2011	4bb652122ea19521287dab2f	{Quiznos}	{32.71581186666666,-117.163449,San Diego,CA,United States}	{Food,}
+1476	Fri Jan 07 02:17:33 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Fri Jan 07 01:34:43 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Thu Jan 06 22:49:58 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Thu Jan 06 22:01:35 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Thu Jan 06 18:09:02 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Wed Jan 05 18:09:51 +0000 2011	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Wed Jan 05 16:00:27 +0000 2011	4b4923e5f964a520876726e3	{Walmart Supercenter}	{32.741802530973224,-117.05298411904302,San Diego,CA,United States}	{Shop & Service,}
+1476	Wed Jan 05 07:04:46 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Wed Jan 05 05:20:02 +0000 2011	4b9b222ef964a52032f535e3	{7-Eleven}	{32.746907721012306,-117.16190925296792,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Wed Jan 05 05:20:01 +0000 2011	4b9b222ef964a52032f535e3	{7-Eleven}	{32.746907721012306,-117.16190925296792,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Wed Jan 05 02:51:35 +0000 2011	40ede000f964a520420a1fe3	{Borders Downtown}	{32.712391,-117.15939625,San Diego,CA,United States}	{College & University,Music Venue,Arts & Entertainment,}
+1476	Tue Jan 04 22:52:22 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue Jan 04 22:45:48 +0000 2011	4b745b4bf964a5206dd72de3	{Wendy's}	{32.715544393198144,-117.16359436511993,San Diego,CA,United States}	{Food,}
+1476	Tue Jan 04 05:41:22 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue Jan 04 03:58:32 +0000 2011	4b745b4bf964a5206dd72de3	{Wendy's}	{32.715544393198144,-117.16359436511993,San Diego,CA,United States}	{Food,}
+1476	Tue Jan 04 03:50:37 +0000 2011	40ede000f964a520420a1fe3	{Borders Downtown}	{32.712391,-117.15939625,San Diego,CA,United States}	{College & University,Music Venue,Arts & Entertainment,}
+1476	Tue Jan 04 01:39:40 +0000 2011	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Tue Jan 04 00:19:44 +0000 2011	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Mon Jan 03 23:10:06 +0000 2011	4b9b222ef964a52032f535e3	{7-Eleven}	{32.746907721012306,-117.16190925296792,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Sun Jan 02 19:52:14 +0000 2011	4a653207f964a5206fc71fe3	{Old Navy}	{32.76634661265338,-117.15545654296875,San Diego,CA,United States}	{Travel & Transport,Shop & Service,}
+1476	Sun Jan 02 02:08:00 +0000 2011	40f5c900f964a520a70a1fe3	{Borders}	{32.76629248235638,-117.15526342391968,San Diego,CA,United States}	{Shop & Service,Food,}
+1476	Fri Dec 31 14:45:25 +0000 2010	4a5d7fa0f964a520a9bd1fe3	{Salt Lake City International Airport (SLC)}	{40.78665044119936,-111.98209762573242,Salt Lake City,UT,United States}	{Travel & Transport,}
+1476	Fri Dec 31 11:16:18 +0000 2010	4b9822d0f964a520d72e35e3	{Terminal E}	{32.89039877698204,-97.03710794448853,DFW Airport,TX,United States}	{Travel & Transport,Airport,}
+1476	Tue Dec 28 17:46:13 +0000 2010	4b8efa9ff964a520774233e3	{Kroger}	{33.117265079515875,-96.84119019982445,Frisco,TX,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Tue Dec 28 16:15:56 +0000 2010	4af2ea40f964a52024e921e3	{Starbucks}	{33.11407235075715,-96.83898643171578,Frisco,TX,United States}	{Food,}
+1476	Mon Dec 27 18:39:45 +0000 2010	4bd4e76d29eb9c74dfa292e1	{Mcdonalds}	{32.33471221666667,-96.61474585533142,Ennis,TX,United States}	{Food,}
+1476	Fri Dec 24 23:57:47 +0000 2010	44d9ff60f964a5208b361fe3	{Dallas/Fort Worth International Airport (DFW)}	{32.89803818160521,-97.04086303710938,DFW Airport,TX,United States}	{Travel & Transport,}
+1476	Fri Dec 24 19:55:59 +0000 2010	4a5d7fa0f964a520a9bd1fe3	{Salt Lake City International Airport (SLC)}	{40.78665044119936,-111.98209762573242,Salt Lake City,UT,United States}	{Travel & Transport,}
+1476	Fri Dec 24 17:19:37 +0000 2010	4541114bf964a520433c1fe3	{San Diego International Airport (SAN)}	{32.73299611609881,-117.19931602478027,San Diego,CA,United States}	{Travel & Transport,}
+1476	Thu Dec 23 18:06:56 +0000 2010	4c0ac73affb8c9b6fe356c61	{US Post Office}	{32.74197427625969,-117.05599999318004,San Diego,CA,United States}	{Professional & Other Places,}
+1476	Thu Dec 23 18:03:26 +0000 2010	4b2d43e4f964a520a6d224e3	{Target}	{32.74135087831558,-117.05556898351252,San Diego,CA,United States}	{Shop & Service,}
+1476	Thu Dec 23 17:46:28 +0000 2010	4b6ee0f1f964a520acce2ce3	{Starbucks}	{32.74211099267821,-117.05593585968018,San Diego,CA,United States}	{Food,}
+1476	Wed Dec 22 14:06:42 +0000 2010	4b8b3f47f964a520589932e3	{Mobil}	{32.93669589706497,-117.1003145153598,SAN DIEGO,CA,United States}	{Shop & Service,}
+1476	Wed Dec 22 13:53:40 +0000 2010	4a4432c7f964a5204ca71fe3	{Starbucks @ Vons}	{32.935764619339466,-117.0992975480073,San Diego,CA,United States}	{Food,}
+1476	Wed Dec 22 13:45:59 +0000 2010	4bbfc489f8219c74b49cb010	{ARCO}	{32.937819560910036,-117.10033175205152,San Diego,CA,United States}	{Shop & Service,Professional & Other Places,}
+1476	Tue Dec 21 17:32:05 +0000 2010	4b4923e5f964a520876726e3	{Walmart Supercenter}	{32.741802530973224,-117.05298411904302,San Diego,CA,United States}	{Shop & Service,}
+1476	Tue Dec 21 16:17:48 +0000 2010	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Tue Dec 21 15:32:29 +0000 2010	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue Dec 21 13:23:41 +0000 2010	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Tue Dec 21 11:39:05 +0000 2010	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Mon Dec 20 21:21:53 +0000 2010	4bdc4d542a3a0f471034b2b6	{Jack in the Box}	{32.75487048224358,-117.04726469016613,La Mesa,CA,United States}	{Food,}
+1476	Mon Dec 20 18:28:55 +0000 2010	4b92e95af964a520582634e3	{JCPenney}	{32.767085109063984,-117.16930959259034,San Diego,CA,United States}	{Shop & Service,Clothing Store,}
+1476	Mon Dec 20 18:10:42 +0000 2010	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Mon Dec 20 16:22:25 +0000 2010	4b70fbacf964a52089362de3	{Denny's}	{32.72623545917208,-117.17189181167095,San Diego,CA,United States}	{Food,}
+1476	Mon Dec 20 14:01:19 +0000 2010	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Mon Dec 20 13:50:19 +0000 2010	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Mon Dec 20 13:40:36 +0000 2010	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Mon Dec 20 05:13:55 +0000 2010	4b4923e5f964a520876726e3	{Walmart Supercenter}	{32.741802530973224,-117.05298411904302,San Diego,CA,United States}	{Shop & Service,}
+1476	Mon Dec 20 04:16:41 +0000 2010	4b92e95af964a520582634e3	{JCPenney}	{32.767085109063984,-117.16930959259034,San Diego,CA,United States}	{Shop & Service,Clothing Store,}
+1476	Mon Dec 20 04:12:39 +0000 2010	4b04bcd9f964a5206f5622e3	{H&M}	{32.767393125258764,-117.16854572296143,San Diego,CA,United States}	{Shop & Service,Clothing Store,}
+1476	Mon Dec 20 02:26:23 +0000 2010	4a91c21df964a520ae1b20e3	{Victoria's Secret}	{32.767790075097615,-117.16639995574951,San Diego,CA,United States}	{Shop & Service,Clothing Store,}
+1476	Mon Dec 20 01:06:29 +0000 2010	4b92e95af964a520582634e3	{JCPenney}	{32.767085109063984,-117.16930959259034,San Diego,CA,United States}	{Shop & Service,Clothing Store,}
+1476	Mon Dec 20 00:56:27 +0000 2010	4b8acd55f964a520028232e3	{Foot Action}	{32.65417,-117.065675,National City,CA,United States}	{}
+1476	Mon Dec 20 00:00:43 +0000 2010	4a8dc2edf964a520c41020e3	{Better Buzz Coffee}	{32.76768,-117.16799221,San Diego,CA,United States}	{Food,}
+1476	Sun Dec 19 23:55:02 +0000 2010	4b92e95af964a520582634e3	{JCPenney}	{32.767085109063984,-117.16930959259034,San Diego,CA,United States}	{Shop & Service,Clothing Store,}
+1476	Sun Dec 19 21:14:58 +0000 2010	44b3bd91f964a52051351fe3	{T.G.I. Friday's}	{32.76012756,-117.1617071,San Diego,CA,United States}	{Nightlife Spot,Food,}
+1476	Sun Dec 19 16:14:11 +0000 2010	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Sun Dec 19 16:07:51 +0000 2010	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun Dec 19 08:02:49 +0000 2010	4bb26ff014cfd13a8def14ab	{7-Eleven}	{32.766924214164504,-117.05686775660948,San Diego,CA,United States}	{Shop & Service,}
+1476	Sun Dec 19 07:26:30 +0000 2010	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun Dec 19 04:24:06 +0000 2010	4c0313380d0e0f47e224029a	{Burger King}	{32.74284088426271,-117.04792559757824,Lemon Grove,CA,United States}	{Food,}
+1476	Sun Dec 19 04:24:06 +0000 2010	4c0313380d0e0f47e224029a	{Burger King}	{32.74284088426271,-117.04792559757824,Lemon Grove,CA,United States}	{Food,}
+1476	Sun Dec 19 00:53:50 +0000 2010	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Sun Dec 19 00:45:39 +0000 2010	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Fri Dec 17 21:39:48 +0000 2010	4b4923e5f964a520876726e3	{Walmart Supercenter}	{32.741802530973224,-117.05298411904302,San Diego,CA,United States}	{Shop & Service,}
+1476	Fri Dec 17 20:18:11 +0000 2010	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Fri Dec 17 19:43:45 +0000 2010	4b48d631f964a520485926e3	{Denny's}	{32.77399669688296,-117.04761028289795,San Diego,CA,United States}	{Food,}
+1476	Fri Dec 17 19:43:45 +0000 2010	4b48d631f964a520485926e3	{Denny's}	{32.77399669688296,-117.04761028289795,San Diego,CA,United States}	{Food,}
+1476	Thu Dec 16 05:16:33 +0000 2010	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Thu Dec 16 04:17:00 +0000 2010	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Thu Dec 16 04:06:52 +0000 2010	4a5ab9a6f964a520ceba1fe3	{Ralphs}	{32.712258231224205,-117.16351177939859,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Thu Dec 16 02:05:07 +0000 2010	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Wed Dec 15 03:12:05 +0000 2010	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Tue Dec 14 23:46:28 +0000 2010	4af0ffc3f964a52072e021e3	{Starbucks}	{32.71480027312841,-117.16210454359866,San Diego,CA,United States}	{Food,}
+1476	Tue Dec 14 23:04:56 +0000 2010	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Tue Dec 14 06:23:56 +0000 2010	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Mon Dec 13 22:50:06 +0000 2010	4a9c3ac0f964a520803620e3	{NBC San Diego 7/39}	{32.715526274484276,-117.16244342983914,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1476	Mon Dec 13 20:21:51 +0000 2010	4bdc4d542a3a0f471034b2b6	{Jack in the Box}	{32.75487048224358,-117.04726469016613,La Mesa,CA,United States}	{Food,}
+1476	Mon Dec 13 18:10:14 +0000 2010	4b76f3cef964a520e96d2ee3	{Starbucks}	{32.770740466666666,-117.02628513333333,La Mesa,CA,United States}	{Food,}
+1476	Mon Dec 13 17:45:10 +0000 2010	4cc9fa48d7538cfa77afef78	{Village Kids}	{32.73265156162016,-117.06175532358161,San Diego,CA,United States}	{Residence,}
+1476	Mon Dec 13 04:49:35 +0000 2010	4b4923e5f964a520876726e3	{Walmart Supercenter}	{32.741802530973224,-117.05298411904302,San Diego,CA,United States}	{Shop & Service,}
+1476	Mon Dec 13 04:49:34 +0000 2010	4b4923e5f964a520876726e3	{Walmart Supercenter}	{32.741802530973224,-117.05298411904302,San Diego,CA,United States}	{Shop & Service,}
+1476	Mon Dec 13 04:25:45 +0000 2010	4b1ad0f0f964a52068f223e3	{Vons}	{32.73728299526424,-117.21622156304075,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1476	Mon Dec 13 03:15:18 +0000 2010	4bc343af74a9a593a242d4f6	{Wendy's}	{32.75386870866488,-117.21747994422913,San Diego,CA,United States}	{Food,}
+1476	Sun Dec 12 04:19:13 +0000 2010	4c9199ef51d9b1f792388246	{Zappy Pizza}	{32.75019786519482,-117.06858508258621,San Diego,CA,United States}	{Food,}

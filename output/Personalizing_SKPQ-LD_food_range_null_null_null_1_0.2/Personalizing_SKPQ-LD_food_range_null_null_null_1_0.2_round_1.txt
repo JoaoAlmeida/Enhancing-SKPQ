@@ -1,0 +1,4 @@
+#categoryName experimentName dataset neighborhood plusMode queryType numQueries numKeywords numResults radius item value min max observations
+Personalizing SKPQ-LD food range null null null 1 0.2 nodesAccessed 0.0 - 9223372036854775807 0 0
+Personalizing SKPQ-LD food range null null null 1 0.2 pageFaults 0.0 - 9223372036854775807 0 0
+Personalizing SKPQ-LD food range null null null 1 0.2 totalExecutionTime 1.082771E7 - 10827710 10827710 1

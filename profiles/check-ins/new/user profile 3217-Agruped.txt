@@ -1,0 +1,647 @@
+3217	Fri Aug 12 07:00:23 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Fri Aug 12 07:00:12 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Thu Aug 11 20:03:06 +0000 2011	4df62ce67d8b18e172378e22	{Mi Trabajo}	{33.98597305316988,-118.30528067963546,Los Angeles,CA,United States}	{Residence,}
+3217	Thu Aug 11 06:22:52 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Thu Aug 11 06:22:35 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Thu Aug 11 02:47:40 +0000 2011	4c0dfca8336220a1da85cb77	{Super Laundry}	{33.911548044607855,-118.35293774504176,Hawthorne,CA,United States}	{Shop & Service,}
+3217	Thu Aug 11 02:45:14 +0000 2011	4bc88e486501c9b675544029	{Bank of America}	{33.918589,-118.352984,Hawthorne,CA,United States}	{Shop & Service,}
+3217	Tue Aug 09 03:12:30 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Tue Aug 09 03:12:20 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Mon Aug 08 23:12:43 +0000 2011	4df62ce67d8b18e172378e22	{Mi Trabajo}	{33.98597305316988,-118.30528067963546,Los Angeles,CA,United States}	{Residence,}
+3217	Mon Aug 08 23:12:28 +0000 2011	4c9029e6de3d236a35c86918	{China Bowl}	{33.98827961234321,-118.3100444207286,Los Angeles,CA,United States}	{Food,}
+3217	Mon Aug 08 00:43:03 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Mon Aug 08 00:42:40 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sun Aug 07 22:56:22 +0000 2011	49e27207f964a52016621fe3	{Santa Monica State Beach}	{34.011279502454606,-118.49681854248047,Santa Monica,CA,United States}	{Outdoors & Recreation,Beach,}
+3217	Sun Aug 07 22:20:57 +0000 2011	4ba512bdf964a52041d938e3	{CA-1 (Pacific Coast Highway)}	{33.81606297472537,-118.37766945362091,Southern California,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+3217	Sun Aug 07 18:51:53 +0000 2011	4c2eac69452620a1ac5d1c0f	{Burger King}	{33.916725,-118.36731612682343,Hawthorne,CA,United States}	{Food,}
+3217	Sun Aug 07 07:44:32 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sun Aug 07 07:44:18 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sun Aug 07 06:20:46 +0000 2011	4b7de6d3f964a520dcd82fe3	{Normandie Casino}	{33.90230059370531,-118.29319233690666,Gardena,CA,United States}	{Arts & Entertainment,}
+3217	Sat Aug 06 22:33:33 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sat Aug 06 22:33:04 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sat Aug 06 20:19:15 +0000 2011	4a359f92f964a520409d1fe3	{Target}	{33.86902586755305,-118.35695743560791,Redondo Beach,CA,United States}	{Outdoors & Recreation,Shop & Service,}
+3217	Sat Aug 06 17:17:57 +0000 2011	4afa1a17f964a520c01622e3	{AMC South Bay Galleria 16}	{33.87159141921541,-118.3553695678711,Redondo Beach,CA,United States}	{Arts & Entertainment,}
+3217	Sat Aug 06 05:03:05 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sat Aug 06 05:02:38 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sat Aug 06 03:49:10 +0000 2011	4be7674ebcef2d7fd44506e5	{Fabulous Charbroiled Burgers #1}	{33.902184830987224,-118.33115854170528,Hawthorne,CA,United States}	{Food,}
+3217	Fri Aug 05 03:04:30 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Fri Aug 05 03:01:07 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Thu Aug 04 02:39:14 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Thu Aug 04 02:39:02 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Wed Aug 03 03:14:35 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Wed Aug 03 03:14:11 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Tue Aug 02 22:48:34 +0000 2011	4df62ce67d8b18e172378e22	{Mi Trabajo}	{33.98597305316988,-118.30528067963546,Los Angeles,CA,United States}	{Residence,}
+3217	Tue Aug 02 03:52:17 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Tue Aug 02 03:51:48 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Tue Aug 02 01:04:43 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Tue Aug 02 01:04:32 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Mon Aug 01 02:07:03 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Mon Aug 01 02:05:18 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sun Jul 31 05:19:49 +0000 2011	4b5be52bf964a5201d1c29e3	{Casablanca Bar & Grill}	{34.09452258468011,-117.72092045347837,Claremont,CA,United States}	{Food,}
+3217	Sat Jul 30 05:32:25 +0000 2011	4d28fafdebacb1f71b86f64f	{Chateau De Fernandez}	{34.05584906684843,-117.39102466932972,,,United States}	{Residence,}
+3217	Sat Jul 30 05:02:32 +0000 2011	4b99c86bf964a5208f9135e3	{Taco Bell}	{34.07096541666667,-117.39504754543304,Bloomington,CA,United States}	{Food,}
+3217	Sat Jul 30 01:57:17 +0000 2011	4b71bb15f964a52006592de3	{Cougars Burgers}	{33.9161,-118.36102500252056,Hawthorne,CA,United States}	{Food,}
+3217	Sat Jul 30 01:40:47 +0000 2011	4b48d8c3f964a520ba5926e3	{Michaels}	{33.90049091251072,-118.36625158088407,Hawthorne,CA,United States}	{Shop & Service,}
+3217	Fri Jul 29 21:46:44 +0000 2011	4df62ce67d8b18e172378e22	{Mi Trabajo}	{33.98597305316988,-118.30528067963546,Los Angeles,CA,United States}	{Residence,}
+3217	Fri Jul 29 02:54:28 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Fri Jul 29 02:53:56 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Thu Jul 28 21:25:16 +0000 2011	4df62ce67d8b18e172378e22	{Mi Trabajo}	{33.98597305316988,-118.30528067963546,Los Angeles,CA,United States}	{Residence,}
+3217	Thu Jul 28 06:05:30 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Thu Jul 28 06:05:04 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Thu Jul 28 02:08:39 +0000 2011	4a96d72af964a5202c2720e3	{Fresh & Easy Neighborhood Market}	{33.9014861,-118.381997,Manhattan Beach,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3217	Wed Jul 27 23:09:30 +0000 2011	4d0253fc3fd4224be04bb677	{U.S. Post Office}	{34.00394823,-118.30317542,Los Angeles,CA,United States}	{Professional & Other Places,}
+3217	Wed Jul 27 03:44:15 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Wed Jul 27 03:43:50 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Tue Jul 26 05:46:50 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Tue Jul 26 05:46:35 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Mon Jul 25 19:40:48 +0000 2011	4bc6be2004e8b713a77a362d	{I-110 (Harbor Freeway)}	{33.95140564966103,-118.28018188476562,Southern California,CA,United States}	{Travel & Transport,}
+3217	Mon Jul 25 04:28:32 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Mon Jul 25 04:27:54 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sun Jul 24 06:47:01 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sun Jul 24 06:46:18 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sat Jul 23 21:05:56 +0000 2011	4d28fafdebacb1f71b86f64f	{Chateau De Fernandez}	{34.05584906684843,-117.39102466932972,,,United States}	{Residence,}
+3217	Sat Jul 23 02:15:29 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sat Jul 23 02:14:53 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Fri Jul 22 21:13:47 +0000 2011	4c5648e0b7a31b8d39d14dda	{Wingstop}	{33.988891328082055,-118.3085602257351,Los Angeles,CA,United States}	{Food,}
+3217	Fri Jul 22 21:02:59 +0000 2011	4bdb5f0d63c5c9b63da22768	{Bank Of America}	{33.9901328086853,-118.29131841659546,Los Angeles,CA,United States}	{Shop & Service,}
+3217	Fri Jul 22 21:02:59 +0000 2011	4bdb5f0d63c5c9b63da22768	{Bank Of America}	{33.9901328086853,-118.29131841659546,Los Angeles,CA,United States}	{Shop & Service,}
+3217	Fri Jul 22 06:25:02 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Fri Jul 22 06:22:03 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Fri Jul 22 02:28:14 +0000 2011	4bbec5c1b083a593da8ca2e9	{Albertitas Mexican Food}	{33.88209879398346,-118.30936605,Gardena,CA,United States}	{Food,}
+3217	Fri Jul 22 02:11:28 +0000 2011	4bd09600a8b3a593f42f645f	{Bank Of America}	{33.89061212539673,-118.301694,Gardena,CA,United States}	{Shop & Service,}
+3217	Fri Jul 22 01:26:52 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Fri Jul 22 01:26:27 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Fri Jul 22 00:31:21 +0000 2011	4c72c87ed944224b8e9f0d29	{US Post Office}	{33.94518316700547,-118.3179732271243,Los Angeles,CA,United States}	{Professional & Other Places,}
+3217	Thu Jul 21 18:54:19 +0000 2011	4df62ce67d8b18e172378e22	{Mi Trabajo}	{33.98597305316988,-118.30528067963546,Los Angeles,CA,United States}	{Residence,}
+3217	Thu Jul 21 06:18:58 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Thu Jul 21 06:18:40 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Wed Jul 20 17:52:06 +0000 2011	4c27a9adf1272d7fb49688c5	{Bank of america}	{34.00404471013994,-118.30319989039707,Los Angeles,CA,United States}	{Shop & Service,}
+3217	Wed Jul 20 17:52:06 +0000 2011	4c27a9adf1272d7fb49688c5	{Bank of america}	{34.00404471013994,-118.30319989039707,Los Angeles,CA,United States}	{Shop & Service,}
+3217	Wed Jul 20 07:25:17 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Wed Jul 20 07:24:50 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Wed Jul 20 02:35:26 +0000 2011	4b9949d7f964a5205c7035e3	{Waikiki Grill}	{33.924393,-118.324581,Hawthorne,CA,United States}	{Food,}
+3217	Tue Jul 19 15:15:00 +0000 2011	4b914bf5f964a520e0b033e3	{7-Eleven}	{33.90778521452687,-118.35314859399594,Hawthorne,CA,United States}	{Shop & Service,}
+3217	Tue Jul 19 04:18:09 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Tue Jul 19 04:17:57 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Tue Jul 19 03:15:09 +0000 2011	4e10f8b4483bee47ff2e4d8e	{DOLLAR TREE}	{33.816519,-118.35070795,Torrance,CA,United States}	{Shop & Service,}
+3217	Tue Jul 19 01:46:55 +0000 2011	4b459716f964a5203d0e26e3	{T.G.I. Friday's}	{33.81345149167098,-118.3501812558635,Torrance,CA,United States}	{Nightlife Spot,Food,}
+3217	Mon Jul 18 18:50:51 +0000 2011	4df62ce67d8b18e172378e22	{Mi Trabajo}	{33.98597305316988,-118.30528067963546,Los Angeles,CA,United States}	{Residence,}
+3217	Mon Jul 18 15:14:54 +0000 2011	4b914bf5f964a520e0b033e3	{7-Eleven}	{33.90778521452687,-118.35314859399594,Hawthorne,CA,United States}	{Shop & Service,}
+3217	Mon Jul 18 04:23:03 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Mon Jul 18 04:22:16 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sun Jul 17 19:44:40 +0000 2011	4c38f4491e06d13a7ac3783e	{Big Savers}	{33.901600588175576,-118.35122564526203,Lawndale,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3217	Sun Jul 17 04:13:48 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sun Jul 17 04:13:35 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sat Jul 16 23:45:19 +0000 2011	4c897030e51e6dcbd15460de	{99 Cents Only}	{33.91401404147669,-118.35338859509291,Hawthorne,CA,United States}	{Shop & Service,}
+3217	Sat Jul 16 22:59:58 +0000 2011	4a96d72af964a5202c2720e3	{Fresh & Easy Neighborhood Market}	{33.9014861,-118.381997,Manhattan Beach,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3217	Sat Jul 16 22:36:36 +0000 2011	4ba9615ff964a5204c233ae3	{Green Forest Car Wash}	{33.902234,-118.3590978384018,Hawthorne,CA,United States}	{Shop & Service,}
+3217	Sat Jul 16 03:31:53 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sat Jul 16 03:31:37 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sat Jul 16 02:04:34 +0000 2011	4d8e48c05091a1cd9f618c01	{Chevron}	{33.97444188594818,-118.28180236,Los Angeles,CA,United States}	{Shop & Service,}
+3217	Fri Jul 15 06:38:56 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Fri Jul 15 06:38:43 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Thu Jul 14 20:47:31 +0000 2011	4cb49decef1b3704c3475a00	{Jack in the Box - Los Angeles, CA}	{33.98885398941684,-118.29188972711563,Los Angeles,CA,United States}	{Food,}
+3217	Thu Jul 14 03:49:02 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Thu Jul 14 03:48:45 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Thu Jul 14 02:53:45 +0000 2011	4bfd7e40f7c82d7fd6448e04	{Carl's Jr / Green Burrito}	{33.90264584647367,-118.35198864340782,Hawthorne,CA,United States}	{Food,}
+3217	Thu Jul 14 02:51:27 +0000 2011	4e1e52471f6ee97064732505	{Movies N You}	{33.88857681017951,-118.32717451592671,,,United States}	{Arts & Entertainment,}
+3217	Thu Jul 14 01:47:16 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Thu Jul 14 01:46:51 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Wed Jul 13 15:25:43 +0000 2011	40d62500f964a5204a011fe3	{Starbucks}	{33.98891,-118.3098799299638,Los Angeles,CA,United States}	{Food,}
+3217	Wed Jul 13 04:28:13 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Wed Jul 13 04:24:52 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Wed Jul 13 02:57:17 +0000 2011	4a96d72af964a5202c2720e3	{Fresh & Easy Neighborhood Market}	{33.9014861,-118.381997,Manhattan Beach,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3217	Wed Jul 13 01:54:26 +0000 2011	4a359f92f964a520409d1fe3	{Target}	{33.86902586755305,-118.35695743560791,Redondo Beach,CA,United States}	{Outdoors & Recreation,Shop & Service,}
+3217	Wed Jul 13 01:39:00 +0000 2011	4c410b13d691c9b6923a8c0a	{Albertsons}	{33.91756228969813,-118.35185050964355,Hawthorne,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+3217	Tue Jul 12 21:14:39 +0000 2011	4cb49decef1b3704c3475a00	{Jack in the Box - Los Angeles, CA}	{33.98885398941684,-118.29188972711563,Los Angeles,CA,United States}	{Food,}
+3217	Tue Jul 12 21:14:39 +0000 2011	4cb49decef1b3704c3475a00	{Jack in the Box - Los Angeles, CA}	{33.98885398941684,-118.29188972711563,Los Angeles,CA,United States}	{Food,}
+3217	Tue Jul 12 20:58:30 +0000 2011	4c27a9adf1272d7fb49688c5	{Bank of america}	{34.00404471013994,-118.30319989039707,Los Angeles,CA,United States}	{Shop & Service,}
+3217	Tue Jul 12 03:13:49 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Tue Jul 12 02:58:11 +0000 2011	4b942310f964a5208d6a34e3	{Ricos Tacos El Tio}	{33.91626240804052,-118.31745386123657,Hawthorne,CA,United States}	{Food,}
+3217	Tue Jul 12 02:40:02 +0000 2011	4c410b13d691c9b6923a8c0a	{Albertsons}	{33.91756228969813,-118.35185050964355,Hawthorne,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+3217	Tue Jul 12 02:19:08 +0000 2011	4e1baee214954075097a09a8	{Amigos Donuts}	{33.9024120527123,-118.36169201017786,Hawthorne,CA,United States}	{Food,}
+3217	Tue Jul 12 00:44:36 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Tue Jul 12 00:44:25 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Tue Jul 12 00:07:35 +0000 2011	4df62ce67d8b18e172378e22	{Mi Trabajo}	{33.98597305316988,-118.30528067963546,Los Angeles,CA,United States}	{Residence,}
+3217	Mon Jul 11 15:26:54 +0000 2011	40d62500f964a5204a011fe3	{Starbucks}	{33.98891,-118.3098799299638,Los Angeles,CA,United States}	{Food,}
+3217	Mon Jul 11 02:41:02 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sun Jul 10 23:45:59 +0000 2011	4ca3de2b5720b1f75a9535ef	{Costco Food Court}	{33.89913002750982,-118.37327615957936,Hawthorne,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+3217	Sun Jul 10 23:34:59 +0000 2011	4ae63aa0f964a520d1a521e3	{Food 4 Less}	{33.899689,-118.366518,Hawthorne,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3217	Sun Jul 10 21:34:19 +0000 2011	4bd88b4011dcc928bbcaf633	{Manhattan Beach}	{33.89834695102012,-118.42030048370361,Manhattan Beach,CA,United States}	{Outdoors & Recreation,}
+3217	Sun Jul 10 20:12:06 +0000 2011	4c530dae06901b8d78757949	{99 Cent Only Stores}	{33.89605700969696,-118.35301967,Lawndale,CA,United States}	{Shop & Service,}
+3217	Sun Jul 10 20:00:25 +0000 2011	4c897030e51e6dcbd15460de	{99 Cents Only}	{33.91401404147669,-118.35338859509291,Hawthorne,CA,United States}	{Shop & Service,}
+3217	Sun Jul 10 17:00:06 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sun Jul 10 16:58:32 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sun Jul 10 04:46:20 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sun Jul 10 04:45:35 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sat Jul 09 23:57:53 +0000 2011	4dc17280b0fb1c18ee6359cc	{Mother's Beach}	{33.981125433367694,-118.45789432525635,Marina del Rey,CA,United States}	{Outdoors & Recreation,}
+3217	Sat Jul 09 23:55:19 +0000 2011	4dc17280b0fb1c18ee6359cc	{Mother's Beach}	{33.981125433367694,-118.45789432525635,Marina del Rey,CA,United States}	{Outdoors & Recreation,}
+3217	Sat Jul 09 21:04:38 +0000 2011	4c897030e51e6dcbd15460de	{99 Cents Only}	{33.91401404147669,-118.35338859509291,Hawthorne,CA,United States}	{Shop & Service,}
+3217	Sat Jul 09 06:54:34 +0000 2011	4b75880af964a5201d122ee3	{Denny's}	{33.901704716666664,-118.361581,Hawthorne,CA,United States}	{Food,}
+3217	Sat Jul 09 02:13:39 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sat Jul 09 02:13:11 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sat Jul 09 01:33:28 +0000 2011	4c17c24b1436a593ab518c75	{Shell}	{33.98874037334379,-118.33126128038454,Los Angeles,CA,United States}	{Shop & Service,}
+3217	Fri Jul 08 21:40:07 +0000 2011	4df62ce67d8b18e172378e22	{Mi Trabajo}	{33.98597305316988,-118.30528067963546,Los Angeles,CA,United States}	{Residence,}
+3217	Fri Jul 08 15:24:04 +0000 2011	40d62500f964a5204a011fe3	{Starbucks}	{33.98891,-118.3098799299638,Los Angeles,CA,United States}	{Food,}
+3217	Fri Jul 08 01:40:47 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Fri Jul 08 01:40:33 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Thu Jul 07 23:03:06 +0000 2011	4df62ce67d8b18e172378e22	{Mi Trabajo}	{33.98597305316988,-118.30528067963546,Los Angeles,CA,United States}	{Residence,}
+3217	Thu Jul 07 21:24:06 +0000 2011	4b6e420cf964a520b5b42ce3	{Taco Bell}	{33.989379,-118.291721,Los Angeles,CA,United States}	{Food,}
+3217	Thu Jul 07 15:27:04 +0000 2011	40d62500f964a5204a011fe3	{Starbucks}	{33.98891,-118.3098799299638,Los Angeles,CA,United States}	{Food,}
+3217	Thu Jul 07 06:10:15 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Thu Jul 07 06:09:44 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Thu Jul 07 05:28:59 +0000 2011	4b458d7df964a520d90d26e3	{US Post Office}	{33.95316777070186,-118.38672995567322,Los Angeles,CA,United States}	{Professional & Other Places,}
+3217	Thu Jul 07 04:00:51 +0000 2011	4b46c951f964a5203e2826e3	{Live Oak Park}	{33.890705914183314,-118.41042995452881,Manhattan Beach,CA,United States}	{Outdoors & Recreation,}
+3217	Thu Jul 07 01:49:23 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Thu Jul 07 01:20:06 +0000 2011	4b67b146f964a520055b2be3	{Piggie's}	{33.90209954578471,-118.35744048448765,Hawthorne,CA,United States}	{Food,}
+3217	Wed Jul 06 21:43:27 +0000 2011	4c855664d92ea09373186572	{Jack in the Box - Los Angeles, CA}	{33.97424,-118.30915237,Los Angeles,CA,United States}	{Food,}
+3217	Wed Jul 06 15:56:21 +0000 2011	4df62ce67d8b18e172378e22	{Mi Trabajo}	{33.98597305316988,-118.30528067963546,Los Angeles,CA,United States}	{Residence,}
+3217	Wed Jul 06 01:36:25 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Wed Jul 06 01:35:37 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Tue Jul 05 18:30:28 +0000 2011	4df62ce67d8b18e172378e22	{Mi Trabajo}	{33.98597305316988,-118.30528067963546,Los Angeles,CA,United States}	{Residence,}
+3217	Tue Jul 05 03:58:41 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Mon Jul 04 16:31:48 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Mon Jul 04 09:22:49 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Mon Jul 04 09:20:53 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Mon Jul 04 03:21:34 +0000 2011	4b5bb167f964a520681029e3	{Mission Tiki Drive-In Theatre}	{34.05685496823623,-117.70777702331543,Montclair,CA,United States}	{Arts & Entertainment,Movie Theater,}
+3217	Mon Jul 04 03:12:00 +0000 2011	4bcbca85b6c49c7422ee9291	{Carl's Jr}	{34.06300264739746,-117.69005869736448,Montclair,CA,United States}	{Food,}
+3217	Mon Jul 04 02:35:17 +0000 2011	4b56707af964a520681028e3	{DOLLAR TREE}	{34.072460532188416,-117.43645,Fontana,CA,United States}	{Shop & Service,}
+3217	Mon Jul 04 02:25:54 +0000 2011	4d28fafdebacb1f71b86f64f	{Chateau De Fernandez}	{34.05584906684843,-117.39102466932972,,,United States}	{Residence,}
+3217	Sun Jul 03 17:47:55 +0000 2011	4c61fc9ae1621b8d43932253	{Jack in the Box - Fontana, CA}	{34.069882,-117.4360368,Fontana,CA,United States}	{Food,}
+3217	Sun Jul 03 15:55:12 +0000 2011	4d28fafdebacb1f71b86f64f	{Chateau De Fernandez}	{34.05584906684843,-117.39102466932972,,,United States}	{Residence,}
+3217	Sun Jul 03 05:21:50 +0000 2011	4d28fafdebacb1f71b86f64f	{Chateau De Fernandez}	{34.05584906684843,-117.39102466932972,,,United States}	{Residence,}
+3217	Sun Jul 03 05:08:18 +0000 2011	4b5ddaf6f964a520197029e3	{Stater Bros}	{34.07459485770355,-117.38986015319824,Bloomington,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3217	Sun Jul 03 03:48:57 +0000 2011	4c5090e69426c92882b74e72	{Mario's Tacos}	{33.99974482925279,-118.07956657190739,Pico Rivera,CA,United States}	{Food,}
+3217	Sun Jul 03 01:43:01 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sun Jul 03 00:31:26 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sun Jul 03 00:10:13 +0000 2011	4c38f4491e06d13a7ac3783e	{Big Savers}	{33.901600588175576,-118.35122564526203,Lawndale,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3217	Sat Jul 02 23:53:57 +0000 2011	4b48d8c3f964a520ba5926e3	{Michaels}	{33.90049091251072,-118.36625158088407,Hawthorne,CA,United States}	{Shop & Service,}
+3217	Sat Jul 02 23:22:41 +0000 2011	4a359f92f964a520409d1fe3	{Target}	{33.86902586755305,-118.35695743560791,Redondo Beach,CA,United States}	{Outdoors & Recreation,Shop & Service,}
+3217	Sat Jul 02 22:51:44 +0000 2011	4b075a53f964a5207cfc22e3	{FedEx Ship Center}	{33.91814145262488,-118.34120951352558,Hawthorne,CA,United States}	{Shop & Service,}
+3217	Sat Jul 02 20:06:15 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sat Jul 02 03:05:23 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sat Jul 02 02:54:59 +0000 2011	4b1e341ef964a520d81724e3	{Tomboy's Famous Chiliburgers}	{33.8948025924888,-118.36801886558533,Lawndale,CA,United States}	{Food,}
+3217	Sat Jul 02 02:37:48 +0000 2011	4c2e1262e116e21ee49e8f60	{Chevron}	{33.90166356,-118.35304104,Lawndale,CA,United States}	{Shop & Service,}
+3217	Sat Jul 02 02:34:49 +0000 2011	4d04047e30a58cfaffbd9ce7	{Chevron}	{33.91607788931281,-118.36169201017786,Hawthorne,CA,United States}	{Shop & Service,}
+3217	Sat Jul 02 02:17:30 +0000 2011	4bc88e486501c9b675544029	{Bank of America}	{33.918589,-118.352984,Hawthorne,CA,United States}	{Shop & Service,}
+3217	Sat Jul 02 02:12:40 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Fri Jul 01 21:42:17 +0000 2011	4c5648e0b7a31b8d39d14dda	{Wingstop}	{33.988891328082055,-118.3085602257351,Los Angeles,CA,United States}	{Food,}
+3217	Fri Jul 01 21:42:17 +0000 2011	4c5648e0b7a31b8d39d14dda	{Wingstop}	{33.988891328082055,-118.3085602257351,Los Angeles,CA,United States}	{Food,}
+3217	Fri Jul 01 15:34:37 +0000 2011	4df62ce67d8b18e172378e22	{Mi Trabajo}	{33.98597305316988,-118.30528067963546,Los Angeles,CA,United States}	{Residence,}
+3217	Fri Jul 01 15:20:28 +0000 2011	40d62500f964a5204a011fe3	{Starbucks}	{33.98891,-118.3098799299638,Los Angeles,CA,United States}	{Food,}
+3217	Fri Jul 01 00:40:38 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Fri Jul 01 00:39:42 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Thu Jun 30 21:08:12 +0000 2011	4e0ce5aeaeb7af850d6d4664	{Primo's Burgers}	{33.98177547448173,-118.3089197872323,Los Angeles,CA,United States}	{Food,}
+3217	Thu Jun 30 18:29:10 +0000 2011	4df62ce67d8b18e172378e22	{Mi Trabajo}	{33.98597305316988,-118.30528067963546,Los Angeles,CA,United States}	{Residence,}
+3217	Thu Jun 30 02:08:45 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Thu Jun 30 02:08:14 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Wed Jun 29 15:09:04 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Wed Jun 29 02:43:21 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Wed Jun 29 02:39:19 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Wed Jun 29 01:45:10 +0000 2011	4a359f92f964a520409d1fe3	{Target}	{33.86902586755305,-118.35695743560791,Redondo Beach,CA,United States}	{Outdoors & Recreation,Shop & Service,}
+3217	Wed Jun 29 01:19:19 +0000 2011	4ae63aa0f964a520d1a521e3	{Food 4 Less}	{33.899689,-118.366518,Hawthorne,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3217	Wed Jun 29 00:53:09 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Tue Jun 28 22:02:10 +0000 2011	4df62ce67d8b18e172378e22	{Mi Trabajo}	{33.98597305316988,-118.30528067963546,Los Angeles,CA,United States}	{Residence,}
+3217	Tue Jun 28 21:19:45 +0000 2011	4cb49decef1b3704c3475a00	{Jack in the Box - Los Angeles, CA}	{33.98885398941684,-118.29188972711563,Los Angeles,CA,United States}	{Food,}
+3217	Tue Jun 28 15:22:49 +0000 2011	40d62500f964a5204a011fe3	{Starbucks}	{33.98891,-118.3098799299638,Los Angeles,CA,United States}	{Food,}
+3217	Tue Jun 28 14:49:41 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Mon Jun 27 23:25:52 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Mon Jun 27 23:25:52 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Mon Jun 27 23:24:19 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Mon Jun 27 19:16:45 +0000 2011	4da21c5ed686b60c6955b328	{Tom's Famous Family Restraunt}	{34.03338154,-117.73214241,Pomona,CA,United States}	{Food,}
+3217	Mon Jun 27 18:01:39 +0000 2011	4d28fafdebacb1f71b86f64f	{Chateau De Fernandez}	{34.05584906684843,-117.39102466932972,,,United States}	{Residence,}
+3217	Sun Jun 26 15:48:32 +0000 2011	4e0581521838eb15aef4c2da	{Double D Lodge @ Twin Peaks!!}	{34.233807914748475,-117.24997493608468,San Bernardino,CA,United States}	{Residence,}
+3217	Sun Jun 26 09:08:17 +0000 2011	4e0581521838eb15aef4c2da	{Double D Lodge @ Twin Peaks!!}	{34.233807914748475,-117.24997493608468,San Bernardino,CA,United States}	{Residence,}
+3217	Sat Jun 25 07:54:18 +0000 2011	4e0581521838eb15aef4c2da	{Double D Lodge @ Twin Peaks!!}	{34.233807914748475,-117.24997493608468,San Bernardino,CA,United States}	{Residence,}
+3217	Fri Jun 24 23:14:39 +0000 2011	4ae363dbf964a520639421e3	{In-N-Out Burger}	{34.11769133633805,-117.90749315004913,Azusa,CA,United States}	{Food,}
+3217	Fri Jun 24 16:31:38 +0000 2011	4df62ce67d8b18e172378e22	{Mi Trabajo}	{33.98597305316988,-118.30528067963546,Los Angeles,CA,United States}	{Residence,}
+3217	Fri Jun 24 03:26:27 +0000 2011	4c38f4491e06d13a7ac3783e	{Big Savers}	{33.901600588175576,-118.35122564526203,Lawndale,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3217	Fri Jun 24 03:19:49 +0000 2011	4b48d8c3f964a520ba5926e3	{Michaels}	{33.90049091251072,-118.36625158088407,Hawthorne,CA,United States}	{Shop & Service,}
+3217	Fri Jun 24 02:39:04 +0000 2011	4ae63aa0f964a520d1a521e3	{Food 4 Less}	{33.899689,-118.366518,Hawthorne,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3217	Fri Jun 24 02:14:15 +0000 2011	4ca3de2b5720b1f75a9535ef	{Costco Food Court}	{33.89913002750982,-118.37327615957936,Hawthorne,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+3217	Fri Jun 24 01:26:18 +0000 2011	4ba9615ff964a5204c233ae3	{Green Forest Car Wash}	{33.902234,-118.3590978384018,Hawthorne,CA,United States}	{Shop & Service,}
+3217	Thu Jun 23 23:37:57 +0000 2011	4df62ce67d8b18e172378e22	{Mi Trabajo}	{33.98597305316988,-118.30528067963546,Los Angeles,CA,United States}	{Residence,}
+3217	Thu Jun 23 19:41:00 +0000 2011	4c5648e0b7a31b8d39d14dda	{Wingstop}	{33.988891328082055,-118.3085602257351,Los Angeles,CA,United States}	{Food,}
+3217	Thu Jun 23 07:37:37 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Thu Jun 23 07:36:34 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Thu Jun 23 03:08:57 +0000 2011	4c2e1262e116e21ee49e8f60	{Chevron}	{33.90166356,-118.35304104,Lawndale,CA,United States}	{Shop & Service,}
+3217	Thu Jun 23 02:39:28 +0000 2011	4c530dae06901b8d78757949	{99 Cent Only Stores}	{33.89605700969696,-118.35301967,Lawndale,CA,United States}	{Shop & Service,}
+3217	Thu Jun 23 02:23:31 +0000 2011	4da9eaf81e72c1ab9be83eea	{Total Wine & More}	{33.867785377853785,-118.35343569517136,Redondo Beach,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+3217	Thu Jun 23 02:22:18 +0000 2011	4bbfbfebf8219c743692b010	{Bank of America}	{33.86836219667068,-118.35312992334366,Redondo Beach,CA,United States}	{Professional & Other Places,}
+3217	Thu Jun 23 01:59:42 +0000 2011	4be218d2660ec9286fc9c83b	{Kohl's}	{33.87006812705768,-118.35494087972023,Redondo Beach,CA,United States}	{Shop & Service,Clothing Store,}
+3217	Wed Jun 22 21:23:28 +0000 2011	4df62ce67d8b18e172378e22	{Mi Trabajo}	{33.98597305316988,-118.30528067963546,Los Angeles,CA,United States}	{Residence,}
+3217	Wed Jun 22 06:14:44 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Wed Jun 22 06:14:44 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Wed Jun 22 06:14:18 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Tue Jun 21 15:26:17 +0000 2011	4b426cc8f964a520a9d325e3	{Jamba Juice}	{33.988758,-118.30991,Los Angeles,CA,United States}	{Food,}
+3217	Mon Jun 20 21:35:00 +0000 2011	4df62ce67d8b18e172378e22	{Mi Trabajo}	{33.98597305316988,-118.30528067963546,Los Angeles,CA,United States}	{Residence,}
+3217	Mon Jun 20 04:46:34 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Mon Jun 20 04:43:12 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Mon Jun 20 04:36:00 +0000 2011	4ba8e69ff964a52077f839e3	{Shell}	{33.90155277656869,-118.36076349020004,Hawthorne,CA,United States}	{Shop & Service,}
+3217	Mon Jun 20 04:31:55 +0000 2011	4b930011f964a520be2d34e3	{Hawthorne Post Office}	{33.917328,-118.36103,Hawthorne,CA,United States}	{Professional & Other Places,}
+3217	Sun Jun 19 22:39:41 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sun Jun 19 05:42:51 +0000 2011	4ae63aa0f964a520d1a521e3	{Food 4 Less}	{33.899689,-118.366518,Hawthorne,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3217	Sun Jun 19 02:12:07 +0000 2011	4bc65f7842419521911e041d	{Wendy's}	{33.92431045627842,-118.32530233389367,Hawthorne,CA,United States}	{Food,}
+3217	Sat Jun 18 04:07:18 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sat Jun 18 04:05:36 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sat Jun 18 03:35:39 +0000 2011	4be9b70a415e20a12f2ce4bb	{I-405 (San Diego Freeway)}	{33.835898386142745,-118.26003313064575,Southern California,CA,United States}	{Travel & Transport,}
+3217	Sat Jun 18 03:29:26 +0000 2011	4c0ea3dfd64c0f476e86285d	{Dollar Tree}	{33.855518,-118.30016,Torrance,CA,United States}	{Shop & Service,}
+3217	Sat Jun 18 02:18:53 +0000 2011	4c91724757e5b60c0af7601c	{Walmart}	{33.8569097207457,-118.30159664154053,Torrance,CA,United States}	{Shop & Service,}
+3217	Sat Jun 18 01:38:22 +0000 2011	4b8039d4f964a5206a5e30e3	{Kmart}	{33.85525217700523,-118.35306900530757,Torrance,CA,United States}	{Shop & Service,Clothing Store,}
+3217	Sat Jun 18 01:21:40 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sat Jun 18 00:49:46 +0000 2011	4bdb5f0d63c5c9b63da22768	{Bank Of America}	{33.9901328086853,-118.29131841659546,Los Angeles,CA,United States}	{Shop & Service,}
+3217	Fri Jun 17 22:03:30 +0000 2011	4bb95cbc3db7b7135345229a	{El Pollo Loco}	{33.98945222818947,-118.29108238220215,Los Angeles,CA,United States}	{Food,}
+3217	Fri Jun 17 15:24:17 +0000 2011	4df62ce67d8b18e172378e22	{Mi Trabajo}	{33.98597305316988,-118.30528067963546,Los Angeles,CA,United States}	{Residence,}
+3217	Fri Jun 17 07:23:18 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Fri Jun 17 03:09:20 +0000 2011	4b7c6840f964a52074912fe3	{Ohana Hawaiian BBQ}	{33.874165,-118.35315942764282,Lawndale,CA,United States}	{Food,}
+3217	Fri Jun 17 01:45:06 +0000 2011	4a359f92f964a520409d1fe3	{Target}	{33.86902586755305,-118.35695743560791,Redondo Beach,CA,United States}	{Outdoors & Recreation,Shop & Service,}
+3217	Fri Jun 17 00:53:33 +0000 2011	4bdb5f0d63c5c9b63da22768	{Bank Of America}	{33.9901328086853,-118.29131841659546,Los Angeles,CA,United States}	{Shop & Service,}
+3217	Thu Jun 16 05:55:00 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Thu Jun 16 05:55:00 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Thu Jun 16 05:54:19 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Thu Jun 16 04:07:38 +0000 2011	4b46c951f964a5203e2826e3	{Live Oak Park}	{33.890705914183314,-118.41042995452881,Manhattan Beach,CA,United States}	{Outdoors & Recreation,}
+3217	Wed Jun 15 15:34:49 +0000 2011	40d62500f964a5204a011fe3	{Starbucks}	{33.98891,-118.3098799299638,Los Angeles,CA,United States}	{Food,}
+3217	Wed Jun 15 06:08:31 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Wed Jun 15 01:51:12 +0000 2011	4fb2dee17beba00e2f2f4dc0	{Hometown Buffet}	{33.830560818329275,-118.34742472165051,Torrance,CA,United States}	{Food,}
+3217	Wed Jun 15 01:23:39 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Tue Jun 14 21:05:13 +0000 2011	4c780410a8683704b0cf0b4d	{Yoshinoya}	{33.98889619917871,-118.29203911834828,Los Angeles,CA,United States}	{Food,}
+3217	Tue Jun 14 15:31:08 +0000 2011	4df62ce67d8b18e172378e22	{Mi Trabajo}	{33.98597305316988,-118.30528067963546,Los Angeles,CA,United States}	{Residence,}
+3217	Tue Jun 14 15:29:20 +0000 2011	40d62500f964a5204a011fe3	{Starbucks}	{33.98891,-118.3098799299638,Los Angeles,CA,United States}	{Food,}
+3217	Tue Jun 14 05:16:36 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Tue Jun 14 05:16:36 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Tue Jun 14 03:41:33 +0000 2011	4b458d7df964a520d90d26e3	{US Post Office}	{33.95316777070186,-118.38672995567322,Los Angeles,CA,United States}	{Professional & Other Places,}
+3217	Tue Jun 14 02:43:45 +0000 2011	4a91b007f964a5205b1b20e3	{Borders Bookstore}	{33.90630786245982,-118.39553833007812,El Segundo,CA,United States}	{Shop & Service,}
+3217	Tue Jun 14 00:54:47 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Mon Jun 13 15:31:10 +0000 2011	4df62ce67d8b18e172378e22	{Mi Trabajo}	{33.98597305316988,-118.30528067963546,Los Angeles,CA,United States}	{Residence,}
+3217	Mon Jun 13 06:27:06 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Mon Jun 13 03:08:39 +0000 2011	4be7674ebcef2d7fd44506e5	{Fabulous Charbroiled Burgers #1}	{33.902184830987224,-118.33115854170528,Hawthorne,CA,United States}	{Food,}
+3217	Mon Jun 13 00:51:07 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sun Jun 12 16:56:42 +0000 2011	4d28fafdebacb1f71b86f64f	{Chateau De Fernandez}	{34.05584906684843,-117.39102466932972,,,United States}	{Residence,}
+3217	Sun Jun 12 05:13:57 +0000 2011	4d490c2e9526b60c3f4d74ee	{Smith Manor}	{34.147459381849444,-117.43801888889325,Fontana,CA,United States}	{Residence,}
+3217	Sun Jun 12 00:54:04 +0000 2011	4b8c67c9f964a52023cf32e3	{JCPenney}	{34.07121,-117.21139,Redlands,CA,United States}	{Shop & Service,Clothing Store,}
+3217	Sat Jun 11 23:21:07 +0000 2011	4a9dfa6bf964a520f13920e3	{Kohl's}	{34.073255,-117.202801,Redlands,CA,United States}	{Shop & Service,Clothing Store,}
+3217	Sat Jun 11 16:32:12 +0000 2011	4a9b51e5f964a520f43420e3	{AMC Ontario Mills 30}	{34.07493000710397,-117.551874,Ontario,CA,United States}	{Arts & Entertainment,Movie Theater,}
+3217	Sat Jun 11 05:15:52 +0000 2011	4d28fafdebacb1f71b86f64f	{Chateau De Fernandez}	{34.05584906684843,-117.39102466932972,,,United States}	{Residence,}
+3217	Sat Jun 11 04:54:38 +0000 2011	4b7f1473f964a520fc1430e3	{Chevron}	{34.18259978,-117.43882,Fontana,CA,United States}	{Shop & Service,}
+3217	Sat Jun 11 04:09:57 +0000 2011	4b2dcd3ff964a5206cdb24e3	{In-N-Out Burger}	{34.068394210450094,-117.55719450112849,Ontario,CA,United States}	{Food,}
+3217	Sat Jun 11 03:14:25 +0000 2011	4a91a5a3f964a520221b20e3	{IKEA}	{34.07409719601414,-117.87922382354736,Covina,CA,United States}	{Shop & Service,Professional & Other Places,}
+3217	Sat Jun 11 00:47:08 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sat Jun 11 00:46:44 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Fri Jun 10 15:26:36 +0000 2011	40d62500f964a5204a011fe3	{Starbucks}	{33.98891,-118.3098799299638,Los Angeles,CA,United States}	{Food,}
+3217	Fri Jun 10 06:05:38 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Fri Jun 10 01:50:36 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Fri Jun 10 01:45:39 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Thu Jun 09 06:33:50 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Thu Jun 09 06:31:54 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Wed Jun 08 04:52:59 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Wed Jun 08 04:52:14 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Wed Jun 08 04:09:37 +0000 2011	4c2e1262e116e21ee49e8f60	{Chevron}	{33.90166356,-118.35304104,Lawndale,CA,United States}	{Shop & Service,}
+3217	Wed Jun 08 02:39:59 +0000 2011	4bb12a15f964a520d27f3ce3	{Pizza Show}	{33.91115033,-118.352268,Hawthorne,CA,United States}	{Food,}
+3217	Wed Jun 08 02:12:05 +0000 2011	4da9eaf81e72c1ab9be83eea	{Total Wine & More}	{33.867785377853785,-118.35343569517136,Redondo Beach,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+3217	Tue Jun 07 06:39:20 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Tue Jun 07 06:37:10 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Mon Jun 06 01:47:36 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sun Jun 05 09:40:18 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sun Jun 05 09:38:38 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sun Jun 05 08:15:27 +0000 2011	4badb990f964a5206b653be3	{Denny's}	{33.82416799772457,-118.3414777595539,Torrance,CA,United States}	{Food,}
+3217	Sun Jun 05 06:30:24 +0000 2011	4c84e3af30789c74995469e3	{Southland Bar Torrance}	{33.80757496521244,-118.3276368503755,Torrance,CA,United States}	{Nightlife Spot,}
+3217	Sun Jun 05 05:20:29 +0000 2011	4b459716f964a5203d0e26e3	{T.G.I. Friday's}	{33.81345149167098,-118.3501812558635,Torrance,CA,United States}	{Nightlife Spot,Food,}
+3217	Sun Jun 05 00:50:15 +0000 2011	4a888974f964a520d00620e3	{Costco}	{33.89946900367277,-118.37330818176268,Hawthorne,CA,United States}	{Shop & Service,Food,}
+3217	Sat Jun 04 21:13:17 +0000 2011	4a889bd2f964a5201d0720e3	{Polliwog Park}	{33.88858625120966,-118.38588237762451,Manhattan Beach,CA,United States}	{Outdoors & Recreation,}
+3217	Sat Jun 04 16:01:43 +0000 2011	4a7d0360f964a52050ee1fe3	{AMC Del Amo 18}	{33.833808554067204,-118.34771454334259,Torrance,CA,United States}	{Arts & Entertainment,Movie Theater,}
+3217	Sat Jun 04 03:26:58 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sat Jun 04 03:26:07 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Fri Jun 03 19:19:15 +0000 2011	4b4a6a1cf964a520d88626e3	{Gonzalez Northgate Market}	{33.90064176834945,-118.34306439756371,Hawthorne,CA,United States}	{Food,}
+3217	Fri Jun 03 18:35:37 +0000 2011	4bb26ed9715eef3b743885bb	{Starbucks}	{33.85807197730378,-118.302849,Torrance,CA,United States}	{Food,}
+3217	Fri Jun 03 18:21:39 +0000 2011	4c0ea3dfd64c0f476e86285d	{Dollar Tree}	{33.855518,-118.30016,Torrance,CA,United States}	{Shop & Service,}
+3217	Fri Jun 03 17:18:15 +0000 2011	4c91724757e5b60c0af7601c	{Walmart}	{33.8569097207457,-118.30159664154053,Torrance,CA,United States}	{Shop & Service,}
+3217	Thu Jun 02 04:12:33 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Thu Jun 02 04:11:57 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Wed Jun 01 22:46:29 +0000 2011	4c816e8cdc018cfa69c1c56c	{El Super}	{33.946570864499755,-118.3306220164778,Inglewood,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3217	Wed Jun 01 21:19:57 +0000 2011	4b3d3359f964a520229025e3	{Denny's}	{33.91262036629096,-118.35298340079798,Hawthorne,CA,United States}	{Food,Arts & Entertainment,}
+3217	Wed Jun 01 18:43:30 +0000 2011	4afa1a17f964a520c01622e3	{AMC South Bay Galleria 16}	{33.87159141921541,-118.3553695678711,Redondo Beach,CA,United States}	{Arts & Entertainment,}
+3217	Wed Jun 01 08:53:51 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Wed Jun 01 08:52:48 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Tue May 31 07:28:48 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Tue May 31 07:28:24 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Tue May 31 03:32:21 +0000 2011	4ae63aa0f964a520d1a521e3	{Food 4 Less}	{33.899689,-118.366518,Hawthorne,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3217	Tue May 31 00:08:33 +0000 2011	4c816e8cdc018cfa69c1c56c	{El Super}	{33.946570864499755,-118.3306220164778,Inglewood,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3217	Mon May 30 23:42:17 +0000 2011	4c2e1262e116e21ee49e8f60	{Chevron}	{33.90166356,-118.35304104,Lawndale,CA,United States}	{Shop & Service,}
+3217	Mon May 30 07:30:40 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sun May 29 21:12:46 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sun May 29 21:09:50 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Fri May 27 04:31:24 +0000 2011	4ae365b7f964a5207f9421e3	{In-N-Out Burger}	{33.94585717556449,-118.33230578674903,Inglewood,CA,United States}	{Food,}
+3217	Fri May 27 03:04:16 +0000 2011	4c816e8cdc018cfa69c1c56c	{El Super}	{33.946570864499755,-118.3306220164778,Inglewood,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3217	Fri May 27 02:10:50 +0000 2011	4a96d72af964a5202c2720e3	{Fresh & Easy Neighborhood Market}	{33.9014861,-118.381997,Manhattan Beach,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3217	Fri May 27 01:49:50 +0000 2011	4b48d8c3f964a520ba5926e3	{Michaels}	{33.90049091251072,-118.36625158088407,Hawthorne,CA,United States}	{Shop & Service,}
+3217	Tue May 24 05:29:23 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Mon May 23 17:01:50 +0000 2011	4b48d8c3f964a520ba5926e3	{Michaels}	{33.90049091251072,-118.36625158088407,Hawthorne,CA,United States}	{Shop & Service,}
+3217	Mon May 23 16:49:23 +0000 2011	4bc88e486501c9b675544029	{Bank of America}	{33.918589,-118.352984,Hawthorne,CA,United States}	{Shop & Service,}
+3217	Sun May 22 20:08:54 +0000 2011	45b88de0f964a520ce411fe3	{Union Station}	{34.05573499087499,-118.2361775636673,Los Angeles,CA,United States}	{Travel & Transport,}
+3217	Sun May 22 18:24:35 +0000 2011	4d28fafdebacb1f71b86f64f	{Chateau De Fernandez}	{34.05584906684843,-117.39102466932972,,,United States}	{Residence,}
+3217	Sat May 21 23:56:55 +0000 2011	4d28fafdebacb1f71b86f64f	{Chateau De Fernandez}	{34.05584906684843,-117.39102466932972,,,United States}	{Residence,}
+3217	Fri May 20 20:09:12 +0000 2011	4d28fafdebacb1f71b86f64f	{Chateau De Fernandez}	{34.05584906684843,-117.39102466932972,,,United States}	{Residence,}
+3217	Fri May 20 16:52:51 +0000 2011	45b88de0f964a520ce411fe3	{Union Station}	{34.05573499087499,-118.2361775636673,Los Angeles,CA,United States}	{Travel & Transport,}
+3217	Fri May 20 15:52:27 +0000 2011	4b0dd47ef964a520f45023e3	{Willowbrook (Rosa Parks) Metro Station}	{33.92822769297293,-118.23771715164185,Los Angeles,CA,United States}	{Travel & Transport,}
+3217	Fri May 20 15:36:53 +0000 2011	4c047827310fc9b67766c761	{I-105 (Century Freeway / Glenn Anderson Freeway)}	{33.92749771628687,-118.2589066028595,Southern California,CA,United States}	{Travel & Transport,Shop & Service,}
+3217	Thu May 19 21:41:52 +0000 2011	4c5da3a3bfa59521f99f81ff	{Big Lots!}	{33.91321253,-118.353489,Hawthorne,CA,United States}	{Shop & Service,}
+3217	Thu May 19 21:05:49 +0000 2011	4d093650e554721ecaedc5f8	{JIM'S BURGER # 9}	{33.885492741022425,-118.28293869390653,Gardena,CA,United States}	{Food,}
+3217	Thu May 19 06:53:09 +0000 2011	4b459716f964a5203d0e26e3	{T.G.I. Friday's}	{33.81345149167098,-118.3501812558635,Torrance,CA,United States}	{Nightlife Spot,Food,}
+3217	Thu May 19 02:19:28 +0000 2011	4d391d5bacf1b60cd2948718	{Hollywood}	{34.101677461543396,-118.34030628204346,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+3217	Wed May 18 03:38:05 +0000 2011	4b08c5b9f964a520121223e3	{Target}	{33.84279580610977,-118.26095581054688,Carson,CA,United States}	{Shop & Service,}
+3217	Wed May 18 02:57:07 +0000 2011	4a58dab8f964a5200bb81fe3	{IKEA}	{33.84140567323538,-118.26022624969482,Carson,CA,United States}	{Shop & Service,}
+3217	Tue May 17 02:04:47 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Mon May 16 04:09:57 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Mon May 16 00:50:54 +0000 2011	4d28fafdebacb1f71b86f64f	{Chateau De Fernandez}	{34.05584906684843,-117.39102466932972,,,United States}	{Residence,}
+3217	Sun May 15 17:52:57 +0000 2011	4d28fafdebacb1f71b86f64f	{Chateau De Fernandez}	{34.05584906684843,-117.39102466932972,,,United States}	{Residence,}
+3217	Sun May 15 09:03:25 +0000 2011	4d28fafdebacb1f71b86f64f	{Chateau De Fernandez}	{34.05584906684843,-117.39102466932972,,,United States}	{Residence,}
+3217	Sun May 15 01:25:29 +0000 2011	4d549fd6c6edf04d72dcbba2	{St Charles Catholic Chruch}	{34.04779981280629,-117.38819181919098,Bloomington,CA,United States}	{Spiritual Center,Professional & Other Places,}
+3217	Sat May 14 20:03:25 +0000 2011	4bce667efb84c9b6eddd233e	{Michaels}	{33.973074,-117.545739,Mira Loma,CA,United States}	{Shop & Service,}
+3217	Sat May 14 08:14:42 +0000 2011	4d28fafdebacb1f71b86f64f	{Chateau De Fernandez}	{34.05584906684843,-117.39102466932972,,,United States}	{Residence,}
+3217	Sat May 14 08:14:42 +0000 2011	4d28fafdebacb1f71b86f64f	{Chateau De Fernandez}	{34.05584906684843,-117.39102466932972,,,United States}	{Residence,}
+3217	Fri May 13 01:25:02 +0000 2011	4b0dd47ef964a520f45023e3	{Willowbrook (Rosa Parks) Metro Station}	{33.92822769297293,-118.23771715164185,Los Angeles,CA,United States}	{Travel & Transport,}
+3217	Fri May 13 01:03:25 +0000 2011	4b98fa47f964a520dc5935e3	{Crenshaw Metro Station}	{33.92509409030319,-118.32655191421509,Hawthorne,CA,United States}	{Travel & Transport,Train Station,}
+3217	Wed May 11 22:05:36 +0000 2011	4b550fc3f964a520bad927e3	{Starbucks}	{33.871847953288714,-118.2704861966408,Carson,CA,United States}	{Food,}
+3217	Wed May 11 21:50:16 +0000 2011	4a58dab8f964a5200bb81fe3	{IKEA}	{33.84140567323538,-118.26022624969482,Carson,CA,United States}	{Shop & Service,}
+3217	Mon May 09 23:09:59 +0000 2011	4b0dd47ef964a520f45023e3	{Willowbrook (Rosa Parks) Metro Station}	{33.92822769297293,-118.23771715164185,Los Angeles,CA,United States}	{Travel & Transport,}
+3217	Mon May 09 22:34:20 +0000 2011	4af72750f964a5207c0622e3	{Pico (Chick Hearn) Metro Station}	{34.04040936987765,-118.2664704322815,Los Angeles,CA,United States}	{Travel & Transport,}
+3217	Mon May 09 21:43:06 +0000 2011	49f8d75cf964a5202b6d1fe3	{ESPN Zone}	{34.04408101514834,-118.26549410820007,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+3217	Mon May 09 21:16:49 +0000 2011	4c93df196b35a143530916dc	{Lakers Locker Room}	{34.04109403829426,-118.26607250749059,Los Angeles,CA,United States}	{Stadium,Arts & Entertainment,}
+3217	Mon May 09 21:02:33 +0000 2011	42893400f964a5207e231fe3	{STAPLES Center}	{34.043058660157634,-118.26724290847778,Los Angeles,CA,United States}	{Stadium,Arts & Entertainment,}
+3217	Mon May 09 20:47:53 +0000 2011	4c083fcbb235ef3b37658937	{El Cholo}	{34.04371103904612,-118.26409687358951,Los Angeles,CA,United States}	{Food,}
+3217	Mon May 09 18:54:43 +0000 2011	4b0dd47ef964a520f45023e3	{Willowbrook (Rosa Parks) Metro Station}	{33.92822769297293,-118.23771715164185,Los Angeles,CA,United States}	{Travel & Transport,}
+3217	Fri May 06 22:22:54 +0000 2011	4a96d72af964a5202c2720e3	{Fresh & Easy Neighborhood Market}	{33.9014861,-118.381997,Manhattan Beach,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3217	Fri May 06 21:33:02 +0000 2011	4da9eaf81e72c1ab9be83eea	{Total Wine & More}	{33.867785377853785,-118.35343569517136,Redondo Beach,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+3217	Fri May 06 20:52:15 +0000 2011	4a359f92f964a520409d1fe3	{Target}	{33.86902586755305,-118.35695743560791,Redondo Beach,CA,United States}	{Outdoors & Recreation,Shop & Service,}
+3217	Thu May 05 03:59:05 +0000 2011	4a359f92f964a520409d1fe3	{Target}	{33.86902586755305,-118.35695743560791,Redondo Beach,CA,United States}	{Outdoors & Recreation,Shop & Service,}
+3217	Thu May 05 02:53:39 +0000 2011	4b46c951f964a5203e2826e3	{Live Oak Park}	{33.890705914183314,-118.41042995452881,Manhattan Beach,CA,United States}	{Outdoors & Recreation,}
+3217	Wed May 04 20:56:17 +0000 2011	4bdb2bb563c5c9b65eac2668	{Jack in the Box - Carson, CA}	{33.87205463560295,-118.27082633972168,Carson,CA,United States}	{Food,}
+3217	Wed May 04 06:15:10 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Wed May 04 06:14:23 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Wed May 04 02:56:47 +0000 2011	4a58dab8f964a5200bb81fe3	{IKEA}	{33.84140567323538,-118.26022624969482,Carson,CA,United States}	{Shop & Service,}
+3217	Tue May 03 18:57:52 +0000 2011	4c0dfca8336220a1da85cb77	{Super Laundry}	{33.911548044607855,-118.35293774504176,Hawthorne,CA,United States}	{Shop & Service,}
+3217	Tue May 03 05:42:19 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Tue May 03 05:37:13 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Tue May 03 02:48:29 +0000 2011	4b035196f964a520934e22e3	{99 cent only stores}	{33.887232489311444,-118.36236476898193,Redondo Beach,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3217	Mon May 02 20:49:52 +0000 2011	4da9eaf81e72c1ab9be83eea	{Total Wine & More}	{33.867785377853785,-118.35343569517136,Redondo Beach,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+3217	Mon May 02 19:28:10 +0000 2011	4b302f71f964a5207df724e3	{Elephant Bar}	{33.83630832588575,-118.35657119750977,Torrance,CA,United States}	{Food,}
+3217	Mon May 02 04:40:27 +0000 2011	4ae63aa0f964a520d1a521e3	{Food 4 Less}	{33.899689,-118.366518,Hawthorne,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3217	Mon May 02 02:33:26 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Mon May 02 02:24:35 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sun May 01 07:23:59 +0000 2011	4d28fafdebacb1f71b86f64f	{Chateau De Fernandez}	{34.05584906684843,-117.39102466932972,,,United States}	{Residence,}
+3217	Sat Apr 30 21:31:58 +0000 2011	4b2dcd3ff964a5206cdb24e3	{In-N-Out Burger}	{34.068394210450094,-117.55719450112849,Ontario,CA,United States}	{Food,}
+3217	Sat Apr 30 18:52:47 +0000 2011	4a9b51e5f964a520f43420e3	{AMC Ontario Mills 30}	{34.07493000710397,-117.551874,Ontario,CA,United States}	{Arts & Entertainment,Movie Theater,}
+3217	Sat Apr 30 09:42:37 +0000 2011	4d28fafdebacb1f71b86f64f	{Chateau De Fernandez}	{34.05584906684843,-117.39102466932972,,,United States}	{Residence,}
+3217	Sat Apr 30 07:37:34 +0000 2011	4b8e0818f964a5207e1633e3	{Denny's}	{33.97596525798471,-117.33874797821045,Riverside,CA,United States}	{Food,}
+3217	Sat Apr 30 05:19:45 +0000 2011	4c4298dfcc410f47e022ad61	{Mission Tobacco Lounge}	{33.981459342483355,-117.37371738322246,Riverside,CA,United States}	{Nightlife Spot,}
+3217	Sat Apr 30 04:26:38 +0000 2011	4d4f82b03062a1cd666953a3	{The Ruvalcaba Dome}	{34.05669483,-117.3943631,Bloomington,CA,United States}	{}
+3217	Sat Apr 30 04:26:38 +0000 2011	4d4f82b03062a1cd666953a3	{The Ruvalcaba Dome}	{34.05669483,-117.3943631,Bloomington,CA,United States}	{}
+3217	Fri Apr 29 20:56:11 +0000 2011	4d28fafdebacb1f71b86f64f	{Chateau De Fernandez}	{34.05584906684843,-117.39102466932972,,,United States}	{Residence,}
+3217	Thu Apr 28 19:19:38 +0000 2011	4bd9a3972e6f0f4791470b08	{Shell}	{33.87306123177821,-118.32688450813293,Torrance,CA,United States}	{Shop & Service,}
+3217	Wed Apr 27 06:38:48 +0000 2011	4db7a38904376df99763a136	{Flower Power}	{33.91103506,-118.33796292,Hawthorne,CA,United States}	{}
+3217	Wed Apr 27 04:22:14 +0000 2011	4b4a6a1cf964a520d88626e3	{Gonzalez Northgate Market}	{33.90064176834945,-118.34306439756371,Hawthorne,CA,United States}	{Food,}
+3217	Mon Apr 25 19:35:21 +0000 2011	4d093650e554721ecaedc5f8	{JIM'S BURGER # 9}	{33.885492741022425,-118.28293869390653,Gardena,CA,United States}	{Food,}
+3217	Sun Apr 24 16:10:57 +0000 2011	4b7a2a6cf964a52030252fe3	{Walmart Supercenter}	{34.07142566224786,-117.96322973626609,Baldwin Park,CA,United States}	{Shop & Service,}
+3217	Sun Apr 24 05:19:34 +0000 2011	4a359f92f964a520409d1fe3	{Target}	{33.86902586755305,-118.35695743560791,Redondo Beach,CA,United States}	{Outdoors & Recreation,Shop & Service,}
+3217	Sat Apr 23 19:34:09 +0000 2011	4ba6958bf964a520656039e3	{VONS}	{33.893369594810416,-118.3623653963503,Redondo Beach,CA,United States}	{Shop & Service,Food & Drink Shop,Professional & Other Places,}
+3217	Sat Apr 23 19:29:14 +0000 2011	4c2e1262e116e21ee49e8f60	{Chevron}	{33.90166356,-118.35304104,Lawndale,CA,United States}	{Shop & Service,}
+3217	Thu Apr 21 18:57:15 +0000 2011	4c91724757e5b60c0af7601c	{Walmart}	{33.8569097207457,-118.30159664154053,Torrance,CA,United States}	{Shop & Service,}
+3217	Thu Apr 21 18:33:01 +0000 2011	4b5bf80df964a520751f29e3	{Denny's}	{33.861377,-118.30869376659393,Gardena,CA,United States}	{Food,}
+3217	Thu Apr 21 15:01:26 +0000 2011	4a8ac460f964a520510a20e3	{Los Angeles Superior Torrance Courthouse}	{33.83863912184233,-118.34051321333679,Torrance,CA,United States}	{Government Building,Professional & Other Places,}
+3217	Thu Apr 21 14:35:39 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Thu Apr 21 14:34:51 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Wed Apr 20 06:11:28 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Wed Apr 20 06:10:55 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Mon Apr 18 18:34:07 +0000 2011	4b930011f964a520be2d34e3	{Hawthorne Post Office}	{33.917328,-118.36103,Hawthorne,CA,United States}	{Professional & Other Places,}
+3217	Mon Apr 18 18:24:53 +0000 2011	4bc88e486501c9b675544029	{Bank of America}	{33.918589,-118.352984,Hawthorne,CA,United States}	{Shop & Service,}
+3217	Sun Apr 17 22:39:42 +0000 2011	4c058b99191f20a1cf3fe314	{8th St. Lifeguard Tower}	{33.881870668653804,-118.41077327728271,Manhattan Beach,CA,United States}	{Outdoors & Recreation,}
+3217	Sun Apr 17 19:07:03 +0000 2011	4d8f7019cb9b224b829b9a41	{St. Raphaels Parish}	{33.976060482393066,-118.29080025604196,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+3217	Sat Apr 16 02:25:59 +0000 2011	4d4ccf1a9ee1a35df5e11edf	{Rancho Los Puga}	{34.01800846204303,-118.1766294464417,Los Angeles,CA,United States}	{Residence,}
+3217	Sat Apr 16 02:25:59 +0000 2011	4d4ccf1a9ee1a35df5e11edf	{Rancho Los Puga}	{34.01800846204303,-118.1766294464417,Los Angeles,CA,United States}	{Residence,}
+3217	Fri Apr 15 03:12:53 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Fri Apr 15 01:36:08 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Thu Apr 14 23:38:14 +0000 2011	4b8720a9f964a52029b231e3	{Family Christian Stores - #427}	{33.82260943995971,-118.33586733372903,Torrance,CA,United States}	{Shop & Service,}
+3217	Wed Apr 13 21:50:16 +0000 2011	4b43f5b9f964a52010ef25e3	{Chevron}	{33.87256069455995,-118.30874860504944,Gardena,CA,United States}	{Shop & Service,}
+3217	Wed Apr 13 21:44:48 +0000 2011	4bf0922e17880f47b8802937	{99? Only Stores}	{33.86474389538615,-118.30985033442855,Torrance,CA,United States}	{Shop & Service,}
+3217	Wed Apr 13 20:57:58 +0000 2011	4c5224acb6dabe9ac827de12	{City of Carson}	{33.83160281233922,-118.28170537948607,Carson,CA,United States}	{Outdoors & Recreation,}
+3217	Wed Apr 13 20:18:08 +0000 2011	4b8720a9f964a52029b231e3	{Family Christian Stores - #427}	{33.82260943995971,-118.33586733372903,Torrance,CA,United States}	{Shop & Service,}
+3217	Wed Apr 13 04:07:04 +0000 2011	4ba9411cf964a5207b183ae3	{Baskin-Robbins}	{33.89396972077193,-118.36169771685167,Redondo Beach,CA,United States}	{Food,}
+3217	Tue Apr 12 03:52:15 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Tue Apr 12 03:52:14 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Tue Apr 12 03:25:59 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Tue Apr 12 02:45:23 +0000 2011	4c530dae06901b8d78757949	{99 Cent Only Stores}	{33.89605700969696,-118.35301967,Lawndale,CA,United States}	{Shop & Service,}
+3217	Tue Apr 12 02:06:38 +0000 2011	4abade64f964a520368320e3	{Aviation Park}	{33.88863271276205,-118.37819490191518,Redondo Beach,CA,United States}	{Shop & Service,Outdoors & Recreation,Gym / Fitness Center,}
+3217	Sun Apr 10 20:54:03 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sun Apr 10 20:53:21 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sun Apr 10 20:06:23 +0000 2011	4c38f4491e06d13a7ac3783e	{Big Savers}	{33.901600588175576,-118.35122564526203,Lawndale,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3217	Sun Apr 10 19:54:43 +0000 2011	4b930011f964a520be2d34e3	{Hawthorne Post Office}	{33.917328,-118.36103,Hawthorne,CA,United States}	{Professional & Other Places,}
+3217	Sun Apr 10 19:50:11 +0000 2011	4bc88e486501c9b675544029	{Bank of America}	{33.918589,-118.352984,Hawthorne,CA,United States}	{Shop & Service,}
+3217	Sat Apr 09 22:27:20 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sat Apr 09 19:57:46 +0000 2011	4beef56840812d7fb3c89c1a	{St. Bernards High School}	{33.95392532215792,-118.43267943337139,Playa Del Rey,CA,United States}	{School,Professional & Other Places,}
+3217	Sat Apr 09 19:42:44 +0000 2011	4c9785a182b56dcb1c78eaaa	{Sepulveda Tunnel}	{33.93705813478768,-118.3961820602417,Los Angeles,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+3217	Sat Apr 09 17:31:43 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sat Apr 09 06:22:16 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sat Apr 09 06:22:16 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sat Apr 09 04:57:33 +0000 2011	4d9fe30c5970b1f7f08a4e1e	{Diego's Kingdom (Moniques)}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Fri Apr 08 04:35:25 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Fri Apr 08 04:34:47 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Fri Apr 08 02:31:54 +0000 2011	4bf0922e17880f47b8802937	{99? Only Stores}	{33.86474389538615,-118.30985033442855,Torrance,CA,United States}	{Shop & Service,}
+3217	Fri Apr 08 02:07:33 +0000 2011	4c0ea3dfd64c0f476e86285d	{Dollar Tree}	{33.855518,-118.30016,Torrance,CA,United States}	{Shop & Service,}
+3217	Fri Apr 08 02:07:32 +0000 2011	4c0ea3dfd64c0f476e86285d	{Dollar Tree}	{33.855518,-118.30016,Torrance,CA,United States}	{Shop & Service,}
+3217	Fri Apr 08 01:27:38 +0000 2011	4d1127415f3376ebc1621386	{SKECHERS Factory Outlet}	{33.858613442040934,-118.29009233067568,Gardena,CA,United States}	{Shop & Service,Clothing Store,}
+3217	Thu Apr 07 05:58:46 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Thu Apr 07 05:57:27 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Thu Apr 07 04:52:58 +0000 2011	4aadb3eaf964a5204e6120e3	{In-N-Out Burger}	{33.89222067011763,-118.3618004369468,Redondo Beach,CA,United States}	{Food,}
+3217	Thu Apr 07 03:50:10 +0000 2011	4b46c951f964a5203e2826e3	{Live Oak Park}	{33.890705914183314,-118.41042995452881,Manhattan Beach,CA,United States}	{Outdoors & Recreation,}
+3217	Wed Apr 06 02:38:05 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Tue Apr 05 23:34:22 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Tue Apr 05 15:11:08 +0000 2011	4b932f44f964a520e83934e3	{Torrance, CA}	{33.81340215731428,-118.30917119979857,Torrance,CA,United States}	{Outdoors & Recreation,}
+3217	Tue Apr 05 15:03:43 +0000 2011	4b70f581f964a520ca352de3	{7-Eleven}	{33.84416573196766,-118.30964987993363,Torrance,CA,United States}	{Shop & Service,}
+3217	Tue Apr 05 04:06:11 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Tue Apr 05 03:13:31 +0000 2011	4a888974f964a520d00620e3	{Costco}	{33.89946900367277,-118.37330818176268,Hawthorne,CA,United States}	{Shop & Service,Food,}
+3217	Tue Apr 05 00:08:18 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Tue Apr 05 00:08:18 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Mon Apr 04 23:08:30 +0000 2011	4c0ea3dfd64c0f476e86285d	{Dollar Tree}	{33.855518,-118.30016,Torrance,CA,United States}	{Shop & Service,}
+3217	Mon Apr 04 21:37:46 +0000 2011	4c91724757e5b60c0af7601c	{Walmart}	{33.8569097207457,-118.30159664154053,Torrance,CA,United States}	{Shop & Service,}
+3217	Mon Apr 04 20:37:39 +0000 2011	4d093650e554721ecaedc5f8	{JIM'S BURGER # 9}	{33.885492741022425,-118.28293869390653,Gardena,CA,United States}	{Food,}
+3217	Mon Apr 04 20:09:29 +0000 2011	4bd09600a8b3a593f42f645f	{Bank Of America}	{33.89061212539673,-118.301694,Gardena,CA,United States}	{Shop & Service,}
+3217	Mon Apr 04 06:37:14 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Mon Apr 04 06:35:26 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Mon Apr 04 06:26:50 +0000 2011	4bfeccddca1920a171ddeb81	{Wendy's}	{33.899857571696316,-118.35205316232545,Lawndale,CA,United States}	{Food,}
+3217	Mon Apr 04 06:26:00 +0000 2011	4b930011f964a520be2d34e3	{Hawthorne Post Office}	{33.917328,-118.36103,Hawthorne,CA,United States}	{Professional & Other Places,}
+3217	Sun Apr 03 10:34:12 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sun Apr 03 08:45:28 +0000 2011	4b3d3359f964a520229025e3	{Denny's}	{33.91262036629096,-118.35298340079798,Hawthorne,CA,United States}	{Food,Arts & Entertainment,}
+3217	Sun Apr 03 07:01:34 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sun Apr 03 06:20:10 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sat Apr 02 19:27:20 +0000 2011	4bac0810f964a52070df3ae3	{Jack in the Box - Inglewood, CA}	{33.93127575,-118.36071763,Inglewood,CA,United States}	{Food,}
+3217	Sat Apr 02 16:43:34 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sat Apr 02 16:43:33 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sat Apr 02 03:00:14 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sat Apr 02 00:08:12 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+3217	Fri Apr 01 19:01:18 +0000 2011	4ba9615ff964a5204c233ae3	{Green Forest Car Wash}	{33.902234,-118.3590978384018,Hawthorne,CA,United States}	{Shop & Service,}
+3217	Fri Apr 01 02:51:45 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Fri Apr 01 02:50:14 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Fri Apr 01 02:28:46 +0000 2011	4aadb3eaf964a5204e6120e3	{In-N-Out Burger}	{33.89222067011763,-118.3618004369468,Redondo Beach,CA,United States}	{Food,}
+3217	Thu Mar 31 06:42:12 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Thu Mar 31 06:42:12 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Thu Mar 31 06:38:15 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Thu Mar 31 05:05:59 +0000 2011	4ae63aa0f964a520d1a521e3	{Food 4 Less}	{33.899689,-118.366518,Hawthorne,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3217	Thu Mar 31 03:50:02 +0000 2011	4b46c951f964a5203e2826e3	{Live Oak Park}	{33.890705914183314,-118.41042995452881,Manhattan Beach,CA,United States}	{Outdoors & Recreation,}
+3217	Wed Mar 30 05:51:31 +0000 2011	4d92c29c52ed224b994e0eac	{<3 Giovanni & Letie's <3}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Tue Mar 29 08:56:12 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Tue Mar 29 04:03:11 +0000 2011	4bd88b4011dcc928bbcaf633	{Manhattan Beach}	{33.89834695102012,-118.42030048370361,Manhattan Beach,CA,United States}	{Outdoors & Recreation,}
+3217	Tue Mar 29 03:38:00 +0000 2011	4bbeb8a4ba9776b01c32fec8	{Rite-Aid}	{33.912895917892456,-118.353081,Hawthorne,CA,United States}	{Shop & Service,}
+3217	Tue Mar 29 03:27:12 +0000 2011	4c897030e51e6dcbd15460de	{99 Cents Only}	{33.91401404147669,-118.35338859509291,Hawthorne,CA,United States}	{Shop & Service,}
+3217	Mon Mar 28 02:13:08 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sun Mar 27 23:04:21 +0000 2011	4b1d2c8df964a5208e0c24e3	{American Martyrs School}	{33.890523675970435,-118.40469200374086,Manhattan Beach,CA,United States}	{College & University,}
+3217	Sun Mar 27 17:13:28 +0000 2011	4d8f7019cb9b224b829b9a41	{St. Raphaels Parish}	{33.976060482393066,-118.29080025604196,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+3217	Sat Mar 26 18:27:53 +0000 2011	4bc2273d74a9a59319d9d2f6	{Jun?pero Serra High School}	{33.89595724159825,-118.31679163585123,Gardena,CA,United States}	{School,Professional & Other Places,}
+3217	Thu Mar 24 20:38:30 +0000 2011	4bbb52dd935e9521d9052990	{Hermosa Beach}	{33.86446469643321,-118.3961820602417,Hermosa Beach,CA,United States}	{Outdoors & Recreation,}
+3217	Thu Mar 24 04:25:03 +0000 2011	4a7d0360f964a52050ee1fe3	{AMC Del Amo 18}	{33.833808554067204,-118.34771454334259,Torrance,CA,United States}	{Arts & Entertainment,Movie Theater,}
+3217	Mon Mar 21 20:45:28 +0000 2011	4a96d72af964a5202c2720e3	{Fresh & Easy Neighborhood Market}	{33.9014861,-118.381997,Manhattan Beach,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3217	Sun Mar 20 09:36:19 +0000 2011	4bac4212f964a5209ded3ae3	{Denny's}	{33.916547315306104,-118.37502479553223,El Segundo,CA,United States}	{Food,}
+3217	Sun Mar 20 01:29:39 +0000 2011	4d549fd6c6edf04d72dcbba2	{St Charles Catholic Chruch}	{34.04779981280629,-117.38819181919098,Bloomington,CA,United States}	{Spiritual Center,Professional & Other Places,}
+3217	Sun Mar 20 01:29:38 +0000 2011	4d5489b9b4deb1f79e9ffa79	{St. Charles Catholic Church}	{34.039145069975994,-117.37827313660446,Bloomington,CA,United States}	{Spiritual Center,Professional & Other Places,}
+3217	Sat Mar 19 01:46:41 +0000 2011	4d28fafdebacb1f71b86f64f	{Chateau De Fernandez}	{34.05584906684843,-117.39102466932972,,,United States}	{Residence,}
+3217	Thu Mar 17 03:25:19 +0000 2011	4b46c951f964a5203e2826e3	{Live Oak Park}	{33.890705914183314,-118.41042995452881,Manhattan Beach,CA,United States}	{Outdoors & Recreation,}
+3217	Sun Mar 13 23:38:54 +0000 2011	4a9b55a6f964a520f93420e3	{Target}	{34.07170974901977,-117.20696474262697,Redlands,CA,United States}	{Shop & Service,}
+3217	Sun Mar 13 23:37:28 +0000 2011	4a9b55a6f964a520f93420e3	{Target}	{34.07170974901977,-117.20696474262697,Redlands,CA,United States}	{Shop & Service,}
+3217	Sun Mar 13 22:15:43 +0000 2011	4a9dfa6bf964a520f13920e3	{Kohl's}	{34.073255,-117.202801,Redlands,CA,United States}	{Shop & Service,Clothing Store,}
+3217	Sun Mar 13 21:37:46 +0000 2011	4d4f82b03062a1cd666953a3	{The Ruvalcaba Dome}	{34.05669483,-117.3943631,Bloomington,CA,United States}	{}
+3217	Sun Mar 13 19:43:00 +0000 2011	4d28fafdebacb1f71b86f64f	{Chateau De Fernandez}	{34.05584906684843,-117.39102466932972,,,United States}	{Residence,}
+3217	Sun Mar 13 19:14:48 +0000 2011	4d4f82b03062a1cd666953a3	{The Ruvalcaba Dome}	{34.05669483,-117.3943631,Bloomington,CA,United States}	{}
+3217	Thu Mar 10 05:20:35 +0000 2011	4ae63aa0f964a520d1a521e3	{Food 4 Less}	{33.899689,-118.366518,Hawthorne,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3217	Tue Mar 08 21:50:25 +0000 2011	4a3ffb41f964a52027a41fe3	{Fatburger}	{33.87226922098712,-118.26690043976046,Carson,CA,United States}	{Food,}
+3217	Thu Mar 03 03:52:57 +0000 2011	4a888974f964a520d00620e3	{Costco}	{33.89946900367277,-118.37330818176268,Hawthorne,CA,United States}	{Shop & Service,Food,}
+3217	Wed Mar 02 20:42:08 +0000 2011	4b06fb72f964a520bdf422e3	{Fresh & Easy Neighborhood Market}	{33.90516,-118.38681,El Segundo,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3217	Wed Mar 02 04:00:16 +0000 2011	4ae63aa0f964a520d1a521e3	{Food 4 Less}	{33.899689,-118.366518,Hawthorne,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3217	Tue Mar 01 04:34:17 +0000 2011	4aadb3eaf964a5204e6120e3	{In-N-Out Burger}	{33.89222067011763,-118.3618004369468,Redondo Beach,CA,United States}	{Food,}
+3217	Tue Mar 01 04:03:50 +0000 2011	4c211e6d11de20a19ed682ce	{Kmart}	{33.84089415562085,-118.28400633474665,Carson,CA,United States}	{Shop & Service,Clothing Store,}
+3217	Tue Mar 01 02:39:38 +0000 2011	4a58dab8f964a5200bb81fe3	{IKEA}	{33.84140567323538,-118.26022624969482,Carson,CA,United States}	{Shop & Service,}
+3217	Tue Mar 01 01:57:33 +0000 2011	4c05c4a5761ac9b697122074	{Sears}	{33.84530868122253,-118.26245784759521,Carson,CA,United States}	{Shop & Service,}
+3217	Tue Mar 01 01:18:04 +0000 2011	4bc61960424195217195031d	{Jack in the Box - Torrance, CA}	{33.88547345738383,-118.31757187843323,Torrance,CA,United States}	{Food,}
+3217	Mon Feb 28 18:23:30 +0000 2011	4c0dfca8336220a1da85cb77	{Super Laundry}	{33.911548044607855,-118.35293774504176,Hawthorne,CA,United States}	{Shop & Service,}
+3217	Mon Feb 28 18:23:30 +0000 2011	4c0dfca8336220a1da85cb77	{Super Laundry}	{33.911548044607855,-118.35293774504176,Hawthorne,CA,United States}	{Shop & Service,}
+3217	Mon Feb 28 17:21:48 +0000 2011	4afce70cf964a520762622e3	{Target}	{33.886593677330985,-118.3161694419679,Gardena,CA,United States}	{Shop & Service,}
+3217	Sat Feb 26 21:34:19 +0000 2011	4d4ccf1a9ee1a35df5e11edf	{Rancho Los Puga}	{34.01800846204303,-118.1766294464417,Los Angeles,CA,United States}	{Residence,}
+3217	Sat Feb 26 06:17:02 +0000 2011	4d490c2e9526b60c3f4d74ee	{Smith Manor}	{34.147459381849444,-117.43801888889325,Fontana,CA,United States}	{Residence,}
+3217	Fri Feb 25 17:54:21 +0000 2011	4d4f82b03062a1cd666953a3	{The Ruvalcaba Dome}	{34.05669483,-117.3943631,Bloomington,CA,United States}	{}
+3217	Tue Feb 22 21:02:53 +0000 2011	4c549780a724e21ec234a4f6	{Food 4 Less}	{34.06816057755745,-117.43384838104248,Fontana,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3217	Tue Feb 22 20:45:09 +0000 2011	4c12b88fa9c220a13285549d	{Bank of America}	{34.05089936319987,-117.4347710609436,Fontana,CA,United States}	{Shop & Service,Professional & Other Places,}
+3217	Mon Feb 21 18:24:40 +0000 2011	4b468063f964a520be2226e3	{McDonald's}	{34.069653602940456,-117.43522834882063,Fontana,CA,United States}	{Food,}
+3217	Sat Feb 19 06:54:45 +0000 2011	4b7782b5f964a520e59e2ee3	{T.G.I. Friday's}	{34.10984141539698,-117.53137350082397,Rancho Cucamonga,CA,United States}	{Food,}
+3217	Sat Feb 19 04:21:01 +0000 2011	4be47dcecf200f475609123c	{Ontario Mills}	{34.07324405,-117.5516939,Ontario,CA,United States}	{Shop & Service,}
+3217	Sat Feb 19 04:20:13 +0000 2011	4a9b51e5f964a520f43420e3	{AMC Ontario Mills 30}	{34.07493000710397,-117.551874,Ontario,CA,United States}	{Arts & Entertainment,Movie Theater,}
+3217	Fri Feb 18 22:32:11 +0000 2011	4bfe7800e529c928705cbc8c	{Burger King}	{34.07077610492706,-117.37084329128265,Rialto,CA,United States}	{Food,}
+3217	Fri Feb 18 22:18:10 +0000 2011	4c0850d9a1b32d7fe2e695f0	{Bloomington Post Office}	{34.0694104976522,-117.40055693980942,Bloomington,CA,United States}	{Professional & Other Places,}
+3217	Fri Feb 18 18:39:53 +0000 2011	4d4f82b03062a1cd666953a3	{The Ruvalcaba Dome}	{34.05669483,-117.3943631,Bloomington,CA,United States}	{}
+3217	Thu Feb 17 01:55:56 +0000 2011	4d5c8011b9b2a143821e778c	{Women's Club Of Riverside}	{33.98200876,-117.38040439,Riverside,CA,United States}	{Professional & Other Places,}
+3217	Wed Feb 16 05:03:39 +0000 2011	4d28fafdebacb1f71b86f64f	{Chateau De Fernandez}	{34.05584906684843,-117.39102466932972,,,United States}	{Residence,}
+3217	Wed Feb 16 01:51:53 +0000 2011	4bc3c4d1461576b0012d7f32	{LA Fitness}	{34.06699776178165,-117.27000839498643,San Bernardino,CA,United States}	{Shop & Service,}
+3217	Tue Feb 15 08:34:52 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Tue Feb 15 03:39:06 +0000 2011	4a58dab8f964a5200bb81fe3	{IKEA}	{33.84140567323538,-118.26022624969482,Carson,CA,United States}	{Shop & Service,}
+3217	Mon Feb 14 20:26:12 +0000 2011	4c0dfca8336220a1da85cb77	{Super Laundry}	{33.911548044607855,-118.35293774504176,Hawthorne,CA,United States}	{Shop & Service,}
+3217	Mon Feb 14 02:57:40 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Mon Feb 14 00:48:36 +0000 2011	4b0ed7d6f964a520c45b23e3	{Walmart Supercenter}	{33.99890911887984,-117.93244317230618,City Of Industry,CA,United States}	{Shop & Service,Professional & Other Places,}
+3217	Sun Feb 13 20:55:21 +0000 2011	4b5ddaf6f964a520197029e3	{Stater Bros}	{34.07459485770355,-117.38986015319824,Bloomington,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3217	Sun Feb 13 19:50:20 +0000 2011	4d5835eb92326ea8f16463c0	{Mariscos Espinoza}	{34.090737731928535,-117.36887462819828,Rialto,CA,United States}	{Food,}
+3217	Sun Feb 13 19:16:03 +0000 2011	4d4f82b03062a1cd666953a3	{The Ruvalcaba Dome}	{34.05669483,-117.3943631,Bloomington,CA,United States}	{}
+3217	Sun Feb 13 07:47:51 +0000 2011	4d28fafdebacb1f71b86f64f	{Chateau De Fernandez}	{34.05584906684843,-117.39102466932972,,,United States}	{Residence,}
+3217	Sun Feb 13 07:07:00 +0000 2011	4bbcd9484e069c7497ff9de3	{Jack in the Box - Fontana, CA}	{34.04877479986089,-117.43471205234528,Fontana,CA,United States}	{Food,}
+3217	Sun Feb 13 00:17:23 +0000 2011	4d5721e2ba5b224b11ef2314	{Mike, Ana & Mj's Casa}	{34.11376301143015,-117.44976567810966,Fontana,,United States}	{Residence,}
+3217	Sat Feb 12 08:58:36 +0000 2011	4d28fafdebacb1f71b86f64f	{Chateau De Fernandez}	{34.05584906684843,-117.39102466932972,,,United States}	{Residence,}
+3217	Fri Feb 11 23:21:23 +0000 2011	4c48b9de9e3e2d7fc87dd347	{Chevron Station}	{34.06247240919047,-117.43646621704102,Fontana,CA,United States}	{Travel & Transport,Shop & Service,}
+3217	Fri Feb 11 05:06:01 +0000 2011	4d4f82b03062a1cd666953a3	{The Ruvalcaba Dome}	{34.05669483,-117.3943631,Bloomington,CA,United States}	{}
+3217	Fri Feb 11 01:50:16 +0000 2011	4a9b55a6f964a520f93420e3	{Target}	{34.07170974901977,-117.20696474262697,Redlands,CA,United States}	{Shop & Service,}
+3217	Fri Feb 11 01:30:47 +0000 2011	4b951604f964a520818e34e3	{Michaels}	{34.07263974,-117.2039938,Redlands,CA,United States}	{Shop & Service,}
+3217	Fri Feb 11 00:59:08 +0000 2011	4d549fd6c6edf04d72dcbba2	{St Charles Catholic Chruch}	{34.04779981280629,-117.38819181919098,Bloomington,CA,United States}	{Spiritual Center,Professional & Other Places,}
+3217	Thu Feb 10 16:58:25 +0000 2011	4d4f82b03062a1cd666953a3	{The Ruvalcaba Dome}	{34.05669483,-117.3943631,Bloomington,CA,United States}	{}
+3217	Thu Feb 10 03:12:47 +0000 2011	4d28fafdebacb1f71b86f64f	{Chateau De Fernandez}	{34.05584906684843,-117.39102466932972,,,United States}	{Residence,}
+3217	Thu Feb 10 03:05:25 +0000 2011	4d4f82b03062a1cd666953a3	{The Ruvalcaba Dome}	{34.05669483,-117.3943631,Bloomington,CA,United States}	{}
+3217	Thu Feb 10 02:56:48 +0000 2011	4d5353df65586ea824e66ac8	{Shop N Go}	{34.060340483333334,-117.396344,Bloomington,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3217	Thu Feb 10 02:29:53 +0000 2011	4b8b24a8f964a520d39432e3	{99? Only}	{34.086035096294445,-117.43527423674998,Fontana,CA,United States}	{}
+3217	Thu Feb 10 01:57:59 +0000 2011	4c91911aae45224b5c3de997	{Thrifty Ice Cream}	{34.07333716666667,-117.43641257286072,Fontana,CA,United States}	{Food,}
+3217	Thu Feb 10 01:32:36 +0000 2011	4b56707af964a520681028e3	{DOLLAR TREE}	{34.072460532188416,-117.43645,Fontana,CA,United States}	{Shop & Service,}
+3217	Wed Feb 09 22:13:04 +0000 2011	4d4f82b03062a1cd666953a3	{The Ruvalcaba Dome}	{34.05669483,-117.3943631,Bloomington,CA,United States}	{}
+3217	Wed Feb 09 21:48:54 +0000 2011	4c9cf3138afca0938b16f215	{Nogales Burgers #3}	{34.063534,-117.43285596370697,Fontana,CA,United States}	{Food,}
+3217	Wed Feb 09 20:53:10 +0000 2011	4b6f90fbf964a52018f62ce3	{Target}	{34.065096817061026,-117.43427617185141,Fontana,CA,United States}	{Shop & Service,Professional & Other Places,}
+3217	Wed Feb 09 17:57:18 +0000 2011	4c212dfe9085d13a676384cc	{Riverside Community Hospital Administrative Offices}	{33.97723,-117.38278325,Riverside,CA,United States}	{Medical Center,Professional & Other Places,}
+3217	Wed Feb 09 17:31:37 +0000 2011	4d28fafdebacb1f71b86f64f	{Chateau De Fernandez}	{34.05584906684843,-117.39102466932972,,,United States}	{Residence,}
+3217	Wed Feb 09 17:08:44 +0000 2011	4d4f82b03062a1cd666953a3	{The Ruvalcaba Dome}	{34.05669483,-117.3943631,Bloomington,CA,United States}	{}
+3217	Tue Feb 08 22:59:09 +0000 2011	4d28fafdebacb1f71b86f64f	{Chateau De Fernandez}	{34.05584906684843,-117.39102466932972,,,United States}	{Residence,}
+3217	Tue Feb 08 20:21:30 +0000 2011	4b5394bff964a52042a327e3	{Walmart}	{34.071288907397054,-117.37211465835571,Rialto,CA,United States}	{Shop & Service,}
+3217	Mon Feb 07 00:08:23 +0000 2011	4d28fafdebacb1f71b86f64f	{Chateau De Fernandez}	{34.05584906684843,-117.39102466932972,,,United States}	{Residence,}
+3217	Sun Feb 06 23:51:30 +0000 2011	4d4ad2e8f2cc6a31686ec188	{Super Bowl Sunday}	{32.747868226330375,-97.09356307983398,Arlington,TX,United States}	{Stadium,Arts & Entertainment,}
+3217	Sun Feb 06 23:49:53 +0000 2011	4d4ad2e8f2cc6a31686ec188	{Super Bowl Sunday}	{32.747868226330375,-97.09356307983398,Arlington,TX,United States}	{Stadium,Arts & Entertainment,}
+3217	Sat Feb 05 20:47:59 +0000 2011	4d28fafdebacb1f71b86f64f	{Chateau De Fernandez}	{34.05584906684843,-117.39102466932972,,,United States}	{Residence,}
+3217	Sat Feb 05 04:16:48 +0000 2011	4d4ccf1a9ee1a35df5e11edf	{Rancho Los Puga}	{34.01800846204303,-118.1766294464417,Los Angeles,CA,United States}	{Residence,}
+3217	Thu Feb 03 21:05:39 +0000 2011	4b6f90fbf964a52018f62ce3	{Target}	{34.065096817061026,-117.43427617185141,Fontana,CA,United States}	{Shop & Service,Professional & Other Places,}
+3217	Thu Feb 03 20:50:39 +0000 2011	4c48b9de9e3e2d7fc87dd347	{Chevron Station}	{34.06247240919047,-117.43646621704102,Fontana,CA,United States}	{Travel & Transport,Shop & Service,}
+3217	Thu Feb 03 00:35:30 +0000 2011	4c17af49c2dfc928a166a869	{USPS - Colton M.O.}	{34.06804852492976,-117.32596172022151,Colton,CA,United States}	{Professional & Other Places,}
+3217	Wed Feb 02 23:33:07 +0000 2011	4bc3c4d1461576b0012d7f32	{LA Fitness}	{34.06699776178165,-117.27000839498643,San Bernardino,CA,United States}	{Shop & Service,}
+3217	Wed Feb 02 21:47:37 +0000 2011	4c310860452620a1d307200f	{Cardenas}	{34.069593,-117.43898749351501,Fontana,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3217	Wed Feb 02 20:04:04 +0000 2011	4ba65316f964a520784639e3	{PetSmart}	{34.06506369112977,-117.27310839361782,San Bernardino,CA,United States}	{Shop & Service,}
+3217	Wed Feb 02 17:49:35 +0000 2011	4bdaf5ac63c5c9b6359e2568	{Humane Society Of San Bernardino Valley}	{34.080290842312415,-117.29071432856522,San Bernardino,CA,United States}	{Shop & Service,}
+3217	Wed Feb 02 03:32:02 +0000 2011	4b76ef22f964a520096c2ee3	{Stater Bros.}	{34.06727182642023,-117.3233413696289,Colton,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3217	Wed Feb 02 03:09:45 +0000 2011	4ba65316f964a520784639e3	{PetSmart}	{34.06506369112977,-117.27310839361782,San Bernardino,CA,United States}	{Shop & Service,}
+3217	Wed Feb 02 01:48:13 +0000 2011	4bc3c4d1461576b0012d7f32	{LA Fitness}	{34.06699776178165,-117.27000839498643,San Bernardino,CA,United States}	{Shop & Service,}
+3217	Wed Feb 02 01:48:10 +0000 2011	4bc3c4d1461576b0012d7f32	{LA Fitness}	{34.06699776178165,-117.27000839498643,San Bernardino,CA,United States}	{Shop & Service,}
+3217	Tue Feb 01 23:28:19 +0000 2011	4d48966c4c9ef04d3b5b6c15	{Jaime's Pet Grooming}	{34.053046,-117.374825,Bloomington,CA,United States}	{}
+3217	Tue Feb 01 23:01:22 +0000 2011	4c12b88fa9c220a13285549d	{Bank of America}	{34.05089936319987,-117.4347710609436,Fontana,CA,United States}	{Shop & Service,Professional & Other Places,}
+3217	Tue Feb 01 01:28:36 +0000 2011	4bc3c4d1461576b0012d7f32	{LA Fitness}	{34.06699776178165,-117.27000839498643,San Bernardino,CA,United States}	{Shop & Service,}
+3217	Sat Jan 29 02:16:50 +0000 2011	4bc3459b920eb713232d1d2c	{Fresh & Easy Neighborhood Market}	{34.032672384954,-117.65018519364874,Ontario,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3217	Fri Jan 28 00:48:05 +0000 2011	4d28fafdebacb1f71b86f64f	{Chateau De Fernandez}	{34.05584906684843,-117.39102466932972,,,United States}	{Residence,}
+3217	Thu Jan 27 02:20:08 +0000 2011	4d28fafdebacb1f71b86f64f	{Chateau De Fernandez}	{34.05584906684843,-117.39102466932972,,,United States}	{Residence,}
+3217	Thu Jan 27 02:20:07 +0000 2011	4d28fafdebacb1f71b86f64f	{Chateau De Fernandez}	{34.05584906684843,-117.39102466932972,,,United States}	{Residence,}
+3217	Tue Jan 25 11:30:24 +0000 2011	4d28fafdebacb1f71b86f64f	{Chateau De Fernandez}	{34.05584906684843,-117.39102466932972,,,United States}	{Residence,}
+3217	Tue Jan 25 02:38:29 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sun Jan 23 23:12:14 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sun Jan 16 20:15:51 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Sun Jan 16 02:05:12 +0000 2011	4b4e8134f964a520f0ef26e3	{Ayres Hotel Manhattan Beach/LAX}	{33.90093261272068,-118.37164986160565,Hawthorne,CA,United States}	{Travel & Transport,Outdoors & Recreation,Museum,Arts & Entertainment,}
+3217	Wed Jan 12 02:48:09 +0000 2011	42893400f964a5207e231fe3	{STAPLES Center}	{34.043058660157634,-118.26724290847778,Los Angeles,CA,United States}	{Stadium,Arts & Entertainment,}
+3217	Sun Jan 09 00:10:38 +0000 2011	4d28fafdebacb1f71b86f64f	{Chateau De Fernandez}	{34.05584906684843,-117.39102466932972,,,United States}	{Residence,}
+3217	Fri Jan 07 02:10:23 +0000 2011	4bc3c4d1461576b0012d7f32	{LA Fitness}	{34.06699776178165,-117.27000839498643,San Bernardino,CA,United States}	{Shop & Service,}
+3217	Thu Jan 06 07:02:13 +0000 2011	4b18b88ff964a5205cd523e3	{T.G.I. Friday's}	{33.918135386558774,-117.88657961700127,Brea,CA,United States}	{Nightlife Spot,Food,}
+3217	Thu Jan 06 03:36:50 +0000 2011	4abc4db5f964a520038720e3	{Improv Brea}	{33.91952735571414,-117.89857873050265,Brea,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+3217	Wed Jan 05 21:36:35 +0000 2011	4bc3c4d1461576b0012d7f32	{LA Fitness}	{34.06699776178165,-117.27000839498643,San Bernardino,CA,United States}	{Shop & Service,}
+3217	Wed Jan 05 21:36:35 +0000 2011	4bc3c4d1461576b0012d7f32	{LA Fitness}	{34.06699776178165,-117.27000839498643,San Bernardino,CA,United States}	{Shop & Service,}
+3217	Wed Jan 05 01:37:04 +0000 2011	4bc3c4d1461576b0012d7f32	{LA Fitness}	{34.06699776178165,-117.27000839498643,San Bernardino,CA,United States}	{Shop & Service,}
+3217	Tue Jan 04 01:11:54 +0000 2011	4bc3c4d1461576b0012d7f32	{LA Fitness}	{34.06699776178165,-117.27000839498643,San Bernardino,CA,United States}	{Shop & Service,}
+3217	Mon Jan 03 00:07:18 +0000 2011	4d28d26f55a8b60cb420d1c0	{The Napoles District}	{33.902525238777606,-118.35203889482426,Hawthorne,CA,United States}	{Residence,}
+3217	Wed Dec 29 21:28:34 +0000 2010	4a9b51e5f964a520f43420e3	{AMC Ontario Mills 30}	{34.07493000710397,-117.551874,Ontario,CA,United States}	{Arts & Entertainment,Movie Theater,}
+3217	Thu Dec 23 07:30:39 +0000 2010	4b215329f964a520293a24e3	{BJ's Restaurant & Brewhouse}	{33.9395059278223,-117.26243913173676,Moreno Valley,CA,United States}	{Nightlife Spot,Food,}
+3217	Thu Dec 23 04:06:06 +0000 2010	4afa1f9bf964a520eb1622e3	{Cafe Sevilla}	{33.980262460330344,-117.36888527870178,Riverside,CA,United States}	{Spanish Restaurant,Food,}
+3217	Mon Dec 20 19:33:14 +0000 2010	4a9b51e5f964a520f43420e3	{AMC Ontario Mills 30}	{34.07493000710397,-117.551874,Ontario,CA,United States}	{Arts & Entertainment,Movie Theater,}
+3217	Fri Dec 17 18:08:21 +0000 2010	4bd0f90c77b29c74f1f48b82	{Denny's}	{34.07006710610524,-117.43335267047316,Fontana,CA,United States}	{Food,}
+3217	Fri Dec 17 06:11:42 +0000 2010	4b7782b5f964a520e59e2ee3	{T.G.I. Friday's}	{34.10984141539698,-117.53137350082397,Rancho Cucamonga,CA,United States}	{Food,}
+3217	Fri Dec 17 01:36:14 +0000 2010	4bc3c4d1461576b0012d7f32	{LA Fitness}	{34.06699776178165,-117.27000839498643,San Bernardino,CA,United States}	{Shop & Service,}
+3217	Fri Dec 17 01:36:14 +0000 2010	4bc3c4d1461576b0012d7f32	{LA Fitness}	{34.06699776178165,-117.27000839498643,San Bernardino,CA,United States}	{Shop & Service,}
+3217	Thu Dec 16 01:29:29 +0000 2010	4bc3c4d1461576b0012d7f32	{LA Fitness}	{34.06699776178165,-117.27000839498643,San Bernardino,CA,United States}	{Shop & Service,}
+3217	Tue Dec 14 20:19:19 +0000 2010	4bc3c4d1461576b0012d7f32	{LA Fitness}	{34.06699776178165,-117.27000839498643,San Bernardino,CA,United States}	{Shop & Service,}
+3217	Sun Dec 12 18:42:18 +0000 2010	46d71bdef964a520724a1fe3	{Knott's Berry Farm}	{33.84297402663761,-118.00020217895508,Buena Park,CA,United States}	{Arts & Entertainment,}
+3217	Fri Dec 10 17:50:03 +0000 2010	4b48222df964a520de4826e3	{Farmer Boys}	{34.07080426220029,-117.39652951873754,Bloomington,CA,United States}	{Food,}
+3217	Thu Dec 09 20:44:14 +0000 2010	4bc3c4d1461576b0012d7f32	{LA Fitness}	{34.06699776178165,-117.27000839498643,San Bernardino,CA,United States}	{Shop & Service,}
+3217	Thu Dec 09 01:45:45 +0000 2010	4bc3c4d1461576b0012d7f32	{LA Fitness}	{34.06699776178165,-117.27000839498643,San Bernardino,CA,United States}	{Shop & Service,}
+3217	Wed Dec 08 01:33:44 +0000 2010	4bc3c4d1461576b0012d7f32	{LA Fitness}	{34.06699776178165,-117.27000839498643,San Bernardino,CA,United States}	{Shop & Service,}
+3217	Tue Dec 07 06:38:15 +0000 2010	4b209e62f964a520703324e3	{T.G.I. Friday's}	{33.870571140606586,-118.06094844109867,Cerritos,CA,United States}	{Nightlife Spot,Food,}
+3217	Thu Dec 02 05:50:01 +0000 2010	4b7e3a9af964a520aae62fe3	{Brunswick Foothill Lanes}	{34.107711115713506,-117.4287465704134,Fontana,CA,United States}	{Arts & Entertainment,}
+3217	Wed Dec 01 01:58:25 +0000 2010	4bc3c4d1461576b0012d7f32	{LA Fitness}	{34.06699776178165,-117.27000839498643,San Bernardino,CA,United States}	{Shop & Service,}
+3217	Tue Nov 30 04:24:09 +0000 2010	4bc3c4d1461576b0012d7f32	{LA Fitness}	{34.06699776178165,-117.27000839498643,San Bernardino,CA,United States}	{Shop & Service,}
+3217	Mon Nov 29 17:10:58 +0000 2010	4b4c97ebf964a52006b726e3	{Starbucks}	{34.047061533966065,-117.5484008433826,Ontario,CA,United States}	{Food,}
+3217	Sun Nov 28 22:30:43 +0000 2010	4a9b51e5f964a520f43420e3	{AMC Ontario Mills 30}	{34.07493000710397,-117.551874,Ontario,CA,United States}	{Arts & Entertainment,Movie Theater,}
+3217	Mon Nov 22 06:14:33 +0000 2010	4a7d0360f964a52050ee1fe3	{AMC Del Amo 18}	{33.833808554067204,-118.34771454334259,Torrance,CA,United States}	{Arts & Entertainment,Movie Theater,}
+3217	Sun Nov 21 02:22:44 +0000 2010	4c15423b77cea59300eed160	{Citrus college automotive}	{34.13423180580139,-117.8819328546524,Glendora,CA,United States}	{College & University,}
+3217	Sat Nov 20 06:14:12 +0000 2010	4be779aba117b713ad4d81c8	{Vertigos}	{34.06017925833019,-118.24845671653748,Los Angeles,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+3217	Mon Nov 08 20:32:31 +0000 2010	4c93fa666b35a143fd2017dc	{Carnival Cruise Lines Dock}	{33.75148025968475,-118.1898021697998,Long Beach,CA,United States}	{Travel & Transport,}
+3217	Tue Nov 02 17:05:30 +0000 2010	4bc373b2920eb713b17a1d2c	{Holy Cross Cemetery}	{34.03625906391001,-117.74646287610484,Pomona,CA,United States}	{Outdoors & Recreation,}
+3217	Sun Oct 17 15:27:10 +0000 2010	4d28958d342d6dcb4deaf9ca	{Bel-Air Swap-Meet}	{34.06921686167809,-117.42194907616117,Fontana,CA,United States}	{Shop & Service,}
+3217	Fri Oct 08 02:24:25 +0000 2010	4c9d678a7c096dcbec33cbd1	{Knott's Scary Farm}	{33.84414,-117.998547,Buena Park,CA,United States}	{Arts & Entertainment,}
+3217	Sun Oct 03 04:27:58 +0000 2010	4a7d1ccaf964a52084ee1fe3	{Lucky Strike - LA LIVE}	{34.04445098150377,-118.26510802378868,Los Angeles,CA,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+3217	Thu Sep 30 05:38:23 +0000 2010	4b459716f964a5203d0e26e3	{T.G.I. Friday's}	{33.81345149167098,-118.3501812558635,Torrance,CA,United States}	{Nightlife Spot,Food,}
+3217	Thu Sep 30 00:46:09 +0000 2010	4710becbf964a520974b1fe3	{Jimmy Kimmel Live!}	{34.101666356608334,-118.34009438753128,Los Angeles,CA,United States}	{Arts & Entertainment,}
+3217	Mon Sep 27 02:33:29 +0000 2010	4b5bb167f964a520681029e3	{Mission Tiki Drive-In Theatre}	{34.05685496823623,-117.70777702331543,Montclair,CA,United States}	{Arts & Entertainment,Movie Theater,}
+3217	Thu Sep 23 00:18:56 +0000 2010	4b9af299f964a520f9e535e3	{Chevys Fresh Mex}	{34.076834299123504,-117.55345344543457,Ontario,CA,United States}	{Food,}
+3217	Tue Sep 21 05:50:54 +0000 2010	4b459716f964a5203d0e26e3	{T.G.I. Friday's}	{33.81345149167098,-118.3501812558635,Torrance,CA,United States}	{Nightlife Spot,Food,}
+3217	Sat Sep 18 01:45:24 +0000 2010	4c9d6bdd8afca093ed10f715	{City of Las Vegas}	{36.114615457909544,-115.17293930053711,Las Vegas,NV,United States}	{Outdoors & Recreation,}
+3217	Wed Sep 08 19:04:10 +0000 2010	49c291eaf964a52003561fe3	{San Antonio Winery}	{34.06329010689234,-118.22366237640381,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+3217	Wed Sep 08 18:49:19 +0000 2010	4bfb14c865fbc9b64afa906c	{Toms Restaurant}	{34.03345,-117.73208,pomona,CA,United States}	{Food,}

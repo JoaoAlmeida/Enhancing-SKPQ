@@ -1,0 +1,4 @@
+#categoryName experimentName dataset neighborhood plusMode queryType numQueries numKeywords numResults radius item value min max observations
+PSKPQ PSKPQ-LD street range null null null 5 0.2 nodesAccessed 0.0 - 9223372036854775807 0 0
+PSKPQ PSKPQ-LD street range null null null 5 0.2 pageFaults 0.0 - 9223372036854775807 0 0
+PSKPQ PSKPQ-LD street range null null null 5 0.2 totalExecutionTime 700.0 - 700 700 1

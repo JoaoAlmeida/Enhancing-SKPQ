@@ -1,0 +1,994 @@
+2582	Fri Aug 12 02:48:21 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Fri Aug 12 00:56:50 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Fri Aug 12 00:32:53 +0000 2011	4d3dc5cdaf8ca1430af90ef7	{Magic Cuts}	{37.856266,-122.125163,,,United States}	{Shop & Service,}
+2582	Fri Aug 12 00:29:10 +0000 2011	4b39812bf964a520515d25e3	{CVS/pharmacy}	{37.85670055,-122.12578102,Moraga,CA,United States}	{Shop & Service,}
+2582	Thu Aug 11 23:43:26 +0000 2011	4ba843a3f964a5200dd439e3	{Lamorinda Music}	{37.89013168618579,-122.12021378204612,Lafayette,CA,United States}	{College & University,}
+2582	Thu Aug 11 22:45:34 +0000 2011	4bb2627414cfd13a57dd14ab	{Burger King}	{37.858722,-122.124596,Moraga,CA,United States}	{Food,}
+2582	Thu Aug 11 01:48:34 +0000 2011	4b39812bf964a520515d25e3	{CVS/pharmacy}	{37.85670055,-122.12578102,Moraga,CA,United States}	{Shop & Service,}
+2582	Thu Aug 11 01:08:58 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Wed Aug 10 22:54:55 +0000 2011	4bef46f32ff520a1ad64e8a2	{Pet Food Express}	{37.89301892192484,-122.06087593998552,Walnut Creek,CA,United States}	{Shop & Service,}
+2582	Wed Aug 10 22:49:17 +0000 2011	4a6ce9dbf964a5200cd21fe3	{Trader Joe's}	{37.893222,-122.060814,Walnut Creek,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Wed Aug 10 22:36:01 +0000 2011	4a70b3f9f964a5203dd81fe3	{Kaiser Permanente Medical Center}	{37.892272028185324,-122.05912238352215,Walnut Creek,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Wed Aug 10 21:34:29 +0000 2011	4ad98182f964a520381a21e3	{Panera Bread}	{37.97028127865716,-122.05628666747224,Concord,CA,United States}	{Food,}
+2582	Wed Aug 10 01:05:21 +0000 2011	4842f45ff964a52043501fe3	{Orchard Supply Hardware}	{37.833971195536634,-122.12925916793337,Moraga,CA,United States}	{Shop & Service,}
+2582	Wed Aug 10 01:05:21 +0000 2011	4842f45ff964a52043501fe3	{Orchard Supply Hardware}	{37.833971195536634,-122.12925916793337,Moraga,CA,United States}	{Shop & Service,}
+2582	Wed Aug 10 00:14:47 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue Aug 09 20:53:46 +0000 2011	4a77bad8f964a52015e51fe3	{FedEx Office Print & Ship Center}	{37.890434,-122.117577,Lafayette,CA,United States}	{Shop & Service,}
+2582	Tue Aug 09 20:52:25 +0000 2011	4aaaa783f964a520cf5620e3	{Mangia Ristorante}	{37.891022,-122.11915845,Lafayette,CA,United States}	{Food,}
+2582	Tue Aug 09 02:05:09 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Tue Aug 09 01:27:23 +0000 2011	4b774729f964a520348e2ee3	{Moraga Commons Park}	{37.83998108255431,-122.1260703538007,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Tue Aug 09 00:08:59 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon Aug 08 23:52:03 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Mon Aug 08 23:17:09 +0000 2011	4bc550b44a9aa5936d68067b	{McDonald's}	{37.892395,-122.113995,Lafayette,CA,United States}	{Food,}
+2582	Mon Aug 08 23:17:09 +0000 2011	4bc550b44a9aa5936d68067b	{McDonald's}	{37.892395,-122.113995,Lafayette,CA,United States}	{Food,}
+2582	Sun Aug 07 22:59:07 +0000 2011	4acaa664f964a520bbc220e3	{Fuddruckers}	{37.90528036609458,-122.06358945734102,Walnut Creek,CA,United States}	{Food,}
+2582	Sun Aug 07 00:54:20 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sun Aug 07 00:27:00 +0000 2011	4ba66489f964a520924d39e3	{T.J.maxx}	{37.858311881591106,-122.12561130523682,Moraga,CA,United States}	{Shop & Service,}
+2582	Sat Aug 06 23:14:23 +0000 2011	4d8e2e623bfef04dcc4f9286	{Panera Bread}	{37.895487,-122.061252,Walnut Creek,CA,United States}	{Food,}
+2582	Sat Aug 06 00:23:13 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Thu Aug 04 23:19:50 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Thu Aug 04 22:09:16 +0000 2011	4b7745a1f964a520a68d2ee3	{Arbolado Park}	{37.918761405003686,-122.00267718646164,Walnut Creek,CA,United States}	{Outdoors & Recreation,}
+2582	Thu Aug 04 20:46:45 +0000 2011	4d8e2e623bfef04dcc4f9286	{Panera Bread}	{37.895487,-122.061252,Walnut Creek,CA,United States}	{Food,}
+2582	Wed Aug 03 23:55:51 +0000 2011	4ae77fb2f964a520e2ab21e3	{Moraga Library}	{37.84096039474869,-122.12286480746351,Moraga,CA,United States}	{Professional & Other Places,}
+2582	Wed Aug 03 22:21:17 +0000 2011	4ba843a3f964a5200dd439e3	{Lamorinda Music}	{37.89013168618579,-122.12021378204612,Lafayette,CA,United States}	{College & University,}
+2582	Wed Aug 03 21:16:43 +0000 2011	4ad9e8b6f964a520c41b21e3	{Terzetto Cuisine}	{37.835603,-122.127722,Moraga,CA,United States}	{Food,}
+2582	Wed Aug 03 19:31:37 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Wed Aug 03 18:09:09 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Wed Aug 03 03:01:52 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Tue Aug 02 22:18:25 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue Aug 02 20:25:19 +0000 2011	4c636c83fa7bc928b1c51027	{Asia Palace}	{37.836011,-122.126544,Moraga,CA,United States}	{Food,}
+2582	Tue Aug 02 04:04:48 +0000 2011	4d6825092433a143bf8f55e0	{Red Chopstick}	{37.855133,-122.12453305721283,Moraga,CA,United States}	{Food,}
+2582	Tue Aug 02 00:46:53 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon Aug 01 23:06:34 +0000 2011	4acaa664f964a520bbc220e3	{Fuddruckers}	{37.90528036609458,-122.06358945734102,Walnut Creek,CA,United States}	{Food,}
+2582	Mon Aug 01 01:47:07 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon Aug 01 00:34:17 +0000 2011	4aaaa783f964a520cf5620e3	{Mangia Ristorante}	{37.891022,-122.11915845,Lafayette,CA,United States}	{Food,}
+2582	Mon Aug 01 00:34:17 +0000 2011	4aaaa783f964a520cf5620e3	{Mangia Ristorante}	{37.891022,-122.11915845,Lafayette,CA,United States}	{Food,}
+2582	Sun Jul 31 07:37:31 +0000 2011	4d8e2e623bfef04dcc4f9286	{Panera Bread}	{37.895487,-122.061252,Walnut Creek,CA,United States}	{Food,}
+2582	Sun Jul 31 07:37:17 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+2582	Sun Jul 31 04:27:00 +0000 2011	4b0caa70f964a520ba4023e3	{CVS/pharmacy}	{37.89632880748342,-122.06441071303676,Walnut Creek,CA,United States}	{Shop & Service,}
+2582	Sun Jul 31 03:36:43 +0000 2011	4b15c78af964a5202cb423e3	{Buckhorn Grill}	{37.895418,-122.061248,Walnut Creek,CA,United States}	{Food,}
+2582	Sun Jul 31 03:07:32 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sat Jul 30 01:49:49 +0000 2011	4e0e62f5e4cd27fc7d2f84c3	{Ascot Highlands Pool}	{37.859991,-122.133783,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Sat Jul 30 00:05:29 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Fri Jul 29 23:01:43 +0000 2011	4ae398a0f964a520169721e3	{Turquoise}	{37.878181,-122.180953,Orinda,CA,United States}	{Food,}
+2582	Fri Jul 29 03:09:08 +0000 2011	47276c40f964a520e34b1fe3	{Outback Steakhouse}	{37.95853489400749,-122.0575428302606,Pleasant Hill,CA,United States}	{Food,}
+2582	Fri Jul 29 02:43:18 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Thu Jul 28 22:32:50 +0000 2011	4a70b3f9f964a5203dd81fe3	{Kaiser Permanente Medical Center}	{37.892272028185324,-122.05912238352215,Walnut Creek,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Thu Jul 28 21:53:50 +0000 2011	4d8e2e623bfef04dcc4f9286	{Panera Bread}	{37.895487,-122.061252,Walnut Creek,CA,United States}	{Food,}
+2582	Thu Jul 28 03:34:01 +0000 2011	4b37ef34f964a520eb4825e3	{Hooters of San Bruno}	{37.63654145542564,-122.4189430475235,San Bruno,CA,United States}	{Nightlife Spot,Food,}
+2582	Thu Jul 28 03:02:58 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+2582	Wed Jul 27 23:57:14 +0000 2011	4bc550b44a9aa5936d68067b	{McDonald's}	{37.892395,-122.113995,Lafayette,CA,United States}	{Food,}
+2582	Wed Jul 27 23:49:00 +0000 2011	4ba843a3f964a5200dd439e3	{Lamorinda Music}	{37.89013168618579,-122.12021378204612,Lafayette,CA,United States}	{College & University,}
+2582	Tue Jul 26 23:17:28 +0000 2011	4a4ea111f964a520d4ae1fe3	{Century Walnut Creek 14 and XD}	{37.89643376369132,-122.06141975870965,Walnut Creek,CA,United States}	{Arts & Entertainment,Movie Theater,}
+2582	Tue Jul 26 22:09:50 +0000 2011	4ae77fb2f964a520e2ab21e3	{Moraga Library}	{37.84096039474869,-122.12286480746351,Moraga,CA,United States}	{Professional & Other Places,}
+2582	Tue Jul 26 00:14:15 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon Jul 25 23:56:36 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Mon Jul 25 23:30:42 +0000 2011	4bef46f32ff520a1ad64e8a2	{Pet Food Express}	{37.89301892192484,-122.06087593998552,Walnut Creek,CA,United States}	{Shop & Service,}
+2582	Mon Jul 25 22:19:54 +0000 2011	4acaa664f964a520bbc220e3	{Fuddruckers}	{37.90528036609458,-122.06358945734102,Walnut Creek,CA,United States}	{Food,}
+2582	Mon Jul 25 04:58:20 +0000 2011	4bc0ad75f8219c74bbf0b110	{McDonald's}	{37.898452979061666,-122.06288472621986,Walnut Creek,CA,United States}	{Food,}
+2582	Mon Jul 25 01:57:15 +0000 2011	4a4ea111f964a520d4ae1fe3	{Century Walnut Creek 14 and XD}	{37.89643376369132,-122.06141975870965,Walnut Creek,CA,United States}	{Arts & Entertainment,Movie Theater,}
+2582	Mon Jul 25 01:26:51 +0000 2011	455ad6b4f964a520573d1fe3	{Target}	{37.90491041711295,-122.06429418389038,Walnut Creek,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Mon Jul 25 00:39:58 +0000 2011	4aabeeacf964a520055b20e3	{Chipotle Mexican Grill}	{37.8956074,-122.061305,Walnut Creek,CA,United States}	{Food,}
+2582	Sun Jul 24 20:12:38 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Sun Jul 24 03:31:09 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Sun Jul 24 02:23:14 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sat Jul 23 00:23:19 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Fri Jul 22 21:49:30 +0000 2011	471d3154f964a520b74b1fe3	{Europa}	{37.878254,-122.181084,Orinda,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Fri Jul 22 20:48:59 +0000 2011	4c6999d3c946e21e019cea8e	{Girl Scouts of Northern California}	{37.744149,-122.204391,Alameda,CA,United States}	{Professional & Other Places,}
+2582	Fri Jul 22 00:53:31 +0000 2011	4e0e62f5e4cd27fc7d2f84c3	{Ascot Highlands Pool}	{37.859991,-122.133783,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Fri Jul 22 00:02:21 +0000 2011	4ba843a3f964a5200dd439e3	{Lamorinda Music}	{37.89013168618579,-122.12021378204612,Lafayette,CA,United States}	{College & University,}
+2582	Thu Jul 21 22:14:32 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Thu Jul 21 21:51:37 +0000 2011	4bb2627414cfd13a57dd14ab	{Burger King}	{37.858722,-122.124596,Moraga,CA,United States}	{Food,}
+2582	Thu Jul 21 04:56:46 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Thu Jul 21 01:48:57 +0000 2011	4e0e62f5e4cd27fc7d2f84c3	{Ascot Highlands Pool}	{37.859991,-122.133783,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Thu Jul 21 01:05:26 +0000 2011	4b39812bf964a520515d25e3	{CVS/pharmacy}	{37.85670055,-122.12578102,Moraga,CA,United States}	{Shop & Service,}
+2582	Thu Jul 21 00:25:42 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Wed Jul 20 23:43:10 +0000 2011	4ba66489f964a520924d39e3	{T.J.maxx}	{37.858311881591106,-122.12561130523682,Moraga,CA,United States}	{Shop & Service,}
+2582	Wed Jul 20 22:52:32 +0000 2011	4ad98182f964a520381a21e3	{Panera Bread}	{37.97028127865716,-122.05628666747224,Concord,CA,United States}	{Food,}
+2582	Wed Jul 20 01:36:02 +0000 2011	4e0e62f5e4cd27fc7d2f84c3	{Ascot Highlands Pool}	{37.859991,-122.133783,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Wed Jul 20 01:14:25 +0000 2011	4b39812bf964a520515d25e3	{CVS/pharmacy}	{37.85670055,-122.12578102,Moraga,CA,United States}	{Shop & Service,}
+2582	Tue Jul 19 23:48:31 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue Jul 19 23:38:00 +0000 2011	4bb6696a2ea1952148a1ab2f	{The UPS Store}	{37.83617964303226,-122.12710187615636,Moraga,CA,United States}	{Shop & Service,Professional & Other Places,}
+2582	Tue Jul 19 23:38:00 +0000 2011	4bb6696a2ea1952148a1ab2f	{The UPS Store}	{37.83617964303226,-122.12710187615636,Moraga,CA,United States}	{Shop & Service,Professional & Other Places,}
+2582	Tue Jul 19 23:11:24 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Tue Jul 19 22:48:47 +0000 2011	4bc550b44a9aa5936d68067b	{McDonald's}	{37.892395,-122.113995,Lafayette,CA,United States}	{Food,}
+2582	Tue Jul 19 21:10:07 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Mon Jul 18 23:38:05 +0000 2011	455ad6b4f964a520573d1fe3	{Target}	{37.90491041711295,-122.06429418389038,Walnut Creek,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Mon Jul 18 22:38:45 +0000 2011	4acaa664f964a520bbc220e3	{Fuddruckers}	{37.90528036609458,-122.06358945734102,Walnut Creek,CA,United States}	{Food,}
+2582	Mon Jul 18 04:55:41 +0000 2011	4b39812bf964a520515d25e3	{CVS/pharmacy}	{37.85670055,-122.12578102,Moraga,CA,United States}	{Shop & Service,}
+2582	Sun Jul 17 19:21:44 +0000 2011	4b6639acf964a520b8192be3	{Safeway}	{37.83614910339103,-122.12851604401376,Moraga,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Sun Jul 17 04:44:29 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Sun Jul 17 04:14:42 +0000 2011	4a7bbc03f964a520b9eb1fe3	{Safeway}	{37.89272390195836,-122.11936521832538,Lafayette,CA,United States}	{Shop & Service,Arts & Entertainment,Food & Drink Shop,}
+2582	Sun Jul 17 03:13:59 +0000 2011	4b3c373ef964a520048325e3	{El Charro}	{37.89522347151589,-122.10443939094249,Lafayette,CA,United States}	{Nightlife Spot,Food,}
+2582	Sun Jul 17 03:13:42 +0000 2011	4b3c373ef964a520048325e3	{El Charro}	{37.89522347151589,-122.10443939094249,Lafayette,CA,United States}	{Nightlife Spot,Food,}
+2582	Sat Jul 16 19:24:08 +0000 2011	455ad6b4f964a520573d1fe3	{Target}	{37.90491041711295,-122.06429418389038,Walnut Creek,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Fri Jul 15 23:28:26 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Fri Jul 15 21:23:39 +0000 2011	485c4ac9f964a520ca501fe3	{Black Bear Diner}	{37.9274227333111,-122.04045302300085,Walnut Creek,CA,United States}	{Food,}
+2582	Fri Jul 15 00:25:43 +0000 2011	4b39812bf964a520515d25e3	{CVS/pharmacy}	{37.85670055,-122.12578102,Moraga,CA,United States}	{Shop & Service,}
+2582	Thu Jul 14 23:00:13 +0000 2011	4ba843a3f964a5200dd439e3	{Lamorinda Music}	{37.89013168618579,-122.12021378204612,Lafayette,CA,United States}	{College & University,}
+2582	Thu Jul 14 22:23:14 +0000 2011	4bb2627414cfd13a57dd14ab	{Burger King}	{37.858722,-122.124596,Moraga,CA,United States}	{Food,}
+2582	Thu Jul 14 22:23:14 +0000 2011	4bb2627414cfd13a57dd14ab	{Burger King}	{37.858722,-122.124596,Moraga,CA,United States}	{Food,}
+2582	Wed Jul 13 21:42:14 +0000 2011	4ad98182f964a520381a21e3	{Panera Bread}	{37.97028127865716,-122.05628666747224,Concord,CA,United States}	{Food,}
+2582	Wed Jul 13 18:16:28 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Tue Jul 12 23:38:05 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue Jul 12 23:13:15 +0000 2011	4dc6170b7d8b14fb463c4bbb	{Whole Foods Market}	{37.893163,-122.117137,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Tue Jul 12 22:48:54 +0000 2011	4acaa664f964a520bbc220e3	{Fuddruckers}	{37.90528036609458,-122.06358945734102,Walnut Creek,CA,United States}	{Food,}
+2582	Tue Jul 12 22:48:54 +0000 2011	4acaa664f964a520bbc220e3	{Fuddruckers}	{37.90528036609458,-122.06358945734102,Walnut Creek,CA,United States}	{Food,}
+2582	Tue Jul 12 00:34:44 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon Jul 11 23:34:46 +0000 2011	4b6e1341f964a52094a82ce3	{Sears}	{37.96630076079049,-122.06054853760439,Concord,CA,United States}	{Shop & Service,}
+2582	Mon Jul 11 22:16:15 +0000 2011	4ae398a0f964a520169721e3	{Turquoise}	{37.878181,-122.180953,Orinda,CA,United States}	{Food,}
+2582	Mon Jul 11 02:48:27 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sun Jul 10 03:02:55 +0000 2011	47276c40f964a520e34b1fe3	{Outback Steakhouse}	{37.95853489400749,-122.0575428302606,Pleasant Hill,CA,United States}	{Food,}
+2582	Sat Jul 09 23:43:54 +0000 2011	4b6639acf964a520b8192be3	{Safeway}	{37.83614910339103,-122.12851604401376,Moraga,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Sat Jul 09 23:14:47 +0000 2011	4b3d241af964a520d08e25e3	{Teacake Bake Shop}	{37.891341,-122.1196460723877,Lafayette,CA,United States}	{Food,}
+2582	Sat Jul 09 22:45:25 +0000 2011	4bf1a18378cec9287ba2ba86	{True Value Hardware}	{37.878308,-122.18135001666667,Orinda,CA,United States}	{Shop & Service,}
+2582	Sat Jul 09 22:17:52 +0000 2011	4ae398a0f964a520169721e3	{Turquoise}	{37.878181,-122.180953,Orinda,CA,United States}	{Food,}
+2582	Sat Jul 09 22:17:52 +0000 2011	4ae398a0f964a520169721e3	{Turquoise}	{37.878181,-122.180953,Orinda,CA,United States}	{Food,}
+2582	Sat Jul 09 20:45:35 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sat Jul 09 20:27:10 +0000 2011	4a6ce9dbf964a5200cd21fe3	{Trader Joe's}	{37.893222,-122.060814,Walnut Creek,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Sat Jul 09 19:05:31 +0000 2011	4afa0a78f964a520401622e3	{Best Buy}	{37.93497196,-122.0590946,Pleasant Hill,CA,United States}	{Shop & Service,}
+2582	Sat Jul 09 04:15:46 +0000 2011	4ba66489f964a520924d39e3	{T.J.maxx}	{37.858311881591106,-122.12561130523682,Moraga,CA,United States}	{Shop & Service,}
+2582	Sat Jul 09 04:12:02 +0000 2011	4b39812bf964a520515d25e3	{CVS/pharmacy}	{37.85670055,-122.12578102,Moraga,CA,United States}	{Shop & Service,}
+2582	Sat Jul 09 01:37:08 +0000 2011	4e0e62f5e4cd27fc7d2f84c3	{Ascot Highlands Pool}	{37.859991,-122.133783,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Fri Jul 08 22:09:36 +0000 2011	4a70b3f9f964a5203dd81fe3	{Kaiser Permanente Medical Center}	{37.892272028185324,-122.05912238352215,Walnut Creek,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Fri Jul 08 21:28:47 +0000 2011	4ad98182f964a520381a21e3	{Panera Bread}	{37.97028127865716,-122.05628666747224,Concord,CA,United States}	{Food,}
+2582	Fri Jul 08 19:06:49 +0000 2011	4e0e62f5e4cd27fc7d2f84c3	{Ascot Highlands Pool}	{37.859991,-122.133783,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Fri Jul 08 01:16:11 +0000 2011	4e0e62f5e4cd27fc7d2f84c3	{Ascot Highlands Pool}	{37.859991,-122.133783,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Thu Jul 07 22:43:59 +0000 2011	4afa0a78f964a520401622e3	{Best Buy}	{37.93497196,-122.0590946,Pleasant Hill,CA,United States}	{Shop & Service,}
+2582	Thu Jul 07 21:57:28 +0000 2011	455ad6b4f964a520573d1fe3	{Target}	{37.90491041711295,-122.06429418389038,Walnut Creek,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Thu Jul 07 21:26:54 +0000 2011	4acaa664f964a520bbc220e3	{Fuddruckers}	{37.90528036609458,-122.06358945734102,Walnut Creek,CA,United States}	{Food,}
+2582	Thu Jul 07 03:29:46 +0000 2011	4d6825092433a143bf8f55e0	{Red Chopstick}	{37.855133,-122.12453305721283,Moraga,CA,United States}	{Food,}
+2582	Wed Jul 06 23:46:10 +0000 2011	4b1c17e0f964a520ff0124e3	{HomeGoods}	{37.85606809079934,-122.12605926210892,Moraga,CA,United States}	{Shop & Service,}
+2582	Wed Jul 06 23:42:10 +0000 2011	4b39812bf964a520515d25e3	{CVS/pharmacy}	{37.85670055,-122.12578102,Moraga,CA,United States}	{Shop & Service,}
+2582	Wed Jul 06 23:19:38 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Wed Jul 06 22:26:28 +0000 2011	4a0f514ef964a5204b761fe3	{Barnes & Noble}	{37.89644919631728,-122.06016009282187,Walnut Creek,CA,United States}	{Shop & Service,Food,}
+2582	Wed Jul 06 22:25:59 +0000 2011	4a2c4660f964a52046971fe3	{Apple Store, Walnut Creek}	{37.897047569732095,-122.05994367298358,Walnut Creek,CA,United States}	{Shop & Service,}
+2582	Wed Jul 06 22:02:02 +0000 2011	4aabeeacf964a520055b20e3	{Chipotle Mexican Grill}	{37.8956074,-122.061305,Walnut Creek,CA,United States}	{Food,}
+2582	Wed Jul 06 00:18:34 +0000 2011	4ba66489f964a520924d39e3	{T.J.maxx}	{37.858311881591106,-122.12561130523682,Moraga,CA,United States}	{Shop & Service,}
+2582	Wed Jul 06 00:13:24 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue Jul 05 23:57:08 +0000 2011	4ae77fb2f964a520e2ab21e3	{Moraga Library}	{37.84096039474869,-122.12286480746351,Moraga,CA,United States}	{Professional & Other Places,}
+2582	Tue Jul 05 23:06:44 +0000 2011	4b14c190f964a52052a623e3	{The Home Depot}	{37.975589291472005,-122.05436205973018,Concord,CA,United States}	{Shop & Service,Food,}
+2582	Tue Jul 05 22:51:14 +0000 2011	4ad98182f964a520381a21e3	{Panera Bread}	{37.97028127865716,-122.05628666747224,Concord,CA,United States}	{Food,}
+2582	Tue Jul 05 00:38:59 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon Jul 04 03:07:47 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon Jul 04 03:07:28 +0000 2011	4d829ecd81fdb1f77e02d7bf	{Shish Kabab Show}	{37.860254645347595,-122.1258339,Moraga,CA,United States}	{Food,}
+2582	Sun Jul 03 22:13:11 +0000 2011	4c604668c6a103bbad00685b	{RadioShack}	{37.891602,-122.121777,Lafayette,CA,United States}	{Shop & Service,}
+2582	Sun Jul 03 21:48:12 +0000 2011	4afa0a78f964a520401622e3	{Best Buy}	{37.93497196,-122.0590946,Pleasant Hill,CA,United States}	{Shop & Service,}
+2582	Sun Jul 03 21:24:31 +0000 2011	455ad6b4f964a520573d1fe3	{Target}	{37.90491041711295,-122.06429418389038,Walnut Creek,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Sun Jul 03 02:59:46 +0000 2011	4af485f2f964a52076f321e3	{Swad}	{37.89171,-122.12331914,Lafayette,CA,United States}	{Food,}
+2582	Sat Jul 02 00:14:53 +0000 2011	4e0e62f5e4cd27fc7d2f84c3	{Ascot Highlands Pool}	{37.859991,-122.133783,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Fri Jul 01 20:07:23 +0000 2011	4ad98182f964a520381a21e3	{Panera Bread}	{37.97028127865716,-122.05628666747224,Concord,CA,United States}	{Food,}
+2582	Fri Jul 01 16:40:23 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Fri Jul 01 16:27:32 +0000 2011	4bb6696a2ea1952148a1ab2f	{The UPS Store}	{37.83617964303226,-122.12710187615636,Moraga,CA,United States}	{Shop & Service,Professional & Other Places,}
+2582	Thu Jun 30 22:57:32 +0000 2011	4ba843a3f964a5200dd439e3	{Lamorinda Music}	{37.89013168618579,-122.12021378204612,Lafayette,CA,United States}	{College & University,}
+2582	Thu Jun 30 22:18:11 +0000 2011	471d3154f964a520b74b1fe3	{Europa}	{37.878254,-122.181084,Orinda,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Thu Jun 30 22:18:11 +0000 2011	471d3154f964a520b74b1fe3	{Europa}	{37.878254,-122.181084,Orinda,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Thu Jun 30 00:39:11 +0000 2011	4cf96ca4c51fa1cd8a73da2b	{Rheem Veterinary Medical Hospital}	{37.85714206500885,-122.12424575518098,Moraga,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Wed Jun 29 21:50:10 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Wed Jun 29 21:04:36 +0000 2011	455ad6b4f964a520573d1fe3	{Target}	{37.90491041711295,-122.06429418389038,Walnut Creek,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Wed Jun 29 20:20:37 +0000 2011	4acaa664f964a520bbc220e3	{Fuddruckers}	{37.90528036609458,-122.06358945734102,Walnut Creek,CA,United States}	{Food,}
+2582	Wed Jun 29 02:02:24 +0000 2011	4842f45ff964a52043501fe3	{Orchard Supply Hardware}	{37.833971195536634,-122.12925916793337,Moraga,CA,United States}	{Shop & Service,}
+2582	Tue Jun 28 21:04:50 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue Jun 28 19:57:36 +0000 2011	485c4ac9f964a520ca501fe3	{Black Bear Diner}	{37.9274227333111,-122.04045302300085,Walnut Creek,CA,United States}	{Food,}
+2582	Tue Jun 28 15:34:31 +0000 2011	4a70b3f9f964a5203dd81fe3	{Kaiser Permanente Medical Center}	{37.892272028185324,-122.05912238352215,Walnut Creek,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Tue Jun 28 03:17:56 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Tue Jun 28 00:15:56 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon Jun 27 23:47:09 +0000 2011	4b69f911f964a5201fbf2be3	{Trader Joe's}	{37.97940742062678,-122.0561420917511,Concord,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Mon Jun 27 23:04:49 +0000 2011	4ad98182f964a520381a21e3	{Panera Bread}	{37.97028127865716,-122.05628666747224,Concord,CA,United States}	{Food,}
+2582	Mon Jun 27 03:14:54 +0000 2011	4a1dec68f964a520ac7b1fe3	{Bossa Nova}	{37.77717470836501,-122.41258352994919,San Francisco,CA,United States}	{Food,}
+2582	Mon Jun 27 02:31:16 +0000 2011	46dabca2f964a5207c4a1fe3	{Fort Point National Historic Site}	{37.810360340560145,-122.47672855854034,San Francisco,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+2582	Sun Jun 26 03:43:25 +0000 2011	4a651e42f964a52055c71fe3	{Kim Thanh}	{37.78677,-122.413264,San Francisco,CA,United States}	{Food,}
+2582	Sun Jun 26 02:20:32 +0000 2011	40bbc700f964a520b1001fe3	{Union Square}	{37.787750172585,-122.40762822536455,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2582	Sun Jun 26 01:00:50 +0000 2011	43067280f964a52023271fe3	{Ferry Building}	{37.795427908882,-122.39362835884094,San Francisco,CA,United States}	{Shop & Service,Government Building,Food & Drink Shop,Professional & Other Places,}
+2582	Sat Jun 25 23:25:01 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sat Jun 25 01:23:05 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Sat Jun 25 01:22:55 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Sat Jun 25 00:33:38 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Fri Jun 24 01:50:58 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Thu Jun 23 23:00:04 +0000 2011	4a70b3f9f964a5203dd81fe3	{Kaiser Permanente Medical Center}	{37.892272028185324,-122.05912238352215,Walnut Creek,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Thu Jun 23 21:47:02 +0000 2011	4a859174f964a5207bfe1fe3	{Hubcaps Diner}	{37.899778,-122.062286,Walnut Creek,CA,United States}	{Food,}
+2582	Thu Jun 23 19:03:30 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Thu Jun 23 02:31:14 +0000 2011	4ba66489f964a520924d39e3	{T.J.maxx}	{37.858311881591106,-122.12561130523682,Moraga,CA,United States}	{Shop & Service,}
+2582	Thu Jun 23 00:20:07 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Wed Jun 22 20:12:16 +0000 2011	4aaaa783f964a520cf5620e3	{Mangia Ristorante}	{37.891022,-122.11915845,Lafayette,CA,United States}	{Food,}
+2582	Wed Jun 22 00:42:48 +0000 2011	4c66fec3aebea593b2db74d0	{Ascot court}	{37.858768,-122.130879,Moraga,CA,United States}	{}
+2582	Tue Jun 21 18:56:30 +0000 2011	4a70b3f9f964a5203dd81fe3	{Kaiser Permanente Medical Center}	{37.892272028185324,-122.05912238352215,Walnut Creek,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Mon Jun 20 22:03:39 +0000 2011	4ad98182f964a520381a21e3	{Panera Bread}	{37.97028127865716,-122.05628666747224,Concord,CA,United States}	{Food,}
+2582	Mon Jun 20 20:32:25 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Mon Jun 20 20:31:34 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Mon Jun 20 19:56:17 +0000 2011	4bcf3a41a8b3a593eeca615f	{Lafayette Car Wash & Detail Center}	{37.895750999450684,-122.103177,Lafayette,CA,United States}	{Shop & Service,}
+2582	Mon Jun 20 19:29:46 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sun Jun 19 22:27:13 +0000 2011	4acef386f964a5201fd220e3	{Diablo Valley Bowl}	{37.953028432441215,-122.04195712401547,Concord,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+2582	Sun Jun 19 22:05:34 +0000 2011	4bc2426cb492d13af645a760	{Marshalls}	{37.942848781628186,-122.05764626659119,Pleasant Hill,CA,United States}	{Shop & Service,}
+2582	Sun Jun 19 21:49:20 +0000 2011	4a3c3b58f964a5204aa11fe3	{Starbucks}	{37.94878333945468,-122.05960516929531,Pleasant Hill,CA,United States}	{Food,}
+2582	Sun Jun 19 21:44:03 +0000 2011	4b6f5abff964a520edec2ce3	{Bed Bath & Beyond}	{37.94729,-122.06084668636322,Pleasant Hill,CA,United States}	{Shop & Service,}
+2582	Sun Jun 19 17:04:00 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Sun Jun 19 01:40:18 +0000 2011	4dc6170b7d8b14fb463c4bbb	{Whole Foods Market}	{37.893163,-122.117137,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Sun Jun 19 01:30:49 +0000 2011	4a66979ef964a520c2c81fe3	{Yogurt Shack}	{37.89292369286625,-122.11825132369995,Lafayette,CA,United States}	{Food,}
+2582	Sat Jun 18 22:02:15 +0000 2011	4b0586b7f964a520f06a22e3	{Governor's Mansion State Historic Park}	{38.580311,-121.484862,Sacramento,CA,United States}	{Government Building,Professional & Other Places,}
+2582	Sat Jun 18 19:55:40 +0000 2011	4ad98182f964a520381a21e3	{Panera Bread}	{37.97028127865716,-122.05628666747224,Concord,CA,United States}	{Food,}
+2582	Sat Jun 18 19:23:46 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sat Jun 18 16:35:20 +0000 2011	4be5bd2fbcef2d7f7a3d04e5	{Lafayette Tennis Club}	{37.899575,-122.091366,,CA,United States}	{Stadium,Arts & Entertainment,}
+2582	Sat Jun 18 03:20:39 +0000 2011	4a19dc68f964a5205f7a1fe3	{Pennini's Pizza}	{37.83594934411925,-122.12806284427643,Moraga,CA,United States}	{Food,}
+2582	Fri Jun 17 23:05:46 +0000 2011	4be17e7b8e2962b5d4579b0a	{Starbucks}	{37.89517,-122.10494849,Lafayette,CA,United States}	{Food,}
+2582	Thu Jun 16 17:20:04 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Thu Jun 16 05:10:53 +0000 2011	455ad6b4f964a520573d1fe3	{Target}	{37.90491041711295,-122.06429418389038,Walnut Creek,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Thu Jun 16 02:22:47 +0000 2011	4b6639acf964a520b8192be3	{Safeway}	{37.83614910339103,-122.12851604401376,Moraga,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Thu Jun 16 01:32:08 +0000 2011	4ba66489f964a520924d39e3	{T.J.maxx}	{37.858311881591106,-122.12561130523682,Moraga,CA,United States}	{Shop & Service,}
+2582	Thu Jun 16 01:19:46 +0000 2011	4e5eb0e71f6e3022a728e1ad	{Tuesday Morning}	{37.85966170397325,-122.12524401964342,Moraga,CA,United States}	{Shop & Service,}
+2582	Thu Jun 16 01:05:59 +0000 2011	4b39812bf964a520515d25e3	{CVS/pharmacy}	{37.85670055,-122.12578102,Moraga,CA,United States}	{Shop & Service,}
+2582	Wed Jun 15 17:34:45 +0000 2011	4bf5622294af2d7f0ea33b72	{LensCrafters}	{37.94636345087474,-122.0597791671753,Pleasant Hill,CA,United States}	{Shop & Service,}
+2582	Wed Jun 15 16:50:17 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Wed Jun 15 16:21:08 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Wed Jun 15 02:29:46 +0000 2011	4bb2627414cfd13a57dd14ab	{Burger King}	{37.858722,-122.124596,Moraga,CA,United States}	{Food,}
+2582	Wed Jun 15 02:13:35 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Wed Jun 15 02:13:24 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Tue Jun 14 16:11:20 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon Jun 13 23:30:53 +0000 2011	4c66fec3aebea593b2db74d0	{Ascot court}	{37.858768,-122.130879,Moraga,CA,United States}	{}
+2582	Mon Jun 13 20:17:22 +0000 2011	4a70b3f9f964a5203dd81fe3	{Kaiser Permanente Medical Center}	{37.892272028185324,-122.05912238352215,Walnut Creek,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Mon Jun 13 18:24:11 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Mon Jun 13 16:05:08 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon Jun 13 00:11:08 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Mon Jun 13 00:11:00 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Sun Jun 12 23:30:23 +0000 2011	455ad6b4f964a520573d1fe3	{Target}	{37.90491041711295,-122.06429418389038,Walnut Creek,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Sun Jun 12 22:44:02 +0000 2011	4ae398a0f964a520169721e3	{Turquoise}	{37.878181,-122.180953,Orinda,CA,United States}	{Food,}
+2582	Sat Jun 11 20:05:34 +0000 2011	485c4ac9f964a520ca501fe3	{Black Bear Diner}	{37.9274227333111,-122.04045302300085,Walnut Creek,CA,United States}	{Food,}
+2582	Sat Jun 11 17:52:51 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sat Jun 11 16:29:06 +0000 2011	4be5bd2fbcef2d7f7a3d04e5	{Lafayette Tennis Club}	{37.899575,-122.091366,,CA,United States}	{Stadium,Arts & Entertainment,}
+2582	Sat Jun 11 02:52:41 +0000 2011	471d3154f964a520b74b1fe3	{Europa}	{37.878254,-122.181084,Orinda,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Fri Jun 10 19:33:45 +0000 2011	4b774729f964a520348e2ee3	{Moraga Commons Park}	{37.83998108255431,-122.1260703538007,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Fri Jun 10 18:45:07 +0000 2011	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Fri Jun 10 18:37:11 +0000 2011	4d3dc5cdaf8ca1430af90ef7	{Magic Cuts}	{37.856266,-122.125163,,,United States}	{Shop & Service,}
+2582	Fri Jun 10 18:34:32 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Fri Jun 10 18:34:15 +0000 2011	4b6639acf964a520b8192be3	{Safeway}	{37.83614910339103,-122.12851604401376,Moraga,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Fri Jun 10 02:33:40 +0000 2011	4acaa664f964a520bbc220e3	{Fuddruckers}	{37.90528036609458,-122.06358945734102,Walnut Creek,CA,United States}	{Food,}
+2582	Fri Jun 10 01:37:34 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Fri Jun 10 00:10:43 +0000 2011	4ba843a3f964a5200dd439e3	{Lamorinda Music}	{37.89013168618579,-122.12021378204612,Lafayette,CA,United States}	{College & University,}
+2582	Thu Jun 09 22:56:36 +0000 2011	4bb2627414cfd13a57dd14ab	{Burger King}	{37.858722,-122.124596,Moraga,CA,United States}	{Food,}
+2582	Thu Jun 09 19:24:24 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Wed Jun 08 22:13:52 +0000 2011	4b7dd096f964a52070d62fe3	{Joaquin Moraga Middle School}	{37.82514476856775,-122.12969727590685,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Wed Jun 08 19:47:28 +0000 2011	4a6ce9dbf964a5200cd21fe3	{Trader Joe's}	{37.893222,-122.060814,Walnut Creek,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Wed Jun 08 19:18:24 +0000 2011	4bf5622294af2d7f0ea33b72	{LensCrafters}	{37.94636345087474,-122.0597791671753,Pleasant Hill,CA,United States}	{Shop & Service,}
+2582	Wed Jun 08 17:16:28 +0000 2011	4defae60d164e99c7b41629d	{Dr Starr's Office (Eye Physician)}	{37.88671237080101,-122.11832861106814,Lafayette,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Wed Jun 08 16:47:53 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue Jun 07 21:54:09 +0000 2011	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Tue Jun 07 20:00:34 +0000 2011	4a2c4660f964a52046971fe3	{Apple Store, Walnut Creek}	{37.897047569732095,-122.05994367298358,Walnut Creek,CA,United States}	{Shop & Service,}
+2582	Tue Jun 07 16:38:06 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon Jun 06 22:29:11 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon Jun 06 17:12:18 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sun Jun 05 23:36:09 +0000 2011	4b5cb875f964a520714029e3	{McCaulou's}	{37.892996,-122.118638,Lafayette,CA,United States}	{Shop & Service,}
+2582	Sun Jun 05 22:15:32 +0000 2011	4bf17a87674f20a1319f04ae	{Marshalls}	{38.36576379,-121.95955574512482,Vacaville,CA,United States}	{Shop & Service,}
+2582	Sun Jun 05 19:20:08 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sat Jun 04 22:20:15 +0000 2011	4b05d4eef964a52019e422e3	{Macy's}	{37.96795178,-122.0615387,Concord,CA,United States}	{Shop & Service,}
+2582	Sat Jun 04 22:10:45 +0000 2011	455ad71cf964a520593d1fe3	{Sunvalley Shopping Center}	{37.96820551884303,-122.06115245819092,Concord,CA,United States}	{Shop & Service,}
+2582	Sat Jun 04 21:45:01 +0000 2011	4b636987f964a520f8772ae3	{Pier 1 Imports}	{37.97077,-122.05533,Concord,CA,United States}	{Shop & Service,}
+2582	Sat Jun 04 21:09:50 +0000 2011	4ad98182f964a520381a21e3	{Panera Bread}	{37.97028127865716,-122.05628666747224,Concord,CA,United States}	{Food,}
+2582	Sat Jun 04 17:46:37 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Fri Jun 03 23:11:22 +0000 2011	445a2c5ff964a520e2321fe3	{IKEA}	{37.830903,-122.292444,Emeryville,CA,United States}	{Shop & Service,}
+2582	Fri Jun 03 17:37:50 +0000 2011	4cc9b7585c7e8cfa76924666	{Walnut Creek Chrysler Jeep Dodge}	{37.91359409094012,-122.06510988528996,Walnut Creek,CA,United States}	{Shop & Service,}
+2582	Fri Jun 03 17:12:53 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Fri Jun 03 03:42:34 +0000 2011	455ad6b4f964a520573d1fe3	{Target}	{37.90491041711295,-122.06429418389038,Walnut Creek,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Fri Jun 03 03:04:30 +0000 2011	4acaa664f964a520bbc220e3	{Fuddruckers}	{37.90528036609458,-122.06358945734102,Walnut Creek,CA,United States}	{Food,}
+2582	Thu Jun 02 23:00:03 +0000 2011	4ba843a3f964a5200dd439e3	{Lamorinda Music}	{37.89013168618579,-122.12021378204612,Lafayette,CA,United States}	{College & University,}
+2582	Thu Jun 02 18:42:34 +0000 2011	4b1f0afdf964a5203e2324e3	{Sports Basement}	{37.91829703,-122.037118,Walnut Creek,CA,United States}	{Shop & Service,}
+2582	Thu Jun 02 16:54:42 +0000 2011	4b39812bf964a520515d25e3	{CVS/pharmacy}	{37.85670055,-122.12578102,Moraga,CA,United States}	{Shop & Service,}
+2582	Thu Jun 02 16:53:57 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Thu Jun 02 07:05:09 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+2582	Thu Jun 02 00:49:04 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Thu Jun 02 00:48:55 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Wed Jun 01 19:34:43 +0000 2011	4d6825092433a143bf8f55e0	{Red Chopstick}	{37.855133,-122.12453305721283,Moraga,CA,United States}	{Food,}
+2582	Wed Jun 01 19:34:43 +0000 2011	4d6825092433a143bf8f55e0	{Red Chopstick}	{37.855133,-122.12453305721283,Moraga,CA,United States}	{Food,}
+2582	Wed Jun 01 19:29:21 +0000 2011	4a70b3f9f964a5203dd81fe3	{Kaiser Permanente Medical Center}	{37.892272028185324,-122.05912238352215,Walnut Creek,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Wed Jun 01 17:14:35 +0000 2011	4a70b3f9f964a5203dd81fe3	{Kaiser Permanente Medical Center}	{37.892272028185324,-122.05912238352215,Walnut Creek,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Tue May 31 22:04:34 +0000 2011	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Tue May 31 19:06:35 +0000 2011	4a7bbc03f964a520b9eb1fe3	{Safeway}	{37.89272390195836,-122.11936521832538,Lafayette,CA,United States}	{Shop & Service,Arts & Entertainment,Food & Drink Shop,}
+2582	Tue May 31 17:40:15 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sun May 29 22:47:02 +0000 2011	4b69f911f964a5201fbf2be3	{Trader Joe's}	{37.97940742062678,-122.0561420917511,Concord,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Sun May 29 22:04:42 +0000 2011	4ad98182f964a520381a21e3	{Panera Bread}	{37.97028127865716,-122.05628666747224,Concord,CA,United States}	{Food,}
+2582	Sun May 29 03:59:20 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Fri May 27 19:28:21 +0000 2011	4bef46f32ff520a1ad64e8a2	{Pet Food Express}	{37.89301892192484,-122.06087593998552,Walnut Creek,CA,United States}	{Shop & Service,}
+2582	Fri May 27 19:27:32 +0000 2011	4a6ce9dbf964a5200cd21fe3	{Trader Joe's}	{37.893222,-122.060814,Walnut Creek,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Fri May 27 18:32:49 +0000 2011	4a70b3f9f964a5203dd81fe3	{Kaiser Permanente Medical Center}	{37.892272028185324,-122.05912238352215,Walnut Creek,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Fri May 27 17:47:16 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Fri May 27 03:13:03 +0000 2011	4b39812bf964a520515d25e3	{CVS/pharmacy}	{37.85670055,-122.12578102,Moraga,CA,United States}	{Shop & Service,}
+2582	Fri May 27 00:18:39 +0000 2011	4ba843a3f964a5200dd439e3	{Lamorinda Music}	{37.89013168618579,-122.12021378204612,Lafayette,CA,United States}	{College & University,}
+2582	Thu May 26 19:31:08 +0000 2011	4aaaa783f964a520cf5620e3	{Mangia Ristorante}	{37.891022,-122.11915845,Lafayette,CA,United States}	{Food,}
+2582	Thu May 26 18:09:53 +0000 2011	4a70b3f9f964a5203dd81fe3	{Kaiser Permanente Medical Center}	{37.892272028185324,-122.05912238352215,Walnut Creek,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Thu May 26 17:19:12 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Wed May 25 23:57:39 +0000 2011	4bf06b2cb315c9b67bfa92ff	{The French Bakery}	{37.890369337711014,-122.12031915877498,Lafayette,CA,United States}	{Food,}
+2582	Wed May 25 23:13:06 +0000 2011	4a70b3f9f964a5203dd81fe3	{Kaiser Permanente Medical Center}	{37.892272028185324,-122.05912238352215,Walnut Creek,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Wed May 25 22:30:56 +0000 2011	4a0f514ef964a5204b761fe3	{Barnes & Noble}	{37.89644919631728,-122.06016009282187,Walnut Creek,CA,United States}	{Shop & Service,Food,}
+2582	Tue May 24 23:55:26 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue May 24 21:59:28 +0000 2011	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Tue May 24 18:50:51 +0000 2011	455ad6b4f964a520573d1fe3	{Target}	{37.90491041711295,-122.06429418389038,Walnut Creek,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Tue May 24 17:57:50 +0000 2011	4a70b3f9f964a5203dd81fe3	{Kaiser Permanente Medical Center}	{37.892272028185324,-122.05912238352215,Walnut Creek,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Tue May 24 17:57:30 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Tue May 24 17:57:16 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Tue May 24 17:56:46 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon May 23 16:36:25 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sun May 22 02:50:59 +0000 2011	4b6639acf964a520b8192be3	{Safeway}	{37.83614910339103,-122.12851604401376,Moraga,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Sat May 21 20:51:14 +0000 2011	4ae398a0f964a520169721e3	{Turquoise}	{37.878181,-122.180953,Orinda,CA,United States}	{Food,}
+2582	Sat May 21 18:13:33 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sat May 21 17:57:10 +0000 2011	4cf96ca4c51fa1cd8a73da2b	{Rheem Veterinary Medical Hospital}	{37.85714206500885,-122.12424575518098,Moraga,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Sat May 21 00:30:31 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Fri May 20 16:33:17 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Fri May 20 00:22:30 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Thu May 19 22:51:59 +0000 2011	4ba843a3f964a5200dd439e3	{Lamorinda Music}	{37.89013168618579,-122.12021378204612,Lafayette,CA,United States}	{College & University,}
+2582	Wed May 18 19:29:54 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Wed May 18 19:29:44 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Tue May 17 18:48:13 +0000 2011	4b8402e9f964a520161b31e3	{Dirito Brothers Volkswagen}	{37.90722603696835,-122.06438851701854,Walnut Creek,CA,United States}	{Shop & Service,}
+2582	Tue May 17 17:30:39 +0000 2011	4b1f0afdf964a5203e2324e3	{Sports Basement}	{37.91829703,-122.037118,Walnut Creek,CA,United States}	{Shop & Service,}
+2582	Tue May 17 16:38:33 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon May 16 20:21:19 +0000 2011	4ba66489f964a520924d39e3	{T.J.maxx}	{37.858311881591106,-122.12561130523682,Moraga,CA,United States}	{Shop & Service,}
+2582	Mon May 16 19:00:32 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon May 16 02:11:29 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Mon May 16 02:11:21 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Mon May 16 01:47:12 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sun May 15 03:15:22 +0000 2011	47276c40f964a520e34b1fe3	{Outback Steakhouse}	{37.95853489400749,-122.0575428302606,Pleasant Hill,CA,United States}	{Food,}
+2582	Sun May 15 03:15:09 +0000 2011	4be5bd2fbcef2d7f7a3d04e5	{Lafayette Tennis Club}	{37.899575,-122.091366,,CA,United States}	{Stadium,Arts & Entertainment,}
+2582	Fri May 13 23:40:46 +0000 2011	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Fri May 13 19:08:40 +0000 2011	455ad6b4f964a520573d1fe3	{Target}	{37.90491041711295,-122.06429418389038,Walnut Creek,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Thu May 12 23:45:46 +0000 2011	4bf06b2cb315c9b67bfa92ff	{The French Bakery}	{37.890369337711014,-122.12031915877498,Lafayette,CA,United States}	{Food,}
+2582	Thu May 12 23:45:46 +0000 2011	4bf06b2cb315c9b67bfa92ff	{The French Bakery}	{37.890369337711014,-122.12031915877498,Lafayette,CA,United States}	{Food,}
+2582	Thu May 12 22:54:37 +0000 2011	4ba843a3f964a5200dd439e3	{Lamorinda Music}	{37.89013168618579,-122.12021378204612,Lafayette,CA,United States}	{College & University,}
+2582	Thu May 12 22:54:37 +0000 2011	4ba843a3f964a5200dd439e3	{Lamorinda Music}	{37.89013168618579,-122.12021378204612,Lafayette,CA,United States}	{College & University,}
+2582	Thu May 12 22:53:30 +0000 2011	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Thu May 12 17:41:50 +0000 2011	4a4f8b77f964a5206aaf1fe3	{Whole Foods Market}	{37.89309478,-122.05555737018585,Walnut Creek,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+2582	Thu May 12 17:08:14 +0000 2011	4b5dd144f964a5206f6d29e3	{Walnut Creek DMV Office}	{37.90556115,-122.061052,Walnut Creek,CA,United States}	{Professional & Other Places,}
+2582	Thu May 12 16:40:14 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Wed May 11 20:00:51 +0000 2011	4c2635f2f7ced13a09e2256d	{Lafayette Pet Shop}	{37.892101785123515,-122.11700251560215,Lafayette,CA,United States}	{Shop & Service,}
+2582	Wed May 11 19:39:56 +0000 2011	4a6ce9dbf964a5200cd21fe3	{Trader Joe's}	{37.893222,-122.060814,Walnut Creek,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Wed May 11 18:23:18 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Wed May 11 05:03:37 +0000 2011	4aad3203f964a520f25e20e3	{Katy's Kreek}	{37.90172045,-122.06300528,Walnut Creek,CA,United States}	{Food,}
+2582	Tue May 10 18:32:44 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue May 10 18:30:09 +0000 2011	4b39812bf964a520515d25e3	{CVS/pharmacy}	{37.85670055,-122.12578102,Moraga,CA,United States}	{Shop & Service,}
+2582	Mon May 09 22:31:50 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Mon May 09 22:01:56 +0000 2011	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Mon May 09 22:01:41 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Mon May 09 22:01:24 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Mon May 09 19:38:37 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon May 09 03:02:53 +0000 2011	4d6825092433a143bf8f55e0	{Red Chopstick}	{37.855133,-122.12453305721283,Moraga,CA,United States}	{Food,}
+2582	Mon May 09 02:53:47 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sat May 07 22:01:10 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Fri May 06 23:13:06 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Fri May 06 23:12:53 +0000 2011	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Fri May 06 22:39:39 +0000 2011	4bd36ea6caff95211bedd4f0	{Loard's Ice Cream & Candy}	{37.83617022773247,-122.12736252809512,Moraga,CA,United States}	{Food,}
+2582	Fri May 06 20:57:38 +0000 2011	4bcea50cb6c49c74dc869791	{Pet Food Express}	{37.89163662900263,-122.12394627404286,Lafayette,CA,United States}	{Shop & Service,}
+2582	Fri May 06 20:47:03 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Fri May 06 20:47:03 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Fri May 06 20:46:55 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Fri May 06 18:18:56 +0000 2011	4b39812bf964a520515d25e3	{CVS/pharmacy}	{37.85670055,-122.12578102,Moraga,CA,United States}	{Shop & Service,}
+2582	Fri May 06 17:40:32 +0000 2011	4a77bad8f964a52015e51fe3	{FedEx Office Print & Ship Center}	{37.890434,-122.117577,Lafayette,CA,United States}	{Shop & Service,}
+2582	Fri May 06 17:20:15 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Fri May 06 06:59:02 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Thu May 05 22:08:19 +0000 2011	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Thu May 05 17:15:10 +0000 2011	4a70b3f9f964a5203dd81fe3	{Kaiser Permanente Medical Center}	{37.892272028185324,-122.05912238352215,Walnut Creek,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Thu May 05 16:46:31 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Wed May 04 23:39:31 +0000 2011	4ba843a3f964a5200dd439e3	{Lamorinda Music}	{37.89013168618579,-122.12021378204612,Lafayette,CA,United States}	{College & University,}
+2582	Wed May 04 23:11:50 +0000 2011	4bf06b2cb315c9b67bfa92ff	{The French Bakery}	{37.890369337711014,-122.12031915877498,Lafayette,CA,United States}	{Food,}
+2582	Wed May 04 23:11:36 +0000 2011	4ba843a3f964a5200dd439e3	{Lamorinda Music}	{37.89013168618579,-122.12021378204612,Lafayette,CA,United States}	{College & University,}
+2582	Wed May 04 20:18:20 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue May 03 22:54:03 +0000 2011	4c213ffb9a67a593e3adda87	{Kaiser Permanente - Park Shadelands}	{37.92793185214007,-122.02910776899054,Walnut Creek,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Tue May 03 22:53:48 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Tue May 03 21:06:31 +0000 2011	4b39812bf964a520515d25e3	{CVS/pharmacy}	{37.85670055,-122.12578102,Moraga,CA,United States}	{Shop & Service,}
+2582	Tue May 03 17:53:34 +0000 2011	4afa0a78f964a520401622e3	{Best Buy}	{37.93497196,-122.0590946,Pleasant Hill,CA,United States}	{Shop & Service,}
+2582	Tue May 03 17:03:10 +0000 2011	4b1f0afdf964a5203e2324e3	{Sports Basement}	{37.91829703,-122.037118,Walnut Creek,CA,United States}	{Shop & Service,}
+2582	Tue May 03 16:37:37 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue May 03 16:36:37 +0000 2011	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Mon May 02 22:22:28 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon May 02 21:59:34 +0000 2011	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Mon May 02 18:46:17 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Mon May 02 18:46:09 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Mon May 02 16:31:59 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon May 02 16:31:34 +0000 2011	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Mon May 02 01:57:37 +0000 2011	4b6639acf964a520b8192be3	{Safeway}	{37.83614910339103,-122.12851604401376,Moraga,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Mon May 02 01:57:05 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon May 02 01:56:54 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Sun May 01 04:22:02 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Sat Apr 30 18:22:01 +0000 2011	4b39812bf964a520515d25e3	{CVS/pharmacy}	{37.85670055,-122.12578102,Moraga,CA,United States}	{Shop & Service,}
+2582	Sat Apr 30 17:53:30 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sat Apr 30 16:54:27 +0000 2011	4a411e40f964a520caa41fe3	{Peet's Coffee & Tea}	{37.89307729604571,-122.11808958712119,Lafayette,CA,United States}	{Food,}
+2582	Sat Apr 30 16:42:12 +0000 2011	4be5bd2fbcef2d7f7a3d04e5	{Lafayette Tennis Club}	{37.899575,-122.091366,,CA,United States}	{Stadium,Arts & Entertainment,}
+2582	Fri Apr 29 23:15:03 +0000 2011	455ad6b4f964a520573d1fe3	{Target}	{37.90491041711295,-122.06429418389038,Walnut Creek,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Fri Apr 29 16:43:20 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Fri Apr 29 02:44:36 +0000 2011	4b003c08f964a520c93b22e3	{Tullio's Italian Restaurant}	{37.90807780185151,-122.06204126249006,Walnut Creek,CA,United States}	{Food,}
+2582	Fri Apr 29 01:36:44 +0000 2011	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Thu Apr 28 19:41:48 +0000 2011	4bcea50cb6c49c74dc869791	{Pet Food Express}	{37.89163662900263,-122.12394627404286,Lafayette,CA,United States}	{Shop & Service,}
+2582	Thu Apr 28 17:09:03 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Thu Apr 28 16:43:54 +0000 2011	4b6639acf964a520b8192be3	{Safeway}	{37.83614910339103,-122.12851604401376,Moraga,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Thu Apr 28 16:37:27 +0000 2011	4bb6696a2ea1952148a1ab2f	{The UPS Store}	{37.83617964303226,-122.12710187615636,Moraga,CA,United States}	{Shop & Service,Professional & Other Places,}
+2582	Thu Apr 28 16:33:55 +0000 2011	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Thu Apr 28 00:23:23 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Wed Apr 27 21:28:01 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Wed Apr 27 21:27:51 +0000 2011	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Wed Apr 27 19:04:42 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Wed Apr 27 19:04:32 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Wed Apr 27 18:14:20 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue Apr 26 17:58:24 +0000 2011	4a70b3f9f964a5203dd81fe3	{Kaiser Permanente Medical Center}	{37.892272028185324,-122.05912238352215,Walnut Creek,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Tue Apr 26 16:33:53 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon Apr 25 20:12:43 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Mon Apr 25 20:12:28 +0000 2011	4cf96ca4c51fa1cd8a73da2b	{Rheem Veterinary Medical Hospital}	{37.85714206500885,-122.12424575518098,Moraga,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Mon Apr 25 16:42:07 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sun Apr 24 03:03:21 +0000 2011	4acaa664f964a520bbc220e3	{Fuddruckers}	{37.90528036609458,-122.06358945734102,Walnut Creek,CA,United States}	{Food,}
+2582	Sat Apr 23 18:14:37 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Sat Apr 23 18:13:57 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sat Apr 23 17:23:24 +0000 2011	4be5bd2fbcef2d7f7a3d04e5	{Lafayette Tennis Club}	{37.899575,-122.091366,,CA,United States}	{Stadium,Arts & Entertainment,}
+2582	Fri Apr 22 23:56:31 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Fri Apr 22 22:18:34 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Fri Apr 22 22:10:13 +0000 2011	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Fri Apr 22 19:57:10 +0000 2011	4b6639acf964a520b8192be3	{Safeway}	{37.83614910339103,-122.12851604401376,Moraga,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Fri Apr 22 19:09:39 +0000 2011	4c636c83fa7bc928b1c51027	{Asia Palace}	{37.836011,-122.126544,Moraga,CA,United States}	{Food,}
+2582	Fri Apr 22 19:09:39 +0000 2011	4c636c83fa7bc928b1c51027	{Asia Palace}	{37.836011,-122.126544,Moraga,CA,United States}	{Food,}
+2582	Fri Apr 22 17:01:32 +0000 2011	4cc9b7585c7e8cfa76924666	{Walnut Creek Chrysler Jeep Dodge}	{37.91359409094012,-122.06510988528996,Walnut Creek,CA,United States}	{Shop & Service,}
+2582	Thu Apr 21 21:51:43 +0000 2011	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Thu Apr 21 21:51:19 +0000 2011	455ad6b4f964a520573d1fe3	{Target}	{37.90491041711295,-122.06429418389038,Walnut Creek,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Thu Apr 21 16:41:10 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Wed Apr 20 19:23:48 +0000 2011	4b39812bf964a520515d25e3	{CVS/pharmacy}	{37.85670055,-122.12578102,Moraga,CA,United States}	{Shop & Service,}
+2582	Wed Apr 20 19:23:35 +0000 2011	4cf96ca4c51fa1cd8a73da2b	{Rheem Veterinary Medical Hospital}	{37.85714206500885,-122.12424575518098,Moraga,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Wed Apr 20 17:02:35 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue Apr 19 16:49:31 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon Apr 18 20:16:03 +0000 2011	4a6ce9dbf964a5200cd21fe3	{Trader Joe's}	{37.893222,-122.060814,Walnut Creek,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Sat Apr 16 23:52:24 +0000 2011	4b774729f964a520348e2ee3	{Moraga Commons Park}	{37.83998108255431,-122.1260703538007,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Sat Apr 16 22:05:27 +0000 2011	4b774729f964a520348e2ee3	{Moraga Commons Park}	{37.83998108255431,-122.1260703538007,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Sat Apr 16 22:05:27 +0000 2011	4b774729f964a520348e2ee3	{Moraga Commons Park}	{37.83998108255431,-122.1260703538007,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Sat Apr 16 20:42:50 +0000 2011	4be2d7fed27a20a16c77905b	{Locust Street Deli-Cafe}	{37.90061544816507,-122.06265721362189,Walnut Creek,CA,United States}	{Food,}
+2582	Sat Apr 16 16:54:35 +0000 2011	4a411e40f964a520caa41fe3	{Peet's Coffee & Tea}	{37.89307729604571,-122.11808958712119,Lafayette,CA,United States}	{Food,}
+2582	Sat Apr 16 16:38:58 +0000 2011	4be5bd2fbcef2d7f7a3d04e5	{Lafayette Tennis Club}	{37.899575,-122.091366,,CA,United States}	{Stadium,Arts & Entertainment,}
+2582	Fri Apr 15 20:07:07 +0000 2011	4d829ecd81fdb1f77e02d7bf	{Shish Kabab Show}	{37.860254645347595,-122.1258339,Moraga,CA,United States}	{Food,}
+2582	Fri Apr 15 20:07:07 +0000 2011	4d829ecd81fdb1f77e02d7bf	{Shish Kabab Show}	{37.860254645347595,-122.1258339,Moraga,CA,United States}	{Food,}
+2582	Fri Apr 15 19:51:02 +0000 2011	4b39812bf964a520515d25e3	{CVS/pharmacy}	{37.85670055,-122.12578102,Moraga,CA,United States}	{Shop & Service,}
+2582	Fri Apr 15 19:14:24 +0000 2011	4a70b3f9f964a5203dd81fe3	{Kaiser Permanente Medical Center}	{37.892272028185324,-122.05912238352215,Walnut Creek,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Thu Apr 14 00:26:53 +0000 2011	4a70b3f9f964a5203dd81fe3	{Kaiser Permanente Medical Center}	{37.892272028185324,-122.05912238352215,Walnut Creek,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Thu Apr 14 00:26:51 +0000 2011	4a70b3f9f964a5203dd81fe3	{Kaiser Permanente Medical Center}	{37.892272028185324,-122.05912238352215,Walnut Creek,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Wed Apr 13 22:51:02 +0000 2011	4a0f514ef964a5204b761fe3	{Barnes & Noble}	{37.89644919631728,-122.06016009282187,Walnut Creek,CA,United States}	{Shop & Service,Food,}
+2582	Wed Apr 13 20:26:40 +0000 2011	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Wed Apr 13 19:36:17 +0000 2011	4bff286cc30a2d7f2fa2101d	{Little Hearty Noodle}	{37.856993,-122.12585270404816,Moraga,CA,United States}	{Food,}
+2582	Wed Apr 13 19:36:17 +0000 2011	4bff286cc30a2d7f2fa2101d	{Little Hearty Noodle}	{37.856993,-122.12585270404816,Moraga,CA,United States}	{Food,}
+2582	Tue Apr 12 22:39:19 +0000 2011	4c636c83fa7bc928b1c51027	{Asia Palace}	{37.836011,-122.126544,Moraga,CA,United States}	{Food,}
+2582	Tue Apr 12 22:38:44 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue Apr 12 22:38:31 +0000 2011	4b39812bf964a520515d25e3	{CVS/pharmacy}	{37.85670055,-122.12578102,Moraga,CA,United States}	{Shop & Service,}
+2582	Tue Apr 12 22:38:30 +0000 2011	4b39812bf964a520515d25e3	{CVS/pharmacy}	{37.85670055,-122.12578102,Moraga,CA,United States}	{Shop & Service,}
+2582	Tue Apr 12 21:48:19 +0000 2011	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Tue Apr 12 19:52:21 +0000 2011	4a77bad8f964a52015e51fe3	{FedEx Office Print & Ship Center}	{37.890434,-122.117577,Lafayette,CA,United States}	{Shop & Service,}
+2582	Tue Apr 12 17:22:21 +0000 2011	4a70b3f9f964a5203dd81fe3	{Kaiser Permanente Medical Center}	{37.892272028185324,-122.05912238352215,Walnut Creek,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Mon Apr 11 22:18:40 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon Apr 11 21:38:07 +0000 2011	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Mon Apr 11 20:39:00 +0000 2011	4b3c351df964a520ed8225e3	{Da Lat Vietnamese Cuisine}	{37.89830415455507,-122.06193027993287,Walnut Creek,CA,United States}	{Food,}
+2582	Mon Apr 11 20:09:47 +0000 2011	455ad6b4f964a520573d1fe3	{Target}	{37.90491041711295,-122.06429418389038,Walnut Creek,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Mon Apr 11 18:03:51 +0000 2011	4a70b3f9f964a5203dd81fe3	{Kaiser Permanente Medical Center}	{37.892272028185324,-122.05912238352215,Walnut Creek,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Sun Apr 10 02:19:53 +0000 2011	47276c40f964a520e34b1fe3	{Outback Steakhouse}	{37.95853489400749,-122.0575428302606,Pleasant Hill,CA,United States}	{Food,}
+2582	Sun Apr 10 00:44:43 +0000 2011	455ad71cf964a520593d1fe3	{Sunvalley Shopping Center}	{37.96820551884303,-122.06115245819092,Concord,CA,United States}	{Shop & Service,}
+2582	Sat Apr 09 22:25:41 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Fri Apr 08 23:21:10 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Fri Apr 08 23:21:00 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Fri Apr 08 23:05:42 +0000 2011	4a104b74f964a520a0761fe3	{Great China}	{37.868759,-122.266912,Berkeley,CA,United States}	{Food,}
+2582	Fri Apr 08 23:05:12 +0000 2011	4a411e40f964a520caa41fe3	{Peet's Coffee & Tea}	{37.89307729604571,-122.11808958712119,Lafayette,CA,United States}	{Food,}
+2582	Fri Apr 08 23:04:36 +0000 2011	4a0f1c17f964a52028761fe3	{Lawrence Hall of Science}	{37.87929093491064,-122.24676132202148,Berkeley,CA,United States}	{Museum,Arts & Entertainment,}
+2582	Fri Apr 08 01:24:45 +0000 2011	4b79eda9f964a520ce1a2fe3	{Starbucks}	{37.771362322304505,-120.83552380181875,Oakdale,CA,United States}	{Food,}
+2582	Thu Apr 07 18:52:47 +0000 2011	4ba3d06ef964a520706238e3	{Yosemite National Park}	{37.74798269216435,-119.5868682861328,Yosemite Village,CA,United States}	{Outdoors & Recreation,}
+2582	Thu Apr 07 00:27:52 +0000 2011	4d56d02048ea6ea82c5de5a3	{Curry Village Lounge}	{37.73738558913047,-119.57178536406158,Yosemite National Park,CA,United States}	{Nightlife Spot,Outdoors & Recreation,}
+2582	Wed Apr 06 23:16:17 +0000 2011	4bc734d815a7ef3b53e678da	{Yosemite Village Store}	{37.746890111210284,-119.58434919513411,Yosemite National Park,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Wed Apr 06 22:02:13 +0000 2011	4ba3d06ef964a520706238e3	{Yosemite National Park}	{37.74798269216435,-119.5868682861328,Yosemite Village,CA,United States}	{Outdoors & Recreation,}
+2582	Tue Apr 05 20:09:26 +0000 2011	4b9ea176f964a52042f536e3	{Baja Fresh Mexican Grill}	{37.698882089433575,-121.77312874229852,Livermore,CA,United States}	{Food,}
+2582	Tue Apr 05 19:12:46 +0000 2011	4b39812bf964a520515d25e3	{CVS/pharmacy}	{37.85670055,-122.12578102,Moraga,CA,United States}	{Shop & Service,}
+2582	Tue Apr 05 19:12:36 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue Apr 05 03:56:24 +0000 2011	4abea642f964a520138f20e3	{The Cheesecake Factory}	{37.895819270467236,-122.06175327301025,Walnut Creek,CA,United States}	{Food,}
+2582	Tue Apr 05 00:26:59 +0000 2011	4b6639acf964a520b8192be3	{Safeway}	{37.83614910339103,-122.12851604401376,Moraga,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Tue Apr 05 00:21:24 +0000 2011	4b774729f964a520348e2ee3	{Moraga Commons Park}	{37.83998108255431,-122.1260703538007,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Tue Apr 05 00:04:32 +0000 2011	4bcf3a41a8b3a593eeca615f	{Lafayette Car Wash & Detail Center}	{37.895750999450684,-122.103177,Lafayette,CA,United States}	{Shop & Service,}
+2582	Tue Apr 05 00:03:09 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sun Apr 03 20:17:21 +0000 2011	4a70b3f9f964a5203dd81fe3	{Kaiser Permanente Medical Center}	{37.892272028185324,-122.05912238352215,Walnut Creek,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Sun Apr 03 19:06:03 +0000 2011	4b4d143ff964a52031ca26e3	{Campolindo High School}	{37.866692423592596,-122.1270796929836,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Sun Apr 03 02:16:05 +0000 2011	4842f45ff964a52043501fe3	{Orchard Supply Hardware}	{37.833971195536634,-122.12925916793337,Moraga,CA,United States}	{Shop & Service,}
+2582	Sat Apr 02 22:27:15 +0000 2011	4c48a23031e41b8d3ec25035	{Redwood Valley Railway}	{37.88049571957674,-122.22310108954198,Orinda,CA,United States}	{Travel & Transport,Outdoors & Recreation,Train Station,}
+2582	Sat Apr 02 20:35:04 +0000 2011	4b4d143ff964a52031ca26e3	{Campolindo High School}	{37.866692423592596,-122.1270796929836,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Sat Apr 02 20:34:39 +0000 2011	4be5bd2fbcef2d7f7a3d04e5	{Lafayette Tennis Club}	{37.899575,-122.091366,,CA,United States}	{Stadium,Arts & Entertainment,}
+2582	Sat Apr 02 19:47:29 +0000 2011	4ae398a0f964a520169721e3	{Turquoise}	{37.878181,-122.180953,Orinda,CA,United States}	{Food,}
+2582	Sat Apr 02 19:46:15 +0000 2011	471d3154f964a520b74b1fe3	{Europa}	{37.878254,-122.181084,Orinda,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Sat Apr 02 18:10:39 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Sat Apr 02 16:43:30 +0000 2011	4be17e7b8e2962b5d4579b0a	{Starbucks}	{37.89517,-122.10494849,Lafayette,CA,United States}	{Food,}
+2582	Sat Apr 02 04:21:50 +0000 2011	415f4100f964a5205a1d1fe3	{Lafayette BART Station}	{37.89323912129396,-122.12466169982847,Lafayette,CA,United States}	{Travel & Transport,Train Station,}
+2582	Sat Apr 02 03:38:08 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Fri Apr 01 23:52:29 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Fri Apr 01 19:52:56 +0000 2011	4ad98182f964a520381a21e3	{Panera Bread}	{37.97028127865716,-122.05628666747224,Concord,CA,United States}	{Food,}
+2582	Fri Apr 01 19:00:08 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Fri Apr 01 18:57:55 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Fri Apr 01 18:57:41 +0000 2011	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Fri Apr 01 18:16:09 +0000 2011	4a7bbc03f964a520b9eb1fe3	{Safeway}	{37.89272390195836,-122.11936521832538,Lafayette,CA,United States}	{Shop & Service,Arts & Entertainment,Food & Drink Shop,}
+2582	Fri Apr 01 17:03:53 +0000 2011	4b9d6b48f964a52079ab36e3	{Starbucks}	{37.898162318967465,-122.06017881631851,Walnut Creek,CA,United States}	{Food,}
+2582	Fri Apr 01 16:10:24 +0000 2011	4a70b3f9f964a5203dd81fe3	{Kaiser Permanente Medical Center}	{37.892272028185324,-122.05912238352215,Walnut Creek,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Thu Mar 31 21:59:43 +0000 2011	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Thu Mar 31 20:04:33 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Thu Mar 31 20:04:16 +0000 2011	4d3dc5cdaf8ca1430af90ef7	{Magic Cuts}	{37.856266,-122.125163,,,United States}	{Shop & Service,}
+2582	Thu Mar 31 16:47:31 +0000 2011	4add0893f964a5209d6321e3	{Starbucks}	{37.979716,-122.05644249916077,Concord,CA,United States}	{Food,}
+2582	Wed Mar 30 22:23:25 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Wed Mar 30 19:42:56 +0000 2011	455ad6b4f964a520573d1fe3	{Target}	{37.90491041711295,-122.06429418389038,Walnut Creek,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Wed Mar 30 19:34:09 +0000 2011	4a70b3f9f964a5203dd81fe3	{Kaiser Permanente Medical Center}	{37.892272028185324,-122.05912238352215,Walnut Creek,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Wed Mar 30 18:00:23 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Wed Mar 30 06:43:28 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Tue Mar 29 21:02:58 +0000 2011	455ad6b4f964a520573d1fe3	{Target}	{37.90491041711295,-122.06429418389038,Walnut Creek,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Tue Mar 29 20:30:58 +0000 2011	4a6ce9dbf964a5200cd21fe3	{Trader Joe's}	{37.893222,-122.060814,Walnut Creek,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Tue Mar 29 20:24:18 +0000 2011	4bef46f32ff520a1ad64e8a2	{Pet Food Express}	{37.89301892192484,-122.06087593998552,Walnut Creek,CA,United States}	{Shop & Service,}
+2582	Tue Mar 29 19:03:50 +0000 2011	4b6db8b0f964a52097892ce3	{Shell Ridge Open Space}	{37.89428814880647,-122.03056207010617,,CA,United States}	{Outdoors & Recreation,}
+2582	Tue Mar 29 18:24:26 +0000 2011	4a70b3f9f964a5203dd81fe3	{Kaiser Permanente Medical Center}	{37.892272028185324,-122.05912238352215,Walnut Creek,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Tue Mar 29 17:22:03 +0000 2011	4a8748c2f964a520a10320e3	{REI}	{37.968448992072545,-122.056451,Concord,CA,United States}	{Shop & Service,}
+2582	Tue Mar 29 17:13:36 +0000 2011	4b14c190f964a52052a623e3	{The Home Depot}	{37.975589291472005,-122.05436205973018,Concord,CA,United States}	{Shop & Service,Food,}
+2582	Tue Mar 29 16:35:49 +0000 2011	4b1c17e0f964a520ff0124e3	{HomeGoods}	{37.85606809079934,-122.12605926210892,Moraga,CA,United States}	{Shop & Service,}
+2582	Mon Mar 28 21:45:08 +0000 2011	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Mon Mar 28 21:39:48 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Mon Mar 28 20:42:38 +0000 2011	4bcd048468f976b00fc76383	{Mulholland Ridge}	{37.85909965683415,-122.13715553283691,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Mon Mar 28 19:48:08 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon Mar 28 19:28:23 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Mon Mar 28 17:18:45 +0000 2011	445a2c5ff964a520e2321fe3	{IKEA}	{37.830903,-122.292444,Emeryville,CA,United States}	{Shop & Service,}
+2582	Sat Mar 26 01:19:45 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sat Mar 26 01:02:29 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Sat Mar 26 00:04:34 +0000 2011	4c0932d5ffb8c9b6a8786961	{Corporate Terrace}	{37.89368616162871,-122.11516112461216,Lafayette,CA,United States}	{Professional & Other Places,}
+2582	Fri Mar 25 20:50:43 +0000 2011	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Thu Mar 24 22:53:06 +0000 2011	4a70b3f9f964a5203dd81fe3	{Kaiser Permanente Medical Center}	{37.892272028185324,-122.05912238352215,Walnut Creek,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Thu Mar 24 18:47:38 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Thu Mar 24 18:22:06 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Thu Mar 24 16:46:57 +0000 2011	4c0932d5ffb8c9b6a8786961	{Corporate Terrace}	{37.89368616162871,-122.11516112461216,Lafayette,CA,United States}	{Professional & Other Places,}
+2582	Wed Mar 23 21:47:10 +0000 2011	4b39812bf964a520515d25e3	{CVS/pharmacy}	{37.85670055,-122.12578102,Moraga,CA,United States}	{Shop & Service,}
+2582	Wed Mar 23 21:12:26 +0000 2011	4ae77fb2f964a520e2ab21e3	{Moraga Library}	{37.84096039474869,-122.12286480746351,Moraga,CA,United States}	{Professional & Other Places,}
+2582	Wed Mar 23 20:41:49 +0000 2011	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Wed Mar 23 20:35:05 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue Mar 22 23:54:39 +0000 2011	4b6639acf964a520b8192be3	{Safeway}	{37.83614910339103,-122.12851604401376,Moraga,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Tue Mar 22 23:48:31 +0000 2011	4ae77fb2f964a520e2ab21e3	{Moraga Library}	{37.84096039474869,-122.12286480746351,Moraga,CA,United States}	{Professional & Other Places,}
+2582	Tue Mar 22 20:42:56 +0000 2011	4a70b3f9f964a5203dd81fe3	{Kaiser Permanente Medical Center}	{37.892272028185324,-122.05912238352215,Walnut Creek,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Tue Mar 22 18:12:03 +0000 2011	4a70b3f9f964a5203dd81fe3	{Kaiser Permanente Medical Center}	{37.892272028185324,-122.05912238352215,Walnut Creek,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Mon Mar 21 01:16:12 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sun Mar 20 18:07:20 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Sun Mar 20 07:40:50 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Sun Mar 20 03:17:50 +0000 2011	4b39812bf964a520515d25e3	{CVS/pharmacy}	{37.85670055,-122.12578102,Moraga,CA,United States}	{Shop & Service,}
+2582	Sun Mar 20 03:17:37 +0000 2011	4bb2627414cfd13a57dd14ab	{Burger King}	{37.858722,-122.124596,Moraga,CA,United States}	{Food,}
+2582	Sat Mar 19 22:06:38 +0000 2011	4d829ecd81fdb1f77e02d7bf	{Shish Kabab Show}	{37.860254645347595,-122.1258339,Moraga,CA,United States}	{Food,}
+2582	Sat Mar 19 21:54:46 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sat Mar 19 21:48:18 +0000 2011	4ba66489f964a520924d39e3	{T.J.maxx}	{37.858311881591106,-122.12561130523682,Moraga,CA,United States}	{Shop & Service,}
+2582	Sat Mar 19 21:42:37 +0000 2011	4d829ecd81fdb1f77e02d7bf	{Shish Kabab Show}	{37.860254645347595,-122.1258339,Moraga,CA,United States}	{Food,}
+2582	Fri Mar 18 18:50:34 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Fri Mar 18 17:35:21 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Fri Mar 18 16:40:26 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Fri Mar 18 16:36:27 +0000 2011	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Thu Mar 17 18:18:52 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Thu Mar 17 16:51:54 +0000 2011	4b39812bf964a520515d25e3	{CVS/pharmacy}	{37.85670055,-122.12578102,Moraga,CA,United States}	{Shop & Service,}
+2582	Thu Mar 17 16:50:36 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Thu Mar 17 00:44:20 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Wed Mar 16 21:06:39 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Wed Mar 16 20:43:18 +0000 2011	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Tue Mar 15 22:19:04 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Tue Mar 15 22:00:34 +0000 2011	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Tue Mar 15 21:15:54 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Tue Mar 15 16:34:58 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue Mar 15 00:48:34 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Tue Mar 15 00:44:58 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue Mar 15 00:24:10 +0000 2011	4b6639acf964a520b8192be3	{Safeway}	{37.83614910339103,-122.12851604401376,Moraga,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Mon Mar 14 23:24:28 +0000 2011	4aa568f8f964a5203b4820e3	{Lafayette Community Center}	{37.86535772098547,-122.0992195798926,Lafayette,CA,United States}	{}
+2582	Mon Mar 14 23:03:06 +0000 2011	4bd0738aa8b3a593d2db635f	{Lafayette - Moraga Regional Trail}	{37.859529721887085,-122.10042886776847,Lafayette,CA,United States}	{Outdoors & Recreation,}
+2582	Sun Mar 13 20:18:19 +0000 2011	4ad9e8b6f964a520c41b21e3	{Terzetto Cuisine}	{37.835603,-122.127722,Moraga,CA,United States}	{Food,}
+2582	Sat Mar 12 22:16:37 +0000 2011	4cc8eb5e2ecd9c7477fcf94c	{Macy's for Men}	{37.96673362739214,-122.05993812375128,Concord,CA,United States}	{Shop & Service,}
+2582	Sat Mar 12 22:16:05 +0000 2011	48276710f964a520a54f1fe3	{Red Robin Gourmet Burgers}	{37.966511,-122.059948,Concord,CA,United States}	{Food,}
+2582	Sat Mar 12 20:06:11 +0000 2011	4b4d143ff964a52031ca26e3	{Campolindo High School}	{37.866692423592596,-122.1270796929836,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Sat Mar 12 17:52:08 +0000 2011	4be5bd2fbcef2d7f7a3d04e5	{Lafayette Tennis Club}	{37.899575,-122.091366,,CA,United States}	{Stadium,Arts & Entertainment,}
+2582	Sat Mar 12 17:42:19 +0000 2011	4be17e7b8e2962b5d4579b0a	{Starbucks}	{37.89517,-122.10494849,Lafayette,CA,United States}	{Food,}
+2582	Fri Mar 11 17:42:48 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Thu Mar 10 17:39:44 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Wed Mar 09 20:36:03 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Wed Mar 09 19:57:41 +0000 2011	4b1f0afdf964a5203e2324e3	{Sports Basement}	{37.91829703,-122.037118,Walnut Creek,CA,United States}	{Shop & Service,}
+2582	Wed Mar 09 19:57:30 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue Mar 08 17:33:05 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue Mar 08 00:19:13 +0000 2011	4bd0738aa8b3a593d2db635f	{Lafayette - Moraga Regional Trail}	{37.859529721887085,-122.10042886776847,Lafayette,CA,United States}	{Outdoors & Recreation,}
+2582	Mon Mar 07 18:03:54 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sat Mar 05 21:30:54 +0000 2011	4ae398a0f964a520169721e3	{Turquoise}	{37.878181,-122.180953,Orinda,CA,United States}	{Food,}
+2582	Sat Mar 05 21:30:54 +0000 2011	4ae398a0f964a520169721e3	{Turquoise}	{37.878181,-122.180953,Orinda,CA,United States}	{Food,}
+2582	Sat Mar 05 18:01:33 +0000 2011	4be5bd2fbcef2d7f7a3d04e5	{Lafayette Tennis Club}	{37.899575,-122.091366,,CA,United States}	{Stadium,Arts & Entertainment,}
+2582	Sat Mar 05 17:51:45 +0000 2011	4a411e40f964a520caa41fe3	{Peet's Coffee & Tea}	{37.89307729604571,-122.11808958712119,Lafayette,CA,United States}	{Food,}
+2582	Fri Mar 04 20:57:29 +0000 2011	4bcd048468f976b00fc76383	{Mulholland Ridge}	{37.85909965683415,-122.13715553283691,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Fri Mar 04 19:45:23 +0000 2011	4cf96ca4c51fa1cd8a73da2b	{Rheem Veterinary Medical Hospital}	{37.85714206500885,-122.12424575518098,Moraga,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Fri Mar 04 18:33:19 +0000 2011	4a70b3f9f964a5203dd81fe3	{Kaiser Permanente Medical Center}	{37.892272028185324,-122.05912238352215,Walnut Creek,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Fri Mar 04 18:32:27 +0000 2011	4a6ce9dbf964a5200cd21fe3	{Trader Joe's}	{37.893222,-122.060814,Walnut Creek,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Fri Mar 04 17:31:53 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Thu Mar 03 17:37:18 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Wed Mar 02 20:54:08 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Wed Mar 02 20:40:31 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Mon Feb 28 23:36:36 +0000 2011	4aa568f8f964a5203b4820e3	{Lafayette Community Center}	{37.86535772098547,-122.0992195798926,Lafayette,CA,United States}	{}
+2582	Mon Feb 28 23:08:06 +0000 2011	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Mon Feb 28 19:30:22 +0000 2011	4bcea50cb6c49c74dc869791	{Pet Food Express}	{37.89163662900263,-122.12394627404286,Lafayette,CA,United States}	{Shop & Service,}
+2582	Mon Feb 28 18:10:02 +0000 2011	4b6db8b0f964a52097892ce3	{Shell Ridge Open Space}	{37.89428814880647,-122.03056207010617,,CA,United States}	{Outdoors & Recreation,}
+2582	Mon Feb 28 17:37:18 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sun Feb 27 23:31:48 +0000 2011	4af5f75bf964a52090ff21e3	{Encore Gym}	{37.93885621479061,-122.05181929350874,Concord,CA,United States}	{Shop & Service,}
+2582	Sun Feb 27 23:26:36 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sun Feb 27 21:43:18 +0000 2011	4ad98182f964a520381a21e3	{Panera Bread}	{37.97028127865716,-122.05628666747224,Concord,CA,United States}	{Food,}
+2582	Sun Feb 27 00:58:41 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Sat Feb 26 23:04:56 +0000 2011	4bb95a40cf2fc9b69581a002	{Locke ca}	{38.24991508977586,-121.51016593693619,Walnut Grove,CA,United States}	{}
+2582	Sat Feb 26 20:32:21 +0000 2011	4b3813c9f964a520544b25e3	{Tahoe Joe's Famous Steakhouse}	{38.36528118626809,-121.9586564477653,Vacaville,CA,United States}	{Food,}
+2582	Sat Feb 26 18:14:19 +0000 2011	4be5bd2fbcef2d7f7a3d04e5	{Lafayette Tennis Club}	{37.899575,-122.091366,,CA,United States}	{Stadium,Arts & Entertainment,}
+2582	Sat Feb 26 17:44:55 +0000 2011	4a411e40f964a520caa41fe3	{Peet's Coffee & Tea}	{37.89307729604571,-122.11808958712119,Lafayette,CA,United States}	{Food,}
+2582	Fri Feb 25 21:54:22 +0000 2011	4d6825092433a143bf8f55e0	{Red Chopstick}	{37.855133,-122.12453305721283,Moraga,CA,United States}	{Food,}
+2582	Fri Feb 25 17:33:50 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Thu Feb 24 19:55:22 +0000 2011	4b6db8b0f964a52097892ce3	{Shell Ridge Open Space}	{37.89428814880647,-122.03056207010617,,CA,United States}	{Outdoors & Recreation,}
+2582	Thu Feb 24 17:50:31 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Thu Feb 24 05:08:32 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Thu Feb 24 02:17:01 +0000 2011	4abea642f964a520138f20e3	{The Cheesecake Factory}	{37.895819270467236,-122.06175327301025,Walnut Creek,CA,United States}	{Food,}
+2582	Wed Feb 23 23:55:25 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Wed Feb 23 21:44:25 +0000 2011	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Wed Feb 23 20:32:52 +0000 2011	4bff286cc30a2d7f2fa2101d	{Little Hearty Noodle}	{37.856993,-122.12585270404816,Moraga,CA,United States}	{Food,}
+2582	Wed Feb 23 20:32:05 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Wed Feb 23 20:31:31 +0000 2011	4cc9b7585c7e8cfa76924666	{Walnut Creek Chrysler Jeep Dodge}	{37.91359409094012,-122.06510988528996,Walnut Creek,CA,United States}	{Shop & Service,}
+2582	Tue Feb 22 22:14:13 +0000 2011	4cc9b7585c7e8cfa76924666	{Walnut Creek Chrysler Jeep Dodge}	{37.91359409094012,-122.06510988528996,Walnut Creek,CA,United States}	{Shop & Service,}
+2582	Tue Feb 22 21:18:00 +0000 2011	4c4a0aca46240f47fed045f1	{Ajisai Japanese Grill & Sushi}	{37.911348233333335,-122.065119,Walnut Creek,CA,United States}	{Food,}
+2582	Tue Feb 22 18:03:47 +0000 2011	455ad6b4f964a520573d1fe3	{Target}	{37.90491041711295,-122.06429418389038,Walnut Creek,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Tue Feb 22 01:19:45 +0000 2011	4bcd048468f976b00fc76383	{Mulholland Ridge}	{37.85909965683415,-122.13715553283691,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Mon Feb 21 23:03:30 +0000 2011	4a75f04ef964a520bde11fe3	{The Counter}	{37.90236353352196,-122.0645534992218,Walnut Creek,CA,United States}	{Food,}
+2582	Mon Feb 21 21:54:52 +0000 2011	4cc9b7585c7e8cfa76924666	{Walnut Creek Chrysler Jeep Dodge}	{37.91359409094012,-122.06510988528996,Walnut Creek,CA,United States}	{Shop & Service,}
+2582	Mon Feb 21 00:14:28 +0000 2011	471d3154f964a520b74b1fe3	{Europa}	{37.878254,-122.181084,Orinda,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Fri Feb 18 21:59:11 +0000 2011	4ad98182f964a520381a21e3	{Panera Bread}	{37.97028127865716,-122.05628666747224,Concord,CA,United States}	{Food,}
+2582	Tue Feb 15 22:31:37 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon Feb 14 01:35:24 +0000 2011	4bcd048468f976b00fc76383	{Mulholland Ridge}	{37.85909965683415,-122.13715553283691,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Mon Feb 14 00:44:32 +0000 2011	4bd36ea6caff95211bedd4f0	{Loard's Ice Cream & Candy}	{37.83617022773247,-122.12736252809512,Moraga,CA,United States}	{Food,}
+2582	Mon Feb 14 00:23:52 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon Feb 14 00:15:55 +0000 2011	4b4d143ff964a52031ca26e3	{Campolindo High School}	{37.866692423592596,-122.1270796929836,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Sun Feb 13 01:02:18 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Sun Feb 13 01:02:18 +0000 2011	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Sat Feb 12 22:51:24 +0000 2011	455ad6b4f964a520573d1fe3	{Target}	{37.90491041711295,-122.06429418389038,Walnut Creek,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Sat Feb 12 20:49:10 +0000 2011	4ad98182f964a520381a21e3	{Panera Bread}	{37.97028127865716,-122.05628666747224,Concord,CA,United States}	{Food,}
+2582	Sat Feb 12 17:44:13 +0000 2011	4be17e7b8e2962b5d4579b0a	{Starbucks}	{37.89517,-122.10494849,Lafayette,CA,United States}	{Food,}
+2582	Sat Feb 12 17:30:15 +0000 2011	4be5bd2fbcef2d7f7a3d04e5	{Lafayette Tennis Club}	{37.899575,-122.091366,,CA,United States}	{Stadium,Arts & Entertainment,}
+2582	Fri Feb 11 18:41:19 +0000 2011	4a8748c2f964a520a10320e3	{REI}	{37.968448992072545,-122.056451,Concord,CA,United States}	{Shop & Service,}
+2582	Fri Feb 11 17:21:34 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Thu Feb 10 23:28:25 +0000 2011	4ae77fb2f964a520e2ab21e3	{Moraga Library}	{37.84096039474869,-122.12286480746351,Moraga,CA,United States}	{Professional & Other Places,}
+2582	Thu Feb 10 23:28:25 +0000 2011	4ae77fb2f964a520e2ab21e3	{Moraga Library}	{37.84096039474869,-122.12286480746351,Moraga,CA,United States}	{Professional & Other Places,}
+2582	Thu Feb 10 19:24:26 +0000 2011	4b6db8b0f964a52097892ce3	{Shell Ridge Open Space}	{37.89428814880647,-122.03056207010617,,CA,United States}	{Outdoors & Recreation,}
+2582	Wed Feb 09 19:40:13 +0000 2011	4bcea50cb6c49c74dc869791	{Pet Food Express}	{37.89163662900263,-122.12394627404286,Lafayette,CA,United States}	{Shop & Service,}
+2582	Wed Feb 09 19:15:09 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Wed Feb 09 02:06:54 +0000 2011	47276c40f964a520e34b1fe3	{Outback Steakhouse}	{37.95853489400749,-122.0575428302606,Pleasant Hill,CA,United States}	{Food,}
+2582	Wed Feb 09 01:08:41 +0000 2011	4b6e1341f964a52094a82ce3	{Sears}	{37.96630076079049,-122.06054853760439,Concord,CA,United States}	{Shop & Service,}
+2582	Tue Feb 08 17:29:23 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue Feb 08 00:57:30 +0000 2011	4aa568f8f964a5203b4820e3	{Lafayette Community Center}	{37.86535772098547,-122.0992195798926,Lafayette,CA,United States}	{}
+2582	Tue Feb 08 00:57:30 +0000 2011	4aa568f8f964a5203b4820e3	{Lafayette Community Center}	{37.86535772098547,-122.0992195798926,Lafayette,CA,United States}	{}
+2582	Mon Feb 07 17:30:40 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sat Feb 05 21:41:22 +0000 2011	4a75f04ef964a520bde11fe3	{The Counter}	{37.90236353352196,-122.0645534992218,Walnut Creek,CA,United States}	{Food,}
+2582	Sat Feb 05 18:11:59 +0000 2011	4be5bd2fbcef2d7f7a3d04e5	{Lafayette Tennis Club}	{37.899575,-122.091366,,CA,United States}	{Stadium,Arts & Entertainment,}
+2582	Sat Feb 05 18:11:59 +0000 2011	4be5bd2fbcef2d7f7a3d04e5	{Lafayette Tennis Club}	{37.899575,-122.091366,,CA,United States}	{Stadium,Arts & Entertainment,}
+2582	Fri Feb 04 19:25:06 +0000 2011	4bcd048468f976b00fc76383	{Mulholland Ridge}	{37.85909965683415,-122.13715553283691,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Fri Feb 04 18:00:00 +0000 2011	4bc25d41f8219c74bacbb410	{Barnes & Noble}	{37.978445615347816,-122.06751256197691,Pleasant Hill,CA,United States}	{Shop & Service,}
+2582	Fri Feb 04 17:33:54 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Thu Feb 03 19:37:03 +0000 2011	43a47bc4f964a5204b2c1fe3	{Berkeley Bowl}	{37.857178,-122.267337,Berkeley,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Thu Feb 03 17:33:51 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Wed Feb 02 21:48:10 +0000 2011	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Wed Feb 02 21:40:28 +0000 2011	4ae77fb2f964a520e2ab21e3	{Moraga Library}	{37.84096039474869,-122.12286480746351,Moraga,CA,United States}	{Professional & Other Places,}
+2582	Wed Feb 02 21:27:55 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue Feb 01 18:39:54 +0000 2011	4b1f0afdf964a5203e2324e3	{Sports Basement}	{37.91829703,-122.037118,Walnut Creek,CA,United States}	{Shop & Service,}
+2582	Tue Feb 01 18:39:53 +0000 2011	4b1f0afdf964a5203e2324e3	{Sports Basement}	{37.91829703,-122.037118,Walnut Creek,CA,United States}	{Shop & Service,}
+2582	Tue Feb 01 17:38:52 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sat Jan 29 20:47:20 +0000 2011	4ae398a0f964a520169721e3	{Turquoise}	{37.878181,-122.180953,Orinda,CA,United States}	{Food,}
+2582	Sat Jan 29 17:41:42 +0000 2011	4be5bd2fbcef2d7f7a3d04e5	{Lafayette Tennis Club}	{37.899575,-122.091366,,CA,United States}	{Stadium,Arts & Entertainment,}
+2582	Fri Jan 28 20:21:24 +0000 2011	4a6ce9dbf964a5200cd21fe3	{Trader Joe's}	{37.893222,-122.060814,Walnut Creek,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Fri Jan 28 20:07:35 +0000 2011	4bef46f32ff520a1ad64e8a2	{Pet Food Express}	{37.89301892192484,-122.06087593998552,Walnut Creek,CA,United States}	{Shop & Service,}
+2582	Fri Jan 28 20:07:35 +0000 2011	4bef46f32ff520a1ad64e8a2	{Pet Food Express}	{37.89301892192484,-122.06087593998552,Walnut Creek,CA,United States}	{Shop & Service,}
+2582	Fri Jan 28 19:04:13 +0000 2011	4b6db8b0f964a52097892ce3	{Shell Ridge Open Space}	{37.89428814880647,-122.03056207010617,,CA,United States}	{Outdoors & Recreation,}
+2582	Thu Jan 27 23:26:15 +0000 2011	4ae77fb2f964a520e2ab21e3	{Moraga Library}	{37.84096039474869,-122.12286480746351,Moraga,CA,United States}	{Professional & Other Places,}
+2582	Thu Jan 27 19:31:05 +0000 2011	4c0f036e15c2ef3bae591b08	{Contra Costa Animal Services}	{37.99904281370573,-122.07145771946381,Martinez,CA,United States}	{Professional & Other Places,}
+2582	Thu Jan 27 18:41:22 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Wed Jan 26 22:12:02 +0000 2011	4ba5152af964a5208dda38e3	{US Post Office}	{37.859048984369615,-122.12531611616397,Moraga,CA,United States}	{Professional & Other Places,}
+2582	Wed Jan 26 21:44:53 +0000 2011	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Tue Jan 25 17:37:58 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue Jan 25 00:28:48 +0000 2011	4aa568f8f964a5203b4820e3	{Lafayette Community Center}	{37.86535772098547,-122.0992195798926,Lafayette,CA,United States}	{}
+2582	Mon Jan 24 18:32:53 +0000 2011	4d3dc5cdaf8ca1430af90ef7	{Magic Cuts}	{37.856266,-122.125163,,,United States}	{Shop & Service,}
+2582	Mon Jan 24 18:06:09 +0000 2011	4b5341d4f964a5207f9427e3	{Trader Joe's}	{37.89044766342499,-122.1270242350317,Lafayette,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Mon Jan 24 17:46:50 +0000 2011	4be17e7b8e2962b5d4579b0a	{Starbucks}	{37.89517,-122.10494849,Lafayette,CA,United States}	{Food,}
+2582	Mon Jan 24 03:50:09 +0000 2011	4bc2426cb492d13af645a760	{Marshalls}	{37.942848781628186,-122.05764626659119,Pleasant Hill,CA,United States}	{Shop & Service,}
+2582	Mon Jan 24 02:46:31 +0000 2011	47276c40f964a520e34b1fe3	{Outback Steakhouse}	{37.95853489400749,-122.0575428302606,Pleasant Hill,CA,United States}	{Food,}
+2582	Mon Jan 24 02:23:48 +0000 2011	4b1f0afdf964a5203e2324e3	{Sports Basement}	{37.91829703,-122.037118,Walnut Creek,CA,United States}	{Shop & Service,}
+2582	Mon Jan 24 00:51:35 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sat Jan 22 20:38:45 +0000 2011	4b0586bcf964a520e76b22e3	{Vacaville Premium Outlets}	{38.36654319132057,-121.95573091506958,Vacaville,CA,United States}	{Shop & Service,}
+2582	Sat Jan 22 18:45:23 +0000 2011	4a6e185ff964a520e4d31fe3	{Starbucks}	{37.89168520439532,-122.12002521290634,Lafayette,CA,United States}	{Travel & Transport,Shop & Service,Food,}
+2582	Sat Jan 22 18:12:02 +0000 2011	4be5bd2fbcef2d7f7a3d04e5	{Lafayette Tennis Club}	{37.899575,-122.091366,,CA,United States}	{Stadium,Arts & Entertainment,}
+2582	Wed Jan 19 21:51:12 +0000 2011	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Wed Jan 19 21:23:36 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue Jan 18 20:50:10 +0000 2011	445a2c5ff964a520e2321fe3	{IKEA}	{37.830903,-122.292444,Emeryville,CA,United States}	{Shop & Service,}
+2582	Tue Jan 18 18:33:17 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon Jan 17 23:22:37 +0000 2011	4ab04561f964a520c56620e3	{Pump It Up}	{37.964805,-122.050987,Concord,CA,United States}	{Arts & Entertainment,}
+2582	Mon Jan 17 02:42:42 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sun Jan 16 02:28:07 +0000 2011	4c1586c27f7f2d7faab3e268	{Don Jose's}	{37.85115,-122.031838,Alamo,CA,United States}	{Food,}
+2582	Fri Jan 14 22:46:10 +0000 2011	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Fri Jan 14 17:40:06 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Thu Jan 13 19:50:28 +0000 2011	445a2c5ff964a520e2321fe3	{IKEA}	{37.830903,-122.292444,Emeryville,CA,United States}	{Shop & Service,}
+2582	Thu Jan 13 17:39:45 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue Jan 11 22:52:32 +0000 2011	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Tue Jan 11 17:37:14 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue Jan 11 00:59:16 +0000 2011	4bcd048468f976b00fc76383	{Mulholland Ridge}	{37.85909965683415,-122.13715553283691,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Mon Jan 10 22:43:42 +0000 2011	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Mon Jan 10 02:10:51 +0000 2011	4c0c1d426071a5935e51e232	{Sky High Sports}	{37.96459209,-122.051705,Concord,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2582	Mon Jan 10 01:37:58 +0000 2011	4add0893f964a5209d6321e3	{Starbucks}	{37.979716,-122.05644249916077,Concord,CA,United States}	{Food,}
+2582	Mon Jan 10 01:17:37 +0000 2011	4a4ebd12f964a520ffae1fe3	{Sam's Club}	{37.981348233237696,-122.05480098724365,Concord,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Sat Jan 08 22:26:43 +0000 2011	471d3154f964a520b74b1fe3	{Europa}	{37.878254,-122.181084,Orinda,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Sat Jan 08 22:26:43 +0000 2011	471d3154f964a520b74b1fe3	{Europa}	{37.878254,-122.181084,Orinda,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Sat Jan 08 21:24:52 +0000 2011	445a2c5ff964a520e2321fe3	{IKEA}	{37.830903,-122.292444,Emeryville,CA,United States}	{Shop & Service,}
+2582	Sat Jan 08 20:06:05 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+2582	Sat Jan 08 04:18:14 +0000 2011	47276c40f964a520e34b1fe3	{Outback Steakhouse}	{37.95853489400749,-122.0575428302606,Pleasant Hill,CA,United States}	{Food,}
+2582	Thu Jan 06 22:59:31 +0000 2011	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Thu Jan 06 22:59:31 +0000 2011	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Thu Jan 06 17:42:42 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Wed Jan 05 22:32:44 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Wed Jan 05 03:45:41 +0000 2011	4aaaa783f964a520cf5620e3	{Mangia Ristorante}	{37.891022,-122.11915845,Lafayette,CA,United States}	{Food,}
+2582	Tue Jan 04 21:40:47 +0000 2011	4bc2426cb492d13af645a760	{Marshalls}	{37.942848781628186,-122.05764626659119,Pleasant Hill,CA,United States}	{Shop & Service,}
+2582	Tue Jan 04 19:04:40 +0000 2011	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue Jan 04 19:02:12 +0000 2011	4cf96ca4c51fa1cd8a73da2b	{Rheem Veterinary Medical Hospital}	{37.85714206500885,-122.12424575518098,Moraga,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Tue Jan 04 19:02:12 +0000 2011	4cf96ca4c51fa1cd8a73da2b	{Rheem Veterinary Medical Hospital}	{37.85714206500885,-122.12424575518098,Moraga,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Fri Dec 31 00:19:41 +0000 2010	4b1f0afdf964a5203e2324e3	{Sports Basement}	{37.91829703,-122.037118,Walnut Creek,CA,United States}	{Shop & Service,}
+2582	Fri Dec 31 00:19:41 +0000 2010	4b1f0afdf964a5203e2324e3	{Sports Basement}	{37.91829703,-122.037118,Walnut Creek,CA,United States}	{Shop & Service,}
+2582	Thu Dec 30 23:31:24 +0000 2010	4ad98182f964a520381a21e3	{Panera Bread}	{37.97028127865716,-122.05628666747224,Concord,CA,United States}	{Food,}
+2582	Thu Dec 30 00:42:54 +0000 2010	437e6b00f964a520b82a1fe3	{de Young Museum}	{37.77078258489315,-122.46798992156982,San Francisco,CA,United States}	{Outdoors & Recreation,Museum,Arts & Entertainment,}
+2582	Wed Dec 29 21:42:57 +0000 2010	445a74d6f964a520e5321fe3	{Caffe Puccini}	{37.79896116048261,-122.40826984348426,San Francisco,CA,United States}	{Food,}
+2582	Tue Dec 28 23:06:44 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue Dec 28 21:13:36 +0000 2010	485c4ac9f964a520ca501fe3	{Black Bear Diner}	{37.9274227333111,-122.04045302300085,Walnut Creek,CA,United States}	{Food,}
+2582	Tue Dec 28 21:13:36 +0000 2010	485c4ac9f964a520ca501fe3	{Black Bear Diner}	{37.9274227333111,-122.04045302300085,Walnut Creek,CA,United States}	{Food,}
+2582	Mon Dec 27 22:56:01 +0000 2010	4b5383a1f964a52096a027e3	{Pasta Pomodoro}	{37.89875706466722,-122.5151002407074,Mill Valley,CA,United States}	{Food,}
+2582	Mon Dec 27 20:09:22 +0000 2010	4bcd048468f976b00fc76383	{Mulholland Ridge}	{37.85909965683415,-122.13715553283691,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Mon Dec 27 18:05:41 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon Dec 27 01:08:51 +0000 2010	4a3c3b58f964a5204aa11fe3	{Starbucks}	{37.94878333945468,-122.05960516929531,Pleasant Hill,CA,United States}	{Food,}
+2582	Mon Dec 27 00:05:35 +0000 2010	47276c40f964a520e34b1fe3	{Outback Steakhouse}	{37.95853489400749,-122.0575428302606,Pleasant Hill,CA,United States}	{Food,}
+2582	Sat Dec 25 22:38:27 +0000 2010	4a6e185ff964a520e4d31fe3	{Starbucks}	{37.89168520439532,-122.12002521290634,Lafayette,CA,United States}	{Travel & Transport,Shop & Service,Food,}
+2582	Fri Dec 24 19:57:55 +0000 2010	4b6639acf964a520b8192be3	{Safeway}	{37.83614910339103,-122.12851604401376,Moraga,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Thu Dec 23 21:38:41 +0000 2010	4bcd048468f976b00fc76383	{Mulholland Ridge}	{37.85909965683415,-122.13715553283691,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Thu Dec 23 00:05:05 +0000 2010	4b33e622f964a5207b2125e3	{The Childrens Place}	{37.895285,-122.059765,Walnut Creek,CA,United States}	{Shop & Service,Clothing Store,}
+2582	Wed Dec 22 23:01:30 +0000 2010	4aadc55cf964a5206b6120e3	{California Pizza Kitchen}	{37.896444,-122.059749,Walnut Creek,CA,United States}	{Food,}
+2582	Tue Dec 21 23:38:14 +0000 2010	4a32e0a7f964a520b29a1fe3	{Peet's Coffee & Tea}	{37.878512,-122.180968,Orinda,CA,United States}	{Food,}
+2582	Tue Dec 21 23:03:56 +0000 2010	471d3154f964a520b74b1fe3	{Europa}	{37.878254,-122.181084,Orinda,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Tue Dec 21 00:31:20 +0000 2010	4a70b3f9f964a5203dd81fe3	{Kaiser Permanente Medical Center}	{37.892272028185324,-122.05912238352215,Walnut Creek,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Mon Dec 20 18:28:13 +0000 2010	4c213ffb9a67a593e3adda87	{Kaiser Permanente - Park Shadelands}	{37.92793185214007,-122.02910776899054,Walnut Creek,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Fri Dec 17 18:24:17 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Fri Dec 17 01:44:31 +0000 2010	4b522a51f964a520d76c27e3	{Fashion Knit}	{37.906119908940894,-122.0601989373626,Walnut Creek,CA,United States}	{}
+2582	Thu Dec 16 22:13:19 +0000 2010	4c9114ae57e5b60c4aa65d1c	{NVF's}	{37.859901,-122.1342,Moraga,CA,United States}	{}
+2582	Thu Dec 16 21:33:41 +0000 2010	4b6db8b0f964a52097892ce3	{Shell Ridge Open Space}	{37.89428814880647,-122.03056207010617,,CA,United States}	{Outdoors & Recreation,}
+2582	Thu Dec 16 18:45:18 +0000 2010	4b9dc9d1f964a520dabd36e3	{Trade Rite}	{37.351002,-121.860095,San Jose,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+2582	Thu Dec 16 17:29:16 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Wed Dec 15 21:42:00 +0000 2010	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Wed Dec 15 20:27:29 +0000 2010	4aaeeaa2f964a520bb6320e3	{High Tech Burrito}	{37.91740073338493,-122.03782218381711,Walnut Creek,CA,United States}	{Food,}
+2582	Wed Dec 15 20:01:30 +0000 2010	4b1f0afdf964a5203e2324e3	{Sports Basement}	{37.91829703,-122.037118,Walnut Creek,CA,United States}	{Shop & Service,}
+2582	Wed Dec 15 19:06:25 +0000 2010	4ba66489f964a520924d39e3	{T.J.maxx}	{37.858311881591106,-122.12561130523682,Moraga,CA,United States}	{Shop & Service,}
+2582	Wed Dec 15 04:41:22 +0000 2010	4ae38087f964a520eb9521e3	{Barnes & Noble}	{37.636065668436174,-122.41852462291718,San Bruno,CA,United States}	{Shop & Service,}
+2582	Wed Dec 15 03:52:13 +0000 2010	4adb6ba7f964a520442721e3	{SFO Cell Phone Waiting Lot}	{37.63306219274904,-122.4001407623291,San Francisco,CA,United States}	{Travel & Transport,Professional & Other Places,}
+2582	Tue Dec 14 17:44:39 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon Dec 13 21:27:26 +0000 2010	4bcd048468f976b00fc76383	{Mulholland Ridge}	{37.85909965683415,-122.13715553283691,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Sun Dec 12 23:56:23 +0000 2010	4b9d6b48f964a52079ab36e3	{Starbucks}	{37.898162318967465,-122.06017881631851,Walnut Creek,CA,United States}	{Food,}
+2582	Sun Dec 12 21:49:35 +0000 2010	485c4ac9f964a520ca501fe3	{Black Bear Diner}	{37.9274227333111,-122.04045302300085,Walnut Creek,CA,United States}	{Food,}
+2582	Sun Dec 12 21:49:35 +0000 2010	485c4ac9f964a520ca501fe3	{Black Bear Diner}	{37.9274227333111,-122.04045302300085,Walnut Creek,CA,United States}	{Food,}
+2582	Sun Dec 12 19:52:03 +0000 2010	4bcd048468f976b00fc76383	{Mulholland Ridge}	{37.85909965683415,-122.13715553283691,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Sun Dec 12 00:58:49 +0000 2010	4b4fca6cf964a520851527e3	{Chuck E. Cheese's}	{37.97176688449873,-122.0449708136937,Concord,CA,United States}	{Food,Arts & Entertainment,}
+2582	Sat Dec 11 21:51:49 +0000 2010	4cb9ab9b0180721ed45e9561	{Table 24}	{37.8784664627619,-122.1819579857796,Orinda,CA,United States}	{Food,}
+2582	Fri Dec 10 18:28:37 +0000 2010	445a2c5ff964a520e2321fe3	{IKEA}	{37.830903,-122.292444,Emeryville,CA,United States}	{Shop & Service,}
+2582	Fri Dec 10 17:32:26 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Wed Dec 08 20:46:08 +0000 2010	4a6ce9dbf964a5200cd21fe3	{Trader Joe's}	{37.893222,-122.060814,Walnut Creek,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Wed Dec 08 20:33:23 +0000 2010	4a4f8b77f964a5206aaf1fe3	{Whole Foods Market}	{37.89309478,-122.05555737018585,Walnut Creek,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+2582	Wed Dec 08 19:49:56 +0000 2010	4b6db8b0f964a52097892ce3	{Shell Ridge Open Space}	{37.89428814880647,-122.03056207010617,,CA,United States}	{Outdoors & Recreation,}
+2582	Wed Dec 08 19:26:56 +0000 2010	4a70b3f9f964a5203dd81fe3	{Kaiser Permanente Medical Center}	{37.892272028185324,-122.05912238352215,Walnut Creek,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Wed Dec 08 18:53:00 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue Dec 07 21:03:06 +0000 2010	4bcd048468f976b00fc76383	{Mulholland Ridge}	{37.85909965683415,-122.13715553283691,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Mon Dec 06 21:10:35 +0000 2010	4b6db8b0f964a52097892ce3	{Shell Ridge Open Space}	{37.89428814880647,-122.03056207010617,,CA,United States}	{Outdoors & Recreation,}
+2582	Mon Dec 06 19:12:07 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon Dec 06 17:03:30 +0000 2010	4c213ffb9a67a593e3adda87	{Kaiser Permanente - Park Shadelands}	{37.92793185214007,-122.02910776899054,Walnut Creek,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Mon Dec 06 03:54:20 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sun Dec 05 02:04:49 +0000 2010	47276c40f964a520e34b1fe3	{Outback Steakhouse}	{37.95853489400749,-122.0575428302606,Pleasant Hill,CA,United States}	{Food,}
+2582	Sun Dec 05 01:05:04 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Fri Dec 03 22:18:19 +0000 2010	4cf96ca4c51fa1cd8a73da2b	{Rheem Veterinary Medical Hospital}	{37.85714206500885,-122.12424575518098,Moraga,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Fri Dec 03 19:58:50 +0000 2010	4b2aad9ef964a5208cad24e3	{Lafayette-Moraga Regional Trail}	{37.8861449743126,-122.09736124421369,Lafayette,CA,United States}	{Outdoors & Recreation,}
+2582	Fri Dec 03 17:42:00 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Thu Dec 02 21:22:33 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Thu Dec 02 20:19:24 +0000 2010	4b6db8b0f964a52097892ce3	{Shell Ridge Open Space}	{37.89428814880647,-122.03056207010617,,CA,United States}	{Outdoors & Recreation,}
+2582	Thu Dec 02 20:19:24 +0000 2010	4b6db8b0f964a52097892ce3	{Shell Ridge Open Space}	{37.89428814880647,-122.03056207010617,,CA,United States}	{Outdoors & Recreation,}
+2582	Wed Dec 01 21:24:09 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue Nov 30 21:35:06 +0000 2010	4bef46f32ff520a1ad64e8a2	{Pet Food Express}	{37.89301892192484,-122.06087593998552,Walnut Creek,CA,United States}	{Shop & Service,}
+2582	Tue Nov 30 20:20:25 +0000 2010	4a70b3f9f964a5203dd81fe3	{Kaiser Permanente Medical Center}	{37.892272028185324,-122.05912238352215,Walnut Creek,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Tue Nov 30 19:33:56 +0000 2010	4b6db8b0f964a52097892ce3	{Shell Ridge Open Space}	{37.89428814880647,-122.03056207010617,,CA,United States}	{Outdoors & Recreation,}
+2582	Sat Nov 27 00:09:01 +0000 2010	4a859174f964a5207bfe1fe3	{Hubcaps Diner}	{37.899778,-122.062286,Walnut Creek,CA,United States}	{Food,}
+2582	Thu Nov 25 22:43:23 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Thu Nov 25 01:29:06 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Thu Nov 25 00:08:50 +0000 2010	4bcd048468f976b00fc76383	{Mulholland Ridge}	{37.85909965683415,-122.13715553283691,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Wed Nov 24 20:46:59 +0000 2010	4a411f02f964a520cea41fe3	{Chow - Lafayette}	{37.89075689294413,-122.11996975133202,Lafayette,CA,United States}	{Food,}
+2582	Tue Nov 23 22:17:25 +0000 2010	485c4ac9f964a520ca501fe3	{Black Bear Diner}	{37.9274227333111,-122.04045302300085,Walnut Creek,CA,United States}	{Food,}
+2582	Tue Nov 23 01:09:08 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sat Nov 20 03:33:22 +0000 2010	47276c40f964a520e34b1fe3	{Outback Steakhouse}	{37.95853489400749,-122.0575428302606,Pleasant Hill,CA,United States}	{Food,}
+2582	Thu Nov 18 20:28:01 +0000 2010	4b996266f964a5206e7735e3	{Ranch House Cafe}	{37.836349,-122.12963,Moraga,CA,United States}	{Food,}
+2582	Thu Nov 18 18:24:30 +0000 2010	4bcd048468f976b00fc76383	{Mulholland Ridge}	{37.85909965683415,-122.13715553283691,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Thu Nov 18 17:47:53 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue Nov 16 19:23:44 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon Nov 15 17:43:50 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon Nov 15 03:30:16 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Fri Nov 12 21:57:22 +0000 2010	44a13b90f964a520cf341fe3	{Brewed Awakening}	{37.875726,-122.260226,Berkeley,CA,United States}	{Food,}
+2582	Fri Nov 12 21:56:00 +0000 2010	4b5f5095f964a52088b329e3	{Celia's Mexican Restaurant}	{37.87555872,-122.26009726524353,Berkeley,CA,United States}	{Food,}
+2582	Thu Nov 11 21:46:36 +0000 2010	485c4ac9f964a520ca501fe3	{Black Bear Diner}	{37.9274227333111,-122.04045302300085,Walnut Creek,CA,United States}	{Food,}
+2582	Sun Nov 07 21:11:28 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sun Nov 07 00:20:29 +0000 2010	47276c40f964a520e34b1fe3	{Outback Steakhouse}	{37.95853489400749,-122.0575428302606,Pleasant Hill,CA,United States}	{Food,}
+2582	Sat Nov 06 23:50:37 +0000 2010	4ae77fb2f964a520e2ab21e3	{Moraga Library}	{37.84096039474869,-122.12286480746351,Moraga,CA,United States}	{Professional & Other Places,}
+2582	Sat Nov 06 20:31:56 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sat Nov 06 20:05:23 +0000 2010	4bcf3a41a8b3a593eeca615f	{Lafayette Car Wash & Detail Center}	{37.895750999450684,-122.103177,Lafayette,CA,United States}	{Shop & Service,}
+2582	Sat Nov 06 17:38:54 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Fri Nov 05 16:37:28 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Thu Nov 04 23:31:57 +0000 2010	4b4fca6cf964a520851527e3	{Chuck E. Cheese's}	{37.97176688449873,-122.0449708136937,Concord,CA,United States}	{Food,Arts & Entertainment,}
+2582	Thu Nov 04 16:38:23 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue Nov 02 16:43:15 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon Nov 01 19:15:04 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sat Oct 30 22:55:24 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue Oct 26 18:34:24 +0000 2010	4bcd048468f976b00fc76383	{Mulholland Ridge}	{37.85909965683415,-122.13715553283691,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Mon Oct 25 15:31:29 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sat Oct 23 19:56:16 +0000 2010	485c4ac9f964a520ca501fe3	{Black Bear Diner}	{37.9274227333111,-122.04045302300085,Walnut Creek,CA,United States}	{Food,}
+2582	Sat Oct 23 18:24:00 +0000 2010	4b3ce023f964a520bd8825e3	{Starbucks}	{37.72993366198514,-122.19416845027273,Oakland,CA,United States}	{Food,}
+2582	Fri Oct 22 16:56:34 +0000 2010	4b6db8b0f964a52097892ce3	{Shell Ridge Open Space}	{37.89428814880647,-122.03056207010617,,CA,United States}	{Outdoors & Recreation,}
+2582	Thu Oct 21 19:27:02 +0000 2010	4a75f04ef964a520bde11fe3	{The Counter}	{37.90236353352196,-122.0645534992218,Walnut Creek,CA,United States}	{Food,}
+2582	Thu Oct 21 17:30:37 +0000 2010	4a70b3f9f964a5203dd81fe3	{Kaiser Permanente Medical Center}	{37.892272028185324,-122.05912238352215,Walnut Creek,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Thu Oct 21 17:30:02 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue Oct 19 22:35:06 +0000 2010	4bcd048468f976b00fc76383	{Mulholland Ridge}	{37.85909965683415,-122.13715553283691,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Tue Oct 19 16:32:43 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon Oct 18 17:26:57 +0000 2010	4b6db8b0f964a52097892ce3	{Shell Ridge Open Space}	{37.89428814880647,-122.03056207010617,,CA,United States}	{Outdoors & Recreation,}
+2582	Mon Oct 18 17:26:57 +0000 2010	4b6db8b0f964a52097892ce3	{Shell Ridge Open Space}	{37.89428814880647,-122.03056207010617,,CA,United States}	{Outdoors & Recreation,}
+2582	Mon Oct 18 17:11:19 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon Oct 18 02:14:25 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon Oct 18 00:49:49 +0000 2010	4bcd048468f976b00fc76383	{Mulholland Ridge}	{37.85909965683415,-122.13715553283691,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Sun Oct 17 00:33:02 +0000 2010	4bcd048468f976b00fc76383	{Mulholland Ridge}	{37.85909965683415,-122.13715553283691,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Sat Oct 16 20:38:01 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Fri Oct 15 23:59:40 +0000 2010	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Fri Oct 15 18:22:45 +0000 2010	4bcd048468f976b00fc76383	{Mulholland Ridge}	{37.85909965683415,-122.13715553283691,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Fri Oct 15 16:26:46 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Thu Oct 14 17:57:47 +0000 2010	4b6db8b0f964a52097892ce3	{Shell Ridge Open Space}	{37.89428814880647,-122.03056207010617,,CA,United States}	{Outdoors & Recreation,}
+2582	Thu Oct 14 16:54:57 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Wed Oct 13 20:28:50 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue Oct 12 16:30:46 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sun Oct 10 23:30:42 +0000 2010	409d7480f964a520f2f21ee3	{Pier 39}	{37.809521186605714,-122.41015076637268,San Francisco,CA,United States}	{Travel & Transport,}
+2582	Sun Oct 10 23:08:04 +0000 2010	4a81b003f964a52045f71fe3	{Starbucks}	{37.807714,-122.417383,San Francisco,CA,United States}	{Food,}
+2582	Sun Oct 10 23:07:45 +0000 2010	4caf75a6aef16dcb76b0a854	{San Francisco Fleet Week 2010}	{37.806445,-122.418657,San Francisco,CA,United States}	{Arts & Entertainment,}
+2582	Sun Oct 10 21:14:31 +0000 2010	4a4e7309f964a5207aae1fe3	{Capurro's}	{37.807728712864645,-122.42027180518197,San Francisco,CA,United States}	{Food,}
+2582	Sun Oct 10 19:09:37 +0000 2010	4fb67355a17c7f02fb79151b	{San Francisco Bay Ferry - Jack London Square Terminal}	{37.795017,-122.279763,Oakland,CA,United States}	{Travel & Transport,}
+2582	Sat Oct 09 23:03:37 +0000 2010	49d0da91f964a520395b1fe3	{Starbucks}	{37.794702,-122.402849,San Francisco,CA,United States}	{Food,}
+2582	Sat Oct 09 20:35:54 +0000 2010	471d3154f964a520b74b1fe3	{Europa}	{37.878254,-122.181084,Orinda,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Sat Oct 09 19:50:26 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Fri Oct 08 17:19:38 +0000 2010	4b6db8b0f964a52097892ce3	{Shell Ridge Open Space}	{37.89428814880647,-122.03056207010617,,CA,United States}	{Outdoors & Recreation,}
+2582	Thu Oct 07 20:44:07 +0000 2010	4b2aad9ef964a5208cad24e3	{Lafayette-Moraga Regional Trail}	{37.8861449743126,-122.09736124421369,Lafayette,CA,United States}	{Outdoors & Recreation,}
+2582	Thu Oct 07 20:37:36 +0000 2010	4ae77fb2f964a520e2ab21e3	{Moraga Library}	{37.84096039474869,-122.12286480746351,Moraga,CA,United States}	{Professional & Other Places,}
+2582	Thu Oct 07 20:01:18 +0000 2010	4b085e40f964a5203a0a23e3	{Lafayette Library}	{37.89189080205421,-122.11571576375407,Lafayette,CA,United States}	{Professional & Other Places,}
+2582	Wed Oct 06 23:56:18 +0000 2010	4a66979ef964a520c2c81fe3	{Yogurt Shack}	{37.89292369286625,-122.11825132369995,Lafayette,CA,United States}	{Food,}
+2582	Wed Oct 06 18:22:56 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon Oct 04 16:26:12 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon Oct 04 00:37:53 +0000 2010	445a2c5ff964a520e2321fe3	{IKEA}	{37.830903,-122.292444,Emeryville,CA,United States}	{Shop & Service,}
+2582	Sun Oct 03 02:32:44 +0000 2010	47276c40f964a520e34b1fe3	{Outback Steakhouse}	{37.95853489400749,-122.0575428302606,Pleasant Hill,CA,United States}	{Food,}
+2582	Sun Oct 03 00:54:19 +0000 2010	4bcd048468f976b00fc76383	{Mulholland Ridge}	{37.85909965683415,-122.13715553283691,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Fri Oct 01 16:40:43 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Fri Oct 01 02:07:38 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Fri Oct 01 01:45:58 +0000 2010	4bcd048468f976b00fc76383	{Mulholland Ridge}	{37.85909965683415,-122.13715553283691,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Thu Sep 30 17:15:15 +0000 2010	4b6db8b0f964a52097892ce3	{Shell Ridge Open Space}	{37.89428814880647,-122.03056207010617,,CA,United States}	{Outdoors & Recreation,}
+2582	Wed Sep 29 19:00:05 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Wed Sep 29 01:45:02 +0000 2010	4bcd048468f976b00fc76383	{Mulholland Ridge}	{37.85909965683415,-122.13715553283691,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Tue Sep 28 19:28:32 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue Sep 28 19:18:57 +0000 2010	4ae77fb2f964a520e2ab21e3	{Moraga Library}	{37.84096039474869,-122.12286480746351,Moraga,CA,United States}	{Professional & Other Places,}
+2582	Tue Sep 28 18:55:19 +0000 2010	4b085e40f964a5203a0a23e3	{Lafayette Library}	{37.89189080205421,-122.11571576375407,Lafayette,CA,United States}	{Professional & Other Places,}
+2582	Tue Sep 28 17:20:51 +0000 2010	4bcea50cb6c49c74dc869791	{Pet Food Express}	{37.89163662900263,-122.12394627404286,Lafayette,CA,United States}	{Shop & Service,}
+2582	Tue Sep 28 01:53:49 +0000 2010	4bcd048468f976b00fc76383	{Mulholland Ridge}	{37.85909965683415,-122.13715553283691,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Mon Sep 27 21:48:54 +0000 2010	4b240ec8f964a520126024e3	{Rheem School}	{37.857601,-122.131838,Moraga,CA,United States}	{School,Professional & Other Places,}
+2582	Mon Sep 27 21:43:33 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon Sep 27 21:43:33 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon Sep 27 01:49:00 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sun Sep 26 22:32:11 +0000 2010	4a60e25cf964a52066c11fe3	{Sproul Plaza}	{37.86950196342949,-122.25940002848051,Berkeley,CA,United States}	{College & University,}
+2582	Thu Sep 23 01:27:22 +0000 2010	4bcd048468f976b00fc76383	{Mulholland Ridge}	{37.85909965683415,-122.13715553283691,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Wed Sep 22 21:13:19 +0000 2010	4ae77fb2f964a520e2ab21e3	{Moraga Library}	{37.84096039474869,-122.12286480746351,Moraga,CA,United States}	{Professional & Other Places,}
+2582	Wed Sep 22 21:13:19 +0000 2010	4ae77fb2f964a520e2ab21e3	{Moraga Library}	{37.84096039474869,-122.12286480746351,Moraga,CA,United States}	{Professional & Other Places,}
+2582	Tue Sep 21 01:40:28 +0000 2010	4bcd048468f976b00fc76383	{Mulholland Ridge}	{37.85909965683415,-122.13715553283691,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Fri Sep 17 20:44:44 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Fri Sep 17 20:27:23 +0000 2010	4b085e40f964a5203a0a23e3	{Lafayette Library}	{37.89189080205421,-122.11571576375407,Lafayette,CA,United States}	{Professional & Other Places,}
+2582	Fri Sep 17 17:59:43 +0000 2010	4bcd048468f976b00fc76383	{Mulholland Ridge}	{37.85909965683415,-122.13715553283691,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Thu Sep 16 17:49:33 +0000 2010	4a084f23f964a520ae731fe3	{Heather Farm Park}	{37.919094343973654,-122.04193492341358,Walnut Creek,CA,United States}	{Outdoors & Recreation,}
+2582	Wed Sep 15 23:57:50 +0000 2010	4ae77fb2f964a520e2ab21e3	{Moraga Library}	{37.84096039474869,-122.12286480746351,Moraga,CA,United States}	{Professional & Other Places,}
+2582	Wed Sep 15 18:39:50 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Wed Sep 15 18:35:25 +0000 2010	4b085e40f964a5203a0a23e3	{Lafayette Library}	{37.89189080205421,-122.11571576375407,Lafayette,CA,United States}	{Professional & Other Places,}
+2582	Wed Sep 15 17:56:14 +0000 2010	4c7956b8df08a1cde155da5d	{Walnut Creek Library}	{37.90113841380679,-122.06011569904402,Walnut Creek,CA,United States}	{College & University,Professional & Other Places,}
+2582	Wed Sep 15 17:14:10 +0000 2010	4a084f23f964a520ae731fe3	{Heather Farm Park}	{37.919094343973654,-122.04193492341358,Walnut Creek,CA,United States}	{Outdoors & Recreation,}
+2582	Tue Sep 14 23:31:33 +0000 2010	4b957952f964a52070a434e3	{Kaiser Permanente Medical Center}	{37.60712955473702,-122.083930354036,Union City,CA,United States}	{Medical Center,Shop & Service,Professional & Other Places,}
+2582	Tue Sep 14 19:36:38 +0000 2010	4b4f6278f964a520440427e3	{Department of Motor Vehicles}	{37.97481860038057,-122.0563921063795,Concord,CA,United States}	{Professional & Other Places,}
+2582	Tue Sep 14 19:35:57 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon Sep 13 17:17:16 +0000 2010	4bcd048468f976b00fc76383	{Mulholland Ridge}	{37.85909965683415,-122.13715553283691,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Sun Sep 12 22:31:59 +0000 2010	47276c40f964a520e34b1fe3	{Outback Steakhouse}	{37.95853489400749,-122.0575428302606,Pleasant Hill,CA,United States}	{Food,}
+2582	Sat Sep 11 00:07:33 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Fri Sep 10 19:42:16 +0000 2010	4bcd048468f976b00fc76383	{Mulholland Ridge}	{37.85909965683415,-122.13715553283691,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Fri Sep 10 19:42:15 +0000 2010	4bcd048468f976b00fc76383	{Mulholland Ridge}	{37.85909965683415,-122.13715553283691,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Thu Sep 09 19:09:14 +0000 2010	4bcd048468f976b00fc76383	{Mulholland Ridge}	{37.85909965683415,-122.13715553283691,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Wed Sep 08 20:16:33 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sun Sep 05 01:03:24 +0000 2010	4b774729f964a520348e2ee3	{Moraga Commons Park}	{37.83998108255431,-122.1260703538007,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Sun Sep 05 00:23:39 +0000 2010	4a8760f4f964a520250420e3	{Cold Stone Creamery}	{37.891759,-122.119824,Lafayette,CA,United States}	{Food,}
+2582	Sat Sep 04 17:31:48 +0000 2010	4a7aeff2f964a520a5e91fe3	{Noah's Bagels}	{37.89312209,-122.11809848,Lafayette,CA,United States}	{Food,}
+2582	Sat Sep 04 17:27:03 +0000 2010	4b085e40f964a5203a0a23e3	{Lafayette Library}	{37.89189080205421,-122.11571576375407,Lafayette,CA,United States}	{Professional & Other Places,}
+2582	Wed Sep 01 19:08:50 +0000 2010	4b085e40f964a5203a0a23e3	{Lafayette Library}	{37.89189080205421,-122.11571576375407,Lafayette,CA,United States}	{Professional & Other Places,}
+2582	Wed Sep 01 18:46:34 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Wed Sep 01 01:51:40 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue Aug 31 20:34:15 +0000 2010	485c4ac9f964a520ca501fe3	{Black Bear Diner}	{37.9274227333111,-122.04045302300085,Walnut Creek,CA,United States}	{Food,}
+2582	Tue Aug 31 20:34:15 +0000 2010	485c4ac9f964a520ca501fe3	{Black Bear Diner}	{37.9274227333111,-122.04045302300085,Walnut Creek,CA,United States}	{Food,}
+2582	Sun Aug 29 23:51:57 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue Aug 24 22:50:46 +0000 2010	485c4ac9f964a520ca501fe3	{Black Bear Diner}	{37.9274227333111,-122.04045302300085,Walnut Creek,CA,United States}	{Food,}
+2582	Sun Aug 22 22:28:24 +0000 2010	485c4ac9f964a520ca501fe3	{Black Bear Diner}	{37.9274227333111,-122.04045302300085,Walnut Creek,CA,United States}	{Food,}
+2582	Sat Aug 21 00:31:32 +0000 2010	4bd0738aa8b3a593d2db635f	{Lafayette - Moraga Regional Trail}	{37.859529721887085,-122.10042886776847,Lafayette,CA,United States}	{Outdoors & Recreation,}
+2582	Sat Aug 21 00:13:23 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Fri Aug 20 23:31:50 +0000 2010	4b085e40f964a5203a0a23e3	{Lafayette Library}	{37.89189080205421,-122.11571576375407,Lafayette,CA,United States}	{Professional & Other Places,}
+2582	Fri Aug 20 00:41:38 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue Aug 17 21:36:43 +0000 2010	485c4ac9f964a520ca501fe3	{Black Bear Diner}	{37.9274227333111,-122.04045302300085,Walnut Creek,CA,United States}	{Food,}
+2582	Tue Aug 17 00:40:00 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon Aug 16 03:30:12 +0000 2010	4aaaa783f964a520cf5620e3	{Mangia Ristorante}	{37.891022,-122.11915845,Lafayette,CA,United States}	{Food,}
+2582	Fri Aug 13 17:47:37 +0000 2010	4b13224af964a520869423e3	{Starbucks}	{34.105304866666664,-118.337091,Los Angeles,CA,United States}	{Shop & Service,Food,}
+2582	Thu Aug 12 19:01:26 +0000 2010	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+2582	Thu Aug 12 17:35:25 +0000 2010	4b13224af964a520869423e3	{Starbucks}	{34.105304866666664,-118.337091,Los Angeles,CA,United States}	{Shop & Service,Food,}
+2582	Thu Aug 12 04:28:12 +0000 2010	49fb4a90f964a520306e1fe3	{California Chicken Cafe}	{34.08359169960022,-118.34097035,Los Angeles,CA,United States}	{Food,}
+2582	Wed Aug 11 23:21:40 +0000 2010	427ff980f964a520c7211fe3	{J. Paul Getty Museum}	{34.077296398713784,-118.47407341003418,Los Angeles,CA,United States}	{Museum,Arts & Entertainment,}
+2582	Wed Aug 11 21:16:11 +0000 2010	4a7dfd24f964a52087f01fe3	{Page Museum at the La Brea Tar Pits}	{34.06355230176743,-118.35541248321533,Los Angeles,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+2582	Wed Aug 11 21:11:00 +0000 2010	4a68c93ef964a52004cb1fe3	{Baja Fresh}	{34.06244516372681,-118.35401,Los Angeles,CA,United States}	{Food,}
+2582	Tue Aug 10 21:00:24 +0000 2010	40a2ba80f964a52010f31ee3	{Bossa Nova Brazilian Cuisine}	{34.0980527333467,-118.3467435836792,Los Angeles,CA,United States}	{Food,}
+2582	Tue Aug 10 03:33:00 +0000 2010	4373df00f964a520132a1fe3	{Lala's Argentine Grill}	{34.08368394318631,-118.3472477996976,Los Angeles,CA,United States}	{Food,}
+2582	Mon Aug 09 23:10:37 +0000 2010	4b09d963f964a520b11e23e3	{Starbucks}	{34.417442607239444,-119.69679594039917,Santa Barbara,CA,United States}	{Food,}
+2582	Mon Aug 09 20:57:02 +0000 2010	4ad24ac3f964a520bde020e3	{Pea Soup Andersen's}	{34.613914360422505,-120.192898365979,Buellton,CA,United States}	{Food,}
+2582	Sun Aug 08 22:34:36 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sun Aug 08 02:28:54 +0000 2010	47276c40f964a520e34b1fe3	{Outback Steakhouse}	{37.95853489400749,-122.0575428302606,Pleasant Hill,CA,United States}	{Food,}
+2582	Sun Aug 08 01:35:29 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Fri Aug 06 01:16:57 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Wed Aug 04 23:40:53 +0000 2010	4a4ea111f964a520d4ae1fe3	{Century Walnut Creek 14 and XD}	{37.89643376369132,-122.06141975870965,Walnut Creek,CA,United States}	{Arts & Entertainment,Movie Theater,}
+2582	Wed Aug 04 22:38:13 +0000 2010	471d3154f964a520b74b1fe3	{Europa}	{37.878254,-122.181084,Orinda,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Mon Aug 02 20:45:57 +0000 2010	485c4ac9f964a520ca501fe3	{Black Bear Diner}	{37.9274227333111,-122.04045302300085,Walnut Creek,CA,United States}	{Food,}
+2582	Mon Aug 02 02:13:28 +0000 2010	47276c40f964a520e34b1fe3	{Outback Steakhouse}	{37.95853489400749,-122.0575428302606,Pleasant Hill,CA,United States}	{Food,}
+2582	Mon Aug 02 00:38:52 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sat Jul 31 02:48:44 +0000 2010	4c36646718e72d7f6cc914f5	{Ristorante Amoroma}	{37.86058626,-122.12645888328552,Moraga,CA,United States}	{Food,}
+2582	Mon Jul 26 00:18:25 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Fri Jul 23 22:42:15 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Thu Jul 22 20:47:05 +0000 2010	471d3154f964a520b74b1fe3	{Europa}	{37.878254,-122.181084,Orinda,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Thu Jul 22 20:47:05 +0000 2010	471d3154f964a520b74b1fe3	{Europa}	{37.878254,-122.181084,Orinda,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Wed Jul 21 23:17:56 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue Jul 20 23:27:06 +0000 2010	4a4ea111f964a520d4ae1fe3	{Century Walnut Creek 14 and XD}	{37.89643376369132,-122.06141975870965,Walnut Creek,CA,United States}	{Arts & Entertainment,Movie Theater,}
+2582	Tue Jul 20 23:08:28 +0000 2010	4a084f23f964a520ae731fe3	{Heather Farm Park}	{37.919094343973654,-122.04193492341358,Walnut Creek,CA,United States}	{Outdoors & Recreation,}
+2582	Mon Jul 19 02:06:24 +0000 2010	47276c40f964a520e34b1fe3	{Outback Steakhouse}	{37.95853489400749,-122.0575428302606,Pleasant Hill,CA,United States}	{Food,}
+2582	Sun Jul 18 00:17:56 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Fri Jul 16 22:16:59 +0000 2010	4a0f514ef964a5204b761fe3	{Barnes & Noble}	{37.89644919631728,-122.06016009282187,Walnut Creek,CA,United States}	{Shop & Service,Food,}
+2582	Fri Jul 16 21:35:00 +0000 2010	4a8748c2f964a520a10320e3	{REI}	{37.968448992072545,-122.056451,Concord,CA,United States}	{Shop & Service,}
+2582	Fri Jul 16 00:22:30 +0000 2010	4b39812bf964a520515d25e3	{CVS/pharmacy}	{37.85670055,-122.12578102,Moraga,CA,United States}	{Shop & Service,}
+2582	Fri Jul 16 00:21:07 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Thu Jul 15 00:24:43 +0000 2010	49e3cfdff964a520dd621fe3	{Lafayette Reservoir}	{37.884958787092266,-122.13956809796714,Lafayette,CA,United States}	{Outdoors & Recreation,}
+2582	Wed Jul 14 23:40:01 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue Jul 13 22:44:16 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue Jul 13 22:08:42 +0000 2010	4a084f23f964a520ae731fe3	{Heather Farm Park}	{37.919094343973654,-122.04193492341358,Walnut Creek,CA,United States}	{Outdoors & Recreation,}
+2582	Tue Jul 13 21:30:38 +0000 2010	4aaaa783f964a520cf5620e3	{Mangia Ristorante}	{37.891022,-122.11915845,Lafayette,CA,United States}	{Food,}
+2582	Tue Jul 13 01:43:57 +0000 2010	4a0f514ef964a5204b761fe3	{Barnes & Noble}	{37.89644919631728,-122.06016009282187,Walnut Creek,CA,United States}	{Shop & Service,Food,}
+2582	Tue Jul 13 01:14:29 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon Jul 12 02:18:35 +0000 2010	4b1c17e0f964a520ff0124e3	{HomeGoods}	{37.85606809079934,-122.12605926210892,Moraga,CA,United States}	{Shop & Service,}
+2582	Mon Jul 12 00:47:11 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon Jul 12 00:38:17 +0000 2010	4ba66489f964a520924d39e3	{T.J.maxx}	{37.858311881591106,-122.12561130523682,Moraga,CA,United States}	{Shop & Service,}
+2582	Sat Jul 10 02:59:01 +0000 2010	47276c40f964a520e34b1fe3	{Outback Steakhouse}	{37.95853489400749,-122.0575428302606,Pleasant Hill,CA,United States}	{Food,}
+2582	Sat Jul 10 02:59:01 +0000 2010	47276c40f964a520e34b1fe3	{Outback Steakhouse}	{37.95853489400749,-122.0575428302606,Pleasant Hill,CA,United States}	{Food,}
+2582	Fri Jul 09 22:33:51 +0000 2010	4b4fca6cf964a520851527e3	{Chuck E. Cheese's}	{37.97176688449873,-122.0449708136937,Concord,CA,United States}	{Food,Arts & Entertainment,}
+2582	Fri Jul 09 20:11:49 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Wed Jul 07 22:33:46 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Wed Jul 07 22:02:00 +0000 2010	4bb2627414cfd13a57dd14ab	{Burger King}	{37.858722,-122.124596,Moraga,CA,United States}	{Food,}
+2582	Tue Jul 06 23:07:05 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon Jul 05 21:43:34 +0000 2010	4a859174f964a5207bfe1fe3	{Hubcaps Diner}	{37.899778,-122.062286,Walnut Creek,CA,United States}	{Food,}
+2582	Mon Jul 05 21:43:34 +0000 2010	4a859174f964a5207bfe1fe3	{Hubcaps Diner}	{37.899778,-122.062286,Walnut Creek,CA,United States}	{Food,}
+2582	Mon Jul 05 19:36:28 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon Jul 05 02:41:07 +0000 2010	4a411f02f964a520cea41fe3	{Chow - Lafayette}	{37.89075689294413,-122.11996975133202,Lafayette,CA,United States}	{Food,}
+2582	Sun Jul 04 02:23:01 +0000 2010	445a2c5ff964a520e2321fe3	{IKEA}	{37.830903,-122.292444,Emeryville,CA,United States}	{Shop & Service,}
+2582	Sat Jul 03 23:34:04 +0000 2010	445e36bff964a520fb321fe3	{Golden Gate Park}	{37.769018558337955,-122.48339653015137,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2582	Sat Jul 03 23:33:50 +0000 2010	49f5fb13f964a520e56b1fe3	{Golden Gate Park Children's Playground}	{37.76824678348723,-122.45769023895264,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2582	Sat Jul 03 22:21:50 +0000 2010	471d3154f964a520b74b1fe3	{Europa}	{37.878254,-122.181084,Orinda,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2582	Sat Jul 03 20:55:46 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sat Jul 03 02:33:23 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sat Jul 03 02:15:35 +0000 2010	4a4f8b77f964a5206aaf1fe3	{Whole Foods Market}	{37.89309478,-122.05555737018585,Walnut Creek,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+2582	Sat Jul 03 00:35:05 +0000 2010	4a084f23f964a520ae731fe3	{Heather Farm Park}	{37.919094343973654,-122.04193492341358,Walnut Creek,CA,United States}	{Outdoors & Recreation,}
+2582	Fri Jul 02 00:22:15 +0000 2010	4c48a23031e41b8d3ec25035	{Redwood Valley Railway}	{37.88049571957674,-122.22310108954198,Orinda,CA,United States}	{Travel & Transport,Outdoors & Recreation,Train Station,}
+2582	Thu Jul 01 22:05:04 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Thu Jul 01 22:05:04 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Wed Jun 30 21:41:46 +0000 2010	4a859174f964a5207bfe1fe3	{Hubcaps Diner}	{37.899778,-122.062286,Walnut Creek,CA,United States}	{Food,}
+2582	Wed Jun 30 21:15:42 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Wed Jun 30 02:24:03 +0000 2010	4b39812bf964a520515d25e3	{CVS/pharmacy}	{37.85670055,-122.12578102,Moraga,CA,United States}	{Shop & Service,}
+2582	Wed Jun 30 02:14:45 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Tue Jun 29 23:37:32 +0000 2010	4a4ea111f964a520d4ae1fe3	{Century Walnut Creek 14 and XD}	{37.89643376369132,-122.06141975870965,Walnut Creek,CA,United States}	{Arts & Entertainment,Movie Theater,}
+2582	Tue Jun 29 22:38:27 +0000 2010	4bc550b44a9aa5936d68067b	{McDonald's}	{37.892395,-122.113995,Lafayette,CA,United States}	{Food,}
+2582	Tue Jun 29 03:47:28 +0000 2010	4b33fa00f964a520362325e3	{Rancho Laguna Park}	{37.8095046766887,-122.11309229550824,Moraga,CA,United States}	{Outdoors & Recreation,}
+2582	Mon Jun 28 23:45:53 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Mon Jun 28 23:19:37 +0000 2010	4a70b3f9f964a5203dd81fe3	{Kaiser Permanente Medical Center}	{37.892272028185324,-122.05912238352215,Walnut Creek,CA,United States}	{Medical Center,Professional & Other Places,}
+2582	Mon Jun 28 02:51:18 +0000 2010	47276c40f964a520e34b1fe3	{Outback Steakhouse}	{37.95853489400749,-122.0575428302606,Pleasant Hill,CA,United States}	{Food,}
+2582	Sun Jun 27 22:52:36 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sun Jun 27 22:52:36 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Sun Jun 27 04:10:00 +0000 2010	4b3c373ef964a520048325e3	{El Charro}	{37.89522347151589,-122.10443939094249,Lafayette,CA,United States}	{Nightlife Spot,Food,}
+2582	Thu Jun 10 16:49:23 +0000 2010	4a084f23f964a520ae731fe3	{Heather Farm Park}	{37.919094343973654,-122.04193492341358,Walnut Creek,CA,United States}	{Outdoors & Recreation,}
+2582	Thu Jun 10 15:34:34 +0000 2010	4b53d22cf964a52062ac27e3	{Starbucks}	{37.85827095904793,-122.12459514879252,Moraga,CA,United States}	{Food,}
+2582	Wed Jun 09 22:18:13 +0000 2010	4a70b3f9f964a5203dd81fe3	{Kaiser Permanente Medical Center}	{37.892272028185324,-122.05912238352215,Walnut Creek,CA,United States}	{Medical Center,Professional & Other Places,}

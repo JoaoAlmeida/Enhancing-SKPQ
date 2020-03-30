@@ -1,0 +1,573 @@
+848	Fri Aug 12 12:48:29 +0000 2011	4addb187f964a520596521e3	{WITI FOX 6}	{43.180928003775485,-87.96310901641846,Brown Deer,WI,United States}	{Shop & Service,Arts & Entertainment,Professional & Other Places,}
+848	Thu Aug 11 20:00:15 +0000 2011	4aa9dde9f964a520755520e3	{General Mitchell International Airport (MKE)}	{42.947737434933686,-87.9019546508789,Milwaukee,WI,United States}	{Travel & Transport,}
+848	Thu Aug 11 14:56:44 +0000 2011	4a677f82f964a52091c91fe3	{Las Vegas McCarran International Airport (LAS)}	{36.08365019548198,-115.14985084533691,Las Vegas,NV,United States}	{Travel & Transport,}
+848	Thu Aug 11 13:47:07 +0000 2011	4a344606f964a520069c1fe3	{Bob Hope Airport (BUR)}	{34.19639831676446,-118.35313796997072,Burbank,CA,United States}	{Travel & Transport,}
+848	Wed Aug 10 02:54:28 +0000 2011	42853f80f964a520fb221fe3	{Universal CityWalk}	{34.136264480547794,-118.35339546203613,Universal City,CA,United States}	{Nightlife Spot,Shop & Service,Arts & Entertainment,}
+848	Tue Aug 09 16:31:17 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Mon Aug 08 19:23:38 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Mon Aug 08 15:25:43 +0000 2011	4ae72993f964a52003a921e3	{Starbucks}	{34.15797514004957,-118.37869133310902,North Hollywood,CA,United States}	{Food,}
+848	Sun Aug 07 05:01:34 +0000 2011	4a344606f964a520069c1fe3	{Bob Hope Airport (BUR)}	{34.19639831676446,-118.35313796997072,Burbank,CA,United States}	{Travel & Transport,}
+848	Sun Aug 07 00:38:59 +0000 2011	449e9fb9f964a520c0341fe3	{Phoenix Sky Harbor International Airport (PHX)}	{33.43562440517176,-112.00306606318918,Phoenix,AZ,United States}	{Travel & Transport,}
+848	Sat Aug 06 17:16:35 +0000 2011	411c0480f964a5201a0c1fe3	{Philadelphia International Airport (PHL)}	{39.87700745276243,-75.2424430847168,Philadelphia,PA,United States}	{Travel & Transport,}
+848	Sat Aug 06 04:21:45 +0000 2011	40b28c80f964a5203af91ee3	{Woody's}	{39.94873969990853,-75.16220781624595,Philadelphia,PA,United States}	{Nightlife Spot,}
+848	Fri Aug 05 17:34:16 +0000 2011	4e3c28e03151eaa7c43a88d4	{NOH8 Photo Shoot Philadelphia}	{39.95165331240083,-75.20205974578857,Philadelphia,PA,United States}	{Arts & Entertainment,}
+848	Fri Aug 05 17:33:18 +0000 2011	4e3c1c9fb61cb577be64a93b	{NOH8 Campaign Univ Of Penn}	{39.95192946666667,-75.20178776666667,,,United States}	{College & University,}
+848	Thu Aug 04 18:58:42 +0000 2011	4bf687a89abec9b6f3ec25e8	{Goodwin College of Professional Studies (Drexel University)}	{39.95517334271523,-75.18426060676575,Philadelphia,PA,United States}	{College Academic Building,College & University,}
+848	Wed Aug 03 22:25:14 +0000 2011	411c0480f964a5201a0c1fe3	{Philadelphia International Airport (PHL)}	{39.87700745276243,-75.2424430847168,Philadelphia,PA,United States}	{Travel & Transport,}
+848	Wed Aug 03 16:32:55 +0000 2011	449e9fb9f964a520c0341fe3	{Phoenix Sky Harbor International Airport (PHX)}	{33.43562440517176,-112.00306606318918,Phoenix,AZ,United States}	{Travel & Transport,}
+848	Wed Aug 03 13:55:10 +0000 2011	4a344606f964a520069c1fe3	{Bob Hope Airport (BUR)}	{34.19639831676446,-118.35313796997072,Burbank,CA,United States}	{Travel & Transport,}
+848	Wed Aug 03 02:10:17 +0000 2011	49d52515f964a520705c1fe3	{Costco}	{33.99271689197,-118.44681143760681,Marina del Rey,CA,United States}	{Shop & Service,Food & Drink Shop,}
+848	Tue Aug 02 18:13:33 +0000 2011	4ae72993f964a52003a921e3	{Starbucks}	{34.15797514004957,-118.37869133310902,North Hollywood,CA,United States}	{Food,}
+848	Tue Aug 02 17:01:18 +0000 2011	49d52515f964a520705c1fe3	{Costco}	{33.99271689197,-118.44681143760681,Marina del Rey,CA,United States}	{Shop & Service,Food & Drink Shop,}
+848	Mon Aug 01 22:30:39 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Mon Aug 01 21:33:05 +0000 2011	4a344606f964a520069c1fe3	{Bob Hope Airport (BUR)}	{34.19639831676446,-118.35313796997072,Burbank,CA,United States}	{Travel & Transport,}
+848	Mon Aug 01 15:36:03 +0000 2011	44d9ff60f964a5208b361fe3	{Dallas/Fort Worth International Airport (DFW)}	{32.89803818160521,-97.04086303710938,DFW Airport,TX,United States}	{Travel & Transport,}
+848	Sun Jul 31 02:22:22 +0000 2011	4b3ee533f964a520f5a225e3	{Wunderbar}	{45.501993177968025,-73.561931848526,Montr?al,QC,Canada}	{Nightlife Spot,}
+848	Sat Jul 30 21:20:39 +0000 2011	4e346edf814d2eb94732f08b	{NOH8 PHOTO SHOOT MONTREAL}	{45.50196309926248,-73.56213569641113,Montreal,QC,Canada}	{Arts & Entertainment,}
+848	Fri Jul 29 20:04:19 +0000 2011	4ad77bf7f964a5204b0b21e3	{W Montr?al}	{45.501624712717756,-73.56202840805054,Montreal,Quebec,Canada}	{Nightlife Spot,Travel & Transport,Shop & Service,}
+848	Fri Jul 29 02:57:11 +0000 2011	4b0044f8f964a5202b3c22e3	{Vallier, Bistro et Comptoir}	{45.500471,-73.558102,Montr?al,QC,Canada}	{Food,}
+848	Thu Jul 28 17:27:39 +0000 2011	44d9ff60f964a5208b361fe3	{Dallas/Fort Worth International Airport (DFW)}	{32.89803818160521,-97.04086303710938,DFW Airport,TX,United States}	{Travel & Transport,}
+848	Thu Jul 28 12:48:39 +0000 2011	4a344606f964a520069c1fe3	{Bob Hope Airport (BUR)}	{34.19639831676446,-118.35313796997072,Burbank,CA,United States}	{Travel & Transport,}
+848	Thu Jul 28 02:34:34 +0000 2011	49d0782df964a520285b1fe3	{Westside Pavilion Shopping Center}	{34.04034713723197,-118.42693090438843,Los Angeles,CA,United States}	{Shop & Service,}
+848	Wed Jul 27 17:34:18 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Wed Jul 27 16:46:47 +0000 2011	4ae72993f964a52003a921e3	{Starbucks}	{34.15797514004957,-118.37869133310902,North Hollywood,CA,United States}	{Food,}
+848	Wed Jul 27 15:10:52 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+848	Wed Jul 27 14:16:44 +0000 2011	4a788931f964a520d0e51fe3	{Ronnie's Diner}	{33.985447,-118.425027,Los Angeles,CA,United States}	{Food,}
+848	Tue Jul 26 17:01:55 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Mon Jul 25 17:07:36 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Mon Jul 25 16:48:27 +0000 2011	4ae72993f964a52003a921e3	{Starbucks}	{34.15797514004957,-118.37869133310902,North Hollywood,CA,United States}	{Food,}
+848	Mon Jul 25 01:13:02 +0000 2011	4a721daaf964a52064da1fe3	{Peet's Coffee & Tea}	{34.032376,-118.495275,Santa Monica,CA,United States}	{Food,}
+848	Sun Jul 24 21:18:12 +0000 2011	49d0782df964a520285b1fe3	{Westside Pavilion Shopping Center}	{34.04034713723197,-118.42693090438843,Los Angeles,CA,United States}	{Shop & Service,}
+848	Sun Jul 24 02:31:28 +0000 2011	4b15502cf964a5200cb023e3	{StubHub Center}	{33.86385889756237,-118.26159954071045,Carson,CA,United States}	{Stadium,Arts & Entertainment,}
+848	Sat Jul 23 04:16:51 +0000 2011	4abc1c95f964a5206e8620e3	{Islands Restaurant}	{33.981089847023874,-118.46302270889282,Marina Del Rey,CA,United States}	{Food,}
+848	Sat Jul 23 01:50:27 +0000 2011	4d0e94343e306dcbd47ba889	{Poquito Mas}	{34.0319337746709,-118.4828522093838,Santa Monica,CA,United States}	{Food,}
+848	Fri Jul 22 19:18:32 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Fri Jul 22 18:11:01 +0000 2011	4ae72993f964a52003a921e3	{Starbucks}	{34.15797514004957,-118.37869133310902,North Hollywood,CA,United States}	{Food,}
+848	Thu Jul 21 18:51:43 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Thu Jul 21 18:11:55 +0000 2011	4ae72993f964a52003a921e3	{Starbucks}	{34.15797514004957,-118.37869133310902,North Hollywood,CA,United States}	{Food,}
+848	Wed Jul 20 18:26:10 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Wed Jul 20 17:36:45 +0000 2011	4ae72993f964a52003a921e3	{Starbucks}	{34.15797514004957,-118.37869133310902,North Hollywood,CA,United States}	{Food,}
+848	Tue Jul 19 19:12:35 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Tue Jul 19 07:33:06 +0000 2011	49e3c0c1f964a520c7621fe3	{In-N-Out Burger}	{34.098239304029015,-118.3416648209095,Hollywood,CA,United States}	{Food,}
+848	Tue Jul 19 06:38:58 +0000 2011	3fd66200f964a52078ee1ee3	{House of Blues Sunset Strip}	{34.09461664974353,-118.37357640266418,West Hollywood,CA,United States}	{Music Venue,Arts & Entertainment,}
+848	Tue Jul 19 04:49:08 +0000 2011	4ac85cb4f964a52023bc20e3	{Cheetahs}	{34.09947211030862,-118.28944149346734,Los Angeles,CA,United States}	{Nightlife Spot,}
+848	Mon Jul 18 18:05:08 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Mon Jul 18 03:13:10 +0000 2011	42853f80f964a520fb221fe3	{Universal CityWalk}	{34.136264480547794,-118.35339546203613,Universal City,CA,United States}	{Nightlife Spot,Shop & Service,Arts & Entertainment,}
+848	Sun Jul 17 04:03:31 +0000 2011	4dfd03bd483b96a3aaa7fecb	{Lucille's Smokehouse Bar-B-Que}	{33.985787,-118.394938,Culver City,CA,United States}	{Food,}
+848	Sat Jul 16 23:37:53 +0000 2011	4b37fd57f964a520cd4925e3	{Regal Marina del Rey 6}	{33.985996173601386,-118.44002276659012,Marina del Rey,CA,United States}	{Arts & Entertainment,Movie Theater,}
+848	Sat Jul 16 03:12:21 +0000 2011	4e18bbc062e12640d878e982	{Carmageddon}	{34.126353468282474,-118.47553253173828,Los Angeles,CA,United States}	{Travel & Transport,}
+848	Fri Jul 15 19:51:03 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Fri Jul 15 02:22:03 +0000 2011	4a9c5450f964a520d13620e3	{Trader Joe's}	{34.020221,-118.42205989388968,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+848	Fri Jul 15 00:05:58 +0000 2011	4b52f0b0f964a520078b27e3	{Embassy Suites}	{34.157698028901414,-118.25751887590769,Glendale,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+848	Thu Jul 14 15:58:28 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Thu Jul 14 15:32:00 +0000 2011	4ae72993f964a52003a921e3	{Starbucks}	{34.15797514004957,-118.37869133310902,North Hollywood,CA,United States}	{Food,}
+848	Wed Jul 13 01:58:39 +0000 2011	42853f80f964a520fb221fe3	{Universal CityWalk}	{34.136264480547794,-118.35339546203613,Universal City,CA,United States}	{Nightlife Spot,Shop & Service,Arts & Entertainment,}
+848	Tue Jul 12 19:36:18 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Mon Jul 11 18:23:16 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Mon Jul 11 17:32:55 +0000 2011	4ae72993f964a52003a921e3	{Starbucks}	{34.15797514004957,-118.37869133310902,North Hollywood,CA,United States}	{Food,}
+848	Sun Jul 10 21:19:55 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Sat Jul 09 01:10:52 +0000 2011	4a9c5450f964a520d13620e3	{Trader Joe's}	{34.020221,-118.42205989388968,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+848	Fri Jul 08 21:07:54 +0000 2011	4ae3799ef964a5208a9521e3	{US Post Office}	{34.16465957948522,-118.4045265524941,North Hollywood,CA,United States}	{Professional & Other Places,}
+848	Fri Jul 08 18:28:58 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Fri Jul 08 17:37:32 +0000 2011	4ae72993f964a52003a921e3	{Starbucks}	{34.15797514004957,-118.37869133310902,North Hollywood,CA,United States}	{Food,}
+848	Thu Jul 07 18:44:14 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Thu Jul 07 18:18:00 +0000 2011	4ae72993f964a52003a921e3	{Starbucks}	{34.15797514004957,-118.37869133310902,North Hollywood,CA,United States}	{Food,}
+848	Wed Jul 06 19:35:26 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Wed Jul 06 02:45:26 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+848	Tue Jul 05 17:53:00 +0000 2011	43a52546f964a520532c1fe3	{John F. Kennedy International Airport (JFK)}	{40.645089355976346,-73.7845230102539,Jamaica,NY,United States}	{Travel & Transport,}
+848	Tue Jul 05 04:23:48 +0000 2011	4acdb243f964a520b7cc20e3	{London City Airport (LCY)}	{51.505965,0.047979,London,Greater London,United Kingdom}	{Travel & Transport,}
+848	Sun Jul 03 15:23:55 +0000 2011	4ac518b8f964a5206ba120e3	{Soho Hotel}	{51.514057499429434,-0.13365983963012695,Soho,Greater London,United Kingdom}	{Nightlife Spot,Travel & Transport,}
+848	Thu Jun 30 02:06:54 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+848	Wed Jun 29 22:27:52 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Tue Jun 28 17:55:56 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Tue Jun 28 16:35:23 +0000 2011	4ae72993f964a52003a921e3	{Starbucks}	{34.15797514004957,-118.37869133310902,North Hollywood,CA,United States}	{Food,}
+848	Mon Jun 27 16:21:49 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Mon Jun 27 15:41:00 +0000 2011	4ae72993f964a52003a921e3	{Starbucks}	{34.15797514004957,-118.37869133310902,North Hollywood,CA,United States}	{Food,}
+848	Sun Jun 26 23:00:06 +0000 2011	4dfd03bd483b96a3aaa7fecb	{Lucille's Smokehouse Bar-B-Que}	{33.985787,-118.394938,Culver City,CA,United States}	{Food,}
+848	Sun Jun 26 04:33:23 +0000 2011	43e72ee7f964a520092f1fe3	{Yokohama Sushi}	{34.01693553359038,-118.40652465820312,Culver City,CA,United States}	{Food,}
+848	Sat Jun 25 22:05:56 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Fri Jun 24 17:59:36 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Thu Jun 23 23:02:27 +0000 2011	4a970151f964a520ec2720e3	{Venice High School}	{33.99711998639795,-118.44411849975586,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+848	Thu Jun 23 03:59:54 +0000 2011	4a6e195af964a520e7d31fe3	{New Flavors}	{33.99622678756714,-118.42789288333333,Los Angeles,CA,United States}	{Food,}
+848	Wed Jun 22 18:45:28 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Tue Jun 21 23:00:55 +0000 2011	4ae3799ef964a5208a9521e3	{US Post Office}	{34.16465957948522,-118.4045265524941,North Hollywood,CA,United States}	{Professional & Other Places,}
+848	Tue Jun 21 17:59:48 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Mon Jun 20 18:35:07 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Mon Jun 20 17:59:03 +0000 2011	4ae72993f964a52003a921e3	{Starbucks}	{34.15797514004957,-118.37869133310902,North Hollywood,CA,United States}	{Food,}
+848	Sun Jun 19 00:03:32 +0000 2011	49d0782df964a520285b1fe3	{Westside Pavilion Shopping Center}	{34.04034713723197,-118.42693090438843,Los Angeles,CA,United States}	{Shop & Service,}
+848	Sat Jun 18 20:15:57 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Sat Jun 18 00:59:35 +0000 2011	49cfbeb6f964a520c25a1fe3	{IKEA}	{34.18496784179296,-118.31399917602539,Burbank,CA,United States}	{Shop & Service,}
+848	Fri Jun 17 18:47:25 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Fri Jun 17 01:46:53 +0000 2011	4b021ae3f964a520be4722e3	{Olive Garden}	{34.19064555590243,-118.3290034532547,Burbank,CA,United States}	{Food,}
+848	Thu Jun 16 20:22:19 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Thu Jun 16 18:26:01 +0000 2011	4ae72993f964a52003a921e3	{Starbucks}	{34.15797514004957,-118.37869133310902,North Hollywood,CA,United States}	{Food,}
+848	Wed Jun 15 18:34:20 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Wed Jun 15 17:54:15 +0000 2011	4ae72993f964a52003a921e3	{Starbucks}	{34.15797514004957,-118.37869133310902,North Hollywood,CA,United States}	{Food,}
+848	Tue Jun 14 18:52:34 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Mon Jun 13 18:49:59 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Sun Jun 12 17:14:28 +0000 2011	4db093628154905aadaf7da8	{LA Pride Parade & Festival}	{34.0833278,-118.3838209,West Hollywood,CA,United States}	{Professional & Other Places,}
+848	Sun Jun 12 01:31:08 +0000 2011	4db093628154905aadaf7da8	{LA Pride Parade & Festival}	{34.0833278,-118.3838209,West Hollywood,CA,United States}	{Professional & Other Places,}
+848	Sat Jun 11 19:34:51 +0000 2011	4df3b517b3ad9dc8c19e4a32	{NOH8 Booth at LA Pride}	{34.08343230906249,-118.38384926319122,West Hollywood,CA,United States}	{Arts & Entertainment,}
+848	Fri Jun 10 01:06:17 +0000 2011	50dfa88ce4b070c02b03915f	{ULTA Beauty}	{34.18850863,-118.3267693,Burbank,CA,United States}	{Shop & Service,}
+848	Thu Jun 09 21:46:11 +0000 2011	4ae3799ef964a5208a9521e3	{US Post Office}	{34.16465957948522,-118.4045265524941,North Hollywood,CA,United States}	{Professional & Other Places,}
+848	Thu Jun 09 20:02:50 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Thu Jun 09 04:10:59 +0000 2011	43e72ee7f964a520092f1fe3	{Yokohama Sushi}	{34.01693553359038,-118.40652465820312,Culver City,CA,United States}	{Food,}
+848	Thu Jun 09 02:45:25 +0000 2011	49d0782df964a520285b1fe3	{Westside Pavilion Shopping Center}	{34.04034713723197,-118.42693090438843,Los Angeles,CA,United States}	{Shop & Service,}
+848	Tue Jun 07 20:05:55 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Mon Jun 06 18:18:39 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Sun Jun 05 21:56:27 +0000 2011	4a344606f964a520069c1fe3	{Bob Hope Airport (BUR)}	{34.19639831676446,-118.35313796997072,Burbank,CA,United States}	{Travel & Transport,}
+848	Sun Jun 05 17:24:37 +0000 2011	44d9ff60f964a5208b361fe3	{Dallas/Fort Worth International Airport (DFW)}	{32.89803818160521,-97.04086303710938,DFW Airport,TX,United States}	{Travel & Transport,}
+848	Sun Jun 05 13:46:54 +0000 2011	4ac525acf964a520a5b020e3	{Des Moines International Airport (DSM)}	{41.532812420042305,-93.64854454994202,Des Moines,IA,United States}	{Travel & Transport,Airport,}
+848	Sun Jun 05 04:50:37 +0000 2011	4ba44da4f964a5206e9438e3	{Le Boi Bar}	{41.572914749162464,-93.62112474651032,Des Moines,IA,United States}	{Nightlife Spot,}
+848	Sat Jun 04 19:40:23 +0000 2011	4ac525acf964a520a5b020e3	{Des Moines International Airport (DSM)}	{41.532812420042305,-93.64854454994202,Des Moines,IA,United States}	{Travel & Transport,Airport,}
+848	Sat Jun 04 14:47:43 +0000 2011	4dea457b45dd3993a88663c5	{NOH8 Campaign Open Photo Shoot Des Moines}	{41.588406,-93.622486,Des Moines,IA,United States}	{}
+848	Fri Jun 03 23:00:25 +0000 2011	4b6af556f964a520f0e82be3	{Hy-Vee Conference Center}	{41.5931738955212,-93.7875625454725,West Des Moines,IA,United States}	{Arts & Entertainment,}
+848	Fri Jun 03 03:26:28 +0000 2011	4b4f937ef964a5200f0c27e3	{Ruan Center}	{41.58749596163326,-93.62540418825719,Des Moines,IA,United States}	{Professional & Other Places,}
+848	Thu Jun 02 19:28:15 +0000 2011	4ac525acf964a520a5b020e3	{Des Moines International Airport (DSM)}	{41.532812420042305,-93.64854454994202,Des Moines,IA,United States}	{Travel & Transport,Airport,}
+848	Thu Jun 02 13:19:55 +0000 2011	4a344606f964a520069c1fe3	{Bob Hope Airport (BUR)}	{34.19639831676446,-118.35313796997072,Burbank,CA,United States}	{Travel & Transport,}
+848	Thu Jun 02 12:31:10 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Wed Jun 01 17:25:57 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Wed Jun 01 04:51:19 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+848	Tue May 31 22:24:43 +0000 2011	4a8a103af964a520c90920e3	{Hartsfield-Jackson Atlanta International Airport (ATL)}	{33.640669114843895,-84.43606853485107,Atlanta,GA,United States}	{Travel & Transport,}
+848	Tue May 31 18:24:58 +0000 2011	44d17cecf964a5202b361fe3	{Ronald Reagan Washington National Airport (DCA)}	{38.853043701842566,-77.04231262207031,Arlington,VA,United States}	{Travel & Transport,}
+848	Tue May 31 05:04:47 +0000 2011	40b13b00f964a52044f41ee3	{Cobalt}	{38.91264153217554,-77.03832920743888,Washington,DC,United States}	{Nightlife Spot,}
+848	Mon May 30 20:35:13 +0000 2011	4de3d58281dcc9bc5e817982	{NOH8 Photo Shoot DC}	{38.897048,-77.033281,Washington,DC,United States}	{Travel & Transport,}
+848	Mon May 30 04:43:57 +0000 2011	3fd66200f964a520d6f01ee3	{The White House}	{38.89757947159315,-77.03671216964722,Washington,DC,United States}	{Government Building,Arts & Entertainment,Professional & Other Places,}
+848	Mon May 30 03:34:10 +0000 2011	44014894f964a5201d301fe3	{Old Ebbitt Grill}	{38.898045664568926,-77.03346564429306,Washington,DC,United States}	{Nightlife Spot,Food,}
+848	Sun May 29 23:28:01 +0000 2011	4a5a29fff964a520ccb91fe3	{W Washington D.C.}	{38.896944874246955,-77.03324675559998,Washington,DC,United States}	{Travel & Transport,}
+848	Sun May 29 22:06:22 +0000 2011	44d17cecf964a5202b361fe3	{Ronald Reagan Washington National Airport (DCA)}	{38.853043701842566,-77.04231262207031,Arlington,VA,United States}	{Travel & Transport,}
+848	Sun May 29 17:59:38 +0000 2011	4a8a103af964a520c90920e3	{Hartsfield-Jackson Atlanta International Airport (ATL)}	{33.640669114843895,-84.43606853485107,Atlanta,GA,United States}	{Travel & Transport,}
+848	Sun May 29 12:58:00 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+848	Sun May 29 01:51:37 +0000 2011	4b2f18d9f964a52083e924e3	{Century 8 Theaters}	{34.18720436096855,-118.41291904449463,North Hollywood,CA,United States}	{Arts & Entertainment,Movie Theater,}
+848	Sat May 28 23:25:24 +0000 2011	4ad12a42f964a5202bdd20e3	{Westfield Culver City}	{33.98604389243085,-118.39315784907377,Culver City,CA,United States}	{Outdoors & Recreation,Shop & Service,}
+848	Fri May 27 20:02:28 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Thu May 26 23:53:20 +0000 2011	4c93b88321c7199c80970b7f	{Which Wich? Superior Sandwiches}	{34.03768346103251,-118.440606,Los Angeles,CA,United States}	{Food,}
+848	Thu May 26 21:54:33 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Wed May 25 18:21:07 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Tue May 24 18:59:58 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+848	Tue May 24 12:43:35 +0000 2011	482d61baf964a520d64f1fe3	{Denver International Airport (DEN)}	{39.85029261500981,-104.67378616333006,Denver,CO,United States}	{Travel & Transport,}
+848	Tue May 24 09:34:24 +0000 2011	44d9ff60f964a5208b361fe3	{Dallas/Fort Worth International Airport (DFW)}	{32.89803818160521,-97.04086303710938,DFW Airport,TX,United States}	{Travel & Transport,}
+848	Tue May 24 01:51:52 +0000 2011	44d9ff60f964a5208b361fe3	{Dallas/Fort Worth International Airport (DFW)}	{32.89803818160521,-97.04086303710938,DFW Airport,TX,United States}	{Travel & Transport,}
+848	Mon May 23 00:38:42 +0000 2011	49bd2c3af964a52052541fe3	{Texas State Capitol}	{30.274189936110623,-97.74046897888184,Austin,TX,United States}	{Government Building,Arts & Entertainment,Professional & Other Places,}
+848	Sun May 22 18:32:20 +0000 2011	4dd91de281dcd5bca5a93a27	{NOH8 PHOTO SHOOT AUSTIN}	{30.265143,-97.746606,Austin,TX,United States}	{Travel & Transport,}
+848	Sun May 22 03:07:50 +0000 2011	43582f80f964a520dd281fe3	{Whole Foods Market}	{30.270864484028394,-97.75367857850739,Austin,TX,United States}	{Shop & Service,Food & Drink Shop,}
+848	Sun May 22 01:33:16 +0000 2011	4bac17def964a520c4e33ae3	{Rio's Brazilian Caf?}	{30.25612589,-97.71156435,Austin,TX,United States}	{Food,}
+848	Sat May 21 21:16:54 +0000 2011	4465eed5f964a52033331fe3	{Which Wich? Superior Sandwiches}	{30.26574855073778,-97.74614453315735,Austin,TX,United States}	{Food,}
+848	Sat May 21 17:38:05 +0000 2011	49e391b2f964a52095621fe3	{ACC Rio Grande}	{30.276710165115283,-97.74761438369751,Austin,TX,United States}	{College & University,}
+848	Sat May 21 06:16:48 +0000 2011	44116993f964a520ca301fe3	{T.G.I. Friday's}	{30.2626011009396,-97.74427759083984,Austin,TX,United States}	{Food,}
+848	Sat May 21 05:21:31 +0000 2011	4bb52afeef159c74446274f7	{W Austin}	{30.265275959959258,-97.74669170379639,Austin,TX,United States}	{Nightlife Spot,Travel & Transport,}
+848	Sat May 21 03:39:04 +0000 2011	440da2cbf964a52091301fe3	{Austin Bergstrom International Airport (AUS)}	{30.202558756341976,-97.66759872436523,Austin,TX,United States}	{Travel & Transport,}
+848	Fri May 20 23:37:38 +0000 2011	44d9ff60f964a5208b361fe3	{Dallas/Fort Worth International Airport (DFW)}	{32.89803818160521,-97.04086303710938,DFW Airport,TX,United States}	{Travel & Transport,}
+848	Fri May 20 16:49:47 +0000 2011	4a344606f964a520069c1fe3	{Bob Hope Airport (BUR)}	{34.19639831676446,-118.35313796997072,Burbank,CA,United States}	{Travel & Transport,}
+848	Thu May 19 19:56:01 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Wed May 18 21:58:03 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Wed May 18 21:03:47 +0000 2011	4a344606f964a520069c1fe3	{Bob Hope Airport (BUR)}	{34.19639831676446,-118.35313796997072,Burbank,CA,United States}	{Travel & Transport,}
+848	Wed May 18 16:41:10 +0000 2011	482d61baf964a520d64f1fe3	{Denver International Airport (DEN)}	{39.85029261500981,-104.67378616333006,Denver,CO,United States}	{Travel & Transport,}
+848	Wed May 18 10:21:31 +0000 2011	4ace6c89f964a52078d020e3	{LaGuardia Airport (LGA)}	{40.773839,-73.87122,East Elmhurst,NY,United States}	{Travel & Transport,}
+848	Tue May 17 22:50:08 +0000 2011	4a429e5bf964a52007a61fe3	{Palace Theatre}	{40.759018236313835,-73.98426841200033,New York,NY,United States}	{Performing Arts Venue,Arts & Entertainment,}
+848	Tue May 17 22:06:00 +0000 2011	4dc18b838877c00d6adb2c2d	{Donna Bell's Bakeshop}	{40.761810725436646,-73.98687968845366,New York,NY,United States}	{Food,}
+848	Tue May 17 21:30:45 +0000 2011	4afb2cd1f964a520c81b22e3	{The Today Show Offices}	{40.75831685681495,-73.9785808716572,New York,NY,United States}	{Convention Center,Professional & Other Places,}
+848	Tue May 17 06:11:22 +0000 2011	4c9bb662e9a7ef3bd0ed2e16	{Industry Bar}	{40.76421262848506,-73.9870174251268,New York,NY,United States}	{Nightlife Spot,}
+848	Tue May 17 04:28:19 +0000 2011	4ad04456f964a520c7d720e3	{Ritz Bar & Lounge}	{40.760871,-73.990166,New York,NY,United States}	{Nightlife Spot,}
+848	Mon May 16 21:11:31 +0000 2011	49dff4b2f964a52030611fe3	{Murphy & Gonzalez}	{40.73037676782432,-73.99465262889862,New York,NY,United States}	{Nightlife Spot,Food,}
+848	Mon May 16 17:31:16 +0000 2011	4a3acdb3f964a5204ba01fe3	{Disney's The Lion King at the Minskoff Theatre}	{40.757985223340995,-73.98603200912476,New York,NY,United States}	{Performing Arts Venue,Arts & Entertainment,}
+848	Mon May 16 04:51:55 +0000 2011	3fd66200f964a5201de71ee3	{Duplex}	{40.733755313222744,-74.0026326791738,New York,NY,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+848	Sun May 15 18:15:15 +0000 2011	4db1d34a7abaff58538ebfcd	{AIDS Walk New York 2011}	{40.77309937949358,-73.97133350372314,New York,NY,United States}	{Professional & Other Places,}
+848	Sun May 15 18:13:18 +0000 2011	4dc2e5bf887770a6be0ad78f	{i WeiWei -  ??Circle of Animals/Zodiac Heads" at Pulitzer Fountain}	{40.76409630684633,-73.97362947463989,New York,NY,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+848	Sun May 15 13:17:48 +0000 2011	412d2800f964a520df0c1fe3	{Central Park}	{40.771425615335595,-73.97350072860723,New York,NY,United States}	{Outdoors & Recreation,}
+848	Sat May 14 05:35:42 +0000 2011	4c9bb662e9a7ef3bd0ed2e16	{Industry Bar}	{40.76421262848506,-73.9870174251268,New York,NY,United States}	{Nightlife Spot,}
+848	Sat May 14 04:20:34 +0000 2011	4602f901f964a520ab441fe3	{The Anchor}	{40.72589987695666,-74.00858921023485,New York,NY,United States}	{Nightlife Spot,}
+848	Sat May 14 01:22:27 +0000 2011	49f125dcf964a52091691fe3	{O'Hara's Restaurant & Pub}	{40.70946670351214,-74.01291847229004,New York,NY,United States}	{Nightlife Spot,Food,}
+848	Fri May 13 19:20:45 +0000 2011	4bc7ab4c14d79521c6e367e9	{W New York Downtown}	{40.70924711909085,-74.01355147361755,New York,NY,United States}	{Travel & Transport,}
+848	Thu May 12 23:46:31 +0000 2011	4ace6c89f964a52078d020e3	{LaGuardia Airport (LGA)}	{40.773839,-73.87122,East Elmhurst,NY,United States}	{Travel & Transport,}
+848	Thu May 12 17:49:45 +0000 2011	482d61baf964a520d64f1fe3	{Denver International Airport (DEN)}	{39.85029261500981,-104.67378616333006,Denver,CO,United States}	{Travel & Transport,}
+848	Thu May 12 13:48:02 +0000 2011	4a344606f964a520069c1fe3	{Bob Hope Airport (BUR)}	{34.19639831676446,-118.35313796997072,Burbank,CA,United States}	{Travel & Transport,}
+848	Wed May 11 19:22:53 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Wed May 11 05:14:29 +0000 2011	43e72ee7f964a520092f1fe3	{Yokohama Sushi}	{34.01693553359038,-118.40652465820312,Culver City,CA,United States}	{Food,}
+848	Tue May 10 19:58:29 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Tue May 10 08:20:50 +0000 2011	4ae6173ef964a520a9a421e3	{Wendy's}	{34.098222,-118.3452844619751,Los Angeles,CA,United States}	{Food,}
+848	Tue May 10 07:35:29 +0000 2011	4aff53e2f964a5205e3722e3	{Gym Sports Bar}	{34.08703184688568,-118.3812590572462,West Hollywood,CA,United States}	{Nightlife Spot,}
+848	Tue May 10 05:21:50 +0000 2011	3fd66200f964a52032f01ee3	{Micky's}	{34.08535385502726,-118.3837366104126,West Hollywood,CA,United States}	{Nightlife Spot,}
+848	Tue May 10 04:50:37 +0000 2011	43768200f964a5203c2a1fe3	{East West Lounge}	{34.08543878333333,-118.38352278,Los Angeles,CA,United States}	{Nightlife Spot,}
+848	Tue May 10 00:38:03 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Mon May 09 22:14:52 +0000 2011	4d121bec2e5837049366e1d1	{Starbucks}	{33.833313938145395,-118.35073471069336,Torrance,CA,United States}	{Food,}
+848	Mon May 09 19:30:36 +0000 2011	4a7e29edf964a52042f11fe3	{Lucille's Smokehouse Bar-B-Que}	{33.8305094,-118.3511961,Torrance,CA,United States}	{Nightlife Spot,Food,}
+848	Sun May 08 17:50:15 +0000 2011	4b3a6ce7f964a520096725e3	{The Alamo Mexican Grill & Cantina}	{34.15246225,-118.758329,Agoura Hills,CA,United States}	{Food,}
+848	Sun May 08 04:44:45 +0000 2011	460ec5d6f964a52019451fe3	{Scoops}	{34.084106,-118.2948750257492,Los Angeles,CA,United States}	{Food,}
+848	Sun May 08 02:23:12 +0000 2011	4b021ae3f964a520be4722e3	{Olive Garden}	{34.19064555590243,-118.3290034532547,Burbank,CA,United States}	{Food,}
+848	Sat May 07 04:41:19 +0000 2011	4a5ac2f1f964a520d4ba1fe3	{AMC Dine-In Theatres Marina 6}	{33.98723716690428,-118.44111442565918,Marina del Rey,CA,United States}	{Arts & Entertainment,Movie Theater,}
+848	Fri May 06 20:55:20 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Fri May 06 17:27:49 +0000 2011	4b414f00f964a52017c525e3	{Starbucks}	{33.83181670493815,-118.29757332801819,Torrance,CA,United States}	{Food,}
+848	Thu May 05 01:22:10 +0000 2011	4c2d4d3d260bc9287cde19d3	{Starlight Triangle Square Cinemas}	{33.64238405306906,-117.91831970214844,Costa Mesa,CA,United States}	{Arts & Entertainment,Movie Theater,}
+848	Wed May 04 16:22:15 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Tue May 03 17:07:37 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Tue May 03 15:38:41 +0000 2011	4ae72993f964a52003a921e3	{Starbucks}	{34.15797514004957,-118.37869133310902,North Hollywood,CA,United States}	{Food,}
+848	Mon May 02 04:32:13 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+848	Mon May 02 00:33:39 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+848	Sun May 01 07:50:02 +0000 2011	40ca4780f964a52008011fe3	{Badlands}	{37.760848,-122.43549627,San Francisco,CA,United States}	{Nightlife Spot,}
+848	Sun May 01 06:28:08 +0000 2011	49ce75e7f964a520415a1fe3	{Four Seasons Hotel San Francisco}	{37.78629773890162,-122.40451964075442,San Francisco,CA,United States}	{Nightlife Spot,Travel & Transport,}
+848	Sun May 01 05:44:45 +0000 2011	4495432ef964a52083341fe3	{Treasure Island}	{37.81646299151568,-122.37162351608276,San Francisco,CA,United States}	{Outdoors & Recreation,}
+848	Sun May 01 03:20:22 +0000 2011	4bce588cb6c49c740f1d9791	{Just Dance Ballroom}	{37.77560428947292,-122.23924034117817,Oakland,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+848	Sun May 01 02:50:43 +0000 2011	4a71e4cff964a520ccd91fe3	{San Francisco-Oakland Bay Bridge}	{37.81534420993673,-122.35495090484619,San Francisco,CA,United States}	{Outdoors & Recreation,}
+848	Sun May 01 00:25:06 +0000 2011	49d01698f964a520fd5a1fe3	{Golden Gate Bridge}	{37.81700118722001,-122.47821718454361,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+848	Sat Apr 30 23:21:42 +0000 2011	4ce453c3f5f9236a1bd58461	{GLBT History Museum}	{37.760922,-122.435605,San Francisco,CA,United States}	{Museum,Arts & Entertainment,}
+848	Sat Apr 30 21:52:00 +0000 2011	4b23e3fdf964a520325c24e3	{Human Rights Campaign Store}	{37.759732,-122.434941,San Francisco,CA,United States}	{Shop & Service,}
+848	Sat Apr 30 07:41:57 +0000 2011	40ca4780f964a52009011fe3	{The Caf?}	{37.76296711864107,-122.43435770273209,San Francisco,CA,United States}	{Nightlife Spot,}
+848	Sat Apr 30 03:09:22 +0000 2011	3fd66200f964a52019ed1ee3	{LuLu}	{37.781806,-122.401752,San Francisco,CA,United States}	{Food,}
+848	Sat Apr 30 01:30:06 +0000 2011	49ce75e7f964a520415a1fe3	{Four Seasons Hotel San Francisco}	{37.78629773890162,-122.40451964075442,San Francisco,CA,United States}	{Nightlife Spot,Travel & Transport,}
+848	Fri Apr 29 18:52:38 +0000 2011	4c125167b2510f475e63c498	{Facebook 1050 Building 1}	{37.419117624349965,-122.14629650115967,Palo Alto,CA,United States}	{Office,Professional & Other Places,}
+848	Thu Apr 28 21:38:16 +0000 2011	49c978d2f964a5206b581fe3	{W San Francisco}	{37.78527484428987,-122.400481402874,San Francisco,CA,United States}	{Travel & Transport,}
+848	Thu Apr 28 18:56:44 +0000 2011	49fdea19f964a5204a6f1fe3	{Twitter, Inc.}	{37.78209298102679,-122.4005725979805,San Francisco,CA,United States}	{Office,Professional & Other Places,}
+848	Thu Apr 28 01:17:49 +0000 2011	49efbb13f964a520fc681fe3	{Infusion Lounge}	{37.78543594764699,-122.40846633911133,San Francisco,CA,United States}	{Nightlife Spot,}
+848	Thu Apr 28 00:07:51 +0000 2011	49cd4147f964a520d9591fe3	{Tian Sing}	{37.7855037805344,-122.40859508514404,San Francisco,CA,United States}	{Food,}
+848	Wed Apr 27 22:29:43 +0000 2011	49c978d2f964a5206b581fe3	{W San Francisco}	{37.78527484428987,-122.400481402874,San Francisco,CA,United States}	{Travel & Transport,}
+848	Wed Apr 27 20:47:16 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+848	Wed Apr 27 18:01:47 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+848	Tue Apr 26 17:43:04 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Mon Apr 25 19:47:45 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Mon Apr 25 18:55:04 +0000 2011	4ae72993f964a52003a921e3	{Starbucks}	{34.15797514004957,-118.37869133310902,North Hollywood,CA,United States}	{Food,}
+848	Sun Apr 24 23:51:16 +0000 2011	4ab04f10f964a520006720e3	{Starbucks}	{33.99121223249807,-118.4466599798368,Marina Del Rey,CA,United States}	{Food,}
+848	Sun Apr 24 21:11:42 +0000 2011	4ac4e2cbf964a5206c9f20e3	{El Torito}	{33.97336725805026,-118.44625353813171,Marina del Rey,CA,United States}	{Food,}
+848	Sun Apr 24 00:43:50 +0000 2011	4a677f82f964a52091c91fe3	{Las Vegas McCarran International Airport (LAS)}	{36.08365019548198,-115.14985084533691,Las Vegas,NV,United States}	{Travel & Transport,}
+848	Sat Apr 23 17:23:19 +0000 2011	4c86a06274d7b60c4cc4a5d8	{Pasha's}	{26.07328861475803,-80.13859234784573,Dania Beach,FL,United States}	{Food,}
+848	Sat Apr 23 14:52:14 +0000 2011	4bbe3fff53e99521c1f92ca9	{Fort Lauderdale-Hollywood International Airport (FLL)}	{26.071085321330138,-80.1408863067627,Ft Lauderdale,FL,United States}	{Travel & Transport,}
+848	Sat Apr 23 04:07:38 +0000 2011	4c3004e5452620a1899f1e0f	{The Manor}	{26.158008534634288,-80.13571369239708,Wilton Manors,FL,United States}	{Nightlife Spot,}
+848	Fri Apr 22 13:14:05 +0000 2011	4c362ee0ae2da5937abdfcc5	{NCL Terminal}	{25.774377215378788,-80.166021955966,Miami,FL,United States}	{Travel & Transport,}
+848	Mon Apr 18 18:32:29 +0000 2011	4c362ee0ae2da5937abdfcc5	{NCL Terminal}	{25.774377215378788,-80.166021955966,Miami,FL,United States}	{Travel & Transport,}
+848	Mon Apr 18 01:58:49 +0000 2011	4b1075f6f964a520ee7023e3	{Cafe Prima Pasta}	{25.855968841957335,-80.12272037751427,Miami,FL,United States}	{Food,}
+848	Sun Apr 17 19:51:23 +0000 2011	4dab36b80cb6a89c627ebffe	{NOH8 Campaign Photo Shoot Miami}	{25.849066,-80.152482,North Bay Village,FL,United States}	{Arts & Entertainment,}
+848	Sun Apr 17 18:52:04 +0000 2011	4dab36b80cb6a89c627ebffe	{NOH8 Campaign Photo Shoot Miami}	{25.849066,-80.152482,North Bay Village,FL,United States}	{Arts & Entertainment,}
+848	Sun Apr 17 00:34:19 +0000 2011	4a8dff77f964a520b11120e3	{Shuckers Bar & Grill}	{25.84946849716071,-80.14858511194932,North Bay Village,FL,United States}	{Food,}
+848	Sat Apr 16 15:03:13 +0000 2011	4bc9def3fb84c9b6ecc31b3e	{Miami Beach Gay Pride}	{25.782572,-80.130259,Miami Beach,FL,United States}	{Nightlife Spot,}
+848	Sat Apr 16 02:48:49 +0000 2011	4a8dff77f964a520b11120e3	{Shuckers Bar & Grill}	{25.84946849716071,-80.14858511194932,North Bay Village,FL,United States}	{Food,}
+848	Fri Apr 15 22:48:45 +0000 2011	4bbe3fff53e99521c1f92ca9	{Fort Lauderdale-Hollywood International Airport (FLL)}	{26.071085321330138,-80.1408863067627,Ft Lauderdale,FL,United States}	{Travel & Transport,}
+848	Fri Apr 15 16:26:58 +0000 2011	449e9fb9f964a520c0341fe3	{Phoenix Sky Harbor International Airport (PHX)}	{33.43562440517176,-112.00306606318918,Phoenix,AZ,United States}	{Travel & Transport,}
+848	Fri Apr 15 14:34:07 +0000 2011	4a344606f964a520069c1fe3	{Bob Hope Airport (BUR)}	{34.19639831676446,-118.35313796997072,Burbank,CA,United States}	{Travel & Transport,}
+848	Fri Apr 15 12:49:54 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Thu Apr 14 18:22:48 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Wed Apr 13 02:41:14 +0000 2011	4a9c5450f964a520d13620e3	{Trader Joe's}	{34.020221,-118.42205989388968,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+848	Wed Apr 13 02:19:58 +0000 2011	4ad12a42f964a5202bdd20e3	{Westfield Culver City}	{33.98604389243085,-118.39315784907377,Culver City,CA,United States}	{Outdoors & Recreation,Shop & Service,}
+848	Tue Apr 12 19:33:50 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Mon Apr 11 23:13:10 +0000 2011	4ae3799ef964a5208a9521e3	{US Post Office}	{34.16465957948522,-118.4045265524941,North Hollywood,CA,United States}	{Professional & Other Places,}
+848	Mon Apr 11 19:36:27 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Sat Apr 09 02:15:44 +0000 2011	4b96dee9f964a52047ea34e3	{Windmills}	{33.96156849254015,-116.57017707824708,Desert Hot Springs,CA,United States}	{Office,Professional & Other Places,}
+848	Fri Apr 08 16:29:57 +0000 2011	4b449b6bf964a520a4f725e3	{Starbucks}	{34.164587935930584,-118.37425231933594,North Hollywood,CA,United States}	{Food,}
+848	Thu Apr 07 04:18:06 +0000 2011	4b847057f964a520673531e3	{Applebee's}	{40.484585822780275,-88.95337265555249,Bloomington,IL,United States}	{Food,}
+848	Wed Apr 06 23:30:58 +0000 2011	4d9ce4a388296a310d1421af	{NOH8 Photo shoot @ ISU}	{40.511661,-88.99297535419464,Normal,IL,United States}	{}
+848	Wed Apr 06 04:39:10 +0000 2011	4bc9daa2937ca593f06ea692	{Marriott Hotel & Conference Center}	{40.50867067903198,-88.98615488214419,Normal,IL,United States}	{Nightlife Spot,Travel & Transport,}
+848	Wed Apr 06 02:23:50 +0000 2011	4b3b8f35f964a520ce7525e3	{Medici}	{40.509720734732184,-88.98518085479736,Normal,IL,United States}	{Food,}
+848	Wed Apr 06 01:07:30 +0000 2011	4b6f2e98f964a5208fe22ce3	{Central Illinois Regional Airport (BMI)}	{40.48305807098706,-88.91423106193542,Bloomington,IL,United States}	{Travel & Transport,Airport,}
+848	Tue Apr 05 22:30:47 +0000 2011	4a5a77a4f964a52062ba1fe3	{Chicago O'Hare International Airport (ORD)}	{41.977270920041626,-87.90440082550049,Chicago,IL,United States}	{Travel & Transport,}
+848	Tue Apr 05 17:52:12 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+848	Tue Apr 05 16:04:35 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Tue Apr 05 01:31:56 +0000 2011	4af8de57f964a5205e1022e3	{Baja Fresh Mexican Grill}	{34.03775787576731,-118.44105877576207,Los Angeles,CA,United States}	{Food,}
+848	Tue Apr 05 00:33:55 +0000 2011	4ae72993f964a52003a921e3	{Starbucks}	{34.15797514004957,-118.37869133310902,North Hollywood,CA,United States}	{Food,}
+848	Mon Apr 04 20:33:35 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Mon Apr 04 01:17:30 +0000 2011	4ca7a30314c33704e6c8cb3b	{Qdoba Mexican Grill}	{33.986676720559814,-118.39242696762085,Culver City,CA,United States}	{Food,}
+848	Sun Apr 03 23:05:48 +0000 2011	4a65f061f964a520bbc71fe3	{Starbucks}	{34.01713568347601,-118.40601560782673,Culver City,CA,United States}	{Food,}
+848	Sun Apr 03 01:19:18 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Fri Apr 01 19:40:58 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Fri Apr 01 17:24:27 +0000 2011	49d52515f964a520705c1fe3	{Costco}	{33.99271689197,-118.44681143760681,Marina del Rey,CA,United States}	{Shop & Service,Food & Drink Shop,}
+848	Thu Mar 31 20:04:49 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Thu Mar 31 02:55:55 +0000 2011	4a9c5450f964a520d13620e3	{Trader Joe's}	{34.020221,-118.42205989388968,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+848	Wed Mar 30 19:46:13 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Tue Mar 29 19:41:30 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Tue Mar 29 04:18:00 +0000 2011	4a344606f964a520069c1fe3	{Bob Hope Airport (BUR)}	{34.19639831676446,-118.35313796997072,Burbank,CA,United States}	{Travel & Transport,}
+848	Mon Mar 28 23:57:37 +0000 2011	44d9ff60f964a5208b361fe3	{Dallas/Fort Worth International Airport (DFW)}	{32.89803818160521,-97.04086303710938,DFW Airport,TX,United States}	{Travel & Transport,}
+848	Mon Mar 28 18:24:31 +0000 2011	452113b6f964a520bc3a1fe3	{Boston Logan International Airport (BOS)}	{42.36650312404415,-71.01667642593384,Boston,MA,United States}	{Travel & Transport,}
+848	Mon Mar 28 03:24:20 +0000 2011	4aa6caabf964a520fe4a20e3	{Flash's Cocktails}	{42.349847,-71.070605,Boston,MA,United States}	{Nightlife Spot,}
+848	Sun Mar 27 19:42:28 +0000 2011	4d8e3a5d830160fc6d284b35	{NOH8 Photoshoot Boston}	{42.35086,-71.065119,Boston,MA,United States}	{Arts & Entertainment,}
+848	Sun Mar 27 00:34:20 +0000 2011	4a02465ef964a52045711fe3	{AMC Loews Boston Common 19}	{42.35337703659939,-71.06387054196433,Boston,MA,United States}	{Arts & Entertainment,Movie Theater,}
+848	Sat Mar 26 23:13:43 +0000 2011	4aa6caabf964a520fe4a20e3	{Flash's Cocktails}	{42.349847,-71.070605,Boston,MA,United States}	{Nightlife Spot,}
+848	Sat Mar 26 03:47:49 +0000 2011	40b28c80f964a52007f81ee3	{Club Cafe}	{42.348474552532686,-71.07231080532074,Boston,MA,United States}	{Nightlife Spot,}
+848	Fri Mar 25 20:59:07 +0000 2011	4c91546ab641236ab6a68079	{Q Restaurant}	{42.351669966705366,-71.06267631053925,Boston,MA,United States}	{Food,}
+848	Fri Mar 25 10:59:49 +0000 2011	4b740d1ff964a52085c52de3	{New England Cable News (NECN)}	{42.29337377253336,-71.1979586510496,Newton,MA,United States}	{Professional & Other Places,}
+848	Fri Mar 25 04:27:52 +0000 2011	452113b6f964a520bc3a1fe3	{Boston Logan International Airport (BOS)}	{42.36650312404415,-71.01667642593384,Boston,MA,United States}	{Travel & Transport,}
+848	Thu Mar 24 22:53:22 +0000 2011	4b6345cdf964a520016f2ae3	{T.G.I. Friday's}	{32.89879487921954,-97.04433917999268,Dallas,TX,United States}	{Travel & Transport,Airport,Food,}
+848	Thu Mar 24 20:50:53 +0000 2011	44d9ff60f964a5208b361fe3	{Dallas/Fort Worth International Airport (DFW)}	{32.89803818160521,-97.04086303710938,DFW Airport,TX,United States}	{Travel & Transport,}
+848	Thu Mar 24 17:15:50 +0000 2011	4a344606f964a520069c1fe3	{Bob Hope Airport (BUR)}	{34.19639831676446,-118.35313796997072,Burbank,CA,United States}	{Travel & Transport,}
+848	Thu Mar 24 15:56:50 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Wed Mar 23 18:40:30 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Tue Mar 22 21:41:51 +0000 2011	4ae3799ef964a5208a9521e3	{US Post Office}	{34.16465957948522,-118.4045265524941,North Hollywood,CA,United States}	{Professional & Other Places,}
+848	Tue Mar 22 19:47:25 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Mon Mar 21 19:24:35 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Mon Mar 21 17:37:38 +0000 2011	4c21157111de20a14ec982ce	{Harbor-UCLA Medical Foundation, Inc}	{33.829908616666664,-118.297075,Torrance,CA,United States}	{}
+848	Fri Mar 18 18:04:03 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Fri Mar 18 15:55:26 +0000 2011	4a525d6ef964a52091b11fe3	{Harbor-UCLA Medical Center}	{33.82972677307096,-118.2914686203003,Torrance,CA,United States}	{Medical Center,Professional & Other Places,}
+848	Thu Mar 17 20:06:15 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Thu Mar 17 19:49:03 +0000 2011	4b75c8f7f964a5208f242ee3	{Subway}	{34.16462735417677,-118.36950997189255,North Hollywood,CA,United States}	{Food,}
+848	Wed Mar 16 19:55:35 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Wed Mar 16 05:08:50 +0000 2011	4a65f061f964a520bbc71fe3	{Starbucks}	{34.01713568347601,-118.40601560782673,Culver City,CA,United States}	{Food,}
+848	Wed Mar 16 03:49:45 +0000 2011	43e72ee7f964a520092f1fe3	{Yokohama Sushi}	{34.01693553359038,-118.40652465820312,Culver City,CA,United States}	{Food,}
+848	Tue Mar 15 20:20:27 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Tue Mar 15 04:59:58 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+848	Tue Mar 15 00:07:12 +0000 2011	4a198a3ef964a520237a1fe3	{Chicago Midway International Airport (MDW)}	{41.78790499530704,-87.74070024490356,Chicago,IL,United States}	{Travel & Transport,}
+848	Mon Mar 14 19:00:22 +0000 2011	4bbe3fff53e99521c1f92ca9	{Fort Lauderdale-Hollywood International Airport (FLL)}	{26.071085321330138,-80.1408863067627,Ft Lauderdale,FL,United States}	{Travel & Transport,}
+848	Mon Mar 14 18:11:50 +0000 2011	4ae34b85f964a520f79221e3	{W Fort Lauderdale}	{26.128470239849122,-80.10390400886536,Fort Lauderdale,FL,United States}	{Nightlife Spot,Travel & Transport,}
+848	Mon Mar 14 17:48:15 +0000 2011	50ca02c7245f2d4aa8c2c9a4	{Le Marche Gourmet Market}	{26.12914561168075,-80.10351306296741,Fort Lauderdale,FL,United States}	{Food,}
+848	Mon Mar 14 17:48:14 +0000 2011	50ca02c7245f2d4aa8c2c9a4	{Le Marche Gourmet Market}	{26.12914561168075,-80.10351306296741,Fort Lauderdale,FL,United States}	{Food,}
+848	Mon Mar 14 05:45:49 +0000 2011	40e0b100f964a5207d051fe3	{Voodoo Lounge}	{26.1209658161318,-80.14577220941035,Fort Lauderdale,FL,United States}	{Nightlife Spot,Arts & Entertainment,}
+848	Mon Mar 14 04:51:24 +0000 2011	4b2d42a3f964a52088d224e3	{Matty's on the Drive}	{26.158300853490935,-80.13373456074683,Wilton Manors,FL,United States}	{Nightlife Spot,}
+848	Mon Mar 14 04:25:33 +0000 2011	4c3004e5452620a1899f1e0f	{The Manor}	{26.158008534634288,-80.13571369239708,Wilton Manors,FL,United States}	{Nightlife Spot,}
+848	Mon Mar 14 03:30:33 +0000 2011	4b06ba45f964a52033ef22e3	{Hooters}	{26.122207063096425,-80.10434754139128,Fort Lauderdale,FL,United States}	{Nightlife Spot,Food,}
+848	Sun Mar 13 20:40:12 +0000 2011	4d7d27e1e04d6ea8513b08d6	{NOH8 Photo Shoot In Ft Lauderdale}	{26.128390431404114,-80.104097,Fort Lauderdale,FL,United States}	{Nightlife Spot,}
+848	Sun Mar 13 18:51:35 +0000 2011	50ca02c7245f2d4aa8c2c9a4	{Le Marche Gourmet Market}	{26.12914561168075,-80.10351306296741,Fort Lauderdale,FL,United States}	{Food,}
+848	Sun Mar 13 02:24:59 +0000 2011	4c432f49e26920a1ba1261e7	{Da Big Kahuna}	{26.121943718209753,-80.10441844441384,Fort Lauderdale,FL,United States}	{Nightlife Spot,Food,}
+848	Sat Mar 12 22:16:48 +0000 2011	4d7ba44e7498a1cd5fdf6dfc	{NOH8 Tent @ Ft. Lauderdale Pride}	{26.200756430625916,-80.148384,Oakland Park,FL,United States}	{Outdoors & Recreation,}
+848	Sat Mar 12 16:53:39 +0000 2011	4d7ba44e7498a1cd5fdf6dfc	{NOH8 Tent @ Ft. Lauderdale Pride}	{26.200756430625916,-80.148384,Oakland Park,FL,United States}	{Outdoors & Recreation,}
+848	Sat Mar 12 05:19:25 +0000 2011	4c3004e5452620a1899f1e0f	{The Manor}	{26.158008534634288,-80.13571369239708,Wilton Manors,FL,United States}	{Nightlife Spot,}
+848	Sat Mar 12 03:45:34 +0000 2011	4b2d42a3f964a52088d224e3	{Matty's on the Drive}	{26.158300853490935,-80.13373456074683,Wilton Manors,FL,United States}	{Nightlife Spot,}
+848	Sat Mar 12 02:43:23 +0000 2011	4bb65959941ad13a58491fe3	{Fat Tuesday}	{26.122201113049705,-80.10431481689963,Fort Lauderdale,FL,United States}	{Nightlife Spot,}
+848	Sat Mar 12 01:21:09 +0000 2011	4ae34b85f964a520f79221e3	{W Fort Lauderdale}	{26.128470239849122,-80.10390400886536,Fort Lauderdale,FL,United States}	{Nightlife Spot,Travel & Transport,}
+848	Sat Mar 12 00:01:12 +0000 2011	4bd73e9b09ecb713b172467c	{Publix Super Market at Coral Ridge Shopping Center}	{26.169121,-80.118219,Fort Lauderdale,FL,United States}	{Shop & Service,Food,Food & Drink Shop,}
+848	Fri Mar 11 22:14:44 +0000 2011	4aec6296f964a52088c621e3	{Peter Pan Diner}	{26.166562,-80.13102650642395,Oakland Park,FL,United States}	{Food,}
+848	Fri Mar 11 21:54:24 +0000 2011	4bafe8f4f964a520d52a3ce3	{Jaco Pastorius Park}	{26.176012312072597,-80.13240966198734,Oakland Park,FL,United States}	{Outdoors & Recreation,}
+848	Fri Mar 11 03:36:44 +0000 2011	4b06ba45f964a52033ef22e3	{Hooters}	{26.122207063096425,-80.10434754139128,Fort Lauderdale,FL,United States}	{Nightlife Spot,Food,}
+848	Fri Mar 11 01:21:20 +0000 2011	4ae34b85f964a520f79221e3	{W Fort Lauderdale}	{26.128470239849122,-80.10390400886536,Fort Lauderdale,FL,United States}	{Nightlife Spot,Travel & Transport,}
+848	Fri Mar 11 00:14:10 +0000 2011	4bbe3fff53e99521c1f92ca9	{Fort Lauderdale-Hollywood International Airport (FLL)}	{26.071085321330138,-80.1408863067627,Ft Lauderdale,FL,United States}	{Travel & Transport,}
+848	Thu Mar 10 20:37:01 +0000 2011	440da2cbf964a52091301fe3	{Austin Bergstrom International Airport (AUS)}	{30.202558756341976,-97.66759872436523,Austin,TX,United States}	{Travel & Transport,}
+848	Thu Mar 10 16:28:43 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+848	Wed Mar 09 20:23:53 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Wed Mar 09 19:38:28 +0000 2011	4ae3799ef964a5208a9521e3	{US Post Office}	{34.16465957948522,-118.4045265524941,North Hollywood,CA,United States}	{Professional & Other Places,}
+848	Tue Mar 08 20:11:51 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Mon Mar 07 21:20:53 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Sun Mar 06 17:48:07 +0000 2011	43d39576f964a520202e1fe3	{W Los Angeles - Westwood}	{34.06314429373675,-118.44129263835883,Los Angeles,CA,United States}	{Travel & Transport,}
+848	Sun Mar 06 00:24:56 +0000 2011	4d391650a558a1cd78f2ce43	{NOHO Lofts Gym}	{34.168318,-118.363634,North Hollywood,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+848	Sat Mar 05 23:32:12 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Sat Mar 05 15:16:57 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+848	Fri Mar 04 23:18:22 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Fri Mar 04 22:57:31 +0000 2011	4b75c8f7f964a5208f242ee3	{Subway}	{34.16462735417677,-118.36950997189255,North Hollywood,CA,United States}	{Food,}
+848	Thu Mar 03 20:24:29 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Wed Mar 02 20:30:09 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Wed Mar 02 19:29:28 +0000 2011	4b48c542f964a520345626e3	{Sports Authority}	{34.1912944076755,-118.33212884896611,Burbank,CA,United States}	{Shop & Service,Clothing Store,}
+848	Wed Mar 02 02:21:32 +0000 2011	4d391650a558a1cd78f2ce43	{NOHO Lofts Gym}	{34.168318,-118.363634,North Hollywood,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+848	Tue Mar 01 20:40:17 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Tue Mar 01 20:39:42 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Tue Mar 01 20:39:41 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Tue Mar 01 02:37:51 +0000 2011	4cf423903e996a31aabcea8f	{Adam Bouska Photography Studio}	{34.16792574879964,-118.36343765258789,North Hollywood,CA,United States}	{Arts & Entertainment,}
+848	Mon Feb 28 20:46:37 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Sun Feb 27 06:44:37 +0000 2011	4aee5113f964a5208ad321e3	{Denny's}	{34.17229235172272,-118.378704,North Hollywood,CA,United States}	{Food,}
+848	Sat Feb 26 22:24:58 +0000 2011	4d6964b79bd6a143ede05edf	{NOH8 San Diego}	{32.717867,-117.166781,San Diego,CA,United States}	{Professional & Other Places,}
+848	Sat Feb 26 06:06:33 +0000 2011	49dc6f47f964a5208d5f1fe3	{Applebee's}	{32.77107386496051,-117.15888977050781,San Diego,CA,United States}	{Food,}
+848	Sat Feb 26 03:37:26 +0000 2011	4adf98b8f964a520f57b21e3	{DoubleTree by Hilton San Diego - Mission Valley}	{32.76994822993164,-117.15989889740835,San Diego,CA,United States}	{Travel & Transport,Hotel,}
+848	Sat Feb 26 02:04:07 +0000 2011	42951180f964a5203b241fe3	{W San Diego}	{32.717741914159596,-117.16683741247434,San Diego,CA,United States}	{Travel & Transport,Food,Hotel,}
+848	Sat Feb 26 00:11:51 +0000 2011	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+848	Fri Feb 25 19:00:39 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Fri Feb 25 03:45:43 +0000 2011	4d391650a558a1cd78f2ce43	{NOHO Lofts Gym}	{34.168318,-118.363634,North Hollywood,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+848	Thu Feb 24 20:55:36 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Thu Feb 24 05:46:35 +0000 2011	4ae25f48f964a520c68d21e3	{Pinz Bowling Center}	{34.14472585250918,-118.40880541145813,Studio City,CA,United States}	{Arts & Entertainment,}
+848	Thu Feb 24 00:49:47 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Wed Feb 23 09:50:35 +0000 2011	41269080f964a520520c1fe3	{Fiesta Cantina}	{34.085247006196575,-118.38386200294292,West Hollywood,CA,United States}	{Nightlife Spot,Food,}
+848	Wed Feb 23 08:30:44 +0000 2011	3fd66200f964a52032f01ee3	{Micky's}	{34.08535385502726,-118.3837366104126,West Hollywood,CA,United States}	{Nightlife Spot,}
+848	Tue Feb 22 20:33:15 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Mon Feb 21 20:39:34 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Mon Feb 21 01:31:56 +0000 2011	4b05a511f964a52017e022e3	{H&M}	{33.98562069503215,-118.39413702782325,Culver City,CA,United States}	{Shop & Service,Clothing Store,}
+848	Sun Feb 20 02:51:10 +0000 2011	4a344606f964a520069c1fe3	{Bob Hope Airport (BUR)}	{34.19639831676446,-118.35313796997072,Burbank,CA,United States}	{Travel & Transport,}
+848	Sun Feb 20 00:26:31 +0000 2011	449e9fb9f964a520c0341fe3	{Phoenix Sky Harbor International Airport (PHX)}	{33.43562440517176,-112.00306606318918,Phoenix,AZ,United States}	{Travel & Transport,}
+848	Sat Feb 19 19:41:27 +0000 2011	4c325c03452620a145fd210f	{Granny's Closet}	{35.195995,-111.654622,Flagstaff,AZ,United States}	{Nightlife Spot,Food,}
+848	Sat Feb 19 06:01:00 +0000 2011	4bc90536b6c49c7414b68d91	{Drury Inn & Suites - Flagstaff}	{35.194523789219836,-111.65492555535921,Flagstaff,AZ,United States}	{Travel & Transport,}
+848	Sat Feb 19 04:59:13 +0000 2011	4ba5a806f964a520ce1939e3	{Collins Irish Pub}	{35.19774226705635,-111.64898672457885,Flagstaff,AZ,United States}	{Nightlife Spot,Food,}
+848	Sat Feb 19 03:10:27 +0000 2011	4b395d83f964a520675b25e3	{Olive Garden}	{35.17599906530659,-111.66261692199079,Flagstaff,AZ,United States}	{Food,}
+848	Fri Feb 18 21:22:29 +0000 2011	4d5edfcb1ee8721ea0909721	{NOH8 at Northern Arizona University}	{35.19257765,-111.656443,Flagstaff,AZ,United States}	{College & University,}
+848	Fri Feb 18 19:09:04 +0000 2011	4c325c03452620a145fd210f	{Granny's Closet}	{35.195995,-111.654622,Flagstaff,AZ,United States}	{Nightlife Spot,Food,}
+848	Fri Feb 18 06:14:41 +0000 2011	4ba5a806f964a520ce1939e3	{Collins Irish Pub}	{35.19774226705635,-111.64898672457885,Flagstaff,AZ,United States}	{Nightlife Spot,Food,}
+848	Fri Feb 18 04:38:51 +0000 2011	4ba9131af964a52016093ae3	{Taverna Greek Grill}	{35.17826327457171,-111.66765689849854,Flagstaff,AZ,United States}	{Food,}
+848	Fri Feb 18 04:08:35 +0000 2011	4b4dffdff964a52098dd26e3	{Northern Arizona University}	{35.187838850798094,-111.65508270263672,Flagstaff,AZ,United States}	{College & University,}
+848	Fri Feb 18 00:25:25 +0000 2011	449e9fb9f964a520c0341fe3	{Phoenix Sky Harbor International Airport (PHX)}	{33.43562440517176,-112.00306606318918,Phoenix,AZ,United States}	{Travel & Transport,}
+848	Thu Feb 17 21:32:42 +0000 2011	4a344606f964a520069c1fe3	{Bob Hope Airport (BUR)}	{34.19639831676446,-118.35313796997072,Burbank,CA,United States}	{Travel & Transport,}
+848	Thu Feb 17 20:06:46 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Thu Feb 17 05:16:49 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Wed Feb 16 19:08:23 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Wed Feb 16 08:09:46 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Wed Feb 16 03:47:31 +0000 2011	4c9d2ef69975a143e84839cf	{Supperclub}	{34.10193065366754,-118.33566606044769,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+848	Wed Feb 16 03:41:13 +0000 2011	4a83ae72f964a5209ffb1fe3	{Hollywood Walk Of Fame}	{34.10153309727385,-118.33867281675339,Hollywood,CA,United States}	{Government Building,Arts & Entertainment,Professional & Other Places,}
+848	Tue Feb 15 21:58:58 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Tue Feb 15 21:43:02 +0000 2011	4ae72993f964a52003a921e3	{Starbucks}	{34.15797514004957,-118.37869133310902,North Hollywood,CA,United States}	{Food,}
+848	Tue Feb 15 01:10:45 +0000 2011	4d391650a558a1cd78f2ce43	{NOHO Lofts Gym}	{34.168318,-118.363634,North Hollywood,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+848	Mon Feb 14 21:40:39 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Mon Feb 14 00:21:58 +0000 2011	4b8486edf964a520493a31e3	{LA Nails}	{34.040253788177836,-118.42715084552765,Los Angeles,CA,United States}	{Shop & Service,}
+848	Sun Feb 13 07:27:06 +0000 2011	4c42a903d7fad13aac8e09da	{Ultra Suede}	{34.08266170105786,-118.38576103880314,West Hollywood,CA,United States}	{Nightlife Spot,}
+848	Sat Feb 12 18:54:50 +0000 2011	4cf423903e996a31aabcea8f	{Adam Bouska Photography Studio}	{34.16792574879964,-118.36343765258789,North Hollywood,CA,United States}	{Arts & Entertainment,}
+848	Sat Feb 12 03:09:51 +0000 2011	4d391650a558a1cd78f2ce43	{NOHO Lofts Gym}	{34.168318,-118.363634,North Hollywood,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+848	Fri Feb 11 22:31:58 +0000 2011	4ae3799ef964a5208a9521e3	{US Post Office}	{34.16465957948522,-118.4045265524941,North Hollywood,CA,United States}	{Professional & Other Places,}
+848	Fri Feb 11 21:17:44 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Fri Feb 11 03:41:56 +0000 2011	4d391650a558a1cd78f2ce43	{NOHO Lofts Gym}	{34.168318,-118.363634,North Hollywood,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+848	Thu Feb 10 20:51:30 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Thu Feb 10 05:39:29 +0000 2011	4d391650a558a1cd78f2ce43	{NOHO Lofts Gym}	{34.168318,-118.363634,North Hollywood,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+848	Thu Feb 10 03:06:33 +0000 2011	4cf423903e996a31aabcea8f	{Adam Bouska Photography Studio}	{34.16792574879964,-118.36343765258789,North Hollywood,CA,United States}	{Arts & Entertainment,}
+848	Wed Feb 09 23:12:13 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Wed Feb 09 20:56:03 +0000 2011	4c8ef27bd68c6dcbb5ac00a2	{SUBWAY}	{33.97871538549562,-118.37301367044448,Los Angeles,CA,United States}	{Food,}
+848	Wed Feb 09 17:51:50 +0000 2011	4a525d6ef964a52091b11fe3	{Harbor-UCLA Medical Center}	{33.82972677307096,-118.2914686203003,Torrance,CA,United States}	{Medical Center,Professional & Other Places,}
+848	Wed Feb 09 04:52:50 +0000 2011	4d391650a558a1cd78f2ce43	{NOHO Lofts Gym}	{34.168318,-118.363634,North Hollywood,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+848	Tue Feb 08 21:26:18 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Tue Feb 08 17:39:03 +0000 2011	4a525d6ef964a52091b11fe3	{Harbor-UCLA Medical Center}	{33.82972677307096,-118.2914686203003,Torrance,CA,United States}	{Medical Center,Professional & Other Places,}
+848	Tue Feb 08 01:29:23 +0000 2011	449e9fb9f964a520c0341fe3	{Phoenix Sky Harbor International Airport (PHX)}	{33.43562440517176,-112.00306606318918,Phoenix,AZ,United States}	{Travel & Transport,}
+848	Mon Feb 07 19:25:25 +0000 2011	4bc7da668b7c9c74225837cf	{Minneapolis-St. Paul International Airport (MSP)}	{44.884397546192474,-93.21178436279297,Minneapolis,MN,United States}	{Travel & Transport,}
+848	Mon Feb 07 05:51:14 +0000 2011	41326e00f964a52098171fe3	{The Saloon}	{44.976608453995325,-93.27697277069092,Minneapolis,MN,United States}	{Nightlife Spot,}
+848	Mon Feb 07 02:37:15 +0000 2011	4307c400f964a5202a271fe3	{Hell's Kitchen}	{44.974604783246434,-93.2724666595459,Minneapolis,MN,United States}	{Food,}
+848	Sun Feb 06 21:47:58 +0000 2011	4d4ee1c820d3236a5019a028	{NOH8 Minneapolis}	{44.974371,-93.272132,,,United States}	{Arts & Entertainment,}
+848	Sun Feb 06 21:27:08 +0000 2011	4d4ad2e8f2cc6a31686ec188	{Super Bowl Sunday}	{32.747868226330375,-97.09356307983398,Arlington,TX,United States}	{Stadium,Arts & Entertainment,}
+848	Sun Feb 06 18:17:34 +0000 2011	4d4ee1c820d3236a5019a028	{NOH8 Minneapolis}	{44.974371,-93.272132,,,United States}	{Arts & Entertainment,}
+848	Sun Feb 06 16:18:09 +0000 2011	4b0f0b2df964a520845e23e3	{Manny's Steakhouse}	{44.974480730315,-93.27220660502705,Minneapolis,MN,United States}	{Food,}
+848	Sun Feb 06 01:52:14 +0000 2011	432a0b00f964a520e5271fe3	{8th Street Grill}	{44.975446562256145,-93.27210267646689,Minneapolis,MN,United States}	{Nightlife Spot,Food,}
+848	Sun Feb 06 01:02:43 +0000 2011	49cd59cef964a520e7591fe3	{W Minneapolis - The Foshay}	{44.974473194652354,-93.27192484558418,Minneapolis,MN,United States}	{Nightlife Spot,Travel & Transport,}
+848	Sat Feb 05 17:28:39 +0000 2011	4d387eec2a7b59414367fd47	{National Conference on LGBT Equality: Creating Change 2011}	{44.97255550211117,-93.27321767807007,Minneapolis,MN,United States}	{College & University,}
+848	Sat Feb 05 02:19:10 +0000 2011	4c1007f781e976b0247e0eeb	{Foshay Tower Museum & Observation Deck}	{44.9745744240603,-93.27162981033325,Minneapolis,MN,United States}	{Outdoors & Recreation,Museum,Arts & Entertainment,}
+848	Sat Feb 05 01:03:16 +0000 2011	432a0b00f964a520e5271fe3	{8th Street Grill}	{44.975446562256145,-93.27210267646689,Minneapolis,MN,United States}	{Nightlife Spot,Food,}
+848	Fri Feb 04 23:38:03 +0000 2011	49cd59cef964a520e7591fe3	{W Minneapolis - The Foshay}	{44.974473194652354,-93.27192484558418,Minneapolis,MN,United States}	{Nightlife Spot,Travel & Transport,}
+848	Fri Feb 04 22:19:26 +0000 2011	4bc7da668b7c9c74225837cf	{Minneapolis-St. Paul International Airport (MSP)}	{44.884397546192474,-93.21178436279297,Minneapolis,MN,United States}	{Travel & Transport,}
+848	Fri Feb 04 19:17:17 +0000 2011	482d61baf964a520d64f1fe3	{Denver International Airport (DEN)}	{39.85029261500981,-104.67378616333006,Denver,CO,United States}	{Travel & Transport,}
+848	Fri Feb 04 16:01:19 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+848	Fri Feb 04 14:32:06 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Fri Feb 04 06:25:05 +0000 2011	4d391650a558a1cd78f2ce43	{NOHO Lofts Gym}	{34.168318,-118.363634,North Hollywood,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+848	Fri Feb 04 01:48:48 +0000 2011	4cf423903e996a31aabcea8f	{Adam Bouska Photography Studio}	{34.16792574879964,-118.36343765258789,North Hollywood,CA,United States}	{Arts & Entertainment,}
+848	Thu Feb 03 21:09:13 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Thu Feb 03 01:17:59 +0000 2011	42893400f964a5207e231fe3	{STAPLES Center}	{34.043058660157634,-118.26724290847778,Los Angeles,CA,United States}	{Stadium,Arts & Entertainment,}
+848	Wed Feb 02 21:40:05 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Wed Feb 02 05:01:15 +0000 2011	4d391650a558a1cd78f2ce43	{NOHO Lofts Gym}	{34.168318,-118.363634,North Hollywood,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+848	Wed Feb 02 00:05:06 +0000 2011	4ad2830af964a52003e220e3	{MAC Store}	{33.83321856674942,-118.35053509343307,Torrance,CA,United States}	{Shop & Service,}
+848	Tue Feb 01 23:14:18 +0000 2011	4a525d6ef964a52091b11fe3	{Harbor-UCLA Medical Center}	{33.82972677307096,-118.2914686203003,Torrance,CA,United States}	{Medical Center,Professional & Other Places,}
+848	Tue Feb 01 06:40:09 +0000 2011	4d391650a558a1cd78f2ce43	{NOHO Lofts Gym}	{34.168318,-118.363634,North Hollywood,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+848	Mon Jan 31 22:06:24 +0000 2011	4b535b5df964a520039927e3	{Walgreens}	{34.165060074053144,-118.36986376886999,NORTH HOLLYWOOD,CA,United States}	{Shop & Service,}
+848	Mon Jan 31 21:19:07 +0000 2011	4b423c0bf964a520abcf25e3	{U.S. Post Office}	{34.03447830210848,-118.43619321845718,Los Angeles,CA,United States}	{Professional & Other Places,}
+848	Mon Jan 31 06:52:47 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Sun Jan 30 07:18:05 +0000 2011	4d391650a558a1cd78f2ce43	{NOHO Lofts Gym}	{34.168318,-118.363634,North Hollywood,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+848	Sun Jan 30 03:15:03 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Sun Jan 30 02:12:28 +0000 2011	50dfa88ce4b070c02b03915f	{ULTA Beauty}	{34.18850863,-118.3267693,Burbank,CA,United States}	{Shop & Service,}
+848	Sun Jan 30 01:40:41 +0000 2011	4b9d58aef964a52079a536e3	{T.J. Maxx}	{34.189193593923996,-118.329172248312,Burbank,CA,United States}	{Shop & Service,}
+848	Sat Jan 29 01:03:50 +0000 2011	4b6c9d95f964a520c9462ce3	{CBS Studio Center}	{34.145197777881236,-118.39083917471245,Studio City,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+848	Fri Jan 28 04:26:39 +0000 2011	4d391650a558a1cd78f2ce43	{NOHO Lofts Gym}	{34.168318,-118.363634,North Hollywood,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+848	Thu Jan 27 19:26:58 +0000 2011	4cf423903e996a31aabcea8f	{Adam Bouska Photography Studio}	{34.16792574879964,-118.36343765258789,North Hollywood,CA,United States}	{Arts & Entertainment,}
+848	Thu Jan 27 03:05:51 +0000 2011	4d391650a558a1cd78f2ce43	{NOHO Lofts Gym}	{34.168318,-118.363634,North Hollywood,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+848	Thu Jan 27 01:21:16 +0000 2011	4b649ecff964a520dcc22ae3	{Bank of America}	{34.16867751,-118.34412574768066,Burbank,CA,United States}	{Shop & Service,}
+848	Wed Jan 26 22:05:53 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Tue Jan 25 05:11:46 +0000 2011	4a344606f964a520069c1fe3	{Bob Hope Airport (BUR)}	{34.19639831676446,-118.35313796997072,Burbank,CA,United States}	{Travel & Transport,}
+848	Tue Jan 25 00:29:59 +0000 2011	44d9ff60f964a5208b361fe3	{Dallas/Fort Worth International Airport (DFW)}	{32.89803818160521,-97.04086303710938,DFW Airport,TX,United States}	{Travel & Transport,}
+848	Mon Jan 24 22:19:09 +0000 2011	4a65d6a4f964a520a1c71fe3	{Louis Armstrong New Orleans International Airport (MSY)}	{29.984936414376474,-90.25714874267578,Kenner,LA,United States}	{Travel & Transport,}
+848	Mon Jan 24 19:50:41 +0000 2011	4aaaeb39f964a5200e5820e3	{Harrah's Casino New Orleans}	{29.950269142446164,-90.0653820391889,New Orleans,LA,United States}	{Travel & Transport,Arts & Entertainment,}
+848	Mon Jan 24 04:45:46 +0000 2011	4ad4c053f964a52074f520e3	{Marie Laveau's House of Voodoo}	{29.959357380867004,-90.064948,New Orleans,LA,United States}	{Shop & Service,}
+848	Sun Jan 23 20:35:48 +0000 2011	4d3c905c14aa8cfa81f4aa5e	{NOH8 Photoshoot In New Orleans}	{29.948614003773173,-90.06626236879559,New Orleans,LA,United States}	{Arts & Entertainment,}
+848	Sun Jan 23 19:13:07 +0000 2011	4aa2e20ff964a520674220e3	{W New Orleans}	{29.94876605027698,-90.06646762989634,New Orleans,LA,United States}	{Nightlife Spot,Travel & Transport,}
+848	Sun Jan 23 18:22:30 +0000 2011	4ad4d019f964a520eefb20e3	{Lil' Dizzy's}	{29.949577826574117,-90.06989337158983,New Orleans,LA,United States}	{Food,}
+848	Sun Jan 23 07:18:46 +0000 2011	4aaaeb39f964a5200e5820e3	{Harrah's Casino New Orleans}	{29.950269142446164,-90.0653820391889,New Orleans,LA,United States}	{Travel & Transport,Arts & Entertainment,}
+848	Sun Jan 23 06:59:39 +0000 2011	4aaaeb39f964a5200e5820e3	{Harrah's Casino New Orleans}	{29.950269142446164,-90.0653820391889,New Orleans,LA,United States}	{Travel & Transport,Arts & Entertainment,}
+848	Sun Jan 23 04:14:04 +0000 2011	4c538e19f5f3d13a9695aef8	{Eiffel Society}	{29.934444802053765,-90.07921099662781,New Orleans,LA,United States}	{Nightlife Spot,Museum,Arts & Entertainment,}
+848	Sun Jan 23 02:38:30 +0000 2011	4aa2e20ff964a520674220e3	{W New Orleans}	{29.94876605027698,-90.06646762989634,New Orleans,LA,United States}	{Nightlife Spot,Travel & Transport,}
+848	Sun Jan 23 01:48:47 +0000 2011	4a65d6a4f964a520a1c71fe3	{Louis Armstrong New Orleans International Airport (MSY)}	{29.984936414376474,-90.25714874267578,Kenner,LA,United States}	{Travel & Transport,}
+848	Sat Jan 22 22:12:49 +0000 2011	44d9ff60f964a5208b361fe3	{Dallas/Fort Worth International Airport (DFW)}	{32.89803818160521,-97.04086303710938,DFW Airport,TX,United States}	{Travel & Transport,}
+848	Sat Jan 22 18:13:17 +0000 2011	4a344606f964a520069c1fe3	{Bob Hope Airport (BUR)}	{34.19639831676446,-118.35313796997072,Burbank,CA,United States}	{Travel & Transport,}
+848	Sat Jan 22 06:30:55 +0000 2011	4a6f6c33f964a52022d61fe3	{Yogurtland}	{34.01788911643368,-118.40708594247586,Culver City,CA,United States}	{Food,}
+848	Sat Jan 22 02:56:11 +0000 2011	4b33eca3f964a5201e2225e3	{Union Buffet}	{34.048217784541905,-118.46290354528479,Los Angeles,CA,United States}	{Food,}
+848	Sat Jan 22 01:07:10 +0000 2011	4d391650a558a1cd78f2ce43	{NOHO Lofts Gym}	{34.168318,-118.363634,North Hollywood,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+848	Sat Jan 22 01:07:10 +0000 2011	4d391650a558a1cd78f2ce43	{NOHO Lofts Gym}	{34.168318,-118.363634,North Hollywood,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+848	Fri Jan 21 05:15:10 +0000 2011	4d391650a558a1cd78f2ce43	{NOHO Lofts Gym}	{34.168318,-118.363634,North Hollywood,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+848	Thu Jan 20 22:12:44 +0000 2011	4ae3799ef964a5208a9521e3	{US Post Office}	{34.16465957948522,-118.4045265524941,North Hollywood,CA,United States}	{Professional & Other Places,}
+848	Thu Jan 20 06:22:31 +0000 2011	42338280f964a5200e201fe3	{Ralphs}	{34.09849250644006,-118.34843337535858,West Hollywood,CA,United States}	{Shop & Service,Food & Drink Shop,}
+848	Tue Jan 18 03:17:48 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+848	Mon Jan 17 21:14:13 +0000 2011	4a8a103af964a520c90920e3	{Hartsfield-Jackson Atlanta International Airport (ATL)}	{33.640669114843895,-84.43606853485107,Atlanta,GA,United States}	{Travel & Transport,}
+848	Mon Jan 17 19:30:48 +0000 2011	40e5f700f964a520100a1fe3	{Joe's on Juniper}	{33.783213691244676,-84.38229560852051,Atlanta,GA,United States}	{Nightlife Spot,Food,}
+848	Mon Jan 17 05:11:49 +0000 2011	4a96f063f964a5209b2720e3	{Metro Cafe Diner}	{33.75981164591628,-84.38592195510864,Atlanta,GA,United States}	{Nightlife Spot,Food,}
+848	Sun Jan 16 20:46:22 +0000 2011	4d33452a5c2db60ca4abc96c	{NOH8 Photoshoot Atlanta}	{33.786671,-84.38141971,Atlanta,GA,United States}	{Arts & Entertainment,}
+848	Sun Jan 16 19:09:24 +0000 2011	4d33415e72a8b1f7dafda5d0	{NOH8 Campaign Photoshoot Atlanta}	{33.786491,-84.381407,Atlanta,GA,United States}	{Travel & Transport,Arts & Entertainment,}
+848	Sun Jan 16 02:48:20 +0000 2011	43485d80f964a52095281fe3	{Einstein's}	{33.78414988938185,-84.38217992779654,Atlanta,GA,United States}	{Nightlife Spot,Food,}
+848	Sun Jan 16 01:32:41 +0000 2011	4b158f65f964a520c6ae23e3	{W Atlanta - Midtown}	{33.786557592593454,-84.38151240348816,Atlanta,GA,United States}	{Nightlife Spot,Travel & Transport,}
+848	Sun Jan 16 00:05:16 +0000 2011	4a8a103af964a520c90920e3	{Hartsfield-Jackson Atlanta International Airport (ATL)}	{33.640669114843895,-84.43606853485107,Atlanta,GA,United States}	{Travel & Transport,}
+848	Sat Jan 15 18:59:54 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+848	Sat Jan 15 06:41:22 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Fri Jan 14 04:19:55 +0000 2011	4b37c9dff964a520234625e3	{Bed Bath & Beyond}	{34.03286390710251,-118.45107464526188,Los Angeles,CA,United States}	{Shop & Service,}
+848	Wed Jan 12 07:03:38 +0000 2011	4bd0777e41b9ef3bde19fae5	{The NoHo Lofts}	{34.165880425578806,-118.3637264271307,North Hollywood,CA,United States}	{Professional & Other Places,Residence,}
+848	Mon Jan 10 20:58:19 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Mon Jan 10 06:11:05 +0000 2011	4b4819adf964a5203a4826e3	{Ralphs}	{34.025879121711135,-118.43340387239812,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+848	Sun Jan 09 21:40:50 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Sun Jan 09 05:31:07 +0000 2011	49f22a60f964a520046a1fe3	{AMC Century City 15}	{34.05799270786358,-118.41881990432739,Los Angeles,CA,United States}	{Food,Arts & Entertainment,Movie Theater,}
+848	Sat Jan 08 22:54:49 +0000 2011	4b369c26f964a520153925e3	{Starbucks}	{34.022701362804185,-118.43898251781627,Los Angeles,CA,United States}	{Food,}
+848	Fri Jan 07 21:11:19 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Fri Jan 07 02:41:43 +0000 2011	4a56dcb7f964a520d7b51fe3	{Big Wangs}	{34.167771,-118.376084,North Hollywood,CA,United States}	{Nightlife Spot,Food,}
+848	Wed Jan 05 04:08:34 +0000 2011	43e72ee7f964a520092f1fe3	{Yokohama Sushi}	{34.01693553359038,-118.40652465820312,Culver City,CA,United States}	{Food,}
+848	Tue Jan 04 21:27:53 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Mon Jan 03 20:38:14 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Sun Jan 02 01:41:56 +0000 2011	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Sat Jan 01 09:39:16 +0000 2011	41269080f964a520520c1fe3	{Fiesta Cantina}	{34.085247006196575,-118.38386200294292,West Hollywood,CA,United States}	{Nightlife Spot,Food,}
+848	Sat Jan 01 09:14:58 +0000 2011	4a0ce64cf964a52069751fe3	{Eleven Nightclub}	{34.08564490308449,-118.38336456174619,West Hollywood,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+848	Sat Jan 01 09:10:53 +0000 2011	4a0ce64cf964a52069751fe3	{Eleven Nightclub}	{34.08564490308449,-118.38336456174619,West Hollywood,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+848	Sat Jan 01 07:24:22 +0000 2011	4335e880f964a52020281fe3	{Here Lounge}	{34.083594391928706,-118.38522468738594,West Hollywood,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+848	Sat Jan 01 06:47:21 +0000 2011	3fd66200f964a5203cf01ee3	{The Factory}	{34.08260482101347,-118.3862517417899,West Hollywood,CA,United States}	{Nightlife Spot,}
+848	Sat Jan 01 05:52:26 +0000 2011	4d1ea34016cfb60cd9bc4a61	{New Years Eve 2011}	{34.03002,-118.450369,Los Angeles,CA,United States}	{Arts & Entertainment,}
+848	Sat Jan 01 05:42:26 +0000 2011	4d1ea34016cfb60cd9bc4a61	{New Years Eve 2011}	{34.03002,-118.450369,Los Angeles,CA,United States}	{Arts & Entertainment,}
+848	Thu Dec 30 19:31:56 +0000 2010	4b1d6a26f964a520341024e3	{AT&T}	{33.99143904004091,-118.44839962296885,Marina Del Rey,CA,United States}	{Shop & Service,}
+848	Thu Dec 30 07:52:45 +0000 2010	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Wed Dec 29 23:09:35 +0000 2010	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Wed Dec 29 22:13:19 +0000 2010	4ae72993f964a52003a921e3	{Starbucks}	{34.15797514004957,-118.37869133310902,North Hollywood,CA,United States}	{Food,}
+848	Wed Dec 29 21:29:58 +0000 2010	4b648be5f964a52087bc2ae3	{United States Post Office?}	{34.16799593291546,-118.3777155876467,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+848	Tue Dec 28 21:27:58 +0000 2010	4cf423903e996a31aabcea8f	{Adam Bouska Photography Studio}	{34.16792574879964,-118.36343765258789,North Hollywood,CA,United States}	{Arts & Entertainment,}
+848	Tue Dec 28 19:34:21 +0000 2010	4bd0777e41b9ef3bde19fae5	{The NoHo Lofts}	{34.165880425578806,-118.3637264271307,North Hollywood,CA,United States}	{Professional & Other Places,Residence,}
+848	Tue Dec 28 17:34:51 +0000 2010	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Mon Dec 27 18:28:13 +0000 2010	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Mon Dec 27 02:47:57 +0000 2010	49ce8ff7f964a5205a5a1fe3	{Barnes & Noble}	{33.98671230456457,-118.4404706954956,Marina del Rey,CA,United States}	{Shop & Service,}
+848	Sun Dec 26 23:56:22 +0000 2010	4b37fd57f964a520cd4925e3	{Regal Marina del Rey 6}	{33.985996173601386,-118.44002276659012,Marina del Rey,CA,United States}	{Arts & Entertainment,Movie Theater,}
+848	Sun Dec 26 22:09:44 +0000 2010	49d52515f964a520705c1fe3	{Costco}	{33.99271689197,-118.44681143760681,Marina del Rey,CA,United States}	{Shop & Service,Food & Drink Shop,}
+848	Sat Dec 25 05:33:04 +0000 2010	4b4819adf964a5203a4826e3	{Ralphs}	{34.025879121711135,-118.43340387239812,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+848	Fri Dec 24 23:11:36 +0000 2010	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Fri Dec 24 06:07:08 +0000 2010	4a2dbfc4f964a520ed971fe3	{Giant Robot Store}	{34.040465,-118.443388,Los Angeles,CA,United States}	{Shop & Service,}
+848	Fri Dec 24 04:34:08 +0000 2010	43e72ee7f964a520092f1fe3	{Yokohama Sushi}	{34.01693553359038,-118.40652465820312,Culver City,CA,United States}	{Food,}
+848	Thu Dec 23 20:27:15 +0000 2010	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Wed Dec 22 21:17:45 +0000 2010	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Wed Dec 22 06:26:46 +0000 2010	4cf423903e996a31aabcea8f	{Adam Bouska Photography Studio}	{34.16792574879964,-118.36343765258789,North Hollywood,CA,United States}	{Arts & Entertainment,}
+848	Wed Dec 22 03:19:21 +0000 2010	4bd0777e41b9ef3bde19fae5	{The NoHo Lofts}	{34.165880425578806,-118.3637264271307,North Hollywood,CA,United States}	{Professional & Other Places,Residence,}
+848	Tue Dec 21 12:19:30 +0000 2010	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+848	Mon Dec 20 19:07:04 +0000 2010	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Mon Dec 20 03:40:19 +0000 2010	4af5b98ef964a520eefb21e3	{Barnes & Noble}	{33.8331562882284,-118.35238987500303,Torrance,CA,United States}	{Shop & Service,}
+848	Mon Dec 20 01:42:21 +0000 2010	4ad2830af964a52003e220e3	{MAC Store}	{33.83321856674942,-118.35053509343307,Torrance,CA,United States}	{Shop & Service,}
+848	Mon Dec 20 00:09:18 +0000 2010	4a7e29edf964a52042f11fe3	{Lucille's Smokehouse Bar-B-Que}	{33.8305094,-118.3511961,Torrance,CA,United States}	{Nightlife Spot,Food,}
+848	Sun Dec 19 05:40:43 +0000 2010	4beb8133b3352d7f0aa356d2	{Silver Liquor}	{34.1506,-118.431533,Sherman Oaks,CA,United States}	{Shop & Service,Food & Drink Shop,}
+848	Sun Dec 19 05:19:33 +0000 2010	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Sat Dec 18 21:24:26 +0000 2010	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Fri Dec 17 20:48:16 +0000 2010	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Fri Dec 17 02:41:54 +0000 2010	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Fri Dec 17 02:31:37 +0000 2010	4b75c8f7f964a5208f242ee3	{Subway}	{34.16462735417677,-118.36950997189255,North Hollywood,CA,United States}	{Food,}
+848	Thu Dec 16 20:13:55 +0000 2010	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Thu Dec 16 18:59:28 +0000 2010	4ae72993f964a52003a921e3	{Starbucks}	{34.15797514004957,-118.37869133310902,North Hollywood,CA,United States}	{Food,}
+848	Wed Dec 15 21:52:49 +0000 2010	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Wed Dec 15 18:08:27 +0000 2010	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Tue Dec 14 23:31:23 +0000 2010	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Tue Dec 14 04:45:00 +0000 2010	4ac837e1f964a520f4bb20e3	{Wonderland}	{34.105,-118.3305224,Los Angeles,CA,United States}	{Nightlife Spot,}
+848	Mon Dec 13 22:24:09 +0000 2010	4ac837e1f964a520f4bb20e3	{Wonderland}	{34.105,-118.3305224,Los Angeles,CA,United States}	{Nightlife Spot,}
+848	Mon Dec 13 19:39:10 +0000 2010	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Mon Dec 13 06:05:11 +0000 2010	4c2bf687d1a10f47d0dcf864	{Inglewood, CA}	{33.9617286677365,-118.35330963134766,Inglewood,CA,United States}	{Outdoors & Recreation,}
+848	Sun Dec 12 21:55:06 +0000 2010	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Sun Dec 12 02:59:22 +0000 2010	4b8486edf964a520493a31e3	{LA Nails}	{34.040253788177836,-118.42715084552765,Los Angeles,CA,United States}	{Shop & Service,}
+848	Sun Dec 12 01:36:58 +0000 2010	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Sat Dec 11 22:34:14 +0000 2010	4b6a3aa8f964a5202ace2be3	{Pick Up Stix}	{34.14256926877567,-118.39465320110321,Studio City,CA,United States}	{Food,}
+848	Sat Dec 11 21:32:12 +0000 2010	4b648be5f964a52087bc2ae3	{United States Post Office?}	{34.16799593291546,-118.3777155876467,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+848	Sat Dec 11 05:53:53 +0000 2010	412fcb00f964a520190d1fe3	{Cafe 50s}	{34.044547,-118.454802,Los Angeles,CA,United States}	{Food,}
+848	Sat Dec 11 04:12:14 +0000 2010	4b369c26f964a520153925e3	{Starbucks}	{34.022701362804185,-118.43898251781627,Los Angeles,CA,United States}	{Food,}
+848	Sat Dec 11 02:53:31 +0000 2010	4ad12a42f964a5202bdd20e3	{Westfield Culver City}	{33.98604389243085,-118.39315784907377,Culver City,CA,United States}	{Outdoors & Recreation,Shop & Service,}
+848	Fri Dec 10 20:34:24 +0000 2010	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Fri Dec 10 18:55:55 +0000 2010	4a525d6ef964a52091b11fe3	{Harbor-UCLA Medical Center}	{33.82972677307096,-118.2914686203003,Torrance,CA,United States}	{Medical Center,Professional & Other Places,}
+848	Fri Dec 10 04:41:40 +0000 2010	4b5df88bf964a520c47629e3	{Costco Gasoline}	{33.99207864672147,-118.44528257846832,Marina Del Rey,CA,United States}	{Shop & Service,}
+848	Thu Dec 09 20:26:39 +0000 2010	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Thu Dec 09 20:26:39 +0000 2010	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Thu Dec 09 02:28:56 +0000 2010	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Wed Dec 08 20:22:05 +0000 2010	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Wed Dec 08 02:03:58 +0000 2010	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Tue Dec 07 21:44:38 +0000 2010	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Mon Dec 06 23:35:39 +0000 2010	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Mon Dec 06 21:07:51 +0000 2010	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Mon Dec 06 16:51:07 +0000 2010	4cfd14430df3236a464002aa	{Westlake Independent Honda-Acura Service}	{34.155862,-118.805826,Westlake Village,CA,United States}	{Shop & Service,}
+848	Mon Dec 06 05:45:26 +0000 2010	4ba7edddf964a52085bf39e3	{Subway}	{33.97586,-118.35823491,Inglewood,CA,United States}	{Food,}
+848	Sun Dec 05 06:39:55 +0000 2010	4aea51aef964a52002bb21e3	{Zephyr Theatre}	{34.08344341638992,-118.35253983736038,Los Angeles,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+848	Sun Dec 05 03:58:09 +0000 2010	4aea51aef964a52002bb21e3	{Zephyr Theatre}	{34.08344341638992,-118.35253983736038,Los Angeles,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+848	Sun Dec 05 03:04:07 +0000 2010	4b1419fdf964a5204f9d23e3	{City of West Hollywood}	{34.09081613883848,-118.36143672466278,West Hollywood,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+848	Sat Dec 04 03:27:18 +0000 2010	42055e00f964a520701f1fe3	{The Wiltern}	{34.061428055543495,-118.30883860588074,Los Angeles,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+848	Sat Dec 04 03:05:39 +0000 2010	42055e00f964a520701f1fe3	{The Wiltern}	{34.061428055543495,-118.30883860588074,Los Angeles,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+848	Fri Dec 03 21:17:02 +0000 2010	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Fri Dec 03 03:19:36 +0000 2010	4ada8debf964a520752321e3	{Trader Joe's}	{34.030080526304246,-118.42138462265308,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+848	Thu Dec 02 20:08:31 +0000 2010	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Thu Dec 02 20:08:31 +0000 2010	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}
+848	Thu Dec 02 19:58:12 +0000 2010	4ae72993f964a52003a921e3	{Starbucks}	{34.15797514004957,-118.37869133310902,North Hollywood,CA,United States}	{Food,}
+848	Thu Dec 02 06:57:17 +0000 2010	4b369c26f964a520153925e3	{Starbucks}	{34.022701362804185,-118.43898251781627,Los Angeles,CA,United States}	{Food,}
+848	Thu Dec 02 02:47:30 +0000 2010	4b93754af964a520944434e3	{Gallery 825}	{34.08604915513501,-118.37667435407639,Los Angeles,CA,United States}	{Arts & Entertainment,}
+848	Thu Dec 02 01:58:49 +0000 2010	4b299af4f964a52099a124e3	{West Hollywood City Hall}	{34.09048738995894,-118.37065815925598,West Hollywood,CA,United States}	{Government Building,Professional & Other Places,}
+848	Thu Dec 02 01:48:58 +0000 2010	4b4767ebf964a5201e3126e3	{7-Eleven}	{34.09096876621899,-118.35529470730445,West Hollywood,CA,United States}	{Shop & Service,}
+848	Thu Dec 02 01:20:04 +0000 2010	41269080f964a520520c1fe3	{Fiesta Cantina}	{34.085247006196575,-118.38386200294292,West Hollywood,CA,United States}	{Nightlife Spot,Food,}
+848	Wed Dec 01 20:44:33 +0000 2010	4cf588bde308236a3d30e1ac	{NOH8 Campaign Headquarters}	{34.167950160508646,-118.36342960596085,Burbank,CA,United States}	{Professional & Other Places,}

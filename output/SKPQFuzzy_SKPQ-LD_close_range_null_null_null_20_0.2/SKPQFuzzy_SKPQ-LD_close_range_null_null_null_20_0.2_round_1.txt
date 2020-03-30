@@ -1,0 +1,4 @@
+#categoryName experimentName dataset neighborhood plusMode queryType numQueries numKeywords numResults radius item value min max observations
+SKPQFuzzy SKPQ-LD close range null null null 20 0.2 nodesAccessed 0.0 - 9223372036854775807 0 0
+SKPQFuzzy SKPQ-LD close range null null null 20 0.2 pageFaults 0.0 - 9223372036854775807 0 0
+SKPQFuzzy SKPQ-LD close range null null null 20 0.2 totalExecutionTime 6625079.0 - 6625079 6625079 1

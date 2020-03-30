@@ -1,0 +1,4 @@
+#categoryName experimentName dataset neighborhood plusMode queryType numQueries numKeywords numResults radius mean stdev observations
+PSKPQ PSKPQ-LD amenity range null null null 5 0.2 nodesAccessed 0.0 - 1
+PSKPQ PSKPQ-LD amenity range null null null 5 0.2 totalExecutionTime 520.0 - 1
+PSKPQ PSKPQ-LD amenity range null null null 5 0.2 pageFaults 0.0 - 1

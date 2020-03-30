@@ -1,0 +1,4 @@
+#categoryName experimentName dataset neighborhood plusMode queryType numQueries numKeywords numResults radius mean stdev observations
+SKPQLondon SKPQ-LD cullings range 20 0.2 pageFaults 0.0 - 1
+SKPQLondon SKPQ-LD cullings range 20 0.2 nodesAccessed 0.0 - 1
+SKPQLondon SKPQ-LD cullings range 20 0.2 totalExecutionTime 1277703.0 - 1

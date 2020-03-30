@@ -1,0 +1,501 @@
+2202	Thu Aug 11 02:50:34 +0000 2011	4aefa08af964a520a7d921e3	{Ella Dining Room & Bar}	{38.5787,-121.491196,Sacramento,CA,United States}	{Food,}
+2202	Sun Aug 07 17:45:05 +0000 2011	4b0586b7f964a520fe6a22e3	{McKinley Park}	{38.57692717124369,-121.46170041252846,Sacramento,CA,United States}	{Outdoors & Recreation,}
+2202	Sat Aug 06 22:07:20 +0000 2011	4ad762fdf964a520fe0921e3	{Del Dotto Winery & Caves}	{38.3397245,-122.26309597492218,Napa Valley,CA,United States}	{Food,}
+2202	Sat Aug 06 21:01:10 +0000 2011	4c40ffbdd7fad13a29ee06da	{W. H. Smith Wines}	{38.57826299901196,-122.57922649383545,Calistoga,CA,United States}	{Nightlife Spot,Shop & Service,Food,Food & Drink Shop,}
+2202	Sat Aug 06 21:00:28 +0000 2011	4c9ff0d67c096dcb7635e3d1	{Calistoga, CA}	{38.57860520182459,-122.57901728153229,Calistoga,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+2202	Sat Aug 06 19:29:09 +0000 2011	4b11c30bf964a520178423e3	{Martinelli Winery}	{38.48776733,-122.80845426666667,Windsor,CA,United States}	{Food,}
+2202	Sat Aug 06 18:47:05 +0000 2011	4a980fa7f964a520492a20e3	{Merry Edwards Winery}	{38.434691902431105,-122.85453097853392,Sebastopol,CA,United States}	{Food,}
+2202	Sat Aug 06 18:41:28 +0000 2011	4b78645ef964a520dbca2ee3	{Graton Ridge Cellars}	{38.44248056609134,-122.86050975322723,Sebastopol,CA,United States}	{Outdoors & Recreation,Food,}
+2202	Sat Aug 06 01:57:06 +0000 2011	4add393af964a520a96421e3	{Grange}	{38.58017722,-121.49377,Sacramento,CA,United States}	{Food,}
+2202	Sun Jul 31 18:52:33 +0000 2011	4d00145d506d6a31155c1f86	{Pizza Rock}	{38.578894563224885,-121.49323225021362,Sacramento,CA,United States}	{Food,}
+2202	Sun Jul 31 04:12:23 +0000 2011	4b91d3cdf964a5200fda33e3	{Sacramento Comedy Spot}	{38.57611412938366,-121.48027718067169,Sacramento,CA,United States}	{Arts & Entertainment,}
+2202	Sun Jul 31 03:42:09 +0000 2011	4ae8a9adf964a5204db121e3	{Azul Mexican Food & Tequila Bar}	{38.57614812008623,-121.4802490161922,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+2202	Thu Jul 28 02:58:37 +0000 2011	4cd485287da9a35d951be4b9	{Dive Bar}	{38.57889036958974,-121.49319469928741,Sacramento,CA,United States}	{Nightlife Spot,}
+2202	Thu Jul 28 01:33:01 +0000 2011	4d00145d506d6a31155c1f86	{Pizza Rock}	{38.578894563224885,-121.49323225021362,Sacramento,CA,United States}	{Food,}
+2202	Sat Jul 23 18:56:15 +0000 2011	4d00145d506d6a31155c1f86	{Pizza Rock}	{38.578894563224885,-121.49323225021362,Sacramento,CA,United States}	{Food,}
+2202	Fri Jul 22 01:19:34 +0000 2011	4bc97838937ca5931ce2a592	{The Press Bistro}	{38.574141,-121.483537,Sacramento,CA,United States}	{Food,}
+2202	Mon Jul 18 05:39:34 +0000 2011	49f40719f964a520f76a1fe3	{Sacramento International Airport (SMF)}	{38.692276283389305,-121.59045696258545,Sacramento,CA,United States}	{Travel & Transport,}
+2202	Fri Jul 15 21:12:47 +0000 2011	4bc7da668b7c9c74225837cf	{Minneapolis-St. Paul International Airport (MSP)}	{44.884397546192474,-93.21178436279297,Minneapolis,MN,United States}	{Travel & Transport,}
+2202	Fri Jul 15 14:15:02 +0000 2011	4aa43e54f964a520004620e3	{DoubleTree by Hilton Hotel Minneapolis - Park Place}	{44.96884316563345,-93.3508864277681,Minneapolis,MN,United States}	{Travel & Transport,}
+2202	Fri Jul 15 04:41:32 +0000 2011	4ac7ea2af964a52092ba20e3	{CRAVE Restaurant West End}	{44.967695,-93.34779203,Saint Louis Park,MN,United States}	{Nightlife Spot,Food,}
+2202	Thu Jul 14 22:38:45 +0000 2011	49cd59cef964a520e7591fe3	{W Minneapolis - The Foshay}	{44.974473194652354,-93.27192484558418,Minneapolis,MN,United States}	{Nightlife Spot,Travel & Transport,}
+2202	Thu Jul 14 12:26:47 +0000 2011	4aa43e54f964a520004620e3	{DoubleTree by Hilton Hotel Minneapolis - Park Place}	{44.96884316563345,-93.3508864277681,Minneapolis,MN,United States}	{Travel & Transport,}
+2202	Thu Jul 14 11:28:48 +0000 2011	4bc7da668b7c9c74225837cf	{Minneapolis-St. Paul International Airport (MSP)}	{44.884397546192474,-93.21178436279297,Minneapolis,MN,United States}	{Travel & Transport,}
+2202	Thu Jul 14 06:43:40 +0000 2011	49f40719f964a520f76a1fe3	{Sacramento International Airport (SMF)}	{38.692276283389305,-121.59045696258545,Sacramento,CA,United States}	{Travel & Transport,}
+2202	Sun Jul 03 22:51:18 +0000 2011	4cd485287da9a35d951be4b9	{Dive Bar}	{38.57889036958974,-121.49319469928741,Sacramento,CA,United States}	{Nightlife Spot,}
+2202	Sat Jul 02 04:10:12 +0000 2011	4ad9282df964a520a71821e3	{L Wine Lounge & Urban Kitchen}	{38.574976,-121.482806,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+2202	Sat Jul 02 04:09:42 +0000 2011	4ad9282df964a520a71821e3	{L Wine Lounge & Urban Kitchen}	{38.574976,-121.482806,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+2202	Thu Jun 30 04:21:07 +0000 2011	4cd4619ea5b346881b9c8750	{District 30}	{38.57891133776306,-121.4932107925415,Sacramento,CA,United States}	{Nightlife Spot,}
+2202	Sun Jun 26 18:34:58 +0000 2011	4c279c2ec11dc9b686e02a24	{Alice's Summerthing}	{37.769527416470666,-122.4862289428711,San Francisco,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+2202	Sun Jun 26 06:23:47 +0000 2011	4a3dd25bf964a520b1a21fe3	{Quince}	{37.79737252290187,-122.40326954345318,San Francisco,CA,United States}	{Food,}
+2202	Sun Jun 26 03:01:09 +0000 2011	4cd0a38e5b5ca35de6317df0	{Cotogna}	{37.797282484278654,-122.40362355481669,San Francisco,CA,United States}	{Food,}
+2202	Sat Jun 25 18:42:13 +0000 2011	4451c80ef964a520a5321fe3	{Alcatraz Island}	{37.82664990419708,-122.42161989212036,San Francisco,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+2202	Thu Jun 23 05:09:03 +0000 2011	4cd4619ea5b346881b9c8750	{District 30}	{38.57891133776306,-121.4932107925415,Sacramento,CA,United States}	{Nightlife Spot,}
+2202	Tue Jun 21 18:16:16 +0000 2011	4b6c7f3df964a520d73e2ce3	{IHOP}	{38.596582128283416,-121.41777436094439,Sacramento,CA,United States}	{Food,}
+2202	Sat Jun 18 16:34:04 +0000 2011	4bfdec624cf820a1b042edf4	{Rusch Community Park}	{38.70865397970041,-121.29477024078369,Citrus Heights,CA,United States}	{Outdoors & Recreation,}
+2202	Sat Jun 18 02:46:07 +0000 2011	4d00145d506d6a31155c1f86	{Pizza Rock}	{38.578894563224885,-121.49323225021362,Sacramento,CA,United States}	{Food,}
+2202	Fri Jun 17 07:36:15 +0000 2011	4cd4619ea5b346881b9c8750	{District 30}	{38.57891133776306,-121.4932107925415,Sacramento,CA,United States}	{Nightlife Spot,}
+2202	Fri Jun 17 06:57:10 +0000 2011	4d00145d506d6a31155c1f86	{Pizza Rock}	{38.578894563224885,-121.49323225021362,Sacramento,CA,United States}	{Food,}
+2202	Thu Jun 16 18:25:19 +0000 2011	4c585f52744a0f47731ecbcb	{Sacramento Jet Center (SMF)}	{38.680953720440506,-121.59672260284424,Sacramento,CA,United States}	{Travel & Transport,Airport,}
+2202	Thu Jun 16 04:15:47 +0000 2011	4d0c56483905b1f7e0e0934b	{Ace of Spades}	{38.569999100000004,-121.4908904,Sacramento,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+2202	Thu Jun 16 02:18:49 +0000 2011	4ad9282df964a520a71821e3	{L Wine Lounge & Urban Kitchen}	{38.574976,-121.482806,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+2202	Tue Jun 14 19:10:47 +0000 2011	4b0586b6f964a520c86a22e3	{MIX Downtown}	{38.576268180490246,-121.48651860548311,Sacramento,CA,United States}	{Nightlife Spot,}
+2202	Tue Jun 14 01:36:36 +0000 2011	4d00145d506d6a31155c1f86	{Pizza Rock}	{38.578894563224885,-121.49323225021362,Sacramento,CA,United States}	{Food,}
+2202	Sun Jun 12 19:32:55 +0000 2011	4ad9282df964a520a71821e3	{L Wine Lounge & Urban Kitchen}	{38.574976,-121.482806,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+2202	Sun Jun 12 18:24:13 +0000 2011	49f40719f964a520f76a1fe3	{Sacramento International Airport (SMF)}	{38.692276283389305,-121.59045696258545,Sacramento,CA,United States}	{Travel & Transport,}
+2202	Sun Jun 12 13:06:21 +0000 2011	4bc7da668b7c9c74225837cf	{Minneapolis-St. Paul International Airport (MSP)}	{44.884397546192474,-93.21178436279297,Minneapolis,MN,United States}	{Travel & Transport,}
+2202	Sun Jun 12 10:09:20 +0000 2011	4a5a77a4f964a52062ba1fe3	{Chicago O'Hare International Airport (ORD)}	{41.977270920041626,-87.90440082550049,Chicago,IL,United States}	{Travel & Transport,}
+2202	Sat Jun 11 21:12:42 +0000 2011	4b469be2f964a5206e2526e3	{Longman & Eagle}	{41.93010297371153,-87.70725599256758,Chicago,IL,United States}	{Travel & Transport,Nightlife Spot,Food,}
+2202	Sat Jun 11 20:09:02 +0000 2011	4a6bd4b3f964a52008d01fe3	{Aloft}	{41.977358655170065,-87.86711812019348,Rosemont,IL,United States}	{Travel & Transport,}
+2202	Sat Jun 11 15:01:21 +0000 2011	4700946bf964a520344b1fe3	{Detroit Metropolitan Wayne County Airport (DTW)}	{42.20874863661848,-83.35979461669922,Romulus,MI,United States}	{Travel & Transport,}
+2202	Sat Jun 11 11:36:15 +0000 2011	4b0ddaa6f964a520605123e3	{Southwest Florida International Airport (RSW)}	{26.527923774866334,-81.75525963306427,Fort Myers,FL,United States}	{Travel & Transport,}
+2202	Sat Jun 11 00:29:35 +0000 2011	4c6492b5c74c1b8d28f3b183	{Blu Sushi}	{26.546302835628953,-81.91345873048215,Fort Myers,FL,United States}	{Nightlife Spot,Food,}
+2202	Fri Jun 10 21:45:57 +0000 2011	4ba187e4f964a5207bbe37e3	{Cru}	{26.548343896865845,-81.869624,Fort Myers,FL,United States}	{Nightlife Spot,Food,}
+2202	Fri Jun 10 03:08:54 +0000 2011	4cbf6463985aa35dd0b34612	{Stillwater Grille}	{26.546080112457275,-81.913591,Fort Myers,FL,United States}	{Nightlife Spot,Food,}
+2202	Fri Jun 10 01:28:00 +0000 2011	4c6492b5c74c1b8d28f3b183	{Blu Sushi}	{26.546302835628953,-81.91345873048215,Fort Myers,FL,United States}	{Nightlife Spot,Food,}
+2202	Wed Jun 08 00:51:11 +0000 2011	4ba187e4f964a5207bbe37e3	{Cru}	{26.548343896865845,-81.869624,Fort Myers,FL,United States}	{Nightlife Spot,Food,}
+2202	Tue Jun 07 14:02:18 +0000 2011	4b0ddaa6f964a520605123e3	{Southwest Florida International Airport (RSW)}	{26.527923774866334,-81.75525963306427,Fort Myers,FL,United States}	{Travel & Transport,}
+2202	Tue Jun 07 10:36:13 +0000 2011	4a6373c9f964a52013c51fe3	{Delta Sky Club}	{33.640419016832205,-84.43902969360352,Atlanta,GA,United States}	{Travel & Transport,Airport,Professional & Other Places,}
+2202	Tue Jun 07 10:24:07 +0000 2011	4a8a103af964a520c90920e3	{Hartsfield-Jackson Atlanta International Airport (ATL)}	{33.640669114843895,-84.43606853485107,Atlanta,GA,United States}	{Travel & Transport,}
+2202	Tue Jun 07 04:19:17 +0000 2011	49f40719f964a520f76a1fe3	{Sacramento International Airport (SMF)}	{38.692276283389305,-121.59045696258545,Sacramento,CA,United States}	{Travel & Transport,}
+2202	Sun Jun 05 00:30:46 +0000 2011	4d951711fb0fcbff6bb071eb	{9th Annual Raley's Grape Escape}	{38.58105425279849,-121.49388670921326,Sacramento,CA,United States}	{}
+2202	Fri Jun 03 05:18:43 +0000 2011	4b0586b5f964a520ad6a22e3	{Harlow's}	{38.573911697866954,-121.47005183756814,Sacramento,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+2202	Fri Jun 03 03:09:19 +0000 2011	4b0586b9f964a5203f6b22e3	{The Waterboy}	{38.573202,-121.481225,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+2202	Sun May 29 19:44:12 +0000 2011	4a38fd6af964a5200d9f1fe3	{Six Flags Discovery Kingdom}	{38.13838773825326,-122.23279237747192,Vallejo,CA,United States}	{Arts & Entertainment,}
+2202	Sun May 29 05:06:57 +0000 2011	4b5a9bdef964a52098cd28e3	{58 Degrees & Holding}	{38.574527,-121.48366727,Sacramento,CA,United States}	{Nightlife Spot,Shop & Service,Food,Food & Drink Shop,}
+2202	Sun May 29 01:25:09 +0000 2011	4afc4550f964a5200a2122e3	{Ten22}	{38.5825911387359,-121.50453340571548,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+2202	Fri May 27 02:49:11 +0000 2011	414e1d80f964a520ed1c1fe3	{The Warfield Theatre}	{37.7825233143151,-122.41039216518402,San Francisco,CA,United States}	{Music Venue,Arts & Entertainment,}
+2202	Wed May 25 21:48:45 +0000 2011	4c2d4c84e116e21e40768e60	{Thunder Valley Casino Resort}	{38.840158875437616,-121.31354570388794,Lincoln,CA,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+2202	Sun May 22 18:57:29 +0000 2011	4841301ff964a52033501fe3	{Ink Eats & Drinks}	{38.56929888540557,-121.4713990688324,Sacramento,CA,United States}	{Food,}
+2202	Sun May 22 07:32:44 +0000 2011	4b770a98f964a52049772ee3	{Social Nightclub}	{38.57896564019209,-121.49379737086113,Sacramento,CA,United States}	{Nightlife Spot,}
+2202	Sun May 22 06:59:28 +0000 2011	4b9aa5bff964a5207ac935e3	{Dream Ultra Lounge}	{38.579255,-121.486503,Sacramento,CA,United States}	{Nightlife Spot,}
+2202	Sun May 22 03:18:04 +0000 2011	4b0586b9f964a520766b22e3	{Mikuni}	{38.577813,-121.48555,Sacramento,CA,United States}	{Food,}
+2202	Tue May 17 01:57:21 +0000 2011	4c79ce6b3badb1f7958c5054	{Restaurant Kevin Taylor}	{39.746247212552305,-104.99828707432806,Denver,CO,United States}	{Food,}
+2202	Fri May 13 08:37:50 +0000 2011	4b88ae56f964a5205d0832e3	{Petra Greek}	{38.576252524563444,-121.48626923561096,Sacramento,CA,United States}	{Food,}
+2202	Fri May 13 08:16:29 +0000 2011	4b0586b6f964a520c86a22e3	{MIX Downtown}	{38.576268180490246,-121.48651860548311,Sacramento,CA,United States}	{Nightlife Spot,}
+2202	Fri May 13 05:47:03 +0000 2011	4b0586b4f964a520996a22e3	{The Distillery}	{38.5740511,-121.4791118,Sacramento,CA,United States}	{Nightlife Spot,}
+2202	Fri May 13 04:57:06 +0000 2011	4b0586baf964a5207c6b22e3	{Mulvaney's Building & Loan}	{38.57460783333333,-121.482133,Sacramento,CA,United States}	{Food,}
+2202	Fri May 13 03:24:46 +0000 2011	4bc97838937ca5931ce2a592	{The Press Bistro}	{38.574141,-121.483537,Sacramento,CA,United States}	{Food,}
+2202	Fri May 13 03:11:17 +0000 2011	4b5a9bdef964a52098cd28e3	{58 Degrees & Holding}	{38.574527,-121.48366727,Sacramento,CA,United States}	{Nightlife Spot,Shop & Service,Food,Food & Drink Shop,}
+2202	Fri May 13 02:23:10 +0000 2011	4b627306f964a52013482ae3	{The Grand Wine Bar}	{38.576025559348544,-121.48620067189901,Sacramento,CA,United States}	{Nightlife Spot,}
+2202	Fri May 13 01:44:53 +0000 2011	4ad9282df964a520a71821e3	{L Wine Lounge & Urban Kitchen}	{38.574976,-121.482806,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+2202	Wed May 11 05:05:00 +0000 2011	4add393af964a520a96421e3	{Grange}	{38.58017722,-121.49377,Sacramento,CA,United States}	{Food,}
+2202	Wed May 11 03:41:51 +0000 2011	4dc9c92bd16495ca5adbb7b5	{Here We Rally Celebration}	{38.581675,-121.494219,Sacramento,CA,United States}	{Professional & Other Places,}
+2202	Mon May 09 00:16:52 +0000 2011	4b0586b9f964a520736b22e3	{Kru}	{38.574689,-121.472538,Sacramento,CA,United States}	{Food,}
+2202	Sun May 08 17:48:38 +0000 2011	4ad9282df964a520a71821e3	{L Wine Lounge & Urban Kitchen}	{38.574976,-121.482806,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+2202	Sat May 07 19:35:20 +0000 2011	4b676ba6f964a520e14d2be3	{Capitol Cellars}	{38.74346384239738,-121.19802408083466,,CA,United States}	{Nightlife Spot,}
+2202	Sat May 07 19:10:48 +0000 2011	4b58b817f964a520536728e3	{Beyond Napa}	{38.57366620216306,-121.40238067483124,Sacramento,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2202	Fri May 06 03:53:39 +0000 2011	4b5a9bdef964a52098cd28e3	{58 Degrees & Holding}	{38.574527,-121.48366727,Sacramento,CA,United States}	{Nightlife Spot,Shop & Service,Food,Food & Drink Shop,}
+2202	Fri May 06 02:18:34 +0000 2011	4b1d832ff964a5208a1124e3	{Zocalo}	{38.57420511347242,-121.48383566468361,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+2202	Thu May 05 20:40:28 +0000 2011	4be727aa910020a1bb1ad514	{SUBWAY}	{38.59829169893992,-121.45085334777832,Sacramento,CA,United States}	{Food,}
+2202	Thu May 05 01:43:09 +0000 2011	4bb4d8b0a7059521f7c91bce	{Cafeteria 15L}	{38.57658802692282,-121.48763179779051,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+2202	Sun May 01 19:14:13 +0000 2011	4dbd90a80437955ec04f6dad	{102.5 LIVE Capitol Mall}	{38.57858,-121.499921,Sacramento,CA,United States}	{Outdoors & Recreation,}
+2202	Sun May 01 04:45:39 +0000 2011	4d035c5928926ea8d12065c2	{Miami Beach Club}	{38.680335786328115,-121.26965278162206,Citrus Heights,CA,United States}	{Nightlife Spot,}
+2202	Sat Apr 30 05:34:50 +0000 2011	4b0586b6f964a520c86a22e3	{MIX Downtown}	{38.576268180490246,-121.48651860548311,Sacramento,CA,United States}	{Nightlife Spot,}
+2202	Sat Apr 30 04:13:42 +0000 2011	4b0586b9f964a5203f6b22e3	{The Waterboy}	{38.573202,-121.481225,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+2202	Thu Apr 28 06:26:01 +0000 2011	4bb2668642959c7414c8202c	{R15 Bar}	{38.56985810867794,-121.49054568816236,Sacramento,CA,United States}	{Nightlife Spot,}
+2202	Thu Apr 28 05:10:15 +0000 2011	4d0c56483905b1f7e0e0934b	{Ace of Spades}	{38.569999100000004,-121.4908904,Sacramento,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+2202	Thu Apr 28 02:02:24 +0000 2011	4ad9282df964a520a71821e3	{L Wine Lounge & Urban Kitchen}	{38.574976,-121.482806,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+2202	Mon Apr 25 07:14:19 +0000 2011	49f40719f964a520f76a1fe3	{Sacramento International Airport (SMF)}	{38.692276283389305,-121.59045696258545,Sacramento,CA,United States}	{Travel & Transport,}
+2202	Mon Apr 25 01:02:20 +0000 2011	44d1efc9f964a52032361fe3	{George Bush International Airport (IAH)}	{29.986460430837823,-95.34201622009277,Houston,TX,United States}	{Travel & Transport,}
+2202	Sun Apr 24 21:35:33 +0000 2011	4b0ddaa6f964a520605123e3	{Southwest Florida International Airport (RSW)}	{26.527923774866334,-81.75525963306427,Fort Myers,FL,United States}	{Travel & Transport,}
+2202	Sat Apr 23 20:13:53 +0000 2011	4ba187e4f964a5207bbe37e3	{Cru}	{26.548343896865845,-81.869624,Fort Myers,FL,United States}	{Nightlife Spot,Food,}
+2202	Sat Apr 23 14:28:04 +0000 2011	4b0ddaa6f964a520605123e3	{Southwest Florida International Airport (RSW)}	{26.527923774866334,-81.75525963306427,Fort Myers,FL,United States}	{Travel & Transport,}
+2202	Sat Apr 23 10:54:41 +0000 2011	4a6373c9f964a52013c51fe3	{Delta Sky Club}	{33.640419016832205,-84.43902969360352,Atlanta,GA,United States}	{Travel & Transport,Airport,Professional & Other Places,}
+2202	Sat Apr 23 10:09:09 +0000 2011	4a8a103af964a520c90920e3	{Hartsfield-Jackson Atlanta International Airport (ATL)}	{33.640669114843895,-84.43606853485107,Atlanta,GA,United States}	{Travel & Transport,}
+2202	Sat Apr 23 04:33:16 +0000 2011	49f40719f964a520f76a1fe3	{Sacramento International Airport (SMF)}	{38.692276283389305,-121.59045696258545,Sacramento,CA,United States}	{Travel & Transport,}
+2202	Thu Apr 21 15:08:39 +0000 2011	4c6784c9ebfcb713d9921927	{Now 100.5}	{38.599595426563866,-121.46484133339679,Sacramento,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+2202	Sun Apr 17 05:53:22 +0000 2011	4ad9282df964a520a71821e3	{L Wine Lounge & Urban Kitchen}	{38.574976,-121.482806,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+2202	Sun Apr 17 01:27:35 +0000 2011	4ad7d912f964a520600f21e3	{Sheraton Grand Sacramento Hotel}	{38.57919289582425,-121.48988753193353,Sacramento,CA,United States}	{Travel & Transport,}
+2202	Sat Apr 16 17:49:06 +0000 2011	4add0561f964a520886321e3	{Whole Foods Market}	{38.59634215889754,-121.36374592781067,Sacramento,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+2202	Fri Apr 15 20:10:16 +0000 2011	4b5b701ef964a5201cfe28e3	{Hooters}	{38.597897602642185,-121.42584443092346,Sacramento,CA,United States}	{Food,}
+2202	Thu Apr 14 06:35:25 +0000 2011	4b0586b5f964a520ad6a22e3	{Harlow's}	{38.573911697866954,-121.47005183756814,Sacramento,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+2202	Thu Apr 14 02:03:53 +0000 2011	4b0586b9f964a520766b22e3	{Mikuni}	{38.577813,-121.48555,Sacramento,CA,United States}	{Food,}
+2202	Tue Apr 12 21:43:29 +0000 2011	4c6784c9ebfcb713d9921927	{Now 100.5}	{38.599595426563866,-121.46484133339679,Sacramento,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+2202	Mon Apr 11 03:01:54 +0000 2011	4be4a2e68a8cb713f74dc4a0	{Uptown Theatre}	{38.29651238577443,-122.28734442969615,Napa,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+2202	Mon Apr 11 01:36:22 +0000 2011	3fd66200f964a5206ef11ee3	{Zuzu}	{38.2982222953028,-122.28480577468872,Napa,CA,United States}	{Food,}
+2202	Sun Apr 10 23:50:51 +0000 2011	4a73a478f964a5200ddd1fe3	{The Westin Verasa Napa}	{38.3033414402383,-122.28362560272217,Napa,CA,United States}	{Nightlife Spot,Travel & Transport,}
+2202	Sun Apr 10 20:59:46 +0000 2011	4a5a3f10f964a520fcb91fe3	{Peju Province Winery}	{38.45545738063749,-122.41773878641818,Rutherford,CA,United States}	{Food,Arts & Entertainment,}
+2202	Sun Apr 10 19:35:48 +0000 2011	4a05d1b9f964a5207f721fe3	{Opus One Winery}	{38.44126234863994,-122.39987318638144,Oakville,CA,United States}	{Food,}
+2202	Sun Apr 10 17:20:02 +0000 2011	4a903ed6f964a520c41620e3	{Trefethen Family Vineyards}	{38.35983009714454,-122.332763671875,Napa,CA,United States}	{Outdoors & Recreation,Food,}
+2202	Sun Apr 10 02:23:36 +0000 2011	4be4a2e68a8cb713f74dc4a0	{Uptown Theatre}	{38.29651238577443,-122.28734442969615,Napa,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+2202	Sun Apr 10 00:21:06 +0000 2011	4d1adda49aa554819bc2c9e0	{Rotisserie & Wine}	{38.297428,-122.28349375,Napa,CA,United States}	{Food,}
+2202	Sat Apr 09 19:31:16 +0000 2011	4bc4e055e008b71381379d97	{Monticello Vineyards}	{38.36129223055514,-122.30608722872513,Napa,CA,United States}	{Outdoors & Recreation,}
+2202	Sat Apr 09 18:41:06 +0000 2011	4a73a478f964a5200ddd1fe3	{The Westin Verasa Napa}	{38.3033414402383,-122.28362560272217,Napa,CA,United States}	{Nightlife Spot,Travel & Transport,}
+2202	Fri Apr 08 02:01:14 +0000 2011	4b0586b4f964a520826a22e3	{Morton's The Steakhouse}	{38.578484830235006,-121.49891175257335,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+2202	Thu Apr 07 19:38:10 +0000 2011	4bbcd46f8ec3d13a6d4a1b28	{Bangkok@12 Thai Restaurant}	{38.58059715886958,-121.49058222770691,Sacramento,CA,United States}	{Food,}
+2202	Sun Apr 03 08:09:05 +0000 2011	49f5ea75f964a520d26b1fe3	{Norm's Restaurant}	{34.07994009308927,-118.37632298469543,West Hollywood,CA,United States}	{Food,}
+2202	Sun Apr 03 07:22:25 +0000 2011	4abdc796f964a520738b20e3	{Ecco Ultra Lounge}	{34.101039734643415,-118.3292978192743,Los Angeles,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+2202	Sun Apr 03 05:55:49 +0000 2011	4ae118a2f964a5202c8521e3	{The Hudson}	{34.09118922536886,-118.36565810182488,West Hollywood,CA,United States}	{Nightlife Spot,Food,}
+2202	Sun Apr 03 03:19:08 +0000 2011	4a5e97acf964a520dcbe1fe3	{Terroni}	{34.07626375187605,-118.3554545001636,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+2202	Sat Apr 02 23:46:24 +0000 2011	41687b80f964a520861d1fe3	{The Grove}	{34.07219539048036,-118.35753679275513,Los Angeles,CA,United States}	{Outdoors & Recreation,Shop & Service,}
+2202	Sat Apr 02 19:19:08 +0000 2011	4b411905f964a52015c125e3	{The Commons at Calabasas}	{34.15417861620076,-118.64480137825012,Calabasas,CA,United States}	{Shop & Service,}
+2202	Sat Apr 02 18:06:16 +0000 2011	4b9beae2f964a520983536e3	{Calabasas Farmer's Market}	{34.15721645717931,-118.63869122401846,Calabasas,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2202	Sun Mar 27 22:59:15 +0000 2011	4b05d819f964a52039e422e3	{Starbucks}	{38.58376323610597,-121.4997483255229,Sacramento,CA,United States}	{Food,}
+2202	Sun Mar 27 05:57:40 +0000 2011	4b67614cf964a5206b4b2be3	{Gold Club Centerfolds}	{38.61343341973363,-121.2567687034607,Rancho Cordova,CA,United States}	{Nightlife Spot,}
+2202	Sun Mar 27 02:24:12 +0000 2011	4b0586b4f964a520826a22e3	{Morton's The Steakhouse}	{38.578484830235006,-121.49891175257335,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+2202	Sat Mar 26 05:41:16 +0000 2011	4b0586b6f964a520c86a22e3	{MIX Downtown}	{38.576268180490246,-121.48651860548311,Sacramento,CA,United States}	{Nightlife Spot,}
+2202	Sat Mar 26 03:45:10 +0000 2011	4add393af964a520a96421e3	{Grange}	{38.58017722,-121.49377,Sacramento,CA,United States}	{Food,}
+2202	Thu Mar 24 18:05:21 +0000 2011	4b2ef654f964a520c2e824e3	{In-N-Out Burger}	{38.65543305873871,-121.52592811666666,Natomas,CA,United States}	{Food,}
+2202	Wed Mar 23 01:36:23 +0000 2011	4bb4d8b0a7059521f7c91bce	{Cafeteria 15L}	{38.57658802692282,-121.48763179779051,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+2202	Wed Mar 23 01:36:23 +0000 2011	4bb4d8b0a7059521f7c91bce	{Cafeteria 15L}	{38.57658802692282,-121.48763179779051,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+2202	Sun Mar 20 21:22:21 +0000 2011	4ad9282df964a520a71821e3	{L Wine Lounge & Urban Kitchen}	{38.574976,-121.482806,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+2202	Sun Mar 20 01:12:43 +0000 2011	4aefa08af964a520a7d921e3	{Ella Dining Room & Bar}	{38.5787,-121.491196,Sacramento,CA,United States}	{Food,}
+2202	Sat Mar 19 19:13:18 +0000 2011	522a598b4dcbb2b75484f3d2	{Noah's Bagels}	{38.57492862786017,-121.40257045714898,Sacramento,CA,United States}	{Food,}
+2202	Fri Mar 18 04:17:19 +0000 2011	4a907e59f964a520341820e3	{Brew It Up}	{38.580913,-121.48652369,Sacramento,CA,United States}	{Nightlife Spot,}
+2202	Fri Mar 18 02:02:58 +0000 2011	4b0586b9f964a520766b22e3	{Mikuni}	{38.577813,-121.48555,Sacramento,CA,United States}	{Food,}
+2202	Thu Mar 17 12:35:23 +0000 2011	4a907e59f964a520341820e3	{Brew It Up}	{38.580913,-121.48652369,Sacramento,CA,United States}	{Nightlife Spot,}
+2202	Sun Mar 13 02:28:23 +0000 2011	4b5a9bdef964a52098cd28e3	{58 Degrees & Holding}	{38.574527,-121.48366727,Sacramento,CA,United States}	{Nightlife Spot,Shop & Service,Food,Food & Drink Shop,}
+2202	Sat Mar 12 21:45:21 +0000 2011	4b11c30bf964a520178423e3	{Martinelli Winery}	{38.48776733,-122.80845426666667,Windsor,CA,United States}	{Food,}
+2202	Fri Mar 11 07:55:23 +0000 2011	4cd4619ea5b346881b9c8750	{District 30}	{38.57891133776306,-121.4932107925415,Sacramento,CA,United States}	{Nightlife Spot,}
+2202	Tue Mar 08 19:41:30 +0000 2011	4afc4550f964a5200a2122e3	{Ten22}	{38.5825911387359,-121.50453340571548,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+2202	Sat Mar 05 19:58:24 +0000 2011	4add0561f964a520886321e3	{Whole Foods Market}	{38.59634215889754,-121.36374592781067,Sacramento,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+2202	Sat Mar 05 00:54:57 +0000 2011	4a907e59f964a520341820e3	{Brew It Up}	{38.580913,-121.48652369,Sacramento,CA,United States}	{Nightlife Spot,}
+2202	Fri Mar 04 15:38:23 +0000 2011	4b479038f964a520ab3526e3	{Starbucks}	{38.581251347448195,-121.49470210075378,Sacramento,CA,United States}	{Food,}
+2202	Fri Mar 04 01:59:23 +0000 2011	4aefa08af964a520a7d921e3	{Ella Dining Room & Bar}	{38.5787,-121.491196,Sacramento,CA,United States}	{Food,}
+2202	Sun Feb 27 05:27:56 +0000 2011	4d69d5ac1b63a1cd0d4a452d	{102-5  KSFM's  Naughty  Gras}	{38.59339356422424,-121.43656253814697,Sacramento,CA,United States}	{Nightlife Spot,}
+2202	Sat Feb 26 05:26:42 +0000 2011	4bb4d8b0a7059521f7c91bce	{Cafeteria 15L}	{38.57658802692282,-121.48763179779051,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+2202	Sat Feb 26 01:14:52 +0000 2011	4b0586b6f964a520c86a22e3	{MIX Downtown}	{38.576268180490246,-121.48651860548311,Sacramento,CA,United States}	{Nightlife Spot,}
+2202	Sat Feb 26 01:13:25 +0000 2011	4b0586b6f964a520c86a22e3	{MIX Downtown}	{38.576268180490246,-121.48651860548311,Sacramento,CA,United States}	{Nightlife Spot,}
+2202	Fri Feb 25 03:11:02 +0000 2011	4ad9885ff964a5203e1a21e3	{Lounge ON20}	{38.57583679,-121.480392,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+2202	Fri Feb 25 01:54:24 +0000 2011	4b0586baf964a5207c6b22e3	{Mulvaney's Building & Loan}	{38.57460783333333,-121.482133,Sacramento,CA,United States}	{Food,}
+2202	Sun Feb 20 02:52:11 +0000 2011	4681449cf964a52020481fe3	{Bar Bambino}	{37.76504576806311,-122.4183139750801,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+2202	Sat Feb 19 22:06:02 +0000 2011	4bc0c8e84cdfc9b6067a9321	{Festival Pavilion}	{37.80802198610925,-122.43015994842109,San Francisco,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+2202	Sat Feb 19 20:32:26 +0000 2011	4acbca4bf964a520b1c720e3	{Le M?ridien}	{37.79472471628824,-122.40037656218564,San Francisco,CA,United States}	{Travel & Transport,}
+2202	Wed Feb 16 02:36:21 +0000 2011	4b0586b9f964a520766b22e3	{Mikuni}	{38.577813,-121.48555,Sacramento,CA,United States}	{Food,}
+2202	Sat Feb 12 04:28:14 +0000 2011	4b0586b6f964a520c86a22e3	{MIX Downtown}	{38.576268180490246,-121.48651860548311,Sacramento,CA,United States}	{Nightlife Spot,}
+2202	Sat Feb 12 03:20:04 +0000 2011	4ad9282df964a520a71821e3	{L Wine Lounge & Urban Kitchen}	{38.574976,-121.482806,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+2202	Thu Feb 10 02:31:18 +0000 2011	4b0586b6f964a520c76a22e3	{Cosmo Caf?}	{38.579052,-121.493767,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+2202	Mon Feb 07 00:17:42 +0000 2011	43fed38ef964a52001301fe3	{In-N-Out Burger}	{38.901386523929915,-121.07478918316843,Auburn,CA,United States}	{Food,}
+2202	Sun Feb 06 16:38:44 +0000 2011	49b4b26af964a520f3521fe3	{Northstar California? Resort}	{39.27516210581269,-120.12250035350598,Truckee,CA,United States}	{Travel & Transport,Outdoors & Recreation,Ski Area,Hotel,}
+2202	Sun Feb 06 03:26:03 +0000 2011	4b242bd1f964a520db6224e3	{Chocolate Bar}	{39.27402710130071,-120.1201824391091,Truckee,CA,United States}	{Food,}
+2202	Sat Feb 05 18:07:17 +0000 2011	49b4b26af964a520f3521fe3	{Northstar California? Resort}	{39.27516210581269,-120.12250035350598,Truckee,CA,United States}	{Travel & Transport,Outdoors & Recreation,Ski Area,Hotel,}
+2202	Sat Feb 05 06:10:51 +0000 2011	4b15dcddf964a52026b523e3	{Parlare Euro Lounge}	{38.58007604961188,-121.493514,Sacramento,CA,United States}	{Nightlife Spot,}
+2202	Thu Feb 03 02:12:20 +0000 2011	4b1d832ff964a5208a1124e3	{Zocalo}	{38.57420511347242,-121.48383566468361,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+2202	Tue Feb 01 01:41:17 +0000 2011	4bb4d8b0a7059521f7c91bce	{Cafeteria 15L}	{38.57658802692282,-121.48763179779051,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+2202	Tue Feb 01 01:41:16 +0000 2011	4bb4d8b0a7059521f7c91bce	{Cafeteria 15L}	{38.57658802692282,-121.48763179779051,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+2202	Mon Jan 31 06:28:48 +0000 2011	49f40719f964a520f76a1fe3	{Sacramento International Airport (SMF)}	{38.692276283389305,-121.59045696258545,Sacramento,CA,United States}	{Travel & Transport,}
+2202	Mon Jan 31 03:04:39 +0000 2011	482d61baf964a520d64f1fe3	{Denver International Airport (DEN)}	{39.85029261500981,-104.67378616333006,Denver,CO,United States}	{Travel & Transport,}
+2202	Sun Jan 30 21:49:09 +0000 2011	4b0ddaa6f964a520605123e3	{Southwest Florida International Airport (RSW)}	{26.527923774866334,-81.75525963306427,Fort Myers,FL,United States}	{Travel & Transport,}
+2202	Sun Jan 30 15:20:46 +0000 2011	4b8b4757f964a520a19a32e3	{The Cottage Beach Bar}	{26.451367734028477,-81.95254657446216,Fort Myers Beach,FL,United States}	{Nightlife Spot,Food,}
+2202	Sat Jan 29 22:45:50 +0000 2011	4bc4847fd57beee1d4c2479f	{Sanibel Harbour Marriot Resort & Spa}	{26.489264706134684,-82.01214750731741,Fort Myers,FL,United States}	{Travel & Transport,Shop & Service,Hotel,}
+2202	Sat Jan 29 17:30:41 +0000 2011	4abd545bf964a520c58920e3	{Pink Shell Beach Resort & Marina}	{26.461103028136424,-81.96622610092163,Fort Myers Beach,FL,United States}	{Travel & Transport,Hotel,}
+2202	Sat Jan 29 15:37:50 +0000 2011	4b0ddaa6f964a520605123e3	{Southwest Florida International Airport (RSW)}	{26.527923774866334,-81.75525963306427,Fort Myers,FL,United States}	{Travel & Transport,}
+2202	Sat Jan 29 11:39:32 +0000 2011	4a6373c9f964a52013c51fe3	{Delta Sky Club}	{33.640419016832205,-84.43902969360352,Atlanta,GA,United States}	{Travel & Transport,Airport,Professional & Other Places,}
+2202	Sat Jan 29 11:00:41 +0000 2011	4a8a103af964a520c90920e3	{Hartsfield-Jackson Atlanta International Airport (ATL)}	{33.640669114843895,-84.43606853485107,Atlanta,GA,United States}	{Travel & Transport,}
+2202	Sat Jan 29 04:33:18 +0000 2011	49f40719f964a520f76a1fe3	{Sacramento International Airport (SMF)}	{38.692276283389305,-121.59045696258545,Sacramento,CA,United States}	{Travel & Transport,}
+2202	Fri Jan 28 20:37:06 +0000 2011	4b437567f964a520d3e025e3	{Starbucks}	{38.595756,-121.41626948,Sacramento,CA,United States}	{Food,}
+2202	Thu Jan 27 15:48:38 +0000 2011	4c6784c9ebfcb713d9921927	{Now 100.5}	{38.599595426563866,-121.46484133339679,Sacramento,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+2202	Sun Jan 23 07:26:49 +0000 2011	4b0586b5f964a520bd6a22e3	{The Park Ultra Lounge}	{38.57671518372289,-121.48763415496887,Sacramento,CA,United States}	{Nightlife Spot,}
+2202	Sun Jan 23 03:59:27 +0000 2011	4b0586b9f964a5203f6b22e3	{The Waterboy}	{38.573202,-121.481225,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+2202	Fri Jan 21 01:44:20 +0000 2011	4af23791f964a520a9e621e3	{Lucca Restaurant & Bar}	{38.57809204827871,-121.48454405637789,Sacramento,CA,United States}	{Food,}
+2202	Thu Jan 20 16:07:52 +0000 2011	4c6784c9ebfcb713d9921927	{Now 100.5}	{38.599595426563866,-121.46484133339679,Sacramento,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+2202	Thu Jan 20 01:56:24 +0000 2011	4bc91b9c937ca5932d4da592	{Red Lotus}	{38.573846,-121.46991,Sacramento,CA,United States}	{Food,}
+2202	Tue Jan 18 15:42:57 +0000 2011	4c6784c9ebfcb713d9921927	{Now 100.5}	{38.599595426563866,-121.46484133339679,Sacramento,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+2202	Mon Jan 17 01:36:14 +0000 2011	4b9d2c1bf964a520439636e3	{Memorial Union (MU)}	{38.5423335408928,-121.74955487251282,Davis,CA,United States}	{College & University,Arts & Entertainment,}
+2202	Sun Jan 16 07:53:40 +0000 2011	4b0586b8f964a520206b22e3	{Beatnik Studios}	{38.561514,-121.490488,Sacramento,CA,United States}	{Museum,Arts & Entertainment,}
+2202	Sun Jan 16 04:28:26 +0000 2011	4bc97838937ca5931ce2a592	{The Press Bistro}	{38.574141,-121.483537,Sacramento,CA,United States}	{Food,}
+2202	Sun Jan 16 02:53:19 +0000 2011	4b5a9bdef964a52098cd28e3	{58 Degrees & Holding}	{38.574527,-121.48366727,Sacramento,CA,United States}	{Nightlife Spot,Shop & Service,Food,Food & Drink Shop,}
+2202	Sat Jan 15 02:14:45 +0000 2011	4add393af964a520a96421e3	{Grange}	{38.58017722,-121.49377,Sacramento,CA,United States}	{Food,}
+2202	Sat Jan 15 02:14:37 +0000 2011	4add393af964a520a96421e3	{Grange}	{38.58017722,-121.49377,Sacramento,CA,United States}	{Food,}
+2202	Thu Jan 13 16:29:27 +0000 2011	4c6784c9ebfcb713d9921927	{Now 100.5}	{38.599595426563866,-121.46484133339679,Sacramento,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+2202	Wed Jan 12 18:05:30 +0000 2011	49f40719f964a520f76a1fe3	{Sacramento International Airport (SMF)}	{38.692276283389305,-121.59045696258545,Sacramento,CA,United States}	{Travel & Transport,}
+2202	Tue Jan 11 02:02:08 +0000 2011	4b0586b9f964a520766b22e3	{Mikuni}	{38.577813,-121.48555,Sacramento,CA,United States}	{Food,}
+2202	Sun Jan 09 01:48:49 +0000 2011	4aefa08af964a520a7d921e3	{Ella Dining Room & Bar}	{38.5787,-121.491196,Sacramento,CA,United States}	{Food,}
+2202	Sat Jan 08 05:33:47 +0000 2011	4b0586b6f964a520c86a22e3	{MIX Downtown}	{38.576268180490246,-121.48651860548311,Sacramento,CA,United States}	{Nightlife Spot,}
+2202	Thu Jan 06 03:24:26 +0000 2011	4b0586baf964a5207c6b22e3	{Mulvaney's Building & Loan}	{38.57460783333333,-121.482133,Sacramento,CA,United States}	{Food,}
+2202	Wed Jan 05 03:11:43 +0000 2011	4c663a7eb80abe9aaa9bcce5	{Kupros Craft House}	{38.57350493578328,-121.47962984783227,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+2202	Tue Jan 04 15:40:29 +0000 2011	4c6784c9ebfcb713d9921927	{Now 100.5}	{38.599595426563866,-121.46484133339679,Sacramento,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+2202	Mon Jan 03 15:33:14 +0000 2011	4c6784c9ebfcb713d9921927	{Now 100.5}	{38.599595426563866,-121.46484133339679,Sacramento,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+2202	Sun Jan 02 20:34:28 +0000 2011	4a63a254f964a5207cc51fe3	{Westfield Galleria at Roseville}	{38.773625863622975,-121.26917990185241,Roseville,CA,United States}	{Shop & Service,}
+2202	Sun Jan 02 18:14:51 +0000 2011	4c663a7eb80abe9aaa9bcce5	{Kupros Craft House}	{38.57350493578328,-121.47962984783227,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+2202	Sat Jan 01 05:59:21 +0000 2011	4b0586b6f964a520c86a22e3	{MIX Downtown}	{38.576268180490246,-121.48651860548311,Sacramento,CA,United States}	{Nightlife Spot,}
+2202	Fri Dec 31 21:38:31 +0000 2010	4c6784c9ebfcb713d9921927	{Now 100.5}	{38.599595426563866,-121.46484133339679,Sacramento,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+2202	Fri Dec 31 02:06:25 +0000 2010	4add393af964a520a96421e3	{Grange}	{38.58017722,-121.49377,Sacramento,CA,United States}	{Food,}
+2202	Tue Dec 28 16:05:22 +0000 2010	4c6784c9ebfcb713d9921927	{Now 100.5}	{38.599595426563866,-121.46484133339679,Sacramento,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+2202	Tue Dec 28 06:49:11 +0000 2010	49f40719f964a520f76a1fe3	{Sacramento International Airport (SMF)}	{38.692276283389305,-121.59045696258545,Sacramento,CA,United States}	{Travel & Transport,}
+2202	Mon Dec 27 21:56:47 +0000 2010	4b0ddaa6f964a520605123e3	{Southwest Florida International Airport (RSW)}	{26.527923774866334,-81.75525963306427,Fort Myers,FL,United States}	{Travel & Transport,}
+2202	Mon Dec 27 00:18:40 +0000 2010	4ba187e4f964a5207bbe37e3	{Cru}	{26.548343896865845,-81.869624,Fort Myers,FL,United States}	{Nightlife Spot,Food,}
+2202	Sun Dec 26 17:06:07 +0000 2010	4b22a48af964a520ec4a24e3	{Blu Sushi}	{26.48714775614177,-81.79054843814986,Fort Myers,FL,United States}	{Nightlife Spot,Food,}
+2202	Fri Dec 24 15:55:14 +0000 2010	4b0ddaa6f964a520605123e3	{Southwest Florida International Airport (RSW)}	{26.527923774866334,-81.75525963306427,Fort Myers,FL,United States}	{Travel & Transport,}
+2202	Fri Dec 24 11:32:24 +0000 2010	44d1efc9f964a52032361fe3	{George Bush International Airport (IAH)}	{29.986460430837823,-95.34201622009277,Houston,TX,United States}	{Travel & Transport,}
+2202	Fri Dec 24 06:36:44 +0000 2010	49f40719f964a520f76a1fe3	{Sacramento International Airport (SMF)}	{38.692276283389305,-121.59045696258545,Sacramento,CA,United States}	{Travel & Transport,}
+2202	Fri Dec 24 03:00:21 +0000 2010	4aefa08af964a520a7d921e3	{Ella Dining Room & Bar}	{38.5787,-121.491196,Sacramento,CA,United States}	{Food,}
+2202	Fri Dec 24 00:41:59 +0000 2010	4add393af964a520a96421e3	{Grange}	{38.58017722,-121.49377,Sacramento,CA,United States}	{Food,}
+2202	Thu Dec 23 16:14:51 +0000 2010	4c6784c9ebfcb713d9921927	{Now 100.5}	{38.599595426563866,-121.46484133339679,Sacramento,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+2202	Wed Dec 22 16:15:51 +0000 2010	4c6784c9ebfcb713d9921927	{Now 100.5}	{38.599595426563866,-121.46484133339679,Sacramento,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+2202	Tue Dec 21 03:57:27 +0000 2010	4b6e0c40f964a52045a62ce3	{Table 260 Downtown}	{38.580768,-121.49519,Sacramento,CA,United States}	{}
+2202	Mon Dec 20 15:42:00 +0000 2010	4c6784c9ebfcb713d9921927	{Now 100.5}	{38.599595426563866,-121.46484133339679,Sacramento,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+2202	Sun Dec 19 06:29:55 +0000 2010	4b0586b5f964a520bd6a22e3	{The Park Ultra Lounge}	{38.57671518372289,-121.48763415496887,Sacramento,CA,United States}	{Nightlife Spot,}
+2202	Sat Dec 18 23:04:45 +0000 2010	4a2adb45f964a5205c961fe3	{Healdsburg Bar & Grill}	{38.610117526212576,-122.87066042492863,Healdsburg,CA,United States}	{Food,}
+2202	Sat Dec 18 22:32:34 +0000 2010	4b9aa75ef964a5201bca35e3	{Matrix Winery}	{38.57455237945906,-122.87714671909602,Healdsburg,CA,United States}	{Food,}
+2202	Sat Dec 18 22:01:32 +0000 2010	4aedf369f964a52093d021e3	{HKG Estate Wines}	{38.53601443551939,-122.86778926849365,Healdsburg,CA,United States}	{Food,}
+2202	Sat Dec 18 21:46:46 +0000 2010	4af6061ef964a5204c0022e3	{Arista Winery}	{38.52419671011851,-122.8682651258006,Healdsburg,CA,United States}	{Food,}
+2202	Sat Dec 18 20:33:40 +0000 2010	4b78645ef964a520dbca2ee3	{Graton Ridge Cellars}	{38.44248056609134,-122.86050975322723,Sebastopol,CA,United States}	{Outdoors & Recreation,Food,}
+2202	Sat Dec 18 20:07:35 +0000 2010	4b92b2c6f964a520ae1234e3	{Hanna Winery}	{38.423604,-122.80787944793701,Santa Rosa,CA,United States}	{Food,}
+2202	Sat Dec 18 19:08:12 +0000 2010	49f55959f964a520ac6b1fe3	{Jacuzzi Family Vineyards}	{38.21465948315041,-122.45414643442327,Sonoma,CA,United States}	{Nightlife Spot,Outdoors & Recreation,Food,}
+2202	Fri Dec 17 15:49:02 +0000 2010	4c6784c9ebfcb713d9921927	{Now 100.5}	{38.599595426563866,-121.46484133339679,Sacramento,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+2202	Thu Dec 16 20:12:13 +0000 2010	4bb4d8b0a7059521f7c91bce	{Cafeteria 15L}	{38.57658802692282,-121.48763179779051,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+2202	Thu Dec 16 15:46:22 +0000 2010	4c6784c9ebfcb713d9921927	{Now 100.5}	{38.599595426563866,-121.46484133339679,Sacramento,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+2202	Thu Dec 16 02:36:43 +0000 2010	4b0586b9f964a520766b22e3	{Mikuni}	{38.577813,-121.48555,Sacramento,CA,United States}	{Food,}
+2202	Wed Dec 15 16:29:01 +0000 2010	4c6784c9ebfcb713d9921927	{Now 100.5}	{38.599595426563866,-121.46484133339679,Sacramento,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+2202	Tue Dec 14 03:57:08 +0000 2010	4be727aa910020a1bb1ad514	{SUBWAY}	{38.59829169893992,-121.45085334777832,Sacramento,CA,United States}	{Food,}
+2202	Mon Dec 13 15:54:18 +0000 2010	4c6784c9ebfcb713d9921927	{Now 100.5}	{38.599595426563866,-121.46484133339679,Sacramento,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+2202	Sun Dec 12 06:01:43 +0000 2010	4b0586b5f964a520bd6a22e3	{The Park Ultra Lounge}	{38.57671518372289,-121.48763415496887,Sacramento,CA,United States}	{Nightlife Spot,}
+2202	Sun Dec 12 01:49:27 +0000 2010	4b15505af964a5206bb023e3	{Sleep Train Arena}	{38.64861760910435,-121.51788711547852,Sacramento,CA,United States}	{Stadium,Arts & Entertainment,}
+2202	Sat Dec 11 21:35:27 +0000 2010	4b0586b6f964a520c86a22e3	{MIX Downtown}	{38.576268180490246,-121.48651860548311,Sacramento,CA,United States}	{Nightlife Spot,}
+2202	Sat Dec 11 05:00:45 +0000 2010	4b0586b6f964a520c86a22e3	{MIX Downtown}	{38.576268180490246,-121.48651860548311,Sacramento,CA,United States}	{Nightlife Spot,}
+2202	Sat Dec 11 04:57:54 +0000 2010	4b0586b6f964a520c86a22e3	{MIX Downtown}	{38.576268180490246,-121.48651860548311,Sacramento,CA,United States}	{Nightlife Spot,}
+2202	Sat Dec 11 02:27:22 +0000 2010	4bb4d8b0a7059521f7c91bce	{Cafeteria 15L}	{38.57658802692282,-121.48763179779051,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+2202	Fri Dec 10 15:16:00 +0000 2010	4b1c125df964a520a90124e3	{Starbucks}	{38.598358778945304,-121.45082545280457,Sacramento,CA,United States}	{Food,}
+2202	Fri Dec 10 03:22:39 +0000 2010	4b0586bbf964a520b76b22e3	{Arden Fair Mall}	{38.60140246823122,-121.42714262008667,Sacramento,CA,United States}	{Shop & Service,}
+2202	Thu Dec 09 15:52:59 +0000 2010	4c6784c9ebfcb713d9921927	{Now 100.5}	{38.599595426563866,-121.46484133339679,Sacramento,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+2202	Wed Dec 08 15:59:20 +0000 2010	4c6784c9ebfcb713d9921927	{Now 100.5}	{38.599595426563866,-121.46484133339679,Sacramento,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+2202	Wed Dec 08 15:59:20 +0000 2010	4c6784c9ebfcb713d9921927	{Now 100.5}	{38.599595426563866,-121.46484133339679,Sacramento,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+2202	Wed Dec 08 04:05:47 +0000 2010	4b2417c1f964a520ef6024e3	{Scott's Seafood on The River}	{38.534520595090996,-121.5178656578064,Sacramento,CA,United States}	{Food,}
+2202	Tue Dec 07 16:03:42 +0000 2010	4c6784c9ebfcb713d9921927	{Now 100.5}	{38.599595426563866,-121.46484133339679,Sacramento,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+2202	Sun Dec 05 01:33:55 +0000 2010	4ba42705f964a520ed8638e3	{Cafe & Bar Lurcat}	{26.141319213375578,-81.8005795776844,Naples,FL,United States}	{Food,}
+2202	Sat Dec 04 23:33:10 +0000 2010	4b8bdeedf964a520a8af32e3	{DiamondHead Beach Resort & Spa}	{26.449416113226846,-81.947000421476,Fort Myers Beach,FL,United States}	{Travel & Transport,Outdoors & Recreation,Hotel,}
+2202	Fri Dec 03 16:16:37 +0000 2010	4b0ddaa6f964a520605123e3	{Southwest Florida International Airport (RSW)}	{26.527923774866334,-81.75525963306427,Fort Myers,FL,United States}	{Travel & Transport,}
+2202	Fri Dec 03 13:25:39 +0000 2010	4a8a103af964a520c90920e3	{Hartsfield-Jackson Atlanta International Airport (ATL)}	{33.640669114843895,-84.43606853485107,Atlanta,GA,United States}	{Travel & Transport,}
+2202	Fri Dec 03 02:22:53 +0000 2010	4b12007df964a5200c8823e3	{McCormick & Schmick's}	{38.57996812577088,-121.491858959198,Sacramento,CA,United States}	{Food,}
+2202	Thu Dec 02 16:27:05 +0000 2010	4c6784c9ebfcb713d9921927	{Now 100.5}	{38.599595426563866,-121.46484133339679,Sacramento,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+2202	Tue Nov 30 15:39:03 +0000 2010	4c6784c9ebfcb713d9921927	{Now 100.5}	{38.599595426563866,-121.46484133339679,Sacramento,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+2202	Tue Nov 30 02:52:39 +0000 2010	4b5a9db7f964a520e3cd28e3	{Elephant Bar}	{38.600701,-121.430407,Sacramento,CA,United States}	{Food,}
+2202	Mon Nov 29 16:18:39 +0000 2010	4c6784c9ebfcb713d9921927	{Now 100.5}	{38.599595426563866,-121.46484133339679,Sacramento,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+2202	Sun Nov 28 21:31:15 +0000 2010	4a3ece8cf964a52074a31fe3	{Capitol Garage}	{38.577185192980494,-121.4871321590389,Sacramento,CA,United States}	{Music Venue,Food,Arts & Entertainment,}
+2202	Sun Nov 28 00:59:34 +0000 2010	4b437567f964a520d3e025e3	{Starbucks}	{38.595756,-121.41626948,Sacramento,CA,United States}	{Food,}
+2202	Fri Nov 26 23:09:21 +0000 2010	4aa439a7f964a520e54520e3	{In-N-Out Burger}	{38.63684144279635,-121.50419879120561,Sacramento,CA,United States}	{Food,}
+2202	Fri Nov 26 16:26:14 +0000 2010	4c6784c9ebfcb713d9921927	{Now 100.5}	{38.599595426563866,-121.46484133339679,Sacramento,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+2202	Thu Nov 25 15:41:54 +0000 2010	4b606eaff964a5209fe529e3	{Starbucks}	{38.69012276,-121.12262877,Folsom,CA,United States}	{Food,}
+2202	Thu Nov 25 15:41:38 +0000 2010	4b606eaff964a5209fe529e3	{Starbucks}	{38.69012276,-121.12262877,Folsom,CA,United States}	{Food,}
+2202	Thu Nov 25 02:18:40 +0000 2010	4a614072f964a5202ec21fe3	{REI}	{38.597693,-121.44998,Sacramento,CA,United States}	{Shop & Service,}
+2202	Wed Nov 24 16:02:33 +0000 2010	4c6784c9ebfcb713d9921927	{Now 100.5}	{38.599595426563866,-121.46484133339679,Sacramento,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+2202	Wed Nov 24 16:02:33 +0000 2010	4c6784c9ebfcb713d9921927	{Now 100.5}	{38.599595426563866,-121.46484133339679,Sacramento,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+2202	Wed Nov 24 00:51:03 +0000 2010	4b0586b5f964a520bd6a22e3	{The Park Ultra Lounge}	{38.57671518372289,-121.48763415496887,Sacramento,CA,United States}	{Nightlife Spot,}
+2202	Mon Nov 22 16:28:31 +0000 2010	4c6784c9ebfcb713d9921927	{Now 100.5}	{38.599595426563866,-121.46484133339679,Sacramento,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+2202	Sun Nov 21 19:22:47 +0000 2010	4c2e031e4e132d7f79589ddf	{Gate A13}	{38.693833833056175,-121.58737778663635,Sacramento,CA,United States}	{Travel & Transport,Airport,}
+2202	Sun Nov 21 12:41:36 +0000 2010	4a8a103af964a520c90920e3	{Hartsfield-Jackson Atlanta International Airport (ATL)}	{33.640669114843895,-84.43606853485107,Atlanta,GA,United States}	{Travel & Transport,}
+2202	Fri Nov 19 23:45:51 +0000 2010	4b677cf5f964a520f0512be3	{Bistro 41}	{26.550071239471436,-81.870352,Fort Myers,FL,United States}	{Food,}
+2202	Fri Nov 19 23:45:51 +0000 2010	4b677cf5f964a520f0512be3	{Bistro 41}	{26.550071239471436,-81.870352,Fort Myers,FL,United States}	{Food,}
+2202	Fri Nov 19 02:47:33 +0000 2010	4c6492b5c74c1b8d28f3b183	{Blu Sushi}	{26.546302835628953,-81.91345873048215,Fort Myers,FL,United States}	{Nightlife Spot,Food,}
+2202	Thu Nov 18 23:24:16 +0000 2010	4b677cf5f964a520f0512be3	{Bistro 41}	{26.550071239471436,-81.870352,Fort Myers,FL,United States}	{Food,}
+2202	Thu Nov 18 13:05:06 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Sun Nov 14 23:26:04 +0000 2010	4b0ddaa6f964a520605123e3	{Southwest Florida International Airport (RSW)}	{26.527923774866334,-81.75525963306427,Fort Myers,FL,United States}	{Travel & Transport,}
+2202	Sun Nov 14 20:30:24 +0000 2010	4a8a103af964a520c90920e3	{Hartsfield-Jackson Atlanta International Airport (ATL)}	{33.640669114843895,-84.43606853485107,Atlanta,GA,United States}	{Travel & Transport,}
+2202	Sun Nov 14 16:57:31 +0000 2010	4a36fbcbf964a5201b9e1fe3	{William P Hobby Airport (HOU)}	{29.6528413753627,-95.27636911422604,Houston,TX,United States}	{Travel & Transport,}
+2202	Sun Nov 14 16:17:50 +0000 2010	4b30ce5df964a520b8fb24e3	{Aloft Houston by the Galleria}	{29.73878081069862,-95.47093391418457,Houston,TX,United States}	{Travel & Transport,}
+2202	Sat Nov 13 19:16:28 +0000 2010	4b30ce5df964a520b8fb24e3	{Aloft Houston by the Galleria}	{29.73878081069862,-95.47093391418457,Houston,TX,United States}	{Travel & Transport,}
+2202	Sat Nov 13 17:58:13 +0000 2010	4a36fbcbf964a5201b9e1fe3	{William P Hobby Airport (HOU)}	{29.6528413753627,-95.27636911422604,Houston,TX,United States}	{Travel & Transport,}
+2202	Sat Nov 13 14:45:47 +0000 2010	4a8a103af964a520c90920e3	{Hartsfield-Jackson Atlanta International Airport (ATL)}	{33.640669114843895,-84.43606853485107,Atlanta,GA,United States}	{Travel & Transport,}
+2202	Sat Nov 13 11:58:08 +0000 2010	4b0ddaa6f964a520605123e3	{Southwest Florida International Airport (RSW)}	{26.527923774866334,-81.75525963306427,Fort Myers,FL,United States}	{Travel & Transport,}
+2202	Thu Nov 11 16:18:20 +0000 2010	4bd8760ee914a5939c4a53fa	{McDonald's}	{26.55596249701752,-81.90360751095493,Fort Myers,FL,United States}	{Food,}
+2202	Mon Nov 08 12:56:02 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Mon Nov 08 04:45:25 +0000 2010	4b0ddaa6f964a520605123e3	{Southwest Florida International Airport (RSW)}	{26.527923774866334,-81.75525963306427,Fort Myers,FL,United States}	{Travel & Transport,}
+2202	Mon Nov 08 00:26:06 +0000 2010	4a8a103af964a520c90920e3	{Hartsfield-Jackson Atlanta International Airport (ATL)}	{33.640669114843895,-84.43606853485107,Atlanta,GA,United States}	{Travel & Transport,}
+2202	Sun Nov 07 07:03:18 +0000 2010	4ad7d912f964a520600f21e3	{Sheraton Grand Sacramento Hotel}	{38.57919289582425,-121.48988753193353,Sacramento,CA,United States}	{Travel & Transport,}
+2202	Sun Nov 07 05:18:29 +0000 2010	4b0586b5f964a520bd6a22e3	{The Park Ultra Lounge}	{38.57671518372289,-121.48763415496887,Sacramento,CA,United States}	{Nightlife Spot,}
+2202	Sat Nov 06 07:07:01 +0000 2010	4ad7d912f964a520600f21e3	{Sheraton Grand Sacramento Hotel}	{38.57919289582425,-121.48988753193353,Sacramento,CA,United States}	{Travel & Transport,}
+2202	Fri Nov 05 23:19:02 +0000 2010	4bc7da668b7c9c74225837cf	{Minneapolis-St. Paul International Airport (MSP)}	{44.884397546192474,-93.21178436279297,Minneapolis,MN,United States}	{Travel & Transport,}
+2202	Tue Nov 02 11:56:22 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Sat Oct 30 21:53:18 +0000 2010	4b3e90fef964a520069f25e3	{Starbucks}	{27.781274,-82.638771,St. Petersburg,FL,United States}	{Food,}
+2202	Sat Oct 30 20:14:26 +0000 2010	4babf4baf964a52007d93ae3	{Jannus Live}	{27.771800675429535,-82.6360023147451,St. Petersburg,FL,United States}	{Nightlife Spot,Arts & Entertainment,}
+2202	Tue Oct 26 11:57:22 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Sun Oct 24 09:43:54 +0000 2010	4b025c33f964a520714822e3	{Foundation Room}	{36.09183481061275,-115.17448425292969,Las Vegas,NV,United States}	{Nightlife Spot,}
+2202	Sun Oct 24 05:49:20 +0000 2010	49de85bef964a52069601fe3	{LAVO Italian Restaurant & Nightclub}	{36.12428743308351,-115.16959190368652,Las Vegas,NV,United States}	{Nightlife Spot,Food,}
+2202	Sat Oct 23 22:20:07 +0000 2010	41326e00f964a5204f141fe3	{Hard Rock Hotel & Casino}	{36.10873022339937,-115.15369176864624,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,}
+2202	Sat Oct 23 19:23:33 +0000 2010	4b832932f964a5200ffb30e3	{Todd English P.U.B.}	{36.107887969042935,-115.17593299673821,Las Vegas,NV,United States}	{Nightlife Spot,Food,}
+2202	Sat Oct 23 16:45:02 +0000 2010	41326e00f964a5204f141fe3	{Hard Rock Hotel & Casino}	{36.10873022339937,-115.15369176864624,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,}
+2202	Sat Oct 23 06:15:33 +0000 2010	41326e00f964a520b2141fe3	{New York-New York Hotel & Casino}	{36.102649506919235,-115.1744145154953,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+2202	Sat Oct 23 05:34:17 +0000 2010	41326e00f964a5204f141fe3	{Hard Rock Hotel & Casino}	{36.10873022339937,-115.15369176864624,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,}
+2202	Sat Oct 23 04:21:27 +0000 2010	4a677f82f964a52091c91fe3	{Las Vegas McCarran International Airport (LAS)}	{36.08365019548198,-115.14985084533691,Las Vegas,NV,United States}	{Travel & Transport,}
+2202	Fri Oct 22 20:49:09 +0000 2010	4a8a103af964a520c90920e3	{Hartsfield-Jackson Atlanta International Airport (ATL)}	{33.640669114843895,-84.43606853485107,Atlanta,GA,United States}	{Travel & Transport,}
+2202	Fri Oct 22 18:17:06 +0000 2010	4b0ddaa6f964a520605123e3	{Southwest Florida International Airport (RSW)}	{26.527923774866334,-81.75525963306427,Fort Myers,FL,United States}	{Travel & Transport,}
+2202	Tue Oct 19 11:35:46 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Mon Oct 18 13:05:19 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Sun Oct 17 16:45:10 +0000 2010	4c44b037dcd61b8dc4b17b56	{King's Car Wash}	{26.54655329,-81.80295854,Fort Myers,FL,United States}	{Shop & Service,}
+2202	Sun Oct 17 14:20:35 +0000 2010	4b053e35f964a520805722e3	{Roasters' N Toasters Deli}	{25.814087913829567,-80.12983613763912,Miami Beach,FL,United States}	{Food,}
+2202	Sun Oct 17 05:26:54 +0000 2010	4043ce80f964a5203cf21ee3	{Shore Club}	{25.79491327338526,-80.12876744807737,Miami Beach,FL,United States}	{Travel & Transport,Outdoors & Recreation,Hotel,}
+2202	Sun Oct 17 01:28:10 +0000 2010	4b4a784ef964a520948826e3	{STK}	{25.799775269455218,-80.12736797332764,Miami Beach,FL,United States}	{Food,Arts & Entertainment,}
+2202	Sat Oct 16 23:31:40 +0000 2010	4b7096d0f964a520cd232de3	{Mokai Lounge}	{25.79875229739743,-80.12863113467665,Miami Beach,FL,United States}	{Nightlife Spot,}
+2202	Sat Oct 16 19:39:17 +0000 2010	4043ce80f964a5203cf21ee3	{Shore Club}	{25.79491327338526,-80.12876744807737,Miami Beach,FL,United States}	{Travel & Transport,Outdoors & Recreation,Hotel,}
+2202	Fri Oct 15 16:13:59 +0000 2010	4b677cf5f964a520f0512be3	{Bistro 41}	{26.550071239471436,-81.870352,Fort Myers,FL,United States}	{Food,}
+2202	Fri Oct 15 12:03:13 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Thu Oct 14 11:44:53 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Thu Oct 14 03:00:10 +0000 2010	4b677c7ff964a520d6512be3	{Edison Restaurant, Bar & Banquets}	{26.6107663218156,-81.8840450463833,Fort Myers,FL,United States}	{Nightlife Spot,Food,}
+2202	Thu Oct 14 00:32:57 +0000 2010	4ba187e4f964a5207bbe37e3	{Cru}	{26.548343896865845,-81.869624,Fort Myers,FL,United States}	{Nightlife Spot,Food,}
+2202	Wed Oct 13 23:28:49 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Tue Oct 12 13:48:35 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Tue Oct 12 03:02:30 +0000 2010	4b04a2c6f964a520db5522e3	{The Westin Diplomat Resort & Spa}	{25.9916481237213,-80.11822700500488,Hollywood,FL,United States}	{Travel & Transport,Hotel,Convention Center,Professional & Other Places,}
+2202	Mon Oct 11 23:52:11 +0000 2010	4af9ab17f964a520241322e3	{Revolution Live}	{26.121325656452317,-80.14618651868273,Fort Lauderdale,FL,United States}	{Nightlife Spot,Arts & Entertainment,}
+2202	Mon Oct 11 22:24:48 +0000 2010	40e0b100f964a520bf041fe3	{Himmarshee Bar & Grill}	{26.12046,-80.146017,Fort Lauderdale,FL,United States}	{Nightlife Spot,Food,}
+2202	Mon Oct 11 20:48:46 +0000 2010	4b04a2c6f964a520db5522e3	{The Westin Diplomat Resort & Spa}	{25.9916481237213,-80.11822700500488,Hollywood,FL,United States}	{Travel & Transport,Hotel,Convention Center,Professional & Other Places,}
+2202	Thu Oct 07 18:00:25 +0000 2010	4b7428fcf964a5207bca2de3	{The News-Press}	{26.640425261624983,-81.86405594073358,,FL,United States}	{Professional & Other Places,}
+2202	Thu Oct 07 11:58:01 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Sat Oct 02 17:41:22 +0000 2010	4b52140ef964a520226627e3	{Fresh Market}	{26.54811818654589,-81.87058980260336,Fort Myers,FL,United States}	{Shop & Service,Food & Drink Shop,}
+2202	Sat Oct 02 16:36:26 +0000 2010	4c2a4160ae6820a1b4081643	{Last Call by Neiman Marcus}	{26.43527806014636,-81.77456598745312,Estero,FL,United States}	{Shop & Service,Clothing Store,}
+2202	Sat Oct 02 16:36:26 +0000 2010	4c2a4160ae6820a1b4081643	{Last Call by Neiman Marcus}	{26.43527806014636,-81.77456598745312,Estero,FL,United States}	{Shop & Service,Clothing Store,}
+2202	Fri Oct 01 16:58:02 +0000 2010	4c897e92e51e6dcbbef560de	{Nervous Nellie's}	{26.456557730386347,-81.95427799532901,Fort Myers Beach,FL,United States}	{Nightlife Spot,Food,}
+2202	Fri Oct 01 11:54:05 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Thu Sep 30 11:44:38 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Tue Sep 28 11:37:56 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Mon Sep 27 12:33:22 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Sat Sep 25 19:30:20 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Sat Sep 25 13:37:00 +0000 2010	4c151f5782a3c9b6fc49fef8	{Lowe's Home Improvement}	{26.52692964824273,-81.87289918273424,Fort Myers,FL,United States}	{Shop & Service,}
+2202	Fri Sep 24 21:47:24 +0000 2010	4d0009d36edfa09370eb0915	{Twisted Vine Bistro}	{26.644631,-81.870542,Fort Myers,FL,United States}	{Nightlife Spot,Food,}
+2202	Fri Sep 24 11:38:10 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Thu Sep 23 16:00:42 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Thu Sep 23 16:00:42 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Tue Sep 21 11:39:59 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Mon Sep 20 12:28:28 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Sun Sep 19 19:10:04 +0000 2010	4b648f6ff964a520bcbd2ae3	{Hotel Indigo}	{26.643164686736228,-81.87058980260336,Fort Myers,FL,United States}	{Travel & Transport,}
+2202	Sun Sep 19 15:40:14 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Sat Sep 18 22:07:41 +0000 2010	4bc4847fd57beee1d4c2479f	{Sanibel Harbour Marriot Resort & Spa}	{26.489264706134684,-82.01214750731741,Fort Myers,FL,United States}	{Travel & Transport,Shop & Service,Hotel,}
+2202	Fri Sep 17 16:52:56 +0000 2010	4b8f60c2f964a520db5233e3	{Downtown House Of Pizza}	{26.643913,-81.86980043650122,Fort Myers,FL,United States}	{Food,}
+2202	Fri Sep 17 12:31:04 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Thu Sep 16 11:40:57 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Wed Sep 15 16:06:12 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Sat Sep 11 23:01:14 +0000 2010	4c897e92e51e6dcbbef560de	{Nervous Nellie's}	{26.456557730386347,-81.95427799532901,Fort Myers Beach,FL,United States}	{Nightlife Spot,Food,}
+2202	Sat Sep 11 23:01:13 +0000 2010	4c897e92e51e6dcbbef560de	{Nervous Nellie's}	{26.456557730386347,-81.95427799532901,Fort Myers Beach,FL,United States}	{Nightlife Spot,Food,}
+2202	Sat Sep 11 15:24:26 +0000 2010	4bf28cf9a32e20a1cb50d557	{Publix Super Market at First Street Village}	{26.637731,-81.876253,Fort Myers,FL,United States}	{Shop & Service,Food,Food & Drink Shop,}
+2202	Sat Sep 11 02:46:15 +0000 2010	4bc8cfad0687ef3b8da5d8cc	{The Pub Naples}	{26.252532702960963,-81.79733276367188,Naples,FL,United States}	{Nightlife Spot,Food,}
+2202	Wed Sep 08 11:53:32 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Tue Sep 07 11:39:11 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Mon Sep 06 14:29:13 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Mon Sep 06 10:22:36 +0000 2010	4bfeaa9ce584c928f9076d25	{Grandeur Of The Seas}	{26.08767227230538,-80.11483,Fort Lauderdale,FL,United States}	{Travel & Transport,}
+2202	Fri Sep 03 11:56:01 +0000 2010	4e7b379ba80986ae504c5d7a	{Royal Carribean Cruise Ship}	{24.557982884376095,-81.80893490036827,Key West,FL,United States}	{Travel & Transport,}
+2202	Thu Sep 02 18:15:54 +0000 2010	4bd9ec738668c9b6329df209	{Grandeur of the Sea}	{26.087898983333332,-80.115808,Fort Lauderdale,FL,United States}	{Travel & Transport,}
+2202	Thu Sep 02 16:04:51 +0000 2010	4d16525885fc6dcba9dea54e	{Alligator Alley}	{26.153434865937452,-81.59185409545898,Everglades,FL,United States}	{Travel & Transport,}
+2202	Wed Sep 01 17:17:01 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Mon Aug 30 11:38:14 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Sat Aug 28 23:59:49 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Fri Aug 27 11:46:49 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Fri Aug 27 02:16:27 +0000 2010	4ba3f326f964a520a77038e3	{City Tavern}	{26.644598963095547,-81.87088314593647,Fort Myers,FL,United States}	{Nightlife Spot,Arts & Entertainment,}
+2202	Fri Aug 27 01:33:29 +0000 2010	4c6492b5c74c1b8d28f3b183	{Blu Sushi}	{26.546302835628953,-81.91345873048215,Fort Myers,FL,United States}	{Nightlife Spot,Food,}
+2202	Thu Aug 26 23:34:21 +0000 2010	4b986514f964a520f33f35e3	{Yabo}	{26.500838,-81.96562035,Fort Myers,FL,United States}	{}
+2202	Thu Aug 26 23:34:21 +0000 2010	4b986514f964a520f33f35e3	{Yabo}	{26.500838,-81.96562035,Fort Myers,FL,United States}	{}
+2202	Wed Aug 25 21:09:42 +0000 2010	4b677c7ff964a520d6512be3	{Edison Restaurant, Bar & Banquets}	{26.6107663218156,-81.8840450463833,Fort Myers,FL,United States}	{Nightlife Spot,Food,}
+2202	Tue Aug 24 21:59:19 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Sun Aug 22 17:49:12 +0000 2010	4c897e92e51e6dcbbef560de	{Nervous Nellie's}	{26.456557730386347,-81.95427799532901,Fort Myers Beach,FL,United States}	{Nightlife Spot,Food,}
+2202	Sat Aug 21 12:56:25 +0000 2010	4bf28cf9a32e20a1cb50d557	{Publix Super Market at First Street Village}	{26.637731,-81.876253,Fort Myers,FL,United States}	{Shop & Service,Food,Food & Drink Shop,}
+2202	Thu Aug 19 23:26:07 +0000 2010	4b9d6437f964a5203fa936e3	{Ichiban Sushi Bar}	{26.643294876902804,-81.87072847414427,Fort Myers,FL,United States}	{Food,}
+2202	Thu Aug 19 17:32:25 +0000 2010	4bdf5407ffdec928bc95eba1	{McDonald's}	{26.619373921766343,-81.94045211101799,Cape Coral,FL,United States}	{Food,}
+2202	Thu Aug 19 13:21:23 +0000 2010	4b2beed1f964a520fbbd24e3	{Starbucks}	{26.643753,-81.87068316,Fort Myers,FL,United States}	{Food,}
+2202	Wed Aug 18 23:07:17 +0000 2010	4b986514f964a520f33f35e3	{Yabo}	{26.500838,-81.96562035,Fort Myers,FL,United States}	{}
+2202	Wed Aug 18 13:41:04 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Wed Aug 18 12:23:23 +0000 2010	4b2beed1f964a520fbbd24e3	{Starbucks}	{26.643753,-81.87068316,Fort Myers,FL,United States}	{Food,}
+2202	Tue Aug 17 22:32:52 +0000 2010	4b63302ff964a52040692ae3	{Veranda Restaurant}	{26.641689701343353,-81.86950708881254,Fort Myers,FL,United States}	{Nightlife Spot,}
+2202	Tue Aug 17 17:03:30 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Tue Aug 17 03:59:28 +0000 2010	4b05868bf964a520556522e3	{Walt Disney World Dolphin}	{28.36755303470224,-81.5604293346405,Lake Buena Vista,FL,United States}	{Travel & Transport,Hotel,}
+2202	Mon Aug 16 21:48:07 +0000 2010	4b058698f964a520486722e3	{Todd English's BlueZoo}	{28.367244833044452,-81.56024158000946,Lake Buena Vista,FL,United States}	{Food,}
+2202	Mon Aug 16 21:10:04 +0000 2010	4b05868bf964a520556522e3	{Walt Disney World Dolphin}	{28.36755303470224,-81.5604293346405,Lake Buena Vista,FL,United States}	{Travel & Transport,Hotel,}
+2202	Mon Aug 16 17:58:37 +0000 2010	4b2beed1f964a520fbbd24e3	{Starbucks}	{26.643753,-81.87068316,Fort Myers,FL,United States}	{Food,}
+2202	Mon Aug 16 11:40:46 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Sun Aug 15 17:10:51 +0000 2010	4c44b037dcd61b8dc4b17b56	{King's Car Wash}	{26.54655329,-81.80295854,Fort Myers,FL,United States}	{Shop & Service,}
+2202	Sun Aug 15 03:50:57 +0000 2010	4b57564df964a5203b3228e3	{InterContinental Miami}	{25.772497892875478,-80.18593997719546,Miami,FL,United States}	{Travel & Transport,Shop & Service,Hotel,}
+2202	Sat Aug 14 23:45:54 +0000 2010	4c081098d1329c74a8dafc07	{Bayfront Park Amphitheater}	{25.774553986954672,-80.18653935318783,Miami,FL,United States}	{Shop & Service,Arts & Entertainment,Clothing Store,}
+2202	Sat Aug 14 23:20:22 +0000 2010	4b70a3baf964a520f3262de3	{Red the Steakhouse}	{25.770584600854857,-80.13505943905133,Miami Beach,FL,United States}	{Food,}
+2202	Sat Aug 14 19:25:13 +0000 2010	4aa9ad40f964a520cf5420e3	{Four Points by Sheraton Miami Beach}	{25.81543090028673,-80.12245953083038,Miami Beach,FL,United States}	{Travel & Transport,}
+2202	Sat Aug 14 16:11:41 +0000 2010	4c2a4160ae6820a1b4081643	{Last Call by Neiman Marcus}	{26.43527806014636,-81.77456598745312,Estero,FL,United States}	{Shop & Service,Clothing Store,}
+2202	Fri Aug 13 11:42:18 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Thu Aug 12 21:10:13 +0000 2010	4c6d15a8f2846dcbbf8664e9	{Naples Princess}	{26.14077520907126,-81.78953929166272,Naples,FL,United States}	{Travel & Transport,}
+2202	Thu Aug 12 19:22:56 +0000 2010	4b62693bf964a52074462ae3	{Naples Daily News}	{26.271789921300428,-81.79673194885254,Naples,FL,United States}	{Professional & Other Places,}
+2202	Sun Aug 08 19:27:42 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Sun Aug 08 12:29:37 +0000 2010	4b66d826f964a5201d2d2be3	{Fort Myers Beach}	{26.449387,-81.948507,Fort Myers Beach,FL,United States}	{Outdoors & Recreation,}
+2202	Sat Aug 07 14:55:16 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Wed Aug 04 23:10:14 +0000 2010	4bd36e41b221c9b688c3d9d0	{The Grape}	{26.40143,-81.808049,Estero,FL,United States}	{Nightlife Spot,Food,}
+2202	Mon Aug 02 22:36:39 +0000 2010	4b637dccf964a520027e2ae3	{H2}	{26.6446685,-81.8705619,Fort Myers,FL,United States}	{Nightlife Spot,}
+2202	Mon Aug 02 04:27:25 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Sun Aug 01 17:07:14 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Sat Jul 31 18:32:29 +0000 2010	4bf28cf9a32e20a1cb50d557	{Publix Super Market at First Street Village}	{26.637731,-81.876253,Fort Myers,FL,United States}	{Shop & Service,Food,Food & Drink Shop,}
+2202	Sun Jul 25 16:39:12 +0000 2010	4bc35834dce4eee1dc8e719d	{Bayfront Inn 5th Ave}	{26.142724619922962,-81.79029214829208,Naples,FL,United States}	{Travel & Transport,}
+2202	Sat Jul 24 19:06:46 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Sat Jul 24 17:28:51 +0000 2010	4bd0955241b9ef3bd061fae5	{Red Salon & Spa}	{26.545365,-81.882166,Fort Myers,FL,United States}	{Shop & Service,}
+2202	Sat Jul 24 17:20:54 +0000 2010	4c4b20e942b4d13a91ae3f7e	{Austin's Wine}	{26.618043867188895,-81.87214717552696,Fort Myers,FL,United States}	{}
+2202	Thu Jul 22 16:29:33 +0000 2010	4b62693bf964a52074462ae3	{Naples Daily News}	{26.271789921300428,-81.79673194885254,Naples,FL,United States}	{Professional & Other Places,}
+2202	Thu Jul 22 13:53:19 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Wed Jul 21 17:07:43 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Mon Jul 19 22:39:08 +0000 2010	4b0ddaa6f964a520605123e3	{Southwest Florida International Airport (RSW)}	{26.527923774866334,-81.75525963306427,Fort Myers,FL,United States}	{Travel & Transport,}
+2202	Mon Jul 19 00:47:05 +0000 2010	4b8af3d8f964a520f18a32e3	{Solea at the W Hotel}	{25.797604,-80.127102,Miami Beach,FL,United States}	{Food,}
+2202	Mon Jul 19 00:46:17 +0000 2010	4c3e4f9d51dee21e8f7aea6e	{2010 Mercedes Benz Fashion Week at The Raleigh}	{25.793714,-80.128483,Miami Beach,FL,United States}	{Shop & Service,Clothing Store,}
+2202	Mon Jul 19 00:41:39 +0000 2010	44a4eb69f964a520e6341fe3	{Terminal 2 (Humphrey)}	{44.8741190972873,-93.2283067703247,Minneapolis,MN,United States}	{Travel & Transport,Airport,}
+2202	Sun Jul 18 18:01:53 +0000 2010	4abedc44f964a5204f9020e3	{W South Beach}	{25.797346737637074,-80.12737895817259,Miami Beach,FL,United States}	{Nightlife Spot,Travel & Transport,Hotel,}
+2202	Sun Jul 18 15:26:57 +0000 2010	4bf0469725afb71332d74a6f	{Sheraton Fort Lauderdale Airport & Cruise Port Hotel}	{26.061657582608163,-80.16195603855647,Dania,FL,United States}	{Travel & Transport,Hotel,}
+2202	Sun Jul 18 04:43:30 +0000 2010	4bbe3fff53e99521c1f92ca9	{Fort Lauderdale-Hollywood International Airport (FLL)}	{26.071085321330138,-80.1408863067627,Ft Lauderdale,FL,United States}	{Travel & Transport,}
+2202	Sun Jul 18 04:42:09 +0000 2010	4bc61bb6d35d9c74462de23a	{Gate D5}	{26.07332112375216,-80.14337539672852,Fort Lauderdale,FL,United States}	{Travel & Transport,Airport,}
+2202	Sun Jul 18 02:20:26 +0000 2010	4a8a103af964a520c90920e3	{Hartsfield-Jackson Atlanta International Airport (ATL)}	{33.640669114843895,-84.43606853485107,Atlanta,GA,United States}	{Travel & Transport,}
+2202	Sat Jul 17 19:37:07 +0000 2010	4bc7da668b7c9c74225837cf	{Minneapolis-St. Paul International Airport (MSP)}	{44.884397546192474,-93.21178436279297,Minneapolis,MN,United States}	{Travel & Transport,}
+2202	Sat Jul 17 16:15:41 +0000 2010	4bc7da668b7c9c74225837cf	{Minneapolis-St. Paul International Airport (MSP)}	{44.884397546192474,-93.21178436279297,Minneapolis,MN,United States}	{Travel & Transport,}
+2202	Sat Jul 17 14:47:34 +0000 2010	4cb95a1c4352a1cdc4098cf5	{Perkins Restaurant & Bakery}	{44.97235187979858,-93.36849034606759,Golden Valley,MN,United States}	{Food,}
+2202	Sat Jul 17 06:25:59 +0000 2010	4aa43e54f964a520004620e3	{DoubleTree by Hilton Hotel Minneapolis - Park Place}	{44.96884316563345,-93.3508864277681,Minneapolis,MN,United States}	{Travel & Transport,}
+2202	Sat Jul 17 05:32:49 +0000 2010	4bc4c292b492d13afd86aa60	{Toby Keith's I Love This Bar & Grill}	{44.96698602936189,-93.34881231780052,St. Louis Park,MN,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+2202	Sat Jul 17 04:27:50 +0000 2010	4c13cdc4f1e0b71329b834bc	{101.3 KDWB}	{44.96613439236292,-93.34557366149606,Minneapolis,MN,United States}	{Professional & Other Places,}
+2202	Sat Jul 17 04:09:47 +0000 2010	4aa43e54f964a520004620e3	{DoubleTree by Hilton Hotel Minneapolis - Park Place}	{44.96884316563345,-93.3508864277681,Minneapolis,MN,United States}	{Travel & Transport,}
+2202	Sat Jul 17 02:59:50 +0000 2010	4bae297bf964a520ea8b3be3	{Hrbek's}	{44.98162922642135,-93.2785909436153,Minneapolis,MN,United States}	{Nightlife Spot,Food,}
+2202	Sat Jul 17 00:10:45 +0000 2010	4b5a1afdf964a5208cad28e3	{Target Field}	{44.981860167782784,-93.27744483947754,Minneapolis,MN,United States}	{Outdoors & Recreation,Stadium,Arts & Entertainment,Athletics & Sports,}
+2202	Fri Jul 16 14:09:03 +0000 2010	4aa43e54f964a520004620e3	{DoubleTree by Hilton Hotel Minneapolis - Park Place}	{44.96884316563345,-93.3508864277681,Minneapolis,MN,United States}	{Travel & Transport,}
+2202	Fri Jul 16 05:00:12 +0000 2010	4bc4c292b492d13afd86aa60	{Toby Keith's I Love This Bar & Grill}	{44.96698602936189,-93.34881231780052,St. Louis Park,MN,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+2202	Fri Jul 16 01:09:18 +0000 2010	49cf8e1ef964a520ad5a1fe3	{Restaurant Alma}	{44.98386121,-93.247955,Minneapolis,MN,United States}	{Nightlife Spot,Food,}
+2202	Thu Jul 15 11:45:40 +0000 2010	4aa43e54f964a520004620e3	{DoubleTree by Hilton Hotel Minneapolis - Park Place}	{44.96884316563345,-93.3508864277681,Minneapolis,MN,United States}	{Travel & Transport,}
+2202	Thu Jul 15 01:16:49 +0000 2010	4acc0172f964a52093c820e3	{Bar La Grassa}	{44.989058500028875,-93.27884467458655,Minneapolis,MN,United States}	{Nightlife Spot,Food,}
+2202	Wed Jul 14 23:43:22 +0000 2010	4aa43e54f964a520004620e3	{DoubleTree by Hilton Hotel Minneapolis - Park Place}	{44.96884316563345,-93.3508864277681,Minneapolis,MN,United States}	{Travel & Transport,}
+2202	Wed Jul 14 22:03:03 +0000 2010	4bc7da668b7c9c74225837cf	{Minneapolis-St. Paul International Airport (MSP)}	{44.884397546192474,-93.21178436279297,Minneapolis,MN,United States}	{Travel & Transport,}
+2202	Wed Jul 14 19:51:39 +0000 2010	4aa9dde9f964a520755520e3	{General Mitchell International Airport (MKE)}	{42.947737434933686,-87.9019546508789,Milwaukee,WI,United States}	{Travel & Transport,}
+2202	Wed Jul 14 15:27:54 +0000 2010	4b0ddaa6f964a520605123e3	{Southwest Florida International Airport (RSW)}	{26.527923774866334,-81.75525963306427,Fort Myers,FL,United States}	{Travel & Transport,}
+2202	Sun Jul 11 20:26:51 +0000 2010	4b7450e1f964a520a9d42de3	{Outback Steakhouse}	{26.552298516666667,-81.87103,Fort Myers,FL,United States}	{Food,}
+2202	Sat Jul 10 22:46:20 +0000 2010	4b637dccf964a520027e2ae3	{H2}	{26.6446685,-81.8705619,Fort Myers,FL,United States}	{Nightlife Spot,}
+2202	Sat Jul 10 22:46:20 +0000 2010	4b637dccf964a520027e2ae3	{H2}	{26.6446685,-81.8705619,Fort Myers,FL,United States}	{Nightlife Spot,}
+2202	Sat Jul 10 00:58:02 +0000 2010	4b63302ff964a52040692ae3	{Veranda Restaurant}	{26.641689701343353,-81.86950708881254,Fort Myers,FL,United States}	{Nightlife Spot,}
+2202	Thu Jul 08 22:05:58 +0000 2010	4ba3f326f964a520a77038e3	{City Tavern}	{26.644598963095547,-81.87088314593647,Fort Myers,FL,United States}	{Nightlife Spot,Arts & Entertainment,}
+2202	Mon Jul 05 13:40:02 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Sun Jul 04 15:59:49 +0000 2010	4b9675cef964a52085cd34e3	{Bice Grand Cafe / Quattrocento}	{26.401919,-81.8078095,Bonita Springs,FL,United States}	{Food,}
+2202	Sat Jul 03 16:19:19 +0000 2010	4bbefb95f353d13ac5e57d10	{Waffle House}	{28.025746096507934,-82.15014949313559,Plant City,FL,United States}	{Food,}
+2202	Sat Jul 03 00:29:41 +0000 2010	4b05868df964a520aa6522e3	{Back Booth}	{28.54145077651041,-81.37986049720402,Orlando,FL,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+2202	Fri Jul 02 22:52:25 +0000 2010	4b058697f964a520216722e3	{Citrus Restaurant}	{28.555694751021818,-81.37921624415321,Orlando,FL,United States}	{Food,}
+2202	Fri Jul 02 20:44:52 +0000 2010	4b05868bf964a520546522e3	{Grand Bohemian Hotel Orlando, Autograph Collection}	{28.53883,-81.37901,Orlando,FL,United States}	{Travel & Transport,Hotel,}
+2202	Tue Jun 29 22:21:28 +0000 2010	4b52140ef964a520226627e3	{Fresh Market}	{26.54811818654589,-81.87058980260336,Fort Myers,FL,United States}	{Shop & Service,Food & Drink Shop,}
+2202	Sat Jun 26 16:17:45 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Fri Jun 25 17:59:42 +0000 2010	4b510797f964a520843e27e3	{Harborside Event Center}	{26.64471614371473,-81.87184453010559,Fort Myers,FL,United States}	{Arts & Entertainment,Professional & Other Places,}
+2202	Thu Jun 24 22:59:58 +0000 2010	4e027dab1495525ce2c4ecbf	{Bratta's Piano Bar & Ristorante}	{26.55321264239937,-81.87213117528934,Fort Myers,FL,United States}	{Nightlife Spot,Food,}
+2202	Sun Jun 20 13:20:35 +0000 2010	4b66d826f964a5201d2d2be3	{Fort Myers Beach}	{26.449387,-81.948507,Fort Myers Beach,FL,United States}	{Outdoors & Recreation,}
+2202	Sun Jun 20 00:03:06 +0000 2010	4b6ccb3ff964a520ed542ce3	{The Prawnbroker}	{26.54647780130396,-81.91359732036362,Fort Myers,FL,United States}	{Food,}
+2202	Sat Jun 19 20:06:09 +0000 2010	4b11aa9ff964a520cb8123e3	{Sun Harvest Citrus}	{26.52765266549558,-81.85322844259781,Fort Myers,FL,United States}	{Outdoors & Recreation,Food,Professional & Other Places,}
+2202	Sat Jun 19 16:53:51 +0000 2010	4b560e69f964a52024fe27e3	{Sanibel Island Lighthouse and Beach}	{26.453241188538573,-82.01390504837036,Sanibel,FL,United States}	{Outdoors & Recreation,}
+2202	Sat Jun 19 05:26:02 +0000 2010	4b8f509ef964a5202f5133e3	{Level}	{26.643864218757532,-81.8691977390625,Fort Myers,FL,United States}	{Nightlife Spot,}
+2202	Sat Jun 19 04:57:56 +0000 2010	4b9a6f46f964a520f8b435e3	{The "World Famous" Cigar Bar}	{26.644136849640645,-81.86978443574863,Fort Myers,FL,United States}	{Nightlife Spot,}
+2202	Sat Jun 19 03:27:38 +0000 2010	4b648f6ff964a520bcbd2ae3	{Hotel Indigo}	{26.643164686736228,-81.87058980260336,Fort Myers,FL,United States}	{Travel & Transport,}
+2202	Mon Jun 14 22:00:49 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Mon Jun 14 17:59:57 +0000 2010	4b11d311f964a520758523e3	{Magic Kingdom? Park}	{28.41597260059124,-81.58122444152832,Lake Buena Vista,FL,United States}	{Arts & Entertainment,}
+2202	Mon Jun 14 02:31:44 +0000 2010	4b6da4c1f964a520bd822ce3	{Disney's Saratoga Springs Resort & Spa}	{28.376206878683654,-81.52206003665924,Lake Buena Vista,FL,United States}	{Travel & Transport,Shop & Service,Hotel,Bus Station,}
+2202	Sun Jun 13 23:16:50 +0000 2010	4b058698f964a520486722e3	{Todd English's BlueZoo}	{28.367244833044452,-81.56024158000946,Lake Buena Vista,FL,United States}	{Food,}
+2202	Sun Jun 13 18:14:29 +0000 2010	4b741f98f964a520f2c82de3	{World Showcase}	{28.371511862752186,-81.54939070343971,Lake Buena Vista,FL,United States}	{Arts & Entertainment,}
+2202	Sun Jun 13 04:03:04 +0000 2010	4b058691f964a5202e6622e3	{Downtown Disney Pleasure Island}	{28.37128056903653,-81.51803098618984,Lake Buena Vista,FL,United States}	{Nightlife Spot,Outdoors & Recreation,Arts & Entertainment,}
+2202	Sun Jun 13 01:32:44 +0000 2010	4b11d311f964a520758523e3	{Magic Kingdom? Park}	{28.41597260059124,-81.58122444152832,Lake Buena Vista,FL,United States}	{Arts & Entertainment,}
+2202	Sun Jun 13 01:31:35 +0000 2010	4c0adc336071a593145fe032	{Main Street Electrical Parade}	{28.41825145943632,-81.5812212101633,Lake Buena Vista,FL,United States}	{Arts & Entertainment,}
+2202	Sat Jun 12 19:18:45 +0000 2010	4b6da4c1f964a520bd822ce3	{Disney's Saratoga Springs Resort & Spa}	{28.376206878683654,-81.52206003665924,Lake Buena Vista,FL,United States}	{Travel & Transport,Shop & Service,Hotel,Bus Station,}
+2202	Sat Jun 12 18:01:57 +0000 2010	4b5f2bc5f964a520beaa29e3	{Hardee's / Red Burrito}	{28.054295057249046,-81.98977630074573,Lakeland,FL,United States}	{Food,}
+2202	Thu Jun 10 02:50:01 +0000 2010	4b677c7ff964a520d6512be3	{Edison Restaurant, Bar & Banquets}	{26.6107663218156,-81.8840450463833,Fort Myers,FL,United States}	{Nightlife Spot,Food,}
+2202	Thu Jun 10 01:26:42 +0000 2010	4b637dccf964a520027e2ae3	{H2}	{26.6446685,-81.8705619,Fort Myers,FL,United States}	{Nightlife Spot,}
+2202	Wed Jun 09 01:12:09 +0000 2010	4ba7fa2ff964a52093c339e3	{Ruth's Chris Steak House}	{26.40234485497843,-81.80789931619167,Bonita Springs,FL,United States}	{Food,}
+2202	Mon Jun 07 11:29:51 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Sun Jun 06 14:19:54 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Fri Jun 04 22:02:13 +0000 2010	4b63302ff964a52040692ae3	{Veranda Restaurant}	{26.641689701343353,-81.86950708881254,Fort Myers,FL,United States}	{Nightlife Spot,}
+2202	Wed Jun 02 22:26:13 +0000 2010	4b637dccf964a520027e2ae3	{H2}	{26.6446685,-81.8705619,Fort Myers,FL,United States}	{Nightlife Spot,}
+2202	Mon May 31 15:30:32 +0000 2010	4b859274f964a520326631e3	{WINK-TV}	{26.651857263720007,-81.85601715445814,Ft. Myers,FL,United States}	{Arts & Entertainment,}
+2202	Sun May 30 20:03:46 +0000 2010	4b4695b1f964a520f02426e3	{Oyster House}	{25.84454774212008,-81.38489484786987,Everglades City,FL,United States}	{Food,}
+2202	Sun May 30 17:09:16 +0000 2010	4c897e92e51e6dcbbef560de	{Nervous Nellie's}	{26.456557730386347,-81.95427799532901,Fort Myers Beach,FL,United States}	{Nightlife Spot,Food,}
+2202	Fri May 28 03:02:45 +0000 2010	4b5ba643f964a5209c0d29e3	{Regal Hollywood Stadium 20}	{26.217319491101417,-81.77169272944872,Naples,FL,United States}	{Arts & Entertainment,Movie Theater,}
+2202	Wed May 26 19:43:39 +0000 2010	4b2beed1f964a520fbbd24e3	{Starbucks}	{26.643753,-81.87068316,Fort Myers,FL,United States}	{Food,}
+2202	Sun May 23 16:14:44 +0000 2010	4c897e92e51e6dcbbef560de	{Nervous Nellie's}	{26.456557730386347,-81.95427799532901,Fort Myers Beach,FL,United States}	{Nightlife Spot,Food,}
+2202	Sun May 23 03:01:43 +0000 2010	4ecdd08cd3e3521ce2bf257a	{Seven Nightclub}	{26.350083622134857,-81.8094900528739,Bonita Springs,FL,United States}	{Nightlife Spot,}
+2202	Sun May 23 02:23:15 +0000 2010	4bd76e46885595210e8c87a7	{PURE Urban Oasis}	{26.253003,-81.797427,Naples,FL,United States}	{Nightlife Spot,Food,}
+2202	Fri May 21 22:24:41 +0000 2010	4b677cf5f964a520f0512be3	{Bistro 41}	{26.550071239471436,-81.870352,Fort Myers,FL,United States}	{Food,}
+2202	Thu May 20 23:51:55 +0000 2010	4b677cf5f964a520f0512be3	{Bistro 41}	{26.550071239471436,-81.870352,Fort Myers,FL,United States}	{Food,}
+2202	Sun May 16 15:59:06 +0000 2010	4a5a77a4f964a52062ba1fe3	{Chicago O'Hare International Airport (ORD)}	{41.977270920041626,-87.90440082550049,Chicago,IL,United States}	{Travel & Transport,}
+2202	Sun May 16 05:13:32 +0000 2010	4a5a6390f964a52044ba1fe3	{Manor}	{41.89353498370824,-87.63130768663167,Chicago,IL,United States}	{Nightlife Spot,}
+2202	Sun May 16 01:22:56 +0000 2010	49ebe3cbf964a5203f671fe3	{The Bristol}	{41.92104454,-87.677841,Chicago,IL,United States}	{Food,}
+2202	Sat May 15 16:35:53 +0000 2010	4bad1abcf964a520fa2d3be3	{Westin Michigan Avenue}	{41.899667,-87.623552,Chicago,IL,United States}	{Nightlife Spot,Travel & Transport,}
+2202	Sat May 15 15:27:56 +0000 2010	4b5bb005f964a520141029e3	{The Bagel Restaurant & Deli}	{42.06050904321049,-87.74861812591553,Skokie,IL,United States}	{Food,}
+2202	Sat May 15 02:00:53 +0000 2010	4b22967bf964a5209e4924e3	{Buona}	{42.05178065733511,-87.99713766503562,Rolling Meadows,IL,United States}	{Food,}
+2202	Sat May 15 01:19:19 +0000 2010	4a5a77a4f964a52062ba1fe3	{Chicago O'Hare International Airport (ORD)}	{41.977270920041626,-87.90440082550049,Chicago,IL,United States}	{Travel & Transport,}
+2202	Fri May 14 20:26:18 +0000 2010	4b0ddaa6f964a520605123e3	{Southwest Florida International Airport (RSW)}	{26.527923774866334,-81.75525963306427,Fort Myers,FL,United States}	{Travel & Transport,}

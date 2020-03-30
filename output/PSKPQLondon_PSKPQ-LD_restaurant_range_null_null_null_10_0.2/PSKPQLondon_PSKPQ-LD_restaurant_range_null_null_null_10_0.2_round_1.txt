@@ -1,0 +1,4 @@
+#categoryName experimentName dataset neighborhood plusMode queryType numQueries numKeywords numResults radius item value min max observations
+PSKPQLondon PSKPQ-LD restaurant range null null null 10 0.2 nodesAccessed 0.0 - 9223372036854775807 0 0
+PSKPQLondon PSKPQ-LD restaurant range null null null 10 0.2 pageFaults 0.0 - 9223372036854775807 0 0
+PSKPQLondon PSKPQ-LD restaurant range null null null 10 0.2 totalExecutionTime 1448.0 - 1448 1448 1

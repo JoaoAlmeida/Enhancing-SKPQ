@@ -1,0 +1,894 @@
+87	Thu Aug 11 02:06:23 +0000 2011	41044980f964a520700b1fe3	{Hillstone}	{37.805918649667305,-122.40514039993286,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Tue Aug 09 15:50:51 +0000 2011	4c334a8b3896e21e63bee990	{W.j. Bradley Mortgage Capital Corp}	{37.596435,-122.38447,Burlingame,CA,United States}	{Professional & Other Places,}
+87	Tue Aug 09 00:57:17 +0000 2011	4a329abbf964a520669a1fe3	{California Pacific Medical Center}	{37.79087769731506,-122.43112769761348,San Francisco,CA,United States}	{Medical Center,College & University,Professional & Other Places,}
+87	Sun Aug 07 21:47:49 +0000 2011	4a7104cbf964a52000d91fe3	{Target}	{37.63618886357397,-122.41657733917236,San Bruno,CA,United States}	{Shop & Service,Clothing Store,}
+87	Sun Aug 07 20:39:26 +0000 2011	4b1b1c6cf964a5203bf823e3	{Z Gallerie}	{37.79727648317745,-122.43488247994517,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun Aug 07 20:04:45 +0000 2011	4e2f6919483b93c2f2dfb5ab	{Covet}	{37.7972802,-122.43415121666666,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun Aug 07 19:40:17 +0000 2011	4b2d0f23f964a5204ecd24e3	{Keatley Detail}	{37.780181884765625,-122.400778,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun Aug 07 18:40:54 +0000 2011	4aa46a42f964a520bd4620e3	{Local Kitchen & Wine Merchant}	{37.78690159989067,-122.3941478085928,San Francisco,CA,United States}	{Food,}
+87	Sun Aug 07 18:05:03 +0000 2011	4d54e1c1b4deb1f7ae5ffe79	{The Metropolitan-North}	{37.78725740262541,-122.39388227626786,San Francisco,CA,United States}	{Professional & Other Places,Residence,}
+87	Sun Aug 07 06:30:12 +0000 2011	4abc421df964a520ef8620e3	{Fox Theater}	{37.80809019289311,-122.27061431370356,Oakland,CA,United States}	{Music Venue,Arts & Entertainment,}
+87	Sun Aug 07 02:37:33 +0000 2011	49e8e0fff964a520a4651fe3	{Flora Restaurant & Bar}	{37.808211,-122.269778,Oakland,CA,United States}	{Nightlife Spot,Food,}
+87	Sat Aug 06 23:18:06 +0000 2011	4ddb08892271ac90476b3cd0	{Flowers by Sophia}	{37.358322787309774,-122.02155841329231,Sunnyvale,CA,United States}	{Shop & Service,}
+87	Sat Aug 06 22:26:28 +0000 2011	4c237de69085d13aa1f287cc	{76}	{37.78609185,-122.393314,San Francisco,CA,United States}	{Shop & Service,}
+87	Sat Aug 06 20:15:07 +0000 2011	452b81ddf964a520393b1fe3	{Westfield San Francisco Centre}	{37.78448965,-122.4063157,San Francisco,CA,United States}	{Shop & Service,}
+87	Sat Aug 06 19:12:26 +0000 2011	43f8404cf964a520c22f1fe3	{Macy's}	{37.78755853482698,-122.40750653872762,San Francisco,CA,United States}	{Shop & Service,}
+87	Sat Aug 06 19:12:18 +0000 2011	40bbc700f964a520b1001fe3	{Union Square}	{37.787750172585,-122.40762822536455,San Francisco,CA,United States}	{Outdoors & Recreation,}
+87	Sat Aug 06 01:52:01 +0000 2011	4d35122d8c42a1cd7c9e005e	{Atelier Crenn}	{37.798373944122254,-122.4357283115387,San Francisco,CA,United States}	{Food,}
+87	Fri Aug 05 02:29:11 +0000 2011	43d9e87ff964a520732e1fe3	{Kuleto's}	{37.78674840746755,-122.40813709522907,San Francisco,CA,United States}	{Food,}
+87	Thu Aug 04 15:57:45 +0000 2011	4c334a8b3896e21e63bee990	{W.j. Bradley Mortgage Capital Corp}	{37.596435,-122.38447,Burlingame,CA,United States}	{Professional & Other Places,}
+87	Wed Aug 03 01:22:07 +0000 2011	4bd2177d046076b055357371	{AT&T Park}	{37.77833858778822,-122.38940119743347,San Francisco,CA,United States}	{Stadium,Arts & Entertainment,}
+87	Sun Jul 31 21:48:55 +0000 2011	4b2d0f23f964a5204ecd24e3	{Keatley Detail}	{37.780181884765625,-122.400778,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun Jul 31 21:32:10 +0000 2011	4ba686a5f964a520195b39e3	{DarTEAling Lounge}	{37.781622141230585,-122.39648778324242,San Francisco,CA,United States}	{Food,}
+87	Sun Jul 31 20:01:43 +0000 2011	49fa306ff964a520d56d1fe3	{Polished Lounge}	{37.78156,-122.396402,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun Jul 31 03:27:52 +0000 2011	49d031f7f964a5200c5b1fe3	{Safeway}	{37.77669346324875,-122.39406287670135,San Francisco,CA,United States}	{Shop & Service,Food & Drink Shop,}
+87	Sun Jul 31 01:54:23 +0000 2011	4a9c8264f964a5206a3720e3	{Therapeia Massage}	{37.78777033751632,-122.42733959985483,San Francisco,CA,United States}	{Shop & Service,Professional & Other Places,}
+87	Sat Jul 30 19:10:47 +0000 2011	4e21ccfe52b1f82ffba24ad8	{Brunch Drunk Love}	{37.758921,-122.419195,San Francisco,CA,United States}	{Food,}
+87	Sat Jul 30 02:08:29 +0000 2011	4ab146bff964a520d96820e3	{Ironside}	{37.78086556345002,-122.39105880260468,San Francisco,CA,United States}	{Food,}
+87	Thu Jul 28 02:00:37 +0000 2011	4a41b07ff964a5208aa51fe3	{54 Mint}	{37.782748,-122.407611,San Francisco,CA,United States}	{Food,}
+87	Wed Jul 27 21:54:15 +0000 2011	4b9bf2abf964a520573936e3	{Bishop Ranch Veterinary Clinic}	{37.77123634589975,-121.9711031103045,San Ramon,CA,United States}	{Medical Center,Professional & Other Places,}
+87	Wed Jul 27 17:42:14 +0000 2011	4c334a8b3896e21e63bee990	{W.j. Bradley Mortgage Capital Corp}	{37.596435,-122.38447,Burlingame,CA,United States}	{Professional & Other Places,}
+87	Tue Jul 26 13:58:26 +0000 2011	4c237de69085d13aa1f287cc	{76}	{37.78609185,-122.393314,San Francisco,CA,United States}	{Shop & Service,}
+87	Tue Jul 26 01:21:44 +0000 2011	49d17c67f964a5208a5b1fe3	{Zar? at Fly Trap}	{37.78541349004772,-122.39690266693444,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Mon Jul 25 01:48:11 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+87	Sun Jul 24 23:20:17 +0000 2011	4aed9bb3f964a520d5cd21e3	{Palm Springs International Airport (PSP)}	{33.82144229745803,-116.50812149047852,Palm Springs,CA,United States}	{Travel & Transport,Airport,}
+87	Sun Jul 24 21:10:36 +0000 2011	4b4e8a16f964a520e3f026e3	{Upper Crust Pizza}	{33.78755234,-116.48136,Cathedral City,CA,United States}	{Food,}
+87	Sun Jul 24 20:20:15 +0000 2011	4b5211b7f964a520686527e3	{Lowe's Home Improvement}	{33.81486139124726,-116.49021829007552,Palm Springs,CA,United States}	{Shop & Service,}
+87	Sun Jul 24 18:57:34 +0000 2011	4b54e806f964a52084d227e3	{Target}	{33.789582662519535,-116.48149508230743,Cathedral City,CA,United States}	{Shop & Service,}
+87	Sun Jul 24 18:57:34 +0000 2011	4b54e806f964a52084d227e3	{Target}	{33.789582662519535,-116.48149508230743,Cathedral City,CA,United States}	{Shop & Service,}
+87	Sun Jul 24 04:05:00 +0000 2011	4b5211b7f964a520686527e3	{Lowe's Home Improvement}	{33.81486139124726,-116.49021829007552,Palm Springs,CA,United States}	{Shop & Service,}
+87	Sun Jul 24 03:31:05 +0000 2011	4b773956f964a52068892ee3	{Best Buy}	{33.72666915,-116.4042569,Palm Desert,CA,United States}	{Shop & Service,}
+87	Sun Jul 24 01:35:23 +0000 2011	4b874bc0f964a52087ba31e3	{Blue Coyote Grill}	{33.829356,-116.546991,Palm Springs,CA,United States}	{Food,}
+87	Sat Jul 23 19:41:41 +0000 2011	4c2297d299282d7f796667b0	{Georges Bar & Grill}	{33.81568906,-116.459746,Cathedral City,CA,United States}	{Nightlife Spot,}
+87	Sat Jul 23 04:12:10 +0000 2011	4b9d1eb6f964a5205c9136e3	{VONS}	{33.79231353315405,-116.4945567254388,Palm Springs,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+87	Sat Jul 23 03:37:22 +0000 2011	4b4e8a16f964a520e3f026e3	{Upper Crust Pizza}	{33.78755234,-116.48136,Cathedral City,CA,United States}	{Food,}
+87	Fri Jul 22 23:31:11 +0000 2011	4aed9bb3f964a520d5cd21e3	{Palm Springs International Airport (PSP)}	{33.82144229745803,-116.50812149047852,Palm Springs,CA,United States}	{Travel & Transport,Airport,}
+87	Fri Jul 22 22:03:39 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+87	Fri Jul 22 02:41:51 +0000 2011	4a7e4593f964a520a8f11fe3	{Benihana}	{37.785385072940564,-122.43060529232025,San Francisco,CA,United States}	{Food,}
+87	Thu Jul 21 21:24:41 +0000 2011	4c334a8b3896e21e63bee990	{W.j. Bradley Mortgage Capital Corp}	{37.596435,-122.38447,Burlingame,CA,United States}	{Professional & Other Places,}
+87	Thu Jul 21 21:13:39 +0000 2011	4a96e1aff964a5205d2720e3	{Chipotle Mexican Grill}	{37.596757501033345,-122.38636964673569,Millbrae,CA,United States}	{Food,}
+87	Wed Jul 20 23:50:22 +0000 2011	49b41d95f964a520e7521fe3	{Waterbar}	{37.79060429269959,-122.38908598334135,San Francisco,CA,United States}	{Food,}
+87	Wed Jul 20 21:44:30 +0000 2011	4c334a8b3896e21e63bee990	{W.j. Bradley Mortgage Capital Corp}	{37.596435,-122.38447,Burlingame,CA,United States}	{Professional & Other Places,}
+87	Sat Jul 16 22:42:58 +0000 2011	4daf038b8154d1d488728841	{Nice Nails And Spa}	{36.34010213333333,-119.34833345,Visalia,CA,United States}	{Shop & Service,}
+87	Sat Jul 16 19:04:06 +0000 2011	4c38b3b91e06d13aac34783e	{Monet's}	{36.29592086818646,-119.14069119645379,Exeter,CA,United States}	{Nightlife Spot,Food,}
+87	Sat Jul 16 01:04:04 +0000 2011	4ba5d8c2f964a5208b2539e3	{Azul Mexican Grill}	{36.340831123693434,-119.33122158050537,Visalia,CA,United States}	{Food,}
+87	Fri Jul 15 03:28:14 +0000 2011	41044980f964a520700b1fe3	{Hillstone}	{37.805918649667305,-122.40514039993286,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Thu Jul 14 02:35:40 +0000 2011	4ad4eb13f964a520affc20e3	{Burger Bar}	{37.78736916053961,-122.40744709968567,San Francisco,CA,United States}	{Food,}
+87	Thu Jul 14 01:12:40 +0000 2011	43f8404cf964a520c22f1fe3	{Macy's}	{37.78755853482698,-122.40750653872762,San Francisco,CA,United States}	{Shop & Service,}
+87	Tue Jul 12 02:03:37 +0000 2011	4d0836087b30a1cdaca59ecc	{The Metropolitan Party Room}	{37.787091,-122.394025,San Francisco,CA,United States}	{}
+87	Tue Jul 12 02:03:37 +0000 2011	4d0836087b30a1cdaca59ecc	{The Metropolitan Party Room}	{37.787091,-122.394025,San Francisco,CA,United States}	{}
+87	Mon Jul 11 03:00:09 +0000 2011	4c6c0e4b46353704b54905bc	{El Paseo Restaurant}	{37.906252711399574,-122.54643582710237,Mill Valley,CA,United States}	{Food,}
+87	Sun Jul 10 18:57:45 +0000 2011	41ad0980f964a5205c1e1fe3	{Bruno's}	{37.75899257850096,-122.41901083404616,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Sun Jul 10 04:52:58 +0000 2011	4abdb32ff964a5205c8b20e3	{Hotspot}	{37.77623998261781,-122.41789917588105,San Francisco,CA,United States}	{Nightlife Spot,}
+87	Sun Jul 10 03:00:42 +0000 2011	40e0b100f964a520e1091fe3	{Blowfish Sushi to Die For}	{37.75963095,-122.410067,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Sat Jul 09 22:34:29 +0000 2011	4ab3f231f964a5203e6f20e3	{Pure Beauty}	{37.78646479892311,-122.45225005423707,San Francisco,CA,United States}	{Shop & Service,}
+87	Sat Jul 09 22:33:56 +0000 2011	4aa44417f964a520204620e3	{Laurel Village Shopping Center}	{37.78636209216065,-122.45281952478287,San Francisco,CA,United States}	{Shop & Service,}
+87	Sat Jul 09 22:33:33 +0000 2011	4accf414f964a5203aca20e3	{Walgreens}	{37.78638,-122.453382,SAN FRANCISCO,CA,United States}	{Shop & Service,}
+87	Sat Jul 09 21:19:49 +0000 2011	3fd66200f964a520ecec1ee3	{Eats}	{37.78328838215815,-122.46012837648797,San Francisco,CA,United States}	{Food,}
+87	Sat Jul 09 21:15:37 +0000 2011	4b476340f964a5208e3026e3	{Covet}	{37.78335887080183,-122.4593820345528,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+87	Sat Jul 09 21:13:15 +0000 2011	4b476340f964a5208e3026e3	{Covet}	{37.78335887080183,-122.4593820345528,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+87	Sat Jul 09 03:57:15 +0000 2011	4aa46a42f964a520bd4620e3	{Local Kitchen & Wine Merchant}	{37.78690159989067,-122.3941478085928,San Francisco,CA,United States}	{Food,}
+87	Thu Jul 07 23:03:24 +0000 2011	4be0880e4f15c9286f8ccb0b	{Diablo Beauty}	{37.812757,-121.997079,Danville,CA,United States}	{Shop & Service,}
+87	Thu Jul 07 01:03:31 +0000 2011	4aa46a42f964a520bd4620e3	{Local Kitchen & Wine Merchant}	{37.78690159989067,-122.3941478085928,San Francisco,CA,United States}	{Food,}
+87	Tue Jul 05 02:34:24 +0000 2011	4bac2f3af964a520c8e93ae3	{Tommy Bahama's Restaurant And Bar}	{33.71956295285229,-116.38067067003615,Palm Desert,CA,United States}	{Nightlife Spot,Shop & Service,Food,}
+87	Tue Jul 05 02:32:07 +0000 2011	4b33f0cff964a520662225e3	{El Paseo Shopping District}	{33.71975531875811,-116.3827630912265,Palm Desert,CA,United States}	{Outdoors & Recreation,Shop & Service,Clothing Store,}
+87	Tue Jul 05 01:49:27 +0000 2011	4bb932617421a593c59ac240	{Palm Springs Yacht Club}	{33.795481618554014,-116.50030661194332,Palm Springs,CA,United States}	{Travel & Transport,Hotel,}
+87	Tue Jul 05 01:44:19 +0000 2011	4b54e806f964a52084d227e3	{Target}	{33.789582662519535,-116.48149508230743,Cathedral City,CA,United States}	{Shop & Service,}
+87	Tue Jul 05 01:43:29 +0000 2011	4ab454a2f964a520e47020e3	{Le Parker M?ridien Palm Springs}	{33.795360129713295,-116.5002374758768,Palm Springs,CA,United States}	{Nightlife Spot,Travel & Transport,}
+87	Mon Jul 04 02:51:16 +0000 2011	4b77a484f964a5203ea52ee3	{Melvyn's}	{33.81637941484004,-116.54863357543945,Palm Springs,CA,United States}	{Nightlife Spot,Food,}
+87	Sun Jul 03 23:13:17 +0000 2011	4ba6849ff964a520465a39e3	{Design Within Reach}	{33.83438237775375,-116.54658857436642,Palm Springs,CA,United States}	{Shop & Service,}
+87	Sun Jul 03 23:11:13 +0000 2011	4d6eeb167e16a35d540b8df9	{Pawz Palm Springs}	{33.830559490591774,-116.54703210813656,Palm Springs,CA,United States}	{Shop & Service,}
+87	Sun Jul 03 22:10:53 +0000 2011	4c28d54e9fb5d13aad2d9a57	{Interior Illusions}	{33.834357,-116.546869,Palm Springs,CA,United States}	{Shop & Service,}
+87	Sun Jul 03 04:35:41 +0000 2011	4b4e8a16f964a520e3f026e3	{Upper Crust Pizza}	{33.78755234,-116.48136,Cathedral City,CA,United States}	{Food,}
+87	Sun Jul 03 01:46:20 +0000 2011	4b54e806f964a52084d227e3	{Target}	{33.789582662519535,-116.48149508230743,Cathedral City,CA,United States}	{Shop & Service,}
+87	Sat Jul 02 22:49:00 +0000 2011	4ae28521f964a520d68e21e3	{Las Casuelas Terraza}	{33.82074003089456,-116.54658857436642,Palm Springs,CA,United States}	{Nightlife Spot,Food,}
+87	Sat Jul 02 22:01:31 +0000 2011	4b77e196f964a52070ad2ee3	{SHAG The Store}	{33.833332,-116.5469,Palm Springs,CA,United States}	{Shop & Service,Arts & Entertainment,}
+87	Sat Jul 02 22:01:31 +0000 2011	4b77e196f964a52070ad2ee3	{SHAG The Store}	{33.833332,-116.5469,Palm Springs,CA,United States}	{Shop & Service,Arts & Entertainment,}
+87	Sat Jul 02 19:56:59 +0000 2011	4b801fe2f964a5205c5430e3	{Estate Sale Company}	{33.794315457344055,-116.50094,Palm Springs,CA,United States}	{Shop & Service,}
+87	Sat Jul 02 19:54:58 +0000 2011	4c17d55cfe5a76b0f2260115	{Revivals Cathedral City}	{33.78035767547848,-116.46874386182485,Cathedral City,CA,United States}	{Shop & Service,}
+87	Sat Jul 02 04:28:18 +0000 2011	4b9d1eb6f964a5205c9136e3	{VONS}	{33.79231353315405,-116.4945567254388,Palm Springs,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+87	Sat Jul 02 03:58:16 +0000 2011	4b4e8a16f964a520e3f026e3	{Upper Crust Pizza}	{33.78755234,-116.48136,Cathedral City,CA,United States}	{Food,}
+87	Sat Jul 02 02:52:26 +0000 2011	4b773956f964a52068892ee3	{Best Buy}	{33.72666915,-116.4042569,Palm Desert,CA,United States}	{Shop & Service,}
+87	Fri Jul 01 19:07:24 +0000 2011	4b53a993f964a520d5a627e3	{Big Lots}	{33.77907,-116.4574,Cathedral City,CA,United States}	{Shop & Service,}
+87	Tue Jun 28 01:28:39 +0000 2011	4bbe7a6f30c99c7471e55311	{RN74}	{37.79090477434194,-122.39592432975768,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Sun Jun 26 21:23:31 +0000 2011	4b1c59a2f964a5206b0624e3	{Nordstrom}	{37.784045359734506,-122.40756511688232,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+87	Sun Jun 26 21:18:38 +0000 2011	4b00679af964a520cd3d22e3	{Banana Republic}	{37.7843700239667,-122.4063505086517,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+87	Sun Jun 26 21:05:08 +0000 2011	4e04df49d22df322e6e38586	{San Francisco Pride 2011}	{37.779383,-122.417797,San Francisco,CA,United States}	{Nightlife Spot,Outdoors & Recreation,Arts & Entertainment,}
+87	Sun Jun 26 03:04:22 +0000 2011	4a920316f964a520951c20e3	{Saison}	{37.763273,-122.415596,San Francisco,CA,United States}	{Food,}
+87	Sat Jun 25 23:09:03 +0000 2011	4a9c8264f964a5206a3720e3	{Therapeia Massage}	{37.78777033751632,-122.42733959985483,San Francisco,CA,United States}	{Shop & Service,Professional & Other Places,}
+87	Sat Jun 25 16:50:30 +0000 2011	445a2c5ff964a520e2321fe3	{IKEA}	{37.830903,-122.292444,Emeryville,CA,United States}	{Shop & Service,}
+87	Fri Jun 24 23:33:53 +0000 2011	469019cbf964a5209f481fe3	{The Cheesecake Factory}	{37.787352202751634,-122.40740954875946,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Fri Jun 24 23:33:16 +0000 2011	43f8404cf964a520c22f1fe3	{Macy's}	{37.78755853482698,-122.40750653872762,San Francisco,CA,United States}	{Shop & Service,}
+87	Fri Jun 24 23:15:07 +0000 2011	4ace3dd5f964a52056cf20e3	{Saks Fifth Avenue}	{37.788429014565835,-122.40827322006226,San Francisco,CA,United States}	{Shop & Service,}
+87	Fri Jun 24 19:33:27 +0000 2011	4c334a8b3896e21e63bee990	{W.j. Bradley Mortgage Capital Corp}	{37.596435,-122.38447,Burlingame,CA,United States}	{Professional & Other Places,}
+87	Fri Jun 24 03:25:40 +0000 2011	43cc2651f964a520cb2d1fe3	{Denny's}	{37.78417747387677,-122.40490683601921,San Francisco,CA,United States}	{Food,}
+87	Fri Jun 24 02:49:25 +0000 2011	4b1c59a2f964a5206b0624e3	{Nordstrom}	{37.784045359734506,-122.40756511688232,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+87	Thu Jun 23 02:32:02 +0000 2011	4ab146bff964a520d96820e3	{Ironside}	{37.78086556345002,-122.39105880260468,San Francisco,CA,United States}	{Food,}
+87	Thu Jun 23 00:43:21 +0000 2011	49fa306ff964a520d56d1fe3	{Polished Lounge}	{37.78156,-122.396402,San Francisco,CA,United States}	{Shop & Service,}
+87	Wed Jun 22 01:22:59 +0000 2011	4a71e4cff964a520ccd91fe3	{San Francisco-Oakland Bay Bridge}	{37.81534420993673,-122.35495090484619,San Francisco,CA,United States}	{Outdoors & Recreation,}
+87	Wed Jun 22 00:41:32 +0000 2011	455ad6e0f964a520583d1fe3	{Target}	{37.76213166725632,-121.96424961090088,San Ramon,CA,United States}	{Shop & Service,}
+87	Wed Jun 22 00:07:12 +0000 2011	4ac3bbb6f964a5209b9c20e3	{Chase Bank}	{37.7773786807744,-121.97169180633915,San Ramon,CA,United States}	{Shop & Service,}
+87	Wed Jun 22 00:01:26 +0000 2011	4b4e3e11f964a5208ee626e3	{Citibank}	{37.77815556716592,-121.97102535776165,San Ramon,CA,United States}	{Shop & Service,}
+87	Tue Jun 21 23:55:33 +0000 2011	4b7c8591f964a52098982fe3	{PETCO}	{37.78017022120848,-121.97281365229279,San Ramon,CA,United States}	{Shop & Service,}
+87	Tue Jun 21 02:32:39 +0000 2011	41044980f964a520700b1fe3	{Hillstone}	{37.805918649667305,-122.40514039993286,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Sun Jun 19 19:10:17 +0000 2011	451c196df964a520813a1fe3	{Bloomingdale's}	{37.784197986515366,-122.40589141845703,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+87	Sun Jun 19 19:09:21 +0000 2011	43cc2651f964a520cb2d1fe3	{Denny's}	{37.78417747387677,-122.40490683601921,San Francisco,CA,United States}	{Food,}
+87	Sun Jun 19 02:16:27 +0000 2011	4bc20b5b461576b07db77c32	{Horatio's}	{37.69813784319518,-122.18908046366269,San Leandro,CA,United States}	{Food,}
+87	Sat Jun 18 21:24:48 +0000 2011	4a8637d3f964a520cf0020e3	{Sonoma Golf Club}	{38.31375661672952,-122.50087608178264,Sonoma,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+87	Sat Jun 18 21:05:04 +0000 2011	486a77d0f964a520f5501fe3	{Fairmont Sonoma Mission Inn & Spa}	{38.3128391250428,-122.48221768493107,Sonoma,CA,United States}	{Travel & Transport,Food,Hotel,}
+87	Sat Jun 18 01:58:54 +0000 2011	4abee430f964a520709020e3	{Beach Blanket Babylon}	{37.799453487928524,-122.41029976466993,San Francisco,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+87	Sat Jun 18 00:36:10 +0000 2011	4a46a5d9f964a5203da91fe3	{? Tutto Qua!}	{37.7978394976338,-122.40632838355022,San Francisco,CA,United States}	{Food,}
+87	Fri Jun 17 17:41:11 +0000 2011	4ad91224f964a520c81721e3	{The Westin San Francisco Airport}	{37.60359025741119,-122.37618327140808,Millbrae,CA,United States}	{Travel & Transport,}
+87	Thu Jun 16 02:37:05 +0000 2011	4aa46a42f964a520bd4620e3	{Local Kitchen & Wine Merchant}	{37.78690159989067,-122.3941478085928,San Francisco,CA,United States}	{Food,}
+87	Tue Jun 14 02:09:55 +0000 2011	4d0836087b30a1cdaca59ecc	{The Metropolitan Party Room}	{37.787091,-122.394025,San Francisco,CA,United States}	{}
+87	Sun Jun 12 23:56:08 +0000 2011	4b09762ef964a520a41723e3	{Tan Bella}	{37.77687496260611,-122.39327929412565,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun Jun 12 21:52:16 +0000 2011	469019cbf964a5209f481fe3	{The Cheesecake Factory}	{37.787352202751634,-122.40740954875946,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Sun Jun 12 20:14:55 +0000 2011	43f8404cf964a520c22f1fe3	{Macy's}	{37.78755853482698,-122.40750653872762,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun Jun 12 19:35:49 +0000 2011	49f3388bf964a520706a1fe3	{Goodwill Industries}	{37.7737,-122.418381,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun Jun 12 05:40:32 +0000 2011	4a2975e8f964a52094951fe3	{Astaria Restaurant & Bar}	{37.5636029477234,-122.32497064266734,San Mateo,CA,United States}	{Food,}
+87	Sat Jun 11 19:47:21 +0000 2011	44b2a62df964a52042351fe3	{One Market Restaurant}	{37.79433000382966,-122.39476025104523,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Sat Jun 11 18:48:14 +0000 2011	43067280f964a52023271fe3	{Ferry Building}	{37.795427908882,-122.39362835884094,San Francisco,CA,United States}	{Shop & Service,Government Building,Food & Drink Shop,Professional & Other Places,}
+87	Sat Jun 11 01:39:59 +0000 2011	4b5eb347f964a520509629e3	{The Englander}	{37.72199344553191,-122.15321391820908,San Leandro,CA,United States}	{Nightlife Spot,Food,}
+87	Fri Jun 10 18:28:43 +0000 2011	4c334a8b3896e21e63bee990	{W.j. Bradley Mortgage Capital Corp}	{37.596435,-122.38447,Burlingame,CA,United States}	{Professional & Other Places,}
+87	Mon Jun 06 23:02:57 +0000 2011	4c334a8b3896e21e63bee990	{W.j. Bradley Mortgage Capital Corp}	{37.596435,-122.38447,Burlingame,CA,United States}	{Professional & Other Places,}
+87	Sun Jun 05 22:54:20 +0000 2011	49d031f7f964a5200c5b1fe3	{Safeway}	{37.77669346324875,-122.39406287670135,San Francisco,CA,United States}	{Shop & Service,Food & Drink Shop,}
+87	Sun Jun 05 21:49:25 +0000 2011	4b09762ef964a520a41723e3	{Tan Bella}	{37.77687496260611,-122.39327929412565,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun Jun 05 20:13:46 +0000 2011	4a9c8264f964a5206a3720e3	{Therapeia Massage}	{37.78777033751632,-122.42733959985483,San Francisco,CA,United States}	{Shop & Service,Professional & Other Places,}
+87	Sat Jun 04 22:32:40 +0000 2011	4bb1c70ff964a52094a23ce3	{Travel Centers Of America}	{37.109992985076644,-121.01494983532348,Santa Nella,CA,United States}	{Travel & Transport,Shop & Service,Food,}
+87	Sat Jun 04 21:07:02 +0000 2011	4b0cc5fbf964a520be4123e3	{Taco Bell}	{35.9893376933518,-119.95919553129112,Kettleman City,CA,United States}	{Food,}
+87	Sat Jun 04 14:50:16 +0000 2011	4bc3d46adce4eee1f9c4719d	{Desert Vacation Villas}	{33.84542188351244,-116.54832238333191,Palm Springs,CA,United States}	{Travel & Transport,Hotel,}
+87	Sat Jun 04 14:50:15 +0000 2011	4bc3d46adce4eee1f9c4719d	{Desert Vacation Villas}	{33.84542188351244,-116.54832238333191,Palm Springs,CA,United States}	{Travel & Transport,Hotel,}
+87	Sat Jun 04 03:04:22 +0000 2011	4b77a484f964a5203ea52ee3	{Melvyn's}	{33.81637941484004,-116.54863357543945,Palm Springs,CA,United States}	{Nightlife Spot,Food,}
+87	Fri Jun 03 03:15:16 +0000 2011	4b397a51f964a5200b5d25e3	{Yogurt On Tap}	{33.8231974,-116.54568,Palm Springs,CA,United States}	{Food,}
+87	Fri Jun 03 02:36:47 +0000 2011	4b874bc0f964a52087ba31e3	{Blue Coyote Grill}	{33.829356,-116.546991,Palm Springs,CA,United States}	{Food,}
+87	Thu Jun 02 18:48:29 +0000 2011	4bd1c8b9046076b0e8717271	{Indian Canyons Golf Resort}	{33.7835052806375,-116.5342960127205,Palm Springs,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+87	Thu Jun 02 18:46:17 +0000 2011	4bd1c8b9046076b0e8717271	{Indian Canyons Golf Resort}	{33.7835052806375,-116.5342960127205,Palm Springs,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+87	Thu Jun 02 17:04:08 +0000 2011	4ab454a2f964a520e47020e3	{Le Parker M?ridien Palm Springs}	{33.795360129713295,-116.5002374758768,Palm Springs,CA,United States}	{Nightlife Spot,Travel & Transport,}
+87	Thu Jun 02 02:02:25 +0000 2011	4bbbea3e3de8c9b667789aad	{The Cliffhouse}	{33.71677677271494,-116.2989467382431,La Quinta,CA,United States}	{Food,}
+87	Wed Jun 01 22:25:28 +0000 2011	4bc3d46adce4eee1f9c4719d	{Desert Vacation Villas}	{33.84542188351244,-116.54832238333191,Palm Springs,CA,United States}	{Travel & Transport,Hotel,}
+87	Wed Jun 01 21:24:07 +0000 2011	4c2297d299282d7f796667b0	{Georges Bar & Grill}	{33.81568906,-116.459746,Cathedral City,CA,United States}	{Nightlife Spot,}
+87	Wed Jun 01 01:47:56 +0000 2011	4c7aff412d3ba143df2f93d0	{Acqua Pazza}	{33.740270033292056,-116.410764022501,Rancho Mirage,CA,United States}	{Nightlife Spot,Food,}
+87	Tue May 31 17:00:16 +0000 2011	4b521ecbf964a520876927e3	{Tahquitz Creek Golf Course}	{33.800952548056884,-116.48489452180993,Palm Springs,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,Athletics & Sports,}
+87	Tue May 31 14:03:44 +0000 2011	4bc3d46adce4eee1f9c4719d	{Desert Vacation Villas}	{33.84542188351244,-116.54832238333191,Palm Springs,CA,United States}	{Travel & Transport,Hotel,}
+87	Tue May 31 02:18:09 +0000 2011	4af74654f964a520dd0722e3	{Stein Mart}	{33.8045497019749,-116.54640424839222,Palm Springs,CA,United States}	{Shop & Service,Clothing Store,}
+87	Tue May 31 01:10:53 +0000 2011	4bb6af1f1344b713a2f29d04	{Trio Restaurant}	{33.833280454926054,-116.5469053842895,Palm Springs,CA,United States}	{Food,}
+87	Mon May 30 21:26:09 +0000 2011	4bfeb59cca1920a1edb5eb81	{Golfsmith}	{33.80526483333333,-116.39129519462585,Palm Desert,CA,United States}	{Outdoors & Recreation,Shop & Service,Athletics & Sports,}
+87	Mon May 30 20:56:34 +0000 2011	4db7443afa8c39f898becf37	{Lumpy's | Golf Equipment}	{33.80075230007938,-116.39327103268569,Rancho Mirage,CA,United States}	{Shop & Service,}
+87	Mon May 30 03:03:48 +0000 2011	4ae8e9c0f964a52048b321e3	{Spa Resort Casino}	{33.825210841542386,-116.54356445768983,Palm Springs,CA,United States}	{Travel & Transport,Shop & Service,Arts & Entertainment,}
+87	Mon May 30 01:29:23 +0000 2011	4b4e8a16f964a520e3f026e3	{Upper Crust Pizza}	{33.78755234,-116.48136,Cathedral City,CA,United States}	{Food,}
+87	Sun May 29 21:56:06 +0000 2011	4c27925a3703d13a2233a736	{Guilty Tans}	{33.815514283333336,-116.46325211666667,Cathedral City,CA,United States}	{}
+87	Sun May 29 21:56:06 +0000 2011	4c27925a3703d13a2233a736	{Guilty Tans}	{33.815514283333336,-116.46325211666667,Cathedral City,CA,United States}	{}
+87	Sun May 29 19:20:37 +0000 2011	4c23d510a852c928d324e26c	{Dolce & Gabbana}	{33.92785249129603,-116.81245472644417,Cabazon,CA,United States}	{Shop & Service,}
+87	Sun May 29 19:19:59 +0000 2011	4da79c986a2364c7a342a020	{Tory Burch}	{33.92834743827241,-116.81331197432287,Cabazon,CA,United States}	{Shop & Service,Clothing Store,}
+87	Sun May 29 18:14:12 +0000 2011	4c5477cb728920a11f36cf82	{Nike Factory Store}	{33.926859,-116.81307843,Cabazon,CA,United States}	{Shop & Service,Clothing Store,}
+87	Sun May 29 17:55:56 +0000 2011	4c02fc170d0e0f47bffb019a	{Lacoste Outlet}	{33.9269279740387,-116.81305646896362,Cabazon,CA,United States}	{Shop & Service,Clothing Store,}
+87	Sun May 29 17:52:20 +0000 2011	4da1197e22a5f04d5874f554	{St. John Outlet}	{33.9277521,-116.814534,Cabazon,CA,United States}	{Shop & Service,Clothing Store,}
+87	Sun May 29 17:50:15 +0000 2011	4ab03815f964a520826620e3	{Desert Hills Premium Outlets}	{33.93107632263448,-116.81895732879639,Cabazon,CA,United States}	{Shop & Service,Arts & Entertainment,}
+87	Sun May 29 02:17:37 +0000 2011	4b54b0c9f964a52046c727e3	{Mary Pickford Theatre}	{33.780880918994235,-116.46354061074557,Cathedral City,CA,United States}	{Arts & Entertainment,Movie Theater,}
+87	Sun May 29 01:14:55 +0000 2011	4d7053a1419da35d117c04d8	{Piazza Trilussa}	{33.77998252719867,-116.46350603726155,Cathedral City,CA,United States}	{Food,}
+87	Sun May 29 00:19:08 +0000 2011	4c27925a3703d13a2233a736	{Guilty Tans}	{33.815514283333336,-116.46325211666667,Cathedral City,CA,United States}	{}
+87	Sat May 28 23:36:17 +0000 2011	4ba013a9f964a520f75737e3	{Desert 100% Hand Car Wash}	{33.813085183333335,-116.545332,Palm Springs,CA,United States}	{Shop & Service,}
+87	Sat May 28 22:51:16 +0000 2011	4b77e196f964a52070ad2ee3	{SHAG The Store}	{33.833332,-116.5469,Palm Springs,CA,United States}	{Shop & Service,Arts & Entertainment,}
+87	Sat May 28 21:26:35 +0000 2011	4b397a51f964a5200b5d25e3	{Yogurt On Tap}	{33.8231974,-116.54568,Palm Springs,CA,United States}	{Food,}
+87	Sat May 28 20:29:03 +0000 2011	4c321c8aed37a593044d6b03	{Lees Nails}	{33.82505625433423,-116.54578790734344,Palm Springs,CA,United States}	{Shop & Service,}
+87	Sat May 28 18:38:04 +0000 2011	4ab454a2f964a520e47020e3	{Le Parker M?ridien Palm Springs}	{33.795360129713295,-116.5002374758768,Palm Springs,CA,United States}	{Nightlife Spot,Travel & Transport,}
+87	Sat May 28 16:00:21 +0000 2011	4bc3d46adce4eee1f9c4719d	{Desert Vacation Villas}	{33.84542188351244,-116.54832238333191,Palm Springs,CA,United States}	{Travel & Transport,Hotel,}
+87	Sat May 28 04:03:49 +0000 2011	4b1023e4f964a520db6923e3	{Billy Reed's Restaurant Bakery & Bar}	{33.845898,-116.546487,Palm Springs,CA,United States}	{Food,}
+87	Wed May 25 18:26:30 +0000 2011	4c334a8b3896e21e63bee990	{W.j. Bradley Mortgage Capital Corp}	{37.596435,-122.38447,Burlingame,CA,United States}	{Professional & Other Places,}
+87	Wed May 25 03:21:50 +0000 2011	49c52a15f964a520e4561fe3	{Ponzu}	{37.7860363,-122.411403,San Francisco,CA,United States}	{Nightlife Spot,}
+87	Mon May 23 02:29:35 +0000 2011	49dba3b4f964a520e25e1fe3	{The Tipsy Pig}	{37.80020932826012,-122.44014322757721,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Sun May 22 22:49:02 +0000 2011	4a3fbb6bf964a520dca31fe3	{The Home Depot}	{37.67557495072926,-122.46710978602646,Colma,CA,United States}	{Shop & Service,}
+87	Sun May 22 21:52:37 +0000 2011	49f50f7af964a5208c6b1fe3	{Target}	{37.67363920688155,-122.46474981307983,Colma,CA,United States}	{Shop & Service,}
+87	Sun May 22 21:23:59 +0000 2011	4b75b7edf964a5207a1f2ee3	{Round Table Pizza}	{37.67419117997065,-122.465500831604,Colma,CA,United States}	{Food,}
+87	Sun May 22 20:13:41 +0000 2011	43f8404cf964a520c22f1fe3	{Macy's}	{37.78755853482698,-122.40750653872762,San Francisco,CA,United States}	{Shop & Service,}
+87	Sat May 21 01:53:21 +0000 2011	4bd2177d046076b055357371	{AT&T Park}	{37.77833858778822,-122.38940119743347,San Francisco,CA,United States}	{Stadium,Arts & Entertainment,}
+87	Tue May 17 23:44:24 +0000 2011	4b3d0ce5f964a520d28c25e3	{Walgreens}	{37.790056537785006,-122.39743371567332,SAN FRANCISCO,CA,United States}	{Shop & Service,}
+87	Tue May 17 21:16:20 +0000 2011	4b4d0b54f964a520f9c826e3	{One Medical Group}	{37.79474542928178,-122.39877820014954,San Francisco,CA,United States}	{Medical Center,Professional & Other Places,}
+87	Tue May 17 02:18:24 +0000 2011	4c334a8b3896e21e63bee990	{W.j. Bradley Mortgage Capital Corp}	{37.596435,-122.38447,Burlingame,CA,United States}	{Professional & Other Places,}
+87	Sun May 15 23:10:45 +0000 2011	4a9c8264f964a5206a3720e3	{Therapeia Massage}	{37.78777033751632,-122.42733959985483,San Francisco,CA,United States}	{Shop & Service,Professional & Other Places,}
+87	Sun May 15 23:09:49 +0000 2011	4b0b1dbff964a520292d23e3	{Baker & Banker}	{37.78796853608995,-122.42705203064382,San Francisco,CA,United States}	{Food,}
+87	Sun May 15 01:10:55 +0000 2011	4aab2cf9f964a520305920e3	{Cafe La Haye}	{38.291721885114235,-122.4557718758074,Sonoma,CA,United States}	{Food,}
+87	Sun May 15 00:08:04 +0000 2011	4bc37b90dce4eee140a0719d	{Sonoma Mission Inn & Spa}	{38.313577,-122.4949300289154,Sonoma,CA,United States}	{Shop & Service,}
+87	Sun May 15 00:08:04 +0000 2011	4bc37b90dce4eee140a0719d	{Sonoma Mission Inn & Spa}	{38.313577,-122.4949300289154,Sonoma,CA,United States}	{Shop & Service,}
+87	Sun May 15 00:02:17 +0000 2011	4a8637d3f964a520cf0020e3	{Sonoma Golf Club}	{38.31375661672952,-122.50087608178264,Sonoma,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+87	Sat May 14 22:33:16 +0000 2011	49f4f937f964a5207f6b1fe3	{Cavallo Point}	{37.837174338616975,-122.47863292694092,Sausalito,CA,United States}	{Travel & Transport,Food,Professional & Other Places,}
+87	Fri May 13 19:50:16 +0000 2011	4a7ddda1f964a520f9ef1fe3	{Tastebuds}	{37.629296,-122.415851,San Bruno,CA,United States}	{Food,}
+87	Thu May 12 02:42:41 +0000 2011	4dc0be088877c00d6ac94f90	{Hugh Jackman @ The Curran}	{37.787023,-122.410462,San Francisco,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+87	Thu May 12 01:31:43 +0000 2011	4550e681f964a520e43c1fe3	{Colibr? Mexican Bistro}	{37.78709639552427,-122.41044910337239,San Francisco,CA,United States}	{Food,}
+87	Mon May 09 00:50:57 +0000 2011	4b998d34f964a520f88235e3	{Blue Agave Club}	{37.66196966171265,-121.87541487,Pleasanton,CA,United States}	{Food,}
+87	Sun May 08 22:37:24 +0000 2011	4493522af964a5207c341fe3	{Oakland International Airport (OAK)}	{37.71226740592608,-122.21261143684387,Oakland,CA,United States}	{Travel & Transport,}
+87	Sun May 08 19:48:36 +0000 2011	451cfbd2f964a520833a1fe3	{John Wayne Airport (SNA)}	{33.67956837093503,-117.86175727844238,Santa Ana,CA,United States}	{Travel & Transport,}
+87	Sun May 08 18:56:39 +0000 2011	4c671b858e9120a131f4d964	{Hotel Huntington Beach}	{33.734211162838015,-117.99521195015802,Huntington Beach,CA,United States}	{Travel & Transport,}
+87	Sun May 08 05:45:21 +0000 2011	4bad85d8f964a5208e583be3	{St. Regis Monarch Beach}	{33.482274118865725,-117.71626402363395,Dana Point,CA,United States}	{Travel & Transport,Outdoors & Recreation,Hotel,Athletics & Sports,}
+87	Sat May 07 23:54:34 +0000 2011	4bd33f7f77b29c74a5549082	{Sandy's HB}	{33.656448,-118.002245,Huntington Beach,CA,United States}	{Food,}
+87	Sat May 07 23:35:03 +0000 2011	4c2fe00416adc928cf60be9c	{Havianas Store}	{33.656745319658185,-118.00148963928223,Huntington Beach,CA,United States}	{Shop & Service,Clothing Store,}
+87	Sat May 07 02:11:26 +0000 2011	4bb5566446d4a593aaf3c4c0	{Las Barcas}	{33.6570339553624,-117.98722837211413,Huntington Beach,CA,United States}	{Food,}
+87	Sat May 07 00:32:08 +0000 2011	4b00ddd3f964a5205d4122e3	{Hyatt Regency Huntington Beach Resort and Spa}	{33.65120829920497,-117.99041748046875,Huntington Beach,CA,United States}	{Travel & Transport,Hotel,}
+87	Fri May 06 23:18:05 +0000 2011	4bdb7fa7c79cc928f72e83e9	{Hertz Rent a Car}	{33.67874698902492,-117.860426902771,Santa Ana,CA,United States}	{Travel & Transport,}
+87	Fri May 06 22:18:59 +0000 2011	451cfbd2f964a520833a1fe3	{John Wayne Airport (SNA)}	{33.67956837093503,-117.86175727844238,Santa Ana,CA,United States}	{Travel & Transport,}
+87	Fri May 06 20:33:18 +0000 2011	4493522af964a5207c341fe3	{Oakland International Airport (OAK)}	{37.71226740592608,-122.21261143684387,Oakland,CA,United States}	{Travel & Transport,}
+87	Thu May 05 02:14:17 +0000 2011	4b5eb347f964a520509629e3	{The Englander}	{37.72199344553191,-122.15321391820908,San Leandro,CA,United States}	{Nightlife Spot,Food,}
+87	Wed May 04 03:11:12 +0000 2011	4aa46a42f964a520bd4620e3	{Local Kitchen & Wine Merchant}	{37.78690159989067,-122.3941478085928,San Francisco,CA,United States}	{Food,}
+87	Mon May 02 00:18:27 +0000 2011	4b3be713f964a520fd7d25e3	{Cole Haan}	{37.788717,-122.406971,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+87	Mon May 02 00:04:07 +0000 2011	4aa44485f964a520244620e3	{Ilori}	{37.78857464855019,-122.40606288196904,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun May 01 23:24:27 +0000 2011	4ace3dd5f964a52056cf20e3	{Saks Fifth Avenue}	{37.788429014565835,-122.40827322006226,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun May 01 22:01:35 +0000 2011	43f8404cf964a520c22f1fe3	{Macy's}	{37.78755853482698,-122.40750653872762,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun May 01 21:50:10 +0000 2011	451c196df964a520813a1fe3	{Bloomingdale's}	{37.784197986515366,-122.40589141845703,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+87	Sun May 01 20:04:39 +0000 2011	49e6cf47f964a52071641fe3	{Straits}	{37.78452955922038,-122.40648325916295,San Francisco,CA,United States}	{Food,}
+87	Sun May 01 17:41:16 +0000 2011	49fa306ff964a520d56d1fe3	{Polished Lounge}	{37.78156,-122.396402,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun May 01 02:40:46 +0000 2011	4ae269baf964a520248e21e3	{Nob Hill Masonic Auditorium}	{37.791153821389,-122.41299335976989,San Francisco,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+87	Sun May 01 01:35:03 +0000 2011	3fd66200f964a52031f11ee3	{Tonga Room & Hurricane Bar}	{37.792261319862405,-122.40963578224182,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Sat Apr 30 20:25:06 +0000 2011	49f4f937f964a5207f6b1fe3	{Cavallo Point}	{37.837174338616975,-122.47863292694092,Sausalito,CA,United States}	{Travel & Transport,Food,Professional & Other Places,}
+87	Sat Apr 30 18:45:38 +0000 2011	4b228852f964a5207c4824e3	{Yountville Coffee Caboose}	{38.40176300220887,-122.36146017625575,Yountville,CA,United States}	{Food,}
+87	Sat Apr 30 18:43:07 +0000 2011	453f5b78f964a520333c1fe3	{Bouchon Bakery}	{38.40248718545806,-122.36198902130127,Yountville,CA,United States}	{Food,}
+87	Sat Apr 30 17:31:02 +0000 2011	4aa3591ff964a520e74320e3	{Villagio Inn & Spa}	{38.399782930836885,-122.36022616910024,Yountville,CA,United States}	{Travel & Transport,Shop & Service,}
+87	Sat Apr 30 06:46:00 +0000 2011	4aa3591ff964a520e74320e3	{Villagio Inn & Spa}	{38.399782930836885,-122.36022616910024,Yountville,CA,United States}	{Travel & Transport,Shop & Service,}
+87	Sat Apr 30 03:49:37 +0000 2011	49fde735f964a520416f1fe3	{Bouchon}	{38.40254604023941,-122.36198633909225,Yountville,CA,United States}	{Food,}
+87	Fri Apr 29 22:46:28 +0000 2011	4b538d02f964a520cca127e3	{Stephen & Walker}	{38.609942,-122.870607,Healdsburg,CA,United States}	{Food,}
+87	Fri Apr 29 21:51:22 +0000 2011	4a2adb45f964a5205c961fe3	{Healdsburg Bar & Grill}	{38.610117526212576,-122.87066042492863,Healdsburg,CA,United States}	{Food,}
+87	Fri Apr 29 21:02:30 +0000 2011	4a7e966ef964a52006f21fe3	{Madrona Manor}	{38.60406035026832,-122.88675785064697,Healdsburg,CA,United States}	{Travel & Transport,Hotel,}
+87	Fri Apr 29 19:58:27 +0000 2011	4bc37b90dce4eee140a0719d	{Sonoma Mission Inn & Spa}	{38.313577,-122.4949300289154,Sonoma,CA,United States}	{Shop & Service,}
+87	Fri Apr 29 17:02:48 +0000 2011	4ba81bebf964a52041cd39e3	{The Lodge at Sonoma Renaissance Resort & Spa}	{38.27727437441157,-122.46121194493094,Sonoma,CA,United States}	{Travel & Transport,Shop & Service,Hotel,}
+87	Fri Apr 29 02:42:32 +0000 2011	4a985408f964a520842b20e3	{Bardessono}	{38.40313234684563,-122.36020403431108,Yountville,CA,United States}	{Nightlife Spot,Travel & Transport,Hotel,}
+87	Fri Apr 29 00:18:39 +0000 2011	4b1e9afcf964a520731c24e3	{Pacific Blues}	{38.40198576450348,-122.361669,Yountville,CA,United States}	{Food,}
+87	Thu Apr 28 23:15:20 +0000 2011	4aa3591ff964a520e74320e3	{Villagio Inn & Spa}	{38.399782930836885,-122.36022616910024,Yountville,CA,United States}	{Travel & Transport,Shop & Service,}
+87	Thu Apr 28 02:13:37 +0000 2011	4aa46a42f964a520bd4620e3	{Local Kitchen & Wine Merchant}	{37.78690159989067,-122.3941478085928,San Francisco,CA,United States}	{Food,}
+87	Wed Apr 27 01:59:02 +0000 2011	46d715faf964a5206c4a1fe3	{Olive Garden}	{37.727382106182766,-122.47616529464722,San Francisco,CA,United States}	{Food,}
+87	Wed Apr 27 00:41:32 +0000 2011	4b9ef2c8f964a520410c37e3	{Art of Reflexology  ??}	{37.728267,-122.47707,San Francisco,CA,United States}	{Shop & Service,}
+87	Wed Apr 27 00:40:47 +0000 2011	435c2400f964a52008291fe3	{Stonestown Galleria}	{37.727845937944885,-122.47692242546219,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun Apr 24 18:21:43 +0000 2011	4c09054ca1b32d7fb1e296f0	{Prospect}	{37.78999904153704,-122.39122691617881,San Francisco,CA,United States}	{Food,}
+87	Sun Apr 24 02:04:29 +0000 2011	4a7104cbf964a52000d91fe3	{Target}	{37.63618886357397,-122.41657733917236,San Bruno,CA,United States}	{Shop & Service,Clothing Store,}
+87	Sun Apr 24 01:55:59 +0000 2011	4b7c76e9f964a52023952fe3	{Petco}	{37.636634904177356,-122.4192763029121,San Bruno,CA,United States}	{Shop & Service,}
+87	Sun Apr 24 00:26:49 +0000 2011	4c36476d93db0f47f6cc1d92	{Red Lobster}	{37.63878985931543,-122.42179269320233,San Bruno,CA,United States}	{Food,}
+87	Sun Apr 24 00:01:11 +0000 2011	4b09a3bdf964a520d11a23e3	{Cups and Cakes}	{37.77192898,-122.40933,San Francisco,CA,United States}	{Food,}
+87	Sat Apr 23 02:47:48 +0000 2011	4a31abd6f964a5200f9a1fe3	{Martin's West}	{37.485994,-122.2262047,Redwood City,CA,United States}	{Food,}
+87	Fri Apr 22 18:29:52 +0000 2011	4c237de69085d13aa1f287cc	{76}	{37.78609185,-122.393314,San Francisco,CA,United States}	{Shop & Service,}
+87	Fri Apr 22 05:40:39 +0000 2011	4b00cb8ef964a520274122e3	{Frances}	{37.76275295560687,-122.43226289749146,San Francisco,CA,United States}	{Food,}
+87	Tue Apr 19 18:18:43 +0000 2011	4c334a8b3896e21e63bee990	{W.j. Bradley Mortgage Capital Corp}	{37.596435,-122.38447,Burlingame,CA,United States}	{Professional & Other Places,}
+87	Mon Apr 18 20:18:26 +0000 2011	4cfd5260feec6dcb526d5136	{Emily Gentry DDS}	{37.79132087304793,-122.40174285579764,San Francisco,CA,United States}	{Medical Center,Professional & Other Places,}
+87	Mon Apr 18 17:57:01 +0000 2011	45302223f964a5205e3b1fe3	{Java on Ocean Coffee House}	{37.72485136985779,-122.460091,San Francisco,CA,United States}	{Food,}
+87	Mon Apr 18 01:54:01 +0000 2011	4b1aee3ff964a520e2f423e3	{Tommy T's Comedy & Steak House}	{37.69811125994499,-121.90534923673601,Pleasanton,CA,United States}	{Arts & Entertainment,}
+87	Sun Apr 17 22:12:59 +0000 2011	4b0b1dbff964a520292d23e3	{Baker & Banker}	{37.78796853608995,-122.42705203064382,San Francisco,CA,United States}	{Food,}
+87	Sun Apr 17 20:21:13 +0000 2011	4a9c8264f964a5206a3720e3	{Therapeia Massage}	{37.78777033751632,-122.42733959985483,San Francisco,CA,United States}	{Shop & Service,Professional & Other Places,}
+87	Sat Apr 16 16:55:39 +0000 2011	4d54e1c1b4deb1f7ae5ffe79	{The Metropolitan-North}	{37.78725740262541,-122.39388227626786,San Francisco,CA,United States}	{Professional & Other Places,Residence,}
+87	Sat Apr 16 16:53:52 +0000 2011	4a2d819bf964a520b9971fe3	{San Francisco Fish Company}	{37.79515224,-122.393413,San Francisco,CA,United States}	{Food,}
+87	Sat Apr 16 16:12:54 +0000 2011	4a9190adf964a520b61a20e3	{Acme Bread Company}	{37.79586028399987,-122.39345133304596,San Francisco,CA,United States}	{Food,}
+87	Sat Apr 16 15:27:44 +0000 2011	49d68c61f964a520e65c1fe3	{Blue Bottle Coffee}	{37.79590475625579,-122.39393759555746,San Francisco,CA,United States}	{Food,}
+87	Sat Apr 16 15:25:23 +0000 2011	43067280f964a52023271fe3	{Ferry Building}	{37.795427908882,-122.39362835884094,San Francisco,CA,United States}	{Shop & Service,Government Building,Food & Drink Shop,Professional & Other Places,}
+87	Fri Apr 15 07:38:40 +0000 2011	3fd66200f964a52044ed1ee3	{Vesuvio Cafe}	{37.79763596510826,-122.4063671024748,San Francisco,CA,United States}	{Nightlife Spot,}
+87	Fri Apr 15 07:00:45 +0000 2011	3fd66200f964a52042ed1ee3	{Tosca Cafe}	{37.797513181613,-122.40601863164032,San Francisco,CA,United States}	{Nightlife Spot,}
+87	Fri Apr 15 05:51:28 +0000 2011	4283ee00f964a5209b221fe3	{North Beach Restaurant}	{37.799736,-122.409108,San Francisco,CA,United States}	{Food,}
+87	Thu Apr 14 22:52:20 +0000 2011	4ac8f480f964a52091bd20e3	{neva's beauty}	{37.799073,-122.4415521,San Francisco,CA,United States}	{Shop & Service,}
+87	Wed Apr 13 00:33:09 +0000 2011	4ab14069f964a520bb6820e3	{Cocoon Urban Day Spa}	{37.786885132833085,-122.39410355325182,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+87	Mon Apr 11 21:24:22 +0000 2011	4ab9badcf964a5203a8020e3	{Safeway}	{37.60356636722332,-122.39472865821823,Millbrae,CA,United States}	{Shop & Service,Food & Drink Shop,}
+87	Mon Apr 11 03:44:22 +0000 2011	40c3b000f964a520e7001fe3	{The Fillmore}	{37.78395985760533,-122.43303551986902,San Francisco,CA,United States}	{Music Venue,Arts & Entertainment,}
+87	Sun Apr 10 20:42:20 +0000 2011	4a2d8912f964a520ca971fe3	{Cowgirl Creamery's Artisan Cheese Shop}	{37.795714,-122.393626,San Francisco,CA,United States}	{Shop & Service,Food & Drink Shop,}
+87	Sun Apr 10 20:41:29 +0000 2011	4a9190adf964a520b61a20e3	{Acme Bread Company}	{37.79586028399987,-122.39345133304596,San Francisco,CA,United States}	{Food,}
+87	Sun Apr 10 20:40:31 +0000 2011	43067280f964a52023271fe3	{Ferry Building}	{37.795427908882,-122.39362835884094,San Francisco,CA,United States}	{Shop & Service,Government Building,Food & Drink Shop,Professional & Other Places,}
+87	Sat Apr 09 02:42:37 +0000 2011	4cae95f4c5e6a1cd7d63c6f6	{Bourbon Steak}	{37.787555695950466,-122.4081015586853,San Francisco,CA,United States}	{Food,}
+87	Thu Apr 07 23:17:32 +0000 2011	4b08613df964a520830a23e3	{Shell}	{37.395529,-122.028368069,Sunnyvale,CA,United States}	{Shop & Service,}
+87	Thu Apr 07 19:57:53 +0000 2011	43598100f964a520e7281fe3	{Straits}	{37.32180605556545,-121.94794707816047,San Jose,CA,United States}	{Nightlife Spot,Food,}
+87	Thu Apr 07 19:09:58 +0000 2011	4a6be20cf964a5202ed01fe3	{Paper Source}	{37.322401914721596,-121.94762527942657,San Jose,CA,United States}	{Shop & Service,}
+87	Thu Apr 07 18:54:11 +0000 2011	4a555f5ef964a52020b41fe3	{Atelier Aveda Salonspa & Studio}	{37.319588,-121.947935,San Jose,CA,United States}	{Shop & Service,}
+87	Thu Apr 07 18:46:25 +0000 2011	4b9036c1f964a520b37c33e3	{Cole Haan}	{37.320122,-121.947914,San Jose,CA,United States}	{Shop & Service,Clothing Store,}
+87	Thu Apr 07 18:44:51 +0000 2011	4283ee00f964a5209c221fe3	{Santana Row}	{37.320482198777405,-121.94785594940186,San Jose,CA,United States}	{Outdoors & Recreation,Shop & Service,}
+87	Wed Apr 06 01:42:31 +0000 2011	4a011045f964a520d5701fe3	{5A5 Steak Lounge}	{37.79672926555357,-122.40023732185364,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Tue Apr 05 16:19:52 +0000 2011	4c334a8b3896e21e63bee990	{W.j. Bradley Mortgage Capital Corp}	{37.596435,-122.38447,Burlingame,CA,United States}	{Professional & Other Places,}
+87	Sun Apr 03 18:50:22 +0000 2011	4a9c8264f964a5206a3720e3	{Therapeia Massage}	{37.78777033751632,-122.42733959985483,San Francisco,CA,United States}	{Shop & Service,Professional & Other Places,}
+87	Sun Apr 03 05:43:39 +0000 2011	3fd66200f964a5203bee1ee3	{Rosewood}	{37.797685,-122.409105,San Francisco,CA,United States}	{Nightlife Spot,}
+87	Sun Apr 03 03:13:04 +0000 2011	4744d11ff964a520854c1fe3	{SPQR}	{37.78737017042157,-122.43370463191788,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Sat Apr 02 22:34:08 +0000 2011	49fa306ff964a520d56d1fe3	{Polished Lounge}	{37.78156,-122.396402,San Francisco,CA,United States}	{Shop & Service,}
+87	Sat Apr 02 21:29:56 +0000 2011	4ce6c659cd2c6a314f9b452f	{The Art of Shaving}	{37.787619528548845,-122.40799881561833,San Francisco,CA,United States}	{Shop & Service,Professional & Other Places,}
+87	Sat Apr 02 19:42:58 +0000 2011	4ad4eb13f964a520affc20e3	{Burger Bar}	{37.78736916053961,-122.40744709968567,San Francisco,CA,United States}	{Food,}
+87	Sat Apr 02 19:11:34 +0000 2011	4ac2ac13f964a520449a20e3	{Louis Vuitton}	{37.787424273323644,-122.406787276268,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+87	Sat Apr 02 19:07:11 +0000 2011	40bbc700f964a520b1001fe3	{Union Square}	{37.787750172585,-122.40762822536455,San Francisco,CA,United States}	{Outdoors & Recreation,}
+87	Sat Apr 02 03:01:25 +0000 2011	454cf014f964a520c53c1fe3	{Century San Francisco Centre 9 & XD}	{37.78436333183897,-122.40622401237488,San Francisco,CA,United States}	{Arts & Entertainment,Movie Theater,}
+87	Sat Apr 02 02:00:46 +0000 2011	4b1c59a2f964a5206b0624e3	{Nordstrom}	{37.784045359734506,-122.40756511688232,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+87	Sat Apr 02 01:50:52 +0000 2011	452b81ddf964a520393b1fe3	{Westfield San Francisco Centre}	{37.78448965,-122.4063157,San Francisco,CA,United States}	{Shop & Service,}
+87	Fri Apr 01 17:17:19 +0000 2011	4c237de69085d13aa1f287cc	{76}	{37.78609185,-122.393314,San Francisco,CA,United States}	{Shop & Service,}
+87	Fri Apr 01 17:17:19 +0000 2011	4c237de69085d13aa1f287cc	{76}	{37.78609185,-122.393314,San Francisco,CA,United States}	{Shop & Service,}
+87	Fri Apr 01 02:49:08 +0000 2011	40c3b000f964a520e6001fe3	{Slim's}	{37.771468640899734,-122.41328649839697,San Francisco,CA,United States}	{Music Venue,Arts & Entertainment,}
+87	Wed Mar 30 01:59:09 +0000 2011	4aa46a42f964a520bd4620e3	{Local Kitchen & Wine Merchant}	{37.78690159989067,-122.3941478085928,San Francisco,CA,United States}	{Food,}
+87	Tue Mar 29 20:50:54 +0000 2011	4a876ba0f964a5204c0420e3	{Sponges Car Wash}	{37.782051,-121.97006,San Ramon,CA,United States}	{Shop & Service,}
+87	Tue Mar 29 01:37:26 +0000 2011	43a016cbf964a5201b2c1fe3	{Osha Thai Restaurant}	{37.78738130596573,-122.39894387087647,San Francisco,CA,United States}	{Food,}
+87	Mon Mar 28 14:48:58 +0000 2011	4c334a8b3896e21e63bee990	{W.j. Bradley Mortgage Capital Corp}	{37.596435,-122.38447,Burlingame,CA,United States}	{Professional & Other Places,}
+87	Mon Mar 28 01:50:49 +0000 2011	4c237de69085d13aa1f287cc	{76}	{37.78609185,-122.393314,San Francisco,CA,United States}	{Shop & Service,}
+87	Mon Mar 28 01:41:24 +0000 2011	485cf8dbf964a520d4501fe3	{Rrazz Room at Hotel Nikko}	{37.78547719444585,-122.40941479022656,San Francisco,CA,United States}	{Music Venue,Arts & Entertainment,}
+87	Mon Mar 28 00:24:50 +0000 2011	485cf801f964a520d3501fe3	{Hotel Nikko}	{37.786046441392266,-122.40929245948792,San Francisco,CA,United States}	{Travel & Transport,Shop & Service,Hotel,}
+87	Sat Mar 26 16:38:10 +0000 2011	4a424d0ef964a520b7a51fe3	{Whole Foods Market}	{37.78109875315899,-122.39961504936218,San Francisco,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+87	Sat Mar 26 02:58:51 +0000 2011	4330a280f964a520fa271fe3	{Supperclub}	{37.78315555661277,-122.39646565606623,San Francisco,CA,United States}	{Nightlife Spot,}
+87	Fri Mar 25 17:00:11 +0000 2011	4c334a8b3896e21e63bee990	{W.j. Bradley Mortgage Capital Corp}	{37.596435,-122.38447,Burlingame,CA,United States}	{Professional & Other Places,}
+87	Fri Mar 25 02:55:08 +0000 2011	4aa46a42f964a520bd4620e3	{Local Kitchen & Wine Merchant}	{37.78690159989067,-122.3941478085928,San Francisco,CA,United States}	{Food,}
+87	Tue Mar 22 00:43:06 +0000 2011	4a651756f964a5204ac71fe3	{Metropolitan}	{37.78676303392629,-122.39343418895058,San Francisco,CA,United States}	{Residence,}
+87	Mon Mar 21 18:35:55 +0000 2011	4c334a8b3896e21e63bee990	{W.j. Bradley Mortgage Capital Corp}	{37.596435,-122.38447,Burlingame,CA,United States}	{Professional & Other Places,}
+87	Sun Mar 20 22:20:56 +0000 2011	4d54e1c1b4deb1f7ae5ffe79	{The Metropolitan-North}	{37.78725740262541,-122.39388227626786,San Francisco,CA,United States}	{Professional & Other Places,Residence,}
+87	Sun Mar 20 21:18:13 +0000 2011	4bfddc1dbf6576b0bdfbadb8	{Meggie}	{37.79576192435274,-122.43785192539744,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+87	Sun Mar 20 21:11:41 +0000 2011	4a6d5b51f964a520b8d21fe3	{That Takes the Cake}	{37.77527727001914,-122.18515634536745,Oakland,CA,United States}	{Food,}
+87	Sun Mar 20 21:05:08 +0000 2011	4b1b1c6cf964a5203bf823e3	{Z Gallerie}	{37.79727648317745,-122.43488247994517,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun Mar 20 20:40:49 +0000 2011	4ac3c383f964a520bb9c20e3	{AT&T}	{37.79715238591045,-122.43446774623341,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun Mar 20 20:23:11 +0000 2011	4b11c1e4f964a520048423e3	{lululemon athletica}	{37.79757531994848,-122.43186318102829,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+87	Sun Mar 20 20:02:59 +0000 2011	4ada2cb0f964a5208c1f21e3	{bryan lee jeans}	{37.79792,-122.429657,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+87	Sun Mar 20 19:45:57 +0000 2011	4ab5810af964a520087520e3	{Sephora}	{37.79726993333333,-122.43344843387604,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun Mar 20 17:51:03 +0000 2011	4cc0b6dced033704295da923	{Sweet Maple}	{37.7858486404133,-122.43502072415126,San Francisco,CA,United States}	{Outdoors & Recreation,Food,}
+87	Sun Mar 20 06:34:48 +0000 2011	4b0b1dbff964a520292d23e3	{Baker & Banker}	{37.78796853608995,-122.42705203064382,San Francisco,CA,United States}	{Food,}
+87	Sun Mar 20 00:06:10 +0000 2011	4b3022dcf964a520b2f624e3	{Bulgari}	{37.787642150073786,-122.40672110340971,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+87	Sat Mar 19 23:56:09 +0000 2011	4ac2ac13f964a520449a20e3	{Louis Vuitton}	{37.787424273323644,-122.406787276268,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+87	Sat Mar 19 22:03:33 +0000 2011	40bbc700f964a520b1001fe3	{Union Square}	{37.787750172585,-122.40762822536455,San Francisco,CA,United States}	{Outdoors & Recreation,}
+87	Sat Mar 19 22:01:27 +0000 2011	469019cbf964a5209f481fe3	{The Cheesecake Factory}	{37.787352202751634,-122.40740954875946,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Sat Mar 19 22:00:14 +0000 2011	43f8404cf964a520c22f1fe3	{Macy's}	{37.78755853482698,-122.40750653872762,San Francisco,CA,United States}	{Shop & Service,}
+87	Sat Mar 19 21:59:25 +0000 2011	4a283a63f964a520ff941fe3	{Niketown}	{37.788598589799385,-122.40668267011642,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+87	Fri Mar 18 04:35:24 +0000 2011	43bff8def964a520272d1fe3	{Barclays Restaurant & Pub}	{37.847865,-122.252081,Oakland,CA,United States}	{Nightlife Spot,}
+87	Fri Mar 18 01:17:11 +0000 2011	46aa8a59f964a5205f491fe3	{Wood Tavern}	{37.85069356970815,-122.25252444544577,Oakland,CA,United States}	{Nightlife Spot,Food,}
+87	Thu Mar 17 23:44:48 +0000 2011	4a663eb7f964a52043c81fe3	{Furry Tales}	{37.776828,-122.393467,San Francisco,CA,United States}	{Shop & Service,}
+87	Thu Mar 17 00:13:31 +0000 2011	463b2d04f964a52021461fe3	{Glen Park BART Station}	{37.73329799773515,-122.43383181802278,San Francisco,CA,United States}	{Travel & Transport,}
+87	Mon Mar 14 01:54:43 +0000 2011	4af6f4d6f964a520580422e3	{Fuzio Universal Bistro}	{37.640971132511666,-121.0009655010438,Modesto,CA,United States}	{Food,}
+87	Sun Mar 13 03:03:06 +0000 2011	4a9c8264f964a5206a3720e3	{Therapeia Massage}	{37.78777033751632,-122.42733959985483,San Francisco,CA,United States}	{Shop & Service,Professional & Other Places,}
+87	Sat Mar 12 22:48:44 +0000 2011	4c44d4b9dcd61b8df9e67b56	{Zero Zero}	{37.78167112478022,-122.40177154541016,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Sat Mar 12 22:15:11 +0000 2011	4abbda54f964a520388520e3	{Clothespin Cleaners}	{37.778021,-122.393914,San Francisco,CA,United States}	{Shop & Service,}
+87	Sat Mar 12 22:11:03 +0000 2011	4abbda54f964a520388520e3	{Clothespin Cleaners}	{37.778021,-122.393914,San Francisco,CA,United States}	{Shop & Service,}
+87	Sat Mar 12 21:06:54 +0000 2011	49fa306ff964a520d56d1fe3	{Polished Lounge}	{37.78156,-122.396402,San Francisco,CA,United States}	{Shop & Service,}
+87	Sat Mar 12 03:13:03 +0000 2011	4bef67c4c80dc92827f427e3	{Sizzler}	{37.725446942650144,-122.15698955726846,San Leandro,CA,United States}	{Food,}
+87	Sat Mar 12 01:24:33 +0000 2011	455ad6e0f964a520583d1fe3	{Target}	{37.76213166725632,-121.96424961090088,San Ramon,CA,United States}	{Shop & Service,}
+87	Wed Mar 09 16:26:43 +0000 2011	4c334a8b3896e21e63bee990	{W.j. Bradley Mortgage Capital Corp}	{37.596435,-122.38447,Burlingame,CA,United States}	{Professional & Other Places,}
+87	Mon Mar 07 03:57:28 +0000 2011	49d031f7f964a5200c5b1fe3	{Safeway}	{37.77669346324875,-122.39406287670135,San Francisco,CA,United States}	{Shop & Service,Food & Drink Shop,}
+87	Sun Mar 06 19:37:20 +0000 2011	4aa46a42f964a520bd4620e3	{Local Kitchen & Wine Merchant}	{37.78690159989067,-122.3941478085928,San Francisco,CA,United States}	{Food,}
+87	Sun Mar 06 01:44:35 +0000 2011	4698fe39f964a520f9481fe3	{The Fairmont San Francisco}	{37.79235252013811,-122.41054313133543,San Francisco,CA,United States}	{Nightlife Spot,Travel & Transport,}
+87	Sun Mar 06 01:09:17 +0000 2011	4698fe39f964a520f9481fe3	{The Fairmont San Francisco}	{37.79235252013811,-122.41054313133543,San Francisco,CA,United States}	{Nightlife Spot,Travel & Transport,}
+87	Sat Mar 05 18:02:15 +0000 2011	4c040bf7f56c2d7f4db61d66	{The Brick Yard}	{37.797853403915454,-122.42872766323192,San Francisco,CA,United States}	{Food,}
+87	Sat Mar 05 05:37:44 +0000 2011	4b00cb8ef964a520274122e3	{Frances}	{37.76275295560687,-122.43226289749146,San Francisco,CA,United States}	{Food,}
+87	Sat Mar 05 05:13:08 +0000 2011	3fd66200f964a52031f11ee3	{Tonga Room & Hurricane Bar}	{37.792261319862405,-122.40963578224182,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Sat Mar 05 04:23:12 +0000 2011	4698fe39f964a520f9481fe3	{The Fairmont San Francisco}	{37.79235252013811,-122.41054313133543,San Francisco,CA,United States}	{Nightlife Spot,Travel & Transport,}
+87	Thu Mar 03 05:29:25 +0000 2011	4b0e35f3f964a520f75523e3	{Manor West}	{37.781815,-122.398757,San Francisco,CA,United States}	{Nightlife Spot,}
+87	Tue Mar 01 21:54:34 +0000 2011	4b1de88ff964a5206a1a24e3	{Broadway Grill}	{37.584911,-122.36587308333333,Burlingame,CA,United States}	{Nightlife Spot,Food,}
+87	Tue Mar 01 04:55:51 +0000 2011	4d54e1c1b4deb1f7ae5ffe79	{The Metropolitan-North}	{37.78725740262541,-122.39388227626786,San Francisco,CA,United States}	{Professional & Other Places,Residence,}
+87	Tue Mar 01 02:06:29 +0000 2011	4a86e97ff964a5209b0120e3	{Trader Joe's}	{37.60376980301407,-122.39590141150148,Millbrae,CA,United States}	{Shop & Service,Food & Drink Shop,}
+87	Sun Feb 27 22:50:34 +0000 2011	49fa306ff964a520d56d1fe3	{Polished Lounge}	{37.78156,-122.396402,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun Feb 27 17:51:28 +0000 2011	49d68c61f964a520e65c1fe3	{Blue Bottle Coffee}	{37.79590475625579,-122.39393759555746,San Francisco,CA,United States}	{Food,}
+87	Sun Feb 27 17:50:55 +0000 2011	4a9190adf964a520b61a20e3	{Acme Bread Company}	{37.79586028399987,-122.39345133304596,San Francisco,CA,United States}	{Food,}
+87	Sun Feb 27 17:48:55 +0000 2011	43067280f964a52023271fe3	{Ferry Building}	{37.795427908882,-122.39362835884094,San Francisco,CA,United States}	{Shop & Service,Government Building,Food & Drink Shop,Professional & Other Places,}
+87	Fri Feb 25 03:27:01 +0000 2011	4d632f8761dda14313bc1a18	{Prince Concert!}	{37.750384,-122.202879,Oakland,CA,United States}	{Arts & Entertainment,}
+87	Fri Feb 25 03:25:57 +0000 2011	49e03a9df964a52047611fe3	{Oracle Arena}	{37.75026469428747,-122.20290184020996,Oakland,CA,United States}	{Stadium,Arts & Entertainment,}
+87	Thu Feb 24 02:29:30 +0000 2011	4b1dd0b1f964a520961524e3	{Walgreens}	{37.78670985946134,-122.42342416676581,San Francisco,CA,United States}	{Shop & Service,}
+87	Tue Feb 22 19:25:00 +0000 2011	4c072b022e80a593965475f9	{SUBWAY}	{37.5951800743301,-122.38590493040057,Burlingame,CA,United States}	{Food,}
+87	Tue Feb 22 04:09:27 +0000 2011	4d54e1c1b4deb1f7ae5ffe79	{The Metropolitan-North}	{37.78725740262541,-122.39388227626786,San Francisco,CA,United States}	{Professional & Other Places,Residence,}
+87	Tue Feb 22 02:50:57 +0000 2011	43a016cbf964a5201b2c1fe3	{Osha Thai Restaurant}	{37.78738130596573,-122.39894387087647,San Francisco,CA,United States}	{Food,}
+87	Tue Feb 22 02:36:33 +0000 2011	4c103449ce57c928089181d2	{Papyrus}	{37.787691,-122.400734,San Francisco,CA,United States}	{Shop & Service,}
+87	Sat Feb 19 23:28:21 +0000 2011	49fa306ff964a520d56d1fe3	{Polished Lounge}	{37.78156,-122.396402,San Francisco,CA,United States}	{Shop & Service,}
+87	Sat Feb 19 21:30:08 +0000 2011	4ad3636af964a52016e420e3	{Paragon Restaurant & Bar}	{37.85874,-122.242012,Berkeley,CA,United States}	{Nightlife Spot,Food,}
+87	Sat Feb 19 21:30:08 +0000 2011	4ad3636af964a52016e420e3	{Paragon Restaurant & Bar}	{37.85874,-122.242012,Berkeley,CA,United States}	{Nightlife Spot,Food,}
+87	Sat Feb 19 21:24:46 +0000 2011	49c6844bf964a52053571fe3	{The Claremont Hotel Club & Spa}	{37.858955655536846,-122.24212646484375,Berkeley,CA,United States}	{Travel & Transport,Hotel,}
+87	Sat Feb 19 02:01:32 +0000 2011	4c2368d713c00f47bef488de	{Cole's Chop House}	{38.30028,-122.28609456666666,Napa,CA,United States}	{Food,}
+87	Sat Feb 19 02:01:32 +0000 2011	4c2368d713c00f47bef488de	{Cole's Chop House}	{38.30028,-122.28609456666666,Napa,CA,United States}	{Food,}
+87	Sat Feb 19 01:10:51 +0000 2011	49ff2122f964a520d86f1fe3	{Silverado Resort & Spa}	{38.348885444704166,-122.26459392992905,Napa,CA,United States}	{Travel & Transport,Outdoors & Recreation,Food,Hotel,Athletics & Sports,}
+87	Fri Feb 18 22:21:54 +0000 2011	4b6081cef964a5206dea29e3	{Culinary Institute of America at Greystone}	{38.51484702367952,-122.48453358560205,St Helena,CA,United States}	{College & University,Food,}
+87	Fri Feb 18 21:35:47 +0000 2011	4c59cdfbb05c1b8dd0b0d6b1	{Armadillo's}	{38.50448804427754,-122.4688629454231,Saint Helena,CA,United States}	{Food,}
+87	Fri Feb 18 21:35:47 +0000 2011	4c59cdfbb05c1b8dd0b0d6b1	{Armadillo's}	{38.50448804427754,-122.4688629454231,Saint Helena,CA,United States}	{Food,}
+87	Fri Feb 18 18:08:21 +0000 2011	4a7ca2d6f964a52003ed1fe3	{Viansa Winery}	{38.20844419036272,-122.45189067802643,Sonoma,CA,United States}	{Outdoors & Recreation,Shop & Service,Food,Food & Drink Shop,}
+87	Fri Feb 18 03:49:25 +0000 2011	445c9f00f964a520ef321fe3	{Club Fugazi}	{37.79946969891646,-122.41024445398553,San Francisco,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+87	Fri Feb 18 03:48:42 +0000 2011	4abee430f964a520709020e3	{Beach Blanket Babylon}	{37.799453487928524,-122.41029976466993,San Francisco,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+87	Fri Feb 18 03:23:13 +0000 2011	4be5b8bf2468c92863700043	{Caffe DeLucchi}	{37.799916856706105,-122.40919589996338,San Francisco,CA,United States}	{Food,}
+87	Thu Feb 17 21:20:19 +0000 2011	4a7104cbf964a52000d91fe3	{Target}	{37.63618886357397,-122.41657733917236,San Bruno,CA,United States}	{Shop & Service,Clothing Store,}
+87	Thu Feb 17 06:26:51 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+87	Thu Feb 17 04:38:22 +0000 2011	4c9c99d79c48236a6f304fee	{Virgin America SFO-LAS VEGAS}	{37.614441,-122.389663,San Francisco,CA,United States}	{Travel & Transport,Airport,}
+87	Thu Feb 17 04:38:22 +0000 2011	4c9c99d79c48236a6f304fee	{Virgin America SFO-LAS VEGAS}	{37.614441,-122.389663,San Francisco,CA,United States}	{Travel & Transport,Airport,}
+87	Thu Feb 17 03:27:57 +0000 2011	4b255bc1f964a520987024e3	{Sammy's Beach Bar and Grill}	{36.08278313124995,-115.14843463897705,Las Vegas,NV,United States}	{Nightlife Spot,Food,}
+87	Thu Feb 17 03:05:17 +0000 2011	4a677f82f964a52091c91fe3	{Las Vegas McCarran International Airport (LAS)}	{36.08365019548198,-115.14985084533691,Las Vegas,NV,United States}	{Travel & Transport,}
+87	Wed Feb 16 21:31:40 +0000 2011	4b2fd815f964a52012f124e3	{Lagasse's Stadium}	{36.124946054727204,-115.16963481903076,Las Vegas,NV,United States}	{Nightlife Spot,Food,}
+87	Wed Feb 16 17:58:54 +0000 2011	4d5977f53281b1f75a87bb2f	{Ragan Social Media for PR & Corporate Communications}	{36.106308,-115.139028,Las Vegas,NV,United States}	{Professional & Other Places,}
+87	Wed Feb 16 17:58:23 +0000 2011	4b5f69abf964a520ddb829e3	{Starbucks}	{36.10637031998453,-115.13878271847665,Las Vegas,NV,United States}	{Food,}
+87	Wed Feb 16 04:38:17 +0000 2011	4d014ea494c5b1f7921451de	{Scarpetta}	{36.110808556064114,-115.17383656994524,Las Vegas,NV,United States}	{Food,}
+87	Wed Feb 16 04:14:07 +0000 2011	4d01a142b82d721e1c3d7434	{CRSVR}	{36.10948432078966,-115.17441987991333,Las Vegas,NV,United States}	{Shop & Service,Clothing Store,}
+87	Wed Feb 16 04:12:29 +0000 2011	4bfe71ede529c928c852bc8c	{The Cosmopolitan of Las Vegas}	{36.1094756530447,-115.17394781112671,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+87	Tue Feb 15 19:47:49 +0000 2011	4b042e81f964a520dc5122e3	{Canyon Ranch SpaClub}	{36.122658187381916,-115.16984939575195,Las Vegas,NV,United States}	{Travel & Transport,Shop & Service,Food,Hotel,}
+87	Tue Feb 15 06:01:59 +0000 2011	4a6d0478f964a52058d21fe3	{The Palazzo Resort Hotel & Casino}	{36.12453008380567,-115.16924858093262,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+87	Tue Feb 15 03:17:39 +0000 2011	4d5fdf71291059418d2eee46	{STK}	{36.10960566911874,-115.1736044883728,Las Vegas,NV,United States}	{Nightlife Spot,Food,}
+87	Tue Feb 15 03:13:51 +0000 2011	4bfe71ede529c928c852bc8c	{The Cosmopolitan of Las Vegas}	{36.1094756530447,-115.17394781112671,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+87	Tue Feb 15 00:44:57 +0000 2011	4d014d3ac8bda0936a1975af	{Holsteins at Cosmopolitan}	{36.1090850539002,-115.17410869413364,Las Vegas,NV,United States}	{Food,}
+87	Tue Feb 15 00:32:21 +0000 2011	4d01a142b82d721e1c3d7434	{CRSVR}	{36.10948432078966,-115.17441987991333,Las Vegas,NV,United States}	{Shop & Service,Clothing Store,}
+87	Tue Feb 15 00:26:50 +0000 2011	4bfe71ede529c928c852bc8c	{The Cosmopolitan of Las Vegas}	{36.1094756530447,-115.17394781112671,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+87	Mon Feb 14 23:54:06 +0000 2011	4b2a869ef964a520cdaa24e3	{Gold & Silver Pawn Stars Shop}	{36.161542862988505,-115.14547348022461,Las Vegas,NV,United States}	{Shop & Service,}
+87	Mon Feb 14 07:11:17 +0000 2011	49de85bef964a52069601fe3	{LAVO Italian Restaurant & Nightclub}	{36.12428743308351,-115.16959190368652,Las Vegas,NV,United States}	{Nightlife Spot,Food,}
+87	Mon Feb 14 04:33:05 +0000 2011	4a99e5e9f964a520043120e3	{SUSHISAMBA}	{36.12401011705408,-115.16916275024414,Las Vegas,NV,United States}	{Nightlife Spot,Food,}
+87	Sun Feb 13 23:51:51 +0000 2011	4b042e81f964a520dc5122e3	{Canyon Ranch SpaClub}	{36.122658187381916,-115.16984939575195,Las Vegas,NV,United States}	{Travel & Transport,Shop & Service,Food,Hotel,}
+87	Sun Feb 13 23:19:25 +0000 2011	4a6d0478f964a52058d21fe3	{The Palazzo Resort Hotel & Casino}	{36.12453008380567,-115.16924858093262,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+87	Sun Feb 13 21:52:41 +0000 2011	4a677f82f964a52091c91fe3	{Las Vegas McCarran International Airport (LAS)}	{36.08365019548198,-115.14985084533691,Las Vegas,NV,United States}	{Travel & Transport,}
+87	Sun Feb 13 19:05:55 +0000 2011	4c9c99d79c48236a6f304fee	{Virgin America SFO-LAS VEGAS}	{37.614441,-122.389663,San Francisco,CA,United States}	{Travel & Transport,Airport,}
+87	Sun Feb 13 19:05:07 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+87	Sun Feb 13 18:24:08 +0000 2011	4b09762ef964a520a41723e3	{Tan Bella}	{37.77687496260611,-122.39327929412565,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun Feb 13 01:07:14 +0000 2011	49fa306ff964a520d56d1fe3	{Polished Lounge}	{37.78156,-122.396402,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun Feb 13 01:07:14 +0000 2011	49fa306ff964a520d56d1fe3	{Polished Lounge}	{37.78156,-122.396402,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun Feb 13 00:29:19 +0000 2011	4b92e9b4f964a520772634e3	{Public Storage}	{37.78413944868516,-122.39575481805574,San Francisco,CA,United States}	{Shop & Service,Professional & Other Places,Residence,}
+87	Sat Feb 12 21:11:21 +0000 2011	4abbda54f964a520388520e3	{Clothespin Cleaners}	{37.778021,-122.393914,San Francisco,CA,United States}	{Shop & Service,}
+87	Sat Feb 12 19:33:45 +0000 2011	43cc2651f964a520cb2d1fe3	{Denny's}	{37.78417747387677,-122.40490683601921,San Francisco,CA,United States}	{Food,}
+87	Sat Feb 12 18:26:45 +0000 2011	4b1c59a2f964a5206b0624e3	{Nordstrom}	{37.784045359734506,-122.40756511688232,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+87	Sat Feb 12 18:19:41 +0000 2011	452b81ddf964a520393b1fe3	{Westfield San Francisco Centre}	{37.78448965,-122.4063157,San Francisco,CA,United States}	{Shop & Service,}
+87	Sat Feb 12 18:06:54 +0000 2011	451c196df964a520813a1fe3	{Bloomingdale's}	{37.784197986515366,-122.40589141845703,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+87	Sat Feb 12 01:12:52 +0000 2011	4b92e9b4f964a520772634e3	{Public Storage}	{37.78413944868516,-122.39575481805574,San Francisco,CA,United States}	{Shop & Service,Professional & Other Places,Residence,}
+87	Fri Feb 11 21:27:41 +0000 2011	4a909b1af964a520b91820e3	{Walgreens}	{37.596846,-122.38649694,MILLBRAE,CA,United States}	{Shop & Service,}
+87	Fri Feb 11 21:24:27 +0000 2011	4a96e1aff964a5205d2720e3	{Chipotle Mexican Grill}	{37.596757501033345,-122.38636964673569,Millbrae,CA,United States}	{Food,}
+87	Thu Feb 10 18:51:08 +0000 2011	4be0880e4f15c9286f8ccb0b	{Diablo Beauty}	{37.812757,-121.997079,Danville,CA,United States}	{Shop & Service,}
+87	Mon Feb 07 01:50:50 +0000 2011	4d4ad2e8f2cc6a31686ec188	{Super Bowl Sunday}	{32.747868226330375,-97.09356307983398,Arlington,TX,United States}	{Stadium,Arts & Entertainment,}
+87	Mon Feb 07 01:13:49 +0000 2011	4d4ad2e8f2cc6a31686ec188	{Super Bowl Sunday}	{32.747868226330375,-97.09356307983398,Arlington,TX,United States}	{Stadium,Arts & Entertainment,}
+87	Sun Feb 06 22:53:29 +0000 2011	4bc3dcbfdce4eee142c8719d	{Calistoga Ranch}	{38.579926190035096,-122.51238584518433,Calistoga,CA,United States}	{Travel & Transport,Shop & Service,Hotel,}
+87	Sun Feb 06 21:46:28 +0000 2011	4ad648b5f964a520510621e3	{Ledson Winery & Vineyards}	{38.4420134,-122.5862717,Kenwood,CA,United States}	{Shop & Service,Outdoors & Recreation,Food,Food & Drink Shop,}
+87	Sun Feb 06 20:49:26 +0000 2011	4a92c7c0f964a520ad1d20e3	{Domaine Carneros}	{38.25560327920624,-122.35116158493892,Napa,CA,United States}	{Nightlife Spot,Outdoors & Recreation,Food,}
+87	Sun Feb 06 19:38:02 +0000 2011	4a7ca2d6f964a52003ed1fe3	{Viansa Winery}	{38.20844419036272,-122.45189067802643,Sonoma,CA,United States}	{Outdoors & Recreation,Shop & Service,Food,Food & Drink Shop,}
+87	Sun Feb 06 18:40:23 +0000 2011	4b5369d1f964a520a89b27e3	{Gloria Ferrer Caves & Winery}	{38.22389925370502,-122.4712399486165,Sonoma,CA,United States}	{Nightlife Spot,Outdoors & Recreation,Food,}
+87	Sun Feb 06 17:57:04 +0000 2011	4c1f883ceac020a104364bc2	{Starbucks}	{38.32401155720409,-122.28710077922733,Napa,CA,United States}	{Food,}
+87	Sun Feb 06 03:56:39 +0000 2011	4c2368d713c00f47bef488de	{Cole's Chop House}	{38.30028,-122.28609456666666,Napa,CA,United States}	{Food,}
+87	Sun Feb 06 00:57:42 +0000 2011	49ff2122f964a520d86f1fe3	{Silverado Resort & Spa}	{38.348885444704166,-122.26459392992905,Napa,CA,United States}	{Travel & Transport,Outdoors & Recreation,Food,Hotel,Athletics & Sports,}
+87	Sat Feb 05 23:34:56 +0000 2011	4c59cdfbb05c1b8dd0b0d6b1	{Armadillo's}	{38.50448804427754,-122.4688629454231,Saint Helena,CA,United States}	{Food,}
+87	Sat Feb 05 23:34:27 +0000 2011	4bef334ed1b7d13a5c7bcdec	{Fideaux}	{38.504532,-122.468941,Saint Helena,CA,United States}	{Shop & Service,}
+87	Sat Feb 05 22:25:02 +0000 2011	4b6081cef964a5206dea29e3	{Culinary Institute of America at Greystone}	{38.51484702367952,-122.48453358560205,St Helena,CA,United States}	{College & University,Food,}
+87	Sat Feb 05 20:16:42 +0000 2011	49fe0ef6f964a520666f1fe3	{V. Sattui Winery}	{38.48877140836131,-122.44875848293304,Saint Helena,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+87	Sat Feb 05 17:36:45 +0000 2011	4c04175b39d476b06c0331a7	{The Grill at Silverado}	{38.349332,-122.26476,Napa,CA,United States}	{Food,}
+87	Sat Feb 05 17:36:12 +0000 2011	4c04175b39d476b06c0331a7	{The Grill at Silverado}	{38.349332,-122.26476,Napa,CA,United States}	{Food,}
+87	Sat Feb 05 05:01:09 +0000 2011	49ff2122f964a520d86f1fe3	{Silverado Resort & Spa}	{38.348885444704166,-122.26459392992905,Napa,CA,United States}	{Travel & Transport,Outdoors & Recreation,Food,Hotel,Athletics & Sports,}
+87	Sat Feb 05 02:55:15 +0000 2011	4b3ee0daf964a520d8a225e3	{Norman Rose Tavern}	{38.297534410039674,-122.28871218446294,Napa,CA,United States}	{Food,}
+87	Sat Feb 05 00:59:18 +0000 2011	49ff2122f964a520d86f1fe3	{Silverado Resort & Spa}	{38.348885444704166,-122.26459392992905,Napa,CA,United States}	{Travel & Transport,Outdoors & Recreation,Food,Hotel,Athletics & Sports,}
+87	Tue Feb 01 19:00:09 +0000 2011	4be0880e4f15c9286f8ccb0b	{Diablo Beauty}	{37.812757,-121.997079,Danville,CA,United States}	{Shop & Service,}
+87	Mon Jan 31 03:53:18 +0000 2011	40e0b100f964a520e1091fe3	{Blowfish Sushi to Die For}	{37.75963095,-122.410067,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Sun Jan 30 23:34:21 +0000 2011	4b09762ef964a520a41723e3	{Tan Bella}	{37.77687496260611,-122.39327929412565,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun Jan 30 22:50:55 +0000 2011	49d7090df964a520195d1fe3	{Icebee}	{37.78382206298249,-122.40516680918272,San Francisco,CA,United States}	{Food,}
+87	Sun Jan 30 22:26:10 +0000 2011	4ae75692f964a52084aa21e3	{Catch Isle}	{37.784647,-122.406469,San Francisco,CA,United States}	{Food,}
+87	Sun Jan 30 21:10:20 +0000 2011	451c196df964a520813a1fe3	{Bloomingdale's}	{37.784197986515366,-122.40589141845703,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+87	Sun Jan 30 07:15:58 +0000 2011	3fd66200f964a52031f11ee3	{Tonga Room & Hurricane Bar}	{37.792261319862405,-122.40963578224182,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Sun Jan 30 04:07:25 +0000 2011	49e93fcbf964a520e4651fe3	{Incanto}	{37.746063854353984,-122.42710180229444,San Francisco,CA,United States}	{Food,}
+87	Sat Jan 29 23:04:48 +0000 2011	4abbda54f964a520388520e3	{Clothespin Cleaners}	{37.778021,-122.393914,San Francisco,CA,United States}	{Shop & Service,}
+87	Sat Jan 29 21:34:40 +0000 2011	4a7104cbf964a52000d91fe3	{Target}	{37.63618886357397,-122.41657733917236,San Bruno,CA,United States}	{Shop & Service,Clothing Store,}
+87	Sat Jan 29 20:11:28 +0000 2011	4be31f5321d5a593bf401811	{Noah's Bagels}	{37.76633538261355,-122.40892251996719,San Francisco,CA,United States}	{Food,}
+87	Fri Jan 28 03:24:41 +0000 2011	4b154feef964a52084af23e3	{Maples Pavilion}	{37.42930801035828,-122.1608018875122,Stanford,CA,United States}	{Stadium,College & University,Arts & Entertainment,College Stadium,}
+87	Fri Jan 28 02:32:58 +0000 2011	4c9abf9980958cfa96fc45d4	{Pinkberry}	{37.366746491654546,-122.03184127807617,Sunnyvale,CA,United States}	{Food,}
+87	Fri Jan 28 01:58:42 +0000 2011	4c962ba672dd224b5fd3a991	{Five Guys}	{37.36667827622495,-122.03194856643677,Sunnyvale,CA,United States}	{Food,}
+87	Thu Jan 27 05:00:14 +0000 2011	4d54e1c1b4deb1f7ae5ffe79	{The Metropolitan-North}	{37.78725740262541,-122.39388227626786,San Francisco,CA,United States}	{Professional & Other Places,Residence,}
+87	Thu Jan 27 00:46:20 +0000 2011	4b265c42f964a520887a24e3	{Robert's Tires and Wheels}	{37.777623,-122.403768,San Francisco,CA,United States}	{Shop & Service,}
+87	Wed Jan 26 16:44:20 +0000 2011	4b265c42f964a520887a24e3	{Robert's Tires and Wheels}	{37.777623,-122.403768,San Francisco,CA,United States}	{Shop & Service,}
+87	Wed Jan 26 02:05:33 +0000 2011	4c3c69957c1ee21e3f7b8c71	{Yahoo Bus Stop - Van Ness & Grove}	{37.778380987421265,-122.41990327835083,San Francisco,CA,United States}	{Travel & Transport,}
+87	Tue Jan 25 03:10:25 +0000 2011	4d0836087b30a1cdaca59ecc	{The Metropolitan Party Room}	{37.787091,-122.394025,San Francisco,CA,United States}	{}
+87	Mon Jan 24 15:39:27 +0000 2011	4b265c42f964a520887a24e3	{Robert's Tires and Wheels}	{37.777623,-122.403768,San Francisco,CA,United States}	{Shop & Service,}
+87	Mon Jan 24 02:26:29 +0000 2011	4c05a764191f20a11473e314	{Wayfare Tavern}	{37.794016313675044,-122.40235090255737,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Sun Jan 23 22:54:27 +0000 2011	4a8c4874f964a5208c0d20e3	{Olympic Club Golf Course}	{37.70828666027362,-122.49483346939087,San Francisco,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+87	Sun Jan 23 21:58:01 +0000 2011	4ad3636af964a52016e420e3	{Paragon Restaurant & Bar}	{37.85874,-122.242012,Berkeley,CA,United States}	{Nightlife Spot,Food,}
+87	Sun Jan 23 19:15:57 +0000 2011	49c6844bf964a52053571fe3	{The Claremont Hotel Club & Spa}	{37.858955655536846,-122.24212646484375,Berkeley,CA,United States}	{Travel & Transport,Hotel,}
+87	Sat Jan 22 03:53:50 +0000 2011	42d1b680f964a52005261fe3	{Solstice Restaurant And Lounge}	{37.78800666332245,-122.44052513000001,San Francisco,CA,United States}	{Shop & Service,Food,}
+87	Sat Jan 22 03:43:35 +0000 2011	4a1e3c8af964a520c47b1fe3	{The Mindful Body}	{37.78798968001725,-122.44173917284373,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+87	Fri Jan 21 22:02:28 +0000 2011	4b265c42f964a520887a24e3	{Robert's Tires and Wheels}	{37.777623,-122.403768,San Francisco,CA,United States}	{Shop & Service,}
+87	Fri Jan 21 21:54:05 +0000 2011	4a663eb7f964a52043c81fe3	{Furry Tales}	{37.776828,-122.393467,San Francisco,CA,United States}	{Shop & Service,}
+87	Fri Jan 21 17:59:40 +0000 2011	461937cff964a5205c451fe3	{San Francisco DMV Office}	{37.77322661460681,-122.44045634183084,San Francisco,CA,United States}	{Professional & Other Places,}
+87	Fri Jan 21 17:28:22 +0000 2011	4b564d86f964a520260a28e3	{Waffle Mania}	{37.78655518232762,-122.39735126495361,San Francisco,CA,United States}	{Food,}
+87	Fri Jan 21 17:04:59 +0000 2011	4b265c42f964a520887a24e3	{Robert's Tires and Wheels}	{37.777623,-122.403768,San Francisco,CA,United States}	{Shop & Service,}
+87	Fri Jan 21 17:04:59 +0000 2011	4b265c42f964a520887a24e3	{Robert's Tires and Wheels}	{37.777623,-122.403768,San Francisco,CA,United States}	{Shop & Service,}
+87	Fri Jan 21 16:55:31 +0000 2011	4abbda54f964a520388520e3	{Clothespin Cleaners}	{37.778021,-122.393914,San Francisco,CA,United States}	{Shop & Service,}
+87	Fri Jan 21 03:53:26 +0000 2011	41044980f964a520700b1fe3	{Hillstone}	{37.805918649667305,-122.40514039993286,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Thu Jan 20 16:53:20 +0000 2011	4bae6c91f964a5208eb03be3	{Shell}	{37.77992021897592,-122.40335251497342,San Francisco,CA,United States}	{Shop & Service,}
+87	Thu Jan 20 16:52:26 +0000 2011	4b265c42f964a520887a24e3	{Robert's Tires and Wheels}	{37.777623,-122.403768,San Francisco,CA,United States}	{Shop & Service,}
+87	Thu Jan 20 01:57:02 +0000 2011	4c3d00c017f2ef3b724381f4	{Churchill Club at the Santa Clara Marriott}	{37.390976,-121.973599,Santa Clara,CA,United States}	{Professional & Other Places,}
+87	Thu Jan 20 01:56:05 +0000 2011	4a0e9e15f964a520e7751fe3	{Santa Clara Marriott}	{37.39058398530419,-121.97420597076416,Santa Clara,CA,United States}	{Travel & Transport,}
+87	Tue Jan 18 03:36:34 +0000 2011	49dba9a1f964a520e65e1fe3	{Fish & Farm}	{37.785756,-122.41118358448148,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Mon Jan 17 01:37:00 +0000 2011	4ba955eff964a520d81f3ae3	{Nubi Yogurt}	{37.76593141060717,-122.40949630737305,San Francisco,CA,United States}	{Food,}
+87	Sun Jan 16 17:41:59 +0000 2011	49ce75e7f964a520415a1fe3	{Four Seasons Hotel San Francisco}	{37.78629773890162,-122.40451964075442,San Francisco,CA,United States}	{Nightlife Spot,Travel & Transport,}
+87	Sun Jan 16 03:46:57 +0000 2011	4b075964f964a52071fc22e3	{McKeon Pavilion}	{37.84121593253091,-122.10665345191956,Moraga,CA,United States}	{College & University,College Stadium,}
+87	Sun Jan 16 03:45:29 +0000 2011	4b877ec5f964a520edc031e3	{Saint Mary's College of California}	{37.84086855055835,-122.10904598236084,Moraga,CA,United States}	{College & University,}
+87	Sat Jan 15 23:49:21 +0000 2011	4a283a63f964a520ff941fe3	{Niketown}	{37.788598589799385,-122.40668267011642,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+87	Sat Jan 15 23:48:17 +0000 2011	4aa45625f964a5207b4620e3	{Williams-Sonoma}	{37.788384469107946,-122.40747335143854,San Francisco,CA,United States}	{Shop & Service,Food & Drink Shop,}
+87	Sat Jan 15 23:00:05 +0000 2011	4a791992f964a520efe61fe3	{Tiffany & Co.}	{37.788534999132416,-122.40770995616913,San Francisco,CA,United States}	{Shop & Service,}
+87	Sat Jan 15 22:55:59 +0000 2011	4ace3dd5f964a52056cf20e3	{Saks Fifth Avenue}	{37.788429014565835,-122.40827322006226,San Francisco,CA,United States}	{Shop & Service,}
+87	Sat Jan 15 21:58:03 +0000 2011	4ad4eb13f964a520affc20e3	{Burger Bar}	{37.78736916053961,-122.40744709968567,San Francisco,CA,United States}	{Food,}
+87	Sat Jan 15 21:42:00 +0000 2011	43f8404cf964a520c22f1fe3	{Macy's}	{37.78755853482698,-122.40750653872762,San Francisco,CA,United States}	{Shop & Service,}
+87	Sat Jan 15 21:31:27 +0000 2011	4ab1481ef964a520e16820e3	{Sephora}	{37.78491381929122,-122.40792137895684,San Francisco,CA,United States}	{Shop & Service,}
+87	Sat Jan 15 06:47:50 +0000 2011	4681449cf964a52020481fe3	{Bar Bambino}	{37.76504576806311,-122.4183139750801,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Sat Jan 15 01:51:55 +0000 2011	3fd66200f964a52031f11ee3	{Tonga Room & Hurricane Bar}	{37.792261319862405,-122.40963578224182,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Fri Jan 14 01:59:49 +0000 2011	4c89630d9ef0224bd1b5517b	{Off the Grid: Upper Haight}	{37.768229821312126,-122.45386004447937,San Francisco,CA,United States}	{Food,}
+87	Tue Jan 11 19:15:45 +0000 2011	4ae37773f964a520759521e3	{City Contacts Optometry}	{37.790548,-122.405859,San Francisco,CA,United States}	{Professional & Other Places,}
+87	Mon Jan 10 01:51:08 +0000 2011	46d716fdf964a5206d4a1fe3	{The Old Spaghetti Factory}	{37.97693709837447,-122.03464733123342,Concord,CA,United States}	{Food,}
+87	Sun Jan 09 22:55:58 +0000 2011	4d02bba9dc45a093dbe2dfc6	{Pure Beauty}	{37.774561,-121.977785,San Ramon,CA,United States}	{Shop & Service,}
+87	Sun Jan 09 01:56:11 +0000 2011	49c9953af964a52084581fe3	{Best Buy}	{37.76885675,-122.4129989,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun Jan 09 01:53:45 +0000 2011	49c9953af964a52084581fe3	{Best Buy}	{37.76885675,-122.4129989,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun Jan 09 00:52:45 +0000 2011	4c9e4464ca44236ab7182999	{Off the Grid: McCoppin Hub}	{37.77158024917302,-122.42277711079323,San Francisco,CA,United States}	{Food,}
+87	Sun Jan 09 00:36:20 +0000 2011	4c237de69085d13aa1f287cc	{76}	{37.78609185,-122.393314,San Francisco,CA,United States}	{Shop & Service,}
+87	Sat Jan 08 20:28:07 +0000 2011	4abbda54f964a520388520e3	{Clothespin Cleaners}	{37.778021,-122.393914,San Francisco,CA,United States}	{Shop & Service,}
+87	Sat Jan 08 19:02:27 +0000 2011	49fa306ff964a520d56d1fe3	{Polished Lounge}	{37.78156,-122.396402,San Francisco,CA,United States}	{Shop & Service,}
+87	Sat Jan 08 02:53:58 +0000 2011	4aa46a42f964a520bd4620e3	{Local Kitchen & Wine Merchant}	{37.78690159989067,-122.3941478085928,San Francisco,CA,United States}	{Food,}
+87	Fri Jan 07 02:44:38 +0000 2011	49d031f7f964a5200c5b1fe3	{Safeway}	{37.77669346324875,-122.39406287670135,San Francisco,CA,United States}	{Shop & Service,Food & Drink Shop,}
+87	Thu Jan 06 15:44:17 +0000 2011	4c334a8b3896e21e63bee990	{W.j. Bradley Mortgage Capital Corp}	{37.596435,-122.38447,Burlingame,CA,United States}	{Professional & Other Places,}
+87	Thu Jan 06 15:42:57 +0000 2011	4aeb4fc8f964a520c2c021e3	{Java Detour}	{37.770397466666665,-122.41810886666667,San Francisco,CA,United States}	{Food,}
+87	Tue Jan 04 02:34:08 +0000 2011	4bdf42c70ee3a593398833b0	{Metropolitan Gym}	{37.787091568186604,-122.39392099977363,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+87	Mon Jan 03 03:13:58 +0000 2011	40dcbc80f964a52087011fe3	{The Oasis Beer Garden}	{37.44841,-122.174821,Menlo Park,CA,United States}	{Nightlife Spot,Food,}
+87	Mon Jan 03 01:20:59 +0000 2011	4b154feef964a52084af23e3	{Maples Pavilion}	{37.42930801035828,-122.1608018875122,Stanford,CA,United States}	{Stadium,College & University,Arts & Entertainment,College Stadium,}
+87	Sun Jan 02 23:59:06 +0000 2011	4afa2320f964a520fe1622e3	{Target}	{37.37389171438923,-122.03266739845276,Sunnyvale,CA,United States}	{Shop & Service,Food & Drink Shop,}
+87	Sun Jan 02 19:49:12 +0000 2011	4c44d4b9dcd61b8df9e67b56	{Zero Zero}	{37.78167112478022,-122.40177154541016,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Sun Jan 02 06:07:43 +0000 2011	4d54e1c1b4deb1f7ae5ffe79	{The Metropolitan-North}	{37.78725740262541,-122.39388227626786,San Francisco,CA,United States}	{Professional & Other Places,Residence,}
+87	Sat Jan 01 06:54:56 +0000 2011	43582f80f964a520e4281fe3	{Top of the Mark @ InterContinental Mark Hopkins}	{37.79158079458484,-122.41053760028113,San Francisco,CA,United States}	{Nightlife Spot,}
+87	Sat Jan 01 04:11:55 +0000 2011	4a3ef906f964a5209ba31fe3	{InterContinental Mark Hopkins}	{37.79164903853911,-122.41052100711642,San Francisco,CA,United States}	{Travel & Transport,Hotel,Professional & Other Places,}
+87	Fri Dec 31 21:45:17 +0000 2010	4a5824e5f964a5206db71fe3	{AMC Loews Metreon 16}	{37.7844481241691,-122.40364372730255,San Francisco,CA,United States}	{Shop & Service,Arts & Entertainment,Movie Theater,}
+87	Thu Dec 30 02:10:15 +0000 2010	4aa46a42f964a520bd4620e3	{Local Kitchen & Wine Merchant}	{37.78690159989067,-122.3941478085928,San Francisco,CA,United States}	{Food,}
+87	Wed Dec 29 22:47:18 +0000 2010	48033ac2f964a520f44e1fe3	{Costeaux French Bakery}	{38.612612,-122.871469,Healdsburg,CA,United States}	{Food,}
+87	Wed Dec 29 21:42:02 +0000 2010	4a2adb45f964a5205c961fe3	{Healdsburg Bar & Grill}	{38.610117526212576,-122.87066042492863,Healdsburg,CA,United States}	{Food,}
+87	Wed Dec 29 20:32:22 +0000 2010	4b538d02f964a520cca127e3	{Stephen & Walker}	{38.609942,-122.870607,Healdsburg,CA,United States}	{Food,}
+87	Wed Dec 29 06:49:35 +0000 2010	4b05a5a0f964a52020e022e3	{Santa Rosa Memorial Hospital}	{38.44331342068163,-122.70105993796959,Santa Rosa,CA,United States}	{Medical Center,Professional & Other Places,}
+87	Tue Dec 28 22:55:50 +0000 2010	4aa41962f964a520474520e3	{Hotel Les Mars}	{38.6118646,-122.87155306,Healdsburg,CA,United States}	{Travel & Transport,}
+87	Tue Dec 28 21:38:58 +0000 2010	4b75dcc3f964a520362a2ee3	{Giorgio's}	{38.59767907,-122.853701,Healdsburg,CA,United States}	{Food,}
+87	Tue Dec 28 21:12:55 +0000 2010	4ada4ef6f964a520312121e3	{J Vineyards & Winery}	{38.573101,-122.842689,Healdsburg,CA,United States}	{Food,}
+87	Tue Dec 28 01:50:40 +0000 2010	4d54e1c1b4deb1f7ae5ffe79	{The Metropolitan-North}	{37.78725740262541,-122.39388227626786,San Francisco,CA,United States}	{Professional & Other Places,Residence,}
+87	Fri Dec 24 20:49:54 +0000 2010	4ab14069f964a520bb6820e3	{Cocoon Urban Day Spa}	{37.786885132833085,-122.39410355325182,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+87	Thu Dec 23 02:53:54 +0000 2010	4a64a8f4f964a5206cc61fe3	{Spruce}	{37.78762478684106,-122.45273106354212,San Francisco,CA,United States}	{Food,}
+87	Wed Dec 22 23:17:15 +0000 2010	49fa306ff964a520d56d1fe3	{Polished Lounge}	{37.78156,-122.396402,San Francisco,CA,United States}	{Shop & Service,}
+87	Wed Dec 22 20:53:58 +0000 2010	4d126542058fa35d1d91269f	{San Francisco Helicopter Tour}	{37.87870215324009,-122.51303871807355,,,United States}	{}
+87	Wed Dec 22 18:59:22 +0000 2010	4b9ef2c8f964a520410c37e3	{Art of Reflexology  ??}	{37.728267,-122.47707,San Francisco,CA,United States}	{Shop & Service,}
+87	Wed Dec 22 18:56:48 +0000 2010	435c2400f964a52008291fe3	{Stonestown Galleria}	{37.727845937944885,-122.47692242546219,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun Dec 19 22:40:29 +0000 2010	459ac90cf964a52088401fe3	{Trader Joe's}	{37.77097,-122.407654,San Francisco,CA,United States}	{Shop & Service,Food & Drink Shop,}
+87	Sun Dec 19 20:53:01 +0000 2010	4c44d4b9dcd61b8df9e67b56	{Zero Zero}	{37.78167112478022,-122.40177154541016,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Sun Dec 19 05:07:32 +0000 2010	4a05f00af964a5209e721fe3	{Macy's Mens Store}	{37.78683498834927,-122.40621864795685,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+87	Sun Dec 19 04:33:42 +0000 2010	4a283a63f964a520ff941fe3	{Niketown}	{37.788598589799385,-122.40668267011642,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+87	Sun Dec 19 03:56:10 +0000 2010	4ac2ac13f964a520449a20e3	{Louis Vuitton}	{37.787424273323644,-122.406787276268,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+87	Sun Dec 19 02:56:12 +0000 2010	40e0b100f964a520e1091fe3	{Blowfish Sushi to Die For}	{37.75963095,-122.410067,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Thu Dec 16 20:50:30 +0000 2010	4698fe39f964a520f9481fe3	{The Fairmont San Francisco}	{37.79235252013811,-122.41054313133543,San Francisco,CA,United States}	{Nightlife Spot,Travel & Transport,}
+87	Wed Dec 15 05:34:57 +0000 2010	4ab1b3f3f964a520756a20e3	{Porterhouse}	{37.563515,-122.32444213,San Mateo,CA,United States}	{Food,}
+87	Wed Dec 15 01:55:09 +0000 2010	4aab185df964a520e55820e3	{Nordstrom}	{37.537550038862435,-122.30118802425943,San Mateo,CA,United States}	{Shop & Service,Clothing Store,}
+87	Tue Dec 14 00:01:46 +0000 2010	4ad3c5edf964a52040e620e3	{K&L Wine Merchants}	{37.777731506734284,-122.39613927967706,San Francisco,CA,United States}	{Shop & Service,Food & Drink Shop,}
+87	Sun Dec 12 20:37:59 +0000 2010	430e5b80f964a52044271fe3	{Candlestick Park}	{37.7134556467668,-122.3862361907959,San Francisco,CA,United States}	{Stadium,Arts & Entertainment,}
+87	Sat Dec 11 21:08:51 +0000 2010	4b4e3e11f964a5208ee626e3	{Citibank}	{37.77815556716592,-121.97102535776165,San Ramon,CA,United States}	{Shop & Service,}
+87	Sat Dec 11 20:08:47 +0000 2010	4be0880e4f15c9286f8ccb0b	{Diablo Beauty}	{37.812757,-121.997079,Danville,CA,United States}	{Shop & Service,}
+87	Sat Dec 11 19:34:30 +0000 2010	4a038ff7f964a520c8711fe3	{Caldecott Tunnel}	{37.85948930599277,-122.21086263656616,Oakland,CA,United States}	{Travel & Transport,}
+87	Thu Dec 09 04:40:59 +0000 2010	4a676ad5f964a52062c91fe3	{Pizzelle di North Beach}	{37.798063,-122.407046,San Francisco,CA,United States}	{Food,}
+87	Thu Dec 09 01:44:28 +0000 2010	4a88f716f964a520c60720e3	{Straits}	{37.579745180727244,-122.34562754631042,Burlingame,CA,United States}	{Nightlife Spot,Food,}
+87	Sat Dec 04 22:49:41 +0000 2010	4b035646f964a520b54e22e3	{AT&T}	{37.777566910217686,-122.3925232887268,San Francisco,CA,United States}	{Shop & Service,}
+87	Sat Dec 04 03:09:32 +0000 2010	4a41b07ff964a5208aa51fe3	{54 Mint}	{37.782748,-122.407611,San Francisco,CA,United States}	{Food,}
+87	Sat Dec 04 02:23:45 +0000 2010	4d54e1c1b4deb1f7ae5ffe79	{The Metropolitan-North}	{37.78725740262541,-122.39388227626786,San Francisco,CA,United States}	{Professional & Other Places,Residence,}
+87	Thu Dec 02 02:14:29 +0000 2010	4cf700d3eb096ea889b0c848	{Drink Tank}	{37.785872,-122.399418,San Francisco,CA,United States}	{Professional & Other Places,}
+87	Tue Nov 30 02:05:18 +0000 2010	4c3c69957c1ee21e3f7b8c71	{Yahoo Bus Stop - Van Ness & Grove}	{37.778380987421265,-122.41990327835083,San Francisco,CA,United States}	{Travel & Transport,}
+87	Sun Nov 28 06:00:55 +0000 2010	4b2483dbf964a5204d6824e3	{Olive Garden}	{37.647821,-122.106669,Hayward,CA,United States}	{Food,}
+87	Sat Nov 27 21:36:48 +0000 2010	4bcf4fa7462cb7131d76d607	{Just Fabulous}	{33.830458,-116.54702961444855,Palm Springs,CA,United States}	{Shop & Service,}
+87	Sat Nov 27 21:33:15 +0000 2010	4ccc6e53c0378cfa2e8f8648	{Palm springs art festival}	{33.830453,-116.546454,Palm Springs,CA,United States}	{}
+87	Sat Nov 27 21:13:49 +0000 2010	4ba6849ff964a520465a39e3	{Design Within Reach}	{33.83438237775375,-116.54658857436642,Palm Springs,CA,United States}	{Shop & Service,}
+87	Sat Nov 27 21:12:10 +0000 2010	4cc0a651668db60cdcdf0eb4	{John's}	{33.835611433333334,-116.546536,Palm Springs,CA,United States}	{Food,}
+87	Sat Nov 27 18:22:28 +0000 2010	4b77e196f964a52070ad2ee3	{SHAG The Store}	{33.833332,-116.5469,Palm Springs,CA,United States}	{Shop & Service,Arts & Entertainment,}
+87	Sat Nov 27 02:48:58 +0000 2010	4b4e8a16f964a520e3f026e3	{Upper Crust Pizza}	{33.78755234,-116.48136,Cathedral City,CA,United States}	{Food,}
+87	Sat Nov 27 00:57:47 +0000 2010	4bc7582c15a7ef3b113879da	{Raphael's Salon}	{33.82679364573415,-116.54673833911171,Palm Springs,CA,United States}	{Shop & Service,}
+87	Fri Nov 26 22:15:22 +0000 2010	4be5a9a4910020a16646d314	{Pete Carlson's Golf & Tennis}	{33.72081619955176,-116.37833612881391,Palm Desert,CA,United States}	{Outdoors & Recreation,Shop & Service,Athletics & Sports,}
+87	Fri Nov 26 21:51:15 +0000 2010	4b9194dff964a52062c733e3	{Saks Fifth Avenue}	{33.71887228647709,-116.38161024436195,Palm Desert,CA,United States}	{Shop & Service,}
+87	Fri Nov 26 20:20:09 +0000 2010	4bac2f3af964a520c8e93ae3	{Tommy Bahama's Restaurant And Bar}	{33.71956295285229,-116.38067067003615,Palm Desert,CA,United States}	{Nightlife Spot,Shop & Service,Food,}
+87	Fri Nov 26 20:05:14 +0000 2010	4b33f0cff964a520662225e3	{El Paseo Shopping District}	{33.71975531875811,-116.3827630912265,Palm Desert,CA,United States}	{Outdoors & Recreation,Shop & Service,Clothing Store,}
+87	Fri Nov 26 03:31:23 +0000 2010	4b94033ff964a520386134e3	{Coco's Bakery Restaurant}	{33.800954,-116.523574,Palm Springs,CA,United States}	{Food,}
+87	Thu Nov 25 04:14:39 +0000 2010	4af74654f964a520dd0722e3	{Stein Mart}	{33.8045497019749,-116.54640424839222,Palm Springs,CA,United States}	{Shop & Service,Clothing Store,}
+87	Thu Nov 25 02:23:20 +0000 2010	4b9b0a36f964a520ebed35e3	{Cipolline Osteria}	{33.80607514,-116.545411,Palm Springs,CA,United States}	{Food,}
+87	Wed Nov 24 21:09:20 +0000 2010	4c2297d299282d7f796667b0	{Georges Bar & Grill}	{33.81568906,-116.459746,Cathedral City,CA,United States}	{Nightlife Spot,}
+87	Wed Nov 24 03:55:51 +0000 2010	4baa848df964a520d7703ae3	{The Oasis Resort}	{33.796744540424264,-116.50323987007141,Palm Springs,CA,United States}	{Travel & Transport,Hotel,}
+87	Wed Nov 24 02:28:33 +0000 2010	4b08b523f964a520261123e3	{Matchbox Vintage Pizza Bistro}	{33.822076,-116.54714,Palm Springs,CA,United States}	{Food,}
+87	Wed Nov 24 00:12:30 +0000 2010	4bd484574e32d13a7344bf80	{Gucci}	{33.92640611675743,-116.8124029462632,Cabazon,CA,United States}	{Shop & Service,Clothing Store,}
+87	Wed Nov 24 00:08:31 +0000 2010	4b5c9760f964a520873829e3	{Burberry}	{33.92671269146721,-116.81266760039264,Cabazon,CA,United States}	{Shop & Service,}
+87	Tue Nov 23 23:20:00 +0000 2010	4ab03815f964a520826620e3	{Desert Hills Premium Outlets}	{33.93107632263448,-116.81895732879639,Cabazon,CA,United States}	{Shop & Service,Arts & Entertainment,}
+87	Tue Nov 23 20:50:34 +0000 2010	47053daef964a520544b1fe3	{Ontario International Airport (ONT)}	{34.05994816216629,-117.5930643081665,Ontario,CA,United States}	{Travel & Transport,Airport,}
+87	Tue Nov 23 02:08:24 +0000 2010	4ad0ff2bf964a520d3db20e3	{Macy's}	{37.72899801,-122.4768727,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+87	Tue Nov 23 02:06:40 +0000 2010	4a4574cbf964a52033a81fe3	{Nordstrom}	{37.72671495442409,-122.4773148808363,San Francisco,CA,United States}	{Shop & Service,Food,}
+87	Tue Nov 23 02:06:06 +0000 2010	435c2400f964a52008291fe3	{Stonestown Galleria}	{37.727845937944885,-122.47692242546219,San Francisco,CA,United States}	{Shop & Service,}
+87	Mon Nov 22 02:18:57 +0000 2010	43cc2651f964a520cb2d1fe3	{Denny's}	{37.78417747387677,-122.40490683601921,San Francisco,CA,United States}	{Food,}
+87	Mon Nov 22 01:21:16 +0000 2010	4ce96b3f9f776ea82ca06322	{THREAD Show Metreon}	{37.784715,-122.40262146,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun Nov 21 23:02:45 +0000 2010	49fa306ff964a520d56d1fe3	{Polished Lounge}	{37.78156,-122.396402,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun Nov 21 22:33:26 +0000 2010	4b3022dcf964a520b2f624e3	{Bulgari}	{37.787642150073786,-122.40672110340971,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+87	Sun Nov 21 22:07:37 +0000 2010	4a870fc7f964a520650220e3	{Cartier}	{37.788549,-122.406059,San Francisco,CA,United States}	{Shop & Service,}
+87	Sat Nov 20 19:17:07 +0000 2010	4a8c48c6f964a5208e0d20e3	{Noah's Bagels}	{37.79064406039651,-122.39665925502777,San Francisco,CA,United States}	{Food,}
+87	Sat Nov 20 04:47:06 +0000 2010	40e0b100f964a520e1091fe3	{Blowfish Sushi to Die For}	{37.75963095,-122.410067,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Sat Nov 20 03:25:04 +0000 2010	4c72eddd0e23b1f784201fdc	{Twenty Five Lusk}	{37.778436894188054,-122.39444099975675,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Fri Nov 19 17:03:58 +0000 2010	4c334a8b3896e21e63bee990	{W.j. Bradley Mortgage Capital Corp}	{37.596435,-122.38447,Burlingame,CA,United States}	{Professional & Other Places,}
+87	Fri Nov 19 03:24:55 +0000 2010	4b154feef964a52084af23e3	{Maples Pavilion}	{37.42930801035828,-122.1608018875122,Stanford,CA,United States}	{Stadium,College & University,Arts & Entertainment,College Stadium,}
+87	Fri Nov 19 02:17:28 +0000 2010	4a984d7ff964a520642b20e3	{Calafia Caf? & Market A-Go-Go}	{37.43825327613993,-122.15829133987427,Palo Alto,CA,United States}	{Food,}
+87	Thu Nov 18 19:50:12 +0000 2010	4be0880e4f15c9286f8ccb0b	{Diablo Beauty}	{37.812757,-121.997079,Danville,CA,United States}	{Shop & Service,}
+87	Tue Nov 16 02:35:25 +0000 2010	4d54e1c1b4deb1f7ae5ffe79	{The Metropolitan-North}	{37.78725740262541,-122.39388227626786,San Francisco,CA,United States}	{Professional & Other Places,Residence,}
+87	Mon Nov 15 04:12:58 +0000 2010	4ac26c9af964a520179920e3	{Apple Store}	{37.69472590604739,-121.92861914634705,Pleasanton,CA,United States}	{Shop & Service,}
+87	Sun Nov 14 23:37:54 +0000 2010	4ac90686f964a5201bbe20e3	{Cheesecake Factory}	{37.69394865162757,-121.92918094616333,Pleasanton,CA,United States}	{Food,}
+87	Sun Nov 14 03:59:21 +0000 2010	4b6a35caf964a5203fcd2be3	{Rio Grill}	{36.33022841666667,-119.29195013333333,Visalia,CA,United States}	{Food,}
+87	Sun Nov 14 00:26:48 +0000 2010	4cdf2cb0f8cdb1f739119012	{Pet Envy}	{36.340485437173335,-119.34817314147949,Visalia,CA,United States}	{Shop & Service,}
+87	Sat Nov 13 20:32:30 +0000 2010	4bcb70a4fb84c9b645e11e3e	{Tulare Outlet Mall}	{36.22820361050586,-119.33510463282465,Tulare,CA,United States}	{Shop & Service,}
+87	Sat Nov 13 20:31:35 +0000 2010	4bb6af141344b71389f29d04	{Bravo Farms Resturant and Cheese Shoppe}	{36.229194,-119.33582,Tulare,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+87	Sat Nov 13 19:13:57 +0000 2010	4b7ef9a7f964a5209d0d30e3	{The Frosted Muffin}	{36.329839,-119.291273,Visalia,CA,United States}	{Food,}
+87	Sat Nov 13 17:19:48 +0000 2010	4ba5864bf964a520330f39e3	{Me N Eds Pizzeria}	{36.340655,-119.347752,Visalia,CA,United States}	{Food,}
+87	Sat Nov 13 03:40:58 +0000 2010	4ba5864bf964a520330f39e3	{Me N Eds Pizzeria}	{36.340655,-119.347752,Visalia,CA,United States}	{Food,}
+87	Thu Nov 11 03:10:50 +0000 2010	4596e223f964a52075401fe3	{SAP Center at San Jose}	{37.332750471852286,-121.90119624137878,San Jose,CA,United States}	{Stadium,Arts & Entertainment,Professional & Other Places,}
+87	Wed Nov 10 12:13:07 +0000 2010	43a52546f964a520532c1fe3	{John F. Kennedy International Airport (JFK)}	{40.645089355976346,-73.7845230102539,Jamaica,NY,United States}	{Travel & Transport,}
+87	Wed Nov 10 05:00:37 +0000 2010	4ad04456f964a520c7d720e3	{Ritz Bar & Lounge}	{40.760871,-73.990166,New York,NY,United States}	{Nightlife Spot,}
+87	Wed Nov 10 04:24:04 +0000 2010	49c9947df964a5207f581fe3	{Gilt}	{40.75806375333471,-73.97545293971743,New York,NY,United States}	{Nightlife Spot,Food,}
+87	Wed Nov 10 01:03:16 +0000 2010	49c9947df964a5207f581fe3	{Gilt}	{40.75806375333471,-73.97545293971743,New York,NY,United States}	{Nightlife Spot,Food,}
+87	Tue Nov 09 20:39:08 +0000 2010	4cd941b953a7f04dd6236716	{PRWeek NEXT Conference - Sheraton New York}	{40.762154,-73.983269,New York,NY,United States}	{}
+87	Tue Nov 09 01:10:00 +0000 2010	425f0400f964a52007211fe3	{Cuba}	{40.7292,-73.999,New York,NY,United States}	{Food,}
+87	Mon Nov 08 20:31:20 +0000 2010	49c07449f964a52066551fe3	{Late Night with Jimmy Fallon}	{40.75878976870315,-73.97929254081083,New York,NY,United States}	{Music Venue,Arts & Entertainment,}
+87	Mon Nov 08 20:15:49 +0000 2010	4a9c58faf964a520e13620e3	{NBCUniversal}	{40.75911137894531,-73.97954506794183,New York,NY,United States}	{Arts & Entertainment,Office,Professional & Other Places,}
+87	Mon Nov 08 01:20:00 +0000 2010	49f683f1f964a5204b6c1fe3	{STK}	{40.74005458788507,-74.00715460988235,New York,NY,United States}	{Food,}
+87	Sun Nov 07 20:13:08 +0000 2010	4a50f871f964a52059b01fe3	{Nike Sportswear}	{40.72078651935595,-74.00197505950928,New York,NY,United States}	{Shop & Service,Clothing Store,}
+87	Sun Nov 07 19:54:18 +0000 2010	4a8866f8f964a5203f0620e3	{Molton Brown}	{40.72386,-74.000491,New York,NY,United States}	{Shop & Service,}
+87	Sun Nov 07 19:44:47 +0000 2010	4ac6801cf964a520b0b420e3	{Vosges Haut Chocolat}	{40.723811316647875,-74.00081634521484,New York,NY,United States}	{Shop & Service,}
+87	Sun Nov 07 19:35:20 +0000 2010	4cc342e69141370421a1ba55	{Dash NYC}	{40.723742,-74.000307,New York,NY,United States}	{Shop & Service,Clothing Store,}
+87	Sun Nov 07 16:41:56 +0000 2010	4b4419b5f964a52074f125e3	{Brasserie Beaumarchais}	{40.740510276198904,-74.00658845901489,New York,NY,United States}	{Food,}
+87	Sun Nov 07 16:38:05 +0000 2010	4b785110f964a520c0c42ee3	{Mr. Brainwash ICONS Remix Show}	{40.74068,-74.006861,New York,NY,United States}	{Arts & Entertainment,}
+87	Sun Nov 07 05:42:15 +0000 2010	4cc6f427c844721ee69bf701	{The Setai Fifth Avenue}	{40.74999608478493,-73.9836072921753,New York,NY,United States}	{Travel & Transport,}
+87	Sun Nov 07 01:17:28 +0000 2010	42f7f200f964a520d3261fe3	{Bar Americain}	{40.76201600107077,-73.98174047470093,New York,NY,United States}	{Food,}
+87	Sat Nov 06 21:59:31 +0000 2010	4a676435f964a52054c91fe3	{Niketown}	{40.7627924500712,-73.97331788174071,New York,NY,United States}	{Shop & Service,Clothing Store,}
+87	Sat Nov 06 20:57:53 +0000 2010	4aa978eef964a520d65320e3	{Henri Bendel}	{40.76226344925454,-73.97466090484474,New York,NY,United States}	{Shop & Service,Clothing Store,}
+87	Sat Nov 06 17:08:43 +0000 2010	4b2c263ef964a520abc224e3	{salon de tokyo}	{40.765633678419434,-73.97995255420375,New York,NY,United States}	{Food,}
+87	Sat Nov 06 01:59:50 +0000 2010	4a50f449f964a5204fb01fe3	{Sheraton New York Times Square Hotel}	{40.7625685886431,-73.9822769165039,New York,NY,United States}	{Travel & Transport,}
+87	Fri Nov 05 15:53:41 +0000 2010	41f19780f964a520101f1fe3	{Per Se}	{40.767971179283705,-73.98171449190069,New York,NY,United States}	{Food,}
+87	Fri Nov 05 12:07:45 +0000 2010	43a52546f964a520532c1fe3	{John F. Kennedy International Airport (JFK)}	{40.645089355976346,-73.7845230102539,Jamaica,NY,United States}	{Travel & Transport,}
+87	Wed Nov 03 22:26:03 +0000 2010	4c334a8b3896e21e63bee990	{W.j. Bradley Mortgage Capital Corp}	{37.596435,-122.38447,Burlingame,CA,United States}	{Professional & Other Places,}
+87	Wed Nov 03 04:34:39 +0000 2010	4aebd409f964a520e9c421e3	{Ozumo Japanese Restaurant}	{37.79274675167591,-122.39218395993066,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Wed Nov 03 02:08:39 +0000 2010	49f4e0c2f964a520656b1fe3	{YMCA - Embarcadero}	{37.79274308042362,-122.39215076780745,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+87	Tue Nov 02 04:23:59 +0000 2010	4cafe99feb65b1f7660768cd	{Brian Wilson's Beard}	{37.77834706771675,-122.38949775695801,San Francisco,CA,United States}	{Stadium,Shop & Service,Outdoors & Recreation,Arts & Entertainment,Athletics & Sports,}
+87	Mon Nov 01 17:16:37 +0000 2010	4c334a8b3896e21e63bee990	{W.j. Bradley Mortgage Capital Corp}	{37.596435,-122.38447,Burlingame,CA,United States}	{Professional & Other Places,}
+87	Sun Oct 31 22:09:15 +0000 2010	513e805ae4b05b7b6b66ef40	{Betelnut}	{37.79762194655044,-122.43258759950041,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Sun Oct 31 21:21:32 +0000 2010	4c104773f1b6a59337be7b27	{Le Marcel Dog Bakery}	{37.797446902389666,-122.43327883383529,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun Oct 31 09:31:50 +0000 2010	4d54e1c1b4deb1f7ae5ffe79	{The Metropolitan-North}	{37.78725740262541,-122.39388227626786,San Francisco,CA,United States}	{Professional & Other Places,Residence,}
+87	Sun Oct 31 06:35:45 +0000 2010	3fd66200f964a520aeec1ee3	{Ruby Skye}	{37.787429012530836,-122.40986700099887,San Francisco,CA,United States}	{Nightlife Spot,}
+87	Sat Oct 30 22:18:37 +0000 2010	4ab57ffcf964a520007520e3	{Kara's Cupcakes}	{37.799772739862284,-122.44100689888,San Francisco,CA,United States}	{Food,}
+87	Sat Oct 30 21:08:55 +0000 2010	4ad12499f964a5200add20e3	{Patxi's Chicago Pizza}	{37.8002835,-122.43594656666667,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Sat Oct 30 04:30:40 +0000 2010	4aa46a42f964a520bd4620e3	{Local Kitchen & Wine Merchant}	{37.78690159989067,-122.3941478085928,San Francisco,CA,United States}	{Food,}
+87	Sat Oct 30 01:44:30 +0000 2010	4b8c7388f964a52075d132e3	{W San Francisco Lobby Bar}	{37.785048,-122.400499,San Francisco,CA,United States}	{Nightlife Spot,}
+87	Thu Oct 28 23:37:39 +0000 2010	4bd2177d046076b055357371	{AT&T Park}	{37.77833858778822,-122.38940119743347,San Francisco,CA,United States}	{Stadium,Arts & Entertainment,}
+87	Mon Oct 25 14:52:29 +0000 2010	4c334a8b3896e21e63bee990	{W.j. Bradley Mortgage Capital Corp}	{37.596435,-122.38447,Burlingame,CA,United States}	{Professional & Other Places,}
+87	Sun Oct 24 23:19:05 +0000 2010	4d54e1c1b4deb1f7ae5ffe79	{The Metropolitan-North}	{37.78725740262541,-122.39388227626786,San Francisco,CA,United States}	{Professional & Other Places,Residence,}
+87	Sun Oct 24 19:07:56 +0000 2010	4a677f82f964a52091c91fe3	{Las Vegas McCarran International Airport (LAS)}	{36.08365019548198,-115.14985084533691,Las Vegas,NV,United States}	{Travel & Transport,}
+87	Sun Oct 24 09:27:16 +0000 2010	49de9a63f964a52088601fe3	{Encore Las Vegas}	{36.129018986874925,-115.16491413116455,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+87	Sun Oct 24 01:39:58 +0000 2010	4af8ef86f964a5209b1022e3	{Koi}	{36.11022974327833,-115.17240285873413,Las Vegas,NV,United States}	{Food,}
+87	Sat Oct 23 22:24:42 +0000 2010	49de9a63f964a52088601fe3	{Encore Las Vegas}	{36.129018986874925,-115.16491413116455,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+87	Sat Oct 23 21:32:56 +0000 2010	4ace3aacf964a5203acf20e3	{Burger Joint}	{36.116244870508304,-115.17148017883301,Las Vegas,NV,United States}	{Food,}
+87	Sat Oct 23 01:56:33 +0000 2010	4b30254ff964a520ddf624e3	{Wynn Theater}	{36.12769570931623,-115.16556851561386,Las Vegas,NV,United States}	{Performing Arts Venue,Arts & Entertainment,}
+87	Fri Oct 22 06:39:02 +0000 2010	49de89e2f964a52072601fe3	{Tryst Night Club}	{36.12682197042906,-115.16714299254171,Las Vegas,NV,United States}	{Nightlife Spot,}
+87	Fri Oct 22 04:21:26 +0000 2010	4b23ec6cf964a520035d24e3	{Tableau}	{36.12581349652107,-115.16516900335257,Las Vegas,NV,United States}	{Food,}
+87	Thu Oct 21 21:48:40 +0000 2010	49de9a63f964a52088601fe3	{Encore Las Vegas}	{36.129018986874925,-115.16491413116455,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+87	Thu Oct 21 17:23:41 +0000 2010	4a677f82f964a52091c91fe3	{Las Vegas McCarran International Airport (LAS)}	{36.08365019548198,-115.14985084533691,Las Vegas,NV,United States}	{Travel & Transport,}
+87	Thu Oct 21 17:21:02 +0000 2010	4a677f82f964a52091c91fe3	{Las Vegas McCarran International Airport (LAS)}	{36.08365019548198,-115.14985084533691,Las Vegas,NV,United States}	{Travel & Transport,}
+87	Sun Oct 17 02:32:26 +0000 2010	4aa4190df964a520444520e3	{Buena Vista Carneros Winery}	{38.298525412629544,-122.42434501647949,Sonoma,CA,United States}	{Nightlife Spot,Outdoors & Recreation,Food,}
+87	Sat Oct 16 19:52:14 +0000 2010	4b7b2219f964a52068532fe3	{Three Dog Bakery}	{38.291363,-122.457858,Sonoma,CA,United States}	{Shop & Service,}
+87	Sat Oct 16 19:34:35 +0000 2010	4a9b0213f964a520f83320e3	{Sonoma Wine Shop}	{38.293221248453605,-122.45643531401514,Sonoma,CA,United States}	{Nightlife Spot,}
+87	Sat Oct 16 19:16:21 +0000 2010	4a636eacf964a52002c51fe3	{Mary's Pizza Shack}	{38.29392075,-122.457735,Sonoma,CA,United States}	{Food,}
+87	Sat Oct 16 01:17:23 +0000 2010	4b1061d7f964a520316f23e3	{The Red Grape}	{38.29172488,-122.45924592018127,Sonoma,CA,United States}	{Food,}
+87	Sat Oct 16 01:12:30 +0000 2010	4b1061d7f964a520316f23e3	{The Red Grape}	{38.29172488,-122.45924592018127,Sonoma,CA,United States}	{Food,}
+87	Sat Oct 16 00:17:36 +0000 2010	4aa4190df964a520444520e3	{Buena Vista Carneros Winery}	{38.298525412629544,-122.42434501647949,Sonoma,CA,United States}	{Nightlife Spot,Outdoors & Recreation,Food,}
+87	Fri Oct 15 22:23:13 +0000 2010	4b37d963f964a520684725e3	{Taqueria La Hacienda}	{38.315351,-122.482496,Sonoma,CA,United States}	{Food,}
+87	Fri Oct 15 16:02:47 +0000 2010	4b564d86f964a520260a28e3	{Waffle Mania}	{37.78655518232762,-122.39735126495361,San Francisco,CA,United States}	{Food,}
+87	Fri Oct 15 01:38:56 +0000 2010	43f8404cf964a520c22f1fe3	{Macy's}	{37.78755853482698,-122.40750653872762,San Francisco,CA,United States}	{Shop & Service,}
+87	Wed Oct 13 05:30:31 +0000 2010	4738d6a2f964a5204b4c1fe3	{Tommy Toy's}	{37.79531311782531,-122.4035073949694,San Francisco,CA,United States}	{Food,}
+87	Sun Oct 10 22:41:31 +0000 2010	49d3cecef964a520195c1fe3	{Miette Patisserie}	{37.776331536905865,-122.42443069035052,San Francisco,CA,United States}	{Shop & Service,Food,}
+87	Sun Oct 10 22:00:59 +0000 2010	4460d5bbf964a5200c331fe3	{Upper Playground}	{37.77157038029349,-122.43023736868503,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+87	Sun Oct 10 21:04:14 +0000 2010	3fd66200f964a5205aed1ee3	{Orbit Room Cafe}	{37.770705,-122.425144,San Francisco,CA,United States}	{Nightlife Spot,}
+87	Sun Oct 10 19:03:23 +0000 2010	4cb20d80ef1b3704ba454800	{Passport SF 2010}	{37.776546,-122.424552,San Francisco,CA,United States}	{Arts & Entertainment,}
+87	Sun Oct 10 18:13:49 +0000 2010	466299c2f964a5206b471fe3	{Stacks}	{37.77657923955352,-122.42464637272006,San Francisco,CA,United States}	{Food,}
+87	Sun Oct 10 17:06:46 +0000 2010	4b09762ef964a520a41723e3	{Tan Bella}	{37.77687496260611,-122.39327929412565,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun Oct 10 00:58:54 +0000 2010	4a1e3c8af964a520c47b1fe3	{The Mindful Body}	{37.78798968001725,-122.44173917284373,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+87	Sat Oct 09 03:01:36 +0000 2010	4a4d1bc6f964a5208dad1fe3	{John Bentley's}	{37.469039,-122.211105,Redwood City,CA,United States}	{Food,}
+87	Thu Oct 07 02:39:29 +0000 2010	4c44d4b9dcd61b8df9e67b56	{Zero Zero}	{37.78167112478022,-122.40177154541016,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Wed Oct 06 14:57:00 +0000 2010	4aeb4fc8f964a520c2c021e3	{Java Detour}	{37.770397466666665,-122.41810886666667,San Francisco,CA,United States}	{Food,}
+87	Wed Oct 06 06:03:25 +0000 2010	4d54e1c1b4deb1f7ae5ffe79	{The Metropolitan-North}	{37.78725740262541,-122.39388227626786,San Francisco,CA,United States}	{Professional & Other Places,Residence,}
+87	Sun Oct 03 04:29:18 +0000 2010	47d7bd0af964a520244e1fe3	{Orson Restaurant, Bar & Lounge}	{37.779319,-122.398053,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Sun Oct 03 00:23:41 +0000 2010	4bacd010f964a5204a0e3be3	{Public House}	{37.778063700597336,-122.39145373080255,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Sat Oct 02 20:39:15 +0000 2010	4bd2177d046076b055357371	{AT&T Park}	{37.77833858778822,-122.38940119743347,San Francisco,CA,United States}	{Stadium,Arts & Entertainment,}
+87	Sat Oct 02 20:12:39 +0000 2010	4bacd010f964a5204a0e3be3	{Public House}	{37.778063700597336,-122.39145373080255,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Sat Oct 02 19:17:19 +0000 2010	4c7d294b5af8b60cb3ae8e10	{Giants Dugout Store - Lefty O'Doul Plaza}	{37.777609310293336,-122.39076375961304,San Francisco,CA,United States}	{Stadium,Shop & Service,Arts & Entertainment,}
+87	Sat Oct 02 17:07:18 +0000 2010	49fa306ff964a520d56d1fe3	{Polished Lounge}	{37.78156,-122.396402,San Francisco,CA,United States}	{Shop & Service,}
+87	Sat Oct 02 16:55:18 +0000 2010	4abbda54f964a520388520e3	{Clothespin Cleaners}	{37.778021,-122.393914,San Francisco,CA,United States}	{Shop & Service,}
+87	Sat Oct 02 02:42:09 +0000 2010	4a011045f964a520d5701fe3	{5A5 Steak Lounge}	{37.79672926555357,-122.40023732185364,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Thu Sep 30 17:39:51 +0000 2010	4b8af023f964a5203f8a32e3	{Porsche of Livermore}	{37.70022096666667,-121.762015,Livermore,CA,United States}	{}
+87	Thu Sep 30 02:33:12 +0000 2010	4aa46a42f964a520bd4620e3	{Local Kitchen & Wine Merchant}	{37.78690159989067,-122.3941478085928,San Francisco,CA,United States}	{Food,}
+87	Sun Sep 26 21:33:25 +0000 2010	4a9c4b68f964a520b83620e3	{Bay Club at the Gateway}	{37.797157394170185,-122.39676117897034,San Francisco,CA,United States}	{Shop & Service,Outdoors & Recreation,Athletics & Sports,}
+87	Sun Sep 26 20:06:02 +0000 2010	49ef6148f964a520ab681fe3	{MarketBar}	{37.79481325362357,-122.39297389984131,San Francisco,CA,United States}	{Food,}
+87	Sun Sep 26 19:59:42 +0000 2010	49ef6148f964a520ab681fe3	{MarketBar}	{37.79481325362357,-122.39297389984131,San Francisco,CA,United States}	{Food,}
+87	Sun Sep 26 19:57:32 +0000 2010	43067280f964a52023271fe3	{Ferry Building}	{37.795427908882,-122.39362835884094,San Francisco,CA,United States}	{Shop & Service,Government Building,Food & Drink Shop,Professional & Other Places,}
+87	Sun Sep 26 02:39:43 +0000 2010	4aa46a42f964a520bd4620e3	{Local Kitchen & Wine Merchant}	{37.78690159989067,-122.3941478085928,San Francisco,CA,United States}	{Food,}
+87	Sun Sep 26 00:47:59 +0000 2010	4bb7fa1653649c74b99546fb	{Fort Mason Herbst Pavillion}	{37.807410545108375,-122.43121147155762,San Francisco,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+87	Sat Sep 25 19:08:53 +0000 2010	4b1d43b1f964a520de0d24e3	{Big O Tires}	{37.780337,-122.40921336,San Francisco,CA,United States}	{Shop & Service,}
+87	Sat Sep 25 18:44:15 +0000 2010	4a64c722f964a520abc61fe3	{Martha & Bros. Coffee - Inner Richmond}	{37.783147,-122.461327,San Francisco,CA,United States}	{Food,}
+87	Sat Sep 25 17:30:10 +0000 2010	3fd66200f964a520d1ec1ee3	{Q Restaurant}	{37.78308196698057,-122.46164868618037,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Sat Sep 25 17:04:34 +0000 2010	4abbda54f964a520388520e3	{Clothespin Cleaners}	{37.778021,-122.393914,San Francisco,CA,United States}	{Shop & Service,}
+87	Thu Sep 23 05:01:54 +0000 2010	4d54e1c1b4deb1f7ae5ffe79	{The Metropolitan-North}	{37.78725740262541,-122.39388227626786,San Francisco,CA,United States}	{Professional & Other Places,Residence,}
+87	Tue Sep 21 02:02:22 +0000 2010	4d54e1c1b4deb1f7ae5ffe79	{The Metropolitan-North}	{37.78725740262541,-122.39388227626786,San Francisco,CA,United States}	{Professional & Other Places,Residence,}
+87	Sun Sep 19 23:38:43 +0000 2010	4b9ef2c8f964a520410c37e3	{Art of Reflexology  ??}	{37.728267,-122.47707,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun Sep 19 23:35:31 +0000 2010	4ad0ff2bf964a520d3db20e3	{Macy's}	{37.72899801,-122.4768727,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+87	Sun Sep 19 23:04:57 +0000 2010	4b037087f964a520684f22e3	{Sephora}	{37.72766953193104,-122.47697770095623,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun Sep 19 22:59:32 +0000 2010	4a4574cbf964a52033a81fe3	{Nordstrom}	{37.72671495442409,-122.4773148808363,San Francisco,CA,United States}	{Shop & Service,Food,}
+87	Sun Sep 19 06:36:10 +0000 2010	4aa46a42f964a520bd4620e3	{Local Kitchen & Wine Merchant}	{37.78690159989067,-122.3941478085928,San Francisco,CA,United States}	{Food,}
+87	Sun Sep 19 03:24:37 +0000 2010	4bacd010f964a5204a0e3be3	{Public House}	{37.778063700597336,-122.39145373080255,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Sat Sep 18 22:43:37 +0000 2010	4d54e1c1b4deb1f7ae5ffe79	{The Metropolitan-North}	{37.78725740262541,-122.39388227626786,San Francisco,CA,United States}	{Professional & Other Places,Residence,}
+87	Sat Sep 18 19:16:34 +0000 2010	4bd1e1f1a8b3a593bb9e665f	{The American Grilled Cheese Kitchen}	{37.78241695,-122.392824,San Francisco,CA,United States}	{Food,}
+87	Sat Sep 18 18:52:10 +0000 2010	49fa306ff964a520d56d1fe3	{Polished Lounge}	{37.78156,-122.396402,San Francisco,CA,United States}	{Shop & Service,}
+87	Sat Sep 18 17:51:51 +0000 2010	4b09762ef964a520a41723e3	{Tan Bella}	{37.77687496260611,-122.39327929412565,San Francisco,CA,United States}	{Shop & Service,}
+87	Sat Sep 18 02:14:14 +0000 2010	43cc2651f964a520cb2d1fe3	{Denny's}	{37.78417747387677,-122.40490683601921,San Francisco,CA,United States}	{Food,}
+87	Fri Sep 17 01:28:16 +0000 2010	4c3c69957c1ee21e3f7b8c71	{Yahoo Bus Stop - Van Ness & Grove}	{37.778380987421265,-122.41990327835083,San Francisco,CA,United States}	{Travel & Transport,}
+87	Thu Sep 16 14:34:23 +0000 2010	4c65dc2fe1da1b8d9e8c99c3	{101 Freeway South}	{37.720521,-122.400072,San Francisco,CA,United States}	{Travel & Transport,}
+87	Thu Sep 16 00:59:53 +0000 2010	4c3c69957c1ee21e3f7b8c71	{Yahoo Bus Stop - Van Ness & Grove}	{37.778380987421265,-122.41990327835083,San Francisco,CA,United States}	{Travel & Transport,}
+87	Wed Sep 15 21:46:53 +0000 2010	4a8b6db5f964a520700c20e3	{Blush Organic Frozen Yogurt}	{37.77743122981216,-122.39280223846436,San Francisco,CA,United States}	{Food,}
+87	Wed Sep 15 21:40:07 +0000 2010	4a663eb7f964a52043c81fe3	{Furry Tales}	{37.776828,-122.393467,San Francisco,CA,United States}	{Shop & Service,}
+87	Wed Sep 15 14:32:55 +0000 2010	4aeb4fc8f964a520c2c021e3	{Java Detour}	{37.770397466666665,-122.41810886666667,San Francisco,CA,United States}	{Food,}
+87	Wed Sep 15 14:25:57 +0000 2010	4babf4aff964a520fed83ae3	{Chevron}	{37.771974232077106,-122.41883385442937,San Francisco,CA,United States}	{Shop & Service,}
+87	Wed Sep 15 01:09:39 +0000 2010	4c3c69957c1ee21e3f7b8c71	{Yahoo Bus Stop - Van Ness & Grove}	{37.778380987421265,-122.41990327835083,San Francisco,CA,United States}	{Travel & Transport,}
+87	Sat Sep 11 21:44:13 +0000 2010	43067280f964a52023271fe3	{Ferry Building}	{37.795427908882,-122.39362835884094,San Francisco,CA,United States}	{Shop & Service,Government Building,Food & Drink Shop,Professional & Other Places,}
+87	Sat Sep 11 03:14:14 +0000 2010	4d54e1c1b4deb1f7ae5ffe79	{The Metropolitan-North}	{37.78725740262541,-122.39388227626786,San Francisco,CA,United States}	{Professional & Other Places,Residence,}
+87	Thu Sep 09 23:37:17 +0000 2010	4be0880e4f15c9286f8ccb0b	{Diablo Beauty}	{37.812757,-121.997079,Danville,CA,United States}	{Shop & Service,}
+87	Tue Sep 07 14:25:46 +0000 2010	4aeb4fc8f964a520c2c021e3	{Java Detour}	{37.770397466666665,-122.41810886666667,San Francisco,CA,United States}	{Food,}
+87	Tue Sep 07 01:21:05 +0000 2010	4d54e1c1b4deb1f7ae5ffe79	{The Metropolitan-North}	{37.78725740262541,-122.39388227626786,San Francisco,CA,United States}	{Professional & Other Places,Residence,}
+87	Tue Sep 07 01:20:41 +0000 2010	4bb25a0f35f0c9b6e228bb83	{Central Embarcadero Piers}	{37.79720402188947,-122.39546298980713,San Francisco,CA,United States}	{Outdoors & Recreation,}
+87	Mon Sep 06 01:46:03 +0000 2010	4a7e4593f964a520a8f11fe3	{Benihana}	{37.785385072940564,-122.43060529232025,San Francisco,CA,United States}	{Food,}
+87	Mon Sep 06 01:31:00 +0000 2010	4a073416f964a52035731fe3	{Illest (Fatlace)}	{37.78566780230134,-122.428705542844,San Francisco,CA,United States}	{Shop & Service,}
+87	Mon Sep 06 00:35:13 +0000 2010	4b09762ef964a520a41723e3	{Tan Bella}	{37.77687496260611,-122.39327929412565,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun Sep 05 21:53:41 +0000 2010	4a635294f964a520bfc41fe3	{Allyne Park}	{37.79738891514586,-122.42749997464941,San Francisco,CA,United States}	{Outdoors & Recreation,}
+87	Sun Sep 05 18:53:20 +0000 2010	43945018f964a5207f2b1fe3	{Costco}	{37.77060725105887,-122.41079202847862,San Francisco,CA,United States}	{Shop & Service,Food & Drink Shop,}
+87	Sun Sep 05 18:09:26 +0000 2010	45213fc3f964a520be3a1fe3	{Tower Car Wash}	{37.77218785171307,-122.41875642575323,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun Sep 05 17:39:01 +0000 2010	4a10a79bf964a520ed761fe3	{Perry's}	{37.792861,-122.392363,San Francisco,CA,United States}	{Food,}
+87	Sun Sep 05 07:43:42 +0000 2010	4d54e1c1b4deb1f7ae5ffe79	{The Metropolitan-North}	{37.78725740262541,-122.39388227626786,San Francisco,CA,United States}	{Professional & Other Places,Residence,}
+87	Sun Sep 05 06:14:58 +0000 2010	4b0e35f3f964a520f75523e3	{Manor West}	{37.781815,-122.398757,San Francisco,CA,United States}	{Nightlife Spot,}
+87	Sun Sep 05 04:00:04 +0000 2010	49c52a15f964a520e4561fe3	{Ponzu}	{37.7860363,-122.411403,San Francisco,CA,United States}	{Nightlife Spot,}
+87	Sun Sep 05 03:40:33 +0000 2010	42911d00f964a52000241fe3	{Redwood Room}	{37.78676743395702,-122.41129098769498,San Francisco,CA,United States}	{Nightlife Spot,}
+87	Sat Sep 04 23:49:54 +0000 2010	455ad6e0f964a520583d1fe3	{Target}	{37.76213166725632,-121.96424961090088,San Ramon,CA,United States}	{Shop & Service,}
+87	Sat Sep 04 23:18:08 +0000 2010	4b91dd04f964a52042dc33e3	{76}	{37.7764952064247,-121.97808395307933,San Ramon,CA,United States}	{Shop & Service,}
+87	Sat Sep 04 22:55:45 +0000 2010	4a876ba0f964a5204c0420e3	{Sponges Car Wash}	{37.782051,-121.97006,San Ramon,CA,United States}	{Shop & Service,}
+87	Sat Sep 04 21:11:19 +0000 2010	46d716fdf964a5206d4a1fe3	{The Old Spaghetti Factory}	{37.97693709837447,-122.03464733123342,Concord,CA,United States}	{Food,}
+87	Sat Sep 04 20:32:38 +0000 2010	4abbda54f964a520388520e3	{Clothespin Cleaners}	{37.778021,-122.393914,San Francisco,CA,United States}	{Shop & Service,}
+87	Sat Sep 04 05:42:31 +0000 2010	4d54e1c1b4deb1f7ae5ffe79	{The Metropolitan-North}	{37.78725740262541,-122.39388227626786,San Francisco,CA,United States}	{Professional & Other Places,Residence,}
+87	Sat Sep 04 04:45:00 +0000 2010	45487bc1f964a520833c1fe3	{Buena Vista Cafe}	{37.8067038513606,-122.42074743071228,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Sat Sep 04 04:40:05 +0000 2010	4bcb3bdd3740b71361046265	{Electric Tour Company - Segway & Electric Bike Tours}	{37.806347,-122.421212,San Francisco,CA,United States}	{Travel & Transport,Arts & Entertainment,}
+87	Sat Sep 04 02:16:29 +0000 2010	4bcb3bdd3740b71361046265	{Electric Tour Company - Segway & Electric Bike Tours}	{37.806347,-122.421212,San Francisco,CA,United States}	{Travel & Transport,Arts & Entertainment,}
+87	Fri Sep 03 01:46:59 +0000 2010	430e5b80f964a52044271fe3	{Candlestick Park}	{37.7134556467668,-122.3862361907959,San Francisco,CA,United States}	{Stadium,Arts & Entertainment,}
+87	Tue Aug 31 15:34:58 +0000 2010	4c334a8b3896e21e63bee990	{W.j. Bradley Mortgage Capital Corp}	{37.596435,-122.38447,Burlingame,CA,United States}	{Professional & Other Places,}
+87	Mon Aug 30 00:58:38 +0000 2010	4d54e1c1b4deb1f7ae5ffe79	{The Metropolitan-North}	{37.78725740262541,-122.39388227626786,San Francisco,CA,United States}	{Professional & Other Places,Residence,}
+87	Mon Aug 30 00:03:28 +0000 2010	4b09762ef964a520a41723e3	{Tan Bella}	{37.77687496260611,-122.39327929412565,San Francisco,CA,United States}	{Shop & Service,}
+87	Sat Aug 28 21:00:00 +0000 2010	49fa306ff964a520d56d1fe3	{Polished Lounge}	{37.78156,-122.396402,San Francisco,CA,United States}	{Shop & Service,}
+87	Sat Aug 28 02:25:48 +0000 2010	4a33f31df964a5207a9b1fe3	{Murray Circle}	{37.83738616769641,-122.47875094413757,San Francisco,CA,United States}	{Food,}
+87	Sat Aug 28 01:47:45 +0000 2010	4bddeed8ffdec928ee02e7a1	{Farley Bar}	{37.83724212398858,-122.4790620803833,Sausalito,CA,United States}	{Nightlife Spot,Food,}
+87	Sat Aug 28 00:54:35 +0000 2010	49f4f937f964a5207f6b1fe3	{Cavallo Point}	{37.837174338616975,-122.47863292694092,Sausalito,CA,United States}	{Travel & Transport,Food,Professional & Other Places,}
+87	Thu Aug 26 14:47:18 +0000 2010	4c334a8b3896e21e63bee990	{W.j. Bradley Mortgage Capital Corp}	{37.596435,-122.38447,Burlingame,CA,United States}	{Professional & Other Places,}
+87	Thu Aug 26 01:51:08 +0000 2010	48790b1df964a5201b511fe3	{Sleep Train Pavilion}	{37.95935959618859,-121.93862552183909,Concord,CA,United States}	{Arts & Entertainment,}
+87	Wed Aug 25 03:15:49 +0000 2010	4a5e7aa7f964a520a1be1fe3	{Shell}	{37.780642,-122.39479581,San Francisco,CA,United States}	{Shop & Service,}
+87	Mon Aug 23 01:16:30 +0000 2010	4d54e1c1b4deb1f7ae5ffe79	{The Metropolitan-North}	{37.78725740262541,-122.39388227626786,San Francisco,CA,United States}	{Professional & Other Places,Residence,}
+87	Sun Aug 22 06:14:30 +0000 2010	4d54e1c1b4deb1f7ae5ffe79	{The Metropolitan-North}	{37.78725740262541,-122.39388227626786,San Francisco,CA,United States}	{Professional & Other Places,Residence,}
+87	Sun Aug 22 00:31:18 +0000 2010	4ad0ff2bf964a520d3db20e3	{Macy's}	{37.72899801,-122.4768727,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+87	Sat Aug 21 23:21:34 +0000 2010	4b9ef2c8f964a520410c37e3	{Art of Reflexology  ??}	{37.728267,-122.47707,San Francisco,CA,United States}	{Shop & Service,}
+87	Sat Aug 21 22:58:07 +0000 2010	435c2400f964a52008291fe3	{Stonestown Galleria}	{37.727845937944885,-122.47692242546219,San Francisco,CA,United States}	{Shop & Service,}
+87	Sat Aug 21 22:23:41 +0000 2010	49f50f7af964a5208c6b1fe3	{Target}	{37.67363920688155,-122.46474981307983,Colma,CA,United States}	{Shop & Service,}
+87	Wed Aug 18 01:53:16 +0000 2010	4c69f1670e98a593dfee2559	{Lady Gaga}	{37.33205512,-121.90246760845184,San Jose,CA,United States}	{Arts & Entertainment,}
+87	Tue Aug 17 14:41:45 +0000 2010	4c51b339375c0f4748686c94	{Highway 101}	{37.73518860406733,-122.40670680999756,San Francisco,CA,United States}	{Travel & Transport,}
+87	Tue Aug 17 06:54:59 +0000 2010	4d54e1c1b4deb1f7ae5ffe79	{The Metropolitan-North}	{37.78725740262541,-122.39388227626786,San Francisco,CA,United States}	{Professional & Other Places,Residence,}
+87	Mon Aug 16 20:57:27 +0000 2010	4bded060e75c0f4799dbc803	{Wells Fargo Advisors}	{38.63196946398142,-90.21734254351652,Saint Louis,MO,United States}	{Professional & Other Places,}
+87	Mon Aug 16 05:21:29 +0000 2010	4b0ff2aff964a520a36623e3	{Four Seasons Hotel}	{38.63393588292127,-90.18389225006104,Saint Louis,MO,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+87	Mon Aug 16 00:22:22 +0000 2010	449e9fb9f964a520c0341fe3	{Phoenix Sky Harbor International Airport (PHX)}	{33.43562440517176,-112.00306606318918,Phoenix,AZ,United States}	{Travel & Transport,}
+87	Sat Aug 14 18:49:48 +0000 2010	4b96a628f964a5205fdb34e3	{Vintage Press Restaurante}	{36.331357,-119.29746025,Visalia,CA,United States}	{Food,}
+87	Sat Aug 14 17:46:32 +0000 2010	4b9e8809f964a5206cec36e3	{Best Buy}	{36.29168504,-119.312194,Visalia,CA,United States}	{Shop & Service,}
+87	Sun Aug 08 22:02:37 +0000 2010	4d54e1c1b4deb1f7ae5ffe79	{The Metropolitan-North}	{37.78725740262541,-122.39388227626786,San Francisco,CA,United States}	{Professional & Other Places,Residence,}
+87	Sun Aug 08 19:34:28 +0000 2010	49fa306ff964a520d56d1fe3	{Polished Lounge}	{37.78156,-122.396402,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun Aug 08 03:14:21 +0000 2010	430d0a00f964a5203b271fe3	{Mountain Winery}	{37.260183994673426,-122.06438296801328,Saratoga,CA,United States}	{Food,Arts & Entertainment,}
+87	Sat Aug 07 22:17:07 +0000 2010	4ad25642f964a520fde020e3	{Always Tan Skin & Body}	{37.760128,-122.43513758,San Francisco,CA,United States}	{Shop & Service,}
+87	Thu Aug 05 02:37:45 +0000 2010	4b155053f964a5205fb023e3	{San Jose Municipal Stadium}	{37.321062384766684,-121.86216875910759,San Jose,CA,United States}	{Outdoors & Recreation,Stadium,Arts & Entertainment,Athletics & Sports,}
+87	Mon Aug 02 01:13:45 +0000 2010	49fe0ef6f964a520666f1fe3	{V. Sattui Winery}	{38.48877140836131,-122.44875848293304,Saint Helena,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+87	Sun Aug 01 02:50:47 +0000 2010	430d0a00f964a5203b271fe3	{Mountain Winery}	{37.260183994673426,-122.06438296801328,Saratoga,CA,United States}	{Food,Arts & Entertainment,}
+87	Sun Aug 01 01:21:39 +0000 2010	4b480f04f964a5204b4726e3	{Bella Saratoga}	{37.257351,-122.034162,Saratoga,CA,United States}	{Food,}
+87	Sat Jul 31 23:53:32 +0000 2010	4ba6b0aef964a520116939e3	{Uncorked!}	{37.25731,-122.034064,Saratoga,CA,United States}	{Food,}
+87	Sat Jul 31 20:08:51 +0000 2010	4a71e4cff964a520ccd91fe3	{San Francisco-Oakland Bay Bridge}	{37.81534420993673,-122.35495090484619,San Francisco,CA,United States}	{Outdoors & Recreation,}
+87	Sat Jul 31 03:31:52 +0000 2010	49e6cf47f964a52071641fe3	{Straits}	{37.78452955922038,-122.40648325916295,San Francisco,CA,United States}	{Food,}
+87	Sat Jul 31 01:59:14 +0000 2010	4b1c59a2f964a5206b0624e3	{Nordstrom}	{37.784045359734506,-122.40756511688232,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+87	Sun Jul 25 18:50:04 +0000 2010	4c4c86e09e6dbe9a37d4a20d	{Cosmo Nails}	{38.762164,-121.31263001,Roseville,CA,United States}	{Shop & Service,}
+87	Sun Jul 25 05:49:05 +0000 2010	4ba9c666f964a5209c373ae3	{Fatburger}	{38.84087754587698,-121.31318092346191,Lincoln,CA,United States}	{Food,}
+87	Sat Jul 24 22:50:33 +0000 2010	4c2d4c84e116e21e40768e60	{Thunder Valley Casino Resort}	{38.840158875437616,-121.31354570388794,Lincoln,CA,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+87	Sat Jul 24 06:48:08 +0000 2010	4d54e1c1b4deb1f7ae5ffe79	{The Metropolitan-North}	{37.78725740262541,-122.39388227626786,San Francisco,CA,United States}	{Professional & Other Places,Residence,}
+87	Sat Jul 24 03:28:57 +0000 2010	4a5824e5f964a5206db71fe3	{AMC Loews Metreon 16}	{37.7844481241691,-122.40364372730255,San Francisco,CA,United States}	{Shop & Service,Arts & Entertainment,Movie Theater,}
+87	Sat Jul 24 02:40:53 +0000 2010	4d54e1c1b4deb1f7ae5ffe79	{The Metropolitan-North}	{37.78725740262541,-122.39388227626786,San Francisco,CA,United States}	{Professional & Other Places,Residence,}
+87	Fri Jul 23 15:40:02 +0000 2010	4c334a8b3896e21e63bee990	{W.j. Bradley Mortgage Capital Corp}	{37.596435,-122.38447,Burlingame,CA,United States}	{Professional & Other Places,}
+87	Thu Jul 22 20:21:04 +0000 2010	4a96e1aff964a5205d2720e3	{Chipotle Mexican Grill}	{37.596757501033345,-122.38636964673569,Millbrae,CA,United States}	{Food,}
+87	Thu Jul 22 19:21:25 +0000 2010	4a876ba0f964a5204c0420e3	{Sponges Car Wash}	{37.782051,-121.97006,San Ramon,CA,United States}	{Shop & Service,}
+87	Thu Jul 22 17:48:49 +0000 2010	4aef891ff964a52023d921e3	{Starbucks}	{37.70094197309937,-121.91015044323002,Pleasanton,CA,United States}	{Food,}
+87	Mon Jul 19 02:41:07 +0000 2010	4a71e4cff964a520ccd91fe3	{San Francisco-Oakland Bay Bridge}	{37.81534420993673,-122.35495090484619,San Francisco,CA,United States}	{Outdoors & Recreation,}
+87	Mon Jul 19 01:32:12 +0000 2010	4bcb9bf1511f9521aee0b1c7	{Wendy's}	{38.469525,-121.82073,Dixon,CA,United States}	{Food,}
+87	Sun Jul 18 17:59:12 +0000 2010	4a9aad85f964a520293220e3	{Gear and grind cafe}	{39.17273178333333,-120.1386684179306,Tahoe city,CA,United States}	{Food,}
+87	Sun Jul 18 07:05:49 +0000 2010	4bc3a20eb492d13aee0ba960	{Resort At Squaw Creek}	{39.19910205256621,-120.21810312060526,Squaw Valley,CA,United States}	{Travel & Transport,Outdoors & Recreation,Hotel,}
+87	Sun Jul 18 04:40:21 +0000 2010	4a8b1c26f964a5207e0b20e3	{Garwoods}	{39.225471,-120.083394,Carnelian Bay,CA,United States}	{Nightlife Spot,}
+87	Sun Jul 18 03:27:40 +0000 2010	4c0c2012ffb8c9b6fe556e61	{Magic Carpet Golf}	{39.227157,-120.080407,Tahoe City,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+87	Sun Jul 18 01:02:49 +0000 2010	4bc3a20eb492d13aee0ba960	{Resort At Squaw Creek}	{39.19910205256621,-120.21810312060526,Squaw Valley,CA,United States}	{Travel & Transport,Outdoors & Recreation,Hotel,}
+87	Sat Jul 17 20:34:23 +0000 2010	4b5ba107f964a5202d0c29e3	{Dragonfly}	{39.32775504,-120.18635896,Truckee,CA,United States}	{Food,}
+87	Sat Jul 17 05:10:48 +0000 2010	4b108792f964a5204e7223e3	{Harrah's Lake Tahoe Resort & Casino}	{38.959091770935224,-119.94124174118042,Stateline,NV,United States}	{Travel & Transport,Arts & Entertainment,}
+87	Sat Jul 17 00:24:02 +0000 2010	4b01dbd7f964a520064622e3	{Sandy's Pub}	{39.19921914797201,-120.21846943336686,Olympic Valley,CA,United States}	{Food,}
+87	Fri Jul 16 23:13:42 +0000 2010	4bc3a20eb492d13aee0ba960	{Resort At Squaw Creek}	{39.19910205256621,-120.21810312060526,Squaw Valley,CA,United States}	{Travel & Transport,Outdoors & Recreation,Hotel,}
+87	Fri Jul 16 20:42:27 +0000 2010	4b18a379f964a520dad423e3	{Chick-fil-A}	{38.598758,-121.417439,Sacramento,CA,United States}	{Food,}
+87	Fri Jul 16 17:36:58 +0000 2010	4aa7cf1df964a520524d20e3	{Mercedes Benz of San Francisco}	{37.772260954849266,-122.40680407220638,San Francisco,CA,United States}	{Shop & Service,}
+87	Thu Jul 15 16:17:38 +0000 2010	4c334a8b3896e21e63bee990	{W.j. Bradley Mortgage Capital Corp}	{37.596435,-122.38447,Burlingame,CA,United States}	{Professional & Other Places,}
+87	Tue Jul 13 02:37:55 +0000 2010	4b6501f0f964a52015df2ae3	{Newport Candy Shoppe Ltd}	{44.62972764,-124.05395033333333,Newport,OR,United States}	{Shop & Service,}
+87	Tue Jul 13 01:57:44 +0000 2010	4b650270f964a52034df2ae3	{Local Ocean Seafoods}	{44.63195,-124.04904505,Newport,OR,United States}	{Food,}
+87	Mon Jul 12 22:56:16 +0000 2010	4ae4cce8f964a520439e21e3	{Domaine Serene}	{45.27070704206065,-123.06987172953838,Dayton,OR,United States}	{Food,}
+87	Mon Jul 12 21:27:27 +0000 2010	4af5dc2df964a520eefd21e3	{De Ponte Cellars}	{45.26282465754325,-123.05817220806996,Dayton,OR,United States}	{Food,}
+87	Mon Jul 12 20:49:30 +0000 2010	4a8da083f964a5204c1020e3	{Archery Summit Vineyard}	{45.258458,-123.046788,Dayton,OR,United States}	{Food,}
+87	Mon Jul 12 02:05:25 +0000 2010	4bad253bf964a52070323be3	{Tidal Raves}	{44.81530240744044,-124.06281426849785,Depoe Bay,OR,United States}	{Food,}
+87	Sun Jul 11 22:24:36 +0000 2010	4b512cc3f964a520f84527e3	{Rogue Ales Bayfront Public House}	{44.62785140143816,-124.05573695898056,Newport,OR,United States}	{Nightlife Spot,Food,}
+87	Sun Jul 11 21:59:12 +0000 2010	4c3a3e5318e72d7f12a11bf5	{Bohemian Candles}	{44.630518,-124.052936,,,United States}	{Shop & Service,}
+87	Sun Jul 11 19:20:49 +0000 2010	4c3a17b6dfb0e21ebb94b1a8	{Taco Time}	{44.539713,-123.358959,Philomath,OR,United States}	{Food,}
+87	Sat Jul 10 19:36:04 +0000 2010	4b669f6af964a520c8252be3	{Chapala's}	{44.06616976,-123.07701846666667,Eugene,OR,United States}	{Food,}
+87	Sat Jul 10 18:29:41 +0000 2010	4adcad1df964a520a72e21e3	{Nike Running Eugene}	{44.0642072723409,-123.07795643806458,Eugene,OR,United States}	{Shop & Service,Clothing Store,}
+87	Sat Jul 10 17:58:35 +0000 2010	4b492a39f964a520756826e3	{University of Oregon}	{44.04561717892043,-123.07472705841064,Eugene,OR,United States}	{College & University,}
+87	Sat Jul 10 17:21:00 +0000 2010	4adcac38f964a5209c2e21e3	{Fifth Street Public Market}	{44.05394142008102,-123.0886048078537,Eugene,OR,United States}	{Shop & Service,}
+87	Sat Jul 10 16:26:17 +0000 2010	4b73a3b3f964a520efb62de3	{Shari's Restaurant}	{44.099993118895036,-123.12936627035084,Eugene,OR,United States}	{Food,}
+87	Fri Jul 09 21:24:01 +0000 2010	4beb0bc7415e20a1d3d0e5bb	{Willamette Oaks}	{44.077073,-123.112651,Eugene,OR,United States}	{Residence,}
+87	Fri Jul 09 14:50:38 +0000 2010	4c3736bc3849c928d041bdb1	{Heavenly Donuts}	{40.58243365,-122.356729,Redding,CA,United States}	{Food,}
+87	Fri Jul 09 06:18:26 +0000 2010	4bc710bb93bdeee15b6537ae	{Red Lion Hotel}	{40.58071503940636,-122.35872745513916,Redding,CA,United States}	{Travel & Transport,}
+87	Wed Jul 07 20:46:24 +0000 2010	4c334a8b3896e21e63bee990	{W.j. Bradley Mortgage Capital Corp}	{37.596435,-122.38447,Burlingame,CA,United States}	{Professional & Other Places,}
+87	Wed Jul 07 20:46:24 +0000 2010	4c334a8b3896e21e63bee990	{W.j. Bradley Mortgage Capital Corp}	{37.596435,-122.38447,Burlingame,CA,United States}	{Professional & Other Places,}
+87	Wed Jul 07 02:46:43 +0000 2010	4d54e1c1b4deb1f7ae5ffe79	{The Metropolitan-North}	{37.78725740262541,-122.39388227626786,San Francisco,CA,United States}	{Professional & Other Places,Residence,}
+87	Tue Jul 06 15:24:19 +0000 2010	4c334a8b3896e21e63bee990	{W.j. Bradley Mortgage Capital Corp}	{37.596435,-122.38447,Burlingame,CA,United States}	{Professional & Other Places,}
+87	Sun Jul 04 02:52:54 +0000 2010	49f50f7af964a5208c6b1fe3	{Target}	{37.67363920688155,-122.46474981307983,Colma,CA,United States}	{Shop & Service,}
+87	Sun Jul 04 02:39:01 +0000 2010	4b368b46f964a520a63725e3	{Aaron Brothers Art and Framing}	{37.672238,-122.465247,Daly City,CA,United States}	{Shop & Service,}
+87	Sun Jul 04 00:07:49 +0000 2010	43f8404cf964a520c22f1fe3	{Macy's}	{37.78755853482698,-122.40750653872762,San Francisco,CA,United States}	{Shop & Service,}
+87	Sat Jul 03 22:58:18 +0000 2010	469019cbf964a5209f481fe3	{The Cheesecake Factory}	{37.787352202751634,-122.40740954875946,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Sat Jul 03 22:35:23 +0000 2010	49fc9f92f964a520c06e1fe3	{Jeremy's}	{37.78252085,-122.39299676,San Francisco,CA,United States}	{Shop & Service,}
+87	Fri Jul 02 21:51:25 +0000 2010	43945018f964a5207f2b1fe3	{Costco}	{37.77060725105887,-122.41079202847862,San Francisco,CA,United States}	{Shop & Service,Food & Drink Shop,}
+87	Fri Jul 02 03:11:25 +0000 2010	4c09054ca1b32d7fb1e296f0	{Prospect}	{37.78999904153704,-122.39122691617881,San Francisco,CA,United States}	{Food,}
+87	Thu Jul 01 21:16:45 +0000 2010	4c2b9e79b34ad13a5913eace	{Daly City Tire & Auto Repai}	{37.697911,-122.464464,Daly City,CA,United States}	{Shop & Service,}
+87	Thu Jul 01 21:16:45 +0000 2010	4c2b9e79b34ad13a5913eace	{Daly City Tire & Auto Repai}	{37.697911,-122.464464,Daly City,CA,United States}	{Shop & Service,}
+87	Wed Jun 30 23:05:45 +0000 2010	4d54e1c1b4deb1f7ae5ffe79	{The Metropolitan-North}	{37.78725740262541,-122.39388227626786,San Francisco,CA,United States}	{Professional & Other Places,Residence,}
+87	Wed Jun 30 19:51:02 +0000 2010	4c2b9e79b34ad13a5913eace	{Daly City Tire & Auto Repai}	{37.697911,-122.464464,Daly City,CA,United States}	{Shop & Service,}
+87	Tue Jun 29 02:27:19 +0000 2010	4b71ed7af964a520b3642de3	{Marlowe}	{37.77671275752899,-122.39566907462495,San Francisco,CA,United States}	{Food,}
+87	Sun Jun 27 21:08:57 +0000 2010	49fa306ff964a520d56d1fe3	{Polished Lounge}	{37.78156,-122.396402,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun Jun 27 18:04:08 +0000 2010	4c2792625c5ca593e5ff47fe	{All Star Gas}	{37.73474,-122.140451,San Leandro,CA,United States}	{Shop & Service,}
+87	Sun Jun 27 14:28:52 +0000 2010	4a2f650bf964a520c5981fe3	{Long Beach Airport (LGB)}	{33.81851869758065,-118.1443977355957,Long Beach,CA,United States}	{Travel & Transport,}
+87	Sun Jun 27 00:49:37 +0000 2010	4b5cb3faf964a520683f29e3	{PV Palace Seafood Restaurant}	{33.789314,-118.319408,Lomita,CA,United States}	{Food,}
+87	Sat Jun 26 17:44:02 +0000 2010	4b182b0bf964a52033ce23e3	{Starbucks}	{33.656807814925564,-117.86546336792487,Newport Beach,CA,United States}	{Food,}
+87	Sat Jun 26 05:12:40 +0000 2010	4b2993c4f964a52025a124e3	{Bambu Restaurant & Lounge}	{33.66763969152132,-117.8624931619081,Newport Beach,CA,United States}	{Nightlife Spot,Food,}
+87	Sat Jun 26 04:23:04 +0000 2010	4abeb345f964a520728f20e3	{Fairmont Newport Beach}	{33.6675334111922,-117.86269918932523,Newport Beach,CA,United States}	{Travel & Transport,Shop & Service,Food,}
+87	Fri Jun 25 23:54:08 +0000 2010	4a2f650bf964a520c5981fe3	{Long Beach Airport (LGB)}	{33.81851869758065,-118.1443977355957,Long Beach,CA,United States}	{Travel & Transport,}
+87	Fri Jun 25 06:16:57 +0000 2010	4d54e1c1b4deb1f7ae5ffe79	{The Metropolitan-North}	{37.78725740262541,-122.39388227626786,San Francisco,CA,United States}	{Professional & Other Places,Residence,}
+87	Fri Jun 25 02:35:05 +0000 2010	3fd66200f964a520aeec1ee3	{Ruby Skye}	{37.787429012530836,-122.40986700099887,San Francisco,CA,United States}	{Nightlife Spot,}
+87	Thu Jun 24 01:34:05 +0000 2010	45df6218f964a5201a431fe3	{Mas Sake Freestyle Sushi}	{37.80014930184792,-122.43523638474873,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Wed Jun 23 03:04:28 +0000 2010	4d54e1c1b4deb1f7ae5ffe79	{The Metropolitan-North}	{37.78725740262541,-122.39388227626786,San Francisco,CA,United States}	{Professional & Other Places,Residence,}
+87	Wed Jun 23 01:32:25 +0000 2010	4a663eb7f964a52043c81fe3	{Furry Tales}	{37.776828,-122.393467,San Francisco,CA,United States}	{Shop & Service,}
+87	Mon Jun 21 23:21:45 +0000 2010	4b09a3bdf964a520d11a23e3	{Cups and Cakes}	{37.77192898,-122.40933,San Francisco,CA,United States}	{Food,}
+87	Mon Jun 21 23:19:55 +0000 2010	4babf4aff964a520fed83ae3	{Chevron}	{37.771974232077106,-122.41883385442937,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun Jun 20 23:53:50 +0000 2010	4b2da7a9f964a52013da24e3	{Campo Di Bocce}	{37.65076692839386,-121.80338144302368,Livermore,CA,United States}	{Food,}
+87	Sun Jun 20 23:47:48 +0000 2010	4b2da7a9f964a52013da24e3	{Campo Di Bocce}	{37.65076692839386,-121.80338144302368,Livermore,CA,United States}	{Food,}
+87	Sun Jun 20 23:03:28 +0000 2010	4b6caea9f964a520d44b2ce3	{Safeway}	{37.73435181692518,-122.15228238151725,San Leandro,CA,United States}	{Shop & Service,Food & Drink Shop,}
+87	Sun Jun 20 22:14:51 +0000 2010	4ace3dd5f964a52056cf20e3	{Saks Fifth Avenue}	{37.788429014565835,-122.40827322006226,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun Jun 20 05:44:06 +0000 2010	43f8404cf964a520c22f1fe3	{Macy's}	{37.78755853482698,-122.40750653872762,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun Jun 20 03:44:25 +0000 2010	4880eb09f964a5202d511fe3	{Paradise Bay Restaurant}	{37.859915,-122.485226,Sausalito,CA,United States}	{Food,}
+87	Sat Jun 19 17:55:49 +0000 2010	4b3e411af964a5203a9a25e3	{Modern Sailing Academy}	{37.866159,-122.49567031860352,Sausalito,CA,United States}	{Travel & Transport,}
+87	Sat Jun 19 17:49:22 +0000 2010	4b3e411af964a5203a9a25e3	{Modern Sailing Academy}	{37.866159,-122.49567031860352,Sausalito,CA,United States}	{Travel & Transport,}
+87	Sat Jun 19 17:48:03 +0000 2010	4a8da855f964a520711020e3	{Mollie Stone's Markets}	{37.86695593970183,-122.49977081955052,Sausalito,CA,United States}	{Shop & Service,Food & Drink Shop,}
+87	Sat Jun 19 02:31:04 +0000 2010	430d0a00f964a5203b271fe3	{Mountain Winery}	{37.260183994673426,-122.06438296801328,Saratoga,CA,United States}	{Food,Arts & Entertainment,}
+87	Sat Jun 19 00:36:49 +0000 2010	4a8a0622f964a520af0920e3	{The Basin}	{37.255999,-122.03526922,Saratoga,CA,United States}	{Food,}
+87	Fri Jun 18 23:39:16 +0000 2010	4283ee00f964a5209c221fe3	{Santana Row}	{37.320482198777405,-121.94785594940186,San Jose,CA,United States}	{Outdoors & Recreation,Shop & Service,}
+87	Fri Jun 18 02:44:22 +0000 2010	4a7e4593f964a520a8f11fe3	{Benihana}	{37.785385072940564,-122.43060529232025,San Francisco,CA,United States}	{Food,}
+87	Thu Jun 17 15:05:52 +0000 2010	4afee12ef964a520263122e3	{Hilton Garden Inn}	{37.56382394049554,-122.28234948350179,Foster City,CA,United States}	{Travel & Transport,}
+87	Mon Jun 14 02:07:17 +0000 2010	41044980f964a520700b1fe3	{Hillstone}	{37.805918649667305,-122.40514039993286,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+87	Sun Jun 13 22:22:45 +0000 2010	4b09762ef964a520a41723e3	{Tan Bella}	{37.77687496260611,-122.39327929412565,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun Jun 13 22:02:13 +0000 2010	49f50f7af964a5208c6b1fe3	{Target}	{37.67363920688155,-122.46474981307983,Colma,CA,United States}	{Shop & Service,}
+87	Sun Jun 13 20:42:39 +0000 2010	4b368b46f964a520a63725e3	{Aaron Brothers Art and Framing}	{37.672238,-122.465247,Daly City,CA,United States}	{Shop & Service,}
+87	Sun Jun 13 03:05:29 +0000 2010	48790b1df964a5201b511fe3	{Sleep Train Pavilion}	{37.95935959618859,-121.93862552183909,Concord,CA,United States}	{Arts & Entertainment,}
+87	Sun Jun 13 01:34:24 +0000 2010	46d716fdf964a5206d4a1fe3	{The Old Spaghetti Factory}	{37.97693709837447,-122.03464733123342,Concord,CA,United States}	{Food,}
+87	Fri Jun 11 19:51:56 +0000 2010	4bd1e1f1a8b3a593bb9e665f	{The American Grilled Cheese Kitchen}	{37.78241695,-122.392824,San Francisco,CA,United States}	{Food,}
+87	Fri Jun 11 04:25:17 +0000 2010	49d2c77af964a520d75b1fe3	{Press Club}	{37.786148189859496,-122.40511894226074,San Francisco,CA,United States}	{Nightlife Spot,}
+87	Thu Jun 10 04:26:33 +0000 2010	4a5d7fa0f964a520a9bd1fe3	{Salt Lake City International Airport (SLC)}	{40.78665044119936,-111.98209762573242,Salt Lake City,UT,United States}	{Travel & Transport,}
+87	Wed Jun 09 23:56:16 +0000 2010	4aea51a6f964a52001bb21e3	{Dick Clark's Bar & Restaurant}	{40.787303934284274,-111.98202032074097,Salt Lake City,UT,United States}	{Food,}
+87	Wed Jun 09 23:50:23 +0000 2010	4a5d7fa0f964a520a9bd1fe3	{Salt Lake City International Airport (SLC)}	{40.78665044119936,-111.98209762573242,Salt Lake City,UT,United States}	{Travel & Transport,}
+87	Tue Jun 08 21:37:05 +0000 2010	4bcf06030ffdce72ad37b2c0	{Courtyard By Marriott}	{40.55735526370525,-111.89511344676738,Sandy,UT,United States}	{Travel & Transport,Professional & Other Places,}
+87	Tue Jun 08 20:08:31 +0000 2010	4c769880ff1fb60cc759f9a7	{Market Street Grill}	{40.55794983558033,-111.91391326686438,South Jordan,UT,United States}	{Food,}
+87	Tue Jun 08 17:38:25 +0000 2010	4ad4f28ff964a5204cfd20e3	{Temple Square}	{40.77045058765374,-111.89244747161865,Salt Lake City,UT,United States}	{Outdoors & Recreation,Government Building,Arts & Entertainment,Professional & Other Places,}
+87	Tue Jun 08 16:04:39 +0000 2010	4a5d7fa0f964a520a9bd1fe3	{Salt Lake City International Airport (SLC)}	{40.78665044119936,-111.98209762573242,Salt Lake City,UT,United States}	{Travel & Transport,}
+87	Mon Jun 07 00:51:57 +0000 2010	4b0586b9f964a520696b22e3	{Outback Steakhouse}	{37.66887507497614,-121.03182174699586,Modesto,CA,United States}	{Food,}
+87	Sun Jun 06 19:46:21 +0000 2010	49fa306ff964a520d56d1fe3	{Polished Lounge}	{37.78156,-122.396402,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun Jun 06 02:49:54 +0000 2010	4b5c0580f964a520782129e3	{Spice Supper Club}	{37.74755,-122.427027,San Francisco,CA,United States}	{Food,}
+87	Sat Jun 05 22:00:20 +0000 2010	4b92e9b4f964a520772634e3	{Public Storage}	{37.78413944868516,-122.39575481805574,San Francisco,CA,United States}	{Shop & Service,Professional & Other Places,Residence,}
+87	Sat Jun 05 17:20:15 +0000 2010	49f3388bf964a520706a1fe3	{Goodwill Industries}	{37.7737,-122.418381,San Francisco,CA,United States}	{Shop & Service,}
+87	Fri Jun 04 03:00:13 +0000 2010	414e1d80f964a520ed1c1fe3	{The Warfield Theatre}	{37.7825233143151,-122.41039216518402,San Francisco,CA,United States}	{Music Venue,Arts & Entertainment,}
+87	Thu Jun 03 02:30:12 +0000 2010	4aa46a42f964a520bd4620e3	{Local Kitchen & Wine Merchant}	{37.78690159989067,-122.3941478085928,San Francisco,CA,United States}	{Food,}
+87	Tue Jun 01 00:13:30 +0000 2010	4a1e3c8af964a520c47b1fe3	{The Mindful Body}	{37.78798968001725,-122.44173917284373,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+87	Mon May 31 21:04:25 +0000 2010	4b05ba4ff964a520c6e122e3	{Just Futon}	{37.781355,-122.455332,San Francisco,CA,United States}	{}
+87	Mon May 31 20:38:40 +0000 2010	4aa81f47f964a520734f20e3	{Pancho's Mexican Grill}	{37.78141085940212,-122.45623075434958,San Francisco,CA,United States}	{Food,}
+87	Mon May 31 03:19:06 +0000 2010	4d54e1c1b4deb1f7ae5ffe79	{The Metropolitan-North}	{37.78725740262541,-122.39388227626786,San Francisco,CA,United States}	{Professional & Other Places,Residence,}
+87	Mon May 31 00:22:38 +0000 2010	4acffd37f964a52036d720e3	{Sizzler}	{37.672592,-122.46532380580902,Colma,CA,United States}	{Food,}
+87	Sun May 30 18:09:13 +0000 2010	44cf44a2f964a52020361fe3	{Bob's Donut & Pastry Shop}	{37.791704,-122.420935,San Francisco,CA,United States}	{Food,}
+87	Sun May 30 18:01:23 +0000 2010	4a9b197cf964a520643420e3	{True Value Hardware}	{37.7917879906625,-122.42097971216496,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun May 30 17:44:31 +0000 2010	49f3388bf964a520706a1fe3	{Goodwill Industries}	{37.7737,-122.418381,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun May 30 03:26:11 +0000 2010	43920b7af964a520672b1fe3	{Mehfil Indian Cuisine}	{37.78543191666667,-122.396757,San Francisco,CA,United States}	{Food,}
+87	Sat May 29 18:53:40 +0000 2010	3fd66200f964a52068f11ee3	{Palomino}	{37.790082356493826,-122.38962650299072,San Francisco,CA,United States}	{Food,}
+87	Fri May 28 21:18:51 +0000 2010	4bd1e1f1a8b3a593bb9e665f	{The American Grilled Cheese Kitchen}	{37.78241695,-122.392824,San Francisco,CA,United States}	{Food,}
+87	Fri May 28 02:09:33 +0000 2010	43655e80f964a52060291fe3	{Ruth's Chris Steak House}	{37.79047213321189,-122.42233467706303,San Francisco,CA,United States}	{Food,}
+87	Fri May 28 01:46:58 +0000 2010	4a0f7d7df964a5206b761fe3	{BevMo!}	{37.78763248194315,-122.42194201556565,San Francisco,CA,United States}	{Shop & Service,Food & Drink Shop,}
+87	Thu May 27 16:38:09 +0000 2010	4b8d6070f964a52004f832e3	{Prometric? Test Center}	{37.79332244094503,-122.39773796113904,San Francisco,CA,United States}	{College & University,}
+87	Sun May 23 18:50:22 +0000 2010	49f3388bf964a520706a1fe3	{Goodwill Industries}	{37.7737,-122.418381,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun May 23 18:30:40 +0000 2010	4ba955eff964a520d81f3ae3	{Nubi Yogurt}	{37.76593141060717,-122.40949630737305,San Francisco,CA,United States}	{Food,}
+87	Sun May 23 18:14:47 +0000 2010	4aa72aeef964a520154c20e3	{Petco}	{37.766320145231624,-122.41025551612472,San Francisco,CA,United States}	{Shop & Service,}
+87	Sun May 23 17:57:34 +0000 2010	4be31f5321d5a593bf401811	{Noah's Bagels}	{37.76633538261355,-122.40892251996719,San Francisco,CA,United States}	{Food,}
+87	Sat May 22 20:09:27 +0000 2010	4bd608b66798ef3b0a74648d	{What's Up Dog!}	{37.783819,-122.398742,San Francisco,CA,United States}	{Food,}
+87	Sat May 22 04:39:21 +0000 2010	429ba900f964a52082241fe3	{Cobb's Comedy Club}	{37.802786028338545,-122.4141990945467,San Francisco,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+87	Fri May 21 04:48:18 +0000 2010	3fd66200f964a52013ed1ee3	{Acquerello}	{37.79162559617855,-122.42143321256768,San Francisco,CA,United States}	{Food,}
+87	Fri May 21 03:12:26 +0000 2010	4af61297f964a520d30022e3	{Parilla Casual Latin Dining}	{37.79319854503884,-122.42119540162517,San Francisco,CA,United States}	{Food,}
+87	Thu May 20 15:19:26 +0000 2010	4b1d43b1f964a520de0d24e3	{Big O Tires}	{37.780337,-122.40921336,San Francisco,CA,United States}	{Shop & Service,}

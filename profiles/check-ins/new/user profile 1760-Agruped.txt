@@ -1,0 +1,941 @@
+1760	Fri Aug 12 06:23:03 +0000 2011	4e139a01e4cd473c9688e0a3	{24 hour laundry}	{33.944483,-118.198013,South Gate,CA,United States}	{}
+1760	Fri Aug 12 04:52:37 +0000 2011	4c1fee1cd38ec9b6e56a4d83	{Jordan Downs}	{33.94687623272517,-118.23611008322983,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Fri Aug 12 00:47:27 +0000 2011	4c7051953444370435d6235f	{Elizabeth Bakery}	{33.95522625548562,-118.22039870412216,South Gate,CA,United States}	{Food,}
+1760	Fri Aug 12 00:28:45 +0000 2011	4c16bee55e88c928eda32466	{7-Eleven}	{33.96340681923587,-118.1660341675103,Bell Gardens,CA,United States}	{Shop & Service,}
+1760	Fri Aug 12 00:16:58 +0000 2011	4ab2e795f964a520ea6c20e3	{McDonald's}	{33.94751069939001,-118.11782557796909,Downey,CA,United States}	{Food,Arts & Entertainment,}
+1760	Fri Aug 12 00:16:44 +0000 2011	4c65c3a18e9120a1ab28d664	{City of Downey}	{33.94000437887041,-118.13300371170043,Downey,CA,United States}	{Outdoors & Recreation,}
+1760	Fri Aug 12 00:10:12 +0000 2011	4cd2cbbdd5d7a1cde9407a66	{BNSF Pico Tower}	{33.975674891408204,-118.10353801119405,Pico Rivera,CA,United States}	{Professional & Other Places,}
+1760	Thu Aug 11 23:40:09 +0000 2011	4bb16a18f964a520d8913ce3	{Tacos El Gavilan}	{33.953931,-118.13024201,Downey,CA,United States}	{Food,}
+1760	Thu Aug 11 06:30:35 +0000 2011	4d04168054d0236acc12edd5	{Nickerson Gardens}	{33.93012803664168,-118.25259663231712,Watts,CA,United States}	{Residence,}
+1760	Thu Aug 11 05:24:07 +0000 2011	4cf9ed3b7945224bd1297de7	{Los Angeles Harley-Davidson}	{33.914685,-118.158531,South Gate,CA,United States}	{Shop & Service,}
+1760	Thu Aug 11 04:54:10 +0000 2011	4b496a38f964a5206a6f26e3	{Cherry On Top}	{33.71598320909779,-118.00527669601618,Huntington Beach,CA,United States}	{Food,}
+1760	Wed Aug 10 20:00:40 +0000 2011	4da5ecab4b2280544b679093	{EastSide Bike Riders Association}	{33.93587792795484,-118.25347602264927,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+1760	Wed Aug 10 19:41:08 +0000 2011	4d112f865f3376ebae8e1386	{WSS}	{33.95977184741389,-118.26473638764155,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,}
+1760	Wed Aug 10 19:29:41 +0000 2011	4b4e5aa2f964a52091ea26e3	{Bobos Hamburgers}	{33.95994,-118.25317051666667,Los Angeles,CA,United States}	{Food,}
+1760	Wed Aug 10 06:38:24 +0000 2011	4b7b6129f964a520e7602fe3	{Watts-Willowbrook Boys & Girls Club}	{33.92417998,-118.25138129,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Wed Aug 10 06:35:21 +0000 2011	4d04168054d0236acc12edd5	{Nickerson Gardens}	{33.93012803664168,-118.25259663231712,Watts,CA,United States}	{Residence,}
+1760	Wed Aug 10 00:42:26 +0000 2011	4e25e4d1fa76a490d3bf5a4f	{Washington Park Pool}	{33.95700931938931,-118.23445637230132,Los Angeles,CA,United States}	{}
+1760	Wed Aug 10 00:06:36 +0000 2011	4bdf4056ffdec9284642eba1	{Washington Park}	{33.95869254788479,-118.24376821682334,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Tue Aug 09 21:09:13 +0000 2011	4d4c733c5f9db60c82973550	{A & T Burger}	{33.93174935,-118.26484,Los Angeles,CA,United States}	{Food,}
+1760	Tue Aug 09 17:28:13 +0000 2011	4defa0e9c65bf3f03e9aeb59	{Larry's Barber Shop}	{33.95287,-118.23627,Watts,,United States}	{}
+1760	Tue Aug 09 05:25:58 +0000 2011	4c506e0238b0be9a9b5083fd	{Rigo's Taco}	{33.960002,-118.23982419,Los Angeles,CA,United States}	{Food,}
+1760	Tue Aug 09 03:42:28 +0000 2011	4b7b6129f964a520e7602fe3	{Watts-Willowbrook Boys & Girls Club}	{33.92417998,-118.25138129,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Tue Aug 09 03:41:53 +0000 2011	4bcb263168f976b0d56e6083	{Firestone Metro Station}	{33.959557378298385,-118.24323177337646,Los Angeles,CA,United States}	{Travel & Transport,}
+1760	Mon Aug 08 19:44:02 +0000 2011	4c46603e37f6d13a57116396	{Burger King}	{33.943467,-118.243603,Los Angeles,CA,United States}	{Food,}
+1760	Mon Aug 08 18:04:48 +0000 2011	4b2beb45f964a520abbd24e3	{Hollywood Sports Paintball and Airsoft Park}	{33.8956883444133,-118.14081467690818,Bellflower,CA,United States}	{Arts & Entertainment,}
+1760	Mon Aug 08 17:49:47 +0000 2011	4baabc1df964a52073833ae3	{Ted Watkins Memorial Park}	{33.94389154340961,-118.25197420396225,Los Angeles,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1760	Mon Aug 08 17:01:23 +0000 2011	4c506e0238b0be9a9b5083fd	{Rigo's Taco}	{33.960002,-118.23982419,Los Angeles,CA,United States}	{Food,}
+1760	Mon Aug 08 16:12:08 +0000 2011	4d5b0d3d9c8a236a82a2da14	{Florence/Firestone Worksource}	{33.95994729358847,-118.24002770957613,Southeast,CA,United States}	{Professional & Other Places,}
+1760	Sun Aug 07 23:39:49 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Sun Aug 07 22:57:52 +0000 2011	4e331481ae60795fcfd1fe5d	{Jacuzzi Time}	{34.120867527306544,-117.89395541809482,,,United States}	{Outdoors & Recreation,}
+1760	Sun Aug 07 22:45:13 +0000 2011	4c202600fec3b713a5cdbec6	{Hollenbeck Park}	{34.10191969607352,-117.89817820068818,Covina,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1760	Sun Aug 07 20:02:46 +0000 2011	4bf4b40ccad2c928db4e9c99	{Bar Louie}	{34.13489690101973,-118.04925441741943,Arcadia,CA,United States}	{Nightlife Spot,Food,}
+1760	Sun Aug 07 17:18:14 +0000 2011	4e331481ae60795fcfd1fe5d	{Jacuzzi Time}	{34.120867527306544,-117.89395541809482,,,United States}	{Outdoors & Recreation,}
+1760	Sun Aug 07 16:03:41 +0000 2011	4b5b53a3f964a520d8f428e3	{Fresh & Easy Neighborhood Market}	{34.12752579914709,-117.89124011993408,Azusa,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Sun Aug 07 05:01:46 +0000 2011	4c1fee1cd38ec9b6e56a4d83	{Jordan Downs}	{33.94687623272517,-118.23611008322983,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Sun Aug 07 05:00:51 +0000 2011	4d3d096f3ec9a35df2164e81	{Watts}	{33.94068974429656,-118.24267387390138,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Sat Aug 06 18:09:39 +0000 2011	4baabc1df964a52073833ae3	{Ted Watkins Memorial Park}	{33.94389154340961,-118.25197420396225,Los Angeles,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1760	Sat Aug 06 18:09:39 +0000 2011	4baabc1df964a52073833ae3	{Ted Watkins Memorial Park}	{33.94389154340961,-118.25197420396225,Los Angeles,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1760	Sat Aug 06 16:22:24 +0000 2011	4da5ecab4b2280544b679093	{EastSide Bike Riders Association}	{33.93587792795484,-118.25347602264927,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+1760	Sat Aug 06 03:17:16 +0000 2011	4c90e6b9ae96a09398c79e46	{Mercardo Amigo Carniceria}	{33.960305,-118.239327,Florence-Firestone,CA,United States}	{}
+1760	Sat Aug 06 02:50:36 +0000 2011	4bdf4056ffdec9284642eba1	{Washington Park}	{33.95869254788479,-118.24376821682334,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Fri Aug 05 23:56:03 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Fri Aug 05 23:55:15 +0000 2011	4d5b0d3d9c8a236a82a2da14	{Florence/Firestone Worksource}	{33.95994729358847,-118.24002770957613,Southeast,CA,United States}	{Professional & Other Places,}
+1760	Fri Aug 05 22:47:09 +0000 2011	4e25e4d1fa76a490d3bf5a4f	{Washington Park Pool}	{33.95700931938931,-118.23445637230132,Los Angeles,CA,United States}	{}
+1760	Fri Aug 05 21:03:52 +0000 2011	4d04168054d0236acc12edd5	{Nickerson Gardens}	{33.93012803664168,-118.25259663231712,Watts,CA,United States}	{Residence,}
+1760	Fri Aug 05 05:32:09 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Fri Aug 05 03:45:26 +0000 2011	4d96c42b0caaa14320dd80b3	{Taco Truck}	{33.96019963333333,-118.242197,Southeast,CA,United States}	{Food,}
+1760	Thu Aug 04 22:13:36 +0000 2011	4d3796f23d958cfa267eaa71	{Imperial Courts Projects}	{33.93166849151053,-118.2351192408205,,,United States}	{Residence,}
+1760	Thu Aug 04 21:37:59 +0000 2011	4e1cc078483b6f94577b1d1b	{Village Skate Park}	{33.896102,-118.165169,,,United States}	{Outdoors & Recreation,}
+1760	Thu Aug 04 20:40:38 +0000 2011	4da5ecab4b2280544b679093	{EastSide Bike Riders Association}	{33.93587792795484,-118.25347602264927,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+1760	Thu Aug 04 19:14:21 +0000 2011	4bbd2445a8cf76b0b87db1fd	{Century Youth Activities League}	{33.96666115,-118.24823677539825,Southeast,CA,United States}	{Professional & Other Places,}
+1760	Thu Aug 04 19:14:21 +0000 2011	4bbd2445a8cf76b0b87db1fd	{Century Youth Activities League}	{33.96666115,-118.24823677539825,Southeast,CA,United States}	{Professional & Other Places,}
+1760	Thu Aug 04 18:23:12 +0000 2011	4b9ff110f964a520514c37e3	{Lynwood Sheriff's Station}	{33.928697651345594,-118.22939965542466,Lynwood,CA,United States}	{Government Building,Professional & Other Places,}
+1760	Thu Aug 04 17:49:15 +0000 2011	4be9bc2c415e20a15232e4bb	{Los Angeles Police Department Southeast Station}	{33.938374429776765,-118.27539650585484,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Thu Aug 04 17:07:06 +0000 2011	4c1fee1cd38ec9b6e56a4d83	{Jordan Downs}	{33.94687623272517,-118.23611008322983,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Thu Aug 04 05:45:51 +0000 2011	4b04c847f964a520965622e3	{Food 4 Less}	{33.97623217128929,-118.22964906692505,Huntington Park,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Thu Aug 04 04:21:21 +0000 2011	4dcea16c7d8b975f18d2f80b	{LAFD Fire Station 65}	{33.945680599990155,-118.24088432149246,Los Angeles,CA,United States}	{Government Building,Professional & Other Places,}
+1760	Thu Aug 04 02:21:52 +0000 2011	4bdf4056ffdec9284642eba1	{Washington Park}	{33.95869254788479,-118.24376821682334,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Thu Aug 04 01:23:54 +0000 2011	4d5c361e6f6d6ea8119762ec	{Fresh & Easy Neighborhood Market}	{33.971098391806464,-118.23297500610352,Walnut Park,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Thu Aug 04 01:04:52 +0000 2011	4b04c847f964a520965622e3	{Food 4 Less}	{33.97623217128929,-118.22964906692505,Huntington Park,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Thu Aug 04 00:35:19 +0000 2011	4e1e3a06c65bd9e1fddc736f	{Paradise City}	{33.95219202429159,-118.19351298506879,South Gate,CA,United States}	{Nightlife Spot,}
+1760	Wed Aug 03 23:58:40 +0000 2011	4ae3657ef964a520799421e3	{In-N-Out Burger}	{33.93604658296939,-118.12426031661172,Downey,CA,United States}	{Food,}
+1760	Wed Aug 03 23:53:28 +0000 2011	4aa9f090f964a5208b5520e3	{Golf N' Stuff Family Fun Center}	{33.92692058647432,-118.10608699861618,Norwalk,CA,United States}	{Arts & Entertainment,}
+1760	Wed Aug 03 23:14:36 +0000 2011	4bc3cfcedce4eee120c3719d	{Comfort Inn}	{33.91812818915512,-118.0811213281923,Norwalk,CA,United States}	{Travel & Transport,}
+1760	Wed Aug 03 22:55:15 +0000 2011	4b77572ef964a5206a932ee3	{Lynwood, CA}	{33.93043538926759,-118.2115602493286,Lynwood,CA,United States}	{Outdoors & Recreation,}
+1760	Wed Aug 03 19:52:47 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Wed Aug 03 19:43:16 +0000 2011	4da5ecab4b2280544b679093	{EastSide Bike Riders Association}	{33.93587792795484,-118.25347602264927,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+1760	Wed Aug 03 18:53:58 +0000 2011	4baabc1df964a52073833ae3	{Ted Watkins Memorial Park}	{33.94389154340961,-118.25197420396225,Los Angeles,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1760	Wed Aug 03 16:55:32 +0000 2011	4a4e83cdf964a52094ae1fe3	{Watts Towers}	{33.93878939932802,-118.24122548103333,Los Angeles,CA,United States}	{Outdoors & Recreation,Museum,Arts & Entertainment,}
+1760	Wed Aug 03 15:57:22 +0000 2011	4baabc1df964a52073833ae3	{Ted Watkins Memorial Park}	{33.94389154340961,-118.25197420396225,Los Angeles,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1760	Wed Aug 03 15:52:33 +0000 2011	4e25e4d1fa76a490d3bf5a4f	{Washington Park Pool}	{33.95700931938931,-118.23445637230132,Los Angeles,CA,United States}	{}
+1760	Wed Aug 03 07:28:11 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Wed Aug 03 07:27:38 +0000 2011	4c3d5043933b0f47c751e521	{Emerald Hills}	{34.046642049847804,-118.14273458377652,Monterey Park,CA,United States}	{}
+1760	Wed Aug 03 07:26:57 +0000 2011	4d04168054d0236acc12edd5	{Nickerson Gardens}	{33.93012803664168,-118.25259663231712,Watts,CA,United States}	{Residence,}
+1760	Wed Aug 03 05:39:46 +0000 2011	4bc63a15d35d9c74d761e23a	{Huntington Park High School}	{33.98696139218078,-118.21859836578369,Huntington Park,CA,United States}	{School,Professional & Other Places,}
+1760	Wed Aug 03 01:57:33 +0000 2011	4bbd2445a8cf76b0b87db1fd	{Century Youth Activities League}	{33.96666115,-118.24823677539825,Southeast,CA,United States}	{Professional & Other Places,}
+1760	Wed Aug 03 01:57:18 +0000 2011	4bbd2445a8cf76b0b87db1fd	{Century Youth Activities League}	{33.96666115,-118.24823677539825,Southeast,CA,United States}	{Professional & Other Places,}
+1760	Tue Aug 02 21:53:30 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Tue Aug 02 21:11:51 +0000 2011	4c8167f7d34ca1438e322280	{Fnr cycle}	{33.895819,-118.17549376301055,Paramount,CA,United States}	{Shop & Service,}
+1760	Tue Aug 02 20:41:33 +0000 2011	4d04168054d0236acc12edd5	{Nickerson Gardens}	{33.93012803664168,-118.25259663231712,Watts,CA,United States}	{Residence,}
+1760	Tue Aug 02 20:30:07 +0000 2011	4d3d096f3ec9a35df2164e81	{Watts}	{33.94068974429656,-118.24267387390138,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Tue Aug 02 19:55:12 +0000 2011	4da5ecab4b2280544b679093	{EastSide Bike Riders Association}	{33.93587792795484,-118.25347602264927,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+1760	Tue Aug 02 19:07:45 +0000 2011	4d548b05cff7721e04d39ff5	{The Ellen Show - On The Streets}	{33.91629662611269,-118.28610734103431,,CA,United States}	{Arts & Entertainment,}
+1760	Tue Aug 02 18:59:13 +0000 2011	4bbd0e32a0a0c9b6b92d1b0f	{Taco Bell}	{33.916175543965196,-118.28220789845929,Los Angeles,CA,United States}	{Food,}
+1760	Tue Aug 02 18:57:43 +0000 2011	4bf2ac8177b4c92873846a1c	{Athens Park}	{33.91853043046059,-118.27906772611632,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Tue Aug 02 18:53:59 +0000 2011	4cdf414169136dcbd43edce6	{Conoco Philips 76}	{33.90844137157905,-118.27797150687952,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Tue Aug 02 18:15:00 +0000 2011	4dcccb8945ddbe15f8607ef7	{Magic J. Lake}	{33.9313339393853,-118.286952303648,Los Angeles,CA,United States}	{Outdoors & Recreation,Beach,}
+1760	Tue Aug 02 18:12:44 +0000 2011	4be9bc2c415e20a15232e4bb	{Los Angeles Police Department Southeast Station}	{33.938374429776765,-118.27539650585484,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Tue Aug 02 18:12:43 +0000 2011	4be9bc2c415e20a15232e4bb	{Los Angeles Police Department Southeast Station}	{33.938374429776765,-118.27539650585484,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Tue Aug 02 18:09:20 +0000 2011	4d112f865f3376ebae8e1386	{WSS}	{33.95977184741389,-118.26473638764155,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,}
+1760	Tue Aug 02 05:36:27 +0000 2011	4d66d64ccfd48eecc4cef097	{China Bowl Express & Hawaiian BBQ}	{33.922090741177364,-118.09796554401775,Norwalk,CA,United States}	{Food,}
+1760	Tue Aug 02 04:51:48 +0000 2011	4d66d64ccfd48eecc4cef097	{China Bowl Express & Hawaiian BBQ}	{33.922090741177364,-118.09796554401775,Norwalk,CA,United States}	{Food,}
+1760	Tue Aug 02 04:51:01 +0000 2011	4af46965f964a5202ff221e3	{Starbucks}	{33.92203735667911,-118.09802841386667,Norwalk,CA,United States}	{Food,}
+1760	Tue Aug 02 03:00:46 +0000 2011	4bf76bd4b182c9b60cd4755a	{Shave It}	{33.922799454442256,-118.09837371110916,Norwalk,CA,United States}	{Food,}
+1760	Tue Aug 02 02:54:54 +0000 2011	4c6f114634443704e5f81f5f	{City of Compton}	{33.91398311562303,-118.2461929321289,Compton,CA,United States}	{Outdoors & Recreation,}
+1760	Tue Aug 02 01:12:14 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Tue Aug 02 00:42:56 +0000 2011	4e2253dce4cdf685918f6ed2	{El Chino Loco Store}	{33.95694660588566,-118.23450017768957,Los Angeles,CA,United States}	{Shop & Service,}
+1760	Tue Aug 02 00:12:12 +0000 2011	4d883a437d4c5481d3da3b71	{Rosecrans N Williowbrook}	{33.90327066274171,-118.22403683572733,Compton,CA,United States}	{}
+1760	Mon Aug 01 23:39:22 +0000 2011	4c8bc9aa509e370433232d55	{Tam's}	{33.903074,-118.253283,Compton,CA,United States}	{Food,}
+1760	Mon Aug 01 23:35:15 +0000 2011	4d92217880d3370448d4ac06	{City Of Compton Parks & Recreation}	{33.902634940167715,-118.21970191032446,Compton,CA,United States}	{Professional & Other Places,}
+1760	Mon Aug 01 23:04:53 +0000 2011	4dcccb8945ddbe15f8607ef7	{Magic J. Lake}	{33.9313339393853,-118.286952303648,Los Angeles,CA,United States}	{Outdoors & Recreation,Beach,}
+1760	Mon Aug 01 19:57:01 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Mon Aug 01 17:47:42 +0000 2011	4ad38fdff964a520f4e420e3	{The Home Depot}	{33.88778998738753,-118.18557990181188,Paramount,CA,United States}	{Shop & Service,}
+1760	Mon Aug 01 17:31:12 +0000 2011	4e1b13ca88770d5776e36f1e	{Aramark}	{33.892174,-118.168941,Paramount,CA,United States}	{Professional & Other Places,}
+1760	Mon Aug 01 17:13:00 +0000 2011	4c8167f7d34ca1438e322280	{Fnr cycle}	{33.895819,-118.17549376301055,Paramount,CA,United States}	{Shop & Service,}
+1760	Mon Aug 01 16:09:29 +0000 2011	4defa0e9c65bf3f03e9aeb59	{Larry's Barber Shop}	{33.95287,-118.23627,Watts,,United States}	{}
+1760	Mon Aug 01 05:53:11 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Mon Aug 01 05:05:59 +0000 2011	4d04168054d0236acc12edd5	{Nickerson Gardens}	{33.93012803664168,-118.25259663231712,Watts,CA,United States}	{Residence,}
+1760	Mon Aug 01 04:53:20 +0000 2011	4d249081fdfb236a70037a67	{Reserve Center Gym}	{33.99062068659758,-118.16521762962543,Commerce,CA,United States}	{Shop & Service,}
+1760	Mon Aug 01 03:15:15 +0000 2011	4b846d69f964a520c03431e3	{Target}	{33.948369499912296,-118.16799424094866,South Gate,CA,United States}	{Shop & Service,}
+1760	Mon Aug 01 01:50:44 +0000 2011	4d3d096f3ec9a35df2164e81	{Watts}	{33.94068974429656,-118.24267387390138,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Mon Aug 01 01:33:53 +0000 2011	4d4c733c5f9db60c82973550	{A & T Burger}	{33.93174935,-118.26484,Los Angeles,CA,United States}	{Food,}
+1760	Mon Aug 01 00:36:58 +0000 2011	4d15461a6c8b5481d96eddcc	{Rosecrans & Wilmington}	{33.903342459125916,-118.23825736472571,Compton,CA,United States}	{Travel & Transport,}
+1760	Mon Aug 01 00:22:27 +0000 2011	4d2d359cfeaaa1cdbcdde690	{Dolores McCoy Villa}	{33.94927662681451,-118.2468148139419,,,United States}	{Residence,}
+1760	Mon Aug 01 00:08:31 +0000 2011	4c96cc81f7cfa1cdf68dc915	{Firestone Laundry}	{33.959768,-118.235564,LA,CA,United States}	{Professional & Other Places,}
+1760	Sun Jul 31 22:23:02 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Sun Jul 31 17:58:20 +0000 2011	4c7051953444370435d6235f	{Elizabeth Bakery}	{33.95522625548562,-118.22039870412216,South Gate,CA,United States}	{Food,}
+1760	Sun Jul 31 06:32:15 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Sun Jul 31 04:54:03 +0000 2011	4dffeba7ae6001fafcabc7de	{Brick oven city walk universal studios}	{33.95703760606274,-118.23432145,Los Angeles,CA,United States}	{Food,}
+1760	Sun Jul 31 04:36:02 +0000 2011	4bcb263168f976b0d56e6083	{Firestone Metro Station}	{33.959557378298385,-118.24323177337646,Los Angeles,CA,United States}	{Travel & Transport,}
+1760	Sun Jul 31 04:33:38 +0000 2011	4c90e6b9ae96a09398c79e46	{Mercardo Amigo Carniceria}	{33.960305,-118.239327,Florence-Firestone,CA,United States}	{}
+1760	Sun Jul 31 01:09:39 +0000 2011	4c50aa2dd797e21ec447c87a	{Roosevelt Park}	{33.97102882233146,-118.24261466451189,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Sat Jul 30 23:56:00 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Sat Jul 30 22:12:12 +0000 2011	4be442182468c9281a7efe42	{Colonel Leon H. Washington Park}	{33.958868843568276,-118.24381961253776,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Sat Jul 30 21:38:57 +0000 2011	4d3d096f3ec9a35df2164e81	{Watts}	{33.94068974429656,-118.24267387390138,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Sat Jul 30 19:48:55 +0000 2011	4baabc1df964a52073833ae3	{Ted Watkins Memorial Park}	{33.94389154340961,-118.25197420396225,Los Angeles,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1760	Sat Jul 30 17:57:03 +0000 2011	4e2253dce4cdf685918f6ed2	{El Chino Loco Store}	{33.95694660588566,-118.23450017768957,Los Angeles,CA,United States}	{Shop & Service,}
+1760	Sat Jul 30 17:55:14 +0000 2011	4da2419dc6e96ea8db28d25d	{8415 Hickory St Los Angeles? California? 90001 Xavis'}	{33.96143862101014,-118.23544761862159,,,United States}	{Professional & Other Places,}
+1760	Sat Jul 30 17:29:44 +0000 2011	4d73bb50ec07548160a29abf	{Best Way recycling}	{33.957051,-118.23441391,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Sat Jul 30 17:21:42 +0000 2011	4e25e4d1fa76a490d3bf5a4f	{Washington Park Pool}	{33.95700931938931,-118.23445637230132,Los Angeles,CA,United States}	{}
+1760	Sat Jul 30 02:46:46 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Sat Jul 30 02:08:14 +0000 2011	4cc49a573ed5199cc3684a1e	{Rite Aid}	{33.92662124269058,-118.23801179931975,Los Angeles,CA,United States}	{Shop & Service,}
+1760	Fri Jul 29 23:06:21 +0000 2011	4c709c28df6b8cfa300bb94d	{Phoenix Hall}	{33.93589926666667,-118.25310713333333,Los Angeles,CA,United States}	{}
+1760	Fri Jul 29 22:24:12 +0000 2011	4da5ecab4b2280544b679093	{EastSide Bike Riders Association}	{33.93587792795484,-118.25347602264927,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+1760	Fri Jul 29 21:14:25 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Fri Jul 29 20:02:18 +0000 2011	4d3d096f3ec9a35df2164e81	{Watts}	{33.94068974429656,-118.24267387390138,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Fri Jul 29 19:40:56 +0000 2011	4b7f2909f964a5204b1b30e3	{US Post Office}	{33.97628555384967,-118.25692176818848,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Fri Jul 29 16:45:43 +0000 2011	4fc8ec557beb21f80dada3bc	{O'Reilly Auto Parts}	{33.974157598049224,-118.24724595873744,Los Angeles,CA,United States}	{Shop & Service,}
+1760	Fri Jul 29 16:18:55 +0000 2011	4bbe1ad2b42aef3bf1694bc3	{Pep Boys Auto Parts & Service}	{33.985477,-118.22307,Huntington Park,CA,United States}	{Shop & Service,}
+1760	Fri Jul 29 16:15:52 +0000 2011	4bc63a15d35d9c74d761e23a	{Huntington Park High School}	{33.98696139218078,-118.21859836578369,Huntington Park,CA,United States}	{School,Professional & Other Places,}
+1760	Fri Jul 29 16:08:07 +0000 2011	4c97cc8cca6a8cfad923e6a4	{Florence ave school}	{33.974014729571664,-118.23853719464356,LA,CA,United States}	{College & University,}
+1760	Fri Jul 29 04:16:32 +0000 2011	4d922e9a270e6ea896f163ff	{Carl's Jr.}	{33.982299774355965,-118.24790954589844,Los Angeles,CA,United States}	{Food,}
+1760	Fri Jul 29 04:09:14 +0000 2011	4c017b18f7ab0f47e23316b6	{South Central Los Angeles}	{33.98130336486332,-118.28095436096191,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Fri Jul 29 01:48:03 +0000 2011	4c50aa2dd797e21ec447c87a	{Roosevelt Park}	{33.97102882233146,-118.24261466451189,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Fri Jul 29 00:05:22 +0000 2011	4d43279f714a224b4805ebe8	{St. Lawrence Middle Middle School}	{33.94447557272122,-118.24558418938592,,,United States}	{}
+1760	Thu Jul 28 16:39:23 +0000 2011	4d3a2184979ea1434ff28cfc	{United States Post Office (Compton & 103rd)}	{33.942965,-118.24644658333334,,,United States}	{Professional & Other Places,}
+1760	Thu Jul 28 06:31:27 +0000 2011	4c9256c37f3b8cfa2e5ea41e	{Rent A Wheel}	{33.956216,-118.22668254375458,South Gate,CA,United States}	{Shop & Service,}
+1760	Thu Jul 28 04:02:07 +0000 2011	4dffeba7ae6001fafcabc7de	{Brick oven city walk universal studios}	{33.95703760606274,-118.23432145,Los Angeles,CA,United States}	{Food,}
+1760	Thu Jul 28 04:00:33 +0000 2011	4bcb263168f976b0d56e6083	{Firestone Metro Station}	{33.959557378298385,-118.24323177337646,Los Angeles,CA,United States}	{Travel & Transport,}
+1760	Thu Jul 28 00:45:27 +0000 2011	4b7b6129f964a520e7602fe3	{Watts-Willowbrook Boys & Girls Club}	{33.92417998,-118.25138129,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Wed Jul 27 21:43:45 +0000 2011	4ad12a42f964a5202bdd20e3	{Westfield Culver City}	{33.98604389243085,-118.39315784907377,Culver City,CA,United States}	{Outdoors & Recreation,Shop & Service,}
+1760	Wed Jul 27 21:27:16 +0000 2011	4a54039af964a520f2b21fe3	{Burger King}	{34.00042438110594,-118.39493483304977,Culver City,CA,United States}	{Food,}
+1760	Wed Jul 27 21:15:11 +0000 2011	4c83f6ec51ada1cd4db02a10	{Ross}	{33.97860235775344,-118.37317915277292,Los Angeles,CA,United States}	{Shop & Service,}
+1760	Wed Jul 27 20:55:54 +0000 2011	4b64ae70f964a52008c82ae3	{Baldwin Hills Crenshaw Plaza}	{34.010585812319285,-118.33678722381592,Los Angeles,CA,United States}	{Shop & Service,}
+1760	Wed Jul 27 20:48:16 +0000 2011	4b777d5cf964a520ab9d2ee3	{Walmart}	{34.00987432937031,-118.33588600158691,Los Angeles,CA,United States}	{Shop & Service,}
+1760	Wed Jul 27 20:21:49 +0000 2011	4b9a997bf964a5202ec535e3	{Mark Ridley-Thomas Constituent Center}	{33.96138265,-118.292029,Los Angeles,CA,United States}	{}
+1760	Wed Jul 27 17:59:48 +0000 2011	4d3dcbe1557d6dcb0d354844	{Elias Pet Shop}	{33.97454675,-118.24048386666666,Los Angeles,CA,United States}	{Shop & Service,}
+1760	Wed Jul 27 17:45:03 +0000 2011	4d5c361e6f6d6ea8119762ec	{Fresh & Easy Neighborhood Market}	{33.971098391806464,-118.23297500610352,Walnut Park,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Wed Jul 27 17:42:56 +0000 2011	4da90e29a86e771ea702be43	{Chevron}	{33.982242,-118.240928,Los Angeles,CA,United States}	{Shop & Service,}
+1760	Wed Jul 27 04:55:08 +0000 2011	4b77572ef964a5206a932ee3	{Lynwood, CA}	{33.93043538926759,-118.2115602493286,Lynwood,CA,United States}	{Outdoors & Recreation,}
+1760	Wed Jul 27 04:50:40 +0000 2011	4e1cc078483b6f94577b1d1b	{Village Skate Park}	{33.896102,-118.165169,,,United States}	{Outdoors & Recreation,}
+1760	Wed Jul 27 02:05:11 +0000 2011	4bb8f77753649c743a8e47fb	{El Pollo Loco}	{33.83270061666666,-118.159181,Lakewood,CA,United States}	{Food,}
+1760	Wed Jul 27 00:07:06 +0000 2011	4bdf4056ffdec9284642eba1	{Washington Park}	{33.95869254788479,-118.24376821682334,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Tue Jul 26 19:58:00 +0000 2011	4be9bc2c415e20a15232e4bb	{Los Angeles Police Department Southeast Station}	{33.938374429776765,-118.27539650585484,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Tue Jul 26 19:03:37 +0000 2011	4da5ecab4b2280544b679093	{EastSide Bike Riders Association}	{33.93587792795484,-118.25347602264927,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+1760	Tue Jul 26 14:42:29 +0000 2011	4c1fee1cd38ec9b6e56a4d83	{Jordan Downs}	{33.94687623272517,-118.23611008322983,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Tue Jul 26 14:38:23 +0000 2011	4dcea16c7d8b975f18d2f80b	{LAFD Fire Station 65}	{33.945680599990155,-118.24088432149246,Los Angeles,CA,United States}	{Government Building,Professional & Other Places,}
+1760	Tue Jul 26 07:04:22 +0000 2011	4c3fcf53e26920a13d165ce7	{In Bed}	{33.95218682882379,-118.2351192408205,,CA,United States}	{Residence,}
+1760	Tue Jul 26 07:00:41 +0000 2011	4dffeba7ae6001fafcabc7de	{Brick oven city walk universal studios}	{33.95703760606274,-118.23432145,Los Angeles,CA,United States}	{Food,}
+1760	Tue Jul 26 07:00:15 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Tue Jul 26 05:05:48 +0000 2011	4bcf52e9a8b3a593fbff615f	{John's Drive-In Burgers}	{33.978753059863344,-118.23053616334444,Huntington Park,CA,United States}	{Food,}
+1760	Tue Jul 26 00:39:10 +0000 2011	4e25e4d1fa76a490d3bf5a4f	{Washington Park Pool}	{33.95700931938931,-118.23445637230132,Los Angeles,CA,United States}	{}
+1760	Mon Jul 25 20:35:17 +0000 2011	4b82b211f964a520f1de30e3	{Walmart}	{33.917651321962765,-118.08337211608887,Norwalk,CA,United States}	{Shop & Service,}
+1760	Mon Jul 25 19:43:14 +0000 2011	4da5ecab4b2280544b679093	{EastSide Bike Riders Association}	{33.93587792795484,-118.25347602264927,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+1760	Mon Jul 25 18:50:26 +0000 2011	4c709c28df6b8cfa300bb94d	{Phoenix Hall}	{33.93589926666667,-118.25310713333333,Los Angeles,CA,United States}	{}
+1760	Mon Jul 25 02:20:50 +0000 2011	4ba72feef964a520ee8439e3	{Chevron}	{34.03698440639298,-118.13079196234942,Monterey Park,CA,United States}	{Shop & Service,}
+1760	Mon Jul 25 02:13:40 +0000 2011	4b796551f964a52060f72ee3	{Chevron}	{34.03259638960444,-118.1244374685844,Montebello,CA,United States}	{Shop & Service,}
+1760	Sat Jul 23 20:14:21 +0000 2011	4da5ecab4b2280544b679093	{EastSide Bike Riders Association}	{33.93587792795484,-118.25347602264927,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+1760	Sat Jul 23 17:36:48 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Sat Jul 23 02:57:40 +0000 2011	4cbc7ff34c60a093add051ca	{La Alameda Plaza}	{33.97385795434439,-118.23339167769517,Huntington Park,CA,United States}	{Shop & Service,}
+1760	Fri Jul 22 20:54:57 +0000 2011	4d3d096f3ec9a35df2164e81	{Watts}	{33.94068974429656,-118.24267387390138,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Fri Jul 22 20:53:56 +0000 2011	4e25e4d1fa76a490d3bf5a4f	{Washington Park Pool}	{33.95700931938931,-118.23445637230132,Los Angeles,CA,United States}	{}
+1760	Fri Jul 22 19:02:12 +0000 2011	4d5b0d3d9c8a236a82a2da14	{Florence/Firestone Worksource}	{33.95994729358847,-118.24002770957613,Southeast,CA,United States}	{Professional & Other Places,}
+1760	Fri Jul 22 03:16:38 +0000 2011	4e25e4d1fa76a490d3bf5a4f	{Washington Park Pool}	{33.95700931938931,-118.23445637230132,Los Angeles,CA,United States}	{}
+1760	Fri Jul 22 02:23:13 +0000 2011	4c50aa2dd797e21ec447c87a	{Roosevelt Park}	{33.97102882233146,-118.24261466451189,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Thu Jul 21 23:37:44 +0000 2011	4c1fee1cd38ec9b6e56a4d83	{Jordan Downs}	{33.94687623272517,-118.23611008322983,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Thu Jul 21 21:37:03 +0000 2011	45001adcf964a520ab381fe3	{University of Southern California}	{34.02034142086885,-118.28520298004149,Los Angeles,CA,United States}	{College & University,}
+1760	Thu Jul 21 21:13:21 +0000 2011	4de963c388774880e300424f	{Foshay Learning Center}	{34.018972231897614,-118.30717306252951,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+1760	Thu Jul 21 21:07:38 +0000 2011	4a485cdcf964a520b5aa1fe3	{Natural History Museum of Los Angeles County}	{34.016828819509556,-118.28882932662964,Los Angeles,CA,United States}	{Museum,Arts & Entertainment,}
+1760	Thu Jul 21 06:38:33 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Thu Jul 21 04:13:28 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Thu Jul 21 02:10:21 +0000 2011	4bcb263168f976b0d56e6083	{Firestone Metro Station}	{33.959557378298385,-118.24323177337646,Los Angeles,CA,United States}	{Travel & Transport,}
+1760	Wed Jul 20 23:59:29 +0000 2011	4cfda02cc51fa1cd1637f22b	{Graham library}	{33.959856033325195,-118.23817312717438,Los Angeles,CA,United States}	{College & University,}
+1760	Wed Jul 20 05:51:08 +0000 2011	4e0a0154d22d658532b719a6	{So. LA Sports Activity Center}	{33.97618791576759,-118.28247623777663,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Wed Jul 20 04:04:40 +0000 2011	4d421966fe6ab60c60e84839	{7-Eleven}	{34.027286972984406,-118.25743889909835,Los Angeles,CA,United States}	{Shop & Service,}
+1760	Wed Jul 20 01:54:15 +0000 2011	4e139a01e4cd473c9688e0a3	{24 hour laundry}	{33.944483,-118.198013,South Gate,CA,United States}	{}
+1760	Wed Jul 20 01:40:18 +0000 2011	4c72e0f913228cfabb442c65	{7-Eleven}	{33.94339,-118.19488,South Gate,CA,United States}	{Shop & Service,}
+1760	Tue Jul 19 23:29:39 +0000 2011	4c50aa2dd797e21ec447c87a	{Roosevelt Park}	{33.97102882233146,-118.24261466451189,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Tue Jul 19 21:11:21 +0000 2011	4baabc1df964a52073833ae3	{Ted Watkins Memorial Park}	{33.94389154340961,-118.25197420396225,Los Angeles,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1760	Tue Jul 19 20:11:00 +0000 2011	4e25e4d1fa76a490d3bf5a4f	{Washington Park Pool}	{33.95700931938931,-118.23445637230132,Los Angeles,CA,United States}	{}
+1760	Tue Jul 19 17:00:20 +0000 2011	4e0a02d3c65b5bf277a13668	{Cerritos College Gymnasium}	{33.88521158052899,-118.09379893740008,Norwalk,CA,United States}	{Stadium,Arts & Entertainment,}
+1760	Tue Jul 19 16:58:55 +0000 2011	4c6ea2b96af58cfa8ece8c17	{Cerritos College Health Occupation Skills Lab Building Rm 109}	{33.88289013693821,-118.09797125945947,Cerritos,CA,United States}	{College & University,}
+1760	Tue Jul 19 06:38:49 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Tue Jul 19 06:37:36 +0000 2011	4d04168054d0236acc12edd5	{Nickerson Gardens}	{33.93012803664168,-118.25259663231712,Watts,CA,United States}	{Residence,}
+1760	Mon Jul 18 23:03:08 +0000 2011	4b82b211f964a520f1de30e3	{Walmart}	{33.917651321962765,-118.08337211608887,Norwalk,CA,United States}	{Shop & Service,}
+1760	Mon Jul 18 16:24:03 +0000 2011	4c155384b7b9c92864ccac37	{Santa Fe Springs Mini Park}	{33.93810846914586,-118.09348404407501,Santa Fe Springs,CA,United States}	{Outdoors & Recreation,}
+1760	Mon Jul 18 15:23:25 +0000 2011	4b80441af964a5206e6230e3	{Florence Avenue Foursquare Church}	{33.93566063593518,-118.08944463729858,Santa Fe Springs,CA,United States}	{Spiritual Center,Professional & Other Places,}
+1760	Mon Jul 18 15:07:34 +0000 2011	4bb16a18f964a520d8913ce3	{Tacos El Gavilan}	{33.953931,-118.13024201,Downey,CA,United States}	{Food,}
+1760	Sat Jul 16 19:32:50 +0000 2011	49c7323ff964a520a2571fe3	{Los Angeles Zoo}	{34.14839998630527,-118.28366301865034,Los Angeles,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+1760	Sat Jul 16 19:12:31 +0000 2011	4c86d288d92ea09326617172	{Shell}	{34.042817087935866,-118.21617791814268,Los Angeles,CA,United States}	{Shop & Service,}
+1760	Sat Jul 16 17:22:56 +0000 2011	4bdf4056ffdec9284642eba1	{Washington Park}	{33.95869254788479,-118.24376821682334,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Sat Jul 16 05:36:25 +0000 2011	4dcea16c7d8b975f18d2f80b	{LAFD Fire Station 65}	{33.945680599990155,-118.24088432149246,Los Angeles,CA,United States}	{Government Building,Professional & Other Places,}
+1760	Sat Jul 16 03:50:15 +0000 2011	4c91724757e5b60c0af7601c	{Walmart}	{33.8569097207457,-118.30159664154053,Torrance,CA,United States}	{Shop & Service,}
+1760	Sat Jul 16 03:50:15 +0000 2011	4c91724757e5b60c0af7601c	{Walmart}	{33.8569097207457,-118.30159664154053,Torrance,CA,United States}	{Shop & Service,}
+1760	Sat Jul 16 02:36:54 +0000 2011	4c6c8f24a437224b22e22ab1	{Tom's Jr Burger}	{33.94525146,-118.21634404,Lynwood,CA,United States}	{Food,}
+1760	Sat Jul 16 01:04:40 +0000 2011	4c50aa2dd797e21ec447c87a	{Roosevelt Park}	{33.97102882233146,-118.24261466451189,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Fri Jul 15 02:48:27 +0000 2011	4c50aa2dd797e21ec447c87a	{Roosevelt Park}	{33.97102882233146,-118.24261466451189,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Thu Jul 14 21:29:47 +0000 2011	4cfda02cc51fa1cd1637f22b	{Graham library}	{33.959856033325195,-118.23817312717438,Los Angeles,CA,United States}	{College & University,}
+1760	Thu Jul 14 05:41:34 +0000 2011	4d3d096f3ec9a35df2164e81	{Watts}	{33.94068974429656,-118.24267387390138,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Thu Jul 14 05:40:04 +0000 2011	4bcb263168f976b0d56e6083	{Firestone Metro Station}	{33.959557378298385,-118.24323177337646,Los Angeles,CA,United States}	{Travel & Transport,}
+1760	Thu Jul 14 05:06:10 +0000 2011	4d04168054d0236acc12edd5	{Nickerson Gardens}	{33.93012803664168,-118.25259663231712,Watts,CA,United States}	{Residence,}
+1760	Thu Jul 14 01:41:36 +0000 2011	4c8928d697828cfa3100a2aa	{Elite Sports}	{34.05337552129975,-118.04848571314446,South El Monte,CA,United States}	{Shop & Service,}
+1760	Thu Jul 14 01:18:43 +0000 2011	4c570b71d12a20a163d065bd	{Fresh & Easy Neighborhood Market}	{34.08057098,-118.07230443,Rosemead,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Thu Jul 14 01:11:16 +0000 2011	4a370709f964a520259e1fe3	{Yogurtland}	{34.078825728156254,-118.12275827103002,Alhambra,CA,United States}	{Food,}
+1760	Thu Jul 14 01:04:47 +0000 2011	4b0f5e21f964a520d06123e3	{Noodle World}	{34.077965002597566,-118.13092339278059,Alhambra,CA,United States}	{Food,}
+1760	Thu Jul 14 00:10:50 +0000 2011	4a3ae617f964a52067a01fe3	{Citadel Outlets}	{34.00654806750311,-118.15277695655823,Commerce,CA,United States}	{Outdoors & Recreation,Shop & Service,Food & Drink Shop,}
+1760	Tue Jul 12 20:05:27 +0000 2011	4be442182468c9281a7efe42	{Colonel Leon H. Washington Park}	{33.958868843568276,-118.24381961253776,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Tue Jul 12 15:26:11 +0000 2011	4d3d096f3ec9a35df2164e81	{Watts}	{33.94068974429656,-118.24267387390138,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Tue Jul 12 15:24:44 +0000 2011	4ca4a10eb0ff8cfa8b5ac15e	{Sunflower Queens Shack}	{33.95218682882379,-118.2351192408205,Los Angeles,CA,United States}	{Residence,}
+1760	Mon Jul 11 19:42:47 +0000 2011	4d704010c7f8224bd681adfb	{Bikebuyers.com}	{33.999054,-117.92137101666667,City of Industry,CA,United States}	{Shop & Service,}
+1760	Mon Jul 11 18:46:14 +0000 2011	4c8694d847cc224bd5d8aa9f	{AMPM}	{34.04440546666667,-117.98904955387115,La Puente,CA,United States}	{Shop & Service,}
+1760	Mon Jul 11 00:28:41 +0000 2011	4b82b211f964a520f1de30e3	{Walmart}	{33.917651321962765,-118.08337211608887,Norwalk,CA,United States}	{Shop & Service,}
+1760	Sun Jul 10 20:38:35 +0000 2011	4d5c361e6f6d6ea8119762ec	{Fresh & Easy Neighborhood Market}	{33.971098391806464,-118.23297500610352,Walnut Park,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Sun Jul 10 19:52:50 +0000 2011	4bbe1ad2b42aef3bf1694bc3	{Pep Boys Auto Parts & Service}	{33.985477,-118.22307,Huntington Park,CA,United States}	{Shop & Service,}
+1760	Sat Jul 09 18:06:07 +0000 2011	4e15fc6e62844b405cb5c3d4	{Clinica Santa-Marta Medical Group}	{34.02447,-118.195,Los Angeles,CA,United States}	{}
+1760	Sat Jul 09 03:09:58 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Fri Jul 08 23:46:00 +0000 2011	4dffeba7ae6001fafcabc7de	{Brick oven city walk universal studios}	{33.95703760606274,-118.23432145,Los Angeles,CA,United States}	{Food,}
+1760	Fri Jul 08 22:46:59 +0000 2011	4cfda02cc51fa1cd1637f22b	{Graham library}	{33.959856033325195,-118.23817312717438,Los Angeles,CA,United States}	{College & University,}
+1760	Fri Jul 08 21:13:20 +0000 2011	4d5b0d3d9c8a236a82a2da14	{Florence/Firestone Worksource}	{33.95994729358847,-118.24002770957613,Southeast,CA,United States}	{Professional & Other Places,}
+1760	Fri Jul 08 18:43:36 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Fri Jul 08 06:22:44 +0000 2011	4bb53a31941ad13a13f71de3	{Los Domingos}	{34.423675,-117.31775688333333,Hesperia,CA,United States}	{Food,}
+1760	Fri Jul 08 05:53:26 +0000 2011	4bbe9271b083a593f34da2e9	{Dog House}	{34.41809603,-117.29024038,Hesperia,CA,United States}	{Nightlife Spot,}
+1760	Fri Jul 08 05:51:40 +0000 2011	4da4855a22a5f04d436f3a55	{Sun Liquor}	{34.42423916638941,-117.31707153943981,hesperia,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Thu Jul 07 22:20:09 +0000 2011	4d04168054d0236acc12edd5	{Nickerson Gardens}	{33.93012803664168,-118.25259663231712,Watts,CA,United States}	{Residence,}
+1760	Thu Jul 07 18:39:06 +0000 2011	4e15fc6e62844b405cb5c3d4	{Clinica Santa-Marta Medical Group}	{34.02447,-118.195,Los Angeles,CA,United States}	{}
+1760	Thu Jul 07 16:53:45 +0000 2011	4dc057a9043706a03213c538	{DDWerks, Inc.}	{33.958566,-118.071253,Santa Fe Springs,CA,United States}	{Professional & Other Places,}
+1760	Thu Jul 07 15:56:29 +0000 2011	4cfda02cc51fa1cd1637f22b	{Graham library}	{33.959856033325195,-118.23817312717438,Los Angeles,CA,United States}	{College & University,}
+1760	Thu Jul 07 15:56:27 +0000 2011	4cfda02cc51fa1cd1637f22b	{Graham library}	{33.959856033325195,-118.23817312717438,Los Angeles,CA,United States}	{College & University,}
+1760	Thu Jul 07 15:41:14 +0000 2011	4d3d096f3ec9a35df2164e81	{Watts}	{33.94068974429656,-118.24267387390138,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Thu Jul 07 00:24:53 +0000 2011	4bdf4056ffdec9284642eba1	{Washington Park}	{33.95869254788479,-118.24376821682334,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Wed Jul 06 23:44:12 +0000 2011	4d341dcf8250f04d4d9102e1	{Tam's Burgers #6}	{33.94521382360778,-118.28271032066591,Los Angeles,CA,United States}	{Food,}
+1760	Wed Jul 06 23:20:15 +0000 2011	4b099755f964a520041a23e3	{Target}	{33.94796139863574,-118.33288192749023,Inglewood,CA,United States}	{Shop & Service,}
+1760	Wed Jul 06 15:27:59 +0000 2011	4b2007aaf964a5205b2c24e3	{California African American Museum}	{34.016526462218664,-118.28537464141846,Los Angeles,CA,United States}	{Museum,Arts & Entertainment,}
+1760	Wed Jul 06 15:24:54 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Wed Jul 06 06:49:43 +0000 2011	42893400f964a5207e231fe3	{STAPLES Center}	{34.043058660157634,-118.26724290847778,Los Angeles,CA,United States}	{Stadium,Arts & Entertainment,}
+1760	Wed Jul 06 06:07:56 +0000 2011	4d04168054d0236acc12edd5	{Nickerson Gardens}	{33.93012803664168,-118.25259663231712,Watts,CA,United States}	{Residence,}
+1760	Wed Jul 06 00:37:22 +0000 2011	4bdf4056ffdec9284642eba1	{Washington Park}	{33.95869254788479,-118.24376821682334,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Wed Jul 06 00:36:52 +0000 2011	4be442182468c9281a7efe42	{Colonel Leon H. Washington Park}	{33.958868843568276,-118.24381961253776,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Tue Jul 05 23:10:59 +0000 2011	4e139a01e4cd473c9688e0a3	{24 hour laundry}	{33.944483,-118.198013,South Gate,CA,United States}	{}
+1760	Tue Jul 05 22:26:51 +0000 2011	4dbef26443a1d8504bcaf15a	{South Gate Recreational Park}	{33.946677800209194,-118.18694942321811,South Gate,CA,United States}	{Outdoors & Recreation,}
+1760	Tue Jul 05 19:15:16 +0000 2011	4c8167f7d34ca1438e322280	{Fnr cycle}	{33.895819,-118.17549376301055,Paramount,CA,United States}	{Shop & Service,}
+1760	Tue Jul 05 18:53:12 +0000 2011	4c44952e2d3ec9b6a8142fae	{SUBWAY}	{33.90414990051644,-118.16941109543843,Paramount,CA,United States}	{Food,}
+1760	Tue Jul 05 16:53:59 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Tue Jul 05 16:34:00 +0000 2011	4d112f865f3376ebae8e1386	{WSS}	{33.95977184741389,-118.26473638764155,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,}
+1760	Tue Jul 05 16:15:21 +0000 2011	4b04c847f964a520965622e3	{Food 4 Less}	{33.97623217128929,-118.22964906692505,Huntington Park,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Tue Jul 05 02:14:04 +0000 2011	4c730f4257b6a143b24cc7cc	{Fatburger}	{33.97454557020452,-118.23347163141356,Huntington Park,CA,United States}	{Food,}
+1760	Tue Jul 05 00:30:21 +0000 2011	4b58cbeaf964a520a96b28e3	{The Ellen DeGeneres Show}	{34.147584,-118.34199503264892,Burbank,CA,United States}	{Arts & Entertainment,}
+1760	Tue Jul 05 00:29:21 +0000 2011	4c5c508885a1e21ed9485611	{Earthquake Experience}	{34.139372533535095,-118.34833145141602,San Fernando Valley,CA,United States}	{Arts & Entertainment,}
+1760	Tue Jul 05 00:27:55 +0000 2011	4b88592ff964a52021f131e3	{Universal Studio Tour}	{34.13891965292901,-118.35273027420044,Universal City,CA,United States}	{Arts & Entertainment,Theme Park,}
+1760	Mon Jul 04 22:53:53 +0000 2011	4ae5c8cbf964a520fda121e3	{Universal Studios Backlot}	{34.14091763733578,-118.34972620010376,Burbank,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1760	Mon Jul 04 22:53:25 +0000 2011	4b27031cf964a520068424e3	{The Coffee Bean & Tea Leaf}	{34.15241220050343,-118.35144366640438,Toluca Lake,CA,United States}	{Food,}
+1760	Mon Jul 04 20:36:28 +0000 2011	4b65cae2f964a52006002be3	{Revenge of the Mummy}	{34.14068676155184,-118.35648536682129,Universal City,CA,United States}	{Arts & Entertainment,Theme Park,}
+1760	Mon Jul 04 19:57:47 +0000 2011	4d1ed48486e15481b8a2ad3a	{The Federal Bar}	{34.16713295910382,-118.37632328606576,North Hollywood,CA,United States}	{Nightlife Spot,Food,}
+1760	Mon Jul 04 19:55:45 +0000 2011	4a56dcb7f964a520d7b51fe3	{Big Wangs}	{34.167771,-118.376084,North Hollywood,CA,United States}	{Nightlife Spot,Food,}
+1760	Mon Jul 04 18:48:19 +0000 2011	4a6cc0f0f964a52088d11fe3	{Universal Studios Hollywood}	{34.13763203794546,-118.35429668426512,Universal City,CA,United States}	{Arts & Entertainment,Theme Park,}
+1760	Mon Jul 04 18:29:56 +0000 2011	42853f80f964a520fb221fe3	{Universal CityWalk}	{34.136264480547794,-118.35339546203613,Universal City,CA,United States}	{Nightlife Spot,Shop & Service,Arts & Entertainment,}
+1760	Mon Jul 04 17:20:32 +0000 2011	4bcb263168f976b0d56e6083	{Firestone Metro Station}	{33.959557378298385,-118.24323177337646,Los Angeles,CA,United States}	{Travel & Transport,}
+1760	Mon Jul 04 04:44:38 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Mon Jul 04 04:44:03 +0000 2011	4d3d096f3ec9a35df2164e81	{Watts}	{33.94068974429656,-118.24267387390138,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Mon Jul 04 00:08:23 +0000 2011	4c570b71d12a20a163d065bd	{Fresh & Easy Neighborhood Market}	{34.08057098,-118.07230443,Rosemead,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Sun Jul 03 23:41:30 +0000 2011	49cdadc9f964a5200f5a1fe3	{Santa Anita Park}	{34.14075780032176,-118.04485559463501,Arcadia,CA,United States}	{Arts & Entertainment,}
+1760	Sun Jul 03 23:38:14 +0000 2011	4d159476e190721e9ef30f21	{7-Eleven}	{34.12937129004161,-118.0308269245077,Arcadia,CA,United States}	{Shop & Service,}
+1760	Sun Jul 03 23:33:32 +0000 2011	4be35771660ec928a8e3cb3b	{Starbucks Coffee (Hacienda&Valley)}	{33.98194345956278,-117.96816584862968,Hacienda Heights,CA,United States}	{Food,}
+1760	Sun Jul 03 23:28:52 +0000 2011	4bddee206198c9b6ad3e12ff	{Edwards El Monte 8}	{34.07762147447653,-118.03927530627772,El Monte,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1760	Sun Jul 03 23:26:14 +0000 2011	4cfdabf7ee9cb60c14d49bad	{The Track}	{34.06788765,-118.05128686,El Monte,CA,United States}	{Outdoors & Recreation,}
+1760	Sun Jul 03 23:04:41 +0000 2011	4d5c361e6f6d6ea8119762ec	{Fresh & Easy Neighborhood Market}	{33.971098391806464,-118.23297500610352,Walnut Park,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Sun Jul 03 23:04:06 +0000 2011	4cbc7ff34c60a093add051ca	{La Alameda Plaza}	{33.97385795434439,-118.23339167769517,Huntington Park,CA,United States}	{Shop & Service,}
+1760	Sun Jul 03 20:38:23 +0000 2011	4b7b6129f964a520e7602fe3	{Watts-Willowbrook Boys & Girls Club}	{33.92417998,-118.25138129,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Sun Jul 03 20:25:03 +0000 2011	4b6f3c45f964a52027e62ce3	{Fresh & Easy Neighborhood Market}	{33.903626203536,-118.25499057769431,Compton,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Sun Jul 03 19:49:59 +0000 2011	4ba2faa9f964a5200d2638e3	{Target}	{33.87750614726502,-118.16675662994385,Long Beach,CA,United States}	{Shop & Service,}
+1760	Sun Jul 03 16:40:32 +0000 2011	4c6b43cb7c052d7fa66529cf	{Paramount, CA}	{33.89878330658397,-118.16882729530336,Paramount,CA,United States}	{Outdoors & Recreation,}
+1760	Sun Jul 03 16:26:37 +0000 2011	4bcb263168f976b0d56e6083	{Firestone Metro Station}	{33.959557378298385,-118.24323177337646,Los Angeles,CA,United States}	{Travel & Transport,}
+1760	Sun Jul 03 15:07:10 +0000 2011	4d489d9ea0ef5481f6a8e9f6	{Nix Check Cashing}	{33.96022784062302,-118.23734363120339,,,United States}	{Shop & Service,}
+1760	Sun Jul 03 05:53:54 +0000 2011	4ce70191b99754816796f344	{Ramcast Ornamental Supply}	{33.95910465493586,-118.2335972728958,South Gate,CA,United States}	{Shop & Service,}
+1760	Sun Jul 03 01:44:46 +0000 2011	4bc357ee2a89ef3bd5dff488	{Cal Poly Pomona Building 9}	{34.05908253789793,-117.82231908759765,Pomona,CA,United States}	{College Academic Building,College & University,}
+1760	Sat Jul 02 22:04:29 +0000 2011	4bcba63c3740b713c6fc6265	{WinCo Foods}	{34.02653742366667,-117.7612541093369,Pomona,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Sat Jul 02 21:22:38 +0000 2011	4bb673f72f70c9b6a9728530	{Raging Waters}	{34.09338833261959,-117.81019449234009,San Dimas,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+1760	Sat Jul 02 20:40:31 +0000 2011	4b2ecf8cf964a520fbe624e3	{Best Buy}	{34.03208,-118.121961,Montebello,CA,United States}	{Shop & Service,}
+1760	Sat Jul 02 16:34:29 +0000 2011	4bcb263168f976b0d56e6083	{Firestone Metro Station}	{33.959557378298385,-118.24323177337646,Los Angeles,CA,United States}	{Travel & Transport,}
+1760	Sat Jul 02 16:25:37 +0000 2011	4d5c361e6f6d6ea8119762ec	{Fresh & Easy Neighborhood Market}	{33.971098391806464,-118.23297500610352,Walnut Park,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Sat Jul 02 16:17:05 +0000 2011	4df3d72e6284fefe8fc3e881	{The Real Deal Wireless}	{33.960329,-118.240504,Los Angeles,CA,United States}	{Shop & Service,}
+1760	Sat Jul 02 01:39:22 +0000 2011	4bdf4056ffdec9284642eba1	{Washington Park}	{33.95869254788479,-118.24376821682334,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Fri Jul 01 22:48:17 +0000 2011	4da5ecab4b2280544b679093	{EastSide Bike Riders Association}	{33.93587792795484,-118.25347602264927,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+1760	Fri Jul 01 22:04:12 +0000 2011	4bd1fc7ab221c9b6cfa9d6d0	{Douglas Burger}	{33.89630024074307,-118.16886263700948,Paramount,CA,United States}	{Food,}
+1760	Fri Jul 01 18:27:23 +0000 2011	4c8167f7d34ca1438e322280	{Fnr cycle}	{33.895819,-118.17549376301055,Paramount,CA,United States}	{Shop & Service,}
+1760	Fri Jul 01 17:09:21 +0000 2011	4b044944f964a520e45222e3	{Toyota HQ}	{33.85747189490425,-118.31044971787485,Torrance,CA,United States}	{Professional & Other Places,}
+1760	Fri Jul 01 06:04:09 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Thu Jun 30 23:40:16 +0000 2011	4cfda02cc51fa1cd1637f22b	{Graham library}	{33.959856033325195,-118.23817312717438,Los Angeles,CA,United States}	{College & University,}
+1760	Thu Jun 30 23:13:14 +0000 2011	4c90660afbe58cfa28ca21b9	{Yogurtland}	{34.02294333336098,-118.27953582477468,Los Angeles,CA,United States}	{Food,}
+1760	Thu Jun 30 22:44:06 +0000 2011	4b7f2909f964a5204b1b30e3	{US Post Office}	{33.97628555384967,-118.25692176818848,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Thu Jun 30 22:33:50 +0000 2011	4c1f4c13b306c928c82d68b7	{Los Angeles Memorial Coliseum}	{34.01400974062912,-118.28789591789246,Los Angeles,CA,United States}	{College & University,Arts & Entertainment,College Stadium,}
+1760	Thu Jun 30 22:32:43 +0000 2011	42547800f964a520d1201fe3	{Shrine Auditorium & Expo Hall}	{34.02286684695752,-118.28173756599426,Los Angeles,CA,United States}	{Music Venue,Arts & Entertainment,Professional & Other Places,}
+1760	Thu Jun 30 22:30:23 +0000 2011	4a485cdcf964a520b5aa1fe3	{Natural History Museum of Los Angeles County}	{34.016828819509556,-118.28882932662964,Los Angeles,CA,United States}	{Museum,Arts & Entertainment,}
+1760	Thu Jun 30 22:29:37 +0000 2011	4bc21bdc2a89ef3ba23cf388	{Exposition Park Rose Garden}	{34.017273460628054,-118.28606128692627,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Thu Jun 30 22:20:24 +0000 2011	4c003b12369476b0c3178f1f	{Community Coalition}	{33.965366,-118.292017,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Thu Jun 30 20:01:20 +0000 2011	4d3d096f3ec9a35df2164e81	{Watts}	{33.94068974429656,-118.24267387390138,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Thu Jun 30 19:33:49 +0000 2011	4c44b556f0bdd13a52f5c9cc	{General Mills - Yoplait}	{33.87993163163867,-118.25548033048305,Carson,CA,United States}	{Professional & Other Places,}
+1760	Thu Jun 30 19:06:22 +0000 2011	4c16458582a3c9b6ef0200f9	{Bret Harte Middle School}	{33.95163802969175,-118.28667826217851,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+1760	Thu Jun 30 18:47:33 +0000 2011	4c2bf687d1a10f47d0dcf864	{Inglewood, CA}	{33.9617286677365,-118.35330963134766,Inglewood,CA,United States}	{Outdoors & Recreation,}
+1760	Thu Jun 30 18:20:34 +0000 2011	4bb101fcf964a52054723ce3	{Lowe's Home Improvement}	{33.92247664983569,-118.32449180964194,Hawthorne,CA,United States}	{Shop & Service,}
+1760	Thu Jun 30 18:16:50 +0000 2011	4bb3c383715eef3b50ce86bb	{Target}	{33.92272664954814,-118.32113551300864,Hawthorne,CA,United States}	{Shop & Service,}
+1760	Thu Jun 30 17:56:35 +0000 2011	4b3fffe2f964a520fbb325e3	{Lowe's Home Improvement}	{33.824049,-118.30892,Torrance,CA,United States}	{Shop & Service,}
+1760	Thu Jun 30 17:18:06 +0000 2011	4c91724757e5b60c0af7601c	{Walmart}	{33.8569097207457,-118.30159664154053,Torrance,CA,United States}	{Shop & Service,}
+1760	Thu Jun 30 07:14:31 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Thu Jun 30 07:14:22 +0000 2011	4bdf4056ffdec9284642eba1	{Washington Park}	{33.95869254788479,-118.24376821682334,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Thu Jun 30 06:59:23 +0000 2011	4d04168054d0236acc12edd5	{Nickerson Gardens}	{33.93012803664168,-118.25259663231712,Watts,CA,United States}	{Residence,}
+1760	Thu Jun 30 01:20:59 +0000 2011	4d56c421143ca093f375bffc	{Florence-Firestone Community Service Center}	{33.967868631853754,-118.24830811214781,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Wed Jun 29 23:36:28 +0000 2011	4c7be4f688449eb0979eab79	{Watts Healthcare Corporation, Watts Health Center}	{33.943566118829246,-118.24680053760561,Los Angeles,CA,United States}	{Medical Center,Professional & Other Places,}
+1760	Wed Jun 29 22:58:07 +0000 2011	4da5ecab4b2280544b679093	{EastSide Bike Riders Association}	{33.93587792795484,-118.25347602264927,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+1760	Wed Jun 29 20:35:17 +0000 2011	4ad38fdff964a520f4e420e3	{The Home Depot}	{33.88778998738753,-118.18557990181188,Paramount,CA,United States}	{Shop & Service,}
+1760	Wed Jun 29 20:15:14 +0000 2011	4b2c06e5f964a520ebbf24e3	{The Home Depot}	{33.879868859128806,-118.22210584550776,Compton,CA,United States}	{Shop & Service,}
+1760	Wed Jun 29 19:48:20 +0000 2011	4b6f3c45f964a52027e62ce3	{Fresh & Easy Neighborhood Market}	{33.903626203536,-118.25499057769431,Compton,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Wed Jun 29 18:40:24 +0000 2011	4b955621f964a5202f9d34e3	{The Home Depot}	{33.98791753126232,-118.21479766951403,Huntington Park,CA,United States}	{Shop & Service,}
+1760	Wed Jun 29 18:23:59 +0000 2011	4b846d69f964a520c03431e3	{Target}	{33.948369499912296,-118.16799424094866,South Gate,CA,United States}	{Shop & Service,}
+1760	Wed Jun 29 05:17:49 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Wed Jun 29 04:10:36 +0000 2011	4c90e6b9ae96a09398c79e46	{Mercardo Amigo Carniceria}	{33.960305,-118.239327,Florence-Firestone,CA,United States}	{}
+1760	Wed Jun 29 00:46:42 +0000 2011	4c50aa2dd797e21ec447c87a	{Roosevelt Park}	{33.97102882233146,-118.24261466451189,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Tue Jun 28 23:15:54 +0000 2011	4d04168054d0236acc12edd5	{Nickerson Gardens}	{33.93012803664168,-118.25259663231712,Watts,CA,United States}	{Residence,}
+1760	Tue Jun 28 19:28:26 +0000 2011	4da5ecab4b2280544b679093	{EastSide Bike Riders Association}	{33.93587792795484,-118.25347602264927,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+1760	Tue Jun 28 05:46:16 +0000 2011	4b04c847f964a520965622e3	{Food 4 Less}	{33.97623217128929,-118.22964906692505,Huntington Park,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Tue Jun 28 04:00:30 +0000 2011	4da1d43e15ad530cc17d9452	{CicLAvia April 2011}	{34.04867701532946,-118.24979782104492,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Tue Jun 28 02:02:39 +0000 2011	4c1fee1cd38ec9b6e56a4d83	{Jordan Downs}	{33.94687623272517,-118.23611008322983,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Tue Jun 28 02:02:23 +0000 2011	4dcea16c7d8b975f18d2f80b	{LAFD Fire Station 65}	{33.945680599990155,-118.24088432149246,Los Angeles,CA,United States}	{Government Building,Professional & Other Places,}
+1760	Tue Jun 28 02:02:16 +0000 2011	4bdf4056ffdec9284642eba1	{Washington Park}	{33.95869254788479,-118.24376821682334,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Mon Jun 27 16:44:31 +0000 2011	4da5ecab4b2280544b679093	{EastSide Bike Riders Association}	{33.93587792795484,-118.25347602264927,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+1760	Mon Jun 27 05:20:13 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Mon Jun 27 04:40:56 +0000 2011	4c709c28df6b8cfa300bb94d	{Phoenix Hall}	{33.93589926666667,-118.25310713333333,Los Angeles,CA,United States}	{}
+1760	Mon Jun 27 04:08:37 +0000 2011	4cb3b233ef1b3704be495400	{Shell}	{33.92915116714636,-118.2543839598753,Los Angeles,CA,United States}	{Shop & Service,}
+1760	Mon Jun 27 04:08:30 +0000 2011	4d3d096f3ec9a35df2164e81	{Watts}	{33.94068974429656,-118.24267387390138,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Mon Jun 27 03:24:47 +0000 2011	4bdf4056ffdec9284642eba1	{Washington Park}	{33.95869254788479,-118.24376821682334,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Mon Jun 27 00:16:23 +0000 2011	4b79952df964a52036032fe3	{Jurassic Park: The Ride}	{34.14022500809142,-118.35777282714844,Universal City,CA,United States}	{Arts & Entertainment,Theme Park,}
+1760	Sun Jun 26 23:42:41 +0000 2011	4babf87ef964a5206cda3ae3	{Universal's Animal Actors}	{34.13915941355223,-118.35519790649414,Universal City,CA,United States}	{Arts & Entertainment,Theme Park,}
+1760	Sun Jun 26 22:49:29 +0000 2011	4a6cc0f0f964a52088d11fe3	{Universal Studios Hollywood}	{34.13763203794546,-118.35429668426512,Universal City,CA,United States}	{Arts & Entertainment,Theme Park,}
+1760	Sun Jun 26 20:48:16 +0000 2011	4b58cbeaf964a520a96b28e3	{The Ellen DeGeneres Show}	{34.147584,-118.34199503264892,Burbank,CA,United States}	{Arts & Entertainment,}
+1760	Sun Jun 26 19:58:26 +0000 2011	4c2d08e64e132d7ff3bc9bdf	{Fast And Furious Tokyo Drift Stage 55}	{34.13950692650178,-118.34901293,Universal City,CA,United States}	{Arts & Entertainment,}
+1760	Sun Jun 26 19:40:56 +0000 2011	4c86d288d92ea09326617172	{Shell}	{34.042817087935866,-118.21617791814268,Los Angeles,CA,United States}	{Shop & Service,}
+1760	Sun Jun 26 19:40:56 +0000 2011	4c86d288d92ea09326617172	{Shell}	{34.042817087935866,-118.21617791814268,Los Angeles,CA,United States}	{Shop & Service,}
+1760	Sun Jun 26 19:40:44 +0000 2011	4da1d43e15ad530cc17d9452	{CicLAvia April 2011}	{34.04867701532946,-118.24979782104492,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Sun Jun 26 18:13:37 +0000 2011	4c90e6b9ae96a09398c79e46	{Mercardo Amigo Carniceria}	{33.960305,-118.239327,Florence-Firestone,CA,United States}	{}
+1760	Sun Jun 26 18:13:37 +0000 2011	4c90e6b9ae96a09398c79e46	{Mercardo Amigo Carniceria}	{33.960305,-118.239327,Florence-Firestone,CA,United States}	{}
+1760	Sun Jun 26 18:12:45 +0000 2011	4bf2ae2f55c7c9b6705b6204	{Magic Johnson Park}	{33.91771198223456,-118.26042533143553,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Sun Jun 26 09:07:32 +0000 2011	4da5ecab4b2280544b679093	{EastSide Bike Riders Association}	{33.93587792795484,-118.25347602264927,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+1760	Sun Jun 26 09:04:27 +0000 2011	4c709c28df6b8cfa300bb94d	{Phoenix Hall}	{33.93589926666667,-118.25310713333333,Los Angeles,CA,United States}	{}
+1760	Sun Jun 26 07:31:41 +0000 2011	4d3d096f3ec9a35df2164e81	{Watts}	{33.94068974429656,-118.24267387390138,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Sun Jun 26 03:26:27 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Sun Jun 26 03:15:33 +0000 2011	4bdf4056ffdec9284642eba1	{Washington Park}	{33.95869254788479,-118.24376821682334,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Sun Jun 26 00:13:49 +0000 2011	4c90e6b9ae96a09398c79e46	{Mercardo Amigo Carniceria}	{33.960305,-118.239327,Florence-Firestone,CA,United States}	{}
+1760	Sat Jun 25 02:37:02 +0000 2011	4cdda1c2ffcf3704f5cd0c82	{Nike Factory Store}	{34.00745524275185,-118.15147876739502,Commerce,CA,United States}	{Shop & Service,Clothing Store,}
+1760	Sat Jun 25 02:26:26 +0000 2011	4a3ae617f964a52067a01fe3	{Citadel Outlets}	{34.00654806750311,-118.15277695655823,Commerce,CA,United States}	{Outdoors & Recreation,Shop & Service,Food & Drink Shop,}
+1760	Sat Jun 25 00:20:06 +0000 2011	4bce1e1229d4b713ecfba7dc	{Bannings Bikes}	{33.871628,-117.923839,Fullerton,CA,United States}	{Shop & Service,}
+1760	Sat Jun 25 00:19:41 +0000 2011	4b2830dff964a5208c9024e3	{Westminster Mall}	{33.74710908,-118.0117893,Westminster,CA,United States}	{Shop & Service,Food,}
+1760	Fri Jun 24 19:28:41 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Fri Jun 24 19:27:53 +0000 2011	4b7b6129f964a520e7602fe3	{Watts-Willowbrook Boys & Girls Club}	{33.92417998,-118.25138129,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Fri Jun 24 19:02:48 +0000 2011	4b7b6129f964a520e7602fe3	{Watts-Willowbrook Boys & Girls Club}	{33.92417998,-118.25138129,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Fri Jun 24 18:16:25 +0000 2011	4c2e3e7c7cc0c9b6bbaee99a	{Taco Bell}	{33.92617,-118.2386893965981,Los Angeles,CA,United States}	{Food,}
+1760	Fri Jun 24 15:11:57 +0000 2011	4c8e92c158668cfa6320d3ec	{Lillian St. Elementary}	{33.985808853428075,-118.24051883426479,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+1760	Fri Jun 24 05:16:05 +0000 2011	4bdf4056ffdec9284642eba1	{Washington Park}	{33.95869254788479,-118.24376821682334,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Fri Jun 24 05:16:03 +0000 2011	4bdf4056ffdec9284642eba1	{Washington Park}	{33.95869254788479,-118.24376821682334,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Thu Jun 23 21:41:55 +0000 2011	4c5c6454857ca593c3f3c9cb	{Magdaleno's Barber Shop}	{33.96749,-118.210173,Huntington Park,CA,United States}	{Shop & Service,}
+1760	Thu Jun 23 18:31:20 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Wed Jun 22 17:03:24 +0000 2011	4c7ed2c9d860b60c031f5f9d	{Graham elementary}	{33.96138708632094,-118.23844011084621,Los Angeles,CA,United States}	{College & University,}
+1760	Wed Jun 22 04:03:46 +0000 2011	4c4be1859c8d2d7f8d119e6b	{The  Donka Lounge}	{33.94213,-118.2414,Los Angeles,CA,United States}	{}
+1760	Wed Jun 22 03:34:26 +0000 2011	4be442182468c9281a7efe42	{Colonel Leon H. Washington Park}	{33.958868843568276,-118.24381961253776,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Wed Jun 22 03:34:13 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Tue Jun 21 17:41:34 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Tue Jun 21 04:33:50 +0000 2011	4d489d9ea0ef5481f6a8e9f6	{Nix Check Cashing}	{33.96022784062302,-118.23734363120339,,,United States}	{Shop & Service,}
+1760	Tue Jun 21 04:21:16 +0000 2011	4b9ff110f964a520514c37e3	{Lynwood Sheriff's Station}	{33.928697651345594,-118.22939965542466,Lynwood,CA,United States}	{Government Building,Professional & Other Places,}
+1760	Tue Jun 21 04:08:25 +0000 2011	4c7717b8f2473704b43e65eb	{605/91 Interchange}	{33.836574,-118.086652,Cerritos,CA,United States}	{Travel & Transport,}
+1760	Tue Jun 21 01:12:54 +0000 2011	4d584ba27c0b370467ece008	{Martin Luther King Jr. Pool}	{33.791381974077225,-118.17860322886979,,,United States}	{Outdoors & Recreation,}
+1760	Tue Jun 21 00:51:23 +0000 2011	4bb7d6ef98c7ef3bf3743002	{Metro Blue Line Pacific Coast Hwy Station}	{33.78950903435831,-118.1893515586853,Long Beach,CA,United States}	{Travel & Transport,}
+1760	Mon Jun 20 23:13:00 +0000 2011	4b86b498f964a5207d9731e3	{St. Francis Medical Center}	{33.92996303327526,-118.20285806132823,,CA,United States}	{Medical Center,Professional & Other Places,}
+1760	Mon Jun 20 22:27:51 +0000 2011	4c90e6b9ae96a09398c79e46	{Mercardo Amigo Carniceria}	{33.960305,-118.239327,Florence-Firestone,CA,United States}	{}
+1760	Mon Jun 20 21:07:37 +0000 2011	4b7b6129f964a520e7602fe3	{Watts-Willowbrook Boys & Girls Club}	{33.92417998,-118.25138129,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Mon Jun 20 20:11:24 +0000 2011	4da5ecab4b2280544b679093	{EastSide Bike Riders Association}	{33.93587792795484,-118.25347602264927,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+1760	Mon Jun 20 16:42:19 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Mon Jun 20 16:41:54 +0000 2011	4d3d096f3ec9a35df2164e81	{Watts}	{33.94068974429656,-118.24267387390138,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Mon Jun 20 06:12:16 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Mon Jun 20 05:11:10 +0000 2011	4c3fd3f9d691c9b6c5698a0a	{Nosey Neighbors House}	{33.95218682882379,-118.2351192408205,,CA,United States}	{Residence,}
+1760	Mon Jun 20 05:05:39 +0000 2011	4bdf4056ffdec9284642eba1	{Washington Park}	{33.95869254788479,-118.24376821682334,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Mon Jun 20 04:05:20 +0000 2011	4ba72feef964a520ee8439e3	{Chevron}	{34.03698440639298,-118.13079196234942,Monterey Park,CA,United States}	{Shop & Service,}
+1760	Mon Jun 20 01:31:53 +0000 2011	4b77572ef964a5206a932ee3	{Lynwood, CA}	{33.93043538926759,-118.2115602493286,Lynwood,CA,United States}	{Outdoors & Recreation,}
+1760	Sun Jun 19 23:15:21 +0000 2011	4c65c7439cb82d7fc7de8ed2	{Sheriffs Y.A.L}	{33.8901802,-118.219411,Compton,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+1760	Sun Jun 19 23:14:28 +0000 2011	4d92217880d3370448d4ac06	{City Of Compton Parks & Recreation}	{33.902634940167715,-118.21970191032446,Compton,CA,United States}	{Professional & Other Places,}
+1760	Sun Jun 19 21:40:38 +0000 2011	4bbbe2a2e4529521c25b55a4	{Kelly Park}	{33.88573620116582,-118.19735527038574,Compton,CA,United States}	{Outdoors & Recreation,}
+1760	Sun Jun 19 21:01:34 +0000 2011	4ca046a92fb1a1430b15fb40	{Bixby Knolls Car Wash}	{33.81917635380253,-118.1857612147948,Long Beach,CA,United States}	{Shop & Service,}
+1760	Sun Jun 19 20:52:01 +0000 2011	4c8454b3d8086dcb2ebc8852	{Long beach Skatepark}	{33.7837411078593,-118.19258187702297,Long Beach,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1760	Sun Jun 19 20:31:41 +0000 2011	4c8aab0652a98cfa95b92ee9	{Compton Fashion Center}	{33.90956997367271,-118.20805589810406,Compton,CA,United States}	{Shop & Service,}
+1760	Sun Jun 19 19:33:46 +0000 2011	4d3d096f3ec9a35df2164e81	{Watts}	{33.94068974429656,-118.24267387390138,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Sun Jun 19 04:18:20 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Sun Jun 19 03:25:32 +0000 2011	4bd0b819462cb7137df0d807	{Bank Of America}	{33.95704507827759,-118.2344663143158,Los Angeles,CA,United States}	{}
+1760	Sat Jun 18 22:34:18 +0000 2011	4dd2ce7c81dcfc9dcdc1f4bd	{Bail Hotline Bail Bonds, Lynwood}	{33.93069,-118.20917,Lynwood,CA,United States}	{Professional & Other Places,}
+1760	Fri Jun 17 21:37:33 +0000 2011	4d40d23aadb6236a20158c40	{76}	{33.929189116135284,-118.25097799301147,Los Angeles,CA,United States}	{Shop & Service,}
+1760	Fri Jun 17 20:39:29 +0000 2011	4bc627ec04e8b7131089352d	{SUBWAY}	{33.943591,-118.244649,Los Angeles,CA,United States}	{Food,}
+1760	Fri Jun 17 19:17:03 +0000 2011	4da5ecab4b2280544b679093	{EastSide Bike Riders Association}	{33.93587792795484,-118.25347602264927,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+1760	Fri Jun 17 17:08:44 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Fri Jun 17 14:50:27 +0000 2011	4cb3b233ef1b3704be495400	{Shell}	{33.92915116714636,-118.2543839598753,Los Angeles,CA,United States}	{Shop & Service,}
+1760	Fri Jun 17 01:05:12 +0000 2011	4b7b6129f964a520e7602fe3	{Watts-Willowbrook Boys & Girls Club}	{33.92417998,-118.25138129,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Fri Jun 17 01:03:59 +0000 2011	4b7b6129f964a520e7602fe3	{Watts-Willowbrook Boys & Girls Club}	{33.92417998,-118.25138129,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Fri Jun 17 00:44:55 +0000 2011	4d5c361e6f6d6ea8119762ec	{Fresh & Easy Neighborhood Market}	{33.971098391806464,-118.23297500610352,Walnut Park,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Thu Jun 16 23:37:14 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Thu Jun 16 23:36:18 +0000 2011	4ce70191b99754816796f344	{Ramcast Ornamental Supply}	{33.95910465493586,-118.2335972728958,South Gate,CA,United States}	{Shop & Service,}
+1760	Thu Jun 16 23:02:05 +0000 2011	4c8e92c158668cfa6320d3ec	{Lillian St. Elementary}	{33.985808853428075,-118.24051883426479,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+1760	Thu Jun 16 22:36:17 +0000 2011	4c7ed2c9d860b60c031f5f9d	{Graham elementary}	{33.96138708632094,-118.23844011084621,Los Angeles,CA,United States}	{College & University,}
+1760	Thu Jun 16 18:21:11 +0000 2011	4bcb263168f976b0d56e6083	{Firestone Metro Station}	{33.959557378298385,-118.24323177337646,Los Angeles,CA,United States}	{Travel & Transport,}
+1760	Thu Jun 16 18:20:07 +0000 2011	4bdf4056ffdec9284642eba1	{Washington Park}	{33.95869254788479,-118.24376821682334,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Thu Jun 16 15:23:04 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Thu Jun 16 15:01:18 +0000 2011	4d489d9ea0ef5481f6a8e9f6	{Nix Check Cashing}	{33.96022784062302,-118.23734363120339,,,United States}	{Shop & Service,}
+1760	Thu Jun 16 15:01:18 +0000 2011	4d489d9ea0ef5481f6a8e9f6	{Nix Check Cashing}	{33.96022784062302,-118.23734363120339,,,United States}	{Shop & Service,}
+1760	Thu Jun 16 14:39:14 +0000 2011	4b7f2909f964a5204b1b30e3	{US Post Office}	{33.97628555384967,-118.25692176818848,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Thu Jun 16 05:48:37 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Thu Jun 16 05:39:29 +0000 2011	4cf52cedcc61a35dba5b299e	{Ballroom Delux}	{34.037,-118.216413,Los Angeles,CA,United States}	{Nightlife Spot,}
+1760	Thu Jun 16 05:38:20 +0000 2011	4da1d43e15ad530cc17d9452	{CicLAvia April 2011}	{34.04867701532946,-118.24979782104492,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Thu Jun 16 03:36:29 +0000 2011	4c86d288d92ea09326617172	{Shell}	{34.042817087935866,-118.21617791814268,Los Angeles,CA,United States}	{Shop & Service,}
+1760	Thu Jun 16 00:27:17 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Wed Jun 15 22:18:49 +0000 2011	4da5ecab4b2280544b679093	{EastSide Bike Riders Association}	{33.93587792795484,-118.25347602264927,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+1760	Wed Jun 15 22:15:40 +0000 2011	4c7be4f688449eb0979eab79	{Watts Healthcare Corporation, Watts Health Center}	{33.943566118829246,-118.24680053760561,Los Angeles,CA,United States}	{Medical Center,Professional & Other Places,}
+1760	Wed Jun 15 22:14:11 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Wed Jun 15 19:19:52 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Wed Jun 15 18:43:42 +0000 2011	4d3d096f3ec9a35df2164e81	{Watts}	{33.94068974429656,-118.24267387390138,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Wed Jun 15 17:03:49 +0000 2011	4c7ed2c9d860b60c031f5f9d	{Graham elementary}	{33.96138708632094,-118.23844011084621,Los Angeles,CA,United States}	{College & University,}
+1760	Wed Jun 15 16:20:48 +0000 2011	4c96cc81f7cfa1cdf68dc915	{Firestone Laundry}	{33.959768,-118.235564,LA,CA,United States}	{Professional & Other Places,}
+1760	Wed Jun 15 14:45:32 +0000 2011	4c1fee1cd38ec9b6e56a4d83	{Jordan Downs}	{33.94687623272517,-118.23611008322983,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Wed Jun 15 05:18:53 +0000 2011	4defa0e9c65bf3f03e9aeb59	{Larry's Barber Shop}	{33.95287,-118.23627,Watts,,United States}	{}
+1760	Wed Jun 15 04:33:36 +0000 2011	4bdf4056ffdec9284642eba1	{Washington Park}	{33.95869254788479,-118.24376821682334,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Wed Jun 15 04:03:39 +0000 2011	4c7ed2c9d860b60c031f5f9d	{Graham elementary}	{33.96138708632094,-118.23844011084621,Los Angeles,CA,United States}	{College & University,}
+1760	Wed Jun 15 02:39:37 +0000 2011	4d489d9ea0ef5481f6a8e9f6	{Nix Check Cashing}	{33.96022784062302,-118.23734363120339,,,United States}	{Shop & Service,}
+1760	Wed Jun 15 00:05:06 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Tue Jun 14 21:00:54 +0000 2011	4da5ecab4b2280544b679093	{EastSide Bike Riders Association}	{33.93587792795484,-118.25347602264927,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+1760	Tue Jun 14 20:35:42 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Tue Jun 14 05:52:24 +0000 2011	4c437bdd8c1f20a167243b99	{92nd St Elementary}	{33.9519641198184,-118.23635565135741,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+1760	Tue Jun 14 05:39:37 +0000 2011	4dc5049bb0fb5556cce5cd49	{Maywood Nails}	{33.98796140952064,-118.1866980721172,Maywood,CA,United States}	{Shop & Service,}
+1760	Tue Jun 14 04:05:02 +0000 2011	4da1d43e15ad530cc17d9452	{CicLAvia April 2011}	{34.04867701532946,-118.24979782104492,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Mon Jun 13 23:40:09 +0000 2011	4bc627ec04e8b7131089352d	{SUBWAY}	{33.943591,-118.244649,Los Angeles,CA,United States}	{Food,}
+1760	Mon Jun 13 23:40:09 +0000 2011	4bc627ec04e8b7131089352d	{SUBWAY}	{33.943591,-118.244649,Los Angeles,CA,United States}	{Food,}
+1760	Mon Jun 13 22:30:24 +0000 2011	4d3d096f3ec9a35df2164e81	{Watts}	{33.94068974429656,-118.24267387390138,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Mon Jun 13 15:43:15 +0000 2011	4d5c361e6f6d6ea8119762ec	{Fresh & Easy Neighborhood Market}	{33.971098391806464,-118.23297500610352,Walnut Park,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Mon Jun 13 15:42:39 +0000 2011	4c7ed2c9d860b60c031f5f9d	{Graham elementary}	{33.96138708632094,-118.23844011084621,Los Angeles,CA,United States}	{College & University,}
+1760	Mon Jun 13 14:48:55 +0000 2011	4b7f2909f964a5204b1b30e3	{US Post Office}	{33.97628555384967,-118.25692176818848,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Mon Jun 13 05:40:18 +0000 2011	4b58cbeaf964a520a96b28e3	{The Ellen DeGeneres Show}	{34.147584,-118.34199503264892,Burbank,CA,United States}	{Arts & Entertainment,}
+1760	Mon Jun 13 05:37:26 +0000 2011	4cb3b233ef1b3704be495400	{Shell}	{33.92915116714636,-118.2543839598753,Los Angeles,CA,United States}	{Shop & Service,}
+1760	Mon Jun 13 03:57:33 +0000 2011	4b4e3b10f964a52022e626e3	{Shell}	{34.0379596757941,-118.14633435207324,Monterey Park,CA,United States}	{Shop & Service,}
+1760	Mon Jun 13 00:38:12 +0000 2011	4ac3dbbff964a5201f9d20e3	{Acme graphic arts finishing}	{33.98469,-118.20501387,Vernon,CA,United States}	{}
+1760	Mon Jun 13 00:37:16 +0000 2011	4dedb07ac65bf34fc6db8a4e	{Primo Burgers}	{33.98924,-118.20321,Maywood,CA,United States}	{Food,}
+1760	Sun Jun 12 22:50:55 +0000 2011	4e4d52c4d164e69742d6ee3b	{La Habra, CA}	{33.931824072132855,-117.94610738754272,La Habra,CA,United States}	{Outdoors & Recreation,}
+1760	Sat Jun 11 22:27:23 +0000 2011	4c047827310fc9b67766c761	{I-105 (Century Freeway / Glenn Anderson Freeway)}	{33.92749771628687,-118.2589066028595,Southern California,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Sat Jun 11 02:56:24 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Fri Jun 10 21:38:59 +0000 2011	4ca6910cb0b8236a27d9a0e6	{Fairplex Park and Ride}	{34.073910572126806,-117.7854323387146,Pomona,CA,United States}	{Travel & Transport,Bus Station,}
+1760	Fri Jun 10 18:03:35 +0000 2011	4d704010c7f8224bd681adfb	{Bikebuyers.com}	{33.999054,-117.92137101666667,City of Industry,CA,United States}	{Shop & Service,}
+1760	Fri Jun 10 17:25:58 +0000 2011	4b80441af964a5206e6230e3	{Florence Avenue Foursquare Church}	{33.93566063593518,-118.08944463729858,Santa Fe Springs,CA,United States}	{Spiritual Center,Professional & Other Places,}
+1760	Fri Jun 10 17:21:11 +0000 2011	4c65c3a18e9120a1ab28d664	{City of Downey}	{33.94000437887041,-118.13300371170043,Downey,CA,United States}	{Outdoors & Recreation,}
+1760	Fri Jun 10 17:04:25 +0000 2011	4c4e1e4e9932e21e630e3bcd	{Salt lake park playground}	{33.973082596328545,-118.20626808841018,Huntington Park,CA,United States}	{Outdoors & Recreation,}
+1760	Fri Jun 10 15:01:53 +0000 2011	4c7ed2c9d860b60c031f5f9d	{Graham elementary}	{33.96138708632094,-118.23844011084621,Los Angeles,CA,United States}	{College & University,}
+1760	Fri Jun 10 03:55:09 +0000 2011	4c96cc81f7cfa1cdf68dc915	{Firestone Laundry}	{33.959768,-118.235564,LA,CA,United States}	{Professional & Other Places,}
+1760	Thu Jun 09 22:32:43 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Thu Jun 09 20:15:38 +0000 2011	4bc627ec04e8b7131089352d	{SUBWAY}	{33.943591,-118.244649,Los Angeles,CA,United States}	{Food,}
+1760	Thu Jun 09 18:15:57 +0000 2011	4ce89871948f224bf1a8f15d	{JORDAN DOWNS HOUSING PROJECT}	{33.944888098893266,-118.23477944052145,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Thu Jun 09 02:28:12 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Thu Jun 09 01:06:59 +0000 2011	4c56ec40744a0f47e6bac7cb	{Food 4 Less}	{33.9447454761827,-118.24370539981811,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Wed Jun 08 22:56:58 +0000 2011	4dcea16c7d8b975f18d2f80b	{LAFD Fire Station 65}	{33.945680599990155,-118.24088432149246,Los Angeles,CA,United States}	{Government Building,Professional & Other Places,}
+1760	Wed Jun 08 22:02:47 +0000 2011	4da5ecab4b2280544b679093	{EastSide Bike Riders Association}	{33.93587792795484,-118.25347602264927,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+1760	Wed Jun 08 16:18:51 +0000 2011	4defa0e9c65bf3f03e9aeb59	{Larry's Barber Shop}	{33.95287,-118.23627,Watts,,United States}	{}
+1760	Wed Jun 08 15:43:26 +0000 2011	4c8e92c158668cfa6320d3ec	{Lillian St. Elementary}	{33.985808853428075,-118.24051883426479,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+1760	Wed Jun 08 15:40:10 +0000 2011	4c7ed2c9d860b60c031f5f9d	{Graham elementary}	{33.96138708632094,-118.23844011084621,Los Angeles,CA,United States}	{College & University,}
+1760	Wed Jun 08 04:01:17 +0000 2011	4c96cc81f7cfa1cdf68dc915	{Firestone Laundry}	{33.959768,-118.235564,LA,CA,United States}	{Professional & Other Places,}
+1760	Tue Jun 07 23:41:57 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Tue Jun 07 22:17:23 +0000 2011	4da5ecab4b2280544b679093	{EastSide Bike Riders Association}	{33.93587792795484,-118.25347602264927,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+1760	Tue Jun 07 06:06:33 +0000 2011	4da1d43e15ad530cc17d9452	{CicLAvia April 2011}	{34.04867701532946,-118.24979782104492,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Tue Jun 07 01:34:16 +0000 2011	4be442182468c9281a7efe42	{Colonel Leon H. Washington Park}	{33.958868843568276,-118.24381961253776,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Mon Jun 06 22:30:27 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Mon Jun 06 22:28:20 +0000 2011	4c96cc81f7cfa1cdf68dc915	{Firestone Laundry}	{33.959768,-118.235564,LA,CA,United States}	{Professional & Other Places,}
+1760	Tue May 31 18:03:11 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Tue May 31 14:16:50 +0000 2011	4c96cc81f7cfa1cdf68dc915	{Firestone Laundry}	{33.959768,-118.235564,LA,CA,United States}	{Professional & Other Places,}
+1760	Mon May 30 22:53:11 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Mon May 30 04:33:32 +0000 2011	4b8b21c5f964a5205f9432e3	{Avalon Metro Station}	{33.92748436299655,-118.2651937007904,Los Angeles,CA,United States}	{Travel & Transport,}
+1760	Mon May 30 04:33:03 +0000 2011	4d3f6c77cb84b60c761f7dab	{Jack H. Skirball Middle School}	{33.9304373,-118.26498484,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+1760	Mon May 30 01:40:23 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Sat May 28 02:15:15 +0000 2011	4d3f6c77cb84b60c761f7dab	{Jack H. Skirball Middle School}	{33.9304373,-118.26498484,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+1760	Fri May 27 22:13:58 +0000 2011	4d31f14d329e54810eb4ab1d	{Vikis Canton}	{33.95644,-118.239956,Los Angeles,CA,United States}	{}
+1760	Fri May 27 18:14:46 +0000 2011	4c8167f7d34ca1438e322280	{Fnr cycle}	{33.895819,-118.17549376301055,Paramount,CA,United States}	{Shop & Service,}
+1760	Fri May 27 02:29:40 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Thu May 26 20:36:03 +0000 2011	4da5ecab4b2280544b679093	{EastSide Bike Riders Association}	{33.93587792795484,-118.25347602264927,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+1760	Thu May 26 17:37:04 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Thu May 26 16:49:31 +0000 2011	4bc4f180c839ef3be96d304e	{SUBWAY}	{33.931470866666665,-118.26473678,Los Angeles,CA,United States}	{Food,}
+1760	Thu May 26 15:51:00 +0000 2011	4c7ed2c9d860b60c031f5f9d	{Graham elementary}	{33.96138708632094,-118.23844011084621,Los Angeles,CA,United States}	{College & University,}
+1760	Thu May 26 15:05:28 +0000 2011	4d5c361e6f6d6ea8119762ec	{Fresh & Easy Neighborhood Market}	{33.971098391806464,-118.23297500610352,Walnut Park,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Thu May 26 08:53:51 +0000 2011	4ae0a807f964a5205a8121e3	{Regal LA LIVE Stadium 14}	{34.04569008803841,-118.26687812805174,Los Angeles,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1760	Mon May 23 15:31:42 +0000 2011	4c7ed2c9d860b60c031f5f9d	{Graham elementary}	{33.96138708632094,-118.23844011084621,Los Angeles,CA,United States}	{College & University,}
+1760	Mon May 23 14:53:54 +0000 2011	4c50aa2dd797e21ec447c87a	{Roosevelt Park}	{33.97102882233146,-118.24261466451189,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Mon May 23 14:49:22 +0000 2011	4c8e92c158668cfa6320d3ec	{Lillian St. Elementary}	{33.985808853428075,-118.24051883426479,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+1760	Mon May 23 14:48:59 +0000 2011	4c97cc8cca6a8cfad923e6a4	{Florence ave school}	{33.974014729571664,-118.23853719464356,LA,CA,United States}	{College & University,}
+1760	Sun May 22 06:25:23 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Sun May 22 02:28:36 +0000 2011	4bcb263168f976b0d56e6083	{Firestone Metro Station}	{33.959557378298385,-118.24323177337646,Los Angeles,CA,United States}	{Travel & Transport,}
+1760	Sat May 21 20:50:20 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Sat May 21 20:50:09 +0000 2011	4da5ecab4b2280544b679093	{EastSide Bike Riders Association}	{33.93587792795484,-118.25347602264927,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+1760	Sat May 21 19:30:37 +0000 2011	4be9bc2c415e20a15232e4bb	{Los Angeles Police Department Southeast Station}	{33.938374429776765,-118.27539650585484,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Sat May 21 19:30:37 +0000 2011	4be9bc2c415e20a15232e4bb	{Los Angeles Police Department Southeast Station}	{33.938374429776765,-118.27539650585484,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Sat May 21 19:05:04 +0000 2011	4bf2ae2f55c7c9b6705b6204	{Magic Johnson Park}	{33.91771198223456,-118.26042533143553,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Sat May 21 18:24:48 +0000 2011	4b9a997bf964a5202ec535e3	{Mark Ridley-Thomas Constituent Center}	{33.96138265,-118.292029,Los Angeles,CA,United States}	{}
+1760	Sat May 21 18:24:48 +0000 2011	4b9a997bf964a5202ec535e3	{Mark Ridley-Thomas Constituent Center}	{33.96138265,-118.292029,Los Angeles,CA,United States}	{}
+1760	Sat May 21 17:41:45 +0000 2011	4be7487acf200f478e86153c	{LAPD - Southwest Station}	{34.01079718957529,-118.30521503098166,Los Angeles,CA,United States}	{Government Building,Professional & Other Places,}
+1760	Sat May 21 17:09:53 +0000 2011	4c50c72f0ef3a593592ee27a	{Inglewood Park Cemetery}	{33.96601769137931,-118.33904027938843,Inglewood,CA,United States}	{Outdoors & Recreation,}
+1760	Sat May 21 16:59:57 +0000 2011	47cedc51f964a520064e1fe3	{The Forum}	{33.95820919323983,-118.34187805652618,Inglewood,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1760	Fri May 20 23:45:26 +0000 2011	4c9e779d7c096dcb8095d5d1	{Superior Grocers}	{33.89503413799583,-118.22271823883057,Compton,CA,United States}	{Food,}
+1760	Fri May 20 21:14:57 +0000 2011	4da5ecab4b2280544b679093	{EastSide Bike Riders Association}	{33.93587792795484,-118.25347602264927,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+1760	Fri May 20 18:30:11 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Fri May 20 17:04:55 +0000 2011	4b9e5caaf964a520f3dc36e3	{Fresh & Easy Neighborhood Market}	{33.901691944433836,-118.10136048358218,Norwalk,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Fri May 20 15:56:03 +0000 2011	4c6ea2b96af58cfa8ece8c17	{Cerritos College Health Occupation Skills Lab Building Rm 109}	{33.88289013693821,-118.09797125945947,Cerritos,CA,United States}	{College & University,}
+1760	Fri May 20 04:28:57 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Fri May 20 01:19:00 +0000 2011	4be5888cd4f7c9b6917d2520	{Jesse Owens Swimming Pool}	{33.94693788632466,-118.30966472625732,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Fri May 20 00:52:43 +0000 2011	4da5ecab4b2280544b679093	{EastSide Bike Riders Association}	{33.93587792795484,-118.25347602264927,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+1760	Fri May 20 00:10:56 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Thu May 19 22:20:57 +0000 2011	4c7051953444370435d6235f	{Elizabeth Bakery}	{33.95522625548562,-118.22039870412216,South Gate,CA,United States}	{Food,}
+1760	Thu May 19 22:11:45 +0000 2011	4d5c361e6f6d6ea8119762ec	{Fresh & Easy Neighborhood Market}	{33.971098391806464,-118.23297500610352,Walnut Park,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Thu May 19 19:42:04 +0000 2011	4b6f3c45f964a52027e62ce3	{Fresh & Easy Neighborhood Market}	{33.903626203536,-118.25499057769431,Compton,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Thu May 19 07:52:26 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Thu May 19 02:04:43 +0000 2011	4c56ec40744a0f47e6bac7cb	{Food 4 Less}	{33.9447454761827,-118.24370539981811,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Thu May 19 01:24:49 +0000 2011	4baabc1df964a52073833ae3	{Ted Watkins Memorial Park}	{33.94389154340961,-118.25197420396225,Los Angeles,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1760	Wed May 18 23:48:19 +0000 2011	4c1fee1cd38ec9b6e56a4d83	{Jordan Downs}	{33.94687623272517,-118.23611008322983,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Wed May 18 23:48:19 +0000 2011	4c1fee1cd38ec9b6e56a4d83	{Jordan Downs}	{33.94687623272517,-118.23611008322983,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Wed May 18 16:42:10 +0000 2011	4d3f6c77cb84b60c761f7dab	{Jack H. Skirball Middle School}	{33.9304373,-118.26498484,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+1760	Wed May 18 15:40:25 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Wed May 18 14:54:08 +0000 2011	4c8e92c158668cfa6320d3ec	{Lillian St. Elementary}	{33.985808853428075,-118.24051883426479,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+1760	Wed May 18 05:17:28 +0000 2011	4c7ed2c9d860b60c031f5f9d	{Graham elementary}	{33.96138708632094,-118.23844011084621,Los Angeles,CA,United States}	{College & University,}
+1760	Tue May 17 01:10:09 +0000 2011	4c6f114634443704e5f81f5f	{City of Compton}	{33.91398311562303,-118.2461929321289,Compton,CA,United States}	{Outdoors & Recreation,}
+1760	Mon May 16 14:57:43 +0000 2011	4b9ff110f964a520514c37e3	{Lynwood Sheriff's Station}	{33.928697651345594,-118.22939965542466,Lynwood,CA,United States}	{Government Building,Professional & Other Places,}
+1760	Mon May 16 14:42:56 +0000 2011	4d55f5e058856dcb1131516d	{Mobil}	{33.88851561758164,-118.19329591738405,COMPTON,CA,United States}	{Shop & Service,}
+1760	Mon May 16 14:26:42 +0000 2011	4c6ea2b96af58cfa8ece8c17	{Cerritos College Health Occupation Skills Lab Building Rm 109}	{33.88289013693821,-118.09797125945947,Cerritos,CA,United States}	{College & University,}
+1760	Mon May 16 10:32:53 +0000 2011	4c72e0f913228cfabb442c65	{7-Eleven}	{33.94339,-118.19488,South Gate,CA,United States}	{Shop & Service,}
+1760	Mon May 16 06:51:45 +0000 2011	4c9e28680e9bb1f7364ee45f	{24 Coin Laundry}	{33.943284452029545,-118.19394140733021,South Gate,CA,United States}	{Shop & Service,}
+1760	Mon May 16 06:51:45 +0000 2011	4c9e28680e9bb1f7364ee45f	{24 Coin Laundry}	{33.943284452029545,-118.19394140733021,South Gate,CA,United States}	{Shop & Service,}
+1760	Sun May 15 06:42:42 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Sun May 15 05:20:33 +0000 2011	43ca6968f964a520af2d1fe3	{Olvera Street}	{34.057388285588054,-118.2379800081253,Los Angeles,CA,United States}	{Outdoors & Recreation,Food,Arts & Entertainment,}
+1760	Sun May 15 04:10:43 +0000 2011	4b91f9ddf964a520e0e133e3	{MacArthur Park}	{34.05866823354151,-118.27752113342285,Los Angeles,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+1760	Sun May 15 01:54:32 +0000 2011	4d967faa942ba093bb7f558c	{Staples Center WANGO TANGO}	{34.043986,-118.267155,Los Angeles,CA,United States}	{Arts & Entertainment,}
+1760	Sun May 15 01:23:10 +0000 2011	4bcb263168f976b0d56e6083	{Firestone Metro Station}	{33.959557378298385,-118.24323177337646,Los Angeles,CA,United States}	{Travel & Transport,}
+1760	Sun May 15 00:10:15 +0000 2011	4c506e0238b0be9a9b5083fd	{Rigo's Taco}	{33.960002,-118.23982419,Los Angeles,CA,United States}	{Food,}
+1760	Sun May 15 00:10:15 +0000 2011	4c506e0238b0be9a9b5083fd	{Rigo's Taco}	{33.960002,-118.23982419,Los Angeles,CA,United States}	{Food,}
+1760	Sat May 14 15:36:13 +0000 2011	4dcea16c7d8b975f18d2f80b	{LAFD Fire Station 65}	{33.945680599990155,-118.24088432149246,Los Angeles,CA,United States}	{Government Building,Professional & Other Places,}
+1760	Sat May 14 01:29:00 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Fri May 13 19:44:28 +0000 2011	4da5ecab4b2280544b679093	{EastSide Bike Riders Association}	{33.93587792795484,-118.25347602264927,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+1760	Fri May 13 01:46:48 +0000 2011	4b9a997bf964a5202ec535e3	{Mark Ridley-Thomas Constituent Center}	{33.96138265,-118.292029,Los Angeles,CA,United States}	{}
+1760	Thu May 12 20:20:25 +0000 2011	4da5ecab4b2280544b679093	{EastSide Bike Riders Association}	{33.93587792795484,-118.25347602264927,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+1760	Thu May 12 01:14:22 +0000 2011	4c50aa2dd797e21ec447c87a	{Roosevelt Park}	{33.97102882233146,-118.24261466451189,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Wed May 11 20:17:54 +0000 2011	4c709c28df6b8cfa300bb94d	{Phoenix Hall}	{33.93589926666667,-118.25310713333333,Los Angeles,CA,United States}	{}
+1760	Wed May 11 05:06:19 +0000 2011	4a3ae617f964a52067a01fe3	{Citadel Outlets}	{34.00654806750311,-118.15277695655823,Commerce,CA,United States}	{Outdoors & Recreation,Shop & Service,Food & Drink Shop,}
+1760	Wed May 11 04:24:56 +0000 2011	4c096c02009a0f47a4bde7bf	{Carl's Jr.}	{33.91684597092213,-118.13375769449475,Downey,CA,United States}	{Food,}
+1760	Sun May 08 19:29:49 +0000 2011	4c6c8f24a437224b22e22ab1	{Tom's Jr Burger}	{33.94525146,-118.21634404,Lynwood,CA,United States}	{Food,}
+1760	Sun May 08 19:29:49 +0000 2011	4c6c8f24a437224b22e22ab1	{Tom's Jr Burger}	{33.94525146,-118.21634404,Lynwood,CA,United States}	{Food,}
+1760	Sun May 08 17:44:20 +0000 2011	4c96cc81f7cfa1cdf68dc915	{Firestone Laundry}	{33.959768,-118.235564,LA,CA,United States}	{Professional & Other Places,}
+1760	Sun May 08 06:43:28 +0000 2011	4c17887b30d30f47fa9f36a9	{Children's Hospital Los Angeles}	{34.09803688048404,-118.2897612032841,Los Angeles,CA,United States}	{Medical Center,Professional & Other Places,}
+1760	Sun May 08 04:15:42 +0000 2011	4c17887b30d30f47fa9f36a9	{Children's Hospital Los Angeles}	{34.09803688048404,-118.2897612032841,Los Angeles,CA,United States}	{Medical Center,Professional & Other Places,}
+1760	Sun May 08 04:04:22 +0000 2011	4bddb661587b2d7f42c45409	{The Crab Shack}	{34.08125,-118.28952,Los Angeles,CA,United States}	{Nightlife Spot,}
+1760	Sun May 08 03:45:42 +0000 2011	4c1f4c13b306c928c82d68b7	{Los Angeles Memorial Coliseum}	{34.01400974062912,-118.28789591789246,Los Angeles,CA,United States}	{College & University,Arts & Entertainment,College Stadium,}
+1760	Sun May 08 03:43:21 +0000 2011	4bd9927e2e6f0f475a080b08	{Challengers Boys And Girls Club}	{33.99710563893223,-118.29192493786782,Los Angeles,CA,United States}	{College & University,}
+1760	Sun May 08 00:32:41 +0000 2011	4cfda02cc51fa1cd1637f22b	{Graham library}	{33.959856033325195,-118.23817312717438,Los Angeles,CA,United States}	{College & University,}
+1760	Sat May 07 21:43:11 +0000 2011	4cfda02cc51fa1cd1637f22b	{Graham library}	{33.959856033325195,-118.23817312717438,Los Angeles,CA,United States}	{College & University,}
+1760	Sat May 07 21:41:01 +0000 2011	4c506e0238b0be9a9b5083fd	{Rigo's Taco}	{33.960002,-118.23982419,Los Angeles,CA,United States}	{Food,}
+1760	Sat May 07 18:43:28 +0000 2011	4c3fcf53e26920a13d165ce7	{In Bed}	{33.95218682882379,-118.2351192408205,,CA,United States}	{Residence,}
+1760	Sat May 07 17:52:51 +0000 2011	4c1fee1cd38ec9b6e56a4d83	{Jordan Downs}	{33.94687623272517,-118.23611008322983,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Sat May 07 17:50:55 +0000 2011	4bcb7fdeb6c49c743f5e9291	{Watts Coffee House}	{33.94354765199001,-118.23993633738586,Los Angeles,CA,United States}	{Food,}
+1760	Sat May 07 00:37:37 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Fri May 06 20:47:00 +0000 2011	4da5ecab4b2280544b679093	{EastSide Bike Riders Association}	{33.93587792795484,-118.25347602264927,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+1760	Fri May 06 17:47:47 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Fri May 06 15:45:59 +0000 2011	4c7ed2c9d860b60c031f5f9d	{Graham elementary}	{33.96138708632094,-118.23844011084621,Los Angeles,CA,United States}	{College & University,}
+1760	Fri May 06 03:03:02 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Thu May 05 23:07:30 +0000 2011	4c6ea2b96af58cfa8ece8c17	{Cerritos College Health Occupation Skills Lab Building Rm 109}	{33.88289013693821,-118.09797125945947,Cerritos,CA,United States}	{College & University,}
+1760	Thu May 05 21:38:22 +0000 2011	4aca4387f964a5201cc120e3	{Los Angeles Regional Foodbank}	{34.007849,-118.2419261,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Thu May 05 21:37:54 +0000 2011	4c8e92c158668cfa6320d3ec	{Lillian St. Elementary}	{33.985808853428075,-118.24051883426479,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+1760	Thu May 05 15:36:46 +0000 2011	4c7ed2c9d860b60c031f5f9d	{Graham elementary}	{33.96138708632094,-118.23844011084621,Los Angeles,CA,United States}	{College & University,}
+1760	Wed May 04 01:43:03 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Tue May 03 23:56:18 +0000 2011	4d3f6c77cb84b60c761f7dab	{Jack H. Skirball Middle School}	{33.9304373,-118.26498484,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+1760	Tue May 03 20:32:24 +0000 2011	4c8e92c158668cfa6320d3ec	{Lillian St. Elementary}	{33.985808853428075,-118.24051883426479,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+1760	Tue May 03 20:13:24 +0000 2011	4bcb263168f976b0d56e6083	{Firestone Metro Station}	{33.959557378298385,-118.24323177337646,Los Angeles,CA,United States}	{Travel & Transport,}
+1760	Tue May 03 17:57:09 +0000 2011	4c93a69582b56dcb45bdc7aa	{Kaiser Permanente}	{33.927113,-118.197901,Lynwood,CA,United States}	{Medical Center,Professional & Other Places,}
+1760	Tue May 03 15:44:35 +0000 2011	4c7ed2c9d860b60c031f5f9d	{Graham elementary}	{33.96138708632094,-118.23844011084621,Los Angeles,CA,United States}	{College & University,}
+1760	Tue May 03 01:43:44 +0000 2011	4c6c8f24a437224b22e22ab1	{Tom's Jr Burger}	{33.94525146,-118.21634404,Lynwood,CA,United States}	{Food,}
+1760	Tue May 03 01:25:07 +0000 2011	4c7972842dc19521d934a677	{Lucky's}	{33.9443584,-118.19877508,South Gate,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Mon May 02 22:16:25 +0000 2011	4c7ed2c9d860b60c031f5f9d	{Graham elementary}	{33.96138708632094,-118.23844011084621,Los Angeles,CA,United States}	{College & University,}
+1760	Mon May 02 19:56:58 +0000 2011	4da5ecab4b2280544b679093	{EastSide Bike Riders Association}	{33.93587792795484,-118.25347602264927,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+1760	Mon May 02 18:49:03 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Mon May 02 17:30:14 +0000 2011	4b60a4c6f964a520f6f129e3	{Screen Depot}	{34.028525948524475,-118.266509,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Mon May 02 15:29:26 +0000 2011	4c7ed2c9d860b60c031f5f9d	{Graham elementary}	{33.96138708632094,-118.23844011084621,Los Angeles,CA,United States}	{College & University,}
+1760	Sun May 01 23:30:56 +0000 2011	4babf87ef964a5206cda3ae3	{Universal's Animal Actors}	{34.13915941355223,-118.35519790649414,Universal City,CA,United States}	{Arts & Entertainment,Theme Park,}
+1760	Sun May 01 19:56:51 +0000 2011	4ad95092f964a520bc1921e3	{Pinkberry}	{34.04876591036268,-118.24090898036957,Los Angeles,CA,United States}	{Food,}
+1760	Sun May 01 19:33:22 +0000 2011	4a2424c8f964a520fa7d1fe3	{Se?or Fish}	{34.04891258696375,-118.23836356401443,Los Angeles,CA,United States}	{Food,}
+1760	Thu Apr 28 23:09:16 +0000 2011	4c7ed2c9d860b60c031f5f9d	{Graham elementary}	{33.96138708632094,-118.23844011084621,Los Angeles,CA,United States}	{College & University,}
+1760	Thu Apr 28 22:36:43 +0000 2011	4c6ea2b96af58cfa8ece8c17	{Cerritos College Health Occupation Skills Lab Building Rm 109}	{33.88289013693821,-118.09797125945947,Cerritos,CA,United States}	{College & University,}
+1760	Thu Apr 28 22:33:24 +0000 2011	4c1ac4af63750f47ade4b367	{Yogurt Me and Sandwich}	{33.887988924980164,-118.101435,Norwalk,CA,United States}	{Food,}
+1760	Thu Apr 28 21:49:57 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Thu Apr 28 19:31:35 +0000 2011	4b6f3c45f964a52027e62ce3	{Fresh & Easy Neighborhood Market}	{33.903626203536,-118.25499057769431,Compton,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Thu Apr 28 18:59:23 +0000 2011	4da5ecab4b2280544b679093	{EastSide Bike Riders Association}	{33.93587792795484,-118.25347602264927,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+1760	Thu Apr 28 02:46:13 +0000 2011	4d5c361e6f6d6ea8119762ec	{Fresh & Easy Neighborhood Market}	{33.971098391806464,-118.23297500610352,Walnut Park,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Thu Apr 28 00:43:53 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Wed Apr 27 20:09:25 +0000 2011	4d3d096f3ec9a35df2164e81	{Watts}	{33.94068974429656,-118.24267387390138,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Wed Apr 27 20:09:25 +0000 2011	4d3d096f3ec9a35df2164e81	{Watts}	{33.94068974429656,-118.24267387390138,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Wed Apr 27 19:19:12 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Tue Apr 26 23:35:45 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Tue Apr 26 21:43:39 +0000 2011	4db1c7e27abaff58538e8a0e	{BlackBerry ?C Meet the PlayBook ?C DC}	{38.89698408132895,-77.03339254878847,Washington,DC,United States}	{Professional & Other Places,}
+1760	Tue Apr 26 21:33:48 +0000 2011	4da5ecab4b2280544b679093	{EastSide Bike Riders Association}	{33.93587792795484,-118.25347602264927,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+1760	Tue Apr 26 21:20:54 +0000 2011	4da5ecab4b2280544b679093	{EastSide Bike Riders Association}	{33.93587792795484,-118.25347602264927,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+1760	Tue Apr 26 21:07:55 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Tue Apr 26 15:50:51 +0000 2011	4c7ed2c9d860b60c031f5f9d	{Graham elementary}	{33.96138708632094,-118.23844011084621,Los Angeles,CA,United States}	{College & University,}
+1760	Mon Apr 25 22:14:55 +0000 2011	4b611c8ef964a520120a2ae3	{Frantones - Cerritos College}	{33.88297473930482,-118.09770834894627,Norwalk,CA,United States}	{}
+1760	Mon Apr 25 20:33:42 +0000 2011	4da5ecab4b2280544b679093	{EastSide Bike Riders Association}	{33.93587792795484,-118.25347602264927,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+1760	Mon Apr 25 16:24:44 +0000 2011	4c8167f7d34ca1438e322280	{Fnr cycle}	{33.895819,-118.17549376301055,Paramount,CA,United States}	{Shop & Service,}
+1760	Mon Apr 25 04:30:47 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Mon Apr 25 00:51:44 +0000 2011	4c3fcf53e26920a13d165ce7	{In Bed}	{33.95218682882379,-118.2351192408205,,CA,United States}	{Residence,}
+1760	Sun Apr 24 20:13:49 +0000 2011	4d5c361e6f6d6ea8119762ec	{Fresh & Easy Neighborhood Market}	{33.971098391806464,-118.23297500610352,Walnut Park,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Sun Apr 24 20:13:49 +0000 2011	4d5c361e6f6d6ea8119762ec	{Fresh & Easy Neighborhood Market}	{33.971098391806464,-118.23297500610352,Walnut Park,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Sun Apr 24 07:08:21 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Sun Apr 24 00:13:06 +0000 2011	4bfdbaffb68d0f47af43e957	{Bank of America}	{34.508862,-117.40007936954498,Adelanto,CA,United States}	{Shop & Service,}
+1760	Sat Apr 23 23:05:02 +0000 2011	4cb3fb9dc5e6a1cd1112f0f6	{Chevron}	{34.36012938333333,-117.434396,Hesperia,CA,United States}	{Shop & Service,}
+1760	Sat Apr 23 17:03:49 +0000 2011	4c91724757e5b60c0af7601c	{Walmart}	{33.8569097207457,-118.30159664154053,Torrance,CA,United States}	{Shop & Service,}
+1760	Sat Apr 23 17:02:14 +0000 2011	4d95276edaec224b0904f93d	{Slap Yo Mama Truck}	{34.05070106060786,-118.38596074368019,Los Angeles,CA,United States}	{Food,}
+1760	Sat Apr 23 07:56:25 +0000 2011	4c9e28680e9bb1f7364ee45f	{24 Coin Laundry}	{33.943284452029545,-118.19394140733021,South Gate,CA,United States}	{Shop & Service,}
+1760	Sat Apr 23 06:45:23 +0000 2011	4ce0cfc2ffcf3704aa442282	{Lucy's LaundryMart}	{33.95963823077886,-118.3102670488583,Inglewood,CA,United States}	{}
+1760	Wed Apr 20 17:48:57 +0000 2011	4da5ecab4b2280544b679093	{EastSide Bike Riders Association}	{33.93587792795484,-118.25347602264927,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+1760	Wed Apr 20 17:28:18 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Tue Apr 19 20:29:11 +0000 2011	4da5ecab4b2280544b679093	{EastSide Bike Riders Association}	{33.93587792795484,-118.25347602264927,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+1760	Tue Apr 19 02:42:19 +0000 2011	4c6c8f24a437224b22e22ab1	{Tom's Jr Burger}	{33.94525146,-118.21634404,Lynwood,CA,United States}	{Food,}
+1760	Mon Apr 18 22:02:06 +0000 2011	4b88592ff964a52021f131e3	{Universal Studio Tour}	{34.13891965292901,-118.35273027420044,Universal City,CA,United States}	{Arts & Entertainment,Theme Park,}
+1760	Mon Apr 18 20:53:00 +0000 2011	4a6cc0f0f964a52088d11fe3	{Universal Studios Hollywood}	{34.13763203794546,-118.35429668426512,Universal City,CA,United States}	{Arts & Entertainment,Theme Park,}
+1760	Mon Apr 18 20:28:24 +0000 2011	4b65cae2f964a52006002be3	{Revenge of the Mummy}	{34.14068676155184,-118.35648536682129,Universal City,CA,United States}	{Arts & Entertainment,Theme Park,}
+1760	Mon Apr 18 19:14:02 +0000 2011	4babf87ef964a5206cda3ae3	{Universal's Animal Actors}	{34.13915941355223,-118.35519790649414,Universal City,CA,United States}	{Arts & Entertainment,Theme Park,}
+1760	Mon Apr 18 03:52:58 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Sun Apr 17 07:13:06 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Sun Apr 17 07:05:18 +0000 2011	4da5ecab4b2280544b679093	{EastSide Bike Riders Association}	{33.93587792795484,-118.25347602264927,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+1760	Sat Apr 16 18:29:58 +0000 2011	4d3d096f3ec9a35df2164e81	{Watts}	{33.94068974429656,-118.24267387390138,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Fri Apr 15 15:18:39 +0000 2011	4d31f14d329e54810eb4ab1d	{Vikis Canton}	{33.95644,-118.239956,Los Angeles,CA,United States}	{}
+1760	Thu Apr 14 19:32:23 +0000 2011	4da5ecab4b2280544b679093	{EastSide Bike Riders Association}	{33.93587792795484,-118.25347602264927,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+1760	Thu Apr 14 16:02:25 +0000 2011	4b5e1413f964a520787c29e3	{7-Eleven}	{33.88704243505644,-118.10045387016507,Norwalk,CA,United States}	{Shop & Service,}
+1760	Thu Apr 14 04:09:37 +0000 2011	42893400f964a5207e231fe3	{STAPLES Center}	{34.043058660157634,-118.26724290847778,Los Angeles,CA,United States}	{Stadium,Arts & Entertainment,}
+1760	Wed Apr 13 22:54:35 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Wed Apr 13 22:19:11 +0000 2011	4c709c28df6b8cfa300bb94d	{Phoenix Hall}	{33.93589926666667,-118.25310713333333,Los Angeles,CA,United States}	{}
+1760	Wed Apr 13 21:45:08 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Wed Apr 13 18:34:21 +0000 2011	4da5ecab4b2280544b679093	{EastSide Bike Riders Association}	{33.93587792795484,-118.25347602264927,Los Angeles,CA,United States}	{Shop & Service,Professional & Other Places,}
+1760	Wed Apr 13 03:24:39 +0000 2011	4bcb263168f976b0d56e6083	{Firestone Metro Station}	{33.959557378298385,-118.24323177337646,Los Angeles,CA,United States}	{Travel & Transport,}
+1760	Tue Apr 12 23:51:53 +0000 2011	4d3d096f3ec9a35df2164e81	{Watts}	{33.94068974429656,-118.24267387390138,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Tue Apr 12 15:31:41 +0000 2011	4c7ed2c9d860b60c031f5f9d	{Graham elementary}	{33.96138708632094,-118.23844011084621,Los Angeles,CA,United States}	{College & University,}
+1760	Mon Apr 11 23:47:20 +0000 2011	4b703ce7f964a5203f0d2de3	{24 Hour Fitness}	{33.924217120279,-118.323641325798,Hawthorne,CA,United States}	{Shop & Service,}
+1760	Mon Apr 11 16:34:24 +0000 2011	4c8167f7d34ca1438e322280	{Fnr cycle}	{33.895819,-118.17549376301055,Paramount,CA,United States}	{Shop & Service,}
+1760	Mon Apr 11 05:38:09 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Sun Apr 10 21:33:44 +0000 2011	4da1d43e15ad530cc17d9452	{CicLAvia April 2011}	{34.04867701532946,-118.24979782104492,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Sun Apr 10 20:26:24 +0000 2011	4da20c58bf22a143effca9f8	{Four Square!}	{34.057233,-118.278637,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Sun Apr 10 20:25:22 +0000 2011	4b91f9ddf964a520e0e133e3	{MacArthur Park}	{34.05866823354151,-118.27752113342285,Los Angeles,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+1760	Sun Apr 10 18:52:17 +0000 2011	4da1d43e15ad530cc17d9452	{CicLAvia April 2011}	{34.04867701532946,-118.24979782104492,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Sun Apr 10 17:25:23 +0000 2011	4b91f9ddf964a520e0e133e3	{MacArthur Park}	{34.05866823354151,-118.27752113342285,Los Angeles,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+1760	Sat Apr 09 20:05:40 +0000 2011	4c90660afbe58cfa28ca21b9	{Yogurtland}	{34.02294333336098,-118.27953582477468,Los Angeles,CA,United States}	{Food,}
+1760	Thu Apr 07 22:36:10 +0000 2011	4cc1da6bc844721e1bbad801	{Magdalenos Barbershop}	{33.97100694210521,-118.19762008273496,Bell,CA,United States}	{Shop & Service,}
+1760	Thu Apr 07 15:50:37 +0000 2011	4c7ed2c9d860b60c031f5f9d	{Graham elementary}	{33.96138708632094,-118.23844011084621,Los Angeles,CA,United States}	{College & University,}
+1760	Wed Apr 06 18:23:54 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Wed Apr 06 15:23:43 +0000 2011	4c7ed2c9d860b60c031f5f9d	{Graham elementary}	{33.96138708632094,-118.23844011084621,Los Angeles,CA,United States}	{College & University,}
+1760	Wed Apr 06 15:03:16 +0000 2011	4c7ed2c9d860b60c031f5f9d	{Graham elementary}	{33.96138708632094,-118.23844011084621,Los Angeles,CA,United States}	{College & University,}
+1760	Wed Apr 06 13:35:20 +0000 2011	4c65c3a18e9120a1ab28d664	{City of Downey}	{33.94000437887041,-118.13300371170043,Downey,CA,United States}	{Outdoors & Recreation,}
+1760	Wed Apr 06 13:32:45 +0000 2011	4b1c4aa5f964a520970524e3	{The Coffee Bean & Tea Leaf?}	{33.9373764484187,-118.12836556772368,Downey,CA,United States}	{Food,}
+1760	Wed Apr 06 03:08:58 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Tue Apr 05 21:41:45 +0000 2011	4b7b6129f964a520e7602fe3	{Watts-Willowbrook Boys & Girls Club}	{33.92417998,-118.25138129,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Mon Apr 04 23:15:31 +0000 2011	4c1ac4af63750f47ade4b367	{Yogurt Me and Sandwich}	{33.887988924980164,-118.101435,Norwalk,CA,United States}	{Food,}
+1760	Mon Apr 04 17:18:10 +0000 2011	4b6c4a47f964a5203c2e2ce3	{Starbucks}	{33.982261066666666,-118.24887401,Los Angeles,CA,United States}	{Food,}
+1760	Mon Apr 04 15:52:26 +0000 2011	4c6ea2b96af58cfa8ece8c17	{Cerritos College Health Occupation Skills Lab Building Rm 109}	{33.88289013693821,-118.09797125945947,Cerritos,CA,United States}	{College & University,}
+1760	Mon Apr 04 15:52:10 +0000 2011	4ad26c2cf964a5208ce120e3	{Cerritos College}	{33.886229428397186,-118.0967710126029,Norwalk,CA,United States}	{College & University,}
+1760	Mon Apr 04 15:30:41 +0000 2011	4c7ed2c9d860b60c031f5f9d	{Graham elementary}	{33.96138708632094,-118.23844011084621,Los Angeles,CA,United States}	{College & University,}
+1760	Mon Apr 04 04:58:48 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Fri Apr 01 22:05:06 +0000 2011	4c5ce99785a1e21e2f3b5811	{Boy's Burgers}	{33.974586725234985,-118.24083,Los Angeles,CA,United States}	{Food,}
+1760	Fri Apr 01 21:37:40 +0000 2011	4c50aa2dd797e21ec447c87a	{Roosevelt Park}	{33.97102882233146,-118.24261466451189,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Fri Apr 01 18:21:51 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Thu Mar 31 23:52:57 +0000 2011	4be389acb02ec9b625f34fc0	{All Star Park}	{33.86926200625539,-118.12567181282219,Bellflower,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1760	Thu Mar 31 18:07:55 +0000 2011	4a4e83cdf964a52094ae1fe3	{Watts Towers}	{33.93878939932802,-118.24122548103333,Los Angeles,CA,United States}	{Outdoors & Recreation,Museum,Arts & Entertainment,}
+1760	Thu Mar 31 17:36:47 +0000 2011	4c8167f7d34ca1438e322280	{Fnr cycle}	{33.895819,-118.17549376301055,Paramount,CA,United States}	{Shop & Service,}
+1760	Thu Mar 31 16:15:59 +0000 2011	4c6ea2b96af58cfa8ece8c17	{Cerritos College Health Occupation Skills Lab Building Rm 109}	{33.88289013693821,-118.09797125945947,Cerritos,CA,United States}	{College & University,}
+1760	Thu Mar 31 15:34:21 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Thu Mar 31 15:02:48 +0000 2011	4c8e92c158668cfa6320d3ec	{Lillian St. Elementary}	{33.985808853428075,-118.24051883426479,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+1760	Thu Mar 31 14:58:08 +0000 2011	4ca69d26d971b1f7244102e1	{Rite Aid}	{33.974157598049224,-118.24637224696379,Los Angeles,CA,United States}	{Shop & Service,}
+1760	Thu Mar 31 02:31:19 +0000 2011	4beac6cea9900f4764e51640	{WorkSource}	{33.959846991101536,-118.24018761079196,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Wed Mar 30 23:49:16 +0000 2011	4c96cc81f7cfa1cdf68dc915	{Firestone Laundry}	{33.959768,-118.235564,LA,CA,United States}	{Professional & Other Places,}
+1760	Wed Mar 30 22:36:21 +0000 2011	4affc1d2f964a520093a22e3	{The City of South Gate}	{33.901624015767396,-118.17375183105469,South Gate,CA,United States}	{Outdoors & Recreation,}
+1760	Wed Mar 30 21:32:39 +0000 2011	4c9e59170e9bb1f7317ae65f	{Salt Lake Park Baseball Field}	{33.973451678988816,-118.20409755970996,Huntington Park,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1760	Wed Mar 30 21:29:22 +0000 2011	4bc880ba14d79521a12469e9	{Tony's Donut House}	{33.972329260181446,-118.20983226572565,Huntington Park,CA,United States}	{Food,}
+1760	Wed Mar 30 19:43:08 +0000 2011	4be442182468c9281a7efe42	{Colonel Leon H. Washington Park}	{33.958868843568276,-118.24381961253776,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Wed Mar 30 14:58:58 +0000 2011	4c8e92c158668cfa6320d3ec	{Lillian St. Elementary}	{33.985808853428075,-118.24051883426479,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+1760	Wed Mar 30 05:54:00 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Wed Mar 30 04:58:16 +0000 2011	4b04c847f964a520965622e3	{Food 4 Less}	{33.97623217128929,-118.22964906692505,Huntington Park,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Tue Mar 29 22:45:28 +0000 2011	4c6ea2b96af58cfa8ece8c17	{Cerritos College Health Occupation Skills Lab Building Rm 109}	{33.88289013693821,-118.09797125945947,Cerritos,CA,United States}	{College & University,}
+1760	Tue Mar 29 22:36:59 +0000 2011	4afc998ff964a520452422e3	{Yogurtland}	{33.861219821490224,-118.0931234359741,Cerritos,CA,United States}	{Food,}
+1760	Tue Mar 29 21:08:39 +0000 2011	4bb16a18f964a520d8913ce3	{Tacos El Gavilan}	{33.953931,-118.13024201,Downey,CA,United States}	{Food,}
+1760	Tue Mar 29 21:01:11 +0000 2011	4c1492507f7f2d7f6c27e168	{Carl's Jr.}	{33.968917616205815,-118.1781290661142,Bell,CA,United States}	{Food,}
+1760	Tue Mar 29 13:30:17 +0000 2011	4b42b5dbf964a5200bd925e3	{76}	{33.942128,-118.136144,Paramount,CA,United States}	{Shop & Service,}
+1760	Tue Mar 29 05:32:42 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Tue Mar 29 00:30:05 +0000 2011	4b86b498f964a5207d9731e3	{St. Francis Medical Center}	{33.92996303327526,-118.20285806132823,,CA,United States}	{Medical Center,Professional & Other Places,}
+1760	Mon Mar 28 23:34:43 +0000 2011	4a4e83cdf964a52094ae1fe3	{Watts Towers}	{33.93878939932802,-118.24122548103333,Los Angeles,CA,United States}	{Outdoors & Recreation,Museum,Arts & Entertainment,}
+1760	Mon Mar 28 23:13:24 +0000 2011	4c6ea2b96af58cfa8ece8c17	{Cerritos College Health Occupation Skills Lab Building Rm 109}	{33.88289013693821,-118.09797125945947,Cerritos,CA,United States}	{College & University,}
+1760	Mon Mar 28 23:09:08 +0000 2011	4c1ef693eac020a1af844ac2	{Cocktails, Anyone?}	{33.90911521169194,-118.11588253747006,Bellflower,CA,United States}	{Nightlife Spot,}
+1760	Mon Mar 28 23:00:13 +0000 2011	4b77572ef964a5206a932ee3	{Lynwood, CA}	{33.93043538926759,-118.2115602493286,Lynwood,CA,United States}	{Outdoors & Recreation,}
+1760	Mon Mar 28 21:48:15 +0000 2011	4c7051953444370435d6235f	{Elizabeth Bakery}	{33.95522625548562,-118.22039870412216,South Gate,CA,United States}	{Food,}
+1760	Mon Mar 28 21:20:48 +0000 2011	4baabc1df964a52073833ae3	{Ted Watkins Memorial Park}	{33.94389154340961,-118.25197420396225,Los Angeles,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1760	Mon Mar 28 18:48:16 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Mon Mar 28 15:49:41 +0000 2011	4c2ad39f57a9c9b62022f567	{91 / 605 Interchange}	{33.87633036047755,-118.10238361358643,Bellflower,CA,United States}	{Travel & Transport,}
+1760	Mon Mar 28 15:47:16 +0000 2011	4bd0dae677b29c74afa78b82	{Mobil}	{33.91238031983362,-118.15982424936504,Downey,CA,United States}	{Shop & Service,}
+1760	Mon Mar 28 15:05:36 +0000 2011	4b9fe3bdf964a520e84737e3	{Jamba Juice}	{33.97422431,-118.23339,Huntington Park,CA,United States}	{Food,}
+1760	Mon Mar 28 15:04:18 +0000 2011	4c97cc8cca6a8cfad923e6a4	{Florence ave school}	{33.974014729571664,-118.23853719464356,LA,CA,United States}	{College & University,}
+1760	Mon Mar 28 14:58:30 +0000 2011	4ca69d26d971b1f7244102e1	{Rite Aid}	{33.974157598049224,-118.24637224696379,Los Angeles,CA,United States}	{Shop & Service,}
+1760	Mon Mar 28 14:53:30 +0000 2011	4c90e6b9ae96a09398c79e46	{Mercardo Amigo Carniceria}	{33.960305,-118.239327,Florence-Firestone,CA,United States}	{}
+1760	Mon Mar 28 05:30:16 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Mon Mar 28 03:26:52 +0000 2011	4d31f14d329e54810eb4ab1d	{Vikis Canton}	{33.95644,-118.239956,Los Angeles,CA,United States}	{}
+1760	Mon Mar 28 01:14:08 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Mon Mar 28 01:13:16 +0000 2011	4cb3b233ef1b3704be495400	{Shell}	{33.92915116714636,-118.2543839598753,Los Angeles,CA,United States}	{Shop & Service,}
+1760	Mon Mar 28 01:13:02 +0000 2011	4d3d096f3ec9a35df2164e81	{Watts}	{33.94068974429656,-118.24267387390138,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Sun Mar 27 22:22:37 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Sun Mar 27 18:54:55 +0000 2011	4be442182468c9281a7efe42	{Colonel Leon H. Washington Park}	{33.958868843568276,-118.24381961253776,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Sun Mar 27 03:29:24 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Sat Mar 26 16:46:44 +0000 2011	4c41f7f3cc410f47c104ac61	{Smart & Final}	{33.91663,-118.254842,Compton,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Sat Mar 26 05:21:19 +0000 2011	4c7ed2c9d860b60c031f5f9d	{Graham elementary}	{33.96138708632094,-118.23844011084621,Los Angeles,CA,United States}	{College & University,}
+1760	Sat Mar 26 03:43:16 +0000 2011	4c92c3a8f600236a3017c032	{Pronto Pizza}	{33.95686754,-118.22471254,South Gate,CA,United States}	{}
+1760	Sat Mar 26 03:43:05 +0000 2011	4c9256c37f3b8cfa2e5ea41e	{Rent A Wheel}	{33.956216,-118.22668254375458,South Gate,CA,United States}	{Shop & Service,}
+1760	Sat Mar 26 03:43:05 +0000 2011	4c9256c37f3b8cfa2e5ea41e	{Rent A Wheel}	{33.956216,-118.22668254375458,South Gate,CA,United States}	{Shop & Service,}
+1760	Sat Mar 26 00:32:10 +0000 2011	4c50aa2dd797e21ec447c87a	{Roosevelt Park}	{33.97102882233146,-118.24261466451189,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Fri Mar 25 22:09:56 +0000 2011	4b7b6129f964a520e7602fe3	{Watts-Willowbrook Boys & Girls Club}	{33.92417998,-118.25138129,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Fri Mar 25 22:09:56 +0000 2011	4b7b6129f964a520e7602fe3	{Watts-Willowbrook Boys & Girls Club}	{33.92417998,-118.25138129,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Fri Mar 25 22:06:28 +0000 2011	4d3d096f3ec9a35df2164e81	{Watts}	{33.94068974429656,-118.24267387390138,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Fri Mar 25 21:52:57 +0000 2011	4d5c361e6f6d6ea8119762ec	{Fresh & Easy Neighborhood Market}	{33.971098391806464,-118.23297500610352,Walnut Park,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Fri Mar 25 21:26:53 +0000 2011	4c12850da9c220a17922549d	{Ways school}	{33.96004915237427,-118.26269388198853,Los Angeles,CA,United States}	{}
+1760	Fri Mar 25 21:24:41 +0000 2011	4d31f14d329e54810eb4ab1d	{Vikis Canton}	{33.95644,-118.239956,Los Angeles,CA,United States}	{}
+1760	Fri Mar 25 19:31:01 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Fri Mar 25 18:37:32 +0000 2011	4b6f3c45f964a52027e62ce3	{Fresh & Easy Neighborhood Market}	{33.903626203536,-118.25499057769431,Compton,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Fri Mar 25 17:50:36 +0000 2011	4c709c28df6b8cfa300bb94d	{Phoenix Hall}	{33.93589926666667,-118.25310713333333,Los Angeles,CA,United States}	{}
+1760	Fri Mar 25 17:50:35 +0000 2011	4c709c28df6b8cfa300bb94d	{Phoenix Hall}	{33.93589926666667,-118.25310713333333,Los Angeles,CA,United States}	{}
+1760	Fri Mar 25 16:46:16 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Fri Mar 25 16:46:15 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Fri Mar 25 16:38:13 +0000 2011	4c58294cb7a31b8df6cd51da	{96th street elementary school}	{33.95118363915877,-118.24787982527467,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+1760	Fri Mar 25 16:37:50 +0000 2011	4be442182468c9281a7efe42	{Colonel Leon H. Washington Park}	{33.958868843568276,-118.24381961253776,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Fri Mar 25 15:14:58 +0000 2011	4d5c361e6f6d6ea8119762ec	{Fresh & Easy Neighborhood Market}	{33.971098391806464,-118.23297500610352,Walnut Park,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Fri Mar 25 15:10:46 +0000 2011	4d5c361e6f6d6ea8119762ec	{Fresh & Easy Neighborhood Market}	{33.971098391806464,-118.23297500610352,Walnut Park,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Fri Mar 25 15:04:31 +0000 2011	4c8e92c158668cfa6320d3ec	{Lillian St. Elementary}	{33.985808853428075,-118.24051883426479,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+1760	Fri Mar 25 14:59:36 +0000 2011	4c97cc8cca6a8cfad923e6a4	{Florence ave school}	{33.974014729571664,-118.23853719464356,LA,CA,United States}	{College & University,}
+1760	Fri Mar 25 14:59:35 +0000 2011	4c97cc8cca6a8cfad923e6a4	{Florence ave school}	{33.974014729571664,-118.23853719464356,LA,CA,United States}	{College & University,}
+1760	Fri Mar 25 04:02:28 +0000 2011	4c8bc9aa509e370433232d55	{Tam's}	{33.903074,-118.253283,Compton,CA,United States}	{Food,}
+1760	Fri Mar 25 03:51:19 +0000 2011	4a4e83cdf964a52094ae1fe3	{Watts Towers}	{33.93878939932802,-118.24122548103333,Los Angeles,CA,United States}	{Outdoors & Recreation,Museum,Arts & Entertainment,}
+1760	Fri Mar 25 03:48:29 +0000 2011	4d3d096f3ec9a35df2164e81	{Watts}	{33.94068974429656,-118.24267387390138,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Fri Mar 25 03:39:09 +0000 2011	4cbdc4e3bac93704ed30007d	{Sealy Factory}	{33.953199227783834,-118.19377003855318,South Gate,CA,United States}	{Professional & Other Places,}
+1760	Fri Mar 25 03:39:09 +0000 2011	4cbdc4e3bac93704ed30007d	{Sealy Factory}	{33.953199227783834,-118.19377003855318,South Gate,CA,United States}	{Professional & Other Places,}
+1760	Fri Mar 25 03:28:35 +0000 2011	4ca81bc614c33704131fd13b	{Kelley's}	{33.94102433333333,-118.13536616666667,Downey,CA,United States}	{Nightlife Spot,}
+1760	Fri Mar 25 03:27:59 +0000 2011	4c26affb136d20a1d5dde561	{Porto's Bakery & Cafe}	{33.9404939261664,-118.13338994979858,Downey,CA,United States}	{Food,}
+1760	Fri Mar 25 02:48:08 +0000 2011	4bf483f5cad2c92813119c99	{Kaiser Permanente Satellite Office}	{33.92148160030576,-118.12432889159024,Downey,CA,United States}	{Medical Center,Professional & Other Places,}
+1760	Thu Mar 24 22:58:09 +0000 2011	4c6ea2b96af58cfa8ece8c17	{Cerritos College Health Occupation Skills Lab Building Rm 109}	{33.88289013693821,-118.09797125945947,Cerritos,CA,United States}	{College & University,}
+1760	Thu Mar 24 19:49:20 +0000 2011	4c709c28df6b8cfa300bb94d	{Phoenix Hall}	{33.93589926666667,-118.25310713333333,Los Angeles,CA,United States}	{}
+1760	Thu Mar 24 19:28:15 +0000 2011	4d04168054d0236acc12edd5	{Nickerson Gardens}	{33.93012803664168,-118.25259663231712,Watts,CA,United States}	{Residence,}
+1760	Thu Mar 24 19:15:00 +0000 2011	4be9bc2c415e20a15232e4bb	{Los Angeles Police Department Southeast Station}	{33.938374429776765,-118.27539650585484,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Thu Mar 24 18:44:59 +0000 2011	4b7b6129f964a520e7602fe3	{Watts-Willowbrook Boys & Girls Club}	{33.92417998,-118.25138129,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Thu Mar 24 18:10:01 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Thu Mar 24 17:32:26 +0000 2011	4bb03100f964a520bc3b3ce3	{Carrows}	{33.901851,-118.10660935,Norwalk,CA,United States}	{Food,}
+1760	Thu Mar 24 16:17:47 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Thu Mar 24 16:16:45 +0000 2011	4c7ed2c9d860b60c031f5f9d	{Graham elementary}	{33.96138708632094,-118.23844011084621,Los Angeles,CA,United States}	{College & University,}
+1760	Thu Mar 24 04:19:13 +0000 2011	4be442182468c9281a7efe42	{Colonel Leon H. Washington Park}	{33.958868843568276,-118.24381961253776,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Thu Mar 24 04:18:19 +0000 2011	4d43279f714a224b4805ebe8	{St. Lawrence Middle Middle School}	{33.94447557272122,-118.24558418938592,,,United States}	{}
+1760	Thu Mar 24 04:16:07 +0000 2011	4d8560068de9721e1c264651	{My 2nd Home}	{33.94950752,-118.24488702,Los Angeles,CA,United States}	{Nightlife Spot,}
+1760	Thu Mar 24 04:15:56 +0000 2011	4d31f14d329e54810eb4ab1d	{Vikis Canton}	{33.95644,-118.239956,Los Angeles,CA,United States}	{}
+1760	Thu Mar 24 01:50:38 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Thu Mar 24 01:45:20 +0000 2011	4be442182468c9281a7efe42	{Colonel Leon H. Washington Park}	{33.958868843568276,-118.24381961253776,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Wed Mar 23 21:52:48 +0000 2011	4b429890f964a52041d725e3	{Bob's Big Boy Broiler}	{33.9476857,-118.14714,Downey,CA,United States}	{Food,}
+1760	Wed Mar 23 21:50:43 +0000 2011	4b429890f964a52041d725e3	{Bob's Big Boy Broiler}	{33.9476857,-118.14714,Downey,CA,United States}	{Food,}
+1760	Wed Mar 23 21:47:20 +0000 2011	4b846d69f964a520c03431e3	{Target}	{33.948369499912296,-118.16799424094866,South Gate,CA,United States}	{Shop & Service,}
+1760	Wed Mar 23 21:42:31 +0000 2011	4c17c4aa1436a593d1558c75	{South Gate Middle School}	{33.95278424977181,-118.1971973817829,South Gate,CA,United States}	{Professional & Other Places,}
+1760	Wed Mar 23 21:42:31 +0000 2011	4c17c4aa1436a593d1558c75	{South Gate Middle School}	{33.95278424977181,-118.1971973817829,South Gate,CA,United States}	{Professional & Other Places,}
+1760	Wed Mar 23 18:12:19 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Wed Mar 23 15:39:45 +0000 2011	4c7ed2c9d860b60c031f5f9d	{Graham elementary}	{33.96138708632094,-118.23844011084621,Los Angeles,CA,United States}	{College & University,}
+1760	Wed Mar 23 15:00:29 +0000 2011	4c8e92c158668cfa6320d3ec	{Lillian St. Elementary}	{33.985808853428075,-118.24051883426479,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+1760	Wed Mar 23 13:50:49 +0000 2011	4affc1d2f964a520093a22e3	{The City of South Gate}	{33.901624015767396,-118.17375183105469,South Gate,CA,United States}	{Outdoors & Recreation,}
+1760	Wed Mar 23 13:37:26 +0000 2011	4b42b5dbf964a5200bd925e3	{76}	{33.942128,-118.136144,Paramount,CA,United States}	{Shop & Service,}
+1760	Wed Mar 23 13:30:39 +0000 2011	4b9f931cf964a520562c37e3	{Downey Regional Medical Center}	{33.9357656484482,-118.13203197595381,Downey,CA,United States}	{Professional & Other Places,}
+1760	Wed Mar 23 06:11:18 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Wed Mar 23 05:52:00 +0000 2011	4c1111c63ce120a19610091c	{Homeboy Silkscreen}	{34.02673487150242,-118.22975635528564,Los Angeles,CA,United States}	{Shop & Service,Office,Professional & Other Places,}
+1760	Wed Mar 23 05:51:36 +0000 2011	42814b00f964a520ea211fe3	{Hanger 1018 Gallery}	{34.031029,-118.229628,Los Angeles,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1760	Wed Mar 23 02:13:41 +0000 2011	4c90e6b9ae96a09398c79e46	{Mercardo Amigo Carniceria}	{33.960305,-118.239327,Florence-Firestone,CA,United States}	{}
+1760	Tue Mar 22 22:51:19 +0000 2011	4d3d096f3ec9a35df2164e81	{Watts}	{33.94068974429656,-118.24267387390138,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Tue Mar 22 22:19:21 +0000 2011	4b844e1cf964a520ac2d31e3	{United States Postal Service}	{33.941944749800754,-118.1360399723053,Downey,CA,United States}	{Professional & Other Places,}
+1760	Tue Mar 22 22:13:09 +0000 2011	4b58db8bf964a520186f28e3	{Albertsons}	{33.94543946778716,-118.14417450003108,Downey,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Tue Mar 22 21:45:44 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Tue Mar 22 20:38:56 +0000 2011	4d5c361e6f6d6ea8119762ec	{Fresh & Easy Neighborhood Market}	{33.971098391806464,-118.23297500610352,Walnut Park,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Tue Mar 22 20:25:58 +0000 2011	4d3dcbe1557d6dcb0d354844	{Elias Pet Shop}	{33.97454675,-118.24048386666666,Los Angeles,CA,United States}	{Shop & Service,}
+1760	Tue Mar 22 20:15:23 +0000 2011	4c68326c607ad13a68e4a72b	{Jack in the Box - Los Angeles, CA}	{33.9429683221519,-118.25443804264069,Los Angeles,CA,United States}	{Food,}
+1760	Tue Mar 22 18:08:59 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Tue Mar 22 16:44:59 +0000 2011	4d40d23aadb6236a20158c40	{76}	{33.929189116135284,-118.25097799301147,Los Angeles,CA,United States}	{Shop & Service,}
+1760	Tue Mar 22 14:56:37 +0000 2011	4c8e92c158668cfa6320d3ec	{Lillian St. Elementary}	{33.985808853428075,-118.24051883426479,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+1760	Tue Mar 22 13:54:21 +0000 2011	4bcb263168f976b0d56e6083	{Firestone Metro Station}	{33.959557378298385,-118.24323177337646,Los Angeles,CA,United States}	{Travel & Transport,}
+1760	Tue Mar 22 13:18:00 +0000 2011	4bbd44338ec3d13a24f41b28	{Fresh & Easy Neighborhood Market}	{33.93951656497399,-118.13355769487684,Downey,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Tue Mar 22 13:16:15 +0000 2011	4bb456c887aa9521c618add1	{Kelleys Bar}	{33.933585783333335,-118.13371,Downey,CA,United States}	{Nightlife Spot,}
+1760	Tue Mar 22 13:14:34 +0000 2011	4b9f931cf964a520562c37e3	{Downey Regional Medical Center}	{33.9357656484482,-118.13203197595381,Downey,CA,United States}	{Professional & Other Places,}
+1760	Tue Mar 22 13:06:43 +0000 2011	4c2fabda3896e21eae61e490	{Denny's}	{33.94933624781864,-118.16455489278005,South Gate,CA,United States}	{Food,}
+1760	Tue Mar 22 12:58:21 +0000 2011	4b4e59c7f964a5206fea26e3	{bobos hamburgers}	{33.95631525,-118.224472,South Gate,CA,United States}	{Food,}
+1760	Tue Mar 22 05:50:22 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Tue Mar 22 05:12:08 +0000 2011	4c1111c63ce120a19610091c	{Homeboy Silkscreen}	{34.02673487150242,-118.22975635528564,Los Angeles,CA,United States}	{Shop & Service,Office,Professional & Other Places,}
+1760	Tue Mar 22 05:11:50 +0000 2011	42814b00f964a520ea211fe3	{Hanger 1018 Gallery}	{34.031029,-118.229628,Los Angeles,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1760	Tue Mar 22 00:40:58 +0000 2011	4c6ea2b96af58cfa8ece8c17	{Cerritos College Health Occupation Skills Lab Building Rm 109}	{33.88289013693821,-118.09797125945947,Cerritos,CA,United States}	{College & University,}
+1760	Mon Mar 21 19:52:59 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Mon Mar 21 17:10:06 +0000 2011	4d3d096f3ec9a35df2164e81	{Watts}	{33.94068974429656,-118.24267387390138,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Mon Mar 21 16:14:54 +0000 2011	4d3d096f3ec9a35df2164e81	{Watts}	{33.94068974429656,-118.24267387390138,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Mon Mar 21 15:47:28 +0000 2011	4d67e7199792b1f79d3e431f	{CC Chemistry Building}	{33.885408,-118.098176,,,United States}	{College Academic Building,College & University,}
+1760	Mon Mar 21 15:46:04 +0000 2011	4ad26c2cf964a5208ce120e3	{Cerritos College}	{33.886229428397186,-118.0967710126029,Norwalk,CA,United States}	{College & University,}
+1760	Mon Mar 21 15:21:17 +0000 2011	4c7ed2c9d860b60c031f5f9d	{Graham elementary}	{33.96138708632094,-118.23844011084621,Los Angeles,CA,United States}	{College & University,}
+1760	Mon Mar 21 15:03:42 +0000 2011	4c97cc8cca6a8cfad923e6a4	{Florence ave school}	{33.974014729571664,-118.23853719464356,LA,CA,United States}	{College & University,}
+1760	Mon Mar 21 14:59:00 +0000 2011	4c8e92c158668cfa6320d3ec	{Lillian St. Elementary}	{33.985808853428075,-118.24051883426479,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+1760	Mon Mar 21 14:53:53 +0000 2011	4c50aa2dd797e21ec447c87a	{Roosevelt Park}	{33.97102882233146,-118.24261466451189,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Mon Mar 21 04:10:28 +0000 2011	49e4d4bbf964a52057631fe3	{Belkin HQ}	{33.876546,-118.229827,Compton,CA,United States}	{Professional & Other Places,}
+1760	Mon Mar 21 02:15:26 +0000 2011	4c3fcf53e26920a13d165ce7	{In Bed}	{33.95218682882379,-118.2351192408205,,CA,United States}	{Residence,}
+1760	Mon Mar 21 01:30:28 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Mon Mar 21 01:13:45 +0000 2011	4be442182468c9281a7efe42	{Colonel Leon H. Washington Park}	{33.958868843568276,-118.24381961253776,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Sun Mar 20 23:14:28 +0000 2011	4cb3b233ef1b3704be495400	{Shell}	{33.92915116714636,-118.2543839598753,Los Angeles,CA,United States}	{Shop & Service,}
+1760	Sun Mar 20 20:26:49 +0000 2011	4be442182468c9281a7efe42	{Colonel Leon H. Washington Park}	{33.958868843568276,-118.24381961253776,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Sun Mar 20 20:26:49 +0000 2011	4be442182468c9281a7efe42	{Colonel Leon H. Washington Park}	{33.958868843568276,-118.24381961253776,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Sun Mar 20 04:37:08 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Sun Mar 20 00:58:13 +0000 2011	4bd9cf27c4e59521e99a6a08	{Shell}	{33.85807648289536,-118.29884984539477,Torrance,CA,United States}	{Shop & Service,}
+1760	Sun Mar 20 00:52:20 +0000 2011	4c91724757e5b60c0af7601c	{Walmart}	{33.8569097207457,-118.30159664154053,Torrance,CA,United States}	{Shop & Service,}
+1760	Sun Mar 20 00:18:41 +0000 2011	4b7efaedf964a520f60d30e3	{Taco Bell}	{33.857993560874746,-118.30153295717645,Torrance,CA,United States}	{Food,}
+1760	Sat Mar 19 17:03:40 +0000 2011	4c50aa2dd797e21ec447c87a	{Roosevelt Park}	{33.97102882233146,-118.24261466451189,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Sat Mar 19 03:25:16 +0000 2011	4d5c361e6f6d6ea8119762ec	{Fresh & Easy Neighborhood Market}	{33.971098391806464,-118.23297500610352,Walnut Park,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Sat Mar 19 03:21:31 +0000 2011	4c50aa2dd797e21ec447c87a	{Roosevelt Park}	{33.97102882233146,-118.24261466451189,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Fri Mar 18 23:36:43 +0000 2011	4fc8ec557beb21f80dada3bc	{O'Reilly Auto Parts}	{33.974157598049224,-118.24724595873744,Los Angeles,CA,United States}	{Shop & Service,}
+1760	Fri Mar 18 23:28:20 +0000 2011	4d5b0d3d9c8a236a82a2da14	{Florence/Firestone Worksource}	{33.95994729358847,-118.24002770957613,Southeast,CA,United States}	{Professional & Other Places,}
+1760	Fri Mar 18 23:28:20 +0000 2011	4d5b0d3d9c8a236a82a2da14	{Florence/Firestone Worksource}	{33.95994729358847,-118.24002770957613,Southeast,CA,United States}	{Professional & Other Places,}
+1760	Fri Mar 18 22:18:52 +0000 2011	4b8ecf2af964a5207d3833e3	{Mike's Sandwich Shop}	{34.017549550143464,-118.22029589865737,Los Angeles,CA,United States}	{Food,}
+1760	Fri Mar 18 21:18:53 +0000 2011	4cdda1c2ffcf3704f5cd0c82	{Nike Factory Store}	{34.00745524275185,-118.15147876739502,Commerce,CA,United States}	{Shop & Service,Clothing Store,}
+1760	Fri Mar 18 18:43:24 +0000 2011	4ac01ef6f964a520da9320e3	{Nike Factory Store}	{34.07397887608389,-117.5517773347492,Ontario,CA,United States}	{Shop & Service,Clothing Store,}
+1760	Fri Mar 18 18:42:56 +0000 2011	4ac01ef6f964a520da9320e3	{Nike Factory Store}	{34.07397887608389,-117.5517773347492,Ontario,CA,United States}	{Shop & Service,Clothing Store,}
+1760	Fri Mar 18 18:23:26 +0000 2011	4c549a854623be9ac2f908f3	{I-10 (San Bernardino Freeway)}	{34.07222205160068,-117.75624990463257,Southern California,CA,United States}	{Travel & Transport,}
+1760	Fri Mar 18 18:23:01 +0000 2011	4c1178e5d917c92835d1b562	{Chevron}	{34.07132173627784,-117.78868604829557,Pomona,CA,United States}	{Shop & Service,}
+1760	Fri Mar 18 18:17:02 +0000 2011	4c428f5fe26920a1205960e7	{City of Covina}	{34.08643123455245,-117.85961151123047,Covina,CA,United States}	{Outdoors & Recreation,}
+1760	Fri Mar 18 17:56:07 +0000 2011	4c1111c63ce120a19610091c	{Homeboy Silkscreen}	{34.02673487150242,-118.22975635528564,Los Angeles,CA,United States}	{Shop & Service,Office,Professional & Other Places,}
+1760	Fri Mar 18 10:01:58 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Fri Mar 18 10:01:33 +0000 2011	4be442182468c9281a7efe42	{Colonel Leon H. Washington Park}	{33.958868843568276,-118.24381961253776,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Fri Mar 18 09:54:23 +0000 2011	4c43bdbb429a0f47cee2471e	{Ralphs}	{33.89489482975177,-118.22094128750187,Compton,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Fri Mar 18 09:45:27 +0000 2011	4a60f5b5f964a5208ec11fe3	{Del Taco}	{33.878781971155675,-118.21802845139797,Compton,CA,United States}	{Food,}
+1760	Fri Mar 18 02:21:08 +0000 2011	4d82c1935e70224babb5ea08	{City Lites Meeting}	{33.954923,-118.305624,Los Angeles,CA,United States}	{}
+1760	Fri Mar 18 02:19:41 +0000 2011	4d0543f3347da1cdb116308f	{WSS}	{33.95966861373528,-118.3107054233551,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,}
+1760	Fri Mar 18 02:19:40 +0000 2011	4d0543f3347da1cdb116308f	{WSS}	{33.95966861373528,-118.3107054233551,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,}
+1760	Thu Mar 17 23:21:07 +0000 2011	4b6dd988f964a52084952ce3	{The Home Depot}	{33.88586568488857,-118.10106552689831,Cerritos,CA,United States}	{Shop & Service,}
+1760	Thu Mar 17 22:44:10 +0000 2011	4c7ed2c9d860b60c031f5f9d	{Graham elementary}	{33.96138708632094,-118.23844011084621,Los Angeles,CA,United States}	{College & University,}
+1760	Thu Mar 17 21:33:42 +0000 2011	4c8e92c158668cfa6320d3ec	{Lillian St. Elementary}	{33.985808853428075,-118.24051883426479,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+1760	Thu Mar 17 20:25:12 +0000 2011	4ab29f18f964a520ac6b20e3	{Wingstop}	{33.87891184815921,-118.21817695011772,Compton,CA,United States}	{Food,Arts & Entertainment,}
+1760	Thu Mar 17 19:31:04 +0000 2011	4ad26c2cf964a5208ce120e3	{Cerritos College}	{33.886229428397186,-118.0967710126029,Norwalk,CA,United States}	{College & University,}
+1760	Thu Mar 17 18:49:28 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Thu Mar 17 17:40:10 +0000 2011	4d5c361e6f6d6ea8119762ec	{Fresh & Easy Neighborhood Market}	{33.971098391806464,-118.23297500610352,Walnut Park,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Thu Mar 17 15:53:27 +0000 2011	4c90e6b9ae96a09398c79e46	{Mercardo Amigo Carniceria}	{33.960305,-118.239327,Florence-Firestone,CA,United States}	{}
+1760	Thu Mar 17 15:46:39 +0000 2011	4c7ed2c9d860b60c031f5f9d	{Graham elementary}	{33.96138708632094,-118.23844011084621,Los Angeles,CA,United States}	{College & University,}
+1760	Thu Mar 17 15:46:08 +0000 2011	4cb3b233ef1b3704be495400	{Shell}	{33.92915116714636,-118.2543839598753,Los Angeles,CA,United States}	{Shop & Service,}
+1760	Thu Mar 17 15:46:07 +0000 2011	4cb3b233ef1b3704be495400	{Shell}	{33.92915116714636,-118.2543839598753,Los Angeles,CA,United States}	{Shop & Service,}
+1760	Tue Mar 15 17:36:47 +0000 2011	4be9bc2c415e20a15232e4bb	{Los Angeles Police Department Southeast Station}	{33.938374429776765,-118.27539650585484,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Tue Mar 15 17:32:30 +0000 2011	4c38bd7a2c8020a149618b00	{Watts Arts Gallery}	{33.95377,-118.25423,Los Angeles,CA,United States}	{Arts & Entertainment,}
+1760	Tue Mar 15 16:01:36 +0000 2011	4c9256c37f3b8cfa2e5ea41e	{Rent A Wheel}	{33.956216,-118.22668254375458,South Gate,CA,United States}	{Shop & Service,}
+1760	Tue Mar 15 15:24:58 +0000 2011	4c7ed2c9d860b60c031f5f9d	{Graham elementary}	{33.96138708632094,-118.23844011084621,Los Angeles,CA,United States}	{College & University,}
+1760	Tue Mar 15 15:03:45 +0000 2011	4c6c3764f2846dcb574b62e9	{Mercado Del Pueblo}	{33.98315873626396,-118.23854861626316,Los Angeles,CA,United States}	{Shop & Service,}
+1760	Tue Mar 15 04:44:30 +0000 2011	4cb3b233ef1b3704be495400	{Shell}	{33.92915116714636,-118.2543839598753,Los Angeles,CA,United States}	{Shop & Service,}
+1760	Tue Mar 15 00:01:02 +0000 2011	4c9176c957e5b60c2822611c	{Los Angeles County Office of Education (LACOE)}	{33.916076560391524,-118.12910621542778,Downey,CA,United States}	{College & University,Professional & Other Places,}
+1760	Mon Mar 14 23:21:49 +0000 2011	4c6ea2b96af58cfa8ece8c17	{Cerritos College Health Occupation Skills Lab Building Rm 109}	{33.88289013693821,-118.09797125945947,Cerritos,CA,United States}	{College & University,}
+1760	Mon Mar 14 22:26:18 +0000 2011	4bdf4056ffdec9284642eba1	{Washington Park}	{33.95869254788479,-118.24376821682334,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Mon Mar 14 22:25:38 +0000 2011	4d04168054d0236acc12edd5	{Nickerson Gardens}	{33.93012803664168,-118.25259663231712,Watts,CA,United States}	{Residence,}
+1760	Mon Mar 14 22:25:23 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Mon Mar 14 21:41:35 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Mon Mar 14 20:05:26 +0000 2011	4be442182468c9281a7efe42	{Colonel Leon H. Washington Park}	{33.958868843568276,-118.24381961253776,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Mon Mar 14 19:29:39 +0000 2011	4c7c16cb278eb71368096780	{College Hospital Cerritos}	{33.88436458064418,-118.10279130935669,Cerritos,CA,United States}	{Medical Center,Professional & Other Places,}
+1760	Mon Mar 14 03:41:14 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Sun Mar 13 23:44:32 +0000 2011	4a6cc0f0f964a52088d11fe3	{Universal Studios Hollywood}	{34.13763203794546,-118.35429668426512,Universal City,CA,United States}	{Arts & Entertainment,Theme Park,}
+1760	Sun Mar 13 20:25:26 +0000 2011	4b64d051f964a5201ed22ae3	{Krustyland}	{34.139372533535095,-118.3538568019867,Universal City,CA,United States}	{Arts & Entertainment,}
+1760	Sun Mar 13 20:23:22 +0000 2011	4ae5c8cbf964a520fda121e3	{Universal Studios Backlot}	{34.14091763733578,-118.34972620010376,Burbank,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1760	Sun Mar 13 02:57:11 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Sun Mar 13 00:22:44 +0000 2011	4bdca419afe8c9b6315c5085	{Chuck E. Cheese's}	{33.96997,-118.1762570142746,Bell,CA,United States}	{Food,}
+1760	Sun Mar 13 00:21:12 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Sat Mar 12 23:43:46 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Sat Mar 12 16:48:17 +0000 2011	4c50aa2dd797e21ec447c87a	{Roosevelt Park}	{33.97102882233146,-118.24261466451189,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Sat Mar 12 16:17:12 +0000 2011	4bcb263168f976b0d56e6083	{Firestone Metro Station}	{33.959557378298385,-118.24323177337646,Los Angeles,CA,United States}	{Travel & Transport,}
+1760	Fri Mar 11 18:34:53 +0000 2011	4c6c3764f2846dcb574b62e9	{Mercado Del Pueblo}	{33.98315873626396,-118.23854861626316,Los Angeles,CA,United States}	{Shop & Service,}
+1760	Fri Mar 11 15:57:44 +0000 2011	4c8e92c158668cfa6320d3ec	{Lillian St. Elementary}	{33.985808853428075,-118.24051883426479,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+1760	Wed Mar 09 19:16:56 +0000 2011	4c3b4a345810a593f267ba3c	{WLCAC}	{33.93559832653503,-118.25357437133789,Los Angeles,CA,United States}	{}
+1760	Wed Mar 09 18:10:12 +0000 2011	4bcb263168f976b0d56e6083	{Firestone Metro Station}	{33.959557378298385,-118.24323177337646,Los Angeles,CA,United States}	{Travel & Transport,}
+1760	Wed Mar 09 00:35:09 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Tue Mar 08 22:27:05 +0000 2011	4bcb263168f976b0d56e6083	{Firestone Metro Station}	{33.959557378298385,-118.24323177337646,Los Angeles,CA,United States}	{Travel & Transport,}
+1760	Tue Mar 08 17:28:57 +0000 2011	4d3382d05c2db60cd0ddcb6c	{Toms Burgers}	{33.95983345128156,-118.23573887492812,Los Angeles,CA,United States}	{Food,}
+1760	Tue Mar 08 06:54:02 +0000 2011	4c047827310fc9b67766c761	{I-105 (Century Freeway / Glenn Anderson Freeway)}	{33.92749771628687,-118.2589066028595,Southern California,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Tue Mar 08 02:01:14 +0000 2011	4c96cc81f7cfa1cdf68dc915	{Firestone Laundry}	{33.959768,-118.235564,LA,CA,United States}	{Professional & Other Places,}
+1760	Mon Mar 07 22:40:10 +0000 2011	4d385e7f1599370478aeb891	{Alameda Garage, LAUSD}	{33.977106,-118.235757,Los Angeles,CA,United States}	{Professional & Other Places,}
+1760	Mon Mar 07 17:19:16 +0000 2011	4c4c920d5609c9b6e1adc592	{Jordan's Cafe}	{33.931761,-118.239124,Los Angeles,CA,United States}	{Food,}
+1760	Mon Mar 07 17:02:28 +0000 2011	4c047827310fc9b67766c761	{I-105 (Century Freeway / Glenn Anderson Freeway)}	{33.92749771628687,-118.2589066028595,Southern California,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Mon Mar 07 16:54:14 +0000 2011	4b6209a3f964a520d8312ae3	{Kaiser Permanente Downey Medical Center}	{33.91806086918189,-118.12725305557251,Downey,CA,United States}	{Medical Center,Professional & Other Places,}
+1760	Mon Mar 07 16:31:12 +0000 2011	4c90e6b9ae96a09398c79e46	{Mercardo Amigo Carniceria}	{33.960305,-118.239327,Florence-Firestone,CA,United States}	{}
+1760	Sun Mar 06 23:04:21 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Sun Mar 06 18:08:17 +0000 2011	4bbcdab0a0a0c9b606e41a0f	{FedEx Ground}	{33.86768923114452,-118.24866787229375,Carson,CA,United States}	{Professional & Other Places,}
+1760	Sun Mar 06 03:27:52 +0000 2011	42893400f964a5207e231fe3	{STAPLES Center}	{34.043058660157634,-118.26724290847778,Los Angeles,CA,United States}	{Stadium,Arts & Entertainment,}
+1760	Fri Mar 04 23:12:44 +0000 2011	4c7ed2c9d860b60c031f5f9d	{Graham elementary}	{33.96138708632094,-118.23844011084621,Los Angeles,CA,United States}	{College & University,}
+1760	Fri Mar 04 22:31:46 +0000 2011	4c90e6b9ae96a09398c79e46	{Mercardo Amigo Carniceria}	{33.960305,-118.239327,Florence-Firestone,CA,United States}	{}
+1760	Fri Mar 04 18:49:57 +0000 2011	4c3fcf53e26920a13d165ce7	{In Bed}	{33.95218682882379,-118.2351192408205,,CA,United States}	{Residence,}
+1760	Fri Mar 04 17:04:43 +0000 2011	4d5c361e6f6d6ea8119762ec	{Fresh & Easy Neighborhood Market}	{33.971098391806464,-118.23297500610352,Walnut Park,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1760	Fri Mar 04 16:55:02 +0000 2011	4bcf63ff462cb7134d9ed607	{Marshalls}	{33.97272664312662,-118.23306083679199,Huntington Park,CA,United States}	{Shop & Service,}
+1760	Fri Mar 04 02:36:45 +0000 2011	4b92d004f964a520221e34e3	{Burger King}	{33.959961024733616,-118.25360735977866,Los Angeles,CA,United States}	{Food,}
+1760	Fri Mar 04 02:02:42 +0000 2011	4c6ea2b96af58cfa8ece8c17	{Cerritos College Health Occupation Skills Lab Building Rm 109}	{33.88289013693821,-118.09797125945947,Cerritos,CA,United States}	{College & University,}
+1760	Thu Mar 03 22:50:46 +0000 2011	4c90e6b9ae96a09398c79e46	{Mercardo Amigo Carniceria}	{33.960305,-118.239327,Florence-Firestone,CA,United States}	{}
+1760	Thu Mar 03 22:50:45 +0000 2011	4c90e6b9ae96a09398c79e46	{Mercardo Amigo Carniceria}	{33.960305,-118.239327,Florence-Firestone,CA,United States}	{}
+1760	Thu Mar 03 22:50:05 +0000 2011	4c7ed2c9d860b60c031f5f9d	{Graham elementary}	{33.96138708632094,-118.23844011084621,Los Angeles,CA,United States}	{College & University,}
+1760	Thu Mar 03 22:50:05 +0000 2011	4c7ed2c9d860b60c031f5f9d	{Graham elementary}	{33.96138708632094,-118.23844011084621,Los Angeles,CA,United States}	{College & University,}
+1760	Thu Mar 03 21:21:20 +0000 2011	4bcb263168f976b0d56e6083	{Firestone Metro Station}	{33.959557378298385,-118.24323177337646,Los Angeles,CA,United States}	{Travel & Transport,}
+1760	Thu Mar 03 01:41:56 +0000 2011	4bbd45c74e069c7465a59ee3	{Timeless Tattoo}	{34.08457057,-118.32624,Los Angeles,CA,United States}	{Shop & Service,}
+1760	Wed Mar 02 22:35:43 +0000 2011	4c90e6b9ae96a09398c79e46	{Mercardo Amigo Carniceria}	{33.960305,-118.239327,Florence-Firestone,CA,United States}	{}
+1760	Tue Mar 01 20:46:52 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Tue Mar 01 20:46:52 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Tue Mar 01 17:57:03 +0000 2011	4c8167f7d34ca1438e322280	{Fnr cycle}	{33.895819,-118.17549376301055,Paramount,CA,United States}	{Shop & Service,}
+1760	Tue Mar 01 07:44:26 +0000 2011	4a987227f964a5200c2c20e3	{Pilot Travel Center}	{34.4084474840946,-117.399318752651,Oak Hills,CA,United States}	{Shop & Service,Food,}
+1760	Fri Feb 25 18:01:52 +0000 2011	4d44761d1ed56dcb31c8af54	{Firestone Tire and Service Center}	{33.98177789,-118.22344753,,,United States}	{Shop & Service,}
+1760	Mon Feb 21 04:20:47 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Mon Feb 21 02:04:38 +0000 2011	4a3ae617f964a52067a01fe3	{Citadel Outlets}	{34.00654806750311,-118.15277695655823,Commerce,CA,United States}	{Outdoors & Recreation,Shop & Service,Food & Drink Shop,}
+1760	Sun Feb 20 20:19:48 +0000 2011	49c7323ff964a520a2571fe3	{Los Angeles Zoo}	{34.14839998630527,-118.28366301865034,Los Angeles,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+1760	Sat Feb 19 23:16:39 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Sat Feb 19 21:44:27 +0000 2011	4bbd45c74e069c7465a59ee3	{Timeless Tattoo}	{34.08457057,-118.32624,Los Angeles,CA,United States}	{Shop & Service,}
+1760	Sat Feb 19 21:04:10 +0000 2011	4d391d5bacf1b60cd2948718	{Hollywood}	{34.101677461543396,-118.34030628204346,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1760	Sat Feb 19 20:43:42 +0000 2011	4d59e7801d4a8cfa0a2292ed	{NBA Jam Session}	{34.040607,-118.269302,Los Angeles,CA,United States}	{Arts & Entertainment,}
+1760	Sat Feb 19 06:06:50 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}
+1760	Sat Feb 19 03:40:00 +0000 2011	4c96cc81f7cfa1cdf68dc915	{Firestone Laundry}	{33.959768,-118.235564,LA,CA,United States}	{Professional & Other Places,}
+1760	Sat Feb 19 03:40:00 +0000 2011	4c96cc81f7cfa1cdf68dc915	{Firestone Laundry}	{33.959768,-118.235564,LA,CA,United States}	{Professional & Other Places,}
+1760	Fri Feb 18 23:14:55 +0000 2011	4affc1d2f964a520093a22e3	{The City of South Gate}	{33.901624015767396,-118.17375183105469,South Gate,CA,United States}	{Outdoors & Recreation,}
+1760	Fri Feb 18 22:59:11 +0000 2011	4b77572ef964a5206a932ee3	{Lynwood, CA}	{33.93043538926759,-118.2115602493286,Lynwood,CA,United States}	{Outdoors & Recreation,}
+1760	Fri Feb 18 02:38:58 +0000 2011	4b77572ef964a5206a932ee3	{Lynwood, CA}	{33.93043538926759,-118.2115602493286,Lynwood,CA,United States}	{Outdoors & Recreation,}
+1760	Fri Feb 18 02:08:59 +0000 2011	4ad26c2cf964a5208ce120e3	{Cerritos College}	{33.886229428397186,-118.0967710126029,Norwalk,CA,United States}	{College & University,}
+1760	Fri Feb 18 02:03:15 +0000 2011	4d43cd107e2e548184d3598f	{CA-91 Freeway}	{33.87713203504438,-118.14997673034668,Gardena and Buena Park,CA,United States}	{Travel & Transport,}
+1760	Thu Feb 17 01:38:52 +0000 2011	4c28c0f33492a593facfb728	{East Side Riders Bike Club}	{33.957166338387744,-118.23903403439347,Los angeles,CA,United States}	{Travel & Transport,Shop & Service,}

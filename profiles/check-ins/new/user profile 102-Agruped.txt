@@ -1,0 +1,124 @@
+102	Fri May 20 17:22:57 +0000 2011	4a95bfc4f964a520782420e3	{Chipotle Mexican Grill}	{37.70155486666667,-122.48241818333334,Daly City,CA,United States}	{Food,}
+102	Fri May 20 04:13:20 +0000 2011	43728d80f964a520102a1fe3	{Tres}	{37.78021262835114,-122.39134311676025,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+102	Fri May 20 03:39:03 +0000 2011	43728d80f964a520102a1fe3	{Tres}	{37.78021262835114,-122.39134311676025,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+102	Fri May 20 03:37:11 +0000 2011	4bb13745f964a52036843ce3	{Townsend Center}	{37.771189626622515,-122.40316997754249,San Francisco,CA,United States}	{Professional & Other Places,}
+102	Thu May 19 00:22:21 +0000 2011	4a7682a9f964a5201de31fe3	{Flood Building}	{37.78512277523933,-122.40731294606039,San Francisco,CA,United States}	{Professional & Other Places,}
+102	Fri May 13 02:53:15 +0000 2011	4a0c8de5f964a5203c751fe3	{Holy Grill}	{37.770811,-122.403034,San Francisco,CA,United States}	{Food,}
+102	Wed May 11 23:09:34 +0000 2011	4a3f0ce4f964a520aca31fe3	{Pet Food Express}	{37.76920547699604,-122.42638840637986,San Francisco,CA,United States}	{Shop & Service,}
+102	Wed May 11 05:10:54 +0000 2011	4a3c3e99f964a52052a11fe3	{Charanga}	{37.759554,-122.419181,San Francisco,CA,United States}	{Food,}
+102	Mon May 09 02:50:15 +0000 2011	435c2400f964a5200e291fe3	{Basil Thai Restaurant & Bar}	{37.77537903331154,-122.40942120552063,San Francisco,CA,United States}	{Food,}
+102	Wed May 04 01:15:31 +0000 2011	40870b00f964a520a0f21ee3	{El Rio}	{37.746868,-122.41951655,San Francisco,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+102	Wed May 04 01:13:20 +0000 2011	40870b00f964a520a0f21ee3	{El Rio}	{37.746868,-122.41951655,San Francisco,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+102	Mon May 02 03:19:05 +0000 2011	4537f9daf964a520c73b1fe3	{Little Star Pizza}	{37.76646989403105,-122.42209686816254,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+102	Fri Apr 29 07:23:22 +0000 2011	4a692f3df964a520bdcb1fe3	{Blackbird Bar}	{37.767305376885574,-122.42940902709961,San Francisco,CA,United States}	{Nightlife Spot,}
+102	Fri Apr 29 06:18:34 +0000 2011	4a692f3df964a520bdcb1fe3	{Blackbird Bar}	{37.767305376885574,-122.42940902709961,San Francisco,CA,United States}	{Nightlife Spot,}
+102	Tue Apr 26 22:03:40 +0000 2011	4bdb59b32a3a0f47ea9aaeb6	{Autopia Car Wash}	{37.90921530402561,-122.06483798550404,Walnut Creek,CA,United States}	{Shop & Service,}
+102	Sun Apr 10 22:07:05 +0000 2011	4ab595e1f964a520877520e3	{Mission Dolores Park}	{37.76005771562691,-122.42678658144186,San Francisco,CA,United States}	{Outdoors & Recreation,}
+102	Sat Apr 02 02:31:44 +0000 2011	417c4200f964a520c71d1fe3	{Cha Cha Cha}	{37.769228462742,-122.45200395584106,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+===
+102	Mon Jan 24 03:41:20 +0000 2011	4a6e3db2f964a52048d41fe3	{Spicy Bite}	{37.74102,-122.422739,San Francisco,CA,United States}	{Food,}
+102	Mon Jan 24 00:58:07 +0000 2011	44ca68a6f964a52001361fe3	{Dolores Park Cafe}	{37.761249556060214,-122.42584705352783,San Francisco,CA,United States}	{Food,}
+102	Mon Jan 24 00:57:22 +0000 2011	4ab595e1f964a520877520e3	{Mission Dolores Park}	{37.76005771562691,-122.42678658144186,San Francisco,CA,United States}	{Outdoors & Recreation,}
+102	Mon Jan 24 00:56:10 +0000 2011	4ab595e1f964a520877520e3	{Mission Dolores Park}	{37.76005771562691,-122.42678658144186,San Francisco,CA,United States}	{Outdoors & Recreation,}
+102	Sat Jan 22 06:08:18 +0000 2011	3fd66200f964a52025f11ee3	{Chow}	{37.76710606854535,-122.42877066135406,San Francisco,CA,United States}	{Food,}
+102	Sat Jan 22 02:28:24 +0000 2011	4c32362c213c2d7f5615355d	{The Park Gym}	{37.76585072857744,-122.4134966727583,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+102	Sat Jan 22 00:56:46 +0000 2011	4ab595e1f964a520877520e3	{Mission Dolores Park}	{37.76005771562691,-122.42678658144186,San Francisco,CA,United States}	{Outdoors & Recreation,}
+102	Tue Jan 18 00:00:28 +0000 2011	4550e681f964a520e43c1fe3	{Colibr? Mexican Bistro}	{37.78709639552427,-122.41044910337239,San Francisco,CA,United States}	{Food,}
+102	Sat Jan 01 01:51:48 +0000 2011	4b6db454f964a5200a882ce3	{MacArthur Maze (I80 And I580 Junction)}	{37.82822612280363,-122.29346179962158,Oakland,CA,United States}	{Travel & Transport,}
+102	Thu Dec 30 06:03:54 +0000 2010	44610f81f964a52010331fe3	{Safeway}	{37.76883197614526,-122.42831468582152,San Francisco,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+102	Thu Dec 30 04:29:05 +0000 2010	46c218e5f964a520f5491fe3	{Yuzu Sushi}	{37.8005190289508,-122.4363755077246,San Francisco,CA,United States}	{Food,}
+102	Thu Dec 30 03:46:54 +0000 2010	4540820cf964a5203c3c1fe3	{CIRCA}	{37.800714,-122.436477,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+102	Thu Dec 23 03:35:46 +0000 2010	49c04863f964a5205c551fe3	{Grand Pu Bah}	{37.769888,-122.403163,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+102	Wed Dec 15 01:27:01 +0000 2010	4a81b706f964a52056f71fe3	{US Post Office}	{37.76662142990032,-122.41059844186265,San Francisco,CA,United States}	{Professional & Other Places,}
+102	Tue Dec 14 03:26:17 +0000 2010	49c04863f964a5205c551fe3	{Grand Pu Bah}	{37.769888,-122.403163,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+102	Mon Dec 13 23:39:16 +0000 2010	44f03c85f964a520f2371fe3	{Rose's Caf?}	{37.79698882519879,-122.43709989502378,San Francisco,CA,United States}	{Food,}
+102	Mon Dec 13 23:03:31 +0000 2010	4b1b1c6cf964a5203bf823e3	{Z Gallerie}	{37.79727648317745,-122.43488247994517,San Francisco,CA,United States}	{Shop & Service,}
+102	Mon Dec 13 22:58:01 +0000 2010	4bafdcd7f964a52005273ce3	{American Cupcake}	{37.797620123279906,-122.4309949782525,San Francisco,CA,United States}	{Food,}
+102	Mon Dec 13 22:55:43 +0000 2010	4c104773f1b6a59337be7b27	{Le Marcel Dog Bakery}	{37.797446902389666,-122.43327883383529,San Francisco,CA,United States}	{Shop & Service,}
+102	Mon Dec 13 02:44:57 +0000 2010	49cfa966f964a520b45a1fe3	{Urban Tavern}	{37.786138,-122.41047101154962,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+===
+102	Sun Nov 14 02:00:36 +0000 2010	4c32362c213c2d7f5615355d	{The Park Gym}	{37.76585072857744,-122.4134966727583,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+102	Sun Nov 14 01:41:49 +0000 2010	4bdb743f4b1f95216db1670b	{Craneway Pavilion}	{37.909543836544366,-122.35890360730428,Richmond,CA,United States}	{Nightlife Spot,Professional & Other Places,}
+102	Thu Nov 11 02:23:33 +0000 2010	4c32362c213c2d7f5615355d	{The Park Gym}	{37.76585072857744,-122.4134966727583,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+102	Sun Nov 07 01:54:57 +0000 2010	4af497b6f964a52028f421e3	{Ozone Thai}	{37.781880993264146,-122.39233553409576,San Francisco,CA,United States}	{Food,}
+102	Sun Oct 24 02:17:14 +0000 2010	4698fe39f964a520f9481fe3	{The Fairmont San Francisco}	{37.79235252013811,-122.41054313133543,San Francisco,CA,United States}	{Nightlife Spot,Travel & Transport,}
+102	Fri Oct 22 18:48:21 +0000 2010	4c32362c213c2d7f5615355d	{The Park Gym}	{37.76585072857744,-122.4134966727583,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+102	Sun Oct 17 03:31:32 +0000 2010	4a908ac1f964a520711820e3	{Portola Hotel & Spa}	{36.60173472579437,-121.89417339729617,Monterey,CA,United States}	{Travel & Transport,Professional & Other Places,}
+102	Thu Oct 14 03:27:23 +0000 2010	47124c9ff964a520a14b1fe3	{The Melting Pot}	{37.5678641,-122.324017,San Mateo,CA,United States}	{Food,}
+102	Sun Oct 10 19:22:06 +0000 2010	4cb15855f2dbef3bf1ef79e5	{Massage therapy by Rachel Estelle}	{37.895636,-122.072929,Walnut Creek,CA,United States}	{}
+102	Sun Oct 10 19:19:44 +0000 2010	4bdb59b32a3a0f47ea9aaeb6	{Autopia Car Wash}	{37.90921530402561,-122.06483798550404,Walnut Creek,CA,United States}	{Shop & Service,}
+102	Sun Oct 10 19:19:44 +0000 2010	4bdb59b32a3a0f47ea9aaeb6	{Autopia Car Wash}	{37.90921530402561,-122.06483798550404,Walnut Creek,CA,United States}	{Shop & Service,}
+102	Sat Oct 09 04:30:53 +0000 2010	4a3c3e99f964a52052a11fe3	{Charanga}	{37.759554,-122.419181,San Francisco,CA,United States}	{Food,}
+102	Sat Oct 09 04:27:50 +0000 2010	4a3c3e99f964a52052a11fe3	{Charanga}	{37.759554,-122.419181,San Francisco,CA,United States}	{Food,}
+102	Fri Oct 08 22:52:33 +0000 2010	4c32362c213c2d7f5615355d	{The Park Gym}	{37.76585072857744,-122.4134966727583,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+102	Wed Oct 06 16:34:37 +0000 2010	4a2c1064f964a52017971fe3	{InterContinental San Francisco}	{37.78184495528403,-122.40475416183472,San Francisco,CA,United States}	{Travel & Transport,}
+102	Mon Oct 04 03:36:50 +0000 2010	40870b00f964a520abf21ee3	{Orphan Andy's}	{37.76257963,-122.43504,San Francisco,CA,United States}	{Food,}
+102	Mon Oct 04 03:36:01 +0000 2010	4ca22c622fb1a143ab520b41	{Castro Street Fair 2010}	{37.761619091033936,-122.43479155,San Francisco,CA,United States}	{Nightlife Spot,}
+102	Mon Oct 04 02:10:53 +0000 2010	4ca22c622fb1a143ab520b41	{Castro Street Fair 2010}	{37.761619091033936,-122.43479155,San Francisco,CA,United States}	{Nightlife Spot,}
+102	Sat Oct 02 23:10:10 +0000 2010	4ca7bb6ab0b8236a2a88ace6	{Casa De La Gill Pool And Cabana}	{37.95017474762379,-121.72066233820794,Brentwood,CA,United States}	{Outdoors & Recreation,}
+102	Sat Oct 02 23:02:21 +0000 2010	4ab6af16f964a5208f7820e3	{Hannah Nicole Vineyards}	{37.922483,-121.65755462646484,Brentwood,CA,United States}	{Food,}
+102	Fri Oct 01 20:53:20 +0000 2010	46629a4cf964a5206c471fe3	{Maddie's Pet Adoption Center}	{37.76621999,-122.4121993,San Francisco,CA,United States}	{Shop & Service,Outdoors & Recreation,Professional & Other Places,}
+102	Fri Oct 01 20:27:52 +0000 2010	4a3c3e99f964a52052a11fe3	{Charanga}	{37.759554,-122.419181,San Francisco,CA,United States}	{Food,}
+102	Fri Oct 01 19:54:21 +0000 2010	4a0c8de5f964a5203c751fe3	{Holy Grill}	{37.770811,-122.403034,San Francisco,CA,United States}	{Food,}
+102	Thu Sep 30 01:48:05 +0000 2010	4a3c3e99f964a52052a11fe3	{Charanga}	{37.759554,-122.419181,San Francisco,CA,United States}	{Food,}
+102	Wed Sep 29 21:53:20 +0000 2010	4a8324fbf964a52031fa1fe3	{44 Montgomery}	{37.789645708246134,-122.40198612213135,San Francisco,CA,United States}	{Professional & Other Places,}
+102	Wed Sep 29 17:54:24 +0000 2010	49d80897f964a520985d1fe3	{Apple Store, Chestnut Street}	{37.800415,-122.438363,San Francisco,CA,United States}	{Shop & Service,}
+102	Tue Sep 28 02:48:06 +0000 2010	4c32362c213c2d7f5615355d	{The Park Gym}	{37.76585072857744,-122.4134966727583,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+102	Sun Sep 26 06:19:52 +0000 2010	4a3c3e99f964a52052a11fe3	{Charanga}	{37.759554,-122.419181,San Francisco,CA,United States}	{Food,}
+102	Sun Sep 26 06:19:52 +0000 2010	4a3c3e99f964a52052a11fe3	{Charanga}	{37.759554,-122.419181,San Francisco,CA,United States}	{Food,}
+102	Sat Sep 25 20:02:06 +0000 2010	3fd66200f964a5203dee1ee3	{Cafe Flore}	{37.76461205879493,-122.43299681077688,San Francisco,CA,United States}	{Food,}
+102	Fri Sep 24 16:56:44 +0000 2010	4aa01577f964a5203c3e20e3	{San Francisco Institute of Esthetics and Cosmetology}	{37.77713,-122.407229,San Francisco,CA,United States}	{College & University,}
+102	Fri Sep 24 05:03:57 +0000 2010	47d7bd0af964a520244e1fe3	{Orson Restaurant, Bar & Lounge}	{37.779319,-122.398053,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+102	Fri Sep 24 02:55:40 +0000 2010	49cc413df964a5205a591fe3	{California Academy of Sciences}	{37.7697648824009,-122.46631622314455,San Francisco,CA,United States}	{Museum,Arts & Entertainment,}
+102	Thu Sep 23 21:31:16 +0000 2010	4a1e071af964a520bb7b1fe3	{Starbucks}	{37.762932,-122.410367,San Francisco,CA,United States}	{Food,}
+102	Thu Sep 23 01:12:44 +0000 2010	4c32362c213c2d7f5615355d	{The Park Gym}	{37.76585072857744,-122.4134966727583,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+102	Wed Sep 22 19:48:22 +0000 2010	4af9d69df964a520a71422e3	{Walgreens}	{37.777255448593046,-122.395138016981,SAN FRANCISCO,CA,United States}	{Shop & Service,}
+102	Wed Sep 22 05:44:04 +0000 2010	40ad4680f964a52037f31ee3	{Slow Club}	{37.76308092594194,-122.40839152923758,San Francisco,CA,United States}	{Food,}
+102	Tue Sep 21 22:22:05 +0000 2010	4c7aadb297028cfa48e7defe	{Pure Bliss Wellness}	{37.895662,-122.073008,Walnut Creek,CA,United States}	{Shop & Service,}
+102	Sun Sep 19 22:05:35 +0000 2010	4b4933a5f964a520e06926e3	{Build-A-Bear Workshop}	{37.896159,-122.058074,Walnut Creek,CA,United States}	{Shop & Service,}
+102	Sun Sep 19 16:45:57 +0000 2010	4c7aadb297028cfa48e7defe	{Pure Bliss Wellness}	{37.895662,-122.073008,Walnut Creek,CA,United States}	{Shop & Service,}
+102	Sun Sep 19 00:01:39 +0000 2010	4c10190581e976b0549d0eeb	{Dog Park}	{37.945419395433156,-121.72046712718728,Brentwood,CA,United States}	{Outdoors & Recreation,}
+102	Fri Sep 17 19:52:20 +0000 2010	4c7435fbc219224b07359f28	{McGuire Real Estate}	{37.77744609993834,-122.39624991585458,San Francisco,CA,United States}	{Office,Professional & Other Places,}
+102	Thu Sep 16 23:06:59 +0000 2010	4a5ea7def964a520febe1fe3	{Lark Creek Walnut Creek}	{37.89833141483359,-122.06179155157696,Walnut Creek,CA,United States}	{Food,}
+102	Thu Sep 16 23:00:19 +0000 2010	4a2c4660f964a52046971fe3	{Apple Store, Walnut Creek}	{37.897047569732095,-122.05994367298358,Walnut Creek,CA,United States}	{Shop & Service,}
+102	Thu Sep 16 22:59:12 +0000 2010	4aff687ff964a520483822e3	{Crate & Barrel}	{37.89611780416768,-122.05983823752159,Walnut Creek,CA,United States}	{Shop & Service,}
+102	Thu Sep 16 03:32:24 +0000 2010	43d820b6f964a520612e1fe3	{Espetus Churrascaria Brazilian Steak House}	{37.77329285782031,-122.42223680019379,San Francisco,CA,United States}	{Food,}
+102	Wed Sep 15 23:26:39 +0000 2010	49bd6c9ef964a5207a541fe3	{Starbucks}	{37.770438,-122.403511,San Francisco,CA,United States}	{Food,Professional & Other Places,}
+102	Wed Sep 15 23:22:41 +0000 2010	49c42510f964a5209d561fe3	{Starbucks}	{37.77665106264782,-122.39327430725098,San Francisco,CA,United States}	{Food,}
+102	Wed Sep 15 20:24:53 +0000 2010	4c32362c213c2d7f5615355d	{The Park Gym}	{37.76585072857744,-122.4134966727583,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+102	Tue Sep 14 22:35:45 +0000 2010	4c7aadb297028cfa48e7defe	{Pure Bliss Wellness}	{37.895662,-122.073008,Walnut Creek,CA,United States}	{Shop & Service,}
+102	Tue Sep 14 22:32:28 +0000 2010	4bc753ba14d79521782967e9	{Broadway Plaza Main Fountain}	{37.896549,-122.058793,Walnut Creek,CA,United States}	{Outdoors & Recreation,}
+102	Tue Sep 14 22:28:47 +0000 2010	4b2bff4df964a52044bf24e3	{Sephora}	{37.896348,-122.059088,Walnut Creek,CA,United States}	{Shop & Service,}
+102	Tue Sep 14 05:02:45 +0000 2010	4a3c3e99f964a52052a11fe3	{Charanga}	{37.759554,-122.419181,San Francisco,CA,United States}	{Food,}
+102	Mon Sep 13 05:48:45 +0000 2010	4a18358cf964a5208e791fe3	{Mua Oakland Bar & Restaurant}	{37.813949947041436,-122.2645765542984,Oakland,CA,United States}	{Nightlife Spot,Food,}
+102	Sat Sep 11 21:26:42 +0000 2010	4c32362c213c2d7f5615355d	{The Park Gym}	{37.76585072857744,-122.4134966727583,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+102	Fri Sep 10 20:55:25 +0000 2010	40e0b100f964a520e1091fe3	{Blowfish Sushi to Die For}	{37.75963095,-122.410067,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+102	Fri Sep 10 19:04:26 +0000 2010	4b53d9e1f964a5202cad27e3	{Carl's Jr.}	{37.62713135242867,-122.42553323507309,San Bruno,CA,United States}	{Food,}
+102	Fri Sep 10 19:01:03 +0000 2010	4a81a826f964a5202bf71fe3	{CVS/pharmacy}	{37.626593899743334,-122.42625072598457,San Bruno,CA,United States}	{Shop & Service,}
+102	Fri Sep 10 03:44:58 +0000 2010	47d7bd0af964a520244e1fe3	{Orson Restaurant, Bar & Lounge}	{37.779319,-122.398053,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+102	Thu Sep 09 22:16:54 +0000 2010	4c7aadb297028cfa48e7defe	{Pure Bliss Wellness}	{37.895662,-122.073008,Walnut Creek,CA,United States}	{Shop & Service,}
+102	Thu Sep 09 21:25:45 +0000 2010	4a75f04ef964a520bde11fe3	{The Counter}	{37.90236353352196,-122.0645534992218,Walnut Creek,CA,United States}	{Food,}
+102	Thu Sep 09 19:33:46 +0000 2010	4bdb59b32a3a0f47ea9aaeb6	{Autopia Car Wash}	{37.90921530402561,-122.06483798550404,Walnut Creek,CA,United States}	{Shop & Service,}
+102	Thu Sep 09 01:23:38 +0000 2010	4c32362c213c2d7f5615355d	{The Park Gym}	{37.76585072857744,-122.4134966727583,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+102	Wed Sep 08 02:25:36 +0000 2010	4c32362c213c2d7f5615355d	{The Park Gym}	{37.76585072857744,-122.4134966727583,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+102	Wed Sep 08 01:57:50 +0000 2010	4b326951f964a520f70a25e3	{353 Sacramento Street}	{37.79405370117556,-122.39981233859359,San Francisco,CA,United States}	{Professional & Other Places,}
+102	Tue Sep 07 18:53:28 +0000 2010	4c7aadb297028cfa48e7defe	{Pure Bliss Wellness}	{37.895662,-122.073008,Walnut Creek,CA,United States}	{Shop & Service,}
+102	Mon Sep 06 23:31:46 +0000 2010	49dcfdb3f964a520dd5f1fe3	{Safeway}	{37.76647421515012,-122.40938901901247,San Francisco,CA,United States}	{Shop & Service,Food & Drink Shop,}
+102	Mon Sep 06 23:31:10 +0000 2010	49c99371f964a5207d581fe3	{Potrero Center}	{37.766316342766466,-122.4094258524531,San Francisco,CA,United States}	{Shop & Service,}
+102	Sun Sep 05 07:27:11 +0000 2010	4a91ab18f964a520401b20e3	{Mission Rock Cafe}	{37.765473465320426,-122.38659093950798,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+102	Sun Sep 05 00:42:12 +0000 2010	4ae14188f964a520cd8521e3	{Metro @ Showplace Square}	{37.77112795731,-122.40708340000728,San Francisco,CA,United States}	{Residence,}
+102	Sun Sep 05 00:41:49 +0000 2010	4ae14188f964a520cd8521e3	{Metro @ Showplace Square}	{37.77112795731,-122.40708340000728,San Francisco,CA,United States}	{Residence,}
+102	Sat Sep 04 01:18:24 +0000 2010	4c32362c213c2d7f5615355d	{The Park Gym}	{37.76585072857744,-122.4134966727583,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+102	Fri Sep 03 22:00:36 +0000 2010	43067280f964a52023271fe3	{Ferry Building}	{37.795427908882,-122.39362835884094,San Francisco,CA,United States}	{Shop & Service,Government Building,Food & Drink Shop,Professional & Other Places,}
+102	Fri Sep 03 21:04:31 +0000 2010	409d7480f964a520f2f21ee3	{Pier 39}	{37.809521186605714,-122.41015076637268,San Francisco,CA,United States}	{Travel & Transport,}
+102	Fri Sep 03 02:56:47 +0000 2010	4a2c4660f964a52046971fe3	{Apple Store, Walnut Creek}	{37.897047569732095,-122.05994367298358,Walnut Creek,CA,United States}	{Shop & Service,}
+102	Fri Sep 03 02:41:42 +0000 2010	4bb508a5ef159c74bd2b74f7	{DOLLAR TREE}	{37.949738697875006,-121.95860090393754,Concord,CA,United States}	{Shop & Service,}
+102	Fri Sep 03 02:02:07 +0000 2010	4c7aadb297028cfa48e7defe	{Pure Bliss Wellness}	{37.895662,-122.073008,Walnut Creek,CA,United States}	{Shop & Service,}
+102	Fri Sep 03 02:02:07 +0000 2010	4c7aadb297028cfa48e7defe	{Pure Bliss Wellness}	{37.895662,-122.073008,Walnut Creek,CA,United States}	{Shop & Service,}
+102	Wed Sep 01 18:44:48 +0000 2010	4c7e9f10e4b06dcb1dab44d7	{Greenspan}	{37.665948,-122.382283,South San Francisco,CA,United States}	{}
+102	Tue Aug 31 23:31:34 +0000 2010	4bf820855efe2d7fbd2d6a34	{Nails for you}	{37.793747275,-122.39658787000003,San Francisco,CA,United States}	{Shop & Service,}
+102	Mon Aug 30 21:26:33 +0000 2010	4c32362c213c2d7f5615355d	{The Park Gym}	{37.76585072857744,-122.4134966727583,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+102	Mon Aug 30 21:26:33 +0000 2010	4c32362c213c2d7f5615355d	{The Park Gym}	{37.76585072857744,-122.4134966727583,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+102	Sun Aug 29 18:58:00 +0000 2010	4c7aadb297028cfa48e7defe	{Pure Bliss Wellness}	{37.895662,-122.073008,Walnut Creek,CA,United States}	{Shop & Service,}
+102	Sun Aug 29 03:43:47 +0000 2010	41eef480f964a520021f1fe3	{Fuzio}	{37.761447,-122.43504,San Francisco,CA,United States}	{Food,}
+102	Sat Aug 28 20:16:23 +0000 2010	4c32362c213c2d7f5615355d	{The Park Gym}	{37.76585072857744,-122.4134966727583,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}

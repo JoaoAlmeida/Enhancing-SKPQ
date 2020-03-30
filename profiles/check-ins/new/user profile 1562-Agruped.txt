@@ -1,0 +1,373 @@
+1562	Fri Aug 12 03:35:43 +0000 2011	4a4fbaecf964a520a0af1fe3	{Lincoln Memorial}	{38.88918729836897,-77.05018758773804,Washington,DC,United States}	{Government Building,Arts & Entertainment,Professional & Other Places,}
+1562	Fri Aug 12 02:50:35 +0000 2011	4a499cacf964a52079ab1fe3	{Thomas Sweet Ice Cream Co.}	{38.90932,-77.064139,Washington,DC,United States}	{Food,}
+1562	Fri Aug 12 01:32:36 +0000 2011	4b103bcaf964a520dc6b23e3	{T.G.I. Friday's Washington DC}	{38.900809224308546,-77.04679077858273,Washington,DC,United States}	{Food,}
+1562	Thu Aug 11 04:16:27 +0000 2011	459ecd01f964a520bf401fe3	{Washington Dulles International Airport (IAD)}	{38.95263423449029,-77.44790554046631,Dulles,VA,United States}	{Travel & Transport,}
+1562	Wed Aug 10 23:18:16 +0000 2011	4bd1311ba8b3a5930a79655f	{Terminal 7}	{33.941740033853684,-118.39970111846924,Los Angeles,CA,United States}	{Travel & Transport,Airport,}
+1562	Wed Aug 10 22:04:41 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1562	Sun Aug 07 02:56:24 +0000 2011	4161e400f964a5206f1d1fe3	{The Hollywood Bowl}	{34.11223093293252,-118.33858966827391,Los Angeles,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+1562	Sat Aug 06 22:30:42 +0000 2011	4cd46828b6962c0f90a32d96	{Salon Republic}	{34.05334,-118.404801,Los Angeles,CA,United States}	{Shop & Service,}
+1562	Sat Aug 06 19:29:01 +0000 2011	4af3b23df964a52025ef21e3	{In-N-Out Burger}	{34.221928460547055,-118.430768496424,Panorama City,CA,United States}	{Food,}
+1562	Sat Aug 06 02:04:59 +0000 2011	4cea11d7d27560fc5b8b993a	{Salsa & Beer}	{34.201391,-118.3869,North Hollywood,CA,United States}	{Outdoors & Recreation,Food,}
+1562	Fri Aug 05 22:53:24 +0000 2011	49e27207f964a52016621fe3	{Santa Monica State Beach}	{34.011279502454606,-118.49681854248047,Santa Monica,CA,United States}	{Outdoors & Recreation,Beach,}
+1562	Fri Aug 05 21:57:10 +0000 2011	4bbcd8ef0780952166d7d991	{Santa Monica Pier Carousel}	{34.01017660242912,-118.49602453758418,Santa Monica,CA,United States}	{Outdoors & Recreation,}
+1562	Fri Aug 05 21:43:52 +0000 2011	4dfd5552aeb7594e86237030	{Pacific Park}	{34.008630458293055,-118.49762681410458,Santa Monica,CA,United States}	{Arts & Entertainment,}
+1562	Fri Aug 05 21:13:26 +0000 2011	47383924f964a520444c1fe3	{Santa Monica Pier}	{34.00842244098263,-118.49856197834015,Santa Monica,CA,United States}	{Travel & Transport,}
+1562	Fri Aug 05 03:55:11 +0000 2011	46cf28b9f964a520454a1fe3	{Hollywood & Highland Center}	{34.10232154528382,-118.33939969539642,Los Angeles,CA,United States}	{Shop & Service,Arts & Entertainment,}
+1562	Fri Aug 05 02:16:22 +0000 2011	4a0e150df964a520c7751fe3	{Bob's Big Boy}	{34.15236739668237,-118.34613740444183,Burbank,CA,United States}	{Food,}
+1562	Thu Aug 04 22:08:16 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1562	Thu Aug 04 18:12:51 +0000 2011	45f555cef964a5200e441fe3	{Seattle-Tacoma International Airport (SEA)}	{47.44364658280913,-122.30259418487549,Seatac,WA,United States}	{Travel & Transport,}
+1562	Thu Aug 04 07:21:40 +0000 2011	4112ca00f964a520ec0b1fe3	{B&O Espresso}	{47.66689745006432,-122.38264203071596,Seattle,WA,United States}	{Food,}
+1562	Wed Aug 03 21:38:41 +0000 2011	4dd2e061922edff25d521bbe	{DoubleTree By Hilton Cookie CAREavan}	{47.61090808827486,-122.33716249465942,Seattle,WA,United States}	{Food,}
+1562	Wed Aug 03 18:39:41 +0000 2011	4bc3f9752a89ef3bbbd1f588	{The Arctic Club}	{47.60381148313171,-122.33158944071758,Seattle,WA,United States}	{Nightlife Spot,Travel & Transport,}
+1562	Wed Aug 03 08:18:11 +0000 2011	4558a938f964a520493d1fe3	{Kerry Park}	{47.629471829779014,-122.35992908477783,Seattle,WA,United States}	{Outdoors & Recreation,}
+1562	Wed Aug 03 08:09:55 +0000 2011	4112ca00f964a520e70b1fe3	{Dick's Drive-In}	{47.66116737439627,-122.32778966173174,Seattle,WA,United States}	{Food,}
+1562	Wed Aug 03 06:08:26 +0000 2011	45f555cef964a5200e441fe3	{Seattle-Tacoma International Airport (SEA)}	{47.44364658280913,-122.30259418487549,Seatac,WA,United States}	{Travel & Transport,}
+1562	Wed Aug 03 04:57:01 +0000 2011	45f412e6f964a520f6431fe3	{Portland International Airport (PDX)}	{45.58916884526295,-122.59379625320435,Portland,OR,United States}	{Travel & Transport,}
+1562	Wed Aug 03 03:37:31 +0000 2011	4dd2e061922edff25d521bbe	{DoubleTree By Hilton Cookie CAREavan}	{47.61090808827486,-122.33716249465942,Seattle,WA,United States}	{Food,}
+1562	Tue Aug 02 23:19:00 +0000 2011	42829c80f964a5201b221fe3	{Voodoo Doughnut}	{45.52267600173158,-122.67316281795502,Portland,OR,United States}	{Food,}
+1562	Tue Aug 02 17:48:53 +0000 2011	45f412e6f964a520f6431fe3	{Portland International Airport (PDX)}	{45.58916884526295,-122.59379625320435,Portland,OR,United States}	{Travel & Transport,}
+1562	Tue Aug 02 14:16:25 +0000 2011	482d61baf964a520d64f1fe3	{Denver International Airport (DEN)}	{39.85029261500981,-104.67378616333006,Denver,CO,United States}	{Travel & Transport,}
+1562	Tue Aug 02 08:25:07 +0000 2011	482d61baf964a520d64f1fe3	{Denver International Airport (DEN)}	{39.85029261500981,-104.67378616333006,Denver,CO,United States}	{Travel & Transport,}
+1562	Tue Aug 02 05:01:38 +0000 2011	482d61baf964a520d64f1fe3	{Denver International Airport (DEN)}	{39.85029261500981,-104.67378616333006,Denver,CO,United States}	{Travel & Transport,}
+1562	Mon Aug 01 22:37:15 +0000 2011	459ecd01f964a520bf401fe3	{Washington Dulles International Airport (IAD)}	{38.95263423449029,-77.44790554046631,Dulles,VA,United States}	{Travel & Transport,}
+1562	Mon Aug 01 16:39:27 +0000 2011	4adf3ad1f964a520857821e3	{Hilton Worldwide Global Headquarters}	{38.928731813709746,-77.21584082131382,McLean,VA,United States}	{Professional & Other Places,}
+1562	Mon Aug 01 06:25:52 +0000 2011	459ecd01f964a520bf401fe3	{Washington Dulles International Airport (IAD)}	{38.95263423449029,-77.44790554046631,Dulles,VA,United States}	{Travel & Transport,}
+1562	Mon Aug 01 01:01:21 +0000 2011	4a55c1f7f964a52046b41fe3	{Charlotte Douglas International Airport (CLT)}	{35.220583881215475,-80.94335271521767,Charlotte,NC,United States}	{Travel & Transport,}
+1562	Sun Jul 31 19:50:47 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1562	Fri Jul 29 03:29:34 +0000 2011	4acba6d0f964a520c8c420e3	{BJ's Restaurant & Brewhouse}	{33.98541122323728,-118.39521537748247,Culver City,CA,United States}	{Nightlife Spot,Food,}
+1562	Fri Jul 29 02:33:37 +0000 2011	4a76300df964a52086e21fe3	{Dockweiler State Beach}	{33.93623922104493,-118.4395694732666,Playa del Rey,CA,United States}	{Outdoors & Recreation,Food,}
+1562	Fri Jul 29 01:52:03 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1562	Thu Jul 28 23:13:36 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+1562	Thu Jul 28 22:15:00 +0000 2011	4a970f8af964a520382820e3	{Sweet Connections}	{37.622282,-122.41104921666667,San Bruno,CA,United States}	{Food,}
+1562	Thu Jul 28 17:32:05 +0000 2011	4dd2e061922edff25d521bbe	{DoubleTree By Hilton Cookie CAREavan}	{47.61090808827486,-122.33716249465942,Seattle,WA,United States}	{Food,}
+1562	Thu Jul 28 17:09:41 +0000 2011	4b26c6aef964a520c58024e3	{DoubleTree by Hilton Hotel San Jose}	{37.37162350154705,-121.92233034383786,San Jose,CA,United States}	{Travel & Transport,}
+1562	Wed Jul 27 23:15:53 +0000 2011	4e1b6ae9d16498449dc21a93	{Rocket boat}	{37.8086078,-122.41070983,Sanfrancisco,CA,United States}	{Travel & Transport,}
+1562	Wed Jul 27 22:59:15 +0000 2011	4dd2e061922edff25d521bbe	{DoubleTree By Hilton Cookie CAREavan}	{47.61090808827486,-122.33716249465942,Seattle,WA,United States}	{Food,}
+1562	Wed Jul 27 22:02:47 +0000 2011	4ba7f1b9f964a520b8c039e3	{Boudin Bakery & Cafe}	{37.808428,-122.414738,San Francisco,CA,United States}	{Food,}
+1562	Wed Jul 27 05:12:14 +0000 2011	437e6b00f964a520b72a1fe3	{Ghiradelli Chocolate Marketplace}	{37.8056447,-122.4223745,San Francisco,CA,United States}	{Shop & Service,Food,}
+1562	Wed Jul 27 04:04:27 +0000 2011	3fd66200f964a52026ee1ee3	{Trattoria Contadina}	{37.799966,-122.41250038146973,San Francisco,CA,United States}	{Food,}
+1562	Wed Jul 27 00:08:56 +0000 2011	49d01698f964a520fd5a1fe3	{Golden Gate Bridge}	{37.81700118722001,-122.47821718454361,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1562	Tue Jul 26 23:43:38 +0000 2011	4468f484f964a5204f331fe3	{Palace of Fine Arts}	{37.802697408996096,-122.44807720184326,San Francisco,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+1562	Tue Jul 26 23:00:32 +0000 2011	49f62829f964a520136c1fe3	{Lombard Street}	{37.80201075795017,-122.41885185241698,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1562	Tue Jul 26 22:59:26 +0000 2011	409d7480f964a520f2f21ee3	{Pier 39}	{37.809521186605714,-122.41015076637268,San Francisco,CA,United States}	{Travel & Transport,}
+1562	Tue Jul 26 22:48:13 +0000 2011	49de821ff964a5205c601fe3	{Coit Tower}	{37.80237527720156,-122.40582704544067,San Francisco,CA,United States}	{Outdoors & Recreation,Government Building,Professional & Other Places,}
+1562	Tue Jul 26 19:40:06 +0000 2011	49e4bcfaf964a52028631fe3	{Aquarium of the Bay}	{37.808656593769015,-122.40930318832397,San Francisco,CA,United States}	{Arts & Entertainment,}
+1562	Tue Jul 26 05:21:36 +0000 2011	4a824219f964a5200cf91fe3	{Great Eastern Restaurant}	{37.796142971689086,-122.40596884999826,San Francisco,CA,United States}	{Food,}
+1562	Tue Jul 26 04:11:24 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+1562	Tue Jul 26 02:34:23 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1562	Tue Jul 26 01:19:45 +0000 2011	4dd2e061922edff25d521bbe	{DoubleTree By Hilton Cookie CAREavan}	{47.61090808827486,-122.33716249465942,Seattle,WA,United States}	{Food,}
+1562	Sat Jul 23 21:08:17 +0000 2011	4a048d72f964a5200b721fe3	{Frankie & Johnnie's NY Pizza}	{34.09077615593482,-118.3867084980011,West Hollywood,CA,United States}	{Food,}
+1562	Sat Jul 23 08:22:45 +0000 2011	4aaed4b0f964a520786320e3	{DoubleTree Suites by Hilton Hotel Santa Monica}	{34.01197332420961,-118.48878273811853,Santa Monica,CA,United States}	{Travel & Transport,Hotel,}
+1562	Sat Jul 23 02:40:21 +0000 2011	4be6007d910020a127d7d314	{Vivo Rooftop Lounge}	{33.46387729160962,-117.68116237042742,Dana Point,CA,United States}	{Nightlife Spot,}
+1562	Sat Jul 23 01:42:16 +0000 2011	4c830220d8086dcb12b07c52	{Cardiff State Beach}	{33.012254312916134,-117.27962397534299,Cardiff By The Sea,CA,United States}	{Outdoors & Recreation,}
+1562	Fri Jul 22 06:41:00 +0000 2011	4bccbfed0245eee1464b25b9	{Doubletree San Diego Hotel Del Mar}	{33.09037346091803,-117.24622292608268,San Diego,CA,United States}	{Travel & Transport,}
+1562	Fri Jul 22 03:36:29 +0000 2011	464ef2faf964a520c2461fe3	{Stone Brewing World Bistro & Gardens}	{33.116339535974085,-117.11991745068472,Escondido,CA,United States}	{Nightlife Spot,Outdoors & Recreation,Food,}
+1562	Fri Jul 22 01:14:21 +0000 2011	4541114bf964a520433c1fe3	{San Diego International Airport (SAN)}	{32.73299611609881,-117.19931602478027,San Diego,CA,United States}	{Travel & Transport,}
+1562	Thu Jul 21 18:28:54 +0000 2011	459ecd01f964a520bf401fe3	{Washington Dulles International Airport (IAD)}	{38.95263423449029,-77.44790554046631,Dulles,VA,United States}	{Travel & Transport,}
+1562	Thu Jul 21 17:34:03 +0000 2011	4adf3ad1f964a520857821e3	{Hilton Worldwide Global Headquarters}	{38.928731813709746,-77.21584082131382,McLean,VA,United States}	{Professional & Other Places,}
+1562	Thu Jul 21 00:59:53 +0000 2011	430a6700f964a52036271fe3	{Union Station}	{38.89756277173564,-77.0061671733856,Washington,DC,United States}	{Travel & Transport,}
+1562	Wed Jul 20 22:11:19 +0000 2011	42911d00f964a520f5231fe3	{New York Penn Station}	{40.750794799423865,-73.99357639021292,New York,NY,United States}	{Travel & Transport,}
+1562	Wed Jul 20 20:06:07 +0000 2011	4ad46f88f964a520dde720e3	{DoubleTree by Hilton Hotel New York City - Chelsea}	{40.74709103405563,-73.99132962266418,New York,NY,United States}	{Travel & Transport,}
+1562	Wed Jul 20 20:04:46 +0000 2011	3fd66200f964a5203eeb1ee3	{Ess-a-Bagel}	{40.7355189134248,-73.97953033447266,New York,NY,United States}	{Food,}
+1562	Wed Jul 20 05:28:27 +0000 2011	4419aa38f964a5202e311fe3	{DoubleTree by Hilton Metropolitan - New York City}	{40.75663221788347,-73.97164769891026,New York,NY,United States}	{Travel & Transport,Shop & Service,Gym / Fitness Center,Professional & Other Places,}
+1562	Wed Jul 20 04:24:53 +0000 2011	438d6b12f964a520322b1fe3	{W New York - Times Square}	{40.75925299429778,-73.98515224456787,New York,NY,United States}	{Travel & Transport,}
+1562	Wed Jul 20 03:45:59 +0000 2011	3fd66200f964a5203be61ee3	{Caffe Roma}	{40.720465133659594,-73.99687681845322,New York,NY,United States}	{Food,}
+1562	Wed Jul 20 03:45:09 +0000 2011	3fd66200f964a52006e61ee3	{Raoul's Restaurant}	{40.72635375426798,-74.00208177676095,New York,NY,United States}	{Food,}
+1562	Tue Jul 19 18:13:03 +0000 2011	43a52546f964a520532c1fe3	{John F. Kennedy International Airport (JFK)}	{40.645089355976346,-73.7845230102539,Jamaica,NY,United States}	{Travel & Transport,}
+1562	Tue Jul 19 12:45:14 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1562	Mon Jul 18 21:44:00 +0000 2011	4bd0e3b641b9ef3b3215fbe5	{Tacos Mexico}	{34.208572,-118.52779,Reseda,CA,United States}	{Food,}
+1562	Mon Jul 18 21:43:10 +0000 2011	4c8d1a92f87e224bccbb3a05	{Just Tires}	{34.208572370209026,-118.52767944367412,Reseda,CA,United States}	{Shop & Service,}
+1562	Mon Jul 18 15:30:57 +0000 2011	4ba67797f964a520795539e3	{Starbucks}	{34.173008,-118.55712,Tarzana,CA,United States}	{Food,}
+1562	Mon Jul 18 03:33:28 +0000 2011	4c53718672cf0f479629d7d2	{Wong's Kitchen}	{34.24651,-118.420977,Arleta,CA,United States}	{Food,}
+1562	Sun Jul 17 19:07:48 +0000 2011	4394dc84f964a520862b1fe3	{The Original Pantry}	{34.04637682393983,-118.26289504766464,Los Angeles,CA,United States}	{Food,}
+1562	Sun Jul 17 18:08:44 +0000 2011	4a6b9a88f964a52052cf1fe3	{Millennium Biltmore Hotel}	{34.04931521684163,-118.25345889171192,Los Angeles,CA,United States}	{Nightlife Spot,Travel & Transport,Hotel,}
+1562	Sun Jul 17 07:10:02 +0000 2011	40a55d80f964a52026f31ee3	{House of Pies}	{34.105062177833624,-118.2920640707016,Los Angeles,CA,United States}	{Food,}
+1562	Sun Jul 17 06:22:10 +0000 2011	4161e400f964a5206f1d1fe3	{The Hollywood Bowl}	{34.11223093293252,-118.33858966827391,Los Angeles,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+1562	Sat Jul 16 05:26:22 +0000 2011	49e7c236f964a52019651fe3	{Millennium Biltmore Club Lounge}	{34.04901751003671,-118.25342462983208,Los Angeles,CA,United States}	{Nightlife Spot,}
+1562	Sat Jul 16 04:40:52 +0000 2011	4a7d028cf964a5204bee1fe3	{Dorothy Chandler Pavilion}	{34.0569602624327,-118.2483880589122,Los Angeles,CA,United States}	{Outdoors & Recreation,Performing Arts Venue,Arts & Entertainment,}
+1562	Sat Jul 16 02:08:47 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1562	Fri Jul 15 19:24:58 +0000 2011	4a55c1f7f964a52046b41fe3	{Charlotte Douglas International Airport (CLT)}	{35.220583881215475,-80.94335271521767,Charlotte,NC,United States}	{Travel & Transport,}
+1562	Fri Jul 15 17:57:54 +0000 2011	44d17cecf964a5202b361fe3	{Ronald Reagan Washington National Airport (DCA)}	{38.853043701842566,-77.04231262207031,Arlington,VA,United States}	{Travel & Transport,}
+1562	Fri Jul 15 14:30:10 +0000 2011	4adde103f964a5201d6621e3	{DoubleTree by Hilton Hotel Washington DC-Crystal City}	{38.86400482945633,-77.05269813537598,Arlington,VA,United States}	{Nightlife Spot,Travel & Transport,}
+1562	Thu Jul 14 07:37:00 +0000 2011	4adde103f964a5201d6621e3	{DoubleTree by Hilton Hotel Washington DC-Crystal City}	{38.86400482945633,-77.05269813537598,Arlington,VA,United States}	{Nightlife Spot,Travel & Transport,}
+1562	Thu Jul 14 07:35:37 +0000 2011	4a667bf9f964a520a4c81fe3	{Oyamel Cocina Mexicana}	{38.89490326931664,-77.0217776298523,Washington,DC,United States}	{Food,}
+1562	Wed Jul 13 04:07:43 +0000 2011	4adde103f964a5201d6621e3	{DoubleTree by Hilton Hotel Washington DC-Crystal City}	{38.86400482945633,-77.05269813537598,Arlington,VA,United States}	{Nightlife Spot,Travel & Transport,}
+1562	Wed Jul 13 02:30:34 +0000 2011	44d17cecf964a5202b361fe3	{Ronald Reagan Washington National Airport (DCA)}	{38.853043701842566,-77.04231262207031,Arlington,VA,United States}	{Travel & Transport,}
+1562	Tue Jul 12 20:58:12 +0000 2011	449e9fb9f964a520c0341fe3	{Phoenix Sky Harbor International Airport (PHX)}	{33.43562440517176,-112.00306606318918,Phoenix,AZ,United States}	{Travel & Transport,}
+1562	Tue Jul 12 18:59:28 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1562	Mon Jul 11 20:00:31 +0000 2011	4cfad9450df3236aa969f6a9	{Doubletree Tarzana Resort & Spa}	{34.172867866957134,-118.53894135172692,Tarzana,CA,United States}	{Residence,}
+1562	Mon Jul 11 19:56:24 +0000 2011	4b52b88df964a520bd8627e3	{McDonald's}	{34.17278448736844,-118.54507792558636,Tarzana,CA,United States}	{Food,}
+1562	Mon Jul 11 19:08:49 +0000 2011	4ce99f81d99f721e114cb773	{Holly Bella Nails}	{34.16981,-118.53910748333334,Tarzana,CA,United States}	{Shop & Service,}
+1562	Mon Jul 11 18:39:23 +0000 2011	4b6225d0f964a5207b382ae3	{Department of Motor Vehicles}	{34.20134985832044,-118.58493983745575,Winnetka,CA,United States}	{Professional & Other Places,}
+1562	Sun Jul 10 21:14:54 +0000 2011	4c3f785fd691c9b67dc7890a	{J & S Auto Hand Wash}	{34.186319,-118.43217,Van Nuys,CA,United States}	{Shop & Service,}
+1562	Sun Jul 10 05:32:41 +0000 2011	3fd66200f964a52032f01ee3	{Micky's}	{34.08535385502726,-118.3837366104126,West Hollywood,CA,United States}	{Nightlife Spot,}
+1562	Sat Jul 09 02:45:47 +0000 2011	4c53718672cf0f479629d7d2	{Wong's Kitchen}	{34.24651,-118.420977,Arleta,CA,United States}	{Food,}
+1562	Thu Jul 07 00:07:39 +0000 2011	4cfad9450df3236aa969f6a9	{Doubletree Tarzana Resort & Spa}	{34.172867866957134,-118.53894135172692,Tarzana,CA,United States}	{Residence,}
+1562	Thu Jul 07 00:07:39 +0000 2011	4cfad9450df3236aa969f6a9	{Doubletree Tarzana Resort & Spa}	{34.172867866957134,-118.53894135172692,Tarzana,CA,United States}	{Residence,}
+1562	Mon Jul 04 23:02:15 +0000 2011	4cfad9450df3236aa969f6a9	{Doubletree Tarzana Resort & Spa}	{34.172867866957134,-118.53894135172692,Tarzana,CA,United States}	{Residence,}
+1562	Sun Jul 03 17:05:51 +0000 2011	4b10a243f964a520177423e3	{The Coffee Bean & Tea Leaf}	{34.169219736058054,-118.53632523916333,Tarzana,CA,United States}	{Food,}
+1562	Sun Jul 03 17:03:26 +0000 2011	4ba53f4df964a52043f138e3	{Bea's Bakery}	{34.16970882,-118.535022,Tarzana,CA,United States}	{Food,}
+1562	Sat Jul 02 16:27:47 +0000 2011	4a917d31f964a520641a20e3	{Cici's Cafe}	{34.17208007618878,-118.54511439800262,Tarzana,CA,United States}	{Food,}
+1562	Fri Jul 01 02:41:53 +0000 2011	4ae6282af964a52081a521e3	{Salsa And Beer}	{34.193353056907654,-118.5182902,Van Nuys,CA,United States}	{Food,}
+1562	Tue Jun 28 01:08:05 +0000 2011	4a5a77a4f964a52062ba1fe3	{Chicago O'Hare International Airport (ORD)}	{41.977270920041626,-87.90440082550049,Chicago,IL,United States}	{Travel & Transport,}
+1562	Sun Jun 26 20:58:07 +0000 2011	49ea526ff964a52051661fe3	{Kirkwood Bar & Grill}	{41.9355271554859,-87.65423785270215,Chicago,IL,United States}	{Nightlife Spot,}
+1562	Sun Jun 26 17:32:59 +0000 2011	4a478f4cf964a520d4a91fe3	{Chicago Pride Fest & Gay Pride Parade}	{41.94359563686954,-87.64944076538086,Chicago,IL,United States}	{Nightlife Spot,Outdoors & Recreation,Arts & Entertainment,}
+1562	Sat Jun 25 04:53:47 +0000 2011	4c53718672cf0f479629d7d2	{Wong's Kitchen}	{34.24651,-118.420977,Arleta,CA,United States}	{Food,}
+1562	Fri Jun 24 05:25:39 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1562	Thu Jun 23 18:27:04 +0000 2011	44d17cecf964a5202b361fe3	{Ronald Reagan Washington National Airport (DCA)}	{38.853043701842566,-77.04231262207031,Arlington,VA,United States}	{Travel & Transport,}
+1562	Wed Jun 22 00:45:18 +0000 2011	44f0e4bdf964a520fe371fe3	{Old Brogue Irish Pub}	{38.99736119170791,-77.29035085675187,Great Falls,VA,United States}	{Nightlife Spot,}
+1562	Tue Jun 21 02:40:57 +0000 2011	4d3b31bdbf6d54816ea5d4e1	{Baltimore/Washington Airport Stop}	{39.043337625643126,-76.94500178042603,Beltsville,MD,United States}	{Travel & Transport,}
+1562	Mon Jun 20 04:35:05 +0000 2011	4b058669f964a520f06022e3	{Tootsie's World Famous Orchid Lounge}	{36.160873274132314,-86.77833139110174,Nashville,TN,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+1562	Sun Jun 19 14:30:24 +0000 2011	4b363f41f964a5208f3125e3	{Loveless Cafe}	{36.03501914339347,-86.97203278541565,Nashville,TN,United States}	{Food,}
+1562	Sun Jun 19 13:52:47 +0000 2011	4ab654d3f964a5209f7620e3	{Nashville International Airport (BNA)}	{36.13118535403988,-86.66942596435547,Nashville,TN,United States}	{Travel & Transport,}
+1562	Sun Jun 19 10:30:19 +0000 2011	4a55c1f7f964a52046b41fe3	{Charlotte Douglas International Airport (CLT)}	{35.220583881215475,-80.94335271521767,Charlotte,NC,United States}	{Travel & Transport,}
+1562	Sun Jun 19 04:39:22 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1562	Sat Jun 18 05:18:56 +0000 2011	3fd66200f964a52032f01ee3	{Micky's}	{34.08535385502726,-118.3837366104126,West Hollywood,CA,United States}	{Nightlife Spot,}
+1562	Sat Jun 18 02:10:26 +0000 2011	4a6b9a88f964a52052cf1fe3	{Millennium Biltmore Hotel}	{34.04931521684163,-118.25345889171192,Los Angeles,CA,United States}	{Nightlife Spot,Travel & Transport,Hotel,}
+1562	Fri Jun 17 23:22:13 +0000 2011	4ce99f81d99f721e114cb773	{Holly Bella Nails}	{34.16981,-118.53910748333334,Tarzana,CA,United States}	{Shop & Service,}
+1562	Wed Jun 15 17:17:41 +0000 2011	4a917d31f964a520641a20e3	{Cici's Cafe}	{34.17208007618878,-118.54511439800262,Tarzana,CA,United States}	{Food,}
+1562	Tue Jun 14 07:26:19 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1562	Tue Jun 14 01:54:53 +0000 2011	4c651cc4cdb6e21ebb34343e	{Gate D10}	{25.796336476442143,-80.28907299041748,Miami,FL,United States}	{Travel & Transport,Airport,}
+1562	Mon Jun 13 22:18:05 +0000 2011	4c9f3cb246978cfabf0ba97f	{Last Call Beach Bar}	{24.5537808703898,-81.7549155765485,Key West,FL,United States}	{Nightlife Spot,}
+1562	Mon Jun 13 22:14:13 +0000 2011	4b3e40f7f964a520379a25e3	{Key West International Airport (EYW)}	{24.55354454445724,-81.75501823425293,Key West,FL,United States}	{Travel & Transport,}
+1562	Mon Jun 13 20:28:42 +0000 2011	4b02f479f964a520644b22e3	{Sloppy Joe's Bar}	{24.559068865109268,-81.80508608328937,Key West,FL,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+1562	Mon Jun 13 02:13:32 +0000 2011	4b3d5029f964a520309225e3	{Blue Heaven}	{24.551823716064757,-81.80276922222843,Key West,FL,United States}	{Food,}
+1562	Sun Jun 12 01:12:06 +0000 2011	4b452c58f964a520fb0626e3	{Conch Republic Seafood Company}	{24.561038973801743,-81.80286884307861,Key West,FL,United States}	{Food,}
+1562	Fri Jun 10 03:46:55 +0000 2011	40e0b100f964a52084041fe3	{Delano South Beach}	{25.7921247850499,-80.1291275024414,Miami Beach,FL,United States}	{Travel & Transport,Shop & Service,Hotel,}
+1562	Thu Jun 09 19:19:35 +0000 2011	4cf92cbaee0ea14339114197	{Sustain restaurant + bar}	{25.807347989902446,-80.1925778388977,Miami,FL,United States}	{Food,}
+1562	Thu Jun 09 02:23:35 +0000 2011	4bfea19aca1920a14c90eb81	{Sugarcane Raw Bar Grill}	{25.807082373331536,-80.19310891628265,Miami,FL,United States}	{Food,}
+1562	Wed Jun 08 19:48:54 +0000 2011	4baab6bff964a52004823ae3	{DoubleTree by Hilton}	{28.55935372588598,-81.37903907360977,Orlando,FL,United States}	{Travel & Transport,Professional & Other Places,}
+1562	Wed Jun 08 17:41:14 +0000 2011	4def805bd4c0e9e23b7ec0c7	{Doubletree Cookie CAREavan}	{28.538037462433422,-81.37884579618371,Orlando,FL,United States}	{Food,}
+1562	Wed Jun 08 02:06:16 +0000 2011	4b058698f964a5203a6722e3	{Amura Japanese Restaurant}	{28.448675800121546,-81.48924350738525,Orlando,FL,United States}	{Food,}
+1562	Tue Jun 07 22:09:29 +0000 2011	4c042fbe39d476b0052931a7	{Ted Baker}	{28.473412174722807,-81.45247042325236,Orlando,FL,United States}	{Shop & Service,}
+1562	Tue Jun 07 01:20:57 +0000 2011	4a0e150df964a520c7751fe3	{Bob's Big Boy}	{34.15236739668237,-118.34613740444183,Burbank,CA,United States}	{Food,}
+1562	Sun Jun 05 20:30:43 +0000 2011	40a40c00f964a5201df31ee3	{Runyon Canyon Park}	{34.110383282168506,-118.3505630493164,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1562	Sat Jun 04 20:17:13 +0000 2011	4cfad9450df3236aa969f6a9	{Doubletree Tarzana Resort & Spa}	{34.172867866957134,-118.53894135172692,Tarzana,CA,United States}	{Residence,}
+1562	Sat Jun 04 05:39:07 +0000 2011	4a54f53df964a52079b31fe3	{The Parking Spot}	{33.95408441519924,-118.3971905708313,Los Angeles,CA,United States}	{Travel & Transport,Professional & Other Places,}
+1562	Sat Jun 04 04:15:19 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1562	Fri Jun 03 22:05:09 +0000 2011	459ecd01f964a520bf401fe3	{Washington Dulles International Airport (IAD)}	{38.95263423449029,-77.44790554046631,Dulles,VA,United States}	{Travel & Transport,}
+1562	Fri Jun 03 22:02:48 +0000 2011	4adf3ad1f964a520857821e3	{Hilton Worldwide Global Headquarters}	{38.928731813709746,-77.21584082131382,McLean,VA,United States}	{Professional & Other Places,}
+1562	Thu Jun 02 15:06:14 +0000 2011	4dd2e061922edff25d521bbe	{DoubleTree By Hilton Cookie CAREavan}	{47.61090808827486,-122.33716249465942,Seattle,WA,United States}	{Food,}
+1562	Thu Jun 02 02:43:19 +0000 2011	4a499cacf964a52079ab1fe3	{Thomas Sweet Ice Cream Co.}	{38.90932,-77.064139,Washington,DC,United States}	{Food,}
+1562	Tue May 31 01:56:20 +0000 2011	42bf4180f964a520b4251fe3	{Jim's Steaks}	{39.94162508337548,-75.14923373752094,Philadelphia,PA,United States}	{Food,}
+1562	Tue May 31 00:04:29 +0000 2011	4aa14edef964a5206d4020e3	{JFK Plaza / Love Park}	{39.95416176376878,-75.16562461853027,Philadelphia,PA,United States}	{Outdoors & Recreation,}
+1562	Mon May 30 23:01:24 +0000 2011	4a58a9d7f964a520a6b71fe3	{DoubleTree by Hilton Hotel Philadelphia Center City}	{39.948137675484304,-75.16455056081847,Philadelphia,PA,United States}	{Nightlife Spot,Travel & Transport,Professional & Other Places,}
+1562	Sun May 29 23:09:38 +0000 2011	4b366548f964a5206b3425e3	{Lake Balboa Park}	{34.18016963556065,-118.49494113895724,Van Nuys,CA,United States}	{Outdoors & Recreation,}
+1562	Sun May 29 03:21:47 +0000 2011	4c53718672cf0f479629d7d2	{Wong's Kitchen}	{34.24651,-118.420977,Arleta,CA,United States}	{Food,}
+1562	Sat May 28 18:56:27 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1562	Fri May 27 23:49:19 +0000 2011	4283ee00f964a520dd221fe3	{Boston Common}	{42.35556291928673,-71.06475234031677,Boston,MA,United States}	{Outdoors & Recreation,}
+1562	Thu May 26 17:39:52 +0000 2011	4dd2e061922edff25d521bbe	{DoubleTree By Hilton Cookie CAREavan}	{47.61090808827486,-122.33716249465942,Seattle,WA,United States}	{Food,}
+1562	Wed May 25 16:45:58 +0000 2011	3fd66200f964a520d7f11ee3	{Bryant Park}	{40.75398671041169,-73.98382186889648,New York,NY,United States}	{Outdoors & Recreation,}
+1562	Wed May 25 02:39:09 +0000 2011	3fd66200f964a52006eb1ee3	{Jules Bistro}	{40.727987155603984,-73.98625413315303,New York,NY,United States}	{Nightlife Spot,Music Venue,Food,Arts & Entertainment,}
+1562	Wed May 25 00:09:55 +0000 2011	4419aa38f964a5202e311fe3	{DoubleTree by Hilton Metropolitan - New York City}	{40.75663221788347,-73.97164769891026,New York,NY,United States}	{Travel & Transport,Shop & Service,Gym / Fitness Center,Professional & Other Places,}
+1562	Tue May 24 14:19:20 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+1562	Tue May 24 03:41:33 +0000 2011	4aff8b4af964a520663922e3	{Dosa}	{37.78533895584412,-122.4329138626742,San Francisco,CA,United States}	{Food,}
+1562	Tue May 24 02:25:32 +0000 2011	45576dc5f964a520383d1fe3	{Ferry Plaza Wine Merchant}	{37.795391877507974,-122.39330381155014,San Francisco,CA,United States}	{Nightlife Spot,}
+1562	Mon May 23 01:42:27 +0000 2011	4aa56e95f964a5205c4820e3	{Alcatraz Cruises}	{37.80663069443297,-122.40468978881836,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1562	Sun May 22 22:40:23 +0000 2011	49d01698f964a520fd5a1fe3	{Golden Gate Bridge}	{37.81700118722001,-122.47821718454361,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1562	Sun May 22 22:25:32 +0000 2011	4468f484f964a5204f331fe3	{Palace of Fine Arts}	{37.802697408996096,-122.44807720184326,San Francisco,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+1562	Sun May 22 06:08:43 +0000 2011	45487bc1f964a520833c1fe3	{Buena Vista Cafe}	{37.8067038513606,-122.42074743071228,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+1562	Sun May 22 05:08:17 +0000 2011	4aab2426f964a5201d5920e3	{Crab House}	{37.80942345049076,-122.41043804125357,San Francisco,CA,United States}	{Food,}
+1562	Sun May 22 04:16:35 +0000 2011	409d7480f964a520f2f21ee3	{Pier 39}	{37.809521186605714,-122.41015076637268,San Francisco,CA,United States}	{Travel & Transport,}
+1562	Sun May 22 02:23:53 +0000 2011	452d67cef964a520493b1fe3	{Hilton San Francisco Union Square}	{37.785608295771446,-122.41075331118397,San Francisco,CA,United States}	{Travel & Transport,}
+1562	Sun May 22 01:22:11 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+1562	Thu May 19 23:35:41 +0000 2011	4a55c1f7f964a52046b41fe3	{Charlotte Douglas International Airport (CLT)}	{35.220583881215475,-80.94335271521767,Charlotte,NC,United States}	{Travel & Transport,}
+1562	Thu May 19 21:43:28 +0000 2011	459ecd01f964a520bf401fe3	{Washington Dulles International Airport (IAD)}	{38.95263423449029,-77.44790554046631,Dulles,VA,United States}	{Travel & Transport,}
+1562	Mon May 16 18:01:48 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1562	Sat May 14 02:26:56 +0000 2011	4cea11d7d27560fc5b8b993a	{Salsa & Beer}	{34.201391,-118.3869,North Hollywood,CA,United States}	{Outdoors & Recreation,Food,}
+1562	Thu May 12 02:09:14 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1562	Thu Apr 28 16:58:24 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1562	Thu Apr 28 10:25:59 +0000 2011	43a52546f964a520532c1fe3	{John F. Kennedy International Airport (JFK)}	{40.645089355976346,-73.7845230102539,Jamaica,NY,United States}	{Travel & Transport,}
+1562	Thu Apr 28 02:03:57 +0000 2011	49b7ed6df964a52030531fe3	{Times Square}	{40.756489872673846,-73.98626804351807,New York,NY,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+1562	Wed Apr 27 21:59:29 +0000 2011	4a3d4aecf964a52012a21fe3	{St. Patrick's Cathedral}	{40.758505337427664,-73.97652626037598,New York,NY,United States}	{Spiritual Center,Professional & Other Places,}
+1562	Wed Apr 27 21:56:11 +0000 2011	4b58c03df964a5201d6928e3	{30 Rockefeller Plaza}	{40.759010495925786,-73.9792982800675,New York,NY,United States}	{Professional & Other Places,}
+1562	Wed Apr 27 11:07:36 +0000 2011	4a6b8a48f964a5200dcf1fe3	{The Pond}	{40.765884017600165,-73.97373676300049,New York,NY,United States}	{Outdoors & Recreation,}
+1562	Tue Apr 26 23:42:43 +0000 2011	440754f8f964a5204d301fe3	{TAO}	{40.762857763598475,-73.97161900148414,New York,NY,United States}	{Nightlife Spot,Food,}
+1562	Tue Apr 26 17:49:57 +0000 2011	431f7f00f964a52085271fe3	{New York Stock Exchange}	{40.706933879618944,-74.01102226782494,New York,NY,United States}	{Shop & Service,}
+1562	Mon Apr 25 10:47:39 +0000 2011	4459d2f1f964a520d7321fe3	{Newark Liberty International Airport (EWR)}	{40.68968493541091,-74.17938709259033,Newark,NJ,United States}	{Travel & Transport,}
+1562	Thu Apr 21 07:27:40 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1562	Thu Apr 21 01:21:45 +0000 2011	459ecd01f964a520bf401fe3	{Washington Dulles International Airport (IAD)}	{38.95263423449029,-77.44790554046631,Dulles,VA,United States}	{Travel & Transport,}
+1562	Wed Apr 20 11:25:07 +0000 2011	4b2f9756f964a520c0ec24e3	{Starbucks}	{38.92981957024813,-77.22790002822876,McLean,VA,United States}	{Food,}
+1562	Sat Apr 16 03:50:31 +0000 2011	4a974657f964a520312920e3	{Sierra's Mexican Restaurant}	{34.19441974,-118.598004,Canoga Park,CA,United States}	{Food,}
+1562	Tue Apr 12 23:43:11 +0000 2011	4a55c1f7f964a52046b41fe3	{Charlotte Douglas International Airport (CLT)}	{35.220583881215475,-80.94335271521767,Charlotte,NC,United States}	{Travel & Transport,}
+1562	Tue Apr 12 19:47:12 +0000 2011	459ecd01f964a520bf401fe3	{Washington Dulles International Airport (IAD)}	{38.95263423449029,-77.44790554046631,Dulles,VA,United States}	{Travel & Transport,}
+1562	Mon Apr 11 23:17:02 +0000 2011	49b600c6f964a52007531fe3	{Wildfire Restaurant}	{38.92447800213145,-77.22533398503045,McLean,VA,United States}	{Food,}
+1562	Sun Apr 10 20:05:12 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1562	Sun Apr 10 19:19:04 +0000 2011	4c7d9a56f0b09c74003e3b7c	{Vista Del Mar}	{33.95188813057392,-118.44709917014771,Playa Del Rey,CA,United States}	{Outdoors & Recreation,}
+1562	Sat Apr 09 23:01:31 +0000 2011	4313a180f964a52059271fe3	{Elysian Park}	{34.08309020266484,-118.23975563049316,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1562	Sat Apr 09 21:40:28 +0000 2011	4ba2c3cef964a520571738e3	{Old Chinatown Central Plaza}	{34.06525432673912,-118.23753476142883,Los Angeles,CA,United States}	{Shop & Service,Outdoors & Recreation,}
+1562	Sat Apr 09 16:28:08 +0000 2011	42547800f964a520d1201fe3	{Shrine Auditorium & Expo Hall}	{34.02286684695752,-118.28173756599426,Los Angeles,CA,United States}	{Music Venue,Arts & Entertainment,Professional & Other Places,}
+1562	Sat Apr 09 00:19:16 +0000 2011	4c15776d7f7f2d7f1997e268	{Menchie's Frozen Yogurt}	{34.1608749079187,-118.50875705480576,Encino,CA,United States}	{Food,}
+1562	Fri Apr 08 23:02:31 +0000 2011	4b55ab62f964a52028eb27e3	{Northridge Hospital Medical Center}	{34.22002644284352,-118.53391885757446,Northridge,CA,United States}	{Medical Center,Professional & Other Places,}
+1562	Mon Apr 04 18:43:56 +0000 2011	4adf3ad1f964a520857821e3	{Hilton Worldwide Global Headquarters}	{38.928731813709746,-77.21584082131382,McLean,VA,United States}	{Professional & Other Places,}
+1562	Sun Apr 03 23:17:44 +0000 2011	4cb783f5bac937046d2bd57c	{P.J. Clarke's}	{38.90240356818522,-77.03663119952766,Washington,DC,United States}	{Nightlife Spot,Food,}
+1562	Sun Apr 03 21:28:21 +0000 2011	4d838f8540a7a35d6aa2f8bd	{National Cherry Blossom Festival}	{38.885420936107955,-77.03608989715576,Washington D.C.,DC,United States}	{Outdoors & Recreation,}
+1562	Sun Apr 03 16:08:48 +0000 2011	44d17cecf964a5202b361fe3	{Ronald Reagan Washington National Airport (DCA)}	{38.853043701842566,-77.04231262207031,Arlington,VA,United States}	{Travel & Transport,}
+1562	Sun Apr 03 07:05:48 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1562	Sun Apr 03 03:03:22 +0000 2011	4c53718672cf0f479629d7d2	{Wong's Kitchen}	{34.24651,-118.420977,Arleta,CA,United States}	{Food,}
+1562	Sat Apr 02 20:13:03 +0000 2011	4b981f2ff964a520f42d35e3	{La Belle Nails}	{34.07285,-118.370561,Los Angeles,CA,United States}	{Shop & Service,}
+1562	Sat Apr 02 19:00:36 +0000 2011	4c64a626c74c1b8d6f37b283	{Kitson Men}	{34.07601673213391,-118.3837366104126,West Hollywood,CA,United States}	{Shop & Service,Clothing Store,}
+1562	Sat Apr 02 17:49:48 +0000 2011	4b2d1fa0f964a520e3ce24e3	{Lukaro Salon}	{34.06882640713231,-118.40114902923281,Beverly Hills,CA,United States}	{Shop & Service,}
+1562	Sat Apr 02 04:58:43 +0000 2011	4a4e8172f964a5208cae1fe3	{Menchie's Frozen Yogurt}	{34.15909345348245,-118.39654476195801,Valley Village,CA,United States}	{Food,}
+1562	Thu Mar 31 03:12:06 +0000 2011	4ada5da7f964a520eb2121e3	{El Torito Grill}	{34.154413894316995,-118.46678853034973,Sherman Oaks,CA,United States}	{Food,}
+1562	Wed Mar 30 06:01:07 +0000 2011	4b368165f964a520f73625e3	{In-N-Out Burger}	{34.17204284,-118.566682,Woodland Hills,CA,United States}	{Food,}
+1562	Tue Mar 22 22:22:55 +0000 2011	4a86f591f964a520c90120e3	{DoubleTree by Hilton Hotel Anaheim - Orange County}	{33.78827853625996,-117.89149761199951,Orange,CA,United States}	{Travel & Transport,Arts & Entertainment,}
+1562	Tue Mar 22 07:29:39 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1562	Tue Mar 22 05:46:39 +0000 2011	44ea5aabf964a520bf371fe3	{The Otheroom}	{33.991616221814034,-118.46938227693414,Venice,CA,United States}	{Nightlife Spot,}
+1562	Tue Mar 22 03:38:16 +0000 2011	4a7d1382f964a52074ee1fe3	{Primitivo Wine Bistro}	{33.992160929479155,-118.4717184305191,Venice,CA,United States}	{Nightlife Spot,Food,}
+1562	Tue Mar 22 01:28:06 +0000 2011	4399dc5ff964a520c62b1fe3	{Literati Cafe}	{34.04437247795608,-118.46738051274437,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+1562	Sun Mar 20 18:35:14 +0000 2011	4b5bf7ddf964a520691f29e3	{The Farm of Beverly Hills}	{34.04449439866701,-118.2647430896759,Los Angeles,CA,United States}	{Food,}
+1562	Fri Mar 18 04:07:42 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1562	Tue Mar 15 14:28:07 +0000 2011	4adde330f964a520266621e3	{Hilton McLean Tysons Corner}	{38.926397572115555,-77.21624851226807,McLean,VA,United States}	{Travel & Transport,Food,}
+1562	Tue Mar 15 01:40:56 +0000 2011	459ecd01f964a520bf401fe3	{Washington Dulles International Airport (IAD)}	{38.95263423449029,-77.44790554046631,Dulles,VA,United States}	{Travel & Transport,}
+1562	Mon Mar 14 23:20:54 +0000 2011	4a55c1f7f964a52046b41fe3	{Charlotte Douglas International Airport (CLT)}	{35.220583881215475,-80.94335271521767,Charlotte,NC,United States}	{Travel & Transport,}
+1562	Mon Mar 14 18:25:12 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1562	Mon Mar 14 17:55:24 +0000 2011	4a54f53df964a52079b31fe3	{The Parking Spot}	{33.95408441519924,-118.3971905708313,Los Angeles,CA,United States}	{Travel & Transport,Professional & Other Places,}
+1562	Mon Mar 14 00:15:22 +0000 2011	4b366548f964a5206b3425e3	{Lake Balboa Park}	{34.18016963556065,-118.49494113895724,Van Nuys,CA,United States}	{Outdoors & Recreation,}
+1562	Sun Mar 13 22:37:53 +0000 2011	4bb0f747f964a520776e3ce3	{El Michoacano}	{34.20622501055715,-118.38427180351339,North Hollywood,CA,United States}	{Food,}
+1562	Fri Mar 11 04:43:13 +0000 2011	4a344606f964a520069c1fe3	{Bob Hope Airport (BUR)}	{34.19639831676446,-118.35313796997072,Burbank,CA,United States}	{Travel & Transport,}
+1562	Mon Mar 07 06:07:22 +0000 2011	459ecd01f964a520bf401fe3	{Washington Dulles International Airport (IAD)}	{38.95263423449029,-77.44790554046631,Dulles,VA,United States}	{Travel & Transport,}
+1562	Sun Mar 06 06:13:56 +0000 2011	4a4e8172f964a5208cae1fe3	{Menchie's Frozen Yogurt}	{34.15909345348245,-118.39654476195801,Valley Village,CA,United States}	{Food,}
+1562	Sat Mar 05 20:08:33 +0000 2011	4ba67797f964a520795539e3	{Starbucks}	{34.173008,-118.55712,Tarzana,CA,United States}	{Food,}
+1562	Sat Mar 05 05:52:29 +0000 2011	4bb0f747f964a520776e3ce3	{El Michoacano}	{34.20622501055715,-118.38427180351339,North Hollywood,CA,United States}	{Food,}
+1562	Wed Mar 02 19:26:04 +0000 2011	459ecd01f964a520bf401fe3	{Washington Dulles International Airport (IAD)}	{38.95263423449029,-77.44790554046631,Dulles,VA,United States}	{Travel & Transport,}
+1562	Mon Feb 28 16:38:27 +0000 2011	4adde103f964a5201d6621e3	{DoubleTree by Hilton Hotel Washington DC-Crystal City}	{38.86400482945633,-77.05269813537598,Arlington,VA,United States}	{Nightlife Spot,Travel & Transport,}
+1562	Mon Feb 28 04:13:19 +0000 2011	4a4fbaecf964a520a0af1fe3	{Lincoln Memorial}	{38.88918729836897,-77.05018758773804,Washington,DC,United States}	{Government Building,Arts & Entertainment,Professional & Other Places,}
+1562	Sun Feb 27 20:51:04 +0000 2011	3fd66200f964a520d6f01ee3	{The White House}	{38.89757947159315,-77.03671216964722,Washington,DC,United States}	{Government Building,Arts & Entertainment,Professional & Other Places,}
+1562	Sun Feb 27 20:30:34 +0000 2011	4a106336f964a520b4761fe3	{National Museum of American History}	{38.89121236625754,-77.02994763851166,Washington,DC,United States}	{Museum,Arts & Entertainment,}
+1562	Sun Feb 27 11:35:23 +0000 2011	459ecd01f964a520bf401fe3	{Washington Dulles International Airport (IAD)}	{38.95263423449029,-77.44790554046631,Dulles,VA,United States}	{Travel & Transport,}
+1562	Sun Feb 27 03:43:59 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+1562	Sat Feb 26 05:01:28 +0000 2011	4c53718672cf0f479629d7d2	{Wong's Kitchen}	{34.24651,-118.420977,Arleta,CA,United States}	{Food,}
+1562	Sun Feb 20 20:18:49 +0000 2011	4a1073e1f964a520c9761fe3	{Hamburger Mary's}	{34.09058956880147,-118.37015390396118,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+1562	Thu Feb 17 17:30:38 +0000 2011	44d17cecf964a5202b361fe3	{Ronald Reagan Washington National Airport (DCA)}	{38.853043701842566,-77.04231262207031,Arlington,VA,United States}	{Travel & Transport,}
+1562	Tue Feb 15 18:31:23 +0000 2011	4a54f53df964a52079b31fe3	{The Parking Spot}	{33.95408441519924,-118.3971905708313,Los Angeles,CA,United States}	{Travel & Transport,Professional & Other Places,}
+1562	Tue Feb 15 18:31:02 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1562	Fri Feb 11 00:03:21 +0000 2011	4b15d3a5f964a520c3b423e3	{Starbucks}	{34.2009006377144,-118.40593859553337,North Hollywood,CA,United States}	{Food,}
+1562	Mon Feb 07 14:21:27 +0000 2011	4d7e8b012ff9b60c9b2cae47	{DoubleTree by Hilton Hotel Orlando at SeaWorld}	{28.417409334474964,-81.46259307861328,Orlando,FL,United States}	{Travel & Transport,Hotel,}
+1562	Mon Feb 07 12:11:07 +0000 2011	4a78c47ff964a5205de61fe3	{Orlando International Airport (MCO)}	{28.430902032399718,-81.3084089756012,Orlando,FL,United States}	{Travel & Transport,}
+1562	Mon Feb 07 10:51:30 +0000 2011	4ac26249f964a520e59820e3	{La Carreta}	{25.797572907888433,-80.28151988983154,Miami,FL,United States}	{Food,}
+1562	Sun Feb 06 05:05:48 +0000 2011	4a4e8172f964a5208cae1fe3	{Menchie's Frozen Yogurt}	{34.15909345348245,-118.39654476195801,Valley Village,CA,United States}	{Food,}
+1562	Fri Feb 04 22:06:24 +0000 2011	4c89810e2e333704c0b8bb41	{Maral's Pastry}	{34.193334,-118.517866,Van Nuys,CA,United States}	{Food,}
+1562	Thu Feb 03 22:19:46 +0000 2011	433f2300f964a52052281fe3	{Jack n' Jill's}	{34.06938031260027,-118.40120608255633,Beverly Hills,CA,United States}	{Food,}
+1562	Mon Jan 31 23:53:01 +0000 2011	4b55ab62f964a52028eb27e3	{Northridge Hospital Medical Center}	{34.22002644284352,-118.53391885757446,Northridge,CA,United States}	{Medical Center,Professional & Other Places,}
+1562	Sat Jan 29 21:00:42 +0000 2011	40a40c00f964a5201df31ee3	{Runyon Canyon Park}	{34.110383282168506,-118.3505630493164,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1562	Fri Jan 28 13:36:18 +0000 2011	4b55ab62f964a52028eb27e3	{Northridge Hospital Medical Center}	{34.22002644284352,-118.53391885757446,Northridge,CA,United States}	{Medical Center,Professional & Other Places,}
+1562	Fri Jan 28 13:30:38 +0000 2011	4a80aa20f964a520daf51fe3	{Starbucks}	{34.194918565788456,-118.53568911552429,Reseda,CA,United States}	{Food,}
+1562	Tue Jan 18 04:24:49 +0000 2011	4b20d180f964a520c63424e3	{Que Ricos}	{34.1865117,-118.4152740240097,North Hollywood,CA,United States}	{Food,}
+1562	Tue Jan 18 04:24:40 +0000 2011	4b20d180f964a520c63424e3	{Que Ricos}	{34.1865117,-118.4152740240097,North Hollywood,CA,United States}	{Food,}
+1562	Mon Jan 17 04:47:24 +0000 2011	4ae54309f964a52096a021e3	{Starbucks}	{34.241678999385776,-118.53589028120041,Northridge,CA,United States}	{Food,}
+1562	Sat Jan 15 20:50:17 +0000 2011	4b55ab62f964a52028eb27e3	{Northridge Hospital Medical Center}	{34.22002644284352,-118.53391885757446,Northridge,CA,United States}	{Medical Center,Professional & Other Places,}
+1562	Sat Jan 15 09:11:12 +0000 2011	3fd66200f964a52092ee1ee3	{In-N-Out Burger}	{33.953693952548974,-118.39676812291145,Los Angeles,CA,United States}	{Food,}
+1562	Sat Jan 15 09:10:02 +0000 2011	3fd66200f964a52092ee1ee3	{In-N-Out Burger}	{33.953693952548974,-118.39676812291145,Los Angeles,CA,United States}	{Food,}
+1562	Sat Jan 15 09:08:31 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1562	Sat Jan 15 02:08:35 +0000 2011	459ecd01f964a520bf401fe3	{Washington Dulles International Airport (IAD)}	{38.95263423449029,-77.44790554046631,Dulles,VA,United States}	{Travel & Transport,}
+1562	Sat Jan 15 00:45:02 +0000 2011	4b146183f964a5203ba223e3	{Ice House Cafe}	{38.969656340331326,-77.38674053385259,Herndon,VA,United States}	{Nightlife Spot,}
+1562	Wed Jan 12 13:37:24 +0000 2011	4adf3ad1f964a520857821e3	{Hilton Worldwide Global Headquarters}	{38.928731813709746,-77.21584082131382,McLean,VA,United States}	{Professional & Other Places,}
+1562	Tue Jan 11 15:24:29 +0000 2011	4adf3ad1f964a520857821e3	{Hilton Worldwide Global Headquarters}	{38.928731813709746,-77.21584082131382,McLean,VA,United States}	{Professional & Other Places,}
+1562	Tue Jan 11 01:56:35 +0000 2011	4c91e14d7f3b8cfa794ba01e	{Caf? Versailles}	{25.797561830472375,-80.27489023766336,Miami,FL,United States}	{Food,}
+1562	Tue Jan 11 01:47:48 +0000 2011	4b89fb5df964a5200d5a32e3	{Miami International Airport (MIA)}	{25.794984114780963,-80.27576923370361,Miami,FL,United States}	{Travel & Transport,}
+1562	Tue Jan 11 00:37:25 +0000 2011	4bfea19aca1920a14c90eb81	{Sugarcane Raw Bar Grill}	{25.807082373331536,-80.19310891628265,Miami,FL,United States}	{Food,}
+1562	Mon Jan 10 23:48:17 +0000 2011	4043ce80f964a5203ef21ee3	{Surfcomber Miami South Beach}	{25.792974863254372,-80.12863397598267,Miami Beach,FL,United States}	{Travel & Transport,}
+1562	Mon Jan 10 22:46:33 +0000 2011	4b89fb5df964a5200d5a32e3	{Miami International Airport (MIA)}	{25.794984114780963,-80.27576923370361,Miami,FL,United States}	{Travel & Transport,}
+1562	Mon Jan 10 18:51:06 +0000 2011	4acbafc4f964a520fbc420e3	{Toronto Pearson International Airport (YYZ)}	{43.680659965522246,-79.61208343505858,Mississauga,ON,Canada}	{Travel & Transport,}
+1562	Sat Jan 08 22:32:55 +0000 2011	4b3507bbf964a520d12925e3	{Tim Hortons}	{43.61614390548033,-79.70220325630913,Mississauga,ON,Canada}	{Food,}
+1562	Sat Jan 08 21:00:00 +0000 2011	4ad4c060f964a5205cf720e3	{Lai Wah Heen}	{43.654881,-79.385898,Toronto,Canada,Canada}	{Food,}
+1562	Thu Jan 06 18:14:28 +0000 2011	4ba91586f964a520fd093ae3	{Starbucks}	{43.39934153456965,-80.3248643875122,Cambridge,ON,Canada}	{Food,}
+1562	Wed Jan 05 19:13:44 +0000 2011	4cc4b9a13d7fa1cd2eaead5f	{Napa Grille}	{43.36325353741858,-80.31844088710375,Cambridge,Ontario,Canada}	{Food,}
+1562	Wed Jan 05 14:17:03 +0000 2011	4b9d105df964a5206e8c36e3	{Tim Hortons / Cold Stone Creamery}	{43.42428605930799,-80.28570517057881,Cambridge,ON,Canada}	{Food,}
+1562	Tue Jan 04 14:29:20 +0000 2011	4acbafc4f964a520fbc420e3	{Toronto Pearson International Airport (YYZ)}	{43.680659965522246,-79.61208343505858,Mississauga,ON,Canada}	{Travel & Transport,}
+1562	Tue Jan 04 11:12:40 +0000 2011	43a52546f964a520532c1fe3	{John F. Kennedy International Airport (JFK)}	{40.645089355976346,-73.7845230102539,Jamaica,NY,United States}	{Travel & Transport,}
+1562	Mon Jan 03 21:18:54 +0000 2011	4acbabfef964a520ebc420e3	{Starbucks}	{34.155106,-118.3457,Burbank,CA,United States}	{Food,}
+1562	Sat Jan 01 23:33:20 +0000 2011	4a0e150df964a520c7751fe3	{Bob's Big Boy}	{34.15236739668237,-118.34613740444183,Burbank,CA,United States}	{Food,}
+1562	Sat Jan 01 22:03:22 +0000 2011	40a40c00f964a5201df31ee3	{Runyon Canyon Park}	{34.110383282168506,-118.3505630493164,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1562	Sat Jan 01 21:32:42 +0000 2011	4b15d3a5f964a520c3b423e3	{Starbucks}	{34.2009006377144,-118.40593859553337,North Hollywood,CA,United States}	{Food,}
+1562	Sat Jan 01 02:20:37 +0000 2011	4c53718672cf0f479629d7d2	{Wong's Kitchen}	{34.24651,-118.420977,Arleta,CA,United States}	{Food,}
+1562	Sat Jan 01 00:02:27 +0000 2011	4a60ba4bf964a52016c11fe3	{Goodwill North Hollywood}	{34.177357816666664,-118.382579,North Hollywood,CA,United States}	{Shop & Service,}
+1562	Sat Jan 01 00:01:42 +0000 2011	4a80aa61f964a520dbf51fe3	{Out of the closet - Tarzana}	{34.17234678333333,-118.5442848,Tarzana,CA,United States}	{}
+1562	Sat Jan 01 00:00:34 +0000 2011	4ae72993f964a52003a921e3	{Starbucks}	{34.15797514004957,-118.37869133310902,North Hollywood,CA,United States}	{Food,}
+1562	Tue Dec 28 03:25:59 +0000 2010	4becbbb02cf820a11934b91c	{Cafe La Boheme}	{34.09035855559037,-118.37360858917236,West Hollywood,CA,United States}	{Food,}
+1562	Mon Dec 27 22:11:15 +0000 2010	4b15d3a5f964a520c3b423e3	{Starbucks}	{34.2009006377144,-118.40593859553337,North Hollywood,CA,United States}	{Food,}
+1562	Mon Dec 27 21:10:37 +0000 2010	4cea11d7d27560fc5b8b993a	{Salsa & Beer}	{34.201391,-118.3869,North Hollywood,CA,United States}	{Outdoors & Recreation,Food,}
+1562	Mon Dec 27 05:01:12 +0000 2010	4b0b3c3cf964a520312f23e3	{Octopus Japanese Restaurant}	{34.15872868994187,-118.49811673164368,Encino,CA,United States}	{Food,}
+1562	Sun Dec 26 20:28:22 +0000 2010	4a917d31f964a520641a20e3	{Cici's Cafe}	{34.17208007618878,-118.54511439800262,Tarzana,CA,United States}	{Food,}
+1562	Sat Dec 25 19:48:21 +0000 2010	4ae72993f964a52003a921e3	{Starbucks}	{34.15797514004957,-118.37869133310902,North Hollywood,CA,United States}	{Food,}
+1562	Sat Dec 25 05:41:14 +0000 2010	4cf30092e3b9a0935ab14753	{Candy Cane Lane}	{34.179737,-118.567047,Woodland Hills,CA,United States}	{Outdoors & Recreation,}
+1562	Sat Dec 25 00:43:19 +0000 2010	4ba7f0e1f964a52080c039e3	{Ralphs}	{34.16275779954127,-118.52128851637258,Encino,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1562	Fri Dec 24 23:27:51 +0000 2010	4c0eae7d7189c92875e4d8b6	{Wienerschnitzel}	{34.20112100792238,-118.58940377721756,Canoga Park,CA,United States}	{Food,}
+1562	Fri Dec 24 23:13:36 +0000 2010	4b0cb894f964a520514123e3	{BevMo!}	{34.18903258259279,-118.59556674957275,Canoga Park,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1562	Fri Dec 24 23:12:52 +0000 2010	4d5867ffde8f6dcbabdc0b91	{Pier 1 Imports}	{34.18962,-118.59743,Canoga Park,CA,United States}	{Shop & Service,}
+1562	Fri Dec 24 21:58:08 +0000 2010	4be881f29a54a593ce0e0a11	{99? Only Stores}	{34.17169878730896,-118.56502804092432,Woodland Hills,CA,United States}	{Shop & Service,}
+1562	Fri Dec 24 19:37:34 +0000 2010	4ae72993f964a52003a921e3	{Starbucks}	{34.15797514004957,-118.37869133310902,North Hollywood,CA,United States}	{Food,}
+1562	Fri Dec 24 19:07:14 +0000 2010	4b0db001f964a520e74d23e3	{Honey Baked Ham}	{34.15205220500427,-118.35098147392273,North Hollywood,CA,United States}	{Food,}
+1562	Fri Dec 24 18:43:32 +0000 2010	4ba53f4df964a52043f138e3	{Bea's Bakery}	{34.16970882,-118.535022,Tarzana,CA,United States}	{Food,}
+1562	Fri Dec 24 02:46:02 +0000 2010	4b2fd226f964a52095f024e3	{Williams-Sonoma}	{34.069329,-118.401346,Beverly Hills,CA,United States}	{Shop & Service,}
+1562	Fri Dec 24 01:19:36 +0000 2010	4b2d1fa0f964a520e3ce24e3	{Lukaro Salon}	{34.06882640713231,-118.40114902923281,Beverly Hills,CA,United States}	{Shop & Service,}
+1562	Thu Dec 23 04:45:54 +0000 2010	4bb0f747f964a520776e3ce3	{El Michoacano}	{34.20622501055715,-118.38427180351339,North Hollywood,CA,United States}	{Food,}
+1562	Thu Dec 23 04:13:53 +0000 2010	4a344606f964a520069c1fe3	{Bob Hope Airport (BUR)}	{34.19639831676446,-118.35313796997072,Burbank,CA,United States}	{Travel & Transport,}
+1562	Thu Dec 23 02:00:15 +0000 2010	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+1562	Wed Dec 22 23:08:35 +0000 2010	45f555cef964a5200e441fe3	{Seattle-Tacoma International Airport (SEA)}	{47.44364658280913,-122.30259418487549,Seatac,WA,United States}	{Travel & Transport,}
+1562	Wed Dec 22 22:21:23 +0000 2010	427ea800f964a520b1211fe3	{Pike Place Market}	{47.60889728360187,-122.34109997749329,Seattle,WA,United States}	{Shop & Service,Food & Drink Shop,}
+1562	Wed Dec 22 21:59:48 +0000 2010	4558a938f964a520493d1fe3	{Kerry Park}	{47.629471829779014,-122.35992908477783,Seattle,WA,United States}	{Outdoors & Recreation,}
+1562	Wed Dec 22 20:39:18 +0000 2010	4b0d6db2f964a520124823e3	{Great Harvest Bread}	{47.668239,-122.276848,Seattle,WA,United States}	{Food,}
+1562	Wed Dec 22 06:26:29 +0000 2010	44d8737bf964a52072361fe3	{Espresso Vivace}	{47.620201055815954,-122.33048835320285,Seattle,WA,United States}	{Food,}
+1562	Wed Dec 22 04:41:41 +0000 2010	4aa801bff964a520aa4e20e3	{Santorini Greek Grill}	{47.67654945724736,-122.20793098211288,Kirkland,WA,United States}	{Food,}
+1562	Wed Dec 22 03:00:59 +0000 2010	45f555cef964a5200e441fe3	{Seattle-Tacoma International Airport (SEA)}	{47.44364658280913,-122.30259418487549,Seatac,WA,United States}	{Travel & Transport,}
+1562	Tue Dec 21 00:32:07 +0000 2010	4bc430a6dce4eee1a500729d	{DoubleTree by Hilton Hotel Spokane City Center}	{47.660820682668934,-117.41417169570923,Spokane,WA,United States}	{Travel & Transport,Hotel,}
+1562	Mon Dec 20 20:54:11 +0000 2010	4b8a3133f964a520886332e3	{Dick's Hamburgers}	{47.65328625,-117.41078996,Spokane,WA,United States}	{Food,}
+1562	Mon Dec 20 18:10:24 +0000 2010	4b477ee3f964a520ff3326e3	{Dilettante Mocha Caf? - SeaTac Airport}	{47.44376267985063,-122.30345785617828,SeaTac,WA,United States}	{Food,}
+1562	Mon Dec 20 17:20:51 +0000 2010	45f555cef964a5200e441fe3	{Seattle-Tacoma International Airport (SEA)}	{47.44364658280913,-122.30259418487549,Seatac,WA,United States}	{Travel & Transport,}
+1562	Mon Dec 20 14:15:02 +0000 2010	4a344606f964a520069c1fe3	{Bob Hope Airport (BUR)}	{34.19639831676446,-118.35313796997072,Burbank,CA,United States}	{Travel & Transport,}
+1562	Mon Dec 20 02:55:41 +0000 2010	4c0e8c455ab6c9b6a7f2effe	{Starbucks}	{34.16710775137203,-118.58548293188774,Woodland Hills,CA,United States}	{Food,}
+1562	Mon Dec 20 00:40:35 +0000 2010	4ce99f81d99f721e114cb773	{Holly Bella Nails}	{34.16981,-118.53910748333334,Tarzana,CA,United States}	{Shop & Service,}
+1562	Mon Dec 20 00:40:35 +0000 2010	4ce99f81d99f721e114cb773	{Holly Bella Nails}	{34.16981,-118.53910748333334,Tarzana,CA,United States}	{Shop & Service,}
+1562	Fri Dec 17 20:27:17 +0000 2010	4bd85431f645c9b67e9ea7e0	{Hilton Los Angeles Regional Office}	{34.07459020614624,-118.39852631092072,Beverly Hills,CA,United States}	{Professional & Other Places,}
+1562	Wed Dec 15 22:02:44 +0000 2010	4b368165f964a520f73625e3	{In-N-Out Burger}	{34.17204284,-118.566682,Woodland Hills,CA,United States}	{Food,}
+1562	Wed Dec 15 15:44:26 +0000 2010	4b53b202f964a52029a827e3	{Starbucks}	{34.169072,-118.53458749,Tarzana,CA,United States}	{Food,}
+1562	Mon Dec 13 16:21:35 +0000 2010	4b10a243f964a520177423e3	{The Coffee Bean & Tea Leaf}	{34.169219736058054,-118.53632523916333,Tarzana,CA,United States}	{Food,}
+1562	Sun Dec 12 22:25:50 +0000 2010	4b533133f964a520be9127e3	{Starbucks}	{34.24235305761518,-118.55958223342896,Northridge,CA,United States}	{Food,}
+1562	Sun Dec 12 22:20:52 +0000 2010	4bf327f794af2d7fd9323972	{Lowe's Home Improvement}	{34.236565737187476,-118.56117010116577,Northridge,CA,United States}	{Shop & Service,}
+1562	Sun Dec 12 02:42:02 +0000 2010	4cfad9450df3236aa969f6a9	{Doubletree Tarzana Resort & Spa}	{34.172867866957134,-118.53894135172692,Tarzana,CA,United States}	{Residence,}
+1562	Sun Dec 12 02:42:02 +0000 2010	4cfad9450df3236aa969f6a9	{Doubletree Tarzana Resort & Spa}	{34.172867866957134,-118.53894135172692,Tarzana,CA,United States}	{Residence,}
+1562	Sun Dec 12 01:28:14 +0000 2010	4b15d3a5f964a520c3b423e3	{Starbucks}	{34.2009006377144,-118.40593859553337,North Hollywood,CA,United States}	{Food,}
+1562	Fri Dec 10 20:56:59 +0000 2010	3fd66200f964a52092ee1ee3	{In-N-Out Burger}	{33.953693952548974,-118.39676812291145,Los Angeles,CA,United States}	{Food,}
+1562	Wed Dec 08 17:52:07 +0000 2010	4adf3ad1f964a520857821e3	{Hilton Worldwide Global Headquarters}	{38.928731813709746,-77.21584082131382,McLean,VA,United States}	{Professional & Other Places,}
+1562	Tue Dec 07 16:15:47 +0000 2010	4adf3ad1f964a520857821e3	{Hilton Worldwide Global Headquarters}	{38.928731813709746,-77.21584082131382,McLean,VA,United States}	{Professional & Other Places,}
+1562	Sun Dec 05 23:13:13 +0000 2010	4b75f1f8f964a52014312ee3	{The Tavern at Great Falls}	{38.997446792988924,-77.2872874253475,Great Falls,VA,United States}	{Nightlife Spot,Food,}
+1562	Sun Dec 05 20:54:11 +0000 2010	40be6a00f964a520cc001fe3	{Wolf Trap National Park For The Performing Arts (Filene Center)}	{38.93677990579386,-77.26534366607666,Vienna,VA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+1562	Sun Dec 05 05:38:42 +0000 2010	4a54f53df964a52079b31fe3	{The Parking Spot}	{33.95408441519924,-118.3971905708313,Los Angeles,CA,United States}	{Travel & Transport,Professional & Other Places,}
+1562	Sun Dec 05 00:13:58 +0000 2010	4cfad9450df3236aa969f6a9	{Doubletree Tarzana Resort & Spa}	{34.172867866957134,-118.53894135172692,Tarzana,CA,United States}	{Residence,}
+1562	Sat Dec 04 13:16:23 +0000 2010	4a54f53df964a52079b31fe3	{The Parking Spot}	{33.95408441519924,-118.3971905708313,Los Angeles,CA,United States}	{Travel & Transport,Professional & Other Places,}
+1562	Sat Dec 04 06:26:15 +0000 2010	4aa18a65f964a520ea4020e3	{Honolulu International Airport (HNL)}	{21.331234509259605,-157.91996955871582,Honolulu,HI,United States}	{Travel & Transport,}
+1562	Sat Dec 04 05:30:19 +0000 2010	4af3d39bf964a52066ef21e3	{Like Like Drive Inn}	{21.295872358269932,-157.84118144705502,Honolulu,HI,United States}	{Food,Professional & Other Places,}
+1562	Thu Dec 02 22:21:21 +0000 2010	4af8df0ef964a520611022e3	{Spicy Ahi & BBQ}	{21.389066576957703,-157.954237,Pearl City,HI,United States}	{Food,}
+1562	Wed Dec 01 21:10:44 +0000 2010	4b058651f964a520d05b22e3	{Hanauma Bay Nature Preserve}	{21.273298807845077,-157.6956081390381,Honolulu,HI,United States}	{Outdoors & Recreation,Beach,}
+1562	Wed Dec 01 20:02:22 +0000 2010	4b610f48f964a52040082ae3	{Starbucks}	{21.281946631304656,-157.83671379089355,Honolulu,HI,United States}	{Food,}
+1562	Wed Dec 01 08:39:03 +0000 2010	4b058650f964a5208b5b22e3	{Harbor Pub}	{21.284987754695496,-157.83979007540833,Honolulu,HI,United States}	{Nightlife Spot,Food,}
+1562	Wed Dec 01 06:26:26 +0000 2010	4c303a92452620a108ea1e0f	{Izakaya Tairyo ?????}	{21.294335679637225,-157.8464616817467,Honolulu,HI,United States}	{Food,}
+1562	Wed Dec 01 00:41:01 +0000 2010	4b3006c6f964a520aaf424e3	{Keneke's}	{21.33333458094574,-157.6977357582157,Waim?nalo,HI,United States}	{Food,}
+1562	Tue Nov 30 22:58:40 +0000 2010	4b76dc60f964a520fb642ee3	{Waimanalo Bay State Recreation Area}	{21.343952768152732,-157.70229178042604,Waimanalo,HI,United States}	{Outdoors & Recreation,Beach,}
+1562	Tue Nov 30 22:28:32 +0000 2010	4b3675cff964a520f53525e3	{Sandy Beach Park}	{21.286295344637022,-157.67127513885498,Honolulu,HI,United States}	{Outdoors & Recreation,Beach,}
+1562	Tue Nov 30 07:15:11 +0000 2010	4b05864ff964a5203b5b22e3	{Mai Tai Bar}	{21.276757998224884,-157.82883882522583,Honolulu,HI,United States}	{Nightlife Spot,}
+1562	Tue Nov 30 06:58:25 +0000 2010	4aeeabb7f964a52029d421e3	{International Market Place}	{21.277937703514954,-157.8268164396286,Honolulu,HI,United States}	{Shop & Service,}
+1562	Tue Nov 30 03:11:59 +0000 2010	4bd94c75e914a593222456fa	{Lanikai Beach}	{21.39208577731702,-157.71573496868848,Kailua,HI,United States}	{Outdoors & Recreation,}
+1562	Mon Nov 29 07:08:33 +0000 2010	4b05864ff964a5206f5b22e3	{Side Street Inn}	{21.29464995251598,-157.8473756818187,Honolulu,HI,United States}	{Nightlife Spot,Food,}
+1562	Mon Nov 29 00:47:43 +0000 2010	4c12a256a9c220a17b59549d	{Kahuku Land Farms Fruit Stand}	{21.695258,-158.008023,Kahuku,HI,United States}	{Shop & Service,Food & Drink Shop,}
+1562	Sun Nov 28 23:40:42 +0000 2010	4b05864ff964a520695b22e3	{Matsumoto Shave Ice}	{21.59103493409557,-158.1028080305533,Haleiwa,HI,United States}	{Food,}
+1562	Sun Nov 28 21:10:39 +0000 2010	4b058651f964a520cb5b22e3	{Dole Plantation}	{21.525879781260855,-158.0380940437317,Wahiawa,HI,United States}	{Outdoors & Recreation,Food,Government Building,Professional & Other Places,}
+1562	Sun Nov 28 20:16:50 +0000 2010	4b9b5572f964a520170136e3	{ABC Store #36}	{21.283236263152613,-157.83692300319672,Honolulu,HI,United States}	{Shop & Service,Government Building,Professional & Other Places,}
+1562	Sun Nov 28 19:58:20 +0000 2010	4b058654f964a520985c22e3	{Wailana Coffee House}	{21.285155694265956,-157.83591985702515,Honolulu,HI,United States}	{Food,}
+1562	Sun Nov 28 02:37:14 +0000 2010	4b058655f964a520ea5c22e3	{Rainbow Drive-in}	{21.275968190244495,-157.81465530395508,Honolulu,HI,United States}	{Food,}
+1562	Sun Nov 28 01:13:01 +0000 2010	4ade93faf964a5206a7621e3	{Hilton Hawaiian Village Waikiki Beach Resort}	{21.282806387126314,-157.8368854522705,Honolulu,HI,United States}	{Travel & Transport,Hotel,}
+1562	Sat Nov 27 23:58:39 +0000 2010	4aa18a65f964a520ea4020e3	{Honolulu International Airport (HNL)}	{21.331234509259605,-157.91996955871582,Honolulu,HI,United States}	{Travel & Transport,}
+1562	Fri Nov 26 23:53:50 +0000 2010	4b366548f964a5206b3425e3	{Lake Balboa Park}	{34.18016963556065,-118.49494113895724,Van Nuys,CA,United States}	{Outdoors & Recreation,}
+1562	Fri Nov 26 23:04:45 +0000 2010	4ba67797f964a520795539e3	{Starbucks}	{34.173008,-118.55712,Tarzana,CA,United States}	{Food,}
+1562	Thu Nov 25 05:48:23 +0000 2010	4ba7f0e1f964a52080c039e3	{Ralphs}	{34.16275779954127,-118.52128851637258,Encino,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1562	Wed Nov 24 23:01:31 +0000 2010	412d2800f964a520d80c1fe3	{Oomasa}	{34.04924594193164,-118.23959201574326,Los Angeles,CA,United States}	{Food,}
+1562	Wed Nov 24 21:46:51 +0000 2010	4b5113edf964a520314127e3	{Los Angeles City Hall}	{34.053359990486754,-118.24227202371635,Los Angeles,CA,United States}	{Travel & Transport,Government Building,Professional & Other Places,}
+1562	Wed Nov 24 21:45:12 +0000 2010	4b5de031f964a520787129e3	{Starbucks}	{34.05056157007773,-118.24224472045898,Los Angeles,CA,United States}	{Food,}
+1562	Wed Nov 24 19:23:36 +0000 2010	4a95cb64f964a520b92420e3	{Starbucks}	{34.15261155844144,-118.34585309028625,Burbank,CA,United States}	{Food,}
+1562	Tue Nov 23 03:30:30 +0000 2010	4a974657f964a520312920e3	{Sierra's Mexican Restaurant}	{34.19441974,-118.598004,Canoga Park,CA,United States}	{Food,}
+1562	Mon Nov 22 21:57:39 +0000 2010	4b0d7869f964a520ff4823e3	{Hummus Bar & Grill}	{34.1712889,-118.542199,Tarzana,CA,United States}	{Food,}
+1562	Mon Nov 22 17:01:30 +0000 2010	4ba67797f964a520795539e3	{Starbucks}	{34.173008,-118.55712,Tarzana,CA,United States}	{Food,}
+1562	Mon Nov 22 00:00:34 +0000 2010	4a83ae72f964a5209ffb1fe3	{Hollywood Walk Of Fame}	{34.10153309727385,-118.33867281675339,Hollywood,CA,United States}	{Government Building,Arts & Entertainment,Professional & Other Places,}
+1562	Sun Nov 21 06:03:59 +0000 2010	4b208033f964a520be3224e3	{Wokcano Asian Restaurant & Lounge}	{34.18041252561362,-118.3078220486641,Burbank,CA,United States}	{Nightlife Spot,Food,}

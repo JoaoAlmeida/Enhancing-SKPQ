@@ -1,0 +1,763 @@
+803	Fri Aug 12 01:39:10 +0000 2011	4ba57451f964a520c30839e3	{Mo's Place}	{38.94751945,-119.9592681,South Lake Tahoe,CA,United States}	{Nightlife Spot,}
+803	Tue Aug 09 08:13:36 +0000 2011	4e34bc90c65b2313e286bb76	{Willy's Writing Wrefuge}	{38.92752456665039,-119.98575592041016,,,United States}	{Nightlife Spot,}
+803	Mon Aug 08 00:32:44 +0000 2011	4ba97c98f964a5200b2a3ae3	{Sushi Pier}	{38.97118763911975,-119.93441820144653,Stateline,NV,United States}	{Food,}
+803	Sat Aug 06 01:54:05 +0000 2011	4a91dc9df964a520261c20e3	{Moody's Bistro Bar & Beats}	{39.32838322810338,-120.1840823328135,Truckee,CA,United States}	{Nightlife Spot,Food,}
+803	Fri Aug 05 17:54:37 +0000 2011	4c4f4b99a7351b8d6616dd92	{Lake tahoe Country Club}	{38.87103398428236,-120.0078030043193,South Lake Tahoe,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+803	Fri Aug 05 00:09:27 +0000 2011	4b5646d8f964a520df0828e3	{Safeway}	{38.986156912014486,-119.94393225075885,Zephyr Cove,NV,United States}	{Shop & Service,Food & Drink Shop,}
+803	Wed Aug 03 23:40:08 +0000 2011	4c4f238aea24c9b6e720d916	{Timber Cove Marina}	{38.9472497060713,-119.9669027536384,South Lake Tahoe,CA,United States}	{Outdoors & Recreation,}
+803	Tue Aug 02 23:16:55 +0000 2011	4541114bf964a520433c1fe3	{San Diego International Airport (SAN)}	{32.73299611609881,-117.19931602478027,San Diego,CA,United States}	{Travel & Transport,}
+803	Tue Aug 02 06:30:54 +0000 2011	4e05166e14959022c8877368	{Bootlegger}	{32.71168581763708,-117.1572739177215,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Mon Aug 01 05:38:57 +0000 2011	40e0b100f964a5209c011fe3	{The Aero Club Bar}	{32.73806807336119,-117.17648506164551,San Diego,CA,United States}	{Nightlife Spot,}
+803	Sun Jul 31 17:02:56 +0000 2011	4541114bf964a520433c1fe3	{San Diego International Airport (SAN)}	{32.73299611609881,-117.19931602478027,San Diego,CA,United States}	{Travel & Transport,}
+803	Fri Jul 29 06:00:48 +0000 2011	4b776788f964a5203c982ee3	{3rd Street Bar}	{39.528219429921684,-119.8160051400094,Reno,NV,United States}	{Nightlife Spot,}
+803	Fri Jul 29 02:25:19 +0000 2011	4b5f5d16f964a52039b629e3	{Jazz, A Louisiana Kitchen}	{39.531240659813506,-119.72259674487071,Sparks,NV,United States}	{Nightlife Spot,Food,}
+803	Thu Jul 28 22:03:02 +0000 2011	4e31dc7245dd720580b2e38b	{El Dorado County Sheriff Coroner}	{38.93339275,-119.97118715,South Lake Tahoe,CA,United States}	{Government Building,Professional & Other Places,}
+803	Thu Jul 28 21:58:44 +0000 2011	4c125dcba5eb76b04300beb7	{City of South Lake Tahoe Police Department}	{38.933791152509386,-119.97123328708713,South Lake Tahoe,CA,United States}	{Government Building,Professional & Other Places,}
+803	Thu Jul 28 00:15:51 +0000 2011	4ba57451f964a520c30839e3	{Mo's Place}	{38.94751945,-119.9592681,South Lake Tahoe,CA,United States}	{Nightlife Spot,}
+803	Wed Jul 27 04:15:56 +0000 2011	4aecc971f964a52032cb21e3	{The Fresh Ketch}	{38.935019,-120.00293668333333,South Lake Tahoe,CA,United States}	{Food,}
+803	Fri Jul 22 03:07:15 +0000 2011	4b5f5d16f964a52039b629e3	{Jazz, A Louisiana Kitchen}	{39.531240659813506,-119.72259674487071,Sparks,NV,United States}	{Nightlife Spot,Food,}
+803	Wed Jul 20 08:39:25 +0000 2011	4cf4c2911d18a1434db167ec	{Mountain Headquarters}	{38.96389077,-119.88525948,Stateline,NV,United States}	{Nightlife Spot,}
+803	Tue Jul 19 23:27:20 +0000 2011	4c07ee3a6071a593466ddb32	{Looney Bean}	{37.646025804601415,-118.96745647759342,Mammoth Lakes,CA,United States}	{Food,}
+803	Mon Jul 18 21:15:52 +0000 2011	4e10b3fe483bee47ff2b9ca8	{Mammoth History Museum}	{37.6351381766473,-118.96278879872497,Mammoth Lakes,CA,United States}	{Museum,Arts & Entertainment,}
+803	Sun Jul 10 19:14:28 +0000 2011	4e19f987aeb7eb0120da1c42	{Lone Pine Laundromat}	{36.604142,-118.06318,Lone Pine,CA,United States}	{Shop & Service,}
+803	Thu Jun 30 02:53:29 +0000 2011	4d840d465e70224ba1560509	{Biere et Vin}	{36.80196,-118.19962045,Independence,CA,United States}	{Nightlife Spot,}
+803	Wed Jun 29 03:17:39 +0000 2011	4ba3dc9af964a520aa6738e3	{The Mt. Whitney Restaurant}	{36.604447,-118.06296406666667,Lone Pine,CA,United States}	{Food,}
+803	Sat Jun 25 03:44:48 +0000 2011	4ac47274f964a520b69e20e3	{Fat City Steakhouse and Tropical Courtyard}	{32.72595667342018,-117.17167929967674,San Diego,CA,United States}	{Food,}
+803	Sun Jun 12 21:04:48 +0000 2011	4b721261f964a5203e6d2de3	{Jersey Mike's Subs}	{32.75113200947603,-117.20560949030754,San Diego,CA,United States}	{Food,}
+803	Thu Jun 09 17:37:04 +0000 2011	4b453268f964a520ab0726e3	{Middletown Trolley Station}	{32.733662,-117.1748231,San Diego,CA,United States}	{Travel & Transport,}
+803	Wed Jun 08 22:40:11 +0000 2011	4b15503df964a5202eb023e3	{Petco Park}	{32.707559779610634,-117.15702295303345,San Diego,CA,United States}	{Stadium,Arts & Entertainment,}
+803	Mon May 30 21:39:59 +0000 2011	4de40e6bc65b7a3e21415a32	{Casa De Luna}	{34.61914651,-118.41023821,Green Valley,CA,United States}	{Outdoors & Recreation,}
+803	Sun May 29 00:20:07 +0000 2011	4b410c95f964a52014c025e3	{Newcomb??s Ranch Restaurant & Bar}	{34.32972643916935,-118.00191342830658,La Canada Flintridge,CA,United States}	{Food,}
+803	Wed May 25 23:42:24 +0000 2011	4b6e1809f964a52002aa2ce3	{Jensen's Finest Foods}	{34.36065975975103,-117.63205026354969,Wrightwood,CA,United States}	{Shop & Service,Food & Drink Shop,}
+803	Mon May 23 16:41:06 +0000 2011	4bccab38cc8cd13aa45ac1cf	{Sweetwater Cafe}	{34.494851,-118.32594081,Agua Dulce,CA,United States}	{Food,}
+803	Tue May 17 04:50:10 +0000 2011	4bb828cc3db7b713ce1b219a	{Murray's  Saloon & Eatery}	{34.2403845,-116.91354998,Big Bear Lake,CA,United States}	{Nightlife Spot,}
+803	Tue May 17 04:48:11 +0000 2011	4cf968e9feec6dcbfacb3836	{Nottinghams Restaurant and Tavern}	{34.24351801993091,-116.91197640725561,Big Bear,CA,United States}	{Food,}
+803	Sat May 14 01:58:22 +0000 2011	4dcde19bd164679b8cf28aff	{Under The Bridgr}	{33.92419939,-116.69471665,White Water,CA,United States}	{Outdoors & Recreation,}
+803	Sat May 14 01:05:31 +0000 2011	4bdcf4ee479bc9b622e740eb	{Burger King}	{33.91970794138092,-116.77289575338364,Cabazon,CA,United States}	{Food,}
+803	Tue May 10 02:58:48 +0000 2011	4b500713f964a520701b27e3	{Cafe Aroma}	{33.75098026985098,-116.70739641646479,Idyllwild,CA,United States}	{Nightlife Spot,Food,}
+803	Mon May 09 18:18:21 +0000 2011	4b631863f964a5209f622ae3	{Higher Grounds}	{33.74499086528024,-116.71307760871144,Idyllwild-Pine Cove,CA,United States}	{Outdoors & Recreation,Food,}
+803	Mon May 09 02:53:49 +0000 2011	4c5477df728920a14752cf82	{Paradise Corner Cafe}	{33.56906421129571,-116.59135811769141,Anza,CA,United States}	{Food,}
+803	Sat May 07 18:00:19 +0000 2011	40e0b100f964a520da021fe3	{The Waterfront Bar & Grill}	{32.72571256948746,-117.17014968395233,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Sat May 07 05:42:46 +0000 2011	40e0b100f964a520c6011fe3	{Bully's Del Mar}	{32.95865478229922,-117.26522052528335,Del Mar,CA,United States}	{Nightlife Spot,Food,}
+803	Sat May 07 01:10:31 +0000 2011	4dc49bded22dafda2f904f47	{Best Of San Diego Magazine Party}	{33.0987978,-117.28646973,Carlsbad,CA,United States}	{Nightlife Spot,}
+803	Fri May 06 22:12:09 +0000 2011	462386d4f964a520a4451fe3	{REI}	{32.838747844804516,-117.1630350434564,San Diego,CA,United States}	{Shop & Service,Clothing Store,Professional & Other Places,}
+803	Sun May 01 03:43:57 +0000 2011	40e0b100f964a520db021fe3	{The Westgate Hotel}	{32.71634922234641,-117.16256405023002,San Diego,CA,United States}	{Nightlife Spot,Travel & Transport,Shop & Service,}
+803	Sun Apr 24 20:23:03 +0000 2011	4d422cd6c95b721ee449672b	{Pacific Crest Trail}	{32.589996197528926,-116.46694031171674,Mountain Empire,CA,United States}	{Outdoors & Recreation,}
+803	Fri Apr 22 11:27:27 +0000 2011	4a6d8999f964a520c2d21fe3	{The Speakeasy Radio Show}	{32.73765337,-117.1758896112442,San Diego,CA,United States}	{Nightlife Spot,}
+803	Thu Apr 21 05:41:54 +0000 2011	4cf4c2911d18a1434db167ec	{Mountain Headquarters}	{38.96389077,-119.88525948,Stateline,NV,United States}	{Nightlife Spot,}
+803	Mon Apr 18 12:36:04 +0000 2011	4541114bf964a520433c1fe3	{San Diego International Airport (SAN)}	{32.73299611609881,-117.19931602478027,San Diego,CA,United States}	{Travel & Transport,}
+803	Sun Apr 17 16:34:48 +0000 2011	4c27775ba852c928983ee86c	{North Shore Alano Club}	{32.80319505,-117.2534746,San Diego,CA,United States}	{College & University,}
+803	Wed Apr 13 15:30:09 +0000 2011	4bacf1c3f964a520881c3be3	{Nevada DMV}	{39.154855,-119.76325092,Carson City,NV,United States}	{Professional & Other Places,}
+803	Sun Apr 10 17:23:43 +0000 2011	4bfd2433e529c9282f6eba8c	{NDOT HQ North Annex}	{39.191853,-119.753465,Carson City,NV,United States}	{}
+803	Sun Apr 10 06:18:17 +0000 2011	4bc4bd7b920eb7135f321f2c	{Latin Soul}	{38.96943285031915,-119.93608819154687,Stateline,NV,United States}	{Food,}
+803	Sun Apr 10 06:15:25 +0000 2011	4b1bf65ef964a520baff23e3	{The Timbers Restaurant}	{38.969074,-119.936277,Stateline,NV,United States}	{Food,}
+803	Sun Apr 10 03:26:09 +0000 2011	4ab532f7f964a520347320e3	{MontBleu Resort Casino & Spa}	{38.961801203554266,-119.93969685358856,Stateline,NV,United States}	{Travel & Transport,Performing Arts Venue,Arts & Entertainment,}
+803	Fri Apr 08 16:59:02 +0000 2011	4d11552490d0a143b40e9d09	{Heavenly Ski School At Boulder}	{38.96595610875801,-119.89015555892874,South Lake Tahoe,NV,United States}	{Outdoors & Recreation,}
+803	Thu Apr 07 03:48:44 +0000 2011	4b9b1e25f964a520eff335e3	{plan: b Micro Lounge}	{39.165488630910886,-119.76753115653992,Carson City,NV,United States}	{Nightlife Spot,}
+803	Wed Apr 06 17:48:25 +0000 2011	4d11552490d0a143b40e9d09	{Heavenly Ski School At Boulder}	{38.96595610875801,-119.89015555892874,South Lake Tahoe,NV,United States}	{Outdoors & Recreation,}
+803	Wed Apr 06 05:10:26 +0000 2011	4b663f15f964a520871a2be3	{Rojo's Bar Tahoe}	{38.940950324555914,-119.97747194882177,South Lake Tahoe,CA,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+803	Mon Apr 04 02:56:59 +0000 2011	4c5ce979d25320a197c9c47a	{Pure Platinum Harborside}	{32.729327481960624,-117.17339662000775,San Diego,CA,United States}	{Nightlife Spot,}
+803	Sun Apr 03 16:32:23 +0000 2011	4d98a09f61a3a1cd7ae6d142	{La Jolla Motor Car Classic Car Show}	{32.849592,-117.27391359,La Jolla,CA,United States}	{Arts & Entertainment,}
+803	Sun Apr 03 16:23:03 +0000 2011	4b9bae23f964a5208d1936e3	{La Jolla Cove}	{32.84995662097439,-117.27306604385376,La Jolla,CA,United States}	{Outdoors & Recreation,}
+803	Sat Apr 02 14:29:40 +0000 2011	4d9732a4942ba093aa95658c	{Zonkey}	{38.9319734007272,-119.82576077625153,,NV,United States}	{Arts & Entertainment,}
+803	Sat Apr 02 04:24:31 +0000 2011	4b1b3904f964a520caf923e3	{Horizon Hollywood Theater}	{38.96237516741935,-119.94139102822521,Stateline,NV,United States}	{Arts & Entertainment,Movie Theater,}
+803	Sat Apr 02 00:58:00 +0000 2011	4cf5383ccc61a35d809e299e	{South Shore Group}	{38.94168918,-119.97773217,South Lake Tahoe,CA,United States}	{Convention Center,Professional & Other Places,}
+803	Fri Apr 01 23:07:26 +0000 2011	4ba57451f964a520c30839e3	{Mo's Place}	{38.94751945,-119.9592681,South Lake Tahoe,CA,United States}	{Nightlife Spot,}
+803	Fri Apr 01 21:34:52 +0000 2011	4d11552490d0a143b40e9d09	{Heavenly Ski School At Boulder}	{38.96595610875801,-119.89015555892874,South Lake Tahoe,NV,United States}	{Outdoors & Recreation,}
+803	Thu Mar 31 23:37:47 +0000 2011	4b9192e6f964a520bbc633e3	{Tahoe Sports}	{38.9537801979454,-119.94327153745148,South Lake Tahoe,CA,United States}	{Shop & Service,}
+803	Thu Mar 31 17:47:12 +0000 2011	4d11552490d0a143b40e9d09	{Heavenly Ski School At Boulder}	{38.96595610875801,-119.89015555892874,South Lake Tahoe,NV,United States}	{Outdoors & Recreation,}
+803	Thu Mar 31 16:47:03 +0000 2011	4bb2709f4019a5936ad536b8	{Fox & Hound}	{38.97023306503184,-119.88640435458345,Stateline,NV,United States}	{Nightlife Spot,}
+803	Thu Mar 31 04:29:27 +0000 2011	4b5ce71af964a520214a29e3	{Red's Old 395 Grill}	{39.1577518,-119.76615811666667,Carson City,NV,United States}	{Food,}
+803	Thu Mar 31 02:45:51 +0000 2011	4b9b1e25f964a520eff335e3	{plan: b Micro Lounge}	{39.165488630910886,-119.76753115653992,Carson City,NV,United States}	{Nightlife Spot,}
+803	Wed Mar 30 00:36:14 +0000 2011	4ba57451f964a520c30839e3	{Mo's Place}	{38.94751945,-119.9592681,South Lake Tahoe,CA,United States}	{Nightlife Spot,}
+803	Tue Mar 29 20:41:40 +0000 2011	4c44ca472d3ec9b617602fae	{US Post Office}	{38.9680997426704,-119.93363718362123,Zephyr Cove,NV,United States}	{Professional & Other Places,}
+803	Tue Mar 29 06:07:42 +0000 2011	4b3e4142f964a5203c9a25e3	{McP's Pub Tahoe}	{38.957639207896506,-119.94329977312833,South Lake Tahoe,CA,United States}	{Nightlife Spot,}
+803	Mon Mar 28 03:46:31 +0000 2011	4b47d39bf964a520814026e3	{Harvey's Resort & Casino}	{38.960251395386045,-119.94242191314697,Stateline,NV,United States}	{Nightlife Spot,Travel & Transport,Arts & Entertainment,}
+803	Mon Mar 28 00:58:29 +0000 2011	4cf5383ccc61a35d809e299e	{South Shore Group}	{38.94168918,-119.97773217,South Lake Tahoe,CA,United States}	{Convention Center,Professional & Other Places,}
+803	Sun Mar 27 20:31:01 +0000 2011	4d13f12281cea35d34e2ceec	{Tahoe Trading Post}	{38.95435538,-119.94471581,South Lake Tahoe,CA,United States}	{Shop & Service,}
+803	Sun Mar 27 06:54:01 +0000 2011	4cf4c2911d18a1434db167ec	{Mountain Headquarters}	{38.96389077,-119.88525948,Stateline,NV,United States}	{Nightlife Spot,}
+803	Sun Mar 27 04:38:15 +0000 2011	4b7ee1b8f964a520860630e3	{Grocery Outlet}	{38.920724,-119.992632,South Lake Tahoe,CA,United States}	{}
+803	Sat Mar 26 22:36:35 +0000 2011	4ba57451f964a520c30839e3	{Mo's Place}	{38.94751945,-119.9592681,South Lake Tahoe,CA,United States}	{Nightlife Spot,}
+803	Sat Mar 26 22:15:02 +0000 2011	4d8e65536174a093eaa7c7e3	{Bargains Galore Thrift Store}	{38.94121987,-119.97830138,South Lake Tahoe,CA,United States}	{Shop & Service,}
+803	Sat Mar 26 20:47:22 +0000 2011	4d11552490d0a143b40e9d09	{Heavenly Ski School At Boulder}	{38.96595610875801,-119.89015555892874,South Lake Tahoe,NV,United States}	{Outdoors & Recreation,}
+803	Sat Mar 26 20:08:11 +0000 2011	4d0fca4271e8a1cd0bc27cbd	{UPS Store}	{38.97097681,-119.93435598,Stateline,NV,United States}	{Professional & Other Places,}
+803	Sat Mar 26 07:05:36 +0000 2011	4cf4c2911d18a1434db167ec	{Mountain Headquarters}	{38.96389077,-119.88525948,Stateline,NV,United States}	{Nightlife Spot,}
+803	Sat Mar 26 06:28:39 +0000 2011	4bb2709f4019a5936ad536b8	{Fox & Hound}	{38.97023306503184,-119.88640435458345,Stateline,NV,United States}	{Nightlife Spot,}
+803	Sat Mar 26 05:11:57 +0000 2011	4d8adf246daeb60c79dc6de0	{Tavern At Lakeside Casino}	{38.9692496,-119.936137,Stateline,NV,United States}	{Nightlife Spot,}
+803	Sat Mar 26 05:10:01 +0000 2011	4bc4bd7b920eb7135f321f2c	{Latin Soul}	{38.96943285031915,-119.93608819154687,Stateline,NV,United States}	{Food,}
+803	Sat Mar 26 04:22:50 +0000 2011	4b1bf65ef964a520baff23e3	{The Timbers Restaurant}	{38.969074,-119.936277,Stateline,NV,United States}	{Food,}
+803	Sat Mar 26 04:21:01 +0000 2011	4b1043bdf964a5209e6c23e3	{Lakeside Inn and Casino}	{38.96926726368758,-119.93617290301621,Stateline,NV,United States}	{Travel & Transport,Arts & Entertainment,}
+803	Sat Mar 26 02:57:57 +0000 2011	4d8d55ff1d06b1f7fe692f3b	{Derby Dames Exibition Event}	{38.96966223,-119.93219801,Zephyr Cove,NV,United States}	{Outdoors & Recreation,Athletics & Sports,}
+803	Sat Mar 26 02:52:32 +0000 2011	4b986b45f964a5204c4135e3	{Kahle Community Center}	{38.96928580496617,-119.9325942993164,Stateline,NV,United States}	{Shop & Service,Gym / Fitness Center,}
+803	Sat Mar 26 01:47:16 +0000 2011	4cf5383ccc61a35d809e299e	{South Shore Group}	{38.94168918,-119.97773217,South Lake Tahoe,CA,United States}	{Convention Center,Professional & Other Places,}
+803	Sat Mar 26 01:37:41 +0000 2011	4d8d435e5091a1cd97a17401	{Tahoe Jim's Gas Station}	{38.95519577592837,-119.94497131478862,South Lake Tahoe,CA,United States}	{Shop & Service,}
+803	Sat Mar 26 00:32:25 +0000 2011	4d8d3407c1b1721e69a71346	{Kingsbury Group Alano}	{38.96852193,-119.92748178,Stateline,NV,United States}	{Convention Center,Professional & Other Places,}
+803	Sat Mar 26 00:25:33 +0000 2011	4d0fca4271e8a1cd0bc27cbd	{UPS Store}	{38.97097681,-119.93435598,Stateline,NV,United States}	{Professional & Other Places,}
+803	Sat Mar 26 00:24:35 +0000 2011	4c44ca472d3ec9b617602fae	{US Post Office}	{38.9680997426704,-119.93363718362123,Zephyr Cove,NV,United States}	{Professional & Other Places,}
+803	Fri Mar 25 19:41:18 +0000 2011	4b916a92f964a520bfba33e3	{Boulder Lodge @ Heavenly}	{38.96612740614375,-119.89072613977163,Stateline,NV,United States}	{Outdoors & Recreation,Ski Area,}
+803	Fri Mar 25 18:26:57 +0000 2011	4d422f72aed776eb05666a97	{Stagecoach Express}	{38.9601607795327,-119.8877376256905,Stateline,NV,United States}	{Outdoors & Recreation,Ski Area,}
+803	Fri Mar 25 18:26:08 +0000 2011	4d11552490d0a143b40e9d09	{Heavenly Ski School At Boulder}	{38.96595610875801,-119.89015555892874,South Lake Tahoe,NV,United States}	{Outdoors & Recreation,}
+803	Fri Mar 25 08:44:10 +0000 2011	4cf4c2911d18a1434db167ec	{Mountain Headquarters}	{38.96389077,-119.88525948,Stateline,NV,United States}	{Nightlife Spot,}
+803	Fri Mar 25 05:27:37 +0000 2011	4b3e4142f964a5203c9a25e3	{McP's Pub Tahoe}	{38.957639207896506,-119.94329977312833,South Lake Tahoe,CA,United States}	{Nightlife Spot,}
+803	Fri Mar 25 04:56:20 +0000 2011	4d12bf76ffa36ea8e265fbda	{MacDuff's Pub}	{38.944208,-119.970844,South Lake Tahoe,CA,United States}	{Nightlife Spot,Food,}
+803	Fri Mar 25 03:53:22 +0000 2011	4d8c119284f56ea8159e4597	{Blue Dog Pizza At Tahoe Bowl}	{38.94454836845398,-119.97137818,South Lake Tahoe,CA,United States}	{Food,}
+803	Fri Mar 25 03:50:21 +0000 2011	4bb6e10ef562ef3bb7db3097	{Tahoe Bowl}	{38.944521,-119.97143195,South Lake Tahoe,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+803	Fri Mar 25 02:04:21 +0000 2011	4cf5383ccc61a35d809e299e	{South Shore Group}	{38.94168918,-119.97773217,South Lake Tahoe,CA,United States}	{Convention Center,Professional & Other Places,}
+803	Fri Mar 25 02:02:20 +0000 2011	4d8979eb1508a14334570f1e	{Waters Day Spa}	{38.92617431,-119.98586404,South Lake Tahoe,CA,United States}	{Shop & Service,}
+803	Fri Mar 25 00:18:17 +0000 2011	4bad8e36f964a5203f5b3be3	{Push Fitness}	{38.91873690914366,-119.98084240079237,South Lake Tahoe,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+803	Fri Mar 25 00:00:15 +0000 2011	4b7ee1b8f964a520860630e3	{Grocery Outlet}	{38.920724,-119.992632,South Lake Tahoe,CA,United States}	{}
+803	Thu Mar 24 23:53:07 +0000 2011	4d8bd9369f3fb1f7d5cafabc	{Verizon Wireless}	{38.91819781,-119.99679482,South Lake Tahoe,CA,United States}	{Shop & Service,}
+803	Thu Mar 24 21:01:52 +0000 2011	4bb2709f4019a5936ad536b8	{Fox & Hound}	{38.97023306503184,-119.88640435458345,Stateline,NV,United States}	{Nightlife Spot,}
+803	Thu Mar 24 19:54:08 +0000 2011	4d422f72aed776eb05666a97	{Stagecoach Express}	{38.9601607795327,-119.8877376256905,Stateline,NV,United States}	{Outdoors & Recreation,Ski Area,}
+803	Thu Mar 24 17:47:32 +0000 2011	4d11552490d0a143b40e9d09	{Heavenly Ski School At Boulder}	{38.96595610875801,-119.89015555892874,South Lake Tahoe,NV,United States}	{Outdoors & Recreation,}
+803	Thu Mar 24 15:51:00 +0000 2011	4cf4c2911d18a1434db167ec	{Mountain Headquarters}	{38.96389077,-119.88525948,Stateline,NV,United States}	{Nightlife Spot,}
+803	Thu Mar 24 06:40:11 +0000 2011	4cf4c2911d18a1434db167ec	{Mountain Headquarters}	{38.96389077,-119.88525948,Stateline,NV,United States}	{Nightlife Spot,}
+803	Thu Mar 24 06:13:22 +0000 2011	4b527092f964a520697d27e3	{Mott Canyon Tavern & Grill}	{38.968103528022766,-119.93023144,Stateline,NV,United States}	{Nightlife Spot,Food,}
+803	Thu Mar 24 06:09:37 +0000 2011	4ba97c98f964a5200b2a3ae3	{Sushi Pier}	{38.97118763911975,-119.93441820144653,Stateline,NV,United States}	{Food,}
+803	Thu Mar 24 06:06:36 +0000 2011	4b1043bdf964a5209e6c23e3	{Lakeside Inn and Casino}	{38.96926726368758,-119.93617290301621,Stateline,NV,United States}	{Travel & Transport,Arts & Entertainment,}
+803	Thu Mar 24 06:05:38 +0000 2011	4d8adf246daeb60c79dc6de0	{Tavern At Lakeside Casino}	{38.9692496,-119.936137,Stateline,NV,United States}	{Nightlife Spot,}
+803	Thu Mar 24 04:37:03 +0000 2011	4b3e4142f964a5203c9a25e3	{McP's Pub Tahoe}	{38.957639207896506,-119.94329977312833,South Lake Tahoe,CA,United States}	{Nightlife Spot,}
+803	Thu Mar 24 04:15:21 +0000 2011	4ba57451f964a520c30839e3	{Mo's Place}	{38.94751945,-119.9592681,South Lake Tahoe,CA,United States}	{Nightlife Spot,}
+803	Thu Mar 24 03:46:03 +0000 2011	4d8979eb1508a14334570f1e	{Waters Day Spa}	{38.92617431,-119.98586404,South Lake Tahoe,CA,United States}	{Shop & Service,}
+803	Thu Mar 24 01:13:51 +0000 2011	4cf5383ccc61a35d809e299e	{South Shore Group}	{38.94168918,-119.97773217,South Lake Tahoe,CA,United States}	{Convention Center,Professional & Other Places,}
+803	Wed Mar 23 04:42:06 +0000 2011	4d8979eb1508a14334570f1e	{Waters Day Spa}	{38.92617431,-119.98586404,South Lake Tahoe,CA,United States}	{Shop & Service,}
+803	Wed Mar 23 02:25:52 +0000 2011	4bad8e36f964a5203f5b3be3	{Push Fitness}	{38.91873690914366,-119.98084240079237,South Lake Tahoe,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+803	Tue Mar 22 23:09:09 +0000 2011	4c896354a92fa093fa2888bf	{State of Nevada Department of Public Safety / Motor Vehicles}	{39.1538605355683,-119.76407282039685,Carson City,NV,United States}	{Professional & Other Places,}
+803	Tue Mar 22 23:05:34 +0000 2011	4bacf1c3f964a520881c3be3	{Nevada DMV}	{39.154855,-119.76325092,Carson City,NV,United States}	{Professional & Other Places,}
+803	Tue Mar 22 23:05:07 +0000 2011	4c896354a92fa093fa2888bf	{State of Nevada Department of Public Safety / Motor Vehicles}	{39.1538605355683,-119.76407282039685,Carson City,NV,United States}	{Professional & Other Places,}
+803	Tue Mar 22 20:36:33 +0000 2011	49f5f596f964a520df6b1fe3	{Reno-Tahoe International Airport (RNO)}	{39.50581220760866,-119.77558851242065,Reno,NV,United States}	{Travel & Transport,Airport,}
+803	Tue Mar 22 19:24:41 +0000 2011	43ba62b4f964a520e72c1fe3	{Norman Y. Mineta San Jos? International Airport (SJC)}	{37.36662498287745,-121.9263043999672,San Jose,CA,United States}	{Travel & Transport,}
+803	Tue Mar 22 17:17:32 +0000 2011	4bc7c69914d79521162168e9	{Gate 4}	{32.7325629106409,-117.19606518745422,San Diego,CA,United States}	{Travel & Transport,Airport,}
+803	Tue Mar 22 02:42:57 +0000 2011	4a3547c1f964a520b89c1fe3	{RA Sushi Bar Restaurant}	{32.715704714144934,-117.16048477449557,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Tue Mar 22 02:40:14 +0000 2011	4b11c0d2f964a520de8323e3	{UA Horton Plaza 14}	{32.71428513756385,-117.16179728507996,San Diego,CA,United States}	{Arts & Entertainment,Movie Theater,}
+803	Mon Mar 21 22:41:38 +0000 2011	4bf6a46e9abec9b6782426e8	{Koll Center}	{32.71578908717338,-117.16770471030993,San Diego,CA,United States}	{Residence,Professional & Other Places,}
+803	Mon Mar 21 22:38:58 +0000 2011	4c1297b777cea5932a57cd60	{San Diego Mayors Office}	{32.71731063282563,-117.16577482401925,San Diego,CA,United States}	{Professional & Other Places,}
+803	Mon Mar 21 22:37:19 +0000 2011	4b4bb4b4f964a520b5a426e3	{Bank of America}	{32.718112497437495,-117.16066002845764,San Diego,CA,United States}	{Shop & Service,Professional & Other Places,}
+803	Mon Mar 21 18:17:07 +0000 2011	4bf6a46e9abec9b6782426e8	{Koll Center}	{32.71578908717338,-117.16770471030993,San Diego,CA,United States}	{Residence,Professional & Other Places,}
+803	Sun Mar 20 18:26:06 +0000 2011	4bf6a46e9abec9b6782426e8	{Koll Center}	{32.71578908717338,-117.16770471030993,San Diego,CA,United States}	{Residence,Professional & Other Places,}
+803	Mon Mar 14 16:54:01 +0000 2011	4c55b5d51b46c9b6f78db4d0	{AMPM}	{39.197702353326775,-119.77769378553455,Carson City,NV,United States}	{Shop & Service,}
+803	Mon Mar 14 13:07:29 +0000 2011	4541114bf964a520433c1fe3	{San Diego International Airport (SAN)}	{32.73299611609881,-117.19931602478027,San Diego,CA,United States}	{Travel & Transport,}
+803	Sat Mar 12 22:41:45 +0000 2011	4b19744cf964a5209fdd23e3	{USS Midway Museum}	{32.714113624668194,-117.17515468597412,San Diego,CA,United States}	{Travel & Transport,Museum,Arts & Entertainment,}
+803	Sat Mar 12 17:06:28 +0000 2011	49f5f596f964a520df6b1fe3	{Reno-Tahoe International Airport (RNO)}	{39.50581220760866,-119.77558851242065,Reno,NV,United States}	{Travel & Transport,Airport,}
+803	Thu Mar 10 21:20:41 +0000 2011	4b1d375df964a520230d24e3	{Heavenly Mountain Resort}	{38.93766261304909,-119.94161126938386,South Lake Tahoe,CA,United States}	{Travel & Transport,Outdoors & Recreation,Ski Area,Hotel,}
+803	Mon Mar 07 20:30:46 +0000 2011	4b003342f964a520713b22e3	{Coffee And}	{39.32782087801295,-120.18595381597412,Truckee,CA,United States}	{Food,}
+803	Mon Mar 07 20:30:05 +0000 2011	4a91dc9df964a520261c20e3	{Moody's Bistro Bar & Beats}	{39.32838322810338,-120.1840823328135,Truckee,CA,United States}	{Nightlife Spot,Food,}
+803	Sun Mar 06 05:04:55 +0000 2011	4a91dc9df964a520261c20e3	{Moody's Bistro Bar & Beats}	{39.32838322810338,-120.1840823328135,Truckee,CA,United States}	{Nightlife Spot,Food,}
+803	Sun Mar 06 03:10:58 +0000 2011	4b3baceff964a5208c7825e3	{Pianeta}	{39.327929,-120.185577,Truckee,CA,United States}	{Food,}
+803	Sun Mar 06 02:50:04 +0000 2011	4a91dc9df964a520261c20e3	{Moody's Bistro Bar & Beats}	{39.32838322810338,-120.1840823328135,Truckee,CA,United States}	{Nightlife Spot,Food,}
+803	Fri Mar 04 00:56:24 +0000 2011	4b423ce4f964a520c5cf25e3	{Mammoth Mountain Ski Resort}	{37.647131175362965,-118.99845600128174,Mammoth Lakes,CA,United States}	{Travel & Transport,Outdoors & Recreation,Ski Area,}
+803	Thu Mar 03 15:28:53 +0000 2011	4bc3a107dce4eee177af719d	{Sierra Lodge}	{37.649056281688004,-118.974597014429,Mammoth Lakes,CA,United States}	{Travel & Transport,}
+803	Thu Mar 03 07:40:10 +0000 2011	4bbfcde64cdfc9b6e0fa9121	{AMPM}	{38.95861,-119.77583843333333,Minden,NV,United States}	{Shop & Service,Professional & Other Places,}
+803	Thu Mar 03 05:23:44 +0000 2011	4b9b1e25f964a520eff335e3	{plan: b Micro Lounge}	{39.165488630910886,-119.76753115653992,Carson City,NV,United States}	{Nightlife Spot,}
+803	Wed Mar 02 22:36:16 +0000 2011	4d11552490d0a143b40e9d09	{Heavenly Ski School At Boulder}	{38.96595610875801,-119.89015555892874,South Lake Tahoe,NV,United States}	{Outdoors & Recreation,}
+803	Wed Mar 02 02:06:43 +0000 2011	4d3b9bd6af8ca143716ef9f6	{Lanza's}	{38.971219,-119.93452,Stateline,NV,United States}	{Food,}
+803	Tue Mar 01 20:03:23 +0000 2011	4b844baff964a5200a2d31e3	{Comma Coffee}	{39.16217019,-119.767002,Carson City,NV,United States}	{Food,}
+803	Tue Mar 01 14:56:07 +0000 2011	4d2b1177888af04deee4dcaf	{Southwest Flight 3858 to Reno}	{32.73128261,-117.19611741,,,United States}	{Travel & Transport,Airport,}
+803	Mon Feb 28 22:22:50 +0000 2011	4a6d8999f964a520c2d21fe3	{The Speakeasy Radio Show}	{32.73765337,-117.1758896112442,San Diego,CA,United States}	{Nightlife Spot,}
+803	Mon Feb 28 19:56:35 +0000 2011	46499c1cf964a520aa461fe3	{Richard Walker's Pancake House}	{32.71108639553767,-117.16463756107012,San Diego,CA,United States}	{Food,}
+803	Sat Feb 26 18:34:01 +0000 2011	49f5f596f964a520df6b1fe3	{Reno-Tahoe International Airport (RNO)}	{39.50581220760866,-119.77558851242065,Reno,NV,United States}	{Travel & Transport,Airport,}
+803	Fri Feb 25 19:27:51 +0000 2011	4d11552490d0a143b40e9d09	{Heavenly Ski School At Boulder}	{38.96595610875801,-119.89015555892874,South Lake Tahoe,NV,United States}	{Outdoors & Recreation,}
+803	Fri Feb 25 17:13:53 +0000 2011	4cf4c2911d18a1434db167ec	{Mountain Headquarters}	{38.96389077,-119.88525948,Stateline,NV,United States}	{Nightlife Spot,}
+803	Thu Feb 24 06:28:02 +0000 2011	4b9b1e25f964a520eff335e3	{plan: b Micro Lounge}	{39.165488630910886,-119.76753115653992,Carson City,NV,United States}	{Nightlife Spot,}
+803	Wed Feb 23 20:04:17 +0000 2011	4d1f8692756e8cfaa8186454	{Tamarack Lodge}	{38.9363823220544,-119.90993242792109,South Lake Tahoe,CA,United States}	{Outdoors & Recreation,Ski Area,}
+803	Tue Feb 22 21:43:13 +0000 2011	4d11552490d0a143b40e9d09	{Heavenly Ski School At Boulder}	{38.96595610875801,-119.89015555892874,South Lake Tahoe,NV,United States}	{Outdoors & Recreation,}
+803	Mon Feb 21 17:19:45 +0000 2011	4c5dd2ed857ca5935910cecb	{Hutch's Mission Car Wash}	{39.478075436530105,-119.79156216656361,Reno,NV,United States}	{Shop & Service,}
+803	Mon Feb 21 15:13:27 +0000 2011	4541114bf964a520433c1fe3	{San Diego International Airport (SAN)}	{32.73299611609881,-117.19931602478027,San Diego,CA,United States}	{Travel & Transport,}
+803	Sun Feb 20 02:58:37 +0000 2011	4a6bda26f964a52019d01fe3	{Gaslamp Tavern}	{32.714498858231885,-117.16017460448178,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Sat Feb 19 18:04:14 +0000 2011	4c0a7528a1b32d7f6a4e99f0	{Gate B1}	{39.50510030100754,-119.77483749389648,Reno,NV,United States}	{Travel & Transport,Airport,}
+803	Sat Feb 19 00:57:05 +0000 2011	4aecc971f964a52032cb21e3	{The Fresh Ketch}	{38.935019,-120.00293668333333,South Lake Tahoe,CA,United States}	{Food,}
+803	Fri Feb 18 19:57:51 +0000 2011	4b50da7af964a5205b3527e3	{Cold Stone Creamery}	{38.95653604469691,-119.94230587378743,South Lake Tahoe,CA,United States}	{Food,}
+803	Fri Feb 18 16:46:21 +0000 2011	4d11552490d0a143b40e9d09	{Heavenly Ski School At Boulder}	{38.96595610875801,-119.89015555892874,South Lake Tahoe,NV,United States}	{Outdoors & Recreation,}
+803	Fri Feb 18 05:22:54 +0000 2011	4b1c2dc9f964a520ab0324e3	{Heavenly Village Cinemas}	{38.95544290832636,-119.942633409597,South Lake Tahoe,CA,United States}	{Arts & Entertainment,Movie Theater,}
+803	Thu Feb 17 23:37:42 +0000 2011	4b1d375df964a520230d24e3	{Heavenly Mountain Resort}	{38.93766261304909,-119.94161126938386,South Lake Tahoe,CA,United States}	{Travel & Transport,Outdoors & Recreation,Ski Area,Hotel,}
+803	Wed Feb 16 20:53:51 +0000 2011	4b3e4142f964a5203c9a25e3	{McP's Pub Tahoe}	{38.957639207896506,-119.94329977312833,South Lake Tahoe,CA,United States}	{Nightlife Spot,}
+803	Wed Feb 16 18:33:10 +0000 2011	4cf4c2911d18a1434db167ec	{Mountain Headquarters}	{38.96389077,-119.88525948,Stateline,NV,United States}	{Nightlife Spot,}
+803	Wed Feb 16 02:07:03 +0000 2011	4bad8e36f964a5203f5b3be3	{Push Fitness}	{38.91873690914366,-119.98084240079237,South Lake Tahoe,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+803	Tue Feb 15 17:33:24 +0000 2011	4b663767f964a52062192be3	{Saint Mary's Regional Medical Center}	{39.532555690971414,-119.81885390202225,Reno,NV,United States}	{Medical Center,Professional & Other Places,}
+803	Tue Feb 15 15:02:49 +0000 2011	4bd5b60829eb9c7456be93e1	{Gate 2}	{32.731534039240266,-117.19596862792969,San Diego,CA,United States}	{Travel & Transport,Airport,}
+803	Tue Feb 15 14:26:24 +0000 2011	4541114bf964a520433c1fe3	{San Diego International Airport (SAN)}	{32.73299611609881,-117.19931602478027,San Diego,CA,United States}	{Travel & Transport,}
+803	Tue Feb 15 02:32:53 +0000 2011	4b37c1e5f964a520a04525e3	{Borders}	{32.80556437835363,-116.96343719959259,El Cajon,CA,United States}	{Shop & Service,Food,}
+803	Mon Feb 14 20:11:47 +0000 2011	4b48ba91f964a520635426e3	{The Huddle}	{32.750378251075745,-117.17120110988617,San Diego,CA,United States}	{Food,}
+803	Mon Feb 14 18:54:55 +0000 2011	4a80306df964a520bbf41fe3	{Hall Of Justice - San Diego Superior Court}	{32.71587427433335,-117.16580354269871,San Diego,CA,United States}	{Government Building,Professional & Other Places,}
+803	Sat Feb 12 17:24:02 +0000 2011	4d4d860afe7fb1f7d7365d42	{Southwest Flight 1142}	{39.50488719,-119.77386931,Reno,NV,United States}	{Travel & Transport,Airport,}
+803	Sat Feb 12 17:15:45 +0000 2011	49f5f596f964a520df6b1fe3	{Reno-Tahoe International Airport (RNO)}	{39.50581220760866,-119.77558851242065,Reno,NV,United States}	{Travel & Transport,Airport,}
+803	Sat Feb 12 17:14:42 +0000 2011	4d0b74a5d8d78cfa3ffe1cbe	{Atlantis Airport Shuttle}	{39.49054245539336,-119.79144344597312,Reno,NV,United States}	{Travel & Transport,Bus Station,}
+803	Sat Feb 12 15:07:18 +0000 2011	4cf4c2911d18a1434db167ec	{Mountain Headquarters}	{38.96389077,-119.88525948,Stateline,NV,United States}	{Nightlife Spot,}
+803	Thu Feb 10 06:48:43 +0000 2011	4d538a2bd4a6721e0bcf8bac	{Capisce}	{38.98308619545706,-119.94228893225868,Zephyr Cove,NV,United States}	{Food,}
+803	Wed Feb 09 05:07:18 +0000 2011	4d5220a0c305b60c385a971e	{Mammoth Lakes Arts Center}	{37.638124,-118.965866,Mammoth Lakes,CA,United States}	{Arts & Entertainment,}
+803	Tue Feb 08 07:08:19 +0000 2011	4c660182f7a80f476a299d7a	{Cinnamon Bear Inn}	{37.64698166672704,-118.97175448356644,Mammoth Lakes,CA,United States}	{}
+803	Tue Feb 08 04:52:47 +0000 2011	4b80c5d7f964a520498b30e3	{Clocktower Cellar Pub}	{37.6496116616765,-118.98296356201172,Mammoth Lakes,CA,United States}	{Nightlife Spot,}
+803	Tue Feb 08 03:23:33 +0000 2011	4c41d924ff711b8d33861205	{The Church}	{37.6476214797478,-118.98353359057867,Mammoth Lakes,CA,United States}	{}
+803	Tue Feb 08 01:42:48 +0000 2011	4bd39953046076b0508a7671	{Whiskey Creek}	{37.64867902126896,-118.98349379781158,Mammoth Lakes,CA,United States}	{Nightlife Spot,Food,}
+803	Mon Feb 07 01:36:16 +0000 2011	4d4ad2e8f2cc6a31686ec188	{Super Bowl Sunday}	{32.747868226330375,-97.09356307983398,Arlington,TX,United States}	{Stadium,Arts & Entertainment,}
+803	Mon Feb 07 01:34:17 +0000 2011	4cf4c2911d18a1434db167ec	{Mountain Headquarters}	{38.96389077,-119.88525948,Stateline,NV,United States}	{Nightlife Spot,}
+803	Mon Feb 07 01:33:07 +0000 2011	4d4ad2e8f2cc6a31686ec188	{Super Bowl Sunday}	{32.747868226330375,-97.09356307983398,Arlington,TX,United States}	{Stadium,Arts & Entertainment,}
+803	Sun Feb 06 12:40:30 +0000 2011	4541114bf964a520433c1fe3	{San Diego International Airport (SAN)}	{32.73299611609881,-117.19931602478027,San Diego,CA,United States}	{Travel & Transport,}
+803	Sun Feb 06 00:20:10 +0000 2011	4b368637f964a5205f3725e3	{Prado Restaurant}	{32.731046674958165,-117.14966297149658,San Diego,CA,United States}	{Food,}
+803	Sat Feb 05 19:30:27 +0000 2011	4541114bf964a520433c1fe3	{San Diego International Airport (SAN)}	{32.73299611609881,-117.19931602478027,San Diego,CA,United States}	{Travel & Transport,}
+803	Sat Feb 05 17:19:24 +0000 2011	4d4d860afe7fb1f7d7365d42	{Southwest Flight 1142}	{39.50488719,-119.77386931,Reno,NV,United States}	{Travel & Transport,Airport,}
+803	Sat Feb 05 06:22:51 +0000 2011	4b3e4142f964a5203c9a25e3	{McP's Pub Tahoe}	{38.957639207896506,-119.94329977312833,South Lake Tahoe,CA,United States}	{Nightlife Spot,}
+803	Sat Feb 05 05:28:10 +0000 2011	4aecc971f964a52032cb21e3	{The Fresh Ketch}	{38.935019,-120.00293668333333,South Lake Tahoe,CA,United States}	{Food,}
+803	Fri Feb 04 16:37:22 +0000 2011	4b1d375df964a520230d24e3	{Heavenly Mountain Resort}	{38.93766261304909,-119.94161126938386,South Lake Tahoe,CA,United States}	{Travel & Transport,Outdoors & Recreation,Ski Area,Hotel,}
+803	Thu Feb 03 04:22:54 +0000 2011	4b108792f964a5204e7223e3	{Harrah's Lake Tahoe Resort & Casino}	{38.959091770935224,-119.94124174118042,Stateline,NV,United States}	{Travel & Transport,Arts & Entertainment,}
+803	Thu Feb 03 01:34:04 +0000 2011	4b526be0f964a520797c27e3	{Blue Angel Cafe}	{38.94458055496216,-119.954963,South Lake Tahoe,CA,United States}	{Food,}
+803	Mon Jan 31 22:43:30 +0000 2011	4b5de1bdf964a520d97129e3	{Costco Wholesale}	{39.5038089169317,-119.78406429290771,Reno,NV,United States}	{Shop & Service,Food & Drink Shop,}
+803	Mon Jan 31 20:42:51 +0000 2011	49f5f596f964a520df6b1fe3	{Reno-Tahoe International Airport (RNO)}	{39.50581220760866,-119.77558851242065,Reno,NV,United States}	{Travel & Transport,Airport,}
+803	Sat Jan 29 20:54:26 +0000 2011	4541114bf964a520433c1fe3	{San Diego International Airport (SAN)}	{32.73299611609881,-117.19931602478027,San Diego,CA,United States}	{Travel & Transport,}
+803	Sat Jan 29 16:42:02 +0000 2011	49f5f596f964a520df6b1fe3	{Reno-Tahoe International Airport (RNO)}	{39.50581220760866,-119.77558851242065,Reno,NV,United States}	{Travel & Transport,Airport,}
+803	Fri Jan 28 17:51:47 +0000 2011	4d11552490d0a143b40e9d09	{Heavenly Ski School At Boulder}	{38.96595610875801,-119.89015555892874,South Lake Tahoe,NV,United States}	{Outdoors & Recreation,}
+803	Thu Jan 27 21:14:30 +0000 2011	4b9fe250f964a520674737e3	{East Peak Lodge S. Lake tajoe}	{38.94135418333333,-119.89667541666667,,,United States}	{Outdoors & Recreation,Ski Area,}
+803	Thu Jan 27 00:58:50 +0000 2011	4b526be0f964a520797c27e3	{Blue Angel Cafe}	{38.94458055496216,-119.954963,South Lake Tahoe,CA,United States}	{Food,}
+803	Wed Jan 26 22:23:06 +0000 2011	4b3e4142f964a5203c9a25e3	{McP's Pub Tahoe}	{38.957639207896506,-119.94329977312833,South Lake Tahoe,CA,United States}	{Nightlife Spot,}
+803	Wed Jan 26 18:31:01 +0000 2011	4cf4c2911d18a1434db167ec	{Mountain Headquarters}	{38.96389077,-119.88525948,Stateline,NV,United States}	{Nightlife Spot,}
+803	Wed Jan 26 05:55:50 +0000 2011	4b3e4142f964a5203c9a25e3	{McP's Pub Tahoe}	{38.957639207896506,-119.94329977312833,South Lake Tahoe,CA,United States}	{Nightlife Spot,}
+803	Wed Jan 26 00:22:10 +0000 2011	4ba57451f964a520c30839e3	{Mo's Place}	{38.94751945,-119.9592681,South Lake Tahoe,CA,United States}	{Nightlife Spot,}
+803	Tue Jan 25 23:41:32 +0000 2011	4cf4c2911d18a1434db167ec	{Mountain Headquarters}	{38.96389077,-119.88525948,Stateline,NV,United States}	{Nightlife Spot,}
+803	Mon Jan 24 16:47:31 +0000 2011	4d0b74a5d8d78cfa3ffe1cbe	{Atlantis Airport Shuttle}	{39.49054245539336,-119.79144344597312,Reno,NV,United States}	{Travel & Transport,Bus Station,}
+803	Mon Jan 24 16:39:14 +0000 2011	49f5f596f964a520df6b1fe3	{Reno-Tahoe International Airport (RNO)}	{39.50581220760866,-119.77558851242065,Reno,NV,United States}	{Travel & Transport,Airport,}
+803	Mon Jan 24 14:10:43 +0000 2011	4d2b1177888af04deee4dcaf	{Southwest Flight 3858 to Reno}	{32.73128261,-117.19611741,,,United States}	{Travel & Transport,Airport,}
+803	Mon Jan 24 07:12:32 +0000 2011	4c2aadd0b34ad13aa5b9e8ce	{Going Crazy}	{32.73659458423607,-117.17941287078325,San Diego,CA,United States}	{Residence,}
+803	Mon Jan 24 01:39:14 +0000 2011	4a748fe0f964a5209cde1fe3	{Viejas Casino}	{32.84245729640804,-116.70381546020508,Alpine,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+803	Sat Jan 22 06:43:13 +0000 2011	4c56e992a31176b0e569d0bc	{Donovan's Prime Seafood}	{32.70867215488722,-117.16004823878589,San Diego,CA,United States}	{Nightlife Spot,Music Venue,Food,Arts & Entertainment,}
+803	Sat Jan 22 03:22:57 +0000 2011	4d3a4d7f34ee37049154769b	{Penthouse Party}	{32.707634733333336,-117.1590662,San Diego,CA,United States}	{}
+803	Fri Jan 21 20:32:10 +0000 2011	4b48ba91f964a520635426e3	{The Huddle}	{32.750378251075745,-117.17120110988617,San Diego,CA,United States}	{Food,}
+803	Fri Jan 21 16:32:03 +0000 2011	4a671a55f964a520eac81fe3	{FOX 5 San Diego}	{32.826749025604805,-117.16142177581787,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+803	Thu Jan 20 03:43:45 +0000 2011	4b36ed95f964a5204c3e25e3	{La Gran Tapa}	{32.71783264963244,-117.15896263936727,San Diego,CA,United States}	{Food,Arts & Entertainment,}
+803	Wed Jan 19 23:30:21 +0000 2011	4a612704f964a52000c21fe3	{El Cortez}	{32.7202026188099,-117.15806084076507,San Diego,CA,United States}	{Residence,Professional & Other Places,}
+803	Wed Jan 19 20:06:19 +0000 2011	4b48ba91f964a520635426e3	{The Huddle}	{32.750378251075745,-117.17120110988617,San Diego,CA,United States}	{Food,}
+803	Wed Jan 19 01:11:30 +0000 2011	4c0408159a7920a10fb3d079	{Taco Bell}	{32.75326770676474,-117.06444185626259,San Diego,CA,United States}	{Food,}
+803	Tue Jan 18 02:18:15 +0000 2011	4c1af01bb306c928ae8361b7	{Red Lobster}	{32.754870253566054,-117.21654653549194,San Diego,CA,United States}	{Food,}
+803	Mon Jan 17 10:16:24 +0000 2011	4b187338f964a520ded223e3	{ARCO}	{32.748531,-117.193311,San Diego,CA,United States}	{Shop & Service,Food,}
+803	Mon Jan 17 00:51:23 +0000 2011	4a748fe0f964a5209cde1fe3	{Viejas Casino}	{32.84245729640804,-116.70381546020508,Alpine,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+803	Sun Jan 16 21:13:10 +0000 2011	40ede000f964a520420a1fe3	{Borders Downtown}	{32.712391,-117.15939625,San Diego,CA,United States}	{College & University,Music Venue,Arts & Entertainment,}
+803	Sat Jan 15 17:43:19 +0000 2011	4d28a5d46e27a143084a1c24	{Southwest Flight Reno To San Diego}	{39.50478610588733,-119.77393953037104,Reno,NV,United States}	{Travel & Transport,Airport,}
+803	Thu Jan 13 02:18:12 +0000 2011	4d093f4500e6b1f765b911d7	{Fallen Angel Grill & Alehouse}	{38.93735573,-119.940689,South Lake Tahoe,CA,United States}	{Nightlife Spot,}
+803	Wed Jan 12 17:08:29 +0000 2011	45d1aba7f964a520b0421fe3	{Squaw Valley Ski Resort}	{39.196376142833955,-120.23506164550781,Olympic Valley,CA,United States}	{Travel & Transport,Outdoors & Recreation,Hotel,}
+803	Wed Jan 12 02:34:12 +0000 2011	4b624155f964a520d23e2ae3	{Black Bear Diner}	{39.50222,-119.801782,Reno,NV,United States}	{Food,}
+803	Tue Jan 11 16:07:25 +0000 2011	45d1aba7f964a520b0421fe3	{Squaw Valley Ski Resort}	{39.196376142833955,-120.23506164550781,Olympic Valley,CA,United States}	{Travel & Transport,Outdoors & Recreation,Hotel,}
+803	Mon Jan 10 23:25:59 +0000 2011	4b520a90f964a520676327e3	{Costco}	{39.11665447967821,-119.77708316056145,Carson City,NV,United States}	{Shop & Service,Food & Drink Shop,}
+803	Mon Jan 10 16:02:52 +0000 2011	49f5f596f964a520df6b1fe3	{Reno-Tahoe International Airport (RNO)}	{39.50581220760866,-119.77558851242065,Reno,NV,United States}	{Travel & Transport,Airport,}
+803	Mon Jan 10 14:03:46 +0000 2011	4d2b1177888af04deee4dcaf	{Southwest Flight 3858 to Reno}	{32.73128261,-117.19611741,,,United States}	{Travel & Transport,Airport,}
+803	Mon Jan 10 13:59:39 +0000 2011	4541114bf964a520433c1fe3	{San Diego International Airport (SAN)}	{32.73299611609881,-117.19931602478027,San Diego,CA,United States}	{Travel & Transport,}
+803	Mon Jan 10 12:52:33 +0000 2011	4c4672bc31e41b8d6f004a35	{Stuck Behind A Damn Train}	{32.71588167016103,-117.16966904014865,San Diego,CA,United States}	{Travel & Transport,Train Station,}
+803	Mon Jan 10 06:18:31 +0000 2011	40e0b100f964a520c7011fe3	{Bully's East Restaurant}	{32.767592957280385,-117.13839260317023,San Diego,CA,United States}	{Food,}
+803	Sun Jan 09 20:12:34 +0000 2011	4a6d8999f964a520c2d21fe3	{The Speakeasy Radio Show}	{32.73765337,-117.1758896112442,San Diego,CA,United States}	{Nightlife Spot,}
+803	Sun Jan 09 01:52:22 +0000 2011	4ac573a8f964a52015b220e3	{Bluefire Grill}	{33.09119964108658,-117.26488755168374,Carlsbad,CA,United States}	{Food,}
+803	Sat Jan 08 17:59:42 +0000 2011	4d28a5d46e27a143084a1c24	{Southwest Flight Reno To San Diego}	{39.50478610588733,-119.77393953037104,Reno,NV,United States}	{Travel & Transport,Airport,}
+803	Sat Jan 08 01:11:45 +0000 2011	4cf4c2911d18a1434db167ec	{Mountain Headquarters}	{38.96389077,-119.88525948,Stateline,NV,United States}	{Nightlife Spot,}
+803	Fri Jan 07 21:09:32 +0000 2011	4b916a92f964a520bfba33e3	{Boulder Lodge @ Heavenly}	{38.96612740614375,-119.89072613977163,Stateline,NV,United States}	{Outdoors & Recreation,Ski Area,}
+803	Wed Jan 05 06:17:18 +0000 2011	4cf4c2911d18a1434db167ec	{Mountain Headquarters}	{38.96389077,-119.88525948,Stateline,NV,United States}	{Nightlife Spot,}
+803	Wed Jan 05 03:54:43 +0000 2011	4d093f4500e6b1f765b911d7	{Fallen Angel Grill & Alehouse}	{38.93735573,-119.940689,South Lake Tahoe,CA,United States}	{Nightlife Spot,}
+803	Tue Jan 04 19:51:48 +0000 2011	4d11552490d0a143b40e9d09	{Heavenly Ski School At Boulder}	{38.96595610875801,-119.89015555892874,South Lake Tahoe,NV,United States}	{Outdoors & Recreation,}
+803	Tue Jan 04 04:42:01 +0000 2011	4b2dae74f964a52057da24e3	{IHOP}	{38.94969752699874,-119.95459357521727,South Lake Tahoe,CA,United States}	{Food,}
+803	Mon Jan 03 04:48:21 +0000 2011	4ba57451f964a520c30839e3	{Mo's Place}	{38.94751945,-119.9592681,South Lake Tahoe,CA,United States}	{Nightlife Spot,}
+803	Sun Jan 02 23:13:14 +0000 2011	4b3e4142f964a5203c9a25e3	{McP's Pub Tahoe}	{38.957639207896506,-119.94329977312833,South Lake Tahoe,CA,United States}	{Nightlife Spot,}
+803	Sun Jan 02 04:27:58 +0000 2011	4d093f4500e6b1f765b911d7	{Fallen Angel Grill & Alehouse}	{38.93735573,-119.940689,South Lake Tahoe,CA,United States}	{Nightlife Spot,}
+803	Sun Jan 02 00:40:18 +0000 2011	4cf4c2911d18a1434db167ec	{Mountain Headquarters}	{38.96389077,-119.88525948,Stateline,NV,United States}	{Nightlife Spot,}
+803	Sat Jan 01 19:55:17 +0000 2011	4d1f8692756e8cfaa8186454	{Tamarack Lodge}	{38.9363823220544,-119.90993242792109,South Lake Tahoe,CA,United States}	{Outdoors & Recreation,Ski Area,}
+803	Sat Jan 01 18:49:42 +0000 2011	4d422f72aed776eb05666a97	{Stagecoach Express}	{38.9601607795327,-119.8877376256905,Stateline,NV,United States}	{Outdoors & Recreation,Ski Area,}
+803	Sat Jan 01 18:08:53 +0000 2011	4d11552490d0a143b40e9d09	{Heavenly Ski School At Boulder}	{38.96595610875801,-119.89015555892874,South Lake Tahoe,NV,United States}	{Outdoors & Recreation,}
+803	Sat Jan 01 16:00:14 +0000 2011	4cf4c2911d18a1434db167ec	{Mountain Headquarters}	{38.96389077,-119.88525948,Stateline,NV,United States}	{Nightlife Spot,}
+803	Sat Jan 01 08:53:57 +0000 2011	4b48c1caf964a5209f5526e3	{McDonald's}	{38.949870330274756,-119.95538410633418,South Lake Tahoe,CA,United States}	{Food,}
+803	Sat Jan 01 05:16:39 +0000 2011	4d1eb88af7a9a1438ff31d9f	{Perfection party @ Mont Bleu}	{38.961745,-119.940001,,,United States}	{Nightlife Spot,}
+803	Fri Dec 31 09:23:49 +0000 2010	4cf4c2911d18a1434db167ec	{Mountain Headquarters}	{38.96389077,-119.88525948,Stateline,NV,United States}	{Nightlife Spot,}
+803	Fri Dec 31 02:15:00 +0000 2010	4d093f4500e6b1f765b911d7	{Fallen Angel Grill & Alehouse}	{38.93735573,-119.940689,South Lake Tahoe,CA,United States}	{Nightlife Spot,}
+803	Thu Dec 30 16:45:14 +0000 2010	4d11552490d0a143b40e9d09	{Heavenly Ski School At Boulder}	{38.96595610875801,-119.89015555892874,South Lake Tahoe,NV,United States}	{Outdoors & Recreation,}
+803	Thu Dec 30 16:43:58 +0000 2010	4cf4c2911d18a1434db167ec	{Mountain Headquarters}	{38.96389077,-119.88525948,Stateline,NV,United States}	{Nightlife Spot,}
+803	Thu Dec 30 06:18:37 +0000 2010	4ba57451f964a520c30839e3	{Mo's Place}	{38.94751945,-119.9592681,South Lake Tahoe,CA,United States}	{Nightlife Spot,}
+803	Wed Dec 29 19:54:39 +0000 2010	4d11552490d0a143b40e9d09	{Heavenly Ski School At Boulder}	{38.96595610875801,-119.89015555892874,South Lake Tahoe,NV,United States}	{Outdoors & Recreation,}
+803	Wed Dec 29 19:50:22 +0000 2010	4d422f72aed776eb05666a97	{Stagecoach Express}	{38.9601607795327,-119.8877376256905,Stateline,NV,United States}	{Outdoors & Recreation,Ski Area,}
+803	Wed Dec 29 07:12:14 +0000 2010	4cf4c2911d18a1434db167ec	{Mountain Headquarters}	{38.96389077,-119.88525948,Stateline,NV,United States}	{Nightlife Spot,}
+803	Wed Dec 29 06:29:53 +0000 2010	4bb2709f4019a5936ad536b8	{Fox & Hound}	{38.97023306503184,-119.88640435458345,Stateline,NV,United States}	{Nightlife Spot,}
+803	Tue Dec 28 17:44:19 +0000 2010	4d11552490d0a143b40e9d09	{Heavenly Ski School At Boulder}	{38.96595610875801,-119.89015555892874,South Lake Tahoe,NV,United States}	{Outdoors & Recreation,}
+803	Tue Dec 28 07:21:46 +0000 2010	4cf4c2911d18a1434db167ec	{Mountain Headquarters}	{38.96389077,-119.88525948,Stateline,NV,United States}	{Nightlife Spot,}
+803	Tue Dec 28 06:42:17 +0000 2010	4b3e4142f964a5203c9a25e3	{McP's Pub Tahoe}	{38.957639207896506,-119.94329977312833,South Lake Tahoe,CA,United States}	{Nightlife Spot,}
+803	Tue Dec 28 02:26:48 +0000 2010	4ba2ff00f964a520e02638e3	{Brooks' Bar & Deck at Edgewood Tahoe}	{38.967050250408334,-119.94933128356934,Stateline,NV,United States}	{Food,}
+803	Tue Dec 28 00:33:16 +0000 2010	4d0fca4271e8a1cd0bc27cbd	{UPS Store}	{38.97097681,-119.93435598,Stateline,NV,United States}	{Professional & Other Places,}
+803	Mon Dec 27 03:34:41 +0000 2010	4b80bff0f964a520f58930e3	{Whiskey Dick's}	{38.92772,-119.982291,South Lake Tahoe,CA,United States}	{Nightlife Spot,}
+803	Mon Dec 27 00:10:09 +0000 2010	4b3e4142f964a5203c9a25e3	{McP's Pub Tahoe}	{38.957639207896506,-119.94329977312833,South Lake Tahoe,CA,United States}	{Nightlife Spot,}
+803	Sun Dec 26 05:15:43 +0000 2010	4b3e4142f964a5203c9a25e3	{McP's Pub Tahoe}	{38.957639207896506,-119.94329977312833,South Lake Tahoe,CA,United States}	{Nightlife Spot,}
+803	Sun Dec 26 04:00:48 +0000 2010	4d16ae98cc216ea87b616ad3	{Up A Lot Of Stairs}	{38.967833,-119.88571,,,United States}	{Outdoors & Recreation,}
+803	Sat Dec 25 21:22:35 +0000 2010	4d11552490d0a143b40e9d09	{Heavenly Ski School At Boulder}	{38.96595610875801,-119.89015555892874,South Lake Tahoe,NV,United States}	{Outdoors & Recreation,}
+803	Sat Dec 25 06:35:10 +0000 2010	4cf4c2911d18a1434db167ec	{Mountain Headquarters}	{38.96389077,-119.88525948,Stateline,NV,United States}	{Nightlife Spot,}
+803	Sat Dec 25 04:55:21 +0000 2010	4b3e4142f964a5203c9a25e3	{McP's Pub Tahoe}	{38.957639207896506,-119.94329977312833,South Lake Tahoe,CA,United States}	{Nightlife Spot,}
+803	Sat Dec 25 02:20:40 +0000 2010	4b1b23f5f964a520c5f823e3	{Hard Rock Cafe Lake Tahoe}	{38.960510014078174,-119.94306564331055,Stateline,NV,United States}	{Shop & Service,Food,Arts & Entertainment,}
+803	Fri Dec 24 17:33:08 +0000 2010	4d11552490d0a143b40e9d09	{Heavenly Ski School At Boulder}	{38.96595610875801,-119.89015555892874,South Lake Tahoe,NV,United States}	{Outdoors & Recreation,}
+803	Fri Dec 24 01:55:07 +0000 2010	4d093f4500e6b1f765b911d7	{Fallen Angel Grill & Alehouse}	{38.93735573,-119.940689,South Lake Tahoe,CA,United States}	{Nightlife Spot,}
+803	Fri Dec 24 00:03:41 +0000 2010	4ba97c98f964a5200b2a3ae3	{Sushi Pier}	{38.97118763911975,-119.93441820144653,Stateline,NV,United States}	{Food,}
+803	Thu Dec 23 20:37:03 +0000 2010	4d11552490d0a143b40e9d09	{Heavenly Ski School At Boulder}	{38.96595610875801,-119.89015555892874,South Lake Tahoe,NV,United States}	{Outdoors & Recreation,}
+803	Thu Dec 23 15:20:34 +0000 2010	4cf4c2911d18a1434db167ec	{Mountain Headquarters}	{38.96389077,-119.88525948,Stateline,NV,United States}	{Nightlife Spot,}
+803	Thu Dec 23 03:23:11 +0000 2010	4d093f4500e6b1f765b911d7	{Fallen Angel Grill & Alehouse}	{38.93735573,-119.940689,South Lake Tahoe,CA,United States}	{Nightlife Spot,}
+803	Wed Dec 22 15:49:41 +0000 2010	4d11552490d0a143b40e9d09	{Heavenly Ski School At Boulder}	{38.96595610875801,-119.89015555892874,South Lake Tahoe,NV,United States}	{Outdoors & Recreation,}
+803	Wed Dec 22 04:13:26 +0000 2010	4ba57451f964a520c30839e3	{Mo's Place}	{38.94751945,-119.9592681,South Lake Tahoe,CA,United States}	{Nightlife Spot,}
+803	Wed Dec 22 02:15:44 +0000 2010	4b7e3441f964a520f9e52fe3	{Eagle's Nest}	{38.959592330580094,-119.89038705825806,Stateline,NV,United States}	{Outdoors & Recreation,Ski Area,}
+803	Wed Dec 22 01:32:31 +0000 2010	4d11552490d0a143b40e9d09	{Heavenly Ski School At Boulder}	{38.96595610875801,-119.89015555892874,South Lake Tahoe,NV,United States}	{Outdoors & Recreation,}
+803	Tue Dec 21 07:52:59 +0000 2010	4d105b15b765224b344eea32	{Lunar Eclipse}	{32.743748,-117.179449,,,United States}	{}
+803	Tue Dec 21 05:47:48 +0000 2010	4b3e4142f964a5203c9a25e3	{McP's Pub Tahoe}	{38.957639207896506,-119.94329977312833,South Lake Tahoe,CA,United States}	{Nightlife Spot,}
+803	Tue Dec 21 03:13:14 +0000 2010	4bb2709f4019a5936ad536b8	{Fox & Hound}	{38.97023306503184,-119.88640435458345,Stateline,NV,United States}	{Nightlife Spot,}
+803	Tue Dec 21 01:49:49 +0000 2010	4c8d280c55fba09302e065ab	{The Goalpost}	{38.96890106,-119.927946,Stateline,NV,United States}	{Nightlife Spot,}
+803	Mon Dec 20 21:27:55 +0000 2010	4d0fca4271e8a1cd0bc27cbd	{UPS Store}	{38.97097681,-119.93435598,Stateline,NV,United States}	{Professional & Other Places,}
+803	Mon Dec 20 17:47:59 +0000 2010	4b63ce41f964a52070922ae3	{Atlantis Casino Resort & Spa}	{39.488873475779414,-119.79475021362305,Reno,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+803	Mon Dec 20 17:47:39 +0000 2010	4d0b74a5d8d78cfa3ffe1cbe	{Atlantis Airport Shuttle}	{39.49054245539336,-119.79144344597312,Reno,NV,United States}	{Travel & Transport,Bus Station,}
+803	Mon Dec 20 16:56:21 +0000 2010	49f5f596f964a520df6b1fe3	{Reno-Tahoe International Airport (RNO)}	{39.50581220760866,-119.77558851242065,Reno,NV,United States}	{Travel & Transport,Airport,}
+803	Mon Dec 20 14:32:51 +0000 2010	4d0f68ded467236a6cf6bd4a	{Southwest Flight 255 to Reno, NV}	{32.732501251436105,-117.19608227076628,San Diego,CA,United States}	{Travel & Transport,Airport,}
+803	Mon Dec 20 14:24:56 +0000 2010	4541114bf964a520433c1fe3	{San Diego International Airport (SAN)}	{32.73299611609881,-117.19931602478027,San Diego,CA,United States}	{Travel & Transport,}
+803	Sat Dec 18 20:22:16 +0000 2010	4ba68ad8f964a520a05c39e3	{Alfred Angelo San Diego}	{32.831778,-117.130086,San Diego,CA,United States}	{Shop & Service,}
+803	Sat Dec 18 20:21:43 +0000 2010	4ae60b51f964a5204aa421e3	{The Coffee Bean & Tea Leaf?}	{32.83109213851276,-117.12849766016006,San Diego,CA,United States}	{Food,}
+803	Sat Dec 18 18:59:39 +0000 2010	4b1ac954f964a520c6f123e3	{Starbucks}	{32.72621688626663,-117.16945633292198,San Diego,CA,United States}	{Food,}
+803	Fri Dec 17 16:55:29 +0000 2010	4d0b95c25f86f04d72bbcca0	{Southwest Flight 227 to San Diego}	{39.50469305,-119.77376836,Reno,NV,United States}	{Travel & Transport,Airport,}
+803	Fri Dec 17 14:52:30 +0000 2010	49f5f596f964a520df6b1fe3	{Reno-Tahoe International Airport (RNO)}	{39.50581220760866,-119.77558851242065,Reno,NV,United States}	{Travel & Transport,Airport,}
+803	Fri Dec 17 14:27:09 +0000 2010	4b63ce41f964a52070922ae3	{Atlantis Casino Resort & Spa}	{39.488873475779414,-119.79475021362305,Reno,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+803	Thu Dec 16 07:01:22 +0000 2010	4b89d359f964a520584f32e3	{Men's Club}	{39.528813681178065,-119.81064659569253,Reno,NV,United States}	{Nightlife Spot,}
+803	Thu Dec 16 06:16:31 +0000 2010	4b651125f964a5206ee22ae3	{The Point}	{39.51988756656647,-119.84896867,Reno,NV,United States}	{}
+803	Thu Dec 16 03:39:38 +0000 2010	4bb2709f4019a5936ad536b8	{Fox & Hound}	{38.97023306503184,-119.88640435458345,Stateline,NV,United States}	{Nightlife Spot,}
+803	Thu Dec 16 03:39:15 +0000 2010	4cf4c2911d18a1434db167ec	{Mountain Headquarters}	{38.96389077,-119.88525948,Stateline,NV,United States}	{Nightlife Spot,}
+803	Thu Dec 16 02:10:35 +0000 2010	4d093f4500e6b1f765b911d7	{Fallen Angel Grill & Alehouse}	{38.93735573,-119.940689,South Lake Tahoe,CA,United States}	{Nightlife Spot,}
+803	Wed Dec 15 22:21:22 +0000 2010	4d093f4500e6b1f765b911d7	{Fallen Angel Grill & Alehouse}	{38.93735573,-119.940689,South Lake Tahoe,CA,United States}	{Nightlife Spot,}
+803	Wed Dec 15 22:13:41 +0000 2010	4b1d375df964a520230d24e3	{Heavenly Mountain Resort}	{38.93766261304909,-119.94161126938386,South Lake Tahoe,CA,United States}	{Travel & Transport,Outdoors & Recreation,Ski Area,Hotel,}
+803	Wed Dec 15 19:03:31 +0000 2010	4cf4c2911d18a1434db167ec	{Mountain Headquarters}	{38.96389077,-119.88525948,Stateline,NV,United States}	{Nightlife Spot,}
+803	Wed Dec 15 02:17:04 +0000 2010	4b624155f964a520d23e2ae3	{Black Bear Diner}	{39.50222,-119.801782,Reno,NV,United States}	{Food,}
+803	Wed Dec 15 01:33:19 +0000 2010	4b89d359f964a520584f32e3	{Men's Club}	{39.528813681178065,-119.81064659569253,Reno,NV,United States}	{Nightlife Spot,}
+803	Tue Dec 14 23:55:45 +0000 2010	4c6cd9131fb2a143a1abfce6	{Wild Orchid}	{39.51979,-119.81042504310608,Reno,NV,United States}	{Nightlife Spot,}
+803	Tue Dec 14 01:25:13 +0000 2010	4b935266f964a520ff3f34e3	{Fantasy Girls}	{39.53303352895341,-119.79961796971277,Reno,NV,United States}	{Nightlife Spot,}
+803	Mon Dec 13 21:49:47 +0000 2010	4b1d375df964a520230d24e3	{Heavenly Mountain Resort}	{38.93766261304909,-119.94161126938386,South Lake Tahoe,CA,United States}	{Travel & Transport,Outdoors & Recreation,Ski Area,Hotel,}
+803	Mon Dec 13 14:51:52 +0000 2010	4c2e58af66e40f47660fc08b	{AM/PM}	{37.36567676067352,-118.39511,Bishop,CA,United States}	{Shop & Service,}
+803	Mon Dec 13 10:23:58 +0000 2010	4b4dfc3cf964a5201bdd26e3	{McDonald's}	{34.047800583333334,-117.30943591,Colton,CA,United States}	{Food,}
+803	Mon Dec 13 09:00:06 +0000 2010	4bf6a46e9abec9b6782426e8	{Koll Center}	{32.71578908717338,-117.16770471030993,San Diego,CA,United States}	{Residence,Professional & Other Places,}
+803	Sat Dec 11 02:55:05 +0000 2010	4c56e992a31176b0e569d0bc	{Donovan's Prime Seafood}	{32.70867215488722,-117.16004823878589,San Diego,CA,United States}	{Nightlife Spot,Music Venue,Food,Arts & Entertainment,}
+803	Fri Dec 10 21:01:34 +0000 2010	4b48ba91f964a520635426e3	{The Huddle}	{32.750378251075745,-117.17120110988617,San Diego,CA,United States}	{Food,}
+803	Fri Dec 10 04:04:34 +0000 2010	4b6102c8f964a520f5052ae3	{Mark Condos LLC}	{32.71089017783126,-117.15698671877738,San Diego,CA,United States}	{Residence,}
+803	Wed Dec 08 20:25:18 +0000 2010	4b48ba91f964a520635426e3	{The Huddle}	{32.750378251075745,-117.17120110988617,San Diego,CA,United States}	{Food,}
+803	Wed Dec 08 04:55:01 +0000 2010	42aa2980f964a52022251fe3	{Extraordinary Desserts}	{32.720281111354645,-117.1657857298851,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Tue Dec 07 20:25:43 +0000 2010	4b48ba91f964a520635426e3	{The Huddle}	{32.750378251075745,-117.17120110988617,San Diego,CA,United States}	{Food,}
+803	Tue Dec 07 18:58:45 +0000 2010	4ba7dae0f964a5202ab939e3	{VA San Diego Regional Office}	{32.776984470197846,-117.14047210289618,San Diego,CA,United States}	{Professional & Other Places,}
+803	Mon Dec 06 20:47:29 +0000 2010	4b48ba91f964a520635426e3	{The Huddle}	{32.750378251075745,-117.17120110988617,San Diego,CA,United States}	{Food,}
+803	Mon Dec 06 19:40:03 +0000 2010	4c6aa85396f176b0202eb636	{Underground Elephant}	{32.709494,-117.158104,San Diego,CA,United States}	{}
+803	Sun Dec 05 19:06:53 +0000 2010	4b25a4ccf964a520ec7424e3	{Studio Diner}	{32.82512509154749,-117.12724221973312,San Diego,CA,United States}	{Food,}
+803	Sun Dec 05 16:54:36 +0000 2010	4baf61def964a520cefb3be3	{KUSI}	{32.82314310737124,-117.12272100088387,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+803	Sat Dec 04 01:16:21 +0000 2010	4c81800ed92ea093adc24172	{Embassy Suites}	{38.300454828224176,-122.3015028850635,Napa,CA,United States}	{Travel & Transport,Hotel,Professional & Other Places,}
+803	Fri Dec 03 03:48:08 +0000 2010	4ba57451f964a520c30839e3	{Mo's Place}	{38.94751945,-119.9592681,South Lake Tahoe,CA,United States}	{Nightlife Spot,}
+803	Thu Dec 02 17:19:42 +0000 2010	4b1d375df964a520230d24e3	{Heavenly Mountain Resort}	{38.93766261304909,-119.94161126938386,South Lake Tahoe,CA,United States}	{Travel & Transport,Outdoors & Recreation,Ski Area,Hotel,}
+803	Wed Dec 01 17:05:15 +0000 2010	4b1d375df964a520230d24e3	{Heavenly Mountain Resort}	{38.93766261304909,-119.94161126938386,South Lake Tahoe,CA,United States}	{Travel & Transport,Outdoors & Recreation,Ski Area,Hotel,}
+803	Wed Dec 01 05:39:22 +0000 2010	4b663f15f964a520871a2be3	{Rojo's Bar Tahoe}	{38.940950324555914,-119.97747194882177,South Lake Tahoe,CA,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+803	Tue Nov 30 18:58:44 +0000 2010	4cf54946e3b9a09370515353	{Les Schwab Tire Center}	{38.91198294939738,-120.00847469294972,South Lake Tahoe,CA,United States}	{Shop & Service,}
+803	Tue Nov 30 06:39:31 +0000 2010	4b3e4142f964a5203c9a25e3	{McP's Pub Tahoe}	{38.957639207896506,-119.94329977312833,South Lake Tahoe,CA,United States}	{Nightlife Spot,}
+803	Mon Nov 29 21:20:05 +0000 2010	4b1d375df964a520230d24e3	{Heavenly Mountain Resort}	{38.93766261304909,-119.94161126938386,South Lake Tahoe,CA,United States}	{Travel & Transport,Outdoors & Recreation,Ski Area,Hotel,}
+803	Mon Nov 29 17:26:50 +0000 2010	4b476ecdf964a520e53126e3	{Embassy Suites}	{38.95836021660217,-119.94124420058873,South Lake Tahoe,CA,United States}	{Travel & Transport,Shop & Service,Hotel,Gym / Fitness Center,}
+803	Sat Nov 27 22:25:30 +0000 2010	4ce6f91f867f60fcaa6836c3	{Spragueland Recording Studio}	{33.0692709,-117.29894202,Encinitas,CA,United States}	{Arts & Entertainment,}
+803	Sat Nov 27 04:07:32 +0000 2010	40e0b100f964a52049021fe3	{Jimmy Love's}	{32.712578,-117.160082,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Thu Nov 25 22:22:55 +0000 2010	4bf6a46e9abec9b6782426e8	{Koll Center}	{32.71578908717338,-117.16770471030993,San Diego,CA,United States}	{Residence,Professional & Other Places,}
+803	Tue Nov 23 22:20:38 +0000 2010	4b521a43f964a520096827e3	{Main Lodge - Mammoth Mountain}	{37.650495102547744,-119.0373158454895,Mammoth Lakes,CA,United States}	{Shop & Service,Outdoors & Recreation,Ski Area,}
+803	Tue Nov 23 05:22:13 +0000 2010	4b80c5d7f964a520498b30e3	{Clocktower Cellar Pub}	{37.6496116616765,-118.98296356201172,Mammoth Lakes,CA,United States}	{Nightlife Spot,}
+803	Tue Nov 23 04:32:03 +0000 2010	4b722067f964a520f96f2de3	{Rafters Restaurant}	{37.643045,-118.966636,Mammoth Lakes,CA,United States}	{Food,}
+803	Tue Nov 23 04:26:55 +0000 2010	4b65b8cbf964a520c2fb2ae3	{Footloose Sports}	{37.646475,-118.966435,Mammoth Lakes,CA,United States}	{Shop & Service,}
+803	Mon Nov 22 01:57:07 +0000 2010	4c8f0283daa93704438751b1	{The Apollo Room At The University Club}	{32.71800385,-117.15803146362305,San Diego,CA,United States}	{Nightlife Spot,}
+803	Sun Nov 21 21:44:05 +0000 2010	4a884918f964a520be0520e3	{Perry's Cafe}	{32.755844718875586,-117.20141887664795,San Diego,CA,United States}	{Food,}
+803	Sun Nov 21 08:03:19 +0000 2010	4ce8d221f86537048e76b3c4	{Rugcutter's Ball Parlor Party}	{32.76347889,-117.12121689,San Diego,CA,United States}	{Music Venue,Arts & Entertainment,}
+803	Sun Nov 21 07:57:11 +0000 2010	40e0b100f964a52090021fe3	{The Ould Sod}	{32.763260566666666,-117.121213,San Diego,CA,United States}	{Nightlife Spot,}
+803	Sun Nov 21 03:54:33 +0000 2010	4b9c9350f964a520017136e3	{LoungeSD}	{32.71243964850738,-117.15845717312395,San Diego,CA,United States}	{Arts & Entertainment,}
+803	Sat Nov 20 19:58:19 +0000 2010	4af03d06f964a520d7da21e3	{Bikram Yoga College of India}	{32.74485249128998,-117.19006364045666,San Diego,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+803	Sat Nov 20 03:14:12 +0000 2010	4ac573a8f964a52015b220e3	{Bluefire Grill}	{33.09119964108658,-117.26488755168374,Carlsbad,CA,United States}	{Food,}
+803	Fri Nov 19 22:28:12 +0000 2010	4ce6f91f867f60fcaa6836c3	{Spragueland Recording Studio}	{33.0692709,-117.29894202,Encinitas,CA,United States}	{Arts & Entertainment,}
+803	Fri Nov 19 19:08:08 +0000 2010	4bb274f8eb3e9521210dca0a	{iTAN}	{32.71255368872598,-117.16398277044343,San Diego,CA,United States}	{Shop & Service,}
+803	Fri Nov 19 05:14:51 +0000 2010	462386d4f964a520a4451fe3	{REI}	{32.838747844804516,-117.1630350434564,San Diego,CA,United States}	{Shop & Service,Clothing Store,Professional & Other Places,}
+803	Fri Nov 19 00:34:29 +0000 2010	4ac106b3f964a520779520e3	{Hansen Surfboards}	{33.037892222619874,-117.29250525965564,Encinitas,CA,United States}	{Shop & Service,}
+803	Thu Nov 18 01:22:12 +0000 2010	466c3737f964a520b0471fe3	{Todai}	{32.770962549453515,-117.1321482331065,San Diego,CA,United States}	{Food,}
+803	Tue Nov 16 07:44:48 +0000 2010	4a3d67f4f964a5203aa21fe3	{Las Hadas Bar and Grill}	{32.711080096073516,-117.16107639377437,San Diego,CA,United States}	{Food,}
+803	Tue Nov 16 04:13:57 +0000 2010	4ce204df825e721e14017f45	{Olde City Grill @ Plum Crazy}	{32.797656,-117.2505919,San Diego,CA,United States}	{Food,}
+803	Sun Nov 14 23:33:46 +0000 2010	4cdded3e78ddf04d83779798	{Del Mar Fairgrounds - Snow Jam}	{32.9731629,-117.26155905,Del Mar,CA,United States}	{Outdoors & Recreation,}
+803	Sun Nov 14 05:05:34 +0000 2010	4ac573a8f964a52015b220e3	{Bluefire Grill}	{33.09119964108658,-117.26488755168374,Carlsbad,CA,United States}	{Food,}
+803	Sat Nov 13 21:27:41 +0000 2010	4cdded3e78ddf04d83779798	{Del Mar Fairgrounds - Snow Jam}	{32.9731629,-117.26155905,Del Mar,CA,United States}	{Outdoors & Recreation,}
+803	Fri Nov 12 20:59:40 +0000 2010	4aff02ebf964a520ee3222e3	{Snow Jam}	{32.97376475,-117.25816901666667,Del Mar,CA,United States}	{}
+803	Fri Nov 12 06:30:51 +0000 2010	4cd216d7fd42199c77dfc56e	{Boudoir Night Club}	{32.7168005617562,-117.15815274398908,San Diego,CA,United States}	{Nightlife Spot,}
+803	Fri Nov 12 05:08:26 +0000 2010	42951180f964a5203b241fe3	{W San Diego}	{32.717741914159596,-117.16683741247434,San Diego,CA,United States}	{Travel & Transport,Food,Hotel,}
+803	Thu Nov 11 07:25:37 +0000 2010	4c2ec9483896e21e95fae290	{DJ JIFFYS OFFICE @ THE DOUBLE DEUCE}	{32.71377772,-117.15945753333334,San Diego,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,Professional & Other Places,}
+803	Thu Nov 11 05:45:25 +0000 2010	4c32fe5616adc928fbe0c29c	{V Lounge -Viejas Casino}	{32.84232208642385,-116.70586466789246,Alpine,CA,United States}	{Nightlife Spot,}
+803	Mon Nov 08 01:10:49 +0000 2010	43d2640df964a520122e1fe3	{Ono Sushi}	{32.74873448633905,-117.15261340141296,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Sun Nov 07 21:47:41 +0000 2010	4cc62f9a3d7fa1cd7f31b65f	{Adventure Ski & Snowboard School}	{33.03815666,-117.292148,Encinitas,CA,United States}	{Outdoors & Recreation,}
+803	Sun Nov 07 09:05:12 +0000 2010	4c5ad4356407d13abc8ab528	{Signature Sound}	{32.8336712,-117.159855,San Diego,CA,United States}	{Professional & Other Places,}
+803	Sun Nov 07 00:55:07 +0000 2010	4ac573a8f964a52015b220e3	{Bluefire Grill}	{33.09119964108658,-117.26488755168374,Carlsbad,CA,United States}	{Food,}
+803	Sat Nov 06 01:56:28 +0000 2010	4a5d5b65f964a52094bd1fe3	{The US Grant Hotel}	{32.715900953391824,-117.16152369976044,San Diego,CA,United States}	{Nightlife Spot,Travel & Transport,Arts & Entertainment,}
+803	Fri Nov 05 05:13:58 +0000 2010	4c507a99c71876b0181bd855	{Sapphire Rooms}	{32.70344603364776,-117.15840547764239,San Diego,CA,United States}	{Convention Center,Professional & Other Places,}
+803	Sun Oct 31 10:21:11 +0000 2010	4b716937f964a52047452de3	{Denny's}	{32.832247635795845,-117.13806516621307,San Diego,CA,United States}	{Food,}
+803	Sun Oct 31 02:06:30 +0000 2010	4ac573a8f964a52015b220e3	{Bluefire Grill}	{33.09119964108658,-117.26488755168374,Carlsbad,CA,United States}	{Food,}
+803	Sat Oct 30 23:09:09 +0000 2010	4cc62f9a3d7fa1cd7f31b65f	{Adventure Ski & Snowboard School}	{33.03815666,-117.292148,Encinitas,CA,United States}	{Outdoors & Recreation,}
+803	Thu Oct 28 06:49:55 +0000 2010	4c622f6aedb29c741add26a7	{the dj's office @ Pure Platinum Harborside}	{32.729140520095825,-117.17314839363098,San Diego,CA,United States}	{Nightlife Spot,}
+803	Wed Oct 27 07:52:02 +0000 2010	41463480f964a520b51c1fe3	{Henry's Pub & Restaurant}	{32.7118595777163,-117.16008844606122,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Wed Oct 27 05:46:10 +0000 2010	4a42e5dbf964a5205fa61fe3	{Reading Cinemas Gaslamp 15}	{32.712588096172766,-117.15969786076663,San Diego,CA,United States}	{Arts & Entertainment,Movie Theater,}
+803	Tue Oct 26 02:44:24 +0000 2010	4aafe756f964a520186520e3	{La Especial Norte}	{33.061276,-117.301398,Encinitas,CA,United States}	{Food,}
+803	Tue Oct 26 02:41:39 +0000 2010	4cc62f9a3d7fa1cd7f31b65f	{Adventure Ski & Snowboard School}	{33.03815666,-117.292148,Encinitas,CA,United States}	{Outdoors & Recreation,}
+803	Sat Oct 23 20:01:10 +0000 2010	4a3547c1f964a520b89c1fe3	{RA Sushi Bar Restaurant}	{32.715704714144934,-117.16048477449557,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Fri Oct 22 05:41:33 +0000 2010	450ec337f964a52066391fe3	{Kearny Mesa Bowl}	{32.83153690453264,-117.15619979160743,San Diego,CA,United States}	{Arts & Entertainment,}
+803	Fri Oct 22 03:29:35 +0000 2010	4c47d25c699476b05f71b321	{La Focaccia Gourmet Pizza and Organic Salads}	{32.748274,-117.16116523333334,San Diego,CA,United States}	{Food,}
+803	Wed Oct 20 05:53:37 +0000 2010	4b521a43f964a520096827e3	{Main Lodge - Mammoth Mountain}	{37.650495102547744,-119.0373158454895,Mammoth Lakes,CA,United States}	{Shop & Service,Outdoors & Recreation,Ski Area,}
+803	Tue Oct 19 21:29:06 +0000 2010	4b3e4142f964a5203c9a25e3	{McP's Pub Tahoe}	{38.957639207896506,-119.94329977312833,South Lake Tahoe,CA,United States}	{Nightlife Spot,}
+803	Sun Oct 17 01:57:09 +0000 2010	40e0b100f964a52049021fe3	{Jimmy Love's}	{32.712578,-117.160082,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Fri Oct 15 18:11:50 +0000 2010	4af03d06f964a520d7da21e3	{Bikram Yoga College of India}	{32.74485249128998,-117.19006364045666,San Diego,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+803	Wed Oct 13 17:45:28 +0000 2010	4cb08451562d224b40e91688	{Rex Ranch Resort}	{31.70144016099772,-111.04627648680766,Amado,AZ,United States}	{Travel & Transport,Hotel,}
+803	Fri Oct 08 19:33:35 +0000 2010	4af03d06f964a520d7da21e3	{Bikram Yoga College of India}	{32.74485249128998,-117.19006364045666,San Diego,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+803	Thu Oct 07 20:25:20 +0000 2010	4a68a565f964a520bfca1fe3	{Cafe Bassam}	{32.737526597024754,-117.16047763824463,San Diego,CA,United States}	{Food,Arts & Entertainment,}
+803	Wed Oct 06 21:57:20 +0000 2010	4a77c1baf964a52019e51fe3	{Olde City Grill}	{32.797183,-117.25219309329987,San Diego,CA,United States}	{Food,}
+803	Tue Oct 05 05:34:25 +0000 2010	4a67982bf964a520bcc91fe3	{Voyeur}	{32.713246022718685,-117.16003598813012,San Diego,CA,United States}	{Nightlife Spot,}
+803	Fri Oct 01 17:47:07 +0000 2010	4af03d06f964a520d7da21e3	{Bikram Yoga College of India}	{32.74485249128998,-117.19006364045666,San Diego,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+803	Thu Sep 30 05:55:52 +0000 2010	4c9a90cbd4b1b1f79e62d135	{Club Expose}	{32.8349888,-117.138423,San Diego,CA,United States}	{Nightlife Spot,}
+803	Mon Sep 27 23:27:58 +0000 2010	4af03d06f964a520d7da21e3	{Bikram Yoga College of India}	{32.74485249128998,-117.19006364045666,San Diego,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+803	Mon Sep 27 22:43:32 +0000 2010	4c8f0283daa93704438751b1	{The Apollo Room At The University Club}	{32.71800385,-117.15803146362305,San Diego,CA,United States}	{Nightlife Spot,}
+803	Wed Sep 22 21:03:33 +0000 2010	4c9a6e9f78fc236a986a3597	{Mr. Ticket Law Office}	{32.750081,-117.15648857,San Diego,CA,United States}	{Professional & Other Places,}
+803	Wed Sep 22 16:07:37 +0000 2010	4af03d06f964a520d7da21e3	{Bikram Yoga College of India}	{32.74485249128998,-117.19006364045666,San Diego,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+803	Tue Sep 21 04:54:43 +0000 2010	4af03d06f964a520d7da21e3	{Bikram Yoga College of India}	{32.74485249128998,-117.19006364045666,San Diego,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+803	Tue Sep 21 01:46:00 +0000 2010	429ba900f964a5208f241fe3	{Bronx Pizza}	{32.749799,-117.16347007,San Diego,CA,United States}	{Food,}
+803	Sat Sep 18 00:28:44 +0000 2010	4ac573a8f964a52015b220e3	{Bluefire Grill}	{33.09119964108658,-117.26488755168374,Carlsbad,CA,United States}	{Food,}
+803	Thu Sep 16 01:29:42 +0000 2010	4bf3650b706e20a17c3ea898	{Totem Cafe}	{36.605038566666664,-118.0632472,Lone Pine,CA,United States}	{Food,}
+803	Tue Sep 14 16:13:38 +0000 2010	4ba3dc9af964a520aa6738e3	{The Mt. Whitney Restaurant}	{36.604447,-118.06296406666667,Lone Pine,CA,United States}	{Food,}
+803	Mon Sep 13 01:58:34 +0000 2010	4c7de49710916dcb2fea2a96	{San Diego Music Awards}	{32.71676069,-117.2236704826355,San Diego,CA,United States}	{Arts & Entertainment,}
+803	Sun Sep 12 16:54:44 +0000 2010	4af03d06f964a520d7da21e3	{Bikram Yoga College of India}	{32.74485249128998,-117.19006364045666,San Diego,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+803	Sat Sep 11 21:09:45 +0000 2010	4aedf8e3f964a520cad021e3	{Coronado Ferry Landing}	{32.69903725556363,-117.16972589492798,Coronado,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+803	Sat Sep 11 08:31:53 +0000 2010	4bf41521ff90c9b6c1ce5428	{Studio West}	{33.01127423333333,-117.09377803333334,San Diego,CA,United States}	{Professional & Other Places,}
+803	Sat Sep 11 03:14:16 +0000 2010	4ac573a8f964a52015b220e3	{Bluefire Grill}	{33.09119964108658,-117.26488755168374,Carlsbad,CA,United States}	{Food,}
+803	Fri Sep 10 00:43:29 +0000 2010	44533d88f964a520ab321fe3	{Yoshino Japanese Restaurant}	{32.74370320684175,-117.18133975656309,San Diego,CA,United States}	{Food,}
+803	Thu Sep 09 07:08:26 +0000 2010	4b11c0d2f964a520de8323e3	{UA Horton Plaza 14}	{32.71428513756385,-117.16179728507996,San Diego,CA,United States}	{Arts & Entertainment,Movie Theater,}
+803	Sun Sep 05 04:26:57 +0000 2010	4bbe948bb083a5937451a2e9	{Humphreys Backstage Live}	{32.71638840046424,-117.22407817840576,San Diego,CA,United States}	{Arts & Entertainment,}
+803	Fri Sep 03 19:56:30 +0000 2010	4b060e4af964a5200fe822e3	{Banana Leaf}	{32.749289429730304,-117.1602737903595,San Diego,CA,United States}	{Food,}
+803	Wed Sep 01 05:47:34 +0000 2010	4c7de8cfd598a0931569c462	{Riley's Music Lounge}	{32.728064613762754,-117.22547796072652,San Diego,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+803	Sun Aug 29 00:05:04 +0000 2010	4a356252f964a520e89c1fe3	{Hotel del Coronado}	{32.68061715694381,-117.17779397964478,Coronado,CA,United States}	{Travel & Transport,Hotel,}
+803	Sat Aug 28 16:59:12 +0000 2010	4af03d06f964a520d7da21e3	{Bikram Yoga College of India}	{32.74485249128998,-117.19006364045666,San Diego,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+803	Fri Aug 27 05:24:27 +0000 2010	4a6d8999f964a520c2d21fe3	{The Speakeasy Radio Show}	{32.73765337,-117.1758896112442,San Diego,CA,United States}	{Nightlife Spot,}
+803	Thu Aug 26 22:56:37 +0000 2010	4b181c14f964a5200fcd23e3	{Bank of America}	{32.715795,-117.169023,San Diego,CA,United States}	{Shop & Service,}
+803	Tue Aug 24 22:50:03 +0000 2010	4ba58da5f964a520c51139e3	{Kojack's Gyros}	{32.77206936030457,-117.25246953911012,San Diego,CA,United States}	{Food,}
+803	Mon Aug 23 04:39:11 +0000 2010	40e0b100f964a52049021fe3	{Jimmy Love's}	{32.712578,-117.160082,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Mon Aug 23 03:15:35 +0000 2010	4af03d06f964a520d7da21e3	{Bikram Yoga College of India}	{32.74485249128998,-117.19006364045666,San Diego,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+803	Sun Aug 22 05:10:37 +0000 2010	4bfca036f7c82d7fe51f8d04	{Tommy V's Del Mar}	{32.983086705207825,-117.22952763333333,Del Mar,CA,United States}	{Food,}
+803	Sat Aug 21 05:52:27 +0000 2010	49dbc3e2f964a520fd5e1fe3	{AMC Fashion Valley 18}	{32.76762768674112,-117.16603517532349,San Diego,CA,United States}	{Arts & Entertainment,Movie Theater,}
+803	Sat Aug 21 01:31:06 +0000 2010	4c6f0fb9fa49a1cdc3e7a1e3	{Best Of San Diego Magazine Party}	{32.738294818711466,-117.214455,San Diego,CA,United States}	{Arts & Entertainment,}
+803	Fri Aug 20 12:20:01 +0000 2010	4aa9dde9f964a520755520e3	{General Mitchell International Airport (MKE)}	{42.947737434933686,-87.9019546508789,Milwaukee,WI,United States}	{Travel & Transport,}
+803	Thu Aug 19 20:40:38 +0000 2010	40dcbc80f964a52081011fe3	{Wrigley Field}	{41.94825586972943,-87.65547037124634,Chicago,IL,United States}	{Stadium,Arts & Entertainment,}
+803	Thu Aug 19 17:28:23 +0000 2010	40dcbc80f964a52081011fe3	{Wrigley Field}	{41.94825586972943,-87.65547037124634,Chicago,IL,United States}	{Stadium,Arts & Entertainment,}
+803	Wed Aug 18 04:25:31 +0000 2010	4b6cadd8f964a520994b2ce3	{Partners Pub & Grill}	{44.530816587397084,-89.56207224677813,Stevens Point,WI,United States}	{Nightlife Spot,Residence,}
+803	Tue Aug 17 16:35:07 +0000 2010	4b7c3c74f964a5204e862fe3	{South Point Restaurant}	{44.506017565727234,-89.56751525402069,Stevens Point,WI,United States}	{Food,}
+803	Mon Aug 16 20:42:22 +0000 2010	4c2fb46ced37a59348c66703	{Flood Zone}	{39.5737739469945,-74.23556327819824,Long Beach,NJ,United States}	{Nightlife Spot,}
+803	Sun Aug 15 23:24:14 +0000 2010	4a74fb1bf964a52031e01fe3	{The Safe House}	{43.04049279417474,-87.91021049022675,Milwaukee,WI,United States}	{Nightlife Spot,}
+803	Sun Aug 15 22:25:11 +0000 2010	4aa9dde9f964a520755520e3	{General Mitchell International Airport (MKE)}	{42.947737434933686,-87.9019546508789,Milwaukee,WI,United States}	{Travel & Transport,}
+803	Sat Aug 14 19:18:08 +0000 2010	4b5202d3f964a5202d6127e3	{Bino's Coffees}	{32.68245598099025,-117.17723325673737,Coronado,CA,United States}	{Food,}
+803	Fri Aug 13 04:05:20 +0000 2010	4ac47274f964a520b69e20e3	{Fat City Steakhouse and Tropical Courtyard}	{32.72595667342018,-117.17167929967674,San Diego,CA,United States}	{Food,}
+803	Tue Aug 10 22:29:12 +0000 2010	4c24bd5ef1272d7f617d83c5	{VA Emergency Room}	{32.876383319234,-117.23575022896314,San Diego,CA,United States}	{Medical Center,Professional & Other Places,}
+803	Tue Aug 10 22:24:38 +0000 2010	4adcced9f964a520073021e3	{VA Medical Center}	{32.8748754495503,-117.23250036711886,San Diego,CA,United States}	{Medical Center,Professional & Other Places,}
+803	Tue Aug 10 06:14:33 +0000 2010	4b9eb907f964a520a0fc36e3	{Rotten Robbie}	{37.10279134631559,-121.01530824314112,Santa Nella,CA,United States}	{Shop & Service,}
+803	Mon Aug 09 23:42:52 +0000 2010	4b845706f964a520b12f31e3	{Mount Shasta}	{41.421683811655505,-122.3850260936654,Weed,CA,United States}	{Outdoors & Recreation,}
+803	Mon Aug 09 20:28:17 +0000 2010	4c606278cd522d7f4300ce3f	{Wheel Cafe}	{43.215367,-121.783085,Chemult,OR,United States}	{Food,}
+803	Sun Aug 08 23:28:55 +0000 2010	4c5ddc8094fd0f4743becc45	{Jade's Jazz Festival}	{43.66582273682821,-121.5076732635498,La Pine,OR,United States}	{}
+803	Sat Aug 07 22:22:40 +0000 2010	4c5ddc8094fd0f4743becc45	{Jade's Jazz Festival}	{43.66582273682821,-121.5076732635498,La Pine,OR,United States}	{}
+803	Sat Aug 07 20:46:12 +0000 2010	4c449d14f0bdd13a0bd3c9cc	{Big Mountain Cafe}	{43.218692,-121.7846047,Crescent Lake,OR,United States}	{Food,}
+803	Sat Aug 07 07:12:26 +0000 2010	4c00295bf61ea5931c6eeb13	{I-5 (Golden State Freeway)}	{34.247301898783704,-118.42517137527466,Southern California,CA,United States}	{Travel & Transport,}
+803	Thu Aug 05 05:43:00 +0000 2010	4b518a42f964a520404f27e3	{Emerald Asian Cuisine}	{32.841837483333336,-116.705902,Alpine,CA,United States}	{Food,}
+803	Mon Aug 02 02:17:27 +0000 2010	40e0b100f964a52049021fe3	{Jimmy Love's}	{32.712578,-117.160082,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Sun Aug 01 20:14:10 +0000 2010	4b15503df964a5202eb023e3	{Petco Park}	{32.707559779610634,-117.15702295303345,San Diego,CA,United States}	{Stadium,Arts & Entertainment,}
+803	Sat Jul 31 07:57:02 +0000 2010	4c12742b583c9c7489433fa4	{Searsucker}	{32.71173216869795,-117.16005398268287,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Sat Jul 31 01:56:31 +0000 2010	4ac573a8f964a52015b220e3	{Bluefire Grill}	{33.09119964108658,-117.26488755168374,Carlsbad,CA,United States}	{Food,}
+803	Thu Jul 29 06:54:54 +0000 2010	4ac05930f964a520319420e3	{Ghiradelli Ice Cream & Chocolate Shop}	{32.712183,-117.159838,San Diego,CA,United States}	{Food,}
+803	Wed Jul 28 23:49:54 +0000 2010	4bcd228f937ca5930c78ac92	{Giant Dipper Rollercoaster}	{32.77135352278477,-117.25162982940674,San Diego,CA,United States}	{Arts & Entertainment,}
+803	Wed Jul 28 22:51:44 +0000 2010	4a7e86ccf964a520fbf11fe3	{Sandbar Sports Grill}	{32.772142,-117.25241227,San Diego,CA,United States}	{Nightlife Spot,}
+803	Wed Jul 28 09:11:47 +0000 2010	466f0b44f964a520bd471fe3	{La Posta de Acapulco's}	{32.74978272,-117.162962,San Diego,CA,United States}	{Food,}
+803	Tue Jul 27 07:23:25 +0000 2010	4b187338f964a520ded223e3	{ARCO}	{32.748531,-117.193311,San Diego,CA,United States}	{Shop & Service,Food,}
+803	Sun Jul 25 23:54:40 +0000 2010	4a8ce5caf964a5204d0f20e3	{Mission Gorge}	{32.817908802687164,-117.05604314804077,San Diego,CA,United States}	{Outdoors & Recreation,}
+803	Sun Jul 25 18:44:03 +0000 2010	49dbc3e2f964a520fd5e1fe3	{AMC Fashion Valley 18}	{32.76762768674112,-117.16603517532349,San Diego,CA,United States}	{Arts & Entertainment,Movie Theater,}
+803	Sun Jul 25 03:29:04 +0000 2010	4bfca036f7c82d7fe51f8d04	{Tommy V's Del Mar}	{32.983086705207825,-117.22952763333333,Del Mar,CA,United States}	{Food,}
+803	Sat Jul 24 22:06:29 +0000 2010	46a6a0b3f964a52045491fe3	{San Diego Comic-Con International 2010}	{32.70700006253934,-117.16185092926025,San Diego,CA,United States}	{Shop & Service,Arts & Entertainment,Professional & Other Places,}
+803	Fri Jul 23 22:40:35 +0000 2010	4c16850ddaf42d7f7e4b4466	{Submarina}	{32.82163253263521,-117.1002459526062,San Diego,CA,United States}	{Food,}
+803	Fri Jul 23 03:55:09 +0000 2010	4c4672bc31e41b8d6f004a35	{Stuck Behind A Damn Train}	{32.71588167016103,-117.16966904014865,San Diego,CA,United States}	{Travel & Transport,Train Station,}
+803	Thu Jul 22 01:39:06 +0000 2010	4bfca036f7c82d7fe51f8d04	{Tommy V's Del Mar}	{32.983086705207825,-117.22952763333333,Del Mar,CA,United States}	{Food,}
+803	Wed Jul 21 22:49:20 +0000 2010	43052100f964a52020271fe3	{Del Mar Racetrack}	{32.97345991420324,-117.26214408874512,Del Mar,CA,United States}	{Food,Arts & Entertainment,}
+803	Tue Jul 20 05:40:58 +0000 2010	4ade5d57f964a520597521e3	{Parkway Bowl}	{32.808233588370584,-116.97791576385498,El Cajon,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+803	Tue Jul 20 02:04:43 +0000 2010	4aa04c69f964a520083f20e3	{AMC Mission Valley 20}	{32.76822310926663,-117.1486759185791,San Diego,CA,United States}	{Arts & Entertainment,Movie Theater,}
+803	Mon Jul 19 14:29:59 +0000 2010	4bfca036f7c82d7fe51f8d04	{Tommy V's Del Mar}	{32.983086705207825,-117.22952763333333,Del Mar,CA,United States}	{Food,}
+803	Sun Jul 18 02:44:33 +0000 2010	4bfca036f7c82d7fe51f8d04	{Tommy V's Del Mar}	{32.983086705207825,-117.22952763333333,Del Mar,CA,United States}	{Food,}
+803	Sat Jul 17 23:59:20 +0000 2010	4a8747bcf964a520980320e3	{Trattoria Fantastica}	{32.723494,-117.168313,San Diego,CA,United States}	{Food,}
+803	Sat Jul 17 20:02:14 +0000 2010	4e21b8f4b61cdcf1ecc0605c	{San Diego Pride Parade}	{32.748377,-117.156267,San Diego,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+803	Sat Jul 17 02:25:48 +0000 2010	4ac573a8f964a52015b220e3	{Bluefire Grill}	{33.09119964108658,-117.26488755168374,Carlsbad,CA,United States}	{Food,}
+803	Fri Jul 16 20:24:01 +0000 2010	4aa56694f964a520304820e3	{Osaka Japanese Food & Sushi}	{32.780282221238316,-117.10317004103695,San Diego,CA,United States}	{Food,}
+803	Fri Jul 16 00:22:27 +0000 2010	4a908562f964a520531820e3	{Lake Cuyamaca}	{32.986779893387755,-116.58073425292969,Julian,CA,United States}	{Outdoors & Recreation,}
+803	Thu Jul 15 02:17:31 +0000 2010	40e0b100f964a52049021fe3	{Jimmy Love's}	{32.712578,-117.160082,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Tue Jul 13 21:42:41 +0000 2010	4c1aa3acb9f876b002fd7846	{The Ketch Bar & Restaurant}	{39.56649746666667,-74.24449505,Beach Haven,NJ,United States}	{Nightlife Spot,Food,}
+803	Mon Jul 12 21:09:10 +0000 2010	4bfff48792a6c928375f43e2	{Terrace Tavern}	{39.585549198510286,-74.22401905059814,Beach Haven,NJ,United States}	{Nightlife Spot,Food,}
+803	Sun Jul 11 19:22:18 +0000 2010	4b8aead2f964a520fc8832e3	{Beach Haven, LBI}	{39.56312157512605,-74.2342758178711,Beach Haven,NJ,United States}	{Outdoors & Recreation,}
+803	Sun Jul 11 18:04:16 +0000 2010	4c2fac2b452620a1e9f91d0f	{Panzone's Pizza}	{39.570981255579504,-74.23511909597474,Beach Haven,NJ,United States}	{Food,}
+803	Sun Jul 11 02:22:54 +0000 2010	4b4fcc1cf964a520cb1527e3	{P.J. Whelihan's Cherry Hill}	{39.905341476722285,-74.97207641601562,Cherry Hill,NJ,United States}	{Nightlife Spot,}
+803	Sun Jul 11 00:49:05 +0000 2010	4c2fb46ced37a59348c66703	{Flood Zone}	{39.5737739469945,-74.23556327819824,Long Beach,NJ,United States}	{Nightlife Spot,}
+803	Sat Jul 10 21:37:46 +0000 2010	4b5b7adaf964a520660129e3	{Thunderbird Lanes}	{39.68598502970396,-74.23737727054376,Manahawkin,NJ,United States}	{Arts & Entertainment,}
+803	Fri Jul 09 19:56:18 +0000 2010	4c018a410bce20a16af1f6c6	{34th Street Beach}	{39.249935516522385,-74.60884094238281,Ocean City,NJ,United States}	{Outdoors & Recreation,}
+803	Thu Jul 08 05:35:21 +0000 2010	4c00cc1c9cf52d7fdf5a14e7	{Wawa}	{39.904106943471206,-74.80516791343689,Medford,NJ,United States}	{Shop & Service,Food,}
+803	Wed Jul 07 19:39:49 +0000 2010	4c2fb46ced37a59348c66703	{Flood Zone}	{39.5737739469945,-74.23556327819824,Long Beach,NJ,United States}	{Nightlife Spot,}
+803	Wed Jul 07 04:44:14 +0000 2010	4b3e5adaf964a520cb9b25e3	{Benjamin Franklin Bridge}	{39.952878764070974,-75.13436079025269,Philadelphia,PA,United States}	{Travel & Transport,Outdoors & Recreation,}
+803	Tue Jul 06 21:03:55 +0000 2010	411c0480f964a5201a0c1fe3	{Philadelphia International Airport (PHL)}	{39.87700745276243,-75.2424430847168,Philadelphia,PA,United States}	{Travel & Transport,}
+803	Tue Jul 06 17:39:58 +0000 2010	4a198a3ef964a520237a1fe3	{Chicago Midway International Airport (MDW)}	{41.78790499530704,-87.74070024490356,Chicago,IL,United States}	{Travel & Transport,}
+803	Tue Jul 06 01:15:26 +0000 2010	4bfca036f7c82d7fe51f8d04	{Tommy V's Del Mar}	{32.983086705207825,-117.22952763333333,Del Mar,CA,United States}	{Food,}
+803	Mon Jul 05 22:09:51 +0000 2010	466bbf32f964a520a5471fe3	{San Diego County Fair}	{32.97403156757355,-117.260442,Del Mar,CA,United States}	{Arts & Entertainment,}
+803	Sun Jul 04 21:18:49 +0000 2010	4b15503df964a5202eb023e3	{Petco Park}	{32.707559779610634,-117.15702295303345,San Diego,CA,United States}	{Stadium,Arts & Entertainment,}
+803	Sun Jul 04 16:23:43 +0000 2010	4a68e7e9f964a5203bcb1fe3	{La Costa Resort and Spa}	{33.09118200345468,-117.26607084274292,Carlsbad,CA,United States}	{Travel & Transport,Shop & Service,Hotel,Clothing Store,}
+803	Sun Jul 04 02:56:26 +0000 2010	4bfca036f7c82d7fe51f8d04	{Tommy V's Del Mar}	{32.983086705207825,-117.22952763333333,Del Mar,CA,United States}	{Food,}
+803	Sun Jul 04 00:56:47 +0000 2010	4a6d8999f964a520c2d21fe3	{The Speakeasy Radio Show}	{32.73765337,-117.1758896112442,San Diego,CA,United States}	{Nightlife Spot,}
+803	Sat Jul 03 06:47:52 +0000 2010	40e0b100f964a52049021fe3	{Jimmy Love's}	{32.712578,-117.160082,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Sat Jul 03 01:56:41 +0000 2010	4ac573a8f964a52015b220e3	{Bluefire Grill}	{33.09119964108658,-117.26488755168374,Carlsbad,CA,United States}	{Food,}
+803	Fri Jul 02 22:58:37 +0000 2010	466bbf32f964a520a5471fe3	{San Diego County Fair}	{32.97403156757355,-117.260442,Del Mar,CA,United States}	{Arts & Entertainment,}
+803	Fri Jul 02 08:43:02 +0000 2010	4c2aadd0b34ad13aa5b9e8ce	{Going Crazy}	{32.73659458423607,-117.17941287078325,San Diego,CA,United States}	{Residence,}
+803	Fri Jul 02 06:47:59 +0000 2010	4a693d42f964a520d2cb1fe3	{Prohibition Liquor Bar}	{32.71120335125421,-117.16011142164359,San Diego,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+803	Fri Jul 02 05:40:43 +0000 2010	4bfca036f7c82d7fe51f8d04	{Tommy V's Del Mar}	{32.983086705207825,-117.22952763333333,Del Mar,CA,United States}	{Food,}
+803	Thu Jul 01 08:12:06 +0000 2010	4c5ce979d25320a197c9c47a	{Pure Platinum Harborside}	{32.729327481960624,-117.17339662000775,San Diego,CA,United States}	{Nightlife Spot,}
+803	Thu Jul 01 02:34:59 +0000 2010	40e0b100f964a52049021fe3	{Jimmy Love's}	{32.712578,-117.160082,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Wed Jun 30 18:47:09 +0000 2010	4234d400f964a52010201fe3	{The Westin San Diego Gaslamp Quarter}	{32.71486522082728,-117.16293165479225,San Diego,CA,United States}	{Travel & Transport,}
+803	Wed Jun 30 07:13:31 +0000 2010	4c2aee8dd1a10f47ba37f764	{Midnight Howlers}	{32.76327967643738,-117.12206702,San Diego,CA,United States}	{Nightlife Spot,}
+803	Wed Jun 30 06:38:19 +0000 2010	40e0b100f964a520fc011fe3	{Croce's Restaurant & Jazz Bar}	{32.71378685848782,-117.16010567774823,San Diego,CA,United States}	{Nightlife Spot,Music Venue,Food,Arts & Entertainment,}
+803	Wed Jun 30 06:06:36 +0000 2010	41463480f964a520b51c1fe3	{Henry's Pub & Restaurant}	{32.7118595777163,-117.16008844606122,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Wed Jun 30 04:23:46 +0000 2010	4ade5d57f964a520597521e3	{Parkway Bowl}	{32.808233588370584,-116.97791576385498,El Cajon,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+803	Wed Jun 30 03:59:51 +0000 2010	450ec337f964a52066391fe3	{Kearny Mesa Bowl}	{32.83153690453264,-117.15619979160743,San Diego,CA,United States}	{Arts & Entertainment,}
+803	Wed Jun 30 02:37:47 +0000 2010	4c2aadd0b34ad13aa5b9e8ce	{Going Crazy}	{32.73659458423607,-117.17941287078325,San Diego,CA,United States}	{Residence,}
+803	Tue Jun 29 21:26:23 +0000 2010	4b69d87ff964a520c9b72be3	{Sixth Avenue Playground}	{32.739045,-117.15880792,San Diego,CA,United States}	{Outdoors & Recreation,}
+803	Mon Jun 28 19:05:14 +0000 2010	4b48ba91f964a520635426e3	{The Huddle}	{32.750378251075745,-117.17120110988617,San Diego,CA,United States}	{Food,}
+803	Mon Jun 28 18:14:53 +0000 2010	4a540e9df964a520feb21fe3	{Stadium Golf Center & Batting Cages}	{32.79910584190841,-117.11478133978183,San Diego,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+803	Mon Jun 28 17:41:49 +0000 2010	428fcb80f964a520e7231fe3	{Fry's Electronics}	{32.801876047479404,-117.1146011352539,San Diego,CA,United States}	{Shop & Service,}
+803	Mon Jun 28 17:10:57 +0000 2010	4a6e1d9cf964a520f4d31fe3	{Bank Of America}	{32.748202,-117.157504,San Diego,CA,United States}	{Shop & Service,}
+803	Mon Jun 28 08:38:14 +0000 2010	4a6d8999f964a520c2d21fe3	{The Speakeasy Radio Show}	{32.73765337,-117.1758896112442,San Diego,CA,United States}	{Nightlife Spot,}
+803	Mon Jun 28 05:44:39 +0000 2010	40e0b100f964a520fc011fe3	{Croce's Restaurant & Jazz Bar}	{32.71378685848782,-117.16010567774823,San Diego,CA,United States}	{Nightlife Spot,Music Venue,Food,Arts & Entertainment,}
+803	Mon Jun 28 04:03:33 +0000 2010	450ec337f964a52066391fe3	{Kearny Mesa Bowl}	{32.83153690453264,-117.15619979160743,San Diego,CA,United States}	{Arts & Entertainment,}
+803	Sun Jun 27 22:18:19 +0000 2010	4a8ce5caf964a5204d0f20e3	{Mission Gorge}	{32.817908802687164,-117.05604314804077,San Diego,CA,United States}	{Outdoors & Recreation,}
+803	Sun Jun 27 17:52:41 +0000 2010	43d20751f964a520092e1fe3	{Broken Yolk Cafe}	{32.800721911331,-117.23602009146519,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Sun Jun 27 04:21:27 +0000 2010	4bfca036f7c82d7fe51f8d04	{Tommy V's Del Mar}	{32.983086705207825,-117.22952763333333,Del Mar,CA,United States}	{Food,}
+803	Sat Jun 26 22:12:26 +0000 2010	4a8747bcf964a520980320e3	{Trattoria Fantastica}	{32.723494,-117.168313,San Diego,CA,United States}	{Food,}
+803	Sat Jun 26 11:06:17 +0000 2010	4a59a3d6f964a5207eb91fe3	{Brians' American Eatery}	{32.75136930875297,-117.1495771408081,San Diego,CA,United States}	{Food,}
+803	Sat Jun 26 05:28:12 +0000 2010	4bfca036f7c82d7fe51f8d04	{Tommy V's Del Mar}	{32.983086705207825,-117.22952763333333,Del Mar,CA,United States}	{Food,}
+803	Fri Jun 25 16:01:48 +0000 2010	4af03d06f964a520d7da21e3	{Bikram Yoga College of India}	{32.74485249128998,-117.19006364045666,San Diego,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+803	Fri Jun 25 07:35:06 +0000 2010	4c5ce979d25320a197c9c47a	{Pure Platinum Harborside}	{32.729327481960624,-117.17339662000775,San Diego,CA,United States}	{Nightlife Spot,}
+803	Thu Jun 24 21:21:57 +0000 2010	4a907069f964a520e01720e3	{Guitar Center}	{32.77759626658779,-117.00678444641248,La Mesa,CA,United States}	{Shop & Service,}
+803	Thu Jun 24 02:05:01 +0000 2010	40e0b100f964a52049021fe3	{Jimmy Love's}	{32.712578,-117.160082,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Wed Jun 23 19:00:04 +0000 2010	4b48ba91f964a520635426e3	{The Huddle}	{32.750378251075745,-117.17120110988617,San Diego,CA,United States}	{Food,}
+803	Wed Jun 23 08:20:16 +0000 2010	4ad104acf964a520fedb20e3	{Cowles Mountain}	{32.80521714845931,-117.03755773106462,San Diego,CA,United States}	{Outdoors & Recreation,}
+803	Wed Jun 23 06:06:32 +0000 2010	41463480f964a520b51c1fe3	{Henry's Pub & Restaurant}	{32.7118595777163,-117.16008844606122,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Wed Jun 23 03:25:44 +0000 2010	4c032c4c39d476b08ad52fa7	{Cafe Tazza}	{32.652595,-116.970014,Chula Vista,CA,United States}	{Food,}
+803	Wed Jun 23 01:58:41 +0000 2010	4b92df18f964a520352334e3	{Via Lago Trattoria}	{32.65263232,-116.96927645,Chula Vista,CA,United States}	{Food,}
+803	Mon Jun 21 20:49:59 +0000 2010	4a8ce5caf964a5204d0f20e3	{Mission Gorge}	{32.817908802687164,-117.05604314804077,San Diego,CA,United States}	{Outdoors & Recreation,}
+803	Mon Jun 21 18:36:47 +0000 2010	4b933ab9f964a5204d3c34e3	{Rei Do Gado}	{32.71520819269337,-117.16119127110599,San Diego,CA,United States}	{Food,}
+803	Sun Jun 20 20:56:21 +0000 2010	4b15503df964a5202eb023e3	{Petco Park}	{32.707559779610634,-117.15702295303345,San Diego,CA,United States}	{Stadium,Arts & Entertainment,}
+803	Sun Jun 20 20:53:14 +0000 2010	4b15503df964a5202eb023e3	{Petco Park}	{32.707559779610634,-117.15702295303345,San Diego,CA,United States}	{Stadium,Arts & Entertainment,}
+803	Sun Jun 20 19:09:54 +0000 2010	4b9014a5f964a5205e7433e3	{Proper Gastro Pub}	{32.708805588873425,-117.15751647949219,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Sun Jun 20 02:53:22 +0000 2010	4bfca036f7c82d7fe51f8d04	{Tommy V's Del Mar}	{32.983086705207825,-117.22952763333333,Del Mar,CA,United States}	{Food,}
+803	Sun Jun 20 01:47:31 +0000 2010	40e0b100f964a52049021fe3	{Jimmy Love's}	{32.712578,-117.160082,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Sat Jun 19 18:11:15 +0000 2010	4a8ce5caf964a5204d0f20e3	{Mission Gorge}	{32.817908802687164,-117.05604314804077,San Diego,CA,United States}	{Outdoors & Recreation,}
+803	Sat Jun 19 16:03:54 +0000 2010	4b48ba91f964a520635426e3	{The Huddle}	{32.750378251075745,-117.17120110988617,San Diego,CA,United States}	{Food,}
+803	Sat Jun 19 07:59:30 +0000 2010	4bae2db5f964a520418e3be3	{Mobil}	{32.981092,-117.248701,DEL MAR,CA,United States}	{Shop & Service,}
+803	Sat Jun 19 05:32:10 +0000 2010	4bfca036f7c82d7fe51f8d04	{Tommy V's Del Mar}	{32.983086705207825,-117.22952763333333,Del Mar,CA,United States}	{Food,}
+803	Sat Jun 19 01:22:01 +0000 2010	4ac573a8f964a52015b220e3	{Bluefire Grill}	{33.09119964108658,-117.26488755168374,Carlsbad,CA,United States}	{Food,}
+803	Fri Jun 18 19:09:42 +0000 2010	4b48ba91f964a520635426e3	{The Huddle}	{32.750378251075745,-117.17120110988617,San Diego,CA,United States}	{Food,}
+803	Fri Jun 18 05:31:31 +0000 2010	4bfca036f7c82d7fe51f8d04	{Tommy V's Del Mar}	{32.983086705207825,-117.22952763333333,Del Mar,CA,United States}	{Food,}
+803	Fri Jun 18 02:01:24 +0000 2010	4ac573a8f964a52015b220e3	{Bluefire Grill}	{33.09119964108658,-117.26488755168374,Carlsbad,CA,United States}	{Food,}
+803	Thu Jun 17 06:38:49 +0000 2010	40e0b100f964a52049021fe3	{Jimmy Love's}	{32.712578,-117.160082,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Thu Jun 17 04:08:51 +0000 2010	4c32fe5616adc928fbe0c29c	{V Lounge -Viejas Casino}	{32.84232208642385,-116.70586466789246,Alpine,CA,United States}	{Nightlife Spot,}
+803	Thu Jun 17 04:04:52 +0000 2010	4a748fe0f964a5209cde1fe3	{Viejas Casino}	{32.84245729640804,-116.70381546020508,Alpine,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+803	Wed Jun 16 19:00:27 +0000 2010	4b48ba91f964a520635426e3	{The Huddle}	{32.750378251075745,-117.17120110988617,San Diego,CA,United States}	{Food,}
+803	Wed Jun 16 06:29:26 +0000 2010	4b490cb2f964a520a36326e3	{Landini's Pizzeria}	{32.724043,-117.168357,San Diego,CA,United States}	{Food,}
+803	Wed Jun 16 06:03:57 +0000 2010	40e0b100f964a52049021fe3	{Jimmy Love's}	{32.712578,-117.160082,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Tue Jun 15 21:36:07 +0000 2010	4a80306df964a520bbf41fe3	{Hall Of Justice - San Diego Superior Court}	{32.71587427433335,-117.16580354269871,San Diego,CA,United States}	{Government Building,Professional & Other Places,}
+803	Tue Jun 15 21:06:52 +0000 2010	4a6d8999f964a520c2d21fe3	{The Speakeasy Radio Show}	{32.73765337,-117.1758896112442,San Diego,CA,United States}	{Nightlife Spot,}
+803	Tue Jun 15 18:58:49 +0000 2010	4b48ba91f964a520635426e3	{The Huddle}	{32.750378251075745,-117.17120110988617,San Diego,CA,United States}	{Food,}
+803	Tue Jun 15 04:00:11 +0000 2010	4b344476f964a520a42625e3	{La Jolla Presbyterian Church}	{32.84341422174036,-117.27675370110946,La Jolla,CA,United States}	{Spiritual Center,Professional & Other Places,}
+803	Tue Jun 15 03:58:28 +0000 2010	4b344476f964a520a42625e3	{La Jolla Presbyterian Church}	{32.84341422174036,-117.27675370110946,La Jolla,CA,United States}	{Spiritual Center,Professional & Other Places,}
+803	Mon Jun 14 19:06:45 +0000 2010	4b48ba91f964a520635426e3	{The Huddle}	{32.750378251075745,-117.17120110988617,San Diego,CA,United States}	{Food,}
+803	Mon Jun 14 06:38:52 +0000 2010	4bde6ecfe75c0f47deeac703	{Viejas Bowl}	{32.840997223506086,-116.70470254822777,Alpine,CA,United States}	{Arts & Entertainment,}
+803	Mon Jun 14 04:16:09 +0000 2010	4a748fe0f964a5209cde1fe3	{Viejas Casino}	{32.84245729640804,-116.70381546020508,Alpine,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+803	Sun Jun 13 18:00:43 +0000 2010	4b5a1e42f964a52063ae28e3	{Naked Cafe}	{32.749626,-117.20505543,San Diego,CA,United States}	{Food,}
+803	Sun Jun 13 17:52:19 +0000 2010	4ac53880f964a52010b120e3	{Auto Scrubber}	{32.74902571477118,-117.205793253864,San Diego,CA,United States}	{Shop & Service,}
+803	Sun Jun 13 03:55:44 +0000 2010	4bfca036f7c82d7fe51f8d04	{Tommy V's Del Mar}	{32.983086705207825,-117.22952763333333,Del Mar,CA,United States}	{Food,}
+803	Sat Jun 12 19:52:17 +0000 2010	4a8ce5caf964a5204d0f20e3	{Mission Gorge}	{32.817908802687164,-117.05604314804077,San Diego,CA,United States}	{Outdoors & Recreation,}
+803	Sat Jun 12 16:42:10 +0000 2010	4b48ba91f964a520635426e3	{The Huddle}	{32.750378251075745,-117.17120110988617,San Diego,CA,United States}	{Food,}
+803	Sat Jun 12 16:41:28 +0000 2010	4b48ba91f964a520635426e3	{The Huddle}	{32.750378251075745,-117.17120110988617,San Diego,CA,United States}	{Food,}
+803	Sat Jun 12 07:21:32 +0000 2010	4bfca036f7c82d7fe51f8d04	{Tommy V's Del Mar}	{32.983086705207825,-117.22952763333333,Del Mar,CA,United States}	{Food,}
+803	Fri Jun 11 19:26:13 +0000 2010	4b48ba91f964a520635426e3	{The Huddle}	{32.750378251075745,-117.17120110988617,San Diego,CA,United States}	{Food,}
+803	Fri Jun 11 10:50:58 +0000 2010	42eeb780f964a520b1261fe3	{Harrah's Rincon Casino & Resort}	{33.266447246123036,-116.9548487663269,Valley Center,CA,United States}	{Travel & Transport,Shop & Service,Arts & Entertainment,Gym / Fitness Center,}
+803	Fri Jun 11 06:54:12 +0000 2010	4bfca036f7c82d7fe51f8d04	{Tommy V's Del Mar}	{32.983086705207825,-117.22952763333333,Del Mar,CA,United States}	{Food,}
+803	Fri Jun 11 04:03:08 +0000 2010	4ac573a8f964a52015b220e3	{Bluefire Grill}	{33.09119964108658,-117.26488755168374,Carlsbad,CA,United States}	{Food,}
+803	Thu Jun 10 18:55:21 +0000 2010	4b48ba91f964a520635426e3	{The Huddle}	{32.750378251075745,-117.17120110988617,San Diego,CA,United States}	{Food,}
+803	Thu Jun 10 09:06:00 +0000 2010	4a518467f964a52019b11fe3	{Ciro's Pizza}	{32.711515,-117.159478,San Diego,CA,United States}	{Food,}
+803	Thu Jun 10 04:35:40 +0000 2010	40e0b100f964a52049021fe3	{Jimmy Love's}	{32.712578,-117.160082,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Wed Jun 09 19:04:27 +0000 2010	4b48ba91f964a520635426e3	{The Huddle}	{32.750378251075745,-117.17120110988617,San Diego,CA,United States}	{Food,}
+803	Wed Jun 09 07:00:54 +0000 2010	4c5ce979d25320a197c9c47a	{Pure Platinum Harborside}	{32.729327481960624,-117.17339662000775,San Diego,CA,United States}	{Nightlife Spot,}
+803	Wed Jun 09 05:26:40 +0000 2010	41463480f964a520b51c1fe3	{Henry's Pub & Restaurant}	{32.7118595777163,-117.16008844606122,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Tue Jun 08 21:31:36 +0000 2010	43f7a423f964a520bf2f1fe3	{Hash House a Go Go}	{32.74387971219906,-117.16060638427734,San Diego,CA,United States}	{Food,}
+803	Tue Jun 08 03:42:14 +0000 2010	4a216f1ef964a520e97c1fe3	{Suite & Tender}	{32.716192,-117.160146,San Diego,CA,United States}	{Food,}
+803	Tue Jun 08 00:07:24 +0000 2010	4bc0f16d4cdfc9b6e0d29321	{Vantage Pointe Apartments}	{32.71812152403552,-117.15678691864014,San Diego,CA,United States}	{Shop & Service,Gym / Fitness Center,Residence,}
+803	Mon Jun 07 20:14:17 +0000 2010	46fd22f7f964a520134b1fe3	{East Village Tavern+Bowl}	{32.71166849,-117.156103,San Diego,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+803	Mon Jun 07 06:39:42 +0000 2010	4bde6ecfe75c0f47deeac703	{Viejas Bowl}	{32.840997223506086,-116.70470254822777,Alpine,CA,United States}	{Arts & Entertainment,}
+803	Sat Jun 05 02:09:11 +0000 2010	4ac573a8f964a52015b220e3	{Bluefire Grill}	{33.09119964108658,-117.26488755168374,Carlsbad,CA,United States}	{Food,}
+803	Fri Jun 04 02:28:06 +0000 2010	4ac573a8f964a52015b220e3	{Bluefire Grill}	{33.09119964108658,-117.26488755168374,Carlsbad,CA,United States}	{Food,}
+803	Thu Jun 03 19:08:44 +0000 2010	4b48ba91f964a520635426e3	{The Huddle}	{32.750378251075745,-117.17120110988617,San Diego,CA,United States}	{Food,}
+803	Thu Jun 03 08:23:17 +0000 2010	40e0b100f964a520da021fe3	{The Waterfront Bar & Grill}	{32.72571256948746,-117.17014968395233,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Thu Jun 03 04:43:42 +0000 2010	40e0b100f964a52049021fe3	{Jimmy Love's}	{32.712578,-117.160082,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Wed Jun 02 07:30:43 +0000 2010	41463480f964a520b51c1fe3	{Henry's Pub & Restaurant}	{32.7118595777163,-117.16008844606122,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Tue Jun 01 07:31:42 +0000 2010	4b8ec319f964a5209f3533e3	{FLUXX}	{32.710669756474346,-117.16114550828934,San Diego,CA,United States}	{Nightlife Spot,}
+803	Tue Jun 01 05:13:01 +0000 2010	40e0b100f964a520fc011fe3	{Croce's Restaurant & Jazz Bar}	{32.71378685848782,-117.16010567774823,San Diego,CA,United States}	{Nightlife Spot,Music Venue,Food,Arts & Entertainment,}
+803	Tue Jun 01 03:55:09 +0000 2010	4a216f1ef964a520e97c1fe3	{Suite & Tender}	{32.716192,-117.160146,San Diego,CA,United States}	{Food,}
+803	Mon May 31 08:13:37 +0000 2010	4bfca036f7c82d7fe51f8d04	{Tommy V's Del Mar}	{32.983086705207825,-117.22952763333333,Del Mar,CA,United States}	{Food,}
+803	Sun May 30 04:59:28 +0000 2010	4a693d42f964a520d2cb1fe3	{Prohibition Liquor Bar}	{32.71120335125421,-117.16011142164359,San Diego,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+803	Sat May 29 18:24:58 +0000 2010	4c015bd30bce20a13796f6c6	{San Diego Jazz Fest}	{32.71172219241787,-117.15997356811074,San Diego,CA,United States}	{Music Venue,Arts & Entertainment,}
+803	Sat May 29 17:34:28 +0000 2010	4b25a4ccf964a520ec7424e3	{Studio Diner}	{32.82512509154749,-117.12724221973312,San Diego,CA,United States}	{Food,}
+803	Sat May 29 17:30:04 +0000 2010	4baf61def964a520cefb3be3	{KUSI}	{32.82314310737124,-117.12272100088387,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+803	Sat May 29 17:29:25 +0000 2010	4baf61def964a520cefb3be3	{KUSI}	{32.82314310737124,-117.12272100088387,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+803	Sat May 29 06:40:35 +0000 2010	4a693d42f964a520d2cb1fe3	{Prohibition Liquor Bar}	{32.71120335125421,-117.16011142164359,San Diego,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+803	Sat May 29 02:04:01 +0000 2010	4ac573a8f964a52015b220e3	{Bluefire Grill}	{33.09119964108658,-117.26488755168374,Carlsbad,CA,United States}	{Food,}
+803	Fri May 28 19:02:25 +0000 2010	4a887d3ef964a5209f0620e3	{Costco}	{32.78200692932807,-117.12878465652464,San Diego,CA,United States}	{Shop & Service,Office,Professional & Other Places,}
+803	Fri May 28 07:39:59 +0000 2010	4a693d42f964a520d2cb1fe3	{Prohibition Liquor Bar}	{32.71120335125421,-117.16011142164359,San Diego,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+803	Thu May 27 08:28:40 +0000 2010	4a2f0b96f964a520a1981fe3	{Brian's 24}	{32.71405043562351,-117.15940475463867,San Diego,CA,United States}	{Food,}
+803	Wed May 26 06:47:16 +0000 2010	41463480f964a520b51c1fe3	{Henry's Pub & Restaurant}	{32.7118595777163,-117.16008844606122,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Wed May 26 04:15:46 +0000 2010	4bfca036f7c82d7fe51f8d04	{Tommy V's Del Mar}	{32.983086705207825,-117.22952763333333,Del Mar,CA,United States}	{Food,}
+803	Tue May 25 22:02:18 +0000 2010	4a8ce5caf964a5204d0f20e3	{Mission Gorge}	{32.817908802687164,-117.05604314804077,San Diego,CA,United States}	{Outdoors & Recreation,}
+803	Tue May 25 06:53:32 +0000 2010	4a216f1ef964a520e97c1fe3	{Suite & Tender}	{32.716192,-117.160146,San Diego,CA,United States}	{Food,}
+803	Sun May 23 21:35:17 +0000 2010	40e0b100f964a520da021fe3	{The Waterfront Bar & Grill}	{32.72571256948746,-117.17014968395233,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Sun May 23 09:01:38 +0000 2010	4a693d42f964a520d2cb1fe3	{Prohibition Liquor Bar}	{32.71120335125421,-117.16011142164359,San Diego,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+803	Sat May 22 07:23:41 +0000 2010	4a693d42f964a520d2cb1fe3	{Prohibition Liquor Bar}	{32.71120335125421,-117.16011142164359,San Diego,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+803	Sat May 22 02:08:45 +0000 2010	4ac573a8f964a52015b220e3	{Bluefire Grill}	{33.09119964108658,-117.26488755168374,Carlsbad,CA,United States}	{Food,}
+803	Thu May 20 22:10:42 +0000 2010	40e0b100f964a520da021fe3	{The Waterfront Bar & Grill}	{32.72571256948746,-117.17014968395233,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Thu May 20 02:31:54 +0000 2010	40e0b100f964a52049021fe3	{Jimmy Love's}	{32.712578,-117.160082,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Wed May 19 21:05:53 +0000 2010	4a77c1baf964a52019e51fe3	{Olde City Grill}	{32.797183,-117.25219309329987,San Diego,CA,United States}	{Food,}
+803	Tue May 18 19:01:45 +0000 2010	4b48ba91f964a520635426e3	{The Huddle}	{32.750378251075745,-117.17120110988617,San Diego,CA,United States}	{Food,}
+803	Mon May 17 19:37:26 +0000 2010	4b48ba91f964a520635426e3	{The Huddle}	{32.750378251075745,-117.17120110988617,San Diego,CA,United States}	{Food,}
+803	Mon May 17 06:14:58 +0000 2010	4bde6ecfe75c0f47deeac703	{Viejas Bowl}	{32.840997223506086,-116.70470254822777,Alpine,CA,United States}	{Arts & Entertainment,}
+803	Sun May 16 22:04:59 +0000 2010	4a6e1e5ff964a520f8d31fe3	{Mission Bay Golf Course}	{32.79953719069574,-117.21639957467717,San Diego,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+803	Sat May 15 08:39:18 +0000 2010	4a693d42f964a520d2cb1fe3	{Prohibition Liquor Bar}	{32.71120335125421,-117.16011142164359,San Diego,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+803	Thu May 13 04:54:21 +0000 2010	43d2640df964a520122e1fe3	{Ono Sushi}	{32.74873448633905,-117.15261340141296,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Wed May 12 18:58:08 +0000 2010	4b48ba91f964a520635426e3	{The Huddle}	{32.750378251075745,-117.17120110988617,San Diego,CA,United States}	{Food,}
+803	Tue May 11 03:56:09 +0000 2010	4a216f1ef964a520e97c1fe3	{Suite & Tender}	{32.716192,-117.160146,San Diego,CA,United States}	{Food,}
+803	Mon May 10 18:41:30 +0000 2010	4b57422ff964a520322e28e3	{El Capitan Open Space Preserve Trail}	{32.913774301284796,-116.8806960385746,Barona,CA,United States}	{Outdoors & Recreation,}
+803	Sun May 09 05:12:26 +0000 2010	4a693d42f964a520d2cb1fe3	{Prohibition Liquor Bar}	{32.71120335125421,-117.16011142164359,San Diego,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+803	Sun May 09 01:41:06 +0000 2010	4b6e002bf964a5206ca22ce3	{Ocean Beach People's Organic Food Market}	{32.74938804,-117.24283754825592,San Diego,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+803	Sat May 08 06:23:10 +0000 2010	4a693d42f964a520d2cb1fe3	{Prohibition Liquor Bar}	{32.71120335125421,-117.16011142164359,San Diego,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+803	Sat May 08 05:11:25 +0000 2010	4aa06313f964a520703f20e3	{Chocolat Cremerie}	{32.71061642938679,-117.16002526319646,San Diego,CA,United States}	{Food,}
+803	Fri May 07 07:32:16 +0000 2010	4a693d42f964a520d2cb1fe3	{Prohibition Liquor Bar}	{32.71120335125421,-117.16011142164359,San Diego,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+803	Fri May 07 01:00:44 +0000 2010	4ac573a8f964a52015b220e3	{Bluefire Grill}	{33.09119964108658,-117.26488755168374,Carlsbad,CA,United States}	{Food,}
+803	Thu May 06 19:48:17 +0000 2010	4b48ba91f964a520635426e3	{The Huddle}	{32.750378251075745,-117.17120110988617,San Diego,CA,United States}	{Food,}
+803	Thu May 06 04:02:59 +0000 2010	4aa58e54f964a520c84820e3	{Jose's Courtroom Cantina}	{32.84791302765465,-117.27389486713707,La Jolla,CA,United States}	{Nightlife Spot,Food,}
+803	Thu May 06 02:28:35 +0000 2010	4a6b934af964a52035cf1fe3	{Marine Room}	{32.85225053185479,-117.26090330754933,,California,United States}	{Food,}
+803	Thu May 06 00:39:52 +0000 2010	4a8ce5caf964a5204d0f20e3	{Mission Gorge}	{32.817908802687164,-117.05604314804077,San Diego,CA,United States}	{Outdoors & Recreation,}
+803	Wed May 05 19:11:42 +0000 2010	4b48ba91f964a520635426e3	{The Huddle}	{32.750378251075745,-117.17120110988617,San Diego,CA,United States}	{Food,}
+803	Tue May 04 19:09:21 +0000 2010	4b48ba91f964a520635426e3	{The Huddle}	{32.750378251075745,-117.17120110988617,San Diego,CA,United States}	{Food,}
+803	Tue May 04 08:30:57 +0000 2010	4a2f0b96f964a520a1981fe3	{Brian's 24}	{32.71405043562351,-117.15940475463867,San Diego,CA,United States}	{Food,}
+803	Tue May 04 03:56:05 +0000 2010	4a216f1ef964a520e97c1fe3	{Suite & Tender}	{32.716192,-117.160146,San Diego,CA,United States}	{Food,}
+803	Mon May 03 06:36:16 +0000 2010	4bde6ecfe75c0f47deeac703	{Viejas Bowl}	{32.840997223506086,-116.70470254822777,Alpine,CA,United States}	{Arts & Entertainment,}
+803	Fri Apr 30 19:07:44 +0000 2010	4b48ba91f964a520635426e3	{The Huddle}	{32.750378251075745,-117.17120110988617,San Diego,CA,United States}	{Food,}
+803	Fri Apr 30 08:58:10 +0000 2010	4a35ccf5f964a520649d1fe3	{Royal Thai}	{32.71032625932099,-117.16007121437276,San Diego,CA,United States}	{Food,}
+803	Fri Apr 30 06:08:10 +0000 2010	4a693d42f964a520d2cb1fe3	{Prohibition Liquor Bar}	{32.71120335125421,-117.16011142164359,San Diego,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+803	Fri Apr 30 00:44:05 +0000 2010	4ac573a8f964a52015b220e3	{Bluefire Grill}	{33.09119964108658,-117.26488755168374,Carlsbad,CA,United States}	{Food,}
+803	Thu Apr 29 07:51:52 +0000 2010	4ad104acf964a520fedb20e3	{Cowles Mountain}	{32.80521714845931,-117.03755773106462,San Diego,CA,United States}	{Outdoors & Recreation,}
+803	Thu Apr 29 06:25:48 +0000 2010	46fd22f7f964a520134b1fe3	{East Village Tavern+Bowl}	{32.71166849,-117.156103,San Diego,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+803	Wed Apr 28 04:26:22 +0000 2010	4a865efef964a520020120e3	{Golden Dragon: The Asian Bistro}	{32.748339772224426,-117.16124661,San Diego,CA,United States}	{Food,}
+803	Tue Apr 27 23:05:55 +0000 2010	4b9805eff964a520d62635e3	{Desi's}	{34.24014151096344,-116.91249132156372,Big Bear Lake,CA,United States}	{Food,}
+803	Tue Apr 27 20:46:30 +0000 2010	4bba1fcc7421a5936b6bc340	{Snow Summit Ski School}	{34.236193085971095,-116.8891448897629,Big Bear Lake,CA,United States}	{Outdoors & Recreation,}
+803	Tue Apr 27 05:26:39 +0000 2010	4a216f1ef964a520e97c1fe3	{Suite & Tender}	{32.716192,-117.160146,San Diego,CA,United States}	{Food,}
+803	Wed Apr 21 05:05:52 +0000 2010	4b04b967f964a520575622e3	{Murray's}	{34.240337,-116.91356259,Big Bear Lake,CA,United States}	{Nightlife Spot,}
+803	Wed Apr 21 03:07:58 +0000 2010	4badab72f964a52036623be3	{Club 215}	{34.02519253067344,-117.33488019809275,Colton,CA,United States}	{Travel & Transport,Nightlife Spot,}
+803	Sun Apr 18 01:03:26 +0000 2010	4ba53d6ff964a5204ff038e3	{Alaxander's Terrace}	{39.194998,-120.26087394,,,United States}	{Food,}
+803	Sat Apr 17 21:32:06 +0000 2010	4b6f4ce2f964a52011ea2ce3	{Headwall Chair}	{39.18668829602555,-120.25280251296583,Olympic Valley,CA,United States}	{Outdoors & Recreation,Ski Area,}
+803	Sat Apr 17 19:23:08 +0000 2010	4ba559d3f964a520e8fd38e3	{Dave's Deli}	{39.19587463,-120.23602983,,,United States}	{Food,}
+803	Sat Apr 17 19:16:42 +0000 2010	4b5a5dfef964a52067c028e3	{The Village At Squaw Valley}	{39.19698902405452,-120.23493555122916,Olympic Valley,CA,United States}	{Travel & Transport,Shop & Service,Food,}
+803	Sat Apr 17 18:13:41 +0000 2010	4b916557f964a520f8b833e3	{Silverado Chair}	{39.20025961362441,-120.25885903733273,Olympic Valley,CA,United States}	{Outdoors & Recreation,Ski Area,}
+803	Sat Apr 17 06:15:05 +0000 2010	4a91dc9df964a520261c20e3	{Moody's Bistro Bar & Beats}	{39.32838322810338,-120.1840823328135,Truckee,CA,United States}	{Nightlife Spot,Food,}
+803	Fri Apr 16 13:54:56 +0000 2010	4b5a5dfef964a52067c028e3	{The Village At Squaw Valley}	{39.19698902405452,-120.23493555122916,Olympic Valley,CA,United States}	{Travel & Transport,Shop & Service,Food,}
+803	Wed Apr 14 19:36:18 +0000 2010	4b48ba91f964a520635426e3	{The Huddle}	{32.750378251075745,-117.17120110988617,San Diego,CA,United States}	{Food,}
+803	Mon Apr 12 20:16:36 +0000 2010	4b1caf88f964a520080924e3	{Snow Summit Mountain Resort}	{34.23650163757565,-116.88919665161421,Big Bear Lake,CA,United States}	{Travel & Transport,Outdoors & Recreation,Ski Area,}
+803	Mon Apr 12 18:47:23 +0000 2010	4bba1fcc7421a5936b6bc340	{Snow Summit Ski School}	{34.236193085971095,-116.8891448897629,Big Bear Lake,CA,United States}	{Outdoors & Recreation,}
+803	Sat Apr 10 06:30:46 +0000 2010	4672dd26f964a520d1471fe3	{Starlite}	{32.736432353552914,-117.17506885528564,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Wed Apr 07 16:23:29 +0000 2010	4bba1fcc7421a5936b6bc340	{Snow Summit Ski School}	{34.236193085971095,-116.8891448897629,Big Bear Lake,CA,United States}	{Outdoors & Recreation,}
+803	Wed Apr 07 02:12:43 +0000 2010	4b04baeaf964a520655622e3	{Bowling Barn}	{34.24284205,-116.915266,Big Bear Lake,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+803	Tue Apr 06 01:22:44 +0000 2010	4b04baeaf964a520655622e3	{Bowling Barn}	{34.24284205,-116.915266,Big Bear Lake,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+803	Tue Apr 06 00:19:52 +0000 2010	4b04b967f964a520575622e3	{Murray's}	{34.240337,-116.91356259,Big Bear Lake,CA,United States}	{Nightlife Spot,}
+803	Tue Apr 06 00:19:33 +0000 2010	4bb828cc3db7b713ce1b219a	{Murray's  Saloon & Eatery}	{34.2403845,-116.91354998,Big Bear Lake,CA,United States}	{Nightlife Spot,}
+803	Tue Apr 06 00:16:53 +0000 2010	4b9805eff964a520d62635e3	{Desi's}	{34.24014151096344,-116.91249132156372,Big Bear Lake,CA,United States}	{Food,}
+803	Mon Apr 05 04:28:46 +0000 2010	466f0b44f964a520bd471fe3	{La Posta de Acapulco's}	{32.74978272,-117.162962,San Diego,CA,United States}	{Food,}
+803	Mon Apr 05 00:27:14 +0000 2010	4a4ac2b0f964a52028ac1fe3	{Riverwalk Golf Club}	{32.76513769484642,-117.17421054840088,San Diego,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+803	Sun Apr 04 19:52:40 +0000 2010	4a8747bcf964a520980320e3	{Trattoria Fantastica}	{32.723494,-117.168313,San Diego,CA,United States}	{Food,}
+803	Fri Apr 02 01:01:12 +0000 2010	4ac573a8f964a52015b220e3	{Bluefire Grill}	{33.09119964108658,-117.26488755168374,Carlsbad,CA,United States}	{Food,}
+803	Thu Apr 01 00:05:08 +0000 2010	4b04baeaf964a520655622e3	{Bowling Barn}	{34.24284205,-116.915266,Big Bear Lake,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+803	Wed Mar 31 23:33:37 +0000 2010	4b9805eff964a520d62635e3	{Desi's}	{34.24014151096344,-116.91249132156372,Big Bear Lake,CA,United States}	{Food,}
+803	Tue Mar 30 05:32:23 +0000 2010	4bef73e3c80dc9280f0428e3	{Chad's Place}	{34.24011800170998,-116.91289901733398,Big Bear Lake,CA,United States}	{Nightlife Spot,}
+803	Tue Mar 30 04:15:58 +0000 2010	4b04baeaf964a520655622e3	{Bowling Barn}	{34.24284205,-116.915266,Big Bear Lake,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+803	Sun Mar 28 17:58:47 +0000 2010	40e0b100f964a520da021fe3	{The Waterfront Bar & Grill}	{32.72571256948746,-117.17014968395233,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Sat Mar 27 22:35:17 +0000 2010	46fd22f7f964a520134b1fe3	{East Village Tavern+Bowl}	{32.71166849,-117.156103,San Diego,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+803	Sat Mar 27 09:36:08 +0000 2010	4a59a3d6f964a5207eb91fe3	{Brians' American Eatery}	{32.75136930875297,-117.1495771408081,San Diego,CA,United States}	{Food,}
+803	Thu Mar 25 07:43:20 +0000 2010	40e0b100f964a520da021fe3	{The Waterfront Bar & Grill}	{32.72571256948746,-117.17014968395233,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Thu Mar 25 05:49:28 +0000 2010	41005500f964a5204a0b1fe3	{SideBar}	{32.71155512,-117.159343,San Diego,CA,United States}	{Nightlife Spot,}
+803	Thu Mar 25 05:48:45 +0000 2010	40e0b100f964a52049021fe3	{Jimmy Love's}	{32.712578,-117.160082,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Thu Mar 25 05:16:05 +0000 2010	4b29a964f964a52040a224e3	{El Camino}	{32.72940405719778,-117.17092752456665,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Wed Mar 24 02:27:14 +0000 2010	4b04baeaf964a520655622e3	{Bowling Barn}	{34.24284205,-116.915266,Big Bear Lake,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+803	Tue Mar 23 07:40:11 +0000 2010	4b04b967f964a520575622e3	{Murray's}	{34.240337,-116.91356259,Big Bear Lake,CA,United States}	{Nightlife Spot,}
+803	Fri Mar 19 21:07:39 +0000 2010	4a80306df964a520bbf41fe3	{Hall Of Justice - San Diego Superior Court}	{32.71587427433335,-117.16580354269871,San Diego,CA,United States}	{Government Building,Professional & Other Places,}
+803	Fri Mar 19 19:01:08 +0000 2010	4b48ba91f964a520635426e3	{The Huddle}	{32.750378251075745,-117.17120110988617,San Diego,CA,United States}	{Food,}
+803	Thu Mar 18 08:39:09 +0000 2010	4a865efef964a520020120e3	{Golden Dragon: The Asian Bistro}	{32.748339772224426,-117.16124661,San Diego,CA,United States}	{Food,}
+803	Thu Mar 18 08:38:27 +0000 2010	4a865efef964a520020120e3	{Golden Dragon: The Asian Bistro}	{32.748339772224426,-117.16124661,San Diego,CA,United States}	{Food,}
+803	Thu Mar 18 07:20:03 +0000 2010	4a2f333df964a520b7981fe3	{La Puerta}	{32.71122643444367,-117.16112234471476,San Diego,CA,United States}	{Food,}
+803	Tue Mar 16 04:32:12 +0000 2010	4b04b967f964a520575622e3	{Murray's}	{34.240337,-116.91356259,Big Bear Lake,CA,United States}	{Nightlife Spot,}
+803	Fri Mar 12 20:01:16 +0000 2010	4b48ba91f964a520635426e3	{The Huddle}	{32.750378251075745,-117.17120110988617,San Diego,CA,United States}	{Food,}
+803	Fri Mar 12 10:12:34 +0000 2010	4a35ccf5f964a520649d1fe3	{Royal Thai}	{32.71032625932099,-117.16007121437276,San Diego,CA,United States}	{Food,}
+803	Thu Mar 11 10:14:12 +0000 2010	45a7679ef964a52015411fe3	{Excalibur Hotel & Casino}	{36.09929039187516,-115.17549276351927,Las Vegas,NV,United States}	{Travel & Transport,Shop & Service,Arts & Entertainment,}
+803	Thu Mar 11 09:30:44 +0000 2010	4bc12dcf4cdfc9b679559421	{Mr. Lucky's 24/7}	{36.10880750605055,-115.15401140820856,Las Vegas,NV,United States}	{Nightlife Spot,Food,}
+803	Thu Mar 11 08:30:19 +0000 2010	41326e00f964a52038141fe3	{Free Zone}	{36.10591865233693,-115.150356,Las Vegas,NV,United States}	{Nightlife Spot,}
+803	Thu Mar 11 08:29:44 +0000 2010	413cfa00f964a5204b1c1fe3	{Double Down Saloon}	{36.105488388942284,-115.15049993991852,Las Vegas,NV,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+803	Thu Mar 11 02:27:32 +0000 2010	41326e00f964a520b2141fe3	{New York-New York Hotel & Casino}	{36.102649506919235,-115.1744145154953,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+803	Wed Mar 10 10:15:18 +0000 2010	463689fff964a52013461fe3	{Playboy Club}	{36.11422296760435,-115.1943350194209,Las Vegas,NV,United States}	{Nightlife Spot,Arts & Entertainment,}
+803	Wed Mar 10 07:45:43 +0000 2010	49de8d02f964a52081601fe3	{The Bar at Times Square}	{36.10224230306606,-115.17421291184627,Las Vegas,NV,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+803	Wed Mar 10 06:24:21 +0000 2010	4b025c33f964a520714822e3	{Foundation Room}	{36.09183481061275,-115.17448425292969,Las Vegas,NV,United States}	{Nightlife Spot,}
+803	Wed Mar 10 04:13:46 +0000 2010	49dea3bbf964a52097601fe3	{Stratosphere Casino, Hotel & Tower}	{36.14723193962685,-115.15624523162842,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,}
+803	Tue Mar 09 09:29:51 +0000 2010	4b025c33f964a520714822e3	{Foundation Room}	{36.09183481061275,-115.17448425292969,Las Vegas,NV,United States}	{Nightlife Spot,}
+803	Tue Mar 09 05:51:29 +0000 2010	4b76dcb6f964a52019652ee3	{Peppermill Restaurant}	{36.13364844085978,-115.16329139471054,Las Vegas,NV,United States}	{Food,}
+803	Tue Mar 09 02:57:44 +0000 2010	4a80f237f964a52082f61fe3	{Blue Man Group Theater}	{36.1047949310469,-115.17605066299437,Las Vegas,NV,United States}	{Performing Arts Venue,Arts & Entertainment,}
+803	Sun Mar 07 00:40:44 +0000 2010	4a81c723f964a52089f71fe3	{Red Robin Gourmet Burgers}	{32.869026566762386,-117.2116756439209,San Diego,CA,United States}	{Food,}
+803	Sat Mar 06 11:40:44 +0000 2010	4a81460ef964a520aff61fe3	{Deja Vu}	{32.747880301593575,-117.20254865412309,San Diego,CA,United States}	{Nightlife Spot,}
+803	Sat Mar 06 03:52:07 +0000 2010	4ac47274f964a520b69e20e3	{Fat City Steakhouse and Tropical Courtyard}	{32.72595667342018,-117.17167929967674,San Diego,CA,United States}	{Food,}
+803	Sat Mar 06 03:50:28 +0000 2010	4c5ce979d25320a197c9c47a	{Pure Platinum Harborside}	{32.729327481960624,-117.17339662000775,San Diego,CA,United States}	{Nightlife Spot,}
+803	Fri Mar 05 20:09:54 +0000 2010	4b48ba91f964a520635426e3	{The Huddle}	{32.750378251075745,-117.17120110988617,San Diego,CA,United States}	{Food,}
+803	Wed Mar 03 20:31:38 +0000 2010	4b1caf88f964a520080924e3	{Snow Summit Mountain Resort}	{34.23650163757565,-116.88919665161421,Big Bear Lake,CA,United States}	{Travel & Transport,Outdoors & Recreation,Ski Area,}
+803	Tue Mar 02 03:54:17 +0000 2010	4afe29a6f964a5206c2e22e3	{Peppercorn Grille}	{34.24247795,-116.91130578517914,Big Bear Lake,CA,United States}	{Food,}
+803	Sun Feb 28 11:04:54 +0000 2010	4a2f0b96f964a520a1981fe3	{Brian's 24}	{32.71405043562351,-117.15940475463867,San Diego,CA,United States}	{Food,}
+803	Thu Feb 25 05:21:32 +0000 2010	4b6b8dcbf964a520910f2ce3	{Tartan of Highland}	{34.12076193438737,-117.21244308563097,Highland,CA,United States}	{Food,}
+803	Wed Feb 24 07:31:44 +0000 2010	4b84d5c3f964a520334531e3	{Denny's}	{33.12850068923954,-117.09252912957162,Escondido,CA,United States}	{Food,}
+803	Tue Feb 23 06:52:50 +0000 2010	4b04b967f964a520575622e3	{Murray's}	{34.240337,-116.91356259,Big Bear Lake,CA,United States}	{Nightlife Spot,}
+803	Wed Feb 17 06:32:14 +0000 2010	40e0b100f964a520fc011fe3	{Croce's Restaurant & Jazz Bar}	{32.71378685848782,-117.16010567774823,San Diego,CA,United States}	{Nightlife Spot,Music Venue,Food,Arts & Entertainment,}
+803	Wed Feb 17 06:29:35 +0000 2010	4a67982bf964a520bcc91fe3	{Voyeur}	{32.713246022718685,-117.16003598813012,San Diego,CA,United States}	{Nightlife Spot,}
+803	Wed Feb 17 00:34:45 +0000 2010	41463480f964a520b51c1fe3	{Henry's Pub & Restaurant}	{32.7118595777163,-117.16008844606122,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Wed Feb 17 00:26:29 +0000 2010	4a68092af964a52054ca1fe3	{Nicky Rotten's Bar & Burger Joint}	{32.71117763532114,-117.16028948231946,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Tue Feb 16 05:48:11 +0000 2010	450ec337f964a52066391fe3	{Kearny Mesa Bowl}	{32.83153690453264,-117.15619979160743,San Diego,CA,United States}	{Arts & Entertainment,}
+803	Fri Feb 12 10:42:37 +0000 2010	4a865efef964a520020120e3	{Golden Dragon: The Asian Bistro}	{32.748339772224426,-117.16124661,San Diego,CA,United States}	{Food,}
+803	Fri Feb 12 06:53:32 +0000 2010	4ac6d98df964a52074b620e3	{Marble Room}	{32.71099557474722,-117.1599505925129,San Diego,CA,United States}	{Nightlife Spot,Music Venue,Food,Arts & Entertainment,}
+803	Fri Feb 12 06:51:44 +0000 2010	4a693d42f964a520d2cb1fe3	{Prohibition Liquor Bar}	{32.71120335125421,-117.16011142164359,San Diego,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+803	Thu Feb 11 06:36:52 +0000 2010	4cf968e9feec6dcbfacb3836	{Nottinghams Restaurant and Tavern}	{34.24351801993091,-116.91197640725561,Big Bear,CA,United States}	{Food,}
+803	Wed Feb 10 07:04:42 +0000 2010	40e0b100f964a520de021fe3	{Winstons Beach Club}	{32.747144810463396,-117.25069265,San Diego,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+803	Tue Feb 09 20:11:34 +0000 2010	4b1caf88f964a520080924e3	{Snow Summit Mountain Resort}	{34.23650163757565,-116.88919665161421,Big Bear Lake,CA,United States}	{Travel & Transport,Outdoors & Recreation,Ski Area,}
+803	Tue Feb 09 03:09:41 +0000 2010	4b70d1a1f964a52003302de3	{Evergreen International Restaurant}	{34.243441974518596,-116.91297083518577,Big Bear Lake,CA,United States}	{Food,}
+803	Tue Feb 09 03:05:49 +0000 2010	4cf968e9feec6dcbfacb3836	{Nottinghams Restaurant and Tavern}	{34.24351801993091,-116.91197640725561,Big Bear,CA,United States}	{Food,}
+803	Mon Feb 08 00:10:45 +0000 2010	450ec337f964a52066391fe3	{Kearny Mesa Bowl}	{32.83153690453264,-117.15619979160743,San Diego,CA,United States}	{Arts & Entertainment,}
+803	Sun Feb 07 23:41:43 +0000 2010	42a39200f964a520e8241fe3	{Costco}	{32.82217349736658,-117.2247862815857,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+803	Sun Feb 07 23:40:49 +0000 2010	4a6e1e5ff964a520f8d31fe3	{Mission Bay Golf Course}	{32.79953719069574,-117.21639957467717,San Diego,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+803	Sun Feb 07 07:30:57 +0000 2010	4a693d42f964a520d2cb1fe3	{Prohibition Liquor Bar}	{32.71120335125421,-117.16011142164359,San Diego,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+803	Sat Feb 06 18:07:15 +0000 2010	4b48ba91f964a520635426e3	{The Huddle}	{32.750378251075745,-117.17120110988617,San Diego,CA,United States}	{Food,}
+803	Sat Feb 06 08:31:29 +0000 2010	4a693d42f964a520d2cb1fe3	{Prohibition Liquor Bar}	{32.71120335125421,-117.16011142164359,San Diego,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+803	Fri Feb 05 10:40:07 +0000 2010	4a865efef964a520020120e3	{Golden Dragon: The Asian Bistro}	{32.748339772224426,-117.16124661,San Diego,CA,United States}	{Food,}
+803	Wed Feb 03 03:18:03 +0000 2010	4b2a77def964a520bfa924e3	{Plumpjack Squaw Valley Inn}	{39.19731809381075,-120.23611886864187,Olympic Valley,CA,United States}	{Travel & Transport,}
+803	Tue Feb 02 05:27:19 +0000 2010	4abef687f964a5209f9020e3	{Cal Neva Resort Spa & Casino}	{39.224726587146904,-120.00559600393761,Crystal Bay,NV,United States}	{Arts & Entertainment,}
+803	Tue Feb 02 04:26:58 +0000 2010	4b651d7ef964a520d8e42ae3	{Soule Domain}	{39.228079319000244,-120.00581917,Brockway,CA,United States}	{Food,}
+803	Tue Feb 02 00:47:23 +0000 2010	45d1aba7f964a520b0421fe3	{Squaw Valley Ski Resort}	{39.196376142833955,-120.23506164550781,Olympic Valley,CA,United States}	{Travel & Transport,Outdoors & Recreation,Hotel,}
+803	Mon Feb 01 00:42:17 +0000 2010	4a748fe0f964a5209cde1fe3	{Viejas Casino}	{32.84245729640804,-116.70381546020508,Alpine,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+803	Sun Jan 31 06:51:17 +0000 2010	4a693d42f964a520d2cb1fe3	{Prohibition Liquor Bar}	{32.71120335125421,-117.16011142164359,San Diego,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+803	Sun Jan 31 03:04:16 +0000 2010	4527b30cf964a520073b1fe3	{WaveHouse Beach Club}	{32.771005642629945,-117.2526647426465,San Diego,CA,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+803	Sat Jan 30 09:44:57 +0000 2010	4a693d42f964a520d2cb1fe3	{Prohibition Liquor Bar}	{32.71120335125421,-117.16011142164359,San Diego,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+803	Fri Jan 29 19:55:47 +0000 2010	4b48ba91f964a520635426e3	{The Huddle}	{32.750378251075745,-117.17120110988617,San Diego,CA,United States}	{Food,}
+803	Fri Jan 29 08:22:22 +0000 2010	4a693d42f964a520d2cb1fe3	{Prohibition Liquor Bar}	{32.71120335125421,-117.16011142164359,San Diego,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+803	Fri Jan 29 02:15:14 +0000 2010	4ac573a8f964a52015b220e3	{Bluefire Grill}	{33.09119964108658,-117.26488755168374,Carlsbad,CA,United States}	{Food,}
+803	Sun Jan 24 21:14:00 +0000 2010	4a6e1e5ff964a520f8d31fe3	{Mission Bay Golf Course}	{32.79953719069574,-117.21639957467717,San Diego,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+803	Sun Jan 24 18:43:43 +0000 2010	43d20751f964a520092e1fe3	{Broken Yolk Cafe}	{32.800721911331,-117.23602009146519,San Diego,CA,United States}	{Nightlife Spot,Food,}
+803	Sun Jan 24 06:33:27 +0000 2010	4a693d42f964a520d2cb1fe3	{Prohibition Liquor Bar}	{32.71120335125421,-117.16011142164359,San Diego,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+803	Sun Jan 24 01:58:47 +0000 2010	4a6d8999f964a520c2d21fe3	{The Speakeasy Radio Show}	{32.73765337,-117.1758896112442,San Diego,CA,United States}	{Nightlife Spot,}
+803	Sat Jan 23 06:01:30 +0000 2010	4a693d42f964a520d2cb1fe3	{Prohibition Liquor Bar}	{32.71120335125421,-117.16011142164359,San Diego,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+803	Sun Jan 17 05:23:10 +0000 2010	41005500f964a5204a0b1fe3	{SideBar}	{32.71155512,-117.159343,San Diego,CA,United States}	{Nightlife Spot,}
+803	Sun Jan 17 05:09:35 +0000 2010	4a693d42f964a520d2cb1fe3	{Prohibition Liquor Bar}	{32.71120335125421,-117.16011142164359,San Diego,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+803	Sat Jan 16 11:01:28 +0000 2010	4a693d42f964a520d2cb1fe3	{Prohibition Liquor Bar}	{32.71120335125421,-117.16011142164359,San Diego,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+803	Sat Jan 16 00:46:21 +0000 2010	4a77c1baf964a52019e51fe3	{Olde City Grill}	{32.797183,-117.25219309329987,San Diego,CA,United States}	{Food,}
+803	Fri Jan 15 07:49:42 +0000 2010	4a693d42f964a520d2cb1fe3	{Prohibition Liquor Bar}	{32.71120335125421,-117.16011142164359,San Diego,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+803	Fri Jan 15 01:59:29 +0000 2010	4ac573a8f964a52015b220e3	{Bluefire Grill}	{33.09119964108658,-117.26488755168374,Carlsbad,CA,United States}	{Food,}
+803	Mon Jan 11 21:02:22 +0000 2010	4b1caf88f964a520080924e3	{Snow Summit Mountain Resort}	{34.23650163757565,-116.88919665161421,Big Bear Lake,CA,United States}	{Travel & Transport,Outdoors & Recreation,Ski Area,}
+803	Mon Dec 21 07:08:09 +0000 2009	4b04b967f964a520575622e3	{Murray's}	{34.240337,-116.91356259,Big Bear Lake,CA,United States}	{Nightlife Spot,}

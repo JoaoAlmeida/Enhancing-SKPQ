@@ -1,0 +1,695 @@
+167	Fri Jun 10 14:38:40 +0000 2011	4c886450ed0aa1433e55a9f3	{Civitas school of leaderdship}	{34.0591299533844,-118.2538104057312,Los Angeles,CA,United States}	{}
+167	Mon May 30 22:29:26 +0000 2011	458d641ff964a52006401fe3	{Fry's Electronics}	{34.190986034154776,-118.35016984173598,Burbank,CA,United States}	{Shop & Service,}
+167	Mon May 30 22:28:02 +0000 2011	4a344606f964a520069c1fe3	{Bob Hope Airport (BUR)}	{34.19639831676446,-118.35313796997072,Burbank,CA,United States}	{Travel & Transport,}
+167	Sat May 28 15:45:57 +0000 2011	4d3b564a687ca35d35fa92c4	{East Los Angeles}	{34.02470751510621,-118.17169189453125,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+167	Sat May 28 15:45:25 +0000 2011	4bdca9032a3a0f4711d7b3b6	{McDonald's}	{34.03302821765993,-118.15335654279154,Monterey Park,CA,United States}	{Food,}
+167	Thu May 26 20:33:06 +0000 2011	4bce85d4cc8cd13a1d97c4cf	{76}	{34.028437,-118.219652,Los Angeles,CA,United States}	{Shop & Service,}
+167	Thu May 26 20:31:52 +0000 2011	4be477ca2457a5933546aa15	{Yoshinoya Beef Bowl}	{34.02808485994434,-118.21987325332327,Los Angeles,CA,United States}	{Food,}
+167	Thu May 26 20:30:48 +0000 2011	4c1fe9b5b4e62d7f7a5de093	{El Pollo Loco}	{34.027275,-118.219261,Los Angeles,CA,United States}	{Food,}
+167	Thu May 26 20:28:40 +0000 2011	4b6a243ef964a520edc92be3	{McDonald's}	{34.02761746885497,-118.21922214901998,Los Angeles,CA,United States}	{Food,}
+167	Thu May 26 20:28:10 +0000 2011	4b69e230f964a5200dba2be3	{SUBWAY}	{34.02786542643468,-118.21987896475363,Los Angeles,CA,United States}	{Food,}
+167	Thu May 26 01:36:31 +0000 2011	4c0699a88b4520a14aa68597	{Central Los Angeles High School #9 (VAPA)}	{34.05965995617049,-118.24404803774885,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+167	Thu May 26 01:35:42 +0000 2011	4a09f03bf964a52072741fe3	{Cathedral of Our Lady of the Angels}	{34.05738384129066,-118.24476063251495,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Wed May 25 19:02:53 +0000 2011	4c0e56a3336220a19900cc77	{Rhapsody studio}	{34.025972990621035,-118.23319750422404,Los Angeles,CA,United States}	{}
+167	Sat May 21 23:25:15 +0000 2011	4bb90ff5cf2fc9b6c632a002	{Hanmi Supermarket}	{40.846272,-73.998966,Palisades Park,NJ,United States}	{Shop & Service,Food & Drink Shop,}
+167	Sat May 21 23:24:34 +0000 2011	4b394108f964a520215925e3	{So Moon Nan Jip ????}	{40.846697,-73.99856103333333,Palisades Park,NJ,United States}	{Food,}
+167	Thu May 19 23:59:13 +0000 2011	4a81ac53f964a5203af71fe3	{Sun Sai Gai Restaurant}	{40.71724521776027,-73.99939611554146,New York,NY,United States}	{Food,}
+167	Wed May 18 21:23:42 +0000 2011	49becfd3f964a520e0541fe3	{Woorijip}	{40.74768966143616,-73.98639760931952,New York,NY,United States}	{Nightlife Spot,Food,}
+167	Wed May 18 21:22:28 +0000 2011	4aca4863f964a52036c120e3	{Radisson Hotel Martinique}	{40.748478574863555,-73.98817096588479,New York,NY,United States}	{Travel & Transport,}
+167	Wed May 18 21:21:56 +0000 2011	4b061faff964a520ece822e3	{Hotel Stanford}	{40.74828453327023,-73.98767741198104,New York,NY,United States}	{Travel & Transport,}
+167	Wed May 18 21:21:18 +0000 2011	4127e200f964a520580c1fe3	{La Quinta Inn Manhattan}	{40.74762,-73.98662,New York,NY,United States}	{Travel & Transport,Shop & Service,Hotel,}
+167	Wed May 18 17:03:19 +0000 2011	4a980f15f964a520462a20e3	{Harrie's Cafe & Bakery}	{40.7533,-73.987508,New York,NY,United States}	{Food,}
+167	Wed May 18 17:02:31 +0000 2011	4bd83b4d0b779c74989f06a0	{1407 Broadway}	{40.75389928361808,-73.98733881031316,New York,NY,United States}	{Office,Professional & Other Places,}
+167	Wed May 18 00:10:54 +0000 2011	4c3a30fb3849c9280e8ec2b1	{KPop Korean Restaurant}	{40.745985,-73.899526,Woodside,NY,United States}	{Food,}
+167	Tue May 17 17:52:06 +0000 2011	4a980f15f964a520462a20e3	{Harrie's Cafe & Bakery}	{40.7533,-73.987508,New York,NY,United States}	{Food,}
+167	Tue May 17 17:51:30 +0000 2011	4bd83b4d0b779c74989f06a0	{1407 Broadway}	{40.75389928361808,-73.98733881031316,New York,NY,United States}	{Office,Professional & Other Places,}
+167	Mon May 16 23:39:16 +0000 2011	4b1dcb05f964a5205d1524e3	{Hae Woon Dae}	{40.74585891047168,-73.8894510269165,Elmhurst,NY,United States}	{Food,}
+167	Mon May 16 23:37:05 +0000 2011	4ada3f20f964a5207d2021e3	{Mi-dang}	{40.74601125781496,-73.89011836421992,Elmhurst,NY,United States}	{Food,}
+167	Mon May 16 17:07:48 +0000 2011	4a980f15f964a520462a20e3	{Harrie's Cafe & Bakery}	{40.7533,-73.987508,New York,NY,United States}	{Food,}
+167	Mon May 16 17:06:41 +0000 2011	4bd83b4d0b779c74989f06a0	{1407 Broadway}	{40.75389928361808,-73.98733881031316,New York,NY,United States}	{Office,Professional & Other Places,}
+167	Sat May 14 22:31:42 +0000 2011	4ada3f20f964a5207d2021e3	{Mi-dang}	{40.74601125781496,-73.89011836421992,Elmhurst,NY,United States}	{Food,}
+167	Thu May 12 23:34:00 +0000 2011	4af4c165f964a520d1f521e3	{Arirang Korean Restaurant}	{40.7480127861676,-73.98720681289102,New York,NY,United States}	{Food,}
+167	Thu May 12 23:33:12 +0000 2011	4cb8cae6a33bb1f7fdd583fd	{32nd. Korean Way}	{40.74822004630936,-73.98778071406592,New York,NY,United States}	{Food,}
+167	Thu May 12 23:32:19 +0000 2011	3fd66200f964a520c4e31ee3	{Kum Gang San}	{40.74821640562404,-73.98813079294007,New York,NY,United States}	{Food,}
+167	Thu May 12 23:31:43 +0000 2011	4b061faff964a520ece822e3	{Hotel Stanford}	{40.74828453327023,-73.98767741198104,New York,NY,United States}	{Travel & Transport,}
+167	Thu May 12 23:31:06 +0000 2011	4127e200f964a520580c1fe3	{La Quinta Inn Manhattan}	{40.74762,-73.98662,New York,NY,United States}	{Travel & Transport,Shop & Service,Hotel,}
+167	Wed May 11 23:30:03 +0000 2011	4b833571f964a5207cfd30e3	{Taco Bell}	{40.75357885544934,-73.9017568431078,Woodside,NY,United States}	{Food,}
+167	Wed May 11 23:29:20 +0000 2011	4c955d0903413704274a7bef	{La Esquinita}	{40.75374084942563,-73.903154,Woodside,NY,United States}	{Food,}
+167	Wed May 11 17:49:10 +0000 2011	4a980f15f964a520462a20e3	{Harrie's Cafe & Bakery}	{40.7533,-73.987508,New York,NY,United States}	{Food,}
+167	Wed May 11 17:47:16 +0000 2011	4c128083a1010f47e3f84818	{1384 Broadway}	{40.75264581919254,-73.9874995027046,New York,NY,United States}	{Professional & Other Places,}
+167	Wed May 11 17:46:46 +0000 2011	4bd83b4d0b779c74989f06a0	{1407 Broadway}	{40.75389928361808,-73.98733881031316,New York,NY,United States}	{Office,Professional & Other Places,}
+167	Wed May 11 11:34:52 +0000 2011	4c1c0afab306c928734263b7	{Boston Market}	{40.75212630015821,-73.90994986995324,Woodside,NY,United States}	{Food,}
+167	Wed May 11 11:34:04 +0000 2011	4c955d0903413704274a7bef	{La Esquinita}	{40.75374084942563,-73.903154,Woodside,NY,United States}	{Food,}
+167	Wed May 11 11:33:44 +0000 2011	4b833571f964a5207cfd30e3	{Taco Bell}	{40.75357885544934,-73.9017568431078,Woodside,NY,United States}	{Food,}
+167	Mon May 09 23:16:29 +0000 2011	3fd66200f964a520c4e31ee3	{Kum Gang San}	{40.74821640562404,-73.98813079294007,New York,NY,United States}	{Food,}
+167	Mon May 09 23:16:02 +0000 2011	4aca4863f964a52036c120e3	{Radisson Hotel Martinique}	{40.748478574863555,-73.98817096588479,New York,NY,United States}	{Travel & Transport,}
+167	Mon May 09 23:15:31 +0000 2011	4127e200f964a520580c1fe3	{La Quinta Inn Manhattan}	{40.74762,-73.98662,New York,NY,United States}	{Travel & Transport,Shop & Service,Hotel,}
+167	Mon May 09 23:15:02 +0000 2011	4b061faff964a520ece822e3	{Hotel Stanford}	{40.74828453327023,-73.98767741198104,New York,NY,United States}	{Travel & Transport,}
+167	Mon May 09 17:27:51 +0000 2011	4c128083a1010f47e3f84818	{1384 Broadway}	{40.75264581919254,-73.9874995027046,New York,NY,United States}	{Professional & Other Places,}
+167	Mon May 09 17:27:18 +0000 2011	4bd83b4d0b779c74989f06a0	{1407 Broadway}	{40.75389928361808,-73.98733881031316,New York,NY,United States}	{Office,Professional & Other Places,}
+167	Sun May 08 23:40:46 +0000 2011	4b770590f964a52041752ee3	{Wendy's}	{40.75425311019231,-73.8968477518386,Woodside,NY,United States}	{Food,}
+167	Sun May 08 23:39:02 +0000 2011	4b833571f964a5207cfd30e3	{Taco Bell}	{40.75357885544934,-73.9017568431078,Woodside,NY,United States}	{Food,}
+167	Sun May 08 23:38:13 +0000 2011	4c0d5cf57189c92814e3d6b6	{La casa de las Locas}	{40.74916220499632,-73.90658830179062,Woodside,NY,United States}	{Residence,}
+167	Sun May 08 20:30:37 +0000 2011	4b575c8df964a520993328e3	{MTA Subway - Main St (7)}	{40.75947866655109,-73.83009851177542,Flushing,NY,United States}	{Travel & Transport,}
+167	Sun May 08 20:29:13 +0000 2011	4bff314d68c7a593a55e4044	{MTA Q13, Q16, Q28 (39th Ave/Union Street)}	{40.76175595827059,-73.82859706878662,Flushing,NY,United States}	{Travel & Transport,Bus Station,}
+167	Sun May 08 20:28:46 +0000 2011	4bfeee51c30a2d7faa39101d	{McDonald's}	{40.758846660085474,-73.82973432540894,Flushing,NY,United States}	{Food,}
+167	Sun May 08 20:27:34 +0000 2011	4d3787a29784a093b62dd8e8	{Subway}	{40.760168336071615,-73.82854408548553,Flushing,NY,United States}	{Food,}
+167	Sat May 07 12:00:21 +0000 2011	4b833571f964a5207cfd30e3	{Taco Bell}	{40.75357885544934,-73.9017568431078,Woodside,NY,United States}	{Food,}
+167	Sat May 07 00:25:13 +0000 2011	4beffecd24f19c749a29f983	{J Clipz Barber Shop}	{40.764398612101225,-73.82803863965844,Flushing,NY,United States}	{Shop & Service,}
+167	Sat May 07 00:24:31 +0000 2011	4cb4dfc43ac937044834c80a	{Peking Duck House}	{40.76106529638342,-73.82808458933245,Flushing,NY,United States}	{Food,}
+167	Sat May 07 00:23:58 +0000 2011	4b60d3cff964a520f3fb29e3	{NYPD - 109th Precinct}	{40.762233,-73.82742344,Flushing,NY,United States}	{Government Building,Professional & Other Places,}
+167	Sat May 07 00:22:31 +0000 2011	4bff314d68c7a593a55e4044	{MTA Q13, Q16, Q28 (39th Ave/Union Street)}	{40.76175595827059,-73.82859706878662,Flushing,NY,United States}	{Travel & Transport,Bus Station,}
+167	Fri May 06 17:33:43 +0000 2011	4bd83b4d0b779c74989f06a0	{1407 Broadway}	{40.75389928361808,-73.98733881031316,New York,NY,United States}	{Office,Professional & Other Places,}
+167	Thu May 05 23:16:04 +0000 2011	4127e200f964a520580c1fe3	{La Quinta Inn Manhattan}	{40.74762,-73.98662,New York,NY,United States}	{Travel & Transport,Shop & Service,Hotel,}
+167	Thu May 05 23:15:21 +0000 2011	4aca4863f964a52036c120e3	{Radisson Hotel Martinique}	{40.748478574863555,-73.98817096588479,New York,NY,United States}	{Travel & Transport,}
+167	Thu May 05 23:14:40 +0000 2011	4b061faff964a520ece822e3	{Hotel Stanford}	{40.74828453327023,-73.98767741198104,New York,NY,United States}	{Travel & Transport,}
+167	Thu May 05 20:43:46 +0000 2011	4afa085df964a520311622e3	{New York Public Library - Science, Industry and Business Library (SIBL)}	{40.74797331186306,-73.98298858662089,New York,NY,United States}	{College & University,Professional & Other Places,}
+167	Thu May 05 20:42:31 +0000 2011	4c51d40a9426c9285e7c6a74	{135 Madison Avenue-penthouse}	{40.747674107551575,-73.98395597934723,New York,NY,United States}	{Office,Professional & Other Places,}
+167	Thu May 05 17:12:10 +0000 2011	4c128083a1010f47e3f84818	{1384 Broadway}	{40.75264581919254,-73.9874995027046,New York,NY,United States}	{Professional & Other Places,}
+167	Thu May 05 15:30:20 +0000 2011	4bd83b4d0b779c74989f06a0	{1407 Broadway}	{40.75389928361808,-73.98733881031316,New York,NY,United States}	{Office,Professional & Other Places,}
+167	Thu Apr 21 20:21:41 +0000 2011	4a514860f964a520ddb01fe3	{SoHyang Korean Restaurant}	{34.06270349847126,-118.29805612564087,Los Angeles,CA,United States}	{Food,Professional & Other Places,}
+167	Thu Apr 21 20:21:40 +0000 2011	4a514860f964a520ddb01fe3	{SoHyang Korean Restaurant}	{34.06270349847126,-118.29805612564087,Los Angeles,CA,United States}	{Food,Professional & Other Places,}
+167	Thu Apr 21 02:46:41 +0000 2011	4bde48a50ee3a5936ba130b0	{Yoshinoya}	{34.08392547299567,-118.2912003993988,Los Angeles,CA,United States}	{Food,}
+167	Thu Apr 21 02:45:23 +0000 2011	4c0ac2faffb8c9b60e2e6c61	{Chevron}	{34.08145,-118.291976,Los Angeles,CA,United States}	{Shop & Service,}
+167	Thu Apr 21 02:44:18 +0000 2011	4b59e999f964a52064a028e3	{McDonald's}	{34.08335677919748,-118.29128623008728,Los Angeles,CA,United States}	{Food,}
+167	Thu Apr 21 02:44:00 +0000 2011	4af31210f964a52051ea21e3	{Cleveland Chiropractic College}	{34.08163,-118.291239,Los Angeles,CA,United States}	{College & University,}
+167	Wed Apr 20 22:08:04 +0000 2011	4b996d1df964a520b47a35e3	{SUBWAY}	{34.05370380205242,-118.2662666436933,Los Angeles,CA,United States}	{Food,}
+167	Wed Apr 20 22:06:36 +0000 2011	4d5bf0f99ac9a093e11e6b94	{Good Samaritan Hospital Employee Gym}	{34.052149,-118.268241,Los Angeles,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+167	Sun Apr 17 17:22:16 +0000 2011	4be4573cd4f7c9b644032420	{Jewelry District}	{34.04624599981671,-118.25408131466844,Los Angeles,CA,United States}	{Shop & Service,Outdoors & Recreation,}
+167	Sat Apr 16 16:47:30 +0000 2011	4d28ec7f77a2a1cde71967b7	{Tijuana}	{32.534078465469605,-117.03812599182129,Tijuana,BC,Mexico}	{Outdoors & Recreation,}
+167	Fri Apr 15 20:22:26 +0000 2011	4c3957461e06d13a1290793e	{City Market}	{34.06297013916604,-118.29116821289062,Los Angeles,CA,United States}	{Shop & Service,}
+167	Fri Apr 15 20:21:25 +0000 2011	4a514860f964a520ddb01fe3	{SoHyang Korean Restaurant}	{34.06270349847126,-118.29805612564087,Los Angeles,CA,United States}	{Food,Professional & Other Places,}
+167	Tue Apr 12 23:28:18 +0000 2011	4c0699a88b4520a14aa68597	{Central Los Angeles High School #9 (VAPA)}	{34.05965995617049,-118.24404803774885,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+167	Tue Apr 12 23:26:20 +0000 2011	4b79b1a0f964a520b30b2fe3	{Burger King}	{34.06053923379175,-118.24432611465454,Los Angeles,CA,United States}	{Food,}
+167	Tue Apr 12 23:25:38 +0000 2011	4a09f03bf964a52072741fe3	{Cathedral of Our Lady of the Angels}	{34.05738384129066,-118.24476063251495,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Tue Apr 12 01:16:19 +0000 2011	4c0699a88b4520a14aa68597	{Central Los Angeles High School #9 (VAPA)}	{34.05965995617049,-118.24404803774885,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+167	Tue Apr 12 01:15:37 +0000 2011	4b79b1a0f964a520b30b2fe3	{Burger King}	{34.06053923379175,-118.24432611465454,Los Angeles,CA,United States}	{Food,}
+167	Tue Apr 12 01:14:55 +0000 2011	4a09f03bf964a52072741fe3	{Cathedral of Our Lady of the Angels}	{34.05738384129066,-118.24476063251495,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Sun Apr 10 19:54:52 +0000 2011	4d14dfab6d103704425625bd	{Library Cafe}	{34.08576428890228,-118.291799,Los Angeles,CA,United States}	{Food,}
+167	Sun Apr 10 19:54:00 +0000 2011	4a073eecf964a52039731fe3	{LACC Swap Meet}	{34.0853304360927,-118.29045200280227,Los Angeles,CA,United States}	{Shop & Service,}
+167	Sun Apr 10 17:06:37 +0000 2011	4b66410af964a520e01a2be3	{Shin Beijing Chinese Cuisine}	{34.05277054585172,-118.30326268550698,Los Angeles,CA,United States}	{Food,}
+167	Fri Apr 08 22:27:48 +0000 2011	4c0699a88b4520a14aa68597	{Central Los Angeles High School #9 (VAPA)}	{34.05965995617049,-118.24404803774885,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+167	Fri Apr 08 22:27:12 +0000 2011	4b79b1a0f964a520b30b2fe3	{Burger King}	{34.06053923379175,-118.24432611465454,Los Angeles,CA,United States}	{Food,}
+167	Fri Apr 08 22:26:46 +0000 2011	4a09f03bf964a52072741fe3	{Cathedral of Our Lady of the Angels}	{34.05738384129066,-118.24476063251495,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Fri Apr 08 18:48:09 +0000 2011	4b92b9f5f964a520ab1534e3	{Galleria Market}	{34.05240501660971,-118.30826909365636,Los Angeles,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+167	Thu Apr 07 15:35:36 +0000 2011	4c31476b213c2d7f93cc335d	{City of Los Angeles}	{34.04945928842325,-118.25263023376465,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+167	Wed Apr 06 23:06:07 +0000 2011	4c0699a88b4520a14aa68597	{Central Los Angeles High School #9 (VAPA)}	{34.05965995617049,-118.24404803774885,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+167	Wed Apr 06 23:05:21 +0000 2011	4b79b1a0f964a520b30b2fe3	{Burger King}	{34.06053923379175,-118.24432611465454,Los Angeles,CA,United States}	{Food,}
+167	Wed Apr 06 23:04:59 +0000 2011	4a09f03bf964a52072741fe3	{Cathedral of Our Lady of the Angels}	{34.05738384129066,-118.24476063251495,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Wed Apr 06 23:04:59 +0000 2011	4a09f03bf964a52072741fe3	{Cathedral of Our Lady of the Angels}	{34.05738384129066,-118.24476063251495,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Mon Apr 04 21:24:53 +0000 2011	4cc5e4b01e596dcb54feda67	{Smw Construction}	{34.060255575,-118.2806318125,Los Angeles,CA,United States}	{}
+167	Mon Apr 04 21:23:32 +0000 2011	4bd1ee15462cb7132535db07	{Housing Authority City of Los Angeles}	{34.0605148255761,-118.2818139527386,Los Angeles,CA,United States}	{Office,Professional & Other Places,}
+167	Mon Apr 04 21:22:32 +0000 2011	4b007455f964a5206b3e22e3	{The Hayworth Theatre}	{34.060531848965674,-118.28092899888676,Los Angeles,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+167	Mon Apr 04 21:21:56 +0000 2011	4b38eb4af964a520375225e3	{Wi Spa}	{34.06042434141337,-118.28304717108864,Los Angeles,CA,United States}	{Shop & Service,}
+167	Sun Apr 03 22:06:56 +0000 2011	4d14dfab6d103704425625bd	{Library Cafe}	{34.08576428890228,-118.291799,Los Angeles,CA,United States}	{Food,}
+167	Sun Apr 03 22:06:02 +0000 2011	4a073eecf964a52039731fe3	{LACC Swap Meet}	{34.0853304360927,-118.29045200280227,Los Angeles,CA,United States}	{Shop & Service,}
+167	Sun Mar 27 22:14:24 +0000 2011	4d14dfab6d103704425625bd	{Library Cafe}	{34.08576428890228,-118.291799,Los Angeles,CA,United States}	{Food,}
+167	Sun Mar 27 22:13:29 +0000 2011	4a073eecf964a52039731fe3	{LACC Swap Meet}	{34.0853304360927,-118.29045200280227,Los Angeles,CA,United States}	{Shop & Service,}
+167	Sun Mar 27 17:47:04 +0000 2011	4ab6a5f7f964a5206a7820e3	{Los Angeles City College (LACC)}	{34.086488669205515,-118.29317520995552,Los Angeles,CA,United States}	{College & University,}
+167	Sun Mar 27 17:45:52 +0000 2011	4c7d6c683b22a1cd00e05e9e	{Holmes Hall - LACC}	{34.084326,-118.292915,Los Angeles,CA,United States}	{College & University,}
+167	Sat Mar 26 20:49:49 +0000 2011	4b8b0cf1f964a520469032e3	{HomeTown Buffet}	{34.03208090253272,-118.12607556581497,Montebello,CA,United States}	{Food,}
+167	Sat Mar 26 20:48:21 +0000 2011	4b796551f964a52060f72ee3	{Chevron}	{34.03259638960444,-118.1244374685844,Montebello,CA,United States}	{Shop & Service,}
+167	Sat Mar 26 20:47:49 +0000 2011	4b5cd56cf964a520544629e3	{Office Depot}	{34.030712107757616,-118.12430031868581,Montebello,CA,United States}	{Shop & Service,}
+167	Sat Mar 26 18:26:12 +0000 2011	4afafaa5f964a5200b1a22e3	{Rose Hills Memorial Park & Mortuary}	{34.016882176566746,-118.04080009460449,Whittier,CA,United States}	{Outdoors & Recreation,Professional & Other Places,}
+167	Sat Mar 26 04:15:10 +0000 2011	4d14dfab6d103704425625bd	{Library Cafe}	{34.08576428890228,-118.291799,Los Angeles,CA,United States}	{Food,}
+167	Sat Mar 26 03:26:13 +0000 2011	4bde48a50ee3a5936ba130b0	{Yoshinoya}	{34.08392547299567,-118.2912003993988,Los Angeles,CA,United States}	{Food,}
+167	Sat Mar 26 03:24:39 +0000 2011	4b59e999f964a52064a028e3	{McDonald's}	{34.08335677919748,-118.29128623008728,Los Angeles,CA,United States}	{Food,}
+167	Fri Mar 25 23:26:42 +0000 2011	4c0699a88b4520a14aa68597	{Central Los Angeles High School #9 (VAPA)}	{34.05965995617049,-118.24404803774885,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+167	Fri Mar 25 23:26:05 +0000 2011	4b79b1a0f964a520b30b2fe3	{Burger King}	{34.06053923379175,-118.24432611465454,Los Angeles,CA,United States}	{Food,}
+167	Fri Mar 25 23:25:33 +0000 2011	4a09f03bf964a52072741fe3	{Cathedral of Our Lady of the Angels}	{34.05738384129066,-118.24476063251495,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Wed Mar 23 22:51:16 +0000 2011	4c0699a88b4520a14aa68597	{Central Los Angeles High School #9 (VAPA)}	{34.05965995617049,-118.24404803774885,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+167	Wed Mar 23 22:50:44 +0000 2011	4b79b1a0f964a520b30b2fe3	{Burger King}	{34.06053923379175,-118.24432611465454,Los Angeles,CA,United States}	{Food,}
+167	Wed Mar 23 22:49:54 +0000 2011	4a09f03bf964a52072741fe3	{Cathedral of Our Lady of the Angels}	{34.05738384129066,-118.24476063251495,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Wed Mar 23 22:49:54 +0000 2011	4a09f03bf964a52072741fe3	{Cathedral of Our Lady of the Angels}	{34.05738384129066,-118.24476063251495,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Wed Mar 23 02:55:50 +0000 2011	4a2982c8f964a5209d951fe3	{Wilshire Plaza Hotel}	{34.06183466331374,-118.30103629925385,Los Angeles,CA,United States}	{Travel & Transport,Hotel,}
+167	Wed Mar 23 02:54:11 +0000 2011	3fd66200f964a520d1f01ee3	{BCD Tofu House}	{34.06192134759331,-118.30262124538422,Los Angeles,CA,United States}	{Food,}
+167	Mon Mar 21 22:35:05 +0000 2011	4c0699a88b4520a14aa68597	{Central Los Angeles High School #9 (VAPA)}	{34.05965995617049,-118.24404803774885,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+167	Mon Mar 21 22:34:27 +0000 2011	4b79b1a0f964a520b30b2fe3	{Burger King}	{34.06053923379175,-118.24432611465454,Los Angeles,CA,United States}	{Food,}
+167	Mon Mar 21 22:33:58 +0000 2011	4a09f03bf964a52072741fe3	{Cathedral of Our Lady of the Angels}	{34.05738384129066,-118.24476063251495,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Mon Mar 21 20:20:32 +0000 2011	4b66f776f964a520b2322be3	{Greyhound Bus Lines}	{34.03418510489355,-118.23549901682924,Los Angeles,CA,United States}	{Travel & Transport,Bus Station,}
+167	Mon Mar 21 20:20:31 +0000 2011	4b66f776f964a520b2322be3	{Greyhound Bus Lines}	{34.03418510489355,-118.23549901682924,Los Angeles,CA,United States}	{Travel & Transport,Bus Station,}
+167	Mon Mar 21 20:19:37 +0000 2011	4b66f776f964a520b2322be3	{Greyhound Bus Lines}	{34.03418510489355,-118.23549901682924,Los Angeles,CA,United States}	{Travel & Transport,Bus Station,}
+167	Sun Mar 20 15:49:33 +0000 2011	4c886450ed0aa1433e55a9f3	{Civitas school of leaderdship}	{34.0591299533844,-118.2538104057312,Los Angeles,CA,United States}	{}
+167	Wed Mar 16 02:54:37 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+167	Wed Mar 16 01:11:45 +0000 2011	4b41536bf964a52064c525e3	{Starbucks}	{34.05647300558507,-118.24627188220052,Los Angeles,CA,United States}	{Food,}
+167	Wed Mar 16 01:11:05 +0000 2011	4c0699a88b4520a14aa68597	{Central Los Angeles High School #9 (VAPA)}	{34.05965995617049,-118.24404803774885,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+167	Wed Mar 16 01:10:14 +0000 2011	4b79b1a0f964a520b30b2fe3	{Burger King}	{34.06053923379175,-118.24432611465454,Los Angeles,CA,United States}	{Food,}
+167	Wed Mar 16 01:09:52 +0000 2011	4a09f03bf964a52072741fe3	{Cathedral of Our Lady of the Angels}	{34.05738384129066,-118.24476063251495,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Mon Mar 14 19:46:48 +0000 2011	4b66f776f964a520b2322be3	{Greyhound Bus Lines}	{34.03418510489355,-118.23549901682924,Los Angeles,CA,United States}	{Travel & Transport,Bus Station,}
+167	Mon Mar 14 19:45:50 +0000 2011	4b66f776f964a520b2322be3	{Greyhound Bus Lines}	{34.03418510489355,-118.23549901682924,Los Angeles,CA,United States}	{Travel & Transport,Bus Station,}
+167	Mon Mar 14 19:44:29 +0000 2011	4b66f776f964a520b2322be3	{Greyhound Bus Lines}	{34.03418510489355,-118.23549901682924,Los Angeles,CA,United States}	{Travel & Transport,Bus Station,}
+167	Mon Mar 14 19:43:12 +0000 2011	4c082ace6071a59362d7db32	{McDonalds}	{34.04867701532947,-118.25883150100708,Los Angeles,CA,United States}	{Food,}
+167	Mon Mar 14 02:48:16 +0000 2011	4ace8bfaf964a5202ad120e3	{The Home Depot}	{34.05717781455132,-118.2712796330452,Los Angeles,CA,United States}	{Shop & Service,}
+167	Mon Mar 14 01:11:34 +0000 2011	4b32cc54f964a520211425e3	{???? Kim's Home Center}	{34.05242835,-118.29836455,Los Angeles,CA,United States}	{Shop & Service,}
+167	Sun Mar 13 17:20:00 +0000 2011	4b66410af964a520e01a2be3	{Shin Beijing Chinese Cuisine}	{34.05277054585172,-118.30326268550698,Los Angeles,CA,United States}	{Food,}
+167	Sun Mar 13 17:18:25 +0000 2011	4e36ff7ad16464ddb7778a5e	{Koreatown}	{34.06173469688513,-118.30074906349182,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+167	Sat Mar 12 21:44:00 +0000 2011	4c40cd99520fa5938ea3c8ac	{Hope sight mission}	{34.05248163938086,-118.30000877380371,Los Angeles,CA,United States}	{}
+167	Sat Mar 12 21:42:26 +0000 2011	4c9d574f54c8a1cde419834b	{Shinhan bank ????}	{34.05240916144642,-118.30035696020484,Los Angeles,CA,United States}	{Shop & Service,}
+167	Sat Mar 12 04:17:17 +0000 2011	4ab6a5f7f964a5206a7820e3	{Los Angeles City College (LACC)}	{34.086488669205515,-118.29317520995552,Los Angeles,CA,United States}	{College & University,}
+167	Sat Mar 12 04:16:18 +0000 2011	4d14dfab6d103704425625bd	{Library Cafe}	{34.08576428890228,-118.291799,Los Angeles,CA,United States}	{Food,}
+167	Sat Mar 12 04:15:32 +0000 2011	4b42f2e4f964a52030db25e3	{Jack in the Box - Los Angeles, CA}	{34.08638634503176,-118.29149676038382,Los Angeles,CA,United States}	{Food,Professional & Other Places,}
+167	Sat Mar 12 02:29:14 +0000 2011	4c0699a88b4520a14aa68597	{Central Los Angeles High School #9 (VAPA)}	{34.05965995617049,-118.24404803774885,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+167	Sat Mar 12 02:28:25 +0000 2011	4b79b1a0f964a520b30b2fe3	{Burger King}	{34.06053923379175,-118.24432611465454,Los Angeles,CA,United States}	{Food,}
+167	Sat Mar 12 02:27:14 +0000 2011	4a09f03bf964a52072741fe3	{Cathedral of Our Lady of the Angels}	{34.05738384129066,-118.24476063251495,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Fri Mar 11 02:51:58 +0000 2011	4c0699a88b4520a14aa68597	{Central Los Angeles High School #9 (VAPA)}	{34.05965995617049,-118.24404803774885,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+167	Fri Mar 11 02:51:04 +0000 2011	4b79b1a0f964a520b30b2fe3	{Burger King}	{34.06053923379175,-118.24432611465454,Los Angeles,CA,United States}	{Food,}
+167	Fri Mar 11 02:50:33 +0000 2011	4a09f03bf964a52072741fe3	{Cathedral of Our Lady of the Angels}	{34.05738384129066,-118.24476063251495,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Thu Mar 10 03:30:22 +0000 2011	4c0699a88b4520a14aa68597	{Central Los Angeles High School #9 (VAPA)}	{34.05965995617049,-118.24404803774885,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+167	Thu Mar 10 03:29:52 +0000 2011	4b79b1a0f964a520b30b2fe3	{Burger King}	{34.06053923379175,-118.24432611465454,Los Angeles,CA,United States}	{Food,}
+167	Thu Mar 10 03:29:52 +0000 2011	4b79b1a0f964a520b30b2fe3	{Burger King}	{34.06053923379175,-118.24432611465454,Los Angeles,CA,United States}	{Food,}
+167	Thu Mar 10 03:29:06 +0000 2011	4a09f03bf964a52072741fe3	{Cathedral of Our Lady of the Angels}	{34.05738384129066,-118.24476063251495,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Wed Mar 09 19:52:45 +0000 2011	4c0e56a3336220a19900cc77	{Rhapsody studio}	{34.025972990621035,-118.23319750422404,Los Angeles,CA,United States}	{}
+167	Tue Mar 08 20:30:44 +0000 2011	4be477ca2457a5933546aa15	{Yoshinoya Beef Bowl}	{34.02808485994434,-118.21987325332327,Los Angeles,CA,United States}	{Food,}
+167	Tue Mar 08 20:30:05 +0000 2011	4b69e230f964a5200dba2be3	{SUBWAY}	{34.02786542643468,-118.21987896475363,Los Angeles,CA,United States}	{Food,}
+167	Sun Mar 06 23:01:09 +0000 2011	4d14dfab6d103704425625bd	{Library Cafe}	{34.08576428890228,-118.291799,Los Angeles,CA,United States}	{Food,}
+167	Sun Mar 06 23:01:09 +0000 2011	4d14dfab6d103704425625bd	{Library Cafe}	{34.08576428890228,-118.291799,Los Angeles,CA,United States}	{Food,}
+167	Sun Mar 06 23:00:25 +0000 2011	4c02950e58dad13a9df14797	{Victory Presbyterian Church}	{34.089329,-118.285094,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Sun Mar 06 22:59:13 +0000 2011	4a073eecf964a52039731fe3	{LACC Swap Meet}	{34.0853304360927,-118.29045200280227,Los Angeles,CA,United States}	{Shop & Service,}
+167	Fri Mar 04 03:47:22 +0000 2011	4c0699a88b4520a14aa68597	{Central Los Angeles High School #9 (VAPA)}	{34.05965995617049,-118.24404803774885,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+167	Fri Mar 04 03:46:40 +0000 2011	4b79b1a0f964a520b30b2fe3	{Burger King}	{34.06053923379175,-118.24432611465454,Los Angeles,CA,United States}	{Food,}
+167	Fri Mar 04 03:46:07 +0000 2011	4a09f03bf964a52072741fe3	{Cathedral of Our Lady of the Angels}	{34.05738384129066,-118.24476063251495,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Thu Mar 03 02:35:41 +0000 2011	4c0699a88b4520a14aa68597	{Central Los Angeles High School #9 (VAPA)}	{34.05965995617049,-118.24404803774885,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+167	Thu Mar 03 02:35:17 +0000 2011	4b79b1a0f964a520b30b2fe3	{Burger King}	{34.06053923379175,-118.24432611465454,Los Angeles,CA,United States}	{Food,}
+167	Thu Mar 03 02:34:52 +0000 2011	4a09f03bf964a52072741fe3	{Cathedral of Our Lady of the Angels}	{34.05738384129066,-118.24476063251495,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Thu Mar 03 01:45:41 +0000 2011	4c72ac50376da093dfffa6c6	{Maria bonita}	{34.035196135262204,-118.2508663900999,Los Angeles,CA,United States}	{}
+167	Mon Feb 28 22:27:14 +0000 2011	4b5113edf964a520314127e3	{Los Angeles City Hall}	{34.053359990486754,-118.24227202371635,Los Angeles,CA,United States}	{Travel & Transport,Government Building,Professional & Other Places,}
+167	Sun Feb 27 23:02:39 +0000 2011	4d14dfab6d103704425625bd	{Library Cafe}	{34.08576428890228,-118.291799,Los Angeles,CA,United States}	{Food,}
+167	Sun Feb 27 23:00:19 +0000 2011	4a073eecf964a52039731fe3	{LACC Swap Meet}	{34.0853304360927,-118.29045200280227,Los Angeles,CA,United States}	{Shop & Service,}
+167	Sun Feb 27 01:33:59 +0000 2011	4e36ff7ad16464ddb7778a5e	{Koreatown}	{34.06173469688513,-118.30074906349182,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+167	Sat Feb 26 18:15:01 +0000 2011	4b9c0eb3f964a520944536e3	{Beer Halle}	{34.063377222989466,-118.30982179230688,Los Angeles,CA,United States}	{Nightlife Spot,}
+167	Sat Feb 26 18:14:41 +0000 2011	4b301984f964a5200df624e3	{School Food}	{34.062401304669606,-118.30934286117554,Los Angeles,CA,United States}	{Food,}
+167	Sat Feb 26 18:12:36 +0000 2011	4bd749f0304fce72f15133ab	{Garden Suites Hotel & Resort}	{34.06034854931961,-118.30937082614757,Los Angeles,CA,United States}	{Travel & Transport,}
+167	Wed Feb 23 04:30:40 +0000 2011	4c0699a88b4520a14aa68597	{Central Los Angeles High School #9 (VAPA)}	{34.05965995617049,-118.24404803774885,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+167	Wed Feb 23 04:30:05 +0000 2011	4b79b1a0f964a520b30b2fe3	{Burger King}	{34.06053923379175,-118.24432611465454,Los Angeles,CA,United States}	{Food,}
+167	Wed Feb 23 04:29:23 +0000 2011	4a09f03bf964a52072741fe3	{Cathedral of Our Lady of the Angels}	{34.05738384129066,-118.24476063251495,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Mon Feb 21 20:41:24 +0000 2011	4b66f776f964a520b2322be3	{Greyhound Bus Lines}	{34.03418510489355,-118.23549901682924,Los Angeles,CA,United States}	{Travel & Transport,Bus Station,}
+167	Mon Feb 21 20:41:23 +0000 2011	4b66f776f964a520b2322be3	{Greyhound Bus Lines}	{34.03418510489355,-118.23549901682924,Los Angeles,CA,United States}	{Travel & Transport,Bus Station,}
+167	Mon Feb 21 20:39:52 +0000 2011	4c082ace6071a59362d7db32	{McDonalds}	{34.04867701532947,-118.25883150100708,Los Angeles,CA,United States}	{Food,}
+167	Sun Feb 20 22:45:33 +0000 2011	4a073eecf964a52039731fe3	{LACC Swap Meet}	{34.0853304360927,-118.29045200280227,Los Angeles,CA,United States}	{Shop & Service,}
+167	Sun Feb 20 22:43:25 +0000 2011	4c02950e58dad13a9df14797	{Victory Presbyterian Church}	{34.089329,-118.285094,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Sun Feb 20 01:21:16 +0000 2011	4bac2878f964a520f8e73ae3	{Yakyudori Yakitori & Ramen}	{32.83056492737364,-117.15374708680484,San Diego,CA,United States}	{Food,}
+167	Sun Feb 20 01:20:24 +0000 2011	4ac2b524f964a520739a20e3	{Islands Restaurant}	{32.821220164592354,-117.16005972657965,San Diego,CA,United States}	{Nightlife Spot,Food,}
+167	Fri Feb 18 01:00:10 +0000 2011	4c02cf170d0e0f4794b0019a	{Radio Korea}	{34.061216301987095,-118.30716735401555,Los Angeles,CA,United States}	{Professional & Other Places,}
+167	Wed Feb 16 23:39:24 +0000 2011	4c0699a88b4520a14aa68597	{Central Los Angeles High School #9 (VAPA)}	{34.05965995617049,-118.24404803774885,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+167	Wed Feb 16 23:38:45 +0000 2011	4b79b1a0f964a520b30b2fe3	{Burger King}	{34.06053923379175,-118.24432611465454,Los Angeles,CA,United States}	{Food,}
+167	Wed Feb 16 19:50:44 +0000 2011	4c0e56a3336220a19900cc77	{Rhapsody studio}	{34.025972990621035,-118.23319750422404,Los Angeles,CA,United States}	{}
+167	Tue Feb 15 00:23:24 +0000 2011	4a677f82f964a52091c91fe3	{Las Vegas McCarran International Airport (LAS)}	{36.08365019548198,-115.14985084533691,Las Vegas,NV,United States}	{Travel & Transport,}
+167	Mon Feb 14 18:53:02 +0000 2011	4c69c91535d3be9abb4c2006	{WWD MAGIC}	{36.13083862,-115.15209,Las Vegas,NV,United States}	{Professional & Other Places,}
+167	Mon Feb 14 17:49:57 +0000 2011	4ac41475f964a520229e20e3	{Morton's The Steakhouse}	{36.11481080190464,-115.15333973981588,Las Vegas,NV,United States}	{Food,}
+167	Mon Feb 14 17:02:41 +0000 2011	4a677f82f964a52091c91fe3	{Las Vegas McCarran International Airport (LAS)}	{36.08365019548198,-115.14985084533691,Las Vegas,NV,United States}	{Travel & Transport,}
+167	Mon Feb 14 15:12:39 +0000 2011	49c99ac0f964a52088581fe3	{jetBlue Terminal}	{33.817876918376726,-118.14504146575928,Long Beach,CA,United States}	{Travel & Transport,Airport,}
+167	Mon Feb 14 15:12:00 +0000 2011	4a2f650bf964a520c5981fe3	{Long Beach Airport (LGB)}	{33.81851869758065,-118.1443977355957,Long Beach,CA,United States}	{Travel & Transport,}
+167	Mon Feb 14 00:30:10 +0000 2011	4c886450ed0aa1433e55a9f3	{Civitas school of leaderdship}	{34.0591299533844,-118.2538104057312,Los Angeles,CA,United States}	{}
+167	Fri Feb 11 15:46:34 +0000 2011	4c886450ed0aa1433e55a9f3	{Civitas school of leaderdship}	{34.0591299533844,-118.2538104057312,Los Angeles,CA,United States}	{}
+===
+167	Sat Jan 15 19:29:25 +0000 2011	4c31476b213c2d7f93cc335d	{City of Los Angeles}	{34.04945928842325,-118.25263023376465,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+167	Fri Jan 14 04:05:49 +0000 2011	4ba6a6f5f964a520496639e3	{Wako Donkasu}	{34.052504,-118.2977017,Los Angeles,CA,United States}	{Food,}
+167	Thu Jan 13 21:28:29 +0000 2011	4b66f776f964a520b2322be3	{Greyhound Bus Lines}	{34.03418510489355,-118.23549901682924,Los Angeles,CA,United States}	{Travel & Transport,Bus Station,}
+167	Thu Jan 13 05:31:55 +0000 2011	4be4573cd4f7c9b644032420	{Jewelry District}	{34.04624599981671,-118.25408131466844,Los Angeles,CA,United States}	{Shop & Service,Outdoors & Recreation,}
+167	Sat Jan 08 00:02:24 +0000 2011	4af4cb6ff964a52046f621e3	{Tony Roma's Ribs, Seafood, & Steaks}	{34.15800513363333,-118.49418461322784,Encino,CA,United States}	{Food,}
+167	Fri Jan 07 22:32:38 +0000 2011	4c886450ed0aa1433e55a9f3	{Civitas school of leaderdship}	{34.0591299533844,-118.2538104057312,Los Angeles,CA,United States}	{}
+167	Thu Jan 06 23:16:45 +0000 2011	4b2efee3f964a520fee824e3	{Hansong Buffet}	{34.05145177,-118.27821129,Los Angeles,CA,United States}	{Food,}
+167	Thu Jan 06 23:15:59 +0000 2011	4bf5e7d294b2a593e9a5acee	{El Pollo Loco}	{34.05099484,-118.278694,Los Angeles,CA,United States}	{Food,}
+167	Thu Jan 06 23:15:38 +0000 2011	4b4a0478f964a520057826e3	{McDonald's}	{34.05108332633972,-118.279261,Los Angeles,CA,United States}	{Food,}
+167	Wed Jan 05 20:13:35 +0000 2011	4b9c1ce4f964a520654b36e3	{Canton Food Co}	{34.03139410541727,-118.23800608849217,Los Angeles,CA,United States}	{Food,}
+167	Wed Jan 05 20:12:49 +0000 2011	4a16da26f964a52012791fe3	{Farmer Boys}	{34.03212834530467,-118.23842297840568,Los Angeles,CA,United States}	{Food,}
+167	Wed Jan 05 02:26:18 +0000 2011	427ff980f964a520c9211fe3	{Los Angeles Central Library}	{34.05056157007773,-118.25536608695984,Los Angeles,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+167	Mon Jan 03 20:08:43 +0000 2011	49c280f1f964a520f7551fe3	{Pho 87}	{34.06730737664468,-118.23560357093811,Los Angeles,CA,United States}	{Food,}
+167	Sun Jan 02 21:25:13 +0000 2011	4a073eecf964a52039731fe3	{LACC Swap Meet}	{34.0853304360927,-118.29045200280227,Los Angeles,CA,United States}	{Shop & Service,}
+167	Sun Jan 02 04:05:19 +0000 2011	4bd602a86f649521252070ec	{Los Angeles Jewelry Center}	{34.04684,-118.2536717,Los Angeles,CA,United States}	{Shop & Service,}
+167	Sun Jan 02 04:03:52 +0000 2011	4be4573cd4f7c9b644032420	{Jewelry District}	{34.04624599981671,-118.25408131466844,Los Angeles,CA,United States}	{Shop & Service,Outdoors & Recreation,}
+167	Sat Jan 01 06:05:26 +0000 2011	4b7b66a6f964a52007622fe3	{Japanese Village Plaza}	{34.04889925273778,-118.24002385139465,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+167	Fri Dec 31 20:03:23 +0000 2010	4b66410af964a520e01a2be3	{Shin Beijing Chinese Cuisine}	{34.05277054585172,-118.30326268550698,Los Angeles,CA,United States}	{Food,}
+167	Thu Dec 30 03:00:35 +0000 2010	4c2fe4ad7cc0c9b67299ec9a	{Guh-Mok Korean BBQ}	{33.819561,-118.320471,Torrance,CA,United States}	{Food,}
+167	Wed Dec 29 19:33:18 +0000 2010	4c0e56a3336220a19900cc77	{Rhapsody studio}	{34.025972990621035,-118.23319750422404,Los Angeles,CA,United States}	{}
+167	Wed Dec 29 01:05:07 +0000 2010	4d154680bb488cfa20619ed4	{La Quintessa}	{34.07418377287575,-118.36099579452498,,CA,United States}	{}
+167	Wed Dec 29 01:02:33 +0000 2010	4a8771b5f964a520610420e3	{Chosun Galbee}	{34.05233496895424,-118.31043183803558,Los Angeles,CA,United States}	{Food,}
+167	Wed Dec 29 00:25:52 +0000 2010	4c886450ed0aa1433e55a9f3	{Civitas school of leaderdship}	{34.0591299533844,-118.2538104057312,Los Angeles,CA,United States}	{}
+167	Sun Dec 26 20:58:16 +0000 2010	4d14dfab6d103704425625bd	{Library Cafe}	{34.08576428890228,-118.291799,Los Angeles,CA,United States}	{Food,}
+167	Sun Dec 26 20:57:04 +0000 2010	4a073eecf964a52039731fe3	{LACC Swap Meet}	{34.0853304360927,-118.29045200280227,Los Angeles,CA,United States}	{Shop & Service,}
+===
+167	Sun Nov 14 18:00:57 +0000 2010	4e36ff7ad16464ddb7778a5e	{Koreatown}	{34.06173469688513,-118.30074906349182,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+167	Sun Nov 14 04:43:57 +0000 2010	4a9e430df964a5200b3a20e3	{SanSai Japanese Grill}	{34.19548029424889,-118.3500956498884,Burbank,CA,United States}	{Food,}
+167	Sun Nov 14 04:43:09 +0000 2010	4b314e7af964a520620425e3	{Fish Dish}	{34.195376,-118.349936,Burbank,CA,United States}	{Food,}
+167	Sun Nov 14 04:42:34 +0000 2010	4a344606f964a520069c1fe3	{Bob Hope Airport (BUR)}	{34.19639831676446,-118.35313796997072,Burbank,CA,United States}	{Travel & Transport,}
+167	Sun Nov 14 03:37:48 +0000 2010	458d641ff964a52006401fe3	{Fry's Electronics}	{34.190986034154776,-118.35016984173598,Burbank,CA,United States}	{Shop & Service,}
+167	Sat Nov 13 22:19:20 +0000 2010	4cc76b4a73fd6dcbd1ef1586	{Honda Plaza}	{34.04726891652601,-118.23898834803974,Los Angeles,CA,United States}	{Professional & Other Places,}
+167	Sat Nov 13 22:06:55 +0000 2010	4b7b66a6f964a52007622fe3	{Japanese Village Plaza}	{34.04889925273778,-118.24002385139465,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+167	Sat Nov 13 01:28:08 +0000 2010	4c27ee18360cef3b42f8bddc	{Yoshinoya}	{33.816606716171776,-118.30714881420135,Torrance,CA,United States}	{Food,}
+167	Sat Nov 13 01:26:56 +0000 2010	4bc3a085461576b078ec7e32	{El Pollo Loco}	{33.81586241348318,-118.30500841140747,Torrance,CA,United States}	{Food,}
+167	Sat Nov 13 01:25:56 +0000 2010	4b6f92c4f964a52072f62ce3	{Del Taco}	{33.816225,-118.30618,Torrance,CA,United States}	{Food,}
+167	Sat Nov 13 01:25:00 +0000 2010	4c412264da3dc9287e8ec8b9	{BCD Tofu House}	{33.857689,-118.081148,Cerritos,CA,United States}	{Food,}
+167	Fri Nov 12 21:52:51 +0000 2010	4b4677b6f964a520f82126e3	{Dongguk University}	{34.06591116563416,-118.28965273037787,Los Angeles,CA,United States}	{College & University,}
+167	Fri Nov 12 21:51:37 +0000 2010	4b8c2392f964a52038c032e3	{Consulate General of the People's Republic of China}	{34.06501199535544,-118.28978974877425,Los Angeles,CA,United States}	{Government Building,Professional & Other Places,}
+167	Thu Nov 11 16:45:09 +0000 2010	4c687355d9c7c9b6549ac41a	{Garment District}	{34.03811976479185,-118.25364162162192,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,}
+167	Sun Oct 31 17:42:56 +0000 2010	4d14dfab6d103704425625bd	{Library Cafe}	{34.08576428890228,-118.291799,Los Angeles,CA,United States}	{Food,}
+167	Sun Oct 31 17:41:41 +0000 2010	4ab6a5f7f964a5206a7820e3	{Los Angeles City College (LACC)}	{34.086488669205515,-118.29317520995552,Los Angeles,CA,United States}	{College & University,}
+167	Sun Oct 31 17:41:17 +0000 2010	4a073eecf964a52039731fe3	{LACC Swap Meet}	{34.0853304360927,-118.29045200280227,Los Angeles,CA,United States}	{Shop & Service,}
+167	Sun Oct 31 17:39:50 +0000 2010	4af31210f964a52051ea21e3	{Cleveland Chiropractic College}	{34.08163,-118.291239,Los Angeles,CA,United States}	{College & University,}
+167	Sun Oct 31 17:39:34 +0000 2010	4c7d6c683b22a1cd00e05e9e	{Holmes Hall - LACC}	{34.084326,-118.292915,Los Angeles,CA,United States}	{College & University,}
+167	Sat Oct 30 21:59:48 +0000 2010	4a8225c2f964a520bef81fe3	{Cafe Sanjang}	{34.073329,-118.2871824502945,Los Angeles,CA,United States}	{Food,}
+167	Sat Oct 30 16:03:44 +0000 2010	4a6be87ef964a5203ad01fe3	{Omni Los Angeles Hotel at California Plaza}	{34.05244608293711,-118.25032889842987,Los Angeles,CA,United States}	{Travel & Transport,}
+167	Sat Oct 30 16:03:07 +0000 2010	4a6be87ef964a5203ad01fe3	{Omni Los Angeles Hotel at California Plaza}	{34.05244608293711,-118.25032889842987,Los Angeles,CA,United States}	{Travel & Transport,}
+167	Sat Oct 30 16:01:53 +0000 2010	4b26e0e0f964a5206b8224e3	{Bunker Hill Towers}	{34.05589498854687,-118.25305938720703,Los Angeles,CA,United States}	{Residence,}
+167	Sat Oct 30 02:31:38 +0000 2010	4b50fa74f964a520a33b27e3	{McDonald's}	{34.06001285693554,-118.30953637082624,Los Angeles,CA,United States}	{Food,}
+167	Sat Oct 30 01:52:49 +0000 2010	4bd749f0304fce72f15133ab	{Garden Suites Hotel & Resort}	{34.06034854931961,-118.30937082614757,Los Angeles,CA,United States}	{Travel & Transport,}
+167	Sat Oct 30 01:52:49 +0000 2010	4bd749f0304fce72f15133ab	{Garden Suites Hotel & Resort}	{34.06034854931961,-118.30937082614757,Los Angeles,CA,United States}	{Travel & Transport,}
+167	Fri Oct 29 20:51:04 +0000 2010	4c0e56a3336220a19900cc77	{Rhapsody studio}	{34.025972990621035,-118.23319750422404,Los Angeles,CA,United States}	{}
+167	Fri Oct 29 20:01:57 +0000 2010	4b11dafff964a5200b8623e3	{Pho Ga Bac-Ninh}	{34.069411,-118.108427,Monterey Park,CA,United States}	{Food,}
+167	Thu Oct 28 18:54:34 +0000 2010	4c69845b35d3be9af8861f06	{Harbor Hyundai}	{33.824947,-118.1671267747879,Long Beach-Lakewood,CA,United States}	{Shop & Service,}
+167	Thu Oct 28 18:53:29 +0000 2010	4d06b2159d33a143acb8c778	{Harbor Chevrolet}	{33.826042,-118.167036,Long Beach,CA,United States}	{Shop & Service,}
+167	Wed Oct 27 12:48:24 +0000 2010	4b06fb5af964a520baf422e3	{Office Depot}	{34.047903624607805,-118.23875516653061,Los Angeles,CA,United States}	{Shop & Service,}
+167	Wed Oct 27 12:48:24 +0000 2010	4b06fb5af964a520baf422e3	{Office Depot}	{34.047903624607805,-118.23875516653061,Los Angeles,CA,United States}	{Shop & Service,}
+167	Wed Oct 27 12:47:24 +0000 2010	4c4df906f53d0f47e451d5a5	{Savoy Apartments}	{34.04851227487784,-118.23754351082718,Los Angeles,CA,United States}	{Professional & Other Places,}
+167	Wed Oct 27 12:45:57 +0000 2010	4b7b66a6f964a52007622fe3	{Japanese Village Plaza}	{34.04889925273778,-118.24002385139465,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+167	Wed Oct 27 12:45:57 +0000 2010	4b7b66a6f964a52007622fe3	{Japanese Village Plaza}	{34.04889925273778,-118.24002385139465,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+167	Tue Oct 26 02:54:22 +0000 2010	4a75d3ecf964a5205ee11fe3	{Target}	{34.14320860131048,-118.25902462005615,Glendale,CA,United States}	{Shop & Service,Food,}
+167	Tue Oct 26 02:53:32 +0000 2010	4b4ea27bf964a52011f326e3	{La Salsa}	{34.14516383015019,-118.25894070413466,Glendale,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+167	Tue Oct 26 02:52:00 +0000 2010	4b1b10ddf964a5207cf723e3	{Peet's Coffee & Tea}	{34.145233122420635,-118.2588529586792,Glendale,CA,United States}	{Food,}
+167	Tue Oct 26 02:36:25 +0000 2010	4b29aedff964a5207fa224e3	{Office Depot}	{34.14719592394011,-118.265164,Glendale,CA,United States}	{Shop & Service,}
+167	Tue Oct 26 02:35:25 +0000 2010	4c71a6f4ad69b60c8c9a81b9	{The Childrens Place}	{34.144257,-118.2586163,Glendale,CA,United States}	{Shop & Service,Clothing Store,}
+167	Tue Oct 26 02:22:49 +0000 2010	4ba69d8bf964a5201a6339e3	{Papaya}	{34.144233249788535,-118.25867232782403,Glendale,CA,United States}	{Shop & Service,Clothing Store,}
+167	Tue Oct 26 02:20:40 +0000 2010	4b24001af964a520c55e24e3	{Nordstrom}	{34.14616920154532,-118.25738754178046,Glendale,CA,United States}	{Shop & Service,}
+167	Tue Oct 26 02:19:06 +0000 2010	441bd921f964a52048311fe3	{Glendale Galleria}	{34.14442710507933,-118.25871774126523,Glendale,CA,United States}	{Shop & Service,Clothing Store,}
+167	Sat Oct 23 23:31:40 +0000 2010	47552143f964a520c14c1fe3	{Walt Disney Concert Hall}	{34.055343884183436,-118.24986219406128,Los Angeles,CA,United States}	{Government Building,Arts & Entertainment,Professional & Other Places,}
+167	Sat Oct 23 23:29:06 +0000 2010	4bbff4ab461576b0c9957932	{Sai Sai (at the Millennium Biltmore)}	{34.04945078818598,-118.25296780411219,Los Angeles,CA,United States}	{Food,}
+167	Sat Oct 23 21:35:49 +0000 2010	4b7b66a6f964a52007622fe3	{Japanese Village Plaza}	{34.04889925273778,-118.24002385139465,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+167	Fri Oct 22 23:33:55 +0000 2010	4cc21f61914137048c07b255	{Kariss}	{34.037571,-118.253991,Los Angeles,CA,United States}	{}
+167	Fri Oct 22 23:26:58 +0000 2010	4c72ac50376da093dfffa6c6	{Maria bonita}	{34.035196135262204,-118.2508663900999,Los Angeles,CA,United States}	{}
+167	Fri Oct 22 21:14:22 +0000 2010	4c7d8b453b22a1cd324c5f9e	{MBC Building}	{34.06351034752137,-118.29552729510257,Los Angeles,CA,United States}	{}
+167	Fri Oct 22 21:11:30 +0000 2010	4c7d8b453b22a1cd324c5f9e	{MBC Building}	{34.06351034752137,-118.29552729510257,Los Angeles,CA,United States}	{}
+167	Fri Oct 22 20:01:44 +0000 2010	4bc36a9cabf49521ddbac393	{San Pedro Mart}	{34.03398960210799,-118.25210554224384,Los Angeles,CA,United States}	{Shop & Service,}
+167	Fri Oct 22 20:00:58 +0000 2010	4b1ed85ef964a5206d2024e3	{Los Angeles Fashion District}	{34.03761774628442,-118.255934715271,Los Angeles,CA,United States}	{Shop & Service,}
+167	Thu Oct 21 22:44:50 +0000 2010	4b636490f964a5209f762ae3	{McDonald's}	{34.035273,-118.23828245,Los Angeles,CA,United States}	{Food,}
+167	Thu Oct 21 22:43:53 +0000 2010	4c004498daf9c9b6e790fbef	{American Apparel}	{34.03391025700176,-118.23991119861603,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,Professional & Other Places,}
+167	Thu Oct 21 22:43:28 +0000 2010	4c004498daf9c9b6e790fbef	{American Apparel}	{34.03391025700176,-118.23991119861603,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,Professional & Other Places,}
+167	Thu Oct 21 22:42:37 +0000 2010	4c004498daf9c9b6e790fbef	{American Apparel}	{34.03391025700176,-118.23991119861603,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,Professional & Other Places,}
+167	Thu Oct 21 04:46:15 +0000 2010	4c886450ed0aa1433e55a9f3	{Civitas school of leaderdship}	{34.0591299533844,-118.2538104057312,Los Angeles,CA,United States}	{}
+167	Tue Oct 19 19:29:26 +0000 2010	4c51e9d39426c92818b88974	{County of Los Angeles Public Library - El Monte}	{34.06710753662002,-118.03583342959688,El Monte,CA,United States}	{Professional & Other Places,}
+167	Mon Oct 18 00:33:47 +0000 2010	4b5a0a08f964a52056a928e3	{Lamppost Pizza}	{33.79069554801614,-118.34117526932108,Torrance,CA,United States}	{Food,Arts & Entertainment,}
+167	Sun Oct 17 20:12:19 +0000 2010	4a073eecf964a52039731fe3	{LACC Swap Meet}	{34.0853304360927,-118.29045200280227,Los Angeles,CA,United States}	{Shop & Service,}
+167	Sun Oct 17 02:15:17 +0000 2010	4a8b4a59f964a520100c20e3	{McDonald's}	{33.43945453028501,-117.62014925479889,San Clemente,CA,United States}	{Food,}
+167	Sun Oct 17 02:14:23 +0000 2010	4bd3250bcaff95217619d4f0	{Carrows}	{33.43910536738783,-117.6207447052002,San Clemente,CA,United States}	{Food,}
+167	Sun Oct 17 00:36:13 +0000 2010	4bac2878f964a520f8e73ae3	{Yakyudori Yakitori & Ramen}	{32.83056492737364,-117.15374708680484,San Diego,CA,United States}	{Food,}
+167	Sun Oct 17 00:36:13 +0000 2010	4bac2878f964a520f8e73ae3	{Yakyudori Yakitori & Ramen}	{32.83056492737364,-117.15374708680484,San Diego,CA,United States}	{Food,}
+167	Sun Oct 17 00:06:33 +0000 2010	4c6afb9b6d390f479bbd099a	{Carl's Jr}	{32.55858537096417,-117.05946527854208,San Ysidro,CA,United States}	{Food,}
+167	Sun Oct 17 00:06:03 +0000 2010	4bae27e6f964a5201e8b3be3	{McDonald's}	{32.55547562785421,-116.93826701944229,Otay Mesa,CA,United States}	{Food,}
+167	Sun Oct 17 00:05:30 +0000 2010	4bad1b44f964a520322e3be3	{IHOP}	{32.55524168850619,-116.93796157836914,San Diego,CA,United States}	{Food,}
+167	Sat Oct 16 15:28:04 +0000 2010	4b8aa60ff964a520787732e3	{Denny's}	{33.43865088610866,-117.62355231735927,San Clemente,CA,United States}	{Food,}
+167	Tue Oct 12 19:26:34 +0000 2010	4c115a00d917c9281793b562	{Yogurt Cafe}	{34.06340144982786,-118.2981134094351,Los Angeles,CA,United States}	{}
+167	Tue Oct 12 19:25:43 +0000 2010	4b6899e5f964a52047822be3	{Corea BBQ in Zion Mkt}	{34.06311165067766,-118.29850731743824,Los Angeles,CA,United States}	{Food,}
+167	Tue Oct 12 19:24:22 +0000 2010	4a514860f964a520ddb01fe3	{SoHyang Korean Restaurant}	{34.06270349847126,-118.29805612564087,Los Angeles,CA,United States}	{Food,Professional & Other Places,}
+167	Tue Oct 12 19:23:10 +0000 2010	4b888e15f964a520650032e3	{Zion Market}	{34.06320122708955,-118.29863548278809,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+167	Sun Oct 10 21:26:16 +0000 2010	4d14dfab6d103704425625bd	{Library Cafe}	{34.08576428890228,-118.291799,Los Angeles,CA,United States}	{Food,}
+167	Sun Oct 10 21:24:19 +0000 2010	4a073eecf964a52039731fe3	{LACC Swap Meet}	{34.0853304360927,-118.29045200280227,Los Angeles,CA,United States}	{Shop & Service,}
+167	Sun Oct 10 17:06:14 +0000 2010	4a6be87ef964a5203ad01fe3	{Omni Los Angeles Hotel at California Plaza}	{34.05244608293711,-118.25032889842987,Los Angeles,CA,United States}	{Travel & Transport,}
+167	Sun Oct 10 17:05:58 +0000 2010	4a6be87ef964a5203ad01fe3	{Omni Los Angeles Hotel at California Plaza}	{34.05244608293711,-118.25032889842987,Los Angeles,CA,United States}	{Travel & Transport,}
+167	Sun Oct 10 00:16:59 +0000 2010	4b22b270f964a520034c24e3	{UCI Medical Center}	{33.787422527153296,-117.88887977600098,Orange,CA,United States}	{Medical Center,Professional & Other Places,}
+167	Sat Oct 09 15:39:37 +0000 2010	4b50b7aff964a520262f27e3	{Bank of America}	{34.05254386312158,-118.31002950668334,Los Angeles,CA,United States}	{Shop & Service,}
+167	Sat Oct 09 15:38:53 +0000 2010	4a062e12f964a520ca721fe3	{Koreatown Galleria}	{34.052277782854425,-118.30845747329374,Los Angeles,CA,United States}	{Shop & Service,}
+167	Sat Oct 09 15:38:18 +0000 2010	4a8d1227f964a520580f20e3	{Mobil}	{34.052978518259565,-118.3096162888892,LOS ANGELES,CA,United States}	{Shop & Service,}
+167	Sat Oct 09 15:37:49 +0000 2010	4a8771b5f964a520610420e3	{Chosun Galbee}	{34.05233496895424,-118.31043183803558,Los Angeles,CA,United States}	{Food,}
+167	Sat Oct 09 14:43:47 +0000 2010	4b54b2cef964a520b5c727e3	{Denny's}	{34.07802437340595,-118.2914225428437,Los Angeles,CA,United States}	{Food,}
+167	Fri Oct 08 02:17:22 +0000 2010	4c0699a88b4520a14aa68597	{Central Los Angeles High School #9 (VAPA)}	{34.05965995617049,-118.24404803774885,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+167	Fri Oct 08 00:32:33 +0000 2010	4c886450ed0aa1433e55a9f3	{Civitas school of leaderdship}	{34.0591299533844,-118.2538104057312,Los Angeles,CA,United States}	{}
+167	Thu Oct 07 16:01:49 +0000 2010	4bc36a9cabf49521ddbac393	{San Pedro Mart}	{34.03398960210799,-118.25210554224384,Los Angeles,CA,United States}	{Shop & Service,}
+167	Tue Oct 05 21:12:52 +0000 2010	4b66f776f964a520b2322be3	{Greyhound Bus Lines}	{34.03418510489355,-118.23549901682924,Los Angeles,CA,United States}	{Travel & Transport,Bus Station,}
+167	Tue Oct 05 21:11:19 +0000 2010	4c004498daf9c9b6e790fbef	{American Apparel}	{34.03391025700176,-118.23991119861603,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,Professional & Other Places,}
+167	Tue Oct 05 21:11:19 +0000 2010	4c004498daf9c9b6e790fbef	{American Apparel}	{34.03391025700176,-118.23991119861603,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,Professional & Other Places,}
+167	Tue Oct 05 21:11:08 +0000 2010	4c004498daf9c9b6e790fbef	{American Apparel}	{34.03391025700176,-118.23991119861603,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,Professional & Other Places,}
+167	Tue Oct 05 20:46:36 +0000 2010	4b148feef964a52097a423e3	{Big Lots}	{34.04540066583421,-118.2535673876195,Los Angeles,CA,United States}	{Shop & Service,}
+167	Tue Oct 05 20:43:26 +0000 2010	4c2d205a3a4d0f47325be386	{Maya brenner designs}	{34.045929,-118.254736,Los Angeles,CA,United States}	{}
+167	Tue Oct 05 20:42:11 +0000 2010	4a0f961df964a52077761fe3	{Los Angeles Athletic Club}	{34.04668296660482,-118.25518339747033,Los Angeles,CA,United States}	{Nightlife Spot,Shop & Service,Gym / Fitness Center,}
+167	Mon Oct 04 02:31:47 +0000 2010	4c1403f5a1010f47b4bd4b18	{Heal & Soul}	{34.158893,-118.4928,Encino,CA,United States}	{Arts & Entertainment,}
+167	Mon Oct 04 02:29:57 +0000 2010	4ca93c22d971b1f732fa1ce1	{Encino acupuncture n herb center}	{34.158554,-118.489293,Encino,CA,United States}	{}
+167	Sat Oct 02 23:36:26 +0000 2010	4ca12eb32fb1a14384f20241	{Pilgrim School}	{34.06475977496471,-118.28511964293614,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+167	Sat Oct 02 23:35:17 +0000 2010	4ae28e47f964a520fc8e21e3	{First Congregational Church}	{34.0643771041094,-118.2852167002284,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Sat Oct 02 22:07:10 +0000 2010	4c02f8429a7920a1e948cf79	{Olympia Convalescent Hospital}	{34.050025,-118.28062,Los Angeles,CA,United States}	{}
+167	Sat Oct 02 21:03:27 +0000 2010	4b2efee3f964a520fee824e3	{Hansong Buffet}	{34.05145177,-118.27821129,Los Angeles,CA,United States}	{Food,}
+167	Sat Oct 02 21:02:53 +0000 2010	4c3e16efb8b4be9a6fa7cbef	{Los Angeles Public Library - Pico Union}	{34.05112532287534,-118.27995839905708,Los Angeles,CA,United States}	{Professional & Other Places,}
+167	Fri Oct 01 19:40:45 +0000 2010	4b5f8b68f964a520a1c029e3	{Sam's Club}	{33.91330644,-117.969861,La Habra,CA,United States}	{Shop & Service,Food & Drink Shop,}
+167	Fri Oct 01 19:01:25 +0000 2010	4b359cbff964a520332e25e3	{Regal La Habra Stadium 16}	{33.918488220703146,-117.96046257019043,La Habra,CA,United States}	{Arts & Entertainment,Movie Theater,}
+167	Fri Oct 01 19:00:37 +0000 2010	4c4d0620f5afa593d850dfd6	{Ye Dang Korean Restaurant (??)}	{33.914495,-117.97125041484833,La Habra,CA,United States}	{Food,}
+167	Mon Sep 27 22:29:46 +0000 2010	4c0699a88b4520a14aa68597	{Central Los Angeles High School #9 (VAPA)}	{34.05965995617049,-118.24404803774885,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+167	Mon Sep 27 22:28:49 +0000 2010	4b79b1a0f964a520b30b2fe3	{Burger King}	{34.06053923379175,-118.24432611465454,Los Angeles,CA,United States}	{Food,}
+167	Sun Sep 26 17:37:36 +0000 2010	4ab6a5f7f964a5206a7820e3	{Los Angeles City College (LACC)}	{34.086488669205515,-118.29317520995552,Los Angeles,CA,United States}	{College & University,}
+167	Sun Sep 26 17:36:53 +0000 2010	4a073eecf964a52039731fe3	{LACC Swap Meet}	{34.0853304360927,-118.29045200280227,Los Angeles,CA,United States}	{Shop & Service,}
+167	Sun Sep 26 17:35:56 +0000 2010	4d14dfab6d103704425625bd	{Library Cafe}	{34.08576428890228,-118.291799,Los Angeles,CA,United States}	{Food,}
+167	Sun Sep 26 17:35:02 +0000 2010	4c02950e58dad13a9df14797	{Victory Presbyterian Church}	{34.089329,-118.285094,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Sun Sep 26 17:09:56 +0000 2010	4a6be87ef964a5203ad01fe3	{Omni Los Angeles Hotel at California Plaza}	{34.05244608293711,-118.25032889842987,Los Angeles,CA,United States}	{Travel & Transport,}
+167	Sun Sep 26 17:09:18 +0000 2010	4c7155f9d97fa1433581f8ca	{Noontide}	{34.05299265,-118.2499047,Los Angeles,CA,United States}	{}
+167	Sun Sep 26 03:23:42 +0000 2010	4b5248e0f964a520e37427e3	{Canvas LA Apartments}	{34.059128604113695,-118.25850958879228,Los Angeles,CA,United States}	{Professional & Other Places,Residence,}
+167	Sun Sep 26 03:23:24 +0000 2010	4b9c53d2f964a520da5f36e3	{Downtown LA Youth And Culture Center}	{34.0582593633796,-118.25460433959961,Los Angeles,CA,United States}	{Arts & Entertainment,}
+167	Sun Sep 26 02:02:03 +0000 2010	4c7155f9d97fa1433581f8ca	{Noontide}	{34.05299265,-118.2499047,Los Angeles,CA,United States}	{}
+167	Sun Sep 26 02:02:03 +0000 2010	4c7155f9d97fa1433581f8ca	{Noontide}	{34.05299265,-118.2499047,Los Angeles,CA,United States}	{}
+167	Sun Sep 26 02:00:01 +0000 2010	4a6be87ef964a5203ad01fe3	{Omni Los Angeles Hotel at California Plaza}	{34.05244608293711,-118.25032889842987,Los Angeles,CA,United States}	{Travel & Transport,}
+167	Sun Sep 26 01:37:45 +0000 2010	4127e200f964a520540c1fe3	{Daikokuya}	{34.04984153287815,-118.24036449193954,Los Angeles,CA,United States}	{Food,}
+167	Sun Sep 26 01:35:59 +0000 2010	4a47ab0ff964a520eca91fe3	{Miyako Hotel}	{34.049785066666665,-118.240162,Los Angeles,CA,United States}	{Nightlife Spot,Travel & Transport,}
+167	Sun Sep 26 01:31:31 +0000 2010	4b7b66a6f964a52007622fe3	{Japanese Village Plaza}	{34.04889925273778,-118.24002385139465,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+167	Sun Sep 26 01:30:05 +0000 2010	41be2d00f964a520841e1fe3	{Little Tokyo}	{34.0489487969639,-118.24025042908596,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+167	Sun Sep 26 01:28:38 +0000 2010	4a9ae5acf964a520773320e3	{Japanese American National Museum}	{34.049452,-118.239014,Los Angeles,CA,United States}	{Arts & Entertainment,}
+167	Sun Sep 26 01:12:45 +0000 2010	4a6b7e07f964a520c2ce1fe3	{American Apparel}	{34.04807252663185,-118.24018478393555,Los Angeles,CA,United States}	{Shop & Service,}
+167	Sun Sep 26 01:12:45 +0000 2010	4a6b7e07f964a520c2ce1fe3	{American Apparel}	{34.04807252663185,-118.24018478393555,Los Angeles,CA,United States}	{Shop & Service,}
+167	Sun Sep 26 01:10:53 +0000 2010	4b456cdef964a520850c26e3	{Japanese American Cultural & Community Center - JACCC}	{34.048089756341376,-118.24170666490669,Los Angeles,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+167	Sat Sep 25 21:30:44 +0000 2010	4b5cd56cf964a520544629e3	{Office Depot}	{34.030712107757616,-118.12430031868581,Montebello,CA,United States}	{Shop & Service,}
+167	Sat Sep 25 21:30:25 +0000 2010	4b510d95f964a520c83f27e3	{Albertsons}	{34.031544,-118.122755,Montebello,CA,United States}	{Shop & Service,Food & Drink Shop,}
+167	Sat Sep 25 21:30:03 +0000 2010	4b2ecf8cf964a520fbe624e3	{Best Buy}	{34.03208,-118.121961,Montebello,CA,United States}	{Shop & Service,}
+167	Sat Sep 25 21:04:56 +0000 2010	4b8b0cf1f964a520469032e3	{HomeTown Buffet}	{34.03208090253272,-118.12607556581497,Montebello,CA,United States}	{Food,}
+167	Sat Sep 25 21:04:04 +0000 2010	4ac29244f964a520cc9920e3	{Denny's}	{34.032549262046814,-118.12619626522064,Montebello,CA,United States}	{Food,}
+167	Sat Sep 25 04:23:30 +0000 2010	4c02950e58dad13a9df14797	{Victory Presbyterian Church}	{34.089329,-118.285094,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Sat Sep 25 04:22:00 +0000 2010	4d14dfab6d103704425625bd	{Library Cafe}	{34.08576428890228,-118.291799,Los Angeles,CA,United States}	{Food,}
+167	Sat Sep 25 02:25:04 +0000 2010	4ba6a6f5f964a520496639e3	{Wako Donkasu}	{34.052504,-118.2977017,Los Angeles,CA,United States}	{Food,}
+167	Sat Sep 25 02:23:54 +0000 2010	4b32cc54f964a520211425e3	{???? Kim's Home Center}	{34.05242835,-118.29836455,Los Angeles,CA,United States}	{Shop & Service,}
+167	Sat Sep 25 02:22:42 +0000 2010	4aab19f8f964a520ec5820e3	{O Dae San}	{34.0529026,-118.29725,Los Angeles,CA,United States}	{Food,}
+167	Sat Sep 25 01:58:43 +0000 2010	4c9d574f54c8a1cde419834b	{Shinhan bank ????}	{34.05240916144642,-118.30035696020484,Los Angeles,CA,United States}	{Shop & Service,}
+167	Sat Sep 25 01:54:50 +0000 2010	4c40cf73520fa593aaa6c8ac	{Dawooljung}	{34.05128639216711,-118.29627516002198,Los Angeles,CA,United States}	{}
+167	Fri Sep 24 21:46:42 +0000 2010	49e60064f964a520ea631fe3	{Viet Noodle Bar}	{34.11692556795273,-118.26240671778969,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+167	Fri Sep 24 20:42:37 +0000 2010	4c65f81219f3c9b66ddc9eff	{Chapman Plaza}	{34.063907,-118.297277,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+167	Fri Sep 24 05:04:17 +0000 2010	4be4644b910020a1dba5d114	{McDonalds}	{33.81093845685956,-118.29126268957049,Torrance,CA,United States}	{Food,}
+167	Fri Sep 24 05:03:58 +0000 2010	4bb813fc314e95216229489d	{AMPM}	{33.80910545330386,-118.28880786895752,Harbor City,CA,United States}	{Shop & Service,}
+167	Fri Sep 24 05:03:30 +0000 2010	4b77ab41f964a52044a62ee3	{Food 4 Less}	{33.810522897113366,-118.28904185535208,Torrance,CA,United States}	{Shop & Service,Food & Drink Shop,}
+167	Fri Sep 24 01:11:22 +0000 2010	4abb7d4ef964a520d68320e3	{Loews Hollywood Hotel}	{34.10316995155632,-118.33869695663452,Hollywood,CA,United States}	{Travel & Transport,}
+167	Fri Sep 24 01:09:38 +0000 2010	4ae74e8ef964a52040aa21e3	{Koji's Sushi & Shabu Shabu}	{34.1020461445603,-118.33935141563416,Los Angeles,CA,United States}	{Food,}
+167	Thu Sep 23 17:14:04 +0000 2010	4ac65af5f964a520eab320e3	{Jeon Ju}	{34.05249129,-118.2923,Los Angeles,CA,United States}	{Food,}
+167	Thu Sep 23 17:13:29 +0000 2010	4ac65af5f964a520eab320e3	{Jeon Ju}	{34.05249129,-118.2923,Los Angeles,CA,United States}	{Food,}
+167	Thu Sep 23 17:12:22 +0000 2010	4b57b1f5f964a5205f3c28e3	{El Pollo Loco - Koreatown}	{34.05277677608808,-118.29129694385597,Los Angeles,CA,United States}	{Food,}
+167	Thu Sep 23 17:11:57 +0000 2010	450fbe95f964a5207e391fe3	{Beverly Soon Tofu}	{34.05265942137599,-118.29254150390625,Los Angeles,CA,United States}	{Food,}
+167	Wed Sep 22 23:06:41 +0000 2010	4a8771b5f964a520610420e3	{Chosun Galbee}	{34.05233496895424,-118.31043183803558,Los Angeles,CA,United States}	{Food,}
+167	Wed Sep 22 23:01:52 +0000 2010	4a8d1227f964a520580f20e3	{Mobil}	{34.052978518259565,-118.3096162888892,LOS ANGELES,CA,United States}	{Shop & Service,}
+167	Wed Sep 22 23:01:32 +0000 2010	4a062e12f964a520ca721fe3	{Koreatown Galleria}	{34.052277782854425,-118.30845747329374,Los Angeles,CA,United States}	{Shop & Service,}
+167	Tue Sep 21 23:02:35 +0000 2010	450fbe95f964a5207e391fe3	{Beverly Soon Tofu}	{34.05265942137599,-118.29254150390625,Los Angeles,CA,United States}	{Food,}
+167	Tue Sep 21 22:35:44 +0000 2010	4c99333b78fc236ab1ec2a97	{Koryo health}	{34.051229564657994,-118.29114850856915,LA,CA,United States}	{}
+167	Tue Sep 21 22:26:04 +0000 2010	4c5cc65d7f661b8df0b9491c	{Police Station Olympic Station}	{34.05075648333333,-118.29156495664061,Los Angeles,CA,United States}	{Government Building,Professional & Other Places,}
+167	Tue Sep 21 12:45:49 +0000 2010	4c4df906f53d0f47e451d5a5	{Savoy Apartments}	{34.04851227487784,-118.23754351082718,Los Angeles,CA,United States}	{Professional & Other Places,}
+167	Tue Sep 21 02:15:52 +0000 2010	4b06fb5af964a520baf422e3	{Office Depot}	{34.047903624607805,-118.23875516653061,Los Angeles,CA,United States}	{Shop & Service,}
+167	Mon Sep 20 23:00:18 +0000 2010	4c2bef25b34ad13adfa6eace	{Children's Bureau Magnolia Place}	{34.039452366666666,-118.28611661666666,Los Angeles,CA,United States}	{Professional & Other Places,}
+167	Mon Sep 20 02:45:11 +0000 2010	4b46bddff964a520a42726e3	{Agua Caliente Resort and Casino}	{33.81366957989073,-116.40941619873047,Rancho Mirage,CA,United States}	{Nightlife Spot,Travel & Transport,Arts & Entertainment,Hotel,}
+167	Sun Sep 19 21:05:25 +0000 2010	4d14dfab6d103704425625bd	{Library Cafe}	{34.08576428890228,-118.291799,Los Angeles,CA,United States}	{Food,}
+167	Sun Sep 19 21:04:35 +0000 2010	4a073eecf964a52039731fe3	{LACC Swap Meet}	{34.0853304360927,-118.29045200280227,Los Angeles,CA,United States}	{Shop & Service,}
+167	Sun Sep 19 04:00:21 +0000 2010	4c886450ed0aa1433e55a9f3	{Civitas school of leaderdship}	{34.0591299533844,-118.2538104057312,Los Angeles,CA,United States}	{}
+167	Sun Sep 19 04:00:21 +0000 2010	4c886450ed0aa1433e55a9f3	{Civitas school of leaderdship}	{34.0591299533844,-118.2538104057312,Los Angeles,CA,United States}	{}
+167	Sun Sep 19 00:55:50 +0000 2010	4b4ef700f964a520c4f726e3	{isushi}	{32.819436127602245,-117.15435021365836,San Diego,CA,United States}	{Food,}
+167	Sat Sep 18 16:52:01 +0000 2010	4b95e537f964a5200fb734e3	{McDonald's}	{32.584321069333676,-117.03974169245532,San Diego,CA,United States}	{Food,}
+167	Sat Sep 18 12:56:12 +0000 2010	4b06fb5af964a520baf422e3	{Office Depot}	{34.047903624607805,-118.23875516653061,Los Angeles,CA,United States}	{Shop & Service,}
+167	Sat Sep 18 04:45:24 +0000 2010	4b8059b2f964a5205b6a30e3	{Miguel Contreras Learning Complex}	{34.058357707913224,-118.26051669269455,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+167	Sat Sep 18 04:29:36 +0000 2010	4b62186af964a52017352ae3	{Food 4 Less}	{34.05699740902553,-118.27068603756393,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+167	Sat Sep 18 04:17:18 +0000 2010	4ace8bfaf964a5202ad120e3	{The Home Depot}	{34.05717781455132,-118.2712796330452,Los Angeles,CA,United States}	{Shop & Service,}
+167	Sat Sep 18 04:16:11 +0000 2010	4b241537f964a520ab6024e3	{McDonald's}	{34.055974,-118.27077867,Los Angeles,CA,United States}	{Food,}
+167	Sat Sep 18 04:14:29 +0000 2010	4b51401af964a520b44827e3	{Starbucks}	{34.05567,-118.270336,Los Angeles,CA,United States}	{Food,}
+167	Sat Sep 18 02:33:11 +0000 2010	4c2fe4ad7cc0c9b67299ec9a	{Guh-Mok Korean BBQ}	{33.819561,-118.320471,Torrance,CA,United States}	{Food,}
+167	Sat Sep 18 02:16:33 +0000 2010	4c11638b17002d7fd51fe609	{American Red Cross}	{33.8226892709179,-118.33550205031125,Torrance,CA,United States}	{Professional & Other Places,}
+167	Sat Sep 18 02:15:43 +0000 2010	4b441814f964a52061f125e3	{Da Maat}	{33.822566,-118.335563,Torrance,CA,United States}	{Food,}
+167	Sat Sep 18 01:04:32 +0000 2010	4b7d9c89f964a520acc92fe3	{UCI Medical Center- Cafeteria}	{33.78821222222412,-117.88860527422908,Orange,CA,United States}	{Shop & Service,Food & Drink Shop,}
+167	Sat Sep 18 01:03:56 +0000 2010	4b22b270f964a520034c24e3	{UCI Medical Center}	{33.787422527153296,-117.88887977600098,Orange,CA,United States}	{Medical Center,Professional & Other Places,}
+167	Fri Sep 17 21:53:36 +0000 2010	4d07d3b7049ca35d30c9e78b	{One Stop Auto Shop}	{33.90437296688141,-118.13389483695727,Bellflower,CA,United States}	{Shop & Service,}
+167	Fri Sep 17 21:53:35 +0000 2010	4d07d3b7049ca35d30c9e78b	{One Stop Auto Shop}	{33.90437296688141,-118.13389483695727,Bellflower,CA,United States}	{Shop & Service,}
+167	Fri Sep 17 21:53:03 +0000 2010	4c31241e66e40f47d19dc48b	{Del Taco}	{33.90385870286263,-118.13432296686472,Bellflower,CA,United States}	{Food,}
+167	Fri Sep 17 21:52:16 +0000 2010	4b50d4f6f964a520333427e3	{Kaiser Permanente Medical Center}	{33.902808619312076,-118.13334055217473,Bellflower,CA,United States}	{Medical Center,Professional & Other Places,}
+167	Fri Sep 17 20:56:53 +0000 2010	4b57b1f5f964a5205f3c28e3	{El Pollo Loco - Koreatown}	{34.05277677608808,-118.29129694385597,Los Angeles,CA,United States}	{Food,}
+167	Fri Sep 17 20:55:41 +0000 2010	4a84f281f964a520eefd1fe3	{Nak Won Restaurant}	{34.052271880141824,-118.29173653990757,Los Angeles,CA,United States}	{Food,}
+167	Fri Sep 17 20:55:04 +0000 2010	4a8f4c19f964a520c71420e3	{Hodori}	{34.05236608088411,-118.29199969768524,Los Angeles,CA,United States}	{Food,}
+167	Thu Sep 16 22:26:58 +0000 2010	4b50d4f6f964a520333427e3	{Kaiser Permanente Medical Center}	{33.902808619312076,-118.13334055217473,Bellflower,CA,United States}	{Medical Center,Professional & Other Places,}
+167	Thu Sep 16 19:52:00 +0000 2010	4d07d3b7049ca35d30c9e78b	{One Stop Auto Shop}	{33.90437296688141,-118.13389483695727,Bellflower,CA,United States}	{Shop & Service,}
+167	Thu Sep 16 19:50:37 +0000 2010	4c31241e66e40f47d19dc48b	{Del Taco}	{33.90385870286263,-118.13432296686472,Bellflower,CA,United States}	{Food,}
+167	Mon Sep 13 14:13:41 +0000 2010	4b9c53d2f964a520da5f36e3	{Downtown LA Youth And Culture Center}	{34.0582593633796,-118.25460433959961,Los Angeles,CA,United States}	{Arts & Entertainment,}
+167	Mon Sep 13 14:13:41 +0000 2010	4b9c53d2f964a520da5f36e3	{Downtown LA Youth And Culture Center}	{34.0582593633796,-118.25460433959961,Los Angeles,CA,United States}	{Arts & Entertainment,}
+167	Mon Sep 13 04:31:46 +0000 2010	4ad40904f964a52031e720e3	{Fashion Institute of Design & Merchandising (FIDM)}	{34.04412347253667,-118.26040820119401,Los Angeles,CA,United States}	{College Academic Building,College & University,Professional & Other Places,}
+167	Mon Sep 13 04:30:46 +0000 2010	4a185165f964a5209e791fe3	{Ralphs}	{34.04545626030918,-118.26074509562864,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+167	Sun Sep 12 22:55:25 +0000 2010	4b326ba1f964a520420b25e3	{Office Depot}	{34.14555721888293,-118.12723696231842,Pasadena,CA,United States}	{Shop & Service,}
+167	Sun Sep 12 19:47:27 +0000 2010	4a073eecf964a52039731fe3	{LACC Swap Meet}	{34.0853304360927,-118.29045200280227,Los Angeles,CA,United States}	{Shop & Service,}
+167	Sun Sep 12 17:30:12 +0000 2010	4c02950e58dad13a9df14797	{Victory Presbyterian Church}	{34.089329,-118.285094,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Sun Sep 12 17:15:07 +0000 2010	4a6be87ef964a5203ad01fe3	{Omni Los Angeles Hotel at California Plaza}	{34.05244608293711,-118.25032889842987,Los Angeles,CA,United States}	{Travel & Transport,}
+167	Sat Sep 11 23:51:07 +0000 2010	4c73dd704bc4236acbf0ce7a	{McDonald's}	{34.058434,-118.21226,Los Angeles,CA,United States}	{Food,}
+167	Sat Sep 11 23:50:55 +0000 2010	4bc01ca4461576b00fd07932	{76 Gas}	{34.05773296666667,-118.21063756942749,Los Angeles,CA,United States}	{Shop & Service,}
+167	Sat Sep 11 22:03:46 +0000 2010	4bbab5e03db7b71379a7239a	{Popeyes Louisiana Kitchen}	{34.05681987095177,-118.2081587108772,Los Angeles,CA,United States}	{Food,}
+167	Sat Sep 11 21:53:14 +0000 2010	4bcf1077b6c49c749e129891	{LAC+USC Medical Center}	{34.05761938873174,-118.20870637893677,Los Angeles,CA,United States}	{Medical Center,College & University,Professional & Other Places,}
+167	Sat Sep 11 21:46:56 +0000 2010	4bb68cae46d4a5930770c6c0	{Mobil}	{34.02827808333333,-118.21885,LOS ANGELES,CA,United States}	{Shop & Service,}
+167	Sat Sep 11 16:59:35 +0000 2010	4b50fa74f964a520a33b27e3	{McDonald's}	{34.06001285693554,-118.30953637082624,Los Angeles,CA,United States}	{Food,}
+167	Sat Sep 11 15:05:09 +0000 2010	4bd749f0304fce72f15133ab	{Garden Suites Hotel & Resort}	{34.06034854931961,-118.30937082614757,Los Angeles,CA,United States}	{Travel & Transport,}
+167	Sat Sep 11 12:48:29 +0000 2010	4b06fb5af964a520baf422e3	{Office Depot}	{34.047903624607805,-118.23875516653061,Los Angeles,CA,United States}	{Shop & Service,}
+167	Sat Sep 11 02:08:12 +0000 2010	4b65e2b1f964a52026062be3	{Cottonwood Church}	{33.80498687380966,-118.05216173773124,Los Alamitos,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Fri Sep 10 23:14:51 +0000 2010	4c004498daf9c9b6e790fbef	{American Apparel}	{34.03391025700176,-118.23991119861603,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,Professional & Other Places,}
+167	Fri Sep 10 23:14:38 +0000 2010	4c004498daf9c9b6e790fbef	{American Apparel}	{34.03391025700176,-118.23991119861603,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,Professional & Other Places,}
+167	Fri Sep 10 23:13:11 +0000 2010	4b66f776f964a520b2322be3	{Greyhound Bus Lines}	{34.03418510489355,-118.23549901682924,Los Angeles,CA,United States}	{Travel & Transport,Bus Station,}
+167	Fri Sep 10 23:13:09 +0000 2010	4b66f776f964a520b2322be3	{Greyhound Bus Lines}	{34.03418510489355,-118.23549901682924,Los Angeles,CA,United States}	{Travel & Transport,Bus Station,}
+167	Fri Sep 10 23:11:35 +0000 2010	4c082ace6071a59362d7db32	{McDonalds}	{34.04867701532947,-118.25883150100708,Los Angeles,CA,United States}	{Food,}
+167	Fri Sep 10 20:01:21 +0000 2010	4c8a8e8f3dc2a1cd6603ae32	{Weekendz off}	{34.004928,-118.130552,Southeast,CA,United States}	{}
+167	Thu Sep 09 20:36:23 +0000 2010	4b6a243ef964a520edc92be3	{McDonald's}	{34.02761746885497,-118.21922214901998,Los Angeles,CA,United States}	{Food,}
+167	Thu Sep 09 20:35:42 +0000 2010	4bb68cae46d4a5930770c6c0	{Mobil}	{34.02827808333333,-118.21885,LOS ANGELES,CA,United States}	{Shop & Service,}
+167	Thu Sep 09 20:34:57 +0000 2010	4b69e230f964a5200dba2be3	{SUBWAY}	{34.02786542643468,-118.21987896475363,Los Angeles,CA,United States}	{Food,}
+167	Thu Sep 09 20:33:59 +0000 2010	4bce85d4cc8cd13a1d97c4cf	{76}	{34.028437,-118.219652,Los Angeles,CA,United States}	{Shop & Service,}
+167	Thu Sep 09 20:32:20 +0000 2010	4be477ca2457a5933546aa15	{Yoshinoya Beef Bowl}	{34.02808485994434,-118.21987325332327,Los Angeles,CA,United States}	{Food,}
+167	Thu Sep 09 04:36:37 +0000 2010	4c886450ed0aa1433e55a9f3	{Civitas school of leaderdship}	{34.0591299533844,-118.2538104057312,Los Angeles,CA,United States}	{}
+167	Thu Sep 09 04:33:56 +0000 2010	4c5dac7c94fd0f47f819cc45	{Edward R Roybal Learning Center}	{34.05998371546328,-118.25387477874756,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+167	Thu Sep 09 04:32:14 +0000 2010	47552143f964a520c14c1fe3	{Walt Disney Concert Hall}	{34.055343884183436,-118.24986219406128,Los Angeles,CA,United States}	{Government Building,Arts & Entertainment,Professional & Other Places,}
+167	Thu Sep 09 04:31:34 +0000 2010	4bf6cfa9b1a7a5934ec1d65b	{Classic Parking}	{34.054853,-118.248142,Los Angeles,CA,United States}	{Professional & Other Places,}
+167	Wed Sep 08 18:24:33 +0000 2010	4c0e56a3336220a19900cc77	{Rhapsody studio}	{34.025972990621035,-118.23319750422404,Los Angeles,CA,United States}	{}
+167	Wed Sep 08 01:46:39 +0000 2010	4b60f384f964a52034032ae3	{???? Hannam Chain Supermarket}	{34.05211029,-118.29323351383209,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+167	Wed Sep 08 01:44:23 +0000 2010	4adb8c36f964a520de2821e3	{So Kong Dong}	{34.05244960229377,-118.29243304041782,Los Angeles,CA,United States}	{Food,}
+167	Wed Sep 08 01:43:22 +0000 2010	450fbe95f964a5207e391fe3	{Beverly Soon Tofu}	{34.05265942137599,-118.29254150390625,Los Angeles,CA,United States}	{Food,}
+167	Sun Sep 05 20:25:01 +0000 2010	4bae386ef964a5201a943be3	{Ralph B. Clark Park}	{33.895087571485085,-117.97994613647461,Buena Park,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+167	Sun Sep 05 04:19:14 +0000 2010	4b5248e0f964a520e37427e3	{Canvas LA Apartments}	{34.059128604113695,-118.25850958879228,Los Angeles,CA,United States}	{Professional & Other Places,Residence,}
+167	Sun Sep 05 04:18:42 +0000 2010	4b9c53d2f964a520da5f36e3	{Downtown LA Youth And Culture Center}	{34.0582593633796,-118.25460433959961,Los Angeles,CA,United States}	{Arts & Entertainment,}
+167	Sun Sep 05 02:48:47 +0000 2010	4b9e9457f964a5200ff136e3	{Carl's Jr.}	{34.06390480891704,-118.28743758433504,Los Angeles,CA,United States}	{Food,}
+167	Sun Sep 05 02:47:00 +0000 2010	4c5f1647cd522d7fdc1ccb3f	{The Salvation Army & Center for Worship And Service}	{34.046515516666666,-118.281525,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Sun Sep 05 02:45:51 +0000 2010	4c082b4f009a0f47e3afe5bf	{Food 4 Less}	{34.051559,-118.284711,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+167	Sun Sep 05 02:44:02 +0000 2010	4af8d2aef964a5202a1022e3	{Jack in the Box - Los Angeles, CA}	{34.0470412104396,-118.28382934662073,Los Angeles,CA,United States}	{Food,}
+167	Sun Sep 05 02:42:41 +0000 2010	4b26ecbbf964a520178324e3	{King Taco}	{34.04681131666667,-118.282159,Los Angeles,CA,United States}	{Food,}
+167	Sat Sep 04 21:53:50 +0000 2010	4bc3d65adce4eee192c5719d	{Lake Elsinore Hot Springs Motel}	{33.67234680878415,-117.32949128153217,Lake Elsinore,CA,United States}	{Travel & Transport,Hotel,}
+167	Sat Sep 04 21:50:06 +0000 2010	4bc0f9f44cdfc9b6d5e49321	{City Of Lake Elsinore}	{33.66805045173267,-117.32765436172485,Lake Elsinore,CA,United States}	{Outdoors & Recreation,}
+167	Sat Sep 04 15:57:58 +0000 2010	4ac5094af964a52012a020e3	{Holiday Inn Mission Valley Stadium}	{32.811982849681186,-117.11587291767442,San Diego,CA,United States}	{Travel & Transport,}
+167	Sat Sep 04 15:45:49 +0000 2010	4bcd08600687ef3b416ee0cc	{FedEx Office Print & Ship Center}	{32.809849,-117.115761,San Diego,CA,United States}	{Shop & Service,}
+167	Sat Sep 04 15:44:51 +0000 2010	4c8fc8330b9e3704b538625e	{I15}	{32.81039775386203,-117.11408615112306,San Diego,CA,United States}	{Travel & Transport,}
+167	Sat Sep 04 04:54:22 +0000 2010	4b5a5350f964a5205dbd28e3	{Sizzler}	{32.810540199279785,-117.116367,San Diego,CA,United States}	{Food,}
+167	Sat Sep 04 04:53:46 +0000 2010	4b77607bf964a52039962ee3	{Tony's Sushi}	{32.810783,-117.11609244346619,San Diego,CA,United States}	{Food,}
+167	Sat Sep 04 02:08:37 +0000 2010	4ac5094af964a52012a020e3	{Holiday Inn Mission Valley Stadium}	{32.811982849681186,-117.11587291767442,San Diego,CA,United States}	{Travel & Transport,}
+167	Sat Sep 04 02:06:38 +0000 2010	4ab2e5f0f964a520e26c20e3	{Jack in the Box - San Diego, CA}	{32.81153533256468,-117.1160337812968,San Diego,CA,United States}	{Food,}
+167	Fri Sep 03 23:18:56 +0000 2010	4b89acbff964a520fd4a32e3	{ampm}	{33.45790854,-117.65651418,San Clemente,CA,United States}	{Shop & Service,}
+167	Fri Sep 03 21:05:16 +0000 2010	4c5dac7c94fd0f47f819cc45	{Edward R Roybal Learning Center}	{34.05998371546328,-118.25387477874756,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+167	Fri Sep 03 21:04:12 +0000 2010	4b9c53d2f964a520da5f36e3	{Downtown LA Youth And Culture Center}	{34.0582593633796,-118.25460433959961,Los Angeles,CA,United States}	{Arts & Entertainment,}
+167	Fri Sep 03 21:03:27 +0000 2010	4b5248e0f964a520e37427e3	{Canvas LA Apartments}	{34.059128604113695,-118.25850958879228,Los Angeles,CA,United States}	{Professional & Other Places,Residence,}
+167	Thu Sep 02 18:08:13 +0000 2010	4c7fe80c47cc224b964b6e9f	{California center bank}	{33.884929,-118.299179,Gardena,CA,United States}	{}
+167	Thu Sep 02 17:18:53 +0000 2010	4c7fdc7c74d7b60c405968d8	{Fang}	{33.862959100129665,-118.28204870223999,Gardena,CA,United States}	{}
+167	Wed Sep 01 18:32:15 +0000 2010	4c0e56a3336220a19900cc77	{Rhapsody studio}	{34.025972990621035,-118.23319750422404,Los Angeles,CA,United States}	{}
+167	Mon Aug 30 00:07:52 +0000 2010	4c3e16efb8b4be9a6fa7cbef	{Los Angeles Public Library - Pico Union}	{34.05112532287534,-118.27995839905708,Los Angeles,CA,United States}	{Professional & Other Places,}
+167	Sun Aug 29 20:19:12 +0000 2010	4a073eecf964a52039731fe3	{LACC Swap Meet}	{34.0853304360927,-118.29045200280227,Los Angeles,CA,United States}	{Shop & Service,}
+167	Sun Aug 29 20:17:24 +0000 2010	4d14dfab6d103704425625bd	{Library Cafe}	{34.08576428890228,-118.291799,Los Angeles,CA,United States}	{Food,}
+167	Sun Aug 29 20:16:00 +0000 2010	4c02950e58dad13a9df14797	{Victory Presbyterian Church}	{34.089329,-118.285094,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Sun Aug 29 01:54:22 +0000 2010	4ad40904f964a52031e720e3	{Fashion Institute of Design & Merchandising (FIDM)}	{34.04412347253667,-118.26040820119401,Los Angeles,CA,United States}	{College Academic Building,College & University,Professional & Other Places,}
+167	Sun Aug 29 01:52:01 +0000 2010	4394dc84f964a520862b1fe3	{The Original Pantry}	{34.04637682393983,-118.26289504766464,Los Angeles,CA,United States}	{Food,}
+167	Sun Aug 29 01:16:29 +0000 2010	4a7645e4f964a520bee21fe3	{Shik Do Rak (???)}	{34.07341290641717,-118.30864548683167,Los Angeles,CA,United States}	{Food,}
+167	Sun Aug 29 00:27:56 +0000 2010	4a7645e4f964a520bee21fe3	{Shik Do Rak (???)}	{34.07341290641717,-118.30864548683167,Los Angeles,CA,United States}	{Food,}
+167	Sun Aug 29 00:27:09 +0000 2010	4a69f2cdf964a52042cc1fe3	{Pipers Restaurant}	{34.075528556827095,-118.30899977714336,Los Angeles,CA,United States}	{Food,}
+167	Sun Aug 29 00:25:50 +0000 2010	4b18bcedf964a52070d523e3	{Han Kook Supermarket}	{34.074062,-118.30870449542999,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+167	Sat Aug 28 21:34:11 +0000 2010	4b9fea26f964a520134a37e3	{Harbor Restaurant}	{34.41031899785296,-119.68671464056342,,,United States}	{Nightlife Spot,Food,}
+167	Sat Aug 28 19:39:58 +0000 2010	4b3a6087f964a520f06525e3	{Santa Barbara Shellfish Co.}	{34.408786212070154,-119.68505859375,Santa Barbara,CA,United States}	{Food,}
+167	Sat Aug 28 18:25:47 +0000 2010	4c85429bd4e237045b278188	{Moby Dick Restaurant}	{34.40910486826539,-119.68535900115967,Santa Barbara,CA,United States}	{Food,}
+167	Fri Aug 27 01:44:35 +0000 2010	427ff980f964a520c9211fe3	{Los Angeles Central Library}	{34.05056157007773,-118.25536608695984,Los Angeles,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+167	Fri Aug 27 01:03:05 +0000 2010	4c082ace6071a59362d7db32	{McDonalds}	{34.04867701532947,-118.25883150100708,Los Angeles,CA,United States}	{Food,}
+167	Fri Aug 27 01:03:05 +0000 2010	4c082ace6071a59362d7db32	{McDonalds}	{34.04867701532947,-118.25883150100708,Los Angeles,CA,United States}	{Food,}
+167	Fri Aug 27 01:01:42 +0000 2010	4c004498daf9c9b6e790fbef	{American Apparel}	{34.03391025700176,-118.23991119861603,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,Professional & Other Places,}
+167	Fri Aug 27 01:00:32 +0000 2010	4c004498daf9c9b6e790fbef	{American Apparel}	{34.03391025700176,-118.23991119861603,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,Professional & Other Places,}
+167	Tue Aug 24 03:39:53 +0000 2010	4a6b7e07f964a520c2ce1fe3	{American Apparel}	{34.04807252663185,-118.24018478393555,Los Angeles,CA,United States}	{Shop & Service,}
+167	Tue Aug 24 03:30:00 +0000 2010	4abd80aaf964a520b78a20e3	{Nijiya Market}	{34.04881035784435,-118.24013113975525,Los Angeles,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+167	Tue Aug 24 03:20:11 +0000 2010	4bd8622df645c9b6fcc3a7e0	{Manufacturers Bank}	{34.05223274396137,-118.25726509094238,Los Angeles,CA,United States}	{Shop & Service,}
+167	Tue Aug 24 03:18:22 +0000 2010	4a261b8af964a520a57e1fe3	{DoubleTree By Hilton Los Angeles Downtown}	{34.05065344561217,-118.24308864981691,Los Angeles,CA,United States}	{Travel & Transport,Hotel,}
+167	Tue Aug 24 02:30:19 +0000 2010	4af62715f964a520bb0122e3	{Joy Mart Restaurant Sushi & Sake Bar}	{34.048843693440304,-118.24043154716492,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+167	Mon Aug 23 23:31:33 +0000 2010	4d06b2159d33a143acb8c778	{Harbor Chevrolet}	{33.826042,-118.167036,Long Beach,CA,United States}	{Shop & Service,}
+167	Mon Aug 23 23:28:58 +0000 2010	4c69845b35d3be9af8861f06	{Harbor Hyundai}	{33.824947,-118.1671267747879,Long Beach-Lakewood,CA,United States}	{Shop & Service,}
+167	Mon Aug 23 17:31:03 +0000 2010	4a1999dbf964a5202a7a1fe3	{Paul's Kitchen}	{34.035322415886206,-118.25154021588044,Los Angeles,CA,United States}	{Food,}
+167	Sun Aug 22 17:19:12 +0000 2010	4b42f2e4f964a52030db25e3	{Jack in the Box - Los Angeles, CA}	{34.08638634503176,-118.29149676038382,Los Angeles,CA,United States}	{Food,Professional & Other Places,}
+167	Sun Aug 22 17:18:17 +0000 2010	4d14dfab6d103704425625bd	{Library Cafe}	{34.08576428890228,-118.291799,Los Angeles,CA,United States}	{Food,}
+167	Sun Aug 22 17:16:29 +0000 2010	4a073eecf964a52039731fe3	{LACC Swap Meet}	{34.0853304360927,-118.29045200280227,Los Angeles,CA,United States}	{Shop & Service,}
+167	Sun Aug 22 16:53:17 +0000 2010	4c7155f9d97fa1433581f8ca	{Noontide}	{34.05299265,-118.2499047,Los Angeles,CA,United States}	{}
+167	Sun Aug 22 01:45:16 +0000 2010	4b416705f964a52047c625e3	{Convoy Tofu House}	{32.818959,-117.15444157,San Diego,CA,United States}	{Food,}
+167	Sun Aug 22 01:06:44 +0000 2010	4a777845f964a5209ae41fe3	{CarMax}	{32.82301081007906,-117.15628595166393,San Diego,CA,United States}	{Shop & Service,}
+167	Sun Aug 22 01:05:56 +0000 2010	4af22426f964a52021e621e3	{Marukai Market}	{32.82146837122664,-117.14854863418418,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+167	Sun Aug 22 00:24:12 +0000 2010	4b8e9de9f964a520262c33e3	{Brown Field Municipal Airport (SDM)}	{32.56882331630335,-116.98817253112793,San Diego,CA,United States}	{Travel & Transport,Airport,}
+167	Sun Aug 22 00:23:05 +0000 2010	4b4f3c12f964a52042fe26e3	{Starbucks}	{32.56731847423198,-116.96539378461786,San Diego,CA,United States}	{Food,Professional & Other Places,}
+167	Sat Aug 21 15:08:31 +0000 2010	4d250c683574a143cb994ad1	{CA-133 (Laguna Freeway)}	{33.64506357566308,-117.76223659515381,Laguna Hills,CA,United States}	{Travel & Transport,}
+167	Sat Aug 21 14:15:32 +0000 2010	4d14dfab6d103704425625bd	{Library Cafe}	{34.08576428890228,-118.291799,Los Angeles,CA,United States}	{Food,}
+167	Sat Aug 21 13:49:05 +0000 2010	4a073eecf964a52039731fe3	{LACC Swap Meet}	{34.0853304360927,-118.29045200280227,Los Angeles,CA,United States}	{Shop & Service,}
+167	Sat Aug 21 01:59:04 +0000 2010	4aa54363f964a520c34720e3	{Cafe latte}	{34.05246464,-118.304078,Los Angeles,CA,United States}	{Food,}
+167	Fri Aug 20 04:37:18 +0000 2010	4b414e66f964a52008c525e3	{99 Ranch Market}	{33.99676344335204,-117.89043635730839,Rowland Heights,CA,United States}	{Shop & Service,Food & Drink Shop,}
+167	Thu Aug 19 21:58:54 +0000 2010	4c69c91535d3be9abb4c2006	{WWD MAGIC}	{36.13083862,-115.15209,Las Vegas,NV,United States}	{Professional & Other Places,}
+167	Thu Aug 19 21:58:13 +0000 2010	4d0fb027b3692d437bb235de	{Las Vegas Convention Center}	{36.1312200154285,-115.15341281890869,Las Vegas,NV,United States}	{Professional & Other Places,}
+167	Wed Aug 18 23:14:06 +0000 2010	4b7dc056f964a5205ed22fe3	{Sands Convention Center}	{36.1224034003953,-115.16651807897946,Las Vegas,NV,United States}	{Outdoors & Recreation,Convention Center,Professional & Other Places,}
+167	Wed Aug 18 23:12:03 +0000 2010	41326e00f964a52038151fe3	{Venetian Resort & Casino}	{36.122190206301894,-115.17006397247314,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+167	Wed Aug 18 16:28:13 +0000 2010	4c69c82f8d22c9285135b845	{American Express Business Zone @MAGIC}	{36.131212,-115.151801,Las Vegas,NV,United States}	{Professional & Other Places,}
+167	Wed Aug 18 16:27:37 +0000 2010	4c69c91535d3be9abb4c2006	{WWD MAGIC}	{36.13083862,-115.15209,Las Vegas,NV,United States}	{Professional & Other Places,}
+167	Wed Aug 18 04:29:01 +0000 2010	431e2d80f964a52078271fe3	{Palace Station Hotel & Casino}	{36.14291645354648,-115.17497717402873,Las Vegas,NV,United States}	{Travel & Transport,Nightlife Spot,Arts & Entertainment,Hotel,}
+167	Tue Aug 17 22:16:42 +0000 2010	45a90a24f964a52020411fe3	{Golden Nugget Hotel & Casino}	{36.17029099081043,-115.14497995376587,Las Vegas,NV,United States}	{Nightlife Spot,Travel & Transport,Arts & Entertainment,}
+167	Tue Aug 17 22:01:32 +0000 2010	46f7dfbdf964a520084b1fe3	{Main Street Casino Brewery Hotel & Casino}	{36.17432259626172,-115.14489948749542,Las Vegas,NV,United States}	{Travel & Transport,Food,Arts & Entertainment,}
+167	Tue Aug 17 22:00:54 +0000 2010	41326e00f964a520df131fe3	{The California Hotel & Casino}	{36.17301609065227,-115.14502483163933,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Convention Center,Professional & Other Places,}
+167	Tue Aug 17 19:18:56 +0000 2010	4b0ec6e5f964a520e15a23e3	{Barstow Station}	{34.89149284677313,-116.99887990951538,Barstow,CA,United States}	{Travel & Transport,Food,}
+167	Tue Aug 17 15:14:17 +0000 2010	4b66f776f964a520b2322be3	{Greyhound Bus Lines}	{34.03418510489355,-118.23549901682924,Los Angeles,CA,United States}	{Travel & Transport,Bus Station,}
+167	Tue Aug 17 15:13:04 +0000 2010	4c082ace6071a59362d7db32	{McDonalds}	{34.04867701532947,-118.25883150100708,Los Angeles,CA,United States}	{Food,}
+167	Tue Aug 17 15:12:20 +0000 2010	4c004498daf9c9b6e790fbef	{American Apparel}	{34.03391025700176,-118.23991119861603,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,Professional & Other Places,}
+167	Tue Aug 17 15:11:16 +0000 2010	4c004498daf9c9b6e790fbef	{American Apparel}	{34.03391025700176,-118.23991119861603,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,Professional & Other Places,}
+167	Tue Aug 17 02:11:32 +0000 2010	4bfd9557e529c928c322bb8c	{Yoshinoya}	{34.052929306412445,-118.29782225945495,Los Angeles,CA,United States}	{Food,}
+167	Tue Aug 17 02:10:45 +0000 2010	4ba6a6f5f964a520496639e3	{Wako Donkasu}	{34.052504,-118.2977017,Los Angeles,CA,United States}	{Food,}
+167	Mon Aug 16 23:59:18 +0000 2010	4c69d0d30e98a5931f892559	{Wilshire state bank}	{34.06133348054743,-118.29185072051442,Los Angeles,CA,United States}	{Shop & Service,}
+167	Mon Aug 16 16:48:39 +0000 2010	4d14dfab6d103704425625bd	{Library Cafe}	{34.08576428890228,-118.291799,Los Angeles,CA,United States}	{Food,}
+167	Sun Aug 15 17:46:28 +0000 2010	4a073eecf964a52039731fe3	{LACC Swap Meet}	{34.0853304360927,-118.29045200280227,Los Angeles,CA,United States}	{Shop & Service,}
+167	Sun Aug 15 17:46:06 +0000 2010	4b42f2e4f964a52030db25e3	{Jack in the Box - Los Angeles, CA}	{34.08638634503176,-118.29149676038382,Los Angeles,CA,United States}	{Food,Professional & Other Places,}
+167	Sun Aug 15 17:44:42 +0000 2010	4ab6a5f7f964a5206a7820e3	{Los Angeles City College (LACC)}	{34.086488669205515,-118.29317520995552,Los Angeles,CA,United States}	{College & University,}
+167	Sun Aug 15 01:37:45 +0000 2010	4a7e6011f964a520d4f11fe3	{Noe Restaurant & Bar}	{34.051983847811144,-118.25121402740479,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+167	Sun Aug 15 01:35:59 +0000 2010	4a6be87ef964a5203ad01fe3	{Omni Los Angeles Hotel at California Plaza}	{34.05244608293711,-118.25032889842987,Los Angeles,CA,United States}	{Travel & Transport,}
+167	Sat Aug 14 22:45:03 +0000 2010	4c02950e58dad13a9df14797	{Victory Presbyterian Church}	{34.089329,-118.285094,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Sat Aug 14 22:43:26 +0000 2010	4a073eecf964a52039731fe3	{LACC Swap Meet}	{34.0853304360927,-118.29045200280227,Los Angeles,CA,United States}	{Shop & Service,}
+167	Sat Aug 14 19:42:38 +0000 2010	4b92b9f5f964a520ab1534e3	{Galleria Market}	{34.05240501660971,-118.30826909365636,Los Angeles,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+167	Fri Aug 13 21:21:36 +0000 2010	4aef3c2cf964a520c8d621e3	{Forest Lawn}	{34.14825205501301,-118.32528591156006,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+167	Fri Aug 13 02:47:44 +0000 2010	4aff640ef964a520173822e3	{Young Kyung Restaurant}	{34.052468403810884,-118.30334260652242,Los Angeles,CA,United States}	{Food,}
+167	Sun Aug 08 23:39:08 +0000 2010	4b741b9ef964a5203dc82de3	{Crossfit@ Pan Pacific Park}	{34.075591,-118.354825,Los Angeles,CA,United States}	{Food,}
+167	Sun Aug 08 23:38:21 +0000 2010	4ab66dcaf964a5200f7720e3	{Pan Pacific Park}	{34.07356955256767,-118.35434736081477,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+167	Sun Aug 08 23:36:59 +0000 2010	41687b80f964a520861d1fe3	{The Grove}	{34.07219539048036,-118.35753679275513,Los Angeles,CA,United States}	{Outdoors & Recreation,Shop & Service,}
+167	Sun Aug 08 16:54:18 +0000 2010	4a7e6011f964a520d4f11fe3	{Noe Restaurant & Bar}	{34.051983847811144,-118.25121402740479,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+167	Sun Aug 08 16:54:00 +0000 2010	4a6be87ef964a5203ad01fe3	{Omni Los Angeles Hotel at California Plaza}	{34.05244608293711,-118.25032889842987,Los Angeles,CA,United States}	{Travel & Transport,}
+167	Sun Aug 08 01:59:03 +0000 2010	4ae88780f964a52026b021e3	{Jamba Juice}	{34.16093261312981,-118.5112515091896,Encino,CA,United States}	{Food,}
+167	Sun Aug 08 01:57:25 +0000 2010	3fd66200f964a52050ef1ee3	{Buca di Beppo}	{34.16149,-118.51423,Encino,CA,United States}	{Food,}
+167	Sat Aug 07 19:52:50 +0000 2010	4ae2d6daf964a520858f21e3	{Pho La}	{34.06314948,-118.29758486666667,Los Angeles,CA,United States}	{Food,}
+167	Sat Aug 07 19:52:15 +0000 2010	4b2271a0f964a520dc4624e3	{Paris Baguette LA}	{34.06329274177551,-118.297632,Los Angeles,CA,United States}	{Food,}
+167	Sat Aug 07 19:50:59 +0000 2010	4b888e15f964a520650032e3	{Zion Market}	{34.06320122708955,-118.29863548278809,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+167	Sat Aug 07 03:57:09 +0000 2010	4a6be87ef964a5203ad01fe3	{Omni Los Angeles Hotel at California Plaza}	{34.05244608293711,-118.25032889842987,Los Angeles,CA,United States}	{Travel & Transport,}
+167	Fri Aug 06 02:38:05 +0000 2010	427ff980f964a520c9211fe3	{Los Angeles Central Library}	{34.05056157007773,-118.25536608695984,Los Angeles,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+167	Fri Aug 06 02:36:46 +0000 2010	4b633975f964a520d06b2ae3	{Panda Express}	{34.05063268453109,-118.25623512268066,Los Angeles,CA,United States}	{Food,}
+167	Thu Aug 05 22:43:29 +0000 2010	4a062e12f964a520ca721fe3	{Koreatown Galleria}	{34.052277782854425,-118.30845747329374,Los Angeles,CA,United States}	{Shop & Service,}
+167	Wed Aug 04 20:03:17 +0000 2010	4c004498daf9c9b6e790fbef	{American Apparel}	{34.03391025700176,-118.23991119861603,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,Professional & Other Places,}
+167	Wed Aug 04 01:18:26 +0000 2010	4b636490f964a5209f762ae3	{McDonald's}	{34.035273,-118.23828245,Los Angeles,CA,United States}	{Food,}
+167	Tue Aug 03 22:01:51 +0000 2010	4b2bd40df964a520debb24e3	{Los Angeles Unified School District Headquarters}	{34.05650279497894,-118.25739325196199,Los Angeles,CA,United States}	{Professional & Other Places,}
+167	Tue Aug 03 18:19:41 +0000 2010	4c0e56a3336220a19900cc77	{Rhapsody studio}	{34.025972990621035,-118.23319750422404,Los Angeles,CA,United States}	{}
+167	Tue Aug 03 01:01:08 +0000 2010	4c004498daf9c9b6e790fbef	{American Apparel}	{34.03391025700176,-118.23991119861603,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,Professional & Other Places,}
+167	Tue Aug 03 01:00:31 +0000 2010	4c004498daf9c9b6e790fbef	{American Apparel}	{34.03391025700176,-118.23991119861603,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,Professional & Other Places,}
+167	Tue Aug 03 00:59:34 +0000 2010	4c004498daf9c9b6e790fbef	{American Apparel}	{34.03391025700176,-118.23991119861603,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,Professional & Other Places,}
+167	Mon Aug 02 19:18:07 +0000 2010	4c35429d213c2d7faff7395d	{Bombshelter Studio}	{34.0317898738691,-118.22859438646806,Los Angeles,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+167	Sun Aug 01 20:44:07 +0000 2010	4a073eecf964a52039731fe3	{LACC Swap Meet}	{34.0853304360927,-118.29045200280227,Los Angeles,CA,United States}	{Shop & Service,}
+167	Sun Aug 01 20:43:34 +0000 2010	4c02950e58dad13a9df14797	{Victory Presbyterian Church}	{34.089329,-118.285094,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Sun Aug 01 16:59:59 +0000 2010	4a6be87ef964a5203ad01fe3	{Omni Los Angeles Hotel at California Plaza}	{34.05244608293711,-118.25032889842987,Los Angeles,CA,United States}	{Travel & Transport,}
+167	Sun Aug 01 00:10:30 +0000 2010	4ba8dac4f964a5205ff439e3	{Pilgrim School}	{34.069981,-118.338518,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+167	Sat Jul 31 22:41:23 +0000 2010	4ae28e47f964a520fc8e21e3	{First Congregational Church}	{34.0643771041094,-118.2852167002284,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Sat Jul 31 02:07:45 +0000 2010	4b0586d7f964a520d87022e3	{Sushi Ten}	{32.235884,-110.89732164,Tucson,AZ,United States}	{Food,}
+167	Fri Jul 30 20:55:22 +0000 2010	4a91ebb4f964a520581c20e3	{McDonald's}	{33.60871138642858,-114.60599500658819,Blythe,CA,United States}	{Food,}
+167	Fri Jul 30 20:54:53 +0000 2010	4acd2060f964a520f9ca20e3	{Shell}	{33.60817015171051,-114.60583448409702,Blythe,CA,United States}	{Shop & Service,}
+167	Fri Jul 30 18:11:41 +0000 2010	4bea16f1415e20a156b7e4bb	{AMPM}	{33.92519646834837,-116.90135210752487,Banning,CA,United States}	{Shop & Service,}
+167	Fri Jul 30 18:10:46 +0000 2010	4b74f0b3f964a520c9f82de3	{McDonald's}	{33.92503177317197,-116.8994289636612,Banning,CA,United States}	{Food,}
+167	Fri Jul 30 18:08:47 +0000 2010	4b74ef0ef964a5209ff82de3	{Starbucks}	{33.925317303733955,-116.9017054003177,Banning,CA,United States}	{Food,}
+167	Fri Jul 30 16:13:40 +0000 2010	4bcd352fb6c49c74dc2a9591	{Nathaniel Narbonne Senior High School}	{33.803043346245595,-118.30601692199707,Lomita,CA,United States}	{School,Professional & Other Places,}
+167	Fri Jul 30 02:10:25 +0000 2010	4b241537f964a520ab6024e3	{McDonald's}	{34.055974,-118.27077867,Los Angeles,CA,United States}	{Food,}
+167	Fri Jul 30 02:09:19 +0000 2010	4b51401af964a520b44827e3	{Starbucks}	{34.05567,-118.270336,Los Angeles,CA,United States}	{Food,}
+167	Thu Jul 29 02:53:03 +0000 2010	4d14dfab6d103704425625bd	{Library Cafe}	{34.08576428890228,-118.291799,Los Angeles,CA,United States}	{Food,}
+167	Thu Jul 29 02:53:03 +0000 2010	4d14dfab6d103704425625bd	{Library Cafe}	{34.08576428890228,-118.291799,Los Angeles,CA,United States}	{Food,}
+167	Thu Jul 29 00:28:42 +0000 2010	4c0e56a3336220a19900cc77	{Rhapsody studio}	{34.025972990621035,-118.23319750422404,Los Angeles,CA,United States}	{}
+167	Thu Jul 29 00:16:42 +0000 2010	4bc36a9cabf49521ddbac393	{San Pedro Mart}	{34.03398960210799,-118.25210554224384,Los Angeles,CA,United States}	{Shop & Service,}
+167	Wed Jul 28 02:28:27 +0000 2010	4b95be0af964a52092b134e3	{California Market}	{34.07658040523529,-118.30322219,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+167	Sun Jul 25 22:20:24 +0000 2010	4c02950e58dad13a9df14797	{Victory Presbyterian Church}	{34.089329,-118.285094,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Sun Jul 25 22:18:28 +0000 2010	4a073eecf964a52039731fe3	{LACC Swap Meet}	{34.0853304360927,-118.29045200280227,Los Angeles,CA,United States}	{Shop & Service,}
+167	Thu Jul 22 20:00:19 +0000 2010	4bbfa713b492d13a9609a360	{Jack in the Box - Los Angeles, CA}	{34.02538239955902,-118.220253,Los Angeles,CA,United States}	{Food,}
+167	Thu Jul 22 19:59:45 +0000 2010	4c1fe9b5b4e62d7f7a5de093	{El Pollo Loco}	{34.027275,-118.219261,Los Angeles,CA,United States}	{Food,}
+167	Tue Jul 20 21:56:42 +0000 2010	4b66410af964a520e01a2be3	{Shin Beijing Chinese Cuisine}	{34.05277054585172,-118.30326268550698,Los Angeles,CA,United States}	{Food,}
+167	Tue Jul 20 21:55:14 +0000 2010	4aff640ef964a520173822e3	{Young Kyung Restaurant}	{34.052468403810884,-118.30334260652242,Los Angeles,CA,United States}	{Food,}
+167	Tue Jul 20 19:35:06 +0000 2010	4a05e9e9f964a5209a721fe3	{Dong Il Jang}	{34.057848,-118.305014,Los Angeles,CA,United States}	{Food,}
+167	Sun Jul 18 19:58:43 +0000 2010	4d14dfab6d103704425625bd	{Library Cafe}	{34.08576428890228,-118.291799,Los Angeles,CA,United States}	{Food,}
+167	Sun Jul 18 17:33:56 +0000 2010	4c02950e58dad13a9df14797	{Victory Presbyterian Church}	{34.089329,-118.285094,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Sun Jul 18 17:32:50 +0000 2010	4a073eecf964a52039731fe3	{LACC Swap Meet}	{34.0853304360927,-118.29045200280227,Los Angeles,CA,United States}	{Shop & Service,}
+167	Sun Jul 18 16:50:48 +0000 2010	4a6be87ef964a5203ad01fe3	{Omni Los Angeles Hotel at California Plaza}	{34.05244608293711,-118.25032889842987,Los Angeles,CA,United States}	{Travel & Transport,}
+167	Sun Jul 18 16:50:48 +0000 2010	4a6be87ef964a5203ad01fe3	{Omni Los Angeles Hotel at California Plaza}	{34.05244608293711,-118.25032889842987,Los Angeles,CA,United States}	{Travel & Transport,}
+167	Sat Jul 17 15:20:03 +0000 2010	4b6ad89af964a52038e32be3	{McDonald's}	{33.91758978366852,-118.07225167751312,Norwalk,CA,United States}	{Food,}
+167	Sat Jul 17 15:18:14 +0000 2010	4b7db026f964a52085ce2fe3	{Jack in the Box - Norwalk, CA}	{33.91664143,-118.073018,Norwalk,CA,United States}	{Food,}
+167	Sat Jul 17 14:03:30 +0000 2010	4a073eecf964a52039731fe3	{LACC Swap Meet}	{34.0853304360927,-118.29045200280227,Los Angeles,CA,United States}	{Shop & Service,}
+167	Sat Jul 17 14:01:48 +0000 2010	4c02950e58dad13a9df14797	{Victory Presbyterian Church}	{34.089329,-118.285094,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Sat Jul 17 13:08:09 +0000 2010	4a6be87ef964a5203ad01fe3	{Omni Los Angeles Hotel at California Plaza}	{34.05244608293711,-118.25032889842987,Los Angeles,CA,United States}	{Travel & Transport,}
+167	Fri Jul 16 21:30:31 +0000 2010	4c40cf73520fa593aaa6c8ac	{Dawooljung}	{34.05128639216711,-118.29627516002198,Los Angeles,CA,United States}	{}
+167	Fri Jul 16 21:22:35 +0000 2010	4c40cd99520fa5938ea3c8ac	{Hope sight mission}	{34.05248163938086,-118.30000877380371,Los Angeles,CA,United States}	{}
+167	Wed Jul 14 18:07:40 +0000 2010	4c0e56a3336220a19900cc77	{Rhapsody studio}	{34.025972990621035,-118.23319750422404,Los Angeles,CA,United States}	{}
+167	Wed Jul 14 03:34:22 +0000 2010	4b4070d6f964a52039b825e3	{Kike's Tacos}	{34.0579098,-118.255603,Los Angeles,CA,United States}	{Food,Professional & Other Places,}
+167	Wed Jul 14 03:33:10 +0000 2010	4b2bd40df964a520debb24e3	{Los Angeles Unified School District Headquarters}	{34.05650279497894,-118.25739325196199,Los Angeles,CA,United States}	{Professional & Other Places,}
+167	Tue Jul 13 15:53:42 +0000 2010	4b66f776f964a520b2322be3	{Greyhound Bus Lines}	{34.03418510489355,-118.23549901682924,Los Angeles,CA,United States}	{Travel & Transport,Bus Station,}
+167	Tue Jul 13 15:51:45 +0000 2010	4b636490f964a5209f762ae3	{McDonald's}	{34.035273,-118.23828245,Los Angeles,CA,United States}	{Food,}
+167	Sun Jul 11 17:10:03 +0000 2010	4a073eecf964a52039731fe3	{LACC Swap Meet}	{34.0853304360927,-118.29045200280227,Los Angeles,CA,United States}	{Shop & Service,}
+167	Sun Jul 11 17:08:00 +0000 2010	4c02950e58dad13a9df14797	{Victory Presbyterian Church}	{34.089329,-118.285094,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Sun Jul 11 16:46:55 +0000 2010	4a6be87ef964a5203ad01fe3	{Omni Los Angeles Hotel at California Plaza}	{34.05244608293711,-118.25032889842987,Los Angeles,CA,United States}	{Travel & Transport,}
+167	Fri Jul 09 05:44:06 +0000 2010	4a612031f964a520f2c11fe3	{Forever 21}	{34.14430966266865,-118.25778007507324,Glendale,CA,United States}	{Shop & Service,Clothing Store,}
+167	Fri Jul 09 01:28:44 +0000 2010	4ba69d8bf964a5201a6339e3	{Papaya}	{34.144233249788535,-118.25867232782403,Glendale,CA,United States}	{Shop & Service,Clothing Store,}
+167	Fri Jul 09 00:30:48 +0000 2010	4b66410af964a520e01a2be3	{Shin Beijing Chinese Cuisine}	{34.05277054585172,-118.30326268550698,Los Angeles,CA,United States}	{Food,}
+167	Fri Jul 09 00:28:50 +0000 2010	4aff640ef964a520173822e3	{Young Kyung Restaurant}	{34.052468403810884,-118.30334260652242,Los Angeles,CA,United States}	{Food,}
+167	Fri Jul 09 00:28:50 +0000 2010	4aff640ef964a520173822e3	{Young Kyung Restaurant}	{34.052468403810884,-118.30334260652242,Los Angeles,CA,United States}	{Food,}
+167	Thu Jul 08 23:13:34 +0000 2010	4e36ff7ad16464ddb7778a5e	{Koreatown}	{34.06173469688513,-118.30074906349182,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+167	Thu Jul 08 23:11:33 +0000 2010	4b7b5c8bf964a520fb5f2fe3	{Burger King}	{34.07057793348581,-118.29202651977539,Los Angeles,CA,United States}	{Food,}
+167	Wed Jul 07 18:05:19 +0000 2010	4c0e56a3336220a19900cc77	{Rhapsody studio}	{34.025972990621035,-118.23319750422404,Los Angeles,CA,United States}	{}
+167	Tue Jul 06 01:59:36 +0000 2010	4b12e94ff964a520ad9023e3	{YongSuSan}	{34.05391,-118.291375,Los Angeles,CA,United States}	{Food,}
+167	Tue Jul 06 01:57:52 +0000 2010	4a29d1fef964a520e2951fe3	{Dragon Chinese Restaurant (??)}	{34.053423,-118.29133369,Los Angeles,CA,United States}	{Food,}
+167	Sun Jul 04 17:51:39 +0000 2010	4a073eecf964a52039731fe3	{LACC Swap Meet}	{34.0853304360927,-118.29045200280227,Los Angeles,CA,United States}	{Shop & Service,}
+167	Sun Jul 04 01:43:48 +0000 2010	4ab6a5f7f964a5206a7820e3	{Los Angeles City College (LACC)}	{34.086488669205515,-118.29317520995552,Los Angeles,CA,United States}	{College & University,}
+167	Sun Jul 04 00:57:54 +0000 2010	427ff980f964a520c9211fe3	{Los Angeles Central Library}	{34.05056157007773,-118.25536608695984,Los Angeles,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+167	Fri Jul 02 17:32:27 +0000 2010	4c004498daf9c9b6e790fbef	{American Apparel}	{34.03391025700176,-118.23991119861603,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,Professional & Other Places,}
+167	Fri Jul 02 17:32:26 +0000 2010	4c004498daf9c9b6e790fbef	{American Apparel}	{34.03391025700176,-118.23991119861603,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,Professional & Other Places,}
+167	Fri Jul 02 17:31:48 +0000 2010	4c004498daf9c9b6e790fbef	{American Apparel}	{34.03391025700176,-118.23991119861603,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,Professional & Other Places,}
+167	Fri Jul 02 02:43:20 +0000 2010	49d700f9f964a520175d1fe3	{Dae Sung Oak - Korean BBQ}	{34.0525054,-118.28738,Los Angeles,CA,United States}	{Food,}
+167	Thu Jul 01 21:07:10 +0000 2010	4bb37f14715eef3b766786bb	{Canteen 2301}	{34.034737,-118.222672,Los Angeles,CA,United States}	{Food,}
+167	Thu Jul 01 20:39:04 +0000 2010	4be477ca2457a5933546aa15	{Yoshinoya Beef Bowl}	{34.02808485994434,-118.21987325332327,Los Angeles,CA,United States}	{Food,}
+167	Thu Jul 01 20:12:33 +0000 2010	4bcdbff3937ca593ef34ad92	{Under The Whittier Bridge}	{34.0358142402507,-118.22117545453705,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+167	Thu Jul 01 16:52:32 +0000 2010	4c004498daf9c9b6e790fbef	{American Apparel}	{34.03391025700176,-118.23991119861603,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,Professional & Other Places,}
+167	Thu Jul 01 16:51:47 +0000 2010	4c004498daf9c9b6e790fbef	{American Apparel}	{34.03391025700176,-118.23991119861603,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,Professional & Other Places,}
+167	Tue Jun 29 13:37:19 +0000 2010	4c02950e58dad13a9df14797	{Victory Presbyterian Church}	{34.089329,-118.285094,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Mon Jun 28 19:27:44 +0000 2010	4c02961f58dad13ae9f14797	{Cherish International}	{34.032651,-118.231473,Los Angeles,CA,United States}	{}
+167	Sun Jun 27 17:41:41 +0000 2010	4c02950e58dad13a9df14797	{Victory Presbyterian Church}	{34.089329,-118.285094,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Sun Jun 27 17:22:55 +0000 2010	4a073eecf964a52039731fe3	{LACC Swap Meet}	{34.0853304360927,-118.29045200280227,Los Angeles,CA,United States}	{Shop & Service,}
+167	Sun Jun 27 17:22:52 +0000 2010	4a073eecf964a52039731fe3	{LACC Swap Meet}	{34.0853304360927,-118.29045200280227,Los Angeles,CA,United States}	{Shop & Service,}
+167	Sun Jun 27 17:02:19 +0000 2010	4a6be87ef964a5203ad01fe3	{Omni Los Angeles Hotel at California Plaza}	{34.05244608293711,-118.25032889842987,Los Angeles,CA,United States}	{Travel & Transport,}
+167	Sat Jun 26 16:23:35 +0000 2010	4c262985f1272d7f53fe85c5	{Vips}	{31.870171,-116.601002,Ensenada,Mexico,Mexico}	{}
+167	Sat Jun 26 16:21:03 +0000 2010	4c48cfea6594be9ac3e23c24	{Walmart Ensenada}	{31.820981074302225,-116.60068988800049,Ensenada,Baja California,Mexico}	{Shop & Service,Food & Drink Shop,}
+167	Fri Jun 25 17:13:34 +0000 2010	4c24e3b5905a0f4709846060	{Papaya headquarters}	{34.007957,-118.157359,Commerce,CA,United States}	{}
+167	Thu Jun 24 18:59:57 +0000 2010	4b66410af964a520e01a2be3	{Shin Beijing Chinese Cuisine}	{34.05277054585172,-118.30326268550698,Los Angeles,CA,United States}	{Food,}
+167	Thu Jun 24 18:59:57 +0000 2010	4b66410af964a520e01a2be3	{Shin Beijing Chinese Cuisine}	{34.05277054585172,-118.30326268550698,Los Angeles,CA,United States}	{Food,}
+167	Wed Jun 23 04:37:11 +0000 2010	4aff640ef964a520173822e3	{Young Kyung Restaurant}	{34.052468403810884,-118.30334260652242,Los Angeles,CA,United States}	{Food,}
+167	Wed Jun 23 04:35:28 +0000 2010	4b66410af964a520e01a2be3	{Shin Beijing Chinese Cuisine}	{34.05277054585172,-118.30326268550698,Los Angeles,CA,United States}	{Food,}
+167	Tue Jun 22 20:40:19 +0000 2010	4a514860f964a520ddb01fe3	{SoHyang Korean Restaurant}	{34.06270349847126,-118.29805612564087,Los Angeles,CA,United States}	{Food,Professional & Other Places,}
+167	Tue Jun 22 20:39:22 +0000 2010	4b888e15f964a520650032e3	{Zion Market}	{34.06320122708955,-118.29863548278809,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+167	Mon Jun 21 04:19:36 +0000 2010	4a0715acf964a52023731fe3	{Castaway Burbank}	{34.20405414309485,-118.30274236812917,Burbank,CA,United States}	{Food,}
+167	Mon Jun 21 00:49:32 +0000 2010	4ae3c6e4f964a520e09821e3	{Arado}	{34.062073,-118.31426548,Los Angeles,CA,United States}	{Food,}
+167	Sun Jun 20 17:42:32 +0000 2010	4c02950e58dad13a9df14797	{Victory Presbyterian Church}	{34.089329,-118.285094,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Sun Jun 20 17:40:56 +0000 2010	4a073eecf964a52039731fe3	{LACC Swap Meet}	{34.0853304360927,-118.29045200280227,Los Angeles,CA,United States}	{Shop & Service,}
+167	Sun Jun 20 16:56:42 +0000 2010	4a6be87ef964a5203ad01fe3	{Omni Los Angeles Hotel at California Plaza}	{34.05244608293711,-118.25032889842987,Los Angeles,CA,United States}	{Travel & Transport,}
+167	Sun Jun 20 00:29:46 +0000 2010	4c02950e58dad13a9df14797	{Victory Presbyterian Church}	{34.089329,-118.285094,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Sat Jun 19 19:51:19 +0000 2010	4c02961f58dad13ae9f14797	{Cherish International}	{34.032651,-118.231473,Los Angeles,CA,United States}	{}
+167	Fri Jun 18 17:07:28 +0000 2010	4c0e56a3336220a19900cc77	{Rhapsody studio}	{34.025972990621035,-118.23319750422404,Los Angeles,CA,United States}	{}
+167	Fri Jun 18 17:07:26 +0000 2010	4c0e56a3336220a19900cc77	{Rhapsody studio}	{34.025972990621035,-118.23319750422404,Los Angeles,CA,United States}	{}
+167	Thu Jun 17 19:45:12 +0000 2010	4c043c1d39d476b06b3c31a7	{Ecko Unltd}	{34.21693277973491,-119.06020648844316,Camarillo,CA,United States}	{}
+167	Thu Jun 17 15:02:44 +0000 2010	4c0699a88b4520a14aa68597	{Central Los Angeles High School #9 (VAPA)}	{34.05965995617049,-118.24404803774885,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+167	Thu Jun 17 02:05:32 +0000 2010	4b92b9f5f964a520ab1534e3	{Galleria Market}	{34.05240501660971,-118.30826909365636,Los Angeles,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+167	Tue Jun 15 21:29:39 +0000 2010	49d700f9f964a520175d1fe3	{Dae Sung Oak - Korean BBQ}	{34.0525054,-118.28738,Los Angeles,CA,United States}	{Food,}
+167	Tue Jun 15 03:35:00 +0000 2010	4c004498daf9c9b6e790fbef	{American Apparel}	{34.03391025700176,-118.23991119861603,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,Professional & Other Places,}
+167	Mon Jun 14 15:03:23 +0000 2010	4c0699a88b4520a14aa68597	{Central Los Angeles High School #9 (VAPA)}	{34.05965995617049,-118.24404803774885,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+167	Sun Jun 13 20:29:13 +0000 2010	4c02950e58dad13a9df14797	{Victory Presbyterian Church}	{34.089329,-118.285094,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Sat Jun 12 17:25:45 +0000 2010	4b66f776f964a520b2322be3	{Greyhound Bus Lines}	{34.03418510489355,-118.23549901682924,Los Angeles,CA,United States}	{Travel & Transport,Bus Station,}
+167	Sat Jun 12 12:51:14 +0000 2010	4c02950e58dad13a9df14797	{Victory Presbyterian Church}	{34.089329,-118.285094,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Sat Jun 12 12:51:14 +0000 2010	4c02950e58dad13a9df14797	{Victory Presbyterian Church}	{34.089329,-118.285094,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Sat Jun 12 02:43:12 +0000 2010	4c0699a88b4520a14aa68597	{Central Los Angeles High School #9 (VAPA)}	{34.05965995617049,-118.24404803774885,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+167	Sat Jun 12 02:43:12 +0000 2010	4c0699a88b4520a14aa68597	{Central Los Angeles High School #9 (VAPA)}	{34.05965995617049,-118.24404803774885,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+167	Fri Jun 11 19:41:56 +0000 2010	4c02961f58dad13ae9f14797	{Cherish International}	{34.032651,-118.231473,Los Angeles,CA,United States}	{}
+167	Fri Jun 11 19:41:56 +0000 2010	4c02961f58dad13ae9f14797	{Cherish International}	{34.032651,-118.231473,Los Angeles,CA,United States}	{}
+167	Fri Jun 11 15:51:35 +0000 2010	4b38eb4af964a520375225e3	{Wi Spa}	{34.06042434141337,-118.28304717108864,Los Angeles,CA,United States}	{Shop & Service,}
+167	Thu Jun 10 22:11:37 +0000 2010	4c004498daf9c9b6e790fbef	{American Apparel}	{34.03391025700176,-118.23991119861603,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,Professional & Other Places,}
+167	Thu Jun 10 22:10:29 +0000 2010	4c02961f58dad13ae9f14797	{Cherish International}	{34.032651,-118.231473,Los Angeles,CA,United States}	{}
+167	Thu Jun 10 01:36:52 +0000 2010	4bc4dc30abf4952198adc593	{Interstate 15}	{35.49888220939048,-115.43755773325375,Newberry-Baker,CA,United States}	{Travel & Transport,}
+167	Thu Jun 10 01:35:17 +0000 2010	4bd4a4d8cfa7b7137e8a24da	{California / Nevada Stateline}	{35.6072428437229,-115.39137840270996,Primm,CA,United States}	{Travel & Transport,}
+167	Wed Jun 09 19:16:41 +0000 2010	4ba26422f964a5202ff437e3	{Shark Reef Aquarium}	{36.08864429928628,-115.17632961273193,Las Vegas,NV,United States}	{Arts & Entertainment,Professional & Other Places,}
+167	Wed Jun 09 14:10:13 +0000 2010	4b9ac619f964a52055d435e3	{Television City}	{36.10404319586622,-115.16762396933348,Las Vegas,NV,United States}	{Arts & Entertainment,}
+167	Wed Jun 09 14:08:49 +0000 2010	4be61e39cf200f47d342143c	{Elevator Fountain}	{36.102508,-115.170305,,NV,United States}	{}
+167	Wed Jun 09 13:52:57 +0000 2010	4ae61edbf964a520dfa421e3	{ARIA Resort & Casino}	{36.107811135638265,-115.17644200474405,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+167	Wed Jun 09 04:39:58 +0000 2010	41326e00f964a52099141fe3	{MGM Grand Hotel & Casino}	{36.102411122843996,-115.16946315765381,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+167	Tue Jun 08 22:42:28 +0000 2010	4b6df838f964a520e49f2ce3	{Mandalay Bay Convention Center}	{36.08822813608722,-115.17581462860107,Las Vegas,NV,United States}	{Performing Arts Venue,Arts & Entertainment,Convention Center,Professional & Other Places,}
+167	Tue Jun 08 18:36:50 +0000 2010	4c2a85672219c928413da348	{Carl's Jr.}	{35.60793334702974,-115.39003095006132,Primm,NV,United States}	{Food,}
+167	Tue Jun 08 18:35:57 +0000 2010	4bc4de38f8219c743e03b810	{Interstate 15}	{35.58724462916867,-115.40014440397967,Newberry-Baker,CA,United States}	{Travel & Transport,}
+167	Tue Jun 08 14:41:52 +0000 2010	4c0e56a3336220a19900cc77	{Rhapsody studio}	{34.025972990621035,-118.23319750422404,Los Angeles,CA,United States}	{}
+167	Mon Jun 07 22:11:02 +0000 2010	4b41536bf964a52064c525e3	{Starbucks}	{34.05647300558507,-118.24627188220052,Los Angeles,CA,United States}	{Food,}
+167	Mon Jun 07 22:10:32 +0000 2010	4c0699a88b4520a14aa68597	{Central Los Angeles High School #9 (VAPA)}	{34.05965995617049,-118.24404803774885,Los Angeles,CA,United States}	{School,Professional & Other Places,}
+167	Mon Jun 07 17:51:34 +0000 2010	4c004498daf9c9b6e790fbef	{American Apparel}	{34.03391025700176,-118.23991119861603,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,Professional & Other Places,}
+167	Mon Jun 07 16:16:19 +0000 2010	4ace8bfaf964a5202ad120e3	{The Home Depot}	{34.05717781455132,-118.2712796330452,Los Angeles,CA,United States}	{Shop & Service,}
+167	Mon Jun 07 16:12:26 +0000 2010	4bb3bc0d4019a593505d38b8	{John Liechty Middle School}	{34.05493618861687,-118.27020070920202,Los Angeles,CA,United States}	{Professional & Other Places,}
+167	Mon Jun 07 16:10:58 +0000 2010	4b51401af964a520b44827e3	{Starbucks}	{34.05567,-118.270336,Los Angeles,CA,United States}	{Food,}
+167	Mon Jun 07 16:08:43 +0000 2010	4b241537f964a520ab6024e3	{McDonald's}	{34.055974,-118.27077867,Los Angeles,CA,United States}	{Food,}
+167	Mon Jun 07 00:51:02 +0000 2010	4b5248e0f964a520e37427e3	{Canvas LA Apartments}	{34.059128604113695,-118.25850958879228,Los Angeles,CA,United States}	{Professional & Other Places,Residence,}
+167	Sun Jun 06 17:21:44 +0000 2010	4c02950e58dad13a9df14797	{Victory Presbyterian Church}	{34.089329,-118.285094,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+167	Sun Jun 06 17:03:21 +0000 2010	42ec1480f964a520a5261fe3	{Marriott}	{34.05482833169656,-118.25563430786133,Los Angeles,CA,United States}	{Travel & Transport,Convention Center,Professional & Other Places,}
+167	Sun Jun 06 16:41:45 +0000 2010	4c02950e58dad13a9df14797	{Victory Presbyterian Church}	{34.089329,-118.285094,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}

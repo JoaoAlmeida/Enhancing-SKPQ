@@ -1,0 +1,382 @@
+1056	Thu Aug 04 14:50:01 +0000 2011	4d8f74f66174a093519bdee3	{Amsterdam Diner}	{40.78462730914154,-73.97737561950257,New York,NY,United States}	{Food,}
+1056	Thu Aug 04 14:48:42 +0000 2011	3fd66200f964a5203fea1ee3	{Good Enough to Eat}	{40.785899,-73.972687,New York,NY,United States}	{Food,}
+1056	Wed Aug 03 21:17:56 +0000 2011	4d0f62ea6331a093fd7a5094	{Financier Patisserie}	{40.74208930606272,-73.99328470230103,New York,NY,United States}	{Food,}
+1056	Tue Aug 02 18:42:25 +0000 2011	4a591690f964a520a5b81fe3	{Bistro Citron}	{40.784340613933104,-73.97376555715006,New York,NY,United States}	{Food,}
+1056	Sun Jul 31 21:19:09 +0000 2011	49b7ed6df964a52030531fe3	{Times Square}	{40.756489872673846,-73.98626804351807,New York,NY,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+1056	Thu Jul 28 14:23:58 +0000 2011	4dd17443e4cd130e16aeef76	{Mt. Wellington Market}	{42.81890392857685,-74.8942494392395,Cooperstown,NY,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1056	Thu Jul 28 12:53:55 +0000 2011	4b9fb61cf964a520563737e3	{Stagecoach Coffee}	{42.70071479380311,-74.92406487464905,Cooperstown,NY,United States}	{Food,}
+1056	Thu Jul 21 00:35:36 +0000 2011	3fd66200f964a520b0e51ee3	{The Red Cat}	{40.74799988732848,-74.00399845123462,New York,NY,United States}	{Food,}
+1056	Wed Jul 20 00:20:18 +0000 2011	3fd66200f964a5207ee51ee3	{Dewey's Flatiron}	{40.743030203074504,-73.98841381072998,New York,NY,United States}	{Nightlife Spot,}
+1056	Tue Jul 19 22:56:16 +0000 2011	49d8c05df964a520c95d1fe3	{5 Napkin Burger}	{40.760305214599946,-73.99120686837627,New York,NY,United States}	{Nightlife Spot,Food,}
+1056	Mon Jul 18 11:00:55 +0000 2011	49c192c5f964a520b6551fe3	{Joe}	{40.74660670956129,-74.00167465209961,New York,NY,United States}	{Food,}
+1056	Sat Jul 16 18:47:21 +0000 2011	4b118ba0f964a520037f23e3	{Bank Square Coffeehouse}	{41.508236527904444,-73.97702552103246,Beacon,NY,United States}	{Food,}
+1056	Sat Jul 16 18:42:16 +0000 2011	4b118ba0f964a520037f23e3	{Bank Square Coffeehouse}	{41.508236527904444,-73.97702552103246,Beacon,NY,United States}	{Food,}
+1056	Wed Jul 13 16:19:50 +0000 2011	4ba4da88f964a5206cbb38e3	{Easton's Beach}	{41.48865802280648,-71.29032611846924,Newport,RI,United States}	{Outdoors & Recreation,}
+1056	Wed Jul 13 12:24:12 +0000 2011	4d1e79430901721e626482a5	{Small Point Cafe}	{41.8230039,-71.4124757,Providence,RI,United States}	{Food,}
+1056	Sat Jul 09 18:47:00 +0000 2011	4b65c46af964a52064fe2ae3	{Prime Restaurant}	{40.88643019934909,-73.41820811544814,Huntington,NY,United States}	{Food,}
+1056	Sat Jul 09 13:27:10 +0000 2011	4a01f87bf964a5201a711fe3	{H&M}	{40.74995544581752,-73.98755550384521,New York,NY,United States}	{Shop & Service,Clothing Store,}
+1056	Wed Jul 06 23:04:16 +0000 2011	4afd95c0f964a520cc2822e3	{Rim Nahm}	{41.764661,-71.39032,Warwick,RI,United States}	{Food,}
+1056	Tue Jul 05 18:29:38 +0000 2011	4be5d7dc2468c92837a50043	{Brickley's Homemade Ice Cream}	{41.476626955143274,-71.43491957368383,Narragansett,RI,United States}	{Food,}
+1056	Tue Jul 05 13:51:54 +0000 2011	4aeb2b47f964a5203ebf21e3	{Narragansett Beach}	{41.43439378632307,-71.45636558532715,Narragansett,RI,United States}	{Nightlife Spot,Outdoors & Recreation,Beach,}
+1056	Mon Jul 04 23:34:49 +0000 2011	4bb7e6957421a593d63ec140	{India Point Park}	{41.8176406055268,-71.39147758483887,Providence,RI,United States}	{Travel & Transport,Outdoors & Recreation,}
+1056	Sun Jul 03 20:01:23 +0000 2011	4c51a8fbd2a7c9b69cc09311	{Mattpoisett Wharf}	{41.65780480687082,-70.81312467904334,Mattapoisett,MA,United States}	{Outdoors & Recreation,}
+1056	Wed Jun 29 16:47:19 +0000 2011	4b303561f964a520caf724e3	{Providence Place Theater}	{41.82724294662956,-71.41731262207031,Providence,RI,United States}	{Food,Arts & Entertainment,Movie Theater,}
+1056	Mon Jun 27 01:10:24 +0000 2011	4ba67209f964a520405339e3	{Pier 60}	{40.746570603211744,-74.01040826800532,New York,NY,United States}	{Nightlife Spot,Outdoors & Recreation,Arts & Entertainment,}
+1056	Sun Jun 26 19:38:26 +0000 2011	3fd66200f964a52033e71ee3	{Pepe Verde}	{40.735482,-74.0060737,New York,NY,United States}	{Food,}
+1056	Sun Jun 26 18:07:33 +0000 2011	3fd66200f964a520f6e61ee3	{Stonewall Inn}	{40.73369431021343,-74.00212123990059,New York,NY,United States}	{Nightlife Spot,}
+1056	Sun Jun 26 17:11:12 +0000 2011	4e072038483b98d4170e726e	{NYC Gay Pride Parade 2011}	{40.73399053853161,-74.00038719177246,New York,NY,United States}	{Nightlife Spot,Outdoors & Recreation,}
+1056	Sat Jun 25 21:56:43 +0000 2011	417c4200f964a520cd1d1fe3	{Billy's Bakery}	{40.74520864355885,-74.00236129760742,New York,NY,United States}	{Food,}
+1056	Sat Jun 25 21:41:46 +0000 2011	4aa9a473f964a520a85420e3	{Maison Martin Margiela}	{40.73793793227851,-74.00646025944727,New York,NY,United States}	{Shop & Service,Clothing Store,}
+1056	Sat Jun 25 20:22:43 +0000 2011	3fd66200f964a520f6e61ee3	{Stonewall Inn}	{40.73369431021343,-74.00212123990059,New York,NY,United States}	{Nightlife Spot,}
+1056	Sat Jun 25 19:02:37 +0000 2011	4ca21faa8afca09388192116	{Jeffrey's Grocery}	{40.73374807946004,-74.00124968156945,New York,NY,United States}	{Food,}
+1056	Sat Jun 25 05:01:51 +0000 2011	4e0548eb1838eb15aef3560f	{Marriage Equalitocalypse}	{40.73380965141348,-74.00209978222847,New York,NY,United States}	{Nightlife Spot,Spiritual Center,Professional & Other Places,}
+1056	Fri Jun 24 16:04:38 +0000 2011	4c5ef77bfff99c74eda954d3	{Eataly}	{40.74186151409088,-73.98943362953369,New York,NY,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1056	Fri Jun 24 01:00:30 +0000 2011	4cd1d42cde0f6dcb316e7363	{Empire Cake}	{40.74068911286629,-74.00163173675537,New York,NY,United States}	{Food,}
+1056	Fri Jun 24 00:04:51 +0000 2011	4a8cc1d4f964a520130f20e3	{Strand Book Store}	{40.733154391246956,-73.9909945289326,New York,NY,United States}	{Shop & Service,}
+1056	Thu Jun 23 22:45:28 +0000 2011	4c4bb320bad7a593fed82fac	{June kelly gallery}	{40.72566434149325,-73.99755972622535,New York,NY,United States}	{}
+1056	Thu Jun 23 22:45:28 +0000 2011	4c4bb320bad7a593fed82fac	{June kelly gallery}	{40.72566434149325,-73.99755972622535,New York,NY,United States}	{}
+1056	Thu Jun 23 13:25:32 +0000 2011	4a85d797f964a5206aff1fe3	{Johny's Luncheonette}	{40.74462918628347,-73.99288262006274,New York,NY,United States}	{Food,}
+1056	Thu Jun 23 01:30:39 +0000 2011	42055e00f964a520681f1fe3	{Therapy NYC}	{40.76415461906297,-73.9868969055432,New York,NY,United States}	{Nightlife Spot,}
+1056	Sun Jun 19 16:27:20 +0000 2011	4b155076f964a5209cb023e3	{McCoy Stadium}	{41.872620694713106,-71.36998772621155,Pawtucket,RI,United States}	{Stadium,Arts & Entertainment,}
+1056	Sat Jun 18 18:43:12 +0000 2011	4dfcca5d18a8eee4fe3dc102	{Rhode Island Pride}	{41.822859048843384,-71.40672061666666,Providence,RI,United States}	{Arts & Entertainment,}
+1056	Fri Jun 17 01:06:12 +0000 2011	4c083aabbbc676b0d93e46d5	{Movies On The Block}	{41.822533901825885,-71.41284942626953,Providence,RI,United States}	{Arts & Entertainment,}
+1056	Thu Jun 16 10:49:55 +0000 2011	4b3ec54ef964a520eea125e3	{MegaBus NYC Stop}	{40.75197110866618,-73.99736166000366,New York,NY,United States}	{Travel & Transport,}
+1056	Thu Jun 16 00:07:53 +0000 2011	4aa834b7f964a5200e5020e3	{Shun Lee}	{40.77270074253027,-73.98154231629059,New York,NY,United States}	{Food,}
+1056	Wed Jun 15 23:25:36 +0000 2011	49cacfb5f964a520e6581fe3	{The Empire Hotel}	{40.77127936209544,-73.98193359375,New York,NY,United States}	{Nightlife Spot,Travel & Transport,}
+1056	Wed Jun 15 22:28:40 +0000 2011	4ad507bff964a520660121e3	{Lincoln Center Plaza (Josie Robertson Plaza)}	{40.7722274447236,-73.98302876064133,New York,NY,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+1056	Wed Jun 15 19:52:32 +0000 2011	417c4200f964a520cd1d1fe3	{Billy's Bakery}	{40.74520864355885,-74.00236129760742,New York,NY,United States}	{Food,}
+1056	Wed Jun 15 19:12:28 +0000 2011	40abf500f964a52035f31ee3	{Washington Square Park}	{40.730844252027985,-73.99735629558563,New York,NY,United States}	{Outdoors & Recreation,}
+1056	Wed Jun 15 18:43:01 +0000 2011	4c4bb320bad7a593fed82fac	{June kelly gallery}	{40.72566434149325,-73.99755972622535,New York,NY,United States}	{}
+1056	Wed Jun 15 17:40:47 +0000 2011	4ac6b753f964a520f5b520e3	{New Venus Restaurant}	{40.74522071816571,-73.99851234980811,New York,NY,United States}	{Food,}
+1056	Wed Jun 15 17:23:16 +0000 2011	4b28fd2af964a520039724e3	{New York Sports Club}	{40.745420046104094,-73.99827132501188,New York,NY,United States}	{Shop & Service,Gym / Fitness Center,}
+1056	Sat Jun 11 18:19:06 +0000 2011	4b303561f964a520caf724e3	{Providence Place Theater}	{41.82724294662956,-71.41731262207031,Providence,RI,United States}	{Food,Arts & Entertainment,Movie Theater,}
+1056	Sun Jun 05 20:20:54 +0000 2011	4be5d7dc2468c92837a50043	{Brickley's Homemade Ice Cream}	{41.476626955143274,-71.43491957368383,Narragansett,RI,United States}	{Food,}
+1056	Sat Jun 04 16:54:52 +0000 2011	4b9fc549f964a520153d37e3	{Horseneck Beach}	{41.506841852679116,-71.05833649635315,Westport,MA,United States}	{Outdoors & Recreation,}
+1056	Thu May 19 16:31:27 +0000 2011	3fd66200f964a52075e91ee3	{Bella Blu}	{40.769289069559555,-73.96306123830033,New York,NY,United States}	{Food,}
+1056	Thu May 19 14:00:04 +0000 2011	42dee580f964a5205c261fe3	{Sotheby's}	{40.766280807649125,-73.95416443533469,New York,NY,United States}	{Shop & Service,Professional & Other Places,}
+1056	Thu May 05 10:16:50 +0000 2011	4d1a624b83c5a1cd593f234e	{Megabus Stop Providence}	{41.824612634764655,-71.41474861364321,Providence,RI,United States}	{Travel & Transport,Bus Station,}
+1056	Sat Apr 30 12:57:20 +0000 2011	4daf152fbd41d24ce63a6cf9	{DNRT Parsons Reserve}	{41.56943705086979,-71.00662350654602,Dartmouth,MA,United States}	{Outdoors & Recreation,}
+===
+1056	Tue Mar 29 14:41:32 +0000 2011	4c3929856ec69c74b9e104a9	{Norton's Shipyard & Marina}	{41.66595535073105,-71.44589424133301,East Greenwich,RI,United States}	{}
+1056	Fri Mar 18 17:39:40 +0000 2011	4ba121d9f964a520f19a37e3	{Chez Pascal Food Truck}	{41.83075251875614,-71.41040325164795,Providence,RI,United States}	{Food,}
+1056	Sat Mar 05 20:26:06 +0000 2011	4bdce5d7c79cc9288f9f88e9	{Narrows Center For The Arts}	{41.70316157,-71.16323936666667,Fall River,MA,United States}	{Arts & Entertainment,}
+1056	Thu Mar 03 22:46:18 +0000 2011	4bee9071e8c3c92847ce9892	{Blodgett Pool}	{42.36756114444578,-71.12490016921377,Cambridge,MA,United States}	{Outdoors & Recreation,College & University,}
+1056	Thu Mar 03 20:55:57 +0000 2011	4a60b9adf964a52014c11fe3	{Peet's Coffee & Tea}	{42.372612,-71.120509,Cambridge,MA,United States}	{Food,}
+1056	Thu Mar 03 20:53:18 +0000 2011	4a96bef3f964a520cb2620e3	{Harvard Square}	{42.37333582162159,-71.11857891082764,Cambridge,MA,United States}	{Outdoors & Recreation,}
+1056	Thu Mar 03 20:52:40 +0000 2011	4a223506f964a520697d1fe3	{Boston Park Plaza Hotel & Towers}	{42.35118233956202,-71.07000410556793,Boston,MA,United States}	{Travel & Transport,}
+1056	Thu Mar 03 20:32:29 +0000 2011	4a223506f964a520697d1fe3	{Boston Park Plaza Hotel & Towers}	{42.35118233956202,-71.07000410556793,Boston,MA,United States}	{Travel & Transport,}
+1056	Wed Feb 23 23:34:12 +0000 2011	4b9a7c41f964a520a5b935e3	{Copley Square}	{42.349719435433656,-71.07657551765442,Boston,MA,United States}	{Outdoors & Recreation,}
+1056	Sun Feb 20 21:13:38 +0000 2011	4b303561f964a520caf724e3	{Providence Place Theater}	{41.82724294662956,-71.41731262207031,Providence,RI,United States}	{Food,Arts & Entertainment,Movie Theater,}
+1056	Fri Feb 04 22:29:53 +0000 2011	4d1a624b83c5a1cd593f234e	{Megabus Stop Providence}	{41.824612634764655,-71.41474861364321,Providence,RI,United States}	{Travel & Transport,Bus Station,}
+1056	Sun Jan 23 18:01:51 +0000 2011	4b3ec54ef964a520eea125e3	{MegaBus NYC Stop}	{40.75197110866618,-73.99736166000366,New York,NY,United States}	{Travel & Transport,}
+1056	Sun Jan 23 04:00:35 +0000 2011	43695300f964a5208c291fe3	{Empire State Building}	{40.74828059076867,-73.98556262254715,New York,NY,United States}	{Outdoors & Recreation,Arts & Entertainment,Professional & Other Places,}
+1056	Sat Jan 22 20:55:37 +0000 2011	4b968c2af964a520cbd334e3	{Wellness Men's Day Spa}	{40.741969845694186,-73.9925555053014,New York,NY,United States}	{Shop & Service,}
+1056	Sun Jan 16 18:22:43 +0000 2011	4bd796e335aad13a6d578ff3	{Newport, RI}	{41.49009563505566,-71.31283521652222,Newport,RI,United States}	{Outdoors & Recreation,}
+1056	Sun Jan 16 18:22:43 +0000 2011	4bd796e335aad13a6d578ff3	{Newport, RI}	{41.49009563505566,-71.31283521652222,Newport,RI,United States}	{Outdoors & Recreation,}
+1056	Sat Jan 15 22:39:53 +0000 2011	4bd796e335aad13a6d578ff3	{Newport, RI}	{41.49009563505566,-71.31283521652222,Newport,RI,United States}	{Outdoors & Recreation,}
+1056	Sun Jan 09 15:55:12 +0000 2011	4bb748106edc76b0a7f5311c	{Ruffuls Restaurant}	{41.82996392,-71.38799086,Providence,RI,United States}	{Food,}
+1056	Sat Jan 08 21:48:02 +0000 2011	4b057f84f964a520d15822e3	{Blue State Coffee}	{41.83004476666667,-71.400805,Providence,RI,United States}	{Food,}
+1056	Sat Jan 08 21:47:14 +0000 2011	4b4ce878f964a520c5c326e3	{Sneaker Junkies}	{41.829842733607734,-71.40085034586733,Providence,RI,United States}	{Shop & Service,Clothing Store,}
+1056	Fri Jan 07 01:42:22 +0000 2011	4b4f9371f964a5200e0c27e3	{Parkside Rotisserie & Bar}	{41.82472075077604,-71.40714145099243,Providence,RI,United States}	{Food,}
+1056	Wed Jan 05 23:22:40 +0000 2011	4b0586adf964a520f86922e3	{Avon Cinema}	{41.82895529,-71.40101552009583,Providence,RI,United States}	{Arts & Entertainment,Movie Theater,}
+1056	Mon Dec 27 18:50:23 +0000 2010	4bef4065c80dc92889bb27e3	{Peerless Lofts}	{41.823197139654255,-71.41305556995115,Providence,RI,United States}	{Professional & Other Places,}
+1056	Mon Dec 27 18:42:50 +0000 2010	4d17be2c6c8b5481187deccc	{Snowpocalypse 2010 - Rhode Island Edition}	{41.82059995,-71.41594745,Providence,RI,United States}	{Outdoors & Recreation,Ski Area,}
+1056	Mon Dec 27 01:01:38 +0000 2010	4a4138ebf964a520f9a41fe3	{Bow Tie Chelsea Cinemas}	{40.7446783735831,-73.99814507380714,New York,NY,United States}	{Arts & Entertainment,Movie Theater,}
+1056	Mon Dec 27 00:59:39 +0000 2010	4a57f5def964a52027b71fe3	{Daioh Sushi}	{40.745538,-73.998814,New York,NY,United States}	{Food,}
+1056	Sun Dec 26 21:22:49 +0000 2010	4a4138ebf964a520f9a41fe3	{Bow Tie Chelsea Cinemas}	{40.7446783735831,-73.99814507380714,New York,NY,United States}	{Arts & Entertainment,Movie Theater,}
+1056	Sun Dec 26 21:00:41 +0000 2010	4ab6aaaaf964a5207f7820e3	{Breadstix Cafe}	{40.74532931471744,-73.99843200824306,New York,NY,United States}	{Food,}
+1056	Sun Dec 26 20:59:28 +0000 2010	4b28fd2af964a520039724e3	{New York Sports Club}	{40.745420046104094,-73.99827132501188,New York,NY,United States}	{Shop & Service,Gym / Fitness Center,}
+1056	Wed Dec 22 19:28:50 +0000 2010	4c37a272ae2da593fd3fffc5	{Cup N Rol}	{41.823585,-71.426772,Providence,RI,United States}	{Food,}
+1056	Wed Dec 22 16:03:32 +0000 2010	4de7cd121f6ed9a35ef966d2	{Marylou's Coffee}	{41.815890385565716,-71.3565312160351,East Providence,RI,United States}	{Food,}
+1056	Tue Dec 21 22:14:41 +0000 2010	4c6fedf8d7fab1f78cbb5cc9	{L'artisan Cafe and Bakery}	{41.830062296904835,-71.38760677846295,Providence,RI,United States}	{Food,}
+1056	Mon Dec 20 21:47:12 +0000 2010	49b79f54f964a5202c531fe3	{Rockefeller Center}	{40.75872943796283,-73.97862678587563,New York,NY,United States}	{Outdoors & Recreation,}
+1056	Mon Dec 20 21:41:01 +0000 2010	49b79f54f964a5202c531fe3	{Rockefeller Center}	{40.75872943796283,-73.97862678587563,New York,NY,United States}	{Outdoors & Recreation,}
+1056	Mon Dec 20 20:31:34 +0000 2010	4b8ee9baf964a520523e33e3	{Swarovski}	{40.76141465055142,-73.97511005401611,New York,NY,United States}	{Shop & Service,}
+1056	Mon Dec 20 20:25:53 +0000 2010	41f19780f964a520101f1fe3	{Per Se}	{40.767971179283705,-73.98171449190069,New York,NY,United States}	{Food,}
+1056	Mon Dec 20 20:24:14 +0000 2010	45040d24f964a520de381fe3	{Bouchon Bakery}	{40.76809058933207,-73.98184649309732,New York,NY,United States}	{Food,}
+1056	Mon Dec 20 20:05:04 +0000 2010	4af20c45f964a52077e521e3	{New York Running Company}	{40.768793007758816,-73.98257732391357,New York,NY,United States}	{Shop & Service,}
+1056	Mon Dec 20 19:41:01 +0000 2010	43c922c9f964a520972d1fe3	{The Shops at Columbus Circle}	{40.76825672305774,-73.98277044296265,New York,NY,United States}	{Shop & Service,}
+1056	Mon Dec 20 15:42:35 +0000 2010	4b28fd2af964a520039724e3	{New York Sports Club}	{40.745420046104094,-73.99827132501188,New York,NY,United States}	{Shop & Service,Gym / Fitness Center,}
+1056	Mon Dec 20 01:14:34 +0000 2010	4a820ef8f964a5206bf81fe3	{Mitali East}	{40.726668,-73.98683186666666,New York,NY,United States}	{Food,}
+1056	Sun Dec 19 23:47:25 +0000 2010	4adf9445f964a520c47b21e3	{MTA Subway - 72nd St/Broadway (1/2/3)}	{40.77841289502202,-73.98201942443848,New York,NY,United States}	{Travel & Transport,}
+1056	Sun Dec 19 23:41:41 +0000 2010	3fd66200f964a5202ee81ee3	{Fairway Market}	{40.780557679970805,-73.98171901702881,New York,NY,United States}	{Shop & Service,Food & Drink Shop,}
+1056	Sun Dec 19 21:32:40 +0000 2010	460d4b66f964a52005451fe3	{Whole Foods Market}	{40.74481848035928,-73.99515151977539,New York,NY,United States}	{Shop & Service,Food & Drink Shop,}
+1056	Sun Dec 19 21:28:22 +0000 2010	4af57814f964a52043f921e3	{Starbucks}	{40.744306387686244,-73.99555921554565,New York,NY,United States}	{Food,}
+1056	Sun Dec 19 20:39:06 +0000 2010	4ad9081bf964a5205a1721e3	{Pet Central}	{40.74477657477913,-73.99731870023074,New York,NY,United States}	{Shop & Service,}
+1056	Sun Dec 19 19:47:14 +0000 2010	4840fe6bf964a52030501fe3	{Port Authority Bus Terminal}	{40.757221298398356,-73.99154663085938,New York,NY,United States}	{Travel & Transport,}
+1056	Sun Dec 19 16:14:02 +0000 2010	4c24e628c11dc9b6173b2624	{Kennedy Plaza}	{41.82518649185952,-71.41227862258734,Providence,RI,United States}	{Travel & Transport,Outdoors & Recreation,}
+1056	Sun Dec 19 02:38:01 +0000 2010	4ae24f00f964a520138d21e3	{Downcity}	{41.82402712244333,-71.40991298152508,Providence,RI,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+1056	Sun Dec 19 01:51:15 +0000 2010	4b303561f964a520caf724e3	{Providence Place Theater}	{41.82724294662956,-71.41731262207031,Providence,RI,United States}	{Food,Arts & Entertainment,Movie Theater,}
+1056	Sat Dec 18 16:07:49 +0000 2010	4b140990f964a520359c23e3	{Boston Sports Club}	{41.825806,-71.387928,Providence,RI,United States}	{Shop & Service,Gym / Fitness Center,}
+1056	Fri Dec 17 20:15:00 +0000 2010	4bbb720ae6e7b713b10ff879	{Eat Providence}	{41.823773687286675,-71.41057976917519,Providence,RI,United States}	{Food,}
+1056	Fri Dec 17 16:56:25 +0000 2010	4ab8e86af964a520507d20e3	{The Edge Cafe}	{41.8297212521481,-71.38796389102936,Providence,RI,United States}	{Food,}
+1056	Fri Dec 17 00:14:41 +0000 2010	4acdefb9f964a5209ccd20e3	{Trinity Repertory Company}	{41.822149333490074,-71.41634308246545,Providence,RI,United States}	{Performing Arts Venue,Arts & Entertainment,}
+1056	Thu Dec 16 23:43:56 +0000 2010	4abac0daf964a520c88220e3	{Bravo Brasserie Restaurant}	{41.82186499145226,-71.41634308246545,Providence,RI,United States}	{Food,}
+1056	Thu Dec 16 22:16:53 +0000 2010	4b140990f964a520359c23e3	{Boston Sports Club}	{41.825806,-71.387928,Providence,RI,United States}	{Shop & Service,Gym / Fitness Center,}
+1056	Thu Dec 16 15:19:31 +0000 2010	4b0586aaf964a520816922e3	{The Coffee Exchange}	{41.8193535554444,-71.39902387554949,Providence,RI,United States}	{Food,}
+1056	Thu Dec 16 15:17:12 +0000 2010	4d3ee79f978476eb42f957fc	{Ace Hardware}	{41.81911798297133,-71.39971387652764,Providence,RI,United States}	{Shop & Service,}
+1056	Thu Dec 16 14:13:22 +0000 2010	4bef4065c80dc92889bb27e3	{Peerless Lofts}	{41.823197139654255,-71.41305556995115,Providence,RI,United States}	{Professional & Other Places,}
+1056	Wed Dec 15 16:00:29 +0000 2010	4a5e0d87f964a520f6bd1fe3	{Starbucks}	{41.830112066666665,-71.389014,Providence,RI,United States}	{Food,}
+1056	Wed Dec 15 13:56:49 +0000 2010	4bef4065c80dc92889bb27e3	{Peerless Lofts}	{41.823197139654255,-71.41305556995115,Providence,RI,United States}	{Professional & Other Places,}
+1056	Tue Dec 14 16:36:18 +0000 2010	4a27485af964a52071911fe3	{IKEA}	{42.1376636656493,-71.0679817199707,Stoughton,MA,United States}	{Shop & Service,Food,}
+1056	Sun Dec 12 07:41:46 +0000 2010	4bef4065c80dc92889bb27e3	{Peerless Lofts}	{41.823197139654255,-71.41305556995115,Providence,RI,United States}	{Professional & Other Places,}
+1056	Sat Dec 11 23:42:11 +0000 2010	4b303561f964a520caf724e3	{Providence Place Theater}	{41.82724294662956,-71.41731262207031,Providence,RI,United States}	{Food,Arts & Entertainment,Movie Theater,}
+1056	Sat Dec 11 19:31:39 +0000 2010	4b05cfb8f964a520b8e322e3	{Antonio's Pizza}	{41.82882144,-71.400814,Providence,RI,United States}	{Food,}
+1056	Sat Dec 11 18:51:54 +0000 2010	4b057f84f964a520d15822e3	{Blue State Coffee}	{41.83004476666667,-71.400805,Providence,RI,United States}	{Food,}
+1056	Sat Dec 11 13:50:56 +0000 2010	4b140990f964a520359c23e3	{Boston Sports Club}	{41.825806,-71.387928,Providence,RI,United States}	{Shop & Service,Gym / Fitness Center,}
+1056	Fri Dec 10 21:41:26 +0000 2010	4b140990f964a520359c23e3	{Boston Sports Club}	{41.825806,-71.387928,Providence,RI,United States}	{Shop & Service,Gym / Fitness Center,}
+1056	Fri Dec 10 19:57:45 +0000 2010	4bcdabf4fb84c9b6e853223e	{Valvoline Instant Oil Change}	{41.792703,-71.3262,Seekonk,MA,United States}	{Shop & Service,}
+1056	Fri Dec 10 19:57:38 +0000 2010	4b92b29df964a520981234e3	{home goods}	{41.794846057891846,-71.321388,Seekonk,MA,United States}	{Shop & Service,}
+1056	Fri Dec 10 19:57:38 +0000 2010	4b92b29df964a520981234e3	{home goods}	{41.794846057891846,-71.321388,Seekonk,MA,United States}	{Shop & Service,}
+1056	Fri Dec 10 17:02:39 +0000 2010	4c1007b381e976b0bf7d0eeb	{City Girl Cupcake}	{41.82318602216252,-71.41095664860752,Providence,RI,United States}	{Food,}
+1056	Fri Dec 10 16:32:29 +0000 2010	4b54d94af964a52091cf27e3	{impulse hair salon}	{41.823874,-71.409935,Providence,RI,United States}	{Shop & Service,}
+1056	Fri Dec 10 16:20:54 +0000 2010	4bef4065c80dc92889bb27e3	{Peerless Lofts}	{41.823197139654255,-71.41305556995115,Providence,RI,United States}	{Professional & Other Places,}
+1056	Thu Dec 09 23:17:14 +0000 2010	4b140990f964a520359c23e3	{Boston Sports Club}	{41.825806,-71.387928,Providence,RI,United States}	{Shop & Service,Gym / Fitness Center,}
+1056	Thu Dec 09 06:43:34 +0000 2010	4bef4065c80dc92889bb27e3	{Peerless Lofts}	{41.823197139654255,-71.41305556995115,Providence,RI,United States}	{Professional & Other Places,}
+1056	Wed Dec 08 21:48:56 +0000 2010	4b4deb6df964a52012db26e3	{2 Alices Coffee Lounge}	{41.44423171537274,-74.02050171553299,Cornwall-on-Hudson,NY,United States}	{Food,}
+1056	Tue Dec 07 22:10:40 +0000 2010	4b0586aaf964a520846922e3	{Eastside Marketplace}	{41.82589078728613,-71.38659203691476,Providence,RI,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1056	Tue Dec 07 22:10:16 +0000 2010	4b140990f964a520359c23e3	{Boston Sports Club}	{41.825806,-71.387928,Providence,RI,United States}	{Shop & Service,Gym / Fitness Center,}
+1056	Tue Dec 07 21:08:59 +0000 2010	4bef4065c80dc92889bb27e3	{Peerless Lofts}	{41.823197139654255,-71.41305556995115,Providence,RI,United States}	{Professional & Other Places,}
+1056	Tue Dec 07 14:37:42 +0000 2010	4b93bbe4f964a520094f34e3	{Lou's}	{43.701512775395585,-72.28939094205899,Hanover,NH,United States}	{Food,}
+1056	Tue Dec 07 14:10:43 +0000 2010	4b6da014f964a5204e812ce3	{Dirt Cowboy Caf?}	{43.70215,-72.28935778141022,Hanover,NH,United States}	{Food,}
+1056	Tue Dec 07 01:46:19 +0000 2010	4bb398f8eb3e9521165ecb0a	{CVS/pharmacy}	{43.699552,-72.29024827480316,Hanover,NH,United States}	{Shop & Service,}
+1056	Mon Dec 06 22:30:12 +0000 2010	4bf8a8e0bb5176b050715bb2	{Dartmouth Coop}	{43.701688983333334,-72.28938460350037,Hanover,NH,United States}	{Shop & Service,}
+1056	Mon Dec 06 21:58:18 +0000 2010	4b6da014f964a5204e812ce3	{Dirt Cowboy Caf?}	{43.70215,-72.28935778141022,Hanover,NH,United States}	{Food,}
+1056	Mon Dec 06 21:38:50 +0000 2010	4b4d3925f964a520a3ce26e3	{Hanover Inn Dartmouth}	{43.70231986077842,-72.28896800917626,Hanover,NH,United States}	{Travel & Transport,}
+1056	Mon Dec 06 16:57:11 +0000 2010	4bef4065c80dc92889bb27e3	{Peerless Lofts}	{41.823197139654255,-71.41305556995115,Providence,RI,United States}	{Professional & Other Places,}
+1056	Mon Dec 06 15:02:15 +0000 2010	4b140990f964a520359c23e3	{Boston Sports Club}	{41.825806,-71.387928,Providence,RI,United States}	{Shop & Service,Gym / Fitness Center,}
+1056	Sun Dec 05 20:45:26 +0000 2010	4b140990f964a520359c23e3	{Boston Sports Club}	{41.825806,-71.387928,Providence,RI,United States}	{Shop & Service,Gym / Fitness Center,}
+1056	Sun Dec 05 14:28:26 +0000 2010	4bef4065c80dc92889bb27e3	{Peerless Lofts}	{41.823197139654255,-71.41305556995115,Providence,RI,United States}	{Professional & Other Places,}
+1056	Sat Dec 04 13:24:48 +0000 2010	4c1404cd77cea59339efcf60	{Boston Sports Club}	{41.824006448218306,-71.41224963198172,Providence,RI,United States}	{Shop & Service,Gym / Fitness Center,}
+1056	Sat Dec 04 13:24:03 +0000 2010	4b0d731ff964a520924823e3	{Starbucks}	{41.824500709686376,-71.4134931564331,Providence,RI,United States}	{Food,}
+1056	Sat Dec 04 13:21:58 +0000 2010	4bef4065c80dc92889bb27e3	{Peerless Lofts}	{41.823197139654255,-71.41305556995115,Providence,RI,United States}	{Professional & Other Places,}
+1056	Sat Dec 04 04:30:49 +0000 2010	4bef4065c80dc92889bb27e3	{Peerless Lofts}	{41.823197139654255,-71.41305556995115,Providence,RI,United States}	{Professional & Other Places,}
+1056	Fri Dec 03 15:00:50 +0000 2010	4b17e613f964a52068c923e3	{Loui's Restaurant}	{41.82463977653584,-71.39902387554949,Providence,RI,United States}	{Food,}
+1056	Fri Dec 03 04:54:26 +0000 2010	4bef4065c80dc92889bb27e3	{Peerless Lofts}	{41.823197139654255,-71.41305556995115,Providence,RI,United States}	{Professional & Other Places,}
+1056	Fri Dec 03 03:15:30 +0000 2010	4b0586aaf964a5208f6922e3	{Tazza Caffe}	{41.82258957693389,-71.41286423232256,Providence,RI,United States}	{Nightlife Spot,Food,}
+1056	Fri Dec 03 00:44:57 +0000 2010	4b0586adf964a520ee6922e3	{Gracie's}	{41.82213363,-71.415919,Providence,RI,United States}	{Food,}
+1056	Thu Dec 02 21:43:06 +0000 2010	4b140990f964a520359c23e3	{Boston Sports Club}	{41.825806,-71.387928,Providence,RI,United States}	{Shop & Service,Gym / Fitness Center,}
+1056	Thu Dec 02 21:10:50 +0000 2010	4b92b29df964a520981234e3	{home goods}	{41.794846057891846,-71.321388,Seekonk,MA,United States}	{Shop & Service,}
+1056	Thu Dec 02 14:56:28 +0000 2010	4b0d731ff964a520924823e3	{Starbucks}	{41.824500709686376,-71.4134931564331,Providence,RI,United States}	{Food,}
+1056	Thu Dec 02 14:47:02 +0000 2010	4c1404cd77cea59339efcf60	{Boston Sports Club}	{41.824006448218306,-71.41224963198172,Providence,RI,United States}	{Shop & Service,Gym / Fitness Center,}
+1056	Thu Dec 02 04:53:38 +0000 2010	4bef4065c80dc92889bb27e3	{Peerless Lofts}	{41.823197139654255,-71.41305556995115,Providence,RI,United States}	{Professional & Other Places,}
+1056	Thu Dec 02 00:37:17 +0000 2010	4b0586adf964a520d76922e3	{Cafe Paragon}	{41.827970459165385,-71.40083312988281,Providence,RI,United States}	{Food,}
+1056	Wed Dec 01 21:56:22 +0000 2010	4b434e12f964a5202fde25e3	{Golds Gym}	{41.85859842771094,-71.3981294631958,Pawtucket,RI,United States}	{Shop & Service,Gym / Fitness Center,}
+1056	Wed Dec 01 15:10:35 +0000 2010	4b0586aaf964a520766922e3	{Meeting Street Cafe}	{41.829423460830824,-71.4012622833252,Providence,RI,United States}	{Food,}
+1056	Wed Dec 01 14:11:03 +0000 2010	4bef4065c80dc92889bb27e3	{Peerless Lofts}	{41.823197139654255,-71.41305556995115,Providence,RI,United States}	{Professional & Other Places,}
+1056	Tue Nov 30 21:28:20 +0000 2010	4c1404cd77cea59339efcf60	{Boston Sports Club}	{41.824006448218306,-71.41224963198172,Providence,RI,United States}	{Shop & Service,Gym / Fitness Center,}
+1056	Tue Nov 30 19:40:06 +0000 2010	4c5dbde47f661b8d05414c1c	{Freeway Car Wash}	{41.882027,-71.392155,Pawtucket,RI,United States}	{Professional & Other Places,}
+1056	Tue Nov 30 16:00:00 +0000 2010	4b0586aaf964a5208f6922e3	{Tazza Caffe}	{41.82258957693389,-71.41286423232256,Providence,RI,United States}	{Nightlife Spot,Food,}
+1056	Tue Nov 30 15:46:52 +0000 2010	4bef4065c80dc92889bb27e3	{Peerless Lofts}	{41.823197139654255,-71.41305556995115,Providence,RI,United States}	{Professional & Other Places,}
+1056	Tue Nov 30 02:55:10 +0000 2010	4b303561f964a520caf724e3	{Providence Place Theater}	{41.82724294662956,-71.41731262207031,Providence,RI,United States}	{Food,Arts & Entertainment,Movie Theater,}
+1056	Tue Nov 30 01:30:31 +0000 2010	4b4a6237f964a520038626e3	{Johnny Rocket's}	{41.827414542996216,-71.41643585134376,Providence,RI,United States}	{Food,}
+1056	Tue Nov 30 00:23:06 +0000 2010	4adf7578f964a520c37a21e3	{Apple Store, Providence Place}	{41.827691,-71.415838,Providence,RI,United States}	{Shop & Service,}
+1056	Tue Nov 30 00:18:08 +0000 2010	4b0d731ff964a520924823e3	{Starbucks}	{41.824500709686376,-71.4134931564331,Providence,RI,United States}	{Food,}
+1056	Mon Nov 29 23:22:50 +0000 2010	4c1404cd77cea59339efcf60	{Boston Sports Club}	{41.824006448218306,-71.41224963198172,Providence,RI,United States}	{Shop & Service,Gym / Fitness Center,}
+1056	Mon Nov 29 17:18:21 +0000 2010	4c24d768b012b71336920893	{Grace Episcopal Church}	{41.822066,-71.413543,Providence,RI,United States}	{Spiritual Center,Professional & Other Places,}
+1056	Mon Nov 29 17:17:52 +0000 2010	4bef4065c80dc92889bb27e3	{Peerless Lofts}	{41.823197139654255,-71.41305556995115,Providence,RI,United States}	{Professional & Other Places,}
+1056	Mon Nov 29 00:10:39 +0000 2010	4a5e11e2f964a520febd1fe3	{Gourmet Heaven}	{41.82221881196735,-71.41208148642336,Providence,RI,United States}	{Food,}
+1056	Sun Nov 28 19:51:25 +0000 2010	4cf2b10ecc61a35d103b1c9e	{St. Anthony Of Padua Church}	{41.660074085742906,-70.92800850933233,New Bedford,MA,United States}	{}
+1056	Sun Nov 28 15:42:33 +0000 2010	4b0586aaf964a5208f6922e3	{Tazza Caffe}	{41.82258957693389,-71.41286423232256,Providence,RI,United States}	{Nightlife Spot,Food,}
+1056	Sun Nov 28 15:42:21 +0000 2010	4bef4065c80dc92889bb27e3	{Peerless Lofts}	{41.823197139654255,-71.41305556995115,Providence,RI,United States}	{Professional & Other Places,}
+1056	Sat Nov 27 23:11:37 +0000 2010	4bef4065c80dc92889bb27e3	{Peerless Lofts}	{41.823197139654255,-71.41305556995115,Providence,RI,United States}	{Professional & Other Places,}
+1056	Sat Nov 27 23:03:09 +0000 2010	4b0586aaf964a5208f6922e3	{Tazza Caffe}	{41.82258957693389,-71.41286423232256,Providence,RI,United States}	{Nightlife Spot,Food,}
+1056	Sat Nov 27 22:21:09 +0000 2010	4c1404cd77cea59339efcf60	{Boston Sports Club}	{41.824006448218306,-71.41224963198172,Providence,RI,United States}	{Shop & Service,Gym / Fitness Center,}
+1056	Sat Nov 27 16:56:30 +0000 2010	4b0586aaf964a5208f6922e3	{Tazza Caffe}	{41.82258957693389,-71.41286423232256,Providence,RI,United States}	{Nightlife Spot,Food,}
+1056	Fri Nov 26 06:36:23 +0000 2010	4bef4065c80dc92889bb27e3	{Peerless Lofts}	{41.823197139654255,-71.41305556995115,Providence,RI,United States}	{Professional & Other Places,}
+1056	Thu Nov 25 19:47:08 +0000 2010	4a4138ebf964a520f9a41fe3	{Bow Tie Chelsea Cinemas}	{40.7446783735831,-73.99814507380714,New York,NY,United States}	{Arts & Entertainment,Movie Theater,}
+1056	Thu Nov 25 19:45:46 +0000 2010	4b33f294f964a5209e2225e3	{Starbucks}	{40.74513082928684,-73.99867303283712,New York,NY,United States}	{Food,}
+1056	Thu Nov 25 19:05:30 +0000 2010	4b28fd2af964a520039724e3	{New York Sports Club}	{40.745420046104094,-73.99827132501188,New York,NY,United States}	{Shop & Service,Gym / Fitness Center,}
+1056	Thu Nov 25 13:12:46 +0000 2010	4b0d731ff964a520924823e3	{Starbucks}	{41.824500709686376,-71.4134931564331,Providence,RI,United States}	{Food,}
+1056	Thu Nov 25 12:46:17 +0000 2010	4bef4065c80dc92889bb27e3	{Peerless Lofts}	{41.823197139654255,-71.41305556995115,Providence,RI,United States}	{Professional & Other Places,}
+1056	Wed Nov 24 22:17:44 +0000 2010	4b0d731ff964a520924823e3	{Starbucks}	{41.824500709686376,-71.4134931564331,Providence,RI,United States}	{Food,}
+1056	Wed Nov 24 14:46:54 +0000 2010	4c1404cd77cea59339efcf60	{Boston Sports Club}	{41.824006448218306,-71.41224963198172,Providence,RI,United States}	{Shop & Service,Gym / Fitness Center,}
+1056	Wed Nov 24 14:44:04 +0000 2010	4bef4065c80dc92889bb27e3	{Peerless Lofts}	{41.823197139654255,-71.41305556995115,Providence,RI,United States}	{Professional & Other Places,}
+1056	Wed Nov 24 00:08:14 +0000 2010	4b303561f964a520caf724e3	{Providence Place Theater}	{41.82724294662956,-71.41731262207031,Providence,RI,United States}	{Food,Arts & Entertainment,Movie Theater,}
+1056	Wed Nov 24 00:07:18 +0000 2010	4a986e4cf964a520fa2b20e3	{Providence Place Mall}	{41.82744281353447,-71.4165186882019,Providence,RI,United States}	{Shop & Service,}
+1056	Tue Nov 23 21:09:45 +0000 2010	4b0d731ff964a520924823e3	{Starbucks}	{41.824500709686376,-71.4134931564331,Providence,RI,United States}	{Food,}
+1056	Tue Nov 23 17:03:07 +0000 2010	4c24d768b012b71336920893	{Grace Episcopal Church}	{41.822066,-71.413543,Providence,RI,United States}	{Spiritual Center,Professional & Other Places,}
+1056	Tue Nov 23 15:25:33 +0000 2010	4c1404cd77cea59339efcf60	{Boston Sports Club}	{41.824006448218306,-71.41224963198172,Providence,RI,United States}	{Shop & Service,Gym / Fitness Center,}
+1056	Tue Nov 23 14:40:54 +0000 2010	4b0586aaf964a5208f6922e3	{Tazza Caffe}	{41.82258957693389,-71.41286423232256,Providence,RI,United States}	{Nightlife Spot,Food,}
+1056	Tue Nov 23 14:38:42 +0000 2010	4bef4065c80dc92889bb27e3	{Peerless Lofts}	{41.823197139654255,-71.41305556995115,Providence,RI,United States}	{Professional & Other Places,}
+1056	Tue Nov 23 00:44:35 +0000 2010	4bef4065c80dc92889bb27e3	{Peerless Lofts}	{41.823197139654255,-71.41305556995115,Providence,RI,United States}	{Professional & Other Places,}
+1056	Mon Nov 22 23:45:50 +0000 2010	4ae24f00f964a520138d21e3	{Downcity}	{41.82402712244333,-71.40991298152508,Providence,RI,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+1056	Mon Nov 22 16:18:49 +0000 2010	4af71c9cf964a520fb0522e3	{Whole Foods Market}	{41.827916095347376,-71.38618034096686,Providence,RI,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1056	Mon Nov 22 15:12:40 +0000 2010	4b0586aaf964a520766922e3	{Meeting Street Cafe}	{41.829423460830824,-71.4012622833252,Providence,RI,United States}	{Food,}
+1056	Sun Nov 21 17:53:29 +0000 2010	432a0b00f964a520d8271fe3	{Cove On Castro Cafe}	{37.761935705864076,-122.43514237890182,San Francisco,CA,United States}	{Food,}
+1056	Sun Nov 21 17:51:41 +0000 2010	43e567c0f964a520f22e1fe3	{It's Tops Coffee Shop}	{37.7716787662269,-122.42366750302257,San Francisco,CA,United States}	{Food,}
+1056	Sun Nov 21 17:39:29 +0000 2010	43e567c0f964a520f22e1fe3	{It's Tops Coffee Shop}	{37.7716787662269,-122.42366750302257,San Francisco,CA,United States}	{Food,}
+1056	Sun Nov 21 17:19:58 +0000 2010	44de0681f964a520c8361fe3	{Peet's Coffee & Tea}	{37.76491561479136,-122.43216179688253,San Francisco,CA,United States}	{Food,}
+1056	Sun Nov 21 17:17:21 +0000 2010	464f17daf964a520c5461fe3	{Fitness SF Castro}	{37.763726226183614,-122.43344306945801,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+1056	Sun Nov 21 01:16:06 +0000 2010	4a5824e5f964a5206db71fe3	{AMC Loews Metreon 16}	{37.7844481241691,-122.40364372730255,San Francisco,CA,United States}	{Shop & Service,Arts & Entertainment,Movie Theater,}
+1056	Sat Nov 20 23:22:16 +0000 2010	469019cbf964a5209f481fe3	{The Cheesecake Factory}	{37.787352202751634,-122.40740954875946,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+1056	Sat Nov 20 19:57:13 +0000 2010	464f17daf964a520c5461fe3	{Fitness SF Castro}	{37.763726226183614,-122.43344306945801,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+1056	Sat Nov 20 15:59:39 +0000 2010	4bd1c341caff9521863bd1f0	{Martha & Bros. Coffee Company}	{37.77534393,-122.415886,San Francisco,CA,United States}	{Food,}
+1056	Fri Nov 19 16:25:34 +0000 2010	4a5824e5f964a5206db71fe3	{AMC Loews Metreon 16}	{37.7844481241691,-122.40364372730255,San Francisco,CA,United States}	{Shop & Service,Arts & Entertainment,Movie Theater,}
+1056	Thu Nov 18 22:59:45 +0000 2010	4a4b8a43f964a5206fac1fe3	{Sightglass Coffee}	{37.77699197247508,-122.40852980833175,San Francisco,CA,United States}	{Food,}
+1056	Thu Nov 18 16:32:40 +0000 2010	49d01698f964a520fd5a1fe3	{Golden Gate Bridge}	{37.81700118722001,-122.47821718454361,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1056	Wed Nov 17 20:44:20 +0000 2010	43e879cbf964a5200f2f1fe3	{Taqueria Cancun}	{37.760452,-122.41941263333335,San Francisco,CA,United States}	{Food,}
+1056	Wed Nov 17 17:25:05 +0000 2010	49f13784f964a5209f691fe3	{Thorough Bread and Pastry}	{37.76673,-122.429026,San Francisco,CA,United States}	{Food,}
+1056	Wed Nov 17 15:20:00 +0000 2010	4a4dce3ef964a52010ae1fe3	{Fitness SF SoMa}	{37.76953780861312,-122.40683725970675,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+1056	Wed Nov 17 03:17:22 +0000 2010	49e664dcf964a52044641fe3	{Noe Valley Ministry}	{37.75273045,-122.42950558662415,San Francisco,CA,United States}	{Spiritual Center,Professional & Other Places,}
+1056	Tue Nov 16 17:19:22 +0000 2010	464f17daf964a520c5461fe3	{Fitness SF Castro}	{37.763726226183614,-122.43344306945801,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+1056	Tue Nov 16 02:01:43 +0000 2010	4b2476bcf964a520d06724e3	{St Francis Lutheran Church}	{37.7685306,-122.42909617,San Francisco,CA,United States}	{Spiritual Center,Professional & Other Places,}
+1056	Tue Nov 16 01:19:04 +0000 2010	4a5b5f9af964a5200bbb1fe3	{Starbucks}	{37.77844326422595,-122.41520017575083,San Francisco,CA,United States}	{Food,}
+1056	Mon Nov 15 18:45:11 +0000 2010	475ab983f964a520d24c1fe3	{La Boulange de Hayes}	{37.77669558327816,-122.42471247911453,San Francisco,CA,United States}	{Food,}
+1056	Mon Nov 15 18:21:35 +0000 2010	49f13784f964a5209f691fe3	{Thorough Bread and Pastry}	{37.76673,-122.429026,San Francisco,CA,United States}	{Food,}
+1056	Mon Nov 15 03:28:36 +0000 2010	49ecf1def964a520b3671fe3	{Kasa Indian Eatery}	{37.76100689541682,-122.43288068341475,San Francisco,CA,United States}	{Food,}
+1056	Mon Nov 15 00:52:03 +0000 2010	4b2476bcf964a520d06724e3	{St Francis Lutheran Church}	{37.7685306,-122.42909617,San Francisco,CA,United States}	{Spiritual Center,Professional & Other Places,}
+1056	Sun Nov 14 23:44:39 +0000 2010	44f17480f964a52004381fe3	{Starbucks}	{37.768848938182224,-122.42777824401855,San Francisco,CA,United States}	{Food,}
+1056	Sun Nov 14 19:29:12 +0000 2010	4acfadeef964a52049d520e3	{24 Hour Fitness}	{37.7666027991409,-122.429673305453,San Francisco,CA,United States}	{Shop & Service,}
+1056	Sat Nov 13 17:49:38 +0000 2010	49f13784f964a5209f691fe3	{Thorough Bread and Pastry}	{37.76673,-122.429026,San Francisco,CA,United States}	{Food,}
+1056	Sat Nov 13 17:39:21 +0000 2010	44de0681f964a520c8361fe3	{Peet's Coffee & Tea}	{37.76491561479136,-122.43216179688253,San Francisco,CA,United States}	{Food,}
+1056	Sat Nov 13 17:00:59 +0000 2010	464f17daf964a520c5461fe3	{Fitness SF Castro}	{37.763726226183614,-122.43344306945801,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+1056	Sat Nov 13 05:36:14 +0000 2010	3fd66200f964a5203dee1ee3	{Cafe Flore}	{37.76461205879493,-122.43299681077688,San Francisco,CA,United States}	{Food,}
+1056	Sat Nov 13 03:33:36 +0000 2010	4a1f5813f964a520217c1fe3	{Spencer on the Go}	{37.776371240615845,-122.408222,San Francisco,CA,United States}	{Food,}
+1056	Fri Nov 12 01:51:51 +0000 2010	4bd1c341caff9521863bd1f0	{Martha & Bros. Coffee Company}	{37.77534393,-122.415886,San Francisco,CA,United States}	{Food,}
+1056	Thu Nov 11 22:06:14 +0000 2010	4b0e258af964a520545523e3	{Lion & Compass}	{37.398924,-122.012141,Sunnyvale,CA,United States}	{Nightlife Spot,Food,}
+1056	Thu Nov 11 16:58:15 +0000 2010	4bda49dc2a3a0f4797b3aab6	{Little Marina Green}	{37.805477856609954,-122.44786262512207,San Francisco,CA,United States}	{Outdoors & Recreation,}
+1056	Tue Nov 09 17:19:16 +0000 2010	4bda49dc2a3a0f4797b3aab6	{Little Marina Green}	{37.805477856609954,-122.44786262512207,San Francisco,CA,United States}	{Outdoors & Recreation,}
+1056	Sun Nov 07 23:53:29 +0000 2010	4a5b5f9af964a5200bbb1fe3	{Starbucks}	{37.77844326422595,-122.41520017575083,San Francisco,CA,United States}	{Food,}
+1056	Sun Nov 07 17:26:15 +0000 2010	4a4dce3ef964a52010ae1fe3	{Fitness SF SoMa}	{37.76953780861312,-122.40683725970675,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+1056	Sat Nov 06 20:37:02 +0000 2010	4a9eeaabf964a520c73b20e3	{O'Reilly Auto Parts}	{37.76593141060717,-122.40795135498047,San Francisco,CA,United States}	{Shop & Service,}
+1056	Sat Nov 06 20:26:41 +0000 2010	40e0b100f964a520e2091fe3	{Universal Cafe}	{37.76049396,-122.410557,San Francisco,CA,United States}	{Food,}
+1056	Sat Nov 06 16:52:17 +0000 2010	44de0681f964a520c8361fe3	{Peet's Coffee & Tea}	{37.76491561479136,-122.43216179688253,San Francisco,CA,United States}	{Food,}
+1056	Sat Nov 06 16:44:30 +0000 2010	464f17daf964a520c5461fe3	{Fitness SF Castro}	{37.763726226183614,-122.43344306945801,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+1056	Fri Nov 05 20:59:02 +0000 2010	454cf014f964a520c53c1fe3	{Century San Francisco Centre 9 & XD}	{37.78436333183897,-122.40622401237488,San Francisco,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1056	Fri Nov 05 16:18:45 +0000 2010	4bda49dc2a3a0f4797b3aab6	{Little Marina Green}	{37.805477856609954,-122.44786262512207,San Francisco,CA,United States}	{Outdoors & Recreation,}
+1056	Thu Nov 04 19:01:57 +0000 2010	4b60760ff964a52051e729e3	{San Francisco Toyota - Parts & Service Center}	{37.780927809747844,-122.46250557826924,San Francisco,CA,United States}	{Shop & Service,}
+1056	Thu Nov 04 16:15:31 +0000 2010	4bda49dc2a3a0f4797b3aab6	{Little Marina Green}	{37.805477856609954,-122.44786262512207,San Francisco,CA,United States}	{Outdoors & Recreation,}
+1056	Thu Nov 04 01:06:19 +0000 2010	4698dc59f964a520ed481fe3	{Grace Cathedral}	{37.79172623618031,-122.41324225110944,San Francisco,CA,United States}	{Spiritual Center,Professional & Other Places,}
+1056	Wed Nov 03 16:34:36 +0000 2010	44de0681f964a520c8361fe3	{Peet's Coffee & Tea}	{37.76491561479136,-122.43216179688253,San Francisco,CA,United States}	{Food,}
+1056	Wed Nov 03 15:12:57 +0000 2010	464f17daf964a520c5461fe3	{Fitness SF Castro}	{37.763726226183614,-122.43344306945801,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+1056	Tue Nov 02 22:13:32 +0000 2010	4b60760ff964a52051e729e3	{San Francisco Toyota - Parts & Service Center}	{37.780927809747844,-122.46250557826924,San Francisco,CA,United States}	{Shop & Service,}
+1056	Tue Nov 02 16:04:25 +0000 2010	4bda49dc2a3a0f4797b3aab6	{Little Marina Green}	{37.805477856609954,-122.44786262512207,San Francisco,CA,United States}	{Outdoors & Recreation,}
+1056	Tue Nov 02 16:04:25 +0000 2010	4bda49dc2a3a0f4797b3aab6	{Little Marina Green}	{37.805477856609954,-122.44786262512207,San Francisco,CA,United States}	{Outdoors & Recreation,}
+1056	Tue Nov 02 05:59:02 +0000 2010	4cafe99feb65b1f7660768cd	{Brian Wilson's Beard}	{37.77834706771675,-122.38949775695801,San Francisco,CA,United States}	{Stadium,Shop & Service,Outdoors & Recreation,Arts & Entertainment,Athletics & Sports,}
+1056	Tue Nov 02 05:54:16 +0000 2010	4ccf82789d87224bd4cc4f3b	{2010 World Series Winner's City!}	{37.751246,-122.429361,San Francisco,CA,United States}	{Professional & Other Places,}
+1056	Tue Nov 02 00:53:06 +0000 2010	4a189db1f964a520d2791fe3	{Little Delhi}	{37.78443328391916,-122.40916035869498,San Francisco,CA,United States}	{Food,}
+1056	Mon Nov 01 21:17:49 +0000 2010	475fbd10f964a520de4c1fe3	{Whole Foods Market}	{37.764539584185044,-122.40271086684592,San Francisco,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1056	Mon Nov 01 19:07:52 +0000 2010	4b9c2efff964a520815236e3	{The UPS Store}	{37.76317,-122.434593,San Francisco,CA,United States}	{Shop & Service,}
+1056	Mon Nov 01 19:05:24 +0000 2010	4b18291ef964a5200bce23e3	{FedEx Office Print & Ship Center}	{37.76951002360443,-122.42608424385634,San Francisco,CA,United States}	{Shop & Service,}
+1056	Mon Nov 01 17:01:14 +0000 2010	464f17daf964a520c5461fe3	{Fitness SF Castro}	{37.763726226183614,-122.43344306945801,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+1056	Sun Oct 31 20:17:30 +0000 2010	4b0c14e0f964a520933623e3	{RYO Asian Fusion}	{42.363205407809765,-71.01824283599854,Boston,MA,United States}	{Food,}
+1056	Sun Oct 31 17:57:30 +0000 2010	4b0586aaf964a520836922e3	{Cable Car Cinema and Cafe}	{41.82310773,-71.40562,Providence,RI,United States}	{Food,Arts & Entertainment,Movie Theater,}
+1056	Sun Oct 31 15:22:16 +0000 2010	4b0586aaf964a520816922e3	{The Coffee Exchange}	{41.8193535554444,-71.39902387554949,Providence,RI,United States}	{Food,}
+1056	Sun Oct 31 02:45:09 +0000 2010	4ada4b7cf964a5200a2121e3	{Lupo's Heartbreak Hotel}	{41.82314153997187,-71.41473770141602,Providence,RI,United States}	{Outdoors & Recreation,Music Venue,Arts & Entertainment,}
+1056	Sun Oct 31 02:38:11 +0000 2010	4b0586aaf964a5208f6922e3	{Tazza Caffe}	{41.82258957693389,-71.41286423232256,Providence,RI,United States}	{Nightlife Spot,Food,}
+1056	Sun Oct 31 01:00:08 +0000 2010	50ca02c8245f2d4aa8c2cd4f	{Shula's 347}	{41.8228024619937,-71.41825643575399,Providence,RI,United States}	{Food,}
+1056	Sat Oct 30 19:11:01 +0000 2010	4b53462af964a520449527e3	{The Breakers}	{41.469872263315395,-71.29873752593994,Newport,RI,United States}	{Arts & Entertainment,}
+1056	Sat Oct 30 18:45:56 +0000 2010	4a999283f964a520252f20e3	{Hotel Viking}	{41.48769493289616,-71.3102406492959,Newport,RI,United States}	{Travel & Transport,}
+1056	Sat Oct 30 15:36:20 +0000 2010	4b0d8817f964a520594a23e3	{Olga's Cup + Saucer}	{41.8165831406516,-71.40766739845276,Providence,RI,United States}	{Food,}
+1056	Sat Oct 30 13:41:23 +0000 2010	4b0586aaf964a520816922e3	{The Coffee Exchange}	{41.8193535554444,-71.39902387554949,Providence,RI,United States}	{Food,}
+1056	Sat Oct 30 03:27:13 +0000 2010	4b0586a9f964a520676922e3	{Hilton Providence}	{41.822854527636615,-71.41849415469629,Providence,RI,United States}	{Travel & Transport,Hotel,}
+1056	Sat Oct 30 01:50:53 +0000 2010	4b719c3ff964a520f2502de3	{Elisabeth's}	{41.63397801666667,-70.90496723333334,Fairhaven,MA,United States}	{Food,}
+1056	Fri Oct 29 22:53:32 +0000 2010	4cb20dfaef1b370462494800	{Grange Hall}	{41.75120833715945,-70.8554220199585,Rochester,MA,United States}	{Outdoors & Recreation,}
+1056	Fri Oct 29 18:34:12 +0000 2010	4b057f84f964a520d15822e3	{Blue State Coffee}	{41.83004476666667,-71.400805,Providence,RI,United States}	{Food,}
+1056	Fri Oct 29 17:23:27 +0000 2010	4bae36fbf964a5204c933be3	{Dugout Grille}	{41.829524,-71.40076355,Providence,RI,United States}	{Food,}
+1056	Fri Oct 29 02:52:10 +0000 2010	4aeb36a9f964a520b8bf21e3	{Omni Providence}	{41.825101429195705,-71.4157052957816,Providence,RI,United States}	{Travel & Transport,}
+1056	Thu Oct 28 16:53:58 +0000 2010	4acfadeef964a52049d520e3	{24 Hour Fitness}	{37.7666027991409,-122.429673305453,San Francisco,CA,United States}	{Shop & Service,}
+1056	Wed Oct 27 20:17:02 +0000 2010	45a578cdf964a52000411fe3	{El Tonayense Taco Truck}	{37.76880225358186,-122.41328096748707,San Francisco,CA,United States}	{Food,}
+1056	Wed Oct 27 16:47:41 +0000 2010	49f13784f964a5209f691fe3	{Thorough Bread and Pastry}	{37.76673,-122.429026,San Francisco,CA,United States}	{Food,}
+1056	Wed Oct 27 16:06:52 +0000 2010	4acfadeef964a52049d520e3	{24 Hour Fitness}	{37.7666027991409,-122.429673305453,San Francisco,CA,United States}	{Shop & Service,}
+1056	Wed Oct 27 15:20:04 +0000 2010	44de0681f964a520c8361fe3	{Peet's Coffee & Tea}	{37.76491561479136,-122.43216179688253,San Francisco,CA,United States}	{Food,}
+1056	Tue Oct 26 23:25:20 +0000 2010	49bee717f964a520f3541fe3	{Starbucks}	{37.776855,-122.417336,San Francisco,CA,United States}	{Food,}
+1056	Mon Oct 25 19:15:51 +0000 2010	44de0681f964a520c8361fe3	{Peet's Coffee & Tea}	{37.76491561479136,-122.43216179688253,San Francisco,CA,United States}	{Food,}
+1056	Mon Oct 25 19:06:30 +0000 2010	4ab018f8f964a520e16520e3	{Harvest Ranch Market}	{37.76458,-122.43247211666667,San Francisco,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1056	Mon Oct 25 19:06:22 +0000 2010	464f17daf964a520c5461fe3	{Fitness SF Castro}	{37.763726226183614,-122.43344306945801,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+1056	Sun Oct 24 01:07:47 +0000 2010	49f50f7af964a5208c6b1fe3	{Target}	{37.67363920688155,-122.46474981307983,Colma,CA,United States}	{Shop & Service,}
+1056	Sat Oct 23 22:51:13 +0000 2010	4a10653af964a520b8761fe3	{Century 20 Daly City}	{37.70204337103294,-122.4706042437562,Daly City,CA,United States}	{Arts & Entertainment,}
+1056	Sat Oct 23 21:07:20 +0000 2010	49ee7fe2f964a52064681fe3	{Peet's Coffee & Tea}	{37.7815558028675,-122.42101907730103,San Francisco,CA,United States}	{Food,}
+1056	Sat Oct 23 20:25:53 +0000 2010	42cc7080f964a520e9251fe3	{Apple Store}	{37.7858382684861,-122.406513703784,San Francisco,CA,United States}	{Shop & Service,}
+1056	Sat Oct 23 20:19:17 +0000 2010	452b81ddf964a520393b1fe3	{Westfield San Francisco Centre}	{37.78448965,-122.4063157,San Francisco,CA,United States}	{Shop & Service,}
+1056	Sat Oct 23 17:41:25 +0000 2010	44de0681f964a520c8361fe3	{Peet's Coffee & Tea}	{37.76491561479136,-122.43216179688253,San Francisco,CA,United States}	{Food,}
+1056	Sat Oct 23 17:31:16 +0000 2010	464f17daf964a520c5461fe3	{Fitness SF Castro}	{37.763726226183614,-122.43344306945801,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+1056	Fri Oct 22 21:45:27 +0000 2010	4390a026f964a5204d2b1fe3	{AMC Van Ness 14}	{37.785289944969335,-122.42002293049931,San Francisco,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1056	Thu Oct 21 22:59:46 +0000 2010	49f13784f964a5209f691fe3	{Thorough Bread and Pastry}	{37.76673,-122.429026,San Francisco,CA,United States}	{Food,}
+1056	Thu Oct 21 16:51:10 +0000 2010	4b958072f964a52025a634e3	{Beach Hut Caf?}	{37.8058677890642,-122.44878530502318,San Francisco,CA,United States}	{Food,}
+1056	Thu Oct 21 01:22:23 +0000 2010	437e6b00f964a520b82a1fe3	{de Young Museum}	{37.77078258489315,-122.46798992156982,San Francisco,CA,United States}	{Outdoors & Recreation,Museum,Arts & Entertainment,}
+1056	Wed Oct 20 20:21:04 +0000 2010	464f17daf964a520c5461fe3	{Fitness SF Castro}	{37.763726226183614,-122.43344306945801,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+1056	Tue Oct 19 21:21:30 +0000 2010	49dcfa66f964a520cf5f1fe3	{Marina Green}	{37.80666580547457,-122.4385597137619,San Francisco,CA,United States}	{Shop & Service,Outdoors & Recreation,Gym / Fitness Center,}
+1056	Tue Oct 19 16:58:44 +0000 2010	42cc7080f964a520e9251fe3	{Apple Store}	{37.7858382684861,-122.406513703784,San Francisco,CA,United States}	{Shop & Service,}
+1056	Mon Oct 18 23:06:58 +0000 2010	464f17daf964a520c5461fe3	{Fitness SF Castro}	{37.763726226183614,-122.43344306945801,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+1056	Mon Oct 18 01:47:07 +0000 2010	4a189db1f964a520d2791fe3	{Little Delhi}	{37.78443328391916,-122.40916035869498,San Francisco,CA,United States}	{Food,}
+1056	Sun Oct 17 16:15:26 +0000 2010	4a5a3157f964a520ddb91fe3	{Dottie's True Blue Cafe}	{37.78179831787191,-122.40988790988922,San Francisco,CA,United States}	{Food,Arts & Entertainment,}
+1056	Sat Oct 16 22:53:09 +0000 2010	4cba2cc9dd41a35d1db2e6a0	{Art Explosion}	{37.740702,-122.385723,San Francisco,CA,United States}	{}
+1056	Sat Oct 16 22:27:44 +0000 2010	4bc91e850687ef3bc67cd9cc	{Lizland}	{37.774581,-122.411385,,,United States}	{Arts & Entertainment,}
+1056	Sat Oct 16 22:14:07 +0000 2010	4a5ae23ff964a520dcba1fe3	{Jellyfish Gallery}	{37.77411553353769,-122.41154977837421,San Francisco,CA,United States}	{Arts & Entertainment,}
+1056	Sat Oct 16 22:12:49 +0000 2010	4bd876a835aad13a0ef190f3	{Fossil Faux}	{37.773968,-122.411317,,,United States}	{Shop & Service,}
+1056	Sat Oct 16 21:48:09 +0000 2010	4bbfe802b492d13a2498a360	{Arc Studios And Gallery}	{37.774565475009226,-122.41092477338063,San Francisco,CA,United States}	{Arts & Entertainment,}
+1056	Sat Oct 16 18:17:06 +0000 2010	44de0681f964a520c8361fe3	{Peet's Coffee & Tea}	{37.76491561479136,-122.43216179688253,San Francisco,CA,United States}	{Food,}
+1056	Sat Oct 16 17:31:34 +0000 2010	464f17daf964a520c5461fe3	{Fitness SF Castro}	{37.763726226183614,-122.43344306945801,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+1056	Sat Oct 16 16:00:24 +0000 2010	4a861ed9f964a520830020e3	{1328 Mission St}	{37.776077,-122.415077,San Francisco,CA,United States}	{}
+1056	Sat Oct 16 04:18:38 +0000 2010	4a10653af964a520b8761fe3	{Century 20 Daly City}	{37.70204337103294,-122.4706042437562,Daly City,CA,United States}	{Arts & Entertainment,}
+1056	Sat Oct 16 03:52:55 +0000 2010	4aff2623f964a520f63422e3	{Cold Stone Creamery}	{37.70219747000718,-122.4706374110619,Daly City,CA,United States}	{Food,}
+1056	Sat Oct 16 02:35:45 +0000 2010	43e879cbf964a5200f2f1fe3	{Taqueria Cancun}	{37.760452,-122.41941263333335,San Francisco,CA,United States}	{Food,}
+1056	Sat Oct 16 02:11:16 +0000 2010	4ae651e7f964a52069a621e3	{Most Holy Redeemer Catholic Church}	{37.76044470473665,-122.43720495841487,San Francisco,CA,United States}	{Spiritual Center,Professional & Other Places,}
+1056	Fri Oct 15 20:36:33 +0000 2010	454cf014f964a520c53c1fe3	{Century San Francisco Centre 9 & XD}	{37.78436333183897,-122.40622401237488,San Francisco,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1056	Fri Oct 15 02:32:43 +0000 2010	4a207e66f964a520937c1fe3	{Victoria Theatre}	{37.7650145271505,-122.41887256874601,San Francisco,CA,United States}	{Performing Arts Venue,Arts & Entertainment,Movie Theater,}
+1056	Thu Oct 14 23:41:45 +0000 2010	4b09a3bdf964a520d11a23e3	{Cups and Cakes}	{37.77192898,-122.40933,San Francisco,CA,United States}	{Food,}
+1056	Thu Oct 14 23:11:20 +0000 2010	4a4dce3ef964a52010ae1fe3	{Fitness SF SoMa}	{37.76953780861312,-122.40683725970675,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+1056	Thu Oct 14 03:45:15 +0000 2010	4a861ed9f964a520830020e3	{1328 Mission St}	{37.776077,-122.415077,San Francisco,CA,United States}	{}
+1056	Thu Oct 14 01:08:34 +0000 2010	4698dc59f964a520ed481fe3	{Grace Cathedral}	{37.79172623618031,-122.41324225110944,San Francisco,CA,United States}	{Spiritual Center,Professional & Other Places,}
+1056	Wed Oct 13 20:40:51 +0000 2010	49dcfdb3f964a520dd5f1fe3	{Safeway}	{37.76647421515012,-122.40938901901247,San Francisco,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1056	Wed Oct 13 17:03:01 +0000 2010	475ab983f964a520d24c1fe3	{La Boulange de Hayes}	{37.77669558327816,-122.42471247911453,San Francisco,CA,United States}	{Food,}
+1056	Wed Oct 13 03:26:03 +0000 2010	48b5de22f964a520b6511fe3	{Chez Papa Resto}	{37.783032299723544,-122.40748994508438,San Francisco,CA,United States}	{Food,}
+1056	Tue Oct 12 23:50:17 +0000 2010	4a861ed9f964a520830020e3	{1328 Mission St}	{37.776077,-122.415077,San Francisco,CA,United States}	{}
+1056	Tue Oct 12 21:59:52 +0000 2010	4acfadeef964a52049d520e3	{24 Hour Fitness}	{37.7666027991409,-122.429673305453,San Francisco,CA,United States}	{Shop & Service,}
+1056	Tue Oct 12 20:56:08 +0000 2010	44de0681f964a520c8361fe3	{Peet's Coffee & Tea}	{37.76491561479136,-122.43216179688253,San Francisco,CA,United States}	{Food,}
+1056	Tue Oct 12 20:09:11 +0000 2010	4ab018f8f964a520e16520e3	{Harvest Ranch Market}	{37.76458,-122.43247211666667,San Francisco,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1056	Tue Oct 12 20:01:16 +0000 2010	4babf4aff964a520fed83ae3	{Chevron}	{37.771974232077106,-122.41883385442937,San Francisco,CA,United States}	{Shop & Service,}
+1056	Tue Oct 12 16:26:50 +0000 2010	4a861ed9f964a520830020e3	{1328 Mission St}	{37.776077,-122.415077,San Francisco,CA,United States}	{}
+1056	Tue Oct 12 16:23:05 +0000 2010	4bd1c341caff9521863bd1f0	{Martha & Bros. Coffee Company}	{37.77534393,-122.415886,San Francisco,CA,United States}	{Food,}
+1056	Mon Oct 11 23:09:47 +0000 2010	4bafd16ff964a52047233ce3	{American Airlines Flight 1561}	{41.97451916603377,-87.8995943069458,Chicago,IL,United States}	{Travel & Transport,Airport,}
+1056	Mon Oct 11 21:10:02 +0000 2010	4a5a77a4f964a52062ba1fe3	{Chicago O'Hare International Airport (ORD)}	{41.977270920041626,-87.90440082550049,Chicago,IL,United States}	{Travel & Transport,}
+1056	Mon Oct 11 19:23:35 +0000 2010	4a7cf559f964a52025ee1fe3	{Hilton}	{41.87246624859577,-87.62443940592614,Chicago,IL,United States}	{Travel & Transport,}
+1056	Mon Oct 11 18:17:37 +0000 2010	4a5e5c18f964a52071be1fe3	{PJ Clarke's}	{41.89100165449478,-87.62013475731824,Chicago,IL,United States}	{Nightlife Spot,Food,}
+1056	Mon Oct 11 16:04:35 +0000 2010	4a7dc810f964a52097ef1fe3	{Niketown Chicago}	{41.89424517654089,-87.62369708782836,Chicago,IL,United States}	{Shop & Service,Clothing Store,}
+1056	Mon Oct 11 15:12:09 +0000 2010	4b9d15c5f964a520478e36e3	{Chicago Riverwalk}	{41.88834131310477,-87.62622284819078,Chicago,IL,United States}	{Outdoors & Recreation,}
+1056	Sat Oct 09 23:59:51 +0000 2010	4b6818bbf964a52010672be3	{Starbucks}	{41.87946458615613,-87.63432458396824,Chicago,IL,United States}	{Food,}
+1056	Sat Oct 09 23:58:31 +0000 2010	4aef660bf964a52021d821e3	{CVS/pharmacy}	{41.875591655296766,-87.62772184989306,Chicago,IL,United States}	{Shop & Service,}
+1056	Sat Oct 09 15:02:04 +0000 2010	4a5a128ef964a520b0b91fe3	{Eleven City Diner}	{41.86812271846409,-87.62570858001709,Chicago,IL,United States}	{Food,}
+1056	Sat Oct 09 00:29:10 +0000 2010	4a7cf559f964a52025ee1fe3	{Hilton}	{41.87246624859577,-87.62443940592614,Chicago,IL,United States}	{Travel & Transport,}
+1056	Fri Oct 08 23:36:31 +0000 2010	40b28c80f964a52037fb1ee3	{Exchequer Restaurant & Pub}	{41.87879124733861,-87.62586616530426,Chicago,IL,United States}	{Nightlife Spot,Food,}
+1056	Fri Oct 08 18:55:10 +0000 2010	4cadf9dc8c48a093aaa0702c	{Chicago Marathon Expo - McCormick Place}	{41.851378,-87.617201,Chicago,IL,United States}	{Professional & Other Places,}
+1056	Fri Oct 08 16:35:58 +0000 2010	4a7cf559f964a52025ee1fe3	{Hilton}	{41.87246624859577,-87.62443940592614,Chicago,IL,United States}	{Travel & Transport,}
+1056	Fri Oct 08 14:40:11 +0000 2010	40b68100f964a5206f001fe3	{Clarke's}	{41.9401002386761,-87.65267014503479,Chicago,IL,United States}	{Food,}
+1056	Fri Oct 08 13:31:38 +0000 2010	4a7d7c83f964a520b1ee1fe3	{LA Fitness}	{41.933768821098425,-87.64595175051241,Chicago,IL,United States}	{Shop & Service,}
+1056	Fri Oct 08 00:19:19 +0000 2010	4b0450b8f964a5203b5322e3	{Leona's}	{41.94040486393601,-87.65417041375898,Chicago,IL,United States}	{Food,}
+1056	Thu Oct 07 19:40:58 +0000 2010	4a088617f964a520dc731fe3	{Phoebe's Bakery}	{41.94314076712809,-87.64462351799011,Chicago,IL,United States}	{Food,}
+1056	Thu Oct 07 19:32:08 +0000 2010	4cae202c2a55224b2a4c7469	{Eight mile mark - Chicago Marathon 2010 #cm10}	{41.942348,-87.644443,Chicago,IL,United States}	{}
+1056	Thu Oct 07 18:49:10 +0000 2010	4a0885def964a520db731fe3	{Melrose Restaurant}	{41.941075,-87.64427,Chicago,IL,United States}	{Food,}
+1056	Wed Oct 06 23:16:55 +0000 2010	49ca6bd4f964a520aa581fe3	{Whole Foods Market}	{41.94858306822325,-87.64956506149032,Chicago,IL,United States}	{Shop & Service,Food & Drink Shop,}
+1056	Wed Oct 06 22:40:19 +0000 2010	4a15b903f964a520c0781fe3	{Starbucks}	{41.939996630106904,-87.65075980004234,Chicago,IL,United States}	{Food,}
+1056	Wed Oct 06 20:43:08 +0000 2010	4a7dc810f964a52097ef1fe3	{Niketown Chicago}	{41.89424517654089,-87.62369708782836,Chicago,IL,United States}	{Shop & Service,Clothing Store,}
+1056	Wed Oct 06 19:29:30 +0000 2010	4cc3dd5e82388cfa17546b35	{Lavazza Espression}	{41.898684348924206,-87.62352837748882,Chicago,IL,United States}	{Food,}
+1056	Wed Oct 06 19:10:48 +0000 2010	4b82d646f964a5202ae830e3	{John Hancock Observatory}	{41.89881930733888,-87.62306928634644,Chicago,IL,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+1056	Wed Oct 06 18:31:10 +0000 2010	4bfafb65bbb7c92887860743	{Alfred Caldwell Lily Pool}	{41.92554998189694,-87.63408243656158,Chicago,IL,United States}	{Outdoors & Recreation,}
+1056	Wed Oct 06 18:11:15 +0000 2010	4b92afcaf964a520711134e3	{Chicago Lakefront}	{41.926100765163326,-87.63064384460449,Chicago,IL,United States}	{Outdoors & Recreation,}
+1056	Wed Oct 06 17:58:16 +0000 2010	4a859c79f964a520a4fe1fe3	{Lincoln Park}	{41.92515884306683,-87.63270378112793,Chicago,IL,United States}	{Outdoors & Recreation,}
+1056	Wed Oct 06 17:42:07 +0000 2010	4b21e5c7f964a520434224e3	{The Wiener's Circle}	{41.93017561536791,-87.64354526996613,Chicago,IL,United States}	{Food,}
+1056	Tue Oct 05 20:02:37 +0000 2010	49d814e4f964a5209e5d1fe3	{AMC River East 21}	{41.89115759335902,-87.61915224166955,Chicago,IL,United States}	{Arts & Entertainment,Movie Theater,}
+1056	Tue Oct 05 17:55:33 +0000 2010	4b5f488cf964a520ddb129e3	{Momentum Chicago}	{41.894236236393425,-87.62425623764554,Chicago,IL,United States}	{Professional & Other Places,}
+1056	Tue Oct 05 17:54:56 +0000 2010	4b5f488cf964a520ddb129e3	{Momentum Chicago}	{41.894236236393425,-87.62425623764554,Chicago,IL,United States}	{Professional & Other Places,}
+1056	Tue Oct 05 14:39:32 +0000 2010	4a7d7c83f964a520b1ee1fe3	{LA Fitness}	{41.933768821098425,-87.64595175051241,Chicago,IL,United States}	{Shop & Service,}
+1056	Mon Oct 04 16:39:27 +0000 2010	4caa033614c33704d26ae33b	{AA Flight 1972 SFO -> ORD 2010-10-04}	{37.619593,-122.383968,San Francisco,CA,United States}	{}
+1056	Mon Oct 04 15:05:01 +0000 2010	468ef191f964a52093481fe3	{San Francisco Int'l Airport BART Station}	{37.61593963841623,-122.39242672920227,San Francisco,CA,United States}	{Travel & Transport,}
+1056	Mon Oct 04 14:25:44 +0000 2010	4813bc50f964a520414f1fe3	{Civic Center/UN Plaza BART Station}	{37.7792418232402,-122.41431589072604,San Francisco,CA,United States}	{Travel & Transport,}
+1056	Sun Oct 03 16:05:59 +0000 2010	4a4dce3ef964a52010ae1fe3	{Fitness SF SoMa}	{37.76953780861312,-122.40683725970675,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+1056	Sun Oct 03 00:02:40 +0000 2010	454cf014f964a520c53c1fe3	{Century San Francisco Centre 9 & XD}	{37.78436333183897,-122.40622401237488,San Francisco,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1056	Sat Oct 02 19:08:13 +0000 2010	4b4ced13f964a52082c426e3	{Walgreens}	{37.76630458915842,-122.42992401123047,San Francisco,CA,United States}	{Shop & Service,}
+1056	Sat Oct 02 17:50:15 +0000 2010	44de0681f964a520c8361fe3	{Peet's Coffee & Tea}	{37.76491561479136,-122.43216179688253,San Francisco,CA,United States}	{Food,}
+1056	Sat Oct 02 17:35:46 +0000 2010	464f17daf964a520c5461fe3	{Fitness SF Castro}	{37.763726226183614,-122.43344306945801,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+1056	Fri Oct 01 20:54:04 +0000 2010	4a5824e5f964a5206db71fe3	{AMC Loews Metreon 16}	{37.7844481241691,-122.40364372730255,San Francisco,CA,United States}	{Shop & Service,Arts & Entertainment,Movie Theater,}
+1056	Fri Oct 01 20:44:28 +0000 2010	4a3960b2f964a520619f1fe3	{Bristol Farms}	{37.784554114444994,-122.40679264068604,San Francisco,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1056	Fri Oct 01 20:38:07 +0000 2010	451c196df964a520813a1fe3	{Bloomingdale's}	{37.784197986515366,-122.40589141845703,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+1056	Fri Oct 01 01:48:19 +0000 2010	4a861ed9f964a520830020e3	{1328 Mission St}	{37.776077,-122.415077,San Francisco,CA,United States}	{}
+1056	Thu Sep 30 23:39:35 +0000 2010	4a6247e3f964a520a2c31fe3	{The Animal House}	{37.771163,-122.430333,San Francisco,CA,United States}	{Shop & Service,}
+1056	Thu Sep 30 21:15:19 +0000 2010	452b81ddf964a520393b1fe3	{Westfield San Francisco Centre}	{37.78448965,-122.4063157,San Francisco,CA,United States}	{Shop & Service,}
+1056	Thu Sep 30 21:04:26 +0000 2010	4a283a63f964a520ff941fe3	{Niketown}	{37.788598589799385,-122.40668267011642,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+1056	Thu Sep 30 20:52:47 +0000 2010	4c05614113b99c746c37aff3	{Earthjustice Ad}	{37.778909,-122.414623,San Francisco,CA,United States}	{Travel & Transport,}
+1056	Thu Sep 30 17:58:57 +0000 2010	49f13784f964a5209f691fe3	{Thorough Bread and Pastry}	{37.76673,-122.429026,San Francisco,CA,United States}	{Food,}
+1056	Thu Sep 30 17:41:11 +0000 2010	4acfadeef964a52049d520e3	{24 Hour Fitness}	{37.7666027991409,-122.429673305453,San Francisco,CA,United States}	{Shop & Service,}

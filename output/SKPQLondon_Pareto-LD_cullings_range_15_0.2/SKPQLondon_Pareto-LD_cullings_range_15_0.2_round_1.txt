@@ -1,0 +1,4 @@
+#categoryName experimentName dataset neighborhood plusMode queryType numQueries numKeywords numResults radius item value min max observations
+SKPQLondon Pareto-LD cullings range 15 0.2 nodesAccessed 0.0 - 9223372036854775807 0 0
+SKPQLondon Pareto-LD cullings range 15 0.2 pageFaults 0.0 - 9223372036854775807 0 0
+SKPQLondon Pareto-LD cullings range 15 0.2 totalExecutionTime 557.0 - 557 557 1

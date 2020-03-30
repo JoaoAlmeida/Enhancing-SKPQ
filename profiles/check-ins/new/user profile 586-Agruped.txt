@@ -1,0 +1,480 @@
+586	Fri Aug 12 05:58:09 +0000 2011	4c7f2ad7fb13a1cd4709a0a4	{Big D's}	{34.055168,-118.005463,La Puente,CA,United States}	{Food,}
+586	Fri Aug 12 03:33:44 +0000 2011	4b2053e2f964a520a53024e3	{Ralph Brennan's Jazz Kitchen}	{33.80899402138719,-117.92365193367004,Anaheim,CA,United States}	{Music Venue,Food,Arts & Entertainment,}
+586	Wed Aug 10 15:58:07 +0000 2011	4b6f9fa9f964a52045f82ce3	{Icho Izakaya}	{34.103094416666664,-118.09186966666667,San Gabriel,CA,United States}	{Food,}
+586	Wed Aug 10 00:57:09 +0000 2011	4b08a7fdf964a5205c1023e3	{Target}	{34.07459485770355,-118.07075500488281,Rosemead,CA,United States}	{Shop & Service,}
+586	Tue Aug 09 05:02:57 +0000 2011	4b0b19acf964a520e42c23e3	{AMPM}	{34.10787461215821,-118.0519387773008,Arcadia,CA,United States}	{Shop & Service,}
+586	Mon Aug 08 17:17:57 +0000 2011	4bb4e7aec29a9521faeca735	{Temple City Car Wash}	{34.09941996151693,-118.0730330156041,Temple City,CA,United States}	{Shop & Service,Professional & Other Places,}
+586	Sun Aug 07 22:10:52 +0000 2011	4b3668a9f964a520c43425e3	{Big Lots}	{34.10690326236645,-118.05167008102323,Arcadia,CA,United States}	{Shop & Service,}
+586	Wed Aug 03 19:52:27 +0000 2011	4b5203a9f964a5205e6127e3	{McDonald's}	{34.107871200097286,-118.05559757951575,Temple City,CA,United States}	{Food,}
+586	Mon Aug 01 00:01:03 +0000 2011	4b413ed7f964a520fcc325e3	{JJ Bakery}	{33.98599683370243,-117.88866821801727,Rowland Heights,CA,United States}	{Food,}
+586	Thu Jul 28 04:01:04 +0000 2011	4c570b71d12a20a163d065bd	{Fresh & Easy Neighborhood Market}	{34.08057098,-118.07230443,Rosemead,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Thu Jul 28 03:00:28 +0000 2011	4cab6c8476d3a093451c2c6b	{Dr Eileen Chen}	{34.12465354213266,-118.05195021117589,Arcadia,CA,United States}	{Medical Center,Professional & Other Places,}
+586	Sun Jul 24 09:33:25 +0000 2011	4ccf1f926449a0937514c3cf	{LA County Fire Station 119}	{33.97654736388569,-117.8526321879808,walnut,CA,United States}	{Government Building,Professional & Other Places,}
+586	Fri Jul 22 04:58:50 +0000 2011	4d0a8c236c51a143dccda435	{76}	{34.090602464363,-118.04856003477282,El Monte,CA,United States}	{Shop & Service,}
+586	Wed Jul 20 05:13:24 +0000 2011	4aeb28c7f964a52023bf21e3	{Live Oak Park}	{34.10213942555089,-118.04723739624023,Temple City,CA,United States}	{Outdoors & Recreation,}
+586	Sun Jul 17 01:34:34 +0000 2011	4b7c9912f964a520fe9c2fe3	{Red Ribbon BakeShop}	{34.04973,-118.082528,Rosemead,CA,United States}	{Food,}
+586	Thu Jul 07 03:31:53 +0000 2011	4aed210ef964a52030cd21e3	{CVS/pharmacy}	{34.12361335351347,-118.0561635437073,Arcadia,CA,United States}	{Shop & Service,}
+586	Wed Jul 06 01:37:24 +0000 2011	4a8592a4f964a52084fe1fe3	{SUBWAY}	{34.04959586393408,-118.08248744460302,Rosemead,CA,United States}	{Food,}
+586	Tue Jul 05 08:51:43 +0000 2011	4aeb28c7f964a52023bf21e3	{Live Oak Park}	{34.10213942555089,-118.04723739624023,Temple City,CA,United States}	{Outdoors & Recreation,}
+586	Mon Jul 04 06:00:35 +0000 2011	4ad8d161f964a520f71421e3	{El Pollo Loco}	{34.10746945753578,-118.05243615018207,Arcadia,CA,United States}	{Food,}
+586	Thu Jun 30 21:10:26 +0000 2011	51939ec8498efbd0bbe49af4	{Mobil}	{34.0989302175119,-118.05059529182283,Temple City,CA,United States}	{Shop & Service,}
+586	Wed Jun 29 08:42:57 +0000 2011	4b4682b7f964a520022326e3	{CVS}	{34.10731342307462,-118.05281918351463,Temple City,CA,United States}	{Shop & Service,}
+586	Tue Jun 28 08:00:17 +0000 2011	51939ec8498efbd0bbe49af4	{Mobil}	{34.0989302175119,-118.05059529182283,Temple City,CA,United States}	{Shop & Service,}
+586	Fri Jun 24 02:09:50 +0000 2011	4d1cc7f409546dcb5f5fd538	{Swan Spa}	{34.129152,-118.05491,Arcadia,CA,United States}	{Shop & Service,}
+586	Thu Jun 23 20:29:07 +0000 2011	4b342ce2f964a520ce2525e3	{Sir Pizza 'n' Chicken}	{34.091298580921155,-118.04252272983706,El Monte,CA,United States}	{Food,}
+586	Thu Jun 23 08:26:41 +0000 2011	51939ec8498efbd0bbe49af4	{Mobil}	{34.0989302175119,-118.05059529182283,Temple City,CA,United States}	{Shop & Service,}
+586	Wed Jun 22 00:46:49 +0000 2011	4bc781e692b376b07fd94f3a	{Shoe City}	{34.075003266334534,-118.07253995,Rosemead,CA,United States}	{Shop & Service,Clothing Store,}
+586	Wed Jun 22 00:29:06 +0000 2011	4aaab25ef964a520005720e3	{Lublae}	{34.075341,-118.071752,Rosemead,CA,United States}	{Food,}
+586	Tue Jun 21 17:18:58 +0000 2011	4b342ce2f964a520ce2525e3	{Sir Pizza 'n' Chicken}	{34.091298580921155,-118.04252272983706,El Monte,CA,United States}	{Food,}
+586	Thu Jun 09 02:50:51 +0000 2011	4bb16912f964a520a8913ce3	{Cali's Frozen Custard Creamery}	{36.83784331932762,-119.78089386891988,Fresno,CA,United States}	{Food,}
+586	Wed Jun 08 17:25:19 +0000 2011	4b95cb66f964a52082b334e3	{Homewood Suites Fresno}	{36.83658591167532,-119.77738281944761,Fresno,CA,United States}	{Travel & Transport,}
+586	Mon Jun 06 03:57:44 +0000 2011	4aeb28c7f964a52023bf21e3	{Live Oak Park}	{34.10213942555089,-118.04723739624023,Temple City,CA,United States}	{Outdoors & Recreation,}
+586	Wed Jun 01 18:38:56 +0000 2011	4ab6df51f964a5205e7920e3	{Yogurtland}	{33.986539846377546,-117.87211897283561,Rowland Heights,CA,United States}	{Food,}
+586	Mon May 30 15:41:53 +0000 2011	4c4c873dd2bf76b099d21d85	{El Chorlito}	{35.61146,-121.14326298236847,San Simeon,CA,United States}	{Food,}
+586	Fri May 27 23:41:28 +0000 2011	4b32bd46f964a520f91225e3	{USPS - Temple City}	{34.107298,-118.065181,Temple City,CA,United States}	{Professional & Other Places,}
+586	Thu May 26 00:22:17 +0000 2011	4b9435d5f964a520cd6e34e3	{Potato Corner}	{34.134790335451804,-118.05127143859863,Arcadia,CA,United States}	{Food,}
+586	Thu May 26 00:20:09 +0000 2011	4b75b51ef964a520a01e2ee3	{Nordstrom}	{34.13535868359479,-118.05255889892578,Arcadia,CA,United States}	{Shop & Service,Arts & Entertainment,}
+586	Tue May 24 06:40:59 +0000 2011	4b3668a9f964a520c43425e3	{Big Lots}	{34.10690326236645,-118.05167008102323,Arcadia,CA,United States}	{Shop & Service,}
+586	Mon May 23 00:34:00 +0000 2011	4aeb28c7f964a52023bf21e3	{Live Oak Park}	{34.10213942555089,-118.04723739624023,Temple City,CA,United States}	{Outdoors & Recreation,}
+586	Sat May 21 04:41:13 +0000 2011	4aeb28c7f964a52023bf21e3	{Live Oak Park}	{34.10213942555089,-118.04723739624023,Temple City,CA,United States}	{Outdoors & Recreation,}
+586	Wed May 18 17:42:17 +0000 2011	4aee41b3f964a5203cd321e3	{HomeTown Buffet}	{33.609709739684085,-117.73026466369286,Laguna Woods,CA,United States}	{Food,}
+586	Wed May 18 17:41:36 +0000 2011	4ad3d1c1f964a5207ce620e3	{Ayres Hotel Laguna Woods}	{33.61034511528745,-117.72982061124223,Laguna Woods,CA,United States}	{Travel & Transport,}
+586	Wed May 18 17:41:36 +0000 2011	4ad3d1c1f964a5207ce620e3	{Ayres Hotel Laguna Woods}	{33.61034511528745,-117.72982061124223,Laguna Woods,CA,United States}	{Travel & Transport,}
+586	Wed May 18 07:23:20 +0000 2011	4ad3d1c1f964a5207ce620e3	{Ayres Hotel Laguna Woods}	{33.61034511528745,-117.72982061124223,Laguna Woods,CA,United States}	{Travel & Transport,}
+586	Wed May 18 05:14:38 +0000 2011	4b468929f964a520a52326e3	{Sushi Wok}	{33.60974729061127,-117.73098065,Laguna Woods,CA,United States}	{Food,}
+586	Thu May 05 05:06:58 +0000 2011	4b2e4ac4f964a52000de24e3	{LA Fitness}	{34.124310731722666,-118.05642127990723,Arcadia,CA,United States}	{Shop & Service,}
+586	Wed May 04 02:48:17 +0000 2011	4bf1e4cf99d02d7f59b5c948	{Red Ribbon Bakeshop}	{34.14240251,-118.24363083333333,Glendale,CA,United States}	{Food,}
+586	Fri Apr 29 03:08:10 +0000 2011	4aeb28c7f964a52023bf21e3	{Live Oak Park}	{34.10213942555089,-118.04723739624023,Temple City,CA,United States}	{Outdoors & Recreation,}
+586	Wed Apr 27 00:28:26 +0000 2011	4bb4e7aec29a9521faeca735	{Temple City Car Wash}	{34.09941996151693,-118.0730330156041,Temple City,CA,United States}	{Shop & Service,Professional & Other Places,}
+586	Wed Apr 27 00:28:25 +0000 2011	4bb4e7aec29a9521faeca735	{Temple City Car Wash}	{34.09941996151693,-118.0730330156041,Temple City,CA,United States}	{Shop & Service,Professional & Other Places,}
+586	Mon Apr 25 23:01:24 +0000 2011	4b19937cf964a520cedf23e3	{Trader Joe's}	{34.13807050032299,-118.01207579566727,Monrovia,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Mon Apr 25 03:32:06 +0000 2011	4ba30f9bf964a5201f2a38e3	{Rite Aid}	{33.98858955,-117.890114,Rowland Heights,CA,United States}	{Shop & Service,}
+586	Mon Apr 25 01:21:36 +0000 2011	4aed210ef964a52030cd21e3	{CVS/pharmacy}	{34.12361335351347,-118.0561635437073,Arcadia,CA,United States}	{Shop & Service,}
+586	Sun Apr 24 02:39:56 +0000 2011	4af5fe29f964a520e6ff21e3	{Westfield Santa Anita}	{34.1346047997385,-118.0515657785736,Arcadia,CA,United States}	{Shop & Service,}
+586	Thu Apr 21 01:08:49 +0000 2011	4c81bf4ed34ca14383f22580	{Island Pacific Supermarket}	{34.02989713991953,-117.91437606249818,West Covina,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Tue Apr 19 00:25:12 +0000 2011	4c570b71d12a20a163d065bd	{Fresh & Easy Neighborhood Market}	{34.08057098,-118.07230443,Rosemead,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Sat Apr 16 17:04:24 +0000 2011	4b342ce2f964a520ce2525e3	{Sir Pizza 'n' Chicken}	{34.091298580921155,-118.04252272983706,El Monte,CA,United States}	{Food,}
+586	Wed Apr 13 23:41:54 +0000 2011	4b9c6bb1f964a520656736e3	{Phoenix Food Boutique}	{33.987394,-117.889748,Rowland Heights,CA,United States}	{Food,}
+586	Wed Apr 13 20:43:22 +0000 2011	4af8eea3f964a5209a1022e3	{Orchid Thai Cuisine}	{34.124592,-118.055284,Arcadia,CA,United States}	{Food,}
+586	Wed Apr 13 10:08:31 +0000 2011	4c5b82b96ebe2d7fe2cfcd2e	{Cha Cafe}	{34.091309291849925,-118.04219112946157,El Monte,CA,United States}	{Food,}
+586	Wed Apr 13 10:08:07 +0000 2011	51939ec8498efbd0bbe49af4	{Mobil}	{34.0989302175119,-118.05059529182283,Temple City,CA,United States}	{Shop & Service,}
+586	Sat Apr 09 07:15:09 +0000 2011	51939ec8498efbd0bbe49af4	{Mobil}	{34.0989302175119,-118.05059529182283,Temple City,CA,United States}	{Shop & Service,}
+586	Sat Apr 09 02:21:37 +0000 2011	4c53030cd797e21ef30f767e	{Ez Cleaners}	{34.12462,-118.05627,Arcadia,CA,United States}	{Shop & Service,}
+586	Fri Apr 08 05:26:45 +0000 2011	4b4682b7f964a520022326e3	{CVS}	{34.10731342307462,-118.05281918351463,Temple City,CA,United States}	{Shop & Service,}
+586	Fri Apr 08 01:23:24 +0000 2011	4b358c2bf964a520db2d25e3	{Banh Mi & Che Cali}	{34.07837375,-118.13036,Alhambra,CA,United States}	{Food,}
+586	Thu Apr 07 07:40:34 +0000 2011	4ad905f6f964a520391721e3	{Ralphs}	{34.10534687529722,-118.06413830053714,Temple City,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Sat Apr 02 03:52:17 +0000 2011	4b819b46f964a52046b230e3	{Bank of America}	{33.98981328885638,-117.8894292639064,Rowland Heights,CA,United States}	{Shop & Service,}
+586	Fri Apr 01 20:35:42 +0000 2011	4b0b19acf964a520e42c23e3	{AMPM}	{34.10787461215821,-118.0519387773008,Arcadia,CA,United States}	{Shop & Service,}
+586	Fri Apr 01 20:32:28 +0000 2011	4b088f47f964a520690e23e3	{99 Ranch Market}	{34.12407489533765,-118.05930203944499,Arcadia,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Fri Apr 01 20:31:45 +0000 2011	4b4682b7f964a520022326e3	{CVS}	{34.10731342307462,-118.05281918351463,Temple City,CA,United States}	{Shop & Service,}
+586	Thu Mar 31 21:28:58 +0000 2011	4c5b82b96ebe2d7fe2cfcd2e	{Cha Cafe}	{34.091309291849925,-118.04219112946157,El Monte,CA,United States}	{Food,}
+586	Tue Mar 29 06:54:36 +0000 2011	4b4682b7f964a520022326e3	{CVS}	{34.10731342307462,-118.05281918351463,Temple City,CA,United States}	{Shop & Service,}
+586	Wed Mar 23 07:20:47 +0000 2011	4ad8d161f964a520f71421e3	{El Pollo Loco}	{34.10746945753578,-118.05243615018207,Arcadia,CA,United States}	{Food,}
+586	Mon Mar 21 03:06:55 +0000 2011	4b088f47f964a520690e23e3	{99 Ranch Market}	{34.12407489533765,-118.05930203944499,Arcadia,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Mon Mar 21 02:30:43 +0000 2011	4c704539b3ce224b296a73c6	{Chiffon De Pastry Art}	{34.12843993293419,-118.05456283220842,arcadia,CA,United States}	{Food,}
+586	Sun Mar 20 04:32:11 +0000 2011	4aed210ef964a52030cd21e3	{CVS/pharmacy}	{34.12361335351347,-118.0561635437073,Arcadia,CA,United States}	{Shop & Service,}
+586	Thu Mar 17 00:04:43 +0000 2011	4af9b633f964a520951322e3	{Pavilions}	{34.12464823073176,-118.0576765537262,Arcadia,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Wed Mar 16 03:17:30 +0000 2011	4b9c6bb1f964a520656736e3	{Phoenix Food Boutique}	{33.987394,-117.889748,Rowland Heights,CA,United States}	{Food,}
+586	Wed Mar 16 03:09:32 +0000 2011	4cb7ad9a90c9a143219e79d6	{Domino's Pizza}	{33.98684618677742,-117.89011591910632,Rowland Heights,CA,United States}	{Food,}
+586	Mon Mar 14 02:19:38 +0000 2011	4b088f47f964a520690e23e3	{99 Ranch Market}	{34.12407489533765,-118.05930203944499,Arcadia,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Sun Mar 13 03:22:35 +0000 2011	4b993749f964a520826a35e3	{99 Cent Store}	{34.10684485169222,-118.06161157075381,Temple City,CA,United States}	{Shop & Service,}
+586	Sat Mar 12 22:25:15 +0000 2011	4b342ce2f964a520ce2525e3	{Sir Pizza 'n' Chicken}	{34.091298580921155,-118.04252272983706,El Monte,CA,United States}	{Food,}
+586	Sat Mar 12 05:53:55 +0000 2011	4a884ab3f964a520c60520e3	{AMC Puente Hills 20}	{33.994549318585065,-117.92647361755371,City of Industry,CA,United States}	{Arts & Entertainment,Professional & Other Places,Movie Theater,}
+586	Fri Mar 11 03:01:10 +0000 2011	4c704539b3ce224b296a73c6	{Chiffon De Pastry Art}	{34.12843993293419,-118.05456283220842,arcadia,CA,United States}	{Food,}
+586	Fri Mar 11 02:16:53 +0000 2011	4b2e4ac4f964a52000de24e3	{LA Fitness}	{34.124310731722666,-118.05642127990723,Arcadia,CA,United States}	{Shop & Service,}
+586	Thu Mar 10 05:32:24 +0000 2011	4b84a946f964a520194031e3	{Jo-Ann Fabrics & Crafts}	{34.12535875055773,-118.05617451667786,Arcadia,CA,United States}	{Shop & Service,}
+586	Thu Mar 10 05:32:07 +0000 2011	4b2e4ac4f964a52000de24e3	{LA Fitness}	{34.124310731722666,-118.05642127990723,Arcadia,CA,United States}	{Shop & Service,}
+586	Thu Mar 10 05:31:16 +0000 2011	4b2e4ac4f964a52000de24e3	{LA Fitness}	{34.124310731722666,-118.05642127990723,Arcadia,CA,United States}	{Shop & Service,}
+586	Thu Mar 10 05:23:58 +0000 2011	4aed210ef964a52030cd21e3	{CVS/pharmacy}	{34.12361335351347,-118.0561635437073,Arcadia,CA,United States}	{Shop & Service,}
+586	Tue Mar 08 19:00:31 +0000 2011	4b8aeda4f964a520b18932e3	{Burlington Coat Factory}	{34.1254859,-118.05595,Arcadia,CA,United States}	{Shop & Service,}
+586	Tue Mar 08 18:58:07 +0000 2011	4b84a946f964a520194031e3	{Jo-Ann Fabrics & Crafts}	{34.12535875055773,-118.05617451667786,Arcadia,CA,United States}	{Shop & Service,}
+586	Tue Mar 08 18:57:17 +0000 2011	4c53030cd797e21ef30f767e	{Ez Cleaners}	{34.12462,-118.05627,Arcadia,CA,United States}	{Shop & Service,}
+586	Tue Mar 08 18:39:08 +0000 2011	4d23ad8775526dcba01403a9	{Live Oak Park - Community Center}	{34.102733304826835,-118.04781110001046,Temple City,CA,United States}	{Outdoors & Recreation,}
+586	Tue Mar 08 01:45:14 +0000 2011	4c81bf4ed34ca14383f22580	{Island Pacific Supermarket}	{34.02989713991953,-117.91437606249818,West Covina,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Tue Mar 08 01:23:06 +0000 2011	4b819b46f964a52046b230e3	{Bank of America}	{33.98981328885638,-117.8894292639064,Rowland Heights,CA,United States}	{Shop & Service,}
+586	Tue Mar 08 00:12:48 +0000 2011	4c53030cd797e21ef30f767e	{Ez Cleaners}	{34.12462,-118.05627,Arcadia,CA,United States}	{Shop & Service,}
+586	Mon Mar 07 19:28:53 +0000 2011	4b3668a9f964a520c43425e3	{Big Lots}	{34.10690326236645,-118.05167008102323,Arcadia,CA,United States}	{Shop & Service,}
+586	Sun Mar 06 05:19:27 +0000 2011	4b0c8c8ef964a520223f23e3	{The Cheesecake Factory}	{34.13468376974948,-118.04925441741943,Arcadia,CA,United States}	{Food,}
+586	Sun Mar 06 04:23:39 +0000 2011	4b88aa5cf964a520920732e3	{Lollicup}	{34.135074510001054,-118.0497694015503,Arcadia,CA,United States}	{Food,}
+586	Sun Mar 06 02:49:25 +0000 2011	4bc250004cdfc9b6cff69521	{Victoria's Secret PINK}	{34.135329459964396,-118.05110981938418,Arcadia,CA,United States}	{Shop & Service,Clothing Store,}
+586	Sun Mar 06 01:27:10 +0000 2011	4b9a8dd9f964a5209fc035e3	{GameStop}	{34.13404437271383,-118.05131435394287,Arcadia,CA,United States}	{Shop & Service,}
+586	Sat Mar 05 05:32:51 +0000 2011	4b08a7fdf964a5205c1023e3	{Target}	{34.07459485770355,-118.07075500488281,Rosemead,CA,United States}	{Shop & Service,}
+586	Thu Mar 03 04:12:06 +0000 2011	4c570b71d12a20a163d065bd	{Fresh & Easy Neighborhood Market}	{34.08057098,-118.07230443,Rosemead,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Thu Mar 03 03:09:45 +0000 2011	4bbbf0d3e436ef3ba9155664	{Galleria Market}	{33.989324,-117.904818,Rowland Heights,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Thu Mar 03 03:09:17 +0000 2011	4aa444bdf964a520274620e3	{Pizza & Chicken Love Letter}	{33.98918815,-117.90457606315613,Rowland Heights,CA,United States}	{Food,}
+586	Thu Mar 03 03:08:40 +0000 2011	4af91b2af964a520021122e3	{Yoshinoya}	{33.98863430718715,-117.90501569504606,Rowland Heights,CA,United States}	{Food,}
+586	Tue Mar 01 09:22:22 +0000 2011	4aed210ef964a52030cd21e3	{CVS/pharmacy}	{34.12361335351347,-118.0561635437073,Arcadia,CA,United States}	{Shop & Service,}
+586	Tue Mar 01 09:20:44 +0000 2011	4b2e4ac4f964a52000de24e3	{LA Fitness}	{34.124310731722666,-118.05642127990723,Arcadia,CA,United States}	{Shop & Service,}
+586	Mon Feb 28 05:26:47 +0000 2011	4aed210ef964a52030cd21e3	{CVS/pharmacy}	{34.12361335351347,-118.0561635437073,Arcadia,CA,United States}	{Shop & Service,}
+586	Mon Feb 28 05:26:23 +0000 2011	4c53030cd797e21ef30f767e	{Ez Cleaners}	{34.12462,-118.05627,Arcadia,CA,United States}	{Shop & Service,}
+586	Mon Feb 28 05:12:31 +0000 2011	4af9b633f964a520951322e3	{Pavilions}	{34.12464823073176,-118.0576765537262,Arcadia,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Sun Feb 27 20:24:44 +0000 2011	4b2e4ac4f964a52000de24e3	{LA Fitness}	{34.124310731722666,-118.05642127990723,Arcadia,CA,United States}	{Shop & Service,}
+586	Sun Feb 27 20:24:44 +0000 2011	4b2e4ac4f964a52000de24e3	{LA Fitness}	{34.124310731722666,-118.05642127990723,Arcadia,CA,United States}	{Shop & Service,}
+586	Sun Feb 27 04:00:45 +0000 2011	4ad905f6f964a520391721e3	{Ralphs}	{34.10534687529722,-118.06413830053714,Temple City,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Sun Feb 27 03:28:10 +0000 2011	4ad8d161f964a520f71421e3	{El Pollo Loco}	{34.10746945753578,-118.05243615018207,Arcadia,CA,United States}	{Food,}
+586	Sun Feb 27 03:28:00 +0000 2011	4b3668a9f964a520c43425e3	{Big Lots}	{34.10690326236645,-118.05167008102323,Arcadia,CA,United States}	{Shop & Service,}
+586	Sun Feb 27 03:27:47 +0000 2011	4b4682b7f964a520022326e3	{CVS}	{34.10731342307462,-118.05281918351463,Temple City,CA,United States}	{Shop & Service,}
+586	Sun Feb 27 03:27:47 +0000 2011	4b4682b7f964a520022326e3	{CVS}	{34.10731342307462,-118.05281918351463,Temple City,CA,United States}	{Shop & Service,}
+586	Fri Feb 25 21:11:08 +0000 2011	4afb868af964a520781e22e3	{Citrus Fresh Grill}	{33.582324323064896,-117.73003251456558,Aliso Viejo,CA,United States}	{Nightlife Spot,Food,}
+586	Fri Feb 25 21:11:08 +0000 2011	4afb868af964a520781e22e3	{Citrus Fresh Grill}	{33.582324323064896,-117.73003251456558,Aliso Viejo,CA,United States}	{Nightlife Spot,Food,}
+586	Fri Feb 25 21:10:55 +0000 2011	4b7b0293f964a520ea4b2fe3	{Renaissance ClubSport Aliso Viejo Hotel}	{33.58238831007175,-117.73024441764719,Aliso Viejo,CA,United States}	{Travel & Transport,Shop & Service,Gym / Fitness Center,}
+586	Fri Feb 25 09:18:22 +0000 2011	4b7b0293f964a520ea4b2fe3	{Renaissance ClubSport Aliso Viejo Hotel}	{33.58238831007175,-117.73024441764719,Aliso Viejo,CA,United States}	{Travel & Transport,Shop & Service,Gym / Fitness Center,}
+586	Fri Feb 25 03:35:45 +0000 2011	4b49284ff964a5202b6826e3	{Elephant Bar Restaurant}	{33.61155238132057,-117.70729959011078,Laguna Hills,CA,United States}	{Nightlife Spot,Food,}
+586	Thu Feb 24 20:25:44 +0000 2011	4b58e259f964a520d27028e3	{Bruegger's}	{33.57120876,-117.72481444,Aliso Viejo,CA,United States}	{Food,}
+586	Thu Feb 24 06:11:39 +0000 2011	4b7b0293f964a520ea4b2fe3	{Renaissance ClubSport Aliso Viejo Hotel}	{33.58238831007175,-117.73024441764719,Aliso Viejo,CA,United States}	{Travel & Transport,Shop & Service,Gym / Fitness Center,}
+586	Thu Feb 24 06:11:17 +0000 2011	4b7b0293f964a520ea4b2fe3	{Renaissance ClubSport Aliso Viejo Hotel}	{33.58238831007175,-117.73024441764719,Aliso Viejo,CA,United States}	{Travel & Transport,Shop & Service,Gym / Fitness Center,}
+586	Wed Feb 23 04:00:06 +0000 2011	4bb6acca941ad13a5cdb1fe3	{Thai Bite}	{33.571156316666666,-117.725017,Aliso Viejo,CA,United States}	{Food,}
+586	Wed Feb 23 00:43:35 +0000 2011	4b8d6c1df964a520c3fa32e3	{Chet Holifield Federal Building}	{33.56063645006255,-117.71352767944336,Laguna Niguel,CA,United States}	{Professional & Other Places,}
+586	Tue Feb 22 23:25:30 +0000 2011	4a9efff3f964a520253c20e3	{Rubio's}	{33.61043772311452,-117.70709037780762,Laguna Hills,CA,United States}	{Food,}
+586	Mon Feb 21 23:44:42 +0000 2011	4b413ed7f964a520fcc325e3	{JJ Bakery}	{33.98599683370243,-117.88866821801727,Rowland Heights,CA,United States}	{Food,}
+586	Mon Feb 21 23:44:42 +0000 2011	4b413ed7f964a520fcc325e3	{JJ Bakery}	{33.98599683370243,-117.88866821801727,Rowland Heights,CA,United States}	{Food,}
+586	Mon Feb 21 08:08:59 +0000 2011	4c4ba71dc668e21e283156fa	{Walnut Home}	{33.97279893177335,-117.86044718252812,Walnut,CA,United States}	{Residence,}
+586	Sun Feb 20 03:21:06 +0000 2011	4af9eb3af964a520421522e3	{Trader Joe's}	{34.129416516666666,-118.072663,San Gabriel,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Sun Feb 20 01:33:02 +0000 2011	4b8ef850f964a520eb4133e3	{H&M}	{34.1356783777456,-118.05118560791016,Arcadia,CA,United States}	{Shop & Service,Clothing Store,}
+586	Fri Feb 18 01:15:11 +0000 2011	4aeb28c7f964a52023bf21e3	{Live Oak Park}	{34.10213942555089,-118.04723739624023,Temple City,CA,United States}	{Outdoors & Recreation,}
+586	Thu Feb 17 20:22:01 +0000 2011	4c5b82b96ebe2d7fe2cfcd2e	{Cha Cafe}	{34.091309291849925,-118.04219112946157,El Monte,CA,United States}	{Food,}
+586	Tue Feb 15 20:41:06 +0000 2011	4ad8d161f964a520f71421e3	{El Pollo Loco}	{34.10746945753578,-118.05243615018207,Arcadia,CA,United States}	{Food,}
+586	Tue Feb 15 20:40:46 +0000 2011	4b3668a9f964a520c43425e3	{Big Lots}	{34.10690326236645,-118.05167008102323,Arcadia,CA,United States}	{Shop & Service,}
+586	Tue Feb 15 20:37:54 +0000 2011	4af9b633f964a520951322e3	{Pavilions}	{34.12464823073176,-118.0576765537262,Arcadia,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Tue Feb 15 20:37:34 +0000 2011	4b2e4ac4f964a52000de24e3	{LA Fitness}	{34.124310731722666,-118.05642127990723,Arcadia,CA,United States}	{Shop & Service,}
+586	Tue Feb 15 20:17:25 +0000 2011	4b2e4ac4f964a52000de24e3	{LA Fitness}	{34.124310731722666,-118.05642127990723,Arcadia,CA,United States}	{Shop & Service,}
+586	Tue Feb 15 20:17:00 +0000 2011	4c53030cd797e21ef30f767e	{Ez Cleaners}	{34.12462,-118.05627,Arcadia,CA,United States}	{Shop & Service,}
+586	Tue Feb 15 20:16:46 +0000 2011	4aed210ef964a52030cd21e3	{CVS/pharmacy}	{34.12361335351347,-118.0561635437073,Arcadia,CA,United States}	{Shop & Service,}
+586	Tue Feb 15 00:21:57 +0000 2011	4b819b46f964a52046b230e3	{Bank of America}	{33.98981328885638,-117.8894292639064,Rowland Heights,CA,United States}	{Shop & Service,}
+586	Tue Feb 15 00:16:54 +0000 2011	4bcb7cedb6c49c74ac579291	{Albertsons}	{33.98720871510728,-117.8717641644643,Rowland Heights,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Mon Feb 14 22:28:48 +0000 2011	4bb3ce1042959c74b17a222c	{McDonald's}	{33.98697734372559,-117.87051088992315,Rowland Heights,CA,United States}	{Food,}
+586	Sun Feb 13 01:38:00 +0000 2011	4b3668a9f964a520c43425e3	{Big Lots}	{34.10690326236645,-118.05167008102323,Arcadia,CA,United States}	{Shop & Service,}
+586	Sun Feb 13 01:38:00 +0000 2011	4b3668a9f964a520c43425e3	{Big Lots}	{34.10690326236645,-118.05167008102323,Arcadia,CA,United States}	{Shop & Service,}
+586	Sat Feb 12 22:56:28 +0000 2011	4d25221738d0236a1b85e9b6	{Potato Corner}	{34.143528265763685,-118.25679302215576,Glendale,CA,United States}	{Food,}
+586	Sat Feb 12 22:49:09 +0000 2011	4b232bd9f964a5201d5424e3	{Barnes & Noble}	{34.14363482031264,-118.25679302215576,Glendale,CA,United States}	{Shop & Service,Food,}
+586	Sat Feb 12 21:16:43 +0000 2011	4b54c69af964a520efcb27e3	{Salo Salo Grill}	{34.1475170305522,-118.25377295862425,Glendale,CA,United States}	{Food,}
+586	Thu Feb 10 04:15:16 +0000 2011	4b08a7fdf964a5205c1023e3	{Target}	{34.07459485770355,-118.07075500488281,Rosemead,CA,United States}	{Shop & Service,}
+586	Tue Feb 08 20:14:20 +0000 2011	4c5b82b96ebe2d7fe2cfcd2e	{Cha Cafe}	{34.091309291849925,-118.04219112946157,El Monte,CA,United States}	{Food,}
+586	Tue Feb 08 19:20:21 +0000 2011	4af9eb3af964a520421522e3	{Trader Joe's}	{34.129416516666666,-118.072663,San Gabriel,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Tue Feb 08 07:36:01 +0000 2011	4c53030cd797e21ef30f767e	{Ez Cleaners}	{34.12462,-118.05627,Arcadia,CA,United States}	{Shop & Service,}
+586	Tue Feb 08 07:32:23 +0000 2011	4b3668a9f964a520c43425e3	{Big Lots}	{34.10690326236645,-118.05167008102323,Arcadia,CA,United States}	{Shop & Service,}
+586	Sat Feb 05 23:41:54 +0000 2011	441bd921f964a52048311fe3	{Glendale Galleria}	{34.14442710507933,-118.25871774126523,Glendale,CA,United States}	{Shop & Service,Clothing Store,}
+586	Sat Feb 05 08:53:04 +0000 2011	4b3668a9f964a520c43425e3	{Big Lots}	{34.10690326236645,-118.05167008102323,Arcadia,CA,United States}	{Shop & Service,}
+586	Sat Feb 05 03:12:45 +0000 2011	4c5b82b96ebe2d7fe2cfcd2e	{Cha Cafe}	{34.091309291849925,-118.04219112946157,El Monte,CA,United States}	{Food,}
+586	Fri Feb 04 07:10:59 +0000 2011	4ad8d161f964a520f71421e3	{El Pollo Loco}	{34.10746945753578,-118.05243615018207,Arcadia,CA,United States}	{Food,}
+586	Fri Feb 04 06:22:34 +0000 2011	4b8aeda4f964a520b18932e3	{Burlington Coat Factory}	{34.1254859,-118.05595,Arcadia,CA,United States}	{Shop & Service,}
+586	Fri Feb 04 06:11:05 +0000 2011	4b8aeda4f964a520b18932e3	{Burlington Coat Factory}	{34.1254859,-118.05595,Arcadia,CA,United States}	{Shop & Service,}
+586	Fri Feb 04 06:10:25 +0000 2011	4b84a946f964a520194031e3	{Jo-Ann Fabrics & Crafts}	{34.12535875055773,-118.05617451667786,Arcadia,CA,United States}	{Shop & Service,}
+586	Fri Feb 04 01:55:53 +0000 2011	4af39bb4f964a520e4ee21e3	{Kabuki Japanese Restaurant}	{34.14579056924543,-118.1525909149442,Pasadena,CA,United States}	{Food,}
+586	Fri Feb 04 00:12:30 +0000 2011	4b9e8d9ef964a52079ee36e3	{Starbucks}	{34.148311988611965,-118.24655771255493,Glendale,CA,United States}	{Food,}
+586	Thu Feb 03 23:52:15 +0000 2011	4ab52e85f964a5200d7320e3	{Nordstrom Rack}	{34.14946847676873,-118.24760377407074,Glendale,CA,United States}	{Shop & Service,}
+586	Thu Feb 03 21:37:02 +0000 2011	4d1e3cd50901721e574080a5	{Kyoto Seafood Buffet}	{34.16785817442478,-118.28475995954736,Glendale,CA,United States}	{Food,}
+586	Wed Feb 02 18:13:43 +0000 2011	4ba30f9bf964a5201f2a38e3	{Rite Aid}	{33.98858955,-117.890114,Rowland Heights,CA,United States}	{Shop & Service,}
+586	Tue Feb 01 20:47:32 +0000 2011	4beb02776295c9b66a298708	{Dr. Butler}	{34.144172100000006,-118.129953,Pasadena,CA,United States}	{Medical Center,Professional & Other Places,}
+586	Tue Feb 01 18:21:50 +0000 2011	4d23ad8775526dcba01403a9	{Live Oak Park - Community Center}	{34.102733304826835,-118.04781110001046,Temple City,CA,United States}	{Outdoors & Recreation,}
+586	Mon Jan 31 02:43:22 +0000 2011	4a369a9bf964a520bd9d1fe3	{Apple Store}	{34.14533,-118.25845,Glendale,CA,United States}	{Shop & Service,}
+586	Mon Jan 31 01:07:21 +0000 2011	4d25221738d0236a1b85e9b6	{Potato Corner}	{34.143528265763685,-118.25679302215576,Glendale,CA,United States}	{Food,}
+586	Mon Jan 31 00:03:20 +0000 2011	49c31443f964a52054561fe3	{The Americana at Brand}	{34.14381241092894,-118.25670719146729,Glendale,CA,United States}	{Shop & Service,Arts & Entertainment,}
+586	Sun Jan 30 23:19:24 +0000 2011	4b8deebaf964a520ba1333e3	{Chevron}	{34.1030544621974,-118.07386100292206,Temple City,CA,United States}	{Shop & Service,}
+586	Sun Jan 30 02:33:16 +0000 2011	4b993749f964a520826a35e3	{99 Cent Store}	{34.10684485169222,-118.06161157075381,Temple City,CA,United States}	{Shop & Service,}
+586	Sun Jan 30 00:58:44 +0000 2011	4c53030cd797e21ef30f767e	{Ez Cleaners}	{34.12462,-118.05627,Arcadia,CA,United States}	{Shop & Service,}
+586	Sat Jan 29 01:59:35 +0000 2011	4b8aeda4f964a520b18932e3	{Burlington Coat Factory}	{34.1254859,-118.05595,Arcadia,CA,United States}	{Shop & Service,}
+586	Sat Jan 29 01:41:41 +0000 2011	4b561ba4f964a520c00028e3	{Starbucks}	{34.12448836294803,-118.05663585662842,Arcadia,CA,United States}	{Food,}
+586	Sat Jan 29 01:41:21 +0000 2011	4b2e4ac4f964a52000de24e3	{LA Fitness}	{34.124310731722666,-118.05642127990723,Arcadia,CA,United States}	{Shop & Service,}
+586	Sat Jan 29 01:41:08 +0000 2011	4c53030cd797e21ef30f767e	{Ez Cleaners}	{34.12462,-118.05627,Arcadia,CA,United States}	{Shop & Service,}
+586	Fri Jan 28 03:32:52 +0000 2011	4c5b82b96ebe2d7fe2cfcd2e	{Cha Cafe}	{34.091309291849925,-118.04219112946157,El Monte,CA,United States}	{Food,}
+586	Fri Jan 28 00:50:04 +0000 2011	4c1007023ce120a1216a071c	{Big Lots}	{33.98657467,-117.888602,Rowland Heights,CA,United States}	{Shop & Service,}
+586	Fri Jan 28 00:49:44 +0000 2011	4ce6ebc7b99754813c1af344	{Manning Pharmacy}	{33.98693515,-117.88822921,Rowland Heights,CA,United States}	{Shop & Service,}
+586	Wed Jan 26 23:45:40 +0000 2011	4c5b82b96ebe2d7fe2cfcd2e	{Cha Cafe}	{34.091309291849925,-118.04219112946157,El Monte,CA,United States}	{Food,}
+586	Wed Jan 26 06:43:44 +0000 2011	4d23ad8775526dcba01403a9	{Live Oak Park - Community Center}	{34.102733304826835,-118.04781110001046,Temple City,CA,United States}	{Outdoors & Recreation,}
+586	Wed Jan 26 06:43:44 +0000 2011	4d23ad8775526dcba01403a9	{Live Oak Park - Community Center}	{34.102733304826835,-118.04781110001046,Temple City,CA,United States}	{Outdoors & Recreation,}
+586	Tue Jan 25 04:38:33 +0000 2011	4ad8d161f964a520f71421e3	{El Pollo Loco}	{34.10746945753578,-118.05243615018207,Arcadia,CA,United States}	{Food,}
+586	Tue Jan 25 02:41:34 +0000 2011	4b9435d5f964a520cd6e34e3	{Potato Corner}	{34.134790335451804,-118.05127143859863,Arcadia,CA,United States}	{Food,}
+586	Sun Jan 23 01:15:34 +0000 2011	4ba54857f964a520d3f538e3	{Bloomingdale's}	{34.07410608285566,-118.37703108787537,Los Angeles,CA,United States}	{Shop & Service,}
+586	Sat Jan 22 19:26:42 +0000 2011	3fd66200f964a52082f01ee3	{Ocean Star}	{34.06414911977849,-118.13458626189555,Monterey Park,CA,United States}	{Food,}
+586	Sun Jan 16 00:45:34 +0000 2011	4ad905f6f964a520391721e3	{Ralphs}	{34.10534687529722,-118.06413830053714,Temple City,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Sat Jan 15 03:05:28 +0000 2011	4b314c72f964a5202f0425e3	{Toys "R" Us}	{34.03401028,-118.0941704,Montebello,CA,United States}	{Shop & Service,}
+586	Wed Jan 12 02:49:24 +0000 2011	4c53030cd797e21ef30f767e	{Ez Cleaners}	{34.12462,-118.05627,Arcadia,CA,United States}	{Shop & Service,}
+586	Tue Jan 11 18:58:25 +0000 2011	4b4682b7f964a520022326e3	{CVS}	{34.10731342307462,-118.05281918351463,Temple City,CA,United States}	{Shop & Service,}
+586	Sun Jan 09 22:44:50 +0000 2011	4adbc0e8f964a520702a21e3	{Jollibee}	{33.83174540746464,-118.27940940856934,Carson,CA,United States}	{Food,}
+586	Sun Jan 09 04:31:03 +0000 2011	46cf28b9f964a520454a1fe3	{Hollywood & Highland Center}	{34.10232154528382,-118.33939969539642,Los Angeles,CA,United States}	{Shop & Service,Arts & Entertainment,}
+586	Sun Jan 09 02:36:37 +0000 2011	4a01c2d3f964a520f7701fe3	{Sprinkles Cupcakes}	{34.069562,-118.40602576732635,Beverly Hills,CA,United States}	{Food,}
+586	Sat Jan 08 05:54:12 +0000 2011	4a8082e3f964a52081f51fe3	{Cloverleaf Coffee & Bakery}	{34.10655839,-118.06412994,Temple City,CA,United States}	{Food,}
+586	Fri Jan 07 19:31:53 +0000 2011	4ad8d161f964a520f71421e3	{El Pollo Loco}	{34.10746945753578,-118.05243615018207,Arcadia,CA,United States}	{Food,}
+586	Fri Jan 07 19:31:39 +0000 2011	4b4682b7f964a520022326e3	{CVS}	{34.10731342307462,-118.05281918351463,Temple City,CA,United States}	{Shop & Service,}
+586	Fri Jan 07 01:26:08 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+586	Thu Jan 06 17:41:37 +0000 2011	4aeb28c7f964a52023bf21e3	{Live Oak Park}	{34.10213942555089,-118.04723739624023,Temple City,CA,United States}	{Outdoors & Recreation,}
+586	Thu Jan 06 00:55:27 +0000 2011	4bb6d7b52f70c9b6c7158630	{Domino's Pizza}	{34.10681204366493,-118.06502436235469,Temple City,CA,United States}	{Food,}
+586	Wed Jan 05 01:47:29 +0000 2011	4b60d8c0f964a5205afd29e3	{CVS}	{34.100842076786144,-118.07465070788491,Temple City,CA,United States}	{Shop & Service,}
+586	Sun Jan 02 03:50:33 +0000 2011	49d7ec9ef964a5207b5d1fe3	{Target}	{34.004964934543764,-117.82137393951416,Diamond Bar,CA,United States}	{Shop & Service,}
+586	Sun Jan 02 01:21:24 +0000 2011	4b3d6ae9f964a520e09325e3	{Ocean Blue Sushi}	{34.05866294348119,-117.18278131941564,Redlands,CA,United States}	{Food,}
+586	Tue Dec 28 03:21:32 +0000 2010	4bc65c4004e8b71393f3352d	{Bank of America}	{34.02417399221529,-117.95634269714355,City of Industry,CA,United States}	{Shop & Service,}
+586	Sat Dec 25 02:43:38 +0000 2010	49c31443f964a52054561fe3	{The Americana at Brand}	{34.14381241092894,-118.25670719146729,Glendale,CA,United States}	{Shop & Service,Arts & Entertainment,}
+586	Fri Dec 24 01:51:45 +0000 2010	4c607036cd522d7f0b23ce3f	{Goldilocks Bakeshop & Restaurant}	{33.85997455561207,-118.0905818939209,Cerritos,CA,United States}	{Food,}
+586	Thu Dec 23 11:03:48 +0000 2010	51939ec8498efbd0bbe49af4	{Mobil}	{34.0989302175119,-118.05059529182283,Temple City,CA,United States}	{Shop & Service,}
+586	Wed Dec 22 04:59:08 +0000 2010	4ad905f6f964a520391721e3	{Ralphs}	{34.10534687529722,-118.06413830053714,Temple City,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Wed Dec 22 04:55:30 +0000 2010	4b32e15bf964a5207d1525e3	{Pho Hanh}	{34.103926,-118.07541853333333,Temple City,CA,United States}	{Food,}
+586	Wed Dec 22 04:15:27 +0000 2010	4a7710c3f964a5207ae31fe3	{Costco}	{34.08940611377252,-118.1485227462375,Alhambra,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Tue Dec 21 22:23:44 +0000 2010	4aeb28c7f964a52023bf21e3	{Live Oak Park}	{34.10213942555089,-118.04723739624023,Temple City,CA,United States}	{Outdoors & Recreation,}
+586	Mon Dec 20 04:24:23 +0000 2010	4aca4c59f964a5204bc120e3	{Target}	{33.991927482316555,-117.9189645248805,Rowland Heights,CA,United States}	{Shop & Service,Office,Professional & Other Places,}
+586	Fri Dec 17 06:28:43 +0000 2010	4b2e4ac4f964a52000de24e3	{LA Fitness}	{34.124310731722666,-118.05642127990723,Arcadia,CA,United States}	{Shop & Service,}
+586	Thu Dec 16 04:48:21 +0000 2010	4ad8d161f964a520f71421e3	{El Pollo Loco}	{34.10746945753578,-118.05243615018207,Arcadia,CA,United States}	{Food,}
+586	Thu Dec 16 01:31:27 +0000 2010	4b9435d5f964a520cd6e34e3	{Potato Corner}	{34.134790335451804,-118.05127143859863,Arcadia,CA,United States}	{Food,}
+586	Thu Dec 16 01:23:38 +0000 2010	4b5cf7eff964a5200f4d29e3	{Macy's}	{34.13333555,-118.0518873,Arcadia,CA,United States}	{Shop & Service,}
+586	Tue Dec 14 06:11:43 +0000 2010	4c53030cd797e21ef30f767e	{Ez Cleaners}	{34.12462,-118.05627,Arcadia,CA,United States}	{Shop & Service,}
+586	Mon Dec 13 23:38:59 +0000 2010	4a635451f964a520c4c41fe3	{Trader Joe's}	{34.139859783360926,-118.13326055216365,Pasadena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Sat Dec 11 02:42:34 +0000 2010	4b84a946f964a520194031e3	{Jo-Ann Fabrics & Crafts}	{34.12535875055773,-118.05617451667786,Arcadia,CA,United States}	{Shop & Service,}
+586	Fri Dec 10 10:25:23 +0000 2010	4b3668a9f964a520c43425e3	{Big Lots}	{34.10690326236645,-118.05167008102323,Arcadia,CA,United States}	{Shop & Service,}
+586	Fri Dec 10 03:27:09 +0000 2010	4bc250004cdfc9b6cff69521	{Victoria's Secret PINK}	{34.135329459964396,-118.05110981938418,Arcadia,CA,United States}	{Shop & Service,Clothing Store,}
+586	Fri Dec 10 02:51:32 +0000 2010	4af5fe29f964a520e6ff21e3	{Westfield Santa Anita}	{34.1346047997385,-118.0515657785736,Arcadia,CA,United States}	{Shop & Service,}
+586	Thu Dec 09 05:52:03 +0000 2010	4b2e4ac4f964a52000de24e3	{LA Fitness}	{34.124310731722666,-118.05642127990723,Arcadia,CA,United States}	{Shop & Service,}
+586	Tue Dec 07 05:40:21 +0000 2010	4af5fe29f964a520e6ff21e3	{Westfield Santa Anita}	{34.1346047997385,-118.0515657785736,Arcadia,CA,United States}	{Shop & Service,}
+586	Tue Dec 07 02:44:44 +0000 2010	4a8082e3f964a52081f51fe3	{Cloverleaf Coffee & Bakery}	{34.10655839,-118.06412994,Temple City,CA,United States}	{Food,}
+586	Tue Dec 07 02:04:27 +0000 2010	4b08a7fdf964a5205c1023e3	{Target}	{34.07459485770355,-118.07075500488281,Rosemead,CA,United States}	{Shop & Service,}
+586	Sun Dec 05 22:17:03 +0000 2010	4b97ce18f964a520b31635e3	{Corner Bakery Cafe}	{34.15013439366772,-118.06963920593262,Pasadena,CA,United States}	{Food,}
+586	Sun Dec 05 20:35:36 +0000 2010	4b0190b6f964a520774322e3	{Sears}	{34.15079697943704,-118.0707179177374,Pasadena,CA,United States}	{Shop & Service,}
+586	Sun Dec 05 03:46:06 +0000 2010	41687b80f964a520861d1fe3	{The Grove}	{34.07219539048036,-118.35753679275513,Los Angeles,CA,United States}	{Outdoors & Recreation,Shop & Service,}
+586	Sat Dec 04 22:10:36 +0000 2010	4ce588797f69b60ce516b512	{Kang Kang Food Court}	{34.106658,-118.06014,Temple City,CA,United States}	{Food,}
+586	Sat Dec 04 21:04:45 +0000 2010	4c6ff88bd7fab1f729e05cc9	{Arcadia Community Center}	{34.131460320947845,-118.04395203468056,Upper San Gabriel Valley,CA,United States}	{Professional & Other Places,}
+586	Sat Dec 04 04:38:18 +0000 2010	4b0190b6f964a520774322e3	{Sears}	{34.15079697943704,-118.0707179177374,Pasadena,CA,United States}	{Shop & Service,}
+586	Fri Dec 03 05:21:20 +0000 2010	51939ec8498efbd0bbe49af4	{Mobil}	{34.0989302175119,-118.05059529182283,Temple City,CA,United States}	{Shop & Service,}
+586	Fri Dec 03 03:30:38 +0000 2010	4c570b71d12a20a163d065bd	{Fresh & Easy Neighborhood Market}	{34.08057098,-118.07230443,Rosemead,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Fri Dec 03 01:02:50 +0000 2010	4b413ed7f964a520fcc325e3	{JJ Bakery}	{33.98599683370243,-117.88866821801727,Rowland Heights,CA,United States}	{Food,}
+586	Thu Dec 02 01:54:13 +0000 2010	4a9c4963f964a520b03620e3	{J J Bakery}	{34.126912991859406,-118.05438548326492,Arcadia,CA,United States}	{Food,}
+586	Thu Dec 02 01:18:37 +0000 2010	4b2e4ac4f964a52000de24e3	{LA Fitness}	{34.124310731722666,-118.05642127990723,Arcadia,CA,United States}	{Shop & Service,}
+586	Tue Nov 30 05:27:16 +0000 2010	4aed210ef964a52030cd21e3	{CVS/pharmacy}	{34.12361335351347,-118.0561635437073,Arcadia,CA,United States}	{Shop & Service,}
+586	Sun Nov 28 04:56:27 +0000 2010	4bcfb8259854d13a96b3f64d	{Kragen Auto Parts}	{33.986768983333334,-117.87257228333333,Rowland Heights,CA,United States}	{Shop & Service,}
+586	Sun Nov 28 03:20:44 +0000 2010	4b8deebaf964a520ba1333e3	{Chevron}	{34.1030544621974,-118.07386100292206,Temple City,CA,United States}	{Shop & Service,}
+586	Sat Nov 27 20:51:20 +0000 2010	4a91f45cf964a5206b1c20e3	{Ajisen Ramen}	{34.105569,-118.067829,Temple City,CA,United States}	{Food,}
+586	Sat Nov 27 03:16:58 +0000 2010	4bdf94f4ffdec9285ea5eca1	{Sears}	{33.84663,-117.991809,Buena Park,CA,United States}	{Shop & Service,}
+586	Thu Nov 25 20:10:12 +0000 2010	4ad905f6f964a520391721e3	{Ralphs}	{34.10534687529722,-118.06413830053714,Temple City,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Thu Nov 25 04:30:05 +0000 2010	4af9b633f964a520951322e3	{Pavilions}	{34.12464823073176,-118.0576765537262,Arcadia,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Thu Nov 25 03:57:46 +0000 2010	4b5cf7eff964a5200f4d29e3	{Macy's}	{34.13333555,-118.0518873,Arcadia,CA,United States}	{Shop & Service,}
+586	Thu Nov 25 02:43:23 +0000 2010	4af5fe29f964a520e6ff21e3	{Westfield Santa Anita}	{34.1346047997385,-118.0515657785736,Arcadia,CA,United States}	{Shop & Service,}
+586	Wed Nov 24 05:08:59 +0000 2010	4cd3528becc3a09323ec9993	{Vietnam Kitchen}	{34.12300775,-118.055597,Arcadia,CA,United States}	{Food,}
+586	Wed Nov 24 04:01:04 +0000 2010	4b0190b6f964a520774322e3	{Sears}	{34.15079697943704,-118.0707179177374,Pasadena,CA,United States}	{Shop & Service,}
+586	Wed Nov 24 00:53:38 +0000 2010	4bcc4aa63740b71354b66365	{Gate D28}	{32.89903342987995,-97.04549891363587,DFW Airport,TX,United States}	{Travel & Transport,Airport,}
+586	Tue Nov 23 03:42:31 +0000 2010	4b77209df964a52008802ee3	{Macy's}	{33.99269021,-117.9284692,Puente Hills,CA,United States}	{Shop & Service,}
+586	Tue Nov 23 02:42:40 +0000 2010	4a8db18cf964a5208c1020e3	{Puente Hills Mall}	{33.99379322501359,-117.92793273925781,City of Industry,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Mon Nov 22 22:49:28 +0000 2010	51939ec8498efbd0bbe49af4	{Mobil}	{34.0989302175119,-118.05059529182283,Temple City,CA,United States}	{Shop & Service,}
+586	Mon Nov 22 04:41:37 +0000 2010	4aed210ef964a52030cd21e3	{CVS/pharmacy}	{34.12361335351347,-118.0561635437073,Arcadia,CA,United States}	{Shop & Service,}
+586	Mon Nov 22 04:32:56 +0000 2010	4abeb9b0f964a520958f20e3	{President Square}	{34.12475410584266,-118.059307756144,Arcadia,CA,United States}	{Shop & Service,}
+586	Mon Nov 22 03:54:27 +0000 2010	4af9b633f964a520951322e3	{Pavilions}	{34.12464823073176,-118.0576765537262,Arcadia,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Sun Nov 21 03:39:23 +0000 2010	4b54e149f964a52016d127e3	{SONIC Drive In}	{34.13916829356225,-117.98234939575195,Duarte,CA,United States}	{Food,}
+586	Thu Nov 18 23:49:36 +0000 2010	4b48c14bf964a520875526e3	{Little Kuts}	{34.13964391517003,-118.1314833995944,Pasadena,CA,United States}	{Shop & Service,}
+586	Thu Nov 18 05:53:35 +0000 2010	4af9b633f964a520951322e3	{Pavilions}	{34.12464823073176,-118.0576765537262,Arcadia,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Thu Nov 18 05:52:37 +0000 2010	4aed210ef964a52030cd21e3	{CVS/pharmacy}	{34.12361335351347,-118.0561635437073,Arcadia,CA,United States}	{Shop & Service,}
+586	Tue Nov 16 21:16:00 +0000 2010	4b932f8bf964a520013a34e3	{Han Yang Garden Korean BBQ}	{34.12300944328308,-118.05546641349792,Arcadia,CA,United States}	{Food,}
+586	Sun Nov 14 22:21:50 +0000 2010	4b6b2a9bf964a52003f72be3	{In-N-Out Burger}	{34.083899,-118.07310137,Rosemead,CA,United States}	{Food,}
+586	Sun Nov 14 07:23:28 +0000 2010	4bc7a43e6501c9b66ede3e29	{Mobil}	{33.84739416395074,-117.94147032640774,ANAHEIM,CA,United States}	{Shop & Service,}
+586	Sat Nov 13 04:37:53 +0000 2010	4b2e4ac4f964a52000de24e3	{LA Fitness}	{34.124310731722666,-118.05642127990723,Arcadia,CA,United States}	{Shop & Service,}
+586	Sat Nov 13 00:55:55 +0000 2010	4aeb28c7f964a52023bf21e3	{Live Oak Park}	{34.10213942555089,-118.04723739624023,Temple City,CA,United States}	{Outdoors & Recreation,}
+586	Fri Nov 12 23:42:10 +0000 2010	4bb4e7aec29a9521faeca735	{Temple City Car Wash}	{34.09941996151693,-118.0730330156041,Temple City,CA,United States}	{Shop & Service,Professional & Other Places,}
+586	Fri Nov 12 03:46:38 +0000 2010	4bee21244daaa593a8d68f61	{Sampan}	{34.079857,-118.102587,San Gabriel,CA,United States}	{}
+586	Fri Nov 12 03:09:57 +0000 2010	4b1aa47cf964a52031ee23e3	{Magnolia Hotel}	{32.78019284902363,-96.79916395395341,Dallas,TX,United States}	{Travel & Transport,}
+586	Fri Nov 12 03:09:21 +0000 2010	4bad3648f964a520ba393be3	{Bank of America}	{34.102627114850485,-118.09926294451255,San Gabriel,CA,United States}	{Shop & Service,}
+586	Thu Nov 11 05:32:26 +0000 2010	4b08a7fdf964a5205c1023e3	{Target}	{34.07459485770355,-118.07075500488281,Rosemead,CA,United States}	{Shop & Service,}
+586	Wed Nov 10 21:21:49 +0000 2010	4b612731f964a5204c0b2ae3	{Pinkberry}	{33.986422,-117.870074,Rowland Heights,CA,United States}	{Food,}
+586	Wed Nov 10 19:14:19 +0000 2010	4a91a5a3f964a520221b20e3	{IKEA}	{34.07409719601414,-117.87922382354736,Covina,CA,United States}	{Shop & Service,Professional & Other Places,}
+586	Tue Nov 09 01:48:02 +0000 2010	4a9c4963f964a520b03620e3	{J J Bakery}	{34.126912991859406,-118.05438548326492,Arcadia,CA,United States}	{Food,}
+586	Mon Nov 08 22:23:41 +0000 2010	4cacc03f14c33704c413f33b	{Dr Edwin Chan}	{34.125117604249276,-118.05234467941256,Arcadia,CA,United States}	{Medical Center,Professional & Other Places,}
+586	Sun Nov 07 22:16:34 +0000 2010	4b1aa47cf964a52031ee23e3	{Magnolia Hotel}	{32.78019284902363,-96.79916395395341,Dallas,TX,United States}	{Travel & Transport,}
+586	Sun Nov 07 22:16:24 +0000 2010	4bcc4aa63740b71354b66365	{Gate D28}	{32.89903342987995,-97.04549891363587,DFW Airport,TX,United States}	{Travel & Transport,Airport,}
+586	Sun Nov 07 05:45:42 +0000 2010	4b1aa47cf964a52031ee23e3	{Magnolia Hotel}	{32.78019284902363,-96.79916395395341,Dallas,TX,United States}	{Travel & Transport,}
+586	Sun Nov 07 01:59:40 +0000 2010	4c5dab517f661b8d9e004c1c	{Mami King}	{34.029822386035825,-117.91442755461914,West Covina,CA,United States}	{Food,}
+586	Sat Nov 06 18:34:30 +0000 2010	4bcc4aa63740b71354b66365	{Gate D28}	{32.89903342987995,-97.04549891363587,DFW Airport,TX,United States}	{Travel & Transport,Airport,}
+586	Sat Nov 06 03:15:56 +0000 2010	4b1aa47cf964a52031ee23e3	{Magnolia Hotel}	{32.78019284902363,-96.79916395395341,Dallas,TX,United States}	{Travel & Transport,}
+586	Fri Nov 05 15:51:51 +0000 2010	4bcc4aa63740b71354b66365	{Gate D28}	{32.89903342987995,-97.04549891363587,DFW Airport,TX,United States}	{Travel & Transport,Airport,}
+586	Fri Nov 05 04:46:33 +0000 2010	4c8c7d348018a1cdce70edd2	{Camden Farmer's Market small gym}	{32.77933305470309,-96.7862386676682,Dallas,TX,United States}	{Shop & Service,Gym / Fitness Center,}
+586	Fri Nov 05 00:29:48 +0000 2010	4ab963a5f964a520297f20e3	{Campisi's}	{32.78130335671807,-96.79870784282684,Dallas,TX,United States}	{Food,}
+586	Thu Nov 04 05:12:20 +0000 2010	4b7f37d5f964a520f11f30e3	{The French Room}	{32.779995418491026,-96.79973244667053,Dallas,TX,United States}	{Food,}
+586	Thu Nov 04 05:11:14 +0000 2010	4b1aa47cf964a52031ee23e3	{Magnolia Hotel}	{32.78019284902363,-96.79916395395341,Dallas,TX,United States}	{Travel & Transport,}
+586	Wed Nov 03 16:08:31 +0000 2010	4b7f37d5f964a520f11f30e3	{The French Room}	{32.779995418491026,-96.79973244667053,Dallas,TX,United States}	{Food,}
+586	Wed Nov 03 16:07:58 +0000 2010	4ab8e946f964a520527d20e3	{Sheraton Dallas Hotel}	{32.784929402149764,-96.79482936859131,Dallas,TX,United States}	{Nightlife Spot,Travel & Transport,Professional & Other Places,}
+586	Tue Nov 02 21:26:23 +0000 2010	4aaa9466f964a520745620e3	{CVS/pharmacy}	{32.78078694892208,-96.79991483688354,Dallas,TX,United States}	{Shop & Service,}
+586	Tue Nov 02 03:52:58 +0000 2010	4aaa9466f964a520745620e3	{CVS/pharmacy}	{32.78078694892208,-96.79991483688354,Dallas,TX,United States}	{Shop & Service,}
+586	Tue Nov 02 01:02:38 +0000 2010	4a4aa866f964a5200dac1fe3	{Charlie Palmer at The Joule}	{32.780994,-96.798476,Dallas,TX,United States}	{Nightlife Spot,Food,}
+586	Sun Oct 31 04:46:49 +0000 2010	4ad4bffff964a5204beb20e3	{Lone Star Cafe}	{29.42427075227299,-98.48815612197718,San Antonio,TX,United States}	{Food,}
+586	Sun Oct 31 00:02:31 +0000 2010	4c4a3475712ac9286fcd186b	{Target}	{29.483598281844646,-98.34899960223343,San Antonio,TX,United States}	{Shop & Service,}
+586	Sun Oct 31 00:02:24 +0000 2010	4c4a3475712ac9286fcd186b	{Target}	{29.483598281844646,-98.34899960223343,San Antonio,TX,United States}	{Shop & Service,}
+586	Sat Oct 30 19:41:53 +0000 2010	4bf02ded3a002d7f20c685a4	{Gucci}	{29.831270765701934,-97.97825555413952,San Marcos,TX,United States}	{Shop & Service,}
+586	Sat Oct 30 17:30:47 +0000 2010	4b687db6f964a520d37b2be3	{Wendy's}	{31.138576674697134,-97.33137845993042,Temple,TX,United States}	{Food,}
+586	Sat Oct 30 13:02:45 +0000 2010	4b1aa47cf964a52031ee23e3	{Magnolia Hotel}	{32.78019284902363,-96.79916395395341,Dallas,TX,United States}	{Travel & Transport,}
+586	Fri Oct 29 18:32:50 +0000 2010	4b880b93f964a5206ddb31e3	{Three Brothers Pizza}	{32.78011268270294,-96.80349826812744,Dallas,TX,United States}	{Food,}
+586	Fri Oct 29 08:30:26 +0000 2010	4b15f41cf964a52002b623e3	{Ravenna Urban Italian Restaurant}	{32.780351912623175,-96.8011518830632,Dallas,TX,United States}	{Nightlife Spot,Food,}
+586	Fri Oct 29 08:28:15 +0000 2010	4ae282e2f964a520c18e21e3	{Plush}	{32.78047349469323,-96.80045127868652,Dallas,TX,United States}	{Nightlife Spot,}
+586	Fri Oct 29 08:12:19 +0000 2010	4b13cb77f964a520389923e3	{Pegasus Plaza}	{32.780491535254356,-96.79927110671997,Dallas,TX,United States}	{Outdoors & Recreation,}
+586	Fri Oct 29 08:12:05 +0000 2010	4b60537cf964a520bfdf29e3	{AT&T}	{32.779315820533505,-96.79914302870738,Dallas,TX,United States}	{Professional & Other Places,}
+586	Fri Oct 29 02:19:29 +0000 2010	4b1aa47cf964a52031ee23e3	{Magnolia Hotel}	{32.78019284902363,-96.79916395395341,Dallas,TX,United States}	{Travel & Transport,}
+586	Fri Oct 29 00:47:27 +0000 2010	4d71788aa7fb6ea81f6df9ea	{The Butcher Shop}	{32.78324990002323,-96.80684397438539,Dallas,TX,United States}	{Food,}
+586	Thu Oct 28 02:05:19 +0000 2010	4b76dc57f964a520f7642ee3	{Saks Fifth Avenue}	{32.931416809436165,-96.8206000328064,Dallas,TX,United States}	{Shop & Service,}
+586	Wed Oct 27 19:52:06 +0000 2010	4b214791f964a5207a3924e3	{Jason's Deli}	{32.780599,-96.800131,Dallas,TX,United States}	{Food,}
+586	Wed Oct 27 16:14:29 +0000 2010	4b1aa47cf964a52031ee23e3	{Magnolia Hotel}	{32.78019284902363,-96.79916395395341,Dallas,TX,United States}	{Travel & Transport,}
+586	Wed Oct 27 04:33:51 +0000 2010	4b167b7ef964a52092b923e3	{Starbucks}	{32.780270538128725,-96.79920673370361,Dallas,TX,United States}	{Food,}
+586	Wed Oct 27 01:09:58 +0000 2010	41ae5b00f964a5205e1e1fe3	{American Airlines Center}	{32.79048544371239,-96.81036472320557,Dallas,TX,United States}	{Stadium,Arts & Entertainment,}
+586	Wed Oct 27 01:09:22 +0000 2010	4aaa9466f964a520745620e3	{CVS/pharmacy}	{32.78078694892208,-96.79991483688354,Dallas,TX,United States}	{Shop & Service,}
+586	Tue Oct 26 23:28:27 +0000 2010	4c213e817e85c9282236ba21	{SushiYAA}	{32.781880647474445,-96.79710388183594,Dallas,TX,United States}	{Food,}
+586	Tue Oct 26 21:44:52 +0000 2010	4b2e4ec1f964a5201fde24e3	{The Sixth Floor Museum}	{32.77998078741392,-96.80857053444818,Dallas,TX,United States}	{Museum,Arts & Entertainment,}
+586	Tue Oct 26 17:49:03 +0000 2010	4b1aa47cf964a52031ee23e3	{Magnolia Hotel}	{32.78019284902363,-96.79916395395341,Dallas,TX,United States}	{Travel & Transport,}
+586	Tue Oct 26 05:48:41 +0000 2010	4ae282e2f964a520c18e21e3	{Plush}	{32.78047349469323,-96.80045127868652,Dallas,TX,United States}	{Nightlife Spot,}
+586	Mon Oct 25 06:45:27 +0000 2010	4b1aa47cf964a52031ee23e3	{Magnolia Hotel}	{32.78019284902363,-96.79916395395341,Dallas,TX,United States}	{Travel & Transport,}
+586	Mon Oct 25 04:55:28 +0000 2010	4b55b743f964a520f1ec27e3	{Starbucks}	{32.781256000669494,-96.8018165230751,Dallas,TX,United States}	{Food,}
+586	Mon Oct 25 04:54:47 +0000 2010	40e0b100f964a52075091fe3	{Trees}	{32.784709369411466,-96.78450747108771,Dallas,TX,United States}	{Music Venue,Arts & Entertainment,}
+586	Sun Oct 24 23:08:40 +0000 2010	4a9a0019f964a520613120e3	{McDonald's}	{32.77892199275353,-96.80301547050476,Dallas,TX,United States}	{Food,}
+586	Sun Oct 24 20:37:15 +0000 2010	4a999314f964a520282f20e3	{Dallas Arboretum and Botanical Garden}	{32.82538315367645,-96.7158007621765,Dallas,TX,United States}	{Outdoors & Recreation,}
+586	Sun Oct 24 12:09:20 +0000 2010	4b167b7ef964a52092b923e3	{Starbucks}	{32.780270538128725,-96.79920673370361,Dallas,TX,United States}	{Food,}
+586	Sun Oct 24 04:49:10 +0000 2010	4acceb14f964a52005ca20e3	{Dallas Marriott Suites Market Center}	{32.805307825928686,-96.83861478220396,Dallas,TX,United States}	{Travel & Transport,Hotel,}
+586	Sat Oct 23 19:25:20 +0000 2010	4b50b80af964a520352f27e3	{Kroger}	{32.951219640000005,-96.85272559,Addison,TX,United States}	{Shop & Service,Food & Drink Shop,}
+586	Sat Oct 23 17:32:19 +0000 2010	4a6a2514f964a520b2cc1fe3	{Costco Wholesale Warehouse}	{33.02392121434452,-96.83155417442322,Plano,TX,United States}	{Shop & Service,Food & Drink Shop,}
+586	Sat Oct 23 15:37:01 +0000 2010	4b1aa47cf964a52031ee23e3	{Magnolia Hotel}	{32.78019284902363,-96.79916395395341,Dallas,TX,United States}	{Travel & Transport,}
+586	Sat Oct 23 15:36:48 +0000 2010	4b167b7ef964a52092b923e3	{Starbucks}	{32.780270538128725,-96.79920673370361,Dallas,TX,United States}	{Food,}
+586	Sat Oct 23 06:38:59 +0000 2010	4ab5a683f964a520c47520e3	{PM Nightlife Lounge}	{32.78104177061086,-96.79830551147461,Dallas,TX,United States}	{Nightlife Spot,Arts & Entertainment,}
+586	Sat Oct 23 05:13:59 +0000 2010	4b1aa47cf964a52031ee23e3	{Magnolia Hotel}	{32.78019284902363,-96.79916395395341,Dallas,TX,United States}	{Travel & Transport,}
+586	Fri Oct 22 23:58:00 +0000 2010	4b1aa47cf964a52031ee23e3	{Magnolia Hotel}	{32.78019284902363,-96.79916395395341,Dallas,TX,United States}	{Travel & Transport,}
+586	Fri Oct 22 18:44:06 +0000 2010	4b61e0a8f964a520a2282ae3	{Olive Garden}	{32.83781482064962,-97.004412217375,Irving,TX,United States}	{Food,}
+586	Fri Oct 22 03:17:39 +0000 2010	4b1b04dcf964a5208af623e3	{Walmart Supercenter}	{32.95895865302331,-96.81673765182495,Dallas,TX,United States}	{Shop & Service,}
+586	Fri Oct 22 01:20:56 +0000 2010	4a441611f964a5201aa71fe3	{Gloria's}	{32.95233983087431,-96.8217200548765,Dallas,TX,United States}	{Food,}
+586	Thu Oct 21 19:54:55 +0000 2010	4b13cb77f964a520389923e3	{Pegasus Plaza}	{32.780491535254356,-96.79927110671997,Dallas,TX,United States}	{Outdoors & Recreation,}
+586	Thu Oct 21 19:33:17 +0000 2010	4b167b7ef964a52092b923e3	{Starbucks}	{32.780270538128725,-96.79920673370361,Dallas,TX,United States}	{Food,}
+586	Thu Oct 21 14:11:54 +0000 2010	4ab4832df964a520577120e3	{Neiman Marcus}	{32.78063585961151,-96.7976188659668,Dallas,TX,United States}	{Shop & Service,}
+586	Thu Oct 21 05:48:42 +0000 2010	4b0679d2f964a52027ec22e3	{Hotel ZaZa}	{32.79425486792837,-96.80160702275954,Dallas,TX,United States}	{Travel & Transport,}
+586	Thu Oct 21 03:47:47 +0000 2010	4ab5a683f964a520c47520e3	{PM Nightlife Lounge}	{32.78104177061086,-96.79830551147461,Dallas,TX,United States}	{Nightlife Spot,Arts & Entertainment,}
+586	Thu Oct 21 03:37:24 +0000 2010	4b13cb77f964a520389923e3	{Pegasus Plaza}	{32.780491535254356,-96.79927110671997,Dallas,TX,United States}	{Outdoors & Recreation,}
+586	Wed Oct 20 23:08:08 +0000 2010	4aaa9466f964a520745620e3	{CVS/pharmacy}	{32.78078694892208,-96.79991483688354,Dallas,TX,United States}	{Shop & Service,}
+586	Wed Oct 20 21:40:14 +0000 2010	4b1aa47cf964a52031ee23e3	{Magnolia Hotel}	{32.78019284902363,-96.79916395395341,Dallas,TX,United States}	{Travel & Transport,}
+586	Wed Oct 20 21:23:41 +0000 2010	4a93175ff964a520c51e20e3	{Urban Market}	{32.77895807450126,-96.798015832901,Dallas,TX,United States}	{Shop & Service,Food & Drink Shop,}
+586	Wed Oct 20 21:20:13 +0000 2010	4b60537cf964a520bfdf29e3	{AT&T}	{32.779315820533505,-96.79914302870738,Dallas,TX,United States}	{Professional & Other Places,}
+586	Wed Oct 20 07:06:24 +0000 2010	4c51ddf39d642d7fa1204ede	{DPL Gym}	{32.77965173551527,-96.79786137023991,Dallas,TX,United States}	{Shop & Service,Gym / Fitness Center,}
+586	Wed Oct 20 06:13:27 +0000 2010	4b1aa47cf964a52031ee23e3	{Magnolia Hotel}	{32.78019284902363,-96.79916395395341,Dallas,TX,United States}	{Travel & Transport,}
+586	Wed Oct 20 01:12:19 +0000 2010	4b282393f964a520a28f24e3	{Roma Express}	{32.78090634,-96.798339,Dallas,TX,United States}	{Food,}
+586	Tue Oct 19 22:57:33 +0000 2010	4af8ac53f964a520190f22e3	{Albertsons}	{32.805943122492764,-96.79738283157349,Dallas,TX,United States}	{Shop & Service,Food & Drink Shop,}
+586	Tue Oct 19 19:01:28 +0000 2010	4aaa9466f964a520745620e3	{CVS/pharmacy}	{32.78078694892208,-96.79991483688354,Dallas,TX,United States}	{Shop & Service,}
+586	Tue Oct 19 16:21:56 +0000 2010	4b1aa47cf964a52031ee23e3	{Magnolia Hotel}	{32.78019284902363,-96.79916395395341,Dallas,TX,United States}	{Travel & Transport,}
+586	Tue Oct 19 01:06:02 +0000 2010	4ab2e3b8f964a520d76c20e3	{Sol Irlandes}	{32.780960588559154,-96.79845839738846,Dallas,TX,United States}	{Food,}
+586	Tue Oct 19 00:29:28 +0000 2010	4b167b7ef964a52092b923e3	{Starbucks}	{32.780270538128725,-96.79920673370361,Dallas,TX,United States}	{Food,}
+586	Mon Oct 18 22:33:34 +0000 2010	4b1aa47cf964a52031ee23e3	{Magnolia Hotel}	{32.78019284902363,-96.79916395395341,Dallas,TX,United States}	{Travel & Transport,}
+586	Sun Oct 17 02:32:46 +0000 2010	4b91733df964a52071bd33e3	{Taco Bell}	{34.130200289897004,-118.05498016196319,Arcadia,CA,United States}	{Food,}
+586	Sat Oct 16 03:12:57 +0000 2010	41687b80f964a520861d1fe3	{The Grove}	{34.07219539048036,-118.35753679275513,Los Angeles,CA,United States}	{Outdoors & Recreation,Shop & Service,}
+586	Sat Oct 16 01:22:34 +0000 2010	49ff928df964a52036701fe3	{SLS Hotel at Beverly Hills}	{34.06996159643052,-118.37658006386414,Los Angeles,CA,United States}	{Travel & Transport,}
+586	Sat Oct 16 01:20:38 +0000 2010	49ff928df964a52036701fe3	{SLS Hotel at Beverly Hills}	{34.06996159643052,-118.37658006386414,Los Angeles,CA,United States}	{Travel & Transport,}
+586	Fri Oct 15 05:50:00 +0000 2010	4af9b633f964a520951322e3	{Pavilions}	{34.12464823073176,-118.0576765537262,Arcadia,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Fri Oct 15 05:13:33 +0000 2010	4b2e4ac4f964a52000de24e3	{LA Fitness}	{34.124310731722666,-118.05642127990723,Arcadia,CA,United States}	{Shop & Service,}
+586	Fri Oct 15 01:25:51 +0000 2010	4cb7ad9a90c9a143219e79d6	{Domino's Pizza}	{33.98684618677742,-117.89011591910632,Rowland Heights,CA,United States}	{Food,}
+586	Fri Oct 15 01:24:15 +0000 2010	4c048cfff423a59328d1d116	{Jack in the Box - Rowland Heights, CA}	{33.987324,-117.890136,Rowland Heights,CA,United States}	{Food,}
+586	Thu Oct 14 03:07:59 +0000 2010	4bf6ff2c5ec320a1852c86d3	{Westfield Playtown}	{34.13556948100875,-118.05137279955864,Arcadia,CA,United States}	{Outdoors & Recreation,}
+586	Thu Oct 14 03:07:32 +0000 2010	4b906b3ef964a520538933e3	{Charlotte Russe}	{34.135503997593,-118.05109266848964,Arcadia,CA,United States}	{Shop & Service,Clothing Store,}
+586	Thu Oct 14 03:06:43 +0000 2010	4b8ef850f964a520eb4133e3	{H&M}	{34.1356783777456,-118.05118560791016,Arcadia,CA,United States}	{Shop & Service,Clothing Store,}
+586	Thu Oct 14 00:44:31 +0000 2010	4af5fe29f964a520e6ff21e3	{Westfield Santa Anita}	{34.1346047997385,-118.0515657785736,Arcadia,CA,United States}	{Shop & Service,}
+586	Thu Oct 14 00:42:32 +0000 2010	4b81e042f964a52041c230e3	{Sephora}	{34.134219646352335,-118.05140710129166,Arcadia,CA,United States}	{Shop & Service,}
+586	Thu Oct 14 00:41:54 +0000 2010	4b9435d5f964a520cd6e34e3	{Potato Corner}	{34.134790335451804,-118.05127143859863,Arcadia,CA,United States}	{Food,}
+586	Wed Oct 13 04:53:01 +0000 2010	4b2e4ac4f964a52000de24e3	{LA Fitness}	{34.124310731722666,-118.05642127990723,Arcadia,CA,United States}	{Shop & Service,}
+586	Tue Oct 12 02:21:45 +0000 2010	4b08a7fdf964a5205c1023e3	{Target}	{34.07459485770355,-118.07075500488281,Rosemead,CA,United States}	{Shop & Service,}
+586	Tue Oct 12 02:21:30 +0000 2010	4b12ccd4f964a520678e23e3	{Starbucks}	{34.07495364565513,-118.07259286353994,Rosemead,CA,United States}	{Food,}
+586	Tue Oct 12 00:33:20 +0000 2010	4b746367f964a52063d92de3	{T.J. Maxx}	{34.10450968847872,-118.07511371954485,Temple City,CA,United States}	{Shop & Service,}
+586	Sun Oct 10 08:26:40 +0000 2010	4b30536af964a520eff824e3	{The Cheesecake Factory}	{34.14564157255275,-118.15058827400208,Pasadena,CA,United States}	{Food,}
+586	Sun Oct 10 04:12:10 +0000 2010	4b09b4d7f964a520141c23e3	{Woori Kalbi}	{34.246545,-118.53639184,Los Angeles,CA,United States}	{Food,}
+586	Sat Oct 09 04:34:32 +0000 2010	4b2e4ac4f964a52000de24e3	{LA Fitness}	{34.124310731722666,-118.05642127990723,Arcadia,CA,United States}	{Shop & Service,}
+586	Fri Oct 08 01:54:46 +0000 2010	4bf9f3ab5ec320a1151b8bd3	{Yunnan Garden}	{34.10261448333333,-118.108072,San Gabriel,CA,United States}	{Food,}
+586	Fri Oct 08 01:30:46 +0000 2010	4b2e4ac4f964a52000de24e3	{LA Fitness}	{34.124310731722666,-118.05642127990723,Arcadia,CA,United States}	{Shop & Service,}
+586	Fri Oct 08 01:28:44 +0000 2010	4a9c4963f964a520b03620e3	{J J Bakery}	{34.126912991859406,-118.05438548326492,Arcadia,CA,United States}	{Food,}
+586	Thu Oct 07 23:53:21 +0000 2010	4aed210ef964a52030cd21e3	{CVS/pharmacy}	{34.12361335351347,-118.0561635437073,Arcadia,CA,United States}	{Shop & Service,}
+586	Wed Oct 06 21:20:05 +0000 2010	4af5fe29f964a520e6ff21e3	{Westfield Santa Anita}	{34.1346047997385,-118.0515657785736,Arcadia,CA,United States}	{Shop & Service,}
+586	Wed Oct 06 20:28:55 +0000 2010	4bbfed0a74a9a5936c6ecff6	{Cotton On}	{34.13496072758447,-118.05128132823806,Arcadia,CA,United States}	{Shop & Service,Clothing Store,}
+586	Wed Oct 06 20:01:10 +0000 2010	4bfde235e529c928bdabbb8c	{Baby Gap}	{34.135094,-118.051353,Arcadia,CA,United States}	{Shop & Service,Clothing Store,}
+586	Wed Oct 06 19:47:42 +0000 2010	4b9435d5f964a520cd6e34e3	{Potato Corner}	{34.134790335451804,-118.05127143859863,Arcadia,CA,United States}	{Food,}
+586	Wed Oct 06 19:40:42 +0000 2010	4b5cf7eff964a5200f4d29e3	{Macy's}	{34.13333555,-118.0518873,Arcadia,CA,United States}	{Shop & Service,}
+586	Wed Oct 06 18:30:29 +0000 2010	4cacc03f14c33704c413f33b	{Dr Edwin Chan}	{34.125117604249276,-118.05234467941256,Arcadia,CA,United States}	{Medical Center,Professional & Other Places,}
+586	Tue Oct 05 19:08:52 +0000 2010	4aed210ef964a52030cd21e3	{CVS/pharmacy}	{34.12361335351347,-118.0561635437073,Arcadia,CA,United States}	{Shop & Service,}
+586	Tue Oct 05 18:21:10 +0000 2010	4cab6c8476d3a093451c2c6b	{Dr Eileen Chen}	{34.12465354213266,-118.05195021117589,Arcadia,CA,United States}	{Medical Center,Professional & Other Places,}
+586	Mon Oct 04 03:12:53 +0000 2010	4a91e9c8f964a520531c20e3	{Tasty Garden}	{34.12566479631349,-118.05463143442769,Arcadia,CA,United States}	{Food,}
+586	Sat Oct 02 19:55:23 +0000 2010	4c07ee49bbc676b015b645d5	{AMA}	{34.12896858333333,-118.00116146666667,Monrovia,CA,United States}	{Professional & Other Places,}
+586	Sat Oct 02 18:19:27 +0000 2010	4b75fda0f964a520d0342ee3	{Party City}	{34.13846676989573,-118.01279783248901,Monrovia,CA,United States}	{Shop & Service,}
+586	Fri Oct 01 01:22:14 +0000 2010	4c570b71d12a20a163d065bd	{Fresh & Easy Neighborhood Market}	{34.08057098,-118.07230443,Rosemead,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Thu Sep 30 03:40:32 +0000 2010	4bc250004cdfc9b6cff69521	{Victoria's Secret PINK}	{34.135329459964396,-118.05110981938418,Arcadia,CA,United States}	{Shop & Service,Clothing Store,}
+586	Thu Sep 30 03:30:55 +0000 2010	4c0c18c2bbc676b095934cd5	{Yankee candle}	{34.13511406,-118.05129,Arcadia,CA,United States}	{Shop & Service,}
+586	Thu Sep 30 01:56:18 +0000 2010	4b8ef850f964a520eb4133e3	{H&M}	{34.1356783777456,-118.05118560791016,Arcadia,CA,United States}	{Shop & Service,Clothing Store,}
+586	Thu Sep 30 01:36:48 +0000 2010	4af5fe29f964a520e6ff21e3	{Westfield Santa Anita}	{34.1346047997385,-118.0515657785736,Arcadia,CA,United States}	{Shop & Service,}
+586	Wed Sep 29 00:55:05 +0000 2010	4b5d0292f964a520bf4e29e3	{Popeyes Louisiana Kitchen}	{34.080294093695144,-118.09135836875275,San Gabriel,CA,United States}	{Food,}
+586	Wed Sep 29 00:55:05 +0000 2010	4b5d0292f964a520bf4e29e3	{Popeyes Louisiana Kitchen}	{34.080294093695144,-118.09135836875275,San Gabriel,CA,United States}	{Food,}
+586	Wed Sep 29 00:30:16 +0000 2010	51939ec8498efbd0bbe49af4	{Mobil}	{34.0989302175119,-118.05059529182283,Temple City,CA,United States}	{Shop & Service,}
+586	Sun Sep 26 03:59:16 +0000 2010	4ad905f6f964a520391721e3	{Ralphs}	{34.10534687529722,-118.06413830053714,Temple City,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Wed Sep 22 01:57:15 +0000 2010	4b0ed7d6f964a520c45b23e3	{Walmart Supercenter}	{33.99890911887984,-117.93244317230618,City Of Industry,CA,United States}	{Shop & Service,Professional & Other Places,}
+586	Mon Sep 20 03:33:13 +0000 2010	4c5dab517f661b8d9e004c1c	{Mami King}	{34.029822386035825,-117.91442755461914,West Covina,CA,United States}	{Food,}
+586	Mon Sep 20 03:07:16 +0000 2010	4c81bf4ed34ca14383f22580	{Island Pacific Supermarket}	{34.02989713991953,-117.91437606249818,West Covina,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Sun Sep 19 07:01:22 +0000 2010	4a9db119f964a520f53820e3	{AMC Santa Anita 16}	{34.13525211860911,-118.0491042137146,Arcadia,CA,United States}	{Arts & Entertainment,Movie Theater,}
+586	Sun Sep 19 01:50:29 +0000 2010	4bb6d7b52f70c9b6c7158630	{Domino's Pizza}	{34.10681204366493,-118.06502436235469,Temple City,CA,United States}	{Food,}
+586	Sun Sep 19 01:07:36 +0000 2010	4a7710c3f964a5207ae31fe3	{Costco}	{34.08940611377252,-118.1485227462375,Alhambra,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Sat Sep 18 04:46:52 +0000 2010	4af5fe29f964a520e6ff21e3	{Westfield Santa Anita}	{34.1346047997385,-118.0515657785736,Arcadia,CA,United States}	{Shop & Service,}
+586	Fri Sep 17 02:50:32 +0000 2010	4ad8d161f964a520f71421e3	{El Pollo Loco}	{34.10746945753578,-118.05243615018207,Arcadia,CA,United States}	{Food,}
+586	Fri Sep 17 01:23:18 +0000 2010	4aeb28c7f964a52023bf21e3	{Live Oak Park}	{34.10213942555089,-118.04723739624023,Temple City,CA,United States}	{Outdoors & Recreation,}
+586	Wed Sep 15 02:24:47 +0000 2010	4b5d0292f964a520bf4e29e3	{Popeyes Louisiana Kitchen}	{34.080294093695144,-118.09135836875275,San Gabriel,CA,United States}	{Food,}
+586	Wed Sep 15 01:25:25 +0000 2010	4b314c72f964a5202f0425e3	{Toys "R" Us}	{34.03401028,-118.0941704,Montebello,CA,United States}	{Shop & Service,}
+586	Wed Sep 15 00:27:10 +0000 2010	4af64180f964a520ad0222e3	{Whole Foods Market}	{34.15072621703997,-118.07236992895744,Pasadena,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+586	Mon Sep 13 02:39:59 +0000 2010	4c3aa34b5810a593357db93c	{Borders}	{34.13530318101485,-118.04911494255066,Arcadia,CA,United States}	{Shop & Service,}
+586	Sun Sep 12 23:20:08 +0000 2010	4af5fe29f964a520e6ff21e3	{Westfield Santa Anita}	{34.1346047997385,-118.0515657785736,Arcadia,CA,United States}	{Shop & Service,}
+586	Sat Sep 11 02:13:40 +0000 2010	4b6b2a9bf964a52003f72be3	{In-N-Out Burger}	{34.083899,-118.07310137,Rosemead,CA,United States}	{Food,}
+586	Wed Sep 08 01:23:48 +0000 2010	4af9eb3af964a520421522e3	{Trader Joe's}	{34.129416516666666,-118.072663,San Gabriel,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Tue Sep 07 23:27:22 +0000 2010	4b3b9b83f964a520eb7625e3	{Amy's Indoor Playground}	{34.11561727523804,-118.15451,South Pasadena,CA,United States}	{Outdoors & Recreation,}
+586	Mon Sep 06 20:08:36 +0000 2010	4b08a7fdf964a5205c1023e3	{Target}	{34.07459485770355,-118.07075500488281,Rosemead,CA,United States}	{Shop & Service,}
+586	Mon Sep 06 01:53:55 +0000 2010	41536380f964a520201d1fe3	{LA County Fair 2010}	{34.08120637124839,-117.76515483856201,Pomona,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+586	Sun Sep 05 02:12:41 +0000 2010	4a91f45cf964a5206b1c20e3	{Ajisen Ramen}	{34.105569,-118.067829,Temple City,CA,United States}	{Food,}
+586	Wed Sep 01 22:40:33 +0000 2010	4bf592b94d5f20a1ecaf97fe	{Goldilocks}	{34.070238,-118.29208946,Los Angeles,CA,United States}	{Food,}
+586	Sun Aug 29 20:43:33 +0000 2010	4ba157bff964a52080ae37e3	{Office Depot}	{34.09951843185857,-118.07460497827213,Temple City,CA,United States}	{Shop & Service,}
+586	Sun Aug 29 00:06:51 +0000 2010	4c4ba71dc668e21e283156fa	{Walnut Home}	{33.97279893177335,-117.86044718252812,Walnut,CA,United States}	{Residence,}
+586	Sat Aug 28 03:59:26 +0000 2010	4b5203a9f964a5205e6127e3	{McDonald's}	{34.107871200097286,-118.05559757951575,Temple City,CA,United States}	{Food,}
+586	Sat Aug 28 03:59:25 +0000 2010	4b5203a9f964a5205e6127e3	{McDonald's}	{34.107871200097286,-118.05559757951575,Temple City,CA,United States}	{Food,}
+586	Sat Aug 28 03:17:27 +0000 2010	4ad905f6f964a520391721e3	{Ralphs}	{34.10534687529722,-118.06413830053714,Temple City,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Sat Aug 28 00:09:25 +0000 2010	4b2ab10ff964a520c7ad24e3	{Valley Plaza Mall}	{35.337428757014884,-119.03454780578613,Bakersfield,CA,United States}	{Travel & Transport,Shop & Service,Hotel,}
+586	Fri Aug 27 19:40:46 +0000 2010	4b9b1eb1f964a52016f435e3	{Akamaru Japanese Restaurant}	{36.330362983850925,-119.29322651163491,Visalia,CA,United States}	{Food,}
+586	Fri Aug 27 15:31:20 +0000 2010	4c5a2de567ac0f47df49064c	{Zhuo}	{36.328306,-119.291605,Visalia,CA,United States}	{Nightlife Spot,}
+586	Fri Aug 27 03:12:43 +0000 2010	4c5a2de567ac0f47df49064c	{Zhuo}	{36.328306,-119.291605,Visalia,CA,United States}	{Nightlife Spot,}
+586	Thu Aug 26 22:54:25 +0000 2010	4a76065af964a520fce11fe3	{Visalia Marriott at the Convention Center}	{36.32842773037239,-119.29162670566404,Visalia,CA,United States}	{Travel & Transport,Shop & Service,Hotel,}
+586	Thu Aug 26 17:17:45 +0000 2010	4b490679f964a520916226e3	{Visalia Mall}	{36.311234802486716,-119.31577205657959,Visalia,CA,United States}	{Shop & Service,}
+586	Thu Aug 26 03:46:46 +0000 2010	4bb801a298c7ef3b61b73002	{Yoshinos}	{36.82691746,-119.78935009,Fresno,CA,United States}	{Food,}
+586	Wed Aug 25 06:19:31 +0000 2010	4b5b301df964a520b6e928e3	{Residence Inn By Marriott}	{36.81409,-119.78641158,Fresno,CA,United States}	{Travel & Transport,}
+586	Wed Aug 25 00:57:36 +0000 2010	4b79e57bf964a52012192fe3	{Victoria's Secret PINK}	{36.80627760699939,-119.77643860907423,FRESNO,CA,United States}	{Shop & Service,Clothing Store,}
+586	Tue Aug 24 03:52:44 +0000 2010	4b5b8c33f964a5202b0629e3	{The Cheesecake Factory}	{36.80802842267509,-119.77626174688339,Fresno,CA,United States}	{Food,}
+586	Tue Aug 24 02:48:29 +0000 2010	4b5b301df964a520b6e928e3	{Residence Inn By Marriott}	{36.81409,-119.78641158,Fresno,CA,United States}	{Travel & Transport,}
+586	Tue Aug 24 01:00:04 +0000 2010	4b6e00c0f964a52099a22ce3	{Jack in the Box}	{35.53054911692107,-119.18744910987822,Bakersfield,CA,United States}	{Food,}
+586	Mon Aug 23 00:48:35 +0000 2010	4b513707f964a520874727e3	{Babies R Us}	{34.07374866,-117.886228,Covina,CA,United States}	{Shop & Service,}
+586	Sun Aug 22 20:51:08 +0000 2010	4b0775bff964a520cbfd22e3	{Banana Bay}	{33.9880277179208,-117.90644037886601,Rowland Heights,CA,United States}	{Nightlife Spot,Food,}
+586	Sun Aug 22 04:50:41 +0000 2010	4b3b0523f964a5205d7025e3	{Wienerschnitzel}	{34.09223750709282,-118.02654803309647,El Monte,CA,United States}	{Food,}
+586	Sat Aug 21 03:35:25 +0000 2010	4adbc0e8f964a520702a21e3	{Jollibee}	{33.83174540746464,-118.27940940856934,Carson,CA,United States}	{Food,}
+586	Sat Aug 21 00:10:12 +0000 2010	4a5bedb3f964a52003bc1fe3	{Islands Restaurant}	{33.97792260275926,-118.39283466339111,Los Angeles,CA,United States}	{Food,}
+586	Wed Aug 18 21:13:36 +0000 2010	4b5203a9f964a5205e6127e3	{McDonald's}	{34.107871200097286,-118.05559757951575,Temple City,CA,United States}	{Food,}
+586	Wed Aug 18 05:18:05 +0000 2010	4b046029f964a520b15322e3	{Mayflower Seafood Restaurant}	{34.05962786637538,-118.2381717024147,Los Angeles,CA,United States}	{Food,}
+586	Wed Aug 18 03:51:59 +0000 2010	49c31443f964a52054561fe3	{The Americana at Brand}	{34.14381241092894,-118.25670719146729,Glendale,CA,United States}	{Shop & Service,Arts & Entertainment,}
+586	Wed Aug 18 02:49:05 +0000 2010	4b5a6ae0f964a520dac328e3	{Pinkberry}	{34.14390120609711,-118.25511932373047,Glendale,CA,United States}	{Food,}
+586	Tue Aug 17 01:42:19 +0000 2010	4abeb9b0f964a520958f20e3	{President Square}	{34.12475410584266,-118.059307756144,Arcadia,CA,United States}	{Shop & Service,}
+586	Sun Aug 15 04:07:30 +0000 2010	4a9db0cbf964a520f43820e3	{Dave & Buster's}	{34.1356783777456,-118.04940462112427,Arcadia,CA,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+586	Thu Aug 12 04:41:48 +0000 2010	4b08a7fdf964a5205c1023e3	{Target}	{34.07459485770355,-118.07075500488281,Rosemead,CA,United States}	{Shop & Service,}
+586	Wed Aug 11 01:39:07 +0000 2010	4bcb39ee0687ef3b4a3addcc	{Seafood City Super Market}	{34.141250079137855,-118.22496206257118,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Tue Aug 10 01:23:18 +0000 2010	4a7710c3f964a5207ae31fe3	{Costco}	{34.08940611377252,-118.1485227462375,Alhambra,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Tue Aug 10 01:04:47 +0000 2010	4b4a3f79f964a520a28026e3	{Albertsons}	{34.104174971580505,-118.087225,San Gabriel,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Sun Aug 08 20:24:57 +0000 2010	4abeb9b0f964a520958f20e3	{President Square}	{34.12475410584266,-118.059307756144,Arcadia,CA,United States}	{Shop & Service,}
+586	Sun Aug 08 06:34:28 +0000 2010	4a3f28d1f964a520b6a31fe3	{Pacific Theatres Glendale 18}	{34.143510506659105,-118.25707197189331,Glendale,CA,United States}	{Arts & Entertainment,Movie Theater,}
+586	Sun Aug 08 05:08:04 +0000 2010	4b199230f964a520b9df23e3	{H&M}	{34.144345180538075,-118.25705051422119,Glendale,CA,United States}	{Shop & Service,Clothing Store,}
+586	Sun Aug 08 04:50:35 +0000 2010	49c31443f964a52054561fe3	{The Americana at Brand}	{34.14381241092894,-118.25670719146729,Glendale,CA,United States}	{Shop & Service,Arts & Entertainment,}
+586	Sun Aug 01 06:23:47 +0000 2010	4c4ba71dc668e21e283156fa	{Walnut Home}	{33.97279893177335,-117.86044718252812,Walnut,CA,United States}	{Residence,}
+586	Sun Aug 01 06:23:47 +0000 2010	4c4ba71dc668e21e283156fa	{Walnut Home}	{33.97279893177335,-117.86044718252812,Walnut,CA,United States}	{Residence,}
+586	Sun Aug 01 00:54:01 +0000 2010	4be47dcecf200f475609123c	{Ontario Mills}	{34.07324405,-117.5516939,Ontario,CA,United States}	{Shop & Service,}
+586	Thu Jul 29 00:36:08 +0000 2010	4af9b633f964a520951322e3	{Pavilions}	{34.12464823073176,-118.0576765537262,Arcadia,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Tue Jul 27 23:14:26 +0000 2010	4aca4c59f964a5204bc120e3	{Target}	{33.991927482316555,-117.9189645248805,Rowland Heights,CA,United States}	{Shop & Service,Office,Professional & Other Places,}
+586	Tue Jul 27 03:25:38 +0000 2010	4bd7048129eb9c7456fb95e1	{Mobil}	{34.10341869733246,-118.07315826416016,TEMPLE CITY,CA,United States}	{Shop & Service,}
+586	Tue Jul 27 02:05:13 +0000 2010	4a7710c3f964a5207ae31fe3	{Costco}	{34.08940611377252,-118.1485227462375,Alhambra,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Mon Jul 26 04:38:52 +0000 2010	4b81acb5f964a52005b730e3	{Pacific Avalon Yacht Charters}	{33.619981,-117.92551,Newport Beach,CA,United States}	{Travel & Transport,}
+586	Sat Jul 24 00:33:32 +0000 2010	4af9eb3af964a520421522e3	{Trader Joe's}	{34.129416516666666,-118.072663,San Gabriel,CA,United States}	{Shop & Service,Food & Drink Shop,}
+586	Wed Jul 21 21:33:01 +0000 2010	4b91733df964a52071bd33e3	{Taco Bell}	{34.130200289897004,-118.05498016196319,Arcadia,CA,United States}	{Food,}
+586	Wed Jul 21 02:22:00 +0000 2010	45a9d338f964a52025411fe3	{South Coast Plaza}	{33.69101333272498,-117.88911581039427,Costa Mesa,CA,United States}	{Shop & Service,}
+586	Mon Jul 19 23:52:42 +0000 2010	4d43cd107e2e548184d3598f	{CA-91 Freeway}	{33.87713203504438,-118.14997673034668,Gardena and Buena Park,CA,United States}	{Travel & Transport,}
+586	Sun Jul 18 01:42:26 +0000 2010	4af5fe29f964a520e6ff21e3	{Westfield Santa Anita}	{34.1346047997385,-118.0515657785736,Arcadia,CA,United States}	{Shop & Service,}
+586	Tue Jul 13 22:11:33 +0000 2010	4c3ce470b169c9b65e554668	{Dr. Eva Chan}	{34.02688,-117.896518,Walnut,CA,United States}	{Medical Center,Professional & Other Places,}
+586	Mon Jul 12 23:08:58 +0000 2010	4aaac6faf964a5205f5720e3	{Starbucks}	{34.069170742411664,-118.02153348790846,El Monte,CA,United States}	{Food,}
+586	Mon Jul 12 23:05:51 +0000 2010	4a50e30af964a52035b01fe3	{Longo Toyota}	{34.06930555995889,-118.02148202661829,El Monte,CA,United States}	{Shop & Service,}
+586	Sat Jul 10 22:47:53 +0000 2010	4b5e2a2df964a5204e8129e3	{CHAM Korean Bistro}	{34.142818,-118.132896,Pasadena,CA,United States}	{Food,}
+586	Sat Jul 10 06:05:17 +0000 2010	4af5fe29f964a520e6ff21e3	{Westfield Santa Anita}	{34.1346047997385,-118.0515657785736,Arcadia,CA,United States}	{Shop & Service,}
+586	Sat Jul 10 01:09:07 +0000 2010	4a9c4963f964a520b03620e3	{J J Bakery}	{34.126912991859406,-118.05438548326492,Arcadia,CA,United States}	{Food,}
+586	Fri Jul 09 04:19:40 +0000 2010	4c3aa34b5810a593357db93c	{Borders}	{34.13530318101485,-118.04911494255066,Arcadia,CA,United States}	{Shop & Service,}
+586	Thu Jul 08 02:37:57 +0000 2010	4bb6d7b52f70c9b6c7158630	{Domino's Pizza}	{34.10681204366493,-118.06502436235469,Temple City,CA,United States}	{Food,}
+586	Wed Jul 07 02:08:34 +0000 2010	4b786116f964a520d0c92ee3	{Beard Papa's}	{34.129959,-118.054437,Arcadia,CA,United States}	{Food,}
+586	Tue Jul 06 23:50:11 +0000 2010	4b43e50df964a5206bed25e3	{Johnny Rockets}	{34.13514555348906,-118.05058479309082,Arcadia,CA,United States}	{Food,}
+586	Tue Jul 06 23:48:43 +0000 2010	4b9435d5f964a520cd6e34e3	{Potato Corner}	{34.134790335451804,-118.05127143859863,Arcadia,CA,United States}	{Food,}
+586	Tue Jul 06 23:48:08 +0000 2010	4af5fe29f964a520e6ff21e3	{Westfield Santa Anita}	{34.1346047997385,-118.0515657785736,Arcadia,CA,United States}	{Shop & Service,}
+586	Tue Jul 06 07:53:41 +0000 2010	51939ec8498efbd0bbe49af4	{Mobil}	{34.0989302175119,-118.05059529182283,Temple City,CA,United States}	{Shop & Service,}
+586	Mon Jul 05 08:28:15 +0000 2010	51939ec8498efbd0bbe49af4	{Mobil}	{34.0989302175119,-118.05059529182283,Temple City,CA,United States}	{Shop & Service,}
+586	Mon Jul 05 02:51:54 +0000 2010	4ad905f6f964a520391721e3	{Ralphs}	{34.10534687529722,-118.06413830053714,Temple City,CA,United States}	{Shop & Service,Food & Drink Shop,}

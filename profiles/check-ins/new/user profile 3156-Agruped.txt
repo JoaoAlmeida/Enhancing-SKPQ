@@ -1,0 +1,293 @@
+3156	Wed Aug 10 15:41:09 +0000 2011	40a40c00f964a5201df31ee3	{Runyon Canyon Park}	{34.110383282168506,-118.3505630493164,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+3156	Mon Aug 08 00:31:14 +0000 2011	4a8de48af964a5204d1120e3	{Korbel Winery}	{38.50821668143446,-122.96538036503792,Guerneville,CA,United States}	{Nightlife Spot,Food,}
+3156	Sun Aug 07 19:23:14 +0000 2011	4bafff19f964a520cb303ce3	{Mimi's Cafe}	{38.598414,-121.418562,Sacramento,CA,United States}	{Food,}
+3156	Sat Aug 06 02:49:00 +0000 2011	4b34248bf964a5207a2525e3	{Trattoria Pinocchio}	{37.79867319488775,-122.40820346937763,San Francisco,CA,United States}	{Food,}
+3156	Sat Aug 06 01:29:36 +0000 2011	44dc7274f964a520aa361fe3	{Kabuki Springs & Spa}	{37.784579014047814,-122.4324438221864,San Francisco,CA,United States}	{Shop & Service,}
+3156	Fri Aug 05 23:17:59 +0000 2011	428fcb80f964a520e8231fe3	{Japantown}	{37.78530028168537,-122.43000984191895,San Francisco,CA,United States}	{Shop & Service,Outdoors & Recreation,}
+3156	Fri Aug 05 19:39:52 +0000 2011	4b674b6df964a5205f462be3	{Chase Bank}	{38.427711,-122.74087250232697,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Sun Jul 31 20:12:53 +0000 2011	4b54c5e4f964a520becb27e3	{Kaffe Mocha & Grill}	{38.511583,-122.77964651584625,Santa Rosa,CA,United States}	{Food,}
+3156	Sat Jul 30 17:32:15 +0000 2011	4b674b6df964a5205f462be3	{Chase Bank}	{38.427711,-122.74087250232697,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Fri Jul 29 20:30:25 +0000 2011	4e29d90c1f6ebe544241e37b	{Mi Casita}	{38.501451,-122.999971,Guerneville,CA,United States}	{Food,Residence,}
+3156	Thu Jul 28 21:21:56 +0000 2011	49d01698f964a520fd5a1fe3	{Golden Gate Bridge}	{37.81700118722001,-122.47821718454361,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+3156	Tue Jul 26 17:29:44 +0000 2011	4b41431cf964a52048c425e3	{Charles M. Schulz - Sonoma County Airport}	{38.51022874787345,-122.80620574951172,Santa Rosa,CA,United States}	{Travel & Transport,Airport,}
+3156	Mon Jul 25 20:02:26 +0000 2011	4a8de48af964a5204d1120e3	{Korbel Winery}	{38.50821668143446,-122.96538036503792,Guerneville,CA,United States}	{Nightlife Spot,Food,}
+3156	Mon Jul 25 18:21:07 +0000 2011	49d01698f964a520fd5a1fe3	{Golden Gate Bridge}	{37.81700118722001,-122.47821718454361,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+3156	Sat Jul 23 19:22:03 +0000 2011	4a8de48af964a5204d1120e3	{Korbel Winery}	{38.50821668143446,-122.96538036503792,Guerneville,CA,United States}	{Nightlife Spot,Food,}
+3156	Fri Jul 22 00:23:59 +0000 2011	4e28c31462846e3862eb0e64	{Arthur Freyer}	{37.82174975928575,-122.30141429676297,Oakland,CA,United States}	{}
+3156	Wed Jul 20 19:31:31 +0000 2011	4a8de48af964a5204d1120e3	{Korbel Winery}	{38.50821668143446,-122.96538036503792,Guerneville,CA,United States}	{Nightlife Spot,Food,}
+3156	Wed Jul 20 19:31:31 +0000 2011	4a8de48af964a5204d1120e3	{Korbel Winery}	{38.50821668143446,-122.96538036503792,Guerneville,CA,United States}	{Nightlife Spot,Food,}
+3156	Mon Jul 18 15:52:45 +0000 2011	4a70abf3f964a52027d81fe3	{The Portofino Hotel & Marina}	{33.84589679025758,-118.39753389358522,Redondo Beach,CA,United States}	{Travel & Transport,}
+3156	Fri Jul 15 19:53:15 +0000 2011	4a8de48af964a5204d1120e3	{Korbel Winery}	{38.50821668143446,-122.96538036503792,Guerneville,CA,United States}	{Nightlife Spot,Food,}
+3156	Sat Jul 09 20:07:02 +0000 2011	4b54c5e4f964a520becb27e3	{Kaffe Mocha & Grill}	{38.511583,-122.77964651584625,Santa Rosa,CA,United States}	{Food,}
+3156	Sat Jul 09 18:11:47 +0000 2011	4be46c942457a5933236aa15	{IHOP}	{38.45343690081182,-122.7700254754764,Santa Rosa,CA,United States}	{Food,}
+3156	Wed Jul 06 22:20:42 +0000 2011	49f40719f964a520f76a1fe3	{Sacramento International Airport (SMF)}	{38.692276283389305,-121.59045696258545,Sacramento,CA,United States}	{Travel & Transport,}
+3156	Wed Jul 06 20:40:30 +0000 2011	4a344606f964a520069c1fe3	{Bob Hope Airport (BUR)}	{34.19639831676446,-118.35313796997072,Burbank,CA,United States}	{Travel & Transport,}
+3156	Wed Jul 06 02:23:18 +0000 2011	4c37c9923849c928006abeb1	{LA Metro Bus Line 2 / UCLA ~ Westwood bound}	{34.098125375699844,-118.36181185028684,Los Angeles,CA,United States}	{Travel & Transport,Bus Station,}
+3156	Mon Jul 04 05:29:32 +0000 2011	49ce4c1ef964a5202f5a1fe3	{Delancey}	{34.098023,-118.319111,Hollywood,CA,United States}	{Nightlife Spot,Food,}
+3156	Sun Jul 03 20:56:59 +0000 2011	4a747fb4f964a52051de1fe3	{Starbucks}	{34.14063669537184,-118.36947002702577,Studio City,CA,United States}	{Food,}
+3156	Sat Jul 02 19:55:55 +0000 2011	4b3fc217f964a5201cae25e3	{Pep Boys Auto Parts & Service}	{34.102022,-118.323191,Hollywood,CA,United States}	{Shop & Service,}
+3156	Fri Jul 01 04:45:15 +0000 2011	4b0700aaf964a52021f522e3	{El Pollo Loco}	{34.09755527973175,-118.36634291937642,West Hollywood,CA,United States}	{Food,}
+3156	Wed Jun 29 03:27:15 +0000 2011	4aeceac9f964a52033cc21e3	{Haas Building}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+3156	Tue Jun 28 21:06:22 +0000 2011	4a747fb4f964a52051de1fe3	{Starbucks}	{34.14063669537184,-118.36947002702577,Studio City,CA,United States}	{Food,}
+3156	Sun Jun 26 18:38:35 +0000 2011	40a55d80f964a52026f31ee3	{House of Pies}	{34.105062177833624,-118.2920640707016,Los Angeles,CA,United States}	{Food,}
+3156	Fri Jun 24 21:34:14 +0000 2011	49ce6b9bf964a5203b5a1fe3	{Doll Factory (L.A. Derby Dolls)}	{34.06910264358458,-118.26632022857666,Los Angeles,CA,United States}	{Professional & Other Places,}
+3156	Wed Jun 22 23:01:23 +0000 2011	4bfd75f6e529c9289df6ba8c	{Avon Rent A Car Truck and Van}	{34.09052299439853,-118.34385200370212,West Hollywood,CA,United States}	{Travel & Transport,}
+3156	Wed Jun 22 16:07:38 +0000 2011	4deff3ac1838e429ae4de35a	{KJLA Studios}	{34.03279631,-118.442734,Los Angeles,CA,United States}	{}
+3156	Fri Jun 17 04:15:49 +0000 2011	4c47d6061ddec92887c69e32	{Villains Tavern}	{34.04016153637543,-118.23106158154945,Los Angeles,CA,United States}	{Nightlife Spot,}
+3156	Thu Jun 16 22:57:20 +0000 2011	4ada339ff964a520e41f21e3	{Trader Joe's}	{34.0976174943787,-118.36536136151064,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3156	Thu Jun 16 20:49:40 +0000 2011	4ab1cc52f964a520996a20e3	{Laemmle Sunset 5}	{34.09751967198795,-118.3651328086853,West Hollywood,CA,United States}	{Arts & Entertainment,Movie Theater,}
+3156	Tue Jun 14 23:45:11 +0000 2011	4b883878f964a5206ee831e3	{Wooden Nickel}	{34.195941332731046,-118.37756152205576,North Hollywood,CA,United States}	{Shop & Service,}
+3156	Tue Jun 14 21:43:09 +0000 2011	4deff3ac1838e429ae4de35a	{KJLA Studios}	{34.03279631,-118.442734,Los Angeles,CA,United States}	{}
+3156	Sat Jun 11 18:33:16 +0000 2011	4deff3ac1838e429ae4de35a	{KJLA Studios}	{34.03279631,-118.442734,Los Angeles,CA,United States}	{}
+3156	Sat Jun 11 00:18:20 +0000 2011	4b6cbec0f964a52022512ce3	{Chase Bank}	{34.0976688807624,-118.36658826518926,Los Angeles,CA,United States}	{Shop & Service,}
+3156	Fri Jun 10 22:30:48 +0000 2011	4af896dcf964a520840e22e3	{Vienna Cafe}	{34.08349061814631,-118.35015272054329,Los Angeles,CA,United States}	{Food,}
+3156	Thu Jun 09 23:29:20 +0000 2011	4bfd75f6e529c9289df6ba8c	{Avon Rent A Car Truck and Van}	{34.09052299439853,-118.34385200370212,West Hollywood,CA,United States}	{Travel & Transport,}
+3156	Mon Jun 06 03:25:52 +0000 2011	4b55213ff964a52035dc27e3	{Mama Mia's}	{37.052521033333335,-122.068006,Felton,CA,United States}	{Food,}
+3156	Sun Jun 05 15:55:21 +0000 2011	4bc3ddf3dce4eee1f5c8719d	{Quality Inn & Suites Santa Cruz Mountains}	{37.08987057209015,-122.09427773952484,Ben Lomond,CA,United States}	{Travel & Transport,}
+3156	Sun Jun 05 15:55:21 +0000 2011	4bc3ddf3dce4eee1f5c8719d	{Quality Inn & Suites Santa Cruz Mountains}	{37.08987057209015,-122.09427773952484,Ben Lomond,CA,United States}	{Travel & Transport,}
+3156	Sun Jun 05 01:18:38 +0000 2011	4bc3b287dce4eee123b7719d	{Brookdale Inn & Spa}	{37.107456,-122.10889,Brookdale,CA,United States}	{Travel & Transport,}
+3156	Sat Jun 04 08:06:27 +0000 2011	4bc3ddf3dce4eee1f5c8719d	{Quality Inn & Suites Santa Cruz Mountains}	{37.08987057209015,-122.09427773952484,Ben Lomond,CA,United States}	{Travel & Transport,}
+3156	Sat Jun 04 04:02:54 +0000 2011	4c34d057225403bb125567cd	{Chili's Grill & Bar}	{36.97543823864057,-121.96493625640869,Capitola,CA,United States}	{Food,}
+3156	Tue May 31 15:51:56 +0000 2011	4b8ac095f964a5209c7e32e3	{Air Hollywood}	{34.274104,-118.422309,Pacoima,CA,United States}	{Arts & Entertainment,}
+3156	Mon May 30 02:08:17 +0000 2011	4ab4350df964a5205f7020e3	{The Egyptian Theatre}	{34.101275064778584,-118.33658077562846,Los Angeles,CA,United States}	{Arts & Entertainment,Movie Theater,}
+3156	Sun May 29 02:31:52 +0000 2011	4ab4350df964a5205f7020e3	{The Egyptian Theatre}	{34.101275064778584,-118.33658077562846,Los Angeles,CA,United States}	{Arts & Entertainment,Movie Theater,}
+3156	Fri May 27 02:31:11 +0000 2011	4ab4350df964a5205f7020e3	{The Egyptian Theatre}	{34.101275064778584,-118.33658077562846,Los Angeles,CA,United States}	{Arts & Entertainment,Movie Theater,}
+3156	Tue May 24 16:12:34 +0000 2011	4b6cbec0f964a52022512ce3	{Chase Bank}	{34.0976688807624,-118.36658826518926,Los Angeles,CA,United States}	{Shop & Service,}
+3156	Sat May 21 17:30:00 +0000 2011	4bbcb6508ec3d13ac11a1b28	{The Los Angeles Film School}	{34.09807050200083,-118.32827925682068,Hollywood,CA,United States}	{College Academic Building,College & University,}
+3156	Fri May 20 18:44:35 +0000 2011	4a9fceaaf964a520583d20e3	{The Griddle Cafe}	{34.097870604426724,-118.3622682094574,Los Angeles,CA,United States}	{Food,}
+3156	Thu May 19 02:09:44 +0000 2011	4a14d4ecf964a52080781fe3	{Pinches Tacos}	{34.09773289693434,-118.36764335632324,Los Angeles,CA,United States}	{Food,}
+3156	Tue May 17 18:48:02 +0000 2011	4b52ce94f964a5206b8827e3	{United States Post Office}	{34.091694,-118.361561,West Hollywood,CA,United States}	{Professional & Other Places,}
+3156	Mon May 16 19:10:23 +0000 2011	4ab12762f964a520416820e3	{Central Casting}	{34.17319851401052,-118.3053731918335,Burbank,CA,United States}	{Arts & Entertainment,Movie Theater,Professional & Other Places,}
+3156	Sun May 15 15:32:27 +0000 2011	4a53bb02f964a520aab21fe3	{The Coffee Bean & Tea Leaf}	{34.09821875419708,-118.36235557192163,Los Angeles,CA,United States}	{Food,}
+3156	Fri May 13 02:55:11 +0000 2011	4dcc9d777d8b975f18a2d254	{"Rent" Downtown LA}	{34.065923116408484,-118.22186081963721,Los Angeles,CA,United States}	{Nightlife Spot,}
+3156	Thu May 12 00:27:59 +0000 2011	4adf3602f964a520587821e3	{The Home Depot}	{34.14357602043809,-118.26783107507413,Glendale,CA,United States}	{Shop & Service,}
+3156	Wed May 11 01:10:20 +0000 2011	40a2ba80f964a5200ef31ee3	{Amoeba Music}	{34.09775400505154,-118.32916083276535,Hollywood,CA,United States}	{Shop & Service,Music Venue,Arts & Entertainment,}
+3156	Mon May 09 20:48:22 +0000 2011	4c3f988de26920a1cbb25be7	{Stor It All Self Storage}	{34.126479,-118.262338,Los Angeles,CA,United States}	{Professional & Other Places,}
+3156	Sun May 08 23:12:48 +0000 2011	4ada339ff964a520e41f21e3	{Trader Joe's}	{34.0976174943787,-118.36536136151064,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3156	Sat May 07 01:07:51 +0000 2011	4a944715f964a520122120e3	{Chevys Fresh Mex}	{38.437159,-122.72081026666666,Santa Rosa,CA,United States}	{Food,}
+3156	Sun May 01 20:34:57 +0000 2011	4b399ae2f964a520165e25e3	{Roxy Stadium 14}	{38.43782505684277,-122.71466732025146,Santa Rosa,CA,United States}	{Arts & Entertainment,Movie Theater,}
+3156	Sat Apr 23 07:25:44 +0000 2011	4b1ff418f964a520442b24e3	{Sutter Medical Center Santa Rosa}	{38.46912451014695,-122.70813987999998,Santa Rosa,CA,United States}	{Medical Center,Professional & Other Places,}
+3156	Thu Apr 21 16:09:05 +0000 2011	4c071da32e80a5935c4175f9	{Urgent Care}	{38.425696,-122.753826,,,United States}	{}
+3156	Tue Apr 19 04:03:18 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+3156	Tue Apr 19 01:08:36 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+3156	Sat Apr 16 17:46:32 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+3156	Sat Apr 16 15:25:04 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+3156	Sat Apr 09 18:19:22 +0000 2011	4c4766d8417b20a11780dda9	{Penzoil}	{38.44545453471123,-122.71735165485177,Santa Rosa,CA,United States}	{Shop & Service,}
+===
+3156	Tue Mar 15 14:57:42 +0000 2011	4d7500459b28224b3331dd0f	{Santa Rosa Back Fitness}	{38.426473024204874,-122.66688523571406,Santa Rosa,CA,United States}	{Professional & Other Places,}
+3156	Tue Mar 15 14:57:42 +0000 2011	4d7500459b28224b3331dd0f	{Santa Rosa Back Fitness}	{38.426473024204874,-122.66688523571406,Santa Rosa,CA,United States}	{Professional & Other Places,}
+3156	Mon Mar 14 22:25:59 +0000 2011	4d3f9ee9bd53f04d8d0a3d15	{Park Point Health Club}	{38.448196,-122.731197,Santa Rosa,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+3156	Sun Mar 13 02:03:50 +0000 2011	40e0b100f964a52067021fe3	{Loews Coronado Bay Resort}	{32.631465,-117.134999,Coronado,CA,United States}	{Travel & Transport,Outdoors & Recreation,Hotel,}
+3156	Fri Mar 11 17:09:15 +0000 2011	4493522af964a5207c341fe3	{Oakland International Airport (OAK)}	{37.71226740592608,-122.21261143684387,Oakland,CA,United States}	{Travel & Transport,}
+3156	Sat Mar 05 04:40:03 +0000 2011	4a8c747bf964a520140e20e3	{Rendezvous Bistro}	{38.44063843555343,-122.7133296215091,Santa Rosa,CA,United States}	{Nightlife Spot,Food,}
+3156	Sat Feb 26 03:54:29 +0000 2011	44dc9a3cf964a520b2361fe3	{Aroma Roasters}	{38.43808142,-122.72138176666667,Santa Rosa,CA,United States}	{Food,}
+3156	Mon Feb 21 19:21:21 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+3156	Sun Feb 20 23:46:46 +0000 2011	4aaeb93ef964a5200d6320e3	{Hotel Pennsylvania}	{40.75008421113663,-73.99140772979585,New York,NY,United States}	{Travel & Transport,Hotel,}
+3156	Sun Feb 20 02:04:30 +0000 2011	3fd66200f964a520a0e61ee3	{Peking Duck House}	{40.71463892713223,-73.9987564086914,New York,NY,United States}	{Food,}
+3156	Sat Feb 19 23:23:36 +0000 2011	4d5e8138e4fe54814c97689e	{NYC 52 Pad}	{40.755429,-73.96844,New York,NY,United States}	{}
+3156	Sat Feb 19 23:23:36 +0000 2011	4d5e8138e4fe54814c97689e	{NYC 52 Pad}	{40.755429,-73.96844,New York,NY,United States}	{}
+3156	Sat Feb 19 17:18:28 +0000 2011	4a300728f964a52008991fe3	{Nectar Cafe}	{40.776334,-73.962121,New York,NY,United States}	{Food,}
+3156	Fri Feb 18 18:42:15 +0000 2011	42daf100f964a52035261fe3	{Battery Park}	{40.703578337307555,-74.01618003845215,New York,NY,United States}	{Outdoors & Recreation,}
+3156	Fri Feb 18 14:25:14 +0000 2011	4d5e8138e4fe54814c97689e	{NYC 52 Pad}	{40.755429,-73.96844,New York,NY,United States}	{}
+3156	Thu Feb 17 05:20:06 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+3156	Sun Feb 06 06:49:02 +0000 2011	42accc80f964a52050251fe3	{Clift Hotel}	{37.7869508423918,-122.41118473166134,San Francisco,CA,United States}	{Travel & Transport,}
+3156	Thu Jan 20 18:55:38 +0000 2011	4d2ca89e068e8cfa0777ee4c	{Boogalu Productions}	{38.400501,-122.823586,Sebastopol,CA,United States}	{}
+3156	Thu Jan 20 18:55:38 +0000 2011	4d2ca89e068e8cfa0777ee4c	{Boogalu Productions}	{38.400501,-122.823586,Sebastopol,CA,United States}	{}
+3156	Wed Jan 12 21:54:29 +0000 2011	4b3906eef964a520895425e3	{CVS/pharmacy}	{38.43306980999575,-122.74368645542967,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Wed Jan 12 02:21:53 +0000 2011	4d2ca89e068e8cfa0777ee4c	{Boogalu Productions}	{38.400501,-122.823586,Sebastopol,CA,United States}	{}
+3156	Thu Dec 30 01:32:30 +0000 2010	4ae296a6f964a520228f21e3	{Best Buy}	{38.41933451,-122.7100325,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Fri Dec 24 18:15:07 +0000 2010	4b467c29f964a520602226e3	{Carlos' Country Kitchen}	{38.445592,-122.729641,Santa Rosa,CA,United States}	{Food,}
+3156	Wed Dec 22 05:08:07 +0000 2010	43b439b6f964a520bc2c1fe3	{Papalote Mexican Grill}	{37.752163420695425,-122.42097418166016,San Francisco,CA,United States}	{Food,}
+3156	Sun Dec 12 20:39:10 +0000 2010	4cedc2dd821254810d2f61a1	{Summerfield Cinemas}	{38.453510999679565,-122.671499,Santa Rosa,CA,United States}	{Arts & Entertainment,Movie Theater,}
+3156	Sat Dec 11 20:34:21 +0000 2010	4aba9914f964a5200d8220e3	{Apple Store, Santa Rosa Plaza}	{38.4384398079659,-122.716418643098,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Thu Dec 02 06:01:38 +0000 2010	4a8751aaf964a520db0320e3	{Gary's at the Belvedere}	{38.44646233092404,-122.7180520191168,Santa Rosa,CA,United States}	{Nightlife Spot,}
+3156	Thu Dec 02 04:32:32 +0000 2010	4bd7b24fe914a593a8e851fa	{Community Media Center}	{38.450580083333335,-122.71772100970985,Santa Rosa,CA,United States}	{College & University,}
+3156	Sun Nov 28 18:02:16 +0000 2010	4b82b278f964a52007df30e3	{Starbucks}	{38.427599900656006,-122.74110069672766,Santa Rosa,CA,United States}	{Food,}
+3156	Sat Nov 27 19:55:03 +0000 2010	4b51497df964a520d94927e3	{Joe Video}	{38.432943179850305,-122.74287048748738,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Sat Nov 27 00:16:04 +0000 2010	4b399ae2f964a520165e25e3	{Roxy Stadium 14}	{38.43782505684277,-122.71466732025146,Santa Rosa,CA,United States}	{Arts & Entertainment,Movie Theater,}
+3156	Mon Nov 22 23:13:11 +0000 2010	4bd9cf3de914a5937c0358fa	{My Lovely Nails}	{38.46595068322072,-122.74999344661349,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Sun Nov 21 21:23:45 +0000 2010	4c4766d8417b20a11780dda9	{Penzoil}	{38.44545453471123,-122.71735165485177,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Sat Nov 20 20:55:16 +0000 2010	4b62182cf964a52009352ae3	{Safeway}	{38.452025941977794,-122.75284051895142,Santa Rosa,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+3156	Sat Nov 20 18:08:46 +0000 2010	4ba7bc10f964a52057ae39e3	{Old Navy}	{38.45806595,-122.729634,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Sat Nov 20 01:38:27 +0000 2010	4a8727b4f964a520e90220e3	{Stark's Steakhouse}	{38.438985816666666,-122.723096,Santa Rosa,CA,United States}	{Nightlife Spot,Food,}
+3156	Fri Nov 19 17:46:50 +0000 2010	4a85b67ef964a52004ff1fe3	{Starbucks}	{37.763997687562245,-122.45635238446918,San Francisco,CA,United States}	{Food,}
+3156	Thu Nov 18 19:59:26 +0000 2010	4c409d38cc410f47f7e5a961	{Global Materials Recovery (Recycling Center)}	{38.385073,-122.714711,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Thu Nov 18 03:47:47 +0000 2010	4b3906eef964a520895425e3	{CVS/pharmacy}	{38.43306980999575,-122.74368645542967,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Thu Nov 18 03:47:47 +0000 2010	4b3906eef964a520895425e3	{CVS/pharmacy}	{38.43306980999575,-122.74368645542967,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Mon Nov 15 23:29:38 +0000 2010	4b3906eef964a520895425e3	{CVS/pharmacy}	{38.43306980999575,-122.74368645542967,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Sun Nov 14 15:46:59 +0000 2010	4b82b278f964a52007df30e3	{Starbucks}	{38.427599900656006,-122.74110069672766,Santa Rosa,CA,United States}	{Food,}
+3156	Sun Nov 14 04:45:20 +0000 2010	4a944715f964a520122120e3	{Chevys Fresh Mex}	{38.437159,-122.72081026666666,Santa Rosa,CA,United States}	{Food,}
+3156	Sat Nov 13 22:36:08 +0000 2010	44dc9a3cf964a520b2361fe3	{Aroma Roasters}	{38.43808142,-122.72138176666667,Santa Rosa,CA,United States}	{Food,}
+3156	Sat Nov 13 20:33:10 +0000 2010	4c0aa217bbc676b015314ad5	{El Patio}	{38.471691,-122.736537,Santa Rosa,CA,United States}	{Food,}
+3156	Sat Nov 13 20:33:10 +0000 2010	4c0aa217bbc676b015314ad5	{El Patio}	{38.471691,-122.736537,Santa Rosa,CA,United States}	{Food,}
+3156	Sat Nov 13 18:16:04 +0000 2010	4cded5d9aba88cfa6da744d7	{Wonderbread Outlet}	{38.428881,-122.752136,Santa Rosa,CA,United States}	{Food,}
+3156	Sat Nov 13 08:11:09 +0000 2010	4bd4d3626798ef3b9d80628d	{Denny's}	{38.45960044680597,-122.72710117575515,Santa Rosa,CA,United States}	{Food,}
+3156	Wed Nov 10 20:45:42 +0000 2010	4b3d1437f964a5206e8d25e3	{Sweet River Grill & Bar}	{38.45843,-122.72802851,Santa Rosa,CA,United States}	{Food,}
+3156	Wed Nov 10 19:53:55 +0000 2010	4b3003d9f964a52074f424e3	{Kohl's}	{38.48161,-122.73811,Santa Rosa,CA,United States}	{Shop & Service,Clothing Store,}
+3156	Wed Nov 10 04:17:05 +0000 2010	49fcf634f964a520f06e1fe3	{Russian River Brewing Company}	{38.44165705021316,-122.71166324615479,Santa Rosa,CA,United States}	{Nightlife Spot,Food,}
+3156	Wed Nov 10 01:48:14 +0000 2010	44dc9a3cf964a520b2361fe3	{Aroma Roasters}	{38.43808142,-122.72138176666667,Santa Rosa,CA,United States}	{Food,}
+3156	Tue Nov 09 01:18:21 +0000 2010	4c0aa217bbc676b015314ad5	{El Patio}	{38.471691,-122.736537,Santa Rosa,CA,United States}	{Food,}
+3156	Mon Nov 08 22:54:44 +0000 2010	4b3906eef964a520895425e3	{CVS/pharmacy}	{38.43306980999575,-122.74368645542967,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Mon Nov 08 04:32:28 +0000 2010	4a4e6e80f964a52075ae1fe3	{Bear Republic Brewery}	{38.6110736326328,-122.87135422507251,Healdsburg,CA,United States}	{Nightlife Spot,Food,}
+3156	Mon Nov 08 02:01:59 +0000 2010	4bbf8388f8219c743b1bb010	{The 633 Lounge}	{38.617058,-122.863502,Healdsburg,CA,United States}	{Nightlife Spot,Residence,}
+3156	Sun Nov 07 22:27:40 +0000 2010	4b478b80f964a520423526e3	{Bean Affair}	{38.625854682011266,-122.87204251414381,Healdsburg,CA,United States}	{Food,}
+3156	Sat Nov 06 18:48:09 +0000 2010	4ab980baf964a520a37f20e3	{Sea Modern Thai Cuisine}	{38.23081,-122.6330405,Petaluma,CA,United States}	{Food,}
+3156	Fri Nov 05 20:18:15 +0000 2010	4ae2964ff964a520218f21e3	{Target}	{38.416846331371076,-122.70981788635254,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Thu Nov 04 23:17:59 +0000 2010	4b2fd61df964a520ebf024e3	{Cafe Azul}	{38.44044696901975,-122.71398067474365,Santa Rosa,CA,United States}	{Food,Arts & Entertainment,}
+3156	Thu Nov 04 19:48:27 +0000 2010	4b54c5e4f964a520becb27e3	{Kaffe Mocha & Grill}	{38.511583,-122.77964651584625,Santa Rosa,CA,United States}	{Food,}
+3156	Thu Nov 04 16:44:57 +0000 2010	4a8b0519f964a520300b20e3	{3rd Street Cinema 6}	{38.439707464970745,-122.712242603302,Santa Rosa,CA,United States}	{Arts & Entertainment,Movie Theater,}
+3156	Wed Nov 03 17:47:06 +0000 2010	4bb958ee3db7b7134942229a	{Chevron}	{36.83479475480129,-119.91694770113472,Fresno,CA,United States}	{Shop & Service,}
+3156	Wed Nov 03 17:47:06 +0000 2010	4bb958ee3db7b7134942229a	{Chevron}	{36.83479475480129,-119.91694770113472,Fresno,CA,United States}	{Shop & Service,}
+3156	Wed Nov 03 16:00:12 +0000 2010	4bdb4690c79cc92819f381e9	{I5 N}	{36.25421394017256,-120.15362192757661,Huron,CA,United States}	{Travel & Transport,}
+3156	Wed Nov 03 04:16:17 +0000 2010	4cc7672f73fd6dcbd7ce1586	{Kat's Castle}	{34.19349471494656,-118.45719737539774,Van Nuys,CA,United States}	{Residence,}
+3156	Tue Nov 02 23:41:34 +0000 2010	4aa34e46f964a520d74320e3	{Culver Plaza Theatres}	{34.021277,-118.398115,Los Angeles,CA,United States}	{Arts & Entertainment,Movie Theater,}
+3156	Tue Nov 02 20:24:03 +0000 2010	4a5cecc3f964a520debc1fe3	{Larchmont Village Wine & Cheese}	{34.07531591264147,-118.32375548495219,Los Angeles,CA,United States}	{Nightlife Spot,Shop & Service,Food,Food & Drink Shop,}
+3156	Tue Nov 02 18:56:00 +0000 2010	4cce1c8ac0378cfaf6ee9148	{KCJ Pad}	{34.065016229423556,-118.31697144375005,Los Angeles,CA,United States}	{Residence,}
+3156	Tue Nov 02 17:54:14 +0000 2010	4c3f988de26920a1cbb25be7	{Stor It All Self Storage}	{34.126479,-118.262338,Los Angeles,CA,United States}	{Professional & Other Places,}
+3156	Tue Nov 02 06:23:14 +0000 2010	4cce1c8ac0378cfaf6ee9148	{KCJ Pad}	{34.065016229423556,-118.31697144375005,Los Angeles,CA,United States}	{Residence,}
+3156	Tue Nov 02 02:23:22 +0000 2010	49cff672f964a520e95a1fe3	{Beverly Center}	{34.075056969511444,-118.37755680084229,Los Angeles,CA,United States}	{Shop & Service,}
+3156	Tue Nov 02 01:41:44 +0000 2010	42893400f964a5205f231fe3	{ArcLight Cinemas Hollywood}	{34.09722897058994,-118.32819077603945,Los Angeles,CA,United States}	{Arts & Entertainment,Movie Theater,}
+3156	Mon Nov 01 22:26:28 +0000 2010	40a2ba80f964a5200ef31ee3	{Amoeba Music}	{34.09775400505154,-118.32916083276535,Hollywood,CA,United States}	{Shop & Service,Music Venue,Arts & Entertainment,}
+3156	Mon Nov 01 17:26:57 +0000 2010	4cce1c8ac0378cfaf6ee9148	{KCJ Pad}	{34.065016229423556,-118.31697144375005,Los Angeles,CA,United States}	{Residence,}
+3156	Mon Nov 01 17:26:57 +0000 2010	4cce1c8ac0378cfaf6ee9148	{KCJ Pad}	{34.065016229423556,-118.31697144375005,Los Angeles,CA,United States}	{Residence,}
+3156	Mon Nov 01 16:16:35 +0000 2010	4a55476bf964a520fdb31fe3	{Target}	{34.089701053000745,-118.34459781646729,West Hollywood,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3156	Mon Nov 01 01:49:09 +0000 2010	4cce1c8ac0378cfaf6ee9148	{KCJ Pad}	{34.065016229423556,-118.31697144375005,Los Angeles,CA,United States}	{Residence,}
+3156	Sun Oct 31 21:39:06 +0000 2010	441bda53f964a5204b311fe3	{El Compadre}	{34.097862959525614,-118.35222437224552,Los Angeles,CA,United States}	{Food,}
+3156	Sun Oct 31 20:00:52 +0000 2010	4cc7672f73fd6dcbd7ce1586	{Kat's Castle}	{34.19349471494656,-118.45719737539774,Van Nuys,CA,United States}	{Residence,}
+3156	Sun Oct 31 06:39:09 +0000 2010	4b48fad3f964a520876026e3	{Los Angeles Airport Marriott}	{33.946310948091075,-118.38451145146352,Los Angeles,CA,United States}	{Nightlife Spot,Travel & Transport,Hotel,}
+3156	Sun Oct 31 03:20:27 +0000 2010	4c648b35cdb6e21e0cd6323e	{Go Go Luckey Entertainment}	{33.982162326684005,-118.42664992502078,Los Angeles,CA,United States}	{Office,Professional & Other Places,}
+3156	Sun Oct 31 02:17:03 +0000 2010	459b9095f964a5208d401fe3	{Jerry's Famous Deli}	{33.98441569887186,-118.43809268505768,Marina del Rey,CA,United States}	{Food,}
+3156	Sat Oct 30 20:41:08 +0000 2010	4ac26cf3f964a520189920e3	{California Pizza Kitchen}	{34.06221465501849,-118.44725400209427,Los Angeles,CA,United States}	{Food,}
+3156	Sat Oct 30 15:14:04 +0000 2010	4116be80f964a520030c1fe3	{UCLA}	{34.06960033461544,-118.4469723701477,Los Angeles,CA,United States}	{College & University,}
+3156	Sat Oct 30 07:35:17 +0000 2010	4cc7672f73fd6dcbd7ce1586	{Kat's Castle}	{34.19349471494656,-118.45719737539774,Van Nuys,CA,United States}	{Residence,}
+3156	Sat Oct 30 02:34:04 +0000 2010	4b48fad3f964a520876026e3	{Los Angeles Airport Marriott}	{33.946310948091075,-118.38451145146352,Los Angeles,CA,United States}	{Nightlife Spot,Travel & Transport,Hotel,}
+3156	Fri Oct 29 22:20:37 +0000 2010	4ba0fb5bf964a520f98b37e3	{The Ritz-Carlton, Los Angeles}	{34.045339390788456,-118.26677482270878,Los Angeles,CA,United States}	{Nightlife Spot,Travel & Transport,}
+3156	Fri Oct 29 18:02:24 +0000 2010	4b5565daf964a52053e327e3	{Hilton Checkers Los Angeles}	{34.049953836803695,-118.25454384769306,Los Angeles,CA,United States}	{Nightlife Spot,Travel & Transport,Shop & Service,}
+3156	Fri Oct 29 05:36:54 +0000 2010	4cc7672f73fd6dcbd7ce1586	{Kat's Castle}	{34.19349471494656,-118.45719737539774,Van Nuys,CA,United States}	{Residence,}
+3156	Fri Oct 29 05:36:54 +0000 2010	4cc7672f73fd6dcbd7ce1586	{Kat's Castle}	{34.19349471494656,-118.45719737539774,Van Nuys,CA,United States}	{Residence,}
+3156	Fri Oct 29 04:29:26 +0000 2010	4ab928fdf964a520477e20e3	{Antica Pizzeria}	{33.986569968456095,-118.442702293396,Marina del Rey,CA,United States}	{Food,}
+3156	Fri Oct 29 03:23:37 +0000 2010	4b48fad3f964a520876026e3	{Los Angeles Airport Marriott}	{33.946310948091075,-118.38451145146352,Los Angeles,CA,United States}	{Nightlife Spot,Travel & Transport,Hotel,}
+3156	Fri Oct 29 02:18:16 +0000 2010	4c648b35cdb6e21e0cd6323e	{Go Go Luckey Entertainment}	{33.982162326684005,-118.42664992502078,Los Angeles,CA,United States}	{Office,Professional & Other Places,}
+3156	Thu Oct 28 23:27:15 +0000 2010	4b926f53f964a52048f933e3	{Kenneth Hahn State Recreation Area}	{34.00671482842617,-118.36540130735264,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+3156	Thu Oct 28 23:24:22 +0000 2010	4b926f53f964a52048f933e3	{Kenneth Hahn State Recreation Area}	{34.00671482842617,-118.36540130735264,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+3156	Thu Oct 28 21:19:18 +0000 2010	4c50872f3940be9a1ce26507	{Kagan Trim Center}	{33.9921,-118.208043,Vernon,CA,United States}	{}
+3156	Thu Oct 28 04:08:35 +0000 2010	4b48fad3f964a520876026e3	{Los Angeles Airport Marriott}	{33.946310948091075,-118.38451145146352,Los Angeles,CA,United States}	{Nightlife Spot,Travel & Transport,Hotel,}
+3156	Thu Oct 28 02:12:19 +0000 2010	49da7087f964a520875e1fe3	{Chipotle Mexican Grill}	{33.97911478158432,-118.43838930130005,Marina Del Rey,CA,United States}	{Food,}
+3156	Wed Oct 27 22:05:11 +0000 2010	4bd77b2a88559521abb187a7	{I-10 (Santa Monica Freeway)}	{34.033950266743744,-118.3573865890503,Los Angeles,CA,United States}	{Travel & Transport,}
+3156	Wed Oct 27 21:12:28 +0000 2010	4afe5a4bf964a520372f22e3	{Stout Burgers & Beers}	{34.099583,-118.32941,Los Angeles,CA,United States}	{Food,}
+3156	Wed Oct 27 20:05:07 +0000 2010	4a11e892f964a5205d771fe3	{Jet Rag}	{34.08618437747354,-118.3442800489759,Los Angeles,CA,United States}	{Shop & Service,}
+3156	Wed Oct 27 17:54:30 +0000 2010	4a9fceaaf964a520583d20e3	{The Griddle Cafe}	{34.097870604426724,-118.3622682094574,Los Angeles,CA,United States}	{Food,}
+3156	Tue Oct 26 23:41:57 +0000 2010	4cc7672f73fd6dcbd7ce1586	{Kat's Castle}	{34.19349471494656,-118.45719737539774,Van Nuys,CA,United States}	{Residence,}
+3156	Tue Oct 26 19:05:35 +0000 2010	4bb958ee3db7b7134942229a	{Chevron}	{36.83479475480129,-119.91694770113472,Fresno,CA,United States}	{Shop & Service,}
+3156	Tue Oct 26 04:31:50 +0000 2010	4a8751aaf964a520db0320e3	{Gary's at the Belvedere}	{38.44646233092404,-122.7180520191168,Santa Rosa,CA,United States}	{Nightlife Spot,}
+3156	Tue Oct 26 00:52:39 +0000 2010	46d715faf964a5206c4a1fe3	{Olive Garden}	{37.727382106182766,-122.47616529464722,San Francisco,CA,United States}	{Food,}
+3156	Mon Oct 25 19:24:01 +0000 2010	4c0c2333340720a1103b8993	{Guerneville Lodge}	{38.504033,-122.992808,Guerneville,CA,United States}	{Travel & Transport,Hotel,}
+3156	Sun Oct 24 20:08:05 +0000 2010	4b40dcfef964a52070bc25e3	{Sam's for Play Cafe}	{38.429009,-122.73146331310272,Santa Rosa,CA,United States}	{Food,}
+3156	Sat Oct 23 00:28:43 +0000 2010	4c07ce84a9c076b028743923	{Coffee Bazaar}	{38.50258023967657,-122.9973292350769,Guerneville,CA,United States}	{Food,}
+3156	Fri Oct 22 16:14:02 +0000 2010	4cc1b82ef4448cfa5fd65898	{Parcel Box Plus}	{38.50220096004686,-123.00080162224776,Guerneville,CA,United States}	{Professional & Other Places,}
+3156	Fri Oct 22 15:27:46 +0000 2010	4c0c2333340720a1103b8993	{Guerneville Lodge}	{38.504033,-122.992808,Guerneville,CA,United States}	{Travel & Transport,Hotel,}
+3156	Fri Oct 22 15:27:46 +0000 2010	4c0c2333340720a1103b8993	{Guerneville Lodge}	{38.504033,-122.992808,Guerneville,CA,United States}	{Travel & Transport,Hotel,}
+3156	Fri Oct 22 02:57:07 +0000 2010	4b14be02f964a52033a623e3	{Adel's Restaurant}	{38.445451066666664,-122.71793988333333,Santa Rosa,CA,United States}	{Food,}
+3156	Fri Oct 22 01:50:24 +0000 2010	4ad13472f964a5207bdd20e3	{Safeway}	{38.50117696814152,-123.00083461754977,Guerneville,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3156	Wed Oct 20 19:19:57 +0000 2010	4c0c2333340720a1103b8993	{Guerneville Lodge}	{38.504033,-122.992808,Guerneville,CA,United States}	{Travel & Transport,Hotel,}
+3156	Tue Oct 19 22:04:24 +0000 2010	4b0c3538f964a520eb3823e3	{Trader Joe's}	{38.41732880264472,-122.71210152730326,Santa Rosa,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+3156	Tue Oct 19 01:30:31 +0000 2010	49fcf634f964a520f06e1fe3	{Russian River Brewing Company}	{38.44165705021316,-122.71166324615479,Santa Rosa,CA,United States}	{Nightlife Spot,Food,}
+3156	Mon Oct 18 20:07:46 +0000 2010	4b8099b7f964a5201f8030e3	{El Patio Mexican Restaurant}	{38.431788,-122.74323961666667,Santa Rosa,CA,United States}	{Food,}
+3156	Mon Oct 18 17:49:00 +0000 2010	4b0b11fbf964a520662c23e3	{Petaluma DMV}	{38.257458325769825,-122.64630317687988,Petaluma,CA,United States}	{Professional & Other Places,}
+3156	Sun Oct 17 18:06:49 +0000 2010	4b467c29f964a520602226e3	{Carlos' Country Kitchen}	{38.445592,-122.729641,Santa Rosa,CA,United States}	{Food,}
+3156	Sun Oct 17 03:43:58 +0000 2010	44721f17f964a5209f331fe3	{Third Street Aleworks}	{38.439981,-122.71236993333332,Santa Rosa,CA,United States}	{Nightlife Spot,Food,}
+3156	Sat Oct 16 23:00:05 +0000 2010	4b50c872f964a5204d3227e3	{Chase Bank}	{38.44248736015615,-122.70980726922834,Santa Rosa,CA,United States}	{Shop & Service,Professional & Other Places,}
+3156	Sat Oct 16 22:17:53 +0000 2010	4838dd94f964a52001501fe3	{Costco Gas}	{38.41962031052664,-122.7119904756546,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Fri Oct 15 23:09:48 +0000 2010	4bbfe4092a89ef3b89d5ef88	{Sonoma Taco Shop}	{38.44219485756535,-122.70363807678223,Santa Rosa,CA,United States}	{Food,}
+3156	Fri Oct 15 21:16:01 +0000 2010	4aff7905f964a520e83822e3	{Macy's}	{38.44053642,-122.7167616,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Fri Oct 15 20:29:38 +0000 2010	4d5d9f7e1d69b1f7cfbd1dd1	{Comcast}	{38.4731624171142,-122.73780362140134,Santa Rosa,CA,United States}	{Professional & Other Places,}
+3156	Fri Oct 15 20:29:38 +0000 2010	4d5d9f7e1d69b1f7cfbd1dd1	{Comcast}	{38.4731624171142,-122.73780362140134,Santa Rosa,CA,United States}	{Professional & Other Places,}
+3156	Fri Oct 15 19:09:46 +0000 2010	4c0839c06071a593e0f3db32	{US Post Office}	{38.4555739644421,-122.73168334945314,Santa Rosa,CA,United States}	{Professional & Other Places,}
+3156	Thu Oct 14 03:18:49 +0000 2010	4b3ac1eaf964a520f66d25e3	{G&G Market}	{38.44642791067506,-122.74132123307797,Santa Rosa,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+3156	Tue Oct 12 03:24:00 +0000 2010	4b3906eef964a520895425e3	{CVS/pharmacy}	{38.43306980999575,-122.74368645542967,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Mon Oct 11 22:54:53 +0000 2010	4b0c3538f964a520eb3823e3	{Trader Joe's}	{38.41732880264472,-122.71210152730326,Santa Rosa,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+3156	Fri Oct 08 21:47:08 +0000 2010	4c0839c06071a593e0f3db32	{US Post Office}	{38.4555739644421,-122.73168334945314,Santa Rosa,CA,United States}	{Professional & Other Places,}
+3156	Fri Oct 08 17:35:44 +0000 2010	4b674b6df964a5205f462be3	{Chase Bank}	{38.427711,-122.74087250232697,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Tue Oct 05 20:42:12 +0000 2010	4b2fd61df964a520ebf024e3	{Cafe Azul}	{38.44044696901975,-122.71398067474365,Santa Rosa,CA,United States}	{Food,Arts & Entertainment,}
+3156	Tue Oct 05 03:59:03 +0000 2010	4b1c19f5f964a520230224e3	{Oliver's Market}	{38.432690476803515,-122.74364234922145,Santa Rosa,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3156	Sun Oct 03 20:10:36 +0000 2010	4b399ae2f964a520165e25e3	{Roxy Stadium 14}	{38.43782505684277,-122.71466732025146,Santa Rosa,CA,United States}	{Arts & Entertainment,Movie Theater,}
+3156	Sun Oct 03 17:34:11 +0000 2010	4b0ee5f8f964a5207f5c23e3	{24 Hour Fitness}	{38.4764589003154,-122.735967578384,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Sun Oct 03 04:24:40 +0000 2010	4b3906eef964a520895425e3	{CVS/pharmacy}	{38.43306980999575,-122.74368645542967,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Sun Oct 03 04:24:40 +0000 2010	4b3906eef964a520895425e3	{CVS/pharmacy}	{38.43306980999575,-122.74368645542967,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Sat Oct 02 00:52:24 +0000 2010	4b51497df964a520d94927e3	{Joe Video}	{38.432943179850305,-122.74287048748738,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Fri Oct 01 21:05:46 +0000 2010	4ca64d2297c8a1cd7b006fa5	{Barber Insurance}	{38.444238,-122.721003,Santa Rosa,CA,United States}	{Office,Professional & Other Places,}
+3156	Fri Oct 01 20:43:58 +0000 2010	4c6ed236df6b8cfad843b34d	{Loveland Violin Shop}	{38.44071300665104,-122.713061129587,Santa Rosa,CA,United States}	{Arts & Entertainment,}
+3156	Fri Oct 01 20:43:58 +0000 2010	4c6ed236df6b8cfad843b34d	{Loveland Violin Shop}	{38.44071300665104,-122.713061129587,Santa Rosa,CA,United States}	{Arts & Entertainment,}
+3156	Fri Oct 01 18:51:01 +0000 2010	4b0c3538f964a520eb3823e3	{Trader Joe's}	{38.41732880264472,-122.71210152730326,Santa Rosa,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+3156	Fri Oct 01 17:22:18 +0000 2010	4ca61843d971b1f716b6fce0	{Redwood Veterinary Clinic}	{38.41960349885258,-122.71318674087524,Santa Rosa,CA,United States}	{Medical Center,Professional & Other Places,}
+3156	Fri Oct 01 15:17:05 +0000 2010	4b5bc47af964a520001529e3	{Howarth Park}	{38.45231389700849,-122.6685845861318,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+3156	Fri Oct 01 01:56:16 +0000 2010	4b3906eef964a520895425e3	{CVS/pharmacy}	{38.43306980999575,-122.74368645542967,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Thu Sep 30 23:54:37 +0000 2010	4bba1e4953649c7466a548fb	{Raley??s}	{38.34668023326016,-122.70697246577357,Rohnert Park,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3156	Thu Sep 30 22:46:22 +0000 2010	4d5d9f7e1d69b1f7cfbd1dd1	{Comcast}	{38.4731624171142,-122.73780362140134,Santa Rosa,CA,United States}	{Professional & Other Places,}
+3156	Thu Sep 30 21:24:54 +0000 2010	4c6ed236df6b8cfad843b34d	{Loveland Violin Shop}	{38.44071300665104,-122.713061129587,Santa Rosa,CA,United States}	{Arts & Entertainment,}
+3156	Wed Sep 29 21:13:51 +0000 2010	4b3906eef964a520895425e3	{CVS/pharmacy}	{38.43306980999575,-122.74368645542967,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Wed Sep 29 20:54:28 +0000 2010	4b674b6df964a5205f462be3	{Chase Bank}	{38.427711,-122.74087250232697,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Wed Sep 29 06:27:20 +0000 2010	4bd7b24fe914a593a8e851fa	{Community Media Center}	{38.450580083333335,-122.71772100970985,Santa Rosa,CA,United States}	{College & University,}
+3156	Tue Sep 28 21:34:37 +0000 2010	4b62182cf964a52009352ae3	{Safeway}	{38.452025941977794,-122.75284051895142,Santa Rosa,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+3156	Tue Sep 28 20:51:07 +0000 2010	4838dd94f964a52001501fe3	{Costco Gas}	{38.41962031052664,-122.7119904756546,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Tue Sep 28 02:12:15 +0000 2010	4b4bf3c5f964a520ffab26e3	{Trader Joe's}	{38.473542,-122.731886,Santa Rosa,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3156	Mon Sep 27 17:50:55 +0000 2010	4b3906eef964a520895425e3	{CVS/pharmacy}	{38.43306980999575,-122.74368645542967,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Mon Sep 27 03:26:56 +0000 2010	4b663feaf964a520b21a2be3	{Mary's Pizza Shack}	{38.46647184443876,-122.75081813335419,Santa Rosa,CA,United States}	{Food,}
+3156	Sun Sep 26 22:47:55 +0000 2010	4b3906eef964a520895425e3	{CVS/pharmacy}	{38.43306980999575,-122.74368645542967,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Sun Sep 26 21:11:58 +0000 2010	4bbcf636593fef3b76df0256	{Rohnert Park Urgent Care}	{38.34757390326955,-122.68110815106358,Rohnert Park,CA,United States}	{Medical Center,Professional & Other Places,}
+3156	Sun Sep 26 07:45:36 +0000 2010	4b940889f964a520e66234e3	{Cotati Yacht Club & Saloon?}	{38.32710295,-122.707639,Cotati,CA,United States}	{Nightlife Spot,}
+3156	Sun Sep 26 01:02:41 +0000 2010	4bbfe4092a89ef3b89d5ef88	{Sonoma Taco Shop}	{38.44219485756535,-122.70363807678223,Santa Rosa,CA,United States}	{Food,}
+3156	Sun Sep 26 01:02:41 +0000 2010	4bbfe4092a89ef3b89d5ef88	{Sonoma Taco Shop}	{38.44219485756535,-122.70363807678223,Santa Rosa,CA,United States}	{Food,}
+3156	Sat Sep 25 22:56:00 +0000 2010	4c9aa52cd4b1b1f7db3dd235	{Whole Foods Market}	{38.45832721473772,-122.73153305053711,Santa Rosa,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+3156	Sat Sep 25 00:46:34 +0000 2010	4b88a59af964a5209a0632e3	{Blockbuster}	{38.453604530855316,-122.77085776115035,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Wed Sep 22 19:56:50 +0000 2010	4b3906eef964a520895425e3	{CVS/pharmacy}	{38.43306980999575,-122.74368645542967,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Wed Sep 22 18:24:43 +0000 2010	4c6c1c9923c1a1cd36a518cf	{Sutter Pacific Medical Foundation}	{38.390252,-122.814096,Sebastopol,CA,United States}	{}
+3156	Wed Sep 22 02:08:02 +0000 2010	49fcf634f964a520f06e1fe3	{Russian River Brewing Company}	{38.44165705021316,-122.71166324615479,Santa Rosa,CA,United States}	{Nightlife Spot,Food,}
+3156	Tue Sep 21 01:34:55 +0000 2010	4b51497df964a520d94927e3	{Joe Video}	{38.432943179850305,-122.74287048748738,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Tue Sep 21 01:34:55 +0000 2010	4b51497df964a520d94927e3	{Joe Video}	{38.432943179850305,-122.74287048748738,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Mon Sep 20 02:35:20 +0000 2010	4b3906eef964a520895425e3	{CVS/pharmacy}	{38.43306980999575,-122.74368645542967,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Sun Sep 19 23:16:59 +0000 2010	4b51497df964a520d94927e3	{Joe Video}	{38.432943179850305,-122.74287048748738,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Sun Sep 19 23:03:29 +0000 2010	4b1c19f5f964a520230224e3	{Oliver's Market}	{38.432690476803515,-122.74364234922145,Santa Rosa,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3156	Sun Sep 19 00:06:27 +0000 2010	4bd26f829854d13a08d6fb4d	{Rohnert Park 16}	{38.34720286993809,-122.72216035843682,Rohnert Park,CA,United States}	{Arts & Entertainment,}
+3156	Sat Sep 18 23:43:23 +0000 2010	4b4bf3c5f964a520ffab26e3	{Trader Joe's}	{38.473542,-122.731886,Santa Rosa,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3156	Sat Sep 18 05:25:56 +0000 2010	4b3906eef964a520895425e3	{CVS/pharmacy}	{38.43306980999575,-122.74368645542967,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Sat Sep 18 02:43:02 +0000 2010	4b2fd61df964a520ebf024e3	{Cafe Azul}	{38.44044696901975,-122.71398067474365,Santa Rosa,CA,United States}	{Food,Arts & Entertainment,}
+3156	Mon Sep 13 00:24:56 +0000 2010	4b8ab8abf964a5204d7c32e3	{Sam's For Play Cafe & Catering}	{38.463458,-122.72806348333333,Santa Rosa,CA,United States}	{Food,}
+3156	Sat Sep 11 19:02:49 +0000 2010	4b8099b7f964a5201f8030e3	{El Patio Mexican Restaurant}	{38.431788,-122.74323961666667,Santa Rosa,CA,United States}	{Food,}
+3156	Sat Sep 11 17:56:34 +0000 2010	4c86a3d574d7b60ca0e2a5d8	{Video Brite}	{38.445589,-122.723337,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Sat Sep 11 17:56:33 +0000 2010	4c86a3d574d7b60ca0e2a5d8	{Video Brite}	{38.445589,-122.723337,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Sat Sep 11 02:23:17 +0000 2010	4a944715f964a520122120e3	{Chevys Fresh Mex}	{38.437159,-122.72081026666666,Santa Rosa,CA,United States}	{Food,}
+3156	Sat Sep 11 00:50:58 +0000 2010	4b3906eef964a520895425e3	{CVS/pharmacy}	{38.43306980999575,-122.74368645542967,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Thu Sep 09 18:07:14 +0000 2010	4838dd94f964a52001501fe3	{Costco Gas}	{38.41962031052664,-122.7119904756546,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Thu Sep 09 17:33:44 +0000 2010	4afa4964f964a520a31722e3	{Coco's Bakery Restaurant}	{38.434127326543845,-122.68823146820068,Santa Rosa,CA,United States}	{Food,}
+3156	Thu Sep 09 16:29:44 +0000 2010	4bbe27020ec69c7441ea5559	{Lab Corp}	{38.441699,-122.69991755,Santa Rosa,CA,United States}	{}
+3156	Thu Sep 09 02:28:56 +0000 2010	4a875001f964a520d00320e3	{Sweet Spot Pub}	{38.4409099817276,-122.71341193333333,Santa Rosa,CA,United States}	{Nightlife Spot,}
+3156	Tue Sep 07 20:43:14 +0000 2010	4c86a3d574d7b60ca0e2a5d8	{Video Brite}	{38.445589,-122.723337,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Tue Sep 07 15:34:38 +0000 2010	4b5bc47af964a520001529e3	{Howarth Park}	{38.45231389700849,-122.6685845861318,Santa Rosa,CA,United States}	{Outdoors & Recreation,}
+3156	Mon Sep 06 20:00:30 +0000 2010	3fd66200f964a52044ed1ee3	{Vesuvio Cafe}	{37.79763596510826,-122.4063671024748,San Francisco,CA,United States}	{Nightlife Spot,}
+3156	Mon Sep 06 19:16:43 +0000 2010	49bc2d06f964a5201d541fe3	{City Lights Bookstore}	{37.797677287828435,-122.40646666535821,San Francisco,CA,United States}	{Shop & Service,}
+3156	Mon Sep 06 00:58:32 +0000 2010	4ae296a6f964a520228f21e3	{Best Buy}	{38.41933451,-122.7100325,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Sun Sep 05 20:03:12 +0000 2010	44dc7274f964a520aa361fe3	{Kabuki Springs & Spa}	{37.784579014047814,-122.4324438221864,San Francisco,CA,United States}	{Shop & Service,}
+3156	Sun Sep 05 01:31:47 +0000 2010	4b2fd61df964a520ebf024e3	{Cafe Azul}	{38.44044696901975,-122.71398067474365,Santa Rosa,CA,United States}	{Food,Arts & Entertainment,}
+3156	Sat Sep 04 21:08:06 +0000 2010	4b1adcd2f964a52075f323e3	{Macy's}	{38.45778953,-122.7281857,Santa Rosa,CA,United States}	{Shop & Service,Clothing Store,}
+3156	Sat Sep 04 20:17:33 +0000 2010	4b3d1437f964a5206e8d25e3	{Sweet River Grill & Bar}	{38.45843,-122.72802851,Santa Rosa,CA,United States}	{Food,}
+3156	Sat Sep 04 19:10:21 +0000 2010	4c0839c06071a593e0f3db32	{US Post Office}	{38.4555739644421,-122.73168334945314,Santa Rosa,CA,United States}	{Professional & Other Places,}
+3156	Sat Sep 04 19:10:21 +0000 2010	4c0839c06071a593e0f3db32	{US Post Office}	{38.4555739644421,-122.73168334945314,Santa Rosa,CA,United States}	{Professional & Other Places,}
+3156	Fri Sep 03 01:32:31 +0000 2010	4b88798cf964a52097fa31e3	{Stony Point Grill}	{38.441673856753575,-122.7450942993164,Santa Rosa,CA,United States}	{Food,}
+3156	Wed Sep 01 20:43:15 +0000 2010	4b1c19f5f964a520230224e3	{Oliver's Market}	{38.432690476803515,-122.74364234922145,Santa Rosa,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3156	Wed Sep 01 18:53:44 +0000 2010	4b3003d9f964a52074f424e3	{Kohl's}	{38.48161,-122.73811,Santa Rosa,CA,United States}	{Shop & Service,Clothing Store,}
+3156	Wed Sep 01 18:46:14 +0000 2010	4d5d9f7e1d69b1f7cfbd1dd1	{Comcast}	{38.4731624171142,-122.73780362140134,Santa Rosa,CA,United States}	{Professional & Other Places,}
+3156	Wed Sep 01 18:42:05 +0000 2010	4c0839c06071a593e0f3db32	{US Post Office}	{38.4555739644421,-122.73168334945314,Santa Rosa,CA,United States}	{Professional & Other Places,}
+3156	Wed Sep 01 00:07:02 +0000 2010	4b05c406f964a520cbe222e3	{Moylan's  Brewery & Restaurant}	{38.09408967336825,-122.55675388661659,Novato,CA,United States}	{Nightlife Spot,Food,}
+3156	Mon Aug 30 19:24:21 +0000 2010	4bbfe4092a89ef3b89d5ef88	{Sonoma Taco Shop}	{38.44219485756535,-122.70363807678223,Santa Rosa,CA,United States}	{Food,}
+3156	Mon Aug 30 18:48:09 +0000 2010	4bbe263cb42aef3b157e4bc3	{W-Trans}	{38.442558,-122.715068,Santa Rosa,CA,United States}	{Professional & Other Places,}
+3156	Sat Aug 28 05:30:38 +0000 2010	44dc9a3cf964a520b2361fe3	{Aroma Roasters}	{38.43808142,-122.72138176666667,Santa Rosa,CA,United States}	{Food,}
+3156	Thu Aug 26 22:31:41 +0000 2010	49fcf634f964a520f06e1fe3	{Russian River Brewing Company}	{38.44165705021316,-122.71166324615479,Santa Rosa,CA,United States}	{Nightlife Spot,Food,}
+3156	Thu Aug 26 17:45:05 +0000 2010	4bbe263cb42aef3b157e4bc3	{W-Trans}	{38.442558,-122.715068,Santa Rosa,CA,United States}	{Professional & Other Places,}
+3156	Wed Aug 25 20:57:40 +0000 2010	4bf7ed80b182c9b6ff74765a	{Marvin's Of Cotati}	{38.328149910731824,-122.70841193805201,Cotati,CA,United States}	{Food,}
+3156	Tue Aug 24 20:59:52 +0000 2010	4b2fd61df964a520ebf024e3	{Cafe Azul}	{38.44044696901975,-122.71398067474365,Santa Rosa,CA,United States}	{Food,Arts & Entertainment,}
+3156	Tue Aug 24 02:13:03 +0000 2010	4b8099b7f964a5201f8030e3	{El Patio Mexican Restaurant}	{38.431788,-122.74323961666667,Santa Rosa,CA,United States}	{Food,}
+3156	Tue Aug 24 02:12:25 +0000 2010	4b3906eef964a520895425e3	{CVS/pharmacy}	{38.43306980999575,-122.74368645542967,Santa Rosa,CA,United States}	{Shop & Service,}
+3156	Sun Aug 22 23:50:38 +0000 2010	4bb7c2213db7b7131883209a	{La Bufa Mexican Restaurant}	{38.44136987,-122.712243,Santa Rosa,CA,United States}	{Food,}
+3156	Sat Aug 21 19:50:04 +0000 2010	4b399ae2f964a520165e25e3	{Roxy Stadium 14}	{38.43782505684277,-122.71466732025146,Santa Rosa,CA,United States}	{Arts & Entertainment,Movie Theater,}
+3156	Sat Aug 21 00:55:36 +0000 2010	4b91c7dff964a520e9d633e3	{Pizza Gourmet}	{38.454824554590786,-122.7709679971524,Santa Rosa,CA,United States}	{Food,}

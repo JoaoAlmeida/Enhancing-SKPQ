@@ -1,0 +1,675 @@
+265	Fri Aug 12 04:33:33 +0000 2011	4b5ce015f964a520b64829e3	{Borders}	{34.240667901920986,-118.55596661567688,Northridge,CA,United States}	{Shop & Service,}
+265	Fri Aug 12 04:20:59 +0000 2011	4a6b570bf964a5207cce1fe3	{Pacific Northridge Fashion Center All Stadium 10}	{34.240320009863794,-118.5572,Northridge,CA,United States}	{Arts & Entertainment,Movie Theater,}
+265	Thu Aug 11 16:59:19 +0000 2011	4b5a26e4f964a52085b028e3	{Time Warner Cable Media Sales}	{34.172363,-118.602069,Woodland Hills,CA,United States}	{Office,Professional & Other Places,}
+265	Thu Aug 11 01:38:01 +0000 2011	4bbf6f0bb083a593346ea3e9	{UCLA Royce Hall}	{34.0728174811015,-118.44205856323242,Los Angeles,CA,United States}	{College & University,Arts & Entertainment,}
+265	Wed Aug 10 19:48:15 +0000 2011	4c35fe6ded37a5930f5f7103	{Rodeo Realty}	{34.153987977660236,-118.46643380103646,San Fernando Valley,CA,United States}	{Professional & Other Places,}
+265	Tue Aug 09 17:32:32 +0000 2011	4c314e03213c2d7f18d7335d	{ARCO}	{34.25756449529769,-118.535817861557,Northridge,CA,United States}	{Shop & Service,}
+265	Tue Aug 09 17:32:21 +0000 2011	4c6c787fa437224b95912ab1	{Classic Car Wash}	{34.25703375471503,-118.53585445147246,Northridge,CA,United States}	{Shop & Service,}
+265	Tue Aug 09 01:43:05 +0000 2011	4c01bda3b58376b0c0b2443c	{Franks Grill}	{34.252626,-118.531055,Northridge,CA,United States}	{}
+265	Sat Aug 06 18:46:09 +0000 2011	4d921a79608fa1cdc01ca783	{Keller Williams}	{34.23991982844183,-118.53573473672016,Northridge,CA,United States}	{Professional & Other Places,}
+265	Sat Aug 06 18:45:26 +0000 2011	4bccc79f8920b713acbb9edc	{Valvoline Instant Oil Change}	{34.24254629406026,-118.53656703747784,Northridge,CA,United States}	{Shop & Service,}
+265	Sat Aug 06 01:52:54 +0000 2011	4abebb9ff964a5209e8f20e3	{Limon Latin Grill}	{34.284271,-118.76995006,Simi Valley,CA,United States}	{Food,}
+265	Fri Aug 05 02:22:12 +0000 2011	4a9acc89f964a520c83220e3	{Pacific Theatres Winnetka 21}	{34.23823767062169,-118.57406616210938,Chatsworth,CA,United States}	{Arts & Entertainment,Movie Theater,}
+265	Tue Aug 02 22:35:17 +0000 2011	4c184635834e2d7f16ba2880	{Massage Simple}	{34.23422852260242,-118.5584020614624,Northridge,CA,United States}	{Shop & Service,}
+265	Tue Aug 02 07:32:28 +0000 2011	4d921a79608fa1cdc01ca783	{Keller Williams}	{34.23991982844183,-118.53573473672016,Northridge,CA,United States}	{Professional & Other Places,}
+265	Mon Aug 01 06:23:08 +0000 2011	4c22858713c00f4755a187de	{7-Eleven}	{34.25757536868994,-118.5235233737786,Northridge,CA,United States}	{Shop & Service,}
+265	Mon Aug 01 02:11:27 +0000 2011	4cf1c061e94254816b6c6cc5	{Porter Ranch}	{34.28147465787886,-118.57157707214355,Northridge,CA,United States}	{Outdoors & Recreation,}
+265	Mon Aug 01 00:14:17 +0000 2011	4c94e99a03413704096d76ef	{Park}	{34.29291595,-118.570808,Porter R,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+265	Mon Aug 01 00:13:45 +0000 2011	4c33e39ded37a593082b6e03	{Holleigh Bernson Memorial Park}	{34.29198792291964,-118.57071876525879,Porter Ranch,CA,United States}	{Outdoors & Recreation,}
+265	Sun Jul 31 20:42:12 +0000 2011	4c573b6f2308be9a77b3586c	{SUBWAY}	{34.25844057187246,-118.53904681266775,Northridge,CA,United States}	{Food,}
+265	Sun Jul 31 01:44:29 +0000 2011	4aa9b9b4f964a520075520e3	{Red Robin Gourmet Burgers}	{34.23845054040022,-118.5550332069397,Northridge,CA,United States}	{Food,}
+265	Sun Jul 31 00:02:34 +0000 2011	4c33e39ded37a593082b6e03	{Holleigh Bernson Memorial Park}	{34.29198792291964,-118.57071876525879,Porter Ranch,CA,United States}	{Outdoors & Recreation,}
+265	Sat Jul 30 23:52:49 +0000 2011	4ab6a442f964a5205e7820e3	{Albertsons}	{34.25835370342372,-118.53765785694122,Northridge,CA,United States}	{Shop & Service,Food & Drink Shop,}
+265	Fri Jul 29 18:45:19 +0000 2011	4d921a79608fa1cdc01ca783	{Keller Williams}	{34.23991982844183,-118.53573473672016,Northridge,CA,United States}	{Professional & Other Places,}
+265	Fri Jul 29 00:16:07 +0000 2011	4dfff3f4d22d5ec6f276fa79	{Guardian Angel Aquatics}	{34.242125,-118.591633,Los Angeles,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+265	Thu Jul 28 23:29:00 +0000 2011	4c79cbc6df08a1cd3224dc5d	{My Gym Children's Fitness Center}	{34.24158563061937,-118.53529008116183,Northridge,CA,United States}	{Shop & Service,Outdoors & Recreation,Gym / Fitness Center,}
+265	Thu Jul 28 19:20:55 +0000 2011	4d921a79608fa1cdc01ca783	{Keller Williams}	{34.23991982844183,-118.53573473672016,Northridge,CA,United States}	{Professional & Other Places,}
+265	Thu Jul 28 00:48:09 +0000 2011	4bcbd14f3740b71346416365	{Northridge Recreation Center}	{34.253882165144006,-118.53321075439453,Northridge,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+265	Tue Jul 26 23:41:13 +0000 2011	4c0a75d96071a593788adf32	{Tampa Devonshire}	{34.25722000421756,-118.55359407210554,Northridge,CA,United States}	{Travel & Transport,}
+265	Tue Jul 26 20:16:04 +0000 2011	4d921a79608fa1cdc01ca783	{Keller Williams}	{34.23991982844183,-118.53573473672016,Northridge,CA,United States}	{Professional & Other Places,}
+265	Tue Jul 26 16:57:55 +0000 2011	4ab6a442f964a5205e7820e3	{Albertsons}	{34.25835370342372,-118.53765785694122,Northridge,CA,United States}	{Shop & Service,Food & Drink Shop,}
+265	Tue Jul 26 16:57:55 +0000 2011	4ab6a442f964a5205e7820e3	{Albertsons}	{34.25835370342372,-118.53765785694122,Northridge,CA,United States}	{Shop & Service,Food & Drink Shop,}
+265	Tue Jul 26 16:14:13 +0000 2011	44eefbccf964a520e4371fe3	{The Coffee Bean & Tea Leaf}	{34.25807292652068,-118.54033657935739,Northridge,CA,United States}	{Food,}
+265	Tue Jul 26 16:14:13 +0000 2011	44eefbccf964a520e4371fe3	{The Coffee Bean & Tea Leaf}	{34.25807292652068,-118.54033657935739,Northridge,CA,United States}	{Food,}
+265	Mon Jul 25 23:23:08 +0000 2011	4d921a79608fa1cdc01ca783	{Keller Williams}	{34.23991982844183,-118.53573473672016,Northridge,CA,United States}	{Professional & Other Places,}
+265	Mon Jul 25 18:15:29 +0000 2011	4b21c21df964a5201f4124e3	{In-N-Out Burger}	{34.2500777342693,-118.50197106599808,Northridge,CA,United States}	{Food,}
+265	Mon Jul 25 18:14:45 +0000 2011	4bba5b2998c7ef3b81003302	{Balboa Gifted Magnet Elementary School}	{34.24849028684554,-118.50286960601807,Northridge,CA,United States}	{Professional & Other Places,}
+265	Mon Jul 25 18:08:52 +0000 2011	4bb258c314cfd13aadd014ab	{SRAR - Southland Regional Association of Realtors}	{34.20247485929493,-118.50091159343714,,CA,United States}	{Professional & Other Places,}
+265	Mon Jul 25 17:18:00 +0000 2011	4bb7ae321261d13aceb1e798	{Keller Williams Realty}	{34.1551960829757,-118.4726899824581,Encino,CA,United States}	{Office,Professional & Other Places,}
+265	Mon Jul 25 16:14:14 +0000 2011	44eefbccf964a520e4371fe3	{The Coffee Bean & Tea Leaf}	{34.25807292652068,-118.54033657935739,Northridge,CA,United States}	{Food,}
+265	Mon Jul 25 02:31:30 +0000 2011	49c85603f964a52017581fe3	{Tacos Por Favor}	{34.01975963344163,-118.48022332047165,Santa Monica,CA,United States}	{Food,}
+265	Mon Jul 25 01:58:26 +0000 2011	41390580f964a520d81a1fe3	{Tito's Tacos}	{34.00820232097421,-118.4145712852478,Culver City,CA,United States}	{Food,}
+265	Sun Jul 24 22:00:48 +0000 2011	42893400f964a5207e231fe3	{STAPLES Center}	{34.043058660157634,-118.26724290847778,Los Angeles,CA,United States}	{Stadium,Arts & Entertainment,}
+265	Sun Jul 24 20:28:38 +0000 2011	4bc945edfb84c9b649f01a3e	{Carl's Jr.}	{34.26450639098331,-118.5253518819809,Granada Hills,CA,United States}	{Food,}
+265	Sun Jul 24 20:23:29 +0000 2011	4c1babc6b4e62d7f16c3d993	{Wells Fargo}	{34.263585,-118.524291,Granada Hills?,CA,United States}	{Shop & Service,}
+265	Sun Jul 24 19:07:38 +0000 2011	4bcbd14f3740b71346416365	{Northridge Recreation Center}	{34.253882165144006,-118.53321075439453,Northridge,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+265	Sat Jul 23 16:33:59 +0000 2011	4bcbd14f3740b71346416365	{Northridge Recreation Center}	{34.253882165144006,-118.53321075439453,Northridge,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+265	Sat Jul 23 02:46:53 +0000 2011	4a3a7307f964a520e59f1fe3	{The Coffee Bean & Tea Leaf}	{34.06974342311764,-118.35083642891045,Los Angeles,CA,United States}	{Food,}
+265	Sat Jul 23 02:38:41 +0000 2011	4d35307b72a8b1f7b45bb7d0	{Park La Brea Apartments}	{34.06801871371189,-118.3538565647572,Los Angeles,CA,United States}	{Residence,}
+265	Fri Jul 22 18:34:19 +0000 2011	4bccc79f8920b713acbb9edc	{Valvoline Instant Oil Change}	{34.24254629406026,-118.53656703747784,Northridge,CA,United States}	{Shop & Service,}
+265	Fri Jul 22 16:55:40 +0000 2011	4d921a79608fa1cdc01ca783	{Keller Williams}	{34.23991982844183,-118.53573473672016,Northridge,CA,United States}	{Professional & Other Places,}
+265	Fri Jul 22 16:55:40 +0000 2011	4d921a79608fa1cdc01ca783	{Keller Williams}	{34.23991982844183,-118.53573473672016,Northridge,CA,United States}	{Professional & Other Places,}
+265	Fri Jul 22 02:51:42 +0000 2011	4d7bbd32cf3f370427104240	{Socialmediadirect}	{34.252627,-118.531084,Los Angeles,CA,United States}	{Office,Professional & Other Places,}
+265	Fri Jul 22 02:33:55 +0000 2011	4c8ab3f11eafb1f70ac57c35	{Firestone Complete Care}	{34.24227307959704,-118.55409567871328,Northridge,CA,United States}	{Shop & Service,}
+265	Fri Jul 22 02:33:35 +0000 2011	4a57e2fff964a52003b71fe3	{Romano's Macaroni Grill}	{34.24218920165577,-118.5561875897062,Northridge,CA,United States}	{Food,}
+265	Fri Jul 22 02:33:35 +0000 2011	4a57e2fff964a52003b71fe3	{Romano's Macaroni Grill}	{34.24218920165577,-118.5561875897062,Northridge,CA,United States}	{Food,}
+265	Fri Jul 22 02:33:17 +0000 2011	4a6b570bf964a5207cce1fe3	{Pacific Northridge Fashion Center All Stadium 10}	{34.240320009863794,-118.5572,Northridge,CA,United States}	{Arts & Entertainment,Movie Theater,}
+265	Fri Jul 22 01:29:20 +0000 2011	4ab308bff964a5205a6d20e3	{Gelson's}	{34.241869687458696,-118.55948567390442,Northridge,CA,United States}	{Shop & Service,Food & Drink Shop,}
+265	Fri Jul 22 00:16:09 +0000 2011	4d921a79608fa1cdc01ca783	{Keller Williams}	{34.23991982844183,-118.53573473672016,Northridge,CA,United States}	{Professional & Other Places,}
+265	Thu Jul 21 16:37:18 +0000 2011	4bb258c314cfd13aadd014ab	{SRAR - Southland Regional Association of Realtors}	{34.20247485929493,-118.50091159343714,,CA,United States}	{Professional & Other Places,}
+265	Thu Jul 21 04:34:59 +0000 2011	49c419fff964a52097561fe3	{Panera Bread}	{34.23521645943571,-118.56190458339282,Northridge,CA,United States}	{Shop & Service,Food,}
+265	Thu Jul 21 02:14:28 +0000 2011	4a908821f964a520621820e3	{Apple Store, Topanga}	{34.1902373711111,-118.603103308888,Canoga Park,CA,United States}	{Shop & Service,}
+265	Thu Jul 21 02:00:22 +0000 2011	4abd1576f964a5205d8820e3	{Westfield Topanga}	{34.19036482091363,-118.60397310066374,Canoga Park,CA,United States}	{Shop & Service,}
+265	Wed Jul 20 18:17:19 +0000 2011	4d921a79608fa1cdc01ca783	{Keller Williams}	{34.23991982844183,-118.53573473672016,Northridge,CA,United States}	{Professional & Other Places,}
+265	Wed Jul 20 17:21:49 +0000 2011	4c6ca2e0e13db60c16d3d6b1	{Pinnacle Escrow}	{34.236687,-118.537543,Northridge,CA,United States}	{Professional & Other Places,}
+265	Wed Jul 20 16:47:10 +0000 2011	4b44e0f2f964a5200eff25e3	{Cruisers Car Wash}	{34.23171544246279,-118.55271055673124,Northridge,CA,United States}	{Shop & Service,}
+265	Tue Jul 19 21:46:57 +0000 2011	4c2e1201e307d13a31da0eda	{Park Regency}	{34.25521647409723,-118.50154976001387,Granada Hills,CA,United States}	{Professional & Other Places,}
+265	Tue Jul 19 21:38:37 +0000 2011	4bba5b2998c7ef3b81003302	{Balboa Gifted Magnet Elementary School}	{34.24849028684554,-118.50286960601807,Northridge,CA,United States}	{Professional & Other Places,}
+265	Tue Jul 19 18:32:04 +0000 2011	4d921a79608fa1cdc01ca783	{Keller Williams}	{34.23991982844183,-118.53573473672016,Northridge,CA,United States}	{Professional & Other Places,}
+265	Tue Jul 19 15:53:17 +0000 2011	44eefbccf964a520e4371fe3	{The Coffee Bean & Tea Leaf}	{34.25807292652068,-118.54033657935739,Northridge,CA,United States}	{Food,}
+265	Tue Jul 19 15:52:16 +0000 2011	4ab6a442f964a5205e7820e3	{Albertsons}	{34.25835370342372,-118.53765785694122,Northridge,CA,United States}	{Shop & Service,Food & Drink Shop,}
+265	Tue Jul 19 01:53:40 +0000 2011	4b51fb5af964a520255f27e3	{Northridge Little League}	{34.2583081556509,-118.54184007778238,Northridge,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+265	Tue Jul 19 01:53:27 +0000 2011	44eefbccf964a520e4371fe3	{The Coffee Bean & Tea Leaf}	{34.25807292652068,-118.54033657935739,Northridge,CA,United States}	{Food,}
+265	Tue Jul 19 01:52:03 +0000 2011	4da9ce32f7b145b37000bf52	{LAFD Fire Station 70}	{34.24974960513412,-118.53647232055664,Northridge,CA,United States}	{Government Building,Professional & Other Places,}
+265	Mon Jul 18 20:42:29 +0000 2011	4d921a79608fa1cdc01ca783	{Keller Williams}	{34.23991982844183,-118.53573473672016,Northridge,CA,United States}	{Professional & Other Places,}
+265	Mon Jul 18 18:27:18 +0000 2011	44eefc32f964a520e5371fe3	{Starbucks}	{34.25662009606791,-118.53712141513824,Northridge,CA,United States}	{Food,}
+265	Mon Jul 18 17:44:01 +0000 2011	44eefbccf964a520e4371fe3	{The Coffee Bean & Tea Leaf}	{34.25807292652068,-118.54033657935739,Northridge,CA,United States}	{Food,}
+265	Mon Jul 18 02:59:07 +0000 2011	4baed9c4f964a5200add3be3	{Baskin-Robbins}	{34.24349440522412,-118.53597416613748,Northridge,CA,United States}	{Food,}
+265	Mon Jul 18 02:39:43 +0000 2011	4a0ddea8f964a520a9751fe3	{Northridge Fashion Center}	{34.23857471418914,-118.55578422546387,Northridge,CA,United States}	{Shop & Service,Clothing Store,}
+265	Sun Jul 17 23:07:09 +0000 2011	4c03fa5a0d0e0f47174c039a	{Zuma Beach - Tower 10}	{34.023024830168254,-118.8328904320796,Malibu,CA,United States}	{Outdoors & Recreation,}
+265	Sun Jul 17 20:31:52 +0000 2011	4b9d5068f964a520d6a236e3	{Jamba Juice}	{34.2567553275939,-118.53728771209717,Northridge,CA,United States}	{Food,}
+265	Sun Jul 17 20:31:36 +0000 2011	44eefc32f964a520e5371fe3	{Starbucks}	{34.25662009606791,-118.53712141513824,Northridge,CA,United States}	{Food,}
+265	Sun Jul 17 20:29:18 +0000 2011	4b51fb5af964a520255f27e3	{Northridge Little League}	{34.2583081556509,-118.54184007778238,Northridge,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+265	Sun Jul 17 20:29:18 +0000 2011	4b51fb5af964a520255f27e3	{Northridge Little League}	{34.2583081556509,-118.54184007778238,Northridge,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+265	Sat Jul 16 20:35:05 +0000 2011	4b44e0f2f964a5200eff25e3	{Cruisers Car Wash}	{34.23171544246279,-118.55271055673124,Northridge,CA,United States}	{Shop & Service,}
+265	Sat Jul 16 20:35:04 +0000 2011	4b44e0f2f964a5200eff25e3	{Cruisers Car Wash}	{34.23171544246279,-118.55271055673124,Northridge,CA,United States}	{Shop & Service,}
+265	Sat Jul 16 20:25:37 +0000 2011	4a0ddea8f964a520a9751fe3	{Northridge Fashion Center}	{34.23857471418914,-118.55578422546387,Northridge,CA,United States}	{Shop & Service,Clothing Store,}
+265	Sat Jul 16 19:52:36 +0000 2011	4b9d5068f964a520d6a236e3	{Jamba Juice}	{34.2567553275939,-118.53728771209717,Northridge,CA,United States}	{Food,}
+265	Sat Jul 16 01:21:15 +0000 2011	4c964f23f244b1f78c43331d	{Temple Ahavat Shalom}	{34.27633278463831,-118.52943420410156,Northridge,CA,United States}	{Spiritual Center,Professional & Other Places,}
+265	Sat Jul 16 00:16:51 +0000 2011	4b6ef7a5f964a520bcd32ce3	{Ralphs}	{34.26362296426705,-118.52413909446429,Granada Hills,CA,United States}	{Shop & Service,Food & Drink Shop,}
+265	Fri Jul 15 23:06:30 +0000 2011	4c238b009a67a5936735de87	{Pinnacle Estate Properties, Inc.}	{34.2581946,-118.46646246666667,Mission Hills,CA,United States}	{Professional & Other Places,}
+265	Fri Jul 15 23:06:29 +0000 2011	4c238b009a67a5936735de87	{Pinnacle Estate Properties, Inc.}	{34.2581946,-118.46646246666667,Mission Hills,CA,United States}	{Professional & Other Places,}
+265	Fri Jul 15 22:56:20 +0000 2011	4baa262df964a520734e3ae3	{Shell}	{34.25759331482578,-118.5236245393753,Northridge,CA,United States}	{Shop & Service,}
+265	Fri Jul 15 22:56:20 +0000 2011	4baa262df964a520734e3ae3	{Shell}	{34.25759331482578,-118.5236245393753,Northridge,CA,United States}	{Shop & Service,}
+265	Fri Jul 15 17:36:03 +0000 2011	4da9ce32f7b145b37000bf52	{LAFD Fire Station 70}	{34.24974960513412,-118.53647232055664,Northridge,CA,United States}	{Government Building,Professional & Other Places,}
+265	Fri Jul 15 04:15:40 +0000 2011	4c01bda3b58376b0c0b2443c	{Franks Grill}	{34.252626,-118.531055,Northridge,CA,United States}	{}
+265	Fri Jul 15 02:18:12 +0000 2011	4c8fb1ee1992a1cd1d28e8fb	{10400 Sylvia Northridge}	{34.26180584318791,-118.55061575123747,Northridge,CA,United States}	{Residence,}
+265	Fri Jul 15 01:59:00 +0000 2011	4b51fb5af964a520255f27e3	{Northridge Little League}	{34.2583081556509,-118.54184007778238,Northridge,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+265	Fri Jul 15 01:58:21 +0000 2011	44eefc32f964a520e5371fe3	{Starbucks}	{34.25662009606791,-118.53712141513824,Northridge,CA,United States}	{Food,}
+265	Fri Jul 15 01:22:04 +0000 2011	4b5746eef964a520e12e28e3	{Carl's Jr.}	{34.24976734187683,-118.58882904052734,Chatsworth,CA,United States}	{Food,}
+265	Thu Jul 14 23:47:15 +0000 2011	4bd1d6b3462cb71398fada07	{Jamba Juice}	{34.242282104371526,-118.55968952178955,Northridge,CA,United States}	{Food,}
+265	Thu Jul 14 17:30:42 +0000 2011	4d921a79608fa1cdc01ca783	{Keller Williams}	{34.23991982844183,-118.53573473672016,Northridge,CA,United States}	{Professional & Other Places,}
+265	Thu Jul 14 03:04:25 +0000 2011	4c964f23f244b1f78c43331d	{Temple Ahavat Shalom}	{34.27633278463831,-118.52943420410156,Northridge,CA,United States}	{Spiritual Center,Professional & Other Places,}
+265	Thu Jul 14 03:04:25 +0000 2011	4c964f23f244b1f78c43331d	{Temple Ahavat Shalom}	{34.27633278463831,-118.52943420410156,Northridge,CA,United States}	{Spiritual Center,Professional & Other Places,}
+265	Thu Jul 14 01:35:57 +0000 2011	4c33e39ded37a593082b6e03	{Holleigh Bernson Memorial Park}	{34.29198792291964,-118.57071876525879,Porter Ranch,CA,United States}	{Outdoors & Recreation,}
+265	Thu Jul 14 01:26:19 +0000 2011	4c6c787fa437224b95912ab1	{Classic Car Wash}	{34.25703375471503,-118.53585445147246,Northridge,CA,United States}	{Shop & Service,}
+265	Tue Jul 12 18:56:43 +0000 2011	4d921a79608fa1cdc01ca783	{Keller Williams}	{34.23991982844183,-118.53573473672016,Northridge,CA,United States}	{Professional & Other Places,}
+265	Tue Jul 12 18:54:14 +0000 2011	4da9ce32f7b145b37000bf52	{LAFD Fire Station 70}	{34.24974960513412,-118.53647232055664,Northridge,CA,United States}	{Government Building,Professional & Other Places,}
+265	Tue Jul 12 15:39:54 +0000 2011	4d7bbd32cf3f370427104240	{Socialmediadirect}	{34.252627,-118.531084,Los Angeles,CA,United States}	{Office,Professional & Other Places,}
+265	Tue Jul 12 01:02:00 +0000 2011	4c8fb1ee1992a1cd1d28e8fb	{10400 Sylvia Northridge}	{34.26180584318791,-118.55061575123747,Northridge,CA,United States}	{Residence,}
+265	Mon Jul 11 20:02:27 +0000 2011	4b86c869f964a520f59c31e3	{Re/Max OTB Estates}	{34.186023,-118.60637068748474,Woodland Hills,CA,United States}	{Professional & Other Places,}
+265	Fri Jul 08 18:44:33 +0000 2011	4dd9fe2ac65bee535aefe87f	{World Series of Poker (WSOP 2011)}	{36.1185109,-115.186487,Las Vegas,NV,United States}	{Arts & Entertainment,}
+265	Fri Jul 08 18:43:22 +0000 2011	458fd461f964a5201c401fe3	{Rio All-Suite Hotel & Casino}	{36.11711156556251,-115.1876163482666,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,Professional & Other Places,}
+265	Fri Jul 08 07:36:54 +0000 2011	4dd9fe2ac65bee535aefe87f	{World Series of Poker (WSOP 2011)}	{36.1185109,-115.186487,Las Vegas,NV,United States}	{Arts & Entertainment,}
+265	Fri Jul 08 01:35:42 +0000 2011	4c2e89cd66e40f475577c08b	{KGB: Kerry??s Gourmet Burgers}	{36.11945592774841,-115.17243504524231,Las Vegas,NV,United States}	{Food,}
+265	Thu Jul 07 23:58:09 +0000 2011	49de9ae9f964a5208b601fe3	{Gold Coast Hotel & Casino}	{36.11636133358798,-115.19272838256532,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,}
+265	Thu Jul 07 01:55:38 +0000 2011	4bd4a4d8cfa7b7137e8a24da	{California / Nevada Stateline}	{35.6072428437229,-115.39137840270996,Primm,CA,United States}	{Travel & Transport,}
+265	Wed Jul 06 21:43:23 +0000 2011	4b44e0f2f964a5200eff25e3	{Cruisers Car Wash}	{34.23171544246279,-118.55271055673124,Northridge,CA,United States}	{Shop & Service,}
+265	Wed Jul 06 19:44:49 +0000 2011	4d921a79608fa1cdc01ca783	{Keller Williams}	{34.23991982844183,-118.53573473672016,Northridge,CA,United States}	{Professional & Other Places,}
+265	Wed Jul 06 17:52:18 +0000 2011	4b5ce015f964a520b64829e3	{Borders}	{34.240667901920986,-118.55596661567688,Northridge,CA,United States}	{Shop & Service,}
+265	Wed Jul 06 15:46:27 +0000 2011	4d7bbd32cf3f370427104240	{Socialmediadirect}	{34.252627,-118.531084,Los Angeles,CA,United States}	{Office,Professional & Other Places,}
+265	Wed Jul 06 01:15:02 +0000 2011	4bccc79f8920b713acbb9edc	{Valvoline Instant Oil Change}	{34.24254629406026,-118.53656703747784,Northridge,CA,United States}	{Shop & Service,}
+265	Wed Jul 06 00:20:27 +0000 2011	4dfff3f4d22d5ec6f276fa79	{Guardian Angel Aquatics}	{34.242125,-118.591633,Los Angeles,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+265	Tue Jul 05 21:47:21 +0000 2011	4d921a79608fa1cdc01ca783	{Keller Williams}	{34.23991982844183,-118.53573473672016,Northridge,CA,United States}	{Professional & Other Places,}
+265	Tue Jul 05 17:55:47 +0000 2011	4d921a79608fa1cdc01ca783	{Keller Williams}	{34.23991982844183,-118.53573473672016,Northridge,CA,United States}	{Professional & Other Places,}
+265	Tue Jul 05 17:49:03 +0000 2011	4c6c787fa437224b95912ab1	{Classic Car Wash}	{34.25703375471503,-118.53585445147246,Northridge,CA,United States}	{Shop & Service,}
+265	Tue Jul 05 17:44:39 +0000 2011	4bcdc6f40687ef3ba564e1cc	{OfficeMax}	{34.2633280726422,-118.5260526462261,Granada Hills,CA,United States}	{Shop & Service,}
+265	Tue Jul 05 00:19:40 +0000 2011	4bcdc6f40687ef3ba564e1cc	{OfficeMax}	{34.2633280726422,-118.5260526462261,Granada Hills,CA,United States}	{Shop & Service,}
+265	Tue Jul 05 00:13:47 +0000 2011	4c3b8e98d94dc9b6f70100e8	{Wells Fargo}	{34.271725,-118.499745,Granada Hills,CA,United States}	{Shop & Service,}
+265	Tue Jul 05 00:13:47 +0000 2011	4c3b8e98d94dc9b6f70100e8	{Wells Fargo}	{34.271725,-118.499745,Granada Hills,CA,United States}	{Shop & Service,}
+265	Tue Jul 05 00:08:51 +0000 2011	4afc5b9af964a520e52122e3	{Trader Joe's}	{34.27267122456249,-118.50179672241211,Granada Hills,CA,United States}	{Shop & Service,Food & Drink Shop,}
+265	Mon Jul 04 23:45:21 +0000 2011	4bb11797f964a520b7793ce3	{Target}	{34.27260916284788,-118.50334167480469,Granada Hills,CA,United States}	{Shop & Service,}
+265	Mon Jul 04 19:56:25 +0000 2011	4c01bda3b58376b0c0b2443c	{Franks Grill}	{34.252626,-118.531055,Northridge,CA,United States}	{}
+265	Mon Jul 04 19:55:53 +0000 2011	4d7bbd32cf3f370427104240	{Socialmediadirect}	{34.252627,-118.531084,Los Angeles,CA,United States}	{Office,Professional & Other Places,}
+265	Mon Jul 04 01:54:00 +0000 2011	4c7edd4c01df3704ef9ee4ac	{CPK}	{34.24033308407509,-118.55526924133301,Northridge,CA,United States}	{Food,}
+265	Sun Jul 03 23:06:28 +0000 2011	4c0a75d96071a593788adf32	{Tampa Devonshire}	{34.25722000421756,-118.55359407210554,Northridge,CA,United States}	{Travel & Transport,}
+265	Sun Jul 03 23:06:28 +0000 2011	4c0a75d96071a593788adf32	{Tampa Devonshire}	{34.25722000421756,-118.55359407210554,Northridge,CA,United States}	{Travel & Transport,}
+265	Sun Jul 03 23:04:14 +0000 2011	4ae3344ef964a520a09121e3	{Whole Foods Market}	{34.27445326282397,-118.55619192123413,Northridge,CA,United States}	{Shop & Service,Food & Drink Shop,}
+265	Sun Jul 03 22:40:17 +0000 2011	4c26a7b1a852c928a418e76c	{Costco Gasoline Station}	{34.231496515915886,-118.55198621749878,Northridge,CA,United States}	{Shop & Service,}
+265	Sun Jul 03 22:30:39 +0000 2011	4ab308bff964a5205a6d20e3	{Gelson's}	{34.241869687458696,-118.55948567390442,Northridge,CA,United States}	{Shop & Service,Food & Drink Shop,}
+265	Sun Jul 03 22:01:04 +0000 2011	4b82040ef964a520c8c730e3	{Apple Store, Northridge}	{34.2396176052234,-118.556073088477,Northridge,CA,United States}	{Shop & Service,}
+265	Sun Jul 03 21:56:27 +0000 2011	4bad4a42f964a52099423be3	{Disney Store}	{34.24030168428919,-118.55554550886154,Northridge,CA,United States}	{Shop & Service,}
+265	Sun Jul 03 21:39:18 +0000 2011	4b82040ef964a520c8c730e3	{Apple Store, Northridge}	{34.2396176052234,-118.556073088477,Northridge,CA,United States}	{Shop & Service,}
+265	Sun Jul 03 21:38:26 +0000 2011	4b5ce015f964a520b64829e3	{Borders}	{34.240667901920986,-118.55596661567688,Northridge,CA,United States}	{Shop & Service,}
+265	Sun Jul 03 20:44:54 +0000 2011	4b2d5f2ff964a52040d524e3	{Build-A-Bear Workshop}	{34.237716828718874,-118.55648968908532,Northridge,CA,United States}	{Shop & Service,}
+265	Sun Jul 03 20:39:47 +0000 2011	4a0ddea8f964a520a9751fe3	{Northridge Fashion Center}	{34.23857471418914,-118.55578422546387,Northridge,CA,United States}	{Shop & Service,Clothing Store,}
+265	Sun Jul 03 20:18:41 +0000 2011	4bc6b00c51b376b00efa1b6f	{Wells Fargo}	{34.23035681247711,-118.56181,Northridge,CA,United States}	{Shop & Service,}
+265	Sun Jul 03 20:11:45 +0000 2011	4b80ad7ff964a5208a8530e3	{AT&T}	{34.23420734324474,-118.55249965235672,Northridge,CA,United States}	{Shop & Service,}
+265	Sun Jul 03 20:11:26 +0000 2011	4c0ff5766b7e2d7feadc2635	{Northridge Mall Play Area}	{34.238674577888624,-118.55487088590348,Northridge,CA,United States}	{Outdoors & Recreation,}
+265	Sun Jul 03 03:00:10 +0000 2011	4b5ce015f964a520b64829e3	{Borders}	{34.240667901920986,-118.55596661567688,Northridge,CA,United States}	{Shop & Service,}
+265	Sun Jul 03 02:59:42 +0000 2011	4b82040ef964a520c8c730e3	{Apple Store, Northridge}	{34.2396176052234,-118.556073088477,Northridge,CA,United States}	{Shop & Service,}
+265	Sun Jul 03 01:08:05 +0000 2011	4c7edd4c01df3704ef9ee4ac	{CPK}	{34.24033308407509,-118.55526924133301,Northridge,CA,United States}	{Food,}
+265	Sun Jul 03 01:07:31 +0000 2011	4a0ddea8f964a520a9751fe3	{Northridge Fashion Center}	{34.23857471418914,-118.55578422546387,Northridge,CA,United States}	{Shop & Service,Clothing Store,}
+265	Sun Jul 03 00:11:32 +0000 2011	4d66ef83f23f37049392c133	{Myrnas Hair Salon}	{34.245693,-118.507315,,,United States}	{Shop & Service,}
+265	Sat Jul 02 23:46:05 +0000 2011	4bec760816e99c74156508e2	{Keller Williams VIP Properties}	{34.40994582777329,-118.5755607205166,Valencia,CA,United States}	{Professional & Other Places,}
+265	Sat Jul 02 20:43:46 +0000 2011	4b4a7c85f964a5200b8926e3	{Scooters Jungle}	{34.44787069562469,-118.57793731891128,Valencia,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+265	Sat Jul 02 16:09:07 +0000 2011	4b981263f964a520612a35e3	{Santa Clarita Aquatics Center}	{34.41176028935178,-118.49969387054443,Santa Clarita,CA,United States}	{Outdoors & Recreation,Shop & Service,Gym / Fitness Center,}
+265	Fri Jul 01 18:48:33 +0000 2011	4a179fb5f964a5206b791fe3	{Six Flags Magic Mountain}	{34.42369099064766,-118.5944690274224,Valencia,CA,United States}	{Arts & Entertainment,Theme Park,}
+265	Fri Jul 01 04:26:00 +0000 2011	4b7d9452f964a520edc72fe3	{Poquito Mas}	{34.237995,-118.571711,Chatsworth,CA,United States}	{Food,}
+265	Thu Jun 30 20:23:17 +0000 2011	4b7c5552f964a520e88c2fe3	{Togo's Sandwiches}	{34.241397,-118.55918,Northridge,CA,United States}	{Food,}
+265	Thu Jun 30 18:27:49 +0000 2011	4d921a79608fa1cdc01ca783	{Keller Williams}	{34.23991982844183,-118.53573473672016,Northridge,CA,United States}	{Professional & Other Places,}
+265	Thu Jun 30 17:30:36 +0000 2011	44eefc32f964a520e5371fe3	{Starbucks}	{34.25662009606791,-118.53712141513824,Northridge,CA,United States}	{Food,}
+265	Thu Jun 30 01:05:22 +0000 2011	4bcbd14f3740b71346416365	{Northridge Recreation Center}	{34.253882165144006,-118.53321075439453,Northridge,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+265	Wed Jun 29 22:00:20 +0000 2011	4d921a79608fa1cdc01ca783	{Keller Williams}	{34.23991982844183,-118.53573473672016,Northridge,CA,United States}	{Professional & Other Places,}
+265	Wed Jun 29 19:42:32 +0000 2011	4ab561f2f964a5204e7420e3	{Los Angeles Valley College}	{34.175746011494866,-118.4209656715393,Van Nuys,CA,United States}	{College & University,}
+265	Wed Jun 29 16:23:22 +0000 2011	4d921a79608fa1cdc01ca783	{Keller Williams}	{34.23991982844183,-118.53573473672016,Northridge,CA,United States}	{Professional & Other Places,}
+265	Wed Jun 29 03:37:29 +0000 2011	4ac77918f964a5206eb720e3	{Bagel Bagel}	{34.275241,-118.563499,Northridge,CA,United States}	{Food,}
+265	Wed Jun 29 03:37:08 +0000 2011	4babe16cf964a520b8d13ae3	{Pick Up Stix}	{34.27533209323883,-118.563497,Porter Ranch,CA,United States}	{Food,}
+265	Wed Jun 29 01:28:02 +0000 2011	4b5525d7f964a520d6dc27e3	{Babies "R" Us}	{34.27713699757376,-118.56939394179467,Porter Ranch,CA,United States}	{Shop & Service,Clothing Store,}
+265	Wed Jun 29 01:27:43 +0000 2011	4b1d6417f964a520dc0f24e3	{Islands Restaurant}	{34.276083,-118.569775,Northridge,CA,United States}	{Food,}
+265	Wed Jun 29 01:18:40 +0000 2011	4c0a75d96071a593788adf32	{Tampa Devonshire}	{34.25722000421756,-118.55359407210554,Northridge,CA,United States}	{Travel & Transport,}
+265	Wed Jun 29 00:28:48 +0000 2011	4d921a79608fa1cdc01ca783	{Keller Williams}	{34.23991982844183,-118.53573473672016,Northridge,CA,United States}	{Professional & Other Places,}
+265	Tue Jun 28 21:36:59 +0000 2011	4cbdfddd97bc721e9d007d67	{Encino Atrium}	{34.15758,-118.49335421999999,Encino,CA,United States}	{Professional & Other Places,}
+265	Tue Jun 28 19:54:51 +0000 2011	4bc945edfb84c9b649f01a3e	{Carl's Jr.}	{34.26450639098331,-118.5253518819809,Granada Hills,CA,United States}	{Food,}
+265	Tue Jun 28 16:58:19 +0000 2011	4aff322bf964a520c63522e3	{Regal Simi Valley Civic Center Stadium 16 & IMAX}	{34.28420504201194,-118.71899127960205,Simi Valley,CA,United States}	{Arts & Entertainment,Movie Theater,}
+265	Tue Jun 28 16:23:17 +0000 2011	4c26a7b1a852c928a418e76c	{Costco Gasoline Station}	{34.231496515915886,-118.55198621749878,Northridge,CA,United States}	{Shop & Service,}
+265	Tue Jun 28 16:22:27 +0000 2011	4b44e0f2f964a5200eff25e3	{Cruisers Car Wash}	{34.23171544246279,-118.55271055673124,Northridge,CA,United States}	{Shop & Service,}
+265	Mon Jun 27 18:21:52 +0000 2011	4d921a79608fa1cdc01ca783	{Keller Williams}	{34.23991982844183,-118.53573473672016,Northridge,CA,United States}	{Professional & Other Places,}
+265	Mon Jun 27 16:56:57 +0000 2011	4b3f9949f964a52003aa25e3	{LA Fitness}	{34.2582356171037,-118.53950855977284,Northridge,CA,United States}	{Shop & Service,}
+265	Sun Jun 26 23:37:48 +0000 2011	44eefc32f964a520e5371fe3	{Starbucks}	{34.25662009606791,-118.53712141513824,Northridge,CA,United States}	{Food,}
+265	Sun Jun 26 23:04:27 +0000 2011	4b79f1e9f964a520c91b2fe3	{Tutti Frutti Frozen Yogurt}	{34.25611721,-118.535452,Northridge,CA,United States}	{Food,}
+265	Sun Jun 26 20:00:57 +0000 2011	4b9ed4b1f964a520f50437e3	{Carl's Jr}	{34.25779581069946,-118.49866216666666,Granada Hills,CA,United States}	{Food,}
+265	Sun Jun 26 02:30:22 +0000 2011	4b1ddb07f964a520eb1524e3	{Larsen's Grill}	{34.28285759079824,-118.77018928527832,Simi Valley,CA,United States}	{Food,}
+265	Sun Jun 26 02:22:07 +0000 2011	4af6462bf964a520c70222e3	{Simi Valley Town Center}	{34.28408980031874,-118.77017855644226,Simi Valley,CA,United States}	{Outdoors & Recreation,Shop & Service,}
+265	Sun Jun 26 00:04:54 +0000 2011	4c6c787fa437224b95912ab1	{Classic Car Wash}	{34.25703375471503,-118.53585445147246,Northridge,CA,United States}	{Shop & Service,}
+265	Sun Jun 26 00:04:38 +0000 2011	44eefc32f964a520e5371fe3	{Starbucks}	{34.25662009606791,-118.53712141513824,Northridge,CA,United States}	{Food,}
+265	Sat Jun 25 18:55:44 +0000 2011	4b5271acf964a520987d27e3	{McDonald's}	{34.258814547600515,-118.53563782471389,Porter Ranch,CA,United States}	{Food,}
+265	Sat Jun 25 18:22:35 +0000 2011	4b5ba955f964a520630e29e3	{Vincenzo's Pizza}	{34.25896,-118.579275,Chatsworth,CA,United States}	{Food,}
+265	Sat Jun 25 18:22:35 +0000 2011	4b5ba955f964a520630e29e3	{Vincenzo's Pizza}	{34.25896,-118.579275,Chatsworth,CA,United States}	{Food,}
+265	Sat Jun 25 18:06:40 +0000 2011	4a273c59f964a5206d911fe3	{Mason Recreation Center}	{34.26081660589465,-118.57840061187744,Chatsworth,CA,United States}	{Outdoors & Recreation,}
+265	Sat Jun 25 16:46:07 +0000 2011	4bcbd14f3740b71346416365	{Northridge Recreation Center}	{34.253882165144006,-118.53321075439453,Northridge,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+265	Sat Jun 25 15:16:28 +0000 2011	4d7bbd32cf3f370427104240	{Socialmediadirect}	{34.252627,-118.531084,Los Angeles,CA,United States}	{Office,Professional & Other Places,}
+265	Fri Jun 24 21:35:57 +0000 2011	4c1c222afcf8c9b6dfa4a90b	{Knollwood Country Club}	{34.289992,-118.4986,Granada Hills,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,Athletics & Sports,}
+265	Fri Jun 24 19:12:17 +0000 2011	4d921a79608fa1cdc01ca783	{Keller Williams}	{34.23991982844183,-118.53573473672016,Northridge,CA,United States}	{Professional & Other Places,}
+265	Fri Jun 24 17:21:06 +0000 2011	4b1563faf964a52028ac23e3	{IHOP}	{34.257793467839036,-118.50141291463302,Granada Hills,CA,United States}	{Food,}
+265	Fri Jun 24 16:56:31 +0000 2011	4bdb3629c79cc92875a881e9	{Ralphs}	{34.256758769650794,-118.5013159824196,Granada Hills,CA,United States}	{Shop & Service,Food & Drink Shop,}
+265	Fri Jun 24 14:48:16 +0000 2011	4bba5b2998c7ef3b81003302	{Balboa Gifted Magnet Elementary School}	{34.24849028684554,-118.50286960601807,Northridge,CA,United States}	{Professional & Other Places,}
+265	Fri Jun 24 01:42:54 +0000 2011	4d7bbd32cf3f370427104240	{Socialmediadirect}	{34.252627,-118.531084,Los Angeles,CA,United States}	{Office,Professional & Other Places,}
+265	Fri Jun 24 01:24:52 +0000 2011	4bc8af7c92b376b028f5513a	{Jersey Mike's Subs}	{34.26509049051403,-118.52656960487366,Granada Hills,CA,United States}	{Food,}
+265	Fri Jun 24 01:24:30 +0000 2011	4ac018f6f964a520c19320e3	{Starbucks}	{34.26418164318978,-118.5270631313324,Granada Hills,CA,United States}	{Food,}
+265	Thu Jun 23 22:11:44 +0000 2011	4d921a79608fa1cdc01ca783	{Keller Williams}	{34.23991982844183,-118.53573473672016,Northridge,CA,United States}	{Professional & Other Places,}
+265	Thu Jun 23 02:12:24 +0000 2011	4bcbd14f3740b71346416365	{Northridge Recreation Center}	{34.253882165144006,-118.53321075439453,Northridge,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+265	Wed Jun 22 19:43:05 +0000 2011	4da9ce32f7b145b37000bf52	{LAFD Fire Station 70}	{34.24974960513412,-118.53647232055664,Northridge,CA,United States}	{Government Building,Professional & Other Places,}
+265	Wed Jun 22 19:29:18 +0000 2011	4c0eaee5c6cf76b02e208151	{Weekday Preschool}	{34.245748588970166,-118.53430385363995,Northridge,CA,United States}	{College & University,}
+265	Tue Jun 21 20:59:44 +0000 2011	4d921a79608fa1cdc01ca783	{Keller Williams}	{34.23991982844183,-118.53573473672016,Northridge,CA,United States}	{Professional & Other Places,}
+265	Tue Jun 21 20:32:59 +0000 2011	4b9d9fc4f964a520dbb636e3	{Jack in the Box - Northridge, CA}	{34.24206370104305,-118.53634759783745,Northridge,CA,United States}	{Food,}
+265	Tue Jun 21 16:35:18 +0000 2011	4b3f9949f964a52003aa25e3	{LA Fitness}	{34.2582356171037,-118.53950855977284,Northridge,CA,United States}	{Shop & Service,}
+265	Tue Jun 21 14:57:35 +0000 2011	4bba5b2998c7ef3b81003302	{Balboa Gifted Magnet Elementary School}	{34.24849028684554,-118.50286960601807,Northridge,CA,United States}	{Professional & Other Places,}
+265	Tue Jun 21 01:29:29 +0000 2011	4dfff3f4d22d5ec6f276fa79	{Guardian Angel Aquatics}	{34.242125,-118.591633,Los Angeles,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+265	Mon Jun 20 15:21:37 +0000 2011	4d921a79608fa1cdc01ca783	{Keller Williams}	{34.23991982844183,-118.53573473672016,Northridge,CA,United States}	{Professional & Other Places,}
+265	Mon Jun 20 15:07:34 +0000 2011	4bba5b2998c7ef3b81003302	{Balboa Gifted Magnet Elementary School}	{34.24849028684554,-118.50286960601807,Northridge,CA,United States}	{Professional & Other Places,}
+265	Sun Jun 19 05:19:28 +0000 2011	4c314e03213c2d7f18d7335d	{ARCO}	{34.25756449529769,-118.535817861557,Northridge,CA,United States}	{Shop & Service,}
+265	Sun Jun 19 04:47:33 +0000 2011	4b7d9452f964a520edc72fe3	{Poquito Mas}	{34.237995,-118.571711,Chatsworth,CA,United States}	{Food,}
+265	Sun Jun 19 02:13:07 +0000 2011	4a9acc89f964a520c83220e3	{Pacific Theatres Winnetka 21}	{34.23823767062169,-118.57406616210938,Chatsworth,CA,United States}	{Arts & Entertainment,Movie Theater,}
+265	Sat Jun 18 18:07:32 +0000 2011	4b3f9949f964a52003aa25e3	{LA Fitness}	{34.2582356171037,-118.53950855977284,Northridge,CA,United States}	{Shop & Service,}
+265	Sat Jun 18 17:17:27 +0000 2011	4ca66703a6e08cfaad487a94	{The Devonshire House}	{34.25750813929502,-118.5272661218107,,CA,United States}	{Residence,}
+265	Sat Jun 18 17:17:07 +0000 2011	4bcbd14f3740b71346416365	{Northridge Recreation Center}	{34.253882165144006,-118.53321075439453,Northridge,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+265	Sat Jun 18 02:32:39 +0000 2011	4ac018f6f964a520c19320e3	{Starbucks}	{34.26418164318978,-118.5270631313324,Granada Hills,CA,United States}	{Food,}
+265	Sat Jun 18 02:32:25 +0000 2011	4bc8af7c92b376b028f5513a	{Jersey Mike's Subs}	{34.26509049051403,-118.52656960487366,Granada Hills,CA,United States}	{Food,}
+265	Sat Jun 18 02:32:25 +0000 2011	4bc8af7c92b376b028f5513a	{Jersey Mike's Subs}	{34.26509049051403,-118.52656960487366,Granada Hills,CA,United States}	{Food,}
+265	Sat Jun 18 01:18:51 +0000 2011	4c964f23f244b1f78c43331d	{Temple Ahavat Shalom}	{34.27633278463831,-118.52943420410156,Northridge,CA,United States}	{Spiritual Center,Professional & Other Places,}
+265	Fri Jun 17 23:17:37 +0000 2011	4c8a922d012b9521a067ae2c	{Sellstate Horizons Realty}	{34.16080971357311,-118.50774759639714,Encino,CA,United States}	{Professional & Other Places,}
+265	Fri Jun 17 15:46:23 +0000 2011	4bec760816e99c74156508e2	{Keller Williams VIP Properties}	{34.40994582777329,-118.5755607205166,Valencia,CA,United States}	{Professional & Other Places,}
+265	Fri Jun 17 15:01:39 +0000 2011	4bba5b2998c7ef3b81003302	{Balboa Gifted Magnet Elementary School}	{34.24849028684554,-118.50286960601807,Northridge,CA,United States}	{Professional & Other Places,}
+265	Fri Jun 17 01:26:52 +0000 2011	4bccc79f8920b713acbb9edc	{Valvoline Instant Oil Change}	{34.24254629406026,-118.53656703747784,Northridge,CA,United States}	{Shop & Service,}
+265	Thu Jun 16 17:13:21 +0000 2011	4bec760816e99c74156508e2	{Keller Williams VIP Properties}	{34.40994582777329,-118.5755607205166,Valencia,CA,United States}	{Professional & Other Places,}
+265	Thu Jun 16 17:13:21 +0000 2011	4bec760816e99c74156508e2	{Keller Williams VIP Properties}	{34.40994582777329,-118.5755607205166,Valencia,CA,United States}	{Professional & Other Places,}
+265	Thu Jun 16 15:24:42 +0000 2011	4d921a79608fa1cdc01ca783	{Keller Williams}	{34.23991982844183,-118.53573473672016,Northridge,CA,United States}	{Professional & Other Places,}
+265	Thu Jun 16 14:55:33 +0000 2011	4bba5b2998c7ef3b81003302	{Balboa Gifted Magnet Elementary School}	{34.24849028684554,-118.50286960601807,Northridge,CA,United States}	{Professional & Other Places,}
+265	Thu Jun 16 02:17:57 +0000 2011	4b917d3ff964a52051c033e3	{SUBWAY}	{34.25759839476792,-118.52397376228427,Northridge,CA,United States}	{Food,}
+265	Thu Jun 16 02:17:44 +0000 2011	4baa262df964a520734e3ae3	{Shell}	{34.25759331482578,-118.5236245393753,Northridge,CA,United States}	{Shop & Service,}
+265	Thu Jun 16 02:17:32 +0000 2011	4c22858713c00f4755a187de	{7-Eleven}	{34.25757536868994,-118.5235233737786,Northridge,CA,United States}	{Shop & Service,}
+265	Thu Jun 16 01:16:39 +0000 2011	4c22a0dcfbe5c9b65c3e9a21	{Mrs B's Swim School}	{34.256093,-118.516466,,,United States}	{}
+265	Wed Jun 15 23:04:51 +0000 2011	4bfacbb05efe2d7f761e6e34	{Pinnacle Estate Properties}	{34.236641130126145,-118.5375452041626,Northridge,CA,United States}	{Professional & Other Places,}
+265	Wed Jun 15 15:49:38 +0000 2011	4bec760816e99c74156508e2	{Keller Williams VIP Properties}	{34.40994582777329,-118.5755607205166,Valencia,CA,United States}	{Professional & Other Places,}
+265	Wed Jun 15 15:04:23 +0000 2011	4bba5b2998c7ef3b81003302	{Balboa Gifted Magnet Elementary School}	{34.24849028684554,-118.50286960601807,Northridge,CA,United States}	{Professional & Other Places,}
+265	Wed Jun 15 03:15:39 +0000 2011	4b79f1e9f964a520c91b2fe3	{Tutti Frutti Frozen Yogurt}	{34.25611721,-118.535452,Northridge,CA,United States}	{Food,}
+265	Tue Jun 14 22:21:00 +0000 2011	4b09f0a4f964a520212023e3	{The Coffee Bean & Tea Leaf}	{34.048276271773574,-118.44317728506961,Los Angeles,CA,United States}	{Food,}
+265	Tue Jun 14 19:54:24 +0000 2011	4b181d5cf964a52027cd23e3	{Napster HQ}	{34.08078805879614,-118.38944127622737,Los Angeles,CA,United States}	{Professional & Other Places,}
+265	Tue Jun 14 18:51:18 +0000 2011	4d921a79608fa1cdc01ca783	{Keller Williams}	{34.23991982844183,-118.53573473672016,Northridge,CA,United States}	{Professional & Other Places,}
+265	Tue Jun 14 16:11:56 +0000 2011	4a9059dcf964a520701720e3	{REI}	{34.258360354022535,-118.53846788406372,Northridge,CA,United States}	{Shop & Service,}
+265	Tue Jun 14 16:11:09 +0000 2011	4b3f9949f964a52003aa25e3	{LA Fitness}	{34.2582356171037,-118.53950855977284,Northridge,CA,United States}	{Shop & Service,}
+265	Tue Jun 14 15:08:17 +0000 2011	4be3393321d5a59303881811	{Target}	{34.234370442605744,-118.50308418273926,Northridge,CA,United States}	{Shop & Service,}
+265	Tue Jun 14 14:47:11 +0000 2011	4bba5b2998c7ef3b81003302	{Balboa Gifted Magnet Elementary School}	{34.24849028684554,-118.50286960601807,Northridge,CA,United States}	{Professional & Other Places,}
+265	Mon Jun 13 16:19:24 +0000 2011	4b3f9949f964a52003aa25e3	{LA Fitness}	{34.2582356171037,-118.53950855977284,Northridge,CA,United States}	{Shop & Service,}
+265	Mon Jun 13 15:04:33 +0000 2011	4bba5b2998c7ef3b81003302	{Balboa Gifted Magnet Elementary School}	{34.24849028684554,-118.50286960601807,Northridge,CA,United States}	{Professional & Other Places,}
+265	Mon Jun 13 04:40:42 +0000 2011	4bfacbb05efe2d7f761e6e34	{Pinnacle Estate Properties}	{34.236641130126145,-118.5375452041626,Northridge,CA,United States}	{Professional & Other Places,}
+265	Sun Jun 12 23:52:47 +0000 2011	44eefbccf964a520e4371fe3	{The Coffee Bean & Tea Leaf}	{34.25807292652068,-118.54033657935739,Northridge,CA,United States}	{Food,}
+265	Sun Jun 12 23:52:31 +0000 2011	4b51fb5af964a520255f27e3	{Northridge Little League}	{34.2583081556509,-118.54184007778238,Northridge,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+265	Sun Jun 12 23:43:04 +0000 2011	4b454c2ff964a5201d0a26e3	{Smart & Final}	{34.258503913879395,-118.579196,Chatsworth,CA,United States}	{Shop & Service,Food & Drink Shop,}
+265	Sun Jun 12 23:42:49 +0000 2011	4ae4a678f964a520b89c21e3	{Trader Joe's}	{34.258341,-118.579084,Chatsworth,CA,United States}	{Shop & Service,Food & Drink Shop,}
+265	Sun Jun 12 23:23:49 +0000 2011	4b5ba955f964a520630e29e3	{Vincenzo's Pizza}	{34.25896,-118.579275,Chatsworth,CA,United States}	{Food,}
+265	Sun Jun 12 20:54:24 +0000 2011	4d921a79608fa1cdc01ca783	{Keller Williams}	{34.23991982844183,-118.53573473672016,Northridge,CA,United States}	{Professional & Other Places,}
+265	Sun Jun 12 19:32:29 +0000 2011	4bcbd14f3740b71346416365	{Northridge Recreation Center}	{34.253882165144006,-118.53321075439453,Northridge,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+265	Sun Jun 12 19:00:41 +0000 2011	4bcbd14f3740b71346416365	{Northridge Recreation Center}	{34.253882165144006,-118.53321075439453,Northridge,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+265	Sun Jun 12 01:56:14 +0000 2011	4a6b570bf964a5207cce1fe3	{Pacific Northridge Fashion Center All Stadium 10}	{34.240320009863794,-118.5572,Northridge,CA,United States}	{Arts & Entertainment,Movie Theater,}
+265	Sun Jun 12 01:56:02 +0000 2011	4b82040ef964a520c8c730e3	{Apple Store, Northridge}	{34.2396176052234,-118.556073088477,Northridge,CA,United States}	{Shop & Service,}
+265	Sun Jun 12 01:55:33 +0000 2011	4a0ddea8f964a520a9751fe3	{Northridge Fashion Center}	{34.23857471418914,-118.55578422546387,Northridge,CA,United States}	{Shop & Service,Clothing Store,}
+265	Sat Jun 11 17:45:45 +0000 2011	45ebcab8f964a52093431fe3	{Chipotle Mexican Grill}	{34.23747891632418,-118.53645302392479,Northridge,CA,United States}	{Food,}
+265	Sat Jun 11 17:45:28 +0000 2011	4bfacbb05efe2d7f761e6e34	{Pinnacle Estate Properties}	{34.236641130126145,-118.5375452041626,Northridge,CA,United States}	{Professional & Other Places,}
+265	Sat Jun 11 16:41:57 +0000 2011	4c314e03213c2d7f18d7335d	{ARCO}	{34.25756449529769,-118.535817861557,Northridge,CA,United States}	{Shop & Service,}
+265	Sat Jun 11 16:41:46 +0000 2011	4bcbd14f3740b71346416365	{Northridge Recreation Center}	{34.253882165144006,-118.53321075439453,Northridge,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+265	Sat Jun 11 16:40:33 +0000 2011	4bcbd14f3740b71346416365	{Northridge Recreation Center}	{34.253882165144006,-118.53321075439453,Northridge,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+265	Sat Jun 11 03:40:53 +0000 2011	4afc5b9af964a520e52122e3	{Trader Joe's}	{34.27267122456249,-118.50179672241211,Granada Hills,CA,United States}	{Shop & Service,Food & Drink Shop,}
+265	Sat Jun 11 03:40:43 +0000 2011	4bb11797f964a520b7793ce3	{Target}	{34.27260916284788,-118.50334167480469,Granada Hills,CA,United States}	{Shop & Service,}
+265	Sat Jun 11 03:20:39 +0000 2011	4c22858713c00f4755a187de	{7-Eleven}	{34.25757536868994,-118.5235233737786,Northridge,CA,United States}	{Shop & Service,}
+265	Fri Jun 10 16:17:21 +0000 2011	47383924f964a520444c1fe3	{Santa Monica Pier}	{34.00842244098263,-118.49856197834015,Santa Monica,CA,United States}	{Travel & Transport,}
+265	Fri Jun 10 15:14:37 +0000 2011	4bba5b2998c7ef3b81003302	{Balboa Gifted Magnet Elementary School}	{34.24849028684554,-118.50286960601807,Northridge,CA,United States}	{Professional & Other Places,}
+265	Fri Jun 10 14:57:38 +0000 2011	4bd91009e914a593529f55fa	{Mobil}	{34.25047782903401,-118.50267873007583,NORTHRIDGE,CA,United States}	{Shop & Service,}
+265	Fri Jun 10 14:57:38 +0000 2011	4bd91009e914a593529f55fa	{Mobil}	{34.25047782903401,-118.50267873007583,NORTHRIDGE,CA,United States}	{Shop & Service,}
+265	Fri Jun 10 06:18:13 +0000 2011	4bc92febb6c49c742d238e91	{Burger King}	{34.26522,-118.5238391160965,Granada Hills,CA,United States}	{Food,}
+265	Fri Jun 10 06:18:04 +0000 2011	4c1babc6b4e62d7f16c3d993	{Wells Fargo}	{34.263585,-118.524291,Granada Hills?,CA,United States}	{Shop & Service,}
+265	Fri Jun 10 06:17:50 +0000 2011	4b6ef7a5f964a520bcd32ce3	{Ralphs}	{34.26362296426705,-118.52413909446429,Granada Hills,CA,United States}	{Shop & Service,Food & Drink Shop,}
+265	Fri Jun 10 03:24:50 +0000 2011	4a9acc89f964a520c83220e3	{Pacific Theatres Winnetka 21}	{34.23823767062169,-118.57406616210938,Chatsworth,CA,United States}	{Arts & Entertainment,Movie Theater,}
+265	Fri Jun 10 00:17:03 +0000 2011	4bc8af7c92b376b028f5513a	{Jersey Mike's Subs}	{34.26509049051403,-118.52656960487366,Granada Hills,CA,United States}	{Food,}
+265	Thu Jun 09 20:13:48 +0000 2011	45ebcab8f964a52093431fe3	{Chipotle Mexican Grill}	{34.23747891632418,-118.53645302392479,Northridge,CA,United States}	{Food,}
+265	Thu Jun 09 18:51:24 +0000 2011	4bb258c314cfd13aadd014ab	{SRAR - Southland Regional Association of Realtors}	{34.20247485929493,-118.50091159343714,,CA,United States}	{Professional & Other Places,}
+265	Thu Jun 09 16:16:32 +0000 2011	4bfacbb05efe2d7f761e6e34	{Pinnacle Estate Properties}	{34.236641130126145,-118.5375452041626,Northridge,CA,United States}	{Professional & Other Places,}
+265	Thu Jun 09 15:00:06 +0000 2011	4bba5b2998c7ef3b81003302	{Balboa Gifted Magnet Elementary School}	{34.24849028684554,-118.50286960601807,Northridge,CA,United States}	{Professional & Other Places,}
+265	Thu Jun 09 14:59:41 +0000 2011	4bd91009e914a593529f55fa	{Mobil}	{34.25047782903401,-118.50267873007583,NORTHRIDGE,CA,United States}	{Shop & Service,}
+265	Wed Jun 08 21:44:07 +0000 2011	4bfacbb05efe2d7f761e6e34	{Pinnacle Estate Properties}	{34.236641130126145,-118.5375452041626,Northridge,CA,United States}	{Professional & Other Places,}
+265	Wed Jun 08 20:32:04 +0000 2011	4d921a79608fa1cdc01ca783	{Keller Williams}	{34.23991982844183,-118.53573473672016,Northridge,CA,United States}	{Professional & Other Places,}
+265	Wed Jun 08 20:27:06 +0000 2011	4dcc124dd4c0dfa030df1240	{Escrow Technologies}	{34.241633,-118.53581901666666,Northridge,CA,United States}	{Professional & Other Places,}
+265	Tue Jun 07 16:04:28 +0000 2011	4bfacbb05efe2d7f761e6e34	{Pinnacle Estate Properties}	{34.236641130126145,-118.5375452041626,Northridge,CA,United States}	{Professional & Other Places,}
+265	Tue Jun 07 15:05:59 +0000 2011	4bd91009e914a593529f55fa	{Mobil}	{34.25047782903401,-118.50267873007583,NORTHRIDGE,CA,United States}	{Shop & Service,}
+265	Tue Jun 07 15:04:33 +0000 2011	4bba5b2998c7ef3b81003302	{Balboa Gifted Magnet Elementary School}	{34.24849028684554,-118.50286960601807,Northridge,CA,United States}	{Professional & Other Places,}
+265	Tue Jun 07 00:55:28 +0000 2011	4baa262df964a520734e3ae3	{Shell}	{34.25759331482578,-118.5236245393753,Northridge,CA,United States}	{Shop & Service,}
+265	Tue Jun 07 00:55:13 +0000 2011	4c22858713c00f4755a187de	{7-Eleven}	{34.25757536868994,-118.5235233737786,Northridge,CA,United States}	{Shop & Service,}
+265	Mon Jun 06 22:59:15 +0000 2011	4b5271acf964a520987d27e3	{McDonald's}	{34.258814547600515,-118.53563782471389,Porter Ranch,CA,United States}	{Food,}
+265	Mon Jun 06 22:07:30 +0000 2011	4bf5a80994b2a593ac07acee	{Taco Bell}	{34.24977058,-118.50278966,Northridge,CA,United States}	{Food,}
+265	Mon Jun 06 22:06:55 +0000 2011	4bba5b2998c7ef3b81003302	{Balboa Gifted Magnet Elementary School}	{34.24849028684554,-118.50286960601807,Northridge,CA,United States}	{Professional & Other Places,}
+265	Mon Jun 06 21:56:30 +0000 2011	4bd91009e914a593529f55fa	{Mobil}	{34.25047782903401,-118.50267873007583,NORTHRIDGE,CA,United States}	{Shop & Service,}
+265	Mon Jun 06 20:53:33 +0000 2011	4c79cbc6df08a1cd3224dc5d	{My Gym Children's Fitness Center}	{34.24158563061937,-118.53529008116183,Northridge,CA,United States}	{Shop & Service,Outdoors & Recreation,Gym / Fitness Center,}
+265	Mon Jun 06 19:15:06 +0000 2011	4bfacbb05efe2d7f761e6e34	{Pinnacle Estate Properties}	{34.236641130126145,-118.5375452041626,Northridge,CA,United States}	{Professional & Other Places,}
+265	Mon Jun 06 18:17:00 +0000 2011	4d921a79608fa1cdc01ca783	{Keller Williams}	{34.23991982844183,-118.53573473672016,Northridge,CA,United States}	{Professional & Other Places,}
+265	Mon Jun 06 17:01:35 +0000 2011	4c314e03213c2d7f18d7335d	{ARCO}	{34.25756449529769,-118.535817861557,Northridge,CA,United States}	{Shop & Service,}
+265	Mon Jun 06 17:01:23 +0000 2011	4b522a4bf964a520d36c27e3	{Mobil}	{34.2575622784105,-118.5364294052124,NORTHRIDGE,CA,United States}	{Shop & Service,}
+265	Mon Jun 06 01:51:40 +0000 2011	4dbcad0f0cb691071ca9f54f	{Nini House}	{34.241393799694514,-118.55061575123747,Los Angeles,CA,United States}	{Residence,}
+265	Sun Jun 05 20:50:53 +0000 2011	44eefbccf964a520e4371fe3	{The Coffee Bean & Tea Leaf}	{34.25807292652068,-118.54033657935739,Northridge,CA,United States}	{Food,}
+265	Sun Jun 05 20:50:53 +0000 2011	44eefbccf964a520e4371fe3	{The Coffee Bean & Tea Leaf}	{34.25807292652068,-118.54033657935739,Northridge,CA,United States}	{Food,}
+265	Sun Jun 05 20:50:29 +0000 2011	4b51fb5af964a520255f27e3	{Northridge Little League}	{34.2583081556509,-118.54184007778238,Northridge,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+265	Sun Jun 05 19:34:02 +0000 2011	4ab04f10f964a520006720e3	{Starbucks}	{33.99121223249807,-118.4466599798368,Marina Del Rey,CA,United States}	{Food,}
+265	Sat Jun 04 19:26:17 +0000 2011	4ca66703a6e08cfaad487a94	{The Devonshire House}	{34.25750813929502,-118.5272661218107,,CA,United States}	{Residence,}
+265	Sat Jun 04 19:26:16 +0000 2011	4ca66703a6e08cfaad487a94	{The Devonshire House}	{34.25750813929502,-118.5272661218107,,CA,United States}	{Residence,}
+265	Sat Jun 04 03:55:06 +0000 2011	4bdb3629c79cc92875a881e9	{Ralphs}	{34.256758769650794,-118.5013159824196,Granada Hills,CA,United States}	{Shop & Service,Food & Drink Shop,}
+265	Sat Jun 04 03:47:22 +0000 2011	4ba29c6df964a520260938e3	{Baskin-Robbins}	{34.25643609216709,-118.50174307823181,Granada Hills,CA,United States}	{Food,}
+265	Sat Jun 04 03:46:32 +0000 2011	4bd91009e914a593529f55fa	{Mobil}	{34.25047782903401,-118.50267873007583,NORTHRIDGE,CA,United States}	{Shop & Service,}
+265	Sat Jun 04 01:51:11 +0000 2011	4c535c8ff5f3d13aea445ff8	{Pizza Hut}	{34.25634,-118.53611,Northridge,CA,United States}	{Food,}
+265	Sat Jun 04 00:04:28 +0000 2011	4b51fb5af964a520255f27e3	{Northridge Little League}	{34.2583081556509,-118.54184007778238,Northridge,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+265	Fri Jun 03 23:55:36 +0000 2011	4b51fb5af964a520255f27e3	{Northridge Little League}	{34.2583081556509,-118.54184007778238,Northridge,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+265	Fri Jun 03 23:49:46 +0000 2011	44eefbccf964a520e4371fe3	{The Coffee Bean & Tea Leaf}	{34.25807292652068,-118.54033657935739,Northridge,CA,United States}	{Food,}
+265	Fri Jun 03 22:03:23 +0000 2011	4b917d3ff964a52051c033e3	{SUBWAY}	{34.25759839476792,-118.52397376228427,Northridge,CA,United States}	{Food,}
+265	Fri Jun 03 22:03:12 +0000 2011	4c22858713c00f4755a187de	{7-Eleven}	{34.25757536868994,-118.5235233737786,Northridge,CA,United States}	{Shop & Service,}
+265	Fri Jun 03 22:02:54 +0000 2011	4bf958148d30d13aff040218	{Mobil}	{34.25709273333333,-118.523103,NORTHRIDGE,CA,United States}	{Shop & Service,}
+265	Thu Jun 02 21:43:15 +0000 2011	4bba5b2998c7ef3b81003302	{Balboa Gifted Magnet Elementary School}	{34.24849028684554,-118.50286960601807,Northridge,CA,United States}	{Professional & Other Places,}
+265	Thu Jun 02 19:05:56 +0000 2011	4c964f23f244b1f78c43331d	{Temple Ahavat Shalom}	{34.27633278463831,-118.52943420410156,Northridge,CA,United States}	{Spiritual Center,Professional & Other Places,}
+265	Thu Jun 02 18:44:17 +0000 2011	4c26a7b1a852c928a418e76c	{Costco Gasoline Station}	{34.231496515915886,-118.55198621749878,Northridge,CA,United States}	{Shop & Service,}
+265	Thu Jun 02 18:41:11 +0000 2011	4ced2c38840a9eb056b29f13	{The Vitamin Shoppe}	{34.23576270311812,-118.55317226536002,Northridge,CA,United States}	{Shop & Service,}
+265	Thu Jun 02 18:41:11 +0000 2011	4ced2c38840a9eb056b29f13	{The Vitamin Shoppe}	{34.23576270311812,-118.55317226536002,Northridge,CA,United States}	{Shop & Service,}
+265	Thu Jun 02 01:22:37 +0000 2011	4bc8af7c92b376b028f5513a	{Jersey Mike's Subs}	{34.26509049051403,-118.52656960487366,Granada Hills,CA,United States}	{Food,}
+265	Wed Jun 01 19:51:40 +0000 2011	4bfacbb05efe2d7f761e6e34	{Pinnacle Estate Properties}	{34.236641130126145,-118.5375452041626,Northridge,CA,United States}	{Professional & Other Places,}
+265	Wed Jun 01 01:46:08 +0000 2011	4a6b570bf964a5207cce1fe3	{Pacific Northridge Fashion Center All Stadium 10}	{34.240320009863794,-118.5572,Northridge,CA,United States}	{Arts & Entertainment,Movie Theater,}
+265	Tue May 31 23:43:20 +0000 2011	44eefbccf964a520e4371fe3	{The Coffee Bean & Tea Leaf}	{34.25807292652068,-118.54033657935739,Northridge,CA,United States}	{Food,}
+265	Tue May 31 23:42:51 +0000 2011	4b51fb5af964a520255f27e3	{Northridge Little League}	{34.2583081556509,-118.54184007778238,Northridge,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+265	Tue May 31 15:54:11 +0000 2011	4bfacbb05efe2d7f761e6e34	{Pinnacle Estate Properties}	{34.236641130126145,-118.5375452041626,Northridge,CA,United States}	{Professional & Other Places,}
+265	Tue May 31 14:57:45 +0000 2011	4bba5b2998c7ef3b81003302	{Balboa Gifted Magnet Elementary School}	{34.24849028684554,-118.50286960601807,Northridge,CA,United States}	{Professional & Other Places,}
+265	Tue May 31 14:56:20 +0000 2011	4bf5a80994b2a593ac07acee	{Taco Bell}	{34.24977058,-118.50278966,Northridge,CA,United States}	{Food,}
+265	Tue May 31 14:56:08 +0000 2011	4bd91009e914a593529f55fa	{Mobil}	{34.25047782903401,-118.50267873007583,NORTHRIDGE,CA,United States}	{Shop & Service,}
+265	Tue May 31 14:56:07 +0000 2011	4bd91009e914a593529f55fa	{Mobil}	{34.25047782903401,-118.50267873007583,NORTHRIDGE,CA,United States}	{Shop & Service,}
+265	Mon May 30 19:21:08 +0000 2011	4b3f9949f964a52003aa25e3	{LA Fitness}	{34.2582356171037,-118.53950855977284,Northridge,CA,United States}	{Shop & Service,}
+265	Mon May 30 04:55:31 +0000 2011	4ae11f0bf964a520538521e3	{Main Street Emporium}	{33.81059931941271,-117.91910180128598,Anaheim,CA,United States}	{Shop & Service,}
+265	Sun May 29 19:50:01 +0000 2011	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+265	Sun May 29 18:53:30 +0000 2011	45db8eb5f964a520fd421fe3	{Disney California Adventure Park}	{33.80798489664312,-117.91896778777333,Anaheim,CA,United States}	{Arts & Entertainment,}
+265	Sun May 29 16:12:44 +0000 2011	4b6ef7a5f964a520bcd32ce3	{Ralphs}	{34.26362296426705,-118.52413909446429,Granada Hills,CA,United States}	{Shop & Service,Food & Drink Shop,}
+265	Sun May 29 16:10:47 +0000 2011	4c22858713c00f4755a187de	{7-Eleven}	{34.25757536868994,-118.5235233737786,Northridge,CA,United States}	{Shop & Service,}
+265	Sun May 29 15:30:20 +0000 2011	4d7bbd32cf3f370427104240	{Socialmediadirect}	{34.252627,-118.531084,Los Angeles,CA,United States}	{Office,Professional & Other Places,}
+265	Sun May 29 02:02:55 +0000 2011	4b43dad4f964a52026ec25e3	{Pick Up Stix}	{34.2650273148591,-118.52609485387802,Granada Hills,CA,United States}	{Food,}
+265	Sun May 29 02:02:04 +0000 2011	4bc8af7c92b376b028f5513a	{Jersey Mike's Subs}	{34.26509049051403,-118.52656960487366,Granada Hills,CA,United States}	{Food,}
+265	Sun May 29 01:10:29 +0000 2011	4d742285e278f04de0d553b8	{Marina Del Rey Beach}	{33.977156733887405,-118.46487684774266,Marina del Rey,CA,United States}	{Outdoors & Recreation,}
+265	Sat May 28 22:43:29 +0000 2011	4bfacbb05efe2d7f761e6e34	{Pinnacle Estate Properties}	{34.236641130126145,-118.5375452041626,Northridge,CA,United States}	{Professional & Other Places,}
+265	Sat May 28 19:39:21 +0000 2011	4cfa9040c51fa1cd8084e12b	{Royal Cleaners}	{34.243427,-118.535436,Northridge,CA,United States}	{Shop & Service,}
+265	Sat May 28 03:24:55 +0000 2011	4b80ad7ff964a5208a8530e3	{AT&T}	{34.23420734324474,-118.55249965235672,Northridge,CA,United States}	{Shop & Service,}
+265	Sat May 28 03:24:55 +0000 2011	4b80ad7ff964a5208a8530e3	{AT&T}	{34.23420734324474,-118.55249965235672,Northridge,CA,United States}	{Shop & Service,}
+265	Sat May 28 03:20:23 +0000 2011	4c26a7b1a852c928a418e76c	{Costco Gasoline Station}	{34.231496515915886,-118.55198621749878,Northridge,CA,United States}	{Shop & Service,}
+265	Sat May 28 02:46:40 +0000 2011	4c3e639cb8b4be9ab724ccef	{Northridge Farmers' Market & Family Festival}	{34.24041181531432,-118.55512,Northridge,CA,United States}	{Outdoors & Recreation,Shop & Service,Food & Drink Shop,}
+265	Sat May 28 02:46:01 +0000 2011	4c7edd4c01df3704ef9ee4ac	{CPK}	{34.24033308407509,-118.55526924133301,Northridge,CA,United States}	{Food,}
+265	Sat May 28 02:02:26 +0000 2011	4b2f06c7f964a52029e924e3	{Claim Jumper}	{34.24147944163755,-118.55440020561218,Northridge,CA,United States}	{Food,}
+265	Fri May 27 20:33:00 +0000 2011	4a57e2fff964a52003b71fe3	{Romano's Macaroni Grill}	{34.24218920165577,-118.5561875897062,Northridge,CA,United States}	{Food,}
+265	Fri May 27 19:20:21 +0000 2011	4dd43743922e3f56ba6e889b	{A Farhadian Dental Group Inc.}	{34.26246128556365,-118.46703262533515,Mission Hills,CA,United States}	{Professional & Other Places,}
+265	Fri May 27 14:53:01 +0000 2011	4bba5b2998c7ef3b81003302	{Balboa Gifted Magnet Elementary School}	{34.24849028684554,-118.50286960601807,Northridge,CA,United States}	{Professional & Other Places,}
+265	Fri May 27 14:51:47 +0000 2011	4bd91009e914a593529f55fa	{Mobil}	{34.25047782903401,-118.50267873007583,NORTHRIDGE,CA,United States}	{Shop & Service,}
+265	Fri May 27 02:10:50 +0000 2011	4bba5b2998c7ef3b81003302	{Balboa Gifted Magnet Elementary School}	{34.24849028684554,-118.50286960601807,Northridge,CA,United States}	{Professional & Other Places,}
+265	Thu May 26 16:32:47 +0000 2011	4c238b009a67a5936735de87	{Pinnacle Estate Properties, Inc.}	{34.2581946,-118.46646246666667,Mission Hills,CA,United States}	{Professional & Other Places,}
+265	Thu May 26 14:47:34 +0000 2011	4bba5b2998c7ef3b81003302	{Balboa Gifted Magnet Elementary School}	{34.24849028684554,-118.50286960601807,Northridge,CA,United States}	{Professional & Other Places,}
+265	Thu May 26 14:45:14 +0000 2011	4bd91009e914a593529f55fa	{Mobil}	{34.25047782903401,-118.50267873007583,NORTHRIDGE,CA,United States}	{Shop & Service,}
+265	Thu May 26 02:03:25 +0000 2011	4a6b570bf964a5207cce1fe3	{Pacific Northridge Fashion Center All Stadium 10}	{34.240320009863794,-118.5572,Northridge,CA,United States}	{Arts & Entertainment,Movie Theater,}
+265	Wed May 25 23:23:17 +0000 2011	4c3b8e98d94dc9b6f70100e8	{Wells Fargo}	{34.271725,-118.499745,Granada Hills,CA,United States}	{Shop & Service,}
+265	Wed May 25 22:55:58 +0000 2011	4b7625d5f964a52000402ee3	{ARCO}	{34.23571,-118.544579,Northridge,CA,United States}	{Shop & Service,}
+265	Wed May 25 18:17:08 +0000 2011	4dd43743922e3f56ba6e889b	{A Farhadian Dental Group Inc.}	{34.26246128556365,-118.46703262533515,Mission Hills,CA,United States}	{Professional & Other Places,}
+265	Wed May 25 18:03:49 +0000 2011	4c238b009a67a5936735de87	{Pinnacle Estate Properties, Inc.}	{34.2581946,-118.46646246666667,Mission Hills,CA,United States}	{Professional & Other Places,}
+265	Wed May 25 15:00:11 +0000 2011	4bba5b2998c7ef3b81003302	{Balboa Gifted Magnet Elementary School}	{34.24849028684554,-118.50286960601807,Northridge,CA,United States}	{Professional & Other Places,}
+265	Tue May 24 22:44:30 +0000 2011	4d921a79608fa1cdc01ca783	{Keller Williams}	{34.23991982844183,-118.53573473672016,Northridge,CA,United States}	{Professional & Other Places,}
+265	Tue May 24 16:50:08 +0000 2011	4bfacbb05efe2d7f761e6e34	{Pinnacle Estate Properties}	{34.236641130126145,-118.5375452041626,Northridge,CA,United States}	{Professional & Other Places,}
+265	Tue May 24 15:02:47 +0000 2011	4bba5b2998c7ef3b81003302	{Balboa Gifted Magnet Elementary School}	{34.24849028684554,-118.50286960601807,Northridge,CA,United States}	{Professional & Other Places,}
+265	Mon May 23 23:18:22 +0000 2011	4dd43743922e3f56ba6e889b	{A Farhadian Dental Group Inc.}	{34.26246128556365,-118.46703262533515,Mission Hills,CA,United States}	{Professional & Other Places,}
+265	Mon May 23 23:14:31 +0000 2011	4c238b009a67a5936735de87	{Pinnacle Estate Properties, Inc.}	{34.2581946,-118.46646246666667,Mission Hills,CA,United States}	{Professional & Other Places,}
+265	Mon May 23 22:52:05 +0000 2011	4c72763113228cfac9092b65	{Sunset & Highland}	{34.09795500568227,-118.33867549896242,Los Angeles,CA,United States}	{Travel & Transport,}
+265	Mon May 23 18:58:28 +0000 2011	4d7bbd32cf3f370427104240	{Socialmediadirect}	{34.252627,-118.531084,Los Angeles,CA,United States}	{Office,Professional & Other Places,}
+265	Mon May 23 18:01:57 +0000 2011	4c79cbc6df08a1cd3224dc5d	{My Gym Children's Fitness Center}	{34.24158563061937,-118.53529008116183,Northridge,CA,United States}	{Shop & Service,Outdoors & Recreation,Gym / Fitness Center,}
+265	Mon May 23 01:04:33 +0000 2011	4c0eaee5c6cf76b02e208151	{Weekday Preschool}	{34.245748588970166,-118.53430385363995,Northridge,CA,United States}	{College & University,}
+265	Sun May 22 22:07:48 +0000 2011	4babd8f1f964a520c0ce3ae3	{Pet People}	{34.263503205733485,-118.52571259241174,Granada Hills,CA,United States}	{Shop & Service,}
+265	Sun May 22 20:37:21 +0000 2011	4c964f23f244b1f78c43331d	{Temple Ahavat Shalom}	{34.27633278463831,-118.52943420410156,Northridge,CA,United States}	{Spiritual Center,Professional & Other Places,}
+265	Sun May 22 16:37:30 +0000 2011	4c032e6b310fc9b69ca4c561	{Baskin-Robbins}	{34.264175738556816,-118.52686420093329,Granada Hills,CA,United States}	{Food,}
+265	Sun May 22 16:37:30 +0000 2011	4c032e6b310fc9b69ca4c561	{Baskin-Robbins}	{34.264175738556816,-118.52686420093329,Granada Hills,CA,United States}	{Food,}
+265	Sun May 22 16:36:26 +0000 2011	4bc8dc6e68f976b070245c83	{US Post Office}	{34.265870761356865,-118.5260009765625,Granada Hills,CA,United States}	{Professional & Other Places,}
+265	Sun May 22 16:34:39 +0000 2011	4b5ba738f964a520df0d29e3	{Rite Aid}	{34.26667848286323,-118.52403647451004,Granada Hills,CA,United States}	{Shop & Service,}
+265	Sun May 22 16:06:50 +0000 2011	4b33f978f964a520292325e3	{KFC}	{34.2647645705876,-118.52694971609588,Granada Hills,CA,United States}	{Food,}
+265	Sun May 22 16:06:50 +0000 2011	4b33f978f964a520292325e3	{KFC}	{34.2647645705876,-118.52694971609588,Granada Hills,CA,United States}	{Food,}
+265	Sun May 22 16:06:36 +0000 2011	4bc8af7c92b376b028f5513a	{Jersey Mike's Subs}	{34.26509049051403,-118.52656960487366,Granada Hills,CA,United States}	{Food,}
+265	Sun May 22 00:25:31 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+265	Sat May 21 17:19:47 +0000 2011	4a8a103af964a520c90920e3	{Hartsfield-Jackson Atlanta International Airport (ATL)}	{33.640669114843895,-84.43606853485107,Atlanta,GA,United States}	{Travel & Transport,}
+265	Sat May 21 13:51:52 +0000 2011	4b93da3af964a5203b5534e3	{Concourse C}	{26.52899168866559,-81.75506919622421,Fort Myers,FL,United States}	{Travel & Transport,Airport,}
+265	Sat May 21 13:50:53 +0000 2011	4b0ddaa6f964a520605123e3	{Southwest Florida International Airport (RSW)}	{26.527923774866334,-81.75525963306427,Fort Myers,FL,United States}	{Travel & Transport,}
+265	Fri May 20 23:08:48 +0000 2011	4b638f82f964a5206c832ae3	{T.G.I. Friday's}	{26.548404520704686,-81.86897372635536,Fort Myers,FL,United States}	{Food,}
+265	Fri May 20 01:18:57 +0000 2011	4cc6f63b01fb236af528baba	{Grimaldi's Pizzeria}	{26.549026,-81.869329,Fort Myers,FL,United States}	{Food,}
+265	Fri May 20 01:18:26 +0000 2011	4b4cfec8f964a52012c726e3	{Shoeless Joe's}	{26.551553546396025,-81.86865370700866,Fort Myers,FL,United States}	{Nightlife Spot,Food,}
+265	Thu May 19 13:56:05 +0000 2011	4c094acbbbc676b0daf247d5	{Sellstate}	{26.538021883333332,-81.853811,Fort Myers,FL,United States}	{Professional & Other Places,}
+265	Thu May 19 00:27:55 +0000 2011	4b638f82f964a5206c832ae3	{T.G.I. Friday's}	{26.548404520704686,-81.86897372635536,Fort Myers,FL,United States}	{Food,}
+265	Wed May 18 03:03:44 +0000 2011	4b4cfec8f964a52012c726e3	{Shoeless Joe's}	{26.551553546396025,-81.86865370700866,Fort Myers,FL,United States}	{Nightlife Spot,Food,}
+265	Tue May 17 14:37:35 +0000 2011	4c094acbbbc676b0daf247d5	{Sellstate}	{26.538021883333332,-81.853811,Fort Myers,FL,United States}	{Professional & Other Places,}
+265	Tue May 17 14:37:35 +0000 2011	4c094acbbbc676b0daf247d5	{Sellstate}	{26.538021883333332,-81.853811,Fort Myers,FL,United States}	{Professional & Other Places,}
+265	Tue May 17 12:50:42 +0000 2011	4bf329156a31d13a395e942e	{Crowne Plaza}	{26.55127476842542,-81.86842435894637,Fort Myers,FL,United States}	{Travel & Transport,Hotel,}
+265	Tue May 17 00:03:35 +0000 2011	4b4cfec8f964a52012c726e3	{Shoeless Joe's}	{26.551553546396025,-81.86865370700866,Fort Myers,FL,United States}	{Nightlife Spot,Food,}
+265	Mon May 16 21:54:19 +0000 2011	4bf329156a31d13a395e942e	{Crowne Plaza}	{26.55127476842542,-81.86842435894637,Fort Myers,FL,United States}	{Travel & Transport,Hotel,}
+265	Mon May 16 12:58:59 +0000 2011	4c094acbbbc676b0daf247d5	{Sellstate}	{26.538021883333332,-81.853811,Fort Myers,FL,United States}	{Professional & Other Places,}
+265	Mon May 16 12:50:01 +0000 2011	4bf329156a31d13a395e942e	{Crowne Plaza}	{26.55127476842542,-81.86842435894637,Fort Myers,FL,United States}	{Travel & Transport,Hotel,}
+265	Mon May 16 00:01:47 +0000 2011	4bc7b83e15a7ef3b7d087ada	{Cold Stone Creamery}	{26.545102,-81.868372,Fort Myers,FL,United States}	{Food,}
+265	Sun May 15 21:48:59 +0000 2011	4bf329156a31d13a395e942e	{Crowne Plaza}	{26.55127476842542,-81.86842435894637,Fort Myers,FL,United States}	{Travel & Transport,Hotel,}
+265	Sun May 15 16:48:13 +0000 2011	4bc7da668b7c9c74225837cf	{Minneapolis-St. Paul International Airport (MSP)}	{44.884397546192474,-93.21178436279297,Minneapolis,MN,United States}	{Travel & Transport,}
+265	Sun May 15 12:43:27 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+265	Sun May 15 12:42:45 +0000 2011	4a706db6f964a52074d71fe3	{Delta Sky Club}	{33.94077875238868,-118.40448081493378,Los Angeles,CA,United States}	{Travel & Transport,Airport,}
+265	Sun May 15 02:49:16 +0000 2011	4ced2c38840a9eb056b29f13	{The Vitamin Shoppe}	{34.23576270311812,-118.55317226536002,Northridge,CA,United States}	{Shop & Service,}
+265	Sun May 15 02:41:32 +0000 2011	4b80ad7ff964a5208a8530e3	{AT&T}	{34.23420734324474,-118.55249965235672,Northridge,CA,United States}	{Shop & Service,}
+265	Sun May 15 01:42:04 +0000 2011	4b82040ef964a520c8c730e3	{Apple Store, Northridge}	{34.2396176052234,-118.556073088477,Northridge,CA,United States}	{Shop & Service,}
+265	Sun May 15 01:41:52 +0000 2011	4c0ff5766b7e2d7feadc2635	{Northridge Mall Play Area}	{34.238674577888624,-118.55487088590348,Northridge,CA,United States}	{Outdoors & Recreation,}
+265	Sun May 15 00:41:26 +0000 2011	4aa9b9b4f964a520075520e3	{Red Robin Gourmet Burgers}	{34.23845054040022,-118.5550332069397,Northridge,CA,United States}	{Food,}
+265	Sun May 15 00:41:13 +0000 2011	4a0ddea8f964a520a9751fe3	{Northridge Fashion Center}	{34.23857471418914,-118.55578422546387,Northridge,CA,United States}	{Shop & Service,Clothing Store,}
+265	Sat May 14 01:32:34 +0000 2011	4b86e304f964a520fea331e3	{Wendy's}	{34.257571145958906,-118.53706508874893,Northridge,CA,United States}	{Food,}
+265	Sat May 14 00:01:14 +0000 2011	4c314e03213c2d7f18d7335d	{ARCO}	{34.25756449529769,-118.535817861557,Northridge,CA,United States}	{Shop & Service,}
+265	Fri May 13 23:53:43 +0000 2011	4b51fb5af964a520255f27e3	{Northridge Little League}	{34.2583081556509,-118.54184007778238,Northridge,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+265	Fri May 13 15:26:22 +0000 2011	4d7bbd32cf3f370427104240	{Socialmediadirect}	{34.252627,-118.531084,Los Angeles,CA,United States}	{Office,Professional & Other Places,}
+265	Fri May 13 15:10:39 +0000 2011	4bba5b2998c7ef3b81003302	{Balboa Gifted Magnet Elementary School}	{34.24849028684554,-118.50286960601807,Northridge,CA,United States}	{Professional & Other Places,}
+265	Fri May 13 15:04:03 +0000 2011	4bd91009e914a593529f55fa	{Mobil}	{34.25047782903401,-118.50267873007583,NORTHRIDGE,CA,United States}	{Shop & Service,}
+265	Thu May 12 22:24:13 +0000 2011	4c79cbc6df08a1cd3224dc5d	{My Gym Children's Fitness Center}	{34.24158563061937,-118.53529008116183,Northridge,CA,United States}	{Shop & Service,Outdoors & Recreation,Gym / Fitness Center,}
+265	Thu May 12 17:01:05 +0000 2011	4dcc124dd4c0dfa030df1240	{Escrow Technologies}	{34.241633,-118.53581901666666,Northridge,CA,United States}	{Professional & Other Places,}
+265	Thu May 12 16:40:30 +0000 2011	4bfacbb05efe2d7f761e6e34	{Pinnacle Estate Properties}	{34.236641130126145,-118.5375452041626,Northridge,CA,United States}	{Professional & Other Places,}
+265	Thu May 12 16:03:53 +0000 2011	4ac018f6f964a520c19320e3	{Starbucks}	{34.26418164318978,-118.5270631313324,Granada Hills,CA,United States}	{Food,}
+265	Thu May 12 15:02:55 +0000 2011	4bba5b2998c7ef3b81003302	{Balboa Gifted Magnet Elementary School}	{34.24849028684554,-118.50286960601807,Northridge,CA,United States}	{Professional & Other Places,}
+265	Thu May 12 15:02:16 +0000 2011	4bd91009e914a593529f55fa	{Mobil}	{34.25047782903401,-118.50267873007583,NORTHRIDGE,CA,United States}	{Shop & Service,}
+265	Thu May 12 06:33:57 +0000 2011	4d7bbd32cf3f370427104240	{Socialmediadirect}	{34.252627,-118.531084,Los Angeles,CA,United States}	{Office,Professional & Other Places,}
+265	Thu May 12 03:26:15 +0000 2011	4ad5361cf964a520620221e3	{Roberto's Mexican Food}	{32.77104003532541,-117.15577840805054,San Diego,CA,United States}	{Food,}
+265	Wed May 11 17:31:54 +0000 2011	4d7bbd32cf3f370427104240	{Socialmediadirect}	{34.252627,-118.531084,Los Angeles,CA,United States}	{Office,Professional & Other Places,}
+265	Wed May 11 16:57:36 +0000 2011	4c238b009a67a5936735de87	{Pinnacle Estate Properties, Inc.}	{34.2581946,-118.46646246666667,Mission Hills,CA,United States}	{Professional & Other Places,}
+265	Tue May 10 16:48:45 +0000 2011	4bfacbb05efe2d7f761e6e34	{Pinnacle Estate Properties}	{34.236641130126145,-118.5375452041626,Northridge,CA,United States}	{Professional & Other Places,}
+265	Tue May 10 15:01:07 +0000 2011	4bba5b2998c7ef3b81003302	{Balboa Gifted Magnet Elementary School}	{34.24849028684554,-118.50286960601807,Northridge,CA,United States}	{Professional & Other Places,}
+265	Tue May 10 14:57:37 +0000 2011	4bd91009e914a593529f55fa	{Mobil}	{34.25047782903401,-118.50267873007583,NORTHRIDGE,CA,United States}	{Shop & Service,}
+265	Mon May 09 21:05:06 +0000 2011	4cd5b82afb595481ca10e050	{Pinnacle Estate Properties}	{34.161073,-118.511091,Encino,CA,United States}	{Professional & Other Places,}
+265	Mon May 09 15:00:22 +0000 2011	4bba5b2998c7ef3b81003302	{Balboa Gifted Magnet Elementary School}	{34.24849028684554,-118.50286960601807,Northridge,CA,United States}	{Professional & Other Places,}
+265	Mon May 09 15:00:09 +0000 2011	4bd91009e914a593529f55fa	{Mobil}	{34.25047782903401,-118.50267873007583,NORTHRIDGE,CA,United States}	{Shop & Service,}
+265	Sun May 08 22:36:18 +0000 2011	4bc945edfb84c9b649f01a3e	{Carl's Jr.}	{34.26450639098331,-118.5253518819809,Granada Hills,CA,United States}	{Food,}
+265	Sun May 08 20:58:53 +0000 2011	4bdb3629c79cc92875a881e9	{Ralphs}	{34.256758769650794,-118.5013159824196,Granada Hills,CA,United States}	{Shop & Service,Food & Drink Shop,}
+265	Sun May 08 20:58:42 +0000 2011	4ba29c6df964a520260938e3	{Baskin-Robbins}	{34.25643609216709,-118.50174307823181,Granada Hills,CA,United States}	{Food,}
+265	Sun May 08 18:28:50 +0000 2011	4b116286f964a520617b23e3	{Westfield Valencia Town Center}	{34.41596951,-118.5580557,Valencia,CA,United States}	{Shop & Service,}
+265	Sun May 08 01:23:04 +0000 2011	4b54be46f964a520fdc927e3	{Toppers Pizza Place}	{34.279315995952906,-118.76045823097229,Simi Valley,CA,United States}	{Food,}
+265	Sat May 07 22:32:09 +0000 2011	4b676456f964a5200c4c2be3	{Rancho Simi Community Park}	{34.265505788955416,-118.76369979166249,Simi Valley,CA,United States}	{Outdoors & Recreation,}
+265	Sat May 07 17:08:29 +0000 2011	4a9059dcf964a520701720e3	{REI}	{34.258360354022535,-118.53846788406372,Northridge,CA,United States}	{Shop & Service,}
+265	Sat May 07 00:11:11 +0000 2011	4b51fb5af964a520255f27e3	{Northridge Little League}	{34.2583081556509,-118.54184007778238,Northridge,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+265	Fri May 06 23:44:38 +0000 2011	4b86e304f964a520fea331e3	{Wendy's}	{34.257571145958906,-118.53706508874893,Northridge,CA,United States}	{Food,}
+265	Fri May 06 22:38:54 +0000 2011	4d921a79608fa1cdc01ca783	{Keller Williams}	{34.23991982844183,-118.53573473672016,Northridge,CA,United States}	{Professional & Other Places,}
+265	Fri May 06 01:37:57 +0000 2011	4b721eccf964a520a96f2de3	{Rubio's}	{34.24132197217472,-118.55907176103322,Northridge,CA,United States}	{Food,}
+265	Fri May 06 01:27:40 +0000 2011	4b721eccf964a520a96f2de3	{Rubio's}	{34.24132197217472,-118.55907176103322,Northridge,CA,United States}	{Food,}
+265	Thu May 05 18:23:38 +0000 2011	4b80ad7ff964a5208a8530e3	{AT&T}	{34.23420734324474,-118.55249965235672,Northridge,CA,United States}	{Shop & Service,}
+265	Thu May 05 16:56:25 +0000 2011	4bfacbb05efe2d7f761e6e34	{Pinnacle Estate Properties}	{34.236641130126145,-118.5375452041626,Northridge,CA,United States}	{Professional & Other Places,}
+265	Thu May 05 16:06:04 +0000 2011	4ac018f6f964a520c19320e3	{Starbucks}	{34.26418164318978,-118.5270631313324,Granada Hills,CA,United States}	{Food,}
+265	Thu May 05 02:25:16 +0000 2011	4a6b570bf964a5207cce1fe3	{Pacific Northridge Fashion Center All Stadium 10}	{34.240320009863794,-118.5572,Northridge,CA,United States}	{Arts & Entertainment,Movie Theater,}
+265	Thu May 05 01:44:04 +0000 2011	4b6ef7a5f964a520bcd32ce3	{Ralphs}	{34.26362296426705,-118.52413909446429,Granada Hills,CA,United States}	{Shop & Service,Food & Drink Shop,}
+265	Thu May 05 01:44:04 +0000 2011	4b6ef7a5f964a520bcd32ce3	{Ralphs}	{34.26362296426705,-118.52413909446429,Granada Hills,CA,United States}	{Shop & Service,Food & Drink Shop,}
+265	Thu May 05 01:43:18 +0000 2011	4c1babc6b4e62d7f16c3d993	{Wells Fargo}	{34.263585,-118.524291,Granada Hills?,CA,United States}	{Shop & Service,}
+265	Thu May 05 01:43:17 +0000 2011	4c1babc6b4e62d7f16c3d993	{Wells Fargo}	{34.263585,-118.524291,Granada Hills?,CA,United States}	{Shop & Service,}
+265	Wed May 04 22:27:19 +0000 2011	4da9ce32f7b145b37000bf52	{LAFD Fire Station 70}	{34.24974960513412,-118.53647232055664,Northridge,CA,United States}	{Government Building,Professional & Other Places,}
+265	Wed May 04 22:19:18 +0000 2011	4bad4a42f964a52099423be3	{Disney Store}	{34.24030168428919,-118.55554550886154,Northridge,CA,United States}	{Shop & Service,}
+265	Wed May 04 16:04:00 +0000 2011	4bfacbb05efe2d7f761e6e34	{Pinnacle Estate Properties}	{34.236641130126145,-118.5375452041626,Northridge,CA,United States}	{Professional & Other Places,}
+265	Wed May 04 15:01:29 +0000 2011	4bd91009e914a593529f55fa	{Mobil}	{34.25047782903401,-118.50267873007583,NORTHRIDGE,CA,United States}	{Shop & Service,}
+265	Wed May 04 15:01:05 +0000 2011	4bba5b2998c7ef3b81003302	{Balboa Gifted Magnet Elementary School}	{34.24849028684554,-118.50286960601807,Northridge,CA,United States}	{Professional & Other Places,}
+265	Wed May 04 00:46:24 +0000 2011	4bc8af7c92b376b028f5513a	{Jersey Mike's Subs}	{34.26509049051403,-118.52656960487366,Granada Hills,CA,United States}	{Food,}
+265	Wed May 04 00:46:23 +0000 2011	4bc8af7c92b376b028f5513a	{Jersey Mike's Subs}	{34.26509049051403,-118.52656960487366,Granada Hills,CA,United States}	{Food,}
+265	Wed May 04 00:45:45 +0000 2011	4bc8dc6e68f976b070245c83	{US Post Office}	{34.265870761356865,-118.5260009765625,Granada Hills,CA,United States}	{Professional & Other Places,}
+265	Tue May 03 20:11:29 +0000 2011	4d921a79608fa1cdc01ca783	{Keller Williams}	{34.23991982844183,-118.53573473672016,Northridge,CA,United States}	{Professional & Other Places,}
+265	Tue May 03 16:34:39 +0000 2011	4c6ca2e0e13db60c16d3d6b1	{Pinnacle Escrow}	{34.236687,-118.537543,Northridge,CA,United States}	{Professional & Other Places,}
+265	Tue May 03 16:34:39 +0000 2011	4c6ca2e0e13db60c16d3d6b1	{Pinnacle Escrow}	{34.236687,-118.537543,Northridge,CA,United States}	{Professional & Other Places,}
+265	Tue May 03 15:38:55 +0000 2011	4bfacbb05efe2d7f761e6e34	{Pinnacle Estate Properties}	{34.236641130126145,-118.5375452041626,Northridge,CA,United States}	{Professional & Other Places,}
+265	Tue May 03 15:05:47 +0000 2011	4bba5b2998c7ef3b81003302	{Balboa Gifted Magnet Elementary School}	{34.24849028684554,-118.50286960601807,Northridge,CA,United States}	{Professional & Other Places,}
+265	Tue May 03 04:26:11 +0000 2011	4bd91009e914a593529f55fa	{Mobil}	{34.25047782903401,-118.50267873007583,NORTHRIDGE,CA,United States}	{Shop & Service,}
+265	Tue May 03 01:49:11 +0000 2011	4d921a79608fa1cdc01ca783	{Keller Williams}	{34.23991982844183,-118.53573473672016,Northridge,CA,United States}	{Professional & Other Places,}
+265	Tue May 03 01:49:11 +0000 2011	4d921a79608fa1cdc01ca783	{Keller Williams}	{34.23991982844183,-118.53573473672016,Northridge,CA,United States}	{Professional & Other Places,}
+265	Mon May 02 20:01:43 +0000 2011	4bfacbb05efe2d7f761e6e34	{Pinnacle Estate Properties}	{34.236641130126145,-118.5375452041626,Northridge,CA,United States}	{Professional & Other Places,}
+265	Mon May 02 15:04:05 +0000 2011	4bba5b2998c7ef3b81003302	{Balboa Gifted Magnet Elementary School}	{34.24849028684554,-118.50286960601807,Northridge,CA,United States}	{Professional & Other Places,}
+265	Mon May 02 15:03:04 +0000 2011	4bd91009e914a593529f55fa	{Mobil}	{34.25047782903401,-118.50267873007583,NORTHRIDGE,CA,United States}	{Shop & Service,}
+265	Sun May 01 23:05:21 +0000 2011	4d9bb952f41ba1437a89e7b3	{Northridge Little League Field 7}	{34.259842487977124,-118.54011852000662,,,United States}	{Stadium,Arts & Entertainment,}
+265	Sun May 01 23:05:21 +0000 2011	4d9bb952f41ba1437a89e7b3	{Northridge Little League Field 7}	{34.259842487977124,-118.54011852000662,,,United States}	{Stadium,Arts & Entertainment,}
+265	Sun May 01 23:04:44 +0000 2011	4a9059dcf964a520701720e3	{REI}	{34.258360354022535,-118.53846788406372,Northridge,CA,United States}	{Shop & Service,}
+265	Sun May 01 22:48:43 +0000 2011	4b51fb5af964a520255f27e3	{Northridge Little League}	{34.2583081556509,-118.54184007778238,Northridge,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+265	Sun May 01 22:30:45 +0000 2011	45ebcab8f964a52093431fe3	{Chipotle Mexican Grill}	{34.23747891632418,-118.53645302392479,Northridge,CA,United States}	{Food,}
+265	Sun May 01 22:21:02 +0000 2011	4c6ca2e0e13db60c16d3d6b1	{Pinnacle Escrow}	{34.236687,-118.537543,Northridge,CA,United States}	{Professional & Other Places,}
+265	Sun May 01 22:20:47 +0000 2011	4bfacbb05efe2d7f761e6e34	{Pinnacle Estate Properties}	{34.236641130126145,-118.5375452041626,Northridge,CA,United States}	{Professional & Other Places,}
+265	Sun May 01 18:39:20 +0000 2011	4b522a4bf964a520d36c27e3	{Mobil}	{34.2575622784105,-118.5364294052124,NORTHRIDGE,CA,United States}	{Shop & Service,}
+265	Sun May 01 18:25:29 +0000 2011	4b6ef7a5f964a520bcd32ce3	{Ralphs}	{34.26362296426705,-118.52413909446429,Granada Hills,CA,United States}	{Shop & Service,Food & Drink Shop,}
+265	Sun May 01 01:19:52 +0000 2011	4bad4a42f964a52099423be3	{Disney Store}	{34.24030168428919,-118.55554550886154,Northridge,CA,United States}	{Shop & Service,}
+265	Sun May 01 01:19:10 +0000 2011	4c7edd4c01df3704ef9ee4ac	{CPK}	{34.24033308407509,-118.55526924133301,Northridge,CA,United States}	{Food,}
+265	Sun May 01 00:31:45 +0000 2011	4a9acc89f964a520c83220e3	{Pacific Theatres Winnetka 21}	{34.23823767062169,-118.57406616210938,Chatsworth,CA,United States}	{Arts & Entertainment,Movie Theater,}
+265	Sat Apr 30 20:32:19 +0000 2011	4b80ad7ff964a5208a8530e3	{AT&T}	{34.23420734324474,-118.55249965235672,Northridge,CA,United States}	{Shop & Service,}
+265	Sat Apr 30 18:42:06 +0000 2011	4c573b6f2308be9a77b3586c	{SUBWAY}	{34.25844057187246,-118.53904681266775,Northridge,CA,United States}	{Food,}
+265	Sat Apr 30 18:42:06 +0000 2011	4c573b6f2308be9a77b3586c	{SUBWAY}	{34.25844057187246,-118.53904681266775,Northridge,CA,United States}	{Food,}
+265	Sat Apr 30 17:21:00 +0000 2011	4b3f9949f964a52003aa25e3	{LA Fitness}	{34.2582356171037,-118.53950855977284,Northridge,CA,United States}	{Shop & Service,}
+265	Sat Apr 30 17:19:08 +0000 2011	4aeb76eef964a52058c221e3	{Walgreens}	{34.25833742729614,-118.53677796234227,NORTHRIDGE,CA,United States}	{Shop & Service,}
+265	Sat Apr 30 17:19:08 +0000 2011	4aeb76eef964a52058c221e3	{Walgreens}	{34.25833742729614,-118.53677796234227,NORTHRIDGE,CA,United States}	{Shop & Service,}
+265	Sat Apr 30 01:24:42 +0000 2011	4aeb76eef964a52058c221e3	{Walgreens}	{34.25833742729614,-118.53677796234227,NORTHRIDGE,CA,United States}	{Shop & Service,}
+265	Sat Apr 30 01:24:20 +0000 2011	4c573b6f2308be9a77b3586c	{SUBWAY}	{34.25844057187246,-118.53904681266775,Northridge,CA,United States}	{Food,}
+265	Fri Apr 29 23:45:53 +0000 2011	4b51fb5af964a520255f27e3	{Northridge Little League}	{34.2583081556509,-118.54184007778238,Northridge,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+265	Fri Apr 29 20:07:31 +0000 2011	4c6ca2e0e13db60c16d3d6b1	{Pinnacle Escrow}	{34.236687,-118.537543,Northridge,CA,United States}	{Professional & Other Places,}
+265	Fri Apr 29 19:26:03 +0000 2011	4bfacbb05efe2d7f761e6e34	{Pinnacle Estate Properties}	{34.236641130126145,-118.5375452041626,Northridge,CA,United States}	{Professional & Other Places,}
+265	Fri Apr 29 19:04:40 +0000 2011	4b0d98b0f964a520e54b23e3	{My Hero Subs}	{34.24283199044542,-118.53524923324585,Northridge,CA,United States}	{Food,}
+265	Fri Apr 29 15:25:43 +0000 2011	4d7bbd32cf3f370427104240	{Socialmediadirect}	{34.252627,-118.531084,Los Angeles,CA,United States}	{Office,Professional & Other Places,}
+265	Fri Apr 29 15:12:12 +0000 2011	4bba5b2998c7ef3b81003302	{Balboa Gifted Magnet Elementary School}	{34.24849028684554,-118.50286960601807,Northridge,CA,United States}	{Professional & Other Places,}
+265	Fri Apr 29 02:55:54 +0000 2011	4a9acc89f964a520c83220e3	{Pacific Theatres Winnetka 21}	{34.23823767062169,-118.57406616210938,Chatsworth,CA,United States}	{Arts & Entertainment,Movie Theater,}
+265	Thu Apr 28 22:58:55 +0000 2011	4c8a922d012b9521a067ae2c	{Sellstate Horizons Realty}	{34.16080971357311,-118.50774759639714,Encino,CA,United States}	{Professional & Other Places,}
+265	Thu Apr 28 21:11:52 +0000 2011	44eefbccf964a520e4371fe3	{The Coffee Bean & Tea Leaf}	{34.25807292652068,-118.54033657935739,Northridge,CA,United States}	{Food,}
+265	Thu Apr 28 21:11:52 +0000 2011	44eefbccf964a520e4371fe3	{The Coffee Bean & Tea Leaf}	{34.25807292652068,-118.54033657935739,Northridge,CA,United States}	{Food,}
+265	Thu Apr 28 20:56:55 +0000 2011	4b7e23c6f964a52036e42fe3	{Blockbuster}	{34.265092,-118.525033,Granada Hills,CA,United States}	{Shop & Service,}
+265	Thu Apr 28 20:56:55 +0000 2011	4b7e23c6f964a52036e42fe3	{Blockbuster}	{34.265092,-118.525033,Granada Hills,CA,United States}	{Shop & Service,}
+265	Thu Apr 28 20:50:36 +0000 2011	4ba29c6df964a520260938e3	{Baskin-Robbins}	{34.25643609216709,-118.50174307823181,Granada Hills,CA,United States}	{Food,}
+265	Thu Apr 28 20:50:27 +0000 2011	4bdb3629c79cc92875a881e9	{Ralphs}	{34.256758769650794,-118.5013159824196,Granada Hills,CA,United States}	{Shop & Service,Food & Drink Shop,}
+265	Thu Apr 28 20:50:12 +0000 2011	4c5c8b739b28d13a681f5770	{Wells Fargo Bank}	{34.256082237018596,-118.50269013377442,Northridge,CA,United States}	{Shop & Service,}
+265	Thu Apr 28 16:31:14 +0000 2011	4bfacbb05efe2d7f761e6e34	{Pinnacle Estate Properties}	{34.236641130126145,-118.5375452041626,Northridge,CA,United States}	{Professional & Other Places,}
+265	Thu Apr 28 16:31:01 +0000 2011	4b99b14af964a520618c35e3	{Baja Fresh}	{34.23668991375638,-118.53697121143341,Northridge,CA,United States}	{Food,}
+265	Thu Apr 28 16:31:01 +0000 2011	4b99b14af964a520618c35e3	{Baja Fresh}	{34.23668991375638,-118.53697121143341,Northridge,CA,United States}	{Food,}
+265	Thu Apr 28 15:00:13 +0000 2011	4bba5b2998c7ef3b81003302	{Balboa Gifted Magnet Elementary School}	{34.24849028684554,-118.50286960601807,Northridge,CA,United States}	{Professional & Other Places,}
+265	Thu Apr 28 02:43:33 +0000 2011	4a9059dcf964a520701720e3	{REI}	{34.258360354022535,-118.53846788406372,Northridge,CA,United States}	{Shop & Service,}
+265	Thu Apr 28 01:25:10 +0000 2011	4b3f9949f964a52003aa25e3	{LA Fitness}	{34.2582356171037,-118.53950855977284,Northridge,CA,United States}	{Shop & Service,}
+265	Thu Apr 28 01:24:10 +0000 2011	44eefc32f964a520e5371fe3	{Starbucks}	{34.25662009606791,-118.53712141513824,Northridge,CA,United States}	{Food,}
+265	Thu Apr 28 00:38:59 +0000 2011	4ba29c6df964a520260938e3	{Baskin-Robbins}	{34.25643609216709,-118.50174307823181,Granada Hills,CA,United States}	{Food,}
+265	Thu Apr 28 00:38:46 +0000 2011	4c5c8b739b28d13a681f5770	{Wells Fargo Bank}	{34.256082237018596,-118.50269013377442,Northridge,CA,United States}	{Shop & Service,}
+265	Thu Apr 28 00:38:32 +0000 2011	4bdb3629c79cc92875a881e9	{Ralphs}	{34.256758769650794,-118.5013159824196,Granada Hills,CA,United States}	{Shop & Service,Food & Drink Shop,}
+265	Wed Apr 27 22:16:58 +0000 2011	4a6cfa38f964a5203ed21fe3	{Valley Ice Center}	{34.22829455,-118.449771,Panorama City,CA,United States}	{Arts & Entertainment,}
+265	Wed Apr 27 21:05:47 +0000 2011	4c6ca2e0e13db60c16d3d6b1	{Pinnacle Escrow}	{34.236687,-118.537543,Northridge,CA,United States}	{Professional & Other Places,}
+265	Wed Apr 27 21:04:28 +0000 2011	4bfacbb05efe2d7f761e6e34	{Pinnacle Estate Properties}	{34.236641130126145,-118.5375452041626,Northridge,CA,United States}	{Professional & Other Places,}
+265	Wed Apr 27 19:47:15 +0000 2011	4d921a79608fa1cdc01ca783	{Keller Williams}	{34.23991982844183,-118.53573473672016,Northridge,CA,United States}	{Professional & Other Places,}
+265	Wed Apr 27 18:04:10 +0000 2011	4bb258c314cfd13aadd014ab	{SRAR - Southland Regional Association of Realtors}	{34.20247485929493,-118.50091159343714,,CA,United States}	{Professional & Other Places,}
+265	Wed Apr 27 17:02:00 +0000 2011	4c8a922d012b9521a067ae2c	{Sellstate Horizons Realty}	{34.16080971357311,-118.50774759639714,Encino,CA,United States}	{Professional & Other Places,}
+265	Wed Apr 27 16:59:08 +0000 2011	4cd5b82afb595481ca10e050	{Pinnacle Estate Properties}	{34.161073,-118.511091,Encino,CA,United States}	{Professional & Other Places,}
+265	Wed Apr 27 15:56:47 +0000 2011	4bfacbb05efe2d7f761e6e34	{Pinnacle Estate Properties}	{34.236641130126145,-118.5375452041626,Northridge,CA,United States}	{Professional & Other Places,}
+265	Wed Apr 27 15:18:08 +0000 2011	4b0d98b0f964a520e54b23e3	{My Hero Subs}	{34.24283199044542,-118.53524923324585,Northridge,CA,United States}	{Food,}
+265	Wed Apr 27 15:12:22 +0000 2011	4bd91009e914a593529f55fa	{Mobil}	{34.25047782903401,-118.50267873007583,NORTHRIDGE,CA,United States}	{Shop & Service,}
+265	Wed Apr 27 15:10:56 +0000 2011	4bba5b2998c7ef3b81003302	{Balboa Gifted Magnet Elementary School}	{34.24849028684554,-118.50286960601807,Northridge,CA,United States}	{Professional & Other Places,}
+265	Wed Apr 27 00:18:16 +0000 2011	4c6ca2e0e13db60c16d3d6b1	{Pinnacle Escrow}	{34.236687,-118.537543,Northridge,CA,United States}	{Professional & Other Places,}
+265	Tue Apr 26 23:38:38 +0000 2011	4bfacbb05efe2d7f761e6e34	{Pinnacle Estate Properties}	{34.236641130126145,-118.5375452041626,Northridge,CA,United States}	{Professional & Other Places,}
+265	Tue Apr 26 15:44:59 +0000 2011	4b6211e0f964a520a1332ae3	{Odyssey}	{34.28260650454522,-118.47308348096301,Granada Hills,CA,United States}	{Food,}
+265	Tue Apr 26 15:01:43 +0000 2011	4bd91009e914a593529f55fa	{Mobil}	{34.25047782903401,-118.50267873007583,NORTHRIDGE,CA,United States}	{Shop & Service,}
+265	Tue Apr 26 14:31:00 +0000 2011	4d7bbd32cf3f370427104240	{Socialmediadirect}	{34.252627,-118.531084,Los Angeles,CA,United States}	{Office,Professional & Other Places,}
+265	Mon Apr 25 14:58:36 +0000 2011	4bba5b2998c7ef3b81003302	{Balboa Gifted Magnet Elementary School}	{34.24849028684554,-118.50286960601807,Northridge,CA,United States}	{Professional & Other Places,}
+265	Mon Apr 25 03:56:38 +0000 2011	44eefc32f964a520e5371fe3	{Starbucks}	{34.25662009606791,-118.53712141513824,Northridge,CA,United States}	{Food,}
+265	Mon Apr 25 03:56:38 +0000 2011	44eefc32f964a520e5371fe3	{Starbucks}	{34.25662009606791,-118.53712141513824,Northridge,CA,United States}	{Food,}
+265	Mon Apr 25 03:50:31 +0000 2011	4b956446f964a52025a034e3	{Baja Fresh}	{34.27533745765686,-118.56293068333333,Porter Ranch,CA,United States}	{Food,}
+265	Mon Apr 25 03:33:43 +0000 2011	4aeb76eef964a52058c221e3	{Walgreens}	{34.25833742729614,-118.53677796234227,NORTHRIDGE,CA,United States}	{Shop & Service,}
+265	Sun Apr 24 01:54:09 +0000 2011	4ba97220f964a520ac273ae3	{The Habit Burger Grill}	{34.237754344940186,-118.53640794754028,Northridge,CA,United States}	{Food,}
+265	Sat Apr 23 23:36:08 +0000 2011	4bad4a42f964a52099423be3	{Disney Store}	{34.24030168428919,-118.55554550886154,Northridge,CA,United States}	{Shop & Service,}
+265	Sat Apr 23 02:33:29 +0000 2011	4a76204cf964a52052e21fe3	{Pirates of the Caribbean}	{33.81123104144419,-117.92081482708454,Anaheim,CA,United States}	{Arts & Entertainment,Theme Park,}
+265	Sat Apr 23 00:31:28 +0000 2011	47f80a8cf964a520bc4e1fe3	{Tomorrowland}	{33.81213998647339,-117.91723198996176,Anaheim,CA,United States}	{Arts & Entertainment,Theme Park,}
+265	Fri Apr 22 22:24:20 +0000 2011	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+265	Fri Apr 22 20:07:12 +0000 2011	45db8eb5f964a520fd421fe3	{Disney California Adventure Park}	{33.80798489664312,-117.91896778777333,Anaheim,CA,United States}	{Arts & Entertainment,}
+265	Fri Apr 22 19:15:28 +0000 2011	4aadba50f964a520596120e3	{Mickey & Friends Parking Structure}	{33.81481057349054,-117.92484283447264,Anaheim,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+265	Fri Apr 22 17:08:51 +0000 2011	4c1babc6b4e62d7f16c3d993	{Wells Fargo}	{34.263585,-118.524291,Granada Hills?,CA,United States}	{Shop & Service,}
+265	Fri Apr 22 17:07:35 +0000 2011	4b6ef7a5f964a520bcd32ce3	{Ralphs}	{34.26362296426705,-118.52413909446429,Granada Hills,CA,United States}	{Shop & Service,Food & Drink Shop,}
+265	Fri Apr 22 16:32:37 +0000 2011	4c26a7b1a852c928a418e76c	{Costco Gasoline Station}	{34.231496515915886,-118.55198621749878,Northridge,CA,United States}	{Shop & Service,}
+265	Fri Apr 22 02:05:48 +0000 2011	44eefbccf964a520e4371fe3	{The Coffee Bean & Tea Leaf}	{34.25807292652068,-118.54033657935739,Northridge,CA,United States}	{Food,}
+265	Fri Apr 22 02:04:56 +0000 2011	4c8fb1ee1992a1cd1d28e8fb	{10400 Sylvia Northridge}	{34.26180584318791,-118.55061575123747,Northridge,CA,United States}	{Residence,}
+265	Fri Apr 22 01:58:09 +0000 2011	4b9c1e60f964a520004c36e3	{Vons}	{34.256604577682175,-118.57895851135254,Chatsworth,CA,United States}	{Shop & Service,Food & Drink Shop,}
+265	Fri Apr 22 00:49:12 +0000 2011	4b131832f964a520049423e3	{SanSai Japanese Grill}	{34.23872172733474,-118.5716395425137,Chatsworth,CA,United States}	{Food,}
+265	Fri Apr 22 00:48:56 +0000 2011	4a9acc89f964a520c83220e3	{Pacific Theatres Winnetka 21}	{34.23823767062169,-118.57406616210938,Chatsworth,CA,United States}	{Arts & Entertainment,Movie Theater,}
+265	Thu Apr 21 23:49:00 +0000 2011	4a273c59f964a5206d911fe3	{Mason Recreation Center}	{34.26081660589465,-118.57840061187744,Chatsworth,CA,United States}	{Outdoors & Recreation,}
+265	Thu Apr 21 23:43:30 +0000 2011	4b51fb5af964a520255f27e3	{Northridge Little League}	{34.2583081556509,-118.54184007778238,Northridge,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+265	Thu Apr 21 23:41:45 +0000 2011	4c6c787fa437224b95912ab1	{Classic Car Wash}	{34.25703375471503,-118.53585445147246,Northridge,CA,United States}	{Shop & Service,}
+265	Thu Apr 21 23:41:45 +0000 2011	4c6c787fa437224b95912ab1	{Classic Car Wash}	{34.25703375471503,-118.53585445147246,Northridge,CA,United States}	{Shop & Service,}
+265	Thu Apr 21 23:26:03 +0000 2011	4d7bbd32cf3f370427104240	{Socialmediadirect}	{34.252627,-118.531084,Los Angeles,CA,United States}	{Office,Professional & Other Places,}
+265	Wed Apr 20 21:15:38 +0000 2011	463c53f3f964a5202d461fe3	{Fentons Creamery & Restaurant}	{37.8279973189658,-122.250095307827,Oakland,CA,United States}	{Food,}
+265	Wed Apr 20 17:33:40 +0000 2011	49ff2d0cf964a520eb6f1fe3	{Tully's Coffee}	{37.9276706,-122.517156,Corte Madera,CA,United States}	{Food,}
+265	Wed Apr 20 17:33:17 +0000 2011	4b37fe56f964a520f14925e3	{Town Center Corte Madera}	{37.92761232959676,-122.51704216003418,Corte Madera,CA,United States}	{Shop & Service,}
+265	Tue Apr 19 23:04:21 +0000 2011	4bca47c268f976b0a01e5f83	{The Village at Corte Madera Shopping Center}	{37.928864809870944,-122.51360893249512,Corte Madera,CA,United States}	{Shop & Service,}
+265	Tue Apr 19 18:31:23 +0000 2011	43b02b7bf964a520932c1fe3	{Bay Area Discovery Museum}	{37.83531686545352,-122.4760988171359,Sausalito,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+265	Tue Apr 19 17:32:22 +0000 2011	4c261e41a852c92866f9e56c	{New York Bagels}	{37.89780022,-122.51518649,Strawberry,CA,United States}	{Food,}
+265	Tue Apr 19 17:04:39 +0000 2011	4bad7160f964a52050513be3	{Marin Suites Hotel}	{37.932949972518166,-122.51752543822445,Corte Madera,CA,United States}	{Travel & Transport,Hotel,}
+265	Mon Apr 18 18:03:53 +0000 2011	49cc413df964a5205a591fe3	{California Academy of Sciences}	{37.7697648824009,-122.46631622314455,San Francisco,CA,United States}	{Museum,Arts & Entertainment,}
+265	Mon Apr 18 16:55:18 +0000 2011	4bad7160f964a52050513be3	{Marin Suites Hotel}	{37.932949972518166,-122.51752543822445,Corte Madera,CA,United States}	{Travel & Transport,Hotel,}
+265	Mon Apr 18 02:20:33 +0000 2011	4b40ff5ff964a5200cbf25e3	{Rocco's Pizza}	{37.90217142040631,-122.52597342917839,Mill Valley,CA,United States}	{Food,}
+265	Mon Apr 18 01:40:58 +0000 2011	4b00430ef964a520163c22e3	{The Tyler Florence Shop}	{37.9066528,-122.5474954,Mill Valley,CA,United States}	{Shop & Service,}
+265	Mon Apr 18 01:37:57 +0000 2011	4a93ee71f964a520032020e3	{Peet's Coffee & Tea}	{37.90649225818463,-122.54806535335425,Mill Valley,CA,United States}	{Food,}
+265	Mon Apr 18 00:30:18 +0000 2011	49f62829f964a520136c1fe3	{Lombard Street}	{37.80201075795017,-122.41885185241698,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+265	Sun Apr 17 23:28:00 +0000 2011	449a73a9f964a52097341fe3	{Palace Hotel, San Francisco}	{37.78816617218476,-122.40166425704956,San Francisco,CA,United States}	{Travel & Transport,}
+265	Sun Apr 17 19:52:10 +0000 2011	452b81ddf964a520393b1fe3	{Westfield San Francisco Centre}	{37.78448965,-122.4063157,San Francisco,CA,United States}	{Shop & Service,}
+265	Sun Apr 17 18:50:54 +0000 2011	4c76e63b5cd6b1f763643d94	{Disney Store}	{37.786147658776606,-122.40639102402282,San Francisco,CA,United States}	{Shop & Service,}
+265	Sun Apr 17 18:35:01 +0000 2011	43f8404cf964a520c22f1fe3	{Macy's}	{37.78755853482698,-122.40750653872762,San Francisco,CA,United States}	{Shop & Service,}
+265	Sun Apr 17 18:30:21 +0000 2011	40bbc700f964a520b1001fe3	{Union Square}	{37.787750172585,-122.40762822536455,San Francisco,CA,United States}	{Outdoors & Recreation,}
+265	Sun Apr 17 16:55:31 +0000 2011	49d01698f964a520fd5a1fe3	{Golden Gate Bridge}	{37.81700118722001,-122.47821718454361,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+265	Sun Apr 17 01:40:14 +0000 2011	4b422965f964a520eacd25e3	{Northgate Mall}	{38.0041699641318,-122.54424283104366,San Rafael,CA,United States}	{Shop & Service,}
+265	Sat Apr 16 23:58:25 +0000 2011	4bad7160f964a52050513be3	{Marin Suites Hotel}	{37.932949972518166,-122.51752543822445,Corte Madera,CA,United States}	{Travel & Transport,Hotel,}
+265	Sat Apr 16 23:46:22 +0000 2011	4ac92a5bf964a520f6be20e3	{Richmond-San Rafael Bridge}	{37.93462763671665,-122.43695139884949,Richmond,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+265	Sat Apr 16 19:09:32 +0000 2011	4b0ca87af964a520a74023e3	{Starbucks}	{35.40032349487008,-119.39738631248474,Buttonwillow,CA,United States}	{Food,}
+265	Sat Apr 16 16:13:41 +0000 2011	4c1f8c4ab306c928799468b7	{Unique Tax Services}	{34.163391,-118.630077,Woodland Hills,CA,United States}	{Professional & Other Places,}
+265	Sat Apr 16 15:52:11 +0000 2011	4a9c8b0ef964a520833720e3	{Costco}	{34.230860069810475,-118.55023875832552,Northridge,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+265	Sat Apr 16 15:43:32 +0000 2011	4bfacbb05efe2d7f761e6e34	{Pinnacle Estate Properties}	{34.236641130126145,-118.5375452041626,Northridge,CA,United States}	{Professional & Other Places,}
+265	Sat Apr 16 15:42:28 +0000 2011	4b0d98b0f964a520e54b23e3	{My Hero Subs}	{34.24283199044542,-118.53524923324585,Northridge,CA,United States}	{Food,}
+265	Sat Apr 16 03:07:25 +0000 2011	4b21c21df964a5201f4124e3	{In-N-Out Burger}	{34.2500777342693,-118.50197106599808,Northridge,CA,United States}	{Food,}
+265	Sat Apr 16 03:07:07 +0000 2011	4bf5a80994b2a593ac07acee	{Taco Bell}	{34.24977058,-118.50278966,Northridge,CA,United States}	{Food,}
+265	Fri Apr 15 21:51:00 +0000 2011	4b79f1e9f964a520c91b2fe3	{Tutti Frutti Frozen Yogurt}	{34.25611721,-118.535452,Northridge,CA,United States}	{Food,}
+265	Fri Apr 15 21:44:12 +0000 2011	4bfacbb05efe2d7f761e6e34	{Pinnacle Estate Properties}	{34.236641130126145,-118.5375452041626,Northridge,CA,United States}	{Professional & Other Places,}
+265	Fri Apr 15 19:20:24 +0000 2011	4c6c787fa437224b95912ab1	{Classic Car Wash}	{34.25703375471503,-118.53585445147246,Northridge,CA,United States}	{Shop & Service,}
+265	Fri Apr 15 04:35:42 +0000 2011	4a9acc89f964a520c83220e3	{Pacific Theatres Winnetka 21}	{34.23823767062169,-118.57406616210938,Chatsworth,CA,United States}	{Arts & Entertainment,Movie Theater,}
+265	Fri Apr 15 01:27:43 +0000 2011	4a974657f964a520312920e3	{Sierra's Mexican Restaurant}	{34.19441974,-118.598004,Canoga Park,CA,United States}	{Food,}
+265	Thu Apr 14 17:33:39 +0000 2011	4bb258c314cfd13aadd014ab	{SRAR - Southland Regional Association of Realtors}	{34.20247485929493,-118.50091159343714,,CA,United States}	{Professional & Other Places,}
+265	Thu Apr 14 14:59:13 +0000 2011	4bba5b2998c7ef3b81003302	{Balboa Gifted Magnet Elementary School}	{34.24849028684554,-118.50286960601807,Northridge,CA,United States}	{Professional & Other Places,}
+265	Thu Apr 14 03:45:42 +0000 2011	4bf5a80994b2a593ac07acee	{Taco Bell}	{34.24977058,-118.50278966,Northridge,CA,United States}	{Food,}
+265	Thu Apr 14 03:39:02 +0000 2011	4baa262df964a520734e3ae3	{Shell}	{34.25759331482578,-118.5236245393753,Northridge,CA,United States}	{Shop & Service,}
+265	Thu Apr 14 03:38:38 +0000 2011	4c22858713c00f4755a187de	{7-Eleven}	{34.25757536868994,-118.5235233737786,Northridge,CA,United States}	{Shop & Service,}
+265	Wed Apr 13 23:25:54 +0000 2011	4c6c787fa437224b95912ab1	{Classic Car Wash}	{34.25703375471503,-118.53585445147246,Northridge,CA,United States}	{Shop & Service,}
+265	Wed Apr 13 23:24:31 +0000 2011	4c22858713c00f4755a187de	{7-Eleven}	{34.25757536868994,-118.5235233737786,Northridge,CA,United States}	{Shop & Service,}
+265	Wed Apr 13 22:52:26 +0000 2011	4c238b009a67a5936735de87	{Pinnacle Estate Properties, Inc.}	{34.2581946,-118.46646246666667,Mission Hills,CA,United States}	{Professional & Other Places,}
+265	Wed Apr 13 22:41:33 +0000 2011	4ba29c6df964a520260938e3	{Baskin-Robbins}	{34.25643609216709,-118.50174307823181,Granada Hills,CA,United States}	{Food,}
+265	Wed Apr 13 22:41:16 +0000 2011	4bdb3629c79cc92875a881e9	{Ralphs}	{34.256758769650794,-118.5013159824196,Granada Hills,CA,United States}	{Shop & Service,Food & Drink Shop,}
+265	Wed Apr 13 22:34:32 +0000 2011	4bba5b2998c7ef3b81003302	{Balboa Gifted Magnet Elementary School}	{34.24849028684554,-118.50286960601807,Northridge,CA,United States}	{Professional & Other Places,}
+265	Wed Apr 13 22:34:12 +0000 2011	4bf5a80994b2a593ac07acee	{Taco Bell}	{34.24977058,-118.50278966,Northridge,CA,United States}	{Food,}
+265	Wed Apr 13 22:34:11 +0000 2011	4bf5a80994b2a593ac07acee	{Taco Bell}	{34.24977058,-118.50278966,Northridge,CA,United States}	{Food,}
+265	Wed Apr 13 02:25:06 +0000 2011	4bad4a42f964a52099423be3	{Disney Store}	{34.24030168428919,-118.55554550886154,Northridge,CA,United States}	{Shop & Service,}
+265	Wed Apr 13 02:24:47 +0000 2011	4a0ddea8f964a520a9751fe3	{Northridge Fashion Center}	{34.23857471418914,-118.55578422546387,Northridge,CA,United States}	{Shop & Service,Clothing Store,}
+265	Wed Apr 13 00:15:52 +0000 2011	4b0b5072f964a5204a3023e3	{Wood Ranch BBQ & Grill}	{34.240650163260575,-118.55630993843079,Northridge,CA,United States}	{Food,}
+265	Wed Apr 13 00:13:50 +0000 2011	4a6b570bf964a5207cce1fe3	{Pacific Northridge Fashion Center All Stadium 10}	{34.240320009863794,-118.5572,Northridge,CA,United States}	{Arts & Entertainment,Movie Theater,}
+265	Wed Apr 13 00:13:27 +0000 2011	4b5ce015f964a520b64829e3	{Borders}	{34.240667901920986,-118.55596661567688,Northridge,CA,United States}	{Shop & Service,}
+265	Wed Apr 13 00:13:27 +0000 2011	4b5ce015f964a520b64829e3	{Borders}	{34.240667901920986,-118.55596661567688,Northridge,CA,United States}	{Shop & Service,}
+265	Tue Apr 12 20:53:42 +0000 2011	4bf5a80994b2a593ac07acee	{Taco Bell}	{34.24977058,-118.50278966,Northridge,CA,United States}	{Food,}
+265	Tue Apr 12 20:45:57 +0000 2011	4bba5b2998c7ef3b81003302	{Balboa Gifted Magnet Elementary School}	{34.24849028684554,-118.50286960601807,Northridge,CA,United States}	{Professional & Other Places,}
+265	Tue Apr 12 19:19:31 +0000 2011	4b917d3ff964a52051c033e3	{SUBWAY}	{34.25759839476792,-118.52397376228427,Northridge,CA,United States}	{Food,}
+265	Tue Apr 12 19:19:31 +0000 2011	4b917d3ff964a52051c033e3	{SUBWAY}	{34.25759839476792,-118.52397376228427,Northridge,CA,United States}	{Food,}
+265	Tue Apr 12 19:19:12 +0000 2011	4c22858713c00f4755a187de	{7-Eleven}	{34.25757536868994,-118.5235233737786,Northridge,CA,United States}	{Shop & Service,}
+265	Tue Apr 12 19:16:52 +0000 2011	4b6ef7a5f964a520bcd32ce3	{Ralphs}	{34.26362296426705,-118.52413909446429,Granada Hills,CA,United States}	{Shop & Service,Food & Drink Shop,}
+265	Tue Apr 12 19:16:39 +0000 2011	4b7e23c6f964a52036e42fe3	{Blockbuster}	{34.265092,-118.525033,Granada Hills,CA,United States}	{Shop & Service,}
+265	Tue Apr 12 18:51:14 +0000 2011	4ab308bff964a5205a6d20e3	{Gelson's}	{34.241869687458696,-118.55948567390442,Northridge,CA,United States}	{Shop & Service,Food & Drink Shop,}
+265	Tue Apr 12 18:50:53 +0000 2011	4b533133f964a520be9127e3	{Starbucks}	{34.24235305761518,-118.55958223342896,Northridge,CA,United States}	{Food,}
+265	Tue Apr 12 18:50:40 +0000 2011	4b532e70f964a520589127e3	{Western Bagel}	{34.24236075,-118.559487,Northridge,CA,United States}	{Food,}
+265	Tue Apr 12 18:50:40 +0000 2011	4b532e70f964a520589127e3	{Western Bagel}	{34.24236075,-118.559487,Northridge,CA,United States}	{Food,}
+265	Tue Apr 12 16:35:14 +0000 2011	4bfacbb05efe2d7f761e6e34	{Pinnacle Estate Properties}	{34.236641130126145,-118.5375452041626,Northridge,CA,United States}	{Professional & Other Places,}
+265	Tue Apr 12 16:10:55 +0000 2011	4c964f23f244b1f78c43331d	{Temple Ahavat Shalom}	{34.27633278463831,-118.52943420410156,Northridge,CA,United States}	{Spiritual Center,Professional & Other Places,}
+265	Tue Apr 12 14:39:36 +0000 2011	4d7bbd32cf3f370427104240	{Socialmediadirect}	{34.252627,-118.531084,Los Angeles,CA,United States}	{Office,Professional & Other Places,}
+265	Tue Apr 12 05:02:11 +0000 2011	4bf5a80994b2a593ac07acee	{Taco Bell}	{34.24977058,-118.50278966,Northridge,CA,United States}	{Food,}
+265	Tue Apr 12 04:57:34 +0000 2011	4c22858713c00f4755a187de	{7-Eleven}	{34.25757536868994,-118.5235233737786,Northridge,CA,United States}	{Shop & Service,}
+265	Tue Apr 12 04:43:58 +0000 2011	4a6b570bf964a5207cce1fe3	{Pacific Northridge Fashion Center All Stadium 10}	{34.240320009863794,-118.5572,Northridge,CA,United States}	{Arts & Entertainment,Movie Theater,}
+265	Tue Apr 12 02:27:08 +0000 2011	4b82040ef964a520c8c730e3	{Apple Store, Northridge}	{34.2396176052234,-118.556073088477,Northridge,CA,United States}	{Shop & Service,}
+265	Tue Apr 12 02:10:39 +0000 2011	4b5ce015f964a520b64829e3	{Borders}	{34.240667901920986,-118.55596661567688,Northridge,CA,United States}	{Shop & Service,}
+265	Tue Apr 12 02:10:06 +0000 2011	4bad4a42f964a52099423be3	{Disney Store}	{34.24030168428919,-118.55554550886154,Northridge,CA,United States}	{Shop & Service,}
+265	Mon Apr 11 19:53:14 +0000 2011	4c6ca2e0e13db60c16d3d6b1	{Pinnacle Escrow}	{34.236687,-118.537543,Northridge,CA,United States}	{Professional & Other Places,}
+265	Mon Apr 11 19:52:51 +0000 2011	4bfacbb05efe2d7f761e6e34	{Pinnacle Estate Properties}	{34.236641130126145,-118.5375452041626,Northridge,CA,United States}	{Professional & Other Places,}
+265	Mon Apr 11 19:04:17 +0000 2011	4b901fb6f964a520177733e3	{Catch 21}	{34.25841163333333,-118.53944420814514,Northridge,CA,United States}	{Food,}
+265	Mon Apr 11 19:04:00 +0000 2011	44eefbccf964a520e4371fe3	{The Coffee Bean & Tea Leaf}	{34.25807292652068,-118.54033657935739,Northridge,CA,United States}	{Food,}
+265	Mon Apr 11 18:36:04 +0000 2011	4c6c787fa437224b95912ab1	{Classic Car Wash}	{34.25703375471503,-118.53585445147246,Northridge,CA,United States}	{Shop & Service,}
+265	Mon Apr 11 16:54:19 +0000 2011	4c2cded02219c928d1cea648	{Pinnacle Estate Properties}	{34.417989,-118.563298,Valencia,CA,United States}	{Professional & Other Places,}
+265	Sun Apr 10 23:06:43 +0000 2011	4bd49d454e32d13ad782bf80	{Orchard Supply Hardware}	{34.26370174879781,-118.5266133561998,Granada Hills,CA,United States}	{Shop & Service,}
+265	Sun Apr 10 23:06:42 +0000 2011	4bd49d454e32d13ad782bf80	{Orchard Supply Hardware}	{34.26370174879781,-118.5266133561998,Granada Hills,CA,United States}	{Shop & Service,}
+265	Sun Apr 10 23:06:16 +0000 2011	4ac018f6f964a520c19320e3	{Starbucks}	{34.26418164318978,-118.5270631313324,Granada Hills,CA,United States}	{Food,}
+265	Sun Apr 10 23:05:53 +0000 2011	4bcdc6f40687ef3ba564e1cc	{OfficeMax}	{34.2633280726422,-118.5260526462261,Granada Hills,CA,United States}	{Shop & Service,}
+265	Sun Apr 10 22:28:36 +0000 2011	4b67375df964a520e9412be3	{T.J. Maxx}	{34.26550722697851,-118.52620482444763,Granada Hills,CA,United States}	{Shop & Service,}
+265	Sun Apr 10 22:28:11 +0000 2011	4bc8af7c92b376b028f5513a	{Jersey Mike's Subs}	{34.26509049051403,-118.52656960487366,Granada Hills,CA,United States}	{Food,}
+265	Sun Apr 10 22:27:50 +0000 2011	4b33f978f964a520292325e3	{KFC}	{34.2647645705876,-118.52694971609588,Granada Hills,CA,United States}	{Food,}
+265	Sun Apr 10 22:21:47 +0000 2011	4b79f1e9f964a520c91b2fe3	{Tutti Frutti Frozen Yogurt}	{34.25611721,-118.535452,Northridge,CA,United States}	{Food,}
+265	Sun Apr 10 20:39:31 +0000 2011	4bba5b2998c7ef3b81003302	{Balboa Gifted Magnet Elementary School}	{34.24849028684554,-118.50286960601807,Northridge,CA,United States}	{Professional & Other Places,}
+265	Sun Apr 10 20:39:04 +0000 2011	4a9059dcf964a520701720e3	{REI}	{34.258360354022535,-118.53846788406372,Northridge,CA,United States}	{Shop & Service,}
+265	Sun Apr 10 17:35:40 +0000 2011	4b51fb5af964a520255f27e3	{Northridge Little League}	{34.2583081556509,-118.54184007778238,Northridge,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+265	Sun Apr 10 17:19:53 +0000 2011	4c964f23f244b1f78c43331d	{Temple Ahavat Shalom}	{34.27633278463831,-118.52943420410156,Northridge,CA,United States}	{Spiritual Center,Professional & Other Places,}
+265	Sun Apr 10 16:59:31 +0000 2011	4b6ef7a5f964a520bcd32ce3	{Ralphs}	{34.26362296426705,-118.52413909446429,Granada Hills,CA,United States}	{Shop & Service,Food & Drink Shop,}
+265	Sun Apr 10 16:58:45 +0000 2011	4c22858713c00f4755a187de	{7-Eleven}	{34.25757536868994,-118.5235233737786,Northridge,CA,United States}	{Shop & Service,}
+265	Sun Apr 10 16:58:31 +0000 2011	4b917d3ff964a52051c033e3	{SUBWAY}	{34.25759839476792,-118.52397376228427,Northridge,CA,United States}	{Food,}
+265	Sun Apr 10 15:41:17 +0000 2011	4c6c787fa437224b95912ab1	{Classic Car Wash}	{34.25703375471503,-118.53585445147246,Northridge,CA,United States}	{Shop & Service,}
+265	Sun Apr 10 15:41:04 +0000 2011	44eefc32f964a520e5371fe3	{Starbucks}	{34.25662009606791,-118.53712141513824,Northridge,CA,United States}	{Food,}
+265	Sun Apr 10 15:00:02 +0000 2011	4b3f9949f964a52003aa25e3	{LA Fitness}	{34.2582356171037,-118.53950855977284,Northridge,CA,United States}	{Shop & Service,}
+265	Sun Apr 10 14:59:47 +0000 2011	4b494071f964a5207d6b26e3	{Outback Steakhouse}	{34.257817066507116,-118.54055242346725,Northridge,CA,United States}	{Food,}
+265	Sun Apr 10 14:59:32 +0000 2011	4c573b6f2308be9a77b3586c	{SUBWAY}	{34.25844057187246,-118.53904681266775,Northridge,CA,United States}	{Food,}
+265	Sun Apr 10 03:30:45 +0000 2011	4b82040ef964a520c8c730e3	{Apple Store, Northridge}	{34.2396176052234,-118.556073088477,Northridge,CA,United States}	{Shop & Service,}
+265	Sun Apr 10 03:30:33 +0000 2011	4c0ff5766b7e2d7feadc2635	{Northridge Mall Play Area}	{34.238674577888624,-118.55487088590348,Northridge,CA,United States}	{Outdoors & Recreation,}
+265	Sun Apr 10 02:14:52 +0000 2011	4aa9b9b4f964a520075520e3	{Red Robin Gourmet Burgers}	{34.23845054040022,-118.5550332069397,Northridge,CA,United States}	{Food,}
+265	Sun Apr 10 02:14:28 +0000 2011	4a0ddea8f964a520a9751fe3	{Northridge Fashion Center}	{34.23857471418914,-118.55578422546387,Northridge,CA,United States}	{Shop & Service,Clothing Store,}
+265	Sat Apr 09 22:29:00 +0000 2011	4bfacbb05efe2d7f761e6e34	{Pinnacle Estate Properties}	{34.236641130126145,-118.5375452041626,Northridge,CA,United States}	{Professional & Other Places,}
+265	Sat Apr 09 16:19:47 +0000 2011	4d7bbd32cf3f370427104240	{Socialmediadirect}	{34.252627,-118.531084,Los Angeles,CA,United States}	{Office,Professional & Other Places,}
+265	Fri Apr 08 22:36:30 +0000 2011	4b0ec6e5f964a520e15a23e3	{Barstow Station}	{34.89149284677313,-116.99887990951538,Barstow,CA,United States}	{Travel & Transport,Food,}
+265	Fri Apr 08 21:10:07 +0000 2011	4bd4a4d8cfa7b7137e8a24da	{California / Nevada Stateline}	{35.6072428437229,-115.39137840270996,Primm,CA,United States}	{Travel & Transport,}
+265	Fri Apr 08 17:22:39 +0000 2011	458fd461f964a5201c401fe3	{Rio All-Suite Hotel & Casino}	{36.11711156556251,-115.1876163482666,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,Professional & Other Places,}
+265	Fri Apr 08 17:22:19 +0000 2011	49de9ae9f964a5208b601fe3	{Gold Coast Hotel & Casino}	{36.11636133358798,-115.19272838256532,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,}
+265	Fri Apr 08 04:29:39 +0000 2011	4c4902a820ab1b8dee973116	{Rio Poker Room}	{36.116693925904315,-115.18552033060722,Las Vegas,NV,United States}	{Arts & Entertainment,}
+265	Fri Apr 08 03:28:22 +0000 2011	458fd461f964a5201c401fe3	{Rio All-Suite Hotel & Casino}	{36.11711156556251,-115.1876163482666,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,Professional & Other Places,}
+265	Thu Apr 07 18:54:50 +0000 2011	4c4902a820ab1b8dee973116	{Rio Poker Room}	{36.116693925904315,-115.18552033060722,Las Vegas,NV,United States}	{Arts & Entertainment,}
+265	Thu Apr 07 18:04:31 +0000 2011	458fd461f964a5201c401fe3	{Rio All-Suite Hotel & Casino}	{36.11711156556251,-115.1876163482666,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,Professional & Other Places,}
+265	Thu Apr 07 17:38:07 +0000 2011	49de9ae9f964a5208b601fe3	{Gold Coast Hotel & Casino}	{36.11636133358798,-115.19272838256532,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,}
+265	Thu Apr 07 01:13:38 +0000 2011	458fd461f964a5201c401fe3	{Rio All-Suite Hotel & Casino}	{36.11711156556251,-115.1876163482666,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,Professional & Other Places,}
+265	Wed Apr 06 23:51:17 +0000 2011	49de9ae9f964a5208b601fe3	{Gold Coast Hotel & Casino}	{36.11636133358798,-115.19272838256532,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,}
+265	Wed Apr 06 23:06:11 +0000 2011	4bd4a4d8cfa7b7137e8a24da	{California / Nevada Stateline}	{35.6072428437229,-115.39137840270996,Primm,CA,United States}	{Travel & Transport,}
+265	Wed Apr 06 18:08:35 +0000 2011	4c238b009a67a5936735de87	{Pinnacle Estate Properties, Inc.}	{34.2581946,-118.46646246666667,Mission Hills,CA,United States}	{Professional & Other Places,}
+265	Wed Apr 06 14:55:23 +0000 2011	4bba5b2998c7ef3b81003302	{Balboa Gifted Magnet Elementary School}	{34.24849028684554,-118.50286960601807,Northridge,CA,United States}	{Professional & Other Places,}
+265	Wed Apr 06 14:37:50 +0000 2011	4d7bbd32cf3f370427104240	{Socialmediadirect}	{34.252627,-118.531084,Los Angeles,CA,United States}	{Office,Professional & Other Places,}
+265	Wed Apr 06 01:35:31 +0000 2011	4bc8af7c92b376b028f5513a	{Jersey Mike's Subs}	{34.26509049051403,-118.52656960487366,Granada Hills,CA,United States}	{Food,}
+265	Wed Apr 06 01:31:36 +0000 2011	4bad4a42f964a52099423be3	{Disney Store}	{34.24030168428919,-118.55554550886154,Northridge,CA,United States}	{Shop & Service,}

@@ -1,0 +1,120 @@
+2821	Fri Jul 22 23:09:53 +0000 2011	4c36798f2c8020a1a4778700	{Pizzeria Neo}	{41.913123389417095,-88.31467469875453,St Charles,IL,United States}	{Food,}
+2821	Fri Jul 22 14:46:00 +0000 2011	4b337f77f964a520031a25e3	{Starbucks}	{41.88446557878235,-87.63747139077066,Chicago,IL,United States}	{Food,}
+2821	Wed Jul 13 17:30:13 +0000 2011	4799b895f964a520664d1fe3	{Versailles Restaurant}	{25.764976819288076,-80.25288054940789,Miami,FL,United States}	{Food,}
+2821	Wed Jun 22 01:21:34 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+2821	Mon Jun 13 16:52:43 +0000 2011	4d3355d1b6093704285800e0	{Totopo}	{41.8408188,-87.99421191215515,Oak Brook,IL,United States}	{Food,}
+2821	Sat Jun 04 15:03:10 +0000 2011	4baf5db5f964a52092fa3be3	{Olympic Park}	{42.024542628288124,-88.03634405136108,Schaumburg,IL,United States}	{Outdoors & Recreation,Athletics & Sports,}
+2821	Sun May 15 01:48:16 +0000 2011	4ae88489f964a5200cb021e3	{Luong Loi}	{41.865228566666666,-88.10666,Wheaton,IL,United States}	{Food,}
+2821	Mon May 02 23:28:52 +0000 2011	4baf5db5f964a52092fa3be3	{Olympic Park}	{42.024542628288124,-88.03634405136108,Schaumburg,IL,United States}	{Outdoors & Recreation,Athletics & Sports,}
+2821	Wed Apr 27 22:38:24 +0000 2011	4baf5db5f964a52092fa3be3	{Olympic Park}	{42.024542628288124,-88.03634405136108,Schaumburg,IL,United States}	{Outdoors & Recreation,Athletics & Sports,}
+2821	Tue Apr 19 14:41:32 +0000 2011	4b47ab33f964a520d03926e3	{Peak 8 Breckenridge}	{39.480610512111205,-106.0672412282131,Breckenridge,CO,United States}	{Outdoors & Recreation,}
+2821	Sun Apr 10 15:59:53 +0000 2011	4baf5db5f964a52092fa3be3	{Olympic Park}	{42.024542628288124,-88.03634405136108,Schaumburg,IL,United States}	{Outdoors & Recreation,Athletics & Sports,}
+2821	Wed Apr 06 12:49:46 +0000 2011	4ace6c89f964a52078d020e3	{LaGuardia Airport (LGA)}	{40.773839,-73.87122,East Elmhurst,NY,United States}	{Travel & Transport,}
+2821	Mon Mar 28 12:09:09 +0000 2011	4b520c1df964a520e96327e3	{The Wizarding World Of Harry Potter}	{28.47306977155835,-81.47262990474701,Orlando,FL,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+2821	Wed Mar 23 16:13:07 +0000 2011	4a8985ddf964a5203d0820e3	{YouTube HQ}	{37.62791317115699,-122.42633310416845,San Bruno,CA,United States}	{Shop & Service,Food,Gym / Fitness Center,Office,Professional & Other Places,}
+2821	Wed Mar 23 02:40:57 +0000 2011	455fa0a5f964a520943d1fe3	{The Sports Page}	{37.41607098,-122.07860549,Mountain View,CA,United States}	{Nightlife Spot,}
+2821	Tue Mar 22 20:57:00 +0000 2011	4ae5fb66f964a520c5a321e3	{Googleplex - Charlie's Cafe}	{37.422329960929346,-122.08387613296509,Mountain View,CA,United States}	{Food,}
+2821	Sat Mar 05 22:40:25 +0000 2011	4af4e082f964a5202cf721e3	{Yu's Mandarin}	{42.05024865947215,-88.07451725006104,Schaumburg,IL,United States}	{Food,}
+2821	Tue Mar 01 01:31:03 +0000 2011	4b968210f964a520e2d034e3	{GDC}	{37.78380793967112,-122.40230798721313,San Francisco,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+2821	Mon Feb 28 16:45:10 +0000 2011	452534b3f964a520f23a1fe3	{ROC}	{34.019252621522206,-118.4943139049254,Santa Monica,CA,United States}	{Nightlife Spot,Office,Professional & Other Places,}
+2821	Thu Feb 24 18:01:57 +0000 2011	4a6dff8ff964a5208fd31fe3	{Google}	{40.02143920337853,-105.26046088395846,Boulder,CO,United States}	{Professional & Other Places,}
+2821	Wed Feb 23 17:52:34 +0000 2011	4b47ab33f964a520d03926e3	{Peak 8 Breckenridge}	{39.480610512111205,-106.0672412282131,Breckenridge,CO,United States}	{Outdoors & Recreation,}
+2821	Mon Feb 21 18:24:42 +0000 2011	4d2005dae56f6ea87eec711d	{Kits Sports Center}	{42.19102566581631,-88.08529348088163,Lake Zurich,IL,United States}	{Outdoors & Recreation,}
+2821	Wed Feb 16 03:25:16 +0000 2011	49e5576ef964a520c3631fe3	{Gene & Jude's}	{41.930059878845846,-87.84652948379517,River Grove,IL,United States}	{Food,}
+2821	Thu Feb 03 21:59:36 +0000 2011	4197f180f964a520181e1fe3	{Avec}	{41.884283598990685,-87.64328241348267,Chicago,IL,United States}	{Nightlife Spot,Food,}
+2821	Wed Feb 02 00:30:21 +0000 2011	4d2c9667888af04decb8e9af	{Snowpocalypse 2011: Chicago Edition}	{41.883205269067794,-87.63304710388184,Chicago,IL,United States}	{Travel & Transport,Outdoors & Recreation,Professional & Other Places,}
+2821	Sun Jan 30 00:43:22 +0000 2011	4b4e033ff964a5201dde26e3	{Soccer City}	{42.09969497206078,-88.01092252835844,Palatine,IL,United States}	{Outdoors & Recreation,Athletics & Sports,}
+2821	Sun Jan 23 00:32:15 +0000 2011	4b4e033ff964a5201dde26e3	{Soccer City}	{42.09969497206078,-88.01092252835844,Palatine,IL,United States}	{Outdoors & Recreation,Athletics & Sports,}
+2821	Thu Jan 20 03:55:48 +0000 2011	4ae1eda0f964a520d88821e3	{Hong Kong Flower Lounge}	{37.598049879975335,-122.38783570268924,Millbrae,CA,United States}	{Food,}
+2821	Tue Jan 18 03:30:28 +0000 2011	4a5a77a4f964a52062ba1fe3	{Chicago O'Hare International Airport (ORD)}	{41.977270920041626,-87.90440082550049,Chicago,IL,United States}	{Travel & Transport,}
+2821	Sun Jan 16 00:14:58 +0000 2011	4b931329f964a520383334e3	{The Swiss Haven Restaurant}	{39.47838898333333,-106.04557,,CO,United States}	{Food,}
+2821	Sun Jan 16 00:14:58 +0000 2011	4b931329f964a520383334e3	{The Swiss Haven Restaurant}	{39.47838898333333,-106.04557,,CO,United States}	{Food,}
+2821	Fri Jan 14 19:39:19 +0000 2011	4cf7afa055e13704e712d4b6	{Breck Connect Gondola}	{39.48536681669372,-106.04775273589404,Breckenridge,CO,United States}	{Outdoors & Recreation,Ski Area,}
+2821	Sun Jan 09 00:27:46 +0000 2011	4b4e033ff964a5201dde26e3	{Soccer City}	{42.09969497206078,-88.01092252835844,Palatine,IL,United States}	{Outdoors & Recreation,Athletics & Sports,}
+2821	Thu Jan 06 22:52:22 +0000 2011	4b00894bf964a520403f22e3	{Wazuzu at Encore}	{36.12921032016029,-115.16576537654402,Las Vegas,NV,United States}	{Travel & Transport,Food,}
+2821	Wed Jan 05 23:18:56 +0000 2011	4a677f82f964a52091c91fe3	{Las Vegas McCarran International Airport (LAS)}	{36.08365019548198,-115.14985084533691,Las Vegas,NV,United States}	{Travel & Transport,}
+2821	Wed Jan 05 17:58:23 +0000 2011	4a198a3ef964a520237a1fe3	{Chicago Midway International Airport (MDW)}	{41.78790499530704,-87.74070024490356,Chicago,IL,United States}	{Travel & Transport,}
+2821	Thu Dec 30 17:53:27 +0000 2010	4b004601f964a520363c22e3	{Shui Wah}	{41.85361093643834,-87.63455590333594,Chicago,IL,United States}	{Food,}
+2821	Wed Dec 15 17:32:06 +0000 2010	4a5a77a4f964a52062ba1fe3	{Chicago O'Hare International Airport (ORD)}	{41.977270920041626,-87.90440082550049,Chicago,IL,United States}	{Travel & Transport,}
+2821	Wed Dec 15 03:41:20 +0000 2010	445a7fbff964a520e6321fe3	{Three Seasons Restaurant}	{37.44534819992158,-122.161442,Palo Alto,CA,United States}	{Food,}
+2821	Tue Dec 14 17:08:57 +0000 2010	4a578d6bf964a5205eb61fe3	{Goldilocks}	{37.41993564700914,-122.09590228967491,Mountain View,CA,United States}	{Food,}
+2821	Sun Dec 12 13:56:24 +0000 2010	4b4e033ff964a5201dde26e3	{Soccer City}	{42.09969497206078,-88.01092252835844,Palatine,IL,United States}	{Outdoors & Recreation,Athletics & Sports,}
+2821	Thu Dec 09 04:38:27 +0000 2010	4b5cefb6f964a5208f4b29e3	{Barone's}	{41.87703673869756,-88.06924089120018,Glen Ellyn,IL,United States}	{Food,}
+2821	Thu Dec 02 10:40:31 +0000 2010	4b22233ff964a520f44324e3	{Concourse C}	{40.776186794983424,-73.87292861938477,East Elmhurst,NY,United States}	{Travel & Transport,Airport,}
+2821	Wed Dec 01 15:07:12 +0000 2010	4ace6c89f964a52078d020e3	{LaGuardia Airport (LGA)}	{40.773839,-73.87122,East Elmhurst,NY,United States}	{Travel & Transport,}
+2821	Sun Nov 28 16:34:12 +0000 2010	4b4e033ff964a5201dde26e3	{Soccer City}	{42.09969497206078,-88.01092252835844,Palatine,IL,United States}	{Outdoors & Recreation,Athletics & Sports,}
+2821	Sun Nov 28 01:15:07 +0000 2010	4af4e082f964a5202cf721e3	{Yu's Mandarin}	{42.05024865947215,-88.07451725006104,Schaumburg,IL,United States}	{Food,}
+2821	Sat Nov 27 19:43:55 +0000 2010	4b097a97f964a520f11723e3	{Five Guys}	{41.939874906948624,-88.11391501530417,Bloomingdale,IL,United States}	{Food,}
+2821	Mon Nov 22 17:36:04 +0000 2010	4cc08775b6c4224b8dacf994	{One Ski Hill Place}	{39.48083317102715,-106.06735467910767,Breckenridge,CO,United States}	{Travel & Transport,Hotel,}
+2821	Sun Nov 21 01:35:48 +0000 2010	4b931329f964a520383334e3	{The Swiss Haven Restaurant}	{39.47838898333333,-106.04557,,CO,United States}	{Food,}
+2821	Sat Nov 20 14:59:17 +0000 2010	4b3d5aaff964a520f69225e3	{The Village at Breckenridge}	{39.48225261584919,-106.04626606553036,Breckenridge,CO,United States}	{Outdoors & Recreation,}
+2821	Sat Nov 13 17:08:52 +0000 2010	4aabc12df964a520f05920e3	{Ryan Field}	{42.06539966752991,-87.69249558448792,Evanston,IL,United States}	{College & University,College Stadium,}
+2821	Mon Nov 08 19:48:10 +0000 2010	4a5a77a4f964a52062ba1fe3	{Chicago O'Hare International Airport (ORD)}	{41.977270920041626,-87.90440082550049,Chicago,IL,United States}	{Travel & Transport,}
+2821	Sun Nov 07 15:04:55 +0000 2010	4b4e033ff964a5201dde26e3	{Soccer City}	{42.09969497206078,-88.01092252835844,Palatine,IL,United States}	{Outdoors & Recreation,Athletics & Sports,}
+2821	Thu Nov 04 01:36:16 +0000 2010	45d797dcf964a520e2421fe3	{Ray's Boathouse}	{47.67339432869541,-122.40764558315277,Seattle,WA,United States}	{Nightlife Spot,Food,}
+2821	Wed Nov 03 20:04:32 +0000 2010	4a973668f964a520f42820e3	{Google Seattle}	{47.64911870748617,-122.3505172806511,Seattle,WA,United States}	{Professional & Other Places,}
+2821	Sat Oct 16 14:50:50 +0000 2010	4baf5db5f964a52092fa3be3	{Olympic Park}	{42.024542628288124,-88.03634405136108,Schaumburg,IL,United States}	{Outdoors & Recreation,Athletics & Sports,}
+2821	Wed Oct 13 21:32:26 +0000 2010	4baf5db5f964a52092fa3be3	{Olympic Park}	{42.024542628288124,-88.03634405136108,Schaumburg,IL,United States}	{Outdoors & Recreation,Athletics & Sports,}
+2821	Sun Oct 10 12:00:30 +0000 2010	4baf5db5f964a52092fa3be3	{Olympic Park}	{42.024542628288124,-88.03634405136108,Schaumburg,IL,United States}	{Outdoors & Recreation,Athletics & Sports,}
+2821	Sat Oct 09 23:12:52 +0000 2010	4aabc12df964a520f05920e3	{Ryan Field}	{42.06539966752991,-87.69249558448792,Evanston,IL,United States}	{College & University,College Stadium,}
+2821	Wed Oct 06 23:30:06 +0000 2010	4c897939a92fa093cb1489bf	{Angelpad HQ}	{37.783566,-122.391785,San Francisco,CA,United States}	{Office,Professional & Other Places,}
+2821	Sun Sep 26 00:25:19 +0000 2010	4c6ea27df323bfb72ebd2499	{Toyota Park}	{41.76369363820402,-87.80346393585205,Bridgeview,IL,United States}	{Stadium,Arts & Entertainment,}
+2821	Thu Sep 16 00:26:38 +0000 2010	4b4e85edf964a52064f026e3	{Big Bowl}	{42.03855234992033,-88.03314685821533,Schaumburg,IL,United States}	{Food,}
+2821	Wed Sep 15 23:10:21 +0000 2010	4baf5db5f964a52092fa3be3	{Olympic Park}	{42.024542628288124,-88.03634405136108,Schaumburg,IL,United States}	{Outdoors & Recreation,Athletics & Sports,}
+2821	Wed Sep 15 23:10:21 +0000 2010	4baf5db5f964a52092fa3be3	{Olympic Park}	{42.024542628288124,-88.03634405136108,Schaumburg,IL,United States}	{Outdoors & Recreation,Athletics & Sports,}
+2821	Mon Sep 06 16:20:18 +0000 2010	4bbb27d1b35776b0b798cb01	{Starbucks}	{41.87652720588145,-88.06580543518066,Glen Ellyn,IL,United States}	{Food,}
+2821	Sat Sep 04 20:32:46 +0000 2010	4c6ea27df323bfb72ebd2499	{Toyota Park}	{41.76369363820402,-87.80346393585205,Bridgeview,IL,United States}	{Stadium,Arts & Entertainment,}
+2821	Sun Aug 22 17:42:15 +0000 2010	4af4e082f964a5202cf721e3	{Yu's Mandarin}	{42.05024865947215,-88.07451725006104,Schaumburg,IL,United States}	{Food,}
+2821	Sun Aug 22 02:34:23 +0000 2010	4c479f75417b20a1a962dea9	{Pho King}	{41.883213,-88.075106,Glen Ellyn,IL,United States}	{}
+2821	Sun Aug 22 02:34:23 +0000 2010	4c479f75417b20a1a962dea9	{Pho King}	{41.883213,-88.075106,Glen Ellyn,IL,United States}	{}
+2821	Fri Aug 20 17:51:22 +0000 2010	4b5b5141f964a5201cf428e3	{Three Happiness}	{41.852838623920825,-87.6323101282939,Chicago,IL,United States}	{Food,}
+2821	Thu Aug 19 00:35:23 +0000 2010	4c6ea27df323bfb72ebd2499	{Toyota Park}	{41.76369363820402,-87.80346393585205,Bridgeview,IL,United States}	{Stadium,Arts & Entertainment,}
+2821	Sun Aug 15 21:42:54 +0000 2010	4c35f73816adc9288992c79c	{Glen Ellyn Park District: Sunset Pool}	{41.86403911858806,-88.06861565748649,Glen Ellyn,IL,United States}	{Outdoors & Recreation,}
+2821	Mon Aug 09 00:30:48 +0000 2010	4c6ea27df323bfb72ebd2499	{Toyota Park}	{41.76369363820402,-87.80346393585205,Bridgeview,IL,United States}	{Stadium,Arts & Entertainment,}
+2821	Sat Aug 07 17:05:21 +0000 2010	4b85bcc2f964a5200a7031e3	{Elgin Sports Complex}	{42.0210659081852,-88.30174923652241,Elgin,IL,United States}	{Outdoors & Recreation,Athletics & Sports,}
+2821	Wed Aug 04 22:37:32 +0000 2010	4baf5db5f964a52092fa3be3	{Olympic Park}	{42.024542628288124,-88.03634405136108,Schaumburg,IL,United States}	{Outdoors & Recreation,Athletics & Sports,}
+2821	Wed Aug 04 01:00:42 +0000 2010	4b3d3261f964a520079025e3	{Domo 77 Steak House}	{41.83192926666667,-88.104227,Wheaton,IL,United States}	{Food,}
+2821	Tue Aug 03 02:22:50 +0000 2010	4b5b0b9ef964a5209ae028e3	{Metra UP West Line}	{41.87667944615848,-88.06371370963141,Cook-DuPage,IL,United States}	{Travel & Transport,Train Station,}
+2821	Tue Aug 03 00:55:09 +0000 2010	4ac3c90af964a520d19c20e3	{Viewpoints}	{41.890117,-87.635114,Chicago,IL,United States}	{Office,Professional & Other Places,}
+2821	Mon Aug 02 21:52:29 +0000 2010	4ae04bd7f964a520867e21e3	{Google}	{41.88926295895321,-87.62896535740471,Chicago,IL,United States}	{Office,Professional & Other Places,}
+2821	Fri Jul 30 06:18:55 +0000 2010	49efa893f964a520e5681fe3	{R&G Lounge}	{37.79411229669203,-122.40474642672537,San Francisco,CA,United States}	{Food,}
+2821	Thu Jul 29 15:49:54 +0000 2010	4bbe3410061fb713c7e6edce	{Googleplex - Slide}	{37.42261191666667,-122.08834225999999,Mountain View,CA,United States}	{Outdoors & Recreation,Professional & Other Places,}
+2821	Thu Jul 29 06:12:14 +0000 2010	3fd66200f964a52091f11ee3	{Scala's Bistro}	{37.788791858576076,-122.4085187460109,San Francisco,CA,United States}	{Food,}
+2821	Tue Jul 27 22:10:03 +0000 2010	4baf5db5f964a52092fa3be3	{Olympic Park}	{42.024542628288124,-88.03634405136108,Schaumburg,IL,United States}	{Outdoors & Recreation,Athletics & Sports,}
+2821	Fri Jul 23 15:36:34 +0000 2010	4ae04bd7f964a520867e21e3	{Google}	{41.88926295895321,-87.62896535740471,Chicago,IL,United States}	{Office,Professional & Other Places,}
+2821	Thu Jul 22 14:38:52 +0000 2010	4ae04bd7f964a520867e21e3	{Google}	{41.88926295895321,-87.62896535740471,Chicago,IL,United States}	{Office,Professional & Other Places,}
+2821	Thu Jul 22 01:31:45 +0000 2010	4c479f75417b20a1a962dea9	{Pho King}	{41.883213,-88.075106,Glen Ellyn,IL,United States}	{}
+2821	Wed Jul 21 15:05:36 +0000 2010	4aa01ae3f964a520513e20e3	{Starbucks}	{41.88996933192462,-87.63115828238537,Chicago,IL,United States}	{Food,}
+2821	Tue Jul 20 00:58:52 +0000 2010	4bdf0efe0ee3a59372d232b0	{Hot Dog Stand}	{41.8779996,-88.06673281666667,Glen Ellyn,IL,United States}	{Food,}
+2821	Fri Jul 16 13:22:48 +0000 2010	4ae04bd7f964a520867e21e3	{Google}	{41.88926295895321,-87.62896535740471,Chicago,IL,United States}	{Office,Professional & Other Places,}
+2821	Tue Jul 13 17:26:09 +0000 2010	4ae04bd7f964a520867e21e3	{Google}	{41.88926295895321,-87.62896535740471,Chicago,IL,United States}	{Office,Professional & Other Places,}
+2821	Mon Jul 12 13:42:16 +0000 2010	4ae04bd7f964a520867e21e3	{Google}	{41.88926295895321,-87.62896535740471,Chicago,IL,United States}	{Office,Professional & Other Places,}
+2821	Fri Jul 09 01:59:59 +0000 2010	4c6ea27df323bfb72ebd2499	{Toyota Park}	{41.76369363820402,-87.80346393585205,Bridgeview,IL,United States}	{Stadium,Arts & Entertainment,}
+2821	Mon Jul 05 00:12:10 +0000 2010	4b6249dff964a52087402ae3	{Hearthstone Restaurant}	{39.48106917673593,-106.04435741901398,Breckenridge,CO,United States}	{Food,}
+2821	Sun Jul 04 04:17:37 +0000 2010	4b2c492cf964a5203cc524e3	{Modis}	{39.481612,-106.04634495,Breckenridge,CO,United States}	{Food,}
+2821	Sun Jul 04 04:17:00 +0000 2010	4bc362d8dce4eee12494719d	{Mountain Thunder Lodge}	{39.48390532305253,-106.04993104934692,Breckenridge,CO,United States}	{Travel & Transport,Outdoors & Recreation,Ski Area,Hotel,}
+2821	Sat Jun 12 14:05:15 +0000 2010	4c82a07747cc224ba9dd879f	{Race & Sports Book @ Wynn Las Vegas}	{36.12714012243809,-115.16663387919641,Las Vegas,NV,United States}	{Nightlife Spot,Arts & Entertainment,}
+2821	Thu May 27 14:10:21 +0000 2010	4bbb27d1b35776b0b798cb01	{Starbucks}	{41.87652720588145,-88.06580543518066,Glen Ellyn,IL,United States}	{Food,}
+2821	Sat May 08 01:09:02 +0000 2010	4bce4186937ca593d049ae92	{Sushi Mono}	{41.86470400703484,-88.10969521043603,Wheaton,IL,United States}	{Food,}
+2821	Wed May 05 00:03:29 +0000 2010	4bad43edf964a520b93f3be3	{Googleplex - 2000}	{37.42273042824272,-122.0885968208313,Mountain View,CA,United States}	{Professional & Other Places,}
+2821	Sun Apr 18 13:56:34 +0000 2010	4be5ada39026ef3b9ac30a38	{La Casa del Abuelo}	{40.41579823308616,-3.701619283407181,Madrid,Comunidad de Madrid,Spain}	{Food,}
+2821	Sun Apr 18 13:55:49 +0000 2010	4bcb0f57b6c49c74c4699191	{La Cueva del Gato}	{40.41583862425218,-3.7016242384273763,Madrid,Madrid,Spain}	{Food,}
+2821	Sun Apr 18 13:54:18 +0000 2010	4bcb0efa0687ef3bf4eddccc	{La Oreja de Oro}	{40.416008,-3.701554,,,Spain}	{Food,}
+2821	Sat Apr 17 22:50:48 +0000 2010	4b4e3e50f964a52097e626e3	{Restaurante Bot?n}	{40.41426184614095,-3.708095908793296,Madrid,Comunidad de Madrid,Spain}	{Food,}
+2821	Fri Apr 16 13:42:47 +0000 2010	4b5f3d9cf964a52076af29e3	{Museo del Jam?n}	{40.416688718580104,-3.7017183839032715,Madrid,Madrid,Spain}	{Food,}
+2821	Mon Mar 29 01:36:29 +0000 2010	4aeba19ff964a520ffc321e3	{Il Fornaio Restaurant}	{34.011716,-118.49495708942413,Santa Monica,CA,United States}	{Food,}
+2821	Sat Mar 27 23:40:59 +0000 2010	4bae3376f964a52063913be3	{Oswego East High School}	{41.69916010683034,-88.28003883361816,Oswego,IL,United States}	{College & University,School,Professional & Other Places,}
+2821	Thu Mar 25 21:15:44 +0000 2010	4b22ed27f964a520795024e3	{Francesca's by the River}	{41.91145549709097,-88.314768075943,St Charles,IL,United States}	{Food,}
+2821	Thu Mar 18 00:10:38 +0000 2010	4b33f5c0f964a520e02225e3	{St. Petronille}	{41.874418198833524,-88.06893825531006,Glen Ellyn,IL,United States}	{Spiritual Center,Professional & Other Places,}
+2821	Sat Mar 13 01:27:55 +0000 2010	4b9bfde1f964a520453e36e3	{Sportsplex}	{41.91783925864922,-88.33242609763069,St Charles,IL,United States}	{Stadium,College & University,Arts & Entertainment,}
+2821	Mon Mar 08 13:28:51 +0000 2010	4b7d3e69f964a5205db42fe3	{Metra - Glen Ellyn}	{41.87649438678416,-88.0646588207429,Glen Ellyn,IL,United States}	{Travel & Transport,}
+2821	Mon Feb 15 02:49:45 +0000 2010	4bd0eceab221c9b65ec6d4d0	{Carlos Miguel's Mexican Bar & Grill}	{39.58540856838226,-106.09503734,Frisco,CO,United States}	{Food,}
+2821	Sat Feb 13 02:11:00 +0000 2010	49da5cd2f964a5207b5e1fe3	{Breckenridge Ski Resort}	{39.48392954834591,-106.05750153539462,Breckenridge,CO,United States}	{Travel & Transport,Outdoors & Recreation,Hotel,}
+2821	Thu Feb 11 02:18:07 +0000 2010	4b6e34a1f964a52092b12ce3	{Praga}	{41.8860787153244,-88.02307208333333,Lombard,IL,United States}	{Food,}
+2821	Fri Feb 05 01:02:49 +0000 2010	4b4e033ff964a5201dde26e3	{Soccer City}	{42.09969497206078,-88.01092252835844,Palatine,IL,United States}	{Outdoors & Recreation,Athletics & Sports,}
+2821	Thu Feb 04 15:02:17 +0000 2010	4ae04bd7f964a520867e21e3	{Google}	{41.88926295895321,-87.62896535740471,Chicago,IL,United States}	{Office,Professional & Other Places,}
+2821	Wed Feb 03 17:03:03 +0000 2010	4ae04bd7f964a520867e21e3	{Google}	{41.88926295895321,-87.62896535740471,Chicago,IL,United States}	{Office,Professional & Other Places,}
+2821	Wed Feb 03 17:02:43 +0000 2010	4ae04bd7f964a520867e21e3	{Google}	{41.88926295895321,-87.62896535740471,Chicago,IL,United States}	{Office,Professional & Other Places,}
+2821	Sun Jan 31 15:02:40 +0000 2010	4b14034df964a520b89b23e3	{Barrington High School}	{42.156664019506266,-88.14909291594795,Barrington,IL,United States}	{School,Professional & Other Places,}
+2821	Sun Jan 31 02:30:50 +0000 2010	49e55491f964a520be631fe3	{The Fifty/50}	{41.90316945225625,-87.67906786983269,Chicago,IL,United States}	{Nightlife Spot,Food,}
+2821	Sun Jan 31 01:59:40 +0000 2010	4a4d9f47f964a5200bae1fe3	{Mirai Sushi}	{41.90322600987262,-87.67820126242586,Chicago,IL,United States}	{Food,}

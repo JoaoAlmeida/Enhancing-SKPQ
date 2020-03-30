@@ -1,0 +1,330 @@
+1231	Tue Nov 22 14:29:18 +0000 2011	4a87f458f964a520f00420e3	{Albany International Airport (ALB)}	{42.74524729560673,-73.80975723266602,Albany,NY,United States}	{Travel & Transport,Airport,}
+===
+1231	Fri Aug 12 01:30:32 +0000 2011	4a677f82f964a52091c91fe3	{Las Vegas McCarran International Airport (LAS)}	{36.08365019548198,-115.14985084533691,Las Vegas,NV,United States}	{Travel & Transport,}
+1231	Thu Aug 11 23:43:44 +0000 2011	4a344606f964a520069c1fe3	{Bob Hope Airport (BUR)}	{34.19639831676446,-118.35313796997072,Burbank,CA,United States}	{Travel & Transport,}
+1231	Tue Aug 09 01:22:43 +0000 2011	4a91cac7f964a520d61b20e3	{Katsu-Ya}	{34.140873,-118.38732783,Studio City,CA,United States}	{Food,}
+1231	Mon Aug 08 03:02:42 +0000 2011	4283ee00f964a52096221fe3	{Hard Rock Hotel}	{41.88676962235482,-87.62484925906477,Chicago,IL,United States}	{Travel & Transport,Hotel,}
+1231	Sun Aug 07 18:57:09 +0000 2011	4e3343051f6efba2411534f3	{Lollapalooza 2011}	{41.87601593783622,-87.62137413024902,Chicago,IL,United States}	{Arts & Entertainment,}
+1231	Sun Aug 07 02:33:21 +0000 2011	40b28c80f964a5200afc1ee3	{Metro}	{41.949824644573184,-87.65867896929342,Chicago,IL,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+1231	Sat Aug 06 16:18:14 +0000 2011	4e3343051f6efba2411534f3	{Lollapalooza 2011}	{41.87601593783622,-87.62137413024902,Chicago,IL,United States}	{Arts & Entertainment,}
+1231	Sat Aug 06 03:47:35 +0000 2011	4283ee00f964a52096221fe3	{Hard Rock Hotel}	{41.88676962235482,-87.62484925906477,Chicago,IL,United States}	{Travel & Transport,Hotel,}
+1231	Fri Aug 05 20:32:06 +0000 2011	4e3343051f6efba2411534f3	{Lollapalooza 2011}	{41.87601593783622,-87.62137413024902,Chicago,IL,United States}	{Arts & Entertainment,}
+1231	Fri Aug 05 07:05:26 +0000 2011	4a9a2de1f964a520a13120e3	{O'Callaghans}	{41.88994500694795,-87.62926899944804,Chicago,IL,United States}	{Nightlife Spot,}
+1231	Fri Aug 05 06:53:48 +0000 2011	4a9a2de1f964a520a13120e3	{O'Callaghans}	{41.88994500694795,-87.62926899944804,Chicago,IL,United States}	{Nightlife Spot,}
+1231	Fri Aug 05 03:16:27 +0000 2011	49f64267f964a5202b6c1fe3	{Elephant & Castle}	{41.88549286939492,-87.62622284819078,Chicago,IL,United States}	{Nightlife Spot,Food,}
+1231	Fri Aug 05 02:26:10 +0000 2011	4a81d651f964a520b1f71fe3	{ROOF}	{41.885537633863606,-87.62789726257324,Chicago,IL,United States}	{Nightlife Spot,}
+1231	Fri Aug 05 01:32:41 +0000 2011	4a9a2de1f964a520a13120e3	{O'Callaghans}	{41.88994500694795,-87.62926899944804,Chicago,IL,United States}	{Nightlife Spot,}
+1231	Thu Aug 04 21:06:52 +0000 2011	4283ee00f964a52096221fe3	{Hard Rock Hotel}	{41.88676962235482,-87.62484925906477,Chicago,IL,United States}	{Travel & Transport,Hotel,}
+1231	Thu Aug 04 19:23:30 +0000 2011	4a5a77a4f964a52062ba1fe3	{Chicago O'Hare International Airport (ORD)}	{41.977270920041626,-87.90440082550049,Chicago,IL,United States}	{Travel & Transport,}
+1231	Thu Aug 04 13:52:45 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1231	Wed Aug 03 02:24:13 +0000 2011	4c6207e3fa7bc92820600d27	{Diamond Club at Angel Stadium}	{33.799713462068965,-117.88330614566803,Anaheim,CA,United States}	{Food,}
+1231	Tue Aug 02 20:16:07 +0000 2011	4adb9722f964a520392921e3	{Bobby's Place}	{34.149547,-118.136737,Pasadena,CA,United States}	{Food,}
+1231	Mon Aug 01 01:29:10 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1231	Sun Jul 31 01:09:18 +0000 2011	4de97718814d76ba5400e8ab	{LA Rising}	{34.01400084748769,-118.28793346881866,Los Angeles,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1231	Wed Jul 27 03:37:30 +0000 2011	4a331c91f964a520039b1fe3	{The Greek Theatre}	{34.11950122446083,-118.2963877916336,Los Angeles,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+1231	Tue Jul 26 15:02:24 +0000 2011	4bd8626af645c9b6acc4a7e0	{Encino Family Dental}	{34.154903675838085,-118.47565545542088,Encino,CA,United States}	{}
+1231	Tue Jul 26 02:09:03 +0000 2011	4161e400f964a5206f1d1fe3	{The Hollywood Bowl}	{34.11223093293252,-118.33858966827391,Los Angeles,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+1231	Sun Jul 24 17:52:01 +0000 2011	4d7ce86786cfa1430ba4d2a0	{The Original Brooklyn Water Bagel Co.}	{34.06274810023595,-118.39910080204449,Beverly Hills,CA,United States}	{Food,}
+1231	Sun Jul 24 03:21:01 +0000 2011	3fd66200f964a5201ef01ee3	{The Fox & Hounds}	{34.14107747404742,-118.37206363677979,Los Angeles,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+1231	Sat Jul 23 03:52:03 +0000 2011	47cedc51f964a520064e1fe3	{The Forum}	{33.95820919323983,-118.34187805652618,Inglewood,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1231	Fri Jul 22 15:47:02 +0000 2011	4db755015da3b5fa68a8a575	{Universal Music Group Distribution}	{34.13860882666638,-118.36227979656249,Universal City,CA,United States}	{Professional & Other Places,}
+1231	Wed Jul 20 20:14:23 +0000 2011	3fd66200f964a52063ee1ee3	{Great Western Steak & Hoagie Company}	{33.996535,-118.45753,Venice,CA,United States}	{Food,}
+1231	Wed Jul 20 18:28:06 +0000 2011	4c50900a0ef3a59328dd917a	{Interscope / Geffen / A&M Records}	{34.02774686442731,-118.47429818784438,Santa Monica,CA,United States}	{Office,Professional & Other Places,}
+1231	Tue Jul 19 03:59:26 +0000 2011	4b1eb74df964a520611e24e3	{Umami Burger}	{34.098816244075614,-118.32915512499174,Los Angeles,CA,United States}	{Food,}
+1231	Tue Jul 19 02:21:08 +0000 2011	4283ee00f964a52089221fe3	{Hotel Cafe}	{34.10045740615839,-118.3297730349598,Los Angeles,CA,United States}	{Music Venue,Arts & Entertainment,}
+1231	Sat Jul 16 03:20:33 +0000 2011	4aba7ad8f964a520828120e3	{STK}	{34.08518280588286,-118.3768379688263,West Hollywood,CA,United States}	{Food,}
+1231	Fri Jul 15 20:23:03 +0000 2011	4df8ba7f18385456c7f59fe0	{The Counter}	{34.15233632149877,-118.35163593292236,Toluca Lake,CA,United States}	{Food,}
+1231	Thu Jul 14 20:54:19 +0000 2011	4b4e3858f964a520b1e526e3	{Sharky's Woodfired Mexican Grill}	{34.152359,-118.351439,Toluca Lake,CA,United States}	{Food,}
+1231	Wed Jul 13 20:34:03 +0000 2011	4a0f1213f964a5201d761fe3	{California Chicken Cafe}	{34.03426470709576,-118.47994389164649,Santa Monica,CA,United States}	{Food,}
+1231	Wed Jul 13 17:56:14 +0000 2011	4c50900a0ef3a59328dd917a	{Interscope / Geffen / A&M Records}	{34.02774686442731,-118.47429818784438,Santa Monica,CA,United States}	{Office,Professional & Other Places,}
+1231	Mon Jul 11 02:55:12 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1231	Sun Jul 10 22:10:04 +0000 2011	440da2cbf964a52091301fe3	{Austin Bergstrom International Airport (AUS)}	{30.202558756341976,-97.66759872436523,Austin,TX,United States}	{Travel & Transport,}
+1231	Sun Jul 10 05:25:00 +0000 2011	49b73729f964a52023531fe3	{Hyatt Regency Austin}	{30.26067966434234,-97.74679899215698,Austin,TX,United States}	{Travel & Transport,}
+1231	Sun Jul 10 01:10:39 +0000 2011	4a79f1f6f964a52011e81fe3	{Vintage Villas}	{30.404648709011475,-97.93081664563502,Austin,TX,United States}	{Travel & Transport,Hotel,Professional & Other Places,}
+1231	Sat Jul 09 17:57:25 +0000 2011	4ad60e1cf964a520d40421e3	{Jimmy John's}	{30.267905,-97.742322,Austin,TX,United States}	{Food,}
+1231	Sat Jul 09 06:27:47 +0000 2011	4cd226ab48b83704b098fdde	{Roi?l}	{30.26711071143087,-97.74385929107666,Austin,TX,United States}	{Nightlife Spot,}
+1231	Sat Jul 09 04:29:17 +0000 2011	414f6f00f964a520fc1c1fe3	{The Jackalope}	{30.267240440035035,-97.7389669418335,Austin,TX,United States}	{Nightlife Spot,Food,}
+1231	Sat Jul 09 02:36:09 +0000 2011	45f02c8af964a520b9431fe3	{Four Seasons Hotel Austin}	{30.261688726918173,-97.74231372824289,Austin,TX,United States}	{Nightlife Spot,Travel & Transport,Hotel,}
+1231	Fri Jul 08 23:05:49 +0000 2011	4c16cd03955976b01a29a5f6	{Uchiko}	{30.310775023080804,-97.73986401566145,Austin,TX,United States}	{Food,}
+1231	Fri Jul 08 19:52:00 +0000 2011	4ad015dbf964a5208ad720e3	{Gourdough's}	{30.249449755981548,-97.75498908659982,Austin,TX,United States}	{Food,}
+1231	Fri Jul 08 19:06:33 +0000 2011	45f19148f964a520cf431fe3	{Iron Works BBQ}	{30.26229444899646,-97.73897815107914,Austin,TX,United States}	{Food,}
+1231	Fri Jul 08 19:05:12 +0000 2011	40b13b00f964a5207cf31ee3	{Chain Drive}	{30.261439,-97.7396886,Austin,TX,United States}	{Nightlife Spot,Outdoors & Recreation,}
+1231	Fri Jul 08 18:38:31 +0000 2011	43582f80f964a520dd281fe3	{Whole Foods Market}	{30.270864484028394,-97.75367857850739,Austin,TX,United States}	{Shop & Service,Food & Drink Shop,}
+1231	Fri Jul 08 18:34:51 +0000 2011	4a078354f964a52077731fe3	{Amy's Ice Creams}	{30.271864226197987,-97.75446474552155,Austin,TX,United States}	{Food,}
+1231	Fri Jul 08 18:23:57 +0000 2011	41059b00f964a520830b1fe3	{Waterloo Records}	{30.27183050926194,-97.75416139444529,Austin,TX,United States}	{Shop & Service,Music Venue,Arts & Entertainment,}
+1231	Fri Jul 08 18:09:54 +0000 2011	4c19052898f4a593e66bfff5	{Capitol Center}	{30.27184328084779,-97.74129627537899,Austin,TX,United States}	{Professional & Other Places,}
+1231	Fri Jul 08 16:33:44 +0000 2011	40b13b00f964a5209bf31ee3	{The Driskill}	{30.2678890804847,-97.74164915084839,Austin,TX,United States}	{Travel & Transport,}
+1231	Fri Jul 08 06:39:36 +0000 2011	4419f818f964a52033311fe3	{Coyote Ugly Saloon}	{30.266661869115303,-97.73825673665638,Austin,TX,United States}	{Nightlife Spot,}
+1231	Fri Jul 08 06:20:52 +0000 2011	43e5cda9f964a520f92e1fe3	{Buffalo Billiards}	{30.267490630430466,-97.74128437042236,Austin,TX,United States}	{Nightlife Spot,}
+1231	Fri Jul 08 06:14:14 +0000 2011	44185019f964a5201d311fe3	{The Chuggin' Monkey}	{30.26741650000939,-97.74067282676697,Austin,TX,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+1231	Fri Jul 08 05:05:24 +0000 2011	440da2cbf964a52091301fe3	{Austin Bergstrom International Airport (AUS)}	{30.202558756341976,-97.66759872436523,Austin,TX,United States}	{Travel & Transport,}
+1231	Thu Jul 07 23:47:10 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1231	Thu Jul 07 01:38:58 +0000 2011	4b80d880f964a520c88e30e3	{Upper West}	{34.02725938319153,-118.4549701764305,Santa Monica,CA,United States}	{Food,}
+1231	Wed Jul 06 19:37:33 +0000 2011	4b6867e5f964a52078762be3	{Interscope Records}	{34.02775403692443,-118.47396742347259,Santa Monica,CA,United States}	{Office,Professional & Other Places,}
+1231	Wed Jul 06 02:03:38 +0000 2011	4c256480136d20a12b9be361	{Dodger Dugout}	{34.07355509691827,-118.24046239256859,Los Angeles,CA,United States}	{Stadium,Outdoors & Recreation,Arts & Entertainment,Athletics & Sports,}
+1231	Mon Jul 04 20:09:27 +0000 2011	4b7ad665f964a520ec3f2fe3	{Balboa Island}	{33.60695292714228,-117.88982391357422,Balboa,CA,United States}	{Travel & Transport,Shop & Service,}
+1231	Mon Jul 04 17:09:56 +0000 2011	4b00ddd3f964a5205d4122e3	{Hyatt Regency Huntington Beach Resort and Spa}	{33.65120829920497,-117.99041748046875,Huntington Beach,CA,United States}	{Travel & Transport,Hotel,}
+1231	Sat Jul 02 16:03:07 +0000 2011	4b7980aaf964a5202ffd2ee3	{elkins ranch golf course}	{34.3715246327375,-118.91054782800279,Fillmore,CA,United States}	{}
+1231	Wed Jun 29 18:14:44 +0000 2011	4c50900a0ef3a59328dd917a	{Interscope / Geffen / A&M Records}	{34.02774686442731,-118.47429818784438,Santa Monica,CA,United States}	{Office,Professional & Other Places,}
+1231	Wed Jun 29 02:39:05 +0000 2011	4b847ceef964a520633831e3	{Hard Rock Cafe Hollywood}	{34.1015442022264,-118.34043502807616,Hollywood,CA,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+1231	Mon Jun 27 14:20:38 +0000 2011	4c90dee2238c6dcbf40ebb55	{Jury Assembly Room}	{34.055291519931075,-118.24643506299157,Los Angeles,CA,United States}	{Government Building,Professional & Other Places,}
+1231	Sun Jun 26 23:08:27 +0000 2011	49f8e6b2f964a520376d1fe3	{The Peninsula Beverly Hills @ThePeninsulaBH}	{34.0659877750006,-118.41050551437249,Beverly Hills,CA,United States}	{Travel & Transport,Food,}
+1231	Sat Jun 25 19:07:21 +0000 2011	49c31443f964a52054561fe3	{The Americana at Brand}	{34.14381241092894,-118.25670719146729,Glendale,CA,United States}	{Shop & Service,Arts & Entertainment,}
+1231	Fri Jun 24 20:18:20 +0000 2011	4a26b613f964a520c67e1fe3	{Barone's}	{34.1791767631558,-118.43205196395331,Van Nuys,CA,United States}	{Food,}
+1231	Fri Jun 24 17:54:35 +0000 2011	4db755015da3b5fa68a8a575	{Universal Music Group Distribution}	{34.13860882666638,-118.36227979656249,Universal City,CA,United States}	{Professional & Other Places,}
+1231	Fri Jun 24 04:16:27 +0000 2011	4bac0cb0f964a520b5e03ae3	{Chipotle Mexican Grill}	{34.14359930214457,-118.39772701263428,Studio City,CA,United States}	{Food,}
+1231	Thu Jun 23 20:49:05 +0000 2011	4a57d7e9f964a520ecb61fe3	{Terranea Resort}	{33.73836693773733,-118.39776002695106,Rancho Palos Verdes,CA,United States}	{Nightlife Spot,Travel & Transport,Hotel,}
+1231	Thu Jun 23 02:55:25 +0000 2011	4a10cf5ef964a52000771fe3	{The Counter}	{34.143741013837506,-118.3961100297899,Studio City,CA,United States}	{Food,}
+1231	Thu Jun 23 01:04:43 +0000 2011	4ba53ee8f964a52010f138e3	{Empty Vase Florist}	{34.08248595941724,-118.3879852294922,West Hollywood,CA,United States}	{Shop & Service,}
+1231	Wed Jun 22 20:38:00 +0000 2011	4a2ffbe1f964a52001991fe3	{Bay Cities Italian Deli & Bakery}	{34.01789838790906,-118.48917049605161,Santa Monica,CA,United States}	{Food,}
+1231	Wed Jun 22 19:25:58 +0000 2011	4b6867e5f964a52078762be3	{Interscope Records}	{34.02775403692443,-118.47396742347259,Santa Monica,CA,United States}	{Office,Professional & Other Places,}
+1231	Wed Jun 22 16:28:10 +0000 2011	4db755015da3b5fa68a8a575	{Universal Music Group Distribution}	{34.13860882666638,-118.36227979656249,Universal City,CA,United States}	{Professional & Other Places,}
+1231	Tue Jun 21 01:55:48 +0000 2011	4667bf5af964a52087471fe3	{Timmy Nolan's Tavern & Grill}	{34.15236571674361,-118.35108867652893,Toluca Lake,CA,United States}	{Nightlife Spot,Food,}
+1231	Sun Jun 19 19:42:32 +0000 2011	4aca27e7f964a520a4c020e3	{Nokia Theatre}	{34.04434326944229,-118.26706051826477,Los Angeles,CA,United States}	{Music Venue,Arts & Entertainment,}
+1231	Sun Jun 19 07:13:14 +0000 2011	4ae54220f964a52095a021e3	{The Den of Hollywood}	{34.09750634541096,-118.3683568239212,West Hollywood,CA,United States}	{Nightlife Spot,}
+1231	Sun Jun 19 05:32:29 +0000 2011	4ae54220f964a52095a021e3	{The Den of Hollywood}	{34.09750634541096,-118.3683568239212,West Hollywood,CA,United States}	{Nightlife Spot,}
+1231	Sun Jun 19 03:02:48 +0000 2011	4bc240b174a9a593110bd3f6	{Asia De Cuba}	{34.094326,-118.374391,West Hollywood,CA,United States}	{Nightlife Spot,Food,}
+1231	Sat Jun 18 15:43:42 +0000 2011	4bdcc259c79cc9280f0688e9	{Simi Hills Golf Course}	{34.28842790021914,-118.6952307835089,Simi Valley,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1231	Sat Jun 18 03:04:10 +0000 2011	4dfa9f9618386e743d959308	{U2 360? Tour Concert @ Angel Stadium}	{33.79986948363153,-117.88308620452881,Anaheim,CA,United States}	{Stadium,Arts & Entertainment,}
+1231	Sat Jun 18 02:04:36 +0000 2011	4a4a8fb7f964a520f3ab1fe3	{Portillo's Hot Dogs}	{33.84635123537568,-117.98708081245422,Buena Park,CA,United States}	{Food,}
+1231	Fri Jun 17 02:30:06 +0000 2011	4a91cac7f964a520d61b20e3	{Katsu-Ya}	{34.140873,-118.38732783,Studio City,CA,United States}	{Food,}
+1231	Thu Jun 16 03:43:40 +0000 2011	3fd66200f964a52057ef1ee3	{Jones Hollywood}	{34.0908467116676,-118.3464773309664,West Hollywood,CA,United States}	{Nightlife Spot,Food,}
+1231	Wed Jun 15 03:16:00 +0000 2011	40b3de00f964a52018001fe3	{Lucky Strike Lanes}	{34.102419267905745,-118.33888739347458,Los Angeles,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+1231	Tue Jun 14 03:58:25 +0000 2011	438cf623f964a520302b1fe3	{Hollywood Roosevelt Hotel}	{34.10128656695182,-118.34167957305908,Los Angeles,CA,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+1231	Tue Jun 14 02:00:03 +0000 2011	4ba67c95f964a520545739e3	{Vitello's Italian Restaurant}	{34.14885730775719,-118.37920488107632,Studio City,CA,United States}	{Food,}
+1231	Mon Jun 13 02:30:15 +0000 2011	4b9adf30f964a5201dde35e3	{Lucy's 51}	{34.1523718359934,-118.35233330726624,Toluca Lake,CA,United States}	{Nightlife Spot,Food,}
+1231	Sun Jun 12 23:03:04 +0000 2011	45699daaf964a520e93d1fe3	{Costco}	{34.18171945833922,-118.4640097618103,Van Nuys,CA,United States}	{Shop & Service,Food,}
+1231	Sun Jun 12 20:25:24 +0000 2011	4a831bdcf964a5201ffa1fe3	{Good Neighbor Restaurant}	{34.13485492069669,-118.36140667624193,Studio City,CA,United States}	{Food,}
+1231	Sun Jun 12 16:06:13 +0000 2011	4bc0b415b492d13aa2afa460	{Catalina Kitchen}	{33.73843742795711,-118.3972978591919,Rancho Palos Verdes,CA,United States}	{Food,}
+1231	Sat Jun 11 22:42:41 +0000 2011	4d9e088079d1ba7ad32d3988	{Palos Verdes Street Fair & Music Festival}	{33.773386,-118.374958,Rolling Hills Estates,CA,United States}	{Shop & Service,Arts & Entertainment,Food & Drink Shop,}
+1231	Sat Jun 11 20:25:32 +0000 2011	4b78afeaf964a520d2dd2ee3	{Nelson's}	{33.73672440531326,-118.39901447296143,Rancho Palos Verdes,CA,United States}	{Nightlife Spot,Food,}
+1231	Sat Jun 11 19:52:05 +0000 2011	4b37b830f964a520fe4425e3	{Trump National Golf Club}	{33.7297599001973,-118.34972469016115,Rancho Palos Verdes,CA,United States}	{Outdoors & Recreation,Food,Athletics & Sports,}
+1231	Sat Jun 11 18:51:19 +0000 2011	4c9e9dc12fb1a1435282ec40	{Cielo Point Pool}	{33.737981116828905,-118.39623095970647,Rancho Palos Verdes,CA,United States}	{Outdoors & Recreation,}
+1231	Sat Jun 11 17:26:54 +0000 2011	4bd490c27b1876b04a4c8986	{The Links at Terranea}	{33.7397691320788,-118.39526672729319,Rancho Palos Verdes,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1231	Sat Jun 11 03:08:09 +0000 2011	4a57d7e9f964a520ecb61fe3	{Terranea Resort}	{33.73836693773733,-118.39776002695106,Rancho Palos Verdes,CA,United States}	{Nightlife Spot,Travel & Transport,Hotel,}
+1231	Fri Jun 10 20:05:46 +0000 2011	4c6e045df338236a538b091b	{Chi Dynasty}	{34.14346872,-118.399708,Studio City,CA,United States}	{Food,}
+1231	Fri Jun 10 03:04:01 +0000 2011	3fd66200f964a5201ef01ee3	{The Fox & Hounds}	{34.14107747404742,-118.37206363677979,Los Angeles,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+1231	Fri Jun 10 02:34:16 +0000 2011	4d3b38580333a093ca7a5c34	{Umami Burger}	{34.14350115,-118.39734223333333,Studio City,CA,United States}	{Food,}
+1231	Thu Jun 09 01:26:12 +0000 2011	4396d5a8f964a520962b1fe3	{Hillstone}	{34.017771455915835,-118.4999942779541,Santa Monica,CA,United States}	{Food,}
+1231	Thu Jun 09 01:14:45 +0000 2011	4a99a6a8f964a520a42f20e3	{Vanilla Bake Shop}	{34.020114,-118.49689,Santa Monica,CA,United States}	{Food,}
+1231	Wed Jun 08 20:06:19 +0000 2011	4ded8751d4c0194252e9ee0b	{G4 E3 2011 @ LA Convention Center}	{34.040229,-118.269176,Los Angeles,CA,United States}	{Arts & Entertainment,}
+1231	Wed Jun 08 19:14:43 +0000 2011	49b064dcf964a520bc521fe3	{Wurstk?che}	{34.04562341435375,-118.23610246181488,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+1231	Wed Jun 08 03:44:02 +0000 2011	4c8ba4341eafb1f769718535	{Chez Terry}	{34.11181779616796,-118.29358911079169,,CA,United States}	{Residence,}
+1231	Tue Jun 07 19:57:47 +0000 2011	4c49036b20ab1b8d9e953216	{Ramen Jinya}	{34.141610260902546,-118.37530374526978,Studio City,CA,United States}	{Food,}
+1231	Sat Jun 04 19:11:10 +0000 2011	45699daaf964a520e93d1fe3	{Costco}	{34.18171945833922,-118.4640097618103,Van Nuys,CA,United States}	{Shop & Service,Food,}
+1231	Sat Jun 04 17:05:40 +0000 2011	4d7ce86786cfa1430ba4d2a0	{The Original Brooklyn Water Bagel Co.}	{34.06274810023595,-118.39910080204449,Beverly Hills,CA,United States}	{Food,}
+1231	Sat Jun 04 04:50:32 +0000 2011	4d1ed48486e15481b8a2ad3a	{The Federal Bar}	{34.16713295910382,-118.37632328606576,North Hollywood,CA,United States}	{Nightlife Spot,Food,}
+1231	Sat Jun 04 00:59:01 +0000 2011	46cf28b9f964a520454a1fe3	{Hollywood & Highland Center}	{34.10232154528382,-118.33939969539642,Los Angeles,CA,United States}	{Shop & Service,Arts & Entertainment,}
+1231	Thu Jun 02 20:06:33 +0000 2011	4c2122ef13c00f47ce7d85de	{Food Trucks}	{34.14141934599903,-118.36203217506409,Studio City,CA,United States}	{Food,}
+1231	Thu Jun 02 16:16:03 +0000 2011	4db755015da3b5fa68a8a575	{Universal Music Group Distribution}	{34.13860882666638,-118.36227979656249,Universal City,CA,United States}	{Professional & Other Places,}
+1231	Thu Jun 02 04:28:31 +0000 2011	3fd66200f964a52037f01ee3	{Rainbow Bar & Grill}	{34.090764848663405,-118.38806048343042,West Hollywood,CA,United States}	{Nightlife Spot,Performing Arts Venue,Food,Arts & Entertainment,}
+1231	Sun May 29 20:01:34 +0000 2011	4a57d7e9f964a520ecb61fe3	{Terranea Resort}	{33.73836693773733,-118.39776002695106,Rancho Palos Verdes,CA,United States}	{Nightlife Spot,Travel & Transport,Hotel,}
+1231	Sun May 29 04:03:17 +0000 2011	4d69ccb8de28224b2c3d48be	{Hot's Kitchen}	{33.859936691317486,-118.39930415153503,Hermosa Beach,CA,United States}	{Food,}
+1231	Sat May 28 23:31:29 +0000 2011	4dd4582c091abf67d5ed3547	{The Rockefeller}	{33.86409052704994,-118.39727640151978,Hermosa Beach,CA,United States}	{Food,}
+1231	Sat May 28 22:30:28 +0000 2011	4a500c36f964a520f1af1fe3	{Underground Pub and Grill}	{33.863502,-118.39992642402649,Hermosa Beach,CA,United States}	{Nightlife Spot,}
+1231	Sat May 28 21:27:36 +0000 2011	45057bd7f964a52000391fe3	{North End Bar & Grill}	{33.872477,-118.40523183345795,Hermosa Beach,CA,United States}	{Nightlife Spot,}
+1231	Sat May 28 20:55:51 +0000 2011	4b462411f964a520d01726e3	{Beckers Bakery & Deli}	{33.88389920438555,-118.41040581464767,Manhattan Beach,CA,United States}	{Food,}
+1231	Sat May 28 19:15:38 +0000 2011	4af4d5f8f964a520bdf621e3	{Simmzy's}	{33.885105744565315,-118.40996353713197,Manhattan Beach,CA,United States}	{Nightlife Spot,Food,}
+1231	Sat May 28 17:02:50 +0000 2011	4cb75ed5b315a093aaa1a276	{XIV Karats Ltd.}	{34.061546614178326,-118.39883835329643,Beverly Hills,CA,United States}	{Shop & Service,}
+1231	Sat May 28 16:45:21 +0000 2011	4d7ce86786cfa1430ba4d2a0	{The Original Brooklyn Water Bagel Co.}	{34.06274810023595,-118.39910080204449,Beverly Hills,CA,United States}	{Food,}
+1231	Thu May 19 18:11:52 +0000 2011	4c17af1f216fc9b6bacf8f96	{French Village - Beaches Resort}	{21.78679481463523,-72.19514551050683,,,Turks and Caicos Islands}	{Travel & Transport,}
+1231	Thu May 19 11:08:26 +0000 2011	4b89fb5df964a5200d5a32e3	{Miami International Airport (MIA)}	{25.794984114780963,-80.27576923370361,Miami,FL,United States}	{Travel & Transport,}
+1231	Thu May 19 03:58:17 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1231	Sun May 15 18:08:52 +0000 2011	49c198b8f964a520b8551fe3	{Nate 'n Al Delicatessen}	{34.07033,-118.40214192867279,Beverly Hills,CA,United States}	{Food,}
+1231	Sun May 15 01:35:52 +0000 2011	4a91cac7f964a520d61b20e3	{Katsu-Ya}	{34.140873,-118.38732783,Studio City,CA,United States}	{Food,}
+1231	Thu May 12 16:36:48 +0000 2011	4dc72c8f887717c8804ee2c3	{NARM 2011 Convention & Crash Course}	{34.058639,-118.415215,Los Angeles,CA,United States}	{Professional & Other Places,}
+1231	Tue May 10 18:22:45 +0000 2011	4dc72c8f887717c8804ee2c3	{NARM 2011 Convention & Crash Course}	{34.058639,-118.415215,Los Angeles,CA,United States}	{Professional & Other Places,}
+1231	Tue May 10 00:28:17 +0000 2011	4a7c79e0f964a520baec1fe3	{Hyatt Regency Century Plaza}	{34.05763913064771,-118.41572552100155,Los Angeles,CA,United States}	{Nightlife Spot,Travel & Transport,}
+1231	Sat May 07 07:14:27 +0000 2011	3fd66200f964a5201ef01ee3	{The Fox & Hounds}	{34.14107747404742,-118.37206363677979,Los Angeles,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+1231	Thu May 05 02:22:23 +0000 2011	4d4f39b39a2a6ea8ad4b2a6f	{Malibu Beach, CA}	{34.032763303040916,-118.6882209777832,Malibu Beach,CA,United States}	{Outdoors & Recreation,Beach,}
+1231	Sun May 01 06:52:33 +0000 2011	4d248f4cdaa93704b374c681	{Playboy Mansion}	{34.229566695781294,-118.59730501968802,Canoga Park,CA,United States}	{Spiritual Center,Professional & Other Places,Residence,}
+1231	Sat Apr 30 02:29:49 +0000 2011	3fd66200f964a520c8ee1ee3	{Crustacean}	{34.06926261602047,-118.4060525894165,Beverly Hills,CA,United States}	{Food,}
+1231	Thu Apr 28 02:51:17 +0000 2011	4b37d4b4f964a520074725e3	{Marmalade Cafe}	{34.15343726388763,-118.64612102508545,Calabasas,CA,United States}	{Food,}
+1231	Wed Apr 27 05:35:57 +0000 2011	3fd66200f964a52096ee1ee3	{The Satellite}	{34.0898465481016,-118.26825946569443,Los Angeles,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+1231	Wed Apr 27 04:33:04 +0000 2011	49e7a2f3f964a520f2641fe3	{Dusty's}	{34.085469,-118.275082,Los Angeles,CA,United States}	{Food,}
+1231	Sun Apr 24 03:33:54 +0000 2011	413f9d00f964a520691c1fe3	{El Cholo Cafe}	{34.02444742311588,-118.49222123622894,Santa Monica,CA,United States}	{Food,}
+1231	Sun Apr 24 00:30:39 +0000 2011	4a5ce0cef964a520c2bc1fe3	{Hotel Shangri-La}	{34.015504581195806,-118.49921767113936,Santa Monica,CA,United States}	{Travel & Transport,}
+1231	Thu Apr 21 04:13:13 +0000 2011	4106ec80f964a520870b1fe3	{The Fonda Theatre}	{34.10127768296285,-118.32327157258987,Los Angeles,CA,United States}	{Music Venue,Arts & Entertainment,}
+1231	Sun Apr 17 08:35:07 +0000 2011	4f408d54e4b0085fed99ac57	{Do-Over (Sleep-Over)}	{33.80069753192774,-116.53971657179623,Palm Springs,CA,United States}	{Nightlife Spot,}
+1231	Sun Apr 17 00:03:31 +0000 2011	4bc72cc52f94d13a5b5d117f	{Coachella Valley Music and Arts Festival}	{33.68178249178,-116.24299049377441,Indio,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+1231	Fri Apr 15 22:48:41 +0000 2011	4bc72cc52f94d13a5b5d117f	{Coachella Valley Music and Arts Festival}	{33.68178249178,-116.24299049377441,Indio,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+1231	Thu Apr 14 02:12:52 +0000 2011	4a240eddf964a520f27d1fe3	{Bar * Food}	{34.04327,-118.46875791,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+1231	Wed Apr 13 04:45:09 +0000 2011	4a596c45f964a5205fb91fe3	{Club Nokia}	{34.04455218329944,-118.26516151428223,Los Angeles,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+1231	Wed Apr 13 02:46:31 +0000 2011	42893400f964a5207e231fe3	{STAPLES Center}	{34.043058660157634,-118.26724290847778,Los Angeles,CA,United States}	{Stadium,Arts & Entertainment,}
+1231	Wed Apr 13 01:22:51 +0000 2011	4bbfa7ac2a89ef3b5f50ef88	{WP24 by Wolfgang Puck}	{34.045326992744165,-118.26637707999998,Los Angeles,CA,United States}	{Food,}
+1231	Sun Apr 03 17:56:09 +0000 2011	46784081f964a520ec471fe3	{Basix Cafe}	{34.09075486312313,-118.37139878262235,West Hollywood,CA,United States}	{Food,}
+1231	Sun Apr 03 03:12:20 +0000 2011	4a83391cf964a5206afa1fe3	{Prosecco Trattoria}	{34.15201669037524,-118.35230112075806,Toluca Lake,CA,United States}	{Food,}
+1231	Sat Apr 02 15:59:17 +0000 2011	4bbf3fcc82a2ef3bea6b2cd2	{Sterling Hills Golf Club}	{34.24504036768681,-119.09239768981934,Camarillo,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1231	Sat Apr 02 03:08:32 +0000 2011	4a596c45f964a5205fb91fe3	{Club Nokia}	{34.04455218329944,-118.26516151428223,Los Angeles,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+1231	Sat Apr 02 01:32:14 +0000 2011	4ab9837df964a520af7f20e3	{Rosa Mexicano}	{34.04507668816205,-118.26518297195435,Los Angeles,CA,United States}	{Food,}
+1231	Fri Mar 25 23:25:41 +0000 2011	4b48c67af964a5206d5626e3	{Auto Club Speedway}	{34.086274626627656,-117.50052139163017,Fontana,CA,United States}	{Arts & Entertainment,}
+1231	Mon Mar 21 00:02:54 +0000 2011	4d0fbba8d0a860fc6fe83548	{Rainpocalypse 2010-2011}	{34.048001410031155,-118.26138496398926,Los Angeles,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+1231	Sun Mar 20 22:21:00 +0000 2011	4d0fbba8d0a860fc6fe83548	{Rainpocalypse 2010-2011}	{34.048001410031155,-118.26138496398926,Los Angeles,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+1231	Sat Mar 19 00:40:01 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1231	Fri Mar 18 19:48:23 +0000 2011	440da2cbf964a52091301fe3	{Austin Bergstrom International Airport (AUS)}	{30.202558756341976,-97.66759872436523,Austin,TX,United States}	{Travel & Transport,}
+1231	Thu Mar 17 06:34:24 +0000 2011	43e5cda9f964a520f92e1fe3	{Buffalo Billiards}	{30.267490630430466,-97.74128437042236,Austin,TX,United States}	{Nightlife Spot,}
+1231	Thu Mar 17 03:55:25 +0000 2011	4c01ae423ab80f47f29190ff	{The Bat Bar}	{30.267536961915205,-97.74059772491455,Austin,TX,United States}	{Nightlife Spot,}
+1231	Thu Mar 17 03:38:16 +0000 2011	43fda18af964a520f22f1fe3	{Red 7}	{30.266929358759604,-97.73628349377908,Austin,TX,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+1231	Thu Mar 17 00:24:44 +0000 2011	45fbfa6df964a5206c441fe3	{Lambert's Downtown BBQ}	{30.265319943364748,-97.74763039520637,Austin,TX,United States}	{Food,}
+1231	Wed Mar 16 20:57:21 +0000 2011	440da2cbf964a52091301fe3	{Austin Bergstrom International Airport (AUS)}	{30.202558756341976,-97.66759872436523,Austin,TX,United States}	{Travel & Transport,}
+1231	Sat Mar 12 05:15:23 +0000 2011	4b0586a5f964a520fd6822e3	{No Name Saloon & Grill}	{40.64384103880438,-111.49608538591997,Park City,UT,United States}	{Nightlife Spot,}
+1231	Thu Mar 10 05:58:06 +0000 2011	4b0b4488f964a520ad2f23e3	{TAGS}	{34.093237290585265,-118.37785720825195,West Hollywood,CA,United States}	{Shop & Service,Clothing Store,}
+1231	Sun Mar 06 04:20:11 +0000 2011	4c619e4dfa7bc928c8280c27	{Farfalla}	{34.15775109106633,-118.49133165963433,Encino,CA,United States}	{Food,}
+1231	Fri Mar 04 03:49:24 +0000 2011	4a7b9483f964a5207aeb1fe3	{Pantages Theatre}	{34.10185514030627,-118.32560777664185,Los Angeles,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+1231	Tue Mar 01 05:24:08 +0000 2011	41326e00f964a5206f141fe3	{The Joint}	{36.10925895910971,-115.15272617340088,Las Vegas,NV,United States}	{Music Venue,Arts & Entertainment,}
+1231	Sun Feb 27 03:55:23 +0000 2011	4a836d59f964a5201efb1fe3	{Henry's Hat}	{34.131682113940926,-118.3525076508522,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+1231	Sat Feb 26 04:47:31 +0000 2011	4b64cccdf964a52015d12ae3	{The Surly Goat}	{34.09101605307342,-118.36257934570312,West Hollywood,CA,United States}	{Nightlife Spot,}
+1231	Thu Feb 24 04:18:21 +0000 2011	4b52169af964a520d76627e3	{LA Fitness}	{34.16749965237791,-118.41351985931396,Sherman Oaks,CA,United States}	{Shop & Service,}
+1231	Wed Feb 23 21:27:23 +0000 2011	4a0f1213f964a5201d761fe3	{California Chicken Cafe}	{34.03426470709576,-118.47994389164649,Santa Monica,CA,United States}	{Food,}
+1231	Mon Feb 21 18:19:10 +0000 2011	4b7f2258f964a520171930e3	{encino golf course}	{34.17030474762362,-118.49716186523438,Encino,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1231	Mon Feb 21 04:40:36 +0000 2011	4a344606f964a520069c1fe3	{Bob Hope Airport (BUR)}	{34.19639831676446,-118.35313796997072,Burbank,CA,United States}	{Travel & Transport,}
+1231	Mon Feb 21 01:42:03 +0000 2011	4a677f82f964a52091c91fe3	{Las Vegas McCarran International Airport (LAS)}	{36.08365019548198,-115.14985084533691,Las Vegas,NV,United States}	{Travel & Transport,}
+1231	Sun Feb 20 08:30:47 +0000 2011	4d013eda6289f04d14be96cc	{Marquee Nightclub & Dayclub}	{36.10954499497765,-115.17464518547058,Las Vegas,NV,United States}	{Nightlife Spot,Arts & Entertainment,}
+1231	Sun Feb 20 03:30:42 +0000 2011	41326e00f964a520ad141fe3	{N9NE Steakhouse}	{36.11525250808734,-115.19413523621628,Las Vegas,NV,United States}	{Food,}
+1231	Sun Feb 20 03:09:29 +0000 2011	45aa45b2f964a52030411fe3	{Wynn Las Vegas}	{36.12635860619657,-115.16668438911438,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Professional & Other Places,}
+1231	Sat Feb 19 08:22:48 +0000 2011	45aa45b2f964a52030411fe3	{Wynn Las Vegas}	{36.12635860619657,-115.16668438911438,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Professional & Other Places,}
+1231	Sat Feb 19 03:54:49 +0000 2011	4a677f82f964a52091c91fe3	{Las Vegas McCarran International Airport (LAS)}	{36.08365019548198,-115.14985084533691,Las Vegas,NV,United States}	{Travel & Transport,}
+1231	Wed Feb 16 06:01:04 +0000 2011	4b52169af964a520d76627e3	{LA Fitness}	{34.16749965237791,-118.41351985931396,Sherman Oaks,CA,United States}	{Shop & Service,}
+1231	Sun Feb 13 04:00:21 +0000 2011	49bfd795f964a5202b551fe3	{Cliff's Edge}	{34.09017,-118.27760048,Los Angeles,CA,United States}	{Food,}
+1231	Fri Feb 11 04:06:32 +0000 2011	4a7b9483f964a5207aeb1fe3	{Pantages Theatre}	{34.10185514030627,-118.32560777664185,Los Angeles,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+1231	Fri Feb 04 21:04:10 +0000 2011	450e8829f964a52062391fe3	{Langer's Delicatessen-Restaurant}	{34.056247,-118.27678,Los Angeles,CA,United States}	{Food,}
+1231	Thu Feb 03 05:19:02 +0000 2011	4b822447f964a52091cb30e3	{Metro Art Apartments}	{34.14875643847273,-118.36826026371048,,,United States}	{Residence,}
+1231	Thu Feb 03 05:13:17 +0000 2011	4c32b7a866e40f47a1fdc68b	{The Room of Requirement}	{34.14542407552884,-118.3637264271307,San Fernando Valley,CA,United States}	{Residence,}
+1231	Sun Jan 30 22:09:19 +0000 2011	4a57d7e9f964a520ecb61fe3	{Terranea Resort}	{33.73836693773733,-118.39776002695106,Rancho Palos Verdes,CA,United States}	{Nightlife Spot,Travel & Transport,Hotel,}
+===
+1231	Sat Jan 01 04:58:13 +0000 2011	4c32b7a866e40f47a1fdc68b	{The Room of Requirement}	{34.14542407552884,-118.3637264271307,San Fernando Valley,CA,United States}	{Residence,}
+===
+1231	Tue Nov 02 15:37:56 +0000 2010	4cceed4fdd919eb07f84139e	{Voting at RIO VISTA ELEMENTARY SCHOOL}	{34.14721,-118.367325,North Hollywood,CA,United States}	{Professional & Other Places,}
+===
+1231	Fri Aug 20 02:55:31 +0000 2010	40db6b00f964a5207d011fe3	{Dodger Stadium}	{34.073408462960174,-118.24019819498062,Los Angeles,CA,United States}	{Outdoors & Recreation,Stadium,Arts & Entertainment,Athletics & Sports,}
+1231	Sun Aug 08 21:04:43 +0000 2010	4a87f458f964a520f00420e3	{Albany International Airport (ALB)}	{42.74524729560673,-73.80975723266602,Albany,NY,United States}	{Travel & Transport,Airport,}
+===
+1231	Sat Apr 03 03:10:35 +0000 2010	4a165235f964a520fe781fe3	{match}	{34.154473,-118.369492,North Hollywood,CA,United States}	{Nightlife Spot,}
+1231	Fri Apr 02 01:43:30 +0000 2010	3fd66200f964a5201ef01ee3	{The Fox & Hounds}	{34.14107747404742,-118.37206363677979,Los Angeles,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+1231	Thu Apr 01 16:49:59 +0000 2010	4b69b315f964a52080ae2be3	{Universal Music Group Distribution}	{34.138715,-118.36199,Universal City,CA,United States}	{Professional & Other Places,}
+1231	Thu Apr 01 04:25:05 +0000 2010	4a88c7e4f964a520980720e3	{Hard Rock Cafe Hollywood at Universal CityWalk}	{34.13649092826911,-118.35199534893036,Universal City,CA,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+1231	Thu Apr 01 01:09:36 +0000 2010	4bb3f118f187a593f4af13f8	{Thom Thom Club}	{34.027843,-118.475843,Santa Monica,CA,United States}	{Nightlife Spot,}
+1231	Wed Mar 31 18:55:52 +0000 2010	4b6867e5f964a52078762be3	{Interscope Records}	{34.02775403692443,-118.47396742347259,Santa Monica,CA,United States}	{Office,Professional & Other Places,}
+1231	Wed Mar 31 16:25:15 +0000 2010	4b69b315f964a52080ae2be3	{Universal Music Group Distribution}	{34.138715,-118.36199,Universal City,CA,United States}	{Professional & Other Places,}
+1231	Wed Mar 31 01:56:31 +0000 2010	4ae32772f964a520039121e3	{Weddington Golf And Tennis}	{34.145758948092706,-118.4056333611701,Studio City,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1231	Tue Mar 30 16:39:25 +0000 2010	4b69b315f964a52080ae2be3	{Universal Music Group Distribution}	{34.138715,-118.36199,Universal City,CA,United States}	{Professional & Other Places,}
+1231	Mon Mar 29 17:08:05 +0000 2010	4b69b315f964a52080ae2be3	{Universal Music Group Distribution}	{34.138715,-118.36199,Universal City,CA,United States}	{Professional & Other Places,}
+1231	Sun Mar 28 16:46:51 +0000 2010	4baed4fbf964a520a0db3be3	{North Terminal}	{42.22526007509969,-83.34792852401733,Romulus,MI,United States}	{Travel & Transport,Airport,}
+1231	Sun Mar 28 16:03:46 +0000 2010	4b016e84f964a5207f4222e3	{MGM Grand Detroit Casino & Hotel}	{42.33387816616221,-83.05905472021466,Detroit,MI,United States}	{Travel & Transport,Arts & Entertainment,}
+1231	Sat Mar 27 17:52:59 +0000 2010	454b338bf964a520ae3c1fe3	{Pizza House}	{42.27428530589404,-83.73455711391657,Ann Arbor,MI,United States}	{Food,}
+1231	Sat Mar 27 03:16:47 +0000 2010	4b016e84f964a5207f4222e3	{MGM Grand Detroit Casino & Hotel}	{42.33387816616221,-83.05905472021466,Detroit,MI,United States}	{Travel & Transport,Arts & Entertainment,}
+1231	Fri Mar 26 20:31:28 +0000 2010	4a68e3caf964a52037cb1fe3	{Joe Louis Arena}	{42.325237501226574,-83.0514907836914,Detroit,MI,United States}	{Stadium,Arts & Entertainment,}
+1231	Fri Mar 26 19:40:13 +0000 2010	4b155079f964a520a4b023e3	{Michigan Stadium}	{42.265844913470744,-83.74886512756348,Ann Arbor,MI,United States}	{Stadium,College & University,Arts & Entertainment,College Stadium,}
+1231	Fri Mar 26 18:35:55 +0000 2010	4afaf1bdf964a520be1922e3	{University of Michigan Diag}	{42.27692178385964,-83.7382060289383,Ann Arbor,MI,United States}	{College & University,}
+1231	Fri Mar 26 17:57:48 +0000 2010	4ada1473f964a520201e21e3	{Maize N Blue Deli}	{42.275121751229165,-83.73216032981873,Ann Arbor,MI,United States}	{Food,}
+1231	Fri Mar 26 14:12:21 +0000 2010	4ad389ddf964a520cce420e3	{Detroit Marriott at the Renaissance Center}	{42.32887203329071,-83.0399633704354,Detroit,MI,United States}	{Travel & Transport,}
+1231	Fri Mar 26 11:23:37 +0000 2010	4baa71e7f964a520d26a3ae3	{Chicago O'Hare International Airport - Terminal 3, Gate G19}	{41.976318,-87.903008,Chicago,IL,United States}	{Travel & Transport,Airport,}
+1231	Fri Mar 26 04:39:57 +0000 2010	4a5b589ef964a52009bb1fe3	{The Parking Spot}	{33.94617246907436,-118.38056087493896,Los Angeles,CA,United States}	{Professional & Other Places,}
+1231	Thu Mar 25 20:09:34 +0000 2010	4583e5a8f964a5208a3f1fe3	{Jerry's Famous Deli}	{34.144637,-118.409209,Studio City,CA,United States}	{Food,}
+1231	Thu Mar 25 17:16:00 +0000 2010	4b69b315f964a52080ae2be3	{Universal Music Group Distribution}	{34.138715,-118.36199,Universal City,CA,United States}	{Professional & Other Places,}
+1231	Thu Mar 25 05:08:33 +0000 2010	4a165235f964a520fe781fe3	{match}	{34.154473,-118.369492,North Hollywood,CA,United States}	{Nightlife Spot,}
+1231	Thu Mar 25 03:03:35 +0000 2010	4a91cac7f964a520d61b20e3	{Katsu-Ya}	{34.140873,-118.38732783,Studio City,CA,United States}	{Food,}
+1231	Wed Mar 24 15:10:27 +0000 2010	4b69b315f964a52080ae2be3	{Universal Music Group Distribution}	{34.138715,-118.36199,Universal City,CA,United States}	{Professional & Other Places,}
+1231	Tue Mar 23 15:11:33 +0000 2010	4b69b315f964a52080ae2be3	{Universal Music Group Distribution}	{34.138715,-118.36199,Universal City,CA,United States}	{Professional & Other Places,}
+1231	Sun Mar 21 15:00:46 +0000 2010	44d9ff60f964a5208b361fe3	{Dallas/Fort Worth International Airport (DFW)}	{32.89803818160521,-97.04086303710938,DFW Airport,TX,United States}	{Travel & Transport,}
+1231	Sun Mar 21 11:18:22 +0000 2010	4e011d7b22717718d39f878e	{Toll Road 130}	{30.227275458535896,-97.62161777717685,Pflugerville,TX,United States}	{Travel & Transport,}
+1231	Sun Mar 21 02:25:22 +0000 2010	4ba4c74ff964a52003b438e3	{Perez Hilton's One Night In Austin}	{30.265066966666666,-97.742033,Austin,TX,United States}	{Music Venue,Arts & Entertainment,}
+1231	Sun Mar 21 01:24:22 +0000 2010	4ba54b02f964a52021f738e3	{Perez Hilton Party Line}	{30.264987,-97.741612,Austin,TX,United States}	{Nightlife Spot,}
+1231	Sat Mar 20 23:33:25 +0000 2010	42ec1480f964a5209f261fe3	{Roaring Fork}	{30.269181715457854,-97.74214267730713,Austin,TX,United States}	{Food,}
+1231	Sat Mar 20 23:03:59 +0000 2010	49bd4911f964a52060541fe3	{Mooseknuckle}	{30.267182,-97.73899912834167,Austin,TX,United States}	{Nightlife Spot,}
+1231	Sat Mar 20 20:52:57 +0000 2010	4aaf9cddf964a520566420e3	{The Palm Door}	{30.264771715487136,-97.73666540744034,Austin,TX,United States}	{Nightlife Spot,}
+1231	Sat Mar 20 19:48:38 +0000 2010	49b7337ef964a52020531fe3	{Aces Lounge}	{30.267675,-97.740471,Austin,TX,United States}	{Nightlife Spot,Arts & Entertainment,}
+1231	Sat Mar 20 18:04:01 +0000 2010	40b13b00f964a520b1f31ee3	{Iron Cactus Downtown Austin}	{30.267258972678782,-97.73950338363647,Austin,TX,United States}	{Food,}
+1231	Sat Mar 20 01:38:22 +0000 2010	4a9752ccf964a5205f2920e3	{Thirsty Nickel}	{30.26707827925303,-97.73955166339874,Austin,TX,United States}	{Nightlife Spot,}
+1231	Sat Mar 20 00:52:43 +0000 2010	440fee3ef964a520b1301fe3	{Nuno's Bar & Grill}	{30.266895900484723,-97.73834160855789,Austin,TX,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+1231	Fri Mar 19 18:46:41 +0000 2010	40fb0f00f964a520fc0a1fe3	{Stubb's Bar-B-Q}	{30.268695050182224,-97.73612436369821,Austin,TX,United States}	{Music Venue,Food,Arts & Entertainment,}
+1231	Fri Mar 19 18:19:59 +0000 2010	4b9abbeaf964a520f6d035e3	{Urinal #2, floor 24, 515 congress}	{30.26770375507923,-97.74265766143799,Austin,TX,United States}	{Professional & Other Places,}
+1231	Fri Mar 19 06:18:17 +0000 2010	4a9a16b5f964a520883120e3	{Republic Live}	{30.267543937149703,-97.74585317682381,Austin,TX,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+1231	Fri Mar 19 05:36:50 +0000 2010	4a864fd0f964a520f40020e3	{Vice}	{30.26742344973874,-97.74011760950089,Austin,TX,United States}	{Nightlife Spot,}
+1231	Fri Mar 19 03:19:01 +0000 2010	40b13b00f964a52060f31ee3	{Austin Music Hall}	{30.266822423891966,-97.74969945216009,Austin,TX,United States}	{Arts & Entertainment,Professional & Other Places,}
+1231	Fri Mar 19 02:46:52 +0000 2010	4b8969d8f964a520ec3332e3	{Live.Create.Lounge}	{30.265852,-97.73856,Austin,TX,United States}	{Arts & Entertainment,}
+1231	Fri Mar 19 00:36:32 +0000 2010	42ec1480f964a5209f261fe3	{Roaring Fork}	{30.269181715457854,-97.74214267730713,Austin,TX,United States}	{Food,}
+1231	Thu Mar 18 20:51:48 +0000 2010	49b6d215f964a52013531fe3	{Shiner's Saloon}	{30.266920751379743,-97.74341404438019,Austin,TX,United States}	{Nightlife Spot,Arts & Entertainment,}
+1231	Thu Mar 18 18:48:13 +0000 2010	40b13b00f964a520e8f31ee3	{Speakeasy}	{30.26672953400244,-97.74363569553832,Austin,TX,United States}	{Nightlife Spot,Arts & Entertainment,}
+1231	Thu Mar 18 08:06:09 +0000 2010	47e2a0c6f964a520474e1fe3	{Stephen F Austin InterContinental Hotel}	{30.26897112529902,-97.74229887450717,Austin,TX,United States}	{Nightlife Spot,Travel & Transport,}
+1231	Thu Mar 18 06:59:57 +0000 2010	422f8e00f964a520fc1f1fe3	{Elysium}	{30.267594085058374,-97.73666010306975,Austin,TX,United States}	{Nightlife Spot,}
+1231	Thu Mar 18 04:54:22 +0000 2010	40b3de00f964a52047001fe3	{Emo's (WE MOVED!)}	{30.266808465283603,-97.73684546619462,Austin,TX,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+1231	Thu Mar 18 02:15:16 +0000 2010	40fb0f00f964a520fc0a1fe3	{Stubb's Bar-B-Q}	{30.268695050182224,-97.73612436369821,Austin,TX,United States}	{Music Venue,Food,Arts & Entertainment,}
+1231	Thu Mar 18 00:47:00 +0000 2010	45e6c45ef964a5204f431fe3	{Betsy's Bar}	{30.268470295791396,-97.74524309726365,Austin,TX,United States}	{Nightlife Spot,}
+1231	Wed Mar 17 23:34:19 +0000 2010	45fbfa6df964a5206c441fe3	{Lambert's Downtown BBQ}	{30.265319943364748,-97.74763039520637,Austin,TX,United States}	{Food,}
+1231	Wed Mar 17 21:58:03 +0000 2010	440da323f964a52092301fe3	{Austin Convention Center}	{30.263577,-97.740086,Austin,TX,United States}	{Professional & Other Places,}
+1231	Wed Mar 17 19:59:08 +0000 2010	47e2a0c6f964a520474e1fe3	{Stephen F Austin InterContinental Hotel}	{30.26897112529902,-97.74229887450717,Austin,TX,United States}	{Nightlife Spot,Travel & Transport,}
+1231	Wed Mar 17 18:44:09 +0000 2010	440da2cbf964a52091301fe3	{Austin Bergstrom International Airport (AUS)}	{30.202558756341976,-97.66759872436523,Austin,TX,United States}	{Travel & Transport,}
+1231	Wed Mar 17 17:01:26 +0000 2010	4bb4d3a3a70595219bc01bce	{Skylink}	{32.89564192984443,-97.03648567199707,DFW Airport,TX,United States}	{Travel & Transport,Airport,}
+1231	Tue Mar 16 17:12:12 +0000 2010	4b69b315f964a52080ae2be3	{Universal Music Group Distribution}	{34.138715,-118.36199,Universal City,CA,United States}	{Professional & Other Places,}
+1231	Mon Mar 15 01:52:39 +0000 2010	41098f80f964a5209b0b1fe3	{Prizzi's Pizza}	{34.152442864937825,-118.34146499633789,Burbank,CA,United States}	{Food,}
+1231	Sun Mar 14 19:26:10 +0000 2010	4b607f38f964a520c6e929e3	{Rose Bowl Flea Market and Market Place}	{34.15949219048918,-118.16746473312378,Pasadena,CA,United States}	{Shop & Service,}
+1231	Sun Mar 14 09:03:54 +0000 2010	4a165235f964a520fe781fe3	{match}	{34.154473,-118.369492,North Hollywood,CA,United States}	{Nightlife Spot,}
+1231	Sun Mar 14 09:03:53 +0000 2010	4a165235f964a520fe781fe3	{match}	{34.154473,-118.369492,North Hollywood,CA,United States}	{Nightlife Spot,}
+1231	Sun Mar 14 07:10:02 +0000 2010	4b6b28baf964a52098f62be3	{Las Perlas}	{34.045050018501556,-118.24936866760254,Los Angeles,CA,United States}	{Nightlife Spot,}
+1231	Sun Mar 14 06:37:38 +0000 2010	4a16fa4ff964a5202b791fe3	{The Association}	{34.04491667007327,-118.24962615966797,Los Angeles,CA,United States}	{Nightlife Spot,}
+1231	Sun Mar 14 02:23:09 +0000 2010	49e25d07f964a5200f621fe3	{Bottega Louie}	{34.04707466637529,-118.25656771659851,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+1231	Sat Mar 13 17:14:32 +0000 2010	4b7f2258f964a520171930e3	{encino golf course}	{34.17030474762362,-118.49716186523438,Encino,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1231	Fri Mar 12 19:48:00 +0000 2010	4b69b315f964a52080ae2be3	{Universal Music Group Distribution}	{34.138715,-118.36199,Universal City,CA,United States}	{Professional & Other Places,}
+1231	Thu Mar 11 02:51:19 +0000 2010	4b86faedf964a5206ba931e3	{Spumoni}	{34.05339918333333,-118.466226,Los Angeles,CA,United States}	{Food,}
+1231	Wed Mar 10 23:49:37 +0000 2010	4b6867e5f964a52078762be3	{Interscope Records}	{34.02775403692443,-118.47396742347259,Santa Monica,CA,United States}	{Office,Professional & Other Places,}
+1231	Sun Mar 07 17:24:44 +0000 2010	4b43bee0f964a52044e825e3	{Woodley Lakes Golf Course}	{34.17268367939397,-118.49115371704102,Van Nuys,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1231	Sat Mar 06 20:58:42 +0000 2010	46784081f964a520ec471fe3	{Basix Cafe}	{34.09075486312313,-118.37139878262235,West Hollywood,CA,United States}	{Food,}
+1231	Sat Mar 06 18:49:44 +0000 2010	4ae32772f964a520039121e3	{Weddington Golf And Tennis}	{34.145758948092706,-118.4056333611701,Studio City,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1231	Sat Mar 06 03:20:05 +0000 2010	4b7301f5f964a5206b952de3	{Little Toni's}	{34.156849,-118.37008553333334,North Hollywood,CA,United States}	{Food,}
+1231	Fri Mar 05 17:34:38 +0000 2010	4b69b315f964a52080ae2be3	{Universal Music Group Distribution}	{34.138715,-118.36199,Universal City,CA,United States}	{Professional & Other Places,}
+1231	Fri Mar 05 02:41:13 +0000 2010	4a1dd820f964a520a17b1fe3	{Trader Vic's}	{34.04507668816205,-118.26537072658539,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+1231	Thu Mar 04 17:00:40 +0000 2010	4b69b315f964a52080ae2be3	{Universal Music Group Distribution}	{34.138715,-118.36199,Universal City,CA,United States}	{Professional & Other Places,}
+1231	Thu Mar 04 04:40:10 +0000 2010	4a165235f964a520fe781fe3	{match}	{34.154473,-118.369492,North Hollywood,CA,United States}	{Nightlife Spot,}
+1231	Thu Mar 04 04:40:09 +0000 2010	4a165235f964a520fe781fe3	{match}	{34.154473,-118.369492,North Hollywood,CA,United States}	{Nightlife Spot,}
+1231	Thu Mar 04 03:43:39 +0000 2010	4b5e6845f964a520608d29e3	{The Rustic Spoon}	{34.150189,-118.36552132,Universal City,CA,United States}	{Food,}
+1231	Sun Feb 28 05:42:20 +0000 2010	4b64f3e1f964a520f9db2ae3	{Hyde Lounge - Mammoth}	{37.650422898640116,-118.98522734642029,Mammoth Lakes,CA,United States}	{Food,}
+1231	Sat Feb 27 02:11:50 +0000 2010	4b598719f964a5203b8b28e3	{Mammoth Lodge Condominiums}	{37.64953670596519,-119.00525606524874,Mammoth Lakes,CA,United States}	{Residence,}
+1231	Thu Feb 25 23:30:46 +0000 2010	4b521a43f964a520096827e3	{Main Lodge - Mammoth Mountain}	{37.650495102547744,-119.0373158454895,Mammoth Lakes,CA,United States}	{Shop & Service,Outdoors & Recreation,Ski Area,}
+1231	Thu Feb 25 23:10:16 +0000 2010	4b870339f964a52062ab31e3	{Convict Lake}	{37.59043119366751,-118.85743618011475,Mammoth Lakes,CA,United States}	{Outdoors & Recreation,}
+1231	Thu Feb 25 17:52:25 +0000 2010	4b7724aaf964a520c7812ee3	{Beastie Beach}	{34.041865388887565,-118.57052814499997,Malibu,CA,United States}	{Outdoors & Recreation,}
+1231	Tue Feb 23 21:44:08 +0000 2010	4b69b315f964a52080ae2be3	{Universal Music Group Distribution}	{34.138715,-118.36199,Universal City,CA,United States}	{Professional & Other Places,}
+1231	Sun Feb 21 05:41:58 +0000 2010	4ac6ae9af964a520cbb520e3	{The Cheesecake Factory}	{34.111920032983825,-117.53538608551025,Rancho Cucamonga,CA,United States}	{Food,}
+1231	Sat Feb 20 17:39:42 +0000 2010	4b48c67af964a5206d5626e3	{Auto Club Speedway}	{34.086274626627656,-117.50052139163017,Fontana,CA,United States}	{Arts & Entertainment,}
+1231	Sat Feb 20 04:44:20 +0000 2010	4b7a0f1bf964a5203a212fe3	{Residence Inn}	{34.06714740051708,-117.60708689689636,Ontario,CA,United States}	{Travel & Transport,}
+1231	Fri Feb 19 15:43:34 +0000 2010	4b69b315f964a52080ae2be3	{Universal Music Group Distribution}	{34.138715,-118.36199,Universal City,CA,United States}	{Professional & Other Places,}
+1231	Thu Feb 18 16:43:25 +0000 2010	4b69b315f964a52080ae2be3	{Universal Music Group Distribution}	{34.138715,-118.36199,Universal City,CA,United States}	{Professional & Other Places,}
+1231	Thu Feb 18 04:08:38 +0000 2010	4a91cac7f964a520d61b20e3	{Katsu-Ya}	{34.140873,-118.38732783,Studio City,CA,United States}	{Food,}
+1231	Thu Feb 18 00:30:13 +0000 2010	4b4d41caf964a5207dcf26e3	{EMI Music Publishing}	{34.031761575,-118.469666,Santa Monica,CA,United States}	{Office,Professional & Other Places,}
+1231	Wed Feb 17 23:12:26 +0000 2010	4b6867e5f964a52078762be3	{Interscope Records}	{34.02775403692443,-118.47396742347259,Santa Monica,CA,United States}	{Office,Professional & Other Places,}
+1231	Wed Feb 17 21:55:41 +0000 2010	43c14306f964a5203c2d1fe3	{The Counter}	{34.019514416416214,-118.45489025115967,Santa Monica,CA,United States}	{Food,}
+1231	Wed Feb 17 18:05:50 +0000 2010	4b6867e5f964a52078762be3	{Interscope Records}	{34.02775403692443,-118.47396742347259,Santa Monica,CA,United States}	{Office,Professional & Other Places,}
+1231	Wed Feb 17 16:21:47 +0000 2010	4b69b315f964a52080ae2be3	{Universal Music Group Distribution}	{34.138715,-118.36199,Universal City,CA,United States}	{Professional & Other Places,}
+1231	Tue Feb 16 16:54:46 +0000 2010	4b69b315f964a52080ae2be3	{Universal Music Group Distribution}	{34.138715,-118.36199,Universal City,CA,United States}	{Professional & Other Places,}
+1231	Tue Feb 16 01:05:07 +0000 2010	3fd66200f964a52052f01ee3	{Foxfire Room}	{34.16464119993813,-118.40611696243286,North Hollywood,CA,United States}	{Nightlife Spot,}
+1231	Mon Feb 15 17:13:27 +0000 2010	4b7980aaf964a5202ffd2ee3	{elkins ranch golf course}	{34.3715246327375,-118.91054782800279,Fillmore,CA,United States}	{}
+1231	Sun Feb 14 22:25:19 +0000 2010	4a91c555f964a520bc1b20e3	{Malibu Wines Tasting Room}	{34.093504,-118.82357,Malibu,CA,United States}	{Nightlife Spot,Outdoors & Recreation,Food,}
+1231	Sun Feb 14 22:02:44 +0000 2010	45a0dcd6f964a520d1401fe3	{Neptune's Net}	{34.053166098016675,-118.96255731582642,Malibu,CA,United States}	{Nightlife Spot,Food,}
+1231	Sun Feb 14 05:53:30 +0000 2010	4a165235f964a520fe781fe3	{match}	{34.154473,-118.369492,North Hollywood,CA,United States}	{Nightlife Spot,}
+1231	Sun Feb 14 04:13:17 +0000 2010	4b5e6845f964a520608d29e3	{The Rustic Spoon}	{34.150189,-118.36552132,Universal City,CA,United States}	{Food,}
+1231	Sat Feb 13 23:11:27 +0000 2010	4a5420c4f964a5200eb31fe3	{The Draft Bar and Grill}	{34.157450254963194,-118.40412139892578,Studio City,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+1231	Sat Feb 13 21:49:29 +0000 2010	4a1b822bf964a520f87a1fe3	{In-N-Out Burger}	{34.28314401,-118.690977,Simi Valley,CA,United States}	{Food,}
+1231	Sat Feb 13 16:37:11 +0000 2010	4b6379a1f964a520bf7c2ae3	{Rustic Canyon Golf Course}	{34.31181023335249,-118.86702210312922,Moorpark,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1231	Sat Feb 13 02:19:00 +0000 2010	4ae32772f964a520039121e3	{Weddington Golf And Tennis}	{34.145758948092706,-118.4056333611701,Studio City,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1231	Fri Feb 12 16:16:21 +0000 2010	4b69b315f964a52080ae2be3	{Universal Music Group Distribution}	{34.138715,-118.36199,Universal City,CA,United States}	{Professional & Other Places,}
+1231	Fri Feb 12 03:13:23 +0000 2010	4ae32772f964a520039121e3	{Weddington Golf And Tennis}	{34.145758948092706,-118.4056333611701,Studio City,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1231	Thu Feb 11 16:44:43 +0000 2010	4b69b315f964a52080ae2be3	{Universal Music Group Distribution}	{34.138715,-118.36199,Universal City,CA,United States}	{Professional & Other Places,}
+1231	Thu Feb 11 03:26:31 +0000 2010	4ae32772f964a520039121e3	{Weddington Golf And Tennis}	{34.145758948092706,-118.4056333611701,Studio City,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1231	Thu Feb 11 03:21:09 +0000 2010	4ae32772f964a520039121e3	{Weddington Golf And Tennis}	{34.145758948092706,-118.4056333611701,Studio City,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1231	Thu Feb 11 03:21:08 +0000 2010	4ae32772f964a520039121e3	{Weddington Golf And Tennis}	{34.145758948092706,-118.4056333611701,Studio City,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1231	Wed Feb 10 16:34:47 +0000 2010	4b69b315f964a52080ae2be3	{Universal Music Group Distribution}	{34.138715,-118.36199,Universal City,CA,United States}	{Professional & Other Places,}
+1231	Tue Feb 09 21:33:49 +0000 2010	412fcb00f964a520190d1fe3	{Cafe 50s}	{34.044547,-118.454802,Los Angeles,CA,United States}	{Food,}
+1231	Tue Feb 09 19:04:43 +0000 2010	4b6867e5f964a52078762be3	{Interscope Records}	{34.02775403692443,-118.47396742347259,Santa Monica,CA,United States}	{Office,Professional & Other Places,}
+1231	Mon Feb 08 17:09:47 +0000 2010	4b69b315f964a52080ae2be3	{Universal Music Group Distribution}	{34.138715,-118.36199,Universal City,CA,United States}	{Professional & Other Places,}
+1231	Sun Feb 07 16:29:53 +0000 2010	4b43bee0f964a52044e825e3	{Woodley Lakes Golf Course}	{34.17268367939397,-118.49115371704102,Van Nuys,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1231	Sun Feb 07 03:53:07 +0000 2010	4a7b9483f964a5207aeb1fe3	{Pantages Theatre}	{34.10185514030627,-118.32560777664185,Los Angeles,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+1231	Sun Feb 07 03:30:40 +0000 2010	3fd66200f964a5204bef1ee3	{Frolic Room}	{34.10159406391275,-118.3258445838681,Los Angeles,CA,United States}	{Nightlife Spot,}
+1231	Sat Feb 06 21:20:16 +0000 2010	4ac01feaf964a520de9320e3	{Ralphs}	{34.14020724829254,-118.36833000183105,Studio City,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1231	Sat Feb 06 02:38:29 +0000 2010	4a88c7e4f964a520980720e3	{Hard Rock Cafe Hollywood at Universal CityWalk}	{34.13649092826911,-118.35199534893036,Universal City,CA,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+1231	Fri Feb 05 16:43:40 +0000 2010	4b69b315f964a52080ae2be3	{Universal Music Group Distribution}	{34.138715,-118.36199,Universal City,CA,United States}	{Professional & Other Places,}
+1231	Thu Feb 04 23:54:20 +0000 2010	4b6867e5f964a52078762be3	{Interscope Records}	{34.02775403692443,-118.47396742347259,Santa Monica,CA,United States}	{Office,Professional & Other Places,}
+1231	Thu Feb 04 23:53:32 +0000 2010	4b6867e5f964a52078762be3	{Interscope Records}	{34.02775403692443,-118.47396742347259,Santa Monica,CA,United States}	{Office,Professional & Other Places,}
+1231	Thu Feb 04 23:53:31 +0000 2010	4b6867e5f964a52078762be3	{Interscope Records}	{34.02775403692443,-118.47396742347259,Santa Monica,CA,United States}	{Office,Professional & Other Places,}
+1231	Thu Feb 04 17:07:06 +0000 2010	4b69b315f964a52080ae2be3	{Universal Music Group Distribution}	{34.138715,-118.36199,Universal City,CA,United States}	{Professional & Other Places,}
+1231	Thu Feb 04 17:07:05 +0000 2010	4b69b315f964a52080ae2be3	{Universal Music Group Distribution}	{34.138715,-118.36199,Universal City,CA,United States}	{Professional & Other Places,}
+1231	Thu Feb 04 03:20:22 +0000 2010	4ae32772f964a520039121e3	{Weddington Golf And Tennis}	{34.145758948092706,-118.4056333611701,Studio City,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}

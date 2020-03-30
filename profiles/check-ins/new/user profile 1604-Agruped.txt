@@ -1,0 +1,60 @@
+1604	Wed Aug 10 04:44:33 +0000 2011	4ab2ee42f964a520066d20e3	{The Parlor Pizzeria}	{33.5094862,-112.0403262,Phoenix,AZ,United States}	{Food,}
+1604	Tue Aug 09 01:22:35 +0000 2011	4c0ee89a7189c9282058d9b6	{SWB}	{33.56706578441406,-111.9180586470928,Scottsdale,AZ,United States}	{Food,}
+1604	Sun Aug 07 16:57:16 +0000 2011	49e0f431f964a52082611fe3	{Whole Foods Market}	{39.71852658612236,-104.95820760726929,Denver,CO,United States}	{Shop & Service,Food & Drink Shop,}
+1604	Sun Aug 07 07:38:06 +0000 2011	4abd9f0af964a5202f8b20e3	{Suite 200}	{39.74792954328484,-104.99964508480296,Denver,CO,United States}	{Nightlife Spot,}
+1604	Sun Aug 07 07:18:24 +0000 2011	4de809671838b9ad8d04db16	{Wild Knight}	{33.500869,-111.921987,Scottsdale,AZ,United States}	{Nightlife Spot,}
+1604	Sun Aug 07 02:40:01 +0000 2011	4ae34568f964a520ad9221e3	{Palma Cigar Co.}	{39.75496172904968,-104.98998191428574,Denver,CO,United States}	{Shop & Service,}
+1604	Sun Aug 07 01:26:37 +0000 2011	4bb083e2f964a52045493ce3	{Culinary Dropout}	{33.50215619,-111.927497,Scottsdale,AZ,United States}	{Food,}
+1604	Sun Aug 07 01:26:04 +0000 2011	49df890ff964a520d2601fe3	{Coors Field}	{39.75609843675691,-104.99423503875732,Denver,CO,United States}	{Stadium,Arts & Entertainment,Professional & Other Places,}
+1604	Fri Aug 05 20:52:41 +0000 2011	4b929f33f964a520bb0a34e3	{LA Fitness}	{33.56266767423224,-111.94151344299317,Scottsdale,AZ,United States}	{Shop & Service,}
+1604	Fri Aug 05 17:33:55 +0000 2011	4cb767c7eb1eef3b89a945c7	{Salon JO-EL}	{33.49725421920151,-111.92795630620607,Scottsdale,AZ,United States}	{Shop & Service,}
+1604	Wed Aug 03 04:54:09 +0000 2011	4d383631e6bdf04d94c661b4	{El Hefe Super Macho Taqueria}	{33.501201681910416,-111.9220002474167,Scottsdale,AZ,United States}	{Nightlife Spot,}
+1604	Sun Jul 31 22:34:53 +0000 2011	482d61baf964a520d64f1fe3	{Denver International Airport (DEN)}	{39.85029261500981,-104.67378616333006,Denver,CO,United States}	{Travel & Transport,}
+1604	Sun Jul 31 18:32:03 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1604	Sun Jul 31 08:13:00 +0000 2011	421a7600f964a5209e1f1fe3	{Ma'Kai Lounge}	{34.01294700363239,-118.49640548229218,Santa Monica,CA,United States}	{Nightlife Spot,}
+1604	Sun Jul 31 06:22:44 +0000 2011	4bbe8a5a85fbb7131a037167	{Hotel Shangri La Rooftop Bar}	{34.01531042614372,-118.49908652579872,Santa Monica,CA,United States}	{Travel & Transport,Hotel,}
+1604	Sun Jul 31 05:18:54 +0000 2011	4a5ce0cef964a520c2bc1fe3	{Hotel Shangri-La}	{34.015504581195806,-118.49921767113936,Santa Monica,CA,United States}	{Travel & Transport,}
+1604	Sun Jul 31 03:49:53 +0000 2011	45267b57f964a520fb3a1fe3	{BOA Steakhouse}	{34.01429663226887,-118.497991743238,Santa Monica,CA,United States}	{Food,}
+1604	Sat Jul 30 21:47:31 +0000 2011	4c544a684623be9a2dea8af2	{Manhattan Beach Six Man Volleyball Tournament}	{33.88375892300583,-118.41223239898682,Manhattan Beach,CA,United States}	{Outdoors & Recreation,}
+1604	Sat Jul 30 18:02:30 +0000 2011	4b71d7e0f964a5209a5f2de3	{Jerry Bruckheimer Films & Television}	{34.017236196468026,-118.48538981741694,Santa Monica,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1604	Sat Jul 30 16:26:16 +0000 2011	4116be80f964a520030c1fe3	{UCLA}	{34.06960033461544,-118.4469723701477,Los Angeles,CA,United States}	{College & University,}
+1604	Sat Jul 30 04:58:07 +0000 2011	457017adf964a520503e1fe3	{The Ritz-Carlton}	{33.984146985869316,-118.45065257637376,Marina del Rey,CA,United States}	{Nightlife Spot,Travel & Transport,Professional & Other Places,}
+1604	Sat Jul 30 03:27:34 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1604	Sat Jul 30 02:30:18 +0000 2011	4ac6edfef964a52098b620e3	{Sushi Roku}	{33.501908,-111.924022,Scottsdale,AZ,United States}	{Food,}
+1604	Fri Jul 29 21:42:10 +0000 2011	482d61baf964a520d64f1fe3	{Denver International Airport (DEN)}	{39.85029261500981,-104.67378616333006,Denver,CO,United States}	{Travel & Transport,}
+1604	Fri Jul 29 17:25:35 +0000 2011	4ae9b0cff964a520b2b521e3	{Dane County Regional Airport (MSN)}	{43.136192906229915,-89.34614181518555,Madison,WI,United States}	{Travel & Transport,}
+1604	Fri Jul 29 16:47:12 +0000 2011	413e4b80f964a520551c1fe3	{Wando's}	{43.073280687314494,-89.39590752124786,Madison,WI,United States}	{Nightlife Spot,}
+1604	Thu Jul 28 17:40:42 +0000 2011	4bedc694e24d20a1aff97114	{State Street Brats}	{43.07479716851709,-89.39586192369461,Madison,WI,United States}	{Nightlife Spot,Food,}
+1604	Thu Jul 28 06:31:57 +0000 2011	4ac4331cf964a520719e20e3	{Cream Stereo Lounge}	{33.49726188560938,-111.92235946655273,Scottsdale,AZ,United States}	{Nightlife Spot,}
+1604	Wed Jul 27 20:49:16 +0000 2011	4b15507ff964a520b0b023e3	{Camp Randall Stadium}	{43.06993802646878,-89.41274642944336,Madison,WI,United States}	{Stadium,College & University,Arts & Entertainment,College Stadium,}
+1604	Wed Jul 27 18:58:49 +0000 2011	4ae9b0cff964a520b2b521e3	{Dane County Regional Airport (MSN)}	{43.136192906229915,-89.34614181518555,Madison,WI,United States}	{Travel & Transport,}
+1604	Wed Jul 27 15:50:18 +0000 2011	482d61baf964a520d64f1fe3	{Denver International Airport (DEN)}	{39.85029261500981,-104.67378616333006,Denver,CO,United States}	{Travel & Transport,}
+1604	Wed Jul 27 04:24:27 +0000 2011	4c4ba21942b4d13a6cd1ec7e	{Cheyenne Frontier Days}	{41.15489767960845,-104.83581994390529,Cheyenne,WY,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+1604	Tue Jul 26 10:38:11 +0000 2011	4d013eda6289f04d14be96cc	{Marquee Nightclub & Dayclub}	{36.10954499497765,-115.17464518547058,Las Vegas,NV,United States}	{Nightlife Spot,Arts & Entertainment,}
+1604	Tue Jul 26 07:27:02 +0000 2011	413f9d00f964a520701c1fe3	{Pussycat Lounge}	{33.50162475,-111.92233122,Scottsdale,AZ,United States}	{Nightlife Spot,Arts & Entertainment,}
+1604	Mon Jul 25 04:30:51 +0000 2011	4a6e5e04f964a52096d41fe3	{Zen 5 Sushi}	{32.798124434155795,-117.24943041801453,San Diego,CA,United States}	{Food,}
+1604	Mon Jul 25 02:00:44 +0000 2011	4ac13c0ff964a520559620e3	{Elway's}	{39.717349686225575,-104.95748934148527,Denver,CO,United States}	{Nightlife Spot,Food,}
+1604	Sun Jul 24 23:55:59 +0000 2011	49dbc68bf964a520005f1fe3	{SeaWorld San Diego}	{32.761843,-117.226838,San Diego,CA,United States}	{Arts & Entertainment,}
+1604	Sun Jul 24 20:57:10 +0000 2011	482d61baf964a520d64f1fe3	{Denver International Airport (DEN)}	{39.85029261500981,-104.67378616333006,Denver,CO,United States}	{Travel & Transport,}
+1604	Sun Jul 24 19:35:08 +0000 2011	4b427a37f964a520a1d425e3	{Billings Logan International Airport (BIL)}	{45.80367454985437,-108.53734731674193,Billings,MT,United States}	{Travel & Transport,}
+1604	Sun Jul 24 19:04:43 +0000 2011	43f7a423f964a520bf2f1fe3	{Hash House a Go Go}	{32.74387971219906,-117.16060638427734,San Diego,CA,United States}	{Food,}
+1604	Sun Jul 24 18:16:58 +0000 2011	45c5afcaf964a52053421fe3	{The Tractor Room}	{32.744895815849304,-117.16029755,San Diego,CA,United States}	{Nightlife Spot,Food,}
+1604	Sun Jul 24 15:34:42 +0000 2011	4e27a7e2b3ad3ecf934f1a03	{San Diego Comic-Con International 2011}	{32.707885,-117.163846,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1604	Sun Jul 24 06:14:58 +0000 2011	43ad349ff964a5208d2c1fe3	{Stingaree}	{32.71034251437531,-117.1594101190567,San Diego,CA,United States}	{Nightlife Spot,}
+1604	Sun Jul 24 04:29:56 +0000 2011	4e2b0f38ae605c533a33a7e2	{Cowboys & Aliens World Premiere}	{32.717401,-117.16328109999999,San Diego,CA,United States}	{Arts & Entertainment,}
+1604	Sat Jul 23 22:58:10 +0000 2011	4a354db0f964a520c79c1fe3	{Seaport Village}	{32.709238909756714,-117.17107772827148,San Diego,CA,United States}	{Outdoors & Recreation,Shop & Service,}
+1604	Sat Jul 23 18:43:48 +0000 2011	4a356252f964a520e89c1fe3	{Hotel del Coronado}	{32.68061715694381,-117.17779397964478,Coronado,CA,United States}	{Travel & Transport,Hotel,}
+1604	Sat Jul 23 17:32:59 +0000 2011	4b21855df964a5202f3d24e3	{Coronado Bay Bridge}	{32.69015274126536,-117.15275287628172,San Diego,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1604	Sat Jul 23 05:21:27 +0000 2011	4a2592bcf964a5206a7e1fe3	{Cabo Cantina}	{32.79776297234054,-117.25082178407342,San Diego,CA,United States}	{Nightlife Spot,Food,Residence,}
+1604	Sat Jul 23 03:16:54 +0000 2011	4bdaeb9d3904a593eadb479e	{Mission Beach}	{32.76963045576706,-117.25154399871828,San Diego,CA,United States}	{Outdoors & Recreation,Beach,}
+1604	Fri Jul 22 20:38:12 +0000 2011	4e2283cb1495f18f0359ea7f	{Mission Beach Club 43}	{32.776938,-117.253141,San Diego,CA,United States}	{Nightlife Spot,}
+1604	Fri Jul 22 16:51:27 +0000 2011	4b312709f964a5203e0125e3	{The Mission}	{32.78431605161657,-117.25258469581604,San Diego,CA,United States}	{Food,}
+1604	Fri Jul 22 05:00:52 +0000 2011	4a46b042f964a5204fa91fe3	{Pacific Beach Shore Club}	{32.794196700928104,-117.25582816180899,San Diego,CA,United States}	{Nightlife Spot,}
+1604	Thu Jul 21 23:13:31 +0000 2011	4e2283cb1495f18f0359ea7f	{Mission Beach Club 43}	{32.776938,-117.253141,San Diego,CA,United States}	{Nightlife Spot,}
+1604	Thu Jul 21 05:24:12 +0000 2011	40e0b100f964a520c4011fe3	{Bub's Dive Bar & Grill}	{32.79772919655398,-117.25120071151221,San Diego,CA,United States}	{Nightlife Spot,Food,}
+1604	Thu Jul 21 03:16:55 +0000 2011	4b2ee043f964a520c2e724e3	{Cafe Bella Italia}	{32.799349989420804,-117.24203161582338,San Diego,CA,United States}	{Shop & Service,Food,}
+1604	Wed Jul 20 20:22:53 +0000 2011	43052100f964a52020271fe3	{Del Mar Racetrack}	{32.97345991420324,-117.26214408874512,Del Mar,CA,United States}	{Food,Arts & Entertainment,}
+1604	Wed Jul 20 19:26:21 +0000 2011	40e0b100f964a5201d021fe3	{En Fuego Cantina}	{32.95830149418836,-117.26516962051392,Del Mar,CA,United States}	{Nightlife Spot,Food,}
+1604	Wed Jul 20 16:20:52 +0000 2011	4b103d63f964a520066c23e3	{Harbor Island Yacht Club}	{32.72570202240862,-117.20500651497001,San Diego,CA,United States}	{Outdoors & Recreation,}
+1604	Wed Jul 20 06:44:43 +0000 2011	429f9d80f964a520bf241fe3	{Typhoon Saloon}	{32.7979,-117.24848091602325,San Diego,CA,United States}	{Nightlife Spot,}
+1604	Wed Jul 20 05:12:04 +0000 2011	4a6bc7b8f964a520f1cf1fe3	{Harney Sushi}	{32.752276865537866,-117.19547352426535,San Diego,CA,United States}	{Nightlife Spot,Food,}

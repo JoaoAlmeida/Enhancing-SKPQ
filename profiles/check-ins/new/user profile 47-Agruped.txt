@@ -1,0 +1,557 @@
+47	Thu Dec 15 03:00:34 +0000 2011	4c1dd031b306c928453266b7	{Pandora Karaoke & Bar}	{37.784343551253414,-122.4105707866027,San Francisco,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+===
+47	Thu Aug 11 16:23:16 +0000 2011	4b3b9a0df964a520cf7625e3	{Kaiser Permanente Medical Center}	{37.783275899330974,-122.44051716606971,San Francisco,CA,United States}	{Medical Center,Professional & Other Places,}
+47	Sat Aug 06 22:24:37 +0000 2011	49ce9702f964a520615a1fe3	{TCHO}	{37.80171405490584,-122.3990249633789,San Francisco,CA,United States}	{Food,}
+47	Sat Aug 06 21:32:30 +0000 2011	43067280f964a52023271fe3	{Ferry Building}	{37.795427908882,-122.39362835884094,San Francisco,CA,United States}	{Shop & Service,Government Building,Food & Drink Shop,Professional & Other Places,}
+47	Sat Aug 06 17:28:40 +0000 2011	40bbc700f964a520ae001fe3	{Jumpin' Java Coffee House}	{37.766950453849866,-122.43328989354762,San Francisco,CA,United States}	{Food,}
+47	Sat Aug 06 03:54:06 +0000 2011	4adc91adf964a520572d21e3	{Limon Rotisserie}	{37.764466,-122.421841,San Francisco,CA,United States}	{Food,}
+47	Sat Aug 06 01:01:33 +0000 2011	49baa46af964a5208f531fe3	{Gitane}	{37.790359,-122.40404,San Francisco,CA,United States}	{Food,}
+47	Wed Aug 03 04:31:41 +0000 2011	4a692f3df964a520bdcb1fe3	{Blackbird Bar}	{37.767305376885574,-122.42940902709961,San Francisco,CA,United States}	{Nightlife Spot,}
+47	Mon Aug 01 05:33:54 +0000 2011	4b50f82af964a520253b27e3	{The Residence}	{37.767702,-122.429301,San Francisco,CA,United States}	{Nightlife Spot,}
+47	Mon Aug 01 05:17:09 +0000 2011	4a692f3df964a520bdcb1fe3	{Blackbird Bar}	{37.767305376885574,-122.42940902709961,San Francisco,CA,United States}	{Nightlife Spot,}
+47	Sat Jul 30 22:02:50 +0000 2011	4c49a7669f2ad13ae0239653	{Gilroy Garlic Festival}	{36.99737733838832,-121.5860366821289,Gilroy,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,Professional & Other Places,}
+47	Sat Jul 30 16:33:11 +0000 2011	45377562f964a520be3b1fe3	{Duboce Park Cafe}	{37.76920751116236,-122.43141525565282,San Francisco,CA,United States}	{Food,}
+47	Sat Jul 30 06:28:01 +0000 2011	49f7968df964a520bf6c1fe3	{Club Trigger}	{37.763555,-122.434203,San Francisco,CA,United States}	{Nightlife Spot,}
+47	Sat Jul 30 05:29:21 +0000 2011	49c67f8ef964a5204f571fe3	{Toad Hall}	{37.760987,-122.43579584960703,San Francisco,CA,United States}	{Nightlife Spot,}
+47	Fri Jul 29 19:50:17 +0000 2011	446dcedaf964a5206b331fe3	{Beard Papa's}	{37.78515613632832,-122.40374565124512,San Francisco,CA,United States}	{Food,}
+47	Fri Jul 29 04:45:25 +0000 2011	4b50f82af964a520253b27e3	{The Residence}	{37.767702,-122.429301,San Francisco,CA,United States}	{Nightlife Spot,}
+47	Fri Jul 29 04:13:11 +0000 2011	4a692f3df964a520bdcb1fe3	{Blackbird Bar}	{37.767305376885574,-122.42940902709961,San Francisco,CA,United States}	{Nightlife Spot,}
+47	Tue Jul 26 02:18:47 +0000 2011	42fa9500f964a520e2261fe3	{Memphis Minnie's BBQ}	{37.77206,-122.4317,San Francisco,CA,United States}	{Food,}
+47	Mon Jul 25 03:49:28 +0000 2011	4a18c332f964a520e5791fe3	{Three Twins Ice Cream}	{37.771933843952475,-122.43035048246384,San Francisco,CA,United States}	{Food,}
+47	Sun Jul 24 18:28:17 +0000 2011	3fd66200f964a52050ed1ee3	{Cafe International}	{37.772193,-122.4307,San Francisco,CA,United States}	{Food,}
+47	Sun Jul 24 05:49:11 +0000 2011	41311c80f964a520390d1fe3	{Bar 821}	{37.777194,-122.438363,San Francisco,CA,United States}	{Nightlife Spot,}
+47	Sat Jul 23 21:56:38 +0000 2011	43bc1889f964a520f72c1fe3	{Bean Bag Cafe}	{37.775054,-122.4378214,San Francisco,CA,United States}	{Food,}
+47	Sat Jul 23 18:42:46 +0000 2011	49fdbce9f964a520246f1fe3	{San Francisco Marriott Union Square}	{37.78948885339129,-122.40832686424255,San Francisco,CA,United States}	{Travel & Transport,Hotel,}
+47	Sat Jul 23 02:13:18 +0000 2011	43eb859cf964a5203a2f1fe3	{The Page}	{37.772262468940454,-122.43739128112793,San Francisco,CA,United States}	{Nightlife Spot,}
+47	Sat Jul 16 19:10:48 +0000 2011	40870b00f964a520abf21ee3	{Orphan Andy's}	{37.76257963,-122.43504,San Francisco,CA,United States}	{Food,}
+47	Sat Jul 16 06:23:49 +0000 2011	3fd66200f964a52029f11ee3	{DNA Lounge}	{37.771007,-122.412694,San Francisco,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+47	Sat Jul 16 01:50:58 +0000 2011	49c67f8ef964a5204f571fe3	{Toad Hall}	{37.760987,-122.43579584960703,San Francisco,CA,United States}	{Nightlife Spot,}
+47	Thu Jul 14 00:46:38 +0000 2011	4a5936daf964a52003b91fe3	{Moscow & Tbilisi Russian Bakery}	{37.780443,-122.47898667,San Francisco,CA,United States}	{Food,}
+47	Wed Jul 13 03:27:19 +0000 2011	44abe929f964a52007351fe3	{The St. Regis San Francisco}	{37.78605961581829,-122.40162116234973,San Francisco,CA,United States}	{Nightlife Spot,Travel & Transport,Shop & Service,}
+47	Tue Jul 05 02:06:15 +0000 2011	45eaff58f964a5208e431fe3	{Bi-Rite Creamery}	{37.76145030454691,-122.42584644345114,San Francisco,CA,United States}	{Food,}
+47	Tue Jul 05 01:01:53 +0000 2011	43917d6df964a5205c2b1fe3	{Pancho Villa Taqueria}	{37.765074,-122.4210985,San Francisco,CA,United States}	{Food,}
+47	Mon Jul 04 22:52:47 +0000 2011	48027a9df964a520f24e1fe3	{Mutiny Radio}	{37.75757241340744,-122.41042144807314,San Francisco,CA,United States}	{Professional & Other Places,}
+47	Mon Jul 04 07:47:17 +0000 2011	40ca4780f964a52009011fe3	{The Caf?}	{37.76296711864107,-122.43435770273209,San Francisco,CA,United States}	{Nightlife Spot,}
+47	Mon Jul 04 03:49:29 +0000 2011	429f9d80f964a520c5241fe3	{The Mix}	{37.76117740096402,-122.43451751436545,San Francisco,CA,United States}	{Nightlife Spot,}
+47	Mon Jul 04 03:18:07 +0000 2011	40ca4780f964a52008011fe3	{Badlands}	{37.760848,-122.43549627,San Francisco,CA,United States}	{Nightlife Spot,}
+47	Mon Jul 04 00:37:24 +0000 2011	49c67f8ef964a5204f571fe3	{Toad Hall}	{37.760987,-122.43579584960703,San Francisco,CA,United States}	{Nightlife Spot,}
+47	Sun Jul 03 23:23:02 +0000 2011	4735a4c2f964a520344c1fe3	{Lookout}	{37.764353,-122.433365,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+47	Sun Jul 03 03:27:33 +0000 2011	4dcadbd6814d4ffbdab77b51	{Churchill}	{37.7678448526381,-122.42902075793148,San Francisco,CA,United States}	{Nightlife Spot,}
+47	Sun Jul 03 01:27:19 +0000 2011	49baa46af964a5208f531fe3	{Gitane}	{37.790359,-122.40404,San Francisco,CA,United States}	{Food,}
+47	Sat Jul 02 02:44:12 +0000 2011	49e50a56f964a52086631fe3	{Dance Mission Theater}	{37.752404,-122.418815,San Francisco,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+47	Sat Jul 02 01:26:08 +0000 2011	4b4407a2f964a52074f025e3	{Tuba Restaurant}	{37.754996,-122.42316670000001,San Francisco,CA,United States}	{Food,}
+47	Fri Jul 01 05:27:22 +0000 2011	4a692f3df964a520bdcb1fe3	{Blackbird Bar}	{37.767305376885574,-122.42940902709961,San Francisco,CA,United States}	{Nightlife Spot,}
+47	Thu Jun 30 00:40:56 +0000 2011	3fd66200f964a52066f11ee3	{Maya Mexican Restaurant}	{37.784959,-122.396221,San Francisco,CA,United States}	{Food,}
+47	Sun Jun 26 01:44:56 +0000 2011	4b65eb87f964a52065082be3	{Marines' Memorial Theatre}	{37.788930889225874,-122.41037719957917,San Francisco,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+47	Sat Jun 25 23:34:37 +0000 2011	49e8d913f964a5209c651fe3	{Dell'uva Wine Bar & Cafe}	{37.79964703087419,-122.40839152923758,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+47	Sat Jun 25 03:22:59 +0000 2011	40c10d00f964a520df001fe3	{Landmark Theaters Embarcadero Center Cinema}	{37.794889555933665,-122.39959359169006,San Francisco,CA,United States}	{Arts & Entertainment,Movie Theater,}
+47	Sat Jun 25 01:56:49 +0000 2011	49baa46af964a5208f531fe3	{Gitane}	{37.790359,-122.40404,San Francisco,CA,United States}	{Food,}
+47	Fri Jun 24 02:09:58 +0000 2011	4d5f74d05c39b1f7f744f849	{1772 Market Street}	{37.77241936035508,-122.4230307340622,San Francisco,CA,United States}	{Professional & Other Places,}
+47	Mon Jun 20 03:52:06 +0000 2011	444df449f964a5208f321fe3	{Chilli Cha Cha}	{37.772233,-122.430295,San Francisco,CA,United States}	{Food,}
+47	Sun Jun 19 20:58:32 +0000 2011	43dc103ef964a520992e1fe3	{Absinthe Brasserie & Bar}	{37.77732946934459,-122.42300391197205,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+47	Sun Jun 19 04:47:55 +0000 2011	42c5d900f964a520d5251fe3	{Suppenk?che}	{37.77634577760317,-122.42619037628175,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+47	Sat Jun 18 21:43:43 +0000 2011	3fd66200f964a520e5ec1ee3	{Cinderella Bakery & Caf?}	{37.7773,-122.463695,San Francisco,CA,United States}	{Food,}
+47	Sat Jun 18 04:28:50 +0000 2011	44a5aea3f964a520f2341fe3	{Ziryab}	{37.774492,-122.437623,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+47	Sun Jun 12 17:02:41 +0000 2011	4a92369ef964a520fa1c20e3	{Divisadero Farmers' Market}	{37.775841,-122.438353,San Francisco,CA,United States}	{Shop & Service,Food & Drink Shop,}
+47	Sat Jun 11 22:49:52 +0000 2011	3fd66200f964a5205ded1ee3	{Toronado}	{37.77192748345444,-122.4310290813446,San Francisco,CA,United States}	{Nightlife Spot,}
+47	Sat Jun 11 19:03:45 +0000 2011	43ccb847f964a520ce2d1fe3	{The Grind Cafe}	{37.771393199665255,-122.43505239486694,San Francisco,CA,United States}	{Food,}
+47	Sat Jun 11 02:21:27 +0000 2011	444df333f964a5208d321fe3	{Sundance Kabuki Cinemas}	{37.78516067956727,-122.4325710098204,San Francisco,CA,United States}	{Arts & Entertainment,Movie Theater,}
+47	Thu Jun 09 16:46:25 +0000 2011	4cb39e05eb65b1f7a1ed84cd	{Rodan + Fields}	{37.7880559476822,-122.4054729938507,San Francisco,CA,United States}	{Office,Professional & Other Places,}
+47	Fri Jun 03 04:30:22 +0000 2011	4a692f3df964a520bdcb1fe3	{Blackbird Bar}	{37.767305376885574,-122.42940902709961,San Francisco,CA,United States}	{Nightlife Spot,}
+47	Thu Jun 02 15:29:13 +0000 2011	4cb39e05eb65b1f7a1ed84cd	{Rodan + Fields}	{37.7880559476822,-122.4054729938507,San Francisco,CA,United States}	{Office,Professional & Other Places,}
+47	Wed Jun 01 03:28:14 +0000 2011	4a789bbbf964a52004e61fe3	{Starbelly}	{37.76419695376285,-122.43259012699127,San Francisco,CA,United States}	{Food,}
+47	Mon May 30 21:09:57 +0000 2011	49fcf634f964a520f06e1fe3	{Russian River Brewing Company}	{38.44165705021316,-122.71166324615479,Santa Rosa,CA,United States}	{Nightlife Spot,Food,}
+47	Sat May 28 21:24:56 +0000 2011	4bbe19c2b42aef3bfa674bc3	{Moshin Winery}	{38.50520959439041,-122.89698293429258,Healdsburg,CA,United States}	{Food,}
+47	Sat May 28 03:23:48 +0000 2011	43945018f964a5207f2b1fe3	{Costco}	{37.77060725105887,-122.41079202847862,San Francisco,CA,United States}	{Shop & Service,Food & Drink Shop,}
+47	Tue May 24 02:45:48 +0000 2011	4a5f8994f964a520d5bf1fe3	{Tropisue?o}	{37.78534267732514,-122.40393340587616,San Francisco,CA,United States}	{Food,}
+47	Tue May 24 01:08:09 +0000 2011	4a5fe204f964a52072c01fe3	{Rouge et Blanc}	{37.790131142725556,-122.40559272127415,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+47	Sun May 22 18:26:06 +0000 2011	4a92369ef964a520fa1c20e3	{Divisadero Farmers' Market}	{37.775841,-122.438353,San Francisco,CA,United States}	{Shop & Service,Food & Drink Shop,}
+47	Sat May 21 22:20:21 +0000 2011	4dd7456ed1647fcf3e47693a	{The Rapture (SF Edition!)}	{37.776278,-122.420774,San Francisco,CA,United States}	{Outdoors & Recreation,Spiritual Center,Professional & Other Places,}
+47	Sat May 21 19:56:04 +0000 2011	446215e4f964a52017331fe3	{Eddie's Cafe}	{37.77688796443694,-122.43817817219043,San Francisco,CA,United States}	{Food,}
+47	Sat May 21 19:19:35 +0000 2011	4ab2cab2f964a520616c20e3	{Peet's Coffee & Tea}	{37.773482944986625,-122.43902972683198,San Francisco,CA,United States}	{Food,}
+47	Sat May 21 03:07:43 +0000 2011	4adcbf16f964a5205c2f21e3	{Vo's Restaurant}	{37.81148022340339,-122.26562412092217,Oakland,CA,United States}	{Food,}
+47	Sat May 21 00:29:29 +0000 2011	4b7628d6f964a520c6402ee3	{Azul}	{37.78935319486997,-122.40571975708008,San Francisco,CA,United States}	{Nightlife Spot,}
+47	Fri May 20 04:29:21 +0000 2011	43eb859cf964a5203a2f1fe3	{The Page}	{37.772262468940454,-122.43739128112793,San Francisco,CA,United States}	{Nightlife Spot,}
+47	Thu May 19 14:58:31 +0000 2011	4cb39e05eb65b1f7a1ed84cd	{Rodan + Fields}	{37.7880559476822,-122.4054729938507,San Francisco,CA,United States}	{Office,Professional & Other Places,}
+47	Thu May 19 14:50:05 +0000 2011	49d929aef964a5200c5e1fe3	{The Coffee Bean & Tea Leaf}	{37.78613945413199,-122.40506724506838,San Francisco,CA,United States}	{Food,}
+47	Thu May 19 01:52:07 +0000 2011	49daea87f964a520be5e1fe3	{Little Chihuahua}	{37.7720479,-122.43715,San Francisco,CA,United States}	{Food,}
+47	Mon May 16 15:52:18 +0000 2011	49f0c9e7f964a52058691fe3	{Cafe Madeleine}	{37.78668516549866,-122.40528849852774,San Francisco,CA,United States}	{Food,}
+47	Mon May 16 01:25:59 +0000 2011	49ec140ff964a5205d671fe3	{Pisco Latin Lounge}	{37.77139,-122.423998,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+47	Sun May 15 20:23:33 +0000 2011	43dc103ef964a520992e1fe3	{Absinthe Brasserie & Bar}	{37.77732946934459,-122.42300391197205,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+47	Sun May 08 18:44:50 +0000 2011	4a92369ef964a520fa1c20e3	{Divisadero Farmers' Market}	{37.775841,-122.438353,San Francisco,CA,United States}	{Shop & Service,Food & Drink Shop,}
+47	Sat May 07 01:43:50 +0000 2011	4813c27cf964a520494f1fe3	{Downtown Berkeley BART Station}	{37.870191015950546,-122.26809986176693,Berkeley,CA,United States}	{Travel & Transport,}
+47	Thu May 05 01:00:02 +0000 2011	4a692f3df964a520bdcb1fe3	{Blackbird Bar}	{37.767305376885574,-122.42940902709961,San Francisco,CA,United States}	{Nightlife Spot,}
+47	Wed May 04 19:28:32 +0000 2011	4ac3acdcf964a520529c20e3	{See's Candies}	{37.790045699472344,-122.40061442024412,San Francisco,CA,United States}	{Shop & Service,}
+47	Wed May 04 15:57:44 +0000 2011	49d929aef964a5200c5e1fe3	{The Coffee Bean & Tea Leaf}	{37.78613945413199,-122.40506724506838,San Francisco,CA,United States}	{Food,}
+47	Mon Apr 25 02:18:31 +0000 2011	4a692f3df964a520bdcb1fe3	{Blackbird Bar}	{37.767305376885574,-122.42940902709961,San Francisco,CA,United States}	{Nightlife Spot,}
+47	Sun Apr 24 22:06:44 +0000 2011	4a3fbb6bf964a520dca31fe3	{The Home Depot}	{37.67557495072926,-122.46710978602646,Colma,CA,United States}	{Shop & Service,}
+47	Sun Apr 24 17:38:32 +0000 2011	4c03fff2187ec928ea6cb67b	{Cafe Divis}	{37.77312679815698,-122.43748144051996,San Francisco,CA,United States}	{Food,}
+47	Sat Apr 23 18:43:52 +0000 2011	4bd4b7726798ef3b2a41628d	{Tomales Bay Oyster Company}	{38.11619121500379,-122.85409927368164,Petaluma,CA,United States}	{Food,}
+47	Sat Apr 23 17:09:37 +0000 2011	4c03fff2187ec928ea6cb67b	{Cafe Divis}	{37.77312679815698,-122.43748144051996,San Francisco,CA,United States}	{Food,}
+47	Fri Apr 22 02:06:27 +0000 2011	4a692f3df964a520bdcb1fe3	{Blackbird Bar}	{37.767305376885574,-122.42940902709961,San Francisco,CA,United States}	{Nightlife Spot,}
+47	Thu Apr 21 15:57:36 +0000 2011	4cb39e05eb65b1f7a1ed84cd	{Rodan + Fields}	{37.7880559476822,-122.4054729938507,San Francisco,CA,United States}	{Office,Professional & Other Places,}
+47	Wed Apr 20 14:54:12 +0000 2011	4cb39e05eb65b1f7a1ed84cd	{Rodan + Fields}	{37.7880559476822,-122.4054729938507,San Francisco,CA,United States}	{Office,Professional & Other Places,}
+47	Mon Apr 18 20:26:48 +0000 2011	4a577f31f964a52042b61fe3	{Bistro 69}	{37.78822710361351,-122.40460261128834,San Francisco,CA,United States}	{Food,}
+47	Sat Apr 16 23:07:46 +0000 2011	4c7be4f981bca0938b820415	{See's Candies}	{37.64301527767565,-122.42511644814356,South San Francisco,CA,United States}	{Shop & Service,}
+47	Sat Apr 16 21:22:28 +0000 2011	457c6a6df964a520093f1fe3	{In-N-Out Burger}	{37.68826935148615,-122.47197300195694,Daly City,CA,United States}	{Food,}
+47	Thu Apr 14 16:43:22 +0000 2011	4cb39e05eb65b1f7a1ed84cd	{Rodan + Fields}	{37.7880559476822,-122.4054729938507,San Francisco,CA,United States}	{Office,Professional & Other Places,}
+47	Wed Apr 13 02:43:16 +0000 2011	3fd66200f964a52090ed1ee3	{E&O Asian Kitchen}	{37.78952334893584,-122.40580291102114,San Francisco,CA,United States}	{Food,}
+47	Wed Apr 13 01:44:08 +0000 2011	4b7628d6f964a520c6402ee3	{Azul}	{37.78935319486997,-122.40571975708008,San Francisco,CA,United States}	{Nightlife Spot,}
+47	Tue Apr 12 02:08:13 +0000 2011	4b7628d6f964a520c6402ee3	{Azul}	{37.78935319486997,-122.40571975708008,San Francisco,CA,United States}	{Nightlife Spot,}
+47	Mon Apr 11 23:38:24 +0000 2011	4a998afcf964a520f82e20e3	{CocoaBella Chocolates}	{37.78282433414082,-122.40779042243958,San Francisco,CA,United States}	{Shop & Service,Food & Drink Shop,Residence,}
+47	Sat Apr 09 19:38:33 +0000 2011	3fd66200f964a52066ed1ee3	{Magnolia Gastropub & Brewery}	{37.770223,-122.445354,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+47	Sat Apr 09 04:06:11 +0000 2011	40ca4780f964a52008011fe3	{Badlands}	{37.760848,-122.43549627,San Francisco,CA,United States}	{Nightlife Spot,}
+47	Sat Apr 09 01:04:22 +0000 2011	44d31949f964a5203c361fe3	{D?d?}	{37.788325692943566,-122.40004466632152,San Francisco,CA,United States}	{Nightlife Spot,}
+47	Fri Apr 08 01:43:17 +0000 2011	3fd66200f964a520b7ed1ee3	{Tommy's Joynt}	{37.785552535383744,-122.42160379886627,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+47	Thu Apr 07 19:33:49 +0000 2011	49d1641af964a5207a5b1fe3	{Working Girls' Cafe}	{37.79092169025475,-122.4039443765855,San Francisco,CA,United States}	{Shop & Service,Food,}
+47	Thu Apr 07 15:46:56 +0000 2011	4ad8ffd0f964a520f31621e3	{Peet's Coffee & Tea}	{37.79115890974772,-122.40258364304523,San Francisco,CA,United States}	{Food,}
+47	Wed Apr 06 16:14:15 +0000 2011	4cb39e05eb65b1f7a1ed84cd	{Rodan + Fields}	{37.7880559476822,-122.4054729938507,San Francisco,CA,United States}	{Office,Professional & Other Places,}
+47	Wed Apr 06 16:14:15 +0000 2011	4cb39e05eb65b1f7a1ed84cd	{Rodan + Fields}	{37.7880559476822,-122.4054729938507,San Francisco,CA,United States}	{Office,Professional & Other Places,}
+47	Wed Apr 06 16:01:48 +0000 2011	4ad8ffd0f964a520f31621e3	{Peet's Coffee & Tea}	{37.79115890974772,-122.40258364304523,San Francisco,CA,United States}	{Food,}
+47	Tue Apr 05 03:18:05 +0000 2011	44a5aea3f964a520f2341fe3	{Ziryab}	{37.774492,-122.437623,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+47	Fri Apr 01 14:54:09 +0000 2011	49f0c9e7f964a52058691fe3	{Cafe Madeleine}	{37.78668516549866,-122.40528849852774,San Francisco,CA,United States}	{Food,}
+47	Fri Apr 01 02:11:06 +0000 2011	413e4b80f964a520521c1fe3	{Goat Hill Pizza}	{37.762369156934795,-122.3976194858551,San Francisco,CA,United States}	{Food,}
+47	Thu Mar 31 18:45:09 +0000 2011	4cb39e05eb65b1f7a1ed84cd	{Rodan + Fields}	{37.7880559476822,-122.4054729938507,San Francisco,CA,United States}	{Office,Professional & Other Places,}
+47	Thu Mar 31 02:40:23 +0000 2011	43f703c9f964a520b52f1fe3	{Moby Dick}	{37.76089838543789,-122.43390923557634,San Francisco,CA,United States}	{Nightlife Spot,}
+47	Thu Mar 31 01:51:39 +0000 2011	49ecf1def964a520b3671fe3	{Kasa Indian Eatery}	{37.76100689541682,-122.43288068341475,San Francisco,CA,United States}	{Food,}
+47	Wed Mar 30 15:33:56 +0000 2011	4ad8ffd0f964a520f31621e3	{Peet's Coffee & Tea}	{37.79115890974772,-122.40258364304523,San Francisco,CA,United States}	{Food,}
+47	Tue Mar 29 19:17:17 +0000 2011	4af9d258f964a520801422e3	{Urban Picnic}	{37.789259,-122.403715,San Francisco,CA,United States}	{Food,}
+47	Mon Mar 28 19:23:19 +0000 2011	49c2be75f964a52026561fe3	{Boudin Bakery}	{37.78663997214301,-122.40722179412842,San Francisco,CA,United States}	{Food,}
+47	Mon Mar 28 15:00:35 +0000 2011	4d4836a9c3e5a35d068f9b4f	{Grand Prix}	{37.789452,-122.40553299999999,San Francisco,CA,United States}	{Food,}
+47	Sun Mar 27 18:26:15 +0000 2011	49b094fdf964a520c8521fe3	{Zazie}	{37.76524912923089,-122.45002190184468,San Francisco,CA,United States}	{Outdoors & Recreation,Food,}
+47	Sun Mar 27 15:14:32 +0000 2011	4ab6c8faf964a520097920e3	{Starbucks}	{40.769823626596676,-73.95452605531987,New York,NY,United States}	{Food,}
+47	Sun Mar 27 04:20:55 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+47	Sat Mar 26 20:40:57 +0000 2011	43a52546f964a520532c1fe3	{John F. Kennedy International Airport (JFK)}	{40.645089355976346,-73.7845230102539,Jamaica,NY,United States}	{Travel & Transport,}
+47	Sat Mar 26 14:32:57 +0000 2011	4ad75f22f964a520dd0921e3	{First Avenue Coffee Shop}	{40.76935075174193,-73.95505413408203,New York,NY,United States}	{Outdoors & Recreation,Food,}
+47	Fri Mar 25 22:18:29 +0000 2011	40d38200f964a52046011fe3	{David Copperfield's}	{40.768045,-73.95287816,New York,NY,United States}	{Nightlife Spot,}
+47	Fri Mar 25 17:03:56 +0000 2011	4a673580f964a520fec81fe3	{ABC, Inc.}	{40.77336665758674,-73.98107744137282,New York,NY,United States}	{Arts & Entertainment,Office,Professional & Other Places,}
+47	Thu Mar 24 23:04:37 +0000 2011	44e4541df964a52051371fe3	{EasternBloc}	{40.72531229050113,-73.98352806562305,New York,NY,United States}	{Nightlife Spot,}
+47	Wed Mar 23 23:15:33 +0000 2011	4a4183a0f964a5205ba51fe3	{Almond}	{40.74033689217464,-73.9886817354489,New York,NY,United States}	{Nightlife Spot,Food,}
+47	Wed Mar 23 17:21:13 +0000 2011	4b26ab3af964a520377f24e3	{New York Magazine}	{40.72309578561513,-74.00691032409668,New York,NY,United States}	{Professional & Other Places,}
+47	Wed Mar 23 12:45:54 +0000 2011	4a673580f964a520fec81fe3	{ABC, Inc.}	{40.77336665758674,-73.98107744137282,New York,NY,United States}	{Arts & Entertainment,Office,Professional & Other Places,}
+47	Wed Mar 23 11:04:07 +0000 2011	4a6da55cf964a520d2d21fe3	{New York Sports Club}	{40.77086680401692,-73.95515171369526,New York,NY,United States}	{Shop & Service,Gym / Fitness Center,}
+47	Tue Mar 22 23:30:24 +0000 2011	40d77680f964a52056011fe3	{Nowhere}	{40.731895408411134,-73.98397571726198,New York,NY,United States}	{Nightlife Spot,}
+47	Mon Mar 21 23:57:42 +0000 2011	4a319883f964a520fc991fe3	{Trader Joe's Wine Shop}	{40.733879,-73.988185,New York,NY,United States}	{Shop & Service,Food & Drink Shop,}
+47	Mon Mar 21 02:22:26 +0000 2011	4d07ac142f96f04de0fe2d54	{GO Burger}	{40.771139966019625,-73.95668428115209,New York,NY,United States}	{Food,}
+47	Sun Mar 20 17:48:49 +0000 2011	4a58d544f964a520fdb71fe3	{M&I International Foods}	{40.57678752874365,-73.96564984391414,Brooklyn,NY,United States}	{Shop & Service,Food & Drink Shop,}
+47	Sat Mar 19 23:15:22 +0000 2011	4a673580f964a520fec81fe3	{ABC, Inc.}	{40.77336665758674,-73.98107744137282,New York,NY,United States}	{Arts & Entertainment,Office,Professional & Other Places,}
+47	Sat Mar 19 20:18:39 +0000 2011	4a5910c8f964a52094b81fe3	{Rectangles}	{40.769271,-73.954948,New York,NY,United States}	{Food,}
+47	Sat Mar 19 14:36:14 +0000 2011	4ad75f22f964a520dd0921e3	{First Avenue Coffee Shop}	{40.76935075174193,-73.95505413408203,New York,NY,United States}	{Outdoors & Recreation,Food,}
+47	Sat Mar 19 14:04:38 +0000 2011	4ab6c8faf964a520097920e3	{Starbucks}	{40.769823626596676,-73.95452605531987,New York,NY,United States}	{Food,}
+47	Sat Mar 19 00:21:47 +0000 2011	4bc39cd3abf495216305c493	{Evolve Lounge}	{40.760505041925015,-73.96608605784589,New York,NY,United States}	{Nightlife Spot,}
+47	Fri Mar 18 00:04:44 +0000 2011	4b1c4f14f964a520d80524e3	{Palacio Azteca}	{40.76784716632582,-73.95318863199674,New York,NY,United States}	{Food,}
+47	Fri Mar 18 00:04:44 +0000 2011	4b1c4f14f964a520d80524e3	{Palacio Azteca}	{40.76784716632582,-73.95318863199674,New York,NY,United States}	{Food,}
+47	Thu Mar 17 23:53:02 +0000 2011	40d38200f964a52046011fe3	{David Copperfield's}	{40.768045,-73.95287816,New York,NY,United States}	{Nightlife Spot,}
+47	Thu Mar 17 03:24:43 +0000 2011	4c9bb662e9a7ef3bd0ed2e16	{Industry Bar}	{40.76421262848506,-73.9870174251268,New York,NY,United States}	{Nightlife Spot,}
+47	Thu Mar 17 02:13:10 +0000 2011	4cba161bbac93704c43de97c	{Pure Thai Cookhouse}	{40.764298861377625,-73.98833739656621,New York,NY,United States}	{Food,}
+47	Wed Mar 16 16:37:19 +0000 2011	4ce2cf8bf8a4a1437a02f3bc	{Denim Therapy}	{40.75450691120772,-73.99176927982109,New York,NY,United States}	{Shop & Service,}
+47	Tue Mar 15 01:21:32 +0000 2011	44e4541df964a52051371fe3	{EasternBloc}	{40.72531229050113,-73.98352806562305,New York,NY,United States}	{Nightlife Spot,}
+47	Mon Mar 14 23:54:39 +0000 2011	4230df80f964a520ff1f1fe3	{Klong}	{40.72939637765506,-73.98945649567615,New York,NY,United States}	{Food,}
+47	Sun Mar 13 18:32:56 +0000 2011	4a8977f0f964a520130820e3	{Tasty Dumpling}	{40.71536993151993,-73.999866673976,New York,NY,United States}	{Food,}
+47	Sun Mar 13 05:01:53 +0000 2011	3fd66200f964a52043e51ee3	{Phoenix}	{40.729928,-73.98115,New York,NY,United States}	{Nightlife Spot,}
+47	Sun Mar 13 04:17:32 +0000 2011	4b5908fef964a5207a7928e3	{FIPS HQ}	{40.67022342262606,-73.97712595918333,Brooklyn,NY,United States}	{Residence,}
+47	Sat Mar 12 23:30:00 +0000 2011	4bc3c7fcb492d13ac44ea960	{Fornino}	{40.67494845585195,-73.98155953385853,Brooklyn,NY,United States}	{Nightlife Spot,Food,}
+47	Sat Mar 12 02:49:37 +0000 2011	42814b00f964a52000221fe3	{Karma}	{40.724742255593796,-73.98729289817663,New York,NY,United States}	{Nightlife Spot,}
+47	Sat Mar 12 00:16:45 +0000 2011	40fb0f00f964a520ee0a1fe3	{Urge Lounge}	{40.72459570391395,-73.99055837150034,New York,NY,United States}	{Nightlife Spot,}
+47	Fri Mar 11 02:27:26 +0000 2011	4a42d152f964a52044a61fe3	{Southern Hospitality}	{40.771549999960364,-73.95620001877374,New York,NY,United States}	{Music Venue,Food,Arts & Entertainment,}
+47	Thu Mar 10 11:53:05 +0000 2011	49c046f1f964a5205b551fe3	{Terminal 5}	{40.64557779020594,-73.77643346786499,Jamaica,NY,United States}	{Travel & Transport,Airport,}
+47	Thu Mar 10 05:01:42 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+47	Thu Mar 10 03:37:21 +0000 2011	42829c80f964a52078221fe3	{Nagano Sushi}	{37.781199,-122.45947659015656,San Francisco,CA,United States}	{Food,}
+47	Thu Mar 10 02:38:37 +0000 2011	4617e746f964a52051451fe3	{Bourbon & Branch}	{37.785828234206285,-122.41311504005402,San Francisco,CA,United States}	{Nightlife Spot,}
+47	Wed Mar 09 23:27:04 +0000 2011	4a33ebabf964a5206b9b1fe3	{Bibliohead Bookstore}	{37.776604,-122.42304,San Francisco,CA,United States}	{Shop & Service,}
+47	Wed Mar 09 21:16:49 +0000 2011	4d1d1d1fdd6a236a4fbf1a38	{Hayes & Kebab}	{37.77667239793121,-122.42605106243678,San Francisco,CA,United States}	{Food,}
+47	Wed Mar 09 18:52:32 +0000 2011	49d66253f964a520c25c1fe3	{Coffee Roastery}	{37.80005249583167,-122.44191884994507,San Francisco,CA,United States}	{Food,}
+47	Wed Mar 09 07:38:47 +0000 2011	4388f700f964a520212b1fe3	{Mel's Drive-In}	{37.781264,-122.454959,San Francisco,CA,United States}	{Food,}
+47	Wed Mar 09 05:04:36 +0000 2011	49c66a73f964a52044571fe3	{Dimples}	{37.785568,-122.430174,San Francisco,CA,United States}	{Nightlife Spot,}
+47	Wed Mar 09 02:54:07 +0000 2011	4aff8b4af964a520663922e3	{Dosa}	{37.78533895584412,-122.4329138626742,San Francisco,CA,United States}	{Food,}
+47	Wed Mar 09 01:23:53 +0000 2011	45587735f964a520443d1fe3	{City Beer Store}	{37.77556601797267,-122.40941479022656,San Francisco,CA,United States}	{Nightlife Spot,Shop & Service,Food & Drink Shop,}
+47	Tue Mar 08 20:17:48 +0000 2011	49c2be75f964a52026561fe3	{Boudin Bakery}	{37.78663997214301,-122.40722179412842,San Francisco,CA,United States}	{Food,}
+47	Tue Mar 08 07:28:19 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+47	Mon Mar 07 23:16:16 +0000 2011	49c046f1f964a5205b551fe3	{Terminal 5}	{40.64557779020594,-73.77643346786499,Jamaica,NY,United States}	{Travel & Transport,Airport,}
+47	Mon Mar 07 03:47:24 +0000 2011	42814b00f964a52000221fe3	{Karma}	{40.724742255593796,-73.98729289817663,New York,NY,United States}	{Nightlife Spot,}
+47	Sun Mar 06 18:10:29 +0000 2011	3fd66200f964a52058e91ee3	{Hi-Life Restaurant & Lounge}	{40.77300187982538,-73.95554065704346,New York,NY,United States}	{Nightlife Spot,Food,}
+47	Sun Mar 06 05:08:24 +0000 2011	40d38200f964a52046011fe3	{David Copperfield's}	{40.768045,-73.95287816,New York,NY,United States}	{Nightlife Spot,}
+47	Sat Mar 05 22:26:53 +0000 2011	49eeaf08f964a52078681fe3	{Vanessa's Dumpling House}	{40.718301364039064,-73.99192996850243,New York,NY,United States}	{Food,}
+47	Sat Mar 05 19:25:28 +0000 2011	4b464af8f964a520c01c26e3	{New York Public Library for the Performing Arts (LPA)}	{40.77322937882862,-73.98461580276489,New York,NY,United States}	{Arts & Entertainment,Professional & Other Places,}
+47	Sat Mar 05 01:09:55 +0000 2011	4b5908fef964a5207a7928e3	{FIPS HQ}	{40.67022342262606,-73.97712595918333,Brooklyn,NY,United States}	{Residence,}
+47	Fri Mar 04 23:48:17 +0000 2011	4a8977f0f964a520130820e3	{Tasty Dumpling}	{40.71536993151993,-73.999866673976,New York,NY,United States}	{Food,}
+47	Fri Mar 04 16:14:57 +0000 2011	4ab6c8faf964a520097920e3	{Starbucks}	{40.769823626596676,-73.95452605531987,New York,NY,United States}	{Food,}
+47	Fri Mar 04 01:30:20 +0000 2011	4ab2a782f964a520c86b20e3	{P.J. Clarke's}	{40.771961874462036,-73.98262023925781,New York,NY,United States}	{Nightlife Spot,Food,}
+47	Thu Mar 03 17:36:00 +0000 2011	4b26ab3af964a520377f24e3	{New York Magazine}	{40.72309578561513,-74.00691032409668,New York,NY,United States}	{Professional & Other Places,}
+47	Wed Mar 02 23:36:31 +0000 2011	4b1b3958f964a520d1f923e3	{West 3rd Common}	{40.72798238419726,-73.99503350257874,New York,NY,United States}	{Nightlife Spot,Food,}
+47	Tue Mar 01 17:36:16 +0000 2011	4b26ab3af964a520377f24e3	{New York Magazine}	{40.72309578561513,-74.00691032409668,New York,NY,United States}	{Professional & Other Places,}
+47	Sun Feb 27 22:39:59 +0000 2011	4b1c4f14f964a520d80524e3	{Palacio Azteca}	{40.76784716632582,-73.95318863199674,New York,NY,United States}	{Food,}
+47	Sat Feb 26 21:20:31 +0000 2011	44bd68b5f964a5209f351fe3	{La Villa}	{40.67429294771745,-73.98189240653575,Brooklyn,NY,United States}	{Food,}
+47	Sat Feb 26 19:19:04 +0000 2011	4481ada4f964a52018341fe3	{Union Hall}	{40.676252435314225,-73.98015260696411,Brooklyn,NY,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+47	Fri Feb 25 02:32:15 +0000 2011	4b1c4f14f964a520d80524e3	{Palacio Azteca}	{40.76784716632582,-73.95318863199674,New York,NY,United States}	{Food,}
+47	Fri Feb 25 02:02:05 +0000 2011	40d38200f964a52046011fe3	{David Copperfield's}	{40.768045,-73.95287816,New York,NY,United States}	{Nightlife Spot,}
+47	Wed Feb 23 11:53:06 +0000 2011	4a6da55cf964a520d2d21fe3	{New York Sports Club}	{40.77086680401692,-73.95515171369526,New York,NY,United States}	{Shop & Service,Gym / Fitness Center,}
+47	Mon Feb 21 22:54:31 +0000 2011	3fd66200f964a52044ea1ee3	{J.G. Melon}	{40.77108290360298,-73.9596116233806,New York,NY,United States}	{Nightlife Spot,Food,}
+47	Mon Feb 21 19:34:46 +0000 2011	4af5a46af964a520b5fa21e3	{Museum of Modern Art (MoMA)}	{40.761396839011994,-73.97698574930376,New York,NY,United States}	{Museum,Arts & Entertainment,}
+47	Sun Feb 20 05:35:21 +0000 2011	4ba468b2f964a520819b38e3	{Woody's Bar}	{40.72458935,-73.99056,New York,NY,United States}	{Nightlife Spot,}
+47	Sat Feb 19 21:15:26 +0000 2011	4a7e287cf964a5203af11fe3	{Wondee Siam I}	{40.765040723957604,-73.98791271109344,New York,NY,United States}	{Food,}
+47	Sat Feb 19 18:51:18 +0000 2011	4b464af8f964a520c01c26e3	{New York Public Library for the Performing Arts (LPA)}	{40.77322937882862,-73.98461580276489,New York,NY,United States}	{Arts & Entertainment,Professional & Other Places,}
+47	Fri Feb 18 23:49:06 +0000 2011	4a8977f0f964a520130820e3	{Tasty Dumpling}	{40.71536993151993,-73.999866673976,New York,NY,United States}	{Food,}
+47	Fri Feb 18 02:56:43 +0000 2011	3fd66200f964a52043e51ee3	{Phoenix}	{40.729928,-73.98115,New York,NY,United States}	{Nightlife Spot,}
+47	Fri Feb 18 02:35:41 +0000 2011	436e9900f964a520dd291fe3	{Common Ground}	{40.729596837867646,-73.98095691806245,New York,NY,United States}	{Nightlife Spot,Food,}
+47	Fri Feb 18 00:34:56 +0000 2011	4230df80f964a520ff1f1fe3	{Klong}	{40.72939637765506,-73.98945649567615,New York,NY,United States}	{Food,}
+47	Thu Feb 17 03:27:20 +0000 2011	40d38200f964a52046011fe3	{David Copperfield's}	{40.768045,-73.95287816,New York,NY,United States}	{Nightlife Spot,}
+47	Thu Feb 17 00:08:34 +0000 2011	4bc39cd3abf495216305c493	{Evolve Lounge}	{40.760505041925015,-73.96608605784589,New York,NY,United States}	{Nightlife Spot,}
+47	Wed Feb 16 17:40:24 +0000 2011	4b26ab3af964a520377f24e3	{New York Magazine}	{40.72309578561513,-74.00691032409668,New York,NY,United States}	{Professional & Other Places,}
+47	Wed Feb 16 02:29:13 +0000 2011	4a84b810f964a5206efd1fe3	{Mimi's Restaurant}	{40.756054299762674,-73.96760131962147,New York,NY,United States}	{Music Venue,Food,Arts & Entertainment,}
+47	Wed Feb 16 00:52:46 +0000 2011	4a79f20cf964a52013e81fe3	{Cornerstone Tavern}	{40.755613807146354,-73.96827285227972,New York,NY,United States}	{Nightlife Spot,}
+47	Tue Feb 15 01:58:05 +0000 2011	44e4541df964a52051371fe3	{EasternBloc}	{40.72531229050113,-73.98352806562305,New York,NY,United States}	{Nightlife Spot,}
+47	Tue Feb 15 01:36:04 +0000 2011	4230df80f964a520ff1f1fe3	{Klong}	{40.72939637765506,-73.98945649567615,New York,NY,United States}	{Food,}
+47	Mon Feb 14 00:20:01 +0000 2011	4901ef67f964a5205b521fe3	{The Bell House}	{40.673615,-73.99171,Brooklyn,NY,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+47	Sun Feb 13 21:20:22 +0000 2011	49c2df9cf964a5203b561fe3	{Apple Store}	{40.7412,-74.00542,New York,NY,United States}	{Shop & Service,}
+47	Sun Feb 13 19:39:40 +0000 2011	4a03a538f964a520d8711fe3	{La Palapa West}	{40.732195,-74.000615,New York,NY,United States}	{Food,}
+47	Fri Feb 11 02:33:54 +0000 2011	4b1c4f14f964a520d80524e3	{Palacio Azteca}	{40.76784716632582,-73.95318863199674,New York,NY,United States}	{Food,}
+47	Fri Feb 11 02:30:30 +0000 2011	40d38200f964a52046011fe3	{David Copperfield's}	{40.768045,-73.95287816,New York,NY,United States}	{Nightlife Spot,}
+47	Tue Feb 08 01:00:41 +0000 2011	4ac3ec04f964a5207c9d20e3	{Andaz}	{40.76886754146162,-73.95542723233704,New York,NY,United States}	{Food,}
+47	Sat Feb 05 18:42:26 +0000 2011	4a319883f964a520fc991fe3	{Trader Joe's Wine Shop}	{40.733879,-73.988185,New York,NY,United States}	{Shop & Service,Food & Drink Shop,}
+47	Fri Feb 04 21:57:15 +0000 2011	4abd0692f964a520228820e3	{Forty Carrots}	{40.722308433118776,-73.99943053672995,New York,NY,United States}	{Food,}
+47	Fri Feb 04 03:51:22 +0000 2011	40d38200f964a52046011fe3	{David Copperfield's}	{40.768045,-73.95287816,New York,NY,United States}	{Nightlife Spot,}
+47	Sat Jan 29 12:23:19 +0000 2011	4a6da55cf964a520d2d21fe3	{New York Sports Club}	{40.77086680401692,-73.95515171369526,New York,NY,United States}	{Shop & Service,Gym / Fitness Center,}
+47	Fri Jan 28 00:51:45 +0000 2011	40d38200f964a52046011fe3	{David Copperfield's}	{40.768045,-73.95287816,New York,NY,United States}	{Nightlife Spot,}
+47	Thu Jan 27 00:05:04 +0000 2011	433b2e80f964a52039281fe3	{Art Directors Club}	{40.74694165694873,-73.99046654875669,New York,NY,United States}	{Arts & Entertainment,Professional & Other Places,}
+47	Wed Jan 26 03:24:42 +0000 2011	40d38200f964a52046011fe3	{David Copperfield's}	{40.768045,-73.95287816,New York,NY,United States}	{Nightlife Spot,}
+47	Sun Jan 23 20:43:51 +0000 2011	49e63a33f964a52023641fe3	{McNally Jackson Books}	{40.72354286159147,-73.99599305184151,New York,NY,United States}	{Shop & Service,Food,}
+47	Sun Jan 23 19:26:21 +0000 2011	4a1dd407f964a5209c7b1fe3	{Animal Haven}	{40.72068894296114,-73.99787664413452,New York,NY,United States}	{Shop & Service,Professional & Other Places,}
+47	Sun Jan 23 17:20:27 +0000 2011	4ad75f22f964a520dd0921e3	{First Avenue Coffee Shop}	{40.76935075174193,-73.95505413408203,New York,NY,United States}	{Outdoors & Recreation,Food,}
+47	Sun Jan 23 04:23:32 +0000 2011	3fd66200f964a520f4e61ee3	{Pieces Bar}	{40.733954795253275,-74.0001765603631,New York,NY,United States}	{Nightlife Spot,}
+47	Sun Jan 23 02:54:50 +0000 2011	3fd66200f964a5201de71ee3	{Duplex}	{40.733755313222744,-74.0026326791738,New York,NY,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+47	Sat Jan 22 18:13:11 +0000 2011	4bf1a54a25afb7136f0f4b6f	{Russian Bookstore No.21}	{40.741058783104926,-73.98985248302886,New York,NY,United States}	{Shop & Service,}
+47	Sat Jan 22 18:13:11 +0000 2011	4bf1a54a25afb7136f0f4b6f	{Russian Bookstore No.21}	{40.741058783104926,-73.98985248302886,New York,NY,United States}	{Shop & Service,}
+47	Wed Jan 19 11:52:01 +0000 2011	4a6da55cf964a520d2d21fe3	{New York Sports Club}	{40.77086680401692,-73.95515171369526,New York,NY,United States}	{Shop & Service,Gym / Fitness Center,}
+47	Sun Jan 16 19:30:15 +0000 2011	4b464af8f964a520c01c26e3	{New York Public Library for the Performing Arts (LPA)}	{40.77322937882862,-73.98461580276489,New York,NY,United States}	{Arts & Entertainment,Professional & Other Places,}
+47	Sat Jan 15 18:27:57 +0000 2011	4aaaf5cdf964a520475820e3	{East End Bar & Grill}	{40.777423,-73.948947,New York,NY,United States}	{Nightlife Spot,Food,}
+47	Sat Jan 15 04:41:39 +0000 2011	4cc240c54fcfbfb71640bd24	{Sanctuary}	{40.75595432544907,-73.99128721296934,New York,NY,United States}	{Travel & Transport,}
+47	Sat Jan 15 03:17:50 +0000 2011	49d8c05df964a520c95d1fe3	{5 Napkin Burger}	{40.760305214599946,-73.99120686837627,New York,NY,United States}	{Nightlife Spot,Food,}
+47	Sat Jan 15 01:23:27 +0000 2011	4c9bb662e9a7ef3bd0ed2e16	{Industry Bar}	{40.76421262848506,-73.9870174251268,New York,NY,United States}	{Nightlife Spot,}
+47	Fri Jan 14 13:42:20 +0000 2011	4a6da55cf964a520d2d21fe3	{New York Sports Club}	{40.77086680401692,-73.95515171369526,New York,NY,United States}	{Shop & Service,Gym / Fitness Center,}
+47	Fri Jan 14 11:37:58 +0000 2011	4a6da55cf964a520d2d21fe3	{New York Sports Club}	{40.77086680401692,-73.95515171369526,New York,NY,United States}	{Shop & Service,Gym / Fitness Center,}
+47	Wed Jan 12 02:17:48 +0000 2011	40fb0f00f964a520e10a1fe3	{Keybar}	{40.73019540097008,-73.98179484046595,New York,NY,United States}	{Nightlife Spot,}
+47	Wed Jan 12 00:42:03 +0000 2011	41044980f964a520750b1fe3	{Cafe Mogador}	{40.727293,-73.984517,New York,NY,United States}	{Food,}
+47	Tue Jan 11 13:14:45 +0000 2011	4a6da55cf964a520d2d21fe3	{New York Sports Club}	{40.77086680401692,-73.95515171369526,New York,NY,United States}	{Shop & Service,Gym / Fitness Center,}
+47	Sun Jan 09 17:06:08 +0000 2011	4ab6c8faf964a520097920e3	{Starbucks}	{40.769823626596676,-73.95452605531987,New York,NY,United States}	{Food,}
+47	Sun Jan 09 16:56:07 +0000 2011	4a6da55cf964a520d2d21fe3	{New York Sports Club}	{40.77086680401692,-73.95515171369526,New York,NY,United States}	{Shop & Service,Gym / Fitness Center,}
+47	Sat Jan 08 18:57:37 +0000 2011	4b464af8f964a520c01c26e3	{New York Public Library for the Performing Arts (LPA)}	{40.77322937882862,-73.98461580276489,New York,NY,United States}	{Arts & Entertainment,Professional & Other Places,}
+47	Sat Jan 08 18:06:40 +0000 2011	4c5ef77bfff99c74eda954d3	{Eataly}	{40.74186151409088,-73.98943362953369,New York,NY,United States}	{Shop & Service,Food,Food & Drink Shop,}
+47	Sat Jan 08 17:35:59 +0000 2011	4bf1a54a25afb7136f0f4b6f	{Russian Bookstore No.21}	{40.741058783104926,-73.98985248302886,New York,NY,United States}	{Shop & Service,}
+47	Sat Jan 08 03:00:07 +0000 2011	3fd66200f964a5201ee51ee3	{11th Street Bar}	{40.72819368766083,-73.98123239980367,New York,NY,United States}	{Nightlife Spot,}
+47	Sat Jan 08 00:25:15 +0000 2011	436e9900f964a520dd291fe3	{Common Ground}	{40.729596837867646,-73.98095691806245,New York,NY,United States}	{Nightlife Spot,Food,}
+47	Fri Jan 07 01:19:28 +0000 2011	4a6da55cf964a520d2d21fe3	{New York Sports Club}	{40.77086680401692,-73.95515171369526,New York,NY,United States}	{Shop & Service,Gym / Fitness Center,}
+47	Wed Dec 29 05:08:49 +0000 2010	3fd66200f964a5200de61ee3	{Macdougal St. Ale House}	{40.73001958543734,-74.00054383246888,New York,NY,United States}	{Nightlife Spot,}
+47	Wed Dec 29 03:15:09 +0000 2010	44b78a37f964a52070351fe3	{Minetta Tavern}	{40.73008303366041,-74.00060695729111,New York,NY,United States}	{Food,}
+47	Sun Dec 26 21:16:16 +0000 2010	4d1759fd25cda143c24876d6	{Snowpocalypse 2010 - NY}	{40.714150998671556,-74.0024471282959,New York,NY,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+47	Sun Dec 26 20:21:03 +0000 2010	423e0e80f964a52047201fe3	{Bierkraft}	{40.67685118834076,-73.98010177430896,Brooklyn,NY,United States}	{Shop & Service,Food,Food & Drink Shop,}
+47	Fri Dec 24 05:35:53 +0000 2010	44e4541df964a52051371fe3	{EasternBloc}	{40.72531229050113,-73.98352806562305,New York,NY,United States}	{Nightlife Spot,}
+47	Fri Dec 24 01:25:25 +0000 2010	4230df80f964a520ff1f1fe3	{Klong}	{40.72939637765506,-73.98945649567615,New York,NY,United States}	{Food,}
+47	Wed Dec 22 00:17:31 +0000 2010	4a5aaff5f964a520c3ba1fe3	{David Barton Gym}	{40.73003391698606,-73.99233168961688,New York,NY,United States}	{Shop & Service,Gym / Fitness Center,}
+47	Thu Dec 16 00:59:53 +0000 2010	40fb0f00f964a520e10a1fe3	{Keybar}	{40.73019540097008,-73.98179484046595,New York,NY,United States}	{Nightlife Spot,}
+47	Wed Dec 15 02:42:07 +0000 2010	4b218cf2f964a520af3d24e3	{Squarespace HQ}	{40.72080278207451,-74.00096654891968,New York,NY,United States}	{Office,Professional & Other Places,}
+47	Tue Dec 14 23:31:01 +0000 2010	4c914b047f3b8cfac5819b1e	{Lani Kai}	{40.7238538382678,-74.00405009788602,New York,NY,United States}	{Nightlife Spot,Food,}
+47	Sat Dec 11 23:08:16 +0000 2010	3fd66200f964a520fbe41ee3	{Bar on A}	{40.728358,-73.98193,New York,NY,United States}	{Nightlife Spot,}
+47	Wed Dec 08 00:21:52 +0000 2010	4ce2e0bfd3db2c0f47d61287	{The First Annual Village Voice Web Awards}	{40.71766400377538,-74.00148153305054,New York,NY,United States}	{Arts & Entertainment,}
+47	Sat Dec 04 17:35:28 +0000 2010	44d5d521f964a52058361fe3	{Tapeo 29}	{40.720249014204626,-73.98452667169322,New York,NY,United States}	{Food,}
+47	Sat Dec 04 01:48:11 +0000 2010	4cba161bbac93704c43de97c	{Pure Thai Cookhouse}	{40.764298861377625,-73.98833739656621,New York,NY,United States}	{Food,}
+47	Sat Dec 04 00:32:26 +0000 2010	4cccef7472106dcb1fc19f99	{Flavor}	{40.76429905769199,-73.98840626439218,New York,NY,United States}	{Nightlife Spot,}
+47	Fri Dec 03 00:15:38 +0000 2010	4b1b3958f964a520d1f923e3	{West 3rd Common}	{40.72798238419726,-73.99503350257874,New York,NY,United States}	{Nightlife Spot,Food,}
+47	Wed Dec 01 13:37:55 +0000 2010	4ad75f22f964a520dd0921e3	{First Avenue Coffee Shop}	{40.76935075174193,-73.95505413408203,New York,NY,United States}	{Outdoors & Recreation,Food,}
+47	Wed Dec 01 01:19:29 +0000 2010	3fd66200f964a5202be41ee3	{Boiler Room}	{40.726104216543966,-73.98921310901642,New York,NY,United States}	{Nightlife Spot,}
+47	Wed Dec 01 00:15:49 +0000 2010	4ba468b2f964a520819b38e3	{Woody's Bar}	{40.72458935,-73.99056,New York,NY,United States}	{Nightlife Spot,}
+47	Tue Nov 30 01:35:06 +0000 2010	4cccb964c9b8468815d4bec3	{Brooklyneer}	{40.72849752624893,-74.00470428759728,New York,NY,United States}	{Nightlife Spot,Food,}
+47	Mon Nov 29 02:28:51 +0000 2010	40d38200f964a52046011fe3	{David Copperfield's}	{40.768045,-73.95287816,New York,NY,United States}	{Nightlife Spot,}
+47	Sun Nov 28 22:06:17 +0000 2010	4c6576dec2ead13ae7f7b080	{Helen's Rice & Noodles}	{40.764117,-73.966509,New York,NY,United States}	{Food,}
+47	Sun Nov 28 17:13:31 +0000 2010	49d6de35f964a520085d1fe3	{The Frick Collection}	{40.77117085425436,-73.96738321449389,New York,NY,United States}	{Museum,Arts & Entertainment,}
+47	Fri Nov 26 19:26:05 +0000 2010	42829c80f964a5206a221fe3	{Grand Central Terminal}	{40.75280620914171,-73.97717535495758,New York,NY,United States}	{Travel & Transport,}
+47	Fri Nov 26 17:39:58 +0000 2010	4b36412ef964a520af3125e3	{Metro North & Amtrak - Poughkeepsie Station}	{41.705953,-73.937838,Poughkeepsie,NY,United States}	{Travel & Transport,}
+47	Thu Nov 25 02:30:03 +0000 2010	4b6e1925f964a5205caa2ce3	{La Puerta Azul}	{41.78221821784973,-73.75651745,Salt Point,NY,United States}	{Food,}
+47	Thu Nov 25 00:11:13 +0000 2010	4b36412ef964a520af3125e3	{Metro North & Amtrak - Poughkeepsie Station}	{41.705953,-73.937838,Poughkeepsie,NY,United States}	{Travel & Transport,}
+47	Wed Nov 24 22:29:01 +0000 2010	4b38b954f964a520c24f25e3	{Financier Patisserie}	{40.752114701569525,-73.97736414087431,New York,NY,United States}	{Food,}
+47	Tue Nov 23 23:39:29 +0000 2010	49d2a308f964a520c55b1fe3	{Cabrito}	{40.72996930000001,-74.003581,New York,NY,United States}	{Food,}
+47	Tue Nov 23 18:21:46 +0000 2010	4a9fe232f964a520763d20e3	{Just Delicious}	{40.723637,-74.006065,New York,NY,United States}	{Food,}
+47	Sun Nov 21 20:20:26 +0000 2010	4a52938bf964a520c0b11fe3	{Forty Carrots Restaurant}	{40.76204850634926,-73.9674711227417,New York,NY,United States}	{Food,}
+47	Sun Nov 21 06:40:32 +0000 2010	4ad04456f964a520c7d720e3	{Ritz Bar & Lounge}	{40.760871,-73.990166,New York,NY,United States}	{Nightlife Spot,}
+47	Sun Nov 21 04:01:18 +0000 2010	4276bf00f964a5208b211fe3	{Posh Bar & Lounge}	{40.76430758425931,-73.98882150650024,New York,NY,United States}	{Nightlife Spot,}
+47	Sat Nov 20 00:08:10 +0000 2010	43768200f964a520452a1fe3	{Vig 27}	{40.74241,-73.983773,New York,NY,United States}	{Nightlife Spot,}
+47	Tue Nov 16 18:47:35 +0000 2010	4cae5172cbab236a20768f73	{BAM Howard Gilman Opera House}	{40.68670740090934,-73.97777080535889,Brooklyn,NY,United States}	{Performing Arts Venue,Arts & Entertainment,}
+47	Tue Nov 16 18:06:29 +0000 2010	46cc435af964a520394a1fe3	{67 Burger}	{40.687068739999994,-73.975857,Brooklyn,NY,United States}	{Food,}
+47	Tue Nov 16 00:10:41 +0000 2010	4bd8df990115c9b618ba7580	{Boxers NYC Sportsbar}	{40.740787336369145,-73.99331877220993,New York,NY,United States}	{Nightlife Spot,}
+47	Sun Nov 14 19:55:31 +0000 2010	4abd0692f964a520228820e3	{Forty Carrots}	{40.722308433118776,-73.99943053672995,New York,NY,United States}	{Food,}
+47	Sat Nov 13 18:39:07 +0000 2010	4a319883f964a520fc991fe3	{Trader Joe's Wine Shop}	{40.733879,-73.988185,New York,NY,United States}	{Shop & Service,Food & Drink Shop,}
+47	Sat Nov 13 03:48:07 +0000 2010	4bd8df990115c9b618ba7580	{Boxers NYC Sportsbar}	{40.740787336369145,-73.99331877220993,New York,NY,United States}	{Nightlife Spot,}
+47	Fri Nov 12 22:49:57 +0000 2010	42001800f964a520591f1fe3	{XES Lounge}	{40.744558370287955,-73.99425029754639,New York,NY,United States}	{Nightlife Spot,}
+47	Fri Nov 12 01:07:45 +0000 2010	43125000f964a52058271fe3	{Pegu Club}	{40.72675798960902,-73.99956095657589,New York,NY,United States}	{Nightlife Spot,}
+47	Fri Nov 12 00:06:30 +0000 2010	4612961ff964a52037451fe3	{SoHo Room}	{40.72535852524859,-74.00344181421833,New York,NY,United States}	{Nightlife Spot,}
+47	Wed Nov 10 23:27:50 +0000 2010	49b87b8cf964a52044531fe3	{City Winery}	{40.72635525176133,-74.0057623386383,New York,NY,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+47	Wed Nov 10 02:16:20 +0000 2010	4c632760eb82d13a713407d6	{Spice}	{40.771011,-73.953765,New York,NY,United States}	{Food,}
+47	Tue Nov 09 23:17:25 +0000 2010	4cb462eaef1b370452575800	{Movements Afoot Pilates Wellness Studio}	{40.7451412,-73.9905,New York,NY,United States}	{Shop & Service,College & University,}
+47	Tue Nov 09 01:13:36 +0000 2010	4a319883f964a520fc991fe3	{Trader Joe's Wine Shop}	{40.733879,-73.988185,New York,NY,United States}	{Shop & Service,Food & Drink Shop,}
+47	Tue Nov 09 00:37:17 +0000 2010	4a319883f964a520fc991fe3	{Trader Joe's Wine Shop}	{40.733879,-73.988185,New York,NY,United States}	{Shop & Service,Food & Drink Shop,}
+47	Sun Nov 07 17:33:42 +0000 2010	4a9f0665f964a520433c20e3	{New City Diner}	{41.102895600841194,-73.99812785772731,Nanuet,NY,United States}	{Food,}
+47	Sun Nov 07 04:05:31 +0000 2010	4c2c23bf57a9c9b6eb17f767	{Barz}	{41.10705605229492,-73.93010370763156,Upper Nyack,NY,United States}	{Residence,}
+47	Sun Nov 07 00:54:01 +0000 2010	4b77531df964a52012922ee3	{Danny's BBQ & Grill}	{41.05912,-74.019565,Pearl River,NY,United States}	{Food,}
+47	Sat Nov 06 14:36:56 +0000 2010	4ab6c8faf964a520097920e3	{Starbucks}	{40.769823626596676,-73.95452605531987,New York,NY,United States}	{Food,}
+47	Wed Nov 03 23:31:38 +0000 2010	43768200f964a520452a1fe3	{Vig 27}	{40.74241,-73.983773,New York,NY,United States}	{Nightlife Spot,}
+47	Wed Nov 03 22:03:06 +0000 2010	4cb462eaef1b370452575800	{Movements Afoot Pilates Wellness Studio}	{40.7451412,-73.9905,New York,NY,United States}	{Shop & Service,College & University,}
+47	Wed Nov 03 22:03:05 +0000 2010	4cb462eaef1b370452575800	{Movements Afoot Pilates Wellness Studio}	{40.7451412,-73.9905,New York,NY,United States}	{Shop & Service,College & University,}
+47	Mon Nov 01 23:54:05 +0000 2010	4c2a8d772219c928d24ca348	{Prime Cafe}	{40.74532376,-73.992229,New York,NY,United States}	{Food,}
+47	Mon Nov 01 23:49:10 +0000 2010	4cb462eaef1b370452575800	{Movements Afoot Pilates Wellness Studio}	{40.7451412,-73.9905,New York,NY,United States}	{Shop & Service,College & University,}
+47	Mon Nov 01 20:42:45 +0000 2010	4b26ab3af964a520377f24e3	{New York Magazine}	{40.72309578561513,-74.00691032409668,New York,NY,United States}	{Professional & Other Places,}
+47	Sun Oct 31 07:14:18 +0000 2010	4abadd53f964a520338320e3	{Bar-tini Ultra Lounge}	{40.76175640101546,-73.9939557821161,New York,NY,United States}	{Nightlife Spot,}
+47	Thu Oct 28 02:29:48 +0000 2010	4a42d152f964a52044a61fe3	{Southern Hospitality}	{40.771549999960364,-73.95620001877374,New York,NY,United States}	{Music Venue,Food,Arts & Entertainment,}
+47	Tue Oct 26 02:58:39 +0000 2010	4a19def7f964a520657a1fe3	{CitiBar}	{40.769895,-73.95442,New York,NY,United States}	{Nightlife Spot,}
+47	Mon Oct 25 22:25:04 +0000 2010	4bd8df990115c9b618ba7580	{Boxers NYC Sportsbar}	{40.740787336369145,-73.99331877220993,New York,NY,United States}	{Nightlife Spot,}
+47	Sun Oct 24 19:18:43 +0000 2010	452d6886f964a5204a3b1fe3	{New York Public Library}	{40.753271503883234,-73.9822769165039,New York,NY,United States}	{Professional & Other Places,}
+47	Sun Oct 24 02:28:38 +0000 2010	4c368d57ae2da593df78fdc5	{Hombres Lounge}	{40.74995544581752,-73.88082504272461,Jackson Heights,NY,United States}	{Nightlife Spot,}
+47	Sat Oct 23 23:58:51 +0000 2010	3fd66200f964a52009f11ee3	{Jackson Diner}	{40.747721,-73.891463,Jackson Heights,NY,United States}	{Food,}
+47	Fri Oct 22 00:00:10 +0000 2010	40d38200f964a52046011fe3	{David Copperfield's}	{40.768045,-73.95287816,New York,NY,United States}	{Nightlife Spot,}
+47	Wed Oct 20 23:11:33 +0000 2010	3fd66200f964a520e2e51ee3	{Bar 89}	{40.72296568823725,-74.0000867843628,New York,NY,United States}	{Nightlife Spot,Food,}
+47	Wed Oct 20 00:52:00 +0000 2010	49dfbfabf964a52009611fe3	{Thai Market}	{40.80121600186589,-73.9651390131865,New York,NY,United States}	{Food,}
+47	Sun Oct 17 20:29:21 +0000 2010	4901ef67f964a5205b521fe3	{The Bell House}	{40.673615,-73.99171,Brooklyn,NY,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+47	Sun Oct 17 19:49:47 +0000 2010	4a354af4f964a520c09c1fe3	{Root Hill Caf??}	{40.676149238699374,-73.98390684784697,Brooklyn,NY,United States}	{Food,}
+47	Sat Oct 16 19:44:34 +0000 2010	4c1918c7fe5a76b07b0f0315	{Shake Shack}	{40.77912606570555,-73.95490489457822,New York,NY,United States}	{Food,}
+47	Sat Oct 16 14:47:31 +0000 2010	4ab6c8faf964a520097920e3	{Starbucks}	{40.769823626596676,-73.95452605531987,New York,NY,United States}	{Food,}
+47	Tue Oct 05 14:41:01 +0000 2010	4b5200d2f964a520946027e3	{Financier Patisserie}	{40.75642598613473,-73.96439859321207,New York,NY,United States}	{Food,}
+47	Sun Oct 03 17:51:00 +0000 2010	4a44cd95f964a5208fa71fe3	{Ellis Island Immigration Museum}	{40.69881431503458,-74.0395567339538,New York,NJ,United States}	{Museum,Arts & Entertainment,}
+47	Sun Oct 03 17:03:44 +0000 2010	42893400f964a52054231fe3	{Statue of Liberty}	{40.68918868889945,-74.04465436935425,New York,NY,United States}	{Outdoors & Recreation,Government Building,Arts & Entertainment,Professional & Other Places,}
+47	Sun Oct 03 14:39:01 +0000 2010	45bca87cf964a52000421fe3	{Ozzie's Coffee & Tea - 7th Ave.}	{40.6758,-73.9746,Brooklyn,NY,United States}	{Food,}
+47	Sat Oct 02 22:42:02 +0000 2010	4a468cd9f964a52015a91fe3	{Prospect Park (Long Meadow)}	{40.66875802311211,-73.97030353546143,Brooklyn,NY,United States}	{Outdoors & Recreation,}
+47	Sat Oct 02 01:35:06 +0000 2010	3fd66200f964a5209fe51ee3	{Barracuda Bar}	{40.74450047047283,-73.99849513376128,New York,NY,United States}	{Nightlife Spot,}
+47	Fri Oct 01 21:53:19 +0000 2010	4bd8df990115c9b618ba7580	{Boxers NYC Sportsbar}	{40.740787336369145,-73.99331877220993,New York,NY,United States}	{Nightlife Spot,}
+47	Fri Oct 01 01:05:16 +0000 2010	40d38200f964a52046011fe3	{David Copperfield's}	{40.768045,-73.95287816,New York,NY,United States}	{Nightlife Spot,}
+47	Wed Sep 29 22:20:37 +0000 2010	4bd8df990115c9b618ba7580	{Boxers NYC Sportsbar}	{40.740787336369145,-73.99331877220993,New York,NY,United States}	{Nightlife Spot,}
+47	Wed Sep 29 15:03:13 +0000 2010	4a673580f964a520fec81fe3	{ABC, Inc.}	{40.77336665758674,-73.98107744137282,New York,NY,United States}	{Arts & Entertainment,Office,Professional & Other Places,}
+47	Wed Sep 29 14:14:06 +0000 2010	452d6886f964a5204a3b1fe3	{New York Public Library}	{40.753271503883234,-73.9822769165039,New York,NY,United States}	{Professional & Other Places,}
+47	Tue Sep 28 17:55:08 +0000 2010	4b26ab3af964a520377f24e3	{New York Magazine}	{40.72309578561513,-74.00691032409668,New York,NY,United States}	{Professional & Other Places,}
+47	Tue Sep 28 00:11:35 +0000 2010	40d38200f964a52046011fe3	{David Copperfield's}	{40.768045,-73.95287816,New York,NY,United States}	{Nightlife Spot,}
+47	Mon Sep 27 20:36:18 +0000 2010	4bc1fa3b461576b0d3947c32	{Milux Cafe}	{40.723116,-74.002079,New York,NY,United States}	{Food,}
+47	Sun Sep 26 22:45:17 +0000 2010	4ab7cf6af964a520e27a20e3	{Van Leeuwen Ice Cream Truck}	{40.73538884033272,-73.99137496948242,New York,NY,United States}	{Food,}
+47	Sun Sep 26 22:09:36 +0000 2010	3fd66200f964a5206cf11ee3	{Long Tan}	{40.676879,-73.980178,Brooklyn,NY,United States}	{Shop & Service,Food,}
+47	Sun Sep 26 14:28:06 +0000 2010	4075e780f964a52059f21ee3	{Gorilla Coffee}	{40.679668384825625,-73.97820175,Brooklyn,NY,United States}	{Food,}
+47	Sun Sep 26 01:59:54 +0000 2010	4bdb83ca2a3a0f47aa8fafb6	{The Rock Shop}	{40.676293,-73.98352682590485,Brooklyn,NY,United States}	{Nightlife Spot,Arts & Entertainment,}
+47	Thu Sep 23 00:24:53 +0000 2010	452d6886f964a5204a3b1fe3	{New York Public Library}	{40.753271503883234,-73.9822769165039,New York,NY,United States}	{Professional & Other Places,}
+47	Wed Sep 22 22:14:06 +0000 2010	452d6886f964a5204a3b1fe3	{New York Public Library}	{40.753271503883234,-73.9822769165039,New York,NY,United States}	{Professional & Other Places,}
+47	Tue Sep 21 23:27:22 +0000 2010	4587e9aef964a520cf3f1fe3	{4th Avenue Pub}	{40.682288833662085,-73.97998698962292,Brooklyn,NY,United States}	{Nightlife Spot,}
+47	Tue Sep 21 14:21:37 +0000 2010	4ab6c8faf964a520097920e3	{Starbucks}	{40.769823626596676,-73.95452605531987,New York,NY,United States}	{Food,}
+47	Mon Sep 20 18:13:33 +0000 2010	4abd0692f964a520228820e3	{Forty Carrots}	{40.722308433118776,-73.99943053672995,New York,NY,United States}	{Food,}
+47	Mon Sep 20 00:59:55 +0000 2010	40d38200f964a52046011fe3	{David Copperfield's}	{40.768045,-73.95287816,New York,NY,United States}	{Nightlife Spot,}
+47	Sun Sep 19 23:17:33 +0000 2010	4b78484ef964a520fbc12ee3	{Blue Marble}	{40.68715136647779,-73.99355406440372,Brooklyn,NY,United States}	{Food,}
+47	Sun Sep 19 18:47:46 +0000 2010	44b7acf4f964a52073351fe3	{Governors Island}	{40.691181787748235,-74.01678085327148,New York,NY,United States}	{Outdoors & Recreation,}
+47	Sun Sep 19 18:29:18 +0000 2010	4c0a5c7e7e3fc9281168f382	{Battery Maritime Building}	{40.70104878257841,-74.01172757148743,New York,NY,United States}	{Travel & Transport,Outdoors & Recreation,}
+47	Sun Sep 19 01:19:37 +0000 2010	40d38200f964a52046011fe3	{David Copperfield's}	{40.768045,-73.95287816,New York,NY,United States}	{Nightlife Spot,}
+47	Sat Sep 18 21:19:11 +0000 2010	4a42d152f964a52044a61fe3	{Southern Hospitality}	{40.771549999960364,-73.95620001877374,New York,NY,United States}	{Music Venue,Food,Arts & Entertainment,}
+47	Sat Sep 18 03:25:34 +0000 2010	3fd66200f964a52012e41ee3	{Parkside Lounge}	{40.72104871230518,-73.98317223921723,New York,NY,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+47	Sat Sep 18 01:52:14 +0000 2010	4a9dcd11f964a520773920e3	{Zaitzeff}	{40.722361,-73.983191,New York,NY,United States}	{Food,}
+47	Fri Sep 17 22:38:27 +0000 2010	4b1b3958f964a520d1f923e3	{West 3rd Common}	{40.72798238419726,-73.99503350257874,New York,NY,United States}	{Nightlife Spot,Food,}
+47	Thu Sep 16 23:12:20 +0000 2010	3fd66200f964a5209fe51ee3	{Barracuda Bar}	{40.74450047047283,-73.99849513376128,New York,NY,United States}	{Nightlife Spot,}
+47	Thu Sep 16 00:17:22 +0000 2010	4c37d1c293db0f47b6942092	{Dessert Truck}	{40.72411790165026,-73.98769462899905,New York,NY,United States}	{Food,}
+47	Wed Sep 15 22:44:50 +0000 2010	3fd66200f964a52093ea1ee3	{Nyonya}	{40.71911446229398,-73.99687107972214,New York,NY,United States}	{Food,}
+47	Wed Sep 15 00:23:35 +0000 2010	4ad0eda5f964a52031db20e3	{Murphy's Law}	{40.76621727770191,-73.95566831082617,New York,NY,United States}	{Nightlife Spot,}
+47	Tue Sep 14 23:14:17 +0000 2010	4ba53855f964a520a0ed38e3	{Carl Schurz Dog Run}	{40.7742124905644,-73.9440071582794,New York,NY,United States}	{Outdoors & Recreation,}
+47	Sun Sep 12 22:36:36 +0000 2010	41229c00f964a520350c1fe3	{Caracas Arepa Bar}	{40.7268464712133,-73.98546788185718,New York,NY,United States}	{Food,}
+47	Sun Sep 12 00:30:07 +0000 2010	44e4541df964a52051371fe3	{EasternBloc}	{40.72531229050113,-73.98352806562305,New York,NY,United States}	{Nightlife Spot,}
+47	Sat Sep 11 12:06:20 +0000 2010	4ba67c3af964a520375739e3	{Candlewood Lake}	{41.485434209241745,-73.44703674316406,Brookfield/New Fairfield,CT,United States}	{Outdoors & Recreation,}
+47	Sat Sep 11 02:07:06 +0000 2010	42829c80f964a5206a221fe3	{Grand Central Terminal}	{40.75280620914171,-73.97717535495758,New York,NY,United States}	{Travel & Transport,}
+47	Thu Sep 09 22:31:50 +0000 2010	4b1b3958f964a520d1f923e3	{West 3rd Common}	{40.72798238419726,-73.99503350257874,New York,NY,United States}	{Nightlife Spot,Food,}
+47	Thu Sep 09 02:34:06 +0000 2010	40d38200f964a52046011fe3	{David Copperfield's}	{40.768045,-73.95287816,New York,NY,United States}	{Nightlife Spot,}
+47	Wed Sep 08 22:53:35 +0000 2010	4276bf00f964a5208b211fe3	{Posh Bar & Lounge}	{40.76430758425931,-73.98882150650024,New York,NY,United States}	{Nightlife Spot,}
+47	Wed Sep 08 18:16:19 +0000 2010	4ba542b5f964a5200cf338e3	{4food}	{40.75163149583303,-73.9802739512095,New York,NY,United States}	{Food,}
+47	Wed Sep 08 13:16:02 +0000 2010	42829c80f964a5206a221fe3	{Grand Central Terminal}	{40.75280620914171,-73.97717535495758,New York,NY,United States}	{Travel & Transport,}
+47	Mon Sep 06 17:02:27 +0000 2010	3fd66200f964a520d7f11ee3	{Bryant Park}	{40.75398671041169,-73.98382186889648,New York,NY,United States}	{Outdoors & Recreation,}
+47	Sun Sep 05 23:04:52 +0000 2010	4bbe1ecf9474c9b66a1bd9b6	{Arthur Ashe Stadium - USTA Billie Jean King National Tennis Center}	{40.749630333184015,-73.8469648361206,Flushing,NY,United States}	{Stadium,Arts & Entertainment,}
+47	Sun Sep 05 21:50:26 +0000 2010	4aa30fcff964a5202f4320e3	{New York Water Taxi - East 35th St}	{40.74411286169273,-73.97056293322844,New York,NY,United States}	{Travel & Transport,}
+47	Sun Sep 05 18:49:43 +0000 2010	4afcad9ff964a520052522e3	{Costco Wholesale Club}	{40.79521041323977,-73.93128916238786,New York,NY,United States}	{Shop & Service,Food & Drink Shop,}
+47	Sun Sep 05 15:41:31 +0000 2010	4ad75f22f964a520dd0921e3	{First Avenue Coffee Shop}	{40.76935075174193,-73.95505413408203,New York,NY,United States}	{Outdoors & Recreation,Food,}
+47	Sat Sep 04 17:55:44 +0000 2010	4a19e252f964a5206b7a1fe3	{Ocean View Cafe}	{40.5769284375,-73.96423,Brooklyn,NY,United States}	{Food,}
+47	Sat Sep 04 03:18:01 +0000 2010	48dbd425f964a5200a521fe3	{Galapagos Art Space}	{40.70336067478831,-73.99067888878471,Brooklyn,NY,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+47	Sat Sep 04 00:10:11 +0000 2010	48636f02f964a520e3501fe3	{Red Egg}	{40.71903189592756,-73.99938462748838,New York,NY,United States}	{Food,}
+47	Fri Sep 03 22:43:42 +0000 2010	40d38200f964a52046011fe3	{David Copperfield's}	{40.768045,-73.95287816,New York,NY,United States}	{Nightlife Spot,}
+47	Fri Sep 03 17:14:28 +0000 2010	4a6a032bf964a52060cc1fe3	{Chipotle Mexican Grill}	{40.75750019591725,-73.9747469957497,New York,NY,United States}	{Food,}
+47	Wed Sep 01 22:59:05 +0000 2010	4a116491f964a52011771fe3	{Destination}	{40.729765,-73.980866,New York,NY,United States}	{Nightlife Spot,Food,}
+47	Wed Sep 01 18:38:51 +0000 2010	4bbbeeaaafe1b713c5ec2f4b	{Cafe Metro}	{40.755906378935286,-73.9768820378688,New York,NY,United States}	{Food,}
+47	Wed Sep 01 18:36:28 +0000 2010	4ba542b5f964a5200cf338e3	{4food}	{40.75163149583303,-73.9802739512095,New York,NY,United States}	{Food,}
+47	Mon Aug 30 13:19:34 +0000 2010	4aeb031af964a52033bd21e3	{Rieu Cafe}	{40.761078360228105,-73.97349006471369,New York,NY,United States}	{Food,}
+47	Sat Aug 28 23:36:21 +0000 2010	4a319883f964a520fc991fe3	{Trader Joe's Wine Shop}	{40.733879,-73.988185,New York,NY,United States}	{Shop & Service,Food & Drink Shop,}
+47	Sat Aug 28 21:11:12 +0000 2010	49c27575f964a520f1551fe3	{Union Square Greenmarket}	{40.73652697126574,-73.9905595779419,New York,NY,United States}	{Outdoors & Recreation,Shop & Service,Food & Drink Shop,}
+47	Sat Aug 28 20:14:46 +0000 2010	42893400f964a52052231fe3	{Prospect Park}	{40.66390776998241,-73.970947265625,Brooklyn,NY,United States}	{Outdoors & Recreation,}
+47	Sat Aug 28 03:51:43 +0000 2010	421a7600f964a5209b1f1fe3	{The Bourgeois Pig}	{40.72649035907284,-73.9846357145704,New York,NY,United States}	{Nightlife Spot,}
+47	Sat Aug 28 01:21:50 +0000 2010	4b5908fef964a5207a7928e3	{FIPS HQ}	{40.67022342262606,-73.97712595918333,Brooklyn,NY,United States}	{Residence,}
+47	Fri Aug 27 17:08:14 +0000 2010	43446900f964a5206c281fe3	{Park Avenue Plaza}	{40.75909046091092,-73.97371530532837,New York,NY,United States}	{Professional & Other Places,}
+47	Fri Aug 27 02:06:20 +0000 2010	46936ee3f964a520d0481fe3	{Shanghai Caf?}	{40.71733412016059,-73.9974851229737,New York,NY,United States}	{Food,}
+47	Fri Aug 27 00:09:51 +0000 2010	4b81ea40f964a520e0c330e3	{Brooklyn Bridge Park - Pier 1}	{40.702634,-73.996119,Brooklyn,NY,United States}	{Outdoors & Recreation,}
+47	Thu Aug 26 22:41:09 +0000 2010	4a52938bf964a520c0b11fe3	{Forty Carrots Restaurant}	{40.76204850634926,-73.9674711227417,New York,NY,United States}	{Food,}
+47	Tue Aug 24 17:49:50 +0000 2010	43446900f964a5206c281fe3	{Park Avenue Plaza}	{40.75909046091092,-73.97371530532837,New York,NY,United States}	{Professional & Other Places,}
+47	Mon Aug 23 21:55:52 +0000 2010	4276bf00f964a5208b211fe3	{Posh Bar & Lounge}	{40.76430758425931,-73.98882150650024,New York,NY,United States}	{Nightlife Spot,}
+47	Fri Aug 20 23:23:29 +0000 2010	4ae49470f964a520e49b21e3	{15 Cliff St}	{40.70323314746373,-74.00063278107605,New York,NY,United States}	{Residence,}
+47	Wed Aug 18 22:45:08 +0000 2010	436e9900f964a520dd291fe3	{Common Ground}	{40.729596837867646,-73.98095691806245,New York,NY,United States}	{Nightlife Spot,Food,}
+47	Wed Aug 18 21:57:59 +0000 2010	4a673580f964a520fec81fe3	{ABC, Inc.}	{40.77336665758674,-73.98107744137282,New York,NY,United States}	{Arts & Entertainment,Office,Professional & Other Places,}
+47	Wed Aug 18 14:26:15 +0000 2010	4ad75f22f964a520dd0921e3	{First Avenue Coffee Shop}	{40.76935075174193,-73.95505413408203,New York,NY,United States}	{Outdoors & Recreation,Food,}
+47	Tue Aug 17 17:18:35 +0000 2010	4abd0692f964a520228820e3	{Forty Carrots}	{40.722308433118776,-73.99943053672995,New York,NY,United States}	{Food,}
+47	Sun Aug 15 19:12:19 +0000 2010	4b97db52f964a520741a35e3	{Nicholas Roerich Museum}	{40.802798782607994,-73.96899029911468,New York,NY,United States}	{Professional & Other Places,}
+47	Sun Aug 15 05:01:34 +0000 2010	4adc960bf964a520932d21e3	{Phebe's}	{40.726946267342754,-73.99148807430478,New York,NY,United States}	{Nightlife Spot,}
+47	Sun Aug 15 02:00:37 +0000 2010	3fd66200f964a52064e91ee3	{The Parlour}	{40.7885466814834,-73.97696812777984,New York,NY,United States}	{Nightlife Spot,}
+47	Sat Aug 14 23:07:00 +0000 2010	4c672164aebea593915a75d0	{1st Ave Bus Lane}	{40.726182,-73.986179,New York,NY,United States}	{Travel & Transport,Airport,}
+47	Sat Aug 14 18:50:47 +0000 2010	4459bbbcf964a520d6321fe3	{Franny's}	{40.67610551591687,-73.97168213581594,Brooklyn,NY,United States}	{Nightlife Spot,Food,}
+47	Sat Aug 14 15:31:36 +0000 2010	4ad75f22f964a520dd0921e3	{First Avenue Coffee Shop}	{40.76935075174193,-73.95505413408203,New York,NY,United States}	{Outdoors & Recreation,Food,}
+47	Sat Aug 14 02:23:52 +0000 2010	48dbd425f964a5200a521fe3	{Galapagos Art Space}	{40.70336067478831,-73.99067888878471,Brooklyn,NY,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+47	Sat Aug 14 00:28:00 +0000 2010	4901ef67f964a5205b521fe3	{The Bell House}	{40.673615,-73.99171,Brooklyn,NY,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+47	Fri Aug 13 23:06:58 +0000 2010	3fd66200f964a5206cf11ee3	{Long Tan}	{40.676879,-73.980178,Brooklyn,NY,United States}	{Shop & Service,Food,}
+47	Fri Aug 13 15:30:18 +0000 2010	4a673580f964a520fec81fe3	{ABC, Inc.}	{40.77336665758674,-73.98107744137282,New York,NY,United States}	{Arts & Entertainment,Office,Professional & Other Places,}
+47	Thu Aug 12 00:47:40 +0000 2010	4bd8df990115c9b618ba7580	{Boxers NYC Sportsbar}	{40.740787336369145,-73.99331877220993,New York,NY,United States}	{Nightlife Spot,}
+47	Tue Aug 10 22:32:17 +0000 2010	41311c80f964a520400d1fe3	{Tea Lounge}	{40.674890555243714,-73.97621627458902,Brooklyn,NY,United States}	{Food,}
+47	Mon Aug 09 02:07:19 +0000 2010	40d38200f964a52046011fe3	{David Copperfield's}	{40.768045,-73.95287816,New York,NY,United States}	{Nightlife Spot,}
+47	Sun Aug 08 21:29:34 +0000 2010	4c225ae47e85c9283ee5bb21	{Trader Joe's}	{40.74177488559398,-73.993703273938,New York,NY,United States}	{Shop & Service,Food & Drink Shop,}
+47	Sun Aug 08 02:41:48 +0000 2010	3fd66200f964a5209deb1ee3	{Excelsior}	{40.67085652586917,-73.98502023369585,Brooklyn,NY,United States}	{Nightlife Spot,}
+47	Sat Aug 07 21:53:01 +0000 2010	4bcb54340687ef3b057cddcc	{Hot Bird}	{40.68183918319127,-73.96677481467539,Brooklyn,NY,United States}	{Nightlife Spot,}
+47	Sat Aug 07 18:14:42 +0000 2010	4839a8ddf964a5200e501fe3	{Brooklyn Flea Fort Greene}	{40.687415187557306,-73.96922528743744,Brooklyn,NY,United States}	{Shop & Service,}
+47	Sat Aug 07 18:01:53 +0000 2010	4a78449bf964a52056e51fe3	{Connecticut Muffin}	{40.687084,-73.976106,Brooklyn,NY,United States}	{Food,}
+47	Sat Aug 07 15:04:33 +0000 2010	4a785af0f964a52071e51fe3	{Starbucks}	{40.776241837275684,-73.94997418614841,New York,NY,United States}	{Food,}
+47	Sat Aug 07 14:46:19 +0000 2010	4ab6c8faf964a520097920e3	{Starbucks}	{40.769823626596676,-73.95452605531987,New York,NY,United States}	{Food,}
+47	Sat Aug 07 00:36:48 +0000 2010	4a789860f964a520fbe51fe3	{90 Washington}	{40.704898486990764,-74.01238511084367,New York,NY,United States}	{Residence,}
+47	Fri Aug 06 22:29:09 +0000 2010	4a52938bf964a520c0b11fe3	{Forty Carrots Restaurant}	{40.76204850634926,-73.9674711227417,New York,NY,United States}	{Food,}
+47	Fri Aug 06 00:16:19 +0000 2010	4bd8df990115c9b618ba7580	{Boxers NYC Sportsbar}	{40.740787336369145,-73.99331877220993,New York,NY,United States}	{Nightlife Spot,}
+47	Thu Aug 05 16:48:23 +0000 2010	49bd5b75f964a52070541fe3	{Estancia 460}	{40.72374978333333,-74.009395,New York,NY,United States}	{Food,}
+47	Mon Aug 02 23:27:32 +0000 2010	43695300f964a5208c291fe3	{Empire State Building}	{40.74828059076867,-73.98556262254715,New York,NY,United States}	{Outdoors & Recreation,Arts & Entertainment,Professional & Other Places,}
+47	Mon Aug 02 21:34:43 +0000 2010	3fd66200f964a52057f11ee3	{La Taqueria}	{40.67517,-73.975017,Brooklyn,NY,United States}	{Food,}
+47	Mon Aug 02 18:14:11 +0000 2010	4ae8d352f964a520a5b221e3	{Ultra Salon}	{40.719766,-73.987508,New York,NY,United States}	{Shop & Service,}
+47	Mon Aug 02 02:17:38 +0000 2010	40d38200f964a52046011fe3	{David Copperfield's}	{40.768045,-73.95287816,New York,NY,United States}	{Nightlife Spot,}
+47	Sun Aug 01 19:49:52 +0000 2010	4a7cd0bcf964a520bced1fe3	{Lincoln Plaza Cinemas}	{40.770825431319494,-73.98216214776504,New York,NY,United States}	{Arts & Entertainment,Movie Theater,}
+47	Sun Aug 01 15:48:43 +0000 2010	4b2bc2a4f964a5206cba24e3	{Metro North - Tarrytown Train Station}	{41.076529,-73.864614,Tarrytown,NY,United States}	{Travel & Transport,}
+47	Sat Jul 31 20:43:46 +0000 2010	4c2b570a197e9521dfb6628d	{Philipse Manor Beach Club}	{41.09486903650924,-73.8702142238617,Sleepy Hollow,NY,United States}	{Outdoors & Recreation,}
+47	Wed Jul 28 02:16:48 +0000 2010	40d38200f964a52046011fe3	{David Copperfield's}	{40.768045,-73.95287816,New York,NY,United States}	{Nightlife Spot,}
+47	Mon Jul 26 21:29:04 +0000 2010	4a785af0f964a52071e51fe3	{Starbucks}	{40.776241837275684,-73.94997418614841,New York,NY,United States}	{Food,}
+47	Sun Jul 25 23:32:39 +0000 2010	45c5a871f964a52051421fe3	{South 4th Bar & Cafe}	{40.712494,-73.964478,Brooklyn,NY,United States}	{Nightlife Spot,Food,}
+47	Sat Jul 24 16:15:27 +0000 2010	49eb2940f964a520a8661fe3	{Grand Army Plaza Greenmarket}	{40.6724520326176,-73.97003700441346,Brooklyn,NY,United States}	{Shop & Service,Food & Drink Shop,}
+47	Sat Jul 24 02:05:35 +0000 2010	3fd66200f964a52038f11ee3	{Loki Lounge}	{40.67350201418233,-73.98300006491331,Brooklyn,NY,United States}	{Nightlife Spot,}
+47	Sat Jul 24 00:14:14 +0000 2010	3fd66200f964a5206cf11ee3	{Long Tan}	{40.676879,-73.980178,Brooklyn,NY,United States}	{Shop & Service,Food,}
+47	Fri Jul 23 22:51:58 +0000 2010	42893400f964a52052231fe3	{Prospect Park}	{40.66390776998241,-73.970947265625,Brooklyn,NY,United States}	{Outdoors & Recreation,}
+47	Fri Jul 23 14:38:00 +0000 2010	4ad75f22f964a520dd0921e3	{First Avenue Coffee Shop}	{40.76935075174193,-73.95505413408203,New York,NY,United States}	{Outdoors & Recreation,Food,}
+47	Sun Jul 18 23:22:54 +0000 2010	4b59d288f964a520379a28e3	{Berrywild}	{40.764471,-73.966418,New York,NY,United States}	{Food,}
+47	Sun Jul 18 23:03:18 +0000 2010	4a52938bf964a520c0b11fe3	{Forty Carrots Restaurant}	{40.76204850634926,-73.9674711227417,New York,NY,United States}	{Food,}
+47	Sun Jul 18 21:37:55 +0000 2010	4a9f108ff964a5205e3c20e3	{Central Park - SummerStage}	{40.7701418259051,-73.97163391113281,New York,NY,United States}	{Arts & Entertainment,}
+47	Sun Jul 18 16:07:45 +0000 2010	4ad75f22f964a520dd0921e3	{First Avenue Coffee Shop}	{40.76935075174193,-73.95505413408203,New York,NY,United States}	{Outdoors & Recreation,Food,}
+47	Sat Jul 17 18:41:09 +0000 2010	49f33c2ff964a520736a1fe3	{Sheep Meadow}	{40.77167732,-73.975173,New York,NY,United States}	{Outdoors & Recreation,}
+47	Fri Jul 16 19:52:36 +0000 2010	49f4c13af964a520466b1fe3	{Prospect Park Picnic House}	{40.66577419778472,-73.971263153045,Brooklyn,NY,United States}	{Outdoors & Recreation,}
+47	Fri Jul 16 18:27:00 +0000 2010	4a365b0af964a5207d9d1fe3	{Sunshine Suites Tribeca}	{40.72342042234513,-74.00871545455067,New York,NY,United States}	{Professional & Other Places,}
+47	Fri Jul 16 17:32:12 +0000 2010	49e606ebf964a520ef631fe3	{Peace & Love Cafe}	{40.720013,-74.010346,New York,NY,United States}	{Food,}
+47	Fri Jul 16 14:42:35 +0000 2010	4aa53eccf964a520b24720e3	{Starbucks}	{40.778649,-73.956036,New York,NY,United States}	{Food,}
+47	Thu Jul 15 21:30:47 +0000 2010	4a860c78f964a520330020e3	{Yogo Monster}	{40.67466403,-73.975345,Brooklyn,NY,United States}	{Food,}
+47	Thu Jul 15 16:35:12 +0000 2010	4b0b7b1af964a520d33123e3	{Jacob K Javits Federal Building}	{40.715387077160194,-74.00433540344238,New York,NY,United States}	{Office,Professional & Other Places,}
+47	Tue Jul 13 23:13:38 +0000 2010	4abd0692f964a520228820e3	{Forty Carrots}	{40.722308433118776,-73.99943053672995,New York,NY,United States}	{Food,}
+47	Tue Jul 13 02:05:39 +0000 2010	4a319883f964a520fc991fe3	{Trader Joe's Wine Shop}	{40.733879,-73.988185,New York,NY,United States}	{Shop & Service,Food & Drink Shop,}
+47	Tue Jul 13 00:59:18 +0000 2010	41e46880f964a520dd1e1fe3	{Banjara Indian Restaurant}	{40.726430958508665,-73.98617378645295,New York,NY,United States}	{Food,}
+47	Mon Jul 12 18:56:21 +0000 2010	4840fe6bf964a52030501fe3	{Port Authority Bus Terminal}	{40.757221298398356,-73.99154663085938,New York,NY,United States}	{Travel & Transport,}
+47	Sun Jul 11 18:48:49 +0000 2010	40d38200f964a52046011fe3	{David Copperfield's}	{40.768045,-73.95287816,New York,NY,United States}	{Nightlife Spot,}
+47	Sun Jul 11 13:26:50 +0000 2010	49de0156f964a52021601fe3	{Metro North - Harlem 125th Station}	{40.805144639820114,-73.93914699554443,New York,NY,United States}	{Travel & Transport,Train Station,}
+47	Sun Jul 11 02:45:41 +0000 2010	4a4fc6adf964a520aeaf1fe3	{Tuck Shop}	{40.72696754595751,-73.98378632631129,New York,NY,United States}	{Food,}
+47	Sun Jul 11 01:30:22 +0000 2010	436e9900f964a520dd291fe3	{Common Ground}	{40.729596837867646,-73.98095691806245,New York,NY,United States}	{Nightlife Spot,Food,}
+47	Fri Jul 09 22:33:10 +0000 2010	49dbfbaef964a520335f1fe3	{Meade's Restaurant}	{40.708157309759784,-74.0019325737513,New York,NY,United States}	{Nightlife Spot,Food,}
+47	Fri Jul 09 21:15:03 +0000 2010	3fd66200f964a52044e91ee3	{Lucky Strike}	{40.72207736028288,-74.00357097387314,New York,NY,United States}	{Food,}
+47	Fri Jul 09 13:19:59 +0000 2010	49ee4a7df964a52047681fe3	{Carl Schurz Park}	{40.77489470287033,-73.94401009952695,New York,NY,United States}	{Outdoors & Recreation,}
+47	Thu Jul 08 22:01:41 +0000 2010	46b8f568f964a520c8491fe3	{Greenwich Treehouse}	{40.735582,-74.0005197525024,New York,NY,United States}	{Nightlife Spot,}
+47	Thu Jul 08 02:41:03 +0000 2010	4ab6ba92f964a520c27820e3	{9th Ave Saloon}	{40.7608782375,-73.990818,New York,NY,United States}	{Nightlife Spot,}
+47	Thu Jul 08 00:32:49 +0000 2010	4a673580f964a520fec81fe3	{ABC, Inc.}	{40.77336665758674,-73.98107744137282,New York,NY,United States}	{Arts & Entertainment,Office,Professional & Other Places,}
+47	Wed Jul 07 13:46:43 +0000 2010	49c7fef6f964a520de571fe3	{Crunch}	{40.78541796132912,-73.97584321657153,New York,NY,United States}	{Shop & Service,}
+47	Wed Jul 07 00:02:15 +0000 2010	49c7fef6f964a520de571fe3	{Crunch}	{40.78541796132912,-73.97584321657153,New York,NY,United States}	{Shop & Service,}
+47	Tue Jul 06 16:53:51 +0000 2010	4a673580f964a520fec81fe3	{ABC, Inc.}	{40.77336665758674,-73.98107744137282,New York,NY,United States}	{Arts & Entertainment,Office,Professional & Other Places,}
+47	Tue Jul 06 15:34:08 +0000 2010	4ab92b7bf964a520537e20e3	{Brad's Cafe at Columbia University School of Journalism}	{40.80719923274017,-73.96365165710449,New York,NY,United States}	{Food,}
+47	Tue Jul 06 13:14:33 +0000 2010	4ab6c8faf964a520097920e3	{Starbucks}	{40.769823626596676,-73.95452605531987,New York,NY,United States}	{Food,}
+47	Mon Jul 05 19:02:27 +0000 2010	4a739c82f964a520eedc1fe3	{Lighthouse Park}	{40.771949192546494,-73.94071513549889,Roosevelt Island,NY,United States}	{Outdoors & Recreation,}
+47	Sun Jul 04 19:53:15 +0000 2010	427c0500f964a52097211fe3	{The Metropolitan Museum of Art}	{40.778936659294864,-73.96229820007625,New York,NY,United States}	{Museum,Arts & Entertainment,}
+47	Sun Jul 04 14:00:30 +0000 2010	44c21bd1f964a520be351fe3	{Choice Cafe}	{40.688462,-73.96271,Brooklyn,NY,United States}	{Food,}
+47	Sun Jul 04 01:02:15 +0000 2010	49d13d20f964a520695b1fe3	{Brooklyn Public House}	{40.6895509219656,-73.96937484951829,Brooklyn,NY,United States}	{Nightlife Spot,}
+47	Sat Jul 03 20:26:24 +0000 2010	42ec1480f964a5209e261fe3	{Jacob Riis Park}	{40.567089448672235,-73.8654613494873,Rockaway Park,NY,United States}	{Outdoors & Recreation,}
+47	Sat Jul 03 15:23:26 +0000 2010	4ad75f22f964a520dd0921e3	{First Avenue Coffee Shop}	{40.76935075174193,-73.95505413408203,New York,NY,United States}	{Outdoors & Recreation,Food,}
+47	Sat Jul 03 14:03:34 +0000 2010	4bc37c6d2a89ef3b8a18f588	{Metro North - Philipse Manor Train Station}	{41.094424333072496,-73.86953830718994,North Tarrytown,NY,United States}	{Travel & Transport,}
+47	Sat Jul 03 14:03:34 +0000 2010	4bc37c6d2a89ef3b8a18f588	{Metro North - Philipse Manor Train Station}	{41.094424333072496,-73.86953830718994,North Tarrytown,NY,United States}	{Travel & Transport,}
+47	Fri Jul 02 15:12:37 +0000 2010	4a365b0af964a5207d9d1fe3	{Sunshine Suites Tribeca}	{40.72342042234513,-74.00871545455067,New York,NY,United States}	{Professional & Other Places,}
+47	Fri Jul 02 15:12:34 +0000 2010	4a365b0af964a5207d9d1fe3	{Sunshine Suites Tribeca}	{40.72342042234513,-74.00871545455067,New York,NY,United States}	{Professional & Other Places,}
+47	Fri Jul 02 14:59:55 +0000 2010	48fa0ebef964a52050521fe3	{92YTribeca}	{40.72313969351895,-74.00773992812582,New York,NY,United States}	{Arts & Entertainment,}
+47	Fri Jul 02 13:23:43 +0000 2010	4ae20b16f964a5201b8a21e3	{Starbucks}	{40.7741206970255,-73.95960588353731,New York,NY,United States}	{Food,}
+47	Thu Jul 01 20:07:47 +0000 2010	3fd66200f964a52088e51ee3	{reBar}	{40.702435,-73.987073,Brooklyn,NY,United States}	{Nightlife Spot,Food,}
+47	Thu Jul 01 17:08:49 +0000 2010	4a9c07d1f964a520ca3520e3	{Heights Falafel}	{40.69841701,-73.992592,Brooklyn,NY,United States}	{Food,}
+47	Wed Jun 30 23:02:22 +0000 2010	4afcad9ff964a520052522e3	{Costco Wholesale Club}	{40.79521041323977,-73.93128916238786,New York,NY,United States}	{Shop & Service,Food & Drink Shop,}
+47	Tue Jun 29 20:06:18 +0000 2010	4a365b0af964a5207d9d1fe3	{Sunshine Suites Tribeca}	{40.72342042234513,-74.00871545455067,New York,NY,United States}	{Professional & Other Places,}
+47	Tue Jun 29 14:21:16 +0000 2010	4a365b0af964a5207d9d1fe3	{Sunshine Suites Tribeca}	{40.72342042234513,-74.00871545455067,New York,NY,United States}	{Professional & Other Places,}
+47	Sun Jun 27 19:57:02 +0000 2010	4bd8df990115c9b618ba7580	{Boxers NYC Sportsbar}	{40.740787336369145,-73.99331877220993,New York,NY,United States}	{Nightlife Spot,}
+47	Sun Jun 27 19:45:58 +0000 2010	4b68bc98f964a520038a2be3	{Nasty Pig}	{40.742649,-73.999961,New York,NY,United States}	{Shop & Service,Clothing Store,}
+47	Sun Jun 27 18:55:22 +0000 2010	4c276eefa852c9285130e86c	{New York Pride Parade 2010}	{40.73319381854889,-74.00109529495239,New York,NY,United States}	{Outdoors & Recreation,}
+47	Sun Jun 27 18:37:43 +0000 2010	49c2df9cf964a5203b561fe3	{Apple Store}	{40.7412,-74.00542,New York,NY,United States}	{Shop & Service,}
+47	Sun Jun 27 17:24:39 +0000 2010	4c099228a1b32d7f68f497f0	{Scoopz}	{40.67774145273157,-73.97931575775146,Brooklyn,NY,United States}	{Food,}
+47	Sun Jun 27 15:02:49 +0000 2010	4a91759cf964a520411a20e3	{Prospect Perk Cafe}	{40.676266515519224,-73.97180266493736,Brooklyn,NY,United States}	{Food,}
+47	Sun Jun 27 14:08:15 +0000 2010	4a1f0bf5f964a520fb7b1fe3	{Crunch}	{40.677036,-73.972353,Brooklyn,NY,United States}	{Shop & Service,}
+47	Sun Jun 27 04:37:39 +0000 2010	4b5908fef964a5207a7928e3	{FIPS HQ}	{40.67022342262606,-73.97712595918333,Brooklyn,NY,United States}	{Residence,}
+47	Sun Jun 27 01:05:45 +0000 2010	4481ada4f964a52018341fe3	{Union Hall}	{40.676252435314225,-73.98015260696411,Brooklyn,NY,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+47	Sat Jun 26 16:47:49 +0000 2010	4a737f49f964a5209bdc1fe3	{Red, White & Bubbly}	{40.676186051397515,-73.98065273984781,Brooklyn,NY,United States}	{Shop & Service,Food & Drink Shop,}
+47	Sat Jun 26 15:42:37 +0000 2010	4b16b4b0f964a52052bc23e3	{Prospect Park Dog Beach}	{40.6631887,-73.972048,Brooklyn,NY,United States}	{Outdoors & Recreation,}
+47	Sat Jun 26 13:11:16 +0000 2010	49cfdc6bf964a520d65a1fe3	{La Bagel Delight}	{40.673549,-73.976106,Brooklyn,NY,United States}	{Food,}
+47	Sat Jun 26 12:52:38 +0000 2010	49eb2940f964a520a8661fe3	{Grand Army Plaza Greenmarket}	{40.6724520326176,-73.97003700441346,Brooklyn,NY,United States}	{Shop & Service,Food & Drink Shop,}
+47	Fri Jun 25 22:46:32 +0000 2010	3fd66200f964a5206cf11ee3	{Long Tan}	{40.676879,-73.980178,Brooklyn,NY,United States}	{Shop & Service,Food,}
+47	Fri Jun 25 13:38:12 +0000 2010	4075e780f964a52059f21ee3	{Gorilla Coffee}	{40.679668384825625,-73.97820175,Brooklyn,NY,United States}	{Food,}
+47	Thu Jun 24 14:40:04 +0000 2010	4075e780f964a52059f21ee3	{Gorilla Coffee}	{40.679668384825625,-73.97820175,Brooklyn,NY,United States}	{Food,}
+47	Tue Jun 22 23:41:54 +0000 2010	4abd0692f964a520228820e3	{Forty Carrots}	{40.722308433118776,-73.99943053672995,New York,NY,United States}	{Food,}
+47	Tue Jun 22 22:17:56 +0000 2010	4ac4efbff964a520a79f20e3	{Delicatessen}	{40.72370271254013,-73.99634311572709,New York,NY,United States}	{Nightlife Spot,Food,}
+47	Tue Jun 22 19:20:01 +0000 2010	4a468cd9f964a52015a91fe3	{Prospect Park (Long Meadow)}	{40.66875802311211,-73.97030353546143,Brooklyn,NY,United States}	{Outdoors & Recreation,}
+47	Mon Jun 21 23:54:35 +0000 2010	49c7fef6f964a520de571fe3	{Crunch}	{40.78541796132912,-73.97584321657153,New York,NY,United States}	{Shop & Service,}
+47	Mon Jun 21 21:36:12 +0000 2010	4a91bf02f964a520a11b20e3	{Damascus Bakery}	{40.689925510435046,-73.99316956237647,Brooklyn,NY,United States}	{Food,}
+47	Mon Jun 21 21:25:03 +0000 2010	49bbfab7f964a52004541fe3	{Sahadi's}	{40.69001786288236,-73.99341633242287,Brooklyn,NY,United States}	{Shop & Service,Food & Drink Shop,}
+47	Mon Jun 21 20:58:04 +0000 2010	49c170abf964a520a7551fe3	{Trader Joe's}	{40.68972267178789,-73.9926473270451,Brooklyn,NY,United States}	{Shop & Service,Food & Drink Shop,}
+47	Mon Jun 21 20:16:20 +0000 2010	4507bf49f964a52023391fe3	{Black Sheep Pub}	{40.68154156208038,-73.97719,Brooklyn,NY,United States}	{Nightlife Spot,}
+47	Mon Jun 21 15:10:56 +0000 2010	40d38200f964a52046011fe3	{David Copperfield's}	{40.768045,-73.95287816,New York,NY,United States}	{Nightlife Spot,}
+47	Mon Jun 21 14:07:59 +0000 2010	4a356643f964a520f09c1fe3	{John Jay Park}	{40.76949755926977,-73.9496182977854,New York,NY,United States}	{Outdoors & Recreation,}
+47	Sun Jun 20 18:58:04 +0000 2010	4481ada4f964a52018341fe3	{Union Hall}	{40.676252435314225,-73.98015260696411,Brooklyn,NY,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+47	Sun Jun 20 17:40:01 +0000 2010	4a482531f964a5209aaa1fe3	{Scottadito Osteria Toscana}	{40.674795160691126,-73.97649750246244,Brooklyn,NY,United States}	{Food,}
+47	Sun Jun 20 16:41:19 +0000 2010	4b5908fef964a5207a7928e3	{FIPS HQ}	{40.67022342262606,-73.97712595918333,Brooklyn,NY,United States}	{Residence,}
+47	Sun Jun 20 16:41:19 +0000 2010	4b5908fef964a5207a7928e3	{FIPS HQ}	{40.67022342262606,-73.97712595918333,Brooklyn,NY,United States}	{Residence,}
+47	Sun Jun 20 15:51:42 +0000 2010	4a086249f964a520bd731fe3	{Connecticut Muffin}	{40.671767,-73.977474,Brooklyn,NY,United States}	{Food,}
+47	Sun Jun 20 15:40:27 +0000 2010	4c1da3ec624b9c7449fc1204	{Seventh Heaven Street Fair}	{40.66742342487791,-73.98120403289795,Brooklyn,NY,United States}	{Shop & Service,}
+47	Sun Jun 20 15:17:15 +0000 2010	4a468cd9f964a52015a91fe3	{Prospect Park (Long Meadow)}	{40.66875802311211,-73.97030353546143,Brooklyn,NY,United States}	{Outdoors & Recreation,}
+47	Sat Jun 19 21:19:32 +0000 2010	4a737f49f964a5209bdc1fe3	{Red, White & Bubbly}	{40.676186051397515,-73.98065273984781,Brooklyn,NY,United States}	{Shop & Service,Food & Drink Shop,}
+47	Sat Jun 19 17:00:49 +0000 2010	4ab7cf6af964a520e27a20e3	{Van Leeuwen Ice Cream Truck}	{40.73538884033272,-73.99137496948242,New York,NY,United States}	{Food,}
+47	Sat Jun 19 16:36:38 +0000 2010	49eb2940f964a520a8661fe3	{Grand Army Plaza Greenmarket}	{40.6724520326176,-73.97003700441346,Brooklyn,NY,United States}	{Shop & Service,Food & Drink Shop,}
+47	Fri Jun 18 15:58:40 +0000 2010	4a365b0af964a5207d9d1fe3	{Sunshine Suites Tribeca}	{40.72342042234513,-74.00871545455067,New York,NY,United States}	{Professional & Other Places,}
+47	Fri Jun 18 14:50:59 +0000 2010	4ad75f22f964a520dd0921e3	{First Avenue Coffee Shop}	{40.76935075174193,-73.95505413408203,New York,NY,United States}	{Outdoors & Recreation,Food,}
+47	Thu Jun 17 15:18:21 +0000 2010	4a09f665f964a52077741fe3	{Central Park Zoo}	{40.76744416223376,-73.97193431854248,New York,NY,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+47	Wed Jun 16 16:49:56 +0000 2010	4a673580f964a520fec81fe3	{ABC, Inc.}	{40.77336665758674,-73.98107744137282,New York,NY,United States}	{Arts & Entertainment,Office,Professional & Other Places,}
+47	Wed Jun 16 14:42:50 +0000 2010	49c7fef6f964a520de571fe3	{Crunch}	{40.78541796132912,-73.97584321657153,New York,NY,United States}	{Shop & Service,}
+47	Wed Jun 16 14:33:33 +0000 2010	4c18e076838020a180cae461	{NYC Taxi 7N63}	{40.772969,-73.95616,New York,NY,United States}	{Travel & Transport,}
+47	Tue Jun 15 16:20:15 +0000 2010	4a468cd9f964a52015a91fe3	{Prospect Park (Long Meadow)}	{40.66875802311211,-73.97030353546143,Brooklyn,NY,United States}	{Outdoors & Recreation,}
+47	Tue Jun 15 13:31:50 +0000 2010	4a365b0af964a5207d9d1fe3	{Sunshine Suites Tribeca}	{40.72342042234513,-74.00871545455067,New York,NY,United States}	{Professional & Other Places,}
+47	Mon Jun 14 23:06:00 +0000 2010	4a319883f964a520fc991fe3	{Trader Joe's Wine Shop}	{40.733879,-73.988185,New York,NY,United States}	{Shop & Service,Food & Drink Shop,}
+47	Sun Jun 13 21:54:56 +0000 2010	4a33eb53f964a5206a9b1fe3	{George Washington Bridge}	{40.85121557428245,-73.95206451416016,New York,NY,United States}	{Outdoors & Recreation,}
+47	Sun Jun 13 17:15:02 +0000 2010	4bf94858b182c9b662a3785a	{Stewart's}	{43.172537,-73.06306227,Manchester,VT,United States}	{Shop & Service,}
+47	Sun Jun 13 16:27:41 +0000 2010	4b5b3b0bf964a520f5ec28e3	{Spiral Press Cafe}	{43.176922276636,-73.05723667144775,Manchester Center,VT,United States}	{Food,}
+47	Sun Jun 13 15:10:02 +0000 2010	4b5c5349f964a520072b29e3	{Up for Breakfast}	{43.177311677819894,-73.05577827821683,Manchester,VT,United States}	{Food,}
+47	Sun Jun 13 05:33:55 +0000 2010	4c12a4ed77cea593b86ecd60	{Aerie Inn}	{43.26126289,-73.00641495,East Dorset,VT,United States}	{Travel & Transport,Hotel,}
+47	Sat Jun 12 19:34:29 +0000 2010	4c12a4ed77cea593b86ecd60	{Aerie Inn}	{43.26126289,-73.00641495,East Dorset,VT,United States}	{Travel & Transport,Hotel,}
+47	Sat Jun 12 19:34:29 +0000 2010	4c12a4ed77cea593b86ecd60	{Aerie Inn}	{43.26126289,-73.00641495,East Dorset,VT,United States}	{Travel & Transport,Hotel,}
+47	Sat Jun 12 18:31:39 +0000 2010	4b37a8aff964a520c64325e3	{Mulligan's Pub & Restaurant}	{43.166198,-73.069155,Manchester,VT,United States}	{Nightlife Spot,Food,}
+47	Sat Jun 12 17:16:10 +0000 2010	4bc0d255461576b0ebd57a32	{The Lawyer and the Baker}	{43.17738333,-73.05687,Manchester Center,VT,United States}	{Food,}
+47	Sat Jun 12 15:39:55 +0000 2010	4bd44a90caff9521146ad6f0	{Manchester Designer Outlets}	{43.17561997975264,-73.05684471179438,Manchester Center,VT,United States}	{Shop & Service,}
+47	Sat Jun 12 03:42:47 +0000 2010	4b37a8aff964a520c64325e3	{Mulligan's Pub & Restaurant}	{43.166198,-73.069155,Manchester,VT,United States}	{Nightlife Spot,Food,}
+47	Fri Jun 11 23:23:28 +0000 2010	4cfe900b66ee9eb00ddca64e	{The Wilburton Inn}	{43.147294727152676,-73.06376776393218,Manchester Village,VT,United States}	{Travel & Transport,}
+47	Fri Jun 11 21:06:40 +0000 2010	4c12a4ed77cea593b86ecd60	{Aerie Inn}	{43.26126289,-73.00641495,East Dorset,VT,United States}	{Travel & Transport,Hotel,}
+47	Fri Jun 11 14:38:22 +0000 2010	4b798122f964a5204bfd2ee3	{Budget Car Rental}	{40.77992871,-73.9546126127243,New York,NY,United States}	{Travel & Transport,}
+47	Thu Jun 10 13:02:17 +0000 2010	4b384348f964a5203c4d25e3	{CUNY Graduate School of Journalism Research Center}	{40.75506432303325,-73.9886817354489,New York,NY,United States}	{College & University,Professional & Other Places,}
+47	Wed Jun 09 15:56:27 +0000 2010	4c0e377e98102d7fbd3be306	{Lux 74}	{40.765739502635746,-73.95361626406626,New York,NY,United States}	{Residence,}
+47	Wed Jun 09 15:56:19 +0000 2010	4c0e377e98102d7fbd3be306	{Lux 74}	{40.765739502635746,-73.95361626406626,New York,NY,United States}	{Residence,}
+47	Wed Jun 09 13:30:33 +0000 2010	4b5908fef964a5207a7928e3	{FIPS HQ}	{40.67022342262606,-73.97712595918333,Brooklyn,NY,United States}	{Residence,}
+47	Wed Jun 09 13:09:14 +0000 2010	49cfdc6bf964a520d65a1fe3	{La Bagel Delight}	{40.673549,-73.976106,Brooklyn,NY,United States}	{Food,}
+47	Wed Jun 09 12:42:06 +0000 2010	4a468cd9f964a52015a91fe3	{Prospect Park (Long Meadow)}	{40.66875802311211,-73.97030353546143,Brooklyn,NY,United States}	{Outdoors & Recreation,}
+47	Tue Jun 08 22:40:04 +0000 2010	411ab300f964a5200c0c1fe3	{Brooklyn Lyceum}	{40.67684099295394,-73.98323536975668,Brooklyn,NY,United States}	{Food,Arts & Entertainment,Professional & Other Places,}
+47	Tue Jun 08 19:35:44 +0000 2010	4a468cd9f964a52015a91fe3	{Prospect Park (Long Meadow)}	{40.66875802311211,-73.97030353546143,Brooklyn,NY,United States}	{Outdoors & Recreation,}
+47	Tue Jun 08 12:28:51 +0000 2010	4c0e377e98102d7fbd3be306	{Lux 74}	{40.765739502635746,-73.95361626406626,New York,NY,United States}	{Residence,}
+47	Tue Jun 08 00:10:53 +0000 2010	40fb0f00f964a520e10a1fe3	{Keybar}	{40.73019540097008,-73.98179484046595,New York,NY,United States}	{Nightlife Spot,}
+47	Mon Jun 07 22:59:38 +0000 2010	45b9eeecf964a520db411fe3	{Gallery Bar}	{40.71936953474936,-73.98957701365262,New York,NY,United States}	{Nightlife Spot,}
+47	Sun Jun 06 16:52:21 +0000 2010	3fd66200f964a520d7f11ee3	{Bryant Park}	{40.75398671041169,-73.98382186889648,New York,NY,United States}	{Outdoors & Recreation,}
+47	Sun Jun 06 14:45:12 +0000 2010	4ab6c8faf964a520097920e3	{Starbucks}	{40.769823626596676,-73.95452605531987,New York,NY,United States}	{Food,}
+47	Sun Jun 06 04:31:07 +0000 2010	40d38200f964a52046011fe3	{David Copperfield's}	{40.768045,-73.95287816,New York,NY,United States}	{Nightlife Spot,}
+47	Sun Jun 06 00:07:39 +0000 2010	4b4faca8f964a520481027e3	{Holey Cream}	{40.76510812482789,-73.98774054103951,New York,NY,United States}	{Food,}
+47	Sat Jun 05 00:43:16 +0000 2010	3fd66200f964a52084ea1ee3	{Rodeo Bar}	{40.74132956997647,-73.98120944300699,New York,NY,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+47	Fri Jun 04 16:44:23 +0000 2010	4b4ca7f0f964a5202db926e3	{Dunkin Donuts}	{40.77056276437938,-73.95697701737258,New York,NY,United States}	{Food,}
+47	Fri Jun 04 02:26:09 +0000 2010	3fd66200f964a52008e81ee3	{Serendipity 3}	{40.761838424257796,-73.96517919093323,New York,NY,United States}	{Food,}
+47	Thu Jun 03 23:53:57 +0000 2010	4ac7a44af964a520bab820e3	{Energy Kitchen}	{40.776793,-73.952414,New York,NY,United States}	{Food,}
+47	Thu Jun 03 01:19:44 +0000 2010	4b26e68df964a520bc8224e3	{45 Wall Street}	{40.70643922113659,-74.00993585586548,New York,NY,United States}	{Residence,}
+47	Wed Jun 02 22:01:57 +0000 2010	4a19e252f964a5206b7a1fe3	{Ocean View Cafe}	{40.5769284375,-73.96423,Brooklyn,NY,United States}	{Food,}

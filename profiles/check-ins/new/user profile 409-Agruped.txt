@@ -1,0 +1,544 @@
+409	Thu Aug 11 21:53:55 +0000 2011	4e2bda4952b1b8f19865fd3b	{Maison de Zack de Sacramento}	{38.51628088419739,-121.48560663574287,Sacramento,CA,United States}	{Residence,}
+409	Thu Aug 11 20:34:42 +0000 2011	4a7f1862f964a520c9f21fe3	{Tower Cafe}	{38.561690212474495,-121.49330735206604,Sacramento,CA,United States}	{Food,}
+409	Thu Aug 11 04:35:17 +0000 2011	4b12f91af964a520e99123e3	{Regal Natomas Marketplace 16}	{38.63419606049781,-121.5033678276227,Sacramento,CA,United States}	{Arts & Entertainment,Movie Theater,}
+409	Wed Aug 10 20:49:24 +0000 2011	4e42eecfae60167bcf4eb32f	{Pacific Convince & Fuel}	{37.6544649,-121.8966086,Pleasanton,CA,United States}	{Professional & Other Places,}
+409	Wed Aug 10 18:46:10 +0000 2011	4c1196f06e5dc9b6bd74b02d	{Carl's Jr. / Green Burrito}	{38.54760742888456,-121.3937920331955,Sacramento,CA,United States}	{Food,}
+409	Wed Aug 10 09:46:31 +0000 2011	4e2bda4952b1b8f19865fd3b	{Maison de Zack de Sacramento}	{38.51628088419739,-121.48560663574287,Sacramento,CA,United States}	{Residence,}
+409	Wed Aug 10 04:02:15 +0000 2011	4cbe63f8acd48cfa100f3d3f	{Scriddles}	{37.361446318248476,-121.89610465876638,,CA,United States}	{Residence,}
+409	Wed Aug 10 02:06:57 +0000 2011	4b639acaf964a52066862ae3	{Mountain Mike's Pizza}	{37.3277295607079,-121.93293665100406,San Jose,CA,United States}	{Food,}
+409	Wed Aug 10 02:06:57 +0000 2011	4b639acaf964a52066862ae3	{Mountain Mike's Pizza}	{37.3277295607079,-121.93293665100406,San Jose,CA,United States}	{Food,}
+409	Tue Aug 09 10:46:51 +0000 2011	4cbe63f8acd48cfa100f3d3f	{Scriddles}	{37.361446318248476,-121.89610465876638,,CA,United States}	{Residence,}
+409	Tue Aug 09 03:56:36 +0000 2011	4bd22f1a41b9ef3b8990fde5	{Flying J}	{38.1172343880935,-121.392873144548,Lodi,CA,United States}	{Shop & Service,Food,}
+409	Mon Aug 08 01:49:23 +0000 2011	4b64cb6cf964a520a1d02ae3	{The Home Depot}	{38.49747004912868,-121.45251721518146,Sacramento,CA,United States}	{Shop & Service,}
+409	Mon Aug 08 00:00:32 +0000 2011	4e2bda4952b1b8f19865fd3b	{Maison de Zack de Sacramento}	{38.51628088419739,-121.48560663574287,Sacramento,CA,United States}	{Residence,}
+409	Sun Aug 07 22:31:22 +0000 2011	4bd516316798ef3b4bf4628d	{Partner Park}	{38.523953725784054,-121.51022672653198,Sacramento,CA,United States}	{Outdoors & Recreation,}
+409	Sun Aug 07 20:54:03 +0000 2011	4e2bda4952b1b8f19865fd3b	{Maison de Zack de Sacramento}	{38.51628088419739,-121.48560663574287,Sacramento,CA,United States}	{Residence,}
+409	Fri Aug 05 02:53:07 +0000 2011	4b0586bbf964a520b46b22e3	{Sunrise Mall}	{38.674387153161476,-121.26914978027344,Citrus Heights,CA,United States}	{Shop & Service,}
+409	Thu Aug 04 20:10:27 +0000 2011	4d7fb4486174a35de603a003	{BJ's Restaurant & Brewhouse}	{38.601439,-121.428085,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+409	Wed Aug 03 19:02:27 +0000 2011	4e2bda4952b1b8f19865fd3b	{Maison de Zack de Sacramento}	{38.51628088419739,-121.48560663574287,Sacramento,CA,United States}	{Residence,}
+409	Wed Aug 03 06:38:49 +0000 2011	4e2bda4952b1b8f19865fd3b	{Maison de Zack de Sacramento}	{38.51628088419739,-121.48560663574287,Sacramento,CA,United States}	{Residence,}
+409	Wed Aug 03 00:53:52 +0000 2011	435ec700f964a52020291fe3	{St. John's Bar & Grill}	{37.38258784521372,-121.99538469314575,Sunnyvale,CA,United States}	{Nightlife Spot,Food,}
+409	Tue Aug 02 22:18:57 +0000 2011	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Tue Aug 02 17:14:50 +0000 2011	4baba29cf964a52058bb3ae3	{Firestone Complete Auto Care Store}	{38.52195,-121.440584,Sacramento,CA,United States}	{Shop & Service,}
+409	Mon Aug 01 23:27:56 +0000 2011	4e2bda4952b1b8f19865fd3b	{Maison de Zack de Sacramento}	{38.51628088419739,-121.48560663574287,Sacramento,CA,United States}	{Residence,}
+409	Mon Aug 01 20:03:02 +0000 2011	4b2d6d9af964a5207ad624e3	{PETCO}	{38.596399,-121.425063,Sacramento,CA,United States}	{Shop & Service,}
+409	Mon Aug 01 19:57:51 +0000 2011	4c5c713d94fd0f4798a8c845	{Wells Fargo}	{38.600354636594304,-121.42970055008699,Sacramento,CA,United States}	{Shop & Service,}
+409	Mon Aug 01 19:37:46 +0000 2011	4b6c7f3df964a520d73e2ce3	{IHOP}	{38.596582128283416,-121.41777436094439,Sacramento,CA,United States}	{Food,}
+409	Sun Jul 31 19:25:26 +0000 2011	4e2bda4952b1b8f19865fd3b	{Maison de Zack de Sacramento}	{38.51628088419739,-121.48560663574287,Sacramento,CA,United States}	{Residence,}
+409	Sat Jul 30 00:15:27 +0000 2011	4bdb28683904a593e008499e	{Hollywood Park Launderland}	{38.52436261081096,-121.49689441,Sacramento,CA,United States}	{Shop & Service,}
+409	Thu Jul 28 18:04:20 +0000 2011	4e2bda4952b1b8f19865fd3b	{Maison de Zack de Sacramento}	{38.51628088419739,-121.48560663574287,Sacramento,CA,United States}	{Residence,}
+409	Thu Jul 28 02:34:20 +0000 2011	4e2bda4952b1b8f19865fd3b	{Maison de Zack de Sacramento}	{38.51628088419739,-121.48560663574287,Sacramento,CA,United States}	{Residence,}
+409	Thu Jul 28 00:02:01 +0000 2011	4bc13b99f8219c746129b310	{Zanzibar Trading Company}	{38.575287,-121.48353338241577,Sacramento,CA,United States}	{Shop & Service,Arts & Entertainment,}
+409	Tue Jul 26 20:26:31 +0000 2011	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Tue Jul 26 19:26:03 +0000 2011	4e179454814da5f552564a56	{Panda Express}	{37.38308123515213,-121.89465701580048,San Jose,CA,United States}	{Food,}
+409	Tue Jul 26 19:04:24 +0000 2011	4b29a521f964a5200ba224e3	{Baja Fresh}	{37.383569,-121.893712,San Jose,CA,United States}	{Food,}
+409	Tue Jul 26 06:13:25 +0000 2011	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Tue Jul 26 06:01:17 +0000 2011	4b4e475cf964a520e0e726e3	{Carl's Jr.}	{37.364127159291016,-121.89194476295319,San Jose,CA,United States}	{Food,}
+409	Tue Jul 26 05:31:27 +0000 2011	49c2da19f964a52031561fe3	{Camera 12 Cinemas}	{37.33322719546626,-121.88742066370504,San Jose,CA,United States}	{Arts & Entertainment,Movie Theater,}
+409	Mon Jul 25 22:28:10 +0000 2011	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Sun Jul 24 22:54:07 +0000 2011	4e2bda4952b1b8f19865fd3b	{Maison de Zack de Sacramento}	{38.51628088419739,-121.48560663574287,Sacramento,CA,United States}	{Residence,}
+409	Sun Jul 24 21:41:16 +0000 2011	4b491e99f964a520b86626e3	{Safeway}	{38.57179858227275,-121.46499931812286,Sacramento,CA,United States}	{Shop & Service,Food & Drink Shop,}
+409	Sun Jul 24 08:41:40 +0000 2011	4e2bda4952b1b8f19865fd3b	{Maison de Zack de Sacramento}	{38.51628088419739,-121.48560663574287,Sacramento,CA,United States}	{Residence,}
+409	Fri Jul 22 20:08:05 +0000 2011	4a0202b9f964a52021711fe3	{Chili's Grill & Bar}	{37.3404259699655,-121.90581047282255,San Jose,CA,United States}	{Food,}
+409	Fri Jul 22 03:53:05 +0000 2011	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Fri Jul 22 01:39:37 +0000 2011	4b6f8c04f964a52033f52ce3	{KFC}	{37.34156652269159,-121.87875688076019,San Jose,CA,United States}	{Food,}
+409	Wed Jul 20 21:53:38 +0000 2011	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Wed Jul 20 21:27:55 +0000 2011	4b1c21b4f964a520c80224e3	{McDonald's}	{37.356938705430736,-121.93655889576048,Santa Clara,CA,United States}	{Food,}
+409	Wed Jul 20 20:36:46 +0000 2011	4b82d28df964a52046e730e3	{Santa Clara Convention Center}	{37.404408986991115,-121.97532176971436,Santa Clara,CA,United States}	{Professional & Other Places,}
+409	Wed Jul 20 17:30:53 +0000 2011	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Wed Jul 20 17:30:53 +0000 2011	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Wed Jul 20 06:07:09 +0000 2011	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Wed Jul 20 03:49:28 +0000 2011	4cbe63f8acd48cfa100f3d3f	{Scriddles}	{37.361446318248476,-121.89610465876638,,CA,United States}	{Residence,}
+409	Tue Jul 19 20:08:00 +0000 2011	4a70f835f964a520e2d81fe3	{Chase Bank}	{37.34046190732967,-121.90701127052307,San Jose,CA,United States}	{Shop & Service,}
+409	Tue Jul 19 17:57:48 +0000 2011	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Tue Jul 19 06:10:08 +0000 2011	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Mon Jul 18 03:44:55 +0000 2011	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Mon Jul 18 03:08:06 +0000 2011	4ade9122f964a520607621e3	{Taco Bell}	{37.32766381798723,-121.93169832229614,San Jose,CA,United States}	{Food,}
+409	Sun Jul 17 22:28:14 +0000 2011	4a983217f964a520e92a20e3	{The Market by Safeway}	{37.33430305901683,-121.88751697540283,San Jose,CA,United States}	{Shop & Service,Food & Drink Shop,}
+409	Sun Jul 17 17:47:34 +0000 2011	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Sat Jul 16 22:06:22 +0000 2011	4cbe63f8acd48cfa100f3d3f	{Scriddles}	{37.361446318248476,-121.89610465876638,,CA,United States}	{Residence,}
+409	Sat Jul 16 08:01:26 +0000 2011	4cbe63f8acd48cfa100f3d3f	{Scriddles}	{37.361446318248476,-121.89610465876638,,CA,United States}	{Residence,}
+409	Sat Jul 16 05:03:11 +0000 2011	463c5459f964a5202e461fe3	{Renegades}	{37.342253167295134,-121.9113564491272,San Jose,CA,United States}	{Nightlife Spot,Outdoors & Recreation,Ski Area,}
+409	Sat Jul 16 01:37:58 +0000 2011	49c2da19f964a52031561fe3	{Camera 12 Cinemas}	{37.33322719546626,-121.88742066370504,San Jose,CA,United States}	{Arts & Entertainment,Movie Theater,}
+409	Sat Jul 16 00:40:53 +0000 2011	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Fri Jul 15 18:16:39 +0000 2011	4cbe63f8acd48cfa100f3d3f	{Scriddles}	{37.361446318248476,-121.89610465876638,,CA,United States}	{Residence,}
+409	Fri Jul 15 05:16:35 +0000 2011	4bb18b03f964a520f6983ce3	{Fung Lum}	{37.616378,-122.389948,San Francisco,CA,United States}	{Food,}
+409	Fri Jul 15 05:14:16 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+409	Thu Jul 14 23:58:03 +0000 2011	4ca67b0cd971b1f7bab100e1	{Billie's Barbershop}	{37.356989,-121.896085,San Jose,CA,United States}	{Shop & Service,}
+409	Thu Jul 14 04:47:57 +0000 2011	4cbe63f8acd48cfa100f3d3f	{Scriddles}	{37.361446318248476,-121.89610465876638,,CA,United States}	{Residence,}
+409	Thu Jul 14 00:19:39 +0000 2011	435ec700f964a52020291fe3	{St. John's Bar & Grill}	{37.38258784521372,-121.99538469314575,Sunnyvale,CA,United States}	{Nightlife Spot,Food,}
+409	Wed Jul 13 23:04:53 +0000 2011	4cbe63f8acd48cfa100f3d3f	{Scriddles}	{37.361446318248476,-121.89610465876638,,CA,United States}	{Residence,}
+409	Wed Jul 13 20:58:34 +0000 2011	4cb62f3852edb1f7dbd46cfe	{Robert Half International}	{37.808216064059394,-122.26536934343157,Oakland,CA,United States}	{Professional & Other Places,}
+409	Wed Jul 13 18:47:35 +0000 2011	4a789f03f964a52011e61fe3	{Fuddruckers}	{37.83353759953716,-122.2922173218068,Emeryville,CA,United States}	{Food,}
+409	Wed Jul 13 16:38:59 +0000 2011	4e1dc9ecb61c7cb34d955170	{Bayside Solutions}	{37.69749664827879,-121.92514730977551,Pleasanton,CA,United States}	{Professional & Other Places,}
+409	Wed Jul 13 08:25:59 +0000 2011	4cbe63f8acd48cfa100f3d3f	{Scriddles}	{37.361446318248476,-121.89610465876638,,CA,United States}	{Residence,}
+409	Wed Jul 13 05:18:55 +0000 2011	4cbe63f8acd48cfa100f3d3f	{Scriddles}	{37.361446318248476,-121.89610465876638,,CA,United States}	{Residence,}
+409	Wed Jul 13 03:44:51 +0000 2011	4e1d14abfa7653a9b2e05d17	{Family Wash & Dry}	{37.33926773071289,-121.88370513916016,San Jose,CA,United States}	{Shop & Service,}
+409	Wed Jul 13 02:20:27 +0000 2011	4b639acaf964a52066862ae3	{Mountain Mike's Pizza}	{37.3277295607079,-121.93293665100406,San Jose,CA,United States}	{Food,}
+409	Tue Jul 12 23:06:31 +0000 2011	4cbe63f8acd48cfa100f3d3f	{Scriddles}	{37.361446318248476,-121.89610465876638,,CA,United States}	{Residence,}
+409	Tue Jul 12 17:43:22 +0000 2011	4cbe63f8acd48cfa100f3d3f	{Scriddles}	{37.361446318248476,-121.89610465876638,,CA,United States}	{Residence,}
+409	Tue Jul 12 05:47:43 +0000 2011	468ef191f964a52093481fe3	{San Francisco Int'l Airport BART Station}	{37.61593963841623,-122.39242672920227,San Francisco,CA,United States}	{Travel & Transport,}
+409	Tue Jul 12 04:44:11 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+409	Tue Jul 12 01:21:45 +0000 2011	482d61baf964a520d64f1fe3	{Denver International Airport (DEN)}	{39.85029261500981,-104.67378616333006,Denver,CO,United States}	{Travel & Transport,}
+409	Mon Jul 11 21:36:41 +0000 2011	4e1b421ad4c0ad0475107e95	{United Flight 355 - CMH/DEN}	{39.998264,-82.881029,Columbus,OH,United States}	{Travel & Transport,Airport,}
+409	Mon Jul 11 20:18:43 +0000 2011	4ca0a36954c8a1cd242ca14b	{Gate C54}	{39.99939833470894,-82.88648707713973,Columbus,OH,United States}	{Travel & Transport,Airport,}
+409	Mon Jul 11 18:46:20 +0000 2011	4c1a1d44834e2d7f6c572b80	{Starbucks}	{39.99793591199515,-82.88154592157213,Columbus,OH,United States}	{Food,}
+409	Mon Jul 11 18:32:37 +0000 2011	4ca0a36954c8a1cd242ca14b	{Gate C54}	{39.99939833470894,-82.88648707713973,Columbus,OH,United States}	{Travel & Transport,Airport,}
+409	Mon Jul 11 18:32:14 +0000 2011	4a785ffdf964a5207ce51fe3	{Port Columbus International Airport (CMH)}	{39.99799956466322,-82.88549423217773,Columbus,OH,United States}	{Travel & Transport,}
+409	Mon Jul 11 16:10:20 +0000 2011	4b337aaaf964a520c81925e3	{Speedway}	{40.08550654858338,-82.95132416595538,Columbus,OH,United States}	{Shop & Service,}
+409	Mon Jul 11 12:39:20 +0000 2011	4dfd8b06183853f2cb54de0f	{Oak Run Apartments}	{40.07746671666666,-82.43035066666667,Newark,OH,United States}	{Residence,}
+409	Mon Jul 11 02:58:31 +0000 2011	4c4e1c6e51c2c9285eb0d69d	{2534 Sr 516 Nw}	{40.53066,-81.50390444,Dover,OH,United States}	{Professional & Other Places,}
+409	Sun Jul 10 17:44:37 +0000 2011	4b140009f964a520789b23e3	{Hard Rock Cafe Cleveland}	{41.49693848274674,-81.69364392757416,Cleveland,OH,United States}	{Nightlife Spot,Food,}
+409	Sun Jul 10 15:01:59 +0000 2011	4c4e1c6e51c2c9285eb0d69d	{2534 Sr 516 Nw}	{40.53066,-81.50390444,Dover,OH,United States}	{Professional & Other Places,}
+409	Sun Jul 10 14:19:58 +0000 2011	4bac1de9f964a52049e53ae3	{Denny's}	{40.49290852123669,-81.47259742969209,New Philadelphia,OH,United States}	{Food,}
+409	Sun Jul 10 05:54:06 +0000 2011	4c4e1c6e51c2c9285eb0d69d	{2534 Sr 516 Nw}	{40.53066,-81.50390444,Dover,OH,United States}	{Professional & Other Places,}
+409	Sun Jul 10 03:50:31 +0000 2011	4b535744f964a5201f9827e3	{Applebee's Neighborhood Grill}	{40.48057728454737,-81.4445686340332,New Philadelphia,OH,United States}	{Food,}
+409	Sun Jul 10 01:52:52 +0000 2011	4c0aed547e3fc9284d8bf482	{jcpenney}	{40.479631927697646,-81.44215010660832,New Philadelphia,OH,United States}	{Shop & Service,Clothing Store,}
+409	Sat Jul 09 21:47:26 +0000 2011	4ce9fd098ef78cfaba55a49b	{Cedar Village}	{40.63568758737545,-81.43339229091151,,OH,United States}	{Residence,}
+409	Sat Jul 09 18:13:17 +0000 2011	4b807e7bf964a5206a7730e3	{Hartville Kitchen}	{40.97195497812533,-81.36048220728892,Hartville,OH,United States}	{Food,}
+409	Sat Jul 09 17:26:06 +0000 2011	4b85b718f964a520be6e31e3	{Hartville Marketplace & Flea Market}	{40.97487611134424,-81.36109828948975,Hartville,OH,United States}	{Shop & Service,Food,Food & Drink Shop,}
+409	Sat Jul 09 16:24:35 +0000 2011	4ce9fd098ef78cfaba55a49b	{Cedar Village}	{40.63568758737545,-81.43339229091151,,OH,United States}	{Residence,}
+409	Sat Jul 09 16:24:35 +0000 2011	4ce9fd098ef78cfaba55a49b	{Cedar Village}	{40.63568758737545,-81.43339229091151,,OH,United States}	{Residence,}
+409	Sat Jul 09 06:15:36 +0000 2011	4c16b34474fb20a16f865012	{McDonald's}	{40.75140177332677,-81.40329149909047,Canton,OH,United States}	{Food,}
+409	Sat Jul 09 02:49:49 +0000 2011	4bc15161f8219c74f150b310	{Interbelt Nite Club}	{41.08741592487698,-81.51729955930058,Akron,OH,United States}	{Nightlife Spot,}
+409	Fri Jul 08 23:52:13 +0000 2011	4b7d92c5f964a52087c72fe3	{Cinemark Tinseltown USA and XD}	{40.87160142794116,-81.43556239218124,North Canton,OH,United States}	{Arts & Entertainment,Movie Theater,}
+409	Fri Jul 08 22:50:23 +0000 2011	4ce9fd098ef78cfaba55a49b	{Cedar Village}	{40.63568758737545,-81.43339229091151,,OH,United States}	{Residence,}
+409	Fri Jul 08 19:18:01 +0000 2011	4e1757afa8097d08b22c3aaf	{Taco Bell}	{40.48033952575878,-81.44107722796937,New Philadelphia,OH,United States}	{Food,}
+409	Fri Jul 08 18:47:50 +0000 2011	4b92bc76f964a520b61634e3	{New Towne Mall}	{40.48051199945566,-81.44126415252686,New Philadelphia,OH,United States}	{Shop & Service,Food & Drink Shop,}
+409	Fri Jul 08 02:24:08 +0000 2011	4d277cea467d6ea89e50bd95	{Burger King}	{40.510099286596486,-81.45234705978686,New Philadelphia,OH,United States}	{Food,}
+409	Fri Jul 08 01:36:11 +0000 2011	4c4e1c6e51c2c9285eb0d69d	{2534 Sr 516 Nw}	{40.53066,-81.50390444,Dover,OH,United States}	{Professional & Other Places,}
+409	Thu Jul 07 18:50:32 +0000 2011	4a785ffdf964a5207ce51fe3	{Port Columbus International Airport (CMH)}	{39.99799956466322,-82.88549423217773,Columbus,OH,United States}	{Travel & Transport,}
+409	Thu Jul 07 15:56:58 +0000 2011	4e15d744aeb733245ed2c251	{United Flight 410 - DEN To CMH}	{39.85943373979623,-104.67465948336368,Denver,CO,United States}	{Travel & Transport,Airport,}
+409	Thu Jul 07 15:54:23 +0000 2011	4bfb0c1bd2b720a1bf82326a	{Gate B37}	{39.85879700111907,-104.67487016748032,Denver,CO,United States}	{Travel & Transport,Airport,}
+409	Thu Jul 07 15:53:07 +0000 2011	482d61baf964a520d64f1fe3	{Denver International Airport (DEN)}	{39.85029261500981,-104.67378616333006,Denver,CO,United States}	{Travel & Transport,}
+409	Thu Jul 07 12:50:34 +0000 2011	4e15ab94ae60a0ac06348431	{United Flight 756}	{37.61817280215829,-122.3970575564268,San Francisco,CA,United States}	{Travel & Transport,Airport,}
+409	Thu Jul 07 12:31:06 +0000 2011	4ab6532ff964a520987620e3	{Boudin Bakery & Cafe}	{37.620163284996,-122.3878026008606,San Francisco,CA,United States}	{Food,}
+409	Thu Jul 07 12:30:23 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+409	Thu Jul 07 04:21:32 +0000 2011	46d715faf964a5206c4a1fe3	{Olive Garden}	{37.727382106182766,-122.47616529464722,San Francisco,CA,United States}	{Food,}
+409	Wed Jul 06 20:54:43 +0000 2011	4b1ecbf6f964a520a81f24e3	{US Post Office}	{37.399278,-121.9611795,Santa Clara,CA,United States}	{Professional & Other Places,}
+409	Wed Jul 06 04:01:00 +0000 2011	4cbe63f8acd48cfa100f3d3f	{Scriddles}	{37.361446318248476,-121.89610465876638,,CA,United States}	{Residence,}
+409	Wed Jul 06 02:10:22 +0000 2011	4b639acaf964a52066862ae3	{Mountain Mike's Pizza}	{37.3277295607079,-121.93293665100406,San Jose,CA,United States}	{Food,}
+409	Tue Jul 05 21:07:48 +0000 2011	4cbe63f8acd48cfa100f3d3f	{Scriddles}	{37.361446318248476,-121.89610465876638,,CA,United States}	{Residence,}
+409	Tue Jul 05 19:45:02 +0000 2011	455f7a06f964a520933d1fe3	{Balboa Park BART Station}	{37.72100053142698,-122.44691848754883,San Francisco,CA,United States}	{Travel & Transport,}
+409	Tue Jul 05 19:21:14 +0000 2011	468ef191f964a52093481fe3	{San Francisco Int'l Airport BART Station}	{37.61593963841623,-122.39242672920227,San Francisco,CA,United States}	{Travel & Transport,}
+409	Tue Jul 05 18:44:22 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+409	Tue Jul 05 16:12:45 +0000 2011	45f555cef964a5200e441fe3	{Seattle-Tacoma International Airport (SEA)}	{47.44364658280913,-122.30259418487549,Seatac,WA,United States}	{Travel & Transport,}
+409	Tue Jul 05 14:09:21 +0000 2011	4bc6369904e8b713f5a2352d	{Gate C17}	{47.446331261348234,-122.3036241531372,SeaTac,WA,United States}	{Travel & Transport,Airport,}
+409	Tue Jul 05 13:47:58 +0000 2011	45f555cef964a5200e441fe3	{Seattle-Tacoma International Airport (SEA)}	{47.44364658280913,-122.30259418487549,Seatac,WA,United States}	{Travel & Transport,}
+409	Tue Jul 05 10:16:47 +0000 2011	4c74e1baff1fb60c43a0f4a7	{Alaska Airlines Flight 114. ANC to SEA}	{61.173789,-149.982578,Anchorage,AK,United States}	{Travel & Transport,Airport,}
+409	Tue Jul 05 09:10:55 +0000 2011	4c8ade781797236a92f76588	{Gate C3}	{61.174798815303795,-149.98401413616452,Anchorage,AK,United States}	{Travel & Transport,Airport,}
+409	Tue Jul 05 08:57:36 +0000 2011	4b2b10c2f964a52032b424e3	{Ted Stevens Anchorage International Airport (ANC)}	{61.17391532918489,-149.98204708099365,Anchorage,AK,United States}	{Travel & Transport,}
+409	Tue Jul 05 01:48:57 +0000 2011	4b67f97df964a52095622be3	{Mad Myrna's}	{61.217398,-149.873783,Anchorage,AK,United States}	{Nightlife Spot,Food,}
+409	Mon Jul 04 23:42:17 +0000 2011	4c42a4133735be9aa46a1aa4	{The Raven Bar}	{61.2180894613266,-149.869933,Anchorage,AK,United States}	{Nightlife Spot,}
+409	Mon Jul 04 20:15:33 +0000 2011	4cdafcc2a1bba35d990192e5	{Town Square Park}	{61.2176219602979,-149.87803098736725,Anchorage,AK,United States}	{Outdoors & Recreation,}
+409	Mon Jul 04 09:38:44 +0000 2011	4e113e0aaeb74afe60bbfe5b	{Travelodge}	{61.17881175607382,-149.94026521144465,Anchorage,AK,United States}	{Travel & Transport,}
+409	Mon Jul 04 08:07:36 +0000 2011	4c41824cda3dc928b303c9b9	{Leroy's Family Restaurant}	{61.197724,-149.887146,Anchorage,AK,United States}	{Food,}
+409	Mon Jul 04 07:41:14 +0000 2011	4e113e0aaeb74afe60bbfe5b	{Travelodge}	{61.17881175607382,-149.94026521144465,Anchorage,AK,United States}	{Travel & Transport,}
+409	Mon Jul 04 06:01:08 +0000 2011	4b67f97df964a52095622be3	{Mad Myrna's}	{61.217398,-149.873783,Anchorage,AK,United States}	{Nightlife Spot,Food,}
+409	Mon Jul 04 04:14:26 +0000 2011	4e113e0aaeb74afe60bbfe5b	{Travelodge}	{61.17881175607382,-149.94026521144465,Anchorage,AK,United States}	{Travel & Transport,}
+409	Mon Jul 04 02:00:30 +0000 2011	4bd3a992046076b021b37671	{Town of Willow}	{61.73440844187435,-150.0409681318942,Willow,AK,United States}	{Outdoors & Recreation,}
+409	Mon Jul 04 01:59:38 +0000 2011	4c89a2a21eafb1f795a47335	{Willow Creek Resort}	{61.76772353333333,-150.070356,Willow,AK,United States}	{Travel & Transport,Hotel,}
+409	Sun Jul 03 04:18:21 +0000 2011	4d8a57d45ecdf04de9fdbc8a	{Chena Activity Center}	{65.0529501198337,-146.05623975086806,,,United States}	{}
+409	Sun Jul 03 04:18:02 +0000 2011	4dceeec71f6eb122708812a5	{Chena Hot Springs}	{65.05282065221597,-146.05796545919785,,,United States}	{Outdoors & Recreation,}
+409	Sat Jul 02 22:24:16 +0000 2011	4df3ec1f18a88611c6be6dae	{Usedabit}	{64.824311,-147.783524,Fairbanks,AK,United States}	{Shop & Service,}
+409	Sat Jul 02 20:41:56 +0000 2011	4c0c0bbb6071a593d332e232	{Value Village}	{64.83557403087616,-147.79214143753052,Fairbanks,AK,United States}	{Shop & Service,}
+409	Sat Jul 02 17:50:32 +0000 2011	4d6fffe43a6cf04d1bd16779	{Tubby's  Alaskan BBQ}	{64.83933513680792,-147.70724342218486,Fairbanks,AK,United States}	{Food,}
+409	Sat Jul 02 07:04:20 +0000 2011	4bc39f99dce4eee1b4ae719d	{Regency Fairbanks Hotel}	{64.83939013333334,-147.70719091666666,Fairbanks,AK,United States}	{Travel & Transport,}
+409	Sat Jul 02 05:45:20 +0000 2011	4b50f952f964a520643b27e3	{Fred Meyer}	{64.83532731025596,-147.8175687789917,Fairbanks,AK,United States}	{Shop & Service,Food & Drink Shop,}
+409	Sat Jul 02 04:52:38 +0000 2011	4bc39f99dce4eee1b4ae719d	{Regency Fairbanks Hotel}	{64.83939013333334,-147.70719091666666,Fairbanks,AK,United States}	{Travel & Transport,}
+409	Sat Jul 02 03:34:20 +0000 2011	4e0e91aed164fff335ad3dc0	{Chevron Food Mart}	{64.55782398,-149.096504,nenana,AK,United States}	{Shop & Service,}
+409	Sat Jul 02 03:32:32 +0000 2011	4b75c4f2f964a52062232ee3	{City of Nenana}	{64.55800834441624,-149.0959583352019,Nenana,AK,United States}	{}
+409	Sat Jul 02 02:16:58 +0000 2011	4df0bd431f6ea135c65c1f69	{Denali National Park Welcome Visitor's Center}	{63.731151277445775,-148.91635911761063,McKinley Park,AK,United States}	{Outdoors & Recreation,}
+409	Sat Jul 02 01:45:21 +0000 2011	4e0e78201838f62321c62fe8	{Denali National Park Sign}	{63.7138701,-148.8821027,McKinley Park,AK,United States}	{Outdoors & Recreation,}
+409	Sat Jul 02 01:06:06 +0000 2011	4c32342b3896e21e5e24e890	{Food Mart Chevron}	{63.39516,-148.893092,Cantwell,AK,United States}	{Shop & Service,}
+409	Fri Jul 01 22:52:39 +0000 2011	4c771ce5947ca1cdaba04637	{Sunshine Tesoro}	{62.13653783249446,-150.04082880609275,Talkeetna,AK,United States}	{Shop & Service,}
+409	Fri Jul 01 21:06:20 +0000 2011	4cf3163be942548122fb73c5	{The Trout House}	{61.57369308054435,-149.39479645954967,Wasilla,AK,United States}	{Food,}
+409	Fri Jul 01 18:49:06 +0000 2011	4c410324cc410f47699aaa61	{APIA Insurance}	{61.207865,-149.867258,Anchorage,AK,United States}	{Shop & Service,}
+409	Fri Jul 01 11:48:16 +0000 2011	4e113e0aaeb74afe60bbfe5b	{Travelodge}	{61.17881175607382,-149.94026521144465,Anchorage,AK,United States}	{Travel & Transport,}
+409	Fri Jul 01 10:02:12 +0000 2011	4b2b10c2f964a52032b424e3	{Ted Stevens Anchorage International Airport (ANC)}	{61.17391532918489,-149.98204708099365,Anchorage,AK,United States}	{Travel & Transport,}
+409	Fri Jul 01 05:29:57 +0000 2011	45f555cef964a5200e441fe3	{Seattle-Tacoma International Airport (SEA)}	{47.44364658280913,-122.30259418487549,Seatac,WA,United States}	{Travel & Transport,}
+409	Fri Jul 01 02:59:23 +0000 2011	4c2262cc9a67a593e068dc87	{Gate 22}	{37.613626,-122.38533258,San Francisco,CA,United States}	{Travel & Transport,Airport,}
+409	Fri Jul 01 02:58:02 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+409	Fri Jul 01 01:29:36 +0000 2011	455f7a06f964a520933d1fe3	{Balboa Park BART Station}	{37.72100053142698,-122.44691848754883,San Francisco,CA,United States}	{Travel & Transport,}
+409	Thu Jun 30 23:01:06 +0000 2011	49f79687f964a520be6c1fe3	{Balboa Park}	{37.725187169016124,-122.44391220850926,San Francisco,CA,United States}	{Outdoors & Recreation,}
+409	Thu Jun 30 21:58:21 +0000 2011	4c311432ed37a59308db6903	{Macy's}	{37.67327447,-122.4708917,Daly City,CA,United States}	{Shop & Service,}
+409	Tue Jun 28 06:08:21 +0000 2011	4cbe63f8acd48cfa100f3d3f	{Scriddles}	{37.361446318248476,-121.89610465876638,,CA,United States}	{Residence,}
+409	Mon Jun 27 07:24:49 +0000 2011	4b72ea9cf964a520698f2de3	{Denny's}	{19.645954,-155.989193,Kailua Kona,HI,United States}	{Food,}
+409	Mon Jun 27 02:58:06 +0000 2011	4d59e46efe7c224bbf317db5	{Keauhou Kona Surf & Racquet Club}	{19.571611263306,-155.96691661958226,Kailua Kona,HI,United States}	{Travel & Transport,Hotel,}
+409	Sat Jun 25 19:33:44 +0000 2011	4bca8907cc8cd13a8c05becf	{McDonald's}	{19.639685,-155.99064081666666,Kailua Kona,HI,United States}	{Food,}
+409	Fri Jun 24 19:54:26 +0000 2011	4bc34271dce4eee1d084719d	{Kona Coast Resort}	{19.568894,-155.96520153,Kailua Kona,HI,United States}	{Travel & Transport,Hotel,}
+409	Fri Jun 24 19:22:55 +0000 2011	4d59e46efe7c224bbf317db5	{Keauhou Kona Surf & Racquet Club}	{19.571611263306,-155.96691661958226,Kailua Kona,HI,United States}	{Travel & Transport,Hotel,}
+409	Fri Jun 24 19:22:43 +0000 2011	4d59e46efe7c224bbf317db5	{Keauhou Kona Surf & Racquet Club}	{19.571611263306,-155.96691661958226,Kailua Kona,HI,United States}	{Travel & Transport,Hotel,}
+409	Thu Jun 23 05:28:45 +0000 2011	4d59e46efe7c224bbf317db5	{Keauhou Kona Surf & Racquet Club}	{19.571611263306,-155.96691661958226,Kailua Kona,HI,United States}	{Travel & Transport,Hotel,}
+409	Wed Jun 22 07:00:54 +0000 2011	4d59e46efe7c224bbf317db5	{Keauhou Kona Surf & Racquet Club}	{19.571611263306,-155.96691661958226,Kailua Kona,HI,United States}	{Travel & Transport,Hotel,}
+409	Wed Jun 22 05:08:30 +0000 2011	4ba9790ef964a52050293ae3	{Regal Keauhou 7}	{19.57305772061771,-155.96223010633148,Kailua Kona,HI,United States}	{Arts & Entertainment,Movie Theater,}
+409	Wed Jun 22 00:50:12 +0000 2011	4b77b0aff964a52004a72ee3	{Safeway}	{19.646713713181718,-155.9898097782774,Kailua Kona,HI,United States}	{Shop & Service,Food & Drink Shop,}
+409	Wed Jun 22 00:41:02 +0000 2011	4c784bf3bd346dcbf9baf1ef	{Kona MacNet}	{19.646118879318237,-155.98854,Kailua Kona,HI,United States}	{Shop & Service,}
+409	Wed Jun 22 00:24:03 +0000 2011	4bc8fab3cc8cd13a69c5bacf	{Panda Express}	{19.649481,-156.00490459,Kailua Kona,HI,United States}	{Food,}
+409	Tue Jun 21 23:28:08 +0000 2011	4c3ffda7ce54e21ecfef081a	{T-Mobile}	{19.64277921041666,-155.9968312669631,North Kona,HI,United States}	{Shop & Service,Office,Professional & Other Places,}
+409	Tue Jun 21 07:35:27 +0000 2011	4be5282e7e2a76b00dc41c9b	{Makalapua Stadium Cinemas}	{19.651859,-155.998472,Kailua Kona,HI,United States}	{Arts & Entertainment,}
+409	Tue Jun 21 07:14:40 +0000 2011	4c00562ead46c9b608578f66	{Subway}	{19.649337199471283,-156.004958152771,Kailua Kona,HI,United States}	{Food,}
+409	Tue Jun 21 00:08:45 +0000 2011	4d59e46efe7c224bbf317db5	{Keauhou Kona Surf & Racquet Club}	{19.571611263306,-155.96691661958226,Kailua Kona,HI,United States}	{Travel & Transport,Hotel,}
+409	Mon Jun 20 22:59:59 +0000 2011	4bc54f136936952121fe8388	{Ultimate Burger}	{19.649463,-156.004992,Kailua Kona,HI,United States}	{Food,}
+409	Mon Jun 20 22:36:16 +0000 2011	4c6d9139c52437045d8728eb	{Hertz Rental Car}	{19.734481837287817,-156.03660821914673,Kailua Kona,HI,United States}	{Travel & Transport,}
+409	Mon Jun 20 21:57:11 +0000 2011	4abfdbebf964a520a69220e3	{Kona International Airport (KOA)}	{19.736158213475058,-156.04092121124268,Kailua-Kona,HI,United States}	{Travel & Transport,}
+409	Mon Jun 20 16:10:15 +0000 2011	4dff70dbaeb7b31c732c13a8	{United Flight 591}	{33.9445086,-118.3987967,Los Angeles,CA,United States}	{Travel & Transport,Airport,}
+409	Mon Jun 20 15:47:14 +0000 2011	4cb39f56562d224b802c2f88	{Gate 74}	{33.94093896671995,-118.39897155761719,Los Angeles,CA,United States}	{Travel & Transport,Airport,}
+409	Mon Jun 20 14:30:06 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+409	Mon Jun 20 13:01:35 +0000 2011	4bf6e40a5ec320a138f885d3	{Gate 87}	{37.62048620987082,-122.38984107971191,San Francisco,CA,United States}	{Travel & Transport,Airport,}
+409	Mon Jun 20 13:01:12 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+409	Mon Jun 20 05:48:45 +0000 2011	49f79687f964a520be6c1fe3	{Balboa Park}	{37.725187169016124,-122.44391220850926,San Francisco,CA,United States}	{Outdoors & Recreation,}
+409	Sun Jun 19 23:10:09 +0000 2011	4ecc44fb9a528a8ec696d750	{US-101 (Bayshore Fwy)}	{37.4510985113177,-122.12561130523683,SF Bay Area,CA,United States}	{Travel & Transport,}
+409	Sun Jun 19 22:30:58 +0000 2011	4ade9122f964a520607621e3	{Taco Bell}	{37.32766381798723,-121.93169832229614,San Jose,CA,United States}	{Food,}
+409	Sun Jun 19 07:48:58 +0000 2011	4cbe63f8acd48cfa100f3d3f	{Scriddles}	{37.361446318248476,-121.89610465876638,,CA,United States}	{Residence,}
+409	Sun Jun 19 07:11:04 +0000 2011	49c2da19f964a52031561fe3	{Camera 12 Cinemas}	{37.33322719546626,-121.88742066370504,San Jose,CA,United States}	{Arts & Entertainment,Movie Theater,}
+409	Sat Jun 18 23:30:44 +0000 2011	4b1ecbf6f964a520a81f24e3	{US Post Office}	{37.399278,-121.9611795,Santa Clara,CA,United States}	{Professional & Other Places,}
+409	Sat Jun 18 06:18:58 +0000 2011	4cbe63f8acd48cfa100f3d3f	{Scriddles}	{37.361446318248476,-121.89610465876638,,CA,United States}	{Residence,}
+409	Sat Jun 18 05:37:44 +0000 2011	49c2da19f964a52031561fe3	{Camera 12 Cinemas}	{37.33322719546626,-121.88742066370504,San Jose,CA,United States}	{Arts & Entertainment,Movie Theater,}
+409	Sat Jun 18 02:39:32 +0000 2011	4cbe63f8acd48cfa100f3d3f	{Scriddles}	{37.361446318248476,-121.89610465876638,,CA,United States}	{Residence,}
+409	Fri Jun 17 06:16:59 +0000 2011	4cbe63f8acd48cfa100f3d3f	{Scriddles}	{37.361446318248476,-121.89610465876638,,CA,United States}	{Residence,}
+409	Thu Jun 16 20:51:10 +0000 2011	4c2955219fb5d13a6c119b57	{Panda Express}	{37.34020600956112,-121.90648555755615,San Jose,CA,United States}	{Food,}
+409	Wed Jun 15 05:28:38 +0000 2011	4cbe63f8acd48cfa100f3d3f	{Scriddles}	{37.361446318248476,-121.89610465876638,,CA,United States}	{Residence,}
+409	Wed Jun 15 03:20:37 +0000 2011	4b639acaf964a52066862ae3	{Mountain Mike's Pizza}	{37.3277295607079,-121.93293665100406,San Jose,CA,United States}	{Food,}
+409	Tue Jun 14 22:40:03 +0000 2011	468ef191f964a52093481fe3	{San Francisco Int'l Airport BART Station}	{37.61593963841623,-122.39242672920227,San Francisco,CA,United States}	{Travel & Transport,}
+409	Tue Jun 14 21:13:17 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+409	Tue Jun 14 19:30:24 +0000 2011	4b781becf964a52037b62ee3	{L.A. Roadhouse Route 66}	{33.942042657253616,-118.39726567268372,Los Angeles,CA,United States}	{Food,}
+409	Tue Jun 14 19:29:07 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+409	Mon Jun 13 21:33:40 +0000 2011	45db8eb5f964a520fd421fe3	{Disney California Adventure Park}	{33.80798489664312,-117.91896778777333,Anaheim,CA,United States}	{Arts & Entertainment,}
+409	Mon Jun 13 20:39:04 +0000 2011	4b19ad69f964a520cbe123e3	{Captain EO Starring Michael Jackson}	{33.81161723931896,-117.91721291414436,Anaheim,CA,United States}	{Arts & Entertainment,Theme Park,}
+409	Mon Jun 13 17:54:28 +0000 2011	4a63e3d8f964a520f8c51fe3	{Haunted Mansion}	{33.811766358053724,-117.92211331997643,Anaheim,CA,United States}	{Arts & Entertainment,Theme Park,}
+409	Mon Jun 13 17:51:07 +0000 2011	4ac95bf5f964a520c3bf20e3	{DLRR New Orleans Station}	{33.811298,-117.921957,Anaheim,CA,United States}	{Travel & Transport,}
+409	Mon Jun 13 17:44:33 +0000 2011	4ac95a59f964a520bdbf20e3	{DLRR Main Street Station}	{33.80997882737696,-117.91903389287391,Anaheim,CA,United States}	{Travel & Transport,Train Station,}
+409	Mon Jun 13 17:38:16 +0000 2011	4ac95996f964a520babf20e3	{DLRR Tomorrowland Station}	{33.812455028965815,-117.91587889194489,Anaheim,CA,United States}	{Travel & Transport,Train Station,Arts & Entertainment,}
+409	Mon Jun 13 17:06:33 +0000 2011	4a989c16f964a520ee2c20e3	{Tomorrowland Terrace}	{33.81238881217888,-117.91734099388123,Anaheim,CA,United States}	{Food,Arts & Entertainment,}
+409	Mon Jun 13 16:25:54 +0000 2011	47f80aa8f964a520be4e1fe3	{Main Street, U.S.A.}	{33.81054641897339,-117.91901774704456,Anaheim,CA,United States}	{Arts & Entertainment,}
+409	Mon Jun 13 03:36:05 +0000 2011	45dc74c0f964a52004431fe3	{Faultline}	{34.08343897345911,-118.29240471124649,Los Angeles,CA,United States}	{Nightlife Spot,}
+409	Mon Jun 13 02:14:46 +0000 2011	4a6e5d0df964a52093d41fe3	{Griffith Observatory}	{34.118284371322225,-118.30031991004944,Los Angeles,CA,United States}	{Outdoors & Recreation,Museum,Arts & Entertainment,}
+409	Sun Jun 12 22:11:34 +0000 2011	4bd5bb095631c9b6378fa430	{Starbucks}	{34.051077138100624,-118.34405746556894,Los Angeles,CA,United States}	{Food,}
+409	Sun Jun 12 19:51:32 +0000 2011	4a7840c5f964a52050e51fe3	{IHOP}	{34.090296,-118.3752715587616,Los Angeles,CA,United States}	{Food,}
+409	Sat Jun 11 22:48:39 +0000 2011	4c13cd9d7f7f2d7f4fbadf68	{Closing Ceremonies - ALC 9}	{34.0963058,-118.4980744,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+409	Sat Jun 11 22:42:38 +0000 2011	49cebae2f964a520775a1fe3	{Wadsworth Theater}	{34.054332454259644,-118.4582496523579,Los Angeles,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+409	Sat Jun 11 22:42:08 +0000 2011	4c3cdcf9b169c9b68f4a4668	{West Los Angeles VA Medical Center}	{34.052784115310594,-118.45309371673902,Los Angeles,CA,United States}	{Medical Center,Professional & Other Places,}
+409	Sat Jun 11 17:06:58 +0000 2011	4b788106f964a520b6d22ee3	{Malibu Bluffs Park}	{34.03400989410745,-118.70376752150868,Malibu,CA,United States}	{Outdoors & Recreation,}
+409	Sat Jun 11 15:45:36 +0000 2011	4bfbbba5565f76b0d7dc05db	{Starbucks}	{34.263141,-119.269464,Ventura,CA,United States}	{Food,}
+409	Sat Jun 11 05:55:53 +0000 2011	4bd7773f304fce72779933ab	{Ocean View Motel Ventura}	{34.274943161647194,-119.27609661869437,Ventura,CA,United States}	{Travel & Transport,Hotel,}
+409	Fri Jun 10 04:00:12 +0000 2011	4df11f0dae608c1601ee1f91	{ALC 10 Day 5 Camp}	{34.65345111616945,-120.43541143929382,Lompoc,CA,United States}	{}
+409	Fri Jun 10 01:23:57 +0000 2011	4df16e1ffa76abc3d8644b27	{Thai Cuisine}	{34.652510455630804,-120.45867934009173,Lompoc,CA,United States}	{Food,}
+409	Thu Jun 09 20:22:34 +0000 2011	4df12b7f7d8b18e17224d349	{ALC Day 5 Camp (Dress Red Day)}	{34.65390163496282,-120.43526515775687,Lompoc,CA,United States}	{Professional & Other Places,}
+409	Thu Jun 09 18:07:44 +0000 2011	4df11f0dae608c1601ee1f91	{ALC 10 Day 5 Camp}	{34.65345111616945,-120.43541143929382,Lompoc,CA,United States}	{}
+409	Thu Jun 09 14:28:01 +0000 2011	4b9ed151f964a520210437e3	{Starbucks}	{34.9532,-120.41626225,Santa Maria,CA,United States}	{Food,}
+409	Thu Jun 09 04:16:58 +0000 2011	4b490cb0f964a520a16326e3	{Candlewood Suites}	{34.978116025338274,-120.43489382695569,Santa Maria,CA,United States}	{Travel & Transport,}
+409	Wed Jun 08 15:36:26 +0000 2011	4c0fb2fbc6cf76b0e8b08251	{ALC Day 4 Rest Stop 3 (PG&E Educational Facility)}	{35.19389513318315,-120.7011023774636,San Luis Obispo,CA,United States}	{}
+409	Wed Jun 08 14:32:08 +0000 2011	49fa4a33f964a520e86d1fe3	{Madonna Inn}	{35.266925688950074,-120.67442893981934,San Luis Obispo,CA,United States}	{Travel & Transport,Hotel,}
+409	Wed Jun 08 04:28:53 +0000 2011	4b08283df964a520020523e3	{Best Western Black Oaks}	{35.6412127509445,-120.68769436301224,Paso Robles,CA,United States}	{Travel & Transport,Hotel,}
+409	Wed Jun 08 01:30:55 +0000 2011	4c0ea4c6336220a1958ccc77	{ALC campground day 3}	{35.63688288503018,-120.68666680517902,,,United States}	{Outdoors & Recreation,}
+409	Tue Jun 07 02:30:37 +0000 2011	4c0d4e03336220a19086ca77	{AIDS LifeCycle Day 2 Camp}	{36.20582961635926,-121.14665998036709,King City,CA,United States}	{Outdoors & Recreation,}
+409	Mon Jun 06 02:30:54 +0000 2011	4c0c0ebe009a0f470112ecbf	{ALC Camp Site Day 1}	{36.9831339916684,-122.03655114380364,,,United States}	{Outdoors & Recreation,}
+409	Sun Jun 05 12:33:39 +0000 2011	50607e6de889adb45f097cd6	{San Francisco Bulls Pro Hockey}	{37.70662300172055,-122.4187445640564,Daly City,CA,United States}	{Stadium,Arts & Entertainment,Professional & Other Places,}
+409	Sat Jun 04 20:29:52 +0000 2011	4dea4bcf88774880e3179a53	{ALC 10 Orientation}	{37.707351,-122.418385,Daly City,CA,United States}	{}
+409	Fri Jun 03 20:48:52 +0000 2011	4a036e4af964a520bc711fe3	{Sweet Tomatoes}	{37.340789,-121.908874,San Jose,CA,United States}	{Food,}
+409	Fri Jun 03 18:26:57 +0000 2011	4bd3adf09854d13a1975fe4d	{SFO Baggage Claim Terminal 3}	{37.617782025879535,-122.38683989332111,San Francisco,CA,United States}	{Travel & Transport,Airport,}
+409	Tue May 31 23:18:44 +0000 2011	4b18291ef964a5200bce23e3	{FedEx Office Print & Ship Center}	{37.76951002360443,-122.42608424385634,San Francisco,CA,United States}	{Shop & Service,}
+409	Sun May 29 20:31:47 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+409	Sat May 28 22:18:55 +0000 2011	4b8fe00df964a520dd6633e3	{XXL London}	{51.50460217343412,-0.09458541870117188,London,Greater London,United Kingdom}	{Nightlife Spot,}
+409	Sat May 28 21:59:06 +0000 2011	4d50128b7ee1a35d5ae98134	{Vapiano}	{51.50559747292119,-0.09756948009111889,Southwark,Greater London,United Kingdom}	{Food,}
+409	Sat May 28 15:07:51 +0000 2011	4b6d7961f964a520db762ce3	{The Roman Baths}	{51.3810221735573,-2.359614372253418,Bath,Somerset,United Kingdom}	{Museum,Arts & Entertainment,}
+409	Sat May 28 14:47:17 +0000 2011	4b7ac58ff964a520f73b2fe3	{Bath Abbey}	{51.381416864238,-2.3590416355595942,Bath,Somerset,United Kingdom}	{Spiritual Center,Professional & Other Places,}
+409	Sat May 28 14:39:04 +0000 2011	4c6553c1f67ec928703b5727	{Bath}	{51.37587914250592,-2.360236644744873,Bath,Somerset,United Kingdom}	{Outdoors & Recreation,}
+409	Sat May 28 12:37:24 +0000 2011	4baca654f964a520c7003be3	{Stonehenge}	{51.178862086107536,-1.8261954188346863,Amesbury,Wiltshire,United Kingdom}	{Arts & Entertainment,}
+409	Sat May 28 11:41:41 +0000 2011	4bd0b4df462cb71307ead807	{The Cloisters}	{51.06699498889532,-1.7933931697151153,,,United Kingdom}	{Nightlife Spot,}
+409	Sat May 28 11:07:21 +0000 2011	4b6d9148f964a5200c7d2ce3	{Salisbury Cathedral}	{51.064937674615045,-1.7974019050598145,Salisbury,Wiltshire,United Kingdom}	{Spiritual Center,Professional & Other Places,}
+409	Sat May 28 11:06:36 +0000 2011	4cf50abde3b9a093b4fc5153	{Magna Carta}	{51.066083227590134,-1.7939930321662385,,,United Kingdom}	{Museum,Arts & Entertainment,}
+409	Sat May 28 07:30:06 +0000 2011	4c83fa368ce59c74f89583b0	{Golden Tours}	{51.493071,-0.146482,London,Greater London,United Kingdom}	{Travel & Transport,Bus Station,}
+409	Fri May 27 19:02:19 +0000 2011	4ac518b9f964a520b0a120e3	{Hard Rock Caf?}	{51.50386492810992,-0.14895342020414568,Mayfair,Greater London,United Kingdom}	{Food,}
+409	Thu May 26 23:27:06 +0000 2011	4c07955b0e0a2d7f087eed0c	{McDonald's}	{51.51340316860357,-0.15917301177978516,London,Greater London,United Kingdom}	{Food,}
+409	Thu May 26 21:41:50 +0000 2011	4c65a6378e9120a1b5c9d564	{Little Wu}	{51.511835103336196,-0.13251186803451212,London,,United Kingdom}	{Food,}
+409	Thu May 26 18:18:06 +0000 2011	4ac518e7f964a52053ab20e3	{Palace Theatre}	{51.51322289213271,-0.12960433959960938,London,Greater London,United Kingdom}	{Performing Arts Venue,Arts & Entertainment,}
+409	Thu May 26 18:16:17 +0000 2011	4b6c70fbf964a520603a2ce3	{Priscilla Queen of the Desert (Palace Theatre)}	{51.513228,-0.129271,London,,United Kingdom}	{Performing Arts Venue,Arts & Entertainment,}
+409	Thu May 26 15:27:58 +0000 2011	4adb280bf964a520932421e3	{LJ Coffee House}	{51.512101155839204,-0.13309121131896973,London,UK,United Kingdom}	{Food,}
+409	Thu May 26 10:44:33 +0000 2011	4afd7324f964a520e42722e3	{The Tyburn (Wetherspoon)}	{51.513777073083546,-0.16073942184448242,London,Greater London,United Kingdom}	{Nightlife Spot,}
+409	Wed May 25 21:40:54 +0000 2011	4db549dccda1c57c826ad233	{Caf? Fiori}	{51.511290760076804,-0.1285019054806181,London,Greater London,United Kingdom}	{Food,}
+409	Wed May 25 20:01:36 +0000 2011	4ad12770f964a5201edd20e3	{The Kings Arms}	{51.515094,-0.137376,London,Greater London,United Kingdom}	{Nightlife Spot,}
+409	Tue May 24 18:14:10 +0000 2011	4b99390ef964a520256b35e3	{Rosa's Soho}	{51.51269541243519,-0.13179302215576172,Soho,Greater London,United Kingdom}	{Food,}
+409	Tue May 24 16:52:13 +0000 2011	4ad1feb8f964a520bbde20e3	{Comptons}	{51.512671440952175,-0.13264142749154614,Soho,Greater London,United Kingdom}	{Nightlife Spot,}
+409	Tue May 24 15:59:03 +0000 2011	4ad211a9f964a52030df20e3	{Starbucks}	{51.50789717097099,-0.12362815055947955,London,,United Kingdom}	{Food,}
+409	Tue May 24 11:20:11 +0000 2011	4be9cc4f62c0c928b016e0d4	{KFC}	{51.51358177514427,-0.15806794166564941,London,Greater London,United Kingdom}	{Food,}
+409	Mon May 23 23:32:03 +0000 2011	4ac518bef964a52021a320e3	{The Tottenham Pub}	{51.5164932391685,-0.13045423976101736,London,Greater London,United Kingdom}	{Nightlife Spot,Food,}
+409	Mon May 23 23:06:32 +0000 2011	4ad1feb8f964a520bbde20e3	{Comptons}	{51.512671440952175,-0.13264142749154614,Soho,Greater London,United Kingdom}	{Nightlife Spot,}
+409	Sun May 22 21:25:19 +0000 2011	4abe5ca5f964a520ff8c20e3	{Calgary International Airport (YYC)}	{51.131646256713196,-114.01077032089233,Calgary,AB,Canada}	{Travel & Transport,}
+409	Wed May 18 20:47:23 +0000 2011	4ab3b005f964a520046e20e3	{IHOP}	{37.347977955722655,-121.89916959863565,San Jose,CA,United States}	{Food,}
+409	Wed May 18 01:21:24 +0000 2011	46a25cd9f964a5202c491fe3	{Loft Bar and Bistro}	{37.3352,-121.888179,San Jose,CA,United States}	{Nightlife Spot,Food,}
+409	Tue May 17 05:05:59 +0000 2011	4bb9dbc353649c74364e48fb	{SFO Terminal 2}	{37.61708693033655,-122.3825454711914,San Francisco,CA,United States}	{Travel & Transport,Airport,}
+409	Tue May 17 05:04:58 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+409	Mon May 16 23:41:25 +0000 2011	4b5370bbf964a520029d27e3	{The Hub and Partners Statue}	{33.81209846028235,-117.91897147893906,Anaheim,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+409	Mon May 16 19:54:14 +0000 2011	4bed95d29868a593439e5d46	{VA Long Beach Healthcare System}	{33.77650766096444,-118.11873435974121,Long Beach,CA,United States}	{Medical Center,Professional & Other Places,}
+409	Sun May 15 19:43:15 +0000 2011	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+409	Sun May 15 19:13:53 +0000 2011	47f6995af964a520b04e1fe3	{Downtown Disney District}	{33.80917676965434,-117.92439222335815,Anaheim,CA,United States}	{Shop & Service,Outdoors & Recreation,}
+409	Sun May 15 18:11:00 +0000 2011	4a9043bff964a520e41620e3	{Tiffy's Family Restaurant}	{33.8031485,-117.923709,Anaheim,CA,United States}	{Food,}
+409	Sun May 15 05:58:21 +0000 2011	4b495cc5f964a5205f6e26e3	{Club Ripples}	{33.75643697877317,-118.13846619061387,Long Beach,CA,United States}	{Nightlife Spot,}
+409	Sun May 15 02:52:43 +0000 2011	4b4364c4f964a52079df25e3	{WorldMark Anaheim}	{33.80364066116111,-117.90871202945709,Anaheim,CA,United States}	{Travel & Transport,Hotel,}
+409	Sun May 15 01:20:22 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+409	Sat May 14 15:52:36 +0000 2011	4bb373c22397b7134f1b38b3	{Cup O Jo}	{37.941165006831284,-121.9358144564227,Clayton,CA,United States}	{}
+409	Sat May 14 14:24:20 +0000 2011	4a00695ef964a5207b701fe3	{Starbucks}	{37.878911,-122.182201,Orinda,CA,United States}	{Food,}
+409	Sat May 14 14:11:10 +0000 2011	468ee5b5f964a52088481fe3	{Orinda BART Station}	{37.87818582209693,-122.18400886442429,Orinda,CA,United States}	{Travel & Transport,Train Station,}
+409	Wed May 11 19:55:26 +0000 2011	4b8c34caf964a52016c432e3	{Taco Bell}	{37.40969272,-121.97818100452423,Santa Clara,CA,United States}	{Food,}
+409	Wed May 11 05:56:04 +0000 2011	4b3064e5f964a5205df924e3	{Brix Nightclub}	{37.33057098933626,-121.88668700853565,San Jose,CA,United States}	{Nightlife Spot,}
+409	Wed May 11 05:54:25 +0000 2011	4b3064e5f964a5205df924e3	{Brix Nightclub}	{37.33057098933626,-121.88668700853565,San Jose,CA,United States}	{Nightlife Spot,}
+409	Mon May 09 22:20:04 +0000 2011	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Mon May 09 21:35:43 +0000 2011	4b7b5f1ef964a5206f602fe3	{76}	{37.421605706093544,-122.10226535797119,Palo Alto,CA,United States}	{Travel & Transport,Shop & Service,}
+409	Sat May 07 18:19:53 +0000 2011	4afa2002f964a520ec1622e3	{Peet's Coffee & Tea}	{37.917860539591835,-122.0368120134878,Walnut Creek,CA,United States}	{Food,}
+409	Thu May 05 00:21:47 +0000 2011	49f7ef34f964a520eb6c1fe3	{Bally Total Fitness}	{37.33334762455921,-121.88747942447662,San Jose,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+409	Mon May 02 03:14:19 +0000 2011	463c5459f964a5202e461fe3	{Renegades}	{37.342253167295134,-121.9113564491272,San Jose,CA,United States}	{Nightlife Spot,Outdoors & Recreation,Ski Area,}
+409	Sun May 01 21:01:11 +0000 2011	40a01780f964a520f6f21ee3	{Pilsner Inn}	{37.767133785168355,-122.42862812144959,San Francisco,CA,United States}	{Nightlife Spot,}
+409	Sun May 01 01:12:48 +0000 2011	455f7a06f964a520933d1fe3	{Balboa Park BART Station}	{37.72100053142698,-122.44691848754883,San Francisco,CA,United States}	{Travel & Transport,}
+409	Sun May 01 00:22:28 +0000 2011	468ee5b5f964a52088481fe3	{Orinda BART Station}	{37.87818582209693,-122.18400886442429,Orinda,CA,United States}	{Travel & Transport,Train Station,}
+409	Sat Apr 30 23:38:59 +0000 2011	4b4d2c30f964a5204acd26e3	{Chevron}	{37.891311992189735,-122.1260426245691,Lafayette,CA,United States}	{Shop & Service,}
+409	Sat Apr 30 04:21:59 +0000 2011	42814b00f964a52016221fe3	{Lone Star Saloon}	{37.772122008438835,-122.4107924848795,San Francisco,CA,United States}	{Nightlife Spot,}
+409	Sat Apr 30 01:45:22 +0000 2011	43d4098af964a5202c2e1fe3	{Eagle Tavern}	{37.770076,-122.413389,San Francisco,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+409	Fri Apr 29 06:50:56 +0000 2011	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Fri Apr 29 03:43:32 +0000 2011	49c978d2f964a5206b581fe3	{W San Francisco}	{37.78527484428987,-122.400481402874,San Francisco,CA,United States}	{Travel & Transport,}
+409	Fri Apr 29 03:11:54 +0000 2011	44d79472f964a5206f361fe3	{Chevys Fresh Mex}	{37.78504060786122,-122.40022256970406,San Francisco,CA,United States}	{Food,}
+409	Fri Apr 29 02:34:00 +0000 2011	4a5a2b3bf964a520ceb91fe3	{Sports Authority}	{37.77009171275626,-122.41580303220512,San Francisco,CA,United States}	{Shop & Service,}
+409	Thu Apr 28 22:31:01 +0000 2011	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Thu Apr 28 04:51:52 +0000 2011	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Thu Apr 28 03:01:10 +0000 2011	49c2da19f964a52031561fe3	{Camera 12 Cinemas}	{37.33322719546626,-121.88742066370504,San Jose,CA,United States}	{Arts & Entertainment,Movie Theater,}
+409	Wed Apr 27 23:28:21 +0000 2011	49f7ef34f964a520eb6c1fe3	{Bally Total Fitness}	{37.33334762455921,-121.88747942447662,San Jose,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+409	Wed Apr 27 05:42:53 +0000 2011	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Tue Apr 26 20:14:30 +0000 2011	49f7ef34f964a520eb6c1fe3	{Bally Total Fitness}	{37.33334762455921,-121.88747942447662,San Jose,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+409	Tue Apr 26 20:07:36 +0000 2011	4b57da13f964a520d04328e3	{VA Palo Alto Health Care System}	{37.404204443285835,-122.14030981063843,Palo Alto,CA,United States}	{Medical Center,Professional & Other Places,}
+409	Tue Apr 26 18:21:44 +0000 2011	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Mon Apr 25 23:25:43 +0000 2011	42814b00f964a52016221fe3	{Lone Star Saloon}	{37.772122008438835,-122.4107924848795,San Francisco,CA,United States}	{Nightlife Spot,}
+409	Mon Apr 25 23:19:12 +0000 2011	43945018f964a5207f2b1fe3	{Costco}	{37.77060725105887,-122.41079202847862,San Francisco,CA,United States}	{Shop & Service,Food & Drink Shop,}
+409	Sun Apr 24 22:14:10 +0000 2011	4db47f0bfa8c350240e69b55	{Hunky Jesus}	{37.75995014661428,-122.42683635321838,San Francisco,CA,United States}	{Outdoors & Recreation,}
+409	Sun Apr 24 06:30:05 +0000 2011	49f79687f964a520be6c1fe3	{Balboa Park}	{37.725187169016124,-122.44391220850926,San Francisco,CA,United States}	{Outdoors & Recreation,}
+409	Sun Apr 24 02:30:16 +0000 2011	43d4098af964a5202c2e1fe3	{Eagle Tavern}	{37.770076,-122.413389,San Francisco,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+409	Sun Apr 24 01:54:48 +0000 2011	49d5ce61f964a520a45c1fe3	{Crepes A-Go-Go}	{37.77117339,-122.41330308333333,San Francisco,CA,United States}	{Food,}
+409	Sun Apr 24 01:18:37 +0000 2011	42814b00f964a52016221fe3	{Lone Star Saloon}	{37.772122008438835,-122.4107924848795,San Francisco,CA,United States}	{Nightlife Spot,}
+409	Sat Apr 23 20:55:54 +0000 2011	4ae4d429f964a5208b9e21e3	{Taco Bell}	{37.72887081184875,-122.43078483892087,San Francisco,CA,United States}	{Food,}
+409	Sat Apr 23 02:39:29 +0000 2011	4a25c2b3f964a520917e1fe3	{Lucie Stern Community Theatre}	{37.44425399165558,-122.14543470911164,Palo Alto,CA,United States}	{College & University,Arts & Entertainment,}
+409	Sat Apr 23 02:12:11 +0000 2011	4cbe63f8acd48cfa100f3d3f	{Scriddles}	{37.361446318248476,-121.89610465876638,,CA,United States}	{Residence,}
+409	Sat Apr 23 01:49:03 +0000 2011	4ae674b6f964a52001a721e3	{Rotten Robbie}	{37.34515672516433,-121.88470833849833,San Jose,CA,United States}	{Shop & Service,}
+409	Fri Apr 22 19:10:14 +0000 2011	49f7ef34f964a520eb6c1fe3	{Bally Total Fitness}	{37.33334762455921,-121.88747942447662,San Jose,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+409	Thu Apr 21 06:03:58 +0000 2011	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Thu Apr 21 00:17:20 +0000 2011	4a6597b6f964a5208bc71fe3	{Safeway}	{37.388044704954545,-121.85800950724158,San Jose,CA,United States}	{Shop & Service,Food & Drink Shop,}
+409	Wed Apr 20 19:10:51 +0000 2011	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Wed Apr 20 18:26:09 +0000 2011	49f7ef34f964a520eb6c1fe3	{Bally Total Fitness}	{37.33334762455921,-121.88747942447662,San Jose,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+409	Wed Apr 20 18:25:53 +0000 2011	49f7ef34f964a520eb6c1fe3	{Bally Total Fitness}	{37.33334762455921,-121.88747942447662,San Jose,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+409	Wed Apr 20 18:25:32 +0000 2011	49f7ef34f964a520eb6c1fe3	{Bally Total Fitness}	{37.33334762455921,-121.88747942447662,San Jose,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+409	Wed Apr 20 05:10:01 +0000 2011	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Wed Apr 20 01:36:43 +0000 2011	4cbe63f8acd48cfa100f3d3f	{Scriddles}	{37.361446318248476,-121.89610465876638,,CA,United States}	{Residence,}
+409	Tue Apr 19 17:54:09 +0000 2011	468ef191f964a52093481fe3	{San Francisco Int'l Airport BART Station}	{37.61593963841623,-122.39242672920227,San Francisco,CA,United States}	{Travel & Transport,}
+409	Tue Apr 19 17:53:21 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+409	Tue Apr 19 17:32:24 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+409	Tue Apr 19 17:31:19 +0000 2011	4d9b621e260c4eb9ffc9184f	{Virgin America Baggage Claim}	{37.61691696228017,-122.38368272781372,San Francisco,CA,United States}	{Travel & Transport,Airport,}
+409	Tue Apr 19 12:05:03 +0000 2011	4b327d16f964a520ef0c25e3	{Terminal 3}	{41.97496583563708,-87.90036678314209,Chicago,IL,United States}	{Travel & Transport,Airport,}
+409	Mon Apr 18 18:01:00 +0000 2011	4b12ef72f964a520289123e3	{Caribou Coffee}	{42.0632152557373,-87.935499,Mount Prospect,IL,United States}	{Food,}
+409	Sat Apr 16 22:03:00 +0000 2011	4da0caa0b1c937044d30bfa1	{Arinza Towers}	{29.336986048262535,48.081881618473275,,Hawalli Governorate,Kuwait}	{Travel & Transport,}
+409	Fri Apr 15 17:27:48 +0000 2011	4bd7fc7bf645c9b643f7a6e0	{Souk Al-Mubarakia}	{29.3742937695841,47.97449570336512,Kuwait,Al Asimah,Kuwait}	{Shop & Service,}
+409	Thu Apr 14 10:28:35 +0000 2011	4c232f3311de20a19bfa85ce	{Burger King Mutla}	{29.41016,47.64387,,,Kuwait}	{}
+409	Thu Apr 14 09:51:04 +0000 2011	4bfd57794cf820a1b050ecf4	{Al-Jahra}	{29.344188262745714,47.699677181700935,,,Kuwait}	{Residence,}
+409	Wed Apr 13 06:51:17 +0000 2011	4da0caa0b1c937044d30bfa1	{Arinza Towers}	{29.336986048262535,48.081881618473275,,Hawalli Governorate,Kuwait}	{Travel & Transport,}
+409	Fri Apr 08 12:23:51 +0000 2011	4c1d33f8fcf8c9b6b163ab0b	{Hard Rock Cafe Kuwait}	{29.344422356016118,48.06250388159257,Kuwait,Kuwait,Kuwait}	{}
+409	Wed Apr 06 22:13:58 +0000 2011	4c183735fe5a76b049d40115	{Gate G99}	{37.61858263247881,-122.3931884765625,San Francisco,CA,United States}	{Travel & Transport,Airport,}
+409	Wed Apr 06 21:29:08 +0000 2011	51351acfb0b998a0d52be53c	{United Club}	{37.61737334439718,-122.38934046342585,San Francisco,CA,United States}	{Travel & Transport,}
+409	Wed Apr 06 19:11:59 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+409	Wed Apr 06 17:34:17 +0000 2011	4aba9135f964a520e58120e3	{McDonald's}	{37.7757436311251,-122.40321976050963,San Francisco,CA,United States}	{Food,}
+409	Mon Apr 04 03:57:24 +0000 2011	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Mon Apr 04 01:58:58 +0000 2011	49c2da19f964a52031561fe3	{Camera 12 Cinemas}	{37.33322719546626,-121.88742066370504,San Jose,CA,United States}	{Arts & Entertainment,Movie Theater,}
+409	Sun Apr 03 03:53:38 +0000 2011	42814b00f964a52016221fe3	{Lone Star Saloon}	{37.772122008438835,-122.4107924848795,San Francisco,CA,United States}	{Nightlife Spot,}
+409	Sat Apr 02 20:03:39 +0000 2011	4ac6c340f964a52032b620e3	{Safeway}	{37.69611392818137,-122.07481026649475,Castro Valley,CA,United States}	{Shop & Service,Food & Drink Shop,}
+409	Fri Apr 01 05:10:53 +0000 2011	4ade9122f964a520607621e3	{Taco Bell}	{37.32766381798723,-121.93169832229614,San Jose,CA,United States}	{Food,}
+409	Thu Mar 31 02:56:05 +0000 2011	4ab81fd1f964a520457c20e3	{Sports Authority}	{37.325072371344284,-121.94709420204163,Santa Clara,CA,United States}	{Shop & Service,}
+409	Wed Mar 30 03:11:55 +0000 2011	4d605c811939a35d09d720ee	{The Brickyard Condos}	{37.321843284952784,-121.87647091021988,San Jose,CA,United States}	{Residence,Professional & Other Places,}
+409	Tue Mar 29 04:15:21 +0000 2011	49c2da19f964a52031561fe3	{Camera 12 Cinemas}	{37.33322719546626,-121.88742066370504,San Jose,CA,United States}	{Arts & Entertainment,Movie Theater,}
+409	Sat Mar 26 23:10:16 +0000 2011	43792500f964a520602a1fe3	{KFC / Taco Bell}	{37.76983550462679,-122.42477356980714,San Francisco,CA,United States}	{Food,}
+409	Fri Mar 25 03:20:32 +0000 2011	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Thu Mar 24 01:18:03 +0000 2011	49c2da19f964a52031561fe3	{Camera 12 Cinemas}	{37.33322719546626,-121.88742066370504,San Jose,CA,United States}	{Arts & Entertainment,Movie Theater,}
+409	Thu Mar 24 01:16:16 +0000 2011	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Wed Mar 23 06:05:21 +0000 2011	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Wed Mar 23 04:34:42 +0000 2011	4cbe63f8acd48cfa100f3d3f	{Scriddles}	{37.361446318248476,-121.89610465876638,,CA,United States}	{Residence,}
+409	Tue Mar 22 20:33:12 +0000 2011	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Tue Mar 22 18:45:29 +0000 2011	4b820713f964a52045c830e3	{Straw Hat Pizza}	{38.22018222617303,-122.12780064376584,Fairfield,CA,United States}	{Food,}
+409	Tue Mar 22 00:42:44 +0000 2011	4b9c1dc2f964a520cd4b36e3	{I-5/505 Interchange}	{38.84759592769834,-121.94060325622559,,CA,United States}	{Travel & Transport,}
+409	Mon Mar 21 04:19:35 +0000 2011	4bb6ed16f562ef3ba2e53097	{The Bolt}	{38.61222376,-121.44597215,Sacramento,CA,United States}	{Nightlife Spot,}
+409	Mon Mar 21 01:41:12 +0000 2011	4b0586baf964a5208a6b22e3	{Century Stadium 14}	{38.59363787053331,-121.41840934753418,Sacramento,CA,United States}	{Arts & Entertainment,Movie Theater,}
+409	Sun Mar 20 07:06:50 +0000 2011	4bb6ed16f562ef3ba2e53097	{The Bolt}	{38.61222376,-121.44597215,Sacramento,CA,United States}	{Nightlife Spot,}
+409	Sat Mar 19 05:28:41 +0000 2011	4366b000f964a5206e291fe3	{440 Castro}	{37.76182,-122.435192,San Francisco,CA,United States}	{Nightlife Spot,}
+409	Sat Mar 19 04:46:11 +0000 2011	49e76130f964a52093641fe3	{KOK BAR SF}	{37.77464,-122.410447,San Francisco,CA,United States}	{Nightlife Spot,}
+409	Sat Mar 19 03:37:44 +0000 2011	47224f85f964a520cd4b1fe3	{Broken Record}	{37.71444129901457,-122.4369118865874,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+409	Fri Mar 18 03:40:47 +0000 2011	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Thu Mar 17 22:29:31 +0000 2011	4b7241f9f964a520e2752de3	{Panda Express}	{37.54424232,-121.983161,Fremont,CA,United States}	{Food,}
+409	Tue Mar 15 15:33:44 +0000 2011	4c49bb17567776b0485afe87	{Goodyear Auto Service Center}	{37.323123083333336,-121.95193083,San Jose,CA,United States}	{Shop & Service,}
+409	Mon Mar 14 05:04:24 +0000 2011	49f7efaff964a520ec6c1fe3	{Safeway}	{37.32297920872397,-121.91217866789303,San Jose,CA,United States}	{Shop & Service,Food & Drink Shop,}
+409	Mon Mar 14 03:58:59 +0000 2011	49c2da19f964a52031561fe3	{Camera 12 Cinemas}	{37.33322719546626,-121.88742066370504,San Jose,CA,United States}	{Arts & Entertainment,Movie Theater,}
+409	Mon Mar 14 01:28:35 +0000 2011	4be5fdd3d4f7c9b635422620	{Starbucks}	{37.33339469272464,-121.88708718468632,San Jose,CA,United States}	{Food,}
+409	Mon Mar 14 01:27:06 +0000 2011	49f7ef34f964a520eb6c1fe3	{Bally Total Fitness}	{37.33334762455921,-121.88747942447662,San Jose,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+409	Sun Mar 13 02:23:54 +0000 2011	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Sat Mar 12 23:25:13 +0000 2011	468ee5b5f964a52088481fe3	{Orinda BART Station}	{37.87818582209693,-122.18400886442429,Orinda,CA,United States}	{Travel & Transport,Train Station,}
+409	Fri Mar 11 06:26:48 +0000 2011	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Thu Mar 10 00:02:44 +0000 2011	49f7ef34f964a520eb6c1fe3	{Bally Total Fitness}	{37.33334762455921,-121.88747942447662,San Jose,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+409	Mon Mar 07 04:08:33 +0000 2011	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Fri Mar 04 17:58:41 +0000 2011	4cbe63f8acd48cfa100f3d3f	{Scriddles}	{37.361446318248476,-121.89610465876638,,CA,United States}	{Residence,}
+409	Fri Mar 04 17:58:41 +0000 2011	4cbe63f8acd48cfa100f3d3f	{Scriddles}	{37.361446318248476,-121.89610465876638,,CA,United States}	{Residence,}
+409	Thu Mar 03 07:29:06 +0000 2011	4cbe63f8acd48cfa100f3d3f	{Scriddles}	{37.361446318248476,-121.89610465876638,,CA,United States}	{Residence,}
+409	Wed Mar 02 06:11:14 +0000 2011	4b775d3cf964a52055952ee3	{Yosemite Lodge at the Falls}	{37.743772702148725,-119.59815737505457,Yosemite National Park,CA,United States}	{Travel & Transport,Hotel,}
+409	Mon Feb 28 19:37:09 +0000 2011	4a369f12f964a520c19d1fe3	{San Diego Zoo}	{32.73604654491908,-117.15060710906982,San Diego,CA,United States}	{Arts & Entertainment,}
+409	Sun Feb 27 23:10:38 +0000 2011	40e0b100f964a52039021fe3	{The Hole}	{32.74356831703134,-117.21065718503044,San Diego,CA,United States}	{Nightlife Spot,}
+409	Mon Feb 21 08:13:02 +0000 2011	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Sat Feb 12 22:51:33 +0000 2011	4bae32f1f964a52029913be3	{Gap Outlet}	{39.12643152839862,-94.82377052307129,Kansas City,KS,United States}	{Shop & Service,}
+409	Thu Feb 10 22:32:55 +0000 2011	4b71a550f964a52056532de3	{Intel Corp SC12 Building}	{37.38619788439578,-121.96623791639787,Santa Clara,CA,United States}	{Food,Professional & Other Places,}
+409	Wed Feb 02 01:11:52 +0000 2011	49f7ef34f964a520eb6c1fe3	{Bally Total Fitness}	{37.33334762455921,-121.88747942447662,San Jose,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+409	Thu Jan 27 01:21:07 +0000 2011	42cc7080f964a520e9251fe3	{Apple Store}	{37.7858382684861,-122.406513703784,San Francisco,CA,United States}	{Shop & Service,}
+409	Wed Jan 05 00:02:47 +0000 2011	42717900f964a5206a211fe3	{The Chieftain Irish Pub & Restaurant}	{37.781505773433786,-122.40517795085907,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+409	Mon Jan 03 02:25:16 +0000 2011	4630084af964a520ee451fe3	{Starbucks}	{37.78639166846398,-122.4082311252605,San Francisco,CA,United States}	{Food,}
+409	Sat Dec 25 19:54:30 +0000 2010	49c2da19f964a52031561fe3	{Camera 12 Cinemas}	{37.33322719546626,-121.88742066370504,San Jose,CA,United States}	{Arts & Entertainment,Movie Theater,}
+409	Mon Dec 20 21:16:19 +0000 2010	4a677f82f964a52091c91fe3	{Las Vegas McCarran International Airport (LAS)}	{36.08365019548198,-115.14985084533691,Las Vegas,NV,United States}	{Travel & Transport,}
+409	Sat Dec 18 23:12:57 +0000 2010	4a677f82f964a52091c91fe3	{Las Vegas McCarran International Airport (LAS)}	{36.08365019548198,-115.14985084533691,Las Vegas,NV,United States}	{Travel & Transport,}
+409	Sat Dec 18 20:29:21 +0000 2010	4bf6e13d13aed13a0c62eaf7	{Gate 73}	{37.61810673051544,-122.38770335912704,San Francisco,CA,United States}	{Travel & Transport,Shop & Service,Airport,}
+409	Sat Dec 18 20:02:06 +0000 2010	4ce55a8d2ea9a143b5aa122b	{Burger King}	{37.61783478516868,-122.38863945007324,San Francisco,CA,United States}	{Food,}
+409	Tue Dec 14 23:30:26 +0000 2010	4a33bce5f964a5203a9b1fe3	{Starbucks}	{37.341385264528334,-121.91160053014755,San Jose,CA,United States}	{Food,}
+409	Mon Dec 13 15:44:50 +0000 2010	4c1ddde0eac020a1e6e648c2	{Gate 9}	{40.64998981742458,-73.78171205520628,Jamaica,NY,United States}	{Travel & Transport,Airport,}
+409	Mon Dec 13 00:18:56 +0000 2010	4a4138ebf964a520f9a41fe3	{Bow Tie Chelsea Cinemas}	{40.7446783735831,-73.99814507380714,New York,NY,United States}	{Arts & Entertainment,Movie Theater,}
+409	Sun Dec 12 23:04:25 +0000 2010	4b33f294f964a5209e2225e3	{Starbucks}	{40.74513082928684,-73.99867303283712,New York,NY,United States}	{Food,}
+409	Sun Dec 12 04:04:04 +0000 2010	4bd8df990115c9b618ba7580	{Boxers NYC Sportsbar}	{40.740787336369145,-73.99331877220993,New York,NY,United States}	{Nightlife Spot,}
+409	Sat Dec 11 22:43:01 +0000 2010	4d03fe688620224ba667a640	{ebab Location}	{40.719673219904124,-73.97712595918333,New York,NY,United States}	{Residence,}
+409	Sat Dec 11 14:40:02 +0000 2010	4c0934ada1b32d7fd73f97f0	{Gate 80}	{37.62018028107702,-122.38799571990967,San Francisco,CA,United States}	{Travel & Transport,Airport,}
+409	Sat Dec 11 02:55:16 +0000 2010	49c2da19f964a52031561fe3	{Camera 12 Cinemas}	{37.33322719546626,-121.88742066370504,San Jose,CA,United States}	{Arts & Entertainment,Movie Theater,}
+409	Wed Dec 01 00:43:44 +0000 2010	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+409	Tue Nov 30 12:25:33 +0000 2010	4bd7d626dc4b95210c047888	{FRA Gate 59}	{50.050436,8.564292,,,Germany}	{Travel & Transport,Airport,}
+409	Mon Nov 29 18:49:33 +0000 2010	4c25f9fef1272d7f50a685c5	{McDonald's}	{50.961150735587154,6.954442506263712,K?ln,Nordrhein-Westfalen,Germany}	{Food,}
+409	Tue Nov 23 09:43:11 +0000 2010	4ceb8c83678aa0931737f9ea	{Autohaus K?smann}	{49.34080053976156,9.105611217192028,Mosbach,Baden-W?rttemberg,Germany}	{Shop & Service,}
+409	Mon Nov 22 19:48:30 +0000 2010	4ceac8f6595cb1f7ebd2d514	{Haus Von Crowe}	{49.30397074429197,9.140740367204549,Ha?mersheim,Baden-W?rttemberg,Germany}	{Residence,}
+409	Sat Nov 20 19:23:54 +0000 2010	4cff97461ebe6dcb96458291	{Starbucks}	{49.196905313622736,-123.17617893218994,Richmond,BC,Canada}	{Food,}
+409	Sat Nov 20 15:05:27 +0000 2010	4c1d8c1eeac020a1537e48c2	{Gate 74}	{37.61796325861053,-122.38846637708586,San Francisco,CA,United States}	{Travel & Transport,Airport,}
+409	Fri Nov 19 07:54:31 +0000 2010	49c2da19f964a52031561fe3	{Camera 12 Cinemas}	{37.33322719546626,-121.88742066370504,San Jose,CA,United States}	{Arts & Entertainment,Movie Theater,}
+409	Thu Nov 18 04:31:06 +0000 2010	4bc8d33c3740b71369765d65	{Family Coin Laundry}	{37.339231,-121.88341451666666,San Jose,CA,United States}	{Shop & Service,}
+409	Sun Nov 14 21:27:33 +0000 2010	4c07620eb4aa0f478d8f6562	{240 Cumberland Community Garden}	{37.759092,-122.428982,San Francisco,CA,United States}	{Outdoors & Recreation,}
+409	Sat Nov 13 09:00:22 +0000 2010	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Sat Nov 13 06:58:12 +0000 2010	4c26f0ab5c5ca593022147fe	{Emergency Animal Clinic Of South San Jose}	{37.253854233333335,-121.860475,San Jose,CA,United States}	{Medical Center,Professional & Other Places,}
+409	Thu Nov 11 20:43:09 +0000 2010	4b077cbef964a52017fe22e3	{Applebee's Neighborhood Grill & Bar}	{37.42668435294337,-121.92121909485326,Milpitas,CA,United States}	{Food,}
+409	Wed Nov 10 07:57:29 +0000 2010	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Tue Nov 09 21:52:28 +0000 2010	4b4fa767f964a5205b0f27e3	{In-N-Out Burger}	{37.350279193225184,-121.92175269126892,San Jose,CA,United States}	{Food,}
+409	Tue Nov 09 07:39:00 +0000 2010	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Tue Nov 09 01:41:19 +0000 2010	4abfe996f964a520f39220e3	{Safeway}	{36.961738510444185,-122.04489866371873,Santa Cruz,CA,United States}	{Shop & Service,Food & Drink Shop,}
+409	Mon Nov 08 02:36:58 +0000 2010	45206674f964a520b43a1fe3	{Sundance Saloon}	{37.739987,-122.4044492,San Francisco,CA,United States}	{Nightlife Spot,}
+409	Fri Nov 05 01:00:06 +0000 2010	4c9bfd4946978cfa3d4e8a7f	{Waka Kickball}	{37.377894,-122.041588,Sunnyvale,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+409	Thu Nov 04 19:35:39 +0000 2010	4b981d3cf964a5205e2d35e3	{HomeTown Buffet}	{37.4276721890013,-121.91914558410645,Milpitas,CA,United States}	{Food,}
+409	Wed Nov 03 22:15:15 +0000 2010	4bd85ed0f645c9b64dbaa7e0	{TechAmerica}	{37.406081,-121.977077,Santa Clara,CA,United States}	{Professional & Other Places,}
+409	Tue Nov 02 00:19:35 +0000 2010	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Mon Nov 01 19:48:45 +0000 2010	43713c00f964a5200a2a1fe3	{Mondo Burrito}	{37.35259984,-121.940906,Santa Clara,CA,United States}	{Food,}
+409	Mon Nov 01 05:27:00 +0000 2010	4b6f8c04f964a52033f52ce3	{KFC}	{37.34156652269159,-121.87875688076019,San Jose,CA,United States}	{Food,}
+409	Mon Nov 01 01:59:33 +0000 2010	45206674f964a520b43a1fe3	{Sundance Saloon}	{37.739987,-122.4044492,San Francisco,CA,United States}	{Nightlife Spot,}
+409	Sun Oct 31 05:10:00 +0000 2010	43d4098af964a5202c2e1fe3	{Eagle Tavern}	{37.770076,-122.413389,San Francisco,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+409	Sun Oct 31 04:05:08 +0000 2010	42814b00f964a52016221fe3	{Lone Star Saloon}	{37.772122008438835,-122.4107924848795,San Francisco,CA,United States}	{Nightlife Spot,}
+409	Sat Oct 30 20:11:19 +0000 2010	49f7ef34f964a520eb6c1fe3	{Bally Total Fitness}	{37.33334762455921,-121.88747942447662,San Jose,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+409	Fri Oct 29 02:04:44 +0000 2010	4c9bfd4946978cfa3d4e8a7f	{Waka Kickball}	{37.377894,-122.041588,Sunnyvale,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+409	Thu Oct 28 21:57:56 +0000 2010	4bd85ed0f645c9b64dbaa7e0	{TechAmerica}	{37.406081,-121.977077,Santa Clara,CA,United States}	{Professional & Other Places,}
+409	Wed Oct 27 01:01:48 +0000 2010	49f7ef34f964a520eb6c1fe3	{Bally Total Fitness}	{37.33334762455921,-121.88747942447662,San Jose,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+409	Wed Oct 27 01:01:28 +0000 2010	49f7ef34f964a520eb6c1fe3	{Bally Total Fitness}	{37.33334762455921,-121.88747942447662,San Jose,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+409	Mon Oct 25 17:17:08 +0000 2010	4bd85ed0f645c9b64dbaa7e0	{TechAmerica}	{37.406081,-121.977077,Santa Clara,CA,United States}	{Professional & Other Places,}
+409	Mon Oct 25 03:13:17 +0000 2010	45206674f964a520b43a1fe3	{Sundance Saloon}	{37.739987,-122.4044492,San Francisco,CA,United States}	{Nightlife Spot,}
+409	Mon Oct 25 03:12:51 +0000 2010	41b3a100f964a520771e1fe3	{Space 550}	{37.739903926849365,-122.40447554,San Francisco,CA,United States}	{Nightlife Spot,}
+409	Sun Oct 24 18:40:37 +0000 2010	49f7ef34f964a520eb6c1fe3	{Bally Total Fitness}	{37.33334762455921,-121.88747942447662,San Jose,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+409	Sun Oct 24 05:46:38 +0000 2010	4459f934f964a520e0321fe3	{Club Eight}	{37.775773533333336,-122.408951,San Francisco,CA,United States}	{Nightlife Spot,}
+409	Sat Oct 23 02:41:30 +0000 2010	4bcbe1590687ef3b5e8cdecc	{SUBWAY}	{37.33736092892861,-121.88848778980282,San Jose,CA,United States}	{Food,}
+409	Fri Oct 22 23:54:56 +0000 2010	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Fri Oct 22 19:16:49 +0000 2010	4af5d89ef964a520b4fd21e3	{Jack in the Box - Santa Clara, CA}	{37.382747732601004,-121.97833940905664,Santa Clara,CA,United States}	{Food,}
+409	Fri Oct 22 04:51:15 +0000 2010	4b6f8c04f964a52033f52ce3	{KFC}	{37.34156652269159,-121.87875688076019,San Jose,CA,United States}	{Food,}
+409	Fri Oct 22 03:29:44 +0000 2010	4b298e17f964a520d1a024e3	{Lilly Mac's}	{37.37636424632677,-122.03055381774902,Sunnyvale,CA,United States}	{Nightlife Spot,}
+409	Fri Oct 22 02:10:41 +0000 2010	4c9bfd4946978cfa3d4e8a7f	{Waka Kickball}	{37.377894,-122.041588,Sunnyvale,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+409	Thu Oct 21 06:52:42 +0000 2010	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Wed Oct 20 16:20:07 +0000 2010	4cbf16a0b6c4224be412f194	{TechAmerica}	{38.582119,-121.460986,Sacramento,CA,United States}	{Professional & Other Places,}
+409	Wed Oct 20 03:39:16 +0000 2010	4cbe63f8acd48cfa100f3d3f	{Scriddles}	{37.361446318248476,-121.89610465876638,,CA,United States}	{Residence,}
+409	Wed Oct 20 01:59:04 +0000 2010	49f7ef34f964a520eb6c1fe3	{Bally Total Fitness}	{37.33334762455921,-121.88747942447662,San Jose,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+409	Tue Oct 19 07:23:04 +0000 2010	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Tue Oct 19 06:29:13 +0000 2010	40c3b000f964a520e3001fe3	{La Victoria Taqueria}	{37.332663708429294,-121.88436929316791,San Jose,CA,United States}	{Food,}
+409	Mon Oct 18 23:02:38 +0000 2010	4cbcd1f9f50e224b264901fc	{Gate C11}	{38.945778577511234,-77.44429944924883,Sterling,VA,United States}	{Travel & Transport,Airport,}
+409	Mon Oct 18 19:48:13 +0000 2010	4c1bd838eac020a19a8a45c2	{Gate A4}	{38.94846727486239,-77.44225427448761,Dulles,VA,United States}	{Travel & Transport,Airport,}
+409	Mon Oct 18 17:45:16 +0000 2010	4cbc8791a33bb1f76d549afd	{Gate A3}	{36.13418627703265,-86.66943817993979,Nashville,TN,United States}	{Travel & Transport,Airport,}
+409	Sun Oct 17 23:38:10 +0000 2010	4b1a8cdef964a52018ec23e3	{SONIC Drive In}	{36.154763350295894,-86.66564602205372,Donelson,TN,United States}	{Food,}
+409	Sun Oct 17 21:37:29 +0000 2010	4b05866ef964a520e16122e3	{Hard Rock Cafe Nashville}	{36.162099094728966,-86.77489610421846,Nashville,TN,United States}	{Music Venue,Food,Arts & Entertainment,}
+409	Sun Oct 17 20:38:18 +0000 2010	4c11170d6b7e2d7fd2a82835	{Riverfront Stage}	{36.163531,-86.774857,,,United States}	{Arts & Entertainment,}
+409	Sun Oct 17 05:52:03 +0000 2010	4b16da95f964a52069be23e3	{Tribe}	{36.15680818248808,-86.79343396686097,Nashville,TN,United States}	{Nightlife Spot,}
+409	Sun Oct 17 00:29:53 +0000 2010	4b06a4b6f964a5201cee22e3	{Bailey's Sports Grille}	{36.16098893732691,-86.7776149083775,Nashville,TN,United States}	{Nightlife Spot,Food,}
+409	Fri Oct 15 09:02:43 +0000 2010	4c30bdf6ed37a593df4a6903	{Downtown Franklin}	{35.924995004619,-86.86859738421461,Franklin,TN,United States}	{Outdoors & Recreation,}
+409	Fri Oct 15 01:45:47 +0000 2010	482d61baf964a520d64f1fe3	{Denver International Airport (DEN)}	{39.85029261500981,-104.67378616333006,Denver,CO,United States}	{Travel & Transport,}
+409	Thu Oct 14 22:25:27 +0000 2010	4c02cc1a9a7920a143ffce79	{Gate B81}	{39.857870012803225,-104.66722011566162,Denver,CO,United States}	{Travel & Transport,Airport,}
+409	Thu Oct 14 22:03:01 +0000 2010	4bcbc7d2937ca593114aaa92	{Concourse B}	{39.85875947854826,-104.6737003326416,Denver,CO,United States}	{Travel & Transport,Airport,}
+409	Thu Oct 14 19:34:18 +0000 2010	4bf6e40a5ec320a138f885d3	{Gate 87}	{37.62048620987082,-122.38984107971191,San Francisco,CA,United States}	{Travel & Transport,Airport,}
+409	Tue Oct 12 05:37:28 +0000 2010	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Mon Oct 11 17:41:47 +0000 2010	4a1dfd2df964a520b47b1fe3	{Four Seasons Hotel Silicon Valley at East Palo Alto}	{37.45929173326994,-122.14148998260498,E Palo Alto,CA,United States}	{Travel & Transport,Professional & Other Places,}
+409	Sun Oct 10 23:01:21 +0000 2010	4bd85ed0f645c9b64dbaa7e0	{TechAmerica}	{37.406081,-121.977077,Santa Clara,CA,United States}	{Professional & Other Places,}
+409	Sun Oct 10 20:43:42 +0000 2010	49f7ef34f964a520eb6c1fe3	{Bally Total Fitness}	{37.33334762455921,-121.88747942447662,San Jose,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+409	Sun Oct 10 18:59:34 +0000 2010	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Sat Oct 09 05:18:23 +0000 2010	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Fri Oct 08 19:41:18 +0000 2010	4ac94a60f964a52090bf20e3	{Sweet Tomatoes}	{37.373593299850356,-121.99477314949036,Sunnyvale,CA,United States}	{Food,}
+409	Fri Oct 08 16:05:21 +0000 2010	4bd85ed0f645c9b64dbaa7e0	{TechAmerica}	{37.406081,-121.977077,Santa Clara,CA,United States}	{Professional & Other Places,}
+409	Fri Oct 08 04:37:49 +0000 2010	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Fri Oct 08 02:01:41 +0000 2010	4c9bfd4946978cfa3d4e8a7f	{Waka Kickball}	{37.377894,-122.041588,Sunnyvale,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+409	Thu Oct 07 20:11:02 +0000 2010	4a510702f964a52072b01fe3	{Safeway}	{37.39450076009369,-121.94718097347489,Santa Clara,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+409	Thu Oct 07 03:25:00 +0000 2010	43d4098af964a5202c2e1fe3	{Eagle Tavern}	{37.770076,-122.413389,San Francisco,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+409	Wed Oct 06 16:48:05 +0000 2010	4a1dfd2df964a520b47b1fe3	{Four Seasons Hotel Silicon Valley at East Palo Alto}	{37.45929173326994,-122.14148998260498,E Palo Alto,CA,United States}	{Travel & Transport,Professional & Other Places,}
+409	Mon Oct 04 04:39:24 +0000 2010	4a0202b9f964a52021711fe3	{Chili's Grill & Bar}	{37.3404259699655,-121.90581047282255,San Jose,CA,United States}	{Food,}
+409	Mon Oct 04 03:50:38 +0000 2010	463c5459f964a5202e461fe3	{Renegades}	{37.342253167295134,-121.9113564491272,San Jose,CA,United States}	{Nightlife Spot,Outdoors & Recreation,Ski Area,}
+409	Mon Oct 04 01:57:57 +0000 2010	4c05614113b99c746c37aff3	{Earthjustice Ad}	{37.778909,-122.414623,San Francisco,CA,United States}	{Travel & Transport,}
+409	Mon Oct 04 00:46:09 +0000 2010	42814b00f964a52016221fe3	{Lone Star Saloon}	{37.772122008438835,-122.4107924848795,San Francisco,CA,United States}	{Nightlife Spot,}
+409	Sun Oct 03 22:53:23 +0000 2010	4ca22c622fb1a143ab520b41	{Castro Street Fair 2010}	{37.761619091033936,-122.43479155,San Francisco,CA,United States}	{Nightlife Spot,}
+409	Sun Oct 03 01:50:52 +0000 2010	4ca7e164a6e08cfaa9978994	{University Wash}	{36.96899,-122.03833222389221,Santa Cruz,CA,United States}	{Professional & Other Places,}
+409	Sat Oct 02 01:07:45 +0000 2010	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Fri Oct 01 19:59:09 +0000 2010	435ec700f964a52020291fe3	{St. John's Bar & Grill}	{37.38258784521372,-121.99538469314575,Sunnyvale,CA,United States}	{Nightlife Spot,Food,}
+409	Fri Oct 01 05:05:13 +0000 2010	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Fri Oct 01 04:29:24 +0000 2010	4b298e17f964a520d1a024e3	{Lilly Mac's}	{37.37636424632677,-122.03055381774902,Sunnyvale,CA,United States}	{Nightlife Spot,}
+409	Fri Oct 01 02:21:10 +0000 2010	4c9bfd4946978cfa3d4e8a7f	{Waka Kickball}	{37.377894,-122.041588,Sunnyvale,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+409	Fri Oct 01 02:21:09 +0000 2010	4c9bfd4946978cfa3d4e8a7f	{Waka Kickball}	{37.377894,-122.041588,Sunnyvale,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+409	Fri Oct 01 01:48:42 +0000 2010	4b846159f964a520fc3131e3	{VCA Crocker Animal Hospital}	{37.367537,-121.852937,San Jose,CA,United States}	{Medical Center,Professional & Other Places,}
+409	Fri Oct 01 01:48:42 +0000 2010	4b846159f964a520fc3131e3	{VCA Crocker Animal Hospital}	{37.367537,-121.852937,San Jose,CA,United States}	{Medical Center,Professional & Other Places,}
+409	Thu Sep 30 19:21:34 +0000 2010	43c51016f964a520632d1fe3	{In-N-Out Burger}	{37.38799257914823,-121.982102394104,Santa Clara,CA,United States}	{Food,}
+409	Thu Sep 30 18:21:38 +0000 2010	4bd85ed0f645c9b64dbaa7e0	{TechAmerica}	{37.406081,-121.977077,Santa Clara,CA,United States}	{Professional & Other Places,}
+409	Thu Sep 30 03:35:17 +0000 2010	43c51016f964a520632d1fe3	{In-N-Out Burger}	{37.38799257914823,-121.982102394104,Santa Clara,CA,United States}	{Food,}
+409	Thu Sep 30 01:31:11 +0000 2010	4a07916af964a52083731fe3	{AMC Mercado 20}	{37.38896010475414,-121.98297679424286,Santa Clara,CA,United States}	{Arts & Entertainment,Movie Theater,}
+409	Wed Sep 29 20:37:43 +0000 2010	4a370bb9f964a520289e1fe3	{Sports Authority}	{37.45997304186402,-122.13629722595215,East Palo Alto,CA,United States}	{Shop & Service,}
+409	Wed Sep 29 19:55:28 +0000 2010	4b05f0fdf964a52048e622e3	{Chipotle Mexican Grill}	{37.42394819416531,-122.14317238648898,Palo Alto,CA,United States}	{Food,}
+409	Wed Sep 29 19:50:46 +0000 2010	4b57da13f964a520d04328e3	{VA Palo Alto Health Care System}	{37.404204443285835,-122.14030981063843,Palo Alto,CA,United States}	{Medical Center,Professional & Other Places,}
+409	Wed Sep 29 17:58:20 +0000 2010	4bd85ed0f645c9b64dbaa7e0	{TechAmerica}	{37.406081,-121.977077,Santa Clara,CA,United States}	{Professional & Other Places,}
+409	Tue Sep 28 16:19:31 +0000 2010	4bd85ed0f645c9b64dbaa7e0	{TechAmerica}	{37.406081,-121.977077,Santa Clara,CA,United States}	{Professional & Other Places,}
+409	Tue Sep 28 16:19:31 +0000 2010	4bd85ed0f645c9b64dbaa7e0	{TechAmerica}	{37.406081,-121.977077,Santa Clara,CA,United States}	{Professional & Other Places,}
+409	Sun Sep 26 22:30:14 +0000 2010	43d4098af964a5202c2e1fe3	{Eagle Tavern}	{37.770076,-122.413389,San Francisco,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+409	Sun Sep 26 21:25:40 +0000 2010	4c9f6d1619e4236a5aa75889	{ALC9 Thank You BBQ}	{37.805059,-122.46806,San Francisco,CA,United States}	{Food,Professional & Other Places,}
+409	Sun Sep 26 19:26:26 +0000 2010	4a370bb9f964a520289e1fe3	{Sports Authority}	{37.45997304186402,-122.13629722595215,East Palo Alto,CA,United States}	{Shop & Service,}
+409	Sun Sep 26 01:05:36 +0000 2010	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Sat Sep 25 02:02:43 +0000 2010	4b159261f964a5200eaf23e3	{Baja Fresh}	{37.333093835238785,-121.88787907361984,San Jose,CA,United States}	{Food,}
+409	Fri Sep 24 19:54:11 +0000 2010	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Fri Sep 24 19:29:54 +0000 2010	4b846159f964a520fc3131e3	{VCA Crocker Animal Hospital}	{37.367537,-121.852937,San Jose,CA,United States}	{Medical Center,Professional & Other Places,}
+409	Fri Sep 24 04:53:34 +0000 2010	4b298e17f964a520d1a024e3	{Lilly Mac's}	{37.37636424632677,-122.03055381774902,Sunnyvale,CA,United States}	{Nightlife Spot,}
+409	Fri Sep 24 01:22:38 +0000 2010	4c9bfd4946978cfa3d4e8a7f	{Waka Kickball}	{37.377894,-122.041588,Sunnyvale,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+409	Thu Sep 23 16:40:57 +0000 2010	4bd85ed0f645c9b64dbaa7e0	{TechAmerica}	{37.406081,-121.977077,Santa Clara,CA,United States}	{Professional & Other Places,}
+409	Thu Sep 23 05:04:04 +0000 2010	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Wed Sep 22 14:54:46 +0000 2010	4bd85ed0f645c9b64dbaa7e0	{TechAmerica}	{37.406081,-121.977077,Santa Clara,CA,United States}	{Professional & Other Places,}
+409	Wed Sep 22 06:07:27 +0000 2010	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Wed Sep 22 02:31:20 +0000 2010	4bbb424e3db7b713df18249a	{415 N 2nd Street}	{37.34220727354772,-121.89610465876638,,CA,United States}	{Residence,}
+409	Tue Sep 21 20:53:59 +0000 2010	451fa54af964a520a73a1fe3	{Fry's Electronics}	{37.38201587284946,-122.00163892964673,Sunnyvale,CA,United States}	{Shop & Service,}
+409	Tue Sep 21 20:44:40 +0000 2010	49e7b9aff964a52010651fe3	{Micro Center}	{37.389795491267606,-121.98553964495659,Santa Clara,CA,United States}	{Shop & Service,}
+409	Tue Sep 21 20:24:09 +0000 2010	4a1dfd2df964a520b47b1fe3	{Four Seasons Hotel Silicon Valley at East Palo Alto}	{37.45929173326994,-122.14148998260498,E Palo Alto,CA,United States}	{Travel & Transport,Professional & Other Places,}
+409	Tue Sep 21 19:58:22 +0000 2010	4a370bb9f964a520289e1fe3	{Sports Authority}	{37.45997304186402,-122.13629722595215,East Palo Alto,CA,United States}	{Shop & Service,}
+409	Tue Sep 21 19:32:27 +0000 2010	4b143385f964a520119f23e3	{Taco Bell}	{37.45919805285283,-122.13718771934509,East Palo Alto,CA,United States}	{Food,}
+409	Sat Sep 18 06:59:05 +0000 2010	4af5d89ef964a520b4fd21e3	{Jack in the Box - Santa Clara, CA}	{37.382747732601004,-121.97833940905664,Santa Clara,CA,United States}	{Food,}
+409	Tue Sep 07 22:03:09 +0000 2010	43d6bb0ff964a520512e1fe3	{Techmart}	{37.40620924605973,-121.97671780882833,Santa Clara,CA,United States}	{Professional & Other Places,}
+409	Tue Sep 07 20:36:38 +0000 2010	4bd85ed0f645c9b64dbaa7e0	{TechAmerica}	{37.406081,-121.977077,Santa Clara,CA,United States}	{Professional & Other Places,}
+409	Mon Sep 06 22:00:51 +0000 2010	4c1908b7838020a18515e561	{House of Jo}	{37.345622714379026,-121.88472223377659,San Jose,CA,United States}	{Residence,}
+409	Mon Sep 06 18:39:32 +0000 2010	42ec1480f964a5209c261fe3	{Crepevine}	{37.766902080201056,-122.42893780668447,San Francisco,CA,United States}	{Food,}
+409	Sun Sep 05 05:09:00 +0000 2010	4459f934f964a520e0321fe3	{Club Eight}	{37.775773533333336,-122.408951,San Francisco,CA,United States}	{Nightlife Spot,}
+409	Sat Sep 04 22:54:52 +0000 2010	4c82ce37d8086dcba6957a52	{Team Bear SF HQ}	{37.722545,-122.438663,San Francisco,CA,United States}	{Professional & Other Places,}
+409	Fri Sep 03 15:17:18 +0000 2010	4bd85ed0f645c9b64dbaa7e0	{TechAmerica}	{37.406081,-121.977077,Santa Clara,CA,United States}	{Professional & Other Places,}
+409	Wed Sep 01 13:37:34 +0000 2010	49f7ef34f964a520eb6c1fe3	{Bally Total Fitness}	{37.33334762455921,-121.88747942447662,San Jose,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+409	Tue Aug 31 20:48:03 +0000 2010	4c19251c6a21c9b67a1bca97	{Dead End Ventura Beach}	{34.34455334556765,-119.41952228136329,Ventura,CA,United States}	{Outdoors & Recreation,}
+409	Sat Aug 21 05:25:33 +0000 2010	4bcb9725aeaaeee19bea3d6d	{Howard Johnson Inn Carlisle (Pennsylvania)}	{40.23434494727831,-77.13450867732585,Carlisle (Pennsylvania),PA,United States}	{Travel & Transport,Hotel,}
+409	Fri Aug 20 13:36:25 +0000 2010	4c58454d6418a593c739810e	{29 Parker Street}	{42.0489265,-72.46998912,East Longmeadow,MA,United States}	{Professional & Other Places,}
+409	Thu Aug 19 22:02:19 +0000 2010	49f33c2ff964a520736a1fe3	{Sheep Meadow}	{40.77167732,-73.975173,New York,NY,United States}	{Outdoors & Recreation,}
+409	Thu Aug 19 06:45:29 +0000 2010	4bb5d7db941ad13a7c8f1ee3	{Super 8}	{40.677740588200784,-73.98569170554654,Brooklyn,NY,United States}	{Travel & Transport,Hotel,}
+409	Thu Aug 19 00:29:01 +0000 2010	4be35ccf1dd22d7f418796bd	{Friendly's}	{42.07959700863789,-72.5336223301738,East Longmeadow,MA,United States}	{Food,}
+409	Mon Aug 16 02:52:47 +0000 2010	4c58454d6418a593c739810e	{29 Parker Street}	{42.0489265,-72.46998912,East Longmeadow,MA,United States}	{Professional & Other Places,}
+409	Sun Aug 15 00:06:26 +0000 2010	4b51dba3f964a5204b5827e3	{Wyndham}	{42.397710484562694,-71.04005275327192,Chelsea,MA,United States}	{Travel & Transport,}
+409	Sun Aug 08 06:21:45 +0000 2010	4c58454d6418a593c739810e	{29 Parker Street}	{42.0489265,-72.46998912,East Longmeadow,MA,United States}	{Professional & Other Places,}
+409	Sun Aug 08 06:21:45 +0000 2010	4c58454d6418a593c739810e	{29 Parker Street}	{42.0489265,-72.46998912,East Longmeadow,MA,United States}	{Professional & Other Places,}
+409	Thu Aug 05 02:30:15 +0000 2010	4bb60d5146d4a593b19bc5c0	{Taco Bell}	{42.0860890519488,-72.56001949310303,Springfield,MA,United States}	{Food,}

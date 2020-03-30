@@ -1,0 +1,664 @@
+4023	Fri Jul 29 20:22:51 +0000 2011	4c663a7eb80abe9aaa9bcce5	{Kupros Craft House}	{38.57350493578328,-121.47962984783227,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+4023	Mon Jul 25 02:33:14 +0000 2011	468b7c60f964a52065481fe3	{Nation's Giant Hamburgers}	{37.901912068871056,-122.30365666537688,El Cerrito,CA,United States}	{Food,}
+4023	Mon Jul 25 00:04:10 +0000 2011	45342204f964a520943b1fe3	{Kushi Tsuru}	{37.785188,-122.430819,San Francisco,CA,United States}	{Food,}
+4023	Sun Jul 24 20:33:42 +0000 2011	4bfec8b3a8c39c74368df237	{The Warehouse Bar & Grill}	{37.79652579761845,-122.27281093597412,Oakland,CA,United States}	{Nightlife Spot,Food,}
+4023	Sun Jul 24 19:31:43 +0000 2011	475315f0f964a520bb4c1fe3	{Jack London Square}	{37.79425789953268,-122.27565411568773,Oakland,CA,United States}	{Outdoors & Recreation,}
+4023	Sun Jul 24 17:20:29 +0000 2011	4c1eb115fcf8c9b609b3ad0b	{AMPM}	{38.559603,-121.48551821708679,Sacramento,CA,United States}	{Shop & Service,}
+4023	Sat Jul 09 17:49:09 +0000 2011	4b085898f964a520af0923e3	{IKEA}	{38.58700459547027,-121.5536892414093,West Sacramento,CA,United States}	{Shop & Service,}
+4023	Thu Jul 07 03:56:32 +0000 2011	4d26cb53ebacb1f71f6ae14f	{Alley Katz}	{38.571236,-121.481297,Sacramento,CA,United States}	{Nightlife Spot,}
+4023	Mon Jul 04 18:38:29 +0000 2011	4a7f1862f964a520c9f21fe3	{Tower Cafe}	{38.561690212474495,-121.49330735206604,Sacramento,CA,United States}	{Food,}
+4023	Sat Jul 02 20:09:47 +0000 2011	4b49335ef964a520db6926e3	{Hair to Dye For}	{38.58068525791168,-121.497445,Sacramento,CA,United States}	{Shop & Service,}
+4023	Tue Jun 28 22:33:11 +0000 2011	4c51d0f4d797e21e0988b27c	{Goodyear Tires & Auto Service Center}	{38.58106039771742,-121.49108671207217,Sacramento,CA,United States}	{Shop & Service,}
+4023	Sun Jun 26 16:21:04 +0000 2011	4d7833d6b706224b3597258d	{Mondo's Big Yellow Couch}	{38.5731995776635,-121.48560663574287,,,United States}	{Arts & Entertainment,Residence,}
+4023	Sun Jun 26 16:21:04 +0000 2011	4d7833d6b706224b3597258d	{Mondo's Big Yellow Couch}	{38.5731995776635,-121.48560663574287,,,United States}	{Arts & Entertainment,Residence,}
+4023	Sun Jun 26 03:45:59 +0000 2011	4d7833d6b706224b3597258d	{Mondo's Big Yellow Couch}	{38.5731995776635,-121.48560663574287,,,United States}	{Arts & Entertainment,Residence,}
+4023	Sun Jun 19 19:53:35 +0000 2011	4b0586bdf964a520146c22e3	{Bing Maloney Golf Course}	{38.50294127424643,-121.49855375289917,Sacramento,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+4023	Thu Jun 16 02:38:32 +0000 2011	4d26cb53ebacb1f71f6ae14f	{Alley Katz}	{38.571236,-121.481297,Sacramento,CA,United States}	{Nightlife Spot,}
+4023	Sat Jun 11 01:20:18 +0000 2011	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Thu Jun 02 23:36:06 +0000 2011	4b49335ef964a520db6926e3	{Hair to Dye For}	{38.58068525791168,-121.497445,Sacramento,CA,United States}	{Shop & Service,}
+4023	Fri May 27 06:25:30 +0000 2011	4846f3a5f964a52072501fe3	{Marilyn's on K}	{38.579374,-121.49497565,Sacramento,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+4023	Sat May 21 22:39:59 +0000 2011	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Sat May 21 22:39:18 +0000 2011	4d7833d6b706224b3597258d	{Mondo's Big Yellow Couch}	{38.5731995776635,-121.48560663574287,,,United States}	{Arts & Entertainment,Residence,}
+4023	Fri May 13 21:12:45 +0000 2011	4b0b36faf964a520d12e23e3	{Dad's Kitchen}	{38.55077073697565,-121.48909091949463,Sacramento,CA,United States}	{Food,}
+4023	Fri May 13 01:20:28 +0000 2011	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Fri May 13 00:29:37 +0000 2011	4c126dd01b5cef3bb8bfedc4	{M.V.P. Sports Grill}	{38.57400461833555,-121.47943496704102,Sacramento,CA,United States}	{Nightlife Spot,}
+4023	Wed May 11 05:19:25 +0000 2011	4db76500a86ed8d46c742097	{Home Sweet Home}	{38.54474614878756,-121.48560663574287,Sacramento,CA,United States}	{Residence,}
+4023	Wed May 11 03:06:17 +0000 2011	4b4ec1e3f964a5200bf526e3	{Mercantile Saloon}	{38.574205597823095,-121.48124190985376,Sacramento,CA,United States}	{Nightlife Spot,}
+4023	Tue May 10 01:35:28 +0000 2011	4b4aa56ef964a5202b8c26e3	{Nishiki Sushi}	{38.57170211907407,-121.48780345916748,Sacramento,CA,United States}	{Food,}
+4023	Tue May 10 00:56:14 +0000 2011	4db76500a86ed8d46c742097	{Home Sweet Home}	{38.54474614878756,-121.48560663574287,Sacramento,CA,United States}	{Residence,}
+4023	Wed May 04 16:31:46 +0000 2011	4db710f143a1369cb5f45783	{Park-A-Bike}	{38.57451243531246,-121.50746124108527,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Mon May 02 23:07:40 +0000 2011	4db764641e7206c23cf2c272	{Park-A-Bike Landpark Office}	{38.546114,-121.486853,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Mon May 02 18:50:35 +0000 2011	4db710f143a1369cb5f45783	{Park-A-Bike}	{38.57451243531246,-121.50746124108527,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Sun May 01 22:05:34 +0000 2011	4db76500a86ed8d46c742097	{Home Sweet Home}	{38.54474614878756,-121.48560663574287,Sacramento,CA,United States}	{Residence,}
+4023	Sat Apr 30 03:35:11 +0000 2011	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Fri Apr 29 05:58:19 +0000 2011	4d7833d6b706224b3597258d	{Mondo's Big Yellow Couch}	{38.5731995776635,-121.48560663574287,,,United States}	{Arts & Entertainment,Residence,}
+4023	Fri Apr 29 01:22:08 +0000 2011	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Fri Apr 29 00:54:41 +0000 2011	4b722413f964a520be702de3	{I Love Teriyaki}	{38.5715852,-121.480666,Sacramento,CA,United States}	{Food,Arts & Entertainment,}
+4023	Thu Apr 28 20:43:37 +0000 2011	4db764641e7206c23cf2c272	{Park-A-Bike Landpark Office}	{38.546114,-121.486853,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Thu Apr 28 19:52:19 +0000 2011	4c126dd01b5cef3bb8bfedc4	{M.V.P. Sports Grill}	{38.57400461833555,-121.47943496704102,Sacramento,CA,United States}	{Nightlife Spot,}
+4023	Wed Apr 27 15:50:20 +0000 2011	4db710f143a1369cb5f45783	{Park-A-Bike}	{38.57451243531246,-121.50746124108527,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Wed Apr 27 00:36:39 +0000 2011	4db76500a86ed8d46c742097	{Home Sweet Home}	{38.54474614878756,-121.48560663574287,Sacramento,CA,United States}	{Residence,}
+4023	Wed Apr 27 00:34:08 +0000 2011	4db764641e7206c23cf2c272	{Park-A-Bike Landpark Office}	{38.546114,-121.486853,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Tue Apr 26 21:17:56 +0000 2011	4c126dd01b5cef3bb8bfedc4	{M.V.P. Sports Grill}	{38.57400461833555,-121.47943496704102,Sacramento,CA,United States}	{Nightlife Spot,}
+4023	Tue Apr 26 18:38:17 +0000 2011	4db710f143a1369cb5f45783	{Park-A-Bike}	{38.57451243531246,-121.50746124108527,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Sat Apr 23 22:05:39 +0000 2011	4c1eb115fcf8c9b609b3ad0b	{AMPM}	{38.559603,-121.48551821708679,Sacramento,CA,United States}	{Shop & Service,}
+4023	Fri Apr 22 18:24:00 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Fri Apr 22 03:11:46 +0000 2011	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Tue Apr 19 19:27:32 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Tue Apr 19 19:19:36 +0000 2011	4b844062f964a520702a31e3	{Subway}	{38.56959934,-121.481127,Sacramento,CA,United States}	{Food,}
+4023	Mon Apr 18 02:13:25 +0000 2011	4b91830af964a520fac133e3	{Thai Spice}	{38.557636,-121.47674305,Sacramento,CA,United States}	{Food,}
+4023	Mon Apr 18 02:13:25 +0000 2011	4b91830af964a520fac133e3	{Thai Spice}	{38.557636,-121.47674305,Sacramento,CA,United States}	{Food,}
+4023	Sun Apr 17 03:46:14 +0000 2011	4d7833d6b706224b3597258d	{Mondo's Big Yellow Couch}	{38.5731995776635,-121.48560663574287,,,United States}	{Arts & Entertainment,Residence,}
+4023	Sat Apr 16 23:05:21 +0000 2011	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Fri Apr 15 03:29:21 +0000 2011	4d7833d6b706224b3597258d	{Mondo's Big Yellow Couch}	{38.5731995776635,-121.48560663574287,,,United States}	{Arts & Entertainment,Residence,}
+4023	Fri Apr 15 01:47:47 +0000 2011	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Fri Apr 15 00:26:50 +0000 2011	4ab9924bf964a520e97f20e3	{Capitol Dawg}	{38.573943,-121.48128283333334,Sacramento,CA,United States}	{Food,}
+4023	Thu Apr 14 17:52:29 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Tue Apr 12 00:33:37 +0000 2011	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Mon Apr 11 16:13:56 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Mon Apr 11 02:58:42 +0000 2011	4b91830af964a520fac133e3	{Thai Spice}	{38.557636,-121.47674305,Sacramento,CA,United States}	{Food,}
+4023	Sun Apr 10 00:23:48 +0000 2011	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Fri Apr 08 02:04:07 +0000 2011	4d7833d6b706224b3597258d	{Mondo's Big Yellow Couch}	{38.5731995776635,-121.48560663574287,,,United States}	{Arts & Entertainment,Residence,}
+4023	Fri Apr 08 01:30:00 +0000 2011	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Thu Apr 07 22:40:32 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Wed Apr 06 16:27:17 +0000 2011	4b0586b6f964a520e26a22e3	{Sacramento Convention Center}	{38.57852002752224,-121.48839272244031,Sacramento,CA,United States}	{Government Building,Convention Center,Professional & Other Places,}
+4023	Wed Apr 06 03:24:08 +0000 2011	4b0586b6f964a520d06a22e3	{Press Club}	{38.56957570175681,-121.48158073425293,Sacramento,CA,United States}	{Nightlife Spot,}
+4023	Tue Apr 05 16:33:18 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Mon Apr 04 17:19:34 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Sun Apr 03 00:35:11 +0000 2011	4d7833d6b706224b3597258d	{Mondo's Big Yellow Couch}	{38.5731995776635,-121.48560663574287,,,United States}	{Arts & Entertainment,Residence,}
+4023	Sat Apr 02 23:17:37 +0000 2011	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Sat Apr 02 17:39:34 +0000 2011	4c780bba3badb1f766714a54	{Tumbleweed Inn}	{38.582032837431356,-121.31814259785676,Rancho Cordova,CA,United States}	{Nightlife Spot,}
+4023	Sat Apr 02 04:27:11 +0000 2011	4d7833d6b706224b3597258d	{Mondo's Big Yellow Couch}	{38.5731995776635,-121.48560663574287,,,United States}	{Arts & Entertainment,Residence,}
+4023	Sat Apr 02 04:27:11 +0000 2011	4d7833d6b706224b3597258d	{Mondo's Big Yellow Couch}	{38.5731995776635,-121.48560663574287,,,United States}	{Arts & Entertainment,Residence,}
+4023	Sat Apr 02 04:26:30 +0000 2011	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Fri Apr 01 23:28:17 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Fri Apr 01 03:03:55 +0000 2011	4d7833d6b706224b3597258d	{Mondo's Big Yellow Couch}	{38.5731995776635,-121.48560663574287,,,United States}	{Arts & Entertainment,Residence,}
+4023	Fri Apr 01 02:25:15 +0000 2011	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Thu Mar 31 16:11:25 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Thu Mar 31 03:31:43 +0000 2011	4b0b36faf964a520d12e23e3	{Dad's Kitchen}	{38.55077073697565,-121.48909091949463,Sacramento,CA,United States}	{Food,}
+4023	Wed Mar 30 17:19:00 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Tue Mar 29 15:36:16 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Mon Mar 28 19:24:03 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Mon Mar 28 04:41:06 +0000 2011	4af8d15cf964a520211022e3	{Raley??s}	{38.53089549072322,-121.49613986401373,Sacramento,CA,United States}	{Shop & Service,Food & Drink Shop,}
+4023	Fri Mar 25 16:42:31 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Thu Mar 24 15:56:38 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Tue Mar 22 16:09:40 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Sun Mar 20 16:06:06 +0000 2011	4c780bba3badb1f766714a54	{Tumbleweed Inn}	{38.582032837431356,-121.31814259785676,Rancho Cordova,CA,United States}	{Nightlife Spot,}
+4023	Sat Mar 19 01:10:41 +0000 2011	4d7833d6b706224b3597258d	{Mondo's Big Yellow Couch}	{38.5731995776635,-121.48560663574287,,,United States}	{Arts & Entertainment,Residence,}
+4023	Fri Mar 18 16:58:32 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Thu Mar 17 16:49:23 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Tue Mar 15 17:17:36 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Tue Mar 15 00:09:03 +0000 2011	4c3fd2ebd691c9b63f688a0a	{Round Table Pizza}	{38.55022623333333,-121.488615,Sacramento,CA,United States}	{Food,}
+4023	Mon Mar 14 17:03:47 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Sun Mar 13 23:01:46 +0000 2011	4c780bba3badb1f766714a54	{Tumbleweed Inn}	{38.582032837431356,-121.31814259785676,Rancho Cordova,CA,United States}	{Nightlife Spot,}
+4023	Sat Mar 12 05:45:19 +0000 2011	4d7833d6b706224b3597258d	{Mondo's Big Yellow Couch}	{38.5731995776635,-121.48560663574287,,,United States}	{Arts & Entertainment,Residence,}
+4023	Sat Mar 12 05:44:44 +0000 2011	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Sat Mar 12 01:34:48 +0000 2011	4b4ec1e3f964a5200bf526e3	{Mercantile Saloon}	{38.574205597823095,-121.48124190985376,Sacramento,CA,United States}	{Nightlife Spot,}
+4023	Fri Mar 11 21:53:00 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Fri Mar 11 21:12:32 +0000 2011	4ab9924bf964a520e97f20e3	{Capitol Dawg}	{38.573943,-121.48128283333334,Sacramento,CA,United States}	{Food,}
+4023	Fri Mar 11 02:22:45 +0000 2011	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Fri Mar 11 00:19:28 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Thu Mar 10 02:33:09 +0000 2011	4d7833d6b706224b3597258d	{Mondo's Big Yellow Couch}	{38.5731995776635,-121.48560663574287,,,United States}	{Arts & Entertainment,Residence,}
+4023	Thu Mar 10 02:33:07 +0000 2011	4d7833d6b706224b3597258d	{Mondo's Big Yellow Couch}	{38.5731995776635,-121.48560663574287,,,United States}	{Arts & Entertainment,Residence,}
+4023	Wed Mar 09 20:17:48 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Tue Mar 08 23:23:38 +0000 2011	4d76ba7030f5a35dee462e97	{Prudential Nor Cal Realty}	{38.65928279912694,-121.32687299175802,,,United States}	{}
+4023	Tue Mar 08 05:46:08 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Tue Mar 08 04:45:30 +0000 2011	4b0586b4f964a520816a22e3	{Gunther's Quality Ice Cream}	{38.55347718598216,-121.47565258790499,Sacramento,CA,United States}	{Food,}
+4023	Sun Mar 06 19:02:27 +0000 2011	4c780bba3badb1f766714a54	{Tumbleweed Inn}	{38.582032837431356,-121.31814259785676,Rancho Cordova,CA,United States}	{Nightlife Spot,}
+4023	Sat Mar 05 02:33:11 +0000 2011	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Sat Mar 05 02:02:17 +0000 2011	4ab9924bf964a520e97f20e3	{Capitol Dawg}	{38.573943,-121.48128283333334,Sacramento,CA,United States}	{Food,}
+4023	Fri Mar 04 20:13:38 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Thu Mar 03 16:29:08 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Wed Mar 02 16:56:56 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Tue Mar 01 22:22:41 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Tue Mar 01 22:00:31 +0000 2011	4a7dea35f964a5202df01fe3	{Freeport Bakery}	{38.550978,-121.48895144462585,Sacramento,CA,United States}	{Food,}
+4023	Tue Mar 01 21:16:23 +0000 2011	4b0b36faf964a520d12e23e3	{Dad's Kitchen}	{38.55077073697565,-121.48909091949463,Sacramento,CA,United States}	{Food,}
+4023	Sat Feb 26 01:06:39 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Fri Feb 25 23:07:52 +0000 2011	4bce378968f976b08bb36583	{Remax Gold}	{38.74315407930558,-121.2364263575929,Roseville,CA,United States}	{Professional & Other Places,}
+4023	Fri Feb 25 17:07:16 +0000 2011	4a96ce0bf964a520082720e3	{Old Soul}	{38.56777637641089,-121.48186504840851,Sacramento,CA,United States}	{Food,}
+4023	Fri Feb 25 17:06:57 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Fri Feb 25 02:26:34 +0000 2011	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Thu Feb 24 16:51:54 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Thu Feb 24 04:58:10 +0000 2011	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Thu Feb 24 04:57:33 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Thu Feb 24 00:29:31 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Wed Feb 23 22:50:37 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Wed Feb 23 19:40:09 +0000 2011	4b0586b4f964a520946a22e3	{Celestin's Island Eats & Cajun Cuisine}	{38.57625,-121.482426,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+4023	Wed Feb 23 17:07:10 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Tue Feb 22 16:43:15 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Sat Feb 19 20:21:43 +0000 2011	4aede7aef964a52011d021e3	{Pea Soup Andersen's}	{37.10918430993106,-121.0168538646798,Gustine,CA,United States}	{Food,}
+4023	Fri Feb 18 08:27:43 +0000 2011	4846f3a5f964a52072501fe3	{Marilyn's on K}	{38.579374,-121.49497565,Sacramento,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+4023	Fri Feb 18 03:53:01 +0000 2011	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Wed Feb 16 17:21:49 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Tue Feb 15 17:23:40 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Mon Feb 14 16:42:08 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Mon Feb 14 03:19:30 +0000 2011	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Fri Feb 11 21:00:39 +0000 2011	4c780bba3badb1f766714a54	{Tumbleweed Inn}	{38.582032837431356,-121.31814259785676,Rancho Cordova,CA,United States}	{Nightlife Spot,}
+4023	Fri Feb 11 17:33:37 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Thu Feb 10 21:06:50 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Wed Feb 09 16:50:57 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Wed Feb 09 02:32:34 +0000 2011	4c780bba3badb1f766714a54	{Tumbleweed Inn}	{38.582032837431356,-121.31814259785676,Rancho Cordova,CA,United States}	{Nightlife Spot,}
+4023	Tue Feb 08 16:41:23 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Wed Feb 02 18:10:04 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Tue Feb 01 17:50:33 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Mon Jan 31 21:11:55 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Mon Jan 31 01:45:12 +0000 2011	4c780bba3badb1f766714a54	{Tumbleweed Inn}	{38.582032837431356,-121.31814259785676,Rancho Cordova,CA,United States}	{Nightlife Spot,}
+4023	Sat Jan 29 02:40:54 +0000 2011	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Fri Jan 28 18:08:26 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Wed Jan 26 16:57:13 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Thu Jan 20 17:36:36 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Wed Jan 19 18:56:07 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Tue Jan 18 18:43:21 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Sat Jan 15 00:13:41 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Fri Jan 14 21:18:00 +0000 2011	4b8058c8f964a5200d6a30e3	{Dr. Randolph Brown Optometry, Inc.}	{38.622523984283184,-121.26438859700923,Gold River,CA,United States}	{Medical Center,Professional & Other Places,}
+4023	Thu Jan 13 20:00:20 +0000 2011	4b2080b3f964a520c43224e3	{Jack's Urban Eats}	{38.65900696740013,-121.51089191436768,Sacramento,CA,United States}	{Food,}
+4023	Thu Jan 13 16:43:27 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Wed Jan 12 16:35:19 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Wed Jan 12 02:37:24 +0000 2011	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Tue Jan 11 16:47:11 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Mon Jan 10 19:21:06 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Mon Jan 10 00:15:57 +0000 2011	4c780bba3badb1f766714a54	{Tumbleweed Inn}	{38.582032837431356,-121.31814259785676,Rancho Cordova,CA,United States}	{Nightlife Spot,}
+4023	Sat Jan 08 21:03:54 +0000 2011	4c780bba3badb1f766714a54	{Tumbleweed Inn}	{38.582032837431356,-121.31814259785676,Rancho Cordova,CA,United States}	{Nightlife Spot,}
+4023	Sat Jan 08 21:03:54 +0000 2011	4c780bba3badb1f766714a54	{Tumbleweed Inn}	{38.582032837431356,-121.31814259785676,Rancho Cordova,CA,United States}	{Nightlife Spot,}
+4023	Sat Jan 08 05:39:15 +0000 2011	4af4f9a8f964a520cef721e3	{Blue Lamp}	{38.56823355192237,-121.46748304367065,Sacramento,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+4023	Fri Jan 07 16:51:46 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Thu Jan 06 23:27:44 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Thu Jan 06 22:54:43 +0000 2011	4cbf21e27dc9a093cc1137f5	{Keller Williams Realty}	{38.780629027389054,-121.27667132806458,Roseville,CA,United States}	{Office,Professional & Other Places,}
+4023	Thu Jan 06 20:52:25 +0000 2011	4c780bba3badb1f766714a54	{Tumbleweed Inn}	{38.582032837431356,-121.31814259785676,Rancho Cordova,CA,United States}	{Nightlife Spot,}
+4023	Thu Jan 06 16:29:41 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Wed Jan 05 18:19:31 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Wed Jan 05 03:18:23 +0000 2011	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Tue Jan 04 18:38:36 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Mon Jan 03 18:36:16 +0000 2011	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Sat Jan 01 01:38:08 +0000 2011	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Fri Dec 31 00:18:55 +0000 2010	4ce1c90500166ea8fe4d4388	{Lubo's Bavarian Motors}	{38.581891986844326,-121.44882899646073,Sacramento,CA,United States}	{Shop & Service,}
+4023	Fri Dec 31 00:18:55 +0000 2010	4ce1c90500166ea8fe4d4388	{Lubo's Bavarian Motors}	{38.581891986844326,-121.44882899646073,Sacramento,CA,United States}	{Shop & Service,}
+4023	Thu Dec 30 21:36:06 +0000 2010	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Wed Dec 29 17:23:28 +0000 2010	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Tue Dec 28 16:40:07 +0000 2010	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Tue Dec 28 04:09:47 +0000 2010	4b0586baf964a5207d6b22e3	{Luigi's Slice & Fun Garden}	{38.5759505711002,-121.48025035858154,Sacramento,CA,United States}	{Food,}
+4023	Tue Dec 28 03:30:18 +0000 2010	4b0c94bbf964a5209a3f23e3	{The Depot}	{38.57574817569983,-121.48012072031904,Sacramento,CA,United States}	{Nightlife Spot,}
+4023	Mon Dec 27 19:11:19 +0000 2010	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Mon Dec 27 16:53:19 +0000 2010	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Fri Dec 24 18:02:48 +0000 2010	4b49335ef964a520db6926e3	{Hair to Dye For}	{38.58068525791168,-121.497445,Sacramento,CA,United States}	{Shop & Service,}
+4023	Fri Dec 24 01:19:34 +0000 2010	4c100141db2c9c74c88b107a	{Frumoasa Salon & Spa}	{38.579341,-121.490943,Sacramento,CA,United States}	{Shop & Service,}
+4023	Fri Dec 24 01:19:34 +0000 2010	4c100141db2c9c74c88b107a	{Frumoasa Salon & Spa}	{38.579341,-121.490943,Sacramento,CA,United States}	{Shop & Service,}
+4023	Thu Dec 23 17:16:41 +0000 2010	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Wed Dec 22 22:35:06 +0000 2010	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Tue Dec 21 23:45:34 +0000 2010	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Tue Dec 21 23:43:07 +0000 2010	4b0b36faf964a520d12e23e3	{Dad's Kitchen}	{38.55077073697565,-121.48909091949463,Sacramento,CA,United States}	{Food,}
+4023	Tue Dec 21 20:48:17 +0000 2010	4b0b36faf964a520d12e23e3	{Dad's Kitchen}	{38.55077073697565,-121.48909091949463,Sacramento,CA,United States}	{Food,}
+4023	Tue Dec 21 17:51:48 +0000 2010	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Fri Dec 17 18:16:48 +0000 2010	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Thu Dec 16 16:37:15 +0000 2010	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Wed Dec 15 23:31:18 +0000 2010	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Tue Dec 14 23:36:01 +0000 2010	4b1eaa8cf964a5207f1d24e3	{The Sacramento Bee}	{38.56799867312383,-121.4814305305481,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Thu Dec 09 21:53:30 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Thu Dec 09 17:33:20 +0000 2010	4b685a93f964a52069732be3	{DMV Sacramento Office}	{38.54619335,-121.45094454288483,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Wed Dec 01 23:53:24 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Wed Dec 01 21:50:31 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Wed Dec 01 21:48:30 +0000 2010	4c100141db2c9c74c88b107a	{Frumoasa Salon & Spa}	{38.579341,-121.490943,Sacramento,CA,United States}	{Shop & Service,}
+4023	Fri Nov 19 01:00:24 +0000 2010	4c100141db2c9c74c88b107a	{Frumoasa Salon & Spa}	{38.579341,-121.490943,Sacramento,CA,United States}	{Shop & Service,}
+4023	Wed Nov 17 04:50:34 +0000 2010	48413135f964a52035501fe3	{Streets of London}	{38.577158,-121.482203,Sacramento,CA,United States}	{Nightlife Spot,}
+4023	Wed Nov 17 03:20:38 +0000 2010	4ae60362f964a5200ca421e3	{Ernesto's Mexican Food}	{38.56813101664688,-121.48931303655351,Sacramento,CA,United States}	{Food,}
+4023	Wed Nov 17 02:53:21 +0000 2010	4b1c20f7f964a520ba0224e3	{Hangar17 Bar & Grill}	{38.567819,-121.488634,Sacramento,CA,United States}	{Food,}
+4023	Tue Nov 16 23:27:08 +0000 2010	4b11e5a2f964a520ac8623e3	{Costco}	{38.597411268058096,-121.45282208919525,Sacramento,CA,United States}	{Shop & Service,}
+4023	Tue Nov 16 06:22:00 +0000 2010	4b3c8241f964a520c88425e3	{Royal Peacock Tattoo Parlor}	{38.5698,-121.48126251666666,Sacramento,CA,United States}	{Shop & Service,}
+4023	Mon Nov 15 23:58:19 +0000 2010	4ce1c90500166ea8fe4d4388	{Lubo's Bavarian Motors}	{38.581891986844326,-121.44882899646073,Sacramento,CA,United States}	{Shop & Service,}
+4023	Sat Nov 13 16:49:21 +0000 2010	4b49335ef964a520db6926e3	{Hair to Dye For}	{38.58068525791168,-121.497445,Sacramento,CA,United States}	{Shop & Service,}
+4023	Sat Nov 13 01:40:06 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Fri Nov 12 01:40:09 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Wed Nov 10 17:17:42 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Wed Nov 10 17:17:42 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Tue Nov 09 19:24:21 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Mon Nov 08 03:20:47 +0000 2010	4b085898f964a520af0923e3	{IKEA}	{38.58700459547027,-121.5536892414093,West Sacramento,CA,United States}	{Shop & Service,}
+4023	Sun Nov 07 19:00:30 +0000 2010	4ad5414ff964a5208e0221e3	{Target}	{38.56219776204009,-121.49749159812927,Sacramento,CA,United States}	{Shop & Service,}
+4023	Sun Nov 07 00:04:45 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Fri Nov 05 23:47:55 +0000 2010	4b6c7c0af964a520dd3d2ce3	{Wells Fargo Bank}	{38.56979379873693,-121.46718263626099,Sacramento,CA,United States}	{Shop & Service,}
+4023	Thu Nov 04 22:08:03 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Thu Nov 04 22:07:43 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Thu Nov 04 22:07:24 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Thu Nov 04 20:01:52 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Thu Nov 04 20:01:52 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Wed Nov 03 19:06:57 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Wed Nov 03 00:11:57 +0000 2010	4ad5414ff964a5208e0221e3	{Target}	{38.56219776204009,-121.49749159812927,Sacramento,CA,United States}	{Shop & Service,}
+4023	Mon Nov 01 17:40:00 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Sun Oct 31 21:13:27 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Sun Oct 31 19:40:27 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Sun Oct 31 19:40:27 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Sat Oct 30 23:53:11 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Sat Oct 30 23:53:11 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Sat Oct 30 23:52:36 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Sat Oct 30 04:24:09 +0000 2010	4846f3a5f964a52072501fe3	{Marilyn's on K}	{38.579374,-121.49497565,Sacramento,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+4023	Thu Oct 28 21:57:21 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Thu Oct 28 14:55:23 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Thu Oct 28 01:47:26 +0000 2010	4b0586b3f964a520756a22e3	{Embassy Suites}	{38.57970656204091,-121.50689241034249,Sacramento,CA,United States}	{Travel & Transport,Arts & Entertainment,}
+4023	Wed Oct 27 18:39:36 +0000 2010	4b6081cef964a5206dea29e3	{Culinary Institute of America at Greystone}	{38.51484702367952,-122.48453358560205,St Helena,CA,United States}	{College & University,Food,}
+4023	Wed Oct 27 00:28:55 +0000 2010	4ad5414ff964a5208e0221e3	{Target}	{38.56219776204009,-121.49749159812927,Sacramento,CA,United States}	{Shop & Service,}
+4023	Tue Oct 26 23:33:33 +0000 2010	4a7dea35f964a5202df01fe3	{Freeport Bakery}	{38.550978,-121.48895144462585,Sacramento,CA,United States}	{Food,}
+4023	Mon Oct 25 23:23:29 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Sat Oct 23 17:05:19 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Sat Oct 23 17:04:32 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Sat Oct 23 02:19:13 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Fri Oct 22 18:19:47 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Fri Oct 22 04:56:32 +0000 2010	4846f3a5f964a52072501fe3	{Marilyn's on K}	{38.579374,-121.49497565,Sacramento,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+4023	Thu Oct 21 23:59:39 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Thu Oct 21 21:23:57 +0000 2010	4bfc53882fcf9521aac335b4	{Public Storage - Self Storage}	{38.660734687522606,-121.3827504844416,North Highlands,CA,United States}	{Professional & Other Places,Residence,}
+4023	Thu Oct 21 01:03:43 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Thu Oct 21 01:03:43 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Tue Oct 19 22:49:03 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Sun Oct 17 03:04:11 +0000 2010	4b0586b4f964a520996a22e3	{The Distillery}	{38.5740511,-121.4791118,Sacramento,CA,United States}	{Nightlife Spot,}
+4023	Sun Oct 17 00:47:42 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Sat Oct 16 17:46:41 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Sat Oct 16 03:46:31 +0000 2010	4b0586b3f964a5207c6a22e3	{Old Ironsides}	{38.57024257313268,-121.49765253067017,Sacramento,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+4023	Fri Oct 15 21:28:59 +0000 2010	4b49335ef964a520db6926e3	{Hair to Dye For}	{38.58068525791168,-121.497445,Sacramento,CA,United States}	{Shop & Service,}
+4023	Fri Oct 15 16:35:44 +0000 2010	4b638a9af964a52015822ae3	{Cash & Carry}	{38.5954399,-121.48521296,Sacramento,CA,United States}	{Shop & Service,Food & Drink Shop,}
+4023	Fri Oct 15 14:44:53 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Thu Oct 14 21:54:04 +0000 2010	4b6c84bff964a5204e402ce3	{Harv's Car Wash}	{38.57485,-121.481635,Sacramento,CA,United States}	{Shop & Service,}
+4023	Thu Oct 14 00:58:09 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Wed Oct 13 23:21:20 +0000 2010	4c6b00657c052d7f5a9828cf	{Grocery Outlet}	{38.5741975384204,-121.485196352005,Sacramento,CA,United States}	{Shop & Service,Food & Drink Shop,}
+4023	Tue Oct 12 15:42:20 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Tue Oct 12 01:26:41 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Mon Oct 11 05:55:25 +0000 2010	4cafe5e9cbab236a5f379c73	{The Maxi Pad}	{38.58609162571804,-121.47418269621541,,CA,United States}	{Residence,}
+4023	Sun Oct 10 02:06:17 +0000 2010	4b737477f964a5205eaf2de3	{Kico's}	{38.59573513025161,-121.40941915834371,Sacramento,CA,United States}	{Food,}
+4023	Sat Oct 09 19:04:01 +0000 2010	4cafe5e9cbab236a5f379c73	{The Maxi Pad}	{38.58609162571804,-121.47418269621541,,CA,United States}	{Residence,}
+4023	Sat Oct 09 19:04:01 +0000 2010	4cafe5e9cbab236a5f379c73	{The Maxi Pad}	{38.58609162571804,-121.47418269621541,,CA,United States}	{Residence,}
+4023	Sat Oct 09 03:55:22 +0000 2010	4cafe5e9cbab236a5f379c73	{The Maxi Pad}	{38.58609162571804,-121.47418269621541,,CA,United States}	{Residence,}
+4023	Sat Oct 09 02:23:27 +0000 2010	4b4aa56ef964a5202b8c26e3	{Nishiki Sushi}	{38.57170211907407,-121.48780345916748,Sacramento,CA,United States}	{Food,}
+4023	Thu Oct 07 15:21:06 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Thu Oct 07 04:48:14 +0000 2010	4b84b5ccf964a520e74131e3	{Walmart Supercenter}	{38.68999014101035,-121.2956178188324,Citrus Heights,CA,United States}	{Shop & Service,}
+4023	Wed Oct 06 15:30:13 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Sun Oct 03 19:23:10 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Thu Sep 30 22:55:53 +0000 2010	4ca4baabd5a2a143c42f5490	{Better Homes And Gardens Mason-McDuffie}	{38.576214,-121.4821869134903,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Thu Sep 30 03:02:09 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Wed Sep 29 21:34:07 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Wed Sep 29 21:34:07 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Wed Sep 29 17:20:40 +0000 2010	4bb2fb7535f0c9b634eabb83	{Prudential CA Realty}	{38.576132,-121.482167,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Wed Sep 29 12:58:16 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Tue Sep 28 16:06:24 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Mon Sep 27 22:27:59 +0000 2010	4bb2fb7535f0c9b634eabb83	{Prudential CA Realty}	{38.576132,-121.482167,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Mon Sep 27 04:40:19 +0000 2010	4b1a6f25f964a52051ea23e3	{Bel Air}	{38.624951060492954,-121.26387119293213,Gold River,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+4023	Mon Sep 27 02:26:27 +0000 2010	4b2af00df964a5206fb224e3	{In-N-Out Burger}	{38.61458372652006,-121.26895984508872,Rancho Cordova,CA,United States}	{Food,}
+4023	Sat Sep 25 01:57:51 +0000 2010	4b722413f964a520be702de3	{I Love Teriyaki}	{38.5715852,-121.480666,Sacramento,CA,United States}	{Food,Arts & Entertainment,}
+4023	Fri Sep 24 22:04:21 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Fri Sep 24 01:17:46 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Thu Sep 23 18:20:53 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Thu Sep 23 17:13:58 +0000 2010	4b638a9af964a52015822ae3	{Cash & Carry}	{38.5954399,-121.48521296,Sacramento,CA,United States}	{Shop & Service,Food & Drink Shop,}
+4023	Thu Sep 23 17:13:58 +0000 2010	4b638a9af964a52015822ae3	{Cash & Carry}	{38.5954399,-121.48521296,Sacramento,CA,United States}	{Shop & Service,Food & Drink Shop,}
+4023	Wed Sep 22 23:56:25 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Wed Sep 22 18:23:06 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Wed Sep 22 16:33:34 +0000 2010	4b638a9af964a52015822ae3	{Cash & Carry}	{38.5954399,-121.48521296,Sacramento,CA,United States}	{Shop & Service,Food & Drink Shop,}
+4023	Tue Sep 21 23:26:51 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Mon Sep 20 22:29:37 +0000 2010	4bb2fb7535f0c9b634eabb83	{Prudential CA Realty}	{38.576132,-121.482167,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Mon Sep 20 00:02:56 +0000 2010	4b1a6f25f964a52051ea23e3	{Bel Air}	{38.624951060492954,-121.26387119293213,Gold River,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+4023	Sun Sep 19 22:40:59 +0000 2010	4b9421b9f964a5202c6a34e3	{Jodar Vineyards & Winery}	{38.737943,-120.704227,Placerville,CA,United States}	{Food,}
+4023	Sun Sep 19 21:46:36 +0000 2010	4bd4b6877b1876b0fba68986	{Narrow Gate Vineyards}	{38.68980697803256,-120.67500371400224,Placerville,CA,United States}	{Food,}
+4023	Sun Sep 19 19:36:46 +0000 2010	4c2a13ad9fb5d13a5c179c57	{City of Elk Grove}	{38.41388995469019,-121.3827504844416,Elk Grove,CA,United States}	{Outdoors & Recreation,Residence,}
+4023	Sat Sep 18 21:44:55 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Sat Sep 18 15:44:14 +0000 2010	4b49335ef964a520db6926e3	{Hair to Dye For}	{38.58068525791168,-121.497445,Sacramento,CA,United States}	{Shop & Service,}
+4023	Sat Sep 18 05:39:07 +0000 2010	4b0586b3f964a5207c6a22e3	{Old Ironsides}	{38.57024257313268,-121.49765253067017,Sacramento,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+4023	Sat Sep 18 04:18:01 +0000 2010	4b0586b4f964a520946a22e3	{Celestin's Island Eats & Cajun Cuisine}	{38.57625,-121.482426,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+4023	Sat Sep 18 00:30:33 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Thu Sep 16 20:38:19 +0000 2010	4bb2fb7535f0c9b634eabb83	{Prudential CA Realty}	{38.576132,-121.482167,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Thu Sep 16 16:16:01 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Thu Sep 16 00:37:23 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Wed Sep 15 00:45:18 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Mon Sep 13 20:03:37 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Mon Sep 13 20:03:37 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Mon Sep 13 17:46:19 +0000 2010	4b49335ef964a520db6926e3	{Hair to Dye For}	{38.58068525791168,-121.497445,Sacramento,CA,United States}	{Shop & Service,}
+4023	Sun Sep 12 19:41:48 +0000 2010	4b638a9af964a52015822ae3	{Cash & Carry}	{38.5954399,-121.48521296,Sacramento,CA,United States}	{Shop & Service,Food & Drink Shop,}
+4023	Sun Sep 12 02:01:30 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Sat Sep 11 19:20:05 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Sat Sep 11 18:59:39 +0000 2010	4ac90d80f964a5204ebe20e3	{Jamba Juice}	{38.570675,-121.46605035,Sacramento,CA,United States}	{Food,}
+4023	Sat Sep 11 17:38:59 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Sat Sep 11 07:30:58 +0000 2010	4b0586b3f964a5207c6a22e3	{Old Ironsides}	{38.57024257313268,-121.49765253067017,Sacramento,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+4023	Sat Sep 11 04:20:49 +0000 2010	4846f3a5f964a52072501fe3	{Marilyn's on K}	{38.579374,-121.49497565,Sacramento,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+4023	Fri Sep 10 18:08:05 +0000 2010	4b3b858af964a5201a7525e3	{Quick Quack Car Wash}	{38.593071072085195,-121.26605393777238,Rancho Cordova,CA,United States}	{Shop & Service,}
+4023	Fri Sep 10 16:50:45 +0000 2010	4b638a9af964a52015822ae3	{Cash & Carry}	{38.5954399,-121.48521296,Sacramento,CA,United States}	{Shop & Service,Food & Drink Shop,}
+4023	Thu Sep 09 20:02:55 +0000 2010	4bb2fb7535f0c9b634eabb83	{Prudential CA Realty}	{38.576132,-121.482167,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Thu Sep 09 20:02:55 +0000 2010	4bb2fb7535f0c9b634eabb83	{Prudential CA Realty}	{38.576132,-121.482167,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Wed Sep 08 17:42:07 +0000 2010	4bb2fb7535f0c9b634eabb83	{Prudential CA Realty}	{38.576132,-121.482167,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Tue Sep 07 20:20:40 +0000 2010	4bb2fb7535f0c9b634eabb83	{Prudential CA Realty}	{38.576132,-121.482167,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Tue Sep 07 17:03:06 +0000 2010	4b1611c4f964a520c2b623e3	{24 Hour Fitness}	{38.618565,-121.268191,Gold River,CA,United States}	{Shop & Service,}
+4023	Mon Sep 06 20:03:55 +0000 2010	4b02153ef964a5209d4722e3	{Century Folsom 14}	{38.64166260005034,-121.191086769104,Folsom,CA,United States}	{Arts & Entertainment,Movie Theater,}
+4023	Sun Sep 05 00:28:33 +0000 2010	4b0586baf964a520956b22e3	{Chalk It Up!}	{38.570966,-121.48896861666667,Sacramento,CA,United States}	{Arts & Entertainment,}
+4023	Sat Sep 04 17:07:39 +0000 2010	4b49335ef964a520db6926e3	{Hair to Dye For}	{38.58068525791168,-121.497445,Sacramento,CA,United States}	{Shop & Service,}
+4023	Sat Sep 04 16:01:35 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Thu Sep 02 20:27:12 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Thu Sep 02 17:31:21 +0000 2010	4bb2fb7535f0c9b634eabb83	{Prudential CA Realty}	{38.576132,-121.482167,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Thu Sep 02 00:38:05 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Wed Sep 01 20:38:58 +0000 2010	4bb2fb7535f0c9b634eabb83	{Prudential CA Realty}	{38.576132,-121.482167,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Wed Sep 01 19:03:11 +0000 2010	4b0586baf964a5207d6b22e3	{Luigi's Slice & Fun Garden}	{38.5759505711002,-121.48025035858154,Sacramento,CA,United States}	{Food,}
+4023	Wed Sep 01 17:29:22 +0000 2010	4bb2fb7535f0c9b634eabb83	{Prudential CA Realty}	{38.576132,-121.482167,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Wed Sep 01 01:48:44 +0000 2010	4b0b36faf964a520d12e23e3	{Dad's Kitchen}	{38.55077073697565,-121.48909091949463,Sacramento,CA,United States}	{Food,}
+4023	Wed Sep 01 00:33:39 +0000 2010	4b722413f964a520be702de3	{I Love Teriyaki}	{38.5715852,-121.480666,Sacramento,CA,United States}	{Food,Arts & Entertainment,}
+4023	Mon Aug 30 17:56:14 +0000 2010	4bb2fb7535f0c9b634eabb83	{Prudential CA Realty}	{38.576132,-121.482167,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Fri Aug 27 18:53:20 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Wed Aug 25 19:18:45 +0000 2010	4bb2fb7535f0c9b634eabb83	{Prudential CA Realty}	{38.576132,-121.482167,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Wed Aug 25 17:11:45 +0000 2010	4b8454e1f964a520322f31e3	{Sacramento Association of REALTORS? (SAR)}	{38.602031313564865,-121.41597926616669,Sacramento,CA,United States}	{Shop & Service,Professional & Other Places,}
+4023	Tue Aug 24 00:45:01 +0000 2010	4b49335ef964a520db6926e3	{Hair to Dye For}	{38.58068525791168,-121.497445,Sacramento,CA,United States}	{Shop & Service,}
+4023	Mon Aug 23 21:36:08 +0000 2010	4bb2fb7535f0c9b634eabb83	{Prudential CA Realty}	{38.576132,-121.482167,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Mon Aug 23 06:12:31 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Sun Aug 22 19:00:39 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Sun Aug 22 06:37:05 +0000 2010	4aacb501f964a520665e20e3	{Plum Blossom}	{38.57698503,-121.481468,Sacramento,CA,United States}	{Food,}
+4023	Sat Aug 21 23:15:50 +0000 2010	4b0586b8f964a520026b22e3	{Country Club Lanes}	{38.61254479127182,-121.38157725334167,Sacramento,CA,United States}	{Government Building,Arts & Entertainment,Professional & Other Places,}
+4023	Sat Aug 21 16:49:34 +0000 2010	4b49335ef964a520db6926e3	{Hair to Dye For}	{38.58068525791168,-121.497445,Sacramento,CA,United States}	{Shop & Service,}
+4023	Sat Aug 21 16:15:05 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Sat Aug 21 06:05:54 +0000 2010	4b0586b4f964a5209d6a22e3	{Round Corner Tavern}	{38.56549663965101,-121.4788768007448,Sacramento,CA,United States}	{Nightlife Spot,}
+4023	Sat Aug 21 04:09:13 +0000 2010	4846f3a5f964a52072501fe3	{Marilyn's on K}	{38.579374,-121.49497565,Sacramento,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+4023	Sat Aug 21 03:06:45 +0000 2010	4b0586baf964a5207e6b22e3	{Crest Theatre}	{38.5791823,-121.49315059999999,Sacramento,CA,United States}	{Arts & Entertainment,Movie Theater,}
+4023	Sat Aug 21 01:14:28 +0000 2010	4acff955f964a52029d720e3	{Pyramid Alehouse Brewery}	{38.579065400000005,-121.492673,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+4023	Fri Aug 20 23:58:48 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Fri Aug 20 22:40:26 +0000 2010	4b2d9adbf964a52071d924e3	{AMPM}	{38.61874580383301,-121.267709,Rancho Cordova,CA,United States}	{Shop & Service,}
+4023	Fri Aug 20 01:10:51 +0000 2010	4ae8e696f964a52030b321e3	{Mike's Bikes of Sacramento}	{38.57993423938751,-121.486903,Sacramento,CA,United States}	{Shop & Service,}
+4023	Thu Aug 19 22:33:56 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Thu Aug 19 19:21:27 +0000 2010	4a9869f9f964a520e12b20e3	{Rubicon Brewing Co}	{38.57319116592407,-121.481106,Sacramento,CA,United States}	{Nightlife Spot,}
+4023	Wed Aug 18 23:41:52 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Tue Aug 17 21:26:30 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Tue Aug 17 19:58:46 +0000 2010	4b0586baf964a5207d6b22e3	{Luigi's Slice & Fun Garden}	{38.5759505711002,-121.48025035858154,Sacramento,CA,United States}	{Food,}
+4023	Tue Aug 17 17:10:16 +0000 2010	4bb2fb7535f0c9b634eabb83	{Prudential CA Realty}	{38.576132,-121.482167,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Mon Aug 16 22:07:32 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Mon Aug 16 19:08:24 +0000 2010	4b549f17f964a52035c327e3	{Kaiser Permanente Point West Medical Offices}	{38.5965029979059,-121.43002421989308,Sacramento,CA,United States}	{Medical Center,Professional & Other Places,}
+4023	Mon Aug 16 19:08:23 +0000 2010	4b549f17f964a52035c327e3	{Kaiser Permanente Point West Medical Offices}	{38.5965029979059,-121.43002421989308,Sacramento,CA,United States}	{Medical Center,Professional & Other Places,}
+4023	Sun Aug 15 05:26:42 +0000 2010	4b0586b4f964a5209d6a22e3	{Round Corner Tavern}	{38.56549663965101,-121.4788768007448,Sacramento,CA,United States}	{Nightlife Spot,}
+4023	Sun Aug 15 05:25:59 +0000 2010	4b0586b4f964a5209d6a22e3	{Round Corner Tavern}	{38.56549663965101,-121.4788768007448,Sacramento,CA,United States}	{Nightlife Spot,}
+4023	Sun Aug 15 05:23:47 +0000 2010	4be5f798477d9c7433b7e62d	{2nd Saturday Sacramento Art Walk}	{38.575648616367744,-121.47909164428711,Sacramento,CA,United States}	{Arts & Entertainment,}
+4023	Sun Aug 15 04:12:19 +0000 2010	4a9869f9f964a520e12b20e3	{Rubicon Brewing Co}	{38.57319116592407,-121.481106,Sacramento,CA,United States}	{Nightlife Spot,}
+4023	Sat Aug 14 16:36:30 +0000 2010	4bb2fb7535f0c9b634eabb83	{Prudential CA Realty}	{38.576132,-121.482167,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Sat Aug 14 16:20:25 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Sat Aug 14 04:12:07 +0000 2010	4bc91b9c937ca5932d4da592	{Red Lotus}	{38.573846,-121.46991,Sacramento,CA,United States}	{Food,}
+4023	Fri Aug 13 23:29:46 +0000 2010	4c09aaa0009a0f47713ee8bf	{Fallen Angel Tattoo}	{38.67440279,-121.32699551,Sacramento,CA,United States}	{Arts & Entertainment,}
+4023	Fri Aug 13 21:36:58 +0000 2010	4b6d0f04f964a5201a652ce3	{Naked Lounge}	{38.582195,-121.49101,Sacramento,CA,United States}	{Food,}
+4023	Thu Aug 12 21:34:59 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Thu Aug 12 17:32:43 +0000 2010	4bb2fb7535f0c9b634eabb83	{Prudential CA Realty}	{38.576132,-121.482167,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Thu Aug 12 15:18:29 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Thu Aug 12 03:14:24 +0000 2010	4b2c3240f964a52086c324e3	{Crush 29}	{38.75164850298746,-121.25271320343018,Roseville,CA,United States}	{Nightlife Spot,Food,}
+4023	Wed Aug 11 18:13:31 +0000 2010	4bb2fb7535f0c9b634eabb83	{Prudential CA Realty}	{38.576132,-121.482167,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Wed Aug 11 16:14:54 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Wed Aug 11 04:19:04 +0000 2010	4b9a9ba7f964a520e7c535e3	{Chase Bank}	{38.62270011303328,-121.2658583452797,Gold River,CA,United States}	{Shop & Service,}
+4023	Wed Aug 11 04:06:11 +0000 2010	4b2bef16f964a52002be24e3	{Target}	{38.59606963832948,-121.28566145896912,Rancho Cordova,CA,United States}	{Outdoors & Recreation,Shop & Service,}
+4023	Wed Aug 11 04:00:52 +0000 2010	4b5a543af964a520a8bd28e3	{PetSmart}	{38.59358933329454,-121.28504162623167,Rancho Cordova,CA,United States}	{Shop & Service,}
+4023	Wed Aug 11 02:39:38 +0000 2010	4ad92c42f964a520d61821e3	{Peet's Coffee & Tea}	{38.576519942498024,-121.48004820519706,Sacramento,CA,United States}	{Food,}
+4023	Tue Aug 10 21:35:12 +0000 2010	4bb2fb7535f0c9b634eabb83	{Prudential CA Realty}	{38.576132,-121.482167,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Tue Aug 10 20:11:22 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Tue Aug 10 17:10:01 +0000 2010	4bb2fb7535f0c9b634eabb83	{Prudential CA Realty}	{38.576132,-121.482167,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Tue Aug 10 14:51:20 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Mon Aug 09 23:58:33 +0000 2010	4bb2fb7535f0c9b634eabb83	{Prudential CA Realty}	{38.576132,-121.482167,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Fri Aug 06 21:13:27 +0000 2010	4b342477f964a520792525e3	{Orchid's Authentic Thai Cuisine}	{38.91707728,-119.998284,South Lake Tahoe,CA,United States}	{Food,}
+4023	Fri Aug 06 20:51:38 +0000 2010	4b6c9ae9f964a520fd452ce3	{picchetti winery}	{38.942752,-119.977518,South Lake Tahoe,CA,United States}	{Food,}
+4023	Fri Aug 06 18:39:59 +0000 2010	4b5b1ca4f964a520e4e328e3	{Starbucks}	{38.730822,-120.786822,Placerville,CA,United States}	{Food,}
+4023	Fri Aug 06 07:36:36 +0000 2010	4b0586b4f964a5209d6a22e3	{Round Corner Tavern}	{38.56549663965101,-121.4788768007448,Sacramento,CA,United States}	{Nightlife Spot,}
+4023	Fri Aug 06 03:31:38 +0000 2010	4b3e65b3f964a5207a9c25e3	{Sweetwater Restaurant and Bar}	{38.567282133333336,-121.485355,Sacramento,CA,United States}	{Food,}
+4023	Thu Aug 05 15:47:09 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Thu Aug 05 00:50:36 +0000 2010	4b2bef16f964a52002be24e3	{Target}	{38.59606963832948,-121.28566145896912,Rancho Cordova,CA,United States}	{Outdoors & Recreation,Shop & Service,}
+4023	Wed Aug 04 14:45:23 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Wed Aug 04 12:20:07 +0000 2010	4b1611c4f964a520c2b623e3	{24 Hour Fitness}	{38.618565,-121.268191,Gold River,CA,United States}	{Shop & Service,}
+4023	Tue Aug 03 21:39:54 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Fri Jul 30 23:03:47 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Fri Jul 30 22:35:35 +0000 2010	4b638a9af964a52015822ae3	{Cash & Carry}	{38.5954399,-121.48521296,Sacramento,CA,United States}	{Shop & Service,Food & Drink Shop,}
+4023	Fri Jul 30 19:57:07 +0000 2010	4b638a9af964a52015822ae3	{Cash & Carry}	{38.5954399,-121.48521296,Sacramento,CA,United States}	{Shop & Service,Food & Drink Shop,}
+4023	Wed Jul 28 13:15:20 +0000 2010	4b1611c4f964a520c2b623e3	{24 Hour Fitness}	{38.618565,-121.268191,Gold River,CA,United States}	{Shop & Service,}
+4023	Wed Jul 28 00:24:58 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Sun Jul 25 20:15:16 +0000 2010	4b0b36faf964a520d12e23e3	{Dad's Kitchen}	{38.55077073697565,-121.48909091949463,Sacramento,CA,United States}	{Food,}
+4023	Sat Jul 24 04:16:49 +0000 2010	4a9869f9f964a520e12b20e3	{Rubicon Brewing Co}	{38.57319116592407,-121.481106,Sacramento,CA,United States}	{Nightlife Spot,}
+4023	Sat Jul 24 02:36:27 +0000 2010	4be33a611dd22d7fc61096bd	{Cesar Chavez Plaza}	{38.58100686131936,-121.49398142562245,Sacramento,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+4023	Sat Jul 24 02:17:13 +0000 2010	4be33a611dd22d7fc61096bd	{Cesar Chavez Plaza}	{38.58100686131936,-121.49398142562245,Sacramento,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+4023	Fri Jul 23 23:45:53 +0000 2010	4b67422bf964a52054442be3	{Sofia Restaurant}	{38.58195126056671,-121.491085,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+4023	Fri Jul 23 00:46:16 +0000 2010	4b0586b3f964a520756a22e3	{Embassy Suites}	{38.57970656204091,-121.50689241034249,Sacramento,CA,United States}	{Travel & Transport,Arts & Entertainment,}
+4023	Fri Jul 23 00:46:14 +0000 2010	4b0586b3f964a520756a22e3	{Embassy Suites}	{38.57970656204091,-121.50689241034249,Sacramento,CA,United States}	{Travel & Transport,Arts & Entertainment,}
+4023	Thu Jul 22 21:01:50 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Thu Jul 22 19:41:53 +0000 2010	4b635eebf964a5201e752ae3	{Lemon Grass Asian Grill & Noodle Bar}	{38.58372388,-121.415919,Sacramento,CA,United States}	{Food,}
+4023	Wed Jul 21 00:06:23 +0000 2010	4b4fd9c0f964a520901727e3	{Blue Nami}	{38.753669119269134,-121.25196754932404,Roseville,CA,United States}	{Food,}
+4023	Tue Jul 20 02:58:35 +0000 2010	4b0586b4f964a5209d6a22e3	{Round Corner Tavern}	{38.56549663965101,-121.4788768007448,Sacramento,CA,United States}	{Nightlife Spot,}
+4023	Tue Jul 20 01:38:44 +0000 2010	4b4aa56ef964a5202b8c26e3	{Nishiki Sushi}	{38.57170211907407,-121.48780345916748,Sacramento,CA,United States}	{Food,}
+4023	Tue Jul 20 01:12:47 +0000 2010	4ac18b9ff964a520739720e3	{Hot Italian}	{38.57058649180046,-121.48831307888031,Sacramento,CA,United States}	{Food,}
+4023	Sun Jul 18 22:33:15 +0000 2010	4bfc53882fcf9521aac335b4	{Public Storage - Self Storage}	{38.660734687522606,-121.3827504844416,North Highlands,CA,United States}	{Professional & Other Places,Residence,}
+4023	Sun Jul 18 20:12:42 +0000 2010	4bfc53882fcf9521aac335b4	{Public Storage - Self Storage}	{38.660734687522606,-121.3827504844416,North Highlands,CA,United States}	{Professional & Other Places,Residence,}
+4023	Sun Jul 18 20:12:42 +0000 2010	4bfc53882fcf9521aac335b4	{Public Storage - Self Storage}	{38.660734687522606,-121.3827504844416,North Highlands,CA,United States}	{Professional & Other Places,Residence,}
+4023	Sun Jul 18 13:43:15 +0000 2010	4c01f97d3f0a9c744569a0ec	{casa de freckychex}	{38.54474614878756,-121.48560663574287,Sacramento,CA,United States}	{Residence,}
+4023	Sun Jul 18 06:36:16 +0000 2010	4b0842a6f964a520980723e3	{Badlands}	{38.57573152535455,-121.48000915857399,Sacramento,CA,United States}	{Nightlife Spot,}
+4023	Sun Jul 18 06:26:37 +0000 2010	4b4ec1e3f964a5200bf526e3	{Mercantile Saloon}	{38.574205597823095,-121.48124190985376,Sacramento,CA,United States}	{Nightlife Spot,}
+4023	Sun Jul 18 06:02:06 +0000 2010	4b0586b8f964a520296b22e3	{Pancake Circus}	{38.55995361081622,-121.48538410663605,Sacramento,CA,United States}	{Food,}
+4023	Sun Jul 18 06:01:05 +0000 2010	4b760d5ff964a52068392ee3	{Money Mart}	{38.560186,-121.48696917327737,Sacramento,CA,United States}	{Shop & Service,}
+4023	Sun Jul 18 06:00:31 +0000 2010	4bea4a8d61aca59307a18300	{Chateau Quinonez}	{38.554231940784966,-121.48560663574287,Sacramento,CA,United States}	{Residence,}
+4023	Sun Jul 18 06:00:07 +0000 2010	4ba7a05ef964a520bba339e3	{Claire & Gav's}	{38.554231940784966,-121.48560663574287,,CA,United States}	{Residence,}
+4023	Sun Jul 18 05:58:41 +0000 2010	4b0586b4f964a520816a22e3	{Gunther's Quality Ice Cream}	{38.55347718598216,-121.47565258790499,Sacramento,CA,United States}	{Food,}
+4023	Sun Jul 18 03:25:04 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Sun Jul 18 02:03:53 +0000 2010	4b3c8220f964a520c68425e3	{Forever Tattoo}	{38.562119,-121.492338,Sacramento,CA,United States}	{Shop & Service,}
+4023	Sat Jul 17 16:25:42 +0000 2010	4b638a9af964a52015822ae3	{Cash & Carry}	{38.5954399,-121.48521296,Sacramento,CA,United States}	{Shop & Service,Food & Drink Shop,}
+4023	Sat Jul 17 05:18:54 +0000 2010	4b0586b3f964a5207c6a22e3	{Old Ironsides}	{38.57024257313268,-121.49765253067017,Sacramento,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+4023	Sat Jul 17 00:13:16 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Fri Jul 16 19:48:46 +0000 2010	4b91830af964a520fac133e3	{Thai Spice}	{38.557636,-121.47674305,Sacramento,CA,United States}	{Food,}
+4023	Thu Jul 15 19:15:33 +0000 2010	4a9869f9f964a520e12b20e3	{Rubicon Brewing Co}	{38.57319116592407,-121.481106,Sacramento,CA,United States}	{Nightlife Spot,}
+4023	Thu Jul 15 18:41:44 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Thu Jul 15 18:18:44 +0000 2010	4ba93f84f964a520e6173ae3	{Core Care}	{38.60815648333333,-121.43464403333333,Sacramento,CA,United States}	{Shop & Service,}
+4023	Thu Jul 15 17:48:15 +0000 2010	4b549f17f964a52035c327e3	{Kaiser Permanente Point West Medical Offices}	{38.5965029979059,-121.43002421989308,Sacramento,CA,United States}	{Medical Center,Professional & Other Places,}
+4023	Wed Jul 14 22:11:07 +0000 2010	4b49335ef964a520db6926e3	{Hair to Dye For}	{38.58068525791168,-121.497445,Sacramento,CA,United States}	{Shop & Service,}
+4023	Wed Jul 14 14:54:09 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Tue Jul 13 21:05:54 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Tue Jul 13 20:43:09 +0000 2010	4b130878f964a520039323e3	{American Eagle Outfitters}	{38.5808823187262,-121.50003433227539,Sacramento,CA,United States}	{Shop & Service,}
+4023	Tue Jul 13 19:53:30 +0000 2010	4b369c11f964a520133925e3	{Macy's Women's}	{38.5807649,-121.5014505,Sacramento,CA,United States}	{Shop & Service,}
+4023	Tue Jul 13 19:17:36 +0000 2010	4b0586bbf964a520b96b22e3	{JMA Downtown Plaza}	{38.58078167420019,-121.49990558624268,Sacramento,CA,United States}	{Shop & Service,Food & Drink Shop,}
+4023	Tue Jul 13 16:59:47 +0000 2010	4b49335ef964a520db6926e3	{Hair to Dye For}	{38.58068525791168,-121.497445,Sacramento,CA,United States}	{Shop & Service,}
+4023	Tue Jul 13 16:11:50 +0000 2010	4b638a9af964a52015822ae3	{Cash & Carry}	{38.5954399,-121.48521296,Sacramento,CA,United States}	{Shop & Service,Food & Drink Shop,}
+4023	Tue Jul 13 16:11:50 +0000 2010	4b638a9af964a52015822ae3	{Cash & Carry}	{38.5954399,-121.48521296,Sacramento,CA,United States}	{Shop & Service,Food & Drink Shop,}
+4023	Tue Jul 13 14:40:17 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Mon Jul 12 16:32:16 +0000 2010	4abe6810f964a520548d20e3	{Sonoma State University}	{38.339501946274574,-122.67462730407715,Rohnert Park,CA,United States}	{College Academic Building,College & University,}
+4023	Mon Jul 12 00:14:02 +0000 2010	4b2bef16f964a52002be24e3	{Target}	{38.59606963832948,-121.28566145896912,Rancho Cordova,CA,United States}	{Outdoors & Recreation,Shop & Service,}
+4023	Sun Jul 11 23:09:12 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Sun Jul 11 22:46:21 +0000 2010	4bfc53882fcf9521aac335b4	{Public Storage - Self Storage}	{38.660734687522606,-121.3827504844416,North Highlands,CA,United States}	{Professional & Other Places,Residence,}
+4023	Sun Jul 11 05:23:49 +0000 2010	4a9892e0f964a520c02c20e3	{Sub-Q Piercing & Tattoo}	{38.57890994618931,-121.48282605953638,Sacramento,CA,United States}	{Shop & Service,}
+4023	Sun Jul 11 05:20:43 +0000 2010	4be5f798477d9c7433b7e62d	{2nd Saturday Sacramento Art Walk}	{38.575648616367744,-121.47909164428711,Sacramento,CA,United States}	{Arts & Entertainment,}
+4023	Sun Jul 11 02:36:34 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Sun Jul 11 00:48:08 +0000 2010	4b96dcdbf964a520a3e934e3	{Lumens Light + Living}	{38.575341,-121.47947575,Sacramento,CA,United States}	{Shop & Service,}
+4023	Sun Jul 11 00:12:55 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Sat Jul 10 17:00:22 +0000 2010	4b49335ef964a520db6926e3	{Hair to Dye For}	{38.58068525791168,-121.497445,Sacramento,CA,United States}	{Shop & Service,}
+4023	Sat Jul 10 15:36:18 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Sat Jul 10 03:11:18 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Sat Jul 10 01:12:58 +0000 2010	4be33a611dd22d7fc61096bd	{Cesar Chavez Plaza}	{38.58100686131936,-121.49398142562245,Sacramento,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+4023	Fri Jul 09 23:42:28 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Fri Jul 09 23:42:28 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Fri Jul 09 22:07:55 +0000 2010	4b2d9adbf964a52071d924e3	{AMPM}	{38.61874580383301,-121.267709,Rancho Cordova,CA,United States}	{Shop & Service,}
+4023	Fri Jul 09 14:24:20 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Fri Jul 09 06:19:24 +0000 2010	4846f3a5f964a52072501fe3	{Marilyn's on K}	{38.579374,-121.49497565,Sacramento,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+4023	Thu Jul 08 22:42:57 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Thu Jul 08 21:41:23 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Thu Jul 08 18:17:44 +0000 2010	4b6ca9cdf964a520634a2ce3	{Fremont Park}	{38.571101847014695,-121.48918475078545,Sacramento,CA,United States}	{Outdoors & Recreation,}
+4023	Thu Jul 08 00:18:31 +0000 2010	4b0586b3f964a520756a22e3	{Embassy Suites}	{38.57970656204091,-121.50689241034249,Sacramento,CA,United States}	{Travel & Transport,Arts & Entertainment,}
+4023	Wed Jul 07 23:10:53 +0000 2010	4b67422bf964a52054442be3	{Sofia Restaurant}	{38.58195126056671,-121.491085,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+4023	Wed Jul 07 18:38:54 +0000 2010	4b635eebf964a5201e752ae3	{Lemon Grass Asian Grill & Noodle Bar}	{38.58372388,-121.415919,Sacramento,CA,United States}	{Food,}
+4023	Wed Jul 07 12:50:59 +0000 2010	4b1611c4f964a520c2b623e3	{24 Hour Fitness}	{38.618565,-121.268191,Gold River,CA,United States}	{Shop & Service,}
+4023	Wed Jul 07 04:10:15 +0000 2010	4b2d9b31f964a52077d924e3	{El Pollo Loco}	{38.619297253259234,-121.26727759838104,Rancho Cordova,CA,United States}	{Food,}
+4023	Tue Jul 06 22:03:10 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Mon Jul 05 04:42:25 +0000 2010	4b46aa2ef964a520812626e3	{Chevys Fresh Mex}	{38.62194189907959,-121.26619398593903,Gold River,CA,United States}	{Food,}
+4023	Sun Jul 04 01:21:16 +0000 2010	4b947ed7f964a520647b34e3	{Safeway}	{38.6864100460072,-121.33976697921753,Sacramento,CA,United States}	{Shop & Service,Food & Drink Shop,}
+4023	Sun Jul 04 00:34:18 +0000 2010	4b2fd272f964a5209df024e3	{BevMo!}	{38.679691778974764,-121.27012218792281,Citrus Heights,CA,United States}	{Shop & Service,Food & Drink Shop,}
+4023	Sat Jul 03 22:17:35 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Sat Jul 03 03:44:28 +0000 2010	4b0b36faf964a520d12e23e3	{Dad's Kitchen}	{38.55077073697565,-121.48909091949463,Sacramento,CA,United States}	{Food,}
+4023	Sat Jul 03 02:53:21 +0000 2010	4b67422bf964a52054442be3	{Sofia Restaurant}	{38.58195126056671,-121.491085,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+4023	Sat Jul 03 01:23:03 +0000 2010	4be33a611dd22d7fc61096bd	{Cesar Chavez Plaza}	{38.58100686131936,-121.49398142562245,Sacramento,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+4023	Fri Jul 02 23:16:30 +0000 2010	4b2d9adbf964a52071d924e3	{AMPM}	{38.61874580383301,-121.267709,Rancho Cordova,CA,United States}	{Shop & Service,}
+4023	Fri Jul 02 20:15:28 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Fri Jul 02 14:45:45 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Fri Jul 02 03:27:53 +0000 2010	4b0586b4f964a520816a22e3	{Gunther's Quality Ice Cream}	{38.55347718598216,-121.47565258790499,Sacramento,CA,United States}	{Food,}
+4023	Fri Jul 02 01:30:13 +0000 2010	4b0b36faf964a520d12e23e3	{Dad's Kitchen}	{38.55077073697565,-121.48909091949463,Sacramento,CA,United States}	{Food,}
+4023	Fri Jul 02 00:52:56 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Thu Jul 01 23:47:42 +0000 2010	4b36d1fdf964a520ff3c25e3	{Jack's Urban Eats}	{38.57363737,-121.4814672,Sacramento,CA,United States}	{Food,}
+4023	Thu Jul 01 01:21:10 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Wed Jun 30 22:22:54 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Wed Jun 30 00:50:04 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Mon Jun 28 18:52:48 +0000 2010	4b5a574ff964a5208abe28e3	{US Post Office}	{38.599025383091934,-121.28064036369324,Rancho Cordova,CA,United States}	{Professional & Other Places,}
+4023	Mon Jun 28 18:50:21 +0000 2010	4bc0ca25920eb7137390192c	{Golden 1 Credit Union}	{38.59801608,-121.281588,Rancho Cordova,CA,United States}	{Shop & Service,}
+4023	Mon Jun 28 02:33:03 +0000 2010	4b1a6f25f964a52051ea23e3	{Bel Air}	{38.624951060492954,-121.26387119293213,Gold River,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+4023	Sun Jun 27 05:54:08 +0000 2010	4b0586b3f964a5207c6a22e3	{Old Ironsides}	{38.57024257313268,-121.49765253067017,Sacramento,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+4023	Sat Jun 26 01:02:11 +0000 2010	4be33a611dd22d7fc61096bd	{Cesar Chavez Plaza}	{38.58100686131936,-121.49398142562245,Sacramento,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+4023	Sat Jun 26 01:02:11 +0000 2010	4be33a611dd22d7fc61096bd	{Cesar Chavez Plaza}	{38.58100686131936,-121.49398142562245,Sacramento,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+4023	Sat Jun 26 00:03:47 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Fri Jun 25 02:34:24 +0000 2010	4ba3cd94f964a520406138e3	{Total Beauty Experience}	{38.59635578489879,-121.39631867408752,Sacramento,CA,United States}	{Shop & Service,}
+4023	Fri Jun 25 01:44:35 +0000 2010	4b0586b3f964a520756a22e3	{Embassy Suites}	{38.57970656204091,-121.50689241034249,Sacramento,CA,United States}	{Travel & Transport,Arts & Entertainment,}
+4023	Fri Jun 25 01:44:35 +0000 2010	4b0586b3f964a520756a22e3	{Embassy Suites}	{38.57970656204091,-121.50689241034249,Sacramento,CA,United States}	{Travel & Transport,Arts & Entertainment,}
+4023	Wed Jun 23 01:48:54 +0000 2010	4aa0a84af964a520334020e3	{Jimboy's Tacos}	{38.56839,-121.470372,Sacramento,CA,United States}	{Food,}
+4023	Tue Jun 22 23:53:27 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Tue Jun 22 21:44:17 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Tue Jun 22 21:28:33 +0000 2010	4bb3a14314cfd13a4b5216ab	{Golden 1 Credit Union}	{38.57504470309509,-121.4784049987793,Sacramento,CA,United States}	{Shop & Service,}
+4023	Sun Jun 20 18:04:16 +0000 2010	4c2a13ad9fb5d13a5c179c57	{City of Elk Grove}	{38.41388995469019,-121.3827504844416,Elk Grove,CA,United States}	{Outdoors & Recreation,Residence,}
+4023	Sun Jun 20 06:03:54 +0000 2010	4b0586b4f964a520996a22e3	{The Distillery}	{38.5740511,-121.4791118,Sacramento,CA,United States}	{Nightlife Spot,}
+4023	Sat Jun 19 05:22:06 +0000 2010	4b0586b3f964a5207c6a22e3	{Old Ironsides}	{38.57024257313268,-121.49765253067017,Sacramento,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+4023	Sat Jun 19 04:29:52 +0000 2010	4aacb501f964a520665e20e3	{Plum Blossom}	{38.57698503,-121.481468,Sacramento,CA,United States}	{Food,}
+4023	Sat Jun 19 02:41:30 +0000 2010	4be33a611dd22d7fc61096bd	{Cesar Chavez Plaza}	{38.58100686131936,-121.49398142562245,Sacramento,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+4023	Tue Jun 15 17:08:53 +0000 2010	4bbb9cc3e436ef3b61905564	{Real Estate with Purpose, Inc}	{38.58868751966192,-121.41697626139776,Sacramento,CA,United States}	{Shop & Service,}
+4023	Sat Jun 12 05:06:20 +0000 2010	4b0586b3f964a5207c6a22e3	{Old Ironsides}	{38.57024257313268,-121.49765253067017,Sacramento,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+4023	Sat Jun 12 01:02:03 +0000 2010	4be33a611dd22d7fc61096bd	{Cesar Chavez Plaza}	{38.58100686131936,-121.49398142562245,Sacramento,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+4023	Wed Jun 09 22:02:38 +0000 2010	4b67422bf964a52054442be3	{Sofia Restaurant}	{38.58195126056671,-121.491085,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+4023	Wed Jun 09 19:58:17 +0000 2010	4bbb9cc3e436ef3b61905564	{Real Estate with Purpose, Inc}	{38.58868751966192,-121.41697626139776,Sacramento,CA,United States}	{Shop & Service,}
+4023	Sat Jun 05 01:34:57 +0000 2010	4b1a6f25f964a52051ea23e3	{Bel Air}	{38.624951060492954,-121.26387119293213,Gold River,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+4023	Thu Jun 03 01:50:46 +0000 2010	4b1a6f25f964a52051ea23e3	{Bel Air}	{38.624951060492954,-121.26387119293213,Gold River,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+4023	Wed Jun 02 22:57:43 +0000 2010	4b67422bf964a52054442be3	{Sofia Restaurant}	{38.58195126056671,-121.491085,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+4023	Wed Jun 02 20:14:21 +0000 2010	4bbb9cc3e436ef3b61905564	{Real Estate with Purpose, Inc}	{38.58868751966192,-121.41697626139776,Sacramento,CA,United States}	{Shop & Service,}
+4023	Wed Jun 02 18:58:29 +0000 2010	4b635eebf964a5201e752ae3	{Lemon Grass Asian Grill & Noodle Bar}	{38.58372388,-121.415919,Sacramento,CA,United States}	{Food,}
+4023	Wed Jun 02 17:49:34 +0000 2010	4bbb9cc3e436ef3b61905564	{Real Estate with Purpose, Inc}	{38.58868751966192,-121.41697626139776,Sacramento,CA,United States}	{Shop & Service,}
+4023	Tue Jun 01 15:17:32 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Sat May 29 16:10:15 +0000 2010	4a7f1862f964a520c9f21fe3	{Tower Cafe}	{38.561690212474495,-121.49330735206604,Sacramento,CA,United States}	{Food,}
+4023	Sat May 29 05:22:20 +0000 2010	4b0586b3f964a5207c6a22e3	{Old Ironsides}	{38.57024257313268,-121.49765253067017,Sacramento,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+4023	Sat May 29 03:10:43 +0000 2010	4be33a611dd22d7fc61096bd	{Cesar Chavez Plaza}	{38.58100686131936,-121.49398142562245,Sacramento,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+4023	Fri May 28 17:47:56 +0000 2010	4be728062457a5935d9fad15	{Staples}	{38.68180608740032,-121.27105540679122,Citrus Heights,CA,United States}	{Shop & Service,}
+4023	Fri May 28 14:36:40 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Thu May 27 21:32:34 +0000 2010	4ba3cd94f964a520406138e3	{Total Beauty Experience}	{38.59635578489879,-121.39631867408752,Sacramento,CA,United States}	{Shop & Service,}
+4023	Thu May 27 21:32:34 +0000 2010	4ba3cd94f964a520406138e3	{Total Beauty Experience}	{38.59635578489879,-121.39631867408752,Sacramento,CA,United States}	{Shop & Service,}
+4023	Thu May 27 19:00:37 +0000 2010	4b61d6b4f964a52028262ae3	{Capital Christian Center}	{38.56083,-121.3453395,Sacramento,CA,United States}	{Spiritual Center,Arts & Entertainment,Professional & Other Places,}
+4023	Wed May 26 22:57:36 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Wed May 26 21:32:02 +0000 2010	4b638a9af964a52015822ae3	{Cash & Carry}	{38.5954399,-121.48521296,Sacramento,CA,United States}	{Shop & Service,Food & Drink Shop,}
+4023	Wed May 26 20:55:31 +0000 2010	4bfd8aabf7c82d7f51568e04	{General Produce Company}	{38.58982492079643,-121.48466676945664,Sacramento,CA,United States}	{Shop & Service,Food & Drink Shop,}
+4023	Fri May 21 17:58:09 +0000 2010	4af376d1f964a520e8ed21e3	{Bozeman, MT}	{45.67926026803102,-111.0624861717224,Bozeman,MT,United States}	{Travel & Transport,Outdoors & Recreation,}
+4023	Thu May 20 22:55:01 +0000 2010	4b783574f964a52073bc2ee3	{Cracker Barrel Old Country Store}	{46.915083191263975,-114.0355724170002,Missoula,MT,United States}	{Food,}
+4023	Wed May 19 19:59:12 +0000 2010	4bd3a03c046076b03e9c7671	{Plaza Jalisco's}	{46.552939,-122.276451,Morton,WA,United States}	{Food,}
+4023	Wed May 19 03:58:55 +0000 2010	4b5511e5f964a52017da27e3	{Rose Tree Restaurant}	{46.28696,-122.89864045,Castle Rock,WA,United States}	{Food,}
+4023	Tue May 18 20:13:58 +0000 2010	4ba7f3bcf964a52059c139e3	{Country Junction}	{42.74947643280029,-123.37175593,Glendale,OR,United States}	{Travel & Transport,}
+4023	Tue May 18 16:03:40 +0000 2010	4bc424e9dce4eee157f8719d	{Riverside Inn Resort}	{42.4434013366699,-123.324798583984,Grants Pass,OR,United States}	{Travel & Transport,}
+4023	Tue May 18 04:29:51 +0000 2010	4bbf7700b083a5934f7da3e9	{Taprock Northwest Grill}	{42.43083734063998,-123.33058834075928,Grants Pass,OR,United States}	{Food,}
+4023	Sat May 15 22:39:49 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Sat May 15 20:29:43 +0000 2010	4b0b36faf964a520d12e23e3	{Dad's Kitchen}	{38.55077073697565,-121.48909091949463,Sacramento,CA,United States}	{Food,}
+4023	Sat May 15 16:48:57 +0000 2010	4b1c20f7f964a520ba0224e3	{Hangar17 Bar & Grill}	{38.567819,-121.488634,Sacramento,CA,United States}	{Food,}
+4023	Sat May 15 15:07:15 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Fri May 14 21:54:47 +0000 2010	4b49335ef964a520db6926e3	{Hair to Dye For}	{38.58068525791168,-121.497445,Sacramento,CA,United States}	{Shop & Service,}
+4023	Fri May 14 18:40:54 +0000 2010	4b9ffaf8f964a5208b4f37e3	{UA Arden Fair 6}	{38.599331431978676,-121.4233660697937,Sacramento,CA,United States}	{Arts & Entertainment,Movie Theater,}
+4023	Thu May 13 21:56:47 +0000 2010	4b638a9af964a52015822ae3	{Cash & Carry}	{38.5954399,-121.48521296,Sacramento,CA,United States}	{Shop & Service,Food & Drink Shop,}
+4023	Thu May 13 20:58:35 +0000 2010	4b86bd7af964a520169a31e3	{Viva Supermarket}	{38.64479555970754,-121.4582692910991,Sacramento,CA,United States}	{Shop & Service,Food & Drink Shop,}
+4023	Thu May 13 17:49:23 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Thu May 13 03:04:16 +0000 2010	4b0586b4f964a520816a22e3	{Gunther's Quality Ice Cream}	{38.55347718598216,-121.47565258790499,Sacramento,CA,United States}	{Food,}
+4023	Thu May 13 01:29:47 +0000 2010	4b722413f964a520be702de3	{I Love Teriyaki}	{38.5715852,-121.480666,Sacramento,CA,United States}	{Food,Arts & Entertainment,}
+4023	Tue May 11 22:20:34 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Mon May 10 04:07:26 +0000 2010	4b0f4537f964a520026123e3	{Esquire IMAX Theatre}	{38.57840599422428,-121.49037278307716,Sacramento,CA,United States}	{Arts & Entertainment,Movie Theater,}
+4023	Sun May 09 02:05:09 +0000 2010	4b245d30f964a5208c6624e3	{Target}	{38.67261139628636,-121.27339839935303,Citrus Heights,CA,United States}	{Shop & Service,Food & Drink Shop,}
+4023	Sat May 08 21:44:29 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Sat May 08 19:39:09 +0000 2010	4b3d7107f964a520429425e3	{Costco}	{38.58833800844349,-121.2636137008667,Rancho Cordova,CA,United States}	{Shop & Service,Food & Drink Shop,}
+4023	Sat May 08 15:32:23 +0000 2010	4b86b3def964a5204d9731e3	{Starbucks}	{38.626973162789064,-121.2637209892273,Gold River,CA,United States}	{Food,}
+4023	Sat May 08 05:50:15 +0000 2010	4b0586b3f964a5207c6a22e3	{Old Ironsides}	{38.57024257313268,-121.49765253067017,Sacramento,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+4023	Fri May 07 23:56:53 +0000 2010	4b67422bf964a52054442be3	{Sofia Restaurant}	{38.58195126056671,-121.491085,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+4023	Thu May 06 02:17:48 +0000 2010	4be2265cf07b0f4719edf443	{Red Lobster}	{42.9078539,-112.46681034564972,Pocatello,ID,United States}	{Food,}
+4023	Thu May 06 01:04:59 +0000 2010	4bcf4e59046076b0020d6e71	{Black Swan Inn}	{42.867865303367985,-112.44196772575378,Pocatello,ID,United States}	{Travel & Transport,Hotel,}
+4023	Tue May 04 23:28:32 +0000 2010	4b427a37f964a520a1d425e3	{Billings Logan International Airport (BIL)}	{45.80367454985437,-108.53734731674193,Billings,MT,United States}	{Travel & Transport,}
+4023	Tue May 04 17:42:47 +0000 2010	482d61baf964a520d64f1fe3	{Denver International Airport (DEN)}	{39.85029261500981,-104.67378616333006,Denver,CO,United States}	{Travel & Transport,}
+4023	Sat May 01 23:58:07 +0000 2010	4b61ce07f964a520ec232ae3	{Roseville Hyundai}	{38.7500671112174,-121.26500844955444,Roseville,CA,United States}	{Shop & Service,}
+4023	Sat May 01 22:35:53 +0000 2010	4bdcac5a3904a5934e3d4f9e	{Robert Frost Park}	{38.68052178158756,-121.35381971103742,Sacramento,CA,United States}	{Outdoors & Recreation,}
+4023	Sat May 01 21:22:38 +0000 2010	4b312d88f964a520dd0125e3	{Target}	{38.661623,-121.34927,Sacramento,CA,United States}	{Shop & Service,}
+4023	Sat May 01 19:09:15 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Sat May 01 16:20:45 +0000 2010	4b49335ef964a520db6926e3	{Hair to Dye For}	{38.58068525791168,-121.497445,Sacramento,CA,United States}	{Shop & Service,}
+4023	Sat May 01 06:54:50 +0000 2010	4ba1a430f964a52051c537e3	{Rose room}	{38.75137215,-121.284631,Roseville,CA,United States}	{Nightlife Spot,}
+4023	Sat May 01 03:53:56 +0000 2010	4b2c3240f964a52086c324e3	{Crush 29}	{38.75164850298746,-121.25271320343018,Roseville,CA,United States}	{Nightlife Spot,Food,}
+4023	Fri Apr 30 23:30:47 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Fri Apr 30 17:53:51 +0000 2010	4bbb9cc3e436ef3b61905564	{Real Estate with Purpose, Inc}	{38.58868751966192,-121.41697626139776,Sacramento,CA,United States}	{Shop & Service,}
+4023	Fri Apr 30 05:29:47 +0000 2010	4bd7728588559521959887a7	{Chevron}	{38.63234769633039,-121.21988832950592,Rancho Cordova,CA,United States}	{Shop & Service,}
+4023	Fri Apr 30 04:13:24 +0000 2010	4aa867cbf964a520255120e3	{My BBQ Spot}	{38.57482992,-121.473039,Sacramento,CA,United States}	{Food,}
+4023	Fri Apr 30 01:42:28 +0000 2010	4bafd24cf964a5208c233ce3	{Melody Salon}	{38.567637964902595,-121.48634433746338,Sacramento,CA,United States}	{Shop & Service,}
+4023	Thu Apr 29 23:28:35 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Thu Apr 29 18:06:50 +0000 2010	4b685a93f964a52069732be3	{DMV Sacramento Office}	{38.54619335,-121.45094454288483,Sacramento,CA,United States}	{Professional & Other Places,}
+4023	Thu Apr 29 18:02:30 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Wed Apr 28 21:47:01 +0000 2010	4bbb9cc3e436ef3b61905564	{Real Estate with Purpose, Inc}	{38.58868751966192,-121.41697626139776,Sacramento,CA,United States}	{Shop & Service,}
+4023	Tue Apr 27 19:12:52 +0000 2010	4bbb9cc3e436ef3b61905564	{Real Estate with Purpose, Inc}	{38.58868751966192,-121.41697626139776,Sacramento,CA,United States}	{Shop & Service,}
+4023	Tue Apr 27 18:10:17 +0000 2010	4b549f17f964a52035c327e3	{Kaiser Permanente Point West Medical Offices}	{38.5965029979059,-121.43002421989308,Sacramento,CA,United States}	{Medical Center,Professional & Other Places,}
+4023	Tue Apr 27 16:45:46 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Tue Apr 27 00:37:30 +0000 2010	4b0586b3f964a520756a22e3	{Embassy Suites}	{38.57970656204091,-121.50689241034249,Sacramento,CA,United States}	{Travel & Transport,Arts & Entertainment,}
+4023	Mon Apr 26 16:56:38 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Mon Apr 26 00:42:51 +0000 2010	4b0586bcf964a520fc6b22e3	{UC Davis Medical Center}	{38.55410590446443,-121.45317077636719,Sacramento,CA,United States}	{Medical Center,Professional & Other Places,}
+4023	Sun Apr 25 23:55:56 +0000 2010	4bb7d2cc3db7b713689f209a	{ULTA Beauty}	{38.59572584,-121.4169073,Sacramento,CA,United States}	{Shop & Service,}
+4023	Sun Apr 25 23:48:45 +0000 2010	4ba3cd94f964a520406138e3	{Total Beauty Experience}	{38.59635578489879,-121.39631867408752,Sacramento,CA,United States}	{Shop & Service,}
+4023	Sun Apr 25 21:47:14 +0000 2010	4aa0a84af964a520334020e3	{Jimboy's Tacos}	{38.56839,-121.470372,Sacramento,CA,United States}	{Food,}
+4023	Sun Apr 25 20:37:21 +0000 2010	4ae8e696f964a52030b321e3	{Mike's Bikes of Sacramento}	{38.57993423938751,-121.486903,Sacramento,CA,United States}	{Shop & Service,}
+4023	Sun Apr 25 05:04:34 +0000 2010	4b2aeca9f964a5202bb224e3	{Walmart Supercenter}	{38.67915090593849,-121.22309893369675,Orangevale,CA,United States}	{Shop & Service,}
+4023	Sun Apr 25 02:29:33 +0000 2010	4b1a6f25f964a52051ea23e3	{Bel Air}	{38.624951060492954,-121.26387119293213,Gold River,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+4023	Sun Apr 25 00:17:40 +0000 2010	4b0586baf964a5208b6b22e3	{Century Downtown Plaza 7}	{38.581540698188114,-121.5012788772583,Sacramento,CA,United States}	{Arts & Entertainment,Movie Theater,}
+4023	Sat Apr 24 14:48:28 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Sat Apr 24 03:05:58 +0000 2010	4baeab46f964a520facc3be3	{Papa Murphy's Take 'N' Bake Pizza}	{38.62670276017703,-121.26386887174624,Gold River,CA,United States}	{Food,}
+4023	Fri Apr 23 20:06:16 +0000 2010	4a9869f9f964a520e12b20e3	{Rubicon Brewing Co}	{38.57319116592407,-121.481106,Sacramento,CA,United States}	{Nightlife Spot,}
+4023	Fri Apr 23 16:53:56 +0000 2010	4b8454e1f964a520322f31e3	{Sacramento Association of REALTORS? (SAR)}	{38.602031313564865,-121.41597926616669,Sacramento,CA,United States}	{Shop & Service,Professional & Other Places,}
+4023	Fri Apr 23 06:57:57 +0000 2010	4ab74c92f964a520d27920e3	{La Garnacha}	{38.56571473441287,-121.49053,Sacramento,CA,United States}	{Food,}
+4023	Fri Apr 23 05:26:02 +0000 2010	4b0586b3f964a5207c6a22e3	{Old Ironsides}	{38.57024257313268,-121.49765253067017,Sacramento,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+4023	Thu Apr 22 20:43:20 +0000 2010	4b11e5a2f964a520ac8623e3	{Costco}	{38.597411268058096,-121.45282208919525,Sacramento,CA,United States}	{Shop & Service,}
+4023	Thu Apr 22 19:31:54 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Thu Apr 22 15:55:09 +0000 2010	4b1611c4f964a520c2b623e3	{24 Hour Fitness}	{38.618565,-121.268191,Gold River,CA,United States}	{Shop & Service,}
+4023	Wed Apr 21 19:29:38 +0000 2010	4ba9142cf964a5207e093ae3	{Los Pinos}	{37.654249,-122.4112106,South San Francisco,CA,United States}	{Food,}
+4023	Wed Apr 21 16:23:12 +0000 2010	4ba2399df964a52005e537e3	{South San Francisco Conference Center}	{37.647466,-122.404464,South San Francisco,CA,United States}	{Professional & Other Places,}
+4023	Wed Apr 21 02:49:04 +0000 2010	4bce675eef109521872a8486	{Fast Freddie's}	{38.75199695516251,-121.28627085879256,Roseville,CA,United States}	{Food,}
+4023	Wed Apr 21 01:35:24 +0000 2010	4ba2e31bf964a520962038e3	{AMPM}	{38.72968577784257,-121.29090785980225,Roseville,CA,United States}	{Shop & Service,}
+4023	Tue Apr 20 22:37:56 +0000 2010	4b745081f964a5208ad42de3	{United Way}	{38.568952,-121.307997,Sacramento,CA,United States}	{}
+4023	Tue Apr 20 19:37:58 +0000 2010	4b49335ef964a520db6926e3	{Hair to Dye For}	{38.58068525791168,-121.497445,Sacramento,CA,United States}	{Shop & Service,}
+4023	Tue Apr 20 14:00:40 +0000 2010	4b1611c4f964a520c2b623e3	{24 Hour Fitness}	{38.618565,-121.268191,Gold River,CA,United States}	{Shop & Service,}
+4023	Mon Apr 19 23:55:51 +0000 2010	4b49335ef964a520db6926e3	{Hair to Dye For}	{38.58068525791168,-121.497445,Sacramento,CA,United States}	{Shop & Service,}
+4023	Mon Apr 19 23:55:51 +0000 2010	4b49335ef964a520db6926e3	{Hair to Dye For}	{38.58068525791168,-121.497445,Sacramento,CA,United States}	{Shop & Service,}
+4023	Mon Apr 19 23:02:32 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Mon Apr 19 23:02:31 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Mon Apr 19 13:58:02 +0000 2010	4b1611c4f964a520c2b623e3	{24 Hour Fitness}	{38.618565,-121.268191,Gold River,CA,United States}	{Shop & Service,}
+4023	Sun Apr 18 21:30:15 +0000 2010	4b2d9adbf964a52071d924e3	{AMPM}	{38.61874580383301,-121.267709,Rancho Cordova,CA,United States}	{Shop & Service,}
+4023	Sun Apr 18 21:30:15 +0000 2010	4b2d9adbf964a52071d924e3	{AMPM}	{38.61874580383301,-121.267709,Rancho Cordova,CA,United States}	{Shop & Service,}
+4023	Sun Apr 18 18:12:37 +0000 2010	4b71ba77f964a520d7582de3	{Sheldon High School}	{38.455437099289256,-121.34777069091797,Sacramento,CA,United States}	{School,Professional & Other Places,}
+4023	Sat Apr 17 23:52:02 +0000 2010	4b76f459f964a5201f6e2ee3	{Coloma Community Center}	{38.55683265600236,-121.45081043243408,Sacramento,CA,United States}	{Outdoors & Recreation,Professional & Other Places,}
+4023	Sat Apr 17 23:34:52 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Sat Apr 17 15:10:53 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Sat Apr 17 06:16:00 +0000 2010	4aacb501f964a520665e20e3	{Plum Blossom}	{38.57698503,-121.481468,Sacramento,CA,United States}	{Food,}
+4023	Sat Apr 17 00:23:12 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Fri Apr 16 19:14:43 +0000 2010	4a9869f9f964a520e12b20e3	{Rubicon Brewing Co}	{38.57319116592407,-121.481106,Sacramento,CA,United States}	{Nightlife Spot,}
+4023	Fri Apr 16 16:15:25 +0000 2010	4b8454e1f964a520322f31e3	{Sacramento Association of REALTORS? (SAR)}	{38.602031313564865,-121.41597926616669,Sacramento,CA,United States}	{Shop & Service,Professional & Other Places,}
+4023	Fri Apr 16 15:08:49 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Fri Apr 16 02:44:33 +0000 2010	4b46aa2ef964a520812626e3	{Chevys Fresh Mex}	{38.62194189907959,-121.26619398593903,Gold River,CA,United States}	{Food,}
+4023	Thu Apr 15 01:17:43 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Thu Apr 15 00:50:27 +0000 2010	4bbd2f06a0a0c9b689641b0f	{Restoration Life}	{38.560895,-121.487743,Sacramento,CA,United States}	{Spiritual Center,Professional & Other Places,}
+4023	Thu Apr 15 00:50:27 +0000 2010	4bbd2f06a0a0c9b689641b0f	{Restoration Life}	{38.560895,-121.487743,Sacramento,CA,United States}	{Spiritual Center,Professional & Other Places,}
+4023	Wed Apr 14 20:07:10 +0000 2010	4a7f1862f964a520c9f21fe3	{Tower Cafe}	{38.561690212474495,-121.49330735206604,Sacramento,CA,United States}	{Food,}
+4023	Wed Apr 14 15:59:06 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Tue Apr 13 13:26:05 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Tue Apr 13 12:49:27 +0000 2010	4b1611c4f964a520c2b623e3	{24 Hour Fitness}	{38.618565,-121.268191,Gold River,CA,United States}	{Shop & Service,}
+4023	Tue Apr 13 12:49:27 +0000 2010	4b1611c4f964a520c2b623e3	{24 Hour Fitness}	{38.618565,-121.268191,Gold River,CA,United States}	{Shop & Service,}
+4023	Mon Apr 12 16:46:29 +0000 2010	4b99992df964a520808635e3	{Glenbrook Park}	{38.55927405961512,-121.39034271240234,Sacramento,CA,United States}	{Outdoors & Recreation,}
+4023	Sun Apr 11 14:13:43 +0000 2010	4b7c78d4f964a52085952fe3	{McDonald's}	{38.55055048462015,-121.48853838443756,Sacramento,CA,United States}	{Food,}
+4023	Sun Apr 11 02:07:05 +0000 2010	4cc88486786e4688aeb08e09	{Mondo Bizarro Cafe}	{38.5782927274704,-121.48104965686798,Sacramento,CA,United States}	{Food,}
+4023	Sat Apr 10 16:48:22 +0000 2010	4b49335ef964a520db6926e3	{Hair to Dye For}	{38.58068525791168,-121.497445,Sacramento,CA,United States}	{Shop & Service,}
+4023	Sat Apr 10 14:20:21 +0000 2010	4b0586b5f964a520a86a22e3	{Lucky Cafe}	{38.57483716451536,-121.47906087937658,Sacramento,CA,United States}	{Food,}
+4023	Sat Apr 10 06:38:37 +0000 2010	4add09f3f964a520aa6321e3	{Carmelita's Mexican Restaurant}	{38.63971,-121.27070068,Fair Oaks,CA,United States}	{Food,}
+4023	Sat Apr 10 02:07:05 +0000 2010	4b5c9c34f964a520b83929e3	{Starbucks}	{38.425282,-121.482344,Elk Grove,CA,United States}	{Food,}
+4023	Fri Apr 09 18:57:02 +0000 2010	4a873060f964a520280320e3	{Hyatt Regency Sacramento}	{38.577373,-121.491578,Sacramento,CA,United States}	{Travel & Transport,Hotel,}
+4023	Fri Apr 09 16:55:35 +0000 2010	4b8454e1f964a520322f31e3	{Sacramento Association of REALTORS? (SAR)}	{38.602031313564865,-121.41597926616669,Sacramento,CA,United States}	{Shop & Service,Professional & Other Places,}
+4023	Thu Apr 08 23:09:28 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Thu Apr 08 13:54:12 +0000 2010	4b1611c4f964a520c2b623e3	{24 Hour Fitness}	{38.618565,-121.268191,Gold River,CA,United States}	{Shop & Service,}
+4023	Thu Apr 08 13:54:11 +0000 2010	4b1611c4f964a520c2b623e3	{24 Hour Fitness}	{38.618565,-121.268191,Gold River,CA,United States}	{Shop & Service,}
+4023	Thu Apr 08 04:19:00 +0000 2010	4b1611c4f964a520c2b623e3	{24 Hour Fitness}	{38.618565,-121.268191,Gold River,CA,United States}	{Shop & Service,}
+4023	Thu Apr 08 01:40:14 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Thu Apr 08 01:19:25 +0000 2010	4bbd2f06a0a0c9b689641b0f	{Restoration Life}	{38.560895,-121.487743,Sacramento,CA,United States}	{Spiritual Center,Professional & Other Places,}
+4023	Wed Apr 07 20:42:48 +0000 2010	4bbb9cc3e436ef3b61905564	{Real Estate with Purpose, Inc}	{38.58868751966192,-121.41697626139776,Sacramento,CA,United States}	{Shop & Service,}
+4023	Wed Apr 07 20:42:48 +0000 2010	4bbb9cc3e436ef3b61905564	{Real Estate with Purpose, Inc}	{38.58868751966192,-121.41697626139776,Sacramento,CA,United States}	{Shop & Service,}
+4023	Wed Apr 07 19:20:00 +0000 2010	4b635eebf964a5201e752ae3	{Lemon Grass Asian Grill & Noodle Bar}	{38.58372388,-121.415919,Sacramento,CA,United States}	{Food,}
+4023	Wed Apr 07 15:39:41 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Wed Apr 07 15:39:41 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Wed Apr 07 03:57:40 +0000 2010	4b1611c4f964a520c2b623e3	{24 Hour Fitness}	{38.618565,-121.268191,Gold River,CA,United States}	{Shop & Service,}
+4023	Wed Apr 07 00:30:23 +0000 2010	4b6d0f04f964a5201a652ce3	{Naked Lounge}	{38.582195,-121.49101,Sacramento,CA,United States}	{Food,}
+4023	Tue Apr 06 23:46:05 +0000 2010	4bbb9cc3e436ef3b61905564	{Real Estate with Purpose, Inc}	{38.58868751966192,-121.41697626139776,Sacramento,CA,United States}	{Shop & Service,}
+4023	Tue Apr 06 23:45:27 +0000 2010	4b312bc6f964a520b30125e3	{Jim-Denny's}	{38.58116144721484,-121.49028354164119,Sacramento,CA,United States}	{Food,}
+4023	Tue Apr 06 18:22:47 +0000 2010	4e180ff618a8166f7387f9b0	{Evolution Cards & Comics}	{38.409161910060234,-121.36649508283034,Elk Grove,CA,United States}	{Shop & Service,}
+4023	Tue Apr 06 17:02:54 +0000 2010	4b82c328f964a5202be330e3	{Carl's Jr.}	{38.61772257013679,-121.26883690430978,Rancho Cordova,CA,United States}	{Food,}
+4023	Tue Apr 06 16:45:39 +0000 2010	4b2d9adbf964a52071d924e3	{AMPM}	{38.61874580383301,-121.267709,Rancho Cordova,CA,United States}	{Shop & Service,}
+4023	Tue Apr 06 13:37:20 +0000 2010	4b1611c4f964a520c2b623e3	{24 Hour Fitness}	{38.618565,-121.268191,Gold River,CA,United States}	{Shop & Service,}
+4023	Tue Apr 06 03:15:10 +0000 2010	4b1a6f25f964a52051ea23e3	{Bel Air}	{38.624951060492954,-121.26387119293213,Gold River,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+4023	Tue Apr 06 02:21:13 +0000 2010	4b1611c4f964a520c2b623e3	{24 Hour Fitness}	{38.618565,-121.268191,Gold River,CA,United States}	{Shop & Service,}
+4023	Tue Apr 06 01:15:43 +0000 2010	4bad403ef964a5201d3e3be3	{Midtown Sacramento}	{38.57219282182542,-121.48235321044922,Sacramento,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+4023	Tue Apr 06 00:59:13 +0000 2010	4b6c6b2ff964a5209a382ce3	{Rite Aid}	{38.58037129120147,-121.47449787381206,Sacramento,CA,United States}	{Shop & Service,}
+4023	Tue Apr 06 00:09:43 +0000 2010	4b159cd6f964a52023b123e3	{Chipotle Mexican Grill}	{38.57402965,-121.48269776,Sacramento,CA,United States}	{Food,}

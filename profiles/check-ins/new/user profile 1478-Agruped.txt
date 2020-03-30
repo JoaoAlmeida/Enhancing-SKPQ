@@ -1,0 +1,619 @@
+1478	Sun Dec 04 22:13:37 +0000 2011	4c96340e94a0236a3db29c12	{SAHAGUN FAMILIA}	{36.77920201694465,-119.82944298287919,Fresno,CA,United States}	{Residence,}
+1478	Thu Nov 24 22:25:17 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+===
+1478	Wed Aug 10 00:21:00 +0000 2011	4bef264ac80dc928a09327e3	{Cage aux sports Saint-Eustache}	{45.57041953,-73.90822,Saint-Eustache,QC,Canada}	{Food,}
+1478	Tue Aug 09 00:48:32 +0000 2011	4b279e07f964a520d48724e3	{Terminal A West}	{39.87450440782539,-75.25128364562988,Philadelphia,PA,United States}	{Travel & Transport,Airport,}
+1478	Tue Aug 09 00:48:10 +0000 2011	411c0480f964a5201a0c1fe3	{Philadelphia International Airport (PHL)}	{39.87700745276243,-75.2424430847168,Philadelphia,PA,United States}	{Travel & Transport,}
+1478	Mon Aug 08 23:21:12 +0000 2011	4db4dbae4b226b343d95f8b3	{SEPTA Terminal C & D Station}	{39.877220513076495,-75.24164205802514,Philadelphia,PA,United States}	{Travel & Transport,Train Station,}
+1478	Mon Aug 08 23:18:34 +0000 2011	411c0480f964a5201a0c1fe3	{Philadelphia International Airport (PHL)}	{39.87700745276243,-75.2424430847168,Philadelphia,PA,United States}	{Travel & Transport,}
+1478	Mon Aug 08 18:41:01 +0000 2011	4a987934f964a5203b2c20e3	{Red Devil Italian Restaurant & Pizzeria}	{33.46608011,-112.01560343333334,Phoenix,AZ,United States}	{Food,}
+1478	Mon Aug 08 16:45:36 +0000 2011	4db62bf593a017099dfbc1eb	{Bank of America ATM}	{33.436549818259515,-111.99758262503205,Phoenix,AZ,United States}	{Shop & Service,}
+1478	Mon Aug 08 16:43:22 +0000 2011	4ccf66bede0f6dcbe0106463	{Gate B22}	{33.437263,-111.994201,Phoenix,AZ,United States}	{Travel & Transport,Airport,}
+1478	Mon Aug 08 14:27:27 +0000 2011	4be1c277edbb0f476497a615	{Gate 17}	{36.77184405,-119.71806049346924,Fresno,CA,United States}	{Travel & Transport,Airport,}
+1478	Mon Aug 08 14:26:27 +0000 2011	4ae48723f964a520529b21e3	{Fresno Yosemite International Airport (FAT)}	{36.77094484549716,-119.71966682734505,Fresno,CA,United States}	{Travel & Transport,}
+1478	Sat Aug 06 20:32:16 +0000 2011	4cd487b267c7236a75cb0d77	{Buffalo Wild Wings}	{36.808116470278016,-119.73565578460693,Fresno,CA,United States}	{Food,}
+1478	Sat Aug 06 20:03:21 +0000 2011	4c96340e94a0236a3db29c12	{SAHAGUN FAMILIA}	{36.77920201694465,-119.82944298287919,Fresno,CA,United States}	{Residence,}
+1478	Sat Aug 06 18:25:06 +0000 2011	4b346bb3f964a520712725e3	{Holy Family Catholic Church}	{36.51312,-119.549684,Kingsburg,CA,United States}	{Spiritual Center,Professional & Other Places,}
+1478	Fri Aug 05 21:23:14 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Fri Aug 05 19:37:22 +0000 2011	4b4fb83df964a520781227e3	{Panda Express}	{36.84782008,-119.791537,Fresno,CA,United States}	{Food,}
+1478	Fri Aug 05 19:11:56 +0000 2011	4b773627f964a52037882ee3	{Lowe's Home Improvement}	{36.845745,-119.791442,Fresno,CA,United States}	{Shop & Service,}
+1478	Fri Aug 05 17:57:20 +0000 2011	4e3c2cc2b61cb577be65b952	{G & M Auto Service}	{36.74295464,-119.74988076,Fresno,,United States}	{Shop & Service,}
+1478	Fri Aug 05 16:56:24 +0000 2011	4c96340e94a0236a3db29c12	{SAHAGUN FAMILIA}	{36.77920201694465,-119.82944298287919,Fresno,CA,United States}	{Residence,}
+1478	Fri Aug 05 03:29:33 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Thu Aug 04 20:39:33 +0000 2011	4b300288f964a5205ff424e3	{Walmart Supercenter}	{36.57750822744881,-119.63403878849078,Selma,CA,United States}	{Shop & Service,}
+1478	Thu Aug 04 07:15:07 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Thu Aug 04 05:51:54 +0000 2011	4b92de5df964a520f32234e3	{Cinemark Movies 8}	{36.323631358800064,-119.66926574707031,Hanford,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1478	Thu Aug 04 05:51:35 +0000 2011	4b1815cff964a520b3cc23e3	{Hanford Mall}	{36.325277880623695,-119.67005823689475,Hanford,CA,United States}	{Shop & Service,}
+1478	Thu Aug 04 01:33:59 +0000 2011	4b55d148f964a52055f127e3	{Reagan Elementary School}	{36.51178326525444,-119.572255324468,Kingsburg,CA,United States}	{Outdoors & Recreation,College & University,Professional & Other Places,}
+1478	Thu Aug 04 01:33:13 +0000 2011	4caea6771168a093884c1c23	{Athwal Park}	{36.5138535843692,-119.56950348613769,Kingsburg,CA,United States}	{Outdoors & Recreation,}
+1478	Thu Aug 04 01:32:16 +0000 2011	4b346bb3f964a520712725e3	{Holy Family Catholic Church}	{36.51312,-119.549684,Kingsburg,CA,United States}	{Spiritual Center,Professional & Other Places,}
+1478	Wed Aug 03 23:51:30 +0000 2011	4bc4d819b492d13acea6aa60	{EECU ATM}	{36.517737,-119.55729701666667,Kingsburg,CA,United States}	{Shop & Service,}
+1478	Wed Aug 03 22:32:01 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Tue Aug 02 00:55:19 +0000 2011	4bafa582f964a52071133ce3	{Perkos Caf?}	{37.98816392662549,-121.2441301345825,Stockton,CA,United States}	{Food,}
+1478	Mon Aug 01 22:12:46 +0000 2011	4c5cc9d57f661b8d19c6491c	{Bass Pro Shop}	{38.010912089385506,-121.29289445662563,Stockton,CA,United States}	{Shop & Service,}
+1478	Mon Aug 01 15:41:02 +0000 2011	4d6e77ee2e6ea093ab301e50	{Linden}	{38.01907432590973,-121.09025926108657,Linden,CA,United States}	{Outdoors & Recreation,}
+1478	Mon Aug 01 12:29:32 +0000 2011	4bc4d819b492d13acea6aa60	{EECU ATM}	{36.517737,-119.55729701666667,Kingsburg,CA,United States}	{Shop & Service,}
+1478	Mon Aug 01 07:54:16 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Sun Jul 31 10:39:35 +0000 2011	4b54b29df964a520afc727e3	{The Chaz House}	{36.59010752764888,-119.62093879287008,Selma,CA,United States}	{Residence,}
+1478	Sun Jul 31 02:07:02 +0000 2011	4b64e4f8f964a52013d82ae3	{Forever 21}	{36.32495117291923,-119.67113330321531,Hanford,CA,United States}	{Shop & Service,Clothing Store,}
+1478	Sun Jul 31 02:06:31 +0000 2011	4bb4e107bc82a5935efe3e72	{Chili's Grill & Bar}	{36.32315492608597,-119.67257614250882,Hanford,CA,United States}	{Food,}
+1478	Sat Jul 30 17:27:04 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Sat Jul 30 17:23:34 +0000 2011	4caea6771168a093884c1c23	{Athwal Park}	{36.5138535843692,-119.56950348613769,Kingsburg,CA,United States}	{Outdoors & Recreation,}
+1478	Fri Jul 29 18:17:56 +0000 2011	44d9ff60f964a5208b361fe3	{Dallas/Fort Worth International Airport (DFW)}	{32.89803818160521,-97.04086303710938,DFW Airport,TX,United States}	{Travel & Transport,}
+1478	Fri Jul 29 18:17:33 +0000 2011	4ad77b18f964a5203c0b21e3	{Montr?al Int'l Airport Pierre-Elliott-Trudeau (YUL)}	{45.45856536135167,-73.74967575073242,Dorval,QC,Canada}	{Travel & Transport,}
+1478	Fri Jul 29 00:11:39 +0000 2011	4bef264ac80dc928a09327e3	{Cage aux sports Saint-Eustache}	{45.57041953,-73.90822,Saint-Eustache,QC,Canada}	{Food,}
+1478	Wed Jul 27 20:04:31 +0000 2011	4bc9e0f268f976b0e4055e83	{Complexe Multisport St-Eustache}	{45.573497415753785,-73.90756130218506,St-Eustache,Qu?bec/Canada,Canada}	{College & University,College Stadium,}
+1478	Wed Jul 27 20:03:59 +0000 2011	4d11f659957fa1cd14716a9f	{Banque Royale}	{45.56604597145484,-73.90708150692443,Ste-Eustache,QC,Canada}	{Shop & Service,}
+1478	Wed Jul 27 20:03:47 +0000 2011	4bede5af2c082d7f11b22f42	{Loblaws}	{45.573237161251136,-73.91195470614538,Saint-Eustache,QC,Canada}	{Shop & Service,Food & Drink Shop,}
+1478	Tue Jul 26 10:15:10 +0000 2011	4bf9832b5efe2d7f9d5c6c34	{Rona}	{45.54004669189453,-73.92517268657684,Ste-Marthe-sur-le-Lac,Quebec,Canada}	{Shop & Service,}
+1478	Mon Jul 25 22:03:40 +0000 2011	4e21ddf5d1647406320afea1	{Nid D'Autruche}	{45.5634,-73.950008,Saint-Eustache,QC,Canada}	{Outdoors & Recreation,}
+1478	Mon Jul 25 20:36:57 +0000 2011	4c12e570b7b9c92813b7a837	{Cin?ma St-Eustache}	{45.579159759387046,-73.87685537338257,Saint-Eustache,QC,Canada}	{Arts & Entertainment,}
+1478	Mon Jul 25 20:36:42 +0000 2011	4c1c3aaceac020a1c74d46c2	{Cine-Parc St-Eustache}	{45.5815480422401,-73.86765047615685,St-Eustache,QC,Canada}	{Arts & Entertainment,}
+1478	Mon Jul 25 12:18:27 +0000 2011	4dfcce5662846d918b9565a2	{Tim Hortons}	{45.27166390502692,-74.11894979945487,Salaberry-de-Valleyfield,QC,Canada}	{Food,}
+1478	Mon Jul 25 12:18:07 +0000 2011	4bca035cfb84c9b66a281c3e	{Walmart}	{45.27034061840116,-74.11898077496367,,,Canada}	{Shop & Service,}
+1478	Sun Jul 24 23:24:30 +0000 2011	4d11f659957fa1cd14716a9f	{Banque Royale}	{45.56604597145484,-73.90708150692443,Ste-Eustache,QC,Canada}	{Shop & Service,}
+1478	Sun Jul 24 21:15:36 +0000 2011	4bede5af2c082d7f11b22f42	{Loblaws}	{45.573237161251136,-73.91195470614538,Saint-Eustache,QC,Canada}	{Shop & Service,Food & Drink Shop,}
+1478	Sun Jul 24 20:57:53 +0000 2011	4c138163a5eb76b06cfdbfb7	{Parc Rivi?re-Nord}	{45.57501636,-73.929108,,,Canada}	{Outdoors & Recreation,}
+1478	Sun Jul 24 20:53:11 +0000 2011	4c2789fbf1272d7fc25488c5	{Walmart}	{45.57837789441456,-73.92004324717011,Saint-Eustache,QC,Canada}	{Shop & Service,}
+1478	Sun Jul 24 20:30:22 +0000 2011	4e1a0ff2d4c062b044f7ea8d	{Rotisserie St-hubert St-eustache}	{45.573897759233596,-73.9136004200976,,,Canada}	{Food,}
+1478	Sun Jul 24 03:47:59 +0000 2011	4dbd76054b222080d3a975a4	{Auberge St-Eustache}	{45.57060394670306,-73.90932182228791,Saint-Eustache,QC,Canada}	{Travel & Transport,Hotel,}
+1478	Sun Jul 24 03:47:24 +0000 2011	4bfd5d43e529c92880cfba8c	{Plage Oka}	{45.465085491707576,-74.04062311459083,Oka,QC,Canada}	{Outdoors & Recreation,}
+1478	Sat Jul 23 19:00:04 +0000 2011	4bfd5d43e529c92880cfba8c	{Plage Oka}	{45.465085491707576,-74.04062311459083,Oka,QC,Canada}	{Outdoors & Recreation,}
+1478	Sat Jul 23 18:14:33 +0000 2011	4d5466de143ca093fbd0a3fc	{Centre Communautaire de Saint Joseph du Lac}	{45.533847,-74.006523,Saint-Joseph-du-Lac,Qu?bec,Canada}	{Convention Center,Professional & Other Places,}
+1478	Sat Jul 23 18:14:01 +0000 2011	4c6feb33b5a5236a357c4e52	{Verger Lafrance}	{45.54176229303039,-74.01281350409583,,,Canada}	{Outdoors & Recreation,}
+1478	Sat Jul 23 11:13:26 +0000 2011	4cf2a57d6c29236ab2b26ca2	{?glise de St-Joseph-du-Lac}	{45.533844,-74.0048288757983,,,Canada}	{Spiritual Center,Professional & Other Places,}
+1478	Sat Jul 23 11:12:58 +0000 2011	4c6feb33b5a5236a357c4e52	{Verger Lafrance}	{45.54176229303039,-74.01281350409583,,,Canada}	{Outdoors & Recreation,}
+1478	Sat Jul 23 10:47:08 +0000 2011	4bede5af2c082d7f11b22f42	{Loblaws}	{45.573237161251136,-73.91195470614538,Saint-Eustache,QC,Canada}	{Shop & Service,Food & Drink Shop,}
+1478	Sat Jul 23 10:20:21 +0000 2011	4dbd76054b222080d3a975a4	{Auberge St-Eustache}	{45.57060394670306,-73.90932182228791,Saint-Eustache,QC,Canada}	{Travel & Transport,Hotel,}
+1478	Sat Jul 23 03:57:40 +0000 2011	4dbd76054b222080d3a975a4	{Auberge St-Eustache}	{45.57060394670306,-73.90932182228791,Saint-Eustache,QC,Canada}	{Travel & Transport,Hotel,}
+1478	Sat Jul 23 00:42:56 +0000 2011	4d11f659957fa1cd14716a9f	{Banque Royale}	{45.56604597145484,-73.90708150692443,Ste-Eustache,QC,Canada}	{Shop & Service,}
+1478	Sat Jul 23 00:13:47 +0000 2011	4dbd76054b222080d3a975a4	{Auberge St-Eustache}	{45.57060394670306,-73.90932182228791,Saint-Eustache,QC,Canada}	{Travel & Transport,Hotel,}
+1478	Fri Jul 22 22:57:55 +0000 2011	4c5b224004f9be9a6788f360	{Parc Bretagne}	{45.622363,-73.856091,,,Canada}	{Outdoors & Recreation,}
+1478	Fri Jul 22 16:51:08 +0000 2011	4dfab272483b085eeda23002	{Court de tennis du Parc Ren?-L?vesque}	{45.62056,-73.86282,Boisbriand,QC,Canada}	{Outdoors & Recreation,Stadium,Arts & Entertainment,}
+1478	Fri Jul 22 16:38:53 +0000 2011	4bfc53e21be376b0dd7ff8b4	{Subway St-Joseph-du-Lac}	{45.51350762633506,-73.97706647768464,,,Canada}	{Food,}
+1478	Fri Jul 22 16:38:34 +0000 2011	4bfd5d43e529c92880cfba8c	{Plage Oka}	{45.465085491707576,-74.04062311459083,Oka,QC,Canada}	{Outdoors & Recreation,}
+1478	Fri Jul 22 13:51:19 +0000 2011	4c0a75bc009a0f473561e9bf	{Parc clair matin}	{45.570621333153156,-73.88498610269092,Saint-Eustache,QC,Canada}	{Outdoors & Recreation,}
+1478	Fri Jul 22 13:51:00 +0000 2011	4e247343c65b2b5e3564928a	{Caisse Desjardins St-Eustache}	{45.560793,-73.887094,Saint-Eustache,Qu?bec,Canada}	{Shop & Service,}
+1478	Fri Jul 22 11:44:16 +0000 2011	4bca035cfb84c9b66a281c3e	{Walmart}	{45.27034061840116,-74.11898077496367,,,Canada}	{Shop & Service,}
+1478	Fri Jul 22 11:44:16 +0000 2011	4bca035cfb84c9b66a281c3e	{Walmart}	{45.27034061840116,-74.11898077496367,,,Canada}	{Shop & Service,}
+1478	Thu Jul 21 15:54:42 +0000 2011	4bca035cfb84c9b66a281c3e	{Walmart}	{45.27034061840116,-74.11898077496367,,,Canada}	{Shop & Service,}
+1478	Thu Jul 21 10:48:06 +0000 2011	4bede5af2c082d7f11b22f42	{Loblaws}	{45.573237161251136,-73.91195470614538,Saint-Eustache,QC,Canada}	{Shop & Service,Food & Drink Shop,}
+1478	Thu Jul 21 10:48:06 +0000 2011	4bede5af2c082d7f11b22f42	{Loblaws}	{45.573237161251136,-73.91195470614538,Saint-Eustache,QC,Canada}	{Shop & Service,Food & Drink Shop,}
+1478	Thu Jul 21 10:45:06 +0000 2011	4dbd76054b222080d3a975a4	{Auberge St-Eustache}	{45.57060394670306,-73.90932182228791,Saint-Eustache,QC,Canada}	{Travel & Transport,Hotel,}
+1478	Thu Jul 21 10:44:45 +0000 2011	4c234a5d11de20a1ae1f86ce	{Tim Hortons}	{45.566765,-73.907834,Saint-Eustache,PQ,Canada}	{Food,}
+1478	Wed Jul 20 22:40:52 +0000 2011	4bb743e7f562ef3b052b3197	{Friand'oeuf}	{45.57043,-73.90826,Saint-Eustache,QC,Canada}	{Food,}
+1478	Tue Jul 19 22:45:40 +0000 2011	4dbd76054b222080d3a975a4	{Auberge St-Eustache}	{45.57060394670306,-73.90932182228791,Saint-Eustache,QC,Canada}	{Travel & Transport,Hotel,}
+1478	Tue Jul 19 16:49:35 +0000 2011	4c39c92418e72d7f9bb31af5	{Super Aqua Club}	{45.50361752158404,-73.97469421430807,Pointe-Calumet,QC,Canada}	{Arts & Entertainment,}
+1478	Tue Jul 19 11:13:58 +0000 2011	4c234a5d11de20a1ae1f86ce	{Tim Hortons}	{45.566765,-73.907834,Saint-Eustache,PQ,Canada}	{Food,}
+1478	Mon Jul 18 22:20:49 +0000 2011	4dbd76054b222080d3a975a4	{Auberge St-Eustache}	{45.57060394670306,-73.90932182228791,Saint-Eustache,QC,Canada}	{Travel & Transport,Hotel,}
+1478	Mon Jul 18 17:13:27 +0000 2011	4bfd5d43e529c92880cfba8c	{Plage Oka}	{45.465085491707576,-74.04062311459083,Oka,QC,Canada}	{Outdoors & Recreation,}
+1478	Mon Jul 18 14:36:17 +0000 2011	4d0a6f50972660fcddda6e1c	{Nettoyeur Daoust-Forget - Deux-Montagnes}	{45.54162467144687,-73.92036106945123,Deux-Montagnes,Qu?bec,Canada}	{Shop & Service,}
+1478	Mon Jul 18 11:15:17 +0000 2011	4bee4c4de24d20a155ce7214	{Tim Hortons}	{45.529927358462345,-73.93401770898961,Sainte-Marthe-sur-le-Lac,QC,Canada}	{Food,}
+1478	Mon Jul 18 02:32:38 +0000 2011	4dbd76054b222080d3a975a4	{Auberge St-Eustache}	{45.57060394670306,-73.90932182228791,Saint-Eustache,QC,Canada}	{Travel & Transport,Hotel,}
+1478	Mon Jul 18 01:46:37 +0000 2011	4dbd76054b222080d3a975a4	{Auberge St-Eustache}	{45.57060394670306,-73.90932182228791,Saint-Eustache,QC,Canada}	{Travel & Transport,Hotel,}
+1478	Sun Jul 17 23:16:14 +0000 2011	4bb743e7f562ef3b052b3197	{Friand'oeuf}	{45.57043,-73.90826,Saint-Eustache,QC,Canada}	{Food,}
+1478	Sun Jul 17 23:13:48 +0000 2011	4bede5af2c082d7f11b22f42	{Loblaws}	{45.573237161251136,-73.91195470614538,Saint-Eustache,QC,Canada}	{Shop & Service,Food & Drink Shop,}
+1478	Sun Jul 17 22:26:43 +0000 2011	4c6ff6d2b3ce224b344072c6	{Resto Coco}	{45.57167488244662,-73.91174330759942,Saint-Eustache,PQ,Canada}	{Food,}
+1478	Sun Jul 17 22:26:24 +0000 2011	4de6e4b41f6e3966097470f5	{Le Four}	{45.571281992516774,-73.90647736930136,Saint-Eustache,QC,Canada}	{Food,}
+1478	Sun Jul 17 18:11:57 +0000 2011	4dbd76054b222080d3a975a4	{Auberge St-Eustache}	{45.57060394670306,-73.90932182228791,Saint-Eustache,QC,Canada}	{Travel & Transport,Hotel,}
+1478	Sun Jul 17 18:05:57 +0000 2011	4c90ff031adc3704b8542cd1	{Esso Marche Express}	{45.566610558204246,-73.90750375672287,Saint-Eustache,Quebec,Canada}	{Shop & Service,}
+1478	Sun Jul 17 17:29:00 +0000 2011	4d45a0001911a093c2f5e3d8	{D-Tox}	{45.630786,-73.819219,Rosem?re,QC,Canada}	{Shop & Service,Clothing Store,}
+1478	Sun Jul 17 17:17:24 +0000 2011	4df3f21752b100c2d7fc9e9a	{Banque CIBC}	{45.62846,-73.810001,Rosem?re,QC,Canada}	{Shop & Service,}
+1478	Sun Jul 17 17:08:23 +0000 2011	4c6eef8fd7fab1f779df59c9	{H&M}	{45.630579,-73.819101,Rosem?re,QC,Canada}	{Shop & Service,}
+1478	Sun Jul 17 16:59:52 +0000 2011	4e1ddd8eb61c7cb34d963bd4	{Caf? Van Houtte Rosem?re}	{45.632970438238274,-73.81658871199426,Rosem?re,Quebec,Canada}	{Food,}
+1478	Sun Jul 17 16:51:37 +0000 2011	4baf4801f964a52058f53be3	{Best Buy}	{45.631157,-73.821296,Rosem?re,QC,Canada}	{Shop & Service,}
+1478	Sun Jul 17 16:49:31 +0000 2011	4df3f21752b100c2d7fc9e9a	{Banque CIBC}	{45.62846,-73.810001,Rosem?re,QC,Canada}	{Shop & Service,}
+1478	Sun Jul 17 16:43:12 +0000 2011	4c0a7f686071a593a39edf32	{Sports Experts}	{45.629958,-73.818195,,,Canada}	{Shop & Service,}
+1478	Sun Jul 17 16:29:57 +0000 2011	4beb3a61a9900f476a931740	{Wal-Mart}	{45.629539967971304,-73.82192373275757,Rosem?re,QC,Canada}	{Shop & Service,}
+1478	Sun Jul 17 16:07:48 +0000 2011	4bef264ac80dc928a09327e3	{Cage aux sports Saint-Eustache}	{45.57041953,-73.90822,Saint-Eustache,QC,Canada}	{Food,}
+1478	Sun Jul 17 16:07:48 +0000 2011	4bef264ac80dc928a09327e3	{Cage aux sports Saint-Eustache}	{45.57041953,-73.90822,Saint-Eustache,QC,Canada}	{Food,}
+1478	Sun Jul 17 15:33:37 +0000 2011	4b6dd916f964a5205f952ce3	{Loblaws}	{45.404755,-74.031282,Vaudreuil-Dorion,QC,Canada}	{Shop & Service,Food & Drink Shop,}
+1478	Sun Jul 17 15:32:00 +0000 2011	4c1813fa4ff90f47c1eb0d49	{Dairy Queen}	{45.4061012,-74.033574,Vaudreuil-Dorion,QC,Canada}	{Food,}
+1478	Sun Jul 17 12:34:37 +0000 2011	4b97b169f964a5204f1035e3	{Tim Hortons}	{45.460773592782694,-74.22646522521973,Hudson,PQ,Canada}	{Food,}
+1478	Sun Jul 17 12:00:56 +0000 2011	4bd2223677b29c7454138e82	{Esso}	{45.46105,-74.22664,Hudson,QC,Canada}	{Shop & Service,}
+1478	Sun Jul 17 04:36:52 +0000 2011	4be5b5222468c928c5690043	{Hudson Inn}	{45.46134064589913,-74.22775349017888,,,Canada}	{Food,}
+1478	Sun Jul 17 04:24:41 +0000 2011	4dd06512b0fb25f6e3746d8f	{Hudson inn}	{45.46143915881495,-74.2278430568619,Rigaud,Quebec,Canada}	{Travel & Transport,}
+1478	Sun Jul 17 04:23:50 +0000 2011	4b97b169f964a5204f1035e3	{Tim Hortons}	{45.460773592782694,-74.22646522521973,Hudson,PQ,Canada}	{Food,}
+1478	Sat Jul 16 20:42:43 +0000 2011	4d72bd815f00370454ace5a0	{Rube}	{45.45095446220673,-74.22925423804814,Hudson,QC,Canada}	{Food,}
+1478	Sat Jul 16 20:41:37 +0000 2011	4c1384db77cea593ede3ce60	{Shell}	{45.459197497504704,-74.22873973846436,Rigaud,Quebec,Canada}	{Shop & Service,}
+1478	Sat Jul 16 19:12:16 +0000 2011	4c7fa39ea7958cfa5037912b	{Traversier Oka-Hudson}	{45.458966,-74.09115379,,,Canada}	{Travel & Transport,}
+1478	Sat Jul 16 16:19:33 +0000 2011	4c234a5d11de20a1ae1f86ce	{Tim Hortons}	{45.566765,-73.907834,Saint-Eustache,PQ,Canada}	{Food,}
+1478	Sat Jul 16 16:09:55 +0000 2011	4c6ff6d2b3ce224b344072c6	{Resto Coco}	{45.57167488244662,-73.91174330759942,Saint-Eustache,PQ,Canada}	{Food,}
+1478	Sat Jul 16 15:12:46 +0000 2011	4c90ff031adc3704b8542cd1	{Esso Marche Express}	{45.566610558204246,-73.90750375672287,Saint-Eustache,Quebec,Canada}	{Shop & Service,}
+1478	Sat Jul 16 15:12:18 +0000 2011	4d11f659957fa1cd14716a9f	{Banque Royale}	{45.56604597145484,-73.90708150692443,Ste-Eustache,QC,Canada}	{Shop & Service,}
+1478	Sat Jul 16 15:01:59 +0000 2011	4bef264ac80dc928a09327e3	{Cage aux sports Saint-Eustache}	{45.57041953,-73.90822,Saint-Eustache,QC,Canada}	{Food,}
+1478	Sat Jul 16 13:25:10 +0000 2011	4dd80ad7ae60680f15168d4a	{La 20 ( St-Guillaume )}	{45.76702169,-72.69106179,Saint-Eug?ne-de-Grantham,QC,Canada}	{Travel & Transport,}
+1478	Sat Jul 16 11:50:40 +0000 2011	4de4f0c7b0fb267148bfda87	{Sonic}	{46.177348,-71.881265,Princeville,QC,Canada}	{Shop & Service,}
+1478	Fri Jul 15 17:24:39 +0000 2011	4de4f0c7b0fb267148bfda87	{Sonic}	{46.177348,-71.881265,Princeville,QC,Canada}	{Shop & Service,}
+1478	Fri Jul 15 16:36:44 +0000 2011	4d24d6100e998cfa97cf273f	{McDonald's}	{46.218047,-71.764384,,,Canada}	{Food,}
+1478	Fri Jul 15 16:36:44 +0000 2011	4d24d6100e998cfa97cf273f	{McDonald's}	{46.218047,-71.764384,,,Canada}	{Food,}
+1478	Fri Jul 15 16:36:03 +0000 2011	4ced31f282125481c4975da1	{Plessisville}	{46.21933649264348,-71.78245424481092,Plessisville,Qu?bec,Canada}	{Outdoors & Recreation,}
+1478	Fri Jul 15 16:35:10 +0000 2011	4dc6c206887717c88043dd61	{Banque Nationale}	{46.219495,-71.771251,Plessisville,QC,Canada}	{Professional & Other Places,}
+1478	Thu Jul 14 22:10:22 +0000 2011	4cf4371b7bf3b60cb10c6f7f	{Hotel De Ville De Plessisville}	{46.218675459117144,-71.77183593377715,,,Canada}	{}
+1478	Thu Jul 14 17:01:08 +0000 2011	4dc6c206887717c88043dd61	{Banque Nationale}	{46.219495,-71.771251,Plessisville,QC,Canada}	{Professional & Other Places,}
+1478	Thu Jul 14 16:49:55 +0000 2011	4d24d6100e998cfa97cf273f	{McDonald's}	{46.218047,-71.764384,,,Canada}	{Food,}
+1478	Thu Jul 14 16:48:47 +0000 2011	4ced31f282125481c4975da1	{Plessisville}	{46.21933649264348,-71.78245424481092,Plessisville,Qu?bec,Canada}	{Outdoors & Recreation,}
+1478	Thu Jul 14 16:48:27 +0000 2011	4de4f0c7b0fb267148bfda87	{Sonic}	{46.177348,-71.881265,Princeville,QC,Canada}	{Shop & Service,}
+1478	Thu Jul 14 12:07:11 +0000 2011	4e0e253c62e1d5a30cfe5b07	{Camping Plage Paquette}	{46.210022,-71.936672,,,Canada}	{Outdoors & Recreation,}
+1478	Thu Jul 14 11:12:30 +0000 2011	4de4f2c1ae60e7f3ac29ebf8	{Olymel - Secteur Bacon}	{46.174997,-71.878196,Princeville,QC,Canada}	{}
+1478	Thu Jul 14 11:11:48 +0000 2011	4de4f0c7b0fb267148bfda87	{Sonic}	{46.177348,-71.881265,Princeville,QC,Canada}	{Shop & Service,}
+1478	Thu Jul 14 00:09:15 +0000 2011	4ced31f282125481c4975da1	{Plessisville}	{46.21933649264348,-71.78245424481092,Plessisville,Qu?bec,Canada}	{Outdoors & Recreation,}
+1478	Wed Jul 13 17:44:58 +0000 2011	4ced31f282125481c4975da1	{Plessisville}	{46.21933649264348,-71.78245424481092,Plessisville,Qu?bec,Canada}	{Outdoors & Recreation,}
+1478	Wed Jul 13 17:44:08 +0000 2011	4de0133e22713271e2aad380	{Maxi}	{46.21703452876483,-71.76571262996193,Plessisville,QC,Canada}	{Shop & Service,Food & Drink Shop,}
+1478	Wed Jul 13 17:37:27 +0000 2011	4d24d6100e998cfa97cf273f	{McDonald's}	{46.218047,-71.764384,,,Canada}	{Food,}
+1478	Wed Jul 13 16:28:57 +0000 2011	4cf4371b7bf3b60cb10c6f7f	{Hotel De Ville De Plessisville}	{46.218675459117144,-71.77183593377715,,,Canada}	{}
+1478	Wed Jul 13 11:37:37 +0000 2011	4d8366c65ad3a093fbb3b9fd	{Tim Hortons}	{46.21236794139855,-71.77110381568787,,,Canada}	{Food,}
+1478	Wed Jul 13 11:17:33 +0000 2011	4dc6c206887717c88043dd61	{Banque Nationale}	{46.219495,-71.771251,Plessisville,QC,Canada}	{Professional & Other Places,}
+1478	Wed Jul 13 11:16:39 +0000 2011	4de0133e22713271e2aad380	{Maxi}	{46.21703452876483,-71.76571262996193,Plessisville,QC,Canada}	{Shop & Service,Food & Drink Shop,}
+1478	Wed Jul 13 10:52:11 +0000 2011	4d24d6100e998cfa97cf273f	{McDonald's}	{46.218047,-71.764384,,,Canada}	{Food,}
+1478	Wed Jul 13 10:51:39 +0000 2011	4ced31f282125481c4975da1	{Plessisville}	{46.21933649264348,-71.78245424481092,Plessisville,Qu?bec,Canada}	{Outdoors & Recreation,}
+1478	Wed Jul 13 03:14:57 +0000 2011	4ced31f282125481c4975da1	{Plessisville}	{46.21933649264348,-71.78245424481092,Plessisville,Qu?bec,Canada}	{Outdoors & Recreation,}
+1478	Wed Jul 13 03:14:32 +0000 2011	4c7d1c05ad90224baf048c0c	{Princeville}	{46.17022872769173,-71.87244478535425,,,Canada}	{Food,}
+1478	Tue Jul 12 17:22:24 +0000 2011	4c7d1c05ad90224baf048c0c	{Princeville}	{46.17022872769173,-71.87244478535425,,,Canada}	{Food,}
+1478	Tue Jul 12 15:06:30 +0000 2011	4de4f0c7b0fb267148bfda87	{Sonic}	{46.177348,-71.881265,Princeville,QC,Canada}	{Shop & Service,}
+1478	Tue Jul 12 14:49:24 +0000 2011	4de0133e22713271e2aad380	{Maxi}	{46.21703452876483,-71.76571262996193,Plessisville,QC,Canada}	{Shop & Service,Food & Drink Shop,}
+1478	Tue Jul 12 11:56:15 +0000 2011	4cf981f77f2db1f774a221d4	{Le Pot De Cafe}	{46.21916,-71.771641,Plessisville,QC,Canada}	{Food,}
+1478	Tue Jul 12 11:36:44 +0000 2011	4ced31f282125481c4975da1	{Plessisville}	{46.21933649264348,-71.78245424481092,Plessisville,Qu?bec,Canada}	{Outdoors & Recreation,}
+1478	Tue Jul 12 04:44:14 +0000 2011	4bb698ec2ea19521a0f8ab2f	{Casse-Croute le Royaume de la Patate, Plessisville}	{46.21509978354278,-71.76712620022255,Plessisville,QC,Canada}	{Food,}
+1478	Tue Jul 12 04:43:47 +0000 2011	4ced31f282125481c4975da1	{Plessisville}	{46.21933649264348,-71.78245424481092,Plessisville,Qu?bec,Canada}	{Outdoors & Recreation,}
+1478	Tue Jul 12 04:37:15 +0000 2011	4ced31f282125481c4975da1	{Plessisville}	{46.21933649264348,-71.78245424481092,Plessisville,Qu?bec,Canada}	{Outdoors & Recreation,}
+1478	Tue Jul 12 00:21:18 +0000 2011	4d838c668de9721e28651e51	{Santana Coffee}	{45.453901,-73.727312,Dorval,QC,Canada}	{Food,}
+1478	Tue Jul 12 00:08:51 +0000 2011	4bcd1e93937ca5931572ac92	{Terminus Dorval}	{45.44859919845744,-73.74280417989878,Dorval,PQ,Canada}	{Travel & Transport,}
+1478	Mon Jul 11 23:11:25 +0000 2011	4ad77b18f964a5203c0b21e3	{Montr?al Int'l Airport Pierre-Elliott-Trudeau (YUL)}	{45.45856536135167,-73.74967575073242,Dorval,QC,Canada}	{Travel & Transport,}
+1478	Mon Jul 11 19:42:24 +0000 2011	4e754ee11495be517114206d	{Gate E17}	{32.88996633815203,-97.03549861907959,DFW Airport,TX,United States}	{Travel & Transport,Airport,}
+1478	Mon Jul 11 17:34:14 +0000 2011	44d9ff60f964a5208b361fe3	{Dallas/Fort Worth International Airport (DFW)}	{32.89803818160521,-97.04086303710938,DFW Airport,TX,United States}	{Travel & Transport,}
+1478	Mon Jul 11 12:57:02 +0000 2011	4ae48723f964a520529b21e3	{Fresno Yosemite International Airport (FAT)}	{36.77094484549716,-119.71966682734505,Fresno,CA,United States}	{Travel & Transport,}
+1478	Mon Jul 11 01:54:42 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Mon Jul 11 00:40:24 +0000 2011	4cc38ec901fb236a4eaea6ba	{Playas De Rosarito}	{36.57051946666667,-119.61778182,Selma,CA,United States}	{Food,}
+1478	Mon Jul 11 00:40:24 +0000 2011	4cc38ec901fb236a4eaea6ba	{Playas De Rosarito}	{36.57051946666667,-119.61778182,Selma,CA,United States}	{Food,}
+1478	Sun Jul 10 20:22:55 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Sun Jul 10 19:12:31 +0000 2011	4b33ee0af964a520322225e3	{Kmart}	{36.5190273873815,-119.56560778901068,Kingsburg,CA,United States}	{Shop & Service,Clothing Store,}
+1478	Sun Jul 10 17:39:37 +0000 2011	4b29e738f964a520fda324e3	{ARCO}	{36.5177,-119.5641462,Kingsburg,CA,United States}	{Shop & Service,}
+1478	Sun Jul 10 07:21:07 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Sun Jul 10 06:49:43 +0000 2011	4c96340e94a0236a3db29c12	{SAHAGUN FAMILIA}	{36.77920201694465,-119.82944298287919,Fresno,CA,United States}	{Residence,}
+1478	Sun Jul 10 06:30:00 +0000 2011	4be6c5172468c92885a70143	{Chevron}	{36.62675629197559,-119.6831488609314,Fowler,CA,United States}	{Shop & Service,}
+1478	Sun Jul 10 01:55:32 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Sat Jul 09 22:34:28 +0000 2011	4cf43c2dcc61a35d626d249e	{Chevron}	{34.110918526946755,-118.29143966997121,Los Angeles,CA,United States}	{Shop & Service,}
+1478	Sat Jul 09 18:39:22 +0000 2011	4ac42dbaf964a520689e20e3	{Chili's Grill & Bar}	{34.237648,-118.53563,Northridge,CA,United States}	{Food,}
+1478	Sat Jul 09 17:23:18 +0000 2011	4a352700f964a5208a9c1fe3	{Los Angeles Marriott Burbank Airport}	{34.194179789840625,-118.3475911617279,Burbank,CA,United States}	{Travel & Transport,Hotel,Professional & Other Places,}
+1478	Sat Jul 09 07:14:40 +0000 2011	4bef3fbdf2712d7fa48afbd8	{7-Eleven}	{34.16110764917518,-118.3434639083828,Burbank,CA,United States}	{Shop & Service,}
+1478	Sat Jul 09 05:37:20 +0000 2011	45f69b80f964a52029441fe3	{The Cheesecake Factory}	{34.15421412992068,-118.46661150455475,Sherman Oaks,CA,United States}	{Food,}
+1478	Sat Jul 09 05:04:09 +0000 2011	4747dd94f964a5208b4c1fe3	{ArcLight Cinemas Sherman Oaks}	{34.15463585420314,-118.46731424331665,Sherman Oaks,CA,United States}	{Nightlife Spot,Arts & Entertainment,Movie Theater,}
+1478	Sat Jul 09 03:42:05 +0000 2011	4b88bf75f964a520b30b32e3	{Denny's}	{34.20148063361246,-118.447675249187,Van Nuys,CA,United States}	{Food,}
+1478	Sat Jul 09 02:43:01 +0000 2011	4b63adb2f964a5209a8b2ae3	{Tejon Pass}	{34.80293291135577,-118.87696266174316,Lebec,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1478	Sat Jul 09 02:32:07 +0000 2011	4dbd98ccf7b1ab37dd79d996	{Lebec}	{34.85994164488222,-118.87947470132853,Lebec,CA,United States}	{Outdoors & Recreation,}
+1478	Sat Jul 09 02:09:05 +0000 2011	4c8724b8f554236a6fb8ca55	{Bakersfield}	{35.182263128541976,-119.00663439964683,Bakersfield,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1478	Sat Jul 09 01:52:10 +0000 2011	4bfa64235efe2d7f7b7c6d34	{Flying J}	{35.5347174380859,-119.186859265887,Bakersfield,CA,United States}	{Shop & Service,Food,}
+1478	Sat Jul 09 00:58:21 +0000 2011	4b8dd33cf964a520600f33e3	{Kingsburg, CA}	{36.513844249959284,-119.55403804779051,Kingsburg,CA,United States}	{Outdoors & Recreation,}
+1478	Sat Jul 09 00:25:01 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Fri Jul 08 22:22:10 +0000 2011	4b54d3caf964a52074ce27e3	{The Home Depot}	{36.57943229512903,-119.63075572946084,Selma,CA,United States}	{Shop & Service,}
+1478	Fri Jul 08 21:53:29 +0000 2011	4b560c3ff964a520b6fd27e3	{Educational Employees Credit Union}	{36.569172,-119.61263122,Selma,CA,United States}	{Shop & Service,}
+1478	Fri Jul 08 21:52:14 +0000 2011	4cc38ec901fb236a4eaea6ba	{Playas De Rosarito}	{36.57051946666667,-119.61778182,Selma,CA,United States}	{Food,}
+1478	Fri Jul 08 17:25:52 +0000 2011	4cf088d61c158cfa05eecab5	{Traver, CA}	{36.44844021602676,-119.48572833714404,Kingsburg,CA,United States}	{Outdoors & Recreation,}
+1478	Fri Jul 08 14:26:58 +0000 2011	4b9bcb0bf964a520ca2536e3	{The land of Maf!}	{36.451699908651904,-119.48812007904053,Traver,CA,United States}	{Professional & Other Places,}
+1478	Fri Jul 08 14:25:59 +0000 2011	4b9f8b0df964a5202a2a37e3	{The Frozen Corndog}	{36.45390911244183,-119.48713302612305,traver,CA,United States}	{Food,}
+1478	Fri Jul 08 13:17:43 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Fri Jul 08 05:03:22 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Thu Jul 07 18:40:06 +0000 2011	4b5cef02f964a520684b29e3	{El Torito}	{34.41993845660677,-118.5835075378418,Valencia,CA,United States}	{Food,}
+1478	Thu Jul 07 14:01:22 +0000 2011	4bd5a83d9649ce72ab79511d	{Best Western La Posada Motel Fillmore}	{34.396442592298804,-118.92126812739372,Fillmore,CA,United States}	{Travel & Transport,Hotel,}
+1478	Thu Jul 07 05:39:31 +0000 2011	4b124b2ff964a520658923e3	{BJ's Restaurant & Brewhouse}	{34.41742048058214,-118.56161534786224,Valencia,CA,United States}	{Nightlife Spot,Food,}
+1478	Wed Jul 06 22:45:11 +0000 2011	4a6b4807f964a52055ce1fe3	{Westfield Fashion Square}	{34.15706981,-118.4373392,Sherman Oaks,CA,United States}	{Shop & Service,}
+1478	Wed Jul 06 17:52:44 +0000 2011	4aa1fafcf964a520bd4120e3	{Denny's}	{34.42199,-118.58163501,Valencia,CA,United States}	{Food,}
+1478	Wed Jul 06 17:08:12 +0000 2011	4bcce1201dd3eee132849a3d	{Best Western Valencia Inn}	{34.42064911577847,-118.58088379693078,Santa Clarita,CA,United States}	{Travel & Transport,Hotel,}
+1478	Wed Jul 06 15:39:33 +0000 2011	4e0b73e3fa76f9d12b919206	{Poncho's Place}	{34.415494041646426,-118.79436891622616,Piru,CA,United States}	{Food,}
+1478	Wed Jul 06 15:35:36 +0000 2011	4be5b89fcf200f470e9e133c	{AMPM}	{34.405280913807665,-118.79422187805176,Piru,CA,United States}	{Shop & Service,}
+1478	Wed Jul 06 15:35:15 +0000 2011	4cb46cfd562d224b682e3488	{Piru Citrus}	{34.4099811,-118.79520965,Fillmore-Piru,CA,United States}	{Outdoors & Recreation,}
+1478	Wed Jul 06 12:32:15 +0000 2011	4bcce1201dd3eee132849a3d	{Best Western Valencia Inn}	{34.42064911577847,-118.58088379693078,Santa Clarita,CA,United States}	{Travel & Transport,Hotel,}
+1478	Wed Jul 06 06:57:19 +0000 2011	4bcce1201dd3eee132849a3d	{Best Western Valencia Inn}	{34.42064911577847,-118.58088379693078,Santa Clarita,CA,United States}	{Travel & Transport,Hotel,}
+1478	Tue Jul 05 07:07:56 +0000 2011	4b7c68f1f964a5209f912fe3	{Katie's Krib}	{36.50919988333333,-119.55941058333333,Kingsburg,CA,United States}	{Nightlife Spot,}
+1478	Mon Jul 04 14:48:58 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Mon Jul 04 14:48:58 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Mon Jul 04 14:28:46 +0000 2011	4c96340e94a0236a3db29c12	{SAHAGUN FAMILIA}	{36.77920201694465,-119.82944298287919,Fresno,CA,United States}	{Residence,}
+1478	Mon Jul 04 06:29:04 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Sun Jul 03 22:02:42 +0000 2011	4b804553f964a520d96230e3	{China Garden Buffet}	{36.57480597496033,-119.62410807609558,Selma,CA,United States}	{Food,}
+1478	Sun Jul 03 09:30:25 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Sat Jul 02 23:58:00 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Fri Jul 01 03:45:48 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Fri Jul 01 00:29:20 +0000 2011	4bb78b5a1261d13a7672e798	{Wendy's}	{34.42201158420046,-118.58371054207788,Valencia,CA,United States}	{Food,}
+1478	Thu Jun 30 21:15:05 +0000 2011	4cb46cfd562d224b682e3488	{Piru Citrus}	{34.4099811,-118.79520965,Fillmore-Piru,CA,United States}	{Outdoors & Recreation,}
+1478	Thu Jun 30 18:08:54 +0000 2011	4c3691f3ae2da5934f81fdc5	{IHOP}	{34.395861,-118.91835451125753,Fillmore,CA,United States}	{Food,}
+1478	Thu Jun 30 14:08:19 +0000 2011	4cb46cfd562d224b682e3488	{Piru Citrus}	{34.4099811,-118.79520965,Fillmore-Piru,CA,United States}	{Outdoors & Recreation,}
+1478	Thu Jun 30 12:32:16 +0000 2011	4bd5a83d9649ce72ab79511d	{Best Western La Posada Motel Fillmore}	{34.396442592298804,-118.92126812739372,Fillmore,CA,United States}	{Travel & Transport,Hotel,}
+1478	Thu Jun 30 02:47:20 +0000 2011	4bd5a83d9649ce72ab79511d	{Best Western La Posada Motel Fillmore}	{34.396442592298804,-118.92126812739372,Fillmore,CA,United States}	{Travel & Transport,Hotel,}
+1478	Wed Jun 29 18:50:25 +0000 2011	4e0b73e3fa76f9d12b919206	{Poncho's Place}	{34.415494041646426,-118.79436891622616,Piru,CA,United States}	{Food,}
+1478	Wed Jun 29 18:39:14 +0000 2011	4cb46cfd562d224b682e3488	{Piru Citrus}	{34.4099811,-118.79520965,Fillmore-Piru,CA,United States}	{Outdoors & Recreation,}
+1478	Tue Jun 28 18:21:17 +0000 2011	4c12d7687f7f2d7f9219de68	{DiMare Tomatoes}	{37.3157367540553,-121.02119941930381,Newman,CA,United States}	{}
+1478	Tue Jun 28 17:04:24 +0000 2011	4bc8b89714d79521c3b269e9	{The Grille}	{37.31471003,-121.0221509,Newman,CA,United States}	{}
+1478	Tue Jun 28 15:48:14 +0000 2011	4c12d7687f7f2d7f9219de68	{DiMare Tomatoes}	{37.3157367540553,-121.02119941930381,Newman,CA,United States}	{}
+1478	Tue Jun 28 07:48:22 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1478	Wed Jun 22 20:51:16 +0000 2011	4f9ab1dad4f2465542bc667a	{Gladstones LAX}	{33.94642167544643,-118.40740442276002,Los Angeles,CA,United States}	{Travel & Transport,Nightlife Spot,Airport,Food,}
+1478	Wed Jun 22 20:05:41 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1478	Sat Jun 18 17:46:30 +0000 2011	4a179fb5f964a5206b791fe3	{Six Flags Magic Mountain}	{34.42369099064766,-118.5944690274224,Valencia,CA,United States}	{Arts & Entertainment,Theme Park,}
+1478	Fri Jun 17 22:57:27 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Fri Jun 17 13:15:55 +0000 2011	4c3691f3ae2da5934f81fdc5	{IHOP}	{34.395861,-118.91835451125753,Fillmore,CA,United States}	{Food,}
+1478	Fri Jun 17 13:15:55 +0000 2011	4c3691f3ae2da5934f81fdc5	{IHOP}	{34.395861,-118.91835451125753,Fillmore,CA,United States}	{Food,}
+1478	Fri Jun 17 13:13:37 +0000 2011	4bd5a83d9649ce72ab79511d	{Best Western La Posada Motel Fillmore}	{34.396442592298804,-118.92126812739372,Fillmore,CA,United States}	{Travel & Transport,Hotel,}
+1478	Fri Jun 17 01:31:37 +0000 2011	4c3691f3ae2da5934f81fdc5	{IHOP}	{34.395861,-118.91835451125753,Fillmore,CA,United States}	{Food,}
+1478	Fri Jun 17 00:26:44 +0000 2011	4bd5a83d9649ce72ab79511d	{Best Western La Posada Motel Fillmore}	{34.396442592298804,-118.92126812739372,Fillmore,CA,United States}	{Travel & Transport,Hotel,}
+1478	Thu Jun 16 15:32:10 +0000 2011	4b9f8b0df964a5202a2a37e3	{The Frozen Corndog}	{36.45390911244183,-119.48713302612305,traver,CA,United States}	{Food,}
+1478	Tue Jun 14 13:20:03 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Mon Jun 13 04:10:25 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1478	Sun Jun 12 01:07:27 +0000 2011	4de2674ad4c07044056aa70d	{Flamingos}	{22.25001250333931,-97.87205110130353,Tampico,Tamaulipas,Mexico}	{Food,}
+1478	Sat Jun 11 21:40:27 +0000 2011	4d7ecc1febc15481a2dbe8a6	{Hotel Valles}	{21.991415953778706,-99.01065063948575,Ciudad Valles,SLP,Mexico}	{Travel & Transport,}
+1478	Sat Jun 11 21:40:13 +0000 2011	4cf26ef4e9425481572a70c5	{Ciudad Valles}	{21.982165297355046,-99.00948514827024,Ciudad Valles,SLP,Mexico}	{Outdoors & Recreation,}
+1478	Sat Jun 11 00:26:06 +0000 2011	4cc50e1242d1b60cf0682113	{Oxxo centro}	{21.994873,-98.988569,Ciudad Valles,San Luis Potos?,Mexico}	{}
+1478	Sat Jun 11 00:26:06 +0000 2011	4cc50e1242d1b60cf0682113	{Oxxo centro}	{21.994873,-98.988569,Ciudad Valles,San Luis Potos?,Mexico}	{}
+1478	Sat Jun 11 00:25:53 +0000 2011	4d113f05e8aff04d9c2f701a	{Oxxo Puente Negro}	{21.9977412667451,-99.01052653543691,,,Mexico}	{Shop & Service,}
+1478	Sat Jun 11 00:25:24 +0000 2011	4cf26ef4e9425481572a70c5	{Ciudad Valles}	{21.982165297355046,-99.00948514827024,Ciudad Valles,SLP,Mexico}	{Outdoors & Recreation,}
+1478	Thu Jun 09 22:37:22 +0000 2011	4cc50e1242d1b60cf0682113	{Oxxo centro}	{21.994873,-98.988569,Ciudad Valles,San Luis Potos?,Mexico}	{}
+1478	Thu Jun 09 14:25:05 +0000 2011	4cf26ef4e9425481572a70c5	{Ciudad Valles}	{21.982165297355046,-99.00948514827024,Ciudad Valles,SLP,Mexico}	{Outdoors & Recreation,}
+1478	Thu Jun 09 14:25:05 +0000 2011	4cf26ef4e9425481572a70c5	{Ciudad Valles}	{21.982165297355046,-99.00948514827024,Ciudad Valles,SLP,Mexico}	{Outdoors & Recreation,}
+1478	Tue Jun 07 23:40:32 +0000 2011	4d7ecc1febc15481a2dbe8a6	{Hotel Valles}	{21.991415953778706,-99.01065063948575,Ciudad Valles,SLP,Mexico}	{Travel & Transport,}
+1478	Tue Jun 07 23:27:52 +0000 2011	4d1b9ee7763fb1f73ff08366	{BBVA Bancomer}	{21.983338656521703,-99.009366441796,Cd Valles,SLP,Mexico}	{Shop & Service,}
+1478	Tue Jun 07 23:27:00 +0000 2011	4d7ecc1febc15481a2dbe8a6	{Hotel Valles}	{21.991415953778706,-99.01065063948575,Ciudad Valles,SLP,Mexico}	{Travel & Transport,}
+1478	Tue Jun 07 19:18:48 +0000 2011	4cf26ef4e9425481572a70c5	{Ciudad Valles}	{21.982165297355046,-99.00948514827024,Ciudad Valles,SLP,Mexico}	{Outdoors & Recreation,}
+1478	Tue Jun 07 19:18:38 +0000 2011	4d878029f1e56ea8a74db18a	{Gorditas De La 16}	{21.988283,-99.008749,Ciudad Valles,SLP,Mexico}	{Food,}
+1478	Mon Jun 06 22:14:54 +0000 2011	4d878029f1e56ea8a74db18a	{Gorditas De La 16}	{21.988283,-99.008749,Ciudad Valles,SLP,Mexico}	{Food,}
+1478	Mon Jun 06 22:14:54 +0000 2011	4d878029f1e56ea8a74db18a	{Gorditas De La 16}	{21.988283,-99.008749,Ciudad Valles,SLP,Mexico}	{Food,}
+1478	Sun Jun 05 14:11:20 +0000 2011	4d7ecc1febc15481a2dbe8a6	{Hotel Valles}	{21.991415953778706,-99.01065063948575,Ciudad Valles,SLP,Mexico}	{Travel & Transport,}
+1478	Sun Jun 05 14:11:20 +0000 2011	4d7ecc1febc15481a2dbe8a6	{Hotel Valles}	{21.991415953778706,-99.01065063948575,Ciudad Valles,SLP,Mexico}	{Travel & Transport,}
+1478	Sat Jun 04 21:01:59 +0000 2011	4d878029f1e56ea8a74db18a	{Gorditas De La 16}	{21.988283,-99.008749,Ciudad Valles,SLP,Mexico}	{Food,}
+1478	Sat Jun 04 12:43:10 +0000 2011	4d7ecc1febc15481a2dbe8a6	{Hotel Valles}	{21.991415953778706,-99.01065063948575,Ciudad Valles,SLP,Mexico}	{Travel & Transport,}
+1478	Fri Jun 03 17:40:34 +0000 2011	4cf26ef4e9425481572a70c5	{Ciudad Valles}	{21.982165297355046,-99.00948514827024,Ciudad Valles,SLP,Mexico}	{Outdoors & Recreation,}
+1478	Mon May 16 14:03:15 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1478	Mon May 16 12:08:21 +0000 2011	4bce44c8c564ef3b150ceef0	{American Airlines Terminal}	{36.770478897407955,-119.71950845168092,,CA,United States}	{Travel & Transport,Airport,}
+1478	Mon May 16 11:10:32 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Mon May 16 01:26:56 +0000 2011	4b60fa39f964a52053042ae3	{Sakura Chaya}	{36.85228717377617,-119.77200016917371,Fresno,CA,United States}	{Food,}
+1478	Wed May 11 00:20:08 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Fri May 06 00:51:10 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Fri May 06 00:51:10 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Wed May 04 15:28:45 +0000 2011	4bb1c00df964a52076a13ce3	{Del Taco}	{34.36123251914978,-119.04147817,Santa Paula,CA,United States}	{Food,}
+1478	Mon May 02 16:41:16 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Sun May 01 22:14:16 +0000 2011	4b42a374f964a520f9d725e3	{H&M}	{34.101394285243934,-118.34082797169685,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,}
+1478	Sun May 01 04:37:30 +0000 2011	45080a53f964a5202d391fe3	{Lucky Devils}	{34.10167967978687,-118.33392675653312,Hollywood,CA,United States}	{Food,}
+1478	Sat Apr 30 18:28:40 +0000 2011	4c040b64187ec928b87fb67b	{Venice Beach}	{33.986810160500845,-118.4736442565918,Venice,CA,United States}	{Outdoors & Recreation,Beach,}
+1478	Fri Apr 29 23:10:13 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Tue Apr 26 20:47:37 +0000 2011	4c95302b72dd224b666aa191	{Our Lady Of Guadalupe Church}	{34.206973820377,-119.16774839572982,Oxnard,CA,United States}	{Spiritual Center,Professional & Other Places,}
+1478	Tue Apr 26 16:43:02 +0000 2011	4b941ceff964a520fb6834e3	{The Grapevine}	{34.77886140193761,-118.81443500518799,Lebec,CA,United States}	{Travel & Transport,}
+1478	Tue Apr 26 16:42:24 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Mon Apr 25 15:10:45 +0000 2011	4bc4d819b492d13acea6aa60	{EECU ATM}	{36.517737,-119.55729701666667,Kingsburg,CA,United States}	{Shop & Service,}
+1478	Sun Apr 24 20:19:59 +0000 2011	4b346bb3f964a520712725e3	{Holy Family Catholic Church}	{36.51312,-119.549684,Kingsburg,CA,United States}	{Spiritual Center,Professional & Other Places,}
+1478	Sun Apr 24 20:19:59 +0000 2011	4b346bb3f964a520712725e3	{Holy Family Catholic Church}	{36.51312,-119.549684,Kingsburg,CA,United States}	{Spiritual Center,Professional & Other Places,}
+1478	Sun Apr 24 00:06:11 +0000 2011	4b302cd5f964a52053f724e3	{Sun Hong Kong}	{36.51514291763306,-119.55264,Kingsburg,CA,United States}	{Food,}
+1478	Mon Apr 18 14:52:05 +0000 2011	4cc98f7bd147a093fdcde7ae	{Sunwest Fruit}	{36.60507165,-119.52831438333334,Parlier,CA,United States}	{Professional & Other Places,}
+1478	Mon Apr 18 13:36:42 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Sun Apr 17 01:23:21 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Thu Apr 14 12:32:41 +0000 2011	4caf492dc5e6a1cde980cbf6	{The Runway}	{30.01149184045209,-95.32907724380493,Humble,TX,United States}	{Nightlife Spot,Food,}
+1478	Wed Apr 13 19:28:55 +0000 2011	4c4733e234999c7460aa02fd	{Fly Natural Bar}	{-34.6004835,-58.3867143,San Nicol?s,CABA,Argentina}	{Food,}
+1478	Wed Apr 13 15:18:40 +0000 2011	4b058715f964a5209a7e22e3	{Hotel Presidente}	{-34.598480075710945,-58.382701493766405,Buenos Aires,Argentina,Argentina}	{Travel & Transport,}
+1478	Tue Apr 12 23:01:12 +0000 2011	4b993372f964a5204d6935e3	{Aeropuerto Internacional de Tucum?n (TUC)}	{-26.8355874332818,-65.1082406965698,Cevil Pozo,Tucum?n,Argentina}	{Travel & Transport,Airport,}
+1478	Sun Apr 03 21:07:49 +0000 2011	4d7d4f70136bf04dca196f8d	{Grido Helados}	{-26.846352656209238,-65.22198821034956,San Miguel de Tucum?n,Tucum?n,Argentina}	{Shop & Service,}
+1478	Fri Apr 01 15:38:00 +0000 2011	4b904948f964a520898133e3	{Restaurante Los Hornos}	{-26.848686,-65.140446,,,Argentina}	{Food,}
+1478	Fri Apr 01 15:38:00 +0000 2011	4b904948f964a520898133e3	{Restaurante Los Hornos}	{-26.848686,-65.140446,,,Argentina}	{Food,}
+1478	Fri Apr 01 15:36:57 +0000 2011	4d23c49f2ac6f04d5be42f45	{Bar Patio Colonial}	{-26.839362146006845,-65.16539963879907,Banda del Ri? Sal?,Tucum?n,Argentina}	{Food,}
+1478	Wed Mar 30 21:49:19 +0000 2011	4d23c49f2ac6f04d5be42f45	{Bar Patio Colonial}	{-26.839362146006845,-65.16539963879907,Banda del Ri? Sal?,Tucum?n,Argentina}	{Food,}
+1478	Wed Mar 30 21:49:17 +0000 2011	4ce99520f1c6236a334b66f0	{Parque 9 de Julio}	{-26.826755883599436,-65.19325518048304,San Miguel de Tucum?n,Tucum?n,Argentina}	{Outdoors & Recreation,}
+1478	Wed Mar 30 15:35:00 +0000 2011	4b904948f964a520898133e3	{Restaurante Los Hornos}	{-26.848686,-65.140446,,,Argentina}	{Food,}
+1478	Fri Mar 25 22:02:08 +0000 2011	4d68e30c2acd6ea8d3f032c0	{Hotel del Sol}	{-26.830805,-65.203415,San Miguel de Tucum?n,Tucum?n,Argentina}	{Travel & Transport,}
+1478	Fri Mar 25 22:02:07 +0000 2011	4d68e30c2acd6ea8d3f032c0	{Hotel del Sol}	{-26.830805,-65.203415,San Miguel de Tucum?n,Tucum?n,Argentina}	{Travel & Transport,}
+1478	Fri Mar 25 22:01:57 +0000 2011	4bf090fd17880f47487f2937	{El Portal Comida Tipica}	{-26.8310216,-65.20235538482477,San Miguel de Tucum?n,Tucum?n,Argentina}	{Food,}
+1478	Fri Mar 25 22:01:57 +0000 2011	4bf090fd17880f47487f2937	{El Portal Comida Tipica}	{-26.8310216,-65.20235538482477,San Miguel de Tucum?n,Tucum?n,Argentina}	{Food,}
+1478	Fri Mar 25 00:57:11 +0000 2011	4d68e30c2acd6ea8d3f032c0	{Hotel del Sol}	{-26.830805,-65.203415,San Miguel de Tucum?n,Tucum?n,Argentina}	{Travel & Transport,}
+1478	Wed Mar 23 18:38:59 +0000 2011	4bf090fd17880f47487f2937	{El Portal Comida Tipica}	{-26.8310216,-65.20235538482477,San Miguel de Tucum?n,Tucum?n,Argentina}	{Food,}
+1478	Wed Mar 23 14:42:25 +0000 2011	4b993372f964a5204d6935e3	{Aeropuerto Internacional de Tucum?n (TUC)}	{-26.8355874332818,-65.1082406965698,Cevil Pozo,Tucum?n,Argentina}	{Travel & Transport,Airport,}
+1478	Wed Mar 23 10:42:39 +0000 2011	4b59b351f964a520969328e3	{Campo Argentino de Polo}	{-34.57031276657854,-58.42582941055298,Buenos Aires,Argentina,Argentina}	{Outdoors & Recreation,Arts & Entertainment,}
+1478	Tue Mar 22 15:43:29 +0000 2011	4c69d361f6b0ef3b28107084	{Club Circulo Policia Federal}	{-34.53300645488245,-58.46037652812725,Buenos Aires,argentina,Argentina}	{Outdoors & Recreation,}
+1478	Mon Mar 21 19:16:57 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1478	Mon Mar 21 16:16:16 +0000 2011	4bcee80b29d4b7138c30a9dc	{Gate 7}	{36.77099356337504,-119.71880707159033,,CA,United States}	{Travel & Transport,Airport,}
+1478	Mon Mar 21 16:13:58 +0000 2011	4ae48723f964a520529b21e3	{Fresno Yosemite International Airport (FAT)}	{36.77094484549716,-119.71966682734505,Fresno,CA,United States}	{Travel & Transport,}
+1478	Wed Mar 16 22:30:30 +0000 2011	4cd44dbb89eb6dcb1438211e	{The Stuffed Pipe}	{36.318786546978714,-119.31331338293701,Visalia,CA,United States}	{Shop & Service,}
+1478	Sun Mar 13 20:45:17 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Sun Mar 13 18:33:32 +0000 2011	4b302cd5f964a52053f724e3	{Sun Hong Kong}	{36.51514291763306,-119.55264,Kingsburg,CA,United States}	{Food,}
+1478	Sun Mar 13 16:58:32 +0000 2011	4b346bb3f964a520712725e3	{Holy Family Catholic Church}	{36.51312,-119.549684,Kingsburg,CA,United States}	{Spiritual Center,Professional & Other Places,}
+1478	Sun Mar 13 16:49:21 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Sun Mar 13 03:29:44 +0000 2011	4b9b06faf964a520e3ec35e3	{P.F. Chang's}	{36.851318766710776,-119.7902336208421,Fresno,CA,United States}	{Food,}
+1478	Sun Mar 13 03:28:32 +0000 2011	4b9b06faf964a520e3ec35e3	{P.F. Chang's}	{36.851318766710776,-119.7902336208421,Fresno,CA,United States}	{Food,}
+1478	Sat Mar 12 19:21:15 +0000 2011	4b300288f964a5205ff424e3	{Walmart Supercenter}	{36.57750822744881,-119.63403878849078,Selma,CA,United States}	{Shop & Service,}
+1478	Sat Mar 12 19:08:44 +0000 2011	4b33ee0af964a520322225e3	{Kmart}	{36.5190273873815,-119.56560778901068,Kingsburg,CA,United States}	{Shop & Service,Clothing Store,}
+1478	Sat Mar 12 19:01:44 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Fri Mar 11 23:43:40 +0000 2011	4c95302b72dd224b666aa191	{Our Lady Of Guadalupe Church}	{34.206973820377,-119.16774839572982,Oxnard,CA,United States}	{Spiritual Center,Professional & Other Places,}
+1478	Fri Mar 11 00:02:10 +0000 2011	4c4ede499932e21e01ac70ce	{99N 109}	{36.46169894355915,-119.49426044270446,Kingsburg,CA,United States}	{Travel & Transport,}
+1478	Fri Mar 11 00:02:08 +0000 2011	4c4ede499932e21e01ac70ce	{99N 109}	{36.46169894355915,-119.49426044270446,Kingsburg,CA,United States}	{Travel & Transport,}
+1478	Thu Mar 10 20:56:17 +0000 2011	4bc4d819b492d13acea6aa60	{EECU ATM}	{36.517737,-119.55729701666667,Kingsburg,CA,United States}	{Shop & Service,}
+1478	Thu Mar 10 06:07:52 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Thu Mar 10 06:07:07 +0000 2011	4b342060f964a5204a2525e3	{Save Mart}	{36.5188146477703,-119.55851825390525,Kingsburg,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1478	Wed Mar 09 17:59:39 +0000 2011	4cf088d61c158cfa05eecab5	{Traver, CA}	{36.44844021602676,-119.48572833714404,Kingsburg,CA,United States}	{Outdoors & Recreation,}
+1478	Wed Mar 09 00:56:02 +0000 2011	4b55d148f964a52055f127e3	{Reagan Elementary School}	{36.51178326525444,-119.572255324468,Kingsburg,CA,United States}	{Outdoors & Recreation,College & University,Professional & Other Places,}
+1478	Wed Mar 09 00:55:40 +0000 2011	4caea6771168a093884c1c23	{Athwal Park}	{36.5138535843692,-119.56950348613769,Kingsburg,CA,United States}	{Outdoors & Recreation,}
+1478	Tue Mar 08 05:49:26 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Tue Mar 08 05:49:12 +0000 2011	4b29e738f964a520fda324e3	{ARCO}	{36.5177,-119.5641462,Kingsburg,CA,United States}	{Shop & Service,}
+1478	Tue Mar 08 00:15:48 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Tue Mar 08 00:15:48 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Mon Mar 07 01:02:50 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Mon Mar 07 00:59:10 +0000 2011	4b342060f964a5204a2525e3	{Save Mart}	{36.5188146477703,-119.55851825390525,Kingsburg,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1478	Sun Mar 06 23:27:33 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Sun Mar 06 17:43:20 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Sat Mar 05 20:57:49 +0000 2011	4c52eb3094790f478e6343a3	{SLC Gate C13}	{40.788914693034805,-111.98121687753238,Salt Lake City,UT,United States}	{Travel & Transport,Airport,}
+1478	Sat Mar 05 20:57:16 +0000 2011	4a5d7fa0f964a520a9bd1fe3	{Salt Lake City International Airport (SLC)}	{40.78665044119936,-111.98209762573242,Salt Lake City,UT,United States}	{Travel & Transport,}
+1478	Sat Mar 05 15:03:17 +0000 2011	4700946bf964a520344b1fe3	{Detroit Metropolitan Wayne County Airport (DTW)}	{42.20874863661848,-83.35979461669922,Romulus,MI,United States}	{Travel & Transport,}
+1478	Sat Mar 05 14:53:17 +0000 2011	4baed4fbf964a520a0db3be3	{North Terminal}	{42.22526007509969,-83.34792852401733,Romulus,MI,United States}	{Travel & Transport,Airport,}
+1478	Sat Mar 05 14:19:03 +0000 2011	4bbfeda54cdfc9b6653f9221	{Hertz Rental Car}	{42.23654464487903,-83.33331048488617,Romulus,MI,United States}	{Travel & Transport,Bus Station,}
+1478	Fri Mar 04 16:06:31 +0000 2011	4e38a5c918a8d2fcc624167a	{Simcoe, Ontario}	{42.83582138667738,-80.30593872070311,Simcoe,ON,Canada}	{Outdoors & Recreation,}
+1478	Fri Mar 04 00:51:13 +0000 2011	4bee01f2a40fc928f4ea820c	{Comfort Inn}	{42.847796935207306,-80.29849951239018,Simcoe,ON,Canada}	{Travel & Transport,}
+1478	Fri Mar 04 00:50:42 +0000 2011	4e38a5c918a8d2fcc624167a	{Simcoe, Ontario}	{42.83582138667738,-80.30593872070311,Simcoe,ON,Canada}	{Outdoors & Recreation,}
+1478	Tue Mar 01 03:38:44 +0000 2011	4700946bf964a520344b1fe3	{Detroit Metropolitan Wayne County Airport (DTW)}	{42.20874863661848,-83.35979461669922,Romulus,MI,United States}	{Travel & Transport,}
+1478	Tue Mar 01 01:29:30 +0000 2011	411c0480f964a5201a0c1fe3	{Philadelphia International Airport (PHL)}	{39.87700745276243,-75.2424430847168,Philadelphia,PA,United States}	{Travel & Transport,}
+1478	Tue Mar 01 01:24:55 +0000 2011	4bbef5ec98f495213aecd163	{Dunkin Donuts}	{39.87628289651727,-75.23948192596436,Philadelphia,PA,United States}	{Food,}
+1478	Mon Feb 28 23:11:23 +0000 2011	411c0480f964a5201a0c1fe3	{Philadelphia International Airport (PHL)}	{39.87700745276243,-75.2424430847168,Philadelphia,PA,United States}	{Travel & Transport,}
+1478	Mon Feb 28 16:32:55 +0000 2011	449e9fb9f964a520c0341fe3	{Phoenix Sky Harbor International Airport (PHX)}	{33.43562440517176,-112.00306606318918,Phoenix,AZ,United States}	{Travel & Transport,}
+1478	Mon Feb 28 13:45:55 +0000 2011	4be1c277edbb0f476497a615	{Gate 17}	{36.77184405,-119.71806049346924,Fresno,CA,United States}	{Travel & Transport,Airport,}
+1478	Mon Feb 28 13:33:24 +0000 2011	4ae48723f964a520529b21e3	{Fresno Yosemite International Airport (FAT)}	{36.77094484549716,-119.71966682734505,Fresno,CA,United States}	{Travel & Transport,}
+1478	Mon Feb 28 12:27:08 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Sun Feb 27 21:12:04 +0000 2011	4b804553f964a520d96230e3	{China Garden Buffet}	{36.57480597496033,-119.62410807609558,Selma,CA,United States}	{Food,}
+1478	Sun Feb 27 01:21:31 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Sat Feb 26 22:53:19 +0000 2011	4bc4d819b492d13acea6aa60	{EECU ATM}	{36.517737,-119.55729701666667,Kingsburg,CA,United States}	{Shop & Service,}
+1478	Sat Feb 26 22:46:33 +0000 2011	4b61f7c0f964a520142e2ae3	{Chevron}	{36.517721333333334,-119.55962576666667,Kingsburg,CA,United States}	{Shop & Service,}
+1478	Sat Feb 26 22:08:53 +0000 2011	4b300288f964a5205ff424e3	{Walmart Supercenter}	{36.57750822744881,-119.63403878849078,Selma,CA,United States}	{Shop & Service,}
+1478	Sat Feb 26 17:34:17 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Fri Feb 25 18:49:49 +0000 2011	4cafe58aef1b3704b88f3600	{Dari Snaks}	{36.60458817400615,-119.52809495543679,Parlier,CA,United States}	{Food,}
+1478	Fri Feb 25 18:49:27 +0000 2011	4cc98f7bd147a093fdcde7ae	{Sunwest Fruit}	{36.60507165,-119.52831438333334,Parlier,CA,United States}	{Professional & Other Places,}
+1478	Fri Feb 25 17:38:29 +0000 2011	4cf088d61c158cfa05eecab5	{Traver, CA}	{36.44844021602676,-119.48572833714404,Kingsburg,CA,United States}	{Outdoors & Recreation,}
+1478	Fri Feb 25 00:28:57 +0000 2011	4bd35ef4462cb7138e4bde07	{Nashville's Bar & Grill}	{36.358793908085495,-119.65431243181229,Hanford,CA,United States}	{Nightlife Spot,}
+1478	Fri Feb 25 00:28:40 +0000 2011	4bd354dd462cb713e12ede07	{Fratellis}	{36.35870681666667,-119.654716,Hanford,CA,United States}	{Food,}
+1478	Thu Feb 24 23:09:31 +0000 2011	4cf088d61c158cfa05eecab5	{Traver, CA}	{36.44844021602676,-119.48572833714404,Kingsburg,CA,United States}	{Outdoors & Recreation,}
+1478	Thu Feb 24 23:09:31 +0000 2011	4cf088d61c158cfa05eecab5	{Traver, CA}	{36.44844021602676,-119.48572833714404,Kingsburg,CA,United States}	{Outdoors & Recreation,}
+1478	Thu Feb 24 23:09:10 +0000 2011	4c4ede499932e21e01ac70ce	{99N 109}	{36.46169894355915,-119.49426044270446,Kingsburg,CA,United States}	{Travel & Transport,}
+1478	Tue Feb 22 19:27:29 +0000 2011	4cc98f7bd147a093fdcde7ae	{Sunwest Fruit}	{36.60507165,-119.52831438333334,Parlier,CA,United States}	{Professional & Other Places,}
+1478	Tue Feb 22 04:28:08 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Mon Feb 21 05:56:27 +0000 2011	4b4929f9f964a5206a6826e3	{Edo-Ya Tokyo Cuisine}	{36.80957677,-119.84526371,Fresno,CA,United States}	{Food,}
+1478	Mon Feb 21 00:12:16 +0000 2011	4bb4e107bc82a5935efe3e72	{Chili's Grill & Bar}	{36.32315492608597,-119.67257614250882,Hanford,CA,United States}	{Food,}
+1478	Sat Feb 19 23:01:58 +0000 2011	4b29badaf964a520f6a224e3	{Red Wave Inn}	{36.808049,-119.745919,Fresno,CA,United States}	{Nightlife Spot,}
+1478	Sat Feb 19 07:46:14 +0000 2011	4b29badaf964a520f6a224e3	{Red Wave Inn}	{36.808049,-119.745919,Fresno,CA,United States}	{Nightlife Spot,}
+1478	Thu Feb 17 15:38:38 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Wed Feb 16 13:43:33 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Wed Feb 16 00:10:17 +0000 2011	4bd354dd462cb713e12ede07	{Fratellis}	{36.35870681666667,-119.654716,Hanford,CA,United States}	{Food,}
+1478	Tue Feb 15 14:45:24 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Fri Feb 11 14:35:22 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Tue Feb 08 03:05:17 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Sat Feb 05 04:22:06 +0000 2011	4bd35ef4462cb7138e4bde07	{Nashville's Bar & Grill}	{36.358793908085495,-119.65431243181229,Hanford,CA,United States}	{Nightlife Spot,}
+1478	Wed Feb 02 06:27:45 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Wed Feb 02 00:10:56 +0000 2011	4b5fc1a1f964a520a8cb29e3	{Sierra Gas station}	{36.33829175,-119.63734308333333,Hanford,CA,United States}	{}
+1478	Tue Feb 01 17:04:54 +0000 2011	4cf088d61c158cfa05eecab5	{Traver, CA}	{36.44844021602676,-119.48572833714404,Kingsburg,CA,United States}	{Outdoors & Recreation,}
+1478	Tue Feb 01 00:14:23 +0000 2011	4be7a453c5220f4702e0a8ca	{Chevron}	{36.359616878038665,-119.65456187725067,Hanford,CA,United States}	{Shop & Service,}
+1478	Mon Jan 31 01:46:21 +0000 2011	4b302cd5f964a52053f724e3	{Sun Hong Kong}	{36.51514291763306,-119.55264,Kingsburg,CA,United States}	{Food,}
+1478	Thu Jan 27 23:13:34 +0000 2011	4b91e080f964a5201ddd33e3	{VONS}	{34.39560771541459,-118.91661611996827,Fillmore,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1478	Thu Jan 27 19:47:08 +0000 2011	4bd5a83d9649ce72ab79511d	{Best Western La Posada Motel Fillmore}	{34.396442592298804,-118.92126812739372,Fillmore,CA,United States}	{Travel & Transport,Hotel,}
+1478	Thu Jan 27 19:46:45 +0000 2011	4cb88f83eb1eef3b4f7f46c7	{Chevron}	{34.39590275287628,-118.917945,Fillmore,CA,United States}	{Shop & Service,}
+1478	Thu Jan 27 18:58:26 +0000 2011	4cfd3b15ee9cb60ca97899ad	{The Gay House Of Nude Combat}	{34.825874,-118.876531,Lebec Rest Area,CA,United States}	{Outdoors & Recreation,}
+1478	Thu Jan 27 18:57:56 +0000 2011	4bac68eff964a520def33ae3	{Lebec Rest Stop - Southbound}	{34.828635495557386,-118.8724136352539,Lebec,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1478	Thu Jan 27 18:31:32 +0000 2011	4c8724b8f554236a6fb8ca55	{Bakersfield}	{35.182263128541976,-119.00663439964683,Bakersfield,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1478	Thu Jan 27 14:46:28 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Thu Jan 27 01:13:24 +0000 2011	4aac0052f964a520835b20e3	{Teazer World Tea Market}	{36.757847,-119.803728,Fresno,CA,United States}	{Food,}
+1478	Wed Jan 26 01:29:53 +0000 2011	4cc38ec901fb236a4eaea6ba	{Playas De Rosarito}	{36.57051946666667,-119.61778182,Selma,CA,United States}	{Food,}
+1478	Wed Jan 26 01:28:47 +0000 2011	4c3bb9065810a593f41fbb3c	{Walgreens}	{36.57594226,-119.626521,SELMA,CA,United States}	{Shop & Service,}
+1478	Sun Jan 23 17:23:23 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Sat Jan 22 18:47:46 +0000 2011	4b8060aff964a520c96c30e3	{Hobbytown USA}	{36.821329483333336,-119.8460867,Fresno,CA,United States}	{Shop & Service,}
+1478	Wed Jan 19 14:50:19 +0000 2011	4b220eb4f964a520814324e3	{McDonald's}	{36.51737442413079,-119.5620743905159,Kingsburg,CA,United States}	{Food,}
+1478	Wed Jan 19 14:37:56 +0000 2011	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Thu Jan 06 01:46:18 +0000 2011	4cc98f7bd147a093fdcde7ae	{Sunwest Fruit}	{36.60507165,-119.52831438333334,Parlier,CA,United States}	{Professional & Other Places,}
+1478	Tue Jan 04 21:39:26 +0000 2011	4d0934aa0ead8cfab626f476	{Sun Pacific Shippers,L.P.}	{36.23926954412313,-119.27959924236303,Tulare,CA,United States}	{}
+1478	Sat Dec 25 16:56:26 +0000 2010	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Wed Dec 22 02:45:02 +0000 2010	4bd4a2d7637ba593a81ff570	{Sunnyside Pizza}	{36.735225,-119.70126986503601,Fresno,CA,United States}	{Food,}
+1478	Tue Dec 14 17:17:56 +0000 2010	5065f3f3e4b0916c4ce0eaee	{Tejon Pass Rest Area}	{34.825899554811485,-118.8705890289229,Lebec,CA,United States}	{Travel & Transport,}
+1478	Tue Dec 14 17:16:53 +0000 2010	4b941ceff964a520fb6834e3	{The Grapevine}	{34.77886140193761,-118.81443500518799,Lebec,CA,United States}	{Travel & Transport,}
+1478	Tue Dec 14 17:16:07 +0000 2010	4b941ceff964a520fb6834e3	{The Grapevine}	{34.77886140193761,-118.81443500518799,Lebec,CA,United States}	{Travel & Transport,}
+1478	Tue Dec 14 17:16:07 +0000 2010	4b941ceff964a520fb6834e3	{The Grapevine}	{34.77886140193761,-118.81443500518799,Lebec,CA,United States}	{Travel & Transport,}
+1478	Tue Dec 14 17:11:53 +0000 2010	4cf1a1bec9af6dcbbd049b7f	{Tejon Pass}	{34.92881107753619,-118.92888278795277,Lebec,CA,United States}	{Travel & Transport,}
+1478	Sun Dec 12 22:18:06 +0000 2010	4b2209e2f964a520494324e3	{Denny's}	{36.518275757935456,-119.5605082064867,Kingsburg,CA,United States}	{Food,}
+1478	Sat Dec 11 07:04:51 +0000 2010	4ca7694a931bb60c19079de2	{Casa De Kelly V2.0}	{36.5269029706051,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Fri Dec 10 16:44:07 +0000 2010	4bc0da0574a9a5938aced0f6	{El Pescador}	{34.394463377382124,-118.93256203097157,Fillmore,CA,United States}	{Food,}
+1478	Fri Dec 10 16:44:07 +0000 2010	4bc0da0574a9a5938aced0f6	{El Pescador}	{34.394463377382124,-118.93256203097157,Fillmore,CA,United States}	{Food,}
+1478	Fri Dec 10 14:49:39 +0000 2010	4cb46cfd562d224b682e3488	{Piru Citrus}	{34.4099811,-118.79520965,Fillmore-Piru,CA,United States}	{Outdoors & Recreation,}
+1478	Fri Dec 10 01:37:25 +0000 2010	4bd5a83d9649ce72ab79511d	{Best Western La Posada Motel Fillmore}	{34.396442592298804,-118.92126812739372,Fillmore,CA,United States}	{Travel & Transport,Hotel,}
+===
+1478	Mon Nov 15 20:26:56 +0000 2010	4cafe58aef1b3704b88f3600	{Dari Snaks}	{36.60458817400615,-119.52809495543679,Parlier,CA,United States}	{Food,}
+1478	Mon Nov 15 20:26:15 +0000 2010	4cc98f7bd147a093fdcde7ae	{Sunwest Fruit}	{36.60507165,-119.52831438333334,Parlier,CA,United States}	{Professional & Other Places,}
+1478	Fri Nov 12 22:16:32 +0000 2010	4cc98f7bd147a093fdcde7ae	{Sunwest Fruit}	{36.60507165,-119.52831438333334,Parlier,CA,United States}	{Professional & Other Places,}
+1478	Thu Nov 11 23:38:37 +0000 2010	4b61f7c0f964a520142e2ae3	{Chevron}	{36.517721333333334,-119.55962576666667,Kingsburg,CA,United States}	{Shop & Service,}
+1478	Mon Nov 08 07:17:40 +0000 2010	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Sun Nov 07 04:01:21 +0000 2010	4bce6c1fb6c49c7499419791	{Applebee's}	{36.80857725621059,-119.85894513564602,Fresno,CA,United States}	{Food,}
+1478	Sat Nov 06 18:33:43 +0000 2010	4b2209e2f964a520494324e3	{Denny's}	{36.518275757935456,-119.5605082064867,Kingsburg,CA,United States}	{Food,}
+1478	Sat Nov 06 18:08:10 +0000 2010	4bc4d819b492d13acea6aa60	{EECU ATM}	{36.517737,-119.55729701666667,Kingsburg,CA,United States}	{Shop & Service,}
+1478	Sat Nov 06 05:37:57 +0000 2010	4b29badaf964a520f6a224e3	{Red Wave Inn}	{36.808049,-119.745919,Fresno,CA,United States}	{Nightlife Spot,}
+1478	Sat Nov 06 04:16:07 +0000 2010	4b4be139f964a52054aa26e3	{Chipotle Mexican Grill}	{36.811083,-119.807936,Fresno,CA,United States}	{Food,}
+1478	Sat Nov 06 03:32:48 +0000 2010	4c96340e94a0236a3db29c12	{SAHAGUN FAMILIA}	{36.77920201694465,-119.82944298287919,Fresno,CA,United States}	{Residence,}
+1478	Fri Nov 05 13:36:53 +0000 2010	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Fri Nov 05 03:28:40 +0000 2010	4b6354dbf964a520c1722ae3	{Dog House Grill}	{36.808269,-119.73660266,Fresno,CA,United States}	{Nightlife Spot,Food,}
+1478	Thu Nov 04 22:44:57 +0000 2010	4b61f7c0f964a520142e2ae3	{Chevron}	{36.517721333333334,-119.55962576666667,Kingsburg,CA,United States}	{Shop & Service,}
+1478	Thu Nov 04 22:44:57 +0000 2010	4b61f7c0f964a520142e2ae3	{Chevron}	{36.517721333333334,-119.55962576666667,Kingsburg,CA,United States}	{Shop & Service,}
+1478	Wed Nov 03 01:10:44 +0000 2010	4cceed32dd919eb07a7a139e	{Voting at 333 Kern St}	{36.511653,-119.563667,Kingsburg,CA,United States}	{Professional & Other Places,}
+1478	Wed Nov 03 01:06:59 +0000 2010	4cceed32dd919eb0797a139e	{Voting at 1401 7th Avenue Dr}	{36.513407,-119.560474,Kingsburg,CA,United States}	{Professional & Other Places,}
+1478	Tue Nov 02 16:24:06 +0000 2010	4cc98f7bd147a093fdcde7ae	{Sunwest Fruit}	{36.60507165,-119.52831438333334,Parlier,CA,United States}	{Professional & Other Places,}
+1478	Tue Nov 02 16:14:25 +0000 2010	4b8b0f01f964a520b49032e3	{Kings River Golf & Country Club}	{36.51788773360902,-119.50488237889756,Kingsburg,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1478	Tue Nov 02 16:08:12 +0000 2010	4b6e6facf964a5206abd2ce3	{Riverland Resort}	{36.494813289241606,-119.52861037031946,Kingsburg,CA,United States}	{Outdoors & Recreation,}
+1478	Tue Nov 02 02:50:37 +0000 2010	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Mon Nov 01 16:26:37 +0000 2010	4cc98f7bd147a093fdcde7ae	{Sunwest Fruit}	{36.60507165,-119.52831438333334,Parlier,CA,United States}	{Professional & Other Places,}
+1478	Mon Nov 01 16:26:36 +0000 2010	4cc98f7bd147a093fdcde7ae	{Sunwest Fruit}	{36.60507165,-119.52831438333334,Parlier,CA,United States}	{Professional & Other Places,}
+1478	Mon Nov 01 15:27:55 +0000 2010	4cced9c454f0b1f79a9324ca	{Fowler Packing Co. Inc.}	{36.60815376619128,-119.75225446702068,Fresno,CA,United States}	{Professional & Other Places,}
+1478	Mon Nov 01 14:59:58 +0000 2010	4d51ed0a71548cfae021219a	{Highway 99}	{36.50424677671918,-119.53616013675249,Fowler,CA,United States}	{Travel & Transport,}
+1478	Sun Oct 31 23:41:42 +0000 2010	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Sun Oct 31 04:33:40 +0000 2010	4b29badaf964a520f6a224e3	{Red Wave Inn}	{36.808049,-119.745919,Fresno,CA,United States}	{Nightlife Spot,}
+1478	Sat Oct 30 23:57:01 +0000 2010	4d51ed0a71548cfae021219a	{Highway 99}	{36.50424677671918,-119.53616013675249,Fowler,CA,United States}	{Travel & Transport,}
+1478	Sat Oct 30 19:41:29 +0000 2010	4ccc74e4ba79a1cdad783bcb	{The Holy Child}	{36.823246233333336,-119.8086816072464,Fresno,CA,United States}	{Shop & Service,}
+1478	Sat Oct 30 18:35:28 +0000 2010	4c96340e94a0236a3db29c12	{SAHAGUN FAMILIA}	{36.77920201694465,-119.82944298287919,Fresno,CA,United States}	{Residence,}
+1478	Sat Oct 30 18:05:40 +0000 2010	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Fri Oct 29 21:52:42 +0000 2010	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Fri Oct 29 20:29:17 +0000 2010	4b803884f964a520dc5d30e3	{Chevron}	{36.7077586604588,-119.69939328986257,Fresno,CA,United States}	{Shop & Service,}
+1478	Fri Oct 29 20:28:24 +0000 2010	4c81e20851ada1cd87971710	{City Lights}	{36.77175196298174,-119.69998162569463,Fresno,CA,United States}	{Nightlife Spot,}
+1478	Fri Oct 29 03:02:21 +0000 2010	4b61f7c0f964a520142e2ae3	{Chevron}	{36.517721333333334,-119.55962576666667,Kingsburg,CA,United States}	{Shop & Service,}
+1478	Thu Oct 28 23:38:17 +0000 2010	4caea6771168a093884c1c23	{Athwal Park}	{36.5138535843692,-119.56950348613769,Kingsburg,CA,United States}	{Outdoors & Recreation,}
+1478	Thu Oct 28 20:07:45 +0000 2010	4cfa83d620fe3704cadc4df8	{Burger King}	{36.60485218697994,-119.54758314661576,Parlier,CA,United States}	{Food,}
+1478	Thu Oct 28 18:14:16 +0000 2010	4c11b1d16e5dc9b666a7b02d	{R-N Market}	{36.604862,-119.546984,Parlier,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1478	Thu Oct 28 16:57:21 +0000 2010	4bc4d819b492d13acea6aa60	{EECU ATM}	{36.517737,-119.55729701666667,Kingsburg,CA,United States}	{Shop & Service,}
+1478	Thu Oct 28 16:56:34 +0000 2010	4b342060f964a5204a2525e3	{Save Mart}	{36.5188146477703,-119.55851825390525,Kingsburg,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1478	Thu Oct 28 15:02:47 +0000 2010	4cc98f7bd147a093fdcde7ae	{Sunwest Fruit}	{36.60507165,-119.52831438333334,Parlier,CA,United States}	{Professional & Other Places,}
+1478	Thu Oct 28 13:15:59 +0000 2010	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Thu Oct 28 01:55:41 +0000 2010	4b61f7c0f964a520142e2ae3	{Chevron}	{36.517721333333334,-119.55962576666667,Kingsburg,CA,United States}	{Shop & Service,}
+1478	Thu Oct 28 00:50:14 +0000 2010	4b29b019f964a52089a224e3	{Me-n-Eds Pizzeria}	{36.518688797950745,-119.5644611120224,Kingsburg,CA,United States}	{Food,}
+1478	Thu Oct 28 00:46:40 +0000 2010	4b33ee0af964a520322225e3	{Kmart}	{36.5190273873815,-119.56560778901068,Kingsburg,CA,United States}	{Shop & Service,Clothing Store,}
+1478	Wed Oct 27 22:54:43 +0000 2010	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Wed Oct 27 22:53:31 +0000 2010	4bba486bcf2fc9b6af5ea102	{SONIC Drive In}	{36.51843150010327,-119.56638693809509,Kingsburg,CA,United States}	{Food,}
+1478	Wed Oct 27 05:54:16 +0000 2010	4b36cfe2f964a520e43c25e3	{Selma 6 Cinema}	{36.57285602991861,-119.62474524591687,Selma,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1478	Wed Oct 27 04:13:00 +0000 2010	4b36cfe2f964a520e43c25e3	{Selma 6 Cinema}	{36.57285602991861,-119.62474524591687,Selma,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1478	Tue Oct 26 23:06:49 +0000 2010	4b55d148f964a52055f127e3	{Reagan Elementary School}	{36.51178326525444,-119.572255324468,Kingsburg,CA,United States}	{Outdoors & Recreation,College & University,Professional & Other Places,}
+1478	Tue Oct 26 22:07:30 +0000 2010	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Tue Oct 26 15:31:19 +0000 2010	4c2e0cfee307d13a22d00eda	{California Citrus Cooperative}	{34.01594591766163,-117.32994466779141,Riverside,CA,United States}	{}
+1478	Tue Oct 26 13:07:03 +0000 2010	4b6c6e02f964a5207a392ce3	{IHOP}	{34.06558499341619,-117.28239088079569,San Bernardino,CA,United States}	{Food,}
+1478	Tue Oct 26 13:06:25 +0000 2010	4b465a54f964a5207f1e26e3	{Hilton San Bernardino}	{34.06530765333996,-117.2807264328003,San Bernardino,CA,United States}	{Travel & Transport,}
+1478	Tue Oct 26 02:08:36 +0000 2010	4ba7ea20f964a52047be39e3	{Guitar Center}	{34.069196,-117.266186,San Bernardino,CA,United States}	{Shop & Service,}
+1478	Tue Oct 26 02:06:35 +0000 2010	4b4530ebf964a520820726e3	{Best Buy}	{34.06609866,-117.2669077,San Bernardino,CA,United States}	{Shop & Service,}
+1478	Tue Oct 26 01:44:09 +0000 2010	4b5d1c04f964a520095329e3	{Panda Express}	{34.06592090683733,-117.2695255279541,San Bernardino,CA,United States}	{Food,}
+1478	Mon Oct 25 23:26:05 +0000 2010	4bad993bf964a520155e3be3	{AMPM}	{34.06273672103124,-117.2782519893859,San Bernardino,CA,United States}	{Shop & Service,}
+1478	Mon Oct 25 23:12:24 +0000 2010	4b465a54f964a5207f1e26e3	{Hilton San Bernardino}	{34.06530765333996,-117.2807264328003,San Bernardino,CA,United States}	{Travel & Transport,}
+1478	Mon Oct 25 03:15:40 +0000 2010	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Sun Oct 24 01:41:35 +0000 2010	4cc38ec901fb236a4eaea6ba	{Playas De Rosarito}	{36.57051946666667,-119.61778182,Selma,CA,United States}	{Food,}
+1478	Sat Oct 23 20:32:46 +0000 2010	4b33ee0af964a520322225e3	{Kmart}	{36.5190273873815,-119.56560778901068,Kingsburg,CA,United States}	{Shop & Service,Clothing Store,}
+1478	Sat Oct 23 17:34:38 +0000 2010	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Fri Oct 22 22:49:25 +0000 2010	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Fri Oct 22 22:49:25 +0000 2010	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Fri Oct 22 03:32:35 +0000 2010	4c96340e94a0236a3db29c12	{SAHAGUN FAMILIA}	{36.77920201694465,-119.82944298287919,Fresno,CA,United States}	{Residence,}
+1478	Thu Oct 21 15:59:37 +0000 2010	4b5ddfb9f964a5205b7129e3	{Starbucks}	{36.603237155357085,-119.46000999980987,Reedley,CA,United States}	{Food,Arts & Entertainment,}
+1478	Thu Oct 21 15:30:22 +0000 2010	4b9f8b0df964a5202a2a37e3	{The Frozen Corndog}	{36.45390911244183,-119.48713302612305,traver,CA,United States}	{Food,}
+1478	Thu Oct 21 06:26:27 +0000 2010	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Wed Oct 20 04:23:24 +0000 2010	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Tue Oct 19 05:52:30 +0000 2010	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Mon Oct 18 01:10:07 +0000 2010	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Mon Oct 18 01:02:22 +0000 2010	4b61f7c0f964a520142e2ae3	{Chevron}	{36.517721333333334,-119.55962576666667,Kingsburg,CA,United States}	{Shop & Service,}
+1478	Mon Oct 18 00:01:42 +0000 2010	4b804553f964a520d96230e3	{China Garden Buffet}	{36.57480597496033,-119.62410807609558,Selma,CA,United States}	{Food,}
+1478	Sun Oct 17 02:23:12 +0000 2010	4af7618cf964a520e60822e3	{Famous Dave's Bar-B-Que}	{36.846602,-119.79112386703491,Fresno,CA,United States}	{Food,}
+1478	Sat Oct 16 06:12:41 +0000 2010	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Sat Oct 16 04:21:08 +0000 2010	4cb8fa949552b60cd8acd08b	{Lil Nanchi}	{36.61845205214005,-119.51657126863469,,CA,United States}	{Residence,}
+1478	Fri Oct 15 23:27:17 +0000 2010	4d51ed0a71548cfae021219a	{Highway 99}	{36.50424677671918,-119.53616013675249,Fowler,CA,United States}	{Travel & Transport,}
+1478	Fri Oct 15 23:17:38 +0000 2010	4c96340e94a0236a3db29c12	{SAHAGUN FAMILIA}	{36.77920201694465,-119.82944298287919,Fresno,CA,United States}	{Residence,}
+1478	Fri Oct 15 22:19:17 +0000 2010	4cacba7f97c8a1cd0d70a3a5	{Big Fresno Fair}	{36.731254288404635,-119.74976626516855,Fresno,CA,United States}	{Arts & Entertainment,}
+1478	Fri Oct 15 01:19:39 +0000 2010	4cae8ae6ef1b3704c7be2b00	{El Baby Face Krib}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}
+1478	Thu Oct 14 13:46:30 +0000 2010	4bd5a83d9649ce72ab79511d	{Best Western La Posada Motel Fillmore}	{34.396442592298804,-118.92126812739372,Fillmore,CA,United States}	{Travel & Transport,Hotel,}
+1478	Thu Oct 14 13:46:30 +0000 2010	4bd5a83d9649ce72ab79511d	{Best Western La Posada Motel Fillmore}	{34.396442592298804,-118.92126812739372,Fillmore,CA,United States}	{Travel & Transport,Hotel,}
+1478	Thu Oct 14 13:46:15 +0000 2010	4bb56cbb2ea195212681aa2f	{Starbucks}	{34.395981424892774,-118.91698122024536,Fillmore,CA,United States}	{Food,}
+1478	Thu Oct 14 13:46:15 +0000 2010	4bb56cbb2ea195212681aa2f	{Starbucks}	{34.395981424892774,-118.91698122024536,Fillmore,CA,United States}	{Food,}
+1478	Thu Oct 14 13:45:54 +0000 2010	4cb46cfd562d224b682e3488	{Piru Citrus}	{34.4099811,-118.79520965,Fillmore-Piru,CA,United States}	{Outdoors & Recreation,}
+1478	Wed Oct 13 22:36:06 +0000 2010	4cb46cfd562d224b682e3488	{Piru Citrus}	{34.4099811,-118.79520965,Fillmore-Piru,CA,United States}	{Outdoors & Recreation,}
+1478	Wed Oct 13 22:36:06 +0000 2010	4cb46cfd562d224b682e3488	{Piru Citrus}	{34.4099811,-118.79520965,Fillmore-Piru,CA,United States}	{Outdoors & Recreation,}
+1478	Wed Oct 13 22:35:59 +0000 2010	4bcb4e12fb84c9b6e08c1e3e	{Filmore and Western Railway}	{34.40541341659533,-118.79532509644902,Fillmore,CA,United States}	{}
+1478	Wed Oct 13 22:35:59 +0000 2010	4bcb4e12fb84c9b6e08c1e3e	{Filmore and Western Railway}	{34.40541341659533,-118.79532509644902,Fillmore,CA,United States}	{}
+1478	Wed Oct 13 02:02:27 +0000 2010	4b19d439f964a520fae423e3	{Teppan Steak House}	{34.224470948860294,-119.15340721607208,Oxnard,CA,United States}	{Food,}
+1478	Tue Oct 12 22:39:17 +0000 2010	4bcb4e12fb84c9b6e08c1e3e	{Filmore and Western Railway}	{34.40541341659533,-118.79532509644902,Fillmore,CA,United States}	{}
+1478	Tue Oct 12 18:43:50 +0000 2010	4be5b89fcf200f470e9e133c	{AMPM}	{34.405280913807665,-118.79422187805176,Piru,CA,United States}	{Shop & Service,}
+1478	Tue Oct 12 14:13:22 +0000 2010	4cb46cfd562d224b682e3488	{Piru Citrus}	{34.4099811,-118.79520965,Fillmore-Piru,CA,United States}	{Outdoors & Recreation,}
+1478	Tue Oct 12 13:54:08 +0000 2010	4bb56cbb2ea195212681aa2f	{Starbucks}	{34.395981424892774,-118.91698122024536,Fillmore,CA,United States}	{Food,}
+1478	Tue Oct 12 13:35:10 +0000 2010	4bd5a83d9649ce72ab79511d	{Best Western La Posada Motel Fillmore}	{34.396442592298804,-118.92126812739372,Fillmore,CA,United States}	{Travel & Transport,Hotel,}
+1478	Tue Oct 12 02:49:39 +0000 2010	4bbf9803b492d13ae4eca260	{El Pescador}	{34.33959099020129,-119.08492049339765,Santa Paula,CA,United States}	{Food,}
+1478	Mon Oct 11 18:58:03 +0000 2010	4bc0da0574a9a5938aced0f6	{El Pescador}	{34.394463377382124,-118.93256203097157,Fillmore,CA,United States}	{Food,}
+1478	Mon Oct 11 18:55:24 +0000 2010	4c2e983f3896e21e6e9ee290	{USA Gasoline}	{34.395967,-118.91749317,Fillmore,CA,United States}	{Shop & Service,}
+1478	Mon Oct 11 18:49:17 +0000 2010	4c9e4cb00e9bb1f714f3e55f	{Harriette's Place}	{34.394375619833006,-118.55061575123747,Valencia,CA,United States}	{Residence,}
+1478	Mon Oct 11 15:39:22 +0000 2010	4b6e1e15f964a520c0ab2ce3	{Panda Express}	{34.98598203055081,-118.94654463375407,Lebec,CA,United States}	{Food,}
+1478	Mon Oct 11 15:38:42 +0000 2010	4b673adef964a520a1422be3	{Mobil}	{34.985231673970894,-118.9470648765564,LEBEC,CA,United States}	{Shop & Service,}
+1478	Sat Oct 09 18:38:16 +0000 2010	4b4be139f964a52054aa26e3	{Chipotle Mexican Grill}	{36.811083,-119.807936,Fresno,CA,United States}	{Food,}
+1478	Sat Oct 09 01:47:42 +0000 2010	4b4761cdf964a520673026e3	{T.G.I. Friday's}	{36.83662997546104,-119.77069616317749,Fresno,CA,United States}	{Nightlife Spot,Food,}
+1478	Tue Oct 05 16:47:52 +0000 2010	4b9bcb0bf964a520ca2536e3	{The land of Maf!}	{36.451699908651904,-119.48812007904053,Traver,CA,United States}	{Professional & Other Places,}
+1478	Mon Oct 04 00:59:51 +0000 2010	4b8b2ed6f964a5207b9632e3	{Pub n Sub}	{36.51860532437638,-119.5601604298847,Kingsburg,CA,United States}	{Food,}
+1478	Mon Oct 04 00:59:34 +0000 2010	4b2209e2f964a520494324e3	{Denny's}	{36.518275757935456,-119.5605082064867,Kingsburg,CA,United States}	{Food,}
+1478	Sun Oct 03 23:35:53 +0000 2010	4bda1c89c79cc92896907de9	{Gap Factory Store}	{36.22663187296047,-119.33442973095507,Tulare,CA,United States}	{Shop & Service,Clothing Store,}
+1478	Sun Oct 03 23:13:51 +0000 2010	4ba3e248f964a520f36938e3	{Tilly's}	{36.229157,-119.334865,Tulare,CA,United States}	{Shop & Service,}
+1478	Sun Oct 03 23:13:26 +0000 2010	4bcb70a4fb84c9b645e11e3e	{Tulare Outlet Mall}	{36.22820361050586,-119.33510463282465,Tulare,CA,United States}	{Shop & Service,}
+1478	Mon Sep 27 02:54:02 +0000 2010	4adb7d21f964a5201b2821e3	{Northern California Renaissance Faire}	{36.99623619372281,-121.37499295191445,Hollister,CA,United States}	{Shop & Service,Outdoors & Recreation,}
+1478	Sun Sep 26 22:08:18 +0000 2010	49e918a7f964a520c9651fe3	{Marianne's Ice Cream?}	{36.981935,-122.02188513333333,Santa Cruz,CA,United States}	{Food,}
+1478	Sun Sep 26 19:43:08 +0000 2010	4adb7d21f964a5201b2821e3	{Northern California Renaissance Faire}	{36.99623619372281,-121.37499295191445,Hollister,CA,United States}	{Shop & Service,Outdoors & Recreation,}
+1478	Sun Sep 26 19:41:09 +0000 2010	4adb7d21f964a5201b2821e3	{Northern California Renaissance Faire}	{36.99623619372281,-121.37499295191445,Hollister,CA,United States}	{Shop & Service,Outdoors & Recreation,}
+1478	Sat Sep 25 10:51:44 +0000 2010	4b345302f964a520002725e3	{The Matt Cave}	{36.51388059535084,-119.57456263776835,Kingsburg,CA,United States}	{Nightlife Spot,Residence,}
+1478	Thu Sep 23 00:34:58 +0000 2010	4bb7d1ce7421a593101dc140	{Colonel Allensworth State Historical Park}	{35.86543815664451,-119.38503877056453,Allensworth,CA,United States}	{Outdoors & Recreation,}
+1478	Wed Sep 22 23:04:08 +0000 2010	5065f3f3e4b0916c4ce0eaee	{Tejon Pass Rest Area}	{34.825899554811485,-118.8705890289229,Lebec,CA,United States}	{Travel & Transport,}
+1478	Wed Sep 22 23:03:40 +0000 2010	4bcf7ddd0ffdce72518bb2c0	{Courtyard by Marriott}	{34.443062943008435,-118.601650112214,Valencia,CA,United States}	{Travel & Transport,}
+1478	Mon Sep 20 03:43:42 +0000 2010	4b5a5cc0f964a52015c028e3	{Regal Manchester Stadium 16}	{36.781654683875416,-119.78642463684082,Fresno,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1478	Mon Sep 20 03:43:41 +0000 2010	4b5a5cc0f964a52015c028e3	{Regal Manchester Stadium 16}	{36.781654683875416,-119.78642463684082,Fresno,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1478	Mon Sep 20 02:14:28 +0000 2010	4bcb7906511f95218492b1c7	{Blockbuster Video}	{36.575454,-119.622908,Selma,CA,United States}	{Shop & Service,}
+1478	Wed Sep 08 19:22:08 +0000 2010	4a870634f964a5202b0220e3	{Fry's Electronics}	{34.03075387345181,-118.00698816776276,City of Industry,CA,United States}	{Shop & Service,Food,}
+1478	Wed Sep 08 18:42:10 +0000 2010	4c182226fe5a76b089ad0115	{I-5 & SR 170 Interchange}	{34.23277382877663,-118.409743309021,Sun Valley,CA,United States}	{Travel & Transport,}
+===
+1478	Thu Aug 05 12:24:49 +0000 2010	4be1c277edbb0f476497a615	{Gate 17}	{36.77184405,-119.71806049346924,Fresno,CA,United States}	{Travel & Transport,Airport,}
+1478	Thu Aug 05 12:24:46 +0000 2010	4ae48723f964a520529b21e3	{Fresno Yosemite International Airport (FAT)}	{36.77094484549716,-119.71966682734505,Fresno,CA,United States}	{Travel & Transport,}
+1478	Sat Jul 31 05:18:10 +0000 2010	4b25d3f2f964a520a47624e3	{Edwards Fresno Stadium 22 & IMAX}	{36.84929549149699,-119.78793831619728,Fresno,CA,United States}	{Arts & Entertainment,}
+1478	Sun Jul 18 22:54:14 +0000 2010	4e07dbf7a809495e619bed68	{Tipton, CA}	{36.05810187695304,-119.3117478282561,Tipton,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1478	Sun Jul 18 01:14:29 +0000 2010	4a6d0cd8f964a52067d21fe3	{Yogurtland}	{34.161026,-118.448528,Sherman Oaks,CA,United States}	{Food,}
+1478	Sat Jul 17 20:07:15 +0000 2010	4a0992a8f964a5203a741fe3	{Claim Jumper}	{34.174421233637425,-118.84691387414932,Thousand Oaks,CA,United States}	{Nightlife Spot,Food,}
+1478	Sat Jul 17 17:51:58 +0000 2010	4b9d3b77f964a520bd9b36e3	{Bible Christian Fellowship}	{34.072503,-118.269168,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+1478	Sat Jul 17 17:44:17 +0000 2010	4acaa9e1f964a520c4c220e3	{Denny's}	{34.054622654523705,-118.23179830654288,Los Angeles,CA,United States}	{Food,}
+1478	Sat Jul 17 04:37:26 +0000 2010	4b461325f964a520831526e3	{Chili's Grill & Bar}	{34.065951316593846,-117.27448615541702,San Bernardino,CA,United States}	{Food,}
+1478	Sat Jul 17 04:36:35 +0000 2010	4b43e4d2f964a52067ed25e3	{Claim Jumper Restaurant}	{34.06675298739115,-117.2813920438147,San Bernardino,CA,United States}	{Food,}
+1478	Fri Jul 16 23:30:27 +0000 2010	4c12b594a9c220a12e7f549d	{Riverside Convention Center}	{33.997448847545826,-117.3704755046836,Riverside,CA,United States}	{Professional & Other Places,}
+1478	Thu Jul 15 18:27:35 +0000 2010	4c2f675b3ffc9521d3938ff5	{Yum Yum Restaurant}	{34.021882,-117.33618503333334,Colton,CA,United States}	{Food,}
+1478	Thu Jul 15 18:27:22 +0000 2010	4bd12aa0046076b046877171	{Jack in the Box - Colton, CA}	{34.021803085081324,-117.3364354386157,Colton,CA,United States}	{Food,}
+1478	Thu Jul 15 18:27:15 +0000 2010	4bac1712f964a5208ce33ae3	{Stop In}	{34.020422,-117.339443,Colton,CA,United States}	{Nightlife Spot,}
+1478	Thu Jul 15 13:28:56 +0000 2010	4c2e0cfee307d13a22d00eda	{California Citrus Cooperative}	{34.01594591766163,-117.32994466779141,Riverside,CA,United States}	{}
+1478	Wed Jul 14 17:26:09 +0000 2010	4c12b594a9c220a12e7f549d	{Riverside Convention Center}	{33.997448847545826,-117.3704755046836,Riverside,CA,United States}	{Professional & Other Places,}
+1478	Wed Jul 14 17:26:09 +0000 2010	4c12b594a9c220a12e7f549d	{Riverside Convention Center}	{33.997448847545826,-117.3704755046836,Riverside,CA,United States}	{Professional & Other Places,}
+1478	Tue Jul 13 23:11:07 +0000 2010	49d54769f964a520855c1fe3	{Flesh Showgirls}	{34.06620531274992,-117.28579044342041,San Bernardino,CA,United States}	{Nightlife Spot,}
+1478	Tue Jul 13 23:10:46 +0000 2010	4b8c2613f964a520cac032e3	{Carl's Jr.}	{34.06338508282933,-117.28303954812195,San Bernardino,CA,United States}	{Food,}
+1478	Tue Jul 13 23:10:31 +0000 2010	4b465a54f964a5207f1e26e3	{Hilton San Bernardino}	{34.06530765333996,-117.2807264328003,San Bernardino,CA,United States}	{Travel & Transport,}
+1478	Tue Jul 13 21:17:58 +0000 2010	4be305f321d5a593dbf91711	{215 freeway}	{33.98732,-117.36340284347534,Riverside,CA,United States}	{Shop & Service,}
+1478	Tue Jul 13 19:55:17 +0000 2010	4b16d183f964a520e0bd23e3	{AJ's BBQ Pit}	{34.03347730636597,-118.189417,Los Angeles,CA,United States}	{Food,}
+1478	Tue Jul 13 19:54:55 +0000 2010	4bd4a6de6f64952189d46dec	{Vallarta}	{34.24180766455723,-118.41828697281858,Pacoima,CA,United States}	{}
+1478	Tue Jul 13 19:12:49 +0000 2010	4c00295bf61ea5931c6eeb13	{I-5 (Golden State Freeway)}	{34.247301898783704,-118.42517137527466,Southern California,CA,United States}	{Travel & Transport,}
+1478	Tue Jul 13 04:37:04 +0000 2010	4b6354dbf964a520c1722ae3	{Dog House Grill}	{36.808269,-119.73660266,Fresno,CA,United States}	{Nightlife Spot,Food,}
+1478	Sat Jul 10 15:12:49 +0000 2010	4c31476b213c2d7f93cc335d	{City of Los Angeles}	{34.04945928842325,-118.25263023376465,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+1478	Sat Jul 10 15:12:36 +0000 2010	4c0d08ce2466a59390e97621	{I-5 / I-10 / SR-60 / US-101 Interchange}	{34.03075387345181,-118.22113037109375,Los Angeles,CA,United States}	{Travel & Transport,}
+1478	Thu Jul 08 20:28:56 +0000 2010	4b465a54f964a5207f1e26e3	{Hilton San Bernardino}	{34.06530765333996,-117.2807264328003,San Bernardino,CA,United States}	{Travel & Transport,}
+1478	Thu Jul 08 17:24:32 +0000 2010	4bac1712f964a5208ce33ae3	{Stop In}	{34.020422,-117.339443,Colton,CA,United States}	{Nightlife Spot,}
+1478	Thu Jul 08 17:24:32 +0000 2010	4bac1712f964a5208ce33ae3	{Stop In}	{34.020422,-117.339443,Colton,CA,United States}	{Nightlife Spot,}
+1478	Thu Jul 08 16:36:03 +0000 2010	4bd12aa0046076b046877171	{Jack in the Box - Colton, CA}	{34.021803085081324,-117.3364354386157,Colton,CA,United States}	{Food,}
+1478	Thu Jul 08 16:35:44 +0000 2010	4c2f675b3ffc9521d3938ff5	{Yum Yum Restaurant}	{34.021882,-117.33618503333334,Colton,CA,United States}	{Food,}
+1478	Thu Jul 08 11:58:55 +0000 2010	4c2e0cfee307d13a22d00eda	{California Citrus Cooperative}	{34.01594591766163,-117.32994466779141,Riverside,CA,United States}	{}
+1478	Thu Jul 08 05:22:10 +0000 2010	4c12b594a9c220a12e7f549d	{Riverside Convention Center}	{33.997448847545826,-117.3704755046836,Riverside,CA,United States}	{Professional & Other Places,}
+1478	Thu Jul 08 02:37:35 +0000 2010	4bd896722ecdce7210d8d0f2	{Marriott Hotel Riverside}	{33.98565888361598,-117.37285671269973,Riverside,CA,United States}	{Travel & Transport,}
+1478	Wed Jul 07 19:33:59 +0000 2010	4ba4854bf964a52010a238e3	{Pig 'N' Whistle Riverside}	{-27.46693619436127,153.03021669387817,Brisbane,QLD,Australia}	{Nightlife Spot,}
+1478	Wed Jul 07 18:30:09 +0000 2010	4c1560f3b7b9c92830e4ac37	{Highgrove Community Park}	{34.01759360079128,-117.3206377029419,Highgrove,CA,United States}	{Outdoors & Recreation,}
+1478	Wed Jul 07 16:47:59 +0000 2010	4c2e0cfee307d13a22d00eda	{California Citrus Cooperative}	{34.01594591766163,-117.32994466779141,Riverside,CA,United States}	{}
+1478	Wed Jul 07 14:20:45 +0000 2010	4c2f675b3ffc9521d3938ff5	{Yum Yum Restaurant}	{34.021882,-117.33618503333334,Colton,CA,United States}	{Food,}
+1478	Tue Jul 06 22:35:09 +0000 2010	4bac1712f964a5208ce33ae3	{Stop In}	{34.020422,-117.339443,Colton,CA,United States}	{Nightlife Spot,}
+1478	Tue Jul 06 20:41:52 +0000 2010	4c2e0cfee307d13a22d00eda	{California Citrus Cooperative}	{34.01594591766163,-117.32994466779141,Riverside,CA,United States}	{}
+1478	Tue Jul 06 19:30:32 +0000 2010	4c00295bf61ea5931c6eeb13	{I-5 (Golden State Freeway)}	{34.247301898783704,-118.42517137527466,Southern California,CA,United States}	{Travel & Transport,}
+1478	Tue Jul 06 18:45:01 +0000 2010	5065f3f3e4b0916c4ce0eaee	{Tejon Pass Rest Area}	{34.825899554811485,-118.8705890289229,Lebec,CA,United States}	{Travel & Transport,}
+1478	Tue Jul 06 18:45:01 +0000 2010	5065f3f3e4b0916c4ce0eaee	{Tejon Pass Rest Area}	{34.825899554811485,-118.8705890289229,Lebec,CA,United States}	{Travel & Transport,}
+1478	Tue Jul 06 18:44:11 +0000 2010	4b941ceff964a520fb6834e3	{The Grapevine}	{34.77886140193761,-118.81443500518799,Lebec,CA,United States}	{Travel & Transport,}
+1478	Mon Jul 05 20:06:23 +0000 2010	4b6e1e15f964a520c0ab2ce3	{Panda Express}	{34.98598203055081,-118.94654463375407,Lebec,CA,United States}	{Food,}
+1478	Mon Jul 05 20:06:00 +0000 2010	4b99502af964a520307235e3	{In-N-Out Burger}	{34.98335667785709,-118.94825043640603,Lebec,CA,United States}	{Food,}
+1478	Sun Jul 04 06:09:52 +0000 2010	49c564def964a520fd561fe3	{Del Taco -Hollywood}	{34.09042,-118.33816,Los Angeles,CA,United States}	{Food,}
+1478	Sun Jul 04 06:05:54 +0000 2010	4a87153bf964a5207d0220e3	{The Bear Pit Barbeque}	{34.266993383333336,-118.46774339675903,Mission Hills,CA,United States}	{Food,}
+1478	Sat Jul 03 15:23:36 +0000 2010	4c2e0cfee307d13a22d00eda	{California Citrus Cooperative}	{34.01594591766163,-117.32994466779141,Riverside,CA,United States}	{}
+1478	Sat Jul 03 03:07:40 +0000 2010	4b465a54f964a5207f1e26e3	{Hilton San Bernardino}	{34.06530765333996,-117.2807264328003,San Bernardino,CA,United States}	{Travel & Transport,}
+1478	Wed Jun 30 17:02:41 +0000 2010	4b9bfe8cf964a520863e36e3	{The Mansion!}	{36.45681386365856,-119.49336816444396,Kingsburg,CA,United States}	{Residence,}
+===
+1478	Thu Apr 29 00:41:40 +0000 2010	4bc4d819b492d13acea6aa60	{EECU ATM}	{36.517737,-119.55729701666667,Kingsburg,CA,United States}	{Shop & Service,}
+1478	Wed Apr 28 21:23:05 +0000 2010	4b9bcb0bf964a520ca2536e3	{The land of Maf!}	{36.451699908651904,-119.48812007904053,Traver,CA,United States}	{Professional & Other Places,}
+1478	Wed Apr 28 13:20:56 +0000 2010	4b9d9634f964a52028b536e3	{Car wash}	{36.5177221,-119.56589251666666,Kingsburg,CA,United States}	{}
+1478	Fri Apr 23 00:12:56 +0000 2010	4bcb56e60687ef3bcf82ddcc	{Bob's Big M}	{43.21964,-76.813787,Wolcott,NY,United States}	{Shop & Service,Food & Drink Shop,}
+1478	Tue Apr 20 15:08:56 +0000 2010	4bcb5435b6c49c7448f69191	{Dollar General}	{43.220019149440866,-76.81447769386699,Wolcott,NY,United States}	{Shop & Service,}
+1478	Tue Apr 20 15:08:52 +0000 2010	4bcb5ca40687ef3bda90ddcc	{Fastrac}	{43.20811618721937,-76.81353092193604,Wolcott,NY,United States}	{Shop & Service,}
+1478	Tue Apr 20 10:01:02 +0000 2010	4bbf16ab98f495217c0dd263	{Sunoco}	{43.222719,-76.82175305,Wolcott,NY,United States}	{Shop & Service,}
+1478	Mon Apr 19 12:37:03 +0000 2010	4bbf1779f353d13a33037e10	{Parts Plus Auto Store}	{43.22374844314847,-76.82919527209177,Wolcott,NY,United States}	{Shop & Service,}
+1478	Wed Apr 14 09:51:49 +0000 2010	4bc495a974a9a593f700d6f6	{Foster's}	{43.2208906304178,-76.81426364810903,Wolcott,NY,United States}	{Food,}
+1478	Sat Apr 10 12:02:59 +0000 2010	4bbf1606ba9776b0eb82fec8	{Building Supply & Home Center}	{43.22281608982541,-76.82281392621525,Wolcott,NY,United States}	{Shop & Service,}
+1478	Fri Apr 09 03:33:53 +0000 2010	4bbd0cc2a8cf76b07554b1fd	{Oak Park Resort Marina}	{43.23514725,-76.92634013333333,North Rose,NY,United States}	{}
+1478	Thu Apr 08 10:00:40 +0000 2010	4bbc846951b89c746c7a872a	{MAF Installation (work )}	{43.2207562,-76.82468633333333,Wolcott,NY,United States}	{Office,Professional & Other Places,}
+1478	Tue Apr 06 12:30:20 +0000 2010	4b80b6c5f964a520d98730e3	{Holiday Inn Express Syracuse Airport}	{43.116862600145375,-76.14146538198273,North Syracuse,NY,United States}	{Travel & Transport,}
+1478	Thu Apr 01 19:27:13 +0000 2010	4bae5d93f964a52077a83be3	{SUBWAY}	{36.44777516757048,-119.48516744401655,Traver,CA,United States}	{Food,}
+1478	Tue Mar 30 03:26:11 +0000 2010	4b9c917bf964a520a17036e3	{Denny's}	{36.75675587244937,-119.83044617645236,Fresno,CA,United States}	{Food,}
+1478	Mon Mar 22 02:35:00 +0000 2010	4b2618c0f964a520797824e3	{#Rabros residence}	{36.47795206988105,-119.59775260325169,Kingsburg,CA,United States}	{Nightlife Spot,Arts & Entertainment,Residence,}
+1478	Sat Mar 20 03:15:37 +0000 2010	4b33ee0af964a520322225e3	{Kmart}	{36.5190273873815,-119.56560778901068,Kingsburg,CA,United States}	{Shop & Service,Clothing Store,}
+1478	Sat Mar 20 02:35:21 +0000 2010	4b29e738f964a520fda324e3	{ARCO}	{36.5177,-119.5641462,Kingsburg,CA,United States}	{Shop & Service,}
+1478	Fri Mar 19 19:24:39 +0000 2010	4b9e8692f964a520c8eb36e3	{Lonche todos Los dias}	{36.45453043967046,-119.48627471923828,traver,CA,United States}	{Food,}
+1478	Wed Mar 17 19:07:50 +0000 2010	4b9f8b0df964a5202a2a37e3	{The Frozen Corndog}	{36.45390911244183,-119.48713302612305,traver,CA,United States}	{Food,}
+1478	Wed Mar 17 19:07:11 +0000 2010	4b9e8692f964a520c8eb36e3	{Lonche todos Los dias}	{36.45453043967046,-119.48627471923828,traver,CA,United States}	{Food,}
+1478	Mon Mar 15 23:48:00 +0000 2010	4b33ee0af964a520322225e3	{Kmart}	{36.5190273873815,-119.56560778901068,Kingsburg,CA,United States}	{Shop & Service,Clothing Store,}
+1478	Sat Mar 13 02:30:15 +0000 2010	4b302c90f964a52050f724e3	{Salazar's Grill & Bar}	{36.5185647,-119.564471,Kingsburg,CA,United States}	{Nightlife Spot,}
+1478	Sat Mar 13 00:54:28 +0000 2010	4b33ee0af964a520322225e3	{Kmart}	{36.5190273873815,-119.56560778901068,Kingsburg,CA,United States}	{Shop & Service,Clothing Store,}
+1478	Wed Mar 10 04:00:13 +0000 2010	4b29b019f964a52089a224e3	{Me-n-Eds Pizzeria}	{36.518688797950745,-119.5644611120224,Kingsburg,CA,United States}	{Food,}
+1478	Wed Mar 10 01:51:55 +0000 2010	4b8ec42ef964a520d33533e3	{Lil Caesars}	{36.51598718333333,-119.56848688333334,Kingsburg,CA,United States}	{}
+1478	Mon Mar 08 23:47:53 +0000 2010	4ba12865f964a5204e9d37e3	{Bravo Farms Cheese Factory}	{36.448032146232286,-119.48597431182861,Traver,CA,United States}	{Shop & Service,Food,}
+1478	Mon Mar 08 05:57:06 +0000 2010	4b6e6facf964a5206abd2ce3	{Riverland Resort}	{36.494813289241606,-119.52861037031946,Kingsburg,CA,United States}	{Outdoors & Recreation,}
+1478	Sun Mar 07 10:33:28 +0000 2010	4b5a6e45f964a520afc428e3	{Jesus of Kingsburg's}	{36.517027026499804,-119.56296624212247,Kingsburg,CA,United States}	{Residence,}

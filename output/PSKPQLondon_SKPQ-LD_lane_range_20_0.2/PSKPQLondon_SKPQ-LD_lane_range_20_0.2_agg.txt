@@ -1,0 +1,4 @@
+#categoryName experimentName dataset neighborhood plusMode queryType numQueries numKeywords numResults radius mean stdev observations
+PSKPQLondon SKPQ-LD lane range 20 0.2 pageFaults 0.0 - 1
+PSKPQLondon SKPQ-LD lane range 20 0.2 nodesAccessed 0.0 - 1
+PSKPQLondon SKPQ-LD lane range 20 0.2 totalExecutionTime 1147081.0 - 1

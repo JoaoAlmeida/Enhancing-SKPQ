@@ -1,0 +1,4 @@
+#categoryName experimentName dataset neighborhood plusMode queryType numQueries numKeywords numResults radius item value min max observations
+SKPQTeste SKPQ-LD amenity range null null null 20 0.2 nodesAccessed 0.0 - 9223372036854775807 0 0
+SKPQTeste SKPQ-LD amenity range null null null 20 0.2 pageFaults 0.0 - 9223372036854775807 0 0
+SKPQTeste SKPQ-LD amenity range null null null 20 0.2 totalExecutionTime 2026385.0 - 2026385 2026385 1

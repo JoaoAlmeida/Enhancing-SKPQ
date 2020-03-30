@@ -1,0 +1,672 @@
+1404	Fri Aug 12 00:42:05 +0000 2011	4db3b61d4df05e5aaad1e741	{Our First Newlywed <3 Shack}	{32.86200419321796,-97.07673647921854,Euless,TX,United States}	{Residence,}
+1404	Thu Aug 11 17:43:56 +0000 2011	4b589ce9f964a5204c6128e3	{Heritage Family EyeCare}	{32.91479020194442,-97.29628864825378,Fort Worth,TX,United States}	{Shop & Service,Professional & Other Places,}
+1404	Thu Aug 11 17:42:22 +0000 2011	4bbd0ef18a4fb713c88b3c9d	{Martha's Mexican Cocina}	{32.91496456730042,-97.2951712772724,Keller,TX,United States}	{Food,}
+1404	Thu Aug 11 00:45:49 +0000 2011	4bc10b8974a9a593a93cd1f6	{Roots Coffeehouse}	{32.85259069846742,-97.19118744134903,North Richland Hills,TX,United States}	{Food,}
+1404	Thu Aug 11 00:45:38 +0000 2011	4ab2ec35f964a520ff6c20e3	{Yogurt Patch}	{32.85286334017497,-97.19083070755005,North Richland Hills,TX,United States}	{Food,}
+1404	Wed Aug 10 00:30:46 +0000 2011	4dd83c2fb0fb8af3809b6d35	{Naval Recruiting Office}	{32.85273088460835,-97.19112596426932,North Richland Hills,TX,United States}	{}
+1404	Wed Aug 10 00:30:39 +0000 2011	4bc10b8974a9a593a93cd1f6	{Roots Coffeehouse}	{32.85259069846742,-97.19118744134903,North Richland Hills,TX,United States}	{Food,}
+1404	Wed Aug 10 00:30:29 +0000 2011	4ab2ec35f964a520ff6c20e3	{Yogurt Patch}	{32.85286334017497,-97.19083070755005,North Richland Hills,TX,United States}	{Food,}
+1404	Sun Aug 07 21:43:46 +0000 2011	4b97d172f964a5209d1735e3	{Tom Thumb}	{32.892361362357214,-97.10156630060327,Grapevine,TX,United States}	{Shop & Service,Food & Drink Shop,}
+1404	Sun Aug 07 21:20:35 +0000 2011	4c54c50fa724e21ed5c0e5f6	{Grapevine Lake}	{32.98073215189709,-97.08412170410156,Grapevine,TX,United States}	{Outdoors & Recreation,}
+1404	Sun Aug 07 18:12:31 +0000 2011	4c019b851747a593c9cd5dca	{Original Pancake House}	{32.922969765824995,-97.08991527557373,Grapevine,TX,United States}	{Food,}
+1404	Sun Aug 07 00:43:19 +0000 2011	4b48d04bf964a520355826e3	{Lowe's Home Improvement}	{32.878898,-97.096565,Euless,TX,United States}	{Shop & Service,}
+1404	Sun Aug 07 00:00:08 +0000 2011	4ac36643f964a520449b20e3	{Krispy Kreme Doughnuts}	{32.91504430090216,-97.12523460388184,Grapevine,TX,United States}	{Food,}
+1404	Sat Aug 06 23:36:43 +0000 2011	4da4d190cda109f02fb0e451	{Sam's Club Gas Pumps}	{32.931363259981104,-97.09821868710236,Grapevine,TX,United States}	{Shop & Service,}
+1404	Sat Aug 06 23:36:35 +0000 2011	4d20d3cbf7a9a143a997309f	{Sam's Club Car Wash}	{32.93145633111061,-97.09760383759803,Grapevine,TX,United States}	{Shop & Service,}
+1404	Sat Aug 06 23:36:27 +0000 2011	4ad64c80f964a520650621e3	{Sam's Club}	{32.93240735,-97.09794044,Grapevine,TX,United States}	{Shop & Service,Food & Drink Shop,}
+1404	Sat Aug 06 21:26:04 +0000 2011	4e2701c7e4cd60a2c62affb3	{Freebirds World Burrito}	{32.92352966666667,-97.08943,Grapevine,TX,United States}	{Food,}
+1404	Sat Aug 06 00:49:04 +0000 2011	4b7dd316f964a520f8d62fe3	{SONIC Drive In}	{32.84020620352367,-97.08296473883605,Euless,TX,United States}	{Food,}
+1404	Fri Aug 05 23:04:33 +0000 2011	4b3d548ef964a5208a9225e3	{Takara Japanese Steak House}	{32.859805,-97.24018997,Watauga,TX,United States}	{Food,}
+1404	Wed Aug 03 00:06:56 +0000 2011	4bc10b8974a9a593a93cd1f6	{Roots Coffeehouse}	{32.85259069846742,-97.19118744134903,North Richland Hills,TX,United States}	{Food,}
+1404	Wed Aug 03 00:06:47 +0000 2011	4dd83c2fb0fb8af3809b6d35	{Naval Recruiting Office}	{32.85273088460835,-97.19112596426932,North Richland Hills,TX,United States}	{}
+1404	Wed Aug 03 00:06:29 +0000 2011	4ab2ec35f964a520ff6c20e3	{Yogurt Patch}	{32.85286334017497,-97.19083070755005,North Richland Hills,TX,United States}	{Food,}
+1404	Sat Jul 30 22:23:05 +0000 2011	4a7b7c1ef964a5202feb1fe3	{Cafe Medi}	{32.86579870882727,-97.17453550340453,Hurst,TX,United States}	{Food,}
+1404	Sat Jul 30 00:49:30 +0000 2011	4bf69c9294b2a59389bdadee	{Cracker Barrel Old Country Store}	{32.82718444795205,-97.3142587135649,Fort Worth,TX,United States}	{Food,}
+1404	Fri Jul 29 22:52:32 +0000 2011	4c5976a62091a59322e25cd0	{Commissary}	{32.77943596363432,-97.42551088657048,Naval Air Station/ Jrb,TX,United States}	{Shop & Service,Food & Drink Shop,}
+1404	Fri Jul 29 22:52:23 +0000 2011	4dea6badd22da22d4ed3227e	{NAS Ft Worth JRB Marina}	{32.78670010786243,-97.42618681496668,Fort Worth,TX,United States}	{Outdoors & Recreation,}
+1404	Thu Jul 28 17:50:02 +0000 2011	4b098606f964a520bc1823e3	{Freebirds World Burrito}	{32.91079757860313,-97.31588252682948,Fort Worth,TX,United States}	{Food,}
+1404	Thu Jul 28 00:42:39 +0000 2011	4bac1512f964a52013e33ae3	{Saviano's}	{32.840347997199835,-97.08237290382385,Euless,TX,United States}	{Food,}
+1404	Wed Jul 27 00:56:24 +0000 2011	4b898b1ff964a520724032e3	{CiCi's Pizza}	{32.85238611,-97.13408052921295,Bedford,TX,United States}	{Food,}
+1404	Mon Jul 25 18:33:40 +0000 2011	4bbd0ef18a4fb713c88b3c9d	{Martha's Mexican Cocina}	{32.91496456730042,-97.2951712772724,Keller,TX,United States}	{Food,}
+1404	Mon Jul 25 13:29:42 +0000 2011	4b589ce9f964a5204c6128e3	{Heritage Family EyeCare}	{32.91479020194442,-97.29628864825378,Fort Worth,TX,United States}	{Shop & Service,Professional & Other Places,}
+1404	Sun Jul 24 21:35:52 +0000 2011	4a7746f5f964a52008e41fe3	{Grapevine Mills}	{32.96546696,-97.0430088,Grapevine,TX,United States}	{Shop & Service,Arts & Entertainment,Food & Drink Shop,Movie Theater,}
+1404	Sun Jul 24 18:01:41 +0000 2011	4b07415cf964a520c5fa22e3	{la Madeleine Country French Caf?}	{32.92528272086631,-97.08663734735119,Grapevine,TX,United States}	{Food,}
+1404	Sat Jul 23 22:36:39 +0000 2011	4c137bc2b7b9c928ab92a937	{Old Navy}	{32.82579787608655,-97.20055103302002,Hurst,TX,United States}	{Shop & Service,Clothing Store,}
+1404	Sat Jul 23 21:31:37 +0000 2011	4b0b2501f964a520a42d23e3	{Olive Garden}	{32.83389887761927,-97.20734679906218,North Richland Hills,TX,United States}	{Food,}
+1404	Sat Jul 23 00:21:29 +0000 2011	4bcf43f5caff9521f1d3ccf0	{Sushi Zen}	{32.9400487477231,-97.11235653503502,Southlake,TX,United States}	{Food,}
+1404	Fri Jul 22 19:36:38 +0000 2011	4de118b2b0fbe2cfa6169592	{Rock N Roll Hair}	{32.932661,-97.2539459957446,Keller,TX,United States}	{Shop & Service,}
+1404	Wed Jul 20 00:21:25 +0000 2011	4b26fcd3f964a520c98324e3	{Chef Point Cafe}	{32.860976751020644,-97.25362555152077,Watauga,TX,United States}	{Food,}
+1404	Tue Jul 19 00:56:49 +0000 2011	4b6105b4f964a52081062ae3	{Taco Bell}	{32.83656194982816,-97.082040309906,Euless,TX,United States}	{Food,}
+1404	Sun Jul 17 20:24:21 +0000 2011	4bd08842462cb713fc89d807	{Fuddruckers}	{32.83616293748482,-97.13987874263591,Bedford,TX,United States}	{Food,}
+1404	Sun Jul 17 00:53:31 +0000 2011	4a3d3869f964a520f6a11fe3	{North Main BBQ}	{32.84178660423054,-97.08232376069914,Euless,TX,United States}	{Food,}
+1404	Sun Jul 17 00:53:19 +0000 2011	4a3d3869f964a520f6a11fe3	{North Main BBQ}	{32.84178660423054,-97.08232376069914,Euless,TX,United States}	{Food,}
+1404	Sat Jul 16 19:46:21 +0000 2011	4ba939ebf964a52020163ae3	{CVS}	{32.872166,-97.29005,Fort Worth,TX,United States}	{Shop & Service,}
+1404	Sat Jul 16 02:18:46 +0000 2011	4b04934bf964a5204d5522e3	{Pappadeaux Seafood Kitchen}	{32.83761004760302,-97.1314342387132,Bedford,TX,United States}	{Food,}
+1404	Sat Jul 16 02:18:26 +0000 2011	4b04934bf964a5204d5522e3	{Pappadeaux Seafood Kitchen}	{32.83761004760302,-97.1314342387132,Bedford,TX,United States}	{Food,}
+1404	Sat Jul 16 02:18:16 +0000 2011	4b04934bf964a5204d5522e3	{Pappadeaux Seafood Kitchen}	{32.83761004760302,-97.1314342387132,Bedford,TX,United States}	{Food,}
+1404	Fri Jul 15 21:50:34 +0000 2011	4d1e26348629224b03c9ff86	{Cavender's Boot City}	{32.820464,-97.20475758465734,Hurst,TX,United States}	{Shop & Service,}
+1404	Fri Jul 15 21:50:03 +0000 2011	4b5a1af9f964a52088ad28e3	{Department of Public Safety}	{32.81948139551306,-97.20480446927357,Hurst,TX,United States}	{Professional & Other Places,}
+1404	Fri Jul 15 21:49:17 +0000 2011	4b5a1af9f964a52088ad28e3	{Department of Public Safety}	{32.81948139551306,-97.20480446927357,Hurst,TX,United States}	{Professional & Other Places,}
+1404	Thu Jul 14 00:55:39 +0000 2011	4b92ea92f964a520cb2634e3	{Ahoyama Sushi}	{32.868873774619246,-97.17078966831791,Hurst,TX,United States}	{Food,}
+1404	Thu Jul 14 00:54:47 +0000 2011	4b92ea92f964a520cb2634e3	{Ahoyama Sushi}	{32.868873774619246,-97.17078966831791,Hurst,TX,United States}	{Food,}
+1404	Sun Jul 10 19:56:11 +0000 2011	4af8d9cff964a520461022e3	{Valero Corner Store}	{32.85149695475511,-97.0729829932765,Euless,TX,United States}	{Shop & Service,}
+1404	Sun Jul 10 19:56:02 +0000 2011	4c23f8e8f7ced13a4723226d	{Bombay Grocery & +}	{32.85213638198164,-97.07309856281017,Euless,TX,United States}	{Shop & Service,Food & Drink Shop,}
+1404	Sun Jul 10 19:55:54 +0000 2011	4c34c8cca0ced13a72c2186e	{Kirsty's Homey Hideout}	{32.85139133706031,-97.06597827876152,,TX,United States}	{Residence,}
+1404	Sun Jul 10 19:55:43 +0000 2011	4af8d9cff964a520461022e3	{Valero Corner Store}	{32.85149695475511,-97.0729829932765,Euless,TX,United States}	{Shop & Service,}
+1404	Sun Jul 10 19:55:34 +0000 2011	4bd25920caff95216dc0d2f0	{Euless Express Care}	{32.85190809798983,-97.07296723381019,Euless,TX,United States}	{Shop & Service,}
+1404	Sun Jul 10 19:50:57 +0000 2011	4b9a63d0f964a5202db135e3	{Starbucks}	{32.839303,-97.08297908306122,Euless,TX,United States}	{Food,}
+1404	Sun Jul 10 18:21:31 +0000 2011	4b5e3275f964a520268329e3	{Movie Tavern}	{32.83585880896729,-97.13003039360046,Bedford,TX,United States}	{Arts & Entertainment,Movie Theater,}
+1404	Sat Jul 09 16:46:49 +0000 2011	4bdc56f4afe8c9b673f64e85	{Old West Cafe}	{32.94148564338684,-97.082382,Grapevine,TX,United States}	{Food,}
+1404	Sat Jul 09 16:46:27 +0000 2011	4bdc56f4afe8c9b673f64e85	{Old West Cafe}	{32.94148564338684,-97.082382,Grapevine,TX,United States}	{Food,}
+1404	Fri Jul 08 19:38:24 +0000 2011	4b26fcd3f964a520c98324e3	{Chef Point Cafe}	{32.860976751020644,-97.25362555152077,Watauga,TX,United States}	{Food,}
+1404	Thu Jul 07 13:35:22 +0000 2011	4b589ce9f964a5204c6128e3	{Heritage Family EyeCare}	{32.91479020194442,-97.29628864825378,Fort Worth,TX,United States}	{Shop & Service,Professional & Other Places,}
+1404	Mon Jul 04 22:53:53 +0000 2011	4d61b8b05c39b1f7ab40134a	{In-N-Out Burger}	{32.859979676175776,-96.76944121293397,Dallas,TX,United States}	{Food,}
+1404	Mon Jul 04 22:25:52 +0000 2011	4bf4d6d694af2d7f43153b72	{Love's Travel Stop}	{32.623991335247844,-96.69400060920191,Hutchins,TX,United States}	{Travel & Transport,Shop & Service,Food,}
+1404	Mon Jul 04 22:25:01 +0000 2011	4bf4d6d694af2d7f43153b72	{Love's Travel Stop}	{32.623991335247844,-96.69400060920191,Hutchins,TX,United States}	{Travel & Transport,Shop & Service,Food,}
+1404	Mon Jul 04 19:44:29 +0000 2011	4b58704af964a520c55728e3	{Sam Houston Statue}	{30.661060967416564,-95.51080226898193,Huntsville,TX,United States}	{Government Building,Professional & Other Places,}
+1404	Mon Jul 04 19:43:45 +0000 2011	4b58704af964a520c55728e3	{Sam Houston Statue}	{30.661060967416564,-95.51080226898193,Huntsville,TX,United States}	{Government Building,Professional & Other Places,}
+1404	Mon Jul 04 01:56:30 +0000 2011	4f10c9f0e4b0804e89a7230d	{Kotoyama}	{30.09462951111218,-93.75393660317134,Orange,TX,United States}	{Food,}
+1404	Sun Jul 03 02:56:22 +0000 2011	4e0fda5214956c628508ab84	{Silver Fox Bar}	{30.034976196391042,-93.83174612534113,Bridge City,TX,United States}	{Nightlife Spot,}
+1404	Sun Jul 03 02:54:53 +0000 2011	4da8fac243a1128196d2334f	{My Calm place}	{30.03471687,-93.83113844,Bridge City,TX,United States}	{Residence,}
+1404	Sun Jul 03 02:22:16 +0000 2011	4d8eb662cb9b224bc3c38b41	{Big Nasty's}	{30.027744647647566,-93.83977457775279,Bridge City,TX,United States}	{Nightlife Spot,}
+1404	Sat Jul 02 22:36:01 +0000 2011	4d934a8e52ed224b1d9e19ac	{Louisiana / Texas Border}	{30.12738638359006,-93.70142698287964,Orange,TX,United States}	{Travel & Transport,Outdoors & Recreation,}
+1404	Sat Jul 02 22:35:52 +0000 2011	4d934a8e52ed224b1d9e19ac	{Louisiana / Texas Border}	{30.12738638359006,-93.70142698287964,Orange,TX,United States}	{Travel & Transport,Outdoors & Recreation,}
+1404	Sat Jul 02 05:08:14 +0000 2011	4da9fe9cf7b145b3700650ff	{The Inlaws}	{30.099306084916385,-93.76890601176466,Orange,TX,United States}	{Residence,}
+1404	Fri Jul 01 22:27:16 +0000 2011	4bacf649f964a520a11e3be3	{Collin Street Bakery}	{32.069055437575024,-96.44855099112583,Corsicana,TX,United States}	{Food,}
+1404	Fri Jul 01 13:43:43 +0000 2011	4b589ce9f964a5204c6128e3	{Heritage Family EyeCare}	{32.91479020194442,-97.29628864825378,Fort Worth,TX,United States}	{Shop & Service,Professional & Other Places,}
+1404	Fri Jul 01 13:43:37 +0000 2011	4b589ce9f964a5204c6128e3	{Heritage Family EyeCare}	{32.91479020194442,-97.29628864825378,Fort Worth,TX,United States}	{Shop & Service,Professional & Other Places,}
+1404	Fri Jul 01 01:10:03 +0000 2011	4aac1cabf964a520525c20e3	{Cracker Barrel Old Country Store}	{32.77005671498011,-97.06364035606384,Arlington,TX,United States}	{Food,}
+1404	Thu Jun 30 00:09:32 +0000 2011	4bd89bacf645c9b66974a8e0	{OC Burgers}	{32.83703296094405,-97.10243850946426,Euless,TX,United States}	{Food,}
+1404	Mon Jun 27 00:09:13 +0000 2011	4db480bd81543d71da46f255	{Serenity}	{32.86200419321796,-97.07673647921854,Euless,TX,United States}	{Residence,}
+1404	Sun Jun 26 04:30:21 +0000 2011	4db480bd81543d71da46f255	{Serenity}	{32.86200419321796,-97.07673647921854,Euless,TX,United States}	{Residence,}
+1404	Sun Jun 26 04:30:12 +0000 2011	4db3b61d4df05e5aaad1e741	{Our First Newlywed <3 Shack}	{32.86200419321796,-97.07673647921854,Euless,TX,United States}	{Residence,}
+1404	Sat Jun 25 21:17:53 +0000 2011	4b5e3275f964a520268329e3	{Movie Tavern}	{32.83585880896729,-97.13003039360046,Bedford,TX,United States}	{Arts & Entertainment,Movie Theater,}
+1404	Sat Jun 25 19:34:42 +0000 2011	4bd5e602637ba593a23ef770	{Billadelphia's}	{32.83828465059389,-97.10160834391426,Bedford,TX,United States}	{Food,}
+1404	Sat Jun 25 02:27:44 +0000 2011	4cb2535275ebb60cf32ed4ad	{For You, Taste of Poland Restaurant & Deli}	{33.03070624405739,-96.70877241554382,Plano,TX,United States}	{Food,}
+1404	Sat Jun 25 01:10:51 +0000 2011	4d17f0546d10370455443bbd	{In-N-Out Burger}	{33.10169809305896,-96.80493593215942,Frisco,TX,United States}	{Food,}
+1404	Sat Jun 25 01:10:39 +0000 2011	4d17f0546d10370455443bbd	{In-N-Out Burger}	{33.10169809305896,-96.80493593215942,Frisco,TX,United States}	{Food,}
+1404	Sat Jun 25 00:56:07 +0000 2011	4d17f0546d10370455443bbd	{In-N-Out Burger}	{33.10169809305896,-96.80493593215942,Frisco,TX,United States}	{Food,}
+1404	Fri Jun 24 01:57:02 +0000 2011	4a871c56f964a520a40220e3	{California Pizza Kitchen}	{32.92394238762153,-97.08903551101683,Grapevine,TX,United States}	{Food,}
+1404	Wed Jun 22 19:07:41 +0000 2011	4b5b8d7ef964a520860629e3	{Fresco's Cocina Mexicana}	{32.87915918660568,-97.26063787937164,Watauga,TX,United States}	{Food,}
+1404	Sat Jun 18 01:42:20 +0000 2011	4bd89bacf645c9b66974a8e0	{OC Burgers}	{32.83703296094405,-97.10243850946426,Euless,TX,United States}	{Food,}
+1404	Fri Jun 17 22:48:19 +0000 2011	4c5976a62091a59322e25cd0	{Commissary}	{32.77943596363432,-97.42551088657048,Naval Air Station/ Jrb,TX,United States}	{Shop & Service,Food & Drink Shop,}
+1404	Fri Jun 17 19:05:24 +0000 2011	4b589ce9f964a5204c6128e3	{Heritage Family EyeCare}	{32.91479020194442,-97.29628864825378,Fort Worth,TX,United States}	{Shop & Service,Professional & Other Places,}
+1404	Wed Jun 15 10:55:38 +0000 2011	4ab2ec35f964a520ff6c20e3	{Yogurt Patch}	{32.85286334017497,-97.19083070755005,North Richland Hills,TX,United States}	{Food,}
+1404	Wed Jun 15 10:55:38 +0000 2011	4ab2ec35f964a520ff6c20e3	{Yogurt Patch}	{32.85286334017497,-97.19083070755005,North Richland Hills,TX,United States}	{Food,}
+1404	Wed Jun 15 10:55:09 +0000 2011	4dd83c2fb0fb8af3809b6d35	{Naval Recruiting Office}	{32.85273088460835,-97.19112596426932,North Richland Hills,TX,United States}	{}
+1404	Tue Jun 14 20:18:31 +0000 2011	4c1ffc02b306c928c44b69b7	{Gate E32}	{32.88838071105091,-97.03691482543945,DFW Airport,TX,United States}	{Travel & Transport,Airport,}
+1404	Tue Jun 14 20:18:17 +0000 2011	4bc309014cdfc9b674bf9621	{Gate E8}	{32.89221860059349,-97.03695774078369,DFW Airport,TX,United States}	{Travel & Transport,Airport,}
+1404	Sun Jun 12 22:56:22 +0000 2011	4aaa6acff964a520e15520e3	{McDonald's}	{32.815375134491255,-96.79019451141357,Dallas,TX,United States}	{Food,}
+1404	Sun Jun 12 17:54:15 +0000 2011	4aac1cabf964a520525c20e3	{Cracker Barrel Old Country Store}	{32.77005671498011,-97.06364035606384,Arlington,TX,United States}	{Food,}
+1404	Sat Jun 11 01:09:54 +0000 2011	4cb2535275ebb60cf32ed4ad	{For You, Taste of Poland Restaurant & Deli}	{33.03070624405739,-96.70877241554382,Plano,TX,United States}	{Food,}
+1404	Sat Jun 04 19:58:39 +0000 2011	4b6746eaf964a52057452be3	{Bank of America}	{32.894524857998356,-97.28914976119995,Fort Worth,TX,United States}	{Shop & Service,}
+1404	Fri Jun 03 01:04:42 +0000 2011	4ba91efcf964a5200a0d3ae3	{Christies Extreme Hamburgers}	{32.844785,-97.23916052,North Richland Hills,TX,United States}	{Food,}
+1404	Wed Jun 01 23:17:46 +0000 2011	4bc10b8974a9a593a93cd1f6	{Roots Coffeehouse}	{32.85259069846742,-97.19118744134903,North Richland Hills,TX,United States}	{Food,}
+1404	Wed Jun 01 23:17:26 +0000 2011	4ab2ec35f964a520ff6c20e3	{Yogurt Patch}	{32.85286334017497,-97.19083070755005,North Richland Hills,TX,United States}	{Food,}
+1404	Wed Jun 01 23:17:17 +0000 2011	4dd83c2fb0fb8af3809b6d35	{Naval Recruiting Office}	{32.85273088460835,-97.19112596426932,North Richland Hills,TX,United States}	{}
+1404	Wed Jun 01 00:50:56 +0000 2011	4bdb124c63c5c9b611302668	{Dickey's Barbecue Pit}	{32.84991636540358,-97.18554799683733,Hurst,TX,United States}	{Food,}
+1404	Mon May 30 16:18:46 +0000 2011	4dc49321d22dafda2f8f5525	{Our BBQ Spot :)}	{32.856449,-97.076825,Euless,TX,United States}	{Outdoors & Recreation,}
+1404	Mon May 30 01:49:26 +0000 2011	4c06dfdc8b4520a1ef178697	{7-Eleven}	{32.74348484592587,-97.28991205120293,Fort Worth,TX,United States}	{Shop & Service,}
+1404	Mon May 30 01:48:57 +0000 2011	4cafe0c81168a0932c492623	{Whiskey & Rye}	{32.74848182804003,-97.32839047908783,Fort Worth,TX,United States}	{Nightlife Spot,}
+1404	Mon May 30 01:48:32 +0000 2011	4cafe0c81168a0932c492623	{Whiskey & Rye}	{32.74848182804003,-97.32839047908783,Fort Worth,TX,United States}	{Nightlife Spot,}
+1404	Mon May 30 00:13:09 +0000 2011	4bf97d52b182c9b6cc07795a	{Fort Worth Convention Center}	{32.74963683155715,-97.32783794403076,Fort Worth,TX,United States}	{Arts & Entertainment,Professional & Other Places,}
+1404	Mon May 30 00:10:44 +0000 2011	4b2ae5d8f964a520b8b124e3	{Omni Fort Worth Hotel}	{32.74832842800885,-97.32832074165344,Fort Worth,TX,United States}	{Travel & Transport,Hotel,}
+1404	Sun May 29 22:10:05 +0000 2011	4ba40f34f964a520177d38e3	{Carino's Italian}	{32.85448114728678,-97.1867698431015,Hurst,TX,United States}	{Food,}
+1404	Sun May 29 20:16:16 +0000 2011	4d5eaac6338bb60c876312bd	{North Richland Hills, TX}	{32.838058359277056,-97.2264289855957,North Richland Hills,TX,United States}	{Outdoors & Recreation,}
+1404	Sun May 29 20:14:32 +0000 2011	4cbf4f2a7dc9a093ab1038f5	{BISD Center Of Technology}	{32.8596170977851,-97.23239098478679,Fort Worth,TX,United States}	{College & University,}
+1404	Sun May 29 20:00:55 +0000 2011	4b4e7767f964a520ccee26e3	{Glenview Baptist Church}	{32.840332472661835,-97.27853411738454,Fort Worth,TX,United States}	{Spiritual Center,College & University,School,Professional & Other Places,}
+1404	Sun May 29 06:27:13 +0000 2011	4db3b61d4df05e5aaad1e741	{Our First Newlywed <3 Shack}	{32.86200419321796,-97.07673647921854,Euless,TX,United States}	{Residence,}
+1404	Sun May 22 22:44:43 +0000 2011	4b2bc905f964a520f2ba24e3	{SushiYaa}	{32.66032356247057,-97.13592052459717,Arlington,TX,United States}	{Food,}
+1404	Sun May 22 22:44:33 +0000 2011	4c09469abbc676b02feb47d5	{Kroger}	{32.66061851000001,-97.13566894579498,Arlington,TX,United States}	{Shop & Service,Food & Drink Shop,}
+1404	Sun May 22 22:44:21 +0000 2011	4bcef73029d4b713884ba9dc	{Bank of America}	{32.661405,-97.133747,Arlington,TX,United States}	{Shop & Service,}
+1404	Sun May 22 22:10:13 +0000 2011	4d936e8852ed224be7491dac	{Carl's Jr.}	{32.66081075932796,-97.13389277458191,Arlington,TX,United States}	{Food,}
+1404	Sun May 22 20:36:02 +0000 2011	4bba6b6ab35776b065eaca01	{Mandolin Apartments}	{32.87181369118298,-97.07136504089911,Euless,TX,United States}	{Residence,}
+1404	Sun May 22 20:35:51 +0000 2011	4b0e76faf964a520be5723e3	{7-Eleven}	{32.87067197542945,-97.07327867520397,Euless,TX,United States}	{Shop & Service,}
+1404	Sun May 22 20:35:37 +0000 2011	4c9d0d9774109eb024e41415	{Extra Space Storage}	{32.87148849070144,-97.07250495779397,Euless,TX,United States}	{}
+1404	Sun May 22 20:35:37 +0000 2011	4c9d0d9774109eb024e41415	{Extra Space Storage}	{32.87148849070144,-97.07250495779397,Euless,TX,United States}	{}
+1404	Sun May 22 00:55:51 +0000 2011	4c34c8cca0ced13a72c2186e	{Kirsty's Homey Hideout}	{32.85139133706031,-97.06597827876152,,TX,United States}	{Residence,}
+1404	Sun May 22 00:55:41 +0000 2011	4c23f8e8f7ced13a4723226d	{Bombay Grocery & +}	{32.85213638198164,-97.07309856281017,Euless,TX,United States}	{Shop & Service,Food & Drink Shop,}
+1404	Sun May 22 00:55:33 +0000 2011	4af8d9cff964a520461022e3	{Valero Corner Store}	{32.85149695475511,-97.0729829932765,Euless,TX,United States}	{Shop & Service,}
+1404	Sun May 22 00:55:25 +0000 2011	4bd25920caff95216dc0d2f0	{Euless Express Care}	{32.85190809798983,-97.07296723381019,Euless,TX,United States}	{Shop & Service,}
+1404	Sun May 22 00:26:50 +0000 2011	4c772e91947ca1cdfbde4637	{SONIC Drive In}	{32.84031661,-97.13311918333333,Bedford,TX,United States}	{Food,}
+1404	Sat May 21 22:26:59 +0000 2011	4dd83c2fb0fb8af3809b6d35	{Naval Recruiting Office}	{32.85273088460835,-97.19112596426932,North Richland Hills,TX,United States}	{}
+1404	Sat May 21 22:25:26 +0000 2011	4ab2ec35f964a520ff6c20e3	{Yogurt Patch}	{32.85286334017497,-97.19083070755005,North Richland Hills,TX,United States}	{Food,}
+1404	Sat May 21 18:16:55 +0000 2011	4cb2535275ebb60cf32ed4ad	{For You, Taste of Poland Restaurant & Deli}	{33.03070624405739,-96.70877241554382,Plano,TX,United States}	{Food,}
+1404	Sat May 21 18:16:55 +0000 2011	4cb2535275ebb60cf32ed4ad	{For You, Taste of Poland Restaurant & Deli}	{33.03070624405739,-96.70877241554382,Plano,TX,United States}	{Food,}
+1404	Fri May 20 02:24:45 +0000 2011	4c23f8e8f7ced13a4723226d	{Bombay Grocery & +}	{32.85213638198164,-97.07309856281017,Euless,TX,United States}	{Shop & Service,Food & Drink Shop,}
+1404	Fri May 20 02:24:26 +0000 2011	4af8d9cff964a520461022e3	{Valero Corner Store}	{32.85149695475511,-97.0729829932765,Euless,TX,United States}	{Shop & Service,}
+1404	Fri May 20 02:24:15 +0000 2011	4bd25920caff95216dc0d2f0	{Euless Express Care}	{32.85190809798983,-97.07296723381019,Euless,TX,United States}	{Shop & Service,}
+1404	Sun May 15 22:13:13 +0000 2011	4ad38cdcf964a520e9e420e3	{Walmart Supercenter}	{32.86422341756169,-97.10604071617126,Bedford,TX,United States}	{Shop & Service,}
+1404	Sun May 15 22:12:52 +0000 2011	4ad38cdcf964a520e9e420e3	{Walmart Supercenter}	{32.86422341756169,-97.10604071617126,Bedford,TX,United States}	{Shop & Service,}
+1404	Sun May 15 15:02:56 +0000 2011	4bf69c9294b2a59389bdadee	{Cracker Barrel Old Country Store}	{32.82718444795205,-97.3142587135649,Fort Worth,TX,United States}	{Food,}
+1404	Sun May 15 15:02:42 +0000 2011	4bf69c9294b2a59389bdadee	{Cracker Barrel Old Country Store}	{32.82718444795205,-97.3142587135649,Fort Worth,TX,United States}	{Food,}
+1404	Sun May 15 02:04:43 +0000 2011	42dd9400f964a52050261fe3	{Sears Hearing Aid Center by Miracle-Ear (inside Sears)}	{32.829099,-97.19725,Hurst,TX,United States}	{Medical Center,Professional & Other Places,}
+1404	Sun May 15 02:04:33 +0000 2011	4c13f166a5eb76b0a7e5c0b7	{Food Court}	{32.83029868024414,-97.19930431246905,Hurst,TX,United States}	{Shop & Service,Food & Drink Shop,}
+1404	Sun May 15 02:03:35 +0000 2011	42dd9400f964a52050261fe3	{Sears Hearing Aid Center by Miracle-Ear (inside Sears)}	{32.829099,-97.19725,Hurst,TX,United States}	{Medical Center,Professional & Other Places,}
+1404	Sun May 15 00:55:06 +0000 2011	4bc35595920eb71392491d2c	{La Quinta Inn & Suites DFW Airport West - Bedford}	{32.839143,-97.119826,Bedford,TX,United States}	{Travel & Transport,Shop & Service,Hotel,}
+1404	Sun May 15 00:54:51 +0000 2011	4b1da46ef964a5206d1324e3	{Texas Land & Cattle Steakhouse}	{32.83999887160176,-97.12190784798253,Bedford,TX,United States}	{Food,}
+1404	Sun May 15 00:22:09 +0000 2011	4db3b61d4df05e5aaad1e741	{Our First Newlywed <3 Shack}	{32.86200419321796,-97.07673647921854,Euless,TX,United States}	{Residence,}
+1404	Sun May 15 00:21:56 +0000 2011	4c2aaf16197e95210985628d	{Fort Worth Stockyards National Historic District}	{32.788794315205806,-97.34670996665955,Fort Worth,TX,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+1404	Sat May 14 20:58:11 +0000 2011	4ba24186f964a52078e737e3	{Texas Cowboy Hall of Fame}	{32.78865171127305,-97.34680037507155,Fort Worth,TX,United States}	{Museum,Arts & Entertainment,}
+1404	Sat May 14 18:43:17 +0000 2011	4b476f71f964a520fa3126e3	{Riscky's Barbeque}	{32.78868869512381,-97.34540262505624,Fort Worth,TX,United States}	{Food,}
+1404	Sat May 14 18:01:00 +0000 2011	4c2aaf16197e95210985628d	{Fort Worth Stockyards National Historic District}	{32.788794315205806,-97.34670996665955,Fort Worth,TX,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+1404	Sat May 14 00:54:36 +0000 2011	4ad7a05bf964a520ff0c21e3	{Hall's Wine & Spirits}	{32.881852424469265,-97.10033654549015,Colleyville,TX,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1404	Sat May 14 00:07:54 +0000 2011	4a7e430ef964a520a1f11fe3	{B&B Colleyville Cinema Grille & IMAX}	{32.891569954880744,-97.14625239372253,Colleyville,TX,United States}	{Arts & Entertainment,Movie Theater,}
+1404	Sat May 14 00:03:42 +0000 2011	4bc660b4db8fa5938c509c37	{Tivoli Wines and Spirits}	{32.88515941666667,-97.15539872646332,Colleyville,TX,United States}	{Shop & Service,Food & Drink Shop,}
+1404	Fri May 13 22:21:39 +0000 2011	4bcc294bb6c49c7440449391	{LA Fitness}	{32.87538831132027,-97.09686756134033,Euless,TX,United States}	{Shop & Service,Gym / Fitness Center,}
+1404	Fri May 13 01:37:01 +0000 2011	4bcf43f5caff9521f1d3ccf0	{Sushi Zen}	{32.9400487477231,-97.11235653503502,Southlake,TX,United States}	{Food,}
+1404	Mon May 09 12:34:54 +0000 2011	4db480bd81543d71da46f255	{Serenity}	{32.86200419321796,-97.07673647921854,Euless,TX,United States}	{Residence,}
+1404	Mon May 09 00:06:52 +0000 2011	4db480bd81543d71da46f255	{Serenity}	{32.86200419321796,-97.07673647921854,Euless,TX,United States}	{Residence,}
+1404	Sun May 08 18:51:41 +0000 2011	4b7fd2fff964a5206d3f30e3	{Meadowmere Park}	{32.98156014098269,-97.12047100067139,Grapevine,TX,United States}	{Outdoors & Recreation,}
+1404	Sun May 08 05:34:20 +0000 2011	4be0581a98f2a5935be6c15a	{McDonalds}	{32.83793504001195,-97.0835794531772,Euless,TX,United States}	{Food,}
+1404	Sun May 08 05:34:03 +0000 2011	4b9948eff964a5201f7035e3	{KFC}	{32.837481624934675,-97.08471432534087,Euless,TX,United States}	{Food,}
+1404	Sun May 08 05:34:03 +0000 2011	4b9948eff964a5201f7035e3	{KFC}	{32.837481624934675,-97.08471432534087,Euless,TX,United States}	{Food,}
+1404	Sun May 08 05:32:37 +0000 2011	4b780863f964a520d7b22ee3	{Whataburger}	{32.83793,-97.08440065383911,Euless,TX,United States}	{Food,}
+1404	Sat May 07 18:52:50 +0000 2011	42dd9400f964a52050261fe3	{Sears Hearing Aid Center by Miracle-Ear (inside Sears)}	{32.829099,-97.19725,Hurst,TX,United States}	{Medical Center,Professional & Other Places,}
+1404	Sat May 07 16:14:03 +0000 2011	4c30bc393896e21e83f3e590	{St. Michael Catholic Church}	{32.852651535945846,-97.10520923137665,Bedford,TX,United States}	{Spiritual Center,Professional & Other Places,}
+1404	Sat May 07 00:32:47 +0000 2011	4dc49321d22dafda2f8f5525	{Our BBQ Spot :)}	{32.856449,-97.076825,Euless,TX,United States}	{Outdoors & Recreation,}
+1404	Fri May 06 01:37:13 +0000 2011	4b491a87f964a520026626e3	{El Paisa}	{32.852368,-97.120049,Bedford,TX,United States}	{Food,}
+1404	Wed May 04 00:03:37 +0000 2011	4b0430e0f964a520f25122e3	{CVS/pharmacy}	{32.84456502632527,-97.10029450298146,Bedford,TX,United States}	{Shop & Service,}
+1404	Tue May 03 04:13:00 +0000 2011	4db3b61d4df05e5aaad1e741	{Our First Newlywed <3 Shack}	{32.86200419321796,-97.07673647921854,Euless,TX,United States}	{Residence,}
+1404	Sun May 01 19:31:39 +0000 2011	4db3b61d4df05e5aaad1e741	{Our First Newlywed <3 Shack}	{32.86200419321796,-97.07673647921854,Euless,TX,United States}	{Residence,}
+1404	Sun May 01 19:31:32 +0000 2011	4db480bd81543d71da46f255	{Serenity}	{32.86200419321796,-97.07673647921854,Euless,TX,United States}	{Residence,}
+1404	Sat Apr 30 21:58:51 +0000 2011	4b901632f964a520b57433e3	{Bedford Farmers Market}	{32.8522836332612,-97.15966387843791,Bedford,TX,United States}	{Shop & Service,Food & Drink Shop,}
+1404	Sat Apr 30 19:45:11 +0000 2011	4d8b5156f607a093a7111187	{Schlotzsky's}	{32.87915468147405,-97.09819793701172,Euless,TX,United States}	{Food,}
+1404	Sat Apr 30 19:44:15 +0000 2011	4b97f312f964a520a42135e3	{Starbucks}	{32.88038457390713,-97.09814429283142,Euless,TX,United States}	{Food,}
+1404	Fri Apr 29 23:37:50 +0000 2011	4a7e430ef964a520a1f11fe3	{B&B Colleyville Cinema Grille & IMAX}	{32.891569954880744,-97.14625239372253,Colleyville,TX,United States}	{Arts & Entertainment,Movie Theater,}
+1404	Fri Apr 29 02:15:47 +0000 2011	4b69c2bcf964a52092b22be3	{Joe's Pizza}	{32.85013826042874,-97.08221868290512,Euless,TX,United States}	{Food,}
+1404	Fri Apr 29 02:15:11 +0000 2011	4b69c2bcf964a52092b22be3	{Joe's Pizza}	{32.85013826042874,-97.08221868290512,Euless,TX,United States}	{Food,}
+1404	Thu Apr 28 18:47:15 +0000 2011	4ac36643f964a520449b20e3	{Krispy Kreme Doughnuts}	{32.91504430090216,-97.12523460388184,Grapevine,TX,United States}	{Food,}
+1404	Thu Apr 28 17:33:07 +0000 2011	4cb4a6d71168a09396634a23	{Chilalas}	{32.834995,-97.16096482,Bedford,TX,United States}	{Food,}
+1404	Thu Apr 28 00:52:58 +0000 2011	4db3b61d4df05e5aaad1e741	{Our First Newlywed <3 Shack}	{32.86200419321796,-97.07673647921854,Euless,TX,United States}	{Residence,}
+1404	Thu Apr 28 00:09:21 +0000 2011	4bd5e602637ba593a23ef770	{Billadelphia's}	{32.83828465059389,-97.10160834391426,Bedford,TX,United States}	{Food,}
+1404	Wed Apr 27 21:56:08 +0000 2011	4c9d0d9774109eb024e41415	{Extra Space Storage}	{32.87148849070144,-97.07250495779397,Euless,TX,United States}	{}
+1404	Wed Apr 27 02:53:25 +0000 2011	4db3b61d4df05e5aaad1e741	{Our First Newlywed <3 Shack}	{32.86200419321796,-97.07673647921854,Euless,TX,United States}	{Residence,}
+1404	Tue Apr 26 23:08:11 +0000 2011	4bf69c9294b2a59389bdadee	{Cracker Barrel Old Country Store}	{32.82718444795205,-97.3142587135649,Fort Worth,TX,United States}	{Food,}
+1404	Tue Apr 26 23:08:02 +0000 2011	4bf69c9294b2a59389bdadee	{Cracker Barrel Old Country Store}	{32.82718444795205,-97.3142587135649,Fort Worth,TX,United States}	{Food,}
+1404	Tue Apr 26 22:08:54 +0000 2011	4c1faea88b3aa5935fd99d5f	{Texas Department of Public Safety}	{32.64980940564698,-97.3765555174929,Fort Worth,TX,United States}	{Professional & Other Places,}
+1404	Tue Apr 26 17:39:27 +0000 2011	4c3e06000e0d0f47dcf8147f	{Fritz G. Lanham Federal Building}	{32.750421864461515,-97.33150720596313,Fort Worth,TX,United States}	{Professional & Other Places,}
+1404	Tue Apr 26 04:47:26 +0000 2011	4db3b61d4df05e5aaad1e741	{Our First Newlywed <3 Shack}	{32.86200419321796,-97.07673647921854,Euless,TX,United States}	{Residence,}
+1404	Mon Apr 25 15:48:46 +0000 2011	4db480bd81543d71da46f255	{Serenity}	{32.86200419321796,-97.07673647921854,Euless,TX,United States}	{Residence,}
+1404	Mon Apr 25 02:25:18 +0000 2011	4db480bd81543d71da46f255	{Serenity}	{32.86200419321796,-97.07673647921854,Euless,TX,United States}	{Residence,}
+1404	Sun Apr 24 21:37:08 +0000 2011	4bd25920caff95216dc0d2f0	{Euless Express Care}	{32.85190809798983,-97.07296723381019,Euless,TX,United States}	{Shop & Service,}
+1404	Sun Apr 24 19:57:52 +0000 2011	4db480bd81543d71da46f255	{Serenity}	{32.86200419321796,-97.07673647921854,Euless,TX,United States}	{Residence,}
+1404	Sun Apr 24 01:51:09 +0000 2011	4af8d9cff964a520461022e3	{Valero Corner Store}	{32.85149695475511,-97.0729829932765,Euless,TX,United States}	{Shop & Service,}
+1404	Sat Apr 23 23:53:56 +0000 2011	4baaa0e6f964a520ef7a3ae3	{Bass Pro Shops}	{32.95749693153935,-97.04295223607816,Grapevine,TX,United States}	{Shop & Service,}
+1404	Sat Apr 23 19:52:07 +0000 2011	4cfa8a702d80a143226b45d8	{Taverna}	{32.82400941810843,-96.7906583971074,Dallas,TX,United States}	{Food,}
+1404	Sat Apr 23 19:51:42 +0000 2011	4ad8f41cf964a520611621e3	{Villa-O}	{32.8226021662643,-96.7908100854717,Dallas,TX,United States}	{Food,}
+1404	Sat Apr 23 19:26:34 +0000 2011	4b8c7e55f964a5209bd332e3	{Ziziki's Greek Restaurant}	{32.82215151743104,-96.79074731782968,Dallas,TX,United States}	{Food,}
+1404	Sat Apr 23 18:35:09 +0000 2011	4db31bd593a017099dbc5b2c	{St. Peters Church}	{32.795505565388936,-96.7950993514471,Dallas,TX,United States}	{Spiritual Center,Professional & Other Places,}
+1404	Fri Apr 22 19:14:26 +0000 2011	4bcb59d5511f95217948b1c7	{Arena Athletics}	{32.84387139729572,-97.08191395824088,Euless,TX,United States}	{Shop & Service,}
+1404	Fri Apr 22 19:14:17 +0000 2011	4c3624581e06d13a58b6733e	{Arbors of Euless}	{32.84946702244684,-97.07208996274471,Euless,TX,United States}	{Professional & Other Places,Residence,}
+1404	Fri Apr 22 19:13:45 +0000 2011	4d7d843e7498a1cdd7ba91fc	{Valero}	{32.84660635425571,-97.07495295598069,Euless,TX,United States}	{Shop & Service,}
+1404	Fri Apr 22 17:13:16 +0000 2011	4d02d72430a58cfa7ea494e7	{U-Haul Storage}	{32.841449,-97.204773,North Richland Hills,TX,United States}	{Professional & Other Places,}
+1404	Fri Apr 22 17:13:16 +0000 2011	4d02d72430a58cfa7ea494e7	{U-Haul Storage}	{32.841449,-97.204773,North Richland Hills,TX,United States}	{Professional & Other Places,}
+1404	Fri Apr 22 16:34:48 +0000 2011	4b796924f964a52018f82ee3	{Dunkin Donuts}	{32.84446739388055,-97.18672156333923,Hurst,TX,United States}	{Food,}
+1404	Fri Apr 22 01:04:12 +0000 2011	4b9948eff964a5201f7035e3	{KFC}	{32.837481624934675,-97.08471432534087,Euless,TX,United States}	{Food,}
+1404	Thu Apr 21 22:57:59 +0000 2011	4d02d72430a58cfa7ea494e7	{U-Haul Storage}	{32.841449,-97.204773,North Richland Hills,TX,United States}	{Professional & Other Places,}
+1404	Thu Apr 21 03:52:34 +0000 2011	4bfd62d6f61dc9b67df39ede	{Dollar General}	{32.83589243888855,-97.09031760692596,Euless,TX,United States}	{Shop & Service,}
+1404	Thu Apr 21 03:52:15 +0000 2011	4be44255910020a18a6fd114	{RadioShack}	{32.83678318,-97.0909407,Euless,TX,United States}	{Shop & Service,}
+1404	Thu Apr 21 03:52:03 +0000 2011	4c4378572d3ec9b676942dae	{Comfort Suites}	{32.83671477416064,-97.08904383020439,Euless,TX,United States}	{Travel & Transport,Professional & Other Places,}
+1404	Thu Apr 21 03:51:30 +0000 2011	4bd8c2862ecdce720eefd0f2	{La Quinta Inn & Suites DFW Airport West - Euless}	{32.837363,-97.089237,Euless,TX,United States}	{Travel & Transport,Shop & Service,Hotel,}
+1404	Thu Apr 21 00:39:08 +0000 2011	4cb52d3755af224b48ea907e	{Redbox}	{32.852747,-97.08364958,Euless,TX,United States}	{Shop & Service,}
+1404	Thu Apr 21 00:38:52 +0000 2011	4ba6ac71f964a520e26739e3	{Blockbuster}	{32.852467,-97.08300590515137,Euless,TX,United States}	{Shop & Service,Arts & Entertainment,}
+1404	Thu Apr 21 00:38:42 +0000 2011	4a9c7208f964a520363720e3	{Albertsons Market}	{32.85298996465306,-97.08338505572033,Euless,TX,United States}	{Shop & Service,Food & Drink Shop,}
+1404	Wed Apr 20 23:25:04 +0000 2011	4b4fa9bcf964a520bf0f27e3	{American Airlines Admirals Club}	{32.897862518734485,-97.04522967338562,Grapevine,TX,United States}	{Travel & Transport,Airport,}
+1404	Wed Apr 20 21:48:35 +0000 2011	4cb2535275ebb60cf32ed4ad	{For You, Taste of Poland Restaurant & Deli}	{33.03070624405739,-96.70877241554382,Plano,TX,United States}	{Food,}
+1404	Wed Apr 20 19:43:35 +0000 2011	501d8085805532c7a8ad84b9	{GermanDeli European Food Store}	{32.882272177814116,-97.10034370422363,Colleyville,TX,United States}	{}
+1404	Wed Apr 20 17:00:02 +0000 2011	4bfd62d6f61dc9b67df39ede	{Dollar General}	{32.83589243888855,-97.09031760692596,Euless,TX,United States}	{Shop & Service,}
+1404	Wed Apr 20 16:59:43 +0000 2011	4be44255910020a18a6fd114	{RadioShack}	{32.83678318,-97.0909407,Euless,TX,United States}	{Shop & Service,}
+1404	Wed Apr 20 16:59:43 +0000 2011	4be44255910020a18a6fd114	{RadioShack}	{32.83678318,-97.0909407,Euless,TX,United States}	{Shop & Service,}
+1404	Wed Apr 20 16:59:35 +0000 2011	4c4378572d3ec9b676942dae	{Comfort Suites}	{32.83671477416064,-97.08904383020439,Euless,TX,United States}	{Travel & Transport,Professional & Other Places,}
+1404	Wed Apr 20 16:59:25 +0000 2011	4bd8c2862ecdce720eefd0f2	{La Quinta Inn & Suites DFW Airport West - Euless}	{32.837363,-97.089237,Euless,TX,United States}	{Travel & Transport,Shop & Service,Hotel,}
+1404	Wed Apr 20 02:40:31 +0000 2011	4bd8c2862ecdce720eefd0f2	{La Quinta Inn & Suites DFW Airport West - Euless}	{32.837363,-97.089237,Euless,TX,United States}	{Travel & Transport,Shop & Service,Hotel,}
+1404	Wed Apr 20 02:40:04 +0000 2011	4bfd62d6f61dc9b67df39ede	{Dollar General}	{32.83589243888855,-97.09031760692596,Euless,TX,United States}	{Shop & Service,}
+1404	Wed Apr 20 02:39:34 +0000 2011	4be44255910020a18a6fd114	{RadioShack}	{32.83678318,-97.0909407,Euless,TX,United States}	{Shop & Service,}
+1404	Wed Apr 20 02:39:09 +0000 2011	4c4378572d3ec9b676942dae	{Comfort Suites}	{32.83671477416064,-97.08904383020439,Euless,TX,United States}	{Travel & Transport,Professional & Other Places,}
+1404	Tue Apr 19 22:56:20 +0000 2011	4ad1230ff964a520fcdc20e3	{Texas Roadhouse}	{32.85401974188965,-97.11052067577839,Bedford,TX,United States}	{Food,}
+1404	Tue Apr 19 21:44:29 +0000 2011	4bd8c2862ecdce720eefd0f2	{La Quinta Inn & Suites DFW Airport West - Euless}	{32.837363,-97.089237,Euless,TX,United States}	{Travel & Transport,Shop & Service,Hotel,}
+1404	Tue Apr 19 18:13:00 +0000 2011	4c365bb618e72d7f77b614f5	{Wane Salon}	{32.86588254089272,-96.9490404681728,Irving,TX,United States}	{Shop & Service,}
+1404	Tue Apr 19 18:12:42 +0000 2011	4baa3dd3f964a520db563ae3	{Subway}	{32.865935282014284,-96.94901949489481,Irving,TX,United States}	{Food,}
+1404	Tue Apr 19 18:12:27 +0000 2011	4b089ad8f964a5204b0f23e3	{Le Peep}	{32.86553970184698,-96.94889889867623,Irving,TX,United States}	{Food,}
+1404	Tue Apr 19 18:11:59 +0000 2011	4dadd0605da31bb1523d50cd	{Texas Apartment Locators}	{32.866062,-96.948765,Irving,TX,United States}	{Professional & Other Places,}
+1404	Tue Apr 19 17:25:54 +0000 2011	4c0ec1e12466a593f7947921	{Las Colinas Pharmacy}	{32.86582656578665,-96.94896181841487,Irving,TX,United States}	{Shop & Service,}
+1404	Tue Apr 19 17:25:05 +0000 2011	4a392959f964a520259f1fe3	{Piman Asian Bistro}	{32.865743,-96.948791,Irving,TX,United States}	{Food,}
+1404	Tue Apr 19 17:24:43 +0000 2011	4baa3dd3f964a520db563ae3	{Subway}	{32.865935282014284,-96.94901949489481,Irving,TX,United States}	{Food,}
+1404	Tue Apr 19 17:24:28 +0000 2011	4c52f3a4d797e21e50dd597e	{Darling International}	{32.86768198879688,-96.95110112533328,Irving,TX,United States}	{Professional & Other Places,}
+1404	Tue Apr 19 14:34:07 +0000 2011	4b83d2b6f964a5202b1231e3	{Homewood Suites}	{32.863623819879585,-96.93758481104379,Irving,TX,United States}	{Travel & Transport,Shop & Service,}
+1404	Tue Apr 19 03:51:25 +0000 2011	4b83d2b6f964a5202b1231e3	{Homewood Suites}	{32.863623819879585,-96.93758481104379,Irving,TX,United States}	{Travel & Transport,Shop & Service,}
+1404	Tue Apr 19 01:47:26 +0000 2011	4a5f5937f964a5206ebf1fe3	{Italian Cafe}	{32.86516063783412,-96.93662166595459,Irving,TX,United States}	{Food,}
+1404	Tue Apr 19 00:45:53 +0000 2011	4b83d2b6f964a5202b1231e3	{Homewood Suites}	{32.863623819879585,-96.93758481104379,Irving,TX,United States}	{Travel & Transport,Shop & Service,}
+1404	Mon Apr 18 20:46:12 +0000 2011	4d5c2d40b9b2a143a1eb728c	{Chick-fil-A}	{32.84004462507281,-97.19307309972918,Hurst,TX,United States}	{}
+1404	Mon Apr 18 20:45:52 +0000 2011	4d0e645a1f58224b3c3d4da9	{Sunny Street Cafe}	{32.853107,-97.190551,North Richland Hills,TX,United States}	{Food,}
+1404	Mon Apr 18 20:45:18 +0000 2011	4bb0ecc3f964a520b86a3ce3	{Hurst City Hall}	{32.8404197587689,-97.18656883547806,Hurst,TX,United States}	{Government Building,Professional & Other Places,}
+1404	Mon Apr 18 20:44:46 +0000 2011	4b315c9ef964a520760525e3	{QuikTrip}	{32.84051475985936,-97.18568086624146,Hurst,TX,United States}	{Shop & Service,}
+1404	Mon Apr 18 20:40:34 +0000 2011	4bcb67b7511f9521726ab1c7	{Cici's Pizza}	{32.83887094,-97.18509647,Hurst,TX,United States}	{Food,}
+1404	Mon Apr 18 19:27:33 +0000 2011	4b83d2b6f964a5202b1231e3	{Homewood Suites}	{32.863623819879585,-96.93758481104379,Irving,TX,United States}	{Travel & Transport,Shop & Service,}
+1404	Mon Apr 18 02:51:51 +0000 2011	4b55cf30f964a5200cf127e3	{Shores}	{32.865661,-96.935528,Dallas,TX,United States}	{Food,}
+1404	Mon Apr 18 02:51:21 +0000 2011	4b83d2b6f964a5202b1231e3	{Homewood Suites}	{32.863623819879585,-96.93758481104379,Irving,TX,United States}	{Travel & Transport,Shop & Service,}
+1404	Sun Apr 17 22:22:40 +0000 2011	4ca7d51db0b8236acea0ade6	{Chevron}	{32.374058524802855,-96.64552507795216,Ennis,TX,United States}	{}
+1404	Sun Apr 17 19:48:25 +0000 2011	4b82fdccf964a52055f130e3	{Buc-ee's}	{30.965392615759207,-95.88056087493896,Madisonville,TX,United States}	{Shop & Service,}
+1404	Sun Apr 17 17:21:05 +0000 2011	4c23b884b7b8a5939d503be8	{Shell}	{29.83546944709787,-94.38351273536682,Winnie,TX,United States}	{Shop & Service,Food,}
+1404	Sun Apr 17 16:19:09 +0000 2011	4bbd3aec4e069c7407969ee3	{Walmart Supercenter}	{30.0914755001863,-93.7655793713181,West Orange,TX,United States}	{Shop & Service,}
+1404	Sun Apr 17 12:44:49 +0000 2011	4da9fe9cf7b145b3700650ff	{The Inlaws}	{30.099306084916385,-93.76890601176466,Orange,TX,United States}	{Residence,}
+1404	Sun Apr 17 00:07:39 +0000 2011	4da9fe9cf7b145b3700650ff	{The Inlaws}	{30.099306084916385,-93.76890601176466,Orange,TX,United States}	{Residence,}
+1404	Sat Apr 16 21:48:00 +0000 2011	4d655c1dcf2bb60cf75aa6bc	{Fast Freddy's}	{29.957965,-93.8986323,Groves,TX,United States}	{Food,}
+1404	Sat Apr 16 21:47:22 +0000 2011	4c93fc7df244b1f7b0ea1d1d	{P&J Seafood}	{29.95769394430421,-93.89805333858891,Groves,TX,United States}	{}
+1404	Sat Apr 16 21:46:58 +0000 2011	4c88b5af49ddef3b45a57970	{Total petrochemicals}	{29.961268640151438,-93.89485009086589,Port Arthur,TX,United States}	{}
+1404	Sat Apr 16 21:43:54 +0000 2011	4c5dc5699b28d13aa6965a70	{Rainbow bridge}	{29.980847474165113,-93.87109279632568,,TX,United States}	{Outdoors & Recreation,}
+1404	Sat Apr 16 20:40:00 +0000 2011	4da9fe9cf7b145b3700650ff	{The Inlaws}	{30.099306084916385,-93.76890601176466,Orange,TX,United States}	{Residence,}
+1404	Sat Apr 16 04:55:33 +0000 2011	4bbd3aec4e069c7407969ee3	{Walmart Supercenter}	{30.0914755001863,-93.7655793713181,West Orange,TX,United States}	{Shop & Service,}
+1404	Sat Apr 16 04:07:09 +0000 2011	4ba16f4ef964a520b0b637e3	{Cash Magic Casino}	{30.239241,-93.12971,Lake Charles,LA,United States}	{Arts & Entertainment,}
+1404	Sat Apr 16 03:14:19 +0000 2011	4bd056f19854d13a957af74d	{Fezzo's Seafood & Steakhouse}	{30.246186468469805,-92.10520150807938,Scott,LA,United States}	{Food,}
+1404	Sat Apr 16 02:54:29 +0000 2011	4c1bc3983855c9b64b91cc71	{Atchafalaya Welcome Center}	{30.341894547318727,-91.72271666422526,Breaux Bridge,LA,United States}	{Travel & Transport,}
+1404	Sat Apr 16 02:34:26 +0000 2011	4ca358cb750ca0930c001867	{JP Oil White Castle Field}	{30.373744,-91.60626,White Castle,LA,United States}	{Outdoors & Recreation,}
+1404	Sat Apr 16 02:33:12 +0000 2011	4e2c54a9aeb745b1facc87ac	{Atchafalaya Basin Bridge}	{30.34597865225717,-91.70893865458187,Maringouin,LA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1404	Sat Apr 16 02:30:35 +0000 2011	4b81e47df964a520f3c230e3	{The Atchafalaya Basin}	{30.388066450021235,-91.55507131051156,,,United States}	{Outdoors & Recreation,}
+1404	Sat Apr 16 02:13:37 +0000 2011	4c4c7c8fbad7a593afde55ad	{Horace Wilkinson Bridge}	{30.439424088205282,-91.1959433555603,Baton Rouge,LA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1404	Sat Apr 16 02:12:26 +0000 2011	4c4c7c8fbad7a593afde55ad	{Horace Wilkinson Bridge}	{30.439424088205282,-91.1959433555603,Baton Rouge,LA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1404	Sat Apr 16 01:35:04 +0000 2011	4eac4eec77c8fadde330c91b	{Greater Baton Rouge State Fair}	{30.345114086416142,-90.99819921308195,Baton Rouge,LA,United States}	{Arts & Entertainment,}
+1404	Sat Apr 16 00:40:21 +0000 2011	4ced9823d7268cfa436dc44e	{Danny & Clyde's}	{30.41596781717864,-90.04141867160797,Mandeville,LA,United States}	{Shop & Service,Food,}
+1404	Fri Apr 15 22:28:39 +0000 2011	4d8139e9dbc5f04dffc806b7	{Mississippi/Louisiana Border}	{30.303416444845375,-89.64157104492188,Bay St Louis,LA,United States}	{Travel & Transport,}
+1404	Fri Apr 15 22:27:44 +0000 2011	4d55a42e611aa35d8d503739	{Pearl River Underneath I-10 Bridge}	{30.30372843086499,-89.64035482733809,,,United States}	{}
+1404	Fri Apr 15 22:26:20 +0000 2011	4c83b658d92ea09325245672	{Im On A Boat}	{30.231454232995567,-89.66937212345007,Slidell,LA,United States}	{}
+1404	Fri Apr 15 22:25:48 +0000 2011	4ce29cf678ddf04daabfb198	{NASA - Stennis Space Center}	{30.348214532021032,-89.61338571580666,Stennis Space Center,MS,United States}	{Government Building,Professional & Other Places,}
+1404	Fri Apr 15 21:34:10 +0000 2011	4da8b9cd6a2303012ee3a1d0	{Bridge}	{30.438173112505503,-88.61586247300815,Moss Point,MS,United States}	{Travel & Transport,}
+1404	Fri Apr 15 21:25:02 +0000 2011	4bc0b2d774a9a5935076d0f6	{Alabama/Mississippi State Line}	{30.474364437037032,-88.4004807472229,Grand Bay,AL,United States}	{Travel & Transport,}
+1404	Fri Apr 15 21:24:53 +0000 2011	4bad17fcf964a520e82c3be3	{Mississippi Welcome Center}	{30.4621765060741,-88.4338903427124,Moss Point,MS,United States}	{Travel & Transport,Professional & Other Places,}
+1404	Fri Apr 15 21:24:22 +0000 2011	4b9551e9f964a520399c34e3	{Alabama Welcome Center}	{30.477776414512835,-88.38905453681946,Grand Bay,AL,United States}	{Travel & Transport,Outdoors & Recreation,}
+1404	Fri Apr 15 20:09:13 +0000 2011	4b567093f964a5206c1028e3	{Bass Pro Outdoor World}	{30.658476831200872,-87.90538787841797,Spanish Fort,AL,United States}	{Shop & Service,}
+1404	Fri Apr 15 18:39:37 +0000 2011	4bf9857d1134b71391450fc9	{McDonald's}	{30.507720081642965,-87.22197733520784,Pensacola,FL,United States}	{Food,}
+1404	Fri Apr 15 17:51:46 +0000 2011	4c7cf26d744d8cfae2eabb37	{Main Gate}	{30.36921090511307,-87.27738815964966,Pensacola,FL,United States}	{Professional & Other Places,}
+1404	Fri Apr 15 17:51:20 +0000 2011	4c053b3473a8c9b6e42697e0	{The Oaks Restaurant}	{30.364183101355138,-87.27911353111267,Pensacola,FL,United States}	{Food,}
+1404	Fri Apr 15 17:51:12 +0000 2011	4c0c0d0fa1b32d7f02f89bf0	{A.C. Reed Golf Course}	{30.36399764888939,-87.27904418227295,Pensacola,FL,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1404	Fri Apr 15 17:49:59 +0000 2011	4da882f34b22e9f40e06dbff	{Barrancas National Cemetery}	{30.357769611342718,-87.28565797725773,Pensacola,FL,United States}	{Outdoors & Recreation,}
+1404	Fri Apr 15 13:06:01 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Fri Apr 15 13:05:55 +0000 2011	4c960da538dd8cfaacf2d762	{Lodging Pensacola NAS}	{30.355248,-87.276628,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Fri Apr 15 13:05:48 +0000 2011	4cc616181e596dcba046dc67	{Navy Gateway Inns And Suites Bldg 4144}	{30.35503056749931,-87.27640228852691,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Thu Apr 14 22:52:56 +0000 2011	4b6cbff6f964a5207c512ce3	{The Melting Pot}	{30.417685646693034,-87.20465020188055,Pensacola,FL,United States}	{Food,}
+1404	Thu Apr 14 22:00:31 +0000 2011	4bdc9c223904a59315f94e9e	{Navy Hospital Pensacola}	{30.398598328450433,-87.29878568535838,Pensacola,FL,United States}	{Medical Center,Professional & Other Places,}
+1404	Thu Apr 14 21:41:50 +0000 2011	4b9d91c0f964a5202fb436e3	{Walmart Supercenter}	{30.395627763206285,-87.27939868978733,Pensacola,FL,United States}	{Shop & Service,}
+1404	Thu Apr 14 21:41:06 +0000 2011	4c4ce38aa34b2d7fdb336a98	{Escambia Fire Station #16}	{30.388905,-87.277459,Pensacola,FL,United States}	{}
+1404	Thu Apr 14 21:40:54 +0000 2011	4b92a302f964a520530c34e3	{IHOP}	{30.388254752420337,-87.27878194211472,Pensacola,FL,United States}	{Food,}
+1404	Thu Apr 14 21:40:44 +0000 2011	4c9bc3e48afca093bd36e715	{CVS}	{30.388052366666667,-87.278966,Pensacola,FL,United States}	{Shop & Service,}
+1404	Thu Apr 14 21:40:16 +0000 2011	4c49f9445609c9b6b3ba088f	{A Wing & A Prayer}	{30.383704502489252,-87.27766513824463,Pensacola,FL,United States}	{Food,}
+1404	Thu Apr 14 21:40:02 +0000 2011	4c0acd5ea1b32d7f67049af0	{Big Lots}	{30.395838618278503,-87.276771,Pensacola,FL,United States}	{Shop & Service,}
+1404	Thu Apr 14 21:39:42 +0000 2011	4c3eadd8ca012d7fc3df2fbe	{Boom Boom Room}	{30.387756916943882,-87.27744158064624,Pensacola,FL,United States}	{Nightlife Spot,}
+1404	Thu Apr 14 21:12:37 +0000 2011	4c011cb7de3376b05843f9a4	{Starbucks}	{30.35032723971738,-87.26995233518753,Pensacola,FL,United States}	{Food,}
+1404	Thu Apr 14 17:06:39 +0000 2011	4c0c0d0fa1b32d7f02f89bf0	{A.C. Reed Golf Course}	{30.36399764888939,-87.27904418227295,Pensacola,FL,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1404	Thu Apr 14 17:06:07 +0000 2011	4c053b3473a8c9b6e42697e0	{The Oaks Restaurant}	{30.364183101355138,-87.27911353111267,Pensacola,FL,United States}	{Food,}
+1404	Thu Apr 14 11:19:29 +0000 2011	4c960da538dd8cfaacf2d762	{Lodging Pensacola NAS}	{30.355248,-87.276628,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Thu Apr 14 11:19:20 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Thu Apr 14 11:19:08 +0000 2011	4cc616181e596dcba046dc67	{Navy Gateway Inns And Suites Bldg 4144}	{30.35503056749931,-87.27640228852691,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Thu Apr 14 04:08:56 +0000 2011	4c960da538dd8cfaacf2d762	{Lodging Pensacola NAS}	{30.355248,-87.276628,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Thu Apr 14 04:08:46 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Thu Apr 14 04:08:27 +0000 2011	4cc616181e596dcba046dc67	{Navy Gateway Inns And Suites Bldg 4144}	{30.35503056749931,-87.27640228852691,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Wed Apr 13 23:30:40 +0000 2011	4b894f83f964a520822a32e3	{Cracker Barrel Old Country Store}	{30.522048,-87.31633509,Pensacola,FL,United States}	{Food,}
+1404	Wed Apr 13 23:26:18 +0000 2011	4b894f83f964a520822a32e3	{Cracker Barrel Old Country Store}	{30.522048,-87.31633509,Pensacola,FL,United States}	{Food,}
+1404	Wed Apr 13 23:26:18 +0000 2011	4b894f83f964a520822a32e3	{Cracker Barrel Old Country Store}	{30.522048,-87.31633509,Pensacola,FL,United States}	{Food,}
+1404	Wed Apr 13 12:43:22 +0000 2011	4c960da538dd8cfaacf2d762	{Lodging Pensacola NAS}	{30.355248,-87.276628,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Wed Apr 13 12:43:14 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Wed Apr 13 12:42:56 +0000 2011	4cc616181e596dcba046dc67	{Navy Gateway Inns And Suites Bldg 4144}	{30.35503056749931,-87.27640228852691,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Wed Apr 13 04:07:26 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Wed Apr 13 04:07:03 +0000 2011	4cc616181e596dcba046dc67	{Navy Gateway Inns And Suites Bldg 4144}	{30.35503056749931,-87.27640228852691,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Wed Apr 13 04:06:52 +0000 2011	4c960da538dd8cfaacf2d762	{Lodging Pensacola NAS}	{30.355248,-87.276628,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Wed Apr 13 01:45:31 +0000 2011	4bdf22d17ea362b5195943c4	{Ashton Inn & Suites (Navy Blvd)}	{30.40210246585995,-87.27640228852691,Pensacola,FL,United States}	{Travel & Transport,Residence,}
+1404	Wed Apr 13 01:43:44 +0000 2011	4c33757416adc9288ca8c39c	{Pensacola State College}	{30.396453631390457,-87.28626492348417,Pensacola,FL,United States}	{College & University,}
+1404	Wed Apr 13 01:37:37 +0000 2011	4c9b692c80958cfa272f4bd4	{Pensacola, FL}	{30.421273840793255,-87.2173261642456,Pensacola,FL,United States}	{Outdoors & Recreation,Professional & Other Places,}
+1404	Wed Apr 13 01:37:08 +0000 2011	4ccf5e959d87224bfdeb4e3b	{Evergreen Park}	{30.397528,-87.342449,Pensacola,FL,United States}	{Outdoors & Recreation,}
+1404	Wed Apr 13 01:28:30 +0000 2011	4d8d4c2d3bfef04dfc617e86	{My Crazy Corner of the Universe!}	{30.323116275153527,-87.37611048525511,Pensacola,FL,United States}	{Residence,}
+1404	Wed Apr 13 01:27:48 +0000 2011	4c7fa116d860b60c5e5a619d	{End of Our Pier}	{30.322953,-87.38491,,,United States}	{Outdoors & Recreation,}
+1404	Wed Apr 13 01:19:31 +0000 2011	4c26385c136d20a1f4e6e461	{Perdido Key State Park}	{30.29176069994865,-87.46516764163971,Pensacola,FL,United States}	{Outdoors & Recreation,}
+1404	Wed Apr 13 00:01:03 +0000 2011	4b96e510f964a5200cec34e3	{Wintzell's Oyster House}	{30.26308440632355,-87.61363327503204,Orange Beach,AL,United States}	{Food,}
+1404	Tue Apr 12 21:44:30 +0000 2011	4bfd88a2f61dc9b64b2a9fde	{M. C. Blanchard Judicial Center}	{30.408079951640232,-87.21676826477051,Pensacola,FL,United States}	{Government Building,Professional & Other Places,}
+1404	Tue Apr 12 11:28:54 +0000 2011	4c960da538dd8cfaacf2d762	{Lodging Pensacola NAS}	{30.355248,-87.276628,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Tue Apr 12 11:28:46 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Tue Apr 12 11:28:36 +0000 2011	4cc616181e596dcba046dc67	{Navy Gateway Inns And Suites Bldg 4144}	{30.35503056749931,-87.27640228852691,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Tue Apr 12 02:11:25 +0000 2011	4c0d9befc700c9b65dbca2dd	{Felton Lanes}	{30.406531268607463,-87.27419735896788,Pensacola,FL,United States}	{Arts & Entertainment,}
+1404	Tue Apr 12 02:11:05 +0000 2011	4bf017aa3a002d7fb0a685a4	{SONIC Drive In}	{30.406511657963655,-87.27497443847038,Pensacola,FL,United States}	{Food,}
+1404	Mon Apr 11 23:50:26 +0000 2011	4bf0877a24f020a10c3b684f	{Hunan Chinese}	{30.425338,-87.180141,Pensacola,FL,United States}	{Food,}
+1404	Mon Apr 11 12:02:10 +0000 2011	4c960da538dd8cfaacf2d762	{Lodging Pensacola NAS}	{30.355248,-87.276628,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Mon Apr 11 12:02:02 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Mon Apr 11 12:01:54 +0000 2011	4cc616181e596dcba046dc67	{Navy Gateway Inns And Suites Bldg 4144}	{30.35503056749931,-87.27640228852691,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Mon Apr 11 03:50:06 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Mon Apr 11 03:49:54 +0000 2011	4cc616181e596dcba046dc67	{Navy Gateway Inns And Suites Bldg 4144}	{30.35503056749931,-87.27640228852691,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Sun Apr 10 23:42:44 +0000 2011	4b478f26f964a520873526e3	{Carmike  - Bayou 15}	{30.47247808922297,-87.21693992614746,Pensacola,FL,United States}	{Arts & Entertainment,Movie Theater,}
+1404	Sun Apr 10 23:42:28 +0000 2011	4b9148f9f964a520efaf33e3	{Mellow Mushroom}	{30.474271969858705,-87.21685409545898,Pensacola,FL,United States}	{Food,}
+1404	Sun Apr 10 23:39:36 +0000 2011	4b478f26f964a520873526e3	{Carmike  - Bayou 15}	{30.47247808922297,-87.21693992614746,Pensacola,FL,United States}	{Arts & Entertainment,Movie Theater,}
+1404	Sun Apr 10 22:19:09 +0000 2011	4f71d7b27beb1d18abcaee0f	{Kirkland's}	{30.48020186511218,-87.20680489019202,Pensacola,FL,United States}	{Shop & Service,}
+1404	Sun Apr 10 21:42:44 +0000 2011	4cbf0fa619ceb1f7942f21cd	{Five Guys}	{30.480379,-87.20701201,Pensacola,FL,United States}	{Food,}
+1404	Sun Apr 10 19:59:04 +0000 2011	4b85b951f964a5202c6f31e3	{JCPenney}	{30.50003431702592,-87.22389299557435,Pensacola,FL,United States}	{Shop & Service,Clothing Store,}
+1404	Sun Apr 10 19:58:52 +0000 2011	4bb3cc1f35f0c9b6dde7bc83	{Sears}	{30.497025033555598,-87.22431112428771,Pensacola,FL,United States}	{Shop & Service,}
+1404	Sun Apr 10 19:54:40 +0000 2011	4c28cb57ed0ac9b620bf60aa	{Firestone}	{30.501463029833864,-87.22183146955379,Pensacola,FL,United States}	{}
+1404	Sun Apr 10 17:44:59 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Sun Apr 10 17:44:52 +0000 2011	4c960da538dd8cfaacf2d762	{Lodging Pensacola NAS}	{30.355248,-87.276628,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Sun Apr 10 17:44:44 +0000 2011	4cc616181e596dcba046dc67	{Navy Gateway Inns And Suites Bldg 4144}	{30.35503056749931,-87.27640228852691,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Sun Apr 10 06:09:10 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Sun Apr 10 06:09:01 +0000 2011	4c960da538dd8cfaacf2d762	{Lodging Pensacola NAS}	{30.355248,-87.276628,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Sun Apr 10 06:08:53 +0000 2011	4cc616181e596dcba046dc67	{Navy Gateway Inns And Suites Bldg 4144}	{30.35503056749931,-87.27640228852691,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Sun Apr 10 03:31:10 +0000 2011	4b6b7aa7f964a5206d0b2ce3	{McGuire's Irish Pub}	{30.41792464935347,-87.20247745513916,Pensacola,FL,United States}	{Nightlife Spot,Food,}
+1404	Sun Apr 10 03:30:35 +0000 2011	4b6b7aa7f964a5206d0b2ce3	{McGuire's Irish Pub}	{30.41792464935347,-87.20247745513916,Pensacola,FL,United States}	{Nightlife Spot,Food,}
+1404	Sun Apr 10 03:03:41 +0000 2011	4b4659b9f964a520631e26e3	{Pensacola International Airport (PNS)}	{30.47559424215827,-87.19351887702942,Pensacola,FL,United States}	{Travel & Transport,Airport,}
+1404	Sun Apr 10 03:03:12 +0000 2011	4c2247f699282d7f4ade66b0	{Gate 2}	{30.475945981881736,-87.19330120246555,Pensacola,FL,United States}	{Travel & Transport,Airport,}
+1404	Sun Apr 10 02:59:15 +0000 2011	4b4659b9f964a520631e26e3	{Pensacola International Airport (PNS)}	{30.47559424215827,-87.19351887702942,Pensacola,FL,United States}	{Travel & Transport,Airport,}
+1404	Sun Apr 10 02:58:54 +0000 2011	4b4659b9f964a520631e26e3	{Pensacola International Airport (PNS)}	{30.47559424215827,-87.19351887702942,Pensacola,FL,United States}	{Travel & Transport,Airport,}
+1404	Sun Apr 10 02:34:52 +0000 2011	4b919729f964a5200fc833e3	{Bed Bath & Beyond}	{30.477155185010954,-87.2074420365139,Pensacola,FL,United States}	{Shop & Service,}
+1404	Sun Apr 10 02:34:18 +0000 2011	4b704b9cf964a520ad102de3	{Taco Bell}	{30.478228005358424,-87.20676598021429,Pensacola,FL,United States}	{Food,}
+1404	Sun Apr 10 02:34:00 +0000 2011	4b50bde4f964a520573027e3	{Best Buy}	{30.47736033,-87.20683336,Pensacola,FL,United States}	{Shop & Service,}
+1404	Sun Apr 10 02:33:26 +0000 2011	4bac693ef964a520ecf33ae3	{Krystal}	{30.478876231029528,-87.20715021483869,Pensacola,FL,United States}	{Food,}
+1404	Sun Apr 10 01:56:20 +0000 2011	4b6b7aa7f964a5206d0b2ce3	{McGuire's Irish Pub}	{30.41792464935347,-87.20247745513916,Pensacola,FL,United States}	{Nightlife Spot,Food,}
+1404	Sun Apr 10 01:55:32 +0000 2011	4b6b7aa7f964a5206d0b2ce3	{McGuire's Irish Pub}	{30.41792464935347,-87.20247745513916,Pensacola,FL,United States}	{Nightlife Spot,Food,}
+1404	Sun Apr 10 01:55:32 +0000 2011	4b6b7aa7f964a5206d0b2ce3	{McGuire's Irish Pub}	{30.41792464935347,-87.20247745513916,Pensacola,FL,United States}	{Nightlife Spot,Food,}
+1404	Sat Apr 09 23:01:51 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Sat Apr 09 23:01:43 +0000 2011	4cc616181e596dcba046dc67	{Navy Gateway Inns And Suites Bldg 4144}	{30.35503056749931,-87.27640228852691,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Sat Apr 09 21:38:28 +0000 2011	4ce56f98b3173704882caaf6	{Tires Plus}	{30.374148832149878,-87.11807510157803,Gulf Breeze,FL,United States}	{Shop & Service,}
+1404	Sat Apr 09 21:10:59 +0000 2011	4c5d82aa7f661b8db5714b1c	{BP}	{30.384524,-87.1005463,Gulf Breeze,FL,United States}	{Shop & Service,}
+1404	Sat Apr 09 20:57:49 +0000 2011	4b9be1a0f964a520dd3036e3	{Starbucks}	{30.364704339155377,-87.16915909755812,Gulf Breeze,FL,United States}	{Food,}
+1404	Sat Apr 09 20:54:54 +0000 2011	4bf8257bb182c9b68af5765a	{Gulf Breeze, FL}	{30.35758252367497,-87.16368198394775,Gulf Breeze,FL,United States}	{Travel & Transport,Outdoors & Recreation,}
+1404	Sat Apr 09 20:54:33 +0000 2011	4b9be1a0f964a520dd3036e3	{Starbucks}	{30.364704339155377,-87.16915909755812,Gulf Breeze,FL,United States}	{Food,}
+1404	Sat Apr 09 20:16:01 +0000 2011	4bded7ce0ee3a593fd0532b0	{Sherman Cove Marina}	{30.335038761470038,-87.32530175546621,Pensacola,FL,United States}	{Outdoors & Recreation,}
+1404	Sat Apr 09 15:53:53 +0000 2011	4da080e0a77d816e5e8d1909	{Big Lagoon}	{30.317350224545052,-87.36135384594965,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Sat Apr 09 15:51:31 +0000 2011	4c7cf26d744d8cfae2eabb37	{Main Gate}	{30.36921090511307,-87.27738815964966,Pensacola,FL,United States}	{Professional & Other Places,}
+1404	Sat Apr 09 13:54:48 +0000 2011	4c9bc3e48afca093bd36e715	{CVS}	{30.388052366666667,-87.278966,Pensacola,FL,United States}	{Shop & Service,}
+1404	Sat Apr 09 13:48:38 +0000 2011	4b92a302f964a520530c34e3	{IHOP}	{30.388254752420337,-87.27878194211472,Pensacola,FL,United States}	{Food,}
+1404	Sat Apr 09 11:22:38 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Sat Apr 09 11:22:31 +0000 2011	4cc616181e596dcba046dc67	{Navy Gateway Inns And Suites Bldg 4144}	{30.35503056749931,-87.27640228852691,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Sat Apr 09 02:52:23 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Sat Apr 09 02:52:15 +0000 2011	4cc616181e596dcba046dc67	{Navy Gateway Inns And Suites Bldg 4144}	{30.35503056749931,-87.27640228852691,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Fri Apr 08 23:48:15 +0000 2011	4b894f83f964a520822a32e3	{Cracker Barrel Old Country Store}	{30.522048,-87.31633509,Pensacola,FL,United States}	{Food,}
+1404	Fri Apr 08 11:41:43 +0000 2011	4c960da538dd8cfaacf2d762	{Lodging Pensacola NAS}	{30.355248,-87.276628,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Fri Apr 08 11:41:33 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Fri Apr 08 11:41:26 +0000 2011	4cc616181e596dcba046dc67	{Navy Gateway Inns And Suites Bldg 4144}	{30.35503056749931,-87.27640228852691,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Fri Apr 08 02:02:51 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Fri Apr 08 02:02:29 +0000 2011	4cc616181e596dcba046dc67	{Navy Gateway Inns And Suites Bldg 4144}	{30.35503056749931,-87.27640228852691,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Fri Apr 08 01:29:38 +0000 2011	4c9bc3e48afca093bd36e715	{CVS}	{30.388052366666667,-87.278966,Pensacola,FL,United States}	{Shop & Service,}
+1404	Fri Apr 08 01:22:32 +0000 2011	4bf017aa3a002d7fb0a685a4	{SONIC Drive In}	{30.406511657963655,-87.27497443847038,Pensacola,FL,United States}	{Food,}
+1404	Fri Apr 08 01:22:23 +0000 2011	4b96e72bf964a520a9ec34e3	{Miller's Pensacola Ale House}	{30.48186231,-87.22165587,Pensacola,FL,United States}	{Food,Residence,}
+1404	Thu Apr 07 14:52:48 +0000 2011	4c960da538dd8cfaacf2d762	{Lodging Pensacola NAS}	{30.355248,-87.276628,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Thu Apr 07 14:52:39 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Thu Apr 07 14:52:30 +0000 2011	4cc616181e596dcba046dc67	{Navy Gateway Inns And Suites Bldg 4144}	{30.35503056749931,-87.27640228852691,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Thu Apr 07 00:36:14 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Thu Apr 07 00:35:56 +0000 2011	4cc616181e596dcba046dc67	{Navy Gateway Inns And Suites Bldg 4144}	{30.35503056749931,-87.27640228852691,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Wed Apr 06 23:45:29 +0000 2011	4bae7473f964a5207eb43be3	{New Yorker Deli}	{30.425025,-87.18200513333333,Pensacola,FL,United States}	{Food,}
+1404	Wed Apr 06 13:54:53 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Wed Apr 06 13:54:44 +0000 2011	4cc616181e596dcba046dc67	{Navy Gateway Inns And Suites Bldg 4144}	{30.35503056749931,-87.27640228852691,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Wed Apr 06 13:03:54 +0000 2011	4d1405d46d1037044cca1dbd	{Krispy Kreme Doughnuts}	{30.422858831468844,-87.2066735688886,Pensacola,FL,United States}	{Food,}
+1404	Wed Apr 06 12:23:25 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Wed Apr 06 12:23:16 +0000 2011	4c960da538dd8cfaacf2d762	{Lodging Pensacola NAS}	{30.355248,-87.276628,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Wed Apr 06 12:23:07 +0000 2011	4cc616181e596dcba046dc67	{Navy Gateway Inns And Suites Bldg 4144}	{30.35503056749931,-87.27640228852691,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Wed Apr 06 00:15:39 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Wed Apr 06 00:15:32 +0000 2011	4cc616181e596dcba046dc67	{Navy Gateway Inns And Suites Bldg 4144}	{30.35503056749931,-87.27640228852691,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Wed Apr 06 00:15:24 +0000 2011	4c960da538dd8cfaacf2d762	{Lodging Pensacola NAS}	{30.355248,-87.276628,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Tue Apr 05 23:50:01 +0000 2011	4c1573a577cea5931349d260	{Barrancas Beach}	{30.34543338742688,-87.30080500650068,Pensacola,FL,United States}	{Outdoors & Recreation,}
+1404	Tue Apr 05 13:48:13 +0000 2011	4c960da538dd8cfaacf2d762	{Lodging Pensacola NAS}	{30.355248,-87.276628,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Tue Apr 05 13:48:03 +0000 2011	4cc616181e596dcba046dc67	{Navy Gateway Inns And Suites Bldg 4144}	{30.35503056749931,-87.27640228852691,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Tue Apr 05 13:47:55 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Tue Apr 05 08:50:10 +0000 2011	4cc616181e596dcba046dc67	{Navy Gateway Inns And Suites Bldg 4144}	{30.35503056749931,-87.27640228852691,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Tue Apr 05 08:49:46 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Tue Apr 05 03:06:01 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Tue Apr 05 03:05:53 +0000 2011	4c960da538dd8cfaacf2d762	{Lodging Pensacola NAS}	{30.355248,-87.276628,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Tue Apr 05 03:05:44 +0000 2011	4cc616181e596dcba046dc67	{Navy Gateway Inns And Suites Bldg 4144}	{30.35503056749931,-87.27640228852691,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Tue Apr 05 01:00:39 +0000 2011	4d49ab9e7d36f04d9c4c14e5	{Philly's}	{30.49417,-87.21065561666667,pensacola,FL,United States}	{Food,}
+1404	Tue Apr 05 00:59:36 +0000 2011	4bbcd3e3593fef3bc4ad0256	{Philly's Cheesesteaks}	{30.498097856803792,-87.17166423797607,Pensacola,FL,United States}	{Food,}
+1404	Mon Apr 04 15:32:01 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Mon Apr 04 15:31:53 +0000 2011	4c960da538dd8cfaacf2d762	{Lodging Pensacola NAS}	{30.355248,-87.276628,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Mon Apr 04 15:31:36 +0000 2011	4cc616181e596dcba046dc67	{Navy Gateway Inns And Suites Bldg 4144}	{30.35503056749931,-87.27640228852691,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Mon Apr 04 01:02:49 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Mon Apr 04 01:02:42 +0000 2011	4c960da538dd8cfaacf2d762	{Lodging Pensacola NAS}	{30.355248,-87.276628,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Mon Apr 04 01:02:33 +0000 2011	4cc616181e596dcba046dc67	{Navy Gateway Inns And Suites Bldg 4144}	{30.35503056749931,-87.27640228852691,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Sun Apr 03 20:57:38 +0000 2011	4b894f83f964a520822a32e3	{Cracker Barrel Old Country Store}	{30.522048,-87.31633509,Pensacola,FL,United States}	{Food,}
+1404	Sun Apr 03 20:38:39 +0000 2011	4c0e5fb3c700c9b68cbba3dd	{BP}	{30.519450591441213,-87.313981851947,Pensacola,FL,United States}	{Shop & Service,}
+1404	Sun Apr 03 19:10:35 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Sun Apr 03 19:10:21 +0000 2011	4cc616181e596dcba046dc67	{Navy Gateway Inns And Suites Bldg 4144}	{30.35503056749931,-87.27640228852691,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Sun Apr 03 19:10:12 +0000 2011	4c960da538dd8cfaacf2d762	{Lodging Pensacola NAS}	{30.355248,-87.276628,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Sun Apr 03 08:13:56 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Sun Apr 03 08:13:37 +0000 2011	4cc616181e596dcba046dc67	{Navy Gateway Inns And Suites Bldg 4144}	{30.35503056749931,-87.27640228852691,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Sun Apr 03 08:13:29 +0000 2011	4c960da538dd8cfaacf2d762	{Lodging Pensacola NAS}	{30.355248,-87.276628,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Sun Apr 03 06:00:25 +0000 2011	4c3522a83896e21edfd0ec90	{Siberia}	{30.409774,-87.21285625,Pensacola,FL,United States}	{Office,Professional & Other Places,}
+1404	Sun Apr 03 06:00:08 +0000 2011	4bd20826046076b09d117371	{End o' the Alley Bar}	{30.409971157958825,-87.21285013824539,Pensacola,FL,United States}	{Nightlife Spot,}
+1404	Sun Apr 03 05:10:31 +0000 2011	4b455d9bf964a5206d0b26e3	{Seville Quarter Oyster Bar}	{30.4097618327129,-87.21293281124879,Pensacola,FL,United States}	{Nightlife Spot,Arts & Entertainment,}
+1404	Sun Apr 03 02:55:16 +0000 2011	4b4fba9cf964a520e91227e3	{Atlas Oyster House}	{30.40702797087376,-87.21028233989087,Pensacola,FL,United States}	{Nightlife Spot,Food,}
+1404	Sun Apr 03 02:54:48 +0000 2011	4bc1f022b492d13ad6a1a660	{The Fish House}	{30.406919066658297,-87.21025315956102,Pensacola,FL,United States}	{Nightlife Spot,Food,}
+1404	Sun Apr 03 00:48:42 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Sun Apr 03 00:48:31 +0000 2011	4c960da538dd8cfaacf2d762	{Lodging Pensacola NAS}	{30.355248,-87.276628,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Sun Apr 03 00:48:24 +0000 2011	4cc616181e596dcba046dc67	{Navy Gateway Inns And Suites Bldg 4144}	{30.35503056749931,-87.27640228852691,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Sat Apr 02 20:24:38 +0000 2011	4bb4f17d0fb7b71337b7bf8a	{Wayside Park/Pensacola Fishing Pier}	{30.414943189743422,-87.19224059084114,Pensacola,FL,United States}	{Outdoors & Recreation,}
+1404	Sat Apr 02 20:19:54 +0000 2011	4bffa530daf9c9b69d76faef	{Wayside Park}	{30.417227686866138,-87.19372446743006,Pensacola,FL,United States}	{Outdoors & Recreation,}
+1404	Sat Apr 02 17:26:53 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Sat Apr 02 17:26:42 +0000 2011	4c960da538dd8cfaacf2d762	{Lodging Pensacola NAS}	{30.355248,-87.276628,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Sat Apr 02 17:26:34 +0000 2011	4cc616181e596dcba046dc67	{Navy Gateway Inns And Suites Bldg 4144}	{30.35503056749931,-87.27640228852691,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Fri Apr 01 21:30:56 +0000 2011	4c7d6b7e3b22a1cd1fdd5e9e	{West Marine}	{30.393274,-87.258135,Pensacola,FL,United States}	{Shop & Service,}
+1404	Thu Mar 31 12:25:46 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Thu Mar 31 12:25:33 +0000 2011	4c960da538dd8cfaacf2d762	{Lodging Pensacola NAS}	{30.355248,-87.276628,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Thu Mar 31 12:25:22 +0000 2011	4cc616181e596dcba046dc67	{Navy Gateway Inns And Suites Bldg 4144}	{30.35503056749931,-87.27640228852691,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Wed Mar 30 12:37:30 +0000 2011	4c960da538dd8cfaacf2d762	{Lodging Pensacola NAS}	{30.355248,-87.276628,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Wed Mar 30 12:37:21 +0000 2011	4cc616181e596dcba046dc67	{Navy Gateway Inns And Suites Bldg 4144}	{30.35503056749931,-87.27640228852691,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Wed Mar 30 09:31:25 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Wed Mar 30 01:57:45 +0000 2011	4c960da538dd8cfaacf2d762	{Lodging Pensacola NAS}	{30.355248,-87.276628,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Wed Mar 30 01:57:45 +0000 2011	4c960da538dd8cfaacf2d762	{Lodging Pensacola NAS}	{30.355248,-87.276628,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Wed Mar 30 01:57:36 +0000 2011	4cc616181e596dcba046dc67	{Navy Gateway Inns And Suites Bldg 4144}	{30.35503056749931,-87.27640228852691,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Wed Mar 30 01:57:27 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Tue Mar 29 22:20:10 +0000 2011	4c7ed74da7958cfa3c058f2b	{Pep Boys Auto Parts & Service}	{30.43884,-87.279853,Pensacola,FL,United States}	{Shop & Service,}
+1404	Tue Mar 29 22:08:37 +0000 2011	4b620c18f964a52065322ae3	{SONIC Drive In}	{30.460622851411795,-87.29664981365204,Pensacola,FL,United States}	{Food,}
+1404	Mon Mar 28 23:41:44 +0000 2011	4b6b7aa7f964a5206d0b2ce3	{McGuire's Irish Pub}	{30.41792464935347,-87.20247745513916,Pensacola,FL,United States}	{Nightlife Spot,Food,}
+1404	Mon Mar 28 21:25:15 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Mon Mar 28 10:39:22 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Mon Mar 28 01:21:52 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Sun Mar 27 21:21:05 +0000 2011	4bfd9e434cf820a178bcecf4	{Barnhills}	{30.406484,-87.276098,Pensacola,FL,United States}	{Food,}
+1404	Sun Mar 27 14:41:37 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Sun Mar 27 03:37:08 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Sun Mar 27 02:25:56 +0000 2011	4bfea8484e5d0f47aeef7c1f	{SONIC Drive In}	{30.483676065196892,-87.20285049969068,Pensacola,FL,United States}	{Food,}
+1404	Sun Mar 27 01:16:24 +0000 2011	4bbcd4f3593fef3b6aaf0256	{Sacred Heart Urgent Care}	{30.486418851545608,-87.25892999620272,Pensacola,FL,United States}	{Medical Center,Professional & Other Places,}
+1404	Sat Mar 26 19:51:44 +0000 2011	4b3f97b9f964a520d9a925e3	{Walmart Supercenter}	{30.360693089828928,-87.36109256744385,Pensacola,FL,United States}	{Shop & Service,Food,}
+1404	Sat Mar 26 17:01:09 +0000 2011	4b894f83f964a520822a32e3	{Cracker Barrel Old Country Store}	{30.522048,-87.31633509,Pensacola,FL,United States}	{Food,}
+1404	Sat Mar 26 14:34:58 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Sat Mar 26 14:34:57 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Sat Mar 26 03:44:08 +0000 2011	4d8d6105d00a6ea8bf77a14f	{AW & VL Temp <3 Shack}	{30.355661068966214,-87.27675438773328,,,United States}	{Residence,}
+1404	Sat Mar 26 03:28:12 +0000 2011	4c7cf26d744d8cfae2eabb37	{Main Gate}	{30.36921090511307,-87.27738815964966,Pensacola,FL,United States}	{Professional & Other Places,}
+1404	Sat Mar 26 01:18:47 +0000 2011	4b69cc87f964a52002b52be3	{Cordova Mall}	{30.475289282090824,-87.2080743106197,Pensacola,FL,United States}	{Shop & Service,Food & Drink Shop,}
+1404	Fri Mar 25 23:24:12 +0000 2011	4bfef2b34e5d0f472b6a7d1f	{Grafitti Bridge}	{30.420441179625215,-87.19393730163574,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Fri Mar 25 21:46:20 +0000 2011	4b805bf0f964a520266b30e3	{Joe Patti's Seafood}	{30.404082572929063,-87.22719669342041,Pensacola,FL,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1404	Fri Mar 25 20:54:18 +0000 2011	4b805bf0f964a520266b30e3	{Joe Patti's Seafood}	{30.404082572929063,-87.22719669342041,Pensacola,FL,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1404	Fri Mar 25 12:19:13 +0000 2011	4c960da538dd8cfaacf2d762	{Lodging Pensacola NAS}	{30.355248,-87.276628,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Fri Mar 25 12:18:26 +0000 2011	4cc616181e596dcba046dc67	{Navy Gateway Inns And Suites Bldg 4144}	{30.35503056749931,-87.27640228852691,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Fri Mar 25 01:57:49 +0000 2011	4bb52aa56edc76b0035e2f1c	{Chili's Grill & Bar}	{30.433717,-87.27466844,Pensacola,FL,United States}	{Food,}
+1404	Fri Mar 25 01:48:03 +0000 2011	4bb52aa56edc76b0035e2f1c	{Chili's Grill & Bar}	{30.433717,-87.27466844,Pensacola,FL,United States}	{Food,}
+1404	Fri Mar 25 00:22:51 +0000 2011	4cc616181e596dcba046dc67	{Navy Gateway Inns And Suites Bldg 4144}	{30.35503056749931,-87.27640228852691,Pensacola,FL,United States}	{Travel & Transport,}
+1404	Fri Mar 25 00:22:01 +0000 2011	4c7cf26d744d8cfae2eabb37	{Main Gate}	{30.36921090511307,-87.27738815964966,Pensacola,FL,United States}	{Professional & Other Places,}
+1404	Thu Mar 24 22:59:43 +0000 2011	4b4659b9f964a520631e26e3	{Pensacola International Airport (PNS)}	{30.47559424215827,-87.19351887702942,Pensacola,FL,United States}	{Travel & Transport,Airport,}
+1404	Thu Mar 24 20:56:47 +0000 2011	4b5891e8f964a520b15e28e3	{Peet's Coffee & Tea}	{29.986720626432557,-95.34553527832031,Houston,TX,United States}	{Food,}
+1404	Thu Mar 24 20:56:02 +0000 2011	4bbf845e2a89ef3bb30eef88	{Gate B69}	{29.98553115529069,-95.34680664539337,Houston,TX,United States}	{Travel & Transport,Airport,}
+1404	Thu Mar 24 19:30:39 +0000 2011	44d1efc9f964a52032361fe3	{George Bush International Airport (IAH)}	{29.986460430837823,-95.34201622009277,Houston,TX,United States}	{Travel & Transport,}
+1404	Thu Mar 24 16:12:40 +0000 2011	4cf13bbde94254811efb68c5	{Continental Flight 1594 (LAX to IAH)}	{34.05893564243995,-118.44349435304085,Los Angeles,CA,United States}	{Travel & Transport,Airport,}
+1404	Thu Mar 24 15:26:04 +0000 2011	4c0c86b0b1b676b0a246df86	{Gate 69B}	{33.94111698228998,-118.40206146240234,Los Angeles,CA,United States}	{Travel & Transport,Airport,}
+1404	Thu Mar 24 15:25:20 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1404	Thu Mar 24 15:24:25 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1404	Thu Mar 24 13:19:23 +0000 2011	3fd66200f964a520e1ef1ee3	{Duke's Malibu}	{34.03639569311383,-118.63577427994049,Malibu,CA,United States}	{Food,}
+1404	Thu Mar 24 13:17:00 +0000 2011	4b524b1ef964a520657527e3	{Point Mugu State Park}	{34.076265557705256,-119.0233039855957,Malibu,CA,United States}	{Outdoors & Recreation,}
+1404	Thu Mar 24 13:10:17 +0000 2011	4d8b42a599c2a1cd342ea1d7	{Out <3 spot}	{34.151283,-119.117886,,,United States}	{Outdoors & Recreation,}
+1404	Thu Mar 24 12:27:16 +0000 2011	4b0da287f964a520cb4c23e3	{In-N-Out Burger}	{34.268442057215026,-119.2729103565216,Ventura,CA,United States}	{Food,}
+1404	Thu Mar 24 12:15:24 +0000 2011	4c019a88f8492d7f63255ffa	{Mussel Shoals}	{34.356724326237334,-119.44252753602402,Ventura,CA,United States}	{Outdoors & Recreation,Beach,}
+1404	Thu Mar 24 12:14:58 +0000 2011	4bc0aa40461576b09a7b7a32	{La Conchita}	{34.36273696729577,-119.44812668728022,Ventura,CA,United States}	{Outdoors & Recreation,Beach,}
+1404	Thu Mar 24 12:13:38 +0000 2011	4bd6f3ab4e32d13a3b5fc380	{Coastal Express}	{34.35838013158992,-119.4442560419942,Ventura,CA,United States}	{Travel & Transport,}
+1404	Thu Mar 24 12:13:21 +0000 2011	4b8965d2f964a5205d3232e3	{Rincon Point}	{34.373632,-119.476327,Ventura,CA,United States}	{Outdoors & Recreation,}
+1404	Thu Mar 24 10:54:38 +0000 2011	4d893de2b799a35d0f999263	{RolliePolie Castle}	{34.424064265081874,-119.72522965906451,,,United States}	{Residence,}
+1404	Thu Mar 24 10:54:27 +0000 2011	4d759fecf5e4b1f7651af986	{Mommys House <3}	{34.424064265081874,-119.72522965906451,,,United States}	{Residence,}
+1404	Thu Mar 24 05:50:45 +0000 2011	4d759fecf5e4b1f7651af986	{Mommys House <3}	{34.424064265081874,-119.72522965906451,,,United States}	{Residence,}
+1404	Thu Mar 24 05:50:26 +0000 2011	4d893de2b799a35d0f999263	{RolliePolie Castle}	{34.424064265081874,-119.72522965906451,,,United States}	{Residence,}
+1404	Thu Mar 24 05:50:25 +0000 2011	4d893de2b799a35d0f999263	{RolliePolie Castle}	{34.424064265081874,-119.72522965906451,,,United States}	{Residence,}
+1404	Wed Mar 23 05:28:05 +0000 2011	4d759fecf5e4b1f7651af986	{Mommys House <3}	{34.424064265081874,-119.72522965906451,,,United States}	{Residence,}
+1404	Wed Mar 23 00:25:09 +0000 2011	4d893de2b799a35d0f999263	{RolliePolie Castle}	{34.424064265081874,-119.72522965906451,,,United States}	{Residence,}
+1404	Wed Mar 23 00:24:19 +0000 2011	4d759fecf5e4b1f7651af986	{Mommys House <3}	{34.424064265081874,-119.72522965906451,,,United States}	{Residence,}
+1404	Tue Mar 22 23:36:07 +0000 2011	4b881ac0f964a5201be031e3	{Disney Store}	{34.26831884009866,-119.24867793917656,Ventura,CA,United States}	{Shop & Service,}
+1404	Tue Mar 22 23:08:03 +0000 2011	4c9370746cfea093dc1cba8b	{H&M}	{34.26870804885107,-119.24882411956787,Ventura,CA,United States}	{Shop & Service,Clothing Store,}
+1404	Tue Mar 22 23:07:44 +0000 2011	4b54c7f5f964a5202dcc27e3	{Pacific View Mall}	{34.268530721187204,-119.24871683120728,Ventura,CA,United States}	{Shop & Service,}
+1404	Tue Mar 22 22:14:50 +0000 2011	4bdfa6680ee3a5933f1235b0	{Starbucks}	{34.17626526548408,-119.21578466892242,Port Hueneme,CA,United States}	{Food,}
+1404	Tue Mar 22 22:14:27 +0000 2011	4bd4c8e65631c9b6c825a330	{CVS/pharmacy}	{34.176908780951514,-119.21462059020996,Port Hueneme,CA,United States}	{Shop & Service,}
+1404	Tue Mar 22 22:12:44 +0000 2011	4bdf1604e75c0f470ad9c903	{PETCO}	{34.17691723095312,-119.2137770351138,Port Hueneme,CA,United States}	{Shop & Service,}
+1404	Tue Mar 22 21:48:22 +0000 2011	4d17bcfae190721ef5151d21	{Dads}	{34.193324398581225,-119.21464263323712,Oxnard,CA,United States}	{Residence,}
+1404	Tue Mar 22 20:06:20 +0000 2011	4c6df5e0c5243704e4e829eb	{No Sex Zone}	{34.19072554483967,-119.19976783956922,Oxnard,CA,United States}	{}
+1404	Tue Mar 22 20:03:18 +0000 2011	4c6df5e0c5243704e4e829eb	{No Sex Zone}	{34.19072554483967,-119.19976783956922,Oxnard,CA,United States}	{}
+1404	Tue Mar 22 19:57:22 +0000 2011	4c7b0ae6794e224b049c6a28	{Marine Self Storage}	{34.188824,-119.205052,Oxnard,CA,United States}	{Professional & Other Places,}
+1404	Tue Mar 22 19:34:08 +0000 2011	4c707f2dfa49a1cd9874a6e3	{Ap&Cm <3 shack}	{34.18315387565836,-119.21464263323709,,CA,United States}	{Residence,}
+1404	Tue Mar 22 19:33:30 +0000 2011	4c707f2dfa49a1cd9874a6e3	{Ap&Cm <3 shack}	{34.18315387565836,-119.21464263323709,,CA,United States}	{Residence,}
+1404	Tue Mar 22 19:08:11 +0000 2011	4aac1624f964a520295c20e3	{In-N-Out Burger}	{34.235011297141796,-119.1796338558197,Oxnard,CA,United States}	{Food,}
+1404	Tue Mar 22 18:54:05 +0000 2011	4c3639a33849c92839aabbb1	{Community Vision Center}	{34.219520688056946,-119.17596459388733,Oxnard,CA,United States}	{Medical Center,Professional & Other Places,}
+1404	Tue Mar 22 18:39:41 +0000 2011	4b6b019cf964a5200dec2be3	{Jo-Ann Fabrics & Crafts}	{34.223413,-119.161344,Oxnard,CA,United States}	{Shop & Service,Arts & Entertainment,}
+1404	Tue Mar 22 17:52:13 +0000 2011	4c488b2376d72d7f90d1404d	{Hair & Beauty Essentials}	{34.22223541825893,-119.06861186027527,Camarillo,CA,United States}	{Shop & Service,}
+1404	Tue Mar 22 17:25:57 +0000 2011	4c488b2376d72d7f90d1404d	{Hair & Beauty Essentials}	{34.22223541825893,-119.06861186027527,Camarillo,CA,United States}	{Shop & Service,}
+1404	Tue Mar 22 16:55:54 +0000 2011	4ae5e24ff964a520dda221e3	{Starbucks}	{34.2227103,-119.068626,Camarillo,CA,United States}	{Food,}
+1404	Tue Mar 22 14:47:15 +0000 2011	4c6df5e0c5243704e4e829eb	{No Sex Zone}	{34.19072554483967,-119.19976783956922,Oxnard,CA,United States}	{}
+1404	Tue Mar 22 14:47:15 +0000 2011	4c6df5e0c5243704e4e829eb	{No Sex Zone}	{34.19072554483967,-119.19976783956922,Oxnard,CA,United States}	{}
+1404	Tue Mar 22 07:10:06 +0000 2011	4c6df5e0c5243704e4e829eb	{No Sex Zone}	{34.19072554483967,-119.19976783956922,Oxnard,CA,United States}	{}
+1404	Tue Mar 22 03:49:32 +0000 2011	4cf5b644d3a8a1cdb16bcd43	{The Melting Pot}	{34.165211,-118.82840588333333,Westlake Village,CA,United States}	{Food,}
+1404	Tue Mar 22 02:30:19 +0000 2011	4c77f04c81bca093ba54f814	{Westpark}	{34.285260899565685,-119.30515076159605,San Buenaventura (Ventura),CA,United States}	{Outdoors & Recreation,}
+1404	Mon Mar 21 22:19:28 +0000 2011	4d17bcfae190721ef5151d21	{Dads}	{34.193324398581225,-119.21464263323712,Oxnard,CA,United States}	{Residence,}
+1404	Mon Mar 21 20:42:10 +0000 2011	4d759fecf5e4b1f7651af986	{Mommys House <3}	{34.424064265081874,-119.72522965906451,,,United States}	{Residence,}
+1404	Mon Mar 21 15:24:48 +0000 2011	4b940042f964a520406034e3	{Ojai Rancho Inn}	{34.44449140813554,-119.25285166247347,Ojai,CA,United States}	{}
+1404	Mon Mar 21 11:07:30 +0000 2011	4d759fecf5e4b1f7651af986	{Mommys House <3}	{34.424064265081874,-119.72522965906451,,,United States}	{Residence,}
+1404	Mon Mar 21 04:38:32 +0000 2011	4d759fecf5e4b1f7651af986	{Mommys House <3}	{34.424064265081874,-119.72522965906451,,,United States}	{Residence,}
+1404	Mon Mar 21 02:44:23 +0000 2011	4d759fecf5e4b1f7651af986	{Mommys House <3}	{34.424064265081874,-119.72522965906451,,,United States}	{Residence,}
+1404	Sun Mar 20 22:04:04 +0000 2011	4bbe3b9e5ce0d13ac8d4df57	{The Italian Job Cafe}	{34.174081714356134,-119.23074334859848,Oxnard,CA,United States}	{Food,}
+1404	Sun Mar 20 20:46:04 +0000 2011	4c5f32db3986e21e1c90914f	{Edge Fitness}	{34.17340267169567,-119.23091500997543,Oxnard,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+1404	Sun Mar 20 19:39:50 +0000 2011	4c6717ca8e9120a195e7d964	{The cosmetics company store}	{34.21728404627843,-119.05991196461359,Camarillo,CA,United States}	{Shop & Service,}
+1404	Sun Mar 20 19:38:37 +0000 2011	4a889c37f964a520200720e3	{Camarillo Premium Outlets}	{34.21634468843465,-119.06016826629639,Camarillo,CA,United States}	{Shop & Service,}
+1404	Sun Mar 20 15:35:33 +0000 2011	4d17bcfae190721ef5151d21	{Dads}	{34.193324398581225,-119.21464263323712,Oxnard,CA,United States}	{Residence,}
+1404	Sun Mar 20 05:29:39 +0000 2011	4d17bcfae190721ef5151d21	{Dads}	{34.193324398581225,-119.21464263323712,Oxnard,CA,United States}	{Residence,}
+1404	Sun Mar 20 02:39:53 +0000 2011	4a6e2744f964a5200ad41fe3	{In-N-Out Burger}	{33.70031905219245,-117.98862040042877,Huntington Beach,CA,United States}	{Food,}
+1404	Sat Mar 19 22:53:36 +0000 2011	4b3145c1f964a520af0325e3	{Ooh La La Salon}	{33.70037638448846,-117.95244760382268,Fountain Valley,CA,United States}	{Shop & Service,}
+1404	Sat Mar 19 20:57:16 +0000 2011	4b3145c1f964a520af0325e3	{Ooh La La Salon}	{33.70037638448846,-117.95244760382268,Fountain Valley,CA,United States}	{Shop & Service,}
+1404	Sat Mar 19 20:57:16 +0000 2011	4b3145c1f964a520af0325e3	{Ooh La La Salon}	{33.70037638448846,-117.95244760382268,Fountain Valley,CA,United States}	{Shop & Service,}
+1404	Sat Mar 19 14:25:23 +0000 2011	4d759fecf5e4b1f7651af986	{Mommys House <3}	{34.424064265081874,-119.72522965906451,,,United States}	{Residence,}
+1404	Sat Mar 19 01:37:17 +0000 2011	4d759fecf5e4b1f7651af986	{Mommys House <3}	{34.424064265081874,-119.72522965906451,,,United States}	{Residence,}
+1404	Fri Mar 18 17:30:14 +0000 2011	4b940042f964a520406034e3	{Ojai Rancho Inn}	{34.44449140813554,-119.25285166247347,Ojai,CA,United States}	{}
+1404	Fri Mar 18 12:32:28 +0000 2011	4d17bcfae190721ef5151d21	{Dads}	{34.193324398581225,-119.21464263323712,Oxnard,CA,United States}	{Residence,}
+1404	Thu Mar 17 22:53:24 +0000 2011	4b5b4cd1f964a520c9f228e3	{Trader Joe's}	{34.25723417846279,-119.21178817749023,Ventura,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1404	Thu Mar 17 22:39:25 +0000 2011	4b5b4cd1f964a520c9f228e3	{Trader Joe's}	{34.25723417846279,-119.21178817749023,Ventura,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1404	Thu Mar 17 15:10:48 +0000 2011	4b940042f964a520406034e3	{Ojai Rancho Inn}	{34.44449140813554,-119.25285166247347,Ojai,CA,United States}	{}
+1404	Thu Mar 17 13:56:13 +0000 2011	4c253696db519521c2242c3a	{McGrath State Beach}	{34.22697254371116,-119.25800800323486,Oxnard,CA,United States}	{Outdoors & Recreation,}
+1404	Thu Mar 17 13:51:51 +0000 2011	4b881b0ff964a5202fe031e3	{Mobil}	{34.19810765194608,-119.22043561935425,OXNARD,CA,United States}	{Shop & Service,}
+1404	Thu Mar 17 12:54:25 +0000 2011	4d17bcfae190721ef5151d21	{Dads}	{34.193324398581225,-119.21464263323712,Oxnard,CA,United States}	{Residence,}
+1404	Thu Mar 17 02:19:17 +0000 2011	4d17bcfae190721ef5151d21	{Dads}	{34.193324398581225,-119.21464263323712,Oxnard,CA,United States}	{Residence,}
+1404	Thu Mar 17 02:02:21 +0000 2011	4cb8e56cf50e224b9b28eafb	{ARCO}	{34.19055902854368,-119.19450402259827,Oxnard,CA,United States}	{Shop & Service,Food,}
+1404	Thu Mar 17 00:09:27 +0000 2011	4b881b0ff964a5202fe031e3	{Mobil}	{34.19810765194608,-119.22043561935425,OXNARD,CA,United States}	{Shop & Service,}
+1404	Thu Mar 17 00:08:36 +0000 2011	4b881b0ff964a5202fe031e3	{Mobil}	{34.19810765194608,-119.22043561935425,OXNARD,CA,United States}	{Shop & Service,}
+1404	Wed Mar 16 23:46:37 +0000 2011	4b0da287f964a520cb4c23e3	{In-N-Out Burger}	{34.268442057215026,-119.2729103565216,Ventura,CA,United States}	{Food,}
+1404	Wed Mar 16 23:46:19 +0000 2011	4b0da287f964a520cb4c23e3	{In-N-Out Burger}	{34.268442057215026,-119.2729103565216,Ventura,CA,United States}	{Food,}
+1404	Wed Mar 16 15:36:59 +0000 2011	4b940042f964a520406034e3	{Ojai Rancho Inn}	{34.44449140813554,-119.25285166247347,Ojai,CA,United States}	{}
+1404	Wed Mar 16 05:58:57 +0000 2011	4d759fecf5e4b1f7651af986	{Mommys House <3}	{34.424064265081874,-119.72522965906451,,,United States}	{Residence,}
+1404	Wed Mar 16 02:56:15 +0000 2011	4cdc84b0930af04ddbe49097	{Inkfatuation}	{34.154531,-119.19283875,Port Hueneme,CA,United States}	{Arts & Entertainment,}
+1404	Wed Mar 16 02:54:12 +0000 2011	4cdc84b0930af04ddbe49097	{Inkfatuation}	{34.154531,-119.19283875,Port Hueneme,CA,United States}	{Arts & Entertainment,}
+1404	Tue Mar 15 15:45:48 +0000 2011	4b940042f964a520406034e3	{Ojai Rancho Inn}	{34.44449140813554,-119.25285166247347,Ojai,CA,United States}	{}
+1404	Tue Mar 15 12:27:23 +0000 2011	4d759fecf5e4b1f7651af986	{Mommys House <3}	{34.424064265081874,-119.72522965906451,,,United States}	{Residence,}
+1404	Tue Mar 15 02:19:43 +0000 2011	4d759fecf5e4b1f7651af986	{Mommys House <3}	{34.424064265081874,-119.72522965906451,,,United States}	{Residence,}
+1404	Mon Mar 14 15:29:38 +0000 2011	4b940042f964a520406034e3	{Ojai Rancho Inn}	{34.44449140813554,-119.25285166247347,Ojai,CA,United States}	{}
+1404	Mon Mar 14 12:34:37 +0000 2011	4d759fecf5e4b1f7651af986	{Mommys House <3}	{34.424064265081874,-119.72522965906451,,,United States}	{Residence,}
+1404	Mon Mar 14 05:20:11 +0000 2011	4d759fecf5e4b1f7651af986	{Mommys House <3}	{34.424064265081874,-119.72522965906451,,,United States}	{Residence,}
+1404	Mon Mar 14 02:29:02 +0000 2011	4b76f14ff964a520e06c2ee3	{Copper Cafe}	{35.267227756921635,-120.67455446394727,San Luis Obispo,CA,United States}	{Food,}
+1404	Mon Mar 14 02:28:52 +0000 2011	49fa4a33f964a520e86d1fe3	{Madonna Inn}	{35.266925688950074,-120.67442893981934,San Luis Obispo,CA,United States}	{Travel & Transport,Hotel,}
+1404	Mon Mar 14 01:25:09 +0000 2011	4bc7b7e10050b713a351b93b	{Valero}	{36.18768040791402,-121.07463598251343,King City,CA,United States}	{Shop & Service,}
+1404	Mon Mar 14 00:54:23 +0000 2011	4b76caddf964a520795f2ee3	{Beacon Gas Station}	{36.513771,-121.43669053,Gonzales,CA,United States}	{Shop & Service,}
+1404	Sun Mar 13 22:28:22 +0000 2011	43cc0a22f964a520c82d1fe3	{Japanese Tea Garden}	{37.770061713741356,-122.46992111206055,San Francisco,CA,United States}	{Outdoors & Recreation,}
+1404	Sun Mar 13 22:09:25 +0000 2011	4a7f2f7df964a5202df31fe3	{Golden Gate Park Skate and Bike}	{37.77361511641518,-122.46442794799805,San Francisco,CA,United States}	{Shop & Service,}
+1404	Sun Mar 13 19:39:28 +0000 2011	4ba7f1b9f964a520b8c039e3	{Boudin Bakery & Cafe}	{37.808428,-122.414738,San Francisco,CA,United States}	{Food,}
+1404	Sun Mar 13 18:54:33 +0000 2011	4a5e5a75f964a5206dbe1fe3	{Rincon Market}	{37.791477070020576,-122.39251255989075,San Francisco,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1404	Sun Mar 13 18:24:15 +0000 2011	4c47aed719fde21e5f3c0976	{Golden Gate Bridge Toll Plaza}	{37.80719862997888,-122.47566103935242,San Francisco,CA,United States}	{Travel & Transport,}
+1404	Sun Mar 13 18:22:13 +0000 2011	49d01698f964a520fd5a1fe3	{Golden Gate Bridge}	{37.81700118722001,-122.47821718454361,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1404	Sun Mar 13 18:21:43 +0000 2011	4bcafba50687ef3b9ad7dccc	{Vista Point}	{37.83263257682617,-122.4799633026123,Sausalito,CA,United States}	{Outdoors & Recreation,}
+1404	Sun Mar 13 18:21:03 +0000 2011	4b89622bf964a520e03032e3	{Waldo / Rainbow Tunnel}	{37.841529422174844,-122.48599290847778,Sausalito,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1404	Sun Mar 13 14:58:53 +0000 2011	4bc3db2ddce4eee1d9c7719d	{Farallone Inn}	{37.5418014526367,-122.515602111816,Montara,CA,United States}	{Travel & Transport,}
+1404	Sun Mar 13 14:58:53 +0000 2011	4bc3db2ddce4eee1d9c7719d	{Farallone Inn}	{37.5418014526367,-122.515602111816,Montara,CA,United States}	{Travel & Transport,}
+1404	Sun Mar 13 04:56:56 +0000 2011	4bc3db2ddce4eee1d9c7719d	{Farallone Inn}	{37.5418014526367,-122.515602111816,Montara,CA,United States}	{Travel & Transport,}
+1404	Sun Mar 13 00:50:23 +0000 2011	4d332dd88250f04d8778fae0	{Carmel Beach City Park}	{36.5507759628052,-121.92989587783812,Carmel,CA,United States}	{Outdoors & Recreation,Beach,}
+1404	Sun Mar 13 00:11:48 +0000 2011	4bc2609474a9a5935d46d3f6	{Point Lobos State Reserve}	{36.518717,-121.939078,Carmel,CA,United States}	{Outdoors & Recreation,}
+1404	Sat Mar 12 23:47:48 +0000 2011	4c23e083b012b713e45e0893	{Pfeiffer Big Sur State Park}	{36.25046837712448,-121.78594708442688,Big Sur,CA,United States}	{Outdoors & Recreation,}
+1404	Sat Mar 12 23:02:33 +0000 2011	4b3a3df8f964a520d66225e3	{Big Sur Bakery}	{36.23593,-121.76906791666667,Big Sur,CA,United States}	{Food,}
+1404	Sat Mar 12 22:54:27 +0000 2011	4b94274af964a520866b34e3	{Nepenthe}	{36.22175307319275,-121.75973653793335,Big Sur,CA,United States}	{Food,}
+1404	Sat Mar 12 20:37:34 +0000 2011	4ced63b0d7268cfa770dc34e	{Ragged Point Trail}	{35.781209,-121.330029,San Simeon,CA,United States}	{Outdoors & Recreation,}
+1404	Sat Mar 12 19:18:02 +0000 2011	4c4271b2cc410f47d2e5ac61	{Morrow Strand State Beach}	{35.43460469940962,-120.88736786177924,Cayucos,CA,United States}	{Outdoors & Recreation,}
+1404	Sat Mar 12 14:36:12 +0000 2011	4d759fecf5e4b1f7651af986	{Mommys House <3}	{34.424064265081874,-119.72522965906451,,,United States}	{Residence,}
+1404	Sat Mar 12 01:16:25 +0000 2011	4d759fecf5e4b1f7651af986	{Mommys House <3}	{34.424064265081874,-119.72522965906451,,,United States}	{Residence,}
+1404	Sat Mar 12 00:09:30 +0000 2011	4b33ed3df964a5202a2225e3	{Santa Barbara Zoo}	{34.42031017247922,-119.66606855392456,Santa Barbara,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+1404	Fri Mar 11 21:51:09 +0000 2011	4b940042f964a520406034e3	{Ojai Rancho Inn}	{34.44449140813554,-119.25285166247347,Ojai,CA,United States}	{}
+1404	Fri Mar 11 15:53:44 +0000 2011	4b940042f964a520406034e3	{Ojai Rancho Inn}	{34.44449140813554,-119.25285166247347,Ojai,CA,United States}	{}
+1404	Fri Mar 11 14:31:07 +0000 2011	4c579c6512f0d13aaaaa07ad	{Castillo Castle}	{34.427147893929494,-119.71364559816072,Santa Barbara,CA,United States}	{Residence,}
+1404	Fri Mar 11 02:19:16 +0000 2011	4d759fecf5e4b1f7651af986	{Mommys House <3}	{34.424064265081874,-119.72522965906451,,,United States}	{Residence,}
+1404	Fri Mar 11 00:34:34 +0000 2011	4d759fecf5e4b1f7651af986	{Mommys House <3}	{34.424064265081874,-119.72522965906451,,,United States}	{Residence,}
+1404	Thu Mar 10 16:04:50 +0000 2011	4b940042f964a520406034e3	{Ojai Rancho Inn}	{34.44449140813554,-119.25285166247347,Ojai,CA,United States}	{}
+1404	Thu Mar 10 13:59:56 +0000 2011	4d759fecf5e4b1f7651af986	{Mommys House <3}	{34.424064265081874,-119.72522965906451,,,United States}	{Residence,}
+1404	Thu Mar 10 02:49:50 +0000 2011	4d759fecf5e4b1f7651af986	{Mommys House <3}	{34.424064265081874,-119.72522965906451,,,United States}	{Residence,}
+1404	Wed Mar 09 23:47:39 +0000 2011	4b60cd3ff964a5206efa29e3	{Santa Barbara DMV Office}	{34.41309034824371,-119.70143,Santa Barbara,CA,United States}	{Professional & Other Places,}
+1404	Wed Mar 09 23:46:49 +0000 2011	4b82aff5f964a5207fde30e3	{Ojai True Value Hardware}	{34.440784,-119.261846,Meiners Oaks-Ojai,CA,United States}	{Shop & Service,}
+1404	Wed Mar 09 22:54:43 +0000 2011	4b82aff5f964a5207fde30e3	{Ojai True Value Hardware}	{34.440784,-119.261846,Meiners Oaks-Ojai,CA,United States}	{Shop & Service,}
+1404	Wed Mar 09 15:53:49 +0000 2011	4b940042f964a520406034e3	{Ojai Rancho Inn}	{34.44449140813554,-119.25285166247347,Ojai,CA,United States}	{}
+1404	Wed Mar 09 13:42:43 +0000 2011	4d759fecf5e4b1f7651af986	{Mommys House <3}	{34.424064265081874,-119.72522965906451,,,United States}	{Residence,}
+1404	Wed Mar 09 13:42:43 +0000 2011	4d759fecf5e4b1f7651af986	{Mommys House <3}	{34.424064265081874,-119.72522965906451,,,United States}	{Residence,}
+1404	Wed Mar 09 03:29:22 +0000 2011	4b368cb0f964a520c43725e3	{The Arlington Theatre}	{34.42434583844065,-119.70683813095093,Santa Barbara,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+1404	Tue Mar 08 20:50:05 +0000 2011	4b940042f964a520406034e3	{Ojai Rancho Inn}	{34.44449140813554,-119.25285166247347,Ojai,CA,United States}	{}
+1404	Tue Mar 08 03:18:08 +0000 2011	4d759fecf5e4b1f7651af986	{Mommys House <3}	{34.424064265081874,-119.72522965906451,,,United States}	{Residence,}
+1404	Mon Mar 07 23:32:52 +0000 2011	4b0da287f964a520cb4c23e3	{In-N-Out Burger}	{34.268442057215026,-119.2729103565216,Ventura,CA,United States}	{Food,}
+1404	Mon Mar 07 17:20:28 +0000 2011	4b940042f964a520406034e3	{Ojai Rancho Inn}	{34.44449140813554,-119.25285166247347,Ojai,CA,United States}	{}
+1404	Sun Mar 06 21:27:35 +0000 2011	4d17bcfae190721ef5151d21	{Dads}	{34.193324398581225,-119.21464263323712,Oxnard,CA,United States}	{Residence,}
+1404	Sun Mar 06 15:16:44 +0000 2011	4c03d1b3310fc9b6a25bc661	{Spudnuts}	{34.19675327565559,-119.2207145690918,Oxnard,CA,United States}	{Food,}
+1404	Sun Mar 06 05:17:59 +0000 2011	4d17bcfae190721ef5151d21	{Dads}	{34.193324398581225,-119.21464263323712,Oxnard,CA,United States}	{Residence,}
+1404	Sun Mar 06 03:15:25 +0000 2011	4c1b06ccb4e62d7f3ed4d893	{Speedy Food Mart}	{34.19073652046594,-119.20843005180359,Oxnard,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1404	Sun Mar 06 00:37:53 +0000 2011	4d17bcfae190721ef5151d21	{Dads}	{34.193324398581225,-119.21464263323712,Oxnard,CA,United States}	{Residence,}
+1404	Sat Mar 05 17:34:38 +0000 2011	4a8727faf964a520ec0220e3	{Crowne Plaza}	{34.27626398526973,-119.2934591060991,Ventura,CA,United States}	{Travel & Transport,}
+1404	Sat Mar 05 04:17:24 +0000 2011	4a8727faf964a520ec0220e3	{Crowne Plaza}	{34.27626398526973,-119.2934591060991,Ventura,CA,United States}	{Travel & Transport,}
+1404	Fri Mar 04 17:22:30 +0000 2011	4d17bcfae190721ef5151d21	{Dads}	{34.193324398581225,-119.21464263323712,Oxnard,CA,United States}	{Residence,}
+1404	Fri Mar 04 02:39:44 +0000 2011	455d9055f964a520763d1fe3	{Bubba Gump Shrimp Co.}	{34.009691021040815,-118.49732460655545,Santa Monica,CA,United States}	{Food,}
+1404	Wed Mar 02 20:05:24 +0000 2011	4d17bcfae190721ef5151d21	{Dads}	{34.193324398581225,-119.21464263323712,Oxnard,CA,United States}	{Residence,}
+1404	Tue Mar 01 23:15:34 +0000 2011	4b6da43ef964a52094822ce3	{Rite Aid}	{34.425574,-119.288685,Ojai,CA,United States}	{Shop & Service,}
+1404	Tue Mar 01 17:06:45 +0000 2011	4b940042f964a520406034e3	{Ojai Rancho Inn}	{34.44449140813554,-119.25285166247347,Ojai,CA,United States}	{}
+1404	Tue Mar 01 04:42:52 +0000 2011	4b69ea76f964a520edbb2be3	{Kampai}	{34.227467,-119.178987,Oxnard,CA,United States}	{Food,}
+1404	Tue Mar 01 04:01:25 +0000 2011	4d17bcfae190721ef5151d21	{Dads}	{34.193324398581225,-119.21464263323712,Oxnard,CA,United States}	{Residence,}
+1404	Mon Feb 28 04:38:38 +0000 2011	4aac1624f964a520295c20e3	{In-N-Out Burger}	{34.235011297141796,-119.1796338558197,Oxnard,CA,United States}	{Food,}
+1404	Sun Feb 27 17:14:03 +0000 2011	4a7de282f964a5200ef01fe3	{Allison's Country Cafe}	{34.27310585975647,-119.24923483,Ventura,CA,United States}	{Food,}
+1404	Fri Feb 25 14:19:36 +0000 2011	4d335d79c75a6ea8077316ae	{<3 HOME <3}	{34.24408265,-119.1794442,Oxnard,CA,United States}	{}
+1404	Thu Feb 24 19:52:10 +0000 2011	4b940042f964a520406034e3	{Ojai Rancho Inn}	{34.44449140813554,-119.25285166247347,Ojai,CA,United States}	{}
+1404	Thu Feb 24 13:14:53 +0000 2011	4d335d79c75a6ea8077316ae	{<3 HOME <3}	{34.24408265,-119.1794442,Oxnard,CA,United States}	{}
+1404	Wed Feb 23 03:01:48 +0000 2011	4d335d79c75a6ea8077316ae	{<3 HOME <3}	{34.24408265,-119.1794442,Oxnard,CA,United States}	{}
+1404	Tue Feb 22 18:35:55 +0000 2011	4d335d79c75a6ea8077316ae	{<3 HOME <3}	{34.24408265,-119.1794442,Oxnard,CA,United States}	{}
+1404	Tue Feb 22 06:31:55 +0000 2011	4d335d79c75a6ea8077316ae	{<3 HOME <3}	{34.24408265,-119.1794442,Oxnard,CA,United States}	{}
+1404	Mon Feb 21 03:03:51 +0000 2011	4d335d79c75a6ea8077316ae	{<3 HOME <3}	{34.24408265,-119.1794442,Oxnard,CA,United States}	{}
+1404	Sun Feb 20 01:05:31 +0000 2011	4d335d79c75a6ea8077316ae	{<3 HOME <3}	{34.24408265,-119.1794442,Oxnard,CA,United States}	{}
+1404	Sun Feb 20 01:05:31 +0000 2011	4d335d79c75a6ea8077316ae	{<3 HOME <3}	{34.24408265,-119.1794442,Oxnard,CA,United States}	{}
+1404	Sat Feb 19 22:44:58 +0000 2011	4b6736c6f964a520ca412be3	{Roxbury Deli & Grill}	{34.17633183627724,-119.20971751213074,Port Hueneme,CA,United States}	{Food,}
+1404	Sat Feb 19 21:06:53 +0000 2011	4ba57a75f964a5202e0b39e3	{Vista Ford Lincoln of Oxnard}	{34.22885477542877,-119.15643274784088,Oxnard,CA,United States}	{Shop & Service,}
+1404	Sat Feb 19 07:48:50 +0000 2011	4d17bcfae190721ef5151d21	{Dads}	{34.193324398581225,-119.21464263323712,Oxnard,CA,United States}	{Residence,}
+1404	Sat Feb 19 07:48:50 +0000 2011	4d17bcfae190721ef5151d21	{Dads}	{34.193324398581225,-119.21464263323712,Oxnard,CA,United States}	{Residence,}
+1404	Sat Feb 19 02:07:37 +0000 2011	4d335d79c75a6ea8077316ae	{<3 HOME <3}	{34.24408265,-119.1794442,Oxnard,CA,United States}	{}
+1404	Fri Feb 18 15:25:08 +0000 2011	4b940042f964a520406034e3	{Ojai Rancho Inn}	{34.44449140813554,-119.25285166247347,Ojai,CA,United States}	{}
+1404	Fri Feb 18 04:59:31 +0000 2011	4d335d79c75a6ea8077316ae	{<3 HOME <3}	{34.24408265,-119.1794442,Oxnard,CA,United States}	{}
+1404	Fri Feb 18 03:03:03 +0000 2011	4c0ed1f22466a5933eb57921	{Chinaland}	{34.197131,-119.196194,Oxnard,CA,United States}	{Food,}
+1404	Thu Feb 17 17:42:02 +0000 2011	4b940042f964a520406034e3	{Ojai Rancho Inn}	{34.44449140813554,-119.25285166247347,Ojai,CA,United States}	{}
+1404	Tue Feb 15 19:27:14 +0000 2011	4bbcb4b4f57ba593fe19adb9	{Ventura County Medical Center}	{34.27743513830506,-119.25277789287033,Ventura,CA,United States}	{Medical Center,Professional & Other Places,}
+1404	Mon Feb 14 22:06:56 +0000 2011	4bbcb4b4f57ba593fe19adb9	{Ventura County Medical Center}	{34.27743513830506,-119.25277789287033,Ventura,CA,United States}	{Medical Center,Professional & Other Places,}
+1404	Thu Feb 03 04:04:32 +0000 2011	4d335d79c75a6ea8077316ae	{<3 HOME <3}	{34.24408265,-119.1794442,Oxnard,CA,United States}	{}
+1404	Thu Feb 03 02:54:31 +0000 2011	4bf3212398ac0f47878d62a8	{Carl's Jr.}	{34.22670198473089,-119.17804598808289,Oxnard,CA,United States}	{Food,}
+1404	Mon Jan 31 02:21:32 +0000 2011	4d335d79c75a6ea8077316ae	{<3 HOME <3}	{34.24408265,-119.1794442,Oxnard,CA,United States}	{}
+1404	Sun Jan 30 04:44:26 +0000 2011	4c6df5e0c5243704e4e829eb	{No Sex Zone}	{34.19072554483967,-119.19976783956922,Oxnard,CA,United States}	{}
+1404	Sat Jan 22 20:03:25 +0000 2011	4b3145c1f964a520af0325e3	{Ooh La La Salon}	{33.70037638448846,-117.95244760382268,Fountain Valley,CA,United States}	{Shop & Service,}
+1404	Sun Jan 09 08:31:36 +0000 2011	4c04685d187ec928ec13b77b	{Serenade At Riverpark}	{34.24306113716304,-119.17976500306308,Oxnard,CA,United States}	{Residence,}
+1404	Fri Dec 31 05:38:14 +0000 2010	4b771624f964a520f37b2ee3	{Du-Par's Restaurant & Bakery}	{34.229315,-119.17473614215851,Oxnard,CA,United States}	{Food,}
+1404	Mon Dec 27 00:59:26 +0000 2010	4c04685d187ec928ec13b77b	{Serenade At Riverpark}	{34.24306113716304,-119.17976500306308,Oxnard,CA,United States}	{Residence,}
+1404	Sun Dec 26 22:08:59 +0000 2010	4d17bcfae190721ef5151d21	{Dads}	{34.193324398581225,-119.21464263323712,Oxnard,CA,United States}	{Residence,}
+1404	Sun Dec 26 19:48:21 +0000 2010	4c79758997028cfa4737dbfe	{Red Persimmon Nail & Spa}	{34.18874858960041,-119.22258138656616,Oxnard,CA,United States}	{Shop & Service,}
+1404	Sun Dec 05 07:46:12 +0000 2010	4ce3187ace766dcb23a121e3	{Serenade Apartments}	{34.2447051244362,-119.18046615507664,Oxnard,CA,United States}	{Residence,}
+1404	Sun Dec 05 07:45:33 +0000 2010	4ce3187ace766dcb23a121e3	{Serenade Apartments}	{34.2447051244362,-119.18046615507664,Oxnard,CA,United States}	{Residence,}
+1404	Sun Dec 05 07:38:42 +0000 2010	4c643eb1d6a320a1bc94cf2a	{Pool At Serenade Apartments}	{34.245184307006355,-119.18011983748697,Oxnard,CA,United States}	{Outdoors & Recreation,}
+1404	Sun Dec 05 07:37:44 +0000 2010	4aac1624f964a520295c20e3	{In-N-Out Burger}	{34.235011297141796,-119.1796338558197,Oxnard,CA,United States}	{Food,}
+1404	Sun Dec 05 07:35:36 +0000 2010	4c04685d187ec928ec13b77b	{Serenade At Riverpark}	{34.24306113716304,-119.17976500306308,Oxnard,CA,United States}	{Residence,}
+1404	Sun Dec 05 07:34:55 +0000 2010	4c04685d187ec928ec13b77b	{Serenade At Riverpark}	{34.24306113716304,-119.17976500306308,Oxnard,CA,United States}	{Residence,}
+1404	Sun Dec 05 07:32:59 +0000 2010	4c04685d187ec928ec13b77b	{Serenade At Riverpark}	{34.24306113716304,-119.17976500306308,Oxnard,CA,United States}	{Residence,}
+1404	Sun Dec 05 07:32:10 +0000 2010	4c04685d187ec928ec13b77b	{Serenade At Riverpark}	{34.24306113716304,-119.17976500306308,Oxnard,CA,United States}	{Residence,}
+1404	Sun Dec 05 06:27:45 +0000 2010	4c04685d187ec928ec13b77b	{Serenade At Riverpark}	{34.24306113716304,-119.17976500306308,Oxnard,CA,United States}	{Residence,}
+1404	Sun Dec 05 01:10:48 +0000 2010	4c85274fd92ea09370236372	{US Naval Base Ventura County}	{34.16838735082927,-119.19882774353027,Port Hueneme,CA,United States}	{Professional & Other Places,}
+1404	Sat Dec 04 20:23:03 +0000 2010	4b65cf9ef964a5202d012be3	{Steak & Hoagie}	{34.1546,-119.19556321666667,Port Hueneme,CA,United States}	{Food,Arts & Entertainment,}
+1404	Sat Nov 27 20:04:12 +0000 2010	4c04685d187ec928ec13b77b	{Serenade At Riverpark}	{34.24306113716304,-119.17976500306308,Oxnard,CA,United States}	{Residence,}
+1404	Sat Nov 20 13:47:30 +0000 2010	4c04685d187ec928ec13b77b	{Serenade At Riverpark}	{34.24306113716304,-119.17976500306308,Oxnard,CA,United States}	{Residence,}
+1404	Sat Nov 20 13:45:57 +0000 2010	4b940042f964a520406034e3	{Ojai Rancho Inn}	{34.44449140813554,-119.25285166247347,Ojai,CA,United States}	{}
+1404	Sat Nov 20 13:45:57 +0000 2010	4b940042f964a520406034e3	{Ojai Rancho Inn}	{34.44449140813554,-119.25285166247347,Ojai,CA,United States}	{}
+1404	Thu Nov 18 16:31:54 +0000 2010	4b940042f964a520406034e3	{Ojai Rancho Inn}	{34.44449140813554,-119.25285166247347,Ojai,CA,United States}	{}

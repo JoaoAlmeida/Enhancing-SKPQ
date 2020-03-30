@@ -1,0 +1,513 @@
+1238	Thu Aug 11 23:38:24 +0000 2011	4b15503df964a52030b023e3	{Qualcomm Stadium}	{32.78305325779114,-117.11960077285767,San Diego,CA,United States}	{Stadium,Arts & Entertainment,Professional & Other Places,}
+1238	Thu Aug 11 21:48:50 +0000 2011	4e444db51838e44e898b2fad	{Parking Lot Section M3}	{32.781780298373675,-117.11661279201508,San Diego,CA,United States}	{Professional & Other Places,}
+1238	Tue Aug 09 00:06:28 +0000 2011	4a95bc5df964a520602420e3	{San Diego Chargers}	{32.81901782332612,-117.11756765842438,San Diego,CA,United States}	{Professional & Other Places,}
+1238	Sun Aug 07 19:47:56 +0000 2011	41326e00f964a5209a141fe3	{Michael's Pub}	{36.11615628,-115.24217784404755,Las Vegas,NV,United States}	{Nightlife Spot,}
+1238	Sun Aug 07 06:04:35 +0000 2011	49de89e2f964a52072601fe3	{Tryst Night Club}	{36.12682197042906,-115.16714299254171,Las Vegas,NV,United States}	{Nightlife Spot,}
+1238	Sun Aug 07 05:30:04 +0000 2011	45aa45b2f964a52030411fe3	{Wynn Las Vegas}	{36.12635860619657,-115.16668438911438,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Professional & Other Places,}
+1238	Sat Aug 06 19:27:12 +0000 2011	4b464329f964a520e01b26e3	{Planet Hollywood Westgate Towers}	{36.10867644304474,-115.16923358298997,Las Vegas,NV,United States}	{Nightlife Spot,Travel & Transport,Arts & Entertainment,}
+1238	Sat Aug 06 11:25:09 +0000 2011	49de8976f964a5206e601fe3	{The Rockhouse}	{36.12312616567233,-115.1702570915222,Las Vegas,NV,United States}	{Nightlife Spot,Food,}
+1238	Sat Aug 06 09:30:40 +0000 2011	458cfe16f964a520fd3f1fe3	{Flamingo Las Vegas Hotel & Casino}	{36.11579418529965,-115.17229557037354,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+1238	Sat Aug 06 07:51:11 +0000 2011	49dea2b9f964a52092601fe3	{Palms Place Hotel Suites}	{36.11456577294214,-115.19843681163962,Las Vegas,NV,United States}	{Travel & Transport,}
+1238	Sat Aug 06 05:55:43 +0000 2011	4b99ed35f964a520479735e3	{Zzyzx Rd}	{35.19569489118943,-116.14153861999512,Zzyzx,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1238	Sat Aug 06 04:59:21 +0000 2011	4ac66b06f964a52046b420e3	{Original Tommy's Hamburgers}	{34.85411039,-117.083204,Barstow,CA,United States}	{Food,}
+1238	Sat Aug 06 04:48:29 +0000 2011	4dbf2ba26e810768bf9e40a4	{Flying J}	{34.854340186836815,-117.08151992260494,Barstow,CA,United States}	{Shop & Service,Food,}
+1238	Sat Aug 06 02:47:49 +0000 2011	4c124bdfb7b9c928b47aa737	{Starbucks}	{34.075592037487425,-117.54581540819878,Ontario,CA,United States}	{Food,}
+1238	Fri Aug 05 22:16:05 +0000 2011	4b942811f964a520b86b34e3	{American Recycling}	{32.794318199157715,-116.96895182132721,El Cajon,CA,United States}	{Shop & Service,}
+1238	Thu Aug 04 01:44:59 +0000 2011	4bec6424fd60a59394ee3af1	{San Diego County Credit Union}	{32.79531805054569,-116.96519256023626,El Cajon,CA,United States}	{Shop & Service,}
+1238	Wed Aug 03 14:40:14 +0000 2011	4a80306df964a520bbf41fe3	{Hall Of Justice - San Diego Superior Court}	{32.71587427433335,-117.16580354269871,San Diego,CA,United States}	{Government Building,Professional & Other Places,}
+1238	Wed Aug 03 02:35:42 +0000 2011	4c941b1782b56dcba045ccaa	{New China Restaurant}	{32.751291594285426,-117.0000015327293,Spring Valley,CA,United States}	{Food,}
+1238	Sat Jul 30 19:17:28 +0000 2011	4b40e425f964a520e4bc25e3	{Costco Gas}	{32.841952511416224,-116.98718547821045,Santee,CA,United States}	{Shop & Service,}
+1238	Thu Jul 28 00:54:52 +0000 2011	4c2be2b6b34ad13ab28deace	{Cajon Classic Cruise}	{32.794886736749035,-116.9610071182251,El Cajon,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+1238	Sat Jul 23 03:39:44 +0000 2011	4c5edd5417f3b713210224e6	{Casa Nuanez (Susie & Johnny)}	{32.78936475285238,-117.13235791374208,San Diego,CA,United States}	{Residence,}
+1238	Wed Jul 20 00:34:56 +0000 2011	4d98e8fb744f37043a3dfb57	{The Salvation Army Kroc Center Gym}	{32.75488946475145,-117.05216684929131,San Diego,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+1238	Tue Jul 19 14:46:49 +0000 2011	4b912d4ff964a5204aa833e3	{Toyota of El Cajon}	{32.80306281194791,-116.97460390761101,El Cajon,CA,United States}	{Shop & Service,}
+1238	Tue Jul 19 04:15:40 +0000 2011	4b6a7fd2f964a520f3d62be3	{Casa Moscoso}	{32.78859370840114,-116.95580666819636,El Cajon,CA,United States}	{Residence,}
+1238	Tue Jul 19 01:41:24 +0000 2011	4bc3b12e4cdfc9b658c29721	{Pollo Campero}	{34.06545921965998,-117.26833782032006,San Bernardino,CA,United States}	{Food,}
+1238	Mon Jul 18 23:00:03 +0000 2011	4c38d3af93db0f479b552292	{Sundowners}	{34.080803696333405,-117.2932744366753,San Bernardino,CA,United States}	{Food,}
+1238	Mon Jul 18 04:41:10 +0000 2011	4b951a31f964a520388f34e3	{AMPM}	{32.80219409250781,-116.95092814032506,El Cajon,CA,United States}	{Shop & Service,}
+1238	Sat Jul 16 18:52:24 +0000 2011	4e1751b0183880768f353c38	{OMBAC OTL Tournament}	{32.777772,-117.22111544210807,San Diego,CA,United States}	{Nightlife Spot,Outdoors & Recreation,}
+1238	Sat Jul 16 04:17:59 +0000 2011	4b76f644f964a520ef6e2ee3	{VONS}	{32.77879570652128,-116.95651173591612,El Cajon,CA,United States}	{Shop & Service,Food & Drink Shop,Professional & Other Places,}
+1238	Thu Jul 14 00:37:09 +0000 2011	4b8ef133f964a520104033e3	{St. John of the Cross}	{32.74421015,-117.023288,Lemon Grove,CA,United States}	{Spiritual Center,Professional & Other Places,}
+1238	Tue Jul 12 06:13:25 +0000 2011	4b76f644f964a520ef6e2ee3	{VONS}	{32.77879570652128,-116.95651173591612,El Cajon,CA,United States}	{Shop & Service,Food & Drink Shop,Professional & Other Places,}
+1238	Tue Jul 12 03:29:12 +0000 2011	4c4a64329e6dbe9a7b16790a	{The Little Roma Restaurant}	{32.78043417633312,-117.03227589869057,La Mesa,CA,United States}	{Food,}
+1238	Sun Jul 10 02:13:15 +0000 2011	4bc00884b492d13adbd2a360	{Guerrero House (Of Movies)}	{32.64168615930842,-117.00290154246726,Chula Vista,CA,United States}	{Shop & Service,Gym / Fitness Center,Residence,}
+1238	Thu Jul 07 23:34:14 +0000 2011	4c45d434f97fbe9a2f16bd30	{Briercrest Park}	{32.781924559851355,-117.0031515909918,La Mesa,CA,United States}	{Outdoors & Recreation,}
+1238	Thu Jul 07 01:01:00 +0000 2011	4b4937f9f964a5206f6a26e3	{Shakey's Pizza Parlor}	{32.777584,-117.0104709,La Mesa,CA,United States}	{Food,}
+1238	Mon Jul 04 16:07:15 +0000 2011	4c2eb46f7cc0c9b678a0ea9a	{Edwards Stadium 15}	{33.52517868683122,-117.15262124526333,Temecula,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1238	Fri Jul 01 01:44:10 +0000 2011	4b45e396f964a520c61126e3	{AMPM}	{32.780633,-116.9575072,El Cajon,CA,United States}	{Shop & Service,}
+1238	Tue Jun 28 00:38:28 +0000 2011	4b6cf4fbf964a52024602ce3	{Domino's Pizza Team Washington/El Cajon South}	{32.78800511089858,-116.94425135850906,El Cajon,CA,United States}	{Food,}
+1238	Sun Jun 26 22:45:09 +0000 2011	466bbf32f964a520a5471fe3	{San Diego County Fair}	{32.97403156757355,-117.260442,Del Mar,CA,United States}	{Arts & Entertainment,}
+1238	Sat Jun 25 20:28:06 +0000 2011	4ab55e86f964a5203d7420e3	{Hornblower Cruises & Events}	{32.72353731812075,-117.17326641082764,San Diego,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+1238	Fri Jun 24 14:54:54 +0000 2011	4b512da9f964a520284627e3	{Best Buy}	{32.77828576,-117.0165105,La Mesa,CA,United States}	{Shop & Service,}
+1238	Fri Jun 24 14:54:54 +0000 2011	4b512da9f964a520284627e3	{Best Buy}	{32.77828576,-117.0165105,La Mesa,CA,United States}	{Shop & Service,}
+1238	Thu Jun 23 02:22:35 +0000 2011	4b52411af964a520f67227e3	{Fred's Old Fashioned Burgers}	{32.800047397613525,-116.936517,El Cajon,CA,United States}	{Food,}
+1238	Mon Jun 20 18:32:15 +0000 2011	4c772498a5676dcba4011821	{Costco Food Court}	{32.78186842180852,-117.12910927607399,San Diego,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1238	Sun Jun 19 04:06:47 +0000 2011	4b8f5353f964a5207d5133e3	{Walgreens}	{32.79702501625214,-116.93535750025822,El Cajon,CA,United States}	{Shop & Service,}
+1238	Sat Jun 18 15:49:33 +0000 2011	4b098be7f964a5202f1923e3	{Junior Seau Sports Complex}	{32.788392949318904,-117.00302124023438,La Mesa,CA,United States}	{Outdoors & Recreation,College & University,}
+1238	Thu Jun 16 01:27:42 +0000 2011	4c2be2b6b34ad13ab28deace	{Cajon Classic Cruise}	{32.794886736749035,-116.9610071182251,El Cajon,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+1238	Tue Jun 14 04:15:16 +0000 2011	4b6860ebf964a520dd742be3	{Rite Aid}	{32.77988791465759,-116.956594,El Cajon,CA,United States}	{Shop & Service,}
+1238	Sat Jun 11 23:29:03 +0000 2011	4b6860ebf964a520dd742be3	{Rite Aid}	{32.77988791465759,-116.956594,El Cajon,CA,United States}	{Shop & Service,}
+1238	Sat Jun 11 03:34:14 +0000 2011	4c072d822e80a593c75775f9	{O'Reilly Auto Parts}	{32.79465931,-116.95084691047668,El Cajon,CA,United States}	{Shop & Service,}
+1238	Fri Jun 10 01:06:43 +0000 2011	4c45d434f97fbe9a2f16bd30	{Briercrest Park}	{32.781924559851355,-117.0031515909918,La Mesa,CA,United States}	{Outdoors & Recreation,}
+1238	Wed Jun 08 02:59:47 +0000 2011	4b6248aaf964a5204f402ae3	{Jack in the Box - El Cajon, CA}	{32.780626,-116.95803388333333,El Cajon,CA,United States}	{Food,}
+1238	Thu Jun 02 00:16:03 +0000 2011	4bf71f955317a593a588fd7e	{The Furniture Warehouse}	{32.836879,-117.13826256729224,San Diego,CA,United States}	{Shop & Service,}
+1238	Wed Jun 01 04:23:15 +0000 2011	4b717434f964a5207c472de3	{Denny's}	{32.80374096972975,-116.95077864919456,El Cajon,CA,United States}	{Food,}
+1238	Mon May 30 02:00:23 +0000 2011	4a7f34fdf964a52044f31fe3	{Best Buy}	{32.76935305,-117.1530613,San Diego,CA,United States}	{Shop & Service,}
+1238	Sun May 29 06:17:56 +0000 2011	4b1c2732f964a5202d0324e3	{Reading Cinemas Grossmont Center 10}	{32.7787596247077,-117.01074600219727,La Mesa,CA,United States}	{Performing Arts Venue,Arts & Entertainment,Movie Theater,}
+1238	Sun May 29 04:38:04 +0000 2011	4a7f34fdf964a52044f31fe3	{Best Buy}	{32.76935305,-117.1530613,San Diego,CA,United States}	{Shop & Service,}
+1238	Sun May 29 01:48:11 +0000 2011	4bde0606ffdec928216ce7a1	{Boomers!}	{32.81087279319668,-116.960609,El Cajon,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1238	Fri May 27 23:33:09 +0000 2011	4b858fc6f964a5208d6531e3	{Pioneer Chicken}	{33.965933,-118.152025,Bell Gardens,CA,United States}	{Food,}
+1238	Fri May 27 21:23:14 +0000 2011	40a2ba80f964a5200ef31ee3	{Amoeba Music}	{34.09775400505154,-118.32916083276535,Hollywood,CA,United States}	{Shop & Service,Music Venue,Arts & Entertainment,}
+1238	Fri May 27 19:14:15 +0000 2011	4d46f4252e326ea8ee8dfca6	{LA Plaza de Cultura y Artes}	{34.05681,-118.23978781700134,Los Angeles,CA,United States}	{Arts & Entertainment,}
+1238	Fri May 27 10:00:14 +0000 2011	43027e00f964a52002271fe3	{King Taco Restaurant}	{34.03313875,-118.16882,Los Angeles,CA,United States}	{Food,}
+1238	Fri May 27 05:36:27 +0000 2011	4cd4c8ff76ab721ea67c696a	{Roxanne's}	{33.81906503141283,-118.17809478923817,Long Beach,CA,United States}	{Nightlife Spot,}
+1238	Fri May 27 03:48:33 +0000 2011	49f4e068f964a520646b1fe3	{CASA Restaurant}	{34.05209051767928,-118.25198650360107,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+1238	Fri May 27 03:10:13 +0000 2011	4a6be87ef964a5203ad01fe3	{Omni Los Angeles Hotel at California Plaza}	{34.05244608293711,-118.25032889842987,Los Angeles,CA,United States}	{Travel & Transport,}
+1238	Fri May 27 02:15:22 +0000 2011	4cc73d63f2d437047d30c76c	{Lopez Tonight}	{34.1462986403607,-118.34017753601074,Burbank,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+1238	Thu May 26 22:02:02 +0000 2011	4ca9fbb1ae1eef3ba5783347	{CONAN}	{34.14644958764877,-118.33399772644043,Burbank,CA,United States}	{Arts & Entertainment,}
+1238	Thu May 26 21:54:38 +0000 2011	4b8efcb1f964a520e94233e3	{Warner Bros. Studios - Lot 8}	{34.14615657207851,-118.33421230316162,Los Angeles,CA,United States}	{Arts & Entertainment,}
+1238	Wed May 25 23:00:55 +0000 2011	4b15503df964a5202eb023e3	{Petco Park}	{32.707559779610634,-117.15702295303345,San Diego,CA,United States}	{Stadium,Arts & Entertainment,}
+1238	Wed May 25 20:58:07 +0000 2011	4bd23ef5caff95210579d2f0	{Tailgate Park}	{32.70742436451214,-117.15323567390442,San Diego,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Wed May 25 03:29:21 +0000 2011	4b512da9f964a520284627e3	{Best Buy}	{32.77828576,-117.0165105,La Mesa,CA,United States}	{Shop & Service,}
+1238	Tue May 24 14:57:38 +0000 2011	4cd0d08001eaf04d1538bb5d	{Greyhound Package Express}	{32.71621689161291,-117.16446071863174,San Diego,CA,United States}	{Professional & Other Places,}
+1238	Sun May 22 01:59:46 +0000 2011	4c3a88e25810a593115bb93c	{Admiral Kidd Club}	{32.72263470861436,-117.21770524978638,San Diego,CA,United States}	{Convention Center,Professional & Other Places,}
+1238	Sat May 21 02:40:48 +0000 2011	4dbe3eb4ced7ea5898db45d5	{Foodtrucks and Fun- May 20, 2011}	{32.8316551,-117.167014,San Diego,CA,United States}	{Food,}
+1238	Wed May 18 16:03:25 +0000 2011	4dd3edbed22dc96be81150b3	{Joes on the Nose}	{32.887176275253296,-117.17046082019806,San Diego,CA,United States}	{Food,}
+1238	Tue May 17 19:08:52 +0000 2011	4aab208af964a5200d5920e3	{Walmart}	{32.829997631675795,-117.16532106834818,San Diego,CA,United States}	{Shop & Service,}
+1238	Sun May 15 05:50:19 +0000 2011	4b29a964f964a52040a224e3	{El Camino}	{32.72940405719778,-117.17092752456665,San Diego,CA,United States}	{Nightlife Spot,Food,}
+1238	Sat May 14 22:08:14 +0000 2011	4c152d67f1e0b713e6f434bc	{Campbell Home}	{32.82122711912117,-117.08529219318338,San Diego,CA,United States}	{Residence,}
+1238	Sat May 14 21:58:25 +0000 2011	4b158c83f964a52090ae23e3	{Tierrasanta Town Center Gas}	{32.822776436805725,-117.10146996666667,San Diego,CA,United States}	{Shop & Service,}
+1238	Fri May 13 20:16:07 +0000 2011	4a393701f964a5203a9f1fe3	{Sushi Town}	{32.89441832,-117.20151226666667,San Diego,CA,United States}	{Food,}
+1238	Wed May 11 00:06:10 +0000 2011	40e0b100f964a52054021fe3	{Karl Strauss Brewery & Restaurant}	{32.8964076564398,-117.20195531845093,San Diego,CA,United States}	{Nightlife Spot,}
+1238	Sat May 07 00:47:40 +0000 2011	4b883acbf964a52012e931e3	{El Pollo Loco}	{32.779565,-116.95761,El Cajon,CA,United States}	{Food,}
+1238	Fri May 06 18:24:16 +0000 2011	4ddda04fb0fbc2c4eef1f0f9	{Flippin Pizza Truck}	{32.88665199243047,-117.16632622196074,San Diego,CA,United States}	{Food,}
+1238	Thu May 05 19:01:14 +0000 2011	4a805719f964a520fef41fe3	{Fresh & Easy Neighborhood Market}	{32.90633321977463,-117.17235703985962,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1238	Thu May 05 01:57:48 +0000 2011	4b147f28f964a520e6a323e3	{Peter Piper Pizza}	{32.738351225852966,-116.94106724,El Cajon,CA,United States}	{Food,}
+1238	Sun May 01 21:35:15 +0000 2011	4bfdbadbe529c9284e67bb8c	{Balboa Park}	{32.731192034631285,-117.15034652208219,San Diego,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+1238	Sun May 01 15:56:53 +0000 2011	4b70a725f964a520b7272de3	{East County ASA - Melody Fields}	{32.79718650608942,-116.92270517349243,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Fri Apr 29 15:17:13 +0000 2011	4b951a31f964a520388f34e3	{AMPM}	{32.80219409250781,-116.95092814032506,El Cajon,CA,United States}	{Shop & Service,}
+1238	Tue Apr 26 03:13:21 +0000 2011	4cc3e172dba3ef3bfc240705	{IHOP}	{32.8023881,-116.93670715,El Cajon,CA,United States}	{Food,}
+1238	Sun Apr 24 17:54:29 +0000 2011	4bb13395f964a520f7823ce3	{Nana & Apa's}	{32.69033835990677,-117.10882639350532,San Diego,CA,United States}	{Residence,}
+1238	Sun Apr 24 00:24:29 +0000 2011	4b15503df964a5202eb023e3	{Petco Park}	{32.707559779610634,-117.15702295303345,San Diego,CA,United States}	{Stadium,Arts & Entertainment,}
+1238	Sun Apr 24 00:12:42 +0000 2011	4db36aea0cb6729b6a8028ea	{Jack's Munchie Mobile}	{32.730119,-117.15873,San Diego,CA,United States}	{Food,}
+1238	Sat Apr 23 23:56:53 +0000 2011	4bd23ef5caff95210579d2f0	{Tailgate Park}	{32.70742436451214,-117.15323567390442,San Diego,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Thu Apr 21 02:06:30 +0000 2011	4bf88baa5efe2d7f5a066b34	{Los Rancheros}	{32.79476881027222,-116.96072279,El Cajon,CA,United States}	{Food,}
+1238	Thu Apr 21 01:23:59 +0000 2011	4c2be2b6b34ad13ab28deace	{Cajon Classic Cruise}	{32.794886736749035,-116.9610071182251,El Cajon,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+1238	Wed Apr 20 18:42:14 +0000 2011	4ddda04fb0fbc2c4eef1f0f9	{Flippin Pizza Truck}	{32.88665199243047,-117.16632622196074,San Diego,CA,United States}	{Food,}
+1238	Wed Apr 20 01:23:21 +0000 2011	4b883acbf964a52012e931e3	{El Pollo Loco}	{32.779565,-116.95761,El Cajon,CA,United States}	{Food,}
+1238	Mon Apr 18 06:07:25 +0000 2011	4d8a7be97d4c54815f626a71	{Rest Area}	{30.938226166666666,-103.31073174249642,,,United States}	{Travel & Transport,}
+1238	Mon Apr 18 01:46:32 +0000 2011	4b4e7519f964a52076ee26e3	{Rest Area}	{30.05236103647194,-99.02743577957153,Kerrville,TX,United States}	{Travel & Transport,}
+1238	Mon Apr 18 01:46:32 +0000 2011	4b4e7519f964a52076ee26e3	{Rest Area}	{30.05236103647194,-99.02743577957153,Kerrville,TX,United States}	{Travel & Transport,}
+1238	Mon Apr 18 00:01:18 +0000 2011	4da112beb1c93704d7a7c6a1	{Petco Satellite Support Center}	{29.44212507904345,-98.6491577598982,San Antonio,TX,United States}	{Professional & Other Places,}
+1238	Sun Apr 17 15:03:12 +0000 2011	4b9c2436f964a520544e36e3	{Taco Ole}	{26.290665045227705,-98.1947003848121,Edinburg,TX,United States}	{Food,}
+1238	Sat Apr 16 20:03:34 +0000 2011	4b79645ef964a52033f72ee3	{El Pato Mexican Food}	{26.302655,-98.174105,Edinburg,TX,United States}	{Food,}
+1238	Thu Apr 14 06:27:38 +0000 2011	4c11a95cd917c928a238b662	{Whataburger}	{26.241923753234957,-98.2396388053894,Mcallen,TX,United States}	{Food,}
+1238	Wed Apr 13 19:13:54 +0000 2011	4b64c413f964a52077ce2ae3	{Carmike 20}	{26.273047807316054,-98.15610945224762,Edinburg,TX,United States}	{Arts & Entertainment,Movie Theater,}
+1238	Tue Apr 12 19:40:02 +0000 2011	4babd760f964a52030ce3ae3	{Macy's}	{26.18541544,-98.23459358,McAllen,TX,United States}	{Shop & Service,Clothing Store,}
+1238	Sun Apr 10 02:16:09 +0000 2011	4da112beb1c93704d7a7c6a1	{Petco Satellite Support Center}	{29.44212507904345,-98.6491577598982,San Antonio,TX,United States}	{Professional & Other Places,}
+1238	Sun Apr 10 01:14:23 +0000 2011	4b4e7519f964a52076ee26e3	{Rest Area}	{30.05236103647194,-99.02743577957153,Kerrville,TX,United States}	{Travel & Transport,}
+1238	Sat Apr 09 22:05:33 +0000 2011	4c603bfe12e5c92866aa1e4c	{Pecos County Rest Area East Bound}	{30.861912513255763,-102.0828219311143,Iraan,TX,United States}	{Travel & Transport,}
+1238	Sat Apr 09 16:35:07 +0000 2011	4c55a12972cf0f4771fb92d6	{Valero Corner Store}	{31.863927030929172,-106.57613754272461,El Paso,TX,United States}	{Shop & Service,}
+1238	Sat Apr 09 13:03:30 +0000 2011	4c8d2569f87e224b83273b05	{San Simon Rest Area}	{32.2375789662935,-109.08831596374512,San Simon,AZ,United States}	{Travel & Transport,Outdoors & Recreation,}
+1238	Sat Apr 09 03:22:10 +0000 2011	4b951a31f964a520388f34e3	{AMPM}	{32.80219409250781,-116.95092814032506,El Cajon,CA,United States}	{Shop & Service,}
+1238	Fri Apr 08 17:33:21 +0000 2011	4b736d96f964a520ffad2de3	{Thrifty Car Rental}	{32.729494997926295,-117.1732587754305,San Diego,CA,United States}	{Travel & Transport,}
+1238	Wed Apr 06 02:56:39 +0000 2011	4811b25df964a520304f1fe3	{The Tilted Kilt Pub & Eatery}	{32.708452896970826,-117.15560241421936,San Diego,CA,United States}	{Nightlife Spot,Food,}
+1238	Tue Apr 05 23:37:53 +0000 2011	4b15503df964a5202eb023e3	{Petco Park}	{32.707559779610634,-117.15702295303345,San Diego,CA,United States}	{Stadium,Arts & Entertainment,}
+1238	Tue Apr 05 19:56:47 +0000 2011	4bd23ef5caff95210579d2f0	{Tailgate Park}	{32.70742436451214,-117.15323567390442,San Diego,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Tue Apr 05 18:28:05 +0000 2011	4b6a0b93f964a520f8c32be3	{Tortilleria Salsa}	{32.78070330619812,-116.96747124195099,El Cajon,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1238	Mon Apr 04 04:42:39 +0000 2011	4b45e396f964a520c61126e3	{AMPM}	{32.780633,-116.9575072,El Cajon,CA,United States}	{Shop & Service,}
+1238	Mon Apr 04 01:28:20 +0000 2011	4abf9564f964a5202d9120e3	{Costco Gas}	{32.63647990770766,-117.02169203190098,Chula Vista,CA,United States}	{Shop & Service,}
+1238	Sat Apr 02 23:16:08 +0000 2011	4b70a725f964a520b7272de3	{East County ASA - Melody Fields}	{32.79718650608942,-116.92270517349243,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Sat Apr 02 22:15:03 +0000 2011	4bfec31bdaf9c9b6da37f9ef	{Wendy's}	{32.7880039,-116.928935,El Cajon,CA,United States}	{Food,}
+1238	Tue Mar 29 23:17:32 +0000 2011	4bad25d6f964a520ba323be3	{Discount Tire}	{32.87769,-117.1832867,San Diego,CA,United States}	{Shop & Service,}
+1238	Mon Mar 28 15:09:45 +0000 2011	4b951a31f964a520388f34e3	{AMPM}	{32.80219409250781,-116.95092814032506,El Cajon,CA,United States}	{Shop & Service,}
+1238	Mon Mar 28 06:02:23 +0000 2011	4b76f644f964a520ef6e2ee3	{VONS}	{32.77879570652128,-116.95651173591612,El Cajon,CA,United States}	{Shop & Service,Food & Drink Shop,Professional & Other Places,}
+1238	Sat Mar 26 02:27:10 +0000 2011	4b0d8a69f964a520964a23e3	{BevMo!}	{32.77733438136829,-117.01621770858765,La Mesa,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1238	Tue Mar 22 15:05:14 +0000 2011	4ba29509f964a520640638e3	{Superior Court of CA - El Cajon}	{32.796472568929495,-116.95919598610269,El Cajon,CA,United States}	{Government Building,Professional & Other Places,}
+1238	Sun Mar 20 02:06:30 +0000 2011	4c01a4913f0a9c747e5aa0ec	{Tyler's Taste of Texas}	{32.80168300538516,-116.93648451239885,El Cajon,CA,United States}	{Food,}
+1238	Sun Mar 13 21:54:02 +0000 2011	4c072d822e80a593c75775f9	{O'Reilly Auto Parts}	{32.79465931,-116.95084691047668,El Cajon,CA,United States}	{Shop & Service,}
+1238	Sun Mar 13 20:44:53 +0000 2011	4c045b689a7920a10e38d179	{AutoZone}	{32.795322867121556,-116.94553489385497,El Cajon,CA,United States}	{Shop & Service,}
+1238	Sat Mar 12 21:19:56 +0000 2011	4b92d2d6f964a520201f34e3	{Sweetwater Valley Little League}	{32.6788943299333,-117.00611766118952,Bonita,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Sat Mar 12 19:19:25 +0000 2011	4b70a725f964a520b7272de3	{East County ASA - Melody Fields}	{32.79718650608942,-116.92270517349243,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Sat Mar 12 16:52:07 +0000 2011	4b92d8c9f964a520252134e3	{East County ASA - Magnolia}	{32.813571767919754,-116.95482730865479,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Fri Mar 11 21:30:45 +0000 2011	4c045b689a7920a10e38d179	{AutoZone}	{32.795322867121556,-116.94553489385497,El Cajon,CA,United States}	{Shop & Service,}
+1238	Thu Mar 10 16:06:18 +0000 2011	4b3a10cff964a520b06025e3	{Starbucks}	{32.78067194066421,-116.95667266845703,El Cajon,CA,United States}	{Food,}
+1238	Sun Mar 06 22:17:01 +0000 2011	4c2aa75a2219c928547ea348	{San Diego Humane Society & SPCA}	{32.76570147186799,-117.19397462181536,San Diego,CA,United States}	{Professional & Other Places,}
+1238	Fri Mar 04 02:00:07 +0000 2011	4b905e78f964a5208a8633e3	{East County ASA - CVM Fields}	{32.7986622,-116.95385168,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Thu Mar 03 02:25:52 +0000 2011	4b6a7fd2f964a520f3d62be3	{Casa Moscoso}	{32.78859370840114,-116.95580666819636,El Cajon,CA,United States}	{Residence,}
+1238	Wed Mar 02 16:12:47 +0000 2011	4b6ae18ff964a52008e52be3	{76 Gas Station}	{32.78787008,-116.97422504425049,El Cajon,CA,United States}	{Shop & Service,}
+1238	Wed Mar 02 05:09:31 +0000 2011	4cc3e172dba3ef3bfc240705	{IHOP}	{32.8023881,-116.93670715,El Cajon,CA,United States}	{Food,}
+1238	Wed Mar 02 04:39:55 +0000 2011	4b6a7fd2f964a520f3d62be3	{Casa Moscoso}	{32.78859370840114,-116.95580666819636,El Cajon,CA,United States}	{Residence,}
+1238	Wed Mar 02 03:10:50 +0000 2011	4c00650734ccc928048ce1cd	{Powerline Consulting}	{32.83373587857461,-117.15519458827137,San Diego,CA,United States}	{Shop & Service,}
+1238	Tue Mar 01 01:33:38 +0000 2011	4b6a7fd2f964a520f3d62be3	{Casa Moscoso}	{32.78859370840114,-116.95580666819636,El Cajon,CA,United States}	{Residence,}
+1238	Mon Feb 28 15:44:29 +0000 2011	4bd9eb1d2a3a0f47eae5a8b6	{Fuerte Elementary School}	{32.761546931732376,-116.94594383239746,El Cajon,CA,United States}	{College & University,Professional & Other Places,}
+1238	Sun Feb 27 02:22:29 +0000 2011	4bd9eb1d2a3a0f47eae5a8b6	{Fuerte Elementary School}	{32.761546931732376,-116.94594383239746,El Cajon,CA,United States}	{College & University,Professional & Other Places,}
+1238	Sat Feb 26 06:08:44 +0000 2011	4b6e5f93f964a520aeba2ce3	{Hearth House}	{32.77903497219086,-117.01817638,La Mesa,CA,United States}	{Nightlife Spot,}
+1238	Sat Feb 26 02:30:48 +0000 2011	4ade5d57f964a520597521e3	{Parkway Bowl}	{32.808233588370584,-116.97791576385498,El Cajon,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+1238	Wed Feb 23 01:49:53 +0000 2011	4c23f053136d20a1a70fe161	{Elks Lodge 1812}	{32.7885329574994,-116.93110240075565,El Cajon,CA,United States}	{Professional & Other Places,}
+1238	Mon Feb 21 21:36:08 +0000 2011	4c072d822e80a593c75775f9	{O'Reilly Auto Parts}	{32.79465931,-116.95084691047668,El Cajon,CA,United States}	{Shop & Service,}
+1238	Mon Feb 21 20:30:00 +0000 2011	4b91c2ccf964a52071d533e3	{McDonald's}	{32.797393933340814,-116.93516135215758,El Cajon,CA,United States}	{Food,}
+1238	Mon Feb 21 20:06:33 +0000 2011	4b9bbf0ef964a520852036e3	{Precision Tune Auto Care}	{32.794833183288574,-116.940434,El Cajon,CA,United States}	{Shop & Service,}
+1238	Sat Feb 19 03:09:46 +0000 2011	4ade5d57f964a520597521e3	{Parkway Bowl}	{32.808233588370584,-116.97791576385498,El Cajon,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+1238	Sun Feb 13 03:55:30 +0000 2011	4bbe11da8ec3d13ac2de1c28	{Chili's Grill & Bar}	{32.75387019042627,-117.21106490005725,San Diego,CA,United States}	{Food,}
+1238	Thu Feb 10 20:27:20 +0000 2011	4a78db49f964a52098e61fe3	{Hooters of Mission Valley}	{32.7688455921939,-117.15258121490479,San Diego,CA,United States}	{Nightlife Spot,Food,}
+1238	Wed Feb 09 16:09:42 +0000 2011	4b45e396f964a520c61126e3	{AMPM}	{32.780633,-116.9575072,El Cajon,CA,United States}	{Shop & Service,}
+1238	Wed Feb 09 01:00:30 +0000 2011	4b905e78f964a5208a8633e3	{East County ASA - CVM Fields}	{32.7986622,-116.95385168,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Mon Feb 07 16:51:31 +0000 2011	4b45e396f964a520c61126e3	{AMPM}	{32.780633,-116.9575072,El Cajon,CA,United States}	{Shop & Service,}
+1238	Mon Feb 07 01:32:18 +0000 2011	4d4ad2e8f2cc6a31686ec188	{Super Bowl Sunday}	{32.747868226330375,-97.09356307983398,Arlington,TX,United States}	{Stadium,Arts & Entertainment,}
+1238	Sat Feb 05 17:51:07 +0000 2011	4b70a725f964a520b7272de3	{East County ASA - Melody Fields}	{32.79718650608942,-116.92270517349243,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Thu Feb 03 21:57:16 +0000 2011	4c4667a1f5aee21e9a841858	{Taco Bell}	{32.80225222,-116.95138585,El Cajon,CA,United States}	{Food,}
+1238	Thu Feb 03 05:02:23 +0000 2011	4ac36d8ef964a520529b20e3	{The Home Depot}	{32.80943798967697,-116.96480660504866,El Cajon,CA,United States}	{Shop & Service,}
+1238	Fri Jan 28 16:23:59 +0000 2011	4d251575c2b36ea8581623d4	{Super Star Gas Station}	{32.79516027,-116.97523411,El Cajon,CA,United States}	{Shop & Service,}
+1238	Wed Jan 26 22:08:36 +0000 2011	4bba680d53649c74f30049fb	{Petco NSC Annex 2 (Bldg 3)}	{32.88684911247772,-117.17069149017334,San Diego,CA,United States}	{Professional & Other Places,}
+1238	Sun Jan 23 16:02:32 +0000 2011	4b92d8c9f964a520252134e3	{East County ASA - Magnolia}	{32.813571767919754,-116.95482730865479,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Sat Jan 22 08:36:12 +0000 2011	4a34195cf964a520bb9b1fe3	{Lucha Libre}	{32.74321644649328,-117.18160808086395,San Diego,CA,United States}	{Food,}
+1238	Sat Jan 22 04:15:17 +0000 2011	4ce444714eb46a312d195ba3	{Eagles San Diego Aerie #244}	{32.748068,-117.14839,San Diego,CA,United States}	{Arts & Entertainment,}
+1238	Fri Jan 21 03:50:55 +0000 2011	4c5dfcd52815c9280593b667	{Greystone the Steakhouse}	{32.712282501137224,-117.16009993385273,San Diego,CA,United States}	{Nightlife Spot,Food,}
+1238	Fri Jan 21 01:44:57 +0000 2011	4b70a725f964a520b7272de3	{East County ASA - Melody Fields}	{32.79718650608942,-116.92270517349243,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Wed Jan 19 02:00:42 +0000 2011	4c00650734ccc928048ce1cd	{Powerline Consulting}	{32.83373587857461,-117.15519458827137,San Diego,CA,United States}	{Shop & Service,}
+1238	Sat Jan 08 22:33:59 +0000 2011	4aec6b8bf964a520e2c621e3	{Best Buy}	{32.80606937,-116.963582,El Cajon,CA,United States}	{Shop & Service,}
+1238	Sat Jan 08 21:43:14 +0000 2011	4bdc98d4383276b0e5d47369	{Quick Trip}	{32.8024982949594,-116.9514799118042,El Cajon,CA,United States}	{Shop & Service,}
+1238	Fri Jan 07 04:58:42 +0000 2011	4b46ae4bf964a520bb2626e3	{CVS/Pharmacy}	{33.01917268333333,-117.110911,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1238	Fri Jan 07 04:58:42 +0000 2011	4b46ae4bf964a520bb2626e3	{CVS/Pharmacy}	{33.01917268333333,-117.110911,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1238	Fri Jan 07 04:58:42 +0000 2011	4b46ae4bf964a520bb2626e3	{CVS/Pharmacy}	{33.01917268333333,-117.110911,San Diego,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1238	Thu Jan 06 01:06:22 +0000 2011	4d251575c2b36ea8581623d4	{Super Star Gas Station}	{32.79516027,-116.97523411,El Cajon,CA,United States}	{Shop & Service,}
+1238	Sat Jan 01 04:03:18 +0000 2011	4b70ab20f964a520a2282de3	{Mama & Papa's (Lety & Willie)}	{32.816756481505564,-117.01467361980383,San Diego,CA,United States}	{Residence,}
+1238	Fri Dec 24 04:20:17 +0000 2010	4541114bf964a520433c1fe3	{San Diego International Airport (SAN)}	{32.73299611609881,-117.19931602478027,San Diego,CA,United States}	{Travel & Transport,}
+1238	Fri Dec 24 04:11:02 +0000 2010	4bb669936edc76b02ce6301c	{Cell Phone Parking Lot}	{32.72837514933744,-117.18300819396973,San Diego,CA,United States}	{Travel & Transport,Professional & Other Places,}
+1238	Sat Dec 18 18:44:21 +0000 2010	4b147f28f964a520e6a323e3	{Peter Piper Pizza}	{32.738351225852966,-116.94106724,El Cajon,CA,United States}	{Food,}
+1238	Fri Dec 17 16:08:33 +0000 2010	4b6a7fd2f964a520f3d62be3	{Casa Moscoso}	{32.78859370840114,-116.95580666819636,El Cajon,CA,United States}	{Residence,}
+1238	Wed Dec 15 01:26:40 +0000 2010	4b6cf4fbf964a52024602ce3	{Domino's Pizza Team Washington/El Cajon South}	{32.78800511089858,-116.94425135850906,El Cajon,CA,United States}	{Food,}
+1238	Sun Dec 12 18:54:32 +0000 2010	4b15503df964a52030b023e3	{Qualcomm Stadium}	{32.78305325779114,-117.11960077285767,San Diego,CA,United States}	{Stadium,Arts & Entertainment,Professional & Other Places,}
+1238	Sat Dec 11 06:29:50 +0000 2010	4a34195cf964a520bb9b1fe3	{Lucha Libre}	{32.74321644649328,-117.18160808086395,San Diego,CA,United States}	{Food,}
+1238	Fri Dec 10 02:17:55 +0000 2010	4b883acbf964a52012e931e3	{El Pollo Loco}	{32.779565,-116.95761,El Cajon,CA,United States}	{Food,}
+1238	Thu Dec 09 02:21:15 +0000 2010	4b75b1d3f964a5208e1d2ee3	{Little Ceasars}	{32.780130723337194,-116.95826053619385,El Cajon,CA,United States}	{Food,}
+1238	Sun Dec 05 18:14:57 +0000 2010	4b15503df964a52030b023e3	{Qualcomm Stadium}	{32.78305325779114,-117.11960077285767,San Diego,CA,United States}	{Stadium,Arts & Entertainment,Professional & Other Places,}
+1238	Fri Dec 03 04:18:14 +0000 2010	4a896f57f964a520040820e3	{Petco NSC (Bldg 4)}	{32.889669035232075,-117.17180728912354,San Diego,CA,United States}	{Professional & Other Places,}
+1238	Thu Dec 02 04:40:33 +0000 2010	4ac36d8ef964a520529b20e3	{The Home Depot}	{32.80943798967697,-116.96480660504866,El Cajon,CA,United States}	{Shop & Service,}
+1238	Tue Nov 30 05:43:16 +0000 2010	4b76f644f964a520ef6e2ee3	{VONS}	{32.77879570652128,-116.95651173591612,El Cajon,CA,United States}	{Shop & Service,Food & Drink Shop,Professional & Other Places,}
+1238	Mon Nov 29 21:14:03 +0000 2010	4b215333f964a5202a3a24e3	{Popeye's Louisiana Kitchen}	{32.91576707867592,-117.12982267141342,San Diego,CA,United States}	{Food,}
+1238	Fri Nov 26 18:17:25 +0000 2010	4b45e396f964a520c61126e3	{AMPM}	{32.780633,-116.9575072,El Cajon,CA,United States}	{Shop & Service,}
+1238	Wed Nov 24 01:32:33 +0000 2010	4b7749bef964a5201d8f2ee3	{Petco}	{32.80110441505703,-116.93670876410425,El Cajon,CA,United States}	{Shop & Service,}
+1238	Wed Nov 24 01:32:33 +0000 2010	4b7749bef964a5201d8f2ee3	{Petco}	{32.80110441505703,-116.93670876410425,El Cajon,CA,United States}	{Shop & Service,}
+1238	Mon Nov 22 21:02:15 +0000 2010	4b15503df964a52030b023e3	{Qualcomm Stadium}	{32.78305325779114,-117.11960077285767,San Diego,CA,United States}	{Stadium,Arts & Entertainment,Professional & Other Places,}
+1238	Mon Nov 22 06:21:29 +0000 2010	4b45e396f964a520c61126e3	{AMPM}	{32.780633,-116.9575072,El Cajon,CA,United States}	{Shop & Service,}
+1238	Sun Nov 21 17:55:41 +0000 2010	4ce94465b5c35941bf9d698f	{Mother Goose Parade - 2010}	{32.794922812021404,-116.95908665657043,El Cajon,CA,United States}	{Arts & Entertainment,}
+1238	Sun Nov 21 17:50:21 +0000 2010	4ce94465b5c35941bf9d698f	{Mother Goose Parade - 2010}	{32.794922812021404,-116.95908665657043,El Cajon,CA,United States}	{Arts & Entertainment,}
+1238	Sun Nov 21 03:51:25 +0000 2010	4a980b3cf964a520352a20e3	{Poway Fun Bowl}	{32.955857,-117.05060921,Poway,CA,United States}	{Arts & Entertainment,}
+1238	Sun Nov 21 01:46:05 +0000 2010	44eb714ef964a520ca371fe3	{Buca di Beppo}	{32.916967,-117.120498,San Diego,CA,United States}	{Food,}
+1238	Sat Nov 20 02:47:38 +0000 2010	4cc3e172dba3ef3bfc240705	{IHOP}	{32.8023881,-116.93670715,El Cajon,CA,United States}	{Food,}
+1238	Fri Nov 19 22:06:45 +0000 2010	4b15503df964a52030b023e3	{Qualcomm Stadium}	{32.78305325779114,-117.11960077285767,San Diego,CA,United States}	{Stadium,Arts & Entertainment,Professional & Other Places,}
+1238	Thu Nov 18 16:36:31 +0000 2010	4b6a7fd2f964a520f3d62be3	{Casa Moscoso}	{32.78859370840114,-116.95580666819636,El Cajon,CA,United States}	{Residence,}
+1238	Thu Nov 18 01:18:06 +0000 2010	4be72baee1b39521be1121c1	{Casa Guerrero (Javier)}	{32.61802442935123,-117.01467361980383,Chula Vista,CA,United States}	{Residence,}
+1238	Wed Nov 17 23:22:55 +0000 2010	4b45e396f964a520c61126e3	{AMPM}	{32.780633,-116.9575072,El Cajon,CA,United States}	{Shop & Service,}
+1238	Wed Nov 17 00:28:53 +0000 2010	4b6248aaf964a5204f402ae3	{Jack in the Box - El Cajon, CA}	{32.780626,-116.95803388333333,El Cajon,CA,United States}	{Food,}
+1238	Tue Nov 16 20:05:57 +0000 2010	4b39331df964a5200d5825e3	{Tabe BBQ Truck}	{32.94958692595448,-117.240149974823,San Diego,CA,United States}	{Food,}
+1238	Tue Nov 16 20:05:57 +0000 2010	4b39331df964a5200d5825e3	{Tabe BBQ Truck}	{32.94958692595448,-117.240149974823,San Diego,CA,United States}	{Food,}
+1238	Tue Nov 16 20:02:30 +0000 2010	4a896f57f964a520040820e3	{Petco NSC (Bldg 4)}	{32.889669035232075,-117.17180728912354,San Diego,CA,United States}	{Professional & Other Places,}
+1238	Sun Nov 14 01:52:37 +0000 2010	4b76f644f964a520ef6e2ee3	{VONS}	{32.77879570652128,-116.95651173591612,El Cajon,CA,United States}	{Shop & Service,Food & Drink Shop,Professional & Other Places,}
+1238	Fri Nov 12 03:26:36 +0000 2010	4b6cf4fbf964a52024602ce3	{Domino's Pizza Team Washington/El Cajon South}	{32.78800511089858,-116.94425135850906,El Cajon,CA,United States}	{Food,}
+1238	Fri Nov 12 03:17:34 +0000 2010	4b6cf4fbf964a52024602ce3	{Domino's Pizza Team Washington/El Cajon South}	{32.78800511089858,-116.94425135850906,El Cajon,CA,United States}	{Food,}
+1238	Sat Nov 06 03:01:17 +0000 2010	4abd4cc8f964a520978920e3	{Yogurt Mill}	{32.807452,-116.950135,El Cajon,CA,United States}	{Food,}
+1238	Fri Nov 05 01:11:24 +0000 2010	4c4667a1f5aee21e9a841858	{Taco Bell}	{32.80225222,-116.95138585,El Cajon,CA,United States}	{Food,}
+1238	Thu Nov 04 01:22:17 +0000 2010	4b79a450f964a520bb072fe3	{Del Mar Beach}	{32.96147284683609,-117.26772355053943,Del Mar,CA,United States}	{Travel & Transport,Outdoors & Recreation,Beach,Hotel,}
+1238	Wed Nov 03 15:33:09 +0000 2010	4b6c7347f964a520233b2ce3	{Fresh MXN Food}	{32.879984,-117.16053725,San Diego,CA,United States}	{Food,}
+1238	Tue Nov 02 15:04:46 +0000 2010	4cceed6bdd919eb0ba8d139e	{Voting at ANZA ELEMENTARY SCHOOL-MPR}	{32.781483760481855,-116.94779992103577,El Cajon,CA,United States}	{Professional & Other Places,}
+1238	Sun Oct 31 15:52:37 +0000 2010	4b15503df964a52030b023e3	{Qualcomm Stadium}	{32.78305325779114,-117.11960077285767,San Diego,CA,United States}	{Stadium,Arts & Entertainment,Professional & Other Places,}
+1238	Sat Oct 30 05:37:15 +0000 2010	4a9b1a81f964a520693420e3	{Denny's}	{32.979040150054914,-117.25570142269135,Del Mar,CA,United States}	{Food,}
+1238	Sat Oct 30 03:45:38 +0000 2010	4cb1504675ebb60cbb78ccad	{Scream Zone (Del Mar Fairgrounds)}	{32.977284802378406,-117.26661556384865,Del Mar,CA,United States}	{Arts & Entertainment,}
+1238	Sat Oct 30 02:57:58 +0000 2010	4ade5d57f964a520597521e3	{Parkway Bowl}	{32.808233588370584,-116.97791576385498,El Cajon,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+1238	Fri Oct 29 20:58:47 +0000 2010	4c9cf1c39693236a3ceccde1	{Petco NSC Courtyard}	{32.88721850043846,-117.17060565948485,San Diego,CA,United States}	{Outdoors & Recreation,}
+1238	Mon Oct 25 00:54:31 +0000 2010	4b6a7fd2f964a520f3d62be3	{Casa Moscoso}	{32.78859370840114,-116.95580666819636,El Cajon,CA,United States}	{Residence,}
+1238	Sun Oct 24 17:12:27 +0000 2010	4b15503df964a52030b023e3	{Qualcomm Stadium}	{32.78305325779114,-117.11960077285767,San Diego,CA,United States}	{Stadium,Arts & Entertainment,Professional & Other Places,}
+1238	Sun Oct 24 15:41:58 +0000 2010	4c9e98bfe9a7ef3bd7224316	{Cerda House}	{32.575709092724836,-117.06175532358158,San Diego,CA,United States}	{Residence,}
+1238	Sun Oct 24 15:05:15 +0000 2010	4b70a725f964a520b7272de3	{East County ASA - Melody Fields}	{32.79718650608942,-116.92270517349243,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Thu Oct 21 22:56:16 +0000 2010	4c9d234846978cfa51a6947f	{Petco NSC Dog Run}	{32.887560858636824,-117.1704339981079,San Diego,CA,United States}	{Outdoors & Recreation,}
+1238	Tue Oct 19 04:05:33 +0000 2010	4aec6b8bf964a520e2c621e3	{Best Buy}	{32.80606937,-116.963582,El Cajon,CA,United States}	{Shop & Service,}
+1238	Sat Oct 16 02:07:42 +0000 2010	4b6a7fd2f964a520f3d62be3	{Casa Moscoso}	{32.78859370840114,-116.95580666819636,El Cajon,CA,United States}	{Residence,}
+1238	Fri Oct 15 01:50:57 +0000 2010	4ac578e6f964a5202ab220e3	{Eastlake Tavern+Bowl}	{32.65135,-116.954119,Chula Vista,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+1238	Thu Oct 14 15:03:32 +0000 2010	4ba93564f964a52062143ae3	{FM 94/9 KSON KIFM Studios}	{32.775045082772884,-117.15736582129858,San Diego,CA,United States}	{Professional & Other Places,}
+1238	Tue Oct 12 18:34:00 +0000 2010	4b39331df964a5200d5825e3	{Tabe BBQ Truck}	{32.94958692595448,-117.240149974823,San Diego,CA,United States}	{Food,}
+1238	Mon Oct 11 01:10:13 +0000 2010	4c22e6f29a67a5937050dd87	{Jorge & Tere's}	{32.73858233053153,-116.99112880728262,Spring Valley,CA,United States}	{Residence,}
+1238	Sun Oct 10 15:47:30 +0000 2010	4b70a725f964a520b7272de3	{East County ASA - Melody Fields}	{32.79718650608942,-116.92270517349243,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Sun Oct 10 04:00:05 +0000 2010	4cb11bf2cbab236ada78a673	{3rd Annual Texas Hold'em Tournament}	{32.74222,-116.989245,Spring Valley,CA,United States}	{Arts & Entertainment,}
+1238	Sat Oct 09 20:54:07 +0000 2010	4b6a7fd2f964a520f3d62be3	{Casa Moscoso}	{32.78859370840114,-116.95580666819636,El Cajon,CA,United States}	{Residence,}
+1238	Thu Oct 07 23:59:40 +0000 2010	4b70a725f964a520b7272de3	{East County ASA - Melody Fields}	{32.79718650608942,-116.92270517349243,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Thu Oct 07 03:18:22 +0000 2010	4c5edd5417f3b713210224e6	{Casa Nuanez (Susie & Johnny)}	{32.78936475285238,-117.13235791374208,San Diego,CA,United States}	{Residence,}
+1238	Wed Oct 06 18:54:20 +0000 2010	4b3ebac4f964a52081a125e3	{Burger King}	{32.906883,-117.173036,San Diego,CA,United States}	{Food,}
+1238	Sun Oct 03 17:50:53 +0000 2010	4b15503df964a52030b023e3	{Qualcomm Stadium}	{32.78305325779114,-117.11960077285767,San Diego,CA,United States}	{Stadium,Arts & Entertainment,Professional & Other Places,}
+1238	Fri Oct 01 14:21:21 +0000 2010	4ac66915f964a52038b420e3	{Del Taco}	{32.8070855140686,-116.9607013463974,El Cajon,CA,United States}	{Food,}
+1238	Thu Sep 30 19:22:58 +0000 2010	4b22b030f964a520d44b24e3	{El Pollo Loco}	{32.9117211319655,-117.14440126591118,San Diego,CA,United States}	{Food,}
+1238	Thu Sep 30 01:11:31 +0000 2010	4bd23ef5caff95210579d2f0	{Tailgate Park}	{32.70742436451214,-117.15323567390442,San Diego,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Wed Sep 29 02:08:02 +0000 2010	4b15503df964a5202eb023e3	{Petco Park}	{32.707559779610634,-117.15702295303345,San Diego,CA,United States}	{Stadium,Arts & Entertainment,}
+1238	Mon Sep 27 14:53:35 +0000 2010	4bba680d53649c74f30049fb	{Petco NSC Annex 2 (Bldg 3)}	{32.88684911247772,-117.17069149017334,San Diego,CA,United States}	{Professional & Other Places,}
+1238	Fri Sep 24 02:51:53 +0000 2010	44eb7237f964a520cb371fe3	{Buca di Beppo}	{32.71275,-117.15924,San Diego,CA,United States}	{Food,}
+1238	Thu Sep 23 14:16:23 +0000 2010	4b6ae18ff964a52008e52be3	{76 Gas Station}	{32.78787008,-116.97422504425049,El Cajon,CA,United States}	{Shop & Service,}
+1238	Mon Sep 20 19:08:05 +0000 2010	4b3ebac4f964a52081a125e3	{Burger King}	{32.906883,-117.173036,San Diego,CA,United States}	{Food,}
+1238	Sun Sep 19 17:27:07 +0000 2010	4b15503df964a52030b023e3	{Qualcomm Stadium}	{32.78305325779114,-117.11960077285767,San Diego,CA,United States}	{Stadium,Arts & Entertainment,Professional & Other Places,}
+1238	Sun Sep 19 16:49:17 +0000 2010	4b8eb79df964a520e03233e3	{McDonald's}	{32.82252737667926,-117.10104525089264,San Diego,CA,United States}	{Food,}
+1238	Sat Sep 18 05:01:12 +0000 2010	4b6cf4fbf964a52024602ce3	{Domino's Pizza Team Washington/El Cajon South}	{32.78800511089858,-116.94425135850906,El Cajon,CA,United States}	{Food,}
+1238	Wed Sep 15 20:18:15 +0000 2010	4b8edd3ff964a520943b33e3	{Godiva Chocolatier}	{32.87163980319744,-117.21150398254395,San Diego,CA,United States}	{Shop & Service,}
+1238	Mon Sep 13 23:54:08 +0000 2010	4b6cf4fbf964a52024602ce3	{Domino's Pizza Team Washington/El Cajon South}	{32.78800511089858,-116.94425135850906,El Cajon,CA,United States}	{Food,}
+1238	Mon Sep 13 00:04:35 +0000 2010	4c152d67f1e0b713e6f434bc	{Campbell Home}	{32.82122711912117,-117.08529219318338,San Diego,CA,United States}	{Residence,}
+1238	Sat Sep 11 01:00:07 +0000 2010	4ade5d57f964a520597521e3	{Parkway Bowl}	{32.808233588370584,-116.97791576385498,El Cajon,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+1238	Fri Sep 10 03:09:08 +0000 2010	4b883acbf964a52012e931e3	{El Pollo Loco}	{32.779565,-116.95761,El Cajon,CA,United States}	{Food,}
+1238	Wed Sep 08 18:24:56 +0000 2010	4bc38a1db492d13a3ee5a860	{Tom's Master Mechanics}	{32.878206,-117.184087,San Diego,CA,United States}	{Shop & Service,}
+1238	Wed Sep 08 01:36:29 +0000 2010	4bd235be9854d13a7540fb4d	{Pizza Hut & Wingstreet}	{32.77838076478183,-116.95672631263733,El Cajon,CA,United States}	{Food,}
+1238	Sat Sep 04 20:53:57 +0000 2010	4c82af10dc018cfafcf6d16c	{Ma-Tar-Awa RV Camper Park}	{32.850749781706526,-116.67710065841675,Alpine,CA,United States}	{Outdoors & Recreation,}
+1238	Tue Aug 31 23:53:11 +0000 2010	4a7f24abf964a520fdf21fe3	{Lake Murray Reservoir}	{32.786769428375315,-117.04323291778564,San Diego,CA,United States}	{Outdoors & Recreation,}
+1238	Mon Aug 30 15:55:30 +0000 2010	4bd9eb1d2a3a0f47eae5a8b6	{Fuerte Elementary School}	{32.761546931732376,-116.94594383239746,El Cajon,CA,United States}	{College & University,Professional & Other Places,}
+1238	Mon Aug 30 00:58:14 +0000 2010	4a74f391f964a5201de01fe3	{Wells Park (dog area)}	{32.798079341686716,-116.9429612159729,El Cajon,CA,United States}	{Outdoors & Recreation,}
+1238	Sat Aug 21 22:56:54 +0000 2010	4b15503df964a52030b023e3	{Qualcomm Stadium}	{32.78305325779114,-117.11960077285767,San Diego,CA,United States}	{Stadium,Arts & Entertainment,Professional & Other Places,}
+1238	Sat Aug 21 02:56:27 +0000 2010	4a78cac5f964a5206ce61fe3	{Pacific Beach Recreation Center}	{32.80037827551737,-117.24466698408325,San Diego,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Thu Aug 19 19:38:57 +0000 2010	4a896f57f964a520040820e3	{Petco NSC (Bldg 4)}	{32.889669035232075,-117.17180728912354,San Diego,CA,United States}	{Professional & Other Places,}
+1238	Wed Aug 18 22:28:28 +0000 2010	4bd0e3bb9854d13aaeb5f84d	{Grossmont Medical Arts Bldg}	{32.782529893701096,-117.00733626706887,La Mesa,CA,United States}	{Medical Center,Professional & Other Places,}
+1238	Wed Aug 18 04:07:36 +0000 2010	4b76f644f964a520ef6e2ee3	{VONS}	{32.77879570652128,-116.95651173591612,El Cajon,CA,United States}	{Shop & Service,Food & Drink Shop,Professional & Other Places,}
+1238	Tue Aug 17 19:01:11 +0000 2010	4c0165caf7ab0f47400a16b6	{SportClips}	{32.77994683708828,-117.1285922467822,San Diego,CA,United States}	{Shop & Service,}
+1238	Tue Aug 17 00:15:56 +0000 2010	4b70a725f964a520b7272de3	{East County ASA - Melody Fields}	{32.79718650608942,-116.92270517349243,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Sat Aug 14 22:39:44 +0000 2010	4b15503df964a52030b023e3	{Qualcomm Stadium}	{32.78305325779114,-117.11960077285767,San Diego,CA,United States}	{Stadium,Arts & Entertainment,Professional & Other Places,}
+1238	Sat Aug 14 02:52:57 +0000 2010	4a78cac5f964a5206ce61fe3	{Pacific Beach Recreation Center}	{32.80037827551737,-117.24466698408325,San Diego,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Tue Aug 10 01:00:19 +0000 2010	4b75b1d3f964a5208e1d2ee3	{Little Ceasars}	{32.780130723337194,-116.95826053619385,El Cajon,CA,United States}	{Food,}
+1238	Mon Aug 09 15:46:27 +0000 2010	4bba680d53649c74f30049fb	{Petco NSC Annex 2 (Bldg 3)}	{32.88684911247772,-117.17069149017334,San Diego,CA,United States}	{Professional & Other Places,}
+1238	Sun Aug 08 21:16:57 +0000 2010	4b461325f964a520831526e3	{Chili's Grill & Bar}	{34.065951316593846,-117.27448615541702,San Bernardino,CA,United States}	{Food,}
+1238	Sat Aug 07 17:35:06 +0000 2010	4b15503df964a52030b023e3	{Qualcomm Stadium}	{32.78305325779114,-117.11960077285767,San Diego,CA,United States}	{Stadium,Arts & Entertainment,Professional & Other Places,}
+1238	Fri Aug 06 18:29:02 +0000 2010	4b6c7347f964a520233b2ce3	{Fresh MXN Food}	{32.879984,-117.16053725,San Diego,CA,United States}	{Food,}
+1238	Fri Aug 06 16:37:43 +0000 2010	4a896f57f964a520040820e3	{Petco NSC (Bldg 4)}	{32.889669035232075,-117.17180728912354,San Diego,CA,United States}	{Professional & Other Places,}
+1238	Wed Aug 04 00:16:05 +0000 2010	4b452414f964a520100626e3	{El Cajon Transit Center}	{32.79213223456682,-116.97612739123909,El Cajon,CA,United States}	{Travel & Transport,Bus Station,}
+1238	Sat Jul 31 00:58:56 +0000 2010	4a78cac5f964a5206ce61fe3	{Pacific Beach Recreation Center}	{32.80037827551737,-117.24466698408325,San Diego,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Fri Jul 30 18:15:14 +0000 2010	4b9a9745f964a5204bc435e3	{Abbey's Real Texas BBQ}	{32.87911864041276,-117.1671724319458,San Diego,CA,United States}	{Food,}
+1238	Wed Jul 28 18:36:28 +0000 2010	40e0b100f964a52054021fe3	{Karl Strauss Brewery & Restaurant}	{32.8964076564398,-117.20195531845093,San Diego,CA,United States}	{Nightlife Spot,}
+1238	Wed Jul 28 15:29:34 +0000 2010	4a896f57f964a520040820e3	{Petco NSC (Bldg 4)}	{32.889669035232075,-117.17180728912354,San Diego,CA,United States}	{Professional & Other Places,}
+1238	Tue Jul 27 18:29:19 +0000 2010	4bb63a5d46d4a59305e5c5c0	{Chick-fil-A}	{32.914145418578414,-117.14430361218582,San Diego,CA,United States}	{Food,}
+1238	Sun Jul 25 19:09:10 +0000 2010	4b942811f964a520b86b34e3	{American Recycling}	{32.794318199157715,-116.96895182132721,El Cajon,CA,United States}	{Shop & Service,}
+1238	Thu Jul 22 01:51:05 +0000 2010	4b717434f964a5207c472de3	{Denny's}	{32.80374096972975,-116.95077864919456,El Cajon,CA,United States}	{Food,}
+1238	Wed Jul 21 18:40:17 +0000 2010	4b3175f5f964a520500725e3	{AMPM}	{32.878044,-117.17201113700867,San Diego,CA,United States}	{Shop & Service,}
+1238	Wed Jul 21 00:51:17 +0000 2010	4b76f644f964a520ef6e2ee3	{VONS}	{32.77879570652128,-116.95651173591612,El Cajon,CA,United States}	{Shop & Service,Food & Drink Shop,Professional & Other Places,}
+1238	Tue Jul 20 06:10:42 +0000 2010	4c3a2f9f1e06d13a13e77a3e	{Commuter Terminal}	{32.730423927831126,-117.19162344932556,San Diego,CA,United States}	{Travel & Transport,Airport,}
+1238	Tue Jul 20 03:14:18 +0000 2010	4a94a45cf964a5203d2220e3	{On The Border Mexican Grill & Cantina}	{33.94125939447798,-118.40674996376038,Los Angeles,CA,United States}	{Food,}
+1238	Tue Jul 20 02:42:59 +0000 2010	4bdae1e763c5c9b6974e2568	{Terminal 4}	{33.940903363561276,-118.4067714214325,Los Angeles,CA,United States}	{Travel & Transport,Airport,}
+1238	Tue Jul 20 02:41:07 +0000 2010	4da4a867b521224bf06437ee	{LAX - Lufthansa Bradly Terminal}	{33.94375487087336,-118.40882252667424,Los Angeles,CA,United States}	{Travel & Transport,Airport,}
+1238	Tue Jul 20 01:58:52 +0000 2010	4be0f808d816c928bf0aefd9	{Terminal 3}	{33.94554944995206,-118.407222032547,Los Angeles,CA,United States}	{Travel & Transport,Airport,}
+1238	Mon Jul 19 19:34:11 +0000 2010	4bd4a91629eb9c74a41892e1	{Aeropuerto Internacional Ixtapa-Zihuatanejo (ZIH)}	{17.606331941841457,-101.46397590637207,San Jeronimito,GRO,Mexico}	{Travel & Transport,Airport,}
+1238	Sat Jul 17 16:24:12 +0000 2010	4bc8eb59762beee1e5b23d38	{Park Royal Ixtapa}	{17.66269032312106,-101.60712003707886,Ixtapa Zihuatanejo,Guerrero,Mexico}	{Travel & Transport,Hotel,}
+1238	Fri Jul 16 23:55:35 +0000 2010	4c40f0c5d7fad13a59d006da	{Se?or Frog's Ixtapa}	{17.661146632812915,-101.60185217857361,Ixtapa,Guerrero,Mexico}	{Nightlife Spot,Food,}
+1238	Fri Jul 16 23:32:38 +0000 2010	4bc8eb59762beee1e5b23d38	{Park Royal Ixtapa}	{17.66269032312106,-101.60712003707886,Ixtapa Zihuatanejo,Guerrero,Mexico}	{Travel & Transport,Hotel,}
+1238	Fri Jul 16 22:45:42 +0000 2010	4c293943ed0ac9b60d8161aa	{NH Krystal}	{17.662220061251027,-101.60546779632568,Ixtapa,Guerrero,Mexico}	{Travel & Transport,Hotel,}
+1238	Fri Jul 16 21:49:30 +0000 2010	4bd4a91629eb9c74a41892e1	{Aeropuerto Internacional Ixtapa-Zihuatanejo (ZIH)}	{17.606331941841457,-101.46397590637207,San Jeronimito,GRO,Mexico}	{Travel & Transport,Airport,}
+1238	Fri Jul 16 01:21:37 +0000 2010	4b883acbf964a52012e931e3	{El Pollo Loco}	{32.779565,-116.95761,El Cajon,CA,United States}	{Food,}
+1238	Thu Jul 15 01:51:20 +0000 2010	4c2be2b6b34ad13ab28deace	{Cajon Classic Cruise}	{32.794886736749035,-116.9610071182251,El Cajon,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+1238	Tue Jul 13 02:37:56 +0000 2010	4bb8fbc07421a593f559c240	{Bob's Big Boy}	{32.804599475277726,-116.96882843971252,El Cajon,CA,United States}	{Food,}
+1238	Mon Jul 12 00:07:06 +0000 2010	4b942811f964a520b86b34e3	{American Recycling}	{32.794318199157715,-116.96895182132721,El Cajon,CA,United States}	{Shop & Service,}
+1238	Sat Jul 10 02:01:06 +0000 2010	4a78cac5f964a5206ce61fe3	{Pacific Beach Recreation Center}	{32.80037827551737,-117.24466698408325,San Diego,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Sat Jul 10 00:52:41 +0000 2010	48465e4cf964a5206b501fe3	{SD Tap Room}	{32.798368569574514,-117.24664779376681,San Diego,CA,United States}	{Nightlife Spot,Food,}
+1238	Thu Jul 08 18:09:38 +0000 2010	4b7efba8f964a5202e0e30e3	{Pastalini Pasta Bar}	{32.88146849578638,-117.15856056404793,San Diego,CA,United States}	{Food,}
+1238	Thu Jul 08 00:09:03 +0000 2010	40db6b00f964a5207e011fe3	{Rick's Tavern On Main}	{33.9994815521144,-118.48061800003052,Santa Monica,CA,United States}	{Nightlife Spot,}
+1238	Wed Jul 07 18:25:04 +0000 2010	4adcf648f964a520f36221e3	{The Greek Cafe}	{32.893551912977415,-117.20362901687622,San Diego,CA,United States}	{Food,}
+1238	Sun Jul 04 22:39:00 +0000 2010	4b76f644f964a520ef6e2ee3	{VONS}	{32.77879570652128,-116.95651173591612,El Cajon,CA,United States}	{Shop & Service,Food & Drink Shop,Professional & Other Places,}
+1238	Sat Jul 03 03:38:17 +0000 2010	4a74cd46f964a520a7df1fe3	{BJ's Restaurant & Brewhouse}	{32.77996835749712,-117.01027393341064,La Mesa,CA,United States}	{Nightlife Spot,Food,}
+1238	Fri Jul 02 18:34:49 +0000 2010	4a555d3df964a52019b41fe3	{Burger Lounge}	{32.846959671252655,-117.27317333221436,La Jolla,CA,United States}	{Food,}
+1238	Tue Jun 29 18:26:11 +0000 2010	4bb63a5d46d4a59305e5c5c0	{Chick-fil-A}	{32.914145418578414,-117.14430361218582,San Diego,CA,United States}	{Food,}
+1238	Sun Jun 27 17:46:17 +0000 2010	4b634332f964a520536e2ae3	{Aunt Emma's Pancakes}	{32.68072552157621,-117.10903286933899,National City,CA,United States}	{Food,}
+1238	Sat Jun 26 05:24:07 +0000 2010	4a2592bcf964a5206a7e1fe3	{Cabo Cantina}	{32.79776297234054,-117.25082178407342,San Diego,CA,United States}	{Nightlife Spot,Food,Residence,}
+1238	Sat Jun 26 03:48:28 +0000 2010	4a78cac5f964a5206ce61fe3	{Pacific Beach Recreation Center}	{32.80037827551737,-117.24466698408325,San Diego,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Sat Jun 26 03:01:40 +0000 2010	48465e4cf964a5206b501fe3	{SD Tap Room}	{32.798368569574514,-117.24664779376681,San Diego,CA,United States}	{Nightlife Spot,Food,}
+1238	Fri Jun 25 20:06:26 +0000 2010	4b293df0f964a5208b9b24e3	{Bank of America}	{32.892781693379405,-117.20376610293243,San Diego,CA,United States}	{Shop & Service,}
+1238	Fri Jun 25 15:04:04 +0000 2010	4b27af79f964a520818824e3	{Kearny Mesa Infiniti}	{32.82578464066404,-117.15548178972774,San Diego,CA,United States}	{Shop & Service,}
+1238	Fri Jun 25 01:10:23 +0000 2010	4b4937f9f964a5206f6a26e3	{Shakey's Pizza Parlor}	{32.777584,-117.0104709,La Mesa,CA,United States}	{Food,}
+1238	Wed Jun 23 05:50:57 +0000 2010	4b6a7fd2f964a520f3d62be3	{Casa Moscoso}	{32.78859370840114,-116.95580666819636,El Cajon,CA,United States}	{Residence,}
+1238	Sun Jun 20 23:21:25 +0000 2010	4abbaf13f964a5205f8420e3	{Regal Parkway Plaza Stadium 18}	{32.80549223642987,-116.96770191192627,El Cajon,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1238	Sun Jun 20 21:12:15 +0000 2010	4b4a3457f964a520927e26e3	{Edwards Cinema}	{33.52518962338593,-117.15262413024902,Temecula,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1238	Sun Jun 20 15:31:13 +0000 2010	4bbe7b5b85fbb71392e77067	{Paloma Del Sol Park}	{33.485134,-117.09943854,Temecula,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Sun Jun 20 02:11:31 +0000 2010	4b773753f964a520ad882ee3	{Pechanga Resort and Casino}	{33.45559506542474,-117.10577130317688,Temecula,CA,United States}	{Nightlife Spot,Travel & Transport,Arts & Entertainment,Hotel,}
+1238	Sun Jun 20 00:14:22 +0000 2010	4b9d26fcf964a520579436e3	{Pechanga RV Resort}	{33.45228305412905,-117.10333585739136,Temecula,CA,United States}	{Travel & Transport,Hotel,}
+1238	Sat Jun 19 21:17:42 +0000 2010	4c1c6a598b3aa593ecef985f	{McFarland Home}	{33.515937853799855,-117.09705962767988,Temecula,CA,United States}	{Residence,}
+1238	Sat Jun 19 17:12:07 +0000 2010	4bf3521b98ac0f47e0d062a8	{Pechanga Sports Park}	{33.45361333333334,-117.09614485,Temecula,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Sat Jun 19 07:13:03 +0000 2010	4baaf6acf964a520da8f3ae3	{Aloha J's}	{33.5046616,-117.15146005153656,Temecula,CA,United States}	{Nightlife Spot,Food,}
+1238	Sat Jun 19 06:29:32 +0000 2010	4beb754df90e9c742f8ae3ed	{Tilted Kilt Pub & Eatery}	{33.52314828612024,-117.1578253385654,Temecula,CA,United States}	{Nightlife Spot,}
+1238	Fri Jun 18 18:43:09 +0000 2010	4bb63a5d46d4a59305e5c5c0	{Chick-fil-A}	{32.914145418578414,-117.14430361218582,San Diego,CA,United States}	{Food,}
+1238	Thu Jun 17 04:07:34 +0000 2010	4b6a7fd2f964a520f3d62be3	{Casa Moscoso}	{32.78859370840114,-116.95580666819636,El Cajon,CA,United States}	{Residence,}
+1238	Thu Jun 17 00:25:52 +0000 2010	4b92d8c9f964a520252134e3	{East County ASA - Magnolia}	{32.813571767919754,-116.95482730865479,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Wed Jun 16 21:04:41 +0000 2010	4c004b7192a6c92836ff43e2	{LEGOLAND Water Park}	{33.12882738720441,-117.31372833251953,Carlsbad,CA,United States}	{Arts & Entertainment,}
+1238	Tue Jun 15 17:12:43 +0000 2010	4a896f57f964a520040820e3	{Petco NSC (Bldg 4)}	{32.889669035232075,-117.17180728912354,San Diego,CA,United States}	{Professional & Other Places,}
+1238	Mon Jun 14 03:59:59 +0000 2010	4b9ec389f964a520faff36e3	{Starbucks}	{32.58480205392521,-117.06116629307017,San Diego,CA,United States}	{Food,}
+1238	Mon Jun 14 00:55:49 +0000 2010	4b6a7fd2f964a520f3d62be3	{Casa Moscoso}	{32.78859370840114,-116.95580666819636,El Cajon,CA,United States}	{Residence,}
+1238	Sun Jun 13 04:23:29 +0000 2010	4b130f51f964a520859323e3	{Barona Resort & Casino}	{32.9390706832895,-116.87461853027344,Lakeside,CA,United States}	{Travel & Transport,Outdoors & Recreation,Arts & Entertainment,Athletics & Sports,}
+1238	Sun Jun 13 03:53:18 +0000 2010	4b6a7fd2f964a520f3d62be3	{Casa Moscoso}	{32.78859370840114,-116.95580666819636,El Cajon,CA,United States}	{Residence,}
+1238	Fri Jun 11 19:04:14 +0000 2010	4b6c7347f964a520233b2ce3	{Fresh MXN Food}	{32.879984,-117.16053725,San Diego,CA,United States}	{Food,}
+1238	Fri Jun 11 01:28:36 +0000 2010	4b512771f964a5200c4527e3	{Black Angus}	{32.80902015,-116.96096,El Cajon,CA,United States}	{Food,}
+1238	Thu Jun 10 05:19:01 +0000 2010	4b3bde59f964a5200a7d25e3	{CVS/pharmacy}	{32.78108179,-116.95707724,El Cajon,CA,United States}	{Shop & Service,}
+1238	Sun Jun 06 00:53:49 +0000 2010	4ba30132f964a5205e2738e3	{Ramona High School}	{33.02622403703197,-116.86912536621094,Ramona,CA,United States}	{School,Professional & Other Places,}
+1238	Sat Jun 05 00:20:36 +0000 2010	4ba7f716f964a5207cc239e3	{Ramona Girls Softball}	{33.04851559266166,-116.8637915910728,Ramona,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Fri Jun 04 01:10:53 +0000 2010	45933bd9f964a52042401fe3	{Fashion Valley Mall}	{32.76831332445334,-117.16644287109375,San Diego,CA,United States}	{Outdoors & Recreation,Shop & Service,Food & Drink Shop,}
+1238	Thu Jun 03 04:21:24 +0000 2010	4c072d822e80a593c75775f9	{O'Reilly Auto Parts}	{32.79465931,-116.95084691047668,El Cajon,CA,United States}	{Shop & Service,}
+1238	Thu Jun 03 01:56:26 +0000 2010	4a78494ff964a52058e51fe3	{Chipotle Mexican Grill}	{32.773675,-117.026836,La Mesa,CA,United States}	{Food,}
+1238	Wed Jun 02 14:40:31 +0000 2010	4b951a31f964a520388f34e3	{AMPM}	{32.80219409250781,-116.95092814032506,El Cajon,CA,United States}	{Shop & Service,}
+1238	Wed Jun 02 03:04:37 +0000 2010	49dbc4c5f964a520fe5e1fe3	{Edwards Mira Mesa Stadium 18 & IMAX}	{32.91516138679882,-117.11787343025208,San Diego,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1238	Wed Jun 02 02:19:18 +0000 2010	4a627585f964a52022c41fe3	{On The Border Mexican Grill & Cantina}	{32.91675889127926,-117.12013001627722,San Diego,CA,United States}	{Nightlife Spot,Food,}
+1238	Mon May 31 17:54:43 +0000 2010	4c0157d6b0702d7fbe126378	{Canyonside Community Park}	{32.941699861217685,-117.1324110031128,San Diego,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Sun May 30 18:43:29 +0000 2010	4c004e9792a6c928020544e2	{Lakeside ASA Fields}	{32.871081117742854,-116.91682577133179,Lakeside,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Sat May 29 00:48:22 +0000 2010	4c004e9792a6c928020544e2	{Lakeside ASA Fields}	{32.871081117742854,-116.91682577133179,Lakeside,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Thu May 27 18:28:25 +0000 2010	4afdbeaff964a520752a22e3	{Taco Bell}	{32.91252845,-117.14255326,San Diego,CA,United States}	{Food,}
+1238	Thu May 27 18:19:01 +0000 2010	4bb63a5d46d4a59305e5c5c0	{Chick-fil-A}	{32.914145418578414,-117.14430361218582,San Diego,CA,United States}	{Food,}
+1238	Thu May 27 03:11:18 +0000 2010	4a9f2aaef964a520c53c20e3	{Marieta's La Mesa}	{32.77488847372541,-117.0042495016902,La Mesa,CA,United States}	{Food,}
+1238	Tue May 25 21:37:56 +0000 2010	4bfc42f6e9d8c9287c44b2c7	{US Post Office}	{32.713965656509494,-116.87153938749768,Jamul,CA,United States}	{Professional & Other Places,}
+1238	Tue May 25 18:47:30 +0000 2010	4b858fc6f964a5208d6531e3	{Pioneer Chicken}	{33.965933,-118.152025,Bell Gardens,CA,United States}	{Food,}
+1238	Tue May 25 17:49:35 +0000 2010	4b3cfb6df964a520138b25e3	{Los Angeles County Registrar-Recorder / County Clerk}	{33.916623351277906,-118.06791117800262,Norwalk,CA,United States}	{Government Building,Professional & Other Places,}
+1238	Mon May 24 14:53:18 +0000 2010	4b452414f964a520100626e3	{El Cajon Transit Center}	{32.79213223456682,-116.97612739123909,El Cajon,CA,United States}	{Travel & Transport,Bus Station,}
+1238	Sun May 23 06:00:17 +0000 2010	4b6e5f93f964a520aeba2ce3	{Hearth House}	{32.77903497219086,-117.01817638,La Mesa,CA,United States}	{Nightlife Spot,}
+1238	Fri May 21 19:28:03 +0000 2010	4bdf4d21ffdec928dd76eba1	{Lena's Barber & Beauty}	{32.745424,-117.19968,San Diego,CA,United States}	{Shop & Service,}
+1238	Tue May 18 19:20:58 +0000 2010	4b22b030f964a520d44b24e3	{El Pollo Loco}	{32.9117211319655,-117.14440126591118,San Diego,CA,United States}	{Food,}
+1238	Sat May 15 16:43:37 +0000 2010	4b91c2ccf964a52071d533e3	{McDonald's}	{32.797393933340814,-116.93516135215758,El Cajon,CA,United States}	{Food,}
+1238	Fri May 14 18:40:38 +0000 2010	4b66453cf964a5208c1b2be3	{Petco}	{32.91499026120532,-117.14572548866272,San Diego,CA,United States}	{Shop & Service,}
+1238	Fri May 14 01:55:02 +0000 2010	4bd255a877b29c7472a38e82	{AMPM}	{32.81878119507087,-116.9627606047622,El Cajon,CA,United States}	{Shop & Service,}
+1238	Fri May 14 00:42:29 +0000 2010	4b8ef133f964a520104033e3	{St. John of the Cross}	{32.74421015,-117.023288,Lemon Grove,CA,United States}	{Spiritual Center,Professional & Other Places,}
+1238	Fri May 14 00:42:29 +0000 2010	4b8ef133f964a520104033e3	{St. John of the Cross}	{32.74421015,-117.023288,Lemon Grove,CA,United States}	{Spiritual Center,Professional & Other Places,}
+1238	Wed May 12 18:11:29 +0000 2010	4b3ebac4f964a52081a125e3	{Burger King}	{32.906883,-117.173036,San Diego,CA,United States}	{Food,}
+1238	Wed May 12 06:22:14 +0000 2010	4b76f644f964a520ef6e2ee3	{VONS}	{32.77879570652128,-116.95651173591612,El Cajon,CA,United States}	{Shop & Service,Food & Drink Shop,Professional & Other Places,}
+1238	Sun May 09 16:19:55 +0000 2010	4b6ef4bef964a5201bd32ce3	{Our Lady of Guadalupe Church}	{32.70402086420869,-117.14562356472015,San Diego,CA,United States}	{Spiritual Center,Professional & Other Places,}
+1238	Sat May 08 02:29:17 +0000 2010	4ade5d57f964a520597521e3	{Parkway Bowl}	{32.808233588370584,-116.97791576385498,El Cajon,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+1238	Fri May 07 00:29:12 +0000 2010	4b8ef133f964a520104033e3	{St. John of the Cross}	{32.74421015,-117.023288,Lemon Grove,CA,United States}	{Spiritual Center,Professional & Other Places,}
+1238	Wed May 05 21:48:52 +0000 2010	4a896f57f964a520040820e3	{Petco NSC (Bldg 4)}	{32.889669035232075,-117.17180728912354,San Diego,CA,United States}	{Professional & Other Places,}
+1238	Tue May 04 01:05:30 +0000 2010	4ace9f98f964a5207bd120e3	{Chuck E. Cheese's}	{32.77721744276525,-117.01441783703872,La Mesa,CA,United States}	{Food,Arts & Entertainment,}
+1238	Sat May 01 20:42:38 +0000 2010	4b3bde59f964a5200a7d25e3	{CVS/pharmacy}	{32.78108179,-116.95707724,El Cajon,CA,United States}	{Shop & Service,}
+1238	Sat May 01 16:03:29 +0000 2010	4b70a725f964a520b7272de3	{East County ASA - Melody Fields}	{32.79718650608942,-116.92270517349243,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Sat May 01 16:03:29 +0000 2010	4b70a725f964a520b7272de3	{East County ASA - Melody Fields}	{32.79718650608942,-116.92270517349243,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Sat May 01 05:46:31 +0000 2010	4b8310f7f964a52090f530e3	{7-Eleven}	{32.76954948404198,-116.92847152726087,El Cajon,CA,United States}	{Shop & Service,}
+1238	Fri Apr 30 23:42:07 +0000 2010	4b92d8c9f964a520252134e3	{East County ASA - Magnolia}	{32.813571767919754,-116.95482730865479,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Fri Apr 30 00:40:31 +0000 2010	4b70a725f964a520b7272de3	{East County ASA - Melody Fields}	{32.79718650608942,-116.92270517349243,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Tue Apr 27 15:12:12 +0000 2010	4b6c76d5f964a520333c2ce3	{Our Lady's School - North Campus}	{32.70642836849769,-117.14234478353308,San Diego,CA,United States}	{Professional & Other Places,}
+1238	Mon Apr 26 23:27:36 +0000 2010	4b70a725f964a520b7272de3	{East County ASA - Melody Fields}	{32.79718650608942,-116.92270517349243,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Sun Apr 25 03:53:55 +0000 2010	4ab572f0f964a520ab7420e3	{El Fandango Restaurant}	{32.7548058,-117.1970385,San Diego,CA,United States}	{Food,}
+1238	Sun Apr 25 03:47:02 +0000 2010	4a9043d5f964a520e61620e3	{Old Town San Diego State Historic Park}	{32.75439045540361,-117.19707578708606,San Diego,CA,United States}	{Outdoors & Recreation,Museum,Arts & Entertainment,}
+1238	Sun Apr 25 03:29:39 +0000 2010	4b81b60af964a52040b930e3	{El Campo Santo Cemetery}	{32.75159012065534,-117.19343478451219,San Diego,CA,United States}	{Outdoors & Recreation,}
+1238	Sun Apr 25 03:19:32 +0000 2010	4abe3a84f964a5201c8c20e3	{The Whaley House Museum}	{32.75273302273905,-117.19454317232032,San Diego,CA,United States}	{Museum,Arts & Entertainment,}
+1238	Sun Apr 25 02:33:27 +0000 2010	4bcd228f937ca5930c78ac92	{Giant Dipper Rollercoaster}	{32.77135352278477,-117.25162982940674,San Diego,CA,United States}	{Arts & Entertainment,}
+1238	Sun Apr 25 01:36:53 +0000 2010	4527b30cf964a520073b1fe3	{WaveHouse Beach Club}	{32.771005642629945,-117.2526647426465,San Diego,CA,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+1238	Sun Apr 25 01:17:24 +0000 2010	4bbd018ca0a0c9b6631a1b0f	{Mission Beach Boardwalk}	{32.771921856945994,-117.25291728973389,San Diego,CA,United States}	{Outdoors & Recreation,}
+1238	Sun Apr 25 00:51:50 +0000 2010	4bd391eeb221c9b6a823dad0	{Speedway Bumpercars}	{32.77047,-117.2519,San Diego,CA,United States}	{Arts & Entertainment,}
+1238	Sun Apr 25 00:44:11 +0000 2010	4bd390519854d13ab129fe4d	{The Crazy Sumbarine}	{32.770787,-117.25186049938202,San Diego,CA,United States}	{Arts & Entertainment,}
+1238	Sun Apr 25 00:37:17 +0000 2010	4bd38e50046076b0cd6c7671	{Liberty Carousel (Belmont Park)}	{32.77112799234993,-117.25190877914429,San Diego,CA,United States}	{Arts & Entertainment,}
+1238	Sun Apr 25 00:12:14 +0000 2010	4bd386e4b221c9b67006dad0	{Patio Grill}	{32.77067692976577,-117.25201606750488,San Diego,CA,United States}	{Food,}
+1238	Sun Apr 25 00:07:03 +0000 2010	46dee6e9f964a5209b4a1fe3	{Belmont Park}	{32.77009956632245,-117.2519302368164,San Diego,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+1238	Sat Apr 24 19:36:55 +0000 2010	4b92d8c9f964a520252134e3	{East County ASA - Magnolia}	{32.813571767919754,-116.95482730865479,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Sat Apr 24 17:45:23 +0000 2010	4b70a725f964a520b7272de3	{East County ASA - Melody Fields}	{32.79718650608942,-116.92270517349243,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Sat Apr 24 17:12:48 +0000 2010	4b91c2ccf964a52071d533e3	{McDonald's}	{32.797393933340814,-116.93516135215758,El Cajon,CA,United States}	{Food,}
+1238	Thu Apr 22 02:40:47 +0000 2010	4b7749bef964a5201d8f2ee3	{Petco}	{32.80110441505703,-116.93670876410425,El Cajon,CA,United States}	{Shop & Service,}
+1238	Thu Apr 22 01:18:00 +0000 2010	4bcfa375046076b0deca6e71	{Carl's Jr.}	{32.800656786133814,-116.93619125981293,El Cajon,CA,United States}	{Food,}
+1238	Wed Apr 21 15:29:35 +0000 2010	4b17f4f9f964a52039ca23e3	{Starbucks}	{32.879082599336854,-117.16468870639801,San Diego,CA,United States}	{Food,}
+1238	Tue Apr 20 19:57:40 +0000 2010	4a896f57f964a520040820e3	{Petco NSC (Bldg 4)}	{32.889669035232075,-117.17180728912354,San Diego,CA,United States}	{Professional & Other Places,}
+1238	Tue Apr 20 19:32:46 +0000 2010	4b6c7347f964a520233b2ce3	{Fresh MXN Food}	{32.879984,-117.16053725,San Diego,CA,United States}	{Food,}
+1238	Tue Apr 20 19:32:46 +0000 2010	4b6c7347f964a520233b2ce3	{Fresh MXN Food}	{32.879984,-117.16053725,San Diego,CA,United States}	{Food,}
+1238	Mon Apr 19 17:16:04 +0000 2010	4a896f57f964a520040820e3	{Petco NSC (Bldg 4)}	{32.889669035232075,-117.17180728912354,San Diego,CA,United States}	{Professional & Other Places,}
+1238	Mon Apr 19 03:00:22 +0000 2010	4b6cf4fbf964a52024602ce3	{Domino's Pizza Team Washington/El Cajon South}	{32.78800511089858,-116.94425135850906,El Cajon,CA,United States}	{Food,}
+1238	Sun Apr 18 05:08:20 +0000 2010	4a8223abf964a520b7f81fe3	{Hennessey's Tavern Gaslamp}	{32.712777618191524,-117.16118574142456,San Diego,CA,United States}	{Nightlife Spot,Food,}
+1238	Sat Apr 17 21:39:05 +0000 2010	4b52411af964a520f67227e3	{Fred's Old Fashioned Burgers}	{32.800047397613525,-116.936517,El Cajon,CA,United States}	{Food,}
+1238	Sat Apr 17 19:40:08 +0000 2010	4b92d8c9f964a520252134e3	{East County ASA - Magnolia}	{32.813571767919754,-116.95482730865479,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Sat Apr 17 18:18:52 +0000 2010	4b70a725f964a520b7272de3	{East County ASA - Melody Fields}	{32.79718650608942,-116.92270517349243,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Sat Apr 17 03:34:54 +0000 2010	4ade5d57f964a520597521e3	{Parkway Bowl}	{32.808233588370584,-116.97791576385498,El Cajon,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+1238	Sat Apr 17 03:34:53 +0000 2010	4ade5d57f964a520597521e3	{Parkway Bowl}	{32.808233588370584,-116.97791576385498,El Cajon,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+1238	Sat Apr 17 01:25:29 +0000 2010	4a84c568f964a52092fd1fe3	{Costco}	{32.77402507946066,-117.02428105477358,La Mesa,CA,United States}	{Shop & Service,}
+1238	Fri Apr 16 15:23:31 +0000 2010	4b17f4f9f964a52039ca23e3	{Starbucks}	{32.879082599336854,-117.16468870639801,San Diego,CA,United States}	{Food,}
+1238	Fri Apr 16 15:19:40 +0000 2010	4b6c7347f964a520233b2ce3	{Fresh MXN Food}	{32.879984,-117.16053725,San Diego,CA,United States}	{Food,}
+1238	Thu Apr 15 03:57:44 +0000 2010	4aec6b8bf964a520e2c621e3	{Best Buy}	{32.80606937,-116.963582,El Cajon,CA,United States}	{Shop & Service,}
+1238	Mon Apr 12 19:24:06 +0000 2010	4a896f57f964a520040820e3	{Petco NSC (Bldg 4)}	{32.889669035232075,-117.17180728912354,San Diego,CA,United States}	{Professional & Other Places,}
+1238	Sat Apr 10 16:02:17 +0000 2010	4b70a725f964a520b7272de3	{East County ASA - Melody Fields}	{32.79718650608942,-116.92270517349243,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Sat Apr 10 01:28:00 +0000 2010	4ade5d57f964a520597521e3	{Parkway Bowl}	{32.808233588370584,-116.97791576385498,El Cajon,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+1238	Fri Apr 09 18:07:12 +0000 2010	4b2ad0f0f964a5202eb024e3	{San Diego County Credit Union}	{32.90665033,-117.17362582683563,San Diego,CA,United States}	{Shop & Service,}
+1238	Tue Apr 06 21:23:37 +0000 2010	4b3e6e98f964a5200c9d25e3	{Harry Griffen Park}	{32.784654753923505,-116.98713064161645,La Mesa,CA,United States}	{Outdoors & Recreation,}
+1238	Tue Apr 06 02:01:20 +0000 2010	4cf3aa19c9af6dcb9554a77f	{Kennedy Park & Community Center}	{32.79827774837968,-116.91925048828124,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Tue Apr 06 02:01:20 +0000 2010	4cf3aa19c9af6dcb9554a77f	{Kennedy Park & Community Center}	{32.79827774837968,-116.91925048828124,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Sun Apr 04 16:21:14 +0000 2010	4b916531f964a520ebb833e3	{Our Lady's School - South Campus}	{32.70376807916626,-117.14511394500732,San Diego,CA,United States}	{Professional & Other Places,}
+1238	Sat Apr 03 00:40:43 +0000 2010	4b6a7fd2f964a520f3d62be3	{Casa Moscoso}	{32.78859370840114,-116.95580666819636,El Cajon,CA,United States}	{Residence,}
+1238	Thu Apr 01 00:32:45 +0000 2010	4ba66d16f964a520415139e3	{Sprint}	{32.742029775122376,-117.05602169036865,San Diego,CA,United States}	{Shop & Service,}
+1238	Wed Mar 31 15:09:55 +0000 2010	4bb0be84f964a52027593ce3	{Chevron}	{32.80400931,-116.95123314857483,El Cajon,CA,United States}	{Shop & Service,}
+1238	Tue Mar 30 01:42:22 +0000 2010	4b75b1d3f964a5208e1d2ee3	{Little Ceasars}	{32.780130723337194,-116.95826053619385,El Cajon,CA,United States}	{Food,}
+1238	Mon Mar 29 23:14:30 +0000 2010	4b6a7fd2f964a520f3d62be3	{Casa Moscoso}	{32.78859370840114,-116.95580666819636,El Cajon,CA,United States}	{Residence,}
+1238	Mon Mar 29 18:18:15 +0000 2010	4a860d2cf964a520390020e3	{Panda Express}	{32.912829,-117.148386,San Diego,CA,United States}	{Food,}
+1238	Sun Mar 28 23:21:11 +0000 2010	4ba66d16f964a520415139e3	{Sprint}	{32.742029775122376,-117.05602169036865,San Diego,CA,United States}	{Shop & Service,}
+1238	Sun Mar 28 22:22:11 +0000 2010	4b2d43e4f964a520a6d224e3	{Target}	{32.74135087831558,-117.05556898351252,San Diego,CA,United States}	{Shop & Service,}
+1238	Sun Mar 28 22:08:45 +0000 2010	4ba66d16f964a520415139e3	{Sprint}	{32.742029775122376,-117.05602169036865,San Diego,CA,United States}	{Shop & Service,}
+1238	Sat Mar 27 16:20:44 +0000 2010	4ba52b15f964a520dee638e3	{Alpine ASA - Otto Field}	{32.838759589578835,-116.77633795108305,Alpine,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Sat Mar 27 00:01:49 +0000 2010	4b92d8c9f964a520252134e3	{East County ASA - Magnolia}	{32.813571767919754,-116.95482730865479,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Fri Mar 26 20:05:40 +0000 2010	4ac27abef964a520529920e3	{Rubio's}	{32.890856383333336,-117.20168173313141,San Diego,CA,United States}	{Food,}
+1238	Fri Mar 26 01:33:52 +0000 2010	4b70a725f964a520b7272de3	{East County ASA - Melody Fields}	{32.79718650608942,-116.92270517349243,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Thu Mar 25 19:29:12 +0000 2010	4b293df0f964a5208b9b24e3	{Bank of America}	{32.892781693379405,-117.20376610293243,San Diego,CA,United States}	{Shop & Service,}
+1238	Wed Mar 24 18:46:59 +0000 2010	49dc6f07f964a5208b5f1fe3	{Applebee's Neighborhood Grill & Bar}	{32.9179705,-117.120939,San Diego,CA,United States}	{Food,}
+1238	Sun Mar 21 00:09:33 +0000 2010	4b6a7fd2f964a520f3d62be3	{Casa Moscoso}	{32.78859370840114,-116.95580666819636,El Cajon,CA,United States}	{Residence,}
+1238	Sat Mar 20 20:02:26 +0000 2010	4ba52744f964a520bae438e3	{Love's Travel Stop}	{34.8569704096222,-117.0918626180034,Barstow,CA,United States}	{Travel & Transport,Shop & Service,Food,}
+1238	Sat Mar 20 16:57:35 +0000 2010	4ba4fe1ff964a52067cd38e3	{Shell}	{35.14385613333334,-114.5802515745163,Laughlin,NV,United States}	{Shop & Service,}
+1238	Sat Mar 20 06:18:05 +0000 2010	4ba43dcbf964a5203a8f38e3	{River Palms Resort Hotel & Casino}	{35.150336839802314,-114.5749568939209,Laughlinn,NV,United States}	{Travel & Transport,Arts & Entertainment,}
+1238	Sat Mar 20 03:16:09 +0000 2010	4ba43dcbf964a5203a8f38e3	{River Palms Resort Hotel & Casino}	{35.150336839802314,-114.5749568939209,Laughlinn,NV,United States}	{Travel & Transport,Arts & Entertainment,}
+1238	Sat Mar 20 03:05:39 +0000 2010	4b357764f964a520582d25e3	{Harrah's Laughlin}	{35.14487463792894,-114.57678229326876,Laughlin,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+1238	Thu Mar 18 23:00:16 +0000 2010	4ba2b055f964a520601038e3	{Soda Lake}	{35.16519,-116.07142,Baker,CA,United States}	{Outdoors & Recreation,}
+1238	Thu Mar 18 14:23:03 +0000 2010	4ba23727f964a52064e437e3	{Shell}	{34.42705383506029,-117.37714855235954,Hesperia,CA,United States}	{Shop & Service,}
+1238	Wed Mar 17 00:09:14 +0000 2010	4b905e78f964a5208a8633e3	{East County ASA - CVM Fields}	{32.7986622,-116.95385168,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Wed Mar 17 00:07:52 +0000 2010	4b9db8a6f964a520dbbb36e3	{Valley Mufler}	{32.79465,-116.96878,El Cajon,CA,United States}	{Shop & Service,}
+1238	Tue Mar 16 14:36:18 +0000 2010	4b951a31f964a520388f34e3	{AMPM}	{32.80219409250781,-116.95092814032506,El Cajon,CA,United States}	{Shop & Service,}
+1238	Tue Mar 16 03:41:38 +0000 2010	4b9efdc8f964a520ca0e37e3	{Baskin-Robbins}	{32.7983048038035,-116.93599820137024,El Cajon,CA,United States}	{Food,}
+1238	Tue Mar 16 00:25:51 +0000 2010	4b70a725f964a520b7272de3	{East County ASA - Melody Fields}	{32.79718650608942,-116.92270517349243,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Sat Mar 13 03:11:05 +0000 2010	4b70a725f964a520b7272de3	{East County ASA - Melody Fields}	{32.79718650608942,-116.92270517349243,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Mon Mar 08 20:05:05 +0000 2010	4a896f57f964a520040820e3	{Petco NSC (Bldg 4)}	{32.889669035232075,-117.17180728912354,San Diego,CA,United States}	{Professional & Other Places,}
+1238	Mon Mar 08 19:32:10 +0000 2010	4b3ebac4f964a52081a125e3	{Burger King}	{32.906883,-117.173036,San Diego,CA,United States}	{Food,}
+1238	Mon Mar 08 19:22:29 +0000 2010	4b66453cf964a5208c1b2be3	{Petco}	{32.91499026120532,-117.14572548866272,San Diego,CA,United States}	{Shop & Service,}
+1238	Mon Mar 08 19:22:28 +0000 2010	4b66453cf964a5208c1b2be3	{Petco}	{32.91499026120532,-117.14572548866272,San Diego,CA,United States}	{Shop & Service,}
+1238	Mon Mar 08 16:44:32 +0000 2010	4a896f57f964a520040820e3	{Petco NSC (Bldg 4)}	{32.889669035232075,-117.17180728912354,San Diego,CA,United States}	{Professional & Other Places,}
+1238	Mon Mar 08 15:39:58 +0000 2010	4b951a31f964a520388f34e3	{AMPM}	{32.80219409250781,-116.95092814032506,El Cajon,CA,United States}	{Shop & Service,}
+1238	Sun Mar 07 22:27:04 +0000 2010	4b942811f964a520b86b34e3	{American Recycling}	{32.794318199157715,-116.96895182132721,El Cajon,CA,United States}	{Shop & Service,}
+1238	Sun Mar 07 21:16:52 +0000 2010	4cc3e172dba3ef3bfc240705	{IHOP}	{32.8023881,-116.93670715,El Cajon,CA,United States}	{Food,}
+1238	Sun Mar 07 20:10:10 +0000 2010	4b9407acf964a520956234e3	{Madison Avenue Elementary}	{32.800025552958054,-116.92152236644671,El Cajon,CA,United States}	{Professional & Other Places,}
+1238	Sun Mar 07 05:45:21 +0000 2010	4b883acbf964a52012e931e3	{El Pollo Loco}	{32.779565,-116.95761,El Cajon,CA,United States}	{Food,}
+1238	Sat Mar 06 22:38:15 +0000 2010	4b92d8c9f964a520252134e3	{East County ASA - Magnolia}	{32.813571767919754,-116.95482730865479,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Sat Mar 06 22:19:05 +0000 2010	4b70a725f964a520b7272de3	{East County ASA - Melody Fields}	{32.79718650608942,-116.92270517349243,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Sat Mar 06 08:30:04 +0000 2010	4b6a7fd2f964a520f3d62be3	{Casa Moscoso}	{32.78859370840114,-116.95580666819636,El Cajon,CA,United States}	{Residence,}
+1238	Sat Mar 06 03:38:41 +0000 2010	4b45e396f964a520c61126e3	{AMPM}	{32.780633,-116.9575072,El Cajon,CA,United States}	{Shop & Service,}
+1238	Sat Mar 06 03:36:39 +0000 2010	4b76f644f964a520ef6e2ee3	{VONS}	{32.77879570652128,-116.95651173591612,El Cajon,CA,United States}	{Shop & Service,Food & Drink Shop,Professional & Other Places,}
+1238	Sat Mar 06 01:22:56 +0000 2010	4b70a725f964a520b7272de3	{East County ASA - Melody Fields}	{32.79718650608942,-116.92270517349243,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Fri Mar 05 20:04:59 +0000 2010	4ac27abef964a520529920e3	{Rubio's}	{32.890856383333336,-117.20168173313141,San Diego,CA,United States}	{Food,}
+1238	Fri Mar 05 18:41:16 +0000 2010	4a896f57f964a520040820e3	{Petco NSC (Bldg 4)}	{32.889669035232075,-117.17180728912354,San Diego,CA,United States}	{Professional & Other Places,}
+1238	Fri Mar 05 01:52:19 +0000 2010	4b905e78f964a5208a8633e3	{East County ASA - CVM Fields}	{32.7986622,-116.95385168,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Thu Mar 04 18:57:46 +0000 2010	4b90028ff964a520e06f33e3	{Taco Bell}	{32.956953403063984,-117.04652667045593,Poway,CA,United States}	{Food,}
+1238	Thu Mar 04 16:38:10 +0000 2010	4a896f57f964a520040820e3	{Petco NSC (Bldg 4)}	{32.889669035232075,-117.17180728912354,San Diego,CA,United States}	{Professional & Other Places,}
+1238	Thu Mar 04 03:27:24 +0000 2010	4abd4a68f964a5207b8920e3	{Target}	{32.80914434777052,-116.95903301239014,El Cajon,CA,United States}	{Shop & Service,}
+1238	Thu Mar 04 02:20:28 +0000 2010	4b52411af964a520f67227e3	{Fred's Old Fashioned Burgers}	{32.800047397613525,-116.936517,El Cajon,CA,United States}	{Food,}
+1238	Wed Mar 03 23:29:22 +0000 2010	4a896f57f964a520040820e3	{Petco NSC (Bldg 4)}	{32.889669035232075,-117.17180728912354,San Diego,CA,United States}	{Professional & Other Places,}
+1238	Wed Mar 03 07:40:40 +0000 2010	4b76f644f964a520ef6e2ee3	{VONS}	{32.77879570652128,-116.95651173591612,El Cajon,CA,United States}	{Shop & Service,Food & Drink Shop,Professional & Other Places,}
+1238	Wed Mar 03 07:31:50 +0000 2010	4b6ae18ff964a52008e52be3	{76 Gas Station}	{32.78787008,-116.97422504425049,El Cajon,CA,United States}	{Shop & Service,}
+1238	Wed Mar 03 07:31:49 +0000 2010	4b6ae18ff964a52008e52be3	{76 Gas Station}	{32.78787008,-116.97422504425049,El Cajon,CA,United States}	{Shop & Service,}
+1238	Tue Mar 02 03:05:56 +0000 2010	4cf3aa19c9af6dcb9554a77f	{Kennedy Park & Community Center}	{32.79827774837968,-116.91925048828124,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Mon Mar 01 23:22:57 +0000 2010	4a896f57f964a520040820e3	{Petco NSC (Bldg 4)}	{32.889669035232075,-117.17180728912354,San Diego,CA,United States}	{Professional & Other Places,}
+1238	Sun Feb 28 21:32:54 +0000 2010	4b70a725f964a520b7272de3	{East County ASA - Melody Fields}	{32.79718650608942,-116.92270517349243,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Sat Feb 27 03:33:56 +0000 2010	4b70a725f964a520b7272de3	{East County ASA - Melody Fields}	{32.79718650608942,-116.92270517349243,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Thu Feb 25 20:22:36 +0000 2010	4b48c838f964a520bc5626e3	{Dixieline Classic Collections}	{32.88232503333333,-117.15666,San Diego,CA,United States}	{Shop & Service,}
+1238	Thu Feb 25 18:02:07 +0000 2010	4a896f57f964a520040820e3	{Petco NSC (Bldg 4)}	{32.889669035232075,-117.17180728912354,San Diego,CA,United States}	{Professional & Other Places,}
+1238	Mon Feb 22 23:59:38 +0000 2010	4b70a725f964a520b7272de3	{East County ASA - Melody Fields}	{32.79718650608942,-116.92270517349243,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Sat Feb 20 03:29:08 +0000 2010	4ade5d57f964a520597521e3	{Parkway Bowl}	{32.808233588370584,-116.97791576385498,El Cajon,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+1238	Thu Feb 18 02:49:39 +0000 2010	4b6880faf964a5208b7c2be3	{Long John Silver's}	{32.80806,-116.9648426771164,El Cajon,CA,United States}	{Food,}
+1238	Wed Feb 17 15:52:35 +0000 2010	4b6c76d5f964a520333c2ce3	{Our Lady's School - North Campus}	{32.70642836849769,-117.14234478353308,San Diego,CA,United States}	{Professional & Other Places,}
+1238	Tue Feb 16 19:59:40 +0000 2010	4a896f57f964a520040820e3	{Petco NSC (Bldg 4)}	{32.889669035232075,-117.17180728912354,San Diego,CA,United States}	{Professional & Other Places,}
+1238	Tue Feb 16 15:55:07 +0000 2010	4b6c76d5f964a520333c2ce3	{Our Lady's School - North Campus}	{32.70642836849769,-117.14234478353308,San Diego,CA,United States}	{Professional & Other Places,}
+1238	Sun Feb 14 05:03:13 +0000 2010	4b70ab20f964a520a2282de3	{Mama & Papa's (Lety & Willie)}	{32.816756481505564,-117.01467361980383,San Diego,CA,United States}	{Residence,}
+1238	Sat Feb 13 19:07:28 +0000 2010	4b70a725f964a520b7272de3	{East County ASA - Melody Fields}	{32.79718650608942,-116.92270517349243,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Sat Feb 13 15:58:47 +0000 2010	4ae09b04f964a520db8021e3	{Walmart}	{32.77750577259768,-117.00935125350952,La Mesa,CA,United States}	{Shop & Service,}
+1238	Sat Feb 13 06:52:00 +0000 2010	4b6a7fd2f964a520f3d62be3	{Casa Moscoso}	{32.78859370840114,-116.95580666819636,El Cajon,CA,United States}	{Residence,}
+1238	Sat Feb 13 04:17:02 +0000 2010	4bd63a186f649521599d70ec	{Taco Bell}	{32.802150124913894,-117.00432422838836,El Cajon,CA,United States}	{Food,}
+1238	Sat Feb 13 03:06:31 +0000 2010	4b70a725f964a520b7272de3	{East County ASA - Melody Fields}	{32.79718650608942,-116.92270517349243,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Sat Feb 13 03:06:31 +0000 2010	4b70a725f964a520b7272de3	{East County ASA - Melody Fields}	{32.79718650608942,-116.92270517349243,El Cajon,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1238	Sat Feb 13 01:28:27 +0000 2010	4b70ab20f964a520a2282de3	{Mama & Papa's (Lety & Willie)}	{32.816756481505564,-117.01467361980383,San Diego,CA,United States}	{Residence,}
+1238	Fri Feb 12 20:42:53 +0000 2010	4b66453cf964a5208c1b2be3	{Petco}	{32.91499026120532,-117.14572548866272,San Diego,CA,United States}	{Shop & Service,}
+1238	Fri Feb 12 19:25:19 +0000 2010	4b411bd6f964a5204dc125e3	{Fresh MXN Food}	{32.916779965515744,-117.12656433047296,San Diego,CA,United States}	{Food,}
+1238	Tue Feb 09 19:04:52 +0000 2010	4b6c7d03f964a520283e2ce3	{Denny's}	{32.87867353926169,-117.1674634755197,San Diego,CA,United States}	{Food,}
+1238	Tue Feb 09 16:01:09 +0000 2010	4b6c76d5f964a520333c2ce3	{Our Lady's School - North Campus}	{32.70642836849769,-117.14234478353308,San Diego,CA,United States}	{Professional & Other Places,}
+1238	Tue Feb 09 14:42:48 +0000 2010	4b717434f964a5207c472de3	{Denny's}	{32.80374096972975,-116.95077864919456,El Cajon,CA,United States}	{Food,}
+1238	Tue Feb 09 04:16:16 +0000 2010	4ac36d8ef964a520529b20e3	{The Home Depot}	{32.80943798967697,-116.96480660504866,El Cajon,CA,United States}	{Shop & Service,}
+1238	Tue Feb 09 02:47:44 +0000 2010	4b2061edf964a520953124e3	{JoAnn Fabrics & Crafts}	{32.800922949748006,-117.00288142360756,El Cajon,CA,United States}	{Shop & Service,}
+1238	Tue Feb 09 00:35:08 +0000 2010	4b70ab20f964a520a2282de3	{Mama & Papa's (Lety & Willie)}	{32.816756481505564,-117.01467361980383,San Diego,CA,United States}	{Residence,}
+1238	Sat Feb 06 02:27:50 +0000 2010	4b6a7fd2f964a520f3d62be3	{Casa Moscoso}	{32.78859370840114,-116.95580666819636,El Cajon,CA,United States}	{Residence,}
+1238	Fri Feb 05 19:37:58 +0000 2010	4b6c7347f964a520233b2ce3	{Fresh MXN Food}	{32.879984,-117.16053725,San Diego,CA,United States}	{Food,}
+1238	Fri Feb 05 17:12:32 +0000 2010	4a896f57f964a520040820e3	{Petco NSC (Bldg 4)}	{32.889669035232075,-117.17180728912354,San Diego,CA,United States}	{Professional & Other Places,}
+1238	Fri Feb 05 16:23:55 +0000 2010	4a896f57f964a520040820e3	{Petco NSC (Bldg 4)}	{32.889669035232075,-117.17180728912354,San Diego,CA,United States}	{Professional & Other Places,}
+1238	Fri Feb 05 14:38:59 +0000 2010	4b6a7fd2f964a520f3d62be3	{Casa Moscoso}	{32.78859370840114,-116.95580666819636,El Cajon,CA,United States}	{Residence,}
+1238	Fri Feb 05 00:34:06 +0000 2010	4a896f57f964a520040820e3	{Petco NSC (Bldg 4)}	{32.889669035232075,-117.17180728912354,San Diego,CA,United States}	{Professional & Other Places,}
+1238	Thu Feb 04 16:18:46 +0000 2010	4a896f57f964a520040820e3	{Petco NSC (Bldg 4)}	{32.889669035232075,-117.17180728912354,San Diego,CA,United States}	{Professional & Other Places,}
+1238	Thu Feb 04 08:06:32 +0000 2010	4b6a7fd2f964a520f3d62be3	{Casa Moscoso}	{32.78859370840114,-116.95580666819636,El Cajon,CA,United States}	{Residence,}
+1238	Thu Feb 04 07:01:19 +0000 2010	4b3a10cff964a520b06025e3	{Starbucks}	{32.78067194066421,-116.95667266845703,El Cajon,CA,United States}	{Food,}

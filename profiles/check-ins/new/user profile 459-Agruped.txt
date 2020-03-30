@@ -1,0 +1,578 @@
+459	Tue Nov 29 06:12:05 +0000 2011	4df6ca201495dd5ffb844431	{SuperShuttle}	{34.09823683395027,-118.35381090923735,Burbank,CA,United States}	{Travel & Transport,Bus Station,}
+===
+459	Thu Aug 11 19:01:16 +0000 2011	4e306404b0fbb3b111224a43	{Food Truck Lot - Bradley}	{34.166203595874336,-118.08832883834839,Pasadena,CA,United States}	{Food,}
+459	Wed Aug 10 03:52:30 +0000 2011	4b4f9e7bf964a520db0d27e3	{SUBWAY}	{34.187416,-118.316683,Burbank,CA,United States}	{Food,}
+459	Tue Aug 09 01:53:26 +0000 2011	4b831bdcf964a52032f830e3	{Carl's Jr. / Green Burrito}	{34.19012364910204,-118.32068457693184,Burbank,CA,United States}	{Food,}
+459	Mon Aug 08 19:14:11 +0000 2011	4e306404b0fbb3b111224a43	{Food Truck Lot - Bradley}	{34.166203595874336,-118.08832883834839,Pasadena,CA,United States}	{Food,}
+459	Mon Aug 08 03:18:47 +0000 2011	4d111b976360a35def0e8888	{Chop Stop}	{34.187068135353776,-118.31784193961174,Burbank,CA,United States}	{Food,}
+459	Sun Aug 07 19:00:08 +0000 2011	4a481773f964a5208aaa1fe3	{Target}	{34.18983130775712,-118.33080053329468,Burbank,CA,United States}	{Shop & Service,Food & Drink Shop,}
+459	Sun Aug 07 17:20:22 +0000 2011	4a4812baf964a52082aa1fe3	{Eat n Park}	{34.184786,-118.339143,Burbank,CA,United States}	{Food,}
+459	Sat Aug 06 01:02:39 +0000 2011	4ab6d5a8f964a5203d7920e3	{Wendy's}	{34.19055620727967,-118.327759,Burbank,CA,United States}	{Food,}
+459	Fri Aug 05 21:00:59 +0000 2011	4e306404b0fbb3b111224a43	{Food Truck Lot - Bradley}	{34.166203595874336,-118.08832883834839,Pasadena,CA,United States}	{Food,}
+459	Thu Aug 04 19:23:53 +0000 2011	4bfeb9b74e5d0f47720e7d1f	{Super Burger}	{34.154305,-118.09856,Pasadena,CA,United States}	{Food,}
+459	Thu Aug 04 01:19:55 +0000 2011	4a73c89cf964a52071dd1fe3	{UCLA Los Angeles Tennis Center}	{34.070329091207235,-118.44835638999939,Los Angeles,CA,United States}	{College & University,College Stadium,}
+459	Tue Aug 02 18:58:02 +0000 2011	4e306404b0fbb3b111224a43	{Food Truck Lot - Bradley}	{34.166203595874336,-118.08832883834839,Pasadena,CA,United States}	{Food,}
+459	Sun Jul 31 21:09:56 +0000 2011	4a9ec9a1f964a5202a3b20e3	{Sharky's Woodfired Mexican Grill}	{34.19160622548542,-118.32940578460693,Burbank,CA,United States}	{Food,}
+459	Sat Jul 30 20:17:52 +0000 2011	4b841fd4f964a520482231e3	{Denny's}	{34.194325647117864,-118.34922817355756,Burbank,CA,United States}	{Food,}
+459	Thu Jul 28 19:23:48 +0000 2011	4ba81e7df964a520dacd39e3	{Golden Palace Mongolian BBQ}	{34.14644307292123,-118.07395332999799,Pasadena,CA,United States}	{Food,}
+459	Thu Jul 28 13:42:31 +0000 2011	4c34d489ed37a59309906f03	{LPS}	{34.16643413445622,-118.08680293083323,Pasadena,CA,United States}	{Professional & Other Places,}
+459	Wed Jul 27 19:16:48 +0000 2011	4e306404b0fbb3b111224a43	{Food Truck Lot - Bradley}	{34.166203595874336,-118.08832883834839,Pasadena,CA,United States}	{Food,}
+459	Wed Jul 27 14:28:09 +0000 2011	4c34d489ed37a59309906f03	{LPS}	{34.16643413445622,-118.08680293083323,Pasadena,CA,United States}	{Professional & Other Places,}
+459	Thu Jul 21 19:15:19 +0000 2011	4aab0809f964a520a25820e3	{Chipotle Mexican Grill}	{34.15173257280552,-118.08010518550873,Pasadena,CA,United States}	{Food,}
+459	Wed Jul 20 02:51:33 +0000 2011	4b4f9e7bf964a520db0d27e3	{SUBWAY}	{34.187416,-118.316683,Burbank,CA,United States}	{Food,}
+459	Wed Jul 20 00:47:58 +0000 2011	4bf709e313aed13aafb0eaf7	{Quick Cuts}	{34.18929929,-118.319548,Burbank,CA,United States}	{}
+459	Wed Jul 20 00:05:07 +0000 2011	4baa9eeaf964a520507a3ae3	{Burbank Pit Stop}	{34.191105365753174,-118.32222819328308,Burbank,CA,United States}	{Shop & Service,}
+459	Tue Jul 19 20:40:54 +0000 2011	4c34d489ed37a59309906f03	{LPS}	{34.16643413445622,-118.08680293083323,Pasadena,CA,United States}	{Professional & Other Places,}
+459	Sat Jul 16 16:04:54 +0000 2011	4e18bbc062e12640d878e982	{Carmageddon}	{34.126353468282474,-118.47553253173828,Los Angeles,CA,United States}	{Travel & Transport,}
+459	Mon Jul 11 18:35:37 +0000 2011	4c34d489ed37a59309906f03	{LPS}	{34.16643413445622,-118.08680293083323,Pasadena,CA,United States}	{Professional & Other Places,}
+459	Sat Jul 09 19:35:48 +0000 2011	4bbb52dd935e9521d9052990	{Hermosa Beach}	{33.86446469643321,-118.3961820602417,Hermosa Beach,CA,United States}	{Outdoors & Recreation,}
+459	Sat Jul 09 04:15:03 +0000 2011	44d20162f964a52035361fe3	{Fantasia Billiards}	{34.181169173343385,-118.30957889556885,Burbank,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+459	Sat Jul 09 03:18:23 +0000 2011	4c5a349cec2520a182285112	{City of Burbank}	{34.181062666155434,-118.31212162971495,Burbank,CA,United States}	{Outdoors & Recreation,}
+459	Fri Jul 08 19:46:02 +0000 2011	4a666123f964a52077c81fe3	{The Hat}	{34.15444790747509,-118.13271197967009,Pasadena,CA,United States}	{Food,}
+459	Wed Jul 06 03:20:37 +0000 2011	40db6b00f964a5207d011fe3	{Dodger Stadium}	{34.073408462960174,-118.24019819498062,Los Angeles,CA,United States}	{Outdoors & Recreation,Stadium,Arts & Entertainment,Athletics & Sports,}
+459	Tue Jul 05 20:14:38 +0000 2011	4c34d489ed37a59309906f03	{LPS}	{34.16643413445622,-118.08680293083323,Pasadena,CA,United States}	{Professional & Other Places,}
+459	Sat Jul 02 02:44:51 +0000 2011	49d32035f964a520ef5b1fe3	{Exotic Thai}	{34.189266483333334,-118.31949881666667,Burbank,CA,United States}	{Food,}
+459	Fri Jul 01 20:28:06 +0000 2011	4bc27a0a74a9a593cb70d3f6	{Costco Gasoline}	{34.18471933600193,-118.32285046577454,Burbank,CA,United States}	{Shop & Service,}
+459	Fri Jul 01 20:19:25 +0000 2011	4d8586909324236a90e1d10e	{5 Fwy}	{34.158791427808616,-118.29197061006919,,,United States}	{Travel & Transport,}
+459	Fri Jul 01 14:51:31 +0000 2011	4c34d489ed37a59309906f03	{LPS}	{34.16643413445622,-118.08680293083323,Pasadena,CA,United States}	{Professional & Other Places,}
+459	Fri Jul 01 00:00:16 +0000 2011	44d20162f964a52035361fe3	{Fantasia Billiards}	{34.181169173343385,-118.30957889556885,Burbank,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+459	Thu Jun 30 19:17:54 +0000 2011	4ae26048f964a520ce8d21e3	{Pei Wei Asian Diner}	{34.15048954720055,-118.07916641235352,Pasadena,CA,United States}	{Food,}
+459	Wed Jun 29 13:57:51 +0000 2011	4b105ddaf964a520ca6e23e3	{Starbucks}	{34.18691624036369,-118.31789902115143,Burbank,CA,United States}	{Food,}
+459	Tue Jun 28 07:17:49 +0000 2011	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Tue Jun 28 05:01:13 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+459	Mon Jun 27 19:22:35 +0000 2011	4459d2f1f964a520d7321fe3	{Newark Liberty International Airport (EWR)}	{40.68968493541091,-74.17938709259033,Newark,NJ,United States}	{Travel & Transport,}
+459	Sun Jun 26 18:20:35 +0000 2011	4b5d8080f964a520275f29e3	{Delaware River Joint Toll Bridge Commission New Hope Headquarters & Administration Building}	{40.377249578596654,-74.95988845825195,New Hope,PA,United States}	{Professional & Other Places,}
+459	Sun Jun 26 16:34:05 +0000 2011	4bdf55ca6198c9b6a8d716ff	{Penn's Purchase}	{40.34592096098214,-75.03167183007832,New Hope,PA,United States}	{Shop & Service,}
+459	Sat Jun 25 18:21:59 +0000 2011	4be58ddfcf200f47c054133c	{Fonthill Museum}	{40.32159995456486,-75.12391090393066,Doylestown,PA,United States}	{Arts & Entertainment,}
+459	Sat Jun 25 16:25:40 +0000 2011	4b5d8080f964a520275f29e3	{Delaware River Joint Toll Bridge Commission New Hope Headquarters & Administration Building}	{40.377249578596654,-74.95988845825195,New Hope,PA,United States}	{Professional & Other Places,}
+459	Fri Jun 24 01:00:01 +0000 2011	4ba90204f964a52009033ae3	{The Original Foccacia Pizza n' Pasta}	{40.56910651975141,-74.48955353428855,Piscataway,NJ,United States}	{Food,}
+459	Thu Jun 23 15:26:36 +0000 2011	4bbe1051c6a2ef3b2a3addbd	{Sunset Diner}	{40.5869627,-74.50664096862224,Green Brook,NJ,United States}	{Food,}
+459	Thu Jun 23 15:20:37 +0000 2011	4d8107a38edaa1430627fb39	{Bank of America}	{40.57964728956996,-74.50341486626881,Middlesex,NJ,United States}	{Shop & Service,}
+459	Mon Jun 20 22:52:34 +0000 2011	4afa1574f964a520901622e3	{Ellery's Bar & Grill}	{40.57301509,-74.4928449,Middlesex,NJ,United States}	{Food,}
+459	Mon Jun 20 17:39:56 +0000 2011	4bfeb1cd369476b0b6b28c1f	{Dan & Mariannas Deli}	{40.56696094496582,-74.49924284659397,Middlesex,NJ,United States}	{Food,}
+459	Sun Jun 19 03:50:53 +0000 2011	4abad89bf964a520238320e3	{The Pool at Harrah's}	{39.38440140823418,-74.43009853363037,Atlantic City,NJ,United States}	{Nightlife Spot,Travel & Transport,Hotel,}
+459	Sun Jun 19 00:00:19 +0000 2011	4be425c22457a593e0cba915	{Mediterranean Flames}	{39.35258249488548,-74.44252252578735,Atlantic City,NJ,United States}	{Food,}
+459	Sat Jun 18 21:45:43 +0000 2011	4bdef993c3392d7fadbc9bd5	{A Dam Good Sports Bar}	{39.35333951582426,-74.44531202316284,Atlantic City,NJ,United States}	{Nightlife Spot,}
+459	Sat Jun 18 20:32:31 +0000 2011	4a870d3bf964a520580220e3	{Tropicana Casino & Resort}	{39.352916414721555,-74.44594502449036,Atlantic City,NJ,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+459	Sat Jun 18 03:20:12 +0000 2011	4459d2f1f964a520d7321fe3	{Newark Liberty International Airport (EWR)}	{40.68968493541091,-74.17938709259033,Newark,NJ,United States}	{Travel & Transport,}
+459	Fri Jun 17 19:24:29 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+459	Fri Jun 17 03:09:34 +0000 2011	4ab6d5a8f964a5203d7920e3	{Wendy's}	{34.19055620727967,-118.327759,Burbank,CA,United States}	{Food,}
+459	Thu Jun 16 02:05:12 +0000 2011	4a86438bf964a520e10020e3	{Hooters of Burbank}	{34.18364655844534,-118.31489650608471,Burbank,CA,United States}	{Nightlife Spot,Food,}
+459	Wed Jun 15 23:44:22 +0000 2011	4bf709e313aed13aafb0eaf7	{Quick Cuts}	{34.18929929,-118.319548,Burbank,CA,United States}	{}
+459	Sun Jun 12 22:44:32 +0000 2011	4b56345ff964a520320528e3	{Jersey Mike's Subs}	{34.185575790374095,-118.31638097763062,Burbank,CA,United States}	{Food,}
+459	Fri Jun 10 00:23:25 +0000 2011	47d83de0f964a520294e1fe3	{The Happy Ending Bar & Restaurant}	{34.097795766666664,-118.342876,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+459	Thu Jun 09 21:46:49 +0000 2011	3fd66200f964a52038f01ee3	{Red Rock}	{34.09090943220687,-118.3825671672821,West Hollywood,CA,United States}	{Nightlife Spot,}
+459	Thu Jun 09 17:57:01 +0000 2011	41687b80f964a520861d1fe3	{The Grove}	{34.07219539048036,-118.35753679275513,Los Angeles,CA,United States}	{Outdoors & Recreation,Shop & Service,}
+459	Thu Jun 09 01:51:37 +0000 2011	44d20162f964a52035361fe3	{Fantasia Billiards}	{34.181169173343385,-118.30957889556885,Burbank,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+459	Tue Jun 07 23:11:07 +0000 2011	4ab57201f964a520a87420e3	{Galleria Car Wash}	{34.156552,-118.27694714069366,Glendale,CA,United States}	{Shop & Service,}
+459	Mon Jun 06 19:21:50 +0000 2011	4bfeb9b74e5d0f47720e7d1f	{Super Burger}	{34.154305,-118.09856,Pasadena,CA,United States}	{Food,}
+459	Mon Jun 06 19:21:29 +0000 2011	4bfeb9b74e5d0f47720e7d1f	{Super Burger}	{34.154305,-118.09856,Pasadena,CA,United States}	{Food,}
+459	Sat Jun 04 19:15:45 +0000 2011	4a6e0859f964a520b4d31fe3	{The Home Depot}	{34.16986799779636,-118.29937640507364,Burbank,CA,United States}	{Shop & Service,}
+459	Thu Jun 02 19:08:45 +0000 2011	4ba919d6f964a5206b0b3ae3	{Advantage Ford Lincoln Mercury}	{34.136646,-117.983247,Duarte,CA,United States}	{Shop & Service,}
+459	Thu Jun 02 00:38:29 +0000 2011	40db6b00f964a5207d011fe3	{Dodger Stadium}	{34.073408462960174,-118.24019819498062,Los Angeles,CA,United States}	{Outdoors & Recreation,Stadium,Arts & Entertainment,Athletics & Sports,}
+459	Sun May 29 01:20:51 +0000 2011	49ede7cff964a52001681fe3	{Barney's Beanery}	{34.181124795364745,-118.31178367137909,Burbank,CA,United States}	{Nightlife Spot,Food,}
+459	Sat May 28 21:51:42 +0000 2011	4b3127a7f964a5204f0125e3	{North End Pizzeria}	{34.18179076282299,-118.30953637082624,Burbank,CA,United States}	{Food,}
+459	Sat May 28 19:15:44 +0000 2011	4bf709e313aed13aafb0eaf7	{Quick Cuts}	{34.18929929,-118.319548,Burbank,CA,United States}	{}
+459	Wed May 25 19:13:17 +0000 2011	4bfeb9b74e5d0f47720e7d1f	{Super Burger}	{34.154305,-118.09856,Pasadena,CA,United States}	{Food,}
+459	Wed May 25 00:56:41 +0000 2011	4b4f9e7bf964a520db0d27e3	{SUBWAY}	{34.187416,-118.316683,Burbank,CA,United States}	{Food,}
+459	Wed May 25 00:42:38 +0000 2011	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Mon May 23 19:47:14 +0000 2011	4aba7adbf964a520838120e3	{Burger King}	{34.15894176055652,-118.13276767730713,Pasadena,CA,United States}	{Food,}
+459	Sun May 22 05:34:29 +0000 2011	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Sun May 22 05:03:29 +0000 2011	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Sun May 22 03:08:38 +0000 2011	4bcd37590687ef3b05b1e0cc	{Walmart Supercenter}	{34.27732572259547,-118.56700658798218,Porter Ranch,CA,United States}	{Shop & Service,}
+459	Sat May 21 15:43:34 +0000 2011	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Sat May 21 03:01:35 +0000 2011	4ab6d5a8f964a5203d7920e3	{Wendy's}	{34.19055620727967,-118.327759,Burbank,CA,United States}	{Food,}
+459	Fri May 20 19:25:57 +0000 2011	4a666123f964a52077c81fe3	{The Hat}	{34.15444790747509,-118.13271197967009,Pasadena,CA,United States}	{Food,}
+459	Thu May 19 01:39:56 +0000 2011	4a823e7ef964a520fbf81fe3	{Zankou Chicken}	{34.187135,-118.31771695,Burbank,CA,United States}	{Food,}
+459	Wed May 18 01:55:13 +0000 2011	4c392d2cae2da593952b02c6	{Hong Kong}	{34.18739,-118.31667831666667,Burbank,CA,United States}	{Food,}
+459	Tue May 17 23:57:17 +0000 2011	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Tue May 17 01:19:41 +0000 2011	4b4f9e7bf964a520db0d27e3	{SUBWAY}	{34.187416,-118.316683,Burbank,CA,United States}	{Food,}
+459	Mon May 16 23:57:42 +0000 2011	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Mon May 16 03:13:41 +0000 2011	4b5b75b3f964a520aaff28e3	{George Izay Park}	{34.17158298795479,-118.32022190093994,Burbank,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+459	Fri May 13 19:25:30 +0000 2011	4a9bd29bf964a520453520e3	{In-N-Out Burger}	{34.149510651661366,-118.10684949159622,Pasadena,CA,United States}	{Food,}
+459	Wed May 11 23:42:01 +0000 2011	4bf709e313aed13aafb0eaf7	{Quick Cuts}	{34.18929929,-118.319548,Burbank,CA,United States}	{}
+459	Sun May 08 06:40:17 +0000 2011	49feed5df964a520b56f1fe3	{In-N-Out Burger}	{34.184932341010494,-118.31605911254883,Burbank,CA,United States}	{Food,}
+459	Wed May 04 01:37:08 +0000 2011	40db6b00f964a5207d011fe3	{Dodger Stadium}	{34.073408462960174,-118.24019819498062,Los Angeles,CA,United States}	{Outdoors & Recreation,Stadium,Arts & Entertainment,Athletics & Sports,}
+459	Mon May 02 23:20:34 +0000 2011	4ab57201f964a520a87420e3	{Galleria Car Wash}	{34.156552,-118.27694714069366,Glendale,CA,United States}	{Shop & Service,}
+459	Mon May 02 23:20:33 +0000 2011	4ab57201f964a520a87420e3	{Galleria Car Wash}	{34.156552,-118.27694714069366,Glendale,CA,United States}	{Shop & Service,}
+459	Fri Apr 29 22:39:16 +0000 2011	4af08dcaf964a5202cdd21e3	{Department of Motor Vehicles}	{34.1669546330165,-118.28328696250927,Glendale,CA,United States}	{Professional & Other Places,}
+459	Fri Apr 29 19:50:33 +0000 2011	4b686efff964a52054782be3	{Polkatots Cupcakes}	{34.1583285634013,-118.13240912119966,Pasadena,CA,United States}	{Food,}
+459	Fri Apr 29 19:26:13 +0000 2011	4b72742df964a520567b2de3	{The Slaw Dogs}	{34.15840353426966,-118.13231438398361,Pasadena,CA,United States}	{Food,}
+459	Thu Apr 28 01:09:10 +0000 2011	4b4f9e7bf964a520db0d27e3	{SUBWAY}	{34.187416,-118.316683,Burbank,CA,United States}	{Food,}
+459	Thu Apr 28 00:19:25 +0000 2011	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Wed Apr 27 00:11:26 +0000 2011	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Thu Apr 21 01:15:33 +0000 2011	40db6b00f964a5207d011fe3	{Dodger Stadium}	{34.073408462960174,-118.24019819498062,Los Angeles,CA,United States}	{Outdoors & Recreation,Stadium,Arts & Entertainment,Athletics & Sports,}
+459	Wed Apr 20 01:03:02 +0000 2011	4bf709e313aed13aafb0eaf7	{Quick Cuts}	{34.18929929,-118.319548,Burbank,CA,United States}	{}
+459	Tue Apr 19 00:45:18 +0000 2011	4bc27a0a74a9a593cb70d3f6	{Costco Gasoline}	{34.18471933600193,-118.32285046577454,Burbank,CA,United States}	{Shop & Service,}
+459	Tue Apr 19 00:16:56 +0000 2011	4c40893fce54e21ed6a4091a	{CA-134 / I-210 Freeway Interchange}	{34.149814754211384,-118.15555572509766,Pasadena,CA,United States}	{Travel & Transport,}
+459	Sun Apr 17 20:04:57 +0000 2011	4a4aa920f964a5200eac1fe3	{Starbucks}	{34.18252934706646,-118.31069737672806,Burbank,CA,United States}	{Food,}
+459	Fri Apr 15 01:31:00 +0000 2011	40db6b00f964a5207d011fe3	{Dodger Stadium}	{34.073408462960174,-118.24019819498062,Los Angeles,CA,United States}	{Outdoors & Recreation,Stadium,Arts & Entertainment,Athletics & Sports,}
+459	Wed Apr 13 00:59:28 +0000 2011	4a807ad2f964a52068f51fe3	{Pagliacci's}	{34.143002,-118.3972978591919,Studio City,CA,United States}	{Food,}
+459	Tue Apr 12 00:46:18 +0000 2011	4ab6d5a8f964a5203d7920e3	{Wendy's}	{34.19055620727967,-118.327759,Burbank,CA,United States}	{Food,}
+459	Mon Apr 11 16:59:14 +0000 2011	4c34d489ed37a59309906f03	{LPS}	{34.16643413445622,-118.08680293083323,Pasadena,CA,United States}	{Professional & Other Places,}
+459	Sun Apr 10 20:43:50 +0000 2011	4a4aa920f964a5200eac1fe3	{Starbucks}	{34.18252934706646,-118.31069737672806,Burbank,CA,United States}	{Food,}
+459	Sun Apr 10 19:34:34 +0000 2011	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Sun Apr 10 19:00:31 +0000 2011	4b5b699ff964a52008fc28e3	{Batcade}	{34.17547964946284,-118.31702567149166,Burbank,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,Athletics & Sports,}
+459	Sat Apr 09 01:36:28 +0000 2011	4bb102d0f964a520a5723ce3	{The Habit Burger Grill}	{34.174432329015715,-118.30057203769684,Burbank,CA,United States}	{Food,}
+459	Fri Apr 08 23:14:54 +0000 2011	4a7cb46ff964a5204ced1fe3	{Costco}	{34.18562460357379,-118.32358002662659,Burbank,CA,United States}	{Shop & Service,}
+459	Fri Apr 08 11:25:57 +0000 2011	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Wed Apr 06 21:26:44 +0000 2011	4a451442f964a520bea71fe3	{Pecos Bill's BBQ Ribs}	{34.15974,-118.298006,Glendale,CA,United States}	{Food,}
+459	Wed Apr 06 19:52:38 +0000 2011	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Wed Apr 06 03:23:07 +0000 2011	4af25b10f964a52083e721e3	{De' Medici Ristorante Italiano}	{32.713851,-117.160162,San Diego,CA,United States}	{Food,}
+459	Wed Apr 06 03:08:20 +0000 2011	4af25b10f964a52083e721e3	{De' Medici Ristorante Italiano}	{32.713851,-117.160162,San Diego,CA,United States}	{Food,}
+459	Tue Apr 05 20:12:55 +0000 2011	4a369f12f964a520c19d1fe3	{San Diego Zoo}	{32.73604654491908,-117.15060710906982,San Diego,CA,United States}	{Arts & Entertainment,}
+459	Tue Apr 05 19:49:24 +0000 2011	4a5d5b65f964a52094bd1fe3	{The US Grant Hotel}	{32.715900953391824,-117.16152369976044,San Diego,CA,United States}	{Nightlife Spot,Travel & Transport,Arts & Entertainment,}
+459	Tue Apr 05 19:26:35 +0000 2011	440b42b0f964a52073301fe3	{Manchester Grand Hyatt San Diego}	{32.7103296438778,-117.16823887204687,San Diego,CA,United States}	{Travel & Transport,Convention Center,Professional & Other Places,}
+459	Tue Apr 05 19:02:36 +0000 2011	4b19744cf964a5209fdd23e3	{USS Midway Museum}	{32.714113624668194,-117.17515468597412,San Diego,CA,United States}	{Travel & Transport,Museum,Arts & Entertainment,}
+459	Tue Apr 05 16:04:33 +0000 2011	4a82215bf964a520aff81fe3	{World Famous}	{32.790836020934826,-117.25511625330101,San Diego,CA,United States}	{Food,}
+459	Tue Apr 05 02:45:59 +0000 2011	4b949a6cf964a5207e7e34e3	{The BeachWood}	{32.792455133333334,-117.25466902168746,San Diego,CA,United States}	{Nightlife Spot,Food,}
+459	Tue Apr 05 00:46:24 +0000 2011	437a7680f964a5206e2a1fe3	{It's A Grind - Gaslamp}	{32.712492505375295,-117.1638162005637,San Diego,CA,United States}	{Food,}
+459	Tue Apr 05 00:18:08 +0000 2011	440b42b0f964a52073301fe3	{Manchester Grand Hyatt San Diego}	{32.7103296438778,-117.16823887204687,San Diego,CA,United States}	{Travel & Transport,Convention Center,Professional & Other Places,}
+459	Mon Apr 04 23:41:41 +0000 2011	4a6bda26f964a52019d01fe3	{Gaslamp Tavern}	{32.714498858231885,-117.16017460448178,San Diego,CA,United States}	{Nightlife Spot,Food,}
+459	Mon Apr 04 23:09:06 +0000 2011	465a059af964a52022471fe3	{Westfield Horton Plaza}	{32.714005195322024,-117.16228260254077,San Diego,CA,United States}	{Shop & Service,}
+459	Mon Apr 04 21:33:15 +0000 2011	4c0ab5097e3fc928dc1cf482	{Crystal Pier}	{32.79602382229465,-117.25793838500977,San Diego,CA,United States}	{Outdoors & Recreation,}
+459	Mon Apr 04 20:54:22 +0000 2011	4bc3689adce4eee1f596719d	{Best Western Plus Blue Sea Lodge}	{32.79038567699228,-117.2548177102742,San Diego,CA,United States}	{Travel & Transport,Hotel,}
+459	Sun Apr 03 21:05:06 +0000 2011	4a7cb46ff964a5204ced1fe3	{Costco}	{34.18562460357379,-118.32358002662659,Burbank,CA,United States}	{Shop & Service,}
+459	Sat Apr 02 21:42:05 +0000 2011	49dd70d0f964a52013601fe3	{Naja's Place}	{33.84208292028123,-118.3918046951294,Redondo Beach,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+459	Sat Apr 02 07:15:08 +0000 2011	4aea6a95f964a52076bb21e3	{Pitcher House}	{33.847892766494965,-118.38965892791748,Redondo Beach,CA,United States}	{Nightlife Spot,}
+459	Sat Apr 02 04:43:37 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+459	Sat Apr 02 02:44:45 +0000 2011	4b6e63b8f964a52062bb2ce3	{McDonald's}	{34.188581,-118.319769,Burbank,CA,United States}	{Food,}
+459	Sat Apr 02 01:06:54 +0000 2011	4bf709e313aed13aafb0eaf7	{Quick Cuts}	{34.18929929,-118.319548,Burbank,CA,United States}	{}
+459	Thu Mar 31 00:44:45 +0000 2011	4b510d56f964a520be3f27e3	{7-Eleven}	{34.16601168797608,-118.28802562849096,Glendale,CA,United States}	{Shop & Service,}
+459	Thu Mar 31 00:03:13 +0000 2011	4ab57201f964a520a87420e3	{Galleria Car Wash}	{34.156552,-118.27694714069366,Glendale,CA,United States}	{Shop & Service,}
+459	Wed Mar 30 19:20:58 +0000 2011	4ae26048f964a520ce8d21e3	{Pei Wei Asian Diner}	{34.15048954720055,-118.07916641235352,Pasadena,CA,United States}	{Food,}
+459	Sun Mar 27 19:15:57 +0000 2011	4a7cb46ff964a5204ced1fe3	{Costco}	{34.18562460357379,-118.32358002662659,Burbank,CA,United States}	{Shop & Service,}
+459	Sun Mar 27 18:47:09 +0000 2011	4bc27a0a74a9a593cb70d3f6	{Costco Gasoline}	{34.18471933600193,-118.32285046577454,Burbank,CA,United States}	{Shop & Service,}
+459	Sun Mar 27 04:05:59 +0000 2011	4b6f0620f964a520a1d72ce3	{Market City Caffe}	{34.18202566375835,-118.31072151660919,Burbank,CA,United States}	{Food,}
+459	Sat Mar 26 20:29:27 +0000 2011	4b4f9e7bf964a520db0d27e3	{SUBWAY}	{34.187416,-118.316683,Burbank,CA,United States}	{Food,}
+459	Wed Mar 23 12:38:34 +0000 2011	4a988955f964a520932c20e3	{Starbucks}	{34.150283114391335,-118.08040022850037,Pasadena,CA,United States}	{Food,}
+459	Mon Mar 21 22:52:47 +0000 2011	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Sun Mar 20 20:37:25 +0000 2011	4b56345ff964a520320528e3	{Jersey Mike's Subs}	{34.185575790374095,-118.31638097763062,Burbank,CA,United States}	{Food,}
+459	Sun Mar 20 01:28:42 +0000 2011	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Sat Mar 19 21:43:43 +0000 2011	4a9ec9a1f964a5202a3b20e3	{Sharky's Woodfired Mexican Grill}	{34.19160622548542,-118.32940578460693,Burbank,CA,United States}	{Food,}
+459	Sat Mar 19 03:31:39 +0000 2011	4a1da8c4f964a5208d7b1fe3	{Chadaka Thai}	{34.18271005153656,-118.31095205,Burbank,CA,United States}	{Food,}
+459	Fri Mar 18 23:19:13 +0000 2011	49ede7cff964a52001681fe3	{Barney's Beanery}	{34.181124795364745,-118.31178367137909,Burbank,CA,United States}	{Nightlife Spot,Food,}
+459	Fri Mar 18 18:58:31 +0000 2011	4aee50def964a52086d321e3	{Paseo Colorado}	{34.145197604924505,-118.14371109008789,Pasadena,CA,United States}	{Shop & Service,}
+459	Wed Mar 16 19:14:17 +0000 2011	4ae0b0b3f964a520aa8121e3	{Burrito Express}	{34.16927763333333,-118.117645,Pasadena,CA,United States}	{Food,}
+459	Tue Mar 15 23:24:00 +0000 2011	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Tue Mar 15 20:45:42 +0000 2011	4c34d489ed37a59309906f03	{LPS}	{34.16643413445622,-118.08680293083323,Pasadena,CA,United States}	{Professional & Other Places,}
+459	Tue Mar 15 12:49:41 +0000 2011	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Mon Mar 14 23:35:28 +0000 2011	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Sun Mar 13 18:07:57 +0000 2011	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Sat Mar 12 23:11:59 +0000 2011	453b923cf964a520fe3b1fe3	{Patrick Molloy's Sports Pub}	{33.862,-118.400769,Hermosa Beach,CA,United States}	{Nightlife Spot,Food,}
+459	Sat Mar 12 22:54:22 +0000 2011	4542c316f964a5205b3c1fe3	{Paisanos Pizza & Pasta}	{33.861889142125065,-118.39979115439667,Hermosa Beach,CA,United States}	{Food,}
+459	Sat Mar 12 21:29:09 +0000 2011	4a7a40dff964a520fde81fe3	{Best Western Plus Sunrise Hotel}	{33.846696,-118.393376,Redondo Beach,CA,United States}	{Travel & Transport,}
+459	Sat Mar 12 01:41:58 +0000 2011	4a7cb46ff964a5204ced1fe3	{Costco}	{34.18562460357379,-118.32358002662659,Burbank,CA,United States}	{Shop & Service,}
+459	Fri Mar 11 20:29:16 +0000 2011	4b2555fff964a520407024e3	{Souplantation}	{34.140438125386694,-118.02309215068817,Arcadia,CA,United States}	{Food,}
+459	Fri Mar 11 13:58:40 +0000 2011	4a4aa920f964a5200eac1fe3	{Starbucks}	{34.18252934706646,-118.31069737672806,Burbank,CA,United States}	{Food,}
+459	Fri Mar 11 13:56:22 +0000 2011	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Wed Mar 09 03:39:57 +0000 2011	4ae8a0cbf964a52003b121e3	{Philly's Best Burbank}	{34.169341921806335,-118.32129379,Burbank,CA,United States}	{Food,}
+459	Wed Mar 09 00:54:12 +0000 2011	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Wed Mar 09 00:54:11 +0000 2011	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Tue Mar 08 15:27:35 +0000 2011	4c34d489ed37a59309906f03	{LPS}	{34.16643413445622,-118.08680293083323,Pasadena,CA,United States}	{Professional & Other Places,}
+459	Tue Mar 08 01:42:15 +0000 2011	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Sun Mar 06 19:03:31 +0000 2011	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Sat Mar 05 22:42:50 +0000 2011	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Fri Mar 04 02:20:23 +0000 2011	4ac6ae9af964a520cbb520e3	{The Cheesecake Factory}	{34.111920032983825,-117.53538608551025,Rancho Cucamonga,CA,United States}	{Food,}
+459	Wed Mar 02 02:22:56 +0000 2011	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Tue Mar 01 20:17:17 +0000 2011	4aba7adbf964a520838120e3	{Burger King}	{34.15894176055652,-118.13276767730713,Pasadena,CA,United States}	{Food,}
+459	Tue Mar 01 01:29:41 +0000 2011	4b5e3510f964a520c18329e3	{Don Cuco Mexican Restaurant}	{34.18171945833922,-118.30936431884766,Burbank,CA,United States}	{Nightlife Spot,Food,}
+459	Sun Feb 27 03:45:40 +0000 2011	49ede7cff964a52001681fe3	{Barney's Beanery}	{34.181124795364745,-118.31178367137909,Burbank,CA,United States}	{Nightlife Spot,Food,}
+459	Sat Feb 26 18:06:17 +0000 2011	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Sat Feb 26 05:40:38 +0000 2011	4a481773f964a5208aaa1fe3	{Target}	{34.18983130775712,-118.33080053329468,Burbank,CA,United States}	{Shop & Service,Food & Drink Shop,}
+459	Sat Feb 26 05:01:57 +0000 2011	4a9ec9a1f964a5202a3b20e3	{Sharky's Woodfired Mexican Grill}	{34.19160622548542,-118.32940578460693,Burbank,CA,United States}	{Food,}
+459	Fri Feb 25 20:51:38 +0000 2011	4b686efff964a52054782be3	{Polkatots Cupcakes}	{34.1583285634013,-118.13240912119966,Pasadena,CA,United States}	{Food,}
+459	Fri Feb 25 20:23:52 +0000 2011	4b72742df964a520567b2de3	{The Slaw Dogs}	{34.15840353426966,-118.13231438398361,Pasadena,CA,United States}	{Food,}
+459	Fri Feb 25 03:07:37 +0000 2011	4bb102d0f964a520a5723ce3	{The Habit Burger Grill}	{34.174432329015715,-118.30057203769684,Burbank,CA,United States}	{Food,}
+459	Fri Feb 25 02:00:09 +0000 2011	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Wed Feb 23 02:36:01 +0000 2011	4b4f9e7bf964a520db0d27e3	{SUBWAY}	{34.187416,-118.316683,Burbank,CA,United States}	{Food,}
+459	Mon Feb 21 05:03:07 +0000 2011	4ba807b2f964a5209cc739e3	{Carl's Jr}	{34.16914,-117.3333595,San Bernardino,CA,United States}	{Food,}
+459	Mon Feb 21 00:32:31 +0000 2011	461fa3a3f964a5207f451fe3	{Victoria Gardens Mall}	{34.111562,-117.532817,Rancho Cucamonga,CA,United States}	{Shop & Service,}
+459	Sat Feb 19 23:42:54 +0000 2011	4ab6d5a8f964a5203d7920e3	{Wendy's}	{34.19055620727967,-118.327759,Burbank,CA,United States}	{Food,}
+459	Sat Feb 19 23:09:18 +0000 2011	4a481773f964a5208aaa1fe3	{Target}	{34.18983130775712,-118.33080053329468,Burbank,CA,United States}	{Shop & Service,Food & Drink Shop,}
+459	Sat Feb 19 22:58:54 +0000 2011	4c55f26806901b8dcbbf4f4e	{GNC}	{34.191248,-118.329135,Burbank,CA,United States}	{Shop & Service,}
+459	Sat Feb 19 18:53:13 +0000 2011	4bf709e313aed13aafb0eaf7	{Quick Cuts}	{34.18929929,-118.319548,Burbank,CA,United States}	{}
+459	Sat Feb 19 17:56:58 +0000 2011	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Sat Feb 19 16:31:13 +0000 2011	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Tue Feb 15 05:10:23 +0000 2011	4667bf5af964a52087471fe3	{Timmy Nolan's Tavern & Grill}	{34.15236571674361,-118.35108867652893,Toluca Lake,CA,United States}	{Nightlife Spot,Food,}
+459	Tue Feb 15 01:19:24 +0000 2011	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Mon Feb 14 03:22:28 +0000 2011	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Sun Feb 13 19:47:27 +0000 2011	4b4f9e7bf964a520db0d27e3	{SUBWAY}	{34.187416,-118.316683,Burbank,CA,United States}	{Food,}
+459	Sun Feb 13 18:44:28 +0000 2011	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Fri Feb 11 01:21:37 +0000 2011	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Wed Feb 09 20:16:27 +0000 2011	4b5398b1f964a520f9a327e3	{Togo's Sandwiches}	{34.151922,-118.079973,Pasadena,CA,United States}	{Food,}
+459	Tue Feb 08 01:30:07 +0000 2011	4bf709e313aed13aafb0eaf7	{Quick Cuts}	{34.18929929,-118.319548,Burbank,CA,United States}	{}
+459	Tue Feb 08 00:36:12 +0000 2011	4b4f9e7bf964a520db0d27e3	{SUBWAY}	{34.187416,-118.316683,Burbank,CA,United States}	{Food,}
+459	Mon Feb 07 23:42:00 +0000 2011	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Sun Feb 06 03:19:45 +0000 2011	3fd66200f964a520f7ee1ee3	{Champs Sports Pub}	{34.17335519,-118.354834,Burbank,CA,United States}	{Nightlife Spot,Food,}
+459	Fri Feb 04 04:45:14 +0000 2011	44d20162f964a52035361fe3	{Fantasia Billiards}	{34.181169173343385,-118.30957889556885,Burbank,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+459	Tue Feb 01 02:45:15 +0000 2011	4ca4abc27f84224b014fcf58	{Moore's Delicatessen}	{34.18281545,-118.308862,Burbank,CA,United States}	{Food,}
+459	Tue Feb 01 01:49:39 +0000 2011	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Sat Jan 29 22:04:44 +0000 2011	4a7cb46ff964a5204ced1fe3	{Costco}	{34.18562460357379,-118.32358002662659,Burbank,CA,United States}	{Shop & Service,}
+459	Sat Jan 29 05:19:36 +0000 2011	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Sat Jan 29 02:08:10 +0000 2011	49ede7cff964a52001681fe3	{Barney's Beanery}	{34.181124795364745,-118.31178367137909,Burbank,CA,United States}	{Nightlife Spot,Food,}
+459	Fri Jan 28 20:21:26 +0000 2011	4a7d0242f964a52048ee1fe3	{The Original Tops}	{34.146817,-118.06929406,Pasadena,CA,United States}	{Food,}
+459	Fri Jan 28 04:16:22 +0000 2011	3fd66200f964a52072f01ee3	{Universal Bar & Grill}	{34.14384124,-118.36212873458862,North Hollywood,CA,United States}	{Nightlife Spot,}
+459	Fri Jan 28 02:06:29 +0000 2011	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Thu Jan 27 02:42:25 +0000 2011	4b4f9e7bf964a520db0d27e3	{SUBWAY}	{34.187416,-118.316683,Burbank,CA,United States}	{Food,}
+459	Thu Jan 27 01:46:06 +0000 2011	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Mon Jan 24 20:15:05 +0000 2011	4bd4a4d8cfa7b7137e8a24da	{California / Nevada Stateline}	{35.6072428437229,-115.39137840270996,Primm,CA,United States}	{Travel & Transport,}
+459	Mon Jan 24 18:06:13 +0000 2011	489ed3fef964a52083511fe3	{Hash House A Go Go}	{36.144694,-115.240025,Las Vegas,NV,United States}	{Nightlife Spot,Food,}
+459	Mon Jan 24 09:05:49 +0000 2011	4a749273f964a520aede1fe3	{Slots A Fun}	{36.13589031834646,-115.16278928951446,Las Vegas,NV,United States}	{Arts & Entertainment,}
+459	Mon Jan 24 09:05:18 +0000 2011	4a749273f964a520aede1fe3	{Slots A Fun}	{36.13589031834646,-115.16278928951446,Las Vegas,NV,United States}	{Arts & Entertainment,}
+459	Mon Jan 24 06:07:21 +0000 2011	41326e00f964a520c4141fe3	{Olympic Garden}	{36.15222572205908,-115.15140579019013,Las Vegas,NV,United States}	{Nightlife Spot,}
+459	Mon Jan 24 03:22:43 +0000 2011	4bfe71ede529c928c852bc8c	{The Cosmopolitan of Las Vegas}	{36.1094756530447,-115.17394781112671,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+459	Mon Jan 24 01:25:07 +0000 2011	4bc67045b387d13a0bf7c1e8	{Hammer Bar & Grill}	{36.086508713185815,-115.19318575542623,Las Vegas,NV,United States}	{Nightlife Spot,}
+459	Sun Jan 23 20:25:48 +0000 2011	4b2fd815f964a52012f124e3	{Lagasse's Stadium}	{36.124946054727204,-115.16963481903076,Las Vegas,NV,United States}	{Nightlife Spot,Food,}
+459	Sun Jan 23 06:54:45 +0000 2011	4bfe71ede529c928c852bc8c	{The Cosmopolitan of Las Vegas}	{36.1094756530447,-115.17394781112671,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+459	Sat Jan 22 22:21:48 +0000 2011	4a755ff0f964a520c2e01fe3	{Riviera Hotel & Casino}	{36.1354052655774,-115.16085863113402,Las Vegas,NV,United States}	{Nightlife Spot,Travel & Transport,Arts & Entertainment,}
+459	Sat Jan 22 22:21:48 +0000 2011	4a755ff0f964a520c2e01fe3	{Riviera Hotel & Casino}	{36.1354052655774,-115.16085863113402,Las Vegas,NV,United States}	{Nightlife Spot,Travel & Transport,Arts & Entertainment,}
+459	Sat Jan 22 21:30:30 +0000 2011	46ae2de0f964a5207e491fe3	{LVH - Las Vegas Hotel & Casino}	{36.13579518434887,-115.15221118927002,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+459	Sat Jan 22 18:25:00 +0000 2011	41326e00f964a5204f141fe3	{Hard Rock Hotel & Casino}	{36.10873022339937,-115.15369176864624,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,}
+459	Sat Jan 22 07:44:29 +0000 2011	4bfe71ede529c928c852bc8c	{The Cosmopolitan of Las Vegas}	{36.1094756530447,-115.17394781112671,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+459	Sat Jan 22 07:43:51 +0000 2011	4ae9b78bf964a520cdb521e3	{Pure Nightclub Las Vegas}	{36.11702527906766,-115.17447345597843,Las Vegas,NV,United States}	{Nightlife Spot,}
+459	Sat Jan 22 06:33:13 +0000 2011	41326e00f964a5204f141fe3	{Hard Rock Hotel & Casino}	{36.10873022339937,-115.15369176864624,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,}
+459	Sat Jan 22 05:11:52 +0000 2011	4a765ca4f964a520ece21fe3	{Fremont Street Experience}	{36.170446889183495,-115.14354228973387,Las Vegas,NV,United States}	{Nightlife Spot,Shop & Service,}
+459	Sat Jan 22 04:08:58 +0000 2011	4a755ff0f964a520c2e01fe3	{Riviera Hotel & Casino}	{36.1354052655774,-115.16085863113402,Las Vegas,NV,United States}	{Nightlife Spot,Travel & Transport,Arts & Entertainment,}
+459	Thu Jan 20 15:37:17 +0000 2011	4c34d489ed37a59309906f03	{LPS}	{34.16643413445622,-118.08680293083323,Pasadena,CA,United States}	{Professional & Other Places,}
+459	Thu Jan 20 04:20:26 +0000 2011	4bb102d0f964a520a5723ce3	{The Habit Burger Grill}	{34.174432329015715,-118.30057203769684,Burbank,CA,United States}	{Food,}
+459	Wed Jan 19 13:59:37 +0000 2011	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Wed Jan 19 12:56:54 +0000 2011	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Wed Jan 19 02:28:46 +0000 2011	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Tue Jan 18 14:21:24 +0000 2011	4a4aa920f964a5200eac1fe3	{Starbucks}	{34.18252934706646,-118.31069737672806,Burbank,CA,United States}	{Food,}
+459	Tue Jan 18 02:36:39 +0000 2011	4a7cb46ff964a5204ced1fe3	{Costco}	{34.18562460357379,-118.32358002662659,Burbank,CA,United States}	{Shop & Service,}
+459	Mon Jan 17 23:15:53 +0000 2011	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Mon Jan 17 21:55:12 +0000 2011	4a823e7ef964a520fbf81fe3	{Zankou Chicken}	{34.187135,-118.31771695,Burbank,CA,United States}	{Food,}
+459	Mon Jan 17 21:48:05 +0000 2011	4b105ddaf964a520ca6e23e3	{Starbucks}	{34.18691624036369,-118.31789902115143,Burbank,CA,United States}	{Food,}
+459	Mon Jan 17 21:40:54 +0000 2011	4bf709e313aed13aafb0eaf7	{Quick Cuts}	{34.18929929,-118.319548,Burbank,CA,United States}	{}
+459	Mon Jan 17 18:39:49 +0000 2011	4b43fa1af964a52080ef25e3	{Jiffy Lube}	{34.173218,-118.316613,Burbank,CA,United States}	{Shop & Service,}
+459	Mon Jan 17 16:47:31 +0000 2011	4b0b887ff964a520223223e3	{Harry's Family Restaurant}	{34.1868468085469,-118.31656330808582,Burbank,CA,United States}	{Food,}
+459	Sun Jan 16 20:56:59 +0000 2011	453b923cf964a520fe3b1fe3	{Patrick Molloy's Sports Pub}	{33.862,-118.400769,Hermosa Beach,CA,United States}	{Nightlife Spot,Food,}
+459	Sun Jan 16 20:16:59 +0000 2011	49dd70d0f964a52013601fe3	{Naja's Place}	{33.84208292028123,-118.3918046951294,Redondo Beach,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+459	Sat Jan 15 23:46:03 +0000 2011	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Sat Jan 15 16:34:29 +0000 2011	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Sat Jan 15 00:22:33 +0000 2011	4b566fbaf964a520471028e3	{El Torito}	{34.150319,-118.08158040046692,Pasadena,CA,United States}	{Food,}
+459	Fri Jan 14 14:52:48 +0000 2011	4b6e63b8f964a52062bb2ce3	{McDonald's}	{34.188581,-118.319769,Burbank,CA,United States}	{Food,}
+459	Fri Jan 14 01:50:55 +0000 2011	44d20162f964a52035361fe3	{Fantasia Billiards}	{34.181169173343385,-118.30957889556885,Burbank,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+459	Fri Jan 14 00:44:50 +0000 2011	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Fri Jan 14 00:44:50 +0000 2011	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Thu Jan 13 20:08:05 +0000 2011	4ac3782bf964a520679b20e3	{Lucky Car Wash}	{34.14600485,-118.073761,Pasadena,CA,United States}	{Shop & Service,}
+459	Thu Jan 13 04:16:30 +0000 2011	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Wed Jan 12 13:49:12 +0000 2011	4a4aa920f964a5200eac1fe3	{Starbucks}	{34.18252934706646,-118.31069737672806,Burbank,CA,United States}	{Food,}
+459	Wed Jan 12 13:03:27 +0000 2011	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Wed Jan 12 03:01:38 +0000 2011	4b6c7a3cf964a520583d2ce3	{Taco Bell}	{34.188146,-118.3191103,Burbank,CA,United States}	{Food,}
+459	Tue Jan 11 17:14:01 +0000 2011	4c34d489ed37a59309906f03	{LPS}	{34.16643413445622,-118.08680293083323,Pasadena,CA,United States}	{Professional & Other Places,}
+459	Tue Jan 11 13:49:34 +0000 2011	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Mon Jan 10 15:11:57 +0000 2011	4c34d489ed37a59309906f03	{LPS}	{34.16643413445622,-118.08680293083323,Pasadena,CA,United States}	{Professional & Other Places,}
+459	Mon Jan 10 13:15:27 +0000 2011	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Sun Jan 09 22:28:58 +0000 2011	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Sun Jan 09 06:33:26 +0000 2011	49ede7cff964a52001681fe3	{Barney's Beanery}	{34.181124795364745,-118.31178367137909,Burbank,CA,United States}	{Nightlife Spot,Food,}
+459	Sat Jan 08 07:45:41 +0000 2011	3fd66200f964a520e8ee1ee3	{The Blue Room}	{34.174884,-118.300168,Burbank,CA,United States}	{Nightlife Spot,}
+459	Mon Jan 03 16:05:18 +0000 2011	4b3cd805f964a520218825e3	{Terminal C}	{40.69576975606927,-74.1773271560669,Newark,NJ,United States}	{Travel & Transport,Airport,}
+459	Sun Jan 02 21:47:04 +0000 2011	4a65a823f964a5208cc71fe3	{NJT - Frank R. Lautenberg Secaucus Junction Station}	{40.76147966168067,-74.07551050186157,Secaucus,NJ,United States}	{Travel & Transport,Train Station,}
+459	Sun Jan 02 16:57:57 +0000 2011	4bd44b84a8b3a5937e7f6b5f	{MetLife Stadium}	{40.8134844303353,-74.07433032989502,East Rutherford,NJ,United States}	{Stadium,Arts & Entertainment,}
+459	Sun Jan 02 16:30:10 +0000 2011	4a65a823f964a5208cc71fe3	{NJT - Frank R. Lautenberg Secaucus Junction Station}	{40.76147966168067,-74.07551050186157,Secaucus,NJ,United States}	{Travel & Transport,Train Station,}
+459	Sun Jan 02 15:24:25 +0000 2011	4a6a4203f964a520f6cc1fe3	{NJT - New Brunswick Station (NEC)}	{40.49650494915766,-74.44625616073608,New Brunswick,NJ,United States}	{Travel & Transport,Train Station,}
+459	Sat Jan 01 03:11:19 +0000 2011	4ba90204f964a52009033ae3	{The Original Foccacia Pizza n' Pasta}	{40.56910651975141,-74.48955353428855,Piscataway,NJ,United States}	{Food,}
+459	Sat Jan 01 03:11:19 +0000 2011	4ba90204f964a52009033ae3	{The Original Foccacia Pizza n' Pasta}	{40.56910651975141,-74.48955353428855,Piscataway,NJ,United States}	{Food,}
+459	Sat Jan 01 01:23:18 +0000 2011	4c45d31f36d6a5938d656ca8	{Number One Bar & Grill}	{40.568101633333335,-74.54705,Bound Brook,NJ,United States}	{Nightlife Spot,}
+459	Fri Dec 31 21:26:31 +0000 2010	4c3e9b3680bc20a16354ab58	{Vacation:)}	{40.571292,-74.505403,Middlesex,NJ,United States}	{}
+459	Fri Dec 31 05:39:00 +0000 2010	4517ffe8f964a5204c3a1fe3	{The Old Bay}	{40.496356174227614,-74.4424557580793,New Brunswick,NJ,United States}	{Nightlife Spot,Food,}
+459	Fri Dec 31 04:25:33 +0000 2010	451ad775f964a5206e3a1fe3	{The Court Tavern}	{40.49590912956533,-74.44524373791036,New Brunswick,NJ,United States}	{Music Venue,Arts & Entertainment,}
+459	Fri Dec 31 03:52:02 +0000 2010	4a29a9cdf964a520bb951fe3	{Clydz}	{40.494966661054114,-74.44535823306241,New Brunswick,NJ,United States}	{Nightlife Spot,Food,}
+459	Fri Dec 31 03:13:20 +0000 2010	4ba68b96f964a520f35c39e3	{Arthur's Steak House & Pub}	{40.46864440671998,-74.45191295685225,North Brunswick,NJ,United States}	{Food,}
+459	Fri Dec 31 02:49:09 +0000 2010	4ba68b96f964a520f35c39e3	{Arthur's Steak House & Pub}	{40.46864440671998,-74.45191295685225,North Brunswick,NJ,United States}	{Food,}
+459	Wed Dec 29 02:36:20 +0000 2010	4ba90204f964a52009033ae3	{The Original Foccacia Pizza n' Pasta}	{40.56910651975141,-74.48955353428855,Piscataway,NJ,United States}	{Food,}
+459	Tue Dec 28 22:38:04 +0000 2010	4af590ebf964a520e6f921e3	{Bridgewater Commons Mall}	{40.586255753866695,-74.61939811706543,Bridgewater,NJ,United States}	{Shop & Service,Professional & Other Places,}
+459	Tue Dec 28 03:17:35 +0000 2010	4afa1574f964a520901622e3	{Ellery's Bar & Grill}	{40.57301509,-74.4928449,Middlesex,NJ,United States}	{Food,}
+459	Mon Dec 27 18:30:35 +0000 2010	4b660858f964a520a70f2be3	{Luca's Pizza Restaurant}	{40.571204,-74.510332,Middlesex,NJ,United States}	{Food,}
+459	Sun Dec 26 18:13:40 +0000 2010	4bcc9fbe68f976b049f56283	{Middlesex Texas Weiner}	{40.57836964,-74.5063,Middlesex,NJ,United States}	{Food,}
+459	Sun Dec 26 06:59:38 +0000 2010	4beed2c53686c9b6ad02256e	{Dunkin Donuts}	{40.5675208568573,-74.54366,Bound Brook,NJ,United States}	{Food,}
+459	Sun Dec 26 02:20:19 +0000 2010	4c45d31f36d6a5938d656ca8	{Number One Bar & Grill}	{40.568101633333335,-74.54705,Bound Brook,NJ,United States}	{Nightlife Spot,}
+459	Fri Dec 24 21:08:56 +0000 2010	4bcccd0fb6c49c7465699491	{I-287}	{40.55215678805972,-74.48773384094238,Woodbridge,NJ,United States}	{Travel & Transport,}
+459	Fri Dec 24 17:19:30 +0000 2010	4b9d711ef964a520feac36e3	{Mario's Pizza Center}	{40.57665441,-74.50724422931671,Middlesex,NJ,United States}	{Food,}
+459	Fri Dec 24 06:29:39 +0000 2010	4bbe1051c6a2ef3b2a3addbd	{Sunset Diner}	{40.5869627,-74.50664096862224,Green Brook,NJ,United States}	{Food,}
+459	Fri Dec 24 06:29:39 +0000 2010	4bbe1051c6a2ef3b2a3addbd	{Sunset Diner}	{40.5869627,-74.50664096862224,Green Brook,NJ,United States}	{Food,}
+459	Fri Dec 24 05:08:42 +0000 2010	4afa1574f964a520901622e3	{Ellery's Bar & Grill}	{40.57301509,-74.4928449,Middlesex,NJ,United States}	{Food,}
+459	Fri Dec 24 03:58:04 +0000 2010	4ba90204f964a52009033ae3	{The Original Foccacia Pizza n' Pasta}	{40.56910651975141,-74.48955353428855,Piscataway,NJ,United States}	{Food,}
+459	Thu Dec 23 08:15:35 +0000 2010	4c3e9b3680bc20a16354ab58	{Vacation:)}	{40.571292,-74.505403,Middlesex,NJ,United States}	{}
+459	Thu Dec 23 06:51:52 +0000 2010	4bbe1051c6a2ef3b2a3addbd	{Sunset Diner}	{40.5869627,-74.50664096862224,Green Brook,NJ,United States}	{Food,}
+459	Thu Dec 23 06:05:40 +0000 2010	4c37eaf83849c92809b3beb1	{Sheer}	{40.56134339590741,-74.53100263019527,Bound Brook,NJ,United States}	{Nightlife Spot,}
+459	Thu Dec 23 03:42:38 +0000 2010	4afa1574f964a520901622e3	{Ellery's Bar & Grill}	{40.57301509,-74.4928449,Middlesex,NJ,United States}	{Food,}
+459	Thu Dec 23 02:57:57 +0000 2010	4c45d31f36d6a5938d656ca8	{Number One Bar & Grill}	{40.568101633333335,-74.54705,Bound Brook,NJ,United States}	{Nightlife Spot,}
+459	Thu Dec 23 00:03:47 +0000 2010	4c2379699085d13a94ea87cc	{Stefano's Wodburning Pizza & Ristorante}	{40.55332461972598,-74.44192907112293,Piscataway,NJ,United States}	{Food,}
+459	Thu Dec 23 00:03:47 +0000 2010	4c2379699085d13a94ea87cc	{Stefano's Wodburning Pizza & Ristorante}	{40.55332461972598,-74.44192907112293,Piscataway,NJ,United States}	{Food,}
+459	Wed Dec 22 23:29:15 +0000 2010	4b2bff84f964a52047bf24e3	{Walmart}	{40.55407082252296,-74.44060662196308,Piscataway,NJ,United States}	{Shop & Service,}
+459	Wed Dec 22 22:49:01 +0000 2010	4b40009ef964a5200cb425e3	{Kohl's}	{40.548941,-74.430064,South Plainfield,NJ,United States}	{Shop & Service,Clothing Store,}
+459	Wed Dec 22 06:27:06 +0000 2010	4bbe1051c6a2ef3b2a3addbd	{Sunset Diner}	{40.5869627,-74.50664096862224,Green Brook,NJ,United States}	{Food,}
+459	Wed Dec 22 04:23:40 +0000 2010	4ba8f9a3f964a520a9ff39e3	{Boulevard Pizza Pub}	{40.5630083,-74.513397,Middlesex,NJ,United States}	{Nightlife Spot,Food,}
+459	Wed Dec 22 03:33:10 +0000 2010	4c4cc4a87711e21e472347a0	{Ooh-la La's Gentlemens Club}	{40.56154714678146,-74.53468322753906,Bound Brook,NJ,United States}	{Nightlife Spot,}
+459	Tue Dec 21 17:45:17 +0000 2010	4b60c05ff964a52053f729e3	{Gate 60}	{33.94207825993582,-118.4020185470581,Los Angeles,CA,United States}	{Travel & Transport,Airport,}
+459	Tue Dec 21 16:09:48 +0000 2010	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+459	Tue Dec 21 02:47:11 +0000 2010	4baafc30f964a520c0903ae3	{The Park Bar & Grill}	{34.18070398059915,-118.33292221370861,Burbank,CA,United States}	{Nightlife Spot,}
+459	Tue Dec 21 00:57:40 +0000 2010	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Mon Dec 20 20:17:15 +0000 2010	4b566fbaf964a520471028e3	{El Torito}	{34.150319,-118.08158040046692,Pasadena,CA,United States}	{Food,}
+459	Sun Dec 19 16:03:35 +0000 2010	4b6e63b8f964a52062bb2ce3	{McDonald's}	{34.188581,-118.319769,Burbank,CA,United States}	{Food,}
+459	Sun Dec 19 04:42:56 +0000 2010	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Sun Dec 19 03:23:28 +0000 2010	4bf1a3b6324cc9b61347cc92	{7-Eleven}	{34.18714101819411,-118.31109906745911,Burbank,CA,United States}	{Shop & Service,}
+459	Sun Dec 19 03:20:41 +0000 2010	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Sun Dec 19 02:08:11 +0000 2010	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Sat Dec 18 23:13:27 +0000 2010	4b831bdcf964a52032f830e3	{Carl's Jr. / Green Burrito}	{34.19012364910204,-118.32068457693184,Burbank,CA,United States}	{Food,}
+459	Sat Dec 18 00:58:13 +0000 2010	44d20162f964a52035361fe3	{Fantasia Billiards}	{34.181169173343385,-118.30957889556885,Burbank,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+459	Sat Dec 18 00:22:00 +0000 2010	49ede7cff964a52001681fe3	{Barney's Beanery}	{34.181124795364745,-118.31178367137909,Burbank,CA,United States}	{Nightlife Spot,Food,}
+459	Fri Dec 17 23:38:37 +0000 2010	4b6f0620f964a520a1d72ce3	{Market City Caffe}	{34.18202566375835,-118.31072151660919,Burbank,CA,United States}	{Food,}
+459	Fri Dec 17 01:29:03 +0000 2010	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Thu Dec 16 03:03:05 +0000 2010	4ab6d5a8f964a5203d7920e3	{Wendy's}	{34.19055620727967,-118.327759,Burbank,CA,United States}	{Food,}
+459	Wed Dec 15 19:25:36 +0000 2010	4ae26048f964a520ce8d21e3	{Pei Wei Asian Diner}	{34.15048954720055,-118.07916641235352,Pasadena,CA,United States}	{Food,}
+459	Wed Dec 15 13:41:07 +0000 2010	4a4aa920f964a5200eac1fe3	{Starbucks}	{34.18252934706646,-118.31069737672806,Burbank,CA,United States}	{Food,}
+459	Wed Dec 15 02:59:50 +0000 2010	4b4f9e7bf964a520db0d27e3	{SUBWAY}	{34.187416,-118.316683,Burbank,CA,United States}	{Food,}
+459	Wed Dec 15 02:15:22 +0000 2010	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Tue Dec 14 20:26:42 +0000 2010	4ae26048f964a520ce8d21e3	{Pei Wei Asian Diner}	{34.15048954720055,-118.07916641235352,Pasadena,CA,United States}	{Food,}
+459	Sun Dec 12 22:25:46 +0000 2010	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Sun Dec 12 19:30:43 +0000 2010	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Sun Dec 12 02:36:57 +0000 2010	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Sat Dec 11 22:51:57 +0000 2010	4b4a7decf964a5202e8926e3	{Ralphs}	{34.18889842480396,-118.3182243855607,Burbank,CA,United States}	{Shop & Service,Food & Drink Shop,}
+459	Sat Dec 11 20:05:11 +0000 2010	4bf709e313aed13aafb0eaf7	{Quick Cuts}	{34.18929929,-118.319548,Burbank,CA,United States}	{}
+459	Sat Dec 11 04:31:48 +0000 2010	4c736713376da093cf10a9c6	{City of Monrovia}	{34.14763051888702,-118.00097465515137,Monrovia,CA,United States}	{Outdoors & Recreation,}
+459	Sat Dec 11 00:07:13 +0000 2010	4a9db0cbf964a520f43820e3	{Dave & Buster's}	{34.1356783777456,-118.04940462112427,Arcadia,CA,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+459	Fri Dec 10 03:39:36 +0000 2010	4bb102d0f964a520a5723ce3	{The Habit Burger Grill}	{34.174432329015715,-118.30057203769684,Burbank,CA,United States}	{Food,}
+459	Fri Dec 10 03:08:51 +0000 2010	4a4aa920f964a5200eac1fe3	{Starbucks}	{34.18252934706646,-118.31069737672806,Burbank,CA,United States}	{Food,}
+459	Fri Dec 10 01:47:28 +0000 2010	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Thu Dec 09 02:40:19 +0000 2010	44d20162f964a52035361fe3	{Fantasia Billiards}	{34.181169173343385,-118.30957889556885,Burbank,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+459	Tue Dec 07 00:09:55 +0000 2010	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Mon Dec 06 20:11:19 +0000 2010	4bf989415317a5936f73017f	{Daphne's California Greek}	{34.1505080839996,-118.07594828069271,Pasadena,CA,United States}	{Food,}
+459	Mon Nov 29 16:57:37 +0000 2010	4af590ebf964a520e6f921e3	{Bridgewater Commons Mall}	{40.586255753866695,-74.61939811706543,Bridgewater,NJ,United States}	{Shop & Service,Professional & Other Places,}
+459	Mon Nov 29 02:12:46 +0000 2010	4afa1574f964a520901622e3	{Ellery's Bar & Grill}	{40.57301509,-74.4928449,Middlesex,NJ,United States}	{Food,}
+459	Sun Nov 28 23:34:50 +0000 2010	4c3e9b3680bc20a16354ab58	{Vacation:)}	{40.571292,-74.505403,Middlesex,NJ,United States}	{}
+459	Sun Nov 28 19:37:11 +0000 2010	4c2379699085d13a94ea87cc	{Stefano's Wodburning Pizza & Ristorante}	{40.55332461972598,-74.44192907112293,Piscataway,NJ,United States}	{Food,}
+459	Sat Nov 27 17:50:00 +0000 2010	3fd66200f964a5200de71ee3	{Down the Hatch}	{40.73233045525843,-74.0016399059716,New York,NY,United States}	{Nightlife Spot,Food,}
+459	Sat Nov 27 16:53:47 +0000 2010	4abbe19ef964a520548520e3	{Journal Square PATH Station}	{40.732267009830224,-74.06304359436035,Jersey City,NJ,United States}	{Travel & Transport,}
+459	Sat Nov 27 16:17:05 +0000 2010	4d9b87abcbc96ea8ddd6ed25	{Newark Penn Station}	{40.734331987032206,-74.1642165184021,Newark,NJ,United States}	{Travel & Transport,}
+459	Sat Nov 27 15:35:51 +0000 2010	4bc8a0d915a7ef3b257f7bda	{NJT - Plainfield Station (RVL)}	{40.61833603893536,-74.4203250138371,Plainfield,NJ,United States}	{Travel & Transport,}
+459	Fri Nov 26 05:50:15 +0000 2010	4c8685c8d34ca1437ba45080	{Dunkin Donuts}	{40.58579388330584,-74.47615473210055,Middlesex,NJ,United States}	{Food,}
+459	Thu Nov 25 19:17:39 +0000 2010	4c3e9b3680bc20a16354ab58	{Vacation:)}	{40.571292,-74.505403,Middlesex,NJ,United States}	{}
+459	Thu Nov 25 05:24:15 +0000 2010	4afa1574f964a520901622e3	{Ellery's Bar & Grill}	{40.57301509,-74.4928449,Middlesex,NJ,United States}	{Food,}
+459	Wed Nov 24 17:17:08 +0000 2010	4c3e9b3680bc20a16354ab58	{Vacation:)}	{40.571292,-74.505403,Middlesex,NJ,United States}	{}
+459	Wed Nov 24 04:15:30 +0000 2010	4459d2f1f964a520d7321fe3	{Newark Liberty International Airport (EWR)}	{40.68968493541091,-74.17938709259033,Newark,NJ,United States}	{Travel & Transport,}
+459	Tue Nov 23 23:10:45 +0000 2010	4b60c05ff964a52053f729e3	{Gate 60}	{33.94207825993582,-118.4020185470581,Los Angeles,CA,United States}	{Travel & Transport,Airport,}
+459	Tue Nov 23 21:56:46 +0000 2010	4be2b7d3f07b0f476bfbf543	{Terminal 6}	{33.94200705455651,-118.40209364891052,Los Angeles,CA,United States}	{Travel & Transport,Airport,}
+459	Tue Nov 23 20:35:48 +0000 2010	4a40552bf964a52080a41fe3	{Van Nuys FlyAway Bus Terminal to LAX}	{34.20915371377913,-118.48279863595963,Van Nuys,CA,United States}	{Travel & Transport,Bus Station,}
+459	Tue Nov 23 00:50:13 +0000 2010	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Mon Nov 22 01:39:25 +0000 2010	4bf1a3b6324cc9b61347cc92	{7-Eleven}	{34.18714101819411,-118.31109906745911,Burbank,CA,United States}	{Shop & Service,}
+459	Sun Nov 21 18:41:29 +0000 2010	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Sat Nov 20 22:48:48 +0000 2010	49feed5df964a520b56f1fe3	{In-N-Out Burger}	{34.184932341010494,-118.31605911254883,Burbank,CA,United States}	{Food,}
+459	Sat Nov 20 18:52:12 +0000 2010	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Fri Nov 19 03:25:59 +0000 2010	4a4aa920f964a5200eac1fe3	{Starbucks}	{34.18252934706646,-118.31069737672806,Burbank,CA,United States}	{Food,}
+459	Fri Nov 19 02:56:39 +0000 2010	4aee4f9ff964a52080d321e3	{Fuddruckers}	{34.181736215920594,-118.3102670488583,Burbank,CA,United States}	{Food,}
+459	Thu Nov 18 02:25:46 +0000 2010	4b56345ff964a520320528e3	{Jersey Mike's Subs}	{34.185575790374095,-118.31638097763062,Burbank,CA,United States}	{Food,}
+459	Wed Nov 17 14:24:15 +0000 2010	4b105ddaf964a520ca6e23e3	{Starbucks}	{34.18691624036369,-118.31789902115143,Burbank,CA,United States}	{Food,}
+459	Wed Nov 17 13:07:26 +0000 2010	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Tue Nov 16 03:22:38 +0000 2010	4b7cac6df964a5208ca02fe3	{De Bell Clubhouse}	{34.206265617265565,-118.30472946166992,Burbank,CA,United States}	{Nightlife Spot,Food,}
+459	Tue Nov 16 00:49:48 +0000 2010	4a8369b4f964a52013fb1fe3	{The Office Bar & Grill}	{34.18456051201606,-118.3498844882975,Burbank,CA,United States}	{Nightlife Spot,Food,}
+459	Mon Nov 15 15:42:58 +0000 2010	4c34d489ed37a59309906f03	{LPS}	{34.16643413445622,-118.08680293083323,Pasadena,CA,United States}	{Professional & Other Places,}
+459	Mon Nov 15 02:32:33 +0000 2010	4bb102d0f964a520a5723ce3	{The Habit Burger Grill}	{34.174432329015715,-118.30057203769684,Burbank,CA,United States}	{Food,}
+459	Mon Nov 15 01:12:17 +0000 2010	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Fri Nov 12 01:13:20 +0000 2010	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Wed Nov 10 13:37:24 +0000 2010	4a4aa920f964a5200eac1fe3	{Starbucks}	{34.18252934706646,-118.31069737672806,Burbank,CA,United States}	{Food,}
+459	Wed Nov 10 02:27:19 +0000 2010	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Tue Nov 09 02:01:33 +0000 2010	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Mon Nov 08 14:17:09 +0000 2010	4c34d489ed37a59309906f03	{LPS}	{34.16643413445622,-118.08680293083323,Pasadena,CA,United States}	{Professional & Other Places,}
+459	Sun Nov 07 22:26:39 +0000 2010	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Sun Nov 07 02:06:56 +0000 2010	4bff0480daf9c9b681a5f9ef	{San Manuel Club}	{34.043692695264404,-118.26647219943217,Los Angeles,CA,United States}	{Food,}
+459	Sat Nov 06 02:01:36 +0000 2010	49ede7cff964a52001681fe3	{Barney's Beanery}	{34.181124795364745,-118.31178367137909,Burbank,CA,United States}	{Nightlife Spot,Food,}
+459	Fri Nov 05 23:49:03 +0000 2010	4b747b85f964a5203bdf2de3	{Bank Of America}	{34.180015659677785,-118.30904544475689,Burbank,CA,United States}	{Shop & Service,}
+459	Fri Nov 05 19:20:06 +0000 2010	4b075eb3f964a520c8fc22e3	{Stonefire Grill}	{34.15404796600342,-118.078431,Pasadena,CA,United States}	{Food,}
+459	Fri Nov 05 00:33:11 +0000 2010	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Wed Nov 03 12:13:32 +0000 2010	4b105ddaf964a520ca6e23e3	{Starbucks}	{34.18691624036369,-118.31789902115143,Burbank,CA,United States}	{Food,}
+459	Wed Nov 03 03:24:25 +0000 2010	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Wed Nov 03 02:38:27 +0000 2010	4b4f9e7bf964a520db0d27e3	{SUBWAY}	{34.187416,-118.316683,Burbank,CA,United States}	{Food,}
+459	Wed Nov 03 01:39:10 +0000 2010	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Wed Nov 03 01:19:01 +0000 2010	4b986d6ff964a520b84135e3	{McCambridge Park}	{34.1920676979762,-118.32030773162842,Burbank,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+459	Tue Nov 02 01:40:41 +0000 2010	4ca4abc27f84224b014fcf58	{Moore's Delicatessen}	{34.18281545,-118.308862,Burbank,CA,United States}	{Food,}
+459	Sun Oct 31 09:13:09 +0000 2010	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Sun Oct 31 06:32:31 +0000 2010	3fd66200f964a5206dee1ee3	{Sardo's}	{34.15455594871133,-118.34596037864685,Burbank,CA,United States}	{Nightlife Spot,Food,}
+459	Sun Oct 31 05:04:33 +0000 2010	4baafc30f964a520c0903ae3	{The Park Bar & Grill}	{34.18070398059915,-118.33292221370861,Burbank,CA,United States}	{Nightlife Spot,}
+459	Sat Oct 30 04:45:05 +0000 2010	4b7cac6df964a5208ca02fe3	{De Bell Clubhouse}	{34.206265617265565,-118.30472946166992,Burbank,CA,United States}	{Nightlife Spot,Food,}
+459	Thu Oct 28 02:03:02 +0000 2010	4bb102d0f964a520a5723ce3	{The Habit Burger Grill}	{34.174432329015715,-118.30057203769684,Burbank,CA,United States}	{Food,}
+459	Wed Oct 27 19:18:47 +0000 2010	4b075eb3f964a520c8fc22e3	{Stonefire Grill}	{34.15404796600342,-118.078431,Pasadena,CA,United States}	{Food,}
+459	Wed Oct 27 12:58:03 +0000 2010	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Wed Oct 27 00:54:17 +0000 2010	49d32035f964a520ef5b1fe3	{Exotic Thai}	{34.189266483333334,-118.31949881666667,Burbank,CA,United States}	{Food,}
+459	Tue Oct 26 23:50:29 +0000 2010	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Tue Oct 26 13:18:22 +0000 2010	4b5d95f2f964a520786229e3	{Noah's Bagels}	{34.182489,-118.31105947494163,Burbank,CA,United States}	{Food,}
+459	Tue Oct 26 13:11:42 +0000 2010	4a4aa920f964a5200eac1fe3	{Starbucks}	{34.18252934706646,-118.31069737672806,Burbank,CA,United States}	{Food,}
+459	Sun Oct 24 07:59:33 +0000 2010	3fd66200f964a520e8ee1ee3	{The Blue Room}	{34.174884,-118.300168,Burbank,CA,United States}	{Nightlife Spot,}
+459	Sun Oct 24 06:14:22 +0000 2010	49ede7cff964a52001681fe3	{Barney's Beanery}	{34.181124795364745,-118.31178367137909,Burbank,CA,United States}	{Nightlife Spot,Food,}
+459	Sat Oct 23 03:37:42 +0000 2010	4b6e63b8f964a52062bb2ce3	{McDonald's}	{34.188581,-118.319769,Burbank,CA,United States}	{Food,}
+459	Fri Oct 22 23:48:37 +0000 2010	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Thu Oct 21 04:35:11 +0000 2010	4b6f0620f964a520a1d72ce3	{Market City Caffe}	{34.18202566375835,-118.31072151660919,Burbank,CA,United States}	{Food,}
+459	Thu Oct 21 04:06:55 +0000 2010	49ede7cff964a52001681fe3	{Barney's Beanery}	{34.181124795364745,-118.31178367137909,Burbank,CA,United States}	{Nightlife Spot,Food,}
+459	Thu Oct 21 03:11:12 +0000 2010	4ab4386bf964a5206f7020e3	{Buffalo Wild Wings}	{34.181715069259106,-118.31141443535724,Burbank,CA,United States}	{Food,}
+459	Thu Oct 21 00:56:42 +0000 2010	4b1c3e51f964a520ee0424e3	{Z Pizza}	{34.18172854493505,-118.31151718600854,Burbank,CA,United States}	{Food,}
+459	Thu Oct 21 00:38:13 +0000 2010	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Tue Oct 19 12:59:31 +0000 2010	4b105ddaf964a520ca6e23e3	{Starbucks}	{34.18691624036369,-118.31789902115143,Burbank,CA,United States}	{Food,}
+459	Mon Oct 18 23:59:37 +0000 2010	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Mon Oct 18 12:36:15 +0000 2010	4b6a5347f964a52036d22be3	{Union 76}	{34.18626666069031,-118.316537,Burbank,CA,United States}	{Shop & Service,}
+459	Sat Oct 16 23:25:40 +0000 2010	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Sat Oct 16 00:54:46 +0000 2010	4a4d9662f964a52006ae1fe3	{Original Tommy's Hamburgers}	{34.18968931272519,-118.32045793533325,Burbank,CA,United States}	{Food,}
+459	Sat Oct 16 00:26:04 +0000 2010	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Fri Oct 15 14:47:31 +0000 2010	4c34d489ed37a59309906f03	{LPS}	{34.16643413445622,-118.08680293083323,Pasadena,CA,United States}	{Professional & Other Places,}
+459	Thu Oct 14 12:07:14 +0000 2010	4b105ddaf964a520ca6e23e3	{Starbucks}	{34.18691624036369,-118.31789902115143,Burbank,CA,United States}	{Food,}
+459	Thu Oct 14 01:26:43 +0000 2010	4bb102d0f964a520a5723ce3	{The Habit Burger Grill}	{34.174432329015715,-118.30057203769684,Burbank,CA,United States}	{Food,}
+459	Wed Oct 13 13:28:45 +0000 2010	4b105ddaf964a520ca6e23e3	{Starbucks}	{34.18691624036369,-118.31789902115143,Burbank,CA,United States}	{Food,}
+459	Wed Oct 13 01:31:17 +0000 2010	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Mon Oct 11 00:16:29 +0000 2010	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Sat Oct 09 00:22:59 +0000 2010	4b747b85f964a5203bdf2de3	{Bank Of America}	{34.180015659677785,-118.30904544475689,Burbank,CA,United States}	{Shop & Service,}
+459	Fri Oct 08 02:36:14 +0000 2010	49ede7cff964a52001681fe3	{Barney's Beanery}	{34.181124795364745,-118.31178367137909,Burbank,CA,United States}	{Nightlife Spot,Food,}
+459	Fri Oct 08 00:27:41 +0000 2010	44d20162f964a52035361fe3	{Fantasia Billiards}	{34.181169173343385,-118.30957889556885,Burbank,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+459	Fri Oct 08 00:00:00 +0000 2010	4cae5ef9cbab236a9ff38f73	{Taste Of DownTown Burbank 2011}	{34.182124181787366,-118.31053376197815,Burbank,CA,United States}	{Outdoors & Recreation,}
+459	Thu Oct 07 23:49:54 +0000 2010	4b747b85f964a5203bdf2de3	{Bank Of America}	{34.180015659677785,-118.30904544475689,Burbank,CA,United States}	{Shop & Service,}
+459	Thu Oct 07 02:42:06 +0000 2010	4bf709e313aed13aafb0eaf7	{Quick Cuts}	{34.18929929,-118.319548,Burbank,CA,United States}	{}
+459	Thu Oct 07 02:42:06 +0000 2010	4bf709e313aed13aafb0eaf7	{Quick Cuts}	{34.18929929,-118.319548,Burbank,CA,United States}	{}
+459	Wed Oct 06 13:09:33 +0000 2010	4c34d489ed37a59309906f03	{LPS}	{34.16643413445622,-118.08680293083323,Pasadena,CA,United States}	{Professional & Other Places,}
+459	Sat Oct 02 22:41:07 +0000 2010	49dd70d0f964a52013601fe3	{Naja's Place}	{33.84208292028123,-118.3918046951294,Redondo Beach,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+459	Sat Oct 02 02:53:07 +0000 2010	4bb102d0f964a520a5723ce3	{The Habit Burger Grill}	{34.174432329015715,-118.30057203769684,Burbank,CA,United States}	{Food,}
+459	Thu Sep 30 03:08:57 +0000 2010	4b56345ff964a520320528e3	{Jersey Mike's Subs}	{34.185575790374095,-118.31638097763062,Burbank,CA,United States}	{Food,}
+459	Wed Sep 29 00:27:54 +0000 2010	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Tue Sep 28 19:24:42 +0000 2010	4b4430d9f964a52086f225e3	{Carl's Jr.}	{34.15463593333431,-118.07854339758356,Pasadena,CA,United States}	{Food,}
+459	Sun Sep 26 14:42:00 +0000 2010	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Sat Sep 25 05:31:46 +0000 2010	3fd66200f964a52072f01ee3	{Universal Bar & Grill}	{34.14384124,-118.36212873458862,North Hollywood,CA,United States}	{Nightlife Spot,}
+459	Sat Sep 25 03:31:04 +0000 2010	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Fri Sep 24 23:58:47 +0000 2010	4b105ddaf964a520ca6e23e3	{Starbucks}	{34.18691624036369,-118.31789902115143,Burbank,CA,United States}	{Food,}
+459	Fri Sep 24 05:25:39 +0000 2010	3fd66200f964a52007f11ee3	{Poquito Mas}	{34.159909,-118.331111,Burbank,CA,United States}	{Food,}
+459	Fri Sep 24 05:12:52 +0000 2010	4331f400f964a52006281fe3	{Warner Bros. Studios}	{34.147660747214005,-118.33873820561311,Burbank,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+459	Thu Sep 23 12:49:06 +0000 2010	4b105ddaf964a520ca6e23e3	{Starbucks}	{34.18691624036369,-118.31789902115143,Burbank,CA,United States}	{Food,}
+459	Wed Sep 22 00:55:17 +0000 2010	4a4aa920f964a5200eac1fe3	{Starbucks}	{34.18252934706646,-118.31069737672806,Burbank,CA,United States}	{Food,}
+459	Mon Sep 20 21:07:39 +0000 2010	4459d2f1f964a520d7321fe3	{Newark Liberty International Airport (EWR)}	{40.68968493541091,-74.17938709259033,Newark,NJ,United States}	{Travel & Transport,}
+459	Sun Sep 19 22:45:56 +0000 2010	4afa1574f964a520901622e3	{Ellery's Bar & Grill}	{40.57301509,-74.4928449,Middlesex,NJ,United States}	{Food,}
+459	Sun Sep 19 16:36:26 +0000 2010	4afa1574f964a520901622e3	{Ellery's Bar & Grill}	{40.57301509,-74.4928449,Middlesex,NJ,United States}	{Food,}
+459	Sat Sep 18 05:51:26 +0000 2010	4bbe1051c6a2ef3b2a3addbd	{Sunset Diner}	{40.5869627,-74.50664096862224,Green Brook,NJ,United States}	{Food,}
+459	Sat Sep 18 01:39:28 +0000 2010	4b4d18d4f964a520cdca26e3	{Brick House Tavern & Tap}	{40.55015935882694,-74.4306163730021,South Plainfield,NJ,United States}	{Nightlife Spot,Food,}
+459	Fri Sep 17 03:23:25 +0000 2010	4afa1574f964a520901622e3	{Ellery's Bar & Grill}	{40.57301509,-74.4928449,Middlesex,NJ,United States}	{Food,}
+459	Fri Sep 17 01:21:31 +0000 2010	4ba90204f964a52009033ae3	{The Original Foccacia Pizza n' Pasta}	{40.56910651975141,-74.48955353428855,Piscataway,NJ,United States}	{Food,}
+459	Thu Sep 16 17:22:14 +0000 2010	4b660858f964a520a70f2be3	{Luca's Pizza Restaurant}	{40.571204,-74.510332,Middlesex,NJ,United States}	{Food,}
+459	Thu Sep 16 03:40:05 +0000 2010	4c45d31f36d6a5938d656ca8	{Number One Bar & Grill}	{40.568101633333335,-74.54705,Bound Brook,NJ,United States}	{Nightlife Spot,}
+459	Thu Sep 16 03:16:32 +0000 2010	4c37eaf83849c92809b3beb1	{Sheer}	{40.56134339590741,-74.53100263019527,Bound Brook,NJ,United States}	{Nightlife Spot,}
+459	Thu Sep 16 01:15:18 +0000 2010	4afa1574f964a520901622e3	{Ellery's Bar & Grill}	{40.57301509,-74.4928449,Middlesex,NJ,United States}	{Food,}
+459	Wed Sep 15 23:10:05 +0000 2010	4b71a5cbf964a52076532de3	{25 Burgers}	{40.567874174787484,-74.55066790570186,Bound Brook,NJ,United States}	{Food,}
+459	Wed Sep 15 03:43:44 +0000 2010	4459d2f1f964a520d7321fe3	{Newark Liberty International Airport (EWR)}	{40.68968493541091,-74.17938709259033,Newark,NJ,United States}	{Travel & Transport,}
+459	Wed Sep 15 03:35:37 +0000 2010	4c0290ea310fc9b68199c461	{Dunkin Donuts}	{40.71867437295066,-74.16127185628092,Newark,NJ,United States}	{Food,}
+459	Sun Sep 12 07:42:30 +0000 2010	4b6e63b8f964a52062bb2ce3	{McDonald's}	{34.188581,-118.319769,Burbank,CA,United States}	{Food,}
+459	Sun Sep 12 06:41:36 +0000 2010	3fd66200f964a52000ef1ee3	{Whiskey Bend}	{34.18894383488541,-118.32032918930054,Los Angeles,CA,United States}	{Nightlife Spot,}
+459	Sat Sep 11 23:31:03 +0000 2010	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Sat Sep 11 22:30:42 +0000 2010	49d4fdd4f964a5205c5c1fe3	{Dino's Pizza}	{34.174734,-118.34895476666667,Burbank,CA,United States}	{Food,}
+459	Sat Sep 11 15:36:03 +0000 2010	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Wed Sep 08 23:46:59 +0000 2010	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Mon Sep 06 06:29:09 +0000 2010	4b764a58f964a520ea462ee3	{Shannon's on Pine}	{33.7695295,-118.1923953,Long Beach,CA,United States}	{Nightlife Spot,Food,}
+459	Mon Sep 06 00:04:18 +0000 2010	4542c316f964a5205b3c1fe3	{Paisanos Pizza & Pasta}	{33.861889142125065,-118.39979115439667,Hermosa Beach,CA,United States}	{Food,}
+459	Sun Sep 05 21:23:09 +0000 2010	432a0b00f964a520d4271fe3	{Baja Sharkeez}	{33.862063,-118.400655,Hermosa Beach,CA,United States}	{Nightlife Spot,Food,}
+459	Sun Sep 05 21:22:57 +0000 2010	4aa44db2f964a5204e4620e3	{Fiesta Hermosa}	{33.86222945544738,-118.39999079704285,Hermosa Beach,CA,United States}	{Shop & Service,Arts & Entertainment,}
+459	Sun Sep 05 19:31:04 +0000 2010	49dd70d0f964a52013601fe3	{Naja's Place}	{33.84208292028123,-118.3918046951294,Redondo Beach,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+459	Sat Sep 04 23:19:42 +0000 2010	4b4f9e7bf964a520db0d27e3	{SUBWAY}	{34.187416,-118.316683,Burbank,CA,United States}	{Food,}
+459	Sat Sep 04 23:19:42 +0000 2010	4b4f9e7bf964a520db0d27e3	{SUBWAY}	{34.187416,-118.316683,Burbank,CA,United States}	{Food,}
+459	Fri Sep 03 22:38:53 +0000 2010	49ede7cff964a52001681fe3	{Barney's Beanery}	{34.181124795364745,-118.31178367137909,Burbank,CA,United States}	{Nightlife Spot,Food,}
+459	Fri Sep 03 22:20:33 +0000 2010	4a86438bf964a520e10020e3	{Hooters of Burbank}	{34.18364655844534,-118.31489650608471,Burbank,CA,United States}	{Nightlife Spot,Food,}
+459	Fri Sep 03 21:56:06 +0000 2010	4ab6d5a8f964a5203d7920e3	{Wendy's}	{34.19055620727967,-118.327759,Burbank,CA,United States}	{Food,}
+459	Fri Sep 03 02:13:15 +0000 2010	49feed5df964a520b56f1fe3	{In-N-Out Burger}	{34.184932341010494,-118.31605911254883,Burbank,CA,United States}	{Food,}
+459	Wed Sep 01 02:04:08 +0000 2010	4aad5b2ef964a520e05f20e3	{Corner Bakery Cafe}	{34.18586297,-118.315125,Burbank,CA,United States}	{Food,}
+459	Sun Aug 29 05:56:46 +0000 2010	3fd66200f964a52000ef1ee3	{Whiskey Bend}	{34.18894383488541,-118.32032918930054,Los Angeles,CA,United States}	{Nightlife Spot,}
+459	Sun Aug 29 00:16:57 +0000 2010	4b4a7decf964a5202e8926e3	{Ralphs}	{34.18889842480396,-118.3182243855607,Burbank,CA,United States}	{Shop & Service,Food & Drink Shop,}
+459	Sat Aug 28 19:10:03 +0000 2010	4a0e129df964a520c5751fe3	{Century Dragon}	{34.167842,-118.3475181,Burbank,CA,United States}	{Food,}
+459	Fri Aug 27 23:15:03 +0000 2010	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Thu Aug 26 02:10:46 +0000 2010	4c1bf1c0b4e62d7f2140da93	{Steve's home!}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Thu Aug 26 02:10:44 +0000 2010	4c1bf1c0b4e62d7f2140da93	{Steve's home!}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Thu Aug 26 02:10:11 +0000 2010	4c1bf21e8b3aa5930111985f	{Home}	{34.190031,-118.318192,Burbank,CA,United States}	{}
+459	Sun Aug 22 19:53:56 +0000 2010	4bb582661344b713326f9c04	{Burger King}	{34.179352,-118.319669,Burbank,CA,United States}	{Food,}
+459	Sat Aug 21 23:28:35 +0000 2010	4c706116d274b60c219cd90d	{Undisclosed Location...}	{33.983077581259714,-117.86044718252812,,CA,United States}	{Residence,}
+459	Sat Aug 21 18:58:37 +0000 2010	4bf709e313aed13aafb0eaf7	{Quick Cuts}	{34.18929929,-118.319548,Burbank,CA,United States}	{}
+459	Sat Aug 21 17:20:50 +0000 2010	4b48f178f964a520a15e26e3	{Burbank Athletic Club}	{34.18257150544482,-118.31028699874878,Burbank,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+459	Sat Aug 21 15:29:39 +0000 2010	4b831bdcf964a52032f830e3	{Carl's Jr. / Green Burrito}	{34.19012364910204,-118.32068457693184,Burbank,CA,United States}	{Food,}
+459	Sat Aug 21 02:41:15 +0000 2010	4b5e3510f964a520c18329e3	{Don Cuco Mexican Restaurant}	{34.18171945833922,-118.30936431884766,Burbank,CA,United States}	{Nightlife Spot,Food,}
+459	Thu Aug 19 12:36:08 +0000 2010	4c34d489ed37a59309906f03	{LPS}	{34.16643413445622,-118.08680293083323,Pasadena,CA,United States}	{Professional & Other Places,}
+459	Thu Aug 19 12:07:36 +0000 2010	4b105ddaf964a520ca6e23e3	{Starbucks}	{34.18691624036369,-118.31789902115143,Burbank,CA,United States}	{Food,}
+459	Thu Aug 19 02:04:00 +0000 2010	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Wed Aug 18 12:09:30 +0000 2010	4b105ddaf964a520ca6e23e3	{Starbucks}	{34.18691624036369,-118.31789902115143,Burbank,CA,United States}	{Food,}
+459	Tue Aug 17 23:37:50 +0000 2010	4b56345ff964a520320528e3	{Jersey Mike's Subs}	{34.185575790374095,-118.31638097763062,Burbank,CA,United States}	{Food,}
+459	Mon Aug 16 19:17:08 +0000 2010	4b97ce18f964a520b31635e3	{Corner Bakery Cafe}	{34.15013439366772,-118.06963920593262,Pasadena,CA,United States}	{Food,}
+459	Sun Aug 15 21:07:16 +0000 2010	4a0e129df964a520c5751fe3	{Century Dragon}	{34.167842,-118.3475181,Burbank,CA,United States}	{Food,}
+459	Sun Aug 15 19:29:28 +0000 2010	4baa9eeaf964a520507a3ae3	{Burbank Pit Stop}	{34.191105365753174,-118.32222819328308,Burbank,CA,United States}	{Shop & Service,}
+459	Sun Aug 15 14:49:17 +0000 2010	4b6e63b8f964a52062bb2ce3	{McDonald's}	{34.188581,-118.319769,Burbank,CA,United States}	{Food,}
+459	Sat Aug 14 23:29:48 +0000 2010	4b831bdcf964a52032f830e3	{Carl's Jr. / Green Burrito}	{34.19012364910204,-118.32068457693184,Burbank,CA,United States}	{Food,}
+459	Sat Aug 14 15:46:12 +0000 2010	4c34d489ed37a59309906f03	{LPS}	{34.16643413445622,-118.08680293083323,Pasadena,CA,United States}	{Professional & Other Places,}
+459	Sat Aug 14 13:05:39 +0000 2010	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Sat Aug 14 01:16:58 +0000 2010	4b7e044ff964a5203bdf2fe3	{Shakey's Pizza Parlor}	{34.1896289,-118.32019125,Burbank,CA,United States}	{Food,}
+459	Fri Aug 13 00:58:09 +0000 2010	4b3127a7f964a5204f0125e3	{North End Pizzeria}	{34.18179076282299,-118.30953637082624,Burbank,CA,United States}	{Food,}
+459	Thu Aug 12 12:44:40 +0000 2010	4c34d489ed37a59309906f03	{LPS}	{34.16643413445622,-118.08680293083323,Pasadena,CA,United States}	{Professional & Other Places,}
+459	Wed Aug 11 00:09:47 +0000 2010	4b4f9e7bf964a520db0d27e3	{SUBWAY}	{34.187416,-118.316683,Burbank,CA,United States}	{Food,}
+459	Tue Aug 10 19:20:51 +0000 2010	4c49fcd39e6dbe9aa684ef09	{Subway}	{34.15100628770945,-118.07406765443125,Pasadena,CA,United States}	{Food,}
+459	Mon Aug 09 12:40:15 +0000 2010	4c34d489ed37a59309906f03	{LPS}	{34.16643413445622,-118.08680293083323,Pasadena,CA,United States}	{Professional & Other Places,}
+459	Sun Aug 08 22:11:21 +0000 2010	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Sat Aug 07 23:35:00 +0000 2010	4b747b85f964a5203bdf2de3	{Bank Of America}	{34.180015659677785,-118.30904544475689,Burbank,CA,United States}	{Shop & Service,}
+459	Sat Aug 07 23:04:44 +0000 2010	4bbcfd21593fef3b67e90256	{Starbudz North Hollywood}	{34.15832877159119,-118.37027,North Hollywood,CA,United States}	{Shop & Service,}
+459	Sat Aug 07 22:41:32 +0000 2010	4c4be0d09c8d2d7fc5119d6b	{Winchell's Donuts}	{34.15823152308345,-118.14134001731873,Pasadena,CA,United States}	{Food,}
+459	Sat Aug 07 20:16:23 +0000 2010	4b6e63b8f964a52062bb2ce3	{McDonald's}	{34.188581,-118.319769,Burbank,CA,United States}	{Food,}
+459	Fri Aug 06 19:18:02 +0000 2010	4b3a7247f964a520836725e3	{Burger King}	{34.14106084775076,-118.07357,Pasadena,CA,United States}	{Food,}
+459	Fri Aug 06 13:45:14 +0000 2010	4c34d489ed37a59309906f03	{LPS}	{34.16643413445622,-118.08680293083323,Pasadena,CA,United States}	{Professional & Other Places,}
+459	Thu Aug 05 23:11:51 +0000 2010	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Thu Aug 05 02:17:45 +0000 2010	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Mon Aug 02 13:01:26 +0000 2010	4c34d489ed37a59309906f03	{LPS}	{34.16643413445622,-118.08680293083323,Pasadena,CA,United States}	{Professional & Other Places,}
+459	Sun Aug 01 03:54:38 +0000 2010	4b5543a3f964a5203de027e3	{Jack in the Box - Los Angeles, CA}	{34.03409467448947,-118.2640626138406,Los Angeles,CA,United States}	{Food,}
+459	Sat Jul 31 21:47:19 +0000 2010	49dd70d0f964a52013601fe3	{Naja's Place}	{33.84208292028123,-118.3918046951294,Redondo Beach,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+459	Sat Jul 31 17:06:42 +0000 2010	4b9b0b5af964a52046ee35e3	{7-Eleven}	{33.930576750056005,-118.41620671236964,El Segundo,CA,United States}	{Shop & Service,}
+459	Sat Jul 31 02:01:06 +0000 2010	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Fri Jul 30 19:21:50 +0000 2010	4b8224dff964a5209ecb30e3	{Panda Inn}	{34.14992946746674,-118.07832047054404,Pasadena,CA,United States}	{Food,}
+459	Thu Jul 29 12:31:02 +0000 2010	4b105ddaf964a520ca6e23e3	{Starbucks}	{34.18691624036369,-118.31789902115143,Burbank,CA,United States}	{Food,}
+459	Thu Jul 29 00:37:05 +0000 2010	4a5a8b32f964a52089ba1fe3	{Pinocchio Restaurant & Monte Carlo Italian Deli}	{34.17002371383786,-118.34121522089228,Burbank,CA,United States}	{Food,}
+459	Tue Jul 27 23:29:24 +0000 2010	4bedb8d8e24d20a1b3e37114	{Sego Nursery}	{34.171876205096304,-118.39736635052412,Los Angeles,CA,United States}	{Shop & Service,}
+459	Tue Jul 27 22:32:08 +0000 2010	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Tue Jul 27 19:47:46 +0000 2010	4b566fbaf964a520471028e3	{El Torito}	{34.150319,-118.08158040046692,Pasadena,CA,United States}	{Food,}
+459	Tue Jul 27 12:59:27 +0000 2010	4c34d489ed37a59309906f03	{LPS}	{34.16643413445622,-118.08680293083323,Pasadena,CA,United States}	{Professional & Other Places,}
+459	Tue Jul 27 02:28:56 +0000 2010	4c3da0327d002d7f41f9af18	{Burbank Piano Lessons}	{34.189952,-118.317995,Burbank,CA,United States}	{College & University,}
+459	Tue Jul 27 00:09:26 +0000 2010	4bd9a9cae914a5937d4c57fa	{Burger King}	{34.171005972973276,-118.28906386666667,Glendale,CA,United States}	{Food,}
+459	Mon Jul 26 23:04:14 +0000 2010	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Mon Jul 26 12:33:20 +0000 2010	4c34d489ed37a59309906f03	{LPS}	{34.16643413445622,-118.08680293083323,Pasadena,CA,United States}	{Professional & Other Places,}
+459	Sun Jul 25 23:17:07 +0000 2010	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Sun Jul 25 19:21:59 +0000 2010	40db6b00f964a5207d011fe3	{Dodger Stadium}	{34.073408462960174,-118.24019819498062,Los Angeles,CA,United States}	{Outdoors & Recreation,Stadium,Arts & Entertainment,Athletics & Sports,}
+459	Sun Jul 25 16:47:26 +0000 2010	4b400c95f964a520dab425e3	{McDonald's}	{34.16752,-118.323464,Burbank,CA,United States}	{Food,}
+459	Sun Jul 25 05:25:58 +0000 2010	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Sun Jul 25 04:06:16 +0000 2010	4b750b65f964a52011fc2de3	{Gate 69A}	{33.940342611848216,-118.40211510658264,Los Angeles,CA,United States}	{Travel & Transport,Airport,}
+459	Sat Jul 24 22:06:56 +0000 2010	4bb344222397b713dcdc37b3	{Gate C133}	{40.69829747774025,-74.17967408895493,Newark,NJ,United States}	{Travel & Transport,Airport,}
+459	Sat Jul 24 20:50:05 +0000 2010	4459d2f1f964a520d7321fe3	{Newark Liberty International Airport (EWR)}	{40.68968493541091,-74.17938709259033,Newark,NJ,United States}	{Travel & Transport,}
+459	Sat Jul 24 20:39:36 +0000 2010	4459d2f1f964a520d7321fe3	{Newark Liberty International Airport (EWR)}	{40.68968493541091,-74.17938709259033,Newark,NJ,United States}	{Travel & Transport,}
+459	Sat Jul 24 17:20:22 +0000 2010	4c3e9b3680bc20a16354ab58	{Vacation:)}	{40.571292,-74.505403,Middlesex,NJ,United States}	{}
+459	Sat Jul 24 07:57:06 +0000 2010	4c3e9b3680bc20a16354ab58	{Vacation:)}	{40.571292,-74.505403,Middlesex,NJ,United States}	{}
+459	Sat Jul 24 06:04:31 +0000 2010	4bbe1051c6a2ef3b2a3addbd	{Sunset Diner}	{40.5869627,-74.50664096862224,Green Brook,NJ,United States}	{Food,}
+459	Sat Jul 24 01:38:58 +0000 2010	4ba8f9a3f964a520a9ff39e3	{Boulevard Pizza Pub}	{40.5630083,-74.513397,Middlesex,NJ,United States}	{Nightlife Spot,Food,}
+459	Fri Jul 23 20:46:08 +0000 2010	4c3e9b3680bc20a16354ab58	{Vacation:)}	{40.571292,-74.505403,Middlesex,NJ,United States}	{}
+459	Fri Jul 23 05:28:17 +0000 2010	4aff62c4f964a5200b3822e3	{Tim Kerwin's Tavern}	{40.58476209640503,-74.48181185,Middlesex,NJ,United States}	{Nightlife Spot,Food,}
+459	Fri Jul 23 04:56:26 +0000 2010	4afa1574f964a520901622e3	{Ellery's Bar & Grill}	{40.57301509,-74.4928449,Middlesex,NJ,United States}	{Food,}
+459	Fri Jul 23 00:22:23 +0000 2010	4ba90204f964a52009033ae3	{The Original Foccacia Pizza n' Pasta}	{40.56910651975141,-74.48955353428855,Piscataway,NJ,United States}	{Food,}
+459	Wed Jul 21 21:05:55 +0000 2010	4c3e9b3680bc20a16354ab58	{Vacation:)}	{40.571292,-74.505403,Middlesex,NJ,United States}	{}
+459	Wed Jul 21 05:16:48 +0000 2010	4aff62c4f964a5200b3822e3	{Tim Kerwin's Tavern}	{40.58476209640503,-74.48181185,Middlesex,NJ,United States}	{Nightlife Spot,Food,}
+459	Wed Jul 21 01:27:41 +0000 2010	4ba8f9a3f964a520a9ff39e3	{Boulevard Pizza Pub}	{40.5630083,-74.513397,Middlesex,NJ,United States}	{Nightlife Spot,Food,}
+459	Tue Jul 20 20:58:08 +0000 2010	4b660858f964a520a70f2be3	{Luca's Pizza Restaurant}	{40.571204,-74.510332,Middlesex,NJ,United States}	{Food,}
+459	Tue Jul 20 19:18:14 +0000 2010	4c3e9b3680bc20a16354ab58	{Vacation:)}	{40.571292,-74.505403,Middlesex,NJ,United States}	{}
+459	Tue Jul 20 15:26:33 +0000 2010	4aeb461ff964a5206fc021e3	{Sands Casino Resort Bethlehem}	{40.61403388508594,-75.35691976547241,Bethlehem,PA,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+459	Tue Jul 20 01:04:46 +0000 2010	4b4d18d4f964a520cdca26e3	{Brick House Tavern & Tap}	{40.55015935882694,-74.4306163730021,South Plainfield,NJ,United States}	{Nightlife Spot,Food,}
+459	Sun Jul 18 21:13:48 +0000 2010	4c3e9b3680bc20a16354ab58	{Vacation:)}	{40.571292,-74.505403,Middlesex,NJ,United States}	{}
+459	Sun Jul 18 21:13:48 +0000 2010	4c3e9b3680bc20a16354ab58	{Vacation:)}	{40.571292,-74.505403,Middlesex,NJ,United States}	{}
+459	Sun Jul 18 19:27:30 +0000 2010	4bac9f56f964a520e3fe3ae3	{Garden State Parkway Saddlebrook}	{40.831735737021994,-74.17891502380371,Saddlebrook,NJ,United States}	{Travel & Transport,}
+459	Sun Jul 18 16:11:52 +0000 2010	4bfbf6f421790f47a15df8d3	{Charlie's}	{40.00694125770327,-74.05982494354248,Normandy Beach,NJ,United States}	{Food,}
+459	Sun Jul 18 02:35:09 +0000 2010	4a833c62f964a52076fa1fe3	{Sawmill Cafe}	{39.93578389813956,-74.07203938378592,Seaside Park,NJ,United States}	{Nightlife Spot,Food,}
+459	Sat Jul 17 14:15:21 +0000 2010	4c1a38ed834e2d7fa0852b80	{Ortley Beach, NJ}	{39.95411241807158,-74.07156229019165,Ortley Beach,NJ,United States}	{Outdoors & Recreation,}
+459	Fri Jul 16 23:30:53 +0000 2010	4a677e8af964a5208bc91fe3	{Gabriella's of Ortley Beach}	{39.960103266666664,-74.070752,Seaside Heights,NJ,United States}	{Food,}
+459	Fri Jul 16 22:19:44 +0000 2010	4c1a38ed834e2d7fa0852b80	{Ortley Beach, NJ}	{39.95411241807158,-74.07156229019165,Ortley Beach,NJ,United States}	{Outdoors & Recreation,}
+459	Fri Jul 16 18:53:55 +0000 2010	4a833c62f964a52076fa1fe3	{Sawmill Cafe}	{39.93578389813956,-74.07203938378592,Seaside Park,NJ,United States}	{Nightlife Spot,Food,}
+459	Fri Jul 16 18:03:31 +0000 2010	4ab5311ff964a520227320e3	{Seaside Heights Boardwalk}	{39.94110036036584,-74.07089710235596,Seaside Heights,NJ,United States}	{Outdoors & Recreation,Arts & Entertainment,Beach,}
+459	Fri Jul 16 16:37:22 +0000 2010	4bac9f56f964a520e3fe3ae3	{Garden State Parkway Saddlebrook}	{40.831735737021994,-74.17891502380371,Saddlebrook,NJ,United States}	{Travel & Transport,}
+459	Fri Jul 16 00:15:21 +0000 2010	4ba90204f964a52009033ae3	{The Original Foccacia Pizza n' Pasta}	{40.56910651975141,-74.48955353428855,Piscataway,NJ,United States}	{Food,}
+459	Thu Jul 15 22:09:20 +0000 2010	4bcc9fbe68f976b049f56283	{Middlesex Texas Weiner}	{40.57836964,-74.5063,Middlesex,NJ,United States}	{Food,}
+459	Thu Jul 15 05:23:17 +0000 2010	4c3e9b3680bc20a16354ab58	{Vacation:)}	{40.571292,-74.505403,Middlesex,NJ,United States}	{}
+459	Wed Jul 14 19:29:47 +0000 2010	4a55048ef964a5208db31fe3	{Johnny Park}	{33.93445749658344,-118.37340740399314,Los Angeles,CA,United States}	{Travel & Transport,}
+459	Wed Jul 14 17:15:39 +0000 2010	4c34d489ed37a59309906f03	{LPS}	{34.16643413445622,-118.08680293083323,Pasadena,CA,United States}	{Professional & Other Places,}
+459	Wed Jul 14 17:15:39 +0000 2010	4c34d489ed37a59309906f03	{LPS}	{34.16643413445622,-118.08680293083323,Pasadena,CA,United States}	{Professional & Other Places,}
+459	Wed Jul 14 11:22:56 +0000 2010	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Tue Jul 13 14:57:39 +0000 2010	4c34d489ed37a59309906f03	{LPS}	{34.16643413445622,-118.08680293083323,Pasadena,CA,United States}	{Professional & Other Places,}
+459	Sat Jul 10 20:15:46 +0000 2010	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Thu Jul 08 05:00:03 +0000 2010	4c1bf234b4e62d7ff040da93	{Home...}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Thu Jul 08 04:58:41 +0000 2010	4c1bf1c0b4e62d7f2140da93	{Steve's home!}	{34.18782731524914,-118.31697144375005,,CA,United States}	{Residence,}
+459	Wed Jul 07 00:17:42 +0000 2010	4a5a8b32f964a52089ba1fe3	{Pinocchio Restaurant & Monte Carlo Italian Deli}	{34.17002371383786,-118.34121522089228,Burbank,CA,United States}	{Food,}

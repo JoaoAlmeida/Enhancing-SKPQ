@@ -1,0 +1,352 @@
+2065	Wed Aug 10 04:00:55 +0000 2011	409ad180f964a520eef21ee3	{Ocean Beach}	{37.769391721310974,-122.51133441925049,San Francisco,CA,United States}	{Outdoors & Recreation,Beach,}
+2065	Sun Aug 07 23:27:51 +0000 2011	4bae560bf964a5206da43be3	{Woodlawn Cemetery}	{37.681135875909575,-122.46519230407236,Colma,CA,United States}	{Outdoors & Recreation,}
+2065	Wed Aug 03 01:24:30 +0000 2011	4a73619af964a52050dc1fe3	{Toyose}	{37.753142128598896,-122.50468914649228,San Francisco,CA,United States}	{Food,}
+2065	Tue Aug 02 03:00:59 +0000 2011	440d6d0af964a5208d301fe3	{Original KrungThai Restaurant}	{37.315519,-121.949701,San Jose,CA,United States}	{Food,}
+2065	Tue Aug 02 02:03:59 +0000 2011	4bb8d53bcf2fc9b680e99f02	{Saint Martin of Tours Church}	{37.32467649782565,-121.93905884173658,San Jose,CA,United States}	{Spiritual Center,Professional & Other Places,}
+2065	Sat Jul 30 02:01:17 +0000 2011	4b5f5095f964a52088b329e3	{Celia's Mexican Restaurant}	{37.87555872,-122.26009726524353,Berkeley,CA,United States}	{Food,}
+2065	Tue Jul 26 23:41:56 +0000 2011	4c8f073814fdb713218937c4	{Jesuit School of Theology}	{37.877668824988554,-122.25871721990774,Berkeley,CA,United States}	{College & University,Professional & Other Places,}
+2065	Tue Jul 26 04:38:29 +0000 2011	4a9211c9f964a520bd1c20e3	{Century at Tanforan and XD}	{37.637157425127725,-122.41771459579468,San Bruno,CA,United States}	{Arts & Entertainment,Movie Theater,}
+2065	Sun Jul 24 23:32:09 +0000 2011	49dba3b4f964a520e25e1fe3	{The Tipsy Pig}	{37.80020932826012,-122.44014322757721,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+2065	Fri Jul 22 22:26:37 +0000 2011	4c8f073814fdb713218937c4	{Jesuit School of Theology}	{37.877668824988554,-122.25871721990774,Berkeley,CA,United States}	{College & University,Professional & Other Places,}
+2065	Fri Jul 22 04:07:58 +0000 2011	3fd66200f964a52066ed1ee3	{Magnolia Gastropub & Brewery}	{37.770223,-122.445354,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+2065	Sun Jul 17 20:47:55 +0000 2011	4c8f073814fdb713218937c4	{Jesuit School of Theology}	{37.877668824988554,-122.25871721990774,Berkeley,CA,United States}	{College & University,Professional & Other Places,}
+2065	Sun Jul 17 03:42:23 +0000 2011	4a333748f964a520199b1fe3	{AMC Bay Street 16}	{37.83297152392784,-122.29205846786499,Emeryville,CA,United States}	{Arts & Entertainment,Movie Theater,}
+2065	Sat Jul 16 15:24:56 +0000 2011	4c8f073814fdb713218937c4	{Jesuit School of Theology}	{37.877668824988554,-122.25871721990774,Berkeley,CA,United States}	{College & University,Professional & Other Places,}
+2065	Fri Jul 15 05:32:27 +0000 2011	4a6aab00f964a520d6cd1fe3	{Sudachi Sushi & Korean BBQ}	{37.7875653,-122.420459,San Francisco,CA,United States}	{Food,}
+2065	Fri Jul 15 04:16:56 +0000 2011	3fd66200f964a52098ed1ee3	{Irish Bank}	{37.7903451920591,-122.40459322929382,San Francisco,CA,United States}	{Nightlife Spot,}
+2065	Thu Jul 14 16:59:56 +0000 2011	4c5b37312815c92879d8ae67	{Jesuit Retreat Center}	{37.36928199067202,-122.11945395732718,Los Altos,CA,United States}	{Professional & Other Places,}
+2065	Tue Jul 05 03:13:52 +0000 2011	413ba880f964a520e51a1fe3	{Gordon Biersch Brewery Restaurant}	{37.78957363984066,-122.38885939121246,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+2065	Mon Jul 04 00:13:51 +0000 2011	4b352b6ef964a520e62a25e3	{St. Victor's Church}	{37.39740382176713,-121.85058183000018,San Jose,CA,United States}	{Spiritual Center,Professional & Other Places,}
+2065	Fri Jun 24 05:30:02 +0000 2011	40870b00f964a52097f21ee3	{Ireland's 32}	{37.781338691711426,-122.461456,San Francisco,CA,United States}	{Nightlife Spot,}
+2065	Fri Jun 24 05:22:19 +0000 2011	49bc416af964a52021541fe3	{Buckshot Bar & Gameroom}	{37.781298,-122.460825,San Francisco,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+2065	Wed Jun 22 05:18:50 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+2065	Wed Jun 22 02:11:23 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+2065	Mon Jun 20 22:51:04 +0000 2011	4ad4c04af964a5209af220e3	{Hotel Provincial}	{29.96022050139115,-90.06119048758931,New Orleans,LA,United States}	{Travel & Transport,}
+2065	Mon Jun 20 12:08:43 +0000 2011	4ad4c04ef964a520d0f320e3	{St. Louis Cathedral}	{29.957853390693202,-90.06350285389789,New Orleans,LA,United States}	{Spiritual Center,Arts & Entertainment,Professional & Other Places,}
+2065	Sun Jun 19 23:31:10 +0000 2011	4b84b050f964a5201a4131e3	{Zea Rotisserie & Grill}	{29.93852635429554,-90.07628202438354,New Orleans,LA,United States}	{Food,}
+2065	Sun Jun 19 20:03:25 +0000 2011	4ad4c04af964a5209af220e3	{Hotel Provincial}	{29.96022050139115,-90.06119048758931,New Orleans,LA,United States}	{Travel & Transport,}
+2065	Sat Jun 18 22:47:26 +0000 2011	4ae25ec4f964a520be8d21e3	{The Market Cafe}	{29.9591082752157,-90.06053374623323,New Orleans,LA,United States}	{Food,}
+2065	Sat Jun 18 21:05:40 +0000 2011	4aa59477f964a520dd4820e3	{Caf? Du Monde}	{29.957505928636447,-90.06194561719894,New Orleans,LA,United States}	{Food,}
+2065	Fri Jun 17 21:27:54 +0000 2011	4ad4c04ef964a520a2f320e3	{Dillard University}	{29.996057749401338,-90.06610728335846,New Orleans,LA,United States}	{College & University,Government Building,Professional & Other Places,}
+2065	Wed Jun 15 22:01:44 +0000 2011	4a65d6a4f964a520a1c71fe3	{Louis Armstrong New Orleans International Airport (MSY)}	{29.984936414376474,-90.25714874267578,Kenner,LA,United States}	{Travel & Transport,}
+2065	Sat Jun 11 03:42:53 +0000 2011	4a184eddf964a52096791fe3	{Billy Berk's}	{37.334371,-121.889346,San Jose,CA,United States}	{Food,}
+2065	Fri Jun 10 23:00:12 +0000 2011	4af3bfaaf964a52044ef21e3	{Leavey Center}	{37.348965747163255,-121.93547487258911,Santa Clara,CA,United States}	{College & University,College Stadium,}
+2065	Fri Jun 10 05:57:22 +0000 2011	42d1b680f964a52006261fe3	{The Saddle Rack}	{37.50803835705396,-121.98184353851536,Fremont,CA,United States}	{Nightlife Spot,}
+2065	Fri Jun 10 02:33:40 +0000 2011	43b02c45f964a520942c1fe3	{Fairmont San Jose}	{37.33269928711366,-121.8892765045166,San Jose,CA,United States}	{Nightlife Spot,Travel & Transport,}
+2065	Thu Jun 09 23:23:27 +0000 2011	43b02c45f964a520942c1fe3	{Fairmont San Jose}	{37.33269928711366,-121.8892765045166,San Jose,CA,United States}	{Nightlife Spot,Travel & Transport,}
+2065	Thu Jun 09 02:30:46 +0000 2011	4de6d83152b1886171c0ef9e	{Off the Grid: North Berkeley}	{37.881535009586955,-122.26951718330383,Berkeley,CA,United States}	{Food,}
+2065	Tue Jun 07 20:40:40 +0000 2011	457c6a6df964a520093f1fe3	{In-N-Out Burger}	{37.68826935148615,-122.47197300195694,Daly City,CA,United States}	{Food,}
+2065	Tue Jun 07 19:22:58 +0000 2011	4ae5f933f964a520aea321e3	{The Cathedral of Christ the Light}	{37.81012689197748,-122.2633089465587,Oakland,CA,United States}	{Spiritual Center,Professional & Other Places,}
+2065	Sun Jun 05 20:27:46 +0000 2011	4ae0b430f964a520c88121e3	{Tomate Cafe}	{37.86359537181698,-122.29731700711332,Berkeley,CA,United States}	{Food,}
+2065	Sun Jun 05 17:23:10 +0000 2011	4b49143bf964a520f96426e3	{Saint Columba}	{37.846800299984515,-122.28542289833845,Oakland,CA,United States}	{Spiritual Center,Professional & Other Places,}
+2065	Sat Jun 04 21:32:49 +0000 2011	49cc413df964a5205a591fe3	{California Academy of Sciences}	{37.7697648824009,-122.46631622314455,San Francisco,CA,United States}	{Museum,Arts & Entertainment,}
+2065	Wed Jun 01 23:27:44 +0000 2011	4bf85a44b182c9b6de5c775a	{Crossroads Trading Co.}	{37.847158606905644,-122.2522807153042,Oakland,CA,United States}	{Shop & Service,Clothing Store,}
+2065	Mon May 30 18:04:17 +0000 2011	4bae560bf964a5206da43be3	{Woodlawn Cemetery}	{37.681135875909575,-122.46519230407236,Colma,CA,United States}	{Outdoors & Recreation,}
+2065	Sun May 29 21:28:49 +0000 2011	4a8b8b12f964a5209a0c20e3	{San Francisco Food Bank}	{37.754475,-122.393278,San Francisco,CA,United States}	{Shop & Service,Professional & Other Places,}
+2065	Thu May 26 03:31:07 +0000 2011	438f5a5ff964a5203f2b1fe3	{Gordon Biersch Brewery Restaurant}	{37.33472821639385,-121.8885933902626,San Jose,CA,United States}	{Nightlife Spot,Food,}
+2065	Thu May 26 01:41:57 +0000 2011	4ba19e45f964a52026c437e3	{McCormick & Schmick's Seafood Restaurant}	{37.33272487948731,-121.88913702964783,San Jose,CA,United States}	{Food,}
+2065	Mon May 23 21:23:16 +0000 2011	4b830e8af964a52005f530e3	{Church Divinity School of the Pacific}	{37.87653095667628,-122.26113773255356,Berkeley,CA,United States}	{College & University,}
+2065	Sat May 21 21:56:42 +0000 2011	4c8f073814fdb713218937c4	{Jesuit School of Theology}	{37.877668824988554,-122.25871721990774,Berkeley,CA,United States}	{College & University,Professional & Other Places,}
+2065	Thu May 19 04:43:19 +0000 2011	4a6a86cdf964a520b0cd1fe3	{Jupiter}	{37.86982630537387,-122.26747400877707,Berkeley,CA,United States}	{Nightlife Spot,Food,}
+2065	Wed May 18 03:12:32 +0000 2011	4a6a86cdf964a520b0cd1fe3	{Jupiter}	{37.86982630537387,-122.26747400877707,Berkeley,CA,United States}	{Nightlife Spot,Food,}
+2065	Tue May 17 05:12:59 +0000 2011	46521c11f964a520e7461fe3	{Yogurt Park}	{37.86772896,-122.259752,Berkeley,CA,United States}	{Food,}
+2065	Tue May 10 22:06:58 +0000 2011	452b81ddf964a520393b1fe3	{Westfield San Francisco Centre}	{37.78448965,-122.4063157,San Francisco,CA,United States}	{Shop & Service,}
+2065	Tue May 10 20:53:02 +0000 2011	40bbc700f964a520b1001fe3	{Union Square}	{37.787750172585,-122.40762822536455,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2065	Mon May 09 16:51:17 +0000 2011	4b5f5549f964a52091b429e3	{Sacred Heart Cathedral Preparatory}	{37.78286007389863,-122.42349053125541,San Francisco,CA,United States}	{School,Professional & Other Places,}
+2065	Fri Apr 29 01:28:13 +0000 2011	4c5870e612f0d13a676f09ad	{franciscan School of Theology}	{37.877361,-122.260666,Berkeley,CA,United States}	{College & University,}
+2065	Wed Apr 27 19:05:42 +0000 2011	4a6a83d4f964a520a8cd1fe3	{Popeyes Louisiana Kitchen}	{37.87191152572632,-122.292922,Berkeley,CA,United States}	{Food,}
+2065	Tue Apr 26 20:06:54 +0000 2011	4a0fb4acf964a5207f761fe3	{San Francisco General Hospital}	{37.7556500492407,-122.40498980624761,San Francisco,CA,United States}	{Medical Center,Professional & Other Places,}
+2065	Tue Apr 26 17:08:16 +0000 2011	4db6fbdc1e7248d135d45661	{St Vincent De Paul Wellness Center}	{37.77978013540856,-122.4129048649293,San francisco,,United States}	{}
+2065	Fri Apr 22 01:38:12 +0000 2011	4c31625366e40f47bc04c58b	{St. Pascal Baylon Catholic Church}	{37.757392,-122.145195,Oakland,CA,United States}	{Spiritual Center,Professional & Other Places,}
+2065	Thu Apr 21 03:57:48 +0000 2011	49c2d976f964a52030561fe3	{Triple Rock Brewery & Alehouse}	{37.873483,-122.26863148,Berkeley,CA,United States}	{Nightlife Spot,}
+2065	Tue Apr 19 21:06:40 +0000 2011	4bbb54033db7b713fd2e249a	{College Market}	{37.78357899817342,-122.42247819900513,San Francisco,CA,United States}	{Food,}
+2065	Tue Apr 19 02:58:13 +0000 2011	4b5e2dc6f964a520fb8129e3	{The Jewish Home}	{37.72816298771681,-122.43092308852853,San Francisco,CA,United States}	{Medical Center,Professional & Other Places,}
+2065	Sun Apr 17 19:46:22 +0000 2011	4b54e2f9f964a52066d127e3	{Discount Fabric}	{37.85183666344598,-122.28689589090094,Berkeley,CA,United States}	{Shop & Service,}
+2065	Sat Apr 16 22:02:06 +0000 2011	4a2363f5f964a520d37d1fe3	{Mount Tamalpais State Park}	{37.908481237169276,-122.57717155784755,Mill Valley,CA,United States}	{Outdoors & Recreation,}
+2065	Fri Apr 15 05:20:34 +0000 2011	4a6bce89f964a520facf1fe3	{La Val's}	{37.875542,-122.260375,Berkeley,CA,United States}	{Food,}
+2065	Fri Apr 15 01:24:37 +0000 2011	4ae5f933f964a520aea321e3	{The Cathedral of Christ the Light}	{37.81012689197748,-122.2633089465587,Oakland,CA,United States}	{Spiritual Center,Professional & Other Places,}
+2065	Wed Apr 13 16:00:27 +0000 2011	4ca7c59d97c8a1cd5b017ea5	{George Mark Children's House}	{37.708609201997476,-122.11601972579956,San Leandro,CA,United States}	{Professional & Other Places,}
+2065	Tue Apr 12 03:17:18 +0000 2011	4bd2177d046076b055357371	{AT&T Park}	{37.77833858778822,-122.38940119743347,San Francisco,CA,United States}	{Stadium,Arts & Entertainment,}
+2065	Sun Apr 10 21:41:38 +0000 2011	4c31625366e40f47bc04c58b	{St. Pascal Baylon Catholic Church}	{37.757392,-122.145195,Oakland,CA,United States}	{Spiritual Center,Professional & Other Places,}
+2065	Sun Apr 10 19:42:34 +0000 2011	4abfbd54f964a520f09120e3	{Montclair Egg Shop}	{37.827129,-122.210336,Oakland,CA,United States}	{Food,}
+2065	Wed Apr 06 22:20:16 +0000 2011	4bbfdbe2f8219c74e5d0b010	{Lush Gelato}	{37.87980526,-122.26892463333333,Berkeley,CA,United States}	{Food,}
+2065	Tue Apr 05 03:33:34 +0000 2011	4b6c93acf964a52054442ce3	{Henry's}	{37.868065055009964,-122.25665115534409,Berkeley,CA,United States}	{Nightlife Spot,}
+2065	Sun Apr 03 22:58:10 +0000 2011	4c8f073814fdb713218937c4	{Jesuit School of Theology}	{37.877668824988554,-122.25871721990774,Berkeley,CA,United States}	{College & University,Professional & Other Places,}
+2065	Sun Apr 03 19:22:26 +0000 2011	49ecbfc6f964a5207d671fe3	{Caf? Fanny}	{37.875065,-122.29373228985764,Berkeley,CA,United States}	{Food,}
+2065	Sun Apr 03 17:24:30 +0000 2011	4c31625366e40f47bc04c58b	{St. Pascal Baylon Catholic Church}	{37.757392,-122.145195,Oakland,CA,United States}	{Spiritual Center,Professional & Other Places,}
+2065	Sun Apr 03 07:39:19 +0000 2011	4a05c14ef964a5206e721fe3	{Kona Club}	{37.830420908758946,-122.24730312824249,Oakland,CA,United States}	{Nightlife Spot,}
+2065	Sun Apr 03 06:09:56 +0000 2011	4a05c14ef964a5206e721fe3	{Kona Club}	{37.830420908758946,-122.24730312824249,Oakland,CA,United States}	{Nightlife Spot,}
+2065	Sat Apr 02 17:28:27 +0000 2011	4ab66b5cf964a520027720e3	{St. Agnes Church}	{37.77152206492661,-122.44573133093367,San Francisco,CA,United States}	{Spiritual Center,Professional & Other Places,}
+2065	Sat Apr 02 03:09:48 +0000 2011	4a8c48c6f964a5208d0d20e3	{O Cham?}	{37.869502245129446,-122.30063914598055,Berkeley,CA,United States}	{Food,}
+2065	Fri Apr 01 05:54:01 +0000 2011	44e65d17f964a5207b371fe3	{Tank Hill Park}	{37.75990423297375,-122.4476665328745,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2065	Fri Apr 01 04:10:05 +0000 2011	4bcca8390687ef3bc0a6dfcc	{Social Kitchen & Brewery}	{37.76359345829258,-122.46615972958666,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+2065	Fri Apr 01 03:22:36 +0000 2011	4c89630d9ef0224bd1b5517b	{Off the Grid: Upper Haight}	{37.768229821312126,-122.45386004447937,San Francisco,CA,United States}	{Food,}
+2065	Fri Apr 01 00:26:55 +0000 2011	4bef49c996edc9b690974af2	{Sloat and Great Highway}	{37.73539224082337,-122.50631332397461,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2065	Sun Mar 27 21:59:14 +0000 2011	4bc8ccc6af07a593b7b1812d	{Taraval Police Station}	{37.746987805038685,-122.4774585965199,San Francisco,CA,United States}	{Government Building,Professional & Other Places,}
+2065	Sun Mar 27 01:39:49 +0000 2011	4c5f6a13891bef3ba7f21c4b	{Wingstop}	{37.69991706057628,-122.48395442962646,DALY CITY,CA,United States}	{Food,}
+2065	Sat Mar 26 05:02:26 +0000 2011	4a357b76f964a5200a9d1fe3	{Ici Ice Cream}	{37.85735515,-122.253176,Berkeley,CA,United States}	{Food,}
+2065	Fri Mar 25 05:47:07 +0000 2011	42829c80f964a52020221fe3	{Genki Crepes}	{37.783033,-122.462893,San Francisco,CA,United States}	{Food,}
+2065	Tue Mar 22 23:49:09 +0000 2011	4c954d0715829521c5eb22a8	{Incarnation Monastery}	{37.88325228222358,-122.25369323452291,Berkeley,CA,United States}	{Spiritual Center,Professional & Other Places,}
+2065	Tue Mar 22 18:15:23 +0000 2011	4c8f073814fdb713218937c4	{Jesuit School of Theology}	{37.877668824988554,-122.25871721990774,Berkeley,CA,United States}	{College & University,Professional & Other Places,}
+2065	Mon Mar 21 05:45:56 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+2065	Sat Mar 19 23:02:12 +0000 2011	49cec74ef964a520865a1fe3	{Anaheim Marriott}	{33.79888877194206,-117.91853427886963,Anaheim,CA,United States}	{Travel & Transport,}
+2065	Fri Mar 18 03:52:02 +0000 2011	4a3ed914f964a5207ea31fe3	{Hilton Anaheim}	{33.80022574641037,-117.9182436519901,Anaheim,CA,United States}	{Travel & Transport,Professional & Other Places,}
+2065	Thu Mar 17 22:00:34 +0000 2011	4b691efdf964a520b4992be3	{Loyola Marymount University (LMU)}	{33.96842934050945,-118.41652419616008,Los Angeles,CA,United States}	{College & University,}
+2065	Thu Mar 17 00:21:07 +0000 2011	4b0c996ef964a520ed3f23e3	{UCSF Medical Center - 400 Parnassus}	{37.764048610296,-122.45728119162965,San Francisco,CA,United States}	{Medical Center,Professional & Other Places,}
+2065	Sun Mar 13 23:56:37 +0000 2011	43a47bc4f964a5204b2c1fe3	{Berkeley Bowl}	{37.857178,-122.267337,Berkeley,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2065	Sun Mar 13 19:13:36 +0000 2011	4c31625366e40f47bc04c58b	{St. Pascal Baylon Catholic Church}	{37.757392,-122.145195,Oakland,CA,United States}	{Spiritual Center,Professional & Other Places,}
+2065	Sun Mar 13 17:13:37 +0000 2011	4c31625366e40f47bc04c58b	{St. Pascal Baylon Catholic Church}	{37.757392,-122.145195,Oakland,CA,United States}	{Spiritual Center,Professional & Other Places,}
+2065	Sat Mar 12 03:08:15 +0000 2011	4c5870e612f0d13a676f09ad	{franciscan School of Theology}	{37.877361,-122.260666,Berkeley,CA,United States}	{College & University,}
+2065	Mon Mar 07 07:30:47 +0000 2011	46bf8ce9f964a520e5491fe3	{Nation's Giant Hamburgers & Great Pies}	{37.87108598397212,-122.27492862043195,Berkeley,CA,United States}	{Food,}
+2065	Thu Mar 03 15:52:59 +0000 2011	4c5870e612f0d13a676f09ad	{franciscan School of Theology}	{37.877361,-122.260666,Berkeley,CA,United States}	{College & University,}
+2065	Thu Mar 03 05:42:30 +0000 2011	4a73a7baf964a52015dd1fe3	{Safeway}	{37.88097932220235,-122.26993862980885,Berkeley,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2065	Mon Feb 28 16:31:52 +0000 2011	4aaad253f964a520905720e3	{Sunset Super}	{37.73820067395333,-122.49723672866821,San Francisco,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2065	Mon Feb 28 02:29:39 +0000 2011	49bacd63f964a520b0531fe3	{Lands End}	{37.78315503056424,-122.51118555665016,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2065	Mon Feb 28 01:34:15 +0000 2011	4ab57ffcf964a520007520e3	{Kara's Cupcakes}	{37.799772739862284,-122.44100689888,San Francisco,CA,United States}	{Food,}
+2065	Mon Feb 28 00:28:41 +0000 2011	42a39200f964a520ec241fe3	{Bar None}	{37.79767968898177,-122.43194612996197,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+2065	Mon Feb 28 00:19:04 +0000 2011	49d808f8f964a520995d1fe3	{Judy's Cafe}	{37.80031098378773,-122.44067752071204,San Francisco,CA,United States}	{Food,}
+2065	Sun Feb 27 10:04:50 +0000 2011	40c3b000f964a520e3001fe3	{La Victoria Taqueria}	{37.332663708429294,-121.88436929316791,San Jose,CA,United States}	{Food,}
+2065	Sun Feb 27 09:49:22 +0000 2011	40c3b000f964a520e3001fe3	{La Victoria Taqueria}	{37.332663708429294,-121.88436929316791,San Jose,CA,United States}	{Food,}
+2065	Sun Feb 27 08:17:17 +0000 2011	4a26c122f964a520d97e1fe3	{Motif Lounge}	{37.33013628624751,-121.88627571487093,San Jose,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+2065	Thu Feb 24 03:48:23 +0000 2011	4bb8ede153649c748c8247fb	{Santa Clara University - Mission Church}	{37.34556463461807,-121.93346443948823,,CA,United States}	{Spiritual Center,Professional & Other Places,}
+2065	Thu Feb 24 00:20:20 +0000 2011	4b5deaa0f964a520897329e3	{Santa Clara University - Benson}	{37.347626690835604,-121.9393265247345,Santa Clara,CA,United States}	{College & University,}
+2065	Wed Feb 23 23:19:15 +0000 2011	4a885ee9f964a5200f0620e3	{Center for Spiritual Enlightenment}	{37.338904750071094,-121.9230193125778,San Jose,CA,United States}	{Professional & Other Places,}
+2065	Tue Feb 22 23:26:01 +0000 2011	4b3b9a0df964a520cf7625e3	{Kaiser Permanente Medical Center}	{37.783275899330974,-122.44051716606971,San Francisco,CA,United States}	{Medical Center,Professional & Other Places,}
+2065	Tue Feb 22 17:34:39 +0000 2011	4a5901fff964a52072b81fe3	{Cathedral of St. Mary of the Assumption}	{37.78472250296417,-122.42533765937904,San Francisco,CA,United States}	{Spiritual Center,Professional & Other Places,}
+2065	Tue Feb 22 02:51:50 +0000 2011	463c53f3f964a5202d461fe3	{Fentons Creamery & Restaurant}	{37.8279973189658,-122.250095307827,Oakland,CA,United States}	{Food,}
+2065	Mon Feb 21 06:51:30 +0000 2011	43f18ee6f964a520832f1fe3	{The Hut}	{37.35142785337721,-121.94041434423602,Santa Clara,CA,United States}	{Nightlife Spot,}
+2065	Mon Feb 21 03:17:41 +0000 2011	4489da69f964a52043341fe3	{Trial's Pub}	{37.339963,-121.893523,San Jose,CA,United States}	{Nightlife Spot,}
+2065	Mon Feb 21 00:46:05 +0000 2011	4b146128f964a52030a223e3	{Cathedral Basilica St. Joseph}	{37.33407158212537,-121.89041637176462,San Jose,CA,United States}	{Spiritual Center,Professional & Other Places,}
+2065	Wed Feb 16 23:40:44 +0000 2011	4bbfdbe2f8219c74e5d0b010	{Lush Gelato}	{37.87980526,-122.26892463333333,Berkeley,CA,United States}	{Food,}
+2065	Wed Feb 16 23:26:43 +0000 2011	4bb04a73f964a520e23f3ce3	{Cheese Board Pizza}	{37.87993818215996,-122.26932940294999,Berkeley,CA,United States}	{Food,}
+2065	Mon Feb 14 02:23:21 +0000 2011	4bcca8390687ef3bc0a6dfcc	{Social Kitchen & Brewery}	{37.76359345829258,-122.46615972958666,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+2065	Sun Feb 13 19:12:22 +0000 2011	4ab66b5cf964a520027720e3	{St. Agnes Church}	{37.77152206492661,-122.44573133093367,San Francisco,CA,United States}	{Spiritual Center,Professional & Other Places,}
+2065	Sat Feb 12 22:31:02 +0000 2011	4c8f073814fdb713218937c4	{Jesuit School of Theology}	{37.877668824988554,-122.25871721990774,Berkeley,CA,United States}	{College & University,Professional & Other Places,}
+2065	Fri Feb 11 19:24:49 +0000 2011	4b2e88dff964a520fce124e3	{Ocean Delight}	{37.257202271016666,-121.80414855480194,San Jose,CA,United States}	{Food,}
+2065	Fri Feb 11 17:14:55 +0000 2011	4b3cd626f964a520008825e3	{Oak Hill Funeral Home & Memorial Park}	{37.29944080907739,-121.86391904758914,San Jose,CA,United States}	{Outdoors & Recreation,Spiritual Center,Professional & Other Places,}
+2065	Fri Feb 11 04:04:47 +0000 2011	4bb04a73f964a520e23f3ce3	{Cheese Board Pizza}	{37.87993818215996,-122.26932940294999,Berkeley,CA,United States}	{Food,}
+2065	Thu Feb 10 02:09:50 +0000 2011	4b69bcedf964a520f4b02be3	{Pacific School of Religion}	{37.87651620732689,-122.26341972159751,Berkeley,CA,United States}	{College & University,}
+2065	Wed Feb 09 06:17:34 +0000 2011	4838e6acf964a52006501fe3	{UA Emery Bay Stadium 10}	{37.84320909873765,-122.29428823330441,Emeryville,CA,United States}	{Arts & Entertainment,}
+2065	Tue Feb 08 04:51:02 +0000 2011	4b6c93acf964a52054442ce3	{Henry's}	{37.868065055009964,-122.25665115534409,Berkeley,CA,United States}	{Nightlife Spot,}
+2065	Sun Feb 06 23:27:44 +0000 2011	4b0c996ef964a520ed3f23e3	{UCSF Medical Center - 400 Parnassus}	{37.764048610296,-122.45728119162965,San Francisco,CA,United States}	{Medical Center,Professional & Other Places,}
+2065	Sun Feb 06 02:27:32 +0000 2011	4bc7977914d79521c4b167e9	{Moffitt Cafe - UCSF Medical Center}	{37.76340710573033,-122.45780087775331,San Francisco,CA,United States}	{Food,}
+2065	Sat Feb 05 19:48:49 +0000 2011	4b0c996ef964a520ed3f23e3	{UCSF Medical Center - 400 Parnassus}	{37.764048610296,-122.45728119162965,San Francisco,CA,United States}	{Medical Center,Professional & Other Places,}
+2065	Thu Feb 03 17:31:23 +0000 2011	4c5870e612f0d13a676f09ad	{franciscan School of Theology}	{37.877361,-122.260666,Berkeley,CA,United States}	{College & University,}
+2065	Mon Jan 31 03:26:29 +0000 2011	4a73619af964a52050dc1fe3	{Toyose}	{37.753142128598896,-122.50468914649228,San Francisco,CA,United States}	{Food,}
+2065	Mon Jan 31 01:58:03 +0000 2011	4ab66b5cf964a520027720e3	{St. Agnes Church}	{37.77152206492661,-122.44573133093367,San Francisco,CA,United States}	{Spiritual Center,Professional & Other Places,}
+2065	Sun Jan 30 20:41:00 +0000 2011	4cf84415ce1da1cd1602c7e1	{UCSF Medical Center (Parnassus) U80}	{37.76266319999326,-122.46019471773565,San Francisco,CA,United States}	{Professional & Other Places,}
+2065	Sun Jan 30 06:59:36 +0000 2011	41ad0980f964a5205c1e1fe3	{Bruno's}	{37.75899257850096,-122.41901083404616,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+2065	Sun Jan 30 02:08:27 +0000 2011	428bd700f964a5209f231fe3	{The Pig and Whistle}	{37.782003984846526,-122.44905985613045,San Francisco,CA,United States}	{Nightlife Spot,}
+2065	Sun Jan 30 01:48:43 +0000 2011	4b772b14f964a52045842ee3	{Loyal Army Clothing}	{37.76956558068944,-122.45078355073929,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+2065	Sat Jan 29 17:23:52 +0000 2011	4a5901fff964a52072b81fe3	{Cathedral of St. Mary of the Assumption}	{37.78472250296417,-122.42533765937904,San Francisco,CA,United States}	{Spiritual Center,Professional & Other Places,}
+2065	Thu Jan 27 15:41:43 +0000 2011	409ad180f964a520eef21ee3	{Ocean Beach}	{37.769391721310974,-122.51133441925049,San Francisco,CA,United States}	{Outdoors & Recreation,Beach,}
+2065	Thu Jan 27 04:51:53 +0000 2011	4493522af964a5207c341fe3	{Oakland International Airport (OAK)}	{37.71226740592608,-122.21261143684387,Oakland,CA,United States}	{Travel & Transport,}
+2065	Thu Jan 27 01:34:28 +0000 2011	482d61baf964a520d64f1fe3	{Denver International Airport (DEN)}	{39.85029261500981,-104.67378616333006,Denver,CO,United States}	{Travel & Transport,}
+2065	Wed Jan 26 23:45:53 +0000 2011	482d61baf964a520d64f1fe3	{Denver International Airport (DEN)}	{39.85029261500981,-104.67378616333006,Denver,CO,United States}	{Travel & Transport,}
+2065	Wed Jan 26 19:07:34 +0000 2011	4a65d6a4f964a520a1c71fe3	{Louis Armstrong New Orleans International Airport (MSY)}	{29.984936414376474,-90.25714874267578,Kenner,LA,United States}	{Travel & Transport,}
+2065	Wed Jan 26 18:21:06 +0000 2011	4ba94476f964a520be193ae3	{Daiquiri Place}	{29.939807,-90.075249,New Orleans,LA,United States}	{Nightlife Spot,}
+2065	Wed Jan 26 04:21:03 +0000 2011	41326e00f964a52092181fe3	{Carrollton Station}	{29.949318654630787,-90.12917828066047,New Orleans,LA,United States}	{Nightlife Spot,Outdoors & Recreation,Arts & Entertainment,}
+2065	Wed Jan 26 02:41:15 +0000 2011	4ad4c04df964a52051f320e3	{Cure}	{29.9350189257289,-90.10742247104645,New Orleans,LA,United States}	{Nightlife Spot,}
+2065	Wed Jan 26 02:19:12 +0000 2011	4ad4c04df964a52051f320e3	{Cure}	{29.9350189257289,-90.10742247104645,New Orleans,LA,United States}	{Nightlife Spot,}
+2065	Wed Jan 26 00:47:08 +0000 2011	4ad4c04df964a52082f320e3	{Superior Grill}	{29.926932076887468,-90.0944995880127,New Orleans,LA,United States}	{Nightlife Spot,Food,}
+2065	Tue Jan 25 19:38:33 +0000 2011	4cf5123594feb1f7b84a2bba	{The Good Shepherd School}	{29.951112,-90.073044,New Orleans,LA,United States}	{Professional & Other Places,}
+2065	Tue Jan 25 17:53:41 +0000 2011	4ad4c050f964a5205ef420e3	{Cafe Reconcile}	{29.939795,-90.08021950721741,New Orleans,LA,United States}	{Food,}
+2065	Tue Jan 25 16:52:39 +0000 2011	4b2d3c94f964a520e5d124e3	{St Joseph's Church}	{29.957,-90.08157670497894,New Orleans,LA,United States}	{Spiritual Center,Professional & Other Places,}
+2065	Tue Jan 25 15:08:33 +0000 2011	4b54ac9ef964a5205fc627e3	{Harry Tompson Center}	{29.956082232440806,-90.08118999244114,New Orleans,LA,United States}	{}
+2065	Tue Jan 25 13:45:45 +0000 2011	4ad4c050f964a5205ef420e3	{Cafe Reconcile}	{29.939795,-90.08021950721741,New Orleans,LA,United States}	{Food,}
+2065	Mon Jan 24 04:36:54 +0000 2011	41e31700f964a520ce1e1fe3	{Zotz Cafe}	{29.948232710048263,-90.13097386460382,New Orleans,LA,United States}	{Food,Arts & Entertainment,}
+2065	Mon Jan 24 01:57:57 +0000 2011	41326e00f964a52092181fe3	{Carrollton Station}	{29.949318654630787,-90.12917828066047,New Orleans,LA,United States}	{Nightlife Spot,Outdoors & Recreation,Arts & Entertainment,}
+2065	Mon Jan 24 01:33:59 +0000 2011	41e31700f964a520ce1e1fe3	{Zotz Cafe}	{29.948232710048263,-90.13097386460382,New Orleans,LA,United States}	{Food,Arts & Entertainment,}
+2065	Sun Jan 23 22:44:48 +0000 2011	4ba94476f964a520be193ae3	{Daiquiri Place}	{29.939807,-90.075249,New Orleans,LA,United States}	{Nightlife Spot,}
+2065	Sun Jan 23 16:37:05 +0000 2011	4b806ed6f964a520dc7130e3	{Mary Queen of Viet Nam}	{30.04043798272252,-89.91597164297124,New Orleans,LA,United States}	{Spiritual Center,Professional & Other Places,}
+2065	Sat Jan 22 19:34:07 +0000 2011	4ba94476f964a520be193ae3	{Daiquiri Place}	{29.939807,-90.075249,New Orleans,LA,United States}	{Nightlife Spot,}
+2065	Sat Jan 22 16:19:58 +0000 2011	4ad4c04ef964a520c8f320e3	{Jackson Square}	{29.957546596093284,-90.06290853023529,New Orleans,LA,United States}	{Outdoors & Recreation,Government Building,Professional & Other Places,}
+2065	Sat Jan 22 04:20:54 +0000 2011	4ad4c050f964a5205bf420e3	{Miyako Sushi Bar & Hibachi}	{29.93973188163515,-90.07543,New Orleans,LA,United States}	{Nightlife Spot,Food,}
+2065	Sat Jan 22 04:14:47 +0000 2011	4ad4c050f964a5205bf420e3	{Miyako Sushi Bar & Hibachi}	{29.93973188163515,-90.07543,New Orleans,LA,United States}	{Nightlife Spot,Food,}
+2065	Fri Jan 21 22:22:28 +0000 2011	4c35de87213c2d7f25be3a5d	{Prospect Station Casino}	{29.609047754806134,-90.66782463271505,Houma,LA,United States}	{Arts & Entertainment,}
+2065	Fri Jan 21 15:43:27 +0000 2011	4c9f4dc854c8a1cda0a2954b	{Diocese Of Houma-Thibodaux Pastoral Center}	{29.64626691612412,-90.81716012858772,Schriever,LA,United States}	{Professional & Other Places,}
+2065	Thu Jan 20 22:01:47 +0000 2011	4c17d6c14ff90f476f850d49	{Archdiocese - New Orleans}	{29.957609476339563,-90.11531443637035,New Orleans,LA,United States}	{Spiritual Center,Professional & Other Places,}
+2065	Thu Jan 20 19:17:19 +0000 2011	4af46cfff964a52059f221e3	{Orleans Room (Loyola University)}	{29.936118293478916,-90.12055790059789,New Orleans,LA,United States}	{College & University,}
+2065	Thu Jan 20 17:22:49 +0000 2011	4ada464bf964a520ca2021e3	{Audubon Park}	{29.926671724759164,-90.12797355651855,New Orleans,LA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+2065	Thu Jan 20 16:31:48 +0000 2011	4af9f7d0f964a520a41522e3	{Danna Center - Loyola University}	{29.936025377456907,-90.12054920196533,New Orleans,LA,United States}	{College & University,}
+2065	Thu Jan 20 02:37:28 +0000 2011	4ad4c050f964a520a3f420e3	{O'Henry's}	{29.943859379485364,-90.13353717122425,New Orleans,LA,United States}	{Food,}
+2065	Wed Jan 19 23:53:50 +0000 2011	4b4e4991f964a5202fe826e3	{De La Salle High School}	{29.92705569698623,-90.11172937720949,New Orleans,LA,United States}	{School,Professional & Other Places,}
+2065	Wed Jan 19 01:36:31 +0000 2011	41326e00f964a52041181fe3	{Avenue Pub}	{29.93693652128023,-90.07688283920288,New Orleans,LA,United States}	{Nightlife Spot,}
+2065	Tue Jan 18 23:07:39 +0000 2011	41326e00f964a520a11a1fe3	{The Bulldog}	{29.923521415847226,-90.08732787702147,New Orleans,LA,United States}	{Nightlife Spot,}
+2065	Mon Jan 17 17:42:32 +0000 2011	4aa59477f964a520dd4820e3	{Caf? Du Monde}	{29.957505928636447,-90.06194561719894,New Orleans,LA,United States}	{Food,}
+2065	Mon Jan 17 02:04:02 +0000 2011	4ae805e3f964a52004ae21e3	{St. Charles Tavern}	{29.93928256,-90.075544,New Orleans,LA,United States}	{Nightlife Spot,Food,}
+2065	Sun Jan 16 22:13:33 +0000 2011	4c042728187ec928eaabb67b	{The Lakefront}	{30.0282688266906,-90.09861946105957,New Orleans,LA,United States}	{Outdoors & Recreation,}
+2065	Sun Jan 16 21:46:24 +0000 2011	4ba7d620f964a520aeb739e3	{St Patricks Cemetery #3}	{29.981332488471782,-90.11019498250735,New Orleans,LA,United States}	{Professional & Other Places,}
+2065	Sun Jan 16 20:18:27 +0000 2011	4d2a22f877a2a1cd7e0572b7	{Parasol's}	{29.92641213814177,-90.0801724304585,New Orleans,LA,United States}	{Nightlife Spot,}
+2065	Sat Jan 15 23:53:17 +0000 2011	4ad4c050f964a52099f420e3	{Emeril's Delmonico}	{29.940353236301362,-90.07431864738464,New Orleans,LA,United States}	{Food,}
+2065	Sat Jan 15 21:34:13 +0000 2011	4ad4c049f964a52047f220e3	{Maison St. Charles Hotel}	{29.940387066749246,-90.07542264331845,New Orleans,LA,United States}	{Travel & Transport,}
+2065	Sat Jan 15 16:02:34 +0000 2011	482d61baf964a520d64f1fe3	{Denver International Airport (DEN)}	{39.85029261500981,-104.67378616333006,Denver,CO,United States}	{Travel & Transport,}
+2065	Sat Jan 15 07:23:50 +0000 2011	4ba7a482f964a52060a539e3	{UCSF Long Hospital}	{37.76335356551081,-122.45749680639851,San Francisco,CA,United States}	{Medical Center,Professional & Other Places,}
+2065	Fri Jan 14 09:48:30 +0000 2011	44cf44a2f964a52020361fe3	{Bob's Donut & Pastry Shop}	{37.791704,-122.420935,San Francisco,CA,United States}	{Food,}
+2065	Fri Jan 14 08:53:52 +0000 2011	4197f180f964a520131e1fe3	{Vertigo}	{37.78757591257018,-122.42003952216318,San Francisco,CA,United States}	{Nightlife Spot,}
+2065	Fri Jan 14 08:02:27 +0000 2011	4165d880f964a520771d1fe3	{Blur}	{37.78731,-122.420091,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+2065	Fri Jan 14 02:26:22 +0000 2011	4b847336f964a5202f3631e3	{UCSF - Moffitt Hospital}	{37.763146481901224,-122.46085259949743,San Francisco,CA,United States}	{Medical Center,Professional & Other Places,}
+2065	Wed Jan 12 05:43:55 +0000 2011	40f08300f964a5204e0a1fe3	{The Bitter End}	{37.78282433414082,-122.46408462524414,San Francisco,CA,United States}	{Nightlife Spot,}
+2065	Wed Jan 12 05:21:45 +0000 2011	4a384bcff964a520df9e1fe3	{Mercury Lounge}	{37.770963,-122.414943,San Francisco,CA,United States}	{Nightlife Spot,}
+2065	Mon Jan 10 22:43:38 +0000 2011	4a58e7a7f964a52024b81fe3	{Scrap}	{37.741237,-122.3999604,San Francisco,CA,United States}	{Shop & Service,}
+2065	Sun Jan 09 22:38:17 +0000 2011	4a8b8b12f964a5209a0c20e3	{San Francisco Food Bank}	{37.754475,-122.393278,San Francisco,CA,United States}	{Shop & Service,Professional & Other Places,}
+2065	Sat Jan 08 18:50:20 +0000 2011	4a050141f964a52047721fe3	{Hyatt Regency San Francisco}	{37.7940502261884,-122.39618182182312,San Francisco,CA,United States}	{Travel & Transport,Professional & Other Places,}
+2065	Sat Jan 08 05:52:50 +0000 2011	49dd5b31f964a520fe5f1fe3	{Pacific Catch}	{37.76571513,-122.466293,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+2065	Sat Jan 08 00:51:27 +0000 2011	4698dc59f964a520ed481fe3	{Grace Cathedral}	{37.79172623618031,-122.41324225110944,San Francisco,CA,United States}	{Spiritual Center,Professional & Other Places,}
+2065	Sat Jan 08 00:36:21 +0000 2011	44f73093f964a5204e381fe3	{Starbucks}	{37.78849,-122.422035,San Francisco,CA,United States}	{Food,}
+2065	Fri Jan 07 01:57:05 +0000 2011	4a73619af964a52050dc1fe3	{Toyose}	{37.753142128598896,-122.50468914649228,San Francisco,CA,United States}	{Food,}
+2065	Wed Jan 05 19:45:42 +0000 2011	4a52ab67f964a520e2b11fe3	{Hyperoptics}	{37.770018,-122.446346,San Francisco,CA,United States}	{Shop & Service,}
+2065	Wed Jan 05 19:01:52 +0000 2011	43519800f964a520be281fe3	{Coffee to the People}	{37.770116839430536,-122.44524747133255,San Francisco,CA,United States}	{Food,}
+2065	Wed Jan 05 18:05:33 +0000 2011	4c06940cb4aa0f4712516462	{Kaiser Permanente Optometry/Opthalmology}	{37.78452313788783,-122.43988680406318,San Francisco,CA,United States}	{Medical Center,Professional & Other Places,}
+2065	Mon Jan 03 01:49:55 +0000 2011	4b9c3083f964a520165336e3	{Saint Aidan's Episcopal Church}	{37.74323915933683,-122.43782980693406,San Francisco,CA,United States}	{Spiritual Center,Professional & Other Places,}
+2065	Sat Jan 01 03:17:21 +0000 2011	42ae1e00f964a52057251fe3	{Nob Hill Cafe}	{37.79322,-122.412823,San Francisco,CA,United States}	{Food,}
+2065	Fri Dec 31 08:57:42 +0000 2010	43aaeef4f964a520862c1fe3	{Otis}	{37.78834737007855,-122.40393331378218,San Francisco,CA,United States}	{Nightlife Spot,}
+2065	Fri Dec 31 07:39:23 +0000 2010	4a6aab00f964a520d6cd1fe3	{Sudachi Sushi & Korean BBQ}	{37.7875653,-122.420459,San Francisco,CA,United States}	{Food,}
+2065	Thu Dec 30 18:56:12 +0000 2010	452b81ddf964a520393b1fe3	{Westfield San Francisco Centre}	{37.78448965,-122.4063157,San Francisco,CA,United States}	{Shop & Service,}
+2065	Tue Dec 28 23:40:12 +0000 2010	4b0586b9f964a520626b22e3	{Oz Korean BBQ}	{38.56358406717473,-121.33567661046982,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+2065	Mon Dec 27 01:49:55 +0000 2010	4b0586b8f964a5200c6b22e3	{Old Sacramento State Historic Park}	{38.58315659780248,-121.50486244236612,Sacramento,CA,United States}	{Travel & Transport,Museum,Arts & Entertainment,}
+2065	Thu Dec 23 23:23:00 +0000 2010	4a2c53e1f964a5204d971fe3	{Berkeley Bowl West}	{37.85343161834265,-122.29009653371708,Berkeley,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+2065	Wed Dec 22 17:36:12 +0000 2010	4b3b9a0df964a520cf7625e3	{Kaiser Permanente Medical Center}	{37.783275899330974,-122.44051716606971,San Francisco,CA,United States}	{Medical Center,Professional & Other Places,}
+2065	Wed Dec 22 15:33:08 +0000 2010	4ba65c3cf964a520364a39e3	{Holy Name Of Jesus Catholic Church}	{37.75722903141462,-122.49843835830688,San Francisco,CA,United States}	{Spiritual Center,Professional & Other Places,}
+2065	Tue Dec 21 18:28:06 +0000 2010	45059d74f964a5200b391fe3	{Costco}	{37.66547801795927,-122.44850635528564,South San Francisco,CA,United States}	{Shop & Service,}
+2065	Tue Dec 21 17:36:22 +0000 2010	4c7c767c247cb60c815c5e5e	{Cafe Colma}	{37.67986352701592,-122.4526584148407,Colma,CA,United States}	{Food,}
+2065	Tue Dec 21 11:37:52 +0000 2010	4b33da62f964a5209b2025e3	{Intramuros}	{37.641479516666664,-122.425155,South San Francisco,CA,United States}	{Food,}
+2065	Tue Dec 21 07:29:28 +0000 2010	4d1048e4cf09a14336232b0f	{Solstice Lunar Eclipse}	{37.753121,-122.447086,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2065	Tue Dec 21 02:50:31 +0000 2010	4a85bea4f964a52022ff1fe3	{Brazil Fresh Squeeze Cafe}	{37.87247748751693,-122.26685369068089,Berkeley,CA,United States}	{Food,}
+2065	Sun Dec 19 19:09:10 +0000 2010	4b49143bf964a520f96426e3	{Saint Columba}	{37.846800299984515,-122.28542289833845,Oakland,CA,United States}	{Spiritual Center,Professional & Other Places,}
+2065	Sat Dec 18 02:30:11 +0000 2010	4b33da62f964a5209b2025e3	{Intramuros}	{37.641479516666664,-122.425155,South San Francisco,CA,United States}	{Food,}
+2065	Fri Dec 17 06:53:54 +0000 2010	4a6a86cdf964a520b0cd1fe3	{Jupiter}	{37.86982630537387,-122.26747400877707,Berkeley,CA,United States}	{Nightlife Spot,Food,}
+2065	Fri Dec 17 06:15:33 +0000 2010	49c2d976f964a52030561fe3	{Triple Rock Brewery & Alehouse}	{37.873483,-122.26863148,Berkeley,CA,United States}	{Nightlife Spot,}
+2065	Fri Dec 17 05:02:05 +0000 2010	49c2d976f964a52030561fe3	{Triple Rock Brewery & Alehouse}	{37.873483,-122.26863148,Berkeley,CA,United States}	{Nightlife Spot,}
+2065	Sun Dec 12 06:33:10 +0000 2010	4b53f6f0f964a520a3af27e3	{King of Thai Noodle}	{37.74264219284391,-122.48282790184021,San Francisco,CA,United States}	{Food,}
+2065	Sun Dec 12 01:45:47 +0000 2010	47d868cff964a5202e4e1fe3	{Elephant Bar}	{37.671694530514436,-122.47022151947021,Daly City,CA,United States}	{Food,}
+2065	Sat Dec 11 23:46:33 +0000 2010	4c8d714d8018a1cdd993f5d2	{Holy Angels Church}	{37.687580696906174,-122.46751411026725,Colma,CA,United States}	{Spiritual Center,Professional & Other Places,}
+2065	Sat Dec 11 00:37:06 +0000 2010	4b69bcedf964a520f4b02be3	{Pacific School of Religion}	{37.87651620732689,-122.26341972159751,Berkeley,CA,United States}	{College & University,}
+2065	Sun Dec 05 01:07:05 +0000 2010	4a651756f964a5204ac71fe3	{Metropolitan}	{37.78676303392629,-122.39343418895058,San Francisco,CA,United States}	{Residence,}
+2065	Sun Nov 28 18:32:22 +0000 2010	4b49143bf964a520f96426e3	{Saint Columba}	{37.846800299984515,-122.28542289833845,Oakland,CA,United States}	{Spiritual Center,Professional & Other Places,}
+2065	Sun Nov 28 08:32:46 +0000 2010	45563ac0f964a5202b3d1fe3	{Double Dutch}	{37.76487227495448,-122.42385000484498,San Francisco,CA,United States}	{Nightlife Spot,}
+2065	Sun Nov 28 07:38:24 +0000 2010	41ad0980f964a5205c1e1fe3	{Bruno's}	{37.75899257850096,-122.41901083404616,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+2065	Sat Nov 27 07:08:23 +0000 2010	4a6aab00f964a520d6cd1fe3	{Sudachi Sushi & Korean BBQ}	{37.7875653,-122.420459,San Francisco,CA,United States}	{Food,}
+2065	Sat Nov 27 06:09:54 +0000 2010	4161e400f964a520711d1fe3	{Hemlock Tavern}	{37.78739883665919,-122.42008566856384,San Francisco,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+2065	Sat Nov 27 03:50:34 +0000 2010	4161e400f964a520661d1fe3	{Schroeder's}	{37.79391457604158,-122.39881575107574,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+2065	Sat Nov 27 01:48:50 +0000 2010	40bbc700f964a520b1001fe3	{Union Square}	{37.787750172585,-122.40762822536455,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2065	Thu Nov 25 04:35:57 +0000 2010	49c2d976f964a52030561fe3	{Triple Rock Brewery & Alehouse}	{37.873483,-122.26863148,Berkeley,CA,United States}	{Nightlife Spot,}
+2065	Wed Nov 24 23:45:45 +0000 2010	4a73a7baf964a52015dd1fe3	{Safeway}	{37.88097932220235,-122.26993862980885,Berkeley,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2065	Wed Nov 24 04:40:18 +0000 2010	4a6bced7f964a520fbcf1fe3	{Seven Palms}	{37.87589904,-122.260246,Berkeley,CA,United States}	{Food,}
+2065	Mon Nov 22 00:35:05 +0000 2010	4b4102c9f964a52054bf25e3	{Alta Bates Summit Medical Center: Alta Bates Campus}	{37.855422239280486,-122.25755956399786,Berkeley,CA,United States}	{Medical Center,Professional & Other Places,}
+2065	Sun Nov 21 18:39:39 +0000 2010	4ca8aee7a6e08cfab07d9194	{St Patrick's Catholic Church}	{37.808749,-122.296499,Oakland,CA,United States}	{Spiritual Center,Professional & Other Places,}
+2065	Sun Nov 21 01:41:30 +0000 2010	4b6db454f964a5200a882ce3	{MacArthur Maze (I80 And I580 Junction)}	{37.82822612280363,-122.29346179962158,Oakland,CA,United States}	{Travel & Transport,}
+2065	Fri Nov 19 06:32:03 +0000 2010	4838e7faf964a52008501fe3	{Regal Jack London Stadium 9}	{37.79609320134841,-122.27747613922041,Oakland,CA,United States}	{Arts & Entertainment,}
+2065	Thu Nov 18 06:54:35 +0000 2010	4a569ad0f964a52083b51fe3	{Yogurtland}	{37.86872774362564,-122.25884467363358,Berkeley,CA,United States}	{Food,}
+2065	Wed Nov 17 18:59:51 +0000 2010	4a215f46f964a520d57c1fe3	{Children's Fairyland}	{37.80879165509072,-122.25980839602754,Oakland,CA,United States}	{Arts & Entertainment,}
+2065	Sat Nov 13 17:40:26 +0000 2010	4b15b91bf964a52048b323e3	{The Signature At MGM Grand}	{36.105843783741136,-115.16680240631104,Las Vegas,NV,United States}	{Nightlife Spot,Travel & Transport,}
+2065	Fri Nov 12 07:41:27 +0000 2010	4b15b91bf964a52048b323e3	{The Signature At MGM Grand}	{36.105843783741136,-115.16680240631104,Las Vegas,NV,United States}	{Nightlife Spot,Travel & Transport,}
+2065	Wed Nov 10 19:39:00 +0000 2010	4a73885af964a520b7dc1fe3	{The Stuffed Inn}	{37.87558096666667,-122.260218,Berkeley,CA,United States}	{Food,}
+2065	Tue Nov 09 01:53:21 +0000 2010	4c5870e612f0d13a676f09ad	{franciscan School of Theology}	{37.877361,-122.260666,Berkeley,CA,United States}	{College & University,}
+2065	Mon Nov 08 23:32:06 +0000 2010	4cba0ccc90c9a14372ed8bd6	{Brundo}	{37.850662400354544,-122.26058006286621,Oakland,CA,United States}	{Food,}
+2065	Sun Nov 07 05:03:05 +0000 2010	4a69439df964a520dacb1fe3	{the Graduate}	{37.849641,-122.2520812993196,Oakland,CA,United States}	{Nightlife Spot,}
+2065	Sat Nov 06 21:41:36 +0000 2010	49ff224af964a520db6f1fe3	{Harding Park Golf Course}	{37.724636908367565,-122.49355673789978,San Francisco,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+2065	Sat Nov 06 17:54:51 +0000 2010	4a354111f964a520ad9c1fe3	{Outerlands}	{37.76036856323342,-122.50498202830003,San Francisco,CA,United States}	{Food,}
+2065	Fri Nov 05 23:31:18 +0000 2010	49ef6e67f964a520b2681fe3	{Crossroads Trading Co.}	{37.76417255401611,-122.464714,San Francisco,CA,United States}	{Shop & Service,}
+2065	Fri Nov 05 23:13:25 +0000 2010	49cb37b5f964a52000591fe3	{Kezar Stadium}	{37.7670667219393,-122.45577740447652,San Francisco,CA,United States}	{Stadium,Arts & Entertainment,}
+2065	Wed Nov 03 17:32:17 +0000 2010	468eec84f964a5208d481fe3	{MacArthur BART Station}	{37.82938707949219,-122.26697444915771,Oakland,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+2065	Tue Nov 02 06:47:03 +0000 2010	4b847336f964a5202f3631e3	{UCSF - Moffitt Hospital}	{37.763146481901224,-122.46085259949743,San Francisco,CA,United States}	{Medical Center,Professional & Other Places,}
+2065	Sat Oct 30 00:31:38 +0000 2010	4b2d4e97f964a520c1d324e3	{Virginia Bakery}	{37.876697,-122.269043,Berkeley,CA,United States}	{Food,}
+2065	Fri Oct 29 17:30:48 +0000 2010	459e2a21f964a520ae401fe3	{Target}	{37.88327941285521,-122.30696082115173,Albany,CA,United States}	{Shop & Service,Professional & Other Places,}
+2065	Fri Oct 29 01:01:56 +0000 2010	4b494322f964a520cd6b26e3	{Sushi Solano}	{37.890978,-122.290705,Albany,CA,United States}	{Food,}
+2065	Thu Oct 28 05:22:24 +0000 2010	4a6aab00f964a520d6cd1fe3	{Sudachi Sushi & Korean BBQ}	{37.7875653,-122.420459,San Francisco,CA,United States}	{Food,}
+2065	Thu Oct 28 02:02:17 +0000 2010	4bd2177d046076b055357371	{AT&T Park}	{37.77833858778822,-122.38940119743347,San Francisco,CA,United States}	{Stadium,Arts & Entertainment,}
+2065	Mon Oct 25 20:54:51 +0000 2010	4abfc3d1f964a5200f9220e3	{Starbucks}	{37.70087987098434,-122.48322917054193,Daly City,CA,United States}	{Food,}
+2065	Sun Oct 24 17:33:06 +0000 2010	4ab66b5cf964a520027720e3	{St. Agnes Church}	{37.77152206492661,-122.44573133093367,San Francisco,CA,United States}	{Spiritual Center,Professional & Other Places,}
+2065	Sat Oct 23 16:54:17 +0000 2010	4ae5f933f964a520aea321e3	{The Cathedral of Christ the Light}	{37.81012689197748,-122.2633089465587,Oakland,CA,United States}	{Spiritual Center,Professional & Other Places,}
+2065	Sat Oct 23 04:23:26 +0000 2010	4a333748f964a520199b1fe3	{AMC Bay Street 16}	{37.83297152392784,-122.29205846786499,Emeryville,CA,United States}	{Arts & Entertainment,Movie Theater,}
+2065	Fri Oct 22 20:13:27 +0000 2010	4a07cd9ff964a5209a731fe3	{Berkeley Rose Garden}	{37.88525240170636,-122.26328372955322,Berkeley,CA,United States}	{Outdoors & Recreation,}
+2065	Thu Oct 14 21:38:51 +0000 2010	4c5870e612f0d13a676f09ad	{franciscan School of Theology}	{37.877361,-122.260666,Berkeley,CA,United States}	{College & University,}
+2065	Thu Oct 14 01:46:27 +0000 2010	4b830e8af964a52005f530e3	{Church Divinity School of the Pacific}	{37.87653095667628,-122.26113773255356,Berkeley,CA,United States}	{College & University,}
+2065	Tue Oct 12 00:39:17 +0000 2010	4a86114cf964a520480020e3	{Parkside Tavern}	{37.742693,-122.487123,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+2065	Thu Oct 07 01:34:35 +0000 2010	4c0082bd34ccc928bec5e1cd	{William Randolph Hearst Greek Theatre}	{37.87370694,-122.25432786,Berkeley,CA,United States}	{College & University,Arts & Entertainment,}
+2065	Wed Oct 06 18:34:58 +0000 2010	4a79055af964a520d8e61fe3	{Santa Clara University}	{37.34941564767126,-121.93796664476395,Santa Clara,CA,United States}	{College & University,}
+2065	Mon Oct 04 04:45:40 +0000 2010	4b5cfffcf964a5205a4e29e3	{Newman Hall}	{37.865748,-122.253822,Berkeley,CA,United States}	{Spiritual Center,Professional & Other Places,}
+2065	Sun Oct 03 16:28:29 +0000 2010	4ca8aee7a6e08cfab07d9194	{St Patrick's Catholic Church}	{37.808749,-122.296499,Oakland,CA,United States}	{Spiritual Center,Professional & Other Places,}
+2065	Mon Sep 27 16:27:02 +0000 2010	4b9abaa8f964a52095d035e3	{Kaiser Permanente Main Pharmacy}	{37.783938040486866,-122.44056140185761,San Francisco,CA,United States}	{Shop & Service,}
+2065	Fri Sep 24 04:29:01 +0000 2010	413ba880f964a520e91a1fe3	{Cat Club}	{37.775370050020406,-122.40987387164922,San Francisco,CA,United States}	{Nightlife Spot,}
+2065	Thu Sep 23 17:10:45 +0000 2010	4c5870e612f0d13a676f09ad	{franciscan School of Theology}	{37.877361,-122.260666,Berkeley,CA,United States}	{College & University,}
+2065	Wed Sep 22 19:25:25 +0000 2010	4b3b9a0df964a520cf7625e3	{Kaiser Permanente Medical Center}	{37.783275899330974,-122.44051716606971,San Francisco,CA,United States}	{Medical Center,Professional & Other Places,}
+2065	Tue Sep 21 02:42:20 +0000 2010	4ac6c80ff964a5203db620e3	{Zachary's Chicago Pizza}	{37.89158590226556,-122.2785726611442,Berkeley,CA,United States}	{Food,}
+2065	Sun Sep 19 08:41:15 +0000 2010	40870b00f964a520abf21ee3	{Orphan Andy's}	{37.76257963,-122.43504,San Francisco,CA,United States}	{Food,}
+2065	Sun Aug 29 23:58:27 +0000 2010	4c29567f9fb5d13aa2139b57	{Twin Peaks Summit}	{37.75464708149084,-122.44677081527817,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2065	Sun Aug 29 23:29:35 +0000 2010	4ab595e1f964a520877520e3	{Mission Dolores Park}	{37.76005771562691,-122.42678658144186,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2065	Sun Aug 29 22:05:31 +0000 2010	4698dc59f964a520ed481fe3	{Grace Cathedral}	{37.79172623618031,-122.41324225110944,San Francisco,CA,United States}	{Spiritual Center,Professional & Other Places,}
+2065	Mon Aug 23 15:28:29 +0000 2010	4bd6221b6f6495211e6670ec	{Stanley L. Hong, DDS}	{37.75366635863109,-122.48485565185547,San Francisco,CA,United States}	{Medical Center,Professional & Other Places,}
+2065	Sun Aug 22 01:23:19 +0000 2010	4a5901fff964a52072b81fe3	{Cathedral of St. Mary of the Assumption}	{37.78472250296417,-122.42533765937904,San Francisco,CA,United States}	{Spiritual Center,Professional & Other Places,}
+2065	Fri Aug 20 06:37:58 +0000 2010	4a6aab00f964a520d6cd1fe3	{Sudachi Sushi & Korean BBQ}	{37.7875653,-122.420459,San Francisco,CA,United States}	{Food,}
+2065	Fri Aug 20 02:34:21 +0000 2010	4b5f75dcf964a520aabb29e3	{Archbishop Riordan High School}	{37.72794216495512,-122.45322704315186,San Francisco,CA,United States}	{School,Professional & Other Places,}
+2065	Mon Aug 16 22:15:23 +0000 2010	4b3b9a0df964a520cf7625e3	{Kaiser Permanente Medical Center}	{37.783275899330974,-122.44051716606971,San Francisco,CA,United States}	{Medical Center,Professional & Other Places,}
+2065	Sat Aug 14 22:25:17 +0000 2010	4b3b9a0df964a520cf7625e3	{Kaiser Permanente Medical Center}	{37.783275899330974,-122.44051716606971,San Francisco,CA,United States}	{Medical Center,Professional & Other Places,}
+2065	Sat Aug 07 06:46:47 +0000 2010	41ad0980f964a5205c1e1fe3	{Bruno's}	{37.75899257850096,-122.41901083404616,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+2065	Tue Aug 03 21:32:59 +0000 2010	4383b100f964a520fb2a1fe3	{Java Beach Cafe}	{37.760419094736704,-122.5090215028068,San Francisco,CA,United States}	{Food,}
+2065	Mon Aug 02 01:41:51 +0000 2010	4a591ed6f964a520b6b81fe3	{Smart Alec's}	{37.86783812,-122.259,Berkeley,CA,United States}	{Food,}
+2065	Mon Aug 02 01:01:57 +0000 2010	4b69bcedf964a520f4b02be3	{Pacific School of Religion}	{37.87651620732689,-122.26341972159751,Berkeley,CA,United States}	{College & University,}
+2065	Sun Aug 01 23:09:36 +0000 2010	4c5453a01b46c9b60e6467ce	{Berkeley Kite Festival}	{37.870738,-122.315918,Berkeley,CA,United States}	{Arts & Entertainment,}
+2065	Sun Aug 01 20:45:41 +0000 2010	4ac8eec6f964a52062bd20e3	{Stonestown Farmers Market}	{37.729758083965066,-122.47786045074463,San Francisco,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+2065	Sat Jul 31 07:21:49 +0000 2010	4192ab80f964a520011e1fe3	{Lush Lounge}	{37.788125163273115,-122.42038241596269,San Francisco,CA,United States}	{Nightlife Spot,}
+2065	Fri Jul 30 08:47:50 +0000 2010	49f62829f964a520136c1fe3	{Lombard Street}	{37.80201075795017,-122.41885185241698,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+2065	Sat Jul 24 19:25:45 +0000 2010	4c3a36651e06d13abdf37a3e	{Holland Riverside Marina}	{37.97266597606795,-121.58179202927843,Oakley,CA,United States}	{Outdoors & Recreation,}
+2065	Sat Jul 24 18:19:38 +0000 2010	47f005b5f964a520734e1fe3	{Starbucks}	{37.962,-121.738294,Antioch,CA,United States}	{Food,}
+2065	Sat Jul 24 04:07:01 +0000 2010	4ae27529f964a5206c8e21e3	{Sichuan Fortune House}	{37.95039029,-122.06106662750244,Pleasant Hill,CA,United States}	{Food,}
+2065	Fri Jul 23 02:45:51 +0000 2010	4b649f3bf964a520fbc22ae3	{Skipolini's Pizza}	{37.997631904204965,-121.81754043528288,Antioch,CA,United States}	{Food,}
+2065	Wed Jul 21 02:31:33 +0000 2010	4a384bcff964a520df9e1fe3	{Mercury Lounge}	{37.770963,-122.414943,San Francisco,CA,United States}	{Nightlife Spot,}
+2065	Sun Jul 18 21:48:06 +0000 2010	49d01698f964a520fd5a1fe3	{Golden Gate Bridge}	{37.81700118722001,-122.47821718454361,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+2065	Thu Jul 15 04:03:00 +0000 2010	4b8c5546f964a52025cb32e3	{Volt Bar}	{42.328712761471174,-83.04041961394236,Detroit,MI,United States}	{Nightlife Spot,}
+2065	Wed Jul 14 17:12:39 +0000 2010	456fd6b5f964a520363e1fe3	{Greektown Casino & Hotel}	{42.33521343664482,-83.04154185463409,Detroit,MI,United States}	{Travel & Transport,Arts & Entertainment,Professional & Other Places,}
+2065	Wed Jul 14 04:13:07 +0000 2010	41326e00f964a52095101fe3	{Sweetwater Tavern}	{42.331786232327524,-83.04188271834659,Detroit,MI,United States}	{Food,}
+2065	Tue Jul 13 03:50:48 +0000 2010	4b8c5546f964a52025cb32e3	{Volt Bar}	{42.328712761471174,-83.04041961394236,Detroit,MI,United States}	{Nightlife Spot,}
+2065	Mon Jul 12 12:36:11 +0000 2010	4c0336af39d476b0e9e32fa7	{Holiday Inn Express and Suites}	{42.33155008109318,-83.05093855854255,Detroit,MI,United States}	{Travel & Transport,Professional & Other Places,}
+2065	Sun Jul 11 23:02:49 +0000 2010	4b47601bf964a520323026e3	{Pizza Papalis Taverna}	{42.335431985657685,-83.04157856311869,Detroit,MI,United States}	{Food,}
+2065	Sun Jul 11 15:54:19 +0000 2010	482d61baf964a520d64f1fe3	{Denver International Airport (DEN)}	{39.85029261500981,-104.67378616333006,Denver,CO,United States}	{Travel & Transport,}
+2065	Sun Jul 11 12:15:18 +0000 2010	4c242d37a852c9281ad1e26c	{I'm On A Plane, Bitch}	{37.613511,-122.385711,,,United States}	{Travel & Transport,Airport,}
+2065	Sun Jul 04 08:35:15 +0000 2010	4533c484f964a5208e3b1fe3	{Taqueria La Cumbre}	{37.764637,-122.421816,San Francisco,CA,United States}	{Food,}
+2065	Sun Jul 04 07:20:41 +0000 2010	45563ac0f964a5202b3d1fe3	{Double Dutch}	{37.76487227495448,-122.42385000484498,San Francisco,CA,United States}	{Nightlife Spot,}
+2065	Sat Jul 03 08:38:15 +0000 2010	46a244b6f964a5202a491fe3	{The Ambassador}	{37.78649017072924,-122.41433183514444,San Francisco,CA,United States}	{Nightlife Spot,Shop & Service,}
+2065	Sat Jul 03 08:13:33 +0000 2010	4410b832f964a520c0301fe3	{Rye}	{37.786556,-122.414502,San Francisco,CA,United States}	{Nightlife Spot,}
+2065	Sat Jul 03 08:13:15 +0000 2010	46a244b6f964a5202a491fe3	{The Ambassador}	{37.78649017072924,-122.41433183514444,San Francisco,CA,United States}	{Nightlife Spot,Shop & Service,}
+2065	Sat Jul 03 07:46:18 +0000 2010	40bbc700f964a520b1001fe3	{Union Square}	{37.787750172585,-122.40762822536455,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2065	Sat Jul 03 07:43:49 +0000 2010	45411a0ef964a520453c1fe3	{liquor and deli}	{37.78907711148169,-122.40672110340971,San Francisco,CA,United States}	{Food,}
+2065	Sat Jul 03 06:48:39 +0000 2010	43582f80f964a520e4281fe3	{Top of the Mark @ InterContinental Mark Hopkins}	{37.79158079458484,-122.41053760028113,San Francisco,CA,United States}	{Nightlife Spot,}
+2065	Sat Jul 03 00:23:41 +0000 2010	4c267d0c905a0f47b8676360	{Santa Clara University Jesuit Community}	{37.34777155677426,-121.94162261618759,Santa Clara,CA,United States}	{College & University,Professional & Other Places,Residence,}
+2065	Sat Jul 03 00:23:40 +0000 2010	4c267d0c905a0f47b8676360	{Santa Clara University Jesuit Community}	{37.34777155677426,-121.94162261618759,Santa Clara,CA,United States}	{College & University,Professional & Other Places,Residence,}
+2065	Fri Jul 02 23:13:03 +0000 2010	4a79055af964a520d8e61fe3	{Santa Clara University}	{37.34941564767126,-121.93796664476395,Santa Clara,CA,United States}	{College & University,}
+2065	Thu Jul 01 20:49:49 +0000 2010	452b9d67f964a520423b1fe3	{Hall of Justice}	{37.77533352890043,-122.40388353115281,San Francisco,CA,United States}	{Government Building,Professional & Other Places,}
+2065	Tue Jun 29 00:46:29 +0000 2010	4b871450f964a52059af31e3	{Great Highway Seawall/Promenade}	{37.750968792260345,-122.50927448272705,San Francisco,CA,United States}	{Shop & Service,Outdoors & Recreation,Gym / Fitness Center,}
+2065	Mon Jun 28 00:50:50 +0000 2010	42966300f964a52059241fe3	{Savor Restaurant}	{37.751383781433105,-122.430028,San Francisco,CA,United States}	{Food,}
+2065	Sun Jun 27 22:17:43 +0000 2010	4c242334c9bbef3bc42bafac	{San Francisco Pride 2010}	{37.77851666608359,-122.41825103759766,San Francisco,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,Professional & Other Places,}
+2065	Sat Jun 26 22:20:42 +0000 2010	4c267d0c905a0f47b8676360	{Santa Clara University Jesuit Community}	{37.34777155677426,-121.94162261618759,Santa Clara,CA,United States}	{College & University,Professional & Other Places,Residence,}
+2065	Sat Jun 26 09:14:19 +0000 2010	49e90442f964a520bb651fe3	{Lucky Penny}	{37.78272339,-122.447407,San Francisco,CA,United States}	{Food,}
+2065	Sat Jun 26 05:55:19 +0000 2010	435ad280f964a52002291fe3	{Silver Clouds}	{37.80024236293376,-122.43447327602703,San Francisco,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+2065	Wed Jun 23 21:37:47 +0000 2010	4bfc3d663cebd13affa997d8	{Sisters of the Holy Names}	{37.21603742398282,-121.9809272555843,Los Gatos,CA,United States}	{Spiritual Center,College & University,Professional & Other Places,}
+2065	Sat Jun 19 17:49:57 +0000 2010	4c1cf1b0b4e62d7f9bd3db93	{North Beach Festival}	{37.80043601989746,-122.409428,San Francisco,CA,United States}	{Arts & Entertainment,}
+2065	Fri Jun 18 06:49:22 +0000 2010	40a2ba80f964a52004f31ee3	{Wish Bar & Lounge}	{37.771333,-122.414319,San Francisco,CA,United States}	{Nightlife Spot,}
+2065	Sun Jun 13 17:29:10 +0000 2010	4ab66b5cf964a520027720e3	{St. Agnes Church}	{37.77152206492661,-122.44573133093367,San Francisco,CA,United States}	{Spiritual Center,Professional & Other Places,}
+2065	Sat Jun 12 02:51:56 +0000 2010	49fe6e9ff964a520a26f1fe3	{The Old Spaghetti Factory}	{37.335991776301526,-121.89397887988031,San Jose,CA,United States}	{Food,}
+2065	Sat Jun 12 00:53:37 +0000 2010	4a79055af964a520d8e61fe3	{Santa Clara University}	{37.34941564767126,-121.93796664476395,Santa Clara,CA,United States}	{College & University,}
+2065	Fri Jun 11 22:58:12 +0000 2010	4af3bfaaf964a52044ef21e3	{Leavey Center}	{37.348965747163255,-121.93547487258911,Santa Clara,CA,United States}	{College & University,College Stadium,}
+2065	Wed Jun 09 02:29:10 +0000 2010	4a31b09ff964a520129a1fe3	{Ph? Garden}	{37.78214491156624,-122.48193579375221,San Francisco,CA,United States}	{Food,}
+2065	Sun Jun 06 17:57:08 +0000 2010	4ab66b5cf964a520027720e3	{St. Agnes Church}	{37.77152206492661,-122.44573133093367,San Francisco,CA,United States}	{Spiritual Center,Professional & Other Places,}
+2065	Sat Jun 05 04:53:25 +0000 2010	409ad180f964a520eef21ee3	{Ocean Beach}	{37.769391721310974,-122.51133441925049,San Francisco,CA,United States}	{Outdoors & Recreation,Beach,}
+2065	Fri Jun 04 01:04:29 +0000 2010	4a6c9abaf964a520fcd01fe3	{California Cafe}	{37.223133,-121.981431,Los Gatos,CA,United States}	{Food,}
+2065	Mon May 31 06:10:38 +0000 2010	428e7a00f964a520cf231fe3	{Trad'r Sam's}	{37.78020732852964,-122.48563349246979,San Francisco,CA,United States}	{Nightlife Spot,}
+2065	Sat May 29 02:14:29 +0000 2010	4bd2177d046076b055357371	{AT&T Park}	{37.77833858778822,-122.38940119743347,San Francisco,CA,United States}	{Stadium,Arts & Entertainment,}
+2065	Thu May 27 19:19:12 +0000 2010	47f19991f964a520914e1fe3	{Panda Express}	{37.76359476118936,-122.45847880840302,San Francisco,CA,United States}	{Food,}
+2065	Thu May 27 18:27:21 +0000 2010	4b0c996ef964a520ed3f23e3	{UCSF Medical Center - 400 Parnassus}	{37.764048610296,-122.45728119162965,San Francisco,CA,United States}	{Medical Center,Professional & Other Places,}
+2065	Wed May 26 18:13:45 +0000 2010	4bfc3d663cebd13affa997d8	{Sisters of the Holy Names}	{37.21603742398282,-121.9809272555843,Los Gatos,CA,United States}	{Spiritual Center,College & University,Professional & Other Places,}
+2065	Tue May 25 22:14:53 +0000 2010	4a958e4cf964a520a12320e3	{Wingstop}	{37.50213395788207,-122.24616050720215,San Carlos,CA,United States}	{Food,}
+2065	Fri May 21 21:47:03 +0000 2010	4b3b9a0df964a520cf7625e3	{Kaiser Permanente Medical Center}	{37.783275899330974,-122.44051716606971,San Francisco,CA,United States}	{Medical Center,Professional & Other Places,}
+2065	Sun May 02 05:58:35 +0000 2010	3fd66200f964a52064ed1ee3	{330 Ritch}	{37.77879420764139,-122.39404823404944,San Francisco,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+2065	Fri Apr 30 22:55:52 +0000 2010	4ac95bd0f964a520c2bf20e3	{King Of Thai Noodle}	{37.73363937098665,-122.48956869587917,San Francisco,CA,United States}	{Food,}
+2065	Sat Apr 24 03:06:27 +0000 2010	4b15b5a9f964a52005b323e3	{Nubi Yogurt}	{37.733509490583884,-122.4899445231246,San Francisco,CA,United States}	{Food,}
+2065	Tue Apr 20 01:49:12 +0000 2010	43e9f2f1f964a520252f1fe3	{Max's at the Opera Cafe}	{37.78120167991815,-122.42058151507435,San Francisco,CA,United States}	{Food,}
+2065	Mon Apr 19 23:51:53 +0000 2010	4b5f5549f964a52091b429e3	{Sacred Heart Cathedral Preparatory}	{37.78286007389863,-122.42349053125541,San Francisco,CA,United States}	{School,Professional & Other Places,}
+2065	Sun Apr 18 23:04:37 +0000 2010	4b7716ecf964a5203c7c2ee3	{Holy Cross Catholic Cemetery}	{37.67004703555138,-122.44693994522095,Colma,CA,United States}	{Outdoors & Recreation,}
+2065	Sun Apr 18 21:19:29 +0000 2010	4a7ddc63f964a520f1ef1fe3	{Ph? Hu?nh Hi?p}	{37.698071,-122.481724,Daly City,CA,United States}	{Food,}
+2065	Sun Apr 18 09:41:35 +0000 2010	49e90442f964a520bb651fe3	{Lucky Penny}	{37.78272339,-122.447407,San Francisco,CA,United States}	{Food,}
+2065	Fri Apr 16 16:54:44 +0000 2010	4b81dc17f964a5208dc130e3	{St. Ignatius Catholic Church}	{37.775506237230076,-122.45248675346375,San Francisco,CA,United States}	{Spiritual Center,College & University,Professional & Other Places,}

@@ -1,0 +1,397 @@
+569	Fri Aug 12 09:25:10 +0000 2011	4a6e2197f964a520ffd31fe3	{Fresh MXN Food}	{32.74967948,-117.1698221,San Diego,CA,United States}	{Food,}
+569	Mon Aug 08 07:17:31 +0000 2011	40e0b100f964a520a8011fe3	{Bar Dynamite}	{32.74321138858795,-117.181487,San Diego,CA,United States}	{Nightlife Spot,}
+569	Sun Aug 07 06:06:53 +0000 2011	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Sun Aug 07 05:26:56 +0000 2011	4bbd2b59078095216055da91	{Hilton San Diego Mission Valley}	{32.763934210683566,-117.15642955167753,San Diego,CA,United States}	{Travel & Transport,Shop & Service,Hotel,Gym / Fitness Center,}
+569	Sun Aug 07 05:25:53 +0000 2011	4541114bf964a520433c1fe3	{San Diego International Airport (SAN)}	{32.73299611609881,-117.19931602478027,San Diego,CA,United States}	{Travel & Transport,}
+569	Sat Aug 06 08:32:53 +0000 2011	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Thu Aug 04 23:52:20 +0000 2011	4a7ddaf2f964a520ebef1fe3	{Valley View Casino Center}	{32.754292787610474,-117.2114610671997,San Diego,CA,United States}	{Stadium,Arts & Entertainment,Professional & Other Places,}
+569	Wed Aug 03 01:46:11 +0000 2011	4d6d8add4b86a0906f985f0a	{Pectopah Russian-Georgian Restaurant and Cafe Petrushka}	{32.75555707,-117.1396558,San Diego,CA,United States}	{Food,}
+569	Tue Aug 02 02:59:23 +0000 2011	4a4a6ac2f964a520caab1fe3	{Sushi Deli 1}	{32.749967065354404,-117.16569441169523,San Diego,CA,United States}	{Food,}
+569	Fri Jul 29 01:34:24 +0000 2011	4a6924b8f964a520abcb1fe3	{Hotel Indigo}	{32.710692306461596,-117.1562629756524,San Diego,CA,United States}	{Nightlife Spot,Travel & Transport,Professional & Other Places,}
+569	Thu Jul 28 04:58:26 +0000 2011	40e0b100f964a520ce011fe3	{Cafe Sevilla}	{32.70895927801157,-117.1602148117323,San Diego,CA,United States}	{Nightlife Spot,Food,}
+569	Sun Jul 24 22:01:54 +0000 2011	4a62ae6cf964a52072c41fe3	{The Westin Bonaventure Hotel & Suites}	{34.052908315542794,-118.25585424900055,Los Angeles,CA,United States}	{Travel & Transport,}
+569	Sun Jul 24 05:46:46 +0000 2011	44732f28f964a520a5331fe3	{Avalon Hollywood}	{34.10266857469119,-118.32707748261049,Los Angeles,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+569	Sat Jul 23 22:06:17 +0000 2011	4d87f89f6daeb60c87b832e0	{US Border Customs Detention Center}	{32.54329379798861,-117.0296378063239,San Diego,CA,United States}	{Government Building,Professional & Other Places,}
+569	Thu Jul 21 17:20:33 +0000 2011	49dc615af964a520775f1fe3	{24 Hour Fitness}	{32.74927,-117.16044,San Diego,CA,United States}	{Shop & Service,}
+569	Tue Jul 19 05:48:13 +0000 2011	4c4ec8b6db2c20a1758ff474	{McDonald's}	{41.290157710269625,2.073819637298584,El Prat de Llobregat,Barcelona,Spain}	{Food,}
+569	Tue Jul 19 05:46:00 +0000 2011	4b7980a2f964a5202bfd2ee3	{Aeroport de Barcelona-El Prat (BCN)}	{41.296122877970475,2.076244354248047,El Prat de Llobregat,Barcelona,Spain}	{Travel & Transport,}
+569	Mon Jul 18 18:57:03 +0000 2011	4c68ffff5be8d13a90c4617a	{Club Sandwich}	{38.97419173,1.30813134,Sant Antoni de Portmany,Baleares,Spain}	{Food,}
+569	Fri Jul 15 13:38:52 +0000 2011	4bf9cac75ec320a123df8ad3	{Hush}	{38.980859805403085,1.3026177195782884,St Antoni de Portmany,Balearic Islands,Spain}	{Nightlife Spot,}
+569	Fri Jul 15 13:37:52 +0000 2011	4def9e79cc3fe582c3b1fbea	{Hedkandi Bar Ibiza}	{38.97952841381699,1.3065147399902344,Sant Antoni de Portmany,IB,Spain}	{Nightlife Spot,}
+569	Fri Jul 15 13:36:53 +0000 2011	4bf8249f5317a5932b46ff7e	{Caf? del Mar}	{38.980651,1.296173,Sant Antoni de Portmany,Illes Balears,Spain}	{Nightlife Spot,Food,}
+569	Thu Jul 14 07:10:17 +0000 2011	4c0edbb596fc952198ccc0cb	{Eivissa}	{38.90929345393645,1.4338982105255127,Eivissa,Illes Balears,Spain}	{Nightlife Spot,Outdoors & Recreation,}
+569	Thu Jul 14 07:09:11 +0000 2011	4b9b3dfbf964a520d0fb35e3	{Aeroport d'Eivissa (IBZ)}	{38.87621714437675,1.3680124282836914,Sant Josep de sa Talaia,Illes Balears,Spain}	{Travel & Transport,Airport,}
+569	Wed Jul 13 18:44:50 +0000 2011	4a84e798f964a520defd1fe3	{Amsterdam Airport Schiphol (AMS)}	{52.30923954430745,4.7621870040893555,Schiphol,,The Netherlands}	{Travel & Transport,}
+569	Sat Jul 09 22:52:41 +0000 2011	4bd57115637ba593c959f670	{NH Amsterdam City Centre}	{52.36983500563348,4.888980388641357,Amsterdam,Noord-Holland,The Netherlands}	{Travel & Transport,}
+569	Sat Jul 09 22:51:55 +0000 2011	4bb523d6ef159c74675574f7	{Teasers}	{52.37583713135271,4.896617860549984,Amsterdam,Noord-Holland,The Netherlands}	{Nightlife Spot,}
+569	Sat Jul 09 19:45:56 +0000 2011	4a270000f964a520d3811fe3	{Hunter's Coffeeshop}	{52.37563398592075,4.898547569263338,Amsterdam,Noord-Holland,The Netherlands}	{Nightlife Spot,Shop & Service,Food,}
+569	Sat Jul 09 19:39:49 +0000 2011	4a270583f964a520f8871fe3	{De Kroon II}	{52.375892,4.896029,Amsterdam,Noord-Holland,The Netherlands}	{Food,}
+569	Sat Jul 09 11:37:55 +0000 2011	4a84e798f964a520defd1fe3	{Amsterdam Airport Schiphol (AMS)}	{52.30923954430745,4.7621870040893555,Schiphol,,The Netherlands}	{Travel & Transport,}
+569	Sat Jul 09 11:17:39 +0000 2011	4a84e798f964a520defd1fe3	{Amsterdam Airport Schiphol (AMS)}	{52.30923954430745,4.7621870040893555,Schiphol,,The Netherlands}	{Travel & Transport,}
+569	Sat Jul 09 06:14:23 +0000 2011	4b61303cf964a5206b0c2ae3	{Larnaca International Airport (LCA)}	{34.87058094352879,33.60786437988281,Larnaca,Cyprus,Cyprus}	{Travel & Transport,}
+569	Sat Jul 09 05:15:13 +0000 2011	4b61303cf964a5206b0c2ae3	{Larnaca International Airport (LCA)}	{34.87058094352879,33.60786437988281,Larnaca,Cyprus,Cyprus}	{Travel & Transport,}
+569	Tue Jul 05 17:20:24 +0000 2011	4e08418f483b98d417155792	{by the Mediterranean Sea}	{34.980942728778594,33.675330842216894,Oroklini,Larnaca,Cyprus}	{Outdoors & Recreation,}
+569	Tue Jul 05 17:20:07 +0000 2011	4e10f6b1b0fbfef99b8e0f73	{Pyla Resort}	{35.00584109898778,33.690931525285315,,Larnaca,Cyprus}	{Travel & Transport,}
+569	Tue Jul 05 17:19:16 +0000 2011	4d188470bb488cfa0f47b5d4	{Panicos Tavern (??????? ???????)}	{34.84803815231949,32.80837518404474,?????? - Omodos village,Limassol,Cyprus}	{}
+569	Tue Jul 05 11:15:14 +0000 2011	4db7f6671e7206c23cfd272f	{Leventis Municipal Museum}	{35.17044500299837,33.361439208413366,Nicosia,Nicosia,Cyprus}	{Museum,Arts & Entertainment,}
+569	Tue Jul 05 11:14:59 +0000 2011	4dfbcaee62e1ff6496539f75	{Phaneromeni Church}	{34.8479851,32.8084428,,,Cyprus}	{}
+569	Mon Jul 04 17:38:25 +0000 2011	4cb036511168a093b1c02823	{Daniel Restaurant}	{34.978079583188034,33.69129188842005,,,Cyprus}	{Food,}
+569	Mon Jul 04 17:37:10 +0000 2011	4c2600b6f7ced13a4978256d	{Larnaca CTO Beach}	{34.97893868225148,33.69962353455436,Larnaca,Larnaca,Cyprus}	{Outdoors & Recreation,}
+569	Fri Jul 01 09:43:03 +0000 2011	4dbaeb7bcda109aa6c73eac3	{Cyprus}	{34.98111161718094,33.66052499618912,,Larnaca,Cyprus}	{Outdoors & Recreation,}
+569	Thu Jun 30 15:38:03 +0000 2011	4e08418f483b98d417155792	{by the Mediterranean Sea}	{34.980942728778594,33.675330842216894,Oroklini,Larnaca,Cyprus}	{Outdoors & Recreation,}
+569	Wed Jun 29 18:55:16 +0000 2011	4c1fc73a63750f4795a7bb67	{Larnaca}	{34.919049861220216,33.63284038396418,Larnaca,Larnaca,Cyprus}	{Outdoors & Recreation,}
+569	Tue Jun 28 21:36:40 +0000 2011	411c0480f964a5201a0c1fe3	{Philadelphia International Airport (PHL)}	{39.87700745276243,-75.2424430847168,Philadelphia,PA,United States}	{Travel & Transport,}
+569	Tue Jun 28 20:26:25 +0000 2011	4b897fc2f964a5203b3c32e3	{Jack Duggan's Pub}	{39.87509724251362,-75.24870872497559,Philadelphia,PA,United States}	{Nightlife Spot,Food,}
+569	Tue Jun 28 18:40:32 +0000 2011	411c0480f964a5201a0c1fe3	{Philadelphia International Airport (PHL)}	{39.87700745276243,-75.2424430847168,Philadelphia,PA,United States}	{Travel & Transport,}
+569	Tue Jun 28 12:46:10 +0000 2011	4541114bf964a520433c1fe3	{San Diego International Airport (SAN)}	{32.73299611609881,-117.19931602478027,San Diego,CA,United States}	{Travel & Transport,}
+569	Tue Jun 28 01:30:05 +0000 2011	4c0714dab4aa0f4788316562	{A to Z Wireless}	{32.774654,-117.1565386,San Diego,CA,United States}	{Shop & Service,}
+569	Sun Jun 26 21:33:26 +0000 2011	4c439cddf97fbe9a211eba30	{Intervention @ Hard Rock SD}	{32.70780475123137,-117.159841458388,San Diego,CA,United States}	{Travel & Transport,Nightlife Spot,Hotel,}
+569	Fri Jun 24 21:06:06 +0000 2011	4bc12dcf4cdfc9b679559421	{Mr. Lucky's 24/7}	{36.10880750605055,-115.15401140820856,Las Vegas,NV,United States}	{Nightlife Spot,Food,}
+569	Fri Jun 24 20:52:13 +0000 2011	4bc4e9000191c9b6f6ceeab1	{Hard Rock Hotel & Casino VIP Lounge}	{36.11042845940982,-115.15381454003267,Las Vegas,NV,United States}	{Arts & Entertainment,}
+569	Fri Jun 24 20:28:31 +0000 2011	4d013eda6289f04d14be96cc	{Marquee Nightclub & Dayclub}	{36.10954499497765,-115.17464518547058,Las Vegas,NV,United States}	{Nightlife Spot,Arts & Entertainment,}
+569	Fri Jun 24 18:25:55 +0000 2011	4be3658ef07b0f476f08f843	{Rumor Boutique Resort}	{36.1075536044363,-115.15427775907719,Las Vegas,NV,United States}	{Nightlife Spot,Travel & Transport,}
+569	Fri Jun 24 16:50:46 +0000 2011	4c81580451ada1cd9cfe1110	{Shell}	{35.44127890159995,-115.6730293077675,Nipton,CA,United States}	{Shop & Service,Arts & Entertainment,}
+569	Fri Jun 24 16:40:29 +0000 2011	4c1e5987eac020a19b8d49c2	{Middle of nowhere}	{35.423359014809364,-115.73341393832924,Newberry-Baker,CA,United States}	{Outdoors & Recreation,}
+569	Fri Jun 24 16:19:17 +0000 2011	4b99ed35f964a520479735e3	{Zzyzx Rd}	{35.19569489118943,-116.14153861999512,Zzyzx,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+569	Fri Jun 24 16:18:59 +0000 2011	4b99ed35f964a520479735e3	{Zzyzx Rd}	{35.19569489118943,-116.14153861999512,Zzyzx,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+569	Fri Jun 24 14:49:58 +0000 2011	4b3aadb1f964a520886c25e3	{McDonald's}	{34.3090334924237,-117.47047856381047,Phelan,CA,United States}	{Food,}
+569	Sun Jun 19 20:54:23 +0000 2011	4abee76ff964a5207f9020e3	{Del Mar Fairgrounds}	{32.97407195728699,-117.25815296173096,Del Mar,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+569	Sun Jun 19 20:54:03 +0000 2011	466bbf32f964a520a5471fe3	{San Diego County Fair}	{32.97403156757355,-117.260442,Del Mar,CA,United States}	{Arts & Entertainment,}
+569	Sun Jun 19 09:39:28 +0000 2011	40e0b100f964a5208d021fe3	{Onyx Room}	{32.71435509667659,-117.16025367379189,San Diego,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+569	Sun Jun 19 07:38:00 +0000 2011	4bddc974e75c0f479b9bc503	{Analog Bar}	{32.71366324742879,-117.16004249488877,San Diego,CA,United States}	{Nightlife Spot,Food,}
+569	Sun Jun 19 03:28:04 +0000 2011	4a563cadf964a520d2b41fe3	{Hive Sushi Lounge}	{32.71665468986936,-117.15170413255692,San Diego,CA,United States}	{Food,}
+569	Sat Jun 18 02:01:47 +0000 2011	4541114bf964a520433c1fe3	{San Diego International Airport (SAN)}	{32.73299611609881,-117.19931602478027,San Diego,CA,United States}	{Travel & Transport,}
+569	Fri Jun 17 06:42:04 +0000 2011	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Fri Jun 17 06:41:15 +0000 2011	4c0d421f336220a11e74ca77	{Bat Cave}	{32.74630223825025,-117.18855321198208,San Diego,CA,United States}	{Professional & Other Places,}
+569	Thu Jun 16 00:25:17 +0000 2011	4c18524c4ff90f47f1540e49	{Shakey's Pizza Parlor}	{33.9393653,-117.94867568333333,La Habra,CA,United States}	{Food,}
+569	Wed Jun 15 20:16:47 +0000 2011	4b626fc9f964a52093472ae3	{I-5 Border Patrol Checkpoint & Weigh Station}	{33.35278326679505,-117.52553701400757,Pendleton,CA,United States}	{Travel & Transport,Professional & Other Places,}
+569	Wed Jun 15 01:03:42 +0000 2011	4a615314f964a5204cc21fe3	{Sushi Ota}	{32.80342264005919,-117.21642851829529,San Diego,CA,United States}	{Food,}
+569	Mon Jun 13 23:38:33 +0000 2011	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Mon Jun 13 06:09:58 +0000 2011	40e0b100f964a520a8011fe3	{Bar Dynamite}	{32.74321138858795,-117.181487,San Diego,CA,United States}	{Nightlife Spot,}
+569	Sun Jun 12 19:14:51 +0000 2011	4c439cddf97fbe9a211eba30	{Intervention @ Hard Rock SD}	{32.70780475123137,-117.159841458388,San Diego,CA,United States}	{Travel & Transport,Nightlife Spot,Hotel,}
+569	Sat Jun 11 00:24:07 +0000 2011	4a7ddaf2f964a520ebef1fe3	{Valley View Casino Center}	{32.754292787610474,-117.2114610671997,San Diego,CA,United States}	{Stadium,Arts & Entertainment,Professional & Other Places,}
+569	Thu Jun 09 06:31:17 +0000 2011	491be395f964a52073521fe3	{El Dorado Cocktail Lounge}	{32.71591865247647,-117.15505098739222,San Diego,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+569	Wed Jun 08 16:55:46 +0000 2011	4541114bf964a520433c1fe3	{San Diego International Airport (SAN)}	{32.73299611609881,-117.19931602478027,San Diego,CA,United States}	{Travel & Transport,}
+569	Mon Jun 06 00:29:40 +0000 2011	4cc8c453d338236aafdd9e7c	{Pacific Beach Fish Shop}	{32.80038395,-117.2373229265213,San Diego,CA,United States}	{Food,}
+569	Sun Jun 05 00:29:55 +0000 2011	4b284cc8f964a520349224e3	{Playa Grill & Margarita Bar}	{32.78106883127832,-117.13095188140869,San Diego,CA,United States}	{Nightlife Spot,Food,}
+569	Sat Jun 04 23:02:05 +0000 2011	4d66c9a648ee6ea890026968	{Real Deal Furniture & Mattress}	{32.83108736983218,-117.13690477139343,San Diego,CA,United States}	{Shop & Service,}
+569	Wed Jun 01 02:31:30 +0000 2011	4b99ed35f964a520479735e3	{Zzyzx Rd}	{35.19569489118943,-116.14153861999512,Zzyzx,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+569	Wed Jun 01 02:31:10 +0000 2011	4b99ed35f964a520479735e3	{Zzyzx Rd}	{35.19569489118943,-116.14153861999512,Zzyzx,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+569	Wed Jun 01 02:31:10 +0000 2011	4b99ed35f964a520479735e3	{Zzyzx Rd}	{35.19569489118943,-116.14153861999512,Zzyzx,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+569	Sun May 29 20:26:27 +0000 2011	4d013eda6289f04d14be96cc	{Marquee Nightclub & Dayclub}	{36.10954499497765,-115.17464518547058,Las Vegas,NV,United States}	{Nightlife Spot,Arts & Entertainment,}
+569	Sun May 29 17:55:48 +0000 2011	4c226324fbe5c9b656cf9921	{Port Of Subs (Horizon Ridge/Eastern)}	{36.00178891666667,-115.102999,Henderson,NV,United States}	{Food,}
+569	Sat May 28 23:43:48 +0000 2011	4b0d7a4ef964a520384923e3	{World's Tallest Thermometer}	{35.26640886005856,-116.07272386550903,Baker,CA,United States}	{Government Building,Arts & Entertainment,Professional & Other Places,}
+569	Sat May 28 23:35:22 +0000 2011	4b4b9b22f964a520bba126e3	{Alien Fresh Jerky}	{35.268563242029266,-116.07058588651225,Baker,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+569	Sat May 28 23:26:16 +0000 2011	4b99ed35f964a520479735e3	{Zzyzx Rd}	{35.19569489118943,-116.14153861999512,Zzyzx,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+569	Sat May 28 23:25:46 +0000 2011	4b99ed35f964a520479735e3	{Zzyzx Rd}	{35.19569489118943,-116.14153861999512,Zzyzx,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+569	Sat May 28 20:50:31 +0000 2011	4dc8be421838e695fbd9c9c9	{Van Buren Blvd}	{33.88784269987242,-117.27016339605497,Riverside,CA,United States}	{Travel & Transport,}
+569	Sat May 28 05:52:42 +0000 2011	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Sat May 28 01:42:35 +0000 2011	4bdf7cefffdec928c44eeca1	{University Club at Symphony Towers}	{32.71797368516741,-117.15791724189505,San Diego,CA,United States}	{Office,Professional & Other Places,}
+569	Fri May 27 20:37:17 +0000 2011	4b4b8ab2f964a520a99f26e3	{Ocean Beach Pier}	{32.747696636039436,-117.25315275065967,San Diego,CA,United States}	{Outdoors & Recreation,}
+569	Fri May 27 19:42:14 +0000 2011	4b3acc69f964a520946e25e3	{Anthony's Fish Grotto}	{32.7193799,-117.173702,San Diego,CA,United States}	{Food,}
+569	Fri May 27 06:32:53 +0000 2011	4b8ec319f964a5209f3533e3	{FLUXX}	{32.710669756474346,-117.16114550828934,San Diego,CA,United States}	{Nightlife Spot,}
+569	Fri May 27 03:57:35 +0000 2011	4b5664c4f964a520820e28e3	{North Park Fish Market & Grill}	{32.741437366666666,-117.130224,San Diego,CA,United States}	{Food,}
+569	Fri May 27 02:31:18 +0000 2011	4541114bf964a520433c1fe3	{San Diego International Airport (SAN)}	{32.73299611609881,-117.19931602478027,San Diego,CA,United States}	{Travel & Transport,}
+569	Thu May 26 06:42:20 +0000 2011	491be395f964a52073521fe3	{El Dorado Cocktail Lounge}	{32.71591865247647,-117.15505098739222,San Diego,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+569	Tue May 24 05:47:39 +0000 2011	45718c85f964a520673e1fe3	{710 Beach Club}	{32.79654035101568,-117.25652284429674,San Diego,CA,United States}	{Nightlife Spot,Food,}
+569	Sun May 22 02:59:05 +0000 2011	4aa30ea1f964a5202a4320e3	{The Gathering}	{32.7500009971785,-117.17157591538337,San Diego,CA,United States}	{Nightlife Spot,Food,}
+569	Sat May 21 19:54:41 +0000 2011	4c0714dab4aa0f4788316562	{A to Z Wireless}	{32.774654,-117.1565386,San Diego,CA,United States}	{Shop & Service,}
+569	Sat May 21 07:52:20 +0000 2011	4a67982bf964a520bcc91fe3	{Voyeur}	{32.713246022718685,-117.16003598813012,San Diego,CA,United States}	{Nightlife Spot,}
+569	Fri May 20 23:24:11 +0000 2011	4b78526ff964a52035c52ee3	{Boomers!}	{32.83159026384968,-117.16692566871643,San Diego,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,Athletics & Sports,}
+569	Fri May 20 23:23:17 +0000 2011	4dbe3eb4ced7ea5898db45d5	{Foodtrucks and Fun- May 20, 2011}	{32.8316551,-117.167014,San Diego,CA,United States}	{Food,}
+569	Fri May 20 18:06:39 +0000 2011	4a50f4fef964a52052b01fe3	{Crest Cafe}	{32.74686609697909,-117.1609500286351,San Diego,CA,United States}	{Food,}
+569	Fri May 20 04:34:07 +0000 2011	49d0ec4cf964a520415b1fe3	{Granville Cafe}	{34.145205,-118.255175,Glendale,CA,United States}	{Food,}
+569	Thu May 19 17:45:29 +0000 2011	4c43a588dcd61b8def567a56	{I-5 @ La Costa}	{33.083816642866736,-117.29755077733667,San Diego,CA,United States}	{Travel & Transport,}
+569	Wed May 18 21:35:37 +0000 2011	465a059af964a52022471fe3	{Westfield Horton Plaza}	{32.714005195322024,-117.16228260254077,San Diego,CA,United States}	{Shop & Service,}
+569	Wed May 18 21:34:12 +0000 2011	4a68092af964a52054ca1fe3	{Nicky Rotten's Bar & Burger Joint}	{32.71117763532114,-117.16028948231946,San Diego,CA,United States}	{Nightlife Spot,Food,}
+569	Tue May 17 20:51:49 +0000 2011	4bfc839dda7120a145394afd	{Great Khan's Mongolian Festival}	{32.71373927593231,-117.162603,San Diego,CA,United States}	{Food,}
+569	Tue May 17 20:43:45 +0000 2011	465a059af964a52022471fe3	{Westfield Horton Plaza}	{32.714005195322024,-117.16228260254077,San Diego,CA,United States}	{Shop & Service,}
+569	Tue May 17 20:39:56 +0000 2011	4541114bf964a520433c1fe3	{San Diego International Airport (SAN)}	{32.73299611609881,-117.19931602478027,San Diego,CA,United States}	{Travel & Transport,}
+569	Tue May 17 20:36:00 +0000 2011	4d59322dc88da1cd184f3768	{Security At Terminal 1}	{32.732835263585,-117.19814969811223,San Diego,CA,United States}	{Travel & Transport,Airport,}
+569	Tue May 17 20:31:10 +0000 2011	45f555cef964a5200e441fe3	{Seattle-Tacoma International Airport (SEA)}	{47.44364658280913,-122.30259418487549,Seatac,WA,United States}	{Travel & Transport,}
+569	Tue May 17 17:05:18 +0000 2011	45f555cef964a5200e441fe3	{Seattle-Tacoma International Airport (SEA)}	{47.44364658280913,-122.30259418487549,Seatac,WA,United States}	{Travel & Transport,}
+569	Mon May 16 21:11:21 +0000 2011	4b87f4faf964a52026d531e3	{Bill & Melinda Gates Foundation}	{47.623954740743066,-122.34685063362122,Seattle,WA,United States}	{Arts & Entertainment,Professional & Other Places,}
+569	Mon May 16 19:58:47 +0000 2011	4ad21b31f964a52069df20e3	{909 Coffee and Wine}	{47.4666827917099,-122.34640396666667,Seattle,WA,United States}	{Nightlife Spot,Food,}
+569	Mon May 16 09:27:30 +0000 2011	4b4b9f2af964a52020a226e3	{PNK Restaurant & Ultra Lounge}	{47.612359768398235,-122.33526573499968,Seattle,WA,United States}	{Nightlife Spot,Food,}
+569	Mon May 16 03:14:24 +0000 2011	4d48fd2f782f3704929b6737	{The Lighthouse}	{47.619074,-122.346107,Seattle,WA,United States}	{Nightlife Spot,}
+569	Mon May 16 02:05:28 +0000 2011	447da2d6f964a520fb331fe3	{Umi Sake House}	{47.61326960008122,-122.34602183103561,Seattle,WA,United States}	{Nightlife Spot,Food,}
+569	Sun May 15 10:18:15 +0000 2011	40b7d280f964a52088001fe3	{Noc Noc}	{47.609664002416444,-122.3393726348877,Seattle,WA,United States}	{}
+569	Sun May 15 10:17:28 +0000 2011	4c4f33c0bec4d13af110dd61	{Gourmet Dog Japon}	{47.60927341121729,-122.33882546424866,Seattle,WA,United States}	{Food,}
+569	Sun May 15 09:43:36 +0000 2011	40b13b00f964a52057f61ee3	{Contour}	{47.6035585403442,-122.33502209186554,Seattle,WA,United States}	{Nightlife Spot,}
+569	Sun May 15 06:59:35 +0000 2011	40b13b00f964a520a7f61ee3	{Last Supper Club}	{47.60094116448749,-122.33297244902462,Seattle,WA,United States}	{Nightlife Spot,}
+569	Sun May 15 06:58:42 +0000 2011	40b13b00f964a520a7f61ee3	{Last Supper Club}	{47.60094116448749,-122.33297244902462,Seattle,WA,United States}	{Nightlife Spot,}
+569	Sun May 15 05:20:50 +0000 2011	4b4b9f2af964a52020a226e3	{PNK Restaurant & Ultra Lounge}	{47.612359768398235,-122.33526573499968,Seattle,WA,United States}	{Nightlife Spot,Food,}
+569	Sun May 15 01:02:56 +0000 2011	454c474af964a520bb3c1fe3	{Lowell's Restaurant}	{47.60885388408757,-122.34134674072266,Seattle,WA,United States}	{Food,}
+569	Sun May 15 00:58:00 +0000 2011	4a858664f964a52063fe1fe3	{Market Place North}	{47.610865038299515,-122.34288574538554,Seattle,WA,United States}	{Arts & Entertainment,}
+569	Sat May 14 22:56:18 +0000 2011	4b4b9f2af964a52020a226e3	{PNK Restaurant & Ultra Lounge}	{47.612359768398235,-122.33526573499968,Seattle,WA,United States}	{Nightlife Spot,Food,}
+569	Sat May 14 09:46:51 +0000 2011	40b13b00f964a52057f61ee3	{Contour}	{47.6035585403442,-122.33502209186554,Seattle,WA,United States}	{Nightlife Spot,}
+569	Sat May 14 04:56:08 +0000 2011	4b4b9f2af964a52020a226e3	{PNK Restaurant & Ultra Lounge}	{47.612359768398235,-122.33526573499968,Seattle,WA,United States}	{Nightlife Spot,Food,}
+569	Sat May 14 04:55:30 +0000 2011	4b4b9f2af964a52020a226e3	{PNK Restaurant & Ultra Lounge}	{47.612359768398235,-122.33526573499968,Seattle,WA,United States}	{Nightlife Spot,Food,}
+569	Sat May 14 01:20:59 +0000 2011	45f555cef964a5200e441fe3	{Seattle-Tacoma International Airport (SEA)}	{47.44364658280913,-122.30259418487549,Seatac,WA,United States}	{Travel & Transport,}
+===
+569	Sun Apr 10 22:46:18 +0000 2011	4ad24a0df964a520b7e020e3	{Alamo Mexican}	{32.752993,-117.194969,San Diego,CA,United States}	{Food,}
+569	Sun Apr 10 22:45:22 +0000 2011	4b16d3e1f964a52007be23e3	{Living Room Cafe & Bistro}	{32.75304761390279,-117.19568967819214,San Diego,CA,United States}	{Food,}
+569	Mon Apr 04 22:33:07 +0000 2011	4b7c709ff964a52067932fe3	{Sharp Rees-Stealy - Scripps Ranch}	{32.93973887863285,-117.09938373187502,San Diego,CA,United States}	{Medical Center,Professional & Other Places,}
+569	Sat Apr 02 23:52:24 +0000 2011	4beddd0d4daaa593e95b8f61	{Inland Empire Traffic}	{34.13653088956871,-117.49534606933594,San Bernardino and Riverside,CA,United States}	{Travel & Transport,Hotel,}
+569	Sat Apr 02 21:57:14 +0000 2011	4b99ed35f964a520479735e3	{Zzyzx Rd}	{35.19569489118943,-116.14153861999512,Zzyzx,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+569	Sat Apr 02 21:56:03 +0000 2011	4b99ed35f964a520479735e3	{Zzyzx Rd}	{35.19569489118943,-116.14153861999512,Zzyzx,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+569	Sat Apr 02 21:20:27 +0000 2011	4b0d7a4ef964a520384923e3	{World's Tallest Thermometer}	{35.26640886005856,-116.07272386550903,Baker,CA,United States}	{Government Building,Arts & Entertainment,Professional & Other Places,}
+569	Sat Apr 02 21:12:46 +0000 2011	4b4b9b22f964a520bba126e3	{Alien Fresh Jerky}	{35.268563242029266,-116.07058588651225,Baker,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+569	Sat Apr 02 07:57:41 +0000 2011	4be0a13bf92c20a12a32bad3	{Artisan Hotel Boutique and Lounge}	{36.14368845659706,-115.16986012458801,Las Vegas,NV,United States}	{Nightlife Spot,Travel & Transport,}
+569	Sat Apr 02 02:00:21 +0000 2011	4a677f82f964a52091c91fe3	{Las Vegas McCarran International Airport (LAS)}	{36.08365019548198,-115.14985084533691,Las Vegas,NV,United States}	{Travel & Transport,}
+569	Fri Apr 01 20:28:02 +0000 2011	4b89fb5df964a5200d5a32e3	{Miami International Airport (MIA)}	{25.794984114780963,-80.27576923370361,Miami,FL,United States}	{Travel & Transport,}
+569	Fri Apr 01 16:56:26 +0000 2011	4b87005ff964a520c0aa31e3	{South Beach}	{25.78207794465473,-80.12874126434326,Miami Beach,FL,United States}	{Outdoors & Recreation,}
+569	Fri Apr 01 16:08:25 +0000 2011	4bbe3fff53e99521c1f92ca9	{Fort Lauderdale-Hollywood International Airport (FLL)}	{26.071085321330138,-80.1408863067627,Ft Lauderdale,FL,United States}	{Travel & Transport,}
+569	Wed Mar 30 21:00:47 +0000 2011	4b784a08f964a52097c22ee3	{Bahamas Customs}	{26.519741938174274,-78.77290966778348,,,Bahamas}	{Travel & Transport,}
+569	Wed Mar 30 20:59:46 +0000 2011	4bd607dc7b1876b0bad78b86	{Bahamas Celebration Ship}	{26.77071296550115,-80.05237630469196,Fort Lauderdale,FL,United States}	{Nightlife Spot,Travel & Transport,}
+569	Tue Mar 29 17:36:40 +0000 2011	4b9ae5c2f964a520c1e035e3	{Smallest Bar, in Key West.... in the world !}	{24.559408985624582,-81.80550780819047,Key West,FL,United States}	{Nightlife Spot,}
+569	Tue Mar 29 16:46:30 +0000 2011	4c598699d3aee21ea65c6855	{Sandal Factory}	{24.572095,-81.74468926666667,Key West,FL,United States}	{Shop & Service,Clothing Store,}
+569	Tue Mar 29 16:02:15 +0000 2011	4c0410eb9a7920a144c1d079	{Little Duck Key}	{24.6809863365737,-81.23239517211914,Little Duck Key,FL,United States}	{Outdoors & Recreation,}
+569	Tue Mar 29 16:00:34 +0000 2011	4c0410eb9a7920a144c1d079	{Little Duck Key}	{24.6809863365737,-81.23239517211914,Little Duck Key,FL,United States}	{Outdoors & Recreation,}
+569	Tue Mar 29 14:59:39 +0000 2011	4c3751251e06d13a4cae753e	{Islamorada, FL}	{24.92347319290949,-80.62913417816162,Islamorada,FL,United States}	{Outdoors & Recreation,}
+569	Sun Mar 27 21:12:23 +0000 2011	4d5c32f89895b1f71faee20f	{Ultra Music Festival 2011}	{25.784608,-80.188396,Miami,FL,United States}	{Nightlife Spot,Arts & Entertainment,}
+569	Sun Mar 27 18:03:41 +0000 2011	4dc4580ad22dafda2f88f4c3	{Thali : Indian & Thai Cuisine}	{25.778076,-80.133447,Miami Beach,FL,United States}	{Food,}
+569	Sun Mar 27 04:38:39 +0000 2011	4043ce80f964a5201cf21ee3	{Tantra}	{25.786906508907986,-80.13418709349676,Miami Beach,FL,United States}	{Nightlife Spot,}
+569	Sat Mar 26 18:48:52 +0000 2011	4d5c32f89895b1f71faee20f	{Ultra Music Festival 2011}	{25.784608,-80.188396,Miami,FL,United States}	{Nightlife Spot,Arts & Entertainment,}
+569	Sat Mar 26 05:56:36 +0000 2011	4bad90e7f964a520015c3be3	{NoWhere Lounge}	{25.77641487121582,-80.133465,Miami Beach,FL,United States}	{Nightlife Spot,}
+569	Sat Mar 26 05:56:36 +0000 2011	4bad90e7f964a520015c3be3	{NoWhere Lounge}	{25.77641487121582,-80.133465,Miami Beach,FL,United States}	{Nightlife Spot,}
+569	Fri Mar 25 21:01:44 +0000 2011	4bafa025f964a52038113ce3	{Beatport Beach Party}	{25.79918230531351,-80.1260847605731,,,United States}	{Nightlife Spot,}
+569	Fri Mar 25 21:01:12 +0000 2011	4a6df06bf964a5205ed31fe3	{The Perry South Beach Hotel}	{25.799711,-80.12753,Miami Beach,FL,United States}	{Travel & Transport,Hotel,}
+569	Fri Mar 25 07:12:23 +0000 2011	4baff0c8f964a520222d3ce3	{Sum Yum Gai}	{25.785577,-80.13176426666666,Miami Beach,FL,United States}	{Food,}
+569	Fri Mar 25 07:11:47 +0000 2011	4b86b790f964a520559831e3	{Vinyl & Kai}	{25.78261668110832,-80.13238240048125,Miami Beach,FL,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+569	Wed Mar 23 22:06:19 +0000 2011	4bafa025f964a52038113ce3	{Beatport Beach Party}	{25.79918230531351,-80.1260847605731,,,United States}	{Nightlife Spot,}
+569	Wed Mar 23 22:05:32 +0000 2011	4c1a96b455e4c9b696fc4723	{The Rooftop At the PERRY}	{25.79946616854609,-80.1268744468689,Miami Beach,FL,United States}	{Nightlife Spot,Travel & Transport,Hotel,}
+569	Wed Mar 23 18:43:16 +0000 2011	4b094a82f964a5204b1523e3	{Flamingo North Tower}	{25.78331203508378,-80.14844065311841,North Bay Village,FL,United States}	{Residence,}
+569	Tue Mar 22 20:13:34 +0000 2011	4d5c32f89895b1f71faee20f	{Ultra Music Festival 2011}	{25.784608,-80.188396,Miami,FL,United States}	{Nightlife Spot,Arts & Entertainment,}
+569	Tue Mar 22 04:09:05 +0000 2011	43012c80f964a520fe261fe3	{Wet Willie's}	{25.77789260080464,-80.13136826630168,Miami Beach,FL,United States}	{Nightlife Spot,Food,}
+569	Tue Mar 22 02:15:58 +0000 2011	4ac00d5af964a5209b9320e3	{Mondrian South Beach}	{25.78203447089985,-80.14269948005676,Miami Beach,FL,United States}	{Travel & Transport,}
+569	Mon Mar 21 20:21:12 +0000 2011	43012c80f964a520fe261fe3	{Wet Willie's}	{25.77789260080464,-80.13136826630168,Miami Beach,FL,United States}	{Nightlife Spot,Food,}
+569	Mon Mar 21 19:54:05 +0000 2011	4b094a82f964a5204b1523e3	{Flamingo North Tower}	{25.78331203508378,-80.14844065311841,North Bay Village,FL,United States}	{Residence,}
+569	Sun Mar 20 19:59:53 +0000 2011	4c1a11e098f4a5937cf500f6	{Ft Lauderdale Beach @ Yankee Clipper}	{26.10910067369134,-80.10558015484847,Fort Lauderdale,FL,United States}	{Outdoors & Recreation,}
+569	Sun Mar 20 19:10:35 +0000 2011	4cc6071806c2548151f09f47	{Drive Thru Liquors}	{26.142686861927633,-80.13715267181396,Fort Lauderdale,FL,United States}	{Shop & Service,Food & Drink Shop,}
+569	Sun Mar 20 07:06:18 +0000 2011	40e0b100f964a52037041fe3	{Automatic Slims}	{25.78329,-80.132355,Miami Beach,FL,United States}	{Nightlife Spot,}
+569	Sun Mar 20 06:36:14 +0000 2011	4ac8f390f964a5208bbd20e3	{David's Cafe}	{25.78174148332775,-80.1315536465628,Miami Beach,FL,United States}	{Food,}
+569	Sun Mar 20 04:31:46 +0000 2011	40e0b100f964a52022051fe3	{Purdy Lounge}	{25.79371,-80.14433026313782,Miami Beach,FL,United States}	{Nightlife Spot,}
+569	Fri Mar 18 21:21:32 +0000 2011	4aa43217f964a520c74520e3	{Flamingo Pool}	{25.786720086998344,-80.14476368504783,Miami Beach,FL,United States}	{Outdoors & Recreation,Residence,}
+569	Fri Mar 18 21:17:39 +0000 2011	4b87005ff964a520c0aa31e3	{South Beach}	{25.78207794465473,-80.12874126434326,Miami Beach,FL,United States}	{Outdoors & Recreation,}
+569	Thu Mar 17 21:36:49 +0000 2011	4bbe4f2c4e9cd13ab1ecd92c	{I-4}	{29.146839096312146,-81.09579563140869,Daytona Beach,FL,United States}	{Travel & Transport,Residence,}
+569	Thu Mar 17 18:48:43 +0000 2011	4b539488f964a5203da327e3	{Plaza Ocean Club}	{29.23687234950792,-81.01265052356814,Daytona Beach,FL,United States}	{Travel & Transport,Hotel,}
+569	Thu Mar 17 18:46:30 +0000 2011	4d7dc0ec3633a0934bb6729d	{Eddie White's WyndHAM Wonderland}	{29.2322928,-81.01016,Daytona Beach,FL,United States}	{Travel & Transport,Hotel,}
+569	Thu Mar 17 18:33:01 +0000 2011	4bf818728d30d13a6e180018	{Daytona Beach}	{29.21079950795577,-81.02279663085938,Daytona Beach,FL,United States}	{Outdoors & Recreation,}
+569	Thu Mar 17 18:32:24 +0000 2011	4bc3f184dce4eee143d4719d	{Daytona Beach Club Oceanfront Inn}	{29.239228545422133,-81.0137023934165,Daytona Beach,FL,United States}	{}
+569	Thu Mar 17 03:21:55 +0000 2011	4b05869bf964a520b56722e3	{Crossroads Of Lake Buena Vista}	{28.381846360196295,-81.50512287866714,Lake Buena Vista,FL,United States}	{Shop & Service,Outdoors & Recreation,}
+569	Thu Mar 17 02:38:18 +0000 2011	4b3cd640f964a520058825e3	{Raglan Road Irish Pub}	{28.371120096161544,-81.51768565177917,Lake Buena Vista,FL,United States}	{Nightlife Spot,Shop & Service,}
+569	Thu Mar 17 02:15:17 +0000 2011	4b37ef46f964a520ed4825e3	{DisneyQuest?}	{28.37053390208313,-81.52208112180233,Lake Buena Vista,FL,United States}	{Arts & Entertainment,}
+569	Wed Mar 16 22:57:53 +0000 2011	4ba2bb32f964a520641438e3	{Orlando Premiere Cinema 14}	{28.557385386839947,-81.34079933166504,Orlando,FL,United States}	{Arts & Entertainment,Movie Theater,}
+569	Wed Mar 16 19:50:18 +0000 2011	4c55cc2b06901b8d514b154e	{Old Town}	{28.330865066549034,-81.51581509578055,Kissimmee,FL,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+569	Wed Mar 16 19:32:17 +0000 2011	4c892d484f239521dbc149ee	{Disney Cruise Line (210 Celebration Office Building)}	{28.328885513536125,-81.53319809561347,Celebration,FL,United States}	{Professional & Other Places,}
+569	Wed Mar 16 18:54:36 +0000 2011	4ae889d3f964a52040b021e3	{McDonald's}	{28.4503960890182,-81.47181990699784,Orlando,FL,United States}	{Outdoors & Recreation,Food,}
+569	Wed Mar 16 18:39:49 +0000 2011	4ad62c90f964a5208c0521e3	{Universal Studios Florida}	{28.47530159487771,-81.46773912229293,Orlando,FL,United States}	{Arts & Entertainment,}
+569	Wed Mar 16 18:39:15 +0000 2011	4cf6c6b99d11b1f72b66c2ed	{Universal Studios Bus Loop}	{28.473873768912306,-81.46312952041626,Orlando,FL,United States}	{Travel & Transport,Bus Station,}
+569	Wed Mar 16 18:19:15 +0000 2011	4b0d3c55f964a520f44423e3	{Smokey Bones Bar & Fire Grill}	{28.552786592714916,-81.34084224700928,Orlando,FL,United States}	{Food,}
+569	Wed Mar 16 04:56:34 +0000 2011	4b05868df964a520ab6522e3	{Roxy Nightclub}	{28.554709063873755,-81.33378267288208,Orlando,FL,United States}	{Nightlife Spot,}
+569	Wed Mar 16 04:26:20 +0000 2011	4b59af84f964a520bc9228e3	{Suite B Lounge}	{28.541959,-81.377717,Orlando,FL,United States}	{Nightlife Spot,Shop & Service,}
+569	Wed Mar 16 03:42:58 +0000 2011	4b155280f964a520eaaa23e3	{Wall Street Cantina}	{28.54264591893795,-81.37888669967651,Orlando,FL,United States}	{Nightlife Spot,}
+569	Wed Mar 16 02:25:55 +0000 2011	4cc8be82bfe1f04d8b050a75	{Real Divas Of Orlando}	{28.500808619058603,-81.23536116215816,Orlando,FL,United States}	{Residence,}
+569	Tue Mar 15 22:17:54 +0000 2011	4bc4dc6db492d13a7aadaa60	{Burger King}	{26.83736264705658,-80.13182580471039,Palm Beach Gardens,FL,United States}	{Food,}
+569	Mon Mar 14 20:54:47 +0000 2011	4b0c378ff964a520133923e3	{Dash Boutique}	{25.77863267607869,-80.13322750314384,Miami Beach,FL,United States}	{Shop & Service,Clothing Store,}
+569	Mon Mar 14 20:22:00 +0000 2011	4b78749df964a52095cf2ee3	{Puerto Sagua Restaurant}	{25.777102511501347,-80.1325848698616,Miami Beach,FL,United States}	{Food,}
+569	Mon Mar 14 19:43:16 +0000 2011	4b87005ff964a520c0aa31e3	{South Beach}	{25.78207794465473,-80.12874126434326,Miami Beach,FL,United States}	{Outdoors & Recreation,}
+569	Mon Mar 14 19:42:49 +0000 2011	43012c80f964a520fe261fe3	{Wet Willie's}	{25.77789260080464,-80.13136826630168,Miami Beach,FL,United States}	{Nightlife Spot,Food,}
+569	Mon Mar 14 09:26:57 +0000 2011	4bbea33a006dc9b61891fb3f	{Flamingo South Beach Center Tower}	{25.788357319648,-80.14378309249878,Miami Beach,FL,United States}	{Residence,}
+569	Mon Mar 14 09:16:08 +0000 2011	4b7f135af964a520b21430e3	{Mansion Nightclub}	{25.783689639157316,-80.13209342798415,Miami Beach,FL,United States}	{Nightlife Spot,Arts & Entertainment,}
+569	Mon Mar 14 07:27:43 +0000 2011	4043ce80f964a520f6f11ee3	{B.E.D.}	{25.77998138,-80.132806,Miami Beach,FL,United States}	{Nightlife Spot,}
+569	Mon Mar 14 02:34:01 +0000 2011	4b948b28f964a520f57c34e3	{Nikki Beach}	{25.76892612007166,-80.13211523726316,Miami Beach,FL,United States}	{Nightlife Spot,Food,}
+569	Mon Mar 14 02:15:18 +0000 2011	4bbea33a006dc9b61891fb3f	{Flamingo South Beach Center Tower}	{25.788357319648,-80.14378309249878,Miami Beach,FL,United States}	{Residence,}
+569	Sun Mar 13 20:51:30 +0000 2011	43012c80f964a520fe261fe3	{Wet Willie's}	{25.77789260080464,-80.13136826630168,Miami Beach,FL,United States}	{Nightlife Spot,Food,}
+569	Sun Mar 13 19:13:33 +0000 2011	4be2d6e42fc7d13adf70083a	{The Pool Parties at The Surfcomber}	{25.79296037333605,-80.12833893299103,Miami Beach,FL,United States}	{Nightlife Spot,Travel & Transport,Arts & Entertainment,Hotel,}
+569	Sun Mar 13 08:41:50 +0000 2011	4d8ebbb81716a14327d03af7	{Vice Lounge Miami}	{25.790496815279322,-80.13148276592202,Miami Beach,FL,United States}	{Nightlife Spot,}
+569	Sat Mar 12 21:38:54 +0000 2011	4c1a96b455e4c9b696fc4723	{The Rooftop At the PERRY}	{25.79946616854609,-80.1268744468689,Miami Beach,FL,United States}	{Nightlife Spot,Travel & Transport,Hotel,}
+569	Sat Mar 12 00:11:32 +0000 2011	4b17300cf964a52087c323e3	{South Beach Plaza Hotel}	{25.78547874731563,-80.1305449550103,Miami,FL,United States}	{Travel & Transport,Hotel,}
+569	Fri Mar 11 22:42:36 +0000 2011	4a69e088f964a52024cc1fe3	{Jerry's Famous Deli}	{25.787033848263572,-80.13068318367004,Miami Beach,FL,United States}	{Food,}
+569	Fri Mar 11 06:08:45 +0000 2011	40e0b100f964a52004051fe3	{Nocturnal}	{25.784929,-80.19295,Miami,FL,United States}	{Nightlife Spot,}
+569	Thu Mar 10 21:32:44 +0000 2011	43012c80f964a520fe261fe3	{Wet Willie's}	{25.77789260080464,-80.13136826630168,Miami Beach,FL,United States}	{Nightlife Spot,Food,}
+569	Thu Mar 10 20:56:47 +0000 2011	4b5cf632f964a520bf4c29e3	{Miami Beach Police Department}	{25.782136,-80.132691,Miami Beach,FL,United States}	{Government Building,Professional & Other Places,}
+569	Thu Mar 10 20:48:50 +0000 2011	4d7652886c22b60c3ba1e6d6	{Winter Music Conference 2011}	{25.793483,-80.131078,Miami Beach,FL,United States}	{Arts & Entertainment,}
+569	Thu Mar 10 05:51:52 +0000 2011	4bad90e7f964a520015c3be3	{NoWhere Lounge}	{25.77641487121582,-80.133465,Miami Beach,FL,United States}	{Nightlife Spot,}
+569	Tue Mar 08 20:56:11 +0000 2011	4d290bde342d6dcb3314ffca	{Chili's Too}	{25.793512563993772,-80.27778596671247,Miami,FL,United States}	{Food,}
+569	Tue Mar 08 18:46:04 +0000 2011	4b89fb5df964a5200d5a32e3	{Miami International Airport (MIA)}	{25.794984114780963,-80.27576923370361,Miami,FL,United States}	{Travel & Transport,}
+569	Tue Mar 08 12:55:03 +0000 2011	4b6da618f964a52023832ce3	{Concourse D}	{36.0816732750796,-115.13770580291748,Las Vegas,NV,United States}	{Travel & Transport,Airport,}
+569	Mon Mar 07 05:01:08 +0000 2011	4b30254ff964a520ddf624e3	{Wynn Theater}	{36.12769570931623,-115.16556851561386,Las Vegas,NV,United States}	{Performing Arts Venue,Arts & Entertainment,}
+569	Mon Mar 07 05:00:30 +0000 2011	45aa45b2f964a52030411fe3	{Wynn Las Vegas}	{36.12635860619657,-115.16668438911438,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Professional & Other Places,}
+569	Sun Mar 06 23:18:10 +0000 2011	4c226324fbe5c9b656cf9921	{Port Of Subs (Horizon Ridge/Eastern)}	{36.00178891666667,-115.102999,Henderson,NV,United States}	{Food,}
+569	Sun Mar 06 14:05:11 +0000 2011	4be0a13bf92c20a12a32bad3	{Artisan Hotel Boutique and Lounge}	{36.14368845659706,-115.16986012458801,Las Vegas,NV,United States}	{Nightlife Spot,Travel & Transport,}
+569	Sun Mar 06 01:28:22 +0000 2011	4bd0a858caff95212947cff0	{Port Of Subs}	{36.001823,-115.10293152,Henderson,NV,United States}	{Food,}
+569	Sun Mar 06 00:07:01 +0000 2011	4b99ed35f964a520479735e3	{Zzyzx Rd}	{35.19569489118943,-116.14153861999512,Zzyzx,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+569	Sun Mar 06 00:06:45 +0000 2011	4b99ed35f964a520479735e3	{Zzyzx Rd}	{35.19569489118943,-116.14153861999512,Zzyzx,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+569	Sat Mar 05 05:32:07 +0000 2011	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Fri Mar 04 06:27:07 +0000 2011	4b8ec319f964a5209f3533e3	{FLUXX}	{32.710669756474346,-117.16114550828934,San Diego,CA,United States}	{Nightlife Spot,}
+569	Mon Feb 28 06:33:25 +0000 2011	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Sun Feb 27 19:52:42 +0000 2011	4c9d1ddc03133704ddb75bd5	{Paintball Park @ Miramar}	{32.88945892269034,-117.11907867620873,San Diego,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+569	Sun Feb 27 08:22:32 +0000 2011	4c24f0c4f1272d7f94e583c5	{Wet Willie's}	{32.711490069746084,-117.15934748214774,San Diego,CA,United States}	{Nightlife Spot,Food,}
+569	Sun Feb 27 07:30:35 +0000 2011	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Sun Feb 27 06:25:54 +0000 2011	4ac91d41f964a520aebe20e3	{P.F. Chang's}	{32.769959735550174,-117.16359972953796,San Diego,CA,United States}	{Shop & Service,Food,}
+569	Sat Feb 26 05:00:46 +0000 2011	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Sat Feb 26 04:15:25 +0000 2011	4541114bf964a520433c1fe3	{San Diego International Airport (SAN)}	{32.73299611609881,-117.19931602478027,San Diego,CA,United States}	{Travel & Transport,}
+569	Thu Feb 24 09:26:50 +0000 2011	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Wed Feb 23 19:03:01 +0000 2011	4a9c73e8f964a5203a3720e3	{Life Within Chiropractic}	{32.74886256727069,-117.14997893981356,San Diego,CA,United States}	{Professional & Other Places,}
+569	Mon Feb 21 04:40:34 +0000 2011	4b5bb382f964a520ed1029e3	{Viejas Arena}	{32.773816277939105,-117.07460403442384,San Diego,CA,United States}	{Arts & Entertainment,Convention Center,Professional & Other Places,}
+569	Mon Feb 21 04:23:57 +0000 2011	4b5bb382f964a520ed1029e3	{Viejas Arena}	{32.773816277939105,-117.07460403442384,San Diego,CA,United States}	{Arts & Entertainment,Convention Center,Professional & Other Places,}
+569	Mon Feb 21 02:58:44 +0000 2011	43af1eb4f964a520902c1fe3	{Oggi's Pizza & Brewing Company}	{32.77990972531536,-117.12905287742615,San Diego,CA,United States}	{Nightlife Spot,Food,}
+569	Sun Feb 20 05:37:15 +0000 2011	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Sat Feb 19 22:44:58 +0000 2011	4bfeb61168c7a593578e3f44	{Car Audio Heaven}	{32.83216115,-117.14774473,San Diego,CA,United States}	{Shop & Service,}
+569	Sat Feb 19 05:13:27 +0000 2011	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Fri Feb 18 22:34:08 +0000 2011	4a9c73e8f964a5203a3720e3	{Life Within Chiropractic}	{32.74886256727069,-117.14997893981356,San Diego,CA,United States}	{Professional & Other Places,}
+569	Fri Feb 18 21:35:39 +0000 2011	4c6eca76d5c3a1cdb05dc92b	{Vapure Electronic Cigarettes}	{32.76903353282038,-117.13549160846134,San Diego,CA,United States}	{Shop & Service,Professional & Other Places,}
+569	Thu Feb 17 05:17:35 +0000 2011	4bc28f202a89ef3b8006f488	{Ph? Fifth Avenue}	{32.74728281027899,-117.16026076286609,San Diego,CA,United States}	{Food,}
+569	Tue Feb 15 20:42:46 +0000 2011	4bb3d4824019a593be8138b8	{6 Degrees}	{32.76813418333333,-117.13616938333334,San Diego,CA,United States}	{Professional & Other Places,}
+569	Sun Feb 13 23:32:43 +0000 2011	4b806270f964a5207e6d30e3	{Chinese New Year Festival}	{32.70989,-117.16140055,San Diego,CA,United States}	{Professional & Other Places,}
+569	Sun Feb 13 06:11:37 +0000 2011	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Sun Feb 13 00:27:44 +0000 2011	45c5b725f964a52056421fe3	{Tioli's Crazee Burger}	{32.75422060410277,-117.13005065917969,San Diego,CA,United States}	{Food,}
+569	Sat Feb 12 05:37:03 +0000 2011	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Fri Feb 11 07:04:17 +0000 2011	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Wed Feb 09 01:42:56 +0000 2011	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Sun Feb 06 19:21:45 +0000 2011	4a3ef99ff964a5209da31fe3	{Hillcrest Farmers Market}	{32.75007416516209,-117.14927814874325,San Diego,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+569	Sun Feb 06 03:14:58 +0000 2011	4a6fc227f964a520f5d61fe3	{Blue Water Seafood Market and Grill}	{32.741998,-117.17989798,San Diego,CA,United States}	{Food,}
+569	Sun Feb 06 01:44:43 +0000 2011	49dbda35f964a5201e5f1fe3	{Apple Store, Fashion Valley}	{32.7684658716406,-117.165832324545,San Diego,CA,United States}	{Shop & Service,}
+569	Fri Feb 04 21:27:44 +0000 2011	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Fri Feb 04 21:26:27 +0000 2011	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Fri Feb 04 04:00:46 +0000 2011	4bfc839dda7120a145394afd	{Great Khan's Mongolian Festival}	{32.71373927593231,-117.162603,San Diego,CA,United States}	{Food,}
+569	Fri Feb 04 04:00:46 +0000 2011	4bfc839dda7120a145394afd	{Great Khan's Mongolian Festival}	{32.71373927593231,-117.162603,San Diego,CA,United States}	{Food,}
+569	Wed Feb 02 21:17:54 +0000 2011	4c61f002e1621b8d746a2253	{Mojave Desert}	{34.78685801685513,-117.12557621670781,Barstow,CA,United States}	{Outdoors & Recreation,}
+569	Wed Feb 02 21:17:00 +0000 2011	4b99ed35f964a520479735e3	{Zzyzx Rd}	{35.19569489118943,-116.14153861999512,Zzyzx,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+569	Wed Feb 02 01:26:20 +0000 2011	4d0690d20e49721ec7c47b7f	{Nacho Daddy}	{36.00898609,-115.117145,Las Vegas,NV,United States}	{Nightlife Spot,Food,}
+569	Mon Jan 31 20:36:20 +0000 2011	4bd0a858caff95212947cff0	{Port Of Subs}	{36.001823,-115.10293152,Henderson,NV,United States}	{Food,}
+569	Sun Jan 30 13:39:37 +0000 2011	4bf2fc7598ac0f47465e62a8	{The Artisan}	{35.604375,-82.3143,Black Mountain,NC,United States}	{Food,}
+569	Sun Jan 30 11:35:13 +0000 2011	4d013eda6289f04d14be96cc	{Marquee Nightclub & Dayclub}	{36.10954499497765,-115.17464518547058,Las Vegas,NV,United States}	{Nightlife Spot,Arts & Entertainment,}
+569	Sun Jan 30 01:04:06 +0000 2011	4b99ed35f964a520479735e3	{Zzyzx Rd}	{35.19569489118943,-116.14153861999512,Zzyzx,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+569	Sun Jan 30 00:59:05 +0000 2011	4d136792f898b1f7a9d8df81	{Looking For A Place To Hide The Bodies}	{35.10772483578726,-116.25345986612606,,,United States}	{Outdoors & Recreation,}
+569	Sun Jan 30 00:58:13 +0000 2011	4b99ed35f964a520479735e3	{Zzyzx Rd}	{35.19569489118943,-116.14153861999512,Zzyzx,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+569	Sun Jan 30 00:57:26 +0000 2011	4b99ed35f964a520479735e3	{Zzyzx Rd}	{35.19569489118943,-116.14153861999512,Zzyzx,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+569	Sat Jan 29 23:23:14 +0000 2011	4bccb92668f976b0dd266383	{15 N}	{33.54513017600597,-117.17764103873753,Murrieta,CA,United States}	{Travel & Transport,}
+569	Sat Jan 29 07:41:07 +0000 2011	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Fri Jan 28 03:01:39 +0000 2011	4aca27e7f964a520a4c020e3	{Nokia Theatre}	{34.04434326944229,-118.26706051826477,Los Angeles,CA,United States}	{Music Venue,Arts & Entertainment,}
+569	Tue Jan 25 04:35:32 +0000 2011	4a4a6ac2f964a520caab1fe3	{Sushi Deli 1}	{32.749967065354404,-117.16569441169523,San Diego,CA,United States}	{Food,}
+569	Mon Jan 24 10:09:54 +0000 2011	4c8869b0ed0aa1435d7aa9f3	{5 Freeway at Katella}	{33.8032929708965,-117.9021406173706,Anaheim,CA,United States}	{Travel & Transport,}
+569	Mon Jan 24 09:20:25 +0000 2011	4c1fda1deac020a1b7b74bc2	{Juicy Burger}	{34.101486,-118.328195,Los Angeles,CA,United States}	{Food,}
+569	Mon Jan 24 07:13:37 +0000 2011	4b520eedf964a520b66427e3	{Drai's Hollywood}	{34.10097602730849,-118.32541867698268,Los Angeles,CA,United States}	{Nightlife Spot,}
+569	Sun Jan 23 07:32:09 +0000 2011	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Sat Jan 22 07:01:40 +0000 2011	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Fri Jan 21 09:16:21 +0000 2011	40e0b100f964a52027021fe3	{The Flame}	{32.7472063056951,-117.14650942618528,San Diego,CA,United States}	{Nightlife Spot,}
+569	Fri Jan 21 07:52:39 +0000 2011	4b8ec319f964a5209f3533e3	{FLUXX}	{32.710669756474346,-117.16114550828934,San Diego,CA,United States}	{Nightlife Spot,}
+569	Thu Jan 20 05:38:46 +0000 2011	428e7a00f964a520dc231fe3	{4th & B}	{32.71771521580978,-117.15883627292341,San Diego,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+569	Thu Jan 20 00:27:54 +0000 2011	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Wed Jan 19 06:42:22 +0000 2011	491be395f964a52073521fe3	{El Dorado Cocktail Lounge}	{32.71591865247647,-117.15505098739222,San Diego,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+569	Sun Jan 16 11:19:40 +0000 2011	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Sun Jan 16 10:00:48 +0000 2011	4a6e2197f964a520ffd31fe3	{Fresh MXN Food}	{32.74967948,-117.1698221,San Diego,CA,United States}	{Food,}
+569	Sun Jan 16 09:41:36 +0000 2011	4c911b117f3b8cfa4ff2991e	{Eden}	{32.74868845939636,-117.15309846,San Diego,CA,United States}	{Nightlife Spot,}
+569	Sun Jan 16 09:24:57 +0000 2011	40e0b100f964a52027021fe3	{The Flame}	{32.7472063056951,-117.14650942618528,San Diego,CA,United States}	{Nightlife Spot,}
+569	Sun Jan 16 07:25:35 +0000 2011	4c24f0c4f1272d7f94e583c5	{Wet Willie's}	{32.711490069746084,-117.15934748214774,San Diego,CA,United States}	{Nightlife Spot,Food,}
+569	Sat Jan 15 07:47:00 +0000 2011	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Sat Jan 15 00:17:30 +0000 2011	4bfc839dda7120a145394afd	{Great Khan's Mongolian Festival}	{32.71373927593231,-117.162603,San Diego,CA,United States}	{Food,}
+569	Mon Jan 10 05:18:18 +0000 2011	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Mon Jan 10 05:18:18 +0000 2011	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Sun Jan 09 07:13:13 +0000 2011	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Sun Jan 09 07:12:58 +0000 2011	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Wed Jan 05 04:56:28 +0000 2011	40e0b100f964a52017021fe3	{El Comal Mexican Restaurant}	{32.74933396293805,-117.12786840359263,San Diego,CA,United States}	{Nightlife Spot,Food,}
+569	Tue Jan 04 05:01:37 +0000 2011	4a4a6ac2f964a520caab1fe3	{Sushi Deli 1}	{32.749967065354404,-117.16569441169523,San Diego,CA,United States}	{Food,}
+569	Tue Jan 04 04:48:12 +0000 2011	4a7dbd2ff964a52070ef1fe3	{VCA Animal Center}	{32.750007,-117.16605,San Diego,CA,United States}	{Medical Center,Professional & Other Places,}
+569	Tue Jan 04 00:52:17 +0000 2011	4b99ed35f964a520479735e3	{Zzyzx Rd}	{35.19569489118943,-116.14153861999512,Zzyzx,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+569	Tue Jan 04 00:28:24 +0000 2011	4c4c6d0246240f47d79bc7f4	{Interstate 15}	{35.44216369609862,-115.67437030347638,Newberry-Baker,CA,United States}	{Travel & Transport,}
+569	Sun Jan 02 21:53:29 +0000 2011	4af516d2f964a5204cf821e3	{Buffalo Wild Wings}	{36.0031806336085,-115.11105537414551,Henderson,NV,United States}	{Food,}
+569	Sat Jan 01 06:37:38 +0000 2011	43b424a4f964a520b92c1fe3	{Beauty Bar}	{36.16875106369891,-115.14015506730847,Las Vegas,NV,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+569	Sat Jan 01 06:30:32 +0000 2011	43b424a4f964a520b92c1fe3	{Beauty Bar}	{36.16875106369891,-115.14015506730847,Las Vegas,NV,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+569	Fri Dec 31 20:00:33 +0000 2010	4c3f090fdb3b1b8d7c306695	{Albertsons}	{36.001503330108285,-115.10415358581886,Henderson,NV,United States}	{Shop & Service,Food & Drink Shop,}
+569	Fri Dec 31 07:52:47 +0000 2010	4c4c6d0246240f47d79bc7f4	{Interstate 15}	{35.44216369609862,-115.67437030347638,Newberry-Baker,CA,United States}	{Travel & Transport,}
+569	Fri Dec 31 07:52:47 +0000 2010	4c4c6d0246240f47d79bc7f4	{Interstate 15}	{35.44216369609862,-115.67437030347638,Newberry-Baker,CA,United States}	{Travel & Transport,}
+569	Fri Dec 31 07:52:24 +0000 2010	4c95272c03413704f41c79ef	{The Middle of Fucking Nowhere}	{35.430851,-115.711705,Nipton,CA,United States}	{Outdoors & Recreation,}
+569	Fri Dec 31 07:21:52 +0000 2010	4b99ed35f964a520479735e3	{Zzyzx Rd}	{35.19569489118943,-116.14153861999512,Zzyzx,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+569	Thu Dec 30 23:13:23 +0000 2010	4541114bf964a520433c1fe3	{San Diego International Airport (SAN)}	{32.73299611609881,-117.19931602478027,San Diego,CA,United States}	{Travel & Transport,}
+569	Thu Dec 30 17:11:33 +0000 2010	4a7b40aef964a5207cea1fe3	{San Diego DMV Office}	{32.75035870115045,-117.14910507202148,San Diego,CA,United States}	{Government Building,Professional & Other Places,}
+569	Thu Dec 30 16:53:08 +0000 2010	4ad379c8f964a520a4e420e3	{Discount Tire}	{32.80599,-117.220721,San Diego,CA,United States}	{Shop & Service,}
+569	Mon Dec 27 23:38:07 +0000 2010	4baed2e3f964a52000db3be3	{Macy's}	{32.63059285,-117.0863843,Chula Vista,CA,United States}	{Shop & Service,}
+569	Mon Dec 27 10:16:45 +0000 2010	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Mon Dec 27 02:54:11 +0000 2010	4ba181c2f964a520acbc37e3	{Red Devil Pizza}	{34.086143872071204,-117.89075679494319,Covina,CA,United States}	{Food,}
+569	Mon Dec 27 01:10:42 +0000 2010	4bcd0e88937ca5938c57ac92	{The Rude Dog Bar & Grill}	{34.086449005646195,-117.89012432098389,Covina,CA,United States}	{Nightlife Spot,}
+569	Sun Dec 26 22:12:03 +0000 2010	40a2ba80f964a5200ef31ee3	{Amoeba Music}	{34.09775400505154,-118.32916083276535,Hollywood,CA,United States}	{Shop & Service,Music Venue,Arts & Entertainment,}
+569	Sun Dec 26 20:41:22 +0000 2010	4c445e64dd1f2d7ff1b57ff9	{I-5 (Santa Ana Freeway)}	{33.778291230905644,-117.87609100341795,Southern California,CA,United States}	{Travel & Transport,}
+569	Fri Dec 24 13:04:14 +0000 2010	4c3a2f9f1e06d13a13e77a3e	{Commuter Terminal}	{32.730423927831126,-117.19162344932556,San Diego,CA,United States}	{Travel & Transport,Airport,}
+569	Wed Dec 22 19:30:11 +0000 2010	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Wed Dec 22 03:35:56 +0000 2010	4c5a2095ec2520a1e3f35012	{Candycane lane}	{32.63530556359719,-117.06864829344494,Chula Vista,CA,United States}	{}
+569	Wed Dec 22 02:46:44 +0000 2010	4c5a2095ec2520a1e3f35012	{Candycane lane}	{32.63530556359719,-117.06864829344494,Chula Vista,CA,United States}	{}
+569	Tue Dec 21 03:02:17 +0000 2010	4a4a6ac2f964a520caab1fe3	{Sushi Deli 1}	{32.749967065354404,-117.16569441169523,San Diego,CA,United States}	{Food,}
+569	Mon Dec 20 22:56:45 +0000 2010	465a059af964a52022471fe3	{Westfield Horton Plaza}	{32.714005195322024,-117.16228260254077,San Diego,CA,United States}	{Shop & Service,}
+569	Mon Dec 20 06:50:01 +0000 2010	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Sun Dec 19 14:00:08 +0000 2010	4c54681e4623be9a7eadbef2	{I-5 / I-805 Interchange (North of S.D.)}	{32.902969606971325,-117.22387076326078,La Jolla,CA,United States}	{Travel & Transport,}
+569	Sun Dec 19 07:36:09 +0000 2010	44732f28f964a520a5331fe3	{Avalon Hollywood}	{34.10266857469119,-118.32707748261049,Los Angeles,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+569	Sat Dec 18 22:48:09 +0000 2010	4a34195cf964a520bb9b1fe3	{Lucha Libre}	{32.74321644649328,-117.18160808086395,San Diego,CA,United States}	{Food,}
+569	Sat Dec 18 22:47:12 +0000 2010	4a34195cf964a520bb9b1fe3	{Lucha Libre}	{32.74321644649328,-117.18160808086395,San Diego,CA,United States}	{Food,}
+569	Sat Dec 18 05:26:17 +0000 2010	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Fri Dec 17 22:04:41 +0000 2010	43f7a423f964a520bf2f1fe3	{Hash House a Go Go}	{32.74387971219906,-117.16060638427734,San Diego,CA,United States}	{Food,}
+569	Fri Dec 17 02:48:41 +0000 2010	41005500f964a5204a0b1fe3	{SideBar}	{32.71155512,-117.159343,San Diego,CA,United States}	{Nightlife Spot,}
+569	Thu Dec 16 20:58:04 +0000 2010	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Thu Dec 16 03:30:02 +0000 2010	4cbf8b63021ca1435fb75c0c	{Van Buren Blvd}	{33.909476269221635,-117.43855519572075,Riverside,CA,United States}	{Travel & Transport,}
+569	Thu Dec 16 01:14:02 +0000 2010	4b99ed35f964a520479735e3	{Zzyzx Rd}	{35.19569489118943,-116.14153861999512,Zzyzx,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+569	Mon Dec 13 13:11:46 +0000 2010	4a791495f964a520e9e61fe3	{Drai's After Hours}	{36.11409818573942,-115.16991100788833,Las Vegas,NV,United States}	{Nightlife Spot,}
+569	Sun Dec 12 12:43:00 +0000 2010	4be0a13bf92c20a12a32bad3	{Artisan Hotel Boutique and Lounge}	{36.14368845659706,-115.16986012458801,Las Vegas,NV,United States}	{Nightlife Spot,Travel & Transport,}
+569	Sat Dec 11 21:13:01 +0000 2010	4b99ed35f964a520479735e3	{Zzyzx Rd}	{35.19569489118943,-116.14153861999512,Zzyzx,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+569	Sat Dec 11 21:11:36 +0000 2010	4b99ed35f964a520479735e3	{Zzyzx Rd}	{35.19569489118943,-116.14153861999512,Zzyzx,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+569	Sat Dec 11 18:02:51 +0000 2010	4c48dd349e3e2d7f1c19fc47	{Rainbow Oaks Country Market}	{33.41352242693664,-117.1582446471718,Fallbrook,CA,United States}	{Shop & Service,Food,}
+569	Sat Dec 11 06:15:09 +0000 2010	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Fri Dec 10 21:19:03 +0000 2010	4c0596e2517d0f479ec7f415	{Custom Printing Services}	{32.76652552060873,-117.20076266649122,San Diego,CA,United States}	{Shop & Service,}
+569	Fri Dec 10 06:15:48 +0000 2010	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Fri Dec 10 03:45:26 +0000 2010	41005500f964a5204a0b1fe3	{SideBar}	{32.71155512,-117.159343,San Diego,CA,United States}	{Nightlife Spot,}
+569	Thu Dec 09 22:37:16 +0000 2010	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Thu Dec 09 22:37:16 +0000 2010	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Tue Dec 07 22:34:41 +0000 2010	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Tue Dec 07 07:06:09 +0000 2010	4a937d08f964a520cc1f20e3	{Playhouse Hollywood}	{34.10126207355933,-118.33145003579023,Los Angeles,CA,United States}	{Nightlife Spot,}
+569	Mon Dec 06 21:30:37 +0000 2010	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Mon Dec 06 07:14:20 +0000 2010	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Mon Dec 06 07:01:12 +0000 2010	4a6e2197f964a520ffd31fe3	{Fresh MXN Food}	{32.74967948,-117.1698221,San Diego,CA,United States}	{Food,}
+569	Mon Dec 06 06:05:04 +0000 2010	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Sun Dec 05 05:54:32 +0000 2010	4bc4a332b492d13a4950aa60	{Verizon Wireless}	{32.75340725,-117.21198413333333,San Diego,CA,United States}	{Shop & Service,Professional & Other Places,}
+569	Sat Dec 04 20:30:08 +0000 2010	4b9d9e8cf964a520a8b636e3	{Vivid Entertainment LLC}	{34.13407989489828,-118.35811614990234,Los Angeles,CA,United States}	{Professional & Other Places,}
+569	Fri Dec 03 02:32:05 +0000 2010	4aa47245f964a520d34620e3	{Butcher Shop Steak House}	{32.83007700378938,-117.1409259135748,San Diego,CA,United States}	{Food,}
+569	Thu Dec 02 01:56:33 +0000 2010	4b8ec319f964a5209f3533e3	{FLUXX}	{32.710669756474346,-117.16114550828934,San Diego,CA,United States}	{Nightlife Spot,}
+569	Wed Dec 01 23:06:42 +0000 2010	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Wed Dec 01 04:25:50 +0000 2010	4bc5faf4db8fa593e5889b37	{Wet Stone Winebar and Cafe}	{32.725497,-117.16107277,San Diego,CA,United States}	{Nightlife Spot,Food,}
+569	Tue Nov 30 20:07:05 +0000 2010	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Tue Nov 30 02:11:42 +0000 2010	4bdf7cefffdec928c44eeca1	{University Club at Symphony Towers}	{32.71797368516741,-117.15791724189505,San Diego,CA,United States}	{Office,Professional & Other Places,}
+569	Mon Nov 29 07:16:30 +0000 2010	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Sun Nov 28 22:53:40 +0000 2010	4bee0c0ee24d20a1cf797214	{Aqui Es Texcoco}	{32.612303,-117.08174,Chula Vista,CA,United States}	{Food,}
+569	Sun Nov 28 05:32:08 +0000 2010	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Sat Nov 27 09:06:46 +0000 2010	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Sat Nov 27 09:06:46 +0000 2010	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Thu Nov 25 03:42:48 +0000 2010	40e0b100f964a5208c021fe3	{On Broadway}	{32.715685544280184,-117.15919239633813,San Diego,CA,United States}	{Nightlife Spot,}
+569	Tue Nov 23 01:14:30 +0000 2010	4bdf7cefffdec928c44eeca1	{University Club at Symphony Towers}	{32.71797368516741,-117.15791724189505,San Diego,CA,United States}	{Office,Professional & Other Places,}
+569	Thu Nov 18 20:11:14 +0000 2010	4b99ed35f964a520479735e3	{Zzyzx Rd}	{35.19569489118943,-116.14153861999512,Zzyzx,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+569	Tue Nov 16 20:42:22 +0000 2010	4b4a2f23f964a520c47d26e3	{Roberto's Taco Shop}	{35.9416589,-115.11654853820801,Henderson,NV,United States}	{Food,}
+569	Mon Nov 15 21:32:53 +0000 2010	41326e00f964a52038151fe3	{Venetian Resort & Casino}	{36.122190206301894,-115.17006397247314,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+569	Mon Nov 15 05:10:23 +0000 2010	4a6e51e1f964a5207dd41fe3	{The Beatles LOVE (Cirque Du Soleil)}	{36.12037025336111,-115.17452716827393,Las Vegas,NV,United States}	{Performing Arts Venue,Arts & Entertainment,}
+569	Mon Nov 15 03:31:31 +0000 2010	4b84a8f3f964a5200b4031e3	{Panda Express}	{36.12014492291916,-115.17214536666869,Las Vegas,NV,United States}	{Food,}
+569	Mon Nov 15 02:56:13 +0000 2010	41326e00f964a5209f141fe3	{The Mirage Hotel & Casino}	{36.121566227189106,-115.17517089843749,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+569	Mon Nov 15 02:55:06 +0000 2010	4b80d216f964a520c68d30e3	{Mirage-Treasure Island Tram}	{36.123212828012576,-115.17229557037354,Las Vegas,NV,United States}	{Travel & Transport,Bus Station,}
+569	Sun Nov 14 11:14:19 +0000 2010	4be0a13bf92c20a12a32bad3	{Artisan Hotel Boutique and Lounge}	{36.14368845659706,-115.16986012458801,Las Vegas,NV,United States}	{Nightlife Spot,Travel & Transport,}
+569	Sat Nov 13 22:34:41 +0000 2010	4b99ed35f964a520479735e3	{Zzyzx Rd}	{35.19569489118943,-116.14153861999512,Zzyzx,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+569	Sat Nov 13 21:06:54 +0000 2010	4b773a97f964a520cc892ee3	{City of Barstow}	{34.8956816286856,-117.01735496520995,Barstow,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+569	Sat Nov 13 20:02:48 +0000 2010	4bd9aa1ad2cbc9280746d1ad	{I-15}	{33.985057632581686,-117.5488829612732,Southern California,CA,United States}	{Travel & Transport,}
+569	Fri Nov 12 02:07:20 +0000 2010	4b684008f964a520066e2be3	{City Volkswagen Service}	{32.784559547692545,-117.20590236339696,San Diego,CA,United States}	{Shop & Service,}
+569	Thu Nov 11 17:43:56 +0000 2010	49dcf54df964a520c85f1fe3	{Bruegger's Bagels}	{32.840024,-117.273454,La Jolla,CA,United States}	{Food,}
+569	Thu Nov 11 16:34:44 +0000 2010	4b684008f964a520066e2be3	{City Volkswagen Service}	{32.784559547692545,-117.20590236339696,San Diego,CA,United States}	{Shop & Service,}
+569	Mon Nov 08 07:49:54 +0000 2010	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Sun Nov 07 17:57:26 +0000 2010	4b33ea9ff964a520f92125e3	{The Rock Church}	{32.73570360250915,-117.21819877624512,San Diego,CA,United States}	{Spiritual Center,Professional & Other Places,}
+569	Sun Nov 07 09:13:07 +0000 2010	40e0b100f964a5208d021fe3	{Onyx Room}	{32.71435509667659,-117.16025367379189,San Diego,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+569	Mon Nov 01 03:51:22 +0000 2010	4bba472ab35776b035bdca01	{Apocalypse}	{34.42113325174464,-118.59970271587372,Valencia,CA,United States}	{Arts & Entertainment,Theme Park,}
+569	Mon Nov 01 01:15:50 +0000 2010	4bb95c60935e95210c1a2790	{X2}	{34.42155332037924,-118.59413943989881,Valencia,CA,United States}	{Arts & Entertainment,Theme Park,}
+569	Mon Nov 01 01:15:21 +0000 2010	4c33823a213c2d7f9811375d	{Viper}	{34.42107129982385,-118.59569549560547,Valencia,CA,United States}	{Arts & Entertainment,Theme Park,}
+569	Sun Oct 31 23:43:28 +0000 2010	4bba472ab35776b035bdca01	{Apocalypse}	{34.42113325174464,-118.59970271587372,Valencia,CA,United States}	{Arts & Entertainment,Theme Park,}
+569	Sun Oct 31 22:01:21 +0000 2010	4bbfa09ab492d13ac7fca260	{The Riddler's Revenge}	{34.424050633908315,-118.60004315381038,Valencia,CA,United States}	{Arts & Entertainment,Theme Park,}
+569	Sun Oct 31 21:19:18 +0000 2010	4bc25486920eb7131b171c2c	{Batman The Ride}	{34.425744954863696,-118.6001514245561,Valencia,CA,United States}	{Arts & Entertainment,Theme Park,}
+569	Sun Oct 31 20:53:27 +0000 2010	4bc25657920eb713d31a1c2c	{Scream}	{34.4282496799536,-118.59848176767703,Valencia,CA,United States}	{Arts & Entertainment,Theme Park,}
+569	Sun Oct 31 20:25:10 +0000 2010	4bbe70db30c99c744fd25311	{Goliath}	{34.4266546352067,-118.59743893574773,Valencia,CA,United States}	{Arts & Entertainment,Theme Park,}
+569	Sun Oct 31 19:31:11 +0000 2010	4a179fb5f964a5206b791fe3	{Six Flags Magic Mountain}	{34.42369099064766,-118.5944690274224,Valencia,CA,United States}	{Arts & Entertainment,Theme Park,}
+569	Sun Oct 31 05:02:40 +0000 2010	4abee76ff964a5207f9020e3	{Del Mar Fairgrounds}	{32.97407195728699,-117.25815296173096,Del Mar,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+569	Sat Oct 30 05:03:14 +0000 2010	49dbba31f964a520ed5e1fe3	{Spin Nightclub}	{32.74444627609734,-117.18820288286494,San Diego,CA,United States}	{Nightlife Spot,}
+569	Sat Oct 30 01:43:23 +0000 2010	4a34195cf964a520bb9b1fe3	{Lucha Libre}	{32.74321644649328,-117.18160808086395,San Diego,CA,United States}	{Food,}
+569	Sat Oct 30 01:18:27 +0000 2010	40e0b100f964a5208c021fe3	{On Broadway}	{32.715685544280184,-117.15919239633813,San Diego,CA,United States}	{Nightlife Spot,}
+569	Thu Oct 28 02:40:13 +0000 2010	4c911b117f3b8cfa4ff2991e	{Eden}	{32.74868845939636,-117.15309846,San Diego,CA,United States}	{Nightlife Spot,}

@@ -1,0 +1,381 @@
+572	Sun Aug 07 20:25:41 +0000 2011	4b5b7f91f964a520bf0229e3	{Avila Grocery and Deli}	{35.17879128456116,-120.73327643333333,Avila Beach,CA,United States}	{Food,}
+572	Sun Aug 07 02:19:49 +0000 2011	4bd6ebe8cfa7b713414628da	{Et Voila}	{35.248188,-120.68327433,San Luis Obispo,CA,United States}	{Food,}
+572	Fri Aug 05 23:44:21 +0000 2011	4dbf3bac6e8124d25db207a0	{The Credit Bureau}	{35.121602,-120.610748,Grover Beach,CA,United States}	{Office,Professional & Other Places,}
+572	Wed Aug 03 19:28:45 +0000 2011	4bd0af5541b9ef3b5f99fae5	{Stacked Sandwiches}	{35.120027,-120.60903668403625,Grover Beach,CA,United States}	{Food,}
+572	Wed Aug 03 16:23:13 +0000 2011	4d115ec8437c236a68f28e7d	{Shell Beach Salon & Spa}	{35.158424,-120.674466,Shell Beach,CA,United States}	{Shop & Service,}
+572	Wed Aug 03 16:21:13 +0000 2011	4e397556fa763bfcc36e2f5e	{The Grooming Nook}	{35.158282,-120.674149,Grover Beach,CA,United States}	{Shop & Service,}
+572	Mon Aug 01 20:47:50 +0000 2011	4dbf3bac6e8124d25db207a0	{The Credit Bureau}	{35.121602,-120.610748,Grover Beach,CA,United States}	{Office,Professional & Other Places,}
+572	Mon Aug 01 16:02:50 +0000 2011	4c1b8d5fb4e62d7ffa85d993	{St Patricks Catholic School}	{35.1263007205095,-120.59164036740098,Arroyo Grande,CA,United States}	{College & University,}
+572	Sat Jul 30 03:48:13 +0000 2011	4d312f3172a8b1f78ac191d0	{Belvedere Room}	{35.375951192144356,-119.02140595793064,Bakersfield,CA,United States}	{Food,}
+572	Fri Jul 29 17:51:54 +0000 2011	4bd0af5541b9ef3b5f99fae5	{Stacked Sandwiches}	{35.120027,-120.60903668403625,Grover Beach,CA,United States}	{Food,}
+572	Fri Jul 29 15:42:11 +0000 2011	4bcdfc44cc8cd13a7185c3cf	{Ventana Grill}	{35.149665733333336,-120.65436065196991,Pismo Beach,CA,United States}	{Food,}
+572	Thu Jul 28 21:55:37 +0000 2011	4bd7b9b1dc4b95217ede7788	{ARCO}	{35.13531267642975,-120.621961,Pismo Beach,CA,United States}	{Shop & Service,}
+572	Thu Jul 28 00:55:58 +0000 2011	4b639324f964a52060842ae3	{Gather Wine Bar}	{35.123598554151435,-120.57828813129315,Arroyo Grande,CA,United States}	{Nightlife Spot,Food,}
+572	Thu Jul 28 00:52:23 +0000 2011	4c9d27ba46978cfa36d4947f	{Village Of Arroyo Grande}	{35.12355915962479,-120.57840585708618,Arroyo Grande,CA,United States}	{Outdoors & Recreation,}
+572	Wed Jul 27 21:00:13 +0000 2011	4c5b54ea85a1e21e00d35311	{Santa Lucia Bank}	{35.12127314,-120.60697119,Arroyo Grande,CA,United States}	{Professional & Other Places,}
+572	Wed Jul 27 21:00:13 +0000 2011	4c5b54ea85a1e21e00d35311	{Santa Lucia Bank}	{35.12127314,-120.60697119,Arroyo Grande,CA,United States}	{Professional & Other Places,}
+572	Wed Jul 27 00:23:06 +0000 2011	4c1b8d5fb4e62d7ffa85d993	{St Patricks Catholic School}	{35.1263007205095,-120.59164036740098,Arroyo Grande,CA,United States}	{College & University,}
+572	Wed Jul 27 00:09:59 +0000 2011	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Tue Jul 26 18:54:26 +0000 2011	4bcdfc44cc8cd13a7185c3cf	{Ventana Grill}	{35.149665733333336,-120.65436065196991,Pismo Beach,CA,United States}	{Food,}
+572	Tue Jul 26 00:15:43 +0000 2011	4dbf3bac6e8124d25db207a0	{The Credit Bureau}	{35.121602,-120.610748,Grover Beach,CA,United States}	{Office,Professional & Other Places,}
+572	Thu Jul 21 16:48:59 +0000 2011	4cfeaba9f2886dcbdd8fab9c	{Santa Barbara Board Of Realtors}	{34.424311,-119.708942,Santa Barbara,CA,United States}	{Office,Professional & Other Places,}
+572	Thu Jul 21 00:17:44 +0000 2011	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Wed Jul 20 22:38:05 +0000 2011	4dbf3bac6e8124d25db207a0	{The Credit Bureau}	{35.121602,-120.610748,Grover Beach,CA,United States}	{Office,Professional & Other Places,}
+572	Wed Jul 20 19:29:47 +0000 2011	4b933231f964a5208d3a34e3	{Mongo's Saloon}	{35.122054973094734,-120.62690237621901,Grover Beach,CA,United States}	{Nightlife Spot,Food,}
+572	Wed Jul 20 16:28:05 +0000 2011	4c76d3d25cd6b1f79e233d94	{Arroyo Grande Chevrolet}	{35.12045332,-120.576796,Arroyo Grande,CA,United States}	{Shop & Service,}
+572	Tue Jul 19 22:03:39 +0000 2011	4b466c57f964a520712026e3	{Embassy Suites}	{35.25925163845874,-120.67508233259645,San Luis Obispo,CA,United States}	{Travel & Transport,Shop & Service,Outdoors & Recreation,}
+572	Tue Jul 19 18:42:49 +0000 2011	4bcdfc44cc8cd13a7185c3cf	{Ventana Grill}	{35.149665733333336,-120.65436065196991,Pismo Beach,CA,United States}	{Food,}
+572	Tue Jul 19 01:08:09 +0000 2011	4c12a8b88aedd13a96555137	{5 Cities Swim School}	{35.118909372033855,-120.57535449700607,Arroyo Grande,CA,United States}	{Outdoors & Recreation,}
+572	Mon Jul 18 19:44:09 +0000 2011	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Sat Jul 16 00:13:21 +0000 2011	4c1b8d5fb4e62d7ffa85d993	{St Patricks Catholic School}	{35.1263007205095,-120.59164036740098,Arroyo Grande,CA,United States}	{College & University,}
+572	Fri Jul 15 00:22:50 +0000 2011	4c1b8d5fb4e62d7ffa85d993	{St Patricks Catholic School}	{35.1263007205095,-120.59164036740098,Arroyo Grande,CA,United States}	{College & University,}
+572	Fri Jul 15 00:15:42 +0000 2011	4dbf3bac6e8124d25db207a0	{The Credit Bureau}	{35.121602,-120.610748,Grover Beach,CA,United States}	{Office,Professional & Other Places,}
+572	Thu Jul 14 01:06:34 +0000 2011	4bc90302b6c49c74e4af8d91	{Dana Adobe}	{35.02764364802827,-120.46925989154819,Nipomo,CA,United States}	{Outdoors & Recreation,}
+572	Wed Jul 13 23:37:15 +0000 2011	4c745ef01b30a093a294ec09	{Pismo Beach Veterinary Clinic}	{35.14338882541319,-120.64172744750977,Pismo Beach,CA,United States}	{Medical Center,Professional & Other Places,}
+572	Mon Jul 11 02:13:52 +0000 2011	4bcdfc44cc8cd13a7185c3cf	{Ventana Grill}	{35.149665733333336,-120.65436065196991,Pismo Beach,CA,United States}	{Food,}
+572	Sat Jul 09 22:17:56 +0000 2011	4ba4df17f964a5205abd38e3	{Bob Jones Trail}	{35.187044195525075,-120.72015073979911,San Luis Obispo,CA,United States}	{Outdoors & Recreation,}
+572	Sat Jul 09 04:26:44 +0000 2011	4b639324f964a52060842ae3	{Gather Wine Bar}	{35.123598554151435,-120.57828813129315,Arroyo Grande,CA,United States}	{Nightlife Spot,Food,}
+572	Fri Jul 08 15:35:11 +0000 2011	4bcdfc44cc8cd13a7185c3cf	{Ventana Grill}	{35.149665733333336,-120.65436065196991,Pismo Beach,CA,United States}	{Food,}
+572	Fri Jul 08 15:35:11 +0000 2011	4bcdfc44cc8cd13a7185c3cf	{Ventana Grill}	{35.149665733333336,-120.65436065196991,Pismo Beach,CA,United States}	{Food,}
+572	Thu Jul 07 00:03:37 +0000 2011	4dbf3bac6e8124d25db207a0	{The Credit Bureau}	{35.121602,-120.610748,Grover Beach,CA,United States}	{Office,Professional & Other Places,}
+572	Wed Jul 06 18:17:52 +0000 2011	4dc1c19fc65bd0dbc08fe31e	{Old Avocado Ranch New Home Development}	{35.09931893773383,-120.60272963284841,Oceano,CA,United States}	{Residence,}
+572	Wed Jul 06 01:01:25 +0000 2011	4ab47104f964a520317120e3	{Albertsons}	{35.128441364072934,-120.59593346410084,Arroyo Grande,CA,United States}	{Shop & Service,Food & Drink Shop,}
+572	Tue Jul 05 23:07:19 +0000 2011	4c745ef01b30a093a294ec09	{Pismo Beach Veterinary Clinic}	{35.14338882541319,-120.64172744750977,Pismo Beach,CA,United States}	{Medical Center,Professional & Other Places,}
+572	Tue Jul 05 20:42:59 +0000 2011	4bcdfc44cc8cd13a7185c3cf	{Ventana Grill}	{35.149665733333336,-120.65436065196991,Pismo Beach,CA,United States}	{Food,}
+572	Mon Jul 04 23:28:21 +0000 2011	4b95a031f964a520d6ac34e3	{Scolari's Market}	{35.135486,-120.624057,Pismo Beach,CA,United States}	{Shop & Service,Food & Drink Shop,}
+572	Sat Jul 02 18:11:16 +0000 2011	4dc1c19fc65bd0dbc08fe31e	{Old Avocado Ranch New Home Development}	{35.09931893773383,-120.60272963284841,Oceano,CA,United States}	{Residence,}
+572	Sat Jul 02 16:54:19 +0000 2011	4d115ec8437c236a68f28e7d	{Shell Beach Salon & Spa}	{35.158424,-120.674466,Shell Beach,CA,United States}	{Shop & Service,}
+572	Fri Jul 01 22:56:56 +0000 2011	4c745ef01b30a093a294ec09	{Pismo Beach Veterinary Clinic}	{35.14338882541319,-120.64172744750977,Pismo Beach,CA,United States}	{Medical Center,Professional & Other Places,}
+572	Wed Jun 29 03:53:36 +0000 2011	4bcdfc44cc8cd13a7185c3cf	{Ventana Grill}	{35.149665733333336,-120.65436065196991,Pismo Beach,CA,United States}	{Food,}
+572	Sat Jun 25 21:15:13 +0000 2011	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Fri Jun 24 18:58:05 +0000 2011	4e04ddac45dd3d096d7fcead	{740 Hanford Street, Pismo Beach}	{35.12925084527187,-120.60272963284841,Pismo Beach,CA,United States}	{Residence,}
+572	Thu Jun 23 01:36:28 +0000 2011	4b639324f964a52060842ae3	{Gather Wine Bar}	{35.123598554151435,-120.57828813129315,Arroyo Grande,CA,United States}	{Nightlife Spot,Food,}
+572	Wed Jun 22 23:42:43 +0000 2011	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Wed Jun 22 20:56:44 +0000 2011	4c5b54ea85a1e21e00d35311	{Santa Lucia Bank}	{35.12127314,-120.60697119,Arroyo Grande,CA,United States}	{Professional & Other Places,}
+572	Wed Jun 22 20:09:38 +0000 2011	4b312a1df964a5208d0125e3	{Alphy's Broiler}	{35.122882,-120.58033103333334,Arroyo Grande,CA,United States}	{Food,}
+572	Tue Jun 21 20:47:10 +0000 2011	4bcdfc44cc8cd13a7185c3cf	{Ventana Grill}	{35.149665733333336,-120.65436065196991,Pismo Beach,CA,United States}	{Food,}
+572	Tue Jun 21 16:01:40 +0000 2011	4c1b8d5fb4e62d7ffa85d993	{St Patricks Catholic School}	{35.1263007205095,-120.59164036740098,Arroyo Grande,CA,United States}	{College & University,}
+572	Tue Jun 21 15:59:19 +0000 2011	4c276d5c905a0f47d5d36460	{House of Boyers}	{35.12925084527187,-120.60272963284841,Arroyo Grande,CA,United States}	{Residence,}
+572	Tue Jun 21 14:47:11 +0000 2011	4c276d5c905a0f47d5d36460	{House of Boyers}	{35.12925084527187,-120.60272963284841,Arroyo Grande,CA,United States}	{Residence,}
+572	Sun Jun 19 06:02:44 +0000 2011	4b639324f964a52060842ae3	{Gather Wine Bar}	{35.123598554151435,-120.57828813129315,Arroyo Grande,CA,United States}	{Nightlife Spot,Food,}
+572	Sat Jun 18 23:43:42 +0000 2011	4b5cde9cf964a520744829e3	{Pismo Beach Pier}	{35.13863365552091,-120.6434440612793,Pismo Beach,CA,United States}	{Travel & Transport,Outdoors & Recreation,Beach,}
+572	Thu Jun 16 00:40:55 +0000 2011	4c12a8b88aedd13a96555137	{5 Cities Swim School}	{35.118909372033855,-120.57535449700607,Arroyo Grande,CA,United States}	{Outdoors & Recreation,}
+572	Wed Jun 15 19:31:14 +0000 2011	4b43fdf8f964a520c1ef25e3	{Giuseppe's Cucina Italiana}	{35.14254931666667,-120.641248,Pismo Beach,CA,United States}	{Food,}
+572	Tue Jun 14 18:44:37 +0000 2011	4bcdfc44cc8cd13a7185c3cf	{Ventana Grill}	{35.149665733333336,-120.65436065196991,Pismo Beach,CA,United States}	{Food,}
+572	Sun Jun 12 02:05:28 +0000 2011	4b7a1dbff964a52081232fe3	{Wine Cask}	{34.421080150101055,-119.69898462295532,Santa Barbara,CA,United States}	{Food,}
+572	Fri Jun 10 04:08:18 +0000 2011	4b639324f964a52060842ae3	{Gather Wine Bar}	{35.123598554151435,-120.57828813129315,Arroyo Grande,CA,United States}	{Nightlife Spot,Food,}
+572	Thu Jun 09 23:05:27 +0000 2011	4d41e8fb33a43704df319d92	{Cole Chrysler, Dodge, Jeep, Mazda}	{35.255680337705456,-120.6453104436763,San Luis Obispo,CA,United States}	{Shop & Service,}
+572	Thu Jun 09 02:36:12 +0000 2011	4c2d550f4e132d7fb75c9cdf	{Oceano Community Center}	{35.103976089925986,-120.61066599424448,Oceano,CA,United States}	{Stadium,Arts & Entertainment,}
+572	Thu Jun 09 00:22:21 +0000 2011	4c12a8b88aedd13a96555137	{5 Cities Swim School}	{35.118909372033855,-120.57535449700607,Arroyo Grande,CA,United States}	{Outdoors & Recreation,}
+572	Tue Jun 07 20:12:02 +0000 2011	4bcdfc44cc8cd13a7185c3cf	{Ventana Grill}	{35.149665733333336,-120.65436065196991,Pismo Beach,CA,United States}	{Food,}
+572	Mon Jun 06 18:50:11 +0000 2011	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Fri Jun 03 16:14:44 +0000 2011	4c1b8d5fb4e62d7ffa85d993	{St Patricks Catholic School}	{35.1263007205095,-120.59164036740098,Arroyo Grande,CA,United States}	{College & University,}
+572	Fri Jun 03 00:48:04 +0000 2011	4be98f9662c0c92899c7dfd4	{Dana Powers House}	{35.06185,-120.47505,Nipomo,CA,United States}	{}
+572	Thu Jun 02 20:27:14 +0000 2011	4b757c94f964a5204c0f2ee3	{Higher Groundz Coffee and Tea}	{35.120754,-120.608883,Grover Beach,CA,United States}	{Food,}
+572	Sun May 29 22:05:35 +0000 2011	4dbdbf744df044e525036eb8	{2410 Bayside Place, Arroyo Grande}	{35.07577609815,-120.57971277403492,Arroyo Grande,CA,United States}	{Residence,}
+572	Thu May 26 23:10:30 +0000 2011	4b96744bf964a5202ccd34e3	{Terminal C}	{29.986702041055544,-95.33858299255371,Houston,TX,United States}	{Travel & Transport,Airport,}
+572	Thu May 26 18:15:33 +0000 2011	4a65d6a4f964a520a1c71fe3	{Louis Armstrong New Orleans International Airport (MSY)}	{29.984936414376474,-90.25714874267578,Kenner,LA,United States}	{Travel & Transport,}
+572	Thu May 26 05:50:54 +0000 2011	4ada6d8cf964a520822221e3	{d.b.a.}	{29.963955579361734,-90.0578498840332,New Orleans,LA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+572	Wed May 25 20:31:20 +0000 2011	4dd6cf04fa76ad96d1153ce7	{2011 Rotary International Convention}	{29.939596388747344,-90.06448804636388,New Orleans,LA,United States}	{Professional & Other Places,}
+572	Wed May 25 16:25:23 +0000 2011	4dd6cf04fa76ad96d1153ce7	{2011 Rotary International Convention}	{29.939596388747344,-90.06448804636388,New Orleans,LA,United States}	{Professional & Other Places,}
+572	Tue May 24 19:42:54 +0000 2011	4dd6cf04fa76ad96d1153ce7	{2011 Rotary International Convention}	{29.939596388747344,-90.06448804636388,New Orleans,LA,United States}	{Professional & Other Places,}
+572	Tue May 24 18:00:54 +0000 2011	4ba41d75f964a520108338e3	{Cochon Butcher}	{29.942217272164143,-90.06726980209349,New Orleans,LA,United States}	{Food,}
+572	Tue May 24 16:05:09 +0000 2011	4dd6cf04fa76ad96d1153ce7	{2011 Rotary International Convention}	{29.939596388747344,-90.06448804636388,New Orleans,LA,United States}	{Professional & Other Places,}
+572	Mon May 23 20:12:18 +0000 2011	4dd6cf04fa76ad96d1153ce7	{2011 Rotary International Convention}	{29.939596388747344,-90.06448804636388,New Orleans,LA,United States}	{Professional & Other Places,}
+572	Mon May 23 19:18:38 +0000 2011	4dd6cf04fa76ad96d1153ce7	{2011 Rotary International Convention}	{29.939596388747344,-90.06448804636388,New Orleans,LA,United States}	{Professional & Other Places,}
+572	Sun May 22 21:01:27 +0000 2011	4ad4c04af964a52087f220e3	{New Orleans Marriott at the Convention Center}	{29.943289743512807,-90.064665931032,New Orleans,LA,United States}	{Travel & Transport,}
+572	Sun May 22 17:16:37 +0000 2011	4dd6cf04fa76ad96d1153ce7	{2011 Rotary International Convention}	{29.939596388747344,-90.06448804636388,New Orleans,LA,United States}	{Professional & Other Places,}
+572	Sun May 22 17:14:27 +0000 2011	4ad4c04ef964a520d0f320e3	{St. Louis Cathedral}	{29.957853390693202,-90.06350285389789,New Orleans,LA,United States}	{Spiritual Center,Arts & Entertainment,Professional & Other Places,}
+572	Sun May 22 02:13:17 +0000 2011	50ca02c2245f2d4aa8c2bb1a	{Drago's Seafood}	{29.947604614996493,-90.0633340966142,New Orleans,LA,United States}	{Food,}
+572	Sun May 22 02:00:42 +0000 2011	4dd6cf04fa76ad96d1153ce7	{2011 Rotary International Convention}	{29.939596388747344,-90.06448804636388,New Orleans,LA,United States}	{Professional & Other Places,}
+572	Sat May 21 20:30:46 +0000 2011	4ad4c04af964a520b5f220e3	{Gumbo Shop}	{29.957847272728408,-90.06458383031351,New Orleans,LA,United States}	{Food,}
+572	Sat May 21 19:28:02 +0000 2011	4ad4c04af964a52087f220e3	{New Orleans Marriott at the Convention Center}	{29.943289743512807,-90.064665931032,New Orleans,LA,United States}	{Travel & Transport,}
+572	Sat May 21 16:48:39 +0000 2011	4dd6cf04fa76ad96d1153ce7	{2011 Rotary International Convention}	{29.939596388747344,-90.06448804636388,New Orleans,LA,United States}	{Professional & Other Places,}
+572	Sat May 21 16:37:27 +0000 2011	4ba50a0cf964a52034d438e3	{Caf? Du Monde}	{29.946530916961613,-90.06205558776855,New Orleans,LA,United States}	{Food,}
+572	Sat May 21 02:28:23 +0000 2011	4ad4c04ff964a52011f420e3	{Mulate's Cajun Restaurant}	{29.944498062163515,-90.06490311187184,New Orleans,LA,United States}	{Food,}
+572	Fri May 20 17:46:11 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+572	Thu May 19 22:58:39 +0000 2011	4c745ef01b30a093a294ec09	{Pismo Beach Veterinary Clinic}	{35.14338882541319,-120.64172744750977,Pismo Beach,CA,United States}	{Medical Center,Professional & Other Places,}
+572	Thu May 19 22:58:39 +0000 2011	4c745ef01b30a093a294ec09	{Pismo Beach Veterinary Clinic}	{35.14338882541319,-120.64172744750977,Pismo Beach,CA,United States}	{Medical Center,Professional & Other Places,}
+572	Wed May 18 00:21:34 +0000 2011	4c1b8d5fb4e62d7ffa85d993	{St Patricks Catholic School}	{35.1263007205095,-120.59164036740098,Arroyo Grande,CA,United States}	{College & University,}
+572	Tue May 17 19:12:10 +0000 2011	4bcdfc44cc8cd13a7185c3cf	{Ventana Grill}	{35.149665733333336,-120.65436065196991,Pismo Beach,CA,United States}	{Food,}
+572	Tue May 17 03:50:03 +0000 2011	4ad7d63cf964a5203d0f21e3	{Trader Joe's}	{35.126030328016924,-120.5939667493937,Arroyo Grande,CA,United States}	{Shop & Service,Food & Drink Shop,}
+572	Tue May 17 01:40:51 +0000 2011	4c2d550f4e132d7fb75c9cdf	{Oceano Community Center}	{35.103976089925986,-120.61066599424448,Oceano,CA,United States}	{Stadium,Arts & Entertainment,}
+572	Tue May 17 01:40:51 +0000 2011	4c2d550f4e132d7fb75c9cdf	{Oceano Community Center}	{35.103976089925986,-120.61066599424448,Oceano,CA,United States}	{Stadium,Arts & Entertainment,}
+572	Tue May 17 00:06:09 +0000 2011	4c12a8b88aedd13a96555137	{5 Cities Swim School}	{35.118909372033855,-120.57535449700607,Arroyo Grande,CA,United States}	{Outdoors & Recreation,}
+572	Tue May 17 00:06:04 +0000 2011	4c12a8b88aedd13a96555137	{5 Cities Swim School}	{35.118909372033855,-120.57535449700607,Arroyo Grande,CA,United States}	{Outdoors & Recreation,}
+572	Sat May 14 18:22:27 +0000 2011	4dcec79052b1f8915b9f793e	{Madonna Inn Expo Center}	{35.273065098346926,-120.6777104115292,San Luis Obispo,CA,United States}	{Professional & Other Places,}
+572	Fri May 13 15:58:35 +0000 2011	4bcdfc44cc8cd13a7185c3cf	{Ventana Grill}	{35.149665733333336,-120.65436065196991,Pismo Beach,CA,United States}	{Food,}
+572	Thu May 12 21:39:53 +0000 2011	4dbf3bac6e8124d25db207a0	{The Credit Bureau}	{35.121602,-120.610748,Grover Beach,CA,United States}	{Office,Professional & Other Places,}
+572	Thu May 12 20:31:21 +0000 2011	4d4f2a049a2a6ea8acd3296f	{Jalapenos}	{35.11990993333333,-120.597241,Arroyo Grande,CA,United States}	{}
+572	Wed May 11 18:14:35 +0000 2011	4dc1c19fc65bd0dbc08fe31e	{Old Avocado Ranch New Home Development}	{35.09931893773383,-120.60272963284841,Oceano,CA,United States}	{Residence,}
+572	Wed May 11 16:38:22 +0000 2011	4d115ec8437c236a68f28e7d	{Shell Beach Salon & Spa}	{35.158424,-120.674466,Shell Beach,CA,United States}	{Shop & Service,}
+572	Wed May 11 02:30:09 +0000 2011	4c1b8d5fb4e62d7ffa85d993	{St Patricks Catholic School}	{35.1263007205095,-120.59164036740098,Arroyo Grande,CA,United States}	{College & University,}
+572	Wed May 11 02:06:17 +0000 2011	4dbf3bac6e8124d25db207a0	{The Credit Bureau}	{35.121602,-120.610748,Grover Beach,CA,United States}	{Office,Professional & Other Places,}
+572	Tue May 10 19:25:52 +0000 2011	4a10612ef964a520b2761fe3	{California State Polytechnic University, San Luis Obispo}	{35.300766422258704,-120.66030979156494,San Luis Obispo,CA,United States}	{College & University,}
+572	Tue May 10 19:06:42 +0000 2011	4c745ef01b30a093a294ec09	{Pismo Beach Veterinary Clinic}	{35.14338882541319,-120.64172744750977,Pismo Beach,CA,United States}	{Medical Center,Professional & Other Places,}
+572	Tue May 10 16:00:43 +0000 2011	4c1b8d5fb4e62d7ffa85d993	{St Patricks Catholic School}	{35.1263007205095,-120.59164036740098,Arroyo Grande,CA,United States}	{College & University,}
+572	Mon May 09 00:17:45 +0000 2011	4b89f8aff964a5206e5932e3	{sea chest restaurant}	{35.57292580604553,-121.11234247684479,Cambria,CA,United States}	{Food,}
+572	Sun May 08 18:47:06 +0000 2011	4b9e69dcf964a52090e136e3	{Village Cafe}	{35.123062,-120.579566,Arroyo Grande,CA,United States}	{Food,}
+572	Fri May 06 22:09:42 +0000 2011	4c8ebb58a8de224b50fe2901	{Tullius Chiropractic}	{35.121398,-120.620222,Grover Beach,CA,United States}	{Professional & Other Places,}
+572	Fri May 06 22:09:40 +0000 2011	4c8ebb58a8de224b50fe2901	{Tullius Chiropractic}	{35.121398,-120.620222,Grover Beach,CA,United States}	{Professional & Other Places,}
+572	Fri May 06 19:18:54 +0000 2011	4c1b8d5fb4e62d7ffa85d993	{St Patricks Catholic School}	{35.1263007205095,-120.59164036740098,Arroyo Grande,CA,United States}	{College & University,}
+572	Fri May 06 18:24:31 +0000 2011	4d87a60840a7a35d594e4cbe	{SUBWAY}	{35.126764,-120.59545,Arroyo Grande,CA,United States}	{Food,}
+572	Thu May 05 00:14:35 +0000 2011	4c8ebb58a8de224b50fe2901	{Tullius Chiropractic}	{35.121398,-120.620222,Grover Beach,CA,United States}	{Professional & Other Places,}
+572	Wed May 04 22:50:25 +0000 2011	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Wed May 04 22:21:07 +0000 2011	4b7a0312f964a520081f2fe3	{Doc Burnstein's Ice Cream Labratory}	{35.12304425239563,-120.57967185974121,Arroyo Grande,CA,United States}	{Food,}
+572	Wed May 04 21:59:31 +0000 2011	4c34b608452620a1848f250f	{Pediatric Specialists}	{35.12308716773987,-120.5806428194046,Arroyo Grande,CA,United States}	{Medical Center,Professional & Other Places,}
+572	Tue May 03 23:30:00 +0000 2011	4dbf3bac6e8124d25db207a0	{The Credit Bureau}	{35.121602,-120.610748,Grover Beach,CA,United States}	{Office,Professional & Other Places,}
+572	Tue May 03 19:29:52 +0000 2011	4b54d1bff964a52008ce27e3	{Custom House}	{35.179028617641926,-120.73389766345916,Avila Beach,CA,United States}	{Nightlife Spot,Food,}
+572	Tue May 03 19:23:19 +0000 2011	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Mon May 02 23:18:38 +0000 2011	4dbf3bac6e8124d25db207a0	{The Credit Bureau}	{35.121602,-120.610748,Grover Beach,CA,United States}	{Office,Professional & Other Places,}
+572	Mon May 02 18:16:00 +0000 2011	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Mon May 02 16:08:06 +0000 2011	4adba1e6f964a520912921e3	{Starbucks}	{35.12662166666927,-120.5955183506012,Arroyo Grande,CA,United States}	{Food,}
+572	Sun May 01 20:18:26 +0000 2011	4dbdbf744df044e525036eb8	{2410 Bayside Place, Arroyo Grande}	{35.07577609815,-120.57971277403492,Arroyo Grande,CA,United States}	{Residence,}
+572	Sun May 01 01:39:02 +0000 2011	4bdce99c3904a593ce41509e	{South County Regional Center}	{35.124506,-120.589116,Arroyo Grande,CA,United States}	{}
+572	Sat Apr 30 18:43:29 +0000 2011	4c4651c6cd5ca593898c0087	{Exploration Station}	{35.12282193246197,-120.6204867267918,Grover Beach,CA,United States}	{Professional & Other Places,}
+572	Sat Apr 30 16:20:32 +0000 2011	4ba564d3f964a520cf0239e3	{Refugio State Beach}	{34.463154204475046,-120.06956745794696,Goleta,CA,United States}	{Outdoors & Recreation,}
+572	Sat Apr 30 16:20:32 +0000 2011	4ba564d3f964a520cf0239e3	{Refugio State Beach}	{34.463154204475046,-120.06956745794696,Goleta,CA,United States}	{Outdoors & Recreation,}
+572	Sat Apr 30 02:04:37 +0000 2011	4b2ea584f964a52035e424e3	{Kahuna Grill}	{34.429390146951754,-119.87209439277649,Goleta,CA,United States}	{Food,}
+572	Sat Apr 30 01:38:21 +0000 2011	4ba564d3f964a520cf0239e3	{Refugio State Beach}	{34.463154204475046,-120.06956745794696,Goleta,CA,United States}	{Outdoors & Recreation,}
+572	Thu Apr 28 20:07:24 +0000 2011	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Wed Apr 27 20:37:49 +0000 2011	4c5b54ea85a1e21e00d35311	{Santa Lucia Bank}	{35.12127314,-120.60697119,Arroyo Grande,CA,United States}	{Professional & Other Places,}
+572	Wed Apr 27 02:48:41 +0000 2011	4c2d550f4e132d7fb75c9cdf	{Oceano Community Center}	{35.103976089925986,-120.61066599424448,Oceano,CA,United States}	{Stadium,Arts & Entertainment,}
+572	Tue Apr 26 20:10:03 +0000 2011	4bcdfc44cc8cd13a7185c3cf	{Ventana Grill}	{35.149665733333336,-120.65436065196991,Pismo Beach,CA,United States}	{Food,}
+572	Tue Apr 26 02:46:46 +0000 2011	4c2d550f4e132d7fb75c9cdf	{Oceano Community Center}	{35.103976089925986,-120.61066599424448,Oceano,CA,United States}	{Stadium,Arts & Entertainment,}
+572	Mon Apr 25 18:23:40 +0000 2011	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Sun Apr 24 17:32:19 +0000 2011	4bb77442ef159c74ee3577f7	{F.McLintocks Saloon & Dining House}	{35.12254536151886,-120.577748,Arroyo Grande,CA,United States}	{Nightlife Spot,Food,}
+572	Fri Apr 22 21:43:48 +0000 2011	4bd0b7a6046076b0f38c7071	{Branch Street Deli}	{35.1241025,-120.57773998333333,Arroyo Grande,CA,United States}	{Food,}
+572	Fri Apr 22 19:02:51 +0000 2011	4d98aaafc19fb60c0293b365	{St. Patrick's Catholic Church}	{35.11430093276273,-120.58344711659048,Arroyo Grande,CA,United States}	{Spiritual Center,Professional & Other Places,}
+572	Fri Apr 22 16:15:34 +0000 2011	4bcdfc44cc8cd13a7185c3cf	{Ventana Grill}	{35.149665733333336,-120.65436065196991,Pismo Beach,CA,United States}	{Food,}
+572	Thu Apr 21 22:08:21 +0000 2011	4bcdfc44cc8cd13a7185c3cf	{Ventana Grill}	{35.149665733333336,-120.65436065196991,Pismo Beach,CA,United States}	{Food,}
+572	Thu Apr 21 01:34:50 +0000 2011	4bedf4aae24d20a1f94e7214	{Foster's}	{35.142789928093705,-120.62574230265699,Pismo Beach,CA,United States}	{Residence,}
+572	Wed Apr 20 23:26:31 +0000 2011	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Wed Apr 20 23:17:34 +0000 2011	4ab47104f964a520317120e3	{Albertsons}	{35.128441364072934,-120.59593346410084,Arroyo Grande,CA,United States}	{Shop & Service,Food & Drink Shop,}
+572	Wed Apr 20 22:25:15 +0000 2011	4cd1cd495b5ca35d209f83f0	{Pismo Coast Association Of Realtors}	{35.11607147099469,-120.61423649195632,Grover Beach,CA,United States}	{Residence,}
+572	Wed Apr 20 16:20:54 +0000 2011	4bcdfc44cc8cd13a7185c3cf	{Ventana Grill}	{35.149665733333336,-120.65436065196991,Pismo Beach,CA,United States}	{Food,}
+572	Wed Apr 20 03:12:10 +0000 2011	4dae4ebcf7b17488f48f72fc	{Casa Conn}	{35.14955499773791,-120.63724706379527,Pismo Beach,CA,United States}	{Residence,}
+572	Wed Apr 20 00:18:12 +0000 2011	4c1b8d5fb4e62d7ffa85d993	{St Patricks Catholic School}	{35.1263007205095,-120.59164036740098,Arroyo Grande,CA,United States}	{College & University,}
+572	Tue Apr 19 19:01:11 +0000 2011	4bcdfc44cc8cd13a7185c3cf	{Ventana Grill}	{35.149665733333336,-120.65436065196991,Pismo Beach,CA,United States}	{Food,}
+572	Tue Apr 19 02:04:01 +0000 2011	4bcdfc44cc8cd13a7185c3cf	{Ventana Grill}	{35.149665733333336,-120.65436065196991,Pismo Beach,CA,United States}	{Food,}
+572	Sun Apr 17 20:51:45 +0000 2011	4a522fe5f964a5205ab11fe3	{Avila Beach}	{35.17897354346379,-120.73405482654644,Avila Beach,CA,United States}	{Outdoors & Recreation,}
+572	Sun Apr 17 17:48:54 +0000 2011	4b9e69dcf964a52090e136e3	{Village Cafe}	{35.123062,-120.579566,Arroyo Grande,CA,United States}	{Food,}
+572	Sat Apr 16 01:15:48 +0000 2011	4acabeedf964a520ffc220e3	{Trader Joe's}	{35.541794839933374,-120.71537017822266,Templeton,CA,United States}	{Shop & Service,Food & Drink Shop,}
+572	Sat Apr 16 00:10:51 +0000 2011	4b6f79a6f964a5200cf22ce3	{Target}	{35.58418795498807,-120.69825582114585,Paso Robles,CA,United States}	{Shop & Service,}
+572	Fri Apr 15 19:52:39 +0000 2011	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Thu Apr 14 19:50:23 +0000 2011	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Thu Apr 14 17:03:58 +0000 2011	4be1907b4ed5c9b6cda6ccce	{Sierra Vista Hospital}	{35.29190132801143,-120.6659622470866,San Luis Obispo,CA,United States}	{Medical Center,Professional & Other Places,}
+572	Thu Apr 14 00:55:04 +0000 2011	4ad7d63cf964a5203d0f21e3	{Trader Joe's}	{35.126030328016924,-120.5939667493937,Arroyo Grande,CA,United States}	{Shop & Service,Food & Drink Shop,}
+572	Wed Apr 13 20:48:29 +0000 2011	4c9d450046978cfa0921967f	{Harloe Elementary School}	{35.11269396932787,-120.59229782751548,Arroyo Grande,CA,United States}	{College & University,}
+572	Wed Apr 13 17:07:52 +0000 2011	4d115ec8437c236a68f28e7d	{Shell Beach Salon & Spa}	{35.158424,-120.674466,Shell Beach,CA,United States}	{Shop & Service,}
+572	Wed Apr 13 00:26:37 +0000 2011	4c1b8d5fb4e62d7ffa85d993	{St Patricks Catholic School}	{35.1263007205095,-120.59164036740098,Arroyo Grande,CA,United States}	{College & University,}
+572	Tue Apr 12 19:17:32 +0000 2011	4bcdfc44cc8cd13a7185c3cf	{Ventana Grill}	{35.149665733333336,-120.65436065196991,Pismo Beach,CA,United States}	{Food,}
+572	Tue Apr 12 19:17:32 +0000 2011	4bcdfc44cc8cd13a7185c3cf	{Ventana Grill}	{35.149665733333336,-120.65436065196991,Pismo Beach,CA,United States}	{Food,}
+572	Tue Apr 12 18:45:20 +0000 2011	4c019e463ab80f478d7490ff	{Chevron}	{35.137010149782455,-120.62798659997277,Pismo Beach,CA,United States}	{Shop & Service,}
+572	Tue Apr 12 00:04:41 +0000 2011	4c12a8b88aedd13a96555137	{5 Cities Swim School}	{35.118909372033855,-120.57535449700607,Arroyo Grande,CA,United States}	{Outdoors & Recreation,}
+572	Mon Apr 11 22:29:21 +0000 2011	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Sun Apr 10 00:08:58 +0000 2011	480b7de8f964a5201d4f1fe3	{Brophy Bros. Restaurant & Clam Bar}	{34.40404979330202,-119.69331744703467,Santa Barbara,CA,United States}	{Food,}
+572	Sat Apr 09 15:29:59 +0000 2011	4c57277e6418a59331ba7e0e	{Pacifica High School}	{34.2176577181034,-119.17080402374268,Oxnard,CA,United States}	{School,Professional & Other Places,}
+572	Fri Apr 08 21:41:04 +0000 2011	4b53bb15f964a52081a927e3	{Costco Wholesale}	{35.252171593777916,-120.69109703532789,San Luis Obispo,CA,United States}	{Shop & Service,}
+572	Fri Apr 08 01:59:15 +0000 2011	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Tue Apr 05 21:07:12 +0000 2011	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Tue Apr 05 20:55:10 +0000 2011	4b901669f964a520c57433e3	{Mail Plus Pismo}	{35.142069615874846,-120.6407157004595,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Tue Apr 05 20:55:10 +0000 2011	4b901669f964a520c57433e3	{Mail Plus Pismo}	{35.142069615874846,-120.6407157004595,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Tue Apr 05 18:59:41 +0000 2011	4bcdfc44cc8cd13a7185c3cf	{Ventana Grill}	{35.149665733333336,-120.65436065196991,Pismo Beach,CA,United States}	{Food,}
+572	Mon Apr 04 23:54:15 +0000 2011	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Mon Apr 04 17:08:00 +0000 2011	4d99fa732bd6f04d48b48a50	{Pacific Pediatric Dentistry}	{35.279753,-120.659827,San Luis Obispo,CA,United States}	{Medical Center,Professional & Other Places,}
+572	Sun Apr 03 20:46:11 +0000 2011	4d98dc64a2c654814eb1fb53	{200 Spruce St, Arroyo Grande}	{35.119274675067295,-120.60272963284841,Arroyo Grande,CA,United States}	{Residence,}
+572	Sat Apr 02 23:40:51 +0000 2011	4bca5722937ca5937dc0a792	{Fin's Restaurant}	{35.122426,-120.633738,Grover Beach,CA,United States}	{Food,}
+572	Fri Apr 01 21:19:04 +0000 2011	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Fri Apr 01 21:12:21 +0000 2011	4d3a0b5f0333a093d99f5034	{Sierra Body Shop}	{35.11988455,-120.62656955,Grover Beach,CA,United States}	{Shop & Service,}
+572	Fri Apr 01 19:28:23 +0000 2011	4c02ae98310fc9b683cec461	{Spyglass Inn Restaurant}	{35.162937,-120.688568,Shell Beach,CA,United States}	{Food,}
+572	Wed Mar 30 20:34:51 +0000 2011	4b4151def964a52051c525e3	{Chapala Mexican Restaurant}	{35.392138,-120.8595111,Morro Bay,CA,United States}	{Food,}
+572	Wed Mar 30 17:26:20 +0000 2011	4d115ec8437c236a68f28e7d	{Shell Beach Salon & Spa}	{35.158424,-120.674466,Shell Beach,CA,United States}	{Shop & Service,}
+572	Wed Mar 30 17:26:20 +0000 2011	4d115ec8437c236a68f28e7d	{Shell Beach Salon & Spa}	{35.158424,-120.674466,Shell Beach,CA,United States}	{Shop & Service,}
+572	Wed Mar 30 00:12:40 +0000 2011	4c524145bfc6ef3b34f9469c	{Dress Barn Outlet - Pismo Beach}	{35.13536994852816,-120.62659901660851,Pismo Beach,CA,United States}	{Shop & Service,Clothing Store,}
+572	Tue Mar 29 23:41:37 +0000 2011	4c6ac32a897b1b8dd299b217	{U.S. Post Office}	{35.13497776371463,-120.60737913688615,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Tue Mar 29 23:08:04 +0000 2011	4b626e7cf964a52061472ae3	{Bighorn Golf Club}	{33.67933799083637,-116.40836637773864,Palm Desert,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+572	Tue Mar 29 19:26:25 +0000 2011	4bcdfc44cc8cd13a7185c3cf	{Ventana Grill}	{35.149665733333336,-120.65436065196991,Pismo Beach,CA,United States}	{Food,}
+572	Mon Mar 28 19:57:56 +0000 2011	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Mon Mar 28 16:08:12 +0000 2011	4c1b8d5fb4e62d7ffa85d993	{St Patricks Catholic School}	{35.1263007205095,-120.59164036740098,Arroyo Grande,CA,United States}	{College & University,}
+572	Mon Mar 28 00:55:56 +0000 2011	4b639324f964a52060842ae3	{Gather Wine Bar}	{35.123598554151435,-120.57828813129315,Arroyo Grande,CA,United States}	{Nightlife Spot,Food,}
+572	Fri Mar 25 23:03:19 +0000 2011	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Fri Mar 25 20:09:41 +0000 2011	4a522f0bf964a52057b11fe3	{Pepe Delgado's Mexican Restaurant}	{35.286829,-120.65340371,San Luis Obispo,CA,United States}	{Food,}
+572	Thu Mar 24 19:43:33 +0000 2011	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Thu Mar 24 16:17:46 +0000 2011	4c1b8d5fb4e62d7ffa85d993	{St Patricks Catholic School}	{35.1263007205095,-120.59164036740098,Arroyo Grande,CA,United States}	{College & University,}
+572	Wed Mar 23 20:42:32 +0000 2011	4c5b54ea85a1e21e00d35311	{Santa Lucia Bank}	{35.12127314,-120.60697119,Arroyo Grande,CA,United States}	{Professional & Other Places,}
+572	Wed Mar 23 18:57:12 +0000 2011	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Wed Mar 23 17:03:08 +0000 2011	4ad7d63cf964a5203d0f21e3	{Trader Joe's}	{35.126030328016924,-120.5939667493937,Arroyo Grande,CA,United States}	{Shop & Service,Food & Drink Shop,}
+572	Wed Mar 23 03:17:33 +0000 2011	4d8966336daeb60cab1e4fe0	{Paulding Middle School}	{35.12651280944628,-120.57143725884514,,,United States}	{Professional & Other Places,}
+572	Tue Mar 22 21:32:34 +0000 2011	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Tue Mar 22 19:00:23 +0000 2011	4bcdfc44cc8cd13a7185c3cf	{Ventana Grill}	{35.149665733333336,-120.65436065196991,Pismo Beach,CA,United States}	{Food,}
+572	Mon Mar 21 20:05:59 +0000 2011	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Sat Mar 19 05:37:01 +0000 2011	4b639324f964a52060842ae3	{Gather Wine Bar}	{35.123598554151435,-120.57828813129315,Arroyo Grande,CA,United States}	{Nightlife Spot,Food,}
+572	Sat Mar 19 02:56:35 +0000 2011	4c8d9ba2ed3ab60cb8047221	{The Clark Center For The Performing Arts}	{35.11630765903494,-120.58162632222702,Arroyo Grande,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+572	Sat Mar 19 02:56:35 +0000 2011	4c8d9ba2ed3ab60cb8047221	{The Clark Center For The Performing Arts}	{35.11630765903494,-120.58162632222702,Arroyo Grande,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+572	Fri Mar 18 22:25:01 +0000 2011	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Thu Mar 17 20:17:23 +0000 2011	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Wed Mar 16 18:54:05 +0000 2011	4ba3b763f964a520b55738e3	{San Luis Obispo Tribune}	{35.248361,-120.672391,San Luis Obispo,CA,United States}	{Professional & Other Places,}
+572	Wed Mar 16 17:50:09 +0000 2011	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Wed Mar 16 16:09:31 +0000 2011	4d115ec8437c236a68f28e7d	{Shell Beach Salon & Spa}	{35.158424,-120.674466,Shell Beach,CA,United States}	{Shop & Service,}
+572	Tue Mar 15 19:54:46 +0000 2011	4bcdfc44cc8cd13a7185c3cf	{Ventana Grill}	{35.149665733333336,-120.65436065196991,Pismo Beach,CA,United States}	{Food,}
+572	Sat Mar 12 02:16:50 +0000 2011	4bccc83a0245eee1a04c25b9	{SeaVenture Resort Pismo Beach}	{35.136604,-120.641034,Pismo Beach,CA,United States}	{Travel & Transport,Hotel,}
+572	Fri Mar 11 23:27:19 +0000 2011	4c156ecea1010f47de134e18	{Chumash Park}	{35.13863926833742,-120.62244741084173,Pismo Beach,CA,United States}	{Outdoors & Recreation,}
+572	Fri Mar 11 23:12:51 +0000 2011	4c732fe0f4d476b0c60d65cf	{Pismo Beach City Hall}	{35.15727460384369,-120.66855366666667,Pismo Beach,CA,United States}	{Government Building,Professional & Other Places,}
+572	Fri Mar 11 19:47:33 +0000 2011	4bd0af5541b9ef3b5f99fae5	{Stacked Sandwiches}	{35.120027,-120.60903668403625,Grover Beach,CA,United States}	{Food,}
+572	Fri Mar 11 03:54:55 +0000 2011	4c4703840f5aa593fe5a7c76	{The Central Roast}	{35.14211733333333,-120.64062966666667,Pismo Beach,CA,United States}	{Food,}
+572	Thu Mar 10 21:32:32 +0000 2011	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Thu Mar 10 17:02:31 +0000 2011	4c1b8d5fb4e62d7ffa85d993	{St Patricks Catholic School}	{35.1263007205095,-120.59164036740098,Arroyo Grande,CA,United States}	{College & University,}
+572	Tue Mar 08 20:22:37 +0000 2011	4b54d1bff964a52008ce27e3	{Custom House}	{35.179028617641926,-120.73389766345916,Avila Beach,CA,United States}	{Nightlife Spot,Food,}
+572	Tue Mar 08 17:14:07 +0000 2011	4adba1e6f964a520912921e3	{Starbucks}	{35.12662166666927,-120.5955183506012,Arroyo Grande,CA,United States}	{Food,}
+572	Tue Mar 08 17:11:51 +0000 2011	4c1b8d5fb4e62d7ffa85d993	{St Patricks Catholic School}	{35.1263007205095,-120.59164036740098,Arroyo Grande,CA,United States}	{College & University,}
+572	Mon Mar 07 20:58:44 +0000 2011	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Mon Mar 07 00:23:04 +0000 2011	4bdf628a0ee3a593e61534b0	{Armstrong Park}	{34.95468659725429,-120.42079934450992,,,United States}	{Outdoors & Recreation,}
+572	Sat Mar 05 00:39:52 +0000 2011	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Sat Mar 05 00:05:26 +0000 2011	4bddfc87ffdec9283140e7a1	{Grand Estate Furniture}	{35.11854889513668,-120.59265184308592,Arroyo Grande,CA,United States}	{Shop & Service,}
+572	Thu Mar 03 21:23:58 +0000 2011	4a0cf435f964a5206f751fe3	{Firestone Grill}	{35.28111529583604,-120.66039562225342,San Luis Obispo,CA,United States}	{Nightlife Spot,Food,}
+572	Thu Mar 03 21:10:39 +0000 2011	4c052e4a39d476b0897732a7	{Elements, Inc.}	{35.263906,-120.644624,San Luis Obispo,CA,United States}	{Professional & Other Places,}
+572	Thu Mar 03 18:38:01 +0000 2011	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Wed Mar 02 23:38:57 +0000 2011	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Tue Mar 01 19:59:59 +0000 2011	4bcdfc44cc8cd13a7185c3cf	{Ventana Grill}	{35.149665733333336,-120.65436065196991,Pismo Beach,CA,United States}	{Food,}
+572	Tue Mar 01 19:59:59 +0000 2011	4bcdfc44cc8cd13a7185c3cf	{Ventana Grill}	{35.149665733333336,-120.65436065196991,Pismo Beach,CA,United States}	{Food,}
+572	Tue Mar 01 17:21:34 +0000 2011	4bafe947f964a520e82a3ce3	{Jamba Juice}	{35.126577792023255,-120.5954647064209,Arroyo Grande,CA,United States}	{Food,}
+572	Tue Mar 01 17:19:44 +0000 2011	4c1b8d5fb4e62d7ffa85d993	{St Patricks Catholic School}	{35.1263007205095,-120.59164036740098,Arroyo Grande,CA,United States}	{College & University,}
+572	Mon Feb 28 01:20:20 +0000 2011	4bedf4aae24d20a1f94e7214	{Foster's}	{35.142789928093705,-120.62574230265699,Pismo Beach,CA,United States}	{Residence,}
+572	Sun Feb 27 16:39:12 +0000 2011	4d67212fcba6a35d889ac9c1	{SoCal/Nevada Rotary President Elect Training Seminar}	{33.946474,-118.384693,Los Angeles,CA,United States}	{Professional & Other Places,}
+572	Sat Feb 26 20:56:00 +0000 2011	4d67212fcba6a35d889ac9c1	{SoCal/Nevada Rotary President Elect Training Seminar}	{33.946474,-118.384693,Los Angeles,CA,United States}	{Professional & Other Places,}
+572	Sat Feb 26 20:56:00 +0000 2011	4d67212fcba6a35d889ac9c1	{SoCal/Nevada Rotary President Elect Training Seminar}	{33.946474,-118.384693,Los Angeles,CA,United States}	{Professional & Other Places,}
+572	Fri Feb 25 20:23:01 +0000 2011	4d67212fcba6a35d889ac9c1	{SoCal/Nevada Rotary President Elect Training Seminar}	{33.946474,-118.384693,Los Angeles,CA,United States}	{Professional & Other Places,}
+572	Fri Feb 25 03:26:37 +0000 2011	4d67212fcba6a35d889ac9c1	{SoCal/Nevada Rotary President Elect Training Seminar}	{33.946474,-118.384693,Los Angeles,CA,United States}	{Professional & Other Places,}
+572	Fri Feb 25 00:59:32 +0000 2011	4b48fad3f964a520876026e3	{Los Angeles Airport Marriott}	{33.946310948091075,-118.38451145146352,Los Angeles,CA,United States}	{Nightlife Spot,Travel & Transport,Hotel,}
+572	Thu Feb 24 20:35:34 +0000 2011	4c5b816c2815c92860caaf67	{CB2}	{34.01400974062912,-118.49325656890869,Santa Monica,CA,United States}	{Shop & Service,}
+572	Thu Feb 24 07:23:25 +0000 2011	4b48fad3f964a520876026e3	{Los Angeles Airport Marriott}	{33.946310948091075,-118.38451145146352,Los Angeles,CA,United States}	{Nightlife Spot,Travel & Transport,Hotel,}
+572	Thu Feb 24 04:41:24 +0000 2011	413f9d00f964a520691c1fe3	{El Cholo Cafe}	{34.02444742311588,-118.49222123622894,Santa Monica,CA,United States}	{Food,}
+572	Thu Feb 24 03:34:10 +0000 2011	4aca4c36f964a52049c120e3	{Whole Foods Market}	{33.69645,-117.825805,Tustin,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+572	Wed Feb 23 17:27:08 +0000 2011	4d5de68a5b276dcb140cf3c5	{Keller Williams Family Reunion}	{33.799655511130425,-117.92016506195068,Anaheim,CA,United States}	{Professional & Other Places,}
+572	Wed Feb 23 04:46:07 +0000 2011	4b4a80b4f964a520708926e3	{Naples Ristorante E Pizzeria}	{33.80885138832211,-117.92212843894958,Anaheim,CA,United States}	{Food,}
+572	Tue Feb 22 20:53:59 +0000 2011	4d5de68a5b276dcb140cf3c5	{Keller Williams Family Reunion}	{33.799655511130425,-117.92016506195068,Anaheim,CA,United States}	{Professional & Other Places,}
+572	Tue Feb 22 17:19:15 +0000 2011	4d5de68a5b276dcb140cf3c5	{Keller Williams Family Reunion}	{33.799655511130425,-117.92016506195068,Anaheim,CA,United States}	{Professional & Other Places,}
+572	Mon Feb 21 22:33:24 +0000 2011	4d5de68a5b276dcb140cf3c5	{Keller Williams Family Reunion}	{33.799655511130425,-117.92016506195068,Anaheim,CA,United States}	{Professional & Other Places,}
+572	Mon Feb 21 21:07:05 +0000 2011	4d5de68a5b276dcb140cf3c5	{Keller Williams Family Reunion}	{33.799655511130425,-117.92016506195068,Anaheim,CA,United States}	{Professional & Other Places,}
+572	Mon Feb 21 17:33:14 +0000 2011	4d5de68a5b276dcb140cf3c5	{Keller Williams Family Reunion}	{33.799655511130425,-117.92016506195068,Anaheim,CA,United States}	{Professional & Other Places,}
+572	Mon Feb 21 16:07:24 +0000 2011	4d5de68a5b276dcb140cf3c5	{Keller Williams Family Reunion}	{33.799655511130425,-117.92016506195068,Anaheim,CA,United States}	{Professional & Other Places,}
+572	Mon Feb 21 15:48:28 +0000 2011	49cec74ef964a520865a1fe3	{Anaheim Marriott}	{33.79888877194206,-117.91853427886963,Anaheim,CA,United States}	{Travel & Transport,}
+572	Mon Feb 21 06:31:43 +0000 2011	4a3ed914f964a5207ea31fe3	{Hilton Anaheim}	{33.80022574641037,-117.9182436519901,Anaheim,CA,United States}	{Travel & Transport,Professional & Other Places,}
+572	Mon Feb 21 02:55:38 +0000 2011	4d5de68a5b276dcb140cf3c5	{Keller Williams Family Reunion}	{33.799655511130425,-117.92016506195068,Anaheim,CA,United States}	{Professional & Other Places,}
+572	Sun Feb 20 21:24:02 +0000 2011	4d618624865a224bf9fab785	{eEdge My Contacts: That Was Easy!}	{33.799566,-117.919649,Anaheim,CA,United States}	{Professional & Other Places,}
+572	Sun Feb 20 20:28:24 +0000 2011	4d5de68a5b276dcb140cf3c5	{Keller Williams Family Reunion}	{33.799655511130425,-117.92016506195068,Anaheim,CA,United States}	{Professional & Other Places,}
+572	Sun Feb 20 17:25:12 +0000 2011	4a3ecf0cf964a52075a31fe3	{Anaheim Convention Center}	{33.8000121316684,-117.92050838470459,Anaheim,CA,United States}	{Convention Center,Professional & Other Places,}
+572	Sun Feb 20 16:23:00 +0000 2011	4b326541f964a5208a0a25e3	{Starbucks}	{33.800333088882105,-117.91943550109863,Anaheim,CA,United States}	{Food,}
+572	Sun Feb 20 04:56:48 +0000 2011	4a18c017f964a520e4791fe3	{P.F. Chang's}	{33.803729812283486,-117.91085243225098,Anaheim,CA,United States}	{Food,}
+572	Sun Feb 20 04:10:24 +0000 2011	4a18c017f964a520e4791fe3	{P.F. Chang's}	{33.803729812283486,-117.91085243225098,Anaheim,CA,United States}	{Food,}
+572	Sat Feb 19 18:51:41 +0000 2011	4b81c1ccf964a5203cbc30e3	{Walmart}	{35.12835715461026,-120.59742252776086,Arroyo Grande,CA,United States}	{Shop & Service,}
+572	Sat Feb 19 06:52:09 +0000 2011	4c8d9ba2ed3ab60cb8047221	{The Clark Center For The Performing Arts}	{35.11630765903494,-120.58162632222702,Arroyo Grande,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+572	Sat Feb 19 06:50:38 +0000 2011	4b639324f964a52060842ae3	{Gather Wine Bar}	{35.123598554151435,-120.57828813129315,Arroyo Grande,CA,United States}	{Nightlife Spot,Food,}
+572	Mon Feb 14 22:31:39 +0000 2011	4abe73e8f964a520b28d20e3	{Wolfgang Puck Bar & Grill}	{36.10189100962376,-115.1716947555542,Las Vegas,NV,United States}	{Nightlife Spot,Food,}
+572	Mon Feb 14 04:55:59 +0000 2011	4a2f1dc9f964a520ac981fe3	{Nobhill Tavern}	{36.10205249516514,-115.16999785713004,Las Vegas,NV,United States}	{Nightlife Spot,Food,}
+572	Sat Feb 12 20:32:27 +0000 2011	4bd0af5541b9ef3b5f99fae5	{Stacked Sandwiches}	{35.120027,-120.60903668403625,Grover Beach,CA,United States}	{Food,}
+572	Fri Feb 11 16:52:05 +0000 2011	4b901669f964a520c57433e3	{Mail Plus Pismo}	{35.142069615874846,-120.6407157004595,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Thu Feb 10 19:55:27 +0000 2011	4c2f926d213c2d7f841c315d	{The Natural Cafe}	{35.278979511844256,-120.664681787945,San Luis Obispo,CA,United States}	{Food,}
+572	Sun Feb 06 19:11:41 +0000 2011	4bf08e2f17880f47a27b2937	{Dinosaur Caves Park}	{35.1541471712717,-120.66582746252871,Pismo Beach,CA,United States}	{Outdoors & Recreation,}
+572	Sat Feb 05 05:34:44 +0000 2011	4b639324f964a52060842ae3	{Gather Wine Bar}	{35.123598554151435,-120.57828813129315,Arroyo Grande,CA,United States}	{Nightlife Spot,Food,}
+572	Wed Feb 02 18:45:00 +0000 2011	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Tue Feb 01 20:36:50 +0000 2011	4bcdfc44cc8cd13a7185c3cf	{Ventana Grill}	{35.149665733333336,-120.65436065196991,Pismo Beach,CA,United States}	{Food,}
+572	Mon Jan 31 16:49:36 +0000 2011	4c1b8d5fb4e62d7ffa85d993	{St Patricks Catholic School}	{35.1263007205095,-120.59164036740098,Arroyo Grande,CA,United States}	{College & University,}
+572	Sat Jan 29 00:31:37 +0000 2011	4bf6f9aab182c9b673de745a	{5 Star Nails}	{35.13555407524109,-120.62541961669922,Pismo Beach,CA,United States}	{Shop & Service,}
+572	Fri Jan 28 02:14:52 +0000 2011	4bdce99c3904a593ce41509e	{South County Regional Center}	{35.124506,-120.589116,Arroyo Grande,CA,United States}	{}
+572	Thu Jan 27 19:44:28 +0000 2011	49fa4a33f964a520e86d1fe3	{Madonna Inn}	{35.266925688950074,-120.67442893981934,San Luis Obispo,CA,United States}	{Travel & Transport,Hotel,}
+572	Wed Jan 26 20:42:13 +0000 2011	4b312a1df964a5208d0125e3	{Alphy's Broiler}	{35.122882,-120.58033103333334,Arroyo Grande,CA,United States}	{Food,}
+572	Wed Jan 26 02:29:37 +0000 2011	4c3d1b98933b0f476710e521	{Harmony House Yoga & Pilates}	{35.14332,-120.641801,Pismo Beach,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+572	Mon Jan 24 21:58:27 +0000 2011	4bd0af5541b9ef3b5f99fae5	{Stacked Sandwiches}	{35.120027,-120.60903668403625,Grover Beach,CA,United States}	{Food,}
+572	Fri Jan 21 17:00:31 +0000 2011	4b666b39f964a520d5202be3	{Marie Callender's Restaurant & Bakery}	{35.14815,-120.64908429,Pismo Beach,CA,United States}	{Food,}
+572	Sat Jan 15 21:13:46 +0000 2011	4cd44e64b2a4370459877644	{Dry Creek Store}	{38.15344587452367,-122.5674851255855,Novato,CA,United States}	{}
+572	Sat Jan 15 18:11:59 +0000 2011	4bc3337ddce4eee1cc7c719d	{Flamingo Conference Resort & Spa}	{38.45154452617719,-122.68864913685614,Santa Rosa,CA,United States}	{Nightlife Spot,Travel & Transport,College & University,Hotel,}
+572	Wed Jan 12 01:25:58 +0000 2011	4c1b8d5fb4e62d7ffa85d993	{St Patricks Catholic School}	{35.1263007205095,-120.59164036740098,Arroyo Grande,CA,United States}	{College & University,}
+572	Tue Jan 11 20:54:08 +0000 2011	4bcdfc44cc8cd13a7185c3cf	{Ventana Grill}	{35.149665733333336,-120.65436065196991,Pismo Beach,CA,United States}	{Food,}
+572	Tue Jan 11 16:57:14 +0000 2011	4adba1e6f964a520912921e3	{Starbucks}	{35.12662166666927,-120.5955183506012,Arroyo Grande,CA,United States}	{Food,}
+572	Tue Jan 11 01:26:28 +0000 2011	4c1b8d5fb4e62d7ffa85d993	{St Patricks Catholic School}	{35.1263007205095,-120.59164036740098,Arroyo Grande,CA,United States}	{College & University,}
+572	Sat Jan 08 01:23:04 +0000 2011	4c1b8d5fb4e62d7ffa85d993	{St Patricks Catholic School}	{35.1263007205095,-120.59164036740098,Arroyo Grande,CA,United States}	{College & University,}
+572	Thu Jan 06 17:08:18 +0000 2011	4c1b8d5fb4e62d7ffa85d993	{St Patricks Catholic School}	{35.1263007205095,-120.59164036740098,Arroyo Grande,CA,United States}	{College & University,}
+572	Thu Jan 06 01:44:47 +0000 2011	4ab47104f964a520317120e3	{Albertsons}	{35.128441364072934,-120.59593346410084,Arroyo Grande,CA,United States}	{Shop & Service,Food & Drink Shop,}
+572	Tue Jan 04 21:18:24 +0000 2011	4bcdfc44cc8cd13a7185c3cf	{Ventana Grill}	{35.149665733333336,-120.65436065196991,Pismo Beach,CA,United States}	{Food,}
+572	Tue Jan 04 01:22:36 +0000 2011	4c1b8d5fb4e62d7ffa85d993	{St Patricks Catholic School}	{35.1263007205095,-120.59164036740098,Arroyo Grande,CA,United States}	{College & University,}
+572	Sat Jan 01 20:51:32 +0000 2011	4b7884c8f964a520c3d32ee3	{Regal Arroyo Grande Stadium 10}	{35.12695545986509,-120.5965628063518,Arroyo Grande,CA,United States}	{Arts & Entertainment,Movie Theater,}
+572	Sat Jan 01 01:05:37 +0000 2011	4b639324f964a52060842ae3	{Gather Wine Bar}	{35.123598554151435,-120.57828813129315,Arroyo Grande,CA,United States}	{Nightlife Spot,Food,}
+572	Fri Dec 31 00:48:44 +0000 2010	4ab47104f964a520317120e3	{Albertsons}	{35.128441364072934,-120.59593346410084,Arroyo Grande,CA,United States}	{Shop & Service,Food & Drink Shop,}
+572	Thu Dec 30 01:44:14 +0000 2010	4b4a22ecf964a520e27b26e3	{Trader Joe's}	{35.245073,-120.673565,San Luis Obispo,CA,United States}	{Shop & Service,Food & Drink Shop,}
+572	Tue Dec 28 20:57:18 +0000 2010	4bef589cc80dc928c0de27e3	{Me And Z}	{35.12214063273068,-120.62793604052308,Grover Beach,CA,United States}	{Food,}
+572	Mon Dec 27 21:19:58 +0000 2010	4b312a1df964a5208d0125e3	{Alphy's Broiler}	{35.122882,-120.58033103333334,Arroyo Grande,CA,United States}	{Food,}
+572	Mon Dec 27 19:31:21 +0000 2010	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Sun Dec 26 23:52:26 +0000 2010	4a0cf435f964a5206f751fe3	{Firestone Grill}	{35.28111529583604,-120.66039562225342,San Luis Obispo,CA,United States}	{Nightlife Spot,Food,}
+572	Fri Dec 24 00:49:05 +0000 2010	4ad7d63cf964a5203d0f21e3	{Trader Joe's}	{35.126030328016924,-120.5939667493937,Arroyo Grande,CA,United States}	{Shop & Service,Food & Drink Shop,}
+572	Thu Dec 23 22:31:11 +0000 2010	4cdb25524006a1432e6fd6b2	{New Frontiers Natural Marketplace}	{35.25109175546443,-120.68740799528301,San Luis Obispo,CA,United States}	{Shop & Service,Food & Drink Shop,}
+572	Sat Dec 18 22:41:17 +0000 2010	4c34d92e225403bbe85567cd	{Chili's Grill & Bar}	{35.12615375,-120.5949068069458,Arroyo Grande,CA,United States}	{Food,}
+572	Sat Dec 18 21:25:48 +0000 2010	4bedf4aae24d20a1f94e7214	{Foster's}	{35.142789928093705,-120.62574230265699,Pismo Beach,CA,United States}	{Residence,}
+572	Sat Dec 18 01:21:28 +0000 2010	4c1b8d5fb4e62d7ffa85d993	{St Patricks Catholic School}	{35.1263007205095,-120.59164036740098,Arroyo Grande,CA,United States}	{College & University,}
+572	Fri Dec 17 21:30:14 +0000 2010	4b6f193ef964a520d1dc2ce3	{BevMo!}	{35.2525896220587,-120.68868260740244,San Luis Obispo,CA,United States}	{Shop & Service,Food & Drink Shop,}
+572	Fri Dec 17 03:14:52 +0000 2010	4ab58e23f964a520577520e3	{Izakaya Raku}	{35.12165833,-120.619554,Grover Beach,CA,United States}	{Food,}
+572	Fri Dec 17 00:58:41 +0000 2010	4bf72fde508c0f478b5e3d31	{Vino Versato}	{35.14206,-120.64062,Pismo,CA,United States}	{Nightlife Spot,}
+572	Wed Dec 15 01:34:59 +0000 2010	4c1b8d5fb4e62d7ffa85d993	{St Patricks Catholic School}	{35.1263007205095,-120.59164036740098,Arroyo Grande,CA,United States}	{College & University,}
+572	Wed Dec 15 00:17:07 +0000 2010	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Tue Dec 14 23:45:31 +0000 2010	4b53bb15f964a52081a927e3	{Costco Wholesale}	{35.252171593777916,-120.69109703532789,San Luis Obispo,CA,United States}	{Shop & Service,}
+572	Tue Dec 14 20:44:24 +0000 2010	4bcdfc44cc8cd13a7185c3cf	{Ventana Grill}	{35.149665733333336,-120.65436065196991,Pismo Beach,CA,United States}	{Food,}
+572	Tue Dec 14 20:44:24 +0000 2010	4bcdfc44cc8cd13a7185c3cf	{Ventana Grill}	{35.149665733333336,-120.65436065196991,Pismo Beach,CA,United States}	{Food,}
+572	Mon Dec 13 02:58:14 +0000 2010	4d058bb137036dcbdf5e17fb	{LeVigne Winery}	{35.674278083161894,-120.65908805019595,Paso Robles,CA,United States}	{Food,}
+572	Wed Dec 08 19:42:52 +0000 2010	4bedf4aae24d20a1f94e7214	{Foster's}	{35.142789928093705,-120.62574230265699,Pismo Beach,CA,United States}	{Residence,}
+572	Mon Dec 06 23:55:20 +0000 2010	4cdb25524006a1432e6fd6b2	{New Frontiers Natural Marketplace}	{35.25109175546443,-120.68740799528301,San Luis Obispo,CA,United States}	{Shop & Service,Food & Drink Shop,}
+572	Mon Dec 06 18:13:43 +0000 2010	4c6ac32a897b1b8dd299b217	{U.S. Post Office}	{35.13497776371463,-120.60737913688615,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Sun Dec 05 03:26:06 +0000 2010	4c028e1939d476b0acc62ea7	{Arroyo Grande High School}	{35.11637803516325,-120.58038996546416,Arroyo Grande,CA,United States}	{Shop & Service,Outdoors & Recreation,Gym / Fitness Center,School,Professional & Other Places,}
+572	Sat Dec 04 03:05:08 +0000 2010	4b4d5f1bf964a5208dd126e3	{Novo Restaurant & Lounge}	{35.279346634611244,-120.66445152855637,San Luis Obispo,CA,United States}	{Food,}
+572	Wed Dec 01 21:29:26 +0000 2010	4b81c1ccf964a5203cbc30e3	{Walmart}	{35.12835715461026,-120.59742252776086,Arroyo Grande,CA,United States}	{Shop & Service,}
+572	Sat Nov 20 03:32:14 +0000 2010	4bafa108f964a5208b113ce3	{Giuseppe's}	{35.28129921886386,-120.6617259979248,San Luis Obispo,CA,United States}	{Food,}
+572	Thu Nov 18 02:43:58 +0000 2010	4c29003e783d9c74266b8f6b	{Social Media Solutions, STRATEGIC}	{35.13375536973006,-120.60512065887451,Arroyo Grande,CA,United States}	{Professional & Other Places,}
+572	Mon Nov 08 17:28:19 +0000 2010	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Fri Oct 29 19:17:22 +0000 2010	4b312a1df964a5208d0125e3	{Alphy's Broiler}	{35.122882,-120.58033103333334,Arroyo Grande,CA,United States}	{Food,}
+572	Thu Oct 28 18:30:39 +0000 2010	4b5148f3f964a520c94927e3	{Sephora}	{35.28107723858592,-120.66137387473425,San Luis Obispo,CA,United States}	{Shop & Service,}
+572	Thu Oct 28 17:58:11 +0000 2010	4b809ef7f964a5209a8130e3	{Inn at Morro Bay}	{35.35307609400749,-120.84454536437988,Morro Bay,CA,United States}	{Travel & Transport,}
+===
+572	Mon Sep 13 03:34:35 +0000 2010	4c8d9ba2ed3ab60cb8047221	{The Clark Center For The Performing Arts}	{35.11630765903494,-120.58162632222702,Arroyo Grande,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+572	Sat Aug 21 21:02:52 +0000 2010	4c7010bad274b60cee6ad80d	{Edwards Barn}	{35.046919,-120.52496,Nipomo,CA,United States}	{}
+572	Wed Aug 18 04:13:27 +0000 2010	4bedf4aae24d20a1f94e7214	{Foster's}	{35.142789928093705,-120.62574230265699,Pismo Beach,CA,United States}	{Residence,}
+572	Mon Aug 09 01:12:33 +0000 2010	480b7de8f964a5201d4f1fe3	{Brophy Bros. Restaurant & Clam Bar}	{34.40404979330202,-119.69331744703467,Santa Barbara,CA,United States}	{Food,}
+572	Mon Aug 09 01:09:16 +0000 2010	480b7de8f964a5201d4f1fe3	{Brophy Bros. Restaurant & Clam Bar}	{34.40404979330202,-119.69331744703467,Santa Barbara,CA,United States}	{Food,}
+572	Sun Aug 08 19:28:25 +0000 2010	4b256cf4f964a520c97124e3	{The Container Store}	{34.14684915269756,-118.15036296844482,Pasadena,CA,United States}	{Shop & Service,}
+572	Wed Aug 04 02:05:58 +0000 2010	4c3d1b98933b0f476710e521	{Harmony House Yoga & Pilates}	{35.14332,-120.641801,Pismo Beach,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+572	Fri Jul 30 01:07:07 +0000 2010	4ab47104f964a520317120e3	{Albertsons}	{35.128441364072934,-120.59593346410084,Arroyo Grande,CA,United States}	{Shop & Service,Food & Drink Shop,}
+572	Mon Jul 26 16:25:37 +0000 2010	4c1b8d5fb4e62d7ffa85d993	{St Patricks Catholic School}	{35.1263007205095,-120.59164036740098,Arroyo Grande,CA,United States}	{College & University,}
+572	Wed Jul 21 15:38:27 +0000 2010	4c1b8d5fb4e62d7ffa85d993	{St Patricks Catholic School}	{35.1263007205095,-120.59164036740098,Arroyo Grande,CA,United States}	{College & University,}
+572	Wed Jul 21 00:31:02 +0000 2010	4c1b8d5fb4e62d7ffa85d993	{St Patricks Catholic School}	{35.1263007205095,-120.59164036740098,Arroyo Grande,CA,United States}	{College & University,}
+572	Mon Jul 19 16:25:16 +0000 2010	4a903fecf964a520cd1620e3	{Starbucks}	{35.136019071068134,-120.62546253204346,Pismo Beach,CA,United States}	{Food,}
+572	Mon Jul 19 16:04:25 +0000 2010	4c1b8d5fb4e62d7ffa85d993	{St Patricks Catholic School}	{35.1263007205095,-120.59164036740098,Arroyo Grande,CA,United States}	{College & University,}
+572	Sun Jul 18 19:45:23 +0000 2010	4c33bfb766e40f47a088c88b	{1581 Blackberry Ave. Beautiful, Clean Listing!}	{35.11607147099469,-120.61423649195632,Arroyo Grande,CA,United States}	{Residence,}
+572	Sat Jul 17 18:30:31 +0000 2010	4b53bb15f964a52081a927e3	{Costco Wholesale}	{35.252171593777916,-120.69109703532789,San Luis Obispo,CA,United States}	{Shop & Service,}
+572	Fri Jul 16 16:43:12 +0000 2010	4adba1e6f964a520912921e3	{Starbucks}	{35.12662166666927,-120.5955183506012,Arroyo Grande,CA,United States}	{Food,}
+572	Fri Jul 16 16:39:13 +0000 2010	4c1b8d5fb4e62d7ffa85d993	{St Patricks Catholic School}	{35.1263007205095,-120.59164036740098,Arroyo Grande,CA,United States}	{College & University,}
+572	Fri Jul 16 01:24:12 +0000 2010	4c276d5c905a0f47d5d36460	{House of Boyers}	{35.12925084527187,-120.60272963284841,Arroyo Grande,CA,United States}	{Residence,}
+572	Thu Jul 15 00:20:51 +0000 2010	4c1b8d5fb4e62d7ffa85d993	{St Patricks Catholic School}	{35.1263007205095,-120.59164036740098,Arroyo Grande,CA,United States}	{College & University,}
+572	Thu Jul 15 00:20:51 +0000 2010	4c1b8d5fb4e62d7ffa85d993	{St Patricks Catholic School}	{35.1263007205095,-120.59164036740098,Arroyo Grande,CA,United States}	{College & University,}
+572	Wed Jul 14 19:59:51 +0000 2010	4bb66da02ea1952144a8ab2f	{Tutta Bella Salon}	{35.129491,-120.608259,Grover Beach,CA,United States}	{}
+572	Wed Jul 14 02:22:10 +0000 2010	4ab47104f964a520317120e3	{Albertsons}	{35.128441364072934,-120.59593346410084,Arroyo Grande,CA,United States}	{Shop & Service,Food & Drink Shop,}
+572	Wed Jul 14 00:30:22 +0000 2010	4c1b8d5fb4e62d7ffa85d993	{St Patricks Catholic School}	{35.1263007205095,-120.59164036740098,Arroyo Grande,CA,United States}	{College & University,}
+572	Tue Jul 13 21:20:43 +0000 2010	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Tue Jul 13 20:47:13 +0000 2010	4bcdfc44cc8cd13a7185c3cf	{Ventana Grill}	{35.149665733333336,-120.65436065196991,Pismo Beach,CA,United States}	{Food,}
+572	Tue Jul 13 05:16:10 +0000 2010	4c276d5c905a0f47d5d36460	{House of Boyers}	{35.12925084527187,-120.60272963284841,Arroyo Grande,CA,United States}	{Residence,}
+572	Tue Jul 13 05:11:45 +0000 2010	4c019e463ab80f478d7490ff	{Chevron}	{35.137010149782455,-120.62798659997277,Pismo Beach,CA,United States}	{Shop & Service,}
+572	Mon Jul 12 20:24:34 +0000 2010	4bedf4aae24d20a1f94e7214	{Foster's}	{35.142789928093705,-120.62574230265699,Pismo Beach,CA,United States}	{Residence,}
+572	Mon Jul 12 19:55:37 +0000 2010	4c1b8d5fb4e62d7ffa85d993	{St Patricks Catholic School}	{35.1263007205095,-120.59164036740098,Arroyo Grande,CA,United States}	{College & University,}
+572	Mon Jul 12 16:57:30 +0000 2010	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Sun Jul 11 21:57:15 +0000 2010	4bf2eed0cad2c928fa3c9a99	{Uliveto}	{34.86317913276816,-120.44753535068723,Orcutt,CA,United States}	{Nightlife Spot,Food,}
+572	Sat Jul 10 23:29:10 +0000 2010	4b54a643f964a520d8c427e3	{Rosa's Italian Restaurant}	{35.14005246953936,-120.63846882121146,Pismo Beach,CA,United States}	{Food,}
+572	Sat Jul 10 22:18:15 +0000 2010	4ea1fd58d5fb57c09df8d28d	{Seacrest Beach Resort}	{35.148512166187594,-120.64957022666931,Pismo Beach,CA,United States}	{Travel & Transport,}
+572	Sat Jul 10 05:11:09 +0000 2010	4c276d5c905a0f47d5d36460	{House of Boyers}	{35.12925084527187,-120.60272963284841,Arroyo Grande,CA,United States}	{Residence,}
+572	Sat Jul 10 05:08:48 +0000 2010	4bd7b9b1dc4b95217ede7788	{ARCO}	{35.13531267642975,-120.621961,Pismo Beach,CA,United States}	{Shop & Service,}
+572	Sat Jul 10 05:08:48 +0000 2010	4bd7b9b1dc4b95217ede7788	{ARCO}	{35.13531267642975,-120.621961,Pismo Beach,CA,United States}	{Shop & Service,}
+572	Sat Jul 10 02:21:48 +0000 2010	4b54a643f964a520d8c427e3	{Rosa's Italian Restaurant}	{35.14005246953936,-120.63846882121146,Pismo Beach,CA,United States}	{Food,}
+572	Fri Jul 09 21:38:20 +0000 2010	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Fri Jul 09 21:38:20 +0000 2010	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Fri Jul 09 05:00:57 +0000 2010	4bedf4aae24d20a1f94e7214	{Foster's}	{35.142789928093705,-120.62574230265699,Pismo Beach,CA,United States}	{Residence,}
+572	Fri Jul 09 03:57:21 +0000 2010	4c369e170a71c9b68e8c3dc9	{Beaudoin Board Mtg}	{35.06995,-120.570417,,,United States}	{Professional & Other Places,}
+572	Fri Jul 09 00:38:33 +0000 2010	4ad7d63cf964a5203d0f21e3	{Trader Joe's}	{35.126030328016924,-120.5939667493937,Arroyo Grande,CA,United States}	{Shop & Service,Food & Drink Shop,}
+572	Fri Jul 09 00:26:37 +0000 2010	4c1b8d5fb4e62d7ffa85d993	{St Patricks Catholic School}	{35.1263007205095,-120.59164036740098,Arroyo Grande,CA,United States}	{College & University,}
+572	Thu Jul 08 19:08:32 +0000 2010	4c0aa1666071a593ffe8df32	{Keller Williams}	{35.137744,-120.625207,Pismo Beach,CA,United States}	{Professional & Other Places,}
+572	Thu Jul 08 04:36:45 +0000 2010	4c276d5c905a0f47d5d36460	{House of Boyers}	{35.12925084527187,-120.60272963284841,Arroyo Grande,CA,United States}	{Residence,}

@@ -1,0 +1,513 @@
+1045	Tue Nov 29 05:59:43 +0000 2011	4a766ca7f964a52003e31fe3	{BJ's Restaurant & Brewhouse}	{33.729622134086554,-117.98857212066649,Huntington Beach,CA,United States}	{Nightlife Spot,Food,}
+===
+1045	Fri Aug 12 00:04:00 +0000 2011	4b468fd8f964a520632426e3	{Cloud 9 Restaurant and Lounge}	{33.722787999999994,-117.955526,Fountain Valley,CA,United States}	{Nightlife Spot,}
+1045	Tue Aug 09 22:24:17 +0000 2011	4b9ed29bf964a5206d0437e3	{Sushi Asahi}	{33.90974489422525,-117.43582248687744,Riverside,CA,United States}	{Food,}
+1045	Tue Aug 09 00:04:38 +0000 2011	4ceababe94daa0901c9a1f29	{Starbucks}	{34.25058322800076,-116.88416719436646,Big Bear Lake,CA,United States}	{Food,}
+1045	Mon Aug 08 01:50:44 +0000 2011	4b5e95f2f964a5203b9329e3	{Captains Anchorage}	{34.245380075234856,-116.88251927003847,Big Bear Lake,CA,United States}	{Food,}
+1045	Mon Aug 08 01:46:19 +0000 2011	4bc3d5b7dce4eee13bc5719d	{Alpenhorn Bed and Breakfast}	{34.241793,-116.903829,Big Bear Lake,CA,United States}	{}
+1045	Sun Aug 07 08:21:16 +0000 2011	4b077593f964a520cafd22e3	{Ph? Thang Long}	{33.74434275561615,-117.96166822625115,Westminster,CA,United States}	{Food,}
+1045	Sat Aug 06 22:29:32 +0000 2011	4b0871c8f964a520040c23e3	{Seafood Cove}	{33.74519104330822,-117.96796202659607,Westminster,CA,United States}	{Food,}
+1045	Sat Aug 06 02:07:34 +0000 2011	4b468fd8f964a520632426e3	{Cloud 9 Restaurant and Lounge}	{33.722787999999994,-117.955526,Fountain Valley,CA,United States}	{Nightlife Spot,}
+1045	Fri Aug 05 21:45:14 +0000 2011	4b6ce0e7f964a520255b2ce3	{PETCO}	{33.759604,-118.008374,Westminster,CA,United States}	{Shop & Service,}
+1045	Thu Aug 04 22:24:57 +0000 2011	45db8eb5f964a520fd421fe3	{Disney California Adventure Park}	{33.80798489664312,-117.91896778777333,Anaheim,CA,United States}	{Arts & Entertainment,}
+1045	Thu Aug 04 16:09:57 +0000 2011	4d91fdccdfe32c0f386c2920	{Abc Bartending School}	{33.80269300327756,-118.0452727020807,Los Alamitos,CA,United States}	{College & University,}
+1045	Wed Aug 03 20:22:55 +0000 2011	4d54bff1e7f1a1cd14d6f2a4	{Coco Ichibanya}	{33.82196643142255,-118.32711172966964,Torrance,CA,United States}	{Food,}
+1045	Wed Aug 03 17:17:14 +0000 2011	4d91fdccdfe32c0f386c2920	{Abc Bartending School}	{33.80269300327756,-118.0452727020807,Los Alamitos,CA,United States}	{College & University,}
+1045	Wed Aug 03 01:56:03 +0000 2011	4a79ea71f964a520fde71fe3	{Agora Churrascaria}	{33.685374,-117.856173,Irvine,CA,United States}	{Food,}
+1045	Mon Aug 01 22:06:52 +0000 2011	4b78b322f964a52069de2ee3	{NuVision Federal Credit Union}	{33.72982388333333,-117.992575,North Coast,CA,United States}	{Shop & Service,}
+1045	Mon Aug 01 21:40:51 +0000 2011	4bc4d0b92a89ef3bd5def688	{Commonwealth Audi}	{33.72945542137333,-117.83793416820811,Santa Ana,CA,United States}	{Shop & Service,}
+1045	Mon Aug 01 20:38:11 +0000 2011	4c4e3936fa9d9521b9c53c0a	{Gatten Revolving Sushi Bar}	{33.85762248285557,-118.09285640716553,Cerritos,CA,United States}	{Food,}
+1045	Mon Aug 01 17:04:57 +0000 2011	4d91fdccdfe32c0f386c2920	{Abc Bartending School}	{33.80269300327756,-118.0452727020807,Los Alamitos,CA,United States}	{College & University,}
+1045	Mon Aug 01 03:42:06 +0000 2011	4e1cb53f52b1c2b69f37aaae	{OC Fair 2011}	{33.66667534125443,-117.90162563323975,Costa Mesa,CA,United States}	{Professional & Other Places,}
+1045	Sat Jul 30 07:27:32 +0000 2011	4bf6b17e9abec9b60c3b26e8	{McDonald's}	{33.759276539546484,-117.95720097403425,Garden Grove,CA,United States}	{Food,}
+1045	Thu Jul 28 17:06:25 +0000 2011	4d91fdccdfe32c0f386c2920	{Abc Bartending School}	{33.80269300327756,-118.0452727020807,Los Alamitos,CA,United States}	{College & University,}
+1045	Thu Jul 28 04:02:23 +0000 2011	4e1cb53f52b1c2b69f37aaae	{OC Fair 2011}	{33.66667534125443,-117.90162563323975,Costa Mesa,CA,United States}	{Professional & Other Places,}
+1045	Wed Jul 27 20:01:57 +0000 2011	4aba9f5af964a520258220e3	{Curry House}	{33.80397051984991,-118.01471829414368,Cypress,CA,United States}	{Food,}
+1045	Wed Jul 27 17:05:34 +0000 2011	4d91fdccdfe32c0f386c2920	{Abc Bartending School}	{33.80269300327756,-118.0452727020807,Los Alamitos,CA,United States}	{College & University,}
+1045	Wed Jul 27 02:52:51 +0000 2011	4b932683f964a520eb3734e3	{Tasty Garden}	{33.74534470954955,-117.96447664656763,Westminster,CA,United States}	{Food,}
+1045	Mon Jul 25 20:23:59 +0000 2011	4a8077def964a5205ef51fe3	{Chipotle Mexican Grill}	{33.726841798851495,-117.98960175108559,Huntington Beach,CA,United States}	{Food,}
+1045	Mon Jul 25 16:12:29 +0000 2011	4d91fdccdfe32c0f386c2920	{Abc Bartending School}	{33.80269300327756,-118.0452727020807,Los Alamitos,CA,United States}	{College & University,}
+1045	Mon Jul 25 08:11:34 +0000 2011	4a9c6330f964a520033720e3	{T.G.I. Friday's}	{33.68963858945396,-117.8816270828247,Costa Mesa,CA,United States}	{Nightlife Spot,Food,}
+1045	Mon Jul 25 05:21:31 +0000 2011	4b0f5e21f964a520d06123e3	{Noodle World}	{34.077965002597566,-118.13092339278059,Alhambra,CA,United States}	{Food,}
+1045	Mon Jul 25 01:51:21 +0000 2011	4bbd34668ec3d13a7bdd1b28	{Chevron}	{33.76404183887957,-117.97263282708077,Garden Grove,CA,United States}	{Shop & Service,}
+1045	Sat Jul 23 13:24:51 +0000 2011	47f6995af964a520b04e1fe3	{Downtown Disney District}	{33.80917676965434,-117.92439222335815,Anaheim,CA,United States}	{Shop & Service,Outdoors & Recreation,}
+1045	Sat Jul 23 13:05:24 +0000 2011	4b880521f964a5206fd931e3	{Starbucks}	{33.767291225367785,-117.97290164296535,Garden Grove,CA,United States}	{Food,}
+1045	Tue Jul 19 20:13:13 +0000 2011	4b22fca8f964a520a35124e3	{California Shabu-Shabu}	{33.688362749999996,-117.952974,Fountain Valley,CA,United States}	{Food,}
+1045	Tue Jul 19 00:04:53 +0000 2011	4a7a6cd1f964a52054e91fe3	{Baby Blues BBQ}	{34.0002931861891,-118.46537634730339,Venice,CA,United States}	{Food,}
+1045	Sat Jul 16 22:15:45 +0000 2011	4bbd0e36f57ba593a8a1adb9	{Magnolia Animal Hospital}	{33.724005883333334,-117.97226,North Coast,CA,United States}	{Professional & Other Places,}
+1045	Sat Jul 16 08:02:31 +0000 2011	4b69199ff964a52021992be3	{Volcano Tea House}	{33.7603685300756,-117.95435239908267,Garden Grove,CA,United States}	{Nightlife Spot,Food,}
+1045	Fri Jul 15 22:04:07 +0000 2011	4a95ff27f964a520c82520e3	{Alondra Hot Wings}	{34.092622,-118.13257743406557,Alhambra,CA,United States}	{Nightlife Spot,Food,}
+1045	Fri Jul 15 00:58:41 +0000 2011	4ba2dac4f964a5205a1e38e3	{Thai Pepper}	{33.70073499678033,-117.99035093162018,Huntington Beach,CA,United States}	{Food,}
+1045	Thu Jul 14 02:59:01 +0000 2011	4c36962e2c8020a1e4b08700	{Cham Sut Gol Korean BBQ}	{33.77336534348835,-117.96950423800753,Garden Grove,CA,United States}	{Food,}
+1045	Wed Jul 13 22:40:11 +0000 2011	4a877116f964a5205f0420e3	{Corner Bakery Cafe}	{33.78267865491195,-117.8922700881958,Orange,CA,United States}	{Food,}
+1045	Wed Jul 13 00:35:30 +0000 2011	4c4caddd13d120a16f4ab900	{Ha Noi Avenue}	{33.75908952,-117.98237017,Westminster,CA,United States}	{Food,}
+1045	Tue Jul 12 22:18:44 +0000 2011	4b6a348df964a520fccc2be3	{Jamba Juice}	{33.72641214401005,-117.98889831916738,Westminster,CA,United States}	{Food,}
+1045	Tue Jul 12 08:14:31 +0000 2011	4ae88b7bf964a5204db021e3	{Walmart Supercenter}	{33.73712877037692,-117.91613250765471,Santa Ana,CA,United States}	{Shop & Service,Professional & Other Places,}
+1045	Tue Jul 12 02:38:17 +0000 2011	4b0463b0f964a520c45322e3	{Alertos Mexican Food}	{33.735053,-117.955094,Westminster,CA,United States}	{Food,}
+1045	Tue Jul 12 02:38:16 +0000 2011	4b0463b0f964a520c45322e3	{Alertos Mexican Food}	{33.735053,-117.955094,Westminster,CA,United States}	{Food,}
+1045	Mon Jul 11 22:21:32 +0000 2011	4ba51514f964a5207eda38e3	{Fountain Valley Hand Car Wash}	{33.71618149534966,-117.9709341301189,Fountain Valley,CA,United States}	{Shop & Service,Outdoors & Recreation,}
+1045	Mon Jul 11 22:07:42 +0000 2011	4b65fb76f964a520760c2be3	{Target}	{33.725398460118505,-117.98658784032675,Westminster,CA,United States}	{Shop & Service,}
+1045	Mon Jul 11 21:46:42 +0000 2011	4b78b322f964a52069de2ee3	{NuVision Federal Credit Union}	{33.72982388333333,-117.992575,North Coast,CA,United States}	{Shop & Service,}
+1045	Mon Jul 11 03:27:17 +0000 2011	49d17a2df964a520865b1fe3	{Milk}	{34.076057149905374,-118.34852049219526,Los Angeles,CA,United States}	{Food,}
+1045	Mon Jul 11 00:51:14 +0000 2011	4b19f4b7f964a52087e623e3	{Hot Pot City - Westminster}	{33.736458,-117.95385952,Westminster,CA,United States}	{Food,}
+1045	Sun Jul 10 07:00:48 +0000 2011	4a792d7cf964a520ffe61fe3	{Guppy Teahouse}	{33.68886491948083,-117.83371570942431,Irvine,CA,United States}	{Food,}
+1045	Fri Jul 08 17:20:23 +0000 2011	4b880521f964a5206fd931e3	{Starbucks}	{33.767291225367785,-117.97290164296535,Garden Grove,CA,United States}	{Food,}
+1045	Thu Jul 07 21:28:47 +0000 2011	4b5a5e26f964a52073c028e3	{Tastea}	{33.760097075210616,-117.9512357711792,Garden Grove,CA,United States}	{Food,}
+1045	Thu Jul 07 21:28:15 +0000 2011	4b5fc277f964a520c7cb29e3	{Pho Lu}	{33.75978602994508,-117.95184126835171,Garden Grove,CA,United States}	{Food,}
+1045	Thu Jul 07 08:22:11 +0000 2011	4b0463b0f964a520c45322e3	{Alertos Mexican Food}	{33.735053,-117.955094,Westminster,CA,United States}	{Food,}
+1045	Thu Jul 07 02:19:36 +0000 2011	4ac3fb3bf964a520bc9d20e3	{Costco Wholesale}	{33.70350999010908,-117.93120503425598,Fountain Valley,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1045	Thu Jul 07 00:08:40 +0000 2011	4a67f326f964a52047ca1fe3	{Mochilato}	{33.705991252915965,-117.78404831886292,Irvine,CA,United States}	{Food,}
+1045	Wed Jul 06 21:44:15 +0000 2011	4c4caddd13d120a16f4ab900	{Ha Noi Avenue}	{33.75908952,-117.98237017,Westminster,CA,United States}	{Food,}
+1045	Wed Jul 06 03:08:11 +0000 2011	4bcb9bcd68f976b0547f6183	{OSH}	{33.71327919708601,-117.95402063439717,Fountain Valley,CA,United States}	{Shop & Service,}
+1045	Tue Jul 05 23:28:25 +0000 2011	4b68ac9cf964a5206d862be3	{Lowe's Home Improvement}	{33.71652243389354,-117.98566460609436,Huntington Beach,CA,United States}	{Shop & Service,}
+1045	Tue Jul 05 21:33:39 +0000 2011	4b932683f964a520eb3734e3	{Tasty Garden}	{33.74534470954955,-117.96447664656763,Westminster,CA,United States}	{Food,}
+1045	Tue Jul 05 08:40:12 +0000 2011	4abea135f964a520f58e20e3	{Walmart}	{33.76800585653717,-117.99221529088146,Westminster,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1045	Tue Jul 05 06:30:37 +0000 2011	49f6dbe4f964a5205f6c1fe3	{Harbor House Cafe}	{33.72418796432741,-118.07756245136261,Sunset Beach,CA,United States}	{Food,}
+1045	Sat Jul 02 00:49:55 +0000 2011	4b468fd8f964a520632426e3	{Cloud 9 Restaurant and Lounge}	{33.722787999999994,-117.955526,Fountain Valley,CA,United States}	{Nightlife Spot,}
+1045	Fri Jul 01 22:38:21 +0000 2011	4b79646bf964a5203bf72ee3	{Starbucks}	{33.72637258333334,-117.988838,Westminster,CA,United States}	{Food,}
+1045	Fri Jul 01 22:34:51 +0000 2011	4ae2033ff964a520ca8921e3	{Popeyes Chicken}	{33.725897,-117.988965,Westminster,CA,United States}	{Food,}
+1045	Fri Jul 01 22:23:57 +0000 2011	4fb5337d7beb65c72e11d818	{Chase Bank}	{33.72987344734056,-117.99182640773778,Huntington Beach,CA,United States}	{Shop & Service,Professional & Other Places,}
+1045	Fri Jul 01 22:12:23 +0000 2011	4b78b322f964a52069de2ee3	{NuVision Federal Credit Union}	{33.72982388333333,-117.992575,North Coast,CA,United States}	{Shop & Service,}
+1045	Fri Jul 01 05:11:58 +0000 2011	4b932683f964a520eb3734e3	{Tasty Garden}	{33.74534470954955,-117.96447664656763,Westminster,CA,United States}	{Food,}
+1045	Thu Jun 30 22:26:07 +0000 2011	4ddabc37e4cd37c893f9e301	{U.s Post Office}	{33.74534304,-117.96658268,Westminster,CA,United States}	{Professional & Other Places,}
+1045	Wed Jun 29 23:40:39 +0000 2011	4b5fc277f964a520c7cb29e3	{Pho Lu}	{33.75978602994508,-117.95184126835171,Garden Grove,CA,United States}	{Food,}
+1045	Tue Jun 28 05:56:21 +0000 2011	4a640409f964a52018c61fe3	{Earl of Sandwich}	{36.10849,-115.172799,Las Vegas,NV,United States}	{Food,}
+1045	Mon Jun 27 00:16:19 +0000 2011	49de8c07f964a5207b601fe3	{TAO Beach}	{36.122571524429425,-115.17005860805511,Las Vegas,NV,United States}	{Travel & Transport,Nightlife Spot,Hotel,}
+1045	Sun Jun 26 02:10:19 +0000 2011	4a751a2af964a52081e01fe3	{Carnival World Buffet}	{36.11755079367846,-115.18912148229008,Las Vegas,NV,United States}	{Food,}
+1045	Fri Jun 24 21:29:57 +0000 2011	4b4173e0f964a520c2c625e3	{Joe's Seafood Prime Steak & Stone Crab}	{36.118914260633275,-115.17356157302856,Las Vegas,NV,United States}	{Food,}
+1045	Fri Jun 24 19:47:40 +0000 2011	49dea3bbf964a52097601fe3	{Stratosphere Casino, Hotel & Tower}	{36.14723193962685,-115.15624523162842,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,}
+1045	Fri Jun 24 02:47:42 +0000 2011	47f6995af964a520b04e1fe3	{Downtown Disney District}	{33.80917676965434,-117.92439222335815,Anaheim,CA,United States}	{Shop & Service,Outdoors & Recreation,}
+1045	Fri Jun 24 01:18:36 +0000 2011	4b2fa498f964a5205eed24e3	{Starbucks Coffee}	{33.70393098883456,-117.93398777455191,Fountain Valley,CA,United States}	{Food,}
+1045	Thu Jun 23 23:56:04 +0000 2011	4b46b5e3f964a520342726e3	{Atrium Hotel}	{33.67563755429038,-117.86022112185593,Irvine,CA,United States}	{Travel & Transport,}
+1045	Thu Jun 23 20:51:50 +0000 2011	4b761b13f964a5200a3d2ee3	{Chuck E. Cheese's}	{33.73681962490082,-118.016574,Huntington Beach,CA,United States}	{Food,Arts & Entertainment,}
+1045	Wed Jun 22 04:47:03 +0000 2011	4da7a7bb81541df437ac517f	{Inchenwon}	{33.7692,-117.95551,Garden Grove,CA,United States}	{Food,}
+1045	Tue Jun 21 20:39:26 +0000 2011	4cd091467561236a13082df3	{Bruxie}	{33.79137202386545,-117.85321041941643,Orange,CA,United States}	{Food,}
+1045	Mon Jun 20 23:54:26 +0000 2011	4b005a84f964a520393d22e3	{Sam's Club}	{33.71409502,-117.9558706,Fountain Valley,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1045	Mon Jun 20 23:18:47 +0000 2011	4ba51514f964a5207eda38e3	{Fountain Valley Hand Car Wash}	{33.71618149534966,-117.9709341301189,Fountain Valley,CA,United States}	{Shop & Service,Outdoors & Recreation,}
+1045	Mon Jun 20 23:12:17 +0000 2011	4a9bf792f964a520983520e3	{Starbucks}	{33.716211,-117.97166,Fountain Valley,CA,United States}	{Food,}
+1045	Mon Jun 20 21:08:16 +0000 2011	4c4caddd13d120a16f4ab900	{Ha Noi Avenue}	{33.75908952,-117.98237017,Westminster,CA,United States}	{Food,}
+1045	Mon Jun 20 07:19:06 +0000 2011	4bf6b17e9abec9b60c3b26e8	{McDonald's}	{33.759276539546484,-117.95720097403425,Garden Grove,CA,United States}	{Food,}
+1045	Sun Jun 19 22:37:06 +0000 2011	4c0c4034bbc676b046dc4cd5	{The Boiling Crab TO GO}	{33.76064321778788,-117.95369458919409,Garden Grove,CA,United States}	{Food,}
+1045	Sun Jun 19 19:29:14 +0000 2011	4b60e2a4f964a520baff29e3	{Petco}	{33.638123,-117.86264,Newport,CA,United States}	{Shop & Service,}
+1045	Sun Jun 19 02:33:15 +0000 2011	4b468fd8f964a520632426e3	{Cloud 9 Restaurant and Lounge}	{33.722787999999994,-117.955526,Fountain Valley,CA,United States}	{Nightlife Spot,}
+1045	Sun Jun 19 01:15:43 +0000 2011	4a57970bf964a5206bb61fe3	{Mitsuwa Marketplace}	{33.681693213816956,-117.88426637649536,Costa Mesa,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1045	Sat Jun 18 03:43:35 +0000 2011	4b468fd8f964a520632426e3	{Cloud 9 Restaurant and Lounge}	{33.722787999999994,-117.955526,Fountain Valley,CA,United States}	{Nightlife Spot,}
+1045	Sat Jun 18 00:25:07 +0000 2011	45db8eb5f964a520fd421fe3	{Disney California Adventure Park}	{33.80798489664312,-117.91896778777333,Anaheim,CA,United States}	{Arts & Entertainment,}
+1045	Fri Jun 17 02:48:17 +0000 2011	4b98adbdf964a5202c4b35e3	{Basilico's Pasta E Vino}	{33.683743,-117.971719,Huntington Beach,CA,United States}	{Food,}
+1045	Fri Jun 17 02:48:17 +0000 2011	4b98adbdf964a5202c4b35e3	{Basilico's Pasta E Vino}	{33.683743,-117.971719,Huntington Beach,CA,United States}	{Food,}
+1045	Thu Jun 16 23:36:51 +0000 2011	4b9069b0f964a520048933e3	{CVS/Pharmacy}	{33.71411891666666,-117.97107796,Fountain Valley,CA,United States}	{Shop & Service,}
+1045	Thu Jun 16 21:30:10 +0000 2011	4dd19854b0fb0becaf85cc19	{Warner Middle School}	{33.756182029422824,-117.9804969543769,Westminster,CA,United States}	{Professional & Other Places,}
+1045	Thu Jun 16 19:54:16 +0000 2011	4b8eb88ff964a520183333e3	{Party City}	{33.72819447092247,-117.98852920532227,Huntington,CA,United States}	{Shop & Service,}
+1045	Thu Jun 16 19:37:09 +0000 2011	4b6a348df964a520fccc2be3	{Jamba Juice}	{33.72641214401005,-117.98889831916738,Westminster,CA,United States}	{Food,}
+1045	Thu Jun 16 00:24:32 +0000 2011	4c64ea0cd02b20a171459c90	{Quan Gio Bar & Grill}	{33.75606,-117.93840408325195,Garden Grove,CA,United States}	{Nightlife Spot,}
+1045	Tue Jun 14 21:57:04 +0000 2011	4af49a91f964a52042f421e3	{Souplantation}	{33.702259,-117.9336,Fountain Valley,CA,United States}	{Food,}
+1045	Mon Jun 13 22:10:13 +0000 2011	4ca638a4f47ea143577d5e21	{Whole Foods Market}	{33.7309783920932,-117.99054622650146,Huntington Beach,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1045	Mon Jun 13 05:00:57 +0000 2011	4b65044df964a520a6df2ae3	{Red Lobster}	{34.13985120928487,-118.018988995123,Monrovia,CA,United States}	{Food,}
+1045	Mon Jun 13 03:23:25 +0000 2011	4aa55181f964a520004820e3	{Syrup Desserts}	{34.045723,-118.251083,Los Angeles,CA,United States}	{Food,}
+1045	Mon Jun 13 01:34:12 +0000 2011	46ddce98f964a520934a1fe3	{Orochon Ramen}	{34.04985042226358,-118.24241638183594,Los Angeles,CA,United States}	{Food,}
+1045	Sat Jun 11 00:58:16 +0000 2011	45db8eb5f964a520fd421fe3	{Disney California Adventure Park}	{33.80798489664312,-117.91896778777333,Anaheim,CA,United States}	{Arts & Entertainment,}
+1045	Fri Jun 10 23:56:59 +0000 2011	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+1045	Fri Jun 10 22:09:37 +0000 2011	4aaaa6e1f964a520cd5620e3	{Quan Hy Restaurant}	{33.74531686306,-117.96024334,Westminster,CA,United States}	{Food,}
+1045	Thu Jun 09 02:13:57 +0000 2011	4b98adbdf964a5202c4b35e3	{Basilico's Pasta E Vino}	{33.683743,-117.971719,Huntington Beach,CA,United States}	{Food,}
+1045	Wed Jun 08 06:15:33 +0000 2011	4abea135f964a520f58e20e3	{Walmart}	{33.76800585653717,-117.99221529088146,Westminster,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1045	Wed Jun 08 01:27:35 +0000 2011	4c0c4034bbc676b046dc4cd5	{The Boiling Crab TO GO}	{33.76064321778788,-117.95369458919409,Garden Grove,CA,United States}	{Food,}
+1045	Tue Jun 07 23:23:45 +0000 2011	4b8708c6f964a520a9ac31e3	{Juice It Up!}	{33.70009744316641,-117.95385427772999,Fountain Valley,CA,United States}	{Food,}
+1045	Tue Jun 07 21:18:32 +0000 2011	4bb2ad8342959c746435212c	{Fuji's Famous Burgers}	{33.73087307,-118.000762,Huntington Beach,CA,United States}	{Food,}
+1045	Tue Jun 07 05:01:52 +0000 2011	4b932683f964a520eb3734e3	{Tasty Garden}	{33.74534470954955,-117.96447664656763,Westminster,CA,United States}	{Food,}
+1045	Mon Jun 06 01:33:32 +0000 2011	4a85f33bf964a520c7ff1fe3	{IKEA}	{33.69040630593994,-117.91617393493652,Costa Mesa,CA,United States}	{Shop & Service,}
+1045	Mon Jun 06 00:45:09 +0000 2011	4a9bf792f964a520983520e3	{Starbucks}	{33.716211,-117.97166,Fountain Valley,CA,United States}	{Food,}
+1045	Sun Jun 05 08:34:10 +0000 2011	4b5e9d64f964a520009429e3	{Denny's}	{33.72747656426945,-117.95505596698685,Fountain Valley,CA,United States}	{Food,}
+1045	Sun Jun 05 00:31:13 +0000 2011	4bd5ca2f7b1876b09a5a8b86	{H Mart}	{33.774652726462676,-117.97655063560194,Garden Grove,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1045	Sat Jun 04 01:39:05 +0000 2011	4ac3fb3bf964a520bc9d20e3	{Costco Wholesale}	{33.70350999010908,-117.93120503425598,Fountain Valley,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1045	Fri Jun 03 20:19:49 +0000 2011	4be1a13b4ed5c9b605e8ccce	{Huntington Beach Car Wash}	{33.68692123824375,-117.98927005182777,Huntington Beach,CA,United States}	{Shop & Service,}
+1045	Thu Jun 02 22:09:34 +0000 2011	4a83abc4f964a52097fb1fe3	{Veggie Grill}	{33.65024374953304,-117.83781051635742,Irvine,CA,United States}	{Food,}
+1045	Thu Jun 02 08:07:11 +0000 2011	4b5e9d64f964a520009429e3	{Denny's}	{33.72747656426945,-117.95505596698685,Fountain Valley,CA,United States}	{Food,}
+1045	Wed Jun 01 22:46:27 +0000 2011	4af49a91f964a52042f421e3	{Souplantation}	{33.702259,-117.9336,Fountain Valley,CA,United States}	{Food,}
+1045	Wed Jun 01 04:59:41 +0000 2011	4a67f326f964a52047ca1fe3	{Mochilato}	{33.705991252915965,-117.78404831886292,Irvine,CA,United States}	{Food,}
+1045	Wed Jun 01 01:38:11 +0000 2011	4c2dc2eb260bc928f6761ad3	{Buffalo Wild Wings}	{33.70867102548955,-117.78294056653976,Irvine,CA,United States}	{Food,}
+1045	Tue May 31 08:15:34 +0000 2011	4d3ff05590f9224b1e8d011e	{David Chau's Tempurpedic Bed}	{33.748108,-117.95710933,Westminster,CA,United States}	{Nightlife Spot,}
+1045	Mon May 30 23:41:42 +0000 2011	4b404017f964a52024b725e3	{Cafe Lu}	{33.7391739008158,-117.92104130922901,Santa Ana,CA,United States}	{Food,}
+1045	Mon May 30 20:32:54 +0000 2011	4b82e955f964a520a7ec30e3	{Stater Bros. #041}	{33.750955901359625,-117.9541807967358,Westminster,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1045	Mon May 30 05:17:43 +0000 2011	4ae88b7bf964a5204db021e3	{Walmart Supercenter}	{33.73712877037692,-117.91613250765471,Santa Ana,CA,United States}	{Shop & Service,Professional & Other Places,}
+1045	Mon May 30 04:00:50 +0000 2011	4b19f4b7f964a52087e623e3	{Hot Pot City - Westminster}	{33.736458,-117.95385952,Westminster,CA,United States}	{Food,}
+1045	Sun May 29 08:17:37 +0000 2011	4b3523d4f964a520b72a25e3	{Mae's Cafe}	{33.76630492720698,-117.97140598297119,Garden Grove,CA,United States}	{Food,}
+1045	Fri May 27 21:44:06 +0000 2011	4b932683f964a520eb3734e3	{Tasty Garden}	{33.74534470954955,-117.96447664656763,Westminster,CA,United States}	{Food,}
+1045	Fri May 27 05:50:20 +0000 2011	4ad262b2f964a5204ce120e3	{Dave & Buster's}	{33.78495253624139,-117.89393305778503,Orange,CA,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+1045	Thu May 26 09:31:45 +0000 2011	4b63cef5f964a5208f922ae3	{BCD Tofu House}	{33.688606625498664,-117.83353254482756,Irvine,CA,United States}	{Food,}
+1045	Thu May 26 05:50:27 +0000 2011	4a80e20df964a52066f61fe3	{Edwards Irvine Spectrum 21 IMAX & RPX}	{33.65195403158847,-117.74535477161407,Irvine,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1045	Thu May 26 02:21:51 +0000 2011	4a633314f964a52097c41fe3	{85?C Bakery Cafe}	{33.688009400937624,-117.83405005931854,Irvine,CA,United States}	{Food,}
+1045	Thu May 26 01:42:23 +0000 2011	4ab19cd4f964a520386a20e3	{Kula Sushi Bar}	{33.688495318564335,-117.83359550767842,Irvine,CA,United States}	{Food,}
+1045	Wed May 25 02:58:33 +0000 2011	4b380f8cf964a520064b25e3	{Thai Nakorn}	{33.77409,-117.914164,Garden Grove,CA,United States}	{Food,}
+1045	Tue May 24 21:03:50 +0000 2011	4b78b322f964a52069de2ee3	{NuVision Federal Credit Union}	{33.72982388333333,-117.992575,North Coast,CA,United States}	{Shop & Service,}
+1045	Tue May 24 20:52:38 +0000 2011	4babf082f964a52055d73ae3	{Westminster Main Post Office}	{33.74444043476537,-118.0021887095391,Westminster,CA,United States}	{Professional & Other Places,}
+1045	Sun May 22 08:51:59 +0000 2011	4b731bbbf964a520f09b2de3	{IHOP}	{33.68974849,-117.9882806,Huntington Beach,CA,United States}	{Food,}
+1045	Sun May 22 08:10:08 +0000 2011	4d32a1a6f8c9224be150b3d2	{Diggs}	{33.67176783572486,-117.9875314801043,North Coast,CA,United States}	{Nightlife Spot,Food,}
+1045	Sun May 22 04:41:59 +0000 2011	4b468fd8f964a520632426e3	{Cloud 9 Restaurant and Lounge}	{33.722787999999994,-117.955526,Fountain Valley,CA,United States}	{Nightlife Spot,}
+1045	Sun May 22 01:59:45 +0000 2011	4a9bf792f964a520983520e3	{Starbucks}	{33.716211,-117.97166,Fountain Valley,CA,United States}	{Food,}
+1045	Sat May 21 07:58:52 +0000 2011	4b69199ff964a52021992be3	{Volcano Tea House}	{33.7603685300756,-117.95435239908267,Garden Grove,CA,United States}	{Nightlife Spot,Food,}
+1045	Sat May 21 01:12:36 +0000 2011	4b22fca8f964a520a35124e3	{California Shabu-Shabu}	{33.688362749999996,-117.952974,Fountain Valley,CA,United States}	{Food,}
+1045	Fri May 20 03:15:53 +0000 2011	4a67f326f964a52047ca1fe3	{Mochilato}	{33.705991252915965,-117.78404831886292,Irvine,CA,United States}	{Food,}
+1045	Fri May 20 01:43:39 +0000 2011	4ab19cd4f964a520386a20e3	{Kula Sushi Bar}	{33.688495318564335,-117.83359550767842,Irvine,CA,United States}	{Food,}
+1045	Thu May 19 21:29:08 +0000 2011	4b5913f7f964a5207a7b28e3	{Starbucks}	{33.729669,-117.955058,Fountain Valley,CA,United States}	{Food,}
+1045	Thu May 19 04:35:40 +0000 2011	4b5913f7f964a5207a7b28e3	{Starbucks}	{33.729669,-117.955058,Fountain Valley,CA,United States}	{Food,}
+1045	Thu May 19 04:08:43 +0000 2011	4b5f519df964a520cbb329e3	{Target}	{33.76157972111987,-117.95610273363427,Garden Grove,CA,United States}	{Shop & Service,}
+1045	Wed May 18 23:19:34 +0000 2011	4b2830dff964a5208c9024e3	{Westminster Mall}	{33.74710908,-118.0117893,Westminster,CA,United States}	{Shop & Service,Food,}
+1045	Wed May 18 03:33:09 +0000 2011	4b410d98f964a52032c025e3	{Mimi's Cafe}	{33.694776,-117.954569,Fountain Valley,CA,United States}	{Food,}
+1045	Wed May 18 01:18:57 +0000 2011	4a8c87fbf964a520610e20e3	{Fletcher Jones Motorcars}	{33.652797277610865,-117.86531457263173,Newport Beach,CA,United States}	{Shop & Service,}
+1045	Tue May 17 22:52:48 +0000 2011	4b5913f7f964a5207a7b28e3	{Starbucks}	{33.729669,-117.955058,Fountain Valley,CA,United States}	{Food,}
+1045	Tue May 17 22:28:18 +0000 2011	4dd2ef0045dd45f71923ffc5	{Banh Cuon Tay Ho}	{33.761404754067,-117.95335138307637,Garden Grove,CA,United States}	{Food,}
+1045	Tue May 17 07:13:23 +0000 2011	4ae88b7bf964a5204db021e3	{Walmart Supercenter}	{33.73712877037692,-117.91613250765471,Santa Ana,CA,United States}	{Shop & Service,Professional & Other Places,}
+1045	Tue May 17 05:37:40 +0000 2011	4b932683f964a520eb3734e3	{Tasty Garden}	{33.74534470954955,-117.96447664656763,Westminster,CA,United States}	{Food,}
+1045	Tue May 17 02:09:26 +0000 2011	4ca638a4f47ea143577d5e21	{Whole Foods Market}	{33.7309783920932,-117.99054622650146,Huntington Beach,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1045	Mon May 16 04:31:51 +0000 2011	4b660628f964a5201b0f2be3	{Century Theatres}	{33.73291053139245,-117.99287867781445,Huntington Beach,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1045	Sun May 15 22:44:53 +0000 2011	4a217b52f964a520fc7c1fe3	{La Creperie Cafe}	{33.7612482,-118.1369002,Long Beach,CA,United States}	{Food,}
+1045	Sun May 15 06:05:49 +0000 2011	4b468fd8f964a520632426e3	{Cloud 9 Restaurant and Lounge}	{33.722787999999994,-117.955526,Fountain Valley,CA,United States}	{Nightlife Spot,}
+1045	Sat May 14 23:26:16 +0000 2011	4a95ff27f964a520c82520e3	{Alondra Hot Wings}	{34.092622,-118.13257743406557,Alhambra,CA,United States}	{Nightlife Spot,Food,}
+1045	Fri May 13 04:03:34 +0000 2011	4c1e7647b4e62d7fc04bde93	{California Cafe}	{33.73768995147312,-117.9450455947217,Garden Grove,CA,United States}	{Food,}
+1045	Fri May 13 01:23:12 +0000 2011	4b5b5c45f964a520e3f728e3	{Gyu-Kaku Huntington Beach}	{33.71531212525122,-117.99025942882297,Huntington Beach,CA,United States}	{Food,}
+1045	Thu May 12 05:35:47 +0000 2011	4a878970f964a520a50420e3	{AMC Orange 30}	{33.7825716472443,-117.8934046626091,Orange,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1045	Wed May 11 21:37:15 +0000 2011	4c4caddd13d120a16f4ab900	{Ha Noi Avenue}	{33.75908952,-117.98237017,Westminster,CA,United States}	{Food,}
+1045	Wed May 11 16:02:48 +0000 2011	4c3c8539933b0f472825e421	{Animal Medical Center}	{33.72348088501078,-117.91934212381517,Fountain Valley,CA,United States}	{Medical Center,Professional & Other Places,}
+1045	Wed May 11 05:08:17 +0000 2011	4b98adbdf964a5202c4b35e3	{Basilico's Pasta E Vino}	{33.683743,-117.971719,Huntington Beach,CA,United States}	{Food,}
+1045	Tue May 10 19:48:53 +0000 2011	4b37d93df964a520644725e3	{Beard Papa's}	{34.06411349773407,-118.134402,Monterey Park,CA,United States}	{Food,}
+1045	Tue May 10 19:45:13 +0000 2011	4c2c08dfb34ad13a57d3eace	{Half & Half Tea House ???}	{34.06363673723252,-118.13453793525696,Monterey Park,CA,United States}	{Food,}
+1045	Tue May 10 18:04:23 +0000 2011	4b663988f964a520b1192be3	{Sam Woo Barbecue Restaurant}	{34.07860055938856,-118.10205775258822,San Gabriel,CA,United States}	{Food,}
+1045	Tue May 10 04:46:18 +0000 2011	4b404017f964a52024b725e3	{Cafe Lu}	{33.7391739008158,-117.92104130922901,Santa Ana,CA,United States}	{Food,}
+1045	Tue May 10 00:44:01 +0000 2011	4af1f95ef964a520e3e421e3	{Costco Wholesale}	{33.773011756156684,-117.9412579536438,Garden Grove,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1045	Sun May 08 23:02:37 +0000 2011	4d2e44ad5055a35dce5e91ca	{Edible Arrangements}	{33.99729788440691,-117.71539449691772,,,United States}	{Food,}
+1045	Sun May 08 07:55:32 +0000 2011	4b932683f964a520eb3734e3	{Tasty Garden}	{33.74534470954955,-117.96447664656763,Westminster,CA,United States}	{Food,}
+1045	Sun May 08 02:08:22 +0000 2011	4b468fd8f964a520632426e3	{Cloud 9 Restaurant and Lounge}	{33.722787999999994,-117.955526,Fountain Valley,CA,United States}	{Nightlife Spot,}
+1045	Sun May 08 00:32:27 +0000 2011	4ca638a4f47ea143577d5e21	{Whole Foods Market}	{33.7309783920932,-117.99054622650146,Huntington Beach,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1045	Sat May 07 22:50:00 +0000 2011	4b6a348df964a520fccc2be3	{Jamba Juice}	{33.72641214401005,-117.98889831916738,Westminster,CA,United States}	{Food,}
+1045	Fri May 06 20:27:25 +0000 2011	4af49a91f964a52042f421e3	{Souplantation}	{33.702259,-117.9336,Fountain Valley,CA,United States}	{Food,}
+1045	Fri May 06 18:15:08 +0000 2011	4b358791f964a520bc2d25e3	{Chevron}	{33.67965311689971,-117.88619622734919,Costa Mesa,CA,United States}	{Shop & Service,}
+1045	Fri May 06 05:49:07 +0000 2011	4b69199ff964a52021992be3	{Volcano Tea House}	{33.7603685300756,-117.95435239908267,Garden Grove,CA,United States}	{Nightlife Spot,Food,}
+1045	Fri May 06 02:43:44 +0000 2011	4a85f33bf964a520c7ff1fe3	{IKEA}	{33.69040630593994,-117.91617393493652,Costa Mesa,CA,United States}	{Shop & Service,}
+1045	Fri May 06 00:56:03 +0000 2011	4b9aef4ef964a520b0e435e3	{Bo De Tinh Tam Chay}	{33.739587,-117.988333,Westminster,CA,United States}	{Food,}
+1045	Thu May 05 23:58:04 +0000 2011	4b785111f964a520c1c42ee3	{Lowe's Home Improvement}	{33.7686238370159,-117.99290657043457,Westminster,CA,United States}	{Shop & Service,}
+1045	Thu May 05 02:17:43 +0000 2011	4b468fd8f964a520632426e3	{Cloud 9 Restaurant and Lounge}	{33.722787999999994,-117.955526,Fountain Valley,CA,United States}	{Nightlife Spot,}
+1045	Wed May 04 23:06:53 +0000 2011	4b872b3af964a5205eb431e3	{Bank of America}	{33.730549,-117.994315,Huntington Beach,CA,United States}	{Shop & Service,}
+1045	Wed May 04 05:37:47 +0000 2011	4b5a5e26f964a52073c028e3	{Tastea}	{33.760097075210616,-117.9512357711792,Garden Grove,CA,United States}	{Food,}
+1045	Mon May 02 22:09:03 +0000 2011	4b9aef4ef964a520b0e435e3	{Bo De Tinh Tam Chay}	{33.739587,-117.988333,Westminster,CA,United States}	{Food,}
+1045	Mon May 02 03:46:47 +0000 2011	4ca638a4f47ea143577d5e21	{Whole Foods Market}	{33.7309783920932,-117.99054622650146,Huntington Beach,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1045	Sun May 01 09:41:01 +0000 2011	44732f28f964a520a5331fe3	{Avalon Hollywood}	{34.10266857469119,-118.32707748261049,Los Angeles,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+1045	Sun May 01 02:31:52 +0000 2011	4b468fd8f964a520632426e3	{Cloud 9 Restaurant and Lounge}	{33.722787999999994,-117.955526,Fountain Valley,CA,United States}	{Nightlife Spot,}
+1045	Sat Apr 30 21:30:07 +0000 2011	4c4caddd13d120a16f4ab900	{Ha Noi Avenue}	{33.75908952,-117.98237017,Westminster,CA,United States}	{Food,}
+1045	Sat Apr 30 21:17:24 +0000 2011	4b6a653bf964a5205bd42be3	{Chase Bank}	{33.758937,-117.99025591666667,Westminster,CA,United States}	{Shop & Service,}
+1045	Fri Apr 29 06:20:52 +0000 2011	4a878970f964a520a50420e3	{AMC Orange 30}	{33.7825716472443,-117.8934046626091,Orange,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1045	Fri Apr 29 05:12:48 +0000 2011	4a611a27f964a520dcc11fe3	{Silky Sullivan's Restaurant & Irish Pub}	{33.70938166969449,-117.9510404447757,Fountain Valley,CA,United States}	{Nightlife Spot,}
+1045	Wed Apr 27 03:52:27 +0000 2011	4ab43d7bf964a520847020e3	{Thai Nakorn}	{33.788977818947856,-117.99393094167517,Stanton,CA,United States}	{Food,}
+1045	Wed Apr 27 03:52:27 +0000 2011	4ab43d7bf964a520847020e3	{Thai Nakorn}	{33.788977818947856,-117.99393094167517,Stanton,CA,United States}	{Food,}
+1045	Tue Apr 26 20:14:43 +0000 2011	4b22fca8f964a520a35124e3	{California Shabu-Shabu}	{33.688362749999996,-117.952974,Fountain Valley,CA,United States}	{Food,}
+1045	Tue Apr 26 04:35:10 +0000 2011	4b5a5e26f964a52073c028e3	{Tastea}	{33.760097075210616,-117.9512357711792,Garden Grove,CA,United States}	{Food,}
+1045	Tue Apr 26 00:25:56 +0000 2011	4b5b5c45f964a520e3f728e3	{Gyu-Kaku Huntington Beach}	{33.71531212525122,-117.99025942882297,Huntington Beach,CA,United States}	{Food,}
+1045	Mon Apr 25 01:57:16 +0000 2011	4b6ce0e7f964a520255b2ce3	{PETCO}	{33.759604,-118.008374,Westminster,CA,United States}	{Shop & Service,}
+1045	Sun Apr 24 20:33:44 +0000 2011	4afcd7f4f964a5203d2622e3	{Shik Do Rak - House of Duk Bo Sam}	{33.774338,-117.963454,Garden Grove,CA,United States}	{Food,}
+1045	Sun Apr 24 16:51:59 +0000 2011	4b575033f964a520c63028e3	{Starbucks}	{33.78132321457607,-117.8919267654419,Orange,CA,United States}	{Food,}
+1045	Sat Apr 23 03:02:07 +0000 2011	4b468fd8f964a520632426e3	{Cloud 9 Restaurant and Lounge}	{33.722787999999994,-117.955526,Fountain Valley,CA,United States}	{Nightlife Spot,}
+1045	Sat Apr 23 00:05:57 +0000 2011	4af4aa0ff964a520d3f421e3	{Starbucks}	{33.686917,-117.85536,Irvine,CA,United States}	{Food,}
+1045	Fri Apr 22 00:06:19 +0000 2011	4a766ca7f964a52003e31fe3	{BJ's Restaurant & Brewhouse}	{33.729622134086554,-117.98857212066649,Huntington Beach,CA,United States}	{Nightlife Spot,Food,}
+1045	Wed Apr 20 07:49:29 +0000 2011	4b515776f964a520594b27e3	{In-N-Out Burger}	{33.76636343274373,-117.97204371851535,Garden Grove,CA,United States}	{Food,}
+1045	Wed Apr 20 07:36:50 +0000 2011	4b515776f964a520594b27e3	{In-N-Out Burger}	{33.76636343274373,-117.97204371851535,Garden Grove,CA,United States}	{Food,}
+1045	Wed Apr 20 03:32:04 +0000 2011	4b4a71e5f964a520d88726e3	{Stater Bros Market}	{33.75818,-117.980446,Westminster,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1045	Tue Apr 19 22:53:46 +0000 2011	4ae4cbc4f964a5203a9e21e3	{John's Incredible Pizza Company}	{33.8455403610226,-117.99020290374756,Buena Park,CA,United States}	{Shop & Service,Food,}
+1045	Tue Apr 19 02:39:02 +0000 2011	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+1045	Mon Apr 18 21:17:44 +0000 2011	45db8eb5f964a520fd421fe3	{Disney California Adventure Park}	{33.80798489664312,-117.91896778777333,Anaheim,CA,United States}	{Arts & Entertainment,}
+1045	Mon Apr 18 20:37:03 +0000 2011	4ac7e458f964a52064ba20e3	{Mickey & Friends Tram}	{33.813526,-117.924671,Anaheim,CA,United States}	{Travel & Transport,Arts & Entertainment,Theme Park,}
+1045	Mon Apr 18 06:32:43 +0000 2011	4b5253def964a520737727e3	{Yogurtland}	{33.67292089688994,-117.9542837270815,Huntington Beach,CA,United States}	{Food,}
+1045	Mon Apr 18 03:43:12 +0000 2011	4ae2033ff964a520ca8921e3	{Popeyes Chicken}	{33.725897,-117.988965,Westminster,CA,United States}	{Food,}
+1045	Mon Apr 18 01:13:36 +0000 2011	4a77b2dcf964a52001e51fe3	{Boomers!}	{33.67179171247387,-117.8348708152771,Irvine,CA,United States}	{Arts & Entertainment,}
+1045	Sun Apr 17 21:52:12 +0000 2011	4c4caddd13d120a16f4ab900	{Ha Noi Avenue}	{33.75908952,-117.98237017,Westminster,CA,United States}	{Food,}
+1045	Sun Apr 17 21:52:12 +0000 2011	4c4caddd13d120a16f4ab900	{Ha Noi Avenue}	{33.75908952,-117.98237017,Westminster,CA,United States}	{Food,}
+1045	Sun Apr 17 02:52:46 +0000 2011	4b468fd8f964a520632426e3	{Cloud 9 Restaurant and Lounge}	{33.722787999999994,-117.955526,Fountain Valley,CA,United States}	{Nightlife Spot,}
+1045	Sat Apr 16 19:59:47 +0000 2011	4ab7f615f964a5209d7b20e3	{In-N-Out Burger}	{34.84991025051407,-117.08245754241943,Barstow,CA,United States}	{Food,}
+1045	Sat Apr 16 07:38:43 +0000 2011	4b69199ff964a52021992be3	{Volcano Tea House}	{33.7603685300756,-117.95435239908267,Garden Grove,CA,United States}	{Nightlife Spot,Food,}
+1045	Sat Apr 16 04:30:53 +0000 2011	4b468fd8f964a520632426e3	{Cloud 9 Restaurant and Lounge}	{33.722787999999994,-117.955526,Fountain Valley,CA,United States}	{Nightlife Spot,}
+1045	Fri Apr 15 23:47:43 +0000 2011	4bda29c9aae4ef3b84d06ec6	{SONIC Drive In}	{33.699640683680194,-117.90742993354797,Santa Ana,CA,United States}	{Food,}
+1045	Fri Apr 15 23:08:41 +0000 2011	4a85f33bf964a520c7ff1fe3	{IKEA}	{33.69040630593994,-117.91617393493652,Costa Mesa,CA,United States}	{Shop & Service,}
+1045	Fri Apr 15 19:34:14 +0000 2011	4b0871c8f964a520040c23e3	{Seafood Cove}	{33.74519104330822,-117.96796202659607,Westminster,CA,United States}	{Food,}
+1045	Fri Apr 15 18:07:39 +0000 2011	4b5913f7f964a5207a7b28e3	{Starbucks}	{33.729669,-117.955058,Fountain Valley,CA,United States}	{Food,}
+1045	Fri Apr 15 03:43:08 +0000 2011	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+1045	Fri Apr 15 02:31:24 +0000 2011	4ac7e458f964a52064ba20e3	{Mickey & Friends Tram}	{33.813526,-117.924671,Anaheim,CA,United States}	{Travel & Transport,Arts & Entertainment,Theme Park,}
+1045	Fri Apr 15 01:06:53 +0000 2011	4b5f519df964a520cbb329e3	{Target}	{33.76157972111987,-117.95610273363427,Garden Grove,CA,United States}	{Shop & Service,}
+1045	Wed Apr 13 23:28:42 +0000 2011	4b9e8efdf964a5200cef36e3	{PetSmart}	{33.72909391155734,-117.99557223213351,Huntington Beach,CA,United States}	{Shop & Service,}
+1045	Wed Apr 13 23:19:20 +0000 2011	4b78b322f964a52069de2ee3	{NuVision Federal Credit Union}	{33.72982388333333,-117.992575,North Coast,CA,United States}	{Shop & Service,}
+1045	Wed Apr 13 07:22:47 +0000 2011	4b69efa2f964a52008bd2be3	{7-Eleven}	{33.73072244842691,-117.97260994911446,Westminster,CA,United States}	{Shop & Service,}
+1045	Wed Apr 13 02:17:17 +0000 2011	4ac2cecdf964a520cc9a20e3	{Todai}	{33.74693958096083,-118.01291584968567,Westminster,CA,United States}	{Food,}
+1045	Mon Apr 11 23:46:42 +0000 2011	4a57970bf964a5206bb61fe3	{Mitsuwa Marketplace}	{33.681693213816956,-117.88426637649536,Costa Mesa,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1045	Mon Apr 11 23:09:00 +0000 2011	4da389fa0f578cfa4f6ebb18	{Doggie Doggi}	{33.774495200000004,-117.98805035000001,Garden Grove,CA,United States}	{Shop & Service,}
+1045	Mon Apr 11 19:55:33 +0000 2011	4b6ce0e7f964a520255b2ce3	{PETCO}	{33.759604,-118.008374,Westminster,CA,United States}	{Shop & Service,}
+1045	Mon Apr 11 06:52:53 +0000 2011	4abea135f964a520f58e20e3	{Walmart}	{33.76800585653717,-117.99221529088146,Westminster,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1045	Mon Apr 11 04:46:56 +0000 2011	4a766ca7f964a52003e31fe3	{BJ's Restaurant & Brewhouse}	{33.729622134086554,-117.98857212066649,Huntington Beach,CA,United States}	{Nightlife Spot,Food,}
+1045	Sun Apr 10 23:31:20 +0000 2011	4b05efa9f964a5202be622e3	{The Flame Broiler}	{33.697512252633665,-117.95491296560398,Fountain Valley,CA,United States}	{Food,}
+1045	Sat Apr 09 03:24:47 +0000 2011	4b468fd8f964a520632426e3	{Cloud 9 Restaurant and Lounge}	{33.722787999999994,-117.955526,Fountain Valley,CA,United States}	{Nightlife Spot,}
+1045	Fri Apr 08 05:00:57 +0000 2011	4c2c08dfb34ad13a57d3eace	{Half & Half Tea House ???}	{34.06363673723252,-118.13453793525696,Monterey Park,CA,United States}	{Food,}
+1045	Fri Apr 08 03:35:39 +0000 2011	46ddce98f964a520934a1fe3	{Orochon Ramen}	{34.04985042226358,-118.24241638183594,Los Angeles,CA,United States}	{Food,}
+1045	Thu Apr 07 02:03:16 +0000 2011	4c4caddd13d120a16f4ab900	{Ha Noi Avenue}	{33.75908952,-117.98237017,Westminster,CA,United States}	{Food,}
+1045	Wed Apr 06 23:24:34 +0000 2011	4d9cf612ef8f3704692b11ae	{To Cleaner}	{33.7521118,-117.9721361,Westminster,CA,United States}	{}
+1045	Wed Apr 06 02:23:06 +0000 2011	4adaa338f964a520ea2321e3	{Black Angus Restaurant}	{33.70295729047991,-117.95263636822048,Fountain Valley,CA,United States}	{Food,}
+1045	Tue Apr 05 04:03:00 +0000 2011	4b59e45ef964a520cb9e28e3	{7-Eleven}	{33.74525512499125,-117.97178814841175,Westminster,CA,United States}	{Shop & Service,}
+1045	Tue Apr 05 03:08:14 +0000 2011	4ae88b7bf964a5204db021e3	{Walmart Supercenter}	{33.73712877037692,-117.91613250765471,Santa Ana,CA,United States}	{Shop & Service,Professional & Other Places,}
+1045	Mon Apr 04 23:06:39 +0000 2011	4c412b83ff711b8d7fa71105	{Bank of America}	{33.74432,-117.974414,Westminster,CA,United States}	{Shop & Service,}
+1045	Mon Apr 04 04:22:15 +0000 2011	4a751a2af964a52081e01fe3	{Carnival World Buffet}	{36.11755079367846,-115.18912148229008,Las Vegas,NV,United States}	{Food,}
+1045	Sun Apr 03 05:40:06 +0000 2011	4d013eda6289f04d14be96cc	{Marquee Nightclub & Dayclub}	{36.10954499497765,-115.17464518547058,Las Vegas,NV,United States}	{Nightlife Spot,Arts & Entertainment,}
+1045	Sun Apr 03 05:19:13 +0000 2011	4d6cba5aa6ff721e70ccb920	{The Pizzeria (Secret Pizza)}	{36.109250979873394,-115.1742766004316,Las Vegas,NV,United States}	{Food,Arts & Entertainment,}
+1045	Sun Apr 03 05:18:48 +0000 2011	4d013eda6289f04d14be96cc	{Marquee Nightclub & Dayclub}	{36.10954499497765,-115.17464518547058,Las Vegas,NV,United States}	{Nightlife Spot,Arts & Entertainment,}
+1045	Sat Apr 02 21:39:15 +0000 2011	4b4173e0f964a520c2c625e3	{Joe's Seafood Prime Steak & Stone Crab}	{36.118914260633275,-115.17356157302856,Las Vegas,NV,United States}	{Food,}
+1045	Sat Apr 02 06:09:21 +0000 2011	4d013eda6289f04d14be96cc	{Marquee Nightclub & Dayclub}	{36.10954499497765,-115.17464518547058,Las Vegas,NV,United States}	{Nightlife Spot,Arts & Entertainment,}
+1045	Sat Apr 02 01:48:31 +0000 2011	4a760275f964a520f2e11fe3	{The Forum Shops}	{36.11894099028755,-115.17383688657922,Las Vegas,NV,United States}	{Shop & Service,}
+1045	Fri Apr 01 07:03:28 +0000 2011	4a934cb5f964a520801f20e3	{Westminster Lanes}	{33.759859800338745,-118.016551,Westminster,CA,United States}	{Arts & Entertainment,}
+1045	Fri Apr 01 00:26:23 +0000 2011	4b05efa9f964a5202be622e3	{The Flame Broiler}	{33.697512252633665,-117.95491296560398,Fountain Valley,CA,United States}	{Food,}
+1045	Fri Apr 01 00:17:19 +0000 2011	4bbd02d8a8cf76b0f946b1fd	{Solstice Tanning}	{33.6988517,-117.95454025000001,Fountain Valley,CA,United States}	{Shop & Service,}
+1045	Thu Mar 31 02:31:10 +0000 2011	4c4caddd13d120a16f4ab900	{Ha Noi Avenue}	{33.75908952,-117.98237017,Westminster,CA,United States}	{Food,}
+1045	Wed Mar 30 02:22:28 +0000 2011	4b468fd8f964a520632426e3	{Cloud 9 Restaurant and Lounge}	{33.722787999999994,-117.955526,Fountain Valley,CA,United States}	{Nightlife Spot,}
+1045	Tue Mar 29 23:39:52 +0000 2011	4c195aacfe5a76b0307e0315	{Petco}	{33.7012428743808,-117.8849744796753,Santa Ana,CA,United States}	{Shop & Service,}
+1045	Tue Mar 29 23:10:34 +0000 2011	4ace822ef964a520f6d020e3	{Trader Joe's}	{33.701219444230695,-117.88427710533142,Santa Ana,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1045	Tue Mar 29 21:34:07 +0000 2011	4c32513c7cc0c9b6c81df09a	{Le Croissant Dor?}	{33.74444381666667,-117.97022022,Westminster,CA,United States}	{Food,}
+1045	Tue Mar 29 10:39:10 +0000 2011	4c76f8f393faa093e777effb	{Carl's Jr. / Green Burrito}	{33.759342221993776,-117.95429519831863,Garden Grove,CA,United States}	{Food,}
+1045	Tue Mar 29 02:07:32 +0000 2011	4b468fd8f964a520632426e3	{Cloud 9 Restaurant and Lounge}	{33.722787999999994,-117.955526,Fountain Valley,CA,United States}	{Nightlife Spot,}
+1045	Mon Mar 28 23:49:04 +0000 2011	4ab43d7bf964a520847020e3	{Thai Nakorn}	{33.788977818947856,-117.99393094167517,Stanton,CA,United States}	{Food,}
+1045	Mon Mar 28 05:37:58 +0000 2011	4b3fbdfff964a520a9ad25e3	{The Cheesecake Factory}	{33.73257999812236,-117.99163520336151,Huntington Beach,CA,United States}	{Food,}
+1045	Sat Mar 26 03:43:12 +0000 2011	4b468fd8f964a520632426e3	{Cloud 9 Restaurant and Lounge}	{33.722787999999994,-117.955526,Fountain Valley,CA,United States}	{Nightlife Spot,}
+1045	Sat Mar 26 03:43:12 +0000 2011	4b468fd8f964a520632426e3	{Cloud 9 Restaurant and Lounge}	{33.722787999999994,-117.955526,Fountain Valley,CA,United States}	{Nightlife Spot,}
+1045	Fri Mar 25 04:03:16 +0000 2011	4b69199ff964a52021992be3	{Volcano Tea House}	{33.7603685300756,-117.95435239908267,Garden Grove,CA,United States}	{Nightlife Spot,Food,}
+1045	Thu Mar 24 23:06:31 +0000 2011	4b9e75b3f964a520b6e536e3	{Starbucks}	{33.77281109402613,-117.90328323841095,Garden Grove,CA,United States}	{Food,}
+1045	Thu Mar 24 07:32:53 +0000 2011	4b201922f964a5202f2d24e3	{Cha For Tea}	{33.65062758333333,-117.8390121459961,Irvine,CA,United States}	{Food,}
+1045	Wed Mar 23 21:13:27 +0000 2011	4b5de286f964a520157229e3	{Jack in the Box - Huntington Beach, CA}	{33.72554571508332,-117.9898934171643,Huntington Beach,CA,United States}	{Food,}
+1045	Wed Mar 23 20:43:59 +0000 2011	4b79646bf964a5203bf72ee3	{Starbucks}	{33.72637258333334,-117.988838,Westminster,CA,United States}	{Food,}
+1045	Wed Mar 23 20:12:46 +0000 2011	4b78b322f964a52069de2ee3	{NuVision Federal Credit Union}	{33.72982388333333,-117.992575,North Coast,CA,United States}	{Shop & Service,}
+1045	Wed Mar 23 20:12:46 +0000 2011	4b78b322f964a52069de2ee3	{NuVision Federal Credit Union}	{33.72982388333333,-117.992575,North Coast,CA,United States}	{Shop & Service,}
+1045	Wed Mar 23 06:52:59 +0000 2011	4bf6b17e9abec9b60c3b26e8	{McDonald's}	{33.759276539546484,-117.95720097403425,Garden Grove,CA,United States}	{Food,}
+1045	Wed Mar 23 03:14:23 +0000 2011	4b98adbdf964a5202c4b35e3	{Basilico's Pasta E Vino}	{33.683743,-117.971719,Huntington Beach,CA,United States}	{Food,}
+1045	Wed Mar 23 03:14:23 +0000 2011	4b98adbdf964a5202c4b35e3	{Basilico's Pasta E Vino}	{33.683743,-117.971719,Huntington Beach,CA,United States}	{Food,}
+1045	Tue Mar 22 20:25:07 +0000 2011	4abea135f964a520f58e20e3	{Walmart}	{33.76800585653717,-117.99221529088146,Westminster,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1045	Tue Mar 22 18:57:18 +0000 2011	4b784ab9f964a520d2c22ee3	{Omelette House}	{33.78822364032224,-117.95733825361081,Garden Grove,CA,United States}	{Food,}
+1045	Sun Mar 20 21:29:42 +0000 2011	4c4caddd13d120a16f4ab900	{Ha Noi Avenue}	{33.75908952,-117.98237017,Westminster,CA,United States}	{Food,}
+1045	Sun Mar 20 03:11:25 +0000 2011	4b468fd8f964a520632426e3	{Cloud 9 Restaurant and Lounge}	{33.722787999999994,-117.955526,Fountain Valley,CA,United States}	{Nightlife Spot,}
+1045	Thu Mar 17 21:33:29 +0000 2011	4b880521f964a5206fd931e3	{Starbucks}	{33.767291225367785,-117.97290164296535,Garden Grove,CA,United States}	{Food,}
+1045	Tue Mar 15 05:29:37 +0000 2011	4ab70135f964a520ac7920e3	{Luc Dinh Ky - Westminster}	{33.74465186485191,-117.96125639716388,Westminster,CA,United States}	{Food,}
+1045	Tue Mar 15 02:08:35 +0000 2011	46e56d1ff964a520bc4a1fe3	{Fry's Electronics}	{33.69928587696306,-117.94030040502548,Fountain Valley,CA,United States}	{Shop & Service,Arts & Entertainment,}
+1045	Tue Mar 15 01:06:44 +0000 2011	4ac3fb3bf964a520bc9d20e3	{Costco Wholesale}	{33.70350999010908,-117.93120503425598,Fountain Valley,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1045	Sun Mar 13 23:01:14 +0000 2011	45db8eb5f964a520fd421fe3	{Disney California Adventure Park}	{33.80798489664312,-117.91896778777333,Anaheim,CA,United States}	{Arts & Entertainment,}
+1045	Sun Mar 13 10:22:49 +0000 2011	4bfcaba78992a593131aabb0	{Garden Cafe}	{33.987443,-117.903227,Rowland Heights,CA,United States}	{Food,}
+1045	Sun Mar 13 03:27:54 +0000 2011	4b468fd8f964a520632426e3	{Cloud 9 Restaurant and Lounge}	{33.722787999999994,-117.955526,Fountain Valley,CA,United States}	{Nightlife Spot,}
+1045	Fri Mar 11 02:50:05 +0000 2011	4ab43d7bf964a520847020e3	{Thai Nakorn}	{33.788977818947856,-117.99393094167517,Stanton,CA,United States}	{Food,}
+1045	Wed Mar 09 03:57:13 +0000 2011	4ab43d7bf964a520847020e3	{Thai Nakorn}	{33.788977818947856,-117.99393094167517,Stanton,CA,United States}	{Food,}
+1045	Tue Mar 08 09:12:58 +0000 2011	4b5fc277f964a520c7cb29e3	{Pho Lu}	{33.75978602994508,-117.95184126835171,Garden Grove,CA,United States}	{Food,}
+1045	Tue Mar 08 03:12:24 +0000 2011	4b468fd8f964a520632426e3	{Cloud 9 Restaurant and Lounge}	{33.722787999999994,-117.955526,Fountain Valley,CA,United States}	{Nightlife Spot,}
+1045	Tue Mar 08 01:01:58 +0000 2011	4ab19cd4f964a520386a20e3	{Kula Sushi Bar}	{33.688495318564335,-117.83359550767842,Irvine,CA,United States}	{Food,}
+1045	Tue Mar 08 01:01:45 +0000 2011	4ab19cd4f964a520386a20e3	{Kula Sushi Bar}	{33.688495318564335,-117.83359550767842,Irvine,CA,United States}	{Food,}
+1045	Mon Mar 07 04:34:18 +0000 2011	4d43bbe94e5d3704ba4ae393	{David Chau's Leftover Cafe}	{33.74804024,-117.95727239,Westminster,CA,United States}	{Food,}
+1045	Mon Mar 07 02:59:25 +0000 2011	4b880521f964a5206fd931e3	{Starbucks}	{33.767291225367785,-117.97290164296535,Garden Grove,CA,United States}	{Food,}
+1045	Sun Mar 06 19:17:58 +0000 2011	4cd091467561236a13082df3	{Bruxie}	{33.79137202386545,-117.85321041941643,Orange,CA,United States}	{Food,}
+1045	Sun Mar 06 08:34:56 +0000 2011	4b69199ff964a52021992be3	{Volcano Tea House}	{33.7603685300756,-117.95435239908267,Garden Grove,CA,United States}	{Nightlife Spot,Food,}
+1045	Sun Mar 06 03:23:17 +0000 2011	4b468fd8f964a520632426e3	{Cloud 9 Restaurant and Lounge}	{33.722787999999994,-117.955526,Fountain Valley,CA,United States}	{Nightlife Spot,}
+1045	Sat Mar 05 20:22:53 +0000 2011	4b82e955f964a520a7ec30e3	{Stater Bros. #041}	{33.750955901359625,-117.9541807967358,Westminster,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1045	Sat Mar 05 19:51:35 +0000 2011	4c412b83ff711b8d7fa71105	{Bank of America}	{33.74432,-117.974414,Westminster,CA,United States}	{Shop & Service,}
+1045	Sat Mar 05 06:59:57 +0000 2011	4b69199ff964a52021992be3	{Volcano Tea House}	{33.7603685300756,-117.95435239908267,Garden Grove,CA,United States}	{Nightlife Spot,Food,}
+1045	Sat Mar 05 06:59:57 +0000 2011	4b69199ff964a52021992be3	{Volcano Tea House}	{33.7603685300756,-117.95435239908267,Garden Grove,CA,United States}	{Nightlife Spot,Food,}
+1045	Sat Mar 05 04:55:41 +0000 2011	4ae3545df964a520839321e3	{Full Moon Sushi}	{33.69450534552236,-117.95551357064515,Costa Mesa,CA,United States}	{Food,}
+1045	Fri Mar 04 08:23:39 +0000 2011	4d574d3ec6edf04d0df0dba2	{Raw ocean house}	{33.77769236666666,-117.99224804030783,stanton,CA,United States}	{Nightlife Spot,}
+1045	Fri Mar 04 07:27:33 +0000 2011	4ad262b2f964a5204ce120e3	{Dave & Buster's}	{33.78495253624139,-117.89393305778503,Orange,CA,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+1045	Fri Mar 04 01:49:39 +0000 2011	4b09037bf964a520d71323e3	{Lollicup Diamond Jamboree}	{33.68817455296093,-117.83399105072021,Irvine,CA,United States}	{Food,}
+1045	Fri Mar 04 01:40:41 +0000 2011	4a633314f964a52097c41fe3	{85?C Bakery Cafe}	{33.688009400937624,-117.83405005931854,Irvine,CA,United States}	{Food,}
+1045	Fri Mar 04 00:33:30 +0000 2011	4ab19cd4f964a520386a20e3	{Kula Sushi Bar}	{33.688495318564335,-117.83359550767842,Irvine,CA,United States}	{Food,}
+1045	Thu Mar 03 09:10:47 +0000 2011	4b5ac9bdf964a520a9d428e3	{Seaside Donuts Bakery}	{33.608571,-117.929088,Newport Beach,CA,United States}	{Food,}
+1045	Thu Mar 03 06:28:59 +0000 2011	4a6e5678f964a52086d41fe3	{Fountain Bowl}	{33.71479486590416,-117.9534314645626,Fountain Valley,CA,United States}	{Arts & Entertainment,}
+1045	Thu Mar 03 02:20:27 +0000 2011	4b6789adf964a52050542be3	{99 Ranch Market}	{33.84087793048097,-117.94330659310751,Anaheim,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1045	Thu Mar 03 01:34:56 +0000 2011	4283ee00f964a520e5221fe3	{The Outlets at Orange}	{33.78305471,-117.8922731,Orange,CA,United States}	{Shop & Service,Arts & Entertainment,}
+1045	Wed Mar 02 23:56:26 +0000 2011	4c4caddd13d120a16f4ab900	{Ha Noi Avenue}	{33.75908952,-117.98237017,Westminster,CA,United States}	{Food,}
+1045	Wed Mar 02 23:23:33 +0000 2011	4b6a348df964a520fccc2be3	{Jamba Juice}	{33.72641214401005,-117.98889831916738,Westminster,CA,United States}	{Food,}
+1045	Wed Mar 02 02:09:02 +0000 2011	4b7cd2cff964a52095a62fe3	{Chevron}	{33.71587228145795,-117.95402063439717,Fountain Valley,CA,United States}	{Shop & Service,}
+1045	Tue Mar 01 09:01:42 +0000 2011	4b00589bf964a5201c3d22e3	{Norms}	{33.72188611,-117.98875451087952,Huntington Beach,CA,United States}	{Food,}
+1045	Tue Mar 01 03:07:46 +0000 2011	4b468fd8f964a520632426e3	{Cloud 9 Restaurant and Lounge}	{33.722787999999994,-117.955526,Fountain Valley,CA,United States}	{Nightlife Spot,}
+1045	Tue Mar 01 03:07:45 +0000 2011	4b468fd8f964a520632426e3	{Cloud 9 Restaurant and Lounge}	{33.722787999999994,-117.955526,Fountain Valley,CA,United States}	{Nightlife Spot,}
+1045	Tue Mar 01 00:58:50 +0000 2011	4b2830dff964a5208c9024e3	{Westminster Mall}	{33.74710908,-118.0117893,Westminster,CA,United States}	{Shop & Service,Food,}
+1045	Tue Mar 01 00:31:06 +0000 2011	4b9e8efdf964a5200cef36e3	{PetSmart}	{33.72909391155734,-117.99557223213351,Huntington Beach,CA,United States}	{Shop & Service,}
+1045	Tue Mar 01 00:21:24 +0000 2011	4fb5337d7beb65c72e11d818	{Chase Bank}	{33.72987344734056,-117.99182640773778,Huntington Beach,CA,United States}	{Shop & Service,Professional & Other Places,}
+1045	Tue Mar 01 00:07:29 +0000 2011	4b78b322f964a52069de2ee3	{NuVision Federal Credit Union}	{33.72982388333333,-117.992575,North Coast,CA,United States}	{Shop & Service,}
+1045	Mon Feb 28 23:49:52 +0000 2011	4b69199ff964a52021992be3	{Volcano Tea House}	{33.7603685300756,-117.95435239908267,Garden Grove,CA,United States}	{Nightlife Spot,Food,}
+1045	Mon Feb 28 23:49:51 +0000 2011	4b69199ff964a52021992be3	{Volcano Tea House}	{33.7603685300756,-117.95435239908267,Garden Grove,CA,United States}	{Nightlife Spot,Food,}
+1045	Sun Feb 27 08:53:00 +0000 2011	4b69199ff964a52021992be3	{Volcano Tea House}	{33.7603685300756,-117.95435239908267,Garden Grove,CA,United States}	{Nightlife Spot,Food,}
+1045	Thu Feb 24 06:06:21 +0000 2011	4b69199ff964a52021992be3	{Volcano Tea House}	{33.7603685300756,-117.95435239908267,Garden Grove,CA,United States}	{Nightlife Spot,Food,}
+1045	Thu Feb 24 05:29:10 +0000 2011	4b4a71e5f964a520d88726e3	{Stater Bros Market}	{33.75818,-117.980446,Westminster,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1045	Wed Feb 23 03:06:43 +0000 2011	4adaa338f964a520ea2321e3	{Black Angus Restaurant}	{33.70295729047991,-117.95263636822048,Fountain Valley,CA,United States}	{Food,}
+1045	Tue Feb 22 22:04:47 +0000 2011	4a633314f964a52097c41fe3	{85?C Bakery Cafe}	{33.688009400937624,-117.83405005931854,Irvine,CA,United States}	{Food,}
+1045	Tue Feb 22 19:52:20 +0000 2011	4b54e2a0f964a52059d127e3	{Edwards Lifesciences}	{33.69849225937924,-117.85181947796845,Irvine,CA,United States}	{Professional & Other Places,}
+1045	Tue Feb 22 18:58:22 +0000 2011	4a57970bf964a5206bb61fe3	{Mitsuwa Marketplace}	{33.681693213816956,-117.88426637649536,Costa Mesa,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1045	Tue Feb 22 18:49:39 +0000 2011	4b0a0ec9f964a520632123e3	{7-Eleven}	{33.679778494041045,-117.90329152765017,Costa Mesa,CA,United States}	{Shop & Service,}
+1045	Tue Feb 22 17:58:15 +0000 2011	4ab3ce37f964a520926e20e3	{Orange Coast College}	{33.670276183885605,-117.91187009484437,Costa Mesa,CA,United States}	{College Academic Building,College & University,}
+1045	Tue Feb 22 00:41:14 +0000 2011	4cd091467561236a13082df3	{Bruxie}	{33.79137202386545,-117.85321041941643,Orange,CA,United States}	{Food,}
+1045	Mon Feb 21 23:31:01 +0000 2011	4b005a84f964a520393d22e3	{Sam's Club}	{33.71409502,-117.9558706,Fountain Valley,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1045	Mon Feb 21 23:19:39 +0000 2011	4d61ca34865a224b1046bb85	{7 Eleven}	{33.75902586,-117.99829109,Westminster,CA,United States}	{Food,}
+1045	Mon Feb 21 09:58:30 +0000 2011	4bf6b17e9abec9b60c3b26e8	{McDonald's}	{33.759276539546484,-117.95720097403425,Garden Grove,CA,United States}	{Food,}
+1045	Mon Feb 21 03:41:46 +0000 2011	4c708ff6d7fab1f7ea1a5fc9	{Chevron}	{33.762645415566205,-117.98998492014944,Westminster,CA,United States}	{Shop & Service,}
+1045	Mon Feb 21 03:32:18 +0000 2011	4b785111f964a520c1c42ee3	{Lowe's Home Improvement}	{33.7686238370159,-117.99290657043457,Westminster,CA,United States}	{Shop & Service,}
+1045	Mon Feb 21 03:16:09 +0000 2011	4abea135f964a520f58e20e3	{Walmart}	{33.76800585653717,-117.99221529088146,Westminster,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1045	Mon Feb 21 02:25:45 +0000 2011	4a2f650bf964a520c5981fe3	{Long Beach Airport (LGB)}	{33.81851869758065,-118.1443977355957,Long Beach,CA,United States}	{Travel & Transport,}
+1045	Mon Feb 21 02:13:27 +0000 2011	4d61ca34865a224b1046bb85	{7 Eleven}	{33.75902586,-117.99829109,Westminster,CA,United States}	{Food,}
+1045	Sun Feb 20 23:50:49 +0000 2011	4c4caddd13d120a16f4ab900	{Ha Noi Avenue}	{33.75908952,-117.98237017,Westminster,CA,United States}	{Food,}
+1045	Sun Feb 20 08:47:30 +0000 2011	4b686361f964a52072752be3	{Walgreens}	{33.75890478077963,-117.98895550885791,WESTMINSTER,CA,United States}	{Shop & Service,}
+1045	Sun Feb 20 08:10:48 +0000 2011	4abea135f964a520f58e20e3	{Walmart}	{33.76800585653717,-117.99221529088146,Westminster,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1045	Sun Feb 20 08:10:48 +0000 2011	4abea135f964a520f58e20e3	{Walmart}	{33.76800585653717,-117.99221529088146,Westminster,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1045	Sun Feb 20 06:14:53 +0000 2011	4a67f326f964a52047ca1fe3	{Mochilato}	{33.705991252915965,-117.78404831886292,Irvine,CA,United States}	{Food,}
+1045	Sat Feb 19 08:42:42 +0000 2011	4b69199ff964a52021992be3	{Volcano Tea House}	{33.7603685300756,-117.95435239908267,Garden Grove,CA,United States}	{Nightlife Spot,Food,}
+1045	Fri Feb 18 22:29:06 +0000 2011	4c2b9dec8ef52d7ff7ab31ba	{Gala Bakery}	{33.74407768249512,-117.96712517738342,Westminster,CA,United States}	{Food,}
+1045	Fri Feb 18 02:35:48 +0000 2011	4ac3fb3bf964a520bc9d20e3	{Costco Wholesale}	{33.70350999010908,-117.93120503425598,Fountain Valley,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1045	Fri Feb 18 00:42:17 +0000 2011	4bf6b17e9abec9b60c3b26e8	{McDonald's}	{33.759276539546484,-117.95720097403425,Garden Grove,CA,United States}	{Food,}
+1045	Fri Feb 18 00:42:17 +0000 2011	4bf6b17e9abec9b60c3b26e8	{McDonald's}	{33.759276539546484,-117.95720097403425,Garden Grove,CA,United States}	{Food,}
+1045	Thu Feb 17 04:06:03 +0000 2011	4b9ed29bf964a5206d0437e3	{Sushi Asahi}	{33.90974489422525,-117.43582248687744,Riverside,CA,United States}	{Food,}
+1045	Wed Feb 16 06:43:32 +0000 2011	4c2c08dfb34ad13a57d3eace	{Half & Half Tea House ???}	{34.06363673723252,-118.13453793525696,Monterey Park,CA,United States}	{Food,}
+1045	Wed Feb 16 04:51:51 +0000 2011	46ddce98f964a520934a1fe3	{Orochon Ramen}	{34.04985042226358,-118.24241638183594,Los Angeles,CA,United States}	{Food,}
+1045	Wed Feb 16 02:29:20 +0000 2011	4ca638a4f47ea143577d5e21	{Whole Foods Market}	{33.7309783920932,-117.99054622650146,Huntington Beach,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1045	Tue Feb 15 23:17:52 +0000 2011	4b8b3478f964a520769732e3	{Quan Vy Da}	{33.74417683910488,-117.95519324820707,Westminster,CA,United States}	{Food,}
+1045	Tue Feb 15 22:50:26 +0000 2011	4b5913f7f964a5207a7b28e3	{Starbucks}	{33.729669,-117.955058,Fountain Valley,CA,United States}	{Food,}
+1045	Mon Feb 14 23:05:29 +0000 2011	4ae3545df964a520839321e3	{Full Moon Sushi}	{33.69450534552236,-117.95551357064515,Costa Mesa,CA,United States}	{Food,}
+1045	Mon Feb 14 02:11:45 +0000 2011	4b880521f964a5206fd931e3	{Starbucks}	{33.767291225367785,-117.97290164296535,Garden Grove,CA,United States}	{Food,}
+1045	Sat Feb 12 07:49:21 +0000 2011	4a878970f964a520a50420e3	{AMC Orange 30}	{33.7825716472443,-117.8934046626091,Orange,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1045	Sat Feb 12 06:44:07 +0000 2011	47f6995af964a520b04e1fe3	{Downtown Disney District}	{33.80917676965434,-117.92439222335815,Anaheim,CA,United States}	{Shop & Service,Outdoors & Recreation,}
+1045	Sat Feb 12 04:00:08 +0000 2011	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+1045	Sat Feb 12 03:09:30 +0000 2011	45db8eb5f964a520fd421fe3	{Disney California Adventure Park}	{33.80798489664312,-117.91896778777333,Anaheim,CA,United States}	{Arts & Entertainment,}
+1045	Fri Feb 11 18:38:18 +0000 2011	4bf6b17e9abec9b60c3b26e8	{McDonald's}	{33.759276539546484,-117.95720097403425,Garden Grove,CA,United States}	{Food,}
+1045	Fri Feb 11 18:05:07 +0000 2011	4a9bf792f964a520983520e3	{Starbucks}	{33.716211,-117.97166,Fountain Valley,CA,United States}	{Food,}
+1045	Fri Feb 11 17:51:46 +0000 2011	4ba51514f964a5207eda38e3	{Fountain Valley Hand Car Wash}	{33.71618149534966,-117.9709341301189,Fountain Valley,CA,United States}	{Shop & Service,Outdoors & Recreation,}
+1045	Fri Feb 11 04:05:46 +0000 2011	4c36962e2c8020a1e4b08700	{Cham Sut Gol Korean BBQ}	{33.77336534348835,-117.96950423800753,Garden Grove,CA,United States}	{Food,}
+1045	Fri Feb 11 04:05:46 +0000 2011	4c36962e2c8020a1e4b08700	{Cham Sut Gol Korean BBQ}	{33.77336534348835,-117.96950423800753,Garden Grove,CA,United States}	{Food,}
+1045	Thu Feb 10 22:36:36 +0000 2011	4ba51514f964a5207eda38e3	{Fountain Valley Hand Car Wash}	{33.71618149534966,-117.9709341301189,Fountain Valley,CA,United States}	{Shop & Service,Outdoors & Recreation,}
+1045	Wed Feb 09 23:19:40 +0000 2011	4b5913f7f964a5207a7b28e3	{Starbucks}	{33.729669,-117.955058,Fountain Valley,CA,United States}	{Food,}
+1045	Wed Feb 09 05:41:43 +0000 2011	4abd8e1af964a520f58a20e3	{Target}	{33.67145407889219,-117.95574809206711,Huntington Beach,CA,United States}	{Shop & Service,}
+1045	Wed Feb 09 02:57:15 +0000 2011	4b98adbdf964a5202c4b35e3	{Basilico's Pasta E Vino}	{33.683743,-117.971719,Huntington Beach,CA,United States}	{Food,}
+1045	Wed Feb 09 00:58:41 +0000 2011	45a9d338f964a52025411fe3	{South Coast Plaza}	{33.69101333272498,-117.88911581039427,Costa Mesa,CA,United States}	{Shop & Service,}
+1045	Tue Feb 08 23:27:30 +0000 2011	4b8b3478f964a520769732e3	{Quan Vy Da}	{33.74417683910488,-117.95519324820707,Westminster,CA,United States}	{Food,}
+1045	Tue Feb 08 03:01:15 +0000 2011	4b82e955f964a520a7ec30e3	{Stater Bros. #041}	{33.750955901359625,-117.9541807967358,Westminster,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1045	Tue Feb 08 02:41:51 +0000 2011	4ac3fb3bf964a520bc9d20e3	{Costco Wholesale}	{33.70350999010908,-117.93120503425598,Fountain Valley,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1045	Tue Feb 08 02:18:43 +0000 2011	4b005a84f964a520393d22e3	{Sam's Club}	{33.71409502,-117.9558706,Fountain Valley,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1045	Tue Feb 08 00:06:02 +0000 2011	4c2a1abbed0ac9b6dfc962aa	{SUBWAY}	{33.74708763303816,-117.98336227029097,Westminster,CA,United States}	{Food,}
+1045	Mon Feb 07 23:43:43 +0000 2011	4c2b9dec8ef52d7ff7ab31ba	{Gala Bakery}	{33.74407768249512,-117.96712517738342,Westminster,CA,United States}	{Food,}
+1045	Sun Feb 06 08:21:23 +0000 2011	4b69199ff964a52021992be3	{Volcano Tea House}	{33.7603685300756,-117.95435239908267,Garden Grove,CA,United States}	{Nightlife Spot,Food,}
+1045	Sat Feb 05 22:45:37 +0000 2011	4c4caddd13d120a16f4ab900	{Ha Noi Avenue}	{33.75908952,-117.98237017,Westminster,CA,United States}	{Food,}
+1045	Sat Feb 05 06:45:55 +0000 2011	4b468fd8f964a520632426e3	{Cloud 9 Restaurant and Lounge}	{33.722787999999994,-117.955526,Fountain Valley,CA,United States}	{Nightlife Spot,}
+1045	Sat Feb 05 00:11:48 +0000 2011	4b872b3af964a5205eb431e3	{Bank of America}	{33.730549,-117.994315,Huntington Beach,CA,United States}	{Shop & Service,}
+1045	Fri Feb 04 23:11:00 +0000 2011	4b95a571f964a520adad34e3	{Mobil}	{33.72979046195882,-117.98963606476667,HUNTINGTON BEACH,CA,United States}	{Shop & Service,}
+1045	Fri Feb 04 22:51:18 +0000 2011	4b78b322f964a52069de2ee3	{NuVision Federal Credit Union}	{33.72982388333333,-117.992575,North Coast,CA,United States}	{Shop & Service,}
+1045	Fri Feb 04 17:39:38 +0000 2011	4b6603ecf964a520820e2be3	{IHOP}	{33.742623929183154,-118.0064007639885,Westminster,CA,United States}	{Food,}
+1045	Fri Feb 04 05:45:18 +0000 2011	4b468fd8f964a520632426e3	{Cloud 9 Restaurant and Lounge}	{33.722787999999994,-117.955526,Fountain Valley,CA,United States}	{Nightlife Spot,}
+1045	Thu Feb 03 04:22:46 +0000 2011	4c918c281adc3704d05631d1	{Longboards Ice Cream Truck}	{33.830360830246526,-117.86894285388803,,CA,United States}	{Food,}
+1045	Thu Feb 03 01:43:53 +0000 2011	4ba7e434f964a52051bc39e3	{Lucille's Smokehouse Bar-B-Que}	{33.8286617,-118.0863976,Long Beach,CA,United States}	{Food,}
+1045	Wed Feb 02 09:20:40 +0000 2011	4b9ed8eef964a520fc0537e3	{Chevron}	{33.745294403518876,-117.94595513161828,Garden Grove,CA,United States}	{Shop & Service,}
+1045	Wed Feb 02 05:22:40 +0000 2011	4d3ff05590f9224b1e8d011e	{David Chau's Tempurpedic Bed}	{33.748108,-117.95710933,Westminster,CA,United States}	{Nightlife Spot,}
+1045	Wed Feb 02 04:39:44 +0000 2011	4ba3f111f964a520d16f38e3	{Starbucks}	{33.74560046895137,-118.01229880630325,Westminster,CA,United States}	{Food,}
+1045	Wed Feb 02 04:39:44 +0000 2011	4ba3f111f964a520d16f38e3	{Starbucks}	{33.74560046895137,-118.01229880630325,Westminster,CA,United States}	{Food,}
+1045	Wed Feb 02 04:39:34 +0000 2011	4b319257f964a520380925e3	{Target}	{33.745649760099155,-118.01231596095596,Westminster,CA,United States}	{Shop & Service,}
+1045	Wed Feb 02 02:18:30 +0000 2011	4ac2cecdf964a520cc9a20e3	{Todai}	{33.74693958096083,-118.01291584968567,Westminster,CA,United States}	{Food,}
+1045	Tue Feb 01 22:57:12 +0000 2011	4af74ea9f964a520360822e3	{Bristol Farms}	{33.606214271892945,-117.87355535917891,Newport Beach,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1045	Tue Feb 01 22:35:15 +0000 2011	4ab5890ff964a5203e7520e3	{Sprinkles Cupcakes}	{33.60623807978811,-117.87461042404175,Newport Beach,CA,United States}	{Food,}
+1045	Tue Feb 01 20:24:01 +0000 2011	4a75c0e6f964a5202ce11fe3	{Plums Cafe and Catering}	{33.63116923907565,-117.91365517126083,Costa Mesa,CA,United States}	{Food,}
+1045	Tue Feb 01 05:52:53 +0000 2011	4b82e955f964a520a7ec30e3	{Stater Bros. #041}	{33.750955901359625,-117.9541807967358,Westminster,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1045	Tue Feb 01 03:16:48 +0000 2011	4c6047c6c6a103bb8802685b	{RadioShack}	{33.75921166,-118.0153567,Westminster,CA,United States}	{Shop & Service,}
+1045	Tue Feb 01 03:00:13 +0000 2011	4c604632c6a103bb5600685b	{RadioShack}	{33.73919835485736,-117.9556622915825,Westminster,CA,United States}	{Shop & Service,}
+1045	Tue Feb 01 02:26:57 +0000 2011	4c6047c6c6a103bb8802685b	{RadioShack}	{33.75921166,-118.0153567,Westminster,CA,United States}	{Shop & Service,}
+1045	Tue Feb 01 02:14:21 +0000 2011	4b6ce0e7f964a520255b2ce3	{PETCO}	{33.759604,-118.008374,Westminster,CA,United States}	{Shop & Service,}
+1045	Tue Feb 01 00:25:00 +0000 2011	4c4caddd13d120a16f4ab900	{Ha Noi Avenue}	{33.75908952,-117.98237017,Westminster,CA,United States}	{Food,}
+1045	Mon Jan 31 04:36:18 +0000 2011	4af6554ef964a520190322e3	{Tastea}	{33.78153723289734,-117.8919106721878,Orange,CA,United States}	{Food,}
+1045	Mon Jan 31 04:13:13 +0000 2011	4b0df537f964a520225323e3	{Krispy Kreme Doughnuts}	{33.78377547579663,-117.89059638977051,Orange,CA,United States}	{Food,}
+1045	Sun Jan 30 21:36:49 +0000 2011	4b0871c8f964a520040c23e3	{Seafood Cove}	{33.74519104330822,-117.96796202659607,Westminster,CA,United States}	{Food,}
+1045	Sun Jan 30 05:34:40 +0000 2011	4b69199ff964a52021992be3	{Volcano Tea House}	{33.7603685300756,-117.95435239908267,Garden Grove,CA,United States}	{Nightlife Spot,Food,}
+1045	Sat Jan 29 00:45:51 +0000 2011	45a9d338f964a52025411fe3	{South Coast Plaza}	{33.69101333272498,-117.88911581039427,Costa Mesa,CA,United States}	{Shop & Service,}
+1045	Fri Jan 28 23:03:24 +0000 2011	4c4caddd13d120a16f4ab900	{Ha Noi Avenue}	{33.75908952,-117.98237017,Westminster,CA,United States}	{Food,}
+1045	Fri Jan 28 22:33:44 +0000 2011	4b6a653bf964a5205bd42be3	{Chase Bank}	{33.758937,-117.99025591666667,Westminster,CA,United States}	{Shop & Service,}
+1045	Fri Jan 28 10:23:44 +0000 2011	4b5ac9bdf964a520a9d428e3	{Seaside Donuts Bakery}	{33.608571,-117.929088,Newport Beach,CA,United States}	{Food,}
+1045	Fri Jan 28 07:58:13 +0000 2011	4ad262b2f964a5204ce120e3	{Dave & Buster's}	{33.78495253624139,-117.89393305778503,Orange,CA,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+1045	Fri Jan 28 00:52:11 +0000 2011	4aa0166cf964a5203d3e20e3	{Ruby's Diner}	{33.69247955253079,-117.89255440235138,Costa Mesa,CA,United States}	{Food,}
+1045	Thu Jan 27 05:48:32 +0000 2011	4c2c08dfb34ad13a57d3eace	{Half & Half Tea House ???}	{34.06363673723252,-118.13453793525696,Monterey Park,CA,United States}	{Food,}
+1045	Thu Jan 27 03:42:53 +0000 2011	4afe3135f964a520a32e22e3	{Din Tai Fung Dumpling House #1}	{34.1271838709909,-118.05431306362152,Arcadia,CA,United States}	{Food,}
+1045	Wed Jan 26 09:57:15 +0000 2011	4d3feeb71bd2a143ad96ed7c	{David Chau's Hizzzzouse}	{33.74405895763876,-117.95418937685704,Westminster,CA,United States}	{Residence,}
+1045	Wed Jan 26 05:42:05 +0000 2011	4b932683f964a520eb3734e3	{Tasty Garden}	{33.74534470954955,-117.96447664656763,Westminster,CA,United States}	{Food,}
+1045	Wed Jan 26 05:40:12 +0000 2011	4d3f9d74adb6236a2aef8040	{OC First Food Truck Car And Motorcycle Meet}	{33.744471833333336,-117.97335376666666,,,United States}	{Nightlife Spot,}
+1045	Wed Jan 26 01:21:06 +0000 2011	42829c80f964a52040221fe3	{Irvine Spectrum Center}	{33.65035092225259,-117.74352550506592,Irvine,CA,United States}	{Shop & Service,Arts & Entertainment,Movie Theater,}
+1045	Tue Jan 25 22:59:12 +0000 2011	4b33bd25f964a520321e25e3	{Starbucks}	{33.69167391582516,-117.88797855377197,Costa Mesa,CA,United States}	{Food,}
+1045	Tue Jan 25 05:17:59 +0000 2011	4b22d3a5f964a520504e24e3	{Walmart}	{33.69977903558792,-117.98629760742188,Huntington Beach,CA,United States}	{Shop & Service,}
+1045	Tue Jan 25 03:57:09 +0000 2011	4ba2dac4f964a5205a1e38e3	{Thai Pepper}	{33.70073499678033,-117.99035093162018,Huntington Beach,CA,United States}	{Food,}
+1045	Tue Jan 25 02:54:42 +0000 2011	4b2830dff964a5208c9024e3	{Westminster Mall}	{33.74710908,-118.0117893,Westminster,CA,United States}	{Shop & Service,Food,}
+1045	Tue Jan 25 02:24:59 +0000 2011	4b6ce0e7f964a520255b2ce3	{PETCO}	{33.759604,-118.008374,Westminster,CA,United States}	{Shop & Service,}
+1045	Tue Jan 25 02:04:14 +0000 2011	4ad12c6af964a5203fdd20e3	{The Home Depot}	{33.76111417840925,-118.01285396743978,Westminster,CA,United States}	{Shop & Service,}
+1045	Tue Jan 25 01:10:26 +0000 2011	4c3c8539933b0f472825e421	{Animal Medical Center}	{33.72348088501078,-117.91934212381517,Fountain Valley,CA,United States}	{Medical Center,Professional & Other Places,}
+1045	Mon Jan 24 06:58:14 +0000 2011	4a878970f964a520a50420e3	{AMC Orange 30}	{33.7825716472443,-117.8934046626091,Orange,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1045	Mon Jan 24 04:07:55 +0000 2011	4b149346f964a520cda423e3	{Van's Bakery}	{33.74370598302026,-117.97385679400733,Westminster,CA,United States}	{Food,}
+1045	Mon Jan 24 01:03:55 +0000 2011	45db8eb5f964a520fd421fe3	{Disney California Adventure Park}	{33.80798489664312,-117.91896778777333,Anaheim,CA,United States}	{Arts & Entertainment,}
+1045	Sun Jan 23 19:52:44 +0000 2011	4b880521f964a5206fd931e3	{Starbucks}	{33.767291225367785,-117.97290164296535,Garden Grove,CA,United States}	{Food,}
+1045	Sun Jan 23 01:16:13 +0000 2011	4ae3ae43f964a520159821e3	{Victory Restaurant}	{34.062329,-118.113982,Monterey park,CA,United States}	{Food,}
+1045	Sat Jan 22 07:24:05 +0000 2011	4abea135f964a520f58e20e3	{Walmart}	{33.76800585653717,-117.99221529088146,Westminster,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1045	Sat Jan 22 07:04:18 +0000 2011	4b69199ff964a52021992be3	{Volcano Tea House}	{33.7603685300756,-117.95435239908267,Garden Grove,CA,United States}	{Nightlife Spot,Food,}
+1045	Fri Jan 21 23:57:10 +0000 2011	4af49a91f964a52042f421e3	{Souplantation}	{33.702259,-117.9336,Fountain Valley,CA,United States}	{Food,}
+1045	Fri Jan 21 05:19:10 +0000 2011	4ad262b2f964a5204ce120e3	{Dave & Buster's}	{33.78495253624139,-117.89393305778503,Orange,CA,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+1045	Fri Jan 21 03:20:33 +0000 2011	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+1045	Fri Jan 21 00:53:01 +0000 2011	4c3c8539933b0f472825e421	{Animal Medical Center}	{33.72348088501078,-117.91934212381517,Fountain Valley,CA,United States}	{Medical Center,Professional & Other Places,}
+1045	Fri Jan 21 00:53:01 +0000 2011	4c3c8539933b0f472825e421	{Animal Medical Center}	{33.72348088501078,-117.91934212381517,Fountain Valley,CA,United States}	{Medical Center,Professional & Other Places,}
+1045	Thu Jan 20 07:51:56 +0000 2011	4b69199ff964a52021992be3	{Volcano Tea House}	{33.7603685300756,-117.95435239908267,Garden Grove,CA,United States}	{Nightlife Spot,Food,}
+1045	Thu Jan 20 07:51:56 +0000 2011	4b69199ff964a52021992be3	{Volcano Tea House}	{33.7603685300756,-117.95435239908267,Garden Grove,CA,United States}	{Nightlife Spot,Food,}
+1045	Thu Jan 20 04:47:48 +0000 2011	4b0775bff964a520cbfd22e3	{Banana Bay}	{33.9880277179208,-117.90644037886601,Rowland Heights,CA,United States}	{Nightlife Spot,Food,}
+1045	Wed Jan 19 21:28:06 +0000 2011	4b761b13f964a5200a3d2ee3	{Chuck E. Cheese's}	{33.73681962490082,-118.016574,Huntington Beach,CA,United States}	{Food,Arts & Entertainment,}
+1045	Wed Jan 19 20:58:46 +0000 2011	4c2b9dec8ef52d7ff7ab31ba	{Gala Bakery}	{33.74407768249512,-117.96712517738342,Westminster,CA,United States}	{Food,}
+1045	Wed Jan 19 04:21:29 +0000 2011	4b9ed29bf964a5206d0437e3	{Sushi Asahi}	{33.90974489422525,-117.43582248687744,Riverside,CA,United States}	{Food,}
+1045	Tue Jan 18 23:30:11 +0000 2011	4c3c8539933b0f472825e421	{Animal Medical Center}	{33.72348088501078,-117.91934212381517,Fountain Valley,CA,United States}	{Medical Center,Professional & Other Places,}
+1045	Tue Jan 18 23:13:39 +0000 2011	4b5913f7f964a5207a7b28e3	{Starbucks}	{33.729669,-117.955058,Fountain Valley,CA,United States}	{Food,}
+1045	Tue Jan 18 01:22:38 +0000 2011	4c4caddd13d120a16f4ab900	{Ha Noi Avenue}	{33.75908952,-117.98237017,Westminster,CA,United States}	{Food,}
+1045	Tue Jan 18 01:09:56 +0000 2011	4beb495161aca593d2e98400	{Top Baguette}	{33.74429891852682,-117.97176539897919,Westminster,CA,United States}	{Food,}
+1045	Mon Jan 17 23:26:29 +0000 2011	4b005a84f964a520393d22e3	{Sam's Club}	{33.71409502,-117.9558706,Fountain Valley,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1045	Mon Jan 17 22:44:49 +0000 2011	4ba3f111f964a520d16f38e3	{Starbucks}	{33.74560046895137,-118.01229880630325,Westminster,CA,United States}	{Food,}
+1045	Mon Jan 17 05:30:43 +0000 2011	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+1045	Mon Jan 17 02:48:58 +0000 2011	45db8eb5f964a520fd421fe3	{Disney California Adventure Park}	{33.80798489664312,-117.91896778777333,Anaheim,CA,United States}	{Arts & Entertainment,}
+1045	Mon Jan 17 02:06:16 +0000 2011	4b9aad5ef964a52022cc35e3	{Ruby's Diner}	{33.832409362885095,-117.92830288410187,Anaheim,CA,United States}	{Food,}
+1045	Mon Jan 17 00:54:13 +0000 2011	4b575033f964a520c63028e3	{Starbucks}	{33.78132321457607,-117.8919267654419,Orange,CA,United States}	{Food,}
+1045	Sun Jan 16 05:10:40 +0000 2011	4b7764caf964a5209c972ee3	{kz8}	{33.7747460603714,-117.91725558333333,Garden Grove,CA,United States}	{Nightlife Spot,}
+1045	Sat Jan 15 10:15:20 +0000 2011	4c029fb258dad13abaf34797	{M&M Donuts}	{33.80282938167959,-117.93776035308838,Anaheim,CA,United States}	{Food,}
+1045	Sat Jan 15 06:28:32 +0000 2011	4a5fe3caf964a52079c01fe3	{Boomers!}	{33.717959215236185,-117.97130942344666,Fountain Valley,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1045	Fri Jan 14 22:02:06 +0000 2011	4c4caddd13d120a16f4ab900	{Ha Noi Avenue}	{33.75908952,-117.98237017,Westminster,CA,United States}	{Food,}
+1045	Fri Jan 14 20:19:43 +0000 2011	4bbe749fb083a593bf16a2e9	{Le Nam Beauty Express}	{33.754183966666666,-117.95424,Garden Grove,CA,United States}	{Shop & Service,}
+1045	Fri Jan 14 09:58:05 +0000 2011	4b5ac9bdf964a520a9d428e3	{Seaside Donuts Bakery}	{33.608571,-117.929088,Newport Beach,CA,United States}	{Food,}
+1045	Fri Jan 14 02:08:09 +0000 2011	4b69199ff964a52021992be3	{Volcano Tea House}	{33.7603685300756,-117.95435239908267,Garden Grove,CA,United States}	{Nightlife Spot,Food,}
+1045	Fri Jan 14 00:41:47 +0000 2011	4a85f33bf964a520c7ff1fe3	{IKEA}	{33.69040630593994,-117.91617393493652,Costa Mesa,CA,United States}	{Shop & Service,}
+1045	Fri Jan 14 00:00:11 +0000 2011	4c4caddd13d120a16f4ab900	{Ha Noi Avenue}	{33.75908952,-117.98237017,Westminster,CA,United States}	{Food,}
+1045	Thu Jan 13 21:32:53 +0000 2011	4ad2440af964a52088e020e3	{Brodard Restaurant}	{33.7580276912933,-117.95655727386475,Garden Grove,CA,United States}	{Food,}
+1045	Thu Jan 13 07:19:50 +0000 2011	4c2c08dfb34ad13a57d3eace	{Half & Half Tea House ???}	{34.06363673723252,-118.13453793525696,Monterey Park,CA,United States}	{Food,}
+1045	Thu Jan 13 04:17:46 +0000 2011	4a95ff27f964a520c82520e3	{Alondra Hot Wings}	{34.092622,-118.13257743406557,Alhambra,CA,United States}	{Nightlife Spot,Food,}
+1045	Thu Jan 13 02:11:59 +0000 2011	4abd8e1af964a520f58a20e3	{Target}	{33.67145407889219,-117.95574809206711,Huntington Beach,CA,United States}	{Shop & Service,}
+1045	Thu Jan 13 01:27:08 +0000 2011	4b005a84f964a520393d22e3	{Sam's Club}	{33.71409502,-117.9558706,Fountain Valley,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1045	Wed Jan 12 02:35:32 +0000 2011	45db8eb5f964a520fd421fe3	{Disney California Adventure Park}	{33.80798489664312,-117.91896778777333,Anaheim,CA,United States}	{Arts & Entertainment,}
+1045	Tue Jan 11 23:46:50 +0000 2011	4b19f4b7f964a52087e623e3	{Hot Pot City - Westminster}	{33.736458,-117.95385952,Westminster,CA,United States}	{Food,}
+1045	Tue Jan 11 22:05:32 +0000 2011	4b70627af964a52001172de3	{Department Of Motor Vehicles}	{33.764061,-117.997952,Westminster,CA,United States}	{Professional & Other Places,}
+1045	Tue Jan 11 21:54:15 +0000 2011	4b11af07f964a5202d8223e3	{Starbucks}	{33.75909583858359,-117.98923462629318,Westminster,CA,United States}	{Food,}
+1045	Tue Jan 11 07:34:27 +0000 2011	4b69199ff964a52021992be3	{Volcano Tea House}	{33.7603685300756,-117.95435239908267,Garden Grove,CA,United States}	{Nightlife Spot,Food,}
+1045	Mon Jan 10 08:34:14 +0000 2011	4ac6d052f964a5205bb620e3	{Lucky Strike}	{33.784778653330505,-117.89295941591263,Orange,CA,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+1045	Sun Jan 09 23:31:03 +0000 2011	4b69199ff964a52021992be3	{Volcano Tea House}	{33.7603685300756,-117.95435239908267,Garden Grove,CA,United States}	{Nightlife Spot,Food,}
+1045	Sun Jan 09 04:31:11 +0000 2011	4b7764caf964a5209c972ee3	{kz8}	{33.7747460603714,-117.91725558333333,Garden Grove,CA,United States}	{Nightlife Spot,}
+1045	Sun Jan 09 01:39:37 +0000 2011	4b319257f964a520380925e3	{Target}	{33.745649760099155,-118.01231596095596,Westminster,CA,United States}	{Shop & Service,}
+1045	Sat Jan 08 23:59:50 +0000 2011	4c4caddd13d120a16f4ab900	{Ha Noi Avenue}	{33.75908952,-117.98237017,Westminster,CA,United States}	{Food,}
+1045	Sat Jan 08 10:05:59 +0000 2011	4abea135f964a520f58e20e3	{Walmart}	{33.76800585653717,-117.99221529088146,Westminster,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1045	Sat Jan 08 09:47:34 +0000 2011	4b69199ff964a52021992be3	{Volcano Tea House}	{33.7603685300756,-117.95435239908267,Garden Grove,CA,United States}	{Nightlife Spot,Food,}
+1045	Fri Jan 07 01:31:38 +0000 2011	4b005a84f964a520393d22e3	{Sam's Club}	{33.71409502,-117.9558706,Fountain Valley,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1045	Fri Jan 07 01:13:52 +0000 2011	4b7b2163f964a52031532fe3	{Stater Bros.}	{33.71696681322621,-117.935675380354,Fountain Valley,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1045	Fri Jan 07 00:36:08 +0000 2011	4ac3fb3bf964a520bc9d20e3	{Costco Wholesale}	{33.70350999010908,-117.93120503425598,Fountain Valley,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1045	Fri Jan 07 00:05:55 +0000 2011	4b6ce0e7f964a520255b2ce3	{PETCO}	{33.759604,-118.008374,Westminster,CA,United States}	{Shop & Service,}
+1045	Thu Jan 06 09:34:13 +0000 2011	4a693645f964a520c8cb1fe3	{JJ Cafe}	{34.062713,-118.128935,Monterey Park,CA,United States}	{Food,}
+1045	Thu Jan 06 07:03:41 +0000 2011	4a6e5678f964a52086d41fe3	{Fountain Bowl}	{33.71479486590416,-117.9534314645626,Fountain Valley,CA,United States}	{Arts & Entertainment,}
+1045	Wed Jan 05 22:50:07 +0000 2011	4bc7c38e8b7c9c74f22c37cf	{L.Y.L Garden Restaurant}	{34.06229894,-118.129328,Monterey Park,CA,United States}	{Food,}
+1045	Wed Jan 05 03:41:16 +0000 2011	4b37e87ef964a520644825e3	{Ganda Restaurant}	{34.102154,-118.305844,Los Angeles,CA,United States}	{Food,}
+1045	Tue Jan 04 07:26:32 +0000 2011	4c2c08dfb34ad13a57d3eace	{Half & Half Tea House ???}	{34.06363673723252,-118.13453793525696,Monterey Park,CA,United States}	{Food,}
+1045	Tue Jan 04 00:19:37 +0000 2011	4be5cb29910020a10b81d314	{Spectrum Vision}	{33.76052075756684,-118.01045626401901,,,United States}	{}
+1045	Mon Jan 03 08:58:57 +0000 2011	4abea135f964a520f58e20e3	{Walmart}	{33.76800585653717,-117.99221529088146,Westminster,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1045	Mon Jan 03 08:58:26 +0000 2011	4abea135f964a520f58e20e3	{Walmart}	{33.76800585653717,-117.99221529088146,Westminster,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1045	Mon Jan 03 07:07:44 +0000 2011	4adbd45cf964a520d02a21e3	{Garden Cafe}	{34.07840442772536,-118.12448903918266,Alhambra,CA,United States}	{Food,}
+1045	Sun Jan 02 03:02:06 +0000 2011	4c36962e2c8020a1e4b08700	{Cham Sut Gol Korean BBQ}	{33.77336534348835,-117.96950423800753,Garden Grove,CA,United States}	{Food,}
+1045	Sat Jan 01 22:36:05 +0000 2011	4ba51514f964a5207eda38e3	{Fountain Valley Hand Car Wash}	{33.71618149534966,-117.9709341301189,Fountain Valley,CA,United States}	{Shop & Service,Outdoors & Recreation,}
+1045	Sat Jan 01 22:36:05 +0000 2011	4ba51514f964a5207eda38e3	{Fountain Valley Hand Car Wash}	{33.71618149534966,-117.9709341301189,Fountain Valley,CA,United States}	{Shop & Service,Outdoors & Recreation,}
+1045	Sat Jan 01 03:30:20 +0000 2011	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+1045	Sat Jan 01 00:33:50 +0000 2011	4b37e87ef964a520644825e3	{Ganda Restaurant}	{34.102154,-118.305844,Los Angeles,CA,United States}	{Food,}
+1045	Fri Dec 31 04:43:39 +0000 2010	4ba7e434f964a52051bc39e3	{Lucille's Smokehouse Bar-B-Que}	{33.8286617,-118.0863976,Long Beach,CA,United States}	{Food,}
+1045	Thu Dec 30 07:36:22 +0000 2010	4b932683f964a520eb3734e3	{Tasty Garden}	{33.74534470954955,-117.96447664656763,Westminster,CA,United States}	{Food,}
+1045	Wed Dec 29 05:01:05 +0000 2010	4c83007b74d7b60c6d6286d8	{Rite Aid}	{33.76170086556624,-117.95438671953234,Garden Grove,CA,United States}	{Shop & Service,}
+1045	Wed Dec 29 01:58:37 +0000 2010	4c36962e2c8020a1e4b08700	{Cham Sut Gol Korean BBQ}	{33.77336534348835,-117.96950423800753,Garden Grove,CA,United States}	{Food,}
+1045	Wed Dec 29 01:32:32 +0000 2010	4c2b9dec8ef52d7ff7ab31ba	{Gala Bakery}	{33.74407768249512,-117.96712517738342,Westminster,CA,United States}	{Food,}
+1045	Mon Dec 27 08:17:35 +0000 2010	4b0f5e21f964a520d06123e3	{Noodle World}	{34.077965002597566,-118.13092339278059,Alhambra,CA,United States}	{Food,}
+1045	Mon Dec 27 07:31:07 +0000 2010	4c2c08dfb34ad13a57d3eace	{Half & Half Tea House ???}	{34.06363673723252,-118.13453793525696,Monterey Park,CA,United States}	{Food,}

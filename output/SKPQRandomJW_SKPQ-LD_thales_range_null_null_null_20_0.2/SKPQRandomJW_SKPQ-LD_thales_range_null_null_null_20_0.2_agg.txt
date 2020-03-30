@@ -1,0 +1,4 @@
+#categoryName experimentName dataset neighborhood plusMode queryType numQueries numKeywords numResults radius mean stdev observations
+SKPQRandomJW SKPQ-LD thales range null null null 20 0.2 nodesAccessed 0.0 - 1
+SKPQRandomJW SKPQ-LD thales range null null null 20 0.2 totalExecutionTime 18378.0 - 1
+SKPQRandomJW SKPQ-LD thales range null null null 20 0.2 pageFaults 0.0 - 1

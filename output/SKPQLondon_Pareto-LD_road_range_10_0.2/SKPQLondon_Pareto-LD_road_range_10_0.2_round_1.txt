@@ -1,0 +1,4 @@
+#categoryName experimentName dataset neighborhood plusMode queryType numQueries numKeywords numResults radius item value min max observations
+SKPQLondon Pareto-LD road range 10 0.2 nodesAccessed 0.0 - 9223372036854775807 0 0
+SKPQLondon Pareto-LD road range 10 0.2 pageFaults 0.0 - 9223372036854775807 0 0
+SKPQLondon Pareto-LD road range 10 0.2 totalExecutionTime 541.0 - 541 541 1

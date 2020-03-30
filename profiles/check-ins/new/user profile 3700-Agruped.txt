@@ -1,0 +1,315 @@
+3700	Tue Aug 09 02:21:20 +0000 2011	4a9c9db9f964a520a63720e3	{Trader Joe's}	{34.03362165037406,-118.449418,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3700	Sun Aug 07 04:48:37 +0000 2011	4cb91226c7228cfaae860dce	{Scarpetta}	{34.06803014169043,-118.39917497226833,Beverly Hills,CA,United States}	{Food,}
+3700	Sat Aug 06 22:49:39 +0000 2011	49f22a60f964a520046a1fe3	{AMC Century City 15}	{34.05799270786358,-118.41881990432739,Los Angeles,CA,United States}	{Food,Arts & Entertainment,Movie Theater,}
+3700	Thu Aug 04 15:31:51 +0000 2011	4b05c64bf964a520f8e222e3	{GolinHarris}	{34.05033944752999,-118.25432114676315,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Thu Aug 04 00:56:34 +0000 2011	4a1e137ef964a520c27b1fe3	{Craft}	{34.05884600256191,-118.41362714767456,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+3700	Tue Aug 02 03:25:39 +0000 2011	4da2ca2c0f578cfa0ecba918	{Stella Barra}	{34.00673177175852,-118.48850332375005,Santa Monica,CA,United States}	{Food,}
+3700	Mon Aug 01 16:36:54 +0000 2011	4b05c64bf964a520f8e222e3	{GolinHarris}	{34.05033944752999,-118.25432114676315,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Fri Jul 29 02:44:44 +0000 2011	4a149a98f964a5205a781fe3	{M Street Kitchen}	{34.00654806750311,-118.48843932151794,Santa Monica,CA,United States}	{Food,}
+3700	Mon Jul 25 23:50:57 +0000 2011	4a0a30d5f964a5208e741fe3	{Apple Store, Century City}	{34.05845,-118.41977,Los Angeles,CA,United States}	{Shop & Service,}
+3700	Mon Jul 25 05:05:19 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+3700	Sun Jul 24 20:46:37 +0000 2011	4459d2f1f964a520d7321fe3	{Newark Liberty International Airport (EWR)}	{40.68968493541091,-74.17938709259033,Newark,NJ,United States}	{Travel & Transport,}
+3700	Sat Jul 23 22:41:49 +0000 2011	4c28955e360cef3b1c19bedc	{Heatpocalypse 2011 - NY}	{40.71551718935035,-74.00459289550781,New York,NY,United States}	{Outdoors & Recreation,}
+3700	Thu Jul 21 23:06:21 +0000 2011	4cc9a5760f7bef3b5f9c7fdd	{John Dory Oyster Bar}	{40.74588914242651,-73.98852104404719,New York,NY,United States}	{Food,}
+3700	Thu Jul 21 22:37:47 +0000 2011	4cc9a5760f7bef3b5f9c7fdd	{John Dory Oyster Bar}	{40.74588914242651,-73.98852104404719,New York,NY,United States}	{Food,}
+3700	Wed Jul 20 22:00:09 +0000 2011	4c2cdf2d8ef52d7fed9933ba	{InterContinental New York Times Square Hotel}	{40.75850533742767,-73.98914337158203,New York,NY,United States}	{Travel & Transport,Professional & Other Places,}
+3700	Mon Jul 18 14:33:38 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+3700	Sat Jul 16 20:56:32 +0000 2011	4aa01cc2f964a520583e20e3	{Nom Nom Truck}	{34.0619035713531,-118.3589744567871,Los Angeles,CA,United States}	{Food,}
+3700	Sat Jul 16 20:46:17 +0000 2011	4e21c55c7d8b71715bae7616	{Eat Real Festival at Helms Bakery District}	{34.030949483732805,-118.3847451210022,Los Angeles,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+3700	Fri Jul 15 02:57:32 +0000 2011	4a9c9db9f964a520a63720e3	{Trader Joe's}	{34.03362165037406,-118.449418,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3700	Fri Jul 15 02:24:20 +0000 2011	4b05c64bf964a520f8e222e3	{GolinHarris}	{34.05033944752999,-118.25432114676315,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Thu Jul 14 04:18:57 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+3700	Wed Jul 13 22:56:10 +0000 2011	4bc7da668b7c9c74225837cf	{Minneapolis-St. Paul International Airport (MSP)}	{44.884397546192474,-93.21178436279297,Minneapolis,MN,United States}	{Travel & Transport,}
+3700	Wed Jul 13 09:42:06 +0000 2011	4ad7a112f964a520050d21e3	{London Heathrow Airport (LHR)}	{51.47171,-0.468103,Hounslow,,United Kingdom}	{Travel & Transport,}
+3700	Wed Jul 13 06:55:22 +0000 2011	4beede26e8c3c928bd469992	{Queen Mary 2}	{50.90760958326795,-1.3941929327069476,Southampton,Southampton,United Kingdom}	{Travel & Transport,}
+3700	Wed Jul 06 21:58:45 +0000 2011	4bb2a06114cfd13a743c15ab	{Queen Mary 2}	{40.68190727012504,-74.01510715484619,Brooklyn,NY,United States}	{Travel & Transport,}
+3700	Wed Jul 06 17:49:49 +0000 2011	4e0deaaeb0fb59de67d0d6cd	{New York Terminal}	{40.76595705,-73.99482389,Manhattan,NY,United States}	{Travel & Transport,}
+3700	Mon Jul 04 01:01:56 +0000 2011	4c6bd4c47c052d7f83502acf	{Terminal 2}	{33.435542034921106,-112.01379060745239,Phoenix,AZ,United States}	{Travel & Transport,Airport,}
+3700	Sun Jul 03 20:43:26 +0000 2011	4777629bf964a5201a4d1fe3	{Harkins Theatres Tempe Marketplace 16}	{33.43376926727794,-111.90177083015442,Tempe,AZ,United States}	{Arts & Entertainment,Movie Theater,}
+3700	Sun Jul 03 18:23:09 +0000 2011	4b86e23ef964a520c5a331e3	{Heart & Soul Cafe}	{33.797729,-111.979779,Phoenix,AZ,United States}	{Food,}
+3700	Sat Jul 02 05:01:25 +0000 2011	413ba880f964a520121c1fe3	{Sapporo}	{33.61647155,-111.92625427,Scottsdale,AZ,United States}	{Food,}
+3700	Sat Jul 02 00:36:44 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+3700	Thu Jun 30 01:39:30 +0000 2011	4bbd5ddea0a0c9b658a01b0f	{Terminal A}	{32.90463204351341,-97.03712940216064,Fort Worth,TX,United States}	{Travel & Transport,Airport,}
+3700	Tue Jun 28 01:10:44 +0000 2011	4afa0aa3f964a520421622e3	{GolinHarris}	{32.927147543775,-96.81860118561725,Dallas,TX,United States}	{Professional & Other Places,}
+3700	Mon Jun 27 16:48:50 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+3700	Sat Jun 25 01:47:13 +0000 2011	4b05c64bf964a520f8e222e3	{GolinHarris}	{34.05033944752999,-118.25432114676315,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Thu Jun 23 23:56:28 +0000 2011	4b05c64bf964a520f8e222e3	{GolinHarris}	{34.05033944752999,-118.25432114676315,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Wed Jun 22 17:11:30 +0000 2011	49baa706f964a52091531fe3	{Griffith Park}	{34.13312079067809,-118.30146789550781,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+3700	Wed Jun 22 01:46:36 +0000 2011	4cc9c05ed338236a2181a47c	{Eveleigh}	{34.091087133576515,-118.38180541992188,West Hollywood,CA,United States}	{Outdoors & Recreation,Food,}
+3700	Sun Jun 19 02:30:19 +0000 2011	4dfa9f9618386e743d959308	{U2 360? Tour Concert @ Angel Stadium}	{33.79986948363153,-117.88308620452881,Anaheim,CA,United States}	{Stadium,Arts & Entertainment,}
+3700	Sun Jun 19 01:24:40 +0000 2011	4d9febb52305a35d1212c2af	{Angel Stadium Parking Lot}	{33.79954475911813,-117.88253967930427,Anaheim,CA,United States}	{Professional & Other Places,}
+3700	Sat Jun 18 19:16:43 +0000 2011	4b244990f964a5204e6524e3	{Umberto Salon}	{34.07115182202018,-118.40092652108532,Beverly Hills,CA,United States}	{Shop & Service,}
+3700	Sat Jun 18 17:02:35 +0000 2011	4158a980f964a5203d1d1fe3	{Starbucks}	{34.06680522834126,-118.41016709804535,Beverly Hills,CA,United States}	{Food,}
+3700	Fri Jun 17 17:09:21 +0000 2011	4b05c64bf964a520f8e222e3	{GolinHarris}	{34.05033944752999,-118.25432114676315,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Fri Jun 17 03:53:22 +0000 2011	4d09a7eaacd4a1cd9f1a7e93	{M?s Malo}	{34.04704355250367,-118.25595885515213,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+3700	Wed Jun 15 17:45:46 +0000 2011	4b05c64bf964a520f8e222e3	{GolinHarris}	{34.05033944752999,-118.25432114676315,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Wed Jun 15 03:49:25 +0000 2011	4776f004f964a520194d1fe3	{Chaya Brasserie}	{34.075440722707796,-118.38321620728011,Los Angeles,CA,United States}	{Food,}
+3700	Tue Jun 14 23:58:53 +0000 2011	4b05c64bf964a520f8e222e3	{GolinHarris}	{34.05033944752999,-118.25432114676315,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Mon Jun 13 22:55:42 +0000 2011	4b05c64bf964a520f8e222e3	{GolinHarris}	{34.05033944752999,-118.25432114676315,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Fri Jun 10 16:53:19 +0000 2011	4b59c4dcf964a520139728e3	{On Air with Ryan Seacrest}	{34.061748029092215,-118.35437178611755,Burbank,CA,United States}	{}
+3700	Fri Jun 10 04:24:26 +0000 2011	4cc9c05ed338236a2181a47c	{Eveleigh}	{34.091087133576515,-118.38180541992188,West Hollywood,CA,United States}	{Outdoors & Recreation,Food,}
+3700	Wed Jun 08 18:15:25 +0000 2011	4b05c64bf964a520f8e222e3	{GolinHarris}	{34.05033944752999,-118.25432114676315,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Wed Jun 08 01:29:53 +0000 2011	49e0a52df964a5205a611fe3	{Library Bar}	{34.049410396566316,-118.25661063194275,Los Angeles,CA,United States}	{Nightlife Spot,}
+3700	Mon Jun 06 23:47:08 +0000 2011	4b05c64bf964a520f8e222e3	{GolinHarris}	{34.05033944752999,-118.25432114676315,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Sat Jun 04 16:25:52 +0000 2011	4c41f1b5ce54e21edad90b1a	{Biomechanix Strength & Conditioning Clinic}	{34.029172453593006,-118.40657471330412,Los Angeles,CA,United States}	{Shop & Service,}
+3700	Sat Jun 04 16:25:52 +0000 2011	4c41f1b5ce54e21edad90b1a	{Biomechanix Strength & Conditioning Clinic}	{34.029172453593006,-118.40657471330412,Los Angeles,CA,United States}	{Shop & Service,}
+3700	Sat Jun 04 04:00:55 +0000 2011	49c27d4af964a520f6551fe3	{Dominick's}	{34.077024584793584,-118.38107646482612,West Hollywood,CA,United States}	{Food,}
+3700	Thu Jun 02 19:11:32 +0000 2011	4afa0aa3f964a520421622e3	{GolinHarris}	{32.927147543775,-96.81860118561725,Dallas,TX,United States}	{Professional & Other Places,}
+3700	Thu Jun 02 00:36:51 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+3700	Wed Jun 01 20:20:44 +0000 2011	4b05c64bf964a520f8e222e3	{GolinHarris}	{34.05033944752999,-118.25432114676315,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Wed Jun 01 03:30:40 +0000 2011	4be5f973cf200f471f09143c	{Wynn Nail Spa}	{34.06235265400686,-118.35100877804996,Los Angeles,CA,United States}	{Shop & Service,}
+3700	Mon May 30 23:42:35 +0000 2011	4c4671db96abd13ab8f76d01	{Field Section 1}	{34.073256274417055,-118.24036046862602,Los Angeles,CA,United States}	{}
+3700	Sun May 29 19:24:59 +0000 2011	413e4b80f964a520591c1fe3	{La Dijonaise}	{34.02992069721222,-118.384138,Culver City,CA,United States}	{Food,}
+3700	Sun May 29 05:12:21 +0000 2011	4cb91226c7228cfaae860dce	{Scarpetta}	{34.06803014169043,-118.39917497226833,Beverly Hills,CA,United States}	{Food,}
+3700	Sun May 29 00:48:05 +0000 2011	49f8e6b2f964a520376d1fe3	{The Peninsula Beverly Hills @ThePeninsulaBH}	{34.0659877750006,-118.41050551437249,Beverly Hills,CA,United States}	{Travel & Transport,Food,}
+3700	Fri May 27 05:02:10 +0000 2011	47cafdaef964a520024e1fe3	{The 3rd Stop}	{34.07358218,-118.380802,Los Angeles,CA,United States}	{Food,}
+3700	Tue May 24 03:27:06 +0000 2011	4ad2aeabf964a52079e220e3	{Whole Foods Market}	{34.07057793348581,-118.36047649383545,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3700	Mon May 23 16:19:54 +0000 2011	4b05c64bf964a520f8e222e3	{GolinHarris}	{34.05033944752999,-118.25432114676315,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Sat May 21 17:06:31 +0000 2011	4c41f1b5ce54e21edad90b1a	{Biomechanix Strength & Conditioning Clinic}	{34.029172453593006,-118.40657471330412,Los Angeles,CA,United States}	{Shop & Service,}
+3700	Thu May 19 02:17:20 +0000 2011	4b05c64bf964a520f8e222e3	{GolinHarris}	{34.05033944752999,-118.25432114676315,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Wed May 18 02:41:47 +0000 2011	4d5d6404b9b2a14364b3818c	{Fig & Olive}	{34.083389,-118.376276,Los Angeles,CA,United States}	{Food,}
+3700	Wed May 11 22:27:00 +0000 2011	4b05c64bf964a520f8e222e3	{GolinHarris}	{34.05033944752999,-118.25432114676315,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Tue May 10 15:52:41 +0000 2011	4d9b8af77ae5548135183a74	{Telemundo}	{34.15590180871165,-118.33526233263947,Van Nuys,CA,United States}	{}
+3700	Sat May 07 20:06:23 +0000 2011	4aa1f208f964a520b64120e3	{Little Next Door}	{34.072222,-118.36737,Los Angeles,CA,United States}	{Shop & Service,Food,}
+3700	Thu May 05 16:53:18 +0000 2011	4b05c64bf964a520f8e222e3	{GolinHarris}	{34.05033944752999,-118.25432114676315,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Thu May 05 02:18:19 +0000 2011	4ad2aeabf964a52079e220e3	{Whole Foods Market}	{34.07057793348581,-118.36047649383545,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3700	Tue May 03 21:29:40 +0000 2011	4a9e5cbbf964a520193a20e3	{Terminal 8}	{40.648785086174755,-73.78984451293945,Jamaica,NY,United States}	{Travel & Transport,Airport,}
+3700	Tue May 03 18:36:50 +0000 2011	3fd66200f964a52091e91ee3	{City Hall Restaurant}	{40.71626803835321,-74.00748169970981,New York,NY,United States}	{Food,}
+3700	Sat Apr 30 04:22:09 +0000 2011	4d5d6404b9b2a14364b3818c	{Fig & Olive}	{34.083389,-118.376276,Los Angeles,CA,United States}	{Food,}
+3700	Fri Apr 29 02:41:44 +0000 2011	4b098edff964a520651923e3	{LA Live}	{34.044232144840485,-118.26591789722443,Los Angeles,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+3700	Wed Apr 27 04:23:20 +0000 2011	4b9f29a2f964a5201a1637e3	{Ca?a Rum Bar}	{34.04464231625019,-118.26363436639994,Los Angeles,CA,United States}	{Nightlife Spot,}
+3700	Sun Apr 24 21:20:28 +0000 2011	4bf985838d30d13a385e0218	{Crenshaw Trails}	{33.757807131460616,-118.3678436922539,Rancho Palos Verdes,CA,United States}	{Outdoors & Recreation,}
+3700	Sat Apr 16 05:44:09 +0000 2011	49fa4a33f964a520e86d1fe3	{Madonna Inn}	{35.266925688950074,-120.67442893981934,San Luis Obispo,CA,United States}	{Travel & Transport,Hotel,}
+3700	Fri Apr 15 02:47:48 +0000 2011	49ecda07f964a520a0671fe3	{USC Annenberg School for Communication and Journalism (ASC)}	{34.02201319020797,-118.28622221946716,Los Angeles,CA,United States}	{College Academic Building,College & University,}
+3700	Sat Apr 09 18:32:05 +0000 2011	49e53bc3f964a520ab631fe3	{Apple Store}	{34.0722477377302,-118.357806470545,Los Angeles,CA,United States}	{Shop & Service,}
+3700	Fri Apr 08 03:28:06 +0000 2011	4d5d6404b9b2a14364b3818c	{Fig & Olive}	{34.083389,-118.376276,Los Angeles,CA,United States}	{Food,}
+3700	Sun Apr 03 01:50:19 +0000 2011	4b43db50f964a5203aec25e3	{Michael's Genuine Food & Drink}	{25.81323690007385,-80.19273992327388,Miami,FL,United States}	{Food,}
+3700	Sat Apr 02 17:55:55 +0000 2011	4a801f3ff964a520a6f41fe3	{The Standard Spa, Miami Beach}	{25.79225884634477,-80.14927742070202,Miami Beach,FL,United States}	{Travel & Transport,Shop & Service,}
+3700	Sat Apr 02 15:24:39 +0000 2011	4c0b9f18009a0f474551ebbf	{Sunny Isles Beach}	{25.950558785921125,-80.12073755264282,Sunny Isles Beach,FL,United States}	{Outdoors & Recreation,}
+3700	Wed Mar 30 17:42:19 +0000 2011	49d91c12f964a520015e1fe3	{The Kati Roll Company}	{40.75276760375483,-73.98493766784668,New York,NY,United States}	{Food,}
+3700	Sun Mar 27 22:37:01 +0000 2011	4bf07aaf1f17ef3b12c99bc8	{Amtrak Acela 258}	{40.74238,-73.98777,New York,NY,United States}	{Travel & Transport,Train Station,}
+3700	Sun Mar 27 02:07:23 +0000 2011	4bc26c91461576b05e757d32	{Pupuseria San Miguel}	{38.929239366666664,-77.03746771666667,Washington,DC,United States}	{Food,}
+3700	Sat Mar 26 20:22:20 +0000 2011	4c07cfdba9c076b086763923	{Meridian Pint}	{38.93196449466373,-77.02852070331573,Washington,DC,United States}	{Nightlife Spot,Food,}
+3700	Fri Mar 25 19:21:08 +0000 2011	4aaad7a0f964a520ae5720e3	{Amtrak Acela 2173}	{40.82209854882591,-73.9116320675977,New York,NY,United States}	{Travel & Transport,Train Station,}
+3700	Wed Mar 23 20:35:18 +0000 2011	4a61e652f964a520a2c21fe3	{Babies "R" Us}	{40.7355557908417,-73.9897434431147,New York,NY,United States}	{Shop & Service,Clothing Store,}
+3700	Sat Mar 12 18:21:20 +0000 2011	4a8992aaf964a520700820e3	{Starbucks}	{34.05487655314324,-118.38365556435654,Los Angeles,CA,United States}	{Food,}
+3700	Fri Mar 04 04:17:30 +0000 2011	4d4c8fec7e686dcb4a432dfa	{Playa}	{34.07601191883156,-118.35031251827427,Los Angeles,CA,United States}	{Spanish Restaurant,Food,}
+3700	Sat Feb 26 19:00:23 +0000 2011	4c5ef77bfff99c74eda954d3	{Eataly}	{40.74186151409088,-73.98943362953369,New York,NY,United States}	{Shop & Service,Food,Food & Drink Shop,}
+3700	Sat Feb 26 04:34:02 +0000 2011	45dffe2cf964a5201d431fe3	{Morandi}	{40.7353238036913,-74.00177121162415,New York,NY,United States}	{Food,}
+3700	Fri Feb 25 19:27:56 +0000 2011	4b998a8ff964a520098235e3	{ABC Kitchen}	{40.73779798692258,-73.98969179260743,New York,NY,United States}	{Food,}
+3700	Sun Feb 13 18:46:59 +0000 2011	4d4580b81911a0935acee2d8	{Queen Victoria}	{33.746058,-118.276103,,,United States}	{}
+3700	Sun Feb 13 18:46:59 +0000 2011	4d4580b81911a0935acee2d8	{Queen Victoria}	{33.746058,-118.276103,,,United States}	{}
+3700	Sat Feb 12 06:44:33 +0000 2011	4ab99bfaf964a520028020e3	{Wilshire Restaurant}	{34.034804011251936,-118.47839276795985,Santa Monica,CA,United States}	{Nightlife Spot,Food,}
+3700	Thu Feb 10 04:35:46 +0000 2011	40b68100f964a5206a001fe3	{California State University, Long Beach (CSULB)}	{33.782775296708536,-118.11449408964512,Long Beach,CA,United States}	{College & University,}
+3700	Wed Feb 09 02:24:48 +0000 2011	4576ad82f964a520aa3e1fe3	{Beverly Wilshire Beverly Hills - A Four Seasons Hotel}	{34.06689854816261,-118.40075254440308,Beverly Hills,CA,United States}	{Nightlife Spot,Travel & Transport,Food,}
+3700	Mon Feb 07 02:34:48 +0000 2011	4bb1374cf964a5203a843ce3	{Burton Towers}	{34.072607089524936,-118.38258855231952,Los Angeles,CA,United States}	{}
+3700	Wed Feb 02 23:09:22 +0000 2011	4b05c64bf964a520f8e222e3	{GolinHarris}	{34.05033944752999,-118.25432114676315,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Wed Feb 02 02:57:16 +0000 2011	4a8202e4f964a52050f81fe3	{Wolfgang's Steakhouse}	{34.07133425438558,-118.40163968717987,Beverly Hills,CA,United States}	{Food,}
+3700	Tue Feb 01 22:25:18 +0000 2011	4c38b0b61e06d13a942d783e	{Community of Valencia}	{34.41569015785019,-118.55003356933594,Santa Clarita,CA,United States}	{Outdoors & Recreation,}
+3700	Tue Feb 01 06:28:22 +0000 2011	3fd66200f964a52047ef1ee3	{El Carmen}	{34.072174417981735,-118.36725592529407,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+3700	Mon Jan 31 03:44:47 +0000 2011	4a412d9ef964a520e7a41fe3	{Prince Seafood}	{33.858203,-118.080797,Cerritos,CA,United States}	{Food,}
+3700	Sun Jan 30 21:49:13 +0000 2011	4d4580b81911a0935acee2d8	{Queen Victoria}	{33.746058,-118.276103,,,United States}	{}
+3700	Sat Jan 29 21:29:02 +0000 2011	4bd5ae456798ef3b43b9638d	{Port of Los Angeles}	{33.7491410453016,-118.27800576383736,San Pedro,CA,United States}	{Outdoors & Recreation,Government Building,Professional & Other Places,}
+3700	Fri Jan 28 17:25:40 +0000 2011	4ad7e673f964a520ec0f21e3	{City Club on Bunker Hill}	{34.05293844691314,-118.25183715521314,Los Angeles,CA,United States}	{Food,Professional & Other Places,}
+3700	Thu Jan 27 17:55:02 +0000 2011	4b05c64bf964a520f8e222e3	{GolinHarris}	{34.05033944752999,-118.25432114676315,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Thu Jan 27 03:13:14 +0000 2011	4a6be87ef964a5203ad01fe3	{Omni Los Angeles Hotel at California Plaza}	{34.05244608293711,-118.25032889842987,Los Angeles,CA,United States}	{Travel & Transport,}
+3700	Sat Jan 22 17:50:34 +0000 2011	4abb7d4ef964a520d68320e3	{Loews Hollywood Hotel}	{34.10316995155632,-118.33869695663452,Hollywood,CA,United States}	{Travel & Transport,}
+3700	Fri Jan 21 16:43:31 +0000 2011	4b6c4932f964a520de2d2ce3	{Los Angeles Superior Stanley Mosk Courthouse}	{34.05532610656368,-118.24698686599731,Los Angeles,CA,United States}	{Government Building,Professional & Other Places,}
+3700	Fri Jan 21 04:36:17 +0000 2011	4abc28daf964a5209e8620e3	{The Bazaar by Jos? Andr?s}	{34.069808586498254,-118.3765743576951,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+3700	Wed Jan 19 19:37:55 +0000 2011	4b05c64bf964a520f8e222e3	{GolinHarris}	{34.05033944752999,-118.25432114676315,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Wed Jan 19 16:47:28 +0000 2011	4a8362edf964a520fcfa1fe3	{Starbucks}	{34.07054963119432,-118.40246125075579,Beverly Hills,CA,United States}	{Food,}
+3700	Wed Jan 19 00:45:25 +0000 2011	4b05c64bf964a520f8e222e3	{GolinHarris}	{34.05033944752999,-118.25432114676315,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Sun Jan 16 19:07:54 +0000 2011	4a9ac075f964a5207b3220e3	{Terminal 3}	{40.640888674046494,-73.78684043884277,Jamaica,NY,United States}	{Travel & Transport,Airport,}
+3700	Sun Jan 16 04:56:18 +0000 2011	4b539a4af964a52034a427e3	{Colicchio & Sons}	{40.742744720435844,-74.0076825440635,New York,NY,United States}	{Food,}
+3700	Sun Jan 16 02:35:05 +0000 2011	4ad15b84f964a5202dde20e3	{Top of the Standard}	{40.74099852663595,-74.00829655263671,New York,NY,United States}	{Nightlife Spot,}
+3700	Fri Jan 14 03:42:27 +0000 2011	43695300f964a5208c291fe3	{Empire State Building}	{40.74828059076867,-73.98556262254715,New York,NY,United States}	{Outdoors & Recreation,Arts & Entertainment,Professional & Other Places,}
+3700	Fri Jan 14 01:51:47 +0000 2011	4276bf00f964a52086211fe3	{The Ritz-Carlton New York, Battery Park}	{40.7056421107192,-74.01703018064087,New York,NY,United States}	{Travel & Transport,}
+3700	Thu Jan 13 21:33:09 +0000 2011	4af6f15af964a520400422e3	{Pier 88}	{40.764713885088895,-73.99824142456055,New York,NY,United States}	{Travel & Transport,}
+3700	Thu Dec 30 19:30:34 +0000 2010	4d0e57df7d28721e76bcfd20	{Fiesta Floats}	{34.12814871424487,-117.9314992421802,Irwindale,CA,United States}	{Professional & Other Places,}
+===
+3700	Sat Dec 04 22:34:48 +0000 2010	4b624808f964a52029402ae3	{Gap}	{34.059282528356015,-118.41866348581051,Los Angeles,CA,United States}	{Shop & Service,}
+3700	Sat Dec 04 22:04:12 +0000 2010	4af5da14f964a520d3fd21e3	{Sephora}	{34.058198312172756,-118.41799603037992,Los Angeles,CA,United States}	{Shop & Service,}
+3700	Sat Nov 27 18:43:02 +0000 2010	4158a980f964a5203d1d1fe3	{Starbucks}	{34.06680522834126,-118.41016709804535,Beverly Hills,CA,United States}	{Food,}
+3700	Thu Nov 25 02:50:00 +0000 2010	49e56bb3f964a520cd631fe3	{Bellacures}	{34.06997685649584,-118.38392374278611,Beverly Hills,CA,United States}	{Shop & Service,}
+3700	Thu Nov 25 01:47:11 +0000 2010	4bb7f0ad98c7ef3b079e3002	{Gap}	{34.069902502743496,-118.40171813964842,Beverly Hills,CA,United States}	{Shop & Service,}
+3700	Thu Nov 25 00:30:17 +0000 2010	4b244990f964a5204e6524e3	{Umberto Salon}	{34.07115182202018,-118.40092652108532,Beverly Hills,CA,United States}	{Shop & Service,}
+3700	Fri Nov 19 23:01:54 +0000 2010	49e56bb3f964a520cd631fe3	{Bellacures}	{34.06997685649584,-118.38392374278611,Beverly Hills,CA,United States}	{Shop & Service,}
+3700	Fri Nov 19 20:01:37 +0000 2010	4adab784f964a520172421e3	{Starbucks}	{34.0881372425421,-118.37899446487427,West Hollywood,CA,United States}	{Food,}
+3700	Mon Nov 15 12:48:29 +0000 2010	4ace6c89f964a52078d020e3	{LaGuardia Airport (LGA)}	{40.773839,-73.87122,East Elmhurst,NY,United States}	{Travel & Transport,}
+3700	Sun Nov 14 20:04:07 +0000 2010	41044980f964a520750b1fe3	{Cafe Mogador}	{40.727293,-73.984517,New York,NY,United States}	{Food,}
+3700	Sat Nov 13 21:43:29 +0000 2010	42f15a80f964a520bc261fe3	{Studio 450}	{40.75212,-73.99976,New York,NY,United States}	{Professional & Other Places,}
+3700	Sat Nov 13 19:17:27 +0000 2010	4b08998bf964a520320f23e3	{Church of the Blessed Sacrament (R.C.)}	{40.7772917298741,-73.98068904876709,New York,NY,United States}	{Spiritual Center,Professional & Other Places,}
+3700	Sat Nov 13 06:12:30 +0000 2010	3fd66200f964a520a5e41ee3	{Crif Dogs}	{40.72704085086805,-73.98383596074753,New York,NY,United States}	{Food,}
+3700	Sat Nov 13 01:02:53 +0000 2010	49ce7e48f964a5204a5a1fe3	{Landmarc}	{40.76851554758871,-73.98194979831837,New York,NY,United States}	{Nightlife Spot,Food,}
+3700	Fri Nov 12 18:49:14 +0000 2010	4b5e4c9df964a520648829e3	{Mile End Delicatessen}	{40.68749723863854,-73.98718385680834,Brooklyn,NY,United States}	{Food,}
+3700	Fri Nov 12 15:11:34 +0000 2010	4afeee27f964a520cc3122e3	{Dunkin Donuts}	{40.735715328742785,-73.97948193619018,New York,NY,United States}	{Food,}
+3700	Fri Nov 12 00:13:20 +0000 2010	43a52546f964a520532c1fe3	{John F. Kennedy International Airport (JFK)}	{40.645089355976346,-73.7845230102539,Jamaica,NY,United States}	{Travel & Transport,}
+3700	Thu Nov 11 03:55:42 +0000 2010	4abb7d4ef964a520d68320e3	{Loews Hollywood Hotel}	{34.10316995155632,-118.33869695663452,Hollywood,CA,United States}	{Travel & Transport,}
+3700	Fri Nov 05 20:53:24 +0000 2010	4b05c64bf964a520f8e222e3	{GolinHarris}	{34.05033944752999,-118.25432114676315,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Thu Nov 04 03:20:59 +0000 2010	4b62449df964a5207d3f2ae3	{Jonathan Club Town}	{34.050953531289494,-118.25836969020261,Los Angeles,CA,United States}	{Nightlife Spot,Office,Professional & Other Places,}
+3700	Tue Nov 02 14:50:08 +0000 2010	4cceed50dd919eb0cf84139e	{Voting at BEVERLY HILLS CARMEL}	{34.072495,-118.382882,West Hollywood,CA,United States}	{Professional & Other Places,}
+3700	Fri Oct 29 22:25:25 +0000 2010	4aeb4117f964a5202bc021e3	{Dunkin Donuts}	{33.62261089301721,-111.89209172705615,Scottsdale,AZ,United States}	{Food,}
+3700	Wed Oct 27 19:04:36 +0000 2010	4b05c64bf964a520f8e222e3	{GolinHarris}	{34.05033944752999,-118.25432114676315,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Tue Oct 26 13:42:10 +0000 2010	4ab66dcaf964a5200f7720e3	{Pan Pacific Park}	{34.07356955256767,-118.35434736081477,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+3700	Sun Oct 24 18:06:42 +0000 2010	49ebc7d8f964a5202c671fe3	{Breadbar}	{34.073502,-118.38223,Los Angeles,CA,United States}	{Food,}
+3700	Wed Oct 20 00:02:34 +0000 2010	4b5565daf964a52053e327e3	{Hilton Checkers Los Angeles}	{34.049953836803695,-118.25454384769306,Los Angeles,CA,United States}	{Nightlife Spot,Travel & Transport,Shop & Service,}
+3700	Mon Oct 18 22:02:27 +0000 2010	4bfaebc765fbc9b613b7906c	{Golin Harris}	{34.05040692827801,-118.254092735252,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Sat Oct 16 20:41:17 +0000 2010	4aae825cf964a5204c6220e3	{Long Beach Convention Center}	{33.76427582964914,-118.19072377691555,Long Beach,CA,United States}	{Arts & Entertainment,Convention Center,Professional & Other Places,}
+3700	Thu Oct 14 15:31:35 +0000 2010	4abd1f03f964a5208f8820e3	{Complete Automotive Systems}	{34.03099,-118.391946,Los Angeles,CA,United States}	{Shop & Service,}
+3700	Mon Oct 11 14:12:19 +0000 2010	4caece0feb65b1f7cdb25ecd	{The Queen Elizabeth}	{50.903873,-1.426557,Southampton,Southampton,United Kingdom}	{Travel & Transport,}
+3700	Fri Oct 08 19:56:14 +0000 2010	4caece0feb65b1f7cdb25ecd	{The Queen Elizabeth}	{50.903873,-1.426557,Southampton,Southampton,United Kingdom}	{Travel & Transport,}
+3700	Fri Oct 08 07:29:10 +0000 2010	4bd9f2dcaae4ef3bfac76ec6	{Carnival House}	{50.901165384117206,-1.409468650817871,Southampton,Hampshire,United Kingdom}	{Professional & Other Places,}
+3700	Thu Oct 07 11:34:23 +0000 2010	4ad7a112f964a520050d21e3	{London Heathrow Airport (LHR)}	{51.47171,-0.468103,Hounslow,,United Kingdom}	{Travel & Transport,}
+3700	Sun Oct 03 03:27:17 +0000 2010	4c69e8c3b56e9c743ae8bf85	{Test Kitchen}	{34.055322935861696,-118.39752610338859,Los Angeles,CA,United States}	{Food,}
+3700	Sat Oct 02 19:15:18 +0000 2010	49e56bb3f964a520cd631fe3	{Bellacures}	{34.06997685649584,-118.38392374278611,Beverly Hills,CA,United States}	{Shop & Service,}
+3700	Sat Sep 25 19:54:42 +0000 2010	4bd75ece35aad13a54bc8ef3	{Latitude 33}	{33.98062144667065,-118.46349667912612,Marina del Rey,CA,United States}	{Professional & Other Places,}
+3700	Fri Sep 24 04:12:27 +0000 2010	4776f004f964a520194d1fe3	{Chaya Brasserie}	{34.075440722707796,-118.38321620728011,Los Angeles,CA,United States}	{Food,}
+3700	Fri Sep 17 05:02:06 +0000 2010	3fd66200f964a5200af01ee3	{The Veranda Bar/Lobby Lounge at Hotel Casa Del Mar}	{34.006448203846446,-118.49128033945463,Santa Monica,CA,United States}	{Nightlife Spot,Food,}
+3700	Sun Sep 05 18:40:22 +0000 2010	49f8e70bf964a520386d1fe3	{Sofitel Los Angeles}	{34.07607612971734,-118.37720774127529,Los Angeles,CA,United States}	{Travel & Transport,}
+3700	Sun Sep 05 06:05:05 +0000 2010	4a1eb4daf964a520d67b1fe3	{Ford's Filling Station}	{34.02326921864593,-118.39536130428314,Culver City,CA,United States}	{Nightlife Spot,Food,}
+3700	Sat Sep 04 20:05:13 +0000 2010	4c1003146b7e2d7f00f22635	{Pool @ The Langham Huntington}	{34.12018304019304,-118.13403197931183,Pasadena,CA,United States}	{Shop & Service,Outdoors & Recreation,}
+3700	Sat Sep 04 03:24:03 +0000 2010	410ed580f964a520cc0b1fe3	{Tiki Ti}	{34.09746969731344,-118.28573673963547,Los Angeles,CA,United States}	{Nightlife Spot,}
+3700	Sat Sep 04 01:06:41 +0000 2010	4ac6b90ff964a52006b620e3	{Umami Burger}	{34.10061138113151,-118.29054594039917,Los Angeles,CA,United States}	{Food,}
+3700	Thu Sep 02 02:39:21 +0000 2010	4abb7d4ef964a520d68320e3	{Loews Hollywood Hotel}	{34.10316995155632,-118.33869695663452,Hollywood,CA,United States}	{Travel & Transport,}
+3700	Fri Aug 27 03:41:40 +0000 2010	4b80968ef964a5201c7f30e3	{Sra. Martinez}	{25.81358707567623,-80.19156304830216,Miami,FL,United States}	{Food,}
+3700	Thu Aug 26 23:21:47 +0000 2010	4b89fb5df964a5200d5a32e3	{Miami International Airport (MIA)}	{25.794984114780963,-80.27576923370361,Miami,FL,United States}	{Travel & Transport,}
+3700	Thu Aug 26 20:46:42 +0000 2010	4a8a103af964a520c90920e3	{Hartsfield-Jackson Atlanta International Airport (ATL)}	{33.640669114843895,-84.43606853485107,Atlanta,GA,United States}	{Travel & Transport,}
+3700	Mon Aug 23 04:27:37 +0000 2010	4b157003f964a520daac23e3	{Il Fornaio}	{34.14639835189606,-118.1511110724561,Pasadena,CA,United States}	{Food,}
+3700	Mon Aug 16 23:35:48 +0000 2010	4b05c64bf964a520f8e222e3	{GolinHarris}	{34.05033944752999,-118.25432114676315,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Sat Aug 14 15:26:30 +0000 2010	4b244990f964a5204e6524e3	{Umberto Salon}	{34.07115182202018,-118.40092652108532,Beverly Hills,CA,United States}	{Shop & Service,}
+3700	Fri Aug 13 03:08:33 +0000 2010	4c64b6c9d02b20a17bcd9b90	{Phat Daddy's}	{42.27284,-84.42751,Jackson,MI,United States}	{}
+3700	Thu Aug 12 19:04:10 +0000 2010	4b154ff1f964a5208baf23e3	{Michigan International Speedway}	{42.0675182901052,-84.24367904663086,Brooklyn,MI,United States}	{Arts & Entertainment,}
+3700	Sun Aug 08 17:10:22 +0000 2010	411ff900f964a5202b0c1fe3	{Toast Bakery & Caf?}	{34.072670448300336,-118.36887085288602,Los Angeles,CA,United States}	{Food,}
+3700	Sun Aug 01 04:36:48 +0000 2010	4b832932f964a5200ffb30e3	{Todd English P.U.B.}	{36.107887969042935,-115.17593299673821,Las Vegas,NV,United States}	{Nightlife Spot,Food,}
+3700	Sun Jul 25 04:40:59 +0000 2010	4a7b9483f964a5207aeb1fe3	{Pantages Theatre}	{34.10185514030627,-118.32560777664185,Los Angeles,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+3700	Tue Jul 20 20:42:22 +0000 2010	4a7790c9f964a520d1e41fe3	{Mattel}	{33.92072700849644,-118.39207159799831,El Segundo,CA,United States}	{Professional & Other Places,}
+3700	Mon Jul 19 03:16:03 +0000 2010	4161e400f964a5206f1d1fe3	{The Hollywood Bowl}	{34.11223093293252,-118.33858966827391,Los Angeles,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+3700	Sat Jul 17 17:32:02 +0000 2010	45825e03f964a520733f1fe3	{Culver Hotel}	{34.023888,-118.394081,Culver City,CA,United States}	{Nightlife Spot,Travel & Transport,}
+3700	Sat Jul 17 01:57:35 +0000 2010	4c1032ff6b7e2d7f9b4f2735	{Bar Covell}	{34.10004,-118.290173,Los Angeles,CA,United States}	{Nightlife Spot,}
+3700	Fri Jul 16 15:47:19 +0000 2010	4ae867bef964a52021af21e3	{Starbucks}	{34.076114,-118.345113,Los Angeles,CA,United States}	{Food,}
+3700	Wed Jul 14 03:56:02 +0000 2010	4a6b9a88f964a52052cf1fe3	{Millennium Biltmore Hotel}	{34.04931521684163,-118.25345889171192,Los Angeles,CA,United States}	{Nightlife Spot,Travel & Transport,Hotel,}
+3700	Sun Jul 11 16:00:30 +0000 2010	49c902b7f964a5202a581fe3	{Starbucks}	{34.07702313820302,-118.38361322879791,Los Angeles,CA,United States}	{Food,}
+3700	Fri Jul 09 04:05:04 +0000 2010	47ed4758f964a5206a4e1fe3	{Pink Taco}	{34.05904154805371,-118.42042922973633,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+3700	Mon Jul 05 22:44:31 +0000 2010	4bd29185462cb71359b7dc07	{Culina, Modern Italian @CulinaLA}	{34.072744846343994,-118.389595,Los Angeles,CA,United States}	{Food,}
+3700	Mon Jul 05 16:57:58 +0000 2010	411ff900f964a5202b0c1fe3	{Toast Bakery & Caf?}	{34.072670448300336,-118.36887085288602,Los Angeles,CA,United States}	{Food,}
+3700	Sun Jul 04 21:04:42 +0000 2010	4a12d602f964a52092771fe3	{Porta Via}	{34.071188,-118.40133,Beverly Hills,CA,United States}	{Food,}
+3700	Sun Jul 04 20:27:19 +0000 2010	4a9ab4eff964a520463220e3	{Temescal Gateway State Park}	{34.0504193409921,-118.52952003479004,Pacific Palisades,CA,United States}	{Outdoors & Recreation,}
+3700	Sun Jul 04 03:07:26 +0000 2010	47cafdaef964a520024e1fe3	{The 3rd Stop}	{34.07358218,-118.380802,Los Angeles,CA,United States}	{Food,}
+3700	Fri Jul 02 21:15:47 +0000 2010	49ebc7d8f964a5202c671fe3	{Breadbar}	{34.073502,-118.38223,Los Angeles,CA,United States}	{Food,}
+3700	Fri Jul 02 17:58:00 +0000 2010	4b244990f964a5204e6524e3	{Umberto Salon}	{34.07115182202018,-118.40092652108532,Beverly Hills,CA,United States}	{Shop & Service,}
+3700	Fri Jul 02 03:09:29 +0000 2010	4ad6af7bf964a520240821e3	{Drago Centro}	{34.05117303109062,-118.2571020324603,Los Angeles,CA,United States}	{Food,}
+3700	Thu Jul 01 21:32:19 +0000 2010	4aabeb6ff964a520f55a20e3	{Franklin Canyon Park}	{34.121142247062544,-118.40943296823734,Beverly Hills,CA,United States}	{Outdoors & Recreation,}
+3700	Wed Jun 30 17:22:23 +0000 2010	4158a980f964a5203d1d1fe3	{Starbucks}	{34.06680522834126,-118.41016709804535,Beverly Hills,CA,United States}	{Food,}
+3700	Mon Jun 28 15:17:15 +0000 2010	4ae867bef964a52021af21e3	{Starbucks}	{34.076114,-118.345113,Los Angeles,CA,United States}	{Food,}
+3700	Sun Jun 27 17:07:40 +0000 2010	49ebc7d8f964a5202c671fe3	{Breadbar}	{34.073502,-118.38223,Los Angeles,CA,United States}	{Food,}
+3700	Sun Jun 27 06:39:14 +0000 2010	4a1eb4daf964a520d67b1fe3	{Ford's Filling Station}	{34.02326921864593,-118.39536130428314,Culver City,CA,United States}	{Nightlife Spot,Food,}
+3700	Sat Jun 26 06:44:23 +0000 2010	4161e400f964a5206f1d1fe3	{The Hollywood Bowl}	{34.11223093293252,-118.33858966827391,Los Angeles,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+3700	Thu Jun 24 21:56:00 +0000 2010	4aca4387f964a5201cc120e3	{Los Angeles Regional Foodbank}	{34.007849,-118.2419261,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Tue Jun 22 02:22:12 +0000 2010	4ad2aeabf964a52079e220e3	{Whole Foods Market}	{34.07057793348581,-118.36047649383545,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3700	Tue Jun 22 02:21:59 +0000 2010	4ad2aeabf964a52079e220e3	{Whole Foods Market}	{34.07057793348581,-118.36047649383545,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3700	Sun Jun 20 00:26:25 +0000 2010	49e56bb3f964a520cd631fe3	{Bellacures}	{34.06997685649584,-118.38392374278611,Beverly Hills,CA,United States}	{Shop & Service,}
+3700	Sat Jun 19 21:03:30 +0000 2010	4abcf5d5f964a520d68720e3	{Best Buy}	{34.09005646,-118.3442116,W Hollywood,CA,United States}	{Shop & Service,}
+3700	Fri Jun 18 02:23:05 +0000 2010	4aab0a74f964a520ad5820e3	{Chaya}	{34.051073245318705,-118.25727904829495,Los Angeles,CA,United States}	{Food,}
+3700	Sun Jun 13 15:38:12 +0000 2010	4ba4ea51f964a5208fc238e3	{4ideal fitness}	{34.049372,-118.445174,Los Angeles,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+3700	Sun Jun 13 03:21:37 +0000 2010	4bd29185462cb71359b7dc07	{Culina, Modern Italian @CulinaLA}	{34.072744846343994,-118.389595,Los Angeles,CA,United States}	{Food,}
+3700	Sat Jun 12 03:52:03 +0000 2010	4b75c0c6f964a52019222ee3	{Bronson Canyon Hike}	{34.12296974110063,-118.31525041746858,,CA,United States}	{Outdoors & Recreation,}
+3700	Thu Jun 10 01:43:41 +0000 2010	4aabeb6ff964a520f55a20e3	{Franklin Canyon Park}	{34.121142247062544,-118.40943296823734,Beverly Hills,CA,United States}	{Outdoors & Recreation,}
+3700	Sun Jun 06 21:25:04 +0000 2010	4a6cd367f964a520c1d11fe3	{Equinox}	{34.092629,-118.37909,West Hollywood,CA,United States}	{Outdoors & Recreation,Shop & Service,Gym / Fitness Center,}
+3700	Sat Jun 05 18:05:03 +0000 2010	4b92ac2ef964a520fc0f34e3	{Pasadena-Victory Park Farmer's Market}	{34.160539773028454,-118.09401512145996,Pasadena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3700	Fri Jun 04 23:06:09 +0000 2010	4b05c64bf964a520f8e222e3	{GolinHarris}	{34.05033944752999,-118.25432114676315,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Thu Jun 03 13:42:59 +0000 2010	46c72e3ef964a520154a1fe3	{The Franklin Institute}	{39.958142199403056,-75.17279148101807,Philadelphia,PA,United States}	{Museum,Arts & Entertainment,}
+3700	Tue Jun 01 12:50:13 +0000 2010	46c72e3ef964a520154a1fe3	{The Franklin Institute}	{39.958142199403056,-75.17279148101807,Philadelphia,PA,United States}	{Museum,Arts & Entertainment,}
+3700	Mon May 31 19:03:52 +0000 2010	40b28c80f964a520d3f81ee3	{Monks Belgian Cafe}	{39.9477629747096,-75.16807079315186,Philadelphia,PA,United States}	{Food,}
+3700	Mon May 31 05:01:31 +0000 2010	4ae78144f964a520f6ab21e3	{Le M?ridien Philadelphia}	{39.954526376389005,-75.16428835756588,Philadelphia,PA,United States}	{Travel & Transport,}
+3700	Sun May 30 21:25:30 +0000 2010	4a5a77a4f964a52062ba1fe3	{Chicago O'Hare International Airport (ORD)}	{41.977270920041626,-87.90440082550049,Chicago,IL,United States}	{Travel & Transport,}
+3700	Sat May 29 22:39:49 +0000 2010	49e56bb3f964a520cd631fe3	{Bellacures}	{34.06997685649584,-118.38392374278611,Beverly Hills,CA,United States}	{Shop & Service,}
+3700	Sun May 23 04:46:02 +0000 2010	4ac85ca5f964a52021bc20e3	{Amalfi Ristorante}	{34.074801452844696,-118.34419444000794,Los Angeles,CA,United States}	{Food,}
+3700	Sat May 22 18:55:23 +0000 2010	4b244990f964a5204e6524e3	{Umberto Salon}	{34.07115182202018,-118.40092652108532,Beverly Hills,CA,United States}	{Shop & Service,}
+3700	Fri May 14 15:33:59 +0000 2010	4ae867bef964a52021af21e3	{Starbucks}	{34.076114,-118.345113,Los Angeles,CA,United States}	{Food,}
+3700	Sat May 08 16:34:14 +0000 2010	49ebc7d8f964a5202c671fe3	{Breadbar}	{34.073502,-118.38223,Los Angeles,CA,United States}	{Food,}
+3700	Sat May 08 03:27:34 +0000 2010	4a30982cf964a52081991fe3	{The Must}	{34.047311,-118.249571,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+3700	Fri May 07 18:42:27 +0000 2010	4a7790c9f964a520d1e41fe3	{Mattel}	{33.92072700849644,-118.39207159799831,El Segundo,CA,United States}	{Professional & Other Places,}
+3700	Fri May 07 18:00:25 +0000 2010	4a775686f964a52032e41fe3	{Crumbs Bake Shop}	{34.071166709180694,-118.40375393629074,Beverly Hills,CA,United States}	{Food,}
+3700	Thu May 06 16:48:31 +0000 2010	4b05c64bf964a520f8e222e3	{GolinHarris}	{34.05033944752999,-118.25432114676315,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Wed May 05 20:15:15 +0000 2010	4b05c64bf964a520f8e222e3	{GolinHarris}	{34.05033944752999,-118.25432114676315,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Sun May 02 16:30:09 +0000 2010	408c5100f964a520c6f21ee3	{Tompkins Square Park}	{40.72651075083395,-73.98171901702881,New York,NY,United States}	{Outdoors & Recreation,}
+3700	Sat May 01 17:53:52 +0000 2010	4a7dff4df964a52091f01fe3	{The Biergarten at The Standard}	{40.7405579801227,-74.00777996246534,New York,NY,United States}	{Nightlife Spot,}
+3700	Sat May 01 03:33:49 +0000 2010	42f7f200f964a520d3261fe3	{Bar Americain}	{40.76201600107077,-73.98174047470093,New York,NY,United States}	{Food,}
+3700	Fri Apr 30 18:10:14 +0000 2010	3fd66200f964a52019e61ee3	{Olives}	{40.73659598589487,-73.98899737888202,New York,NY,United States}	{Nightlife Spot,Food,}
+3700	Thu Apr 29 02:01:00 +0000 2010	45b24bbef964a520a5411fe3	{Fig & Olive}	{40.74071594103628,-74.00694228811601,New York,NY,United States}	{Nightlife Spot,Food,}
+3700	Fri Apr 23 16:16:10 +0000 2010	450e79ebf964a5205d391fe3	{The Queen Mary}	{33.75267560467213,-118.19074630737305,Long Beach,CA,United States}	{Travel & Transport,Arts & Entertainment,}
+3700	Fri Apr 23 02:51:55 +0000 2010	4a6cd367f964a520c1d11fe3	{Equinox}	{34.092629,-118.37909,West Hollywood,CA,United States}	{Outdoors & Recreation,Shop & Service,Gym / Fitness Center,}
+3700	Thu Apr 22 02:37:20 +0000 2010	4a0a463ef964a52098741fe3	{Father's Office}	{34.03034486867974,-118.38460564613342,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+3700	Wed Apr 21 19:51:20 +0000 2010	4a7790c9f964a520d1e41fe3	{Mattel}	{33.92072700849644,-118.39207159799831,El Segundo,CA,United States}	{Professional & Other Places,}
+3700	Wed Apr 21 18:11:31 +0000 2010	4b05c64bf964a520f8e222e3	{GolinHarris}	{34.05033944752999,-118.25432114676315,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Tue Apr 20 15:07:23 +0000 2010	49ebc7d8f964a5202c671fe3	{Breadbar}	{34.073502,-118.38223,Los Angeles,CA,United States}	{Food,}
+3700	Tue Apr 20 02:31:27 +0000 2010	4a2895f9f964a52031951fe3	{Akasha}	{34.02294,-118.39553041666667,Culver City,CA,United States}	{Nightlife Spot,Food,}
+3700	Mon Apr 19 23:25:33 +0000 2010	4b05c64bf964a520f8e222e3	{GolinHarris}	{34.05033944752999,-118.25432114676315,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Sun Apr 18 23:24:28 +0000 2010	49e56bb3f964a520cd631fe3	{Bellacures}	{34.06997685649584,-118.38392374278611,Beverly Hills,CA,United States}	{Shop & Service,}
+3700	Sun Apr 18 21:01:05 +0000 2010	4b7d83a2f964a5209fc32fe3	{THEBlvd}	{34.0671947,-118.400949,Beverly Hills,CA,United States}	{Food,}
+3700	Sun Apr 18 15:19:46 +0000 2010	4bca1f5f511f9521f017afc7	{Live Earth Run for Water Los Angeles}	{34.014033,-118.28388,Los Angeles,CA,United States}	{Arts & Entertainment,}
+3700	Sun Apr 18 04:58:29 +0000 2010	4b01f6c8f964a520de4622e3	{Bouchon}	{34.06792950315861,-118.39921832084656,Beverly Hills,CA,United States}	{Nightlife Spot,Food,}
+3700	Fri Apr 16 21:24:45 +0000 2010	4b96f143f964a52062ef34e3	{Trimana Express}	{34.05321843908045,-118.25340749888957,Los Angeles,CA,United States}	{Food,}
+3700	Fri Apr 16 16:01:54 +0000 2010	4b05c64bf964a520f8e222e3	{GolinHarris}	{34.05033944752999,-118.25432114676315,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Fri Apr 16 03:09:02 +0000 2010	4b00dae2f964a520524122e3	{Sushi Roku}	{34.073318,-118.37480286,Los Angeles,CA,United States}	{Food,}
+3700	Wed Apr 14 16:26:46 +0000 2010	4b05c64bf964a520f8e222e3	{GolinHarris}	{34.05033944752999,-118.25432114676315,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Tue Apr 13 17:49:48 +0000 2010	4b05c64bf964a520f8e222e3	{GolinHarris}	{34.05033944752999,-118.25432114676315,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Tue Apr 13 15:45:11 +0000 2010	4ae867bef964a52021af21e3	{Starbucks}	{34.076114,-118.345113,Los Angeles,CA,United States}	{Food,}
+3700	Tue Apr 13 02:52:38 +0000 2010	4a94b53cf964a5205c2220e3	{Beverly Falafel}	{34.07337,-118.37689161300659,Los Angeles,CA,United States}	{Food,}
+3700	Sun Apr 11 22:18:39 +0000 2010	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+3700	Sun Apr 11 17:27:11 +0000 2010	44ca6929f964a52003361fe3	{Canteen}	{37.788557,-122.413769,San Francisco,CA,United States}	{Food,}
+3700	Sun Apr 11 05:55:04 +0000 2010	4681449cf964a52020481fe3	{Bar Bambino}	{37.76504576806311,-122.4183139750801,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+3700	Sun Apr 11 05:49:22 +0000 2010	4681449cf964a52020481fe3	{Bar Bambino}	{37.76504576806311,-122.4183139750801,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+3700	Sun Apr 11 05:48:58 +0000 2010	4681449cf964a52020481fe3	{Bar Bambino}	{37.76504576806311,-122.4183139750801,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+3700	Sun Apr 11 05:19:54 +0000 2010	4681449cf964a52020481fe3	{Bar Bambino}	{37.76504576806311,-122.4183139750801,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+3700	Sun Apr 11 05:19:18 +0000 2010	4681449cf964a52020481fe3	{Bar Bambino}	{37.76504576806311,-122.4183139750801,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+3700	Sun Apr 11 05:04:29 +0000 2010	4681449cf964a52020481fe3	{Bar Bambino}	{37.76504576806311,-122.4183139750801,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+3700	Sun Apr 11 04:33:28 +0000 2010	4681449cf964a52020481fe3	{Bar Bambino}	{37.76504576806311,-122.4183139750801,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+3700	Sat Apr 10 21:15:35 +0000 2010	4a60bf33f964a52021c11fe3	{International Orange}	{37.78851936840954,-122.43367698274422,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+3700	Fri Apr 09 05:35:49 +0000 2010	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+3700	Thu Apr 08 02:49:25 +0000 2010	4b04d20bf964a520b55622e3	{Waldorf Astoria Chicago}	{41.900002937324246,-87.62786162568102,Chicago,IL,United States}	{Travel & Transport,}
+3700	Wed Apr 07 13:47:02 +0000 2010	4a954640f964a520d42220e3	{GolinHarris}	{41.88821731391129,-87.6237597515102,Chicago,IL,United States}	{Professional & Other Places,}
+3700	Tue Apr 06 02:40:08 +0000 2010	4af2617af964a52090e721e3	{Tavern Restaurant}	{34.05353187252243,-118.4634567567226,Los Angeles,CA,United States}	{Food,}
+3700	Sun Apr 04 17:18:05 +0000 2010	4bb8c9ca3db7b713c79b219a	{Equniox}	{34.145250222286776,-118.38569827436416,Los Angeles,CA,United States}	{}
+3700	Sat Apr 03 17:47:18 +0000 2010	4158a980f964a5203d1d1fe3	{Starbucks}	{34.06680522834126,-118.41016709804535,Beverly Hills,CA,United States}	{Food,}
+3700	Thu Apr 01 18:48:04 +0000 2010	4b05c64bf964a520f8e222e3	{GolinHarris}	{34.05033944752999,-118.25432114676315,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Wed Mar 31 16:28:21 +0000 2010	4b05c64bf964a520f8e222e3	{GolinHarris}	{34.05033944752999,-118.25432114676315,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Wed Mar 31 16:16:46 +0000 2010	4b1409c4f964a5203a9c23e3	{Starbucks}	{34.04903259490317,-118.25546264648438,Los Angeles,CA,United States}	{Food,}
+3700	Wed Mar 31 01:12:30 +0000 2010	4adc4a06f964a520aa2b21e3	{LIFT west hollywood}	{34.08302994404914,-118.37625481191992,West Hollywood,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+3700	Tue Mar 30 15:42:55 +0000 2010	4b05c64bf964a520f8e222e3	{GolinHarris}	{34.05033944752999,-118.25432114676315,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Tue Mar 30 15:10:11 +0000 2010	4ae867bef964a52021af21e3	{Starbucks}	{34.076114,-118.345113,Los Angeles,CA,United States}	{Food,}
+3700	Mon Mar 29 19:31:33 +0000 2010	4a7790c9f964a520d1e41fe3	{Mattel}	{33.92072700849644,-118.39207159799831,El Segundo,CA,United States}	{Professional & Other Places,}
+3700	Sun Mar 28 06:52:37 +0000 2010	474dd5a6f964a520ae4c1fe3	{Seven Grand}	{34.04706520853107,-118.25592572903602,Los Angeles,CA,United States}	{Nightlife Spot,}
+3700	Sun Mar 28 05:05:31 +0000 2010	4ad6af7bf964a520240821e3	{Drago Centro}	{34.05117303109062,-118.2571020324603,Los Angeles,CA,United States}	{Food,}
+3700	Sat Mar 27 21:32:41 +0000 2010	49e56bb3f964a520cd631fe3	{Bellacures}	{34.06997685649584,-118.38392374278611,Beverly Hills,CA,United States}	{Shop & Service,}
+3700	Sat Mar 27 18:16:48 +0000 2010	4158a980f964a5203d1d1fe3	{Starbucks}	{34.06680522834126,-118.41016709804535,Beverly Hills,CA,United States}	{Food,}
+3700	Sat Mar 27 03:56:26 +0000 2010	4af4ecabf964a5207cf721e3	{Kiyokawa}	{34.06307781328657,-118.38370121177906,Beverly Hills,CA,United States}	{Food,}
+3700	Sat Mar 27 01:12:56 +0000 2010	4b9b3245f964a52039f935e3	{The Bar Room}	{34.07126224598308,-118.40140700340271,Beverly Hills,CA,United States}	{Nightlife Spot,}
+3700	Thu Mar 25 22:27:00 +0000 2010	4ad3abcbf964a52082e520e3	{La Salsa}	{34.05235804026711,-118.25692501644255,Los Angeles,CA,United States}	{Food,}
+3700	Thu Mar 25 22:22:53 +0000 2010	4b05c64bf964a520f8e222e3	{GolinHarris}	{34.05033944752999,-118.25432114676315,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Mon Mar 22 03:29:51 +0000 2010	4abc28daf964a5209e8620e3	{The Bazaar by Jos? Andr?s}	{34.069808586498254,-118.3765743576951,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+3700	Sun Mar 21 23:48:09 +0000 2010	4b36a7f9f964a520123a25e3	{CVS/pharmacy}	{34.06738069893558,-118.38939875364304,Los Angeles,CA,United States}	{Shop & Service,}
+3700	Sat Mar 20 23:04:55 +0000 2010	4b244990f964a5204e6524e3	{Umberto Salon}	{34.07115182202018,-118.40092652108532,Beverly Hills,CA,United States}	{Shop & Service,}
+3700	Sat Mar 20 22:56:42 +0000 2010	4a12d602f964a52092771fe3	{Porta Via}	{34.071188,-118.40133,Beverly Hills,CA,United States}	{Food,}
+3700	Sat Mar 20 20:03:05 +0000 2010	4ac261b3f964a520e19820e3	{Zara}	{34.05825047487592,-118.41970235109329,Los Angeles,CA,United States}	{Shop & Service,}
+3700	Sat Mar 20 16:22:37 +0000 2010	4a8992aaf964a520700820e3	{Starbucks}	{34.05487655314324,-118.38365556435654,Los Angeles,CA,United States}	{Food,}
+3700	Fri Mar 19 16:58:02 +0000 2010	4abd1f03f964a5208f8820e3	{Complete Automotive Systems}	{34.03099,-118.391946,Los Angeles,CA,United States}	{Shop & Service,}
+3700	Thu Mar 18 00:52:23 +0000 2010	4b07408df964a520b4fa22e3	{McCormick & Schmick's Seafood Restaurant}	{34.05116604102984,-118.25511932373047,Los Angeles,CA,United States}	{Food,}
+3700	Wed Mar 17 23:59:05 +0000 2010	4b05c64bf964a520f8e222e3	{GolinHarris}	{34.05033944752999,-118.25432114676315,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Wed Mar 17 14:37:35 +0000 2010	4ae867bef964a52021af21e3	{Starbucks}	{34.076114,-118.345113,Los Angeles,CA,United States}	{Food,}
+3700	Wed Mar 17 00:47:51 +0000 2010	4b05c64bf964a520f8e222e3	{GolinHarris}	{34.05033944752999,-118.25432114676315,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Wed Mar 17 00:32:37 +0000 2010	4ae1db29f964a520018821e3	{Starbucks}	{34.05084933841711,-118.25697069801305,Los Angeles,CA,United States}	{Food,}
+3700	Tue Mar 16 21:49:03 +0000 2010	4b05c64bf964a520f8e222e3	{GolinHarris}	{34.05033944752999,-118.25432114676315,Los Angeles,CA,United States}	{Professional & Other Places,}
+3700	Tue Mar 16 00:27:46 +0000 2010	49e56bb3f964a520cd631fe3	{Bellacures}	{34.06997685649584,-118.38392374278611,Beverly Hills,CA,United States}	{Shop & Service,}
+3700	Tue Mar 16 00:27:42 +0000 2010	49e56bb3f964a520cd631fe3	{Bellacures}	{34.06997685649584,-118.38392374278611,Beverly Hills,CA,United States}	{Shop & Service,}
+3700	Mon Mar 15 22:12:19 +0000 2010	49cff672f964a520e95a1fe3	{Beverly Center}	{34.075056969511444,-118.37755680084229,Los Angeles,CA,United States}	{Shop & Service,}
+3700	Sun Mar 14 18:04:30 +0000 2010	40a6af00f964a52027f31ee3	{Los Angeles County Museum of Art (LACMA)}	{34.063263442961286,-118.35897445678711,Los Angeles,CA,United States}	{Museum,Arts & Entertainment,}
+3700	Sun Mar 14 00:02:52 +0000 2010	49e56bb3f964a520cd631fe3	{Bellacures}	{34.06997685649584,-118.38392374278611,Beverly Hills,CA,United States}	{Shop & Service,}
+3700	Sat Mar 13 20:12:59 +0000 2010	4b4a1245f964a520a97926e3	{Cuvee Wine & Food}	{34.07356398381666,-118.38399410247803,West Hollywood,CA,United States}	{Shop & Service,Food,}
+3700	Sat Mar 13 03:06:56 +0000 2010	4ae277bdf964a5207a8e21e3	{Trader Joe's}	{34.1350345480128,-118.14691632986069,Pasadena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3700	Tue Mar 09 22:17:01 +0000 2010	4b9696b0f964a520d9d634e3	{Cunard Line}	{34.417603,-118.559803,Valencia,CA,United States}	{Professional & Other Places,}
+3700	Tue Mar 09 06:07:41 +0000 2010	47cafdaef964a520024e1fe3	{The 3rd Stop}	{34.07358218,-118.380802,Los Angeles,CA,United States}	{Food,}
+3700	Sun Mar 07 20:59:07 +0000 2010	4a710a73f964a52007d91fe3	{Pavilions}	{34.08374775659401,-118.38665485382079,West Hollywood,CA,United States}	{Shop & Service,Food & Drink Shop,}
+3700	Sat Mar 06 20:16:14 +0000 2010	4b4a1245f964a520a97926e3	{Cuvee Wine & Food}	{34.07356398381666,-118.38399410247803,West Hollywood,CA,United States}	{Shop & Service,Food,}
+3700	Sat Mar 06 03:48:52 +0000 2010	49d99505f964a5204b5e1fe3	{Comme ?a}	{34.08242754632714,-118.37587249742636,West Hollywood,CA,United States}	{Food,}
+3700	Fri Mar 05 21:14:37 +0000 2010	49ebc7d8f964a5202c671fe3	{Breadbar}	{34.073502,-118.38223,Los Angeles,CA,United States}	{Food,}

@@ -1,0 +1,55 @@
+83	Thu Aug 11 21:08:30 +0000 2011	4c8bf1c2c37a6dcbc4b5f27a	{Cml Studios}	{34.123704,-118.256502,Glendale,CA,United States}	{Professional & Other Places,}
+83	Thu Aug 11 02:09:41 +0000 2011	4a0f961df964a52077761fe3	{Los Angeles Athletic Club}	{34.04668296660482,-118.25518339747033,Los Angeles,CA,United States}	{Nightlife Spot,Shop & Service,Gym / Fitness Center,}
+83	Wed Aug 10 02:51:49 +0000 2011	4aa49017f964a5201b4720e3	{Shabu Shabu House}	{34.04892607663138,-118.2404445945765,Los Angeles,CA,United States}	{Food,}
+83	Mon Aug 08 14:41:53 +0000 2011	4a0f961df964a52077761fe3	{Los Angeles Athletic Club}	{34.04668296660482,-118.25518339747033,Los Angeles,CA,United States}	{Nightlife Spot,Shop & Service,Gym / Fitness Center,}
+83	Sun Aug 07 01:27:53 +0000 2011	4a1a3855f964a520897a1fe3	{Huntington Beach City Beach}	{33.66235342235485,-118.0099868774414,Huntington Beach,CA,United States}	{Outdoors & Recreation,Beach,}
+83	Fri Aug 05 13:52:26 +0000 2011	4a261b8af964a520a57e1fe3	{DoubleTree By Hilton Los Angeles Downtown}	{34.05065344561217,-118.24308864981691,Los Angeles,CA,United States}	{Travel & Transport,Hotel,}
+83	Fri Aug 05 03:07:38 +0000 2011	49fef470f964a520b96f1fe3	{Los Angeles Times}	{34.0527127559018,-118.24544191360474,Los Angeles,CA,United States}	{Travel & Transport,Shop & Service,Gym / Fitness Center,Professional & Other Places,}
+83	Fri Aug 05 01:11:11 +0000 2011	4b915a11f964a52066b533e3	{Los Angeles Toy District}	{34.046597184775415,-118.2450131309056,Los Angeles,CA,United States}	{Shop & Service,Outdoors & Recreation,}
+83	Thu Aug 04 15:08:55 +0000 2011	4c8d22035e38b1f7f58f37f9	{Hollywood Sign - Beachwood Canyon Trail}	{34.12863318104357,-118.31655759988774,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+83	Wed Aug 03 21:43:45 +0000 2011	4a8a103af964a520c90920e3	{Hartsfield-Jackson Atlanta International Airport (ATL)}	{33.640669114843895,-84.43606853485107,Atlanta,GA,United States}	{Travel & Transport,}
+83	Wed Aug 03 15:28:40 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+83	Wed Aug 03 11:02:38 +0000 2011	4ac9f532f964a52040c020e3	{Willow Studios}	{34.0398318,-118.231105,Los Angeles,CA,United States}	{Professional & Other Places,}
+83	Wed Aug 03 04:48:55 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+83	Wed Aug 03 02:33:38 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+83	Mon Aug 01 15:08:39 +0000 2011	409ad180f964a520eef21ee3	{Ocean Beach}	{37.769391721310974,-122.51133441925049,San Francisco,CA,United States}	{Outdoors & Recreation,Beach,}
+83	Mon Aug 01 03:07:03 +0000 2011	49f62829f964a520136c1fe3	{Lombard Street}	{37.80201075795017,-122.41885185241698,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+83	Sun Jul 31 16:43:09 +0000 2011	49ea8d17f964a5207c661fe3	{Bay Area Video Coalition}	{37.762874,-122.410492,San Francisco,CA,United States}	{College & University,}
+83	Sun Jul 31 00:50:02 +0000 2011	49f89f56f964a5200b6d1fe3	{Fly Bar on Sutter}	{37.787990822954356,-122.41828632185113,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+83	Sat Jul 30 18:43:28 +0000 2011	49ea8d17f964a5207c661fe3	{Bay Area Video Coalition}	{37.762874,-122.410492,San Francisco,CA,United States}	{College & University,}
+83	Wed Jul 27 00:50:48 +0000 2011	4a5d2ea0f964a52052bd1fe3	{Krav Maga San Francisco}	{37.78828669335433,-122.42143874304828,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+83	Mon Jul 25 20:19:56 +0000 2011	4ab019daf964a520e56520e3	{MEVIO, Inc.}	{37.782086,-122.392166,San Francisco,CA,United States}	{Office,Professional & Other Places,}
+83	Mon Jul 25 16:03:46 +0000 2011	4a996eccf964a5204e2e20e3	{US Post Office}	{37.7896435241985,-122.41912144615519,San Francisco,CA,United States}	{Professional & Other Places,}
+83	Mon Jul 25 13:44:31 +0000 2011	4d2aa3b055a8b60c402be1c0	{USA Gasoline}	{36.98501746357769,-121.98997868397494,Santa Cruz,CA,United States}	{Shop & Service,}
+83	Sun Jul 24 19:04:26 +0000 2011	4bc5f166f360ef3b7bd5da2d	{Capitola Beach}	{36.972052835468475,-121.95113000299604,Capitola,CA,United States}	{Outdoors & Recreation,}
+83	Sat Jul 23 20:53:11 +0000 2011	4b12d16ef964a520b88e23e3	{Los Gatos Farmers' Market}	{37.2222356295927,-121.98363720957204,Los Gatos,CA,United States}	{Shop & Service,Food & Drink Shop,}
+83	Sat Jul 23 00:20:28 +0000 2011	40c3b000f964a520e6001fe3	{Slim's}	{37.771468640899734,-122.41328649839697,San Francisco,CA,United States}	{Music Venue,Arts & Entertainment,}
+83	Fri Jul 22 16:00:27 +0000 2011	49ea8d17f964a5207c661fe3	{Bay Area Video Coalition}	{37.762874,-122.410492,San Francisco,CA,United States}	{College & University,}
+83	Thu Jul 21 18:48:57 +0000 2011	4bd3d793b221c9b6dfbfdad0	{Willie Mays Statue}	{37.77810819436273,-122.39142607050873,San Francisco,CA,United States}	{Outdoors & Recreation,}
+83	Thu Jul 21 00:03:24 +0000 2011	4328b980f964a520c5271fe3	{Swedish American Hall}	{37.76669260804149,-122.43050068616867,San Francisco,CA,United States}	{Music Venue,Arts & Entertainment,}
+83	Wed Jul 20 00:33:40 +0000 2011	4d62cfbb5b276dcb284034c6	{Westfield Under The Dome}	{37.78443131599154,-122.40629519588924,,,United States}	{Shop & Service,Professional & Other Places,}
+83	Tue Jul 19 01:40:22 +0000 2011	409ad180f964a520eef21ee3	{Ocean Beach}	{37.769391721310974,-122.51133441925049,San Francisco,CA,United States}	{Outdoors & Recreation,Beach,}
+83	Sun Jul 17 00:38:35 +0000 2011	4ac52e34f964a520cdb020e3	{Wells Fargo}	{37.79770100780875,-122.43075718897745,San Francisco,CA,United States}	{Shop & Service,}
+83	Sat Jul 16 22:41:04 +0000 2011	49f89f56f964a5200b6d1fe3	{Fly Bar on Sutter}	{37.787990822954356,-122.41828632185113,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+83	Fri Jul 15 19:33:55 +0000 2011	4a7f3527f964a52045f31fe3	{Poggio}	{37.85706206614229,-122.48069767446297,Sausalito,CA,United States}	{Food,}
+83	Thu Jul 14 02:27:36 +0000 2011	4a5d2ea0f964a52052bd1fe3	{Krav Maga San Francisco}	{37.78828669335433,-122.42143874304828,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+83	Wed Jul 13 15:42:07 +0000 2011	4ab019daf964a520e56520e3	{MEVIO, Inc.}	{37.782086,-122.392166,San Francisco,CA,United States}	{Office,Professional & Other Places,}
+83	Wed Jul 13 01:36:42 +0000 2011	3fd66200f964a520afed1ee3	{Sushi Rock}	{37.79156615539312,-122.42090781557978,San Francisco,CA,United States}	{Food,}
+83	Mon Jul 11 21:23:00 +0000 2011	4ab019daf964a520e56520e3	{MEVIO, Inc.}	{37.782086,-122.392166,San Francisco,CA,United States}	{Office,Professional & Other Places,}
+83	Sun Jul 10 20:45:57 +0000 2011	4bc5f166f360ef3b7bd5da2d	{Capitola Beach}	{36.972052835468475,-121.95113000299604,Capitola,CA,United States}	{Outdoors & Recreation,}
+83	Thu Jul 07 15:27:07 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+83	Thu Jul 07 03:33:44 +0000 2011	4a5d2ea0f964a52052bd1fe3	{Krav Maga San Francisco}	{37.78828669335433,-122.42143874304828,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+83	Wed Jul 06 21:45:16 +0000 2011	4ab019daf964a520e56520e3	{MEVIO, Inc.}	{37.782086,-122.392166,San Francisco,CA,United States}	{Office,Professional & Other Places,}
+83	Wed Jul 06 16:20:50 +0000 2011	4a7304dcf964a5206cdb1fe3	{Transamerica Pyramid}	{37.79532627096747,-122.40314785177175,San Francisco,CA,United States}	{Shop & Service,Arts & Entertainment,Professional & Other Places,}
+83	Wed Jul 06 04:49:16 +0000 2011	40bbc700f964a520b1001fe3	{Union Square}	{37.787750172585,-122.40762822536455,San Francisco,CA,United States}	{Outdoors & Recreation,}
+83	Tue Jul 05 14:42:59 +0000 2011	45073758f964a52021391fe3	{San Francisco Caltrain Station}	{37.776642582524694,-122.39486753940582,San Francisco,CA,United States}	{Travel & Transport,Train Station,}
+83	Tue Jul 05 04:11:43 +0000 2011	4bc5f166f360ef3b7bd5da2d	{Capitola Beach}	{36.972052835468475,-121.95113000299604,Capitola,CA,United States}	{Outdoors & Recreation,}
+83	Mon Jul 04 02:04:11 +0000 2011	4b50e4d7f964a5205f3727e3	{The Hook}	{36.960248890300775,-121.96511600315645,Capitola,CA,United States}	{Outdoors & Recreation,Beach,}
+83	Sun Jul 03 14:27:30 +0000 2011	4ac50c34f964a5202ca020e3	{7-Eleven}	{37.4159444268518,-122.0771841073936,Mountain View,CA,United States}	{Shop & Service,}
+83	Sat Jul 02 17:58:18 +0000 2011	40c8f600f964a520fe001fe3	{Shoreline Amphitheatre}	{37.42555592999895,-122.0794918584107,Mountain View,CA,United States}	{Arts & Entertainment,}
+83	Fri Jul 01 15:07:16 +0000 2011	409ad180f964a520eef21ee3	{Ocean Beach}	{37.769391721310974,-122.51133441925049,San Francisco,CA,United States}	{Outdoors & Recreation,Beach,}
+83	Thu Jun 30 19:38:54 +0000 2011	4ab019daf964a520e56520e3	{MEVIO, Inc.}	{37.782086,-122.392166,San Francisco,CA,United States}	{Office,Professional & Other Places,}
+83	Wed Jun 29 02:31:59 +0000 2011	4a5d2ea0f964a52052bd1fe3	{Krav Maga San Francisco}	{37.78828669335433,-122.42143874304828,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+83	Tue Jun 28 20:04:23 +0000 2011	4ab019daf964a520e56520e3	{MEVIO, Inc.}	{37.782086,-122.392166,San Francisco,CA,United States}	{Office,Professional & Other Places,}
+83	Mon Jun 27 19:01:36 +0000 2011	4ab019daf964a520e56520e3	{MEVIO, Inc.}	{37.782086,-122.392166,San Francisco,CA,United States}	{Office,Professional & Other Places,}
+83	Sun Jun 26 17:26:41 +0000 2011	49ea8d17f964a5207c661fe3	{Bay Area Video Coalition}	{37.762874,-122.410492,San Francisco,CA,United States}	{College & University,}

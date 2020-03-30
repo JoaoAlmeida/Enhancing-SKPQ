@@ -1,0 +1,4 @@
+#categoryName experimentName dataset neighborhood plusMode queryType numQueries numKeywords numResults radius item value min max observations
+Personalizing SKPQ-LD avenue range null null null 20 0.2 nodesAccessed 0.0 - 9223372036854775807 0 0
+Personalizing SKPQ-LD avenue range null null null 20 0.2 pageFaults 0.0 - 9223372036854775807 0 0
+Personalizing SKPQ-LD avenue range null null null 20 0.2 totalExecutionTime 2.1557582E7 - 21557582 21557582 1

@@ -1,0 +1,4 @@
+#categoryName experimentName dataset neighborhood plusMode queryType numQueries numKeywords numResults radius mean stdev observations
+PSKPQLondon PSKPQ-LD drive range null null null 10 0.2 nodesAccessed 0.0 - 1
+PSKPQLondon PSKPQ-LD drive range null null null 10 0.2 pageFaults 0.0 - 1
+PSKPQLondon PSKPQ-LD drive range null null null 10 0.2 totalExecutionTime 985.0 - 1

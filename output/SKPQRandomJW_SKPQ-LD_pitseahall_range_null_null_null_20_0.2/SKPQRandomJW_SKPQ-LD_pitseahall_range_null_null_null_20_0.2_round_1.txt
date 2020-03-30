@@ -1,0 +1,4 @@
+#categoryName experimentName dataset neighborhood plusMode queryType numQueries numKeywords numResults radius item value min max observations
+SKPQRandomJW SKPQ-LD pitseahall range null null null 20 0.2 nodesAccessed 0.0 - 9223372036854775807 0 0
+SKPQRandomJW SKPQ-LD pitseahall range null null null 20 0.2 pageFaults 0.0 - 9223372036854775807 0 0
+SKPQRandomJW SKPQ-LD pitseahall range null null null 20 0.2 totalExecutionTime 24664.0 - 24664 24664 1

@@ -1,0 +1,505 @@
+626	Tue Aug 09 00:18:19 +0000 2011	4be9c7b16295c9b6bca48508	{Baggage Claim - T5}	{33.94266570204257,-118.40431451797485,Los Angeles,CA,United States}	{Travel & Transport,Airport,}
+626	Sun Aug 07 22:20:29 +0000 2011	4abfe033f964a520bd9220e3	{American Airlines Admirals Club BOS}	{42.36284346555557,-71.01729573137654,East Boston,MA,United States}	{Travel & Transport,Airport,}
+626	Sun Aug 07 17:12:52 +0000 2011	40eb3d00f964a520250a1fe3	{Fenway Park}	{42.34668251220263,-71.09699249267578,Boston,MA,United States}	{Outdoors & Recreation,Stadium,Arts & Entertainment,Athletics & Sports,}
+626	Sun Aug 07 16:12:12 +0000 2011	4b522e01f964a520ce6d27e3	{MIT Simmons Hall (Building W79)}	{42.35707859291543,-71.10133548073523,Cambridge,MA,United States}	{College & University,}
+626	Sun Aug 07 15:07:30 +0000 2011	4bc39babdce4eee1bfac719d	{Best Western at Historic Concord}	{42.46505883514752,-71.38718928513946,Concord,MA,United States}	{Travel & Transport,Hotel,}
+626	Sun Aug 07 00:59:53 +0000 2011	4bc39babdce4eee1bfac719d	{Best Western at Historic Concord}	{42.46505883514752,-71.38718928513946,Concord,MA,United States}	{Travel & Transport,Hotel,}
+626	Fri Aug 05 18:41:53 +0000 2011	4b8d7de4f964a520fefe32e3	{Minute Man National Historical Park}	{42.45531770855788,-71.30264282226562,Lincoln,MA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+626	Thu Aug 04 18:16:25 +0000 2011	4af33b80f964a520f1eb21e3	{The Boeing Company}	{38.755746467857534,-90.34936077992715,St. Louis,MO,United States}	{}
+626	Tue Aug 02 14:13:58 +0000 2011	4b427e86f964a52005d525e3	{Boeing - Southpark}	{47.52439998078,-122.31166480602577,Seattle,WA,United States}	{Professional & Other Places,}
+626	Tue Aug 02 04:06:11 +0000 2011	4adbc6d4f964a520932a21e3	{BJ's Restaurant & Brewhouse}	{47.45763443159466,-122.25706100463867,Tukwila,WA,United States}	{Nightlife Spot,Food,}
+626	Thu Jul 28 23:14:22 +0000 2011	4daa58d60437dccbd8048850	{In an Uber}	{40.74162234975977,-73.98022803738444,New York,NY,United States}	{Nightlife Spot,Travel & Transport,}
+626	Mon Jul 25 00:44:57 +0000 2011	4cbfb13f00d83704bded455c	{The Local Peasant}	{34.149179763627615,-118.43924490349129,Sherman Oaks,CA,United States}	{Nightlife Spot,Food,}
+626	Fri Jul 22 02:06:18 +0000 2011	49d8639ff964a520c05d1fe3	{Katsu-Ya}	{34.15771149642029,-118.49381781814081,Encino,CA,United States}	{Food,}
+626	Mon Jul 18 21:08:19 +0000 2011	49da9963f964a5209a5e1fe3	{Starbucks}	{33.75818823144742,-118.08195014485524,Seal Beach,CA,United States}	{Food,}
+626	Sat Jul 16 17:58:53 +0000 2011	4ae8ea37f964a5204cb321e3	{Ace Hotel & Swim Club}	{33.800694124998216,-116.53986634101257,Palm Springs,CA,United States}	{Travel & Transport,}
+626	Sat Jul 16 01:49:00 +0000 2011	4ae8ea37f964a5204cb321e3	{Ace Hotel & Swim Club}	{33.800694124998216,-116.53986634101257,Palm Springs,CA,United States}	{Travel & Transport,}
+626	Fri Jul 15 22:55:00 +0000 2011	4b7ac439f964a520ab3b2fe3	{Jax's Market}	{33.947389,-118.08756172657013,Santa Fe Springs,CA,United States}	{Shop & Service,Food & Drink Shop,}
+626	Thu Jul 14 01:44:54 +0000 2011	4c5ef77bfff99c74eda954d3	{Eataly}	{40.74186151409088,-73.98943362953369,New York,NY,United States}	{Shop & Service,Food,Food & Drink Shop,}
+626	Thu Jul 14 00:10:31 +0000 2011	4adfb640f964a520e57c21e3	{Ace Hotel Lobby Bar}	{40.745810140673775,-73.98830652236938,New York,NY,United States}	{Nightlife Spot,Food,}
+626	Wed Jul 13 21:18:52 +0000 2011	4aa9386ef964a5208b5220e3	{The Breslin Bar & Dining Room}	{40.74583734577147,-73.98799265354255,New York,NY,United States}	{Food,}
+626	Wed Jul 13 20:55:44 +0000 2011	4a0e0f85f964a520bf751fe3	{Ace Hotel New York}	{40.74587751338479,-73.98814227092514,New York,NY,United States}	{Nightlife Spot,Travel & Transport,}
+626	Wed Jul 13 14:24:29 +0000 2011	4ac5273df964a520acb020e3	{Banana Republic}	{40.77879,-73.953984,New York,NY,United States}	{Shop & Service,}
+626	Wed Jul 13 02:01:31 +0000 2011	4af2617af964a52090e721e3	{Tavern Restaurant}	{34.05353187252243,-118.4634567567226,Los Angeles,CA,United States}	{Food,}
+626	Wed Jul 13 00:38:28 +0000 2011	4e1ce73e62e1f8a446c9b9ab	{FrameStore}	{34.05275386508042,-118.47053427841773,Los Angeles,CA,United States}	{Shop & Service,}
+626	Sat Jul 09 20:35:58 +0000 2011	4b33ed3df964a5202a2225e3	{Santa Barbara Zoo}	{34.42031017247922,-119.66606855392456,Santa Barbara,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+626	Wed Jul 06 13:01:49 +0000 2011	4a12b3baf964a5208e771fe3	{Starbucks}	{34.151378,-118.451948,Sherman Oaks,CA,United States}	{Food,}
+626	Tue Jul 05 21:36:43 +0000 2011	4b09f0a4f964a520212023e3	{The Coffee Bean & Tea Leaf}	{34.048276271773574,-118.44317728506961,Los Angeles,CA,United States}	{Food,}
+626	Tue Jul 05 18:07:14 +0000 2011	4c890d7fbbec6dcbdeddd858	{Smudge Studio}	{34.052801646703635,-118.34425449371338,Los Angeles,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+626	Mon Jul 04 19:29:57 +0000 2011	4af2617af964a52090e721e3	{Tavern Restaurant}	{34.05353187252243,-118.4634567567226,Los Angeles,CA,United States}	{Food,}
+626	Sun Jul 03 21:50:54 +0000 2011	4ab13854f964a520976820e3	{Bristol Farms}	{34.07758892812056,-118.38905698583002,West Hollywood,CA,United States}	{Shop & Service,Food & Drink Shop,}
+626	Thu Jun 30 14:45:39 +0000 2011	4b62fffef964a520015d2ae3	{Starbucks}	{47.455621473910966,-122.25646237631156,Seattle,WA,United States}	{Food,}
+626	Tue Jun 28 13:23:23 +0000 2011	4b62fffef964a520015d2ae3	{Starbucks}	{47.455621473910966,-122.25646237631156,Seattle,WA,United States}	{Food,}
+626	Mon Jun 27 12:49:05 +0000 2011	4b427e86f964a52005d525e3	{Boeing - Southpark}	{47.52439998078,-122.31166480602577,Seattle,WA,United States}	{Professional & Other Places,}
+626	Sat Jun 25 23:24:49 +0000 2011	4bf763a45317a593d119fe7e	{Yard House}	{33.76146177088795,-118.19017767906189,Long Beach,CA,United States}	{Nightlife Spot,Food,}
+626	Sat Jun 25 21:38:13 +0000 2011	4b106d5df964a520347023e3	{Hilton Hotel & Executive Meeting Center}	{33.767910332989054,-118.2015609741211,Long Beach,CA,United States}	{Travel & Transport,Professional & Other Places,}
+626	Sat Jun 25 20:59:31 +0000 2011	4a1b0dd8f964a520c67a1fe3	{Aquarium of the Pacific}	{33.76195234245617,-118.1970763206482,Long Beach,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+626	Sat Jun 25 20:30:04 +0000 2011	4bb8199fb35776b09ca9c801	{Funnel House}	{33.760560895786725,-118.1912612915039,Long Beach,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+626	Sat Jun 25 20:03:58 +0000 2011	4b9e8490f964a5200deb36e3	{Rainbow Lagoon Park}	{33.76241615299295,-118.18830013275146,Long Beach,CA,United States}	{Outdoors & Recreation,}
+626	Sat Jun 25 19:55:20 +0000 2011	42853f80f964a520fc221fe3	{The Pike at Long Beach}	{33.76391460065069,-118.19323539733887,Long Beach,CA,United States}	{Shop & Service,}
+626	Sat Jun 25 19:24:27 +0000 2011	4b106d5df964a520347023e3	{Hilton Hotel & Executive Meeting Center}	{33.767910332989054,-118.2015609741211,Long Beach,CA,United States}	{Travel & Transport,Professional & Other Places,}
+626	Sun Jun 19 21:17:47 +0000 2011	49c7323ff964a520a2571fe3	{Los Angeles Zoo}	{34.14839998630527,-118.28366301865034,Los Angeles,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+626	Sun Jun 19 20:05:43 +0000 2011	4a836d59f964a5201efb1fe3	{Henry's Hat}	{34.131682113940926,-118.3525076508522,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+626	Sat Jun 18 23:21:40 +0000 2011	4aac257af964a5207c5c20e3	{Ventura County Fairgrounds}	{34.275747654993104,-119.30197477340698,Ventura,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+626	Sat Jun 18 21:24:43 +0000 2011	4d02e3e128926ea8fb7262c2	{Picture People}	{34.28477817141306,-118.76893695854092,Simi Valley,CA,United States}	{Shop & Service,}
+626	Sat Jun 18 19:27:23 +0000 2011	4b9c3823f964a520235636e3	{Right Start}	{34.1472,-118.425294,Sherman Oaks,CA,United States}	{Shop & Service,}
+626	Sat Jun 11 05:05:29 +0000 2011	4bbfa7ac2a89ef3b5f50ef88	{WP24 by Wolfgang Puck}	{34.045326992744165,-118.26637707999998,Los Angeles,CA,United States}	{Food,}
+626	Sat Jun 11 03:50:12 +0000 2011	4aff91d9f964a520843922e3	{City Center Motel}	{34.05155,-118.26526880264282,Los Angeles,CA,United States}	{Travel & Transport,Hotel,}
+626	Fri Jun 10 16:00:23 +0000 2011	4cc316e091413704982eb955	{Center Stage Dance LA}	{34.157347,-118.40614386,North Hollywood,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+626	Sun Jun 05 00:52:53 +0000 2011	4cbfb13f00d83704bded455c	{The Local Peasant}	{34.149179763627615,-118.43924490349129,Sherman Oaks,CA,United States}	{Nightlife Spot,Food,}
+626	Sat Jun 04 19:12:09 +0000 2011	4b84827cf964a520843931e3	{Fazio Cleaners}	{34.152238,-118.453621,Sherman Oaks,CA,United States}	{Shop & Service,}
+626	Wed Jun 01 17:53:53 +0000 2011	49c27d4af964a520f6551fe3	{Dominick's}	{34.077024584793584,-118.38107646482612,West Hollywood,CA,United States}	{Food,}
+626	Mon May 30 19:22:07 +0000 2011	4c72d40ed944224b8ac00d29	{Four Seasons Fountain Pool}	{20.68081240355505,-156.44280037048097,Wailea,HI,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+626	Sun May 29 23:44:16 +0000 2011	4c521280250dd13ae6f83f7e	{Four Seasons Serenity Pool}	{20.68392281005253,-156.44220113754272,Wailea,HI,United States}	{Outdoors & Recreation,}
+626	Sun May 29 23:00:21 +0000 2011	4b25abfaf964a520397524e3	{Four Seasons Resort Maui}	{20.680530168317468,-156.44282341003418,Wailea,HI,United States}	{Travel & Transport,Shop & Service,Hotel,}
+626	Sun May 29 00:01:12 +0000 2011	4c38b2b53849c92837ecbfb1	{Wailea Beach}	{20.68273840528223,-156.44286632537842,Kihei,HI,United States}	{Outdoors & Recreation,Beach,}
+626	Thu May 26 23:00:43 +0000 2011	4c72d40ed944224b8ac00d29	{Four Seasons Fountain Pool}	{20.68081240355505,-156.44280037048097,Wailea,HI,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+626	Wed May 25 22:40:53 +0000 2011	4b25abfaf964a520397524e3	{Four Seasons Resort Maui}	{20.680530168317468,-156.44282341003418,Wailea,HI,United States}	{Travel & Transport,Shop & Service,Hotel,}
+626	Wed May 25 21:07:55 +0000 2011	4b088ce8f964a520300e23e3	{Kahului Airport (OGG)}	{20.892815034763537,-156.43797397613525,Kahului,HI,United States}	{Travel & Transport,}
+626	Wed May 25 14:21:35 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+626	Wed May 25 14:03:20 +0000 2011	4a54f53df964a52079b31fe3	{The Parking Spot}	{33.95408441519924,-118.3971905708313,Los Angeles,CA,United States}	{Travel & Transport,Professional & Other Places,}
+626	Tue May 24 22:03:41 +0000 2011	4ddc2b25fa766a6d7936869b	{Babies First Class}	{34.15006999886455,-118.44511995270241,Los Angeles,CA,United States}	{Professional & Other Places,}
+626	Tue May 24 19:09:41 +0000 2011	4a908821f964a520621820e3	{Apple Store, Topanga}	{34.1902373711111,-118.603103308888,Canoga Park,CA,United States}	{Shop & Service,}
+626	Tue May 24 18:42:24 +0000 2011	4b1c44a3f964a520430524e3	{The Coffee Bean & Tea Leaf}	{34.19018155201625,-118.6028952151537,Canoga Park,CA,United States}	{Food,}
+626	Tue May 24 18:42:24 +0000 2011	4b1c44a3f964a520430524e3	{The Coffee Bean & Tea Leaf}	{34.19018155201625,-118.6028952151537,Canoga Park,CA,United States}	{Food,}
+626	Tue May 24 04:26:26 +0000 2011	43373a00f964a52025281fe3	{Cacao}	{34.04462084,-118.454382,Los Angeles,CA,United States}	{Food,}
+626	Sun May 22 18:08:27 +0000 2011	4a4e5c9ef964a5205aae1fe3	{Apple Store, Sherman Oaks}	{34.157112,-118.438083,Sherman Oaks,CA,United States}	{Shop & Service,}
+626	Sun May 22 04:03:15 +0000 2011	4548b1f6f964a5208b3c1fe3	{Bodega Wine Bar, Santa Monica}	{34.01836726786792,-118.48935127258301,Santa Monica,CA,United States}	{Nightlife Spot,Food,}
+626	Sat May 21 20:55:34 +0000 2011	4b9c3823f964a520235636e3	{Right Start}	{34.1472,-118.425294,Sherman Oaks,CA,United States}	{Shop & Service,}
+626	Sat May 21 00:10:14 +0000 2011	4b118ae7f964a520f07e23e3	{Gelson's Market}	{34.15378352505939,-118.44777703285217,Sherman Oaks,CA,United States}	{Shop & Service,Food & Drink Shop,}
+626	Wed May 18 03:25:33 +0000 2011	462a6065f964a520d9451fe3	{Junior's Restaurant}	{40.75821277375464,-73.98682594299316,New York,NY,United States}	{Food,}
+626	Wed May 18 02:26:52 +0000 2011	42f7f200f964a520d3261fe3	{Bar Americain}	{40.76201600107077,-73.98174047470093,New York,NY,United States}	{Food,}
+626	Mon May 16 17:23:47 +0000 2011	4c0f92dcd64c0f47c5ee295d	{Christian Louboutin}	{48.85380694718828,2.328898918513637,Paris,?le-de-France,France}	{Shop & Service,Clothing Store,}
+626	Sat May 14 18:11:30 +0000 2011	4aedf09ff964a52079d021e3	{Bloomingdale's}	{34.156724627553935,-118.43910800666893,Sherman Oaks,CA,United States}	{Shop & Service,Clothing Store,}
+626	Fri May 13 01:23:28 +0000 2011	4a0e0f85f964a520bf751fe3	{Ace Hotel New York}	{40.74587751338479,-73.98814227092514,New York,NY,United States}	{Nightlife Spot,Travel & Transport,}
+626	Thu May 12 13:47:02 +0000 2011	4a294627f964a52079951fe3	{Dishes}	{40.75975518395771,-73.97218720972506,New York,NY,United States}	{Food,}
+626	Wed May 11 23:01:36 +0000 2011	4dcb15032271f5e21d6f0c80	{Skylark Cafe}	{34.073616,-118.442179,Los Angeles,CA,United States}	{Food,}
+626	Wed May 11 04:38:40 +0000 2011	4c58cafaf346c92834374bca	{Sonoma Wine Garden}	{34.01311152864025,-118.49462985992432,Santa Monica,CA,United States}	{Food,}
+626	Sun May 08 17:09:35 +0000 2011	49c27d4af964a520f6551fe3	{Dominick's}	{34.077024584793584,-118.38107646482612,West Hollywood,CA,United States}	{Food,}
+626	Fri May 06 23:11:17 +0000 2011	4b2d15dcf964a520ffcd24e3	{Kate Spade New York}	{40.739642844664026,-73.99083383946767,New York,NY,United States}	{Shop & Service,Clothing Store,}
+626	Fri May 06 19:19:36 +0000 2011	49c27575f964a520f1551fe3	{Union Square Greenmarket}	{40.73652697126574,-73.9905595779419,New York,NY,United States}	{Outdoors & Recreation,Shop & Service,Food & Drink Shop,}
+626	Fri May 06 18:02:30 +0000 2011	4b8bd949f964a5207fae32e3	{Lippe Taylor}	{40.73690683000521,-73.98854973895021,New York,NY,United States}	{Professional & Other Places,}
+626	Fri May 06 17:45:24 +0000 2011	4c77ff34566db60cc61c400e	{NYC Taxi 6C35}	{40.769734,-73.914092,New York,NY,United States}	{Travel & Transport,}
+626	Fri May 06 00:44:48 +0000 2011	3fd66200f964a5207de91ee3	{Bryant Park Grill}	{40.75358107747915,-73.98346493517978,New York,NY,United States}	{Food,}
+626	Thu May 05 16:18:41 +0000 2011	4b71af9cf964a5201b562de3	{FedEx Office Print & Ship Center}	{40.759052,-73.970627,New York,NY,United States}	{Shop & Service,}
+626	Wed May 04 02:54:55 +0000 2011	4ad8c6e3f964a5208c1421e3	{En Sushi}	{34.044357637905506,-118.45526105430324,Los Angeles,CA,United States}	{Food,}
+626	Wed May 04 02:21:54 +0000 2011	4c0914cfffb8c9b6713a6961	{Sprint}	{34.05405396848777,-118.44100744002613,Los Angeles,CA,United States}	{Shop & Service,}
+626	Tue May 03 00:57:00 +0000 2011	4af4d5f8f964a520bdf621e3	{Simmzy's}	{33.885105744565315,-118.40996353713197,Manhattan Beach,CA,United States}	{Nightlife Spot,Food,}
+626	Fri Apr 29 19:44:48 +0000 2011	4daa58d60437dccbd8048850	{In an Uber}	{40.74162234975977,-73.98022803738444,New York,NY,United States}	{Nightlife Spot,Travel & Transport,}
+626	Fri Apr 29 18:55:59 +0000 2011	4af5a46af964a520b5fa21e3	{Museum of Modern Art (MoMA)}	{40.761396839011994,-73.97698574930376,New York,NY,United States}	{Museum,Arts & Entertainment,}
+626	Fri Apr 29 16:21:42 +0000 2011	40cf8d80f964a52033011fe3	{Spice Market}	{40.740367189646236,-74.00580607573977,New York,NY,United States}	{Food,}
+626	Fri Apr 29 16:08:43 +0000 2011	4dbae26ffa8cee72732191db	{NYC Taxi 1N81}	{40.753259,-73.996496,New York,NY,United States}	{Travel & Transport,}
+626	Fri Apr 29 03:30:15 +0000 2011	4cc9a5760f7bef3b5f9c7fdd	{John Dory Oyster Bar}	{40.74588914242651,-73.98852104404719,New York,NY,United States}	{Food,}
+626	Thu Apr 28 22:51:47 +0000 2011	3fd66200f964a5203ae81ee3	{Isabella's}	{40.7804922098232,-73.97651472048214,New York,NY,United States}	{Food,}
+626	Thu Apr 28 21:54:03 +0000 2011	4394c89bf964a520842b1fe3	{Nice Matin}	{40.783258791664096,-73.97812172886994,New York,NY,United States}	{Food,}
+626	Thu Apr 28 21:22:16 +0000 2011	4394c89bf964a520842b1fe3	{Nice Matin}	{40.783258791664096,-73.97812172886994,New York,NY,United States}	{Food,}
+626	Wed Apr 27 04:27:26 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+626	Wed Apr 27 00:53:32 +0000 2011	4beae08f61aca593624a8400	{Skyline Financial Corp HQ}	{34.13730561733246,-118.723789,Calabasas,CA,United States}	{Professional & Other Places,}
+626	Tue Apr 26 01:31:04 +0000 2011	4a417892f964a52055a51fe3	{Luxe Hotel}	{34.07266114560798,-118.46865229165289,Los Angeles,CA,United States}	{Travel & Transport,Food,}
+626	Mon Apr 25 22:44:17 +0000 2011	4a8362edf964a520fcfa1fe3	{Starbucks}	{34.07054963119432,-118.40246125075579,Beverly Hills,CA,United States}	{Food,}
+626	Mon Apr 25 22:39:41 +0000 2011	4b0b1bb2f964a520072d23e3	{Planet Blue}	{34.0700522773363,-118.40233573435924,Beverly Hills,CA,United States}	{Shop & Service,Clothing Store,}
+626	Mon Apr 25 22:07:19 +0000 2011	4bf44a166a31d13af995952e	{American Express Travel Services}	{34.069094145309165,-118.401153,Beverly Hills,CA,United States}	{Travel & Transport,}
+626	Sat Apr 23 00:09:37 +0000 2011	4bd6309529eb9c74a4c694e1	{76 Gas Station}	{34.0719130069775,-118.4009151104031,Beverly Hills,CA,United States}	{Shop & Service,}
+626	Fri Apr 22 21:10:55 +0000 2011	4c890d7fbbec6dcbdeddd858	{Smudge Studio}	{34.052801646703635,-118.34425449371338,Los Angeles,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+626	Fri Apr 22 00:57:44 +0000 2011	4a4e5baaf964a52057ae1fe3	{Boneyard Bistro}	{34.14772818915253,-118.42839539051056,Sherman Oaks,CA,United States}	{Food,}
+626	Thu Apr 21 20:21:31 +0000 2011	4a12b3baf964a5208e771fe3	{Starbucks}	{34.151378,-118.451948,Sherman Oaks,CA,United States}	{Food,}
+626	Mon Apr 18 22:30:10 +0000 2011	4ccdaded72106dcb5a67a499	{Sun City Shadow Hills}	{33.7568374482123,-116.23636783996801,,CA,United States}	{Residence,}
+626	Mon Apr 18 19:31:29 +0000 2011	4bc8875b2f94d13a10bd137f	{Just Java}	{33.685712814331055,-116.268568,Indio,CA,United States}	{Food,}
+626	Sun Apr 17 23:57:06 +0000 2011	4c70999adf6b8cfaeb02b94d	{Apple Store, El Paseo Village}	{33.719631,-116.383301,Palm Desert,CA,United States}	{Shop & Service,}
+626	Sun Apr 17 00:42:07 +0000 2011	4a7f3ffbf964a5206ff31fe3	{Chick-fil-A}	{34.13385144126437,-117.63668013665232,Upland,CA,United States}	{Food,}
+626	Sat Apr 16 19:40:52 +0000 2011	4a12b3baf964a5208e771fe3	{Starbucks}	{34.151378,-118.451948,Sherman Oaks,CA,United States}	{Food,}
+626	Fri Apr 15 20:00:04 +0000 2011	4c890d7fbbec6dcbdeddd858	{Smudge Studio}	{34.052801646703635,-118.34425449371338,Los Angeles,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+626	Fri Apr 15 14:45:02 +0000 2011	4d2b79c355a8b60cc1e8e7c0	{Jeffer Mangels Butler & Mitchell}	{34.06008436149538,-118.41700910421514,Los Angeles,CA,United States}	{Professional & Other Places,}
+626	Fri Apr 15 02:40:57 +0000 2011	4b84827cf964a520843931e3	{Fazio Cleaners}	{34.152238,-118.453621,Sherman Oaks,CA,United States}	{Shop & Service,}
+626	Wed Apr 13 19:06:54 +0000 2011	4cb352d675ebb60c0457dbad	{Ammann & Whitney}	{40.731035,-74.00843918323517,New York,NY,United States}	{Professional & Other Places,}
+626	Wed Apr 13 13:24:05 +0000 2011	4d6ff4447e16a35db8a19bf9	{619 W54}	{40.769035054169585,-73.99365736332444,New York,NY,United States}	{Professional & Other Places,}
+626	Sat Apr 09 15:05:31 +0000 2011	4a3bcaa5f964a520c5a01fe3	{UCLA Anderson School of Management}	{34.073868,-118.443652,Los Angeles,CA,United States}	{College & University,}
+626	Fri Apr 08 19:46:22 +0000 2011	4c28a6559fb5d13aa5d79957	{Hertz Rental Car}	{35.80586667277818,-83.98982550877925,Alcoa,TN,United States}	{Travel & Transport,}
+626	Fri Apr 08 16:02:54 +0000 2011	4d9da73ba1ec8cfaccf2074a	{National Fitness Center}	{35.92515194066049,-84.00873025770912,Knoxville,TN,United States}	{Shop & Service,}
+626	Fri Apr 08 16:02:54 +0000 2011	4d9da73ba1ec8cfaccf2074a	{National Fitness Center}	{35.92515194066049,-84.00873025770912,Knoxville,TN,United States}	{Shop & Service,}
+626	Fri Apr 08 11:47:09 +0000 2011	4b6f2b23f964a5208fe12ce3	{National Fitness Center - Oak Ridge}	{36.024737466071514,-84.23097610473633,Oak Ridge,TN,United States}	{Shop & Service,Gym / Fitness Center,}
+626	Thu Apr 07 20:08:43 +0000 2011	4c2b66418ef52d7f254831ba	{National Fitness Center - Maryville}	{35.73693137325668,-83.9904815917073,Maryville,TN,United States}	{Shop & Service,Gym / Fitness Center,}
+626	Thu Apr 07 19:23:44 +0000 2011	4ba0c5fbf964a520b97c37e3	{Court South - Alcoa}	{35.91216919254955,-83.95483623210778,Knoxville,TN,United States}	{Shop & Service,Gym / Fitness Center,}
+626	Thu Apr 07 18:28:44 +0000 2011	4b70320ff964a520130b2de3	{National Fitness Center - Tazewell Pike}	{36.02710085269418,-83.92221110382697,Knoxville,TN,United States}	{Shop & Service,Gym / Fitness Center,}
+626	Thu Apr 07 17:14:04 +0000 2011	4b885654f964a5203cf031e3	{Louis' Original Drive-In}	{36.01878117732755,-83.92455904020733,Knoxville,TN,United States}	{Food,}
+626	Thu Apr 07 16:28:03 +0000 2011	4b97a6fcf964a520b80d35e3	{Court South - Merchants}	{36.01083913405111,-83.97648534366738,Knoxville,TN,United States}	{Shop & Service,Gym / Fitness Center,}
+626	Thu Apr 07 13:26:52 +0000 2011	4b677ea2f964a52044522be3	{Court South - Walbrook}	{35.92633869224338,-84.0648078918457,Knoxville,TN,United States}	{Shop & Service,Gym / Fitness Center,}
+626	Thu Apr 07 12:00:43 +0000 2011	4d9da73ba1ec8cfaccf2074a	{National Fitness Center}	{35.92515194066049,-84.00873025770912,Knoxville,TN,United States}	{Shop & Service,}
+626	Wed Apr 06 19:03:39 +0000 2011	4bd3bd4f046076b08fe07671	{National Fitness Center}	{36.207690724619326,-83.318522475709,Morristown,TN,United States}	{Shop & Service,Gym / Fitness Center,}
+626	Wed Apr 06 15:39:25 +0000 2011	4c870d13110176b01628b540	{National Fitness Center}	{35.86509046484101,-83.54281188112125,Sevierville,TN,United States}	{Shop & Service,Gym / Fitness Center,}
+626	Tue Apr 05 20:51:32 +0000 2011	4a3ecf0cf964a52075a31fe3	{Anaheim Convention Center}	{33.8000121316684,-117.92050838470459,Anaheim,CA,United States}	{Convention Center,Professional & Other Places,}
+626	Tue Apr 05 20:44:44 +0000 2011	49cec74ef964a520865a1fe3	{Anaheim Marriott}	{33.79888877194206,-117.91853427886963,Anaheim,CA,United States}	{Travel & Transport,}
+626	Tue Apr 05 17:41:43 +0000 2011	4a3ecf0cf964a52075a31fe3	{Anaheim Convention Center}	{33.8000121316684,-117.92050838470459,Anaheim,CA,United States}	{Convention Center,Professional & Other Places,}
+626	Tue Apr 05 00:18:14 +0000 2011	4aec7253f964a5202fc721e3	{Floyd's 99 Barbershop}	{34.161885,-118.517032,Encino,CA,United States}	{Shop & Service,}
+626	Sun Apr 03 00:59:05 +0000 2011	4d1ed48486e15481b8a2ad3a	{The Federal Bar}	{34.16713295910382,-118.37632328606576,North Hollywood,CA,United States}	{Nightlife Spot,Food,}
+626	Sat Apr 02 22:49:02 +0000 2011	4d97a77baf3d236a07ea29c7	{Immaculate Conception Parish School}	{34.051053136693085,-118.27113139649394,,,United States}	{Professional & Other Places,}
+626	Sat Apr 02 19:26:46 +0000 2011	4a12b3baf964a5208e771fe3	{Starbucks}	{34.151378,-118.451948,Sherman Oaks,CA,United States}	{Food,}
+626	Sat Apr 02 03:43:29 +0000 2011	4c265373f3859c74fe5d6588	{The Majestical Roof Boutique & Gallery}	{34.147397275658044,-118.15011117175136,Pasadena,CA,United States}	{Shop & Service,Arts & Entertainment,}
+626	Wed Mar 30 18:06:46 +0000 2011	4b762969f964a520e2402ee3	{The LA Lofts}	{34.09280921789406,-118.32866140184572,,CA,United States}	{Arts & Entertainment,Residence,}
+626	Wed Mar 30 17:10:04 +0000 2011	4b762969f964a520e2402ee3	{The LA Lofts}	{34.09280921789406,-118.32866140184572,,CA,United States}	{Arts & Entertainment,Residence,}
+626	Wed Mar 30 01:30:56 +0000 2011	4a417892f964a52055a51fe3	{Luxe Hotel}	{34.07266114560798,-118.46865229165289,Los Angeles,CA,United States}	{Travel & Transport,Food,}
+626	Tue Mar 29 14:20:13 +0000 2011	4a12b3baf964a5208e771fe3	{Starbucks}	{34.151378,-118.451948,Sherman Oaks,CA,United States}	{Food,}
+626	Sun Mar 27 17:32:34 +0000 2011	4a6b2c09f964a52018ce1fe3	{Jinky's Cafe}	{34.1493895869862,-118.44079068896649,Sherman Oaks,CA,United States}	{Food,}
+626	Sat Mar 26 19:59:15 +0000 2011	49c55573f964a520f5561fe3	{Amandine Patisserie}	{34.043245623983985,-118.46885760033808,Los Angeles,CA,United States}	{Food,}
+626	Fri Mar 25 18:22:49 +0000 2011	4adcb8a5f964a520102f21e3	{Starbucks}	{40.75948995005387,-73.97007507365461,New York,NY,United States}	{Food,}
+626	Fri Mar 25 16:46:02 +0000 2011	4ab13f96f964a520b56820e3	{'wichcraft}	{40.75485170188742,-73.97433949845926,New York,NY,United States}	{Food,}
+626	Thu Mar 24 01:54:57 +0000 2011	4394c89bf964a520842b1fe3	{Nice Matin}	{40.783258791664096,-73.97812172886994,New York,NY,United States}	{Food,}
+626	Wed Mar 23 03:09:43 +0000 2011	4bbebec9006dc9b6c9affb3f	{TSA Passenger Screening}	{33.94200705455651,-118.40466856956482,Los Angeles,CA,United States}	{Travel & Transport,Airport,}
+626	Wed Mar 23 02:59:29 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+626	Wed Mar 23 00:58:54 +0000 2011	4a78e187f964a520a6e61fe3	{Kiwami}	{34.14291557449923,-118.39182615280151,Studio City,CA,United States}	{Food,}
+626	Sun Mar 20 17:17:28 +0000 2011	4a12b3baf964a5208e771fe3	{Starbucks}	{34.151378,-118.451948,Sherman Oaks,CA,United States}	{Food,}
+626	Sun Mar 20 00:22:14 +0000 2011	4d85488899b78cfac5e4cb1f	{Magnolia}	{34.156601,-118.643463,Calabasas,CA,United States}	{Shop & Service,Clothing Store,}
+626	Sat Mar 19 21:24:12 +0000 2011	4bb7840c7421a5936c92c040	{Lululemon Athletica}	{34.153601877182176,-118.64495222131494,Calabasas,CA,United States}	{Shop & Service,}
+626	Sat Mar 19 20:34:19 +0000 2011	4cbe5a17a0c4f04d28fc4e31	{Fresh Brothers}	{34.15333072170304,-118.64572405815125,Calabasas,CA,United States}	{Food,}
+626	Tue Mar 15 14:08:59 +0000 2011	4c1f9bfc8b3aa593c6b99d5f	{WilmerHale}	{40.7587436989928,-73.97247992240682,New York,NY,United States}	{Professional & Other Places,}
+626	Sat Mar 12 19:50:22 +0000 2011	4a3ecf0cf964a52075a31fe3	{Anaheim Convention Center}	{33.8000121316684,-117.92050838470459,Anaheim,CA,United States}	{Convention Center,Professional & Other Places,}
+626	Sun Mar 06 19:42:24 +0000 2011	4d73e3330d0ca1432c53bf83	{Stephen S. Wise Early Childhood Center}	{34.12892568013095,-118.46959899069581,,,United States}	{Professional & Other Places,}
+626	Sat Mar 05 21:10:14 +0000 2011	42a63500f964a52007251fe3	{Newsroom Cafe}	{34.076165,-118.38367,Los Angeles,CA,United States}	{Food,}
+626	Wed Mar 02 22:47:13 +0000 2011	44802b64f964a5200a341fe3	{Bloomberg}	{40.761731579205914,-73.96798610687256,New York,NY,United States}	{Professional & Other Places,}
+626	Tue Mar 01 13:54:40 +0000 2011	3fd66200f964a5204fe81ee3	{Lucerne Hotel}	{40.783428989216794,-73.97847756462565,New York,NY,United States}	{Travel & Transport,}
+626	Tue Mar 01 06:06:34 +0000 2011	4a706db6f964a52074d71fe3	{Delta Sky Club}	{33.94077875238868,-118.40448081493378,Los Angeles,CA,United States}	{Travel & Transport,Airport,}
+626	Tue Mar 01 02:14:08 +0000 2011	4a417892f964a52055a51fe3	{Luxe Hotel}	{34.07266114560798,-118.46865229165289,Los Angeles,CA,United States}	{Travel & Transport,Food,}
+626	Tue Mar 01 01:18:05 +0000 2011	4d64562c072a6ea81ff2f04d	{The Fitting Room}	{34.05268,-118.46722,Los Angeles,CA,United States}	{Shop & Service,}
+626	Mon Feb 28 22:29:23 +0000 2011	4a8479fdf964a520b5fc1fe3	{Tacone Flavor Grill}	{33.929294,-118.396431,El Segundo,CA,United States}	{Food,}
+626	Sat Feb 26 18:05:56 +0000 2011	4a9f1691f964a520783c20e3	{Borders Books & Music}	{34.151871,-118.45296938,Sherman Oaks,CA,United States}	{Shop & Service,}
+626	Thu Feb 24 23:12:35 +0000 2011	4c23c211f7ced13a48ba216d	{Encino Medical Plaza}	{34.169179,-118.500657,Encino,CA,United States}	{Professional & Other Places,}
+626	Thu Feb 24 01:11:20 +0000 2011	49ecee93f964a520af671fe3	{Delta Sky Club}	{40.640497899496765,-73.78941535949707,Jamaica,NY,United States}	{Travel & Transport,Airport,}
+626	Wed Feb 23 23:45:31 +0000 2011	43a52546f964a520532c1fe3	{John F. Kennedy International Airport (JFK)}	{40.645089355976346,-73.7845230102539,Jamaica,NY,United States}	{Travel & Transport,}
+626	Wed Feb 23 22:22:04 +0000 2011	4d658858072a6ea8a55cfe4d	{NYC Taxi 3T67}	{40.76169,-73.97101,,,United States}	{Travel & Transport,}
+626	Wed Feb 23 04:37:49 +0000 2011	4b16ce2af964a520c0bd23e3	{California Pizza Kitchen}	{33.94118818841376,-118.40434670448303,Los Angeles,CA,United States}	{Food,}
+626	Wed Feb 23 04:37:49 +0000 2011	4b16ce2af964a520c0bd23e3	{California Pizza Kitchen}	{33.94118818841376,-118.40434670448303,Los Angeles,CA,United States}	{Food,}
+626	Wed Feb 23 02:53:53 +0000 2011	4aa6ae98f964a520a34a20e3	{Taschen}	{34.06966077756384,-118.40142288500846,Los Angeles,CA,United States}	{Shop & Service,}
+626	Wed Feb 23 01:04:17 +0000 2011	4b4e495cf964a52027e826e3	{La Salsa Fresh Mexican Grill}	{34.05328810214996,-118.467001,Los Angeles,CA,United States}	{Food,}
+626	Wed Feb 23 00:45:37 +0000 2011	4b524afaf964a5205c7527e3	{Jenny Bec's}	{34.05331767050967,-118.46602317741072,Los Angeles,CA,United States}	{Shop & Service,}
+626	Sun Feb 20 06:34:46 +0000 2011	49cff672f964a520e95a1fe3	{Beverly Center}	{34.075056969511444,-118.37755680084229,Los Angeles,CA,United States}	{Shop & Service,}
+626	Sun Feb 20 03:55:00 +0000 2011	4a8a220cf964a520f10920e3	{Largo at the Coronet}	{34.07779404160692,-118.37625324726105,Los Angeles,CA,United States}	{Arts & Entertainment,}
+626	Sun Feb 20 01:52:41 +0000 2011	4b076f1ef964a52087fd22e3	{Banana Republic}	{34.07548353201957,-118.37777137756348,Los Angeles,CA,United States}	{Shop & Service,}
+626	Sun Feb 20 01:13:41 +0000 2011	49cff672f964a520e95a1fe3	{Beverly Center}	{34.075056969511444,-118.37755680084229,Los Angeles,CA,United States}	{Shop & Service,}
+626	Sat Feb 19 20:37:26 +0000 2011	4be5ac68d4f7c9b68dba2520	{Juvenile Shop}	{34.146689,-118.42437268333333,Sherman Oaks,CA,United States}	{Shop & Service,Clothing Store,}
+626	Sun Feb 13 03:16:45 +0000 2011	4a1b0dd8f964a520c67a1fe3	{Aquarium of the Pacific}	{33.76195234245617,-118.1970763206482,Long Beach,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+626	Sat Feb 12 02:00:17 +0000 2011	4a4e5c9ef964a5205aae1fe3	{Apple Store, Sherman Oaks}	{34.157112,-118.438083,Sherman Oaks,CA,United States}	{Shop & Service,}
+626	Sun Feb 06 19:47:47 +0000 2011	4ad20341f964a520d6de20e3	{Fryman Canyon}	{34.1333516871332,-118.39199781417847,Studio City,CA,United States}	{Outdoors & Recreation,}
+626	Fri Feb 04 17:25:24 +0000 2011	427ff980f964a520d8211fe3	{Macrina Bakery}	{47.614429614539084,-122.34819721470693,Seattle,WA,United States}	{Food,}
+626	Fri Feb 04 03:46:11 +0000 2011	451c049bf964a520803a1fe3	{Columbia Tower Club}	{47.60460850761536,-122.33086214395885,Seattle,WA,United States}	{Food,Professional & Other Places,}
+626	Sat Jan 29 23:57:06 +0000 2011	4b7f05a6f964a520ed1030e3	{Pumpkinheads}	{34.05370089641815,-118.4630632353737,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,}
+626	Sat Jan 29 20:29:39 +0000 2011	4a12b3baf964a5208e771fe3	{Starbucks}	{34.151378,-118.451948,Sherman Oaks,CA,United States}	{Food,}
+626	Thu Jan 27 20:28:25 +0000 2011	43a52546f964a520532c1fe3	{John F. Kennedy International Airport (JFK)}	{40.645089355976346,-73.7845230102539,Jamaica,NY,United States}	{Travel & Transport,}
+626	Thu Jan 27 19:24:17 +0000 2011	4d41c60e915a37042664237f	{NYC Taxi 8Y65}	{40.760219,-73.963798,,,United States}	{Travel & Transport,}
+626	Thu Jan 27 15:48:36 +0000 2011	4c1f9bfc8b3aa593c6b99d5f	{WilmerHale}	{40.7587436989928,-73.97247992240682,New York,NY,United States}	{Professional & Other Places,}
+626	Thu Jan 27 13:46:33 +0000 2011	4d26fe5e8292236a4f3c0bbb	{Snowpocalypse 2011}	{40.71551718935035,-74.00493621826172,New York,NY,United States}	{Outdoors & Recreation,}
+626	Thu Jan 27 12:24:13 +0000 2011	4394c89bf964a520842b1fe3	{Nice Matin}	{40.783258791664096,-73.97812172886994,New York,NY,United States}	{Food,}
+626	Thu Jan 27 04:44:27 +0000 2011	4a9b2424f964a5208c3420e3	{The Dakota}	{40.776414283080896,-73.97605419158936,New York,NY,United States}	{Arts & Entertainment,Residence,}
+626	Thu Jan 27 03:51:55 +0000 2011	4d26fe5e8292236a4f3c0bbb	{Snowpocalypse 2011}	{40.71551718935035,-74.00493621826172,New York,NY,United States}	{Outdoors & Recreation,}
+626	Wed Jan 26 20:46:51 +0000 2011	4d40314c1bd2a143727ef07c	{FUCKYOURPOCALYPSE}	{40.717666,-73.98850493333333,,,United States}	{Outdoors & Recreation,}
+626	Wed Jan 26 18:37:02 +0000 2011	4c18bbf1d4d9c92833c9ef29	{595 Madison Ave}	{40.76226111065604,-73.9721929491937,New York,NY,United States}	{Medical Center,Professional & Other Places,}
+626	Wed Jan 26 17:45:27 +0000 2011	49ca8244f964a520b2581fe3	{Obik? Mozzarella Bar, IBM building}	{40.76185024998201,-73.97336379721524,New York,NY,United States}	{Food,}
+626	Wed Jan 26 17:37:21 +0000 2011	4acdd61af964a5202ecd20e3	{Starbucks}	{40.762401,-73.974057,New York,NY,United States}	{Food,}
+626	Wed Jan 26 14:28:02 +0000 2011	4d402e2d7a516ea84b7eb882	{Wimpocalypse}	{40.79758,-73.939346,,,United States}	{Outdoors & Recreation,}
+626	Sun Jan 23 23:37:18 +0000 2011	4cd7b54d51fc8cfac475e55d	{Sweet Butter Kitchen}	{34.14833,-118.433951,Sherman Oaks,CA,United States}	{Food,}
+626	Sat Jan 22 22:19:24 +0000 2011	4b392e9df964a520c45725e3	{Starbucks}	{34.15509,-118.643179,Calabasas,CA,United States}	{Food,}
+626	Thu Jan 20 02:12:52 +0000 2011	438cf623f964a520302b1fe3	{Hollywood Roosevelt Hotel}	{34.10128656695182,-118.34167957305908,Los Angeles,CA,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+626	Thu Jan 20 01:16:35 +0000 2011	4aef879df964a52018d921e3	{Exclusive Casting Studio / L.A Models}	{34.097949,-118.357242,Los Angeles,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+626	Sun Jan 16 21:32:18 +0000 2011	4d016521e0c5a1cdf2d476ae	{Adams Park}	{33.72648756721494,-116.28652739200542,La Quinta,CA,United States}	{Outdoors & Recreation,}
+626	Sun Jan 16 00:01:54 +0000 2011	4d32353e98336dcbe01521f0	{Vilebrequin}	{33.719502,-116.390311,,,United States}	{Shop & Service,Clothing Store,}
+626	Sat Jan 15 23:55:39 +0000 2011	4bf986bd4a67c928270527cf	{Coda Art Gallery}	{33.71963828708693,-116.38793354067616,Palm Desert,CA,United States}	{Arts & Entertainment,}
+626	Fri Jan 14 23:05:52 +0000 2011	4d45a99abbb1a14329ab5472	{Tough Cookies Children's Boutique}	{34.147737513311526,-118.43092251304921,Sherman Oaks,CA,United States}	{Shop & Service,Clothing Store,}
+626	Mon Jan 10 01:03:32 +0000 2011	4b43f24cf964a520c5ee25e3	{Starbucks}	{34.890771,-116.999406,Barstow,CA,United States}	{Food,}
+626	Sun Jan 09 21:11:19 +0000 2011	4d027c0dd4f4224b244a24e3	{I Love Burgers}	{36.12390612329048,-115.16920566558838,Las Vegas,NV,United States}	{Food,}
+626	Sun Jan 09 17:49:54 +0000 2011	4bc418c9dce4eee1cdef719d	{Royal Resort}	{36.13202852926842,-115.162951411702,Las Vegas,NV,United States}	{Travel & Transport,}
+626	Sat Jan 08 18:38:26 +0000 2011	4bc418c9dce4eee1cdef719d	{Royal Resort}	{36.13202852926842,-115.162951411702,Las Vegas,NV,United States}	{Travel & Transport,}
+626	Sat Jan 08 01:56:05 +0000 2011	4d0fb530b3692d4326b535de	{Official 2011 CES Tweetup, Las Vegas Hilton}	{36.135325,-115.152712,Las Vegas,NV,United States}	{Professional & Other Places,}
+626	Fri Jan 07 03:07:59 +0000 2011	4b6ed09ff964a520c5cb2ce3	{The Las Vegas Strip}	{36.115516839270214,-115.17287492752075,Las Vegas,NV,United States}	{Travel & Transport,}
+626	Wed Jan 05 21:07:57 +0000 2011	4b9ed14df964a5201d0437e3	{A Mother's Haven}	{34.155509,-118.480281,Encino,CA,United States}	{Shop & Service,}
+626	Tue Jan 04 03:57:01 +0000 2011	4b383a4bf964a520094d25e3	{Ralphs}	{34.14983695143494,-118.43916177749634,Sherman Oaks,CA,United States}	{Shop & Service,Food & Drink Shop,}
+626	Mon Jan 03 19:48:10 +0000 2011	4b2d40e3f964a52058d224e3	{Wells Fargo}	{34.15269090955988,-118.457046234799,Sherman Oaks,CA,United States}	{Shop & Service,}
+626	Sun Jan 02 23:17:32 +0000 2011	4b3a71d3f964a520746725e3	{Babies R Us}	{34.155761,-118.644528,Calabasas,CA,United States}	{Shop & Service,}
+626	Sun Jan 02 01:31:47 +0000 2011	49e53bc3f964a520ab631fe3	{Apple Store}	{34.0722477377302,-118.357806470545,Los Angeles,CA,United States}	{Shop & Service,}
+626	Sun Jan 02 01:24:04 +0000 2011	4a74b37ef964a52044df1fe3	{Gap}	{34.07205319769696,-118.35694670677185,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,}
+626	Sat Jan 01 05:03:52 +0000 2011	4abea43ef964a520058f20e3	{BevMo!}	{34.17642947334558,-118.46571564674377,Van Nuys,CA,United States}	{Shop & Service,Food & Drink Shop,}
+626	Sat Jan 01 02:12:30 +0000 2011	49c118d8f964a5207f551fe3	{Laurel Tavern}	{34.143101116666664,-118.39201591666667,Studio City,CA,United States}	{Nightlife Spot,Food,}
+626	Sat Jan 01 01:48:53 +0000 2011	4b118ae7f964a520f07e23e3	{Gelson's Market}	{34.15378352505939,-118.44777703285217,Sherman Oaks,CA,United States}	{Shop & Service,Food & Drink Shop,}
+626	Sat Jan 01 01:25:42 +0000 2011	4aa33860f964a520b84320e3	{Best Buy}	{34.15333072,-118.4482384,Sherman Oaks,CA,United States}	{Shop & Service,}
+626	Sat Jan 01 00:06:56 +0000 2011	4bda011663c5c9b6b7392268	{Janie and Jack}	{34.15695738341451,-118.43850908174808,Sherman Oaks,CA,United States}	{Shop & Service,Clothing Store,}
+626	Thu Dec 30 00:25:26 +0000 2010	4a307677f964a52071991fe3	{Solley's Restaurant & Deli}	{34.15467136773078,-118.44828128814697,Sherman Oaks,CA,United States}	{Food,}
+626	Tue Dec 28 22:55:16 +0000 2010	49ecee93f964a520af671fe3	{Delta Sky Club}	{40.640497899496765,-73.78941535949707,Jamaica,NY,United States}	{Travel & Transport,Airport,}
+626	Tue Dec 28 21:44:06 +0000 2010	4b32a0aff964a520601025e3	{Hertz Rental Car}	{40.65968655503597,-73.80379295675893,Jamaica,NY,United States}	{Travel & Transport,}
+626	Tue Dec 28 20:53:26 +0000 2010	43a52546f964a520532c1fe3	{John F. Kennedy International Airport (JFK)}	{40.645089355976346,-73.7845230102539,Jamaica,NY,United States}	{Travel & Transport,}
+626	Tue Dec 28 02:19:43 +0000 2010	4c60139623e303bbe2d97407	{Walgreens}	{40.14097589278735,-74.30092140667314,JACKSON,NJ,United States}	{Shop & Service,}
+626	Fri Dec 24 17:52:25 +0000 2010	4bd6bce0cfa7b713f4f427da	{Eet Gud Bakery}	{40.22836773926521,-74.70942411012628,Trenton,NJ,United States}	{Food,}
+626	Wed Dec 22 04:16:21 +0000 2010	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+626	Tue Dec 21 07:05:07 +0000 2010	4d0fbba8d0a860fc6fe83548	{Rainpocalypse 2010-2011}	{34.048001410031155,-118.26138496398926,Los Angeles,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+626	Mon Dec 20 18:00:52 +0000 2010	4ae48e20f964a5209a9b21e3	{Krazy Jim's Blimpy Burger}	{42.274512894167756,-83.74423111274352,Ann Arbor,MI,United States}	{Food,}
+626	Sat Dec 18 22:13:38 +0000 2010	4d0d31e2257d6dcb4bba9a67	{Lexi's Toy Box}	{42.278911,-83.749954,Ann Arbor,MI,United States}	{Shop & Service,}
+626	Sat Dec 18 19:46:03 +0000 2010	4c9d3301604c76b0f0907e7b	{Frita Batidos}	{42.280529,-83.749421,Ann Arbor,MI,United States}	{Nightlife Spot,Food,}
+626	Sat Dec 18 17:42:58 +0000 2010	4aee039df964a52051d121e3	{Sweetwaters Coffee & Tea}	{42.28043437863209,-83.74970734119415,Ann Arbor,MI,United States}	{Food,}
+626	Fri Dec 17 21:02:56 +0000 2010	4c23c211f7ced13a48ba216d	{Encino Medical Plaza}	{34.169179,-118.500657,Encino,CA,United States}	{Professional & Other Places,}
+626	Wed Dec 15 19:13:41 +0000 2010	4a8598ebf964a52098fe1fe3	{The Prime Burger}	{40.75879633859733,-73.9762851467593,New York,NY,United States}	{Food,}
+626	Wed Dec 15 02:42:48 +0000 2010	4b71af9cf964a5201b562de3	{FedEx Office Print & Ship Center}	{40.759052,-73.970627,New York,NY,United States}	{Shop & Service,}
+626	Tue Dec 14 16:04:05 +0000 2010	4b326741f964a520bb0a25e3	{Steve??s Barber Shop}	{40.830857,-73.687836,Port Washington,NY,United States}	{Shop & Service,}
+626	Tue Dec 14 06:44:30 +0000 2010	4a706db6f964a52074d71fe3	{Delta Sky Club}	{33.94077875238868,-118.40448081493378,Los Angeles,CA,United States}	{Travel & Transport,Airport,}
+626	Tue Dec 14 06:24:49 +0000 2010	4b16ce2af964a520c0bd23e3	{California Pizza Kitchen}	{33.94118818841376,-118.40434670448303,Los Angeles,CA,United States}	{Food,}
+626	Sun Dec 12 03:57:17 +0000 2010	4acbf6abf964a52077c820e3	{Baja Fresh}	{34.151181,-118.451647,Sherman Oaks,CA,United States}	{Food,}
+626	Sun Dec 12 03:57:17 +0000 2010	4acbf6abf964a52077c820e3	{Baja Fresh}	{34.151181,-118.451647,Sherman Oaks,CA,United States}	{Food,}
+626	Sun Dec 05 20:44:28 +0000 2010	4a9abc24f964a520683220e3	{Skirball Cultural Center}	{34.12502252196651,-118.47892881970068,Los Angeles,CA,United States}	{Museum,Arts & Entertainment,}
+626	Wed Dec 01 02:16:34 +0000 2010	4a417892f964a52055a51fe3	{Luxe Hotel}	{34.07266114560798,-118.46865229165289,Los Angeles,CA,United States}	{Travel & Transport,Food,}
+626	Sat Nov 27 01:40:40 +0000 2010	4ce193e1f8a4a143e071ebbc	{Five Guys}	{33.71517845,-116.296321,La Quinta,CA,United States}	{Food,}
+626	Fri Nov 26 23:18:19 +0000 2010	4c5b1eaeb05c1b8d7ef1d9b1	{The Gardens on El Paseo}	{33.719167994170554,-116.38131050326223,Palm Desert,CA,United States}	{Shop & Service,}
+626	Thu Nov 25 23:03:57 +0000 2010	4bb7f559b35776b0ce76c801	{Vons}	{33.72066315466703,-116.39533996582031,Palm Desert,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+626	Thu Nov 25 20:37:43 +0000 2010	4b6385ebf964a520a4802ae3	{The Living Desert Zoo & Botanical Gardens}	{33.70050763751755,-116.37432412302957,Palm Desert,CA,United States}	{Arts & Entertainment,}
+626	Wed Nov 24 00:13:36 +0000 2010	4c890d7fbbec6dcbdeddd858	{Smudge Studio}	{34.052801646703635,-118.34425449371338,Los Angeles,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+626	Tue Nov 23 00:58:53 +0000 2010	4a721084f964a52043da1fe3	{Panera Bread}	{34.15009678,-118.254768,Glendale,CA,United States}	{Food,}
+626	Sun Nov 21 20:32:35 +0000 2010	4b9bfd73f964a5201a3e36e3	{Louis Vuitton}	{34.190115297103816,-118.60363483428955,Canoga Park,CA,United States}	{Shop & Service,Clothing Store,}
+626	Sun Nov 21 00:12:38 +0000 2010	4b9bfd73f964a5201a3e36e3	{Louis Vuitton}	{34.190115297103816,-118.60363483428955,Canoga Park,CA,United States}	{Shop & Service,Clothing Store,}
+626	Sun Nov 21 00:02:22 +0000 2010	4a908821f964a520621820e3	{Apple Store, Topanga}	{34.1902373711111,-118.603103308888,Canoga Park,CA,United States}	{Shop & Service,}
+626	Sat Nov 20 22:40:13 +0000 2010	4ad3cbeaf964a5205de620e3	{Nordstrom}	{34.188780447093166,-118.60264163182059,Canoga Park,CA,United States}	{Shop & Service,}
+626	Sat Nov 20 19:11:01 +0000 2010	4af2617af964a52090e721e3	{Tavern Restaurant}	{34.05353187252243,-118.4634567567226,Los Angeles,CA,United States}	{Food,}
+626	Sat Nov 20 03:56:19 +0000 2010	4c890d7fbbec6dcbdeddd858	{Smudge Studio}	{34.052801646703635,-118.34425449371338,Los Angeles,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+626	Tue Nov 16 21:23:11 +0000 2010	4b35628af964a520b72c25e3	{Greco's New York Pizzeria}	{34.15465829762765,-118.44813725172726,Sherman Oaks,CA,United States}	{Food,}
+626	Tue Nov 16 21:12:11 +0000 2010	4b2d40e3f964a52058d224e3	{Wells Fargo}	{34.15269090955988,-118.457046234799,Sherman Oaks,CA,United States}	{Shop & Service,}
+626	Sun Nov 14 22:09:03 +0000 2010	4bc8af7c92b376b028f5513a	{Jersey Mike's Subs}	{34.26509049051403,-118.52656960487366,Granada Hills,CA,United States}	{Food,}
+626	Sun Nov 14 03:15:05 +0000 2010	4a179e64f964a5206a791fe3	{Nobu}	{34.08715059372973,-118.37667136254238,West Hollywood,CA,United States}	{College & University,Food,}
+626	Sat Nov 13 03:43:23 +0000 2010	4aa33860f964a520b84320e3	{Best Buy}	{34.15333072,-118.4482384,Sherman Oaks,CA,United States}	{Shop & Service,}
+626	Wed Nov 10 23:55:01 +0000 2010	4be35f49b02ec9b6116f4fc0	{Papyrus}	{34.157114,-118.437181,Sherman Oaks,CA,United States}	{Shop & Service,}
+626	Tue Nov 09 05:01:51 +0000 2010	4a417892f964a52055a51fe3	{Luxe Hotel}	{34.07266114560798,-118.46865229165289,Los Angeles,CA,United States}	{Travel & Transport,Food,}
+626	Tue Nov 09 03:16:05 +0000 2010	4b3d0ee2f964a520048d25e3	{American Jewish University - Familian Campus}	{34.126616611331386,-118.47161783686325,Los Angeles,CA,United States}	{College & University,}
+626	Sat Nov 06 07:18:54 +0000 2010	4cd4f46b76ab721e1c7a6a6a	{Tastespotting Kitchen}	{34.08088888333333,-118.38217020034446,Los Angeles,CA,United States}	{Food,}
+626	Sat Nov 06 02:23:05 +0000 2010	4b115a70f964a520c87a23e3	{The Coffee Bean & Tea Leaf}	{34.077127804561236,-118.38345585673707,West Hollywood,CA,United States}	{Food,}
+626	Tue Nov 02 20:09:15 +0000 2010	4cceed54dd919eb00c86139e	{Voting at VAN NUYS SHERMAN OAKS SR.}	{34.162144,-118.448674,Sherman Oaks,CA,United States}	{Professional & Other Places,}
+626	Sat Oct 30 18:15:36 +0000 2010	40d38200f964a52040011fe3	{Fred 62}	{34.10462202421534,-118.2916394863315,Los Angeles,CA,United States}	{Food,}
+626	Sat Oct 30 00:53:26 +0000 2010	4c52248394790f47728e2ca2	{The Pump Station And Nursery}	{34.15142808429896,-118.82372328906986,Westlake Village,CA,United States}	{Shop & Service,Clothing Store,}
+626	Fri Oct 29 23:28:45 +0000 2010	4ae36b21f964a520d69421e3	{Underwood Family Farms}	{34.255203477345404,-118.85228633880615,Moorpark,CA,United States}	{Outdoors & Recreation,}
+626	Fri Oct 29 22:10:42 +0000 2010	4c0e8a6d75f99c74e877ecc4	{Personne Complet Salon}	{34.167962757614745,-118.61826011673192,Woodland Hills,CA,United States}	{Shop & Service,}
+626	Thu Oct 28 01:07:04 +0000 2010	4b54f758f964a520afd527e3	{The Flame Broiler}	{34.16109858,-118.44845,Sherman Oaks,CA,United States}	{Food,}
+626	Thu Oct 28 00:44:52 +0000 2010	4a4e5c9ef964a5205aae1fe3	{Apple Store, Sherman Oaks}	{34.157112,-118.438083,Sherman Oaks,CA,United States}	{Shop & Service,}
+626	Tue Oct 26 16:35:47 +0000 2010	4cc1eb4a91413704888bb055	{Boeing Coffee Plus}	{33.92973804270271,-118.39604267807348,El Segundo,CA,United States}	{Food,}
+626	Tue Oct 26 13:35:50 +0000 2010	4a734f70f964a52019dc1fe3	{The Coffee Bean & Tea Leaf}	{33.92949061926147,-118.3965256886334,El Segundo,CA,United States}	{Food,}
+626	Mon Oct 25 02:29:29 +0000 2010	4bfc86681be376b007d7f8b4	{Berkeley Mills}	{34.016853,-118.49614,Santa Monica,CA,United States}	{Shop & Service,}
+626	Sun Oct 24 18:46:58 +0000 2010	4a734f70f964a52019dc1fe3	{The Coffee Bean & Tea Leaf}	{33.92949061926147,-118.3965256886334,El Segundo,CA,United States}	{Food,}
+626	Sat Oct 23 23:36:16 +0000 2010	4a12b3baf964a5208e771fe3	{Starbucks}	{34.151378,-118.451948,Sherman Oaks,CA,United States}	{Food,}
+626	Mon Oct 18 16:25:18 +0000 2010	4a81f151f964a5200ef81fe3	{UTC Ice Sports Center}	{32.87025209412909,-117.21011996269226,San Diego,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+626	Mon Oct 18 13:24:09 +0000 2010	4a12b3baf964a5208e771fe3	{Starbucks}	{34.151378,-118.451948,Sherman Oaks,CA,United States}	{Food,}
+626	Sun Oct 17 21:47:51 +0000 2010	4a67c66ff964a5200aca1fe3	{Sweet Harts}	{34.14779975,-118.431465,Sherman Oaks,CA,United States}	{Food,}
+626	Sun Oct 17 19:07:48 +0000 2010	4cbb2b5fdd41a35d6a86eca0	{Sherman Oaks Street Fair 2010}	{34.151448454280036,-118.45252990722656,Sherman Oaks,CA,United States}	{Arts & Entertainment,}
+626	Sun Oct 17 19:01:00 +0000 2010	4a12b3baf964a5208e771fe3	{Starbucks}	{34.151378,-118.451948,Sherman Oaks,CA,United States}	{Food,}
+626	Sun Oct 17 00:30:29 +0000 2010	4a6b4807f964a52055ce1fe3	{Westfield Fashion Square}	{34.15706981,-118.4373392,Sherman Oaks,CA,United States}	{Shop & Service,}
+626	Wed Oct 13 23:39:03 +0000 2010	4c8806b2ed0aa143e80da6f3	{2800 28th Street}	{34.01660574140953,-118.45483329254947,Santa Monica,CA,United States}	{Professional & Other Places,}
+626	Wed Oct 13 20:47:04 +0000 2010	4b4d022af964a52095c726e3	{Starbucks}	{33.902311,-118.38355163,El Segundo,CA,United States}	{Food,}
+626	Tue Oct 12 17:02:20 +0000 2010	4b2d40e3f964a52058d224e3	{Wells Fargo}	{34.15269090955988,-118.457046234799,Sherman Oaks,CA,United States}	{Shop & Service,}
+626	Sun Oct 10 02:01:34 +0000 2010	4a6676d3f964a52098c81fe3	{Pizza Fusion}	{34.01999217025672,-118.45447967533485,Santa Monica,CA,United States}	{Food,}
+626	Sat Oct 09 22:32:48 +0000 2010	45699daaf964a520e93d1fe3	{Costco}	{34.18171945833922,-118.4640097618103,Van Nuys,CA,United States}	{Shop & Service,Food,}
+626	Wed Oct 06 20:57:46 +0000 2010	47fccaaff964a520d44e1fe3	{Urth Caff?}	{34.00432424852786,-118.48574336870516,Santa Monica,CA,United States}	{Food,}
+626	Sun Oct 03 19:45:45 +0000 2010	4ac8e1a4f964a5200bbd20e3	{Brentwood Farmers' Market}	{34.050858800161194,-118.47499963424083,Los Angeles,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+626	Sun Sep 26 19:34:23 +0000 2010	45699daaf964a520e93d1fe3	{Costco}	{34.18171945833922,-118.4640097618103,Van Nuys,CA,United States}	{Shop & Service,Food,}
+626	Sat Sep 25 21:48:07 +0000 2010	4c44c912f0bdd13ac210cacc	{Santa Monica Place}	{34.01363622788694,-118.49391102790833,Santa Monica,CA,United States}	{Shop & Service,}
+626	Sat Sep 25 21:40:03 +0000 2010	4c64a626c74c1b8d6f37b283	{Kitson Men}	{34.07601673213391,-118.3837366104126,West Hollywood,CA,United States}	{Shop & Service,Clothing Store,}
+626	Sat Sep 25 02:34:10 +0000 2010	4aa95d08f964a520475320e3	{The Blue Dog Beer Tavern}	{34.151970077402,-118.4659731388092,Sherman Oaks,CA,United States}	{Nightlife Spot,Food,}
+626	Fri Sep 24 19:05:19 +0000 2010	4af07272f964a52025dc21e3	{Bristol Farms}	{33.90091752966155,-118.38561839231693,Manhattan Beach,CA,United States}	{Shop & Service,Food & Drink Shop,}
+626	Tue Sep 21 00:25:23 +0000 2010	4a0ddc3af964a520a6751fe3	{Zankou Chicken}	{34.173591,-118.46607186,Van Nuys,CA,United States}	{Food,}
+626	Mon Sep 20 23:41:47 +0000 2010	4ab6c4a8f964a520fc7820e3	{Trader Joe's}	{34.17194248955991,-118.5177344083786,Encino,CA,United States}	{Shop & Service,Food & Drink Shop,}
+626	Mon Sep 20 22:52:18 +0000 2010	4c6c09a7e6b7b1f76fd9a58e	{Tarzana Medical Building}	{34.170395620606584,-118.53294706852809,Tarzana,CA,United States}	{Professional & Other Places,}
+626	Sat Sep 18 21:28:04 +0000 2010	4a4e5c9ef964a5205aae1fe3	{Apple Store, Sherman Oaks}	{34.157112,-118.438083,Sherman Oaks,CA,United States}	{Shop & Service,}
+626	Sat Sep 18 01:27:00 +0000 2010	4be75ac9910020a1d45fd514	{Sweet Rose Creamery}	{34.04714800617037,-118.49038124084471,Santa Monica,CA,United States}	{Food,}
+626	Fri Sep 17 22:57:26 +0000 2010	4c672bd1e75ac92872e9f9da	{Caffe Luxxe - Brentwood Country Mart}	{34.047356,-118.49035978317261,Santa Monica,CA,United States}	{Food,}
+626	Tue Sep 14 18:37:21 +0000 2010	4c23c211f7ced13a48ba216d	{Encino Medical Plaza}	{34.169179,-118.500657,Encino,CA,United States}	{Professional & Other Places,}
+626	Sun Sep 12 22:53:09 +0000 2010	4b366548f964a5206b3425e3	{Lake Balboa Park}	{34.18016963556065,-118.49494113895724,Van Nuys,CA,United States}	{Outdoors & Recreation,}
+626	Sat Sep 11 19:01:09 +0000 2010	4a6b4807f964a52055ce1fe3	{Westfield Fashion Square}	{34.15706981,-118.4373392,Sherman Oaks,CA,United States}	{Shop & Service,}
+626	Sat Sep 11 18:34:49 +0000 2010	4c8bcb48cf3ea1437f16ef51	{#LightACandleFor911 - Sherman Oaks}	{34.156246,-118.394591,Valley Village,CA,United States}	{Outdoors & Recreation,}
+626	Tue Sep 07 19:54:03 +0000 2010	4c23c211f7ced13a48ba216d	{Encino Medical Plaza}	{34.169179,-118.500657,Encino,CA,United States}	{Professional & Other Places,}
+626	Mon Sep 06 20:31:30 +0000 2010	4c06f9598a81c9b6999c2690	{Limonaia}	{34.03174970291349,-118.49565982818604,Santa Monica,CA,United States}	{}
+626	Mon Sep 06 19:44:11 +0000 2010	4a09f090f964a52075741fe3	{SusieCakes}	{34.05334174633026,-118.465896,Los Angeles,CA,United States}	{Food,}
+626	Mon Sep 06 18:36:31 +0000 2010	4af2617af964a52090e721e3	{Tavern Restaurant}	{34.05353187252243,-118.4634567567226,Los Angeles,CA,United States}	{Food,}
+626	Sun Sep 05 20:49:17 +0000 2010	4aec7253f964a5202fc721e3	{Floyd's 99 Barbershop}	{34.161885,-118.517032,Encino,CA,United States}	{Shop & Service,}
+626	Sun Sep 05 19:35:16 +0000 2010	4a496132f964a5203eab1fe3	{Coral Tree Cafe}	{34.16179966179707,-118.51400221439931,Encino,CA,United States}	{Food,}
+626	Sun Sep 05 19:02:49 +0000 2010	4a12b3baf964a5208e771fe3	{Starbucks}	{34.151378,-118.451948,Sherman Oaks,CA,United States}	{Food,}
+626	Sat Sep 04 21:56:10 +0000 2010	4ba6d584f964a520647239e3	{CVS/pharmacy}	{34.152303266380834,-118.4539948763175,Sherman Oaks,CA,United States}	{Shop & Service,}
+626	Sat Sep 04 21:09:51 +0000 2010	4a4e5c9ef964a5205aae1fe3	{Apple Store, Sherman Oaks}	{34.157112,-118.438083,Sherman Oaks,CA,United States}	{Shop & Service,}
+626	Sat Sep 04 17:45:42 +0000 2010	4b731d2ef964a5203d9c2de3	{Providence Tarzana Medical Center}	{34.170686446416475,-118.5326850414276,Tarzana,CA,United States}	{Medical Center,Professional & Other Places,}
+626	Sat Sep 04 16:39:37 +0000 2010	4a12b3baf964a5208e771fe3	{Starbucks}	{34.151378,-118.451948,Sherman Oaks,CA,United States}	{Food,}
+626	Thu Sep 02 17:16:31 +0000 2010	4b731d2ef964a5203d9c2de3	{Providence Tarzana Medical Center}	{34.170686446416475,-118.5326850414276,Tarzana,CA,United States}	{Medical Center,Professional & Other Places,}
+626	Tue Aug 31 20:43:29 +0000 2010	3fd66200f964a52090f01ee3	{Maui Sugar Mill Saloon}	{34.168661,-118.53291034698486,Tarzana,CA,United States}	{Arts & Entertainment,}
+626	Tue Aug 31 18:33:02 +0000 2010	4b731d2ef964a5203d9c2de3	{Providence Tarzana Medical Center}	{34.170686446416475,-118.5326850414276,Tarzana,CA,United States}	{Medical Center,Professional & Other Places,}
+626	Tue Aug 31 03:50:10 +0000 2010	4becaabd2cf820a14e19b91c	{Frankie's Italian Kitchen}	{34.1709989772238,-118.53537163,Tarzana,CA,United States}	{Food,}
+626	Tue Aug 31 01:38:18 +0000 2010	4b731d2ef964a5203d9c2de3	{Providence Tarzana Medical Center}	{34.170686446416475,-118.5326850414276,Tarzana,CA,United States}	{Medical Center,Professional & Other Places,}
+626	Mon Aug 30 22:48:56 +0000 2010	4a12b3baf964a5208e771fe3	{Starbucks}	{34.151378,-118.451948,Sherman Oaks,CA,United States}	{Food,}
+626	Mon Aug 30 00:02:48 +0000 2010	4aa0a982f964a520364020e3	{Poquito Mas}	{34.14846515206059,-118.43596458435059,Sherman Oaks,CA,United States}	{Food,}
+626	Sun Aug 29 23:17:19 +0000 2010	4a878639f964a5209a0420e3	{Ralphs}	{34.17166213266743,-118.44722465288068,Sherman Oaks,CA,United States}	{Shop & Service,Food & Drink Shop,}
+626	Sat Aug 28 01:32:17 +0000 2010	4ba6d584f964a520647239e3	{CVS/pharmacy}	{34.152303266380834,-118.4539948763175,Sherman Oaks,CA,United States}	{Shop & Service,}
+626	Fri Aug 27 23:20:27 +0000 2010	4ad7b4fcf964a520e90d21e3	{Tully's Coffee}	{34.03007,-118.473534,Santa Monica,CA,United States}	{Food,}
+626	Fri Aug 27 19:58:26 +0000 2010	4b43a1eef964a520c7e425e3	{Chevron}	{33.90150796594338,-118.39654476195801,Manhattan Beach,CA,United States}	{Shop & Service,}
+626	Thu Aug 26 19:04:02 +0000 2010	4a8479fdf964a520b5fc1fe3	{Tacone Flavor Grill}	{33.929294,-118.396431,El Segundo,CA,United States}	{Food,}
+626	Thu Aug 26 18:13:30 +0000 2010	4a871b9af964a5209e0220e3	{REI}	{33.901018480681,-118.37978839874268,Manhattan Beach,CA,United States}	{Shop & Service,}
+626	Thu Aug 26 15:43:07 +0000 2010	4b4d022af964a52095c726e3	{Starbucks}	{33.902311,-118.38355163,El Segundo,CA,United States}	{Food,}
+626	Thu Aug 26 02:31:33 +0000 2010	49bdcdabf964a5209b541fe3	{The Stand}	{34.15975888823607,-118.50374497248595,Encino,CA,United States}	{Food,}
+626	Wed Aug 25 23:46:22 +0000 2010	4b4d022af964a52095c726e3	{Starbucks}	{33.902311,-118.38355163,El Segundo,CA,United States}	{Food,}
+626	Wed Aug 25 01:37:27 +0000 2010	4a417892f964a52055a51fe3	{Luxe Hotel}	{34.07266114560798,-118.46865229165289,Los Angeles,CA,United States}	{Travel & Transport,Food,}
+626	Sun Aug 22 18:22:48 +0000 2010	4ba59417f964a520de1339e3	{Hamptons}	{34.15135217934827,-118.80417518082362,Westlake Village,CA,United States}	{Food,}
+626	Sat Aug 21 03:07:16 +0000 2010	4a67c66ff964a5200aca1fe3	{Sweet Harts}	{34.14779975,-118.431465,Sherman Oaks,CA,United States}	{Food,}
+626	Sat Aug 21 01:52:49 +0000 2010	4bf76c744a67c92875bb23cf	{8 1/2 Taverna}	{34.15024891666667,-118.378063,Los Angeles,CA,United States}	{Food,}
+626	Fri Aug 20 17:00:44 +0000 2010	4a12b3baf964a5208e771fe3	{Starbucks}	{34.151378,-118.451948,Sherman Oaks,CA,United States}	{Food,}
+626	Fri Aug 20 01:29:44 +0000 2010	3fd66200f964a5208eee1ee3	{Skybar}	{34.09442839296151,-118.3744002931956,West Hollywood,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+626	Wed Aug 18 16:42:37 +0000 2010	4c6c09a7e6b7b1f76fd9a58e	{Tarzana Medical Building}	{34.170395620606584,-118.53294706852809,Tarzana,CA,United States}	{Professional & Other Places,}
+626	Wed Aug 18 15:32:42 +0000 2010	4b7c31a7f964a52086832fe3	{Tarzana Medical Square}	{34.169212788404856,-118.53319220280213,Tarzana,CA,United States}	{Professional & Other Places,}
+626	Wed Aug 18 02:27:06 +0000 2010	4aa95d08f964a520475320e3	{The Blue Dog Beer Tavern}	{34.151970077402,-118.4659731388092,Sherman Oaks,CA,United States}	{Nightlife Spot,Food,}
+626	Thu Aug 12 23:20:46 +0000 2010	4a748c8af964a52091de1fe3	{The Coffee Bean & Tea Leaf}	{34.07312240554301,-118.3761217398856,Los Angeles,CA,United States}	{Food,}
+626	Sun Aug 08 00:28:27 +0000 2010	4b5cdd87f964a520314829e3	{Naked Baby Boutique}	{34.142878630686084,-118.40195918460506,Studio City,CA,United States}	{Shop & Service,Clothing Store,}
+626	Sun Aug 08 00:12:09 +0000 2010	4a6216cff964a5200cc31fe3	{Maxwell Dog}	{34.14290616873556,-118.4020105323487,Studio City,CA,United States}	{Shop & Service,}
+626	Sat Aug 07 22:33:40 +0000 2010	49cfbeb6f964a520c25a1fe3	{IKEA}	{34.18496784179296,-118.31399917602539,Burbank,CA,United States}	{Shop & Service,}
+626	Mon Aug 02 23:57:49 +0000 2010	4c23c211f7ced13a48ba216d	{Encino Medical Plaza}	{34.169179,-118.500657,Encino,CA,United States}	{Professional & Other Places,}
+626	Sat Jul 31 22:59:59 +0000 2010	4c4b1ddf42b4d13a65bf397e	{Julie West Photography}	{34.46585698358162,-118.6224308698505,Castaic,CA,United States}	{}
+626	Fri Jul 30 01:05:41 +0000 2010	4c52248394790f47728e2ca2	{The Pump Station And Nursery}	{34.15142808429896,-118.82372328906986,Westlake Village,CA,United States}	{Shop & Service,Clothing Store,}
+626	Thu Jul 29 23:30:30 +0000 2010	4b3a71d3f964a520746725e3	{Babies R Us}	{34.155761,-118.644528,Calabasas,CA,United States}	{Shop & Service,}
+626	Thu Jul 29 00:33:05 +0000 2010	4ad8c6e3f964a5208c1421e3	{En Sushi}	{34.044357637905506,-118.45526105430324,Los Angeles,CA,United States}	{Food,}
+626	Tue Jul 27 01:15:25 +0000 2010	4a240eddf964a520f27d1fe3	{Bar * Food}	{34.04327,-118.46875791,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+626	Sat Jul 24 17:08:59 +0000 2010	4c4b1ddf42b4d13a65bf397e	{Julie West Photography}	{34.46585698358162,-118.6224308698505,Castaic,CA,United States}	{}
+626	Sat Jul 24 01:30:24 +0000 2010	4c2e8002452620a13aff1b0f	{Baby Gap}	{34.156994366666666,-118.438522,Sherman Oaks,CA,United States}	{Shop & Service,Clothing Store,}
+626	Thu Jul 22 22:57:05 +0000 2010	4c3b8aaa4565e21e40e5566a	{Magnolia Bakery}	{34.073161,-118.37298743333334,Los Angeles,CA,United States}	{Food,}
+626	Thu Jul 22 00:30:30 +0000 2010	4a0f1213f964a5201d761fe3	{California Chicken Cafe}	{34.03426470709576,-118.47994389164649,Santa Monica,CA,United States}	{Food,}
+626	Tue Jul 20 22:44:49 +0000 2010	4b7c31a7f964a52086832fe3	{Tarzana Medical Square}	{34.169212788404856,-118.53319220280213,Tarzana,CA,United States}	{Professional & Other Places,}
+626	Sun Jul 18 20:04:55 +0000 2010	4abbd325f964a5201c8520e3	{Holmby Park}	{34.07150219840695,-118.42832565307617,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+626	Sat Jul 17 20:45:59 +0000 2010	4b5525d7f964a520d6dc27e3	{Babies "R" Us}	{34.27713699757376,-118.56939394179467,Porter Ranch,CA,United States}	{Shop & Service,Clothing Store,}
+626	Sat Jul 17 01:57:10 +0000 2010	4c22c6b5fbe5c9b688899a21	{Mad Bull's Tavern}	{34.15167708098112,-118.4525191783905,Sherman Oaks,CA,United States}	{Nightlife Spot,Food,}
+626	Thu Jul 15 17:43:44 +0000 2010	4a8479fdf964a520b5fc1fe3	{Tacone Flavor Grill}	{33.929294,-118.396431,El Segundo,CA,United States}	{Food,}
+626	Thu Jul 15 00:59:27 +0000 2010	4ab944c0f964a520b77e20e3	{The Pump Station & Nurtury}	{34.034529,-118.47966313362122,Santa Monica,CA,United States}	{Shop & Service,}
+626	Sun Jul 11 02:12:19 +0000 2010	4a52bc1cf964a520f7b11fe3	{Cold Stone Creamery}	{34.15136594,-118.45188,Sherman Oaks,CA,United States}	{Food,}
+626	Sun Jul 11 00:18:33 +0000 2010	4b779569f964a520b3a22ee3	{Bleecker Street}	{34.169883728027344,-118.540318608284,Tarzana,CA,United States}	{Food,}
+626	Sat Jul 10 20:59:08 +0000 2010	4b9ed14df964a5201d0437e3	{A Mother's Haven}	{34.155509,-118.480281,Encino,CA,United States}	{Shop & Service,}
+626	Fri Jul 09 00:32:40 +0000 2010	49e27241f964a52017621fe3	{Cabo Cantina}	{34.01738017414994,-118.49825620651245,Santa Monica,CA,United States}	{Nightlife Spot,Food,}
+626	Thu Jul 08 00:55:08 +0000 2010	4ad8c6e3f964a5208c1421e3	{En Sushi}	{34.044357637905506,-118.45526105430324,Los Angeles,CA,United States}	{Food,}
+626	Sun Jul 04 01:03:26 +0000 2010	4c2fdd953896e21e81bfe490	{Janie and Jack}	{34.190385,-118.602909,Canoga Park,CA,United States}	{Shop & Service,Clothing Store,}
+626	Sat Jul 03 02:39:50 +0000 2010	4c1d2ec0e9c4ef3bb9ef45aa	{Food Truck Alley}	{34.03054047990366,-118.46913814544678,Santa Monica,CA,United States}	{Food,}
+626	Sat Jul 03 00:17:44 +0000 2010	4bda011663c5c9b6b7392268	{Janie and Jack}	{34.15695738341451,-118.43850908174808,Sherman Oaks,CA,United States}	{Shop & Service,Clothing Store,}
+626	Fri Jul 02 23:24:48 +0000 2010	4a4e5c9ef964a5205aae1fe3	{Apple Store, Sherman Oaks}	{34.157112,-118.438083,Sherman Oaks,CA,United States}	{Shop & Service,}
+626	Sun Jun 27 02:27:46 +0000 2010	4bd75bf7f645c9b6f8c1a5e0	{Get Shaved Ice}	{34.23886,-118.536328,Northridge,CA,United States}	{Food,}
+626	Sun Jun 27 01:50:18 +0000 2010	4b9d393af964a520f09a36e3	{Encino Velodrome}	{34.18175496047375,-118.50860953330994,Encino,CA,United States}	{Outdoors & Recreation,}
+626	Sat Jun 26 01:06:39 +0000 2010	4aa95d08f964a520475320e3	{The Blue Dog Beer Tavern}	{34.151970077402,-118.4659731388092,Sherman Oaks,CA,United States}	{Nightlife Spot,Food,}
+626	Fri Jun 25 00:07:18 +0000 2010	4c018da3f99620a1aec22404	{Mom's The Word}	{34.028393,-118.499631,Santa Monica,CA,United States}	{Shop & Service,Clothing Store,}
+626	Thu Jun 24 16:32:38 +0000 2010	4aa33860f964a520b84320e3	{Best Buy}	{34.15333072,-118.4482384,Sherman Oaks,CA,United States}	{Shop & Service,}
+626	Thu Jun 24 03:15:18 +0000 2010	4b035da5f964a520f64e22e3	{Starbucks}	{34.07174881546769,-118.36080372333527,Los Angeles,CA,United States}	{Food,}
+626	Sat Jun 19 16:29:27 +0000 2010	4b0d828ef964a520da4923e3	{Cafe Lindo}	{39.846688,-75.710211,Kennett Square,PA,United States}	{Food,}
+626	Tue Jun 15 23:20:07 +0000 2010	4be5ac68d4f7c9b68dba2520	{Juvenile Shop}	{34.146689,-118.42437268333333,Sherman Oaks,CA,United States}	{Shop & Service,Clothing Store,}
+626	Sat Jun 12 20:07:55 +0000 2010	4bc3a2c9920eb713cec21d2c	{Ferris Bueller's House}	{33.83154099069765,-118.19903098247283,Long Beach,CA,United States}	{Arts & Entertainment,}
+626	Sat Jun 05 18:10:03 +0000 2010	40d38200f964a52040011fe3	{Fred 62}	{34.10462202421534,-118.2916394863315,Los Angeles,CA,United States}	{Food,}
+626	Sat Jun 05 01:17:45 +0000 2010	4b5f57f6f964a5202cb529e3	{Bread Basket Cake Co.}	{34.22217331933975,-119.06846702098846,Camarillo,CA,United States}	{Food,}
+626	Fri Jun 04 00:33:56 +0000 2010	4a567a06f964a52041b51fe3	{The Cheesecake Factory}	{33.9799065926091,-118.45858097076416,Marina Del Rey,CA,United States}	{Food,}
+626	Sat May 29 23:23:04 +0000 2010	4b33f6b8f964a520ef2225e3	{Every Picture Tells a Story}	{34.031983,-118.495588,Santa Monica,CA,United States}	{Shop & Service,}
+626	Sat May 29 21:58:27 +0000 2010	4c018da3f99620a1aec22404	{Mom's The Word}	{34.028393,-118.499631,Santa Monica,CA,United States}	{Shop & Service,Clothing Store,}
+626	Fri May 28 02:06:45 +0000 2010	4be75ac9910020a1d45fd514	{Sweet Rose Creamery}	{34.04714800617037,-118.49038124084471,Santa Monica,CA,United States}	{Food,}
+626	Thu May 27 00:34:54 +0000 2010	4bad8013f964a520db563be3	{Yogurtland}	{34.05336397510688,-118.46590911511208,Los Angeles,CA,United States}	{Food,}
+626	Thu May 20 15:03:40 +0000 2010	4af31676f964a52089ea21e3	{Global Aperture Inc.}	{33.816641,-118.351587,Torrance,CA,United States}	{Professional & Other Places,}
+626	Wed May 19 00:38:13 +0000 2010	4ad8c6e3f964a5208c1421e3	{En Sushi}	{34.044357637905506,-118.45526105430324,Los Angeles,CA,United States}	{Food,}
+626	Sat May 15 23:17:22 +0000 2010	4b3a71d3f964a520746725e3	{Babies R Us}	{34.155761,-118.644528,Calabasas,CA,United States}	{Shop & Service,}
+626	Tue May 11 23:44:25 +0000 2010	4a4e815cf964a5208bae1fe3	{The Coffee Bean & Tea Leaf}	{34.156915211110025,-118.43753968181184,Sherman Oaks,CA,United States}	{Food,}
+626	Mon May 10 02:16:15 +0000 2010	4be76be59a54a59329ed0811	{Hot Wok Cafe}	{34.23654489121763,-118.53758175461205,Northridge,CA,United States}	{Food,}
+626	Thu May 06 02:34:38 +0000 2010	45a22f9cf964a520e9401fe3	{Bandera}	{34.04917213046579,-118.460947329226,Los Angeles,CA,United States}	{Food,}
+626	Sun May 02 18:44:37 +0000 2010	4a12b3baf964a5208e771fe3	{Starbucks}	{34.151378,-118.451948,Sherman Oaks,CA,United States}	{Food,}
+626	Sat May 01 23:06:48 +0000 2010	4a734f70f964a52019dc1fe3	{The Coffee Bean & Tea Leaf}	{33.92949061926147,-118.3965256886334,El Segundo,CA,United States}	{Food,}
+626	Wed Apr 28 00:53:42 +0000 2010	4bd1a4cd462cb713d885da07	{Four Paws Day Care}	{34.14638599,-118.41916414,Studio City,CA,United States}	{Shop & Service,}
+626	Tue Apr 27 06:44:32 +0000 2010	4b597496f964a520d28828e3	{Lucky Bar}	{36.156836175099045,-115.33326664967777,Las Vegas,NV,United States}	{Nightlife Spot,}
+626	Tue Apr 27 00:38:29 +0000 2010	4bc892d16501c9b64e604029	{Lakeside Center}	{36.207608202283744,-115.26822062738435,Las Vegas,NV,United States}	{Outdoors & Recreation,Professional & Other Places,}
+626	Tue Apr 27 00:38:28 +0000 2010	4bc892d16501c9b64e604029	{Lakeside Center}	{36.207608202283744,-115.26822062738435,Las Vegas,NV,United States}	{Outdoors & Recreation,Professional & Other Places,}
+626	Mon Apr 26 20:28:49 +0000 2010	46ae2f06f964a5207f491fe3	{Red Rock Casino Resort & Spa}	{36.15620689185038,-115.33408641815186,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+626	Mon Apr 26 01:53:48 +0000 2010	4ae86037f964a520f3ae21e3	{The Coffee Bean & Tea Leaf}	{36.195726,-115.25061009,Las Vegas,NV,United States}	{Food,}
+626	Mon Apr 26 01:12:39 +0000 2010	4bc892d16501c9b64e604029	{Lakeside Center}	{36.207608202283744,-115.26822062738435,Las Vegas,NV,United States}	{Outdoors & Recreation,Professional & Other Places,}
+626	Sun Apr 25 22:52:28 +0000 2010	49de9a63f964a52088601fe3	{Encore Las Vegas}	{36.129018986874925,-115.16491413116455,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+626	Sun Apr 25 20:21:35 +0000 2010	4bafcf85f964a520aa223ce3	{Wynn Las Vegas Pool}	{36.12576795436022,-115.16508215279474,Las Vegas,NV,United States}	{Travel & Transport,Outdoors & Recreation,}
+626	Sun Apr 25 08:29:21 +0000 2010	41326e00f964a520c4141fe3	{Olympic Garden}	{36.15222572205908,-115.15140579019013,Las Vegas,NV,United States}	{Nightlife Spot,}
+626	Sun Apr 25 01:12:36 +0000 2010	49de9a63f964a52088601fe3	{Encore Las Vegas}	{36.129018986874925,-115.16491413116455,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+626	Fri Apr 23 21:58:36 +0000 2010	4b2fd815f964a52012f124e3	{Lagasse's Stadium}	{36.124946054727204,-115.16963481903076,Las Vegas,NV,United States}	{Nightlife Spot,Food,}
+626	Fri Apr 23 02:35:40 +0000 2010	4abea43ef964a520058f20e3	{BevMo!}	{34.17642947334558,-118.46571564674377,Van Nuys,CA,United States}	{Shop & Service,Food & Drink Shop,}
+626	Thu Apr 22 01:29:39 +0000 2010	4a417892f964a52055a51fe3	{Luxe Hotel}	{34.07266114560798,-118.46865229165289,Los Angeles,CA,United States}	{Travel & Transport,Food,}
+626	Sun Apr 18 17:38:14 +0000 2010	4a80a9c2f964a520d8f51fe3	{Goodwill Store & Donation Center}	{34.1519101463986,-118.45712184906006,Sherman Oaks,CA,United States}	{Shop & Service,}
+626	Sun Apr 18 01:26:02 +0000 2010	4aad9f0cf964a5200b6120e3	{Rosti Tuscan Kitchen}	{34.156997471266806,-118.48901867866516,Encino,CA,United States}	{Food,}
+626	Sat Apr 17 01:50:18 +0000 2010	468d7b22f964a52076481fe3	{The Magic Castle}	{34.104573578856964,-118.34159910678864,Hollywood,CA,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+626	Fri Apr 16 00:56:34 +0000 2010	44ded597f964a520d3361fe3	{The Coffee Bean & Tea Leaf}	{34.01488689804885,-118.4967506064362,Santa Monica,CA,United States}	{Food,}
+626	Sun Apr 11 18:16:23 +0000 2010	4ac26c56f964a520149920e3	{The Container Store}	{34.058970594781314,-118.4200497308746,Los Angeles,CA,United States}	{Shop & Service,}
+626	Thu Apr 08 01:34:30 +0000 2010	4abc36a7f964a520cb8620e3	{Wahoo's Fish Tacos}	{34.047001,-118.464111,Los Angeles,CA,United States}	{Food,}
+626	Wed Apr 07 14:49:38 +0000 2010	4a57fee1f964a52037b71fe3	{O2 MAX Fitness}	{34.01868224143982,-118.484404,Santa Monica,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+626	Tue Apr 06 23:48:23 +0000 2010	4b784894f964a5200fc22ee3	{Wilacre Park}	{34.13378624467022,-118.3922770009987,Studio City,CA,United States}	{Outdoors & Recreation,}
+626	Sat Apr 03 23:58:49 +0000 2010	4a4e5c9ef964a5205aae1fe3	{Apple Store, Sherman Oaks}	{34.157112,-118.438083,Sherman Oaks,CA,United States}	{Shop & Service,}
+626	Sat Apr 03 16:54:58 +0000 2010	4ba50136f964a52033cf38e3	{The Pet Doctors of Sherman Oaks}	{34.148114919662476,-118.433134,Sherman Oaks,CA,United States}	{Shop & Service,Professional & Other Places,}
+626	Sat Apr 03 16:39:47 +0000 2010	4a12b3baf964a5208e771fe3	{Starbucks}	{34.151378,-118.451948,Sherman Oaks,CA,United States}	{Food,}
+626	Fri Apr 02 02:03:07 +0000 2010	4aa95d08f964a520475320e3	{The Blue Dog Beer Tavern}	{34.151970077402,-118.4659731388092,Sherman Oaks,CA,United States}	{Nightlife Spot,Food,}
+626	Tue Mar 30 22:25:24 +0000 2010	4b7c31a7f964a52086832fe3	{Tarzana Medical Square}	{34.169212788404856,-118.53319220280213,Tarzana,CA,United States}	{Professional & Other Places,}
+626	Sat Mar 27 23:15:50 +0000 2010	4b77582ff964a520b7932ee3	{Coco De Mer}	{34.08189905920384,-118.38011214531532,West Hollywood,CA,United States}	{Shop & Service,Clothing Store,}
+626	Sat Mar 27 19:53:55 +0000 2010	4bae61daf964a520fbaa3be3	{Paige Premium Denim}	{34.076048,-118.383748,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,}
+626	Fri Mar 26 18:41:39 +0000 2010	4b200d99f964a520992c24e3	{Subway Sandwiches}	{33.927618,-118.383681,El Segundo,CA,United States}	{Food,}
+626	Thu Mar 25 23:01:46 +0000 2010	4ba7f49ff964a52099c139e3	{1137 Second Street}	{34.01829,-118.500626,Santa Monica,CA,United States}	{Professional & Other Places,}
+626	Thu Mar 25 04:09:12 +0000 2010	4b288ce4f964a520e89324e3	{The Tar Pit}	{34.0822203,-118.3440691,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+626	Thu Mar 25 01:51:19 +0000 2010	40a6af00f964a52027f31ee3	{Los Angeles County Museum of Art (LACMA)}	{34.063263442961286,-118.35897445678711,Los Angeles,CA,United States}	{Museum,Arts & Entertainment,}
+626	Sun Mar 21 21:06:52 +0000 2010	4a4e815cf964a5208bae1fe3	{The Coffee Bean & Tea Leaf}	{34.156915211110025,-118.43753968181184,Sherman Oaks,CA,United States}	{Food,}
+626	Sat Mar 20 22:54:02 +0000 2010	4ba50136f964a52033cf38e3	{The Pet Doctors of Sherman Oaks}	{34.148114919662476,-118.433134,Sherman Oaks,CA,United States}	{Shop & Service,Professional & Other Places,}
+626	Sat Mar 20 22:35:00 +0000 2010	4ad38eb6f964a520efe420e3	{Big Sugar Bakeshop}	{34.14325,-118.39794,Studio City,CA,United States}	{Food,}
+626	Sat Mar 20 17:57:43 +0000 2010	4af2617af964a52090e721e3	{Tavern Restaurant}	{34.05353187252243,-118.4634567567226,Los Angeles,CA,United States}	{Food,}
+626	Sat Mar 13 01:58:27 +0000 2010	4b69a1fef964a52084aa2be3	{Starbucks}	{32.7059979796575,-117.16014504432678,San Diego,CA,United States}	{Food,}
+626	Fri Mar 12 18:13:25 +0000 2010	47a7e7adf964a5208e4d1fe3	{San Diego Convention Center}	{32.706765341432224,-117.16129302978516,San Diego,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+626	Thu Mar 11 01:32:04 +0000 2010	4a6b4807f964a52055ce1fe3	{Westfield Fashion Square}	{34.15706981,-118.4373392,Sherman Oaks,CA,United States}	{Shop & Service,}
+626	Tue Mar 09 04:27:44 +0000 2010	4a9f1691f964a520783c20e3	{Borders Books & Music}	{34.151871,-118.45296938,Sherman Oaks,CA,United States}	{Shop & Service,}
+626	Mon Mar 08 23:19:48 +0000 2010	4b7c31a7f964a52086832fe3	{Tarzana Medical Square}	{34.169212788404856,-118.53319220280213,Tarzana,CA,United States}	{Professional & Other Places,}
+626	Mon Mar 08 18:55:47 +0000 2010	4b7c31a7f964a52086832fe3	{Tarzana Medical Square}	{34.169212788404856,-118.53319220280213,Tarzana,CA,United States}	{Professional & Other Places,}
+626	Sun Mar 07 20:46:27 +0000 2010	4b82cbaef964a52085e530e3	{DSW Designer Shoe Warehouse}	{34.1544272119266,-118.46707284450531,Sherman Oaks,CA,United States}	{Shop & Service,Clothing Store,}
+626	Sun Mar 07 18:24:19 +0000 2010	4747dd94f964a5208b4c1fe3	{ArcLight Cinemas Sherman Oaks}	{34.15463585420314,-118.46731424331665,Sherman Oaks,CA,United States}	{Nightlife Spot,Arts & Entertainment,Movie Theater,}
+626	Sun Mar 07 18:13:47 +0000 2010	4ab676f3f964a5203c7720e3	{Starbucks Coffee}	{34.15563910561095,-118.46690118312836,Sherman Oaks,CA,United States}	{Food,}
+626	Wed Mar 03 03:00:57 +0000 2010	4b077275f964a520b2fd22e3	{Wilshire Ebell Theatre}	{34.060988183453915,-118.3249484435003,Los Angeles,CA,United States}	{Arts & Entertainment,}
+626	Fri Feb 26 17:35:53 +0000 2010	4a12b3baf964a5208e771fe3	{Starbucks}	{34.151378,-118.451948,Sherman Oaks,CA,United States}	{Food,}
+626	Thu Feb 25 22:50:54 +0000 2010	4bfd8512f7c82d7f664e8e04	{zpizza}	{33.92740869431181,-118.38367223739624,El Segundo,CA,United States}	{Food,}
+626	Mon Feb 22 03:08:21 +0000 2010	4a5d33e5f964a5205cbd1fe3	{The Habit Burger Grill}	{34.15143957556071,-118.45263183116913,Sherman Oaks,CA,United States}	{Food,}
+626	Sun Feb 21 19:37:15 +0000 2010	4aa54616f964a520cc4720e3	{Fromin's Restaurant}	{34.162431,-118.516928,Encino,CA,United States}	{Food,}
+626	Sat Feb 20 04:00:42 +0000 2010	4b60d80df964a5201efd29e3	{Loteria Grill}	{34.14333735519404,-118.39437425136566,Studio City,CA,United States}	{Food,}
+626	Sat Feb 20 00:40:49 +0000 2010	4aedf09ff964a52079d021e3	{Bloomingdale's}	{34.156724627553935,-118.43910800666893,Sherman Oaks,CA,United States}	{Shop & Service,Clothing Store,}
+626	Wed Feb 17 17:04:06 +0000 2010	4b10a243f964a520177423e3	{The Coffee Bean & Tea Leaf}	{34.169219736058054,-118.53632523916333,Tarzana,CA,United States}	{Food,}
+626	Mon Feb 15 01:02:15 +0000 2010	4747dd94f964a5208b4c1fe3	{ArcLight Cinemas Sherman Oaks}	{34.15463585420314,-118.46731424331665,Sherman Oaks,CA,United States}	{Nightlife Spot,Arts & Entertainment,Movie Theater,}
+626	Sat Feb 13 22:12:13 +0000 2010	4a6b4807f964a52055ce1fe3	{Westfield Fashion Square}	{34.15706981,-118.4373392,Sherman Oaks,CA,United States}	{Shop & Service,}
+626	Wed Feb 10 00:04:51 +0000 2010	40a55d80f964a52026f31ee3	{House of Pies}	{34.105062177833624,-118.2920640707016,Los Angeles,CA,United States}	{Food,}
+626	Tue Feb 09 23:14:19 +0000 2010	4ac56be6f964a520f9b120e3	{Casapedia}	{34.12057979190231,-118.25850958879228,Atwater Village,CA,United States}	{Residence,}
+626	Tue Feb 09 02:27:27 +0000 2010	416dc180f964a5209c1d1fe3	{Coral Tree Caf?}	{34.05408045801656,-118.46378754206204,Los Angeles,CA,United States}	{Food,}
+626	Sun Feb 07 21:52:32 +0000 2010	4ad38eb6f964a520efe420e3	{Big Sugar Bakeshop}	{34.14325,-118.39794,Studio City,CA,United States}	{Food,}
+626	Sun Feb 07 21:52:32 +0000 2010	4ad38eb6f964a520efe420e3	{Big Sugar Bakeshop}	{34.14325,-118.39794,Studio City,CA,United States}	{Food,}
+626	Sun Feb 07 20:36:30 +0000 2010	4b648bb1f964a52074bc2ae3	{Armstrong Garden Center}	{34.164589,-118.41466788333334,Sherman Oaks,CA,United States}	{Outdoors & Recreation,}
+626	Sun Feb 07 04:02:15 +0000 2010	4a52bc1cf964a520f7b11fe3	{Cold Stone Creamery}	{34.15136594,-118.45188,Sherman Oaks,CA,United States}	{Food,}
+626	Fri Feb 05 23:37:41 +0000 2010	4a57fee1f964a52037b71fe3	{O2 MAX Fitness}	{34.01868224143982,-118.484404,Santa Monica,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+626	Fri Feb 05 21:27:15 +0000 2010	4a27f9bef964a520e4941fe3	{INC (Idyllic Nerd Commune)}	{34.046458,-118.234254,Los Angeles,CA,United States}	{Office,Professional & Other Places,}
+626	Fri Feb 05 04:20:48 +0000 2010	4aa53f6ef964a520b64720e3	{La Fogata Mexican Restaurant}	{34.164090803573124,-118.4484314918518,Sherman Oaks,CA,United States}	{Food,}
+626	Tue Feb 02 01:25:36 +0000 2010	49cd269af964a520c1591fe3	{The Coffee Bean & Tea Leaf}	{33.9729469419091,-118.42273301931812,Playa Vista,CA,United States}	{Food,}
+626	Mon Feb 01 19:09:07 +0000 2010	4a5e3c29f964a52035be1fe3	{Starbucks}	{33.927411,-118.38381082000001,El Segundo,CA,United States}	{Food,}
+626	Sat Jan 30 19:45:23 +0000 2010	4b648bb1f964a52074bc2ae3	{Armstrong Garden Center}	{34.164589,-118.41466788333334,Sherman Oaks,CA,United States}	{Outdoors & Recreation,}
+626	Thu Jan 28 00:23:10 +0000 2010	4b60d896f964a5204dfd29e3	{Griffith Middle School}	{34.03184042231134,-118.1621438804856,Los Angeles,CA,United States}	{Professional & Other Places,}
+626	Sun Jan 24 21:33:24 +0000 2010	4a620cfdf964a520edc21fe3	{Starbucks}	{34.144722556978486,-118.41237187385559,Studio City,CA,United States}	{Food,}
+626	Sat Jan 23 21:03:15 +0000 2010	45699daaf964a520e93d1fe3	{Costco}	{34.18171945833922,-118.4640097618103,Van Nuys,CA,United States}	{Shop & Service,Food,}
+626	Sat Jan 23 01:11:56 +0000 2010	4af2617af964a52090e721e3	{Tavern Restaurant}	{34.05353187252243,-118.4634567567226,Los Angeles,CA,United States}	{Food,}
+626	Fri Jan 22 22:17:03 +0000 2010	416dc180f964a5209c1d1fe3	{Coral Tree Caf?}	{34.05408045801656,-118.46378754206204,Los Angeles,CA,United States}	{Food,}
+626	Tue Jan 19 01:08:19 +0000 2010	42a63500f964a52007251fe3	{Newsroom Cafe}	{34.076165,-118.38367,Los Angeles,CA,United States}	{Food,}
+626	Mon Jan 18 16:00:57 +0000 2010	4a5e3c29f964a52035be1fe3	{Starbucks}	{33.927411,-118.38381082000001,El Segundo,CA,United States}	{Food,}
+626	Sat Jan 16 23:09:00 +0000 2010	4b46a88af964a520662626e3	{Ron Herman}	{34.053863,-118.465184,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,}
+626	Sat Jan 16 21:05:50 +0000 2010	4ad10137f964a520dddb20e3	{The Wagging Tail}	{34.029804,-118.497291,Santa Monica,CA,United States}	{Shop & Service,}
+626	Fri Jan 15 23:33:37 +0000 2010	4a6b4807f964a52055ce1fe3	{Westfield Fashion Square}	{34.15706981,-118.4373392,Sherman Oaks,CA,United States}	{Shop & Service,}
+626	Fri Jan 15 00:33:49 +0000 2010	4a734f70f964a52019dc1fe3	{The Coffee Bean & Tea Leaf}	{33.92949061926147,-118.3965256886334,El Segundo,CA,United States}	{Food,}
+626	Tue Jan 12 03:32:45 +0000 2010	416dc180f964a5209c1d1fe3	{Coral Tree Caf?}	{34.05408045801656,-118.46378754206204,Los Angeles,CA,United States}	{Food,}
+626	Mon Jan 11 01:41:30 +0000 2010	4a5793d6f964a52063b61fe3	{Mozza2Go}	{34.083435,-118.339067,Los Angeles,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+626	Sun Jan 10 23:32:10 +0000 2010	4a9d8f81f964a5207f3820e3	{Samy's Camera}	{34.06885824066871,-118.36164325475693,Los Angeles,CA,United States}	{Shop & Service,}
+626	Sun Jan 10 19:58:09 +0000 2010	4afefe24f964a520a43222e3	{Noah's Bagels}	{34.151471,-118.452335,Sherman Oaks,CA,United States}	{Food,}
+626	Fri Jan 08 03:26:52 +0000 2010	4a52bc1cf964a520f7b11fe3	{Cold Stone Creamery}	{34.15136594,-118.45188,Sherman Oaks,CA,United States}	{Food,}
+626	Thu Jan 07 16:22:06 +0000 2010	4b45141cf964a520bb0326e3	{US Post Office}	{34.164764801137665,-118.45790174580804,Sherman Oaks,CA,United States}	{Professional & Other Places,}
+626	Thu Jan 07 16:22:05 +0000 2010	4b45141cf964a520bb0326e3	{US Post Office}	{34.164764801137665,-118.45790174580804,Sherman Oaks,CA,United States}	{Professional & Other Places,}
+626	Mon Jan 04 00:20:36 +0000 2010	4b118ae7f964a520f07e23e3	{Gelson's Market}	{34.15378352505939,-118.44777703285217,Sherman Oaks,CA,United States}	{Shop & Service,Food & Drink Shop,}
+626	Sat Jan 02 02:14:48 +0000 2010	43c01c63f964a5202d2d1fe3	{P.F. Chang's}	{34.15517743387707,-118.46673488616943,Sherman Oaks,CA,United States}	{Food,}
+626	Fri Jan 01 06:47:28 +0000 2010	4b3d9a06f964a520b99525e3	{8443 Warner}	{34.023494,-118.378729,Culver City,CA,United States}	{Professional & Other Places,}
+626	Sun Dec 27 19:35:58 +0000 2009	4a35545bf964a520d19c1fe3	{Club 33}	{33.811018716673715,-117.92124196887016,Anaheim,CA,United States}	{Nightlife Spot,Food,}
+626	Sun Dec 27 16:19:59 +0000 2009	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+626	Sat Dec 26 19:54:26 +0000 2009	4b3669cbf964a520d73425e3	{:10 Minute Manicure}	{40.640744119436995,-73.78668536170154,Jamaica,NY,United States}	{Shop & Service,}
+626	Sat Dec 26 02:59:10 +0000 2009	4b3423a5f964a520712525e3	{Hotel Tides}	{40.227855,-74.0039024,Asbury Park,NJ,United States}	{Nightlife Spot,Travel & Transport,Hotel,}
+626	Thu Dec 24 21:15:41 +0000 2009	4b33d9cdf964a520912025e3	{Gito}	{40.7240132460082,-74.3071835060533,Millburn,NJ,United States}	{Shop & Service,Clothing Store,}
+626	Thu Dec 24 19:13:37 +0000 2009	4a8efcbcf964a520791320e3	{Wine Library}	{40.716977249601676,-74.32462228254472,Springfield,NJ,United States}	{Shop & Service,Food & Drink Shop,}
+626	Thu Dec 24 17:36:00 +0000 2009	4b33a664f964a520201c25e3	{Whole Foods Market}	{40.7976260787414,-73.67051276437593,Munsey Park,NY,United States}	{Shop & Service,Food & Drink Shop,}
+626	Wed Dec 23 07:19:29 +0000 2009	4afb2990f964a520a91b22e3	{Maialino}	{40.7384679233738,-73.98564579301615,New York,NY,United States}	{Food,}
+626	Wed Dec 23 00:41:20 +0000 2009	3fd66200f964a520d9ea1ee3	{The Bitter End}	{40.72827687733523,-73.99928133165464,New York,NY,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+626	Wed Dec 23 00:08:10 +0000 2009	49ea310ef964a52032661fe3	{Rock & Roll Hall of Fame Annex}	{40.72277,-74.000115,New York,NY,United States}	{Arts & Entertainment,}
+626	Mon Dec 21 05:05:34 +0000 2009	4a54f53df964a52079b31fe3	{The Parking Spot}	{33.95408441519924,-118.3971905708313,Los Angeles,CA,United States}	{Travel & Transport,Professional & Other Places,}
+626	Sat Dec 19 17:21:48 +0000 2009	4a6b4807f964a52055ce1fe3	{Westfield Fashion Square}	{34.15706981,-118.4373392,Sherman Oaks,CA,United States}	{Shop & Service,}
+626	Fri Dec 18 21:36:01 +0000 2009	416dc180f964a5209c1d1fe3	{Coral Tree Caf?}	{34.05408045801656,-118.46378754206204,Los Angeles,CA,United States}	{Food,}
+626	Sun Dec 13 06:08:59 +0000 2009	49fd1f68f964a5200c6f1fe3	{Pinkberry}	{33.90460318,-118.39555707,El Segundo,CA,United States}	{Food,}
+626	Fri Dec 11 04:19:11 +0000 2009	4a7f0f74f964a5209ef21fe3	{Gibson Amphitheatre}	{34.13800500430396,-118.35354566574097,Universal City,CA,United States}	{Performing Arts Venue,Music Venue,Arts & Entertainment,}
+626	Thu Dec 10 05:26:26 +0000 2009	4a4716adf964a520c2a91fe3	{coco deville}	{34.08514201641083,-118.3765697479248,Los Angeles,CA,United States}	{Nightlife Spot,}
+626	Thu Dec 10 04:29:35 +0000 2009	49c27d4af964a520f6551fe3	{Dominick's}	{34.077024584793584,-118.38107646482612,West Hollywood,CA,United States}	{Food,}
+626	Wed Dec 09 03:56:15 +0000 2009	4a4ea9c9f964a520e0ae1fe3	{R+D Kitchen}	{34.03201299190561,-118.49567671037848,Santa Monica,CA,United States}	{Nightlife Spot,Food,}
+626	Wed Dec 09 01:06:48 +0000 2009	49c902b7f964a5202a581fe3	{Starbucks}	{34.07702313820302,-118.38361322879791,Los Angeles,CA,United States}	{Food,}
+626	Wed Dec 09 01:02:19 +0000 2009	4c240625f1272d7f0a7782c5	{Kitson}	{34.07559240036934,-118.38380591534423,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,}

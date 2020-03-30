@@ -1,0 +1,624 @@
+2416	Sat Aug 13 14:29:58 +0000 2011	4c470c3e1ddec928c11b9c32	{Highway 3 At Cedar Drive}	{29.37222752088853,-94.96376037597656,La Marque,TX,United States}	{Travel & Transport,}
+2416	Thu Aug 11 22:53:10 +0000 2011	4bfb34c665fbc9b6022f916c	{SONIC Drive In}	{36.39007576228086,-97.93905973434448,Enid,OK,United States}	{Food,}
+2416	Thu Aug 11 17:06:55 +0000 2011	4be301f4f07b0f4714d3f643	{Wee Too Restaurant}	{36.434701443828864,-97.87314058576068,Enid,OK,United States}	{Food,}
+2416	Wed Aug 10 19:19:13 +0000 2011	4b7851d1f964a52002c52ee3	{Will Rogers World Airport (OKC)}	{35.395493820937496,-97.59653671248208,Oklahoma City,OK,United States}	{Travel & Transport,Airport,}
+2416	Wed Aug 10 14:59:03 +0000 2011	4bc7da668b7c9c74225837cf	{Minneapolis-St. Paul International Airport (MSP)}	{44.884397546192474,-93.21178436279297,Minneapolis,MN,United States}	{Travel & Transport,}
+2416	Wed Aug 10 13:38:33 +0000 2011	4b344d59f964a520e02625e3	{Fargo Hector International Airport (FAR)}	{46.919867813994,-96.82552759393162,Fargo,ND,United States}	{Travel & Transport,Airport,}
+2416	Sun Jul 24 05:37:23 +0000 2011	4bccb89dfb84c9b69fe8203e	{Blue Frog's Local 22}	{41.88985068690511,-87.6270604133606,Chicago,IL,United States}	{Nightlife Spot,Food,}
+2416	Sun Jul 24 02:29:40 +0000 2011	4b2c2b02f964a52004c324e3	{Jaipur Indian}	{41.884208,-87.649309,Chicago,IL,United States}	{Food,}
+2416	Sat Jul 23 21:46:18 +0000 2011	40dcbc80f964a52081011fe3	{Wrigley Field}	{41.94825586972943,-87.65547037124634,Chicago,IL,United States}	{Stadium,Arts & Entertainment,}
+2416	Sat Jul 23 15:54:17 +0000 2011	4a330469f964a520f09a1fe3	{Palmer House Hilton}	{41.88040951414415,-87.62701749801636,Chicago,IL,United States}	{Travel & Transport,}
+2416	Sat Jul 23 03:32:53 +0000 2011	4a346e24f964a520409c1fe3	{SUSHISAMBA rio}	{41.89109662579461,-87.63429164886475,Chicago,IL,United States}	{Nightlife Spot,Food,}
+2416	Fri Jul 22 17:52:41 +0000 2011	4aba79eef964a5207b8120e3	{Clarence Buckingham Memorial Fountain}	{41.8756884045954,-87.61897087097168,Chicago,IL,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+2416	Fri Jul 22 15:35:49 +0000 2011	4a15c362f964a520cc781fe3	{Lou Mitchell's}	{41.877998859828715,-87.64200568815419,Chicago,IL,United States}	{Food,}
+2416	Fri Jul 22 00:57:23 +0000 2011	4c14342aa5eb76b07c6cc1b7	{Mega Holiday}	{44.7883,-91.519596,Eau Claire,WI,United States}	{Shop & Service,}
+2416	Sat Jul 16 18:05:05 +0000 2011	4dd99ca4d22d38ef431dccef	{Pizza Ranch}	{47.44102478027344,-99.11797106266022,Carrington,ND,United States}	{Food,}
+2416	Tue Jul 12 20:06:18 +0000 2011	4e1ca9277d8b8fe8c30a277b	{Andy Deterding Ag Aviation--Carrington}	{47.45694,-99.148026,Carrington,ND,United States}	{Travel & Transport,}
+2416	Tue Jul 12 12:59:31 +0000 2011	4c684e4c607ad13ad643a82b	{Cenex}	{47.15483748876128,-100.79133527255665,Wilton,ND,United States}	{Shop & Service,}
+2416	Tue Jul 12 12:58:50 +0000 2011	4c684e4c607ad13ad643a82b	{Cenex}	{47.15483748876128,-100.79133527255665,Wilton,ND,United States}	{Shop & Service,}
+2416	Sat Jul 09 20:23:28 +0000 2011	4c684e4c607ad13ad643a82b	{Cenex}	{47.15483748876128,-100.79133527255665,Wilton,ND,United States}	{Shop & Service,}
+2416	Sat Jul 09 18:45:48 +0000 2011	4e18a1ca18a8166f738e1761	{Andy Deterding Ag Aviation--Washburn}	{47.26705393,-100.98820523,Turtle Lake,ND,United States}	{Travel & Transport,}
+2416	Thu Jul 07 06:24:40 +0000 2011	4df5c17852b100c2d8020edf	{Washburn, North Dakota}	{47.29927488624353,-101.03058875049369,Washburn,ND,United States}	{Outdoors & Recreation,}
+2416	Thu Jul 07 00:22:12 +0000 2011	4b5ccfaef964a520304529e3	{Common Grounds}	{44.48892,-103.857645,Spearfish,SD,United States}	{Food,}
+2416	Wed Jul 06 21:33:32 +0000 2011	4c338df47cc0c9b6c8fef19a	{Loaf 'N Jug}	{43.84911794193384,-104.19468382268253,Newcastle,WY,United States}	{Shop & Service,}
+2416	Tue Jul 05 16:12:10 +0000 2011	4c719a380e23b1f711b81bdc	{Hastings Entertainment}	{40.38834784289972,-104.71747398376465,Greeley,CO,United States}	{Shop & Service,}
+2416	Tue Jul 05 01:14:46 +0000 2011	4ba24a3bf964a52036ea37e3	{Dollar Rent A Car}	{39.8375018384079,-104.71300875518816,Denver,CO,United States}	{Travel & Transport,}
+2416	Tue Jul 05 00:58:55 +0000 2011	4b98f92cf964a520865935e3	{DIA Train}	{39.852137623689565,-104.67378616333006,Denver,CO,United States}	{Travel & Transport,Airport,}
+2416	Tue Jul 05 00:13:00 +0000 2011	4bcbc7d2937ca593114aaa92	{Concourse B}	{39.85875947854826,-104.6737003326416,Denver,CO,United States}	{Travel & Transport,Airport,}
+2416	Mon Jul 04 22:00:48 +0000 2011	4b7851d1f964a52002c52ee3	{Will Rogers World Airport (OKC)}	{35.395493820937496,-97.59653671248208,Oklahoma City,OK,United States}	{Travel & Transport,Airport,}
+2416	Fri Jul 01 13:00:05 +0000 2011	4c6c2cb2e6b7b1f78d47a68e	{FinerPhysiques}	{36.41902,-97.9055247,Enid,OK,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Fri Jul 01 01:08:00 +0000 2011	4d1a144a731976ebb27309dc	{Foot Locker}	{36.38813,-97.929511,Enid,OK,United States}	{Shop & Service,Clothing Store,}
+2416	Fri Jul 01 00:55:43 +0000 2011	4d3ee52a978476ebfb7657fc	{Dillard's}	{36.388497943640076,-97.9312581148999,Enid,OK,United States}	{Shop & Service,}
+2416	Thu Jun 30 16:26:20 +0000 2011	4db07fd8ced789081388b8a6	{Iron Works Fittness & Tanning}	{36.41232574,-97.89101621,Enid,OK,United States}	{Shop & Service,}
+2416	Wed Jun 29 22:48:33 +0000 2011	4c6c2cb2e6b7b1f78d47a68e	{FinerPhysiques}	{36.41902,-97.9055247,Enid,OK,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Wed Jun 29 20:23:31 +0000 2011	4e0b898545ddb226bd8fca90	{Andy Deterding Ag Aviation}	{36.672037,-97.794564,Pond Creek,OK,United States}	{Professional & Other Places,}
+2416	Wed Jun 29 00:59:21 +0000 2011	4ca0cf77542b224b0b3e09a0	{El Chico}	{36.39131894202594,-97.92388646670791,Enid,OK,United States}	{Food,}
+2416	Tue Jun 28 19:30:24 +0000 2011	4c85c0e9d92ea09333e36872	{Phillips 66 / One Stop Shop}	{36.420132,-97.89779126644135,Enid,OK,United States}	{Shop & Service,}
+2416	Tue Jun 28 19:21:46 +0000 2011	4e0a29b4483b98d417234348	{B-Renued Salon & Day Spa}	{36.420136,-97.903486,Enid,OK,United States}	{Shop & Service,}
+2416	Tue Jun 28 16:35:38 +0000 2011	4c6c2cb2e6b7b1f78d47a68e	{FinerPhysiques}	{36.41902,-97.9055247,Enid,OK,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Tue Jun 28 14:07:24 +0000 2011	4be17b6dd4c362b59505f9ec	{Starbucks}	{36.39108974248381,-97.90766194171577,Enid,OK,United States}	{Food,}
+2416	Tue Jun 28 03:39:43 +0000 2011	4b7851d1f964a52002c52ee3	{Will Rogers World Airport (OKC)}	{35.395493820937496,-97.59653671248208,Oklahoma City,OK,United States}	{Travel & Transport,Airport,}
+2416	Sun Jun 26 21:04:33 +0000 2011	4de13535c65bcc724f534d7e	{Treasure Island Flea}	{37.820814795455114,-122.37396544376249,San Francisco,CA,United States}	{Outdoors & Recreation,Shop & Service,Arts & Entertainment,}
+2416	Sun Jun 26 19:10:20 +0000 2011	4a885e6df964a5200c0620e3	{The Coffee Bean & Tea Leaf}	{37.789903,-122.434059,San Francisco,CA,United States}	{Food,}
+2416	Sun Jun 26 16:43:11 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Sat Jun 25 22:41:16 +0000 2011	4390a026f964a5204d2b1fe3	{AMC Van Ness 14}	{37.785289944969335,-122.42002293049931,San Francisco,CA,United States}	{Arts & Entertainment,Movie Theater,}
+2416	Sat Jun 25 16:59:46 +0000 2011	4a5619b1f964a5206db41fe3	{Bank of America}	{37.760803,-122.434978,San Francisco,CA,United States}	{Shop & Service,}
+2416	Sat Jun 25 16:48:46 +0000 2011	4b9c2efff964a520815236e3	{The UPS Store}	{37.76317,-122.434593,San Francisco,CA,United States}	{Shop & Service,}
+2416	Sat Jun 25 15:52:18 +0000 2011	43ccb847f964a520ce2d1fe3	{The Grind Cafe}	{37.771393199665255,-122.43505239486694,San Francisco,CA,United States}	{Food,}
+2416	Fri Jun 24 22:13:53 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Fri Jun 24 19:31:14 +0000 2011	4a05f5cff964a520a2721fe3	{Comcast}	{37.766091,-122.407767,San Francisco,CA,United States}	{Shop & Service,}
+2416	Fri Jun 24 14:43:46 +0000 2011	49ef4225f964a5208c681fe3	{Katz Bagels}	{37.771725238868974,-122.4331405873328,San Francisco,CA,United States}	{Food,}
+2416	Fri Jun 24 04:32:54 +0000 2011	4d9a6d6799c354816b06fe9a	{Yoppi Frozen Yogurt}	{37.790052501845935,-122.434064070512,San Francisco,CA,United States}	{Food,}
+2416	Fri Jun 24 04:32:50 +0000 2011	4d9a6d6799c354816b06fe9a	{Yoppi Frozen Yogurt}	{37.790052501845935,-122.434064070512,San Francisco,CA,United States}	{Food,}
+2416	Fri Jun 24 04:32:44 +0000 2011	4d9a6d6799c354816b06fe9a	{Yoppi Frozen Yogurt}	{37.790052501845935,-122.434064070512,San Francisco,CA,United States}	{Food,}
+2416	Thu Jun 23 23:35:27 +0000 2011	4b4e3a94f964a52016e626e3	{The Sandwich Spot}	{37.7997765,-122.439406,San Francisco,CA,United States}	{Food,}
+2416	Thu Jun 23 23:21:57 +0000 2011	4ac8f480f964a52091bd20e3	{neva's beauty}	{37.799073,-122.4415521,San Francisco,CA,United States}	{Shop & Service,}
+2416	Thu Jun 23 22:24:24 +0000 2011	4a283a63f964a520ff941fe3	{Niketown}	{37.788598589799385,-122.40668267011642,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+2416	Thu Jun 23 22:13:09 +0000 2011	4d40a8eb89616dcb2ac206b5	{CVS/pharmacy}	{37.78684990527259,-122.40446985840266,San Francisco,CA,United States}	{Shop & Service,}
+2416	Thu Jun 23 22:00:00 +0000 2011	43f5f8a9f964a520a92f1fe3	{San Francisco Public Library - Main Library}	{37.77908269781649,-122.41587728261948,San Francisco,CA,United States}	{Shop & Service,Professional & Other Places,}
+2416	Thu Jun 23 15:27:19 +0000 2011	49ef4225f964a5208c681fe3	{Katz Bagels}	{37.771725238868974,-122.4331405873328,San Francisco,CA,United States}	{Food,}
+2416	Thu Jun 23 04:02:42 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Thu Jun 23 04:02:42 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Thu Jun 23 02:44:41 +0000 2011	4a3500fff964a5207a9c1fe3	{Star Lynn Beauty Lounge}	{37.771223,-122.431986,San Francisco,CA,United States}	{Shop & Service,}
+2416	Tue Jun 21 21:54:47 +0000 2011	4b9c2efff964a520815236e3	{The UPS Store}	{37.76317,-122.434593,San Francisco,CA,United States}	{Shop & Service,}
+2416	Tue Jun 21 20:31:25 +0000 2011	43ccb847f964a520ce2d1fe3	{The Grind Cafe}	{37.771393199665255,-122.43505239486694,San Francisco,CA,United States}	{Food,}
+2416	Tue Jun 21 14:21:32 +0000 2011	4b68a78ef964a5202d852be3	{Pioneer Park}	{37.80287406435904,-122.40611819485375,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2416	Tue Jun 21 14:07:02 +0000 2011	49de821ff964a5205c601fe3	{Coit Tower}	{37.80237527720156,-122.40582704544067,San Francisco,CA,United States}	{Outdoors & Recreation,Government Building,Professional & Other Places,}
+2416	Mon Jun 20 22:26:21 +0000 2011	4ab1481ef964a520e16820e3	{Sephora}	{37.78491381929122,-122.40792137895684,San Francisco,CA,United States}	{Shop & Service,}
+2416	Mon Jun 20 21:19:47 +0000 2011	4bfd7eebb68d0f4744dfe857	{Chipotle Mexican Grill}	{37.784350612981044,-122.40726470947266,San Francisco,CA,United States}	{Food,}
+2416	Mon Jun 20 19:02:54 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Mon Jun 20 16:49:03 +0000 2011	49ef4225f964a5208c681fe3	{Katz Bagels}	{37.771725238868974,-122.4331405873328,San Francisco,CA,United States}	{Food,}
+2416	Mon Jun 20 03:55:12 +0000 2011	4d9a6d6799c354816b06fe9a	{Yoppi Frozen Yogurt}	{37.790052501845935,-122.434064070512,San Francisco,CA,United States}	{Food,}
+2416	Mon Jun 20 03:41:15 +0000 2011	425c6100f964a520fd201fe3	{The Grove}	{37.78819679801081,-122.43375993024331,San Francisco,CA,United States}	{Food,}
+2416	Sat Jun 18 18:39:27 +0000 2011	49ef4225f964a5208c681fe3	{Katz Bagels}	{37.771725238868974,-122.4331405873328,San Francisco,CA,United States}	{Food,}
+2416	Fri Jun 17 22:37:13 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Fri Jun 17 20:45:07 +0000 2011	4460d33cf964a52009331fe3	{Duboce Park}	{37.76946702049605,-122.43253230055683,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2416	Thu Jun 16 22:54:11 +0000 2011	42cc7080f964a520e9251fe3	{Apple Store}	{37.7858382684861,-122.406513703784,San Francisco,CA,United States}	{Shop & Service,}
+2416	Thu Jun 16 17:20:11 +0000 2011	49ef4225f964a5208c681fe3	{Katz Bagels}	{37.771725238868974,-122.4331405873328,San Francisco,CA,United States}	{Food,}
+2416	Thu Jun 16 04:45:51 +0000 2011	42fa9500f964a520e2261fe3	{Memphis Minnie's BBQ}	{37.77206,-122.4317,San Francisco,CA,United States}	{Food,}
+2416	Wed Jun 15 18:26:48 +0000 2011	4460d33cf964a52009331fe3	{Duboce Park}	{37.76946702049605,-122.43253230055683,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2416	Wed Jun 15 18:15:07 +0000 2011	49ef4225f964a5208c681fe3	{Katz Bagels}	{37.771725238868974,-122.4331405873328,San Francisco,CA,United States}	{Food,}
+2416	Wed Jun 15 03:39:51 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Wed Jun 15 00:24:24 +0000 2011	43ccb847f964a520ce2d1fe3	{The Grind Cafe}	{37.771393199665255,-122.43505239486694,San Francisco,CA,United States}	{Food,}
+2416	Tue Jun 14 15:01:17 +0000 2011	49ef4225f964a5208c681fe3	{Katz Bagels}	{37.771725238868974,-122.4331405873328,San Francisco,CA,United States}	{Food,}
+2416	Mon Jun 13 23:18:16 +0000 2011	4a3500fff964a5207a9c1fe3	{Star Lynn Beauty Lounge}	{37.771223,-122.431986,San Francisco,CA,United States}	{Shop & Service,}
+2416	Mon Jun 13 19:51:00 +0000 2011	3fd66200f964a52024ee1ee3	{Pork Store Cafe}	{37.77017196507861,-122.4462103843689,San Francisco,CA,United States}	{Food,}
+2416	Mon Jun 13 17:17:29 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Sun Jun 12 19:33:41 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Sun Jun 12 17:29:21 +0000 2011	4460d33cf964a52009331fe3	{Duboce Park}	{37.76946702049605,-122.43253230055683,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2416	Sun Jun 12 17:19:48 +0000 2011	49ef4225f964a5208c681fe3	{Katz Bagels}	{37.771725238868974,-122.4331405873328,San Francisco,CA,United States}	{Food,}
+2416	Sat Jun 11 22:12:46 +0000 2011	4ad27e97f964a520ede120e3	{Victoria's Secret PINK}	{37.78789277881258,-122.40807625222277,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+2416	Sat Jun 11 22:08:37 +0000 2011	43f8404cf964a520c22f1fe3	{Macy's}	{37.78755853482698,-122.40750653872762,San Francisco,CA,United States}	{Shop & Service,}
+2416	Sat Jun 11 02:20:17 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Fri Jun 10 21:00:13 +0000 2011	44610f81f964a52010331fe3	{Safeway}	{37.76883197614526,-122.42831468582152,San Francisco,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+2416	Fri Jun 10 17:50:43 +0000 2011	43ce64f7f964a520dd2d1fe3	{Cafe du Soleil}	{37.771181,-122.4302427,San Francisco,CA,United States}	{Food,}
+2416	Fri Jun 10 03:56:30 +0000 2011	4aac8b76f964a5203e5e20e3	{White Horse Pub}	{37.788977,-122.410862,San Francisco,CA,United States}	{Nightlife Spot,}
+2416	Fri Jun 10 01:37:33 +0000 2011	4bf5e7eb9abec9b6110125e8	{Burritt Room}	{37.78974132232373,-122.40705850944128,San Francisco,CA,United States}	{Nightlife Spot,}
+2416	Thu Jun 09 20:25:13 +0000 2011	45377562f964a520be3b1fe3	{Duboce Park Cafe}	{37.76920751116236,-122.43141525565282,San Francisco,CA,United States}	{Food,}
+2416	Thu Jun 09 18:02:11 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Wed Jun 08 18:09:29 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Wed Jun 08 18:09:09 +0000 2011	4460d33cf964a52009331fe3	{Duboce Park}	{37.76946702049605,-122.43253230055683,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2416	Tue Jun 07 19:34:42 +0000 2011	4b4e3a94f964a52016e626e3	{The Sandwich Spot}	{37.7997765,-122.439406,San Francisco,CA,United States}	{Food,}
+2416	Tue Jun 07 18:12:42 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Tue Jun 07 17:31:17 +0000 2011	49ef4225f964a5208c681fe3	{Katz Bagels}	{37.771725238868974,-122.4331405873328,San Francisco,CA,United States}	{Food,}
+2416	Mon Jun 06 16:51:14 +0000 2011	43ccb847f964a520ce2d1fe3	{The Grind Cafe}	{37.771393199665255,-122.43505239486694,San Francisco,CA,United States}	{Food,}
+2416	Mon Jun 06 05:04:55 +0000 2011	4a18c332f964a520e5791fe3	{Three Twins Ice Cream}	{37.771933843952475,-122.43035048246384,San Francisco,CA,United States}	{Food,}
+2416	Sun Jun 05 00:44:04 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Sat Jun 04 17:35:13 +0000 2011	43ccb847f964a520ce2d1fe3	{The Grind Cafe}	{37.771393199665255,-122.43505239486694,San Francisco,CA,United States}	{Food,}
+2416	Sat Jun 04 00:41:37 +0000 2011	4af22683f964a52030e621e3	{Walgreens}	{37.78235038572356,-122.43957162163811,SAN FRANCISCO,CA,United States}	{Shop & Service,}
+2416	Fri Jun 03 17:25:10 +0000 2011	43ce64f7f964a520dd2d1fe3	{Cafe du Soleil}	{37.771181,-122.4302427,San Francisco,CA,United States}	{Food,}
+2416	Fri Jun 03 03:59:48 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Thu Jun 02 15:51:16 +0000 2011	49ef4225f964a5208c681fe3	{Katz Bagels}	{37.771725238868974,-122.4331405873328,San Francisco,CA,United States}	{Food,}
+2416	Thu Jun 02 01:01:44 +0000 2011	45487ec6f964a520863c1fe3	{Sir Francis Drake Hotel}	{37.78896568061761,-122.40844684089706,San Francisco,CA,United States}	{Travel & Transport,}
+2416	Wed Jun 01 21:45:58 +0000 2011	452b9d67f964a520423b1fe3	{Hall of Justice}	{37.77533352890043,-122.40388353115281,San Francisco,CA,United States}	{Government Building,Professional & Other Places,}
+2416	Mon May 30 20:15:40 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Mon May 30 01:58:20 +0000 2011	45487ec6f964a520863c1fe3	{Sir Francis Drake Hotel}	{37.78896568061761,-122.40844684089706,San Francisco,CA,United States}	{Travel & Transport,}
+2416	Sun May 29 18:51:47 +0000 2011	43ccb847f964a520ce2d1fe3	{The Grind Cafe}	{37.771393199665255,-122.43505239486694,San Francisco,CA,United States}	{Food,}
+2416	Sun May 29 00:19:40 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Sat May 28 23:27:43 +0000 2011	42fa9500f964a520e2261fe3	{Memphis Minnie's BBQ}	{37.77206,-122.4317,San Francisco,CA,United States}	{Food,}
+2416	Sat May 28 19:00:48 +0000 2011	45487ec6f964a520863c1fe3	{Sir Francis Drake Hotel}	{37.78896568061761,-122.40844684089706,San Francisco,CA,United States}	{Travel & Transport,}
+2416	Sat May 28 16:10:31 +0000 2011	43ccb847f964a520ce2d1fe3	{The Grind Cafe}	{37.771393199665255,-122.43505239486694,San Francisco,CA,United States}	{Food,}
+2416	Fri May 27 17:37:25 +0000 2011	43ccb847f964a520ce2d1fe3	{The Grind Cafe}	{37.771393199665255,-122.43505239486694,San Francisco,CA,United States}	{Food,}
+2416	Fri May 27 01:47:56 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Thu May 26 22:36:22 +0000 2011	51fad99f498e402dd7dffe03	{Hair Play}	{37.76736575959036,-122.42878296418132,San Francisco,CA,United States}	{Shop & Service,}
+2416	Thu May 26 04:10:31 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Wed May 25 17:13:11 +0000 2011	43ccb847f964a520ce2d1fe3	{The Grind Cafe}	{37.771393199665255,-122.43505239486694,San Francisco,CA,United States}	{Food,}
+2416	Wed May 25 03:03:55 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Tue May 24 22:04:29 +0000 2011	4460d33cf964a52009331fe3	{Duboce Park}	{37.76946702049605,-122.43253230055683,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2416	Tue May 24 17:09:59 +0000 2011	43ce64f7f964a520dd2d1fe3	{Cafe du Soleil}	{37.771181,-122.4302427,San Francisco,CA,United States}	{Food,}
+2416	Tue May 24 03:11:20 +0000 2011	43ccb847f964a520ce2d1fe3	{The Grind Cafe}	{37.771393199665255,-122.43505239486694,San Francisco,CA,United States}	{Food,}
+2416	Mon May 23 18:42:23 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Mon May 23 16:45:08 +0000 2011	43ce64f7f964a520dd2d1fe3	{Cafe du Soleil}	{37.771181,-122.4302427,San Francisco,CA,United States}	{Food,}
+2416	Sun May 22 21:56:06 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Sun May 22 16:43:57 +0000 2011	49ef4225f964a5208c681fe3	{Katz Bagels}	{37.771725238868974,-122.4331405873328,San Francisco,CA,United States}	{Food,}
+2416	Sat May 21 17:21:56 +0000 2011	45377562f964a520be3b1fe3	{Duboce Park Cafe}	{37.76920751116236,-122.43141525565282,San Francisco,CA,United States}	{Food,}
+2416	Sat May 21 06:59:12 +0000 2011	4a594de0f964a52031b91fe3	{Marina Theater}	{37.80033273722505,-122.43850994754871,San Francisco,CA,United States}	{Arts & Entertainment,Movie Theater,}
+2416	Sat May 21 00:53:16 +0000 2011	49fd1ce0f964a5200b6f1fe3	{Pakwan}	{37.76491004578408,-122.42363985120363,San Francisco,CA,United States}	{Food,}
+2416	Fri May 20 23:30:28 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Fri May 20 16:16:40 +0000 2011	49ef4225f964a5208c681fe3	{Katz Bagels}	{37.771725238868974,-122.4331405873328,San Francisco,CA,United States}	{Food,}
+2416	Thu May 19 22:10:38 +0000 2011	4b24288bf964a520726224e3	{Foot Locker}	{37.78410299806942,-122.40739591439001,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+2416	Thu May 19 18:20:55 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Thu May 19 16:39:13 +0000 2011	49ef4225f964a5208c681fe3	{Katz Bagels}	{37.771725238868974,-122.4331405873328,San Francisco,CA,United States}	{Food,}
+2416	Thu May 19 00:52:44 +0000 2011	45487ec6f964a520863c1fe3	{Sir Francis Drake Hotel}	{37.78896568061761,-122.40844684089706,San Francisco,CA,United States}	{Travel & Transport,}
+2416	Wed May 18 20:13:42 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Wed May 18 14:49:57 +0000 2011	49ef4225f964a5208c681fe3	{Katz Bagels}	{37.771725238868974,-122.4331405873328,San Francisco,CA,United States}	{Food,}
+2416	Mon May 16 17:32:47 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Mon May 16 02:11:35 +0000 2011	42fa9500f964a520e2261fe3	{Memphis Minnie's BBQ}	{37.77206,-122.4317,San Francisco,CA,United States}	{Food,}
+2416	Sun May 15 22:42:05 +0000 2011	4af0ba8df964a5209dde21e3	{Popeyes Louisiana Kitchen}	{37.7749117031236,-122.43794039920436,San Francisco,CA,United States}	{Food,}
+2416	Sat May 14 18:01:42 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Sat May 14 02:55:05 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Fri May 13 16:55:08 +0000 2011	49ef4225f964a5208c681fe3	{Katz Bagels}	{37.771725238868974,-122.4331405873328,San Francisco,CA,United States}	{Food,}
+2416	Fri May 13 00:58:51 +0000 2011	45487ec6f964a520863c1fe3	{Sir Francis Drake Hotel}	{37.78896568061761,-122.40844684089706,San Francisco,CA,United States}	{Travel & Transport,}
+2416	Thu May 12 02:22:48 +0000 2011	44610f81f964a52010331fe3	{Safeway}	{37.76883197614526,-122.42831468582152,San Francisco,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+2416	Wed May 11 16:10:33 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Tue May 10 18:55:53 +0000 2011	4aef4203f964a520fed621e3	{SF Pet Hospital}	{37.77676863216346,-122.43932279273828,San Francisco,CA,United States}	{Medical Center,Professional & Other Places,}
+2416	Tue May 10 17:47:22 +0000 2011	4460d33cf964a52009331fe3	{Duboce Park}	{37.76946702049605,-122.43253230055683,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2416	Sun May 08 21:58:48 +0000 2011	49daea87f964a520be5e1fe3	{Little Chihuahua}	{37.7720479,-122.43715,San Francisco,CA,United States}	{Food,}
+2416	Sun May 08 21:57:51 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Sun May 08 20:47:45 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Sat May 07 16:49:07 +0000 2011	45487ec6f964a520863c1fe3	{Sir Francis Drake Hotel}	{37.78896568061761,-122.40844684089706,San Francisco,CA,United States}	{Travel & Transport,}
+2416	Sat May 07 03:14:38 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Fri May 06 17:20:57 +0000 2011	49ef4225f964a5208c681fe3	{Katz Bagels}	{37.771725238868974,-122.4331405873328,San Francisco,CA,United States}	{Food,}
+2416	Fri May 06 02:24:27 +0000 2011	45487ec6f964a520863c1fe3	{Sir Francis Drake Hotel}	{37.78896568061761,-122.40844684089706,San Francisco,CA,United States}	{Travel & Transport,}
+2416	Fri May 06 02:21:25 +0000 2011	49ceab7df964a520705a1fe3	{Starbucks}	{37.78911579185835,-122.40852534770966,San Francisco,CA,United States}	{Food,}
+2416	Thu May 05 17:46:27 +0000 2011	4b9c2efff964a520815236e3	{The UPS Store}	{37.76317,-122.434593,San Francisco,CA,United States}	{Shop & Service,}
+2416	Thu May 05 03:53:45 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Tue May 03 19:26:54 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Mon May 02 16:03:36 +0000 2011	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Mon May 02 04:12:56 +0000 2011	4dbe22544b222080d3ba2167	{Post-Osama Bin Laden World}	{37.77916113632894,-122.41962432861328,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2416	Sun May 01 22:18:36 +0000 2011	4ab595e1f964a520877520e3	{Mission Dolores Park}	{37.76005771562691,-122.42678658144186,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2416	Sat Apr 30 17:59:04 +0000 2011	45377562f964a520be3b1fe3	{Duboce Park Cafe}	{37.76920751116236,-122.43141525565282,San Francisco,CA,United States}	{Food,}
+2416	Sat Apr 30 02:39:26 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Thu Apr 28 15:47:08 +0000 2011	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Wed Apr 27 15:04:50 +0000 2011	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Mon Apr 25 22:56:26 +0000 2011	4bf349ddcad2c928fdb59a99	{East Beach Volleyball Courts}	{34.41738950325207,-119.66385841369629,Santa Barbara,CA,United States}	{Outdoors & Recreation,}
+2416	Mon Apr 25 17:27:57 +0000 2011	4afda4def964a520712922e3	{Backyard Bowls}	{34.415287,-119.694433,Santa Barbara,CA,United States}	{Food,}
+2416	Sun Apr 24 22:15:57 +0000 2011	4ab6afedf964a520927820e3	{West Beach}	{34.41013164108146,-119.68986511230469,Santa Barbara,CA,United States}	{Outdoors & Recreation,Residence,}
+2416	Sat Apr 23 18:02:56 +0000 2011	4b42729ff964a5201ed425e3	{Santa Barbara Roasting Company}	{34.415088330140755,-119.69434707760111,Santa Barbara,CA,United States}	{Food,}
+2416	Sat Apr 23 16:12:28 +0000 2011	4b9929a5f964a520f36535e3	{CrossFit Goodland}	{34.43473731428571,-119.824808925,Goleta,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Fri Apr 22 15:43:22 +0000 2011	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Fri Apr 22 03:10:39 +0000 2011	49ceab7df964a520705a1fe3	{Starbucks}	{37.78911579185835,-122.40852534770966,San Francisco,CA,United States}	{Food,}
+2416	Fri Apr 22 01:39:56 +0000 2011	45487ec6f964a520863c1fe3	{Sir Francis Drake Hotel}	{37.78896568061761,-122.40844684089706,San Francisco,CA,United States}	{Travel & Transport,}
+2416	Thu Apr 21 15:00:54 +0000 2011	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Tue Apr 19 20:23:21 +0000 2011	4a947cccf964a520c42120e3	{Ayola}	{37.787319251453674,-122.40022720917635,San Francisco,CA,United States}	{Food,}
+2416	Tue Apr 19 14:44:59 +0000 2011	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Mon Apr 18 15:42:02 +0000 2011	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Sun Apr 17 23:38:46 +0000 2011	451c196df964a520813a1fe3	{Bloomingdale's}	{37.784197986515366,-122.40589141845703,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+2416	Sun Apr 17 22:12:56 +0000 2011	4de1bc0cb0fb26714875be9e	{Rolex}	{37.78469455047993,-122.4066823846155,San Francisco,CA,United States}	{Shop & Service,}
+2416	Sun Apr 17 05:00:37 +0000 2011	4a3a986bf964a520ff9f1fe3	{The Regency Ballroom}	{37.78772874107743,-122.42177610181552,San Francisco,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+2416	Sat Apr 16 16:49:55 +0000 2011	45487ec6f964a520863c1fe3	{Sir Francis Drake Hotel}	{37.78896568061761,-122.40844684089706,San Francisco,CA,United States}	{Travel & Transport,}
+2416	Sat Apr 16 01:45:09 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Fri Apr 15 15:36:48 +0000 2011	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Fri Apr 15 00:58:44 +0000 2011	45487ec6f964a520863c1fe3	{Sir Francis Drake Hotel}	{37.78896568061761,-122.40844684089706,San Francisco,CA,United States}	{Travel & Transport,}
+2416	Fri Apr 15 00:58:14 +0000 2011	49ceab7df964a520705a1fe3	{Starbucks}	{37.78911579185835,-122.40852534770966,San Francisco,CA,United States}	{Food,}
+2416	Thu Apr 14 15:21:24 +0000 2011	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Thu Apr 14 01:30:05 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Wed Apr 13 15:06:50 +0000 2011	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Wed Apr 13 14:56:03 +0000 2011	44610f81f964a52010331fe3	{Safeway}	{37.76883197614526,-122.42831468582152,San Francisco,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+2416	Wed Apr 13 05:07:27 +0000 2011	4a0241edf964a52041711fe3	{MUNI Metro Stop - Duboce & Church}	{37.769298430744264,-122.42903351783752,San Francisco,CA,United States}	{Travel & Transport,}
+2416	Wed Apr 13 00:50:15 +0000 2011	45487ec6f964a520863c1fe3	{Sir Francis Drake Hotel}	{37.78896568061761,-122.40844684089706,San Francisco,CA,United States}	{Travel & Transport,}
+2416	Sun Apr 10 19:27:50 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Sun Apr 10 18:15:52 +0000 2011	45377562f964a520be3b1fe3	{Duboce Park Cafe}	{37.76920751116236,-122.43141525565282,San Francisco,CA,United States}	{Food,}
+2416	Sun Apr 10 01:49:55 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Sat Apr 09 16:56:56 +0000 2011	4460d33cf964a52009331fe3	{Duboce Park}	{37.76946702049605,-122.43253230055683,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2416	Sat Apr 09 16:43:03 +0000 2011	4cf019646c29236aa7675da2	{Cafe Soleil San Francisco}	{37.770854319877834,-122.4304806891426,San Francisco,CA,United States}	{Food,}
+2416	Sat Apr 09 03:04:32 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Fri Apr 08 15:49:11 +0000 2011	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Fri Apr 08 15:49:11 +0000 2011	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Fri Apr 08 15:36:15 +0000 2011	4bdaec93c79cc9284a4180e9	{MUNI Metro Stop - Sunset Tunnel East Portal}	{37.76930752879952,-122.43348896817005,San Francisco,CA,United States}	{Travel & Transport,Train Station,}
+2416	Fri Apr 08 05:11:32 +0000 2011	4adb8632f964a5209d2821e3	{Powell MUNI Metro Station}	{37.78456916716347,-122.40787159821579,San Francisco,CA,United States}	{Travel & Transport,}
+2416	Fri Apr 08 03:19:09 +0000 2011	45487ec6f964a520863c1fe3	{Sir Francis Drake Hotel}	{37.78896568061761,-122.40844684089706,San Francisco,CA,United States}	{Travel & Transport,}
+2416	Fri Apr 08 03:19:09 +0000 2011	45487ec6f964a520863c1fe3	{Sir Francis Drake Hotel}	{37.78896568061761,-122.40844684089706,San Francisco,CA,United States}	{Travel & Transport,}
+2416	Fri Apr 08 03:18:29 +0000 2011	49ceab7df964a520705a1fe3	{Starbucks}	{37.78911579185835,-122.40852534770966,San Francisco,CA,United States}	{Food,}
+2416	Thu Apr 07 20:33:31 +0000 2011	4cae5478db32f04d13c7ae4d	{The Cr?me Br?l?e Cart}	{37.79021801367652,-122.40039825439453,SF Bay Area,CA,United States}	{Food,}
+2416	Thu Apr 07 16:08:14 +0000 2011	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Thu Apr 07 03:23:11 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Wed Apr 06 15:42:57 +0000 2011	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Wed Apr 06 15:42:57 +0000 2011	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Wed Apr 06 03:08:46 +0000 2011	45487ec6f964a520863c1fe3	{Sir Francis Drake Hotel}	{37.78896568061761,-122.40844684089706,San Francisco,CA,United States}	{Travel & Transport,}
+2416	Tue Apr 05 19:29:42 +0000 2011	4a98387af964a520132b20e3	{Mixt Greens}	{37.79152765000209,-122.40083568307148,San Francisco,CA,United States}	{Food,}
+2416	Tue Apr 05 01:10:48 +0000 2011	4460d33cf964a52009331fe3	{Duboce Park}	{37.76946702049605,-122.43253230055683,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2416	Mon Apr 04 21:50:45 +0000 2011	4a03132af964a52087711fe3	{Mixt Greens}	{37.78881250057032,-122.3989106808852,San Francisco,CA,United States}	{Food,}
+2416	Mon Apr 04 15:26:38 +0000 2011	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Mon Apr 04 01:53:57 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Sat Apr 02 22:27:06 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Fri Apr 01 16:01:04 +0000 2011	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Fri Apr 01 00:42:10 +0000 2011	45487ec6f964a520863c1fe3	{Sir Francis Drake Hotel}	{37.78896568061761,-122.40844684089706,San Francisco,CA,United States}	{Travel & Transport,}
+2416	Thu Mar 31 22:34:55 +0000 2011	4ab1481ef964a520e16820e3	{Sephora}	{37.78491381929122,-122.40792137895684,San Francisco,CA,United States}	{Shop & Service,}
+2416	Thu Mar 31 21:56:53 +0000 2011	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Tue Mar 29 00:57:59 +0000 2011	449a73a9f964a52097341fe3	{Palace Hotel, San Francisco}	{37.78816617218476,-122.40166425704956,San Francisco,CA,United States}	{Travel & Transport,}
+2416	Mon Mar 28 16:07:38 +0000 2011	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Sun Mar 27 20:24:17 +0000 2011	4a8892dcf964a520f70620e3	{MUNI Bus Stop - Castro & 24th}	{37.751212,-122.434074,San Francisco,CA,United States}	{Travel & Transport,Bus Station,}
+2416	Sun Mar 27 19:11:24 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Sun Mar 27 02:56:48 +0000 2011	4a8892dcf964a520f70620e3	{MUNI Bus Stop - Castro & 24th}	{37.751212,-122.434074,San Francisco,CA,United States}	{Travel & Transport,Bus Station,}
+2416	Sun Mar 27 01:24:28 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Sat Mar 26 02:35:07 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Fri Mar 25 23:28:42 +0000 2011	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Fri Mar 25 19:42:28 +0000 2011	4b4fc6e1f964a520011527e3	{SF MUNI - 10 Townsend}	{37.776110407921024,-122.39842389314339,San Francisco,CA,United States}	{Travel & Transport,Bus Station,}
+2416	Fri Mar 25 16:01:25 +0000 2011	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Fri Mar 25 03:10:29 +0000 2011	45487ec6f964a520863c1fe3	{Sir Francis Drake Hotel}	{37.78896568061761,-122.40844684089706,San Francisco,CA,United States}	{Travel & Transport,}
+2416	Fri Mar 25 02:58:11 +0000 2011	49ceab7df964a520705a1fe3	{Starbucks}	{37.78911579185835,-122.40852534770966,San Francisco,CA,United States}	{Food,}
+2416	Thu Mar 24 02:22:45 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Wed Mar 23 15:19:55 +0000 2011	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Wed Mar 23 05:16:33 +0000 2011	4adb8632f964a5209d2821e3	{Powell MUNI Metro Station}	{37.78456916716347,-122.40787159821579,San Francisco,CA,United States}	{Travel & Transport,}
+2416	Wed Mar 23 02:54:38 +0000 2011	45487ec6f964a520863c1fe3	{Sir Francis Drake Hotel}	{37.78896568061761,-122.40844684089706,San Francisco,CA,United States}	{Travel & Transport,}
+2416	Wed Mar 23 02:47:55 +0000 2011	49ceab7df964a520705a1fe3	{Starbucks}	{37.78911579185835,-122.40852534770966,San Francisco,CA,United States}	{Food,}
+2416	Tue Mar 22 15:20:13 +0000 2011	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Sun Mar 20 22:22:48 +0000 2011	4cf019646c29236aa7675da2	{Cafe Soleil San Francisco}	{37.770854319877834,-122.4304806891426,San Francisco,CA,United States}	{Food,}
+2416	Sun Mar 20 18:54:07 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Sun Mar 20 04:14:26 +0000 2011	4a1e3d6ef964a520c57b1fe3	{Presidio Bowling Center}	{37.7985943621788,-122.45987892150879,San Francisco,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+2416	Sun Mar 20 02:33:54 +0000 2011	42814b00f964a520eb211fe3	{Nick's Crispy Tacos}	{37.796083,-122.42188095,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+2416	Sat Mar 19 22:48:51 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Fri Mar 18 02:56:43 +0000 2011	45487ec6f964a520863c1fe3	{Sir Francis Drake Hotel}	{37.78896568061761,-122.40844684089706,San Francisco,CA,United States}	{Travel & Transport,}
+2416	Thu Mar 17 16:03:39 +0000 2011	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Thu Mar 17 01:51:45 +0000 2011	3fd66200f964a52098ed1ee3	{Irish Bank}	{37.7903451920591,-122.40459322929382,San Francisco,CA,United States}	{Nightlife Spot,}
+2416	Thu Mar 17 01:15:54 +0000 2011	4a4ac040f964a52026ac1fe3	{Rickhouse}	{37.79054655738382,-122.40394681692123,San Francisco,CA,United States}	{Nightlife Spot,}
+2416	Wed Mar 16 14:59:47 +0000 2011	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Wed Mar 16 14:47:15 +0000 2011	4c5dc94b6147be9a621c9309	{MUNI Metro Stop - Duboce & Noe}	{37.76932253116462,-122.43358297549926,San Francisco,CA,United States}	{Travel & Transport,Train Station,}
+2416	Tue Mar 15 16:09:54 +0000 2011	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Tue Mar 15 02:24:02 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Sun Mar 13 17:13:55 +0000 2011	45377562f964a520be3b1fe3	{Duboce Park Cafe}	{37.76920751116236,-122.43141525565282,San Francisco,CA,United States}	{Food,}
+2416	Sun Mar 13 02:10:52 +0000 2011	49d01698f964a520fd5a1fe3	{Golden Gate Bridge}	{37.81700118722001,-122.47821718454361,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+2416	Sun Mar 13 01:20:47 +0000 2011	43fed5a9f964a52004301fe3	{In-N-Out Burger}	{37.89656642953388,-122.51554280519485,Mill Valley,CA,United States}	{Food,}
+2416	Sun Mar 13 00:02:40 +0000 2011	4b64a8f0f964a5205dc62ae3	{Papapietro Perry Winery}	{38.67304520528872,-122.93462958709233,Healdsburg,CA,United States}	{Food,}
+2416	Sat Mar 12 23:54:14 +0000 2011	4ab80445f964a520d97b20e3	{Kokomo Winery}	{38.673001527786255,-122.934306,Healdsburg,CA,United States}	{Food,}
+2416	Sat Mar 12 23:18:06 +0000 2011	4b9c0435f964a520244136e3	{Amphora Winery}	{38.672793,-122.934258,Healdsburg,CA,United States}	{Food,}
+2416	Sat Mar 12 23:17:47 +0000 2011	4b785e7af964a520f2c82ee3	{Peterson Winery}	{38.672876,-122.934162,Healdsburg,CA,United States}	{Food,}
+2416	Sat Mar 12 22:18:46 +0000 2011	4b314ee6f964a5206b0425e3	{Kendall-Jackson Tasting Room}	{38.61118942247248,-122.87093023666355,Healdsburg,CA,United States}	{Food,}
+2416	Sat Mar 12 21:52:36 +0000 2011	4c842ddcd4e237041b037888	{Portalupi Winery Tasting Room}	{38.61205266666666,-122.87065332,Healdsburg,CA,United States}	{Food,}
+2416	Sat Mar 12 21:52:36 +0000 2011	4c842ddcd4e237041b037888	{Portalupi Winery Tasting Room}	{38.61205266666666,-122.87065332,Healdsburg,CA,United States}	{Food,}
+2416	Sat Mar 12 21:25:01 +0000 2011	4b6f24d2f964a52004e02ce3	{RoadHouse Winery}	{38.61024856567383,-122.869221,Healdsburg, CA,CA,United States}	{Nightlife Spot,Shop & Service,Arts & Entertainment,Food & Drink Shop,}
+2416	Sat Mar 12 20:59:40 +0000 2011	4af4ea11f964a52068f721e3	{Taqueria El Sombrero}	{38.61023452946231,-122.86943249708791,Healdsburg,CA,United States}	{Food,}
+2416	Sat Mar 12 20:35:06 +0000 2011	4b81a090f964a520b3b330e3	{Downtown Wine}	{38.61134319433131,-122.86947156147613,Healdsburg,CA,United States}	{Shop & Service,Food,}
+2416	Sat Mar 12 19:53:33 +0000 2011	4bd47be24e32d13a362fbf80	{Windsor Vineyards Tasting Room}	{38.61094057559967,-122.869433,Healdsburg,CA,United States}	{Nightlife Spot,Shop & Service,Food & Drink Shop,}
+2416	Sat Mar 12 19:37:18 +0000 2011	4a4ea755f964a520ddae1fe3	{Topel}	{38.610682,-122.869217,Healdsburg,CA,United States}	{Food,}
+2416	Thu Mar 10 01:53:05 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Wed Mar 09 16:37:33 +0000 2011	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Wed Mar 09 02:00:30 +0000 2011	4a283a63f964a520ff941fe3	{Niketown}	{37.788598589799385,-122.40668267011642,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+2416	Mon Mar 07 16:40:07 +0000 2011	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Mon Mar 07 00:30:04 +0000 2011	3fd66200f964a5202cf11ee3	{Blondie's Bar & No Grill}	{37.76423825297797,-122.42185352826489,San Francisco,CA,United States}	{Nightlife Spot,}
+2416	Sun Mar 06 23:10:15 +0000 2011	3fd66200f964a5201cf11ee3	{Luna Park}	{37.76187927251023,-122.42173185810451,San Francisco,CA,United States}	{Food,}
+2416	Sat Mar 05 03:16:19 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Thu Mar 03 01:14:28 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Wed Mar 02 05:09:10 +0000 2011	4a695baaf964a520ebcb1fe3	{King of Thai Noodle}	{37.798696093367674,-122.40728616714478,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+2416	Wed Mar 02 03:48:07 +0000 2011	4be2fbae21d5a59343d91711	{Francisco Middle School}	{37.80473890271108,-122.41109070427234,San Francisco,CA,United States}	{School,Professional & Other Places,}
+2416	Tue Mar 01 17:14:43 +0000 2011	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Tue Mar 01 05:39:01 +0000 2011	44610f81f964a52010331fe3	{Safeway}	{37.76883197614526,-122.42831468582152,San Francisco,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+2416	Mon Feb 28 17:07:49 +0000 2011	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Sun Feb 27 01:26:26 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Sat Feb 26 23:11:53 +0000 2011	4ac8f480f964a52091bd20e3	{neva's beauty}	{37.799073,-122.4415521,San Francisco,CA,United States}	{Shop & Service,}
+2416	Sat Feb 26 20:17:51 +0000 2011	4460d33cf964a52009331fe3	{Duboce Park}	{37.76946702049605,-122.43253230055683,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2416	Sat Feb 26 02:18:29 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Fri Feb 25 01:38:51 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Thu Feb 24 02:15:33 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Wed Feb 23 17:20:45 +0000 2011	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Wed Feb 23 01:30:46 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Tue Feb 22 20:49:42 +0000 2011	49ba885df964a52073531fe3	{Noah's Bagels}	{37.791346,-122.399419,San Francisco,CA,United States}	{Food,}
+2416	Tue Feb 22 01:40:26 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Fri Feb 18 04:32:46 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Thu Feb 17 02:25:52 +0000 2011	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Wed Feb 16 01:46:53 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Tue Feb 15 17:00:49 +0000 2011	4a0241edf964a52041711fe3	{MUNI Metro Stop - Duboce & Church}	{37.769298430744264,-122.42903351783752,San Francisco,CA,United States}	{Travel & Transport,}
+2416	Mon Feb 14 04:40:31 +0000 2011	44610f81f964a52010331fe3	{Safeway}	{37.76883197614526,-122.42831468582152,San Francisco,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+2416	Mon Feb 14 03:00:29 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Sat Feb 12 20:47:07 +0000 2011	4b4e3a94f964a52016e626e3	{The Sandwich Spot}	{37.7997765,-122.439406,San Francisco,CA,United States}	{Food,}
+2416	Thu Feb 10 17:05:39 +0000 2011	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Thu Feb 10 01:49:06 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Sat Feb 05 23:06:46 +0000 2011	4a4ea755f964a520ddae1fe3	{Topel}	{38.610682,-122.869217,Healdsburg,CA,United States}	{Food,}
+2416	Sat Feb 05 22:22:40 +0000 2011	4b314ee6f964a5206b0425e3	{Kendall-Jackson Tasting Room}	{38.61118942247248,-122.87093023666355,Healdsburg,CA,United States}	{Food,}
+2416	Sat Feb 05 03:47:59 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+2416	Sat Feb 05 03:14:57 +0000 2011	4813bc50f964a520414f1fe3	{Civic Center/UN Plaza BART Station}	{37.7792418232402,-122.41431589072604,San Francisco,CA,United States}	{Travel & Transport,}
+2416	Fri Feb 04 02:18:39 +0000 2011	41c76780f964a520961e1fe3	{Annabelle's Bar & Bistro}	{37.784921,-122.40475,San Francisco,CA,United States}	{Food,}
+2416	Fri Feb 04 01:42:01 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Thu Feb 03 20:38:03 +0000 2011	4cae5478db32f04d13c7ae4d	{The Cr?me Br?l?e Cart}	{37.79021801367652,-122.40039825439453,SF Bay Area,CA,United States}	{Food,}
+2416	Thu Feb 03 17:03:44 +0000 2011	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Tue Feb 01 17:10:29 +0000 2011	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Tue Feb 01 01:25:56 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Fri Jan 28 06:27:58 +0000 2011	43f08afdf964a520752f1fe3	{In-N-Out Burger}	{37.807766561156924,-122.41843342781067,San Francisco,CA,United States}	{Food,}
+2416	Fri Jan 28 04:14:26 +0000 2011	4bf1c04799d02d7f5381c948	{Osher Rainforest}	{37.76976401444624,-122.46640849470059,San Francisco,CA,United States}	{Outdoors & Recreation,Museum,Arts & Entertainment,}
+2416	Fri Jan 28 01:42:57 +0000 2011	41c76780f964a520961e1fe3	{Annabelle's Bar & Bistro}	{37.784921,-122.40475,San Francisco,CA,United States}	{Food,}
+2416	Thu Jan 27 23:33:28 +0000 2011	42fa9500f964a520e2261fe3	{Memphis Minnie's BBQ}	{37.77206,-122.4317,San Francisco,CA,United States}	{Food,}
+2416	Thu Jan 27 21:57:34 +0000 2011	468ef191f964a52093481fe3	{San Francisco Int'l Airport BART Station}	{37.61593963841623,-122.39242672920227,San Francisco,CA,United States}	{Travel & Transport,}
+2416	Tue Jan 25 21:30:16 +0000 2011	4b5a3bd2f964a5204fb628e3	{Chase Bank}	{37.78773269218333,-122.40363702178001,San Francisco,CA,United States}	{Shop & Service,}
+2416	Mon Jan 24 16:55:30 +0000 2011	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Mon Jan 24 02:48:49 +0000 2011	4a8b218ef964a5208a0b20e3	{kt nails}	{37.792699,-122.42102,San Francisco,CA,United States}	{Shop & Service,}
+2416	Sun Jan 23 09:13:33 +0000 2011	4afb7c6df964a5204d1e22e3	{Mayes Oyster and Steak House}	{37.78830541267099,-122.42027180518197,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+2416	Sun Jan 23 07:28:10 +0000 2011	436aa480f964a520a9291fe3	{Mission Bar}	{37.75399356696707,-122.41861816011813,San Francisco,CA,United States}	{Nightlife Spot,}
+2416	Sat Jan 22 20:35:00 +0000 2011	4cf019646c29236aa7675da2	{Cafe Soleil San Francisco}	{37.770854319877834,-122.4304806891426,San Francisco,CA,United States}	{Food,}
+2416	Sat Jan 22 20:35:00 +0000 2011	4cf019646c29236aa7675da2	{Cafe Soleil San Francisco}	{37.770854319877834,-122.4304806891426,San Francisco,CA,United States}	{Food,}
+2416	Sat Jan 22 07:02:09 +0000 2011	42accc80f964a52040251fe3	{The Bell Tower}	{37.794206966666664,-122.42129205,San Francisco,CA,United States}	{Food,}
+2416	Fri Jan 21 01:31:35 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Thu Jan 20 04:28:27 +0000 2011	4a2cbe60f964a52081971fe3	{Jubili Frozen Yogurt & Cereal}	{37.7834,-122.432676,San Francisco,CA,United States}	{Food,}
+2416	Thu Jan 20 02:23:12 +0000 2011	444df333f964a5208d321fe3	{Sundance Kabuki Cinemas}	{37.78516067956727,-122.4325710098204,San Francisco,CA,United States}	{Arts & Entertainment,Movie Theater,}
+2416	Sat Jan 15 21:44:58 +0000 2011	4bf743805efe2d7f7fcb6834	{Valentinos Take And Bake}	{34.439882,-119.77070146666667,Santa Barbara,CA,United States}	{Food,}
+2416	Fri Jan 14 04:55:22 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Fri Jan 14 01:55:26 +0000 2011	4b7ef75cf964a520ee0c30e3	{The Grove}	{37.78653398485857,-122.40192174911499,San Francisco,CA,United States}	{Food,}
+2416	Thu Jan 13 04:31:34 +0000 2011	49e6c7fcf964a5206b641fe3	{Jewish Community Center of San Francisco (JCCSF)}	{37.78730034539873,-122.4472242041547,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,Professional & Other Places,}
+2416	Wed Jan 12 01:25:47 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Mon Jan 10 00:06:09 +0000 2011	444df333f964a5208d321fe3	{Sundance Kabuki Cinemas}	{37.78516067956727,-122.4325710098204,San Francisco,CA,United States}	{Arts & Entertainment,Movie Theater,}
+2416	Sat Jan 08 01:51:02 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Sat Jan 08 01:30:58 +0000 2011	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Thu Jan 06 01:55:18 +0000 2011	44610f81f964a52010331fe3	{Safeway}	{37.76883197614526,-122.42831468582152,San Francisco,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+2416	Wed Jan 05 17:18:21 +0000 2011	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Wed Jan 05 01:34:33 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Tue Jan 04 03:18:05 +0000 2011	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Sat Jan 01 02:50:51 +0000 2011	4493522af964a5207c341fe3	{Oakland International Airport (OAK)}	{37.71226740592608,-122.21261143684387,Oakland,CA,United States}	{Travel & Transport,}
+2416	Thu Dec 30 01:52:16 +0000 2010	4c7d94f53b22a1cd47735f9e	{Kyoto}	{36.142873403315974,-97.06869130331498,Stillwater,OK,United States}	{Food,}
+2416	Tue Dec 14 16:23:02 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Tue Dec 14 14:43:06 +0000 2010	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Tue Dec 14 14:42:40 +0000 2010	4b9abaa8f964a52095d035e3	{Kaiser Permanente Main Pharmacy}	{37.783938040486866,-122.44056140185761,San Francisco,CA,United States}	{Shop & Service,}
+2416	Tue Dec 14 02:17:54 +0000 2010	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Mon Dec 13 18:06:24 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Sun Dec 12 07:40:50 +0000 2010	436bf600f964a520b1291fe3	{Bus Stop}	{37.79766629085584,-122.43065764912087,San Francisco,CA,United States}	{Nightlife Spot,}
+2416	Sun Dec 12 04:50:32 +0000 2010	513e805ae4b05b7b6b66ef40	{Betelnut}	{37.79762194655044,-122.43258759950041,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+2416	Sat Dec 11 21:30:01 +0000 2010	49d808f8f964a520995d1fe3	{Judy's Cafe}	{37.80031098378773,-122.44067752071204,San Francisco,CA,United States}	{Food,}
+2416	Fri Dec 10 19:10:31 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Fri Dec 10 01:24:08 +0000 2010	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Thu Dec 09 16:27:05 +0000 2010	4c5dc94b6147be9a621c9309	{MUNI Metro Stop - Duboce & Noe}	{37.76932253116462,-122.43358297549926,San Francisco,CA,United States}	{Travel & Transport,Train Station,}
+2416	Tue Dec 07 17:14:54 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Tue Dec 07 16:49:38 +0000 2010	4a0241edf964a52041711fe3	{MUNI Metro Stop - Duboce & Church}	{37.769298430744264,-122.42903351783752,San Francisco,CA,United States}	{Travel & Transport,}
+2416	Mon Dec 06 17:17:21 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Mon Dec 06 01:28:19 +0000 2010	449e9fb9f964a520c0341fe3	{Phoenix Sky Harbor International Airport (PHX)}	{33.43562440517176,-112.00306606318918,Phoenix,AZ,United States}	{Travel & Transport,}
+2416	Sun Dec 05 03:31:39 +0000 2010	4a8c945ff964a520950e20e3	{AT&T Stadium}	{32.74812088636975,-97.09287643432617,Arlington,TX,United States}	{Stadium,Arts & Entertainment,}
+2416	Wed Dec 01 03:35:00 +0000 2010	4b9045bcf964a5206f8033e3	{Buffalo Wild Wings}	{36.41757022721434,-97.8911168249551,Enid,OK,United States}	{Food,}
+2416	Thu Nov 25 17:10:36 +0000 2010	449e9fb9f964a520c0341fe3	{Phoenix Sky Harbor International Airport (PHX)}	{33.43562440517176,-112.00306606318918,Phoenix,AZ,United States}	{Travel & Transport,}
+2416	Thu Nov 25 12:10:21 +0000 2010	4bc1a4b84cdfc9b6ebec9421	{Super shuttle}	{37.787587,-122.446327,San Francisco,CA,United States}	{Travel & Transport,}
+2416	Tue Nov 23 16:30:29 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Mon Nov 22 16:27:35 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Fri Nov 19 17:11:48 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Thu Nov 18 16:49:42 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Tue Nov 16 03:37:55 +0000 2010	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Mon Nov 15 16:47:50 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Sat Nov 13 02:04:43 +0000 2010	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Fri Nov 12 17:11:12 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Fri Nov 12 17:11:12 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Fri Nov 12 06:23:01 +0000 2010	4089ae00f964a520bef21ee3	{Jillian's}	{37.783689229353435,-122.40304827690125,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+2416	Thu Nov 11 22:09:18 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Thu Nov 11 21:12:16 +0000 2010	49b5b56af964a520fd521fe3	{Yank Sing}	{37.790063758705685,-122.39942512457351,San Francisco,CA,United States}	{Food,}
+2416	Thu Nov 11 15:17:07 +0000 2010	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Thu Nov 11 14:52:49 +0000 2010	4460d33cf964a52009331fe3	{Duboce Park}	{37.76946702049605,-122.43253230055683,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2416	Thu Nov 11 01:46:28 +0000 2010	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Wed Nov 10 22:33:54 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Wed Nov 10 21:10:13 +0000 2010	4a7b1f0bf964a52013ea1fe3	{Boudin Bakery Caf??}	{37.7888786665893,-122.40161530673504,San Francisco,CA,United States}	{Food,}
+2416	Tue Nov 09 17:35:34 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Tue Nov 09 04:51:46 +0000 2010	4a8ad17cf964a5207d0a20e3	{Yukol Place}	{37.7994398,-122.44065283,San Francisco,CA,United States}	{Food,}
+2416	Tue Nov 09 02:59:22 +0000 2010	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Mon Nov 08 18:15:58 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Mon Nov 08 03:35:24 +0000 2010	44610f81f964a52010331fe3	{Safeway}	{37.76883197614526,-122.42831468582152,San Francisco,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+2416	Sun Nov 07 02:28:52 +0000 2010	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Sat Nov 06 06:45:43 +0000 2010	4a5824e5f964a5206db71fe3	{AMC Loews Metreon 16}	{37.7844481241691,-122.40364372730255,San Francisco,CA,United States}	{Shop & Service,Arts & Entertainment,Movie Theater,}
+2416	Sat Nov 06 02:04:45 +0000 2010	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Fri Nov 05 16:09:46 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Thu Nov 04 02:08:33 +0000 2010	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Tue Nov 02 16:07:42 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Mon Nov 01 19:32:07 +0000 2010	4a5e8596f964a520b0be1fe3	{Safeway}	{37.797033737488064,-122.39872813574596,San Francisco,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2416	Tue Oct 26 21:36:55 +0000 2010	4a5a7f27f964a52070ba1fe3	{San Francisco Soup Company}	{37.79238032222222,-122.403968,San Francisco,CA,United States}	{Food,}
+2416	Tue Oct 26 21:14:21 +0000 2010	4a88854ff964a520bf0620e3	{American Apparel}	{37.790341216897076,-122.40562037784379,San Francisco,CA,United States}	{Shop & Service,}
+2416	Mon Oct 25 16:10:42 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Sun Oct 24 23:50:36 +0000 2010	44610f81f964a52010331fe3	{Safeway}	{37.76883197614526,-122.42831468582152,San Francisco,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+2416	Sun Oct 24 23:33:58 +0000 2010	4a887b0af964a5209b0620e3	{Handy Handyman Ace Hardware}	{37.76777053189162,-122.42867236225338,San Francisco,CA,United States}	{Shop & Service,}
+2416	Sat Oct 23 02:46:10 +0000 2010	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Fri Oct 22 17:46:32 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Wed Oct 20 18:08:00 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Tue Oct 19 20:12:21 +0000 2010	4a5e8596f964a520b0be1fe3	{Safeway}	{37.797033737488064,-122.39872813574596,San Francisco,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2416	Tue Oct 19 17:06:43 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Tue Oct 19 17:06:43 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Sun Oct 17 19:11:11 +0000 2010	42fa9500f964a520e2261fe3	{Memphis Minnie's BBQ}	{37.77206,-122.4317,San Francisco,CA,United States}	{Food,}
+2416	Sat Oct 16 21:44:56 +0000 2010	4bd2177d046076b055357371	{AT&T Park}	{37.77833858778822,-122.38940119743347,San Francisco,CA,United States}	{Stadium,Arts & Entertainment,}
+2416	Sat Oct 16 17:25:48 +0000 2010	4460d33cf964a52009331fe3	{Duboce Park}	{37.76946702049605,-122.43253230055683,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2416	Fri Oct 15 18:43:12 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Thu Oct 14 05:03:23 +0000 2010	4c8841a6ed0aa1436b44a8f3	{Love in Haight}	{37.77369220953868,-122.42973690096966,San Francisco,CA,United States}	{Residence,}
+2416	Thu Oct 14 03:17:53 +0000 2010	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Wed Oct 13 21:58:46 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Wed Oct 13 19:41:50 +0000 2010	4249ec00f964a5208f201fe3	{The Independent}	{37.77551740042325,-122.437730273791,San Francisco,CA,United States}	{Music Venue,Arts & Entertainment,}
+2416	Tue Oct 12 16:13:01 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Tue Oct 12 05:51:15 +0000 2010	4a8ad17cf964a5207d0a20e3	{Yukol Place}	{37.7994398,-122.44065283,San Francisco,CA,United States}	{Food,}
+2416	Mon Oct 11 22:00:11 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Mon Oct 11 21:58:24 +0000 2010	4a7a36a9f964a520e1e81fe3	{Walgreens}	{37.79218327292616,-122.40262789481947,San Francisco,CA,United States}	{Shop & Service,}
+2416	Mon Oct 11 01:24:28 +0000 2010	4b060755f964a520bfe722e3	{The Republic}	{37.79938,-122.441071,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+2416	Sun Oct 10 19:50:07 +0000 2010	4460d33cf964a52009331fe3	{Duboce Park}	{37.76946702049605,-122.43253230055683,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2416	Wed Oct 06 16:09:39 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Mon Oct 04 02:49:47 +0000 2010	4a66634af964a5207dc81fe3	{Ristobar}	{37.80026914391416,-122.44126917192473,San Francisco,CA,United States}	{Food,}
+2416	Sun Oct 03 19:33:29 +0000 2010	4aa80a86f964a520eb4e20e3	{Alta Plaza Park}	{37.79106586542567,-122.43829250335693,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2416	Sun Oct 03 18:26:31 +0000 2010	4b060755f964a520bfe722e3	{The Republic}	{37.79938,-122.441071,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+2416	Sat Oct 02 20:34:04 +0000 2010	43ca26fef964a520a72d1fe3	{Greens Sports Bar}	{37.79749226531914,-122.42217779159546,San Francisco,CA,United States}	{Nightlife Spot,}
+2416	Sat Oct 02 16:54:28 +0000 2010	4460d33cf964a52009331fe3	{Duboce Park}	{37.76946702049605,-122.43253230055683,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2416	Fri Oct 01 19:54:53 +0000 2010	4a37f6fef964a5209e9e1fe3	{Sellers Markets}	{37.78898819722792,-122.40097950365968,San Francisco,CA,United States}	{Food,}
+2416	Fri Oct 01 14:07:59 +0000 2010	4ab81d6ff964a5203d7c20e3	{JCC Fitness Center}	{37.787193,-122.44738138333334,San Francisco,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+2416	Thu Sep 30 20:19:39 +0000 2010	48e0d1e7f964a5201b521fe3	{TaRa}	{37.787701,-122.399339,San Francisco,CA,United States}	{Food,}
+2416	Wed Sep 29 21:47:20 +0000 2010	4b9fe7abf964a5203f4937e3	{Yoppi Frozen Yogurt}	{37.790196817258156,-122.40214169025421,San Francisco,CA,United States}	{Food,}
+2416	Wed Sep 29 21:43:25 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Sun Sep 26 23:48:20 +0000 2010	445a2c5ff964a520e2321fe3	{IKEA}	{37.830903,-122.292444,Emeryville,CA,United States}	{Shop & Service,}
+2416	Sun Sep 26 23:18:29 +0000 2010	4b19d8d6f964a5203ce523e3	{U-Haul Moving & Storage of Downtown San Francisco}	{37.768125797673996,-122.41012277037741,San Francisco,CA,United States}	{Shop & Service,}
+2416	Sun Sep 26 20:26:32 +0000 2010	4aac1099f964a520065c20e3	{Best in Show}	{37.760239,-122.434991,San Francisco,CA,United States}	{Shop & Service,}
+2416	Sun Sep 26 17:12:13 +0000 2010	4ae5dd61f964a520aaa221e3	{The Buttery}	{36.97689704,-122.01564152,Santa Cruz,CA,United States}	{Food,}
+2416	Sat Sep 25 18:52:37 +0000 2010	4b240057f964a520cf5e24e3	{Trader Joe's}	{36.974678,-122.024612,Santa Cruz,CA,United States}	{Shop & Service,Food & Drink Shop,}
+2416	Sat Sep 25 18:29:13 +0000 2010	4a3422daf964a520ca9b1fe3	{Costco}	{36.984660287315755,-122.03317165374756,Santa Cruz,CA,United States}	{Shop & Service,}
+2416	Sat Sep 25 16:20:42 +0000 2010	4a2ac6c8f964a5204d961fe3	{Seabright State Beach}	{36.963574778056014,-122.00828075408936,Santa Cruz,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+2416	Sat Sep 25 07:02:11 +0000 2010	4e3746eb1838d056d271093e	{Santa Cruz Beach Boardwalk Parking}	{36.964838864625975,-122.01439159292423,Santa Cruz,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+2416	Sat Sep 25 01:57:51 +0000 2010	4b594d8df964a520818428e3	{CrowdFlower}	{37.76545645336396,-122.42183446884155,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Fri Sep 24 20:20:06 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Fri Sep 24 02:10:03 +0000 2010	46002c84f964a52092441fe3	{Myconos Greek Restaurant}	{37.790035,-122.420794,San Francisco,CA,United States}	{Food,}
+2416	Thu Sep 23 21:01:57 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Thu Sep 23 05:42:58 +0000 2010	4c8841a6ed0aa1436b44a8f3	{Love in Haight}	{37.77369220953868,-122.42973690096966,San Francisco,CA,United States}	{Residence,}
+2416	Wed Sep 22 04:38:10 +0000 2010	4a18c332f964a520e5791fe3	{Three Twins Ice Cream}	{37.771933843952475,-122.43035048246384,San Francisco,CA,United States}	{Food,}
+2416	Wed Sep 22 04:34:06 +0000 2010	4c8163f0d34ca143b2082280	{Zero Friends}	{37.771942,-122.4303874,San Francisco,CA,United States}	{Shop & Service,}
+2416	Wed Sep 22 03:15:42 +0000 2010	42893400f964a5204d231fe3	{Indian Oven}	{37.77167268882898,-122.43039773905001,San Francisco,CA,United States}	{Food,}
+2416	Wed Sep 22 03:15:12 +0000 2010	42893400f964a5204d231fe3	{Indian Oven}	{37.77167268882898,-122.43039773905001,San Francisco,CA,United States}	{Food,}
+2416	Tue Sep 21 20:53:35 +0000 2010	4a37f6fef964a5209e9e1fe3	{Sellers Markets}	{37.78898819722792,-122.40097950365968,San Francisco,CA,United States}	{Food,}
+2416	Tue Sep 21 20:48:12 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Tue Sep 21 04:50:34 +0000 2010	4a6006d9f964a520afc01fe3	{Blockbuster}	{37.76841580867767,-122.42932611666667,San Francisco,CA,United States}	{Shop & Service,}
+2416	Tue Sep 21 02:38:21 +0000 2010	4aec7b82f964a520b1c721e3	{Diane's Nails & Waxing}	{37.771725,-122.433471,San Francisco,CA,United States}	{Shop & Service,}
+2416	Tue Sep 21 02:10:17 +0000 2010	4460d33cf964a52009331fe3	{Duboce Park}	{37.76946702049605,-122.43253230055683,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2416	Tue Sep 21 01:59:37 +0000 2010	4c8841a6ed0aa1436b44a8f3	{Love in Haight}	{37.77369220953868,-122.42973690096966,San Francisco,CA,United States}	{Residence,}
+2416	Tue Sep 21 01:36:32 +0000 2010	4a3f0ce4f964a520aca31fe3	{Pet Food Express}	{37.76920547699604,-122.42638840637986,San Francisco,CA,United States}	{Shop & Service,}
+2416	Mon Sep 20 22:44:56 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Mon Sep 20 10:11:47 +0000 2010	4c08ba60340720a1ef968393	{Home Base}	{37.79878784801555,-122.44106181790796,San Francisco,CA,United States}	{Residence,}
+2416	Mon Sep 20 00:38:27 +0000 2010	4c573e3e6418a593c0ee7e0e	{Dear Diary}	{34.420728,-119.701179,Santa Barbara,CA,United States}	{Shop & Service,Clothing Store,}
+2416	Mon Sep 20 00:30:26 +0000 2010	4ae78c61f964a5204bac21e3	{American Apparel}	{34.41932873306101,-119.69925186261284,Santa Barbara,CA,United States}	{Shop & Service,}
+2416	Sun Sep 19 19:10:52 +0000 2010	4b42729ff964a5201ed425e3	{Santa Barbara Roasting Company}	{34.415088330140755,-119.69434707760111,Santa Barbara,CA,United States}	{Food,}
+2416	Sun Sep 19 19:10:40 +0000 2010	4afda4def964a520712922e3	{Backyard Bowls}	{34.415287,-119.694433,Santa Barbara,CA,United States}	{Food,}
+2416	Sun Sep 19 05:47:52 +0000 2010	4adcf428f964a520db6221e3	{McConnell's Ice Cream}	{34.428429494504584,-119.7167481613905,Santa Barbara,CA,United States}	{Food,}
+2416	Sat Sep 18 22:13:40 +0000 2010	4aedfd62f964a520efd021e3	{Madison's Sports Grill & Tavern}	{34.417387,-119.69647096,Santa Barbara,CA,United States}	{Nightlife Spot,}
+2416	Sat Sep 18 21:20:53 +0000 2010	4afda4def964a520712922e3	{Backyard Bowls}	{34.415287,-119.694433,Santa Barbara,CA,United States}	{Food,}
+2416	Sat Sep 18 02:34:50 +0000 2010	4abd9079f964a520028b20e3	{C&J's Sports Bar}	{37.355321097487135,-121.94649723365958,Santa Clara,CA,United States}	{Nightlife Spot,}
+2416	Fri Sep 17 22:54:03 +0000 2010	4abff08bf964a520219320e3	{16th St. Mission BART Station}	{37.76489493179778,-122.42010035824161,San Francisco,CA,United States}	{Travel & Transport,}
+2416	Fri Sep 17 04:58:56 +0000 2010	4c8841a6ed0aa1436b44a8f3	{Love in Haight}	{37.77369220953868,-122.42973690096966,San Francisco,CA,United States}	{Residence,}
+2416	Thu Sep 16 20:04:27 +0000 2010	4aa0257ff964a5207f3e20e3	{Subway}	{37.788864986481094,-122.40076930427215,San Francisco,CA,United States}	{Food,}
+2416	Wed Sep 15 18:52:42 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Wed Sep 15 04:53:09 +0000 2010	4c08ba60340720a1ef968393	{Home Base}	{37.79878784801555,-122.44106181790796,San Francisco,CA,United States}	{Residence,}
+2416	Tue Sep 14 21:27:55 +0000 2010	4b9fe7abf964a5203f4937e3	{Yoppi Frozen Yogurt}	{37.790196817258156,-122.40214169025421,San Francisco,CA,United States}	{Food,}
+2416	Tue Sep 14 19:27:49 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Tue Sep 14 02:01:39 +0000 2010	42893400f964a5204d231fe3	{Indian Oven}	{37.77167268882898,-122.43039773905001,San Francisco,CA,United States}	{Food,}
+2416	Tue Sep 14 01:50:07 +0000 2010	4c8841a6ed0aa1436b44a8f3	{Love in Haight}	{37.77369220953868,-122.42973690096966,San Francisco,CA,United States}	{Residence,}
+2416	Mon Sep 13 17:44:20 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Sun Sep 12 23:19:04 +0000 2010	4c8841a6ed0aa1436b44a8f3	{Love in Haight}	{37.77369220953868,-122.42973690096966,San Francisco,CA,United States}	{Residence,}
+2416	Sun Sep 12 20:51:35 +0000 2010	4c08ba60340720a1ef968393	{Home Base}	{37.79878784801555,-122.44106181790796,San Francisco,CA,United States}	{Residence,}
+2416	Sun Sep 12 17:31:16 +0000 2010	49ee4aadf964a52048681fe3	{Starbucks}	{37.800611762949536,-122.43857630249435,San Francisco,CA,United States}	{Food,}
+2416	Sun Sep 12 04:28:52 +0000 2010	4b060755f964a520bfe722e3	{The Republic}	{37.79938,-122.441071,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+2416	Sun Sep 12 01:37:58 +0000 2010	4a5821c5f964a5206ab71fe3	{Tuk Tuk Thai Cafe}	{37.800369,-122.410382,San Francisco,CA,United States}	{Food,}
+2416	Sun Sep 12 01:37:13 +0000 2010	4486b2d2f964a5202d341fe3	{Washington Square Park}	{37.8007578222182,-122.40980749855548,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2416	Sat Sep 11 21:41:25 +0000 2010	43ca26fef964a520a72d1fe3	{Greens Sports Bar}	{37.79749226531914,-122.42217779159546,San Francisco,CA,United States}	{Nightlife Spot,}
+2416	Sat Sep 11 01:45:01 +0000 2010	4c8841a6ed0aa1436b44a8f3	{Love in Haight}	{37.77369220953868,-122.42973690096966,San Francisco,CA,United States}	{Residence,}
+2416	Sat Sep 11 01:45:01 +0000 2010	4c8841a6ed0aa1436b44a8f3	{Love in Haight}	{37.77369220953868,-122.42973690096966,San Francisco,CA,United States}	{Residence,}
+2416	Fri Sep 10 22:47:27 +0000 2010	4b9fe7abf964a5203f4937e3	{Yoppi Frozen Yogurt}	{37.790196817258156,-122.40214169025421,San Francisco,CA,United States}	{Food,}
+2416	Fri Sep 10 20:58:31 +0000 2010	4b7ef75cf964a520ee0c30e3	{The Grove}	{37.78653398485857,-122.40192174911499,San Francisco,CA,United States}	{Food,}
+2416	Fri Sep 10 18:45:32 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Fri Sep 10 05:38:51 +0000 2010	4a18c332f964a520e5791fe3	{Three Twins Ice Cream}	{37.771933843952475,-122.43035048246384,San Francisco,CA,United States}	{Food,}
+2416	Fri Sep 10 05:15:00 +0000 2010	4ae4eeb9f964a520859f21e3	{Sushi Raw}	{37.7717433,-122.433439,San Francisco,CA,United States}	{Food,}
+2416	Fri Sep 10 01:41:27 +0000 2010	4460d33cf964a52009331fe3	{Duboce Park}	{37.76946702049605,-122.43253230055683,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2416	Thu Sep 09 16:42:16 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Thu Sep 09 04:50:34 +0000 2010	4c08ba60340720a1ef968393	{Home Base}	{37.79878784801555,-122.44106181790796,San Francisco,CA,United States}	{Residence,}
+2416	Thu Sep 09 03:36:38 +0000 2010	4293c000f964a5202f241fe3	{Pluto's}	{37.80011353966624,-122.44111434763101,San Francisco,CA,United States}	{Food,}
+2416	Thu Sep 09 02:09:24 +0000 2010	4c8841a6ed0aa1436b44a8f3	{Love in Haight}	{37.77369220953868,-122.42973690096966,San Francisco,CA,United States}	{Residence,}
+2416	Mon Sep 06 18:46:45 +0000 2010	4b4e3a94f964a52016e626e3	{The Sandwich Spot}	{37.7997765,-122.439406,San Francisco,CA,United States}	{Food,}
+2416	Mon Aug 30 03:01:59 +0000 2010	4ba53f79f964a5205cf138e3	{Lefty's Mile High Grille}	{39.85867826107697,-104.67139106958282,Denver,CO,United States}	{Travel & Transport,Nightlife Spot,Airport,Food,}
+2416	Mon Aug 30 02:58:23 +0000 2010	4ba53f79f964a5205cf138e3	{Lefty's Mile High Grille}	{39.85867826107697,-104.67139106958282,Denver,CO,United States}	{Travel & Transport,Nightlife Spot,Airport,Food,}
+2416	Mon Aug 30 02:33:08 +0000 2010	4bcbc7d2937ca593114aaa92	{Concourse B}	{39.85875947854826,-104.6737003326416,Denver,CO,United States}	{Travel & Transport,Airport,}
+2416	Sun Aug 29 19:52:41 +0000 2010	4a7ddefbf964a52002f01fe3	{Blue Goose Cantina}	{32.82365754193352,-96.77026215796644,Dallas,TX,United States}	{Food,}
+2416	Sun Aug 29 01:49:04 +0000 2010	4b0cb152f964a520134123e3	{Tei Tei Robata Bar}	{32.82037898150696,-96.78462776422074,Dallas,TX,United States}	{Food,}
+2416	Sat Aug 28 21:03:12 +0000 2010	4ad226c8f964a520afdf20e3	{Crate&Barrel}	{32.823329356289335,-96.78769269927712,Dallas,TX,United States}	{Shop & Service,}
+2416	Sat Aug 28 20:57:22 +0000 2010	4c3b8951d94dc9b620f9ffe7	{Mecox}	{32.82250178456498,-96.7897168910507,Dallas,TX,United States}	{Shop & Service,}
+2416	Sat Aug 28 20:53:59 +0000 2010	4af5dd99f964a52001fe21e3	{Restoration Hardware}	{32.822854129429246,-96.78884862534822,Dallas,TX,United States}	{Shop & Service,}
+2416	Sat Aug 28 20:38:35 +0000 2010	4b80142bf964a5202c5030e3	{Weir's Furniture}	{32.82320465353062,-96.79005687777355,Dallas,TX,United States}	{Shop & Service,}
+2416	Sat Aug 28 20:29:33 +0000 2010	4a91d1a4f964a520f81b20e3	{Starbucks}	{32.823563,-96.789395,Dallas,TX,United States}	{Food,}
+2416	Sat Aug 28 20:28:21 +0000 2010	4b3f9493f964a52088a925e3	{Highland Park Old-Fashioned Soda Fountain}	{32.8235362815588,-96.79018764237192,Dallas,TX,United States}	{Food,}
+2416	Sat Aug 28 19:26:48 +0000 2010	4b1551c5f964a520deaa23e3	{Pei Wei Asian Diner}	{32.820828,-96.78723258333333,Dallas,TX,United States}	{Food,}
+2416	Sat Aug 28 17:09:22 +0000 2010	4aca4e32f964a52051c120e3	{Tom Thumb}	{32.85219187396463,-96.76705241203308,Dallas,TX,United States}	{Shop & Service,Food & Drink Shop,}
+2416	Sat Aug 28 16:31:34 +0000 2010	4b5bbc1ff964a520221329e3	{Republic Tower}	{32.787661571640086,-96.7975919636156,Dallas,TX,United States}	{Residence,}
+2416	Sat Aug 21 18:10:49 +0000 2010	4c06a9598a81c9b67c122690	{I'm on a boat!}	{29.307065381774155,-94.7959711601893,Galveston,TX,United States}	{Travel & Transport,}
+2416	Sat Aug 21 01:49:31 +0000 2010	4bfeec73369476b036128d1f	{Gate 9}	{33.947293892002776,-118.40110659599304,Los Angeles,CA,United States}	{Travel & Transport,Airport,}
+2416	Fri Aug 20 23:38:32 +0000 2010	4c19893c834e2d7f86a62a80	{Gate 30}	{37.70996725701494,-122.21240758895874,Oakland,CA,United States}	{Travel & Transport,Airport,}
+2416	Fri Aug 20 15:23:32 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Wed Aug 18 18:42:44 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Wed Aug 18 01:42:05 +0000 2010	4b80570df964a5208c6930e3	{Renaissance Salon}	{37.78957751214471,-122.43581700722949,San Francisco,CA,United States}	{Shop & Service,}
+2416	Mon Aug 16 00:23:40 +0000 2010	4c51474a0ef3a5932a11b87b	{Outside Lands}	{37.76871324177751,-122.49133586883545,San Francisco,CA,United States}	{Arts & Entertainment,}
+2416	Sat Aug 14 01:54:28 +0000 2010	4b594d8df964a520818428e3	{CrowdFlower}	{37.76545645336396,-122.42183446884155,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Thu Aug 12 18:37:43 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Tue Aug 10 19:44:26 +0000 2010	4b5b6072f964a52005f928e3	{Curry Up Now}	{37.79118456389419,-122.4011492729187,SF Bay Area,CA,United States}	{Travel & Transport,Food,}
+2416	Mon Aug 09 20:54:01 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Mon Aug 09 03:24:31 +0000 2010	4451c73cf964a520a3321fe3	{Thep Phanom}	{37.771272,-122.430331,San Francisco,CA,United States}	{Food,}
+2416	Sun Aug 08 23:46:48 +0000 2010	451c196df964a520813a1fe3	{Bloomingdale's}	{37.784197986515366,-122.40589141845703,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+2416	Sun Aug 08 06:21:25 +0000 2010	4c5e4ce06147be9ae0bb9409	{La Femme Nikita's}	{37.77369220953868,-122.42973690096966,San Francisco,CA,United States}	{Residence,}
+2416	Sun Aug 08 03:37:40 +0000 2010	4ab595e1f964a520877520e3	{Mission Dolores Park}	{37.76005771562691,-122.42678658144186,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2416	Sun Aug 08 03:37:01 +0000 2010	4ab595e1f964a520877520e3	{Mission Dolores Park}	{37.76005771562691,-122.42678658144186,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2416	Sat Aug 07 21:30:51 +0000 2010	3fd66200f964a52024ee1ee3	{Pork Store Cafe}	{37.77017196507861,-122.4462103843689,San Francisco,CA,United States}	{Food,}
+2416	Fri Aug 06 19:44:23 +0000 2010	4bd1e1f1a8b3a593bb9e665f	{The American Grilled Cheese Kitchen}	{37.78241695,-122.392824,San Francisco,CA,United States}	{Food,}
+2416	Thu Aug 05 18:38:18 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Mon Aug 02 18:22:51 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Sun Aug 01 04:26:39 +0000 2010	4a5824e5f964a5206db71fe3	{AMC Loews Metreon 16}	{37.7844481241691,-122.40364372730255,San Francisco,CA,United States}	{Shop & Service,Arts & Entertainment,Movie Theater,}
+2416	Sun Aug 01 03:48:43 +0000 2010	3fd66200f964a52094ed1ee3	{Gold Dust Lounge}	{37.78706391976077,-122.40826785564423,San Francisco,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+2416	Fri Jul 30 18:26:43 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Fri Jul 30 01:25:35 +0000 2010	44d31949f964a5203c361fe3	{D?d?}	{37.788325692943566,-122.40004466632152,San Francisco,CA,United States}	{Nightlife Spot,}
+2416	Thu Jul 29 20:23:13 +0000 2010	49b5b56af964a520fd521fe3	{Yank Sing}	{37.790063758705685,-122.39942512457351,San Francisco,CA,United States}	{Food,}
+2416	Thu Jul 29 18:05:23 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Tue Jul 27 15:30:20 +0000 2010	4bdaec93c79cc9284a4180e9	{MUNI Metro Stop - Sunset Tunnel East Portal}	{37.76930752879952,-122.43348896817005,San Francisco,CA,United States}	{Travel & Transport,Train Station,}
+2416	Sat Jul 24 22:54:33 +0000 2010	4c4a26a342b4d13a65c2cc7c	{San Francisco Marathon Expo}	{37.772648334503174,-122.40323,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Fri Jul 23 21:33:06 +0000 2010	4c27c151ed0ac9b6ee3a5faa	{SusieCakes}	{37.80060317490008,-122.43833300082167,San Francisco,CA,United States}	{Food,}
+2416	Fri Jul 23 21:18:32 +0000 2010	4a2b22ecf964a520a9961fe3	{Barney's Gourmet Hamburgers}	{37.800328,-122.437664,San Francisco,CA,United States}	{Food,}
+2416	Thu Jul 22 03:49:11 +0000 2010	4bb78e967421a59307a6c040	{Fog Harbor Fish House}	{37.808783740409325,-122.41037607192993,San Francisco,CA,United States}	{Food,}
+2416	Wed Jul 21 15:38:25 +0000 2010	4bdaec93c79cc9284a4180e9	{MUNI Metro Stop - Sunset Tunnel East Portal}	{37.76930752879952,-122.43348896817005,San Francisco,CA,United States}	{Travel & Transport,Train Station,}
+2416	Wed Jul 21 03:19:00 +0000 2010	480d1a5ef964a520284f1fe3	{Four Barrel Coffee}	{37.76700253951794,-122.42194754601947,San Francisco,CA,United States}	{Food,}
+2416	Tue Jul 20 17:49:47 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Tue Jul 20 03:31:47 +0000 2010	49c94f32f964a52054581fe3	{Yerba Buena Gardens}	{37.784732177766266,-122.4025011062622,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2416	Tue Jul 20 02:14:42 +0000 2010	49fe1937f964a5206a6f1fe3	{California Pizza Kitchen}	{37.786883,-122.402623,San Francisco,CA,United States}	{Food,}
+2416	Mon Jul 19 22:25:45 +0000 2010	4460d33cf964a52009331fe3	{Duboce Park}	{37.76946702049605,-122.43253230055683,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2416	Mon Jul 19 17:46:20 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Sun Jul 18 22:04:42 +0000 2010	42926e80f964a5201b241fe3	{SOMArts Cultural Center}	{37.771203974969204,-122.40649985296507,San Francisco,CA,United States}	{Arts & Entertainment,}
+2416	Sat Jul 17 15:16:25 +0000 2010	44d8bf5af964a52077361fe3	{Squat & Gobble Cafe}	{37.771756,-122.430354,San Francisco,CA,United States}	{Food,}
+2416	Fri Jul 16 16:17:56 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Fri Jul 16 04:08:37 +0000 2010	4a5952edf964a5203bb91fe3	{Caf? Chanta}	{37.787831320527374,-122.41146681332354,San Francisco,CA,United States}	{Nightlife Spot,}
+2416	Fri Jul 16 03:02:58 +0000 2010	49c02958f964a5204e551fe3	{Akiko's Sushi Bar}	{37.788762910495414,-122.41025551612472,San Francisco,CA,United States}	{Food,}
+2416	Wed Jul 14 01:37:28 +0000 2010	4a4ac040f964a52026ac1fe3	{Rickhouse}	{37.79054655738382,-122.40394681692123,San Francisco,CA,United States}	{Nightlife Spot,}
+2416	Mon Jul 12 20:58:56 +0000 2010	4aa72aeef964a520154c20e3	{Petco}	{37.766320145231624,-122.41025551612472,San Francisco,CA,United States}	{Shop & Service,}
+2416	Mon Jul 12 19:57:32 +0000 2010	455f77abf964a520903d1fe3	{Montgomery St. BART Station}	{37.78924297213801,-122.40164279937744,San Francisco,CA,United States}	{Travel & Transport,}
+2416	Mon Jul 12 17:35:47 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Sun Jul 11 19:52:25 +0000 2010	4c2e38c2e760c9b6363b4649	{World Cup Soccer Live}	{37.779701816666666,-122.417764,San Francisco,CA,United States}	{Arts & Entertainment,}
+2416	Sun Jul 11 19:15:27 +0000 2010	4a5e7bb7f964a520a4be1fe3	{MUNI 6 Parnassus}	{37.77232275,-122.4292521,San Francisco,CA,United States}	{Travel & Transport,Bus Station,}
+2416	Sun Jul 11 00:21:18 +0000 2010	4460d33cf964a52009331fe3	{Duboce Park}	{37.76946702049605,-122.43253230055683,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2416	Sat Jul 10 06:08:32 +0000 2010	4b7ef75cf964a520ee0c30e3	{The Grove}	{37.78653398485857,-122.40192174911499,San Francisco,CA,United States}	{Food,}
+2416	Sat Jul 10 05:10:22 +0000 2010	4790de30f964a5204e4d1fe3	{Harlot}	{37.78856380316849,-122.39782646874575,San Francisco,CA,United States}	{Nightlife Spot,}
+2416	Sat Jul 10 01:40:04 +0000 2010	4460d38bf964a5200a331fe3	{Alamo Square}	{37.77631185696482,-122.4347734451294,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2416	Sat Jul 10 01:07:14 +0000 2010	4ae5db56f964a52097a221e3	{Montgomery MUNI Metro Station}	{37.7888529519201,-122.40193247795105,San Francisco,CA,United States}	{Travel & Transport,}
+2416	Thu Jul 08 19:52:03 +0000 2010	45ad2ccdf964a52071411fe3	{Delessio Market & Bakery}	{37.772785082640326,-122.42231255532755,San Francisco,CA,United States}	{Food,}
+2416	Thu Jul 08 15:52:30 +0000 2010	4a0241edf964a52041711fe3	{MUNI Metro Stop - Duboce & Church}	{37.769298430744264,-122.42903351783752,San Francisco,CA,United States}	{Travel & Transport,}
+2416	Thu Jul 08 02:04:14 +0000 2010	4bbe20b58ca376b00a59c77a	{SF MUNI - 22 Fillmore}	{37.78794572301522,-122.43370056152344,San Francisco,CA,United States}	{Travel & Transport,Bus Station,}
+2416	Wed Jul 07 21:31:06 +0000 2010	49b5b56af964a520fd521fe3	{Yank Sing}	{37.790063758705685,-122.39942512457351,San Francisco,CA,United States}	{Food,}
+2416	Wed Jul 07 18:07:31 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Wed Jul 07 02:18:48 +0000 2010	4b594d8df964a520818428e3	{CrowdFlower}	{37.76545645336396,-122.42183446884155,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Wed Jul 07 01:25:21 +0000 2010	4c0560a513b99c744d37aff3	{Earthjustice Ad}	{37.789111,-122.40187346935272,San Francisco,CA,United States}	{Travel & Transport,}
+2416	Mon Jul 05 21:25:35 +0000 2010	4a887b0af964a5209b0620e3	{Handy Handyman Ace Hardware}	{37.76777053189162,-122.42867236225338,San Francisco,CA,United States}	{Shop & Service,}
+2416	Mon Jul 05 21:11:47 +0000 2010	4460d33cf964a52009331fe3	{Duboce Park}	{37.76946702049605,-122.43253230055683,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2416	Sun Jul 04 22:28:11 +0000 2010	40ca4780f964a5200a011fe3	{Speedway Meadows}	{37.7694934927041,-122.48543500900269,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2416	Sun Jul 04 00:05:34 +0000 2010	4bdaec93c79cc9284a4180e9	{MUNI Metro Stop - Sunset Tunnel East Portal}	{37.76930752879952,-122.43348896817005,San Francisco,CA,United States}	{Travel & Transport,Train Station,}
+2416	Sat Jul 03 17:54:19 +0000 2010	4a52b052f964a520ebb11fe3	{Walgreens}	{37.77211216,-122.430345,San Francisco,CA,United States}	{Shop & Service,}
+2416	Sat Jul 03 04:42:19 +0000 2010	3fd66200f964a5205aec1ee3	{Royale}	{37.799257,-122.407278,San Francisco,CA,United States}	{Nightlife Spot,}
+2416	Sat Jul 03 03:37:12 +0000 2010	4aba7ea3f964a520988120e3	{Maggie McGarry's}	{37.799391,-122.40745,San Francisco,CA,United States}	{Nightlife Spot,}
+2416	Fri Jul 02 22:18:49 +0000 2010	42fa9500f964a520e2261fe3	{Memphis Minnie's BBQ}	{37.77206,-122.4317,San Francisco,CA,United States}	{Food,}
+2416	Fri Jul 02 19:33:35 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Fri Jul 02 04:25:52 +0000 2010	42fa9500f964a520e2261fe3	{Memphis Minnie's BBQ}	{37.77206,-122.4317,San Francisco,CA,United States}	{Food,}
+2416	Wed Jun 30 21:57:19 +0000 2010	49b5b56af964a520fd521fe3	{Yank Sing}	{37.790063758705685,-122.39942512457351,San Francisco,CA,United States}	{Food,}
+2416	Wed Jun 30 01:18:35 +0000 2010	4a0241edf964a52041711fe3	{MUNI Metro Stop - Duboce & Church}	{37.769298430744264,-122.42903351783752,San Francisco,CA,United States}	{Travel & Transport,}
+2416	Tue Jun 29 20:39:29 +0000 2010	48490adff964a52079501fe3	{Sunflower}	{37.76469672092554,-122.42198072873629,San Francisco,CA,United States}	{Food,}
+2416	Tue Jun 29 20:07:55 +0000 2010	4a05f5cff964a520a2721fe3	{Comcast}	{37.766091,-122.407767,San Francisco,CA,United States}	{Shop & Service,}
+2416	Tue Jun 29 15:48:03 +0000 2010	4a0241edf964a52041711fe3	{MUNI Metro Stop - Duboce & Church}	{37.769298430744264,-122.42903351783752,San Francisco,CA,United States}	{Travel & Transport,}
+2416	Tue Jun 29 03:50:01 +0000 2010	4161e400f964a520661d1fe3	{Schroeder's}	{37.79391457604158,-122.39881575107574,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+2416	Tue Jun 29 02:13:11 +0000 2010	44c6a6f9f964a520df351fe3	{Mythic Pizza}	{37.772041,-122.43125817,San Francisco,CA,United States}	{Food,}
+2416	Mon Jun 28 21:51:50 +0000 2010	49b5b56af964a520fd521fe3	{Yank Sing}	{37.790063758705685,-122.39942512457351,San Francisco,CA,United States}	{Food,}
+2416	Mon Jun 28 19:43:27 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Sun Jun 27 22:15:27 +0000 2010	4c2706cec11dc9b686082a24	{San Francisco Pride Parade Route}	{37.783321,-122.4126935005188,San Francisco,CA,United States}	{Arts & Entertainment,}
+2416	Sun Jun 27 18:10:31 +0000 2010	4b4e3a94f964a52016e626e3	{The Sandwich Spot}	{37.7997765,-122.439406,San Francisco,CA,United States}	{Food,}
+2416	Sat Jun 26 03:36:45 +0000 2010	43c4e03ff964a5205d2d1fe3	{Speakeasy Ales & Lagers}	{37.738259528419704,-122.38084270896746,San Francisco,CA,United States}	{Nightlife Spot,}
+2416	Wed Jun 23 15:39:50 +0000 2010	4a83561ef964a520d8fa1fe3	{SF MUNI -  30X Marina Express}	{37.80018598046653,-122.42521802390743,San Francisco,CA,United States}	{Travel & Transport,Bus Station,}
+2416	Wed Jun 23 04:10:34 +0000 2010	49dba3b4f964a520e25e1fe3	{The Tipsy Pig}	{37.80020932826012,-122.44014322757721,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+2416	Mon Jun 21 01:37:43 +0000 2010	45e6b92bf964a5204d431fe3	{The Grove}	{37.800326397681886,-122.44043422391705,San Francisco,CA,United States}	{Food,}
+2416	Sun Jun 20 22:22:07 +0000 2010	4ac8f480f964a52091bd20e3	{neva's beauty}	{37.799073,-122.4415521,San Francisco,CA,United States}	{Shop & Service,}
+2416	Sun Jun 20 18:59:56 +0000 2010	49ee4aadf964a52048681fe3	{Starbucks}	{37.800611762949536,-122.43857630249435,San Francisco,CA,United States}	{Food,}
+2416	Sun Jun 20 00:44:57 +0000 2010	3fd66200f964a5205aec1ee3	{Royale}	{37.799257,-122.407278,San Francisco,CA,United States}	{Nightlife Spot,}
+2416	Sat Jun 19 04:19:37 +0000 2010	4b2b1c3bf964a52076b424e3	{Kasa Indian Eatery}	{37.798327803611755,-122.43572996666667,San Francisco,CA,United States}	{Food,}
+2416	Thu Jun 17 16:07:11 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Tue Jun 15 20:27:14 +0000 2010	4a947cccf964a520c42120e3	{Ayola}	{37.787319251453674,-122.40022720917635,San Francisco,CA,United States}	{Food,}
+2416	Tue Jun 15 15:59:22 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Sun Jun 13 19:31:51 +0000 2010	4aa80a86f964a520eb4e20e3	{Alta Plaza Park}	{37.79106586542567,-122.43829250335693,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2416	Sat Jun 12 22:46:13 +0000 2010	4b4e3a94f964a52016e626e3	{The Sandwich Spot}	{37.7997765,-122.439406,San Francisco,CA,United States}	{Food,}
+2416	Sat Jun 12 21:20:26 +0000 2010	4486b2d2f964a5202d341fe3	{Washington Square Park}	{37.8007578222182,-122.40980749855548,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2416	Sat Jun 12 17:37:18 +0000 2010	4aa80a86f964a520eb4e20e3	{Alta Plaza Park}	{37.79106586542567,-122.43829250335693,San Francisco,CA,United States}	{Outdoors & Recreation,}
+2416	Sat Jun 12 16:50:35 +0000 2010	4a6dff82f964a5208ed31fe3	{Peet's Coffee & Tea}	{37.80057,-122.438936,San Francisco,CA,United States}	{Food,}
+2416	Sat Jun 12 02:57:43 +0000 2010	49dcfa66f964a520cf5f1fe3	{Marina Green}	{37.80666580547457,-122.4385597137619,San Francisco,CA,United States}	{Shop & Service,Outdoors & Recreation,Gym / Fitness Center,}
+2416	Tue Jun 08 22:03:13 +0000 2010	4a7b1f0bf964a52013ea1fe3	{Boudin Bakery Caf??}	{37.7888786665893,-122.40161530673504,San Francisco,CA,United States}	{Food,}
+2416	Tue Jun 08 16:26:46 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Tue Jun 08 15:39:49 +0000 2010	4a83561ef964a520d8fa1fe3	{SF MUNI -  30X Marina Express}	{37.80018598046653,-122.42521802390743,San Francisco,CA,United States}	{Travel & Transport,Bus Station,}
+2416	Tue Jun 08 06:13:49 +0000 2010	4c08ba60340720a1ef968393	{Home Base}	{37.79878784801555,-122.44106181790796,San Francisco,CA,United States}	{Residence,}
+2416	Tue Jun 08 04:04:13 +0000 2010	49dba3b4f964a520e25e1fe3	{The Tipsy Pig}	{37.80020932826012,-122.44014322757721,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+2416	Mon Jun 07 18:46:54 +0000 2010	4b7ad227f964a520b23e2fe3	{Meredith Corporation}	{37.79021552367176,-122.40120629726462,San Francisco,CA,United States}	{Professional & Other Places,}
+2416	Mon Jun 07 15:39:44 +0000 2010	4a83561ef964a520d8fa1fe3	{SF MUNI -  30X Marina Express}	{37.80018598046653,-122.42521802390743,San Francisco,CA,United States}	{Travel & Transport,Bus Station,}
+2416	Sat Jun 05 00:57:34 +0000 2010	4c08ba60340720a1ef968393	{Home Base}	{37.79878784801555,-122.44106181790796,San Francisco,CA,United States}	{Residence,}
+2416	Sat Jun 05 00:57:34 +0000 2010	4c08ba60340720a1ef968393	{Home Base}	{37.79878784801555,-122.44106181790796,San Francisco,CA,United States}	{Residence,}
+2416	Fri Jun 04 08:33:38 +0000 2010	4c08ba60340720a1ef968393	{Home Base}	{37.79878784801555,-122.44106181790796,San Francisco,CA,United States}	{Residence,}
+2416	Fri Jun 04 02:20:53 +0000 2010	49dcfa66f964a520cf5f1fe3	{Marina Green}	{37.80666580547457,-122.4385597137619,San Francisco,CA,United States}	{Shop & Service,Outdoors & Recreation,Gym / Fitness Center,}
+2416	Thu Jun 03 02:36:34 +0000 2010	3fd66200f964a52094ed1ee3	{Gold Dust Lounge}	{37.78706391976077,-122.40826785564423,San Francisco,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+2416	Thu Jun 03 02:23:29 +0000 2010	4a283a63f964a520ff941fe3	{Niketown}	{37.788598589799385,-122.40668267011642,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+2416	Wed Jun 02 20:59:40 +0000 2010	49d68c61f964a520e65c1fe3	{Blue Bottle Coffee}	{37.79590475625579,-122.39393759555746,San Francisco,CA,United States}	{Food,}
+2416	Wed Jun 02 20:42:51 +0000 2010	3fd66200f964a5205bec1ee3	{Pier 23 Cafe}	{37.8034,-122.400815,San Francisco,CA,United States}	{Food,}
+2416	Wed Jun 02 20:42:49 +0000 2010	3fd66200f964a5205bec1ee3	{Pier 23 Cafe}	{37.8034,-122.400815,San Francisco,CA,United States}	{Food,}
+2416	Mon May 24 15:49:03 +0000 2010	468eed4bf964a52090481fe3	{West Oakland BART Station}	{37.80489295406824,-122.29519665241241,Oakland,CA,United States}	{Travel & Transport,}

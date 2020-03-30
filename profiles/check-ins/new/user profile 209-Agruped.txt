@@ -1,0 +1,795 @@
+209	Fri Aug 12 03:45:16 +0000 2011	4b188a6ef964a520f6d323e3	{Starry Kitchen}	{34.05198829239166,-118.25149297714233,Los Angeles,CA,United States}	{Food,}
+209	Fri Aug 12 00:45:48 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Thu Aug 11 04:19:36 +0000 2011	4ace8bfaf964a5202ad120e3	{The Home Depot}	{34.05717781455132,-118.2712796330452,Los Angeles,CA,United States}	{Shop & Service,}
+209	Thu Aug 11 03:19:49 +0000 2011	4ace8bfaf964a5202ad120e3	{The Home Depot}	{34.05717781455132,-118.2712796330452,Los Angeles,CA,United States}	{Shop & Service,}
+209	Thu Aug 11 00:30:02 +0000 2011	48285115f964a520bc4f1fe3	{Fleming's Prime Steakhouse & Wine Bar}	{33.90256395458202,-118.382816090387,El Segundo,CA,United States}	{Food,}
+209	Wed Aug 10 19:20:02 +0000 2011	49ebc697f964a5202a671fe3	{Ayara Thai Cuisine}	{33.958741,-118.39452981948853,Westchester,CA,United States}	{Food,}
+209	Wed Aug 10 15:27:25 +0000 2011	4a734f70f964a52019dc1fe3	{The Coffee Bean & Tea Leaf}	{33.92949061926147,-118.3965256886334,El Segundo,CA,United States}	{Food,}
+209	Tue Aug 09 23:49:02 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Tue Aug 09 01:29:54 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Mon Aug 08 04:23:34 +0000 2011	4cf401773e996a316ca0ea8f	{Yellowhouse Cafe}	{34.070145,-118.307478,Los Angeles,CA,United States}	{Food,}
+209	Mon Aug 08 02:44:00 +0000 2011	4b3471c6f964a520862725e3	{Honey Pig}	{34.057706,-118.3032,Los Angeles,CA,United States}	{Food,}
+209	Sun Aug 07 19:07:07 +0000 2011	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Sun Aug 07 10:35:08 +0000 2011	40ec8e80f964a5202a0a1fe3	{The Standard, Downtown LA}	{34.04978277912779,-118.25658240427495,Los Angeles,CA,United States}	{Nightlife Spot,Travel & Transport,}
+209	Sun Aug 07 01:43:09 +0000 2011	4b08cc0df964a5205b1223e3	{Vibiana}	{34.050638805221574,-118.24449346603488,Los Angeles,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+209	Sat Aug 06 20:45:38 +0000 2011	49e5e787f964a520e3631fe3	{Groundwork Coffee}	{34.050788,-118.244801,Los Angeles,CA,United States}	{Food,}
+209	Sat Aug 06 19:43:50 +0000 2011	4b08cc0df964a5205b1223e3	{Vibiana}	{34.050638805221574,-118.24449346603488,Los Angeles,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+209	Sat Aug 06 02:28:53 +0000 2011	49d02698f964a520035b1fe3	{Whole Foods Market}	{33.906285601439706,-118.39275419712067,El Segundo,CA,United States}	{Nightlife Spot,Shop & Service,Food & Drink Shop,}
+209	Sat Aug 06 00:31:34 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Fri Aug 05 21:56:03 +0000 2011	4b1409c4f964a5203a9c23e3	{Starbucks}	{34.04903259490317,-118.25546264648438,Los Angeles,CA,United States}	{Food,}
+209	Fri Aug 05 00:30:22 +0000 2011	4a4c3037f964a5201fad1fe3	{McCormick & Schmick's}	{33.90253676273381,-118.38830173015594,El Segundo,CA,United States}	{Food,}
+209	Thu Aug 04 03:30:51 +0000 2011	4d9e49ab2470b60c06a0c6dc	{Flying Pig Cafe}	{34.048111466233735,-118.23941665712807,Los Angeles,CA,United States}	{Food,Professional & Other Places,}
+209	Thu Aug 04 02:59:14 +0000 2011	4d9e49ab2470b60c06a0c6dc	{Flying Pig Cafe}	{34.048111466233735,-118.23941665712807,Los Angeles,CA,United States}	{Food,Professional & Other Places,}
+209	Thu Aug 04 02:38:28 +0000 2011	4d9e49ab2470b60c06a0c6dc	{Flying Pig Cafe}	{34.048111466233735,-118.23941665712807,Los Angeles,CA,United States}	{Food,Professional & Other Places,}
+209	Wed Aug 03 23:49:34 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Wed Aug 03 02:21:14 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Mon Aug 01 23:48:54 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Mon Aug 01 01:53:01 +0000 2011	4a05e648f964a52097721fe3	{Whole Foods Market}	{34.13753435600812,-118.14756274223328,Pasadena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+209	Sun Jul 31 18:43:57 +0000 2011	43e5cca1f964a520f82e1fe3	{Empress Pavilion Restaurant}	{34.06671190841714,-118.23725581169128,Los Angeles,CA,United States}	{Food,}
+209	Sun Jul 31 04:22:01 +0000 2011	4ae7d240f964a520baad21e3	{Bigfoot Lodge West}	{34.01550555548688,-118.41313550529962,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Sun Jul 31 03:09:41 +0000 2011	4a7f29bdf964a52016f31fe3	{Santouka}	{34.004972832917296,-118.43336394276997,Los Angeles,CA,United States}	{Food,}
+209	Sat Jul 30 04:58:40 +0000 2011	4a8f8e92f964a520741520e3	{Danny's Tacos}	{34.04298753935195,-118.26069831848145,Los Angeles,CA,United States}	{Food,}
+209	Fri Jul 29 18:09:04 +0000 2011	4a087129f964a520c7731fe3	{Sushi Gen}	{34.046891505971736,-118.23865141080539,Los Angeles,CA,United States}	{Food,}
+209	Fri Jul 29 02:27:04 +0000 2011	4bf763a45317a593d119fe7e	{Yard House}	{33.76146177088795,-118.19017767906189,Long Beach,CA,United States}	{Nightlife Spot,Food,}
+209	Thu Jul 28 22:08:59 +0000 2011	4d8db58c2d86d7ce46e578cb	{AVIA Long Beach}	{33.76493526490242,-118.19467257886846,Long Beach,CA,United States}	{Nightlife Spot,Travel & Transport,Hotel,}
+209	Thu Jul 28 19:19:25 +0000 2011	4b0c4eabf964a520e13a23e3	{Mendocino Farms}	{34.05145049645721,-118.255934715271,Los Angeles,CA,United States}	{Food,}
+209	Thu Jul 28 13:54:32 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Wed Jul 27 23:50:40 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Wed Jul 27 19:15:52 +0000 2011	4a7cece5f964a5201cee1fe3	{Curry House}	{33.83684862250338,-118.35480962091147,Torrance,CA,United States}	{Food,}
+209	Wed Jul 27 15:25:16 +0000 2011	4a734f70f964a52019dc1fe3	{The Coffee Bean & Tea Leaf}	{33.92949061926147,-118.3965256886334,El Segundo,CA,United States}	{Food,}
+209	Tue Jul 26 23:44:39 +0000 2011	4a4c3037f964a5201fad1fe3	{McCormick & Schmick's}	{33.90253676273381,-118.38830173015594,El Segundo,CA,United States}	{Food,}
+209	Mon Jul 25 23:46:43 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Mon Jul 25 17:12:18 +0000 2011	4bbca35b8a4fb71346eb3b9d	{Raytheon (R1)}	{33.93092196138536,-118.39150103278821,El Segundo,CA,United States}	{Professional & Other Places,}
+209	Mon Jul 25 03:10:59 +0000 2011	4d9e49ab2470b60c06a0c6dc	{Flying Pig Cafe}	{34.048111466233735,-118.23941665712807,Los Angeles,CA,United States}	{Food,Professional & Other Places,}
+209	Sun Jul 24 22:47:57 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Sun Jul 24 21:47:23 +0000 2011	4b1409c4f964a5203a9c23e3	{Starbucks}	{34.04903259490317,-118.25546264648438,Los Angeles,CA,United States}	{Food,}
+209	Sun Jul 24 08:39:24 +0000 2011	49e0a52df964a5205a611fe3	{Library Bar}	{34.049410396566316,-118.25661063194275,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Sat Jul 23 19:49:13 +0000 2011	4c4b2a4e9e6dbe9ac28dac0b	{Hermosa Beach Smackfest}	{33.863437866666665,-118.402058,Hermosa Beach,CA,United States}	{}
+209	Sat Jul 23 04:38:48 +0000 2011	4bc6cff7bf29c9b68d58fa2a	{The Thirsty Crow}	{34.083692220142,-118.27377140522003,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Sat Jul 23 04:02:02 +0000 2011	4b1409c4f964a5203a9c23e3	{Starbucks}	{34.04903259490317,-118.25546264648438,Los Angeles,CA,United States}	{Food,}
+209	Sat Jul 23 03:11:50 +0000 2011	4df189d71f6e818dadf8a259	{Urbano Pizza Bar}	{34.049441509569434,-118.25661599636078,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+209	Fri Jul 22 23:47:29 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Fri Jul 22 05:23:49 +0000 2011	49bac961f964a520a9531fe3	{La Cita Bar}	{34.0506299592959,-118.24958203619967,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Fri Jul 22 00:44:50 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Thu Jul 21 18:58:45 +0000 2011	4b5262c9f964a520c47a27e3	{Pepe's Tacos}	{33.99151600843243,-118.4212875366211,Los Angeles,CA,United States}	{Food,}
+209	Thu Jul 21 04:15:47 +0000 2011	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Thu Jul 21 02:18:51 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Wed Jul 20 00:49:48 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Tue Jul 19 01:50:09 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Mon Jul 18 15:34:28 +0000 2011	4bbca35b8a4fb71346eb3b9d	{Raytheon (R1)}	{33.93092196138536,-118.39150103278821,El Segundo,CA,United States}	{Professional & Other Places,}
+209	Mon Jul 18 03:55:01 +0000 2011	4aaab43cf964a520075720e3	{Target}	{34.14652167498666,-118.13476911761893,Pasadena,CA,United States}	{Shop & Service,Clothing Store,}
+209	Mon Jul 18 03:46:17 +0000 2011	4af64180f964a520ad0222e3	{Whole Foods Market}	{34.15072621703997,-118.07236992895744,Pasadena,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+209	Sun Jul 17 23:18:46 +0000 2011	4de5bf4118389f055869e5f9	{Santee Village Cornell Building}	{34.041983845420006,-118.25115190982218,Los Angeles,CA,United States}	{Residence,}
+209	Sat Jul 16 20:40:07 +0000 2011	4e210692aeb70263952c3afe	{LA Street Food Fest}	{34.159335,-118.165103,,,United States}	{Food,}
+209	Sat Jul 16 04:33:43 +0000 2011	4a2774a9f964a52080911fe3	{The Varnish Bar}	{34.045046026165124,-118.24960438722523,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Sat Jul 16 03:03:03 +0000 2011	4b188a6ef964a520f6d323e3	{Starry Kitchen}	{34.05198829239166,-118.25149297714233,Los Angeles,CA,United States}	{Food,}
+209	Sat Jul 16 00:57:42 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Fri Jul 15 16:09:48 +0000 2011	4a33da8ef964a520559b1fe3	{Urth Caff?}	{34.04194415861958,-118.23521347103639,Los Angeles,CA,United States}	{Food,}
+209	Fri Jul 15 06:30:44 +0000 2011	4aff7f64f964a520193922e3	{Cafe Bleu}	{34.062994,-118.29775035381317,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Thu Jul 14 23:43:34 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Thu Jul 14 18:58:26 +0000 2011	4b2940eff964a520c49b24e3	{Thai Lai}	{33.915495,-118.3522314,Hawthorne,CA,United States}	{Food,}
+209	Thu Jul 14 02:37:23 +0000 2011	4b04c98ff964a5209b5622e3	{Cham sut gol}	{34.0530149,-118.31890641666666,Los Angeles,CA,United States}	{Food,}
+209	Wed Jul 13 17:01:12 +0000 2011	4bbca35b8a4fb71346eb3b9d	{Raytheon (R1)}	{33.93092196138536,-118.39150103278821,El Segundo,CA,United States}	{Professional & Other Places,}
+209	Wed Jul 13 00:56:31 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Tue Jul 12 02:46:19 +0000 2011	49d02698f964a520035b1fe3	{Whole Foods Market}	{33.906285601439706,-118.39275419712067,El Segundo,CA,United States}	{Nightlife Spot,Shop & Service,Food & Drink Shop,}
+209	Tue Jul 12 00:51:31 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Sun Jul 10 22:35:08 +0000 2011	439235c3f964a5206a2b1fe3	{Pete's Cafe & Bar}	{34.04799696524164,-118.2472014427185,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+209	Sun Jul 10 20:46:59 +0000 2011	4bbabef33db7b713bdae239a	{Spring St. Bar}	{34.04536116401876,-118.25165390968323,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Sun Jul 10 18:10:24 +0000 2011	49c53ab6f964a520ea561fe3	{Hollywood Farmer's Market}	{34.09976166226564,-118.3283617425866,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+209	Sun Jul 10 17:46:10 +0000 2011	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Sat Jul 09 15:54:56 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Sat Jul 09 03:36:39 +0000 2011	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Fri Jul 08 23:53:31 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Fri Jul 08 22:24:56 +0000 2011	4a9acf0ef964a520de3220e3	{Manhattan Car Wash}	{33.87773,-118.395518,Manhattan Beach,CA,United States}	{Shop & Service,}
+209	Fri Jul 08 07:17:53 +0000 2011	4a2774a9f964a52080911fe3	{The Varnish Bar}	{34.045046026165124,-118.24960438722523,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Fri Jul 08 06:29:48 +0000 2011	474dd5a6f964a520ae4c1fe3	{Seven Grand}	{34.04706520853107,-118.25592572903602,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Fri Jul 08 00:52:24 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Wed Jul 06 23:48:36 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Wed Jul 06 05:11:07 +0000 2011	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Wed Jul 06 00:47:18 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Mon Jul 04 20:36:38 +0000 2011	4d65395cb470a1430dad23fe	{CoffeeBar}	{34.04569453294887,-118.25103163719177,Los Angeles,CA,United States}	{Food,}
+209	Mon Jul 04 19:57:31 +0000 2011	4a31c627f964a520239a1fe3	{Curry House}	{34.050133916592,-118.24221491685049,Los Angeles,CA,United States}	{Food,}
+209	Mon Jul 04 07:53:05 +0000 2011	4d92a92c7b5ea143f7d9b6b8	{Icon LA}	{34.040974,-118.2674016,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Mon Jul 04 06:31:33 +0000 2011	4bbabef33db7b713bdae239a	{Spring St. Bar}	{34.04536116401876,-118.25165390968323,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Mon Jul 04 04:30:18 +0000 2011	474dd5a6f964a520ae4c1fe3	{Seven Grand}	{34.04706520853107,-118.25592572903602,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Mon Jul 04 03:06:20 +0000 2011	4d09a7eaacd4a1cd9f1a7e93	{M?s Malo}	{34.04704355250367,-118.25595885515213,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+209	Sun Jul 03 21:24:18 +0000 2011	4d3cc56105b8721ee3768f37	{The CRC (Choi Recreation Center)}	{34.214444,-118.201039,,CA,United States}	{}
+209	Sun Jul 03 19:49:45 +0000 2011	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Sun Jul 03 17:55:37 +0000 2011	4d65395cb470a1430dad23fe	{CoffeeBar}	{34.04569453294887,-118.25103163719177,Los Angeles,CA,United States}	{Food,}
+209	Sun Jul 03 04:27:22 +0000 2011	4c709dcdd7fab1f73f495fc9	{Dublin's Irish Pub}	{34.04908148697793,-118.25912654399872,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+209	Sun Jul 03 01:25:58 +0000 2011	4df189d71f6e818dadf8a259	{Urbano Pizza Bar}	{34.049441509569434,-118.25661599636078,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+209	Sat Jul 02 18:19:54 +0000 2011	49d027dcf964a520075b1fe3	{The Counter}	{33.90621881834444,-118.39141845703125,El Segundo,CA,United States}	{Nightlife Spot,Food,}
+209	Sat Jul 02 15:59:39 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Sat Jul 02 05:31:46 +0000 2011	4ae0a807f964a5205a8121e3	{Regal LA LIVE Stadium 14}	{34.04569008803841,-118.26687812805174,Los Angeles,CA,United States}	{Arts & Entertainment,Movie Theater,}
+209	Sat Jul 02 00:28:40 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Fri Jul 01 22:57:33 +0000 2011	4c5b816c2815c92860caaf67	{CB2}	{34.01400974062912,-118.49325656890869,Santa Monica,CA,United States}	{Shop & Service,}
+209	Fri Jul 01 19:57:52 +0000 2011	49fe67a5f964a5209f6f1fe3	{Back Home in Lahaina}	{33.88527551,-118.395786,Manhattan Beach,CA,United States}	{Food,}
+209	Fri Jul 01 04:16:30 +0000 2011	4a3e04fdf964a520c4a21fe3	{J Restaurant and Lounge}	{34.04069,-118.26181,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+209	Fri Jul 01 01:44:23 +0000 2011	49d02698f964a520035b1fe3	{Whole Foods Market}	{33.906285601439706,-118.39275419712067,El Segundo,CA,United States}	{Nightlife Spot,Shop & Service,Food & Drink Shop,}
+209	Fri Jul 01 01:42:54 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Thu Jun 30 00:26:26 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Wed Jun 29 17:10:19 +0000 2011	4bbca35b8a4fb71346eb3b9d	{Raytheon (R1)}	{33.93092196138536,-118.39150103278821,El Segundo,CA,United States}	{Professional & Other Places,}
+209	Tue Jun 28 23:52:35 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Mon Jun 27 03:49:25 +0000 2011	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Mon Jun 27 00:39:47 +0000 2011	4a2d5228f964a520a2971fe3	{Goorin Bros. Hat Shop - Melrose}	{34.083709,-118.35596,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,}
+209	Sun Jun 26 22:28:18 +0000 2011	49ff1fd8f964a520d26f1fe3	{Melrose Trading Post}	{34.083303463958096,-118.36073398590088,Los Angeles,CA,United States}	{Outdoors & Recreation,Shop & Service,Arts & Entertainment,}
+209	Sun Jun 26 22:09:18 +0000 2011	4cddedfd78ddf04d877d9798	{Simplethings Sandwich & Pie Shop}	{34.07255087139468,-118.37045967578888,Los Angeles,CA,United States}	{Food,}
+209	Sun Jun 26 02:03:10 +0000 2011	433b2e80f964a5203b281fe3	{Pacific Electric Lofts}	{34.04475427333808,-118.24995272378953,Los Angeles,CA,United States}	{Arts & Entertainment,Professional & Other Places,Residence,}
+209	Sat Jun 25 20:49:39 +0000 2011	4ac816b9f964a52097bb20e3	{Class 302 (??2?)}	{33.99624828076921,-117.89016723632812,Rowland Heights,CA,United States}	{Food,}
+209	Sat Jun 25 19:52:55 +0000 2011	4b6f11a7f964a520e1da2ce3	{Ding's Garden}	{33.995514,-117.889936,Rowland Heights,CA,United States}	{Food,}
+209	Sat Jun 25 19:12:05 +0000 2011	4a9c9d89f964a520a53720e3	{Hsi Lai Temple}	{33.975662755226544,-117.96769380569458,Hacienda Heights,CA,United States}	{Spiritual Center,Food,Professional & Other Places,}
+209	Sat Jun 25 17:51:28 +0000 2011	4b76c2a7f964a520345d2ee3	{Four Sea Restaurant}	{33.996027,-117.96659498333334,Hacienda Heights,CA,United States}	{Food,}
+209	Sat Jun 25 07:24:05 +0000 2011	44247391f964a520a1311fe3	{Casey's Irish Pub}	{34.048508124465556,-118.25575442203744,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+209	Sat Jun 25 07:18:23 +0000 2011	49e0a52df964a5205a611fe3	{Library Bar}	{34.049410396566316,-118.25661063194275,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Sat Jun 25 06:26:48 +0000 2011	431e2d80f964a52081271fe3	{Cole's}	{34.04481888109261,-118.24954032897949,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+209	Sat Jun 25 01:45:30 +0000 2011	49d02698f964a520035b1fe3	{Whole Foods Market}	{33.906285601439706,-118.39275419712067,El Segundo,CA,United States}	{Nightlife Spot,Shop & Service,Food & Drink Shop,}
+209	Sat Jun 25 01:41:35 +0000 2011	49d02698f964a520035b1fe3	{Whole Foods Market}	{33.906285601439706,-118.39275419712067,El Segundo,CA,United States}	{Nightlife Spot,Shop & Service,Food & Drink Shop,}
+209	Sat Jun 25 00:00:59 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Fri Jun 24 23:06:01 +0000 2011	4a9acf0ef964a520de3220e3	{Manhattan Car Wash}	{33.87773,-118.395518,Manhattan Beach,CA,United States}	{Shop & Service,}
+209	Fri Jun 24 20:06:50 +0000 2011	4a9463a0f964a5206a2120e3	{The Original Rinaldi's}	{33.91989936,-118.41611087322235,El Segundo,CA,United States}	{Food,}
+209	Thu Jun 23 15:21:30 +0000 2011	4a734f70f964a52019dc1fe3	{The Coffee Bean & Tea Leaf}	{33.92949061926147,-118.3965256886334,El Segundo,CA,United States}	{Food,}
+209	Thu Jun 23 03:10:10 +0000 2011	4c943a08efecb713812fdd9d	{Exchange LA}	{34.045450923036576,-118.25148882248213,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Wed Jun 22 23:46:28 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Wed Jun 22 19:40:58 +0000 2011	49cbecc9f964a52030591fe3	{California Chicken Caf??}	{34.00048065,-118.46566327,Venice,CA,United States}	{Food,}
+209	Wed Jun 22 00:33:03 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Tue Jun 21 03:23:34 +0000 2011	49d02698f964a520035b1fe3	{Whole Foods Market}	{33.906285601439706,-118.39275419712067,El Segundo,CA,United States}	{Nightlife Spot,Shop & Service,Food & Drink Shop,}
+209	Tue Jun 21 00:44:18 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Mon Jun 20 16:05:49 +0000 2011	4bbca35b8a4fb71346eb3b9d	{Raytheon (R1)}	{33.93092196138536,-118.39150103278821,El Segundo,CA,United States}	{Professional & Other Places,}
+209	Mon Jun 20 01:22:20 +0000 2011	4a31c627f964a520239a1fe3	{Curry House}	{34.050133916592,-118.24221491685049,Los Angeles,CA,United States}	{Food,}
+209	Sun Jun 19 07:42:04 +0000 2011	4aab38e9f964a520465920e3	{Bobos}	{34.063291,-118.298602,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Sun Jun 19 05:44:57 +0000 2011	4aab38e9f964a520465920e3	{Bobos}	{34.063291,-118.298602,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Sun Jun 19 04:21:27 +0000 2011	4c5706b8b7a31b8d5d4c4fda	{The Redbury}	{34.10231303281119,-118.32688912366145,Los Angeles,CA,United States}	{Travel & Transport,}
+209	Sun Jun 19 03:28:49 +0000 2011	4c811649d6ebbfb7c3ac41a4	{Cleo}	{34.10234730710871,-118.32672930378276,Los Angeles,CA,United States}	{Food,}
+209	Sun Jun 19 00:46:21 +0000 2011	4b7ad450f964a520503f2fe3	{Golden Deli Vietnamese Restaurant}	{34.102755743797516,-118.11173111200333,San Gabriel,CA,United States}	{Food,}
+209	Sat Jun 18 23:49:59 +0000 2011	4ad506d1f964a5205f0121e3	{Ten Ren's Tea Time - Arcadia}	{34.12509083747864,-118.05932532,Arcadia,CA,United States}	{Food,}
+209	Sat Jun 18 06:12:17 +0000 2011	4d09a7eaacd4a1cd9f1a7e93	{M?s Malo}	{34.04704355250367,-118.25595885515213,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+209	Sat Jun 18 06:02:10 +0000 2011	49e25d07f964a5200f621fe3	{Bottega Louie}	{34.04707466637529,-118.25656771659851,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+209	Sat Jun 18 05:13:14 +0000 2011	49e0a52df964a5205a611fe3	{Library Bar}	{34.049410396566316,-118.25661063194275,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Sat Jun 18 03:21:32 +0000 2011	4df189d71f6e818dadf8a259	{Urbano Pizza Bar}	{34.049441509569434,-118.25661599636078,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+209	Sat Jun 18 03:20:49 +0000 2011	4b188a6ef964a520f6d323e3	{Starry Kitchen}	{34.05198829239166,-118.25149297714233,Los Angeles,CA,United States}	{Food,}
+209	Fri Jun 17 19:53:50 +0000 2011	49d02698f964a520035b1fe3	{Whole Foods Market}	{33.906285601439706,-118.39275419712067,El Segundo,CA,United States}	{Nightlife Spot,Shop & Service,Food & Drink Shop,}
+209	Fri Jun 17 15:34:19 +0000 2011	4a734f70f964a52019dc1fe3	{The Coffee Bean & Tea Leaf}	{33.92949061926147,-118.3965256886334,El Segundo,CA,United States}	{Food,}
+209	Fri Jun 17 05:13:12 +0000 2011	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Fri Jun 17 02:08:28 +0000 2011	49d02698f964a520035b1fe3	{Whole Foods Market}	{33.906285601439706,-118.39275419712067,El Segundo,CA,United States}	{Nightlife Spot,Shop & Service,Food & Drink Shop,}
+209	Thu Jun 16 23:56:01 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Thu Jun 16 00:03:25 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Wed Jun 15 04:51:02 +0000 2011	49c96695f964a5205e581fe3	{Mandrake Bar}	{34.033799539599926,-118.37611215735986,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Wed Jun 15 00:49:35 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Mon Jun 13 23:57:25 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Sun Jun 12 22:45:41 +0000 2011	4d65395cb470a1430dad23fe	{CoffeeBar}	{34.04569453294887,-118.25103163719177,Los Angeles,CA,United States}	{Food,}
+209	Sun Jun 12 22:15:54 +0000 2011	4b3ea0b3f964a520f99f25e3	{Popkiller Second}	{34.04858822159976,-118.2406216276263,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,}
+209	Sun Jun 12 20:56:12 +0000 2011	4aa49017f964a5201b4720e3	{Shabu Shabu House}	{34.04892607663138,-118.2404445945765,Los Angeles,CA,United States}	{Food,}
+209	Sun Jun 12 19:18:37 +0000 2011	4d65395cb470a1430dad23fe	{CoffeeBar}	{34.04569453294887,-118.25103163719177,Los Angeles,CA,United States}	{Food,}
+209	Sat Jun 11 21:35:22 +0000 2011	4b6e5c0ef964a5201fba2ce3	{Lollicup}	{33.688346,-117.77165,Irvine,CA,United States}	{Food,}
+209	Sat Jun 11 19:17:24 +0000 2011	4a61f15ff964a520aec21fe3	{Shik Do Rak}	{33.687804076358006,-117.77153849601746,Irvine,CA,United States}	{Food,}
+209	Sat Jun 11 19:14:51 +0000 2011	4a61f15ff964a520aec21fe3	{Shik Do Rak}	{33.687804076358006,-117.77153849601746,Irvine,CA,United States}	{Food,}
+209	Sat Jun 11 15:56:39 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Fri Jun 10 22:31:08 +0000 2011	4aa18539f964a520d84020e3	{Nissan Downtown L.A.}	{34.035157,-118.27325098333333,Los Angeles,CA,United States}	{Shop & Service,}
+209	Fri Jun 10 19:52:54 +0000 2011	4afdbe04f964a5206f2a22e3	{The Coffee Bean & Tea Leaf}	{34.05016513934732,-118.25421888401004,Los Angeles,CA,United States}	{Food,}
+209	Fri Jun 10 19:16:36 +0000 2011	4b188a6ef964a520f6d323e3	{Starry Kitchen}	{34.05198829239166,-118.25149297714233,Los Angeles,CA,United States}	{Food,}
+209	Fri Jun 10 14:37:37 +0000 2011	4aa18539f964a520d84020e3	{Nissan Downtown L.A.}	{34.035157,-118.27325098333333,Los Angeles,CA,United States}	{Shop & Service,}
+209	Fri Jun 10 02:44:52 +0000 2011	49d02698f964a520035b1fe3	{Whole Foods Market}	{33.906285601439706,-118.39275419712067,El Segundo,CA,United States}	{Nightlife Spot,Shop & Service,Food & Drink Shop,}
+209	Fri Jun 10 02:44:26 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Fri Jun 10 00:57:33 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Thu Jun 09 03:56:34 +0000 2011	4d51e88d7ee1a35d31af9434	{Lucky Baldwin's Trappiste Pub & Cafe}	{34.14585583,-118.113894,Pasadena,CA,United States}	{Nightlife Spot,}
+209	Thu Jun 09 00:01:46 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Wed Jun 08 01:02:25 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Tue Jun 07 00:57:49 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Mon Jun 06 03:45:23 +0000 2011	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Mon Jun 06 00:57:09 +0000 2011	4c0955d4009a0f473897e7bf	{Seafood Village}	{34.10723805427551,-118.058601,Temple City,CA,United States}	{Food,}
+209	Sun Jun 05 21:46:21 +0000 2011	4a344606f964a520069c1fe3	{Bob Hope Airport (BUR)}	{34.19639831676446,-118.35313796997072,Burbank,CA,United States}	{Travel & Transport,}
+209	Sun Jun 05 19:40:55 +0000 2011	4a677f82f964a52091c91fe3	{Las Vegas McCarran International Airport (LAS)}	{36.08365019548198,-115.14985084533691,Las Vegas,NV,United States}	{Travel & Transport,}
+209	Sun Jun 05 16:47:17 +0000 2011	4b464329f964a520e01b26e3	{Planet Hollywood Westgate Towers}	{36.10867644304474,-115.16923358298997,Las Vegas,NV,United States}	{Nightlife Spot,Travel & Transport,Arts & Entertainment,}
+209	Sun Jun 05 04:50:18 +0000 2011	4a9248d6f964a520091d20e3	{XS Nightclub}	{36.12829973975456,-115.16433477401732,Las Vegas,NV,United States}	{Nightlife Spot,}
+209	Sun Jun 05 04:48:18 +0000 2011	49de9a63f964a52088601fe3	{Encore Las Vegas}	{36.129018986874925,-115.16491413116455,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+209	Sun Jun 05 02:42:14 +0000 2011	4b46a29cf964a520002626e3	{Charlie Palmer Steak}	{36.09112508376567,-115.17461820262629,Las Vegas,NV,United States}	{Food,}
+209	Sun Jun 05 00:57:38 +0000 2011	4b464329f964a520e01b26e3	{Planet Hollywood Westgate Towers}	{36.10867644304474,-115.16923358298997,Las Vegas,NV,United States}	{Nightlife Spot,Travel & Transport,Arts & Entertainment,}
+209	Sat Jun 04 18:29:07 +0000 2011	4bd9bb4ed2cbc9284c99d1ad	{Ocean One Bar & Grill}	{36.10877575695957,-115.1701831354332,Las Vegas,NV,United States}	{Food,}
+209	Sat Jun 04 05:58:34 +0000 2011	4d013eda6289f04d14be96cc	{Marquee Nightclub & Dayclub}	{36.10954499497765,-115.17464518547058,Las Vegas,NV,United States}	{Nightlife Spot,Arts & Entertainment,}
+209	Sat Jun 04 02:40:13 +0000 2011	4cf94d78d7206ea838053269	{Comme ?a}	{36.11040309633153,-115.17334699630737,Las Vegas,NV,United States}	{Food,}
+209	Sat Jun 04 00:00:53 +0000 2011	4b464329f964a520e01b26e3	{Planet Hollywood Westgate Towers}	{36.10867644304474,-115.16923358298997,Las Vegas,NV,United States}	{Nightlife Spot,Travel & Transport,Arts & Entertainment,}
+209	Fri Jun 03 21:41:06 +0000 2011	4a677f82f964a52091c91fe3	{Las Vegas McCarran International Airport (LAS)}	{36.08365019548198,-115.14985084533691,Las Vegas,NV,United States}	{Travel & Transport,}
+209	Fri Jun 03 16:34:12 +0000 2011	4b58e95df964a5206b7228e3	{Cool River Cafe}	{32.89883152457285,-97.04446972907556,Dallas,TX,United States}	{Travel & Transport,Airport,Food,}
+209	Fri Jun 03 16:19:18 +0000 2011	44d9ff60f964a5208b361fe3	{Dallas/Fort Worth International Airport (DFW)}	{32.89803818160521,-97.04086303710938,DFW Airport,TX,United States}	{Travel & Transport,}
+209	Fri Jun 03 13:26:52 +0000 2011	4a65d6a4f964a520a1c71fe3	{Louis Armstrong New Orleans International Airport (MSY)}	{29.984936414376474,-90.25714874267578,Kenner,LA,United States}	{Travel & Transport,}
+209	Fri Jun 03 12:03:20 +0000 2011	4ad4c04af964a52091f220e3	{Sheraton New Orleans Hotel}	{29.95199002384201,-90.06780869609563,New Orleans,LA,United States}	{Travel & Transport,}
+209	Fri Jun 03 01:58:56 +0000 2011	4b1d4731f964a520190e24e3	{Popeyes}	{29.952932670094132,-90.06860241040235,New Orleans,LA,United States}	{Food,}
+209	Fri Jun 03 00:33:58 +0000 2011	4c41e11a520fa593d744caac	{Bourbon Street}	{29.95839699740804,-90.06584796565748,New Orleans,LA,United States}	{Nightlife Spot,Travel & Transport,}
+209	Thu Jun 02 22:25:44 +0000 2011	4c9ec9ad0e9bb1f7df12eb5f	{Rick's Sporting Saloon}	{29.95740018358695,-90.06667289209456,New Orleans,LA,United States}	{Nightlife Spot,}
+209	Thu Jun 02 22:07:36 +0000 2011	4ad76daaf964a520520a21e3	{The Old Absinthe House}	{29.955478344339674,-90.06839632987976,New Orleans,LA,United States}	{Nightlife Spot,Arts & Entertainment,}
+209	Thu Jun 02 18:32:09 +0000 2011	4b685496f964a5200f722be3	{The National WWII Museum}	{29.943016798039196,-90.07055282592773,New Orleans,LA,United States}	{Museum,Arts & Entertainment,}
+209	Thu Jun 02 17:25:32 +0000 2011	4ad4c04af964a520a9f220e3	{Emeril's}	{29.9447087967228,-90.06742000579834,New Orleans,LA,United States}	{Nightlife Spot,Food,}
+209	Thu Jun 02 13:40:37 +0000 2011	4dba9f860cb65435c52fbaa9	{JRB NAS New Orleans Bayou Grill}	{29.829440934865833,-90.02332082585951,Belle Chasse,LA,United States}	{Food,Residence,}
+209	Thu Jun 02 12:40:59 +0000 2011	4c4ffa747537e21e0d422489	{Goody's Cafe}	{29.880894330444693,-90.02119539991095,Gretna,LA,United States}	{Food,}
+209	Thu Jun 02 03:05:05 +0000 2011	4ad4c04af964a52091f220e3	{Sheraton New Orleans Hotel}	{29.95199002384201,-90.06780869609563,New Orleans,LA,United States}	{Travel & Transport,}
+209	Thu Jun 02 00:12:47 +0000 2011	4ad4c04df964a52070f320e3	{Acme Oyster House}	{29.954524652898396,-90.06886698548414,New Orleans,LA,United States}	{Nightlife Spot,Food,}
+209	Wed Jun 01 22:27:23 +0000 2011	4ad4c04af964a52091f220e3	{Sheraton New Orleans Hotel}	{29.95199002384201,-90.06780869609563,New Orleans,LA,United States}	{Travel & Transport,}
+209	Wed Jun 01 14:53:19 +0000 2011	4dba9f860cb65435c52fbaa9	{JRB NAS New Orleans Bayou Grill}	{29.829440934865833,-90.02332082585951,Belle Chasse,LA,United States}	{Food,Residence,}
+209	Wed Jun 01 03:29:53 +0000 2011	4ad4c04af964a52091f220e3	{Sheraton New Orleans Hotel}	{29.95199002384201,-90.06780869609563,New Orleans,LA,United States}	{Travel & Transport,}
+209	Wed Jun 01 02:20:34 +0000 2011	4c9ec9ad0e9bb1f7df12eb5f	{Rick's Sporting Saloon}	{29.95740018358695,-90.06667289209456,New Orleans,LA,United States}	{Nightlife Spot,}
+209	Tue May 31 23:57:50 +0000 2011	4b44306af964a5207ef225e3	{Huge Ass Beers - Steak Pit}	{29.95802143506932,-90.06619394867256,New Orleans,LA,United States}	{Nightlife Spot,}
+209	Tue May 31 23:17:07 +0000 2011	4ad4c04af964a520b5f220e3	{Gumbo Shop}	{29.957847272728408,-90.06458383031351,New Orleans,LA,United States}	{Food,}
+209	Tue May 31 22:31:14 +0000 2011	4ad4c04af964a52091f220e3	{Sheraton New Orleans Hotel}	{29.95199002384201,-90.06780869609563,New Orleans,LA,United States}	{Travel & Transport,}
+209	Tue May 31 15:22:43 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+209	Mon May 30 21:23:59 +0000 2011	4b3798d6f964a520c44225e3	{Mahogany Smoked Meats}	{37.376007549546266,-118.41763663019725,Bishop,CA,United States}	{Food,}
+209	Mon May 30 20:35:26 +0000 2011	4b6f5dfdf964a52069ed2ce3	{Nik-N-Willie's}	{37.64504188275252,-118.96633078961344,Mammoth Lakes,CA,United States}	{Food,}
+209	Mon May 30 19:23:21 +0000 2011	4b50c6edf964a520fe3127e3	{Canyon Lodge}	{37.644718568109354,-119.00184631347656,Mammoth Lakes,CA,United States}	{Shop & Service,Outdoors & Recreation,Ski Area,Food & Drink Shop,}
+209	Sun May 29 21:55:12 +0000 2011	4b50c6edf964a520fe3127e3	{Canyon Lodge}	{37.644718568109354,-119.00184631347656,Mammoth Lakes,CA,United States}	{Shop & Service,Outdoors & Recreation,Ski Area,Food & Drink Shop,}
+209	Sun May 29 20:21:09 +0000 2011	4b51fe1df964a520de5f27e3	{The Mill Cafe}	{37.65102827345187,-119.02691864168652,Mammoth Lakes,CA,United States}	{Outdoors & Recreation,Ski Area,Food,}
+209	Sun May 29 16:52:51 +0000 2011	4b51fe1df964a520de5f27e3	{The Mill Cafe}	{37.65102827345187,-119.02691864168652,Mammoth Lakes,CA,United States}	{Outdoors & Recreation,Ski Area,Food,}
+209	Sun May 29 03:59:25 +0000 2011	4de0658bfa76425c5418f6da	{Dial it in!!!!}	{37.627739,-118.9769496,Mammoth Mountain,CA,United States}	{}
+209	Sun May 29 01:21:24 +0000 2011	4bd1c16e5e0cce722af1a184	{Snowcreek Resort}	{37.632,-118.973833,Mammoth Lakes,CA,United States}	{Travel & Transport,Outdoors & Recreation,Hotel,Athletics & Sports,Residence,}
+209	Sat May 28 23:56:59 +0000 2011	4b5a828cf964a520eec828e3	{Wave Rave}	{37.647109,-118.96912336349487,Mammoth Lakes,CA,United States}	{Shop & Service,}
+209	Sat May 28 21:01:21 +0000 2011	4b784656f964a5204ac12ee3	{Tusks Bar Mammoth Main Lodge}	{37.650538,-119.037359,Mammoth Lakes,CA,United States}	{Nightlife Spot,Outdoors & Recreation,Ski Area,}
+209	Sat May 28 18:24:24 +0000 2011	4b521a43f964a520096827e3	{Main Lodge - Mammoth Mountain}	{37.650495102547744,-119.0373158454895,Mammoth Lakes,CA,United States}	{Shop & Service,Outdoors & Recreation,Ski Area,}
+209	Sat May 28 05:55:37 +0000 2011	4de0658bfa76425c5418f6da	{Dial it in!!!!}	{37.627739,-118.9769496,Mammoth Mountain,CA,United States}	{}
+209	Sat May 28 02:26:23 +0000 2011	4ba6ba2df964a520b26b39e3	{Shell}	{35.05449661290531,-118.17402721843965,Mojave,CA,United States}	{Shop & Service,}
+209	Sat May 28 01:34:24 +0000 2011	4b37db07f964a5208a4725e3	{In-N-Out Burger}	{34.70448730585324,-118.1669772979277,Lancaster,CA,United States}	{Food,}
+209	Fri May 27 23:20:03 +0000 2011	4b897838f964a520413932e3	{El Pollo Loco}	{34.248241782188416,-118.42058479785919,Pacoima,CA,United States}	{Food,}
+209	Fri May 27 21:44:31 +0000 2011	4a6f218bf964a5205fd51fe3	{La Provence Patisserie & Cafe}	{34.05918376267347,-118.38719666004181,Beverly Hills,CA,United States}	{Food,}
+209	Fri May 27 20:06:43 +0000 2011	4afdbe04f964a5206f2a22e3	{The Coffee Bean & Tea Leaf}	{34.05016513934732,-118.25421888401004,Los Angeles,CA,United States}	{Food,}
+209	Fri May 27 19:36:41 +0000 2011	4b188a6ef964a520f6d323e3	{Starry Kitchen}	{34.05198829239166,-118.25149297714233,Los Angeles,CA,United States}	{Food,}
+209	Fri May 27 00:26:00 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Thu May 26 00:19:04 +0000 2011	4c5de5da7735c9b6ab839072	{Rock & Brews}	{33.91759345100133,-118.41607868671417,El Segundo,CA,United States}	{Nightlife Spot,Food,}
+209	Wed May 25 18:40:53 +0000 2011	412a8500f964a520780c1fe3	{Shinsengumi Hakata Ramen}	{33.88762214337553,-118.31400722265244,Gardena,CA,United States}	{Food,}
+209	Wed May 25 00:53:43 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Tue May 24 02:57:09 +0000 2011	49d02698f964a520035b1fe3	{Whole Foods Market}	{33.906285601439706,-118.39275419712067,El Segundo,CA,United States}	{Nightlife Spot,Shop & Service,Food & Drink Shop,}
+209	Tue May 24 00:59:21 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Mon May 23 04:49:56 +0000 2011	4ac85cb4f964a52023bc20e3	{Cheetahs}	{34.09947211030862,-118.28944149346734,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Mon May 23 02:13:23 +0000 2011	4b188a6ef964a520f6d323e3	{Starry Kitchen}	{34.05198829239166,-118.25149297714233,Los Angeles,CA,United States}	{Food,}
+209	Mon May 23 00:44:47 +0000 2011	4b1409c4f964a5203a9c23e3	{Starbucks}	{34.04903259490317,-118.25546264648438,Los Angeles,CA,United States}	{Food,}
+209	Sun May 22 23:12:55 +0000 2011	4cbf5080020d4688e8ae6138	{Hugo Reid Elementary School}	{34.13858419702373,-118.06389820559981,Arcadia,CA,United States}	{Professional & Other Places,}
+209	Sat May 21 21:10:02 +0000 2011	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Sat May 21 20:07:40 +0000 2011	4dd71627c65bee535aaa3936	{RED BULL Soapbox Race 2011 (Official Spot)}	{34.04976385,-118.25258416,Los Angeles,CA,United States}	{Arts & Entertainment,}
+209	Sat May 21 19:37:17 +0000 2011	4afdbe04f964a5206f2a22e3	{The Coffee Bean & Tea Leaf}	{34.05016513934732,-118.25421888401004,Los Angeles,CA,United States}	{Food,}
+209	Sat May 21 19:06:59 +0000 2011	4dd71627c65bee535aaa3936	{RED BULL Soapbox Race 2011 (Official Spot)}	{34.04976385,-118.25258416,Los Angeles,CA,United States}	{Arts & Entertainment,}
+209	Sat May 21 15:59:17 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Sat May 21 06:45:36 +0000 2011	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Sat May 21 05:17:45 +0000 2011	49e0a52df964a5205a611fe3	{Library Bar}	{34.049410396566316,-118.25661063194275,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Fri May 20 23:49:16 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Fri May 20 19:13:05 +0000 2011	4a554e87f964a5200db41fe3	{Richmond Bar & Grill}	{33.917773,-118.41728898333334,El Segundo,CA,United States}	{Food,}
+209	Fri May 20 03:08:39 +0000 2011	4a96d72af964a5202c2720e3	{Fresh & Easy Neighborhood Market}	{33.9014861,-118.381997,Manhattan Beach,CA,United States}	{Shop & Service,Food & Drink Shop,}
+209	Fri May 20 01:29:40 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Thu May 19 04:55:02 +0000 2011	4b00dc7ff964a520594122e3	{The Black Boar}	{34.13929045200348,-118.202085,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Thu May 19 01:30:55 +0000 2011	49d02698f964a520035b1fe3	{Whole Foods Market}	{33.906285601439706,-118.39275419712067,El Segundo,CA,United States}	{Nightlife Spot,Shop & Service,Food & Drink Shop,}
+209	Wed May 18 23:35:31 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Wed May 18 22:46:53 +0000 2011	4bbca35b8a4fb71346eb3b9d	{Raytheon (R1)}	{33.93092196138536,-118.39150103278821,El Segundo,CA,United States}	{Professional & Other Places,}
+209	Wed May 18 21:50:25 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+209	Wed May 18 17:22:37 +0000 2011	44d9ff60f964a5208b361fe3	{Dallas/Fort Worth International Airport (DFW)}	{32.89803818160521,-97.04086303710938,DFW Airport,TX,United States}	{Travel & Transport,}
+209	Wed May 18 13:57:39 +0000 2011	4b4b31bbf964a520379426e3	{Northwest Florida Regional Airport (VPS)}	{30.49559257621548,-86.54949903488159,Eglin AFB,FL,United States}	{Travel & Transport,Airport,}
+209	Wed May 18 01:05:49 +0000 2011	4b930835f964a520253034e3	{Floyd's Shrimp House}	{30.39422722500642,-86.59163117408752,Fort Walton Beach,FL,United States}	{Food,}
+209	Wed May 18 00:45:39 +0000 2011	4bc3f2c8dce4eee129d5719d	{Four Points by Sheraton Destin-Fort Walton Beach}	{30.394914564194647,-86.59549505968016,Fort Walton Beach,FL,United States}	{Nightlife Spot,Travel & Transport,Hotel,}
+209	Tue May 17 18:12:36 +0000 2011	4d60606c5b276dcb312d15c6	{Boathouse Landing}	{30.51760431111042,-86.49611842735104,Valparaiso,FL,United States}	{Food,}
+209	Tue May 17 12:34:37 +0000 2011	4b59d0c5f964a520ad9928e3	{Eglin Air Force Base}	{30.47480490616071,-86.53519758337424,Eglin AFB,FL,United States}	{Professional & Other Places,}
+209	Tue May 17 00:50:29 +0000 2011	4b9d239ff964a520279336e3	{Angler's}	{30.39398455844631,-86.59286960142505,Fort Walton Beach,FL,United States}	{Nightlife Spot,Food,}
+209	Mon May 16 23:59:00 +0000 2011	4bc3f2c8dce4eee129d5719d	{Four Points by Sheraton Destin-Fort Walton Beach}	{30.394914564194647,-86.59549505968016,Fort Walton Beach,FL,United States}	{Nightlife Spot,Travel & Transport,Hotel,}
+209	Mon May 16 23:05:00 +0000 2011	4b4b31bbf964a520379426e3	{Northwest Florida Regional Airport (VPS)}	{30.49559257621548,-86.54949903488159,Eglin AFB,FL,United States}	{Travel & Transport,Airport,}
+209	Mon May 16 20:47:58 +0000 2011	4bd335d89854d13aac2bfd4d	{Terminal B}	{32.90466807419695,-97.04343795776367,Dallas,TX,United States}	{Travel & Transport,Airport,}
+209	Mon May 16 17:48:08 +0000 2011	4b58e95df964a5206b7228e3	{Cool River Cafe}	{32.89883152457285,-97.04446972907556,Dallas,TX,United States}	{Travel & Transport,Airport,Food,}
+209	Mon May 16 17:04:02 +0000 2011	44d9ff60f964a5208b361fe3	{Dallas/Fort Worth International Airport (DFW)}	{32.89803818160521,-97.04086303710938,DFW Airport,TX,United States}	{Travel & Transport,}
+209	Mon May 16 13:10:27 +0000 2011	4bdae1e763c5c9b6974e2568	{Terminal 4}	{33.940903363561276,-118.4067714214325,Los Angeles,CA,United States}	{Travel & Transport,Airport,}
+209	Mon May 16 12:41:02 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+209	Mon May 16 12:37:46 +0000 2011	4a54f53df964a52079b31fe3	{The Parking Spot}	{33.95408441519924,-118.3971905708313,Los Angeles,CA,United States}	{Travel & Transport,Professional & Other Places,}
+209	Mon May 16 02:15:36 +0000 2011	4d3f4386adb6236a5a5d7d40	{Beer Belly}	{34.064333,-118.308716,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Sun May 15 06:03:32 +0000 2011	4d276efb068e8cfa4ec8ba4c	{The Belasco}	{34.040503206506806,-118.25939751390767,Los Angeles,CA,United States}	{Nightlife Spot,Performing Arts Venue,Arts & Entertainment,}
+209	Sat May 14 20:20:18 +0000 2011	4c2c08dfb34ad13a57d3eace	{Half & Half Tea House ???}	{34.06363673723252,-118.13453793525696,Monterey Park,CA,United States}	{Food,}
+209	Sat May 14 18:38:18 +0000 2011	4a91a47af964a520181b20e3	{Elite Restaurant ????}	{34.053772,-118.135888,Monterey Park,CA,United States}	{Food,}
+209	Sat May 14 16:25:43 +0000 2011	4cd750cfa5b3468869a99850	{Jacks N Joe}	{34.0287719,-118.275138,Los Angeles,CA,United States}	{Food,}
+209	Sat May 14 01:30:20 +0000 2011	49d02698f964a520035b1fe3	{Whole Foods Market}	{33.906285601439706,-118.39275419712067,El Segundo,CA,United States}	{Nightlife Spot,Shop & Service,Food & Drink Shop,}
+209	Fri May 13 23:41:26 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Fri May 13 07:49:12 +0000 2011	4a562876f964a52096b41fe3	{Far Bar}	{34.049742,-118.23946818,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Fri May 13 04:51:41 +0000 2011	4d3ce4da05b8721ef6a39037	{Aburiya Toranoko}	{34.04841054111463,-118.24216352065497,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+209	Fri May 13 03:56:06 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Thu May 12 04:50:58 +0000 2011	4b60c3adf964a52007f829e3	{Tasty Donuts}	{34.090648,-118.36651682853699,West Hollywood,CA,United States}	{Food,}
+209	Thu May 12 02:37:50 +0000 2011	4a72539bf964a520e6da1fe3	{Traktir}	{34.090886165971824,-118.36656543915598,West Hollywood,CA,United States}	{Food,}
+209	Wed May 11 04:42:03 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Tue May 10 19:20:32 +0000 2011	4b7afbcbf964a520114a2fe3	{El Pollo Inka}	{33.890733,-118.35190415382385,Lawndale,CA,United States}	{Food,}
+209	Tue May 10 02:47:13 +0000 2011	49d02698f964a520035b1fe3	{Whole Foods Market}	{33.906285601439706,-118.39275419712067,El Segundo,CA,United States}	{Nightlife Spot,Shop & Service,Food & Drink Shop,}
+209	Tue May 10 00:30:51 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Mon May 09 00:32:32 +0000 2011	4af1050ff964a52090e021e3	{Kagaya}	{34.046995563090626,-118.23867996483398,Los Angeles,CA,United States}	{Food,}
+209	Sun May 08 22:39:31 +0000 2011	4b1409c4f964a5203a9c23e3	{Starbucks}	{34.04903259490317,-118.25546264648438,Los Angeles,CA,United States}	{Food,}
+209	Sun May 08 07:12:14 +0000 2011	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Sat May 07 18:15:11 +0000 2011	4b1409c4f964a5203a9c23e3	{Starbucks}	{34.04903259490317,-118.25546264648438,Los Angeles,CA,United States}	{Food,}
+209	Sat May 07 04:28:02 +0000 2011	4be5b16ad4f7c9b67dc32520	{Uncle John's Cafe}	{34.04481888109261,-118.2584398984909,Los Angeles,CA,United States}	{Food,}
+209	Sat May 07 03:05:50 +0000 2011	4c709dcdd7fab1f73f495fc9	{Dublin's Irish Pub}	{34.04908148697793,-118.25912654399872,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+209	Fri May 06 23:36:33 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Fri May 06 19:08:16 +0000 2011	4d54bff1e7f1a1cd14d6f2a4	{Coco Ichibanya}	{33.82196643142255,-118.32711172966964,Torrance,CA,United States}	{Food,}
+209	Fri May 06 05:17:36 +0000 2011	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Fri May 06 00:47:49 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Thu May 05 00:19:42 +0000 2011	4a4c3037f964a5201fad1fe3	{McCormick & Schmick's}	{33.90253676273381,-118.38830173015594,El Segundo,CA,United States}	{Food,}
+209	Wed May 04 04:52:37 +0000 2011	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Wed May 04 02:45:09 +0000 2011	4a762ff3f964a52085e21fe3	{Trader Joe's}	{33.90088,-118.38123679161072,Manhattan Beach,CA,United States}	{Shop & Service,Food & Drink Shop,}
+209	Wed May 04 00:50:51 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Mon May 02 15:37:53 +0000 2011	4bbca35b8a4fb71346eb3b9d	{Raytheon (R1)}	{33.93092196138536,-118.39150103278821,El Segundo,CA,United States}	{Professional & Other Places,}
+209	Mon May 02 05:53:15 +0000 2011	4dbe3459cda109aa6cc53d9c	{On The Planet Osama Just Left}	{34.090117,-118.239008,,,United States}	{Travel & Transport,}
+209	Mon May 02 03:42:38 +0000 2011	4a70e6e3f964a520bdd81fe3	{AU 79 Tea House}	{34.12416989,-118.058086,Arcadia,CA,United States}	{Food,}
+209	Mon May 02 00:55:37 +0000 2011	4d23b3adcc84721e38a662f6	{House Of Mandarin Noodle}	{34.08988416194916,-118.057657,Temple City,CA,United States}	{Food,}
+209	Sun May 01 19:26:00 +0000 2011	43e5cca1f964a520f82e1fe3	{Empress Pavilion Restaurant}	{34.06671190841714,-118.23725581169128,Los Angeles,CA,United States}	{Food,}
+209	Sun May 01 07:51:16 +0000 2011	4aa82292f964a520864f20e3	{Bar Hayama}	{34.04373713686343,-118.44622078836636,Los Angeles,CA,United States}	{Food,}
+209	Sun May 01 06:47:07 +0000 2011	4db11c066e81a2637ee53ea0	{Prince Welcome 2 America}	{33.9583,-118.341868,Inglewood,CA,United States}	{Arts & Entertainment,}
+209	Sun May 01 04:23:19 +0000 2011	4db11c066e81a2637ee53ea0	{Prince Welcome 2 America}	{33.9583,-118.341868,Inglewood,CA,United States}	{Arts & Entertainment,}
+209	Sun May 01 03:44:28 +0000 2011	4db11c066e81a2637ee53ea0	{Prince Welcome 2 America}	{33.9583,-118.341868,Inglewood,CA,United States}	{Arts & Entertainment,}
+209	Sun May 01 02:59:52 +0000 2011	4db11c066e81a2637ee53ea0	{Prince Welcome 2 America}	{33.9583,-118.341868,Inglewood,CA,United States}	{Arts & Entertainment,}
+209	Sun May 01 02:09:34 +0000 2011	4c2d84277d85a593edd352f3	{The Wellesbourne}	{34.03957367053948,-118.42995643615723,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Sun May 01 01:22:47 +0000 2011	49fb4ccaf964a520326e1fe3	{California Chicken Cafe}	{34.046405715619564,-118.43415409326553,Los Angeles,CA,United States}	{Food,}
+209	Sat Apr 30 18:12:46 +0000 2011	4a33da8ef964a520559b1fe3	{Urth Caff?}	{34.04194415861958,-118.23521347103639,Los Angeles,CA,United States}	{Food,}
+209	Sat Apr 30 18:09:59 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Sat Apr 30 04:49:54 +0000 2011	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Sat Apr 30 01:49:36 +0000 2011	49d02698f964a520035b1fe3	{Whole Foods Market}	{33.906285601439706,-118.39275419712067,El Segundo,CA,United States}	{Nightlife Spot,Shop & Service,Food & Drink Shop,}
+209	Fri Apr 29 23:35:32 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Fri Apr 29 19:25:36 +0000 2011	4a7cece5f964a5201cee1fe3	{Curry House}	{33.83684862250338,-118.35480962091147,Torrance,CA,United States}	{Food,}
+209	Fri Apr 29 02:46:51 +0000 2011	4aa6be06f964a520e44a20e3	{Target}	{33.888502002630474,-118.39471899516772,Manhattan Beach,CA,United States}	{Shop & Service,}
+209	Fri Apr 29 00:55:11 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Thu Apr 28 00:47:50 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Wed Apr 27 00:47:25 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Tue Apr 26 00:41:14 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Mon Apr 25 03:38:24 +0000 2011	4af64180f964a520ad0222e3	{Whole Foods Market}	{34.15072621703997,-118.07236992895744,Pasadena,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+209	Sun Apr 24 09:24:51 +0000 2011	4a17441ef964a52040791fe3	{D-Town Burger Bar}	{34.046297,-118.251497,Los Angeles,CA,United States}	{Food,}
+209	Sun Apr 24 00:26:18 +0000 2011	4a7e1e5bf964a5200af11fe3	{NBC Seafood Restaurant}	{34.0586651605976,-118.13323198072221,Monterey Park,CA,United States}	{Food,}
+209	Sat Apr 23 06:45:56 +0000 2011	4d09a7eaacd4a1cd9f1a7e93	{M?s Malo}	{34.04704355250367,-118.25595885515213,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+209	Sat Apr 23 06:45:39 +0000 2011	4baf0289f964a520bbe63be3	{Biergarten}	{34.07490633627486,-118.30890273342385,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Sat Apr 23 05:36:25 +0000 2011	474dd5a6f964a520ae4c1fe3	{Seven Grand}	{34.04706520853107,-118.25592572903602,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Sat Apr 23 05:10:21 +0000 2011	49e0a52df964a5205a611fe3	{Library Bar}	{34.049410396566316,-118.25661063194275,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Fri Apr 22 19:50:29 +0000 2011	4d65395cb470a1430dad23fe	{CoffeeBar}	{34.04569453294887,-118.25103163719177,Los Angeles,CA,United States}	{Food,}
+209	Fri Apr 22 17:59:34 +0000 2011	4a087129f964a520c7731fe3	{Sushi Gen}	{34.046891505971736,-118.23865141080539,Los Angeles,CA,United States}	{Food,}
+209	Thu Apr 21 23:46:48 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Thu Apr 21 00:45:43 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Wed Apr 20 00:43:22 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Tue Apr 19 04:10:58 +0000 2011	4a96d72af964a5202c2720e3	{Fresh & Easy Neighborhood Market}	{33.9014861,-118.381997,Manhattan Beach,CA,United States}	{Shop & Service,Food & Drink Shop,}
+209	Tue Apr 19 01:46:20 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Mon Apr 18 05:08:58 +0000 2011	4bce7892fb84c9b6bffb233e	{Lot B}	{34.19813900042364,-118.34812099334154,Burbank,CA,United States}	{Professional & Other Places,}
+209	Mon Apr 18 04:49:23 +0000 2011	4a344606f964a520069c1fe3	{Bob Hope Airport (BUR)}	{34.19639831676446,-118.35313796997072,Burbank,CA,United States}	{Travel & Transport,}
+209	Mon Apr 18 02:18:57 +0000 2011	49f40719f964a520f76a1fe3	{Sacramento International Airport (SMF)}	{38.692276283389305,-121.59045696258545,Sacramento,CA,United States}	{Travel & Transport,}
+209	Sun Apr 17 19:55:28 +0000 2011	4b7a5e2df964a520c22a2fe3	{Sierra-at-Tahoe Resort}	{38.80225962384822,-120.08262634277344,Twin Bridges,CA,United States}	{Nightlife Spot,Outdoors & Recreation,}
+209	Sun Apr 17 17:31:46 +0000 2011	4bad7085f964a520db503be3	{OMFG Biggest F-ing Cabin}	{38.967269,-119.912186,,,United States}	{Travel & Transport,}
+209	Sun Apr 17 03:16:33 +0000 2011	4bad7085f964a520db503be3	{OMFG Biggest F-ing Cabin}	{38.967269,-119.912186,,,United States}	{Travel & Transport,}
+209	Sat Apr 16 22:58:50 +0000 2011	4b4a91b1f964a520cf8a26e3	{Fire + Ice}	{38.95665011738722,-119.94205175063514,South Lake Tahoe,CA,United States}	{Nightlife Spot,Food,}
+209	Sat Apr 16 22:44:35 +0000 2011	4b1d375df964a520230d24e3	{Heavenly Mountain Resort}	{38.93766261304909,-119.94161126938386,South Lake Tahoe,CA,United States}	{Travel & Transport,Outdoors & Recreation,Ski Area,Hotel,}
+209	Sat Apr 16 14:30:58 +0000 2011	4bad7085f964a520db503be3	{OMFG Biggest F-ing Cabin}	{38.967269,-119.912186,,,United States}	{Travel & Transport,}
+209	Sat Apr 16 14:30:58 +0000 2011	4bad7085f964a520db503be3	{OMFG Biggest F-ing Cabin}	{38.967269,-119.912186,,,United States}	{Travel & Transport,}
+209	Sat Apr 16 07:04:38 +0000 2011	4bad7085f964a520db503be3	{OMFG Biggest F-ing Cabin}	{38.967269,-119.912186,,,United States}	{Travel & Transport,}
+209	Sat Apr 16 05:34:15 +0000 2011	4bad7085f964a520db503be3	{OMFG Biggest F-ing Cabin}	{38.967269,-119.912186,,,United States}	{Travel & Transport,}
+209	Sat Apr 16 02:44:22 +0000 2011	4be5a7c5bcef2d7fb71704e5	{Huong Lan Sandwiches}	{38.50141985,-121.43233,Sacramento,CA,United States}	{Food,}
+209	Sat Apr 16 00:10:16 +0000 2011	49f40719f964a520f76a1fe3	{Sacramento International Airport (SMF)}	{38.692276283389305,-121.59045696258545,Sacramento,CA,United States}	{Travel & Transport,}
+209	Fri Apr 15 21:41:16 +0000 2011	4a344606f964a520069c1fe3	{Bob Hope Airport (BUR)}	{34.19639831676446,-118.35313796997072,Burbank,CA,United States}	{Travel & Transport,}
+209	Fri Apr 15 19:06:56 +0000 2011	4b0c4eabf964a520e13a23e3	{Mendocino Farms}	{34.05145049645721,-118.255934715271,Los Angeles,CA,United States}	{Food,}
+209	Thu Apr 14 21:28:24 +0000 2011	4a554e87f964a5200db41fe3	{Richmond Bar & Grill}	{33.917773,-118.41728898333334,El Segundo,CA,United States}	{Food,}
+209	Thu Apr 14 01:21:33 +0000 2011	4ca69bfa44a8224b265d0540	{Ocho Mexican Grill}	{34.04936480452663,-118.2561141665363,Los Angeles,CA,United States}	{Food,}
+209	Tue Apr 12 02:31:26 +0000 2011	49f7b966f964a520d26c1fe3	{Honda Ya}	{34.04526341344379,-118.23853719464356,Los Angeles,CA,United States}	{Food,}
+209	Mon Apr 11 23:45:31 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Mon Apr 11 03:38:10 +0000 2011	46ddce98f964a520934a1fe3	{Orochon Ramen}	{34.04985042226358,-118.24241638183594,Los Angeles,CA,United States}	{Food,}
+209	Sun Apr 10 19:09:10 +0000 2011	49c280f1f964a520f7551fe3	{Pho 87}	{34.06730737664468,-118.23560357093811,Los Angeles,CA,United States}	{Food,}
+209	Sun Apr 10 17:15:56 +0000 2011	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Sun Apr 10 08:49:13 +0000 2011	4a16fa4ff964a5202b791fe3	{The Association}	{34.04491667007327,-118.24962615966797,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Sun Apr 10 08:15:16 +0000 2011	431e2d80f964a52081271fe3	{Cole's}	{34.04481888109261,-118.24954032897949,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+209	Sun Apr 10 07:56:47 +0000 2011	431e2d80f964a52081271fe3	{Cole's}	{34.04481888109261,-118.24954032897949,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+209	Sun Apr 10 07:35:54 +0000 2011	4c943a08efecb713812fdd9d	{Exchange LA}	{34.045450923036576,-118.25148882248213,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Sun Apr 10 07:15:04 +0000 2011	4c1662e07f7f2d7f2ce6e368	{The Falls}	{34.045405613285155,-118.25156807899475,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Sun Apr 10 04:36:25 +0000 2011	49e0a52df964a5205a611fe3	{Library Bar}	{34.049410396566316,-118.25661063194275,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Sun Apr 10 03:39:58 +0000 2011	4c85b026d4e23704454e8588	{SUGARFISH | Downtown LA}	{34.04761348153715,-118.25669089820224,Los Angeles,CA,United States}	{Food,}
+209	Sat Apr 09 19:18:08 +0000 2011	4b9d5e86f964a52067a736e3	{No. 1 Noodle House}	{33.987416,-117.90761668,Rowland Heights,CA,United States}	{Food,}
+209	Sat Apr 09 16:13:07 +0000 2011	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Sat Apr 09 09:08:34 +0000 2011	49f414b9f964a520fa6a1fe3	{El Taurino}	{34.05149494253153,-118.28393697738647,Los Angeles,CA,United States}	{Food,}
+209	Sat Apr 09 08:53:33 +0000 2011	49f414b9f964a520fa6a1fe3	{El Taurino}	{34.05149494253153,-118.28393697738647,Los Angeles,CA,United States}	{Food,}
+209	Sat Apr 09 07:52:22 +0000 2011	4d281a4f467d6ea85456c395	{The Cutting Room}	{34.09455120563507,-118.37495,West Hollywood,CA,United States}	{Nightlife Spot,}
+209	Sat Apr 09 06:50:38 +0000 2011	49ff928df964a52036701fe3	{SLS Hotel at Beverly Hills}	{34.06996159643052,-118.37658006386414,Los Angeles,CA,United States}	{Travel & Transport,}
+209	Sat Apr 09 05:29:50 +0000 2011	4a6cb584f964a52055d11fe3	{The Roger Room}	{34.07798697820639,-118.376504,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Sat Apr 09 03:36:44 +0000 2011	4aa49017f964a5201b4720e3	{Shabu Shabu House}	{34.04892607663138,-118.2404445945765,Los Angeles,CA,United States}	{Food,}
+209	Sat Apr 09 03:09:05 +0000 2011	4aaeaa2ff964a520d66220e3	{Oiwake}	{34.048909,-118.239979,Los Angeles,CA,United States}	{Food,}
+209	Fri Apr 08 20:37:07 +0000 2011	4d65395cb470a1430dad23fe	{CoffeeBar}	{34.04569453294887,-118.25103163719177,Los Angeles,CA,United States}	{Food,}
+209	Fri Apr 08 19:34:46 +0000 2011	4b188a6ef964a520f6d323e3	{Starry Kitchen}	{34.05198829239166,-118.25149297714233,Los Angeles,CA,United States}	{Food,}
+209	Fri Apr 08 06:34:32 +0000 2011	4b6ce443f964a520f95b2ce3	{DGM - Dwit Gol Mok}	{34.06207,-118.293759,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+209	Fri Apr 08 03:50:52 +0000 2011	4bdf9f7effdec9283bc4eca1	{Star BBQ}	{34.063377517849,-118.30198965283581,Los Angeles,CA,United States}	{Food,}
+209	Thu Apr 07 04:53:12 +0000 2011	4d845aeb81fdb1f76aa3fabf	{Harang}	{34.06143,-118.311168,,,United States}	{Nightlife Spot,}
+209	Thu Apr 07 02:38:48 +0000 2011	43f798fbf964a520be2f1fe3	{Palomino}	{34.05976945977895,-118.44335175582172,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+209	Thu Apr 07 00:03:21 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Wed Apr 06 03:13:37 +0000 2011	4a31c627f964a520239a1fe3	{Curry House}	{34.050133916592,-118.24221491685049,Los Angeles,CA,United States}	{Food,}
+209	Sun Apr 03 20:51:19 +0000 2011	4c709dcdd7fab1f73f495fc9	{Dublin's Irish Pub}	{34.04908148697793,-118.25912654399872,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+209	Sun Apr 03 17:39:20 +0000 2011	4d65395cb470a1430dad23fe	{CoffeeBar}	{34.04569453294887,-118.25103163719177,Los Angeles,CA,United States}	{Food,}
+209	Sun Apr 03 08:14:20 +0000 2011	4acb605ff964a52090c320e3	{IHOP}	{34.04726357177932,-118.26002240180968,Los Angeles,CA,United States}	{Food,}
+209	Sun Apr 03 08:08:50 +0000 2011	4acb605ff964a52090c320e3	{IHOP}	{34.04726357177932,-118.26002240180968,Los Angeles,CA,United States}	{Food,}
+209	Sun Apr 03 07:33:02 +0000 2011	4b804945f964a520756430e3	{Hollywood / Western Metro Station}	{34.10148645645719,-118.30895125865936,Los Angeles,CA,United States}	{Travel & Transport,}
+209	Sun Apr 03 05:18:18 +0000 2011	4d4dee8a1a2d721ed4019d1d	{Harvard & Stone}	{34.10194839792245,-118.30431307299536,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Sun Apr 03 04:44:18 +0000 2011	4acbb476f964a5200dc520e3	{Famima!!}	{34.04882163581919,-118.25852957429575,Los Angeles,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+209	Sat Apr 02 21:09:53 +0000 2011	4bb7bad253649c74482e46fb	{LA Pillow Fight}	{34.048589,-118.25257,Downtown Los Angeles,CA,United States}	{Outdoors & Recreation,}
+209	Sat Apr 02 21:09:23 +0000 2011	4352e980f964a520c7281fe3	{Pershing Square}	{34.04839255059684,-118.25297355651855,Los Angeles,CA,United States}	{Outdoors & Recreation,Government Building,Professional & Other Places,}
+209	Sat Apr 02 19:06:58 +0000 2011	4a9b1bddf964a520723420e3	{May Mei}	{34.127047,-118.05286,Arcadia,CA,United States}	{Food,}
+209	Sat Apr 02 05:15:08 +0000 2011	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Sat Apr 02 01:53:13 +0000 2011	4ca69bfa44a8224b265d0540	{Ocho Mexican Grill}	{34.04936480452663,-118.2561141665363,Los Angeles,CA,United States}	{Food,}
+209	Fri Apr 01 19:09:28 +0000 2011	4d54bff1e7f1a1cd14d6f2a4	{Coco Ichibanya}	{33.82196643142255,-118.32711172966964,Torrance,CA,United States}	{Food,}
+209	Thu Mar 31 15:34:56 +0000 2011	4bbca35b8a4fb71346eb3b9d	{Raytheon (R1)}	{33.93092196138536,-118.39150103278821,El Segundo,CA,United States}	{Professional & Other Places,}
+209	Thu Mar 31 08:23:10 +0000 2011	4a7d21d7f964a52089ee1fe3	{Max Karaoke Studio}	{34.03893904332108,-118.44183451384495,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Thu Mar 31 02:56:39 +0000 2011	4a240eddf964a520f27d1fe3	{Bar * Food}	{34.04327,-118.46875791,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+209	Thu Mar 31 00:56:29 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Wed Mar 30 04:07:31 +0000 2011	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Wed Mar 30 01:37:13 +0000 2011	4a96d72af964a5202c2720e3	{Fresh & Easy Neighborhood Market}	{33.9014861,-118.381997,Manhattan Beach,CA,United States}	{Shop & Service,Food & Drink Shop,}
+209	Tue Mar 29 23:43:05 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Mon Mar 28 18:40:55 +0000 2011	4b0c4eabf964a520e13a23e3	{Mendocino Farms}	{34.05145049645721,-118.255934715271,Los Angeles,CA,United States}	{Food,}
+209	Sun Mar 27 18:56:47 +0000 2011	49cdc778f964a520155a1fe3	{Nickel Diner}	{34.04606159390546,-118.24909044673828,Los Angeles,CA,United States}	{Food,}
+209	Sun Mar 27 07:10:28 +0000 2011	44ea5aabf964a520bf371fe3	{The Otheroom}	{33.991616221814034,-118.46938227693414,Venice,CA,United States}	{Nightlife Spot,}
+209	Sun Mar 27 05:45:17 +0000 2011	4d0ae559f2c1236a82c3fe56	{31Ten Lounge}	{33.997631117719294,-118.4797157861334,Santa Monica,CA,United States}	{Nightlife Spot,}
+209	Sun Mar 27 03:05:51 +0000 2011	4aaf0b2af964a520ff6320e3	{AMF Bay Shore Lanes}	{34.00840938091278,-118.4886536,Santa Monica,CA,United States}	{Arts & Entertainment,}
+209	Sun Mar 27 02:04:50 +0000 2011	4a7f29bdf964a52016f31fe3	{Santouka}	{34.004972832917296,-118.43336394276997,Los Angeles,CA,United States}	{Food,}
+209	Sat Mar 26 19:41:49 +0000 2011	4ad506d1f964a5205f0121e3	{Ten Ren's Tea Time - Arcadia}	{34.12509083747864,-118.05932532,Arcadia,CA,United States}	{Food,}
+209	Sat Mar 26 18:51:48 +0000 2011	4c9ad1ced4b1b1f7a8dcd335	{Money Pot Shabu Shabu}	{34.124412444918825,-118.05915340520563,Arcadia,CA,United States}	{Food,}
+209	Sat Mar 26 15:45:53 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Sat Mar 26 02:15:12 +0000 2011	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Fri Mar 25 18:49:57 +0000 2011	4afc6d34f964a5208d2222e3	{Szechwan Palace Restaurant}	{33.96156191825867,-118.445574,Playa Del Rey,CA,United States}	{Food,}
+209	Fri Mar 25 17:32:32 +0000 2011	4bbca35b8a4fb71346eb3b9d	{Raytheon (R1)}	{33.93092196138536,-118.39150103278821,El Segundo,CA,United States}	{Professional & Other Places,}
+209	Fri Mar 25 07:03:14 +0000 2011	4c709dcdd7fab1f73f495fc9	{Dublin's Irish Pub}	{34.04908148697793,-118.25912654399872,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+209	Fri Mar 25 00:41:26 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Thu Mar 24 19:38:59 +0000 2011	4a734a74f964a52007dc1fe3	{Islands Restaurant}	{33.89956562418293,-118.39414358139038,Manhattan Beach,CA,United States}	{Food,}
+209	Thu Mar 24 05:46:56 +0000 2011	49c9526ff964a52055581fe3	{Rush Street}	{34.02299900275553,-118.39474801324758,Culver City,CA,United States}	{Nightlife Spot,Food,}
+209	Thu Mar 24 04:57:38 +0000 2011	49c9526ff964a52055581fe3	{Rush Street}	{34.02299900275553,-118.39474801324758,Culver City,CA,United States}	{Nightlife Spot,Food,}
+209	Thu Mar 24 02:51:52 +0000 2011	4667bfacf964a52088471fe3	{Fraiche Restaurant}	{34.02423179069046,-118.39451909065247,Culver City,CA,United States}	{Nightlife Spot,Food,}
+209	Thu Mar 24 01:47:52 +0000 2011	4cc9f792b8c8224b9f1413ba	{Raytheon (R2)}	{33.92993718513681,-118.39150103278821,El Segundo,CA,United States}	{Professional & Other Places,}
+209	Wed Mar 23 23:51:05 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Wed Mar 23 19:23:23 +0000 2011	4b8eb64ff964a520883233e3	{O Sho}	{33.88505930028783,-118.39650392532349,Manhattan Beach,CA,United States}	{Food,}
+209	Wed Mar 23 03:09:06 +0000 2011	4ca69bfa44a8224b265d0540	{Ocho Mexican Grill}	{34.04936480452663,-118.2561141665363,Los Angeles,CA,United States}	{Food,}
+209	Wed Mar 23 03:06:02 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Tue Mar 22 18:50:43 +0000 2011	49ebc697f964a5202a671fe3	{Ayara Thai Cuisine}	{33.958741,-118.39452981948853,Westchester,CA,United States}	{Food,}
+209	Tue Mar 22 15:19:18 +0000 2011	4bbca35b8a4fb71346eb3b9d	{Raytheon (R1)}	{33.93092196138536,-118.39150103278821,El Segundo,CA,United States}	{Professional & Other Places,}
+209	Tue Mar 22 00:48:33 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Mon Mar 21 01:06:05 +0000 2011	4d23b3adcc84721e38a662f6	{House Of Mandarin Noodle}	{34.08988416194916,-118.057657,Temple City,CA,United States}	{Food,}
+209	Sun Mar 20 18:53:22 +0000 2011	4a076e27f964a5205f731fe3	{CB2}	{34.097693,-118.364942,Los Angeles,CA,United States}	{Shop & Service,}
+209	Sun Mar 20 02:13:16 +0000 2011	4d8552ecf9f3a1cd66edc964	{Baja Night}	{34.058773,-118.25417,,,United States}	{Food,}
+209	Sat Mar 19 20:06:13 +0000 2011	42893400f964a5207e231fe3	{STAPLES Center}	{34.043058660157634,-118.26724290847778,Los Angeles,CA,United States}	{Stadium,Arts & Entertainment,}
+209	Sat Mar 19 04:34:10 +0000 2011	4d6c46088b4f2d43e50a4b37	{Public School 612}	{34.049912,-118.257652,Los Angeles,CA,United States}	{Food,}
+209	Fri Mar 18 23:38:28 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Fri Mar 18 20:17:41 +0000 2011	4bbca35b8a4fb71346eb3b9d	{Raytheon (R1)}	{33.93092196138536,-118.39150103278821,El Segundo,CA,United States}	{Professional & Other Places,}
+209	Fri Mar 18 19:11:21 +0000 2011	4a554e87f964a5200db41fe3	{Richmond Bar & Grill}	{33.917773,-118.41728898333334,El Segundo,CA,United States}	{Food,}
+209	Fri Mar 18 19:11:20 +0000 2011	4a554e87f964a5200db41fe3	{Richmond Bar & Grill}	{33.917773,-118.41728898333334,El Segundo,CA,United States}	{Food,}
+209	Fri Mar 18 05:47:22 +0000 2011	4aab38e9f964a520465920e3	{Bobos}	{34.063291,-118.298602,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Fri Mar 18 02:18:48 +0000 2011	4d73216e27ddb60c48bed81b	{Spice Table}	{34.048574,-118.23913437,Los Angeles,CA,United States}	{Food,}
+209	Thu Mar 17 19:20:10 +0000 2011	4a7cece5f964a5201cee1fe3	{Curry House}	{33.83684862250338,-118.35480962091147,Torrance,CA,United States}	{Food,}
+209	Thu Mar 17 01:49:34 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Wed Mar 16 19:13:46 +0000 2011	4a554e87f964a5200db41fe3	{Richmond Bar & Grill}	{33.917773,-118.41728898333334,El Segundo,CA,United States}	{Food,}
+209	Wed Mar 16 04:28:32 +0000 2011	49ebefebf964a52047671fe3	{Yogurtland}	{34.0483195342718,-118.23938598895226,Los Angeles,CA,United States}	{Food,}
+209	Wed Mar 16 01:52:35 +0000 2011	4a8771b5f964a520610420e3	{Chosun Galbee}	{34.05233496895424,-118.31043183803558,Los Angeles,CA,United States}	{Food,}
+209	Tue Mar 15 20:55:54 +0000 2011	4d7f975d9df3f04db0d4d894	{Flashbus Tour 2011 - Los Angeles}	{34.041679,-118.268077,Los Angeles,CA,United States}	{}
+209	Tue Mar 15 17:09:37 +0000 2011	4d7f975d9df3f04db0d4d894	{Flashbus Tour 2011 - Los Angeles}	{34.041679,-118.268077,Los Angeles,CA,United States}	{}
+209	Tue Mar 15 15:54:01 +0000 2011	4be5b16ad4f7c9b67dc32520	{Uncle John's Cafe}	{34.04481888109261,-118.2584398984909,Los Angeles,CA,United States}	{Food,}
+209	Tue Mar 15 04:37:34 +0000 2011	49e0a52df964a5205a611fe3	{Library Bar}	{34.049410396566316,-118.25661063194275,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Tue Mar 15 00:36:44 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Mon Mar 14 02:18:16 +0000 2011	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Sun Mar 13 19:57:09 +0000 2011	4c165f648aedd13a8d015237	{Manzanar National Historic Site}	{36.72567681977065,-118.14903259277344,Independence,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+209	Sun Mar 13 19:01:52 +0000 2011	4b3798d6f964a520c44225e3	{Mahogany Smoked Meats}	{37.376007549546266,-118.41763663019725,Bishop,CA,United States}	{Food,}
+209	Sun Mar 13 01:50:59 +0000 2011	4d780a4ed05160fcac7076ca	{MamMouth 2011}	{37.65179872512708,-118.98622512817037,Mammoth Lakes,CA,United States}	{Travel & Transport,Outdoors & Recreation,Hotel,}
+209	Sun Mar 13 00:31:46 +0000 2011	4ba44afdf964a5209a9338e3	{Val D'Isere}	{37.65201831568384,-118.98645548856697,,,United States}	{Travel & Transport,Hotel,}
+209	Sat Mar 12 19:46:01 +0000 2011	4b6330bdf964a52064692ae3	{Little Eagle Lodge}	{37.63638880056211,-118.99050285112038,Mammoth Lakes,CA,United States}	{Outdoors & Recreation,Ski Area,}
+209	Sat Mar 12 17:26:17 +0000 2011	4b6da8fbf964a5200c842ce3	{The Village Gondola - Mammoth Lakes}	{37.64993445859788,-118.98523807525635,Mammoth Lakes,CA,United States}	{Outdoors & Recreation,}
+209	Sat Mar 12 17:26:17 +0000 2011	4b6da8fbf964a5200c842ce3	{The Village Gondola - Mammoth Lakes}	{37.64993445859788,-118.98523807525635,Mammoth Lakes,CA,United States}	{Outdoors & Recreation,}
+209	Sat Mar 12 06:23:05 +0000 2011	4d780a4ed05160fcac7076ca	{MamMouth 2011}	{37.65179872512708,-118.98622512817037,Mammoth Lakes,CA,United States}	{Travel & Transport,Outdoors & Recreation,Hotel,}
+209	Sat Mar 12 01:39:10 +0000 2011	4adfd33af964a520a37d21e3	{In-N-Out Burger}	{34.42330154005357,-118.42336893081665,Santa Clarita,CA,United States}	{Food,}
+209	Fri Mar 11 23:39:58 +0000 2011	4a57f927f964a5202bb71fe3	{The Coffee Bean & Tea Leaf}	{34.064132583882774,-118.37278314032186,Beverly Hills,CA,United States}	{Food,}
+209	Fri Mar 11 19:42:46 +0000 2011	4a7cece5f964a5201cee1fe3	{Curry House}	{33.83684862250338,-118.35480962091147,Torrance,CA,United States}	{Food,}
+209	Fri Mar 11 05:36:26 +0000 2011	4be9d7034f5576b0cb11b396	{Downtown Los Angeles Artwalk}	{34.04737608402853,-118.24942736345383,Los Angeles,CA,United States}	{Nightlife Spot,Museum,Arts & Entertainment,}
+209	Fri Mar 11 01:53:12 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Thu Mar 10 19:07:48 +0000 2011	4bae3162f964a52046903be3	{Jason Nguyen, D.D.S.}	{33.854406,-117.83871986666666,Anaheim,CA,United States}	{Medical Center,Arts & Entertainment,Professional & Other Places,}
+209	Thu Mar 10 05:12:52 +0000 2011	4b6f3764f964a520c2e42ce3	{Big Wangs}	{34.04552340372847,-118.25853645801544,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+209	Thu Mar 10 04:29:57 +0000 2011	4be5b16ad4f7c9b67dc32520	{Uncle John's Cafe}	{34.04481888109261,-118.2584398984909,Los Angeles,CA,United States}	{Food,}
+209	Thu Mar 10 01:49:57 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Wed Mar 09 03:17:57 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Wed Mar 09 01:48:05 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Tue Mar 08 20:09:25 +0000 2011	49d027dcf964a520075b1fe3	{The Counter}	{33.90621881834444,-118.39141845703125,El Segundo,CA,United States}	{Nightlife Spot,Food,}
+209	Tue Mar 08 01:44:26 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Mon Mar 07 18:26:45 +0000 2011	4bbca35b8a4fb71346eb3b9d	{Raytheon (R1)}	{33.93092196138536,-118.39150103278821,El Segundo,CA,United States}	{Professional & Other Places,}
+209	Mon Mar 07 04:03:54 +0000 2011	49ef5a6ef964a520a6681fe3	{Spitz}	{34.04816364468933,-118.24002116918564,Los Angeles,CA,United States}	{Food,}
+209	Sun Mar 06 22:13:58 +0000 2011	4a33da8ef964a520559b1fe3	{Urth Caff?}	{34.04194415861958,-118.23521347103639,Los Angeles,CA,United States}	{Food,}
+209	Sun Mar 06 06:53:50 +0000 2011	4c943a08efecb713812fdd9d	{Exchange LA}	{34.045450923036576,-118.25148882248213,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Sun Mar 06 05:42:56 +0000 2011	474dd5a6f964a520ae4c1fe3	{Seven Grand}	{34.04706520853107,-118.25592572903602,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Sat Mar 05 22:34:02 +0000 2011	4a31c627f964a520239a1fe3	{Curry House}	{34.050133916592,-118.24221491685049,Los Angeles,CA,United States}	{Food,}
+209	Sat Mar 05 00:54:56 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Fri Mar 04 15:38:39 +0000 2011	4bbca35b8a4fb71346eb3b9d	{Raytheon (R1)}	{33.93092196138536,-118.39150103278821,El Segundo,CA,United States}	{Professional & Other Places,}
+209	Fri Mar 04 01:43:04 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Thu Mar 03 01:53:38 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Wed Mar 02 21:01:03 +0000 2011	4bbca35b8a4fb71346eb3b9d	{Raytheon (R1)}	{33.93092196138536,-118.39150103278821,El Segundo,CA,United States}	{Professional & Other Places,}
+209	Wed Mar 02 02:22:34 +0000 2011	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Wed Mar 02 00:32:16 +0000 2011	4cddedfd78ddf04d877d9798	{Simplethings Sandwich & Pie Shop}	{34.07255087139468,-118.37045967578888,Los Angeles,CA,United States}	{Food,}
+209	Tue Mar 01 22:53:30 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+209	Tue Mar 01 19:11:26 +0000 2011	482d61baf964a520d64f1fe3	{Denver International Airport (DEN)}	{39.85029261500981,-104.67378616333006,Denver,CO,United States}	{Travel & Transport,}
+209	Tue Mar 01 17:03:26 +0000 2011	46d3e656f964a5205c4a1fe3	{Snooze}	{39.755608,-104.98898311666667,Denver,CO,United States}	{Food,}
+209	Tue Mar 01 03:05:27 +0000 2011	4c537c07728920a1e2f32481	{Russo's Pizza Glennwood Springs Co}	{39.553908,-107.343577,Glenwood Springs,CO,United States}	{Food,}
+209	Tue Mar 01 01:11:28 +0000 2011	4a3c7e5cf964a52096a11fe3	{Glenwood Hot Springs}	{39.549800902200616,-107.32315925263399,Glenwood Springs,CO,United States}	{Travel & Transport,Outdoors & Recreation,Arts & Entertainment,Hotel,}
+209	Mon Feb 28 20:54:23 +0000 2011	4ae37237f964a520319521e3	{Red Lion}	{39.6401738491123,-106.3735003129267,Vail,CO,United States}	{Nightlife Spot,}
+209	Mon Feb 28 16:24:32 +0000 2011	4b4a18bbf964a520727a26e3	{Town of Vail}	{39.642693572189614,-106.38619422912598,Vail,CO,United States}	{Outdoors & Recreation,}
+209	Mon Feb 28 04:47:54 +0000 2011	4b8016f0f964a520235130e3	{Loaded Joe's Coffeehouse}	{39.634273052215576,-106.52123651,Avon,CO,United States}	{Food,}
+209	Mon Feb 28 02:11:48 +0000 2011	4b527bd3f964a520677f27e3	{E-town}	{39.641659723997684,-106.58963630301444,Edwards,CO,United States}	{Food,}
+209	Mon Feb 28 01:32:11 +0000 2011	4b527bd3f964a520677f27e3	{E-town}	{39.641659723997684,-106.58963630301444,Edwards,CO,United States}	{Food,}
+209	Sun Feb 27 22:17:28 +0000 2011	4b3d1112f964a520338d25e3	{Mc'Coy's Cafe}	{39.603395,-106.51676951666667,Edwards,CO,United States}	{Food,}
+209	Sun Feb 27 20:03:56 +0000 2011	4ba244a0f964a52065e837e3	{Foxnut Sushi}	{39.602960126126874,-106.51727483744996,Beaver Creek,CO,United States}	{Food,}
+209	Sun Feb 27 18:14:09 +0000 2011	4d2f759bf986a0933babf366	{Bachelor Gulch Lift}	{39.62268802324837,-106.54202746327832,,,United States}	{Outdoors & Recreation,Ski Area,}
+209	Sun Feb 27 16:56:49 +0000 2011	4bba0ee0cf2fc9b64512a102	{Beaver Creek Ski Resort}	{39.6045143919303,-106.5163779258728,Avon,CO,United States}	{Outdoors & Recreation,Ski Area,Residence,}
+209	Sun Feb 27 16:08:33 +0000 2011	4bba0ee0cf2fc9b64512a102	{Beaver Creek Ski Resort}	{39.6045143919303,-106.5163779258728,Avon,CO,United States}	{Outdoors & Recreation,Ski Area,Residence,}
+209	Sun Feb 27 04:25:57 +0000 2011	4b78857cf964a520fad32ee3	{The Christie Lodge}	{39.635320235621094,-106.52119294779749,Avon,CO,United States}	{Travel & Transport,Hotel,}
+209	Sat Feb 26 22:09:25 +0000 2011	4b66061ef964a520160f2be3	{Golden Peak}	{39.63977173492966,-106.36943549106626,Vail,CO,United States}	{Outdoors & Recreation,}
+209	Sat Feb 26 18:30:56 +0000 2011	4b993c88f964a5205d6c35e3	{Skyline Express}	{39.58083118369745,-106.33866159480921,,,United States}	{Outdoors & Recreation,}
+209	Sat Feb 26 15:36:41 +0000 2011	4b4a18bbf964a520727a26e3	{Town of Vail}	{39.642693572189614,-106.38619422912598,Vail,CO,United States}	{Outdoors & Recreation,}
+209	Sat Feb 26 04:21:39 +0000 2011	4c100e683708d13a0d0a615b	{Eagle Vail Golf Course}	{39.61748584869718,-106.481204018584,Avon,CO,United States}	{Outdoors & Recreation,Athletics & Sports,}
+209	Sat Feb 26 01:45:16 +0000 2011	4b2f9a45f964a520deec24e3	{George Restaurant & Pub}	{39.641542,-106.37328,Vail,CO,United States}	{Nightlife Spot,Food,}
+209	Sat Feb 26 00:09:50 +0000 2011	4c100e683708d13a0d0a615b	{Eagle Vail Golf Course}	{39.61748584869718,-106.481204018584,Avon,CO,United States}	{Outdoors & Recreation,Athletics & Sports,}
+209	Fri Feb 25 22:41:28 +0000 2011	4fc94574d4f24895b4467134	{Starbucks}	{39.76610514768302,-105.61240250489286,Idaho Springs,CO,United States}	{Food,}
+209	Fri Feb 25 21:04:59 +0000 2011	4bc1f7dbabf49521e5afc193	{Waffle house}	{39.769761619022,-104.84743713496692,Denver,CO,United States}	{Food,}
+209	Fri Feb 25 20:18:09 +0000 2011	4c727d3d4bc4236a9e4fcb7a	{Enterprise}	{39.836931295789135,-104.70860123634338,Denver,CO,United States}	{Travel & Transport,Shop & Service,}
+209	Fri Feb 25 19:27:32 +0000 2011	482d61baf964a520d64f1fe3	{Denver International Airport (DEN)}	{39.85029261500981,-104.67378616333006,Denver,CO,United States}	{Travel & Transport,}
+209	Fri Feb 25 15:54:17 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+209	Fri Feb 25 15:13:03 +0000 2011	4abed6b4f964a520339020e3	{The Westin Los Angeles Airport}	{33.94481072136936,-118.37448835372925,Los Angeles,CA,United States}	{Travel & Transport,Food,Professional & Other Places,}
+209	Fri Feb 25 05:36:15 +0000 2011	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Fri Feb 25 04:56:01 +0000 2011	4a651074f964a5203dc71fe3	{Subway}	{34.049266727549906,-118.25603993360644,Los Angeles,CA,United States}	{Food,}
+209	Fri Feb 25 02:44:10 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Thu Feb 24 02:47:31 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Wed Feb 23 18:25:30 +0000 2011	4bbca35b8a4fb71346eb3b9d	{Raytheon (R1)}	{33.93092196138536,-118.39150103278821,El Segundo,CA,United States}	{Professional & Other Places,}
+209	Wed Feb 23 04:48:44 +0000 2011	4a185165f964a5209e791fe3	{Ralphs}	{34.04545626030918,-118.26074509562864,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+209	Wed Feb 23 02:48:56 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Tue Feb 22 18:23:23 +0000 2011	4bbca35b8a4fb71346eb3b9d	{Raytheon (R1)}	{33.93092196138536,-118.39150103278821,El Segundo,CA,United States}	{Professional & Other Places,}
+209	Tue Feb 22 05:39:01 +0000 2011	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Tue Feb 22 04:44:04 +0000 2011	4a651074f964a5203dc71fe3	{Subway}	{34.049266727549906,-118.25603993360644,Los Angeles,CA,United States}	{Food,}
+209	Tue Feb 22 02:51:19 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Mon Feb 21 17:52:25 +0000 2011	4bbca35b8a4fb71346eb3b9d	{Raytheon (R1)}	{33.93092196138536,-118.39150103278821,El Segundo,CA,United States}	{Professional & Other Places,}
+209	Sun Feb 20 22:13:26 +0000 2011	4ace8bfaf964a5202ad120e3	{The Home Depot}	{34.05717781455132,-118.2712796330452,Los Angeles,CA,United States}	{Shop & Service,}
+209	Sun Feb 20 21:27:30 +0000 2011	4a823e7ef964a520fbf81fe3	{Zankou Chicken}	{34.187135,-118.31771695,Burbank,CA,United States}	{Food,}
+209	Sun Feb 20 05:44:38 +0000 2011	49c7883ff964a520ad571fe3	{Gyu-Kaku Pasadena}	{34.14422086792977,-118.15205812454224,Pasadena,CA,United States}	{Nightlife Spot,Food,}
+209	Sat Feb 19 21:58:19 +0000 2011	4c46501209ba9521ce0c4000	{Metropark}	{34.12363019399503,-118.04901168091877,Arcadia,CA,United States}	{Shop & Service,}
+209	Sat Feb 19 20:02:25 +0000 2011	4c9ad1ced4b1b1f7a8dcd335	{Money Pot Shabu Shabu}	{34.124412444918825,-118.05915340520563,Arcadia,CA,United States}	{Food,}
+209	Sat Feb 19 07:24:38 +0000 2011	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Sat Feb 19 04:48:27 +0000 2011	4cc8fadf4650a35d34eb8b1e	{A-Frame}	{33.99696326757645,-118.43215464092881,Culver City,CA,United States}	{Food,}
+209	Sat Feb 19 02:38:13 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Fri Feb 18 17:07:11 +0000 2011	4bbca35b8a4fb71346eb3b9d	{Raytheon (R1)}	{33.93092196138536,-118.39150103278821,El Segundo,CA,United States}	{Professional & Other Places,}
+209	Fri Feb 18 02:52:39 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Thu Feb 17 02:48:25 +0000 2011	4cee0c10b1466a31d50aa8fe	{LAX CrossFit}	{33.924197,-118.369852,Hawthorne,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+209	Tue Feb 15 21:02:43 +0000 2011	4a7cece5f964a5201cee1fe3	{Curry House}	{33.83684862250338,-118.35480962091147,Torrance,CA,United States}	{Food,}
+209	Tue Feb 15 04:51:22 +0000 2011	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Mon Feb 14 16:54:54 +0000 2011	4bbca35b8a4fb71346eb3b9d	{Raytheon (R1)}	{33.93092196138536,-118.39150103278821,El Segundo,CA,United States}	{Professional & Other Places,}
+209	Mon Feb 14 04:45:41 +0000 2011	4bbca35b8a4fb71346eb3b9d	{Raytheon (R1)}	{33.93092196138536,-118.39150103278821,El Segundo,CA,United States}	{Professional & Other Places,}
+209	Mon Feb 14 03:05:25 +0000 2011	4b37db07f964a5208a4725e3	{In-N-Out Burger}	{34.70448730585324,-118.1669772979277,Lancaster,CA,United States}	{Food,}
+209	Mon Feb 14 02:27:15 +0000 2011	4baea699f964a520fcca3be3	{AMPM}	{35.057929,-118.175,Mojave,CA,United States}	{Shop & Service,}
+209	Sun Feb 13 23:42:00 +0000 2011	4b3798d6f964a520c44225e3	{Mahogany Smoked Meats}	{37.376007549546266,-118.41763663019725,Bishop,CA,United States}	{Food,}
+209	Sun Feb 13 23:29:09 +0000 2011	4b3798d6f964a520c44225e3	{Mahogany Smoked Meats}	{37.376007549546266,-118.41763663019725,Bishop,CA,United States}	{Food,}
+209	Sun Feb 13 21:56:58 +0000 2011	4b804a72f964a520cc6430e3	{The Pita Pit}	{37.650776513184475,-118.98489790781257,Mammoth Lakes,CA,United States}	{Food,}
+209	Sun Feb 13 21:19:13 +0000 2011	4b65d748f964a52053032be3	{Starbucks - The Village (Mammoth)}	{37.651204933548726,-118.98549479280754,Mammoth Lakes,CA,United States}	{Food,}
+209	Sun Feb 13 18:51:44 +0000 2011	4b6da8fbf964a5200c842ce3	{The Village Gondola - Mammoth Lakes}	{37.64993445859788,-118.98523807525635,Mammoth Lakes,CA,United States}	{Outdoors & Recreation,}
+209	Sun Feb 13 06:39:02 +0000 2011	4b64f3e1f964a520f9db2ae3	{Hyde Lounge - Mammoth}	{37.650422898640116,-118.98522734642029,Mammoth Lakes,CA,United States}	{Food,}
+209	Sun Feb 13 05:21:16 +0000 2011	4b80c5d7f964a520498b30e3	{Clocktower Cellar Pub}	{37.6496116616765,-118.98296356201172,Mammoth Lakes,CA,United States}	{Nightlife Spot,}
+209	Sun Feb 13 04:09:03 +0000 2011	4b649a68f964a52052c12ae3	{Burgers - Mammoth Lakes}	{37.65012724507801,-118.98407363426008,Mammoth Lakes,CA,United States}	{Food,}
+209	Sun Feb 13 02:26:08 +0000 2011	4ba44afdf964a5209a9338e3	{Val D'Isere}	{37.65201831568384,-118.98645548856697,,,United States}	{Travel & Transport,Hotel,}
+209	Sat Feb 12 21:24:50 +0000 2011	4d139c569844b60cbd2fc4d4	{McCoy Station}	{37.64216082494406,-119.03100471961258,Mammoth Lakes,CA,United States}	{Travel & Transport,Outdoors & Recreation,Ski Area,}
+209	Sat Feb 12 19:01:12 +0000 2011	4b6da8fbf964a5200c842ce3	{The Village Gondola - Mammoth Lakes}	{37.64993445859788,-118.98523807525635,Mammoth Lakes,CA,United States}	{Outdoors & Recreation,}
+209	Sat Feb 12 17:46:35 +0000 2011	4b6da8fbf964a5200c842ce3	{The Village Gondola - Mammoth Lakes}	{37.64993445859788,-118.98523807525635,Mammoth Lakes,CA,United States}	{Outdoors & Recreation,}
+209	Sat Feb 12 05:42:39 +0000 2011	4ba44afdf964a5209a9338e3	{Val D'Isere}	{37.65201831568384,-118.98645548856697,,,United States}	{Travel & Transport,Hotel,}
+209	Sat Feb 12 03:52:45 +0000 2011	4b26890ff964a5200e7d24e3	{Erick Schat??s Bakery}	{37.3678763006868,-118.39553564786911,Bishop,CA,United States}	{Food,}
+209	Fri Feb 11 03:31:09 +0000 2011	4a5bd7eaf964a520ddbb1fe3	{24 Hour Fitness}	{33.901643993234735,-118.38695355868441,Manhattan Beach,CA,United States}	{Shop & Service,}
+209	Thu Feb 10 05:58:05 +0000 2011	4c28b6eafe6e2d7fb3a3533c	{Crossfit Mean Streets}	{34.04992561098809,-118.24573266427912,Los Angeles,CA,United States}	{Outdoors & Recreation,Shop & Service,}
+209	Wed Feb 09 06:07:33 +0000 2011	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Tue Feb 08 20:23:29 +0000 2011	4b8eb64ff964a520883233e3	{O Sho}	{33.88505930028783,-118.39650392532349,Manhattan Beach,CA,United States}	{Food,}
+209	Tue Feb 08 15:01:15 +0000 2011	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Tue Feb 08 04:09:09 +0000 2011	4b3960e8f964a520ab5b25e3	{Souplantation}	{34.05282219460709,-118.4700438233191,Los Angeles,CA,United States}	{Food,}
+209	Mon Feb 07 20:10:09 +0000 2011	4b2940eff964a520c49b24e3	{Thai Lai}	{33.915495,-118.3522314,Hawthorne,CA,United States}	{Food,}
+209	Mon Feb 07 07:17:25 +0000 2011	4c1662e07f7f2d7f2ce6e368	{The Falls}	{34.045405613285155,-118.25156807899475,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Mon Feb 07 06:05:56 +0000 2011	4bbabef33db7b713bdae239a	{Spring St. Bar}	{34.04536116401876,-118.25165390968323,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Mon Feb 07 02:26:19 +0000 2011	4d4ad2e8f2cc6a31686ec188	{Super Bowl Sunday}	{32.747868226330375,-97.09356307983398,Arlington,TX,United States}	{Stadium,Arts & Entertainment,}
+209	Sun Feb 06 22:48:39 +0000 2011	4d4ad2e8f2cc6a31686ec188	{Super Bowl Sunday}	{32.747868226330375,-97.09356307983398,Arlington,TX,United States}	{Stadium,Arts & Entertainment,}
+209	Sun Feb 06 07:23:56 +0000 2011	4c604b7e13791b8d9f2c4faf	{Vault XXI Boutique Lounge}	{34.045383,-118.238293,Los Angeles,CA,United States}	{Food,}
+209	Sun Feb 06 03:24:22 +0000 2011	4cbbb459adcd5481069c2aa2	{wolvesmouth}	{34.04705910944092,-118.23597908020018,Los Angeles,CA,United States}	{Food,}
+209	Sat Feb 05 21:04:10 +0000 2011	4a31c627f964a520239a1fe3	{Curry House}	{34.050133916592,-118.24221491685049,Los Angeles,CA,United States}	{Food,}
+209	Sat Feb 05 08:38:57 +0000 2011	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Sat Feb 05 06:29:19 +0000 2011	4aa55181f964a520004820e3	{Syrup Desserts}	{34.045723,-118.251083,Los Angeles,CA,United States}	{Food,}
+209	Sat Feb 05 06:00:25 +0000 2011	4d3ce4da05b8721ef6a39037	{Aburiya Toranoko}	{34.04841054111463,-118.24216352065497,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+209	Fri Feb 04 21:02:55 +0000 2011	4a554e87f964a5200db41fe3	{Richmond Bar & Grill}	{33.917773,-118.41728898333334,El Segundo,CA,United States}	{Food,}
+209	Fri Feb 04 04:12:50 +0000 2011	4b188a6ef964a520f6d323e3	{Starry Kitchen}	{34.05198829239166,-118.25149297714233,Los Angeles,CA,United States}	{Food,}
+209	Fri Feb 04 02:09:04 +0000 2011	4c0fcbba75f99c7459bcecc4	{Checkers Downtown}	{34.04972019445308,-118.25458952989926,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+209	Thu Feb 03 21:44:29 +0000 2011	4be07ace98f2a593c763c25a	{Mitaki}	{34.04929409860377,-118.25595999041516,Los Angeles,CA,United States}	{Food,}
+209	Mon Jan 31 20:21:23 +0000 2011	4b2940eff964a520c49b24e3	{Thai Lai}	{33.915495,-118.3522314,Hawthorne,CA,United States}	{Food,}
+209	Mon Jan 31 03:53:55 +0000 2011	4a7f29bdf964a52016f31fe3	{Santouka}	{34.004972832917296,-118.43336394276997,Los Angeles,CA,United States}	{Food,}
+209	Mon Jan 31 00:35:13 +0000 2011	4baee114f964a52024df3be3	{Mobil}	{36.60745875289547,-118.06405255238279,LONE PINE,CA,United States}	{Shop & Service,}
+209	Sun Jan 30 23:58:23 +0000 2011	4be4e405bcef2d7f4b4703e5	{Big Pine, CA}	{37.164916484069,-118.28955888748168,Big Pine,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+209	Sun Jan 30 22:36:22 +0000 2011	4b6f5dfdf964a52069ed2ce3	{Nik-N-Willie's}	{37.64504188275252,-118.96633078961344,Mammoth Lakes,CA,United States}	{Food,}
+209	Sun Jan 30 22:14:12 +0000 2011	4b4d354ef964a52034ce26e3	{Mammoth Brewing Company}	{37.65108122578813,-118.98312449455261,Mammoth Lakes,CA,United States}	{Nightlife Spot,}
+209	Sun Jan 30 21:05:01 +0000 2011	4b63721cf964a5206f7a2ae3	{The Village At Mammoth}	{37.649645640365875,-118.98455142974854,Mammoth Lakes,CA,United States}	{Nightlife Spot,Outdoors & Recreation,Shop & Service,}
+209	Sun Jan 30 17:26:23 +0000 2011	4b6330bdf964a52064692ae3	{Little Eagle Lodge}	{37.63638880056211,-118.99050285112038,Mammoth Lakes,CA,United States}	{Outdoors & Recreation,Ski Area,}
+209	Sat Jan 29 21:03:50 +0000 2011	4c019a16716bc9b6222dbc55	{Royce's Back End}	{37.64817239076763,-119.03101608546326,,,United States}	{Nightlife Spot,}
+209	Sat Jan 29 20:46:30 +0000 2011	4d139c569844b60cbd2fc4d4	{McCoy Station}	{37.64216082494406,-119.03100471961258,Mammoth Lakes,CA,United States}	{Travel & Transport,Outdoors & Recreation,Ski Area,}
+209	Sat Jan 29 18:15:32 +0000 2011	4d139c569844b60cbd2fc4d4	{McCoy Station}	{37.64216082494406,-119.03100471961258,Mammoth Lakes,CA,United States}	{Travel & Transport,Outdoors & Recreation,Ski Area,}
+209	Sat Jan 29 17:35:13 +0000 2011	4b50c6edf964a520fe3127e3	{Canyon Lodge}	{37.644718568109354,-119.00184631347656,Mammoth Lakes,CA,United States}	{Shop & Service,Outdoors & Recreation,Ski Area,Food & Drink Shop,}
+209	Sat Jan 29 02:15:50 +0000 2011	4b37db07f964a5208a4725e3	{In-N-Out Burger}	{34.70448730585324,-118.1669772979277,Lancaster,CA,United States}	{Food,}
+209	Fri Jan 28 21:23:51 +0000 2011	4b188a6ef964a520f6d323e3	{Starry Kitchen}	{34.05198829239166,-118.25149297714233,Los Angeles,CA,United States}	{Food,}
+209	Fri Jan 28 03:53:18 +0000 2011	4c5de5da7735c9b6ab839072	{Rock & Brews}	{33.91759345100133,-118.41607868671417,El Segundo,CA,United States}	{Nightlife Spot,Food,}
+209	Fri Jan 28 01:57:30 +0000 2011	4a8e2e5bf964a5202a1220e3	{Harry O's}	{33.91837247987777,-118.41450691223145,El segundo,CA,United States}	{Nightlife Spot,}
+209	Thu Jan 27 02:20:49 +0000 2011	4a4c3037f964a5201fad1fe3	{McCormick & Schmick's}	{33.90253676273381,-118.38830173015594,El Segundo,CA,United States}	{Food,}
+209	Wed Jan 26 14:38:58 +0000 2011	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Tue Jan 25 04:01:15 +0000 2011	4a96d72af964a5202c2720e3	{Fresh & Easy Neighborhood Market}	{33.9014861,-118.381997,Manhattan Beach,CA,United States}	{Shop & Service,Food & Drink Shop,}
+209	Tue Jan 25 03:44:47 +0000 2011	4a905e0df964a520891720e3	{Best Buy}	{33.90620534,-118.3939944,El Segundo,CA,United States}	{Shop & Service,}
+209	Mon Jan 24 03:54:28 +0000 2011	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Mon Jan 24 00:19:21 +0000 2011	4d3cc56105b8721ee3768f37	{The CRC (Choi Recreation Center)}	{34.214444,-118.201039,,CA,United States}	{}
+209	Sun Jan 23 08:18:11 +0000 2011	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Sun Jan 23 06:32:22 +0000 2011	4bbffb75abf49521a7bbbe93	{Mexicali Taco & Co}	{34.05886377944345,-118.25415372848511,Los Angeles,CA,United States}	{Food,}
+209	Sun Jan 23 01:59:27 +0000 2011	4ad6af7bf964a520240821e3	{Drago Centro}	{34.05117303109062,-118.2571020324603,Los Angeles,CA,United States}	{Food,}
+209	Sun Jan 23 01:20:00 +0000 2011	4b1409c4f964a5203a9c23e3	{Starbucks}	{34.04903259490317,-118.25546264648438,Los Angeles,CA,United States}	{Food,}
+209	Sat Jan 22 18:45:08 +0000 2011	4a33da8ef964a520559b1fe3	{Urth Caff?}	{34.04194415861958,-118.23521347103639,Los Angeles,CA,United States}	{Food,}
+209	Sat Jan 22 08:47:18 +0000 2011	4a562876f964a52096b41fe3	{Far Bar}	{34.049742,-118.23946818,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Sat Jan 22 06:53:22 +0000 2011	4c11f6d6d41e76b0cf49320d	{Izakaya & Bar Fu-ga}	{34.05025496683814,-118.24118127929138,Los Angeles,CA,United States}	{Food,}
+209	Sat Jan 22 05:49:21 +0000 2011	49b064dcf964a520bc521fe3	{Wurstk?che}	{34.04562341435375,-118.23610246181488,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+209	Sat Jan 22 00:26:32 +0000 2011	4bba76fa53649c74f81649fb	{Wilson Complete Auto Repair}	{34.062959633333335,-118.07900916666667,Rosemead,CA,United States}	{Shop & Service,}
+209	Fri Jan 21 01:37:44 +0000 2011	4bba76fa53649c74f81649fb	{Wilson Complete Auto Repair}	{34.062959633333335,-118.07900916666667,Rosemead,CA,United States}	{Shop & Service,}
+209	Thu Jan 20 22:29:28 +0000 2011	4a3c5912f964a5206aa11fe3	{Smart & Final Extra!}	{34.000631,-118.46457839012146,Venice,CA,United States}	{Shop & Service,Food & Drink Shop,}
+209	Thu Jan 20 21:25:07 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+209	Thu Jan 20 17:18:49 +0000 2011	44d9ff60f964a5208b361fe3	{Dallas/Fort Worth International Airport (DFW)}	{32.89803818160521,-97.04086303710938,DFW Airport,TX,United States}	{Travel & Transport,}
+209	Thu Jan 20 15:04:31 +0000 2011	4b089160f964a520980e23e3	{Jackson-Evers International Airport (JAN)}	{32.30969589209362,-90.07493019104004,Jackson,MS,United States}	{Travel & Transport,}
+209	Thu Jan 20 02:39:23 +0000 2011	4b75e10af964a5209c2b2ee3	{Cerami's Italian Restaurant}	{32.341322,-90.059649,Flowood,MS,United States}	{Food,}
+209	Wed Jan 19 18:38:05 +0000 2011	4c0d2c84c700c9b6ca00a2dd	{Garden Patch}	{32.365571,-89.4793474,Forest,MS,United States}	{Food,}
+209	Wed Jan 19 14:14:51 +0000 2011	4cb481efeb65b1f7069d8acd	{Raytheon - Forest Plant}	{32.3285265565927,-89.45757826965317,Forest,MS,United States}	{}
+209	Wed Jan 19 01:12:43 +0000 2011	4c7190138efc3704e1c7107d	{Holiday Inn}	{32.27333309009246,-90.15019138660294,PEARL,MS,United States}	{Travel & Transport,Professional & Other Places,}
+209	Tue Jan 18 23:55:10 +0000 2011	4b089160f964a520980e23e3	{Jackson-Evers International Airport (JAN)}	{32.30969589209362,-90.07493019104004,Jackson,MS,United States}	{Travel & Transport,}
+209	Tue Jan 18 21:41:33 +0000 2011	44d9ff60f964a5208b361fe3	{Dallas/Fort Worth International Airport (DFW)}	{32.89803818160521,-97.04086303710938,DFW Airport,TX,United States}	{Travel & Transport,}
+209	Tue Jan 18 17:09:32 +0000 2011	4bc8ace115a7ef3b969d7bda	{Gate 47B}	{33.94008893724086,-118.40708255767822,Los Angeles,CA,United States}	{Travel & Transport,Airport,}
+209	Tue Jan 18 16:13:57 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+209	Tue Jan 18 03:11:53 +0000 2011	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Mon Jan 17 23:33:13 +0000 2011	4ba6ba2df964a520b26b39e3	{Shell}	{35.05449661290531,-118.17402721843965,Mojave,CA,United States}	{Shop & Service,}
+209	Mon Jan 17 20:16:16 +0000 2011	4b3798d6f964a520c44225e3	{Mahogany Smoked Meats}	{37.376007549546266,-118.41763663019725,Bishop,CA,United States}	{Food,}
+209	Sun Jan 16 22:30:49 +0000 2011	4bccc10c0245eee1094c25b9	{Silver Bear Condos Mammoth Lakes}	{37.64410213491865,-118.99771621546829,Mammoth Lakes,CA,United States}	{Residence,}
+209	Sun Jan 16 20:18:27 +0000 2011	4d139c569844b60cbd2fc4d4	{McCoy Station}	{37.64216082494406,-119.03100471961258,Mammoth Lakes,CA,United States}	{Travel & Transport,Outdoors & Recreation,Ski Area,}
+209	Sun Jan 16 19:39:28 +0000 2011	4bae501ff964a52053a13be3	{Chair 14: Mammoth Mountain}	{37.63808367925303,-119.05319493592494,Mammoth Lakes,CA,United States}	{}
+209	Sun Jan 16 06:15:07 +0000 2011	4bccc10c0245eee1094c25b9	{Silver Bear Condos Mammoth Lakes}	{37.64410213491865,-118.99771621546829,Mammoth Lakes,CA,United States}	{Residence,}
+209	Sun Jan 16 01:19:04 +0000 2011	4b722ce9f964a520a6722de3	{Grumpy's Sports Restaurant}	{37.64096341046931,-118.96620571266531,Mammoth Lakes,CA,United States}	{Nightlife Spot,Food,}
+209	Sat Jan 15 22:46:10 +0000 2011	4b51fe1df964a520de5f27e3	{The Mill Cafe}	{37.65102827345187,-119.02691864168652,Mammoth Lakes,CA,United States}	{Outdoors & Recreation,Ski Area,Food,}
+209	Sat Jan 15 21:24:06 +0000 2011	4d14fa28cc216ea8675a60d3	{Outpost Cafe}	{37.637817,-119.054547,Mammoth Lakes,CA,United States}	{Outdoors & Recreation,Ski Area,}
+209	Sat Jan 15 17:07:15 +0000 2011	4d432bf71bf6b60cb14350d2	{Chair 16: Mammoth Mountain (Canyon Express)}	{37.644429729594215,-119.0023398399353,Mammoth Lakes,CA,United States}	{Outdoors & Recreation,Ski Area,}
+209	Sat Jan 15 16:40:37 +0000 2011	4b50c6edf964a520fe3127e3	{Canyon Lodge}	{37.644718568109354,-119.00184631347656,Mammoth Lakes,CA,United States}	{Shop & Service,Outdoors & Recreation,Ski Area,Food & Drink Shop,}
+209	Sat Jan 15 08:26:21 +0000 2011	4bccc10c0245eee1094c25b9	{Silver Bear Condos Mammoth Lakes}	{37.64410213491865,-118.99771621546829,Mammoth Lakes,CA,United States}	{Residence,}
+209	Sat Jan 15 03:00:29 +0000 2011	4b37db07f964a5208a4725e3	{In-N-Out Burger}	{34.70448730585324,-118.1669772979277,Lancaster,CA,United States}	{Food,}
+209	Fri Jan 14 02:30:13 +0000 2011	4b80e4eaf964a520d79030e3	{Grand Metro Station}	{34.032994473303965,-118.26906681060791,Los Angeles,CA,United States}	{Travel & Transport,}
+209	Thu Jan 13 19:45:39 +0000 2011	4a9463a0f964a5206a2120e3	{The Original Rinaldi's}	{33.91989936,-118.41611087322235,El Segundo,CA,United States}	{Food,}
+209	Thu Jan 13 16:19:10 +0000 2011	4b8b19f9f964a520ee9232e3	{Vermont/Athens Metro Station}	{33.9285481685662,-118.29202651977539,Los Angeles,CA,United States}	{Travel & Transport,}
+209	Thu Jan 13 08:22:04 +0000 2011	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Thu Jan 13 06:40:58 +0000 2011	4d05c625dc45a09379eaf0c6	{The Spare Room}	{34.1009312066653,-118.34163665771484,Los Angeles,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+209	Thu Jan 13 06:08:39 +0000 2011	4d05c625dc45a09379eaf0c6	{The Spare Room}	{34.1009312066653,-118.34163665771484,Los Angeles,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+209	Thu Jan 13 04:31:10 +0000 2011	4d05c625dc45a09379eaf0c6	{The Spare Room}	{34.1009312066653,-118.34163665771484,Los Angeles,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+209	Thu Jan 13 04:26:25 +0000 2011	438cf623f964a520302b1fe3	{Hollywood Roosevelt Hotel}	{34.10128656695182,-118.34167957305908,Los Angeles,CA,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+209	Thu Jan 13 03:59:58 +0000 2011	4aa1b53af964a5207e4120e3	{7th St/Metro Center (Julian Dixon) Metro Station}	{34.049352615244516,-118.25949668884277,Los Angeles,CA,United States}	{Travel & Transport,}
+209	Thu Jan 13 02:15:51 +0000 2011	4b9fd60cf964a520214337e3	{Bank Of America}	{34.04934549882585,-118.25988858305276,Los Angeles,CA,United States}	{Shop & Service,}
+209	Thu Jan 13 01:44:44 +0000 2011	4b0dd47ef964a520f45023e3	{Willowbrook (Rosa Parks) Metro Station}	{33.92822769297293,-118.23771715164185,Los Angeles,CA,United States}	{Travel & Transport,}
+209	Wed Jan 12 03:41:57 +0000 2011	4a025625f964a52048711fe3	{Good Girl Dinette}	{34.109166297841874,-118.1945550441742,Los Angeles,CA,United States}	{Food,}
+209	Wed Jan 12 00:43:53 +0000 2011	4b41091af964a520d4bf25e3	{The Strand}	{33.89075245877501,-118.41278179960014,Manhattan & Hermosa Beach,CA,United States}	{Shop & Service,Outdoors & Recreation,Gym / Fitness Center,}
+209	Tue Jan 11 20:29:07 +0000 2011	4b2940eff964a520c49b24e3	{Thai Lai}	{33.915495,-118.3522314,Hawthorne,CA,United States}	{Food,}
+209	Tue Jan 11 14:57:46 +0000 2011	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Tue Jan 11 05:30:00 +0000 2011	4b07408df964a520b4fa22e3	{McCormick & Schmick's Seafood Restaurant}	{34.05116604102984,-118.25511932373047,Los Angeles,CA,United States}	{Food,}
+209	Mon Jan 10 01:47:24 +0000 2011	4a9b1bddf964a520723420e3	{May Mei}	{34.127047,-118.05286,Arcadia,CA,United States}	{Food,}
+209	Sun Jan 09 19:06:47 +0000 2011	4d09a7eaacd4a1cd9f1a7e93	{M?s Malo}	{34.04704355250367,-118.25595885515213,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+209	Sun Jan 09 07:30:20 +0000 2011	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Sun Jan 09 03:42:59 +0000 2011	49f7b966f964a520d26c1fe3	{Honda Ya}	{34.04526341344379,-118.23853719464356,Los Angeles,CA,United States}	{Food,}
+209	Sun Jan 09 02:12:01 +0000 2011	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Sat Jan 08 23:23:09 +0000 2011	4c38052593db0f4709fd2092	{Exotic Spa}	{34.102309,-118.109703,San Gabriel,CA,United States}	{Shop & Service,}
+209	Sat Jan 08 22:33:00 +0000 2011	4b834ee7f964a520b50131e3	{Phoenix Food Boutique}	{34.10224378108978,-118.110156,San Gabriel,CA,United States}	{Food,}
+209	Sat Jan 08 21:14:09 +0000 2011	4b1dcb1ff964a520611524e3	{Newport Tan Cang Seafood Restaurant}	{34.102203164203665,-118.10698427907822,San Gabriel,CA,United States}	{Food,}
+209	Sat Jan 08 06:04:07 +0000 2011	4ae493a2f964a520da9b21e3	{Cabo Cantina}	{33.979429011488904,-118.46594903692552,Marina del Rey,CA,United States}	{Nightlife Spot,}
+209	Sat Jan 08 05:59:37 +0000 2011	4b6e7faff964a520c8bf2ce3	{Bay Market}	{33.97944834272339,-118.4659946618434,Marina Del Rey,CA,United States}	{Shop & Service,}
+209	Sat Jan 08 05:17:58 +0000 2011	4a578320f964a5204bb61fe3	{Hinano Cafe}	{33.97947,-118.46649863,Venice,CA,United States}	{Nightlife Spot,Food,}
+209	Sat Jan 08 05:07:53 +0000 2011	4a578320f964a5204bb61fe3	{Hinano Cafe}	{33.97947,-118.46649863,Venice,CA,United States}	{Nightlife Spot,Food,}
+209	Sat Jan 08 01:28:29 +0000 2011	4a0a782ff964a520a4741fe3	{24 Hour Fitness}	{34.051491,-118.256142,Los Angeles,CA,United States}	{Shop & Service,}
+209	Fri Jan 07 19:58:32 +0000 2011	4a9463a0f964a5206a2120e3	{The Original Rinaldi's}	{33.91989936,-118.41611087322235,El Segundo,CA,United States}	{Food,}
+209	Fri Jan 07 07:52:44 +0000 2011	4b6b28baf964a52098f62be3	{Las Perlas}	{34.045050018501556,-118.24936866760254,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Fri Jan 07 03:43:04 +0000 2011	49e0a52df964a5205a611fe3	{Library Bar}	{34.049410396566316,-118.25661063194275,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Wed Jan 05 19:43:31 +0000 2011	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Wed Jan 05 06:13:24 +0000 2011	49c96695f964a5205e581fe3	{Mandrake Bar}	{34.033799539599926,-118.37611215735986,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Wed Jan 05 02:30:33 +0000 2011	4a0a782ff964a520a4741fe3	{24 Hour Fitness}	{34.051491,-118.256142,Los Angeles,CA,United States}	{Shop & Service,}
+209	Tue Jan 04 20:12:06 +0000 2011	4b7ef292f964a520930b30e3	{Cafe Rio}	{33.90140422534315,-118.37998090613732,Manhattan Beach,CA,United States}	{Food,}
+209	Tue Jan 04 16:22:09 +0000 2011	4bbca35b8a4fb71346eb3b9d	{Raytheon (R1)}	{33.93092196138536,-118.39150103278821,El Segundo,CA,United States}	{Professional & Other Places,}
+209	Tue Jan 04 01:57:57 +0000 2011	4c0955d4009a0f473897e7bf	{Seafood Village}	{34.10723805427551,-118.058601,Temple City,CA,United States}	{Food,}
+209	Mon Jan 03 20:13:06 +0000 2011	4b188a6ef964a520f6d323e3	{Starry Kitchen}	{34.05198829239166,-118.25149297714233,Los Angeles,CA,United States}	{Food,}
+209	Mon Jan 03 20:02:52 +0000 2011	4afdbe04f964a5206f2a22e3	{The Coffee Bean & Tea Leaf}	{34.05016513934732,-118.25421888401004,Los Angeles,CA,United States}	{Food,}
+209	Mon Jan 03 07:53:34 +0000 2011	4a67c573f964a52008ca1fe3	{Met Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Mon Jan 03 05:55:55 +0000 2011	4b29998ef964a52086a124e3	{Lazy Ox Canteen}	{34.048493,-118.242186,Los Angeles,CA,United States}	{Food,}
+209	Mon Jan 03 02:14:59 +0000 2011	4c6d92b1920bef3be0784852	{Malhi's Indian Cuisine}	{34.690197,-118.166247,Lancaster,CA,United States}	{Food,}
+209	Mon Jan 03 01:36:03 +0000 2011	4c86ebb2e602b1f7fe1cc47a	{Mojave, CA}	{35.052589101444674,-118.17546844482422,Mojave,CA,United States}	{Outdoors & Recreation,}
+209	Sun Jan 02 21:00:53 +0000 2011	4b6f5dfdf964a52069ed2ce3	{Nik-N-Willie's}	{37.64504188275252,-118.96633078961344,Mammoth Lakes,CA,United States}	{Food,}
+209	Sun Jan 02 07:41:18 +0000 2011	4d1c3e4b8860a093f1cdb934	{Helios South}	{37.646012646725595,-118.98197313794948,Mammoth Lakes,CA,United States}	{Residence,}
+209	Sat Jan 01 22:04:03 +0000 2011	4b50c6edf964a520fe3127e3	{Canyon Lodge}	{37.644718568109354,-119.00184631347656,Mammoth Lakes,CA,United States}	{Shop & Service,Outdoors & Recreation,Ski Area,Food & Drink Shop,}
+209	Sat Jan 01 20:45:06 +0000 2011	4bb8c23dcf2fc9b64dcf9f02	{Chair 9: Mammoth Mountain}	{37.62831885229288,-119.01066986436642,Mammoth Lakes,CA,United States}	{Outdoors & Recreation,}
+209	Sat Jan 01 17:49:33 +0000 2011	4b50c6edf964a520fe3127e3	{Canyon Lodge}	{37.644718568109354,-119.00184631347656,Mammoth Lakes,CA,United States}	{Shop & Service,Outdoors & Recreation,Ski Area,Food & Drink Shop,}
+209	Sat Jan 01 04:52:47 +0000 2011	4b63721cf964a5206f7a2ae3	{The Village At Mammoth}	{37.649645640365875,-118.98455142974854,Mammoth Lakes,CA,United States}	{Nightlife Spot,Outdoors & Recreation,Shop & Service,}
+209	Sat Jan 01 02:50:24 +0000 2011	4d1c3e4b8860a093f1cdb934	{Helios South}	{37.646012646725595,-118.98197313794948,Mammoth Lakes,CA,United States}	{Residence,}
+209	Fri Dec 31 20:35:40 +0000 2010	4d139c569844b60cbd2fc4d4	{McCoy Station}	{37.64216082494406,-119.03100471961258,Mammoth Lakes,CA,United States}	{Travel & Transport,Outdoors & Recreation,Ski Area,}
+209	Fri Dec 31 16:38:54 +0000 2010	4b804a72f964a520cc6430e3	{The Pita Pit}	{37.650776513184475,-118.98489790781257,Mammoth Lakes,CA,United States}	{Food,}
+209	Fri Dec 31 06:19:47 +0000 2010	4d1c3e4b8860a093f1cdb934	{Helios South}	{37.646012646725595,-118.98197313794948,Mammoth Lakes,CA,United States}	{Residence,}
+209	Thu Dec 30 20:31:59 +0000 2010	4bb8c23dcf2fc9b64dcf9f02	{Chair 9: Mammoth Mountain}	{37.62831885229288,-119.01066986436642,Mammoth Lakes,CA,United States}	{Outdoors & Recreation,}
+209	Thu Dec 30 18:19:09 +0000 2010	4b50c6edf964a520fe3127e3	{Canyon Lodge}	{37.644718568109354,-119.00184631347656,Mammoth Lakes,CA,United States}	{Shop & Service,Outdoors & Recreation,Ski Area,Food & Drink Shop,}
+209	Thu Dec 30 17:49:33 +0000 2010	4b423ce4f964a520c5cf25e3	{Mammoth Mountain Ski Resort}	{37.647131175362965,-118.99845600128174,Mammoth Lakes,CA,United States}	{Travel & Transport,Outdoors & Recreation,Ski Area,}
+209	Thu Dec 30 16:47:39 +0000 2010	4b6da8fbf964a5200c842ce3	{The Village Gondola - Mammoth Lakes}	{37.64993445859788,-118.98523807525635,Mammoth Lakes,CA,United States}	{Outdoors & Recreation,}
+209	Thu Dec 30 08:10:13 +0000 2010	4d1c3e4b8860a093f1cdb934	{Helios South}	{37.646012646725595,-118.98197313794948,Mammoth Lakes,CA,United States}	{Residence,}
+209	Thu Dec 30 01:43:40 +0000 2010	4b37db07f964a5208a4725e3	{In-N-Out Burger}	{34.70448730585324,-118.1669772979277,Lancaster,CA,United States}	{Food,}
+209	Wed Dec 29 07:11:15 +0000 2010	4aab38e9f964a520465920e3	{Bobos}	{34.063291,-118.298602,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Wed Dec 29 03:38:10 +0000 2010	4aa3421ef964a520ca4320e3	{Moodaepo II}	{34.05959826213294,-118.28973836688854,Los Angeles,CA,United States}	{Food,}
+209	Wed Dec 29 01:18:08 +0000 2010	4a0a782ff964a520a4741fe3	{24 Hour Fitness}	{34.051491,-118.256142,Los Angeles,CA,United States}	{Shop & Service,}
+209	Tue Dec 28 20:30:33 +0000 2010	4aa49017f964a5201b4720e3	{Shabu Shabu House}	{34.04892607663138,-118.2404445945765,Los Angeles,CA,United States}	{Food,}
+209	Tue Dec 28 19:20:03 +0000 2010	4b1409c4f964a5203a9c23e3	{Starbucks}	{34.04903259490317,-118.25546264648438,Los Angeles,CA,United States}	{Food,}
+209	Tue Dec 28 06:13:16 +0000 2010	49e0a52df964a5205a611fe3	{Library Bar}	{34.049410396566316,-118.25661063194275,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Tue Dec 28 05:35:40 +0000 2010	474dd5a6f964a520ae4c1fe3	{Seven Grand}	{34.04706520853107,-118.25592572903602,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Tue Dec 28 03:30:12 +0000 2010	4c85b026d4e23704454e8588	{SUGARFISH | Downtown LA}	{34.04761348153715,-118.25669089820224,Los Angeles,CA,United States}	{Food,}
+209	Tue Dec 28 02:54:50 +0000 2010	4aab0a74f964a520ad5820e3	{Chaya}	{34.051073245318705,-118.25727904829495,Los Angeles,CA,United States}	{Food,}
+209	Mon Dec 27 23:54:54 +0000 2010	4c5b816c2815c92860caaf67	{CB2}	{34.01400974062912,-118.49325656890869,Santa Monica,CA,United States}	{Shop & Service,}
+209	Mon Dec 27 08:12:31 +0000 2010	49e0a52df964a5205a611fe3	{Library Bar}	{34.049410396566316,-118.25661063194275,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Mon Dec 27 07:07:54 +0000 2010	4127e200f964a520540c1fe3	{Daikokuya}	{34.04984153287815,-118.24036449193954,Los Angeles,CA,United States}	{Food,}
+209	Mon Dec 27 06:49:31 +0000 2010	4a562876f964a52096b41fe3	{Far Bar}	{34.049742,-118.23946818,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Mon Dec 27 06:20:17 +0000 2010	4127e200f964a520540c1fe3	{Daikokuya}	{34.04984153287815,-118.24036449193954,Los Angeles,CA,United States}	{Food,}
+209	Sun Dec 26 19:27:38 +0000 2010	4a55476bf964a520fdb31fe3	{Target}	{34.089701053000745,-118.34459781646729,West Hollywood,CA,United States}	{Shop & Service,Food & Drink Shop,}
+209	Sun Dec 26 18:45:16 +0000 2010	4a076e27f964a5205f731fe3	{CB2}	{34.097693,-118.364942,Los Angeles,CA,United States}	{Shop & Service,}
+209	Sun Dec 26 15:32:07 +0000 2010	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Sun Dec 26 05:56:54 +0000 2010	49fdfcfbf964a520546f1fe3	{Landmark Theatres}	{34.039511437280616,-118.42915177345276,Los Angeles,CA,United States}	{Arts & Entertainment,Movie Theater,}
+209	Sun Dec 26 04:17:21 +0000 2010	4ab2a261f964a520ba6b20e3	{Phoenix Food Boutique}	{34.12722519,-118.054378,Arcadia,CA,United States}	{Food,}
+209	Sun Dec 26 02:59:04 +0000 2010	4afe3135f964a520a32e22e3	{Din Tai Fung Dumpling House #1}	{34.1271838709909,-118.05431306362152,Arcadia,CA,United States}	{Food,}
+209	Sat Dec 25 20:13:37 +0000 2010	4a651074f964a5203dc71fe3	{Subway}	{34.049266727549906,-118.25603993360644,Los Angeles,CA,United States}	{Food,}
+209	Sat Dec 25 04:38:05 +0000 2010	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Fri Dec 24 21:53:44 +0000 2010	4b0b83fef964a520033223e3	{Half & Half Tea House ?????}	{34.104163,-118.090144,San Gabriel,CA,United States}	{Food,}
+209	Fri Dec 24 21:10:03 +0000 2010	4b2f8d77f964a52051ec24e3	{Dean Sin World}	{34.06529654363421,-118.12261551618576,Monterey Park,CA,United States}	{Food,}
+209	Fri Dec 24 01:40:55 +0000 2010	49e0a52df964a5205a611fe3	{Library Bar}	{34.049410396566316,-118.25661063194275,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Thu Dec 23 23:04:11 +0000 2010	4a0a782ff964a520a4741fe3	{24 Hour Fitness}	{34.051491,-118.256142,Los Angeles,CA,United States}	{Shop & Service,}
+209	Thu Dec 23 20:44:23 +0000 2010	4afdbe04f964a5206f2a22e3	{The Coffee Bean & Tea Leaf}	{34.05016513934732,-118.25421888401004,Los Angeles,CA,United States}	{Food,}
+209	Thu Dec 23 19:57:50 +0000 2010	4b188a6ef964a520f6d323e3	{Starry Kitchen}	{34.05198829239166,-118.25149297714233,Los Angeles,CA,United States}	{Food,}
+209	Thu Dec 23 07:03:47 +0000 2010	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Thu Dec 23 04:44:56 +0000 2010	414e1d80f964a520db1c1fe3	{Tangier Korean BBQ of Tokyo}	{34.11112945368129,-118.28722536563873,Los Angeles,CA,United States}	{Food,}
+209	Thu Dec 23 01:20:00 +0000 2010	4a0a782ff964a520a4741fe3	{24 Hour Fitness}	{34.051491,-118.256142,Los Angeles,CA,United States}	{Shop & Service,}
+209	Wed Dec 22 03:40:28 +0000 2010	4ca69bfa44a8224b265d0540	{Ocho Mexican Grill}	{34.04936480452663,-118.2561141665363,Los Angeles,CA,United States}	{Food,}
+209	Tue Dec 21 21:42:36 +0000 2010	4c41c47d3735be9a6fdd18a4	{Enterprise}	{33.87563430141769,-118.2746028724262,Gardena,CA,United States}	{Travel & Transport,}
+209	Tue Dec 21 15:33:26 +0000 2010	4b3b8ac3f964a520757525e3	{Gardena Nissan}	{33.888771,-118.30693423748016,Gardena,CA,United States}	{Shop & Service,}
+209	Tue Dec 21 03:04:46 +0000 2010	4a5bd7eaf964a520ddbb1fe3	{24 Hour Fitness}	{33.901643993234735,-118.38695355868441,Manhattan Beach,CA,United States}	{Shop & Service,}
+209	Tue Dec 21 02:00:48 +0000 2010	4a762f14f964a52082e21fe3	{The Home Depot}	{33.89842223659988,-118.36900323631774,Hawthorne,CA,United States}	{Shop & Service,}
+209	Mon Dec 20 23:06:17 +0000 2010	4cc9f792b8c8224b9f1413ba	{Raytheon (R2)}	{33.92993718513681,-118.39150103278821,El Segundo,CA,United States}	{Professional & Other Places,}
+209	Mon Dec 20 20:33:49 +0000 2010	4af8731bf964a5205b0d22e3	{Petit Cafe}	{33.924586649480375,-118.39561343193054,El Segundo,CA,United States}	{Food,}
+209	Mon Dec 20 18:15:21 +0000 2010	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Sun Dec 19 06:02:28 +0000 2010	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Sun Dec 19 03:30:10 +0000 2010	4a651074f964a5203dc71fe3	{Subway}	{34.049266727549906,-118.25603993360644,Los Angeles,CA,United States}	{Food,}
+209	Sat Dec 18 23:48:39 +0000 2010	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Sat Dec 18 18:07:52 +0000 2010	4be5b16ad4f7c9b67dc32520	{Uncle John's Cafe}	{34.04481888109261,-118.2584398984909,Los Angeles,CA,United States}	{Food,}
+209	Sat Dec 18 03:39:58 +0000 2010	4ca9ed76a6e08cfaa6e09d94	{Harlem Place Cafe}	{34.04828587607603,-118.2478666305542,Los Angeles,CA,United States}	{Food,}
+209	Fri Dec 17 21:53:05 +0000 2010	4b188a6ef964a520f6d323e3	{Starry Kitchen}	{34.05198829239166,-118.25149297714233,Los Angeles,CA,United States}	{Food,}
+209	Thu Dec 16 05:44:57 +0000 2010	4a0a782ff964a520a4741fe3	{24 Hour Fitness}	{34.051491,-118.256142,Los Angeles,CA,United States}	{Shop & Service,}
+209	Wed Dec 15 20:04:45 +0000 2010	4a7cece5f964a5201cee1fe3	{Curry House}	{33.83684862250338,-118.35480962091147,Torrance,CA,United States}	{Food,}
+209	Wed Dec 15 03:16:40 +0000 2010	4a762f14f964a52082e21fe3	{The Home Depot}	{33.89842223659988,-118.36900323631774,Hawthorne,CA,United States}	{Shop & Service,}
+209	Wed Dec 15 02:25:04 +0000 2010	4b41091af964a520d4bf25e3	{The Strand}	{33.89075245877501,-118.41278179960014,Manhattan & Hermosa Beach,CA,United States}	{Shop & Service,Outdoors & Recreation,Gym / Fitness Center,}
+209	Wed Dec 15 00:48:27 +0000 2010	4b6f499bf964a5205ce92ce3	{Goodwill Donation Center}	{33.924417,-118.39540958404541,El Segundo,CA,United States}	{Professional & Other Places,}
+209	Sun Dec 12 21:58:54 +0000 2010	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Sat Dec 11 18:27:59 +0000 2010	4a6e166bf964a520e2d31fe3	{The Yorkshire Grill}	{34.04909121677452,-118.2557430015648,Los Angeles,CA,United States}	{Food,}
+209	Sat Dec 11 06:10:15 +0000 2010	4aab38e9f964a520465920e3	{Bobos}	{34.063291,-118.298602,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Sat Dec 11 05:20:02 +0000 2010	4bf73d53508c0f47bc6a3d31	{Thailand Plaza}	{34.101938009262085,-118.30627896666667,Los Angeles,CA,United States}	{Shop & Service,}
+209	Sat Dec 11 03:55:24 +0000 2010	4bf73d53508c0f47bc6a3d31	{Thailand Plaza}	{34.101938009262085,-118.30627896666667,Los Angeles,CA,United States}	{Shop & Service,}
+209	Fri Dec 10 20:24:15 +0000 2010	4b0f3413f964a5205d6023e3	{Shilla Restaurant}	{33.87727618217468,-118.30885,Gardena,CA,United States}	{Food,}
+209	Fri Dec 10 04:20:20 +0000 2010	4b188a6ef964a520f6d323e3	{Starry Kitchen}	{34.05198829239166,-118.25149297714233,Los Angeles,CA,United States}	{Food,}
+209	Fri Dec 10 00:58:59 +0000 2010	4cafd0e5db32f04de5c3ba4d	{Border Grill}	{34.0524337766563,-118.25668518799726,Los Angeles,CA,United States}	{Food,}
+209	Thu Dec 09 20:57:47 +0000 2010	4a57eebaf964a52019b71fe3	{Hollywood Park Racetrack}	{33.949679293316414,-118.33954295419039,Inglewood,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+209	Wed Dec 08 20:08:40 +0000 2010	4a9463a0f964a5206a2120e3	{The Original Rinaldi's}	{33.91989936,-118.41611087322235,El Segundo,CA,United States}	{Food,}
+209	Wed Dec 08 06:04:52 +0000 2010	49c96695f964a5205e581fe3	{Mandrake Bar}	{34.033799539599926,-118.37611215735986,Los Angeles,CA,United States}	{Nightlife Spot,}
+209	Wed Dec 08 03:48:17 +0000 2010	4a57d710f964a520ebb61fe3	{Joe's Restaurant}	{33.992238,-118.471895,Venice,CA,United States}	{Nightlife Spot,Food,}
+209	Tue Dec 07 04:33:48 +0000 2010	4aa6be06f964a520e44a20e3	{Target}	{33.888502002630474,-118.39471899516772,Manhattan Beach,CA,United States}	{Shop & Service,}
+209	Mon Dec 06 02:06:15 +0000 2010	4ad6c271f964a5203b0821e3	{Baccali Cafe & Rotisserie}	{34.078689253695124,-118.12537465667387,Alhambra,CA,United States}	{Food,}
+209	Sun Dec 05 23:16:21 +0000 2010	4a84fbb8f964a520f8fd1fe3	{Pegasus Apartments}	{34.04961929793964,-118.25749039649963,Los Angeles,CA,United States}	{Residence,}
+209	Sun Dec 05 20:18:20 +0000 2010	49f65012f964a5202f6c1fe3	{Grand Central Market}	{34.050917141747966,-118.24918627738953,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+209	Sun Dec 05 04:15:06 +0000 2010	4cf9e995a6c76a3122c49d5f	{UCLA vs. USC at The Rose Bowl}	{34.161323,-118.16761,Pasadena,CA,United States}	{Stadium,College & University,Arts & Entertainment,College Stadium,}
+209	Sun Dec 05 03:08:22 +0000 2010	4cf9e995a6c76a3122c49d5f	{UCLA vs. USC at The Rose Bowl}	{34.161323,-118.16761,Pasadena,CA,United States}	{Stadium,College & University,Arts & Entertainment,College Stadium,}
+209	Sun Dec 05 00:28:03 +0000 2010	3fd66200f964a520ecef1ee3	{Jake's Burgers & Billiards}	{34.14560161556175,-118.15125346183777,Pasadena,CA,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+209	Sat Dec 04 17:25:09 +0000 2010	4b1409c4f964a5203a9c23e3	{Starbucks}	{34.04903259490317,-118.25546264648438,Los Angeles,CA,United States}	{Food,}
+209	Fri Dec 03 21:37:08 +0000 2010	4afdbe04f964a5206f2a22e3	{The Coffee Bean & Tea Leaf}	{34.05016513934732,-118.25421888401004,Los Angeles,CA,United States}	{Food,}
+209	Fri Dec 03 21:06:10 +0000 2010	4b188a6ef964a520f6d323e3	{Starry Kitchen}	{34.05198829239166,-118.25149297714233,Los Angeles,CA,United States}	{Food,}
+209	Fri Dec 03 04:44:50 +0000 2010	4cbbb459adcd5481069c2aa2	{wolvesmouth}	{34.04705910944092,-118.23597908020018,Los Angeles,CA,United States}	{Food,}
+209	Fri Dec 03 02:50:16 +0000 2010	4cbbb459adcd5481069c2aa2	{wolvesmouth}	{34.04705910944092,-118.23597908020018,Los Angeles,CA,United States}	{Food,}
+209	Thu Dec 02 18:47:25 +0000 2010	4bbca35b8a4fb71346eb3b9d	{Raytheon (R1)}	{33.93092196138536,-118.39150103278821,El Segundo,CA,United States}	{Professional & Other Places,}
+209	Thu Dec 02 16:40:16 +0000 2010	4c5310bb1b46c9b6287e5bcc	{LabCorp}	{34.036829,-118.265041,Los Angeles,CA,United States}	{Professional & Other Places,}
+209	Thu Dec 02 04:19:31 +0000 2010	4cb91226c7228cfaae860dce	{Scarpetta}	{34.06803014169043,-118.39917497226833,Beverly Hills,CA,United States}	{Food,}
+209	Thu Dec 02 04:01:03 +0000 2010	4a56b1d6f964a520a8b51fe3	{Montage Beverly Hills}	{34.06792728128631,-118.3986309170723,Beverly Hills,CA,United States}	{Travel & Transport,Hotel,}
+209	Thu Dec 02 04:01:01 +0000 2010	4a56b1d6f964a520a8b51fe3	{Montage Beverly Hills}	{34.06792728128631,-118.3986309170723,Beverly Hills,CA,United States}	{Travel & Transport,Hotel,}
+209	Mon Nov 29 04:37:11 +0000 2010	4ba38f4af964a5205c4738e3	{Library Court Lofts}	{34.048882883480566,-118.25850958879228,Los Angeles,CA,United States}	{Residence,}
+209	Mon Nov 29 02:43:03 +0000 2010	4b7f8409f964a520793230e3	{Chevron}	{35.05074538,-118.17269226,Mojave,CA,United States}	{Shop & Service,}
+209	Sun Nov 28 22:39:10 +0000 2010	4b6f5dfdf964a52069ed2ce3	{Nik-N-Willie's}	{37.64504188275252,-118.96633078961344,Mammoth Lakes,CA,United States}	{Food,}
+209	Sun Nov 28 21:38:17 +0000 2010	4b50c6edf964a520fe3127e3	{Canyon Lodge}	{37.644718568109354,-119.00184631347656,Mammoth Lakes,CA,United States}	{Shop & Service,Outdoors & Recreation,Ski Area,Food & Drink Shop,}
+209	Sun Nov 28 01:07:31 +0000 2010	4bd39953046076b0508a7671	{Whiskey Creek}	{37.64867902126896,-118.98349379781158,Mammoth Lakes,CA,United States}	{Nightlife Spot,Food,}
+209	Sat Nov 27 21:16:58 +0000 2010	4b784656f964a5204ac12ee3	{Tusks Bar Mammoth Main Lodge}	{37.650538,-119.037359,Mammoth Lakes,CA,United States}	{Nightlife Spot,Outdoors & Recreation,Ski Area,}
+209	Sat Nov 27 19:44:33 +0000 2010	4d139c569844b60cbd2fc4d4	{McCoy Station}	{37.64216082494406,-119.03100471961258,Mammoth Lakes,CA,United States}	{Travel & Transport,Outdoors & Recreation,Ski Area,}
+209	Sat Nov 27 04:35:13 +0000 2010	4b885057f964a52077ee31e3	{The Auld Dubliner - Mammoth Lakes}	{37.65062252103701,-118.98491621017456,Mammoth Lakes,CA,United States}	{Nightlife Spot,}
+209	Sat Nov 27 03:28:25 +0000 2010	4b649a68f964a52052c12ae3	{Burgers - Mammoth Lakes}	{37.65012724507801,-118.98407363426008,Mammoth Lakes,CA,United States}	{Food,}
+209	Fri Nov 26 20:38:07 +0000 2010	4a0f1213f964a5201d761fe3	{California Chicken Cafe}	{34.03426470709576,-118.47994389164649,Santa Monica,CA,United States}	{Food,}
+209	Thu Nov 25 21:29:05 +0000 2010	4bf322d3d2fbef3b2097a4c5	{Yama Seafood}	{34.10217496113931,-118.1125545501709,San Gabriel,CA,United States}	{Food,}
+209	Thu Nov 25 21:25:26 +0000 2010	4ab5c166f964a520077620e3	{Peet's Coffee & Tea}	{34.150424,-118.07603181,Pasadena,CA,United States}	{Food,}
+209	Thu Nov 25 19:55:25 +0000 2010	4c9ad1ced4b1b1f7a8dcd335	{Money Pot Shabu Shabu}	{34.124412444918825,-118.05915340520563,Arcadia,CA,United States}	{Food,}
+209	Thu Nov 25 05:54:24 +0000 2010	4bd8f7262e6f0f47a2660908	{Concerto}	{34.045506,-118.26226523333334,Los Angeles,CA,United States}	{Professional & Other Places,}
+209	Thu Nov 25 04:48:39 +0000 2010	4b3bbf10f964a5203d7a25e3	{Mi Piace}	{34.14587381951549,-118.14991119092036,Pasadena,CA,United States}	{Nightlife Spot,Food,}
+209	Thu Nov 25 00:47:08 +0000 2010	49c7883ff964a520ad571fe3	{Gyu-Kaku Pasadena}	{34.14422086792977,-118.15205812454224,Pasadena,CA,United States}	{Nightlife Spot,Food,}
+209	Wed Nov 24 19:41:45 +0000 2010	4ae11a18f964a5203b8521e3	{North End Caffe}	{33.899663,-118.417316,Manhattan Beach,CA,United States}	{Food,}
+209	Wed Nov 24 04:30:57 +0000 2010	4a21b36ef964a520307d1fe3	{Mo-Chica}	{34.01770031391073,-118.2784652709961,Los Angeles,CA,United States}	{Food,}

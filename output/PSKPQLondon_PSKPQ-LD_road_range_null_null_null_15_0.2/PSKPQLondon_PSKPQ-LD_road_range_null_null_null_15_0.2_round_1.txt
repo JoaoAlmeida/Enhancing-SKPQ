@@ -1,0 +1,4 @@
+#categoryName experimentName dataset neighborhood plusMode queryType numQueries numKeywords numResults radius item value min max observations
+PSKPQLondon PSKPQ-LD road range null null null 15 0.2 nodesAccessed 0.0 - 9223372036854775807 0 0
+PSKPQLondon PSKPQ-LD road range null null null 15 0.2 pageFaults 0.0 - 9223372036854775807 0 0
+PSKPQLondon PSKPQ-LD road range null null null 15 0.2 totalExecutionTime 1280.0 - 1280 1280 1

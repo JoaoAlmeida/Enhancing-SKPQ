@@ -1,0 +1,440 @@
+24	Fri Aug 05 01:02:52 +0000 2011	4b8e7e05f964a520372533e3	{Riverbend Music Center}	{39.05286819972525,-84.4182801246643,Cincinnati,OH,United States}	{Arts & Entertainment,}
+24	Sun Jul 31 00:57:17 +0000 2011	4bd300eb046076b06ceb7471	{Sandusky Harbor Marina}	{41.450543241606184,-82.74277925491333,Sandusky,OH,United States}	{Outdoors & Recreation,}
+24	Sat Jul 30 04:02:06 +0000 2011	4bd300eb046076b06ceb7471	{Sandusky Harbor Marina}	{41.450543241606184,-82.74277925491333,Sandusky,OH,United States}	{Outdoors & Recreation,}
+24	Mon Jul 25 13:33:59 +0000 2011	4e1373c4b0fbfef99ba39bf4	{Barking Fish}	{39.095501156663666,-84.52412094730265,Cincinnati,OH,United States}	{Office,Professional & Other Places,}
+24	Thu Jul 21 02:42:59 +0000 2011	4be63ce8d4f7c9b6129e2620	{aliveOne}	{39.1076493,-84.4976556,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Wed Jul 20 23:53:12 +0000 2011	4b5f0beaf964a520afa329e3	{Bogart's}	{39.12997285558384,-84.50974345207214,Cincinnati,OH,United States}	{Music Venue,Arts & Entertainment,}
+24	Sat Jul 16 18:35:25 +0000 2011	4bdc9bdfccf52d7fb48c786d	{Bag The Moon}	{41.594215047249364,-82.711740732193,Kelleys Island,OH,United States}	{Nightlife Spot,Food,}
+24	Sat Jul 16 17:33:25 +0000 2011	4dceb4f9b0fb25f6e34a77b7	{Seaway Marina}	{41.591197365714514,-82.70441761667857,Kelleys Island,OH,United States}	{Outdoors & Recreation,}
+24	Sat Jul 16 01:16:18 +0000 2011	4bd300eb046076b06ceb7471	{Sandusky Harbor Marina}	{41.450543241606184,-82.74277925491333,Sandusky,OH,United States}	{Outdoors & Recreation,}
+24	Thu Jul 14 00:24:55 +0000 2011	4b8e7e05f964a520372533e3	{Riverbend Music Center}	{39.05286819972525,-84.4182801246643,Cincinnati,OH,United States}	{Arts & Entertainment,}
+24	Wed Jul 13 02:26:11 +0000 2011	4d531ae174f2224bf0412559	{The Drinkery}	{39.10911392131226,-84.51160155307574,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Sat Jul 09 17:56:52 +0000 2011	4e1373c4b0fbfef99ba39bf4	{Barking Fish}	{39.095501156663666,-84.52412094730265,Cincinnati,OH,United States}	{Office,Professional & Other Places,}
+24	Sat Jul 09 14:55:40 +0000 2011	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Thu Jul 07 23:19:04 +0000 2011	4b440dd4f964a520caf025e3	{Virgil's Cafe}	{39.108874153607495,-84.48002725839615,Bellevue,KY,United States}	{Nightlife Spot,Food,}
+24	Wed Jul 06 22:22:51 +0000 2011	4bfea006daf9c9b60bf8f8ef	{Kungfood Chu's AmerAsia}	{39.085240799283795,-84.51064392629961,Covington,KY,United States}	{Food,}
+24	Wed Jul 06 22:22:51 +0000 2011	4bfea006daf9c9b60bf8f8ef	{Kungfood Chu's AmerAsia}	{39.085240799283795,-84.51064392629961,Covington,KY,United States}	{Food,}
+24	Tue Jul 05 20:28:39 +0000 2011	4e1373c4b0fbfef99ba39bf4	{Barking Fish}	{39.095501156663666,-84.52412094730265,Cincinnati,OH,United States}	{Office,Professional & Other Places,}
+24	Sun Jul 03 23:57:38 +0000 2011	4bd300eb046076b06ceb7471	{Sandusky Harbor Marina}	{41.450543241606184,-82.74277925491333,Sandusky,OH,United States}	{Outdoors & Recreation,}
+24	Sun Jul 03 20:12:46 +0000 2011	4c26442a5c5ca59383d345fe	{Sandusky Bay Sand Bar}	{41.491530674761236,-82.71578009106526,Sandusky,OH,United States}	{Outdoors & Recreation,}
+24	Fri Jul 01 15:35:16 +0000 2011	4b48ab11f964a5202e5226e3	{Longworth Hall}	{39.09552995430242,-84.52435076236725,Cincinnati,OH,United States}	{Professional & Other Places,}
+24	Thu Jun 30 02:27:42 +0000 2011	4d8201a07252a1cdf3bba45d	{Holy Grail Tavern and Grille}	{39.097632390101175,-84.5089441537857,Cincinnati,OH,United States}	{Nightlife Spot,Food,}
+24	Wed Jun 29 10:59:22 +0000 2011	4b47c005f964a520193d26e3	{LA Fitness}	{39.10335652628956,-84.48769569396973,Bellevue,KY,United States}	{Shop & Service,}
+24	Wed Jun 29 01:07:34 +0000 2011	4b998be8f964a5208a8235e3	{Great Scott}	{39.058300218738765,-84.26247596740723,Cincinnati,OH,United States}	{Food,}
+24	Tue Jun 28 16:42:51 +0000 2011	4bfea006daf9c9b60bf8f8ef	{Kungfood Chu's AmerAsia}	{39.085240799283795,-84.51064392629961,Covington,KY,United States}	{Food,}
+24	Mon Jun 27 22:43:07 +0000 2011	4b47c005f964a520193d26e3	{LA Fitness}	{39.10335652628956,-84.48769569396973,Bellevue,KY,United States}	{Shop & Service,}
+24	Sun Jun 26 04:30:01 +0000 2011	4bdc9562ccf52d7f7b6f786d	{The Casino}	{41.59356545171425,-82.71104244498599,Kelleys Island,OH,United States}	{Nightlife Spot,Food,}
+24	Sun Jun 26 03:40:28 +0000 2011	4bdc9bdfccf52d7fb48c786d	{Bag The Moon}	{41.594215047249364,-82.711740732193,Kelleys Island,OH,United States}	{Nightlife Spot,Food,}
+24	Sat Jun 25 20:11:32 +0000 2011	4dceb4f9b0fb25f6e34a77b7	{Seaway Marina}	{41.591197365714514,-82.70441761667857,Kelleys Island,OH,United States}	{Outdoors & Recreation,}
+24	Sat Jun 25 14:40:56 +0000 2011	4b362579f964a520833025e3	{Better Half Diner}	{41.45189830566664,-82.72019597430862,Sandusky,OH,United States}	{Food,}
+24	Sat Jun 25 03:21:59 +0000 2011	4bd300eb046076b06ceb7471	{Sandusky Harbor Marina}	{41.450543241606184,-82.74277925491333,Sandusky,OH,United States}	{Outdoors & Recreation,}
+24	Thu Jun 23 22:58:03 +0000 2011	4c72beb0376da093ab37a7c6	{UNheardof Brand}	{39.09910656769965,-84.51850419396365,Cincinnati,OH,United States}	{Shop & Service,Clothing Store,}
+24	Wed Jun 22 00:32:19 +0000 2011	4b48aa4bf964a520155226e3	{Bouquet Restaurant & Wine Bar}	{39.084876,-84.51763,Covington,KY,United States}	{Nightlife Spot,Food,}
+24	Sat Jun 18 05:35:37 +0000 2011	4bd300eb046076b06ceb7471	{Sandusky Harbor Marina}	{41.450543241606184,-82.74277925491333,Sandusky,OH,United States}	{Outdoors & Recreation,}
+24	Fri Jun 17 14:28:14 +0000 2011	4b48ab11f964a5202e5226e3	{Longworth Hall}	{39.09552995430242,-84.52435076236725,Cincinnati,OH,United States}	{Professional & Other Places,}
+24	Tue Jun 14 17:34:14 +0000 2011	4c1258ac7f7f2d7fde14dd68	{PPS}	{39.086521,-84.508941,Covington,KY,United States}	{}
+24	Mon Jun 13 22:29:10 +0000 2011	4b44c1e0f964a52043fb25e3	{Apple Store, Kenwood Towne Centre}	{39.201632,-84.37789,Cincinnati,OH,United States}	{Shop & Service,}
+24	Sat Jun 11 18:54:02 +0000 2011	4dceb4f9b0fb25f6e34a77b7	{Seaway Marina}	{41.591197365714514,-82.70441761667857,Kelleys Island,OH,United States}	{Outdoors & Recreation,}
+24	Thu Jun 02 13:44:17 +0000 2011	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Sun May 29 20:43:32 +0000 2011	4c338eae3896e21eb53bea90	{Kelleys Island Wine Co}	{41.59531040845049,-82.69691185767076,Kelleys Island,OH,United States}	{Food,}
+24	Sun May 29 19:08:47 +0000 2011	4bdc9bdfccf52d7fb48c786d	{Bag The Moon}	{41.594215047249364,-82.711740732193,Kelleys Island,OH,United States}	{Nightlife Spot,Food,}
+24	Fri May 27 21:47:38 +0000 2011	4c0176ba58dbc9284868ee6b	{Put in Bay}	{41.653468846782495,-82.81740919036133,Put in Bay,OH,United States}	{Outdoors & Recreation,}
+24	Fri May 27 15:34:59 +0000 2011	4bd300eb046076b06ceb7471	{Sandusky Harbor Marina}	{41.450543241606184,-82.74277925491333,Sandusky,OH,United States}	{Outdoors & Recreation,}
+24	Fri May 27 03:31:21 +0000 2011	4b4396e8f964a520d4e325e3	{FB's}	{39.1020462473698,-84.51574425984424,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Mon May 23 18:54:30 +0000 2011	4c1258ac7f7f2d7fde14dd68	{PPS}	{39.086521,-84.508941,Covington,KY,United States}	{}
+24	Fri May 20 17:10:38 +0000 2011	4acfbee8f964a520b4d520e3	{Hofbr?uhaus Newport}	{39.09509280631371,-84.49381113052368,Newport,KY,United States}	{Nightlife Spot,Food,}
+24	Fri May 20 00:47:08 +0000 2011	4b9c0f2cf964a520c64536e3	{Shooters Supply}	{38.9762383,-84.54501450061798,Independence,KY,United States}	{Outdoors & Recreation,}
+24	Wed May 18 17:35:50 +0000 2011	4bfea006daf9c9b60bf8f8ef	{Kungfood Chu's AmerAsia}	{39.085240799283795,-84.51064392629961,Covington,KY,United States}	{Food,}
+24	Fri May 13 16:51:16 +0000 2011	4c1258ac7f7f2d7fde14dd68	{PPS}	{39.086521,-84.508941,Covington,KY,United States}	{}
+24	Thu May 12 23:32:05 +0000 2011	4b55ee5ef964a52030f727e3	{The Famous Neon's Unplugged}	{39.10939238460633,-84.5110684633255,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Thu May 12 22:06:03 +0000 2011	4b317901f964a520910725e3	{Nada}	{39.10291110109497,-84.51143592596054,Cincinnati,OH,United States}	{Food,}
+24	Wed May 11 22:01:22 +0000 2011	4c2bceeb2219c9283e34a548	{Party in the Park}	{39.09855038,-84.50144521666667,Cincinnati,OH,United States}	{Outdoors & Recreation,}
+24	Wed May 11 03:37:31 +0000 2011	4b7c72d2f964a5200c942fe3	{Senate Restaurant}	{39.108659,-84.514835,Cincinnati,OH,United States}	{Nightlife Spot,Food,}
+24	Wed May 11 00:34:22 +0000 2011	4c94f855533aa093c363c445	{Christian Moerlein Brewery}	{39.10396884911291,-84.51163739976188,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Wed May 11 00:25:38 +0000 2011	4dc9ca0b2271a5cb223d16b4	{Cincy Fashion Week Kickoff}	{39.113511,-84.515356,Cincinnati,OH,United States}	{}
+24	Tue May 10 17:25:12 +0000 2011	4b6a1599f964a52085c62be3	{Riverside Korean Restaurant}	{39.08550548,-84.510727,Covington,KY,United States}	{Nightlife Spot,Food,}
+24	Tue May 10 11:30:52 +0000 2011	4b47c005f964a520193d26e3	{LA Fitness}	{39.10335652628956,-84.48769569396973,Bellevue,KY,United States}	{Shop & Service,}
+24	Sat May 07 15:16:27 +0000 2011	4c3db5bdb169c9b6e15a4768	{Audi Of Beechmont}	{39.072285890579224,-84.3141782283783,Cincinnati,OH,United States}	{Shop & Service,}
+24	Sat May 07 02:46:04 +0000 2011	4bc1026d4cdfc9b6baf69321	{Andy's Mediterranean Grille}	{39.120739633333336,-84.49342356666666,Cincinnati,OH,United States}	{Food,}
+24	Fri May 06 22:40:27 +0000 2011	4b512ba6f964a520c64527e3	{Lexus RiverCenter}	{39.087169549791966,-84.52193140983582,Covington,KY,United States}	{Shop & Service,}
+24	Thu May 05 16:29:12 +0000 2011	4b45feddf964a520ce1326e3	{Don Pablo's Mexican Kitchen}	{39.10056632814346,-84.49127644300461,Newport,KY,United States}	{Food,}
+24	Mon May 02 20:51:18 +0000 2011	4c1258ac7f7f2d7fde14dd68	{PPS}	{39.086521,-84.508941,Covington,KY,United States}	{}
+24	Sat Apr 30 12:54:34 +0000 2011	4bd300eb046076b06ceb7471	{Sandusky Harbor Marina}	{41.450543241606184,-82.74277925491333,Sandusky,OH,United States}	{Outdoors & Recreation,}
+24	Thu Apr 28 21:18:06 +0000 2011	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Tue Apr 26 13:58:49 +0000 2011	4c0422cef56c2d7fdeda1d66	{Snap Advertising}	{39.10372701799893,-84.51255977153777,Cincinnati,OH,United States}	{Professional & Other Places,}
+24	Tue Apr 26 01:22:20 +0000 2011	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Mon Apr 25 13:14:54 +0000 2011	4c1258ac7f7f2d7fde14dd68	{PPS}	{39.086521,-84.508941,Covington,KY,United States}	{}
+24	Sun Apr 24 02:50:57 +0000 2011	4d531ae174f2224bf0412559	{The Drinkery}	{39.10911392131226,-84.51160155307574,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Sat Apr 23 23:38:39 +0000 2011	4bb27d4ea32876b093ac00fe	{Memorial Hall}	{39.10875282379206,-84.51820209251949,Cincinnati,OH,United States}	{Arts & Entertainment,}
+24	Sat Apr 23 22:18:59 +0000 2011	4b7c72d2f964a5200c942fe3	{Senate Restaurant}	{39.108659,-84.514835,Cincinnati,OH,United States}	{Nightlife Spot,Food,}
+24	Sat Apr 23 13:47:15 +0000 2011	4c3db5bdb169c9b6e15a4768	{Audi Of Beechmont}	{39.072285890579224,-84.3141782283783,Cincinnati,OH,United States}	{Shop & Service,}
+24	Tue Apr 19 16:54:30 +0000 2011	4c1258ac7f7f2d7fde14dd68	{PPS}	{39.086521,-84.508941,Covington,KY,United States}	{}
+24	Sat Apr 09 15:16:10 +0000 2011	4bd300eb046076b06ceb7471	{Sandusky Harbor Marina}	{41.450543241606184,-82.74277925491333,Sandusky,OH,United States}	{Outdoors & Recreation,}
+24	Wed Apr 06 23:29:14 +0000 2011	4b437ce2f964a52084e125e3	{Cincinnati State Technical and Community College}	{39.150730356224635,-84.53657627105713,Cincinnati,OH,United States}	{College & University,}
+24	Sat Apr 02 00:03:21 +0000 2011	4bfea006daf9c9b60bf8f8ef	{Kungfood Chu's AmerAsia}	{39.085240799283795,-84.51064392629961,Covington,KY,United States}	{Food,}
+24	Tue Mar 29 13:03:54 +0000 2011	4c0422cef56c2d7fdeda1d66	{Snap Advertising}	{39.10372701799893,-84.51255977153777,Cincinnati,OH,United States}	{Professional & Other Places,}
+24	Sun Mar 20 00:26:41 +0000 2011	4b9b02fcf964a52097eb35e3	{Leaping Lizard Gallery}	{39.08182564,-84.51735521,Covington,KY,United States}	{Nightlife Spot,}
+24	Sat Mar 19 02:13:21 +0000 2011	4d531ae174f2224bf0412559	{The Drinkery}	{39.10911392131226,-84.51160155307574,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Sat Mar 19 00:14:47 +0000 2011	4b86ae7af964a520f69531e3	{Lexus Kings Automall}	{39.29811817163754,-84.30285345479071,Loveland,OH,United States}	{Shop & Service,}
+24	Fri Mar 18 01:53:36 +0000 2011	4c1258ac7f7f2d7fde14dd68	{PPS}	{39.086521,-84.508941,Covington,KY,United States}	{}
+24	Tue Mar 15 11:57:23 +0000 2011	4b47c005f964a520193d26e3	{LA Fitness}	{39.10335652628956,-84.48769569396973,Bellevue,KY,United States}	{Shop & Service,}
+24	Sun Mar 13 17:28:15 +0000 2011	4b363f41f964a5208f3125e3	{Loveless Cafe}	{36.03501914339347,-86.97203278541565,Nashville,TN,United States}	{Food,}
+24	Sun Mar 13 07:28:26 +0000 2011	4cfdfa2720fe3704909c62f8	{Bar No. 308}	{36.181057689194766,-86.74925632170087,Nashville,TN,United States}	{Nightlife Spot,Arts & Entertainment,}
+24	Sun Mar 13 03:23:26 +0000 2011	4b058669f964a520f06022e3	{Tootsie's World Famous Orchid Lounge}	{36.160873274132314,-86.77833139110174,Nashville,TN,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+24	Sun Mar 13 00:11:38 +0000 2011	4b16ef95f964a520c0bf23e3	{Ruth's Chris Steak House}	{36.15045472405867,-86.80126190185547,Nashville,TN,United States}	{Food,}
+24	Wed Mar 09 03:23:08 +0000 2011	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Mon Mar 07 16:27:25 +0000 2011	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Sun Mar 06 02:55:04 +0000 2011	4b440735f964a5206cf025e3	{Grammers Bar}	{39.112314,-84.51386868953705,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Sun Mar 06 00:56:49 +0000 2011	4b919a94f964a5202cc933e3	{Bockfest Hall}	{39.11350740997591,-84.51509906158716,Cincinnati,OH,United States}	{Nightlife Spot,Food,}
+24	Fri Mar 04 23:23:20 +0000 2011	4b440735f964a5206cf025e3	{Grammers Bar}	{39.112314,-84.51386868953705,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Wed Feb 23 15:13:19 +0000 2011	4c1258ac7f7f2d7fde14dd68	{PPS}	{39.086521,-84.508941,Covington,KY,United States}	{}
+24	Wed Feb 23 04:06:55 +0000 2011	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Sun Feb 20 19:07:26 +0000 2011	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Sat Feb 19 23:39:32 +0000 2011	4bd37f2d41b9ef3bb25c00e6	{York Street Cafe}	{39.15145526557895,-84.58379807359557,,,United States}	{Food,}
+24	Thu Feb 17 00:26:15 +0000 2011	4b48a9e2f964a520045226e3	{Chez Nora}	{39.084378,-84.517521,Covington,KY,United States}	{Food,}
+24	Wed Feb 16 12:43:39 +0000 2011	4b47c005f964a520193d26e3	{LA Fitness}	{39.10335652628956,-84.48769569396973,Bellevue,KY,United States}	{Shop & Service,}
+24	Tue Feb 15 19:57:25 +0000 2011	4b731eccf964a520999c2de3	{Bandy Carroll Hellige}	{38.25117665806768,-85.7559775596619,Louisville,KY,United States}	{Professional & Other Places,}
+24	Mon Feb 14 23:07:04 +0000 2011	4c18c685838020a11d9ae461	{Gateway Community & Technical College ?? Covington Campus}	{39.07361093090035,-84.52569723129272,Covington,KY,United States}	{College & University,}
+24	Mon Feb 14 03:22:23 +0000 2011	4babdf13f964a520ded03ae3	{Dillonvale IGA}	{39.20938894,-84.402597,Cincinnati,OH,United States}	{Shop & Service,Food & Drink Shop,}
+24	Fri Feb 11 12:46:12 +0000 2011	4b47c005f964a520193d26e3	{LA Fitness}	{39.10335652628956,-84.48769569396973,Bellevue,KY,United States}	{Shop & Service,}
+24	Tue Feb 08 22:57:23 +0000 2011	4b437ce2f964a52084e125e3	{Cincinnati State Technical and Community College}	{39.150730356224635,-84.53657627105713,Cincinnati,OH,United States}	{College & University,}
+24	Mon Feb 07 22:59:14 +0000 2011	4c18c685838020a11d9ae461	{Gateway Community & Technical College ?? Covington Campus}	{39.07361093090035,-84.52569723129272,Covington,KY,United States}	{College & University,}
+24	Mon Feb 07 11:22:52 +0000 2011	4b47c005f964a520193d26e3	{LA Fitness}	{39.10335652628956,-84.48769569396973,Bellevue,KY,United States}	{Shop & Service,}
+24	Sun Feb 06 18:31:43 +0000 2011	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Sun Feb 06 03:54:32 +0000 2011	4c9f878319e4236a29bb5989	{The Sandbar}	{39.08545029501522,-84.42714204445346,Cincinnati,OH,United States}	{Nightlife Spot,Arts & Entertainment,}
+24	Wed Feb 02 20:41:37 +0000 2011	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Wed Feb 02 13:46:58 +0000 2011	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Tue Feb 01 15:16:15 +0000 2011	4c0422cef56c2d7fdeda1d66	{Snap Advertising}	{39.10372701799893,-84.51255977153777,Cincinnati,OH,United States}	{Professional & Other Places,}
+24	Sun Jan 30 23:13:49 +0000 2011	4b440dd4f964a520caf025e3	{Virgil's Cafe}	{39.108874153607495,-84.48002725839615,Bellevue,KY,United States}	{Nightlife Spot,Food,}
+24	Sun Jan 30 16:27:32 +0000 2011	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Sun Jan 30 00:56:23 +0000 2011	4b9b02fcf964a52097eb35e3	{Leaping Lizard Gallery}	{39.08182564,-84.51735521,Covington,KY,United States}	{Nightlife Spot,}
+24	Sat Jan 29 05:19:37 +0000 2011	4b53c2b8f964a5208faa27e3	{O'Malleys in the Alley}	{39.09914345904277,-84.51359357120674,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Sat Jan 29 01:49:57 +0000 2011	4b4502d7f964a520390126e3	{Molly Malone's Irish Pub & Restaurant}	{39.087569,-84.508634,Covington,KY,United States}	{Nightlife Spot,Arts & Entertainment,}
+24	Fri Jan 28 12:52:27 +0000 2011	4b47c005f964a520193d26e3	{LA Fitness}	{39.10335652628956,-84.48769569396973,Bellevue,KY,United States}	{Shop & Service,}
+24	Sun Jan 23 01:30:33 +0000 2011	4b44dae2f964a52046fe25e3	{Tina's}	{39.09917744606662,-84.51900598612065,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Sun Jan 23 00:19:44 +0000 2011	4b55ee5ef964a52030f727e3	{The Famous Neon's Unplugged}	{39.10939238460633,-84.5110684633255,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Thu Jan 20 00:53:00 +0000 2011	4d14fe78cc216ea87a7c60d3	{The Wine Guys Bistro}	{39.14749063102982,-84.44329414467617,Cincinnati,OH,United States}	{Nightlife Spot,Shop & Service,Food,Food & Drink Shop,}
+24	Wed Jan 19 19:04:46 +0000 2011	4c1258ac7f7f2d7fde14dd68	{PPS}	{39.086521,-84.508941,Covington,KY,United States}	{}
+24	Wed Jan 19 12:28:50 +0000 2011	4b47c005f964a520193d26e3	{LA Fitness}	{39.10335652628956,-84.48769569396973,Bellevue,KY,United States}	{Shop & Service,}
+24	Sun Jan 16 17:38:37 +0000 2011	4b4f2e45f964a52065fc26e3	{National Underground Railroad Freedom Center}	{39.09761157421241,-84.51136350631714,Cincinnati,OH,United States}	{Museum,Arts & Entertainment,}
+24	Sat Jan 15 16:02:05 +0000 2011	4bd300eb046076b06ceb7471	{Sandusky Harbor Marina}	{41.450543241606184,-82.74277925491333,Sandusky,OH,United States}	{Outdoors & Recreation,}
+24	Fri Jan 14 17:47:20 +0000 2011	4c1258ac7f7f2d7fde14dd68	{PPS}	{39.086521,-84.508941,Covington,KY,United States}	{}
+24	Fri Jan 14 13:13:29 +0000 2011	4b47c005f964a520193d26e3	{LA Fitness}	{39.10335652628956,-84.48769569396973,Bellevue,KY,United States}	{Shop & Service,}
+24	Thu Jan 13 18:13:12 +0000 2011	4b6a1599f964a52085c62be3	{Riverside Korean Restaurant}	{39.08550548,-84.510727,Covington,KY,United States}	{Nightlife Spot,Food,}
+24	Thu Jan 13 01:10:51 +0000 2011	4bfea006daf9c9b60bf8f8ef	{Kungfood Chu's AmerAsia}	{39.085240799283795,-84.51064392629961,Covington,KY,United States}	{Food,}
+24	Wed Jan 12 15:07:14 +0000 2011	4c0422cef56c2d7fdeda1d66	{Snap Advertising}	{39.10372701799893,-84.51255977153777,Cincinnati,OH,United States}	{Professional & Other Places,}
+24	Wed Jan 12 15:07:14 +0000 2011	4c0422cef56c2d7fdeda1d66	{Snap Advertising}	{39.10372701799893,-84.51255977153777,Cincinnati,OH,United States}	{Professional & Other Places,}
+24	Sun Jan 09 19:37:55 +0000 2011	4c0a65057e3fc928b776f382	{Kerry Ford}	{39.28758656258474,-84.47385813920567,Hamilton,OH,United States}	{Shop & Service,}
+24	Sun Jan 09 19:37:55 +0000 2011	4c0a65057e3fc928b776f382	{Kerry Ford}	{39.28758656258474,-84.47385813920567,Hamilton,OH,United States}	{Shop & Service,}
+24	Sat Jan 08 21:10:31 +0000 2011	4b7c75c4f964a520d0942fe3	{Five Guys}	{39.14770594203337,-84.44787561893463,Cincinnati,OH,United States}	{Food,}
+24	Fri Jan 07 17:11:08 +0000 2011	4c0422cef56c2d7fdeda1d66	{Snap Advertising}	{39.10372701799893,-84.51255977153777,Cincinnati,OH,United States}	{Professional & Other Places,}
+24	Fri Jan 07 15:23:10 +0000 2011	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Fri Jan 07 14:58:28 +0000 2011	4c1258ac7f7f2d7fde14dd68	{PPS}	{39.086521,-84.508941,Covington,KY,United States}	{}
+24	Fri Jan 07 02:37:54 +0000 2011	4b48aa4bf964a520155226e3	{Bouquet Restaurant & Wine Bar}	{39.084876,-84.51763,Covington,KY,United States}	{Nightlife Spot,Food,}
+24	Tue Jan 04 22:47:26 +0000 2011	4b437ce2f964a52084e125e3	{Cincinnati State Technical and Community College}	{39.150730356224635,-84.53657627105713,Cincinnati,OH,United States}	{College & University,}
+24	Sat Jan 01 00:12:06 +0000 2011	4b55ee5ef964a52030f727e3	{The Famous Neon's Unplugged}	{39.10939238460633,-84.5110684633255,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Mon Dec 27 18:30:24 +0000 2010	4c1258ac7f7f2d7fde14dd68	{PPS}	{39.086521,-84.508941,Covington,KY,United States}	{}
+24	Fri Dec 24 06:19:32 +0000 2010	4cf535dfe94254810ded7ec5	{Lunar Lounge}	{39.10040917457118,-84.51629877090454,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Wed Dec 22 12:50:42 +0000 2010	4b47c005f964a520193d26e3	{LA Fitness}	{39.10335652628956,-84.48769569396973,Bellevue,KY,United States}	{Shop & Service,}
+24	Tue Dec 21 04:29:33 +0000 2010	4b435913f964a520c7de25e3	{Habits Cafe}	{39.15165017208037,-84.43288552301854,Cincinnati,OH,United States}	{Nightlife Spot,Food,}
+24	Tue Dec 21 02:48:32 +0000 2010	4b440264f964a52017f025e3	{20th Century Theater}	{39.15119699678812,-84.43293680154483,Cincinnati,OH,United States}	{Music Venue,Arts & Entertainment,}
+24	Sat Dec 18 18:05:35 +0000 2010	4c1258ac7f7f2d7fde14dd68	{PPS}	{39.086521,-84.508941,Covington,KY,United States}	{}
+24	Fri Dec 17 02:45:32 +0000 2010	4ced419062ef6dcbdc3df159	{Knickers XY}	{39.139451677727315,-84.442519970911,Cincinnati,OH,United States}	{Shop & Service,Clothing Store,}
+24	Tue Dec 14 23:02:45 +0000 2010	4b437ce2f964a52084e125e3	{Cincinnati State Technical and Community College}	{39.150730356224635,-84.53657627105713,Cincinnati,OH,United States}	{College & University,}
+24	Sat Dec 11 14:34:14 +0000 2010	4b43c221f964a520c6e825e3	{Findlay Market}	{39.11539859116258,-84.51907217502594,Cincinnati,OH,United States}	{Shop & Service,Food & Drink Shop,}
+24	Fri Dec 10 23:38:59 +0000 2010	4bfea006daf9c9b60bf8f8ef	{Kungfood Chu's AmerAsia}	{39.085240799283795,-84.51064392629961,Covington,KY,United States}	{Food,}
+24	Fri Dec 10 02:59:02 +0000 2010	4c1258ac7f7f2d7fde14dd68	{PPS}	{39.086521,-84.508941,Covington,KY,United States}	{}
+24	Thu Dec 09 22:58:51 +0000 2010	4b437ce2f964a52084e125e3	{Cincinnati State Technical and Community College}	{39.150730356224635,-84.53657627105713,Cincinnati,OH,United States}	{College & University,}
+24	Wed Dec 08 17:49:58 +0000 2010	4b6a1599f964a52085c62be3	{Riverside Korean Restaurant}	{39.08550548,-84.510727,Covington,KY,United States}	{Nightlife Spot,Food,}
+24	Wed Dec 08 17:49:58 +0000 2010	4b6a1599f964a52085c62be3	{Riverside Korean Restaurant}	{39.08550548,-84.510727,Covington,KY,United States}	{Nightlife Spot,Food,}
+24	Wed Dec 08 14:00:33 +0000 2010	4c1258ac7f7f2d7fde14dd68	{PPS}	{39.086521,-84.508941,Covington,KY,United States}	{}
+24	Tue Dec 07 23:15:15 +0000 2010	4b437ce2f964a52084e125e3	{Cincinnati State Technical and Community College}	{39.150730356224635,-84.53657627105713,Cincinnati,OH,United States}	{College & University,}
+24	Tue Dec 07 23:15:15 +0000 2010	4b437ce2f964a52084e125e3	{Cincinnati State Technical and Community College}	{39.150730356224635,-84.53657627105713,Cincinnati,OH,United States}	{College & University,}
+24	Mon Dec 06 14:50:21 +0000 2010	4c1258ac7f7f2d7fde14dd68	{PPS}	{39.086521,-84.508941,Covington,KY,United States}	{}
+24	Sun Dec 05 16:59:55 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Sun Dec 05 02:44:48 +0000 2010	4bd5e07129eb9c74ee1c94e1	{Vintage Wine Bar Kitchen Market}	{39.084584983333336,-84.71117825,Hebron,KY,United States}	{Nightlife Spot,Food,}
+24	Sun Dec 05 01:08:55 +0000 2010	4b6e2358f964a52016ad2ce3	{Abuelo's Mexican Food Embassy}	{39.02554152407337,-84.57864232805218,Crestview Hills,KY,United States}	{Nightlife Spot,Food,}
+24	Sat Dec 04 18:10:34 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Sat Dec 04 01:53:18 +0000 2010	4ce2c250d58c60fc65c9a76f	{Scene Ultra Lounge}	{39.10366457571243,-84.5120233297348,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Sat Dec 04 01:16:15 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Fri Dec 03 05:04:58 +0000 2010	4b732e21f964a52040a02de3	{FedEx Office Print & Ship Center}	{39.100941,-84.51236,Cincinnati,OH,United States}	{Shop & Service,}
+24	Wed Dec 01 23:28:43 +0000 2010	4c1258ac7f7f2d7fde14dd68	{PPS}	{39.086521,-84.508941,Covington,KY,United States}	{}
+24	Wed Dec 01 23:28:43 +0000 2010	4c1258ac7f7f2d7fde14dd68	{PPS}	{39.086521,-84.508941,Covington,KY,United States}	{}
+24	Tue Nov 30 21:11:36 +0000 2010	4b554a1af964a520e5e027e3	{Hale Justis Lofts}	{39.1036902786945,-84.51697574938436,,OH,United States}	{Residence,}
+24	Mon Nov 29 22:52:06 +0000 2010	4bb2549d2397b71391de36b3	{Avenue Lounge & Patio}	{39.08664049767053,-84.51123796401336,Covington,KY,United States}	{Nightlife Spot,}
+24	Mon Nov 29 14:38:56 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Fri Nov 26 22:34:13 +0000 2010	4b43c24cf964a520cde825e3	{Palomino}	{39.10146684606504,-84.51310709491285,Cincinnati,OH,United States}	{Food,}
+24	Tue Nov 23 23:10:05 +0000 2010	4b437ce2f964a52084e125e3	{Cincinnati State Technical and Community College}	{39.150730356224635,-84.53657627105713,Cincinnati,OH,United States}	{College & University,}
+24	Sun Nov 21 04:19:13 +0000 2010	4b438ed9f964a5202ce325e3	{Hamburger Mary's}	{39.10581886768341,-84.514289,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Sat Nov 20 13:28:31 +0000 2010	4b43c221f964a520c6e825e3	{Findlay Market}	{39.11539859116258,-84.51907217502594,Cincinnati,OH,United States}	{Shop & Service,Food & Drink Shop,}
+24	Fri Nov 19 02:08:21 +0000 2010	4c7da2e8b33a224b3acfd881	{Dexter and Sammy's house}	{39.09083097277238,-84.46451841387275,Fort Thomas,KY,United States}	{Residence,}
+24	Thu Nov 18 03:09:36 +0000 2010	4b80d243f964a520d28d30e3	{Golden Lions Lounge}	{39.14384722709656,-84.52104,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Wed Nov 17 03:02:34 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Tue Nov 16 22:46:34 +0000 2010	4b437ce2f964a52084e125e3	{Cincinnati State Technical and Community College}	{39.150730356224635,-84.53657627105713,Cincinnati,OH,United States}	{College & University,}
+24	Tue Nov 16 17:59:06 +0000 2010	4c09617b7e3fc928b0e0f182	{Eros Salon}	{39.08361100606262,-84.51268718579408,Covington,KY,United States}	{}
+24	Sun Nov 14 01:37:15 +0000 2010	4b620350f964a52086302ae3	{SouthShore}	{39.10053659371561,-84.49080676198314,Newport,KY,United States}	{Professional & Other Places,}
+24	Sat Nov 13 23:53:11 +0000 2010	4b886d93f964a52004f731e3	{Aoi Japanese Cuisine}	{39.09442250746746,-84.49648261070251,Newport,KY,United States}	{Food,}
+24	Sat Nov 13 19:02:46 +0000 2010	4cdee0cc7e2e236af610821b	{Strictly Sail}	{39.258912436376086,-84.37372645621929,Blue Ash,OH,United States}	{Shop & Service,}
+24	Sat Nov 13 13:06:51 +0000 2010	4b43c221f964a520c6e825e3	{Findlay Market}	{39.11539859116258,-84.51907217502594,Cincinnati,OH,United States}	{Shop & Service,Food & Drink Shop,}
+24	Sat Nov 13 13:06:51 +0000 2010	4b43c221f964a520c6e825e3	{Findlay Market}	{39.11539859116258,-84.51907217502594,Cincinnati,OH,United States}	{Shop & Service,Food & Drink Shop,}
+24	Sat Nov 13 04:34:39 +0000 2010	4c5a9ff92091a593ffb85fd0	{Bartini's Martini Lounge}	{39.10276204058608,-84.511439,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Sat Nov 13 03:22:32 +0000 2010	4b43c36bf964a520f7e825e3	{Mynt Martini}	{39.10180793312251,-84.51217889785767,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Fri Nov 12 22:34:47 +0000 2010	4b92ff3af964a520842d34e3	{Jeff Ruby's Steakhouse}	{39.10388049265168,-84.51178590722678,Cincinnati,OH,United States}	{Food,}
+24	Fri Nov 12 05:16:03 +0000 2010	4b440735f964a5206cf025e3	{Grammers Bar}	{39.112314,-84.51386868953705,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Fri Nov 12 04:45:25 +0000 2010	4c6c144a6af58cfa33c08517	{MOTR Pub}	{39.110965785496,-84.51220035552979,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Wed Nov 10 18:27:03 +0000 2010	4b6a1599f964a52085c62be3	{Riverside Korean Restaurant}	{39.08550548,-84.510727,Covington,KY,United States}	{Nightlife Spot,Food,}
+24	Sun Nov 07 02:52:00 +0000 2010	4daf5d8204373a986f5474d4	{Mt. Adams Bar & Grill}	{39.10937775605089,-84.49744551050397,Cincinnati,OH,United States}	{Nightlife Spot,Food,}
+24	Sat Nov 06 23:50:16 +0000 2010	4b48b497f964a520785326e3	{Montgomery Inn Boathouse}	{39.10414222549809,-84.49454627338567,Cincinnati,OH,United States}	{Food,}
+24	Sat Nov 06 12:17:43 +0000 2010	4b43c221f964a520c6e825e3	{Findlay Market}	{39.11539859116258,-84.51907217502594,Cincinnati,OH,United States}	{Shop & Service,Food & Drink Shop,}
+24	Sat Nov 06 04:03:27 +0000 2010	4cd4d38b67adf04df1d42991	{Lovett's Lounge}	{39.118437,-84.517947,Cincinnati,OH,United States}	{}
+24	Sat Nov 06 03:28:07 +0000 2010	4b440735f964a5206cf025e3	{Grammers Bar}	{39.112314,-84.51386868953705,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Sat Nov 06 02:59:14 +0000 2010	4b55ee5ef964a52030f727e3	{The Famous Neon's Unplugged}	{39.10939238460633,-84.5110684633255,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Sat Nov 06 00:18:23 +0000 2010	4b11cfeaf964a520328523e3	{Loveland, Ohio}	{39.236555996081876,-84.29790422362942,Cincinnati,OH,United States}	{Outdoors & Recreation,}
+24	Fri Nov 05 20:57:00 +0000 2010	4ad78eb5f964a520210c21e3	{Nicholson's Tavern & Pub}	{39.10332322356864,-84.51202869415283,Cincinnati,OH,United States}	{Nightlife Spot,Food,}
+24	Fri Nov 05 01:28:49 +0000 2010	4b549ac9f964a52043c227e3	{Zazou Grill and Pub}	{39.08441201254727,-84.5188011735174,Covington,KY,United States}	{Nightlife Spot,}
+24	Wed Nov 03 02:46:22 +0000 2010	4cc771353477b60c7010766a	{ResorT}	{39.148028,-84.52104,Cincinnati,OH,United States}	{}
+24	Tue Nov 02 21:58:27 +0000 2010	4b437ce2f964a52084e125e3	{Cincinnati State Technical and Community College}	{39.150730356224635,-84.53657627105713,Cincinnati,OH,United States}	{College & University,}
+24	Tue Nov 02 15:34:47 +0000 2010	4c62ab69de1b2d7f6ac0e270	{U.S. Bank Northern Kentucky/Cincinnati In-Store District Offices}	{39.08471254,-84.51026916503906,Covington,KY,United States}	{Shop & Service,}
+24	Tue Nov 02 15:16:28 +0000 2010	4cceeeb0dd919eb0b401149e	{Voting at STANDARD CLUB}	{39.077899,-84.522452,Covington,KY,United States}	{Professional & Other Places,}
+24	Mon Nov 01 20:43:22 +0000 2010	4b7f03cef964a520761030e3	{Cincy Chic}	{39.10987,-84.51276898384094,Cincinnati,OH,United States}	{Professional & Other Places,}
+24	Mon Nov 01 00:56:18 +0000 2010	4b4ccbfcf964a52044bf26e3	{Esquire Theatre}	{39.14384514115552,-84.52025532740694,Cincinnati,OH,United States}	{Arts & Entertainment,Movie Theater,}
+24	Sun Oct 31 16:18:04 +0000 2010	4b48a998f964a520fa5126e3	{Cock & Bull English Pub}	{39.08419,-84.51761,Covington,KY,United States}	{Nightlife Spot,Arts & Entertainment,}
+24	Sat Oct 30 12:59:54 +0000 2010	4b43c221f964a520c6e825e3	{Findlay Market}	{39.11539859116258,-84.51907217502594,Cincinnati,OH,United States}	{Shop & Service,Food & Drink Shop,}
+24	Sat Oct 30 01:04:32 +0000 2010	4b5d8b3cf964a520e06029e3	{Kings Island}	{39.34448704314326,-84.2690634727478,Mason,OH,United States}	{Arts & Entertainment,}
+24	Tue Oct 26 13:34:20 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Sun Oct 24 15:34:12 +0000 2010	4bd300eb046076b06ceb7471	{Sandusky Harbor Marina}	{41.450543241606184,-82.74277925491333,Sandusky,OH,United States}	{Outdoors & Recreation,}
+24	Sat Oct 23 12:06:30 +0000 2010	4b43c221f964a520c6e825e3	{Findlay Market}	{39.11539859116258,-84.51907217502594,Cincinnati,OH,United States}	{Shop & Service,Food & Drink Shop,}
+24	Fri Oct 22 22:57:33 +0000 2010	4b4ccbfcf964a52044bf26e3	{Esquire Theatre}	{39.14384514115552,-84.52025532740694,Cincinnati,OH,United States}	{Arts & Entertainment,Movie Theater,}
+24	Wed Oct 20 15:20:15 +0000 2010	4b8a9fedf964a520df7532e3	{Duke Energy Convention Center}	{39.10094203824408,-84.51700687408447,Cincinnati,OH,United States}	{Professional & Other Places,}
+24	Wed Oct 20 05:05:04 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Tue Oct 19 14:21:37 +0000 2010	4b59a794f964a5200d9128e3	{Cincinnati Dental Services}	{39.1267899,-84.50715234,Cincinnati,OH,United States}	{Medical Center,Professional & Other Places,}
+24	Sat Oct 16 12:14:11 +0000 2010	4b43c221f964a520c6e825e3	{Findlay Market}	{39.11539859116258,-84.51907217502594,Cincinnati,OH,United States}	{Shop & Service,Food & Drink Shop,}
+24	Sat Oct 16 02:44:21 +0000 2010	4b9198c4f964a52089c833e3	{Jack Pott's Tavern}	{39.10898446012325,-84.51153516769409,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Fri Oct 15 21:58:04 +0000 2010	4bb27d4ea32876b093ac00fe	{Memorial Hall}	{39.10875282379206,-84.51820209251949,Cincinnati,OH,United States}	{Arts & Entertainment,}
+24	Tue Oct 12 21:53:53 +0000 2010	4b437ce2f964a52084e125e3	{Cincinnati State Technical and Community College}	{39.150730356224635,-84.53657627105713,Cincinnati,OH,United States}	{College & University,}
+24	Tue Oct 12 00:56:17 +0000 2010	4b4939b1f964a520a36a26e3	{El Pueblo}	{39.227888,-84.39169,Blue Ash,OH,United States}	{Food,}
+24	Sun Oct 10 17:08:27 +0000 2010	4c09617b7e3fc928b0e0f182	{Eros Salon}	{39.08361100606262,-84.51268718579408,Covington,KY,United States}	{}
+24	Sat Oct 09 16:27:55 +0000 2010	4c28d67397d00f47ac7740ea	{Ohio Renaissance Festival}	{39.50145787405555,-83.98738861083984,Wilmington,OH,United States}	{Arts & Entertainment,}
+24	Sat Oct 09 12:13:02 +0000 2010	4b43c221f964a520c6e825e3	{Findlay Market}	{39.11539859116258,-84.51907217502594,Cincinnati,OH,United States}	{Shop & Service,Food & Drink Shop,}
+24	Sat Oct 09 02:12:36 +0000 2010	4bdb9849c79cc92831b883e9	{Buffalo Harry's}	{39.174752633333334,-84.27507641666666,Milford,OH,United States}	{Nightlife Spot,Arts & Entertainment,}
+24	Wed Oct 06 23:27:26 +0000 2010	4bb20d74f964a520e6b43ce3	{Star Lanes on the Levee}	{39.09466398232022,-84.49602127075195,Newport,KY,United States}	{Nightlife Spot,Arts & Entertainment,}
+24	Tue Oct 05 21:42:38 +0000 2010	4b437ce2f964a52084e125e3	{Cincinnati State Technical and Community College}	{39.150730356224635,-84.53657627105713,Cincinnati,OH,United States}	{College & University,}
+24	Tue Oct 05 21:42:20 +0000 2010	4b437ce2f964a52084e125e3	{Cincinnati State Technical and Community College}	{39.150730356224635,-84.53657627105713,Cincinnati,OH,United States}	{College & University,}
+24	Fri Oct 01 22:59:09 +0000 2010	4bd300eb046076b06ceb7471	{Sandusky Harbor Marina}	{41.450543241606184,-82.74277925491333,Sandusky,OH,United States}	{Outdoors & Recreation,}
+24	Sat Sep 25 14:12:58 +0000 2010	4b43c221f964a520c6e825e3	{Findlay Market}	{39.11539859116258,-84.51907217502594,Cincinnati,OH,United States}	{Shop & Service,Food & Drink Shop,}
+24	Fri Sep 24 22:50:25 +0000 2010	4b55ee5ef964a52030f727e3	{The Famous Neon's Unplugged}	{39.10939238460633,-84.5110684633255,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Fri Sep 24 17:51:10 +0000 2010	4c9b956a78ffa09311797675	{Weston Art Gallery}	{39.10399636667393,-84.51185247941581,Cincinnati,OH,United States}	{Arts & Entertainment,}
+24	Fri Sep 24 12:48:33 +0000 2010	4be04e4d98f2a59396b3c15a	{2010 Digital Non-Conference #dignc.}	{39.10069642189522,-84.51585352420807,Cincinnati,OH,United States}	{Professional & Other Places,}
+24	Tue Sep 21 21:57:16 +0000 2010	4b437ce2f964a52084e125e3	{Cincinnati State Technical and Community College}	{39.150730356224635,-84.53657627105713,Cincinnati,OH,United States}	{College & University,}
+24	Sun Sep 19 16:58:19 +0000 2010	4bd300eb046076b06ceb7471	{Sandusky Harbor Marina}	{41.450543241606184,-82.74277925491333,Sandusky,OH,United States}	{Outdoors & Recreation,}
+24	Sun Sep 19 15:43:33 +0000 2010	4b5a3506f964a5203bb428e3	{Dianna's Deli And Restaurant}	{41.43068693462233,-82.68575183055016,Sandusky,OH,United States}	{Food,}
+24	Sat Sep 18 22:50:08 +0000 2010	4bcb649cb6c49c74f01e9291	{The Ok Wok Thai Restaurant}	{41.433678669912226,-82.70910302373402,Sandusky,OH,United States}	{Food,}
+24	Sat Sep 18 18:50:54 +0000 2010	4bd300eb046076b06ceb7471	{Sandusky Harbor Marina}	{41.450543241606184,-82.74277925491333,Sandusky,OH,United States}	{Outdoors & Recreation,}
+24	Sat Sep 18 00:47:36 +0000 2010	4bd300eb046076b06ceb7471	{Sandusky Harbor Marina}	{41.450543241606184,-82.74277925491333,Sandusky,OH,United States}	{Outdoors & Recreation,}
+24	Fri Sep 17 17:48:13 +0000 2010	4b48a998f964a520fa5126e3	{Cock & Bull English Pub}	{39.08419,-84.51761,Covington,KY,United States}	{Nightlife Spot,Arts & Entertainment,}
+24	Thu Sep 16 22:11:13 +0000 2010	4b437ce2f964a52084e125e3	{Cincinnati State Technical and Community College}	{39.150730356224635,-84.53657627105713,Cincinnati,OH,United States}	{College & University,}
+24	Wed Sep 15 21:19:29 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Tue Sep 14 22:02:16 +0000 2010	4b437ce2f964a52084e125e3	{Cincinnati State Technical and Community College}	{39.150730356224635,-84.53657627105713,Cincinnati,OH,United States}	{College & University,}
+24	Mon Sep 13 14:54:39 +0000 2010	4b761d32f964a5209a3d2ee3	{Art Design Consultants}	{39.10232943426941,-84.50125118087351,Cincinnati,OH,United States}	{}
+24	Sun Sep 12 02:08:19 +0000 2010	4b438ed9f964a5202ce325e3	{Hamburger Mary's}	{39.10581886768341,-84.514289,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Sat Sep 11 13:46:48 +0000 2010	4b43c221f964a520c6e825e3	{Findlay Market}	{39.11539859116258,-84.51907217502594,Cincinnati,OH,United States}	{Shop & Service,Food & Drink Shop,}
+24	Thu Sep 09 22:06:48 +0000 2010	4b437ce2f964a52084e125e3	{Cincinnati State Technical and Community College}	{39.150730356224635,-84.53657627105713,Cincinnati,OH,United States}	{College & University,}
+24	Wed Sep 08 23:13:58 +0000 2010	4b440dd4f964a520caf025e3	{Virgil's Cafe}	{39.108874153607495,-84.48002725839615,Bellevue,KY,United States}	{Nightlife Spot,Food,}
+24	Tue Sep 07 23:35:23 +0000 2010	4b437ce2f964a52084e125e3	{Cincinnati State Technical and Community College}	{39.150730356224635,-84.53657627105713,Cincinnati,OH,United States}	{College & University,}
+24	Tue Sep 07 19:45:38 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Mon Sep 06 14:57:27 +0000 2010	4c4b3a2b959220a1bba6460f	{The Reef, at Manhattan Harbour}	{39.11700931626114,-84.46091651916504,Dayton,KY,United States}	{Nightlife Spot,Outdoors & Recreation,}
+24	Sun Sep 05 21:31:21 +0000 2010	4c82f4b688e6199cbe13bbd4	{Riverfest / Cincinnati Bell WEBN Fireworks}	{39.09702872683213,-84.49954032897949,Cincinnati,,United States}	{Arts & Entertainment,}
+24	Sun Sep 05 20:41:28 +0000 2010	4c4b3a2b959220a1bba6460f	{The Reef, at Manhattan Harbour}	{39.11700931626114,-84.46091651916504,Dayton,KY,United States}	{Nightlife Spot,Outdoors & Recreation,}
+24	Sun Sep 05 15:46:38 +0000 2010	4b43814ef964a520dde125e3	{The Comet}	{39.17274596666667,-84.543222,Cincinnati,OH,United States}	{Nightlife Spot,Food,}
+24	Sat Sep 04 17:48:29 +0000 2010	4c4b3a2b959220a1bba6460f	{The Reef, at Manhattan Harbour}	{39.11700931626114,-84.46091651916504,Dayton,KY,United States}	{Nightlife Spot,Outdoors & Recreation,}
+24	Fri Sep 03 23:49:54 +0000 2010	4c4b3a2b959220a1bba6460f	{The Reef, at Manhattan Harbour}	{39.11700931626114,-84.46091651916504,Dayton,KY,United States}	{Nightlife Spot,Outdoors & Recreation,}
+24	Fri Sep 03 17:02:11 +0000 2010	4bfea006daf9c9b60bf8f8ef	{Kungfood Chu's AmerAsia}	{39.085240799283795,-84.51064392629961,Covington,KY,United States}	{Food,}
+24	Fri Sep 03 17:01:03 +0000 2010	4bfea006daf9c9b60bf8f8ef	{Kungfood Chu's AmerAsia}	{39.085240799283795,-84.51064392629961,Covington,KY,United States}	{Food,}
+24	Fri Sep 03 00:29:58 +0000 2010	4b8e7e05f964a520372533e3	{Riverbend Music Center}	{39.05286819972525,-84.4182801246643,Cincinnati,OH,United States}	{Arts & Entertainment,}
+24	Thu Sep 02 22:46:14 +0000 2010	4b96dbfff964a5205be934e3	{Applebee's}	{39.09498039639284,-84.26180005073547,Cincinnati,OH,United States}	{Food,}
+24	Thu Sep 02 16:00:40 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Wed Sep 01 13:54:07 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Mon Aug 30 23:00:28 +0000 2010	4b554a1af964a520e5e027e3	{Hale Justis Lofts}	{39.1036902786945,-84.51697574938436,,OH,United States}	{Residence,}
+24	Mon Aug 30 13:52:54 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Sun Aug 29 18:28:15 +0000 2010	4bd300eb046076b06ceb7471	{Sandusky Harbor Marina}	{41.450543241606184,-82.74277925491333,Sandusky,OH,United States}	{Outdoors & Recreation,}
+24	Sat Aug 28 18:46:40 +0000 2010	4c251ac0a852c928b147e46c	{Middle Bass Island State Park Marina}	{41.67455436130264,-82.81078954093724,Put In Bay,OH,United States}	{Outdoors & Recreation,}
+24	Sat Aug 28 06:29:47 +0000 2010	4bd300eb046076b06ceb7471	{Sandusky Harbor Marina}	{41.450543241606184,-82.74277925491333,Sandusky,OH,United States}	{Outdoors & Recreation,}
+24	Fri Aug 27 22:13:29 +0000 2010	4bfea006daf9c9b60bf8f8ef	{Kungfood Chu's AmerAsia}	{39.085240799283795,-84.51064392629961,Covington,KY,United States}	{Food,}
+24	Fri Aug 27 19:12:35 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Fri Aug 27 17:27:06 +0000 2010	4b48aa72f964a5201a5226e3	{Otto's}	{39.084774,-84.517666,Covington,KY,United States}	{Food,}
+24	Thu Aug 26 23:17:57 +0000 2010	4b144835f964a5207ea023e3	{Mecklenburg Gardens}	{39.132647,-84.50272142887115,Cincinnati,OH,United States}	{Food,}
+24	Thu Aug 26 00:18:12 +0000 2010	4b437ce2f964a52084e125e3	{Cincinnati State Technical and Community College}	{39.150730356224635,-84.53657627105713,Cincinnati,OH,United States}	{College & University,}
+24	Wed Aug 25 02:17:55 +0000 2010	4afb4e2ff964a520c91c22e3	{BlackFinn American Saloon}	{39.103928,-84.51289173333333,Cincinnati,OH,United States}	{Nightlife Spot,Food,}
+24	Sat Aug 21 05:58:11 +0000 2010	4c5a9ff92091a593ffb85fd0	{Bartini's Martini Lounge}	{39.10276204058608,-84.511439,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Sat Aug 21 04:40:05 +0000 2010	4b4528c7f964a5209b0626e3	{Righteous Room}	{39.103771012883364,-84.51196197929933,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Fri Aug 20 17:23:36 +0000 2010	4b55f55ff964a520def827e3	{Bangkok Express}	{39.10626901500098,-84.51459211508794,Cincinnati,OH,United States}	{Food,}
+24	Fri Aug 20 14:28:33 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Thu Aug 19 20:36:09 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Wed Aug 18 23:17:10 +0000 2010	4c2bceeb2219c9283e34a548	{Party in the Park}	{39.09855038,-84.50144521666667,Cincinnati,OH,United States}	{Outdoors & Recreation,}
+24	Wed Aug 18 22:57:02 +0000 2010	4b47c725f964a520563e26e3	{AMC Newport On The Levee 20}	{39.09504700970091,-84.49638605117798,Newport,KY,United States}	{Arts & Entertainment,Movie Theater,}
+24	Wed Aug 18 14:31:48 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Tue Aug 17 15:43:21 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Fri Aug 13 14:16:34 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Thu Aug 12 13:47:27 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Thu Aug 12 13:02:19 +0000 2010	4b47c005f964a520193d26e3	{LA Fitness}	{39.10335652628956,-84.48769569396973,Bellevue,KY,United States}	{Shop & Service,}
+24	Thu Aug 12 03:31:19 +0000 2010	4b5c64f6f964a520d82d29e3	{Frisch's Big Boy}	{39.08568453768086,-84.51961017910486,Covington,KY,United States}	{Food,}
+24	Thu Aug 12 00:38:35 +0000 2010	4b55ee5ef964a52030f727e3	{The Famous Neon's Unplugged}	{39.10939238460633,-84.5110684633255,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Wed Aug 11 19:38:52 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Wed Aug 11 17:49:59 +0000 2010	4b47c005f964a520193d26e3	{LA Fitness}	{39.10335652628956,-84.48769569396973,Bellevue,KY,United States}	{Shop & Service,}
+24	Tue Aug 10 12:00:14 +0000 2010	4b47c005f964a520193d26e3	{LA Fitness}	{39.10335652628956,-84.48769569396973,Bellevue,KY,United States}	{Shop & Service,}
+24	Sun Aug 08 18:04:46 +0000 2010	4c2d35f94e132d7f2b1a9cdf	{Ohio River-Literally In}	{39.08807287388121,-84.43402389575384,Cincinnati,OH,United States}	{Travel & Transport,Outdoors & Recreation,}
+24	Sun Aug 08 15:29:46 +0000 2010	4b4a4921f964a5204b8226e3	{Starbucks}	{39.11569826373627,-84.43644940853119,Cincinnati,OH,United States}	{Food,}
+24	Sat Aug 07 21:18:56 +0000 2010	4bcb649cb6c49c74f01e9291	{The Ok Wok Thai Restaurant}	{41.433678669912226,-82.70910302373402,Sandusky,OH,United States}	{Food,}
+24	Sat Aug 07 21:18:56 +0000 2010	4bcb649cb6c49c74f01e9291	{The Ok Wok Thai Restaurant}	{41.433678669912226,-82.70910302373402,Sandusky,OH,United States}	{Food,}
+24	Sat Aug 07 15:58:15 +0000 2010	4bd300eb046076b06ceb7471	{Sandusky Harbor Marina}	{41.450543241606184,-82.74277925491333,Sandusky,OH,United States}	{Outdoors & Recreation,}
+24	Sat Aug 07 00:25:41 +0000 2010	4b55ee5ef964a52030f727e3	{The Famous Neon's Unplugged}	{39.10939238460633,-84.5110684633255,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Sat Aug 07 00:05:18 +0000 2010	4c4844c33194b713d6f39a13	{Joe's Diner on Sycamore}	{39.109538,-84.510243,Cincinnati,OH,United States}	{Food,}
+24	Fri Aug 06 18:09:39 +0000 2010	4bfea006daf9c9b60bf8f8ef	{Kungfood Chu's AmerAsia}	{39.085240799283795,-84.51064392629961,Covington,KY,United States}	{Food,}
+24	Fri Aug 06 04:11:05 +0000 2010	4b525090f964a520b57627e3	{Below Zero Lounge}	{39.10843500708773,-84.51309889554977,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Fri Aug 06 00:20:19 +0000 2010	4b55ee5ef964a52030f727e3	{The Famous Neon's Unplugged}	{39.10939238460633,-84.5110684633255,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Tue Aug 03 21:51:02 +0000 2010	3fd66200f964a5205bec1ee3	{Pier 23 Cafe}	{37.8034,-122.400815,San Francisco,CA,United States}	{Food,}
+24	Tue Aug 03 17:50:57 +0000 2010	45487bc1f964a520833c1fe3	{Buena Vista Cafe}	{37.8067038513606,-122.42074743071228,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+24	Tue Aug 03 16:05:38 +0000 2010	49d68c61f964a520e65c1fe3	{Blue Bottle Coffee}	{37.79590475625579,-122.39393759555746,San Francisco,CA,United States}	{Food,}
+24	Tue Aug 03 01:55:19 +0000 2010	49cd18abf964a520b7591fe3	{Pyramid Brewery & Alehouse}	{37.87994958946737,-122.30004116865365,Berkeley,CA,United States}	{Nightlife Spot,Food,}
+24	Sun Aug 01 18:08:54 +0000 2010	4b259d4df964a520927424e3	{Ketch Joanne Resturant}	{37.503565699999996,-122.48230568333334,El Granada,CA,United States}	{Food,}
+24	Sat Jul 31 01:31:44 +0000 2010	45e6b309f964a5204c431fe3	{Forbidden Island}	{37.77460199110199,-122.26301578333333,Alameda,CA,United States}	{Nightlife Spot,}
+24	Fri Jul 30 21:28:02 +0000 2010	429cfa80f964a520ae241fe3	{Quinn's Lighthouse Restaurant & Pub}	{37.78133292119265,-122.2437941277629,Oakland,CA,United States}	{Nightlife Spot,Food,}
+24	Thu Jul 29 22:55:26 +0000 2010	4a74fa3af964a52030e01fe3	{Miramar Beach Restaurant}	{37.495715,-122.462281,Half Moon Bay,CA,United States}	{Outdoors & Recreation,Food,}
+24	Tue Jul 27 22:53:05 +0000 2010	4c4b3a2b959220a1bba6460f	{The Reef, at Manhattan Harbour}	{39.11700931626114,-84.46091651916504,Dayton,KY,United States}	{Nightlife Spot,Outdoors & Recreation,}
+24	Sun Jul 25 00:56:07 +0000 2010	4b55ab7af964a5202deb27e3	{Receptions South}	{39.03762069050477,-84.63640338432766,Erlanger,KY,United States}	{Professional & Other Places,}
+24	Sat Jul 24 20:28:52 +0000 2010	4b942dd0f964a520086d34e3	{St Xavier Church}	{39.10355634228483,-84.50911045074463,Cincinnati,OH,United States}	{Spiritual Center,Professional & Other Places,}
+24	Sat Jul 24 19:09:21 +0000 2010	4ad4bff0f964a52012e920e3	{Residence Inn}	{39.05273674215403,-84.63202910232232,Erlanger,KY,United States}	{Travel & Transport,}
+24	Fri Jul 23 23:49:14 +0000 2010	4b155028f964a52005b023e3	{Great American Ball Park}	{39.097211907956506,-84.50659990310669,Cincinnati,OH,United States}	{Outdoors & Recreation,Stadium,Arts & Entertainment,Athletics & Sports,}
+24	Fri Jul 23 22:53:08 +0000 2010	4b942dd0f964a520086d34e3	{St Xavier Church}	{39.10355634228483,-84.50911045074463,Cincinnati,OH,United States}	{Spiritual Center,Professional & Other Places,}
+24	Fri Jul 23 16:55:26 +0000 2010	4bfea006daf9c9b60bf8f8ef	{Kungfood Chu's AmerAsia}	{39.085240799283795,-84.51064392629961,Covington,KY,United States}	{Food,}
+24	Fri Jul 23 14:36:54 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Thu Jul 22 22:06:53 +0000 2010	4b48aa4bf964a520155226e3	{Bouquet Restaurant & Wine Bar}	{39.084876,-84.51763,Covington,KY,United States}	{Nightlife Spot,Food,}
+24	Wed Jul 21 23:51:57 +0000 2010	4c196181d4d9c9283becf029	{Party On The River}	{39.09844420496941,-84.50170755386353,Cincinnati,OH,United States}	{Arts & Entertainment,}
+24	Wed Jul 21 23:11:49 +0000 2010	4b554a1af964a520e5e027e3	{Hale Justis Lofts}	{39.1036902786945,-84.51697574938436,,OH,United States}	{Residence,}
+24	Wed Jul 21 12:39:38 +0000 2010	4b460755f964a5207d1426e3	{Coffee Emporium}	{39.1074,-84.512374,Cincinnati,OH,United States}	{Food,}
+24	Tue Jul 20 17:16:21 +0000 2010	4bfea006daf9c9b60bf8f8ef	{Kungfood Chu's AmerAsia}	{39.085240799283795,-84.51064392629961,Covington,KY,United States}	{Food,}
+24	Tue Jul 20 14:21:49 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Tue Jul 20 11:42:03 +0000 2010	4b47c005f964a520193d26e3	{LA Fitness}	{39.10335652628956,-84.48769569396973,Bellevue,KY,United States}	{Shop & Service,}
+24	Tue Jul 20 00:16:18 +0000 2010	4b45fe7bf964a520be1326e3	{Claddagh Irish Pub}	{39.09486382295232,-84.49670791625977,Newport,KY,United States}	{Nightlife Spot,Food,}
+24	Mon Jul 19 18:10:05 +0000 2010	4b7d95f4f964a52047c82fe3	{CET}	{39.10846101537183,-84.52035773124224,Cincinnati,OH,United States}	{Professional & Other Places,}
+24	Mon Jul 19 12:35:01 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Fri Jul 16 22:48:15 +0000 2010	4b155028f964a52005b023e3	{Great American Ball Park}	{39.097211907956506,-84.50659990310669,Cincinnati,OH,United States}	{Outdoors & Recreation,Stadium,Arts & Entertainment,Athletics & Sports,}
+24	Fri Jul 16 22:38:15 +0000 2010	4b53c2b8f964a5208faa27e3	{O'Malleys in the Alley}	{39.09914345904277,-84.51359357120674,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Wed Jul 14 13:30:07 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Mon Jul 12 22:24:58 +0000 2010	4bfea006daf9c9b60bf8f8ef	{Kungfood Chu's AmerAsia}	{39.085240799283795,-84.51064392629961,Covington,KY,United States}	{Food,}
+24	Mon Jul 12 20:17:11 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Mon Jul 12 11:31:57 +0000 2010	4ad5300af964a520480221e3	{Cincinnati / Northern Kentucky International Airport (CVG)}	{39.05521768254266,-84.65618133544922,Hebron,KY,United States}	{Travel & Transport,}
+24	Sun Jul 11 23:57:16 +0000 2010	3fd66200f964a5207af01ee3	{Pig 'n Whistle}	{34.10139147,-118.336705,Hollywood,CA,United States}	{Nightlife Spot,Food,}
+24	Sun Jul 11 23:47:26 +0000 2010	4a83ae72f964a5209ffb1fe3	{Hollywood Walk Of Fame}	{34.10153309727385,-118.33867281675339,Hollywood,CA,United States}	{Government Building,Arts & Entertainment,Professional & Other Places,}
+24	Sun Jul 11 21:10:23 +0000 2010	4c1975816a21c9b63eacca97	{The Cobra Snake Pawn Shop}	{34.10226380004508,-118.33943724632263,Los Angeles,CA,United States}	{Shop & Service,}
+24	Sun Jul 11 19:24:35 +0000 2010	4bcdf55f937ca593aea6ad92	{Altitude Rooftop Pool At SLS Hotel}	{34.07012157,-118.37699849,Los Angeles,CA,United States}	{Travel & Transport,Outdoors & Recreation,Hotel,}
+24	Sun Jul 11 09:25:40 +0000 2010	49ff928df964a52036701fe3	{SLS Hotel at Beverly Hills}	{34.06996159643052,-118.37658006386414,Los Angeles,CA,United States}	{Travel & Transport,}
+24	Sun Jul 11 06:25:38 +0000 2010	441bda53f964a5204b311fe3	{El Compadre}	{34.097862959525614,-118.35222437224552,Los Angeles,CA,United States}	{Food,}
+24	Sun Jul 11 02:04:05 +0000 2010	4528d0f7f964a5201e3b1fe3	{Raleigh Studios Cafe}	{34.08267443682163,-118.31737387026128,Los Angeles,CA,United States}	{Food,}
+24	Sun Jul 11 00:58:07 +0000 2010	4aab2009f964a5200c5920e3	{Gonpachi}	{34.06832055177211,-118.37616205215454,Beverly Hills,CA,United States}	{Food,}
+24	Sat Jul 10 17:59:32 +0000 2010	4bcdf55f937ca593aea6ad92	{Altitude Rooftop Pool At SLS Hotel}	{34.07012157,-118.37699849,Los Angeles,CA,United States}	{Travel & Transport,Outdoors & Recreation,Hotel,}
+24	Sat Jul 10 09:46:29 +0000 2010	49ff928df964a52036701fe3	{SLS Hotel at Beverly Hills}	{34.06996159643052,-118.37658006386414,Los Angeles,CA,United States}	{Travel & Transport,}
+24	Sat Jul 10 06:13:43 +0000 2010	3fd66200f964a52039f01ee3	{Saddle Ranch Chop House}	{34.0955517580628,-118.3723720908165,West Hollywood,CA,United States}	{Nightlife Spot,Food,}
+24	Sat Jul 10 03:35:18 +0000 2010	41005500f964a520480b1fe3	{Hollywood Billiards}	{34.101465,-118.31482293,Los Angeles,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+24	Sat Jul 10 02:16:43 +0000 2010	49ff928df964a52036701fe3	{SLS Hotel at Beverly Hills}	{34.06996159643052,-118.37658006386414,Los Angeles,CA,United States}	{Travel & Transport,}
+24	Fri Jul 09 22:39:36 +0000 2010	4b1d9623f964a520ac1224e3	{Nickelodeon Animation Studios}	{34.1749409328609,-118.31573561735902,Burbank,CA,United States}	{Arts & Entertainment,}
+24	Fri Jul 09 19:15:11 +0000 2010	4362bb80f964a52052291fe3	{Digital Domain}	{33.996116233721,-118.47590637762045,Venice,CA,United States}	{Office,Professional & Other Places,}
+24	Fri Jul 09 08:02:22 +0000 2010	49ff928df964a52036701fe3	{SLS Hotel at Beverly Hills}	{34.06996159643052,-118.37658006386414,Los Angeles,CA,United States}	{Travel & Transport,}
+24	Fri Jul 09 06:34:05 +0000 2010	3fd66200f964a52068ee1ee3	{Viper Room}	{34.09051848788058,-118.38472366333008,Los Angeles,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+24	Fri Jul 09 03:55:57 +0000 2010	4b98f169f964a520a55735e3	{Lancers Family Restaurant}	{34.18035786474259,-118.32012518620698,Burbank,CA,United States}	{Nightlife Spot,Food,}
+24	Fri Jul 09 01:25:24 +0000 2010	49ff928df964a52036701fe3	{SLS Hotel at Beverly Hills}	{34.06996159643052,-118.37658006386414,Los Angeles,CA,United States}	{Travel & Transport,}
+24	Thu Jul 08 20:24:17 +0000 2010	4bef449cea570f47452b8fd2	{Candle Cafe}	{33.99403274059296,-118.479877,Los Angeles,CA,United States}	{Outdoors & Recreation,Food,}
+24	Thu Jul 08 20:11:30 +0000 2010	4bef449cea570f47452b8fd2	{Candle Cafe}	{33.99403274059296,-118.479877,Los Angeles,CA,United States}	{Outdoors & Recreation,Food,}
+24	Thu Jul 08 19:31:58 +0000 2010	4c040b64187ec928b87fb67b	{Venice Beach}	{33.986810160500845,-118.4736442565918,Venice,CA,United States}	{Outdoors & Recreation,Beach,}
+24	Thu Jul 08 18:33:14 +0000 2010	49ff928df964a52036701fe3	{SLS Hotel at Beverly Hills}	{34.06996159643052,-118.37658006386414,Los Angeles,CA,United States}	{Travel & Transport,}
+24	Thu Jul 08 05:27:46 +0000 2010	4b7b8f27f964a52049672fe3	{Hyde Lounge}	{34.0981574950493,-118.36480782529584,Los Angeles,CA,United States}	{Nightlife Spot,}
+24	Wed Jul 07 23:17:32 +0000 2010	4ab4350df964a5205f7020e3	{The Egyptian Theatre}	{34.101275064778584,-118.33658077562846,Los Angeles,CA,United States}	{Arts & Entertainment,Movie Theater,}
+24	Wed Jul 07 19:46:43 +0000 2010	4bcdf55f937ca593aea6ad92	{Altitude Rooftop Pool At SLS Hotel}	{34.07012157,-118.37699849,Los Angeles,CA,United States}	{Travel & Transport,Outdoors & Recreation,Hotel,}
+24	Wed Jul 07 12:23:44 +0000 2010	4ad5300af964a520480221e3	{Cincinnati / Northern Kentucky International Airport (CVG)}	{39.05521768254266,-84.65618133544922,Hebron,KY,United States}	{Travel & Transport,}
+24	Tue Jul 06 18:06:15 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Tue Jul 06 17:50:47 +0000 2010	4c09617b7e3fc928b0e0f182	{Eros Salon}	{39.08361100606262,-84.51268718579408,Covington,KY,United States}	{}
+24	Tue Jul 06 11:18:37 +0000 2010	4b47c005f964a520193d26e3	{LA Fitness}	{39.10335652628956,-84.48769569396973,Bellevue,KY,United States}	{Shop & Service,}
+24	Mon Jul 05 12:53:03 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Mon Jul 05 03:33:29 +0000 2010	4b55ee5ef964a52030f727e3	{The Famous Neon's Unplugged}	{39.10939238460633,-84.5110684633255,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Sun Jul 04 02:48:37 +0000 2010	4bd300eb046076b06ceb7471	{Sandusky Harbor Marina}	{41.450543241606184,-82.74277925491333,Sandusky,OH,United States}	{Outdoors & Recreation,}
+24	Sat Jul 03 19:07:25 +0000 2010	4be581e6cf200f472943133c	{Johnson's Island}	{41.502398322064366,-82.73190352029737,Marblehead,OH,United States}	{Outdoors & Recreation,}
+24	Sat Jul 03 00:38:54 +0000 2010	4bd300eb046076b06ceb7471	{Sandusky Harbor Marina}	{41.450543241606184,-82.74277925491333,Sandusky,OH,United States}	{Outdoors & Recreation,}
+24	Fri Jul 02 23:44:16 +0000 2010	4bcb649cb6c49c74f01e9291	{The Ok Wok Thai Restaurant}	{41.433678669912226,-82.70910302373402,Sandusky,OH,United States}	{Food,}
+24	Thu Jul 01 11:35:19 +0000 2010	4b47c005f964a520193d26e3	{LA Fitness}	{39.10335652628956,-84.48769569396973,Bellevue,KY,United States}	{Shop & Service,}
+24	Thu Jul 01 00:17:02 +0000 2010	4b48f1f4f964a520b75e26e3	{Jefferson Hall}	{39.09573395576972,-84.49583888053894,Newport,KY,United States}	{Nightlife Spot,Arts & Entertainment,}
+24	Wed Jun 30 23:40:22 +0000 2010	4b1a9e4df964a5208fed23e3	{Brothers Bar & Grill}	{39.095156982555146,-84.49669298246548,Newport,KY,United States}	{Nightlife Spot,Food,}
+24	Wed Jun 30 17:07:53 +0000 2010	4bfea006daf9c9b60bf8f8ef	{Kungfood Chu's AmerAsia}	{39.085240799283795,-84.51064392629961,Covington,KY,United States}	{Food,}
+24	Wed Jun 30 17:07:53 +0000 2010	4bfea006daf9c9b60bf8f8ef	{Kungfood Chu's AmerAsia}	{39.085240799283795,-84.51064392629961,Covington,KY,United States}	{Food,}
+24	Tue Jun 29 13:35:42 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Tue Jun 29 11:36:06 +0000 2010	4b47c005f964a520193d26e3	{LA Fitness}	{39.10335652628956,-84.48769569396973,Bellevue,KY,United States}	{Shop & Service,}
+24	Mon Jun 28 10:36:24 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Sun Jun 27 03:51:21 +0000 2010	4bd300eb046076b06ceb7471	{Sandusky Harbor Marina}	{41.450543241606184,-82.74277925491333,Sandusky,OH,United States}	{Outdoors & Recreation,}
+24	Sat Jun 26 23:06:45 +0000 2010	4be581e6cf200f472943133c	{Johnson's Island}	{41.502398322064366,-82.73190352029737,Marblehead,OH,United States}	{Outdoors & Recreation,}
+24	Sat Jun 26 03:13:39 +0000 2010	4bd300eb046076b06ceb7471	{Sandusky Harbor Marina}	{41.450543241606184,-82.74277925491333,Sandusky,OH,United States}	{Outdoors & Recreation,}
+24	Fri Jun 25 19:24:56 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Fri Jun 25 16:51:36 +0000 2010	4c1258ac7f7f2d7fde14dd68	{PPS}	{39.086521,-84.508941,Covington,KY,United States}	{}
+24	Fri Jun 25 03:05:12 +0000 2010	4b521611f964a520b16627e3	{Mottainai}	{39.11407168719243,-84.51697574938436,,OH,United States}	{Residence,}
+24	Thu Jun 24 18:12:35 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Thu Jun 24 11:25:37 +0000 2010	4b47c005f964a520193d26e3	{LA Fitness}	{39.10335652628956,-84.48769569396973,Bellevue,KY,United States}	{Shop & Service,}
+24	Thu Jun 24 00:44:55 +0000 2010	4b55ee5ef964a52030f727e3	{The Famous Neon's Unplugged}	{39.10939238460633,-84.5110684633255,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Tue Jun 22 12:38:50 +0000 2010	4b47c005f964a520193d26e3	{LA Fitness}	{39.10335652628956,-84.48769569396973,Bellevue,KY,United States}	{Shop & Service,}
+24	Mon Jun 21 10:50:43 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Sun Jun 20 19:21:20 +0000 2010	4c1e6a2cb4e62d7f9436de93	{Old Joe's Place}	{39.075416476559774,-84.35946264529322,Cincinnati,OH,United States}	{Residence,}
+24	Sun Jun 20 18:02:41 +0000 2010	4b46067bf964a5206e1426e3	{The Party Source}	{39.10069225889888,-84.48829650878906,Bellevue,KY,United States}	{Shop & Service,Food & Drink Shop,}
+24	Sun Jun 20 02:03:46 +0000 2010	4c1c0ee4eac020a10bf345c2	{GoettaFest}	{39.084315,-84.519658,,,United States}	{}
+24	Sat Jun 19 04:10:32 +0000 2010	4bd300eb046076b06ceb7471	{Sandusky Harbor Marina}	{41.450543241606184,-82.74277925491333,Sandusky,OH,United States}	{Outdoors & Recreation,}
+24	Sat Jun 19 00:28:20 +0000 2010	4e1c6686aeb7204c1269215d	{Tanger Outlet Center}	{39.62028313604232,-83.60154700470086,Jeffersonville,OH,United States}	{Shop & Service,}
+24	Fri Jun 18 18:15:55 +0000 2010	4b48a998f964a520fa5126e3	{Cock & Bull English Pub}	{39.08419,-84.51761,Covington,KY,United States}	{Nightlife Spot,Arts & Entertainment,}
+24	Fri Jun 18 10:45:00 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Thu Jun 17 14:06:59 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Thu Jun 17 11:35:46 +0000 2010	4b47c005f964a520193d26e3	{LA Fitness}	{39.10335652628956,-84.48769569396973,Bellevue,KY,United States}	{Shop & Service,}
+24	Tue Jun 15 23:36:46 +0000 2010	4b452eb4f964a520400726e3	{Bootsy's}	{39.103354,-84.511999,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Tue Jun 15 21:31:50 +0000 2010	4b44357ef964a520b5f225e3	{Via Vite}	{39.10172051152611,-84.51275020837784,Cincinnati,OH,United States}	{Food,}
+24	Sun Jun 13 04:40:59 +0000 2010	4b525090f964a520b57627e3	{Below Zero Lounge}	{39.10843500708773,-84.51309889554977,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Sun Jun 13 03:03:36 +0000 2010	4b906641f964a5203e8833e3	{Yadda Club}	{39.07930446067758,-84.5163638482716,Covington,KY,United States}	{Nightlife Spot,}
+24	Sun Jun 13 01:10:50 +0000 2010	4b438ed9f964a5202ce325e3	{Hamburger Mary's}	{39.10581886768341,-84.514289,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Sat Jun 12 23:31:59 +0000 2010	4b55ee5ef964a52030f727e3	{The Famous Neon's Unplugged}	{39.10939238460633,-84.5110684633255,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Sat Jun 12 11:41:33 +0000 2010	4b47c005f964a520193d26e3	{LA Fitness}	{39.10335652628956,-84.48769569396973,Bellevue,KY,United States}	{Shop & Service,}
+24	Sat Jun 12 04:14:43 +0000 2010	4c07debaeb15ef3bf685595e	{MPMF Indie Summer Series 2010}	{39.101604,-84.5126885175705,Cincinnati,OH,United States}	{Arts & Entertainment,}
+24	Sat Jun 12 03:13:10 +0000 2010	4b44357ef964a520b5f225e3	{Via Vite}	{39.10172051152611,-84.51275020837784,Cincinnati,OH,United States}	{Food,}
+24	Sat Jun 12 00:17:47 +0000 2010	4bb2549d2397b71391de36b3	{Avenue Lounge & Patio}	{39.08664049767053,-84.51123796401336,Covington,KY,United States}	{Nightlife Spot,}
+24	Fri Jun 11 02:51:00 +0000 2010	4b55ee5ef964a52030f727e3	{The Famous Neon's Unplugged}	{39.10939238460633,-84.5110684633255,Cincinnati,OH,United States}	{Nightlife Spot,}
+24	Thu Jun 10 17:18:07 +0000 2010	4bfea006daf9c9b60bf8f8ef	{Kungfood Chu's AmerAsia}	{39.085240799283795,-84.51064392629961,Covington,KY,United States}	{Food,}
+24	Thu Jun 10 04:59:42 +0000 2010	4b779721f964a52000a32ee3	{Cosmos Grill Pub}	{39.08399687781232,-84.51746475360353,Covington,KY,United States}	{Nightlife Spot,}
+24	Thu Jun 10 03:11:08 +0000 2010	4b48a9e2f964a520045226e3	{Chez Nora}	{39.084378,-84.517521,Covington,KY,United States}	{Food,}
+24	Thu Jun 10 02:10:37 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Mon Jun 07 15:43:34 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Sun Jun 06 02:01:12 +0000 2010	4b521611f964a520b16627e3	{Mottainai}	{39.11407168719243,-84.51697574938436,,OH,United States}	{Residence,}
+24	Sat Jun 05 23:22:46 +0000 2010	4b45fe7bf964a520be1326e3	{Claddagh Irish Pub}	{39.09486382295232,-84.49670791625977,Newport,KY,United States}	{Nightlife Spot,Food,}
+24	Sat Jun 05 15:29:54 +0000 2010	4b3fe95ff964a520e5b125e3	{Rock Bottom Restaurant & Brewery}	{39.10149154968845,-84.51247930526733,Cincinnati,OH,United States}	{Nightlife Spot,Food,}
+24	Sat Jun 05 13:47:47 +0000 2010	4b155028f964a52005b023e3	{Great American Ball Park}	{39.097211907956506,-84.50659990310669,Cincinnati,OH,United States}	{Outdoors & Recreation,Stadium,Arts & Entertainment,Athletics & Sports,}
+24	Mon May 31 01:17:38 +0000 2010	4bd300eb046076b06ceb7471	{Sandusky Harbor Marina}	{41.450543241606184,-82.74277925491333,Sandusky,OH,United States}	{Outdoors & Recreation,}
+24	Sun May 30 04:07:16 +0000 2010	4be430812457a5939cd9a915	{The Boardwalk}	{41.6541149733856,-82.8195086089441,Put-in-Bay,OH,United States}	{Food,}
+24	Sat May 29 19:36:30 +0000 2010	4bc41ea1dce4eee1d5f3719d	{Islander Inn}	{41.65138901320497,-82.81852467908939,Put In Bay,OH,United States}	{Nightlife Spot,}
+24	Sat May 29 16:15:33 +0000 2010	4c013da16f422d7fb7e7401e	{The Goat Soup & Whiskey Bar}	{41.64835244853897,-82.825026512146,Put-in-Bay,OH,United States}	{Nightlife Spot,Food,}
+24	Sat May 29 12:50:44 +0000 2010	4be430812457a5939cd9a915	{The Boardwalk}	{41.6541149733856,-82.8195086089441,Put-in-Bay,OH,United States}	{Food,}
+24	Tue May 25 11:38:58 +0000 2010	4b47c005f964a520193d26e3	{LA Fitness}	{39.10335652628956,-84.48769569396973,Bellevue,KY,United States}	{Shop & Service,}
+24	Sun May 23 02:38:48 +0000 2010	4c0d985fe60fb713805a2122	{Boogie Nights 70's and 80's Dance Club}	{39.09691128,-84.84373902,Lawrenceburg,IN,United States}	{Nightlife Spot,}
+24	Sun May 23 01:13:36 +0000 2010	4b5b7c00f964a520ae0129e3	{Hollywood Casino & Resort}	{39.09769483773057,-84.84535217285156,Lawrenceburg,IN,United States}	{Travel & Transport,Nightlife Spot,Arts & Entertainment,}
+24	Fri May 21 02:00:05 +0000 2010	4ba40eb5f964a520cf7c38e3	{Lebo's bar & grill}	{39.065522,-84.42402108333333,Cincinnati,OH,United States}	{Food,}
+24	Thu May 20 13:03:01 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Wed May 19 13:23:21 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Wed May 19 00:57:33 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Mon May 17 23:39:50 +0000 2010	4bfea006daf9c9b60bf8f8ef	{Kungfood Chu's AmerAsia}	{39.085240799283795,-84.51064392629961,Covington,KY,United States}	{Food,}
+24	Tue May 11 15:00:31 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Sun May 09 01:02:24 +0000 2010	4ad4bff8f964a5200fea20e3	{Santorini Greek Kitchen}	{39.75222587585449,-86.135072,Indianapolis,IN,United States}	{Food,}
+24	Sun May 09 00:04:53 +0000 2010	4b17629bf964a52025c523e3	{Kilroy's Bar & Grill}	{39.764181049204616,-86.15800380706787,Indianapolis,IN,United States}	{Nightlife Spot,}
+24	Sat May 08 19:15:37 +0000 2010	4b776882f964a5207b982ee3	{T.G.I. Friday's}	{39.76713311923183,-86.1681098108148,Indianapolis,IN,United States}	{Travel & Transport,Airport,Food,}
+24	Sat May 08 04:33:35 +0000 2010	4bb7c1041261d13ae3d2e798	{Red Rock Tavern}	{39.30630027408474,-84.279177695288,Loveland,OH,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+24	Fri May 07 20:46:14 +0000 2010	4bbd0c9e078095216c1fda91	{The Machine Room Grille}	{39.09775312213478,-84.5057201385498,Cincinnati,OH,United States}	{Shop & Service,Food,}
+24	Mon May 03 18:30:21 +0000 2010	4b48aab1f964a520215226e3	{Wertheim's Restaurant}	{39.084425,-84.519303,Covington,KY,United States}	{Food,}
+24	Fri Apr 30 20:11:35 +0000 2010	4bd300eb046076b06ceb7471	{Sandusky Harbor Marina}	{41.450543241606184,-82.74277925491333,Sandusky,OH,United States}	{Outdoors & Recreation,}
+24	Fri Apr 30 20:11:35 +0000 2010	4bd300eb046076b06ceb7471	{Sandusky Harbor Marina}	{41.450543241606184,-82.74277925491333,Sandusky,OH,United States}	{Outdoors & Recreation,}
+24	Thu Apr 29 14:29:49 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Thu Apr 29 11:30:22 +0000 2010	4b47c005f964a520193d26e3	{LA Fitness}	{39.10335652628956,-84.48769569396973,Bellevue,KY,United States}	{Shop & Service,}
+24	Wed Apr 28 23:22:29 +0000 2010	4b6af8c7f964a520bbe92be3	{Sawyer Point Park}	{39.10170802271778,-84.49883222579956,Cincinnati,OH,United States}	{Outdoors & Recreation,}
+24	Wed Apr 28 14:37:41 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Wed Apr 28 02:07:18 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Tue Apr 27 13:45:40 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}
+24	Tue Apr 27 11:39:52 +0000 2010	4b47c005f964a520193d26e3	{LA Fitness}	{39.10335652628956,-84.48769569396973,Bellevue,KY,United States}	{Shop & Service,}
+24	Mon Apr 26 13:03:40 +0000 2010	4bc62e6db387d13a9270c1e8	{Barking Fish Lounge}	{39.0840192,-84.510657,Covington,KY,United States}	{Arts & Entertainment,}

@@ -1,0 +1,133 @@
+369	Mon Jul 25 04:16:55 +0000 2011	4b47f171f964a520ad4426e3	{Trattoria la Siciliana}	{37.85636671666666,-122.2529,Berkeley,CA,United States}	{Food,}
+369	Sun Jul 24 22:58:20 +0000 2011	438d5552f964a520312b1fe3	{Bay Street Emeryville}	{37.83380180566804,-122.2923003805314,Emeryville,CA,United States}	{Shop & Service,Arts & Entertainment,}
+369	Wed Jul 20 18:54:55 +0000 2011	473ed65af964a520694c1fe3	{Planet Hollywood Resort & Casino}	{36.11024707860085,-115.17182350158691,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+369	Wed Jul 20 05:01:45 +0000 2011	4d8a8a09d85f370452f700dc	{Absinthe}	{36.115310971231416,-115.17398131688294,Las Vegas,NV,United States}	{Performing Arts Venue,Arts & Entertainment,}
+369	Wed Jul 20 03:41:15 +0000 2011	4a760275f964a520f2e11fe3	{The Forum Shops}	{36.11894099028755,-115.17383688657922,Las Vegas,NV,United States}	{Shop & Service,}
+369	Tue Jul 19 22:42:59 +0000 2011	4b8632b9f964a5206e8231e3	{Fat Tuesday}	{36.10896425439874,-115.17019271850586,Las Vegas,NV,United States}	{Nightlife Spot,}
+369	Tue Jul 19 05:29:57 +0000 2011	4b7e28e0f964a520d6e42fe3	{Jubilee! Theater}	{36.11389478825594,-115.17071580995437,Las Vegas,NV,United States}	{Performing Arts Venue,Arts & Entertainment,}
+369	Mon Jul 18 22:57:57 +0000 2011	4a710474f964a520fdd81fe3	{Serendipity 3}	{36.115274160690916,-115.17345428466797,Las Vegas,NV,United States}	{Food,}
+369	Sun Jul 17 03:56:14 +0000 2011	4a92eedcf964a520301e20e3	{Ozumo}	{37.81163417621392,-122.2665712232081,Oakland,CA,United States}	{Food,}
+369	Wed Jul 06 05:26:27 +0000 2011	463c04e1f964a5202a461fe3	{Taqueria Mi Rancho}	{37.79895042072689,-122.25647896528244,Oakland,CA,United States}	{Food,}
+369	Fri Jul 01 05:57:06 +0000 2011	459d62d1f964a520a4401fe3	{Sushi Rika}	{37.78973986266848,-122.4123462395278,San Francisco,CA,United States}	{Food,}
+369	Thu Jun 30 23:34:00 +0000 2011	4b477ea0f964a520f63326e3	{SO}	{37.77242136065558,-122.40719679028894,San Francisco,CA,United States}	{Food,}
+369	Mon Jun 27 00:39:11 +0000 2011	4bd2177d046076b055357371	{AT&T Park}	{37.77833858778822,-122.38940119743347,San Francisco,CA,United States}	{Stadium,Arts & Entertainment,}
+369	Sat Jun 25 05:01:48 +0000 2011	3fd66200f964a52068f11ee3	{Palomino}	{37.790082356493826,-122.38962650299072,San Francisco,CA,United States}	{Food,}
+369	Thu Jun 23 00:12:07 +0000 2011	4b477ea0f964a520f63326e3	{SO}	{37.77242136065558,-122.40719679028894,San Francisco,CA,United States}	{Food,}
+369	Wed Jun 08 04:33:57 +0000 2011	49ee35c8f964a5203b681fe3	{Marco Polo Italian Ice Cream}	{37.742718466666666,-122.481956,San Francisco,CA,United States}	{Food,}
+369	Wed Jun 08 00:09:15 +0000 2011	4afd8a2cf964a5206e2822e3	{Audi of Oakland}	{37.81457146666666,-122.264137,Oakland,CA,United States}	{Shop & Service,}
+369	Tue Jun 07 22:31:10 +0000 2011	4a6f8754f964a52069d61fe3	{Kaiser Permanente Medical Center - Oakland}	{37.82469076403662,-122.25667885084425,Oakland,CA,United States}	{Travel & Transport,Medical Center,Professional & Other Places,}
+369	Tue Jun 07 22:03:16 +0000 2011	4d3b7c9d687ca35dba9294c4	{Perfect Vision 1}	{37.764084995534986,-122.24310100529254,,,United States}	{Shop & Service,}
+369	Tue May 31 06:23:55 +0000 2011	424c8f00f964a5209c201fe3	{Steps of Rome}	{37.798389,-122.407464,San Francisco,CA,United States}	{Food,}
+369	Tue May 31 05:40:00 +0000 2011	41e46880f964a520e01e1fe3	{Picaro Cafe}	{37.76503488742318,-122.42244528567039,San Francisco,CA,United States}	{Spanish Restaurant,Food,}
+369	Wed May 25 00:53:26 +0000 2011	43f8404cf964a520c22f1fe3	{Macy's}	{37.78755853482698,-122.40750653872762,San Francisco,CA,United States}	{Shop & Service,}
+369	Sun May 22 20:38:34 +0000 2011	4bdd2d52645e0f47ba0c6b19	{Americana}	{37.37430677456524,-122.06471035883922,Mountain View,CA,United States}	{Residence,}
+369	Sat May 21 19:44:38 +0000 2011	4b15505af964a5206bb023e3	{Sleep Train Arena}	{38.64861760910435,-121.51788711547852,Sacramento,CA,United States}	{Stadium,Arts & Entertainment,}
+369	Wed May 11 17:30:23 +0000 2011	4a6f8754f964a52069d61fe3	{Kaiser Permanente Medical Center - Oakland}	{37.82469076403662,-122.25667885084425,Oakland,CA,United States}	{Travel & Transport,Medical Center,Professional & Other Places,}
+369	Mon May 09 01:03:59 +0000 2011	49cd18abf964a520b7591fe3	{Pyramid Brewery & Alehouse}	{37.87994958946737,-122.30004116865365,Berkeley,CA,United States}	{Nightlife Spot,Food,}
+369	Wed May 04 22:00:23 +0000 2011	4bdddce8ffdec92861bbe6a1	{Quickly ???}	{37.794122290227605,-122.25381284952164,Oakland,CA,United States}	{Food,}
+369	Sat Apr 30 22:26:22 +0000 2011	4b477ea0f964a520f63326e3	{SO}	{37.77242136065558,-122.40719679028894,San Francisco,CA,United States}	{Food,}
+369	Sat Apr 30 22:26:21 +0000 2011	4b477ea0f964a520f63326e3	{SO}	{37.77242136065558,-122.40719679028894,San Francisco,CA,United States}	{Food,}
+369	Fri Apr 29 19:49:26 +0000 2011	4a5a137ff964a520b2b91fe3	{Lakeshore Cafe}	{37.81060143388413,-122.2449463933369,Oakland,CA,United States}	{Food,}
+369	Tue Apr 26 23:31:42 +0000 2011	4b81b78ff964a520a7b930e3	{One Hawthorne}	{37.78576614597829,-122.39908216239414,San Francisco,CA,United States}	{Residence,}
+369	Tue Apr 26 21:30:32 +0000 2011	43f8404cf964a520c22f1fe3	{Macy's}	{37.78755853482698,-122.40750653872762,San Francisco,CA,United States}	{Shop & Service,}
+369	Tue Apr 26 20:59:21 +0000 2011	45214142f964a520c03a1fe3	{H&M}	{37.7861518994364,-122.4079205095768,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+369	Fri Apr 22 21:51:57 +0000 2011	4b74cd6df964a520def22de3	{KFC}	{37.761963,-122.24362313747406,Alameda,CA,United States}	{Food,}
+369	Thu Apr 21 15:18:34 +0000 2011	4a6f8754f964a52069d61fe3	{Kaiser Permanente Medical Center - Oakland}	{37.82469076403662,-122.25667885084425,Oakland,CA,United States}	{Travel & Transport,Medical Center,Professional & Other Places,}
+369	Wed Apr 20 21:35:01 +0000 2011	4a6f8754f964a52069d61fe3	{Kaiser Permanente Medical Center - Oakland}	{37.82469076403662,-122.25667885084425,Oakland,CA,United States}	{Travel & Transport,Medical Center,Professional & Other Places,}
+369	Wed Apr 20 21:12:15 +0000 2011	4a6f8754f964a52069d61fe3	{Kaiser Permanente Medical Center - Oakland}	{37.82469076403662,-122.25667885084425,Oakland,CA,United States}	{Travel & Transport,Medical Center,Professional & Other Places,}
+369	Wed Apr 20 05:58:43 +0000 2011	4b0897b8f964a520140f23e3	{Sam Wo Restaurant}	{37.795164365349365,-122.40669897838619,San Francisco,CA,United States}	{Food,}
+369	Wed Apr 20 04:00:36 +0000 2011	48569af7f964a520ba501fe3	{Bill Graham Civic Auditorium}	{37.77840924430391,-122.41733504634118,San Francisco,CA,United States}	{Arts & Entertainment,}
+369	Wed Apr 20 04:00:13 +0000 2011	48569af7f964a520ba501fe3	{Bill Graham Civic Auditorium}	{37.77840924430391,-122.41733504634118,San Francisco,CA,United States}	{Arts & Entertainment,}
+369	Sun Apr 17 23:34:52 +0000 2011	4ba817faf964a5203bcc39e3	{Safeway}	{37.739976470893524,-121.45011229697471,Tracy,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+369	Sun Apr 17 04:12:33 +0000 2011	4b902cd3f964a520467a33e3	{Kaigan Sushi}	{38.10629352,-122.216401,Vallejo,CA,United States}	{Food,}
+369	Mon Apr 11 03:01:45 +0000 2011	41e46880f964a520e01e1fe3	{Picaro Cafe}	{37.76503488742318,-122.42244528567039,San Francisco,CA,United States}	{Spanish Restaurant,Food,}
+369	Sun Apr 10 01:32:05 +0000 2011	4a723ab5f964a520a9da1fe3	{Shooting Star Cafe}	{37.801115,-122.26998936,Oakland,CA,United States}	{Food,}
+369	Sat Apr 09 23:40:58 +0000 2011	4aada8c5f964a5202e6120e3	{Jayakarta Restaurant}	{37.871957,-122.270004,Berkeley,CA,United States}	{Food,}
+369	Thu Apr 07 16:03:21 +0000 2011	4a6f8754f964a52069d61fe3	{Kaiser Permanente Medical Center - Oakland}	{37.82469076403662,-122.25667885084425,Oakland,CA,United States}	{Travel & Transport,Medical Center,Professional & Other Places,}
+369	Sat Apr 02 03:32:38 +0000 2011	4bd6640ccfa7b713409d27da	{Kaiser MRI}	{37.825601,-122.25768327713013,Oakland,CA,United States}	{Medical Center,Professional & Other Places,}
+369	Mon Mar 28 21:41:25 +0000 2011	4ba7d91df964a520a3b839e3	{Kaiser Permanente Oakland Fabiola Bldg}	{37.82484344061029,-122.25614155685736,Oakland,CA,United States}	{Medical Center,Professional & Other Places,}
+369	Fri Mar 25 22:40:23 +0000 2011	4b477ea0f964a520f63326e3	{SO}	{37.77242136065558,-122.40719679028894,San Francisco,CA,United States}	{Food,}
+369	Thu Mar 24 23:33:54 +0000 2011	4b50d2b3f964a520bd3327e3	{Shell}	{37.77346928321912,-122.40841365390487,San Francisco,CA,United States}	{Shop & Service,}
+369	Thu Mar 24 23:18:26 +0000 2011	4b477ea0f964a520f63326e3	{SO}	{37.77242136065558,-122.40719679028894,San Francisco,CA,United States}	{Food,}
+369	Wed Mar 23 22:24:37 +0000 2011	4b477ea0f964a520f63326e3	{SO}	{37.77242136065558,-122.40719679028894,San Francisco,CA,United States}	{Food,}
+369	Wed Mar 23 00:19:30 +0000 2011	4b477ea0f964a520f63326e3	{SO}	{37.77242136065558,-122.40719679028894,San Francisco,CA,United States}	{Food,}
+369	Tue Mar 22 05:15:29 +0000 2011	4b319ad0f964a5209e0925e3	{Shabu House}	{37.585503,-122.364721,Burlingame,CA,United States}	{Food,}
+369	Mon Mar 21 23:14:22 +0000 2011	4a9078a0f964a5200b1820e3	{Starbucks}	{37.585868,-122.365049,Burlingame,CA,United States}	{Food,}
+369	Mon Mar 21 23:00:23 +0000 2011	4b623764f964a520bc3c2ae3	{Wells Fargo Bank}	{37.58692179465196,-122.36362380421167,Burlingame,CA,United States}	{Professional & Other Places,}
+369	Mon Mar 21 22:13:20 +0000 2011	4a95e29af964a5203a2520e3	{Sun Hop Fat Supermarket}	{37.794725548573886,-122.25450750180849,Oakland,CA,United States}	{Shop & Service,Food & Drink Shop,}
+369	Sat Mar 19 23:30:18 +0000 2011	4b477ea0f964a520f63326e3	{SO}	{37.77242136065558,-122.40719679028894,San Francisco,CA,United States}	{Food,}
+369	Fri Mar 18 17:33:19 +0000 2011	4b477ea0f964a520f63326e3	{SO}	{37.77242136065558,-122.40719679028894,San Francisco,CA,United States}	{Food,}
+369	Thu Mar 17 23:54:42 +0000 2011	4a5697ecf964a5207fb51fe3	{Naan-N-Curry}	{37.786021004253556,-122.41055309772491,San Francisco,CA,United States}	{Food,}
+369	Wed Mar 16 22:29:48 +0000 2011	4b477ea0f964a520f63326e3	{SO}	{37.77242136065558,-122.40719679028894,San Francisco,CA,United States}	{Food,}
+369	Tue Mar 15 18:07:02 +0000 2011	4b477ea0f964a520f63326e3	{SO}	{37.77242136065558,-122.40719679028894,San Francisco,CA,United States}	{Food,}
+369	Sun Mar 13 06:24:30 +0000 2011	4b477ea0f964a520f63326e3	{SO}	{37.77242136065558,-122.40719679028894,San Francisco,CA,United States}	{Food,}
+369	Fri Mar 11 00:14:46 +0000 2011	4b477ea0f964a520f63326e3	{SO}	{37.77242136065558,-122.40719679028894,San Francisco,CA,United States}	{Food,}
+369	Tue Mar 08 06:13:49 +0000 2011	4b319ad0f964a5209e0925e3	{Shabu House}	{37.585503,-122.364721,Burlingame,CA,United States}	{Food,}
+369	Tue Mar 08 00:01:52 +0000 2011	4b787820f964a52069d02ee3	{88 Rice Bowl}	{37.69906816400904,-122.48202592134476,Daly City,CA,United States}	{Food,}
+369	Mon Mar 07 23:51:24 +0000 2011	4bb52901ef159c74965e74f7	{Westlake Nail Spa}	{37.69954364723096,-122.48402508675471,Daly City,CA,United States}	{Shop & Service,}
+369	Fri Feb 25 00:02:56 +0000 2011	459ac90cf964a52088401fe3	{Trader Joe's}	{37.77097,-122.407654,San Francisco,CA,United States}	{Shop & Service,Food & Drink Shop,}
+369	Tue Feb 22 21:52:58 +0000 2011	4a81b3b0f964a5204af71fe3	{Lake Merritt}	{37.80476580072879,-122.25766181945801,Oakland,CA,United States}	{Outdoors & Recreation,}
+369	Mon Feb 21 23:44:33 +0000 2011	4b623764f964a520bc3c2ae3	{Wells Fargo Bank}	{37.58692179465196,-122.36362380421167,Burlingame,CA,United States}	{Professional & Other Places,}
+369	Mon Feb 21 23:44:33 +0000 2011	4b623764f964a520bc3c2ae3	{Wells Fargo Bank}	{37.58692179465196,-122.36362380421167,Burlingame,CA,United States}	{Professional & Other Places,}
+369	Tue Feb 08 19:44:35 +0000 2011	4bc626e34241952128ad031d	{Wells Fargo Bank}	{37.80324020650981,-122.27235888754107,Oakland,CA,United States}	{Outdoors & Recreation,Shop & Service,}
+369	Tue Feb 08 00:03:04 +0000 2011	4a9078a0f964a5200b1820e3	{Starbucks}	{37.585868,-122.365049,Burlingame,CA,United States}	{Food,}
+369	Mon Feb 07 22:39:36 +0000 2011	4bc626e34241952128ad031d	{Wells Fargo Bank}	{37.80324020650981,-122.27235888754107,Oakland,CA,United States}	{Outdoors & Recreation,Shop & Service,}
+369	Mon Feb 07 22:12:50 +0000 2011	4ade4fdaf964a520e67421e3	{US Post Office}	{37.801341055101936,-122.26603031158447,Oakland,CA,United States}	{Professional & Other Places,}
+369	Mon Feb 07 03:57:48 +0000 2011	4d4ad2e8f2cc6a31686ec188	{Super Bowl Sunday}	{32.747868226330375,-97.09356307983398,Arlington,TX,United States}	{Stadium,Arts & Entertainment,}
+369	Sun Feb 06 07:16:16 +0000 2011	49e67e4ef964a52051641fe3	{Morac Lounge}	{37.7650568100571,-122.4225780158454,San Francisco,CA,United States}	{Nightlife Spot,}
+369	Thu Feb 03 05:54:58 +0000 2011	4b477ea0f964a520f63326e3	{SO}	{37.77242136065558,-122.40719679028894,San Francisco,CA,United States}	{Food,}
+369	Tue Jan 25 22:53:32 +0000 2011	4a70a893f964a5201ed81fe3	{Burger King}	{37.8035524,-122.27183,Oakland,CA,United States}	{Food,}
+369	Thu Jan 20 23:02:15 +0000 2011	4b3b9a0df964a520cf7625e3	{Kaiser Permanente Medical Center}	{37.783275899330974,-122.44051716606971,San Francisco,CA,United States}	{Medical Center,Professional & Other Places,}
+369	Tue Jan 18 21:48:48 +0000 2011	4d31e42d8c42a1cd782ae35d	{Winter Fancy Food Show 2011}	{37.784055,-122.402571,San Francisco,CA,United States}	{}
+369	Tue Jan 18 21:45:19 +0000 2011	43920c94f964a520682b1fe3	{Moscone Center}	{37.78390969122026,-122.40183591842651,San Francisco,CA,United States}	{Convention Center,Professional & Other Places,}
+369	Sat Jan 15 00:27:51 +0000 2011	4b477ea0f964a520f63326e3	{SO}	{37.77242136065558,-122.40719679028894,San Francisco,CA,United States}	{Food,}
+369	Tue Jan 11 00:04:52 +0000 2011	4a9078a0f964a5200b1820e3	{Starbucks}	{37.585868,-122.365049,Burlingame,CA,United States}	{Food,}
+369	Sun Jan 09 06:06:53 +0000 2011	4b477ea0f964a520f63326e3	{SO}	{37.77242136065558,-122.40719679028894,San Francisco,CA,United States}	{Food,}
+369	Thu Jan 06 23:59:57 +0000 2011	4a6f8754f964a52069d61fe3	{Kaiser Permanente Medical Center - Oakland}	{37.82469076403662,-122.25667885084425,Oakland,CA,United States}	{Travel & Transport,Medical Center,Professional & Other Places,}
+369	Thu Jan 06 23:43:09 +0000 2011	4a6f8754f964a52069d61fe3	{Kaiser Permanente Medical Center - Oakland}	{37.82469076403662,-122.25667885084425,Oakland,CA,United States}	{Travel & Transport,Medical Center,Professional & Other Places,}
+369	Thu Jan 06 20:30:06 +0000 2011	4b3b9a0df964a520cf7625e3	{Kaiser Permanente Medical Center}	{37.783275899330974,-122.44051716606971,San Francisco,CA,United States}	{Medical Center,Professional & Other Places,}
+369	Wed Dec 29 00:05:48 +0000 2010	4b319ad0f964a5209e0925e3	{Shabu House}	{37.585503,-122.364721,Burlingame,CA,United States}	{Food,}
+369	Tue Dec 28 23:51:40 +0000 2010	4b0d81cef964a520c94923e3	{SUBWAY}	{37.58552,-122.365379,Burlingame,CA,United States}	{Food,}
+369	Tue Dec 28 22:28:55 +0000 2010	468eecfdf964a5208f481fe3	{12th St. Oakland City Center BART Station}	{37.803155172813554,-122.27197408676147,Oakland,CA,United States}	{Travel & Transport,Train Station,}
+369	Wed Dec 22 18:48:28 +0000 2010	4adcb090f964a520ca2e21e3	{Peet's Coffee & Tea}	{37.77071994882717,-122.40745122657334,San Francisco,CA,United States}	{Food,}
+369	Wed Dec 22 04:14:08 +0000 2010	413ba880f964a520e51a1fe3	{Gordon Biersch Brewery Restaurant}	{37.78957363984066,-122.38885939121246,San Francisco,CA,United States}	{Nightlife Spot,Food,}
+369	Wed Dec 22 03:16:08 +0000 2010	4a05f00af964a5209e721fe3	{Macy's Mens Store}	{37.78683498834927,-122.40621864795685,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+369	Wed Dec 22 02:09:31 +0000 2010	49d2c3b6f964a520d15b1fe3	{San Francisco Marriott Marquis}	{37.784757615348575,-122.40434646606445,San Francisco,CA,United States}	{Travel & Transport,}
+369	Wed Dec 22 01:31:00 +0000 2010	4b1c59a2f964a5206b0624e3	{Nordstrom}	{37.784045359734506,-122.40756511688232,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+369	Wed Dec 22 00:25:27 +0000 2010	4a9acb48f964a520c03220e3	{Kate Spade}	{37.784296,-122.407455,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+369	Tue Dec 21 23:01:09 +0000 2010	452b81ddf964a520393b1fe3	{Westfield San Francisco Centre}	{37.78448965,-122.4063157,San Francisco,CA,United States}	{Shop & Service,}
+369	Mon Dec 20 22:33:15 +0000 2010	4bc626e34241952128ad031d	{Wells Fargo Bank}	{37.80324020650981,-122.27235888754107,Oakland,CA,United States}	{Outdoors & Recreation,Shop & Service,}
+369	Sun Dec 19 20:36:32 +0000 2010	4b2d393bf964a5207bd124e3	{King Wah Seafood Restaurant ??????}	{37.69710737388047,-122.48477125269198,Daly City,CA,United States}	{Food,}
+369	Wed Dec 15 23:07:03 +0000 2010	4a7b6137f964a520daea1fe3	{Publico Urban Taqueria}	{37.770883701298075,-122.40734060217753,San Francisco,CA,United States}	{Food,}
+369	Mon Dec 13 23:57:30 +0000 2010	4a259c29f964a520717e1fe3	{Village Host Pizza & Grill}	{37.58606984989729,-122.36457003165606,Burlingame,CA,United States}	{Food,}
+369	Mon Dec 13 02:57:23 +0000 2010	4a80d5a6f964a5204af61fe3	{Sura Korean Cuisine}	{37.8353873,-122.263067,Oakland,CA,United States}	{Food,}
+369	Sat Dec 11 00:40:53 +0000 2010	4b09a3bdf964a520d11a23e3	{Cups and Cakes}	{37.77192898,-122.40933,San Francisco,CA,United States}	{Food,}
+369	Thu Dec 09 22:07:36 +0000 2010	485060c0f964a52094501fe3	{Walmart}	{37.738853979980995,-122.1985673904419,Oakland,CA,United States}	{Shop & Service,Professional & Other Places,}
+369	Thu Dec 09 20:43:31 +0000 2010	4a682b57f964a52059ca1fe3	{In-N-Out Burger}	{37.73983817038426,-122.19826698303223,Oakland,CA,United States}	{Food,}
+369	Tue Dec 07 02:15:23 +0000 2010	4b319ad0f964a5209e0925e3	{Shabu House}	{37.585503,-122.364721,Burlingame,CA,United States}	{Food,}
+369	Mon Dec 06 23:51:46 +0000 2010	49d66993f964a520c65c1fe3	{Bonne Sante}	{37.586527,-122.364594,Burlingame,CA,United States}	{Food,}
+369	Mon Nov 29 03:51:51 +0000 2010	4ad4eb13f964a520affc20e3	{Burger Bar}	{37.78736916053961,-122.40744709968567,San Francisco,CA,United States}	{Food,}
+369	Mon Nov 29 03:21:07 +0000 2010	40bbc700f964a520b1001fe3	{Union Square}	{37.787750172585,-122.40762822536455,San Francisco,CA,United States}	{Outdoors & Recreation,}
+369	Mon Nov 29 03:02:53 +0000 2010	4bdba30e63c5c9b6ec1e2968	{Aldo Shoes}	{37.786819,-122.408082,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+369	Mon Nov 29 02:36:27 +0000 2010	43f8404cf964a520c22f1fe3	{Macy's}	{37.78755853482698,-122.40750653872762,San Francisco,CA,United States}	{Shop & Service,}
+369	Mon Nov 29 00:59:49 +0000 2010	45214142f964a520c03a1fe3	{H&M}	{37.7861518994364,-122.4079205095768,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+369	Mon Nov 29 00:11:03 +0000 2010	4a29d524f964a520e4951fe3	{GameStop}	{37.78531758504842,-122.40642794647029,San Francisco,CA,United States}	{Shop & Service,}
+369	Sun Nov 28 23:53:24 +0000 2010	4eed1680b8f76a24a4c5578f	{XXI}	{37.785944692784945,-122.40604162216187,San Francisco,CA,United States}	{Shop & Service,Clothing Store,}
+369	Sat Nov 27 18:30:02 +0000 2010	4b477ea0f964a520f63326e3	{SO}	{37.77242136065558,-122.40719679028894,San Francisco,CA,United States}	{Food,}
+369	Sat Nov 27 18:18:43 +0000 2010	4adcb090f964a520ca2e21e3	{Peet's Coffee & Tea}	{37.77071994882717,-122.40745122657334,San Francisco,CA,United States}	{Food,}
+369	Sat Nov 27 01:04:53 +0000 2010	4c280020fe6e2d7f4ab4523c	{Rekz's Nest}	{37.77207813282158,-122.24837264801869,Alameda,CA,United States}	{Residence,}
+369	Fri Nov 26 18:00:15 +0000 2010	4b3b9a0df964a520cf7625e3	{Kaiser Permanente Medical Center}	{37.783275899330974,-122.44051716606971,San Francisco,CA,United States}	{Medical Center,Professional & Other Places,}
+369	Fri Nov 26 17:36:16 +0000 2010	40bbc700f964a520b1001fe3	{Union Square}	{37.787750172585,-122.40762822536455,San Francisco,CA,United States}	{Outdoors & Recreation,}
+369	Fri Nov 26 05:23:13 +0000 2010	4c2d3d7e4e132d7f6c2b9cdf	{I-880 (Nimitz Fwy)}	{37.483866013277066,-121.93693399429321,East Bay Area,CA,United States}	{Travel & Transport,Outdoors & Recreation,Residence,}
+369	Wed Nov 24 23:54:12 +0000 2010	4b477ea0f964a520f63326e3	{SO}	{37.77242136065558,-122.40719679028894,San Francisco,CA,United States}	{Food,}
+369	Wed Nov 24 00:03:11 +0000 2010	4b319ad0f964a5209e0925e3	{Shabu House}	{37.585503,-122.364721,Burlingame,CA,United States}	{Food,}
+369	Tue Nov 23 08:09:27 +0000 2010	4c280020fe6e2d7f4ab4523c	{Rekz's Nest}	{37.77207813282158,-122.24837264801869,Alameda,CA,United States}	{Residence,}
+369	Mon Nov 22 07:35:42 +0000 2010	4c280020fe6e2d7f4ab4523c	{Rekz's Nest}	{37.77207813282158,-122.24837264801869,Alameda,CA,United States}	{Residence,}
+369	Sun Nov 21 11:38:33 +0000 2010	4c280020fe6e2d7f4ab4523c	{Rekz's Nest}	{37.77207813282158,-122.24837264801869,Alameda,CA,United States}	{Residence,}
+369	Sat Nov 20 23:32:59 +0000 2010	4b477ea0f964a520f63326e3	{SO}	{37.77242136065558,-122.40719679028894,San Francisco,CA,United States}	{Food,}
+369	Sat Nov 20 10:26:35 +0000 2010	4c280020fe6e2d7f4ab4523c	{Rekz's Nest}	{37.77207813282158,-122.24837264801869,Alameda,CA,United States}	{Residence,}
+369	Wed Nov 17 00:23:46 +0000 2010	4a9078a0f964a5200b1820e3	{Starbucks}	{37.585868,-122.365049,Burlingame,CA,United States}	{Food,}
+369	Tue Nov 09 23:43:31 +0000 2010	4b79e068f964a520bf172fe3	{Elie Boutique}	{37.585033,-122.36564333333334,Burlingame,CA,United States}	{Shop & Service,Clothing Store,}
+369	Tue Nov 09 00:01:13 +0000 2010	49d66993f964a520c65c1fe3	{Bonne Sante}	{37.586527,-122.364594,Burlingame,CA,United States}	{Food,}
+369	Mon Nov 08 22:27:22 +0000 2010	4bc626e34241952128ad031d	{Wells Fargo Bank}	{37.80324020650981,-122.27235888754107,Oakland,CA,United States}	{Outdoors & Recreation,Shop & Service,}
+369	Sun Nov 07 07:02:14 +0000 2010	4a4700e9f964a520bca91fe3	{Grand Tavern}	{37.81515774469184,-122.24609345197678,Oakland,CA,United States}	{Nightlife Spot,Food,}

@@ -1,0 +1,305 @@
+1822	Fri Nov 25 23:54:04 +0000 2011	4a26b26bf964a520c17e1fe3	{In-N-Out Burger}	{34.106164,-118.134381,Alhambra,CA,United States}	{Food,}
+===
+1822	Thu Aug 11 00:42:16 +0000 2011	4a26b26bf964a520c17e1fe3	{In-N-Out Burger}	{34.106164,-118.134381,Alhambra,CA,United States}	{Food,}
+1822	Tue Aug 09 01:12:00 +0000 2011	4a26b26bf964a520c17e1fe3	{In-N-Out Burger}	{34.106164,-118.134381,Alhambra,CA,United States}	{Food,}
+1822	Mon Aug 08 18:57:32 +0000 2011	4a185165f964a5209e791fe3	{Ralphs}	{34.04545626030918,-118.26074509562864,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Sun Aug 07 15:22:43 +0000 2011	4caccc3c51399eb00ccbce03	{Pavilions}	{34.112284229951825,-118.15040588378906,South Pasadena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Sat Aug 06 23:12:35 +0000 2011	4c6014c5b6f3be9a3c755e73	{AMC Atlantic Times Square 14}	{34.06776952820561,-118.13392639160156,Monterey Park,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1822	Sat Aug 06 19:47:46 +0000 2011	4b889b34f964a520fb0332e3	{United Oil}	{34.10094897471505,-118.1305468082428,Alhambra,CA,United States}	{Shop & Service,}
+1822	Fri Aug 05 23:40:51 +0000 2011	4d89449e4757721e99fd9e69	{Angel Nails}	{34.10229372609764,-118.10845878092894,San Gabriel,CA,United States}	{Shop & Service,}
+1822	Fri Aug 05 21:26:23 +0000 2011	4c7e7e2c0b2a9eb00f7e651f	{Payless ShoeSource}	{33.91804306282199,-118.07435989379883,Norwalk,CA,United States}	{Shop & Service,Clothing Store,}
+1822	Thu Aug 04 19:29:15 +0000 2011	49e0e51ef964a5207c611fe3	{Rivera Restaurant}	{34.04324535198881,-118.26377749443054,Los Angeles,CA,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+1822	Thu Aug 04 00:41:57 +0000 2011	4a26b26bf964a520c17e1fe3	{In-N-Out Burger}	{34.106164,-118.134381,Alhambra,CA,United States}	{Food,}
+1822	Wed Aug 03 02:30:47 +0000 2011	4ab46403f964a520197120e3	{Target}	{34.14713067463159,-118.0858712520539,Pasadena,CA,United States}	{Shop & Service,Arts & Entertainment,}
+1822	Wed Aug 03 02:05:27 +0000 2011	4aaab43cf964a520075720e3	{Target}	{34.14652167498666,-118.13476911761893,Pasadena,CA,United States}	{Shop & Service,Clothing Store,}
+1822	Tue Aug 02 15:34:09 +0000 2011	4ab02832f964a520416620e3	{Target}	{34.0910785585638,-118.14740284039215,Alhambra,CA,United States}	{Shop & Service,}
+1822	Tue Aug 02 02:17:38 +0000 2011	4b6c65fff964a520ce362ce3	{Big Lots}	{34.103959,-118.15190027,South Pasadena,CA,United States}	{Shop & Service,}
+1822	Sun Jul 31 23:29:19 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1822	Sun Jul 31 21:02:06 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+1822	Sun Jul 31 06:03:02 +0000 2011	4bc435f9dce4eee16704729d	{Harbor Beach Marriott Resort & Spa}	{26.10725,-80.10639,Fort Lauderdale,FL,United States}	{Travel & Transport,Shop & Service,Hotel,}
+1822	Fri Jul 29 16:45:40 +0000 2011	4e2eb3447d8bf59d290eacc8	{National Barbie Convention 2011}	{26.106579,-80.105854,Fort Lauderdale,FL,United States}	{Travel & Transport,}
+1822	Tue Jul 26 11:06:55 +0000 2011	4bbe3fff53e99521c1f92ca9	{Fort Lauderdale-Hollywood International Airport (FLL)}	{26.071085321330138,-80.1408863067627,Ft Lauderdale,FL,United States}	{Travel & Transport,}
+1822	Tue Jul 26 04:44:39 +0000 2011	4bfc1f2fd6f2c9b64ac04ec8	{Gate 36}	{33.94663528032748,-118.40692698955536,Los Angeles,CA,United States}	{Travel & Transport,Airport,}
+1822	Tue Jul 26 03:58:19 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1822	Mon Jul 25 21:54:49 +0000 2011	4a80c8d5f964a5202ef61fe3	{Ralphs}	{34.097768444468464,-118.1233574102159,Alhambra,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Mon Jul 25 21:02:24 +0000 2011	4c7e7e550b2a9eb04e7e651f	{Payless ShoeSource}	{34.094756,-118.12553107738495,Alhambra,CA,United States}	{Shop & Service,Clothing Store,}
+1822	Mon Jul 25 00:49:57 +0000 2011	4aaab43cf964a520075720e3	{Target}	{34.14652167498666,-118.13476911761893,Pasadena,CA,United States}	{Shop & Service,Clothing Store,}
+1822	Sun Jul 24 15:28:58 +0000 2011	4caccc3c51399eb00ccbce03	{Pavilions}	{34.112284229951825,-118.15040588378906,South Pasadena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Sat Jul 23 22:11:10 +0000 2011	4b340b72f964a520522425e3	{Old Navy}	{34.15279800876394,-118.0807113647461,Pasadena,CA,United States}	{Shop & Service,Clothing Store,}
+1822	Sat Jul 23 21:38:24 +0000 2011	4b47ff9ef964a520184626e3	{Party City}	{34.15239847185455,-118.08166086673737,Pasadena,CA,United States}	{Shop & Service,}
+1822	Sat Jul 23 20:35:08 +0000 2011	4c3e929f80bc20a1004bab58	{Beto's Grill}	{34.103215426099965,-118.0941647339898,San Gabriel,CA,United States}	{Food,}
+1822	Thu Jul 21 03:33:34 +0000 2011	4a95ff27f964a520c82520e3	{Alondra Hot Wings}	{34.092622,-118.13257743406557,Alhambra,CA,United States}	{Nightlife Spot,Food,}
+1822	Thu Jul 21 00:52:50 +0000 2011	4acce321f964a520e3c920e3	{McDonald's}	{34.077262934426074,-118.13944330189747,Alhambra,CA,United States}	{Food,}
+1822	Tue Jul 19 00:09:25 +0000 2011	4a26b26bf964a520c17e1fe3	{In-N-Out Burger}	{34.106164,-118.134381,Alhambra,CA,United States}	{Food,}
+1822	Sun Jul 17 14:58:01 +0000 2011	4caccc3c51399eb00ccbce03	{Pavilions}	{34.112284229951825,-118.15040588378906,South Pasadena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Sat Jul 16 02:38:19 +0000 2011	4d5351d8bdbea1cd8524db92	{Caramba Mexican Restaurant & Cocktails}	{34.09488895827054,-118.15688752905734,Alhambra,CA,United States}	{Food,}
+1822	Sat Jul 16 02:37:52 +0000 2011	4d5351d8bdbea1cd8524db92	{Caramba Mexican Restaurant & Cocktails}	{34.09488895827054,-118.15688752905734,Alhambra,CA,United States}	{Food,}
+1822	Fri Jul 15 03:31:38 +0000 2011	4a9db119f964a520f53820e3	{AMC Santa Anita 16}	{34.13525211860911,-118.0491042137146,Arcadia,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1822	Thu Jul 14 02:41:07 +0000 2011	4b397c3ff964a520255d25e3	{CVS}	{34.098958,-118.11785902,Alhambra,CA,United States}	{Shop & Service,}
+1822	Thu Jul 14 02:24:31 +0000 2011	4ab02832f964a520416620e3	{Target}	{34.0910785585638,-118.14740284039215,Alhambra,CA,United States}	{Shop & Service,}
+1822	Thu Jul 14 00:16:16 +0000 2011	4a26b26bf964a520c17e1fe3	{In-N-Out Burger}	{34.106164,-118.134381,Alhambra,CA,United States}	{Food,}
+1822	Wed Jul 13 01:11:06 +0000 2011	4b397c3ff964a520255d25e3	{CVS}	{34.098958,-118.11785902,Alhambra,CA,United States}	{Shop & Service,}
+1822	Wed Jul 13 01:01:39 +0000 2011	4aeb7db7f964a5209ec221e3	{US Post Office}	{34.093035039485684,-118.12582039070658,Alhambra,CA,United States}	{Professional & Other Places,}
+1822	Tue Jul 12 03:46:43 +0000 2011	4ae3a2faf964a520889721e3	{7-Eleven}	{34.10278564437926,-118.11137345733042,San Gabriel,CA,United States}	{Shop & Service,}
+1822	Mon Jul 11 23:54:23 +0000 2011	4b889b34f964a520fb0332e3	{United Oil}	{34.10094897471505,-118.1305468082428,Alhambra,CA,United States}	{Shop & Service,}
+1822	Mon Jul 11 23:54:23 +0000 2011	4b889b34f964a520fb0332e3	{United Oil}	{34.10094897471505,-118.1305468082428,Alhambra,CA,United States}	{Shop & Service,}
+1822	Sun Jul 10 14:58:27 +0000 2011	4caccc3c51399eb00ccbce03	{Pavilions}	{34.112284229951825,-118.15040588378906,South Pasadena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Sat Jul 09 01:48:32 +0000 2011	40db6b00f964a5207d011fe3	{Dodger Stadium}	{34.073408462960174,-118.24019819498062,Los Angeles,CA,United States}	{Outdoors & Recreation,Stadium,Arts & Entertainment,Athletics & Sports,}
+1822	Sat Jul 09 00:41:02 +0000 2011	4abbb8e6f964a520938420e3	{Toys"R"Us}	{34.08679554122847,-118.15071702003479,Alhambra,CA,United States}	{Shop & Service,Clothing Store,}
+1822	Fri Jul 08 00:44:04 +0000 2011	4acce321f964a520e3c920e3	{McDonald's}	{34.077262934426074,-118.13944330189747,Alhambra,CA,United States}	{Food,}
+1822	Thu Jul 07 00:06:16 +0000 2011	4acce321f964a520e3c920e3	{McDonald's}	{34.077262934426074,-118.13944330189747,Alhambra,CA,United States}	{Food,}
+1822	Wed Jul 06 01:23:29 +0000 2011	4a80c8d5f964a5202ef61fe3	{Ralphs}	{34.097768444468464,-118.1233574102159,Alhambra,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Mon Jul 04 21:48:05 +0000 2011	4aa32558f964a520804320e3	{Zankou Chicken}	{34.145712,-118.123615,Pasadena,CA,United States}	{Food,}
+1822	Mon Jul 04 21:06:04 +0000 2011	4b889b34f964a520fb0332e3	{United Oil}	{34.10094897471505,-118.1305468082428,Alhambra,CA,United States}	{Shop & Service,}
+1822	Sun Jul 03 19:35:45 +0000 2011	4c3e929f80bc20a1004bab58	{Beto's Grill}	{34.103215426099965,-118.0941647339898,San Gabriel,CA,United States}	{Food,}
+1822	Sun Jul 03 18:36:43 +0000 2011	4b74cfc7f964a52056f32de3	{Ralphs}	{34.10530167927889,-118.13530054097596,South Pasadena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Sun Jul 03 17:57:49 +0000 2011	4acce321f964a520e3c920e3	{McDonald's}	{34.077262934426074,-118.13944330189747,Alhambra,CA,United States}	{Food,}
+1822	Sun Jul 03 05:41:13 +0000 2011	4b4d3a7bf964a520d5ce26e3	{McDonald's}	{34.08765,-118.17596361934149,Los Angeles,CA,United States}	{Food,}
+1822	Sat Jul 02 23:03:24 +0000 2011	4b86fc9af964a520d9a931e3	{Little Caesars}	{34.09905854912702,-118.11986574723808,Alhambra,CA,United States}	{Food,}
+1822	Sat Jul 02 16:29:28 +0000 2011	4ab02832f964a520416620e3	{Target}	{34.0910785585638,-118.14740284039215,Alhambra,CA,United States}	{Shop & Service,}
+1822	Sat Jul 02 01:21:15 +0000 2011	4c3e929f80bc20a1004bab58	{Beto's Grill}	{34.103215426099965,-118.0941647339898,San Gabriel,CA,United States}	{Food,}
+1822	Sat Jul 02 01:21:15 +0000 2011	4c3e929f80bc20a1004bab58	{Beto's Grill}	{34.103215426099965,-118.0941647339898,San Gabriel,CA,United States}	{Food,}
+1822	Fri Jul 01 23:59:22 +0000 2011	4a26b26bf964a520c17e1fe3	{In-N-Out Burger}	{34.106164,-118.134381,Alhambra,CA,United States}	{Food,}
+1822	Fri Jul 01 01:30:45 +0000 2011	4d89449e4757721e99fd9e69	{Angel Nails}	{34.10229372609764,-118.10845878092894,San Gabriel,CA,United States}	{Shop & Service,}
+1822	Thu Jun 30 03:58:57 +0000 2011	4bd5c2e0637ba5937cf1f670	{Kohl's}	{34.079703,-118.151899,Alhambra,CA,United States}	{Shop & Service,Clothing Store,}
+1822	Wed Jun 29 00:46:19 +0000 2011	4b74cfc7f964a52056f32de3	{Ralphs}	{34.10530167927889,-118.13530054097596,South Pasadena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Tue Jun 28 15:30:56 +0000 2011	4b889b34f964a520fb0332e3	{United Oil}	{34.10094897471505,-118.1305468082428,Alhambra,CA,United States}	{Shop & Service,}
+1822	Mon Jun 27 03:17:20 +0000 2011	4ab02832f964a520416620e3	{Target}	{34.0910785585638,-118.14740284039215,Alhambra,CA,United States}	{Shop & Service,}
+1822	Sun Jun 26 18:52:24 +0000 2011	40db6b00f964a5207d011fe3	{Dodger Stadium}	{34.073408462960174,-118.24019819498062,Los Angeles,CA,United States}	{Outdoors & Recreation,Stadium,Arts & Entertainment,Athletics & Sports,}
+1822	Sat Jun 25 17:47:23 +0000 2011	4b889b34f964a520fb0332e3	{United Oil}	{34.10094897471505,-118.1305468082428,Alhambra,CA,United States}	{Shop & Service,}
+1822	Fri Jun 24 00:54:46 +0000 2011	4a80c8d5f964a5202ef61fe3	{Ralphs}	{34.097768444468464,-118.1233574102159,Alhambra,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Thu Jun 23 23:25:30 +0000 2011	4bc00d75461576b003be7932	{Valley Food Liquor Store}	{34.073488771981154,-118.16334939082044,Los Angeles,CA,United States}	{Shop & Service,}
+1822	Thu Jun 23 00:11:18 +0000 2011	4a26b26bf964a520c17e1fe3	{In-N-Out Burger}	{34.106164,-118.134381,Alhambra,CA,United States}	{Food,}
+1822	Wed Jun 22 15:10:49 +0000 2011	4b889b34f964a520fb0332e3	{United Oil}	{34.10094897471505,-118.1305468082428,Alhambra,CA,United States}	{Shop & Service,}
+1822	Wed Jun 22 02:08:01 +0000 2011	4c6014c5b6f3be9a3c755e73	{AMC Atlantic Times Square 14}	{34.06776952820561,-118.13392639160156,Monterey Park,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1822	Wed Jun 22 01:09:39 +0000 2011	4a26b26bf964a520c17e1fe3	{In-N-Out Burger}	{34.106164,-118.134381,Alhambra,CA,United States}	{Food,}
+1822	Mon Jun 20 01:06:06 +0000 2011	4b397c3ff964a520255d25e3	{CVS}	{34.098958,-118.11785902,Alhambra,CA,United States}	{Shop & Service,}
+1822	Sun Jun 19 14:51:15 +0000 2011	4caccc3c51399eb00ccbce03	{Pavilions}	{34.112284229951825,-118.15040588378906,South Pasadena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Sun Jun 19 05:47:40 +0000 2011	4a9713c4f964a520502820e3	{Edwards Renaissance Stadium 14}	{34.0958671604391,-118.12699556350708,Alhambra,CA,United States}	{Arts & Entertainment,}
+1822	Sun Jun 19 00:53:22 +0000 2011	4ba16c09f964a520a3b537e3	{Rite Aid}	{34.09616572934433,-118.12606040086803,Alhambra,CA,United States}	{Shop & Service,}
+1822	Sat Jun 18 21:37:45 +0000 2011	4a9713c4f964a520502820e3	{Edwards Renaissance Stadium 14}	{34.0958671604391,-118.12699556350708,Alhambra,CA,United States}	{Arts & Entertainment,}
+1822	Sat Jun 18 20:59:11 +0000 2011	4b3a6c87f964a520fe6625e3	{Johnny Rockets - Alhambra}	{34.095618,-118.1267,Alhambra,CA,United States}	{Food,}
+1822	Sat Jun 18 01:07:02 +0000 2011	4aeb7db7f964a5209ec221e3	{US Post Office}	{34.093035039485684,-118.12582039070658,Alhambra,CA,United States}	{Professional & Other Places,}
+1822	Sat Jun 18 01:01:18 +0000 2011	4b5e61a5f964a520428c29e3	{Bamboo Garden}	{34.07631439224192,-118.15289945194513,Alhambra,CA,United States}	{Food,}
+1822	Sat Jun 18 01:01:18 +0000 2011	4b5e61a5f964a520428c29e3	{Bamboo Garden}	{34.07631439224192,-118.15289945194513,Alhambra,CA,United States}	{Food,}
+1822	Thu Jun 16 01:26:31 +0000 2011	4ab02832f964a520416620e3	{Target}	{34.0910785585638,-118.14740284039215,Alhambra,CA,United States}	{Shop & Service,}
+1822	Thu Jun 16 00:52:18 +0000 2011	4abd40e0f964a520408920e3	{Party City}	{34.086657,-118.151018,Alhambra,CA,United States}	{Shop & Service,}
+1822	Wed Jun 15 20:04:51 +0000 2011	4ba00a9df964a520e05437e3	{Bank Of America}	{34.039567,-118.260671,Los Angeles,CA,United States}	{Shop & Service,}
+1822	Wed Jun 15 01:48:25 +0000 2011	4a9713c4f964a520502820e3	{Edwards Renaissance Stadium 14}	{34.0958671604391,-118.12699556350708,Alhambra,CA,United States}	{Arts & Entertainment,}
+1822	Tue Jun 14 22:21:30 +0000 2011	4a80c8d5f964a5202ef61fe3	{Ralphs}	{34.097768444468464,-118.1233574102159,Alhambra,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Tue Jun 14 22:00:09 +0000 2011	4aeb7db7f964a5209ec221e3	{US Post Office}	{34.093035039485684,-118.12582039070658,Alhambra,CA,United States}	{Professional & Other Places,}
+1822	Tue Jun 14 22:00:08 +0000 2011	4aeb7db7f964a5209ec221e3	{US Post Office}	{34.093035039485684,-118.12582039070658,Alhambra,CA,United States}	{Professional & Other Places,}
+1822	Tue Jun 14 15:17:12 +0000 2011	4aca3687f964a520e4c020e3	{Starbucks}	{34.094859,-118.128249,Alhambra,CA,United States}	{Food,}
+1822	Tue Jun 14 02:07:46 +0000 2011	4a9713c4f964a520502820e3	{Edwards Renaissance Stadium 14}	{34.0958671604391,-118.12699556350708,Alhambra,CA,United States}	{Arts & Entertainment,}
+1822	Tue Jun 14 00:34:17 +0000 2011	4a26b26bf964a520c17e1fe3	{In-N-Out Burger}	{34.106164,-118.134381,Alhambra,CA,United States}	{Food,}
+1822	Sun Jun 12 14:58:41 +0000 2011	4caccc3c51399eb00ccbce03	{Pavilions}	{34.112284229951825,-118.15040588378906,South Pasadena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Sun Jun 12 04:23:21 +0000 2011	4bbb91a53de8c9b6e3ed99ad	{Perfectly Sweet}	{34.09415995,-118.12836495,Alhambra,CA,United States}	{Food,}
+1822	Sun Jun 12 03:08:10 +0000 2011	4a370709f964a520259e1fe3	{Yogurtland}	{34.078825728156254,-118.12275827103002,Alhambra,CA,United States}	{Food,}
+1822	Sun Jun 12 02:58:43 +0000 2011	4bc00d75461576b003be7932	{Valley Food Liquor Store}	{34.073488771981154,-118.16334939082044,Los Angeles,CA,United States}	{Shop & Service,}
+1822	Sun Jun 12 02:58:43 +0000 2011	4bc00d75461576b003be7932	{Valley Food Liquor Store}	{34.073488771981154,-118.16334939082044,Los Angeles,CA,United States}	{Shop & Service,}
+1822	Sun Jun 12 01:23:32 +0000 2011	4c3e929f80bc20a1004bab58	{Beto's Grill}	{34.103215426099965,-118.0941647339898,San Gabriel,CA,United States}	{Food,}
+1822	Sat Jun 11 22:24:46 +0000 2011	4b8f128cf964a520a94733e3	{Glen Mor}	{33.978136128553956,-117.32025146484375,Riverside,CA,United States}	{College & University,}
+1822	Sat Jun 11 19:13:50 +0000 2011	4d8e1fbd788c5481bf3d31fd	{Sure Beauty}	{34.10227335020617,-118.1084702111273,San Gabriel,CA,United States}	{Shop & Service,}
+1822	Sat Jun 11 18:28:39 +0000 2011	4d89449e4757721e99fd9e69	{Angel Nails}	{34.10229372609764,-118.10845878092894,San Gabriel,CA,United States}	{Shop & Service,}
+1822	Fri Jun 10 00:26:26 +0000 2011	4a26b26bf964a520c17e1fe3	{In-N-Out Burger}	{34.106164,-118.134381,Alhambra,CA,United States}	{Food,}
+1822	Thu Jun 09 04:40:57 +0000 2011	4bb2996242959c74e317212c	{San Gabriel Valley Medical Center}	{34.10080683021245,-118.105908036232,San Gabriel,CA,United States}	{Medical Center,Professional & Other Places,}
+1822	Thu Jun 09 04:29:05 +0000 2011	4b397c3ff964a520255d25e3	{CVS}	{34.098958,-118.11785902,Alhambra,CA,United States}	{Shop & Service,}
+1822	Wed Jun 08 22:25:31 +0000 2011	4aeb7db7f964a5209ec221e3	{US Post Office}	{34.093035039485684,-118.12582039070658,Alhambra,CA,United States}	{Professional & Other Places,}
+1822	Wed Jun 08 15:18:56 +0000 2011	4b889b34f964a520fb0332e3	{United Oil}	{34.10094897471505,-118.1305468082428,Alhambra,CA,United States}	{Shop & Service,}
+1822	Sun Jun 05 18:59:44 +0000 2011	4a32b327f964a5207c9a1fe3	{First Lady Nails}	{34.10291032,-118.097198,San Gabriel,CA,United States}	{Shop & Service,}
+1822	Sun Jun 05 18:59:44 +0000 2011	4a32b327f964a5207c9a1fe3	{First Lady Nails}	{34.10291032,-118.097198,San Gabriel,CA,United States}	{Shop & Service,}
+1822	Sun Jun 05 14:55:42 +0000 2011	4caccc3c51399eb00ccbce03	{Pavilions}	{34.112284229951825,-118.15040588378906,South Pasadena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Sat Jun 04 23:07:16 +0000 2011	4b8f128cf964a520a94733e3	{Glen Mor}	{33.978136128553956,-117.32025146484375,Riverside,CA,United States}	{College & University,}
+1822	Sat Jun 04 00:39:40 +0000 2011	4aeb7db7f964a5209ec221e3	{US Post Office}	{34.093035039485684,-118.12582039070658,Alhambra,CA,United States}	{Professional & Other Places,}
+1822	Fri Jun 03 16:13:54 +0000 2011	4aeb7db7f964a5209ec221e3	{US Post Office}	{34.093035039485684,-118.12582039070658,Alhambra,CA,United States}	{Professional & Other Places,}
+1822	Fri Jun 03 16:07:07 +0000 2011	4c9d754f8afca0935576f715	{Citibank}	{34.09320286516283,-118.12615183322366,Alhambra,CA,United States}	{Shop & Service,}
+1822	Fri Jun 03 04:42:54 +0000 2011	4ab02832f964a520416620e3	{Target}	{34.0910785585638,-118.14740284039215,Alhambra,CA,United States}	{Shop & Service,}
+1822	Fri Jun 03 03:49:23 +0000 2011	4a7710c3f964a5207ae31fe3	{Costco}	{34.08940611377252,-118.1485227462375,Alhambra,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Fri Jun 03 03:03:11 +0000 2011	4b43f6caf964a5202fef25e3	{76}	{34.09845,-118.134989,Alhambra,CA,United States}	{Shop & Service,}
+1822	Thu Jun 02 23:59:24 +0000 2011	4b6e76a5f964a52066be2ce3	{7-Eleven}	{34.104929475032534,-118.1342343354534,Alhambra,CA,United States}	{Shop & Service,}
+1822	Wed Jun 01 04:56:31 +0000 2011	4b397c3ff964a520255d25e3	{CVS}	{34.098958,-118.11785902,Alhambra,CA,United States}	{Shop & Service,}
+1822	Wed Jun 01 03:23:39 +0000 2011	4bf6d917508c0f4740fc3c31	{24 Hour Fitness}	{34.06929152830022,-118.13392340829004,Monterey Park,CA,United States}	{Shop & Service,}
+1822	Mon May 30 22:06:21 +0000 2011	4a80c8d5f964a5202ef61fe3	{Ralphs}	{34.097768444468464,-118.1233574102159,Alhambra,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Mon May 30 00:32:45 +0000 2011	4b7234aaf964a520da732de3	{CVS/pharmacy}	{34.07644556426397,-118.1515624543187,Alhambra,CA,United States}	{Shop & Service,}
+1822	Mon May 30 00:27:05 +0000 2011	4b5e61a5f964a520428c29e3	{Bamboo Garden}	{34.07631439224192,-118.15289945194513,Alhambra,CA,United States}	{Food,}
+1822	Sun May 29 18:26:49 +0000 2011	4a80c8d5f964a5202ef61fe3	{Ralphs}	{34.097768444468464,-118.1233574102159,Alhambra,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Sun May 29 15:26:53 +0000 2011	4b881f10f964a5204de131e3	{McDonald's}	{34.09992049540854,-118.11773985604967,Alhambra,CA,United States}	{Food,}
+1822	Sun May 29 15:03:24 +0000 2011	4caccc3c51399eb00ccbce03	{Pavilions}	{34.112284229951825,-118.15040588378906,South Pasadena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Sun May 29 07:10:48 +0000 2011	4b881f10f964a5204de131e3	{McDonald's}	{34.09992049540854,-118.11773985604967,Alhambra,CA,United States}	{Food,}
+1822	Sun May 29 07:01:39 +0000 2011	4a80c8d5f964a5202ef61fe3	{Ralphs}	{34.097768444468464,-118.1233574102159,Alhambra,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Sun May 29 05:56:20 +0000 2011	4d9fc0dd4977236af600b596	{Fluff Ice}	{34.068663066666666,-118.133918,Monterey Park,CA,United States}	{Food,}
+1822	Sun May 29 04:07:08 +0000 2011	4bf6d917508c0f4740fc3c31	{24 Hour Fitness}	{34.06929152830022,-118.13392340829004,Monterey Park,CA,United States}	{Shop & Service,}
+1822	Sat May 28 23:23:37 +0000 2011	4c54bebbfd2ea5931a628e2a	{Casa Adobe de San Rafael}	{34.16599598,-118.263588,Glendale,CA,United States}	{Arts & Entertainment,}
+1822	Sat May 28 00:48:53 +0000 2011	4a26b26bf964a520c17e1fe3	{In-N-Out Burger}	{34.106164,-118.134381,Alhambra,CA,United States}	{Food,}
+1822	Fri May 27 23:11:00 +0000 2011	4aeb7db7f964a5209ec221e3	{US Post Office}	{34.093035039485684,-118.12582039070658,Alhambra,CA,United States}	{Professional & Other Places,}
+1822	Fri May 27 23:06:54 +0000 2011	4c9d754f8afca0935576f715	{Citibank}	{34.09320286516283,-118.12615183322366,Alhambra,CA,United States}	{Shop & Service,}
+1822	Fri May 27 22:44:41 +0000 2011	4a370709f964a520259e1fe3	{Yogurtland}	{34.078825728156254,-118.12275827103002,Alhambra,CA,United States}	{Food,}
+1822	Fri May 27 22:35:12 +0000 2011	4bc00d75461576b003be7932	{Valley Food Liquor Store}	{34.073488771981154,-118.16334939082044,Los Angeles,CA,United States}	{Shop & Service,}
+1822	Fri May 27 00:41:20 +0000 2011	4a26b26bf964a520c17e1fe3	{In-N-Out Burger}	{34.106164,-118.134381,Alhambra,CA,United States}	{Food,}
+1822	Thu May 26 15:38:21 +0000 2011	4bd854d55cf276b08cf29c00	{Pacific Orthopaedic Medical Group}	{34.088823263890454,-118.12346027320555,Alhambra,CA,United States}	{Medical Center,Professional & Other Places,}
+1822	Thu May 26 15:29:19 +0000 2011	4c93c09438dd8cfad398c262	{7-Eleven}	{34.091496734333205,-118.11964247868977,Alhambra,CA,United States}	{Shop & Service,}
+1822	Thu May 26 00:07:49 +0000 2011	4b7f6a9af964a5206a2d30e3	{Smart & Final}	{34.09944756134817,-118.11959266662598,Alhambra,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Wed May 25 23:44:29 +0000 2011	4a26b26bf964a520c17e1fe3	{In-N-Out Burger}	{34.106164,-118.134381,Alhambra,CA,United States}	{Food,}
+1822	Wed May 25 23:44:29 +0000 2011	4a26b26bf964a520c17e1fe3	{In-N-Out Burger}	{34.106164,-118.134381,Alhambra,CA,United States}	{Food,}
+1822	Wed May 25 23:32:32 +0000 2011	4c6f087ddf6b8cfaf4fdb34d	{Facey Medical Group - San Gabriel}	{34.10100227884198,-118.10697555541992,San Gabriel,CA,United States}	{Medical Center,Professional & Other Places,}
+1822	Wed May 25 03:05:48 +0000 2011	4bf6d917508c0f4740fc3c31	{24 Hour Fitness}	{34.06929152830022,-118.13392340829004,Monterey Park,CA,United States}	{Shop & Service,}
+1822	Wed May 25 01:05:27 +0000 2011	4a26b26bf964a520c17e1fe3	{In-N-Out Burger}	{34.106164,-118.134381,Alhambra,CA,United States}	{Food,}
+1822	Tue May 24 01:59:57 +0000 2011	4b6e76a5f964a52066be2ce3	{7-Eleven}	{34.104929475032534,-118.1342343354534,Alhambra,CA,United States}	{Shop & Service,}
+1822	Mon May 23 01:39:20 +0000 2011	4a26b26bf964a520c17e1fe3	{In-N-Out Burger}	{34.106164,-118.134381,Alhambra,CA,United States}	{Food,}
+1822	Mon May 23 00:45:04 +0000 2011	4ae8709bf964a5205aaf21e3	{Walmart Supercenter}	{34.0504193409921,-118.08405876159668,Rosemead,CA,United States}	{Shop & Service,}
+1822	Sun May 22 21:35:31 +0000 2011	4b889b34f964a520fb0332e3	{United Oil}	{34.10094897471505,-118.1305468082428,Alhambra,CA,United States}	{Shop & Service,}
+1822	Sun May 22 17:26:06 +0000 2011	4b881f10f964a5204de131e3	{McDonald's}	{34.09992049540854,-118.11773985604967,Alhambra,CA,United States}	{Food,}
+1822	Sun May 22 14:55:05 +0000 2011	4caccc3c51399eb00ccbce03	{Pavilions}	{34.112284229951825,-118.15040588378906,South Pasadena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Sun May 22 05:41:29 +0000 2011	4b86fc9af964a520d9a931e3	{Little Caesars}	{34.09905854912702,-118.11986574723808,Alhambra,CA,United States}	{Food,}
+1822	Sun May 22 05:41:29 +0000 2011	4b86fc9af964a520d9a931e3	{Little Caesars}	{34.09905854912702,-118.11986574723808,Alhambra,CA,United States}	{Food,}
+1822	Sat May 21 23:41:13 +0000 2011	4a26b26bf964a520c17e1fe3	{In-N-Out Burger}	{34.106164,-118.134381,Alhambra,CA,United States}	{Food,}
+1822	Sat May 21 23:31:49 +0000 2011	4b881f10f964a5204de131e3	{McDonald's}	{34.09992049540854,-118.11773985604967,Alhambra,CA,United States}	{Food,}
+1822	Sat May 21 23:31:49 +0000 2011	4b881f10f964a5204de131e3	{McDonald's}	{34.09992049540854,-118.11773985604967,Alhambra,CA,United States}	{Food,}
+1822	Sat May 21 23:20:04 +0000 2011	4b397c3ff964a520255d25e3	{CVS}	{34.098958,-118.11785902,Alhambra,CA,United States}	{Shop & Service,}
+1822	Sat May 21 22:16:04 +0000 2011	4c9d754f8afca0935576f715	{Citibank}	{34.09320286516283,-118.12615183322366,Alhambra,CA,United States}	{Shop & Service,}
+1822	Sat May 21 22:16:04 +0000 2011	4c9d754f8afca0935576f715	{Citibank}	{34.09320286516283,-118.12615183322366,Alhambra,CA,United States}	{Shop & Service,}
+1822	Sat May 21 22:14:08 +0000 2011	4aeb7db7f964a5209ec221e3	{US Post Office}	{34.093035039485684,-118.12582039070658,Alhambra,CA,United States}	{Professional & Other Places,}
+1822	Sat May 21 19:02:24 +0000 2011	4b9c675df964a5202a6636e3	{Moor Field}	{34.082158416048024,-118.12998052010242,Alhambra,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1822	Sat May 21 05:21:54 +0000 2011	4aca3687f964a520e4c020e3	{Starbucks}	{34.094859,-118.128249,Alhambra,CA,United States}	{Food,}
+1822	Sat May 21 00:42:58 +0000 2011	4a26b26bf964a520c17e1fe3	{In-N-Out Burger}	{34.106164,-118.134381,Alhambra,CA,United States}	{Food,}
+1822	Sat May 21 00:21:45 +0000 2011	4b9c675df964a5202a6636e3	{Moor Field}	{34.082158416048024,-118.12998052010242,Alhambra,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1822	Sat May 21 00:09:17 +0000 2011	4a370709f964a520259e1fe3	{Yogurtland}	{34.078825728156254,-118.12275827103002,Alhambra,CA,United States}	{Food,}
+1822	Fri May 20 23:30:59 +0000 2011	4a80c8d5f964a5202ef61fe3	{Ralphs}	{34.097768444468464,-118.1233574102159,Alhambra,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Fri May 20 23:27:51 +0000 2011	4b522fb7f964a5203a6e27e3	{GameStop}	{34.09718976,-118.12299633,Alhambra,CA,United States}	{Shop & Service,}
+1822	Fri May 20 23:27:51 +0000 2011	4b522fb7f964a5203a6e27e3	{GameStop}	{34.09718976,-118.12299633,Alhambra,CA,United States}	{Shop & Service,}
+1822	Fri May 20 01:28:18 +0000 2011	4a26b26bf964a520c17e1fe3	{In-N-Out Burger}	{34.106164,-118.134381,Alhambra,CA,United States}	{Food,}
+1822	Thu May 19 13:16:28 +0000 2011	4a80c8d5f964a5202ef61fe3	{Ralphs}	{34.097768444468464,-118.1233574102159,Alhambra,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Thu May 19 02:18:11 +0000 2011	40db6b00f964a5207d011fe3	{Dodger Stadium}	{34.073408462960174,-118.24019819498062,Los Angeles,CA,United States}	{Outdoors & Recreation,Stadium,Arts & Entertainment,Athletics & Sports,}
+1822	Thu May 19 00:41:25 +0000 2011	4a26b26bf964a520c17e1fe3	{In-N-Out Burger}	{34.106164,-118.134381,Alhambra,CA,United States}	{Food,}
+1822	Tue May 17 00:57:28 +0000 2011	4caccc3c51399eb00ccbce03	{Pavilions}	{34.112284229951825,-118.15040588378906,South Pasadena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Sun May 15 22:22:02 +0000 2011	4baddd2ff964a5204a6e3be3	{7-Eleven}	{34.09776576100509,-118.34308892882514,Hollywood,CA,United States}	{Shop & Service,}
+1822	Sun May 15 21:38:33 +0000 2011	441d845af964a52068311fe3	{Greystone Mansion & Park}	{34.09275479045813,-118.40130877848968,Beverly Hills,CA,United States}	{Outdoors & Recreation,}
+1822	Sun May 15 17:19:04 +0000 2011	4b881f10f964a5204de131e3	{McDonald's}	{34.09992049540854,-118.11773985604967,Alhambra,CA,United States}	{Food,}
+1822	Sun May 15 16:08:24 +0000 2011	4bd5c2e0637ba5937cf1f670	{Kohl's}	{34.079703,-118.151899,Alhambra,CA,United States}	{Shop & Service,Clothing Store,}
+1822	Sun May 15 15:59:05 +0000 2011	4a89e892f964a520500920e3	{Starbucks}	{34.06800060304075,-118.16785097122191,Los Angeles,CA,United States}	{Food,}
+1822	Sun May 15 14:58:44 +0000 2011	4caccc3c51399eb00ccbce03	{Pavilions}	{34.112284229951825,-118.15040588378906,South Pasadena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Sat May 14 22:47:53 +0000 2011	4a8609f8f964a520270020e3	{Huntington State Beach}	{33.63856112314681,-117.97282218933105,Huntington Beach,CA,United States}	{Outdoors & Recreation,Beach,}
+1822	Sat May 14 19:18:45 +0000 2011	4a80c8d5f964a5202ef61fe3	{Ralphs}	{34.097768444468464,-118.1233574102159,Alhambra,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Sat May 14 19:05:48 +0000 2011	4bc00d75461576b003be7932	{Valley Food Liquor Store}	{34.073488771981154,-118.16334939082044,Los Angeles,CA,United States}	{Shop & Service,}
+1822	Sat May 14 17:27:06 +0000 2011	4b881f10f964a5204de131e3	{McDonald's}	{34.09992049540854,-118.11773985604967,Alhambra,CA,United States}	{Food,}
+1822	Sat May 14 00:22:54 +0000 2011	4ab02832f964a520416620e3	{Target}	{34.0910785585638,-118.14740284039215,Alhambra,CA,United States}	{Shop & Service,}
+1822	Fri May 13 15:57:08 +0000 2011	4ab02832f964a520416620e3	{Target}	{34.0910785585638,-118.14740284039215,Alhambra,CA,United States}	{Shop & Service,}
+1822	Fri May 13 01:30:29 +0000 2011	4a26b26bf964a520c17e1fe3	{In-N-Out Burger}	{34.106164,-118.134381,Alhambra,CA,United States}	{Food,}
+1822	Fri May 13 01:00:58 +0000 2011	4bd5f2f7cfa7b7132abd26da	{Washington School}	{34.10708579050321,-118.10215491280314,San Gabriel,CA,United States}	{Outdoors & Recreation,College & University,Professional & Other Places,}
+1822	Fri May 13 01:00:57 +0000 2011	4bd5f2f7cfa7b7132abd26da	{Washington School}	{34.10708579050321,-118.10215491280314,San Gabriel,CA,United States}	{Outdoors & Recreation,College & University,Professional & Other Places,}
+1822	Thu May 12 15:41:40 +0000 2011	4b43f6caf964a5202fef25e3	{76}	{34.09845,-118.134989,Alhambra,CA,United States}	{Shop & Service,}
+1822	Thu May 12 14:56:45 +0000 2011	4ae3a2faf964a520889721e3	{7-Eleven}	{34.10278564437926,-118.11137345733042,San Gabriel,CA,United States}	{Shop & Service,}
+1822	Wed May 11 04:47:16 +0000 2011	4a26b26bf964a520c17e1fe3	{In-N-Out Burger}	{34.106164,-118.134381,Alhambra,CA,United States}	{Food,}
+1822	Wed May 11 04:37:53 +0000 2011	4b397c3ff964a520255d25e3	{CVS}	{34.098958,-118.11785902,Alhambra,CA,United States}	{Shop & Service,}
+1822	Tue May 10 02:57:08 +0000 2011	4b397c3ff964a520255d25e3	{CVS}	{34.098958,-118.11785902,Alhambra,CA,United States}	{Shop & Service,}
+1822	Tue May 10 02:43:51 +0000 2011	4aeb7db7f964a5209ec221e3	{US Post Office}	{34.093035039485684,-118.12582039070658,Alhambra,CA,United States}	{Professional & Other Places,}
+1822	Tue May 10 02:26:38 +0000 2011	4b74cfc7f964a52056f32de3	{Ralphs}	{34.10530167927889,-118.13530054097596,South Pasadena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Tue May 10 00:57:25 +0000 2011	4caccc3c51399eb00ccbce03	{Pavilions}	{34.112284229951825,-118.15040588378906,South Pasadena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Mon May 09 01:52:37 +0000 2011	4c6014c5b6f3be9a3c755e73	{AMC Atlantic Times Square 14}	{34.06776952820561,-118.13392639160156,Monterey Park,CA,United States}	{Arts & Entertainment,Movie Theater,}
+1822	Sun May 08 22:05:48 +0000 2011	4a32b327f964a5207c9a1fe3	{First Lady Nails}	{34.10291032,-118.097198,San Gabriel,CA,United States}	{Shop & Service,}
+1822	Sun May 08 15:12:20 +0000 2011	4caccc3c51399eb00ccbce03	{Pavilions}	{34.112284229951825,-118.15040588378906,South Pasadena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Sat May 07 00:43:19 +0000 2011	4a26b26bf964a520c17e1fe3	{In-N-Out Burger}	{34.106164,-118.134381,Alhambra,CA,United States}	{Food,}
+1822	Fri May 06 19:41:08 +0000 2011	4ba00a9df964a520e05437e3	{Bank Of America}	{34.039567,-118.260671,Los Angeles,CA,United States}	{Shop & Service,}
+1822	Fri May 06 03:07:42 +0000 2011	4ae3a2faf964a520889721e3	{7-Eleven}	{34.10278564437926,-118.11137345733042,San Gabriel,CA,United States}	{Shop & Service,}
+1822	Fri May 06 01:25:34 +0000 2011	4a26b26bf964a520c17e1fe3	{In-N-Out Burger}	{34.106164,-118.134381,Alhambra,CA,United States}	{Food,}
+1822	Fri May 06 01:06:31 +0000 2011	4bd5f2f7cfa7b7132abd26da	{Washington School}	{34.10708579050321,-118.10215491280314,San Gabriel,CA,United States}	{Outdoors & Recreation,College & University,Professional & Other Places,}
+1822	Fri May 06 00:09:42 +0000 2011	4a80c8d5f964a5202ef61fe3	{Ralphs}	{34.097768444468464,-118.1233574102159,Alhambra,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Thu May 05 16:17:09 +0000 2011	4ae3a2faf964a520889721e3	{7-Eleven}	{34.10278564437926,-118.11137345733042,San Gabriel,CA,United States}	{Shop & Service,}
+1822	Tue May 03 16:35:59 +0000 2011	4aeb7db7f964a5209ec221e3	{US Post Office}	{34.093035039485684,-118.12582039070658,Alhambra,CA,United States}	{Professional & Other Places,}
+1822	Tue May 03 04:55:22 +0000 2011	4b74cfc7f964a52056f32de3	{Ralphs}	{34.10530167927889,-118.13530054097596,South Pasadena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Tue May 03 04:50:55 +0000 2011	4b43f6caf964a5202fef25e3	{76}	{34.09845,-118.134989,Alhambra,CA,United States}	{Shop & Service,}
+1822	Tue May 03 04:41:39 +0000 2011	4aeb7db7f964a5209ec221e3	{US Post Office}	{34.093035039485684,-118.12582039070658,Alhambra,CA,United States}	{Professional & Other Places,}
+1822	Tue May 03 00:35:41 +0000 2011	4a26b26bf964a520c17e1fe3	{In-N-Out Burger}	{34.106164,-118.134381,Alhambra,CA,United States}	{Food,}
+1822	Tue May 03 00:14:47 +0000 2011	4b397c3ff964a520255d25e3	{CVS}	{34.098958,-118.11785902,Alhambra,CA,United States}	{Shop & Service,}
+1822	Mon May 02 23:52:20 +0000 2011	4bc00d75461576b003be7932	{Valley Food Liquor Store}	{34.073488771981154,-118.16334939082044,Los Angeles,CA,United States}	{Shop & Service,}
+1822	Mon May 02 23:52:20 +0000 2011	4bc00d75461576b003be7932	{Valley Food Liquor Store}	{34.073488771981154,-118.16334939082044,Los Angeles,CA,United States}	{Shop & Service,}
+1822	Mon May 02 04:39:18 +0000 2011	4bbe513253e995219d162da9	{Wendy's}	{34.079432,-118.111079,Alhambra,CA,United States}	{Food,}
+1822	Mon May 02 03:19:44 +0000 2011	4b8f128cf964a520a94733e3	{Glen Mor}	{33.978136128553956,-117.32025146484375,Riverside,CA,United States}	{College & University,}
+1822	Sun May 01 15:03:07 +0000 2011	4caccc3c51399eb00ccbce03	{Pavilions}	{34.112284229951825,-118.15040588378906,South Pasadena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Sat Apr 30 16:10:20 +0000 2011	4aaab43cf964a520075720e3	{Target}	{34.14652167498666,-118.13476911761893,Pasadena,CA,United States}	{Shop & Service,Clothing Store,}
+1822	Sat Apr 30 02:41:57 +0000 2011	3fd66200f964a5208cee1ee3	{Versailles}	{34.16099251955207,-118.51216633473136,Encino,CA,United States}	{Food,}
+1822	Sat Apr 30 01:18:41 +0000 2011	4a6d0cd8f964a52067d21fe3	{Yogurtland}	{34.161026,-118.448528,Sherman Oaks,CA,United States}	{Food,}
+1822	Sat Apr 30 00:33:52 +0000 2011	4b82cbaef964a52085e530e3	{DSW Designer Shoe Warehouse}	{34.1544272119266,-118.46707284450531,Sherman Oaks,CA,United States}	{Shop & Service,Clothing Store,}
+1822	Fri Apr 29 21:25:02 +0000 2011	4747dd94f964a5208b4c1fe3	{ArcLight Cinemas Sherman Oaks}	{34.15463585420314,-118.46731424331665,Sherman Oaks,CA,United States}	{Nightlife Spot,Arts & Entertainment,Movie Theater,}
+1822	Fri Apr 29 16:56:07 +0000 2011	4b667001f964a52060212be3	{Riverside Superior Court - Hall of Justice}	{33.978562436710284,-117.37620183105552,Riverside,CA,United States}	{Government Building,Professional & Other Places,}
+1822	Thu Apr 28 22:25:56 +0000 2011	4a26b26bf964a520c17e1fe3	{In-N-Out Burger}	{34.106164,-118.134381,Alhambra,CA,United States}	{Food,}
+1822	Thu Apr 28 21:49:20 +0000 2011	4a370709f964a520259e1fe3	{Yogurtland}	{34.078825728156254,-118.12275827103002,Alhambra,CA,United States}	{Food,}
+1822	Thu Apr 28 21:49:20 +0000 2011	4a370709f964a520259e1fe3	{Yogurtland}	{34.078825728156254,-118.12275827103002,Alhambra,CA,United States}	{Food,}
+1822	Thu Apr 28 03:16:53 +0000 2011	4b881f10f964a5204de131e3	{McDonald's}	{34.09992049540854,-118.11773985604967,Alhambra,CA,United States}	{Food,}
+1822	Wed Apr 27 20:48:37 +0000 2011	4a26b26bf964a520c17e1fe3	{In-N-Out Burger}	{34.106164,-118.134381,Alhambra,CA,United States}	{Food,}
+1822	Wed Apr 27 20:25:11 +0000 2011	4beaea5861aca593ec598400	{Atkinson-Baker court reporters}	{34.15343,-118.254881,Glendale,CA,United States}	{Professional & Other Places,}
+1822	Wed Apr 27 04:25:56 +0000 2011	4a370709f964a520259e1fe3	{Yogurtland}	{34.078825728156254,-118.12275827103002,Alhambra,CA,United States}	{Food,}
+1822	Wed Apr 27 04:10:17 +0000 2011	4bf6d917508c0f4740fc3c31	{24 Hour Fitness}	{34.06929152830022,-118.13392340829004,Monterey Park,CA,United States}	{Shop & Service,}
+1822	Wed Apr 27 00:08:59 +0000 2011	4c58c9fdec2520a1e4ad4d12	{Schurr High School}	{34.02773074813275,-118.12182426452637,Montebello,CA,United States}	{School,Professional & Other Places,}
+1822	Tue Apr 26 23:44:03 +0000 2011	4bf83740b182c9b69918775a	{Vincent Lugo Park}	{34.08413695030872,-118.1047210660252,San Gabriel,CA,United States}	{Outdoors & Recreation,}
+1822	Tue Apr 26 21:09:21 +0000 2011	4aeb7db7f964a5209ec221e3	{US Post Office}	{34.093035039485684,-118.12582039070658,Alhambra,CA,United States}	{Professional & Other Places,}
+1822	Tue Apr 26 20:14:10 +0000 2011	4ae3a2faf964a520889721e3	{7-Eleven}	{34.10278564437926,-118.11137345733042,San Gabriel,CA,United States}	{Shop & Service,}
+1822	Tue Apr 26 20:12:20 +0000 2011	4babc2b7f964a5202bc73ae3	{San Gabriel Mission}	{34.097219093307935,-118.10690998214454,San Gabriel,CA,United States}	{Spiritual Center,Arts & Entertainment,Professional & Other Places,}
+1822	Tue Apr 26 16:43:19 +0000 2011	4a80c8d5f964a5202ef61fe3	{Ralphs}	{34.097768444468464,-118.1233574102159,Alhambra,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Tue Apr 26 16:32:51 +0000 2011	4ab02832f964a520416620e3	{Target}	{34.0910785585638,-118.14740284039215,Alhambra,CA,United States}	{Shop & Service,}
+1822	Mon Apr 25 23:37:19 +0000 2011	4b86fc9af964a520d9a931e3	{Little Caesars}	{34.09905854912702,-118.11986574723808,Alhambra,CA,United States}	{Food,}
+1822	Mon Apr 25 23:32:51 +0000 2011	4c9d754f8afca0935576f715	{Citibank}	{34.09320286516283,-118.12615183322366,Alhambra,CA,United States}	{Shop & Service,}
+1822	Mon Apr 25 23:26:21 +0000 2011	4aeb7db7f964a5209ec221e3	{US Post Office}	{34.093035039485684,-118.12582039070658,Alhambra,CA,United States}	{Professional & Other Places,}
+1822	Mon Apr 25 16:47:00 +0000 2011	4caccc3c51399eb00ccbce03	{Pavilions}	{34.112284229951825,-118.15040588378906,South Pasadena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Mon Apr 25 01:37:12 +0000 2011	4a80c8d5f964a5202ef61fe3	{Ralphs}	{34.097768444468464,-118.1233574102159,Alhambra,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Sun Apr 24 05:19:01 +0000 2011	4a26b26bf964a520c17e1fe3	{In-N-Out Burger}	{34.106164,-118.134381,Alhambra,CA,United States}	{Food,}
+1822	Sun Apr 24 04:34:21 +0000 2011	4a370709f964a520259e1fe3	{Yogurtland}	{34.078825728156254,-118.12275827103002,Alhambra,CA,United States}	{Food,}
+1822	Sun Apr 24 04:21:30 +0000 2011	4bf6d917508c0f4740fc3c31	{24 Hour Fitness}	{34.06929152830022,-118.13392340829004,Monterey Park,CA,United States}	{Shop & Service,}
+1822	Fri Apr 22 20:22:22 +0000 2011	4ba00a9df964a520e05437e3	{Bank Of America}	{34.039567,-118.260671,Los Angeles,CA,United States}	{Shop & Service,}
+1822	Fri Apr 22 00:17:50 +0000 2011	4bd5f2f7cfa7b7132abd26da	{Washington School}	{34.10708579050321,-118.10215491280314,San Gabriel,CA,United States}	{Outdoors & Recreation,College & University,Professional & Other Places,}
+1822	Thu Apr 21 20:27:58 +0000 2011	4b1b3952f964a520d0f923e3	{Rite Aid}	{34.04801815226455,-118.2577644133534,Los Angeles,CA,United States}	{Shop & Service,}
+1822	Thu Apr 21 20:09:24 +0000 2011	4bfc13a51be376b01621f8b4	{U.S. Post Office}	{34.048184320323685,-118.2582897481,Los Angeles,CA,United States}	{Professional & Other Places,}
+1822	Thu Apr 21 02:11:41 +0000 2011	4b522fb7f964a5203a6e27e3	{GameStop}	{34.09718976,-118.12299633,Alhambra,CA,United States}	{Shop & Service,}
+1822	Thu Apr 21 01:32:45 +0000 2011	4a26b26bf964a520c17e1fe3	{In-N-Out Burger}	{34.106164,-118.134381,Alhambra,CA,United States}	{Food,}
+1822	Wed Apr 20 16:04:07 +0000 2011	4aeb7db7f964a5209ec221e3	{US Post Office}	{34.093035039485684,-118.12582039070658,Alhambra,CA,United States}	{Professional & Other Places,}
+1822	Wed Apr 20 15:54:31 +0000 2011	4ae3a2faf964a520889721e3	{7-Eleven}	{34.10278564437926,-118.11137345733042,San Gabriel,CA,United States}	{Shop & Service,}
+1822	Wed Apr 20 03:47:21 +0000 2011	4aaab43cf964a520075720e3	{Target}	{34.14652167498666,-118.13476911761893,Pasadena,CA,United States}	{Shop & Service,Clothing Store,}
+1822	Wed Apr 20 03:21:01 +0000 2011	4b881f10f964a5204de131e3	{McDonald's}	{34.09992049540854,-118.11773985604967,Alhambra,CA,United States}	{Food,}
+1822	Wed Apr 20 03:02:06 +0000 2011	4a26b26bf964a520c17e1fe3	{In-N-Out Burger}	{34.106164,-118.134381,Alhambra,CA,United States}	{Food,}
+1822	Wed Apr 20 00:35:58 +0000 2011	4b74cfc7f964a52056f32de3	{Ralphs}	{34.10530167927889,-118.13530054097596,South Pasadena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Tue Apr 19 02:10:11 +0000 2011	4bf83740b182c9b69918775a	{Vincent Lugo Park}	{34.08413695030872,-118.1047210660252,San Gabriel,CA,United States}	{Outdoors & Recreation,}
+1822	Tue Apr 19 01:57:30 +0000 2011	4b522fb7f964a5203a6e27e3	{GameStop}	{34.09718976,-118.12299633,Alhambra,CA,United States}	{Shop & Service,}
+1822	Tue Apr 19 01:48:30 +0000 2011	4abbb8e6f964a520938420e3	{Toys"R"Us}	{34.08679554122847,-118.15071702003479,Alhambra,CA,United States}	{Shop & Service,Clothing Store,}
+1822	Tue Apr 19 01:27:52 +0000 2011	4ab02832f964a520416620e3	{Target}	{34.0910785585638,-118.14740284039215,Alhambra,CA,United States}	{Shop & Service,}
+1822	Sun Apr 17 15:00:28 +0000 2011	4caccc3c51399eb00ccbce03	{Pavilions}	{34.112284229951825,-118.15040588378906,South Pasadena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Sun Apr 17 15:00:28 +0000 2011	4caccc3c51399eb00ccbce03	{Pavilions}	{34.112284229951825,-118.15040588378906,South Pasadena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Sun Apr 17 06:46:05 +0000 2011	4a9713c4f964a520502820e3	{Edwards Renaissance Stadium 14}	{34.0958671604391,-118.12699556350708,Alhambra,CA,United States}	{Arts & Entertainment,}
+1822	Sun Apr 17 03:48:28 +0000 2011	4b6ceb37f964a520c95d2ce3	{Applebee's Neighborhood Grill and Bar}	{34.09584939132238,-118.12654495239258,Alhambra,CA,United States}	{Food,}
+1822	Sun Apr 17 03:20:53 +0000 2011	4c604707c6a103bb8901685b	{RadioShack}	{34.09511197,-118.1258905,Alhambra,CA,United States}	{Shop & Service,}
+1822	Sun Apr 17 00:30:31 +0000 2011	4b8f128cf964a520a94733e3	{Glen Mor}	{33.978136128553956,-117.32025146484375,Riverside,CA,United States}	{College & University,}
+1822	Sat Apr 16 21:53:36 +0000 2011	4b889b34f964a520fb0332e3	{United Oil}	{34.10094897471505,-118.1305468082428,Alhambra,CA,United States}	{Shop & Service,}
+1822	Sat Apr 16 21:53:36 +0000 2011	4b889b34f964a520fb0332e3	{United Oil}	{34.10094897471505,-118.1305468082428,Alhambra,CA,United States}	{Shop & Service,}
+1822	Sat Apr 16 21:27:44 +0000 2011	4bc00d75461576b003be7932	{Valley Food Liquor Store}	{34.073488771981154,-118.16334939082044,Los Angeles,CA,United States}	{Shop & Service,}
+1822	Sat Apr 16 17:45:54 +0000 2011	4abbb8e6f964a520938420e3	{Toys"R"Us}	{34.08679554122847,-118.15071702003479,Alhambra,CA,United States}	{Shop & Service,Clothing Store,}
+1822	Sat Apr 16 00:07:33 +0000 2011	4aeb7db7f964a5209ec221e3	{US Post Office}	{34.093035039485684,-118.12582039070658,Alhambra,CA,United States}	{Professional & Other Places,}
+1822	Fri Apr 15 00:39:12 +0000 2011	4b674639f964a52030452be3	{McKinley Elementary School}	{34.083836614841466,-118.10109615325926,San Gabriel,CA,United States}	{School,Professional & Other Places,}
+1822	Thu Apr 14 19:05:12 +0000 2011	4a185165f964a5209e791fe3	{Ralphs}	{34.04545626030918,-118.26074509562864,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Wed Apr 13 00:44:40 +0000 2011	4b881f10f964a5204de131e3	{McDonald's}	{34.09992049540854,-118.11773985604967,Alhambra,CA,United States}	{Food,}
+1822	Tue Apr 12 02:27:31 +0000 2011	4b6c65fff964a520ce362ce3	{Big Lots}	{34.103959,-118.15190027,South Pasadena,CA,United States}	{Shop & Service,}
+1822	Tue Apr 12 00:53:38 +0000 2011	4caccc3c51399eb00ccbce03	{Pavilions}	{34.112284229951825,-118.15040588378906,South Pasadena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Mon Apr 11 23:34:57 +0000 2011	4ab02832f964a520416620e3	{Target}	{34.0910785585638,-118.14740284039215,Alhambra,CA,United States}	{Shop & Service,}
+1822	Sun Apr 10 15:20:11 +0000 2011	4caccc3c51399eb00ccbce03	{Pavilions}	{34.112284229951825,-118.15040588378906,South Pasadena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Sat Apr 09 22:05:54 +0000 2011	4d89449e4757721e99fd9e69	{Angel Nails}	{34.10229372609764,-118.10845878092894,San Gabriel,CA,United States}	{Shop & Service,}
+1822	Sat Apr 09 22:05:54 +0000 2011	4d89449e4757721e99fd9e69	{Angel Nails}	{34.10229372609764,-118.10845878092894,San Gabriel,CA,United States}	{Shop & Service,}
+1822	Fri Apr 08 15:06:36 +0000 2011	4ae3a2faf964a520889721e3	{7-Eleven}	{34.10278564437926,-118.11137345733042,San Gabriel,CA,United States}	{Shop & Service,}
+1822	Fri Apr 08 02:01:58 +0000 2011	4a80c8d5f964a5202ef61fe3	{Ralphs}	{34.097768444468464,-118.1233574102159,Alhambra,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Wed Apr 06 21:31:30 +0000 2011	4a185165f964a5209e791fe3	{Ralphs}	{34.04545626030918,-118.26074509562864,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Tue Apr 05 22:45:22 +0000 2011	4ce05c8bf8a4a1432e2ce4bc	{Feeldz}	{34.09823803,-118.122947,Alhambra,CA,United States}	{Shop & Service,Clothing Store,}
+1822	Tue Apr 05 22:37:26 +0000 2011	4aeb7db7f964a5209ec221e3	{US Post Office}	{34.093035039485684,-118.12582039070658,Alhambra,CA,United States}	{Professional & Other Places,}
+1822	Tue Apr 05 21:56:20 +0000 2011	4a26b26bf964a520c17e1fe3	{In-N-Out Burger}	{34.106164,-118.134381,Alhambra,CA,United States}	{Food,}
+1822	Tue Apr 05 20:03:16 +0000 2011	4c631b2aec94a593f9f72aca	{Dr. Hom Orthodontics}	{34.13110971450806,-118.06867897510529,Pasadena,CA,United States}	{Medical Center,Professional & Other Places,}
+1822	Sun Apr 03 15:32:14 +0000 2011	4bbb9f333de8c9b6a1ff99ad	{Liberty Tax}	{34.09405979,-118.12602706,Alhambra,CA,United States}	{Shop & Service,}
+1822	Sun Apr 03 15:16:32 +0000 2011	4caccc3c51399eb00ccbce03	{Pavilions}	{34.112284229951825,-118.15040588378906,South Pasadena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Sun Apr 03 15:16:32 +0000 2011	4caccc3c51399eb00ccbce03	{Pavilions}	{34.112284229951825,-118.15040588378906,South Pasadena,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Sat Apr 02 21:49:44 +0000 2011	4b7a2a6cf964a52030252fe3	{Walmart Supercenter}	{34.07142566224786,-117.96322973626609,Baldwin Park,CA,United States}	{Shop & Service,}
+1822	Sat Apr 02 21:28:42 +0000 2011	4c770cb05cd6b1f70d073e94	{United Oil}	{34.073657,-117.872748,West Covina,CA,United States}	{Shop & Service,}
+1822	Sat Apr 02 16:19:55 +0000 2011	4ba7afecf964a520c0a939e3	{Mt. San Antonio College}	{34.046685742159525,-117.84583568572998,Walnut,CA,United States}	{College Academic Building,College & University,}
+1822	Fri Apr 01 00:42:39 +0000 2011	4bf83740b182c9b69918775a	{Vincent Lugo Park}	{34.08413695030872,-118.1047210660252,San Gabriel,CA,United States}	{Outdoors & Recreation,}
+1822	Thu Mar 31 22:43:59 +0000 2011	4b2d92baf964a5200ed924e3	{DSW Designer Shoe Warehouse}	{34.14564440331592,-118.14255745039854,Pasadena,CA,United States}	{Shop & Service,Clothing Store,}
+1822	Thu Mar 31 02:34:47 +0000 2011	40db6b00f964a5207d011fe3	{Dodger Stadium}	{34.073408462960174,-118.24019819498062,Los Angeles,CA,United States}	{Outdoors & Recreation,Stadium,Arts & Entertainment,Athletics & Sports,}
+1822	Wed Mar 30 02:23:43 +0000 2011	4bf83740b182c9b69918775a	{Vincent Lugo Park}	{34.08413695030872,-118.1047210660252,San Gabriel,CA,United States}	{Outdoors & Recreation,}
+1822	Wed Mar 30 00:47:36 +0000 2011	4a80c8d5f964a5202ef61fe3	{Ralphs}	{34.097768444468464,-118.1233574102159,Alhambra,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1822	Wed Mar 30 00:12:20 +0000 2011	4b9c675df964a5202a6636e3	{Moor Field}	{34.082158416048024,-118.12998052010242,Alhambra,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1822	Wed Mar 30 00:12:19 +0000 2011	4b9c675df964a5202a6636e3	{Moor Field}	{34.082158416048024,-118.12998052010242,Alhambra,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+1822	Sat Mar 26 17:18:07 +0000 2011	4d8e1fbd788c5481bf3d31fd	{Sure Beauty}	{34.10227335020617,-118.1084702111273,San Gabriel,CA,United States}	{Shop & Service,}
+1822	Sat Mar 26 15:24:07 +0000 2011	4caccc3c51399eb00ccbce03	{Pavilions}	{34.112284229951825,-118.15040588378906,South Pasadena,CA,United States}	{Shop & Service,Food & Drink Shop,}

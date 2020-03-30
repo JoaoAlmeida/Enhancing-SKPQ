@@ -1,0 +1,4 @@
+#categoryName experimentName dataset neighborhood plusMode queryType numQueries numKeywords numResults radius item value min max observations
+SKPQLondon SKPQ-LD bradfields range 20 0.2 nodesAccessed 0.0 - 9223372036854775807 0 0
+SKPQLondon SKPQ-LD bradfields range 20 0.2 pageFaults 0.0 - 9223372036854775807 0 0
+SKPQLondon SKPQ-LD bradfields range 20 0.2 totalExecutionTime 1306890.0 - 1306890 1306890 1

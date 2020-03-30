@@ -1,0 +1,369 @@
+632	Tue Aug 09 16:17:22 +0000 2011	4b72fbaef964a520cb932de3	{Judi's Deli and Cafe}	{34.068476,-118.405475,Beverly Hills,CA,United States}	{Food,}
+632	Tue Aug 09 00:57:45 +0000 2011	4b817af3f964a520ffa830e3	{Trilogy Spa}	{33.885969091380055,-118.4082120828834,Manhattan Beach,CA,United States}	{Shop & Service,}
+632	Sun Aug 07 02:59:39 +0000 2011	4e3dbbde1838cb1b82f52e8a	{Hard Summer Music Festival}	{34.06708,-118.233791,Los Angeles,CA,United States}	{Arts & Entertainment,}
+632	Sat Aug 06 01:39:14 +0000 2011	4bcb5911b6c49c746a029291	{American Apparel}	{34.143168,-118.398583,Studio City,CA,United States}	{Shop & Service,Clothing Store,}
+632	Sat Jul 30 06:49:03 +0000 2011	4a4ee123f964a52029af1fe3	{Falcon Hollywood}	{34.09815485,-118.34734,Los Angeles,CA,United States}	{Nightlife Spot,}
+632	Fri Jul 29 05:59:09 +0000 2011	4a5ac380f964a520d5ba1fe3	{Thompson Beverly Hills}	{34.06670302079997,-118.3961820602417,Beverly Hills,CA,United States}	{Travel & Transport,Professional & Other Places,}
+632	Fri Jul 29 02:45:25 +0000 2011	4d8ce5ff830160fcdcb13d35	{Taberna Mexicana}	{34.067467352470295,-118.40478658676147,Beverly Hills,CA,United States}	{Food,}
+632	Fri Jul 22 05:38:22 +0000 2011	451af976f964a520773a1fe3	{Slide}	{37.78747225395175,-122.40992365144201,San Francisco,CA,United States}	{Nightlife Spot,}
+632	Wed Jul 20 06:49:34 +0000 2011	40d77680f964a52054011fe3	{EZ5}	{37.793957,-122.404236,San Francisco,CA,United States}	{Nightlife Spot,}
+632	Wed Jul 20 02:17:29 +0000 2011	4bd2177d046076b055357371	{AT&T Park}	{37.77833858778822,-122.38940119743347,San Francisco,CA,United States}	{Stadium,Arts & Entertainment,}
+632	Sat Jul 16 02:01:03 +0000 2011	4e18bbc062e12640d878e982	{Carmageddon}	{34.126353468282474,-118.47553253173828,Los Angeles,CA,United States}	{Travel & Transport,}
+632	Mon Jul 11 17:33:20 +0000 2011	4b72fbaef964a520cb932de3	{Judi's Deli and Cafe}	{34.068476,-118.405475,Beverly Hills,CA,United States}	{Food,}
+632	Sat Jul 09 06:22:47 +0000 2011	4d2c9303f7a9224b155e19a0	{Le Swagshoppe}	{34.038607,-118.460597,West LA,CA,United States}	{Nightlife Spot,}
+632	Wed Jul 06 22:25:57 +0000 2011	4b72fbaef964a520cb932de3	{Judi's Deli and Cafe}	{34.068476,-118.405475,Beverly Hills,CA,United States}	{Food,}
+632	Mon Jun 27 15:16:46 +0000 2011	4b72fbaef964a520cb932de3	{Judi's Deli and Cafe}	{34.068476,-118.405475,Beverly Hills,CA,United States}	{Food,}
+632	Fri Jun 24 01:58:01 +0000 2011	4beef56840812d7fb3c89c1a	{St. Bernards High School}	{33.95392532215792,-118.43267943337139,Playa Del Rey,CA,United States}	{School,Professional & Other Places,}
+632	Fri Jun 24 01:57:31 +0000 2011	4beef56840812d7fb3c89c1a	{St. Bernards High School}	{33.95392532215792,-118.43267943337139,Playa Del Rey,CA,United States}	{School,Professional & Other Places,}
+632	Thu Jun 23 02:36:35 +0000 2011	4d2c9303f7a9224b155e19a0	{Le Swagshoppe}	{34.038607,-118.460597,West LA,CA,United States}	{Nightlife Spot,}
+632	Wed Jun 22 16:07:21 +0000 2011	4d9b3a9673df8cfabba2f1ec	{BrightRoll, Inc.}	{34.067585,-118.404076,Beverly Hills,CA,United States}	{Professional & Other Places,}
+632	Mon Jun 20 04:02:12 +0000 2011	4af8c5d4f964a520d10f22e3	{Soi 7}	{34.047056,-118.256124,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+632	Sun Jun 19 21:45:35 +0000 2011	42ec1480f964a520a6261fe3	{Rooftop Bar at The Standard, Downtown LA}	{34.05008154595746,-118.25685739517212,Los Angeles,CA,United States}	{Nightlife Spot,}
+632	Fri Jun 17 02:43:45 +0000 2011	49eab0ccf964a5208c661fe3	{Wokcano}	{34.01715442838222,-118.49380641382939,Santa Monica,CA,United States}	{Nightlife Spot,Food,}
+632	Thu Jun 16 17:19:29 +0000 2011	4a7c79e0f964a520baec1fe3	{Hyatt Regency Century Plaza}	{34.05763913064771,-118.41572552100155,Los Angeles,CA,United States}	{Nightlife Spot,Travel & Transport,}
+632	Sat Jun 11 23:08:38 +0000 2011	4a9acc89f964a520c83220e3	{Pacific Theatres Winnetka 21}	{34.23823767062169,-118.57406616210938,Chatsworth,CA,United States}	{Arts & Entertainment,Movie Theater,}
+632	Tue Jun 07 06:01:18 +0000 2011	4a937d08f964a520cc1f20e3	{Playhouse Hollywood}	{34.10126207355933,-118.33145003579023,Los Angeles,CA,United States}	{Nightlife Spot,}
+632	Mon Jun 06 00:33:33 +0000 2011	4a26f68df964a520f77e1fe3	{Will Rogers State Beach}	{34.03544839572386,-118.53696584701538,Pacific Palisades,CA,United States}	{Outdoors & Recreation,}
+632	Sun Jun 05 20:53:50 +0000 2011	4ad55bcaf964a520e50221e3	{Cabana Club}	{34.097148133333334,-118.32916975021362,Los Angeles,CA,United States}	{Nightlife Spot,}
+632	Sun Jun 05 07:39:15 +0000 2011	3fd66200f964a5208eee1ee3	{Skybar}	{34.09442839296151,-118.3744002931956,West Hollywood,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+632	Sun Jun 05 05:25:08 +0000 2011	4a6ab5d0f964a520dbcd1fe3	{Libertine}	{34.09773553357701,-118.36790075689792,Los Angeles,CA,United States}	{Nightlife Spot,}
+632	Sat Jun 04 22:07:05 +0000 2011	43d39576f964a520202e1fe3	{W Los Angeles - Westwood}	{34.06314429373675,-118.44129263835883,Los Angeles,CA,United States}	{Travel & Transport,}
+632	Thu Jun 02 06:36:42 +0000 2011	4a68a94ff964a520c9ca1fe3	{Hard Rock Hotel San Diego}	{32.70765908388556,-117.15974807739258,San Diego,CA,United States}	{Nightlife Spot,Travel & Transport,}
+632	Thu Jun 02 03:26:32 +0000 2011	4a6baee5f964a52098cf1fe3	{El Vitral Restaurant}	{32.709297093446324,-117.15722222194127,San Diego,CA,United States}	{Food,}
+632	Wed Jun 01 15:20:55 +0000 2011	4ba2bf64f964a520eb1538e3	{Hilton San Diego Bayfront}	{32.70334587716534,-117.1586294913016,San Diego,CA,United States}	{Nightlife Spot,Travel & Transport,Professional & Other Places,}
+632	Wed Jun 01 03:13:11 +0000 2011	42951180f964a5203b241fe3	{W San Diego}	{32.717741914159596,-117.16683741247434,San Diego,CA,United States}	{Travel & Transport,Food,Hotel,}
+632	Tue May 31 16:53:56 +0000 2011	4b72fbaef964a520cb932de3	{Judi's Deli and Cafe}	{34.068476,-118.405475,Beverly Hills,CA,United States}	{Food,}
+632	Mon May 30 20:53:14 +0000 2011	438cf623f964a520302b1fe3	{Hollywood Roosevelt Hotel}	{34.10128656695182,-118.34167957305908,Los Angeles,CA,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+632	Fri May 27 18:51:30 +0000 2011	4b50a82ef964a520c42b27e3	{Capriotti's Sandwich Shop}	{34.067181,-118.405222,Beverly Hills,CA,United States}	{Food,}
+632	Thu May 26 01:33:28 +0000 2011	49f22a60f964a520046a1fe3	{AMC Century City 15}	{34.05799270786358,-118.41881990432739,Los Angeles,CA,United States}	{Food,Arts & Entertainment,Movie Theater,}
+632	Tue May 24 14:59:20 +0000 2011	4c198619834e2d7f12a12a80	{Oviatt Lawn}	{34.23926210149304,-118.52929472923279,Northridge,CA,United States}	{College & University,}
+632	Fri May 20 19:18:15 +0000 2011	49c290c4f964a52002561fe3	{SUGARFISH | Marina del Rey}	{33.97882563527064,-118.43795746564865,Marina Del Rey,CA,United States}	{Food,}
+632	Fri May 20 06:28:52 +0000 2011	3fd66200f964a5200df01ee3	{Central SAPC}	{34.024199,-118.48611116409302,Santa Monica,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+632	Fri May 20 02:13:25 +0000 2011	4a4ed9ebf964a52028af1fe3	{Busby's East}	{34.0622590954489,-118.34577798843384,Los Angeles,CA,United States}	{Nightlife Spot,}
+632	Sun May 15 06:23:56 +0000 2011	437fbc80f964a520d42a1fe3	{King King}	{34.101918,-118.33300868333333,Hollywood,CA,United States}	{Nightlife Spot,}
+632	Sat May 14 22:32:00 +0000 2011	4dcf029dd22deadedd61c4e9	{Digital_Summers}	{34.025797,-118.402196,Los Angeles,CA,United States}	{Travel & Transport,}
+632	Fri May 13 03:04:18 +0000 2011	4aea7b6ef964a520b7bb21e3	{The Highlands Nightclub}	{34.10202837674087,-118.33938360214233,Hollywood,CA,United States}	{Nightlife Spot,Performing Arts Venue,Arts & Entertainment,}
+632	Fri May 06 16:34:27 +0000 2011	4b27cd13f964a5202a8a24e3	{The Nosh of Beverly Hills}	{34.06872730724153,-118.40729926558231,Beverly Hills,CA,United States}	{Food,}
+632	Fri May 06 03:12:12 +0000 2011	438cf623f964a520302b1fe3	{Hollywood Roosevelt Hotel}	{34.10128656695182,-118.34167957305908,Los Angeles,CA,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+632	Sun May 01 01:59:00 +0000 2011	470f3ff0f964a5208e4b1fe3	{Terminal 5}	{40.76951507557932,-73.99268176018768,New York,NY,United States}	{Music Venue,Arts & Entertainment,}
+632	Sun May 01 00:31:46 +0000 2011	49baa031f964a5208b531fe3	{Iroha}	{40.76030126173486,-73.98320093491954,New York,NY,United States}	{Food,}
+632	Sat Apr 30 21:34:32 +0000 2011	4dbc8050fa8cee72734f8c51	{Frank and Jank's B&B Dos}	{40.732198,-73.985814,,NY,United States}	{Travel & Transport,Hotel,}
+632	Sat Apr 30 00:31:48 +0000 2011	40eb3d00f964a520250a1fe3	{Fenway Park}	{42.34668251220263,-71.09699249267578,Boston,MA,United States}	{Outdoors & Recreation,Stadium,Arts & Entertainment,Athletics & Sports,}
+632	Fri Apr 29 16:07:20 +0000 2011	40b28c80f964a520bcf71ee3	{Elephant & Castle}	{42.356218,-71.05751925714284,Boston,MA,United States}	{Nightlife Spot,Food,}
+632	Thu Apr 28 18:07:54 +0000 2011	4a31483af964a520ab991fe3	{Bodega}	{42.34542289046882,-71.08661918218318,Boston,MA,United States}	{Shop & Service,Clothing Store,}
+632	Thu Apr 28 03:08:56 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+632	Tue Apr 26 20:12:37 +0000 2011	4acbaa8cf964a520e1c420e3	{Border Grill Truck}	{34.07768740409027,-118.35296630859375,Los Angeles,CA,United States}	{Food,}
+632	Sat Apr 23 05:53:44 +0000 2011	4330a280f964a520f6271fe3	{The Little Rock}	{34.17007858911012,-118.5362249965812,Tarzana,CA,United States}	{Nightlife Spot,}
+632	Thu Apr 21 20:01:45 +0000 2011	4c4896c20f5aa593b5c28176	{Greenz On Wheelz Truck}	{34.06247240919047,-118.35472583770752,Los Angeles,CA,United States}	{Food,}
+632	Wed Apr 20 15:20:11 +0000 2011	4a7c79e0f964a520baec1fe3	{Hyatt Regency Century Plaza}	{34.05763913064771,-118.41572552100155,Los Angeles,CA,United States}	{Nightlife Spot,Travel & Transport,}
+632	Fri Apr 15 19:14:01 +0000 2011	4ae9e758f964a52072b721e3	{Oliver Cafe & Lounge}	{34.06735869111049,-118.4030146628366,Beverly Hills,CA,United States}	{Food,}
+632	Thu Apr 14 19:07:56 +0000 2011	4a82e51ff964a5207ef91fe3	{Il Fornaio}	{34.06845467508684,-118.4007553607707,Beverly Hills,CA,United States}	{Food,}
+632	Tue Apr 12 01:40:24 +0000 2011	4a5fe4cff964a5207cc01fe3	{Hara Sushi}	{34.04274,-118.468996,Los Angeles,CA,United States}	{Food,}
+632	Sat Apr 09 20:54:28 +0000 2011	4ad930fcf964a520f61821e3	{Ruen Pair Thai Restaurant}	{34.10206835432926,-118.30558776855469,Los Angeles,CA,United States}	{Food,}
+632	Thu Apr 07 15:31:57 +0000 2011	4d9b3a9673df8cfabba2f1ec	{BrightRoll, Inc.}	{34.067585,-118.404076,Beverly Hills,CA,United States}	{Professional & Other Places,}
+632	Wed Apr 06 06:26:17 +0000 2011	3fd66200f964a5200df01ee3	{Central SAPC}	{34.024199,-118.48611116409302,Santa Monica,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+632	Tue Apr 05 15:57:04 +0000 2011	4d9b3a9673df8cfabba2f1ec	{BrightRoll, Inc.}	{34.067585,-118.404076,Beverly Hills,CA,United States}	{Professional & Other Places,}
+632	Sun Mar 27 22:15:43 +0000 2011	4ccb2756063a721eb8f1859a	{The Habit Burger Grill}	{34.14680475667436,-118.75896692276001,Agoura Hills,CA,United States}	{Food,}
+632	Fri Mar 25 01:23:58 +0000 2011	47ed4758f964a5206a4e1fe3	{Pink Taco}	{34.05904154805371,-118.42042922973633,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+632	Wed Mar 16 05:47:32 +0000 2011	4106ec80f964a520870b1fe3	{The Fonda Theatre}	{34.10127768296285,-118.32327157258987,Los Angeles,CA,United States}	{Music Venue,Arts & Entertainment,}
+632	Tue Mar 15 01:37:01 +0000 2011	4cc9c05ed338236a2181a47c	{Eveleigh}	{34.091087133576515,-118.38180541992188,West Hollywood,CA,United States}	{Outdoors & Recreation,Food,}
+632	Sun Mar 13 20:35:36 +0000 2011	4b885057f964a52077ee31e3	{The Auld Dubliner - Mammoth Lakes}	{37.65062252103701,-118.98491621017456,Mammoth Lakes,CA,United States}	{Nightlife Spot,}
+632	Sun Mar 13 18:38:49 +0000 2011	4c508366d797e21e6cb4927a	{Gomez's}	{37.65039847636126,-118.98542657749648,Mammoth Lakes,CA,United States}	{Food,}
+632	Sun Mar 13 16:56:48 +0000 2011	4ba13d99f964a52016a537e3	{Talons Restaurant & Bar}	{37.636251,-118.990544,Mammoth Lakes,CA,United States}	{Food,}
+632	Sun Mar 13 06:19:30 +0000 2011	4b64f3e1f964a520f9db2ae3	{Hyde Lounge - Mammoth}	{37.650422898640116,-118.98522734642029,Mammoth Lakes,CA,United States}	{Food,}
+632	Sun Mar 13 02:32:25 +0000 2011	4b64f3e1f964a520f9db2ae3	{Hyde Lounge - Mammoth}	{37.650422898640116,-118.98522734642029,Mammoth Lakes,CA,United States}	{Food,}
+632	Sat Mar 12 18:13:18 +0000 2011	4b423ce4f964a520c5cf25e3	{Mammoth Mountain Ski Resort}	{37.647131175362965,-118.99845600128174,Mammoth Lakes,CA,United States}	{Travel & Transport,Outdoors & Recreation,Ski Area,}
+632	Sat Mar 12 11:24:47 +0000 2011	4cbe2fb819ceb1f76c2b1ccd	{Mammoth , CA}	{35.12797077788378,-118.87953727469773,Arvin,CA,United States}	{Travel & Transport,}
+632	Wed Mar 09 19:53:10 +0000 2011	49d8639ff964a520c05d1fe3	{Katsu-Ya}	{34.15771149642029,-118.49381781814081,Encino,CA,United States}	{Food,}
+632	Wed Mar 02 06:53:44 +0000 2011	3fd66200f964a5205def1ee3	{The Room}	{34.100754,-118.329383,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+632	Tue Mar 01 19:59:41 +0000 2011	4b27d32cf964a520aa8a24e3	{Oliver Cafe & Lounge}	{34.044974287686784,-118.4425360973803,Los Angeles,CA,United States}	{Food,}
+632	Fri Feb 25 09:35:29 +0000 2011	4a8ee0b0f964a520fd1220e3	{Norm's Restaurant}	{34.016914,-118.4879556,Santa Monica,CA,United States}	{Food,}
+632	Fri Feb 25 06:16:45 +0000 2011	3fd66200f964a5200df01ee3	{Central SAPC}	{34.024199,-118.48611116409302,Santa Monica,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+632	Mon Feb 21 08:57:32 +0000 2011	4a90a8a0f964a520021920e3	{The Huntley Hotel}	{34.018741326126914,-118.50111641591859,Santa Monica,CA,United States}	{Nightlife Spot,Travel & Transport,Food,}
+632	Sun Feb 20 10:05:21 +0000 2011	4a59b0c6f964a52082b91fe3	{Big Tomy's}	{34.03544839572386,-118.43871116638184,Los Angeles,CA,United States}	{Food,}
+632	Sun Feb 20 06:45:38 +0000 2011	45543469f964a520fe3c1fe3	{Nikki's}	{33.988007,-118.4729605,Venice,CA,United States}	{Nightlife Spot,Food,}
+632	Fri Feb 18 07:05:31 +0000 2011	3fd66200f964a5200df01ee3	{Central SAPC}	{34.024199,-118.48611116409302,Santa Monica,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+632	Fri Feb 18 03:13:34 +0000 2011	49c9526ff964a52055581fe3	{Rush Street}	{34.02299900275553,-118.39474801324758,Culver City,CA,United States}	{Nightlife Spot,Food,}
+632	Fri Feb 11 22:15:33 +0000 2011	4aa95d08f964a520475320e3	{The Blue Dog Beer Tavern}	{34.151970077402,-118.4659731388092,Sherman Oaks,CA,United States}	{Nightlife Spot,Food,}
+632	Fri Feb 11 10:30:10 +0000 2011	4a8ee0b0f964a520fd1220e3	{Norm's Restaurant}	{34.016914,-118.4879556,Santa Monica,CA,United States}	{Food,}
+632	Fri Feb 11 06:19:19 +0000 2011	3fd66200f964a5200df01ee3	{Central SAPC}	{34.024199,-118.48611116409302,Santa Monica,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+632	Sat Feb 05 07:53:17 +0000 2011	43e8dae4f964a520112f1fe3	{Vanguard}	{34.10219970934373,-118.32099281184831,Los Angeles,CA,United States}	{Nightlife Spot,}
+632	Wed Feb 02 03:16:25 +0000 2011	4ae6282af964a52081a521e3	{Salsa And Beer}	{34.193353056907654,-118.5182902,Van Nuys,CA,United States}	{Food,}
+632	Sun Jan 30 06:42:38 +0000 2011	4106ec80f964a520870b1fe3	{The Fonda Theatre}	{34.10127768296285,-118.32327157258987,Los Angeles,CA,United States}	{Music Venue,Arts & Entertainment,}
+632	Fri Jan 21 22:12:55 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+632	Fri Jan 21 03:48:31 +0000 2011	4a10a79bf964a520ed761fe3	{Perry's}	{37.792861,-122.392363,San Francisco,CA,United States}	{Food,}
+632	Thu Jan 20 03:44:48 +0000 2011	4b4f8b52f964a520c60a27e3	{Credo}	{37.79215110146844,-122.40151405334473,San Francisco,CA,United States}	{Food,}
+632	Tue Jan 18 21:56:23 +0000 2011	4a5ae9a1f964a520e0ba1fe3	{Omni San Francisco Hotel}	{37.792721951285976,-122.4030261599495,San Francisco,CA,United States}	{Travel & Transport,}
+632	Tue Jan 18 18:32:46 +0000 2011	4c0d3bf0d64c0f476867265d	{Virgin America Flight 927}	{33.94638607458081,-118.40708255767822,Los Angeles,CA,United States}	{Travel & Transport,Airport,}
+632	Tue Jan 18 18:31:56 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+632	Mon Jan 17 08:24:07 +0000 2011	4bc801718b7c9c74338a37cf	{McG's Irish Pub & Grill}	{34.25700362097726,-118.59689712524414,Chatsworth,CA,United States}	{Nightlife Spot,Food,}
+632	Sat Jan 15 07:43:28 +0000 2011	4283ee00f964a52080221fe3	{Zanzibar}	{34.01853763935965,-118.49551705174368,Santa Monica,CA,United States}	{Nightlife Spot,}
+632	Sat Jan 15 05:04:10 +0000 2011	4b7753f7f964a52068922ee3	{4Play Gentleman's Club}	{34.038507,-118.43835850791385,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+632	Fri Jan 14 02:54:11 +0000 2011	4d2c9303f7a9224b155e19a0	{Le Swagshoppe}	{34.038607,-118.460597,West LA,CA,United States}	{Nightlife Spot,}
+632	Thu Jan 13 21:07:22 +0000 2011	47ed4758f964a5206a4e1fe3	{Pink Taco}	{34.05904154805371,-118.42042922973633,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+632	Thu Jan 13 20:49:37 +0000 2011	4b32efe1f964a520271625e3	{RockSugar Pan Asian Kitchen}	{34.058881556321246,-118.42025756835938,Los Angeles,CA,United States}	{Food,}
+632	Sat Jan 08 19:49:28 +0000 2011	4b331101f964a520651725e3	{24 Hour Fitness}	{34.1914908569681,-118.626347780227,West Hills,CA,United States}	{Shop & Service,}
+632	Fri Jan 07 06:53:27 +0000 2011	4b331101f964a520651725e3	{24 Hour Fitness}	{34.1914908569681,-118.626347780227,West Hills,CA,United States}	{Shop & Service,}
+632	Sat Jan 01 02:32:49 +0000 2011	4aa495cff964a5201f4720e3	{Hotel Des Arts}	{37.790426068469074,-122.4049842749011,San Francisco,CA,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+632	Wed Dec 22 06:18:14 +0000 2010	49ecd7a6f964a5209c671fe3	{South}	{34.03928180177327,-118.47357962991994,Santa Monica,CA,United States}	{Nightlife Spot,Food,}
+632	Wed Dec 22 04:05:30 +0000 2010	4a6b8b3bf964a52012cf1fe3	{Undefeated}	{34.001215,-118.482929,Santa Monica,CA,United States}	{Shop & Service,Clothing Store,}
+632	Fri Dec 17 19:40:35 +0000 2010	4a2c9fa6f964a5207b971fe3	{Hotel Abri}	{37.78533843776226,-122.40842878818512,San Francisco,CA,United States}	{Travel & Transport,}
+632	Fri Dec 17 07:52:16 +0000 2010	451af976f964a520773a1fe3	{Slide}	{37.78747225395175,-122.40992365144201,San Francisco,CA,United States}	{Nightlife Spot,}
+632	Fri Dec 17 03:11:43 +0000 2010	4a10af0af964a520f4761fe3	{The Waterfront Restaurant}	{37.7993397561378,-122.39729542198901,San Francisco,CA,United States}	{Food,}
+632	Wed Dec 15 02:13:31 +0000 2010	4a2c9fa6f964a5207b971fe3	{Hotel Abri}	{37.78533843776226,-122.40842878818512,San Francisco,CA,United States}	{Travel & Transport,}
+632	Thu Dec 09 08:34:57 +0000 2010	4abdc796f964a520738b20e3	{Ecco Ultra Lounge}	{34.101039734643415,-118.3292978192743,Los Angeles,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+632	Thu Dec 09 06:58:25 +0000 2010	4ad55bcaf964a520e50221e3	{Cabana Club}	{34.097148133333334,-118.32916975021362,Los Angeles,CA,United States}	{Nightlife Spot,}
+632	Sat Dec 04 22:06:27 +0000 2010	40db6b00f964a5207d011fe3	{Dodger Stadium}	{34.073408462960174,-118.24019819498062,Los Angeles,CA,United States}	{Outdoors & Recreation,Stadium,Arts & Entertainment,Athletics & Sports,}
+632	Wed Dec 01 05:08:36 +0000 2010	4ad3e804f964a520e1e620e3	{Tattle Tale Room}	{33.99496842473839,-118.39579163556712,Culver City,CA,United States}	{Nightlife Spot,}
+632	Wed Nov 24 22:10:32 +0000 2010	4ccb2756063a721eb8f1859a	{The Habit Burger Grill}	{34.14680475667436,-118.75896692276001,Agoura Hills,CA,United States}	{Food,}
+632	Sun Nov 21 23:17:08 +0000 2010	4b879b7ff964a52037c431e3	{Casa De Tacos}	{34.203196,-118.605563,Canoga Park,CA,United States}	{Food,}
+632	Sun Nov 21 01:34:52 +0000 2010	4ad9362cf964a5201c1921e3	{Shin's Sushi Bar}	{35.281921050768936,-120.66084891557693,San Luis Obispo,CA,United States}	{Nightlife Spot,Food,}
+632	Mon Nov 15 06:11:38 +0000 2010	4b520eedf964a520b66427e3	{Drai's Hollywood}	{34.10097602730849,-118.32541867698268,Los Angeles,CA,United States}	{Nightlife Spot,}
+632	Sun Nov 14 03:51:01 +0000 2010	4ccb2756063a721eb8f1859a	{The Habit Burger Grill}	{34.14680475667436,-118.75896692276001,Agoura Hills,CA,United States}	{Food,}
+632	Fri Nov 05 23:00:16 +0000 2010	4c770359a5676dcb7c7a1721	{Valley West Barber Shop}	{34.20104,-118.609451,Canoga Park,CA,United States}	{Shop & Service,}
+632	Thu Nov 04 02:08:24 +0000 2010	4ccb2756063a721eb8f1859a	{The Habit Burger Grill}	{34.14680475667436,-118.75896692276001,Agoura Hills,CA,United States}	{Food,}
+632	Tue Nov 02 20:37:53 +0000 2010	4cceed58dd919eb08587139e	{Voting at THE GARDEN CHAPEL}	{34.211727,-118.605987,Canoga Park,CA,United States}	{Professional & Other Places,}
+632	Sun Oct 31 10:11:07 +0000 2010	4c853b9874d7b60c9cc099d8	{Jank & Frank's Bed & Breakfast}	{34.03039821724009,-118.48196983337402,Santa Monica,CA,United States}	{Travel & Transport,Hotel,}
+632	Sun Oct 31 07:42:40 +0000 2010	4a287de7f964a5202a951fe3	{V Lounge}	{34.03172935227201,-118.48242451880412,Santa Monica,CA,United States}	{Nightlife Spot,}
+632	Sun Oct 17 04:13:40 +0000 2010	4c7f04a9a7958cfac5b68f2b	{OKTOBERFEST @ ALPINE VILLAGE}	{33.84274233987894,-118.28859329223633,Torrance,CA,United States}	{Nightlife Spot,}
+632	Fri Oct 01 00:13:58 +0000 2010	4a188de0f964a520c8791fe3	{Mondrian Hotel}	{34.09429457916573,-118.37448835372925,West Hollywood,CA,United States}	{Travel & Transport,}
+632	Thu Sep 30 02:55:37 +0000 2010	4c8c033c509e3704a7842f55	{Columbus Middle School}	{34.21206458034302,-118.61223170764593,Canoga Park,CA,United States}	{School,Professional & Other Places,}
+632	Sun Sep 26 10:34:27 +0000 2010	4b354345f964a520b52b25e3	{Izzy's Deli}	{34.02754846801622,-118.48816573619843,Santa Monica,CA,United States}	{Food,}
+632	Sun Sep 26 09:20:19 +0000 2010	4c9ea9742fb1a143b1ffec40	{Glow Santa Monica}	{34.009898,-118.496231,Santa Monica,CA,United States}	{Arts & Entertainment,}
+632	Sun Sep 26 05:10:22 +0000 2010	4c3e9ac3db3b1b8d4dba6595	{Basement Tavern}	{34.00158407879722,-118.48337684165182,Santa Monica,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+632	Thu Sep 23 23:45:01 +0000 2010	4c8c033c509e3704a7842f55	{Columbus Middle School}	{34.21206458034302,-118.61223170764593,Canoga Park,CA,United States}	{School,Professional & Other Places,}
+632	Thu Sep 23 18:14:06 +0000 2010	4b9d8a23f964a5209eb236e3	{Angeles National Forest}	{34.32869425037187,-118.15521240234375,Palmdale,CA,United States}	{Outdoors & Recreation,}
+632	Thu Sep 23 03:08:40 +0000 2010	4c853b9874d7b60c9cc099d8	{Jank & Frank's Bed & Breakfast}	{34.03039821724009,-118.48196983337402,Santa Monica,CA,United States}	{Travel & Transport,Hotel,}
+632	Thu Sep 23 03:08:40 +0000 2010	4c853b9874d7b60c9cc099d8	{Jank & Frank's Bed & Breakfast}	{34.03039821724009,-118.48196983337402,Santa Monica,CA,United States}	{Travel & Transport,Hotel,}
+632	Tue Sep 21 05:27:57 +0000 2010	4a937d08f964a520cc1f20e3	{Playhouse Hollywood}	{34.10126207355933,-118.33145003579023,Los Angeles,CA,United States}	{Nightlife Spot,}
+632	Wed Sep 15 19:55:13 +0000 2010	4bad0a75f964a52081273be3	{Umami Burger}	{34.01549043568752,-118.49186182022095,Santa Monica,CA,United States}	{Food,}
+632	Fri Sep 10 20:00:23 +0000 2010	4a58169cf964a5205fb71fe3	{Agra Indian Kitchen}	{33.991065,-118.448492,Venice,CA,United States}	{Food,}
+632	Wed Sep 08 19:33:31 +0000 2010	49c3d5ddf964a5207e561fe3	{Tacomiendo}	{33.994898,-118.417494,Culver City,CA,United States}	{Food,}
+632	Tue Sep 07 14:42:07 +0000 2010	4c853b9874d7b60c9cc099d8	{Jank & Frank's Bed & Breakfast}	{34.03039821724009,-118.48196983337402,Santa Monica,CA,United States}	{Travel & Transport,Hotel,}
+632	Mon Sep 06 21:18:21 +0000 2010	40ec8e80f964a5202a0a1fe3	{The Standard, Downtown LA}	{34.04978277912779,-118.25658240427495,Los Angeles,CA,United States}	{Nightlife Spot,Travel & Transport,}
+632	Mon Sep 06 19:30:13 +0000 2010	4c853b9874d7b60c9cc099d8	{Jank & Frank's Bed & Breakfast}	{34.03039821724009,-118.48196983337402,Santa Monica,CA,United States}	{Travel & Transport,Hotel,}
+632	Sat Sep 04 21:11:31 +0000 2010	4c81b90347cc224bc1837f9f	{Pacific Festival oc}	{33.642274,-117.91831253333334,Costa Mesa,CA,United States}	{Arts & Entertainment,}
+632	Sat Sep 04 05:18:01 +0000 2010	4bd275c8046076b02c2d7471	{El Chato Taco Truck}	{34.05710611666667,-118.34604525,Los Angeles,CA,United States}	{Food,}
+632	Sat Sep 04 02:59:31 +0000 2010	43c01947f964a5202c2d1fe3	{World On Wheels}	{34.04770257873759,-118.33855556710458,Los Angeles,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+632	Fri Sep 03 03:26:48 +0000 2010	4c369100ae2da5939b7ffdc5	{Santa Monica Pier Summer Concert}	{34.008901,-118.496293,Santa Monica,CA,United States}	{Arts & Entertainment,}
+632	Tue Aug 31 01:57:58 +0000 2010	4a5aace1f964a520bdba1fe3	{24 Hour Fitness}	{34.0199521389491,-118.45089783275,Santa Monica,CA,United States}	{Shop & Service,}
+632	Sun Aug 29 01:55:30 +0000 2010	4c00580c147bd13ab08c2a4d	{Cinespia @ Hollywood Forever Cemetery}	{34.08763966042945,-118.31756114959717,Los Angeles,CA,United States}	{Arts & Entertainment,Movie Theater,}
+632	Mon Aug 23 03:01:12 +0000 2010	472a9afcf964a520ec4b1fe3	{Palms Thai Restaurant}	{34.10182404654971,-118.3181431889534,Los Angeles,CA,United States}	{Food,}
+632	Sun Aug 22 21:29:10 +0000 2010	4c1e8fb7b4e62d7fb076de93	{The Do Over}	{34.100217,-118.323929,Los Angeles,CA,United States}	{Nightlife Spot,}
+632	Sun Aug 22 06:19:43 +0000 2010	49eab0ccf964a5208c661fe3	{Wokcano}	{34.01715442838222,-118.49380641382939,Santa Monica,CA,United States}	{Nightlife Spot,Food,}
+632	Sat Aug 21 07:33:32 +0000 2010	45a9d428f964a52027411fe3	{Bar Lubitsch}	{34.090638436899944,-118.3568662405014,West Hollywood,CA,United States}	{Nightlife Spot,}
+632	Sat Aug 21 05:40:17 +0000 2010	4ad58b7bf964a5201a0321e3	{MI-6}	{34.081711590902046,-118.38916169513237,Los Angeles,CA,United States}	{Nightlife Spot,}
+632	Sat Aug 21 03:14:04 +0000 2010	3fd66200f964a5207bee1ee3	{The Troubadour}	{34.08148850432913,-118.38937997817993,West Hollywood,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+632	Fri Aug 20 06:18:26 +0000 2010	4b52101cf964a520006527e3	{W Hollywood}	{34.10115665934232,-118.32553702667387,Hollywood,CA,United States}	{Travel & Transport,}
+632	Fri Aug 20 02:28:50 +0000 2010	4a5ce0cef964a520c2bc1fe3	{Hotel Shangri-La}	{34.015504581195806,-118.49921767113936,Santa Monica,CA,United States}	{Travel & Transport,}
+632	Thu Aug 19 01:50:17 +0000 2010	49d8e078f964a520d25d1fe3	{The Comedy Store}	{34.095099,-118.373752,Los Angeles,CA,United States}	{Arts & Entertainment,}
+632	Wed Aug 18 03:33:48 +0000 2010	4a5aace1f964a520bdba1fe3	{24 Hour Fitness}	{34.0199521389491,-118.45089783275,Santa Monica,CA,United States}	{Shop & Service,}
+632	Tue Aug 17 03:18:15 +0000 2010	4a5aace1f964a520bdba1fe3	{24 Hour Fitness}	{34.0199521389491,-118.45089783275,Santa Monica,CA,United States}	{Shop & Service,}
+632	Sat Aug 14 16:33:44 +0000 2010	4c125c18a9c220a1cdca539d	{Magnolia Elementary School}	{34.04367690985798,-118.2867524817867,Los Angeles,CA,United States}	{College & University,}
+632	Fri Aug 13 16:04:25 +0000 2010	49c13104f964a5208e551fe3	{Cinco de Mayo}	{34.0084909,-118.41394998,Culver City,CA,United States}	{Food,}
+632	Fri Aug 13 06:14:26 +0000 2010	474dd5a6f964a520ae4c1fe3	{Seven Grand}	{34.04706520853107,-118.25592572903602,Los Angeles,CA,United States}	{Nightlife Spot,}
+632	Fri Aug 13 05:14:47 +0000 2010	49cc832df964a52087591fe3	{The Crocker Club}	{34.047594681108336,-118.24942736345383,Los Angeles,CA,United States}	{Nightlife Spot,}
+632	Fri Aug 13 03:52:35 +0000 2010	437e6b00f964a520c42a1fe3	{Bar 107}	{34.04840077308701,-118.24765711567748,Los Angeles,CA,United States}	{Nightlife Spot,}
+632	Thu Aug 12 07:43:49 +0000 2010	49f5ea75f964a520d26b1fe3	{Norm's Restaurant}	{34.07994009308927,-118.37632298469543,West Hollywood,CA,United States}	{Food,}
+632	Thu Aug 12 05:16:21 +0000 2010	4a340ff4f964a520a89b1fe3	{The Hollywood Improv}	{34.083595,-118.367404,Los Angeles,CA,United States}	{Arts & Entertainment,}
+632	Tue Aug 10 19:21:34 +0000 2010	49c3d5ddf964a5207e561fe3	{Tacomiendo}	{33.994898,-118.417494,Culver City,CA,United States}	{Food,}
+632	Tue Aug 10 19:21:34 +0000 2010	49c3d5ddf964a5207e561fe3	{Tacomiendo}	{33.994898,-118.417494,Culver City,CA,United States}	{Food,}
+632	Sun Aug 08 18:06:10 +0000 2010	4b9d8a23f964a5209eb236e3	{Angeles National Forest}	{34.32869425037187,-118.15521240234375,Palmdale,CA,United States}	{Outdoors & Recreation,}
+632	Fri Aug 06 05:32:02 +0000 2010	4c3e9ac3db3b1b8d4dba6595	{Basement Tavern}	{34.00158407879722,-118.48337684165182,Santa Monica,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+632	Wed Aug 04 19:18:58 +0000 2010	4ab99296f964a520ea7f20e3	{Almaza Restaurant}	{34.02879774583849,-118.38987350463867,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+632	Sat Jul 31 03:17:36 +0000 2010	4aa41a02f964a5204c4520e3	{Paint lab}	{33.99914292964952,-118.48101598334762,Santa Monica,CA,United States}	{Arts & Entertainment,}
+632	Fri Jul 30 21:00:40 +0000 2010	4ab99296f964a520ea7f20e3	{Almaza Restaurant}	{34.02879774583849,-118.38987350463867,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+632	Fri Jul 30 19:57:44 +0000 2010	4a0a463ef964a52098741fe3	{Father's Office}	{34.03034486867974,-118.38460564613342,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+632	Sun Jul 25 20:27:39 +0000 2010	4415b1c5f964a520fd301fe3	{Full House Seafood Restaurant}	{34.066134211361266,-118.23797464370728,Los Angeles,CA,United States}	{Food,}
+632	Sun Jul 25 03:13:42 +0000 2010	4bb7a309314e95217172479d	{National Orange Show Events Center}	{34.08855981492004,-117.291540914138,San Bernardino,CA,United States}	{Nightlife Spot,Arts & Entertainment,Professional & Other Places,}
+632	Fri Jul 23 06:56:37 +0000 2010	457017adf964a520503e1fe3	{The Ritz-Carlton}	{33.984146985869316,-118.45065257637376,Marina del Rey,CA,United States}	{Nightlife Spot,Travel & Transport,Professional & Other Places,}
+632	Thu Jul 22 02:01:43 +0000 2010	4b05a511f964a52017e022e3	{H&M}	{33.98562069503215,-118.39413702782325,Culver City,CA,United States}	{Shop & Service,Clothing Store,}
+632	Tue Jul 20 04:24:36 +0000 2010	4a5fe4cff964a5207cc01fe3	{Hara Sushi}	{34.04274,-118.468996,Los Angeles,CA,United States}	{Food,}
+632	Fri Jul 16 07:37:36 +0000 2010	4a86014df964a520100020e3	{Q's Billiard Club}	{34.04768138458991,-118.46338748931885,Los Angeles,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+632	Fri Jul 16 04:58:53 +0000 2010	4a6a7867f964a5208fcd1fe3	{West 4th/Jane}	{34.01567274170195,-118.49462985992432,Santa Monica,CA,United States}	{Nightlife Spot,Food,}
+632	Thu Jul 15 04:07:21 +0000 2010	45827578f964a520743f1fe3	{Upright Citizens Brigade Theatre}	{34.105381986545055,-118.3186823129654,Hollywood,CA,United States}	{Arts & Entertainment,}
+632	Wed Jul 14 01:11:19 +0000 2010	4a5aace1f964a520bdba1fe3	{24 Hour Fitness}	{34.0199521389491,-118.45089783275,Santa Monica,CA,United States}	{Shop & Service,}
+632	Sat Jul 10 16:11:31 +0000 2010	4c125c18a9c220a1cdca539d	{Magnolia Elementary School}	{34.04367690985798,-118.2867524817867,Los Angeles,CA,United States}	{College & University,}
+632	Fri Jul 09 20:55:31 +0000 2010	4b841439f964a520671f31e3	{Dr. Schenkel's Office}	{34.202527245054746,-118.62847599236838,West Hills,CA,United States}	{Medical Center,Professional & Other Places,}
+632	Mon Jun 28 05:21:30 +0000 2010	4b4ffad5f964a520b51a27e3	{Tengu Westwood}	{34.06008375,-118.44269692897797,Los Angeles,CA,United States}	{Food,}
+632	Sat Jun 26 22:33:11 +0000 2010	4c1f4c13b306c928c82d68b7	{Los Angeles Memorial Coliseum}	{34.01400974062912,-118.28789591789246,Los Angeles,CA,United States}	{College & University,Arts & Entertainment,College Stadium,}
+632	Sat Jun 26 00:26:53 +0000 2010	4a62ae6cf964a52072c41fe3	{The Westin Bonaventure Hotel & Suites}	{34.052908315542794,-118.25585424900055,Los Angeles,CA,United States}	{Travel & Transport,}
+632	Fri Jun 25 01:29:04 +0000 2010	4a972bd5f964a520c82820e3	{Custom Hotel}	{33.95866748956748,-118.41909885406494,Los Angeles,CA,United States}	{Nightlife Spot,Travel & Transport,}
+632	Wed Jun 23 20:19:33 +0000 2010	4bad0a75f964a52081273be3	{Umami Burger}	{34.01549043568752,-118.49186182022095,Santa Monica,CA,United States}	{Food,}
+632	Wed Jun 23 03:33:07 +0000 2010	4b1af4aff964a52065f523e3	{Macy's}	{34.19170384,-118.6038709,Canoga Park,CA,United States}	{Shop & Service,Clothing Store,}
+632	Tue Jun 22 19:40:00 +0000 2010	4b63ea01f964a520e4962ae3	{Komodo Food Truck}	{34.03064717674483,-118.4688377380371,Los Angeles,CA,United States}	{Food,}
+632	Sun Jun 20 10:57:01 +0000 2010	4a8ee0b0f964a520fd1220e3	{Norm's Restaurant}	{34.016914,-118.4879556,Santa Monica,CA,United States}	{Food,}
+632	Sat Jun 19 05:44:01 +0000 2010	4b104101f964a520586c23e3	{Ultrazone}	{34.151238666666664,-118.45210435,Sherman Oaks,CA,United States}	{Arts & Entertainment,}
+632	Fri Jun 18 03:06:30 +0000 2010	436d4780f964a520d6291fe3	{Bungalow Club}	{34.083294578081606,-118.34608107805252,Los Angeles,CA,United States}	{Nightlife Spot,}
+632	Wed Jun 16 19:58:45 +0000 2010	4ab99296f964a520ea7f20e3	{Almaza Restaurant}	{34.02879774583849,-118.38987350463867,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+632	Mon Jun 14 19:15:54 +0000 2010	4a9d84ccf964a520673820e3	{Pavilions}	{33.99664410739291,-118.39407920837402,Culver City,CA,United States}	{Shop & Service,Food & Drink Shop,}
+632	Sun Jun 13 23:28:30 +0000 2010	4b331101f964a520651725e3	{24 Hour Fitness}	{34.1914908569681,-118.626347780227,West Hills,CA,United States}	{Shop & Service,}
+632	Sat Jun 12 23:10:14 +0000 2010	427ff980f964a520c7211fe3	{J. Paul Getty Museum}	{34.077296398713784,-118.47407341003418,Los Angeles,CA,United States}	{Museum,Arts & Entertainment,}
+632	Sat Jun 12 15:45:45 +0000 2010	4c125c18a9c220a1cdca539d	{Magnolia Elementary School}	{34.04367690985798,-118.2867524817867,Los Angeles,CA,United States}	{College & University,}
+632	Sat Jun 12 04:41:16 +0000 2010	45a9d428f964a52027411fe3	{Bar Lubitsch}	{34.090638436899944,-118.3568662405014,West Hollywood,CA,United States}	{Nightlife Spot,}
+632	Thu Jun 10 03:45:20 +0000 2010	4b8b0ce3f964a520429032e3	{Copper Bucket}	{34.194144,-118.51909066,Reseda,CA,United States}	{Nightlife Spot,}
+632	Tue Jun 08 20:21:05 +0000 2010	4b3ec333f964a520d5a125e3	{Jasmine Market}	{34.00602600772628,-118.41243379810095,Culver City,CA,United States}	{Food,}
+632	Mon May 31 05:52:19 +0000 2010	3fd66200f964a520f1ee1ee3	{Circle Bar}	{33.998872265548776,-118.48057508468628,Santa Monica,CA,United States}	{Nightlife Spot,}
+632	Sun May 30 08:57:30 +0000 2010	44732f28f964a520a5331fe3	{Avalon Hollywood}	{34.10266857469119,-118.32707748261049,Los Angeles,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+632	Sat May 29 06:19:26 +0000 2010	49e7a508f964a520f6641fe3	{Echoplex}	{34.07754522052585,-118.26026916503906,Los Angeles,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+632	Fri May 28 02:09:49 +0000 2010	4aea7b6ef964a520b7bb21e3	{The Highlands Nightclub}	{34.10202837674087,-118.33938360214233,Hollywood,CA,United States}	{Nightlife Spot,Performing Arts Venue,Arts & Entertainment,}
+632	Thu May 27 04:47:29 +0000 2010	4a340ff4f964a520a89b1fe3	{The Hollywood Improv}	{34.083595,-118.367404,Los Angeles,CA,United States}	{Arts & Entertainment,}
+632	Tue May 25 19:13:38 +0000 2010	4bad0a75f964a52081273be3	{Umami Burger}	{34.01549043568752,-118.49186182022095,Santa Monica,CA,United States}	{Food,}
+632	Tue May 25 02:17:07 +0000 2010	4c43799adcd61b8d4d0c7a56	{Aardvark's Odd Ark}	{33.988326913105084,-118.47298443317413,Venice,CA,United States}	{Shop & Service,}
+632	Sun May 23 08:20:36 +0000 2010	4b9caf9bf964a5205a7636e3	{Grecos Pizza Parlor}	{34.101509,-118.32949476666667,Los Angeles,CA,United States}	{Food,}
+632	Sun May 23 06:26:23 +0000 2010	4abdc796f964a520738b20e3	{Ecco Ultra Lounge}	{34.101039734643415,-118.3292978192743,Los Angeles,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+632	Sat May 22 09:17:41 +0000 2010	3fd66200f964a52097ee1ee3	{The Brig}	{33.990303,-118.46416532993317,Venice,CA,United States}	{Nightlife Spot,}
+632	Sat May 22 06:02:24 +0000 2010	49ea7599f964a5206a661fe3	{The Village Idiot}	{34.08376679936877,-118.3509916569424,Los Angeles,CA,United States}	{Food,}
+632	Thu May 20 04:43:45 +0000 2010	4a340ff4f964a520a89b1fe3	{The Hollywood Improv}	{34.083595,-118.367404,Los Angeles,CA,United States}	{Arts & Entertainment,}
+632	Thu May 20 02:20:11 +0000 2010	4a6000f8f964a520a8c01fe3	{Casablanca Restaurant}	{34.001611061236055,-118.46801355189557,Venice,CA,United States}	{Food,}
+632	Wed May 19 20:00:48 +0000 2010	4ab99296f964a520ea7f20e3	{Almaza Restaurant}	{34.02879774583849,-118.38987350463867,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+632	Mon May 17 22:06:31 +0000 2010	4aea0673f964a52095b821e3	{Target}	{33.98532451733852,-118.39446544647217,Culver City,CA,United States}	{Shop & Service,}
+632	Mon May 17 00:02:27 +0000 2010	4be047492ffe0f47ebe6876a	{Temescal Canyon}	{34.049637076756156,-118.52943420410156,Pacific Palisades,CA,United States}	{Outdoors & Recreation,}
+632	Sat May 15 09:55:53 +0000 2010	4a7c79e0f964a520baec1fe3	{Hyatt Regency Century Plaza}	{34.05763913064771,-118.41572552100155,Los Angeles,CA,United States}	{Nightlife Spot,Travel & Transport,}
+632	Fri May 14 05:54:04 +0000 2010	4ab99296f964a520ea7f20e3	{Almaza Restaurant}	{34.02879774583849,-118.38987350463867,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+632	Fri May 14 01:24:48 +0000 2010	4beb65f6415e20a1025de6bb	{Waterloo & City}	{33.996986562646775,-118.4315550327301,Los Angeles,CA,United States}	{Food,}
+632	Thu May 13 18:50:47 +0000 2010	4a1eee3cf964a520ea7b1fe3	{George's Greek Cafe}	{33.76877038587357,-118.19238765753416,Long Beach,CA,United States}	{Food,}
+632	Wed May 12 19:35:11 +0000 2010	4ab99296f964a520ea7f20e3	{Almaza Restaurant}	{34.02879774583849,-118.38987350463867,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+632	Wed May 12 19:35:10 +0000 2010	4ab99296f964a520ea7f20e3	{Almaza Restaurant}	{34.02879774583849,-118.38987350463867,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+632	Wed May 12 04:33:43 +0000 2010	3fd66200f964a52066ee1ee3	{The Library Alehouse}	{33.999445973456965,-118.48082184791565,Santa Monica,CA,United States}	{Food,}
+632	Wed May 12 02:00:23 +0000 2010	436d4780f964a520d1291fe3	{The Belmont}	{34.08500790596008,-118.376613,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+632	Tue May 11 21:20:51 +0000 2010	4b87fe92f964a5208ed731e3	{Trimana}	{33.98831837059016,-118.3825543165269,Culver City,CA,United States}	{Food,}
+632	Tue May 11 19:50:33 +0000 2010	4b3135fcf964a520b90225e3	{Campos Tacos}	{34.00102189779688,-118.39462200075063,Culver City,CA,United States}	{Food,}
+632	Mon May 10 20:00:58 +0000 2010	4abd60d0f964a520fa8920e3	{The Habit Burger Grill}	{33.92001509456586,-118.39642345905304,El Segundo,CA,United States}	{Food,}
+632	Sun May 09 23:46:04 +0000 2010	4747dd94f964a5208b4c1fe3	{ArcLight Cinemas Sherman Oaks}	{34.15463585420314,-118.46731424331665,Sherman Oaks,CA,United States}	{Nightlife Spot,Arts & Entertainment,Movie Theater,}
+632	Sat May 08 22:39:12 +0000 2010	41390580f964a520d91a1fe3	{Paco's Tacos}	{33.99614832428927,-118.42772806503464,Los Angeles,CA,United States}	{Food,}
+632	Sat May 08 05:14:47 +0000 2010	45a9d428f964a52027411fe3	{Bar Lubitsch}	{34.090638436899944,-118.3568662405014,West Hollywood,CA,United States}	{Nightlife Spot,}
+632	Sat May 08 02:03:29 +0000 2010	49e27f63f964a5201d621fe3	{American Apparel}	{34.017752,-118.498843,Santa Monica,CA,United States}	{Shop & Service,}
+632	Thu May 06 06:07:26 +0000 2010	40db6b00f964a5207e011fe3	{Rick's Tavern On Main}	{33.9994815521144,-118.48061800003052,Santa Monica,CA,United States}	{Nightlife Spot,}
+632	Thu May 06 05:03:20 +0000 2010	4192ab80f964a520ff1d1fe3	{Finn McCools}	{34.000660086718696,-118.48269939422607,Santa Monica,CA,United States}	{Nightlife Spot,}
+632	Thu May 06 01:43:55 +0000 2010	4b45148af964a520cf0326e3	{Carl's Jr}	{34.034734,-118.47316682338715,Santa Monica,CA,United States}	{Food,}
+632	Wed May 05 21:46:22 +0000 2010	49e91bc0f964a520cb651fe3	{BevMo!}	{34.09034078531726,-118.34481239318848,West Hollywood,CA,United States}	{Shop & Service,Food & Drink Shop,}
+632	Mon May 03 20:27:26 +0000 2010	4b421cf4f964a520fbcc25e3	{Robek's Juice}	{34.017273460628054,-118.40592384338379,Los Angeles,CA,United States}	{Shop & Service,Food,}
+632	Mon May 03 00:46:13 +0000 2010	413f9d00f964a520691c1fe3	{El Cholo Cafe}	{34.02444742311588,-118.49222123622894,Santa Monica,CA,United States}	{Food,}
+632	Sun May 02 21:53:14 +0000 2010	4c8a4e9452a98cfa0b422be9	{Catalina Terminal 4}	{33.74907614279886,-118.27436877840768,San Pedro,CA,United States}	{Travel & Transport,}
+632	Sun May 02 21:53:14 +0000 2010	4c8a4e9452a98cfa0b422be9	{Catalina Terminal 4}	{33.74907614279886,-118.27436877840768,San Pedro,CA,United States}	{Travel & Transport,}
+632	Sun May 02 21:15:10 +0000 2010	4ba64ff9f964a5201b4539e3	{Catalina, Two Harbors}	{33.441576336137715,-118.49849224090576,Avalon,CA,United States}	{Outdoors & Recreation,}
+632	Sat May 01 18:03:05 +0000 2010	4ba64ff9f964a5201b4539e3	{Catalina, Two Harbors}	{33.441576336137715,-118.49849224090576,Avalon,CA,United States}	{Outdoors & Recreation,}
+632	Sat May 01 15:26:05 +0000 2010	4c8a4e9452a98cfa0b422be9	{Catalina Terminal 4}	{33.74907614279886,-118.27436877840768,San Pedro,CA,United States}	{Travel & Transport,}
+632	Sat May 01 14:11:55 +0000 2010	4b952b3cf964a520ac9234e3	{Starbucks}	{34.040453,-118.472923,Santa Monica,CA,United States}	{Food,}
+632	Sat May 01 08:56:41 +0000 2010	4bd275c8046076b02c2d7471	{El Chato Taco Truck}	{34.05710611666667,-118.34604525,Los Angeles,CA,United States}	{Food,}
+632	Sat May 01 07:44:40 +0000 2010	4abdc796f964a520738b20e3	{Ecco Ultra Lounge}	{34.101039734643415,-118.3292978192743,Los Angeles,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+632	Sat May 01 06:33:54 +0000 2010	42893400f964a5205e231fe3	{Beauty Bar}	{34.101007,-118.329524,Hollywood,CA,United States}	{Nightlife Spot,}
+632	Thu Apr 29 19:57:52 +0000 2010	4aecd634f964a520a8cb21e3	{Manna Korean BBQ}	{33.98533,-118.395005,Culver City,CA,United States}	{Food,}
+632	Tue Apr 27 20:25:06 +0000 2010	4bb67b9646d4a593c750c6c0	{McDonald's}	{34.00025650447861,-118.40287773630652,Culver City,CA,United States}	{Food,}
+632	Mon Apr 26 06:25:13 +0000 2010	4bd6032a4e32d13ad5e7c180	{Benito's Taco Shop}	{34.044383,-118.45430016517639,Los Angeles,CA,United States}	{Food,}
+632	Sat Apr 24 19:18:06 +0000 2010	4b38095cf964a520a44a25e3	{Village Tandoor}	{34.25682626863535,-118.53763103485107,Northridge,CA,United States}	{Food,}
+632	Wed Apr 21 04:51:27 +0000 2010	460c5fe0f964a520fe441fe3	{Vessel}	{37.78892169510437,-122.40668654904954,San Francisco,CA,United States}	{Nightlife Spot,}
+632	Tue Apr 20 17:46:24 +0000 2010	43920c94f964a520682b1fe3	{Moscone Center}	{37.78390969122026,-122.40183591842651,San Francisco,CA,United States}	{Convention Center,Professional & Other Places,}
+632	Tue Apr 20 17:10:57 +0000 2010	4bb9dbc353649c74364e48fb	{SFO Terminal 2}	{37.61708693033655,-122.3825454711914,San Francisco,CA,United States}	{Travel & Transport,Airport,}
+632	Tue Apr 20 15:10:46 +0000 2010	4c0fc05a336220a1d245ce77	{Virgin America}	{33.946546278358845,-118.40718984603882,Los Angeles,CA,United States}	{Travel & Transport,Airport,}
+632	Mon Apr 19 19:17:47 +0000 2010	4ab99296f964a520ea7f20e3	{Almaza Restaurant}	{34.02879774583849,-118.38987350463867,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+632	Sat Apr 17 02:45:21 +0000 2010	49c92b70f964a52039581fe3	{Copa D'Oro}	{34.01401863376962,-118.49508047103882,Santa Monica,CA,United States}	{Nightlife Spot,}
+632	Fri Apr 16 23:21:36 +0000 2010	4bc8ee43511f952164b6acc7	{RAPP Wine Down Friday Wine Cart}	{33.919023,-118.395587,El Segundo,CA,United States}	{Food,}
+632	Fri Apr 16 19:57:24 +0000 2010	4a725959f964a520f0da1fe3	{Tin Roof Bistro}	{33.899835,-118.395461,Manhattan Beach,CA,United States}	{Nightlife Spot,Food,}
+632	Fri Apr 16 16:27:04 +0000 2010	4aa67d02f964a520f64920e3	{McDonald's}	{33.91575491461408,-118.39658975601196,El Segundo,CA,United States}	{Food,}
+632	Fri Apr 16 05:01:10 +0000 2010	4a9ec129f964a520093b20e3	{Baja Sharkeez}	{33.90054211246374,-118.4174540774274,Manhattan Beach,CA,United States}	{Nightlife Spot,Food,}
+632	Fri Apr 16 02:37:16 +0000 2010	4b8047dff964a520c56330e3	{Watermans - A Safe House For Surfers}	{33.86190570647373,-118.40114902923281,Hermosa Beach,CA,United States}	{Nightlife Spot,Food,}
+632	Fri Apr 16 01:22:12 +0000 2010	4a90b106f964a520281920e3	{Hermosa Beach Pier}	{33.86194865357573,-118.40133730512667,Hermosa Beach,CA,United States}	{Travel & Transport,Government Building,Professional & Other Places,}
+632	Wed Apr 14 16:59:46 +0000 2010	4ba92c43f964a5204c113ae3	{Dr. Videgain - DDS}	{34.03743729707437,-118.47581513322822,Santa Monica,CA,United States}	{Medical Center,Professional & Other Places,}
+632	Sun Apr 11 08:38:00 +0000 2010	4aea8d8bf964a520ddbb21e3	{The Stronghold}	{33.989848,-118.463497,Venice,CA,United States}	{Nightlife Spot,}
+632	Sun Apr 11 01:07:47 +0000 2010	4a36fdd1f964a5201e9e1fe3	{The Hat}	{34.078705264451784,-118.12320311561777,Alhambra,CA,United States}	{Food,}
+632	Sun Apr 11 00:08:06 +0000 2010	4b0f5e21f964a520d06123e3	{Noodle World}	{34.077965002597566,-118.13092339278059,Alhambra,CA,United States}	{Food,}
+632	Sat Apr 10 01:48:55 +0000 2010	4be62af12468c92825280143	{Ross Dress for Less}	{34.02646287718534,-118.4287491541783,Los Angeles,CA,United States}	{Shop & Service,}
+632	Fri Apr 09 05:32:23 +0000 2010	437e6b00f964a520c42a1fe3	{Bar 107}	{34.04840077308701,-118.24765711567748,Los Angeles,CA,United States}	{Nightlife Spot,}
+632	Fri Apr 09 04:08:46 +0000 2010	49eb7055f964a520dc661fe3	{Rocket Pizza Lounge}	{34.048603,-118.247916,Los Angeles,CA,United States}	{Food,}
+632	Fri Apr 09 02:56:54 +0000 2010	4b4eb9acf964a520a7f426e3	{Poplock Gallery}	{34.04765546321869,-118.249793,Los Angeles,CA,United States}	{Arts & Entertainment,}
+632	Fri Apr 09 02:28:18 +0000 2010	4b99a8f4f964a520658a35e3	{Gloria Delson Contemporary Arts}	{34.046208,-118.250813,Los Angeles,CA,United States}	{Arts & Entertainment,}
+632	Wed Apr 07 06:43:12 +0000 2010	4ab99296f964a520ea7f20e3	{Almaza Restaurant}	{34.02879774583849,-118.38987350463867,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+632	Wed Apr 07 01:59:46 +0000 2010	4a7f7d47f964a52033f41fe3	{K-ZO Restaurant}	{34.025312170327894,-118.39347839355469,Culver City,CA,United States}	{Nightlife Spot,Food,}
+632	Tue Apr 06 05:37:33 +0000 2010	4aea8d8bf964a520ddbb21e3	{The Stronghold}	{33.989848,-118.463497,Venice,CA,United States}	{Nightlife Spot,}
+632	Tue Apr 06 02:23:17 +0000 2010	423b6b80f964a5203f201fe3	{Beechwood}	{33.98813361147678,-118.45189596543209,Marina Del Rey,CA,United States}	{Nightlife Spot,}
+632	Wed Mar 31 04:23:24 +0000 2010	4b482303f964a520e84826e3	{Main On Main}	{33.99874988821133,-118.48004653902483,Santa Monica,CA,United States}	{Nightlife Spot,}
+632	Mon Mar 29 19:31:25 +0000 2010	4aef781ff964a520afd821e3	{Wells Fargo}	{33.91988515913129,-118.3964078301387,El Segundo,CA,United States}	{Shop & Service,}
+632	Mon Mar 22 19:46:30 +0000 2010	4b2fbbd6f964a520c7ee24e3	{Quiznos}	{33.92296415393449,-118.39586824178696,El Segundo,CA,United States}	{Food,}
+632	Sat Mar 13 22:32:32 +0000 2010	4d139c569844b60cbd2fc4d4	{McCoy Station}	{37.64216082494406,-119.03100471961258,Mammoth Lakes,CA,United States}	{Travel & Transport,Outdoors & Recreation,Ski Area,}
+632	Fri Mar 12 19:14:59 +0000 2010	4b51fe1df964a520de5f27e3	{The Mill Cafe}	{37.65102827345187,-119.02691864168652,Mammoth Lakes,CA,United States}	{Outdoors & Recreation,Ski Area,Food,}
+632	Thu Mar 11 05:01:13 +0000 2010	423b6b80f964a5203f201fe3	{Beechwood}	{33.98813361147678,-118.45189596543209,Marina Del Rey,CA,United States}	{Nightlife Spot,}
+632	Sun Mar 07 06:58:25 +0000 2010	47d83de0f964a520294e1fe3	{The Happy Ending Bar & Restaurant}	{34.097795766666664,-118.342876,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+632	Sat Mar 06 02:55:00 +0000 2010	4b5e9ac7f964a520c89329e3	{Shell}	{34.02513383947508,-118.47028334808346,Santa Monica,CA,United States}	{Shop & Service,}
+632	Wed Mar 03 02:51:04 +0000 2010	4b9c330bf964a520145436e3	{LensCrafters}	{33.98678347252941,-118.39253425598145,Culver City,CA,United States}	{Shop & Service,Clothing Store,}
+632	Mon Feb 22 05:03:00 +0000 2010	49ea7594f964a52069661fe3	{Mao's Kitchen}	{33.98801,-118.47239909,Venice,CA,United States}	{Food,}
+632	Sun Feb 21 23:32:06 +0000 2010	4b81c26af964a52057bc30e3	{American Apparel}	{33.991832,-118.47793515,Los Angeles,CA,United States}	{Shop & Service,}
+632	Sat Feb 20 18:01:51 +0000 2010	4b331101f964a520651725e3	{24 Hour Fitness}	{34.1914908569681,-118.626347780227,West Hills,CA,United States}	{Shop & Service,}
+632	Fri Feb 19 21:29:44 +0000 2010	4abd60d0f964a520fa8920e3	{The Habit Burger Grill}	{33.92001509456586,-118.39642345905304,El Segundo,CA,United States}	{Food,}
+632	Thu Feb 18 15:08:09 +0000 2010	4a9043d3f964a520e51620e3	{Santa Monica Stairs}	{34.030907519256246,-118.5112369841196,Santa Monica,CA,United States}	{Outdoors & Recreation,Shop & Service,Gym / Fitness Center,}
+632	Mon Feb 15 22:17:34 +0000 2010	4ab2f9bdf964a5202b6d20e3	{Gyu-Kaku Beverly Hills}	{34.069209291908734,-118.37655901908875,Beverly Hills,CA,United States}	{Food,}
+632	Mon Feb 15 20:13:13 +0000 2010	4b13105bf964a520969323e3	{Supercuts - Santa Monica}	{34.030144,-118.48413,Los Angeles,CA,United States}	{Shop & Service,}
+632	Mon Feb 15 08:52:14 +0000 2010	4a18fb2bf964a520007a1fe3	{The Parlor - Wilshire}	{34.029913,-118.487579,Santa Monica,CA,United States}	{Nightlife Spot,Shop & Service,}
+632	Sat Feb 13 20:43:41 +0000 2010	4b467686f964a520d82126e3	{Escondido Falls}	{34.026682,-118.779933,Malibu,CA,United States}	{Outdoors & Recreation,}
+632	Fri Feb 12 10:14:28 +0000 2010	4106ec80f964a520860b1fe3	{Golden Gopher}	{34.044988766108105,-118.25622837098099,Los Angeles,CA,United States}	{Nightlife Spot,}
+632	Fri Feb 12 07:52:14 +0000 2010	437e6b00f964a520c42a1fe3	{Bar 107}	{34.04840077308701,-118.24765711567748,Los Angeles,CA,United States}	{Nightlife Spot,}
+632	Fri Feb 12 04:28:51 +0000 2010	4b6d2a1bf964a5209d692ce3	{loftSEVEN Penthouse}	{34.04526,-118.253001,Los Angeles,CA,United States}	{Professional & Other Places,}
+632	Fri Feb 12 03:30:11 +0000 2010	4106ec80f964a520860b1fe3	{Golden Gopher}	{34.044988766108105,-118.25622837098099,Los Angeles,CA,United States}	{Nightlife Spot,}
+632	Tue Feb 09 20:55:57 +0000 2010	4abd60d0f964a520fa8920e3	{The Habit Burger Grill}	{33.92001509456586,-118.39642345905304,El Segundo,CA,United States}	{Food,}
+632	Tue Feb 09 16:27:43 +0000 2010	4b6861ebf964a5201d752be3	{Dr. Robert Dickey Optometrist}	{34.02866005897522,-118.499887,Santa Monica,CA,United States}	{Professional & Other Places,}
+632	Tue Feb 09 15:08:54 +0000 2010	4a9043d3f964a520e51620e3	{Santa Monica Stairs}	{34.030907519256246,-118.5112369841196,Santa Monica,CA,United States}	{Outdoors & Recreation,Shop & Service,Gym / Fitness Center,}
+632	Tue Feb 09 05:24:47 +0000 2010	4b5b6345f964a520f3f928e3	{Taco Bell}	{34.02601548932346,-118.48307460804831,Santa Monica,CA,United States}	{Food,}
+632	Tue Feb 09 05:24:47 +0000 2010	4b5b6345f964a520f3f928e3	{Taco Bell}	{34.02601548932346,-118.48307460804831,Santa Monica,CA,United States}	{Food,}
+632	Tue Feb 09 03:16:53 +0000 2010	4a5aace1f964a520bdba1fe3	{24 Hour Fitness}	{34.0199521389491,-118.45089783275,Santa Monica,CA,United States}	{Shop & Service,}
+632	Sun Feb 07 23:07:00 +0000 2010	3fd66200f964a52064ee1ee3	{On the Waterfront Cafe}	{33.99503188067042,-118.4807601571083,Venice,CA,United States}	{Nightlife Spot,}
+632	Sun Feb 07 21:33:22 +0000 2010	456ab1e7f964a520f43d1fe3	{Omelette Parlor}	{34.000249,-118.482151,Santa Monica,CA,United States}	{Food,}
+632	Sun Feb 07 20:05:32 +0000 2010	49e78d7cf964a520bd641fe3	{Santa Monica Farmers Market - Sunday}	{34.001559019088745,-118.483741,Santa Monica,CA,United States}	{Shop & Service,Food & Drink Shop,}
+632	Sun Feb 07 10:06:54 +0000 2010	4b004cebf964a520813c22e3	{Jack in the Box - Santa Monica, CA}	{34.01979897799737,-118.49132537841797,Santa Monica,CA,United States}	{Food,}
+632	Sun Feb 07 06:41:37 +0000 2010	3fd66200f964a5207aee1ee3	{The Standard, Hollywood}	{34.09630028150544,-118.37068498134613,Los Angeles,CA,United States}	{Nightlife Spot,Travel & Transport,}
+632	Sun Feb 07 01:32:22 +0000 2010	4ab6ba0ef964a520c07820e3	{Trader Joe's}	{34.19308825317099,-118.62552165985107,West Hills,CA,United States}	{Shop & Service,Food & Drink Shop,}
+632	Sat Feb 06 20:08:12 +0000 2010	4b331101f964a520651725e3	{24 Hour Fitness}	{34.1914908569681,-118.626347780227,West Hills,CA,United States}	{Shop & Service,}
+632	Thu Feb 04 02:57:50 +0000 2010	4a5aace1f964a520bdba1fe3	{24 Hour Fitness}	{34.0199521389491,-118.45089783275,Santa Monica,CA,United States}	{Shop & Service,}
+632	Wed Feb 03 04:06:03 +0000 2010	4a9043d3f964a520e51620e3	{Santa Monica Stairs}	{34.030907519256246,-118.5112369841196,Santa Monica,CA,United States}	{Outdoors & Recreation,Shop & Service,Gym / Fitness Center,}
+632	Tue Feb 02 17:33:40 +0000 2010	4b6861ebf964a5201d752be3	{Dr. Robert Dickey Optometrist}	{34.02866005897522,-118.499887,Santa Monica,CA,United States}	{Professional & Other Places,}
+632	Tue Feb 02 05:01:06 +0000 2010	4a9c9db9f964a520a63720e3	{Trader Joe's}	{34.03362165037406,-118.449418,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+632	Tue Feb 02 02:41:16 +0000 2010	4a5aace1f964a520bdba1fe3	{24 Hour Fitness}	{34.0199521389491,-118.45089783275,Santa Monica,CA,United States}	{Shop & Service,}
+632	Sat Jan 30 22:20:17 +0000 2010	4a5aace1f964a520bdba1fe3	{24 Hour Fitness}	{34.0199521389491,-118.45089783275,Santa Monica,CA,United States}	{Shop & Service,}
+632	Sat Jan 30 06:33:29 +0000 2010	437e6b00f964a520c42a1fe3	{Bar 107}	{34.04840077308701,-118.24765711567748,Los Angeles,CA,United States}	{Nightlife Spot,}
+632	Sat Jan 30 05:12:57 +0000 2010	4470358df964a52089331fe3	{Philippe the Original}	{34.05971039910925,-118.23699295520782,Los Angeles,CA,United States}	{Food,}
+632	Fri Jan 29 04:17:25 +0000 2010	4b1f2fd2f964a520bd2424e3	{Kintaro Sushi}	{34.151644706726074,-118.45202752,Sherman Oaks,CA,United States}	{Nightlife Spot,Food,}
+632	Thu Jan 28 15:32:29 +0000 2010	4a9043d3f964a520e51620e3	{Santa Monica Stairs}	{34.030907519256246,-118.5112369841196,Santa Monica,CA,United States}	{Outdoors & Recreation,Shop & Service,Gym / Fitness Center,}
+632	Thu Jan 28 02:32:21 +0000 2010	4a5aace1f964a520bdba1fe3	{24 Hour Fitness}	{34.0199521389491,-118.45089783275,Santa Monica,CA,United States}	{Shop & Service,}
+632	Tue Jan 26 23:26:47 +0000 2010	4a9d91c8f964a5208c3820e3	{VONS}	{34.026468116849024,-118.48988771438599,Santa Monica,CA,United States}	{Shop & Service,Food & Drink Shop,}
+632	Tue Jan 26 23:14:26 +0000 2010	4a1089daf964a520dd761fe3	{Taco Bell - WLA}	{34.029385,-118.450732,Los Angeles,CA,United States}	{Food,}
+632	Tue Jan 26 23:14:26 +0000 2010	4a1089daf964a520dd761fe3	{Taco Bell - WLA}	{34.029385,-118.450732,Los Angeles,CA,United States}	{Food,}
+632	Mon Jan 25 21:39:23 +0000 2010	4aa67d02f964a520f64920e3	{McDonald's}	{33.91575491461408,-118.39658975601196,El Segundo,CA,United States}	{Food,}
+632	Mon Jan 25 17:32:03 +0000 2010	4a81f994f964a5202bf81fe3	{Vista Cafe}	{33.918766,-118.395564,Los Angeles,CA,United States}	{Food,}
+632	Mon Jan 25 03:45:39 +0000 2010	4a01f5d9f964a52019711fe3	{Samosa House}	{34.00097802630131,-118.416189,Culver City,CA,United States}	{Food,}
+632	Mon Jan 25 00:05:56 +0000 2010	40a40c00f964a5201df31ee3	{Runyon Canyon Park}	{34.110383282168506,-118.3505630493164,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+632	Sun Jan 24 09:51:38 +0000 2010	4ad9d0bff964a520071b21e3	{Astro Burger}	{34.090949415047554,-118.35254117846489,West Hollywood,CA,United States}	{Food,}
+632	Sun Jan 24 08:20:11 +0000 2010	4ae118a2f964a5202c8521e3	{The Hudson}	{34.09118922536886,-118.36565810182488,West Hollywood,CA,United States}	{Nightlife Spot,Food,}
+632	Sun Jan 24 07:13:18 +0000 2010	49c27d4af964a520f6551fe3	{Dominick's}	{34.077024584793584,-118.38107646482612,West Hollywood,CA,United States}	{Food,}
+632	Sat Jan 23 14:59:03 +0000 2010	4a9d91c8f964a5208c3820e3	{VONS}	{34.026468116849024,-118.48988771438599,Santa Monica,CA,United States}	{Shop & Service,Food & Drink Shop,}
+632	Sat Jan 23 14:59:02 +0000 2010	4a9d91c8f964a5208c3820e3	{VONS}	{34.026468116849024,-118.48988771438599,Santa Monica,CA,United States}	{Shop & Service,Food & Drink Shop,}
+632	Sat Jan 23 02:51:18 +0000 2010	4a6376a3f964a5201ac51fe3	{24 Hour Fitness}	{33.987604,-118.365824,Los Angeles,CA,United States}	{Shop & Service,}
+632	Thu Jan 21 15:11:04 +0000 2010	4a9043d3f964a520e51620e3	{Santa Monica Stairs}	{34.030907519256246,-118.5112369841196,Santa Monica,CA,United States}	{Outdoors & Recreation,Shop & Service,Gym / Fitness Center,}
+632	Wed Jan 20 03:32:31 +0000 2010	4a9c9db9f964a520a63720e3	{Trader Joe's}	{34.03362165037406,-118.449418,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+632	Tue Jan 19 15:17:25 +0000 2010	4a9043d3f964a520e51620e3	{Santa Monica Stairs}	{34.030907519256246,-118.5112369841196,Santa Monica,CA,United States}	{Outdoors & Recreation,Shop & Service,Gym / Fitness Center,}
+632	Tue Jan 19 01:36:29 +0000 2010	4a9c9db9f964a520a63720e3	{Trader Joe's}	{34.03362165037406,-118.449418,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+632	Mon Jan 18 21:01:23 +0000 2010	4a5aace1f964a520bdba1fe3	{24 Hour Fitness}	{34.0199521389491,-118.45089783275,Santa Monica,CA,United States}	{Shop & Service,}
+632	Mon Jan 18 19:16:02 +0000 2010	4ae0d2fef964a520e08221e3	{Shell}	{34.04466227629581,-118.45343022626724,Los Angeles,CA,United States}	{Shop & Service,}
+632	Mon Jan 18 03:03:39 +0000 2010	4a9d91c8f964a5208c3820e3	{VONS}	{34.026468116849024,-118.48988771438599,Santa Monica,CA,United States}	{Shop & Service,Food & Drink Shop,}
+632	Mon Jan 18 02:42:25 +0000 2010	4cf1785ae9425481d1886ac5	{Topanga State Park}	{34.09192242279214,-118.58921001672772,Topanga,CA,United States}	{Outdoors & Recreation,}
+632	Sun Jan 17 20:17:41 +0000 2010	4b537059f964a520e49c27e3	{Snug Harbor}	{34.03409163645031,-118.4802347257198,Santa Monica,CA,United States}	{Food,}
+632	Sun Jan 17 11:07:00 +0000 2010	4bd6032a4e32d13ad5e7c180	{Benito's Taco Shop}	{34.044383,-118.45430016517639,Los Angeles,CA,United States}	{Food,}
+632	Sun Jan 17 06:52:19 +0000 2010	4a4ed9ebf964a52028af1fe3	{Busby's East}	{34.0622590954489,-118.34577798843384,Los Angeles,CA,United States}	{Nightlife Spot,}
+632	Sun Jan 17 05:08:47 +0000 2010	453a1bf3f964a520e03b1fe3	{El Rey Theatre}	{34.06269847425805,-118.34888004035504,Los Angeles,CA,United States}	{Music Venue,Food,Arts & Entertainment,}
+632	Sun Jan 17 04:12:13 +0000 2010	4a9d91c8f964a5208c3820e3	{VONS}	{34.026468116849024,-118.48988771438599,Santa Monica,CA,United States}	{Shop & Service,Food & Drink Shop,}
+632	Sat Jan 16 23:38:58 +0000 2010	4b524e06f964a520157627e3	{Salvation Army Drop Off Center}	{34.220894,-118.59652,Canoga Park,CA,United States}	{Professional & Other Places,}
+632	Sat Jan 16 10:51:38 +0000 2010	4a1089daf964a520dd761fe3	{Taco Bell - WLA}	{34.029385,-118.450732,Los Angeles,CA,United States}	{Food,}
+632	Sat Jan 16 07:32:44 +0000 2010	45543469f964a520fe3c1fe3	{Nikki's}	{33.988007,-118.4729605,Venice,CA,United States}	{Nightlife Spot,Food,}
+632	Sat Jan 16 04:49:48 +0000 2010	4ac94a61f964a52091bf20e3	{Jack in the Box - Santa Monica, CA}	{34.03468664523674,-118.47944776175393,Santa Monica,CA,United States}	{Food,}
+632	Sat Jan 16 04:47:32 +0000 2010	4aef4b0ff964a52050d721e3	{Wells Fargo Bank}	{34.0176175932431,-118.49674870007212,Santa Monica,CA,United States}	{Shop & Service,}
+632	Sat Jan 16 03:13:12 +0000 2010	4a5aace1f964a520bdba1fe3	{24 Hour Fitness}	{34.0199521389491,-118.45089783275,Santa Monica,CA,United States}	{Shop & Service,}
+632	Sat Jan 16 02:26:03 +0000 2010	4af5b96ff964a520edfb21e3	{Walgreens}	{33.92030839188297,-118.39665316623562,El Segundo,CA,United States}	{Shop & Service,Professional & Other Places,}
+632	Fri Jan 15 06:28:11 +0000 2010	4aec869ef964a52041c821e3	{Rite Aid}	{34.02697025854445,-118.48947271851581,Santa Monica,CA,United States}	{Shop & Service,}
+632	Thu Jan 14 21:00:50 +0000 2010	4a734a74f964a52007dc1fe3	{Islands Restaurant}	{33.89956562418293,-118.39414358139038,Manhattan Beach,CA,United States}	{Food,}
+632	Thu Jan 14 15:30:11 +0000 2010	4a9043d3f964a520e51620e3	{Santa Monica Stairs}	{34.030907519256246,-118.5112369841196,Santa Monica,CA,United States}	{Outdoors & Recreation,Shop & Service,Gym / Fitness Center,}
+632	Thu Jan 14 15:30:10 +0000 2010	4a9043d3f964a520e51620e3	{Santa Monica Stairs}	{34.030907519256246,-118.5112369841196,Santa Monica,CA,United States}	{Outdoors & Recreation,Shop & Service,Gym / Fitness Center,}
+632	Thu Jan 14 05:51:28 +0000 2010	4a9d91c8f964a5208c3820e3	{VONS}	{34.026468116849024,-118.48988771438599,Santa Monica,CA,United States}	{Shop & Service,Food & Drink Shop,}
+632	Wed Jan 13 21:44:08 +0000 2010	4abd60d0f964a520fa8920e3	{The Habit Burger Grill}	{33.92001509456586,-118.39642345905304,El Segundo,CA,United States}	{Food,}
+632	Wed Jan 13 03:34:13 +0000 2010	49ce8fb0f964a520595a1fe3	{Irori}	{33.984545744639355,-118.4391707510598,Marina del Rey,CA,United States}	{Food,}
+632	Tue Jan 12 15:13:26 +0000 2010	4a9043d3f964a520e51620e3	{Santa Monica Stairs}	{34.030907519256246,-118.5112369841196,Santa Monica,CA,United States}	{Outdoors & Recreation,Shop & Service,Gym / Fitness Center,}
+632	Tue Jan 12 03:05:35 +0000 2010	4a1505c8f964a52091781fe3	{24 Hour Fitness}	{34.0146715294773,-118.496269726813,Santa Monica,CA,United States}	{Shop & Service,}
+632	Mon Jan 11 20:24:34 +0000 2010	4abd60d0f964a520fa8920e3	{The Habit Burger Grill}	{33.92001509456586,-118.39642345905304,El Segundo,CA,United States}	{Food,}

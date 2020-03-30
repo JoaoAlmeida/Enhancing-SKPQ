@@ -1,0 +1,226 @@
+26	Mon Aug 08 13:42:04 +0000 2011	4b44ce69f964a520c1fc25e3	{Starbucks}	{38.591262638137074,-121.55462533378483,West Sacramento,CA,United States}	{Food,}
+26	Mon Aug 01 01:43:01 +0000 2011	4be845aaaecb76b089ab5a80	{Red Hawk Casino}	{38.69505640204771,-120.9083604812622,Placerville,CA,United States}	{Arts & Entertainment,}
+26	Wed Jul 27 08:09:26 +0000 2011	4cc3b811bde8f04d444ba74b	{Puregold Showgirls}	{38.594643075500656,-121.26572422452541,Rancho Cordova,CA,United States}	{Nightlife Spot,}
+26	Mon Jul 18 00:32:06 +0000 2011	4bb91da71261d13ae057e998	{AU79 Tea Spirit}	{34.079162544486366,-118.09180498123169,San Gabriel,CA,United States}	{Food,}
+26	Fri Jul 15 23:54:28 +0000 2011	4bc3b561dce4eee154b8719d	{Best Western}	{34.06516922863193,-117.61203965558242,Ontario,CA,United States}	{Travel & Transport,Hotel,}
+26	Thu Jul 14 22:41:35 +0000 2011	4ba6a020f964a520ee6339e3	{Mather Regional Park}	{38.55721953366712,-121.25981158277143,Mather,CA,United States}	{Outdoors & Recreation,}
+26	Tue Jul 05 00:06:50 +0000 2011	4e0d268362843e04af9f3870	{Don't Be All Up In My Grill!}	{38.53947333172433,-121.27980327511423,Mather,CA,United States}	{Residence,}
+26	Mon Jul 04 19:15:45 +0000 2011	4b5f867ef964a52083bf29e3	{Mather Golf Course}	{38.554110099546236,-121.25969767570496,Mather,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+26	Sat Jul 02 17:53:26 +0000 2011	4b5f867ef964a52083bf29e3	{Mather Golf Course}	{38.554110099546236,-121.25969767570496,Mather,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+26	Sun Jun 26 15:36:36 +0000 2011	4c53a1d9728920a1e1d66681	{Champion Golf Links}	{38.482211102738034,-121.37203942648148,Sacramento,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+26	Sun Jun 12 18:28:42 +0000 2011	49f40719f964a520f76a1fe3	{Sacramento International Airport (SMF)}	{38.692276283389305,-121.59045696258545,Sacramento,CA,United States}	{Travel & Transport,}
+26	Sun Jun 12 13:26:17 +0000 2011	44d1efc9f964a52032361fe3	{George Bush International Airport (IAH)}	{29.986460430837823,-95.34201622009277,Houston,TX,United States}	{Travel & Transport,}
+26	Sun Jun 12 09:59:10 +0000 2011	4a78c47ff964a5205de61fe3	{Orlando International Airport (MCO)}	{28.430902032399718,-81.3084089756012,Orlando,FL,United States}	{Travel & Transport,}
+26	Sun Jun 12 00:55:56 +0000 2011	4b489d4ff964a520995026e3	{Kouzzina by Cat Cora}	{28.36724011278381,-81.55570328235626,Lake Buena Vista,FL,United States}	{Food,}
+26	Sat Jun 11 15:47:07 +0000 2011	4acb60d2f964a52094c320e3	{Disney's Hollywood Studios}	{28.358062521626124,-81.55915851166543,Lake Buena Vista,FL,United States}	{Arts & Entertainment,}
+26	Sat Jun 11 13:06:30 +0000 2011	4b072e3bf964a520fdf822e3	{Disney's Boardwalk Inn}	{28.366221586218856,-81.55466516125308,Lake Buena Vista,FL,United States}	{Travel & Transport,Hotel,Professional & Other Places,}
+26	Fri Jun 10 15:06:20 +0000 2011	4b301d74f964a52053f624e3	{Epcot}	{28.375550775447067,-81.54940092563623,Lake Buena Vista,FL,United States}	{Arts & Entertainment,}
+26	Fri Jun 10 00:26:04 +0000 2011	4b1ef714f964a5203b2224e3	{Boma Flavors of Africa}	{28.35250715651383,-81.60344123840332,Lake Buena Vista,FL,United States}	{Food,}
+26	Thu Jun 09 16:57:43 +0000 2011	4b058693f964a5206e6622e3	{Disney's Animal Kingdom}	{28.355436143695144,-81.59010127186774,Lake Buena Vista,FL,United States}	{Arts & Entertainment,}
+26	Thu Jun 09 16:05:08 +0000 2011	4bf173b225afb713c7054b6f	{Uzima Springs Watering Hole}	{28.35258269114224,-81.60322666168213,Lake Buena Vista,FL,United States}	{Nightlife Spot,}
+26	Thu Jun 09 02:35:19 +0000 2011	4b097f1af964a520441823e3	{Tomorrowland}	{28.418475441473156,-81.5793308019638,Lake Buena Vista,FL,United States}	{Arts & Entertainment,}
+26	Wed Jun 08 23:45:59 +0000 2011	4b175988f964a520f1c423e3	{Disney's Animal Kingdom Lodge}	{28.352526104201836,-81.60365176200872,Lake Buena Vista,FL,United States}	{Travel & Transport,Hotel,}
+26	Wed Jun 08 16:41:43 +0000 2011	4b11d311f964a520758523e3	{Magic Kingdom? Park}	{28.41597260059124,-81.58122444152832,Lake Buena Vista,FL,United States}	{Arts & Entertainment,}
+26	Tue Jun 07 23:23:19 +0000 2011	4ac9055ef964a52012be20e3	{Downtown Disney Marketplace}	{28.371566894583673,-81.51516197998042,Lake Buena Vista,FL,United States}	{Shop & Service,}
+26	Tue Jun 07 10:59:34 +0000 2011	4ba40aaef964a520df7a38e3	{Disney Dream}	{28.413710336555255,-80.62973499298096,Port Canaveral,FL,United States}	{Travel & Transport,}
+26	Fri Jun 03 17:08:53 +0000 2011	4b7eef50f964a520880a30e3	{Disney Cruise Line Terminal (CT #8)}	{28.41290824087927,-80.62976717948914,Cape Canaveral,FL,United States}	{Outdoors & Recreation,}
+26	Fri Jun 03 15:33:21 +0000 2011	4a78c47ff964a5205de61fe3	{Orlando International Airport (MCO)}	{28.430902032399718,-81.3084089756012,Orlando,FL,United States}	{Travel & Transport,}
+26	Fri Jun 03 11:14:10 +0000 2011	44d1efc9f964a52032361fe3	{George Bush International Airport (IAH)}	{29.986460430837823,-95.34201622009277,Houston,TX,United States}	{Travel & Transport,}
+26	Fri Jun 03 06:16:24 +0000 2011	49f40719f964a520f76a1fe3	{Sacramento International Airport (SMF)}	{38.692276283389305,-121.59045696258545,Sacramento,CA,United States}	{Travel & Transport,}
+26	Wed May 25 23:15:40 +0000 2011	4ddd8d7018387791398a176e	{Urban Dog & Sausage}	{38.57447567,-121.30398448333334,Rancho Cordova,CA,United States}	{Food,}
+26	Sun May 22 07:01:37 +0000 2011	4b2d9b31f964a52077d924e3	{El Pollo Loco}	{38.619297253259234,-121.26727759838104,Rancho Cordova,CA,United States}	{Food,}
+26	Sat May 21 06:55:34 +0000 2011	4b37e883f964a520654825e3	{Pete's Restaurant & Brewhouse}	{38.65210467113366,-121.06278226793115,El Dorado Hills,CA,United States}	{Food,}
+26	Fri May 20 13:42:01 +0000 2011	4b44ce69f964a520c1fc25e3	{Starbucks}	{38.591262638137074,-121.55462533378483,West Sacramento,CA,United States}	{Food,}
+26	Fri May 20 04:14:03 +0000 2011	4c6ae01523971b8dc507998a	{KFC}	{38.557925,-121.33575975894928,Sacramento,CA,United States}	{Food,}
+26	Fri May 20 03:52:38 +0000 2011	4be467d7cf200f475dea113c	{Macy's}	{38.67406886,-121.2680984,Citrus Heights,CA,United States}	{Shop & Service,}
+26	Sat May 14 16:49:49 +0000 2011	4bdc844ec79cc92863eb86e9	{Brooks Brothers Factory Store}	{38.64363604771986,-121.18654310703278,FOLSOM,CA,United States}	{Shop & Service,}
+26	Sun May 08 00:04:22 +0000 2011	4b37e883f964a520654825e3	{Pete's Restaurant & Brewhouse}	{38.65210467113366,-121.06278226793115,El Dorado Hills,CA,United States}	{Food,}
+26	Tue May 03 18:37:22 +0000 2011	4b476a8af964a5206a3126e3	{Beach Hut Deli}	{38.58964371,-121.55074417591095,West Sacramento,CA,United States}	{Food,}
+26	Sat Apr 30 20:27:27 +0000 2011	4d4358a8f83bcbff3eca1ddc	{SactoMoFo (Sacramento Mobile Food Festival)}	{38.57115,-121.4889979,Sacramento,CA,United States}	{Food,}
+26	Thu Apr 28 02:12:54 +0000 2011	4c43bd5b2d3ec9b620062eae	{Punch Line Comedy Club Sacramento}	{38.595641,-121.417261,Sacramento,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+26	Sat Apr 23 20:34:43 +0000 2011	4b5f867ef964a52083bf29e3	{Mather Golf Course}	{38.554110099546236,-121.25969767570496,Mather,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+26	Fri Apr 22 20:15:45 +0000 2011	4b2e8352f964a5208fe124e3	{Mizu}	{38.639304424252245,-121.49880578623177,Sacramento,CA,United States}	{Food,}
+26	Fri Apr 22 00:31:34 +0000 2011	4bdf7113e75c0f475d48cb03	{CRPD Pool}	{38.60287581874622,-121.2909529995263,Rancho Cordova,CA,United States}	{Outdoors & Recreation,}
+26	Sun Apr 17 20:47:20 +0000 2011	4ba7f1b9f964a520b8c039e3	{Boudin Bakery & Cafe}	{37.808428,-122.414738,San Francisco,CA,United States}	{Food,}
+26	Sun Apr 17 19:37:51 +0000 2011	4a71e4cff964a520ccd91fe3	{San Francisco-Oakland Bay Bridge}	{37.81534420993673,-122.35495090484619,San Francisco,CA,United States}	{Outdoors & Recreation,}
+26	Sun Apr 17 02:40:30 +0000 2011	4b0586b9f964a520626b22e3	{Oz Korean BBQ}	{38.56358406717473,-121.33567661046982,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+26	Sat Apr 16 18:13:08 +0000 2011	4b5f84f7f964a52033bf29e3	{Jalisco Tacos}	{38.57789793333333,-121.26111048333334,Rancho Cordova,CA,United States}	{Food,}
+26	Wed Apr 13 13:42:16 +0000 2011	4ba5251af964a52090e338e3	{McDonald's}	{38.59115784972886,-121.54931274789135,West Sacramento,CA,United States}	{Food,}
+26	Wed Apr 13 13:42:16 +0000 2011	4ba5251af964a52090e338e3	{McDonald's}	{38.59115784972886,-121.54931274789135,West Sacramento,CA,United States}	{Food,}
+26	Sat Apr 09 07:05:38 +0000 2011	4cc3b811bde8f04d444ba74b	{Puregold Showgirls}	{38.594643075500656,-121.26572422452541,Rancho Cordova,CA,United States}	{Nightlife Spot,}
+26	Sun Apr 03 18:47:56 +0000 2011	4c53a1d9728920a1e1d66681	{Champion Golf Links}	{38.482211102738034,-121.37203942648148,Sacramento,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+26	Tue Mar 29 22:59:52 +0000 2011	4c0aee4e340720a153638793	{Fire Engine Park}	{38.60581585,-121.26977741718292,Rancho Cordova,CA,United States}	{Outdoors & Recreation,}
+26	Fri Mar 25 18:23:40 +0000 2011	4c97868ebc279c746a786f53	{Black Bear Diner}	{38.6148675,-121.53835731,Sacramento,CA,United States}	{Food,}
+26	Mon Mar 21 18:21:34 +0000 2011	4b3cf604f964a520a18a25e3	{Manaao Thai Cuisine}	{38.590845428668466,-121.55445098876953,West Sacramento,CA,United States}	{Food,}
+26	Fri Mar 18 02:45:49 +0000 2011	4841336af964a52038501fe3	{The Golden Bear}	{38.574109454941244,-121.47538482914622,Sacramento,CA,United States}	{Nightlife Spot,}
+26	Fri Mar 18 02:30:03 +0000 2011	4ac7e61df964a52073ba20e3	{Rick's Dessert Diner}	{38.57419723,-121.475507,Sacramento,CA,United States}	{Food,}
+26	Thu Mar 17 19:18:33 +0000 2011	43d820b6f964a520612e1fe3	{Espetus Churrascaria Brazilian Steak House}	{37.77329285782031,-122.42223680019379,San Francisco,CA,United States}	{Food,}
+26	Wed Mar 16 01:34:26 +0000 2011	4b7c41d6f964a520c9872fe3	{Cordova Shooting Center}	{38.56065205939508,-121.24861698788777,Rancho Cordova,CA,United States}	{Shop & Service,Outdoors & Recreation,}
+26	Sun Mar 13 08:27:04 +0000 2011	4adcf00ef964a520b66221e3	{Magpie Caf?}	{38.56998,-121.4913010597229,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+26	Sun Mar 13 06:47:14 +0000 2011	4b283396f964a520c79024e3	{Logan's Roadhouse}	{38.63788463405816,-121.49480687971563,Sacramento,CA,United States}	{Food,}
+26	Sun Mar 13 02:35:02 +0000 2011	4b2e8352f964a5208fe124e3	{Mizu}	{38.639304424252245,-121.49880578623177,Sacramento,CA,United States}	{Food,}
+26	Mon Mar 07 19:31:11 +0000 2011	4b50b6fff964a520002f27e3	{Panda Express}	{38.59071125455287,-121.55466556549072,West Sacramento,CA,United States}	{Food,}
+26	Sun Mar 06 22:16:16 +0000 2011	49d01698f964a520fd5a1fe3	{Golden Gate Bridge}	{37.81700118722001,-122.47821718454361,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+26	Sun Mar 06 14:09:56 +0000 2011	4ae7b356f964a5206cad21e3	{Embassy Suites}	{37.655436316362234,-122.4010182245537,South San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+26	Sun Mar 06 03:45:06 +0000 2011	4ae7b356f964a5206cad21e3	{Embassy Suites}	{37.655436316362234,-122.4010182245537,South San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+26	Sat Mar 05 03:33:14 +0000 2011	4ae7b356f964a5206cad21e3	{Embassy Suites}	{37.655436316362234,-122.4010182245537,South San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+26	Fri Mar 04 17:34:28 +0000 2011	50607e6de889adb45f097cd6	{San Francisco Bulls Pro Hockey}	{37.70662300172055,-122.4187445640564,Daly City,CA,United States}	{Stadium,Arts & Entertainment,Professional & Other Places,}
+26	Fri Mar 04 03:41:41 +0000 2011	4ae7b356f964a5206cad21e3	{Embassy Suites}	{37.655436316362234,-122.4010182245537,South San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+26	Sat Feb 26 07:05:35 +0000 2011	4bb4d8b0a7059521f7c91bce	{Cafeteria 15L}	{38.57658802692282,-121.48763179779051,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+26	Fri Feb 25 19:23:19 +0000 2011	4b3cf604f964a520a18a25e3	{Manaao Thai Cuisine}	{38.590845428668466,-121.55445098876953,West Sacramento,CA,United States}	{Food,}
+26	Tue Feb 22 19:23:30 +0000 2011	4b575cf2f964a520ac3328e3	{Chipotle Mexican Grill}	{38.58995743333333,-121.54968738555908,West Sacramento,CA,United States}	{Food,}
+26	Tue Feb 22 19:23:30 +0000 2011	4b575cf2f964a520ac3328e3	{Chipotle Mexican Grill}	{38.58995743333333,-121.54968738555908,West Sacramento,CA,United States}	{Food,}
+26	Fri Feb 18 04:03:59 +0000 2011	4b2b06b8f964a520d1b324e3	{Ma Jong's Asian Diner}	{38.57650171071105,-121.48778475332072,Sacramento,CA,United States}	{Food,}
+26	Mon Feb 14 04:27:25 +0000 2011	4b0586b9f964a520626b22e3	{Oz Korean BBQ}	{38.56358406717473,-121.33567661046982,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+26	Sun Feb 13 03:51:04 +0000 2011	4cc3b811bde8f04d444ba74b	{Puregold Showgirls}	{38.594643075500656,-121.26572422452541,Rancho Cordova,CA,United States}	{Nightlife Spot,}
+26	Sun Feb 06 23:13:34 +0000 2011	4d4ad2e8f2cc6a31686ec188	{Super Bowl Sunday}	{32.747868226330375,-97.09356307983398,Arlington,TX,United States}	{Stadium,Arts & Entertainment,}
+26	Sun Feb 06 03:05:28 +0000 2011	4b02153ef964a5209d4722e3	{Century Folsom 14}	{38.64166260005034,-121.191086769104,Folsom,CA,United States}	{Arts & Entertainment,Movie Theater,}
+26	Sun Feb 06 02:20:36 +0000 2011	4ada1ccaf964a5208c1e21e3	{Samurai Sushi}	{38.628940728833264,-121.21884763240814,Rancho Cordova,CA,United States}	{Food,}
+26	Sat Feb 05 20:55:09 +0000 2011	4d4c7af1e1ec6dcb9ec6d975	{Krush Burger}	{38.578148092309746,-121.50108575820921,Sacramento,CA,United States}	{Food,}
+26	Fri Feb 04 14:39:55 +0000 2011	4b44ce69f964a520c1fc25e3	{Starbucks}	{38.591262638137074,-121.55462533378483,West Sacramento,CA,United States}	{Food,}
+26	Fri Feb 04 03:51:20 +0000 2011	4b61ed7ff964a520c92b2ae3	{China Buffet}	{38.66829536087414,-121.27301123070244,Citrus Heights,CA,United States}	{Food,}
+26	Wed Feb 02 17:19:48 +0000 2011	4c1108e381e976b0a51110eb	{PG&E - RMC}	{38.58953624070915,-121.56007145346203,West Sacramento,CA,United States}	{Professional & Other Places,}
+26	Tue Feb 01 14:39:06 +0000 2011	4b44ce69f964a520c1fc25e3	{Starbucks}	{38.591262638137074,-121.55462533378483,West Sacramento,CA,United States}	{Food,}
+26	Fri Jan 28 23:21:22 +0000 2011	4b79cd43f964a52000132fe3	{Chow King}	{38.47581277397906,-121.43103986754498,Sacramento,CA,United States}	{Food,}
+26	Fri Jan 28 22:10:34 +0000 2011	4b450bdef964a520590226e3	{Mahoroba Japanese Bakery}	{38.53002210174363,-121.4958930015564,Sacramento,CA,United States}	{Food,}
+26	Fri Jan 28 20:30:35 +0000 2011	4b5a574ff964a5208abe28e3	{US Post Office}	{38.599025383091934,-121.28064036369324,Rancho Cordova,CA,United States}	{Professional & Other Places,}
+26	Thu Jan 27 20:55:52 +0000 2011	49e22ce6f964a520f9611fe3	{Mitchell's Ice Cream}	{37.74413536569657,-122.42281347513199,San Francisco,CA,United States}	{Food,}
+26	Thu Jan 27 17:17:51 +0000 2011	4a71e4cff964a520ccd91fe3	{San Francisco-Oakland Bay Bridge}	{37.81534420993673,-122.35495090484619,San Francisco,CA,United States}	{Outdoors & Recreation,}
+26	Thu Jan 20 04:32:57 +0000 2011	4bb29dd842959c74e41e212c	{HoiCin Fine Modern Asian Cuisine}	{38.571244316666665,-121.339742,Sacramento,CA,United States}	{Food,}
+26	Mon Jan 17 21:15:48 +0000 2011	4b5355f9f964a520d69727e3	{Bella Bru Cafe}	{38.65500686002058,-121.06967869409067,El Dorado Hills,CA,United States}	{Food,}
+26	Wed Jan 12 19:27:24 +0000 2011	4b50b6fff964a520002f27e3	{Panda Express}	{38.59071125455287,-121.55466556549072,West Sacramento,CA,United States}	{Food,}
+26	Thu Jan 06 05:45:55 +0000 2011	49f40719f964a520f76a1fe3	{Sacramento International Airport (SMF)}	{38.692276283389305,-121.59045696258545,Sacramento,CA,United States}	{Travel & Transport,}
+26	Sat Jan 01 22:00:19 +0000 2011	4b2bcaa4f964a52011bb24e3	{Palladio 16 Cinemas}	{38.6485547656594,-121.11982583999634,Folsom,CA,United States}	{Arts & Entertainment,Movie Theater,}
+26	Thu Dec 30 14:47:27 +0000 2010	4b44ce69f964a520c1fc25e3	{Starbucks}	{38.591262638137074,-121.55462533378483,West Sacramento,CA,United States}	{Food,}
+26	Wed Dec 29 03:57:37 +0000 2010	4b5e5f6af964a520d88b29e3	{Takieng Thai Cuisine}	{38.64404901666666,-121.291174,Fair Oaks,CA,United States}	{Food,}
+26	Sun Dec 26 07:22:05 +0000 2010	4b78bd24f964a5202fe02ee3	{Independence Park}	{38.545036488894254,-121.27830296834021,Mather,CA,United States}	{Outdoors & Recreation,}
+26	Thu Dec 23 00:21:21 +0000 2010	4b5f867ef964a52083bf29e3	{Mather Golf Course}	{38.554110099546236,-121.25969767570496,Mather,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+26	Sat Dec 18 23:50:05 +0000 2010	4b034423f964a520174e22e3	{Taro's By Mikuni}	{38.59913962752081,-121.42402991652489,Sacramento,CA,United States}	{Food,}
+26	Sat Dec 18 19:57:49 +0000 2010	4b51f220f964a520b95c27e3	{Mather Sports Center}	{38.57124933177219,-121.30136143325663,Mather,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+26	Fri Dec 17 19:39:32 +0000 2010	4b50b6fff964a520002f27e3	{Panda Express}	{38.59071125455287,-121.55466556549072,West Sacramento,CA,United States}	{Food,}
+26	Tue Dec 14 02:28:34 +0000 2010	4c2cf9b3e760c9b647154449	{Almost Perfect Bookstore}	{38.74501174438105,-121.25857648495986,Roseville,CA,United States}	{Shop & Service,}
+26	Tue Dec 14 01:28:05 +0000 2010	4b3fc565f964a52063ae25e3	{Barnes & Noble}	{38.674843649580055,-121.27293705940247,Citrus Heights,CA,United States}	{Shop & Service,}
+26	Mon Dec 13 17:05:48 +0000 2010	4c1108e381e976b0a51110eb	{PG&E - RMC}	{38.58953624070915,-121.56007145346203,West Sacramento,CA,United States}	{Professional & Other Places,}
+26	Mon Dec 13 17:05:48 +0000 2010	4c1108e381e976b0a51110eb	{PG&E - RMC}	{38.58953624070915,-121.56007145346203,West Sacramento,CA,United States}	{Professional & Other Places,}
+26	Mon Dec 13 10:35:18 +0000 2010	4cc3b811bde8f04d444ba74b	{Puregold Showgirls}	{38.594643075500656,-121.26572422452541,Rancho Cordova,CA,United States}	{Nightlife Spot,}
+26	Sun Dec 12 19:43:34 +0000 2010	4b1ea282f964a520151d24e3	{Borders}	{38.65318408523747,-121.12588763237,Folsom,CA,United States}	{Shop & Service,College & University,}
+26	Sat Dec 11 03:26:34 +0000 2010	4b53e831f964a52065ae27e3	{Brookfields Restaurant}	{38.60548830008722,-121.27097158503976,Rancho Cordova,CA,United States}	{Food,}
+26	Thu Dec 09 17:06:46 +0000 2010	4c1108e381e976b0a51110eb	{PG&E - RMC}	{38.58953624070915,-121.56007145346203,West Sacramento,CA,United States}	{Professional & Other Places,}
+26	Thu Dec 09 03:47:55 +0000 2010	4b46aa2ef964a520812626e3	{Chevys Fresh Mex}	{38.62194189907959,-121.26619398593903,Gold River,CA,United States}	{Food,}
+26	Wed Dec 01 19:25:10 +0000 2010	4c6d72e9ba2b199c754ffab8	{Wingstop}	{38.589536,-121.551014,WEST SACRAMENTO,CA,United States}	{Food,}
+26	Sun Nov 28 04:35:14 +0000 2010	4adcf00ef964a520b66221e3	{Magpie Caf?}	{38.56998,-121.4913010597229,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+26	Sun Nov 28 03:43:48 +0000 2010	484131b0f964a52037501fe3	{Naked Lounge}	{38.57065359769005,-121.48990094661713,Sacramento,CA,United States}	{Food,}
+26	Fri Nov 26 14:57:13 +0000 2010	4cba256e9552b60c2a57d88b	{Sports Authority}	{38.673926465750974,-121.2749433517456,Citrus Heights,CA,United States}	{Shop & Service,}
+26	Fri Nov 26 09:06:48 +0000 2010	4b80b7a0f964a520128830e3	{Old Navy}	{38.6796546,-121.27095,Citrus Heights,CA,United States}	{Shop & Service,}
+26	Fri Nov 26 06:52:58 +0000 2010	4b0586bcf964a520e66b22e3	{Folsom Premium Outlets}	{38.64366945486863,-121.18794204851302,Folsom,CA,United States}	{Shop & Service,}
+26	Thu Nov 25 02:38:53 +0000 2010	4bb552b8941ad13a75201ee3	{Louis Vuitton}	{38.773383,-121.270129,Roseville,CA,United States}	{Shop & Service,Clothing Store,}
+26	Tue Nov 23 23:56:49 +0000 2010	4b7c8936f964a5208f992fe3	{Mather AFB (MHR)}	{38.56635450003666,-121.29571437835693,Mather,CA,United States}	{Travel & Transport,Residence,Professional & Other Places,}
+26	Mon Nov 22 05:46:33 +0000 2010	4c210ffe9a67a593705eda87	{Mather Lake}	{38.559565318002015,-121.26105225622113,Mather,CA,United States}	{Outdoors & Recreation,}
+26	Thu Nov 18 19:28:09 +0000 2010	4b81df00f964a52004c230e3	{RadioShack}	{38.58921057228631,-121.5506729717859,W Sacramento,CA,United States}	{Shop & Service,}
+26	Wed Nov 17 14:58:34 +0000 2010	4b44ce69f964a520c1fc25e3	{Starbucks}	{38.591262638137074,-121.55462533378483,West Sacramento,CA,United States}	{Food,}
+26	Wed Nov 17 00:19:47 +0000 2010	4b2beaadf964a5209cbd24e3	{The Gym}	{38.57068560351433,-121.32826934749316,Sacramento,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+26	Tue Nov 16 14:44:20 +0000 2010	4b44ce69f964a520c1fc25e3	{Starbucks}	{38.591262638137074,-121.55462533378483,West Sacramento,CA,United States}	{Food,}
+26	Mon Nov 15 18:27:46 +0000 2010	4a677f82f964a52091c91fe3	{Las Vegas McCarran International Airport (LAS)}	{36.08365019548198,-115.14985084533691,Las Vegas,NV,United States}	{Travel & Transport,}
+26	Mon Nov 15 12:24:22 +0000 2010	4a36f332f964a5200c9e1fe3	{Pittsburgh International Airport (PIT)}	{40.495738027353624,-80.25630712509155,Pittsburgh,PA,United States}	{Travel & Transport,}
+26	Mon Nov 15 11:35:12 +0000 2010	4aa1679cf964a5207f4020e3	{Andy Warhol Museum}	{40.44854298843909,-80.00220898,Pittsburgh,PA,United States}	{Museum,Arts & Entertainment,}
+26	Mon Nov 15 00:48:06 +0000 2010	4b155069f964a52086b023e3	{Heinz Field}	{40.44678376501633,-80.01575589179993,Pittsburgh,PA,United States}	{Stadium,Arts & Entertainment,Professional & Other Places,}
+26	Sun Nov 14 00:12:18 +0000 2010	4ad4c010f964a520b1ee20e3	{Station Square}	{40.43415697667783,-80.00604797136839,Pittsburgh,PA,United States}	{Nightlife Spot,Shop & Service,}
+26	Sat Nov 13 18:25:28 +0000 2010	4ad4c00df964a52085ed20e3	{The Church Brew Works}	{40.46205825582471,-79.96442914009094,Pittsburgh,PA,United States}	{Nightlife Spot,}
+26	Sat Nov 13 17:51:05 +0000 2010	4b9bf5eaf964a520d23a36e3	{Carnegie Library Mount Washington Branch}	{40.43351986,-80.010287,Pittsburgh,PA,United States}	{Professional & Other Places,}
+26	Sat Nov 13 06:11:26 +0000 2010	4b36f155f964a5206c3e25e3	{Cheerleaders Gentleman's Club}	{40.458797779094986,-79.97066287327753,Pittsburgh,PA,United States}	{Nightlife Spot,}
+26	Sat Nov 13 03:46:25 +0000 2010	4c2a58e62219c92847f2a248	{Pittsburgh, PA}	{40.44162345180709,-79.99063968658447,Pittsburgh,PA,United States}	{Outdoors & Recreation,}
+26	Sat Nov 13 02:39:39 +0000 2010	4b29b622f964a520c7a224e3	{Primanti Brothers}	{40.685389433327266,-80.10775566101074,Pittsburgh,PA,United States}	{Nightlife Spot,Food,}
+26	Fri Nov 12 18:02:43 +0000 2010	427c0500f964a52097211fe3	{The Metropolitan Museum of Art}	{40.778936659294864,-73.96229820007625,New York,NY,United States}	{Museum,Arts & Entertainment,}
+26	Fri Nov 12 17:15:07 +0000 2010	4a0e0f85f964a520bf751fe3	{Ace Hotel New York}	{40.74587751338479,-73.98814227092514,New York,NY,United States}	{Nightlife Spot,Travel & Transport,}
+26	Fri Nov 12 16:27:46 +0000 2010	4ae6363ef964a520aba521e3	{Madison Square Garden}	{40.75051626137434,-73.9934992790222,New York,NY,United States}	{Arts & Entertainment,}
+26	Fri Nov 12 15:17:16 +0000 2010	427d5680f964a520a8211fe3	{Brooklyn Museum}	{40.6716389935202,-73.96381202180841,Brooklyn,NY,United States}	{Museum,Arts & Entertainment,}
+26	Fri Nov 12 13:04:17 +0000 2010	43a52546f964a520532c1fe3	{John F. Kennedy International Airport (JFK)}	{40.645089355976346,-73.7845230102539,Jamaica,NY,United States}	{Travel & Transport,}
+26	Thu Nov 11 21:36:56 +0000 2010	4c210ffe9a67a593705eda87	{Mather Lake}	{38.559565318002015,-121.26105225622113,Mather,CA,United States}	{Outdoors & Recreation,}
+26	Sat Nov 06 20:39:55 +0000 2010	4b61f5d9f964a520af2d2ae3	{Oscar's Very Mexican Food}	{38.548770101117306,-121.4893743905659,Sacramento,CA,United States}	{Food,}
+26	Sat Nov 06 19:22:46 +0000 2010	4a7dea35f964a5202df01fe3	{Freeport Bakery}	{38.550978,-121.48895144462585,Sacramento,CA,United States}	{Food,}
+26	Sat Nov 06 17:22:28 +0000 2010	4b395593f964a520d45a25e3	{REI}	{38.644210619478336,-121.12141163892734,Folsom,CA,United States}	{Shop & Service,}
+26	Sat Nov 06 16:31:27 +0000 2010	4ba6a020f964a520ee6339e3	{Mather Regional Park}	{38.55721953366712,-121.25981158277143,Mather,CA,United States}	{Outdoors & Recreation,}
+26	Wed Nov 03 13:49:42 +0000 2010	4b44ce69f964a520c1fc25e3	{Starbucks}	{38.591262638137074,-121.55462533378483,West Sacramento,CA,United States}	{Food,}
+26	Tue Nov 02 23:18:19 +0000 2010	4b58e426f964a5203f7128e3	{Sunrise Elementary School}	{38.555447892438046,-121.2382206559419,Rancho Cordova,CA,United States}	{Outdoors & Recreation,Professional & Other Places,}
+26	Tue Nov 02 18:22:34 +0000 2010	4b3cf604f964a520a18a25e3	{Manaao Thai Cuisine}	{38.590845428668466,-121.55445098876953,West Sacramento,CA,United States}	{Food,}
+26	Sun Oct 24 22:33:07 +0000 2010	4bc7521eaf07a5938cf27e2d	{NASA Exploration Center - Ames Visitors Center}	{37.40875966979644,-122.06436574459076,Mountain View,CA,United States}	{Museum,Arts & Entertainment,}
+26	Fri Oct 22 18:33:09 +0000 2010	4b50b6fff964a520002f27e3	{Panda Express}	{38.59071125455287,-121.55466556549072,West Sacramento,CA,United States}	{Food,}
+26	Sat Oct 16 05:10:40 +0000 2010	4b0896c6f964a520fd0e23e3	{Regal El Dorado Hills Stadium 14 & IMAX}	{38.6520697243323,-121.06248021125793,El Dorado Hills,CA,United States}	{Arts & Entertainment,Movie Theater,}
+26	Wed Oct 13 13:51:42 +0000 2010	4b44ce69f964a520c1fc25e3	{Starbucks}	{38.591262638137074,-121.55462533378483,West Sacramento,CA,United States}	{Food,}
+26	Sat Oct 09 03:04:06 +0000 2010	48412ec1f964a52032501fe3	{Monkey Bar}	{38.57049822807312,-121.47081546,Sacramento,CA,United States}	{Nightlife Spot,}
+26	Thu Oct 07 19:36:03 +0000 2010	4bd8e7482e6f0f470e280908	{Club Pheasant}	{38.552137,-121.537329,West Sacramento,CA,United States}	{Food,}
+26	Thu Oct 07 13:54:26 +0000 2010	4b44ce69f964a520c1fc25e3	{Starbucks}	{38.591262638137074,-121.55462533378483,West Sacramento,CA,United States}	{Food,}
+26	Tue Oct 05 13:54:54 +0000 2010	4b44ce69f964a520c1fc25e3	{Starbucks}	{38.591262638137074,-121.55462533378483,West Sacramento,CA,United States}	{Food,}
+26	Sat Oct 02 22:58:48 +0000 2010	4b3d7107f964a520429425e3	{Costco}	{38.58833800844349,-121.2636137008667,Rancho Cordova,CA,United States}	{Shop & Service,Food & Drink Shop,}
+26	Sat Oct 02 15:19:08 +0000 2010	4b60ab30f964a52027f329e3	{Folsom Lake Honda}	{38.631723307270164,-121.20694398880005,Folsom,CA,United States}	{Shop & Service,}
+26	Fri Oct 01 02:29:18 +0000 2010	4b2d9b31f964a52077d924e3	{El Pollo Loco}	{38.619297253259234,-121.26727759838104,Rancho Cordova,CA,United States}	{Food,}
+26	Sun Sep 26 01:58:58 +0000 2010	4b01ed2cf964a5209a4622e3	{Todai Restaurant}	{37.968987157797265,-122.06063732478829,Concord,CA,United States}	{Food,}
+26	Wed Sep 22 13:57:00 +0000 2010	4b44ce69f964a520c1fc25e3	{Starbucks}	{38.591262638137074,-121.55462533378483,West Sacramento,CA,United States}	{Food,}
+26	Tue Sep 21 18:23:59 +0000 2010	4c6d72e9ba2b199c754ffab8	{Wingstop}	{38.589536,-121.551014,WEST SACRAMENTO,CA,United States}	{Food,}
+26	Sun Sep 19 04:39:28 +0000 2010	4b0586b9f964a520766b22e3	{Mikuni}	{38.577813,-121.48555,Sacramento,CA,United States}	{Food,}
+26	Thu Sep 16 23:37:41 +0000 2010	4b3e7625f964a520849d25e3	{Starbucks}	{38.58422028226205,-121.2845778465271,Rancho Cordova,CA,United States}	{Food,}
+26	Sun Sep 12 06:04:32 +0000 2010	4bcb2745cc8cd13a38bebecf	{Sacramento, CA}	{38.58111715540504,-121.49424076080324,Sacramento,CA,United States}	{Outdoors & Recreation,}
+26	Sun Sep 12 01:45:59 +0000 2010	4b941ceff964a520fb6834e3	{The Grapevine}	{34.77886140193761,-118.81443500518799,Lebec,CA,United States}	{Travel & Transport,}
+26	Fri Sep 10 05:33:04 +0000 2010	4b4e7970f964a5200fef26e3	{Homewood Suites Hilton - Anaheim}	{33.78832996517479,-117.91797475422122,Garden Grove,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+26	Fri Sep 10 03:40:49 +0000 2010	3fd66200f964a520d1f01ee3	{BCD Tofu House}	{34.06192134759331,-118.30262124538422,Los Angeles,CA,United States}	{Food,}
+26	Thu Sep 09 23:18:30 +0000 2010	4afee5f7f964a5205a3122e3	{Hollywood Sign}	{34.13402,-118.321755,Los Angeles,CA,United States}	{Outdoors & Recreation,Government Building,Arts & Entertainment,Professional & Other Places,}
+26	Thu Sep 09 18:16:31 +0000 2010	4a5a7be9f964a52069ba1fe3	{Carlsbad State Beach}	{33.146283113450345,-117.34509944915771,Carlsbad,CA,United States}	{Outdoors & Recreation,Beach,}
+26	Thu Sep 09 00:54:39 +0000 2010	4b134677f964a520179623e3	{Neiman Marcus}	{32.76882058888004,-117.16748645027387,San Diego,CA,United States}	{Shop & Service,}
+26	Wed Sep 08 18:29:23 +0000 2010	49dbc68bf964a520005f1fe3	{SeaWorld San Diego}	{32.761843,-117.226838,San Diego,CA,United States}	{Arts & Entertainment,}
+26	Wed Sep 08 03:35:49 +0000 2010	4b4bdceff964a520e8a926e3	{Atita Thai Kitchen}	{33.192116,-117.23076916,Vista,CA,United States}	{Food,}
+26	Wed Sep 08 00:11:34 +0000 2010	4bf17ed2684ca593fed4e0b3	{Coronado Beach}	{32.683091449943134,-117.18442440032959,Coronado,CA,United States}	{Outdoors & Recreation,Beach,}
+26	Tue Sep 07 23:29:56 +0000 2010	4c37587f93db0f479a971f92	{The Gaslamp Quarter}	{32.71041000915724,-117.15997199751332,San Diego,CA,United States}	{Nightlife Spot,Outdoors & Recreation,}
+26	Tue Sep 07 21:38:26 +0000 2010	4b3acc69f964a520946e25e3	{Anthony's Fish Grotto}	{32.7193799,-117.173702,San Diego,CA,United States}	{Food,}
+26	Tue Sep 07 20:49:28 +0000 2010	4a9043d5f964a520e61620e3	{Old Town San Diego State Historic Park}	{32.75439045540361,-117.19707578708606,San Diego,CA,United States}	{Outdoors & Recreation,Museum,Arts & Entertainment,}
+26	Tue Sep 07 00:54:38 +0000 2010	4b5ff371f964a5207fd129e3	{King's Fish House}	{33.124587,-117.322326,Carlsbad,CA,United States}	{Food,}
+26	Tue Sep 07 00:26:28 +0000 2010	4bacfbdff964a5203f213be3	{Carlsbad Premium Outlets}	{33.126266682499754,-117.32128143310547,Carlsbad,CA,United States}	{Shop & Service,}
+26	Sat Sep 04 17:56:49 +0000 2010	4ab66dcaf964a5200f7720e3	{Pan Pacific Park}	{34.07356955256767,-118.35434736081477,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+26	Sat Sep 04 15:30:12 +0000 2010	4b941ceff964a520fb6834e3	{The Grapevine}	{34.77886140193761,-118.81443500518799,Lebec,CA,United States}	{Travel & Transport,}
+26	Fri Sep 03 13:51:55 +0000 2010	4b44ce69f964a520c1fc25e3	{Starbucks}	{38.591262638137074,-121.55462533378483,West Sacramento,CA,United States}	{Food,}
+26	Tue Aug 31 18:24:29 +0000 2010	4b575cf2f964a520ac3328e3	{Chipotle Mexican Grill}	{38.58995743333333,-121.54968738555908,West Sacramento,CA,United States}	{Food,}
+26	Mon Aug 30 02:06:58 +0000 2010	4b917828f964a520ebbe33e3	{Ciro's Pizza Cafe}	{38.6561263,-121.169627,Folsom,CA,United States}	{Food,}
+26	Sat Aug 28 16:00:53 +0000 2010	4bdb3b3ec712b713fd9e63b4	{Donut King}	{38.59534430931472,-121.28881573677063,Rancho Cordova,CA,United States}	{Food,}
+26	Sat Aug 28 02:40:20 +0000 2010	4b9c626ef964a5209a6436e3	{Superb Burger}	{38.598432,-121.28072653333334,Rancho Cordova,CA,United States}	{Food,}
+26	Fri Aug 27 18:27:23 +0000 2010	4b3cf604f964a520a18a25e3	{Manaao Thai Cuisine}	{38.590845428668466,-121.55445098876953,West Sacramento,CA,United States}	{Food,}
+26	Wed Aug 25 19:36:38 +0000 2010	4b2a8fd3f964a52067ab24e3	{Fat's Asia Bistro}	{38.647452901635184,-121.11577570438385,Folsom,CA,United States}	{Food,}
+26	Tue Aug 24 18:04:09 +0000 2010	4b0586b4f964a520876a22e3	{Rio City Caf?}	{38.58164134165047,-121.50683104991913,Sacramento,CA,United States}	{Nightlife Spot,Food,}
+26	Tue Aug 24 17:48:11 +0000 2010	4b7c20a6f964a5209d7e2fe3	{Tower Bridge}	{38.58054683642442,-121.5082311630249,Sacramento,CA,United States}	{Outdoors & Recreation,}
+26	Tue Aug 24 13:53:31 +0000 2010	4b44ce69f964a520c1fc25e3	{Starbucks}	{38.591262638137074,-121.55462533378483,West Sacramento,CA,United States}	{Food,}
+26	Sun Aug 22 17:07:25 +0000 2010	4a2f650bf964a520c5981fe3	{Long Beach Airport (LGB)}	{33.81851869758065,-118.1443977355957,Long Beach,CA,United States}	{Travel & Transport,}
+26	Sun Aug 22 16:15:09 +0000 2010	4a6b9a88f964a52052cf1fe3	{Millennium Biltmore Hotel}	{34.04931521684163,-118.25345889171192,Los Angeles,CA,United States}	{Nightlife Spot,Travel & Transport,Hotel,}
+26	Sun Aug 22 15:32:10 +0000 2010	4b292dfdf964a520699a24e3	{Robeks - 6th St}	{34.048669,-118.2552,Los Angeles,CA,United States}	{Food,}
+26	Sun Aug 22 07:08:46 +0000 2010	4a6b9a88f964a52052cf1fe3	{Millennium Biltmore Hotel}	{34.04931521684163,-118.25345889171192,Los Angeles,CA,United States}	{Nightlife Spot,Travel & Transport,Hotel,}
+26	Sun Aug 22 05:51:29 +0000 2010	49e7c236f964a52019651fe3	{Millennium Biltmore Club Lounge}	{34.04901751003671,-118.25342462983208,Los Angeles,CA,United States}	{Nightlife Spot,}
+26	Sun Aug 22 04:18:49 +0000 2010	4b6900daf964a52092962be3	{JW Marriott LA Live}	{34.04530782486832,-118.26658844947815,Los Angeles,CA,United States}	{Nightlife Spot,Travel & Transport,Food,}
+26	Sun Aug 22 02:12:59 +0000 2010	4b098edff964a520651923e3	{LA Live}	{34.044232144840485,-118.26591789722443,Los Angeles,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+26	Sun Aug 22 01:41:26 +0000 2010	4a595c3ff964a5204cb91fe3	{Rock'n Fish}	{34.044321044533575,-118.26523661613464,Los Angeles,CA,United States}	{Food,}
+26	Sun Aug 22 01:16:51 +0000 2010	49f8d75cf964a5202b6d1fe3	{ESPN Zone}	{34.04408101514834,-118.26549410820007,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+26	Sun Aug 22 00:00:59 +0000 2010	49e7c236f964a52019651fe3	{Millennium Biltmore Club Lounge}	{34.04901751003671,-118.25342462983208,Los Angeles,CA,United States}	{Nightlife Spot,}
+26	Sat Aug 21 22:19:06 +0000 2010	4c3c7eac7d00d13a84f23850	{Mocha Java Bakery}	{34.049361504681215,-118.25462579727171,Los Angeles,CA,United States}	{Food,}
+26	Sat Aug 21 21:07:18 +0000 2010	4a6b9a88f964a52052cf1fe3	{Millennium Biltmore Hotel}	{34.04931521684163,-118.25345889171192,Los Angeles,CA,United States}	{Nightlife Spot,Travel & Transport,Hotel,}
+26	Sat Aug 21 18:59:18 +0000 2010	4b118778f964a5209a7e23e3	{Barrio Fiesta}	{34.124832,-118.219835,Eagle Rock,CA,United States}	{Food,}
+26	Sat Aug 21 17:40:52 +0000 2010	4b1409c4f964a5203a9c23e3	{Starbucks}	{34.04903259490317,-118.25546264648438,Los Angeles,CA,United States}	{Food,}
+26	Sat Aug 21 16:44:49 +0000 2010	4a6b9a88f964a52052cf1fe3	{Millennium Biltmore Hotel}	{34.04931521684163,-118.25345889171192,Los Angeles,CA,United States}	{Nightlife Spot,Travel & Transport,Hotel,}
+26	Sat Aug 21 09:40:52 +0000 2010	4a6b9a88f964a52052cf1fe3	{Millennium Biltmore Hotel}	{34.04931521684163,-118.25345889171192,Los Angeles,CA,United States}	{Nightlife Spot,Travel & Transport,Hotel,}
+26	Sat Aug 21 08:23:06 +0000 2010	3fd66200f964a520d1f01ee3	{BCD Tofu House}	{34.06192134759331,-118.30262124538422,Los Angeles,CA,United States}	{Food,}
+26	Sat Aug 21 04:09:04 +0000 2010	4a6b9a88f964a52052cf1fe3	{Millennium Biltmore Hotel}	{34.04931521684163,-118.25345889171192,Los Angeles,CA,United States}	{Nightlife Spot,Travel & Transport,Hotel,}
+26	Sat Aug 21 02:56:13 +0000 2010	4a2f650bf964a520c5981fe3	{Long Beach Airport (LGB)}	{33.81851869758065,-118.1443977355957,Long Beach,CA,United States}	{Travel & Transport,}
+26	Thu Aug 19 23:44:49 +0000 2010	4b60ab30f964a52027f329e3	{Folsom Lake Honda}	{38.631723307270164,-121.20694398880005,Folsom,CA,United States}	{Shop & Service,}
+26	Thu Aug 19 18:35:20 +0000 2010	4c6d72e9ba2b199c754ffab8	{Wingstop}	{38.589536,-121.551014,WEST SACRAMENTO,CA,United States}	{Food,}
+26	Wed Aug 18 00:43:27 +0000 2010	4b5f867ef964a52083bf29e3	{Mather Golf Course}	{38.554110099546236,-121.25969767570496,Mather,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+26	Tue Aug 17 18:28:25 +0000 2010	4b64bb4cf964a520c9cb2ae3	{I ?Teriyaki}	{38.578627233333336,-121.54909358333333,West Sacramento,CA,United States}	{Food,}
+26	Sat Aug 14 22:21:40 +0000 2010	4b738868f964a520eab22de3	{Lollicup Coffee & Tea}	{38.59541977741509,-121.28704011440277,Rancho Cordova,CA,United States}	{Food,}
+26	Sat Aug 14 02:18:27 +0000 2010	4b22ca48f964a5209d4d24e3	{The Old Spaghetti Factory}	{38.62992553927167,-121.21532320976257,Rancho Cordova,CA,United States}	{Food,}
+26	Fri Aug 13 21:27:58 +0000 2010	4b8b360bf964a520b99732e3	{HomeTown Buffet}	{38.60811825157076,-121.38214588165283,Sacramento,CA,United States}	{Food,}
+26	Fri Aug 13 13:46:53 +0000 2010	4b44ce69f964a520c1fc25e3	{Starbucks}	{38.591262638137074,-121.55462533378483,West Sacramento,CA,United States}	{Food,}
+26	Fri Aug 13 03:47:41 +0000 2010	4b18a379f964a520dad423e3	{Chick-fil-A}	{38.598758,-121.417439,Sacramento,CA,United States}	{Food,}
+26	Fri Aug 13 02:03:39 +0000 2010	4afb2864f964a5209a1b22e3	{Nordstrom}	{38.60221577381755,-121.42746448516846,Sacramento,CA,United States}	{Shop & Service,}
+26	Thu Aug 12 23:27:33 +0000 2010	4b3e7625f964a520849d25e3	{Starbucks}	{38.58422028226205,-121.2845778465271,Rancho Cordova,CA,United States}	{Food,}
+26	Thu Aug 12 23:12:44 +0000 2010	4bb6881e1344b71320ae9d04	{Top Cuts}	{38.58405191666667,-121.28402211666666,Rancho Cordova,CA,United States}	{Shop & Service,}
+26	Thu Aug 12 23:12:44 +0000 2010	4bb6881e1344b71320ae9d04	{Top Cuts}	{38.58405191666667,-121.28402211666666,Rancho Cordova,CA,United States}	{Shop & Service,}
+26	Thu Aug 12 13:52:53 +0000 2010	4b44ce69f964a520c1fc25e3	{Starbucks}	{38.591262638137074,-121.55462533378483,West Sacramento,CA,United States}	{Food,}
+26	Thu Aug 12 03:47:27 +0000 2010	4b2d9b31f964a52077d924e3	{El Pollo Loco}	{38.619297253259234,-121.26727759838104,Rancho Cordova,CA,United States}	{Food,}
+26	Wed Aug 11 23:37:00 +0000 2010	4b60ab30f964a52027f329e3	{Folsom Lake Honda}	{38.631723307270164,-121.20694398880005,Folsom,CA,United States}	{Shop & Service,}
+26	Wed Aug 11 22:23:46 +0000 2010	4b4e35f4f964a5206ce526e3	{DMV}	{38.673591418499306,-121.16847038269043,Folsom,CA,United States}	{Professional & Other Places,}
+26	Wed Aug 11 18:33:47 +0000 2010	4bccac898920b7136f899edc	{Stella's Delicatessen and Catering}	{38.57732612659773,-121.54975175857544,West Sacramento,CA,United States}	{Food,}
+26	Wed Aug 11 03:10:07 +0000 2010	4b65f595f964a5201c0b2be3	{Fresh Choice}	{38.665306876491485,-121.27417087554932,Citrus Heights,CA,United States}	{Food,}

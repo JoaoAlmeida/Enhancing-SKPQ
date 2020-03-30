@@ -1,0 +1,319 @@
+451	Fri Aug 12 02:09:08 +0000 2011	3fd66200f964a52000ee1ee3	{Pat's King of Steaks}	{39.933178407993445,-75.15926241874695,Philadelphia,PA,United States}	{Food,}
+451	Thu Aug 11 18:34:18 +0000 2011	4c7ec19101df37047e3ce4ac	{Paris Baguette Cafe}	{40.76349172611007,-73.80915242109434,Flushing,NY,United States}	{Food,}
+451	Wed Aug 10 19:19:05 +0000 2011	43f0adf5f964a5207b2f1fe3	{Piola}	{40.733457347660384,-73.99153972432849,New York,NY,United States}	{Food,}
+451	Tue Aug 09 19:14:22 +0000 2011	3fd66200f964a52061e61ee3	{Snack}	{40.725729,-74.00192702,New York,NY,United States}	{Food,}
+451	Tue Aug 09 01:42:33 +0000 2011	43f5e5b9f964a520a52f1fe3	{Dizzy's Club Coca-Cola, Frederick P. Rose Hall, Home of Jazz at Lincoln Center}	{40.76832372665645,-73.98188092817718,New York,NY,United States}	{Music Venue,Food,Arts & Entertainment,}
+451	Tue Aug 09 00:53:19 +0000 2011	4a19d1edf964a5205a7a1fe3	{The Halal Guys}	{40.761869727120846,-73.97948741912842,New York,NY,United States}	{Food,}
+451	Mon Aug 08 18:10:14 +0000 2011	3fd66200f964a520f7e91ee3	{Sobaya}	{40.72957315753142,-73.98802749104361,New York,NY,United States}	{Food,}
+451	Mon Aug 08 18:04:03 +0000 2011	3fd66200f964a520f7e91ee3	{Sobaya}	{40.72957315753142,-73.98802749104361,New York,NY,United States}	{Food,}
+451	Sun Aug 07 16:50:00 +0000 2011	4a19e840f964a5206f7a1fe3	{Red Bowl}	{40.71698829064826,-73.95860714820746,Brooklyn,NY,United States}	{Food,}
+451	Sat Aug 06 15:43:54 +0000 2011	4b6efbeff964a520c0d42ce3	{Hell's Kitchen Flea Market}	{40.75689742618175,-73.99493137877062,New York,NY,United States}	{Shop & Service,}
+451	Fri Aug 05 17:19:44 +0000 2011	3fd66200f964a520bce51ee3	{Basta Pasta}	{40.73880227626432,-73.99418533471673,New York,NY,United States}	{Food,}
+451	Fri Aug 05 13:44:37 +0000 2011	4aede9f5f964a5202dd021e3	{Manhattan School of Music}	{40.812226790441166,-73.9613048696933,New York,NY,United States}	{College Academic Building,College & University,}
+451	Thu Aug 04 16:33:32 +0000 2011	4ac7ccedf964a520d7b920e3	{Woodbury Common Premium Outlets}	{41.31707725003706,-74.12557125091553,Central Valley,NY,United States}	{Shop & Service,}
+451	Thu Aug 04 01:53:04 +0000 2011	41f19780f964a520101f1fe3	{Per Se}	{40.767971179283705,-73.98171449190069,New York,NY,United States}	{Food,}
+451	Thu Aug 04 00:14:32 +0000 2011	45040d24f964a520de381fe3	{Bouchon Bakery}	{40.76809058933207,-73.98184649309732,New York,NY,United States}	{Food,}
+451	Tue Aug 02 23:54:12 +0000 2011	454f7cc4f964a520dc3c1fe3	{Morimoto}	{40.742992727102255,-74.00722347094514,New York,NY,United States}	{Food,}
+451	Mon Aug 01 19:56:09 +0000 2011	44c91345f964a520f3351fe3	{Max Brenner}	{40.734352827370344,-73.99085679511376,New York,NY,United States}	{Food,}
+451	Mon Aug 01 19:10:42 +0000 2011	49c27575f964a520f1551fe3	{Union Square Greenmarket}	{40.73652697126574,-73.9905595779419,New York,NY,United States}	{Outdoors & Recreation,Shop & Service,Food & Drink Shop,}
+451	Mon Aug 01 18:21:06 +0000 2011	4a42614df964a520cfa51fe3	{Katsu-Hama}	{40.756480966441394,-73.97762814915096,New York,NY,United States}	{Food,}
+451	Fri Jul 29 23:49:54 +0000 2011	4b64e355f964a5209cd72ae3	{Chinese House ???}	{40.76216555214708,-73.81543079498282,Flushing,NY,United States}	{Food,}
+451	Fri Jul 29 23:49:44 +0000 2011	4b64e355f964a5209cd72ae3	{Chinese House ???}	{40.76216555214708,-73.81543079498282,Flushing,NY,United States}	{Food,}
+451	Fri Jul 29 17:24:00 +0000 2011	4a765117f964a520d4e21fe3	{Eleni's New York}	{40.74196941412302,-74.00494530429557,New York,NY,United States}	{Food,}
+451	Thu Jul 28 23:57:21 +0000 2011	43a52546f964a520532c1fe3	{John F. Kennedy International Airport (JFK)}	{40.645089355976346,-73.7845230102539,Jamaica,NY,United States}	{Travel & Transport,}
+451	Thu Jul 28 17:18:18 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+451	Thu Jul 28 05:30:27 +0000 2011	4e2ca89e18a80bb0586727ee	{Mr. Yang's Open Door}	{37.527526789910205,-121.9188659881263,Fremont,CA,United States}	{Residence,}
+451	Thu Jul 28 02:33:15 +0000 2011	4b3ce93ff964a5206b8925e3	{Chuck E. Cheese's}	{37.52369831339516,-121.99208872532107,Newark,CA,United States}	{Food,Arts & Entertainment,}
+451	Wed Jul 27 19:49:10 +0000 2011	4b32cc85f964a520241425e3	{Tanto}	{37.3525,-122.003945,Sunnyvale,CA,United States}	{Food,}
+451	Wed Jul 27 04:07:24 +0000 2011	4a399e48f964a5209d9f1fe3	{The Boiling Crab}	{37.30664,-121.812461,San Jose,CA,United States}	{Food,}
+451	Tue Jul 26 19:24:25 +0000 2011	4ab43736f964a5206c7020e3	{In-N-Out Burger}	{37.50415229936137,-121.97401879084485,Fremont,CA,United States}	{Food,}
+451	Tue Jul 26 03:05:02 +0000 2011	4a71f2c0f964a520f2d91fe3	{Madera}	{37.419373323720684,-122.2121739932857,Menlo Park,CA,United States}	{Nightlife Spot,Food,}
+451	Tue Jul 26 03:03:58 +0000 2011	4a791b60f964a520f4e61fe3	{Rosewood Sand Hill}	{37.41946174275932,-122.21224049014509,Menlo Park,CA,United States}	{Nightlife Spot,Travel & Transport,Outdoors & Recreation,}
+451	Mon Jul 25 03:23:46 +0000 2011	4c411147d7fad13abf1107da	{Myung Dong Grill}	{37.351277,-121.99992718,Santa Clara,CA,United States}	{Food,}
+451	Sun Jul 24 16:27:12 +0000 2011	4b1fe9f9f964a520b82a24e3	{Sideboard Coffee}	{37.82136948248709,-121.9996401187016,Danville,CA,United States}	{Travel & Transport,Food,}
+451	Sun Jul 24 03:21:45 +0000 2011	4abd6ea4f964a520448a20e3	{Yuki Japanese Restaurant}	{37.5417585,-121.94648802280426,Fremont,CA,United States}	{Food,}
+451	Sat Jul 23 16:18:37 +0000 2011	4ae34316f964a520859221e3	{The Original Country Way}	{37.53297331476882,-122.0016074180603,Fremont,CA,United States}	{Food,}
+451	Sat Jul 23 13:32:48 +0000 2011	49eb6454f964a520d4661fe3	{Mission Peak Regional Preserve}	{37.504348369564816,-121.90846115366547,Fremont,CA,United States}	{Outdoors & Recreation,}
+451	Sat Jul 23 05:11:29 +0000 2011	4bbc9ae0078095212d78d991	{Chili's Grill & Bar}	{37.54712378102588,-121.98615829506,Fremont,CA,United States}	{Food,}
+451	Thu Jul 21 17:54:04 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+451	Thu Jul 21 05:33:59 +0000 2011	4ca5bb5d965c9c744ca7c7fa	{?????? Incheon International Airport (ICN)}	{37.44924171049878,126.45109176635741,?????,,South Korea}	{Travel & Transport,Airport,}
+451	Wed Jul 20 09:42:23 +0000 2011	4bb9c3da3db7b713747d229a	{????}	{37.57156558298604,126.97956156561942,?????,,South Korea}	{Food,}
+451	Wed Jul 20 05:36:36 +0000 2011	4b7b7cedf964a52044652fe3	{????? (Hyundai Department Store)}	{37.60833080455028,127.02881365894268,?????,,South Korea}	{Shop & Service,}
+451	Tue Jul 19 13:01:45 +0000 2011	4c4fdb788edf0f47332749ae	{???}	{37.524316986649104,127.04194961411491,?????,,South Korea}	{Food,}
+451	Tue Jul 19 12:02:27 +0000 2011	4b058782f964a5207c9622e3	{JW Marriott Hotel Seoul}	{37.50393837718613,127.00475335121155,?????,,South Korea}	{Travel & Transport,}
+451	Tue Jul 19 06:19:23 +0000 2011	4c4e55d2ea24c9b646c17a15	{4M Story}	{37.361302,127.10594,,,South Korea}	{Food,}
+451	Sun Jul 17 09:11:18 +0000 2011	4db125a20cb6442b2ec3e6b8	{Sheraton Grande Walkerhill}	{37.554738989114995,127.11050001581911,?????,,South Korea}	{Travel & Transport,}
+451	Sat Jul 16 13:08:51 +0000 2011	4ca5bb5d965c9c744ca7c7fa	{?????? Incheon International Airport (ICN)}	{37.44924171049878,126.45109176635741,?????,,South Korea}	{Travel & Transport,Airport,}
+451	Sat Jul 16 02:38:15 +0000 2011	4c23f428f1272d7f425082c5	{Samui International Airport (USM) ???????????????????????}	{9.548403148470824,100.06390571594238,Ko Samui,Surat Thani,Thailand}	{Travel & Transport,}
+451	Thu Jul 14 08:16:53 +0000 2011	4d1f37d4756e8cfaed896154	{Banyan Tree}	{9.472533261098759,100.06970343090973,Koh Samui,Surat Thani,Thailand}	{Travel & Transport,Hotel,}
+451	Thu Jul 14 07:07:00 +0000 2011	4c23f428f1272d7f425082c5	{Samui International Airport (USM) ???????????????????????}	{9.548403148470824,100.06390571594238,Ko Samui,Surat Thani,Thailand}	{Travel & Transport,}
+451	Mon Jul 11 07:10:47 +0000 2011	4b8e687ff964a520422133e3	{Chiang Mai International Airport (CNX) ????????????????????}	{18.76962491266598,98.96835898117426,Mueang Chiang Mai,Chiang Mai,Thailand}	{Travel & Transport,}
+451	Fri Jul 08 07:40:46 +0000 2011	4bd788bd0b779c742a7905a0	{Banyan Tree}	{13.723803914625162,100.53948283195496,Sathon,Bangkok,Thailand}	{Travel & Transport,}
+451	Fri Jul 08 05:56:30 +0000 2011	4af833a6f964a5205a0b22e3	{Suvarnabhumi Airport (BKK) ?????????????????????}	{13.693774672020568,100.75115203857422,Bang Phli,Samut Prakan,Thailand}	{Travel & Transport,}
+451	Thu Jul 07 22:26:14 +0000 2011	4ca5bb5d965c9c744ca7c7fa	{?????? Incheon International Airport (ICN)}	{37.44924171049878,126.45109176635741,?????,,South Korea}	{Travel & Transport,Airport,}
+451	Thu Jul 07 11:00:01 +0000 2011	4c077e750e0a2d7ffe60ed0c	{Aglio}	{37.36053334963074,127.10604895856896,???,???,South Korea}	{Food,}
+451	Wed Jul 06 11:34:31 +0000 2011	4bb71734941ad13aed4720e3	{?? (Meal Top)}	{37.52742998531211,127.02779665047508,?????,,South Korea}	{Food,}
+451	Tue Jul 05 13:03:50 +0000 2011	4bb9e4791261d13a73f2e998	{?? ????? / Hongdae Park}	{37.55233943444242,126.92325750165082,?????,,South Korea}	{Outdoors & Recreation,}
+451	Mon Jul 04 08:16:47 +0000 2011	4ca5bb5d965c9c744ca7c7fa	{?????? Incheon International Airport (ICN)}	{37.44924171049878,126.45109176635741,?????,,South Korea}	{Travel & Transport,Airport,}
+451	Sun Jul 03 19:08:00 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+451	Sat Jul 02 03:40:29 +0000 2011	4bd5f6b65631c9b6380fa530	{Gelato Classico}	{37.530999734016014,-121.99850189058019,Fremont,CA,United States}	{Food,}
+451	Fri Jul 01 18:41:31 +0000 2011	43ba62b4f964a520e72c1fe3	{Norman Y. Mineta San Jos? International Airport (SJC)}	{37.36662498287745,-121.9263043999672,San Jose,CA,United States}	{Travel & Transport,}
+451	Fri Jul 01 09:31:02 +0000 2011	43a52546f964a520532c1fe3	{John F. Kennedy International Airport (JFK)}	{40.645089355976346,-73.7845230102539,Jamaica,NY,United States}	{Travel & Transport,}
+451	Fri Jul 01 00:20:31 +0000 2011	4c71ae51d944224b8ee50a29	{Outback Steakhouse}	{40.735348701303785,-73.87443299871568,Elmhurst,NY,United States}	{Food,}
+451	Wed Jun 29 16:26:34 +0000 2011	4b085df4f964a520300a23e3	{Iris Cafe}	{40.693195,-73.998648,Brooklyn,NY,United States}	{Food,}
+451	Wed Jun 29 00:53:25 +0000 2011	4c95675c533aa0933e05c945	{Anderson Bakery}	{40.762178,-73.81577161666667,Flushing,NY,United States}	{Food,}
+451	Wed Jun 29 00:50:55 +0000 2011	4b64e355f964a5209cd72ae3	{Chinese House ???}	{40.76216555214708,-73.81543079498282,Flushing,NY,United States}	{Food,}
+451	Tue Jun 28 02:08:09 +0000 2011	4d85677302eb5481ee0744f5	{Gugongtan}	{40.76323,-73.815142,New York,NY,United States}	{Food,}
+451	Mon Jun 27 19:06:51 +0000 2011	4a271f0bf964a5205b911fe3	{Magnolia Bakery}	{40.775764315021426,-73.98020625114441,New York,NY,United States}	{Food,}
+451	Sun Jun 26 21:11:41 +0000 2011	49b0c608f964a520cd521fe3	{Shake Shack}	{40.78082577322013,-73.97648334503174,New York,NY,United States}	{Food,}
+451	Sun Jun 26 03:27:50 +0000 2011	4a257482f964a520557e1fe3	{Momofuku Milk Bar}	{40.73179547061488,-73.98567259311676,New York,NY,United States}	{Food,}
+451	Sat Jun 25 17:47:07 +0000 2011	4a89e36df964a520430920e3	{Shabu Zen}	{42.35263114451432,-71.12914758453267,Allston,MA,United States}	{Nightlife Spot,Food,}
+451	Fri Jun 24 01:30:44 +0000 2011	4c809ca1dc018cfabb3abe6c	{Wylie Inn and Conference Center}	{42.55304704389638,-70.84777818016694,Beverly,MA,United States}	{Travel & Transport,Convention Center,Professional & Other Places,}
+451	Thu Jun 23 23:01:45 +0000 2011	4c65b743f7a80f47f2169c7a	{Tupper Manor @ Endicott College}	{42.552751,-70.849122,Beverly,MA,United States}	{Professional & Other Places,}
+451	Thu Jun 23 20:07:08 +0000 2011	4beefc21d5e1c928eaeb0e81	{Beverly City Hall}	{42.5477560233597,-70.87891641920154,Beverly,MA,United States}	{Government Building,Professional & Other Places,}
+451	Thu Jun 23 20:07:08 +0000 2011	4beefc21d5e1c928eaeb0e81	{Beverly City Hall}	{42.5477560233597,-70.87891641920154,Beverly,MA,United States}	{Government Building,Professional & Other Places,}
+451	Wed Jun 22 23:43:20 +0000 2011	4c7ba4e593ef236ae8d3b50f	{Executive Lounge}	{42.367349845042376,-71.0232564389772,Boston,MA,United States}	{Travel & Transport,}
+451	Wed Jun 22 18:23:51 +0000 2011	4b7d6617f964a5204dbc2fe3	{Pricillas of Boston}	{42.349126,-71.081828,Boston,MA,United States}	{Shop & Service,}
+451	Tue Jun 21 01:28:32 +0000 2011	4150c080f964a520091d1fe3	{Trident Booksellers & Cafe}	{42.348496,-71.086753,Boston,MA,United States}	{Shop & Service,Food,}
+451	Mon Jun 20 01:43:10 +0000 2011	4a19d1edf964a5205a7a1fe3	{The Halal Guys}	{40.761869727120846,-73.97948741912842,New York,NY,United States}	{Food,}
+451	Sat Jun 18 20:48:23 +0000 2011	4c1cdbc7624b9c743dd81204	{Raspberry Plain}	{39.152794024044674,-77.55123638694923,Leesburg,VA,United States}	{Professional & Other Places,}
+451	Fri Jun 17 17:35:56 +0000 2011	4afc9f58f964a5207d2422e3	{Tequila Grande Mexican Cafe}	{38.89442391220185,-77.27338876506776,Vienna,VA,United States}	{Food,}
+451	Fri Jun 17 16:33:33 +0000 2011	4d2781d2467d6ea8db78bd95	{Chaan Thai Yoga Massage}	{38.866382418649145,-77.2319523626867,Fairfax,VA,United States}	{Shop & Service,}
+451	Wed Jun 15 17:32:25 +0000 2011	4b548975f964a52001bf27e3	{Pho Sat?}	{38.876254174207304,-77.1917985450942,Falls Church,VA,United States}	{Food,}
+451	Wed Jun 15 06:08:13 +0000 2011	44d17cecf964a5202b361fe3	{Ronald Reagan Washington National Airport (DCA)}	{38.853043701842566,-77.04231262207031,Arlington,VA,United States}	{Travel & Transport,}
+451	Wed Jun 15 01:40:58 +0000 2011	44d9ff60f964a5208b361fe3	{Dallas/Fort Worth International Airport (DFW)}	{32.89803818160521,-97.04086303710938,DFW Airport,TX,United States}	{Travel & Transport,}
+451	Tue Jun 14 21:15:20 +0000 2011	43ba62b4f964a520e72c1fe3	{Norman Y. Mineta San Jos? International Airport (SJC)}	{37.36662498287745,-121.9263043999672,San Jose,CA,United States}	{Travel & Transport,}
+451	Tue Jun 14 01:17:38 +0000 2011	4aeb99dbf964a520adc321e3	{Kunjip Restaurant}	{37.345856,-121.978718,Santa Clara,CA,United States}	{Food,}
+451	Mon Jun 13 20:16:25 +0000 2011	4cc32b7e06c25481b1be8e47	{Dohatsuten}	{37.52631602618727,-121.9182242230234,Fremont,CA,United States}	{Food,}
+451	Mon Jun 13 00:31:09 +0000 2011	4b3c1031f964a5202f8125e3	{COCO chicken}	{37.535353,-121.998214,Fremont,CA,United States}	{Food,}
+451	Sun Jun 12 23:25:05 +0000 2011	4aff948ef964a5209a3922e3	{Tea Station}	{37.523384,-122.006624,Newark,CA,United States}	{Food,}
+451	Sun Jun 12 03:52:53 +0000 2011	4ae3cbc4f964a520fe9821e3	{Honeyberry}	{37.351690017225,-121.99301602009196,Santa Clara,CA,United States}	{Food,}
+451	Sun Jun 12 03:00:11 +0000 2011	4c411147d7fad13abf1107da	{Myung Dong Grill}	{37.351277,-121.99992718,Santa Clara,CA,United States}	{Food,}
+451	Sat Jun 11 18:30:43 +0000 2011	4abecd7ef964a520fa8f20e3	{Earl Anthony's Dublin Bowl}	{37.70100233164725,-121.9335255516755,Dublin,CA,United States}	{Nightlife Spot,Shop & Service,Arts & Entertainment,Food & Drink Shop,}
+451	Fri Jun 10 19:36:44 +0000 2011	4b9ec8d3f964a520a40137e3	{Priscilla of Boston}	{37.321146,-121.947873,San Jose,CA,United States}	{Shop & Service,}
+451	Thu Jun 09 19:55:49 +0000 2011	4aeb99dbf964a520adc321e3	{Kunjip Restaurant}	{37.345856,-121.978718,Santa Clara,CA,United States}	{Food,}
+451	Sun Jun 05 20:25:27 +0000 2011	4bc8f3d2762beee1a6bc3d38	{Fiesta Americana}	{20.64096905777292,-105.23610533586768,Puerto Vallarta,Jalisco,Mexico}	{Travel & Transport,Hotel,}
+451	Sat Jun 04 15:14:14 +0000 2011	4c7326d76b91b713c6fcf820	{Garza Blanca Preserve Resort & Spa}	{20.554544,-105.26383,Puerto Vallarta,JAL,Mexico}	{Travel & Transport,Food,Hotel,}
+451	Sat Jun 04 12:53:50 +0000 2011	4b448be5f964a52067f625e3	{Aeropuerto Internacional de Puerto Vallarta (PVR) Lic Gustavo Diaz Ordaz}	{20.678301823904853,-105.24885177612305,Puerto Vallarta,JAL,Mexico}	{Travel & Transport,Airport,}
+451	Sat Jun 04 05:32:37 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+451	Sat Jun 04 01:35:26 +0000 2011	43ba62b4f964a520e72c1fe3	{Norman Y. Mineta San Jos? International Airport (SJC)}	{37.36662498287745,-121.9263043999672,San Jose,CA,United States}	{Travel & Transport,}
+451	Fri Jun 03 04:04:19 +0000 2011	4a063591f964a520d3721fe3	{Alexander's Steakhouse}	{37.32826314395037,-122.01394557952881,Cupertino,CA,United States}	{Food,}
+451	Wed Jun 01 03:31:37 +0000 2011	4ce1f68d7e2e236a405f931b	{Nijo Castle Sushi & Teppan Yaki Japanese Restaurant}	{37.52223015138704,-121.99238856999918,Newark,CA,United States}	{Food,}
+451	Mon May 30 02:37:45 +0000 2011	49f7e4d7f964a520e96c1fe3	{Burma Superstar}	{37.834606921810625,-122.2631710767746,Oakland,CA,United States}	{Food,}
+451	Thu May 26 02:23:18 +0000 2011	4acf8decf964a5207fd420e3	{ClubSport}	{37.483503824599225,-121.94068655378852,Fremont,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+451	Sun May 22 03:03:04 +0000 2011	459e2e1df964a520b2401fe3	{Yoshi's Jazz Club & Japanese Restaurant}	{37.796029530294945,-122.278611426864,Oakland,CA,United States}	{Music Venue,Food,Arts & Entertainment,}
+451	Sat May 21 22:31:29 +0000 2011	4b9ec8d3f964a520a40137e3	{Priscilla of Boston}	{37.321146,-121.947873,San Jose,CA,United States}	{Shop & Service,}
+451	Fri May 20 19:54:20 +0000 2011	4b381724f964a5207a4b25e3	{Tofu House}	{37.42815763134732,-121.9114396204871,Milpitas,CA,United States}	{Food,}
+451	Fri May 20 02:10:40 +0000 2011	4ace965df964a52053d120e3	{Oyaji Restaurant}	{37.78153692273503,-122.49287924518924,San Francisco,CA,United States}	{Food,}
+451	Fri May 20 01:07:40 +0000 2011	4b819f25f964a5204ab330e3	{Ghirardelli Square}	{37.805935603193895,-122.42253720760345,San Francisco,CA,United States}	{Outdoors & Recreation,}
+451	Fri May 20 00:33:05 +0000 2011	45eaff58f964a5208e431fe3	{Bi-Rite Creamery}	{37.76145030454691,-122.42584644345114,San Francisco,CA,United States}	{Food,}
+451	Thu May 19 23:42:03 +0000 2011	49d01698f964a520fd5a1fe3	{Golden Gate Bridge}	{37.81700118722001,-122.47821718454361,San Francisco,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+451	Thu May 19 21:15:46 +0000 2011	4a2d8912f964a520ca971fe3	{Cowgirl Creamery's Artisan Cheese Shop}	{37.795714,-122.393626,San Francisco,CA,United States}	{Shop & Service,Food & Drink Shop,}
+451	Thu May 19 19:56:25 +0000 2011	49cd87e8f964a520fb591fe3	{In-N-Out Burger}	{37.600721473871886,-122.38244354724884,Millbrae,CA,United States}	{Food,}
+451	Wed May 18 23:04:21 +0000 2011	49d034bff964a520105b1fe3	{The Ritz-Carlton, Half Moon Bay}	{37.43373818036657,-122.44148433208466,Half Moon Bay,CA,United States}	{Travel & Transport,Shop & Service,Food,}
+451	Wed May 18 21:33:04 +0000 2011	49f7a66df964a520cc6c1fe3	{Sprinkles Cupcakes}	{37.442309,-122.17308059,Palo Alto,CA,United States}	{Food,}
+451	Wed May 18 20:30:13 +0000 2011	4ab5a6fcf964a520c57520e3	{Buca di Beppo}	{37.44336,-122.16067,Palo Alto,CA,United States}	{Food,}
+451	Wed May 18 06:27:51 +0000 2011	4a20d67af964a520c57c1fe3	{Century 20 Great Mall and XD}	{37.41807805886265,-121.89907193183899,Milpitas,CA,United States}	{Arts & Entertainment,Movie Theater,}
+451	Tue May 17 23:26:49 +0000 2011	4a399e48f964a5209d9f1fe3	{The Boiling Crab}	{37.30664,-121.812461,San Jose,CA,United States}	{Food,}
+451	Sat May 14 20:24:13 +0000 2011	4aeb99dbf964a520adc321e3	{Kunjip Restaurant}	{37.345856,-121.978718,Santa Clara,CA,United States}	{Food,}
+451	Thu May 12 16:04:05 +0000 2011	4c81bff6d4e23704fc5e6188	{Mission Peak (top)}	{37.51276828213938,-121.88144567881997,Fremont,CA,United States}	{Outdoors & Recreation,}
+451	Tue May 10 04:18:19 +0000 2011	4bbc9ae0078095212d78d991	{Chili's Grill & Bar}	{37.54712378102588,-121.98615829506,Fremont,CA,United States}	{Food,}
+451	Sun May 08 04:00:42 +0000 2011	476c1aa6f964a520fd4c1fe3	{Yoshi's San Francisco}	{37.78172200204317,-122.4323245882988,San Francisco,CA,United States}	{Nightlife Spot,Music Venue,Food,Arts & Entertainment,}
+451	Sat May 07 21:34:35 +0000 2011	4aec68d0f964a520c5c621e3	{Camden Community Center}	{37.26395951635585,-121.93324776873267,San Jose,CA,United States}	{Government Building,Professional & Other Places,}
+451	Fri May 06 04:18:22 +0000 2011	4a8a1cdff964a520e50920e3	{Korean Spring BBQ}	{37.34581904534545,-121.97855043745808,Santa Clara,CA,United States}	{Food,}
+451	Fri May 06 02:50:51 +0000 2011	44f414d2f964a5201f381fe3	{Guitar Center}	{37.32379796257098,-121.96532705701888,Santa Clara,CA,United States}	{Shop & Service,}
+451	Thu May 05 05:53:26 +0000 2011	43598100f964a520ea281fe3	{Blowfish Sushi to Die For}	{37.321083715048566,-121.94807052612305,San Jose,CA,United States}	{Nightlife Spot,Food,}
+451	Thu May 05 04:59:28 +0000 2011	40b92400f964a5209a001fe3	{V Bar}	{37.32041394130773,-121.94832801818848,San Jose,CA,United States}	{Nightlife Spot,}
+451	Thu May 05 04:33:43 +0000 2011	43598100f964a520e7281fe3	{Straits}	{37.32180605556545,-121.94794707816047,San Jose,CA,United States}	{Nightlife Spot,Food,}
+451	Thu May 05 03:08:09 +0000 2011	4b32cc85f964a520241425e3	{Tanto}	{37.3525,-122.003945,Sunnyvale,CA,United States}	{Food,}
+451	Wed May 04 20:52:09 +0000 2011	42853f80f964a5200c231fe3	{Ritual Coffee Roasters}	{37.756501,-122.421146,San Francisco,CA,United States}	{Food,}
+451	Wed May 04 19:53:32 +0000 2011	49dcd103f964a520a55f1fe3	{Bette's Oceanview Diner}	{37.86984563838483,-122.30051179923943,Berkeley,CA,United States}	{Food,}
+451	Tue May 03 21:26:46 +0000 2011	4a1702d0f964a5202d791fe3	{Robert Mondavi Winery}	{38.44111923885385,-122.40941047668457,Oakville,CA,United States}	{Food,}
+451	Tue May 03 20:39:26 +0000 2011	49fde735f964a520416f1fe3	{Bouchon}	{38.40254604023941,-122.36198633909225,Yountville,CA,United States}	{Food,}
+451	Tue May 03 20:15:45 +0000 2011	453f5b78f964a520333c1fe3	{Bouchon Bakery}	{38.40248718545806,-122.36198902130127,Yountville,CA,United States}	{Food,}
+451	Tue May 03 18:58:19 +0000 2011	4b1fe9f9f964a520b82a24e3	{Sideboard Coffee}	{37.82136948248709,-121.9996401187016,Danville,CA,United States}	{Travel & Transport,Food,}
+451	Tue May 03 02:36:40 +0000 2011	4ca6ae4ba6e08cfad77f7d94	{Shanghai Noodle House}	{37.535962,-121.965355,Fremont,CA,United States}	{Food,}
+451	Mon May 02 19:41:58 +0000 2011	4a62a855f964a5206dc41fe3	{En Japanese Tapas Restaurant}	{37.351961306788795,-121.99097262957382,Santa Clara,CA,United States}	{Food,}
+451	Sat Apr 30 22:10:05 +0000 2011	4cedaf7d4cd4236a9c9ea963	{Needle to the Groove}	{37.576537504153606,-121.97841715640972,Fremont,CA,United States}	{Shop & Service,}
+451	Sat Apr 30 20:05:32 +0000 2011	49fc8951f964a520b26e1fe3	{Rasputin Music & Books}	{37.290272213506086,-121.93103313446045,Campbell,CA,United States}	{Shop & Service,}
+451	Sat Apr 30 18:49:31 +0000 2011	4c9f94f5d3c2b60c18ddd5bc	{Frank}	{37.227757,-121.981752,Los Gatos,CA,United States}	{Shop & Service,}
+451	Sat Apr 30 18:39:43 +0000 2011	4cfaf139084f54810c5f7e09	{Vintages}	{37.225375,-121.982293,Los Gatos,CA,United States}	{Shop & Service,}
+451	Sat Apr 30 18:13:16 +0000 2011	4ac90eadf964a5205abe20e3	{Gilley's Coffee Shoppe}	{37.22393630008194,-121.98339287220954,Los Gatos,CA,United States}	{Food,}
+451	Wed Apr 27 20:46:24 +0000 2011	4b1e13f3f964a520441724e3	{Hot Pot City}	{37.4210100568793,-121.91597940486191,Milpitas,CA,United States}	{Food,}
+451	Wed Apr 27 02:14:55 +0000 2011	4b0881bcf964a520520d23e3	{Zorba's Deli Cafe}	{37.492825,-121.928116,Fremont,CA,United States}	{Food,}
+451	Tue Apr 26 20:14:10 +0000 2011	4a2d8912f964a520ca971fe3	{Cowgirl Creamery's Artisan Cheese Shop}	{37.795714,-122.393626,San Francisco,CA,United States}	{Shop & Service,Food & Drink Shop,}
+451	Tue Apr 26 20:12:23 +0000 2011	4a49961cf964a52076ab1fe3	{Ferry Plaza Farmers Market}	{37.794940424096616,-122.39297389984131,San Francisco,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+451	Tue Apr 26 20:10:03 +0000 2011	49d68c61f964a520e65c1fe3	{Blue Bottle Coffee}	{37.79590475625579,-122.39393759555746,San Francisco,CA,United States}	{Food,}
+451	Tue Apr 26 20:06:07 +0000 2011	44d3ade1f964a5204b361fe3	{Gott??s Roadside}	{37.79602560322911,-122.39416480064392,San Francisco,CA,United States}	{Food,}
+451	Tue Apr 26 02:49:23 +0000 2011	4ce1f68d7e2e236a405f931b	{Nijo Castle Sushi & Teppan Yaki Japanese Restaurant}	{37.52223015138704,-121.99238856999918,Newark,CA,United States}	{Food,}
+451	Sat Apr 23 20:47:53 +0000 2011	4a2dcb31f964a520f3971fe3	{Pluto's}	{37.320919471721844,-121.949143409729,San Jose,CA,United States}	{Food,}
+451	Wed Apr 20 21:38:22 +0000 2011	4bc76c57af07a5933a287f2d	{Ohana Hawaiian BBQ}	{37.50509441574441,-121.96833175348,Fremont,CA,United States}	{Food,}
+451	Tue Apr 19 05:24:02 +0000 2011	43a2aff5f964a520382c1fe3	{Homestead Lanes}	{37.33634682831812,-122.0402698653695,Cupertino,CA,United States}	{Arts & Entertainment,}
+451	Mon Apr 18 00:14:46 +0000 2011	4a7f4769f964a52089f31fe3	{BJ's Restaurant & Brewhouse}	{37.52814061545604,-122.005695104599,Newark,CA,United States}	{Nightlife Spot,Food,}
+451	Sun Apr 17 23:03:12 +0000 2011	4b723a0ff964a520b6742de3	{National Hispanic University}	{37.359174563696484,-121.8166784027628,San Jose,CA,United States}	{College & University,}
+451	Sun Apr 17 04:04:53 +0000 2011	4adfc586f964a520577d21e3	{Buca di Beppo}	{37.25049,-121.86362,San Jose,CA,United States}	{Food,}
+451	Sun Apr 17 02:03:05 +0000 2011	49f7a66df964a520cc6c1fe3	{Sprinkles Cupcakes}	{37.442309,-122.17308059,Palo Alto,CA,United States}	{Food,}
+451	Fri Apr 15 01:57:52 +0000 2011	4a3c3cabf964a5204ca11fe3	{Wahoo's Fish Taco}	{37.32101119206543,-121.94929361343384,San Jose,CA,United States}	{Food,}
+451	Wed Apr 13 03:38:17 +0000 2011	50607e6de889adb45f097cd6	{San Francisco Bulls Pro Hockey}	{37.70662300172055,-122.4187445640564,Daly City,CA,United States}	{Stadium,Arts & Entertainment,Professional & Other Places,}
+451	Wed Apr 06 01:41:16 +0000 2011	4a399e48f964a5209d9f1fe3	{The Boiling Crab}	{37.30664,-121.812461,San Jose,CA,United States}	{Food,}
+451	Tue Apr 05 19:24:16 +0000 2011	4ac2a2c3f964a5201c9a20e3	{Chipotle Mexican Grill}	{37.50439485463629,-121.97564043102176,Fremont,CA,United States}	{Food,}
+451	Mon Apr 04 20:15:18 +0000 2011	43768200f964a5204e2a1fe3	{Sushi O Sushi}	{37.353076466666664,-121.977239,Santa Clara,CA,United States}	{Food,}
+451	Sat Apr 02 22:46:13 +0000 2011	4a3cf87ef964a520b5a11fe3	{Cypress - A Kimpton Hotel}	{37.321913860831614,-122.03168886258898,Cupertino,CA,United States}	{Travel & Transport,}
+451	Fri Apr 01 20:46:01 +0000 2011	4ca6ae4ba6e08cfad77f7d94	{Shanghai Noodle House}	{37.535962,-121.965355,Fremont,CA,United States}	{Food,}
+451	Thu Mar 31 21:22:17 +0000 2011	4a8dd6e8f964a520171120e3	{Cold Stone Creamery}	{37.505102,-121.968354,Fremont,CA,United States}	{Food,}
+451	Thu Mar 31 21:03:29 +0000 2011	4bc76c57af07a5933a287f2d	{Ohana Hawaiian BBQ}	{37.50509441574441,-121.96833175348,Fremont,CA,United States}	{Food,}
+451	Wed Mar 30 03:32:19 +0000 2011	4ae22487f964a520228b21e3	{Chaat Cafe}	{37.54873330355566,-121.98707453420997,Fremont,CA,United States}	{Food,}
+451	Tue Mar 29 21:05:37 +0000 2011	49fe0d87f964a520636f1fe3	{Pizza My Heart}	{37.32195825139366,-122.03298926353455,Cupertino,CA,United States}	{Food,}
+451	Tue Mar 29 20:56:11 +0000 2011	4c1bb2f763750f47074fb567	{FedEx Office Ship Center}	{37.321018,-122.031464,Cupertino,CA,United States}	{Shop & Service,}
+451	Sat Mar 26 01:16:17 +0000 2011	4be704262468c9286df70143	{Korean Emmanuel Presbyterian Church}	{37.42296397299105,-121.95814544348954,San Jose,CA,United States}	{Spiritual Center,Professional & Other Places,}
+451	Fri Mar 25 22:25:07 +0000 2011	45748edaf964a520943e1fe3	{Banana Leaf}	{37.42810435554593,-121.92005782768535,Milpitas,CA,United States}	{Food,}
+451	Fri Mar 25 21:09:10 +0000 2011	4b0896c4f964a520fc0e23e3	{David's Bridal}	{37.42941432533693,-121.92200252655327,Milpitas,CA,United States}	{Shop & Service,Clothing Store,}
+451	Fri Mar 25 20:18:32 +0000 2011	4a280b4ff964a520ec941fe3	{IKEA}	{37.46106312270304,-122.13891506195068,East Palo Alto,CA,United States}	{Shop & Service,}
+451	Tue Mar 22 19:58:19 +0000 2011	4b381724f964a5207a4b25e3	{Tofu House}	{37.42815763134732,-121.9114396204871,Milpitas,CA,United States}	{Food,}
+451	Tue Mar 22 19:58:19 +0000 2011	4b381724f964a5207a4b25e3	{Tofu House}	{37.42815763134732,-121.9114396204871,Milpitas,CA,United States}	{Food,}
+451	Tue Mar 22 05:40:00 +0000 2011	4b5bc7dbf964a520d71529e3	{Kuumbwa Jazz}	{36.969826,-122.026047706604,Santa Cruz,CA,United States}	{Music Venue,Arts & Entertainment,}
+451	Tue Mar 22 02:14:30 +0000 2011	4b5a3d77f964a520c0b628e3	{Hindquarter Bar and Grill}	{36.97428345680237,-122.02122591,Santa Cruz,CA,United States}	{Food,}
+451	Mon Mar 21 22:31:03 +0000 2011	4bab755cf964a520e5aa3ae3	{US Post Office}	{37.53224142696619,-121.96117810793513,Fremont,CA,United States}	{Professional & Other Places,}
+451	Sun Mar 20 18:06:03 +0000 2011	4b9561f8f964a520ac9f34e3	{My Tho Restaurant}	{37.52333137099184,-122.00645258262679,Newark,CA,United States}	{Food,}
+451	Sun Mar 20 03:44:21 +0000 2011	4a625f4ef964a520e2c31fe3	{La Fondue}	{37.25652,-122.03471353333333,Saratoga,CA,United States}	{Food,}
+451	Sat Mar 19 23:58:50 +0000 2011	4b0896c4f964a520fc0e23e3	{David's Bridal}	{37.42941432533693,-121.92200252655327,Milpitas,CA,United States}	{Shop & Service,Clothing Store,}
+451	Sat Mar 19 14:11:50 +0000 2011	4ad62b63f964a520800521e3	{Jamba Juice}	{37.548644623333345,-121.98774088513754,Fremont,CA,United States}	{Food,}
+451	Sat Mar 19 00:36:10 +0000 2011	45eaff58f964a5208e431fe3	{Bi-Rite Creamery}	{37.76145030454691,-122.42584644345114,San Francisco,CA,United States}	{Food,}
+451	Fri Mar 18 21:02:46 +0000 2011	4a736f6ff964a5206edc1fe3	{Boccalone Salumeria}	{37.79543054408178,-122.39350610432753,San Francisco,CA,United States}	{Food,}
+451	Fri Mar 18 20:57:24 +0000 2011	49d68c61f964a520e65c1fe3	{Blue Bottle Coffee}	{37.79590475625579,-122.39393759555746,San Francisco,CA,United States}	{Food,}
+451	Fri Mar 18 20:05:39 +0000 2011	3fd66200f964a52018ed1ee3	{Slanted Door}	{37.79619516102866,-122.3938000202179,San Francisco,CA,United States}	{Food,}
+451	Thu Mar 17 20:20:54 +0000 2011	4b104678f964a520d26c23e3	{Cheese Taster Delicatessen}	{37.532292,-121.920021,Fremont,CA,United States}	{Food,}
+451	Tue Mar 15 21:28:50 +0000 2011	4b0896c4f964a520fc0e23e3	{David's Bridal}	{37.42941432533693,-121.92200252655327,Milpitas,CA,United States}	{Shop & Service,Clothing Store,}
+451	Tue Mar 15 03:28:54 +0000 2011	4b0896c4f964a520fc0e23e3	{David's Bridal}	{37.42941432533693,-121.92200252655327,Milpitas,CA,United States}	{Shop & Service,Clothing Store,}
+451	Tue Mar 15 02:26:43 +0000 2011	4b393adef964a520a65825e3	{Pizza & Curry}	{37.5242939,-121.9571419,Fremont,CA,United States}	{Food,}
+451	Mon Mar 14 01:57:22 +0000 2011	4ac90686f964a5201bbe20e3	{Cheesecake Factory}	{37.69394865162757,-121.92918094616333,Pleasanton,CA,United States}	{Food,}
+451	Sat Mar 12 01:40:53 +0000 2011	4ac26c9af964a520179920e3	{Apple Store}	{37.69472590604739,-121.92861914634705,Pleasanton,CA,United States}	{Shop & Service,}
+451	Fri Mar 11 21:06:38 +0000 2011	455ad751f964a5205a3d1fe3	{Stoneridge Shopping Center}	{37.69506124,-121.9287372,Pleasanton,CA,United States}	{Shop & Service,Food,Professional & Other Places,}
+451	Tue Mar 08 21:06:43 +0000 2011	45eaff58f964a5208e431fe3	{Bi-Rite Creamery}	{37.76145030454691,-122.42584644345114,San Francisco,CA,United States}	{Food,}
+451	Tue Mar 08 20:16:11 +0000 2011	4b244110f964a520c76424e3	{Taqueria Guadalajara}	{37.72109,-122.43757494,San Francisco,CA,United States}	{Food,}
+451	Fri Mar 04 20:34:31 +0000 2011	4b8c2a14f964a5209cc132e3	{Lawrence Plaza - Food Court}	{37.35357976469193,-121.99462294578552,Santa Clara,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+451	Fri Mar 04 19:21:35 +0000 2011	4b9ec8d3f964a520a40137e3	{Priscilla of Boston}	{37.321146,-121.947873,San Jose,CA,United States}	{Shop & Service,}
+451	Fri Mar 04 17:36:08 +0000 2011	4d06f39ca2685481287ac4bd	{Olin Avenue Market}	{37.32061972935993,-121.94841369071176,San Jose,CA,United States}	{Food,}
+451	Thu Mar 03 04:43:09 +0000 2011	4596e223f964a52075401fe3	{SAP Center at San Jose}	{37.332750471852286,-121.90119624137878,San Jose,CA,United States}	{Stadium,Arts & Entertainment,Professional & Other Places,}
+451	Tue Mar 01 07:47:27 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+451	Tue Mar 01 00:00:18 +0000 2011	43a52546f964a520532c1fe3	{John F. Kennedy International Airport (JFK)}	{40.645089355976346,-73.7845230102539,Jamaica,NY,United States}	{Travel & Transport,}
+451	Mon Feb 28 23:59:13 +0000 2011	4b81ddddf964a520dac130e3	{MUJI to Go JFK}	{40.645764,-73.775346,New York,NY,United States}	{Shop & Service,}
+451	Mon Feb 28 23:11:19 +0000 2011	4be1ae703ef676b0e44ec0ca	{JFK AirTrain - Jamaica Station}	{40.69881195801446,-73.8087272644043,Jamaica,NY,United States}	{Travel & Transport,Airport,}
+451	Mon Feb 28 20:25:22 +0000 2011	4adb6119f964a520a72621e3	{B&H Photo Video}	{40.752985317416574,-73.99630294449399,New York,NY,United States}	{Shop & Service,Professional & Other Places,}
+451	Mon Feb 28 19:59:04 +0000 2011	49b0c608f964a520cd521fe3	{Shake Shack}	{40.78082577322013,-73.97648334503174,New York,NY,United States}	{Food,}
+451	Mon Feb 28 00:04:04 +0000 2011	4a19d1edf964a5205a7a1fe3	{The Halal Guys}	{40.761869727120846,-73.97948741912842,New York,NY,United States}	{Food,}
+451	Sun Feb 27 19:52:43 +0000 2011	4a89f867f964a5208e0920e3	{Earwax Records}	{40.7171766982449,-73.95879082405828,Brooklyn,NY,United States}	{Shop & Service,}
+451	Sun Feb 27 18:58:54 +0000 2011	4ac922b0f964a520cabe20e3	{Mast Brothers Chocolate Factory}	{40.716507659000904,-73.96169517521032,Brooklyn,NY,United States}	{Shop & Service,Food,}
+451	Sun Feb 27 02:11:19 +0000 2011	4b22ffedf964a520e55124e3	{Stecchino}	{40.76428841505614,-73.98832017960586,New York,NY,United States}	{Food,}
+451	Sat Feb 26 18:31:56 +0000 2011	474d8bbdf964a520a54c1fe3	{MBTA South Station}	{42.352098124004726,-71.05516076087952,Boston,MA,United States}	{Travel & Transport,}
+451	Fri Feb 25 02:01:29 +0000 2011	4a9d11fff964a520d53720e3	{Eastern Standard}	{42.34873814404016,-71.0961709101328,Boston,MA,United States}	{Nightlife Spot,Food,}
+451	Thu Feb 24 18:25:14 +0000 2011	4c65b743f7a80f47f2169c7a	{Tupper Manor @ Endicott College}	{42.552751,-70.849122,Beverly,MA,United States}	{Professional & Other Places,}
+451	Thu Feb 24 18:25:14 +0000 2011	4c65b743f7a80f47f2169c7a	{Tupper Manor @ Endicott College}	{42.552751,-70.849122,Beverly,MA,United States}	{Professional & Other Places,}
+451	Thu Feb 24 17:03:50 +0000 2011	40b28c80f964a520f5f71ee3	{Pavement Coffeehouse}	{42.341822,-71.086851,Boston,MA,United States}	{Food,}
+451	Wed Feb 23 22:41:15 +0000 2011	4ae1df54f964a520398821e3	{Berklee College of Music}	{42.347030770089766,-71.08760570157364,Boston,MA,United States}	{College Academic Building,College & University,}
+451	Wed Feb 23 12:13:39 +0000 2011	452113b6f964a520bc3a1fe3	{Boston Logan International Airport (BOS)}	{42.36650312404415,-71.01667642593384,Boston,MA,United States}	{Travel & Transport,}
+451	Wed Feb 23 06:35:13 +0000 2011	4d0a8919d8d78cfa985417be	{jetBlue Flight 636}	{37.613303688695446,-122.38958941073953,San Francisco,CA,United States}	{Travel & Transport,Airport,}
+451	Wed Feb 23 06:28:39 +0000 2011	41059b00f964a520850b1fe3	{San Francisco International Airport (SFO)}	{37.61642405271961,-122.38627910614014,San Francisco,CA,United States}	{Travel & Transport,}
+451	Mon Feb 21 04:20:27 +0000 2011	4b972151f964a5204ff934e3	{Berkeley Pier}	{37.86277582997673,-122.31787204742432,Berkeley,CA,United States}	{Travel & Transport,}
+451	Sun Feb 20 23:51:39 +0000 2011	4b170019f964a520aec023e3	{Tapioca Express}	{37.52309056666667,-122.00566291809082,Newark,CA,United States}	{Food,}
+451	Fri Feb 18 21:37:28 +0000 2011	4a1df50bf964a520ae7b1fe3	{Panera Bread}	{37.55518153464323,-121.98197681539389,Fremont,CA,United States}	{Food,}
+451	Fri Feb 18 03:40:47 +0000 2011	4bce7d6729d4b713bcc2a8dc	{Bob Sang Korean BBQ & Tofu}	{37.490980302744006,-121.95034677873858,Fremont,CA,United States}	{Food,}
+451	Thu Feb 17 20:44:13 +0000 2011	4b6e3156f964a520c7b02ce3	{Pakwan Restaurant}	{37.531665,-121.958621,Fremont,CA,United States}	{Food,}
+451	Thu Feb 17 05:49:31 +0000 2011	459e2e1df964a520b2401fe3	{Yoshi's Jazz Club & Japanese Restaurant}	{37.796029530294945,-122.278611426864,Oakland,CA,United States}	{Music Venue,Food,Arts & Entertainment,}
+451	Thu Feb 17 03:19:50 +0000 2011	4bea0bf9415e20a152a9e4bb	{Milan Pizza}	{37.37279135,-122.088053,Mountain View,CA,United States}	{Food,}
+451	Tue Feb 15 23:33:04 +0000 2011	453f5b78f964a520333c1fe3	{Bouchon Bakery}	{38.40248718545806,-122.36198902130127,Yountville,CA,United States}	{Food,}
+451	Tue Feb 15 23:01:09 +0000 2011	4a3e7210f964a520eea21fe3	{Oakville Grocery Co.}	{38.43725360180591,-122.40288734436035,Oakville,CA,United States}	{Shop & Service,Food & Drink Shop,}
+451	Tue Feb 15 22:36:40 +0000 2011	4ad8f51df964a5206d1621e3	{Castello di Amorosa}	{38.55823374656499,-122.5422790646553,Calistoga,CA,United States}	{Outdoors & Recreation,Food,}
+451	Tue Feb 15 22:36:05 +0000 2011	4ad79993f964a5209f0c21e3	{Chateau Montelena}	{38.60310453020783,-122.59873151779175,Calistoga,CA,United States}	{Nightlife Spot,Outdoors & Recreation,Food,}
+451	Tue Feb 15 20:54:58 +0000 2011	4b410e9bf964a5203ec025e3	{Envy Wines}	{38.59195235555464,-122.60217547416687,Calistoga,CA,United States}	{Outdoors & Recreation,Food,}
+451	Tue Feb 15 20:42:58 +0000 2011	4ab6bc79f964a520ca7820e3	{Old Faithful Geyser of California}	{38.59629097814307,-122.60237191192545,Calistoga,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+451	Tue Feb 15 04:02:44 +0000 2011	4b0df5cef964a520285323e3	{Solbar at Solage Calistoga}	{38.58479057207197,-122.57036447525023,Calistoga,CA,United States}	{Food,}
+451	Tue Feb 15 01:34:54 +0000 2011	4d66f7167579224b88e0fa99	{Golden Haven Hot Springs Spa & Resort}	{38.585665947702395,-122.58076646251907,Calistoga,CA,United States}	{Travel & Transport,Shop & Service,Hotel,}
+451	Tue Feb 15 00:40:48 +0000 2011	453f5b78f964a520333c1fe3	{Bouchon Bakery}	{38.40248718545806,-122.36198902130127,Yountville,CA,United States}	{Food,}
+451	Mon Feb 14 04:48:45 +0000 2011	485ce823f964a520d2501fe3	{Pampas}	{37.44276809952013,-122.16286182403564,Palo Alto,CA,United States}	{Nightlife Spot,Food,}
+451	Sat Feb 12 21:01:19 +0000 2011	4b1fe9f9f964a520b82a24e3	{Sideboard Coffee}	{37.82136948248709,-121.9996401187016,Danville,CA,United States}	{Travel & Transport,Food,}
+451	Thu Feb 10 22:21:01 +0000 2011	49c9193cf964a52030581fe3	{Mitsuwa}	{37.31501808058753,-121.97754527221811,San Jose,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+451	Thu Feb 10 04:37:22 +0000 2011	49e03a9df964a52047611fe3	{Oracle Arena}	{37.75026469428747,-122.20290184020996,Oakland,CA,United States}	{Stadium,Arts & Entertainment,}
+451	Wed Feb 09 06:08:25 +0000 2011	4bbb899eafe1b713b0512f4b	{Wingstop}	{37.503517066203926,-121.97534054517746,Fremont,CA,United States}	{Food,}
+451	Tue Feb 08 19:05:26 +0000 2011	4ae45e6df964a5202d9a21e3	{Daily Bagel Cafe}	{37.55575152272304,-121.95128553622642,Fremont,CA,United States}	{Food,}
+451	Tue Feb 08 07:22:29 +0000 2011	4a217d93f964a520017d1fe3	{Bay Street Cafe}	{37.535229896288854,-121.94684164289814,Fremont,CA,United States}	{Food,}
+451	Sun Feb 06 00:45:52 +0000 2011	49f7a66df964a520cc6c1fe3	{Sprinkles Cupcakes}	{37.442309,-122.17308059,Palo Alto,CA,United States}	{Food,}
+451	Sat Feb 05 21:07:41 +0000 2011	4a590e55f964a52089b81fe3	{SimplyBe Salon and Spa}	{37.4486076227298,-122.15890230839881,Palo Alto,CA,United States}	{Shop & Service,}
+451	Sat Feb 05 20:37:44 +0000 2011	4bf5f3c094b2a59318bfacee	{St Michael's Alley}	{37.44214486461261,-122.15897438241463,Palo Alto,CA,United States}	{Food,}
+451	Fri Feb 04 21:20:49 +0000 2011	4a47e19bf964a5203baa1fe3	{I Heart Pepper Lunch USA}	{37.42188712682264,-121.91639058784709,Milpitas,CA,United States}	{Food,}
+451	Thu Feb 03 21:28:17 +0000 2011	4a1cbf6bf964a5205f7b1fe3	{In-N-Out Burger}	{37.426249154707826,-121.92246369296261,Milpitas,CA,United States}	{Food,}
+451	Tue Feb 01 23:16:19 +0000 2011	4a6df421f964a52069d31fe3	{Pho Nguyen Vietnamese}	{37.427587,-121.91114723682404,Milpitas,CA,United States}	{Food,}
+451	Mon Jan 31 23:47:25 +0000 2011	4c2bd5b42219c9282b42a548	{Central Park Dog Park}	{37.55233287205259,-121.96700436537989,Fremont,CA,United States}	{Outdoors & Recreation,}
+451	Mon Jan 31 22:25:11 +0000 2011	4c113e89a9420f47de6b7c51	{Five Guys}	{37.50550444160901,-121.96957111358643,Fremont,CA,United States}	{Food,}
+451	Thu Jan 27 05:01:01 +0000 2011	4bea0bf9415e20a152a9e4bb	{Milan Pizza}	{37.37279135,-122.088053,Mountain View,CA,United States}	{Food,}
+451	Thu Jan 27 03:50:31 +0000 2011	49c157caf964a5209f551fe3	{Pinkberry}	{37.32024862999148,-121.9478639960289,San Jose,CA,United States}	{Food,}
+451	Wed Jan 26 04:07:04 +0000 2011	4a0baca9f964a52009751fe3	{Angelicas}	{37.485443050393094,-122.22601553219023,Redwood City,CA,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+451	Tue Jan 25 18:35:19 +0000 2011	4ae34316f964a520859221e3	{The Original Country Way}	{37.53297331476882,-122.0016074180603,Fremont,CA,United States}	{Food,}
+451	Mon Jan 24 20:10:54 +0000 2011	4a71f2c0f964a520f2d91fe3	{Madera}	{37.419373323720684,-122.2121739932857,Menlo Park,CA,United States}	{Nightlife Spot,Food,}
+451	Mon Jan 24 18:15:32 +0000 2011	4a791b60f964a520f4e61fe3	{Rosewood Sand Hill}	{37.41946174275932,-122.21224049014509,Menlo Park,CA,United States}	{Nightlife Spot,Travel & Transport,Outdoors & Recreation,}
+451	Mon Jan 24 06:06:10 +0000 2011	4c44b6fb8c1f20a1cece3c99	{50 Mason Social House}	{37.784167,-122.409227,San Francisco,CA,United States}	{Arts & Entertainment,}
+451	Mon Jan 24 04:56:55 +0000 2011	49ff56fdf964a5200d701fe3	{Chipotle Mexican Grill}	{37.55436668209379,-121.98180466606192,Fremont,CA,United States}	{Food,}
+451	Sun Jan 23 07:28:10 +0000 2011	4ac8b776f964a52058bc20e3	{Oriental B.B.Q. Chicken Town}	{37.847430365894866,-122.26113773255356,Oakland,CA,United States}	{Food,}
+451	Fri Jan 21 04:03:09 +0000 2011	4a399e48f964a5209d9f1fe3	{The Boiling Crab}	{37.30664,-121.812461,San Jose,CA,United States}	{Food,}
+451	Thu Jan 20 05:51:08 +0000 2011	476c1aa6f964a520fd4c1fe3	{Yoshi's San Francisco}	{37.78172200204317,-122.4323245882988,San Francisco,CA,United States}	{Nightlife Spot,Music Venue,Food,Arts & Entertainment,}
+451	Mon Jan 17 01:35:25 +0000 2011	40c50180f964a520f5001fe3	{Blue Rock Shoot}	{37.257102,-122.03453958034515,Saratoga,CA,United States}	{Food,}
+451	Sun Jan 16 17:48:28 +0000 2011	49ce75e7f964a520415a1fe3	{Four Seasons Hotel San Francisco}	{37.78629773890162,-122.40451964075442,San Francisco,CA,United States}	{Nightlife Spot,Travel & Transport,}
+451	Sat Jan 15 02:59:21 +0000 2011	4bc76c57af07a5933a287f2d	{Ohana Hawaiian BBQ}	{37.50509441574441,-121.96833175348,Fremont,CA,United States}	{Food,}
+451	Sat Jan 15 01:31:05 +0000 2011	45ec400df964a5209b431fe3	{Starving Musician}	{37.352637,-121.99022381293602,Santa Clara,CA,United States}	{Shop & Service,}
+451	Fri Jan 14 21:23:21 +0000 2011	4a47e19bf964a5203baa1fe3	{I Heart Pepper Lunch USA}	{37.42188712682264,-121.91639058784709,Milpitas,CA,United States}	{Food,}
+451	Thu Jan 13 21:17:40 +0000 2011	40c3b000f964a520e3001fe3	{La Victoria Taqueria}	{37.332663708429294,-121.88436929316791,San Jose,CA,United States}	{Food,}
+451	Thu Jan 13 20:50:29 +0000 2011	43ba62b4f964a520e72c1fe3	{Norman Y. Mineta San Jos? International Airport (SJC)}	{37.36662498287745,-121.9263043999672,San Jose,CA,United States}	{Travel & Transport,}
+451	Thu Jan 13 14:49:41 +0000 2011	4a5a77a4f964a52062ba1fe3	{Chicago O'Hare International Airport (ORD)}	{41.977270920041626,-87.90440082550049,Chicago,IL,United States}	{Travel & Transport,}
+451	Thu Jan 13 11:33:17 +0000 2011	452113b6f964a520bc3a1fe3	{Boston Logan International Airport (BOS)}	{42.36650312404415,-71.01667642593384,Boston,MA,United States}	{Travel & Transport,}
+451	Thu Jan 13 01:35:45 +0000 2011	4abeb8e9f964a520938f20e3	{Finale Desserterie & Bakery}	{42.34242,-71.120749,Brookline,MA,United States}	{Food,}
+451	Tue Jan 11 15:25:09 +0000 2011	43e0735bf964a520c22e1fe3	{Espresso Royale Cafe}	{42.350065,-71.107012,Boston,MA,United States}	{Food,}
+451	Mon Jan 10 19:20:03 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+451	Mon Jan 10 17:39:42 +0000 2011	4c484d5d89a6c9b61ef79c88	{Gate 7}	{37.37041297973717,-121.93118333816528,San Jose,CA,United States}	{Travel & Transport,Airport,}
+451	Sun Jan 09 20:55:34 +0000 2011	4b6b7c6bf964a520d50b2ce3	{Starbucks}	{37.520659065649646,-121.99071720307532,Newark,CA,United States}	{Food,}
+451	Fri Jan 07 21:44:43 +0000 2011	4b9ec8d3f964a520a40137e3	{Priscilla of Boston}	{37.321146,-121.947873,San Jose,CA,United States}	{Shop & Service,}
+451	Fri Jan 07 00:14:09 +0000 2011	4c9517a982b56dcb958ed5aa	{Crow Canyon Country Club}	{37.78633472835229,-121.9622540473938,Danville,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+451	Wed Jan 05 21:43:45 +0000 2011	43f19f14f964a520862f1fe3	{Left Bank}	{37.31979962129101,-121.94815635681152,San Jose,CA,United States}	{Shop & Service,Food,}
+451	Wed Jan 05 02:30:24 +0000 2011	4b004b2df964a520673c22e3	{Fremont Tennis Center}	{37.55674536454581,-121.96016167479391,Fremont,CA,United States}	{Outdoors & Recreation,Athletics & Sports,}
+451	Mon Jan 03 23:13:33 +0000 2011	4a983497f964a520f02a20e3	{Stanford University}	{37.42893313778773,-122.16981410980225,Stanford,CA,United States}	{College & University,}
+451	Mon Jan 03 01:20:21 +0000 2011	40c50180f964a520f5001fe3	{Blue Rock Shoot}	{37.257102,-122.03453958034515,Saratoga,CA,United States}	{Food,}
+451	Sat Jan 01 08:18:15 +0000 2011	4a95b217f964a5202d2420e3	{Aloft Silicon Valley}	{37.536070161667986,-122.06316947937012,Newark,CA,United States}	{Nightlife Spot,Travel & Transport,}
+451	Thu Dec 30 02:06:48 +0000 2010	4a71f2c0f964a520f2d91fe3	{Madera}	{37.419373323720684,-122.2121739932857,Menlo Park,CA,United States}	{Nightlife Spot,Food,}
+451	Wed Dec 29 06:17:15 +0000 2010	4a791b60f964a520f4e61fe3	{Rosewood Sand Hill}	{37.41946174275932,-122.21224049014509,Menlo Park,CA,United States}	{Nightlife Spot,Travel & Transport,Outdoors & Recreation,}
+451	Mon Dec 27 02:52:06 +0000 2010	3fd66200f964a5202fed1ee3	{Chaya Brasserie}	{37.793240582761165,-122.39211204365047,San Francisco,CA,United States}	{Food,}
+451	Sun Dec 26 23:43:14 +0000 2010	4b818d2bf964a52066ae30e3	{Zaza Nail Spa}	{37.504083069298225,-121.96862697601318,Fremont,CA,United States}	{Shop & Service,}
+451	Sun Dec 26 23:30:06 +0000 2010	4abec551f964a520cb8f20e3	{Vida y Vino Wine Bar}	{37.504208212599,-121.96872607906656,Fremont,CA,United States}	{Nightlife Spot,}
+451	Sun Dec 26 20:13:15 +0000 2010	4b955838f964a520999d34e3	{Tyme for Tea}	{37.57684240238515,-121.97912798679353,Fremont,CA,United States}	{Food,}
+451	Sun Dec 26 07:56:44 +0000 2010	43c0efd0f964a520332d1fe3	{Dave & Buster's}	{37.418066273539445,-121.89791918013388,Milpitas,CA,United States}	{Nightlife Spot,Food,}
+451	Sun Dec 26 05:56:35 +0000 2010	4a20d67af964a520c57c1fe3	{Century 20 Great Mall and XD}	{37.41807805886265,-121.89907193183899,Milpitas,CA,United States}	{Arts & Entertainment,Movie Theater,}
+451	Sat Dec 25 20:54:36 +0000 2010	4b9561f8f964a520ac9f34e3	{My Tho Restaurant}	{37.52333137099184,-122.00645258262679,Newark,CA,United States}	{Food,}
+451	Sat Dec 25 12:44:39 +0000 2010	459ecd01f964a520bf401fe3	{Washington Dulles International Airport (IAD)}	{38.95263423449029,-77.44790554046631,Dulles,VA,United States}	{Travel & Transport,}
+451	Fri Dec 24 18:24:32 +0000 2010	4ca5187597c8a1cd65eb63a5	{Photoria Media}	{38.85409071666667,-77.22157703333333,Annandale,VA,United States}	{Professional & Other Places,}
+451	Thu Dec 23 23:37:52 +0000 2010	4c991e22b8e9224b2f86423d	{Galleria Optical}	{38.83288849106988,-77.21102377369645,Annandale,VA,United States}	{Professional & Other Places,}
+451	Thu Dec 23 20:15:38 +0000 2010	4bf92ded5efe2d7faac96b34	{University of Virginia}	{38.034622296429994,-78.50392341613775,Charlottesville,VA,United States}	{College & University,}
+451	Thu Dec 23 18:43:21 +0000 2010	4b477527f964a520b83226e3	{Marco & Luca Noodle Shop}	{38.030911,-78.481985,Charlottesville,VA,United States}	{Food,}
+451	Thu Dec 23 00:51:48 +0000 2010	4aba3969f964a5209a8020e3	{Honey Pig Gooldaegee Korean Grill}	{38.8317469549857,-77.19403341357122,Annandale,VA,United States}	{Food,}
+451	Wed Dec 22 22:54:45 +0000 2010	4a4fbaecf964a520a0af1fe3	{Lincoln Memorial}	{38.88918729836897,-77.05018758773804,Washington,DC,United States}	{Government Building,Arts & Entertainment,Professional & Other Places,}
+451	Wed Dec 22 19:51:52 +0000 2010	4a1063d9f964a520b5761fe3	{International Spy Museum}	{38.89696157424975,-77.0234727859497,Washington,DC,United States}	{Arts & Entertainment,}
+451	Wed Dec 22 19:10:31 +0000 2010	4a8db313f964a5208e1020e3	{Zola Wine & Kitchen}	{38.896229,-77.023932,Washington,DC,United States}	{Shop & Service,Food,Food & Drink Shop,}
+451	Tue Dec 21 22:43:05 +0000 2010	49c319a5f964a52057561fe3	{Tysons Corner Center}	{38.91744951889427,-77.22096920013428,Tysons Corner,VA,United States}	{Shop & Service,Food & Drink Shop,}
+451	Tue Dec 21 19:09:43 +0000 2010	4b548975f964a52001bf27e3	{Pho Sat?}	{38.876254174207304,-77.1917985450942,Falls Church,VA,United States}	{Food,}
+451	Mon Dec 20 22:12:55 +0000 2010	4a2a0325f964a52000961fe3	{Rutgers Grease Trucks}	{40.499454252923,-74.44838583469391,New Brunswick,NJ,United States}	{Food,}
+451	Mon Dec 20 00:01:06 +0000 2010	4a89e36df964a520430920e3	{Shabu Zen}	{42.35263114451432,-71.12914758453267,Allston,MA,United States}	{Nightlife Spot,Food,}
+451	Fri Dec 17 00:51:26 +0000 2010	4a0dabf5f964a52089751fe3	{Yasu}	{42.34181658751979,-71.12324461340904,Brookline,MA,United States}	{Food,}
+451	Tue Dec 07 00:44:34 +0000 2010	3fd66200f964a520f6eb1ee3	{Atlantic Fish Company}	{42.34899795295924,-71.08108302300343,Boston,MA,United States}	{Food,}
+451	Mon Dec 06 19:15:57 +0000 2010	4a762b7af964a52077e21fe3	{Pad Thai Cafe}	{42.34707051648228,-71.08880112773643,Boston,MA,United States}	{Food,}
+451	Fri Dec 03 00:27:38 +0000 2010	3fd66200f964a5203eec1ee3	{No. 9 Park}	{42.35760444263006,-71.06287479400635,Boston,MA,United States}	{Food,}
+451	Sun Nov 28 17:44:33 +0000 2010	4b1bd53cf964a520e4fd23e3	{Market by Jean Georges}	{42.350859,-71.065052,Boston,MA,United States}	{Food,}
+451	Mon Nov 15 22:29:53 +0000 2010	4b5e101ff964a520947b29e3	{Cherry Mart}	{42.34829306602478,-71.08713803,Boston,MA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+451	Mon Nov 15 19:03:30 +0000 2010	4a762b7af964a52077e21fe3	{Pad Thai Cafe}	{42.34707051648228,-71.08880112773643,Boston,MA,United States}	{Food,}
+451	Sat Nov 13 17:44:21 +0000 2010	3fd66200f964a5203ef11ee3	{Anna's Taqueria}	{42.341262,-71.125466,Brookline,MA,United States}	{Food,}
+451	Sun Oct 31 23:32:47 +0000 2010	4b1afd52f964a520f0f523e3	{Buk Kyung II (BK2)}	{42.352891,-71.131942,Allston,MA,United States}	{Food,}
+451	Thu Oct 28 00:36:54 +0000 2010	4b59df0ef964a520519d28e3	{Bangkok City Restaurant}	{42.34617,-71.087143,Boston,MA,United States}	{Food,}
+===
+451	Thu Sep 30 17:02:14 +0000 2010	4a7a2b7cf964a520c3e81fe3	{Pho Basil}	{42.34581427129339,-71.0871414574535,Boston,MA,United States}	{Nightlife Spot,Food,}
+===
+451	Sat Sep 04 21:31:48 +0000 2010	4ba7d651f964a520b6b739e3	{Za Zang}	{37.518801,-121.99009,Newark,CA,United States}	{Food,}
+451	Sun Aug 29 03:00:23 +0000 2010	4b170019f964a520aec023e3	{Tapioca Express}	{37.52309056666667,-122.00566291809082,Newark,CA,United States}	{Food,}
+451	Thu Aug 26 20:49:07 +0000 2010	4b9561f8f964a520ac9f34e3	{My Tho Restaurant}	{37.52333137099184,-122.00645258262679,Newark,CA,United States}	{Food,}
+===
+451	Thu Jun 17 23:15:25 +0000 2010	3fd66200f964a520e7ed1ee3	{Pour House Bar & Grill}	{42.34810980510194,-71.08420372009277,Boston,MA,United States}	{Nightlife Spot,Food,}

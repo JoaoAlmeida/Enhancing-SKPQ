@@ -1,0 +1,4 @@
+#categoryName experimentName dataset neighborhood plusMode queryType numQueries numKeywords numResults radius mean stdev observations
+Personalizing SKPQ-LD drive range null null null 20 0.2 totalExecutionTime 1.4316431E7 - 1
+Personalizing SKPQ-LD drive range null null null 20 0.2 pageFaults 0.0 - 1
+Personalizing SKPQ-LD drive range null null null 20 0.2 nodesAccessed 0.0 - 1

@@ -1,0 +1,199 @@
+1720	Sat Aug 06 17:14:58 +0000 2011	4b3baaf0f964a520657825e3	{Westbrook Mall}	{51.04201789258721,-114.13918850649958,Calgary,AB,Canada}	{Shop & Service,}
+1720	Sat Aug 06 00:06:22 +0000 2011	4b063174f964a520a1e922e3	{Original Joe's: Terwillegar}	{53.45524692229334,-113.56374263763428,Edmonton,AB,Canada}	{Nightlife Spot,}
+1720	Fri Jul 29 23:21:38 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1720	Fri Jul 29 16:48:09 +0000 2011	3fd66200f964a520e0ef1ee3	{Le Clafoutis}	{34.092046714526816,-118.37992787361145,West Hollywood,CA,United States}	{Food,}
+1720	Fri Jul 29 03:41:41 +0000 2011	3fd66200f964a520d0ee1ee3	{Kate Mantilini}	{34.06726293886176,-118.39003443717957,Beverly Hills,CA,United States}	{Food,}
+1720	Fri Jul 29 01:17:31 +0000 2011	49f6594df964a520346c1fe3	{Venice Beach Boardwalk}	{33.986899120345164,-118.47362279891968,Venice,CA,United States}	{Shop & Service,Outdoors & Recreation,}
+1720	Fri Jul 29 01:17:30 +0000 2011	49f6594df964a520346c1fe3	{Venice Beach Boardwalk}	{33.986899120345164,-118.47362279891968,Venice,CA,United States}	{Shop & Service,Outdoors & Recreation,}
+1720	Thu Jul 28 16:25:03 +0000 2011	47fccaaff964a520d44e1fe3	{Urth Caff?}	{34.00432424852786,-118.48574336870516,Santa Monica,CA,United States}	{Food,}
+1720	Tue Jul 26 02:53:41 +0000 2011	47383924f964a520444c1fe3	{Santa Monica Pier}	{34.00842244098263,-118.49856197834015,Santa Monica,CA,United States}	{Travel & Transport,}
+1720	Tue Jul 26 01:55:24 +0000 2011	49f6594df964a520346c1fe3	{Venice Beach Boardwalk}	{33.986899120345164,-118.47362279891968,Venice,CA,United States}	{Shop & Service,Outdoors & Recreation,}
+1720	Tue Jul 26 01:38:46 +0000 2011	45267b57f964a520fb3a1fe3	{BOA Steakhouse}	{34.01429663226887,-118.497991743238,Santa Monica,CA,United States}	{Food,}
+1720	Mon Jul 25 18:51:12 +0000 2011	4c040b64187ec928b87fb67b	{Venice Beach}	{33.986810160500845,-118.4736442565918,Venice,CA,United States}	{Outdoors & Recreation,Beach,}
+1720	Sat Jul 23 21:06:30 +0000 2011	4a9f665cf964a520223d20e3	{Four Points by Sheraton Los Angeles International Airport}	{33.947907004195756,-118.38497362868686,Los Angeles,CA,United States}	{Travel & Transport,}
+1720	Fri Jul 22 19:30:06 +0000 2011	4a76204cf964a52052e21fe3	{Pirates of the Caribbean}	{33.81123104144419,-117.92081482708454,Anaheim,CA,United States}	{Arts & Entertainment,Theme Park,}
+1720	Fri Jul 22 18:10:19 +0000 2011	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+1720	Thu Jul 21 22:28:57 +0000 2011	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+1720	Thu Jul 21 22:27:59 +0000 2011	4a63e3d8f964a520f8c51fe3	{Haunted Mansion}	{33.811766358053724,-117.92211331997643,Anaheim,CA,United States}	{Arts & Entertainment,Theme Park,}
+1720	Thu Jul 21 14:56:44 +0000 2011	4aea1dc0f964a5207eb921e3	{Crowne Plaza Anaheim Resort}	{33.78731552541326,-117.91647434234619,Garden Grove,CA,United States}	{Travel & Transport,Food,Hotel,}
+1720	Thu Jul 21 00:40:28 +0000 2011	4c05b555191f20a1648ce314	{Mother's Market & Kitchen}	{33.64264246992033,-117.91610390119315,Costa Mesa,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1720	Thu Jul 21 00:39:18 +0000 2011	4bfc0775d6f2c9b636964ec8	{City of Newport Beach}	{33.60184163824875,-117.90722608566284,Newport Beach,CA,United States}	{Outdoors & Recreation,}
+1720	Wed Jul 20 03:13:21 +0000 2011	4c06c8508a81c9b618422690	{City of Laguna Beach}	{33.54257505029259,-117.78450965881348,Laguna Beach,CA,United States}	{Outdoors & Recreation,}
+1720	Wed Jul 20 01:51:42 +0000 2011	49cc5d80f964a5206e591fe3	{Montage Laguna Beach}	{33.51434879178374,-117.75768756866455,Laguna Beach,CA,United States}	{Travel & Transport,Outdoors & Recreation,Hotel,}
+1720	Wed Jul 20 01:43:12 +0000 2011	4b91c504f964a52017d633e3	{Ruby's Diner}	{33.51848723107071,-117.75909533870912,Laguna Beach,CA,United States}	{Food,}
+1720	Tue Jul 19 20:27:32 +0000 2011	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+1720	Tue Jul 19 16:36:15 +0000 2011	4aea1dc0f964a5207eb921e3	{Crowne Plaza Anaheim Resort}	{33.78731552541326,-117.91647434234619,Garden Grove,CA,United States}	{Travel & Transport,Food,Hotel,}
+1720	Tue Jul 19 02:44:41 +0000 2011	49e0e4aaf964a5207b611fe3	{Whole Foods Market}	{34.001095918015736,-118.46969604492188,Venice,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1720	Tue Jul 19 00:52:51 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1720	Mon Jul 18 19:43:52 +0000 2011	4abe5ca5f964a520ff8c20e3	{Calgary International Airport (YYC)}	{51.131646256713196,-114.01077032089233,Calgary,AB,Canada}	{Travel & Transport,}
+1720	Sun Jul 17 05:28:31 +0000 2011	4d9bbcbbafc2a1cd9e6507c2	{West Restaurant & Bar}	{51.04623537622146,-114.067194170084,Calgary,AB,Canada}	{Nightlife Spot,Food,}
+1720	Sun Jul 17 04:56:15 +0000 2011	4deb1328b0fb8293f7e6f6eb	{WEST Rooftop Patio}	{51.045891,-114.067395,Calgary,AB,Canada}	{Nightlife Spot,}
+1720	Fri Jul 08 23:24:41 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1720	Fri Jul 08 17:58:26 +0000 2011	4b648faff964a520c9bd2ae3	{Haute Cakes Cafe}	{33.62639175254255,-117.90674934495831,Newport Beach,CA,United States}	{Food,}
+1720	Thu Jul 07 20:59:49 +0000 2011	4b76deb6f964a520c6652ee3	{The Coffee Bean & Tea Leaf}	{33.990047062635696,-118.44712425135415,Marina del Rey,CA,United States}	{Food,}
+1720	Thu Jul 07 20:40:34 +0000 2011	4c040b64187ec928b87fb67b	{Venice Beach}	{33.986810160500845,-118.4736442565918,Venice,CA,United States}	{Outdoors & Recreation,Beach,}
+1720	Thu Jul 07 18:33:00 +0000 2011	49cd269af964a520c1591fe3	{The Coffee Bean & Tea Leaf}	{33.9729469419091,-118.42273301931812,Playa Vista,CA,United States}	{Food,}
+1720	Thu Jul 07 01:20:41 +0000 2011	49e0e4aaf964a5207b611fe3	{Whole Foods Market}	{34.001095918015736,-118.46969604492188,Venice,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1720	Thu Jul 07 01:01:21 +0000 2011	4c040b64187ec928b87fb67b	{Venice Beach}	{33.986810160500845,-118.4736442565918,Venice,CA,United States}	{Outdoors & Recreation,Beach,}
+1720	Wed Jul 06 17:59:37 +0000 2011	4ca387987f84224b2bb6c558	{Alchemy Entertainment}	{34.0835380312282,-118.34405175829824,Los Angeles,CA,United States}	{}
+1720	Wed Jul 06 16:50:19 +0000 2011	46784311f964a520ee471fe3	{Kings Road Cafe}	{34.076252227782476,-118.37227821350098,Los Angeles,CA,United States}	{Food,}
+1720	Tue Jul 05 20:27:11 +0000 2011	49e0e4aaf964a5207b611fe3	{Whole Foods Market}	{34.001095918015736,-118.46969604492188,Venice,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1720	Tue Jul 05 06:13:27 +0000 2011	49c54d97f964a520f0561fe3	{Swingers}	{34.018351705668614,-118.4897992014885,Santa Monica,CA,United States}	{Food,}
+1720	Tue Jul 05 05:29:52 +0000 2011	3fd66200f964a520e1ef1ee3	{Duke's Malibu}	{34.03639569311383,-118.63577427994049,Malibu,CA,United States}	{Food,}
+1720	Tue Jul 05 03:19:04 +0000 2011	4bafea35f964a5202d2b3ce3	{Zuma Beach - Tower 7}	{34.02029251222755,-118.82950365543365,Malibu,CA,United States}	{Outdoors & Recreation,}
+1720	Tue Jul 05 03:18:10 +0000 2011	4bbd1ee94e069c74c0679ee3	{Malibu West Beach Club}	{34.030424891507664,-118.8438481092453,Malibu,CA,United States}	{Outdoors & Recreation,}
+1720	Tue Jul 05 01:26:23 +0000 2011	49e0e4aaf964a5207b611fe3	{Whole Foods Market}	{34.001095918015736,-118.46969604492188,Venice,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1720	Mon Jul 04 23:14:31 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1720	Mon Jun 27 01:39:09 +0000 2011	4c040b64187ec928b87fb67b	{Venice Beach}	{33.986810160500845,-118.4736442565918,Venice,CA,United States}	{Outdoors & Recreation,Beach,}
+1720	Fri Jun 24 23:30:19 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1720	Fri Jun 24 01:51:04 +0000 2011	4ae65c02f964a520a2a621e3	{Euphoria Loves Rawvolution}	{34.004912,-118.48643317,Santa Monica,CA,United States}	{Food,}
+1720	Fri Jun 24 01:50:35 +0000 2011	4ae65c02f964a520a2a621e3	{Euphoria Loves Rawvolution}	{34.004912,-118.48643317,Santa Monica,CA,United States}	{Food,}
+1720	Fri Jun 24 01:29:35 +0000 2011	4d8cec475091a1cd35ec6b01	{Viddy HQ}	{33.99327791369939,-118.48055692365541,Venice,CA,United States}	{Residence,}
+1720	Thu Jun 23 21:47:01 +0000 2011	4aefa2bcf964a520b0d921e3	{Planet Raw}	{34.016598551570254,-118.49173081604357,Santa Monica,CA,United States}	{Food,}
+1720	Thu Jun 23 20:48:01 +0000 2011	4b8435f5f964a520ba2731e3	{@Coloft}	{34.02061708722915,-118.48978042602539,Santa Monica,CA,United States}	{Office,Professional & Other Places,}
+1720	Wed Jun 22 23:04:48 +0000 2011	4bcea0dffb84c9b62929243e	{MyStudio}	{34.10171299732581,-118.3340835571289,Los Angeles,CA,United States}	{Nightlife Spot,}
+1720	Wed Jun 22 19:05:17 +0000 2011	49e0e4aaf964a5207b611fe3	{Whole Foods Market}	{34.001095918015736,-118.46969604492188,Venice,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1720	Wed Jun 22 03:18:18 +0000 2011	4a58e8f1f964a52026b81fe3	{Caffe Primo}	{34.092643,-118.37872624397278,Los Angeles,CA,United States}	{Food,}
+1720	Tue Jun 21 16:57:35 +0000 2011	4abe5ca5f964a520ff8c20e3	{Calgary International Airport (YYC)}	{51.131646256713196,-114.01077032089233,Calgary,AB,Canada}	{Travel & Transport,}
+1720	Sun May 29 22:40:47 +0000 2011	4b0586ecf964a520e67522e3	{Cineplex Odeon Westhills}	{51.016164299416864,-114.16944980621338,Calgary,Alberta,Canada}	{Arts & Entertainment,Movie Theater,}
+1720	Fri May 27 03:07:44 +0000 2011	4acbdec6f964a5201ec820e3	{Metro Goldwyn Mayer Studios}	{34.05720162489663,-118.41745734214783,Los Angeles,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+1720	Wed May 25 17:44:48 +0000 2011	4a46e51ff964a520a2a91fe3	{Juniors Restaurant}	{34.040718,-118.429254,Los Angeles,CA,United States}	{Food,}
+1720	Tue May 24 00:37:21 +0000 2011	4c05b555191f20a1648ce314	{Mother's Market & Kitchen}	{33.64264246992033,-117.91610390119315,Costa Mesa,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+1720	Mon May 23 02:19:12 +0000 2011	4ae65c02f964a520a2a621e3	{Euphoria Loves Rawvolution}	{34.004912,-118.48643317,Santa Monica,CA,United States}	{Food,}
+1720	Mon May 23 00:51:36 +0000 2011	4ae2d384f964a5207b8f21e3	{Four Points by Sheraton Los Angeles Westside}	{33.98312886545774,-118.39359499759698,Culver City,CA,United States}	{Travel & Transport,}
+1720	Mon May 23 00:50:20 +0000 2011	4bfc0775d6f2c9b636964ec8	{City of Newport Beach}	{33.60184163824875,-117.90722608566284,Newport Beach,CA,United States}	{Outdoors & Recreation,}
+1720	Sun May 22 18:09:10 +0000 2011	4c040b64187ec928b87fb67b	{Venice Beach}	{33.986810160500845,-118.4736442565918,Venice,CA,United States}	{Outdoors & Recreation,Beach,}
+1720	Sat May 21 22:33:19 +0000 2011	3fd66200f964a52099ee1ee3	{Holy Guacamole}	{33.99933256638702,-118.48101764917374,Santa Monica,CA,United States}	{Food,}
+1720	Wed May 18 04:01:26 +0000 2011	44732f28f964a520a5331fe3	{Avalon Hollywood}	{34.10266857469119,-118.32707748261049,Los Angeles,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+1720	Tue May 17 03:10:50 +0000 2011	4ae74e8ef964a52040aa21e3	{Koji's Sushi & Shabu Shabu}	{34.1020461445603,-118.33935141563416,Los Angeles,CA,United States}	{Food,}
+1720	Mon May 16 20:07:13 +0000 2011	4abb7d4ef964a520d68320e3	{Loews Hollywood Hotel}	{34.10316995155632,-118.33869695663452,Hollywood,CA,United States}	{Travel & Transport,}
+1720	Sun May 15 14:20:34 +0000 2011	4abb7d4ef964a520d68320e3	{Loews Hollywood Hotel}	{34.10316995155632,-118.33869695663452,Hollywood,CA,United States}	{Travel & Transport,}
+1720	Sun May 15 05:10:44 +0000 2011	4ae74e8ef964a52040aa21e3	{Koji's Sushi & Shabu Shabu}	{34.1020461445603,-118.33935141563416,Los Angeles,CA,United States}	{Food,}
+1720	Sun May 15 02:44:49 +0000 2011	4d769d5f3cc3cbff9c5e143e	{Dolby Theatre}	{34.10264580627707,-118.34043502807616,Los Angeles,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+1720	Sat May 14 22:16:06 +0000 2011	4abb7d4ef964a520d68320e3	{Loews Hollywood Hotel}	{34.10316995155632,-118.33869695663452,Hollywood,CA,United States}	{Travel & Transport,}
+1720	Sat May 14 21:09:20 +0000 2011	4b7afc85f964a520434a2fe3	{Comfort Cafe at Fred Segal}	{34.015477,-118.49252646,Santa Monica,CA,United States}	{Shop & Service,Food,Arts & Entertainment,}
+1720	Sat May 14 19:46:20 +0000 2011	4c040b64187ec928b87fb67b	{Venice Beach}	{33.986810160500845,-118.4736442565918,Venice,CA,United States}	{Outdoors & Recreation,Beach,}
+1720	Sat May 14 18:11:49 +0000 2011	4cc4168406c25481f8999447	{Jamaica Bay Inn}	{33.98228198143173,-118.45832347869873,Marina del Rey,CA,United States}	{Travel & Transport,Hotel,}
+1720	Sat May 14 17:11:35 +0000 2011	4db11c066e81a2637ee53ea0	{Prince Welcome 2 America}	{33.9583,-118.341868,Inglewood,CA,United States}	{Arts & Entertainment,}
+1720	Fri May 13 23:22:49 +0000 2011	4cc4168406c25481f8999447	{Jamaica Bay Inn}	{33.98228198143173,-118.45832347869873,Marina del Rey,CA,United States}	{Travel & Transport,Hotel,}
+1720	Fri May 13 05:00:29 +0000 2011	488052c4f964a5202b511fe3	{Caffe Primo}	{34.1437413747272,-118.25636386871338,Glendale,CA,United States}	{Food,}
+1720	Fri May 13 00:18:27 +0000 2011	4c040b64187ec928b87fb67b	{Venice Beach}	{33.986810160500845,-118.4736442565918,Venice,CA,United States}	{Outdoors & Recreation,Beach,}
+1720	Thu May 12 03:15:02 +0000 2011	4cc4168406c25481f8999447	{Jamaica Bay Inn}	{33.98228198143173,-118.45832347869873,Marina del Rey,CA,United States}	{Travel & Transport,Hotel,}
+1720	Thu May 12 00:44:22 +0000 2011	4c040b64187ec928b87fb67b	{Venice Beach}	{33.986810160500845,-118.4736442565918,Venice,CA,United States}	{Outdoors & Recreation,Beach,}
+1720	Wed May 11 14:20:13 +0000 2011	4cc4168406c25481f8999447	{Jamaica Bay Inn}	{33.98228198143173,-118.45832347869873,Marina del Rey,CA,United States}	{Travel & Transport,Hotel,}
+1720	Mon May 09 22:30:46 +0000 2011	4c040b64187ec928b87fb67b	{Venice Beach}	{33.986810160500845,-118.4736442565918,Venice,CA,United States}	{Outdoors & Recreation,Beach,}
+1720	Mon May 09 17:15:38 +0000 2011	4cc4168406c25481f8999447	{Jamaica Bay Inn}	{33.98228198143173,-118.45832347869873,Marina del Rey,CA,United States}	{Travel & Transport,Hotel,}
+1720	Sun May 08 17:05:17 +0000 2011	4cc4168406c25481f8999447	{Jamaica Bay Inn}	{33.98228198143173,-118.45832347869873,Marina del Rey,CA,United States}	{Travel & Transport,Hotel,}
+1720	Sun May 08 04:25:35 +0000 2011	4b09fa55f964a520ad2023e3	{The Comedy & Magic Club}	{33.86110037364651,-118.39945453666303,Hermosa Beach,CA,United States}	{Nightlife Spot,}
+1720	Sat May 07 20:01:46 +0000 2011	4cc4168406c25481f8999447	{Jamaica Bay Inn}	{33.98228198143173,-118.45832347869873,Marina del Rey,CA,United States}	{Travel & Transport,Hotel,}
+1720	Sat May 07 04:33:24 +0000 2011	4cc4168406c25481f8999447	{Jamaica Bay Inn}	{33.98228198143173,-118.45832347869873,Marina del Rey,CA,United States}	{Travel & Transport,Hotel,}
+1720	Sat May 07 03:36:46 +0000 2011	4ae65c02f964a520a2a621e3	{Euphoria Loves Rawvolution}	{34.004912,-118.48643317,Santa Monica,CA,United States}	{Food,}
+1720	Fri May 06 23:56:58 +0000 2011	4bd0a7b0046076b0e56b7071	{Terminal 2}	{33.94572745588091,-118.40399265289307,Los Angeles,CA,United States}	{Travel & Transport,Airport,}
+1720	Fri May 06 23:14:42 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+1720	Fri May 06 18:43:02 +0000 2011	4abe5ca5f964a520ff8c20e3	{Calgary International Airport (YYC)}	{51.131646256713196,-114.01077032089233,Calgary,AB,Canada}	{Travel & Transport,}
+1720	Wed May 04 21:23:49 +0000 2011	4b0586e7f964a5200d7422e3	{Osteria de Medici Restaurant}	{51.05256367854291,-114.08602237701416,Calgary,AB,Canada}	{Nightlife Spot,Food,}
+1720	Wed May 04 01:05:35 +0000 2011	4b0586f0f964a520047722e3	{Rockyview General Hospital}	{50.98890935148116,-114.0972948264716,Calgary,AB,Canada}	{Medical Center,Professional & Other Places,}
+1720	Mon May 02 22:27:52 +0000 2011	4b0586eaf964a520167522e3	{Buchanan's}	{51.050784,-114.078263,Calgary,AB,Canada}	{Food,}
+1720	Mon May 02 01:26:52 +0000 2011	4b0586e9f964a520c37422e3	{Calgary Zoo}	{51.045225382345755,-114.03083324432373,Calgary,AB,Canada}	{Outdoors & Recreation,Arts & Entertainment,}
+1720	Sat Apr 30 00:43:45 +0000 2011	4b06e842f964a520b4f222e3	{Earls Restaurant}	{51.01660815493908,-114.16720218252249,Calgary,Alberta,Canada}	{Food,}
+1720	Fri Apr 29 05:48:32 +0000 2011	4b0dd65ff964a520125123e3	{The Yardhouse}	{51.052488,-114.088111,Calgary,AB,Canada}	{Nightlife Spot,}
+1720	Fri Apr 29 04:26:20 +0000 2011	4b51f366f964a520155d27e3	{Starbucks}	{51.0525261,-114.0874289,Calgary,AB,Canada}	{Food,}
+1720	Fri Apr 29 02:18:44 +0000 2011	4b0586e7f964a5200d7422e3	{Osteria de Medici Restaurant}	{51.05256367854291,-114.08602237701416,Calgary,AB,Canada}	{Nightlife Spot,Food,}
+1720	Thu Apr 28 21:35:40 +0000 2011	4b0586e8f964a520507422e3	{Original Joe's}	{51.0525104,-114.0898919,Calgary,Alberta,Canada}	{Nightlife Spot,}
+1720	Thu Apr 28 20:39:06 +0000 2011	4b51f366f964a520155d27e3	{Starbucks}	{51.0525261,-114.0874289,Calgary,AB,Canada}	{Food,}
+1720	Thu Apr 28 18:08:30 +0000 2011	4b0586e7f964a5200d7422e3	{Osteria de Medici Restaurant}	{51.05256367854291,-114.08602237701416,Calgary,AB,Canada}	{Nightlife Spot,Food,}
+1720	Tue Apr 26 17:05:28 +0000 2011	4bc09f6274a9a593134cd0f6	{Humpty&#39 Family Restaurant}	{51.016844731263305,-114.16886393093274,Calgary,AB,Canada}	{Food,}
+1720	Sun Apr 24 21:29:34 +0000 2011	4abe5ca5f964a520ff8c20e3	{Calgary International Airport (YYC)}	{51.131646256713196,-114.01077032089233,Calgary,AB,Canada}	{Travel & Transport,}
+1720	Sun Apr 24 18:06:19 +0000 2011	4b2189c7f964a5207c3d24e3	{Subway}	{49.19410088164281,-123.18029880523682,Richmond,BC,Canada}	{Food,}
+1720	Sun Apr 24 18:04:30 +0000 2011	4ada074cf964a520771d21e3	{Jugo Juice}	{49.19362411239355,-123.18137168884277,Richmond,Canada,Canada}	{Food,}
+1720	Sun Apr 24 18:02:36 +0000 2011	4aa748f7f964a520994c20e3	{Vancouver International Airport (YVR)}	{49.19488613862445,-123.17948341369629,Richmond,BC,Canada}	{Travel & Transport,}
+1720	Sun Apr 24 06:32:01 +0000 2011	4da9c1ccb94e8f024bf1b2c8	{MyPakage @WSSF in Whistler}	{50.115239656475104,-122.95417785644531,Whistler,BC,Canada}	{Nightlife Spot,}
+1720	Sun Apr 24 05:02:32 +0000 2011	4d2eac9a73e5a0930fcb53cf	{The Village Lounge Nightclub}	{50.115,-122.95477,Whistler,BC,Canada}	{Nightlife Spot,}
+1720	Sun Apr 24 04:36:15 +0000 2011	4db2429d4df05320061592dc	{Grassroots Pizza}	{50.115507539853574,-122.95457742973996,Whistler,BC,Canada}	{Food,}
+1720	Sun Apr 24 01:54:00 +0000 2011	4b9fdca6f964a520854537e3	{Starbucks}	{50.11526717574099,-122.95454263687132,Whistler,BC,Canada}	{Food,}
+1720	Sun Apr 24 01:31:43 +0000 2011	4b7609a4f964a5205d382ee3	{Pan Pacific Whistler Village Centre}	{50.115591704696016,-122.95430688413768,Whistler,BC,Canada}	{Travel & Transport,Hotel,}
+1720	Sun Apr 24 01:22:11 +0000 2011	4c8b94526418a1432a53eace	{Whistler Village}	{50.11452415001019,-122.95573353767395,Whistler,BC,Canada}	{Outdoors & Recreation,}
+1720	Sun Apr 24 01:21:22 +0000 2011	4b2e6723f964a52089df24e3	{Whistler Blackcomb Mountains}	{50.11521213719336,-122.9529333114624,Whistler,BC,Canada}	{Outdoors & Recreation,}
+1720	Sat Apr 23 23:11:58 +0000 2011	4b7609a4f964a5205d382ee3	{Pan Pacific Whistler Village Centre}	{50.115591704696016,-122.95430688413768,Whistler,BC,Canada}	{Travel & Transport,Hotel,}
+1720	Sat Apr 23 21:59:22 +0000 2011	4b6d076cf964a520c9632ce3	{Brewhouse}	{50.11811533422763,-122.95479476451874,Whistler,BC,Canada}	{Nightlife Spot,}
+1720	Sat Apr 23 07:11:18 +0000 2011	4b7609a4f964a5205d382ee3	{Pan Pacific Whistler Village Centre}	{50.115591704696016,-122.95430688413768,Whistler,BC,Canada}	{Travel & Transport,Hotel,}
+1720	Sat Apr 23 03:10:47 +0000 2011	4b9fdca6f964a520854537e3	{Starbucks}	{50.11526717574099,-122.95454263687132,Whistler,BC,Canada}	{Food,}
+1720	Sat Apr 23 03:08:19 +0000 2011	4db2429d4df05320061592dc	{Grassroots Pizza}	{50.115507539853574,-122.95457742973996,Whistler,BC,Canada}	{Food,}
+1720	Fri Apr 22 06:28:22 +0000 2011	4da9c1ccb94e8f024bf1b2c8	{MyPakage @WSSF in Whistler}	{50.115239656475104,-122.95417785644531,Whistler,BC,Canada}	{Nightlife Spot,}
+1720	Fri Apr 22 06:18:57 +0000 2011	4b9ad19df964a520d1d835e3	{The Mix by Ric's}	{50.11389119307087,-122.95544385910034,Whistler,BC,Canada}	{Nightlife Spot,}
+1720	Fri Apr 22 06:05:26 +0000 2011	4b74c3d2f964a520cff02de3	{Araxi Restaurant + Bar}	{50.114888128194295,-122.95568787087373,Whistler,BC,Canada}	{Nightlife Spot,Food,}
+1720	Fri Apr 22 03:25:14 +0000 2011	4b7609a4f964a5205d382ee3	{Pan Pacific Whistler Village Centre}	{50.115591704696016,-122.95430688413768,Whistler,BC,Canada}	{Travel & Transport,Hotel,}
+1720	Fri Apr 22 01:09:59 +0000 2011	4b0857d7f964a520940923e3	{The Westin Resort & Spa, Whistler}	{50.11237062280019,-122.9561501352287,Whistler,British Columbia,Canada}	{Nightlife Spot,Travel & Transport,Shop & Service,}
+1720	Thu Apr 21 20:43:20 +0000 2011	4b92bdcff964a5204c1734e3	{Four Points by Sheraton Vancouver Airport}	{49.17787412206234,-123.13124656677246,Richmond,BC,Canada}	{Travel & Transport,}
+1720	Thu Apr 21 01:15:46 +0000 2011	4b92bdcff964a5204c1734e3	{Four Points by Sheraton Vancouver Airport}	{49.17787412206234,-123.13124656677246,Richmond,BC,Canada}	{Travel & Transport,}
+1720	Wed Apr 20 20:39:43 +0000 2011	4c6c8909e6b7b1f7ac79a78e	{Apple Store}	{49.16574074538494,-123.1382034419287,Richmond,BC,Canada}	{Nightlife Spot,Shop & Service,}
+1720	Wed Apr 20 19:20:58 +0000 2011	4b81fcedf964a520b9c630e3	{Empire Chinese Cuisine}	{49.178607,-123.132671,Richmond,BC,Canada}	{Food,}
+1720	Wed Apr 20 18:12:29 +0000 2011	4aa748f7f964a520994c20e3	{Vancouver International Airport (YVR)}	{49.19488613862445,-123.17948341369629,Richmond,BC,Canada}	{Travel & Transport,}
+1720	Wed Apr 20 16:49:52 +0000 2011	4ba3d5a8f964a520a86438e3	{Pitt Meadows Regional Airport (YPK)}	{49.21078491050371,-122.70385265350342,Pitt Meadows,BC,Canada}	{Travel & Transport,}
+1720	Wed Apr 20 14:07:54 +0000 2011	4abe5ca5f964a520ff8c20e3	{Calgary International Airport (YYC)}	{51.131646256713196,-114.01077032089233,Calgary,AB,Canada}	{Travel & Transport,}
+1720	Tue Apr 19 22:43:43 +0000 2011	4b0586e7f964a5200d7422e3	{Osteria de Medici Restaurant}	{51.05256367854291,-114.08602237701416,Calgary,AB,Canada}	{Nightlife Spot,Food,}
+1720	Sat Apr 16 19:39:51 +0000 2011	4b06f8a1f964a5208ff422e3	{Apple Store}	{51.08282186160976,-114.15424704551697,Calgary,AB,Canada}	{Shop & Service,}
+1720	Thu Apr 14 23:01:29 +0000 2011	4b0586e7f964a5200d7422e3	{Osteria de Medici Restaurant}	{51.05256367854291,-114.08602237701416,Calgary,AB,Canada}	{Nightlife Spot,Food,}
+1720	Tue Apr 12 21:53:33 +0000 2011	4cf96171d7206ea8ae703269	{Sunshine Village}	{51.042929,-114.086336,,,Canada}	{Outdoors & Recreation,}
+1720	Tue Apr 12 19:39:09 +0000 2011	4b0586e7f964a5200d7422e3	{Osteria de Medici Restaurant}	{51.05256367854291,-114.08602237701416,Calgary,AB,Canada}	{Nightlife Spot,Food,}
+1720	Mon Apr 11 21:01:29 +0000 2011	4b5e3b19f964a520078529e3	{Grey Eagle Casino}	{51.0075173546818,-114.14700508117676,Calgary,AB,Canada}	{Arts & Entertainment,}
+1720	Sun Apr 10 22:00:43 +0000 2011	4b0586e7f964a520f87322e3	{Melrose Cafe & Bar}	{51.037895,-114.07854652,Calgary,AB,Canada}	{Nightlife Spot,}
+1720	Sun Apr 10 20:37:27 +0000 2011	4b0586e7f964a5200d7422e3	{Osteria de Medici Restaurant}	{51.05256367854291,-114.08602237701416,Calgary,AB,Canada}	{Nightlife Spot,Food,}
+1720	Fri Apr 08 01:40:34 +0000 2011	4b0586e7f964a5200d7422e3	{Osteria de Medici Restaurant}	{51.05256367854291,-114.08602237701416,Calgary,AB,Canada}	{Nightlife Spot,Food,}
+1720	Thu Apr 07 04:35:24 +0000 2011	4b0586e7f964a5200d7422e3	{Osteria de Medici Restaurant}	{51.05256367854291,-114.08602237701416,Calgary,AB,Canada}	{Nightlife Spot,Food,}
+1720	Tue Apr 05 21:37:33 +0000 2011	4b0586e7f964a5200d7422e3	{Osteria de Medici Restaurant}	{51.05256367854291,-114.08602237701416,Calgary,AB,Canada}	{Nightlife Spot,Food,}
+1720	Tue Apr 05 19:16:17 +0000 2011	4b0586e9f964a520b07422e3	{The Roadhouse}	{51.04524561821692,-114.08091545104979,Calgary,AB,Canada}	{Nightlife Spot,}
+1720	Sun Apr 03 02:59:11 +0000 2011	4b0586e9f964a520c17422e3	{Heritage Park Historical Village}	{50.98273281631465,-114.10153703612575,Calgary,AB,Canada}	{Government Building,Museum,Arts & Entertainment,Professional & Other Places,}
+1720	Fri Mar 25 21:21:27 +0000 2011	4c0e1528b40eef3bd525f6db	{Dobson's Restaurant & Bar}	{50.989744,-114.070701,Calgary,AB,Canada}	{Nightlife Spot,Food,}
+1720	Fri Mar 25 17:33:08 +0000 2011	4b0586e9f964a520c17422e3	{Heritage Park Historical Village}	{50.98273281631465,-114.10153703612575,Calgary,AB,Canada}	{Government Building,Museum,Arts & Entertainment,Professional & Other Places,}
+1720	Wed Mar 23 03:16:11 +0000 2011	45267b57f964a520fb3a1fe3	{BOA Steakhouse}	{34.01429663226887,-118.497991743238,Santa Monica,CA,United States}	{Food,}
+1720	Sat Mar 19 19:39:58 +0000 2011	4d3ae8ab039eb60cd8f2ef9c	{Qua Fitness Center}	{36.11527873670551,-115.17615830287953,Las Vegas,NV,United States}	{Shop & Service,Gym / Fitness Center,}
+1720	Sat Mar 19 19:38:17 +0000 2011	41326e00f964a520da131fe3	{Caesars Palace Hotel & Casino}	{36.116036862271876,-115.1742696762085,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,}
+1720	Fri Mar 18 22:03:10 +0000 2011	41326e00f964a520da131fe3	{Caesars Palace Hotel & Casino}	{36.116036862271876,-115.1742696762085,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,}
+1720	Thu Mar 17 19:40:10 +0000 2011	41326e00f964a520da131fe3	{Caesars Palace Hotel & Casino}	{36.116036862271876,-115.1742696762085,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,}
+===
+1720	Wed Jan 26 21:03:39 +0000 2011	4b0586e7f964a5200d7422e3	{Osteria de Medici Restaurant}	{51.05256367854291,-114.08602237701416,Calgary,AB,Canada}	{Nightlife Spot,Food,}
+1720	Fri Jan 14 08:48:17 +0000 2011	4a9f665cf964a520223d20e3	{Four Points by Sheraton Los Angeles International Airport}	{33.947907004195756,-118.38497362868686,Los Angeles,CA,United States}	{Travel & Transport,}
+1720	Fri Jan 14 05:33:09 +0000 2011	4a864fd2f964a520f50020e3	{The Charleston}	{34.035221241385955,-118.47826160609941,Santa Monica,CA,United States}	{Nightlife Spot,Food,}
+1720	Wed Jan 12 06:59:39 +0000 2011	4a9f665cf964a520223d20e3	{Four Points by Sheraton Los Angeles International Airport}	{33.947907004195756,-118.38497362868686,Los Angeles,CA,United States}	{Travel & Transport,}
+1720	Mon Jan 10 06:53:50 +0000 2011	4a6bdc59f964a52020d01fe3	{Gjelina}	{33.99050858748514,-118.4649807214737,Venice,CA,United States}	{Nightlife Spot,Food,}
+1720	Sun Jan 09 04:39:36 +0000 2011	4d2010f9756e8cfacc0e6954	{Identity Membership Lounge}	{36.110073725203314,-115.17452716827393,Las Vegas,NV,United States}	{Nightlife Spot,}
+1720	Sun Jan 09 04:01:36 +0000 2011	4d0144ba6212721ea500e011	{The Chandelier}	{36.10955366271496,-115.1737117767334,Las Vegas,NV,United States}	{Nightlife Spot,}
+1720	Sat Jan 08 10:57:40 +0000 2011	4bfe71ede529c928c852bc8c	{The Cosmopolitan of Las Vegas}	{36.1094756530447,-115.17394781112671,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+1720	Sat Jan 08 03:24:22 +0000 2011	4a46946ff964a52024a91fe3	{Atomic Testing Museum}	{36.114389679151415,-115.14848747283013,Las Vegas,NV,United States}	{Arts & Entertainment,}
+1720	Fri Jan 07 07:06:27 +0000 2011	49de898ff964a5206f601fe3	{ROK Vegas Nightclub}	{36.10221810544511,-115.17390604848354,Las Vegas,NV,United States}	{Nightlife Spot,}
+1720	Fri Jan 07 06:39:27 +0000 2011	4c857684ee6fef3be6693c5c	{Mashable Awards Gala at Cirque du Soleil Zumanity}	{36.10318,-115.174428,Las Vegas,NV,United States}	{Nightlife Spot,Professional & Other Places,}
+1720	Fri Jan 07 04:20:26 +0000 2011	4ad7dddef964a520ad0f21e3	{Sushi Roku}	{36.11860549,-115.17302,Las Vegas,NV,United States}	{Food,}
+1720	Thu Jan 06 22:07:18 +0000 2011	4a70a1f0f964a52001d81fe3	{Whole Foods Market}	{36.067382477595324,-115.17411947250365,Las Vegas,NV,United States}	{Shop & Service,Food & Drink Shop,}
+1720	Thu Jan 06 09:30:52 +0000 2011	4bfe71ede529c928c852bc8c	{The Cosmopolitan of Las Vegas}	{36.1094756530447,-115.17394781112671,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+1720	Thu Jan 06 06:51:25 +0000 2011	4a6bdd66f964a52022d01fe3	{Xishi}	{36.11456873992165,-115.19379365504075,Las Vegas,NV,United States}	{Food,Arts & Entertainment,}
+1720	Sat Dec 25 01:02:33 +0000 2010	4b7f0765f964a520641130e3	{Aeropuerto Internacional De Canc?n (CUN)}	{21.039946462896086,-86.87346696853638,Canc?n,,Mexico}	{Travel & Transport,}
+1720	Sat Dec 18 19:14:19 +0000 2010	4bc8e887762beee10aae3d38	{Great Parnassus}	{21.068916,-86.778379,Cancun,QR,Mexico}	{Nightlife Spot,Travel & Transport,Hotel,}
+1720	Thu Dec 16 14:42:19 +0000 2010	4cc82c9bbe87468851c382af	{The Reef Playacar Resort & Spa}	{20.61225974197176,-87.08539366722107,Playa del Carmen,QR,Mexico}	{Travel & Transport,Hotel,}
+1720	Mon Dec 13 19:43:20 +0000 2010	4cc82c9bbe87468851c382af	{The Reef Playacar Resort & Spa}	{20.61225974197176,-87.08539366722107,Playa del Carmen,QR,Mexico}	{Travel & Transport,Hotel,}
+1720	Mon Dec 13 03:16:13 +0000 2010	4b7f0765f964a520641130e3	{Aeropuerto Internacional De Canc?n (CUN)}	{21.039946462896086,-86.87346696853638,Canc?n,,Mexico}	{Travel & Transport,}
+1720	Fri Dec 03 23:05:22 +0000 2010	4b69d245f964a5204fb62be3	{Sweet Lemon Vegetarian Bistro}	{45.55479991781117,-122.83620175582145,Portland,OR,United States}	{Food,}
+1720	Thu Dec 02 19:24:30 +0000 2010	4aa748f7f964a520994c20e3	{Vancouver International Airport (YVR)}	{49.19488613862445,-123.17948341369629,Richmond,BC,Canada}	{Travel & Transport,}
+===
+1720	Mon Nov 01 01:53:38 +0000 2010	4b12aedbf964a5203a8c23e3	{Starbucks}	{51.03503819477859,-114.11793815757987,Calgary,Canada,Canada}	{Food,}
+1720	Fri Oct 29 21:48:08 +0000 2010	4b5241a8f964a520197327e3	{Starbucks}	{51.04237,-114.13913011550903,Calgary,AB,Canada}	{Food,}
+1720	Thu Oct 21 02:25:42 +0000 2010	4b5cf592f964a520a54c29e3	{JOEY Chinook}	{50.996121,-114.073207,Calgary,AB,Canada}	{Food,}
+1720	Wed Oct 20 16:47:52 +0000 2010	4a92c5b1f964a520a41d20e3	{Barnes & Noble}	{34.07187545638207,-118.35820198059082,Los Angeles,CA,United States}	{Shop & Service,}
+1720	Wed Oct 20 01:36:47 +0000 2010	4ba918a2f964a520040b3ae3	{Ten Asian Bistro}	{33.669973,-117.865143,Newport Beach,CA,United States}	{Food,Arts & Entertainment,}
+1720	Tue Oct 19 16:16:05 +0000 2010	4b40002cf964a52001b425e3	{Trader Joe's}	{33.65125072128036,-117.95465290546417,Huntington Beach,CA,United States}	{Shop & Service,Food & Drink Shop,}
+1720	Tue Oct 19 15:16:24 +0000 2010	4bc37eebdce4eee169a1719d	{Best Western Newport Beach Inn}	{33.626762260000326,-117.94920425721772,Newport Beach,CA,United States}	{Travel & Transport,}
+1720	Tue Oct 19 00:53:49 +0000 2010	4ae0b3aff964a520c68121e3	{118 Degrees}	{33.679471,-117.88611173629761,Costa Mesa,CA,United States}	{Food,}
+1720	Mon Oct 18 21:52:56 +0000 2010	4bc37eebdce4eee169a1719d	{Best Western Newport Beach Inn}	{33.626762260000326,-117.94920425721772,Newport Beach,CA,United States}	{Travel & Transport,}
+1720	Mon Oct 18 15:24:13 +0000 2010	4a56ed50f964a520eab51fe3	{The Westin South Coast Plaza}	{33.69070981986842,-117.88416981697083,Costa Mesa,CA,United States}	{Travel & Transport,}
+1720	Sun Oct 17 16:12:18 +0000 2010	4a56ed50f964a520eab51fe3	{The Westin South Coast Plaza}	{33.69070981986842,-117.88416981697083,Costa Mesa,CA,United States}	{Travel & Transport,}
+1720	Sat Oct 16 22:11:22 +0000 2010	4a56ed50f964a520eab51fe3	{The Westin South Coast Plaza}	{33.69070981986842,-117.88416981697083,Costa Mesa,CA,United States}	{Travel & Transport,}
+1720	Sat Oct 16 01:58:10 +0000 2010	3fd66200f964a5208eee1ee3	{Skybar}	{34.09442839296151,-118.3744002931956,West Hollywood,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+1720	Fri Oct 15 22:51:51 +0000 2010	4a188de0f964a520c8791fe3	{Mondrian Hotel}	{34.09429457916573,-118.37448835372925,West Hollywood,CA,United States}	{Travel & Transport,}
+1720	Fri Oct 15 05:25:29 +0000 2010	4babee2cf964a5206ed63ae3	{LIQUID Pool Lounge}	{36.107096320883755,-115.17927199602127,Las Vegas,NV,United States}	{Nightlife Spot,Outdoors & Recreation,}
+1720	Fri Oct 15 04:48:22 +0000 2010	4ae61edbf964a520dfa421e3	{ARIA Resort & Casino}	{36.107811135638265,-115.17644200474405,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+1720	Fri Oct 15 02:57:52 +0000 2010	473ed65af964a520694c1fe3	{Planet Hollywood Resort & Casino}	{36.11024707860085,-115.17182350158691,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+1720	Thu Oct 14 18:55:04 +0000 2010	41326e00f964a520c0131fe3	{Bellagio Hotel & Casino}	{36.112498113604694,-115.17571357074823,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+1720	Thu Oct 14 05:15:21 +0000 2010	41326e00f964a5208c141fe3	{Luxor Hotel & Casino}	{36.09540664245591,-115.17534255981445,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+1720	Thu Oct 14 01:13:49 +0000 2010	41326e00f964a52092141fe3	{Mandalay Bay Resort & Casino}	{36.09185214999439,-115.1748275756836,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+1720	Tue Oct 12 23:23:02 +0000 2010	4c040b64187ec928b87fb67b	{Venice Beach}	{33.986810160500845,-118.4736442565918,Venice,CA,United States}	{Outdoors & Recreation,Beach,}
+1720	Tue Oct 12 20:27:44 +0000 2010	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}

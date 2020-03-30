@@ -1,0 +1,620 @@
+132	Thu Aug 11 16:10:29 +0000 2011	4d00f7132685a35d41a1cb90	{Summit Career College}	{33.814450195756194,-117.90646898685974,Anaheim,CA,United States}	{College & University,}
+132	Wed Aug 10 04:26:17 +0000 2011	4ac6b90ff964a52006b620e3	{Umami Burger}	{34.10061138113151,-118.29054594039917,Los Angeles,CA,United States}	{Food,}
+132	Tue Aug 09 21:21:23 +0000 2011	4afefc06f964a5207d3222e3	{Kaiser Permanente Orchard Medical Offices}	{33.91860608228155,-118.12630612521514,Downey,CA,United States}	{Medical Center,Professional & Other Places,}
+132	Sat Aug 06 03:16:10 +0000 2011	4b1b20b0f964a5208df823e3	{Steakhouse 55}	{33.80876669982723,-117.9276430606842,Anaheim,CA,United States}	{Nightlife Spot,Food,}
+132	Fri Aug 05 19:21:47 +0000 2011	4d9e49ab2470b60c06a0c6dc	{Flying Pig Cafe}	{34.048111466233735,-118.23941665712807,Los Angeles,CA,United States}	{Food,Professional & Other Places,}
+132	Fri Aug 05 07:46:26 +0000 2011	4b736718f964a520d1ac2de3	{Jack in the Box - Bellflower, CA}	{33.902478881509055,-118.11615943908691,Bellflower,CA,United States}	{Food,}
+132	Fri Aug 05 04:15:59 +0000 2011	4bea4268b3352d7f1e0855d2	{Congregation Ale House}	{33.769377700695756,-118.19112522553483,Long Beach,CA,United States}	{Nightlife Spot,Food,}
+132	Fri Aug 05 00:52:52 +0000 2011	4bfc08af6978d13a7370c7e7	{Ryokan College}	{34.00677878,-118.42909441,Los Angeles,CA,United States}	{College & University,}
+132	Wed Aug 03 01:18:18 +0000 2011	4af2307ef964a52071e621e3	{Pepperdine University - West Los Angeles}	{33.977104082244715,-118.39262008666992,Los Angeles,CA,United States}	{College & University,}
+132	Tue Aug 02 03:22:54 +0000 2011	4b27153ef964a520a98424e3	{Red Robin Gourmet Burgers}	{33.91769,-117.964043,La Habra,CA,United States}	{Food,}
+132	Mon Aug 01 03:27:17 +0000 2011	4b678fc0f964a52053552be3	{Thai Patio}	{34.101933,-118.305913,Los Angeles,CA,United States}	{Food,}
+132	Sun Jul 31 23:26:24 +0000 2011	4debef8ed164ef597d1299f2	{Do Over at Cabana Club}	{34.09720485,-118.32921751666666,Los Angeles,CA,United States}	{Nightlife Spot,}
+132	Sun Jul 31 17:13:22 +0000 2011	4c2fb33b213c2d7f7d5c315d	{Salon 25}	{33.82890873,-118.0290689,Cypress,CA,United States}	{Shop & Service,}
+132	Sun Jul 31 00:22:43 +0000 2011	4b833931f964a52021fe30e3	{Embassy Suites Brea - North Orange County}	{33.917420950749346,-117.88756955966353,Brea,CA,United States}	{Travel & Transport,}
+132	Sat Jul 30 21:07:07 +0000 2011	4b348333f964a520ba2725e3	{St. Paul Catholic Church}	{33.99685033888446,-117.73112066295849,Chino Hills,CA,United States}	{Spiritual Center,Professional & Other Places,}
+132	Sat Jul 30 03:20:15 +0000 2011	4b4396cbf964a520d1e325e3	{Vanguard University of Southern California}	{33.6625991276576,-117.90140530139196,Costa Mesa,CA,United States}	{College & University,}
+132	Sat Jul 30 03:19:56 +0000 2011	4e1cb53f52b1c2b69f37aaae	{OC Fair 2011}	{33.66667534125443,-117.90162563323975,Costa Mesa,CA,United States}	{Professional & Other Places,}
+132	Thu Jul 28 22:21:21 +0000 2011	4b08cc0df964a5205b1223e3	{Vibiana}	{34.050638805221574,-118.24449346603488,Los Angeles,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+132	Thu Jul 28 15:54:46 +0000 2011	4b9c7792f964a520bd6a36e3	{Jamba Juice}	{33.92754,-118.129101,Downey,CA,United States}	{Food,}
+132	Thu Jul 28 01:21:19 +0000 2011	4bfc08af6978d13a7370c7e7	{Ryokan College}	{34.00677878,-118.42909441,Los Angeles,CA,United States}	{College & University,}
+132	Wed Jul 27 01:06:37 +0000 2011	4af2307ef964a52071e621e3	{Pepperdine University - West Los Angeles}	{33.977104082244715,-118.39262008666992,Los Angeles,CA,United States}	{College & University,}
+132	Tue Jul 26 04:19:33 +0000 2011	4d51d615bd6ff04de2c4f50c	{Lazy Dog Cafe}	{33.862644,-118.093082,Cerritos,CA,United States}	{Food,}
+132	Sat Jul 23 03:54:30 +0000 2011	4b63742af964a520077b2ae3	{Sonic Drive-In}	{33.82505801666667,-116.458808,Cathedral City,CA,United States}	{Food,}
+132	Mon Jul 18 17:28:17 +0000 2011	41be2d00f964a520841e1fe3	{Little Tokyo}	{34.0489487969639,-118.24025042908596,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+132	Sun Jul 17 23:46:41 +0000 2011	4c26affb136d20a1d5dde561	{Porto's Bakery & Cafe}	{33.9404939261664,-118.13338994979858,Downey,CA,United States}	{Food,}
+132	Sun Jul 17 20:45:55 +0000 2011	4b1b5060f964a520c3fa23e3	{Hilton Los Angeles Airport}	{33.94587055233686,-118.38180112732375,Los Angeles,CA,United States}	{Travel & Transport,Airport,}
+132	Sat Jul 16 18:38:00 +0000 2011	4b5246edf964a520577427e3	{Glen Ivy Hot Springs Spa}	{33.75648670910342,-117.49374386878554,Corona,CA,United States}	{Shop & Service,}
+132	Sat Jul 16 05:38:48 +0000 2011	4dd74242fa76ad96d1214457	{Lush Lounge Fridays w/UNIIIQagenda}	{33.766192,-118.19236195,Long Beach,CA,United States}	{}
+132	Sat Jul 16 01:21:53 +0000 2011	4d2b7e61ebacb1f7da6b0c50	{O'MamaMia}	{34.03257365,-118.254164,Los Angeles,CA,United States}	{Food,}
+132	Fri Jul 15 20:19:35 +0000 2011	4c11f6d6d41e76b0cf49320d	{Izakaya & Bar Fu-ga}	{34.05025496683814,-118.24118127929138,Los Angeles,CA,United States}	{Food,}
+132	Thu Jul 14 19:41:17 +0000 2011	4d9e49ab2470b60c06a0c6dc	{Flying Pig Cafe}	{34.048111466233735,-118.23941665712807,Los Angeles,CA,United States}	{Food,Professional & Other Places,}
+132	Thu Jul 14 15:12:18 +0000 2011	4b3e960ef964a520559f25e3	{Jamba Juice}	{33.7595975733218,-118.11452865600586,Long Beach,CA,United States}	{Food,}
+132	Thu Jul 14 15:10:37 +0000 2011	4bed896691380f47310ca018	{Bikram Yoga Studio}	{33.75987408365563,-118.11404585838318,Long Beach,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+132	Tue Jul 12 04:10:02 +0000 2011	4d51d615bd6ff04de2c4f50c	{Lazy Dog Cafe}	{33.862644,-118.093082,Cerritos,CA,United States}	{Food,}
+132	Tue Jul 12 01:42:50 +0000 2011	4c084d84a1b32d7f90df95f0	{Dancetime}	{33.830811,-118.260061,Carson,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+132	Tue Jul 12 01:42:50 +0000 2011	4c084d84a1b32d7f90df95f0	{Dancetime}	{33.830811,-118.260061,Carson,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+132	Sun Jul 10 23:35:59 +0000 2011	4debef8ed164ef597d1299f2	{Do Over at Cabana Club}	{34.09720485,-118.32921751666666,Los Angeles,CA,United States}	{Nightlife Spot,}
+132	Sun Jul 10 19:26:14 +0000 2011	4aada260f964a520156120e3	{Parkers' Lighthouse}	{33.75982369552293,-118.19207919083846,Long Beach,CA,United States}	{Food,}
+132	Sun Jul 10 00:11:33 +0000 2011	4cfab261c671721ec00fbf18	{The Shoppes at Chino Hills}	{34.00101043462731,-117.72979197563947,Chino Hills,CA,United States}	{Shop & Service,}
+132	Fri Jul 08 15:15:23 +0000 2011	4b3e960ef964a520559f25e3	{Jamba Juice}	{33.7595975733218,-118.11452865600586,Long Beach,CA,United States}	{Food,}
+132	Fri Jul 08 13:27:42 +0000 2011	4bed896691380f47310ca018	{Bikram Yoga Studio}	{33.75987408365563,-118.11404585838318,Long Beach,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+132	Thu Jul 07 00:12:43 +0000 2011	4b312947f964a520760125e3	{Chipotle Mexican Grill}	{33.87255348120897,-118.06427478790283,Cerritos,CA,United States}	{Food,}
+132	Wed Jul 06 22:57:10 +0000 2011	4b286e6cf964a520539324e3	{Verizon Wireless}	{33.87058586902913,-118.06287494017445,Cerritos,CA,United States}	{Shop & Service,}
+132	Wed Jul 06 05:02:40 +0000 2011	4b209e62f964a520703324e3	{T.G.I. Friday's}	{33.870571140606586,-118.06094844109867,Cerritos,CA,United States}	{Nightlife Spot,Food,}
+132	Wed Jul 06 03:29:32 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+132	Tue Jul 05 23:59:25 +0000 2011	449e9fb9f964a520c0341fe3	{Phoenix Sky Harbor International Airport (PHX)}	{33.43562440517176,-112.00306606318918,Phoenix,AZ,United States}	{Travel & Transport,}
+132	Tue Jul 05 16:31:55 +0000 2011	4a65d6a4f964a520a1c71fe3	{Louis Armstrong New Orleans International Airport (MSY)}	{29.984936414376474,-90.25714874267578,Kenner,LA,United States}	{Travel & Transport,}
+132	Tue Jul 05 15:59:39 +0000 2011	4b4cdb7af964a520f1c126e3	{Enterprise}	{29.981194,-90.249984,Kenner,LA,United States}	{Travel & Transport,}
+132	Tue Jul 05 00:56:02 +0000 2011	4af48990f964a5209df321e3	{The Crazy Lobster Bar & Grill}	{29.94937231541565,-90.0628688776744,New Orleans,LA,United States}	{Food,}
+132	Mon Jul 04 18:47:33 +0000 2011	4aa59477f964a520dd4820e3	{Caf? Du Monde}	{29.957505928636447,-90.06194561719894,New Orleans,LA,United States}	{Food,}
+132	Mon Jul 04 16:04:50 +0000 2011	4ad4c04df964a5205ff320e3	{Fiorella's Cafe}	{29.960474609263454,-90.05943775177002,New Orleans,LA,United States}	{Food,}
+132	Mon Jul 04 15:23:03 +0000 2011	4bca134c68f976b04e925e83	{French Market Flea Market}	{29.959805356714156,-90.05943775177002,New Orleans,LA,United States}	{Shop & Service,}
+132	Mon Jul 04 14:02:03 +0000 2011	4a65d6a4f964a520a1c71fe3	{Louis Armstrong New Orleans International Airport (MSY)}	{29.984936414376474,-90.25714874267578,Kenner,LA,United States}	{Travel & Transport,}
+132	Mon Jul 04 02:09:09 +0000 2011	41326e00f964a520b6181fe3	{Coop's Place}	{29.96006286458055,-90.05983141027633,New Orleans,LA,United States}	{Food,}
+132	Sun Jul 03 21:47:34 +0000 2011	4bca134c68f976b04e925e83	{French Market Flea Market}	{29.959805356714156,-90.05943775177002,New Orleans,LA,United States}	{Shop & Service,}
+132	Sun Jul 03 16:02:36 +0000 2011	4aed9d64f964a520dbcd21e3	{Mother's Restaurant}	{29.948920075057654,-90.06699085235596,New Orleans,LA,United States}	{Food,}
+132	Sat Jul 02 22:59:37 +0000 2011	4aeddf6cf964a520c9cf21e3	{Panda King Fine Dining}	{29.89039723244495,-90.0184117944655,New Orleans,LA,United States}	{Food,}
+132	Sat Jul 02 20:34:31 +0000 2011	4aa59477f964a520dd4820e3	{Caf? Du Monde}	{29.957505928636447,-90.06194561719894,New Orleans,LA,United States}	{Food,}
+132	Sat Jul 02 18:08:49 +0000 2011	4b8d7049f964a520e9fb32e3	{St. Joseph's Catholic Church}	{29.915386185318468,-90.06139572156813,Gretna,LA,United States}	{Spiritual Center,Professional & Other Places,}
+132	Sat Jul 02 02:47:20 +0000 2011	4aaaeb39f964a5200e5820e3	{Harrah's Casino New Orleans}	{29.950269142446164,-90.0653820391889,New Orleans,LA,United States}	{Travel & Transport,Arts & Entertainment,}
+132	Sat Jul 02 01:01:12 +0000 2011	50ca02c2245f2d4aa8c2bb1a	{Drago's Seafood}	{29.947604614996493,-90.0633340966142,New Orleans,LA,United States}	{Food,}
+132	Fri Jul 01 23:26:09 +0000 2011	4a65d6a4f964a520a1c71fe3	{Louis Armstrong New Orleans International Airport (MSY)}	{29.984936414376474,-90.25714874267578,Kenner,LA,United States}	{Travel & Transport,}
+132	Fri Jul 01 18:12:13 +0000 2011	449e9fb9f964a520c0341fe3	{Phoenix Sky Harbor International Airport (PHX)}	{33.43562440517176,-112.00306606318918,Phoenix,AZ,United States}	{Travel & Transport,}
+132	Fri Jul 01 15:23:14 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+132	Fri Jul 01 00:34:12 +0000 2011	4b6cdbbbf964a5209e592ce3	{Downey Pizza Company}	{33.94695317678812,-118.11656260410217,Downey,CA,United States}	{Food,}
+132	Tue Jun 28 17:29:09 +0000 2011	4b48fad3f964a520876026e3	{Los Angeles Airport Marriott}	{33.946310948091075,-118.38451145146352,Los Angeles,CA,United States}	{Nightlife Spot,Travel & Transport,Hotel,}
+132	Tue Jun 28 01:35:43 +0000 2011	4c084d84a1b32d7f90df95f0	{Dancetime}	{33.830811,-118.260061,Carson,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+132	Sun Jun 26 22:51:25 +0000 2011	4c27b9dffe6e2d7f0c31523c	{Long Beach Japanese Cultural Center}	{33.78923424732639,-118.21729737890928,Long Beach,CA,United States}	{College & University,}
+132	Sun Jun 26 00:41:37 +0000 2011	4bb5aeb4ef159c746cfa74f7	{Harrah's Hotel & Casino}	{36.11904426108171,-115.17202734947203,Las Vegas,NV,United States}	{Nightlife Spot,Travel & Transport,Arts & Entertainment,}
+132	Sun Jun 26 00:41:19 +0000 2011	4c2e89cd66e40f475577c08b	{KGB: Kerry??s Gourmet Burgers}	{36.11945592774841,-115.17243504524231,Las Vegas,NV,United States}	{Food,}
+132	Sun Jun 26 00:06:04 +0000 2011	4b6ed09ff964a520c5cb2ce3	{The Las Vegas Strip}	{36.115516839270214,-115.17287492752075,Las Vegas,NV,United States}	{Travel & Transport,}
+132	Sat Jun 25 22:12:46 +0000 2011	49dbd6caf964a520185f1fe3	{Palms Pool}	{36.11437277654469,-115.19336700439453,Las Vegas,NV,United States}	{Outdoors & Recreation,}
+132	Sat Jun 25 21:15:14 +0000 2011	4b2b0de8f964a52017b424e3	{Palms Casino & Resort}	{36.11419943225349,-115.1954698562622,Las Vegas,NV,United States}	{Nightlife Spot,Travel & Transport,Arts & Entertainment,}
+132	Sat Jun 25 05:48:52 +0000 2011	41326e00f964a5206d151fe3	{Rain Nightclub}	{36.11467894242752,-115.19347523157882,Las Vegas,NV,United States}	{Nightlife Spot,}
+132	Sat Jun 25 05:48:14 +0000 2011	4b2b0de8f964a52017b424e3	{Palms Casino & Resort}	{36.11419943225349,-115.1954698562622,Las Vegas,NV,United States}	{Nightlife Spot,Travel & Transport,Arts & Entertainment,}
+132	Sat Jun 25 00:36:29 +0000 2011	4a934a16f964a520731f20e3	{The Platinum Hotel}	{36.11408156570546,-115.16320617497307,Las Vegas,NV,United States}	{Travel & Transport,}
+132	Sat Jun 25 00:24:04 +0000 2011	4b6ed09ff964a520c5cb2ce3	{The Las Vegas Strip}	{36.115516839270214,-115.17287492752075,Las Vegas,NV,United States}	{Travel & Transport,}
+132	Fri Jun 24 23:19:48 +0000 2011	4bd4a4d8cfa7b7137e8a24da	{California / Nevada Stateline}	{35.6072428437229,-115.39137840270996,Primm,CA,United States}	{Travel & Transport,}
+132	Fri Jun 24 22:37:30 +0000 2011	4b99ed35f964a520479735e3	{Zzyzx Rd}	{35.19569489118943,-116.14153861999512,Zzyzx,CA,United States}	{Travel & Transport,Outdoors & Recreation,}
+132	Fri Jun 24 20:54:03 +0000 2011	4b272991f964a520058524e3	{McDonald's}	{34.8912,-116.99904518,Barstow,CA,United States}	{Food,}
+132	Fri Jun 24 18:38:18 +0000 2011	4bab3510f964a5207d993ae3	{76/Circle K}	{34.02421331320568,-117.73200835824127,Pomona,CA,United States}	{Shop & Service,}
+132	Tue Jun 21 02:10:51 +0000 2011	4c084d84a1b32d7f90df95f0	{Dancetime}	{33.830811,-118.260061,Carson,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+132	Sun Jun 19 00:27:01 +0000 2011	45f3e6e8f964a520f1431fe3	{Sherman Oaks Galleria}	{34.154467164742876,-118.46699237823486,Sherman Oaks,CA,United States}	{Shop & Service,}
+132	Sat Jun 18 23:24:50 +0000 2011	4a9abc24f964a520683220e3	{Skirball Cultural Center}	{34.12502252196651,-118.47892881970068,Los Angeles,CA,United States}	{Museum,Arts & Entertainment,}
+132	Sat Jun 18 20:58:46 +0000 2011	4ba6b0fff964a520276939e3	{St. Dominic Catholic Church}	{34.13777244869405,-118.21213980274776,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+132	Sat Jun 18 05:36:04 +0000 2011	4dd74242fa76ad96d1214457	{Lush Lounge Fridays w/UNIIIQagenda}	{33.766192,-118.19236195,Long Beach,CA,United States}	{}
+132	Sat Jun 18 02:10:34 +0000 2011	4c084d84a1b32d7f90df95f0	{Dancetime}	{33.830811,-118.260061,Carson,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+132	Sat Jun 18 00:13:29 +0000 2011	4bc244a4f8219c74eb9cb410	{Salon Image}	{33.827993497650795,-118.262933,Carson,CA,United States}	{Professional & Other Places,}
+132	Fri Jun 17 18:25:47 +0000 2011	4c71b5b9ad69b60c67cb81b9	{Victoria's Secret PINK}	{33.93552711573616,-118.11933517456055,DOWNEY,CA,United States}	{Shop & Service,Clothing Store,}
+132	Fri Jun 17 14:18:49 +0000 2011	511a6acc759629b50618cdcd	{McKenna BMW}	{33.923274487792625,-118.10236637896696,Norwalk,CA,United States}	{Shop & Service,}
+132	Thu Jun 16 04:09:47 +0000 2011	4ada047df964a5204a1d21e3	{Starbucks}	{33.858813,-118.090519,Cerritos,CA,United States}	{Food,}
+132	Thu Jun 16 01:06:43 +0000 2011	4b79eb71f964a5204f1a2fe3	{Bed Bath & Beyond}	{33.926525,-118.12667055,Downey,CA,United States}	{Shop & Service,}
+132	Wed Jun 15 01:15:12 +0000 2011	4ae93d2ef964a5209db421e3	{McDonald's}	{34.01931964280408,-118.40697977835033,Los Angeles,CA,United States}	{Food,}
+132	Tue Jun 14 02:46:53 +0000 2011	4b75c5c3f964a520a5232ee3	{Jerk Shack Jamaican BBQ}	{33.977237,-118.391715,Los Angeles,CA,United States}	{Food,}
+132	Sun Jun 12 17:03:00 +0000 2011	4b3e46ecf964a5208e9a25e3	{Eggs Etc.}	{33.77336848767279,-118.15215468406677,Long Beach,CA,United States}	{Food,}
+132	Sun Jun 12 14:35:22 +0000 2011	4c604bd312e5c92882d81e4c	{Belmont Shore Beach Front}	{33.75843284595417,-118.14319741530034,Long Beach,CA,United States}	{Outdoors & Recreation,}
+132	Sun Jun 12 14:29:31 +0000 2011	4abae3aef964a5204a8320e3	{Vons}	{33.76000682,-118.14732493,Long Beach,CA,United States}	{Shop & Service,Food & Drink Shop,}
+132	Tue Jun 07 19:12:14 +0000 2011	4c11f6d6d41e76b0cf49320d	{Izakaya & Bar Fu-ga}	{34.05025496683814,-118.24118127929138,Los Angeles,CA,United States}	{Food,}
+132	Tue Jun 07 02:41:47 +0000 2011	4af46965f964a5202ff221e3	{Starbucks}	{33.92203735667911,-118.09802841386667,Norwalk,CA,United States}	{Food,}
+132	Sun Jun 05 06:41:40 +0000 2011	4b678fc0f964a52053552be3	{Thai Patio}	{34.101933,-118.305913,Los Angeles,CA,United States}	{Food,}
+132	Sun Jun 05 02:47:47 +0000 2011	4a42d509f964a52049a61fe3	{John Anson Ford Amphitheatre}	{34.11398871923893,-118.33453746999318,Los Angeles,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+132	Sat Jun 04 04:11:51 +0000 2011	4a99ff52f964a5205d3120e3	{Alcatraz Brewing Co.}	{33.78297738394318,-117.89200723171234,Orange,CA,United States}	{Nightlife Spot,Food,}
+132	Sat Jun 04 03:42:01 +0000 2011	4bfd7087b68d0f47a0cae857	{H&M}	{33.7834923546775,-117.89275825023651,Orange,CA,United States}	{Shop & Service,Clothing Store,}
+132	Sat Jun 04 03:19:01 +0000 2011	4283ee00f964a520e5221fe3	{The Outlets at Orange}	{33.78305471,-117.8922731,Orange,CA,United States}	{Shop & Service,Arts & Entertainment,}
+132	Fri Jun 03 22:34:15 +0000 2011	4cd091467561236a13082df3	{Bruxie}	{33.79137202386545,-117.85321041941643,Orange,CA,United States}	{Food,}
+132	Fri Jun 03 20:13:32 +0000 2011	4d9a489f3e1c530c1a4222a3	{The Little Mermaid ~ Ariel's Undersea Adventure}	{33.80633144660732,-117.92138200796013,Anaheim,CA,United States}	{Arts & Entertainment,Theme Park,}
+132	Fri Jun 03 20:13:15 +0000 2011	45db8eb5f964a520fd421fe3	{Disney California Adventure Park}	{33.80798489664312,-117.91896778777333,Anaheim,CA,United States}	{Arts & Entertainment,}
+132	Fri Jun 03 19:57:49 +0000 2011	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+132	Fri Jun 03 19:57:30 +0000 2011	4a6beb6ef964a52041d01fe3	{Star Tours - The Adventures Continue}	{33.81201570836017,-117.91795022785664,Anaheim,CA,United States}	{Arts & Entertainment,Theme Park,}
+132	Fri Jun 03 15:20:29 +0000 2011	4aadba50f964a520596120e3	{Mickey & Friends Parking Structure}	{33.81481057349054,-117.92484283447264,Anaheim,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+132	Tue May 31 01:39:15 +0000 2011	4dacf4fd43a17e90f8ec24b8	{De Los Reyes DANGER DOME}	{33.97601864071267,-117.77251482009888,Chino Hills,CA,United States}	{Professional & Other Places,}
+132	Tue May 31 00:53:02 +0000 2011	4c2d175e4e132d7f2ad89bdf	{Lee's Sandwiches}	{33.99912857834637,-117.71891012721066,Chino,CA,United States}	{Food,}
+132	Mon May 30 07:01:19 +0000 2011	4b5f8c10f964a520c9c029e3	{In-N-Out Burger}	{33.90105410051102,-118.08236360549927,Norwalk,CA,United States}	{Food,}
+132	Mon May 30 04:38:10 +0000 2011	4c7736a5947ca1cd94f74637	{World of Color}	{33.80581216949732,-117.92142035786982,Anaheim,CA,United States}	{Arts & Entertainment,Theme Park,}
+132	Mon May 30 01:49:03 +0000 2011	45db8eb5f964a520fd421fe3	{Disney California Adventure Park}	{33.80798489664312,-117.91896778777333,Anaheim,CA,United States}	{Arts & Entertainment,}
+132	Sun May 29 23:53:57 +0000 2011	4adf9a99f964a520067c21e3	{Jungle Cruise}	{33.81142083806388,-117.92004771530628,Anaheim,CA,United States}	{Travel & Transport,Arts & Entertainment,Theme Park,}
+132	Sun May 29 22:19:04 +0000 2011	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+132	Sun May 29 21:38:42 +0000 2011	4aadba50f964a520596120e3	{Mickey & Friends Parking Structure}	{33.81481057349054,-117.92484283447264,Anaheim,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+132	Sun May 29 18:22:43 +0000 2011	43d20751f964a520092e1fe3	{Broken Yolk Cafe}	{32.800721911331,-117.23602009146519,San Diego,CA,United States}	{Nightlife Spot,Food,}
+132	Sun May 29 00:59:00 +0000 2011	4bfdbadbe529c9284e67bb8c	{Balboa Park}	{32.731192034631285,-117.15034652208219,San Diego,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+132	Sat May 28 21:29:15 +0000 2011	46c1c912f964a520f2491fe3	{Neighborhood}	{32.712542702031165,-117.15740602910056,San Diego,CA,United States}	{Nightlife Spot,Food,}
+132	Sat May 28 19:01:06 +0000 2011	4ad09f99f964a520cfd820e3	{Mission Basilica San Diego de Alcala}	{32.784431901565355,-117.10645643225817,San Diego,CA,United States}	{Spiritual Center,Museum,Arts & Entertainment,Professional & Other Places,}
+132	Sat May 28 04:01:19 +0000 2011	42aa2980f964a52022251fe3	{Extraordinary Desserts}	{32.720281111354645,-117.1657857298851,San Diego,CA,United States}	{Nightlife Spot,Food,}
+132	Fri May 27 23:10:22 +0000 2011	4b3a90ddf964a520106a25e3	{DoubleTree by Hilton Hotel San Diego Downtown}	{32.722395874166956,-117.16529234960095,San Diego,CA,United States}	{Travel & Transport,Outdoors & Recreation,Convention Center,Professional & Other Places,}
+132	Fri May 27 18:23:47 +0000 2011	4a369f12f964a520c19d1fe3	{San Diego Zoo}	{32.73604654491908,-117.15060710906982,San Diego,CA,United States}	{Arts & Entertainment,}
+132	Fri May 27 15:28:42 +0000 2011	4b686b5ef964a5205d772be3	{McDonald's}	{33.874334483333335,-117.997866,Buena Park,CA,United States}	{Food,}
+132	Tue May 24 04:45:33 +0000 2011	4aea4b20f964a520cdba21e3	{Kabuki Japanese Restaurant}	{33.85883731090582,-118.08967224177616,Cerritos,CA,United States}	{Food,}
+132	Tue May 24 03:28:58 +0000 2011	4c4e3936fa9d9521b9c53c0a	{Gatten Revolving Sushi Bar}	{33.85762248285557,-118.09285640716553,Cerritos,CA,United States}	{Food,}
+132	Mon May 23 00:45:16 +0000 2011	4aebee4ef964a5201ac521e3	{The Cheesecake Factory}	{32.624159382371765,-116.96564197540283,Chula Vista,CA,United States}	{Nightlife Spot,Food,}
+132	Sun May 22 17:02:55 +0000 2011	4b686b5ef964a5205d772be3	{McDonald's}	{33.874334483333335,-117.997866,Buena Park,CA,United States}	{Food,}
+132	Sun May 22 08:45:35 +0000 2011	4b79c442f964a520a2102fe3	{Alberto's Mexican Food}	{33.83122326,-118.07416911666667,Hawaiian Gardens,CA,United States}	{Food,}
+132	Sun May 22 07:13:00 +0000 2011	4c8081cce602b1f7bf9c8a7a	{Commonwealth Lounge & Grill}	{33.611442,-117.928268,Newport Beach,CA,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+132	Sat May 21 18:31:57 +0000 2011	4b89db9cf964a520c45132e3	{Huntington Harbour Yacht Club}	{33.71228871401077,-118.06138862226884,Huntington Beach,CA,United States}	{Outdoors & Recreation,}
+132	Sat May 21 05:46:27 +0000 2011	4d4e4eee9a2a6ea86569216f	{Lush}	{33.766146915133554,-118.19234767114172,Long Beach,CA,United States}	{Nightlife Spot,}
+132	Thu May 19 18:58:24 +0000 2011	4b689616f964a5206c812be3	{The Aerospace Corporation}	{33.91544063109369,-118.38049445016243,El Segundo,CA,United States}	{Professional & Other Places,}
+132	Tue May 17 02:57:44 +0000 2011	4d51d615bd6ff04de2c4f50c	{Lazy Dog Cafe}	{33.862644,-118.093082,Cerritos,CA,United States}	{Food,}
+132	Sat May 14 01:46:56 +0000 2011	4b95b385f964a5200eb034e3	{The Boiling Crab}	{33.994939,-117.889723,Rowland Heights,CA,United States}	{Food,}
+132	Fri May 13 16:02:22 +0000 2011	4d080170d8b96a31ccd9748f	{Miracle Marrow Matches (A3M)}	{34.04793053,-118.2416901,Los Angeles,CA,United States}	{Professional & Other Places,}
+132	Thu May 12 05:53:31 +0000 2011	4ad96166f964a520061a21e3	{Mai Tai Bar}	{33.763393,-118.19569766521454,Long Beach,CA,United States}	{Nightlife Spot,}
+132	Mon May 09 03:16:20 +0000 2011	4ada047df964a5204a1d21e3	{Starbucks}	{33.858813,-118.090519,Cerritos,CA,United States}	{Food,}
+132	Mon May 09 03:15:58 +0000 2011	4b63a712f964a520de892ae3	{South & Gridley}	{33.85850780939471,-118.09059818469797,Cerritos,CA,United States}	{Travel & Transport,}
+132	Sun May 08 17:57:34 +0000 2011	4c4c9815959220a1026a4911	{Off Street Cafe}	{33.865322793012204,-118.09897145889435,Artesia,CA,United States}	{Food,}
+132	Sat May 07 19:43:22 +0000 2011	49d99505f964a5204b5e1fe3	{Comme ?a}	{34.08242754632714,-118.37587249742636,West Hollywood,CA,United States}	{Food,}
+132	Sat May 07 03:22:46 +0000 2011	4b16d152f964a520dcbd23e3	{Holiday Inn}	{33.78017557143863,-118.15069968543388,Long Beach,CA,United States}	{Travel & Transport,}
+132	Fri May 06 17:01:07 +0000 2011	4d00f7132685a35d41a1cb90	{Summit Career College}	{33.814450195756194,-117.90646898685974,Anaheim,CA,United States}	{College & University,}
+132	Thu May 05 04:58:57 +0000 2011	4b703e85f964a520ad0d2de3	{Starbucks}	{33.84627261485322,-118.08167006242032,Cerritos,CA,United States}	{Food,}
+132	Wed May 04 19:40:09 +0000 2011	4ba7cc47f964a5203db439e3	{Canter's Truck}	{34.17015384297358,-118.57212424278259,Los Angeles,CA,United States}	{Food,}
+132	Wed May 04 18:17:54 +0000 2011	4c468c4449fa952123dd5562	{UCLA Center for Health Sciences}	{34.06613975335236,-118.4432433818535,Los Angeles,CA,United States}	{Medical Center,College & University,Professional & Other Places,}
+132	Tue May 03 22:53:04 +0000 2011	4a7089d1f964a520bdd71fe3	{Stan's Donuts}	{34.062551,-118.446883,Los Angeles,CA,United States}	{Food,}
+132	Tue May 03 22:45:01 +0000 2011	44d9af97f964a52081361fe3	{Diddy Riese}	{34.06308995721976,-118.44697368732005,Los Angeles,CA,United States}	{Food,}
+132	Tue May 03 22:20:07 +0000 2011	4c2ead653896e21eecc9e290	{Westwood Village}	{34.062596841958424,-118.44536304473877,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+132	Tue May 03 05:46:08 +0000 2011	4b209e62f964a520703324e3	{T.G.I. Friday's}	{33.870571140606586,-118.06094844109867,Cerritos,CA,United States}	{Nightlife Spot,Food,}
+132	Mon May 02 00:44:15 +0000 2011	4ab7f615f964a5209d7b20e3	{In-N-Out Burger}	{34.84991025051407,-117.08245754241943,Barstow,CA,United States}	{Food,}
+132	Sun May 01 18:30:38 +0000 2011	4b3d0427f964a520fe8b25e3	{Studio B Buffet}	{35.965224902403456,-115.16869068145752,Las Vegas,NV,United States}	{Food,}
+132	Sun May 01 18:27:04 +0000 2011	49de8b97f964a52077601fe3	{The M Resort Spa & Casino}	{35.964703882487385,-115.16972064971924,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+132	Sun May 01 04:28:28 +0000 2011	4a9248d6f964a520091d20e3	{XS Nightclub}	{36.12829973975456,-115.16433477401732,Las Vegas,NV,United States}	{Nightlife Spot,}
+132	Sun May 01 02:02:12 +0000 2011	4ad68155f964a520850721e3	{Myst?re}	{36.12442609073086,-115.17233848571777,Las Vegas,NV,United States}	{Performing Arts Venue,Arts & Entertainment,}
+132	Sun May 01 02:01:29 +0000 2011	458dbb67f964a5200d401fe3	{Treasure Island - TI Hotel & Casino}	{36.12453008380567,-115.17152309417725,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+132	Sun May 01 00:33:52 +0000 2011	4a7e4143f964a5209ef11fe3	{Society Cafe}	{36.12937876273075,-115.16591591717327,Las Vegas,NV,United States}	{Food,}
+132	Sat Apr 30 20:52:58 +0000 2011	49dea3bbf964a52097601fe3	{Stratosphere Casino, Hotel & Tower}	{36.14723193962685,-115.15624523162842,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,}
+132	Sat Apr 30 09:12:35 +0000 2011	4a727dc2f964a52020db1fe3	{Allegro}	{36.127043207886324,-115.16663074493408,Las Vegas,NV,United States}	{Food,}
+132	Sat Apr 30 04:39:38 +0000 2011	4d013eda6289f04d14be96cc	{Marquee Nightclub & Dayclub}	{36.10954499497765,-115.17464518547058,Las Vegas,NV,United States}	{Nightlife Spot,Arts & Entertainment,}
+132	Sat Apr 30 04:38:19 +0000 2011	4bfe71ede529c928c852bc8c	{The Cosmopolitan of Las Vegas}	{36.1094756530447,-115.17394781112671,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+132	Sat Apr 30 03:24:51 +0000 2011	45aa45b2f964a52030411fe3	{Wynn Las Vegas}	{36.12635860619657,-115.16668438911438,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Professional & Other Places,}
+132	Fri Apr 29 22:54:55 +0000 2011	4c41cefa3735be9a6eef18a4	{Carl's Jr.}	{35.26858127116924,-116.06704831123352,Baker,CA,United States}	{Food,}
+132	Fri Apr 29 18:30:13 +0000 2011	4c26affb136d20a1d5dde561	{Porto's Bakery & Cafe}	{33.9404939261664,-118.13338994979858,Downey,CA,United States}	{Food,}
+132	Fri Apr 29 04:44:14 +0000 2011	3fd66200f964a520cdee1ee3	{Johnnie's Pastrami}	{34.008191203786936,-118.41375589370728,Culver City,CA,United States}	{Food,}
+132	Thu Apr 28 22:55:25 +0000 2011	4b304410f964a52070f824e3	{Costco}	{33.92024641940525,-118.10256069900048,Norwalk,CA,United States}	{Shop & Service,Food & Drink Shop,}
+132	Thu Apr 28 19:49:30 +0000 2011	4c26affb136d20a1d5dde561	{Porto's Bakery & Cafe}	{33.9404939261664,-118.13338994979858,Downey,CA,United States}	{Food,}
+132	Thu Apr 28 03:56:18 +0000 2011	4b020a7af964a520624722e3	{Pizzamania}	{33.78851894067387,-118.10871024512069,Long Beach,CA,United States}	{Food,}
+132	Tue Apr 26 03:00:03 +0000 2011	4b4ead32f964a520e7f326e3	{Niko Niko Sushi}	{33.77400454398552,-118.11943714222575,Long Beach,CA,United States}	{Food,}
+132	Sun Apr 24 16:46:36 +0000 2011	4c1d6efceac020a1794748c2	{St. Dominic Savio Church}	{33.909164543865195,-118.12471176805832,Downey-Norwalk,CA,United States}	{Spiritual Center,Professional & Other Places,}
+132	Sun Apr 24 06:17:28 +0000 2011	4adcb8e9f964a520132f21e3	{Hooters of Costa Mesa}	{33.69081094067202,-117.92112712624903,Costa Mesa,CA,United States}	{Nightlife Spot,Food,}
+132	Sun Apr 24 02:13:03 +0000 2011	4acda2daf964a52076cc20e3	{The Observatory OC}	{33.699814739269875,-117.91819095611572,Santa Ana,CA,United States}	{Music Venue,Arts & Entertainment,}
+132	Sat Apr 23 23:57:51 +0000 2011	4b4a4207f964a520258126e3	{Metro Pointe}	{33.68878159550887,-117.89527416229247,Costa Mesa,CA,United States}	{Shop & Service,}
+132	Sat Apr 23 02:37:30 +0000 2011	4a3ae617f964a52067a01fe3	{Citadel Outlets}	{34.00654806750311,-118.15277695655823,Commerce,CA,United States}	{Outdoors & Recreation,Shop & Service,Food & Drink Shop,}
+132	Thu Apr 21 22:32:06 +0000 2011	4ad51d22f964a520f60121e3	{Claws Restaurant}	{33.78644382265032,-117.9591057187615,Garden Grove,CA,United States}	{Food,}
+132	Sun Apr 17 20:00:59 +0000 2011	49c2dec2f964a5203a561fe3	{Empanada's Place}	{34.01109392126853,-118.41961617398412,Los Angeles,CA,United States}	{Food,}
+132	Sun Apr 17 16:46:13 +0000 2011	4bfc08af6978d13a7370c7e7	{Ryokan College}	{34.00677878,-118.42909441,Los Angeles,CA,United States}	{College & University,}
+132	Sun Apr 17 02:18:41 +0000 2011	4b67acd5f964a520725a2be3	{Olive Garden}	{33.93323076529475,-118.11839705635694,Downey,CA,United States}	{Food,}
+132	Sat Apr 16 10:25:36 +0000 2011	4b4d3a34f964a520ccce26e3	{Norm's Restaurant}	{33.943268109082155,-118.1385176176602,Downey,CA,United States}	{Food,}
+132	Sat Apr 16 05:06:30 +0000 2011	4d4e4eee9a2a6ea86569216f	{Lush}	{33.766146915133554,-118.19234767114172,Long Beach,CA,United States}	{Nightlife Spot,}
+132	Sat Apr 16 03:35:28 +0000 2011	4bd9da5c3f01c9b6a56253a5	{Octopus Japanese Restaurant}	{33.76938820267718,-118.19229054770787,Long Beach,CA,United States}	{Food,}
+132	Fri Apr 15 22:09:13 +0000 2011	4c2bb0e72219c928f6fea448	{Millions of Milkshakes}	{33.98590505,-118.39329528,Culver City,CA,United States}	{Food,}
+132	Fri Apr 15 20:40:44 +0000 2011	4b4d47ccf964a520fecf26e3	{Forever 21}	{33.98415021813989,-118.39442253112793,Culver City,CA,United States}	{Shop & Service,Clothing Store,}
+132	Fri Apr 15 04:36:15 +0000 2011	4a0a463ef964a52098741fe3	{Father's Office}	{34.03034486867974,-118.38460564613342,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+132	Thu Apr 14 18:28:11 +0000 2011	42ae1e00f964a52055251fe3	{Fullerton College}	{33.87504766550658,-117.91819095611572,Fullerton,CA,United States}	{College & University,}
+132	Wed Apr 13 21:46:47 +0000 2011	4d51d615bd6ff04de2c4f50c	{Lazy Dog Cafe}	{33.862644,-118.093082,Cerritos,CA,United States}	{Food,}
+132	Tue Apr 12 01:37:23 +0000 2011	4be86facd837c9b6fb51a506	{Super A Foods}	{33.914097341714516,-118.15129391082016,Paramount,CA,United States}	{Shop & Service,Food & Drink Shop,}
+132	Mon Apr 11 02:26:10 +0000 2011	43be9ebff964a520172d1fe3	{The Melting Pot}	{34.145681963271905,-118.15251092378045,Pasadena,CA,United States}	{Food,}
+132	Mon Apr 11 01:18:50 +0000 2011	4a9db119f964a520f53820e3	{AMC Santa Anita 16}	{34.13525211860911,-118.0491042137146,Arcadia,CA,United States}	{Arts & Entertainment,Movie Theater,}
+132	Sun Apr 10 19:38:29 +0000 2011	4abbcdfcf964a520038520e3	{Los Angeles County Arboretum and Botanic Garden}	{34.143951425469716,-118.05144140301799,Arcadia,CA,United States}	{Outdoors & Recreation,}
+132	Sun Apr 10 07:48:37 +0000 2011	4b4d3a34f964a520ccce26e3	{Norm's Restaurant}	{33.943268109082155,-118.1385176176602,Downey,CA,United States}	{Food,}
+132	Sun Apr 10 04:58:01 +0000 2011	4ae2d384f964a5207b8f21e3	{Four Points by Sheraton Los Angeles Westside}	{33.98312886545774,-118.39359499759698,Culver City,CA,United States}	{Travel & Transport,}
+132	Sat Apr 09 23:15:53 +0000 2011	4c26affb136d20a1d5dde561	{Porto's Bakery & Cafe}	{33.9404939261664,-118.13338994979858,Downey,CA,United States}	{Food,}
+132	Sat Apr 09 21:34:59 +0000 2011	4da0cc722939b1f75a18e756	{Dental Smiles}	{33.90188276767731,-118.08686971664429,Norwalk,CA,United States}	{Medical Center,Professional & Other Places,}
+132	Sat Apr 09 03:43:17 +0000 2011	4c4e3936fa9d9521b9c53c0a	{Gatten Revolving Sushi Bar}	{33.85762248285557,-118.09285640716553,Cerritos,CA,United States}	{Food,}
+132	Fri Apr 08 16:04:29 +0000 2011	4be193ef1a44a593b5099287	{Little Tokyo Service Center}	{34.047994365279834,-118.24295159395977,Los Angeles,CA,United States}	{Professional & Other Places,}
+132	Mon Apr 04 02:53:57 +0000 2011	4b418339f964a52047c725e3	{RA Sushi}	{34.00073312285557,-117.72907608413546,Chino Hills,CA,United States}	{Food,}
+132	Sun Apr 03 20:07:26 +0000 2011	4a4bc571f964a520b3ac1fe3	{Sunny Grill}	{34.005828,-118.43010127544403,Los Angeles,CA,United States}	{Food,}
+132	Sun Apr 03 17:58:36 +0000 2011	4bfc08af6978d13a7370c7e7	{Ryokan College}	{34.00677878,-118.42909441,Los Angeles,CA,United States}	{College & University,}
+132	Sat Apr 02 10:03:52 +0000 2011	4b4d3a34f964a520ccce26e3	{Norm's Restaurant}	{33.943268109082155,-118.1385176176602,Downey,CA,United States}	{Food,}
+132	Sat Apr 02 07:06:11 +0000 2011	4d4e4eee9a2a6ea86569216f	{Lush}	{33.766146915133554,-118.19234767114172,Long Beach,CA,United States}	{Nightlife Spot,}
+132	Fri Apr 01 22:05:33 +0000 2011	4c2fb33b213c2d7f7d5c315d	{Salon 25}	{33.82890873,-118.0290689,Cypress,CA,United States}	{Shop & Service,}
+132	Fri Apr 01 05:57:44 +0000 2011	4415b1c5f964a520fd301fe3	{Full House Seafood Restaurant}	{34.066134211361266,-118.23797464370728,Los Angeles,CA,United States}	{Food,}
+132	Fri Apr 01 05:33:02 +0000 2011	42d30800f964a5200f261fe3	{Mountain Bar}	{34.06508545894844,-118.2373309135437,Chinatown Los Angeles,CA,United States}	{Nightlife Spot,}
+132	Fri Apr 01 05:04:31 +0000 2011	4b427d9af964a520f0d425e3	{Mikawaya}	{34.04885258293034,-118.23999166488647,Los Angeles,CA,United States}	{Food,}
+132	Fri Apr 01 03:04:27 +0000 2011	4a562876f964a52096b41fe3	{Far Bar}	{34.049742,-118.23946818,Los Angeles,CA,United States}	{Nightlife Spot,}
+132	Fri Apr 01 00:58:50 +0000 2011	49ef5a6ef964a520a6681fe3	{Spitz}	{34.04816364468933,-118.24002116918564,Los Angeles,CA,United States}	{Food,}
+132	Tue Mar 29 17:21:38 +0000 2011	41be2d00f964a520841e1fe3	{Little Tokyo}	{34.0489487969639,-118.24025042908596,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+132	Tue Mar 29 05:00:41 +0000 2011	4ad262b2f964a5204ce120e3	{Dave & Buster's}	{33.78495253624139,-117.89393305778503,Orange,CA,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+132	Mon Mar 28 19:52:36 +0000 2011	4a31c627f964a520239a1fe3	{Curry House}	{34.050133916592,-118.24221491685049,Los Angeles,CA,United States}	{Food,}
+132	Mon Mar 28 14:51:01 +0000 2011	4b672b32f964a5201e3f2be3	{Big Boy Restaurant}	{33.804144304510544,-118.1688226451812,Signal Hill,CA,United States}	{Food,}
+132	Mon Mar 28 14:32:00 +0000 2011	4b9525ecf964a520779134e3	{Long Beach BMW}	{33.81112433458011,-118.16688588702698,Signal Hill,CA,United States}	{Shop & Service,}
+132	Mon Mar 28 01:35:58 +0000 2011	4c36962e2c8020a1e4b08700	{Cham Sut Gol Korean BBQ}	{33.77336534348835,-117.96950423800753,Garden Grove,CA,United States}	{Food,}
+132	Sun Mar 27 19:02:19 +0000 2011	4b85f182f964a520c17a31e3	{LA Market}	{34.04517447684542,-118.26650261878967,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+132	Sun Mar 27 10:28:17 +0000 2011	4b6900daf964a52092962be3	{JW Marriott LA Live}	{34.04530782486832,-118.26658844947815,Los Angeles,CA,United States}	{Nightlife Spot,Travel & Transport,Food,}
+132	Sun Mar 27 07:59:44 +0000 2011	4affacbbf964a520e73922e3	{Seven Bar Lounge}	{34.04743747699604,-118.25656527364856,Los Angeles,CA,United States}	{Nightlife Spot,}
+132	Sun Mar 27 06:47:04 +0000 2011	40ec8e80f964a5202a0a1fe3	{The Standard, Downtown LA}	{34.04978277912779,-118.25658240427495,Los Angeles,CA,United States}	{Nightlife Spot,Travel & Transport,}
+132	Sun Mar 27 03:35:23 +0000 2011	4b6900daf964a52092962be3	{JW Marriott LA Live}	{34.04530782486832,-118.26658844947815,Los Angeles,CA,United States}	{Nightlife Spot,Travel & Transport,Food,}
+132	Sun Mar 27 03:20:41 +0000 2011	4b6900daf964a52092962be3	{JW Marriott LA Live}	{34.04530782486832,-118.26658844947815,Los Angeles,CA,United States}	{Nightlife Spot,Travel & Transport,Food,}
+132	Sat Mar 26 21:34:20 +0000 2011	4aa30ecaf964a5202b4320e3	{BJ's Restaurant & Brewhouse}	{33.86628843102686,-118.09800555210603,Cerritos,CA,United States}	{Nightlife Spot,Food,}
+132	Sat Mar 26 05:00:19 +0000 2011	4d2dee1a774f76ebd6fd9533	{UA Los Cerritos Galaxy Stadium 11}	{33.85908362658377,-118.09167087078094,Cerritos,CA,United States}	{Arts & Entertainment,Movie Theater,}
+132	Sat Mar 26 03:16:47 +0000 2011	4c4e3936fa9d9521b9c53c0a	{Gatten Revolving Sushi Bar}	{33.85762248285557,-118.09285640716553,Cerritos,CA,United States}	{Food,}
+132	Wed Mar 23 19:04:20 +0000 2011	4b452825f964a5208b0626e3	{Tenno Sushi}	{34.04755,-118.239405,Los Angeles,CA,United States}	{Food,}
+132	Mon Mar 21 04:16:01 +0000 2011	4b75f99af964a52088332ee3	{Flying J}	{34.8177238245642,-118.885377509201,Frazier Park,CA,United States}	{Shop & Service,Food,}
+132	Mon Mar 21 01:02:04 +0000 2011	4b3fedbff964a52052b225e3	{Starbucks}	{34.98470316546557,-118.9470836520195,Lebec,CA,United States}	{Food,}
+132	Sun Mar 20 20:57:54 +0000 2011	4a5104ebf964a52070b01fe3	{Harris Ranch Inn & Restaurant}	{36.253894557402425,-120.23759365081787,Coalinga,CA,United States}	{Travel & Transport,Food,}
+132	Sun Mar 20 00:56:18 +0000 2011	4c701226d274b60c7770d80d	{The Boiling Crab}	{38.50062390460539,-121.43237829208374,Sacramento,CA,United States}	{Food,}
+132	Sat Mar 19 16:50:19 +0000 2011	4a7bbac1f964a520b4eb1fe3	{California State University, Sacramento}	{38.560884837212676,-121.42501831054688,Sacramento,CA,United States}	{College & University,}
+132	Fri Mar 18 19:23:11 +0000 2011	4aaaa595f964a520c75620e3	{In-N-Out Burger}	{35.986153078419015,-119.95924070309573,Kettleman City,CA,United States}	{Food,}
+132	Fri Mar 18 14:54:57 +0000 2011	4ae93d2ef964a5209db421e3	{McDonald's}	{34.01931964280408,-118.40697977835033,Los Angeles,CA,United States}	{Food,}
+132	Wed Mar 16 03:27:31 +0000 2011	4b703e85f964a520ad0d2de3	{Starbucks}	{33.84627261485322,-118.08167006242032,Cerritos,CA,United States}	{Food,}
+132	Tue Mar 15 17:51:21 +0000 2011	4d080170d8b96a31ccd9748f	{Miracle Marrow Matches (A3M)}	{34.04793053,-118.2416901,Los Angeles,CA,United States}	{Professional & Other Places,}
+132	Sun Mar 13 03:17:58 +0000 2011	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+132	Sun Mar 13 01:00:17 +0000 2011	4ad51d22f964a520f60121e3	{Claws Restaurant}	{33.78644382265032,-117.9591057187615,Garden Grove,CA,United States}	{Food,}
+132	Sat Mar 12 20:13:04 +0000 2011	4aea4b20f964a520cdba21e3	{Kabuki Japanese Restaurant}	{33.85883731090582,-118.08967224177616,Cerritos,CA,United States}	{Food,}
+132	Sat Mar 12 08:48:15 +0000 2011	4415b1c5f964a520fd301fe3	{Full House Seafood Restaurant}	{34.066134211361266,-118.23797464370728,Los Angeles,CA,United States}	{Food,}
+132	Sat Mar 12 06:29:39 +0000 2011	42d30800f964a5200f261fe3	{Mountain Bar}	{34.06508545894844,-118.2373309135437,Chinatown Los Angeles,CA,United States}	{Nightlife Spot,}
+132	Sat Mar 12 01:28:58 +0000 2011	4a562876f964a52096b41fe3	{Far Bar}	{34.049742,-118.23946818,Los Angeles,CA,United States}	{Nightlife Spot,}
+132	Thu Mar 10 19:07:49 +0000 2011	4b11ac2bf964a520ef8123e3	{Tommy Trojan}	{34.02052371646544,-118.28535318374634,Los Angeles,CA,United States}	{Outdoors & Recreation,College & University,}
+132	Thu Mar 10 19:07:16 +0000 2011	45001adcf964a520ab381fe3	{University of Southern California}	{34.02034142086885,-118.28520298004149,Los Angeles,CA,United States}	{College & University,}
+132	Tue Mar 08 19:43:56 +0000 2011	45d5d203f964a520cc421fe3	{California State Polytechnic University, Pomona}	{34.05783677953327,-117.81957715247381,Pomona,CA,United States}	{College & University,}
+132	Tue Mar 08 02:51:00 +0000 2011	4aa30ecaf964a5202b4320e3	{BJ's Restaurant & Brewhouse}	{33.86628843102686,-118.09800555210603,Cerritos,CA,United States}	{Nightlife Spot,Food,}
+132	Sat Mar 05 06:18:43 +0000 2011	4b4b87a2f964a520479f26e3	{Geisha House}	{33.773225795244585,-117.86686420440674,Santa Ana,CA,United States}	{Shop & Service,Food,}
+132	Fri Mar 04 10:07:58 +0000 2011	4b08f84ef964a520a51323e3	{Molcasalsa Mexican Food}	{33.917615709068066,-117.93231010437012,Fullerton,CA,United States}	{Food,}
+132	Fri Mar 04 06:38:49 +0000 2011	4a72841bf964a5202adb1fe3	{The Crosby}	{33.748176,-117.869786,Santa Ana,CA,United States}	{Nightlife Spot,}
+132	Fri Mar 04 01:45:17 +0000 2011	45468adaf964a5207c3c1fe3	{Gaby's Mediterranean}	{34.02011757631849,-118.4050172005423,Los Angeles,CA,United States}	{Food,}
+132	Thu Mar 03 19:05:40 +0000 2011	4bc7da668b7c9c74225837cf	{Minneapolis-St. Paul International Airport (MSP)}	{44.884397546192474,-93.21178436279297,Minneapolis,MN,United States}	{Travel & Transport,}
+132	Thu Mar 03 03:45:28 +0000 2011	41326e00f964a52054161fe3	{5-8 Club}	{44.89771214601248,-93.24795961577873,Minneapolis,MN,United States}	{Food,}
+132	Thu Mar 03 00:43:33 +0000 2011	4412be02f964a520d6301fe3	{Mall of America}	{44.854712760838005,-93.24203968048096,Bloomington,MN,United States}	{Shop & Service,}
+132	Tue Mar 01 23:32:53 +0000 2011	4d208700c03c5941c16d48cc	{White Castle}	{44.82954600583103,-93.28922120727903,Bloomington,MN,United States}	{Food,}
+132	Mon Feb 28 21:18:51 +0000 2011	4484604af964a52020341fe3	{TGI Fridays}	{44.86250041523434,-93.3512806892395,Minneapolis,MN,United States}	{Food,}
+132	Mon Feb 28 21:17:49 +0000 2011	4a4ed5f2f964a52025af1fe3	{Sofitel Minneapolis}	{44.86045217672134,-93.3544508973602,Minneapolis,MN,United States}	{Travel & Transport,Hotel,}
+132	Mon Feb 28 19:03:32 +0000 2011	4bc7da668b7c9c74225837cf	{Minneapolis-St. Paul International Airport (MSP)}	{44.884397546192474,-93.21178436279297,Minneapolis,MN,United States}	{Travel & Transport,}
+132	Mon Feb 28 14:21:10 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+132	Sun Feb 27 00:53:15 +0000 2011	4bf42804ff90c9b6c4e85428	{Mr. Petes Burgers}	{33.924736,-118.116405,Downey,CA,United States}	{Food,}
+132	Sat Feb 26 08:16:05 +0000 2011	4c029fb258dad13abaf34797	{M&M Donuts}	{33.80282938167959,-117.93776035308838,Anaheim,CA,United States}	{Food,}
+132	Sat Feb 26 04:13:34 +0000 2011	4a72841bf964a5202adb1fe3	{The Crosby}	{33.748176,-117.869786,Santa Ana,CA,United States}	{Nightlife Spot,}
+132	Wed Feb 23 18:35:31 +0000 2011	40b68100f964a5206a001fe3	{California State University, Long Beach (CSULB)}	{33.782775296708536,-118.11449408964512,Long Beach,CA,United States}	{College & University,}
+132	Wed Feb 23 05:26:06 +0000 2011	4ada047df964a5204a1d21e3	{Starbucks}	{33.858813,-118.090519,Cerritos,CA,United States}	{Food,}
+132	Wed Feb 23 00:50:46 +0000 2011	4d3a368e49cb236a7cd3b747	{The Habit Burger Grill}	{33.98305558657383,-117.7132570420989,Chino Hills,CA,United States}	{Food,}
+132	Tue Feb 22 04:02:44 +0000 2011	4a5d5de6f964a52099bd1fe3	{The Donut Man}	{34.12889349794198,-117.84974098205566,Glendora,CA,United States}	{Food,}
+132	Mon Feb 21 01:39:11 +0000 2011	49d7ec9ef964a5207b5d1fe3	{Target}	{34.004964934543764,-117.82137393951416,Diamond Bar,CA,United States}	{Shop & Service,}
+132	Sun Feb 20 18:57:26 +0000 2011	4b535e15f964a520579927e3	{Mimi's Cafe}	{33.93863876,-118.129799,Downey,CA,United States}	{Food,}
+132	Sat Feb 19 09:26:52 +0000 2011	4b69d2ecf964a5207cb62be3	{Albert's Mexican Food}	{33.91685614587066,-118.08588268372534,Norwalk,CA,United States}	{Food,}
+132	Sat Feb 19 07:36:41 +0000 2011	4c959bbd03413704c9bf7def	{Liv Lounge}	{34.14602374957155,-118.15416216248143,Pasadena,CA,United States}	{Nightlife Spot,}
+132	Wed Feb 16 17:22:56 +0000 2011	4b7429a9f964a520a5ca2de3	{Chevron}	{33.91729923,-118.11697733,Downey,CA,United States}	{Shop & Service,}
+132	Tue Feb 15 18:45:16 +0000 2011	4116be80f964a520030c1fe3	{UCLA}	{34.06960033461544,-118.4469723701477,Los Angeles,CA,United States}	{College & University,}
+132	Tue Feb 15 18:44:52 +0000 2011	4bb10a5ef964a5200e753ce3	{UCLA Court of Sciences}	{34.068818247397154,-118.44224095344543,Los Angeles,CA,United States}	{Outdoors & Recreation,College & University,}
+132	Mon Feb 14 05:20:45 +0000 2011	4ae0a807f964a5205a8121e3	{Regal LA LIVE Stadium 14}	{34.04569008803841,-118.26687812805174,Los Angeles,CA,United States}	{Arts & Entertainment,Movie Theater,}
+132	Mon Feb 14 03:13:59 +0000 2011	4b8f2192f964a5207f4a33e3	{Yojie Japanese Fondue}	{34.04312817627911,-118.26066515463641,Los Angeles,CA,United States}	{Food,}
+132	Mon Feb 14 00:04:08 +0000 2011	49dceedcf964a520bf5f1fe3	{Fosselman's Ice Cream Co.}	{34.091407,-118.1439471244812,Alhambra,CA,United States}	{Food,}
+132	Sun Feb 13 20:41:34 +0000 2011	4bbe9fd998f49521ed9dd163	{The Huntington Library, Art Collections & Botanical Gardens}	{34.128147483160625,-118.11444282531738,San Marino,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,Professional & Other Places,}
+132	Sun Feb 13 03:32:13 +0000 2011	4b00db29f964a520534122e3	{Sgt. Pepper's Dueling Piano Bar}	{33.76455678448416,-118.19242000579834,Long Beach,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+132	Sat Feb 12 08:23:03 +0000 2011	4b1a9190f964a5207eec23e3	{Denny's}	{33.80850594788234,-117.91502058506012,Anaheim,CA,United States}	{Food,}
+132	Sat Feb 12 06:33:06 +0000 2011	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+132	Thu Feb 10 17:43:46 +0000 2011	41be2d00f964a520841e1fe3	{Little Tokyo}	{34.0489487969639,-118.24025042908596,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+132	Sun Feb 06 22:48:30 +0000 2011	4c26affb136d20a1d5dde561	{Porto's Bakery & Cafe}	{33.9404939261664,-118.13338994979858,Downey,CA,United States}	{Food,}
+132	Sun Feb 06 19:50:56 +0000 2011	49e4de7df964a52061631fe3	{The Curious Palate}	{34.00551795959473,-118.429806,Los Angeles,CA,United States}	{Food,}
+132	Sun Feb 06 02:05:18 +0000 2011	4c36962e2c8020a1e4b08700	{Cham Sut Gol Korean BBQ}	{33.77336534348835,-117.96950423800753,Garden Grove,CA,United States}	{Food,}
+132	Sat Feb 05 03:48:58 +0000 2011	4cf981dec6cca35d886c8032	{SGV Food Truck Fest - Southlands Christian School}	{33.993437413945855,-117.91306257247925,Walnut,CA,United States}	{Food,}
+132	Sat Feb 05 03:48:51 +0000 2011	4b6f9c25f964a520caf72ce3	{SpeedZone}	{33.99339869799139,-117.913002933849,City of Industry,CA,United States}	{Food,Arts & Entertainment,}
+132	Thu Feb 03 06:22:28 +0000 2011	4ad96166f964a520061a21e3	{Mai Tai Bar}	{33.763393,-118.19569766521454,Long Beach,CA,United States}	{Nightlife Spot,}
+132	Thu Feb 03 05:15:52 +0000 2011	4c1d73d5b9f876b0b7b67d46	{33 Degrees Harborside Pub}	{33.76056535558777,-118.19104135036469,Long Beach,CA,United States}	{Food,}
+132	Thu Feb 03 05:15:42 +0000 2011	44e246f9f964a52027371fe3	{Shoreline Village at Rainbow Harbor}	{33.760738571555386,-118.19079390701148,Long Beach,CA,United States}	{Nightlife Spot,Shop & Service,}
+132	Tue Feb 01 17:39:24 +0000 2011	4b456cdef964a520850c26e3	{Japanese American Cultural & Community Center - JACCC}	{34.048089756341376,-118.24170666490669,Los Angeles,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+132	Tue Feb 01 03:28:39 +0000 2011	4b703e85f964a520ad0d2de3	{Starbucks}	{33.84627261485322,-118.08167006242032,Cerritos,CA,United States}	{Food,}
+132	Tue Feb 01 01:27:23 +0000 2011	4b6203f1f964a520ae302ae3	{Ma Dang Sae BBQ}	{33.83838441346491,-118.08151001511418,Lakewood,CA,United States}	{Food,}
+132	Mon Jan 31 18:22:26 +0000 2011	4c26affb136d20a1d5dde561	{Porto's Bakery & Cafe}	{33.9404939261664,-118.13338994979858,Downey,CA,United States}	{Food,}
+132	Mon Jan 31 17:33:48 +0000 2011	4b919332f964a520ccc633e3	{Carnival Cruise Paradise}	{33.751391054166746,-118.18774223327637,Long Beach,CA,United States}	{Nightlife Spot,Travel & Transport,}
+132	Mon Jan 31 17:33:21 +0000 2011	4bccd6e3511f9521e8beb3c7	{Long Beach Cruise Terminal}	{33.750891501550804,-118.18954467773438,Long Beach,CA,United States}	{Travel & Transport,}
+132	Fri Jan 28 21:54:59 +0000 2011	4bccd6e3511f9521e8beb3c7	{Long Beach Cruise Terminal}	{33.750891501550804,-118.18954467773438,Long Beach,CA,United States}	{Travel & Transport,}
+132	Fri Jan 28 21:54:49 +0000 2011	4b919332f964a520ccc633e3	{Carnival Cruise Paradise}	{33.751391054166746,-118.18774223327637,Long Beach,CA,United States}	{Nightlife Spot,Travel & Transport,}
+132	Thu Jan 27 22:02:17 +0000 2011	4b254673f964a520286f24e3	{Nordstrom}	{33.86314618750543,-118.09322118759155,Cerritos,CA,United States}	{Shop & Service,Food,}
+132	Thu Jan 27 19:15:55 +0000 2011	4bffed4b369476b071868e1f	{St Joseph High School}	{33.86194434605144,-118.11816275044399,Long Beach-Lakewood,CA,United States}	{School,Professional & Other Places,}
+132	Thu Jan 27 19:15:55 +0000 2011	4bffed4b369476b071868e1f	{St Joseph High School}	{33.86194434605144,-118.11816275044399,Long Beach-Lakewood,CA,United States}	{School,Professional & Other Places,}
+132	Wed Jan 26 19:02:01 +0000 2011	4c1d6efceac020a1794748c2	{St. Dominic Savio Church}	{33.909164543865195,-118.12471176805832,Downey-Norwalk,CA,United States}	{Spiritual Center,Professional & Other Places,}
+132	Tue Jan 25 20:25:29 +0000 2011	4a2424c8f964a520fa7d1fe3	{Se?or Fish}	{34.04891258696375,-118.23836356401443,Los Angeles,CA,United States}	{Food,}
+132	Tue Jan 25 05:49:19 +0000 2011	4aa30ecaf964a5202b4320e3	{BJ's Restaurant & Brewhouse}	{33.86628843102686,-118.09800555210603,Cerritos,CA,United States}	{Nightlife Spot,Food,}
+132	Mon Jan 24 18:53:56 +0000 2011	41be2d00f964a520841e1fe3	{Little Tokyo}	{34.0489487969639,-118.24025042908596,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+132	Sun Jan 23 19:59:18 +0000 2011	49e4de7df964a52061631fe3	{The Curious Palate}	{34.00551795959473,-118.429806,Los Angeles,CA,United States}	{Food,}
+132	Sat Jan 22 19:17:17 +0000 2011	4b4ead32f964a520e7f326e3	{Niko Niko Sushi}	{33.77400454398552,-118.11943714222575,Long Beach,CA,United States}	{Food,}
+132	Sat Jan 22 04:29:15 +0000 2011	4ab6d71ff964a520427920e3	{Michael's Cajun Seafood}	{33.98661438359079,-117.8726282893605,Rowland Heights,CA,United States}	{Food,}
+132	Fri Jan 21 20:18:04 +0000 2011	4c2fb33b213c2d7f7d5c315d	{Salon 25}	{33.82890873,-118.0290689,Cypress,CA,United States}	{Shop & Service,}
+132	Fri Jan 21 19:11:45 +0000 2011	4bffed4b369476b071868e1f	{St Joseph High School}	{33.86194434605144,-118.11816275044399,Long Beach-Lakewood,CA,United States}	{School,Professional & Other Places,}
+132	Tue Jan 18 03:12:39 +0000 2011	4b09efa2f964a520132023e3	{Pacific Fish Grill}	{34.00118931014557,-117.7292937040329,Chino Hills,CA,United States}	{Food,}
+132	Sun Jan 16 09:27:34 +0000 2011	4a2014fcf964a520477c1fe3	{Roscoe's House of Chicken and Waffles - Long Beach}	{33.769155616621795,-118.18314358592033,Long Beach,CA,United States}	{Food,}
+132	Sun Jan 16 06:42:39 +0000 2011	4bca82f5511f9521ce0fb0c7	{Kavikas Grill & Bar}	{33.763609,-118.19556891918182,Long Beach,CA,United States}	{Nightlife Spot,Food,}
+132	Fri Jan 14 05:52:54 +0000 2011	49cc1e1ef964a52049591fe3	{Alibi Room}	{33.99697322026012,-118.42668414115906,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+132	Thu Jan 13 04:21:06 +0000 2011	4c7d470f01589521db020063	{Elbows Mac N Cheese}	{33.858958895778045,-118.09049069881439,Cerritos,CA,United States}	{Food,}
+132	Wed Jan 12 20:32:57 +0000 2011	4b81a127f964a520e0b330e3	{Victoria's Secret PINK}	{33.986393893728824,-118.44188014538435,Marina del Rey,CA,United States}	{Shop & Service,Clothing Store,}
+132	Tue Jan 11 05:22:39 +0000 2011	4a0a463ef964a52098741fe3	{Father's Office}	{34.03034486867974,-118.38460564613342,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+132	Sun Jan 09 04:02:53 +0000 2011	49bd9bbcf964a5208a541fe3	{SONIC Drive In}	{33.85862479450807,-117.91936039924622,Anaheim,CA,United States}	{Food,}
+132	Sat Jan 08 19:47:41 +0000 2011	4a7f0212f964a5207af21fe3	{Eggs-N-Things}	{34.199202451277415,-118.8677117228508,Thousand Oaks,CA,United States}	{Food,}
+132	Fri Jan 07 23:02:42 +0000 2011	4cfab261c671721ec00fbf18	{The Shoppes at Chino Hills}	{34.00101043462731,-117.72979197563947,Chino Hills,CA,United States}	{Shop & Service,}
+132	Thu Jan 06 18:20:49 +0000 2011	41be2d00f964a520841e1fe3	{Little Tokyo}	{34.0489487969639,-118.24025042908596,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+132	Tue Jan 04 19:42:05 +0000 2011	4d080170d8b96a31ccd9748f	{Miracle Marrow Matches (A3M)}	{34.04793053,-118.2416901,Los Angeles,CA,United States}	{Professional & Other Places,}
+132	Tue Jan 04 02:22:25 +0000 2011	4bfc08af6978d13a7370c7e7	{Ryokan College}	{34.00677878,-118.42909441,Los Angeles,CA,United States}	{College & University,}
+132	Mon Jan 03 06:11:05 +0000 2011	4b69d2ecf964a5207cb62be3	{Albert's Mexican Food}	{33.91685614587066,-118.08588268372534,Norwalk,CA,United States}	{Food,}
+132	Mon Jan 03 02:32:12 +0000 2011	42893400f964a5207e231fe3	{STAPLES Center}	{34.043058660157634,-118.26724290847778,Los Angeles,CA,United States}	{Stadium,Arts & Entertainment,}
+132	Mon Jan 03 00:59:45 +0000 2011	49f8d75cf964a5202b6d1fe3	{ESPN Zone}	{34.04408101514834,-118.26549410820007,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+132	Mon Jan 03 00:58:34 +0000 2011	4b098edff964a520651923e3	{LA Live}	{34.044232144840485,-118.26591789722443,Los Angeles,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+132	Sun Jan 02 19:39:19 +0000 2011	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+132	Sat Jan 01 12:08:28 +0000 2011	4d1f193a86e15481229daf3a	{Razons}	{33.941762,-118.397944,Apalit, pampanga,CA,United States}	{}
+132	Mon Dec 27 09:02:19 +0000 2010	4baab35af964a520fb803ae3	{Crowne Plaza}	{14.590620534470641,121.06082260608672,Quezon City,Metro Manila,Philippines}	{Travel & Transport,}
+132	Sun Dec 26 02:49:25 +0000 2010	4b69ef23f964a520efbc2be3	{Ninoy Aquino International Airport (MNL) Terminal 2}	{14.509494364361485,121.01296737288645,Pasay City,Metro Manila,Philippines}	{Travel & Transport,Airport,}
+132	Sat Dec 25 22:29:22 +0000 2010	4bdc2aa12a3a0f477eb0b1b6	{Taipei Songshan Airport (TSA) ??????}	{25.063345304785013,121.55174732208252,???,???,Taiwan}	{Travel & Transport,}
+132	Sat Dec 25 03:22:43 +0000 2010	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+132	Sat Dec 25 03:20:51 +0000 2010	439ec330f964a520102c1fe3	{Los Angeles International Airport (LAX)}	{33.94389397698472,-118.40502262115479,Los Angeles,CA,United States}	{Travel & Transport,}
+132	Fri Dec 24 02:08:01 +0000 2010	4c4e3936fa9d9521b9c53c0a	{Gatten Revolving Sushi Bar}	{33.85762248285557,-118.09285640716553,Cerritos,CA,United States}	{Food,}
+132	Thu Dec 23 10:18:30 +0000 2010	4b69d2ecf964a5207cb62be3	{Albert's Mexican Food}	{33.91685614587066,-118.08588268372534,Norwalk,CA,United States}	{Food,}
+132	Thu Dec 23 05:26:37 +0000 2010	4ad96166f964a520061a21e3	{Mai Tai Bar}	{33.763393,-118.19569766521454,Long Beach,CA,United States}	{Nightlife Spot,}
+132	Wed Dec 22 16:05:56 +0000 2010	4c16819bcd4bc9b612844eeb	{Panera Bread}	{33.858153,-118.09294115,Cerritos,CA,United States}	{Food,}
+132	Wed Dec 22 13:56:07 +0000 2010	4adf55e4f964a520907921e3	{Purple Yoga}	{33.87236347939848,-117.92546369308837,Fullerton,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+132	Mon Dec 20 20:08:10 +0000 2010	4b1f1e69f964a520242424e3	{Roy's Hawaiian Fusion}	{34.04772583264009,-118.26120257377623,Los Angeles,CA,United States}	{Food,}
+132	Sun Dec 19 00:18:56 +0000 2010	4c26affb136d20a1d5dde561	{Porto's Bakery & Cafe}	{33.9404939261664,-118.13338994979858,Downey,CA,United States}	{Food,}
+132	Sat Dec 18 00:26:22 +0000 2010	4b905138f964a520b38333e3	{Historic Filipinotown}	{34.06887157175501,-118.26576232910156,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+132	Sat Dec 18 00:25:31 +0000 2010	4bc226c7f8219c745c62b410	{SIPA (Search to Involve Pilipino Americans)}	{34.07539474,-118.28169605,Los Angeles,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+132	Fri Dec 17 23:41:28 +0000 2010	4bb796bd1261d13ab986e798	{Weller Court}	{34.050039858002684,-118.24198648919699,Los Angeles,CA,United States}	{Shop & Service,Food,}
+132	Fri Dec 17 22:49:18 +0000 2010	4b09d836f964a520a61e23e3	{Vespa Of Los Angeles}	{34.04609318360248,-118.23955371581046,Los Angeles,CA,United States}	{Shop & Service,}
+132	Fri Dec 17 18:52:00 +0000 2010	4c26affb136d20a1d5dde561	{Porto's Bakery & Cafe}	{33.9404939261664,-118.13338994979858,Downey,CA,United States}	{Food,}
+132	Fri Dec 17 05:36:15 +0000 2010	4c8d4c973ad9ef3b1bc1e3c0	{Haunted Mansion Holiday}	{33.81172071871212,-117.92212441563606,Anaheim,CA,United States}	{Outdoors & Recreation,Arts & Entertainment,}
+132	Fri Dec 17 03:21:32 +0000 2010	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+132	Fri Dec 17 02:57:35 +0000 2010	4cae76dfef1b3704fa172b00	{ElecTRONica}	{33.80761671091488,-117.91839480400085,Anaheim,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+132	Fri Dec 17 01:38:15 +0000 2010	45db8eb5f964a520fd421fe3	{Disney California Adventure Park}	{33.80798489664312,-117.91896778777333,Anaheim,CA,United States}	{Arts & Entertainment,}
+132	Fri Dec 17 01:21:18 +0000 2010	4ac7e458f964a52064ba20e3	{Mickey & Friends Tram}	{33.813526,-117.924671,Anaheim,CA,United States}	{Travel & Transport,Arts & Entertainment,Theme Park,}
+132	Thu Dec 16 22:20:11 +0000 2010	4a887641f964a520850620e3	{Slaters 50/50}	{33.85653554361118,-117.7708566109401,Anaheim,CA,United States}	{Nightlife Spot,Food,}
+132	Thu Dec 16 19:44:31 +0000 2010	40b68100f964a5206a001fe3	{California State University, Long Beach (CSULB)}	{33.782775296708536,-118.11449408964512,Long Beach,CA,United States}	{College & University,}
+132	Wed Dec 15 18:43:06 +0000 2010	4d080170d8b96a31ccd9748f	{Miracle Marrow Matches (A3M)}	{34.04793053,-118.2416901,Los Angeles,CA,United States}	{Professional & Other Places,}
+132	Tue Dec 14 20:09:52 +0000 2010	4a47cdc4f964a52022aa1fe3	{Ebisu Japanese Tavern}	{34.0482982311931,-118.24031324735694,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+132	Sun Dec 12 23:12:30 +0000 2010	43ba62b4f964a520e72c1fe3	{Norman Y. Mineta San Jos? International Airport (SJC)}	{37.36662498287745,-121.9263043999672,San Jose,CA,United States}	{Travel & Transport,}
+132	Sun Dec 12 22:08:10 +0000 2010	4cbcbf8e4495721efc375c7a	{Sushi One}	{37.428284,-121.911498,Milpitas,CA,United States}	{Food,}
+132	Sun Dec 12 00:23:56 +0000 2010	4a73f31af964a520a0dd1fe3	{Great Mall}	{37.41577732983742,-121.8976879119873,Milpitas,CA,United States}	{Shop & Service,}
+132	Fri Dec 10 06:46:03 +0000 2010	4bf42804ff90c9b6c4e85428	{Mr. Petes Burgers}	{33.924736,-118.116405,Downey,CA,United States}	{Food,}
+132	Sat Dec 04 18:38:55 +0000 2010	40b68100f964a5206a001fe3	{California State University, Long Beach (CSULB)}	{33.782775296708536,-118.11449408964512,Long Beach,CA,United States}	{College & University,}
+132	Sat Dec 04 07:45:46 +0000 2010	3fd66200f964a5205def1ee3	{The Room}	{34.100754,-118.329383,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+132	Sat Dec 04 07:05:10 +0000 2010	42893400f964a5205e231fe3	{Beauty Bar}	{34.101007,-118.329524,Hollywood,CA,United States}	{Nightlife Spot,}
+132	Sat Dec 04 04:35:44 +0000 2010	466e61c5f964a520b6471fe3	{The Foundry On Melrose}	{34.083741092221686,-118.35269540548325,Los Angeles,CA,United States}	{Nightlife Spot,Music Venue,Food,Arts & Entertainment,}
+132	Thu Dec 02 06:04:05 +0000 2010	4c029fb258dad13abaf34797	{M&M Donuts}	{33.80282938167959,-117.93776035308838,Anaheim,CA,United States}	{Food,}
+132	Mon Nov 29 17:59:26 +0000 2010	41be2d00f964a520841e1fe3	{Little Tokyo}	{34.0489487969639,-118.24025042908596,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+132	Sat Nov 27 06:07:16 +0000 2010	461fa3a3f964a5207f451fe3	{Victoria Gardens Mall}	{34.111562,-117.532817,Rancho Cucamonga,CA,United States}	{Shop & Service,}
+132	Sat Nov 27 05:17:36 +0000 2010	4ae27e2cf964a5209e8e21e3	{Grizzly Cafe}	{34.3594199,-117.630051,Wrightwood,CA,United States}	{Food,}
+132	Thu Nov 25 03:27:30 +0000 2010	4abeba76f964a5209b8f20e3	{Mr. Lee's BBQ}	{33.85831742018526,-118.0701756477356,Artesia,CA,United States}	{Food,}
+132	Sun Nov 21 21:42:13 +0000 2010	4b9d5e46f964a5204da736e3	{Pump It Up}	{33.990212320443504,-117.70601717698406,Chino,CA,United States}	{Arts & Entertainment,}
+132	Sat Nov 20 21:37:27 +0000 2010	4c26affb136d20a1d5dde561	{Porto's Bakery & Cafe}	{33.9404939261664,-118.13338994979858,Downey,CA,United States}	{Food,}
+132	Sat Nov 20 16:08:15 +0000 2010	4b5107c7f964a5208f3e27e3	{BCBG Max Azria Group}	{33.996661299530494,-118.22045581824273,Vernon,CA,United States}	{Shop & Service,Professional & Other Places,Clothing Store,}
+132	Wed Nov 17 05:21:20 +0000 2010	4a2895f9f964a52031951fe3	{Akasha}	{34.02294,-118.39553041666667,Culver City,CA,United States}	{Nightlife Spot,Food,}
+132	Tue Nov 16 19:08:06 +0000 2010	4bef360996edc9b699794af2	{USC Keck School of Medicine}	{34.06069477827121,-118.20589542388916,Los Angeles,CA,United States}	{College & University,}
+132	Sat Nov 13 18:36:53 +0000 2010	4c26affb136d20a1d5dde561	{Porto's Bakery & Cafe}	{33.9404939261664,-118.13338994979858,Downey,CA,United States}	{Food,}
+132	Sat Nov 13 05:50:17 +0000 2010	4cae76dfef1b3704fa172b00	{ElecTRONica}	{33.80761671091488,-117.91839480400085,Anaheim,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+132	Sat Nov 13 05:47:30 +0000 2010	45db8eb5f964a520fd421fe3	{Disney California Adventure Park}	{33.80798489664312,-117.91896778777333,Anaheim,CA,United States}	{Arts & Entertainment,}
+132	Sat Nov 13 05:29:19 +0000 2010	4c166dd78aedd13a67045237	{Pinocchio Parking Lot}	{33.813740892436584,-117.9257869720459,Anaheim,CA,United States}	{Professional & Other Places,}
+132	Sat Nov 13 04:34:12 +0000 2010	4bd9e9c52a3a0f475ddea8b6	{Forest Lawn Cypress}	{33.83336826215993,-118.05543750850592,Cypress,CA,United States}	{Professional & Other Places,}
+132	Fri Nov 12 00:12:49 +0000 2010	4c26affb136d20a1d5dde561	{Porto's Bakery & Cafe}	{33.9404939261664,-118.13338994979858,Downey,CA,United States}	{Food,}
+132	Wed Nov 10 20:10:08 +0000 2010	4a62be33f964a5207ec41fe3	{Koraku Ramen}	{34.04908593171061,-118.24168682098389,Los Angeles,CA,United States}	{Food,}
+132	Sun Nov 07 09:41:26 +0000 2010	4415b1c5f964a520fd301fe3	{Full House Seafood Restaurant}	{34.066134211361266,-118.23797464370728,Los Angeles,CA,United States}	{Food,}
+132	Sun Nov 07 04:32:39 +0000 2010	4a3e04fdf964a520c4a21fe3	{J Restaurant and Lounge}	{34.04069,-118.26181,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+132	Sat Nov 06 14:38:47 +0000 2010	4cd563ac89eb6dcb1a46281e	{Be The One Run - Be The Match}	{33.76409693714021,-118.18441875795523,Long Beach,CA,United States}	{Shop & Service,Gym / Fitness Center,}
+132	Sat Nov 06 13:39:39 +0000 2010	4bfa8c565ec320a1d8c48bd3	{Long Beach Shoreline Marina}	{33.7617025972814,-118.18787097930908,Long Beach,CA,United States}	{Outdoors & Recreation,}
+132	Sat Nov 06 05:49:32 +0000 2010	4bafafddf964a520a7173ce3	{76 Gas Station}	{33.643385103961016,-117.91605813084517,Costa Mesa,CA,United States}	{Shop & Service,}
+132	Sat Nov 06 01:41:28 +0000 2010	4be6e913d4f7c9b65f2e2720	{Hornblower Cruises & Events}	{33.61858555176013,-117.9221626484012,Newport Beach,CA,United States}	{Travel & Transport,Professional & Other Places,}
+132	Thu Nov 04 23:31:27 +0000 2010	4a91e1fcf964a5203a1c20e3	{Nordstrom}	{34.040006473317874,-118.42779081370978,Los Angeles,CA,United States}	{Shop & Service,}
+132	Thu Nov 04 01:33:51 +0000 2010	4b254673f964a520286f24e3	{Nordstrom}	{33.86314618750543,-118.09322118759155,Cerritos,CA,United States}	{Shop & Service,Food,}
+132	Sat Oct 30 17:37:55 +0000 2010	4ccc43f272106dcb12709a99	{Friendship Games 2010- CSU Fullerton}	{33.88206662152044,-117.88390159606934,Fullerton,CA,United States}	{College & University,}
+132	Fri Oct 29 18:58:30 +0000 2010	49dbc8eff964a520055f1fe3	{Versailles}	{34.021022,-118.40356978,Los Angeles,CA,United States}	{Food,}
+132	Thu Oct 28 18:00:29 +0000 2010	41be2d00f964a520841e1fe3	{Little Tokyo}	{34.0489487969639,-118.24025042908596,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+132	Sun Oct 24 18:57:11 +0000 2010	49e4de7df964a52061631fe3	{The Curious Palate}	{34.00551795959473,-118.429806,Los Angeles,CA,United States}	{Food,}
+132	Sun Oct 24 01:11:12 +0000 2010	4c44b826da2176b090f3627a	{Smashburger}	{32.77161513737327,-117.15824604034424,San Diego,CA,United States}	{Food,}
+132	Sat Oct 23 18:21:11 +0000 2010	4cc12fa3873c236a166cb723	{San Diego Asian Film Festival}	{32.77073085308075,-117.158544,San Diego,CA,United States}	{Arts & Entertainment,Movie Theater,}
+132	Sat Oct 23 18:21:10 +0000 2010	4cc12fa3873c236a166cb723	{San Diego Asian Film Festival}	{32.77073085308075,-117.158544,San Diego,CA,United States}	{Arts & Entertainment,Movie Theater,}
+132	Sat Oct 23 18:14:52 +0000 2010	48b71f4bf964a520b9511fe3	{UltraStar Mission Valley Cinemas}	{32.77057022002807,-117.15846291706553,San Diego,CA,United States}	{Arts & Entertainment,Movie Theater,}
+132	Sat Oct 23 18:07:51 +0000 2010	4af9eefef964a520621522e3	{Hazard Center Mall}	{32.77132605265438,-117.15788277815126,San Diego,CA,United States}	{Shop & Service,}
+132	Sat Oct 23 07:09:41 +0000 2010	4a8b5f12f964a520460c20e3	{T.G.I. Friday's}	{32.71318521239076,-117.1601401411179,San Diego,CA,United States}	{Nightlife Spot,Food,}
+132	Sat Oct 23 04:45:35 +0000 2010	40e0b100f964a5208d021fe3	{Onyx Room}	{32.71435509667659,-117.16025367379189,San Diego,CA,United States}	{Nightlife Spot,Music Venue,Arts & Entertainment,}
+132	Sat Oct 23 02:23:46 +0000 2010	4cc12fa3873c236a166cb723	{San Diego Asian Film Festival}	{32.77073085308075,-117.158544,San Diego,CA,United States}	{Arts & Entertainment,Movie Theater,}
+132	Sat Oct 23 02:23:38 +0000 2010	4b39331df964a5200d5825e3	{Tabe BBQ Truck}	{32.94958692595448,-117.240149974823,San Diego,CA,United States}	{Food,}
+132	Fri Oct 22 22:46:58 +0000 2010	48b71f4bf964a520b9511fe3	{UltraStar Mission Valley Cinemas}	{32.77057022002807,-117.15846291706553,San Diego,CA,United States}	{Arts & Entertainment,Movie Theater,}
+132	Fri Oct 22 22:21:40 +0000 2010	4af9eefef964a520621522e3	{Hazard Center Mall}	{32.77132605265438,-117.15788277815126,San Diego,CA,United States}	{Shop & Service,}
+132	Fri Oct 22 22:10:16 +0000 2010	4adf98b8f964a520f57b21e3	{DoubleTree by Hilton San Diego - Mission Valley}	{32.76994822993164,-117.15989889740835,San Diego,CA,United States}	{Travel & Transport,Hotel,}
+132	Fri Oct 22 20:57:29 +0000 2010	4bfc156f3cebd13a4ca397d8	{Microsoft Store}	{32.7680607217001,-117.16647773981094,San Diego,CA,United States}	{Shop & Service,}
+132	Fri Oct 22 19:13:59 +0000 2010	4c8c3bad55fba0939af55dab	{Bing Crosby's Restaurant}	{32.76875,-117.16681353333334,San Diego,CA,United States}	{}
+132	Fri Oct 22 18:47:42 +0000 2010	4bfc156f3cebd13a4ca397d8	{Microsoft Store}	{32.7680607217001,-117.16647773981094,San Diego,CA,United States}	{Shop & Service,}
+132	Fri Oct 22 18:32:06 +0000 2010	45933bd9f964a52042401fe3	{Fashion Valley Mall}	{32.76831332445334,-117.16644287109375,San Diego,CA,United States}	{Outdoors & Recreation,Shop & Service,Food & Drink Shop,}
+132	Thu Oct 21 19:17:17 +0000 2010	4a47cdc4f964a52022aa1fe3	{Ebisu Japanese Tavern}	{34.0482982311931,-118.24031324735694,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+132	Thu Oct 21 19:17:15 +0000 2010	4a47cdc4f964a52022aa1fe3	{Ebisu Japanese Tavern}	{34.0482982311931,-118.24031324735694,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+132	Thu Oct 21 16:53:01 +0000 2010	4b456cdef964a520850c26e3	{Japanese American Cultural & Community Center - JACCC}	{34.048089756341376,-118.24170666490669,Los Angeles,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+132	Wed Oct 20 01:39:16 +0000 2010	4a8cc9d6f964a520230f20e3	{UCLA Haines Hall}	{34.07283525505212,-118.44115197658539,Los Angeles,CA,United States}	{College & University,Professional & Other Places,}
+132	Tue Oct 19 19:36:59 +0000 2010	4b4ff21cf964a520061a27e3	{Bikkuri don}	{34.0492174,-118.23979045,Los Angeles,CA,United States}	{}
+132	Mon Oct 18 18:57:47 +0000 2010	4c11f6d6d41e76b0cf49320d	{Izakaya & Bar Fu-ga}	{34.05025496683814,-118.24118127929138,Los Angeles,CA,United States}	{Food,}
+132	Sun Oct 17 02:57:42 +0000 2010	4c99644878fc236a36e92c97	{Universal Halloween Horror Nights}	{34.1375432361889,-118.35566997528076,Universal City,CA,United States}	{Arts & Entertainment,}
+132	Sun Oct 17 02:56:20 +0000 2010	4a6cc0f0f964a52088d11fe3	{Universal Studios Hollywood}	{34.13763203794546,-118.35429668426512,Universal City,CA,United States}	{Arts & Entertainment,Theme Park,}
+132	Sun Oct 17 00:35:33 +0000 2010	4babba7df964a52052c43ae3	{Pink's Hot Dogs}	{34.136388804862065,-118.35231184959412,Universal City,CA,United States}	{Food,}
+132	Sun Oct 17 00:22:57 +0000 2010	42853f80f964a520fb221fe3	{Universal CityWalk}	{34.136264480547794,-118.35339546203613,Universal City,CA,United States}	{Nightlife Spot,Shop & Service,Arts & Entertainment,}
+132	Fri Oct 15 02:03:51 +0000 2010	4a72841bf964a5202adb1fe3	{The Crosby}	{33.748176,-117.869786,Santa Ana,CA,United States}	{Nightlife Spot,}
+132	Wed Oct 13 03:23:48 +0000 2010	4b340043f964a520b02325e3	{Nordstrom}	{34.41944283287303,-119.70110893249512,Santa Barbara,CA,United States}	{Shop & Service,}
+132	Wed Oct 13 03:22:18 +0000 2010	4b2fe7b7f964a52055f224e3	{Paseo Nuevo}	{34.41903571117978,-119.69990730285645,Santa Barbara,CA,United States}	{Shop & Service,}
+132	Tue Oct 12 23:51:56 +0000 2010	4b0d95a4f964a520984b23e3	{Chino's Rock & Tacos}	{34.419192,-119.698318,Santa Barbara,CA,United States}	{Food,}
+132	Sun Oct 10 07:46:14 +0000 2010	4a500c36f964a520f1af1fe3	{Underground Pub and Grill}	{33.863502,-118.39992642402649,Hermosa Beach,CA,United States}	{Nightlife Spot,}
+132	Sun Oct 10 04:09:48 +0000 2010	4c7f04a9a7958cfac5b68f2b	{OKTOBERFEST @ ALPINE VILLAGE}	{33.84274233987894,-118.28859329223633,Torrance,CA,United States}	{Nightlife Spot,}
+132	Fri Oct 08 04:44:18 +0000 2010	4a0a463ef964a52098741fe3	{Father's Office}	{34.03034486867974,-118.38460564613342,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+132	Mon Oct 04 06:16:42 +0000 2010	4b209e62f964a520703324e3	{T.G.I. Friday's}	{33.870571140606586,-118.06094844109867,Cerritos,CA,United States}	{Nightlife Spot,Food,}
+132	Sun Oct 03 23:24:21 +0000 2010	4b2463c7f964a520ef6624e3	{Cerritos Center For The Performing Arts}	{33.86776939640581,-118.06160585412951,Cerritos,CA,United States}	{Arts & Entertainment,}
+132	Fri Oct 01 08:12:01 +0000 2010	4b08f84ef964a520a51323e3	{Molcasalsa Mexican Food}	{33.917615709068066,-117.93231010437012,Fullerton,CA,United States}	{Food,}
+132	Thu Sep 30 17:22:33 +0000 2010	45001adcf964a520ab381fe3	{University of Southern California}	{34.02034142086885,-118.28520298004149,Los Angeles,CA,United States}	{College & University,}
+132	Wed Sep 29 17:02:41 +0000 2010	45001adcf964a520ab381fe3	{University of Southern California}	{34.02034142086885,-118.28520298004149,Los Angeles,CA,United States}	{College & University,}
+132	Tue Sep 28 17:10:08 +0000 2010	45001adcf964a520ab381fe3	{University of Southern California}	{34.02034142086885,-118.28520298004149,Los Angeles,CA,United States}	{College & University,}
+132	Mon Sep 27 19:31:51 +0000 2010	4a16d84ef964a52010791fe3	{Johnny Rockets}	{34.048185,-118.239358,Los Angeles,CA,United States}	{Food,}
+132	Sun Sep 26 22:02:44 +0000 2010	4b2aa325f964a520bdac24e3	{Del Taco}	{34.85207701569937,-117.0826576443322,Barstow,CA,United States}	{Food,}
+132	Sun Sep 26 11:13:16 +0000 2010	4bd0a5e61f89ce72a9c067ea	{The Tuscany Suites & Casino}	{36.11329803577132,-115.1607084274292,Las Vegas,NV,United States}	{Nightlife Spot,Travel & Transport,Hotel,}
+132	Sun Sep 26 05:09:45 +0000 2010	4bff539edaf9c9b67021faef	{Surrender Nightclub}	{36.12940027183192,-115.16579389572144,Las Vegas,NV,United States}	{Nightlife Spot,Arts & Entertainment,}
+132	Sun Sep 26 05:09:05 +0000 2010	49de9a63f964a52088601fe3	{Encore Las Vegas}	{36.129018986874925,-115.16491413116455,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+132	Sat Sep 25 10:19:42 +0000 2010	4bd89941c9a4ef3b6b771a81	{Marilyn's Caf?}	{36.11302709022794,-115.15976106352032,Las Vegas,NV,United States}	{Food,}
+132	Sat Sep 25 07:58:11 +0000 2010	4b6ed09ff964a520c5cb2ce3	{The Las Vegas Strip}	{36.115516839270214,-115.17287492752075,Las Vegas,NV,United States}	{Travel & Transport,}
+132	Sat Sep 25 06:27:09 +0000 2010	4b0d7a4ef964a520384923e3	{World's Tallest Thermometer}	{35.26640886005856,-116.07272386550903,Baker,CA,United States}	{Government Building,Arts & Entertainment,Professional & Other Places,}
+132	Fri Sep 24 21:59:03 +0000 2010	4c2fb33b213c2d7f7d5c315d	{Salon 25}	{33.82890873,-118.0290689,Cypress,CA,United States}	{Shop & Service,}
+132	Tue Sep 21 18:49:08 +0000 2010	4a48599df964a520b4aa1fe3	{Mr. Ramen}	{34.049655,-118.23986753333334,Los Angeles,CA,United States}	{Food,}
+132	Mon Sep 20 00:00:07 +0000 2010	4a04dce7f964a52036721fe3	{Umami Burger}	{34.059099322771765,-118.34501087665558,Los Angeles,CA,United States}	{Food,}
+132	Sun Sep 19 21:00:25 +0000 2010	4b259203f964a520f87324e3	{Museum of Tolerance}	{34.053743883472706,-118.40179324150085,Los Angeles,CA,United States}	{Arts & Entertainment,}
+132	Sun Sep 19 01:10:08 +0000 2010	44e246f9f964a52027371fe3	{Shoreline Village at Rainbow Harbor}	{33.760738571555386,-118.19079390701148,Long Beach,CA,United States}	{Nightlife Spot,Shop & Service,}
+132	Sat Sep 18 00:14:15 +0000 2010	4aadba50f964a520596120e3	{Mickey & Friends Parking Structure}	{33.81481057349054,-117.92484283447264,Anaheim,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+132	Wed Sep 15 01:32:14 +0000 2010	4ae3657ef964a520799421e3	{In-N-Out Burger}	{33.93604658296939,-118.12426031661172,Downey,CA,United States}	{Food,}
+132	Sun Sep 12 16:40:21 +0000 2010	4c8ba053e51e6dcb88f273de	{FPAC}	{33.706936,-118.29431701666667,San Pedro,CA,United States}	{Arts & Entertainment,}
+132	Sun Sep 12 16:40:10 +0000 2010	4a4e9b71f964a520c8ae1fe3	{Point Fermin Park}	{33.706641836996496,-118.29310099314742,San Pedro,CA,United States}	{Outdoors & Recreation,}
+132	Mon Sep 06 22:32:04 +0000 2010	45db8eb5f964a520fd421fe3	{Disney California Adventure Park}	{33.80798489664312,-117.91896778777333,Anaheim,CA,United States}	{Arts & Entertainment,}
+132	Mon Sep 06 22:08:02 +0000 2010	4aadba50f964a520596120e3	{Mickey & Friends Parking Structure}	{33.81481057349054,-117.92484283447264,Anaheim,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+132	Mon Sep 06 04:48:58 +0000 2010	4b3ed543f964a5207ca225e3	{Harkins Theatres Chino Hills 18}	{34.01232892034886,-117.73841857910156,Chino Hills,CA,United States}	{Arts & Entertainment,Movie Theater,}
+132	Sun Sep 05 01:13:46 +0000 2010	4b00ddd3f964a5205d4122e3	{Hyatt Regency Huntington Beach Resort and Spa}	{33.65120829920497,-117.99041748046875,Huntington Beach,CA,United States}	{Travel & Transport,Hotel,}
+132	Sat Sep 04 20:12:25 +0000 2010	4aff11e1f964a520ca3322e3	{Saint Denis Catholic Church}	{33.98580797032929,-117.82699573809153,Diamond Bar,CA,United States}	{Spiritual Center,Professional & Other Places,}
+132	Sat Sep 04 09:04:32 +0000 2010	4c009546ad46c9b6c3cf8f66	{Wingstop}	{33.77180218182073,-118.19134800832266,Long Beach,CA,United States}	{Food,}
+132	Sat Sep 04 07:34:23 +0000 2010	4ad96166f964a520061a21e3	{Mai Tai Bar}	{33.763393,-118.19569766521454,Long Beach,CA,United States}	{Nightlife Spot,}
+132	Sat Sep 04 07:25:38 +0000 2010	42853f80f964a520fc221fe3	{The Pike at Long Beach}	{33.76391460065069,-118.19323539733887,Long Beach,CA,United States}	{Shop & Service,}
+132	Thu Sep 02 04:56:11 +0000 2010	4ad96166f964a520061a21e3	{Mai Tai Bar}	{33.763393,-118.19569766521454,Long Beach,CA,United States}	{Nightlife Spot,}
+132	Wed Sep 01 03:13:08 +0000 2010	4b6ed09ff964a520c5cb2ce3	{The Las Vegas Strip}	{36.115516839270214,-115.17287492752075,Las Vegas,NV,United States}	{Travel & Transport,}
+132	Wed Sep 01 01:22:18 +0000 2010	44215c2ff964a5208a311fe3	{Grand Lux Cafe}	{36.12224220433743,-115.17040729522705,Las Vegas,NV,United States}	{Food,}
+132	Tue Aug 31 05:37:47 +0000 2010	4a9248d6f964a520091d20e3	{XS Nightclub}	{36.12829973975456,-115.16433477401732,Las Vegas,NV,United States}	{Nightlife Spot,}
+132	Mon Aug 30 22:03:13 +0000 2010	4c4b7783c8b6b713e8af47fb	{Forever 21}	{36.1274814160822,-115.17002101692383,Las Vegas,NV,United States}	{Shop & Service,Clothing Store,}
+132	Mon Aug 30 20:52:42 +0000 2010	4b6ed09ff964a520c5cb2ce3	{The Las Vegas Strip}	{36.115516839270214,-115.17287492752075,Las Vegas,NV,United States}	{Travel & Transport,}
+132	Mon Aug 30 04:48:32 +0000 2010	465cb010f964a52036471fe3	{FIREFLY* Tapas Kitchen & Bar}	{36.12010833441989,-115.15453831949496,Las Vegas,NV,United States}	{Food,}
+132	Sat Aug 28 20:12:35 +0000 2010	4b3d0427f964a520fe8b25e3	{Studio B Buffet}	{35.965224902403456,-115.16869068145752,Las Vegas,NV,United States}	{Food,}
+132	Sat Aug 28 05:45:19 +0000 2010	4b635deaf964a520df742ae3	{Laguna Champagne Bar}	{36.12425276863341,-115.16924858093262,Las Vegas,NV,United States}	{Nightlife Spot,Arts & Entertainment,}
+132	Sat Aug 28 03:13:00 +0000 2010	4b4811caf964a520904726e3	{Dal Toro Restaurant}	{36.12435676193782,-115.16959190368652,Las Vegas,NV,United States}	{Food,}
+132	Fri Aug 27 23:56:25 +0000 2010	4a6d0478f964a52058d21fe3	{The Palazzo Resort Hotel & Casino}	{36.12453008380567,-115.16924858093262,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+132	Thu Aug 26 23:19:24 +0000 2010	49ebefebf964a52047671fe3	{Yogurtland}	{34.0483195342718,-118.23938598895226,Los Angeles,CA,United States}	{Food,}
+132	Thu Aug 26 16:45:37 +0000 2010	4b5de031f964a520787129e3	{Starbucks}	{34.05056157007773,-118.24224472045898,Los Angeles,CA,United States}	{Food,}
+132	Thu Aug 26 01:34:26 +0000 2010	4b254673f964a520286f24e3	{Nordstrom}	{33.86314618750543,-118.09322118759155,Cerritos,CA,United States}	{Shop & Service,Food,}
+132	Wed Aug 25 18:47:08 +0000 2010	4a47cdc4f964a52022aa1fe3	{Ebisu Japanese Tavern}	{34.0482982311931,-118.24031324735694,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+132	Wed Aug 25 00:56:51 +0000 2010	4a91e1fcf964a5203a1c20e3	{Nordstrom}	{34.040006473317874,-118.42779081370978,Los Angeles,CA,United States}	{Shop & Service,}
+132	Wed Aug 25 00:36:55 +0000 2010	4bbbd9eb2d9ea593f003a0ce	{Aldo}	{34.04048047718719,-118.4264901999817,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,}
+132	Sat Aug 21 20:56:35 +0000 2010	48d30db9f964a520f6511fe3	{uWink}	{34.102502,-118.339267,Los Angeles,CA,United States}	{Nightlife Spot,Shop & Service,Food,}
+132	Sat Aug 21 18:05:42 +0000 2010	40a40c00f964a5201df31ee3	{Runyon Canyon Park}	{34.110383282168506,-118.3505630493164,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+132	Sat Aug 21 06:23:34 +0000 2010	459f6c3ef964a520c1401fe3	{Crazy Hook}	{34.06160699415774,-118.29359196527672,Los Angeles,CA,United States}	{Nightlife Spot,}
+132	Sat Aug 21 03:09:08 +0000 2010	4a42d509f964a52049a61fe3	{John Anson Ford Amphitheatre}	{34.11398871923893,-118.33453746999318,Los Angeles,CA,United States}	{Performing Arts Venue,Arts & Entertainment,}
+132	Sat Aug 21 01:15:02 +0000 2010	4aaeaa2ff964a520d66220e3	{Oiwake}	{34.048909,-118.239979,Los Angeles,CA,United States}	{Food,}
+132	Fri Aug 20 04:14:45 +0000 2010	4aa30ecaf964a5202b4320e3	{BJ's Restaurant & Brewhouse}	{33.86628843102686,-118.09800555210603,Cerritos,CA,United States}	{Nightlife Spot,Food,}
+132	Wed Aug 18 16:48:25 +0000 2010	4b5de031f964a520787129e3	{Starbucks}	{34.05056157007773,-118.24224472045898,Los Angeles,CA,United States}	{Food,}
+132	Tue Aug 17 22:24:49 +0000 2010	4bb796bd1261d13ab986e798	{Weller Court}	{34.050039858002684,-118.24198648919699,Los Angeles,CA,United States}	{Shop & Service,Food,}
+132	Mon Aug 16 04:52:46 +0000 2010	4a5104ebf964a52070b01fe3	{Harris Ranch Inn & Restaurant}	{36.253894557402425,-120.23759365081787,Coalinga,CA,United States}	{Travel & Transport,Food,}
+132	Mon Aug 16 02:06:41 +0000 2010	4ab7c4dcf964a520b87a20e3	{Jamba Juice}	{37.383171,-121.89464738333334,San Jose,CA,United States}	{Food,}
+132	Sun Aug 15 22:11:12 +0000 2010	4b64d2f8f964a520e0d22ae3	{BCBGMAXAZRIA}	{37.413879609009676,-121.89702998502742,Milpitas,CA,United States}	{Shop & Service,Clothing Store,}
+132	Sun Aug 15 19:59:59 +0000 2010	4b946fd1f964a5206e7934e3	{Chili's Grill & Bar}	{37.779390806317565,-121.97037556649727,San Ramon,CA,United States}	{Food,}
+132	Sun Aug 15 19:05:40 +0000 2010	4b8b5936f964a5200c9d32e3	{HYATT house San Ramon}	{37.77794763985101,-121.97784515673577,San Ramon,CA,United States}	{Travel & Transport,Hotel,}
+132	Sun Aug 15 05:19:47 +0000 2010	4a26c122f964a520d97e1fe3	{Motif Lounge}	{37.33013628624751,-121.88627571487093,San Jose,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+132	Sun Aug 15 04:26:16 +0000 2010	4a3546e7f964a520b49c1fe3	{Hooters of Dublin}	{37.70194451,-121.935354,Dublin,CA,United States}	{Medical Center,Food,Professional & Other Places,}
+132	Sat Aug 14 22:05:01 +0000 2010	4bc4be82920eb71313341f2c	{Starbucks}	{37.94370676880877,-122.05688238143921,Pleasant Hill,CA,United States}	{Food,}
+132	Sat Aug 14 20:11:59 +0000 2010	4ada365df964a5200b2021e3	{Panama Red Coffee}	{37.977837,-122.03409,Concord,CA,United States}	{Food,}
+132	Sat Aug 14 19:37:50 +0000 2010	4bc4d686abf4952170a4c593	{Sweet Tart}	{37.97752575591229,-122.03433036804199,Concord,CA,United States}	{Food,}
+132	Sat Aug 14 18:52:24 +0000 2010	4c085f717e3fc9285b51f082	{Korean Bulgogi House}	{37.977134,-122.035389,Concord,CA,United States}	{Food,}
+132	Sat Aug 14 07:20:36 +0000 2010	4b40ec43f964a5207bbd25e3	{McDonald's}	{36.253843,-120.249575,Coalinga,CA,United States}	{Food,}
+132	Sat Aug 14 05:46:16 +0000 2010	4b99502af964a520307235e3	{In-N-Out Burger}	{34.98335667785709,-118.94825043640603,Lebec,CA,United States}	{Food,}
+132	Fri Aug 13 16:54:33 +0000 2010	4be193ef1a44a593b5099287	{Little Tokyo Service Center}	{34.047994365279834,-118.24295159395977,Los Angeles,CA,United States}	{Professional & Other Places,}
+132	Fri Aug 13 02:51:18 +0000 2010	4ba44483f964a5207f9138e3	{Lucille's Smokehouse Bar-B-Que}	{33.982631,-117.7035615,Chino Hills,CA,United States}	{Food,}
+132	Mon Aug 09 04:01:15 +0000 2010	4bf42804ff90c9b6c4e85428	{Mr. Petes Burgers}	{33.924736,-118.116405,Downey,CA,United States}	{Food,}
+132	Sun Aug 08 22:40:01 +0000 2010	4b5b8a4df964a520b40529e3	{Chuck E. Cheese's}	{34.151145,-118.072999,Pasadena,CA,United States}	{Food,Arts & Entertainment,}
+132	Fri Aug 06 05:19:57 +0000 2010	4a901dfef964a520111620e3	{Casey Jr. Circus Train}	{33.81370616360501,-117.91922686548331,Anaheim,CA,United States}	{Arts & Entertainment,Theme Park,}
+132	Fri Aug 06 05:07:19 +0000 2010	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+132	Fri Aug 06 04:56:11 +0000 2010	4b89a82af964a520a34932e3	{Monorail Station - Downtown Disney}	{33.80922068369845,-117.92457528412342,Anaheim,CA,United States}	{Travel & Transport,Arts & Entertainment,}
+132	Fri Aug 06 03:29:17 +0000 2010	4a35d243f964a520679d1fe3	{ESPN Zone}	{33.8092302568782,-117.92514324188232,Anaheim,CA,United States}	{Nightlife Spot,Food,Arts & Entertainment,}
+132	Fri Aug 06 03:28:56 +0000 2010	47f6995af964a520b04e1fe3	{Downtown Disney District}	{33.80917676965434,-117.92439222335815,Anaheim,CA,United States}	{Shop & Service,Outdoors & Recreation,}
+132	Fri Aug 06 03:11:16 +0000 2010	4ac7e458f964a52064ba20e3	{Mickey & Friends Tram}	{33.813526,-117.924671,Anaheim,CA,United States}	{Travel & Transport,Arts & Entertainment,Theme Park,}
+132	Fri Aug 06 02:50:40 +0000 2010	4aadba50f964a520596120e3	{Mickey & Friends Parking Structure}	{33.81481057349054,-117.92484283447264,Anaheim,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+132	Thu Aug 05 20:06:15 +0000 2010	4c26dd9bc11dc9b613d32924	{Four Leaf Tea Room}	{34.04896827240919,-118.2411127506142,Los Angeles,CA,United States}	{Food,}
+132	Thu Aug 05 16:05:48 +0000 2010	4b7429a9f964a520a5ca2de3	{Chevron}	{33.91729923,-118.11697733,Downey,CA,United States}	{Shop & Service,}
+132	Wed Aug 04 20:00:09 +0000 2010	4b427d9af964a520f0d425e3	{Mikawaya}	{34.04885258293034,-118.23999166488647,Los Angeles,CA,United States}	{Food,}
+132	Wed Aug 04 20:00:07 +0000 2010	4b427d9af964a520f0d425e3	{Mikawaya}	{34.04885258293034,-118.23999166488647,Los Angeles,CA,United States}	{Food,}
+132	Wed Aug 04 19:59:09 +0000 2010	4b7b66a6f964a52007622fe3	{Japanese Village Plaza}	{34.04889925273778,-118.24002385139465,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+132	Wed Aug 04 15:40:00 +0000 2010	4b64e917f964a5203dd92ae3	{Starbucks}	{33.9018,-118.125597,Bellflower,CA,United States}	{Food,}
+132	Wed Aug 04 00:48:14 +0000 2010	4aad848ff964a520b56020e3	{Fatburger}	{34.0118775794451,-118.41956483164624,Los Angeles,CA,United States}	{Food,}
+132	Sun Aug 01 17:09:00 +0000 2010	4a8860aaf964a5201b0620e3	{Bubba Gump Shrimp Co.}	{33.763272412005314,-118.19576740264893,Long Beach,CA,United States}	{Food,}
+132	Sun Aug 01 04:27:44 +0000 2010	4bdb3f552a3a0f47a91caeb6	{Hooters of Long Beach}	{33.76437840056867,-118.19443702697754,Long Beach,CA,United States}	{Nightlife Spot,Food,}
+132	Sun Aug 01 04:27:26 +0000 2010	42853f80f964a520fc221fe3	{The Pike at Long Beach}	{33.76391460065069,-118.19323539733887,Long Beach,CA,United States}	{Shop & Service,}
+132	Fri Jul 30 16:27:48 +0000 2010	41be2d00f964a520841e1fe3	{Little Tokyo}	{34.0489487969639,-118.24025042908596,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+132	Fri Jul 30 07:02:22 +0000 2010	4bd11a8fcaff9521e747d0f0	{Carl's Jr. / Green Burrito}	{33.90185253534371,-118.1170140754468,Bellflower,CA,United States}	{Food,}
+132	Thu Jul 29 01:03:57 +0000 2010	4b12e5dbf964a520679023e3	{Starbucks}	{33.795708068302574,-118.10848295688629,Long Beach,CA,United States}	{Food,}
+132	Tue Jul 27 01:25:28 +0000 2010	4bbcf26f078095211bfbd991	{Philly's Best Downey}	{33.92743809347528,-118.12944908052843,Downey,CA,United States}	{Food,}
+132	Tue Jul 27 01:22:55 +0000 2010	4bc6348e51b376b0352b1b6f	{Downey Landing Shopping Center}	{33.9266925632493,-118.12908335773047,Downey,CA,United States}	{Shop & Service,}
+132	Mon Jul 26 22:58:49 +0000 2010	4c26dd9bc11dc9b613d32924	{Four Leaf Tea Room}	{34.04896827240919,-118.2411127506142,Los Angeles,CA,United States}	{Food,}
+132	Sun Jul 25 05:20:01 +0000 2010	4aa491c7f964a5201c4720e3	{Boulevard3}	{34.0982341072764,-118.33180351126938,Los Angeles,CA,United States}	{Nightlife Spot,}
+132	Sun Jul 25 02:02:18 +0000 2010	4c49c18993249c74dbe1144d	{Rose Bowl - LA Street Food Fest Summer Tasting}	{34.161134362220764,-118.167487,Pasadena,CA,United States}	{Food,Arts & Entertainment,}
+132	Sat Jul 24 23:52:11 +0000 2010	459ccb9ff964a5209f401fe3	{Rose Bowl Stadium}	{34.16156958726264,-118.1676149368286,Pasadena,CA,United States}	{Stadium,College & University,Arts & Entertainment,College Stadium,}
+132	Sat Jul 24 02:23:46 +0000 2010	4c2d175e4e132d7f2ad89bdf	{Lee's Sandwiches}	{33.99912857834637,-117.71891012721066,Chino,CA,United States}	{Food,}
+132	Fri Jul 23 21:53:37 +0000 2010	4b3ed543f964a5207ca225e3	{Harkins Theatres Chino Hills 18}	{34.01232892034886,-117.73841857910156,Chino Hills,CA,United States}	{Arts & Entertainment,Movie Theater,}
+132	Fri Jul 23 00:32:14 +0000 2010	4c16b76acd4bc9b6b1dc4eeb	{Number A}	{34.04775262316496,-118.23931957382845,Los Angeles,CA,United States}	{Shop & Service,Clothing Store,}
+132	Thu Jul 22 22:58:23 +0000 2010	4abd80aaf964a520b78a20e3	{Nijiya Market}	{34.04881035784435,-118.24013113975525,Los Angeles,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+132	Wed Jul 21 01:16:23 +0000 2010	4bfc08af6978d13a7370c7e7	{Ryokan College}	{34.00677878,-118.42909441,Los Angeles,CA,United States}	{College & University,}
+132	Tue Jul 20 23:54:06 +0000 2010	4b427d9af964a520f0d425e3	{Mikawaya}	{34.04885258293034,-118.23999166488647,Los Angeles,CA,United States}	{Food,}
+132	Tue Jul 20 18:58:57 +0000 2010	4a47cdc4f964a52022aa1fe3	{Ebisu Japanese Tavern}	{34.0482982311931,-118.24031324735694,Los Angeles,CA,United States}	{Nightlife Spot,Food,}
+132	Tue Jul 20 01:46:12 +0000 2010	40b68100f964a5206a001fe3	{California State University, Long Beach (CSULB)}	{33.782775296708536,-118.11449408964512,Long Beach,CA,United States}	{College & University,}
+132	Mon Jul 19 19:00:00 +0000 2010	4a2424c8f964a520fa7d1fe3	{Se?or Fish}	{34.04891258696375,-118.23836356401443,Los Angeles,CA,United States}	{Food,}
+132	Sun Jul 18 04:39:11 +0000 2010	4b08bba8f964a520941123e3	{Pink's Hot Dogs}	{33.84354432982884,-117.99844801425934,Buena Park,CA,United States}	{Food,Professional & Other Places,}
+132	Sun Jul 18 01:11:10 +0000 2010	4b732880f964a520df9e2de3	{Silver Bullet}	{33.844595816358854,-117.99995541572571,Buena Park,CA,United States}	{Arts & Entertainment,Theme Park,}
+132	Sat Jul 17 16:18:50 +0000 2010	46d71bdef964a520724a1fe3	{Knott's Berry Farm}	{33.84297402663761,-118.00020217895508,Buena Park,CA,United States}	{Arts & Entertainment,}
+132	Sat Jul 17 06:23:27 +0000 2010	4bc009bb4cdfc9b6f66f9221	{Avec Nightclub}	{33.692402484558905,-117.98758295122123,Huntington Beach,CA,United States}	{Nightlife Spot,Arts & Entertainment,}
+132	Fri Jul 16 19:49:26 +0000 2010	4b4a4693f964a520e98126e3	{OC Fair & Event Center}	{33.66585383619394,-117.9023551940918,Costa Mesa,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+132	Fri Jul 16 19:49:16 +0000 2010	4b4a4693f964a520e98126e3	{OC Fair & Event Center}	{33.66585383619394,-117.9023551940918,Costa Mesa,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+132	Fri Jul 16 16:12:00 +0000 2010	4b2c371bf964a520f2c324e3	{Nordstrom}	{33.69245946749698,-117.88982391357422,Costa Mesa,CA,United States}	{Shop & Service,}
+132	Fri Jul 16 16:11:33 +0000 2010	45a9d338f964a52025411fe3	{South Coast Plaza}	{33.69101333272498,-117.88911581039427,Costa Mesa,CA,United States}	{Shop & Service,}
+132	Wed Jul 14 16:33:03 +0000 2010	4b456cdef964a520850c26e3	{Japanese American Cultural & Community Center - JACCC}	{34.048089756341376,-118.24170666490669,Los Angeles,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+132	Wed Jul 14 01:05:07 +0000 2010	4a7f29bdf964a52016f31fe3	{Santouka}	{34.004972832917296,-118.43336394276997,Los Angeles,CA,United States}	{Food,}
+132	Tue Jul 13 16:48:20 +0000 2010	41be2d00f964a520841e1fe3	{Little Tokyo}	{34.0489487969639,-118.24025042908596,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+132	Sun Jul 11 09:58:39 +0000 2010	4c009546ad46c9b6c3cf8f66	{Wingstop}	{33.77180218182073,-118.19134800832266,Long Beach,CA,United States}	{Food,}
+132	Sun Jul 11 05:38:36 +0000 2010	4b809eecf964a520998130e3	{Up Lounge}	{33.76664,-118.19049417972565,Long Beach,CA,United States}	{Nightlife Spot,}
+132	Sun Jul 11 05:32:17 +0000 2010	4b038a19f964a520b94f22e3	{The Sky Room}	{33.766447631161036,-118.19091796875,Long Beach,CA,United States}	{Food,}
+132	Sat Jul 10 00:56:57 +0000 2010	45db8eb5f964a520fd421fe3	{Disney California Adventure Park}	{33.80798489664312,-117.91896778777333,Anaheim,CA,United States}	{Arts & Entertainment,}
+132	Fri Jul 09 20:58:54 +0000 2010	47f80a8cf964a520bc4e1fe3	{Tomorrowland}	{33.81213998647339,-117.91723198996176,Anaheim,CA,United States}	{Arts & Entertainment,Theme Park,}
+132	Fri Jul 09 20:57:50 +0000 2010	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+132	Fri Jul 09 04:36:19 +0000 2010	4af9a0b5f964a520ac1222e3	{Buttermilk Truck}	{34.05646386671222,-118.2767915725708,Los Angeles,CA,United States}	{Food,}
+132	Fri Jul 09 03:44:54 +0000 2010	4b0ae5c5f964a520a22923e3	{Frysmith Truck}	{34.08380107155366,-118.35485458374023,Los Angeles,CA,United States}	{Food,}
+132	Thu Jul 08 01:26:29 +0000 2010	4bfc08af6978d13a7370c7e7	{Ryokan College}	{34.00677878,-118.42909441,Los Angeles,CA,United States}	{College & University,}
+132	Thu Jul 08 00:55:52 +0000 2010	4a7f29bdf964a52016f31fe3	{Santouka}	{34.004972832917296,-118.43336394276997,Los Angeles,CA,United States}	{Food,}
+132	Thu Jul 08 00:55:31 +0000 2010	49d17bd8f964a520885b1fe3	{Mitsuwa Marketplace}	{34.004918,-118.433579,Los Angeles,CA,United States}	{Shop & Service,Food & Drink Shop,}
+132	Wed Jul 07 20:36:11 +0000 2010	4abd80aaf964a520b78a20e3	{Nijiya Market}	{34.04881035784435,-118.24013113975525,Los Angeles,CA,United States}	{Shop & Service,Food,Food & Drink Shop,}
+132	Wed Jul 07 16:20:34 +0000 2010	41be2d00f964a520841e1fe3	{Little Tokyo}	{34.0489487969639,-118.24025042908596,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+132	Tue Jul 06 18:24:35 +0000 2010	41be2d00f964a520841e1fe3	{Little Tokyo}	{34.0489487969639,-118.24025042908596,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+132	Mon Jul 05 15:56:59 +0000 2010	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+132	Mon Jul 05 15:17:49 +0000 2010	4aadba50f964a520596120e3	{Mickey & Friends Parking Structure}	{33.81481057349054,-117.92484283447264,Anaheim,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+132	Sun Jul 04 23:15:58 +0000 2010	47383924f964a520444c1fe3	{Santa Monica Pier}	{34.00842244098263,-118.49856197834015,Santa Monica,CA,United States}	{Travel & Transport,}
+132	Sun Jul 04 23:14:54 +0000 2010	44ded2f5f964a520d2361fe3	{Third Street Promenade}	{34.01608181718752,-118.49674344062805,Santa Monica,CA,United States}	{Outdoors & Recreation,Shop & Service,}
+132	Sun Jul 04 22:09:33 +0000 2010	4b53836ff964a52087a027e3	{McDonald's}	{34.08866160737894,-118.30962770575225,Los Angeles,CA,United States}	{Food,}
+132	Sun Jul 04 21:02:47 +0000 2010	4a6e5d0df964a52093d41fe3	{Griffith Observatory}	{34.118284371322225,-118.30031991004944,Los Angeles,CA,United States}	{Outdoors & Recreation,Museum,Arts & Entertainment,}
+132	Sun Jul 04 21:02:26 +0000 2010	4b4fb231f964a520541127e3	{Griffith Park - Western Ave Entrance}	{34.10900133789177,-118.30790945922276,Los Angeles,CA,United States}	{Outdoors & Recreation,}
+132	Sun Jul 04 19:13:10 +0000 2010	4a83ae72f964a5209ffb1fe3	{Hollywood Walk Of Fame}	{34.10153309727385,-118.33867281675339,Hollywood,CA,United States}	{Government Building,Arts & Entertainment,Professional & Other Places,}
+132	Sat Jul 03 06:46:17 +0000 2010	4b4b87a2f964a520479f26e3	{Geisha House}	{33.773225795244585,-117.86686420440674,Santa Ana,CA,United States}	{Shop & Service,Food,}
+132	Sat Jul 03 03:14:31 +0000 2010	4ca388d3f832a1cdcf789ee5	{McDonald's}	{33.798822193619124,-118.12490606325817,Long Beach,CA,United States}	{Food,}
+132	Sat Jul 03 03:12:20 +0000 2010	4b4e7138f964a520eaed26e3	{Bank of America}	{33.797214,-118.124671,Long Beach,CA,United States}	{Shop & Service,}
+132	Wed Jun 09 00:27:03 +0000 2010	4a9c6bd1f964a520213720e3	{Los Angeles Public Library-Mar Vista Branch}	{34.005800974727705,-118.4290337562561,Los Angeles,CA,United States}	{Professional & Other Places,}
+132	Tue Jun 08 23:48:59 +0000 2010	4a4bc571f964a520b3ac1fe3	{Sunny Grill}	{34.005828,-118.43010127544403,Los Angeles,CA,United States}	{Food,}
+132	Mon Jun 07 21:07:17 +0000 2010	4bbd074fa0a0c9b6f9231b0f	{Flan's Auto Wash}	{33.90125698,-118.125613,belflower,CA,United States}	{Shop & Service,}
+132	Sun Jun 06 22:23:04 +0000 2010	4aff11e1f964a520ca3322e3	{Saint Denis Catholic Church}	{33.98580797032929,-117.82699573809153,Diamond Bar,CA,United States}	{Spiritual Center,Professional & Other Places,}
+132	Sun Jun 06 21:13:10 +0000 2010	4b254673f964a520286f24e3	{Nordstrom}	{33.86314618750543,-118.09322118759155,Cerritos,CA,United States}	{Shop & Service,Food,}
+132	Sat Jun 05 23:17:47 +0000 2010	4bf8626c5317a59312c2ff7e	{Del Amo Fashion Center}	{33.83292181,-118.3474731,Torrance,CA,United States}	{Shop & Service,Food,}
+132	Sat Jun 05 18:49:32 +0000 2010	44e3164df964a52035371fe3	{Charles H. Wilson Park}	{33.82539969417339,-118.32537174224854,Torrance,CA,United States}	{Outdoors & Recreation,}
+132	Sat Jun 05 03:17:53 +0000 2010	4a1acdb8f964a5209d7a1fe3	{The Original Fish Company}	{33.80219525,-118.072369,Los Alamitos,CA,United States}	{Food,}
+132	Fri Jun 04 15:19:51 +0000 2010	4ba135c0f964a52064a237e3	{Baldwin Hills Elementary}	{34.02309102828867,-118.36548690555357,Los Angeles,CA,United States}	{Professional & Other Places,}
+132	Wed Jun 02 02:45:59 +0000 2010	4bfc08af6978d13a7370c7e7	{Ryokan College}	{34.00677878,-118.42909441,Los Angeles,CA,United States}	{College & University,}
+132	Mon May 31 00:50:48 +0000 2010	4a677f82f964a52091c91fe3	{Las Vegas McCarran International Airport (LAS)}	{36.08365019548198,-115.14985084533691,Las Vegas,NV,United States}	{Travel & Transport,}
+132	Sun May 30 20:33:24 +0000 2010	4bd0a5e61f89ce72a9c067ea	{The Tuscany Suites & Casino}	{36.11329803577132,-115.1607084274292,Las Vegas,NV,United States}	{Nightlife Spot,Travel & Transport,Hotel,}
+132	Sun May 30 18:42:48 +0000 2010	4ba43fc5f964a520f48f38e3	{Grind Burger Bar & Lounge}	{36.102245991398426,-115.15672122843219,Las Vegas,NV,United States}	{Nightlife Spot,Food,}
+132	Sat May 29 23:04:12 +0000 2010	4a710474f964a520fdd81fe3	{Serendipity 3}	{36.115274160690916,-115.17345428466797,Las Vegas,NV,United States}	{Food,}
+132	Sat May 29 22:39:22 +0000 2010	4b6ed09ff964a520c5cb2ce3	{The Las Vegas Strip}	{36.115516839270214,-115.17287492752075,Las Vegas,NV,United States}	{Travel & Transport,}
+132	Fri May 28 23:15:24 +0000 2010	4b690566f964a52027972be3	{Lee's Discount Liquor}	{36.024144,-115.17201,Las Vegas,NV,United States}	{Shop & Service,Food & Drink Shop,}
+132	Fri May 28 20:26:34 +0000 2010	4b3d0427f964a520fe8b25e3	{Studio B Buffet}	{35.965224902403456,-115.16869068145752,Las Vegas,NV,United States}	{Food,}
+132	Fri May 28 20:12:33 +0000 2010	49de8b97f964a52077601fe3	{The M Resort Spa & Casino}	{35.964703882487385,-115.16972064971924,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+132	Fri May 28 19:58:59 +0000 2010	4b6ed09ff964a520c5cb2ce3	{The Las Vegas Strip}	{36.115516839270214,-115.17287492752075,Las Vegas,NV,United States}	{Travel & Transport,}
+132	Fri May 28 07:50:07 +0000 2010	4bd89941c9a4ef3b6b771a81	{Marilyn's Caf?}	{36.11302709022794,-115.15976106352032,Las Vegas,NV,United States}	{Food,}
+132	Fri May 28 05:26:11 +0000 2010	4bd0a5e61f89ce72a9c067ea	{The Tuscany Suites & Casino}	{36.11329803577132,-115.1607084274292,Las Vegas,NV,United States}	{Nightlife Spot,Travel & Transport,Hotel,}
+132	Fri May 28 04:29:19 +0000 2010	4a677f82f964a52091c91fe3	{Las Vegas McCarran International Airport (LAS)}	{36.08365019548198,-115.14985084533691,Las Vegas,NV,United States}	{Travel & Transport,}
+132	Fri May 28 02:15:36 +0000 2010	47053daef964a520544b1fe3	{Ontario International Airport (ONT)}	{34.05994816216629,-117.5930643081665,Ontario,CA,United States}	{Travel & Transport,Airport,}
+132	Wed May 26 04:35:10 +0000 2010	4aff6eaaf964a520813822e3	{Green Field Churrascaria}	{33.781751250683804,-118.13092231750488,Long Beach,CA,United States}	{Food,}
+132	Tue May 25 04:52:45 +0000 2010	4aad848ff964a520b56020e3	{Fatburger}	{34.0118775794451,-118.41956483164624,Los Angeles,CA,United States}	{Food,}
+132	Mon May 24 17:06:14 +0000 2010	4ba135c0f964a52064a237e3	{Baldwin Hills Elementary}	{34.02309102828867,-118.36548690555357,Los Angeles,CA,United States}	{Professional & Other Places,}
+132	Sun May 23 15:50:07 +0000 2010	47053daef964a520544b1fe3	{Ontario International Airport (ONT)}	{34.05994816216629,-117.5930643081665,Ontario,CA,United States}	{Travel & Transport,Airport,}
+132	Sun May 23 13:35:18 +0000 2010	4a677f82f964a52091c91fe3	{Las Vegas McCarran International Airport (LAS)}	{36.08365019548198,-115.14985084533691,Las Vegas,NV,United States}	{Travel & Transport,}
+132	Sun May 23 12:59:29 +0000 2010	4b6ed09ff964a520c5cb2ce3	{The Las Vegas Strip}	{36.115516839270214,-115.17287492752075,Las Vegas,NV,United States}	{Travel & Transport,}
+132	Sun May 23 05:42:50 +0000 2010	41326e00f964a520c4141fe3	{Olympic Garden}	{36.15222572205908,-115.15140579019013,Las Vegas,NV,United States}	{Nightlife Spot,}
+132	Sun May 23 05:38:46 +0000 2010	4b6ed09ff964a520c5cb2ce3	{The Las Vegas Strip}	{36.115516839270214,-115.17287492752075,Las Vegas,NV,United States}	{Travel & Transport,}
+132	Sun May 23 00:39:44 +0000 2010	4b4b6007f964a5203d9926e3	{Palazzo Pool}	{36.123282157815886,-115.16778945922852,Las Vegas,NV,United States}	{Nightlife Spot,Outdoors & Recreation,Arts & Entertainment,}
+132	Sat May 22 19:23:45 +0000 2010	4b3d0427f964a520fe8b25e3	{Studio B Buffet}	{35.965224902403456,-115.16869068145752,Las Vegas,NV,United States}	{Food,}
+132	Sat May 22 08:05:22 +0000 2010	4a9248d6f964a520091d20e3	{XS Nightclub}	{36.12829973975456,-115.16433477401732,Las Vegas,NV,United States}	{Nightlife Spot,}
+132	Sat May 22 08:04:50 +0000 2010	49de9a63f964a52088601fe3	{Encore Las Vegas}	{36.129018986874925,-115.16491413116455,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+132	Sat May 22 01:54:13 +0000 2010	4a6d0478f964a52058d21fe3	{The Palazzo Resort Hotel & Casino}	{36.12453008380567,-115.16924858093262,Las Vegas,NV,United States}	{Travel & Transport,Arts & Entertainment,Hotel,}
+132	Sat May 22 01:52:48 +0000 2010	4b6ed09ff964a520c5cb2ce3	{The Las Vegas Strip}	{36.115516839270214,-115.17287492752075,Las Vegas,NV,United States}	{Travel & Transport,}
+132	Sat May 22 00:50:40 +0000 2010	4b690566f964a52027972be3	{Lee's Discount Liquor}	{36.024144,-115.17201,Las Vegas,NV,United States}	{Shop & Service,Food & Drink Shop,}
+132	Sat May 22 00:08:03 +0000 2010	4bd4a4d8cfa7b7137e8a24da	{California / Nevada Stateline}	{35.6072428437229,-115.39137840270996,Primm,CA,United States}	{Travel & Transport,}
+132	Fri May 21 23:40:15 +0000 2010	4b7daf67f964a5205fce2fe3	{Valley Wells Rest Area (Southbound)}	{35.43564691522381,-115.70193529129028,,CA,United States}	{Travel & Transport,}
+132	Fri May 21 20:53:17 +0000 2010	4b3679f6f964a520593625e3	{In-N-Out Burger}	{34.10589056874228,-117.53029525279999,Rancho Cucamonga,CA,United States}	{Food,}
+132	Fri May 21 03:50:17 +0000 2010	4a6beb6ef964a52041d01fe3	{Star Tours - The Adventures Continue}	{33.81201570836017,-117.91795022785664,Anaheim,CA,United States}	{Arts & Entertainment,Theme Park,}
+132	Fri May 21 03:19:41 +0000 2010	4b19ad69f964a520cbe123e3	{Captain EO Starring Michael Jackson}	{33.81161723931896,-117.91721291414436,Anaheim,CA,United States}	{Arts & Entertainment,Theme Park,}
+132	Fri May 21 02:37:07 +0000 2010	47f80879f964a520b84e1fe3	{Matterhorn Bobsleds}	{33.813300757030106,-117.91790925040736,Anaheim,CA,United States}	{Arts & Entertainment,Theme Park,}
+132	Fri May 21 01:46:58 +0000 2010	4aadba50f964a520596120e3	{Mickey & Friends Parking Structure}	{33.81481057349054,-117.92484283447264,Anaheim,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+132	Thu May 20 20:19:58 +0000 2010	4ba135c0f964a52064a237e3	{Baldwin Hills Elementary}	{34.02309102828867,-118.36548690555357,Los Angeles,CA,United States}	{Professional & Other Places,}
+132	Thu May 20 03:08:59 +0000 2010	4acfed7df964a520ebd620e3	{Jeepney Asian Grill}	{33.85827,-118.080375,Cerritos,CA,United States}	{Food,}
+132	Sun May 16 22:40:38 +0000 2010	4b19ad69f964a520cbe123e3	{Captain EO Starring Michael Jackson}	{33.81161723931896,-117.91721291414436,Anaheim,CA,United States}	{Arts & Entertainment,Theme Park,}
+132	Sun May 16 22:37:47 +0000 2010	40f86c00f964a520bd0a1fe3	{Disneyland}	{33.80958286695518,-117.91899628937244,Anaheim,CA,United States}	{Arts & Entertainment,}
+132	Sun May 16 22:10:59 +0000 2010	4aadba50f964a520596120e3	{Mickey & Friends Parking Structure}	{33.81481057349054,-117.92484283447264,Anaheim,CA,United States}	{Arts & Entertainment,Professional & Other Places,}
+132	Sun May 16 20:51:43 +0000 2010	4b09d629f964a520811e23e3	{Gelson's}	{34.04782361826847,-118.52818965911865,Pacific Palisades,CA,United States}	{Shop & Service,Food & Drink Shop,}
+132	Sun May 16 00:24:03 +0000 2010	4b65103ef964a52039e22ae3	{Renaissance Restaurant}	{34.131003,-118.257558,Glendale,CA,United States}	{Food,}
+132	Sun May 16 00:20:49 +0000 2010	4b65103ef964a52039e22ae3	{Renaissance Restaurant}	{34.131003,-118.257558,Glendale,CA,United States}	{Food,}
+132	Sat May 15 20:48:17 +0000 2010	4b3024e6f964a520d5f624e3	{St. Brendan Catholic Church}	{34.06873845503524,-118.3142971383471,Los Angeles,CA,United States}	{Spiritual Center,Professional & Other Places,}
+132	Fri May 14 04:16:57 +0000 2010	4b4ab843f964a5207a8d26e3	{Starbucks}	{34.011081,-117.735994,Chino Hills,CA,United States}	{Food,}
