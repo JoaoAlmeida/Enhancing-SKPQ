@@ -1,11 +1,16 @@
 package skpq.util;
 
+import java.io.BufferedReader;
+import java.io.File;
 import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.io.OutputStreamWriter;
+import java.io.UnsupportedEncodingException;
 import java.io.Writer;
 import java.util.HashMap;
 import java.util.Iterator;
@@ -138,24 +143,71 @@ public class WebContentCache {
 		return cache.containsKey(uri);
 	}
 
+	//Values fixed manually in the code
+	public void removeValues() throws IOException, FileNotFoundException {
+		
+		BufferedReader exportedCache = new BufferedReader(
+				(new InputStreamReader(new FileInputStream(new File("ratings_dubai.ch.exported")), "ISO-8859-1")));	
+		
+		String line = exportedCache.readLine();
+		
+		if(!cache.isEmpty()) {
+			
+			while(line != null) {
+				
+				String key = line.substring(line.indexOf("key: ") + 5, line.indexOf("|")).trim();
+				
+				if(line.contains("0.0")) {
+					System.out.println("Key 0.0: " + key) ;
+					cache.remove(key);
+				}else if(line.contains("0.1")) {
+					System.out.println("Key 0.1: " + key) ;
+					cache.remove(key);				
+				}else if(line.contains("-1.0")) {
+					System.out.println("Key -1.0: " + key) ;
+					cache.remove(key);
+				}
+				line = exportedCache.readLine();
+			}
+			
+			store();
+			
+			exportedCache.close();
+			
+			System.out.println("Values removed.");
+		}else {
+			System.out.println("WARNING: Cache not loaded!");
+			exportedCache.close();
+		}
+	}
+	
 	public HashMap<String, String> getObject() {
 		return cache;
 	}
 
 	public static void main(String[] args) throws IOException {
 		
-		WebContentCache cache = new WebContentCache("osm_to_opdbLondon.ch");
+//		String lat = "51.5147591";
+//		String lgt = "-0.1648277";
+//		
+//		boolean lat2 = lat.regionMatches(0, Double.toString(51.5148056), 0, 5);
+//		boolean lgt2 =  lgt.regionMatches(0, Double.toString(-0.1647972), 0, 5);
+//		
+//		System.out.println(lat2);
+//		System.out.println(lgt2);
+		
+		WebContentCache cache = new WebContentCache("ratings_dubai.ch");
 		
 //		System.out.println(cache.containsKey("null"));
 		
 		cache.load();
-		
+//		cache.removeValues();
 		//cache.putDescription("Test", "Description");
 		 
 		//cache.store();
 
-//		cache.exportCache();
+		cache.exportCache();
 		
-		cache.printCache();		
+//		cache.printCache();		
 	}
 }

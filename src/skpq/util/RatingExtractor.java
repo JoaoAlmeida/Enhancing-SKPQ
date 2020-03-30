@@ -80,7 +80,7 @@ public class RatingExtractor {
 		}			
 	}
 
-	//Evaluate a LOD query result considering different methods
+	//Evaluate a LOD query result considering different methods. It considers a BN in the query output
 	public ArrayList<String> rateLODresult(String fileName) throws IOException{
 
 		ArrayList<String> rateResults = new ArrayList<>();
@@ -145,8 +145,12 @@ public class RatingExtractor {
 				}
 				rateResults.add(rateObjectwithTA(label, lat, lgt, score));
 			}else if(ratingMode.equals("personalized")){
-				rateResults.add(ratePersonalizedQuery(osmLabel, score, 2));
-			}			
+				//era 2 nos experimentos
+				rateResults.add(ratePersonalizedQuery(osmLabel, score, 6));
+			}	
+//			jump the BN
+			queryResult = reader.readLine();
+//			read the next result
 			queryResult = reader.readLine();
 		}
 
@@ -252,7 +256,7 @@ public class RatingExtractor {
 					}
 					// adiciona escolhido
 					ratingCache.putDescription(osmLabel, Double.toString(maxRating));
-					// salva backup com mais informações dos ratings
+					// salva backup com mais informacoes dos ratings
 					ratingBkp.append(osmLabel + "[ " + key + " ]" + " -- Google ---> " + candidate + "\n");
 
 					if (debug){
@@ -394,7 +398,7 @@ public class RatingExtractor {
 			result = "osmLabel=" + osmLabel + " googleDescription=" + descriptionCache.getDescription(osmLabel)
 			+ " score=" + score + " rate=" + ratingCache.getDescription(osmLabel);
 		} else if(!key.equals("null null") && !key.equals("0.0 0.0")){
-
+			
 			List<Place> places = null;
 
 			try{
@@ -442,9 +446,11 @@ public class RatingExtractor {
 					result =  "osmLabel=" + osmLabel + " googleDescription=" + description + " score=" + score + " rate=" + maxRating;
 				} else {
 					ratingCache.putDescription(osmLabel, Double.toString(places.get(0).getRating()));
+					
 					descriptionCache.putDescription(osmLabel, places.get(0).getName());
 					String objStr = places.get(0).getName() + " " + places.get(0).getLatitude() + " "
 							+ places.get(0).getLongitude() + " " + places.get(0).getRating();
+					
 					ratingBkp.append(osmLabel + "[ " + key + " ]" + " -- Google ---> " + objStr + "\n");
 
 					if (debug) {
@@ -462,7 +468,7 @@ public class RatingExtractor {
 
 			}catch(se.walkercrou.places.exception.GooglePlacesException e){
 
-				result =  "osmLabel=" + osmLabel + " googleDescription=empty" + " score=0.1" + "rate=0.0";
+				result =  "osmLabel=" + osmLabel + " googleDescription=empty" + " score=0.1" + "rate=0.1";
 				ratingCache.putDescription(osmLabel, "0.1");
 				descriptionCache.putDescription(osmLabel, "empty");
 

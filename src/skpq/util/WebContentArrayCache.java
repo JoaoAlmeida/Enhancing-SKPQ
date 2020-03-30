@@ -168,43 +168,43 @@ public class WebContentArrayCache {
 	public static void main(String[] args) throws IOException {
 		
 		
-		BufferedReader reader = new BufferedReader((new InputStreamReader(new FileInputStream(new File("hotelLondon_LGD.txt")), "UTF-8")));
+//		BufferedReader reader = new BufferedReader((new InputStreamReader(new FileInputStream(new File("hotelLondon_LGD.txt")), "UTF-8")));
+//		
+//		String line = reader.readLine();
+//		int count = 0;
+//		while (line != null) {
+//			
+//			String uri = line.substring(line.indexOf("http") - 1).trim();
+//			WebContentArrayCache cache = new WebContentArrayCache("./pois/POI["+count+"].cache", 0.2);
+//			cache.load();
+//			
+//			ArrayList<SpatialObject> set = cache.getArray(uri);
+//			
+//			Iterator<SpatialObject> it = set.iterator();
+//			
+//			while(it.hasNext()) {
+//				SpatialObject obj = it.next();
+//				System.out.println("Feature: " + obj.getCompleteDescription());
+//				if(obj.getLat().contains(")")){
+//					System.out.println("problema encontrado!!");
+//					System.out.println("Cache ID:" + count);
+//					System.out.println("URI POI: " + uri);
+//					
+//					System.exit(0);
+//					break;
+//				}
+//			}			
+//			count++;
+//			line = reader.readLine();
+//			break;
+//		}
+//		
+//		reader.close();
 		
-		String line = reader.readLine();
-		int count = 0;
-		while (line != null) {
-			
-			String uri = line.substring(line.indexOf("http") - 1).trim();
-			WebContentArrayCache cache = new WebContentArrayCache("./pois/POI["+count+"].cache", 0.2);
-			cache.load();
-			
-			ArrayList<SpatialObject> set = cache.getArray(uri);
-			
-			Iterator<SpatialObject> it = set.iterator();
-			
-			while(it.hasNext()) {
-				SpatialObject obj = it.next();
-				System.out.println("Feature: " + obj.getCompleteDescription());
-				if(obj.getLat().contains(")")){
-					System.out.println("problema encontrado!!");
-					System.out.println("Cache ID:" + count);
-					System.out.println("URI POI: " + uri);
-					
-					System.exit(0);
-					break;
-				}
-			}			
-			count++;
-			line = reader.readLine();
-			break;
-		}
-		
-		reader.close();
-		
-//		WebContentArrayCache cache = new WebContentArrayCache("./pois/POI[0].cache", 0.2);
+		WebContentArrayCache cache = new WebContentArrayCache("./pois/POI[26].cache", 0.2);
 //		System.out.println(cache.containsKey("null"));
 		
-//		cache.load();
+		cache.load();
 		
 		//cache.putDescription("Test", "Description");
 		 
@@ -215,23 +215,23 @@ public class WebContentArrayCache {
 //		cache.printCache();
 		
 		//print Array
-//		ArrayList<SpatialObject> set = cache.getArray("http://linkedgeodata.org/triplify/node262778");
-//		
-//		Iterator<SpatialObject> it = set.iterator();
-//		
-//		while(it.hasNext()) {
-//			SpatialObject obj = it.next();
-//			System.out.println(obj.getCompleteDescription());
-//			if(obj.getLat().contains(")")){
-//				System.out.println("problema encontrado!!");
-//				
-//				
-////				System.out.println("Feature: " + obj.getCompleteDescription());
-//				System.exit(0);
-//				break;
-//			}
-//
-//		}
+		ArrayList<SpatialObject> set = cache.getArray("http://linkedgeodata.org/triplify/node59931333");
+		
+		Iterator<SpatialObject> it = set.iterator();
+		
+		while(it.hasNext()) {
+			SpatialObject obj = it.next();
+			System.out.println(obj.getCompleteDescription());
+			if(obj.getLat().contains(")")){
+				System.out.println("problema encontrado!!");
+				
+				
+//				System.out.println("Feature: " + obj.getCompleteDescription());
+				System.exit(0);
+				break;
+			}
+
+		}
 	
 		
 	}

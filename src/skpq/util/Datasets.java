@@ -25,6 +25,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Locale;
 import java.util.Map;
+import java.util.Set;
 import java.util.TimeZone;
 import java.util.TreeSet;
 import java.util.stream.Stream;
@@ -143,11 +144,10 @@ public class Datasets {
 			
 			SpatialObject bn = new SpatialObject(0, bnLabel, null, bnLat, bnLgt);
 			bn.setScore(Double.parseDouble(score[0]));
-//			System.out.println("Neighbor" + bn.getCompleteDescription());
 			obj.setBestNeighbor(bn);
+			
 			topk.add(obj);
-			System.out.println(line);
-			System.out.println("BF: " + bn.getLat() + bn.getLgt());
+		
 			//New POI
 			line = read.readLine();
 
@@ -222,6 +222,7 @@ public class Datasets {
 				+ quotes + label + quotes + "." + "?var geo:lat ?lat." + "?var geo:long ?lon." + "}"
 				+ Sparql.addServiceClosing(USING_GRAPH);
 
+		System.out.println(queryString);
 		Query query = QueryFactory.create(Sparql.addPrefix().concat(queryString));
 
 		try (QueryExecution qexec = QueryExecutionFactory.create(query, model)) {
@@ -255,17 +256,19 @@ public class Datasets {
 						objLat = Float.toString(flat);
 						objLon = Float.toString(flon);
 
-						if (objLat.contains(lat) && objLon.contains(lon)) {
+						if ((objLat.contains(lat) && objLon.contains(lon)) || lat.contains(objLat) && lon.contains(objLon)) {
 							if (uri.isResource()) {
 								if (debug) {
 									System.out.print(uri.asResource().getURI().toString());
 									System.out.println();
 								}
+								
 								Writer fileWrt = new OutputStreamWriter(
-										new FileOutputStream("DatasetsOutput\\" + arquivoOSMLinkado, true),
+										new FileOutputStream("./DatasetsOutput/" + arquivoOSMLinkado, true),
 										"ISO-8859-1");
 
-								fileWrt.append(line + "\n");
+								fileWrt.append(line + " " + uri.asResource().getURI().toString() + "\n");
+								fileWrt.flush();
 								fileWrt.close();
 
 								return uri.asResource().getURI().toString();
@@ -325,7 +328,7 @@ public class Datasets {
 	public void hotelProfiler(String filePath, String hotelName) throws IOException {
 
 		try (Stream<Path> paths = Files
-				.walk(Paths.get("C://Users//Jo√£oPaulo//Documents//GitHub//Enhancing-SKPQ//dubai"))) {
+				.walk(Paths.get("./dubai"))) {
 			paths.filter(Files::isRegularFile).forEach(System.out::println);
 		}
 
@@ -664,11 +667,229 @@ public class Datasets {
 		System.out.println("Dataset splitted!");
 	}
 
+	//Isolate POI and count its check-ins
+	private HashMap<String, SpatialObject> isolatePOI(String foursquareData) throws IOException, FileNotFoundException {
+
+		BufferedReader reader = new BufferedReader(
+				(new InputStreamReader(new FileInputStream(new File(foursquareData)), "ISO-8859-1")));
+		BufferedReader aux = new BufferedReader(
+				(new InputStreamReader(new FileInputStream(new File(foursquareData)), "ISO-8859-1")));
+
+		HashMap<String, SpatialObject> objMap = new HashMap<>();
+
+		String line = reader.readLine();
+
+		int id = 0;
+//		apagar
+//		int lines = 1;
+		int t = 0;
+		while (line != null) {
+
+			String[] lineVec = line.split("\\t");
+			String name = lineVec[3].split("\\{|\\}")[1];
+			String[] venueLocationVec = lineVec[4].split(",");
+
+			//Some check-ins does not have the coordinates
+			if (venueLocationVec[0].split("\\{").length > 1) {
+				
+				String actualPOIAdress = lineVec[4];
+
+				String lat = venueLocationVec[0].split("\\{")[1];
+				String lgt = venueLocationVec[1];
+
+				// Count the number of check-ins in the actual POI
+				int count = 0;
+				String auxLine = aux.readLine();
+
+				SpatialObject obj = new SpatialObject(id, name, "", lat, lgt);
+
+				if (!objMap.containsKey(name)) {
+
+					//Count check-ins
+					while (auxLine != null) {
+
+						String[] auxVec = auxLine.split("\\t");
+						String auxName = auxVec[3].split("\\{|\\}")[1];
+
+						if (auxVec[4].equals(actualPOIAdress) && name.equals(auxName)) {
+							count++;
+						}
+						auxLine = aux.readLine();
+					}
+
+					aux.close();
+					aux = new BufferedReader(
+							(new InputStreamReader(new FileInputStream(new File(foursquareData)), "ISO-8859-1")));
+
+					obj.setNumberCheckin(count);
+					objMap.put(name, obj);
+					t++;
+//					System.out.println(lines + " " + obj.getName() + " " + obj.getLat() + " " + obj.getLgt() + "," + obj.getNumberCheckin());
+				}
+			}
+			line = reader.readLine();
+//			lines++;
+		}
+		reader.close();
+		System.out.println("POIs: " + t);
+		return objMap;
+	}
+	
+	//It does not load category description as default
+	private HashMap<String, SpatialObject> loadPOIs(String dataset) throws IOException, FileNotFoundException {
+
+		BufferedReader reader = new BufferedReader(
+				(new InputStreamReader(new FileInputStream(new File(dataset)), "ISO-8859-1")));
+
+		HashMap<String, SpatialObject> objMap = new HashMap<>();
+
+		String line = reader.readLine();
+
+		while (line != null) {
+
+			String[] lineVec = line.split("\t");
+
+			if (lineVec.length > 4) {
+
+				String id = lineVec[0];
+				String lat = lineVec[1];
+				String lgt = lineVec[2];
+				String category = lineVec[3];
+				String label = lineVec[4];
+
+//			SpatialObject obj = new SpatialObject(Integer.parseInt(id), category + " " + label, null, lat, lgt);
+				SpatialObject obj = new SpatialObject(Integer.parseInt(id), label, null, lat, lgt);
+//			System.out.println(obj.getCompleteDescription());
+				objMap.put(label, obj);
+			}
+			line = reader.readLine();
+		}
+
+		reader.close();
+
+		return objMap;
+	}
+	
+	//Remove POIs without label
+	public void cleanDataset(String dataset) throws IOException, FileNotFoundException {
+		
+		BufferedReader reader = new BufferedReader(
+				(new InputStreamReader(new FileInputStream(new File(dataset)), "ISO-8859-1")));
+		
+		Writer writer = new OutputStreamWriter(
+				new FileOutputStream(dataset + "clean.txt", true), "ISO-8859-1");
+		
+		String line = reader.readLine();
+		
+		while(line != null) {
+			
+			String[] lineVec = line.split("\t");
+			
+			if(lineVec.length == 4 ) {
+				line = reader.readLine();	
+			}else {
+				writer.append(line + "\n");
+			}
+			
+			line = reader.readLine();			
+		}		
+		
+		reader.close();
+		writer.close();
+	}
+	
+	// Create a file with LGD links to Foursquare check-ins
+		public void interestObjectCreateFoursquare(String foursquareData, String osmData) throws IOException {
+
+			HashMap<String, SpatialObject> foursquare = isolatePOI(foursquareData);
+			HashMap<String, SpatialObject> osm = loadPOIs(osmData);
+			
+			Set fSet = foursquare.entrySet();
+			Iterator<SpatialObject> i = fSet.iterator();
+			
+//			Set osmSet = osm.entrySet();
+//			Iterator<SpatialObject> o = osmSet.iterator();
+			
+			while(i.hasNext()) {
+				Map.Entry fEntry = (Map.Entry) i.next();
+				String name = (String) fEntry.getKey();
+				
+//				while(!name.equals("North East Medical Services")) {
+//					 
+//					fEntry = (Map.Entry) i.next();
+//					 name = (String) fEntry.getKey();
+//				}
+				
+				if(osm.containsKey(name)) {
+					
+					SpatialObject obj = osm.get(name);
+				if(!name.contains("\"") && !name.contains("\\")) {
+									
+//				SpatialObject obj = foursquare.get(name);
+					String link = getOSMObject("http://linkedgeodata.org/sparql", obj.getCompleteDescription(), obj.getName(), obj.getLat(), obj.getLgt());
+					
+					System.out.println("Achou: " + name + " " + link);
+			}
+				}else {
+					System.out.println("N„o achou: " + name);
+				}
+			}
+			
+//			System.out.println("Creating the POIs File...");
+//
+//			Writer fileWrt = new OutputStreamWriter(new FileOutputStream("./DatasetsOutput/LGD" + nomeArquivo, true),
+//					"ISO-8859-1");
+//			BufferedReader aux = new BufferedReader((new InputStreamReader(new FileInputStream(new File("./DatasetsOutput/LGDSan Francisco")), "ISO-8859-1")));
+//
+//			String line = reader.readLine();
+//			String auxLine = aux.readLine();
+//			
+//			while (line != null) {
+//
+//				String[] lineVec = line.split("\\t");
+//				
+//				String label = lineVec[3].split("\\{|\\}")[1];
+//				
+//				String[] venueLocationVec = lineVec[4].split(",");							
+//			
+//				String lat = venueLocationVec[0].split("\\{")[1];
+//				String lgt = venueLocationVec[1];				
+//				
+//					/// "http://linkedgeodata.org/vsparql";
+//				if(auxLine == null) {
+//					System.out.println(label);
+//					String link = getOSMObject("http://linkedgeodata.org/sparql", line, label, lat, lgt);
+//					fileWrt.append(lat + " " + lgt + " " + label + " " + link + "\n");
+//
+//					fileWrt.flush();
+//				}
+//				else {
+//					auxLine = aux.readLine();
+//				}
+//								
+////					fileWrt.close();
+////
+////					fileWrt = new OutputStreamWriter(new FileOutputStream("DatasetsOutput\\" + nomeArquivo, true),
+////							"ISO-8859-1");
+//
+//				line = reader.readLine();
+//			}
+//			System.out.println("\nFile created!");
+//			fileWrt.close();
+		}
+		
 	// Examples of usage
 	public static void main(String[] args) throws IOException {
-
-	
-		Datasets obj = new Datasets("./hotelNewYork.txt");
+		
+		Datasets o = new Datasets();
+		
+		o.isolatePOI("./DatasetsOutput/check-ins/San Francisco.txt");
+		
+//		o.loadPOIs("./DatasetsOutput/osm/New York.txt");
+		
+//		Datasets obj = new Datasets("./DatasetsOutput/check-ins/New York.txt");
+//		o.cleanDataset("./DatasetsOutput/osm/San Francisco hotels.txt");
+//		o.interestObjectCreateFoursquare("./DatasetsOutput/check-ins/San Francisco.txt", "./DatasetsOutput/osm/San Francisco.txt");
 
 //		obj.createUserProfile("New York");
 		
@@ -678,7 +899,7 @@ public class Datasets {
 		// hotelProfiler replaced by groupProfiler
 		// obj.hotelProfiler("are_dubai_chelsea_tower_hotel_apartments", "Chelsea
 		// Gardens Hotel");
-		 Datasets.fileHeallthCheck("./datasetsOutput/hotelNewYorkLGD.txt");
+//		 Datasets.fileHeallthCheck("./datasetsOutput/check-ins/San Francisco.txt");
 		// Datasets.fileHeallthCheck("D://Documents//GitHub//Enhancing-SKPQ//DatasetsOutput//hotelLondon.txt");
 
 	}

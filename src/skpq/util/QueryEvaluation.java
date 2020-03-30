@@ -30,17 +30,18 @@ public class QueryEvaluation {
 		results = new ArrayList<>();
 		idealResults = new ArrayList<>();
 
-		readResultSet();
+		readResultSetBN();
 	}
 	
 	public QueryEvaluation(){
 		
 	}
 
+	//Consider removing the methos without Best Neighbor included
 	private void readResultSet() throws IOException{
 
 		BufferedReader reader = new BufferedReader(
-				(new InputStreamReader(new FileInputStream(new File(fileName)), "ISO-8859-1")));
+				(new InputStreamReader(new FileInputStream(new File("./thrash/"+fileName)), "ISO-8859-1")));
 
 		String line = reader.readLine();
 		
@@ -61,6 +62,38 @@ public class QueryEvaluation {
 			results.add(obj);
 			idealResults.add(idealObj);
 
+			line = reader.readLine();
+		}
+
+		reader.close();
+	}
+	
+	private void readResultSetBN() throws IOException{
+
+		BufferedReader reader = new BufferedReader(
+				(new InputStreamReader(new FileInputStream(new File("./thrash/"+fileName)), "ISO-8859-1")));
+
+		String line = reader.readLine();
+		
+		while(line != null){
+		
+			String rate = line.split("rate=")[1].trim();
+			String label = line.split("[0-9]\\.[0-9]")[0].trim();
+//			String googleDescription = line.split("googleDescription=")[1].split("score")[0].trim();
+			String score = line.split("score=")[1].split("rate=")[0].trim();					
+			
+			SpatialObject obj = new SpatialObject(label, Double.parseDouble(rate), Double.parseDouble(score));
+//			System.out.println("Label: " + label);
+//			System.out.println("Rate: " + rate);
+//			System.out.println("Score: " + score);
+//			SpatialObject idealObj = new SpatialObject(googleDescription, Double.parseDouble(rate), Double.parseDouble(rate));
+			SpatialObject idealObj = new SpatialObject(label, Double.parseDouble(rate), Double.parseDouble(rate));
+			
+			results.add(obj);
+			idealResults.add(idealObj);
+
+			line = reader.readLine();
+			//jump another line to ignore the BN
 			line = reader.readLine();
 		}
 
@@ -271,7 +304,7 @@ public class QueryEvaluation {
 		double[] ndcg = new double[4];
 		
 		for(int ind = 0; ind < queryKeyword.length; ind++){
-		System.out.println("Key: " + queryKeyword[ind]);
+			System.out.println("Key: " + queryKeyword[ind]);
 			while(k <= k_max){								
 			
 			boolean arquivoCriado = false;
@@ -280,14 +313,14 @@ public class QueryEvaluation {
 			String fileName = queryName + "-LD [k="+k+", kw="+queryKeyword[ind]+"].txt";
 			
 				if(!arquivoCriado){
-				Writer output = new OutputStreamWriter(new FileOutputStream(fileName.split("\\.txt")[0] + " --- ratings.txt"), "ISO-8859-1");
+				Writer output = new OutputStreamWriter(new FileOutputStream("./thrash/"+fileName.split("\\.txt")[0] + " --- ratings.txt"), "ISO-8859-1");
 				/*Evaluation methods: 
 				 * default --> using only Google Maps rate
 				 * cosine --> considers cosine similarity score and Google Maps rate 
 				 * tripAdvisor --> using an opinRank query, it searches for user's judgment related to the query. It is necessary to set the rate file manually.
 				 * personalized --> searches for the rate related to the the user preference. Each user preference is represented by a profile. The user preference must be described manually in the method.				 
 				 * */	
-				RatingExtractor obj = new RatingExtractor("personalized");
+				RatingExtractor obj = new RatingExtractor("cosine");
 					
 				ArrayList<String> rateResults = obj.rateLODresult("evaluator/"+fileName);
 	
@@ -325,87 +358,14 @@ public class QueryEvaluation {
 	public static void main(String[] args) throws IOException {	
 		
 		QueryEvaluation q = new QueryEvaluation();
-//		String keys[] = {"pitseahall","mischief","nike","devons","crash","glenavon","cullings","laffans","thales","bradfields"};
+		
+//		String keys[] = {"agency","phone","nike","aquarium","crash","secretary","field","medicine","father","tennis"};
 		String keys[] = {"amenity","shop","restaurant","close","street","road","avenue","drive","lane","pub"};
-//		String keys[] = {"bradfields"};		
+//		String keys[] = {"avenue"};		
 		
-		q.evaluateQueriesGroup("PSKPQ", keys, 20);		
-//		q.evaluateQueriesGroup("SKPQ", keys, 20);
-		
-//		int k_max = 5;
-//		@SuppressWarnings("unused")
-//		int inc = 5, k = 5; 
-////		a = 0, i = 1;
-////		double radius = 0.005, radiusMax = 0.005;
-//		while(k <= k_max){
-//			
-//		//	a = 0;
-////			i = 1;
-//			
-//			boolean arquivoCriado = false;
-//			/* A cada experimento, mudar o diretório de saída */
-////			String fileName = "SPKQ-LD [k="+k+", kw=supermarket food].txt";
-////			String fileName = "RQ-LD [k="+k+", kw=cafe].txt";
-//			String fileName = "SKPQ-LD [k="+k+", kw=cafe].txt";
-////			String fileName = "RQ [k="+k+", kw=amenity, radius="+radius+"].txt";
-//			
-////			while(radius <= radiusMax){
-//
-//				DecimalFormat df = new DecimalFormat("#.###");
-//				DecimalFormatSymbols sym = DecimalFormatSymbols.getInstance();
-//				sym.setDecimalSeparator('.');
-//				df.setDecimalFormatSymbols(sym);
-////				String fileName = "RQ [k="+k+", kw=cafe, radius="+df.format(radius)+"].txt";
-//			
-//				if(!arquivoCriado){
-//				Writer output = new OutputStreamWriter(new FileOutputStream(fileName.split("\\.txt")[0] + " --- ratings.txt"), "ISO-8859-1");
-//				RatingExtractor obj = new RatingExtractor("tripAdvisor");
-//	
-////				ArrayList<String> rateResults = obj.rateSKPQresults(fileName);
-//				ArrayList<String> rateResults = obj.rateLODresult(fileName);
-////				ArrayList<String> rateResults = obj.rateRangeLODresult(fileName);
-////				ArrayList<String> rateResults = obj.rateRangeResults(fileName);
-//	
-////				System.out.println("\n\n --- Resultados ---\n");
-//	
-//				for (String x : rateResults) {
-//	
-//					output.write(x + "\n");	
-//				}		
-//				output.close();
-//			}
-//			
-//			QueryEvaluation q = new QueryEvaluation(fileName.split("\\.txt")[0] + " --- ratings.txt");
-//	
-////			ndcg[a] = q.execute();
-//			System.out.println(q.execute());
-//		//	a++;	
-////			radius = radius + 0.02;	
-//			
-//		}
-//			k = k + inc;
-//		}
-//		
-//		//double soma = 0;
-//		
-////		for(int b = 0; b < ndcg.length; b++){											
-////			soma = soma + ndcg[b];
-////			System.out.print(ndcg[b] + " ");
-////		}
-//		
-////		System.out.println("\nSomat�rio " + k + ": " + soma);		
-////		}
-////		System.out.println("\nSomat�rio ");
-////		//Calculate evaluation arithmetic mean
-////		
-////
-////		for(int b = 0; b < evaluations.get(0).length; b++){
-////			for(int c = 0; c < evaluations.size(); c++){		
-////				ndcg[b] = ndcg[b] + evaluations.get(c)[b];
-////			}
-////			//			ndcg[b] = ndcg[b] / evaluations.size();
-////			System.out.print(ndcg[b] + " ");
-////		}
+//		q.evaluateQueriesGroup("Pareto", keys, 20);		
+//		q.evaluateQueriesGroup("SKPQ", keys, 20);	
+		q.evaluateQueriesGroup("SKPQPareto", keys, 20);	
 	}
 
 }

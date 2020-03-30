@@ -22,7 +22,9 @@ public class SpatialObject implements Comparable, Serializable {
 	private SpatialObject bestNeighbor;
 	private boolean isFeature;
 	private String completeDescription;
-	private Resource lgdResource;
+//	private Resource lgdResource;
+	private double paretoProbability;
+	private int numberCheckin;
 	
 	public SpatialObject(int id, String uri) {
 		this.id = id;
@@ -141,7 +143,8 @@ public class SpatialObject implements Comparable, Serializable {
 	}	
 
 	public String getCompleteDescription() {
-		completeDescription = id + " " + label + " " + lat + " " + lgt + " " + score;
+		if(completeDescription == null)
+			completeDescription = id + " " + label + " " + lat + " " + lgt + " " + score;
 		return completeDescription;
 	}
 
@@ -158,12 +161,28 @@ public class SpatialObject implements Comparable, Serializable {
 		this.bestNeighbor = bestNeighbor;
 	}
 	
-	public Resource getLgdResource() {
-		return lgdResource;
+//	public Resource getLgdResource() {
+//		return lgdResource;
+//	}
+//
+//	public void setLgdResource(Resource lgdResource) {
+//		this.lgdResource = lgdResource;
+//	}
+	
+	public double getParetoProbability() {
+		return paretoProbability;
 	}
 
-	public void setLgdResource(Resource lgdResource) {
-		this.lgdResource = lgdResource;
+	public void setParetoProbability(double paretoProbability) {
+		this.paretoProbability = paretoProbability;
+	}
+	
+	public int getNumberCheckin() {
+		return numberCheckin;
+	}
+
+	public void setNumberCheckin(int numberCheckin) {
+		this.numberCheckin = numberCheckin;
 	}
 
 	public int compareTo(Object other) {

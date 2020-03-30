@@ -16,6 +16,7 @@ import java.util.Locale;
 import java.util.Map;
 import java.util.TreeSet;
 
+import org.apache.commons.math3.distribution.ParetoDistribution;
 import org.apache.commons.text.similarity.FuzzyScore;
 import org.apache.commons.text.similarity.JaroWinklerDistance;
 import org.apache.jena.query.ARQ;
@@ -514,7 +515,7 @@ public abstract class SpatialQueryLD implements Experiment {
 						}
 			
 			/* Store the features that are spatially close to the POI in the cache to speed up the next queries */			
-			WebContentArrayCache featuresCache = new WebContentArrayCache("poisNewYork/POI["+ a +"].cache", radius); 			
+			WebContentArrayCache featuresCache = new WebContentArrayCache("pois/POI["+ a +"].cache", radius); 			
 			featuresCache.putArray(interestSet.get(a).getURI(), featureSet);					
 			
 			try {
@@ -665,6 +666,135 @@ public abstract class SpatialQueryLD implements Experiment {
 			if(maxScore != 0) {
 				interestSet.get(a).setScore(maxScore);	
 				interestSet.get(a).setBestNeighbor(bestFeature);
+			}else {
+				interestSet.get(a).setScore(0);
+				SpatialObject nb = new SpatialObject(0, "empty", "empty", "0", "0");
+				nb.setScore(0);
+				interestSet.get(a).setBestNeighbor(nb);
+			}
+
+			if (topK.size() < k) {
+				topK.add(interestSet.get(a));
+				// keeps the best objects, if they have the same scores, keeps
+				// the objects with smaller ids
+			} else if (interestSet.get(a).getScore() > topK.first().getScore()
+					|| (interestSet.get(a).getScore() == topK.first().getScore()
+					&& interestSet.get(a).getId() > topK.first().getId())) {
+				topK.pollFirst();
+				topK.add(interestSet.get(a));
+			}
+			featureSet.clear();
+		}
+		
+		return topK;
+	}
+	
+	//findfeaturesLGDFast using pareto in score equation. 25/03/2020
+	public TreeSet<SpatialObject> findFeaturesPareto(List<SpatialObject> interestSet, String keywords, double radius, String match){
+		 
+		TreeSet<SpatialObject> topK = new TreeSet<>();
+		
+		for (int a = 0; a < interestSet.size(); a++) {
+				
+			WebContentArrayCache featuresCache = new WebContentArrayCache("pois/POI["+ a +"].cache", radius);
+
+			try {
+				featuresCache.load();
+			} catch (IOException e1) {
+				e1.printStackTrace();
+			}
+						
+			if (debug) {
+				System.out.println("::::::::::::::::::::::::::::::::::::::::::::::::::::::::");
+				System.out.println("POI #" + a + " - " + interestSet.get(a).getURI());
+			}
+			
+			ArrayList<SpatialObject> featureSet = featuresCache.getArray(interestSet.get(a).getURI());											
+
+			double maxProb = -Double.MAX_VALUE;
+			double minProb = Double.MAX_VALUE;
+			
+			for (int b = 0; b < featureSet.size(); b++) {
+				
+				double dist = SpatialQueryLD.distFrom(Double.parseDouble(featureSet.get(b).getLat()),
+						Double.parseDouble(featureSet.get(b).getLgt()), Double.parseDouble(interestSet.get(a).getLat()),
+						Double.parseDouble(interestSet.get(a).getLgt()));
+
+				ParetoDistribution par = new ParetoDistribution();
+				
+				double probability = par.logDensity(dist);
+				
+				probability = -probability;
+				
+//				System.out.println(probability);
+
+				if (probability == Double.POSITIVE_INFINITY) {
+					featureSet.get(b).setParetoProbability(Double.POSITIVE_INFINITY);					
+				}else {					
+					featureSet.get(b).setParetoProbability(probability);
+					
+					if(probability < minProb) {
+						minProb = probability;
+					}
+					if(probability > maxProb) {
+						maxProb = probability;
+					}
+				}												
+			}
+			
+//			System.out.println("Max: " + maxProb);
+//			System.out.println("Min: " + minProb);
+			
+			double maxScore = 0;
+			SpatialObject bestFeature = null;
+						
+			// compute the textual score for each feature
+			for (int b = 0; b < featureSet.size(); b++) {					
+				
+				String abs;				
+				
+				if (searchCache.containsKey(featureSet.get(b).getURI())) {									
+					abs = searchCache.getDescription(featureSet.get(b).getURI());
+					
+				} else {
+					abs = getTextDescriptionLGD(featureSet.get(b).getURI());
+					searchCache.putDescription(featureSet.get(b).getURI(), abs);
+				}
+				
+				double score = 0;
+				
+				if(match.equals("default")){						
+					 score = LuceneCosineSimilarity.getCosineSimilarity(abs, keywords);
+				}else if(match.equals("fuzzy")){
+					FuzzyScore f = new FuzzyScore(Locale.ENGLISH);
+					score = f.fuzzyScore(abs, keywords);
+				}else if(match.equals("jw")){
+					JaroWinklerDistance jw = new JaroWinklerDistance();
+					score = jw.apply(abs, keywords);					
+				}else{
+					System.out.println("WARN -- Unknown similarity measure! Default measure used instead. ");
+					score = LuceneCosineSimilarity.getCosineSimilarity(abs, keywords);
+				}
+								
+				// Sometimes the probability will be negative infinite. Here we deal with this
+				// ignoring it.
+				if (!(featureSet.get(b).getParetoProbability() == Double.POSITIVE_INFINITY) && score != 0) {
+
+					double normProb = (featureSet.get(b).getParetoProbability() - minProb) / (maxProb - minProb);					
+					score = (0.5 * score) + ((1 - 0.5) * normProb);	
+				}
+											
+				if (score > maxScore) {					
+					maxScore = score;	
+					bestFeature = featureSet.get(b);
+				}
+			}			
+
+			// set the highest score from one feature in the interest object
+			if(maxScore != 0) {
+				interestSet.get(a).setScore(maxScore);	
+				interestSet.get(a).setBestNeighbor(bestFeature);
+			//in case no feature with textual relevance is found
 			}else {
 				interestSet.get(a).setScore(0);
 				SpatialObject nb = new SpatialObject(0, "empty", "empty", "0", "0");
