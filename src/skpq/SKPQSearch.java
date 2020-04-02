@@ -21,11 +21,13 @@ public class SKPQSearch extends SpatialQueryLD {
 
 	private double radius;	
 	private String match;
+	private String neighborhood;
 	
 	public SKPQSearch(int k, String keywords, String neighborhood, double radius, StarRTree objectsOfInterest, boolean debug, String match) throws IOException {
 		super(k, keywords, objectsOfInterest, debug);
 		this.radius = radius;
 		this.match = match;
+		this.neighborhood = neighborhood;
 	}
 
 //	public SKPQSearch(int k, String keywords, String neighborhood, double radius, StarRTree objectsOfInterest, boolean debug) throws IOException {
@@ -51,7 +53,18 @@ public class SKPQSearch extends SpatialQueryLD {
 			printQueryName();
 		}
 
-		topK = findFeaturesPareto(interestObjectSet, keywords, radius, match);
+		//Organizar isso daqui, dá pra colocar um print pra cada dentro dos ifs
+		if(neighborhood.equals("3")) {
+			topK = findFeaturesPareto(interestObjectSet, keywords, radius, match);
+		}else if(neighborhood.equals("1")) {
+//			range
+			topK = findFeaturesLGDBN(interestObjectSet, keywords, radius, match);
+//			topK = findFeaturesLGDFast(interestObjectSet, keywords, radius, match);
+		}else if(neighborhood.equals("2")) {
+//			influence
+			topK = findFeaturesInfluence(interestObjectSet, keywords, radius, match);
+		}
+		
 		
 		try {
 //			saveResults(topK);
@@ -200,7 +213,7 @@ protected void saveGroupResultsBN(TreeSet<SpatialObject> topK) throws IOExceptio
 protected void saveGroupResultsBNPareto(TreeSet<SpatialObject> topK) throws IOException{
 	
 	/* Imprime 5 */
-	Writer outputFile = new OutputStreamWriter(new FileOutputStream("skpq/SKPQPareto-LD [" + "k=" + "5" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
+	Writer outputFile = new OutputStreamWriter(new FileOutputStream("skpq/ParetoSearch-LD [" + "k=" + "5" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
 	
 	Iterator<SpatialObject> it = topK.descendingIterator();
 	
@@ -214,7 +227,7 @@ protected void saveGroupResultsBNPareto(TreeSet<SpatialObject> topK) throws IOEx
 	outputFile.close();
 	
 	/* Imprime 10 */
-	outputFile = new OutputStreamWriter(new FileOutputStream("skpq/SKPQPareto-LD [" + "k=" + "10" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
+	outputFile = new OutputStreamWriter(new FileOutputStream("skpq/ParetoSearch-LD [" + "k=" + "10" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
 	
 	it = topK.descendingIterator();
 	
@@ -228,7 +241,7 @@ protected void saveGroupResultsBNPareto(TreeSet<SpatialObject> topK) throws IOEx
 	outputFile.close();
 	
 	/* Imprime 15 */
-	outputFile = new OutputStreamWriter(new FileOutputStream("skpq/SKPQPareto-LD [" + "k=" + "15" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
+	outputFile = new OutputStreamWriter(new FileOutputStream("skpq/ParetoSearch-LD [" + "k=" + "15" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
 	
 	it = topK.descendingIterator();
 	
@@ -242,7 +255,7 @@ protected void saveGroupResultsBNPareto(TreeSet<SpatialObject> topK) throws IOEx
 	outputFile.close();
 	
 	/* Imprime 20 */
-	outputFile = new OutputStreamWriter(new FileOutputStream("skpq/SKPQPareto-LD [" + "k=" + "20" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
+	outputFile = new OutputStreamWriter(new FileOutputStream("skpq/ParetoSearch-LD [" + "k=" + "20" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
 	
 	it = topK.descendingIterator();
 	

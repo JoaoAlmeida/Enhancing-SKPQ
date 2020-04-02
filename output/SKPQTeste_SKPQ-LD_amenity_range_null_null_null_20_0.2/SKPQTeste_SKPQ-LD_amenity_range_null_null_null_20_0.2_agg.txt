@@ -1,4 +1,0 @@
-#categoryName experimentName dataset neighborhood plusMode queryType numQueries numKeywords numResults radius mean stdev observations
-SKPQTeste SKPQ-LD amenity range null null null 20 0.2 totalExecutionTime 2026385.0 - 1
-SKPQTeste SKPQ-LD amenity range null null null 20 0.2 nodesAccessed 0.0 - 1
-SKPQTeste SKPQ-LD amenity range null null null 20 0.2 pageFaults 0.0 - 1

@@ -1,4 +1,0 @@
-#categoryName experimentName dataset neighborhood plusMode queryType numQueries numKeywords numResults radius mean stdev observations
-PSKPQLondon Pareto-LD avenue range 10 0.2 nodesAccessed 0.0 - 1
-PSKPQLondon Pareto-LD avenue range 10 0.2 totalExecutionTime 601.0 - 1
-PSKPQLondon Pareto-LD avenue range 10 0.2 pageFaults 0.0 - 1

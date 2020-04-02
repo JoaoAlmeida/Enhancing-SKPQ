@@ -1,4 +1,0 @@
-#categoryName experimentName dataset neighborhood plusMode queryType numQueries numKeywords numResults radius item value min max observations
-PSKPQLondon PSKPQ-LD crash range null null null 5 0.2 nodesAccessed 0.0 - 9223372036854775807 0 0
-PSKPQLondon PSKPQ-LD crash range null null null 5 0.2 pageFaults 0.0 - 9223372036854775807 0 0
-PSKPQLondon PSKPQ-LD crash range null null null 5 0.2 totalExecutionTime 901.0 - 901 901 1

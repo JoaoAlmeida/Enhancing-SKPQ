@@ -880,10 +880,14 @@ public class Datasets {
 		
 	// Examples of usage
 	public static void main(String[] args) throws IOException {
+		double dist = 30000;
+		double radiusMeters = 2000;		 
 		
-		Datasets o = new Datasets();
+		System.out.println(0.5 * Math.pow(2, -dist / radiusMeters));
 		
-		o.isolatePOI("./DatasetsOutput/check-ins/San Francisco.txt");
+//		Datasets o = new Datasets();
+//		
+//		o.isolatePOI("./DatasetsOutput/check-ins/San Francisco.txt");
 		
 //		o.loadPOIs("./DatasetsOutput/osm/New York.txt");
 		

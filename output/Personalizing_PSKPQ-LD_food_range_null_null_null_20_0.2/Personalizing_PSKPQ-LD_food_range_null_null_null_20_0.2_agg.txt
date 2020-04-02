@@ -1,4 +1,0 @@
-#categoryName experimentName dataset neighborhood plusMode queryType numQueries numKeywords numResults radius mean stdev observations
-Personalizing PSKPQ-LD food range null null null 20 0.2 nodesAccessed 2578.0 - 1
-Personalizing PSKPQ-LD food range null null null 20 0.2 pageFaults 503.0 - 1
-Personalizing PSKPQ-LD food range null null null 20 0.2 totalExecutionTime 273248.0 - 1

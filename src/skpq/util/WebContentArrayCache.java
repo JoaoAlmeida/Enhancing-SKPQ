@@ -17,6 +17,7 @@ import java.util.Map;
 import java.util.Set;
 
 import skpq.SpatialObject;
+import skpq.SpatialQueryLD;
 
 
 
@@ -201,7 +202,7 @@ public class WebContentArrayCache {
 //		
 //		reader.close();
 		
-		WebContentArrayCache cache = new WebContentArrayCache("./pois/POI[26].cache", 0.2);
+		WebContentArrayCache cache = new WebContentArrayCache("./pois/POI[0].cache", 0.2);
 //		System.out.println(cache.containsKey("null"));
 		
 		cache.load();
@@ -215,17 +216,22 @@ public class WebContentArrayCache {
 //		cache.printCache();
 		
 		//print Array
-		ArrayList<SpatialObject> set = cache.getArray("http://linkedgeodata.org/triplify/node59931333");
+		ArrayList<SpatialObject> set = cache.getArray("http://linkedgeodata.org/triplify/node262778");
 		
 		Iterator<SpatialObject> it = set.iterator();
 		
 		while(it.hasNext()) {
 			SpatialObject obj = it.next();
 			System.out.println(obj.getCompleteDescription());
+			
+			double dist = SpatialQueryLD.distFrom(Double.parseDouble("50.9905"),
+					Double.parseDouble("-0.825627"), Double.parseDouble(obj.getLat()),Double.parseDouble(obj.getLgt()));
+			
+			System.out.println(dist);
+			
 			if(obj.getLat().contains(")")){
 				System.out.println("problema encontrado!!");
-				
-				
+								
 //				System.out.println("Feature: " + obj.getCompleteDescription());
 				System.exit(0);
 				break;

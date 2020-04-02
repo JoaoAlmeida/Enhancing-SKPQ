@@ -1,4 +1,0 @@
-#categoryName experimentName dataset neighborhood plusMode queryType numQueries numKeywords numResults radius mean stdev observations
-PSKPQLondon PSKPQ-LD glenavon range null null null 5 0.2 nodesAccessed 0.0 - 1
-PSKPQLondon PSKPQ-LD glenavon range null null null 5 0.2 pageFaults 0.0 - 1
-PSKPQLondon PSKPQ-LD glenavon range null null null 5 0.2 totalExecutionTime 533.0 - 1

@@ -1,4 +1,0 @@
-#categoryName experimentName dataset neighborhood plusMode queryType numQueries numKeywords numResults radius mean stdev observations
-PSKPQ PSKPQ-LD street range null null null 20 0.2 nodesAccessed 0.0 - 1
-PSKPQ PSKPQ-LD street range null null null 20 0.2 totalExecutionTime 2248.0 - 1
-PSKPQ PSKPQ-LD street range null null null 20 0.2 pageFaults 0.0 - 1

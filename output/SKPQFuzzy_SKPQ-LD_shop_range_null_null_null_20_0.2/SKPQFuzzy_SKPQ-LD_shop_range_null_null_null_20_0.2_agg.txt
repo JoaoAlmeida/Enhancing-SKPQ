@@ -1,4 +1,0 @@
-#categoryName experimentName dataset neighborhood plusMode queryType numQueries numKeywords numResults radius mean stdev observations
-SKPQFuzzy SKPQ-LD shop range null null null 20 0.2 pageFaults 0.0 - 1
-SKPQFuzzy SKPQ-LD shop range null null null 20 0.2 nodesAccessed 0.0 - 1
-SKPQFuzzy SKPQ-LD shop range null null null 20 0.2 totalExecutionTime 8842835.0 - 1

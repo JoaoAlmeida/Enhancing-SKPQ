@@ -24,41 +24,41 @@ public class QueryEvaluation {
 	ArrayList<SpatialObject> idealResults;
 	private boolean debug = false;
 
-	public QueryEvaluation(String fileName) throws IOException{
+	public QueryEvaluation(String fileName) throws IOException {
 		this.fileName = fileName;
-		
+
 		results = new ArrayList<>();
 		idealResults = new ArrayList<>();
 
-		readResultSetBN();
-	}
-	
-	public QueryEvaluation(){
-		
+		readResultSet();
 	}
 
-	//Consider removing the methos without Best Neighbor included
-	private void readResultSet() throws IOException{
+	public QueryEvaluation() {
+
+	}
+
+	// Consider removing the methos without Best Neighbor included
+	private void readResultSet() throws IOException {
 
 		BufferedReader reader = new BufferedReader(
-				(new InputStreamReader(new FileInputStream(new File("./thrash/"+fileName)), "ISO-8859-1")));
+				(new InputStreamReader(new FileInputStream(new File("./thrash/" + fileName)), "ISO-8859-1")));
 
 		String line = reader.readLine();
-		
-		while(line != null){
-		
+
+		while (line != null) {
+
 			String rate = line.split("rate=")[1].trim();
 			String label = line.split("[0-9]\\.[0-9]")[0].trim();
 //			String googleDescription = line.split("googleDescription=")[1].split("score")[0].trim();
-			String score = line.split("score=")[1].split("rate=")[0].trim();					
-			
+			String score = line.split("score=")[1].split("rate=")[0].trim();
+
 			SpatialObject obj = new SpatialObject(label, Double.parseDouble(rate), Double.parseDouble(score));
 //			System.out.println("Label: " + label);
 //			System.out.println("Rate: " + rate);
 //			System.out.println("Score: " + score);
 //			SpatialObject idealObj = new SpatialObject(googleDescription, Double.parseDouble(rate), Double.parseDouble(rate));
 			SpatialObject idealObj = new SpatialObject(label, Double.parseDouble(rate), Double.parseDouble(rate));
-			
+
 			results.add(obj);
 			idealResults.add(idealObj);
 
@@ -67,305 +67,367 @@ public class QueryEvaluation {
 
 		reader.close();
 	}
-	
-	private void readResultSetBN() throws IOException{
+
+	private void readResultSetBN() throws IOException {
 
 		BufferedReader reader = new BufferedReader(
-				(new InputStreamReader(new FileInputStream(new File("./thrash/"+fileName)), "ISO-8859-1")));
+				(new InputStreamReader(new FileInputStream(new File("./thrash/" + fileName)), "ISO-8859-1")));
 
 		String line = reader.readLine();
-		
-		while(line != null){
-		
+
+		while (line != null) {
+
 			String rate = line.split("rate=")[1].trim();
+			//rever esse label, parece estar lendo outras coisas
 			String label = line.split("[0-9]\\.[0-9]")[0].trim();
 //			String googleDescription = line.split("googleDescription=")[1].split("score")[0].trim();
-			String score = line.split("score=")[1].split("rate=")[0].trim();					
-			
+			String score = line.split("score=")[1].split("rate=")[0].trim();
+
 			SpatialObject obj = new SpatialObject(label, Double.parseDouble(rate), Double.parseDouble(score));
 //			System.out.println("Label: " + label);
 //			System.out.println("Rate: " + rate);
 //			System.out.println("Score: " + score);
 //			SpatialObject idealObj = new SpatialObject(googleDescription, Double.parseDouble(rate), Double.parseDouble(rate));
 			SpatialObject idealObj = new SpatialObject(label, Double.parseDouble(rate), Double.parseDouble(rate));
-			
+
 			results.add(obj);
 			idealResults.add(idealObj);
 
+			// jump another line to ignore the BN
 			line = reader.readLine();
-			//jump another line to ignore the BN
+
 			line = reader.readLine();
 		}
 
 		reader.close();
 	}
-	
-	public double precision(){
-		
+
+	public double precision() {
+
 		int k = results.size();
-		
+
 		int relevants = 0;
-		
-		for(int a = 0; a < results.size(); a++){
-			//if the object's rate is higher than 3, it is considered a relevant object
-			if(results.get(a).getScore() > 3){
+
+		for (int a = 0; a < results.size(); a++) {
+			// if the object's rate is higher than 3, it is considered a relevant object
+			if (results.get(a).getScore() > 3) {
 				relevants++;
 			}
 		}
-				
+
 		return (double) relevants / k;
 	}
-	
-	/*Computes P@N */
-	public double precisionN(int n){
-				
+
+	/* Computes P@N */
+	public double precisionN(int n) {
+
 		int relevants = 0;
-		
-		for(int a = 0; a <= n; a++){
-			//if the object's rate is higher than 3, it is considered a relevant object
-			if(results.get(a).getScore() > 3){
+
+		for (int a = 0; a <= n; a++) {
+			// if the object's rate is higher than 3, it is considered a relevant object
+			if (results.get(a).getScore() > 3) {
 				relevants++;
 			}
-		}				
-		return (double) relevants / (n+1);
+		}
+		return (double) relevants / (n + 1);
 	}
-	
-	public double averagePrecision(){
-		
+
+	public double averagePrecision() {
+
 		double ap = 0;
 		int r = 0;
 		int relevants = 0;
-		
-		for(int a = 0; a < results.size(); a++){
-			if(results.get(a).getScore() > 3){
+
+		for (int a = 0; a < results.size(); a++) {
+			if (results.get(a).getScore() > 3) {
 				r = 1;
 			}
 			ap = ap + (precisionN(a) * r);
 			r = 0;
 		}
-		
-		for(int a = 0; a < results.size(); a++){
-			//if the object's rate is higher than 3, it is considered a relevant object
-			if(results.get(a).getScore() > 3){
+
+		for (int a = 0; a < results.size(); a++) {
+			// if the object's rate is higher than 3, it is considered a relevant object
+			if (results.get(a).getScore() > 3) {
 				relevants++;
 			}
-		}		
+		}
 		return (double) ap / relevants;
 	}
-	
-	public double[] cumulativeGain(){
+
+	public double[] cumulativeGain() {
 
 		double[] cg = new double[results.size()];
 
 		cg[0] = results.get(0).getScore();
-		
-		for(int a = 1; a < results.size(); a++){			
-			cg[a] = results.get(a).getScore() + cg[a - 1];			
+
+		for (int a = 1; a < results.size(); a++) {
+			cg[a] = results.get(a).getScore() + cg[a - 1];
 		}
 		return cg;
 	}
-		
+
 	/* Uso não necessário, implementado só para testes */
 	@SuppressWarnings("unchecked")
 	@Deprecated
-	public double[] idealCumulativeGain(ArrayList<SpatialObject> results){
+	public double[] idealCumulativeGain(ArrayList<SpatialObject> results) {
 
 		double[] icg = new double[results.size()];
 
 		Collections.sort(results);
-		
-		icg[0] = results.get(results.size()-1).getScore();
-		
-		int b = 1;		
-		for(int a = results.size() - 2; a >= 0; a--){			
+
+		icg[0] = results.get(results.size() - 1).getScore();
+
+		int b = 1;
+		for (int a = results.size() - 2; a >= 0; a--) {
 			icg[b] = results.get(a).getScore() + icg[b - 1];
 			b++;
 		}
 
 		return icg;
 	}
-		
 
 	@SuppressWarnings("unchecked")
-	public double[] idealDiscountCumulativeGain(ArrayList<SpatialObject> resultsClone){
+	public double[] idealDiscountCumulativeGain(ArrayList<SpatialObject> resultsClone) {
 
 		double[] idcg = new double[idealResults.size()];
 
-		Collections.sort(idealResults);		
-		
-		idcg[0] = idealResults.get(idealResults.size()-1).getScore();
+		Collections.sort(idealResults);
+
+		idcg[0] = idealResults.get(idealResults.size() - 1).getScore();
 
 		int b = 1;
-		for(int a = idealResults.size()-2; a >= 0; a--){	
-			idcg[b] = idcg[b - 1] + (idealResults.get(a).getScore() / (Math.log10(b+1) / Math.log10(2)));		
+		for (int a = idealResults.size() - 2; a >= 0; a--) {
+			idcg[b] = idcg[b - 1] + (idealResults.get(a).getScore() / (Math.log10(b + 1) / Math.log10(2)));
 			b++;
 		}
 
 		return idcg;
 	}
 
-	public double[] discountCumulativeGain(){
+	public double[] discountCumulativeGain() {
 
 		double[] dcg = new double[results.size()];
-	
+
 		dcg[0] = results.get(0).getRate();
 
-		for(int a = 1; a < results.size(); a++){			
-			dcg[a] = dcg[a - 1] + (results.get(a).getRate() / (Math.log10(a+1) / Math.log10(2)));		
+		for (int a = 1; a < results.size(); a++) {
+			dcg[a] = dcg[a - 1] + (results.get(a).getRate() / (Math.log10(a + 1) / Math.log10(2)));
 		}
 
 		return dcg;
 	}
-	
-	public double[] normalizedDiscountCumulativeGain(double[] idcg, double[] dcg){
-		
-		double[] ndcg = new double[results.size()];	
 
-		for(int a = 0; a < ndcg.length; a++){
+	public double[] normalizedDiscountCumulativeGain(double[] idcg, double[] dcg) {
+
+		double[] ndcg = new double[results.size()];
+
+		for (int a = 0; a < ndcg.length; a++) {
 			ndcg[a] = dcg[a] / idcg[a];
-		}					
+		}
 		return ndcg;
 	}
 	
-	private double outputVec(String fileName, double[] dcg, double[] idcg, double[] ndcg, double precision, double avPrecision) throws IOException{
+	public double kendallTauCoef() {
 		
+		double cons = 0, disc = 0;
+		double coef;
+		
+		for(int a = 0; a < results.size()-1; a++) {
+			for(int b = 0; b < results.size()-1; b++) {
+				if(a != b) {
+					if(agreement(results.get(a), results.get(b))) {
+						cons++;
+					}else {
+						disc++;
+					}
+				}
+			}
+		}
+
+		coef = (cons - disc) / (cons + disc);
+
+		return Math.abs(coef);
+	}
+	
+	//Identify if the pair of POIs is concordant or discordant. True if concordant, false otherwise
+	public boolean agreement(SpatialObject x, SpatialObject y) {
+		
+		boolean agr = false;
+		
+		if(x.getScore() > y.getScore()) {
+			if(x.getRate() > y.getRate()) {
+				agr = true;
+			}
+		}else if(x.getScore() < y.getScore()) {
+			if(x.getRate() < y.getRate()) {
+				agr = true;
+			}
+		}else{
+			if(x.getRate() == y.getRate()) {
+				agr = true;
+			}
+			}
+		
+		return agr;
+	}
+
+	private double outputVec(String fileName, double[] dcg, double[] idcg, double[] ndcg, double precision,
+			double avPrecision, double tau) throws IOException {
+
 		double acumulator1 = 0, acumulator2 = 0;
-		
+
 		String file = "evaluations\\" + fileName.split(" --- ratings")[0] + " Evaluation.txt";
-				
-		Writer output = new OutputStreamWriter(new FileOutputStream(file), "ISO-8859-1");			
-			
-		output.write("[DCG] = { ");		
-		for(int a = 0; a < results.size(); a++){
+
+		Writer output = new OutputStreamWriter(new FileOutputStream(file), "ISO-8859-1");
+
+		output.write("[DCG] = { ");
+		for (int a = 0; a < results.size(); a++) {
 			acumulator1 = acumulator1 + dcg[a];
 			output.write(Double.toString(dcg[a]) + "  ");
-		}		
+		}
 		output.write(" } = " + acumulator1 + "\n");
-				
-		output.write("[IDCG] = { ");		
-		for(int a = 0; a < results.size(); a++){
+
+		output.write("[IDCG] = { ");
+		for (int a = 0; a < results.size(); a++) {
 			acumulator2 = acumulator2 + idcg[a];
 			output.write(Double.toString(idcg[a]) + "  ");
-		}		
+		}
 		output.write(" } = " + acumulator2 + "\n");
-				
-		output.write("[NDCG] =");		
 
-		output.write(" " + acumulator1/acumulator2 + "\n");
-			
-		output.write("[Precision] = " + precision + "\n");
-		output.write("[Average Precision] = " + avPrecision);
+		output.write("[NDCG] =");
+
+		output.write(" " + acumulator1 / acumulator2 + "\n");
+
+		output.write("[Tau] = " + tau);
 		
-		if(debug)
-		System.out.println("Evaluation data printed at: " + file);
-		
+//		output.write("[Precision] = " + precision + "\n");
+//		output.write("[Average Precision] = " + avPrecision);
+
+		if (debug)
+			System.out.println("Evaluation data printed at: " + file);
+
 		output.close();
-		
-		return acumulator1/acumulator2;
+
+		return acumulator1 / acumulator2;
 	}
 
 	@SuppressWarnings("unused")
-	private void output(String fileName, double[] dcg, double[] idcg, double[] ndcg, double precision, double avPrecision) throws IOException{
-		
-		Writer output = new OutputStreamWriter(new FileOutputStream(fileName.split(" --- ratings.txt")[0] + " Evaluation.txt"), "ISO-8859-1");
-		
+	private void output(String fileName, double[] dcg, double[] idcg, double[] ndcg, double precision,
+			double avPrecision) throws IOException {
+
+		Writer output = new OutputStreamWriter(
+				new FileOutputStream(fileName.split(" --- ratings.txt")[0] + " Evaluation.txt"), "ISO-8859-1");
+
 		output.write("#\tDCG \t\t\t\t IDCG \t\t\t\t NDCG\n");
-		
-		for(int a = 0; a < results.size(); a++){
+
+		for (int a = 0; a < results.size(); a++) {
 			output.write("[" + a + "] " + dcg[a] + "  " + idcg[a] + "  " + ndcg[a] + "\n");
 		}
-		
+
 		output.write("[Precision] = " + precision + "\n");
 		output.write("[Average Precision] = " + avPrecision + "\n");
-		
+
 		System.out.println("Evaluation data printed at: " + fileName.split(" --- ratings.txt")[0] + " Evaluation.txt");
-		
+
 		output.close();
 	}
-	
-	public double execute() throws IOException{
-		
+
+	public double execute() throws IOException {
+
 		double[] dcg = discountCumulativeGain();
 		@SuppressWarnings("unchecked")
 		double[] idcg = idealDiscountCumulativeGain((ArrayList<SpatialObject>) results.clone());
-		
-		double[] ndcg = normalizedDiscountCumulativeGain(idcg, dcg);
-		
-		double precision = precision();
-		double avPrecision = averagePrecision();		
-		
-		return outputVec(fileName, dcg, idcg, ndcg, precision, avPrecision);
-	}
-	
-	private void evaluateQueriesGroup(String queryName, String[] queryKeyword, int k_max) throws IOException{
-		
-		@SuppressWarnings("unused")
-		int inc = 5, k = 5, a = 0;		
-		double[] ndcg = new double[4];
-		
-		for(int ind = 0; ind < queryKeyword.length; ind++){
-			System.out.println("Key: " + queryKeyword[ind]);
-			while(k <= k_max){								
-			
-			boolean arquivoCriado = false;
-			/* A cada experimento, mudar o diretorio de saida */
 
-			String fileName = queryName + "-LD [k="+k+", kw="+queryKeyword[ind]+"].txt";
-			
-				if(!arquivoCriado){
-				Writer output = new OutputStreamWriter(new FileOutputStream("./thrash/"+fileName.split("\\.txt")[0] + " --- ratings.txt"), "ISO-8859-1");
-				/*Evaluation methods: 
-				 * default --> using only Google Maps rate
-				 * cosine --> considers cosine similarity score and Google Maps rate 
-				 * tripAdvisor --> using an opinRank query, it searches for user's judgment related to the query. It is necessary to set the rate file manually.
-				 * personalized --> searches for the rate related to the the user preference. Each user preference is represented by a profile. The user preference must be described manually in the method.				 
-				 * */	
-				RatingExtractor obj = new RatingExtractor("cosine");
+		double[] ndcg = normalizedDiscountCumulativeGain(idcg, dcg);
+
+		double precision = precision();
+		double avPrecision = averagePrecision();
+
+		double tau = kendallTauCoef();
+		
+		System.out.println(tau);
+		
+		return outputVec(fileName, dcg, idcg, ndcg, precision, avPrecision, tau);
+	}
+
+	//Refatorar, chamando o construtor duas vezes
+	private void evaluateQueriesGroup(String queryName, String[] queryKeyword, int k_max) throws IOException {
+
+		@SuppressWarnings("unused")
+		int inc = 5, k = 5, a = 0;
+		double[] ndcg = new double[4];
+
+		for (int ind = 0; ind < queryKeyword.length; ind++) {
+
+			System.out.println("Key: " + queryKeyword[ind]);
+
+			while (k <= k_max) {
+
+				boolean arquivoCriado = false;
+
+				String fileName = queryName + "-LD [k=" + k + ", kw=" + queryKeyword[ind] + "].txt";
+
+				if (!arquivoCriado) {
 					
-				ArrayList<String> rateResults = obj.rateLODresult("evaluator/"+fileName);
-	
-				for (String x : rateResults) {
-	
-					output.write(x + "\n");	
-				}		
-				output.close();
+					Writer output = new OutputStreamWriter(
+							new FileOutputStream("./thrash/" + fileName.split("\\.txt")[0] + " --- ratings.txt"),
+							"ISO-8859-1");
+					
+					/*
+					 * Evaluation methods: 
+					 * default --> using only Google Maps rate 
+					 * cosine --> considers cosine similarity score and Google Maps rate 
+					 * tripAdvisor --> using an opinRank query, it searches for user's judgment related to the query. It
+					 * is necessary to set the rate file manually. 
+					 * personalized --> searches for the rate related to the the user preference. Each user preference is represented
+					 * by a profile. The user preference must be described manually in the method.
+					 */
+					RatingExtractor obj = new RatingExtractor("cosine");
+
+					ArrayList<String> rateResults = obj.rateLODresult("evaluator/" + fileName);
+
+					for (String x : rateResults) {
+
+						output.write(x + "\n");
+					}
+					output.close();
+				}
+
+				QueryEvaluation q = new QueryEvaluation(fileName.split("\\.txt")[0] + " --- ratings.txt");
+
+				ndcg[a] = q.execute();
+//				System.out.println(ndcg[a]);
+				a++;
+
+				k = k + inc;
 			}
-			
-			QueryEvaluation q = new QueryEvaluation(fileName.split("\\.txt")[0] + " --- ratings.txt");
-			
-			ndcg[a] = q.execute();
-			System.out.println(ndcg[a]);
-			a++;					
-			
-			k = k + inc;		
-	}
-		
-		
-		double soma = 0;
-		
-		for(int b = 0; b < ndcg.length; b++){											
-			soma = soma + ndcg[b];
-			System.out.print(ndcg[b] + " ");
+
+			double soma = 0;
+
+			for (int b = 0; b < ndcg.length; b++) {
+				soma = soma + ndcg[b];
+//				System.out.print(ndcg[b] + " ");
+			}
+
+			System.out.println("\nAverage: " + soma / 4 + "\n\n");
+			a = 0;
+			k = 5;
 		}
-		
-		System.out.println("\nAverage: " + soma/4 + "\n\n");
-		a = 0;
-		k = 5;
-		}		
 	}
-	
-	
-	public static void main(String[] args) throws IOException {	
-		
+
+	public static void main(String[] args) throws IOException {
+
 		QueryEvaluation q = new QueryEvaluation();
 		
-//		String keys[] = {"agency","phone","nike","aquarium","crash","secretary","field","medicine","father","tennis"};
-		String keys[] = {"amenity","shop","restaurant","close","street","road","avenue","drive","lane","pub"};
-//		String keys[] = {"avenue"};		
-		
-//		q.evaluateQueriesGroup("Pareto", keys, 20);		
+		String keys[] = { "agency", "phone", "nike", "aquarium", "crash", "secretary", "field", "medicine", "father", "tennis" };
+//		String keys[] = {"amenity","shop","restaurant","close","street","road","avenue","drive","lane","pub"};
+//		String keys[] = {"agency"};		
+
+		q.evaluateQueriesGroup("Pareto", keys, 20);		
 //		q.evaluateQueriesGroup("SKPQ", keys, 20);	
-		q.evaluateQueriesGroup("SKPQPareto", keys, 20);	
+//		q.evaluateQueriesGroup("ParetoSearch", keys, 20);
+//		q.evaluateQueriesGroup("SKPQPareto", keys, 20);
 	}
 
 }

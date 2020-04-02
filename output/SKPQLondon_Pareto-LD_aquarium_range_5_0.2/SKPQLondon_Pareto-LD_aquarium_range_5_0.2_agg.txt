@@ -1,4 +1,0 @@
-#categoryName experimentName dataset neighborhood plusMode queryType numQueries numKeywords numResults radius mean stdev observations
-SKPQLondon Pareto-LD aquarium range 5 0.2 nodesAccessed 0.0 - 1
-SKPQLondon Pareto-LD aquarium range 5 0.2 pageFaults 0.0 - 1
-SKPQLondon Pareto-LD aquarium range 5 0.2 totalExecutionTime 549.0 - 1

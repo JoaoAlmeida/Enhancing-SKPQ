@@ -1,4 +1,0 @@
-#categoryName experimentName dataset neighborhood plusMode queryType numQueries numKeywords numResults radius item value min max observations
-SKPQRandomJW SKPQ-LD glenavon range null null null 20 0.2 nodesAccessed 0.0 - 9223372036854775807 0 0
-SKPQRandomJW SKPQ-LD glenavon range null null null 20 0.2 pageFaults 0.0 - 9223372036854775807 0 0
-SKPQRandomJW SKPQ-LD glenavon range null null null 20 0.2 totalExecutionTime 18237.0 - 18237 18237 1

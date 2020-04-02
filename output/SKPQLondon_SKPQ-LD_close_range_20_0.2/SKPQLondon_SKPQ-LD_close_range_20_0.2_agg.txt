@@ -1,4 +1,0 @@
-#categoryName experimentName dataset neighborhood plusMode queryType numQueries numKeywords numResults radius mean stdev observations
-SKPQLondon SKPQ-LD close range 20 0.2 pageFaults 0.0 - 1
-SKPQLondon SKPQ-LD close range 20 0.2 nodesAccessed 0.0 - 1
-SKPQLondon SKPQ-LD close range 20 0.2 totalExecutionTime 1119247.0 - 1

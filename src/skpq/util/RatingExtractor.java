@@ -290,7 +290,8 @@ public class RatingExtractor {
 		return result;
 	}	
 
-	//profiles sao obtidos da tabela dubai.txt, comeca na coluna 11 (contagem iniciando de 0). O numero no profile comeca de zero.
+	//profiles sao obtidos da tabela dubai.txt, comeca na coluna 11 (contagem iniciando de 0 dentro do método). O número no profile comeca de zero.
+	//Caso nao use para personalização, utilize a coluna 17 - profile number 6 (overall_ratingsource)
 	private String ratePersonalizedQuery(String osmLabel, String score, int profile) throws IOException{
 		
 		String result = "";		
@@ -612,7 +613,7 @@ public class RatingExtractor {
 		} else if(!key.equals("null null") && !key.equals("0.0 0.0")){
 			
 			BufferedReader readerLink = new BufferedReader(
-					(new InputStreamReader(new FileInputStream(new File("osmLinkTrip.txt")), "ISO-8859-1")));
+					(new InputStreamReader(new FileInputStream(new File("./osmLinks/osmLinkTrip.txt")), "ISO-8859-1")));
 			
 			BufferedReader readerRate = new BufferedReader(
 					(new InputStreamReader(new FileInputStream(new File("qdubai_9.q")), "ISO-8859-1")));
@@ -641,7 +642,7 @@ public class RatingExtractor {
 			readerLink.close();
 //			System.out.println("Trip = " + tripLabel);
 			String lineRate = readerRate.readLine();
-			
+
 			while(lineRate != null){
 				String[] lineRateVec = lineRate.split(";");
 				
