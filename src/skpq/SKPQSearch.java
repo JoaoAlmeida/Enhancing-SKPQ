@@ -56,23 +56,29 @@ public class SKPQSearch extends SpatialQueryLD {
 		//Organizar isso daqui, dá pra colocar um print pra cada dentro dos ifs
 		if(neighborhood.equals("3")) {
 			topK = findFeaturesPareto(interestObjectSet, keywords, radius, match);
+			try {
+//				saveResults(topK);
+				saveGroupResultsBNPareto(topK);
+//				evaluateQuery(keywords, null, k);
+			} catch (IOException e) {
+				e.printStackTrace();
+			}		
 		}else if(neighborhood.equals("1")) {
 //			range
 			topK = findFeaturesLGDBN(interestObjectSet, keywords, radius, match);
 //			topK = findFeaturesLGDFast(interestObjectSet, keywords, radius, match);
+			
+			try {
+//				saveResults(topK);
+				saveGroupResultsBN(topK);
+//				evaluateQuery(keywords, null, k);
+			} catch (IOException e) {
+				e.printStackTrace();
+			}	
 		}else if(neighborhood.equals("2")) {
 //			influence
 			topK = findFeaturesInfluence(interestObjectSet, keywords, radius, match);
-		}
-		
-		
-		try {
-//			saveResults(topK);
-			saveGroupResultsBNPareto(topK);
-//			evaluateQuery(keywords, null, k);
-		} catch (IOException e) {
-			e.printStackTrace();
-		}		
+		}			
 
 		return topK;
 	}
@@ -88,10 +94,6 @@ public class SKPQSearch extends SpatialQueryLD {
 			SpatialObject obj = it.next();
 			outputFile.write("-->[" + a + "]  " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt="
 					+ obj.getLgt() + ", score=" + obj.getScore() + "]\n");
-			
-//			Not using BN anymore. Maintaining for later use.
-//			outputFile.write("-->[" + a + "]  " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt="
-//					+ obj.getLgt() + ", BN=" + obj.bestNeighbor.getURI() + ", score=" + obj.getScore() + "]\n");
 		}
 
 		outputFile.close();

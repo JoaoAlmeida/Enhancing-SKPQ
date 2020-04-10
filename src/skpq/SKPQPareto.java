@@ -15,10 +15,7 @@ import java.util.TreeSet;
 
 import org.apache.commons.math3.distribution.ParetoDistribution;
 
-import se.walkercrou.places.GooglePlaces;
 import skpq.util.Datasets;
-import skpq.util.RatingExtractor;
-import skpq.util.User;
 import weka.clusterers.SimpleKMeans;
 import weka.core.Instances;
 import xxl.util.StarRTree;

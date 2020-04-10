@@ -346,7 +346,7 @@ public class QueryEvaluation {
 
 		double tau = kendallTauCoef();
 		
-		System.out.println(tau);
+//		System.out.println(tau);
 		
 		return outputVec(fileName, dcg, idcg, ndcg, precision, avPrecision, tau);
 	}
@@ -397,7 +397,7 @@ public class QueryEvaluation {
 				QueryEvaluation q = new QueryEvaluation(fileName.split("\\.txt")[0] + " --- ratings.txt");
 
 				ndcg[a] = q.execute();
-//				System.out.println(ndcg[a]);
+				System.out.println(ndcg[a]);
 				a++;
 
 				k = k + inc;
@@ -407,7 +407,7 @@ public class QueryEvaluation {
 
 			for (int b = 0; b < ndcg.length; b++) {
 				soma = soma + ndcg[b];
-//				System.out.print(ndcg[b] + " ");
+				System.out.print(ndcg[b] + " ");
 			}
 
 			System.out.println("\nAverage: " + soma / 4 + "\n\n");
@@ -420,12 +420,12 @@ public class QueryEvaluation {
 
 		QueryEvaluation q = new QueryEvaluation();
 		
-		String keys[] = { "agency", "phone", "nike", "aquarium", "crash", "secretary", "field", "medicine", "father", "tennis" };
-//		String keys[] = {"amenity","shop","restaurant","close","street","road","avenue","drive","lane","pub"};
-//		String keys[] = {"agency"};		
+//		String keys[] = { "agency", "phone", "nike", "aquarium", "crash", "secretary", "field", "medicine", "father", "tennis" };
+		String keys[] = {"amenity","shop","restaurant","close","street","road","avenue","drive","lane","pub"};
+//		String keys[] = {"avenue"};		
 
-		q.evaluateQueriesGroup("Pareto", keys, 20);		
-//		q.evaluateQueriesGroup("SKPQ", keys, 20);	
+//		q.evaluateQueriesGroup("Pareto", keys, 20);		
+		q.evaluateQueriesGroup("SKPQ", keys, 20);	
 //		q.evaluateQueriesGroup("ParetoSearch", keys, 20);
 //		q.evaluateQueriesGroup("SKPQPareto", keys, 20);
 	}

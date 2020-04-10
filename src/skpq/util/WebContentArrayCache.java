@@ -37,7 +37,7 @@ public class WebContentArrayCache {
 	private HashMap<String, ArrayList<SpatialObject>> cache;
 	private String cacheFileName;
 	private boolean debug = false;
-	private final double radius = 0.2;
+	private final double radius = 0.01;
 
 	public WebContentArrayCache(String cacheFileName, double radius) {
 		this.cacheFileName = cacheFileName;
@@ -45,7 +45,7 @@ public class WebContentArrayCache {
 		cache = new HashMap<String, ArrayList<SpatialObject>>();
 		
 		if(this.radius != radius) {
-			System.out.println("The cache contains only query results obtained using query radius of " + radius + " km");
+			System.out.println("The cache contains only query results obtained using query radius of " + this.radius + " km");
 		}
 	}
 

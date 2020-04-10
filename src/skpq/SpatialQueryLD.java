@@ -439,7 +439,7 @@ public abstract class SpatialQueryLD implements Experiment {
 
 		String serviceURI = "http://linkedgeodata.org/sparql";
 
-		for (int a = 0; a < interestSet.size(); a++) {					 
+		for (int a = 392; a < interestSet.size(); a++) {					 
 			if (debug) {
 			 System.out.println("::::::::::::::::::::::::::::::::::::::::::::::::::::::::");
 				System.out.print("POI #" + a + " - " + interestSet.get(a).getURI());
@@ -447,7 +447,7 @@ public abstract class SpatialQueryLD implements Experiment {
 			
 			featureSet = new ArrayList<>();
 			
-			// Find features within 200 meters (200m = 0.2)
+			// Find features within 200 meters (200m = 0.002)
 			String queryString = "" + Sparql.addService(USING_GRAPH, serviceURI) + "SELECT DISTINCT ?resource ?location ?name WHERE { <"
 					+ interestSet.get(a).getURI() + "> <http://geovocab.org/geometry#geometry>  ?point ."
 					+ "?point <http://www.opengis.net/ont/geosparql#asWKT> ?sourcegeo."
@@ -518,6 +518,7 @@ public abstract class SpatialQueryLD implements Experiment {
 			WebContentArrayCache featuresCache = new WebContentArrayCache("pois/POI["+ a +"].cache", radius); 			
 			featuresCache.putArray(interestSet.get(a).getURI(), featureSet);					
 			
+			//Save the cache
 			try {
 				featuresCache.store();
 			} catch (IOException e) {
@@ -573,10 +574,7 @@ public abstract class SpatialQueryLD implements Experiment {
 					maxScore = score;
 					bestFeature = featureSet.get(b);		
 				}
-			}					
-			
-//			features.clear();
-//			features = new ArrayList<>();
+			}								
 
 			// set the highest score from one feature in the interest object
 			interestSet.get(a).setScore(maxScore);
@@ -725,8 +723,9 @@ public abstract class SpatialQueryLD implements Experiment {
 				ParetoDistribution par = new ParetoDistribution();
 				
 				double probability = par.logDensity(dist);
-				
-				probability = -probability;
+								
+				//não da pra fazer issso. Tem que ser negativo mesmo. Ou normalizar a outra função de probabilidade
+//				probability = -probability;
 				
 //				System.out.println(probability);
 
