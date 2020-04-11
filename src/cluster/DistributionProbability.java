@@ -52,7 +52,7 @@ public class DistributionProbability {
 
 	public static void main(String[] args) throws IOException {
 
-		Writer writer = new OutputStreamWriter(new FileOutputStream("./datasetsOutput/distances.txt", true),
+		Writer writer = new OutputStreamWriter(new FileOutputStream("./datasetsOutput/distancesDensity.txt", true),
 				"ISO-8859-1");
 
 		ArrayList<SpatialObject> pois = loadObjectsInterest("./datasetsOutput/osm/London hotel.txt");
@@ -75,7 +75,8 @@ public class DistributionProbability {
 
 				ParetoDistribution par = new ParetoDistribution();
 
-				double probability = par.logDensity(dist);
+//				double probability = par.logDensity(dist);
+				double probability = par.density(dist);
 				if (probability != Double.NEGATIVE_INFINITY) {
 					String line = dist + " " + probability;
 					writer.append(line + "\n");

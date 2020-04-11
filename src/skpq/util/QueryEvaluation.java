@@ -3,17 +3,16 @@ package skpq.util;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
-import java.io.UnsupportedEncodingException;
 import java.io.Writer;
-import java.text.DecimalFormat;
-import java.text.DecimalFormatSymbols;
 import java.util.ArrayList;
 import java.util.Collections;
+
+import org.apache.commons.math3.distribution.ParetoDistribution;
+import org.apache.tika.mime.ProbabilisticMimeDetectionSelector;
 
 import skpq.SpatialObject;
 
@@ -68,6 +67,7 @@ public class QueryEvaluation {
 		reader.close();
 	}
 
+	@SuppressWarnings("unused")
 	private void readResultSetBN() throws IOException {
 
 		BufferedReader reader = new BufferedReader(
@@ -333,8 +333,10 @@ public class QueryEvaluation {
 		output.close();
 	}
 
-	public double execute() throws IOException {
+	public double[] execute() throws IOException {
 
+		double[] metrics = new double[2];
+		
 		double[] dcg = discountCumulativeGain();
 		@SuppressWarnings("unchecked")
 		double[] idcg = idealDiscountCumulativeGain((ArrayList<SpatialObject>) results.clone());
@@ -343,24 +345,25 @@ public class QueryEvaluation {
 
 		double precision = precision();
 		double avPrecision = averagePrecision();
-
-		double tau = kendallTauCoef();
 		
-//		System.out.println(tau);
+		double tau = kendallTauCoef();		
+		metrics[0] = tau;
 		
-		return outputVec(fileName, dcg, idcg, ndcg, precision, avPrecision, tau);
+		metrics[1] = outputVec(fileName, dcg, idcg, ndcg, precision, avPrecision, tau);
+		
+//		System.out.println(tau);		
+		return metrics;
 	}
 
 	//Refatorar, chamando o construtor duas vezes
 	private void evaluateQueriesGroup(String queryName, String[] queryKeyword, int k_max) throws IOException {
 
-		@SuppressWarnings("unused")
 		int inc = 5, k = 5, a = 0;
-		double[] ndcg = new double[4];
+		double[][] metrics = new double[4][4];
 
 		for (int ind = 0; ind < queryKeyword.length; ind++) {
 
-			System.out.println("Key: " + queryKeyword[ind]);
+			System.out.println("========== KEY: " + queryKeyword[ind].toUpperCase() + " ==========\n");
 
 			while (k <= k_max) {
 
@@ -396,37 +399,51 @@ public class QueryEvaluation {
 
 				QueryEvaluation q = new QueryEvaluation(fileName.split("\\.txt")[0] + " --- ratings.txt");
 
-				ndcg[a] = q.execute();
-				System.out.println(ndcg[a]);
+				metrics[a] = q.execute();
+//				System.out.println(metrics[a]);
 				a++;
 
 				k = k + inc;
 			}
 
+			System.out.println("Tau:");
+			for(double[] n : metrics) {
+				System.out.println(n[0]);
+			}
+			
+			System.out.println("NDCG:");
+			for(double[] n : metrics) {
+				System.out.println(n[1]);
+			}
+			
+			
 			double soma = 0;
 
-			for (int b = 0; b < ndcg.length; b++) {
-				soma = soma + ndcg[b];
-				System.out.print(ndcg[b] + " ");
+			for (int b = 0; b < metrics.length; b++) {
+				soma = soma + metrics[b][1];
+				System.out.print(metrics[b][1] + " ");
 			}
 
-			System.out.println("\nAverage: " + soma / 4 + "\n\n");
+			System.out.println("\nAverage NDCG: " + soma / 4 + "\n\n");
 			a = 0;
 			k = 5;
 		}
 	}
 
 	public static void main(String[] args) throws IOException {
-
+//		ParetoDistribution par = new ParetoDistribution();		
+//			
+//		System.out.println(par.logDensity(0));
+		
 		QueryEvaluation q = new QueryEvaluation();
 		
 //		String keys[] = { "agency", "phone", "nike", "aquarium", "crash", "secretary", "field", "medicine", "father", "tennis" };
 		String keys[] = {"amenity","shop","restaurant","close","street","road","avenue","drive","lane","pub"};
-//		String keys[] = {"avenue"};		
+//		String keys[] = {"field"};		
 
 //		q.evaluateQueriesGroup("Pareto", keys, 20);		
-		q.evaluateQueriesGroup("SKPQ", keys, 20);	
-//		q.evaluateQueriesGroup("ParetoSearch", keys, 20);
+//		q.evaluateQueriesGroup("SKPQ", keys, 20);	
+		q.evaluateQueriesGroup("ParetoSearch", keys, 20);
 //		q.evaluateQueriesGroup("SKPQPareto", keys, 20);
 	}
 

@@ -1,5 +1,6 @@
 package skpq;
 
+import java.awt.Toolkit;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
@@ -22,12 +23,14 @@ public class SKPQSearch extends SpatialQueryLD {
 	private double radius;	
 	private String match;
 	private String neighborhood;
+	private String city;
 	
-	public SKPQSearch(int k, String keywords, String neighborhood, double radius, StarRTree objectsOfInterest, boolean debug, String match) throws IOException {
+	public SKPQSearch(int k, String keywords, String neighborhood, double radius, StarRTree objectsOfInterest, boolean debug, String match, String city) throws IOException {
 		super(k, keywords, objectsOfInterest, debug);
 		this.radius = radius;
 		this.match = match;
 		this.neighborhood = neighborhood;
+		this.city = city;
 	}
 
 //	public SKPQSearch(int k, String keywords, String neighborhood, double radius, StarRTree objectsOfInterest, boolean debug) throws IOException {
@@ -42,7 +45,7 @@ public class SKPQSearch extends SpatialQueryLD {
 		TreeSet<SpatialObject> topK = new TreeSet<>();
 
 		try {
-			interestObjectSet = loadObjectsInterest("hotelLondon_LGD.txt");
+			interestObjectSet = loadObjectsInterest("./"+city.toLowerCase()+"/"+city+"LGD.txt");
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
@@ -55,10 +58,10 @@ public class SKPQSearch extends SpatialQueryLD {
 
 		//Organizar isso daqui, dá pra colocar um print pra cada dentro dos ifs
 		if(neighborhood.equals("3")) {
-			topK = findFeaturesPareto(interestObjectSet, keywords, radius, match);
+			topK = findFeaturesPareto(interestObjectSet, keywords, radius, match, city.toLowerCase());
 			try {
 //				saveResults(topK);
-				saveGroupResultsBNPareto(topK);
+				saveGroupResultsBNPareto(topK); 
 //				evaluateQuery(keywords, null, k);
 			} catch (IOException e) {
 				e.printStackTrace();

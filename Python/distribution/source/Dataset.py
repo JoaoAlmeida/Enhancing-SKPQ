@@ -14,10 +14,11 @@ x = arr.array('f', [0, 10, 100, 1000])
 #dist_list = dist.tolist()
 
 #dist_list.pop()
-
+data['distance'] = data['distance'] / 1000
+#data['probability'] = data['probability'] / 1000
 #possiveis pontos , ou .
 f = plt.plot(data['distance'], data['probability'], 'b.')
-plt.axis([0.0, 25000, np.amin(data['probability']), np.amax(data['probability'])])
+plt.axis([0.0, 25, np.amin(data['probability']), np.amax(data['probability'])])
 #plt.xscale("log")
 #plt.yscale("symlog")
 plt.xlabel("Distance between region center and POI (m)")

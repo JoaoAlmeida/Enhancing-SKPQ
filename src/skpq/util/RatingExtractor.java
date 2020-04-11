@@ -21,7 +21,6 @@ public class RatingExtractor {
 
 	private HashMap<String, String> objetosInteresse;
 	private WebContentCache ratingCache, tripCache, uriCache;
-//	, personalizedCache;
 	private WebContentCache descriptionCache;
 	private GooglePlaces googleAPI;
 	private Writer ratingBkp;
@@ -37,7 +36,7 @@ public class RatingExtractor {
 		ratingBkp = new OutputStreamWriter(new FileOutputStream(bkpFileName, true), "ISO-8859-1");
 
 		//stores google rates
-		ratingCache = new WebContentCache("ratings_dubai.ch");
+		ratingCache = new WebContentCache("./london/ratings.ch");
 		ratingCache.load();
 		
 		//stores hotels uri

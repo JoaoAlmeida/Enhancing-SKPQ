@@ -41,7 +41,7 @@ public class SKPQFramework extends DefaultExperimentManager {
 	}
 
 	private String getNeighborhood(int value) {
-		return value == 0 ? "nn" : (value == 1 ? "range" : (value == 2 ? "influence" : "error"));
+		return value == 0 ? "nn" : (value == 1 ? "range" : (value == 2 ? "influence" : (value == 3 ? "pareto" : "error")));
 	}
 
 	public String getTestId() {
@@ -64,9 +64,9 @@ public class SKPQFramework extends DefaultExperimentManager {
 				experiment = new SKPQSearch(Integer.parseInt(getProperties().getProperty("query.numResults")),
 						getProperties().getProperty("query.keywords"),
 						getProperties().getProperty("query.neighborhood"),
-						Double.parseDouble(getProperties().getProperty("query.radius", "0.2")), objectsOfInterest,
+						Double.parseDouble(getProperties().getProperty("query.radius")), objectsOfInterest,
 						Boolean.parseBoolean(getProperties().getProperty("experiment.debug", "false")),
-						getProperties().getProperty("query.match", "default"));
+						getProperties().getProperty("query.match", "default"), getProperties().getProperty("query.city"));
 		
 			} else if (getProperties().getProperty("query.name").equals("PSKPQ-LD")) {		
 

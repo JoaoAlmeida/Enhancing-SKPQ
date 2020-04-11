@@ -196,7 +196,7 @@ public class WebContentCache {
 //		System.out.println(lat2);
 //		System.out.println(lgt2);
 		
-		WebContentCache cache = new WebContentCache("ratings_dubai.ch");
+		WebContentCache cache = new WebContentCache("descriptions.ch");
 		
 //		System.out.println(cache.containsKey("null"));
 		

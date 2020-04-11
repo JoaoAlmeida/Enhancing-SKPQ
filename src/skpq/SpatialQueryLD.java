@@ -1,5 +1,6 @@
 package skpq;
 
+import java.awt.Toolkit;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;
@@ -30,7 +31,6 @@ import org.apache.jena.rdf.model.Model;
 import org.apache.jena.rdf.model.ModelFactory;
 import org.apache.jena.rdf.model.RDFNode;
 import org.apache.jena.rdf.model.Resource;
-import org.apache.jena.sparql.function.library.max;
 
 import cosinesimilarity.LuceneCosineSimilarity;
 import node.Sparql;
@@ -195,6 +195,8 @@ public abstract class SpatialQueryLD implements Experiment {
 		} catch (Exception e) {
 			throw new ExperimentException(e);
 		}
+		
+		Toolkit.getDefaultToolkit().beep();
 	}
 
 	protected abstract void saveResults(TreeSet<SpatialObject> topK) throws IOException;
@@ -203,7 +205,9 @@ public abstract class SpatialQueryLD implements Experiment {
 		System.out.println("\nk = " + k + " | keywords = [ " + keywords + " ]\n\n");
 	}
 
-	protected double[] evaluateQuery(String keywords, String radius, int numResult, boolean personalized) throws IOException{
+	//a forma de retornar as metricas atraves do metodo execute() mudou. Precisa revisar se o retorno esta corrento dentro desse metodo
+	@Deprecated
+	protected double[][] evaluateQuery(String keywords, String radius, int numResult, boolean personalized) throws IOException{
 
 		System.out.println("\n");
 		System.out.println("=========================");
@@ -213,7 +217,7 @@ public abstract class SpatialQueryLD implements Experiment {
 		String fileName;
 		ArrayList<String> rateResults = null;
 
-		double[] ndcg = new double[4];
+		double[][] ndcg = new double[4][4];
 
 		int k_max = numResult;
 		int inc = 5, k = 5, a = 0;
@@ -439,7 +443,7 @@ public abstract class SpatialQueryLD implements Experiment {
 
 		String serviceURI = "http://linkedgeodata.org/sparql";
 
-		for (int a = 392; a < interestSet.size(); a++) {					 
+		for (int a = 0; a < interestSet.size(); a++) {					 
 			if (debug) {
 			 System.out.println("::::::::::::::::::::::::::::::::::::::::::::::::::::::::");
 				System.out.print("POI #" + a + " - " + interestSet.get(a).getURI());
@@ -478,15 +482,15 @@ public abstract class SpatialQueryLD implements Experiment {
 
 						QuerySolution rb = rs.nextSolution();
 
-						RDFNode x = rb.get("resource");
+						RDFNode feature_link = rb.get("resource");
 						RDFNode location = rb.get("location");
 						RDFNode nome = rb.get("name");
 
-						if (x.isResource()) {
+						if (feature_link.isResource()) {
 							// Set of objects neighbors to the object of interest (POI)
 //							featureSet.add((Resource) x);
 							
-							Resource r = (Resource) x;
+							Resource r = (Resource) feature_link;
 																				
 							String[] array = location.asLiteral().getString().split(",")[0].split(" ");
 							String lgt = array[0].split("\\(")[1];
@@ -515,7 +519,7 @@ public abstract class SpatialQueryLD implements Experiment {
 						}
 			
 			/* Store the features that are spatially close to the POI in the cache to speed up the next queries */			
-			WebContentArrayCache featuresCache = new WebContentArrayCache("pois/POI["+ a +"].cache", radius); 			
+			WebContentArrayCache featuresCache = new WebContentArrayCache("./london/pois/POI["+ a +"].cache", radius); 			
 			featuresCache.putArray(interestSet.get(a).getURI(), featureSet);					
 			
 			//Save the cache
@@ -539,11 +543,17 @@ public abstract class SpatialQueryLD implements Experiment {
 
 				String abs;				
 
-				if (searchCache.containsKey(featureSet.get(b).getURI())) {
+				if (searchCache.containsKey(featureSet.get(b).getURI())) {					
 					abs = searchCache.getDescription(featureSet.get(b).getURI());
 				} else {
 					abs = getTextDescriptionLGD(featureSet.get(b).getURI());
 					searchCache.putDescription(featureSet.get(b).getURI(), abs);
+					
+					try {
+						searchCache.store();
+					} catch (IOException e) {
+						e.printStackTrace();
+					}
 				}		
 				
 				double score = 0;
@@ -561,13 +571,6 @@ public abstract class SpatialQueryLD implements Experiment {
 				}else{
 					System.out.println("WARN -- Unknown similarity measure! Default measure used instead. ");
 					score = LuceneCosineSimilarity.getCosineSimilarity(abs, keywords);
-				}
-				
-				try {
-					searchCache.store();
-				} catch (IOException e) {
-					// TODO Auto-generated catch block
-					e.printStackTrace();
 				}
 
 				if (score > maxScore) {
@@ -690,13 +693,13 @@ public abstract class SpatialQueryLD implements Experiment {
 	/* findfeaturesLGDFast using pareto in score equation. 25/03/2020
 	 * cache must be created first executing the findFeaturesLGDBN(List<SpatialObject> interestSet, String keywords, double radius, String match)
 	 */
-	public TreeSet<SpatialObject> findFeaturesPareto(List<SpatialObject> interestSet, String keywords, double radius, String match){
+	public TreeSet<SpatialObject> findFeaturesPareto(List<SpatialObject> interestSet, String keywords, double radius, String match, String city){
 		 
 		TreeSet<SpatialObject> topK = new TreeSet<>();
 		
 		for (int a = 0; a < interestSet.size(); a++) {
 				
-			WebContentArrayCache featuresCache = new WebContentArrayCache("pois/POI["+ a +"].cache", radius);
+			WebContentArrayCache featuresCache = new WebContentArrayCache("./"+city +"/pois/POI["+ a +"].cache", radius);
 
 			try {
 				featuresCache.load();
@@ -723,14 +726,10 @@ public abstract class SpatialQueryLD implements Experiment {
 				ParetoDistribution par = new ParetoDistribution();
 				
 				double probability = par.logDensity(dist);
-								
-				//não da pra fazer issso. Tem que ser negativo mesmo. Ou normalizar a outra função de probabilidade
-//				probability = -probability;
-				
-//				System.out.println(probability);
 
-				if (probability == Double.POSITIVE_INFINITY) {
-					featureSet.get(b).setParetoProbability(Double.POSITIVE_INFINITY);					
+				//acontece quando feature == POI
+				if (probability == Double.NEGATIVE_INFINITY) {
+					featureSet.get(b).setParetoProbability(Double.NEGATIVE_INFINITY);					
 				}else {					
 					featureSet.get(b).setParetoProbability(probability);
 					
@@ -776,7 +775,7 @@ public abstract class SpatialQueryLD implements Experiment {
 								
 				// Sometimes the probability will be negative infinite. Here we deal with this
 				// ignoring it.
-				if (!(featureSet.get(b).getParetoProbability() == Double.POSITIVE_INFINITY) && score != 0) {
+				if (!(featureSet.get(b).getParetoProbability() == Double.NEGATIVE_INFINITY) && score != 0) {
 
 					double normProb = (featureSet.get(b).getParetoProbability() - minProb) / (maxProb - minProb);					
 					score = (0.5 * score) + ((1 - 0.5) * normProb);	
@@ -1470,7 +1469,7 @@ public abstract class SpatialQueryLD implements Experiment {
 						abs = x.asLiteral().getValue().toString();
 
 					} else {
-						System.out.println("SEM ABSTRACT");
+						System.out.println("NO ABSTRACT");
 						abs = "";
 					}
 				}
@@ -1521,7 +1520,7 @@ public abstract class SpatialQueryLD implements Experiment {
 					if (x.isLiteral()) {
 						abs = x.asLiteral().getValue().toString();			
 					} else {
-						System.out.println("SEM ABSTRACT");
+						System.out.println("NO ABSTRACT");
 						abs = "";
 					}
 				}

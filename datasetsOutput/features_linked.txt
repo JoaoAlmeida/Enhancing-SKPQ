@@ -128,3 +128,826 @@
 15791 Mezes Kitchen & Wine Bar 37.7999251 -122.4423765 0.0 http://linkedgeodata.org/triplify/node3380825010
 4907 Big Cleaners 37.760618 -122.4381539 0.0 http://linkedgeodata.org/triplify/node559174750
 8681 Stable Cafe 37.7632466 -122.4152866 0.0 http://linkedgeodata.org/triplify/node1610994013
+6275	40.7825165	-73.9812484	(tourism) (hotel)	Belleclaire Hotel http://linkedgeodata.org/triplify/node368061418
+6276	40.7819444	-73.9825	(tourism) (hotel)	Hotel Churchill http://linkedgeodata.org/triplify/node368061423
+11687	40.7814188	-73.9799422	(tourism) (hotel)	Amsterdam Inn http://linkedgeodata.org/triplify/node822939198
+11983	40.7443441	-73.9867075	(tourism) (hotel)	Latham http://linkedgeodata.org/triplify/node990032612
+11991	40.7690103	-73.982912	(tourism) (hotel)	Mandarin Oriental http://linkedgeodata.org/triplify/node999526140
+12559	40.7441337	-73.9832129	(tourism) (hotel)	Clarion Hotel Park Avenue http://linkedgeodata.org/triplify/node1297296350
+13271	40.744605	-73.9816301	(tourism) (hotel)	Hotel 31 http://linkedgeodata.org/triplify/node1684014132
+14287	40.797937	-73.9700113	(tourism) (hotel)	Broadway Hotel & Hostel http://linkedgeodata.org/triplify/node2033992909
+15245	40.752112	-73.9355399	(tourism) (hotel)	Hotel Verve http://linkedgeodata.org/triplify/node2285673938
+15249	40.7533047	-73.9344091	(tourism) (hotel)	Holiday Inn Long Island City-Manhattan View http://linkedgeodata.org/triplify/node2286893392
+15435	40.7451377	-73.9900206	(tourism) (hotel)	Senton Hotel http://linkedgeodata.org/triplify/node2307164617
+15516	40.742143	-73.984716	(tourism) (hotel)	Hotel Giraffe http://linkedgeodata.org/triplify/node2317577533
+17385	40.7549383	-73.9742339	(tourism) (hotel)	Roger Smith Hotel http://linkedgeodata.org/triplify/node2535060647
+21067	40.7522336	-73.9855082	(tourism) (hotel)	Americana Inn http://linkedgeodata.org/triplify/node2709702525
+23845	40.7615481	-73.8327073	(tourism) (hotel)	Ramada Flushing http://linkedgeodata.org/triplify/node3016579710
+23947	40.7147307	-73.9930413	(tourism) (hotel)	Howard Johnson Manhattan Soho http://linkedgeodata.org/triplify/node3047275032
+24256	40.7654216	-73.9793143	(tourism) (hotel)	Park Hyatt New York http://linkedgeodata.org/triplify/node3116191043
+24382	40.8672304	-73.974529	(tourism) (hotel)	Holiday Inn http://linkedgeodata.org/triplify/node3132256639
+24951	40.7354356	-74.0647293	(tourism) (hotel)	Haiban Inn Hotel http://linkedgeodata.org/triplify/node3271886829
+26226	40.752813	-73.927635	(tourism) (hotel)	The Paper Factory Hotel http://linkedgeodata.org/triplify/node3577755993
+26227	40.7329346	-74.06744	(tourism) (hotel)	Ramada Jersey City http://linkedgeodata.org/triplify/node3577880566
+27291	40.7331047	-73.9863263	(tourism) (hotel)	Union Square Inn http://linkedgeodata.org/triplify/node3676888125
+6275	40.7825165	-73.9812484	(tourism) (hotel)	Belleclaire Hotel http://linkedgeodata.org/triplify/node368061418
+6276	40.7819444	-73.9825	(tourism) (hotel)	Hotel Churchill http://linkedgeodata.org/triplify/node368061423
+10992	40.7260894	-73.9916568	(tourism) (hotel)	The Bowery Hotel http://linkedgeodata.org/triplify/node420468324
+11437	40.7528779	-73.9837787	(tourism) (hotel)	Bryant Park Hotel http://linkedgeodata.org/triplify/node688351220
+11687	40.7814188	-73.9799422	(tourism) (hotel)	Amsterdam Inn http://linkedgeodata.org/triplify/node822939198
+11690	40.8716691	-74.0047534	(tourism) (hotel)	Marriott Glenpointe http://linkedgeodata.org/triplify/node826496221
+11786	40.7149558	-74.015694	(tourism) (hotel)	Conrad New York http://linkedgeodata.org/triplify/node889117109
+11983	40.7443441	-73.9867075	(tourism) (hotel)	Latham http://linkedgeodata.org/triplify/node990032612
+11991	40.7690103	-73.982912	(tourism) (hotel)	Mandarin Oriental http://linkedgeodata.org/triplify/node999526140
+12062	40.796654	-73.9708276	(tourism) (hotel)	Hotel 99 http://linkedgeodata.org/triplify/node1061531752
+12449	40.7593126	-73.9748883	(tourism) (hotel)	Omni Berkshire Place http://linkedgeodata.org/triplify/node1272252342
+12458	40.7590118	-73.9844836	(tourism) (hotel)	DoubleTree Suites http://linkedgeodata.org/triplify/node1273406878
+12559	40.7441337	-73.9832129	(tourism) (hotel)	Clarion Hotel Park Avenue http://linkedgeodata.org/triplify/node1297296350
+12652	40.7456886	-73.9881558	(tourism) (hotel)	Ace Hotel http://linkedgeodata.org/triplify/node1383913906
+12726	40.8295012	-74.0935849	(tourism) (hotel)	Homewood Suites by Hilton http://linkedgeodata.org/triplify/node1416059484
+12784	40.7526594	-73.9744845	(tourism) (hotel)	Fitzpatrick Grand Central Hotel http://linkedgeodata.org/triplify/node1427273334
+12853	40.7610689	-73.9739729	(tourism) (hotel)	adour alan ducasse http://linkedgeodata.org/triplify/node1428427563
+13271	40.744605	-73.9816301	(tourism) (hotel)	Hotel 31 http://linkedgeodata.org/triplify/node1684014132
+13348	40.7537504	-73.9945935	(tourism) (hotel)	Tryp by Wyndham http://linkedgeodata.org/triplify/node1707825821
+13562	40.7932576	-73.9722071	(tourism) (hotel)	Days Hotel http://linkedgeodata.org/triplify/node1809517485
+13597	40.7590853	-73.995439	(tourism) (hotel)	Yotel New York http://linkedgeodata.org/triplify/node1821451551
+13772	40.764515	-73.9958863	(tourism) (hotel)	Ink48 http://linkedgeodata.org/triplify/node1873813874
+14287	40.797937	-73.9700113	(tourism) (hotel)	Broadway Hotel & Hostel http://linkedgeodata.org/triplify/node2033992909
+14346	40.7806418	-73.9810865	(tourism) (hotel)	Hotel Beacon http://linkedgeodata.org/triplify/node2047267696
+15244	40.7519978	-73.93459	(tourism) (hotel)	Hotel Quality Inn http://linkedgeodata.org/triplify/node2285673937
+15245	40.752112	-73.9355399	(tourism) (hotel)	Hotel Verve http://linkedgeodata.org/triplify/node2285673938
+15249	40.7533047	-73.9344091	(tourism) (hotel)	Holiday Inn Long Island City-Manhattan View http://linkedgeodata.org/triplify/node2286893392
+15250	40.7533546	-73.9338761	(tourism) (hotel)	Hotel Vetiver http://linkedgeodata.org/triplify/node2286893393
+15274	40.7532412	-73.9348723	(tourism) (hotel)	Nesva Hotel http://linkedgeodata.org/triplify/node2291512774
+15315	40.7456401	-73.9840983	(tourism) (hotel)	Roger hotel http://linkedgeodata.org/triplify/node2295868818
+15435	40.7451377	-73.9900206	(tourism) (hotel)	Senton Hotel http://linkedgeodata.org/triplify/node2307164617
+15436	40.744469	-73.9891087	(tourism) (hotel)	Broadway Plaza Hotel http://linkedgeodata.org/triplify/node2307164624
+15516	40.742143	-73.984716	(tourism) (hotel)	Hotel Giraffe http://linkedgeodata.org/triplify/node2317577533
+15667	40.7443742	-73.9968175	(tourism) (hotel)	Hotel Chelsea http://linkedgeodata.org/triplify/node2325990473
+15914	40.7543785	-73.9357096	(tourism) (hotel)	Four Points http://linkedgeodata.org/triplify/node2355891394
+16005	40.7446533	-73.9993815	(tourism) (hotel)	The GEM Hotel Chelsea http://linkedgeodata.org/triplify/node2377128188
+16162	40.7219036	-73.9580608	(tourism) (hotel)	Wythe Hotel http://linkedgeodata.org/triplify/node2402042613
+17385	40.7549383	-73.9742339	(tourism) (hotel)	Roger Smith Hotel http://linkedgeodata.org/triplify/node2535060647
+18314	40.7231911	-73.9902082	(tourism) (hotel)	The GEM Hotel Soho http://linkedgeodata.org/triplify/node2555126668
+19219	40.7184763	-73.9952734	(tourism) (hotel)	Best Western Bowery Hanbee Hotel http://linkedgeodata.org/triplify/node2572411284
+19226	40.7238201	-74.0052592	(tourism) (hotel)	Hampton Inn Manhattan-SoHo http://linkedgeodata.org/triplify/node2572411292
+19593	40.7621727	-73.9829659	(tourism) (hotel)	The Manhattan at Times Square Hotel http://linkedgeodata.org/triplify/node2610440255
+20028	40.7597371	-73.9845837	(tourism) (hotel)	Renaissance New York Times Square Hotel http://linkedgeodata.org/triplify/node2639531871
+20761	40.7422561	-74.0039856	(tourism) (hotel)	Maritime Hotel http://linkedgeodata.org/triplify/node2702838405
+21066	40.7521714	-73.9853616	(tourism) (hotel)	Refinery http://linkedgeodata.org/triplify/node2709702498
+21067	40.7522336	-73.9855082	(tourism) (hotel)	Americana Inn http://linkedgeodata.org/triplify/node2709702525
+21068	40.7504174	-73.9868834	(tourism) (hotel)	Courtyard http://linkedgeodata.org/triplify/node2709702534
+21593	40.788788	-73.9752734	(tourism) (hotel)	Hotel Belnord http://linkedgeodata.org/triplify/node2758752391
+21614	40.7935439	-73.9722622	(tourism) (hotel)	The Hotel Newton http://linkedgeodata.org/triplify/node2759308679
+21781	40.7573258	-73.9982956	(tourism) (hotel)	Best Western Convention Center http://linkedgeodata.org/triplify/node2777135780
+22320	40.7051991	-74.0076662	(tourism) (hotel)	Andaz Wall Street http://linkedgeodata.org/triplify/node2825051771
+22321	40.7051879	-74.0061997	(tourism) (hotel)	Eurostars Wall Street Hotel http://linkedgeodata.org/triplify/node2825051790
+22507	40.7546857	-73.8540459	(tourism) (hotel)	Holiday Inn http://linkedgeodata.org/triplify/node2832426859
+22907	40.7671189	-73.8966722	(tourism) (hotel)	WESTWAY HOTEL LAGUARDIA AIRPORT http://linkedgeodata.org/triplify/node2853370185
+23630	40.7528315	-73.9810928	(tourism) (hotel)	Andaz http://linkedgeodata.org/triplify/node1428036328
+23680	40.756852	-73.9891945	(tourism) (hotel)	Hilton Times Square http://linkedgeodata.org/triplify/node2965638696
+23832	40.745587	-73.9936036	(tourism) (hotel)	Hilton New York Fashion District http://linkedgeodata.org/triplify/node3008612563
+23845	40.7615481	-73.8327073	(tourism) (hotel)	Ramada Flushing http://linkedgeodata.org/triplify/node3016579710
+23947	40.7147307	-73.9930413	(tourism) (hotel)	Howard Johnson Manhattan Soho http://linkedgeodata.org/triplify/node3047275032
+24256	40.7654216	-73.9793143	(tourism) (hotel)	Park Hyatt New York http://linkedgeodata.org/triplify/node3116191043
+24382	40.8672304	-73.974529	(tourism) (hotel)	Holiday Inn http://linkedgeodata.org/triplify/node3132256639
+24580	40.800031	-74.0649552	(tourism) (hotel)	Extended Stay America - Secaucus - Meadowlands http://linkedgeodata.org/triplify/node3156296279
+24951	40.7354356	-74.0647293	(tourism) (hotel)	Haiban Inn Hotel http://linkedgeodata.org/triplify/node3271886829
+25359	40.758372	-73.8345885	(tourism) (hotel)	The Parc Hotel http://linkedgeodata.org/triplify/node3397225678
+25931	40.7460969	-73.9891468	(tourism) (hotel)	The Paul http://linkedgeodata.org/triplify/node3507260981
+26221	40.7537758	-73.9741708	(tourism) (hotel)	Hotel Boutique http://linkedgeodata.org/triplify/node3576702127
+26226	40.752813	-73.927635	(tourism) (hotel)	The Paper Factory Hotel http://linkedgeodata.org/triplify/node3577755993
+26227	40.7329346	-74.06744	(tourism) (hotel)	Ramada Jersey City http://linkedgeodata.org/triplify/node3577880566
+27291	40.7331047	-73.9863263	(tourism) (hotel)	Union Square Inn http://linkedgeodata.org/triplify/node3676888125
+28336	40.767507	-73.9831633	(tourism) (hotel)	6 Columbus - a SIXTY Hotel http://linkedgeodata.org/triplify/node3785201075
+28623	40.6656779	-73.8062886	(tourism) (hotel)	Hilton Garden Inn http://linkedgeodata.org/triplify/node1234971670
+30353	40.7502286	-73.936904	(tourism) (hotel)	Hilton Garden Inn http://linkedgeodata.org/triplify/way265301998
+33043	40.7649505	-73.9782231	(tourism) (hotel)	Salisbury Hotel http://linkedgeodata.org/triplify/way265147944
+34385	40.7334208	-73.9901311	(tourism) (hotel)	Hyatt Union Square New York http://linkedgeodata.org/triplify/way247861602
+35682	40.7500238	-73.9413658	(tourism) (hotel)	Comfort Inn http://linkedgeodata.org/triplify/way265296131
+36228	40.6895445	-73.9879612	(tourism) (hotel)	Hilton http://linkedgeodata.org/triplify/node2711712840
+52841	40.825813	-73.9485289	(tourism) (hotel)	Hotel http://linkedgeodata.org/triplify/node830805057
+65985	40.7567361	-73.9929518	(tourism) (hotel)	Hilton http://linkedgeodata.org/triplify/node2711712840
+80336	40.6672277	-73.7941578	(tourism) (hotel)	Courtyard by Marriott http://linkedgeodata.org/triplify/node1541855092
+80338	40.6674079	-73.7948964	(tourism) (hotel)	Hampton Inn http://linkedgeodata.org/triplify/node1546667911
+129906	40.727559549999995	-74.033917	(tourism) (hotel)	Marriott Courtyard http://linkedgeodata.org/triplify/way27111276
+129908	40.72495695	-74.0363256	(tourism) (hotel)	Westin http://linkedgeodata.org/triplify/way27111278
+129935	40.73920405	-74.02765740000001	(tourism) (hotel)	W Hotel http://linkedgeodata.org/triplify/way27151977
+136974	40.6921164	-74.181742	(tourism) (hotel)	Marriott Newark Airport http://linkedgeodata.org/triplify/way51653646
+140159	40.756502049999995	-73.97336154999999	(tourism) (hotel)	Waldorf-Astoria Hotel http://linkedgeodata.org/triplify/way85393997
+144023	40.7596402	-73.98633685	(tourism) (hotel)	The Hotel Edison NYC http://linkedgeodata.org/triplify/way143858914
+144072	40.755752349999995	-73.97351235	(tourism) (hotel)	InterContinental New York Barclay http://linkedgeodata.org/triplify/way144919873
+144633	40.769119950000004	-73.9815394	(tourism) (hotel)	Trump International Hotel http://linkedgeodata.org/triplify/way150520452
+145235	40.76080745	-73.9773637	(tourism) (hotel)	Baccarat Hotel & Residences http://linkedgeodata.org/triplify/way162755457
+145245	40.7585993	-73.98625885000001	(tourism) (hotel)	New York Marriott Marquis http://linkedgeodata.org/triplify/way163474780
+145267	40.75484165	-73.97718765	(tourism) (hotel)	The Roosevelt Hotel http://linkedgeodata.org/triplify/way164645790
+146688	40.677256850000006	-74.27990155	(tourism) (hotel)	The Kenilworth http://linkedgeodata.org/triplify/way189256738
+148257	40.71827015	-73.9862094	(tourism) (hotel)	Holiday Inn http://linkedgeodata.org/triplify/node3132256639
+148614	40.75997155	-73.97778464999999	(tourism) (hotel)	Club Quarters http://linkedgeodata.org/triplify/node3576702128
+153179	40.7899027	-74.04978125	(tourism) (hotel)	La Quinta http://linkedgeodata.org/triplify/node703520284
+153218	40.74709475	-73.9901507	(tourism) (hotel)	Eventi http://linkedgeodata.org/triplify/way236107988
+153325	40.7639891	-73.9945641	(tourism) (hotel)	Holiday Inn Express http://linkedgeodata.org/triplify/node2703424151
+153619	40.74645955	-74.16484535000001	(tourism) (hotel)	Hampton Inn http://linkedgeodata.org/triplify/way240725137
+153722	40.614946849999995	-74.1764311	(tourism) (hotel)	Hilton Garden Inn http://linkedgeodata.org/triplify/node1433998969
+153758	40.58623125	-74.1900699	(tourism) (hotel)	Comfort Inn http://linkedgeodata.org/triplify/node540476941
+153876	40.6782094	-73.9844026	(tourism) (hotel)	Holiday Inn Express Brooklyn http://linkedgeodata.org/triplify/way241845964
+153886	40.67923505	-73.983147	(tourism) (hotel)	Union Hotel http://linkedgeodata.org/triplify/way241845944
+154857	40.7334239	-73.9902241	(tourism) (hotel)	Hyatt Union Square New York http://linkedgeodata.org/triplify/way247861602
+154879	40.7239398	-74.0030718	(tourism) (hotel)	60 Thompson http://linkedgeodata.org/triplify/way247865135
+155213	40.744939450000004	-73.988486	(tourism) (hotel)	The Nomad http://linkedgeodata.org/triplify/node3015376233
+155219	40.74617805	-73.99144785	(tourism) (hotel)	Fairfield Inn http://linkedgeodata.org/triplify/way248144136
+155249	40.691699	-73.984672	(tourism) (hotel)	Aloft - W Hotel http://linkedgeodata.org/triplify/way248156242
+155250	40.69148395	-73.9846612	(tourism) (hotel)	Sheraton Brooklyn http://linkedgeodata.org/triplify/way248156247
+156264	40.75270895	-73.97244245	(tourism) (hotel)	Wyndham Midtown 45 http://linkedgeodata.org/triplify/way249041777
+156424	40.65382875	-74.006186	(tourism) (hotel)	Comfort Inn http://linkedgeodata.org/triplify/node3784913427
+156566	40.72532055	-74.00549625	(tourism) (hotel)	Trump SoHo http://linkedgeodata.org/triplify/way249664631
+156576	40.72754715	-74.00580875	(tourism) (hotel)	Courtyard http://linkedgeodata.org/triplify/way249665040
+156738	40.7152191	-73.99936775	(tourism) (hotel)	Mulberry Hotel http://linkedgeodata.org/triplify/way249848265
+157565	40.7398769	-74.0057329	(tourism) (hotel)	Hotel Gansevoort http://linkedgeodata.org/triplify/way250490286
+157567	40.740852700000005	-74.00816625	(tourism) (hotel)	The Standard http://linkedgeodata.org/triplify/way250490358
+157568	40.7420065	-74.00854029999999	(tourism) (hotel)	Liberty Inn http://linkedgeodata.org/triplify/way250490372
+158223	40.649738400000004	-74.34910155	(tourism) (hotel)	Westfield Inn http://linkedgeodata.org/triplify/way256763965
+158260	40.7949212	-74.07254750000001	(tourism) (hotel)	Clarion Hotel Empire Meadowlands http://linkedgeodata.org/triplify/way257502384
+158266	40.805359949999996	-74.07581425000001	(tourism) (hotel)	Extended Stay America http://linkedgeodata.org/triplify/way257502400
+158283	40.759390749999994	-73.98565705	(tourism) (hotel)	W Times Square Hotel http://linkedgeodata.org/triplify/way258619232
+158373	40.73541365	-74.16531090000001	(tourism) (hotel)	Hilton http://linkedgeodata.org/triplify/way259492807
+158500	40.71709535	-74.03160235	(tourism) (hotel)	Hyatt Regency Jersey City on the Hudson http://linkedgeodata.org/triplify/way259774436
+159018	40.74036855	-74.003365	(tourism) (hotel)	Chelsea Pines Inn http://linkedgeodata.org/triplify/way264624844
+159019	40.7402469	-74.00309155	(tourism) (hotel)	Hotel 309 http://linkedgeodata.org/triplify/way264624845
+159025	40.7422876	-74.003436	(tourism) (hotel)	Dream Downtown http://linkedgeodata.org/triplify/way264625640
+159053	40.743636249999994	-73.99309405	(tourism) (hotel)	Hampton Inn http://linkedgeodata.org/triplify/way264649355
+159090	40.746650849999995	-73.99141019999999	(tourism) (hotel)	Hilton Garden Inn http://linkedgeodata.org/triplify/way264685133
+159091	40.7468123	-73.99171039999999	(tourism) (hotel)	Hotel Indigo http://linkedgeodata.org/triplify/way264685140
+159098	40.749675499999995	-73.9905249	(tourism) (hotel)	Hotel Pennsylvania http://linkedgeodata.org/triplify/way264685192
+159111	40.7349138	-73.9845535	(tourism) (hotel)	Hotel 17 http://linkedgeodata.org/triplify/node1022743574
+159226	40.76485375	-73.97539275	(tourism) (hotel)	Park Lane Hotel http://linkedgeodata.org/triplify/way265147726
+159228	40.765162399999994	-73.97603415	(tourism) (hotel)	The Ritz-Carlton http://linkedgeodata.org/triplify/way265147729
+159238	40.76437275	-73.97793295	(tourism) (hotel)	West 57th Street http://linkedgeodata.org/triplify/way196117083
+159239	40.7643251	-73.97847625	(tourism) (hotel)	Le Parker Méridien http://linkedgeodata.org/triplify/way265148531
+159247	40.7616252	-73.9754184	(tourism) (hotel)	The Peninsula New York http://linkedgeodata.org/triplify/way265149283
+159248	40.76245245	-73.9780933	(tourism) (hotel)	Warwick Hotel http://linkedgeodata.org/triplify/way265149284
+159259	40.7647161	-73.98119125	(tourism) (hotel)	Park Central Hotel http://linkedgeodata.org/triplify/way265151157
+159268	40.76748285	-73.98319405000001	(tourism) (hotel)	6 Columbus http://linkedgeodata.org/triplify/way265152155
+159269	40.745037249999996	-73.9338645	(tourism) (hotel)	Days Inn http://linkedgeodata.org/triplify/way265159067
+159270	40.7362274	-73.9367414	(tourism) (hotel)	Fairfield Inn Long Island City/Manhattan View http://linkedgeodata.org/triplify/way265159068
+159281	40.75274520000001	-73.9936688	(tourism) (hotel)	The New Yorker http://linkedgeodata.org/triplify/way265258287
+159329	40.7544891	-73.99256224999999	(tourism) (hotel)	Courtyard http://linkedgeodata.org/triplify/node2709702534
+159333	40.75583685	-73.99178764999999	(tourism) (hotel)	Element http://linkedgeodata.org/triplify/way265296137
+159334	40.756533450000006	-73.9927065	(tourism) (hotel)	Staybridge Suites http://linkedgeodata.org/triplify/way265296155
+159335	40.756593699999996	-73.99286889999999	(tourism) (hotel)	Distrikt Hotel http://linkedgeodata.org/triplify/way265296161
+159346	40.7553149	-73.99178839999999	(tourism) (hotel)	Holiday Inn http://linkedgeodata.org/triplify/node3132256639
+159359	40.75113985	-73.98458145000001	(tourism) (hotel)	Fairfield Inn http://linkedgeodata.org/triplify/way265301854
+159360	40.751179300000004	-73.98468704999999	(tourism) (hotel)	SpringHill Suites http://linkedgeodata.org/triplify/way265301877
+159364	40.75012965	-73.98595125	(tourism) (hotel)	Hotel Metro http://linkedgeodata.org/triplify/way265301939
+159366	40.75042365	-73.98654765	(tourism) (hotel)	Hilton Garden Inn http://linkedgeodata.org/triplify/way265301998
+159380	40.75203965	-73.9846972	(tourism) (hotel)	Archer Hotel http://linkedgeodata.org/triplify/node2709702399
+159382	40.7552359	-73.98602805	(tourism) (hotel)	The Knickerbocker Hotel http://linkedgeodata.org/triplify/way265302168
+159394	40.7645991	-73.99255364999999	(tourism) (hotel)	Skyline Hotel http://linkedgeodata.org/triplify/way265318790
+159400	40.7595572	-73.99067665	(tourism) (hotel)	Comfort Inn http://linkedgeodata.org/triplify/way265296131
+159420	40.7617006	-73.9880156	(tourism) (hotel)	Belvedere Hotel http://linkedgeodata.org/triplify/way265338414
+159438	40.7713358	-73.9827172	(tourism) (hotel)	Hotel Empire http://linkedgeodata.org/triplify/way265343855
+159446	40.76230525	-73.9712729	(tourism) (hotel)	Four Seasons Hotel http://linkedgeodata.org/triplify/way265345338
+159450	40.7643101	-73.97253	(tourism) (hotel)	Sherry Netherlands http://linkedgeodata.org/triplify/way265345371
+159469	40.76507925	-73.97166415000001	(tourism) (hotel)	The Pierre http://linkedgeodata.org/triplify/way265345851
+159478	40.7681731	-73.9874822	(tourism) (hotel)	Holiday Inn Hotel New York City 57th St. http://linkedgeodata.org/triplify/way265353505
+159566	40.75664715	-73.969441	(tourism) (hotel)	Hilton Garden Inn http://linkedgeodata.org/triplify/way265301998
+159608	40.75321965	-73.9710102	(tourism) (hotel)	Vanderbilt YMCA http://linkedgeodata.org/triplify/way265512002
+159682	40.74940525	-73.976574	(tourism) (hotel)	POD 39 http://linkedgeodata.org/triplify/way265864905
+159683	40.74927835	-73.9763151	(tourism) (hotel)	Murray Hill East Suites http://linkedgeodata.org/triplify/way265864912
+159699	40.75160295	-73.97912465	(tourism) (hotel)	Dylan Hotel http://linkedgeodata.org/triplify/way265875622
+159700	40.752125199999995	-73.979405	(tourism) (hotel)	Library Hotel http://linkedgeodata.org/triplify/way265875639
+159702	40.749967049999995	-73.9809459	(tourism) (hotel)	Madison Towers Hotel http://linkedgeodata.org/triplify/way265875646
+159715	40.755894049999995	-73.97153080000001	(tourism) (hotel)	San Carlos http://linkedgeodata.org/triplify/node703340978
+159717	40.754895700000006	-73.97302225	(tourism) (hotel)	The Lexington http://linkedgeodata.org/triplify/way265884394
+159719	40.75665775	-73.97142500000001	(tourism) (hotel)	Doubletree Metropolitan Hotel http://linkedgeodata.org/triplify/way265884678
+159720	40.756340699999996	-73.97137315	(tourism) (hotel)	The Kimberly http://linkedgeodata.org/triplify/way265884680
+159721	40.7565929	-73.97198915	(tourism) (hotel)	The Benjamin http://linkedgeodata.org/triplify/way265884682
+159760	40.75204035	-73.9763264	(tourism) (hotel)	Grand Hyatt New York http://linkedgeodata.org/triplify/way265947371
+159832	40.75540235	-73.9780936	(tourism) (hotel)	Gotham Hotel http://linkedgeodata.org/triplify/way266010285
+159875	40.75859085	-73.98957874999999	(tourism) (hotel)	InterContinental New York Times Square http://linkedgeodata.org/triplify/way266034045
+159879	40.757434399999994	-73.98908875000001	(tourism) (hotel)	The Westin http://linkedgeodata.org/triplify/way266034056
+159895	40.75648045	-73.9925075	(tourism) (hotel)	Fairfield Inn http://linkedgeodata.org/triplify/way265301854
+159896	40.7564136	-73.99234815	(tourism) (hotel)	Four Points http://linkedgeodata.org/triplify/node2355891394
+159899	40.75445515	-73.99361479999999	(tourism) (hotel)	Hilton Garden Inn http://linkedgeodata.org/triplify/way265301998
+159921	40.75964685	-73.98700769999999	(tourism) (hotel)	Paramount Hotel http://linkedgeodata.org/triplify/way266149312
+159942	40.7611761	-73.98596775	(tourism) (hotel)	Mayfair http://linkedgeodata.org/triplify/node158909151
+159944	40.76063495	-73.98511189999999	(tourism) (hotel)	Crowne Plaza Times Square http://linkedgeodata.org/triplify/way266151929
+159946	40.761229400000005	-73.98650509999999	(tourism) (hotel)	Hilton Garden Inn http://linkedgeodata.org/triplify/way266151934
+159960	40.75594045	-73.98234895	(tourism) (hotel)	Algonquin Hotel http://linkedgeodata.org/triplify/way266170533
+159964	40.7559358	-73.98210929999999	(tourism) (hotel)	City Club Hotel http://linkedgeodata.org/triplify/way266170538
+159971	40.757209399999994	-73.98319889999999	(tourism) (hotel)	Hotel St. James http://linkedgeodata.org/triplify/way266170545
+159980	40.7558522	-73.98193355000001	(tourism) (hotel)	Iroquois New York Hotel http://linkedgeodata.org/triplify/way266170752
+159983	40.757079000000004	-73.98479585	(tourism) (hotel)	Millennium Broadway http://linkedgeodata.org/triplify/way266170756
+159988	40.75540515	-73.98239319999999	(tourism) (hotel)	Royalton http://linkedgeodata.org/triplify/way266170761
+159990	40.75592585	-73.98163395	(tourism) (hotel)	Sofitel http://linkedgeodata.org/triplify/way266170763
+159991	40.7564754	-73.984598	(tourism) (hotel)	The Chatwal http://linkedgeodata.org/triplify/way266170764
+159992	40.7577808	-73.98377815	(tourism) (hotel)	The Muse Hotel http://linkedgeodata.org/triplify/way266170765
+160000	40.76126935	-73.98256280000001	(tourism) (hotel)	The Michelangelo http://linkedgeodata.org/triplify/way266170798
+160001	40.7623843	-73.98144195	(tourism) (hotel)	Sheraton New York Times Square Hotel http://linkedgeodata.org/triplify/way266170799
+160029	40.76215715	-73.96280540000001	(tourism) (hotel)	The Palladin http://linkedgeodata.org/triplify/way266206864
+160031	40.760518000000005	-73.96909185	(tourism) (hotel)	Fitzpatrick http://linkedgeodata.org/triplify/way266212055
+160053	40.7607951	-73.96959305	(tourism) (hotel)	Renaissance http://linkedgeodata.org/triplify/way266233454
+160149	40.77438675	-73.96299020000001	(tourism) (hotel)	The Carlyle http://linkedgeodata.org/triplify/way266898264
+160642	40.78208525	-73.98039510000001	(tourism) (hotel)	NYLO New York City http://linkedgeodata.org/triplify/way269302955
+160655	40.7831446	-73.97369235	(tourism) (hotel)	The Excelsior Hotel http://linkedgeodata.org/triplify/way269308883
+160662	40.78350565	-73.9784625	(tourism) (hotel)	The Lucerne http://linkedgeodata.org/triplify/way269313812
+160825	40.7848313	-73.98164275	(tourism) (hotel)	Imperial Court Hotel http://linkedgeodata.org/triplify/way270898203
+160934	40.798738549999996	-73.9682791	(tourism) (hotel)	Hotel Marrakech http://linkedgeodata.org/triplify/way271185218
+162406	40.7514509	-73.93511720000001	(tourism) (hotel)	Fairfield Inn http://linkedgeodata.org/triplify/way265301854
+166080	40.7050743	-74.18731514999999	(tourism) (hotel)	Best Western Plus http://linkedgeodata.org/triplify/way277480665
+166084	40.703654099999994	-74.18608845	(tourism) (hotel)	Wyndham Garden Inn http://linkedgeodata.org/triplify/way277480672
+166297	40.79872855	-74.06638480000001	(tourism) (hotel)	Red Roof Inn http://linkedgeodata.org/triplify/way277937982
+166298	40.797408000000004	-74.06360079999999	(tourism) (hotel)	Meadowlands Plaza Hotel http://linkedgeodata.org/triplify/way277937983
+166314	40.75518705	-73.9856651	(tourism) (hotel)	Hilton Garden Inn http://linkedgeodata.org/triplify/way265301998
+166321	40.7098558	-74.01398485	(tourism) (hotel)	Club Quarters, World Trade Center http://linkedgeodata.org/triplify/way278033586
+166327	40.7092072	-74.01366805	(tourism) (hotel)	W Downtown http://linkedgeodata.org/triplify/way278033597
+166337	40.709428450000004	-74.01434295	(tourism) (hotel)	Marriott Downtown http://linkedgeodata.org/triplify/way278033626
+166345	40.7111301	-74.0102166	(tourism) (hotel)	Millenium Hilton http://linkedgeodata.org/triplify/way278039445
+166358	40.709077300000004	-74.00922075	(tourism) (hotel)	Holiday Inn http://linkedgeodata.org/triplify/node2183039961
+166397	40.704583150000005	-74.0102723	(tourism) (hotel)	Wall Street Inn http://linkedgeodata.org/triplify/way278053567
+166429	40.706735699999996	-74.0089078	(tourism) (hotel)	Club Quarters http://linkedgeodata.org/triplify/way278069551
+166439	40.70558915	-74.0072303	(tourism) (hotel)	Holiday Inn Express http://linkedgeodata.org/triplify/node2597350602
+166574	40.786465449999994	-74.04426665	(tourism) (hotel)	Holiday Inn http://linkedgeodata.org/triplify/node2183039961
+166577	40.7831815	-74.0447123	(tourism) (hotel)	Extended Stay America http://linkedgeodata.org/triplify/way278135381
+166579	40.7856474	-74.0451097	(tourism) (hotel)	Residence Inn http://linkedgeodata.org/triplify/way278135404
+166595	40.78640485	-74.04245374999999	(tourism) (hotel)	Hyatt Place http://linkedgeodata.org/triplify/way278138631
+166598	40.78853075	-74.04316360000001	(tourism) (hotel)	Embassy Suites http://linkedgeodata.org/triplify/node704891059
+166601	40.789058100000005	-74.04433900000001	(tourism) (hotel)	Courtyard by Marriott http://linkedgeodata.org/triplify/way278138647
+166605	40.7888255	-74.04618934999999	(tourism) (hotel)	Meadowlands River Inn http://linkedgeodata.org/triplify/way278138658
+166609	40.79060885	-74.04553784999999	(tourism) (hotel)	Aloft Hotel http://linkedgeodata.org/triplify/way278139244
+166749	40.684573650000004	-74.19407615	(tourism) (hotel)	Hampton Inn http://linkedgeodata.org/triplify/way278404322
+166751	40.67888165	-74.19385645	(tourism) (hotel)	Crowne Plaza http://linkedgeodata.org/triplify/way278404325
+166819	40.92706665	-74.09277555	(tourism) (hotel)	Hyatt Place http://linkedgeodata.org/triplify/way278728173
+166879	40.758794699999996	-74.02378569999999	(tourism) (hotel)	Sheraton http://linkedgeodata.org/triplify/way279400339
+166989	40.75227085	-73.9951083	(tourism) (hotel)	Fairfield Inn http://linkedgeodata.org/triplify/way265301854
+167170	40.73775995	-73.88464055	(tourism) (hotel)	Pan American Hotel http://linkedgeodata.org/triplify/way280307181
+167467	40.7552348	-73.93672115000001	(tourism) (hotel)	Ramada Long Island City http://linkedgeodata.org/triplify/way280645297
+167539	40.751977049999994	-73.94749300000001	(tourism) (hotel)	Z NYC Hotel http://linkedgeodata.org/triplify/way281332493
+167618	40.76794035	-73.86778825	(tourism) (hotel)	Hampton Inn LaGuardia http://linkedgeodata.org/triplify/way281406425
+167619	40.767044	-73.8669063	(tourism) (hotel)	LaGuardia Plaza Hotel http://linkedgeodata.org/triplify/way281406917
+167620	40.7690069	-73.8676085	(tourism) (hotel)	Marriott LaGuardia Airport http://linkedgeodata.org/triplify/way281406918
+167963	40.764530199999996	-73.9829948	(tourism) (hotel)	Hilton Garden Inn http://linkedgeodata.org/triplify/way266151934
+168352	40.76538025	-73.8316781	(tourism) (hotel)	Farrington Hotel http://linkedgeodata.org/triplify/way284617274
+168384	40.75956765	-73.831477	(tourism) (hotel)	Sheraton LaGuardia East http://linkedgeodata.org/triplify/way284624556
+168598	40.7391257	-73.8486191	(tourism) (hotel)	Holiday Inn Express http://linkedgeodata.org/triplify/way284860710
+169216	40.76415585	-73.99495675	(tourism) (hotel)	Comfort Inn http://linkedgeodata.org/triplify/way292151070
+169223	40.7104099	-74.00667010000001	(tourism) (hotel)	Aloft Manhattan Downtown http://linkedgeodata.org/triplify/way292727024
+169230	40.750339499999995	-73.98566794999999	(tourism) (hotel)	Best Western Herald Square http://linkedgeodata.org/triplify/way292840083
+169231	40.750499250000004	-73.98604625	(tourism) (hotel)	Holiday Inn Express http://linkedgeodata.org/triplify/node2703424151
+169232	40.750405799999996	-73.9858115	(tourism) (hotel)	Hyatt Place http://linkedgeodata.org/triplify/way292840085
+169239	40.7563387	-73.9821893	(tourism) (hotel)	Cassa Hotel http://linkedgeodata.org/triplify/way293183674
+170998	40.6783091	-74.1945717	(tourism) (hotel)	Days Inn http://linkedgeodata.org/triplify/way320678937
+171360	40.912208050000004	-73.78020625	(tourism) (hotel)	Residence Inn http://linkedgeodata.org/triplify/way327348974
+171368	40.91391255	-73.7778257	(tourism) (hotel)	Radisson http://linkedgeodata.org/triplify/way327349016
+171547	40.73463505	-74.17210035	(tourism) (hotel)	Hotel Indigo Newark Downtown http://linkedgeodata.org/triplify/way330378212
+171738	40.8208315	-73.97559799999999	(tourism) (hotel)	Comfort Inn Edgewater http://linkedgeodata.org/triplify/way337068521
+173892	40.77397955	-74.0409088	(tourism) (hotel)	Meadowlands View http://linkedgeodata.org/triplify/way371372580
+173893	40.773174	-74.04112785000001	(tourism) (hotel)	Holiday Inn Express http://linkedgeodata.org/triplify/node2597350602
+186298	40.686795950000004	-74.19385085	(tourism) (hotel)	Hilton Newark Liberty http://linkedgeodata.org/triplify/way278404320
+188596	40.9355195	-74.0717674	(tourism) (hotel)	Comfort Inn & Suites Paramus http://linkedgeodata.org/triplify/node574282318
+206645	40.8028133	-73.99295674999999	(tourism) (hotel)	Courtyard http://linkedgeodata.org/triplify/node2709702534
+8880	33.6793829	-117.8928089	(tourism) (hotel)	Residence Inn http://linkedgeodata.org/triplify/node365781846
+8892	34.2764567	-119.2934354	(tourism) (hotel)	Crowne Plaza http://linkedgeodata.org/triplify/node367737699
+9722	34.1725209	-118.0884025	(tourism) (hotel)	Altadena Lodge http://linkedgeodata.org/triplify/node368173868
+9724	34.494715	-118.3098011	(tourism) (hotel)	Elkhorn Lodge http://linkedgeodata.org/triplify/node368173882
+10308	34.0665682	-117.5825211	(tourism) (hotel)	Fairfield Inn http://linkedgeodata.org/triplify/node1112504221
+10376	33.8327906	-118.2590563	(tourism) (hotel)	Doubletree Carson Civic Plaza http://linkedgeodata.org/triplify/node440618333
+10607	34.0521823	-118.2676504	(tourism) (hotel)	Mayfair http://linkedgeodata.org/triplify/node150963069
+10667	33.8083846	-118.0298558	(tourism) (hotel)	HYATT House http://linkedgeodata.org/triplify/node471299660
+10762	34.1786	-118.8786716	(tourism) (hotel)	Thousand Oaks Inn http://linkedgeodata.org/triplify/node484173320
+10817	34.0608096	-118.4427634	(tourism) (hotel)	Royal Palace Hotel http://linkedgeodata.org/triplify/node495878301
+10818	34.0610869	-118.4426948	(tourism) (hotel)	Claremont Hotel http://linkedgeodata.org/triplify/node495878302
+11201	34.0638589	-117.2006761	(tourism) (hotel)	Comfort Suites http://linkedgeodata.org/triplify/node1424633362
+11202	34.0626234	-117.2013252	(tourism) (hotel)	Dynasty Suites http://linkedgeodata.org/triplify/node573981947
+11205	34.0655411	-117.2096108	(tourism) (hotel)	Country Inn & Suites http://linkedgeodata.org/triplify/node573981986
+11208	34.0626541	-117.1969863	(tourism) (hotel)	Ayres Hotel http://linkedgeodata.org/triplify/node574164489
+11594	34.1426927	-118.1409128	(tourism) (hotel)	Hilton http://linkedgeodata.org/triplify/node589170698
+12010	34.142909	-118.1442086	(tourism) (hotel)	Sheraton http://linkedgeodata.org/triplify/node470868186
+12203	34.2482947	-118.6065694	(tourism) (hotel)	Radisson Hotel Chatsworth http://linkedgeodata.org/triplify/node651154559
+12405	33.6078735	-117.9251372	(tourism) (hotel)	Bay Shores Peninsula Hotel http://linkedgeodata.org/triplify/node694050188
+12617	33.6581642	-118.0026273	(tourism) (hotel)	Shorebreak Hotel http://linkedgeodata.org/triplify/node708715349
+12693	33.5383538	-117.7803355	(tourism) (hotel)	Pacific Edge Hotel on Laguna Beach http://linkedgeodata.org/triplify/node712801062
+12697	33.5129223	-117.7481466	(tourism) (hotel)	Aliso Creek Inn / Canyon Lodge http://linkedgeodata.org/triplify/node720728222
+12699	33.5303353	-117.7737669	(tourism) (hotel)	Surf & Sand Resort http://linkedgeodata.org/triplify/node720728266
+12714	33.4637764	-117.6813713	(tourism) (hotel)	DoubleTree Guest Suites Doheny Beach http://linkedgeodata.org/triplify/node721903290
+12722	33.4195847	-117.619255	(tourism) (hotel)	Casa Tropicana Boutique Inn http://linkedgeodata.org/triplify/node722407813
+8880	33.6793829	-117.8928089	(tourism) (hotel)	Residence Inn http://linkedgeodata.org/triplify/node365781846
+8892	34.2764567	-119.2934354	(tourism) (hotel)	Crowne Plaza http://linkedgeodata.org/triplify/node367737699
+9722	34.1725209	-118.0884025	(tourism) (hotel)	Altadena Lodge http://linkedgeodata.org/triplify/node368173868
+9724	34.494715	-118.3098011	(tourism) (hotel)	Elkhorn Lodge http://linkedgeodata.org/triplify/node368173882
+8880	33.6793829	-117.8928089	(tourism) (hotel)	Residence Inn http://linkedgeodata.org/triplify/node365781846
+8892	34.2764567	-119.2934354	(tourism) (hotel)	Crowne Plaza http://linkedgeodata.org/triplify/node367737699
+9722	34.1725209	-118.0884025	(tourism) (hotel)	Altadena Lodge http://linkedgeodata.org/triplify/node368173868
+9724	34.494715	-118.3098011	(tourism) (hotel)	Elkhorn Lodge http://linkedgeodata.org/triplify/node368173882
+10308	34.0665682	-117.5825211	(tourism) (hotel)	Fairfield Inn http://linkedgeodata.org/triplify/node1112504221
+10376	33.8327906	-118.2590563	(tourism) (hotel)	Doubletree Carson Civic Plaza http://linkedgeodata.org/triplify/node440618333
+10607	34.0521823	-118.2676504	(tourism) (hotel)	Mayfair http://linkedgeodata.org/triplify/node150963069
+10667	33.8083846	-118.0298558	(tourism) (hotel)	HYATT House http://linkedgeodata.org/triplify/node471299660
+10762	34.1786	-118.8786716	(tourism) (hotel)	Thousand Oaks Inn http://linkedgeodata.org/triplify/node484173320
+10817	34.0608096	-118.4427634	(tourism) (hotel)	Royal Palace Hotel http://linkedgeodata.org/triplify/node495878301
+10818	34.0610869	-118.4426948	(tourism) (hotel)	Claremont Hotel http://linkedgeodata.org/triplify/node495878302
+11201	34.0638589	-117.2006761	(tourism) (hotel)	Comfort Suites http://linkedgeodata.org/triplify/node1424633362
+11202	34.0626234	-117.2013252	(tourism) (hotel)	Dynasty Suites http://linkedgeodata.org/triplify/node573981947
+11205	34.0655411	-117.2096108	(tourism) (hotel)	Country Inn & Suites http://linkedgeodata.org/triplify/node573981986
+11208	34.0626541	-117.1969863	(tourism) (hotel)	Ayres Hotel http://linkedgeodata.org/triplify/node574164489
+11594	34.1426927	-118.1409128	(tourism) (hotel)	Hilton http://linkedgeodata.org/triplify/node589170698
+12010	34.142909	-118.1442086	(tourism) (hotel)	Sheraton http://linkedgeodata.org/triplify/node470868186
+12203	34.2482947	-118.6065694	(tourism) (hotel)	Radisson Hotel Chatsworth http://linkedgeodata.org/triplify/node651154559
+12405	33.6078735	-117.9251372	(tourism) (hotel)	Bay Shores Peninsula Hotel http://linkedgeodata.org/triplify/node694050188
+12617	33.6581642	-118.0026273	(tourism) (hotel)	Shorebreak Hotel http://linkedgeodata.org/triplify/node708715349
+12693	33.5383538	-117.7803355	(tourism) (hotel)	Pacific Edge Hotel on Laguna Beach http://linkedgeodata.org/triplify/node712801062
+12697	33.5129223	-117.7481466	(tourism) (hotel)	Aliso Creek Inn / Canyon Lodge http://linkedgeodata.org/triplify/node720728222
+12699	33.5303353	-117.7737669	(tourism) (hotel)	Surf & Sand Resort http://linkedgeodata.org/triplify/node720728266
+12714	33.4637764	-117.6813713	(tourism) (hotel)	DoubleTree Guest Suites Doheny Beach http://linkedgeodata.org/triplify/node721903290
+12722	33.4195847	-117.619255	(tourism) (hotel)	Casa Tropicana Boutique Inn http://linkedgeodata.org/triplify/node722407813
+13311	33.4871804	-117.67385	(tourism) (hotel)	Residence Inn http://linkedgeodata.org/triplify/node365781846
+13442	33.9115256	-118.0708347	(tourism) (hotel)	DoubleTree by Hilton Hotel http://linkedgeodata.org/triplify/node812874036
+13479	34.0177982	-118.5015714	(tourism) (hotel)	The Fairmont Miramar http://linkedgeodata.org/triplify/node821384817
+13489	33.4644736	-117.6916572	(tourism) (hotel)	Laguna Cliffs Resort by Marriott http://linkedgeodata.org/triplify/node822316727
+13933	33.4672125	-117.1317602	(tourism) (hotel)	Temecula Creek Inn http://linkedgeodata.org/triplify/node878205060
+13953	34.2300212	-119.1989184	(tourism) (hotel)	Residence Inn Oxnard River Ridge http://linkedgeodata.org/triplify/node880313851
+14244	34.0585008	-118.2378332	(tourism) (hotel)	Metro Plaza Hotel http://linkedgeodata.org/triplify/node933320763
+14458	33.8467903	-118.3933323	(tourism) (hotel)	The Redondo Beach Hotel http://linkedgeodata.org/triplify/node965398538
+14529	33.5139027	-117.1584436	(tourism) (hotel)	Best Western http://linkedgeodata.org/triplify/node1722513390
+14914	33.8538447	-117.7890307	(tourism) (hotel)	Fairfield Inn http://linkedgeodata.org/triplify/node1112504221
+14930	34.1462759	-118.1063798	(tourism) (hotel)	Travelodge http://linkedgeodata.org/triplify/node1113237092
+15101	34.1393842	-118.216845	(tourism) (hotel)	Comfort Inn http://linkedgeodata.org/triplify/node1145240543
+16134	33.8093792	-117.9269321	(tourism) (hotel)	The Disneyland Hotel http://linkedgeodata.org/triplify/way361363809
+16493	33.9173952	-117.8876609	(tourism) (hotel)	Embassy Suites Brea http://linkedgeodata.org/triplify/node1277961292
+18769	34.0496703	-118.2396419	(tourism) (hotel)	Daimaru Hotel http://linkedgeodata.org/triplify/node1435012194
+18780	34.0499526	-118.2400604	(tourism) (hotel)	Little Tokyo Hotel http://linkedgeodata.org/triplify/node1435041917
+19304	34.2434872	-116.911715	(tourism) (hotel)	The Robinhood Resort http://linkedgeodata.org/triplify/node1451280723
+19552	33.7679182	-118.1857421	(tourism) (hotel)	Marriott http://linkedgeodata.org/triplify/node1480222266
+19739	33.8069162	-117.9227207	(tourism) (hotel)	The Villas at Disney's Grand Californian Hotel http://linkedgeodata.org/triplify/node1497023486
+20079	34.1097352	-117.8221569	(tourism) (hotel)	Red Roof Inn http://linkedgeodata.org/triplify/node1570587377
+21584	33.9463837	-118.3843511	(tourism) (hotel)	Los Angeles Airport Mariott http://linkedgeodata.org/triplify/node1718756271
+21874	33.9289998	-117.5694519	(tourism) (hotel)	The Norconian (historical) http://linkedgeodata.org/triplify/node1756993754
+22033	34.1464563	-118.0827138	(tourism) (hotel)	Quality Inn http://linkedgeodata.org/triplify/node1768767681
+22104	34.0238571	-118.3941291	(tourism) (hotel)	Culver Hotel http://linkedgeodata.org/triplify/node1770936287
+22305	34.0715169	-117.8854827	(tourism) (hotel)	Days Inn of West Covina http://linkedgeodata.org/triplify/node1799349603
+22352	33.9465685	-117.0027101	(tourism) (hotel)	Holiday Inn Express http://linkedgeodata.org/triplify/node596808414
+22397	33.4747616	-117.7203668	(tourism) (hotel)	Ritz Carlton http://linkedgeodata.org/triplify/node1830297345
+23457	34.0929368	-118.2921591	(tourism) (hotel)	Chateau Celeste Hollywood Hotel http://linkedgeodata.org/triplify/node1988842454
+25438	34.0137654	-118.4954584	(tourism) (hotel)	Hotel Carmel http://linkedgeodata.org/triplify/node2297248633
+25619	33.8346308	-118.3097474	(tourism) (hotel)	Miyako Hybrid Hotel http://linkedgeodata.org/triplify/node2343076798
+25633	34.151536	-118.0057963	(tourism) (hotel)	Aztec Hotel http://linkedgeodata.org/triplify/node2343810442
+25650	34.0655032	-118.299408	(tourism) (hotel)	Shelter Hotel http://linkedgeodata.org/triplify/node2346845270
+26273	34.0859715	-118.3851213	(tourism) (hotel)	San Vicente Inn http://linkedgeodata.org/triplify/node2450174517
+28207	34.443291	-118.600193	(tourism) (hotel)	Embassy Suites http://linkedgeodata.org/triplify/node2724321275
+28274	34.268633	-119.273956	(tourism) (hotel)	Marriott http://linkedgeodata.org/triplify/node2759343526
+28289	34.0063022	-118.4896688	(tourism) (hotel)	Bayside Hotel http://linkedgeodata.org/triplify/node2769932735
+34286	33.9826892	-118.4577026	(tourism) (hotel)	Jamaica Bay Inn http://linkedgeodata.org/triplify/node2890308002
+34883	34.2404666	-116.9186372	(tourism) (hotel)	ITH Big Bear Mountain Adventure Lodge http://linkedgeodata.org/triplify/node2916653424
+34987	33.8508019	-118.2891699	(tourism) (hotel)	Holiday Inn Torrance http://linkedgeodata.org/triplify/node2932751579
+36012	34.2436079	-116.9157826	(tourism) (hotel)	Knights Inn http://linkedgeodata.org/triplify/node2972494667
+36014	34.2442595	-116.912615	(tourism) (hotel)	Marina Resort http://linkedgeodata.org/triplify/node2972494669
+40338	34.282139	-118.793101	(tourism) (hotel)	Courtyard by Marriott http://linkedgeodata.org/triplify/node2707561672
+40339	34.2693323	-118.7972384	(tourism) (hotel)	Best Western http://linkedgeodata.org/triplify/node3392705546
+41431	33.3424561	-118.327848	(tourism) (hotel)	La Paloma http://linkedgeodata.org/triplify/node3105881397
+41892	33.8930105	-118.36554	(tourism) (hotel)	Residence Inn by Marriot http://linkedgeodata.org/triplify/node3137664446
+42166	34.0632755	-118.2390046	(tourism) (hotel)	Best Western Plus Dragon Gate Inn http://linkedgeodata.org/triplify/node3158050663
+48422	33.9965036	-118.4339403	(tourism) (hotel)	Super 8 Los Angeles-Culver City Area http://linkedgeodata.org/triplify/node3494536871
+49459	33.8232159	-118.3323263	(tourism) (hotel)	Courtyard by Marriott Torrance Palos Verdes http://linkedgeodata.org/triplify/node3601536766
+52551	33.958749	-118.4187273	(tourism) (hotel)	Custom Hotel LAX http://linkedgeodata.org/triplify/node3696464612
+53255	34.1464365	-118.0827141	(tourism) (hotel)	Hotel Le Reve Pasadena http://linkedgeodata.org/triplify/node3724149624
+56532	34.2418991	-116.9182856	(tourism) (hotel)	Snow Bear Lodge http://linkedgeodata.org/triplify/node3792250254
+63746	34.0088592	-118.49292	(tourism) (hotel)	Loews Santa Monica Beach Hotel http://linkedgeodata.org/triplify/way194210112
+65230	34.0611432	-118.3113725	(tourism) (hotel)	Ramada http://linkedgeodata.org/triplify/node519187751
+67004	34.1030931	-118.3394487	(tourism) (hotel)	Loews Hollywood Hotel http://linkedgeodata.org/triplify/node907132608
+73195	34.0549611	-118.1352367	(tourism) (hotel)	Comfort Inn http://linkedgeodata.org/triplify/node1145240543
+74066	33.7081563	-117.9537487	(tourism) (hotel)	Ayres Hotel http://linkedgeodata.org/triplify/node574164489
+75357	34.065066	-117.265305	(tourism) (hotel)	Fairfield Inn http://linkedgeodata.org/triplify/node1112504221
+75359	34.066692	-117.26513	(tourism) (hotel)	Residence Inn http://linkedgeodata.org/triplify/node365781846
+79168	34.3960819	-118.9212158	(tourism) (hotel)	Best Western http://linkedgeodata.org/triplify/node3392705546
+91852	33.799045	-117.9182974	(tourism) (hotel)	Anaheim Marriott http://linkedgeodata.org/triplify/way171261044
+98025	34.0457758	-118.2660933	(tourism) (hotel)	Courtyard by Marriott http://linkedgeodata.org/triplify/node2707561672
+98026	34.0452979	-118.2664822	(tourism) (hotel)	Marriott http://linkedgeodata.org/triplify/node1480222266
+270346	34.0527407	-118.255872	(tourism) (hotel)	Westin Bonaventure http://linkedgeodata.org/triplify/way33528271
+270575	33.98218475	-118.4598623	(tourism) (hotel)	Marina del Rey Marriott http://linkedgeodata.org/triplify/way34169735
+273260	34.06612415	-117.60926810000001	(tourism) (hotel)	DoubleTree Hotel http://linkedgeodata.org/triplify/way37825047
+273261	34.0644614	-117.6098035	(tourism) (hotel)	Countryside Suites Ontario http://linkedgeodata.org/triplify/way37825049
+274122	34.0788539	-117.55448204999999	(tourism) (hotel)	Hilton Garden Inn http://linkedgeodata.org/triplify/node2383305491
+274158	34.078718800000004	-117.555537	(tourism) (hotel)	Homewood Suites by Hilton http://linkedgeodata.org/triplify/node3230321141
+277573	34.12077745	-118.1337118	(tourism) (hotel)	The Langham Huntington http://linkedgeodata.org/triplify/node539558502
+277716	34.05750825	-118.41572289999999	(tourism) (hotel)	Hyatt Regency Century Plaza http://linkedgeodata.org/triplify/way43342001
+282916	34.142938900000004	-118.1442182	(tourism) (hotel)	Sheraton Hotel http://linkedgeodata.org/triplify/way49248607
+285131	33.65078865	-117.99062275	(tourism) (hotel)	Hyatt Regency Huntington Beach Resort and Spa http://linkedgeodata.org/triplify/way56672685
+285133	33.65294335	-117.9938487	(tourism) (hotel)	The Hilton Waterfront Beach Resort http://linkedgeodata.org/triplify/way56672691
+285143	33.61541025	-117.91504465	(tourism) (hotel)	The Balboa Bay Club & Resort http://linkedgeodata.org/triplify/way56992247
+285144	33.6194211	-117.92050745	(tourism) (hotel)	Holiday Inn Express http://linkedgeodata.org/triplify/node596808414
+286333	33.675759150000005	-117.758955	(tourism) (hotel)	La Quinta Inn & Suites http://linkedgeodata.org/triplify/way60502914
+286452	33.652829749999995	-117.714216	(tourism) (hotel)	Marriott Residence Inn http://linkedgeodata.org/triplify/way60784250
+286575	33.48208615	-117.7159094	(tourism) (hotel)	The St. Regis Monarch Beach Resort & Spa http://linkedgeodata.org/triplify/way61111124
+288724	33.88300205	-118.02402665	(tourism) (hotel)	Marriott Residence Inn http://linkedgeodata.org/triplify/node1783793548
+289320	33.4604868	-117.6754344	(tourism) (hotel)	Riviera Beach & Spa Resort http://linkedgeodata.org/triplify/way70166442
+289630	33.69080835	-117.88414614999999	(tourism) (hotel)	Westin South Coast Plaza http://linkedgeodata.org/triplify/way70802044
+290363	33.49501005	-117.150495	(tourism) (hotel)	Palomar Inn http://linkedgeodata.org/triplify/way73160326
+291241	34.1791463	-118.30781485	(tourism) (hotel)	Holiday Inn http://linkedgeodata.org/triplify/node1873194502
+293926	33.501407799999996	-117.1490964	(tourism) (hotel)	Embassy Suites Temecula Valley Wine Country http://linkedgeodata.org/triplify/way82650582
+294314	33.49887475	-117.15167034999999	(tourism) (hotel)	Rancho California Inn http://linkedgeodata.org/triplify/way84267700
+294326	33.4846796	-117.14325485	(tourism) (hotel)	Ramada http://linkedgeodata.org/triplify/node695036958
+294466	33.51605625	-117.15962110000001	(tourism) (hotel)	Holiday Inn Express http://linkedgeodata.org/triplify/node596808414
+294468	33.51748805	-117.16087345	(tourism) (hotel)	Extended Stay http://linkedgeodata.org/triplify/way85103678
+296387	33.582324150000005	-117.72997755	(tourism) (hotel)	Renaissance ClubSport Aliso Viejo http://linkedgeodata.org/triplify/way98828874
+296856	34.146363	-118.11752065	(tourism) (hotel)	Howard Johnsons http://linkedgeodata.org/triplify/way101206954
+296954	33.8044053	-118.14160849999999	(tourism) (hotel)	Holiday Inn http://linkedgeodata.org/triplify/node1873194502
+297323	33.56757505	-117.20752440000001	(tourism) (hotel)	Comfort Inn & Suites Near Temecula Wine Country http://linkedgeodata.org/triplify/way103869770
+298629	33.5005747	-117.15332025000001	(tourism) (hotel)	Hampton Inn & Suites http://linkedgeodata.org/triplify/node1813316556
+298630	33.502306399999995	-117.15313915	(tourism) (hotel)	SpringHill Suites Marriott http://linkedgeodata.org/triplify/way107914623
+300334	33.80234025	-117.92467055	(tourism) (hotel)	Best Western Plus Stovall's Inn http://linkedgeodata.org/triplify/way111943809
+300871	33.36307505	-117.08313145	(tourism) (hotel)	Pala Casino / Hotel / Resort http://linkedgeodata.org/triplify/way113935238
+300879	33.3632386	-117.08614779999999	(tourism) (hotel)	Pala Casino / Hotel / Resort http://linkedgeodata.org/triplify/way113935238
+301009	34.1337701	-117.19439055000001	(tourism) (hotel)	Hampton Inn & Suites http://linkedgeodata.org/triplify/node1813316556
+301935	33.8090699	-117.91410554999999	(tourism) (hotel)	Park Vue Inn http://linkedgeodata.org/triplify/way118276646
+306437	33.6909026	-117.87899519999999	(tourism) (hotel)	Costa Mesa Marriott http://linkedgeodata.org/triplify/node3279163899
+307419	34.2432772	-116.91244145	(tourism) (hotel)	Sherwood Forest http://linkedgeodata.org/triplify/way132507529
+307534	34.0038682	-118.15070305	(tourism) (hotel)	Doubletree Hotel http://linkedgeodata.org/triplify/way132762895
+307710	34.18615845	-118.596488	(tourism) (hotel)	Hilton http://linkedgeodata.org/triplify/node589170698
+307826	33.45521325	-117.1068778	(tourism) (hotel)	Pechanga Resort http://linkedgeodata.org/triplify/way133931511
+322156	33.520982849999996	-117.16353179999999	(tourism) (hotel)	Fairfield Inn & Suites http://linkedgeodata.org/triplify/way172205079
+325974	34.23013795	-118.5543901	(tourism) (hotel)	America Extended Stay http://linkedgeodata.org/triplify/way177239504
+329843	33.775017399999996	-117.90825235	(tourism) (hotel)	Holiday Inn Express Garden Grove http://linkedgeodata.org/triplify/way183345914
+329902	33.6783556	-117.84974975	(tourism) (hotel)	Irvine Marriott http://linkedgeodata.org/triplify/way184088399
+329903	33.6782543	-117.8500514	(tourism) (hotel)	Irvine Marriott http://linkedgeodata.org/triplify/way184088399
+329963	33.805452700000004	-117.87799465	(tourism) (hotel)	Ayres Hotel Anaheim http://linkedgeodata.org/triplify/way184337038
+329965	33.8049125	-117.88879410000001	(tourism) (hotel)	Marriot TownePlace Suites http://linkedgeodata.org/triplify/way184341319
+330219	34.0629922	-118.44105794999999	(tourism) (hotel)	W Los Angeles - Westwood http://linkedgeodata.org/triplify/way184772367
+330829	34.24025375	-116.9152715	(tourism) (hotel)	The Club http://linkedgeodata.org/triplify/way185736766
+332230	33.7680314	-118.2013886	(tourism) (hotel)	Hilton Long Beach http://linkedgeodata.org/triplify/node3174606565
+333683	34.009093899999996	-118.49315105	(tourism) (hotel)	Loews Santa Monica Beach Hotel http://linkedgeodata.org/triplify/way194210112
+335807	34.24352685	-116.8809066	(tourism) (hotel)	Best Western http://linkedgeodata.org/triplify/node1692730459
+336295	33.80599755	-117.90904660000001	(tourism) (hotel)	Residence Inn Anaheim Maingate http://linkedgeodata.org/triplify/way210715337
+337371	33.79706835	-117.9135617	(tourism) (hotel)	Dolphin's Cove Resort http://linkedgeodata.org/triplify/way219057692
+338055	33.8404337	-117.99867135	(tourism) (hotel)	Knott's Berry Farm Hotel http://linkedgeodata.org/triplify/way222854732
+338097	33.6779335	-117.84024235000001	(tourism) (hotel)	Hotel Irvine http://linkedgeodata.org/triplify/way223206748
+338370	33.582636199999996	-117.84183225	(tourism) (hotel)	Marriott's Newport Coast Villas http://linkedgeodata.org/triplify/way224665553
+338753	34.1464852	-118.116629	(tourism) (hotel)	Saga Motor Hotel http://linkedgeodata.org/triplify/way226940690
+339281	33.85476835	-117.92588605	(tourism) (hotel)	Howard Johnson Hotel and Conference Center http://linkedgeodata.org/triplify/way229308242
+339283	33.8569502	-117.9993214	(tourism) (hotel)	Red Roof Inn http://linkedgeodata.org/triplify/node1570587377
+339300	33.86847555	-118.06064334999999	(tourism) (hotel)	Sheraton http://linkedgeodata.org/triplify/node470868186
+342720	33.8046761	-117.90710455	(tourism) (hotel)	Peacock Suites http://linkedgeodata.org/triplify/way242305610
+342728	33.8038828	-117.9086875	(tourism) (hotel)	WorldMark Anaheim http://linkedgeodata.org/triplify/way242306186
+343161	33.8051097	-117.88834675	(tourism) (hotel)	Marriot TownePlace Suites http://linkedgeodata.org/triplify/way184341319
+343328	33.847060299999995	-117.85233339999999	(tourism) (hotel)	Embassy Suites Anaheim North http://linkedgeodata.org/triplify/way243625762
+344447	34.14127605	-118.0244362	(tourism) (hotel)	Embassy Suites http://linkedgeodata.org/triplify/node2724321275
+344448	34.1410485	-118.02573885000001	(tourism) (hotel)	Springhill Suites by Marriott http://linkedgeodata.org/triplify/way254303135
+345810	33.9797744	-118.3951895	(tourism) (hotel)	Extended Stay America LAX Airport http://linkedgeodata.org/triplify/way262969859
+346371	34.0442672	-117.80314885	(tourism) (hotel)	Shilo Hilltop Suites http://linkedgeodata.org/triplify/way268531731
+346760	34.2463479	-119.25826789999999	(tourism) (hotel)	Holiday Inn Express Hotel & Suites http://linkedgeodata.org/triplify/way273529559
+346846	33.47491455	-116.9869173	(tourism) (hotel)	Vail Lake Resort http://linkedgeodata.org/triplify/way274778962
+347827	33.9272263	-117.55777359999999	(tourism) (hotel)	Knights Inn http://linkedgeodata.org/triplify/node3115505233
+348416	33.8358585	-118.3505714	(tourism) (hotel)	Torrance Marriott South Bay http://linkedgeodata.org/triplify/way285835096
+348581	33.83822825	-118.35125024999999	(tourism) (hotel)	Howard Johnson Torrance http://linkedgeodata.org/triplify/way286205446
+348582	33.8381232	-118.3474831	(tourism) (hotel)	Extended Stay America Hotel Los Angeles http://linkedgeodata.org/triplify/way286205452
+348583	33.838106100000005	-118.34814105000001	(tourism) (hotel)	Best Western Plus Avita Suites http://linkedgeodata.org/triplify/way286205454
+349511	33.80383215	-118.04704015	(tourism) (hotel)	Marriott Residence Inn http://linkedgeodata.org/triplify/node1783793548
+350524	33.6807047	-117.83688095	(tourism) (hotel)	Residence Inn http://linkedgeodata.org/triplify/node365781846
+350567	33.97024775	-117.69043880000001	(tourism) (hotel)	Chino Hills Hotel http://linkedgeodata.org/triplify/way301153848
+350932	33.948897099999996	-118.38485885	(tourism) (hotel)	Renaissance Hotel http://linkedgeodata.org/triplify/way326496445
+351529	33.68174555	-117.8395147	(tourism) (hotel)	Courtyard Marriott http://linkedgeodata.org/triplify/node572708644
+353244	33.85823055	-118.01001005	(tourism) (hotel)	Good Nite Inn http://linkedgeodata.org/triplify/way320869262
+353623	34.194019499999996	-118.34804969999999	(tourism) (hotel)	Marriott http://linkedgeodata.org/triplify/node1480222266
+353957	33.948880349999996	-118.38541605	(tourism) (hotel)	Renaissance Hotel http://linkedgeodata.org/triplify/way326496445
+354299	34.1893564	-119.17590945	(tourism) (hotel)	Best Western http://linkedgeodata.org/triplify/node2376640198
+354430	34.18285675	-118.91712799999999	(tourism) (hotel)	Courtyard by Marriott http://linkedgeodata.org/triplify/node2707561672
+354432	34.183108250000004	-118.9132271	(tourism) (hotel)	Motel 6 http://linkedgeodata.org/triplify/node3286576733
+355115	33.6721158	-117.65843860000001	(tourism) (hotel)	Hilton Garden Inn http://linkedgeodata.org/triplify/node2383305491
+355125	33.67135065	-117.67064355	(tourism) (hotel)	Staybridge Suites Irvine East - Lake Forest http://linkedgeodata.org/triplify/way333374061
+355131	33.6680296	-117.6625675	(tourism) (hotel)	Extended Stay America - Orange County - Lake Forest http://linkedgeodata.org/triplify/way333376726
+355177	33.6544941	-117.627167	(tourism) (hotel)	Ayres Hotel http://linkedgeodata.org/triplify/node574164489
+357713	33.658622199999996	-117.69862975000001	(tourism) (hotel)	Candlewood Suites http://linkedgeodata.org/triplify/way340553226
+359356	33.62811575	-117.71654885000001	(tourism) (hotel)	Quality Inn http://linkedgeodata.org/triplify/node596398987
+359371	33.62614695	-117.71725359999999	(tourism) (hotel)	Holiday Inn http://linkedgeodata.org/triplify/way347399611
+362301	33.91793935	-117.92807425	(tourism) (hotel)	Days Inn & Suites http://linkedgeodata.org/triplify/way358797304
+362861	34.1487146	-118.1500761	(tourism) (hotel)	Courtyard by Marriott http://linkedgeodata.org/triplify/node2707561672
+363956	34.157764799999995	-118.25743729999999	(tourism) (hotel)	Embassy Suites http://linkedgeodata.org/triplify/node2724321275
+365326	34.052885950000004	-118.31249335000001	(tourism) (hotel)	Rotex Hotel http://linkedgeodata.org/triplify/way376153288
+365540	34.098383299999995	-118.3432292	(tourism) (hotel)	Comfort Inn http://linkedgeodata.org/triplify/node1145240543
+366846	34.16809335	-118.60324	(tourism) (hotel)	Best Western http://linkedgeodata.org/triplify/node3392705546
+366847	34.167704400000005	-118.603275	(tourism) (hotel)	Best Western http://linkedgeodata.org/triplify/node3392705546
+366851	34.167688	-118.59312425	(tourism) (hotel)	Courtyard by Marriott http://linkedgeodata.org/triplify/node2707561672
+368058	34.182676400000005	-118.90971495	(tourism) (hotel)	La Quinta http://linkedgeodata.org/triplify/node150955547
+371558	33.93960475	-118.13037055	(tourism) (hotel)	Embassy Suites http://linkedgeodata.org/triplify/node2724321275
+376192	33.43526155000001	-117.6191279	(tourism) (hotel)	Holiday Inn Express http://linkedgeodata.org/triplify/node596808414
+454663	33.986951250000004	-118.47246525	(tourism) (hotel)	Hotel Erwin http://linkedgeodata.org/triplify/node2847838228
+454758	33.946634849999995	-118.390827	(tourism) (hotel)	Sheraton Gateway Los Angeles http://linkedgeodata.org/triplify/node3150080937
+454771	33.94681825	-118.3936511	(tourism) (hotel)	Courtyard by Marriott http://linkedgeodata.org/triplify/node2707561672
+455004	33.97998085	-118.4455167	(tourism) (hotel)	Marina del Rey Hotel http://linkedgeodata.org/triplify/node737411126
+455421	33.473148	-117.67659415	(tourism) (hotel)	Residence Inn http://linkedgeodata.org/triplify/node365781846
+455483	34.077153499999994	-118.29221595	(tourism) (hotel)	Comfort Inn http://linkedgeodata.org/triplify/node1145240543
+455550	34.0977448	-118.30604085	(tourism) (hotel)	Economy Inn http://linkedgeodata.org/triplify/node1036344399
+455553	34.09841865	-118.30833774999999	(tourism) (hotel)	Hollywood Stars Inn http://linkedgeodata.org/triplify/way321364559
+455643	34.096892600000004	-118.29235295	(tourism) (hotel)	Travelodge Hollywood-Vermont/Sunset http://linkedgeodata.org/triplify/node1680950500
+455791	34.083344249999996	-118.31304270000001	(tourism) (hotel)	Hollywood Historic Hotel http://linkedgeodata.org/triplify/way233471958
+455794	34.0984595	-118.31241829999999	(tourism) (hotel)	Dunes Inn http://linkedgeodata.org/triplify/node1036344148
+455845	33.9825174	-118.39628164999999	(tourism) (hotel)	Double Tree Hotel http://linkedgeodata.org/triplify/way260361447
+455846	33.98318075	-118.3936371	(tourism) (hotel)	Four Points http://linkedgeodata.org/triplify/node150943867
+455858	33.981740450000004	-118.3924066	(tourism) (hotel)	Courtyard by Marriott http://linkedgeodata.org/triplify/node2707561672
+455965	34.10098495	-118.3254426	(tourism) (hotel)	W hotel http://linkedgeodata.org/triplify/way32884469
+455966	34.101156700000004	-118.32607354999999	(tourism) (hotel)	W hotel http://linkedgeodata.org/triplify/way32884469
+456290	34.07455305	-118.4384756	(tourism) (hotel)	UCLA Guest House http://linkedgeodata.org/triplify/way44651952
+456333	34.10262615	-118.33294715	(tourism) (hotel)	ReTan http://linkedgeodata.org/triplify/way136962243
+456529	34.1035173	-118.34130675	(tourism) (hotel)	Orange Drive Hostel http://linkedgeodata.org/triplify/node1860234708
+456926	34.06779735	-118.27003195	(tourism) (hotel)	Hollywood Inn Express South http://linkedgeodata.org/triplify/way318471024
+457164	34.0633392	-118.30073045	(tourism) (hotel)	Hotel Normandie http://linkedgeodata.org/triplify/way287440808
+457168	34.06215385	-118.3009884	(tourism) (hotel)	The Line http://linkedgeodata.org/triplify/way262154236
+457169	34.06197995	-118.3006536	(tourism) (hotel)	The Line http://linkedgeodata.org/triplify/way262154236
+457196	34.1066408	-118.33779709999999	(tourism) (hotel)	Hilton Garden Inn http://linkedgeodata.org/triplify/node3137664440
+457207	34.0547256	-118.25558294999999	(tourism) (hotel)	Hyatt Regency, The LA Hotel Downtown http://linkedgeodata.org/triplify/way61758768
+457209	34.0525768	-118.25043455	(tourism) (hotel)	Omni Los Angeles Hotel http://linkedgeodata.org/triplify/way27475203
+457319	34.0496671	-118.24027925	(tourism) (hotel)	Miyako Hotel http://linkedgeodata.org/triplify/way39541667
+457344	34.042294150000004	-118.24477675	(tourism) (hotel)	Weingart Center Association http://linkedgeodata.org/triplify/way249167806
+457370	34.0527431	-118.2477049	(tourism) (hotel)	Kawada Hotel http://linkedgeodata.org/triplify/way196798803
+457428	34.0491736	-118.24531905	(tourism) (hotel)	St. George Hotel http://linkedgeodata.org/triplify/way195508381
+457462	34.0455419	-118.2640734	(tourism) (hotel)	Figueroa Hotel http://linkedgeodata.org/triplify/node853984753
+457464	34.049612249999996	-118.25498475	(tourism) (hotel)	Hilton Checkers http://linkedgeodata.org/triplify/node470868212
+457474	34.0501698	-118.25698455	(tourism) (hotel)	The Standard http://linkedgeodata.org/triplify/node470868240
+457506	34.04425335	-118.26417795	(tourism) (hotel)	Luxe Hotel http://linkedgeodata.org/triplify/node2086396899
+457540	34.0418727	-118.2570121	(tourism) (hotel)	Ace Hotel Los Angeles http://linkedgeodata.org/triplify/way206375348
+457871	34.09505765	-118.37211645	(tourism) (hotel)	Sunset Tower Hotel http://linkedgeodata.org/triplify/node3015513194
+8880	33.6793829	-117.8928089	(tourism) (hotel)	Residence Inn http://linkedgeodata.org/triplify/node365781846
+8892	34.2764567	-119.2934354	(tourism) (hotel)	Crowne Plaza http://linkedgeodata.org/triplify/node367737699
+9722	34.1725209	-118.0884025	(tourism) (hotel)	Altadena Lodge http://linkedgeodata.org/triplify/node368173868
+9724	34.494715	-118.3098011	(tourism) (hotel)	Elkhorn Lodge http://linkedgeodata.org/triplify/node368173882
+10308	34.0665682	-117.5825211	(tourism) (hotel)	Fairfield Inn http://linkedgeodata.org/triplify/node1112504221
+10376	33.8327906	-118.2590563	(tourism) (hotel)	Doubletree Carson Civic Plaza http://linkedgeodata.org/triplify/node440618333
+10607	34.0521823	-118.2676504	(tourism) (hotel)	Mayfair http://linkedgeodata.org/triplify/node150963069
+10667	33.8083846	-118.0298558	(tourism) (hotel)	HYATT House http://linkedgeodata.org/triplify/node471299660
+10762	34.1786	-118.8786716	(tourism) (hotel)	Thousand Oaks Inn http://linkedgeodata.org/triplify/node484173320
+10817	34.0608096	-118.4427634	(tourism) (hotel)	Royal Palace Hotel http://linkedgeodata.org/triplify/node495878301
+10818	34.0610869	-118.4426948	(tourism) (hotel)	Claremont Hotel http://linkedgeodata.org/triplify/node495878302
+11201	34.0638589	-117.2006761	(tourism) (hotel)	Comfort Suites http://linkedgeodata.org/triplify/node1424633362
+11202	34.0626234	-117.2013252	(tourism) (hotel)	Dynasty Suites http://linkedgeodata.org/triplify/node573981947
+11205	34.0655411	-117.2096108	(tourism) (hotel)	Country Inn & Suites http://linkedgeodata.org/triplify/node573981986
+11208	34.0626541	-117.1969863	(tourism) (hotel)	Ayres Hotel http://linkedgeodata.org/triplify/node574164489
+11594	34.1426927	-118.1409128	(tourism) (hotel)	Hilton http://linkedgeodata.org/triplify/node589170698
+12010	34.142909	-118.1442086	(tourism) (hotel)	Sheraton http://linkedgeodata.org/triplify/node470868186
+12203	34.2482947	-118.6065694	(tourism) (hotel)	Radisson Hotel Chatsworth http://linkedgeodata.org/triplify/node651154559
+12405	33.6078735	-117.9251372	(tourism) (hotel)	Bay Shores Peninsula Hotel http://linkedgeodata.org/triplify/node694050188
+12617	33.6581642	-118.0026273	(tourism) (hotel)	Shorebreak Hotel http://linkedgeodata.org/triplify/node708715349
+12693	33.5383538	-117.7803355	(tourism) (hotel)	Pacific Edge Hotel on Laguna Beach http://linkedgeodata.org/triplify/node712801062
+12697	33.5129223	-117.7481466	(tourism) (hotel)	Aliso Creek Inn / Canyon Lodge http://linkedgeodata.org/triplify/node720728222
+12699	33.5303353	-117.7737669	(tourism) (hotel)	Surf & Sand Resort http://linkedgeodata.org/triplify/node720728266
+12714	33.4637764	-117.6813713	(tourism) (hotel)	DoubleTree Guest Suites Doheny Beach http://linkedgeodata.org/triplify/node721903290
+12722	33.4195847	-117.619255	(tourism) (hotel)	Casa Tropicana Boutique Inn http://linkedgeodata.org/triplify/node722407813
+13311	33.4871804	-117.67385	(tourism) (hotel)	Residence Inn http://linkedgeodata.org/triplify/node365781846
+13442	33.9115256	-118.0708347	(tourism) (hotel)	DoubleTree by Hilton Hotel http://linkedgeodata.org/triplify/node812874036
+13479	34.0177982	-118.5015714	(tourism) (hotel)	The Fairmont Miramar http://linkedgeodata.org/triplify/node821384817
+13489	33.4644736	-117.6916572	(tourism) (hotel)	Laguna Cliffs Resort by Marriott http://linkedgeodata.org/triplify/node822316727
+13933	33.4672125	-117.1317602	(tourism) (hotel)	Temecula Creek Inn http://linkedgeodata.org/triplify/node878205060
+13953	34.2300212	-119.1989184	(tourism) (hotel)	Residence Inn Oxnard River Ridge http://linkedgeodata.org/triplify/node880313851
+14244	34.0585008	-118.2378332	(tourism) (hotel)	Metro Plaza Hotel http://linkedgeodata.org/triplify/node933320763
+14458	33.8467903	-118.3933323	(tourism) (hotel)	The Redondo Beach Hotel http://linkedgeodata.org/triplify/node965398538
+14529	33.5139027	-117.1584436	(tourism) (hotel)	Best Western http://linkedgeodata.org/triplify/node1722513390
+14914	33.8538447	-117.7890307	(tourism) (hotel)	Fairfield Inn http://linkedgeodata.org/triplify/node1112504221
+14930	34.1462759	-118.1063798	(tourism) (hotel)	Travelodge http://linkedgeodata.org/triplify/node1113237092
+15101	34.1393842	-118.216845	(tourism) (hotel)	Comfort Inn http://linkedgeodata.org/triplify/node1145240543
+16134	33.8093792	-117.9269321	(tourism) (hotel)	The Disneyland Hotel http://linkedgeodata.org/triplify/way361363809
+16493	33.9173952	-117.8876609	(tourism) (hotel)	Embassy Suites Brea http://linkedgeodata.org/triplify/node1277961292
+18769	34.0496703	-118.2396419	(tourism) (hotel)	Daimaru Hotel http://linkedgeodata.org/triplify/node1435012194
+18780	34.0499526	-118.2400604	(tourism) (hotel)	Little Tokyo Hotel http://linkedgeodata.org/triplify/node1435041917
+19304	34.2434872	-116.911715	(tourism) (hotel)	The Robinhood Resort http://linkedgeodata.org/triplify/node1451280723
+19552	33.7679182	-118.1857421	(tourism) (hotel)	Marriott http://linkedgeodata.org/triplify/node1480222266
+8880	33.6793829	-117.8928089	(tourism) (hotel)	Residence Inn http://linkedgeodata.org/triplify/node365781846
+8892	34.2764567	-119.2934354	(tourism) (hotel)	Crowne Plaza http://linkedgeodata.org/triplify/node367737699
+9722	34.1725209	-118.0884025	(tourism) (hotel)	Altadena Lodge http://linkedgeodata.org/triplify/node368173868
+9724	34.494715	-118.3098011	(tourism) (hotel)	Elkhorn Lodge http://linkedgeodata.org/triplify/node368173882
+10308	34.0665682	-117.5825211	(tourism) (hotel)	Fairfield Inn http://linkedgeodata.org/triplify/node1112504221
+10376	33.8327906	-118.2590563	(tourism) (hotel)	Doubletree Carson Civic Plaza http://linkedgeodata.org/triplify/node440618333
+10607	34.0521823	-118.2676504	(tourism) (hotel)	Mayfair http://linkedgeodata.org/triplify/node150963069
+10667	33.8083846	-118.0298558	(tourism) (hotel)	HYATT House http://linkedgeodata.org/triplify/node471299660
+10762	34.1786	-118.8786716	(tourism) (hotel)	Thousand Oaks Inn http://linkedgeodata.org/triplify/node484173320
+10817	34.0608096	-118.4427634	(tourism) (hotel)	Royal Palace Hotel http://linkedgeodata.org/triplify/node495878301
+10818	34.0610869	-118.4426948	(tourism) (hotel)	Claremont Hotel http://linkedgeodata.org/triplify/node495878302
+11201	34.0638589	-117.2006761	(tourism) (hotel)	Comfort Suites http://linkedgeodata.org/triplify/node1424633362
+11202	34.0626234	-117.2013252	(tourism) (hotel)	Dynasty Suites http://linkedgeodata.org/triplify/node573981947
+11205	34.0655411	-117.2096108	(tourism) (hotel)	Country Inn & Suites http://linkedgeodata.org/triplify/node573981986
+11208	34.0626541	-117.1969863	(tourism) (hotel)	Ayres Hotel http://linkedgeodata.org/triplify/node574164489
+11594	34.1426927	-118.1409128	(tourism) (hotel)	Hilton http://linkedgeodata.org/triplify/node589170698
+12010	34.142909	-118.1442086	(tourism) (hotel)	Sheraton http://linkedgeodata.org/triplify/node470868186
+12203	34.2482947	-118.6065694	(tourism) (hotel)	Radisson Hotel Chatsworth http://linkedgeodata.org/triplify/node651154559
+12405	33.6078735	-117.9251372	(tourism) (hotel)	Bay Shores Peninsula Hotel http://linkedgeodata.org/triplify/node694050188
+12617	33.6581642	-118.0026273	(tourism) (hotel)	Shorebreak Hotel http://linkedgeodata.org/triplify/node708715349
+12693	33.5383538	-117.7803355	(tourism) (hotel)	Pacific Edge Hotel on Laguna Beach http://linkedgeodata.org/triplify/node712801062
+12697	33.5129223	-117.7481466	(tourism) (hotel)	Aliso Creek Inn / Canyon Lodge http://linkedgeodata.org/triplify/node720728222
+12699	33.5303353	-117.7737669	(tourism) (hotel)	Surf & Sand Resort http://linkedgeodata.org/triplify/node720728266
+12714	33.4637764	-117.6813713	(tourism) (hotel)	DoubleTree Guest Suites Doheny Beach http://linkedgeodata.org/triplify/node721903290
+12722	33.4195847	-117.619255	(tourism) (hotel)	Casa Tropicana Boutique Inn http://linkedgeodata.org/triplify/node722407813
+13311	33.4871804	-117.67385	(tourism) (hotel)	Residence Inn http://linkedgeodata.org/triplify/node365781846
+13442	33.9115256	-118.0708347	(tourism) (hotel)	DoubleTree by Hilton Hotel http://linkedgeodata.org/triplify/node812874036
+13479	34.0177982	-118.5015714	(tourism) (hotel)	The Fairmont Miramar http://linkedgeodata.org/triplify/node821384817
+13489	33.4644736	-117.6916572	(tourism) (hotel)	Laguna Cliffs Resort by Marriott http://linkedgeodata.org/triplify/node822316727
+13933	33.4672125	-117.1317602	(tourism) (hotel)	Temecula Creek Inn http://linkedgeodata.org/triplify/node878205060
+13953	34.2300212	-119.1989184	(tourism) (hotel)	Residence Inn Oxnard River Ridge http://linkedgeodata.org/triplify/node880313851
+14244	34.0585008	-118.2378332	(tourism) (hotel)	Metro Plaza Hotel http://linkedgeodata.org/triplify/node933320763
+14458	33.8467903	-118.3933323	(tourism) (hotel)	The Redondo Beach Hotel http://linkedgeodata.org/triplify/node965398538
+14529	33.5139027	-117.1584436	(tourism) (hotel)	Best Western http://linkedgeodata.org/triplify/node1722513390
+14914	33.8538447	-117.7890307	(tourism) (hotel)	Fairfield Inn http://linkedgeodata.org/triplify/node1112504221
+14930	34.1462759	-118.1063798	(tourism) (hotel)	Travelodge http://linkedgeodata.org/triplify/node1113237092
+15101	34.1393842	-118.216845	(tourism) (hotel)	Comfort Inn http://linkedgeodata.org/triplify/node1145240543
+16134	33.8093792	-117.9269321	(tourism) (hotel)	The Disneyland Hotel http://linkedgeodata.org/triplify/way361363809
+16493	33.9173952	-117.8876609	(tourism) (hotel)	Embassy Suites Brea http://linkedgeodata.org/triplify/node1277961292
+18769	34.0496703	-118.2396419	(tourism) (hotel)	Daimaru Hotel http://linkedgeodata.org/triplify/node1435012194
+18780	34.0499526	-118.2400604	(tourism) (hotel)	Little Tokyo Hotel http://linkedgeodata.org/triplify/node1435041917
+19304	34.2434872	-116.911715	(tourism) (hotel)	The Robinhood Resort http://linkedgeodata.org/triplify/node1451280723
+19552	33.7679182	-118.1857421	(tourism) (hotel)	Marriott http://linkedgeodata.org/triplify/node1480222266
+19739	33.8069162	-117.9227207	(tourism) (hotel)	The Villas at Disney's Grand Californian Hotel http://linkedgeodata.org/triplify/node1497023486
+20079	34.1097352	-117.8221569	(tourism) (hotel)	Red Roof Inn http://linkedgeodata.org/triplify/node1570587377
+21584	33.9463837	-118.3843511	(tourism) (hotel)	Los Angeles Airport Mariott http://linkedgeodata.org/triplify/node1718756271
+21874	33.9289998	-117.5694519	(tourism) (hotel)	The Norconian (historical) http://linkedgeodata.org/triplify/node1756993754
+22033	34.1464563	-118.0827138	(tourism) (hotel)	Quality Inn http://linkedgeodata.org/triplify/node1768767681
+22104	34.0238571	-118.3941291	(tourism) (hotel)	Culver Hotel http://linkedgeodata.org/triplify/node1770936287
+22305	34.0715169	-117.8854827	(tourism) (hotel)	Days Inn of West Covina http://linkedgeodata.org/triplify/node1799349603
+22352	33.9465685	-117.0027101	(tourism) (hotel)	Holiday Inn Express http://linkedgeodata.org/triplify/node596808414
+22397	33.4747616	-117.7203668	(tourism) (hotel)	Ritz Carlton http://linkedgeodata.org/triplify/node1830297345
+23457	34.0929368	-118.2921591	(tourism) (hotel)	Chateau Celeste Hollywood Hotel http://linkedgeodata.org/triplify/node1988842454
+25438	34.0137654	-118.4954584	(tourism) (hotel)	Hotel Carmel http://linkedgeodata.org/triplify/node2297248633
+25619	33.8346308	-118.3097474	(tourism) (hotel)	Miyako Hybrid Hotel http://linkedgeodata.org/triplify/node2343076798
+25633	34.151536	-118.0057963	(tourism) (hotel)	Aztec Hotel http://linkedgeodata.org/triplify/node2343810442
+25650	34.0655032	-118.299408	(tourism) (hotel)	Shelter Hotel http://linkedgeodata.org/triplify/node2346845270
+26273	34.0859715	-118.3851213	(tourism) (hotel)	San Vicente Inn http://linkedgeodata.org/triplify/node2450174517
+28207	34.443291	-118.600193	(tourism) (hotel)	Embassy Suites http://linkedgeodata.org/triplify/node2724321275
+28274	34.268633	-119.273956	(tourism) (hotel)	Marriott http://linkedgeodata.org/triplify/node2759343526
+28289	34.0063022	-118.4896688	(tourism) (hotel)	Bayside Hotel http://linkedgeodata.org/triplify/node2769932735
+34286	33.9826892	-118.4577026	(tourism) (hotel)	Jamaica Bay Inn http://linkedgeodata.org/triplify/node2890308002
+34883	34.2404666	-116.9186372	(tourism) (hotel)	ITH Big Bear Mountain Adventure Lodge http://linkedgeodata.org/triplify/node2916653424
+34987	33.8508019	-118.2891699	(tourism) (hotel)	Holiday Inn Torrance http://linkedgeodata.org/triplify/node2932751579
+36012	34.2436079	-116.9157826	(tourism) (hotel)	Knights Inn http://linkedgeodata.org/triplify/node2972494667
+36014	34.2442595	-116.912615	(tourism) (hotel)	Marina Resort http://linkedgeodata.org/triplify/node2972494669
+40338	34.282139	-118.793101	(tourism) (hotel)	Courtyard by Marriott http://linkedgeodata.org/triplify/node2707561672
+40339	34.2693323	-118.7972384	(tourism) (hotel)	Best Western http://linkedgeodata.org/triplify/node3392705546
+41431	33.3424561	-118.327848	(tourism) (hotel)	La Paloma http://linkedgeodata.org/triplify/node3105881397
+41892	33.8930105	-118.36554	(tourism) (hotel)	Residence Inn by Marriot http://linkedgeodata.org/triplify/node3137664446
+42166	34.0632755	-118.2390046	(tourism) (hotel)	Best Western Plus Dragon Gate Inn http://linkedgeodata.org/triplify/node3158050663
+48422	33.9965036	-118.4339403	(tourism) (hotel)	Super 8 Los Angeles-Culver City Area http://linkedgeodata.org/triplify/node3494536871
+49459	33.8232159	-118.3323263	(tourism) (hotel)	Courtyard by Marriott Torrance Palos Verdes http://linkedgeodata.org/triplify/node3601536766
+52551	33.958749	-118.4187273	(tourism) (hotel)	Custom Hotel LAX http://linkedgeodata.org/triplify/node3696464612
+53255	34.1464365	-118.0827141	(tourism) (hotel)	Hotel Le Reve Pasadena http://linkedgeodata.org/triplify/node3724149624
+56532	34.2418991	-116.9182856	(tourism) (hotel)	Snow Bear Lodge http://linkedgeodata.org/triplify/node3792250254
+63746	34.0088592	-118.49292	(tourism) (hotel)	Loews Santa Monica Beach Hotel http://linkedgeodata.org/triplify/way194210112
+65230	34.0611432	-118.3113725	(tourism) (hotel)	Ramada http://linkedgeodata.org/triplify/node519187751
+67004	34.1030931	-118.3394487	(tourism) (hotel)	Loews Hollywood Hotel http://linkedgeodata.org/triplify/node907132608
+73195	34.0549611	-118.1352367	(tourism) (hotel)	Comfort Inn http://linkedgeodata.org/triplify/node1145240543
+74066	33.7081563	-117.9537487	(tourism) (hotel)	Ayres Hotel http://linkedgeodata.org/triplify/node574164489
+75357	34.065066	-117.265305	(tourism) (hotel)	Fairfield Inn http://linkedgeodata.org/triplify/node1112504221
+75359	34.066692	-117.26513	(tourism) (hotel)	Residence Inn http://linkedgeodata.org/triplify/node365781846
+79168	34.3960819	-118.9212158	(tourism) (hotel)	Best Western http://linkedgeodata.org/triplify/node3392705546
+91852	33.799045	-117.9182974	(tourism) (hotel)	Anaheim Marriott http://linkedgeodata.org/triplify/way171261044
+98025	34.0457758	-118.2660933	(tourism) (hotel)	Courtyard by Marriott http://linkedgeodata.org/triplify/node2707561672
+98026	34.0452979	-118.2664822	(tourism) (hotel)	Marriott http://linkedgeodata.org/triplify/node1480222266
+270346	34.0527407	-118.255872	(tourism) (hotel)	Westin Bonaventure http://linkedgeodata.org/triplify/way33528271
+270575	33.98218475	-118.4598623	(tourism) (hotel)	Marina del Rey Marriott http://linkedgeodata.org/triplify/way34169735
+273260	34.06612415	-117.60926810000001	(tourism) (hotel)	DoubleTree Hotel http://linkedgeodata.org/triplify/way37825047
+273261	34.0644614	-117.6098035	(tourism) (hotel)	Countryside Suites Ontario http://linkedgeodata.org/triplify/way37825049
+274122	34.0788539	-117.55448204999999	(tourism) (hotel)	Hilton Garden Inn http://linkedgeodata.org/triplify/node2383305491
+274158	34.078718800000004	-117.555537	(tourism) (hotel)	Homewood Suites by Hilton http://linkedgeodata.org/triplify/node3230321141
+277573	34.12077745	-118.1337118	(tourism) (hotel)	The Langham Huntington http://linkedgeodata.org/triplify/node539558502
+277716	34.05750825	-118.41572289999999	(tourism) (hotel)	Hyatt Regency Century Plaza http://linkedgeodata.org/triplify/way43342001
+282916	34.142938900000004	-118.1442182	(tourism) (hotel)	Sheraton Hotel http://linkedgeodata.org/triplify/way49248607
+285131	33.65078865	-117.99062275	(tourism) (hotel)	Hyatt Regency Huntington Beach Resort and Spa http://linkedgeodata.org/triplify/way56672685
+285133	33.65294335	-117.9938487	(tourism) (hotel)	The Hilton Waterfront Beach Resort http://linkedgeodata.org/triplify/way56672691
+285143	33.61541025	-117.91504465	(tourism) (hotel)	The Balboa Bay Club & Resort http://linkedgeodata.org/triplify/way56992247
+285144	33.6194211	-117.92050745	(tourism) (hotel)	Holiday Inn Express http://linkedgeodata.org/triplify/node596808414
+286333	33.675759150000005	-117.758955	(tourism) (hotel)	La Quinta Inn & Suites http://linkedgeodata.org/triplify/way60502914
+286452	33.652829749999995	-117.714216	(tourism) (hotel)	Marriott Residence Inn http://linkedgeodata.org/triplify/way60784250
+286575	33.48208615	-117.7159094	(tourism) (hotel)	The St. Regis Monarch Beach Resort & Spa http://linkedgeodata.org/triplify/way61111124
+288724	33.88300205	-118.02402665	(tourism) (hotel)	Marriott Residence Inn http://linkedgeodata.org/triplify/node1783793548
+289320	33.4604868	-117.6754344	(tourism) (hotel)	Riviera Beach & Spa Resort http://linkedgeodata.org/triplify/way70166442
+289630	33.69080835	-117.88414614999999	(tourism) (hotel)	Westin South Coast Plaza http://linkedgeodata.org/triplify/way70802044
+290363	33.49501005	-117.150495	(tourism) (hotel)	Palomar Inn http://linkedgeodata.org/triplify/way73160326
+291241	34.1791463	-118.30781485	(tourism) (hotel)	Holiday Inn http://linkedgeodata.org/triplify/node1873194502
+293926	33.501407799999996	-117.1490964	(tourism) (hotel)	Embassy Suites Temecula Valley Wine Country http://linkedgeodata.org/triplify/way82650582
+294314	33.49887475	-117.15167034999999	(tourism) (hotel)	Rancho California Inn http://linkedgeodata.org/triplify/way84267700
+294326	33.4846796	-117.14325485	(tourism) (hotel)	Ramada http://linkedgeodata.org/triplify/node695036958
+294466	33.51605625	-117.15962110000001	(tourism) (hotel)	Holiday Inn Express http://linkedgeodata.org/triplify/node596808414
+294468	33.51748805	-117.16087345	(tourism) (hotel)	Extended Stay http://linkedgeodata.org/triplify/way85103678
+296387	33.582324150000005	-117.72997755	(tourism) (hotel)	Renaissance ClubSport Aliso Viejo http://linkedgeodata.org/triplify/way98828874
+296856	34.146363	-118.11752065	(tourism) (hotel)	Howard Johnsons http://linkedgeodata.org/triplify/way101206954
+296954	33.8044053	-118.14160849999999	(tourism) (hotel)	Holiday Inn http://linkedgeodata.org/triplify/node1873194502
+297323	33.56757505	-117.20752440000001	(tourism) (hotel)	Comfort Inn & Suites Near Temecula Wine Country http://linkedgeodata.org/triplify/way103869770
+298629	33.5005747	-117.15332025000001	(tourism) (hotel)	Hampton Inn & Suites http://linkedgeodata.org/triplify/node1813316556
+298630	33.502306399999995	-117.15313915	(tourism) (hotel)	SpringHill Suites Marriott http://linkedgeodata.org/triplify/way107914623
+300334	33.80234025	-117.92467055	(tourism) (hotel)	Best Western Plus Stovall's Inn http://linkedgeodata.org/triplify/way111943809
+300871	33.36307505	-117.08313145	(tourism) (hotel)	Pala Casino / Hotel / Resort http://linkedgeodata.org/triplify/way113935238
+300879	33.3632386	-117.08614779999999	(tourism) (hotel)	Pala Casino / Hotel / Resort http://linkedgeodata.org/triplify/way113935238
+301009	34.1337701	-117.19439055000001	(tourism) (hotel)	Hampton Inn & Suites http://linkedgeodata.org/triplify/node1813316556
+301935	33.8090699	-117.91410554999999	(tourism) (hotel)	Park Vue Inn http://linkedgeodata.org/triplify/way118276646
+306437	33.6909026	-117.87899519999999	(tourism) (hotel)	Costa Mesa Marriott http://linkedgeodata.org/triplify/node3279163899
+307419	34.2432772	-116.91244145	(tourism) (hotel)	Sherwood Forest http://linkedgeodata.org/triplify/way132507529
+307534	34.0038682	-118.15070305	(tourism) (hotel)	Doubletree Hotel http://linkedgeodata.org/triplify/way132762895
+307710	34.18615845	-118.596488	(tourism) (hotel)	Hilton http://linkedgeodata.org/triplify/node589170698
+307826	33.45521325	-117.1068778	(tourism) (hotel)	Pechanga Resort http://linkedgeodata.org/triplify/way133931511
+322156	33.520982849999996	-117.16353179999999	(tourism) (hotel)	Fairfield Inn & Suites http://linkedgeodata.org/triplify/way172205079
+325974	34.23013795	-118.5543901	(tourism) (hotel)	America Extended Stay http://linkedgeodata.org/triplify/way177239504
+329843	33.775017399999996	-117.90825235	(tourism) (hotel)	Holiday Inn Express Garden Grove http://linkedgeodata.org/triplify/way183345914
+329902	33.6783556	-117.84974975	(tourism) (hotel)	Irvine Marriott http://linkedgeodata.org/triplify/way184088399
+329903	33.6782543	-117.8500514	(tourism) (hotel)	Irvine Marriott http://linkedgeodata.org/triplify/way184088399
+329963	33.805452700000004	-117.87799465	(tourism) (hotel)	Ayres Hotel Anaheim http://linkedgeodata.org/triplify/way184337038
+329965	33.8049125	-117.88879410000001	(tourism) (hotel)	Marriot TownePlace Suites http://linkedgeodata.org/triplify/way184341319
+330219	34.0629922	-118.44105794999999	(tourism) (hotel)	W Los Angeles - Westwood http://linkedgeodata.org/triplify/way184772367
+330829	34.24025375	-116.9152715	(tourism) (hotel)	The Club http://linkedgeodata.org/triplify/way185736766
+332230	33.7680314	-118.2013886	(tourism) (hotel)	Hilton Long Beach http://linkedgeodata.org/triplify/node3174606565
+333683	34.009093899999996	-118.49315105	(tourism) (hotel)	Loews Santa Monica Beach Hotel http://linkedgeodata.org/triplify/way194210112
+335807	34.24352685	-116.8809066	(tourism) (hotel)	Best Western http://linkedgeodata.org/triplify/node1692730459
+336295	33.80599755	-117.90904660000001	(tourism) (hotel)	Residence Inn Anaheim Maingate http://linkedgeodata.org/triplify/way210715337
+337371	33.79706835	-117.9135617	(tourism) (hotel)	Dolphin's Cove Resort http://linkedgeodata.org/triplify/way219057692
+338055	33.8404337	-117.99867135	(tourism) (hotel)	Knott's Berry Farm Hotel http://linkedgeodata.org/triplify/way222854732
+338097	33.6779335	-117.84024235000001	(tourism) (hotel)	Hotel Irvine http://linkedgeodata.org/triplify/way223206748
+338370	33.582636199999996	-117.84183225	(tourism) (hotel)	Marriott's Newport Coast Villas http://linkedgeodata.org/triplify/way224665553
+338753	34.1464852	-118.116629	(tourism) (hotel)	Saga Motor Hotel http://linkedgeodata.org/triplify/way226940690
+339281	33.85476835	-117.92588605	(tourism) (hotel)	Howard Johnson Hotel and Conference Center http://linkedgeodata.org/triplify/way229308242
+339283	33.8569502	-117.9993214	(tourism) (hotel)	Red Roof Inn http://linkedgeodata.org/triplify/node1570587377
+339300	33.86847555	-118.06064334999999	(tourism) (hotel)	Sheraton http://linkedgeodata.org/triplify/node470868186
+342720	33.8046761	-117.90710455	(tourism) (hotel)	Peacock Suites http://linkedgeodata.org/triplify/way242305610
+342728	33.8038828	-117.9086875	(tourism) (hotel)	WorldMark Anaheim http://linkedgeodata.org/triplify/way242306186
+343161	33.8051097	-117.88834675	(tourism) (hotel)	Marriot TownePlace Suites http://linkedgeodata.org/triplify/way184341319
+343328	33.847060299999995	-117.85233339999999	(tourism) (hotel)	Embassy Suites Anaheim North http://linkedgeodata.org/triplify/way243625762
+344447	34.14127605	-118.0244362	(tourism) (hotel)	Embassy Suites http://linkedgeodata.org/triplify/node2724321275
+344448	34.1410485	-118.02573885000001	(tourism) (hotel)	Springhill Suites by Marriott http://linkedgeodata.org/triplify/way254303135
+345810	33.9797744	-118.3951895	(tourism) (hotel)	Extended Stay America LAX Airport http://linkedgeodata.org/triplify/way262969859
+346371	34.0442672	-117.80314885	(tourism) (hotel)	Shilo Hilltop Suites http://linkedgeodata.org/triplify/way268531731
+346760	34.2463479	-119.25826789999999	(tourism) (hotel)	Holiday Inn Express Hotel & Suites http://linkedgeodata.org/triplify/way273529559
+346846	33.47491455	-116.9869173	(tourism) (hotel)	Vail Lake Resort http://linkedgeodata.org/triplify/way274778962
+347827	33.9272263	-117.55777359999999	(tourism) (hotel)	Knights Inn http://linkedgeodata.org/triplify/node3115505233
+348416	33.8358585	-118.3505714	(tourism) (hotel)	Torrance Marriott South Bay http://linkedgeodata.org/triplify/way285835096
+348581	33.83822825	-118.35125024999999	(tourism) (hotel)	Howard Johnson Torrance http://linkedgeodata.org/triplify/way286205446
+348582	33.8381232	-118.3474831	(tourism) (hotel)	Extended Stay America Hotel Los Angeles http://linkedgeodata.org/triplify/way286205452
+348583	33.838106100000005	-118.34814105000001	(tourism) (hotel)	Best Western Plus Avita Suites http://linkedgeodata.org/triplify/way286205454
+349511	33.80383215	-118.04704015	(tourism) (hotel)	Marriott Residence Inn http://linkedgeodata.org/triplify/node1783793548
+350524	33.6807047	-117.83688095	(tourism) (hotel)	Residence Inn http://linkedgeodata.org/triplify/node365781846
+350567	33.97024775	-117.69043880000001	(tourism) (hotel)	Chino Hills Hotel http://linkedgeodata.org/triplify/way301153848
+350932	33.948897099999996	-118.38485885	(tourism) (hotel)	Renaissance Hotel http://linkedgeodata.org/triplify/way326496445
+351529	33.68174555	-117.8395147	(tourism) (hotel)	Courtyard Marriott http://linkedgeodata.org/triplify/node572708644
+353244	33.85823055	-118.01001005	(tourism) (hotel)	Good Nite Inn http://linkedgeodata.org/triplify/way320869262
+353623	34.194019499999996	-118.34804969999999	(tourism) (hotel)	Marriott http://linkedgeodata.org/triplify/node1480222266
+353957	33.948880349999996	-118.38541605	(tourism) (hotel)	Renaissance Hotel http://linkedgeodata.org/triplify/way326496445
+354299	34.1893564	-119.17590945	(tourism) (hotel)	Best Western http://linkedgeodata.org/triplify/node2376640198
+354430	34.18285675	-118.91712799999999	(tourism) (hotel)	Courtyard by Marriott http://linkedgeodata.org/triplify/node2707561672
+354432	34.183108250000004	-118.9132271	(tourism) (hotel)	Motel 6 http://linkedgeodata.org/triplify/node3286576733
+355115	33.6721158	-117.65843860000001	(tourism) (hotel)	Hilton Garden Inn http://linkedgeodata.org/triplify/node2383305491
+355125	33.67135065	-117.67064355	(tourism) (hotel)	Staybridge Suites Irvine East - Lake Forest http://linkedgeodata.org/triplify/way333374061
+355131	33.6680296	-117.6625675	(tourism) (hotel)	Extended Stay America - Orange County - Lake Forest http://linkedgeodata.org/triplify/way333376726
+355177	33.6544941	-117.627167	(tourism) (hotel)	Ayres Hotel http://linkedgeodata.org/triplify/node574164489
+357713	33.658622199999996	-117.69862975000001	(tourism) (hotel)	Candlewood Suites http://linkedgeodata.org/triplify/way340553226
+359356	33.62811575	-117.71654885000001	(tourism) (hotel)	Quality Inn http://linkedgeodata.org/triplify/node596398987
+359371	33.62614695	-117.71725359999999	(tourism) (hotel)	Holiday Inn http://linkedgeodata.org/triplify/way347399611
+362301	33.91793935	-117.92807425	(tourism) (hotel)	Days Inn & Suites http://linkedgeodata.org/triplify/way358797304
+362861	34.1487146	-118.1500761	(tourism) (hotel)	Courtyard by Marriott http://linkedgeodata.org/triplify/node2707561672
+363956	34.157764799999995	-118.25743729999999	(tourism) (hotel)	Embassy Suites http://linkedgeodata.org/triplify/node2724321275
+365326	34.052885950000004	-118.31249335000001	(tourism) (hotel)	Rotex Hotel http://linkedgeodata.org/triplify/way376153288
+365540	34.098383299999995	-118.3432292	(tourism) (hotel)	Comfort Inn http://linkedgeodata.org/triplify/node1145240543
+366846	34.16809335	-118.60324	(tourism) (hotel)	Best Western http://linkedgeodata.org/triplify/node3392705546
+366847	34.167704400000005	-118.603275	(tourism) (hotel)	Best Western http://linkedgeodata.org/triplify/node3392705546
+366851	34.167688	-118.59312425	(tourism) (hotel)	Courtyard by Marriott http://linkedgeodata.org/triplify/node2707561672
+368058	34.182676400000005	-118.90971495	(tourism) (hotel)	La Quinta http://linkedgeodata.org/triplify/node150955547
+371558	33.93960475	-118.13037055	(tourism) (hotel)	Embassy Suites http://linkedgeodata.org/triplify/node2724321275
+376192	33.43526155000001	-117.6191279	(tourism) (hotel)	Holiday Inn Express http://linkedgeodata.org/triplify/node596808414
+454663	33.986951250000004	-118.47246525	(tourism) (hotel)	Hotel Erwin http://linkedgeodata.org/triplify/node2847838228
+454758	33.946634849999995	-118.390827	(tourism) (hotel)	Sheraton Gateway Los Angeles http://linkedgeodata.org/triplify/node3150080937
+454771	33.94681825	-118.3936511	(tourism) (hotel)	Courtyard by Marriott http://linkedgeodata.org/triplify/node2707561672
+455004	33.97998085	-118.4455167	(tourism) (hotel)	Marina del Rey Hotel http://linkedgeodata.org/triplify/node737411126
+455421	33.473148	-117.67659415	(tourism) (hotel)	Residence Inn http://linkedgeodata.org/triplify/node365781846
+455483	34.077153499999994	-118.29221595	(tourism) (hotel)	Comfort Inn http://linkedgeodata.org/triplify/node1145240543
+455550	34.0977448	-118.30604085	(tourism) (hotel)	Economy Inn http://linkedgeodata.org/triplify/node1036344399
+455553	34.09841865	-118.30833774999999	(tourism) (hotel)	Hollywood Stars Inn http://linkedgeodata.org/triplify/way321364559
+455643	34.096892600000004	-118.29235295	(tourism) (hotel)	Travelodge Hollywood-Vermont/Sunset http://linkedgeodata.org/triplify/node1680950500
+455791	34.083344249999996	-118.31304270000001	(tourism) (hotel)	Hollywood Historic Hotel http://linkedgeodata.org/triplify/way233471958
+455794	34.0984595	-118.31241829999999	(tourism) (hotel)	Dunes Inn http://linkedgeodata.org/triplify/node1036344148
+455845	33.9825174	-118.39628164999999	(tourism) (hotel)	Double Tree Hotel http://linkedgeodata.org/triplify/way260361447
+455846	33.98318075	-118.3936371	(tourism) (hotel)	Four Points http://linkedgeodata.org/triplify/node150943867
+455858	33.981740450000004	-118.3924066	(tourism) (hotel)	Courtyard by Marriott http://linkedgeodata.org/triplify/node2707561672
+455965	34.10098495	-118.3254426	(tourism) (hotel)	W hotel http://linkedgeodata.org/triplify/way32884469
+455966	34.101156700000004	-118.32607354999999	(tourism) (hotel)	W hotel http://linkedgeodata.org/triplify/way32884469
+456290	34.07455305	-118.4384756	(tourism) (hotel)	UCLA Guest House http://linkedgeodata.org/triplify/way44651952
+456333	34.10262615	-118.33294715	(tourism) (hotel)	ReTan http://linkedgeodata.org/triplify/way136962243
+456529	34.1035173	-118.34130675	(tourism) (hotel)	Orange Drive Hostel http://linkedgeodata.org/triplify/node1860234708
+456926	34.06779735	-118.27003195	(tourism) (hotel)	Hollywood Inn Express South http://linkedgeodata.org/triplify/way318471024
+457164	34.0633392	-118.30073045	(tourism) (hotel)	Hotel Normandie http://linkedgeodata.org/triplify/way287440808
+457168	34.06215385	-118.3009884	(tourism) (hotel)	The Line http://linkedgeodata.org/triplify/way262154236
+457169	34.06197995	-118.3006536	(tourism) (hotel)	The Line http://linkedgeodata.org/triplify/way262154236
+457196	34.1066408	-118.33779709999999	(tourism) (hotel)	Hilton Garden Inn http://linkedgeodata.org/triplify/node3137664440
+457207	34.0547256	-118.25558294999999	(tourism) (hotel)	Hyatt Regency, The LA Hotel Downtown http://linkedgeodata.org/triplify/way61758768
+457209	34.0525768	-118.25043455	(tourism) (hotel)	Omni Los Angeles Hotel http://linkedgeodata.org/triplify/way27475203
+457319	34.0496671	-118.24027925	(tourism) (hotel)	Miyako Hotel http://linkedgeodata.org/triplify/way39541667
+457344	34.042294150000004	-118.24477675	(tourism) (hotel)	Weingart Center Association http://linkedgeodata.org/triplify/way249167806
+457370	34.0527431	-118.2477049	(tourism) (hotel)	Kawada Hotel http://linkedgeodata.org/triplify/way196798803
+457428	34.0491736	-118.24531905	(tourism) (hotel)	St. George Hotel http://linkedgeodata.org/triplify/way195508381
+457462	34.0455419	-118.2640734	(tourism) (hotel)	Figueroa Hotel http://linkedgeodata.org/triplify/node853984753
+457464	34.049612249999996	-118.25498475	(tourism) (hotel)	Hilton Checkers http://linkedgeodata.org/triplify/node470868212
+457474	34.0501698	-118.25698455	(tourism) (hotel)	The Standard http://linkedgeodata.org/triplify/node470868240
+457506	34.04425335	-118.26417795	(tourism) (hotel)	Luxe Hotel http://linkedgeodata.org/triplify/node2086396899
+457540	34.0418727	-118.2570121	(tourism) (hotel)	Ace Hotel Los Angeles http://linkedgeodata.org/triplify/way206375348
+457871	34.09505765	-118.37211645	(tourism) (hotel)	Sunset Tower Hotel http://linkedgeodata.org/triplify/node3015513194
+457932	34.15159265	-118.6486059	(tourism) (hotel)	Hilton http://linkedgeodata.org/triplify/node589170698
+460277	34.148989900000004	-118.1419119	(tourism) (hotel)	Westin Pasadena http://linkedgeodata.org/triplify/node442673413
+460791	34.0304979	-118.481513	(tourism) (hotel)	The Ambrose http://linkedgeodata.org/triplify/node439781596
+461157	33.8042778	-118.1464535	(tourism) (hotel)	Extended Stay America http://linkedgeodata.org/triplify/way292387667
+461162	33.80371665	-118.1446219	(tourism) (hotel)	Residence Inn by Marriott http://linkedgeodata.org/triplify/way295779485
+461163	33.8039356	-118.1446485	(tourism) (hotel)	Residence Inn by Marriott http://linkedgeodata.org/triplify/way295779485
+461576	33.89531515	-118.35178265	(tourism) (hotel)	Best Western http://linkedgeodata.org/triplify/node3392705546
+461616	33.94574395	-118.36576635	(tourism) (hotel)	Best Western Plus http://linkedgeodata.org/triplify/node3056983856
+461795	33.87238635	-118.359733	(tourism) (hotel)	Best Western http://linkedgeodata.org/triplify/node3392705546
+461954	33.8938651	-118.36658220000001	(tourism) (hotel)	Hilton Garden Inn http://linkedgeodata.org/triplify/node3137664440
+462544	34.179283350000006	-118.30777764999999	(tourism) (hotel)	Holiday Inn http://linkedgeodata.org/triplify/node1873194502
+463885	33.807647349999996	-117.92222910000001	(tourism) (hotel)	Disney's Grand Californian Hotel & Spa http://linkedgeodata.org/triplify/way374352265
+466233	34.0949547	-117.72036205	(tourism) (hotel)	Casa 425 http://linkedgeodata.org/triplify/node1634477786

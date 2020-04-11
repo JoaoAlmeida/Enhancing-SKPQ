@@ -20,8 +20,14 @@ Doutorado/terceiro journal/Datasets
 Doutorado/Datasets.zip
 profiles/check-ins
 
+#Cache folders
+london/
+los angeles/
+new york/
+
 #Temporary ignored files
 src/log4j.properties
+thrash/
 
 # =========================
 # Windows Files

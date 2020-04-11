@@ -14,6 +14,7 @@ import java.util.List;
 import java.util.TreeSet;
 
 import org.apache.commons.math3.distribution.ParetoDistribution;
+import org.apache.jena.sparql.function.library.min;
 
 import skpq.util.Datasets;
 import weka.clusterers.SimpleKMeans;
@@ -22,6 +23,7 @@ import xxl.util.StarRTree;
 
 /**
  * Process a Spatial Preference Keyword Query using LOD and Pareto distribution.
+ * Rank rank-order
  * 
  * @author João Paulo
  */
@@ -52,11 +54,11 @@ public class SKPQPareto extends SpatialQueryLD {
 		TreeSet<SpatialObject> topK = new TreeSet<>();
 		TreeSet<SpatialObject> pTopK = new TreeSet<>();
 
-//		try {
-//			interestObjectSet = loadObjectsInterest("hotelLondon_LGD.txt");
-//		} catch (IOException e) {
-//			e.printStackTrace();
-//		}
+		try {
+			interestObjectSet = loadObjectsInterest("./london/LondonLGD.txt");
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
 
 		System.out.println("Processing PSKPQ query...\n");
 
@@ -69,7 +71,7 @@ public class SKPQPareto extends SpatialQueryLD {
 		Datasets data = new Datasets();
 
 		try {
-			topK = data.loadResultstoPersonalizeBN("SKPQ", keywords, k);
+			topK = data.loadResultstoPersonalizeBN("SKPQ", keywords, k);		
 		} catch (IOException e2) {
 			e2.printStackTrace();
 		}
@@ -82,28 +84,28 @@ public class SKPQPareto extends SpatialQueryLD {
 		ParetoDistribution par = new ParetoDistribution();
 
 		// KNN
-		BufferedReader reader = new BufferedReader((new InputStreamReader(
-				new FileInputStream(new File("./profiles/check-ins/New York/util/coordinates.txt")), "ISO-8859-1")));
-		Instances instances = new Instances(reader);
-
-		SimpleKMeans kmeans = new SimpleKMeans();
-
-		kmeans.setSeed(0);
-
-		try {
-			kmeans.setNumClusters(50);
-			kmeans.buildClusterer(instances);
-		} catch (Exception e2) {
-			// TODO Auto-generated catch block
-			e2.printStackTrace();
-		}
+//		BufferedReader reader = new BufferedReader((new InputStreamReader(
+//				new FileInputStream(new File("./profiles/check-ins/New York/util/coordinates.txt")), "ISO-8859-1")));
+//		Instances instances = new Instances(reader);
+//
+//		SimpleKMeans kmeans = new SimpleKMeans();
+//
+//		kmeans.setSeed(0);
+//
+//		try {
+//			kmeans.setNumClusters(50);
+//			kmeans.buildClusterer(instances);
+//		} catch (Exception e2) {
+//			e2.printStackTrace();
+//		}
 
 		Iterator<SpatialObject> it = topK.iterator();
 
 		SpatialObject obj;
 
 		obj = it.next();
-		// If the query didn't find anything, there is no need to personalize
+		
+		// If the query didn't find anything, there is no need to re-order
 		if (!(obj.getScore() == 0)) {
 
 			// Cria coordenadas do POI presente no rank
@@ -117,14 +119,16 @@ public class SKPQPareto extends SpatialQueryLD {
 					Double.parseDouble(obj.getBestNeighbor().getLgt()), coords[0], coords[1]);
 
 			double probability = par.logDensity(dist);
-			System.out.println(probability);
+			
 			double maxProb = probability;
 			double minProb = probability;
 			int id = 1;
+
 			// Define o maior e menor valor de probability para normalização
 			while (it.hasNext()) {
-
+				
 				obj = it.next();
+				
 				// Cria coordenadas do POI presente no rank
 				// double[] coords = {Double.parseDouble(obj.getLat()),
 				// Double.parseDouble(obj.getLgt())};
@@ -132,10 +136,9 @@ public class SKPQPareto extends SpatialQueryLD {
 				// encontra o check-in mais próximo do POI
 				// double dist = u.findClosest(coords);
 
-				if (obj.getBestNeighbor().getLat().contains("0")) {
-//				System.out.println("-> " + obj.getCompleteDescription());
+				if (!obj.getBestNeighbor().getName().equals("empty")) {
+
 					obj.setId(id);
-					System.out.println("-> " + obj.getCompleteDescription());
 					id--;
 					pTopK.add(obj);
 				} else {
@@ -144,30 +147,32 @@ public class SKPQPareto extends SpatialQueryLD {
 							Double.parseDouble(obj.getLgt()));
 
 					probability = par.logDensity(dist);
-					// verificar se aparece prob positivo
-					System.out.println(probability);
+					
 					// Sometimes the probability will be negative infinite. Here we deal with this
-					// ignoring it.
-					if (probability == Double.NEGATIVE_INFINITY) {
-						probability = maxProb;
-					}
-					if (probability > maxProb) {
-						maxProb = probability;
-					}
+					// ignoring it. A probabilidade e infinita quando o proprio hotel e retornado no conjunto de features. Entao ignoramos ele.
+					if (!(probability == Double.NEGATIVE_INFINITY)) {
 
-					if (probability < minProb) {
-						minProb = probability;
+						if (probability > maxProb) {
+							maxProb = probability;
+						}
+
+						if (probability < minProb) {
+							minProb = probability;
+						}
 					}
 				}
 			}
 
+//			System.out.println("Max: " + maxProb);
+//			System.out.println("MIN: " + minProb);
+			
 			it = topK.iterator();
 
 			while (it.hasNext()) {
 
 				obj = it.next();
 
-				if (!obj.getBestNeighbor().getLat().contains("0")) {
+				if (!obj.getBestNeighbor().getName().equals("empty")) {
 					dist = SpatialQueryLD.distFrom(Double.parseDouble(obj.getBestNeighbor().getLat()),
 							Double.parseDouble(obj.getBestNeighbor().getLgt()), Double.parseDouble(obj.getLat()),
 							Double.parseDouble(obj.getLgt()));
