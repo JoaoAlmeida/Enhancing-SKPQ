@@ -23,7 +23,7 @@ profiles/check-ins
 #Cache folders
 london/
 los angeles/
-new york/
+newyork/
 
 #Temporary ignored files
 src/log4j.properties
