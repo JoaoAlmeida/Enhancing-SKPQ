@@ -8,6 +8,7 @@ nppBackup/
 # Framework output folder
 output/
 indexDubai/
+index*/
 pskpq/
 evaluations/
 skpq/
@@ -22,8 +23,10 @@ profiles/check-ins
 
 #Cache folders
 london/
-los angeles/
+losangeles/
 newyork/
+berlin/
+madrid/
 
 #Temporary ignored files
 src/log4j.properties
@@ -81,5 +84,3 @@ Network Trash Folder
 Temporary Items
 .apdisk
 /bin/
-
-SKPQ-LD [k=5, kw=nice location] --- ratings.txt

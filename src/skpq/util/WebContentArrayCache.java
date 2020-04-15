@@ -46,6 +46,7 @@ public class WebContentArrayCache {
 		
 		if(this.radius != radius) {
 			System.out.println("The cache contains only query results obtained using query radius of " + this.radius + " km");
+			System.exit(0);
 		}
 	}
 

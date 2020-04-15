@@ -36,7 +36,7 @@ public class RatingExtractor {
 		ratingBkp = new OutputStreamWriter(new FileOutputStream(bkpFileName, true), "ISO-8859-1");
 
 		//stores google rates
-		ratingCache = new WebContentCache("./london/ratings.ch");
+		ratingCache = new WebContentCache("./berlin/ratings.ch");
 		ratingCache.load();
 		
 		//stores hotels uri
@@ -84,7 +84,7 @@ public class RatingExtractor {
 
 		ArrayList<String> rateResults = new ArrayList<>();
 
-		importObjectsInterest("hotelLondon.txt", "hotel");
+		importObjectsInterest("./datasetsOutput/osm/Berlin hotel.txt", "hotel");
 
 		BufferedReader reader = new BufferedReader(
 				(new InputStreamReader(new FileInputStream(new File(fileName)), "ISO-8859-1")));
@@ -779,7 +779,7 @@ public class RatingExtractor {
 		String line = reader.readLine();
 
 		while (line != null) {
-			String[] lineVec = line.split(" ");
+			String[] lineVec = line.split("\t");
 			String[] labelVec = line.split("\\("+category+"\\)");
 
 			String key = lineVec[1] + " " + lineVec[2];

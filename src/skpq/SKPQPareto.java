@@ -30,14 +30,15 @@ import xxl.util.StarRTree;
 public class SKPQPareto extends SpatialQueryLD {
 
 	private double radius;
+	String city;
 	// GooglePlaces googleAPI;
 	// private WebContentCache reviewCache;
 
 	public SKPQPareto(int k, String keywords, String neighborhood, double radius, StarRTree objectsOfInterest,
-			boolean debug) throws IOException {
+			boolean debug, String city) throws IOException {
 		super(k, keywords, objectsOfInterest, debug);
 		this.radius = radius;
-
+		this.city = city;
 		// reviewCache = new WebContentCache("reviews.ch");
 		// reviewCache.load();
 
@@ -55,7 +56,7 @@ public class SKPQPareto extends SpatialQueryLD {
 		TreeSet<SpatialObject> pTopK = new TreeSet<>();
 
 		try {
-			interestObjectSet = loadObjectsInterest("./london/LondonLGD.txt");
+			interestObjectSet = loadObjectsInterest("./"+city.toLowerCase()+"/"+city+"LGD.txt");
 		} catch (IOException e) {
 			e.printStackTrace();
 		}

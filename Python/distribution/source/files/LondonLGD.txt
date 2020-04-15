@@ -6,7 +6,6 @@
 51.4975442 -0.4558534 Novotel http://linkedgeodata.org/triplify/node25947730
 51.3429505 0.5082146 Bridgewood Manor Hotel http://linkedgeodata.org/triplify/node26008178
 51.4994407 -0.4542096 Crowne Plaza http://linkedgeodata.org/triplify/node26197001
-51.4943325 -0.4304935 Comfort Hotel Heathrow Vazio
 51.1572466 0.8807886 Holiday Inn Ashford Central http://linkedgeodata.org/triplify/node26772976
 51.1609342 0.8707769 Travelodge, Ashford http://linkedgeodata.org/triplify/node26816415
 51.4988226 -0.1376005 Crowne Plaza London - St. James http://linkedgeodata.org/triplify/node26915020
@@ -21,11 +20,9 @@
 51.5146111 -0.1566998 DoubleTree by Hilton Hotel London - Marble Arch http://linkedgeodata.org/triplify/node31314241
 51.566987 -0.7727951 Compleat Angler http://linkedgeodata.org/triplify/node33130480
 51.5710816 -0.7523723 Crowne Plaza http://linkedgeodata.org/triplify/node33130529
-51.4427184 -0.7133368 Stirrups Country Hotel Vazio
 51.4123543 -0.7064687 The Royal Foresters Hotel http://linkedgeodata.org/triplify/node33138794
 51.4238643 -1.0383662 Travelodge Reading Westbound http://linkedgeodata.org/triplify/node39698466
 51.525688 -0.077428 Ace Hotel London Shoreditch http://linkedgeodata.org/triplify/node47801969
-51.2418966 -0.2028082 The Prince of Wales Vazio
 51.0029908 -1.0025849 Langrish House http://linkedgeodata.org/triplify/node59655938
 51.4919364 -0.1419446 easyHotel Victoria http://linkedgeodata.org/triplify/node59931333
 51.478214 -0.3733906 The Master Robert http://linkedgeodata.org/triplify/node60882162
@@ -50,7 +47,6 @@
 51.1090307 -0.1982581 Premier Inn http://linkedgeodata.org/triplify/node224036979
 51.4685928 0.0095655 The Clarendon http://linkedgeodata.org/triplify/node224091494
 51.4877587 0.0314783 The Antigallican http://linkedgeodata.org/triplify/node241858478
-51.8126935 -0.3521935 Harpenden House Hotel Vazio
 51.4015924 -0.3008193 The Antoinette http://linkedgeodata.org/triplify/node244065165
 51.7570228 0.5239453 The Grange http://linkedgeodata.org/triplify/node249001960
 51.4030969 0.406551 Inn on the Lake http://linkedgeodata.org/triplify/node250427536
@@ -72,8 +68,6 @@
 51.2792299 -1.102103 Apollo Hotel http://linkedgeodata.org/triplify/node262614473
 51.7691338 -0.6281345 Champneys Tring http://linkedgeodata.org/triplify/node263364273
 51.492744 -0.2508727 Chiswick Hotel http://linkedgeodata.org/triplify/node263506131
-51.185269 0.8176243 Premier Inn Vazio
-51.1877401 0.8126946 Holiday Inn Vazio
 51.5588574 0.042432 Courtney Hotel http://linkedgeodata.org/triplify/node264136836
 51.32398 -0.2677041 Chalk Lane Hotel http://linkedgeodata.org/triplify/node265589855
 51.486375 -0.0843308 The Hour Glass http://linkedgeodata.org/triplify/node265662292
@@ -83,7 +77,6 @@
 51.3568421 -0.1832416 Albion Hotel http://linkedgeodata.org/triplify/node269139632
 51.4509183 -0.2995425 The Petersham Hotel http://linkedgeodata.org/triplify/node270187353
 51.7554693 -0.428322 Holiday Inn http://linkedgeodata.org/triplify/node270385371
-51.5044583 -0.0331578 Hilton London Docklands Riverside Vazio
 51.742006 -0.4969755 Boxmoor Lodge Hotel http://linkedgeodata.org/triplify/node270615094
 51.2953629 -0.329158 Travelodge http://linkedgeodata.org/triplify/node271379991
 51.5321106 -0.1094659 DoubleTree by Hilton Hotel London - Islington http://linkedgeodata.org/triplify/node271811859
@@ -134,7 +127,6 @@
 51.2136246 -0.8028484 Bishops Table http://linkedgeodata.org/triplify/node297040810
 51.2152546 -0.7974981 The Bush Hotel http://linkedgeodata.org/triplify/node297279050
 51.8435172 0.7322559 Prested Hall http://linkedgeodata.org/triplify/node297419448
-51.2896588 -0.3900996 Bookham Grange Hotel Vazio
 51.4956531 -0.1893187 The Park City Kensington http://linkedgeodata.org/triplify/node297827896
 51.0910187 0.689634 Little Silver Country Hotel http://linkedgeodata.org/triplify/node298257639
 51.0906601 0.6890162 Best Western http://linkedgeodata.org/triplify/node298257640
@@ -164,10 +156,8 @@
 51.4489051 -0.9927474 Bath Hotel http://linkedgeodata.org/triplify/node318775245
 51.4736543 -1.034586 The Roebuck Hotel http://linkedgeodata.org/triplify/node318989523
 51.4547336 -0.9702105 The George Hotel http://linkedgeodata.org/triplify/node319162304
-51.4527231 -0.9951985 Abbey House Hotel Vazio
 51.1494806 0.8721089 The George Hotel http://linkedgeodata.org/triplify/node324010918
 51.6647888 -0.3985432 Holiday Inn Express http://linkedgeodata.org/triplify/node331934288
-51.5244294 -0.076243 Boundary Vazio
 51.5894793 -0.5520055 Ethorpe Hotel http://linkedgeodata.org/triplify/node339580602
 51.5053239 -0.0990338 Mercure London Bridge http://linkedgeodata.org/triplify/node340052362
 51.4945761 -0.1183966 Novotel Waterloo http://linkedgeodata.org/triplify/node340053837
@@ -201,7 +191,6 @@
 51.5636052 -0.0982132 Brownswood Guest House http://linkedgeodata.org/triplify/node393523305
 51.546004 -0.2189896 Brondesbury Park Hotel http://linkedgeodata.org/triplify/node408561660
 51.2661803 0.1934839 The Royal Oak Hotel http://linkedgeodata.org/triplify/node410305215
-51.1631602 0.8701241 Premier Inn Vazio
 51.2780401 0.1835084 The Moorings Hotel http://linkedgeodata.org/triplify/node410621035
 51.5528972 -0.8235857 Danesfield House Hotel and Spa http://linkedgeodata.org/triplify/node411070011
 51.5517211 -0.2096644 Seafield Lodge http://linkedgeodata.org/triplify/node411115349
@@ -241,7 +230,6 @@
 51.503262 -0.6834217 Monkey Island Hotel http://linkedgeodata.org/triplify/node434543994
 51.523486 -0.7031431 Thames Riviera Hotel http://linkedgeodata.org/triplify/node435485284
 51.5202064 -0.1240489 Lonsdale Hotel http://linkedgeodata.org/triplify/node447868805
-51.5199748 -0.1237817 The Lancaster Vazio
 51.51743 -0.1295515 Cheshire http://linkedgeodata.org/triplify/node447872170
 51.447154 0.218461 The Railway Hotel http://linkedgeodata.org/triplify/node447981136
 51.444297 0.217012 The Royal Victoria & Bull Hotel http://linkedgeodata.org/triplify/node448457466
@@ -261,9 +249,7 @@
 51.4108628 0.3776228 Premier Inn http://linkedgeodata.org/triplify/node462019411
 51.51258 -0.1508695 Marriott http://linkedgeodata.org/triplify/node462025238
 51.1919904 -0.447165 Hurtwood Inn Hotel http://linkedgeodata.org/triplify/node462218838
-51.7257334 0.4616982 South Lodge Hotel Vazio
 51.5700523 -0.0963959 Cloudesley House http://linkedgeodata.org/triplify/node469456581
-51.569996 -0.0964787 Redland Hotel Vazio
 51.5698537 -0.0966468 Kent Hall http://linkedgeodata.org/triplify/node469456584
 51.5669314 -0.1005194 Lanark Hotel http://linkedgeodata.org/triplify/node469456586
 51.4919243 -0.1684868 MyHotel http://linkedgeodata.org/triplify/node469876294
@@ -287,7 +273,6 @@
 51.0333405 0.8157909 The Railway Hotel http://linkedgeodata.org/triplify/node489414805
 51.5059548 -0.1491165 Park Lane Mews Hotel http://linkedgeodata.org/triplify/node489826760
 51.2742975 -0.9825589 Barcelo Basingstoke Country Hotel http://linkedgeodata.org/triplify/node490723607
-51.3114364 -0.6564777 Bisley Pavillion Hotel Vazio
 51.512657 -0.1476217 Claridges http://linkedgeodata.org/triplify/node497232364
 51.4950123 -0.1413006 Station Hotel http://linkedgeodata.org/triplify/node502278089
 51.5064449 -0.1456241 Hilton London Green Park Hotel http://linkedgeodata.org/triplify/node503552317
@@ -349,7 +334,6 @@
 51.7622411 -0.241193 Beales Hotel http://linkedgeodata.org/triplify/node647222506
 51.5147591 -0.1648277 Griffin House Hotel http://linkedgeodata.org/triplify/node647512850
 51.4902022 -0.0806461 Premier by Eurotraveller http://linkedgeodata.org/triplify/node648871867
-51.513797 -0.1589806 The Cumberland Vazio
 51.7038443 -0.4913888 The Two Brewers http://linkedgeodata.org/triplify/node1069491343
 51.7478264 -0.4743189 Premier Inn http://linkedgeodata.org/triplify/node656671235
 51.5534912 -0.0749772 The Rose Hotel http://linkedgeodata.org/triplify/node658958389
@@ -384,8 +368,6 @@
 51.5142703 -0.1727364 Barry House http://linkedgeodata.org/triplify/node703823062
 51.7862715 0.8043015 Five Lakes http://linkedgeodata.org/triplify/node726819916
 51.6605595 -0.9021481 The Kings Hotel http://linkedgeodata.org/triplify/node728633941
-51.5110466 -0.198184 Gate Hotel Vazio
-51.5179616 -0.15302 Durrants Vazio
 51.6596512 -0.0878588 Holtwhites Hotel http://linkedgeodata.org/triplify/node741685700
 51.7301328 -0.661865 Chartridge Conference Centre http://linkedgeodata.org/triplify/node749955492
 51.4546813 -0.1454482 Euro Lodge Clapham http://linkedgeodata.org/triplify/node757459267
@@ -438,9 +420,7 @@
 51.5480926 -0.1305281 Corner House Hotel http://linkedgeodata.org/triplify/node999895307
 51.2917841 -0.9832949 Tylney Hall http://linkedgeodata.org/triplify/node1003543840
 51.5143395 -0.1724188 Hyde Park Radnor Hotel http://linkedgeodata.org/triplify/node1011636514
-51.9217173 -0.57286 Travelodge Vazio
 51.7253484 -0.4534409 Eagle B&B http://linkedgeodata.org/triplify/node1037662458
-51.4800737 -0.4109577 Ramada Jarvis Vazio
 51.5198344 -0.1242027 The Clarendon http://linkedgeodata.org/triplify/node1068914588
 51.7997898 -0.7239952 West Lodge Hotel http://linkedgeodata.org/triplify/node1074242586
 51.6663869 -0.6166139 Crown Hotel http://linkedgeodata.org/triplify/node1083621907
@@ -462,7 +442,6 @@
 51.518751 -0.1319861 MyHotel http://linkedgeodata.org/triplify/node1196555368
 51.5772755 0.6005663 Premier Inn http://linkedgeodata.org/triplify/node1205745305
 51.8811134 -0.4148088 Easy Hotel Luton http://linkedgeodata.org/triplify/node1211252599
-51.3803761 0.4762904 Premier Inn Vazio
 51.258311 0.617052 Mercure Hotel http://linkedgeodata.org/triplify/node1223961544
 51.5363424 -0.0044616 Holiday Inn Express - Stratford http://linkedgeodata.org/triplify/node1244723916
 51.8089384 -0.7685258 Holiday Inn Aylesbury http://linkedgeodata.org/triplify/node1259381561
@@ -470,7 +449,6 @@
 51.4929221 -0.1597612 Draycott Hotel http://linkedgeodata.org/triplify/node1271758923
 51.4935024 -0.1993708 West Cromwell Hotel http://linkedgeodata.org/triplify/node1277034044
 51.4940148 -0.188439 Ambassadors Hotel http://linkedgeodata.org/triplify/node1289587755
-51.4937113 -0.1436206 Hespera London Victoria Vazio
 51.495687 -0.1419175 Russell Hotel http://linkedgeodata.org/triplify/node1290648043
 51.4950962 -0.1837631 Crowne Plaza Kensington http://linkedgeodata.org/triplify/node1304575674
 51.5290348 -0.1229874 Mcdonald Hotel http://linkedgeodata.org/triplify/node1313370925
@@ -487,7 +465,6 @@
 51.5143266 -0.1555712 Radisson Edwardian Sussex http://linkedgeodata.org/triplify/node1409010782
 51.5045315 -0.5019834 The Tower Arms http://linkedgeodata.org/triplify/node1413502746
 51.7567116 -0.3256417 Ardmore House Hotel http://linkedgeodata.org/triplify/node1423846242
-51.4192044 -0.4224831 Premier Inn Vazio
 51.644636 0.6192697 Oakland Hotel http://linkedgeodata.org/triplify/node1464442740
 51.770652 -1.0656481 Lower Brook Farm Bed & Breakfast http://linkedgeodata.org/triplify/node1478288036
 51.9589995 -0.8428578 Horwood House http://linkedgeodata.org/triplify/node1495606493
@@ -515,7 +492,6 @@
 51.4928781 -0.1836034 NH Hoteles http://linkedgeodata.org/triplify/node1717617516
 51.5012334 -0.1862722 Clearlake Hotel http://linkedgeodata.org/triplify/node1718186365
 51.665249 -0.360741 Watford Hilton Hotel http://linkedgeodata.org/triplify/node1718405568
-51.4788346 -0.409371 Travelodge Vazio
 51.3805078 -0.2807418 Travelodge http://linkedgeodata.org/triplify/node1729750835
 51.2087885 -0.7961055 Hotel de Vie http://linkedgeodata.org/triplify/node1743981117
 51.5131406 -0.1908564 Vancouver Studios http://linkedgeodata.org/triplify/node1744344305
@@ -538,7 +514,6 @@
 51.8924112 0.8244194 Holiday Inn Colchester http://linkedgeodata.org/triplify/node1908874982
 51.7541764 -0.4371881 Travelodge http://linkedgeodata.org/triplify/node1929842549
 51.5276204 0.225658 The Manor Hotel & Restaurant http://linkedgeodata.org/triplify/node1932008304
-51.4995386 -0.1328649 InterContinental London Westminster Vazio
 51.5138565 -0.1830766 The Cleveland Square Hotel http://linkedgeodata.org/triplify/node1963249760
 51.3912517 -0.4246284 Holiday Inn http://linkedgeodata.org/triplify/node1969556812
 51.5110723 -0.1302533 Premier Inn http://linkedgeodata.org/triplify/node2005106057
@@ -554,7 +529,6 @@
 51.6658747 0.4468346 Greenwoods Hotel Spa and Retreat http://linkedgeodata.org/triplify/node2159936604
 51.7807607 0.1501773 The Churchgate Street Hotel http://linkedgeodata.org/triplify/node2187122308
 51.4740725 -0.0212125 Travelodge Greenwich http://linkedgeodata.org/triplify/node2195929442
-51.4949376 -0.2551069 Chiswick Hotel Lodge Vazio
 51.6922046 0.0960747 The Bell Hotel http://linkedgeodata.org/triplify/node2197743921
 51.4759116 -0.2867226 Kew Gardens Hotel http://linkedgeodata.org/triplify/node2217416345
 51.1186782 -0.1352456 Holiday Inn http://linkedgeodata.org/triplify/node2244998903
@@ -565,7 +539,6 @@
 51.6575482 -0.3486053 Mercure London Watford http://linkedgeodata.org/triplify/node2318647640
 51.5157289 -0.1801907 Park Grand London Hyde Park http://linkedgeodata.org/triplify/node2325451615
 51.5870231 -0.147118 The Muswell Hill Hotel http://linkedgeodata.org/triplify/node2328642408
-51.755753 0.1266859 Park Inn Hotel Vazio
 51.8454561 -0.9254593 The Five Arrows Hotel http://linkedgeodata.org/triplify/node2336316232
 51.8869055 -0.5175112 The Old Palace Lodge Hotel http://linkedgeodata.org/triplify/node2338703745
 51.5117349 -0.177577 Corus Hyde Park http://linkedgeodata.org/triplify/node2347363112
@@ -576,7 +549,6 @@
 51.4443492 0.3726595 Clarendon Royal Hotel http://linkedgeodata.org/triplify/node2422329093
 51.5049077 -0.1047268 Ibis http://linkedgeodata.org/triplify/node2431360089
 51.5050746 -0.1047162 Novotel http://linkedgeodata.org/triplify/node2431361343
-51.4913274 -0.1434489 Colliers Hôtel Vazio
 51.5123977 -0.1861753 Shaftesbury Hyde Park International http://linkedgeodata.org/triplify/node2446318242
 51.5308655 -0.5850599 Stoke Place http://linkedgeodata.org/triplify/node2453511728
 51.546863 -0.4782521 Travelodge http://linkedgeodata.org/triplify/node2456547116
@@ -585,7 +557,6 @@
 51.4546854 -0.9690556 Quality Hotel http://linkedgeodata.org/triplify/node2487094933
 51.5128057 -0.1926658 The Shatesbury London Premier Notting Hill http://linkedgeodata.org/triplify/node2489294546
 51.5422672 0.004509 ibis http://linkedgeodata.org/triplify/node2491588997
-51.5166659 -0.172144 easyHotel.com Vazio
 51.4920965 -0.1422738 Belgrave House Hotel http://linkedgeodata.org/triplify/node2497973067
 51.4923082 -0.1945744 Amsterdam Hotel London http://linkedgeodata.org/triplify/node2505651273
 51.5295188 -0.1238685 Julian House Hotel http://linkedgeodata.org/triplify/node2509873821
@@ -593,9 +564,7 @@
 50.9492222 0.7318618 Hope Anchor Hotel http://linkedgeodata.org/triplify/node2521786589
 51.5148128 -0.1767684 Ascot http://linkedgeodata.org/triplify/node2528916696
 50.9496681 0.7307229 The Old Borough Arms http://linkedgeodata.org/triplify/node2531014630
-50.9499903 0.73142 The Mermaid Inn Vazio
 51.3882786 -0.4541749 The Anchor http://linkedgeodata.org/triplify/node2538061788
-51.3879304 -0.4536614 Warren Lodge Vazio
 51.7246072 0.1905206 Travelodge http://linkedgeodata.org/triplify/node2541374686
 50.9519448 0.7325404 Rye Retreat http://linkedgeodata.org/triplify/node2541701387
 51.5135478 -0.1779223 The Paddington Hotel London http://linkedgeodata.org/triplify/node2556790717
@@ -619,7 +588,6 @@
 51.5103647 -0.1873077 Hilton London Hyde Park Hotel http://linkedgeodata.org/triplify/node2701274336
 51.5288183 -0.1155876 Clink78 http://linkedgeodata.org/triplify/node2702225920
 51.5441193 -0.1522386 Camden Lock Hotel http://linkedgeodata.org/triplify/node2702930014
-51.1399828 -0.0390076 Premier Inn Vazio
 51.51258 -0.1782241 Elysee Hotel http://linkedgeodata.org/triplify/node2724109232
 51.5056673 -0.1242772 Royal Horseguards Hotel http://linkedgeodata.org/triplify/node2736129045
 51.5008242 -0.1080153 Hampton by Hilton London Waterloo http://linkedgeodata.org/triplify/node2739053220
@@ -639,7 +607,6 @@
 51.490488 -0.138854 The Park Hotel http://linkedgeodata.org/triplify/node2905297401
 51.511163 -0.134909 Ham Yard Hotel http://linkedgeodata.org/triplify/node2905876401
 51.4741227 -0.1840077 DoubleTree by Hilton Hotel London - Chelsea http://linkedgeodata.org/triplify/node2918337597
-51.8763666 -0.3834871 Ramada Encore Vazio
 51.5289201 -0.1228238 Excelsior Hotel http://linkedgeodata.org/triplify/node2933518138
 51.3205257 -0.5557681 Woking Hotel http://linkedgeodata.org/triplify/node2934629742
 51.3205257 -0.5557681 Woking Hotel http://linkedgeodata.org/triplify/node2934629742
@@ -678,669 +645,28 @@
 51.5743015 -0.0977912 united lodge hotel http://linkedgeodata.org/triplify/node3337830245
 51.4552856 -0.4826869 The Stanwell Hotel http://linkedgeodata.org/triplify/node3349618251
 51.1175663 -0.189889 Travelodge http://linkedgeodata.org/triplify/node3355054793
-51.4548639 -0.1924694 Travelodge Vazio
 51.4952842 -0.1816667 Radisson Blu Edwardian Vanderbilt Hotel http://linkedgeodata.org/triplify/node3384668690
 51.5178529 -0.1185245 Citadines http://linkedgeodata.org/triplify/node3398910288
 51.0855136 -0.9943336 Flossie's B&B http://linkedgeodata.org/triplify/node3403651182
 51.518195 -0.149711 Marylebone Hotel http://linkedgeodata.org/triplify/node3425282193
 51.5135487 -0.1933951 New Linden Hotel http://linkedgeodata.org/triplify/node3425832854
 51.493543 -0.215281 St James's Hotel http://linkedgeodata.org/triplify/node3440723793
-51.528606 -0.1268228 Premier Inn Vazio
 51.4643533 -0.2136615 mk london http://linkedgeodata.org/triplify/node3504977038
 51.0995528 0.0331931 Brambletye Hotel http://linkedgeodata.org/triplify/node3517465786
-51.55844785 -0.68844485 Cliveden Vazio
-51.5237916 -0.12495975 Holiday Inn, Bloomsbury Vazio
-51.686939 -0.2211106 Days Inn Vazio
-51.667434 -0.11221415000000001 Royal Chace Hotel Vazio
-51.529851 -0.1255292 St Pancras Renaissance London Hotel Vazio
-51.105385850000005 -0.14433055 Europa Hotel Vazio
-51.45868845 -0.4416181 Hilton London Heathrow Airport Vazio
-51.449464649999996 -0.40684195 St Giles Hotel Vazio
-51.4893577 -0.43092305 Easyhotel.com Vazio
-51.481222 -0.4336396 Holiday Inn Vazio
-51.48158415 -0.43824114999999997 Marriott Hotel Vazio
-51.481528850000004 -0.43656755 Sheraton Skyline Vazio
-51.4943902 -0.45587785000000003 Holiday Inn Vazio
-51.48288975 -0.45104635000000004 Park Inn Heathrow Vazio
-51.481421850000004 -0.45769395 Holiday Inn Vazio
-51.76014335 -0.24448795 Ramada Jarvis Vazio
-51.48016835 -0.42451265 Premier Inn Vazio
-51.4836101 -0.48107915 The Sheraton Heathrow Hotel Vazio
-51.13673015 -0.1853474 Ibis Vazio
-51.74159225 -0.52967125 Travelodge Vazio
-51.4849304 -0.30117689999999997 Premier Inn Vazio
-51.8187473 -0.3590645 Glen Eagle Manor Vazio
-51.51021475 0.026538600000000002 Hotel ibis Styles London Excel Vazio
-51.50698185 -0.14156145 The Ritz Vazio
-51.507390900000004 -0.15246525 The Dorchester Vazio
-51.51018635 -0.14980125 The Connaught Vazio
-51.5251443 -0.1436382 White House Hotel Vazio
-51.52179495 -0.16285670000000002 The Landmark Vazio
-51.125503249999994 -0.18975124999999998 Crowne Plaza Gatwick-Crawley Vazio
-51.537915999999996 -0.2831995 Travelodge Wembley Vazio
-51.43189945 0.3631527 Premier Inn Gravesend Central Vazio
-51.45681415 0.25682735 Campanile Hotel Vazio
-51.452940600000005 0.2453447 Hilton Dartford Bridge Hotel Vazio
-51.4539388 0.2395605 Holiday Inn Express London - Dartford Vazio
-51.5193501 -0.12108615 The Grange Holborn Hotel Vazio
-51.5178881 -0.12811045 Radisson Edwardian Kenilworth Vazio
-51.51738535 -0.12783034999999998 Radisson Edwardian Bloomsbury Street Hotel Vazio
-51.126469150000005 -0.1675092 Ramada Jarvis Hotel Vazio
-51.51221115 -0.10465564999999999 Crowne Plaza : The City Vazio
-51.52962145 -0.2943101 Crowne Plaza Vazio
-51.828984750000004 -0.04072965 Hanbury Manor Vazio
-51.492349000000004 -0.1978585 The Paramount Vazio
-51.4913418 -0.18305305 The Cranley Vazio
-51.51737695 -0.08158605 Andaz Liverpool Street Vazio
-51.45755045 -0.20586159999999998 The Lodge Hotel Vazio
-51.500904649999995 -0.11654575 Park Plaza Westminster Bridge Vazio
-51.9001317 -0.20203225000000002 Express by Holiday Inn Vazio
-51.9467007 -0.27828189999999997 The Sun Vazio
-51.415215950000004 -0.08354734999999999 Queens Hotel Vazio
-51.51073255 -0.07646825 Grange City Hotel Vazio
-51.50909625 -0.13017575 Royal Trafalgar Hotel Vazio
-51.498434149999994 -0.1917563 Kensington Close Vazio
-51.498683650000004 -0.19093295 The Copthorne Tara Hotel Vazio
-51.5047303 -0.2141359 Hilton Kensington Vazio
-51.7212602 -0.36512734999999996 Thistle Vazio
-51.48607305 0.26378815 Premier Inn Thurrock West Vazio
-51.87663005 0.21153385 Hilton Vazio
-51.531887299999994 -0.12191035 Premier Inn Vazio
-51.8721146 0.19391855000000002 Days Hotel Vazio
-51.979003 -0.2301875 Broadway Hotel Vazio
-51.45178385 0.265002 Travelodge Dartford Vazio
-51.498595449999996 -0.1585773 Jumeirah Hotel Vazio
-51.60307265 -0.019503350000000003 Holiday Inn Express Vazio
-51.51462615 -0.15778055000000002 The Leonard Hotel Vazio
-51.5023597 -0.15268959999999998 The Lanesborough Vazio
-51.5038362 -0.1504628 Intercontinental London Park Lane Vazio
-51.5105711 -0.15097855 Millennium Hotel Vazio
-51.507137400000005 -0.12465115 Citadines Vazio
-51.50768385000001 -0.1423653 Holiday Inn Mayfair Vazio
-51.50830355 -0.14406069999999999 May Fair Hotel Vazio
-51.502263600000006 0.0414504 Ibis Budget Vazio
-51.503983500000004 0.04063155 Travelodge Vazio
-51.52745635 -0.09590850000000001 Thistle City Barbican Hotel Vazio
-51.7214075 0.46092295 Miami Hotel Vazio
 51.51311305 -0.15776235 Marriott http://linkedgeodata.org/triplify/node462025238
-51.48072665 -0.0067795 Devonport House Vazio
 51.3006821 -0.4888882 Talbot Inn http://linkedgeodata.org/triplify/node2207164201
-51.446231299999994 0.15388285000000002 Holiday Inn Vazio
-51.5156836 -0.12419345 Travelodge London Covent Garden Vazio
-51.5221768 -0.12406045 President Hotel Vazio
-51.5217536 -0.12395395000000001 Imperial Vazio
-51.5191478 -0.14128605 The Langham Court Hotel Vazio
-51.4546154 -0.9780753499999999 Pentahotel Vazio
-51.5190324 -0.1829557 Novotel London Paddington Vazio
-51.5215396 -0.1319076 Gower House Vazio
-51.52170575 -0.1320921 Jesmond Vazio
-51.52178875 -0.13218439999999998 Ridgemount Vazio
-51.52187185 -0.13227665 The Garth Vazio
-51.52192725 -0.13233815 Regency House Vazio
-51.522010249999994 -0.1324304 Cavendish Vazio
-51.52209335 -0.13252265000000002 Arran Vazio
-51.52225945 -0.1327072 Arosfa Vazio
-51.52051195 -0.13070995 The Academy Vazio
-51.51457405 -0.17278705 Alexandra Hotel Vazio
-51.514680049999996 -0.1727528 Balmoral House Hotel Vazio
-51.51471935 -0.1726828 Albro House Vazio
-51.514758650000005 -0.17261275 Adare Hotel Vazio
-51.51479795 -0.1725427 Europa House Hotel Vazio
-51.5148372 -0.1724727 Queensway Hotel Vazio
-51.514955099999995 -0.1722627 Admiral Hotel Vazio
-51.5149944 -0.1721927 Hotel Columbus Vazio
-51.515033700000004 -0.1721227 Kingsway Park Hotel Vazio
-51.51509265 -0.17201765 Bluedaws Hotel Vazio
-51.5151712 -0.17187760000000002 Gower Hotel Vazio
-51.5153873 -0.1714926 ABC Hyde Park Hotel Vazio
-51.5154266 -0.1714226 London Central Hotel Vazio
-51.51552485 -0.17124755 The Darlington Hyde Park Vazio
-51.5156231 -0.1710725 Brynteg Hotel Vazio
-51.5162076 -0.17146065 Seymour Hotel Vazio
-51.51623015 -0.17137724999999998 Belmont Hotel Vazio
-51.51626355 -0.17131615 White House Hotel Vazio
-51.5162969 -0.17125415 Astoria Hotel Vazio
-51.51633055 -0.17119545 Monopole Hotel Vazio
-51.516368299999996 -0.1711404 Normandie Hotel Vazio
-51.5164033 -0.171073 Berkeley Court Hotel Vazio
-51.5164388 -0.17100975 Classic Hotel Vazio
-51.5165114 -0.17088365 Orchard Hotel Vazio
-51.5166253 -0.17066510000000001 Shaftesbury Metropolis Vazio
-51.515131049999994 -0.17341835 Castleton Hotel Vazio
-51.515183300000004 -0.173325 Stylotel Vazio
-51.51527055 -0.1731694 Balmoral Hotel Vazio
-51.515305350000006 -0.1731072 Springfield Hotel Vazio
-51.51537515 -0.17298275000000002 Days Inn Vazio
-51.51551465 -0.1727338 Beverley City Hotel Vazio
-51.51554955 -0.17267155 Olympic House Hotel Vazio
-51.51561925 -0.1725471 The Omega Hotel Vazio
-51.515671600000005 -0.17245375000000002 Nayland Hotel Vazio
-51.5157239 -0.1723604 The Delmere Hotel Vazio
-51.5158285 -0.17217369999999999 Royal Cambridge Hotel Vazio
-51.5158634 -0.17211145 Picton House Hotel Vazio
-51.515968 -0.17192475 The Gresham Hotel Vazio
-51.516037749999995 -0.17180085 Athena Hotel Vazio
-51.5161081 -0.1717059 Pacific Hotel Vazio
-51.51486685 -0.1738696 Abbeycourt Westpoint Vazio
-51.5144023 -0.174707 Fairways Hotel Vazio
-51.51448805 -0.17455075 Mitre House Vazio
-51.51392175 -0.17556055 Lancaster Court Hotel Vazio
-51.5136293 -0.17479695 Eagle Lodge Vazio
-51.513928050000004 -0.1742515 Rhodes Hotel Vazio
-51.5047337 -0.0820832 Hilton Hotel Vazio
-51.52981165 -0.0988685 St Mark's Apartments Vazio
-51.4924482 -0.27843085 Chiswick Moran Hotel Vazio
-51.531053150000005 -0.12461865 Great Northern Hotel Vazio
-51.51956695 -0.7213349 Travelodge Vazio
-51.519273549999994 -0.0862751 South Place Hotel Vazio
-51.526302799999996 -0.1137794 Holiday Inn Kings Cross Vazio
-51.34265455 0.72194545 Coniston Vazio
-51.5630376 -0.8799942999999999 Paddock House Vazio
-51.5633008 -0.88424605 Thames Court Vazio
-51.4797683 -0.31539744999999997 Hilton London Syon Park Vazio
-51.52654945 -0.13028885 Hilton London Euston Hotel Vazio
-51.5117409 -0.0715942 Grange Tower Bridge Hotel Vazio
-51.39465575 -0.7429418999999999 Hilton Bracknell Hotel Vazio
-51.68857745 -0.04467075 Travelodge Cheshunt Vazio
-51.799896700000005 0.6404728 White Hart Hotel Vazio
-51.15814625 0.8650638 Ashford International Hotel Vazio
-51.1666996 -0.17822690000000002 Gatwick Moat House Vazio
-51.16093725 -0.1739879 Arora - Sofitel Vazio
-51.1638985 -0.1737614 Premier Inn Gatwick Vazio
-51.16581085 -0.17827559999999998 Travelodge Vazio
-51.4272702 -0.8976474 Reading Moat House Vazio
-51.6776462 -0.43806395 The Grove Vazio
-51.48668055 0.016863799999999998 Greenwich Hotel Vazio
-51.1681828 -0.1804903 Holiday Inn Vazio
-51.27504165 -0.6077958 Premier Inn, Worplesdon Vazio
-51.2772851 -0.6092436999999999 Asperion Hillside Vazio
-51.2666067 0.6137125 Days Inn Vazio
-51.2482288 -0.57026545 Premier Inn, Guildford Vazio
-51.49216105 -0.1952898 K+K Hotel George Vazio
-51.53290575 -0.3223311 Premier Inn Vazio
-51.4570883 -0.06896925 East Dulwich Hotel Vazio
-51.4562041 -0.9673421 Forbury Hotel Vazio
-51.455715 -0.9678260000000001 Forbury Hotel Apartments Vazio
-51.534256150000004 -0.18785845 The London Carlton Hotel Vazio
-51.629156800000004 -0.2637629 Ramada London North M1 Vazio
-51.536508100000006 -0.34540649999999995 Bridge Hotel Vazio
-51.82165435 -0.42303369999999996 Innkeeper's Lodge Vazio
-51.3242162 -0.8222197 The Ely Vazio
-51.29470825 -0.85570125 Days Inn Vazio
-51.44199155 -1.04843675 Calcot Hotel Vazio
-51.455439150000004 -0.97820175 Travelodge Reading Vazio
-51.5121661 -0.5899706499999999 Holiday Inn Express Vazio
-51.293455300000005 -0.8037819500000001 Travelodge Vazio
-51.1566239 -0.15293445 Marriott Courtyard Hotel Vazio
-51.37425925 -0.1018883 Holiday Inn Express London-Croydon Vazio
-51.4738926 -0.07546035000000001 Peckham Lodge Vazio
-51.580489549999996 -0.23780025 Midland Hotel Vazio
-51.54430395 -0.1622484 Hampstead Britannia Hotel Vazio
-51.5444732 -0.1726398 Hotel Swiss Cottage Vazio
-51.46532585 -0.978192 Crowne Plaza Vazio
-51.46503985 -0.9808763 Premier Inn Vazio
-51.50501525 -0.10512465 Ibis and Novotel Vazio
-51.503843 -0.10256014999999999 Travelodge Vazio
-51.5139164 -0.1219794 Fielding Vazio
-51.4599046 -1.0068641500000002 Travelodge Vazio
-51.3750012 -0.42806115 Oaklands Chaser Hotel Vazio
-51.51558675 -0.0774061 Travelodge London Liverpool Street Vazio
-51.5053566 -0.09481155 Novotel Vazio
-51.50570615 -0.09490685 The Southwark Rose Hotel Vazio
-51.5069079 -0.0931093 Premier Inn Vazio
-51.5171324 -0.1289793 Bloomsbury Hotel Vazio
-51.488746649999996 0.26551765 Thurrock Hotel Vazio
 51.50053835 -0.87054765 The Bull http://linkedgeodata.org/triplify/node2164679731
-51.44430025 -0.92952985 Elmhurst Hotel Vazio
-51.450876050000005 -0.94137165 Tower House Hotel Vazio
-51.4520428 -0.9525060000000001 Donnington House Hotel Vazio
-51.51143895 -0.1794432 Columbia Hotel Vazio
-51.49154165 -0.19705005 Garden View Hotel Vazio
-51.4941783 -0.13639774999999998 The Grange Rochester Hotel Vazio
-51.4944613 -0.13620775000000002 The Wellington Vazio
-51.692991649999996 -0.4253017 Hunton Park Hotel Vazio
-51.20433635 -0.83626165 Farnham House Hotel Vazio
-51.498843949999994 -0.10636124999999999 H10 London Waterloo Vazio
-51.500382099999996 -0.10743785 Travelodge Vazio
-51.50516705 -0.0881372 London Bridge Hotel Vazio
-51.51185165 -0.3109621 Travelodge Vazio
-51.69048025 -0.22394545 PREMIER INN Vazio
-51.690422850000004 -0.22345255 PREMIER INN Vazio
-51.39079735 0.53720945 King Charles Hotel Vazio
-51.34873655 0.50711065 Premier Inn Rochester Vazio
-51.499090499999994 -0.1019189 The Bridge Hotel Vazio
-51.52778945 -0.19712815 Chippenham Hotel - Closed Vazio
-51.5114643 -0.0413964 The Royal Foundation of St. Katharine Vazio
-51.421369150000004 -0.9705434 Holiday Inn Vazio
-51.477851 -0.013784649999999999 Greenwich Novotel Vazio
-51.4293074 -0.9679953 Travelodge Vazio
-51.5259233 -0.13605075 Euston Square Hotel Vazio
-51.892324 0.2650253 Radisson Blu Vazio
-51.5100891 -0.12040585000000001 Savoy Hotel Vazio
-51.5128068 -0.18318420000000002 Caring Hotel Vazio
-51.51305345 -0.18326725 Duke of Leinster Hotel Vazio
-51.51170425 -0.1829244 Craven Gardens Hotel Vazio
-51.5134448 -0.17997475000000002 Best Western Shaftesbury Paddington Court Vazio
-51.51133565000001 -0.18286950000000002 Leinster House Hotel Vazio
 51.51238535 -0.18363785 The Henry VIII Hotel http://linkedgeodata.org/triplify/node1687801683
-51.51116555 -0.18087435000000002 Thistle Hyde Park Vazio
 51.5128459 -0.18378339999999999 The Blakemore http://linkedgeodata.org/triplify/node300954377
-51.5113889 -0.1822349 Lancaster Gate Hotel Vazio
-51.4942559 -0.1851302 Holiday Inn Kensington Forum Vazio
-51.4948895 -0.1899313 Hotel Majestic Vazio
-51.4949487 -0.1905695 Mercure Vazio
-51.6391189 -0.29000985 Edgwarebury Hotel and Restaurant Vazio
-51.44443195 -0.96162445 Hillingdon Prince Vazio
-51.7493 -0.4706412 Travel Lodge Vazio
-51.49656265 -0.11236985 Days Hotel Vazio
-51.72779615 -0.4698643 Shandish Manor Hotel Vazio
-51.5145798 -0.12727275 Covent Garden Hotel Vazio
-51.14124275 -0.08980075 Copthorne Hotel Effingham Park Vazio
-51.54460335 -0.20656035 Bishop's Lodge Hotel Vazio
-51.5572645 -0.39802665 Ramada South Ruislip Vazio
-51.44944005 -0.9830931999999999 Crescent Hotel Vazio
 51.70379755 -0.4911594 The Two Brewers http://linkedgeodata.org/triplify/node1069491343
-51.7280969 -1.0152819499999999 Oxfordshire Golf Club Vazio
-51.7271145 -1.05904875 Oxford Belfry Hotel Vazio
-51.731331850000004 0.6800343 The Swan Vazio
-51.45219605 -0.9843219000000001 Belle Vue House Hotel Vazio
-51.48053975 -0.48385164999999997 Thistle Hotel Vazio
-51.6305103 -0.7537927 High Wycombe Central Travelodge Vazio
-51.535722899999996 -0.19025029999999998 London Marriott Hotel Maida Vale Vazio
-51.731993 0.6760956499999999 The Blue Boar Vazio
-50.9670342 -0.1918431 Travelodge Vazio
-51.507806349999996 -0.6112936 Holiday Inn Vazio
-51.52707695 -0.11417189999999999 Travelodge London Farringdon Vazio
-51.49764475 -0.08136135 Bermondsey Square Hotel Vazio
-51.548579950000004 -0.17145280000000002 Dillons Hotel Vazio
-51.5360733 -0.10481979999999999 Hilton Islington Vazio
-51.43535115 -0.1245498 Leigham Court Hotel Vazio
-50.963709 -0.62030025 The Old Railway Station Vazio
-51.54216085 -0.1702621 Marriott Hotel Regent's Park Vazio
-50.9862148 -0.6073361 The Angel Inn Vazio
-50.95894715 -0.5092666 Chequers Vazio
-51.512114049999994 -0.17517749999999999 Lancaster London Vazio
-51.50160595 -0.11660780000000001 Premier Inn Waterloo Vazio
-51.50174335 -0.15883715 The Park Tower, Knightsbridge Vazio
-51.5226196 -0.12499335 Hotel Russell Vazio
-51.5107347 -0.1841829 Thistle Kensington Gardens Vazio
-51.497493399999996 -0.14561364999999998 The Goring Vazio
-51.5514622 -0.16712475 Premier Inn Vazio
-51.5112079 -0.07158175 Premier Inn Vazio
-51.50935295 -0.2723768 Blue Star Hotel Vazio
-51.25823675 0.6168232499999999 Mercure Maidstone Great Danes Vazio
-51.5829544 0.0211475 Travelodge Vazio
-51.49150005 -0.19631885 Twenty Nevern Square Hotel Vazio
-51.4925695 -0.19621385000000002 Kensington Court Hotel Vazio
-51.492797949999996 -0.1955014 Manor Hotel Vazio
-51.285853450000005 -0.7206166 Potter's Inn Vazio
-51.4734319 -0.4916543 Arora / Sofitel Vazio
-51.52253 -0.1427404 Holiday Inn London Regents Park Vazio
-51.490331999999995 -0.1376908 The Victoria Inn London Vazio
-51.5143149 -0.26894565000000004 A to Z Vazio
-51.4692388 -0.1791101 Hotel Verta Vazio
-51.60767575 -0.69402955 Premier Inn High Wycombe Vazio
-51.53650415 -0.1920252 Quality Maîtrise Hotel Vazio
-51.87303045 -0.40279305 Premier Inn Vazio
-51.87673985 -0.38249299999999997 Ibis Vazio
-51.54844625 -0.18061454999999998 Holiday Inn Express Swiss Cottage Vazio
-51.5175815 -0.14384795 The Langham Vazio
-51.51389365 -0.1623426 Victory Services Club Vazio
-51.5266965 -0.13583 The Wesley Vazio
-51.493218049999996 -0.1269766 DoubleTree by Hilton Hotel London - Westminster Vazio
-51.339259150000004 -0.06156955 Selsdon Park Hotel Vazio
-51.496152949999995 -0.4482658 Premier Inn Vazio
-51.4803179 -0.19120700000000002 La Reserve Vazio
-51.4858588 -0.19928065 Hotel Ibis London Earls Court Vazio
-51.49414025 -0.1899923 Mariott Hotel Kensington Vazio
-51.57580005 -0.19730195 Central Hotel Vazio
-51.56118225 -0.20355679999999998 MB Hotel Vazio
-51.523028 -0.25944520000000004 Express by Holiday Inn Vazio
-51.50023935 -0.1796673 The Gore Hotel Vazio
-51.48642975 -0.19784965 Hotel Lily Vazio
-51.51425895 -0.1809415 Park Grand London Paddington Vazio
-51.53369685 0.71615625 Palace Hotel Vazio
-51.53946645 0.7134318 Travelodge Vazio
-51.5800253 0.35462205 Travelodge Vazio
-51.50755695 0.0384178 Ramada Vazio
-51.508378500000006 0.0387545 Premier Inn Vazio
-51.58511485 0.4646325 Travelodge Vazio
-51.5833255 0.46047804999999997 Holiday Inn Vazio
-51.58779425 0.46102920000000003 Premier Inn Vazio
-51.6127357 0.2787487 The Marygreen Manor Hotel Vazio
-51.53421195 0.71399905 The Royal Vazio
-51.43656695 -1.08236995 Old Lamb Hotel Vazio
-51.436391400000005 -1.0821785 Old Lamb Hotel Vazio
-51.527632800000006 -0.12898035 Premier Inn London Euston Vazio
-51.50116695 -0.18600165000000002 Kensington House Hotel Vazio
-51.50190725 -0.1866853 Milestone Hotel Vazio
-51.5027137 -0.18817089999999997 Royal Garden Hotel Vazio
-51.512984 -0.31002569999999996 Premier Inn Ealing Vazio
-51.481181899999996 -0.18914755 Millennium Hotel Vazio
-51.5022208 -0.1600162 Mandarin Oriental Hyde Park Vazio
-51.1617073 -0.17431950000000002 Premier Inn Gatwick North Terminal Vazio
-51.5423976 -0.00727995 Holiday Inn Stratford Vazio
-51.52848405 -0.1283307 Pullman London St Pancras Vazio
-51.54407625 -0.00912235 Premier Inn Vazio
-51.40598945 0.15854715 Premier Inn Vazio
-51.5168479 -0.14954794999999999 Holiday Inn Vazio
-51.009376 -0.952402 Premier Inn Vazio
-51.4097887 -0.8415161 Cantley Lodge Vazio
-51.40145575 -0.654019 Highclere Hotel Vazio
-51.5687982 -0.3480998 Eurotraveller Premier Hotel @ Harrow Vazio
-51.51743595 -0.2909233 Hotel 55 Vazio
-51.01511975 -0.26393315 South Lodge Hotel Vazio
-51.08913725 -0.7091187000000001 Georgian House Hotel Vazio
-51.3569058 -0.11343195 Premier Inn Croydon West Vazio
-51.35758955 -0.11554110000000001 Hilton London Croydon Vazio
-51.3573158 -0.11722325 Hallmark Hotel Vazio
-51.3021641 -0.07493085 Travelodge Whyteleafe Caterham Vazio
-51.3761364 -0.09760995 Jurys Inn Vazio
-51.3730306 -0.09103895000000001 Croydon Park Hotel Vazio
-51.1424793 0.32178365 The Camden Arms Hotel Vazio
-51.916036649999995 -0.66185255 Swan Hotel Vazio
-51.49558545 -0.14521305 The Grosvenor Vazio
-51.876372149999995 0.2472704 Holiday Inn Express Vazio
-51.51094875 -0.0783423 DoubleTree by Hilton Hotel London - Tower of London Vazio
-51.07457875 -0.8319116 Old Thorns Manor Hotel Vazio
-51.5017129 -0.023415949999999998 International Hotel Vazio
-51.56876785 -0.0979898 Majestic Hotel Vazio
-51.55841515 -0.2170502 Travelodge London Cricklewood Vazio
-51.51272095 -0.07590335000000001 Hotel Indigo Vazio
-51.52092955 -0.2629129 Ramada Encore West London Vazio
-51.48265525 -0.6079971 The Harte And Garter Vazio
-51.4820774 -0.6074096 Macdonald Windsor Hotel Vazio
-51.48184345 -0.6071933 The Castle Hotel Vazio
-51.54389475 0.0152589 Viking Hotel Vazio
-51.502353 -0.2163599 K West Hotel and Spa Vazio
-51.41522965 -0.78982695 Coppid Beech Hotel Vazio
-51.4967195 -0.20673065000000002 Hilton Olympia Vazio
-51.51622245 -0.06721545000000001 Qbic London City Vazio
-51.61116175 0.26899355 Holiday Inn Vazio
-51.491969999999995 -0.220391 Novotel Vazio
-51.49163525 -0.2105544 The W14 Hotel and Bar Vazio
-51.4942815 -0.1972176 Premier Inn London Kensington (Olympia) Vazio
-51.4940117 -0.19788945000000002 easyHotel.com Vazio
-51.5214665 -0.15341585000000002 Hotel La Place Vazio
-51.52208335 -0.15349995 La Suite Vazio
-51.521525800000006 -0.15342375 Regency Hotel Vazio
 51.5208685 -0.1566649 Park Plaza Sherlock Holmes http://linkedgeodata.org/triplify/node852122520
-51.51138655 -0.11839749999999999 Hotel Strand Continental Vazio
-51.501865949999996 -0.212587 Kensington Suite Hotel Vazio
-51.483140649999996 -0.20119265 Travelodge Vazio
-51.5101103 -0.131737 Piccadilly Thistle Vazio
-51.50981 -0.1297767 Radisson Edwardian Hampshire Hotel Vazio
-51.510220700000005 -0.19061335000000001 DoubleTree by Hilton Hotel London - Hyde Park Vazio
-51.5101749 -0.19092930000000002 Westland Hotel Vazio
-51.4737206 -0.0636912 Marbella Hotel Vazio
-51.65899505 -0.25321720000000003 Travelodge Vazio
-51.486264250000005 -0.202548 Holiday Inn Express Vazio
-51.528099 -0.1309691 London Euston Travelodge Vazio
-51.2956958 0.5112393 The Village Maidstone Vazio
-51.29623335 0.50769425 Premier Inn Vazio
-51.8754638 0.24507289999999998 Premier Inn Vazio
-51.4958606 -0.17033255 The Rembrandt Vazio
-51.513901000000004 -0.17894705 The Brunel Hotel Vazio
-51.512043750000004 -0.1783825 Best Western Mornington Vazio
-51.5119749 -0.17616074999999998 London Elizabeth Hotel Vazio
-51.5254978 -0.08290905000000001 The Hoxton Vazio
-51.515207950000004 -0.1741716 Hotel Indigo Vazio
-51.515649100000005 -0.17484329999999998 Hotel Sophia Vazio
-51.13164235 0.26548534999999995 Hotel du Vin Vazio
-51.526717149999996 -0.0828856 Holiday Inn Express Vazio
-51.5135704 -0.12971575000000002 Z Hotels Vazio
-51.4695851 -0.51032345 Travelodge Vazio
-51.50319845 -0.22258080000000002 Grantly Hotel Vazio
-51.50321755 -0.22249065 Her Majesty Hotel Vazio
-51.6678963 0.7264036 Crouch Valley Lodge Vazio
-51.515999949999994 -0.08818300000000001 Apex London Wall Hotel Vazio
-51.47963715 -0.00921615 Hotel Ibis Vazio
-51.46439735 -0.16774165000000002 Travelodge Vazio
-51.28678755 -0.75976245 De Vere Village Hotel, Farnborough Vazio
-51.663257200000004 0.83092645 The White Horse Vazio
-51.3505437 -0.3159328 Holiday Inn Vazio
-51.6249276 0.8179148 Ye Olde White Harte Hotel Vazio
-51.51559575 -0.07274655 Hotel Ibis Vazio
-51.4202841 -0.41549315 Travelodge (Sunbury M3) Vazio
-51.43584155 -0.5144823000000001 Travelodge Vazio
 51.39182325 -0.4244812 Holiday Inn http://linkedgeodata.org/triplify/node1969556812
-51.126404300000004 0.25956705 Brew House Hotel Vazio
-51.5230997 -0.1038914 The Zetter Townhouse Vazio
-51.505009 -0.1925308 Vicarage Private Hotel Vazio
-51.61301165 -0.7707861 Holiday Inn Vazio
 51.74980665 -0.3401311 The White Hart http://linkedgeodata.org/triplify/node913534503
-51.14607475 0.31228685 Mercure, Tunbridge Wells Vazio
-51.7802368 0.0966263 Travelodge- Harlow Vazio
-51.37671635 -0.09771175 The Lansdowne Hotel Vazio
-51.4923152 0.01002635 Holiday Inn Express Vazio
-51.495276700000005 -0.18941439999999998 EasyHotel Vazio
-51.7374163 0.46356805 The County Hotel Vazio
-51.756009500000005 0.51821155 Travel Inn Vazio
-51.51266985 -0.0752245 Motel One Vazio
-51.3621792 -0.0712221 Premier Inn Croydon South Vazio
-51.3546104 -0.7071471 Pennyhill Park Vazio
-51.516331449999996 -0.16362595 Marriott Vazio
-51.49137065 -0.121398 Park Plaza Riverbank Vazio
-51.57448395 0.08544545 Holiday Inn Express Vazio
-51.574407050000005 0.08578705 Holiday Inn Express Vazio
-51.37528765 -0.44236325 Oatlands Park Vazio
 51.37410575 -0.45626795 The Ship Hotel http://linkedgeodata.org/triplify/node918865699
-51.5524249 -0.2106986 The Cricklewood Lodge Vazio
-51.55616565 -0.2141799 The Crown Moran Hotel Vazio
-51.5126807 -0.09972015000000001 The Grange, St Paul's Vazio
-51.5766519 0.01147315 Sir Alfred Hitchcock Vazio
-51.48286325 -0.31233999999999995 Holiday Inn Brentford Vazio
-51.854658400000005 -0.3977095 Luton Hoo Vazio
-51.506687400000004 -0.02805225 Four Seasons Hotel Vazio
-51.11149815 -0.1842201 Arora Hotel Vazio
-51.0893099 -0.056942 Gravetye Manor Vazio
-51.1915463 0.8847546 Eastwell Manor Hotel Vazio
-51.530296750000005 0.7480217499999999 Roslin Beach Hotel Vazio
-51.49000825 -0.6721822500000001 Oakley Court Hotel Vazio
 51.8987875 0.1911369 The Old Bell http://linkedgeodata.org/triplify/node1904797318
-51.5159855 -0.11861920000000001 Club Quarters Vazio
-51.466551100000004 -0.2910828 Premier Inn Vazio
-51.4819495 -0.4817843 Premier Inn Heathrow Terminal 5 Vazio
-51.5073225 -0.1294268 The Trafalgar Hilton Hotel Vazio
-51.513487600000005 -0.13262335 Dean Street Townhouse Vazio
-51.5140308 -0.13376365 The Soho Hotel Vazio
-51.342915649999995 0.7219558 Coniston Vazio
-51.25365095 -1.08008815 Holiday Inn Vazio
-51.1463066 -0.7554814000000001 Bel & The Dragon Vazio
-51.4683702 -0.4189433 Hilton Garden Inn London Heathrow Airport Vazio
-51.5063461 -0.15160410000000002 45 Park Lane Vazio
-51.020315 0.26146935 The Middle House Vazio
-51.903614250000004 -0.20320955000000002 Ibis Stevenage Vazio
-51.526683750000004 -0.5565385 Pinewood Vazio
-51.480371 -0.44578905 Renaissance London Heathrow Hotel Vazio
-51.911762249999995 -0.3858262 Hilton Garden Inn Luton North Hotel Vazio
-51.3015612 -0.5975495 Gorse Hill Hotel Vazio
-51.301570850000004 -0.5970976 Gorse Hill Hotel Vazio
-51.30171675 -0.5974615999999999 Gorse Hill Hotel Vazio
-51.5903843 -0.19944415 Holiday Inn Express Golders Green Vazio
-51.50474615 -0.1475651 The Athenaeum Hotel Vazio
-51.2493975 -0.76883205 Travelodge Vazio
-51.65445245 -0.3875834 Premier Inn Watford Central Vazio
-51.437764099999995 -0.53770245 Runnymede Hotel Vazio
-51.41699255 -0.5447484499999999 Great Fosters Vazio
-51.4168985 -0.54542795 Great Fosters Vazio
-51.5107759 -0.04364305 Holiday Inn Express Vazio
-51.50686255 -0.0041677 Radisson Blue Edwardian Vazio
-51.5084485 0.0354103 Aloft Vazio
-51.4304101 -0.97751475 Hilton Reading Vazio
-51.30036465 0.3386443 Holiday Inn Maidstone Vazio
-51.508387299999995 0.020299499999999998 Crowne Plaza London - Docklands Vazio
-51.33345415 -0.4380133 Hilton Cobham Vazio
-51.511875450000005 -0.00341485 Travelodge London Docklands Vazio
-51.54445585 -0.08889505 Tommy Miah's Raj Hotel Vazio
-51.6587926 -0.2549934 Premier Inn Vazio
-51.37488065 -0.09668170000000001 Travelodge Croydon Central Vazio
-51.35309415 -0.47051449999999995 Brooklands Hotel Vazio
-51.86083295 0.37441935 Travelodge Vazio
-51.507055949999994 -0.006992699999999999 Hotel Ibis London Docklands Vazio
 51.5153483 -0.1601533 The Rose Court Hotel http://linkedgeodata.org/triplify/node1773611183
-51.519500550000004 -0.17087825 Hilton London Metropole Vazio
-51.474964 -0.88994485 The Wee Waif Vazio
-51.90707915 0.25221255 Desalis Hotel Stansted Vazio
-51.501356799999996 -0.16273315 Bulgari Hotel Vazio
-51.656947650000006 -0.25032785 Holiday Inn Vazio
-51.4930797 -0.23846764999999998 Premier Inn Vazio
-51.5813318 0.23746879999999998 Palms Hotel Vazio
-51.50506265 -0.1009371 Premier Inn Vazio
-51.51664545 -0.17266955 Belvedere Hotel Vazio
-51.51659135 -0.17277475 Avon Hotel Vazio
-51.516375749999995 -0.17315985 Continental Hotel Vazio
-51.5164715 -0.172985 Dolphin Inn Vazio
-51.516256850000005 -0.17336849999999998 Hotel Dolphin Vazio
-51.516553599999995 -0.172844 Hyde Park Court Hotel Vazio
-51.51594605 -0.17389739999999998 Saint David's Hotels Vazio
-51.51651135 -0.17291345 Saint George Hotel Vazio
-51.516099249999996 -0.1736355 Shakespeare Hotel Vazio
-51.51577115 -0.1742093 So Paddington Vazio
-51.51619475 -0.17347015 Tony's House Hotel Vazio
-51.51584685 -0.17409760000000002 Tudor Court Hotel Vazio
-51.3493647 -0.09987145 Travelodge Vazio
-51.5140703 -0.14685455 Mermaid Hotel Vazio
-51.437544450000004 -0.88935225 Holiday Inn Reading M4 Jct 10 Vazio
-51.69341045 -0.4338031 The Kings Lodge Vazio
-51.134294350000005 -0.18173155 Premier Inn Vazio
-51.3777851 -0.0960525 Hampton by Hilton Vazio
-51.42398525 -1.0057713499999998 Reading Lake Hotel Vazio
-51.407154399999996 -1.04309635 Roselawn Hotel Vazio
-51.57719885 0.0444324 Premier Inn Vazio
-51.39910435 -1.0185471000000001 Premier Inn Reading South Vazio
-51.2709684 0.038903850000000004 Premier Inn Westerham (Clacket Lane) Vazio
-51.540835200000004 -0.6723412 Grovefield Hotel Vazio
-51.389284 -0.48802375 The Bridge Hotel Vazio
-51.532089150000004 -0.06168 The RE Hotel London Shoreditch Vazio
-51.639129999999994 -0.309021 Village Vazio
-51.5144119 -0.15906779999999998 The Cumberland Vazio
-51.54866455 -0.36652625 Travelodge Vazio
-51.7557494 0.12687765 Park Inn Hotel Vazio
-51.549964849999995 -0.18091089999999999 Quality Hotel Hampstead Vazio
-51.52894105 -0.29090645 Premier Inn Vazio
-51.2854697 0.54641815 Hilton Maidstone Vazio
-51.51102265 -0.0735352 Travelodge Vazio
-51.5331369 -0.13807485 Happy Vale Hotel Vazio
-51.518375500000005 -0.1350064 Charlotte Street Hotel Vazio
-51.5186671 -0.13541324999999999 Rathbone Hotel Vazio
-51.0423567 -0.2668083 Mannings Heath Hotel Vazio
-51.51155955 -0.29058735 DoubleTree by Hilton Hotel London - Ealing Vazio
 51.53294375 -0.2964161 The Fox and Goose http://linkedgeodata.org/triplify/node1765203848
-51.33970335 0.606417 Medway M2 Travelodge Vazio
-51.53714375 0.0799218 Travelodge Vazio
-51.504981650000005 -0.14734925 Park Lane Hotel Vazio
-51.46728315 -0.36682614999999996 Hotel IBIS London Hounslow Vazio
-51.508586199999996 0.042097499999999996 Travelodge Vazio
-51.9168791 -0.21188585 Abbington Vazio
-51.562771850000004 -0.28100674999999997 Premier Inn Vazio
-51.4647602 -0.64581435 Legoland Windsor Resort Hotel Vazio
-51.51627525 -0.17194125 Norfolk Towers Hotel Vazio
-51.33621555 -0.7454073 Travelodge Vazio
-51.48079585 -0.1242795 Comfort Inn Hotel Vazio
-51.49207065 -0.14133095 St. George's Inn Victoria Vazio
 51.49210885 -0.1413893 Victoria http://linkedgeodata.org/triplify/node2288030394
-51.4921517 -0.14145945 Stanley House Vazio
-51.49219385 -0.14152815 Best Western Victoria Place Vazio
-51.492315399999995 -0.1417165 Alexander Hotel Vazio
-51.583004599999995 -0.31747155 Premier Inn Vazio
-51.58186375 -0.317899 St Nicholas Hotel Vazio
-51.39073445 -0.1130105 Croydon Court Hotel Vazio
-51.3910203 -0.11315095 Dunheved Hotel Vazio
-51.39043155 -0.11283005 Gilroy Court Hotel Vazio
-51.3899379 -0.11259705 Ibis Styles London Croydon Hotel Vazio
-51.397707800000006 0.53315855 Ramada Encore Vazio
-51.4835589 -1.08793395 The Elephant Hotel Vazio
-51.55172385 -0.29455529999999996 Wembley Hotel Vazio
-51.873470749999996 0.18264785 Pearse House Vazio
-51.8763426 -0.50562925 the highwayman Vazio
-51.55391455 -0.29644705000000005 Euro Hotel Wembley Vazio
-51.376538749999995 -0.09601035 Premier Inn Vazio
 51.44695765 -0.4114661 Travellodge http://linkedgeodata.org/triplify/node3551232266
-51.3728734 -0.55332925 Foxhills Vazio
-51.42244795 -0.9842924 Millennium Madejski Hotel Vazio
-51.541335849999996 -0.26165225000000003 Bridge Park Hotel Vazio
-51.55727225 -0.28254165 Hilton London Wembley Vazio
-51.50093305 -0.0197554 Hilton London Canary Wharf Hotel Vazio
-51.360423749999995 0.27104700000000004 Brandshatch Place Hotel Vazio
-51.59389525 0.0179909 Grove Hill Hotel Vazio
-51.5166805 -0.06980449999999999 City Hotel London Vazio
-51.51779500000001 -0.07113610000000001 Brick Lane Hotel Vazio
-51.5096003 -0.15493675 Grosvenor House Hotel Vazio
-51.481657600000005 -0.44153244999999997 Radisson Blu Edwardian Heathrow Hotel Vazio
-51.5269833 -0.1352146 Cottage Hotel Vazio
-51.47447565 -0.019569549999999998 Mercure London Greenwich Hotel Vazio
-51.5150824 -0.17437495 Quality Hotel Paddington Vazio
-51.51392 -0.1761877 Royal Park Hotel Vazio
-51.8810611 0.7902992499999999 Best Western Marks Tey Hotel Vazio
-51.4739593 -0.0890854 The New Dome Hotel Vazio
-51.47406345 -0.0901242 Church Street Hotel Vazio
-51.516393750000006 -0.12510654999999998 Travelodge Vazio
-51.4887345 -0.19589155 Boka Vazio
-51.490808650000005 -0.19312954999999998 City Continental Kensington London Vazio
-51.489626 -0.1943669 Hotel Olympia Vazio
-51.49073955 -0.19323315 London Town Hotel Vazio
-51.49055975 -0.19363355 Lord Jim Hotel Vazio
-51.491008750000006 -0.19370710000000002 Mowbray Court Annexe Vazio
-51.49079385 -0.19397535 Mowbray Court Hotel Vazio
-51.491159800000005 -0.19349095 Oxford Hotel Vazio
-51.4912071 -0.1934175 Regency Court Hotel Vazio
-51.490650349999996 -0.19345184999999998 The Boltons Hotel by Best Western Vazio
-51.623117 -0.35217165 Grim's Dyke Hotel Vazio
-51.52402825 -0.13797005 Radisson Edwardian Grafton Hotel Vazio
-51.513186399999995 -0.17898865 Lancaster Hall Hotel Vazio
-51.515235 -0.1780964 Shaftesbury Premier London Paddington Vazio
-51.3180419 -0.5618157500000001 Premier Inn Vazio
-51.5093985 -0.13659965000000002 Le Méridien Piccadilly Vazio
-51.4756931 -0.1819362 Chelsea Harbour Hotel Vazio
-51.5101961 -0.13573115 Hotel Café Royal Vazio
-51.52619885 -0.12567635 Leigh Hotel Vazio
-51.567846849999995 -0.09922745 Best Western Highbury Vazio
-51.3691112 -0.8042503000000001 The Waterloo Hotel Vazio
-51.452064050000004 -0.3295006 Cole Court Vazio
-51.45163465 -0.33036385 London Road Guest House Vazio
-51.48049735 -0.11345549999999999 Belgrave Hotel Vazio
-51.5816941 0.7045067 The Rochford Hotel Vazio
-51.425603800000005 -0.33417405 The Park Hotel Vazio
-51.498176349999994 -0.1800791 Queen's Gate Hotel Vazio
-51.417579450000005 0.1883302 Rowhill Grange Vazio
-51.205799150000004 -0.1663847 Premier Inn Redhill Vazio
-51.108014749999995 -0.06792535 Alexander House Hotel Vazio
-51.91279625 -0.20779484999999998 The Cromwell Vazio
-51.43217464999999 -0.5161746 Boleyn Hotel Vazio
-51.43250415 -0.51619535 The Swan Vazio
-51.4091636 -0.59258285 Wheatsheaf Hotel Vazio
 51.48284915 0.2310684 The Royal Hotel http://linkedgeodata.org/triplify/node520017940
-51.2626288 -1.0716386999999998 Hilton Basingstoke Vazio
-51.06680115 -0.3192719 Premier Travel Inn Vazio
-51.5073644 -0.021066500000000002 London Marriott Hotel West India Quay Vazio
-51.789648150000005 -0.1891059 Homestead Court Hotel Vazio
-51.5044241 -0.14976855 Four Seasons Hotel, Park Lane Vazio
-51.477856200000005 -0.51740105 Hilton London Heathrow Airport Terminal 5 Vazio
-51.404519500000006 -0.34260179999999996 Mitre Hotel Vazio
-51.79224025 -0.20937925000000002 Premier Inn Vazio
-51.53848835 0.08065875 Barking Hotel Vazio
-51.50555705 -0.15019464999999999 London Hilton on Park Lane Vazio
-51.10672785 -1.0611285 Travelodge Vazio
-51.4854009 -0.1238262 Travelodge Vazio
-51.5378653 -0.9041140000000001 The Catherine Wheel Vazio
 51.0642051 -0.8353568499999999 Champneys Health Spa http://linkedgeodata.org/triplify/node25426714
-51.05789205 -0.92292405 Scotland Farm Vazio
-51.75447475 -0.3372017 Premier Inn Vazio
-51.4901297 -0.1381067 The Belgrave Vazio
-51.4658003 -0.18032445000000002 Travelodge London Battersea Vazio
-51.69190395 -0.386765 Premier Inn Watford North Vazio
-51.555661799999996 -0.2849907 Wembley Plaza Hotel Vazio
-51.4930251 -0.2314099 Holiday Inn Express Vazio
-51.49361535 -0.20216945 Go Native Earl's Court Vazio
-51.541239950000005 -0.64798705 Burnham Beeches Hotel Vazio
-51.507679350000004 -0.146953 The Chesterfield Hotel Vazio
-51.51423935 -0.17832320000000002 Royal Eagle Hotel Vazio
-51.51618685 -0.17488665 Mercure London Paddington Vazio
-51.29339935 -0.756309 Travelodge Vazio
-51.51950655 -0.14292765000000002 Hallam Hotel Vazio
-50.9905 -0.825627 Southdowns Hotel http://linkedgeodata.org/triplify/node262778
-51.5284634 -0.6906026 Taplow House Hotel http://linkedgeodata.org/triplify/node17304014
-51.8864652 -0.2077666 Novotel http://linkedgeodata.org/triplify/node21745813
-51.75337 -0.3495819 St Michael's Manor http://linkedgeodata.org/triplify/node25179754
-51.0642206 -0.8360458 Champneys Health Spa http://linkedgeodata.org/triplify/node25426714

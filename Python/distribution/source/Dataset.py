@@ -8,7 +8,7 @@ import matplotlib.ticker as mtick
 #prob = np.loadtxt('paretoProbability.txt', delimiter='\n')
 
 #bota esse
-data = np.loadtxt('distances.txt', dtype={'names': ('distance', 'probability'), 'formats': ('f8', 'f8')})
+data = np.loadtxt('./files/distances.txt', dtype={'names': ('distance', 'probability'), 'formats': ('f8', 'f8')})
 
 x = arr.array('f', [0, 10, 100, 1000])
 #dist_list = dist.tolist()
@@ -21,7 +21,7 @@ f = plt.plot(data['distance'], data['probability'], 'b.')
 plt.axis([0.0, 25, np.amin(data['probability']), np.amax(data['probability'])])
 #plt.xscale("log")
 #plt.yscale("symlog")
-plt.xlabel("Distance between region center and POI (m)")
+plt.xlabel("Distance between POI center and feature (m)")
 plt.ylabel("Probability")
 
 #colors = (0,0,0)

@@ -1,5 +1,6 @@
 package framework;
 
+import java.awt.Toolkit;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Properties;
@@ -30,7 +31,8 @@ public class SKPQFramework extends DefaultExperimentManager {
 	}
 
 	public String getOutputCaptions() {
-		return "categoryName experimentName dataset neighborhood plusMode queryType numQueries numKeywords numResults radius";
+//		return "categoryName experimentName dataset neighborhood plusMode queryType numQueries numKeywords numResults radius";
+		return "experimentName dataset neighborhood queryType numQueries numKeywords numResults radius";
 	}
 
 	public String getNameID() {		
@@ -86,7 +88,7 @@ public class SKPQFramework extends DefaultExperimentManager {
 						getProperties().getProperty("query.keywords"),
 						getProperties().getProperty("query.neighborhood"),
 						Double.parseDouble(getProperties().getProperty("query.radius")), objectsOfInterest,
-						Boolean.parseBoolean(getProperties().getProperty("experiment.debug")));
+						Boolean.parseBoolean(getProperties().getProperty("experiment.debug")),getProperties().getProperty("query.city"));
 				
 			} else if (getProperties().getProperty("query.name").equals("RQ-LD")) {
 
@@ -147,6 +149,7 @@ public class SKPQFramework extends DefaultExperimentManager {
 		}
 		ExperimentRunner runner = new ExperimentRunner(new SKPQFrameworkFactory(), args[0]);
 		runner.run();
+		Toolkit.getDefaultToolkit().beep();
 	}
 }
 

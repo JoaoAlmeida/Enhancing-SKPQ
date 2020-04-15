@@ -681,3 +681,927 @@ Barcelo Basingstoke Country Hotel[ 51.2742975 -0.9825589 ] -- Google ---> Basing
 The Rose and Crown[ 51.1969895 0.2755591 ] -- Google ---> Best Western Rose And Crown Hotel 51.1967316 0.2754929 3.8
 Millenium Hotel[ 51.5000884 -0.1601195 ] -- Google ---> Empty
 DoubleTree by Hilton Hotel London - Marble Arch[ 51.5146111 -0.1566998 ] -- Google ---> DoubleTree by Hilton Hotel London - Marble Arch 51.5145889 -0.1565205 3.8
+The Lensbury[ 51.4278973 -0.3187165 ] -- Google ---> The Lensbury 51.427932 -0.318786 4.4
+Pembridge Palace[ 51.5134188 -0.1922516 ] -- Google ---> Pembridge Palace Hotel 51.51340039999999 -0.1921664 3.0
+Four Seasons Hotel[ 51.5241093 -0.1608709 ] -- Google ---> Empty
+The Hour Glass[ 51.486375 -0.0843308 ] -- Google ---> The Hour Glass Hotel 51.4864426 -0.0842515 4.0
+Premier by Eurotraveller[ 51.4902022 -0.0806461 ] -- Google ---> Eurotraveller Hotel-Premier (Nr. Tower Bridge) SE1 51.4902017 -0.0807444 3.7
+Sheraton Belgravia[ 51.4973611 -0.1562075 ] -- Google ---> Empty
+Rubens Hotel[ 51.4984689 -0.1433358 ] -- Google ---> The Rubens at the Palace 51.4982333 -0.1434483 4.5
+Victoria Park Plaza[ 51.4944034 -0.1417547 ] -- Google ---> Park Plaza Victoria London 51.4940478 -0.14179 4.4
+Bloomsbury Park Hotel[ 51.520684 -0.1228137 ] -- Google ---> Thistle Bloomsbury Park Hotel London 51.520891 -0.1230381 3.7
+The Grange[ 51.7570228 0.5239453 ] -- Google ---> Premier Inn Chelmsford (Boreham) hotel 51.75732 0.5237442 4.1
+Chiswick Hotel[ 51.492744 -0.2508727 ] -- Google ---> High Road House 51.4929071 -0.2545762 4.3
+The Penn Club[ 51.5206073 -0.1250999 ] -- Google ---> Penn Club 51.5205832 -0.1250508 4.6
+Hampton by Hilton London Waterloo[ 51.5008242 -0.1080153 ] -- Google ---> Hampton by Hilton London Waterloo 51.50085989999999 -0.1080134 4.3
+The Master Robert[ 51.478214 -0.3733906 ] -- Google ---> Hotel IBIS STYLES London Heathrow East (opening January 2020) 51.4782308 -0.3731462 4.4
+Brondesbury Park Hotel[ 51.546004 -0.2189896 ] -- Google ---> Mapesbury Lodge 51.545825 -0.211 5.0
+The Petersham Hotel[ 51.4509183 -0.2995425 ] -- Google ---> The Petersham Hotel, Richmond 51.451051 -0.299077 4.5
+Cannizaro Park Hotel[ 51.4242639 -0.2292406 ] -- Google ---> Hotel du Vin Wimbledon 51.4242719 -0.2292964 3.9
+Kensington Court Hotel[ 51.5127927 -0.1928096 ] -- Google ---> Kensington Court Hotel Notting Hill 51.5127229 -0.1928081 3.5
+Bedford Hotel[ 51.5207075 -0.1235907 ] -- Google ---> Bedford Hotel 51.520741 -0.12358 4.1
+Lonsdale Hotel[ 51.5202064 -0.1240489 ] -- Google ---> Lonsdale Hotel 51.520229 -0.1240468 1.8
+The Bush Hotel[ 51.2152546 -0.7974981 ] -- Google ---> Mercure Farnham Bush Hotel 51.2151267 -0.7974475999999999 3.9
+Corner House Hotel[ 51.5480926 -0.1305281 ] -- Google ---> Corner House Hotel 51.54807599999999 -0.130528 3.5
+Bayswater Inn Hotel[ 51.512831 -0.1922981 ] -- Google ---> Bayswater Inn Hotel 51.512907 -0.1922054 2.9
+Clearlake Hotel[ 51.5012334 -0.1862722 ] -- Google ---> Clearlake Hotel 51.5013279 -0.1863888 4.0
+The Hadleigh Hotel[ 51.5154778 -0.160789 ] -- Google ---> Hadleigh Hotel 51.5154387 -0.1609023 2.9
+Berkeley Court Hotel[ 51.5155213 -0.1605355 ] -- Google ---> Berkeley Court Hotel 51.5154934 -0.1607113 2.1
+Glynne Court Hotel[ 51.5157145 -0.1602317 ] -- Google ---> The Sumner Hotel 51.5151642 -0.1608668 4.2
+The Montcalm Hotel Nikko[ 51.5152781 -0.1593618 ] -- Google ---> The Montcalm London Marble Arch 51.5151555 -0.1592172 4.4
+Park Plaza[ 51.5013601 -0.1160331 ] -- Google ---> Park Plaza Westminster Bridge London 51.5009906 -0.1167937 4.4
+Seafield Lodge[ 51.5517211 -0.2096644 ] -- Google ---> Empty
+Holiday Inn Express[ 40.773174 -74.04112785000001 ] -- Google ---> Empty
+Sheraton LaGuardia East[ 40.75956765 -73.831477 ] -- Google ---> Sheraton LaGuardia East Hotel 40.759726 -73.83167710000001 4.1
+Farrington Hotel[ 40.76538025 -73.8316781 ] -- Google ---> Hotel Key Flushing 40.7653664 -73.83172979999999 3.9
+Z NYC Hotel[ 40.751977049999994 -73.94749300000001 ] -- Google ---> Z NYC Hotel - CLOSED 40.7519578 -73.94773649999999 4.0
+Ramada Long Island City[ 40.7552348 -73.93672115000001 ] -- Google ---> Ramada by Wyndham Long Island City 40.7552013 -73.9366656 3.0
+Embassy Suites[ 40.78853075 -74.04316360000001 ] -- Google ---> Embassy Suites by Hilton Secaucus Meadowlands 40.78847140000001 -74.0431705 4.0
+Meadowlands Plaza Hotel[ 40.797408000000004 -74.06360079999999 ] -- Google ---> Meadowlands Plaza Hotel 40.7972888 -74.06351769999999 4.2
+Red Roof Inn[ 40.79872855 -74.06638480000001 ] -- Google ---> Meadowlands Pkwy at Wood Ave. @ Red Roof Inn 40.798548 -74.065682 5.0
+Four Points[ 40.7564136 -73.99234815 ] -- Google ---> Four Points by Sheraton Manhattan Midtown West 40.75498229999999 -73.9984345 4.2
+Fairfield Inn Long Island City/Manhattan View[ 40.7362274 -73.9367414 ] -- Google ---> Fairfield Inn by Marriott New York Long Island City/Manhattan View 40.7362109 -73.9366941 3.9
+Days Inn[ 40.745037249999996 -73.9338645 ] -- Google ---> Days Inn by Wyndham Long Island City 40.7451031 -73.9338614 3.4
+Extended Stay America[ 40.805359949999996 -74.07581425000001 ] -- Google ---> Extended Stay America - Meadowlands - East Rutherford 40.80542 -74.075667 3.3
+Clarion Hotel Empire Meadowlands[ 40.7949212 -74.07254750000001 ] -- Google ---> Clarion Hotel Empire Meadowlands Hotel 40.794912 -74.07263499999999 2.9
+Sheraton Brooklyn[ 40.69148395 -73.9846612 ] -- Google ---> Sheraton Brooklyn New York Hotel 40.6914097 -73.9846165 4.0
+Aloft - W Hotel[ 40.691699 -73.984672 ] -- Google ---> Aloft New York Brooklyn 40.691674 -73.98448499999999 4.1
+W Hotel[ 40.73920405 -74.02765740000001 ] -- Google ---> W Hoboken 40.7393875 -74.0280172 4.5
+Westin[ 40.72495695 -74.0363256 ] -- Google ---> The Westin Jersey City Newport 40.72472339999999 -74.0362754 4.4
+Marriott Courtyard[ 40.727559549999995 -74.033917 ] -- Google ---> Courtyard by Marriott Jersey City Newport 40.7276989 -74.0340808 4.3
+Hotel 309[ 40.7402469 -74.00309155 ] -- Google ---> Hotel 309 40.7402778 -74.0030556 3.0
+Chelsea Pines Inn[ 40.74036855 -74.003365 ] -- Google ---> Chelsea Pines Inn 40.7403668 -74.0033605 4.2
+Mulberry Hotel[ 40.7152191 -73.99936775 ] -- Google ---> Hotel Mulberry 40.71520940000001 -73.9993752 4.3
+60 Thompson[ 40.7239398 -74.0030718 ] -- Google ---> SIXTY SoHo 40.7239306 -74.0030827 4.4
+Hyatt Union Square New York[ 40.7334239 -73.9902241 ] -- Google ---> Hyatt Union Square New York 40.733348 -73.990268 4.4
+Meadowlands View[ 40.77397955 -74.0409088 ] -- Google ---> Meadowlands View Hotel 40.77399700000001 -74.041012 3.6
+Cassa Hotel[ 40.7563387 -73.9821893 ] -- Google ---> Cassa Hotel NY 45th Street 40.7564077 -73.9821726 4.3
+Hyatt Place[ 40.750405799999996 -73.9858115 ] -- Google ---> Hyatt Place New York/Midtown-South 40.7504303 -73.985832 4.2
+Best Western Herald Square[ 40.750339499999995 -73.98566794999999 ] -- Google ---> Best Western Premier Herald Square 40.7503805 -73.98565049999999 4.4
+Aloft Manhattan Downtown[ 40.7104099 -74.00667010000001 ] -- Google ---> Aloft Manhattan Downtown - Financial District 40.7103938 -74.00670350000001 4.1
+Pan American Hotel[ 40.73775995 -73.88464055 ] -- Google ---> Pan American Hotel 40.7377563 -73.88462439999999 3.1
+Fairfield Inn[ 40.75227085 -73.9951083 ] -- Google ---> Fairfield Inn & Suites by Marriott New York Midtown Manhattan/Penn Station 40.7522536 -73.9950612 4.3
+Sheraton[ 40.758794699999996 -74.02378569999999 ] -- Google ---> Sheraton Lincoln Harbor Hotel 40.7589351 -74.0234079 4.1
+Aloft Hotel[ 40.79060885 -74.04553784999999 ] -- Google ---> Empty
+Meadowlands River Inn[ 40.7888255 -74.04618934999999 ] -- Google ---> Meadowlands River Inn 40.7887806 -74.0462278 4.1
+Courtyard by Marriott[ 40.789058100000005 -74.04433900000001 ] -- Google ---> Courtyard by Marriott Secaucus Meadowlands 40.789055 -74.0443165 4.3
+Residence Inn[ 40.7856474 -74.0451097 ] -- Google ---> Residence Inn by Marriott Secaucus Meadowlands 40.785767 -74.0451211 4.4
+Union Hotel[ 40.67923505 -73.983147 ] -- Google ---> Union Hotel, Ascend Hotel Collection 40.679225 -73.98316200000001 3.2
+Holiday Inn Express Brooklyn[ 40.6782094 -73.9844026 ] -- Google ---> Holiday Inn Express New York-Brooklyn 40.6781612 -73.9843077 3.5
+Club Quarters[ 40.706735699999996 -74.0089078 ] -- Google ---> Club Quarters Hotel, New York City, World Trade Center 40.7098307 -74.0140195 4.4
+Wall Street Inn[ 40.704583150000005 -74.0102723 ] -- Google ---> The Wall Street Inn 40.7046417 -74.0103215 4.4
+Millenium Hilton[ 40.7111301 -74.0102166 ] -- Google ---> Millennium Hilton New York Downtown 40.71111399999999 -74.010333 4.2
+Gotham Hotel[ 40.75540235 -73.9780936 ] -- Google ---> Wolfgang's 40.7555116 -73.9780212 4.2
+Grand Hyatt New York[ 40.75204035 -73.9763264 ] -- Google ---> Grand Hyatt New York 40.7520617 -73.9762995 4.2
+The Benjamin[ 40.7565929 -73.97198915 ] -- Google ---> The Benjamin 40.7564828 -73.97206840000001 4.3
+The Kimberly[ 40.756340699999996 -73.97137315 ] -- Google ---> The Kimberly Hotel 40.7562669 -73.9714669 4.5
+Doubletree Metropolitan Hotel[ 40.75665775 -73.97142500000001 ] -- Google ---> DoubleTree by Hilton Hotel Metropolitan - New York City 40.7569246 -73.9718008 3.8
+The Lexington[ 40.754895700000006 -73.97302225 ] -- Google ---> Bright Horizons at Lexington 40.7572872 -73.9712797 5.0
+Murray Hill East Suites[ 40.74927835 -73.9763151 ] -- Google ---> Murray Hill East Suites 40.749306 -73.976305 3.9
+POD 39[ 40.74940525 -73.976574 ] -- Google ---> Pod 39 40.749367 -73.9766209 4.2
+Vanderbilt YMCA[ 40.75321965 -73.9710102 ] -- Google ---> Vanderbilt YMCA 40.753283 -73.97105549999999 3.3
+Holiday Inn[ 40.786465449999994 -74.04426665 ] -- Google ---> Holiday Inn Secaucus Meadowlands 40.7864548 -74.04414539999999 4.2
+Marriott Downtown[ 40.709428450000004 -74.01434295 ] -- Google ---> The Wagner Hotel 40.7055556 -74.0175 4.5
+W Downtown[ 40.7092072 -74.01366805 ] -- Google ---> W New York ? Downtown 40.7091366 -74.0136508 4.3
+Club Quarters, World Trade Center[ 40.7098558 -74.01398485 ] -- Google ---> Club Quarters Hotel, New York City, World Trade Center 40.7098307 -74.0140195 4.4
+Hyatt Regency Jersey City on the Hudson[ 40.71709535 -74.03160235 ] -- Google ---> Hyatt Regency Jersey City On The Hudson 40.717069 -74.0316418 4.4
+Eurostars Wall Street Hotel[ 40.7051879 -74.0061997 ] -- Google ---> Andaz Wall Street - a concept by Hyatt 40.7051285 -74.0079362 4.4
+Andaz Wall Street[ 40.7051991 -74.0076662 ] -- Google ---> Andaz Wall Street - a concept by Hyatt 40.7051285 -74.0079362 4.4
+Renaissance[ 40.7607951 -73.96959305 ] -- Google ---> Renaissance Luggage 40.7658893 -73.9793758 5.0
+Fitzpatrick[ 40.760518000000005 -73.96909185 ] -- Google ---> Fitzpatrick Cella Harper 40.7605367 -73.9788903 5.0
+Radisson[ 40.91391255 -73.7778257 ] -- Google ---> Radisson Hotel New Rochelle 40.9139654 -73.7779417 4.0
+Hotel Marrakech[ 40.798738549999996 -73.9682791 ] -- Google ---> Empty
+The Excelsior Hotel[ 40.7831446 -73.97369235 ] -- Google ---> The Excelsior Hotel 40.7830556 -73.9736111 4.2
+The Carlyle[ 40.77438675 -73.96299020000001 ] -- Google ---> The Carlyle, A Rosewood Hotel 40.7746192 -73.9631607 4.5
+The Pierre[ 40.76507925 -73.97166415000001 ] -- Google ---> The Pierre, A Taj Hotel, New York 40.7651828 -73.9718937 4.6
+Sherry Netherlands[ 40.7643101 -73.97253 ] -- Google ---> The Sherry-Netherland 40.7644768 -73.9726283 4.6
+Four Seasons Hotel[ 40.76230525 -73.9712729 ] -- Google ---> Four Seasons Hotel New York 40.7625587 -73.9711654 4.6
+Imperial Court Hotel[ 40.7848313 -73.98164275 ] -- Google ---> Imperial Court Hotel 40.7848803 -73.9816664 3.3
+The Lucerne[ 40.78350565 -73.9784625 ] -- Google ---> The Lucerne Hotel 40.7834492 -73.9784878 4.3
+NYLO New York City[ 40.78208525 -73.98039510000001 ] -- Google ---> Arthouse Hotel New York City 40.7821875 -73.98030320000001 4.2
+Holiday Inn Hotel New York City 57th St.[ 40.7681731 -73.9874822 ] -- Google ---> West 57th Street by Hilton Club 40.76440350000001 -73.97795959999999 4.5
+Hotel Empire[ 40.7713358 -73.9827172 ] -- Google ---> The Empire Hotel 40.7714959 -73.9826673 4.0
+Skyline Hotel[ 40.7645991 -73.99255364999999 ] -- Google ---> The Skyline Hotel 40.7644318 -73.9923756 3.9
+6 Columbus[ 40.76748285 -73.98319405000001 ] -- Google ---> 6 Columbus - Central Park Hotel 40.7675702 -73.98318019999999 4.0
+Comfort Inn Edgewater[ 40.8208315 -73.97559799999999 ] -- Google ---> Comfort Inn Edgewater On Hudson River 40.820906 -73.975578 4.2
+Courtyard[ 40.8028133 -73.99295674999999 ] -- Google ---> Courtyard by Marriott Edgewater NYC Area 40.80282589999999 -73.9930464 4.4
+Comfort Inn[ 40.76415585 -73.99495675 ] -- Google ---> Comfort Inn Midtown West 40.764153 -73.994963 3.7
+Hilton Garden Inn[ 40.764530199999996 -73.9829948 ] -- Google ---> Hilton Garden Inn Times Square 40.7612054 -73.9865068 4.2
+Sheraton New York Times Square Hotel[ 40.7623843 -73.98144195 ] -- Google ---> Sheraton New York Times Square Hotel 40.7623861 -73.98201879999999 4.1
+The Michelangelo[ 40.76126935 -73.98256280000001 ] -- Google ---> The Michelangelo New York - Starhotels Collezione 40.7615222 -73.9825889 4.4
+Marriott LaGuardia Airport[ 40.7690069 -73.8676085 ] -- Google ---> New York LaGuardia Airport Marriott 40.768944 -73.86763499999999 4.0
+LaGuardia Plaza Hotel[ 40.767044 -73.8669063 ] -- Google ---> LaGuardia Plaza Hotel 40.76706780000001 -73.8671363 4.0
+Hampton Inn LaGuardia[ 40.76794035 -73.86778825 ] -- Google ---> Hampton Inn New York - LaGuardia Airport 40.7679592 -73.8677522 4.1
+Wyndham Midtown 45[ 40.75270895 -73.97244245 ] -- Google ---> Club Wyndham Midtown 45 40.7526084 -73.9725431 4.3
+InterContinental New York Barclay[ 40.755752349999995 -73.97351235 ] -- Google ---> InterContinental New York Barclay 40.7556629 -73.9735276 4.4
+Waldorf-Astoria Hotel[ 40.756502049999995 -73.97336154999999 ] -- Google ---> Waldorf Astoria New York 40.7562423 -73.9728559 4.3
+Wythe Hotel[ 40.7219036 -73.9580608 ] -- Google ---> Wythe Hotel 40.7218694 -73.9581 4.4
+Hotel 17[ 40.7349138 -73.9845535 ] -- Google ---> Hotel 17 - Extended Stay 40.7349703 -73.9845181 3.9
+Hotel Indigo[ 40.7468123 -73.99171039999999 ] -- Google ---> Empty
+Hampton Inn[ 40.743636249999994 -73.99309405 ] -- Google ---> Hampton Inn Manhattan-Chelsea 40.7436488 -73.9930347 4.2
+Eventi[ 40.74709475 -73.9901507 ] -- Google ---> Kimpton Hotel Eventi 40.7470222 -73.9900333 4.4
+The Muse Hotel[ 40.7577808 -73.98377815 ] -- Google ---> Kimpton Muse Hotel 40.7578857 -73.9837592 4.4
+The Chatwal[ 40.7564754 -73.984598 ] -- Google ---> The Chatwal, a Luxury Collection Hotel, New York City 40.7565183 -73.9846017 4.6
+Sofitel[ 40.75592585 -73.98163395 ] -- Google ---> Sofitel New York 40.7557052 -73.981849 4.5
+Royalton[ 40.75540515 -73.98239319999999 ] -- Google ---> Royalton New York 40.75520969999999 -73.9825889 4.2
+Millennium Broadway[ 40.757079000000004 -73.98479585 ] -- Google ---> Millennium Times Square New York 40.7570628 -73.9847407 3.9
+Iroquois New York Hotel[ 40.7558522 -73.98193355000001 ] -- Google ---> The Iroquois New York 40.7558788 -73.98195849999999 4.6
+Hotel St. James[ 40.757209399999994 -73.98319889999999 ] -- Google ---> Hotel St. James 40.7572406 -73.9832593 4.0
+City Club Hotel[ 40.7559358 -73.98210929999999 ] -- Google ---> City Club Hotel 40.7559269 -73.9821237 3.8
+Algonquin Hotel[ 40.75594045 -73.98234895 ] -- Google ---> The Algonquin Hotel Times Square, Autograph Collection 40.7559927 -73.9823172 4.3
+Hilton Newark Liberty[ 40.686795950000004 -74.19385085 ] -- Google ---> Hilton Newark Airport 40.6868269 -74.1939345 4.0
+Crowne Plaza[ 40.67888165 -74.19385645 ] -- Google ---> Crowne Plaza Newark Airport 40.6786802 -74.19406529999999 3.8
+Wyndham Garden Inn[ 40.703654099999994 -74.18608845 ] -- Google ---> Wyndham Garden Newark Airport 40.7035811 -74.1857121 3.1
+Best Western Plus[ 40.7050743 -74.18731514999999 ] -- Google ---> Best Western Plus Newark Airport West 40.7053185 -74.1871937 3.9
+Marriott Newark Airport[ 40.6921164 -74.181742 ] -- Google ---> Newark Liberty International Airport Marriott 40.6921206 -74.1814103 4.0
+Comfort Inn & Suites Paramus[ 40.9355195 -74.0717674 ] -- Google ---> Comfort Inn & Suites 40.935512 -74.071865 4.1
+Hotel Indigo Newark Downtown[ 40.73463505 -74.17210035 ] -- Google ---> Hotel Indigo Newark Downtown 40.73472719999999 -74.17235339999999 4.0
+Crowne Plaza Times Square[ 40.76063495 -73.98511189999999 ] -- Google ---> Crowne Plaza Times Square Manhattan 40.7607422 -73.9850637 4.2
+Dream Downtown[ 40.7422876 -74.003436 ] -- Google ---> Dream Downtown 40.7423317 -74.0034779 4.0
+Liberty Inn[ 40.7420065 -74.00854029999999 ] -- Google ---> Liberty Inn 40.742029 -74.0085618 4.4
+The Standard[ 40.740852700000005 -74.00816625 ] -- Google ---> The Shop at The Standard 40.7410765 -74.00828539999999 5.0
+Hotel Gansevoort[ 40.7398769 -74.0057329 ] -- Google ---> Gansevoort Meatpacking NYC 40.7398422 -74.0057142 4.2
+Trump SoHo[ 40.72532055 -74.00549625 ] -- Google ---> The Dominick 40.7254695 -74.0053343 4.2
+The Ritz-Carlton[ 40.765162399999994 -73.97603415 ] -- Google ---> The Ritz-Carlton New York, Central Park 40.7652719 -73.97599919999999 4.6
+Park Lane Hotel[ 40.76485375 -73.97539275 ] -- Google ---> Park Lane Hotel NY 40.7650735 -73.9752633 4.0
+La Quinta[ 40.7899027 -74.04978125 ] -- Google ---> Empty
+The GEM Hotel Chelsea[ 40.7446533 -73.9993815 ] -- Google ---> The Gem Hotel - Chelsea 40.74473330000001 -73.99946109999999 3.8
+Hotel Chelsea[ 40.7443742 -73.9968175 ] -- Google ---> Chelsea Savoy Hotel 40.743968 -73.996088 4.0
+Hilton New York Fashion District[ 40.745587 -73.9936036 ] -- Google ---> Hilton New York Fashion District 40.7455256 -73.9937621 4.1
+The New Yorker[ 40.75274520000001 -73.9936688 ] -- Google ---> Staypineapple New York 40.7543486 -73.993907 4.5
+Tryp by Wyndham[ 40.7537504 -73.9945935 ] -- Google ---> TRYP New York City Times Square South 40.75376869999999 -73.9945826 4.1
+Hotel Pennsylvania[ 40.749675499999995 -73.9905249 ] -- Google ---> Hotel Pennsylvania 40.7499775 -73.9910082 2.8
+Senton Hotel[ 40.7451377 -73.9900206 ] -- Google ---> Senton Hotel 40.7451089 -73.9897494 3.0
+The Paul[ 40.7460969 -73.9891468 ] -- Google ---> The Paul Hotel NYC 40.7460144 -73.98914309999999 3.9
+Maritime Hotel[ 40.7422561 -74.0039856 ] -- Google ---> The Maritime Hotel 40.7422321 -74.0040123 4.4
+Best Western Convention Center[ 40.7573258 -73.9982956 ] -- Google ---> Best Western Plus Plaza Hotel 40.755829 -73.941065 4.3
+Element[ 40.75583685 -73.99178764999999 ] -- Google ---> Element Physical Therapy 40.7552901 -73.9779346 5.0
+Broadway Plaza Hotel[ 40.744469 -73.9891087 ] -- Google ---> Broadway Plaza Hotel 40.7444763 -73.9891663 4.4
+Trump International Hotel[ 40.769119950000004 -73.9815394 ] -- Google ---> Trump International Hotel & Tower New York 40.7690612 -73.9815768 3.5
+Days Hotel[ 40.7932576 -73.9722071 ] -- Google ---> Days Hotel by Wyndham on Broadway NYC 40.7932706 -73.9722218 2.9
+The Hotel Newton[ 40.7935439 -73.9722622 ] -- Google ---> The Hotel Newton 40.7934789 -73.9721232 3.8
+InterContinental New York Times Square[ 40.75859085 -73.98957874999999 ] -- Google ---> InterContinental New York Times Square 40.7586817 -73.9893917 4.3
+Hotel Belnord[ 40.788788 -73.9752734 ] -- Google ---> The Belnord Hotel 40.7888244 -73.9752091 4.0
+Park Central Hotel[ 40.7647161 -73.98119125 ] -- Google ---> Park Central Hotel New York 40.7645958 -73.9809508 4.1
+adour alan ducasse[ 40.7610689 -73.9739729 ] -- Google ---> Adour 40.7613979 -73.9746128 4.8
+Omni Berkshire Place[ 40.7593126 -73.9748883 ] -- Google ---> Omni Berkshire Place 40.7594243 -73.9749492 4.4
+The Peninsula New York[ 40.7616252 -73.9754184 ] -- Google ---> The Peninsula New York 40.7616907 -73.97539569999999 4.5
+Baccarat Hotel & Residences[ 40.76080745 -73.9773637 ] -- Google ---> Baccarat Hotel 40.76087 -73.977431 4.7
+Ace Hotel[ 40.7456886 -73.9881558 ] -- Google ---> Ace Hotel 40.7457029 -73.9883598 4.4
+The Nomad[ 40.744939450000004 -73.988486 ] -- Google ---> The NoMad Restaurant 40.7448942 -73.988622 4.7
+Latham[ 40.7443441 -73.9867075 ] -- Google ---> The Latham Hotel 40.7443382 -73.98668839999999 2.0
+Hotel Metro[ 40.75012965 -73.98595125 ] -- Google ---> the Kixby hotel 40.750143 -73.9859914 4.3
+West 57th Street[ 40.76437275 -73.97793295 ] -- Google ---> W 57th St 40.767267 -73.9841435 -1.0
+Warwick Hotel[ 40.76245245 -73.9780933 ] -- Google ---> Warwick New York 40.7624022 -73.9782725 4.3
+Le Parker Méridien[ 40.7643251 -73.97847625 ] -- Google ---> Parker New York 40.7641565 -73.9785205 4.3
+Salisbury Hotel[ 40.7649505 -73.9782231 ] -- Google ---> Salisbury Hotel 40.7649803 -73.9783327 3.5
+Park Hyatt New York[ 40.7654216 -73.9793143 ] -- Google ---> Park Hyatt New York 40.7655417 -73.9790417 4.7
+SpringHill Suites[ 40.751179300000004 -73.98468704999999 ] -- Google ---> SpringHill Suites by Marriott New York Midtown Manhattan/Fifth Avenue 40.751178 -73.984639 4.3
+Madison Towers Hotel[ 40.749967049999995 -73.9809459 ] -- Google ---> Hotel NH Collection New York Madison Avenue 40.749992 -73.9809504 3.5
+Hotel Vetiver[ 40.7533546 -73.9338761 ] -- Google ---> Hotel Vetiver 40.7533756 -73.9339475 3.6
+Holiday Inn Long Island City-Manhattan View[ 40.7533047 -73.9344091 ] -- Google ---> Holiday Inn L.I. City-Manhattan View 40.753232 -73.934345 4.1
+Nesva Hotel[ 40.7532412 -73.9348723 ] -- Google ---> Nesva Hotel 40.7533333 -73.935 4.2
+Hotel Quality Inn[ 40.7519978 -73.93459 ] -- Google ---> Quality Inn Long Island City - Queensboro Bridge 40.752011 -73.93448 3.9
+Andaz[ 40.7528315 -73.9810928 ] -- Google ---> Andaz 5th Avenue - a concept by Hyatt 40.752839 -73.98094999999999 4.5
+Best Western Bowery Hanbee Hotel[ 40.7184763 -73.9952734 ] -- Google ---> Best Western Bowery Hanbee Hotel 40.7184456 -73.9951985 4.1
+Hotel Verve[ 40.752112 -73.9355399 ] -- Google ---> Hotel Verve Bangkok 13.7256737 100.5788553 4.5
+The Hotel Edison NYC[ 40.7596402 -73.98633685 ] -- Google ---> Hotel Edison 40.7597355 -73.9861511 3.8
+The Knickerbocker Hotel[ 40.7552359 -73.98602805 ] -- Google ---> The Knickerbocker 40.7555831 -73.9862701 4.4
+The Bowery Hotel[ 40.7260894 -73.9916568 ] -- Google ---> The Bowery Hotel 40.7260181 -73.9914785 4.5
+The Roosevelt Hotel[ 40.75484165 -73.97718765 ] -- Google ---> The Roosevelt Hotel 40.7546645 -73.9772368 3.7
+Union Square Inn[ 40.7331047 -73.9863263 ] -- Google ---> Inn At Irving Place 40.7359734 -73.987073 4.6
+New York Marriott Marquis[ 40.7585993 -73.98625885000001 ] -- Google ---> New York Marriott Marquis 40.7585862 -73.98582019999999 4.4
+Conrad New York[ 40.7149558 -74.015694 ] -- Google ---> Conrad New York Downtown 40.7150355 -74.0158397 4.6
+The Paper Factory Hotel[ 40.752813 -73.927635 ] -- Google ---> The Collective Paper Factory 40.7527186 -73.92756229999999 4.3
+Howard Johnson Manhattan Soho[ 40.7147307 -73.9930413 ] -- Google ---> Howard Johnson Manhattan Soho 40.71474 -73.9931 3.7
+Hampton Inn Manhattan-SoHo[ 40.7238201 -74.0052592 ] -- Google ---> Hampton Inn Manhattan-SoHo 40.7238662 -74.0052836 3.9
+The GEM Hotel Soho[ 40.7231911 -73.9902082 ] -- Google ---> The Gatsby Hotel 40.723144 -73.990236 3.7
+Refinery[ 40.7521714 -73.9853616 ] -- Google ---> Aurum Refinery Inc 40.757195 -73.980434 5.0
+Americana Inn[ 40.7522336 -73.9855082 ] -- Google ---> The Americana Inn 40.7522927 -73.9855489 3.4
+Archer Hotel[ 40.75203965 -73.9846972 ] -- Google ---> Archer Hotel New York 40.752053 -73.9847066 4.6
+Hotel Beacon[ 40.7806418 -73.9810865 ] -- Google ---> Hotel Beacon 40.7806964 -73.9810172 4.4
+Amsterdam Inn[ 40.7814188 -73.9799422 ] -- Google ---> Beacon Theatre 40.7805136 -73.9810847 4.7
+Bryant Park Hotel[ 40.7528779 -73.9837787 ] -- Google ---> Bryant Park Hotel 40.7529033 -73.98371999999999 4.4
+Belleclaire Hotel[ 40.7825165 -73.9812484 ] -- Google ---> Hotel Belleclaire 40.782399 -73.981258 4.0
+Hotel Churchill[ 40.7819444 -73.9825 ] -- Google ---> The Belnord Hotel 40.7888244 -73.9752091 4.0
+Roger Smith Hotel[ 40.7549383 -73.9742339 ] -- Google ---> Roger Smith Hotel 40.7547534 -73.973455 4.1
+Ramada Flushing[ 40.7615481 -73.8327073 ] -- Google ---> Ramada by Wyndham Flushing Queens 40.7615333 -73.83277780000002 3.4
+Hotel Boutique[ 40.7537758 -73.9741708 ] -- Google ---> The William Hotel 40.7504896 -73.9802784 5.0
+Fitzpatrick Grand Central Hotel[ 40.7526594 -73.9744845 ] -- Google ---> Fitzpatrick Grand Central 40.7526438 -73.97461 4.3
+6 Columbus - a SIXTY Hotel[ 40.767507 -73.9831633 ] -- Google ---> 6 Columbus - Central Park Hotel 40.7675702 -73.98318019999999 4.0
+Renaissance New York Times Square Hotel[ 40.7597371 -73.9845837 ] -- Google ---> Renaissance New York Times Square Hotel 40.75971 -73.98464299999999 4.4
+Staybridge Suites[ 40.756533450000006 -73.9927065 ] -- Google ---> Staybridge Suites Times Square - New York City 40.7566165 -73.9926698 4.1
+The Westin[ 40.757434399999994 -73.98908875000001 ] -- Google ---> The Westin New York at Times Square 40.7577137 -73.9891186 4.3
+Hilton Times Square[ 40.756852 -73.9891945 ] -- Google ---> Hilton Times Square 40.7565671 -73.98876790000001 4.3
+Distrikt Hotel[ 40.756593699999996 -73.99286889999999 ] -- Google ---> Distrikt Hotel New York City Tapestry Collection by Hilton 40.7566856 -73.9928436 4.1
+DoubleTree Suites[ 40.7590118 -73.9844836 ] -- Google ---> DoubleTree by Hilton Hotel New York Times Square West 40.7566361 -73.9930715 3.9
+Mandarin Oriental[ 40.7690103 -73.982912 ] -- Google ---> Mandarin Oriental, New York 40.7689873 -73.98301719999999 4.6
+Library Hotel[ 40.752125199999995 -73.979405 ] -- Google ---> Casablanca Hotel by Library Hotel Collection 40.7564251 -73.9855534 4.7
+W Times Square Hotel[ 40.759390749999994 -73.98565705 ] -- Google ---> W New York - Times Square 40.7593016 -73.98558729999999 4.3
+Haiban Inn Hotel[ 40.7354356 -74.0647293 ] -- Google ---> Haiban Inn Hotel (Lodge) 40.7353637 -74.0647166 3.5
+Roger hotel[ 40.7456401 -73.9840983 ] -- Google ---> The Roger New York 40.7457032 -73.9842755 4.3
+Hotel 31[ 40.744605 -73.9816301 ] -- Google ---> Hotel 31 40.74457 -73.9818134 4.0
+Clarion Hotel Park Avenue[ 40.7441337 -73.9832129 ] -- Google ---> Clarion Hotel Park Avenue 40.744087 -73.98313 3.6
+Yotel New York[ 40.7590853 -73.995439 ] -- Google ---> YOTEL New York 40.7591019 -73.99562829999999 4.1
+Homewood Suites by Hilton[ 40.8295012 -74.0935849 ] -- Google ---> Homewood Suites by Hilton East Rutherford - Meadowlands, NJ 40.8295236 -74.093594 4.5
+Hilton[ 40.7567361 -73.9929518 ] -- Google ---> Homewood Suites by Hilton New York/Midtown Manhattan Times Square-South, NY 40.7542488 -73.9930755 4.5
+The Manhattan at Times Square Hotel[ 40.7621727 -73.9829659 ] -- Google ---> The Manhattan at Times Square Hotel 40.7622856 -73.98264040000001 3.4
+The Parc Hotel[ 40.758372 -73.8345885 ] -- Google ---> The Parc Hotel 40.7584774 -73.8346897 3.8
+WESTWAY HOTEL LAGUARDIA AIRPORT[ 40.7671189 -73.8966722 ] -- Google ---> Westway Motor Inn At LaGuardia Airport 40.767427 -73.89730449999999 3.3
+Hotel Giraffe[ 40.742143 -73.984716 ] -- Google ---> Hotel Giraffe by Library Hotel Collection 40.7421174 -73.984741 4.7
+Hotel[ 40.825813 -73.9485289 ] -- Google ---> Apartamentos San Fermín 40.8225893 -73.94465439999999 4.7
+Extended Stay America - Secaucus - Meadowlands[ 40.800031 -74.0649552 ] -- Google ---> Extended Stay America - Secaucus - Meadowlands 40.79979609999999 -74.0651111 3.8
+Ink48[ 40.764515 -73.9958863 ] -- Google ---> Ink 48 Hotel 40.7645758 -73.99595 4.4
+Suites Viena[ 40.424761000000004 -3.7150428499999997 ] -- Google ---> Suites Viena Plaza de España 40.4248528 -3.7150116 4.4
+Hotel La Moraleja Apartamentos[ 40.517210500000004 -3.6552712 ] -- Google ---> Hostal Fuencarral 40.5188689 -3.6549282 5.0
+Hotel Ibis Valentín Beato[ 40.439336049999994 -3.6263335 ] -- Google ---> ibis Madrid Calle Alcalá 40.4393604 -3.6263072 4.1
+AC Santo Mauro[ 40.431022549999994 -3.6929864500000003 ] -- Google ---> Hotel Santo Mauro, Autograph Collection 40.4309343 -3.6931564 4.6
+URSO Hotel & Spa[ 40.42701325 -3.6980482500000003 ] -- Google ---> URSO Hotel & Spa 40.42686450000001 -3.6982342 4.6
+INNSIDE Madrid Génova[ 40.428260699999996 -3.69618235 ] -- Google ---> Hotel Sardinero Madrid 40.4282198 -3.6960866 4.5
+Zenit Conde Orgaz[ 40.4566911 -3.6475883500000004 ] -- Google ---> Hotel Zenit Conde Orgaz 40.4567309 -3.647631 4.0
+Gran Versalles[ 40.4284596 -3.6969996 ] -- Google ---> Gran Versalles 40.4283965 -3.697101299999999 4.1
+Madrid Norte[ 40.534444050000005 -3.6214151 ] -- Google ---> Prisma Norte Noticias 40.5351816 -3.6285008 4.0
+Hotel High Tech[ 40.4395448 -3.6386038000000003 ] -- Google ---> Clipper High Tech Hotel 40.4196999 -3.7036038 4.2
+Paradores de La Granja[ 40.901286400000004 -4.00779575 ] -- Google ---> Parador de la Granja 40.9017563 -4.0071197 4.5
+Tryp Madrid Chamartín[ 40.47191525 -3.6848325500000003 ] -- Google ---> TRYP Madrid Chamartin 40.4719762 -3.6847349 4.0
+AC Los Vascos[ 40.44891165 -3.71156975 ] -- Google ---> AC Hotel by Marriott Los Vascos 40.4488904 -3.7115644 4.0
+NH Lagasca[ 40.427491 -3.68492875 ] -- Google ---> Hotel NH Madrid Lagasca 40.4274899 -3.6850321 4.2
+Hotel La Cantueña[ 40.25979665 -3.76247235 ] -- Google ---> Hotel La Cantueña 40.25966 -3.7624162 3.5
+Only You Hotel & Lounge[ 40.422253 -3.6959355 ] -- Google ---> Only YOU Boutique Hotel 40.4220122 -3.6959638 4.5
+Mercure Plaza de España[ 40.42563635 -3.7139124 ] -- Google ---> Mercure Madrid Plaza de Espana 40.4256222 -3.7138174 4.3
+Hotel Silken Torre Garden[ 40.41935345 -3.62542475 ] -- Google ---> Hotel Silken Torre Garden 40.4193495 -3.625442999999999 4.1
+Hesperia Emperatriz[ 40.4363403 -3.6884089500000004 ] -- Google ---> Barceló Emperatriz 40.436343 -3.688358099999999 4.5
+Hotel Claridge[ 40.406219750000005 -3.6692373 ] -- Google ---> Hotel Claridge 40.4063418 -3.6693182 4.3
+AC Hoteles Marriott[ 40.43801245 -3.67269005 ] -- Google ---> AC Hotel by Marriott Avenida de America 40.4380083 -3.6726831 4.1
+Abba Madrid Hotel[ 40.43879785 -3.67270835 ] -- Google ---> Abba Madrid Hotel 40.438834 -3.672723 4.3
+Ibis budget Madrid Centro las Ventas[ 40.432497 -3.6560533 ] -- Google ---> ibis budget Madrid Centro las Ventas 40.4325367 -3.6562266 4.0
+AC Cuzco[ 40.458800499999995 -3.6911856 ] -- Google ---> AC Hotel by Marriott Cuzco 40.45879410000001 -3.6911622 4.3
+Hotel Wellington[ 40.42186855 -3.68375045 ] -- Google ---> Goizeko Wellington 40.4222382 -3.6839584 4.5
+NH Eurobuilding[ 40.45821785 -3.6859844500000003 ] -- Google ---> NH Collection Madrid Eurobuilding 40.4584841 -3.6857936 4.4
+Hotel Petit Palace Art Gallery[ 40.423994300000004 -3.6852785 ] -- Google ---> Be Apartment · Luxury Apartments Madrid 40.4281454 -3.6842169 5.0
+Holiday Inn Plaza Carlos Trias[ 40.45146525 -3.6935436 ] -- Google ---> Holiday Inn Madrid - Bernabeu 40.4513853 -3.693571 3.8
+NH La Habana[ 40.45593725 -3.6819809 ] -- Google ---> Hotel NH Madrid Paseo de La Habana 40.4559615 -3.6820136 4.0
+NH Parque de las Avenidas[ 40.4356088 -3.6638032 ] -- Google ---> Hotel NH Madrid Ventas 40.4356351 -3.663792 4.3
+Hotel Silken Puerta de América[ 40.44075075 -3.6701430999999998 ] -- Google ---> Hotel Puerta America Madrid 40.4407272 -3.6700086 4.3
+Foxa M-30 Suites & Resort[ 40.4730707 -3.67195725 ] -- Google ---> Foxa M30 40.4727187 -3.6720833 3.6
+Hotel La Unión II[ 40.2717112 -3.81922795 ] -- Google ---> Hotel la Unión Humanes 40.2711111 -3.8216667 3.5
+Hotel Evenia[ 40.480840799999996 -3.3709243 ] -- Google ---> Evenia Alcalá Boutique 40.4808167 -3.3709722 4.2
+Hotel Cisneros[ 40.4713848 -3.3666399 ] -- Google ---> Hotel Cisneros 40.4713889 -3.3666667 3.7
+Rafaelhoteles Forum Alcalá[ 40.481436349999996 -3.3765208 ] -- Google ---> Rafaelhoteles Forum Alcalá 40.4810753 -3.3764882 4.0
+Parador de Alcalá de Henares[ 40.480913400000006 -3.3614215 ] -- Google ---> Parador de Alcalá de Henares 40.4813614 -3.361625 4.5
+Hotel Agumar[ 40.40706145 -3.6830949 ] -- Google ---> Hotel Agumar 40.406983 -3.683215999999999 3.9
+Hotel Ciudad de Móstoles[ 40.33482875 -3.8875194000000004 ] -- Google ---> Hotel Ciudad de Móstoles - ® WEB OFICIAL 40.3347376 -3.8873641 4.1
+Hotel Jardín Metropolitano[ 40.447294850000006 -3.7057411 ] -- Google ---> VP Jardín Metropolitano 40.44726199999999 -3.705863 4.3
+Hotel 4C Puerta de Europa[ 40.464933900000005 -3.6931564 ] -- Google ---> Hotel 4C Puerta Europa 40.4650364 -3.693194099999999 3.9
+NH Palacio de Tepa[ 40.413892950000005 -3.7017439999999997 ] -- Google ---> Hotel NH Collection Madrid Palacio de Tepa 40.4138889 -3.701666699999999 4.6
+Hostal Cuatro Caños[ 40.48390945 -3.36006015 ] -- Google ---> Hostal Cuatro Caños 40.483891 -3.3601 3.5
+NH Villa de Coslada[ 40.42802915 -3.5610526 ] -- Google ---> Hotel NH Villa de Coslada 40.4279533 -3.5607263 4.0
+Antidoto Rooms[ 39.86035595 -4.0216639 ] -- Google ---> Antidoto Rooms 39.8603687 -4.0216511 4.2
+Isla de la Garena[ 40.486113200000005 -3.40150235 ] -- Google ---> Hotel Isla de la Garena 40.4861835 -3.401741 4.0
+Meliá Avenida América[ 40.447301949999996 -3.62812725 ] -- Google ---> Meliá Avenida América 40.4472979 -3.6278755 4.2
+Hotel Puerta de Madrid[ 40.4478467 -3.63600605 ] -- Google ---> Hotel Silken Puerta Madrid 40.447788 -3.6359962 4.2
+Hilton Madrid Airport[ 40.4521752 -3.5855655000000004 ] -- Google ---> Hilton Madrid Airport 40.4519096 -3.5857868 4.3
+Mayoral[ 39.86517345 -4.02085515 ] -- Google ---> Hotel Zentral Mayoral 39.86514400000001 -4.020894 4.0
+Hesperia Toledo[ 39.866769500000004 -4.0223298 ] -- Google ---> Hotel Hesperia Toledo 39.866839 -4.0224046 4.3
+Hotel Axor Feria[ 40.44745985 -3.58330735 ] -- Google ---> AXOR Barajas Hotel Madrid 40.447893 -3.583039 4.2
+Axor Barajas[ 40.4479398 -3.58325695 ] -- Google ---> AXOR Barajas Hotel Madrid 40.447893 -3.583039 4.2
+Holiday Inn Madrid Calle Alcalá[ 40.43893525 -3.63139825 ] -- Google ---> Hotel Elba Madrid Alcalá 40.439282 -3.631719799999999 4.3
+Hotel Juaneca[ 40.6476863 -3.5954082 ] -- Google ---> Juaneca 40.6477594 -3.595695 4.1
+Hotel Meninas[ 40.41916675 -3.7094448 ] -- Google ---> Hotel Meninas 40.419112 -3.70932 4.1
+Catalonia Plaza Mayor[ 40.4129351 -3.7008503 ] -- Google ---> Hotel Catalonia Plaza Mayor 40.4131211 -3.7008686 4.4
+Petit Palace Mayor Plaza[ 40.41603035 -3.7091281 ] -- Google ---> Petit Palace Plaza Mayor 40.4160026 -3.7090637 4.3
+Tryp Guadalajara[ 40.62019445 -3.1618016 ] -- Google ---> TRYP Guadalajara 40.6208731 -3.1617833 4.2
+Catalonia Puerta del Sol[ 40.41411775 -3.70278875 ] -- Google ---> Hotel Catalonia Puerta Del Sol 40.414026 -3.7028643 4.5
+Ateneo[ 40.418198450000006 -3.7023352999999997 ] -- Google ---> Nosaltres Ateneo Cooperativo 40.4102506 -3.700483299999999 4.8
+El Mirador[ 40.41745485 -3.7026687000000003 ] -- Google ---> Hotel el Mirador Puerta del Sol 40.41749 -3.7028096 4.8
+Meliá Madrid Princesa[ 40.427299899999994 -3.7144174 ] -- Google ---> Meliá Madrid Princesa 40.4272755 -3.7141761 4.4
+Hotel ME Reina Victoria[ 40.4146609 -3.70160605 ] -- Google ---> ME Madrid Reina Victoria 40.4145638 -3.7014472 4.3
+Hotel ibis Styles Madrid Prado[ 40.41489955 -3.698998 ] -- Google ---> ibis Styles Madrid Prado 40.4148772 -3.698999 4.3
+NH Ribera del Manzanares[ 40.40631075 -3.7215937 ] -- Google ---> Hotel NH Madrid Ribera del Manzanares 40.4063245 -3.7215381 4.3
+Restaurante Hotel El Corzo[ 40.7841815 -4.0019033 ] -- Google ---> Restaurante El Corzo 40.7842151 -4.0018363 4.0
+Avenida de España[ 40.2921098 -3.7982217499999997 ] -- Google ---> Hotel Avenida de España 40.2921855 -3.7981775 3.7
+Hotel Gema Fuenlabrada[ 40.2838864 -3.7849835499999998 ] -- Google ---> B&B Hotel Madrid Fuenlabrada 40.2841167 -3.7850374 4.0
+Hotel Egido Las Provincias[ 40.29426755 -3.7943428 ] -- Google ---> Hotel Las Provincias 40.294208 -3.7944 3.6
+H2 Fuenlabrada[ 40.27382505 -3.75508025 ] -- Google ---> Hotel H2 Fuenlabrada 40.2738069 -3.7550695 4.0
+Hotel Ciudad de Fuenlabrada[ 40.2744009 -3.7608422 ] -- Google ---> Hotel Ciudad de Fuenlabrada 40.2744096 -3.7608481 3.7
+Ibis Hotel[ 40.2737516 -3.7544536 ] -- Google ---> ibis Madrid Fuenlabrada 40.2737404 -3.754448699999999 4.0
+Arba[ 40.5434239 -3.6288666 ] -- Google ---> Hostal Arba 40.5433987 -3.6288349 3.5
+Aparthotel Tribunal[ 40.425358200000005 -3.7012172999999997 ] -- Google ---> Hotel Tribunal 40.425438 -3.701249599999999 3.2
+Pasadoiro[ 40.78836095 -4.00287065 ] -- Google ---> Hotel Pasadoiro 40.788334 -4.0030811 4.0
+NH Las Tablas[ 40.4984266 -3.66488615 ] -- Google ---> Hotel NH Madrid Las Tablas 40.49845860000001 -3.6648577 4.1
+Hotel Pizarro[ 40.24834355 -3.8319313 ] -- Google ---> Hostal Pizarro 40.4232552 -3.7058479 3.9
+Apartamentos Plaza Basílica[ 40.44988495 -3.6985074 ] -- Google ---> Espahotel Plaza Basílica 40.4497912 -3.698465 4.0
+Hotel Infanta Mercedes[ 40.458071649999994 -3.69850995 ] -- Google ---> Hotel Infanta Mercedes 40.458023 -3.698644 3.9
+4C Bravo Murillo[ 40.4541594 -3.7024944499999997 ] -- Google ---> Hotel 4C Bravo Murillo 40.454128 -3.702646999999999 4.0
+San Antonio el Real[ 40.94343575 -4.11036665 ] -- Google ---> Monasterio de San Antonio el Real, Segovia 40.9425983 -4.1107153 4.5
+Hotel Concordy[ 40.46568725 -3.80646505 ] -- Google ---> Hotel Concordy 40.465353 -3.80439 3.9
+Hotel Restón[ 40.1836722 -3.6812974499999997 ] -- Google ---> Reston 40.1837769 -3.6811287 4.0
+Hostal Cervantes[ 40.1886547 -3.6778986 ] -- Google ---> HOSTAL CERVANTES 40.188674 -3.677814 3.8
+Hotel Rus[ 40.1913435 -3.6787701 ] -- Google ---> Premier Hotel Rus 50.4358606 30.523915 4.2
+Hotel Victoria[ 40.1912237 -3.6801948 ] -- Google ---> Victoria 40.1912307 -3.680118 3.4
+Hotel Valdemoro[ 40.1916059 -3.6813516 ] -- Google ---> Hotel Valdemoro 40.1916667 -3.6813889 3.3
+Novotel Campo de las Naciones[ 40.46255725 -3.6151054 ] -- Google ---> Novotel Madrid Campo de las Naciones 40.4625091 -3.6150843 4.2
+Globales Acis y Galatea[ 40.450292149999996 -3.6129309000000003 ] -- Google ---> Globales Acis y Galatea 40.4503909 -3.6130115 4.2
+Hotel Osuna[ 40.45313415 -3.6125931 ] -- Google ---> HOTEL OSUNA 40.45320510000001 -3.6130345 3.5
+AC Madrid Feria[ 40.4748541 -3.6343805 ] -- Google ---> AC Hotel by Marriott Madrid Feria 40.4748404 -3.6340687 4.3
+Eurostars Madrid Tower[ 40.4767699 -3.6878884 ] -- Google ---> Torre PwC 40.4767085 -3.687918 -1.0
+Caballero Errante[ 40.4660284 -3.6959033 ] -- Google ---> Caballero Errante 40.466125 -3.69604 3.6
+La pepachic[ 40.4158867 -3.6956205 ] -- Google ---> La Pepa Chic 40.4159267 -3.6955185 4.3
+Hotel Hospes Madrid[ 40.4205866 -3.689287 ] -- Google ---> Hospes Puerta de Alcalá 40.4205889 -3.6893778 4.4
+Hotel One Shot Recoletos[ 40.4210283 -3.6916864 ] -- Google ---> Hotel One Shot Recoletos 04 40.42092419999999 -3.6913334 4.1
+The Principal Madrid[ 40.4193652 -3.6971316 ] -- Google ---> The Principal Madrid Hotel 40.4192971 -3.6971975 4.4
+Lusso Infantas[ 40.4200938 -3.6970746 ] -- Google ---> Hotel Lusso Infantas 40.4201069 -3.6970542 4.2
+Petit Palace San Bernardo[ 40.4209011 -3.7083317 ] -- Google ---> Petit Palace Plaza España 40.42089 -3.7083531 4.3
+Hostal Olga[ 40.4168278 -3.6969322 ] -- Google ---> Hostal Olga 40.4168071 -3.696982 3.9
+Hotel Catalonia Goya[ 40.4252646 -3.6821179 ] -- Google ---> Hotel Catalonia Goya 40.4252538 -3.6821995 4.1
+Hotel Adler[ 40.4253805 -3.6843535 ] -- Google ---> Empty
+Hotel Catalonia Gran Vía[ 40.419412 -3.699049 ] -- Google ---> Hotel Catalonia Gran Vía 40.4194196 -3.6989446 4.2
+Hotel Villa Real[ 40.4157301 -3.6970821 ] -- Google ---> Hotel Villa Real 40.41555049999999 -3.6970603 4.5
+Hotel Petit Palace Alcalá Torre[ 40.418353 -3.6993456 ] -- Google ---> Petit Palace Alcalá 40.418401 -3.699341 4.2
+Hotel de las Letras[ 40.4195045 -3.6994402 ] -- Google ---> Iberostar Las Letras Gran Vía 40.419554 -3.6995997 4.3
+Hotel Ibis Madrid Alcobendas[ 40.530164 -3.651208 ] -- Google ---> ibis Madrid Alcobendas 40.5301861 -3.6511773 4.0
+Hotel Majadahonda[ 40.458587800000004 -3.87282845 ] -- Google ---> HOTEL MAJADAHONDA 40.45857 -3.872847 3.9
+Hotel Galaico[ 40.6344315 -4.0101429 ] -- Google ---> Hotel Galaico 40.6344231 -4.0101119 3.5
+La Casa del Madrileño[ 40.4192019 -3.7028367 ] -- Google ---> Restaurante Los Galayos 40.4148752 -3.7067048 4.2
+Hotel Sancho[ 40.4001257 -3.6942132 ] -- Google ---> Hotel Sancho 40.4001083 -3.6943285 4.2
+JC Rooms[ 40.4197256 -3.7089117 ] -- Google ---> JC Rooms Jardines 40.41905999999999 -3.7016396 4.4
+AC Hotel[ 40.464363750000004 -3.7853842 ] -- Google ---> AC Hotel by Marriott Aravaca 40.4644072 -3.7853842 3.9
+Hotel Aravaca Village[ 40.4643197 -3.7860836 ] -- Google ---> Hotel Aravaca Village 40.4647824 -3.7865301 4.3
+Anaco[ 40.4192843 -3.7030373 ] -- Google ---> Anaco 9.429229699999999 -64.4674203 -1.0
+Holiday Inn Express - Madrid Alcorcón[ 40.3541428 -3.8306288 ] -- Google ---> Holiday Inn Express Madrid - Alcorcon 40.35414979999999 -3.8306094 4.0
+Hotel Mora[ 40.411278 -3.693184 ] -- Google ---> Hotel Mora 40.4112777 -3.6932583 3.8
+Hotel México[ 40.4114334 -3.6943236 ] -- Google ---> Empty
+Chic & Basic[ 40.4102125 -3.6943146 ] -- Google ---> Empty
+NH Nacional[ 40.4098332 -3.6928352 ] -- Google ---> Hotel NH Madrid Nacional 40.4099136 -3.6927186 4.3
+Radisson[ 40.4125483 -3.6941561 ] -- Google ---> Radisson Blu Hotel, Madrid Prado 40.4125104 -3.6940707 4.2
+Hostal Buelta[ 40.4091457 -3.6930506 ] -- Google ---> Hostal Buelta 40.4091219 -3.6931363 5.0
+60 Balconies urban stay[ 40.4090931 -3.6925852 ] -- Google ---> 60 Balconies Urban Stay 40.409005 -3.6925688 4.4
+Hotel Mediodía[ 40.4085554 -3.6930056 ] -- Google ---> Mediodía Hotel 40.408416 -3.6931791 4.1
+NH Paseo del Prado[ 40.4147214 -3.6946717 ] -- Google ---> NH Collection Madrid Paseo del Prado 40.4147829 -3.6947637 4.5
+Vincci Soho[ 40.4148869 -3.6983592 ] -- Google ---> Hotel Vincci Soho 40.4149895 -3.6981089 4.4
+Hotel Carlton[ 40.4051563 -3.6936762 ] -- Google ---> AC Hotel by Marriott Carlton Madrid 40.4051228 -3.6937021 4.2
+Hotel Catalonia Las Cortes[ 40.4145963 -3.6993892 ] -- Google ---> Hotel Catalonia Las Cortes 40.4144958 -3.699433 4.6
+Miau[ 40.4144059 -3.7003265 ] -- Google ---> HOTEL MIAU 40.4143397 -3.7001914 4.1
+Hostal Horizonte[ 40.4133754 -3.7016971 ] -- Google ---> Hostel Horizonte 40.413473 -3.701755 3.4
+Villa de Ajalvir[ 40.5331832 -3.4795002 ] -- Google ---> Hotel Villa De Ajalvir 40.533158 -3.479455 3.8
+Espahotel[ 40.4226116 -3.7099777 ] -- Google ---> Espahotel Gran Vía 40.4226134 -3.7099852 4.1
+Hotel Aida[ 40.4595753 -3.4651231 ] -- Google ---> Hotel Aida 40.4596998 -3.4651156 4.0
+Hotel Sercotel SPA La Princesa[ 40.3244603 -3.84620175 ] -- Google ---> Sercotel La Princesa 40.32452199999999 -3.846175 3.9
+Hotel Francisco I[ 40.4173926 -3.7073825 ] -- Google ---> Hotel Francisco I 40.4174456 -3.7075983 4.5
+Tintinabulum[ 40.4071596 -3.8999804 ] -- Google ---> Escuela Infantil Tintinabulum 40.406685 -3.898588 5.0
+Hostal San Marcos[ 40.2109896 -3.5765365 ] -- Google ---> Hostal San Marcos 40.2109375 -3.5766328 4.3
+Hotel Avenida Gran Vía[ 40.4197225 -3.704125 ] -- Google ---> Hotel Avenida Gran Via 40.4197404 -3.7041236 3.5
+Apartahotel Los Olivos[ 40.110741700000005 -3.64565065 ] -- Google ---> Aparthotel Las Olivas 40.1107331 -3.644456599999999 3.7
+Hotel NH Madrid Sur[ 40.3990811 -3.66993595 ] -- Google ---> Hotel NH Madrid Sur 40.39892 -3.670031499999999 4.1
+Motel Venus[ 40.30437585 -3.90228685 ] -- Google ---> Motel Venus 40.3042314 -3.9023538 4.4
+Hotel Meliá Barajas[ 40.46952465 -3.5824967 ] -- Google ---> Meliá Barajas 40.4696015 -3.5823585 4.2
+Hotel TRYP Alameda[ 40.46914475 -3.5802562 ] -- Google ---> TRYP Madrid Alameda Aeropuerto Hotel 40.469134 -3.580105 4.1
+Hostal Aeropuerto[ 40.4689912 -3.5808289 ] -- Google ---> Hostal Aeropuerto 40.46895300000001 -3.580789 3.8
+täCH[ 40.4731285 -3.58560795 ] -- Google ---> Tach Hotel Madrid Airport 40.4732083 -3.5855778 4.3
+Petit Palace Clíper Gran Vía[ 40.4196435 -3.7036474 ] -- Google ---> Petit Palace Cliper Gran Vía 40.4197048 -3.70364 4.0
+Hotel Atlántico[ 40.420392 -3.7045921 ] -- Google ---> Hotel Atlántico 40.4204053 -3.7045863 4.6
+Hotel Aquaria Negresco[ 40.4196133 -3.7041942 ] -- Google ---> Hostal Negresco Gran Via ** 40.419612 -3.7042074 4.1
+Hotel Amura[ 40.53577355 -3.6409043 ] -- Google ---> Hôtel amura alcobendas 40.5357829 -3.641148399999999 4.1
+Tryp Las Matas[ 40.55112975 -3.8954519000000003 ] -- Google ---> Hotel Plaza Las Matas 40.5511848 -3.8953845 4.1
+Aparthotel Encasa[ 40.40435015 -3.5914979999999996 ] -- Google ---> Aparthotel Encasa 40.4044003 -3.5914255 4.1
+Plaza Mayor[ 40.1397881 -3.4223953 ] -- Google ---> Plaza Mayor 40.415511 -3.7074009 4.6
+Hotel Barajas Plaza[ 40.4728241 -3.576856 ] -- Google ---> Hotel Barajas Plaza 40.4729059 -3.5769676 3.9
+Hostal Plaza Mayor[ 40.4573113 -3.4801469 ] -- Google ---> Hostal Plaza Mayor 40.4573624 -3.4801737 4.3
+Hotel Plaza Mayor[ 40.414603400000004 -3.7055083499999997 ] -- Google ---> Plaza Mayor Deluxe 40.41583680000001 -3.706657 4.6
+Espahotel Plaza de España[ 40.4224216 -3.7120835 ] -- Google ---> Espahotel Plaza España 40.4225112 -3.7120639 4.0
+Hotel Domus Plaza Zocodover[ 39.8601457 -4.0211357 ] -- Google ---> Zocodover 39.8596077 -4.021326999999999 4.4
+Hotel Madrid Torrejón Plaza[ 40.4559186 -3.4792469 ] -- Google ---> Madrid Torrejon Plaza 40.4559307 -3.4792624 3.9
+Jardín Tres Cantos[ 40.6017387 -3.7140103 ] -- Google ---> VP Jardín de Tres Cantos 40.6017816 -3.7140282 4.2
+Hotel Cortezo[ 40.4136556 -3.7034629 ] -- Google ---> Hotel Cortezo 40.41367220000001 -3.7035722 4.0
+Siglo XXI[ 40.5306082 -3.4809389 ] -- Google ---> Hostal Asador Siglo XXI 40.530554 -3.4810282 3.8
+Hotel Tach[ 40.4730337 -3.5853769 ] -- Google ---> Tach Hotel Madrid Airport 40.4732083 -3.5855778 4.3
+Hotel Julia[ 40.4342064 -3.6327301 ] -- Google ---> Hotel Julia 40.4342556 -3.6325465 4.1
+Hospedería de los Reyes[ 39.863929 -4.0225422 ] -- Google ---> SUITES Casas de los Reyes. Hospederia 39.8635501 -4.0234965 4.6
+La Cañada[ 40.6785879 -3.96177665 ] -- Google ---> Empty
+Hostal Torrejón[ 40.4596334 -3.4638318000000003 ] -- Google ---> Hostal Torrejón 40.4594351 -3.463936 4.0
+Hotel Maria Cristina[ 39.8663164 -4.0231034 ] -- Google ---> Hotel María Cristina 39.8662987 -4.0230532 3.9
+Innside Madrid Luchana[ 40.4303408 -3.7000607 ] -- Google ---> Hotel One Shot Luchana 22 40.430221 -3.700126 4.2
+Juan de Austria[ 40.4319221 -3.6992409 ] -- Google ---> Calle de Juan de Austria 40.4331353 -3.699617 -1.0
+Urban[ 40.4164306 -3.6986845 ] -- Google ---> Garage Urban San Carlos -16.3122478 -48.9346578 3.3
+Hotel Ibis Madrid Centro[ 40.4286872 -3.7029919 ] -- Google ---> ibis Madrid Centro 40.4287373 -3.7030805 4.3
+Gran Meliá Fénix[ 40.4263756 -3.6893687 ] -- Google ---> Gran Meliá Fénix 40.4264693 -3.6892883 4.5
+Alojamientos turísticos Calle Travesía[ 40.9532424 -3.5256617 ] -- Google ---> Empty
+Alojamientos turísticos Calle Balcón[ 40.9526042 -3.5246821 ] -- Google ---> El Balcón de Robledillo 40.9522471 -3.5242645 3.9
+Inglés[ 40.415934 -3.6997593 ] -- Google ---> Academia Speakandlive 40.4158407 -3.6998204 5.0
+Hostal Castilla[ 40.2850381 -3.7922953 ] -- Google ---> Hotel Castilla 40.2851283 -3.7922395 4.0
+Hotel Pax Torrelodones[ 40.571357250000005 -3.9256628 ] -- Google ---> Hotel Pax Torrelodones 40.5714654 -3.9257525 4.1
+El Zorzal[ 39.86860255 -3.4766277 ] -- Google ---> Hotel El Zorzal 39.869236 -3.47687 3.4
+Los Arcos[ 39.890094950000005 -3.47334685 ] -- Google ---> Los Arcos 42.5684868 -2.1916542 -1.0
+Madfor[ 40.421476 -3.7217761 ] -- Google ---> Acta Madfor 40.421447 -3.721714 4.1
+Florida Norte[ 40.4210869 -3.7213244 ] -- Google ---> Hotel City House Florida Norte 40.4210206 -3.7212436 3.4
+AR Parquesur[ 40.3388182 -3.7338904 ] -- Google ---> Hotel Parquesur 40.3389404 -3.733939 4.0
+Hostal Campo Real[ 40.3381315 -3.3836017 ] -- Google ---> Hostal Campo Real 40.3381881 -3.3834164 4.4
+Hotel Pozuelo[ 40.437702 -3.8179316 ] -- Google ---> Hostal Jaenes 40.4354646 -3.816589399999999 2.7
+Hotel Cigarral del Bosque[ 39.8596082 -4.0428477 ] -- Google ---> HOTEL CIGARRAL EL BOSQUE 39.859432 -4.0427388 4.3
+Hotel Las Postas[ 40.7213208 -4.0199849 ] -- Google ---> Las Postas 40.7212803 -4.0197581 4.0
+TH Aparthotel Las Rozas[ 40.4842331 -3.8564801 ] -- Google ---> TH Las Rozas 40.4843071 -3.8565855 3.8
+Hotel Vincci SOMA[ 40.4250662 -3.6780541 ] -- Google ---> Hotel Vincci Soma 40.4250624 -3.678160399999999 4.2
+Hostal Juanito[ 40.3218331 -3.870095 ] -- Google ---> Hostal Juanito 40.3218015 -3.8702548 3.2
+Hotel El Espinar[ 40.7288871 -4.23527 ] -- Google ---> VUT CASA DE LOS ALCALDES 40.7211181 -4.2374155 5.0
+Hostal Boxes[ 39.8679527 -4.0225726 ] -- Google ---> Hostal Boxes 39.8679613 -4.022614799999999 3.6
+Best Western Los Condes[ 40.4219032 -3.7065439 ] -- Google ---> Hotel Los Condes 40.4219322 -3.7065847 4.2
+Hotel Urso[ 40.4268547 -3.6982788 ] -- Google ---> URSO Hotel & Spa 40.42686450000001 -3.6982342 4.6
+Alcalá Norte[ 40.4365552 -3.6213074 ] -- Google ---> ILUNION Alcalá Norte 40.4363889 -3.6211111 4.2
+Hotel Hesperia Madrid[ 40.4388682 -3.6915519 ] -- Google ---> Hyatt Regency Hesperia Madrid 40.4388084 -3.6916036 4.5
+Posada del Peine[ 40.4156823 -3.7060457 ] -- Google ---> Petit Palace Posada del Peine 40.41571 -3.7060284 4.3
+Hotel Petit Palace Plaza del Carmen[ 40.4189577 -3.7028511 ] -- Google ---> Petit Palace Plaza del Carmen 40.4190311 -3.7030024 4.4
+Holiday Inn Tres Cantos[ 40.6021143 -3.7165139 ] -- Google ---> Empty
+Hotel Mavi[ 40.8559848 -3.6127726 ] -- Google ---> Hotel Mavi 40.8558181 -3.6127267 3.8
+Hotel Don Luis[ 40.4727052 -3.578643 ] -- Google ---> Hotel Don Luis 40.4727428 -3.5785793 5.0
+Hostal Viky[ 40.4735819 -3.5756698 ] -- Google ---> Hostal Viky 40.4737251 -3.57567 4.0
+Campanile Madrid - Alcalá de Henares[ 40.4817023 -3.3949571 ] -- Google ---> Hotel Campanile Madrid - Alcala de Henares 40.4818057 -3.3943898 3.9
+Metropol Rooms Alcalá[ 40.4848406 -3.3967934 ] -- Google ---> Hotel Puerta De Alcala 40.4848811 -3.3968185 3.8
+NH Hoteles[ 40.5582826 -3.613622 ] -- Google ---> Empty
+Hostal Sol[ 39.861635 -4.023311 ] -- Google ---> Hotel Hesperia Toledo 39.866839 -4.0224046 4.3
+Rafael Atocha[ 40.4014111 -3.6869801 ] -- Google ---> Rafaelhoteles Atocha 40.4013722 -3.687082499999999 4.1
+Hotel Señorial[ 40.4225737 -3.7108404 ] -- Google ---> Senorial Hotel 40.4226264 -3.7108642 3.1
+Casón del Tormes[ 40.4222346 -3.7116559 ] -- Google ---> HOTEL CASON DEL TORMES 40.4222679 -3.7116616 4.1
+Vincci Vía 66[ 40.4224232 -3.7088852 ] -- Google ---> Hotel Vincci Via 66 40.4224291 -3.7088915 4.4
+Hotel Mayorazgo[ 40.4220833 -3.7095924 ] -- Google ---> Hotel Mayorazgo 40.4221209 -3.7095924 4.2
+La Atalaya[ 40.1200218 -3.1520522 ] -- Google ---> Hotel Restaurante La Atalaya 40.120026 -3.151939 3.7
+El Duque[ 40.5394776 -4.1631651 ] -- Google ---> Hotel Duque 40.5395904 -4.1632606 4.2
+Hotel Arosa[ 40.4197757 -3.7031077 ] -- Google ---> Pizza 3Cruces 40.4192556 -3.7034078 4.4
+Hotel Rural Las Farolas[ 40.7127568 -4.1850695 ] -- Google ---> Rural Las Farolas 40.7127664 -4.1850099 4.1
+La Casa Grande[ 40.4611157 -3.482931 ] -- Google ---> La Casa Grande 40.4615328 -3.4829237 4.0
+Petit Palace Santa Bárbara[ 40.4264491 -3.6963237 ] -- Google ---> Petit Palace Santa Barbara 40.4264374 -3.6963395 4.5
+Petit Palace Italia[ 40.4205155 -3.703033 ] -- Google ---> Petit Palace Triball 40.4205655 -3.7029078 4.5
+Puerta De Toledo[ 40.4063141 -3.7122502 ] -- Google ---> Puerta de Toledo 40.4067654 -3.711620299999999 4.4
+La Barranca[ 40.75231305 -3.9942585 ] -- Google ---> Embalse del Ejercito del Aire 40.7543674 -3.993563499999999 4.6
+Hostal Lady Ana[ 40.6273866 -4.0135855 ] -- Google ---> Hostal Lady Ana 40.6274108 -4.013679 3.3
+Hotel Regina[ 40.4179496 -3.6998271 ] -- Google ---> Hotel Regina Madrid 40.4179295 -3.6998284 4.4
+Disney's Grand Californian Hotel & Spa[ 33.807647349999996 -117.92222910000001 ] -- Google ---> Disney's Grand Californian Hotel & Spa 33.8076278 -117.9229558 4.7
+WorldMark Anaheim[ 33.8038828 -117.9086875 ] -- Google ---> WorldMark Anaheim 33.8039368 -117.9084927 4.4
+Peacock Suites[ 33.8046761 -117.90710455 ] -- Google ---> Peacock Suites 33.80492 -117.90665 4.8
+Dolphin's Cove Resort[ 33.79706835 -117.9135617 ] -- Google ---> WorldMark Dolphin's Cove 33.7970025 -117.9135765 4.2
+Residence Inn Anaheim Maingate[ 33.80599755 -117.90904660000001 ] -- Google ---> Residence Inn by Marriott at Anaheim Resort/Convention Center 33.8029801 -117.9169042 4.5
+Park Vue Inn[ 33.8090699 -117.91410554999999 ] -- Google ---> Park Vue Inn 33.808905 -117.9149522 4.4
+Best Western Plus Stovall's Inn[ 33.80234025 -117.92467055 ] -- Google ---> Best Western Plus Stovall's Inn 33.8023554 -117.9246435 4.3
+Anaheim Marriott[ 33.799045 -117.9182974 ] -- Google ---> Anaheim Marriott 33.7988769 -117.9181706 4.4
+The Disneyland Hotel[ 33.8093792 -117.9269321 ] -- Google ---> Disney's Grand Californian Hotel & Spa 33.8076278 -117.9229558 4.7
+Chino Hills Hotel[ 33.97024775 -117.69043880000001 ] -- Google ---> Hotel Chino Hills 33.9702165 -117.6904625 3.9
+Holiday Inn[ 34.179283350000006 -118.30777764999999 ] -- Google ---> Holiday Inn Express North Hollywood - Burbank Area 34.171982 -118.377888 4.3
+Westin Pasadena[ 34.148989900000004 -118.1419119 ] -- Google ---> The Westin Pasadena 34.1491019 -118.1418805 4.4
+Hilton[ 34.15159265 -118.6486059 ] -- Google ---> Hilton Garden Inn Calabasas 34.1514906 -118.6486275 4.3
+ReTan[ 34.10262615 -118.33294715 ] -- Google ---> Retan Hotel 34.1026339 -118.3332316 3.1
+UCLA Guest House[ 34.07455305 -118.4384756 ] -- Google ---> UCLA Guest House 34.0745182 -118.4385016 4.7
+W hotel[ 34.101156700000004 -118.32607354999999 ] -- Google ---> W Hollywood 34.10095829999999 -118.3258711 4.3
+Hollywood Historic Hotel[ 34.083344249999996 -118.31304270000001 ] -- Google ---> Hollywood Historic 34.0833333 -118.3130556 4.1
+Travelodge Hollywood-Vermont/Sunset[ 34.096892600000004 -118.29235295 ] -- Google ---> Travelodge by Wyndham Hollywood-Vermont/Sunset 34.0969172 -118.2927158 3.5
+Hollywood Stars Inn[ 34.09841865 -118.30833774999999 ] -- Google ---> Hollywood Stars Inn 34.0984466 -118.3084044 3.4
+Residence Inn by Marriott[ 33.8039356 -118.1446485 ] -- Google ---> Residence Inn by Marriott Cypress Los Alamitos 33.803732 -118.0468964 4.4
+Extended Stay America[ 33.8042778 -118.1464535 ] -- Google ---> Extended Stay America - Orange County - Cypress 33.8069585 -118.0287862 3.6
+The Ambrose[ 34.0304979 -118.481513 ] -- Google ---> The Ambrose Hotel Santa Monica 34.0304397 -118.4815795 4.5
+Loews Santa Monica Beach Hotel[ 34.009093899999996 -118.49315105 ] -- Google ---> Loews Santa Monica Beach Hotel 34.0088784 -118.4927714 4.5
+Bayside Hotel[ 34.0063022 -118.4896688 ] -- Google ---> Bayside Hotel 34.006242 -118.489456 4.0
+Hotel Carmel[ 34.0137654 -118.4954584 ] -- Google ---> Hotel Carmel - Santa Monica Hotel 34.014019 -118.495464 3.6
+The Fairmont Miramar[ 34.0177982 -118.5015714 ] -- Google ---> Fairmont Miramar - Hotel & Bungalows 34.0178335 -118.5016847 4.5
+Hollywood Inn Express South[ 34.06779735 -118.27003195 ] -- Google ---> Hollywood Inn Express South 34.0679705 -118.2700665 3.3
+Double Tree Hotel[ 33.9825174 -118.39628164999999 ] -- Google ---> Hotel MdR Marina del Rey - a DoubleTree by Hilton 33.9850623 -118.4410138 4.1
+Hotel Erwin[ 33.986951250000004 -118.47246525 ] -- Google ---> Hotel Erwin 33.98695 -118.47245 4.3
+Ayres Hotel[ 33.6544941 -117.627167 ] -- Google ---> Ayres Hotel & Spa Mission Viejo 33.6543368 -117.6268329 4.4
+Good Nite Inn[ 33.85823055 -118.01001005 ] -- Google ---> Good Nite Inn Buena Park Orange County 33.858348 -118.010024 3.9
+Best Western Plus Avita Suites[ 33.838106100000005 -118.34814105000001 ] -- Google ---> Best Western Plus Avita Suites 33.8381033 -118.3481406 4.4
+Extended Stay America Hotel Los Angeles[ 33.8381232 -118.3474831 ] -- Google ---> Extended Stay America - Los Angeles - Torrance - Del Amo Circle 33.8325322 -118.3558557 3.3
+Candlewood Suites[ 33.658622199999996 -117.69862975000001 ] -- Google ---> Candlewood Suites Orange County/Irvine East 33.6586223 -117.6988562 4.1
+Extended Stay America - Orange County - Lake Forest[ 33.6680296 -117.6625675 ] -- Google ---> Extended Stay America - Orange County - Lake Forest 33.668033 -117.662564 3.5
+Staybridge Suites Irvine East - Lake Forest[ 33.67135065 -117.67064355 ] -- Google ---> Staybridge Suites Irvine East/Lake Forest 33.67155 -117.670809 4.6
+Fairfield Inn & Suites[ 33.520982849999996 -117.16353179999999 ] -- Google ---> Fairfield Inn & Suites by Marriott Temecula 33.520972 -117.163553 4.0
+Extended Stay[ 33.51748805 -117.16087345 ] -- Google ---> Extended Stay America - Temecula - Wine Country 33.5175089 -117.1608976 3.6
+The St. Regis Monarch Beach Resort & Spa[ 33.48208615 -117.7159094 ] -- Google ---> Monarch Beach Resort 33.4823735 -117.7157584 4.7
+Marriott Residence Inn[ 33.652829749999995 -117.714216 ] -- Google ---> Residence Inn by Marriott Irvine Spectrum 33.6529448 -117.7139781 4.3
+La Quinta Inn & Suites[ 33.675759150000005 -117.758955 ] -- Google ---> La Quinta Inn & Suites by Wyndham Irvine Spectrum 33.6758771 -117.7585485 3.7
+Ritz Carlton[ 33.4747616 -117.7203668 ] -- Google ---> Ritz Cove 33.4784554 -117.7198847 5.0
+HYATT House[ 33.8083846 -118.0298558 ] -- Google ---> Hyatt House Cypress/Anaheim 33.8083556 -118.0298472 4.5
+Hilton Garden Inn[ 33.6721158 -117.65843860000001 ] -- Google ---> Hilton Garden Inn Irvine East/Lake Forest 33.6721289 -117.6584235 4.1
+Hotel Irvine[ 33.6779335 -117.84024235000001 ] -- Google ---> Hotel Irvine 33.6778095 -117.8403479 4.3
+Irvine Marriott[ 33.6782543 -117.8500514 ] -- Google ---> Irvine Marriott 33.6783214 -117.8497412 4.4
+Pechanga Resort[ 33.45521325 -117.1068778 ] -- Google ---> Pechanga Resort 33.4539005 -117.107325 4.5
+SpringHill Suites Marriott[ 33.502306399999995 -117.15313915 ] -- Google ---> SpringHill Suites by Marriott Temecula Valley Wine Country 33.5022479 -117.1532349 4.3
+Rancho California Inn[ 33.49887475 -117.15167034999999 ] -- Google ---> Rancho California Inn 33.499104 -117.151815 3.7
+Embassy Suites Temecula Valley Wine Country[ 33.501407799999996 -117.1490964 ] -- Google ---> Embassy Suites by Hilton Temecula Valley Wine Country 33.5010687 -117.1492365 4.1
+Palomar Inn[ 33.49501005 -117.150495 ] -- Google ---> Palomar Inn 33.4949938 -117.1504934 4.3
+St. George Hotel[ 34.0491736 -118.24531905 ] -- Google ---> St. George Hotel Apartments, Skid Row Housing Trust 34.0490467 -118.2454382 4.1
+Kawada Hotel[ 34.0527431 -118.2477049 ] -- Google ---> Kawada Hotel 34.052752 -118.24773 3.6
+Miyako Hotel[ 34.0496671 -118.24027925 ] -- Google ---> Miyako Hotel Los Angeles 34.0496484 -118.2402017 4.3
+Omni Los Angeles Hotel[ 34.0525768 -118.25043455 ] -- Google ---> Omni Los Angeles Hotel at California Plaza 34.0526619 -118.2505722 4.4
+Hyatt Regency, The LA Hotel Downtown[ 34.0547256 -118.25558294999999 ] -- Google ---> Empty
+Marina del Rey Hotel[ 33.97998085 -118.4455167 ] -- Google ---> Marina Del Rey Hotel 33.9799284 -118.4459625 4.3
+Rotex Hotel[ 34.052885950000004 -118.31249335000001 ] -- Google ---> The Rotex Hotel & Condo 34.052909 -118.312366 3.4
+Embassy Suites Anaheim North[ 33.847060299999995 -117.85233339999999 ] -- Google ---> Embassy Suites by Hilton Anaheim North 33.8470087 -117.8523429 4.1
+W Los Angeles - Westwood[ 34.0629922 -118.44105794999999 ] -- Google ---> W Los Angeles - West Beverly Hills 34.0632746 -118.4409504 4.2
+Marina del Rey Marriott[ 33.98218475 -118.4598623 ] -- Google ---> Marina del Rey Marriott 33.9822401 -118.4596403 4.4
+Weingart Center Association[ 34.042294150000004 -118.24477675 ] -- Google ---> Weingart Foundation 34.0482009 -118.2589528 4.6
+Little Tokyo Hotel[ 34.0499526 -118.2400604 ] -- Google ---> Little Tokyo Hotel 34.0500433 -118.2399672 3.7
+Daimaru Hotel[ 34.0496703 -118.2396419 ] -- Google ---> New Daimaru Hotel 34.0497818 -118.2396074 3.7
+Claremont Hotel[ 34.0610869 -118.4426948 ] -- Google ---> Claremont Club & Spa - A Fairmont Hotel 37.8587528 -122.2417458 4.5
+Royal Palace Hotel[ 34.0608096 -118.4427634 ] -- Google ---> Royal Palace Westwood Hotel 34.0606338 -118.4429579 4.2
+Marriott[ 34.194019499999996 -118.34804969999999 ] -- Google ---> Marriott Convention Center 34.195527 -118.347072 4.6
+Holiday Inn Express Hotel & Suites[ 34.2463479 -119.25826789999999 ] -- Google ---> Holiday Inn Express & Suites Ventura Harbor 34.246246 -119.2582722 4.1
+Marriot TownePlace Suites[ 33.8051097 -117.88834675 ] -- Google ---> Residence Inn by Marriott at Anaheim Resort/Convention Center 33.8029801 -117.9169042 4.5
+Homewood Suites by Hilton[ 34.078718800000004 -117.555537 ] -- Google ---> Homewood Suites by Hilton Ontario-Rancho Cucamonga 34.0786649 -117.5556314 4.4
+Hyatt Regency Century Plaza[ 34.05750825 -118.41572289999999 ] -- Google ---> Hyatt Regency Century Plaza 34.0575322 -118.4158684 5.0
+DoubleTree Hotel[ 34.06612415 -117.60926810000001 ] -- Google ---> DoubleTree by Hilton Hotel Ontario Airport 34.066497 -117.609928 4.3
+San Vicente Inn[ 34.0859715 -118.3851213 ] -- Google ---> San Vicente Bungalows 34.0859194 -118.3850313 3.6
+Miyako Hybrid Hotel[ 33.8346308 -118.3097474 ] -- Google ---> Miyako Hybrid Hotel 33.8347389 -118.3097833 4.5
+Extended Stay America LAX Airport[ 33.9797744 -118.3951895 ] -- Google ---> Extended Stay America - Los Angeles - LAX Airport 33.97979 -118.395159 3.2
+Jamaica Bay Inn[ 33.9826892 -118.4577026 ] -- Google ---> Jamaica Bay Inn 33.9823806 -118.4579861 4.4
+Embassy Suites Brea[ 33.9173952 -117.8876609 ] -- Google ---> Embassy Suites by Hilton Brea North Orange County 33.9174818 -117.887112 4.4
+Torrance Marriott South Bay[ 33.8358585 -118.3505714 ] -- Google ---> Torrance Marriott Redondo Beach 33.8358688 -118.350502 4.3
+Courtyard by Marriott Torrance Palos Verdes[ 33.8232159 -118.3323263 ] -- Google ---> Courtyard by Marriott Los Angeles Torrance/Palos Verdes 33.8232991 -118.3323444 4.1
+Dunes Inn[ 34.0984595 -118.31241829999999 ] -- Google ---> Dunes Inn - Sunset 34.0982986 -118.3126332 3.8
+Economy Inn[ 34.0977448 -118.30604085 ] -- Google ---> Hampton Inn & Suites Los Angeles/Hollywood 34.091789 -118.3272617 4.3
+Howard Johnson Torrance[ 33.83822825 -118.35125024999999 ] -- Google ---> Howard Johnson by Wyndham Torrance 33.8382187 -118.3514557 3.9
+Saga Motor Hotel[ 34.1464852 -118.116629 ] -- Google ---> Saga Motor Hotel Pasadena 34.1463852 -118.1168289 4.3
+Howard Johnsons[ 34.146363 -118.11752065 ] -- Google ---> Howard Johnson by Wyndham Pasadena 34.14630280000001 -118.1176835 4.0
+The Hilton Waterfront Beach Resort[ 33.65294335 -117.9938487 ] -- Google ---> The Waterfront Beach Resort, a Hilton Hotel 33.6533181 -117.9943037 4.6
+Hyatt Regency Huntington Beach Resort and Spa[ 33.65078865 -117.99062275 ] -- Google ---> Hyatt Regency Huntington Beach Resort And Spa 33.6511361 -117.9906806 4.6
+Shorebreak Hotel[ 33.6581642 -118.0026273 ] -- Google ---> Kimpton Shorebreak Huntington Beach Resort 33.658251 -118.002457 4.6
+Casa 425[ 34.0949547 -117.72036205 ] -- Google ---> Hotel Casa 425 + Lounge 34.0949465 -117.7204334 4.4
+Best Western[ 33.87238635 -118.359733 ] -- Google ---> Best Western Redondo Beach Galleria Inn 33.8723352 -118.3598755 4.2
+Best Western Plus[ 33.94574395 -118.36576635 ] -- Google ---> Best Western Plus Suites Hotel 33.9457897 -118.3657003 4.0
+The Line[ 34.06215385 -118.3009884 ] -- Google ---> Poketo at The Line Hotel 34.0619557 -118.3014348 4.2
+Countryside Suites Ontario[ 34.0644614 -117.6098035 ] -- Google ---> Country Inn & Suites by Radisson, Ontario at Ontario Mills, CA 34.0694191 -117.5498145 4.2
+Residence Inn[ 33.473148 -117.67659415 ] -- Google ---> Residence Inn by Marriott Dana Point San Juan Capistrano 33.4731998 -117.6765119 4.3
+Los Angeles Airport Mariott[ 33.9463837 -118.3843511 ] -- Google ---> Los Angeles Airport Marriott 33.94664470000001 -118.3848285 4.3
+Renaissance Hotel[ 33.948897099999996 -118.38485885 ] -- Google ---> Renaissance Los Angeles Airport Hotel 33.9489248 -118.3852727 4.2
+The Balboa Bay Club & Resort[ 33.61541025 -117.91504465 ] -- Google ---> Balboa Bay Resort 33.6156102 -117.9146371 4.6
+Temecula Creek Inn[ 33.4672125 -117.1317602 ] -- Google ---> Temecula Creek Inn 33.4677096 -117.1318015 4.3
+Marriott's Newport Coast Villas[ 33.582636199999996 -117.84183225 ] -- Google ---> Marriott's Newport Coast Villas 33.5829651 -117.8416098 4.7
+Days Inn of West Covina[ 34.0715169 -117.8854827 ] -- Google ---> Days Inn by Wyndham West Covina 34.0712819 -117.8854214 3.9
+Custom Hotel LAX[ 33.958749 -118.4187273 ] -- Google ---> Custom Hotel - LAX Airport 33.9585615 -118.4188425 3.6
+Ramada[ 33.4846796 -117.14325485 ] -- Google ---> Ramada by Wyndham Temecula Old Town 33.4846944 -117.1433083 4.0
+The Redondo Beach Hotel[ 33.8467903 -118.3933323 ] -- Google ---> The Redondo Beach Hotel 33.8467208 -118.3933895 4.5
+Comfort Suites[ 34.0638589 -117.2006761 ] -- Google ---> Comfort Suites 34.063867 -117.200701 4.3
+Fairfield Inn[ 34.065066 -117.265305 ] -- Google ---> Fairfield Inn & Suites by Marriott San Bernardino 34.0649904 -117.2653276 4.2
+DoubleTree Guest Suites Doheny Beach[ 33.4637764 -117.6813713 ] -- Google ---> DoubleTree Suites by Hilton Hotel Doheny Beach - Dana Point 33.4639672 -117.681305 3.9
+Travelodge[ 34.1462759 -118.1063798 ] -- Google ---> Travelodge by Wyndham Pasadena Central 34.146437 -118.1064261 3.1
+Embassy Suites[ 34.443291 -118.600193 ] -- Google ---> Embassy Suites by Hilton Valencia 34.4432295 -118.600553 4.4
+Comfort Inn[ 34.1393842 -118.216845 ] -- Google ---> Comfort Inn Near Old Town Pasadena In Eagle Rock 34.1394409 -118.2169232 4.1
+La Quinta[ 34.182676400000005 -118.90971495 ] -- Google ---> La Quinta Inn & Suites by Wyndham Thousand Oaks-Newbury Park 34.1828723 -118.9095232 3.6
+Doubletree Carson Civic Plaza[ 33.8327906 -118.2590563 ] -- Google ---> DoubleTree by Hilton Hotel Carson 33.8323693 -118.2587188 4.3
+Thousand Oaks Inn[ 34.1786 -118.8786716 ] -- Google ---> Best Western Plus Thousand Oaks Inn 34.1782824 -118.8788514 4.0
+Knights Inn[ 33.9272263 -117.55777359999999 ] -- Google ---> Regency Inn Norco 33.9270296 -117.5578547 3.0
+Crowne Plaza[ 34.2764567 -119.2934354 ] -- Google ---> Aloha Steakhouse 34.2765497 -119.2928856 4.4
+Sherwood Forest[ 34.2432772 -116.91244145 ] -- Google ---> Sherwood Forest 53.205875 -1.0860901 4.5
+Marina Resort[ 34.2442595 -116.912615 ] -- Google ---> Marina Resort Lake Front Rooms 34.244259 -116.912429 4.2
+The Robinhood Resort[ 34.2434872 -116.911715 ] -- Google ---> Robinhood Resort 34.243514 -116.911665 4.3
+Holiday Inn Express[ 33.9465685 -117.0027101 ] -- Google ---> Holiday Inn Express & Suites Beaumont - Oak Valley 33.946505 -117.0027 4.3
+Motel 6[ 34.183108250000004 -118.9132271 ] -- Google ---> Motel 6 Thousand Oaks, CA 34.182936 -118.9132 3.5
+Sheraton[ 34.142909 -118.1442086 ] -- Google ---> Sheraton Pasadena Hotel 34.1434603 -118.1442211 4.1
+Courtyard by Marriott[ 33.94681825 -118.3936511 ] -- Google ---> Courtyard by Marriott Los Angeles LAX/Century Boulevard 33.946854 -118.393636 4.2
+Westin South Coast Plaza[ 33.69080835 -117.88414614999999 ] -- Google ---> The Westin South Coast Plaza, Costa Mesa 33.690692 -117.8841269 4.4
+Ace Hotel Los Angeles[ 34.0418727 -118.2570121 ] -- Google ---> Ace Hotel 34.0418769 -118.2570341 4.5
+Sheraton Gateway Los Angeles[ 33.946634849999995 -118.390827 ] -- Google ---> Sheraton Gateway Los Angeles Hotel 33.9464489 -118.3907235 4.2
+Culver Hotel[ 34.0238571 -118.3941291 ] -- Google ---> The Culver Hotel 34.0238444 -118.3941888 4.5
+Bay Shores Peninsula Hotel[ 33.6078735 -117.9251372 ] -- Google ---> Bay Shores Peninsula Hotel 33.6078723 -117.92506 4.8
+Four Points[ 33.98318075 -118.3936371 ] -- Google ---> Four Points by Sheraton Los Angeles Westside 33.9831165 -118.3935537 4.1
+Red Roof Inn[ 33.8569502 -117.9993214 ] -- Google ---> Days Inn by Wyndham Buena Park 33.8569706 -117.9991829 3.4
+Comfort Inn & Suites Near Temecula Wine Country[ 33.56757505 -117.20752440000001 ] -- Google ---> Comfort Inn & Suites Murrieta Temecula Wine Country 33.567608 -117.207552 4.4
+Casa Tropicana Boutique Inn[ 33.4195847 -117.619255 ] -- Google ---> Casa Tropicana Boutique Beachfront Hotel 33.419694 -117.6192486 4.1
+Doubletree Hotel[ 34.0038682 -118.15070305 ] -- Google ---> DoubleTree by Hilton Hotel Los Angeles - Commerce 34.0037562 -118.1505333 4.3
+Chateau Celeste Hollywood Hotel[ 34.0929368 -118.2921591 ] -- Google ---> Gold-Diggers Hotel 34.0905403 -118.3125108 5.0
+The Club[ 34.24025375 -116.9152715 ] -- Google ---> Bluegreen The Club at Big Bear Village 34.2396457 -116.9154149 4.8
+Riviera Beach & Spa Resort[ 33.4604868 -117.6754344 ] -- Google ---> Riviera Beach 26.7753405 -80.0580969 -1.0
+Snow Bear Lodge[ 34.2418991 -116.9182856 ] -- Google ---> Snow Bear Lodge 34.2420418 -116.9182245 4.4
+Metro Plaza Hotel[ 34.0585008 -118.2378332 ] -- Google ---> Metro Plaza Hotel 34.0588338 -118.2376156 3.7
+Best Western Plus Dragon Gate Inn[ 34.0632755 -118.2390046 ] -- Google ---> Best Western Plus Dragon Gate Inn 34.063266 -118.238944 4.1
+Hilton Long Beach[ 33.7680314 -118.2013886 ] -- Google ---> Hilton Long Beach 33.7680318 -118.2012556 4.2
+The Standard[ 34.0501698 -118.25698455 ] -- Google ---> The Standard, Downtown LA 34.0501865 -118.2571724 4.2
+Westin Bonaventure[ 34.0527407 -118.255872 ] -- Google ---> The Westin Bonaventure Hotel & Suites, Los Angeles 34.0527773 -118.255596 4.4
+Hilton Checkers[ 34.049612249999996 -118.25498475 ] -- Google ---> Hilton Checkers Los Angeles 34.0496146 -118.2549957 4.1
+Figueroa Hotel[ 34.0455419 -118.2640734 ] -- Google ---> Hotel Figueroa 34.045565 -118.2640127 4.3
+Knott's Berry Farm Hotel[ 33.8404337 -117.99867135 ] -- Google ---> Knott's Berry Farm Hotel 33.8403862 -117.9990948 4.2
+The Villas at Disney's Grand Californian Hotel[ 33.8069162 -117.9227207 ] -- Google ---> Disney's Grand Californian Hotel & Spa 33.8076278 -117.9229558 4.7
+Aztec Hotel[ 34.151536 -118.0057963 ] -- Google ---> Aztec Hotel 34.1514374 -118.0058006 3.9
+Springhill Suites by Marriott[ 34.1410485 -118.02573885000001 ] -- Google ---> SpringHill Suites by Marriott Pasadena Arcadia 34.1410688 -118.0257028 4.1
+Sunset Tower Hotel[ 34.09505765 -118.37211645 ] -- Google ---> Sunset Tower Hotel 34.0951507 -118.372028 4.5
+Luxe Hotel[ 34.04425335 -118.26417795 ] -- Google ---> Luxe City Center Hotel 34.0443197 -118.2641283 4.1
+Residence Inn by Marriot[ 33.8930105 -118.36554 ] -- Google ---> Residence Inn by Marriott Los Angeles Redondo Beach 33.8932847 -118.3658706 4.4
+La Paloma[ 33.3424561 -118.327848 ] -- Google ---> La Paloma 33.3419444 -118.3283333 4.3
+Sheraton Hotel[ 34.142938900000004 -118.1442182 ] -- Google ---> Sheraton Pasadena Hotel 34.1434603 -118.1442211 4.1
+Howard Johnson Hotel and Conference Center[ 33.85476835 -117.92588605 ] -- Google ---> Howard Johnson by Wyndham Fullerton Anaheim Conference Cntr 33.8548088 -117.9258346 3.5
+Ayres Hotel Anaheim[ 33.805452700000004 -117.87799465 ] -- Google ---> Ayres Hotel Anaheim 33.8058066 -117.877876 4.5
+Laguna Cliffs Resort by Marriott[ 33.4644736 -117.6916572 ] -- Google ---> iHeartYoga in the Park 33.463469 -117.6918467 5.0
+Loews Hollywood Hotel[ 34.1030931 -118.3394487 ] -- Google ---> Loews Hollywood Hotel 34.1032806 -118.339338 4.3
+Orange Drive Hostel[ 34.1035173 -118.34130675 ] -- Google ---> Orange Drive Hostel 34.1035156 -118.3413514 4.3
+Holiday Inn Express Berlin City Centre-West[ 52.50408155 13.34708835 ] -- Google ---> Holiday Inn Express Berlin City Centre-West 52.5040199 13.3470743 4.0
+Hotel Wustermark[ 52.5454204 12.94306495 ] -- Google ---> Hotel Wustermark 52.54546759999999 12.9429764 4.0
+Hotel Park Consul[ 52.52532785 13.341763199999999 ] -- Google ---> Hotel Park Consul 52.5253021 13.3417388 0.0
+Hotel Savoy[ 52.5061645 13.32750185 ] -- Google ---> Hotel Savoy Berlin 52.50618 13.32765 4.2
+Arktur City Hotel[ 52.5163929 13.31085515 ] -- Google ---> Arktur City Hotel Berlin 52.5164038 13.3108636 3.4
+Hotel Bellevue[ 52.496231050000006 13.3203322 ] -- Google ---> Empty
+Scandic Berlin Kurfürstendamm[ 52.500061450000004 13.3382003 ] -- Google ---> Scandic Berlin Kurfürstendamm 52.499973 13.339794 5.0
+Dormero Berlin Ku'damm[ 52.5004066 13.33405955 ] -- Google ---> DORMERO Hotel Berlin Ku'damm 52.5006367 13.3337171 4.5
+Park Plaza Berlin Kudamm[ 52.501422500000004 13.33139215 ] -- Google ---> Park Plaza Berlin Kudamm 52.50143629999999 13.3313439 3.9
+Crowne Plaza Berlin City Centre[ 52.50390615 13.340724550000001 ] -- Google ---> Crowne Plaza Berlin City Centre 52.5039612 13.3406505 4.4
+Hotel Arrival[ 52.4998384 13.3344228 ] -- Google ---> Hotel Arrival 52.4998558 13.3343402 3.1
+25hours Hotel Bikini Berlin[ 52.50563185 13.33789925 ] -- Google ---> 25hours Hotel Bikini Berlin 52.5055782 13.3371626 4.6
+Quentin Berlin am Kurfürstendamm[ 52.498887749999994 13.30902025 ] -- Google ---> Quentin Berlin 52.4988791 13.3090559 3.6
+Lindner Hotel Am Ku'damm Berlin[ 52.50390875 13.329382299999999 ] -- Google ---> Lindner Hotel Am Ku'damm 52.5037207 13.3295857 4.5
+Sylter Hof[ 52.50336555 13.347715050000001 ] -- Google ---> Hotel Sylter Hof Berlin 52.5031752 13.3477056 4.2
+Waldorf Astoria Berlin[ 52.5055837 13.3329108 ] -- Google ---> Waldorf Astoria Berlin 52.505698 13.3330139 4.5
+Cortina[ 52.5058287 13.3190576 ] -- Google ---> Der Kuchenladen 52.505888 13.31836 4.4
+Hotel Berolina an der Gedächtniskirche[ 52.5037927 13.3354531 ] -- Google ---> Berolina Hotel an der Gedächtniskirche 52.5037031 13.335734 3.8
+Hotel Zoo[ 52.5035603 13.3290084 ] -- Google ---> Hotel Zoo Berlin, a Member of Design Hotels 52.5036072 13.3290393 4.4
+Novum Aldea Berlin Zentrum[ 52.49761735 13.36043605 ] -- Google ---> Novum Hotel Aldea Berlin Centrum 52.49785079999999 13.3603688 3.7
+Hotel Lützow[ 52.5060467 13.348370599999999 ] -- Google ---> Hotel Lützow 52.5060633 13.3483904 3.8
+Pestana Berlin Tiergarten[ 52.5084185 13.3485652 ] -- Google ---> Pestana Berlin Tiergarten 52.50843 13.3485739 4.4
+Hotel City Gallery Berlin[ 52.4914834 13.335217799999999 ] -- Google ---> City West Apartments 52.4914701 13.3352632 5.0
+NH Berlin City West[ 52.48868445 13.330349 ] -- Google ---> Hotel NH Berlin City West 52.4887619 13.330596 4.0
+Carolinenhof[ 52.489614700000004 13.328361600000001 ] -- Google ---> Hotel Carolinenhof 52.48968 13.32832 4.0
+Golden Tulip Berlin - Hotel Hamburg[ 52.5042234 13.3489323 ] -- Google ---> Golden Tulip Berlin - Hotel Hamburg 52.5041072 13.3488138 4.2
+Sheraton Berlin Grand Hotel Esplanade[ 52.505584549999995 13.35485165 ] -- Google ---> Sheraton Berlin Grand Hotel Esplanade 52.50559699999999 13.354924 4.4
+ibis budget Berlin Alexanderplatz[ 52.525214649999995 13.42123425 ] -- Google ---> ibis budget Berlin Alexanderplatz 52.5253491 13.4210933 4.0
+Novum Franke am Kurfürstendamm[ 52.495803550000005 13.3036775 ] -- Google ---> Hotel Franke 52.4958207 13.3035775 3.7
+Ringhotel Seehof Berlin[ 52.50714910000001 13.288855000000002 ] -- Google ---> Ringhotel Seehof Berlin 52.5072222 13.2888889 4.1
+hotel-/hostelboat Eastern Comfort[ 52.50290895 13.44433555 ] -- Google ---> Eastern Comfort Hostel Boat 52.5032642 13.4443539 4.2
+Ibis Berlin Hauptbahnhof[ 52.52710235 13.37010505 ] -- Google ---> ibis Berlin Hauptbahnhof 52.5268958 13.3698966 4.3
+Amano Grand Central[ 52.5272357 13.3703938 ] -- Google ---> Hotel AMANO Grand Central 52.5272798 13.3704511 4.4
+Michels Apart Hotel Berlin[ 52.508266 13.2457566 ] -- Google ---> Michels Apart Hotel Berlin 52.5082647 13.2457112 4.3
+Motel One Berlin-Mitte[ 52.5042184 13.4114767 ] -- Google ---> Hotel Motel One Berlin-Mitte 52.5042425 13.4115096 4.4
+Gat Point Charlie[ 52.5088392 13.388178400000001 ] -- Google ---> Gat Point Charlie Hotel 52.5089527 13.3884878 4.4
+Maritim Hotel Berlin[ 52.507367349999996 13.36393385 ] -- Google ---> Maritim Hotel Berlin 52.5075862 13.3635465 4.4
+Motel One Berlin-Hauptbahnhof[ 52.5257606 13.3657297 ] -- Google ---> Hotel Motel One Berlin-Hauptbahnhof 52.5256741 13.3659074 4.4
+monbijou hotel[ 52.5230912 13.40019545 ] -- Google ---> Monbijou Hotel 52.522996 13.3999922 4.4
+Hotel Amano[ 52.5282647 13.4028275 ] -- Google ---> Hotel AMANO 52.52827139999999 13.4027557 4.3
+Hotel 4 Youth[ 52.539652849999996 13.402033450000001 ] -- Google ---> H+ Hotel 4Youth Berlin 52.5396869 13.4020197 4.2
+EastSeven Berlin Hostel[ 52.5334686 13.4107237 ] -- Google ---> EastSeven Hostel Berlin 52.53346519999999 13.4107353 4.7
+Ibis Styles Berlin Alexanderplatz[ 52.523718599999995 13.4162146 ] -- Google ---> Empty
+Wyndham Garden Berlin Mitte[ 52.5552929 13.3870292 ] -- Google ---> Wyndham Garden Berlin Mitte 52.5552778 13.3869444 3.8
+Mani[ 52.529289750000004 13.399650000000001 ] -- Google ---> Hotel MANI by AMANO Group 52.5293018 13.3996521 4.4
+Park Inn by Radisson Berlin-Alexanderplatz[ 52.522795450000004 13.412890749999999 ] -- Google ---> Park Inn by Radisson Berlin Alexanderplatz Hotel 52.522811 13.4131023 4.1
+Soho House Berlin[ 52.5277678 13.41565555 ] -- Google ---> Soho House Berlin 52.5275688 13.4156376 4.4
+Lux 11[ 52.5245961 13.4098329 ] -- Google ---> Lux Eleven Berlin-Mitte 52.524652 13.4098849 4.4
+Pension Marie[ 52.5506494 13.411369 ] -- Google ---> Pension Marie 52.5506596 13.411351 3.8
+Alecsa Hotel am Olympiastadion[ 52.5109782 13.2207572 ] -- Google ---> Alecsa Hotel am Olympiastadion 52.5109291 13.2206459 3.9
+City Guesthouse Pension Berlin[ 52.5473923 13.4110617 ] -- Google ---> City Guesthouse Pension Berlin 52.5473137 13.4112491 3.9
+t&c apartments[ 52.5487127 13.4109214 ] -- Google ---> R. T - Novo Paraíso -10.9093069 -37.08205 -1.0
+1a pension apartment berlin[ 52.5451996 13.4115815 ] -- Google ---> Pension 1a Apartment Berlin 52.5452457 13.411573 4.0
+Alexander Plaza[ 52.5215989 13.404145549999999 ] -- Google ---> Hotel Alexander Plaza 52.521648 13.404264 4.3
+nhow Berlin[ 52.501094699999996 13.4508476 ] -- Google ---> Hotel nhow Berlin 52.501107 13.450851 4.3
+Hotel am Hermannplatz[ 52.4898639 13.4237472 ] -- Google ---> Hotel am Hermannplatz 52.489885 13.4237259 3.9
+Armony Hotel[ 52.5043955 13.4267256 ] -- Google ---> a&o Hostel Berlin Mitte 52.5088508 13.4239995 3.1
+Hüttenpalast[ 52.489252 13.4263848 ] -- Google ---> Hüttenpalast 52.48936399999999 13.425946 4.5
+Vier Jahreszeiten[ 52.498744 13.4261422 ] -- Google ---> Lele 52.49968 13.42579 4.3
+Schokoladenfabrik[ 52.4938371 13.4238183 ] -- Google ---> Empty
+Albena[ 52.3625499 14.0672257 ] -- Google ---> ?????? 43.36781939999999 28.0800689 -1.0
+Van der Valk Hotel Berlin Brandenburg[ 52.308961100000005 13.445951050000001 ] -- Google ---> Van der Valk Hotel Berlin Brandenburg 52.3086111 13.4458333 4.4
+Waldrestaurant[ 52.2983868 13.4443695 ] -- Google ---> Waldrestaurant 52.2983333 13.4441667 4.3
+Townhouse[ 52.3109701 13.4396864 ] -- Google ---> Empty
+Almodóvar Hotel[ 52.50897325 13.46629365 ] -- Google ---> Almodóvar Hotel 52.5088498 13.4661812 4.1
+Hotel Esplanade Resort & Spa[ 52.29188895 14.0463305 ] -- Google ---> Hotel Esplanade Resort & Spa 52.2918068 14.0468815 4.5
+Hotel Stadt Beelitz[ 52.234077400000004 12.9778281 ] -- Google ---> Hotel Stadt Beelitz 52.2340998 12.9779837 4.4
+Hotel Restaurant Seehof[ 52.34957905 12.703645550000001 ] -- Google ---> Seehof Netzen 52.3494444 12.7038889 4.2
+Pension Masuch[ 52.93778075 12.429318250000001 ] -- Google ---> Pension Miss Sophie 52.9377866 12.4294827 4.8
+Waldschlösschen[ 52.93734155 12.4364889 ] -- Google ---> Hotel Waldschlösschen 52.9374333 12.4365278 4.5
+Christinenhof & Spa[ 51.89722315 14.45758655 ] -- Google ---> Christinenhof & Spa 51.8972701 14.4573411 4.3
+Familienhotel Brandtsheide[ 52.088916049999995 12.4452534 ] -- Google ---> Familienhotel Brandtsheide 52.0892198 12.4453454 4.3
+Schwalbennest[ 52.7458611 12.3852016 ] -- Google ---> Empty
+Gasthaus Simke[ 52.21740565 14.11686085 ] -- Google ---> Gasthof Simke 52.21734 14.1170699 4.2
+Hotel Falkensee[ 52.565074949999996 13.1115767 ] -- Google ---> Hotel Falkensee 52.565062 13.111625 4.1
+Bonhoeffer-Haus[ 52.72618775 13.59562245 ] -- Google ---> Hoffnungstaler Stiftung Lobetal, Bonhoeffer- Haus 52.7263846 13.5963082 3.8
+Landhotel Krausnick[ 52.0348683 13.8368854 ] -- Google ---> Landhotel Krausnick 52.03485149999999 13.8369905 4.3
+Dorint Hotel Sanssouci Berlin/Potsdam[ 52.40917145 13.05329965 ] -- Google ---> Dorint Hotel Sanssouci Berlin/Potsdam 52.40906400000001 13.0538364 4.2
+Mercure Hotel Potsdam City[ 52.39370455 13.0599056 ] -- Google ---> Mercure Hotel Potsdam City 52.39425 13.05895 4.1
+Hotel am Großen Waisenhaus[ 52.3974454 13.0507945 ] -- Google ---> Hotel Am Großen Waisenhaus 52.39746299999999 13.050727 4.7
+Hotel Waldfrieden[ 52.917880600000004 12.82438385 ] -- Google ---> Hotel & Restaurant Waldfrieden 52.91813 12.82427 4.3
+Birkensteiner Hof[ 52.518081699999996 13.65782055 ] -- Google ---> Hotel Birkensteiner Hof 52.51815 13.6581599 4.6
+Grimm's[ 52.503101900000004 13.3728113 ] -- Google ---> Grimm's Hotel am Potsdamer Platz 52.5030681 13.3730329 4.6
+Hotel Albrechtshof[ 52.52201895 13.384157049999999 ] -- Google ---> Hotel Albrechtshof 52.5220863 13.3843598 4.2
+Lindemann's[ 52.4937705 13.361362 ] -- Google ---> LINDEMANN´S 52.493756 13.361295 4.5
+Fjord Hotel Berlin[ 52.50341645 13.370406299999999 ] -- Google ---> fjord hotel berlin 52.50326889999999 13.3703559 4.4
+Rewari Hotel Berlin[ 52.500898500000005 13.3873838 ] -- Google ---> Rewari Hotel Berlin 52.5008358 13.3872735 4.2
+Central-Hotel Eberswalde[ 52.8559781 13.7728545 ] -- Google ---> Central-Hotel Eberswalde 52.8560022 13.772885 3.6
+B&B Hotel Berlin-Potsdamer Platz[ 52.5027272 13.365007 ] -- Google ---> Empty
+Apart Hotel Residenz Am Deutschen Theater[ 52.5227794 13.3829623 ] -- Google ---> ApartHotel Residenz Am Deutschen Theater 52.522867 13.3819009 4.6
+Allee-Hotel Berlin[ 52.4863061 13.5350233 ] -- Google ---> Allee-Hotel Berlin 52.4865 13.535 4.4
+Mercure Hotel Berlin Mitte[ 52.5003267 13.375623099999999 ] -- Google ---> Mercure Hotel Berlin Mitte 52.5003049 13.3755644 4.2
+Academy-Hotel[ 52.4991969 13.369386 ] -- Google ---> Empty
+NH Berlin Potsdamer Platz[ 52.5015937 13.3856171 ] -- Google ---> Hotel NH Berlin Potsdamer Platz 52.5016019 13.3855913 4.1
+Flottwell Berlin Hotel & Residenz am Park[ 52.500153 13.3705835 ] -- Google ---> FLOTTWELL BERLIN Hotel & Residenz am Park 52.50015399999999 13.3706483 4.7
+Hotel Potsdamer Hof Berlin Am Potsdamer Platz[ 52.504702 13.3667324 ] -- Google ---> B&B Hotel 52.5027594 13.3650664 4.4
+Sarotti-Höfe[ 52.4910469 13.3879601 ] -- Google ---> SAROTTI HÖFE BERLIN showroom Ariostea 52.4912133 13.3890824 4.8
+relexa hotel Stuttgarter Hof Berlin[ 52.5049304 13.3851932 ] -- Google ---> relexa hotel Berlin 52.5049 13.38511 4.2
+Hotel Tagungshaus Tiergarten[ 52.5024306 13.3676051 ] -- Google ---> Hotel Tagungshaus Tiergarten 52.5025 13.3675 3.1
+Zur Eiche[ 52.2951929 13.5865539 ] -- Google ---> Zur Eiche 52.29520720000001 13.5865658 3.7
+Garni Hotel Molks[ 52.54602 13.5109605 ] -- Google ---> Hotel Molks 52.5460541 13.5108602 3.5
+Zum Goldenen Stern[ 51.9908588 13.0810405 ] -- Google ---> Zum Goldenen Stern 51.99084879999999 13.0811132 4.0
+Berlin Hostel[ 52.5251278 13.5310368 ] -- Google ---> Empty
+AapHotel.com[ 52.525111 13.5302697 ] -- Google ---> AapHotel.com ? Hotel & Hostel in Berlin 52.5251017 13.5302059 2.5
+ibis budget Hotel Berlin Ost Marzahn[ 52.5260934 13.5297257 ] -- Google ---> ibis budget Berlin Ost 52.5260933 13.530544 2.7
+Bergschlößchen[ 52.0028994 13.0861265 ] -- Google ---> Bergschlößchen 52.00285 13.08646 4.0
+Goldener Anker[ 51.9898342 13.0765744 ] -- Google ---> Gasthof mit Hotel Goldener Anker 51.9898348 13.0765554 4.0
+Seehotel am Südhorn[ 52.2153674 14.00913875 ] -- Google ---> Hotel am See 52.2154317 14.0090799 4.0
+City Residence Hotel Frankfurt-Oder[ 52.338275949999996 14.5463952 ] -- Google ---> City Residence Hotel Frankfurt Oder 52.3381424 14.5462237 4.3
+Pension Pauline[ 52.2347111 12.97239575 ] -- Google ---> Pension Pauline 52.2347011 12.9724889 4.7
+Havel Lodge[ 52.56953995 13.22951265 ] -- Google ---> Hotel Havel Lodge 52.5696718 13.2294073 3.9
+Villa Maxi[ 52.58297755 13.412184 ] -- Google ---> Pension Villa-Maxi 52.5829874 13.412218 4.7
+Hotel Johann[ 52.4957593 13.4000331 ] -- Google ---> Hotel Johann 52.495769 13.4000542 4.6
+Titanic Comfort Hotel Berlin Mitte[ 52.5102456 13.4041879 ] -- Google ---> Titanic Comfort Mitte Berlin 52.51024959999999 13.4041892 4.1
+Best Western Hotel am Spittelmarkt[ 52.510065499999996 13.405086350000001 ] -- Google ---> Best Western Hotel am Spittelmarkt 52.509984 13.4054872 4.1
+Motel One Berlin-Spittelmarkt[ 52.51069875 13.40085915 ] -- Google ---> Hotel Motel One Berlin-Spittelmarkt 52.5108794 13.4008521 4.4
+Sofitel Berlin Gendarmenmarkt[ 52.5144643 13.3909521 ] -- Google ---> Hotel Berlin Gendarmenmarkt 52.5144748 13.3910219 4.5
+Cityhotel am Gendarmenmarkt[ 52.5110573 13.3933378 ] -- Google ---> Cityhotel Am Gendarmenmarkt 52.51109049999999 13.3932246 3.8
+Clipper City Home[ 52.5158245 13.3899782 ] -- Google ---> Clipper City Home Berlin 52.5158219 13.3901132 4.7
+Schloss-Hotel[ 52.338726 13.3522689 ] -- Google ---> DiedersHof 52.3395822 13.3551272 4.8
+InterCityHotel Berlin-Brandenburg Airport[ 52.39221635 13.51830625 ] -- Google ---> IntercityHotel Berlin-Brandenburg Airport 52.3921832 13.5183348 4.3
+Steps Hotel[ 52.5522042 13.3604918 ] -- Google ---> Steps Hotel 52.5520229 13.360537 3.7
+Zum Schwan[ 52.1719707 14.246415 ] -- Google ---> "Hotel zum Schwan" in Beeskow 52.1720367 14.2464265 4.1
+Hotel Alt-Tempelhof[ 52.4641067 13.3848349 ] -- Google ---> Hotel Alt-Tempelhof 52.46401669999999 13.3847723 3.9
+Pension Kreuzberg[ 52.4944396 13.3840629 ] -- Google ---> Pension Freddi 52.4944 13.38412 3.9
+Villa Lindenhof[ 52.4070104 12.4098707 ] -- Google ---> Villa Lindenhof 52.40705 12.40986 4.4
+Zur Alten Feuerwehr[ 51.8691978 13.9691395 ] -- Google ---> Zur Alten Feuerwehr 51.86922999999999 13.96881 0.0
+Helenenhof[ 52.7124449 12.933498400000001 ] -- Google ---> Hotel Helenenhof 52.7125881 12.9332579 4.1
+Zum Goldenen Löwen[ 51.8583043 14.4118226 ] -- Google ---> Hotel & Restaurant "Zum Goldenen Löwen" 51.8582954 14.4118249 4.1
+Haus am Spreebogen[ 52.3607364 14.055394 ] -- Google ---> Haus Am Spreebogen 52.3607563 14.0552308 4.2
+Seegasthof[ 52.5758496 13.8787496 ] -- Google ---> Der Seegasthof 52.5757817 13.8787899 3.7
+Landgasthof[ 52.3389752 13.3533757 ] -- Google ---> Landgasthof Diedersdorf 52.3385572 13.3529276 4.1
+Novum Hotel Gates[ 52.5096029 13.3226826 ] -- Google ---> Novum Hotel Gates Berlin Charlottenburg 52.509595 13.322694 3.9
+Charleston[ 51.8679813 13.9685751 ] -- Google ---> Charleston 32.7764749 -79.93105120000001 -1.0
+Hotel-Gästehaus Spreeufer[ 51.9406395 13.8952351 ] -- Google ---> Hotel Spreeufer 51.9406142 13.895164 4.3
+Riehmers Hofgarten[ 52.4931717 13.3847258 ] -- Google ---> Hotel Riehmers Hofgarten 52.4931762 13.3848702 3.9
+Art Nouveau[ 52.50288 13.3131849 ] -- Google ---> Hotel Art Nouveau 52.502812 13.313137 4.6
+ibis Styles Berlin City Ost[ 52.512923650000005 13.4663498 ] -- Google ---> ibis Styles Berlin City Ost 52.5129366 13.4664208 3.8
+Kima[ 52.5003523 13.3151271 ] -- Google ---> Hotel-Pension Kima 52.50036850000001 13.3153352 3.6
+Hotel garni Am Katharinenholz[ 52.4179176 13.020683 ] -- Google ---> Hotel Potsdam am Katharinenholz 52.41787 13.02093 4.7
+Ibis Berlin Messe[ 52.5069459 13.2801125 ] -- Google ---> ibis Berlin Messe 52.50695589999999 13.2801027 3.8
+Berliner Hof[ 52.5036582 13.3386076 ] -- Google ---> Berliner Hof Hotel Berlin 52.5036954 13.3387669 3.9
+Hotel California[ 52.5025008 13.3238124 ] -- Google ---> Hotel California 52.50254409999999 13.323954 3.6
+Hotel Askanischer Hof[ 52.5012955 13.3158906 ] -- Google ---> Askanischer Hof 52.5013917 13.3158357 3.5
+Pension Oase[ 52.4588993 13.384666 ] -- Google ---> Pension Oase 52.45894999999999 13.38479 3.5
+Bella[ 52.497772 13.3248437 ] -- Google ---> Empty
+Hotel Birkenwerder[ 52.6877248 13.2870532 ] -- Google ---> ANDERSEN HOTEL 52.6874744 13.2878577 4.0
+City Hotel am Kurfürstendamm[ 52.5000093 13.3097609 ] -- Google ---> City Hotel 52.5000454 13.3098071 3.2
+Leonardo Hotel Berlin[ 52.5128662 13.3046531 ] -- Google ---> Leonardo Hotel Berlin 52.512826 13.3046589 4.3
+Amadeus Central[ 52.4865112 13.2971813 ] -- Google ---> Hotel Amadeus Central 52.4865416 13.2973577 2.6
+Hotel Classic[ 52.5026329 13.3433634 ] -- Google ---> Hotel Pension Classic Berlin 52.502682 13.3434025 4.3
+Omas Speisekammer[ 52.8681204 13.748903 ] -- Google ---> Oma´s Speisekammer 52.8681107 13.7489471 4.4
+Kastanienhof[ 52.5347495 13.4061413 ] -- Google ---> Hotel Kastanienhof 52.5347611 13.4061133 4.5
+Jurine[ 52.534065 13.409096 ] -- Google ---> Hotel Jurine 52.5340934 13.4091647 3.8
+Bornholmer Hof[ 52.5528233 13.41256875 ] -- Google ---> bornholmer Hof 52.5535132 13.4122174 3.5
+Hotel 103[ 52.5530834 13.413911 ] -- Google ---> Hotel 103 52.55296430000001 13.4138563 3.6
+Berlin Marriott Hotel[ 52.5110978 13.3760721 ] -- Google ---> Berlin Marriott Hotel 52.5109109 13.3761401 4.5
+Café-Hotel M68[ 52.5104691 13.3867069 ] -- Google ---> Hotel M68 52.5105259 13.3868263 3.5
+The Westin Grand Berlin[ 52.5158768 13.3886042 ] -- Google ---> The Westin Grand Berlin 52.515956 13.388512 4.5
+The Mandala Hotel[ 52.5089383 13.3738661 ] -- Google ---> The Mandala Hotel 52.5089801 13.3736812 4.6
+NH Berlin Mitte[ 52.5105304 13.3889847 ] -- Google ---> Hotel NH Collection Berlin Friedrichstrasse 52.5196161 13.3887727 4.5
+Maritim proArte Hotel Berlin[ 52.5182281 13.3874995 ] -- Google ---> Maritim proArte Hotel Berlin 52.518452 13.3883197 4.2
+Kubrat[ 52.5100835 13.389129 ] -- Google ---> Empty
+Grand Hyatt Berlin[ 52.5081971 13.3724841 ] -- Google ---> Grand Hyatt Berlin 52.5082892 13.3727104 4.6
+Arte Luise Kunsthotel[ 52.5216849 13.3795451 ] -- Google ---> Arte Luise Arthotel 52.5217266 13.3796396 4.1
+Eurostars Berlin[ 52.5203778 13.3892538 ] -- Google ---> Block House 52.520458 13.388587 4.5
+Residenz am Deutschen Theater[ 52.5226092 13.3820948 ] -- Google ---> ApartHotel Residenz Am Deutschen Theater 52.522867 13.3819009 4.6
+ibis Berlin City Potsdamer Platz[ 52.5047592 13.3842582 ] -- Google ---> ibis Berlin City Potsdamer Platz 52.5047283 13.3840823 4.0
+Suite Novotel Berlin City Potsdamer Platz[ 52.5045858 13.3833431 ] -- Google ---> Novotel Suites Berlin City Potsdamer Platz 52.5045583 13.3833315 4.1
+Mövenpick Hotel Berlin am Potsdamer Platz[ 52.503788 13.380411 ] -- Google ---> Mövenpick Hotel Berlin 52.5038107 13.3804042 4.5
+Holiday Inn Express Hotel Berlin City Centre[ 52.5018517 13.3852631 ] -- Google ---> Holiday Inn Express Berlin City Centre 52.5017094 13.3853619 4.1
+Alper Hotel am Potsdamer Platz[ 52.5035466 13.3657885 ] -- Google ---> Alper Hotel Am Potsdamer Platz 52.5035385 13.365739 2.5
+Comfort Hotel Lichtenberg[ 52.5334903 13.5175445 ] -- Google ---> Comfort Hotel Lichtenberg 52.5333868 13.5175705 3.8
+IB-Gästehaus[ 52.521677 13.700220999999999 ] -- Google ---> Empty
+Seelodge Kremmen[ 52.778229350000004 13.0272348 ] -- Google ---> SeeLodge im Wald- und Seegut Kremmen - Eventlocation 52.778171 13.027381 3.9
+Maschinenhaus - Restaurant, Hotel, Galerie[ 52.70034415 14.41084225 ] -- Google ---> Maschinenhaus 52.7003922 14.4107802 3.7
+Hotel Buckow[ 52.4239685 13.4392994 ] -- Google ---> Empty
+Albergo Hotel Berlin[ 52.3882187 13.5069077 ] -- Google ---> Albergo Hotel Berlin, Feiern & Tagungen in Schönefeld 52.3880164 13.5066903 4.2
+Sickinger Hof[ 52.5330618 13.3280036 ] -- Google ---> Sickinger Hof 52.5331031 13.3280575 3.2
+Hotel Grenzfall Berlin-Mitte[ 52.5357789 13.3891035 ] -- Google ---> Hotel Grenzfall 52.53576510000001 13.3892605 4.4
+Citylight Hotel[ 52.5490807 13.3824018 ] -- Google ---> Citylight Hotel 52.54900300000001 13.382372 4.0
+Novum Business Hotel City B Berlin Centrum[ 52.4974281 13.3621985 ] -- Google ---> Novum Hotel City B Berlin Centrum 52.4973876 13.3624521 3.8
+Pension Michele[ 52.4971656 13.3539414 ] -- Google ---> Hotel-Pension Michele in Berlin Schöneberg 52.49731 13.35405 4.0
+Central Hotel[ 52.5759247 13.295399549999999 ] -- Google ---> Central-Hotel Tegel 52.5761111 13.2952778 3.2
+Stephanshof[ 51.9450764 13.8895818 ] -- Google ---> Spreewaldhotel Stephanshof 51.9451 13.8897082 4.6
+Hotel garni Aaberna[ 52.5340287 13.3415699 ] -- Google ---> Hotel garni Aaberna 52.53404889999999 13.341524 3.0
+Hotel Fortuna[ 52.5552853 13.4343472 ] -- Google ---> Hotel Fortuna Inh. Ruxandra Will 52.5550619 13.4340237 1.0
+Zum Baggernpuhl[ 52.5307779 12.7561781 ] -- Google ---> Landhotel Zum Baggernpuhl 52.5308196 12.7561452 4.0
+Hotel Krone[ 52.9697985 12.9870015 ] -- Google ---> Hotel Krone Lindow 52.9697538 12.9870689 4.3
+City Pension Sanader[ 52.448311399999994 13.384874 ] -- Google ---> City Pension Sanader 52.4483747 13.3849038 1.5
+Hotel Goldener Adler[ 51.865750000000006 12.6440114 ] -- Google ---> Empty
+Klosterhotel Neuzelle[ 52.091901 14.648799799999999 ] -- Google ---> Klosterhotel Neuzelle 52.0919444 14.6488889 4.3
+Landhotel Burg im Spreewald[ 51.8559449 14.108535100000001 ] -- Google ---> Landhotel Burg im Spreewald 51.8558731 14.1085109 4.4
+Waldhotel Eiche[ 51.8782232 14.0866017 ] -- Google ---> Waldhotel Eiche 51.8781346 14.0864033 4.2
+Havelschloß Zehdenick[ 52.98430905 13.332844099999999 ] -- Google ---> im Havelschloss Zehdenick 52.9842201 13.3328686 4.6
+Korona[ 52.3377647 14.5851401 ] -- Google ---> Hotel Korona 52.337687 14.5852883 3.9
+Pension am Schloß[ 52.2987266 13.6239937 ] -- Google ---> Castle & Castle Garden Koenigs Wusterhausen 52.298283 13.625036 4.4
+Baranowski - Hotel[ 52.334369 14.5944719 ] -- Google ---> Hotel Baranowski 52.3347222 14.5944444 4.1
+Kaiserhof[ 52.361365 14.0610764 ] -- Google ---> HOTEL KAISERHOF 52.36139259999999 14.061107 4.2
+Pension Brinn[ 52.5110729 13.3186097 ] -- Google ---> Pension Brinn 52.511074 13.3188389 4.6
+Hotel Tiergarten[ 52.5251174 13.3438082 ] -- Google ---> MEININGER Hotel Berlin Tiergarten 52.5264725 13.3443367 4.3
+Hotel Gendarm nouveau[ 52.511704 13.3914281 ] -- Google ---> Hotel Gendarm nouveau 52.51183 13.39133 4.2
+Hotel Lindenufer[ 52.5381657 13.2070013 ] -- Google ---> Hotel Lindenufer 52.5382196 13.2071042 4.0
+Come Inn Berlin Kurfürstendamm Opera[ 52.5001278 13.3121555 ] -- Google ---> Come Inn 52.5001221 13.3121919 3.8
+The Circus Hotel[ 52.5293842 13.4012578 ] -- Google ---> The Circus 52.52937009999999 13.4013814 4.6
+Hotel Gendarm[ 52.511542 13.3914622 ] -- Google ---> Abm-Berlin 52.5112069 13.3950921 4.8
+Hotel Maison am Adenauerplatz[ 52.49849 13.3072327 ] -- Google ---> Hotel am Adenauerplatz 52.4984741 13.3071785 3.3
+Best Western Hotel City Ost[ 52.5147831 13.4662697 ] -- Google ---> Best Western Hotel City Ost 52.5148514 13.4659816 4.0
+Pension La rose[ 52.4163381 12.5588531 ] -- Google ---> Pension La Rose 52.4162802 12.5586593 4.2
+Hotel Abendstern[ 52.5057261 13.3042361 ] -- Google ---> Hotel Abendstern 52.505688 13.304166 3.5
+City Pension Berlin[ 52.5057149 13.30393 ] -- Google ---> CITY PENSION BERLIN 52.5057947 13.3040059 3.8
+Adam[ 52.5063092 13.3021445 ] -- Google ---> Hotel ADAM 52.5063019 13.3017073 3.2
+Hotel Altstadt Spandau[ 52.5366885 13.2064803 ] -- Google ---> Hotel Benn 52.53827810000001 13.2040242 4.5
+Hotel und Rasthof Grunewald[ 52.4342237 13.1908097 ] -- Google ---> Motel und Rasthof Grunewald 52.4341667 13.1908333 3.8
+Übernachten im Gurkenfass[ 51.8618356 13.9688266 ] -- Google ---> Mini Hotel Übernachten Im Gurkenfass 51.86189 13.9681301 4.7
+Hotel Lindenstraße - Garni[ 52.5322532 13.669023 ] -- Google ---> Hotel Lindenstraße 52.5323946 13.6688794 4.6
+Pension Grossbeeren[ 52.3482724 13.3084844 ] -- Google ---> Berolina Hotels GmbH 52.3495426 13.3075917 3.3
+Mercure Hotel Berlin City West[ 52.53571 13.2730289 ] -- Google ---> Mercure Hotel Berlin City West 52.5356967 13.2729944 4.0
+Landhotel Hohenschöpping[ 52.6708985 13.2287465 ] -- Google ---> Landhotel Hohenschöpping 52.67082 13.22936 4.0
+Hotel Spreewitz[ 52.5065835 13.3036475 ] -- Google ---> Hotel Spreewitz 52.50651 13.3036399 3.2
+Pension Zur Hecke[ 52.3653901 13.5572409 ] -- Google ---> Gasthaus Zur Hecke 52.36543649999999 13.5572136 4.5
+Löwenberger Hof[ 52.8937464 13.1538978 ] -- Google ---> Hotel Löwenberger Hof 52.8936313 13.1533818 3.4
+Hotel Berliner Bär[ 52.46646775 13.39491515 ] -- Google ---> Berliner Baer Hotel Berlin 52.4662819 13.3946686 3.6
+Ariadna Apart Hotel[ 52.5510914 13.4641136 ] -- Google ---> Aparthaus Ariadna 52.5510926 13.4641716 3.0
+ADAPT APARTMENTS Berlin GmbH[ 52.4328728 13.5321892 ] -- Google ---> ADAPT APARTMENTS Berlin GmbH 52.43280499999999 13.53231 4.5
+Best Western Premier Airporthotel Fontane Berlin[ 52.3622465 13.4283782 ] -- Google ---> Best Western Premier Airporthotel Fontane Berlin 52.3613278 13.4288316 3.9
+Aquadom Sealife[ 52.5196002 13.40269 ] -- Google ---> AquaDom & SEA LIFE Berlin 52.5201544 13.4036905 3.9
+Holiday Inn Berlin City Center East - Prenzlauer Allee[ 52.5477676 13.428231 ] -- Google ---> Holiday Inn Berlin City Center East Prenzlauer Berg 52.5478224 13.4282434 4.3
+Hotel ibis Berlin Mitte[ 52.5290575 13.4181101 ] -- Google ---> ibis Berlin Mitte 52.52892689999999 13.4182915 4.2
+Berlin Mark Hotel[ 52.5008246 13.3291182 ] -- Google ---> Berlin Mark Hotel 52.50060089999999 13.3290307 3.3
+Zum Rittmeister[ 52.408970100000005 12.865986849999999 ] -- Google ---> Hotel und Restaurant "Zum Rittmeister" 52.408604 12.867275 4.6
+Hotel Haus am See[ 52.31811275 12.9292373 ] -- Google ---> Haus am See 52.31803859999999 12.9292608 4.3
+Waldhotel Wandlitz[ 52.7434037 13.476243499999999 ] -- Google ---> Waldhotel Wandlitz 52.7431755 13.4765301 4.2
+hotel messe[ 52.5069489 13.2838011 ] -- Google ---> ibis Berlin Messe 52.50695589999999 13.2801027 3.8
+Hotel Villa Kastania Berlin[ 52.5103196 13.2680576 ] -- Google ---> Hotel Villa Kastania 52.5102778 13.2680556 4.4
+Brandies Hotel Berlin Messe[ 52.510166 13.2808715 ] -- Google ---> BERLINER PRIVATHOTEL Brandies 52.5102848 13.2807528 4.6
+Ivbergs Hotel[ 52.5089426 13.2698262 ] -- Google ---> Ivbergs Hotel Berlin Messe 52.5089406 13.2698375 4.0
+Concorde Hotel am Studio[ 52.5094291 13.2773806 ] -- Google ---> Concorde Hotel am Studio 52.5093944 13.2772162 4.0
+Hotel-Pension Gribnitz[ 52.5095308 13.2783242 ] -- Google ---> Hotel-Pension Gribnitz 52.50949000000001 13.27844 3.1
+Hotel Amelie[ 52.5101425 13.2799904 ] -- Google ---> Empty
+Hotel Aster an der Messe[ 52.5105784 13.2699208 ] -- Google ---> Hotel Aster 52.51055030000001 13.2698667 3.6
+Dorint Airport Hotel - Berlin Tegel[ 52.5637241 13.3309459 ] -- Google ---> Dorint Airport Hotel Berlin-Tegel 52.56342 13.33167 2.8
+Arabel Design[ 52.5017651 13.3648518 ] -- Google ---> Arabel Design Apartments 52.5016702 13.3648244 4.5
+Eigenart Appartements[ 52.5385474 13.3754027 ] -- Google ---> EigenArt Appartement Berlin 52.5385514 13.3754944 4.4
+Bärlin[ 52.5645531 13.3275914 ] -- Google ---> Berlin 52.52000659999999 13.404954 -1.0
+Days Inn Berlin West[ 52.5678696 13.3308443 ] -- Google ---> Days Inn Berlin West 52.567856 13.330789 3.3
+Big Mama[ 52.558245799999995 13.3802256 ] -- Google ---> Hotel Big Mama 52.5582474 13.3803733 4.3
+Gästehaus Axel Springer[ 52.5412753 13.3474767 ] -- Google ---> Hotel Axel Springer am Deutschen Herzzentrum 52.5413801 13.3475116 4.3
+Hotel Pension Delta[ 52.488521 13.3578712 ] -- Google ---> Hotel Pension Delta 52.4885399 13.3581699 3.0
+Hotel Potsdamer Inn[ 52.4962919 13.361656 ] -- Google ---> Potsdamer Inn 52.49629770000001 13.3617226 3.0
+Appartements Eisemann[ 52.4769165 13.3756036 ] -- Google ---> Appartements Eisemann 52.47655349999999 13.3756574 5.0
+SensCity Hotel Albergo[ 52.4899714 13.3116275 ] -- Google ---> Albergo City Hotel Berlin 52.48999999999999 13.3116667 4.0
+Ibis Hotel Berlin City West[ 52.4890701 13.3165059 ] -- Google ---> ibis Berlin City West 52.4891186 13.316607 3.9
+villa konstanz[ 52.4893934 13.3077634 ] -- Google ---> Hotel Villa Konstanz 52.48936 13.30765 4.1
+Gasteiner Hof[ 52.4875812 13.3234863 ] -- Google ---> Hotel Gasteiner Hof 52.4875743 13.3235287 3.8
+enjoy hotel Berlin City Messe[ 52.4844135 13.30816765 ] -- Google ---> enjoy hostel Berlin City West 52.48464310000001 13.3082161 3.9
+Dream Apartments[ 52.4949205 13.3261183 ] -- Google ---> Dream Apartments 52.49493100000001 13.3258568 4.2
+Centro Hotel Prinzregent[ 52.478210649999994 13.33245235 ] -- Google ---> Centro Hotel Prinzregent Berlin 52.4782369 13.3325001 3.1
+nova[ 52.492352 13.3188939 ] -- Google ---> Empty
+Pension Regenbogen[ 52.5177766 13.4686653 ] -- Google ---> Empty
+Pension Havelfloß[ 52.4122686 12.5559905 ] -- Google ---> Pension Havelfloß 52.41220430000001 12.556 4.7
+Pension Ulmenhof[ 52.2923233 13.7200794 ] -- Google ---> Empty
+Pension Am Dorfanger[ 52.67577685 13.1501136 ] -- Google ---> Pension am Dorfanger 52.67579809999999 13.1501896 3.7
+Pension am Kurbad[ 52.7772026 14.0299427 ] -- Google ---> Pension Bodo Webert 52.777928 14.023608 4.6
+Pension im Spreewald[ 51.8700805 13.9606179 ] -- Google ---> Pension Scherz 51.87031229999999 13.9605174 4.6
+Hotel-Pension Mendau[ 52.45619945 13.6115411 ] -- Google ---> Hotel - Pension Mendau 52.456199 13.6115618 4.1
+Hotel Pension Elegia[ 52.5041728 13.3161301 ] -- Google ---> Hotel Pension Elegia Berlin, Nähe Kurfürstendamm 52.504185 13.316259 3.2
+Pension Zum Lichtenberger[ 52.5020409 13.4911061 ] -- Google ---> Pension Zum Lichtenberger 52.5020846 13.4911839 4.0
+Pension Adamshof[ 52.5018944 13.4910187 ] -- Google ---> Hotel-Pension Adamshof 52.5019226 13.4912148 3.0
+Pension am Anger[ 52.506011 13.5178093 ] -- Google ---> Pension am Anger 52.506037 13.518007 2.6
+Gasthaus & Pension Domino[ 52.5070039 13.5985472 ] -- Google ---> Gasthaus und Pension Domino 52.5069745 13.5985069 4.3
+Novotel Berlin Mitte[ 52.5131672 13.4051935 ] -- Google ---> Novotel Berlin Mitte 52.51304529999999 13.4051333 4.3
+Hotel Pension Blumenbach[ 52.5411795 13.554523 ] -- Google ---> Hotel-Pension Blumenbach 52.5412355 13.554658 4.8
+Park Plaza Wallstreet[ 52.5114646 13.4078027 ] -- Google ---> Park Plaza Wallstreet Berlin Mitte 52.5115445 13.4077244 4.3
+Nikolai Residence[ 52.5171436 13.4065542 ] -- Google ---> Hotel Nikolai Residence 52.51725 13.4065 4.5
+Central Inn[ 52.5231771 13.3585761 ] -- Google ---> Hotel Central INN 52.5231508 13.3584772 3.0
+Hotel-Pension Draheim[ 52.509055 13.615056 ] -- Google ---> Pension Draheim 52.5090705 13.6150458 4.4
+Arcus Hotel garni[ 52.5169857 13.1755975 ] -- Google ---> Arcus Hotel garni 52.5169556 13.1758054 4.3
+Zum Ziehbrunnen[ 52.4951647 13.6116761 ] -- Google ---> Hotel und Gasthof Zum Ziehbrunnen 52.4952179 13.6111717 4.0
+Grimm's Hotel[ 52.508345 13.404951 ] -- Google ---> Grimm?s Berlin Mitte 52.5083333 13.405 4.5
+Hotel Herbst[ 52.5378823 13.2023839 ] -- Google ---> Hotel Herbst Berlin 52.5379617 13.2023436 4.0
+Hotel Benn[ 52.5382679 13.2040032 ] -- Google ---> Hotel Benn 52.53827810000001 13.2040242 4.5
+Hotel Kubrat[ 52.4475478 13.5787659 ] -- Google ---> Kubrat An der Spree 52.4475 13.5786111 3.3
+Hotel Ambassador Ludwigsfelde[ 52.3045313 13.2544129 ] -- Google ---> Ambassador-Ludwigsfelde 52.3045179 13.2543712 3.8
+Hotel & Restaurant zur Spreewälderin[ 51.96599995 13.614641200000001 ] -- Google ---> Hotel & Restaurant "Zur Spreewälderin" 51.9654251 13.6146805 4.0
+Hotel Ambiente[ 52.4965245 13.3478926 ] -- Google ---> Hotel Ambiente Berlin City 52.49650399999999 13.347863 3.4
+Hotel Sylter Hof Berlin[ 52.5033514 13.3477852 ] -- Google ---> Hotel Sylter Hof Berlin 52.5031752 13.3477056 4.2
+Hotel Delta[ 52.5011463 13.3628868 ] -- Google ---> Hotel Delta 52.5012 13.362876 3.7
+Hotel de France[ 52.5583037 13.3392658 ] -- Google ---> Hotel de France Berlin 52.55842999999999 13.33905 4.0
+Solitaire Hotel[ 52.5766707 13.39322405 ] -- Google ---> Solitaire Hotel 52.5764743 13.3932462 4.0
+Ibis Berlin Airport Tegel[ 52.574722300000005 13.358141700000001 ] -- Google ---> ibis Berlin Airport Tegel 52.5747471 13.3581284 3.7
+Kolo 77[ 52.5668016 13.3843081 ] -- Google ---> Kolo 77 52.5667895 13.3843193 3.4
+Hotel Larat[ 52.5693849 13.3296063 ] -- Google ---> Hotel Larat 52.56948 13.32971 3.6
+Hotel Friedenau, Das Literaturhotel Berlin[ 52.4700944 13.33773175 ] -- Google ---> Das Literaturhotel Berlin 52.47011579999999 13.3377296 4.3
+Apart Pension Babelsberg[ 52.39939925 13.11248955 ] -- Google ---> Apart PENSION BABELSBERG POTSDAM 52.39942 13.1125 4.5
+Hotel New Berlin[ 52.52434635 13.4484241 ] -- Google ---> Hotel NEWBERLIN 52.52442929999999 13.4485541 4.4
+Pension Galerie[ 52.5032507 13.3887301 ] -- Google ---> Pension Galerie Inh. Angelika Jänsch 52.50329 13.3886 4.5
+Pension Ranzig[ 52.1184892 14.1923992 ] -- Google ---> Gasthof & Pension Ranzig Inh. Eckhard Henkel 52.11842 14.19213 4.3
+Hotel Ambassador[ 52.5034126 13.344588 ] -- Google ---> SORAT Hotel Ambassador Berlin 52.50322509999999 13.344599 3.9
+Pension Rosengarten[ 52.2815644 14.040398 ] -- Google ---> Seepension Rosengarten 52.2812515 14.0400095 4.6
+Pension Poppe[ 52.9121739 13.7067206 ] -- Google ---> Hotel u. Restaurant Pension Poppe 52.9119878 13.7066438 4.4
+Kiez Pension[ 52.5139327 13.4676121 ] -- Google ---> Hotel Kiez Pension 52.51398469999999 13.4675401 4.2
+Pension Seeblick[ 52.3310262 12.9322085 ] -- Google ---> Empty
+Pension Papke[ 52.7034698 13.5886897 ] -- Google ---> Olaf Papke Reiterhof/Pension 52.70339999999999 13.58905 4.3
+Pension Sanssouci[ 52.395238 13.0406049 ] -- Google ---> Pension Sanssouci 52.3951035 13.0407945 4.0
+The Dude[ 52.511729 13.4136544 ] -- Google ---> The Dude Berlin 52.5117351 13.4136948 4.4
+Ha Long Hotel[ 52.5116461 13.4002545 ] -- Google ---> Empty
+Catalonia Berlin-Mitte[ 52.5113333 13.4156938 ] -- Google ---> Hotel Catalonia Berlin Mitte 52.511284 13.4157016 4.3
+Courtyard by Marriott Berlin Mitte[ 52.509763 13.399834 ] -- Google ---> Courtyard by Marriott Berlin City Center 52.5098225 13.399822 4.4
+Radisson Blu Hotel Berlin[ 52.5195175 13.4028297 ] -- Google ---> Radisson Blu Hotel, Berlin 52.5195608 13.402857 4.4
+Lebensquelle[ 52.5079787 13.3991588 ] -- Google ---> LebensQuelle 52.50799 13.39931 3.5
+Tom's Hotel[ 52.4979814 13.3491915 ] -- Google ---> Tom's Hotel 52.4979711 13.3491762 3.6
+Gunia[ 52.4977029 13.3493411 ] -- Google ---> Hotel Gunia 52.4976676 13.3493031 4.2
+Quentin Design Berlin Hotel[ 52.4983882 13.3483276 ] -- Google ---> Quentin Design hotel 52.4984028 13.3484722 3.5
+Mercure Hotel Berlin Zentrum[ 52.4992812 13.3479184 ] -- Google ---> Mercure Hotel Berlin Zentrum 52.4993189 13.3477742 4.0
+Villa Amadeus[ 52.5015552 13.3646277 ] -- Google ---> Empty

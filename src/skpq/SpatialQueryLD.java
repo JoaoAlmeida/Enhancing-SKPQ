@@ -110,6 +110,36 @@ public abstract class SpatialQueryLD implements Experiment {
 		return model;
 	}
 
+	protected static ArrayList<SpatialObject> loadObjectsInterestTAB(String inputFileName) throws IOException {
+
+		ArrayList<SpatialObject> objectsInterest = new ArrayList<>();
+		SpatialObject obj;
+
+		reader = new BufferedReader((new InputStreamReader(new FileInputStream(new File(inputFileName)), "UTF-8")));
+
+		String line = reader.readLine();
+
+		int i = 1;
+
+		while (line != null) {
+			
+			String[] lineVec = line.split("\t");
+			
+			String uri = lineVec[3];
+
+			String osmLabel = "(tourism) (hotel) " + lineVec[2];		
+
+			String lat = lineVec[0];
+			String lgt = lineVec[1];
+			obj = new SpatialObject(i, osmLabel, uri, lat, lgt);
+			objectsInterest.add(obj);
+			line = reader.readLine();
+
+			i++;
+		}
+		return objectsInterest;
+	}
+	
 	protected static ArrayList<SpatialObject> loadObjectsInterest(String inputFileName) throws IOException {
 
 		ArrayList<SpatialObject> objectsInterest = new ArrayList<>();
@@ -122,6 +152,7 @@ public abstract class SpatialQueryLD implements Experiment {
 		int i = 1;
 
 		while (line != null) {
+			
 			String uri = line.substring(line.indexOf("http") - 1).trim();
 
 			String osmLabel = "(tourism) (hotel) " +line.substring(line.indexOf(" ", line.indexOf(" ") + 1), line.indexOf("http") - 1).trim();
@@ -194,9 +225,7 @@ public abstract class SpatialQueryLD implements Experiment {
 
 		} catch (Exception e) {
 			throw new ExperimentException(e);
-		}
-		
-		Toolkit.getDefaultToolkit().beep();
+		}			
 	}
 
 	protected abstract void saveResults(TreeSet<SpatialObject> topK) throws IOException;
@@ -433,7 +462,7 @@ public abstract class SpatialQueryLD implements Experiment {
 	 * Change note 0.1: included best neighbor latitude and longitude in the sparql query. Updated during third article.
 	 * 
 	 * */
-	public TreeSet<SpatialObject> findFeaturesLGDBN(List<SpatialObject> interestSet, String keywords, double radius, String match){
+	public TreeSet<SpatialObject> findFeaturesLGDBN(List<SpatialObject> interestSet, String keywords, double radius, String match, String city){
 
 		//Resource is not serializable, for this reason there are two features set
 //		ArrayList<Resource> featureSet;
@@ -519,7 +548,7 @@ public abstract class SpatialQueryLD implements Experiment {
 						}
 			
 			/* Store the features that are spatially close to the POI in the cache to speed up the next queries */			
-			WebContentArrayCache featuresCache = new WebContentArrayCache("./london/pois/POI["+ a +"].cache", radius); 			
+			WebContentArrayCache featuresCache = new WebContentArrayCache("./"+city+"/pois/POI["+ a +"].cache", radius); 			
 			featuresCache.putArray(interestSet.get(a).getURI(), featureSet);					
 			
 			//Save the cache
@@ -605,13 +634,13 @@ public abstract class SpatialQueryLD implements Experiment {
 	
 	/* Used in the second article to process the query faster using cache of features in folder pois. 
 	 * Change note 0.1: include the best neighbor into the POI object. FeatureSet now stores SpatialObjects */
-	public TreeSet<SpatialObject> findFeaturesLGDFast(List<SpatialObject> interestSet, String keywords, double radius, String match){
+	public TreeSet<SpatialObject> findFeaturesLGDFast(List<SpatialObject> interestSet, String keywords, double radius, String match, String city){
 		 
 		TreeSet<SpatialObject> topK = new TreeSet<>();
 		
 		for (int a = 0; a < interestSet.size(); a++) {
 				
-			WebContentArrayCache featuresCache = new WebContentArrayCache("pois/POI["+ a +"].cache", radius);
+			WebContentArrayCache featuresCache = new WebContentArrayCache("./"+city+"/pois/POI["+ a +"].cache", radius);
 
 			try {
 				featuresCache.load();
@@ -640,6 +669,12 @@ public abstract class SpatialQueryLD implements Experiment {
 				} else {
 					abs = getTextDescriptionLGD(featureSet.get(b).getURI());
 					searchCache.putDescription(featureSet.get(b).getURI(), abs);
+					try {
+						searchCache.store();
+					} catch (IOException e) {
+						// TODO Auto-generated catch block
+						e.printStackTrace();
+					}
 				}
 				
 				double score = 0;
@@ -815,17 +850,16 @@ public abstract class SpatialQueryLD implements Experiment {
 		return topK;
 	}
 	
-	public TreeSet<SpatialObject> findFeaturesInfluence(List<SpatialObject> interestSet, String keywords, double radius, String match){
+	public TreeSet<SpatialObject> findFeaturesInfluence(List<SpatialObject> interestSet, String keywords, double radius, String match, String city){
 		 
 		TreeSet<SpatialObject> topK = new TreeSet<>();
 		
 		//Radius converted to meteres hardcoded. Must create a method to this in the future
 		double radiusMeters = 6378137 * Math.PI * radius/180;
-//		double radiusMeters = 22252.61131; apagar
 		
 		for (int a = 0; a < interestSet.size(); a++) {
 				
-			WebContentArrayCache featuresCache = new WebContentArrayCache("pois/POI["+ a +"].cache", radius);
+			WebContentArrayCache featuresCache = new WebContentArrayCache("./"+city+"/pois/POI["+ a +"].cache", radius);
 
 			try {
 				featuresCache.load();
@@ -849,10 +883,10 @@ public abstract class SpatialQueryLD implements Experiment {
 				
 				String abs;				
 				
-				if (searchCache.containsKey(featureSet.get(b).getURI())) {									
+				if (searchCache.containsKey(featureSet.get(b).getURI())) {						
 					abs = searchCache.getDescription(featureSet.get(b).getURI());
 					
-				} else {
+				} else {				
 					abs = getTextDescriptionLGD(featureSet.get(b).getURI());
 					searchCache.putDescription(featureSet.get(b).getURI(), abs);
 				}

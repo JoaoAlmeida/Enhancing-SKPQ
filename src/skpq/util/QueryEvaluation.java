@@ -11,6 +11,7 @@ import java.io.Writer;
 import java.util.ArrayList;
 import java.util.Collections;
 
+import org.apache.commons.io.FileUtils;
 import org.apache.commons.math3.distribution.ParetoDistribution;
 import org.apache.tika.mime.ProbabilisticMimeDetectionSelector;
 
@@ -361,6 +362,9 @@ public class QueryEvaluation {
 		int inc = 5, k = 5, a = 0;
 		double[][] metrics = new double[4][4];
 
+		FileUtils.cleanDirectory(new File("./thrash"));
+		FileUtils.cleanDirectory(new File("./evaluations"));
+		
 		for (int ind = 0; ind < queryKeyword.length; ind++) {
 
 			System.out.println("========== KEY: " + queryKeyword[ind].toUpperCase() + " ==========\n");
@@ -371,12 +375,13 @@ public class QueryEvaluation {
 
 				String fileName = queryName + "-LD [k=" + k + ", kw=" + queryKeyword[ind] + "].txt";
 
-				if (!arquivoCriado) {
+				if (!arquivoCriado) {										 					
 					
 					Writer output = new OutputStreamWriter(
 							new FileOutputStream("./thrash/" + fileName.split("\\.txt")[0] + " --- ratings.txt"),
 							"ISO-8859-1");
 					
+				
 					/*
 					 * Evaluation methods: 
 					 * default --> using only Google Maps rate 
@@ -386,8 +391,8 @@ public class QueryEvaluation {
 					 * personalized --> searches for the rate related to the the user preference. Each user preference is represented
 					 * by a profile. The user preference must be described manually in the method.
 					 */
-					RatingExtractor obj = new RatingExtractor("cosine");
-
+					RatingExtractor obj = new RatingExtractor("cosine");				
+					
 					ArrayList<String> rateResults = obj.rateLODresult("evaluator/" + fileName);
 
 					for (String x : rateResults) {
@@ -431,20 +436,35 @@ public class QueryEvaluation {
 	}
 
 	public static void main(String[] args) throws IOException {
-//		ParetoDistribution par = new ParetoDistribution();		
-//			
-//		System.out.println(par.logDensity(0));
 		
 		QueryEvaluation q = new QueryEvaluation();
 		
+		//Berlin
+		String keys[] = { "wheat", "software", "wedding", "herb", "door", "pen", "pension", "development", "resource", "eagle" };
+//		String keys[] = {"amenity","natural","shop","bench","tourism","bicycle","information","waste","parking","berliner"};
+				
+		//Los Angeles
+//		String keys[] = { "architect", "colony", "publication", "family", "movie", "photography", "green", "pension", "nail", "week" };
+//		String keys[] = {"amenity","avenue","road","north","east","west","south","boulevard","place","natural"};		
+		
+		//Madrid
+//		String keys[] = { "route", "performance", "thought", "interface", "lose", "stop", "treatment", "city", "weight", "birthday" };
+//		String keys[] = {"amenity","avenida","natural","shop","plaza","parking","calle","restaurant","arroyo","camino"};
+		
+		//London
 //		String keys[] = { "agency", "phone", "nike", "aquarium", "crash", "secretary", "field", "medicine", "father", "tennis" };
-		String keys[] = {"amenity","shop","restaurant","close","street","road","avenue","drive","lane","pub"};
-//		String keys[] = {"field"};		
+//		String keys[] = {"amenity","shop","restaurant","close","street","road","avenue","drive","lane","pub"};
+		
+//		New York
+//		String keys[] = { "importance", "food", "perspective", "concept", "resource", "queen", "chemistry", "apartment", "department", "database" };
+//		String keys[] = {"amenity","shop","street","bicycle","place","natural","tree","road","avenue","drive"};
+		
+//		String keys[] = {"family", "movie"};		
 
-//		q.evaluateQueriesGroup("Pareto", keys, 20);		
+		q.evaluateQueriesGroup("Pareto", keys, 20);		
 //		q.evaluateQueriesGroup("SKPQ", keys, 20);	
-		q.evaluateQueriesGroup("ParetoSearch", keys, 20);
-//		q.evaluateQueriesGroup("SKPQPareto", keys, 20);
+//		q.evaluateQueriesGroup("ParetoSearch", keys, 20);
+//		q.evaluateQueriesGroup("InfluenceSearch", keys, 20);
 	}
 
 }

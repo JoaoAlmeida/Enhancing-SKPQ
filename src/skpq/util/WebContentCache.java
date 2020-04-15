@@ -242,7 +242,7 @@ public class WebContentCache {
 		WebContentCache cache = new WebContentCache("descriptions.ch");
 
 		try {
-			cache.mergecache("descriptions0.01.ch");
+			cache.mergecache("descriptionsBerlin.ch");
 		} catch (ClassNotFoundException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

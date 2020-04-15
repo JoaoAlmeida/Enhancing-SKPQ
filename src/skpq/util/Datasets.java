@@ -213,7 +213,7 @@ public class Datasets {
 	// usando tab para separar os valores
 	public void interestObjectCreateFileTAB(String nomeArquivo) throws IOException {
 
-		System.out.println("Creating the POIs File...");
+		System.out.println("Creating the POIs File...\n");
 
 		Writer fileWrt = new OutputStreamWriter(new FileOutputStream("DatasetsOutput\\" + nomeArquivo, true),
 				"ISO-8859-1");
@@ -236,7 +236,7 @@ public class Datasets {
 //				System.out.println(label + " " + lat + " " + lgt);
 					String link = getOSMObject2("http://linkedgeodata.org/sparql", line, label, lat, lgt);
 
-					fileWrt.append(lat + " " + lgt + " " + label + " " + link + "\n");
+					fileWrt.append(lat + "\t" + lgt + "\t" + label + "\t" + link + "\n");
 
 					fileWrt.close();
 
@@ -247,6 +247,10 @@ public class Datasets {
 			line = reader.readLine();
 		}
 		System.out.println("\nFile created!");
+
+		fileHeallthCheck("./datasetsOutput/"+nomeArquivo);
+		
+		System.out.println("\nFile checked!");
 	}
 
 	// usando outra query mais abrangente (nao foi completamente comprovado a
@@ -309,12 +313,12 @@ public class Datasets {
 
 						if (flat.contains(lat.substring(0, 5)) && flgt.contains(lon.substring(0, 5))) {
 
-							Writer fileWrt = new OutputStreamWriter(
-									new FileOutputStream("./DatasetsOutput/" + arquivoOSMLinkado, true), "ISO-8859-1");
-
-							fileWrt.append(line + " " + uri.asResource().getURI().toString() + "\n");
-							fileWrt.flush();
-							fileWrt.close();
+//							Writer fileWrt = new OutputStreamWriter(
+//									new FileOutputStream("./DatasetsOutput/" + arquivoOSMLinkado, true), "ISO-8859-1");
+//
+//							fileWrt.append(line + " " + uri.asResource().getURI().toString() + "\n");
+//							fileWrt.flush();
+//							fileWrt.close();
 
 							return uri.asResource().getURI().toString();
 						}
@@ -1007,8 +1011,8 @@ public class Datasets {
 
 //		o.loadPOIs("./DatasetsOutput/osm/New York.txt");
 
-//		Datasets obj = new Datasets("./DatasetsOutput/osm/Los Angeles hotel.txt");
-//		obj.interestObjectCreateFileTAB("LosAngelesLGD.txt");
+//		Datasets obj = new Datasets("./DatasetsOutput/osm/Madrid hotel.txt");
+//		obj.interestObjectCreateFileTAB("MadridLGD.txt");
 //		o.cleanDataset("./DatasetsOutput/osm/San Francisco hotels.txt");
 //		o.interestObjectCreateFoursquare("./DatasetsOutput/check-ins/San Francisco.txt", "./DatasetsOutput/osm/San Francisco.txt");
 
@@ -1020,7 +1024,7 @@ public class Datasets {
 		// hotelProfiler replaced by groupProfiler
 		// obj.hotelProfiler("are_dubai_chelsea_tower_hotel_apartments", "Chelsea
 		// Gardens Hotel");
-		 Datasets.fileHeallthCheck("./datasetsOutput/LosAngelesLGD.txt");
+		 Datasets.fileHeallthCheck("./datasetsOutput/MadridLGD.txt");
 
 	}
 

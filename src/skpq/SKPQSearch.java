@@ -68,8 +68,8 @@ public class SKPQSearch extends SpatialQueryLD {
 			}		
 		}else if(neighborhood.equals("1")) {
 //			range
-			topK = findFeaturesLGDBN(interestObjectSet, keywords, radius, match);
-//			topK = findFeaturesLGDFast(interestObjectSet, keywords, radius, match);
+//			topK = findFeaturesLGDBN(interestObjectSet, keywords, radius, match, city.toLowerCase());
+			topK = findFeaturesLGDFast(interestObjectSet, keywords, radius, match, city.toLowerCase());
 			
 			try {
 //				saveResults(topK);
@@ -80,7 +80,8 @@ public class SKPQSearch extends SpatialQueryLD {
 			}	
 		}else if(neighborhood.equals("2")) {
 //			influence
-			topK = findFeaturesInfluence(interestObjectSet, keywords, radius, match);
+			topK = findFeaturesInfluence(interestObjectSet, keywords, radius, match, city.toLowerCase());
+			saveGroupResultsBNInfluence(topK);
 		}			
 
 		return topK;
@@ -261,6 +262,65 @@ protected void saveGroupResultsBNPareto(TreeSet<SpatialObject> topK) throws IOEx
 	
 	/* Imprime 20 */
 	outputFile = new OutputStreamWriter(new FileOutputStream("skpq/ParetoSearch-LD [" + "k=" + "20" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
+	
+	it = topK.descendingIterator();
+	
+	for(int a = 1; a <= 20; a++){
+		SpatialObject obj = it.next();
+		outputFile.write("-->[" + a + "]  " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt=" + obj.getLgt() + ", score=" + obj.getScore() + "]\n");
+		outputFile.write("[BN]  " + "[OSMlabel=" + obj.getBestNeighbor().getName() + ", lat=" + obj.getBestNeighbor().getLat() + ", lgt="
+				+ obj.getBestNeighbor().getLgt() + ", score=" + obj.getBestNeighbor().getScore() + "]\n");
+	}
+	
+	outputFile.close();
+}
+
+protected void saveGroupResultsBNInfluence(TreeSet<SpatialObject> topK) throws IOException{
+	
+	/* Imprime 5 */
+	Writer outputFile = new OutputStreamWriter(new FileOutputStream("skpq/InfluenceSearch-LD [" + "k=" + "5" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
+	
+	Iterator<SpatialObject> it = topK.descendingIterator();
+	
+	for(int a = 1; a <= 5; a++){
+		SpatialObject obj = it.next();
+		outputFile.write("-->[" + a + "]  " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt=" + obj.getLgt() + ", score=" + obj.getScore() + "]\n");
+		outputFile.write("[BN]  " + "[OSMlabel=" + obj.getBestNeighbor().getName() + ", lat=" + obj.getBestNeighbor().getLat() + ", lgt="
+				+ obj.getBestNeighbor().getLgt() + ", score=" + obj.getBestNeighbor().getScore() + "]\n");
+	}
+	
+	outputFile.close();
+	
+	/* Imprime 10 */
+	outputFile = new OutputStreamWriter(new FileOutputStream("skpq/InfluenceSearch-LD [" + "k=" + "10" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
+	
+	it = topK.descendingIterator();
+	
+	for(int a = 1; a <= 10; a++){
+		SpatialObject obj = it.next();
+		outputFile.write("-->[" + a + "]  " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt=" + obj.getLgt() + ", score=" + obj.getScore() + "]\n");
+		outputFile.write("[BN]  " + "[OSMlabel=" + obj.getBestNeighbor().getName() + ", lat=" + obj.getBestNeighbor().getLat() + ", lgt="
+				+ obj.getBestNeighbor().getLgt() + ", score=" + obj.getBestNeighbor().getScore() + "]\n");
+	}
+	
+	outputFile.close();
+	
+	/* Imprime 15 */
+	outputFile = new OutputStreamWriter(new FileOutputStream("skpq/InfluenceSearch-LD [" + "k=" + "15" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
+	
+	it = topK.descendingIterator();
+	
+	for(int a = 1; a <= 15; a++){
+		SpatialObject obj = it.next();
+		outputFile.write("-->[" + a + "]  " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt=" + obj.getLgt() + ", score=" + obj.getScore() + "]\n");
+		outputFile.write("[BN]  " + "[OSMlabel=" + obj.getBestNeighbor().getName() + ", lat=" + obj.getBestNeighbor().getLat() + ", lgt="
+				+ obj.getBestNeighbor().getLgt() + ", score=" + obj.getBestNeighbor().getScore() + "]\n");
+	}
+	
+	outputFile.close();
+	
+	/* Imprime 20 */
+	outputFile = new OutputStreamWriter(new FileOutputStream("skpq/InfluenceSearch-LD [" + "k=" + "20" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
 	
 	it = topK.descendingIterator();
 	
