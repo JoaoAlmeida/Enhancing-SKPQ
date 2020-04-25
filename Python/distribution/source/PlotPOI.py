@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import array as arr
 
-data = np.loadtxt('./files/LosAngelesLGD.txt', delimiter=' ', usecols=(0,1),dtype={'names': ('lat','lgt'), 'formats': ('f8', 'f8')})
+data = np.loadtxt('./files/LondonLGD.txt', delimiter=' ', usecols=(0,1),dtype={'names': ('lat','lgt'), 'formats': ('f8', 'f8')})
 
 #possiveis pontos: , ou .
 #f = plt.plot(data['lgt'], data['lat'], 'bo')

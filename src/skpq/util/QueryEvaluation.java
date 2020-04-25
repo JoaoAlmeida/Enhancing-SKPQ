@@ -229,50 +229,69 @@ public class QueryEvaluation {
 		return ndcg;
 	}
 	
-	public double kendallTauCoef() {
+	//Tau considering ties. Validated using scipy.stats.kendalltau. Both methods return the same values.
+	public double kendallTauBCoef() {
 		
-		double cons = 0, disc = 0;
+		int cons = 0, disc = 0, score_ties = 0, rate_ties = 0;
 		double coef;
 		
-		for(int a = 0; a < results.size()-1; a++) {
-			for(int b = 0; b < results.size()-1; b++) {
-				if(a != b) {
-					if(agreement(results.get(a), results.get(b))) {
+		for(int a = 0; a < results.size(); a++) {
+			for(int b = 0; b < results.size(); b++) {
+				if(a != b) {					
+					if(agreement(results.get(a), results.get(b)) == 1) {
 						cons++;
-					}else {
+					}else if(agreement(results.get(a), results.get(b)) == -1){
 						disc++;
+					}else if(agreement(results.get(a), results.get(b)) == 2){
+						score_ties++;
+					}
+					else if(agreement(results.get(a), results.get(b)) == 3){
+						rate_ties++;
 					}
 				}
 			}
 		}
 
-		coef = (cons - disc) / (cons + disc);
+		System.out.println("C: " + cons);
+		System.out.println("D: " + disc);
+		System.out.println("S: " + score_ties);
+		System.out.println("R: " + rate_ties);
+		coef = (cons - disc) /  Math.sqrt((cons + disc + score_ties) * (cons + disc + rate_ties));
 
 		return Math.abs(coef);
 	}
 	
 	//Identify if the pair of POIs is concordant or discordant. True if concordant, false otherwise
-	public boolean agreement(SpatialObject x, SpatialObject y) {
-		
-		boolean agr = false;
-		
-		if(x.getScore() > y.getScore()) {
-			if(x.getRate() > y.getRate()) {
-				agr = true;
+	//1 = concordant, -1 discordant, 2 tied score, 3 tied rate, 0 both tied (ignore it)
+	private int agreement(SpatialObject x, SpatialObject y) {
+
+		int agr = -1;
+
+		if (x.getScore() > y.getScore()) {
+			if (x.getRate() > y.getRate()) {
+				agr = 1;
 			}
-		}else if(x.getScore() < y.getScore()) {
-			if(x.getRate() < y.getRate()) {
-				agr = true;
+		} else if (x.getScore() < y.getScore()) {
+			if (x.getRate() < y.getRate()) {
+				agr = 1;
 			}
-		}else{
-			if(x.getRate() == y.getRate()) {
-				agr = true;
-			}
-			}
+		} 
+
+		if (x.getScore() == y.getScore() && x.getRate() != y.getRate()) {
+			agr = 2; 		
+		}
+
+		if (x.getRate() == y.getRate() && x.getScore() != y.getScore()) {
+			agr = 3;		
+		} 
+
+		if (x.getRate() == y.getRate() && x.getScore() == y.getScore()) {
+			agr = 0;
+		}
 		
 		return agr;
 	}
-
+	
 	private double outputVec(String fileName, double[] dcg, double[] idcg, double[] ndcg, double precision,
 			double avPrecision, double tau) throws IOException {
 
@@ -347,7 +366,7 @@ public class QueryEvaluation {
 		double precision = precision();
 		double avPrecision = averagePrecision();
 		
-		double tau = kendallTauCoef();		
+		double tau = kendallTauBCoef();		
 		metrics[0] = tau;
 		
 		metrics[1] = outputVec(fileName, dcg, idcg, ndcg, precision, avPrecision, tau);
@@ -357,7 +376,7 @@ public class QueryEvaluation {
 	}
 
 	//Refatorar, chamando o construtor duas vezes
-	private void evaluateQueriesGroup(String queryName, String[] queryKeyword, int k_max) throws IOException {
+	private void evaluateQueriesGroup(String queryName, String[] queryKeyword, int k_max, String city) throws IOException {
 
 		int inc = 5, k = 5, a = 0;
 		double[][] metrics = new double[4][4];
@@ -391,7 +410,7 @@ public class QueryEvaluation {
 					 * personalized --> searches for the rate related to the the user preference. Each user preference is represented
 					 * by a profile. The user preference must be described manually in the method.
 					 */
-					RatingExtractor obj = new RatingExtractor("cosine");				
+					RatingExtractor obj = new RatingExtractor("cosine", city);				
 					
 					ArrayList<String> rateResults = obj.rateLODresult("evaluator/" + fileName);
 
@@ -440,7 +459,7 @@ public class QueryEvaluation {
 		QueryEvaluation q = new QueryEvaluation();
 		
 		//Berlin
-		String keys[] = { "wheat", "software", "wedding", "herb", "door", "pen", "pension", "development", "resource", "eagle" };
+//		String keys[] = { "wheat", "software", "wedding", "herb", "door", "pen", "pension", "development", "resource", "eagle" };
 //		String keys[] = {"amenity","natural","shop","bench","tourism","bicycle","information","waste","parking","berliner"};
 				
 		//Los Angeles
@@ -459,11 +478,12 @@ public class QueryEvaluation {
 //		String keys[] = { "importance", "food", "perspective", "concept", "resource", "queen", "chemistry", "apartment", "department", "database" };
 //		String keys[] = {"amenity","shop","street","bicycle","place","natural","tree","road","avenue","drive"};
 		
-//		String keys[] = {"family", "movie"};		
-
-		q.evaluateQueriesGroup("Pareto", keys, 20);		
-//		q.evaluateQueriesGroup("SKPQ", keys, 20);	
-//		q.evaluateQueriesGroup("ParetoSearch", keys, 20);
+		String keys[] = {"amenity"};		
+//		String keys[] = { "amenity","natural","shop","bench","tourism","bicycle","information","waste","parking","berliner", "wheat", "software", "wedding", "herb", "door", "pen", "pension", "development", "resource", "eagle"};
+		
+//		q.evaluateQueriesGroup("Pareto", keys, 20, "Berlin");		
+		q.evaluateQueriesGroup("SKPQ", keys, 20,"Berlin");	
+//		q.evaluateQueriesGroup("ParetoSearch", keys, 20, "Berlin");
 //		q.evaluateQueriesGroup("InfluenceSearch", keys, 20);
 	}
 

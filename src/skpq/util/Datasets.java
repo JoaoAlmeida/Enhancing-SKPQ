@@ -1005,14 +1005,18 @@ public class Datasets {
 	// Examples of usage
 	public static void main(String[] args) throws IOException {
 
+//		double z;
+		
+//		z = (3 * 0.85 * Math.sqrt(12*(12-1)))/ Math.sqrt(2*(2*(12)+5));
+//		System.out.println(z);
 //		Datasets o = new Datasets();
 //		
 //		o.isolatePOI("./DatasetsOutput/check-ins/San Francisco.txt");
 
 //		o.loadPOIs("./DatasetsOutput/osm/New York.txt");
 
-//		Datasets obj = new Datasets("./DatasetsOutput/osm/Madrid hotel.txt");
-//		obj.interestObjectCreateFileTAB("MadridLGD.txt");
+//		Datasets obj = new Datasets("./DatasetsOutput/osm/San Francisco hotel.txt");
+//		obj.interestObjectCreateFileTAB("SfLGD.txt");
 //		o.cleanDataset("./DatasetsOutput/osm/San Francisco hotels.txt");
 //		o.interestObjectCreateFoursquare("./DatasetsOutput/check-ins/San Francisco.txt", "./DatasetsOutput/osm/San Francisco.txt");
 
@@ -1024,7 +1028,7 @@ public class Datasets {
 		// hotelProfiler replaced by groupProfiler
 		// obj.hotelProfiler("are_dubai_chelsea_tower_hotel_apartments", "Chelsea
 		// Gardens Hotel");
-		 Datasets.fileHeallthCheck("./datasetsOutput/MadridLGD.txt");
+//		 Datasets.fileHeallthCheck("./datasetsOutput/MadridLGD.txt");
 
 	}
 

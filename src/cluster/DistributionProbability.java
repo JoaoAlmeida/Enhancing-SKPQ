@@ -3,10 +3,12 @@ package cluster;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
+import java.io.UnsupportedEncodingException;
 import java.io.Writer;
 import java.util.ArrayList;
 
@@ -50,24 +52,21 @@ public class DistributionProbability {
 		return objectsInterest;
 	}
 
-	public static void main(String[] args) throws IOException {
-
-		Writer writer = new OutputStreamWriter(new FileOutputStream("./datasetsOutput/distancesDensity.txt", true),
+	public void getDistribution() throws IOException {
+		Writer writer = new OutputStreamWriter(new FileOutputStream("./datasetsOutput/distancesLA.txt", true),
 				"ISO-8859-1");
 
-		ArrayList<SpatialObject> pois = loadObjectsInterest("./datasetsOutput/osm/London hotel.txt");
+		ArrayList<SpatialObject> pois = loadObjectsInterest("./losangeles/LosAngelesLGD.txt");
 
-		for (int a = 3; a < pois.size(); a++) {
+		for (int a = 0; a < pois.size(); a++) {
 
-			WebContentArrayCache featuresCache = new WebContentArrayCache("pois/POI[" + a + "].cache", 0.01);
+			WebContentArrayCache featuresCache = new WebContentArrayCache("./losangeles/pois/POI[" + a + "].cache", 0.01);
 			featuresCache.load();
 
 			ArrayList<SpatialObject> featureSet = featuresCache.getArray(pois.get(a).getURI());
 
 			// compute the distance for each feature
-			for (int b = 0; b < featureSet.size(); b++) {
-				
-				System.out.println(featureSet.get(b).getCompleteDescription());
+			for (int b = 0; b < featureSet.size(); b++) {			
 				
 				double dist = SpatialQueryLD.distFrom(Double.parseDouble(featureSet.get(b).getLat()),
 						Double.parseDouble(featureSet.get(b).getLgt()), Double.parseDouble(pois.get(a).getLat()),
@@ -75,13 +74,94 @@ public class DistributionProbability {
 
 				ParetoDistribution par = new ParetoDistribution();
 
-//				double probability = par.logDensity(dist);
-				double probability = par.density(dist);
+				double probability = par.logDensity(dist);				
+//				double probability = par.density(dist);
+				
 				if (probability != Double.NEGATIVE_INFINITY) {
 					String line = dist + " " + probability;
 					writer.append(line + "\n");
 					writer.flush();
 				}
+			}			
+		}
+
+		writer.close();
+	}
+	
+	public static void main(String[] args) throws IOException {
+
+		normalizedDistribution();
+	}
+	
+	public static void normalizedDistribution() throws IOException {
+
+		Writer writer = new OutputStreamWriter(new FileOutputStream("./datasetsOutput/unico.txt", true),
+				"ISO-8859-1");
+
+		ArrayList<SpatialObject> pois = loadObjectsInterest("./london/LondonLGD.txt");
+
+		for (int a = 3; a < 4; a++) {
+
+			WebContentArrayCache featuresCache = new WebContentArrayCache("./london/pois/POI[" + a + "].cache", 0.01);
+			featuresCache.load();
+
+			ArrayList<SpatialObject> featureSet = featuresCache.getArray(pois.get(a).getURI());
+
+			double maxProb = -Double.MAX_VALUE;
+			double minProb = Double.MAX_VALUE;
+			
+			for (int b = 0; b < featureSet.size(); b++) {
+				
+				double dist = SpatialQueryLD.distFrom(Double.parseDouble(featureSet.get(b).getLat()),
+						Double.parseDouble(featureSet.get(b).getLgt()), Double.parseDouble(pois.get(a).getLat()),
+						Double.parseDouble(pois.get(a).getLgt()));
+
+				ParetoDistribution par = new ParetoDistribution();
+				
+				double probability = par.logDensity(dist);
+
+				//acontece quando feature == POI
+				if (probability == Double.NEGATIVE_INFINITY) {
+					featureSet.get(b).setParetoProbability(Double.NEGATIVE_INFINITY);					
+				}else {					
+					featureSet.get(b).setParetoProbability(probability);
+					
+					if(probability < minProb) {
+						minProb = probability;
+					}
+					if(probability > maxProb) {
+						maxProb = probability;
+					}
+				}												
+			}	
+			
+			// compute the distance for each feature
+			for (int b = 0; b < featureSet.size(); b++) {							
+				
+				double dist = SpatialQueryLD.distFrom(Double.parseDouble(featureSet.get(b).getLat()),
+						Double.parseDouble(featureSet.get(b).getLgt()), Double.parseDouble(pois.get(a).getLat()),
+						Double.parseDouble(pois.get(a).getLgt()));
+
+				ParetoDistribution par = new ParetoDistribution();
+
+//				double probability = par.logDensity(dist);				
+//				double probability = par.density(dist);			
+				
+				if (!(featureSet.get(b).getParetoProbability() == Double.NEGATIVE_INFINITY)) {
+
+					double normProb = (featureSet.get(b).getParetoProbability() - minProb) / (maxProb - minProb);
+					
+					String line = dist + " " + normProb;
+					
+					writer.append(line + "\n");
+					writer.flush();	
+				}
+				
+//				if (probability != Double.NEGATIVE_INFINITY) {
+//					String line = dist + " " + probability;
+//					writer.append(line + "\n");
+//					writer.flush();
+//				}
 			}			
 		}
 

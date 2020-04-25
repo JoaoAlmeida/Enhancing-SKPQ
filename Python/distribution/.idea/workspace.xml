@@ -2,29 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15a95df4-0510-404f-a2a3-b64a27caccf5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../DatasetsOutput/hotelLondon.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/Dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/Dataset.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/cluster centers - New York.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/coordinates.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/distances.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/distancesDensity.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/paretoProbability.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/sequentialPOIs.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../datasetsOutput/LGDSan Francisco" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/PlotPOI.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/PlotPOI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/files/Berlin hotel.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../datasetsOutput/osm/San Francisco hotels.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../descriptions.ch" beforeDir="false" afterPath="$PROJECT_DIR$/../../descriptions.ch" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../framework.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../framework.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../googleDescriptions.ch" beforeDir="false" afterPath="$PROJECT_DIR$/../../googleDescriptions.ch" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../log4j log/logigng.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../log4j log/logigng.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ratings.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ratings.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/framework/SKPQFramework.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/framework/SKPQFramework.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/skpq/SKPQPareto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/skpq/SKPQPareto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/cluster/DistributionProbability.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/cluster/DistributionProbability.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../src/skpq/SKPQSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/skpq/SKPQSearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../src/skpq/SpatialQueryLD.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/skpq/SpatialQueryLD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../src/skpq/util/Datasets.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/skpq/util/Datasets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../src/skpq/util/QueryEvaluation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/skpq/util/QueryEvaluation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../src/skpq/util/RatingExtractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/skpq/util/RatingExtractor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/skpq/util/WebContentArrayCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/skpq/util/WebContentArrayCache.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../src/skpq/util/WebContentCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/skpq/util/WebContentCache.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,29 +71,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.PlotPOI">
-    <configuration name="Cluster" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="distribution" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/Cluster.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Kendaltau">
     <configuration name="Dataset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="distribution" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,7 +94,26 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Kmeans" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Kendaltau" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="distribution" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/Kendaltau.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MonteCarlo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="distribution" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,7 +126,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/Kmeans.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/MonteCarlo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PlotGraph" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="distribution" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/PlotGraph.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,6 +161,9 @@
       <module name="distribution" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -186,35 +201,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="distribution" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/fit.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.PlotPOI" />
+        <item itemvalue="Python.Kendaltau" />
+        <item itemvalue="Python.PlotGraph" />
         <item itemvalue="Python.Dataset" />
-        <item itemvalue="Python.fit" />
-        <item itemvalue="Python.Kmeans" />
-        <item itemvalue="Python.Cluster" />
+        <item itemvalue="Python.PlotPOI" />
+        <item itemvalue="Python.MonteCarlo" />
       </list>
     </recent_temporary>
   </component>
@@ -272,6 +265,20 @@
       <workItem from="1586760036049" duration="160000" />
       <workItem from="1586764240265" duration="59000" />
       <workItem from="1586920981367" duration="2094000" />
+      <workItem from="1586986196194" duration="330000" />
+      <workItem from="1586987903956" duration="341000" />
+      <workItem from="1586992088197" duration="429000" />
+      <workItem from="1587061191262" duration="2759000" />
+      <workItem from="1587064654005" duration="1331000" />
+      <workItem from="1587067575362" duration="652000" />
+      <workItem from="1587069279737" duration="819000" />
+      <workItem from="1587164496575" duration="626000" />
+      <workItem from="1587183000018" duration="2138000" />
+      <workItem from="1587190496436" duration="696000" />
+      <workItem from="1587660057357" duration="4251000" />
+      <workItem from="1587755170036" duration="864000" />
+      <workItem from="1587765988589" duration="7314000" />
+      <workItem from="1587784332384" duration="729000" />
     </task>
     <servers />
   </component>
@@ -331,10 +338,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="303" y="76" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1586444919742" />
-    <state x="508" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1586921056425">
+    <state x="508" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1587784341024">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="508" y="259" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1586921056425" />
+    <state x="508" y="259" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1587784341024" />
     <state x="611" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586662657887">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

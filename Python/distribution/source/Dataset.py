@@ -8,28 +8,30 @@ import matplotlib.ticker as mtick
 #prob = np.loadtxt('paretoProbability.txt', delimiter='\n')
 
 #bota esse
-data = np.loadtxt('./files/distances.txt', dtype={'names': ('distance', 'probability'), 'formats': ('f8', 'f8')})
+data = np.loadtxt('./files/unico.txt', dtype={'names': ('distance', 'probability'), 'formats': ('f8', 'f8')})
 
 x = arr.array('f', [0, 10, 100, 1000])
 #dist_list = dist.tolist()
 
 #dist_list.pop()
-data['distance'] = data['distance'] / 1000
+#data['distance'] = data['distance'] / 1000
 #data['probability'] = data['probability'] / 1000
 #possiveis pontos , ou .
 f = plt.plot(data['distance'], data['probability'], 'b.')
-plt.axis([0.0, 25, np.amin(data['probability']), np.amax(data['probability'])])
+plt.axis([0.0, 1500, np.amin(data['probability']), np.amax(data['probability'])])
 #plt.xscale("log")
 #plt.yscale("symlog")
-plt.xlabel("Distance between POI center and feature (m)")
+plt.xlabel("Distance (Km)")
+#plt.xlabel("Distance between POI location and features (km) in its spatial neighborhood")
 plt.ylabel("Probability")
 
-#colors = (0,0,0)
-#area = np.pi*3
 
-#plt.scatter(data['probability'], data['distance'], s=area, c=colors, alpha=0.5)
+
+#Ficou feio o scatter
+#plt.scatter(data['distance'], data['probability'], marker='o', color='blue', edgecolors='black')
+#plt.axis([0.0, 1000, np.amin(data['probability']), np.amax(data['probability'])])
 #plt.title('Scatter plot pythonspot.com')
-#plt.xlabel('Distance')
+#plt.xlabel('Distance (km)')
 #plt.ylabel('Probability')
 #plt.show()
 

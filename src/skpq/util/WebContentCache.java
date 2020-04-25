@@ -77,13 +77,15 @@ public class WebContentCache {
 				fis.close();
 
 				if (cache.isEmpty()) {
-					System.out.println(
-							"\nWARNING: The cache is empty. It is you first time executing the SKPQ query? This first execution may be slow.\n\n");
-					store();
+					System.out.println("\nWARNING: The cache is empty. It is you first time executing the SKPQ query? This first execution may be slow.\n\n");
+					System.out.println("Exiting the program ...");
+					System.exit(0);
 					return;
 				}
 			} catch (java.io.EOFException e) {
-				System.out.println("\nWARNING: Empty cache");				
+				System.out.println("\nWARNING: Empty cache");
+				System.out.println("Exiting the program ...");
+				System.exit(0);
 				return;
 			}
 		} catch (ClassNotFoundException e) {

@@ -234,7 +234,7 @@ public abstract class SpatialQueryLD implements Experiment {
 		System.out.println("\nk = " + k + " | keywords = [ " + keywords + " ]\n\n");
 	}
 
-	//a forma de retornar as metricas atraves do metodo execute() mudou. Precisa revisar se o retorno esta corrento dentro desse metodo
+	//a forma de retornar as metricas atraves do metodo execute() mudou. Precisa revisar se o retorno esta corrento dentro desse metodo. Construtor de rating extractor mudou tbm
 	@Deprecated
 	protected double[][] evaluateQuery(String keywords, String radius, int numResult, boolean personalized) throws IOException{
 
@@ -279,7 +279,7 @@ public abstract class SpatialQueryLD implements Experiment {
 				 * personalized --> searches for the rate related to the the user preference. Each user preference is represented by a profile. The user preference must be described manually in the method.				 
 				 * */				
 				//RatingExtractor obj = new RatingExtractor("tripAdvisor");
-				RatingExtractor obj = new RatingExtractor("personalized");
+				RatingExtractor obj = new RatingExtractor("personalized", "city name");
 				
 				if(radius == null){
 					rateResults = obj.rateLODresult(fileName);			
@@ -669,6 +669,7 @@ public abstract class SpatialQueryLD implements Experiment {
 				} else {
 					abs = getTextDescriptionLGD(featureSet.get(b).getURI());
 					searchCache.putDescription(featureSet.get(b).getURI(), abs);
+					
 					try {
 						searchCache.store();
 					} catch (IOException e) {
@@ -728,7 +729,7 @@ public abstract class SpatialQueryLD implements Experiment {
 	/* findfeaturesLGDFast using pareto in score equation. 25/03/2020
 	 * cache must be created first executing the findFeaturesLGDBN(List<SpatialObject> interestSet, String keywords, double radius, String match)
 	 */
-	public TreeSet<SpatialObject> findFeaturesPareto(List<SpatialObject> interestSet, String keywords, double radius, String match, String city){
+	public TreeSet<SpatialObject> findFeaturesPareto(List<SpatialObject> interestSet, String keywords, double radius, String match, String city, double alpha){
 		 
 		TreeSet<SpatialObject> topK = new TreeSet<>();
 		
@@ -791,6 +792,12 @@ public abstract class SpatialQueryLD implements Experiment {
 				} else {
 					abs = getTextDescriptionLGD(featureSet.get(b).getURI());
 					searchCache.putDescription(featureSet.get(b).getURI(), abs);
+					
+					try {
+						searchCache.store();
+					} catch (IOException e) {
+						e.printStackTrace();
+					}
 				}
 				
 				double score = 0;
@@ -813,7 +820,8 @@ public abstract class SpatialQueryLD implements Experiment {
 				if (!(featureSet.get(b).getParetoProbability() == Double.NEGATIVE_INFINITY) && score != 0) {
 
 					double normProb = (featureSet.get(b).getParetoProbability() - minProb) / (maxProb - minProb);					
-					score = (0.5 * score) + ((1 - 0.5) * normProb);	
+//					double alpha = 0.25;
+					score = (alpha * score) + ((1 - alpha) * normProb);	
 				}
 											
 				if (score > maxScore) {					
@@ -888,7 +896,13 @@ public abstract class SpatialQueryLD implements Experiment {
 					
 				} else {				
 					abs = getTextDescriptionLGD(featureSet.get(b).getURI());
-					searchCache.putDescription(featureSet.get(b).getURI(), abs);
+					searchCache.putDescription(featureSet.get(b).getURI(), abs);					
+
+					try {
+						searchCache.store();
+					} catch (IOException e) {
+						e.printStackTrace();
+					}
 				}
 				
 				double score = 0;

@@ -27,16 +27,18 @@ public class RatingExtractor {
 	private final boolean debug = false;
 	private String bkpFileName = "ratings.txt";
 	private String ratingMode;
+	private String city;
 
-	public RatingExtractor(String ratingMode) throws IOException {
+	public RatingExtractor(String ratingMode, String city) throws IOException {
 
 		this.ratingMode = ratingMode;
-
+		this.city = city;
+		
 		objetosInteresse = new HashMap<String, String>();
 		ratingBkp = new OutputStreamWriter(new FileOutputStream(bkpFileName, true), "ISO-8859-1");
 
 		//stores google rates
-		ratingCache = new WebContentCache("./berlin/ratings.ch");
+		ratingCache = new WebContentCache("./"+city.toLowerCase()+"/ratings.ch");
 		ratingCache.load();
 		
 		//stores hotels uri
@@ -84,7 +86,7 @@ public class RatingExtractor {
 
 		ArrayList<String> rateResults = new ArrayList<>();
 
-		importObjectsInterest("./datasetsOutput/osm/Berlin hotel.txt", "hotel");
+		importObjectsInterest("./datasetsOutput/osm/"+city+" hotel.txt", "hotel");
 
 		BufferedReader reader = new BufferedReader(
 				(new InputStreamReader(new FileInputStream(new File(fileName)), "ISO-8859-1")));
@@ -1015,7 +1017,7 @@ public class RatingExtractor {
 		//		String fileName = "SPKQ [k=10, kw=amenity].txt";
 		//		
 		//		Writer output = new OutputStreamWriter(new FileOutputStream(fileName.split("\\.")[0] + " --- ratings.txt"), "ISO-8859-1");
-				RatingExtractor obj = new RatingExtractor("personalized");
+				RatingExtractor obj = new RatingExtractor("personalized", "put the city name");
 				
 				obj.rateLODresult("pskpq/PSPKQ-LD [k=5, kw=amenity].txt");
 				
