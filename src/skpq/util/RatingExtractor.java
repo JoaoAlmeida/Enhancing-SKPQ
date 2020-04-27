@@ -87,6 +87,7 @@ public class RatingExtractor {
 		ArrayList<String> rateResults = new ArrayList<>();
 
 		importObjectsInterest("./datasetsOutput/osm/"+city+" hotel.txt", "hotel");
+//		importObjectsInterest("./hotelLondon.txt", "hotel");
 
 		BufferedReader reader = new BufferedReader(
 				(new InputStreamReader(new FileInputStream(new File(fileName)), "ISO-8859-1")));
@@ -782,6 +783,7 @@ public class RatingExtractor {
 
 		while (line != null) {
 			String[] lineVec = line.split("\t");
+//			String[] lineVec = line.split(" "); //Usado com o London
 			String[] labelVec = line.split("\\("+category+"\\)");
 
 			String key = lineVec[1] + " " + lineVec[2];

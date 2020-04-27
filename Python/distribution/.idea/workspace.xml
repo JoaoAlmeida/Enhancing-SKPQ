@@ -3,22 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="15a95df4-0510-404f-a2a3-b64a27caccf5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/Dataset.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/PlotPOI.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/PlotPOI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/files/Berlin hotel.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../datasetsOutput/osm/San Francisco hotels.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../descriptions.ch" beforeDir="false" afterPath="$PROJECT_DIR$/../../descriptions.ch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/Kendaltau.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/Kendaltau.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../framework.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../framework.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../googleDescriptions.ch" beforeDir="false" afterPath="$PROJECT_DIR$/../../googleDescriptions.ch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../log4j log/logigng.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../log4j log/logigng.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ratings.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ratings.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/cluster/DistributionProbability.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/cluster/DistributionProbability.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/skpq/SKPQSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/skpq/SKPQSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/skpq/SpatialQueryLD.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/skpq/SpatialQueryLD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/skpq/util/Datasets.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/skpq/util/Datasets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../src/skpq/util/QueryEvaluation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/skpq/util/QueryEvaluation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../src/skpq/util/RatingExtractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/skpq/util/RatingExtractor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/skpq/util/WebContentCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/skpq/util/WebContentCache.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +61,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Kendaltau">
+  <component name="RunManager" selected="Python.Spearman">
     <configuration name="Dataset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="distribution" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -98,25 +88,6 @@
       <module name="distribution" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/Kendaltau.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="MonteCarlo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="distribution" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
@@ -126,7 +97,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/MonteCarlo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/Kendaltau.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,6 +150,25 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Spearman" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="distribution" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Documents\GitHub\Enhancing-SKPQ\Python\distribution\source\Spearman.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="distribution" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -203,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Spearman" />
         <item itemvalue="Python.Kendaltau" />
         <item itemvalue="Python.PlotGraph" />
         <item itemvalue="Python.Dataset" />
         <item itemvalue="Python.PlotPOI" />
-        <item itemvalue="Python.MonteCarlo" />
       </list>
     </recent_temporary>
   </component>
@@ -278,7 +268,9 @@
       <workItem from="1587660057357" duration="4251000" />
       <workItem from="1587755170036" duration="864000" />
       <workItem from="1587765988589" duration="7314000" />
-      <workItem from="1587784332384" duration="729000" />
+      <workItem from="1587784332384" duration="1158000" />
+      <workItem from="1587789166071" duration="2842000" />
+      <workItem from="1587800987738" duration="278000" />
     </task>
     <servers />
   </component>
@@ -338,10 +330,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="303" y="76" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1586444919742" />
-    <state x="508" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1587784341024">
+    <state x="508" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1587801051127">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="508" y="259" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1587784341024" />
+    <state x="508" y="259" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1587801051127" />
     <state x="611" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586662657887">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

@@ -58,7 +58,7 @@ public class SKPQSearch extends SpatialQueryLD {
 
 		//Organizar isso daqui, dá pra colocar um print pra cada dentro dos ifs
 		if(neighborhood.equals("3")) {
-			double alpha = 0.95;
+			double alpha = 0.5;
 			topK = findFeaturesPareto(interestObjectSet, keywords, radius, match, city.toLowerCase(), alpha);
 			try {
 //				saveResults(topK);

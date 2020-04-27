@@ -8,8 +8,14 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.io.Writer;
+import java.sql.DriverManager;
 import java.util.ArrayList;
 import java.util.Collections;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.math3.distribution.ParetoDistribution;
@@ -23,19 +29,76 @@ public class QueryEvaluation {
 	ArrayList<SpatialObject> results;
 	ArrayList<SpatialObject> idealResults;
 	private boolean debug = false;
+	private static double alpha;
+	
+	//conn armazena a conexão com o SGBD
+    Connection conn = null;
 
-	public QueryEvaluation(String fileName) throws IOException {
+	public QueryEvaluation(String fileName) throws IOException, ClassNotFoundException, InstantiationException, IllegalAccessException {
 		this.fileName = fileName;
 
 		results = new ArrayList<>();
 		idealResults = new ArrayList<>();
 
 		readResultSet();
+		
+//		connect();
 	}
 
 	public QueryEvaluation() {
 
 	}
+	
+	  private void connect() throws ClassNotFoundException, InstantiationException, IllegalAccessException {
+	        try {
+	            System.out.println("----------- Conectando ao SGBD -----------");
+	            
+//	            Class.forName("com.mysql.cj.jdbc.Driver");
+	            conn = DriverManager.getConnection("jdbc:mysql://localhost/acm_recsys20?user=root&password=572069ce&serverTimezone=UTC");          
+
+	            System.out.println("----------- Conectado! -----------");
+	            
+	        } catch (SQLException ex) {
+	            System.out.println("SQLException: " + ex.getMessage());
+	            System.out.println("SQLState: " + ex.getSQLState());
+	            System.out.println("VendorError: " + ex.getErrorCode());
+	        }
+	    }
+	
+
+	  private void storeSKPQResult(String query, int k, int numKey, String key, double radius, String city, String experimentName, double tau, double ndcg, String matchMethod, String neighborhood) throws SQLException {
+		  
+		  PreparedStatement result;
+		  
+		  if(tau != tau) {			  
+			  result = conn.prepareStatement("INSERT INTO `acm_recsys20`.`"+query+"` (`k`, `numKey`, `keyword`, `radius`, `city`, `experimentName`,"
+				  		+ "`ndcg`, `textSimilarity_methodName`, `neighborhood_name`) VALUES ('"+k+"', '"+numKey+"', '"+key+"', '"+radius+"', '"+city+"', '"+experimentName+"',"
+				  				+ "'"+ndcg+"', '"+matchMethod+"', '"+neighborhood+"');");
+		  }else {
+			  result = conn.prepareStatement("INSERT INTO `acm_recsys20`.`"+query+"` (`k`, `numKey`, `keyword`, `radius`, `city`, `experimentName`, `tau`,"
+				  		+ "`ndcg`, `textSimilarity_methodName`, `neighborhood_name`) VALUES ('"+k+"', '"+numKey+"', '"+key+"', '"+radius+"', '"+city+"', '"+experimentName+"', '"+tau+"', "
+				  				+ "'"+ndcg+"', '"+matchMethod+"', '"+neighborhood+"');"); 
+		  }		  
+	        
+	      result.execute();
+	  }
+	  
+	  private void storeParetoSearch(String query, int k, int numKey, String key, double radius, String city, String experimentName, double alpha, double tau, double ndcg, String matchMethod, String neighborhood) throws SQLException {
+		  
+		  PreparedStatement result;
+		  
+		  if(tau != tau) {			  
+			  result = conn.prepareStatement("INSERT INTO `acm_recsys20`.`"+query+"` (`k`, `numKey`, `keyword`, `radius`, `city`, `experimentName`, `alpha`,"
+				  		+ "`ndcg`, `textSimilarity_methodName`, `neighborhood_name`) VALUES ('"+k+"', '"+numKey+"', '"+key+"', '"+radius+"', '"+city+"', '"+experimentName+"', '"+alpha+"'"
+				  				+ "'"+ndcg+"', '"+matchMethod+"', '"+neighborhood+"');");
+		  }else {
+			  result = conn.prepareStatement("INSERT INTO `acm_recsys20`.`"+query+"` (`k`, `numKey`, `keyword`, `radius`, `city`, `experimentName`, `alpha`,`tau`,"
+				  		+ "`ndcg`, `textSimilarity_methodName`, `neighborhood_name`) VALUES ('"+k+"', '"+numKey+"', '"+key+"', '"+radius+"', '"+city+"', '"+experimentName+"', '"+alpha+"', '"+tau+"', "
+				  				+ "'"+ndcg+"', '"+matchMethod+"', '"+neighborhood+"');"); 
+		  }		  
+	        
+	      result.execute();
+	  }
 
 	// Consider removing the methos without Best Neighbor included
 	private void readResultSet() throws IOException {
@@ -252,10 +315,10 @@ public class QueryEvaluation {
 			}
 		}
 
-		System.out.println("C: " + cons);
-		System.out.println("D: " + disc);
-		System.out.println("S: " + score_ties);
-		System.out.println("R: " + rate_ties);
+//		System.out.println("C: " + cons);
+//		System.out.println("D: " + disc);
+//		System.out.println("S: " + score_ties);
+//		System.out.println("R: " + rate_ties);
 		coef = (cons - disc) /  Math.sqrt((cons + disc + score_ties) * (cons + disc + rate_ties));
 
 		return Math.abs(coef);
@@ -287,10 +350,48 @@ public class QueryEvaluation {
 
 		if (x.getRate() == y.getRate() && x.getScore() == y.getScore()) {
 			agr = 0;
-		}
-		
+		}		
 		return agr;
 	}
+	
+	//Identify if the pair of POIs is concordant or discordant. True if concordant, false otherwise
+		//1 = concordant, -1 discordant, 2 tied score, 3 tied rate, 0 both tied (ignore it). Considers that score don't tie. Favours the method with one measure in the function score such as textual score (SKPQ)> Fica enviesado.
+//	Comom o score da skpq so usa score textual, ela se beneficia pois vai haver mais empates no score, que gerarao cons ao inves de ties. Fazendo o valor do coeficiente subir consideravelmente a favor dela injustamente.
+		@Deprecated
+		private int agreementScore(SpatialObject x, SpatialObject y) {
+
+			int agr = -1;
+
+			if (x.getScore() > y.getScore()) {
+				if (x.getRate() > y.getRate()) {
+					agr = 1;
+				}
+			} else if(x.getScore() == y.getScore()) {
+				if (x.getRate() > y.getRate() && x.getId() > y.getId()) {
+					agr = 1;
+				}
+			}						
+			
+			if (x.getScore() < y.getScore()) {
+				if (x.getRate() < y.getRate()) {
+					agr = 1;
+				}
+			} else if(x.getScore() == y.getScore()) {
+				if (x.getRate() < y.getRate() && x.getId() < y.getId()) {
+					agr = 1;
+				}
+			}	
+
+			if (x.getRate() == y.getRate() && x.getScore() != y.getScore()) {
+				agr = 3;		
+			} 
+
+			if (x.getRate() == y.getRate() && x.getScore() == y.getScore()) {
+				agr = 0;
+			}
+			
+			return agr;
+		}
 	
 	private double outputVec(String fileName, double[] dcg, double[] idcg, double[] ndcg, double precision,
 			double avPrecision, double tau) throws IOException {
@@ -376,8 +477,10 @@ public class QueryEvaluation {
 	}
 
 	//Refatorar, chamando o construtor duas vezes
-	private void evaluateQueriesGroup(String queryName, String[] queryKeyword, int k_max, String city) throws IOException {
+	private void evaluateQueriesGroup(String queryName, String[] queryKeyword, int k_max, String city, int numKey, double radius, String type) throws IOException, ClassNotFoundException, InstantiationException, IllegalAccessException, SQLException {
 
+		connect();
+		
 		int inc = 5, k = 5, a = 0;
 		double[][] metrics = new double[4][4];
 
@@ -419,14 +522,27 @@ public class QueryEvaluation {
 						output.write(x + "\n");
 					}
 					output.close();
+					
 				}
 
 				QueryEvaluation q = new QueryEvaluation(fileName.split("\\.txt")[0] + " --- ratings.txt");
 
-				metrics[a] = q.execute();
-//				System.out.println(metrics[a]);
-				a++;
+				metrics[a] = q.execute();	
+				if(queryName.equals("SKPQ")) {
+					storeSKPQResult(queryName.toLowerCase(),k, numKey, queryKeyword[ind], radius, city, "recsys20", metrics[a][0], metrics[a][1], "default", type);
+				}else if(queryName.equals("Pareto")) {
+					storeSKPQResult("skpq",k, numKey, queryKeyword[ind], radius, city, "recsys20", metrics[a][0], metrics[a][1], "default", type);
+				}else if(queryName.equals("InfluenceSearch")) {
+					storeSKPQResult("skpq",k, numKey, queryKeyword[ind], radius, city, "recsys20", metrics[a][0], metrics[a][1], "default", type);
+				}else if(queryName.equals("ParetoSearch")) {
+					storeParetoSearch("skpq",k, numKey, queryKeyword[ind], radius, city, "recsys20", alpha,metrics[a][0], metrics[a][1], "default", type);
+				}else {
+					System.err.print("Query not implemented in database yet!");
+				}
 
+//				System.out.println(metrics[a]);
+				a++;							
+				
 				k = k + inc;
 			}
 
@@ -454,18 +570,21 @@ public class QueryEvaluation {
 		}
 	}
 
-	public static void main(String[] args) throws IOException {
+	public static void main(String[] args) throws IOException, ClassNotFoundException, InstantiationException, IllegalAccessException, SQLException {
 		
 		QueryEvaluation q = new QueryEvaluation();
 		
+		int numKey = 1;
+		double radius = 0.01;		
 		//Berlin
 //		String keys[] = { "wheat", "software", "wedding", "herb", "door", "pen", "pension", "development", "resource", "eagle" };
 //		String keys[] = {"amenity","natural","shop","bench","tourism","bicycle","information","waste","parking","berliner"};
-				
+//		String keys[] = { "amenity","natural","shop","bench","tourism","bicycle","information","waste","parking","berliner", "district", "software", "wedding", "herb", "door", "pen", "pension", "development", "resource", "eagle"};
+		
 		//Los Angeles
 //		String keys[] = { "architect", "colony", "publication", "family", "movie", "photography", "green", "pension", "nail", "week" };
-//		String keys[] = {"amenity","avenue","road","north","east","west","south","boulevard","place","natural"};		
-		
+		String keys[] = {"amenity","avenue","road","north","east","west","south","boulevard","place","natural"};		
+//		String keys[] = {"amenity","avenue","road","north","east","west","south","boulevard","place","natural","architect", "colony", "publication", "family", "movie", "photography", "green", "pension", "nail", "week" };
 		//Madrid
 //		String keys[] = { "route", "performance", "thought", "interface", "lose", "stop", "treatment", "city", "weight", "birthday" };
 //		String keys[] = {"amenity","avenida","natural","shop","plaza","parking","calle","restaurant","arroyo","camino"};
@@ -473,18 +592,23 @@ public class QueryEvaluation {
 		//London
 //		String keys[] = { "agency", "phone", "nike", "aquarium", "crash", "secretary", "field", "medicine", "father", "tennis" };
 //		String keys[] = {"amenity","shop","restaurant","close","street","road","avenue","drive","lane","pub"};
+
 		
 //		New York
 //		String keys[] = { "importance", "food", "perspective", "concept", "resource", "queen", "chemistry", "apartment", "department", "database" };
 //		String keys[] = {"amenity","shop","street","bicycle","place","natural","tree","road","avenue","drive"};
+//		String keys[] = {"amenity","shop","street","bicycle","place","natural","tree","road","avenue","drive","importance", "food", "perspective", "concept", "resource", "queen", "chemistry", "apartment", "department", "database" };
 		
-		String keys[] = {"amenity"};		
-//		String keys[] = { "amenity","natural","shop","bench","tourism","bicycle","information","waste","parking","berliner", "wheat", "software", "wedding", "herb", "door", "pen", "pension", "development", "resource", "eagle"};
+//		String keys[] = {"amenity"};		
+//		String keys[] = { "agency", "phone", "nike", "aquarium", "crash", "secretary", "field", "medicine", "father", "tennis","amenity","shop","restaurant","close","street","road","avenue","drive","lane","pub"};
 		
-//		q.evaluateQueriesGroup("Pareto", keys, 20, "Berlin");		
-		q.evaluateQueriesGroup("SKPQ", keys, 20,"Berlin");	
-//		q.evaluateQueriesGroup("ParetoSearch", keys, 20, "Berlin");
-//		q.evaluateQueriesGroup("InfluenceSearch", keys, 20);
+		String city = "LosAngeles";
+		
+//		q.evaluateQueriesGroup("Pareto", keys, 20, city, numKey,radius,"paretoRank");		
+		q.evaluateQueriesGroup("SKPQ", keys, 20,city, numKey,radius,"range");		
+		alpha=0.5;
+//		q.evaluateQueriesGroup("ParetoSearch", keys, 20, city, numKey,radius,"paretoSearch", alpha);
+//		q.evaluateQueriesGroup("InfluenceSearch", keys, 20, city, numKey,radius,"inf");
 	}
 
 }

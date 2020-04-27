@@ -1,8 +1,12 @@
 import scipy.stats as stats
 import numpy as np
 
-kw_vec = ["amenity","natural","shop","bench","tourism","bicycle","information","waste","parking","berliner"]
+#Berlin
+kw_vec = ["amenity","natural","shop","bench","tourism","bicycle","information","waste","parking","berliner",
+          "district","software","wedding","herb","door","pen","pension","development","resource","eagle"]
 query = 'ParetoSearch-LD'
+#query = 'SKPQ-LD'
+
 k_vec=[5,10,15,20]
 #k_vec=[5]
 
