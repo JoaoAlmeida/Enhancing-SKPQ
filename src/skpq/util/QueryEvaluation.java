@@ -42,7 +42,7 @@ public class QueryEvaluation {
 
 		readResultSet();
 		
-//		connect();
+		connect();
 	}
 
 	public QueryEvaluation() {
@@ -51,12 +51,12 @@ public class QueryEvaluation {
 	
 	  private void connect() throws ClassNotFoundException, InstantiationException, IllegalAccessException {
 	        try {
-	            System.out.println("----------- Conectando ao SGBD -----------");
+//	            System.out.println("----------- Conectando ao SGBD -----------");
 	            
 //	            Class.forName("com.mysql.cj.jdbc.Driver");
 	            conn = DriverManager.getConnection("jdbc:mysql://localhost/acm_recsys20?user=root&password=572069ce&serverTimezone=UTC");          
 
-	            System.out.println("----------- Conectado! -----------");
+//	            System.out.println("----------- Conectado! -----------");
 	            
 	        } catch (SQLException ex) {
 	            System.out.println("SQLException: " + ex.getMessage());
@@ -66,7 +66,7 @@ public class QueryEvaluation {
 	    }
 	
 
-	  private void storeSKPQResult(String query, int k, int numKey, String key, double radius, String city, String experimentName, double tau, double ndcg, String matchMethod, String neighborhood) throws SQLException {
+	  public void storeSKPQResult(String query, int k, int numKey, String key, double radius, String city, String experimentName, double tau, double ndcg, String matchMethod, String neighborhood) throws SQLException {
 		  
 		  PreparedStatement result;
 		  
@@ -83,20 +83,20 @@ public class QueryEvaluation {
 	      result.execute();
 	  }
 	  
-	  private void storeParetoSearch(String query, int k, int numKey, String key, double radius, String city, String experimentName, double alpha, double tau, double ndcg, String matchMethod, String neighborhood) throws SQLException {
+	  public void storeParetoSearch(String query, int k, int numKey, String key, double radius, String city, String experimentName, double alpha, double tau, double ndcg, String matchMethod) throws SQLException {
 		  
 		  PreparedStatement result;
-		  
+
 		  if(tau != tau) {			  
 			  result = conn.prepareStatement("INSERT INTO `acm_recsys20`.`"+query+"` (`k`, `numKey`, `keyword`, `radius`, `city`, `experimentName`, `alpha`,"
-				  		+ "`ndcg`, `textSimilarity_methodName`, `neighborhood_name`) VALUES ('"+k+"', '"+numKey+"', '"+key+"', '"+radius+"', '"+city+"', '"+experimentName+"', '"+alpha+"'"
-				  				+ "'"+ndcg+"', '"+matchMethod+"', '"+neighborhood+"');");
+				  		+ "`ndcg`, `textSimilarity_methodName`) VALUES ('"+k+"', '"+numKey+"', '"+key+"', '"+radius+"', '"+city+"', '"+experimentName+"', '"+alpha+"', "
+				  				+ "'"+ndcg+"', '"+matchMethod+"');");
 		  }else {
 			  result = conn.prepareStatement("INSERT INTO `acm_recsys20`.`"+query+"` (`k`, `numKey`, `keyword`, `radius`, `city`, `experimentName`, `alpha`,`tau`,"
-				  		+ "`ndcg`, `textSimilarity_methodName`, `neighborhood_name`) VALUES ('"+k+"', '"+numKey+"', '"+key+"', '"+radius+"', '"+city+"', '"+experimentName+"', '"+alpha+"', '"+tau+"', "
-				  				+ "'"+ndcg+"', '"+matchMethod+"', '"+neighborhood+"');"); 
+				  		+ "`ndcg`, `textSimilarity_methodName`) VALUES ('"+k+"', '"+numKey+"', '"+key+"', '"+radius+"', '"+city+"', '"+experimentName+"', '"+alpha+"', '"+tau+"', "
+				  				+ "'"+ndcg+"', '"+matchMethod+"');"); 
 		  }		  
-	        
+
 	      result.execute();
 	  }
 
@@ -535,7 +535,7 @@ public class QueryEvaluation {
 				}else if(queryName.equals("InfluenceSearch")) {
 					storeSKPQResult("skpq",k, numKey, queryKeyword[ind], radius, city, "recsys20", metrics[a][0], metrics[a][1], "default", type);
 				}else if(queryName.equals("ParetoSearch")) {
-					storeParetoSearch("skpq",k, numKey, queryKeyword[ind], radius, city, "recsys20", alpha,metrics[a][0], metrics[a][1], "default", type);
+					storeParetoSearch(queryName.toLowerCase(),k, numKey, queryKeyword[ind], radius, city, "recsys20", alpha,metrics[a][0], metrics[a][1], "default");
 				}else {
 					System.err.print("Query not implemented in database yet!");
 				}
@@ -574,17 +574,27 @@ public class QueryEvaluation {
 		
 		QueryEvaluation q = new QueryEvaluation();
 		
-		int numKey = 1;
+		int numKey = 5;
 		double radius = 0.01;		
+		
 		//Berlin
 //		String keys[] = { "wheat", "software", "wedding", "herb", "door", "pen", "pension", "development", "resource", "eagle" };
 //		String keys[] = {"amenity","natural","shop","bench","tourism","bicycle","information","waste","parking","berliner"};
 //		String keys[] = { "amenity","natural","shop","bench","tourism","bicycle","information","waste","parking","berliner", "district", "software", "wedding", "herb", "door", "pen", "pension", "development", "resource", "eagle"};
+//		String keys[] = {"amenity eagle","natural resource","shop development","bench pension","tourism pen","bicycle door","information herb","waste wedding","parking software","berliner district","district amenity","software natural","wedding shop","herb bench","door tourism","pen bicycle","pension information","development waste","resource parking","eagle berliner"};
+//		String keys[] = {"amenity eagle berliner","natural resource parking","shop development waste","bench pension information","tourism pen bicycle","bicycle door tourism","information herb bench","waste wedding shop","parking software natural","berliner district amenity","district amenity eagle","software natural district","wedding shop software","herb bench wedding","door tourism herb","pen bicycle door","pension information pen","development waste pension","resource parking development","eagle berliner resource"};			
+//		String keys[] = {"amenity eagle berliner district","natural resource parking software","shop development waste wedding","bench pension information herb","tourism pen bicycle door","bicycle door tourism pen","information herb bench pension","waste wedding shop development","parking software natural resource","berliner district amenity eagle","district amenity eagle berliner","software natural district parking","wedding shop software waste","herb bench wedding information","door tourism herb bicycle","pen bicycle door tourism","pension information pen bench","development waste pension shop","resource parking development natural","eagle berliner resource amenity"};
+//		String keys[] = {"amenity eagle berliner district natural","natural resource parking software amenity","shop development waste wedding bench","bench pension information herb shop","tourism pen bicycle door information","bicycle door tourism pen waste","information herb bench pension tourism","waste wedding shop development parking","parking software natural resource bicycle","berliner district amenity eagle software","district amenity eagle berliner resource","software natural district parking berliner","wedding shop software waste eagle","herb bench wedding information development","door tourism herb bicycle pension","pen bicycle door tourism district","pension information pen bench wedding","development waste pension shop herb","resource parking development natural door","eagle berliner resource amenity pen"};
 		
 		//Los Angeles
 //		String keys[] = { "architect", "colony", "publication", "family", "movie", "photography", "green", "pension", "nail", "week" };
-		String keys[] = {"amenity","avenue","road","north","east","west","south","boulevard","place","natural"};		
+//		String keys[] = {"amenity","avenue","road","north","east","west","south","boulevard","place","natural"};		
 //		String keys[] = {"amenity","avenue","road","north","east","west","south","boulevard","place","natural","architect", "colony", "publication", "family", "movie", "photography", "green", "pension", "nail", "week" };
+//		String keys[] = {"amenity avenue","road north","east west","south boulevard","place natural","architect colony","publication family","movie photography","green pension","nail week","amenity road","avenue north","east south","boulevard natural","architect publication","family photography","green nail","pension week","nail photography","week movie"};
+//		String keys[] = {"amenity avenue road","road north boulevard","east west north","south boulevard natural","place natural amenity","architect colony avenue","publication family east","movie photography south","green pension architect","nail week colony","amenity road publication","avenue north family","east south movie","boulevard natural photography","architect publication green","family photography pension","green nail amenity","pension week nail","nail photography week","week movie amenity"};
+//		String keys[] = {"amenity avenue road north","road north boulevard east","east west north amenity","south boulevard natural west","place natural amenity avenue","architect colony avenue road","publication family east south","movie photography south boulevard","green pension architect place","nail week colony natural","amenity road publication architect","avenue north family colony","east south movie publication","boulevard natural photography family","architect publication green movie","family photography pension green","green nail amenity photography","pension week nail amenity","nail photography week pension","week movie amenity nail"};
+		String keys[] = {"amenity avenue road north east","road north boulevard east west","east west north amenity south","south boulevard natural west amenity","place natural amenity avenue boulevard","architect colony avenue road place","publication family east south natural","movie photography south boulevard architect","green pension architect place colony","nail week colony natural publication","amenity road publication architect family","avenue north family colony movie","east south movie publication photography","boulevard natural photography family green","architect publication green movie pension","family photography pension green nail","green nail amenity photography week","pension week nail amenity avenue","nail photography week pension road","week movie amenity nail north"};
+		
 		//Madrid
 //		String keys[] = { "route", "performance", "thought", "interface", "lose", "stop", "treatment", "city", "weight", "birthday" };
 //		String keys[] = {"amenity","avenida","natural","shop","plaza","parking","calle","restaurant","arroyo","camino"};
@@ -592,23 +602,32 @@ public class QueryEvaluation {
 		//London
 //		String keys[] = { "agency", "phone", "nike", "aquarium", "crash", "secretary", "field", "medicine", "father", "tennis" };
 //		String keys[] = {"amenity","shop","restaurant","close","street","road","avenue","drive","lane","pub"};
-
+//		String keys[] = { "agency", "phone", "nike", "aquarium", "crash", "secretary", "field", "medicine", "father", "tennis","amenity","shop","restaurant","close","street","road","avenue","drive","lane","pub"};
+//		String keys[] = {"amenity shop","shop restaurant","restaurant amenity","close street","street road","road close","avenue drive","drive lane","lane avenue","pub agency","agency phone","phone pub","nike aquarium","aquarium crash","crash nike","secretary field","field medicine","medicine secretary","father tennis","tennis amenity"};
+//		String keys[] = {"amenity shop restaurant","shop restaurant close","restaurant amenity street","close street road","street road amenity","road close street","avenue drive road","drive lane avenue","lane avenue pub","pub agency drive","agency phone amenity","phone pub agency","nike aquarium phone","aquarium crash nike","crash nike secretary","secretary field medicine","field medicine crash","medicine secretary father","father tennis agency","tennis amenity phone"};
+//		String keys[] = {"amenity shop restaurant agency","shop restaurant close phone","restaurant amenity street nike","close street road aquarium","street road amenity crash","road close street secretary","avenue drive road field","drive lane avenue medicine","lane avenue pub father","pub agency drive tennis","agency phone amenity pub","phone pub agency lane","nike aquarium phone drive","aquarium crash nike avenue","crash nike secretary road","secretary field medicine street","field medicine crash close","medicine secretary father restaurant","father tennis agency shop","tennis amenity phone shop"};
+//		String keys[] = {"amenity shop restaurant agency pub","shop restaurant close phone lane","restaurant amenity street nike drive","close street road aquarium avenue","street road amenity crash road","road close street secretary restaurant","avenue drive road field street","drive lane avenue medicine close","lane avenue pub father shop","pub agency drive tennis amenity","agency phone amenity pub tennis","phone pub agency lane father","nike aquarium phone drive medicine","aquarium crash nike avenue field","crash nike secretary road shop","secretary field medicine street agency","field medicine crash close secretary","medicine secretary father restaurant crash","father tennis agency shop aquarium","tennis amenity phone shop nike"};
 		
 //		New York
 //		String keys[] = { "importance", "food", "perspective", "concept", "resource", "queen", "chemistry", "apartment", "department", "database" };
 //		String keys[] = {"amenity","shop","street","bicycle","place","natural","tree","road","avenue","drive"};
 //		String keys[] = {"amenity","shop","street","bicycle","place","natural","tree","road","avenue","drive","importance", "food", "perspective", "concept", "resource", "queen", "chemistry", "apartment", "department", "database" };
+//		String keys[] = {"amenity shop","street bicycle","place natural","tree road","avenue drive","importance food","perspective concept","resource queen","chemistry apartment","department database","amenity street","shop bicycle","place tree","natural road","avenue importance","drive food","perspective resource","concept queen","chemistry department","apartment database"};
+//		String keys[] = {"amenity shop street","street bicycle amenity","place natural shop","tree road bicycle","avenue drive place","importance food natural","perspective concept tree","resource queen road","chemistry apartment avenue","department database drive","amenity street importance","shop bicycle food","place tree perspective","natural road concept","avenue importance resource","drive food queen","perspective resource chemistry","concept queen apartment","chemistry department database","apartment database department"};
+//		String keys[] = {"amenity shop street bicycle","street bicycle amenity place","place natural shop amenity","tree road bicycle natural","avenue drive place tree","importance food natural road","perspective concept tree avenue","resource queen road drive","chemistry apartment avenue shop","department database drive street","amenity street importance food","shop bicycle food importance","place tree perspective concept","natural road concept perspective","avenue importance resource queen","drive food queen resource","perspective resource chemistry apartment","concept queen apartment chemistry","chemistry department database amenity","apartment database department food"};
+//		String keys[] = {"amenity shop street bicycle place","street bicycle amenity place natural","place natural shop amenity tree","tree road bicycle natural road","avenue drive place tree avenue","importance food natural road drive","perspective concept tree avenue importance","resource queen road drive food","chemistry apartment avenue shop perspective","department database drive street concept","amenity street importance food resource","shop bicycle food importance queen","place tree perspective concept chemistry","natural road concept perspective apartment","avenue importance resource queen department","drive food queen resource database","perspective resource chemistry apartment amenity","concept queen apartment chemistry shop","chemistry department database amenity street","apartment database department food place"};
 		
-//		String keys[] = {"amenity"};		
+//		String keys[] = {"district"};		
 //		String keys[] = { "agency", "phone", "nike", "aquarium", "crash", "secretary", "field", "medicine", "father", "tennis","amenity","shop","restaurant","close","street","road","avenue","drive","lane","pub"};
+//		
 		
 		String city = "LosAngeles";
 		
-//		q.evaluateQueriesGroup("Pareto", keys, 20, city, numKey,radius,"paretoRank");		
-		q.evaluateQueriesGroup("SKPQ", keys, 20,city, numKey,radius,"range");		
 		alpha=0.5;
-//		q.evaluateQueriesGroup("ParetoSearch", keys, 20, city, numKey,radius,"paretoSearch", alpha);
-//		q.evaluateQueriesGroup("InfluenceSearch", keys, 20, city, numKey,radius,"inf");
+		q.evaluateQueriesGroup("ParetoSearch", keys, 20, city, numKey,radius,"");
+		q.evaluateQueriesGroup("InfluenceSearch", keys, 20, city, numKey,radius,"inf");
+		q.evaluateQueriesGroup("Pareto", keys, 20, city, numKey,radius,"paretoRank");		
+		q.evaluateQueriesGroup("SKPQ", keys, 20,city, numKey,radius,"range");		
 	}
 
 }

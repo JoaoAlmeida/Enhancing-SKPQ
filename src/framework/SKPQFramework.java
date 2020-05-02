@@ -1,9 +1,12 @@
 package framework;
 
 import java.awt.Toolkit;
+import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Properties;
+
+import org.apache.commons.io.FileUtils;
 
 import skpq.PersonalizedSKPQSearch;
 import skpq.RQSearch;
@@ -144,11 +147,16 @@ public class SKPQFramework extends DefaultExperimentManager {
 	}
 
 	public static void main(String[] args) throws IOException {
+		
+		FileUtils.cleanDirectory(new File("./thrash"));
+		FileUtils.cleanDirectory(new File("./evaluations"));
+		
 		if (args == null || args.length == 0) {
 			args = new String[] { "framework.properties" };
 		}
 		ExperimentRunner runner = new ExperimentRunner(new SKPQFrameworkFactory(), args[0]);
 		runner.run();
+		Toolkit.getDefaultToolkit().beep();
 		Toolkit.getDefaultToolkit().beep();
 	}
 }

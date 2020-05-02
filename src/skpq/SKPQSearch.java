@@ -1,10 +1,10 @@
 package skpq;
 
-import java.awt.Toolkit;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
 import java.io.Writer;
+import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
@@ -24,6 +24,7 @@ public class SKPQSearch extends SpatialQueryLD {
 	private String match;
 	private String neighborhood;
 	private String city;
+	private int numkey = 1;
 	
 	public SKPQSearch(int k, String keywords, String neighborhood, double radius, StarRTree objectsOfInterest, boolean debug, String match, String city) throws IOException {
 		super(k, keywords, objectsOfInterest, debug);
@@ -32,14 +33,8 @@ public class SKPQSearch extends SpatialQueryLD {
 		this.neighborhood = neighborhood;
 		this.city = city;
 	}
-
-//	public SKPQSearch(int k, String keywords, String neighborhood, double radius, StarRTree objectsOfInterest, boolean debug) throws IOException {
-//		super(k, keywords, objectsOfInterest, debug);
-//		this.radius = radius;
-//		this.match = "default";
-//	}
 	
-	public TreeSet<SpatialObject> execute(String queryKeywords, int k) throws IOException {
+	public TreeSet<SpatialObject> execute(String queryKeywords, int k) throws IOException, ClassNotFoundException, InstantiationException, IllegalAccessException, SQLException {
 
 		List<SpatialObject> interestObjectSet = new ArrayList<SpatialObject>();
 		TreeSet<SpatialObject> topK = new TreeSet<>();
@@ -56,35 +51,37 @@ public class SKPQSearch extends SpatialQueryLD {
 			printQueryName();
 		}
 
-		//Organizar isso daqui, dá pra colocar um print pra cada dentro dos ifs
 		if(neighborhood.equals("3")) {
-			double alpha = 0.5;
-			topK = findFeaturesPareto(interestObjectSet, keywords, radius, match, city.toLowerCase(), alpha);
-			try {
-//				saveResults(topK);
-				saveGroupResultsBNPareto(topK); 
-//				evaluateQuery(keywords, null, k);
-			} catch (IOException e) {
-				e.printStackTrace();
-			}		
+			
+			double alpha = 0.05;
+			
+			topK = findFeaturesPareto(interestObjectSet, keywords, radius, match, city.toLowerCase(), alpha);			
+			
+			saveGroupResultsBNPareto(topK); 			
+			
+			evaluateQueryGroup("ParetoSearch", keywords, k, city, numkey, radius, match, alpha);
+			
 		}else if(neighborhood.equals("1")) {
 //			range
+			
 //			topK = findFeaturesLGDBN(interestObjectSet, keywords, radius, match, city.toLowerCase());
 			topK = findFeaturesLGDFast(interestObjectSet, keywords, radius, match, city.toLowerCase());
+
+//			saveResults(topK);
+			saveGroupResultsBN(topK);				
 			
-			try {
-//				saveResults(topK);
-				saveGroupResultsBN(topK);
-//				evaluateQuery(keywords, null, k);
-			} catch (IOException e) {
-				e.printStackTrace();
-			}	
+			evaluateQueryGroup("SKPQ", keywords, k, city, numkey, radius, match);
+			
 		}else if(neighborhood.equals("2")) {
 //			influence
+			
 			topK = findFeaturesInfluence(interestObjectSet, keywords, radius, match, city.toLowerCase());
+			
 			saveGroupResultsBNInfluence(topK);
+			
+			evaluateQueryGroup("InfluenceSearch", keywords, k, city, numkey, radius, match);
 		}			
-
+		
 		return topK;
 	}
 	

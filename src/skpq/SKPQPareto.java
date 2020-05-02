@@ -8,6 +8,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.io.Writer;
+import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
@@ -31,6 +32,7 @@ public class SKPQPareto extends SpatialQueryLD {
 
 	private double radius;
 	String city;
+	int numKey = 2;
 	// GooglePlaces googleAPI;
 	// private WebContentCache reviewCache;
 
@@ -49,7 +51,7 @@ public class SKPQPareto extends SpatialQueryLD {
 		// }
 	}
 
-	public TreeSet<SpatialObject> execute(String queryKeywords, int k) throws IOException {
+	public TreeSet<SpatialObject> execute(String queryKeywords, int k) throws IOException, ClassNotFoundException, InstantiationException, IllegalAccessException, SQLException {
 
 		List<SpatialObject> interestObjectSet = new ArrayList<SpatialObject>();
 		TreeSet<SpatialObject> topK = new TreeSet<>();
@@ -136,8 +138,8 @@ public class SKPQPareto extends SpatialQueryLD {
 
 				// encontra o check-in mais próximo do POI
 				// double dist = u.findClosest(coords);
-
-				if (!obj.getBestNeighbor().getName().equals("empty")) {
+				
+				if (obj.getBestNeighbor().getName().equals("empty")) {
 
 					obj.setId(id);
 					id--;
@@ -151,7 +153,7 @@ public class SKPQPareto extends SpatialQueryLD {
 					
 					// Sometimes the probability will be negative infinite. Here we deal with this
 					// ignoring it. A probabilidade e infinita quando o proprio hotel e retornado no conjunto de features. Entao ignoramos ele.
-					if (!(probability == Double.NEGATIVE_INFINITY)) {
+					if (!(probability == Double.NEGATIVE_INFINITY || probability == Double.POSITIVE_INFINITY)) {
 
 						if (probability > maxProb) {
 							maxProb = probability;
@@ -183,14 +185,15 @@ public class SKPQPareto extends SpatialQueryLD {
 
 					// Sometimes the probability will be negative infinite. Here we deal with this
 					// ignoring it.
-					if (probability == Double.NEGATIVE_INFINITY) {
+					if (probability == Double.NEGATIVE_INFINITY || probability == Double.POSITIVE_INFINITY) {
 						probability = maxProb;
 					}
-
+					
 					double normProb = (probability - minProb) / (maxProb - minProb);
+					
+					obj.setScore((normProb + obj.getScore())/2);
 
-					obj.setScore((normProb / 2 + obj.getScore()));
-
+					
 					pTopK.add(obj);
 				}
 			}
@@ -199,9 +202,8 @@ public class SKPQPareto extends SpatialQueryLD {
 				if (!pTopK.isEmpty()) {
 					// saveGroupResults(pTopK);
 					saveResultsBN(pTopK);
-				}
-				// Retirei porque o NDCG não me interessa por agora
-				// evaluateQuery(keywords, null, k);
+				}				
+				 evaluateQuery("Pareto", keywords, city, numKey, radius, "default");
 			} catch (IOException e) {
 				e.printStackTrace();
 			}
@@ -221,6 +223,7 @@ public class SKPQPareto extends SpatialQueryLD {
 				pTopK.add(obj);
 			}
 			saveResultsBN(pTopK);
+			 evaluateQuery("Pareto", keywords, city, numKey, radius, "default");
 			reader.close();
 			return pTopK;
 		}
@@ -229,7 +232,7 @@ public class SKPQPareto extends SpatialQueryLD {
 	protected void saveResults(TreeSet<SpatialObject> topK) throws IOException {
 
 		Writer outputFile = new OutputStreamWriter(
-				new FileOutputStream("pskpq/Pareto-LD [" + "k=" + k + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
+				new FileOutputStream("skpq/Pareto-LD [" + "k=" + k + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
 
 		Iterator<SpatialObject> it = topK.descendingIterator();
 
@@ -252,7 +255,7 @@ public class SKPQPareto extends SpatialQueryLD {
 	protected void saveResultsBN(TreeSet<SpatialObject> topK) throws IOException {
 
 		Writer outputFile = new OutputStreamWriter(
-				new FileOutputStream("pskpq/Pareto-LD [" + "k=" + k + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
+				new FileOutputStream("skpq/Pareto-LD [" + "k=" + k + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
 
 		Iterator<SpatialObject> it = topK.descendingIterator();
 

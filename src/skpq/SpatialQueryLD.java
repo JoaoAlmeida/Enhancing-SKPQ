@@ -9,6 +9,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.io.Writer;
+import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Iterator;
@@ -17,6 +18,7 @@ import java.util.Locale;
 import java.util.Map;
 import java.util.TreeSet;
 
+import org.apache.commons.io.FileUtils;
 import org.apache.commons.math3.distribution.ParetoDistribution;
 import org.apache.commons.text.similarity.FuzzyScore;
 import org.apache.commons.text.similarity.JaroWinklerDistance;
@@ -208,7 +210,7 @@ public abstract class SpatialQueryLD implements Experiment {
 		}
 	}
 
-	protected abstract TreeSet<SpatialObject> execute(String queryKeywords, int k) throws ExperimentException, IOException;
+	protected abstract TreeSet<SpatialObject> execute(String queryKeywords, int k) throws ExperimentException, IOException, ClassNotFoundException, InstantiationException, IllegalAccessException, SQLException;
 
 	@Override
 	public void run() throws ExperimentException {
@@ -233,77 +235,160 @@ public abstract class SpatialQueryLD implements Experiment {
 	public void printQueryName() {
 		System.out.println("\nk = " + k + " | keywords = [ " + keywords + " ]\n\n");
 	}
+	
+	protected void evaluateQuery(String queryName, String queryKeyword, String city, int numKey, double radius, String matchMethod) throws ClassNotFoundException, InstantiationException, IllegalAccessException, IOException, SQLException {
+		evaluateQuery(queryName, queryKeyword, city, numKey, radius, matchMethod, 0);
+	}
+	
+	protected void evaluateQuery(String queryName, String queryKeyword, String city, int numKey, double radius,
+			String matchMethod, double alpha) throws IOException, ClassNotFoundException, InstantiationException, IllegalAccessException, SQLException {
 
-	//a forma de retornar as metricas atraves do metodo execute() mudou. Precisa revisar se o retorno esta corrento dentro desse metodo. Construtor de rating extractor mudou tbm
-	@Deprecated
-	protected double[][] evaluateQuery(String keywords, String radius, int numResult, boolean personalized) throws IOException{
+		if (debug) {
+			System.out.println("\n");
+			System.out.println("=========================");
+			System.out.println("  Evaluating Query...  ");
+			System.out.println("=========================");
+		}
 
-		System.out.println("\n");
-		System.out.println("=========================");
-		System.out.println("  Evaluating Query...  ");
-		System.out.println("=========================");					
+//		FileUtils.cleanDirectory(new File("./thrash"));
+//		FileUtils.cleanDirectory(new File("./evaluations"));
 
-		String fileName;
-		ArrayList<String> rateResults = null;
+		double[] metrics = new double[2];
 
-		double[][] ndcg = new double[4][4];
+		System.out.println("========== KEY: " + queryKeyword.toUpperCase() + " ==========\n");
 
-		int k_max = numResult;
+			String fileName = queryName + "-LD [k=" + k + ", kw=" + queryKeyword + "].txt";
+
+			Writer output = new OutputStreamWriter(
+					new FileOutputStream("./thrash/" + fileName.split("\\.txt")[0] + " --- ratings.txt"), "ISO-8859-1");
+
+			/*
+			 * Evaluation methods: default --> using only Google Maps rate cosine (default)
+			 * --> considers cosine similarity score and Google Maps rate tripAdvisor -->
+			 * using an opinRank query, it searches for user's judgment related to the
+			 * query. It is necessary to set the rate file manually. personalized -->
+			 * searches for the rate related to the the user preference. Each user
+			 * preference is represented by a profile. The user preference must be described
+			 * manually in the method.
+			 */
+			RatingExtractor obj = new RatingExtractor("cosine", city);
+
+			ArrayList<String> rateResults = obj.rateLODresult("skpq/" + fileName);
+
+			for (String x : rateResults) {
+
+				output.write(x + "\n");
+			}
+
+			output.close();
+
+			QueryEvaluation evaluator = new QueryEvaluation(fileName.split("\\.txt")[0] + " --- ratings.txt");
+
+			// Connection to the database in the QueryEvaluation constructor
+//				evaluator.connect();
+
+			metrics = evaluator.execute();
+
+			if (queryName.equals("SKPQ")) {
+				evaluator.storeSKPQResult(queryName.toLowerCase(), k, numKey, queryKeyword, radius, city, "recsys20",metrics[0], metrics[1], matchMethod, "range");
+			} else if (queryName.equals("Pareto")) {
+				evaluator.storeSKPQResult("skpq", k, numKey, queryKeyword, radius, city, "recsys20", metrics[0],metrics[1], matchMethod, "paretorank");
+			} else if (queryName.equals("InfluenceSearch")) {
+				evaluator.storeSKPQResult("skpq", k, numKey, queryKeyword, radius, city, "recsys20", metrics[0],metrics[1], matchMethod, "inf");
+			} else if (queryName.equals("ParetoSearch")) {
+				evaluator.storeParetoSearch(queryName.toLowerCase(), k, numKey, queryKeyword, radius, city, "recsys20",alpha, metrics[0], metrics[1], matchMethod);
+			} else {
+				System.err.print("Query not implemented in database yet!");
+			}
+			
+		System.out.println("Tau: " + metrics[0]);
+		System.out.println("NDCG: " + metrics[1]);		
+	}	
+
+	protected void evaluateQueryGroup(String queryName, String queryKeyword, int k_max, String city, int numKey, double radius, String type) throws ClassNotFoundException, InstantiationException, IllegalAccessException, IOException, SQLException {
+		evaluateQueryGroup(queryName, queryKeyword, k_max, city, numKey, radius, type, 0);
+	}
+	
+	protected void evaluateQueryGroup(String queryName, String queryKeyword, int k_max, String city, int numKey, double radius,
+			String matchMethod, double alpha) throws IOException, ClassNotFoundException, InstantiationException, IllegalAccessException, SQLException {
+
+		if (debug) {
+			System.out.println("\n");
+			System.out.println("=========================");
+			System.out.println("  Evaluating Query...  ");
+			System.out.println("=========================");
+		}
+
+//		FileUtils.cleanDirectory(new File("./thrash"));
+//		FileUtils.cleanDirectory(new File("./evaluations"));
+
 		int inc = 5, k = 5, a = 0;
 
-		System.out.println("NDCG");
+		double[][] metrics = new double[4][4];
 
-		while(k <= k_max){
-			//mudar nome dos arquivos
-			if(personalized) {
-				fileName = "PSKPQ-LD [k="+k+", kw="+ keywords +"].txt";
-			}else {			
-				if(radius == null){			
-					fileName = "SKPQ-LD [k="+k+", kw="+ keywords +"].txt";
-				} else{
-					fileName = "SKPQ-LD [k="+k+", kw="+ keywords + ", radius=" + radius + "].txt";			
-				}
-			}
-			
-			boolean arquivoCriado = false;					
-			
-			
-			if(!arquivoCriado){
+		System.out.println("========== KEY: " + queryKeyword.toUpperCase() + " ==========\n");
 
-				Writer output = new OutputStreamWriter(new FileOutputStream(fileName.split("\\.txt")[0] + " --- ratings.txt"), "ISO-8859-1");
+		while (k <= k_max) {
+			String fileName = queryName + "-LD [k=" + k + ", kw=" + queryKeyword + "].txt";
 
-				/*Evaluation methods: 
-				 * default --> using only Google Maps rate
-				 * cosine --> considers cosine similarity score and Google Maps rate 
-				 * tripAdvisor --> using an opinRank query, it searches for user's judgment related to the query. It is necessary to set the rate file manually.
-				 * personalized --> searches for the rate related to the the user preference. Each user preference is represented by a profile. The user preference must be described manually in the method.				 
-				 * */				
-				//RatingExtractor obj = new RatingExtractor("tripAdvisor");
-				RatingExtractor obj = new RatingExtractor("personalized", "city name");
-				
-				if(radius == null){
-					rateResults = obj.rateLODresult(fileName);			
-				}else{
-					rateResults = obj.rateRangeLODresult(fileName);
-				}
+			Writer output = new OutputStreamWriter(
+					new FileOutputStream("./thrash/" + fileName.split("\\.txt")[0] + " --- ratings.txt"), "ISO-8859-1");
 
-				for (String x : rateResults) {
+			/*
+			 * Evaluation methods: default --> using only Google Maps rate cosine (default)
+			 * --> considers cosine similarity score and Google Maps rate tripAdvisor -->
+			 * using an opinRank query, it searches for user's judgment related to the
+			 * query. It is necessary to set the rate file manually. personalized -->
+			 * searches for the rate related to the the user preference. Each user
+			 * preference is represented by a profile. The user preference must be described
+			 * manually in the method.
+			 */
+			RatingExtractor obj = new RatingExtractor("cosine", city);
 
-					output.write(x + "\n");	
-				}		
-				output.close();
+			ArrayList<String> rateResults = obj.rateLODresult("skpq/" + fileName);
+
+			for (String x : rateResults) {
+
+				output.write(x + "\n");
 			}
 
-			QueryEvaluation q = new QueryEvaluation(fileName.split("\\.txt")[0] + " --- ratings.txt");
+			output.close();
 
-			ndcg[a] = q.execute();
-			System.out.print(ndcg[a] + " ");
+			QueryEvaluation evaluator = new QueryEvaluation(fileName.split("\\.txt")[0] + " --- ratings.txt");
 
-			k = k + inc;
+			// Connection to the database in the QueryEvaluation constructor
+//				evaluator.connect();
+
+			metrics[a] = evaluator.execute();
+
+			if (queryName.equals("SKPQ")) {
+				evaluator.storeSKPQResult(queryName.toLowerCase(), k, numKey, queryKeyword, radius, city, "recsys20",
+						metrics[a][0], metrics[a][1], matchMethod, "range");
+			} else if (queryName.equals("Pareto")) {
+				evaluator.storeSKPQResult("skpq", k, numKey, queryKeyword, radius, city, "recsys20", metrics[a][0],
+						metrics[a][1], matchMethod, "paretorank");
+			} else if (queryName.equals("InfluenceSearch")) {
+				evaluator.storeSKPQResult("skpq", k, numKey, queryKeyword, radius, city, "recsys20", metrics[a][0],
+						metrics[a][1], matchMethod, "inf");
+			} else if (queryName.equals("ParetoSearch")) {
+				evaluator.storeParetoSearch(queryName.toLowerCase(), k, numKey, queryKeyword, radius, city, "recsys20",
+						alpha, metrics[a][0], metrics[a][1], matchMethod);
+			} else {
+				System.err.print("Query not implemented in database yet!");
+			}
+
 			a++;
+			k = k + inc;
 		}
-		System.out.println("\n");
-		return ndcg;
+		System.out.println("Tau:");
+		for (double[] n : metrics) {
+			System.out.println(n[0]);
+		}
+
+		System.out.println("NDCG:");
+		for (double[] n : metrics) {
+			System.out.println(n[1]);
+		}
 	}	
 
 	// Searches for features in OpenStreetMap dataset. Actually using this because the match method is important in second article.

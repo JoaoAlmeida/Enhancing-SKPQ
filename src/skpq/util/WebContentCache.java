@@ -155,7 +155,7 @@ public class WebContentCache {
 	public void removeValues() throws IOException, FileNotFoundException {
 
 		BufferedReader exportedCache = new BufferedReader(
-				(new InputStreamReader(new FileInputStream(new File("ratings_dubai.ch.exported")), "ISO-8859-1")));
+				(new InputStreamReader(new FileInputStream(new File("./madrid/ratings.ch.exported")), "ISO-8859-1")));
 
 		String line = exportedCache.readLine();
 
@@ -241,18 +241,19 @@ public class WebContentCache {
 //		System.out.println(lat2);
 //		System.out.println(lgt2);
 
-		WebContentCache cache = new WebContentCache("descriptions.ch");
+		WebContentCache cache = new WebContentCache("./newyork/ratings.ch");
 
-		try {
-			cache.mergecache("descriptionsBerlin.ch");
-		} catch (ClassNotFoundException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
+//		try {
+//			cache.mergecache("descriptionsBerlin.ch");
+//		} catch (ClassNotFoundException e) {
+//			// TODO Auto-generated catch block
+//			e.printStackTrace();
+//		}
 
 //		System.out.println(cache.containsKey("null"));
 
-//		cache.load();
+		cache.load();
+//		cache.exportCache();
 //		cache.removeValues();
 		// cache.putDescription("Test", "Description");
 
@@ -260,6 +261,6 @@ public class WebContentCache {
 
 //		cache.exportCache();
 
-//		cache.printCache();		
+		cache.printCache();		
 	}
 }
