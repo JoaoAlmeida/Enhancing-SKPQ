@@ -8,6 +8,7 @@ import java.util.Properties;
 
 import org.apache.commons.io.FileUtils;
 
+import skpq.PSMSearch;
 import skpq.PersonalizedSKPQSearch;
 import skpq.RQSearch;
 import skpq.SKPQPareto;
@@ -83,7 +84,7 @@ public class SKPQFramework extends DefaultExperimentManager {
 						Double.parseDouble(getProperties().getProperty("query.radius")), objectsOfInterest,
 						Boolean.parseBoolean(getProperties().getProperty("experiment.debug")));
 			
-			}else if(getProperties().getProperty("query.name").equals("Pareto-LD")) {
+			} else if(getProperties().getProperty("query.name").equals("Pareto-LD")) {
 				
 				StarRTree objectsOfInterest = createRtree();
 				
@@ -92,6 +93,18 @@ public class SKPQFramework extends DefaultExperimentManager {
 						getProperties().getProperty("query.neighborhood"),
 						Double.parseDouble(getProperties().getProperty("query.radius")), objectsOfInterest,
 						Boolean.parseBoolean(getProperties().getProperty("experiment.debug")),getProperties().getProperty("query.city"));
+				
+			} else if (getProperties().getProperty("query.name").equals("PSM-LD")) {
+
+					StarRTree objectsOfInterest = createRtree();			
+						
+						experiment = new PSMSearch(Integer.parseInt(getProperties().getProperty("query.numResults")), 
+								getProperties().getProperty("query.keywords"),
+								Double.parseDouble(getProperties().getProperty("query.alpha")), 
+								Double.parseDouble(getProperties().getProperty("query.radius")), objectsOfInterest, 
+								Boolean.parseBoolean(getProperties().getProperty("experiment.debug", "false")), 
+								getProperties().getProperty("query.match", "default"), 
+								getProperties().getProperty("query.city"));
 				
 			} else if (getProperties().getProperty("query.name").equals("RQ-LD")) {
 

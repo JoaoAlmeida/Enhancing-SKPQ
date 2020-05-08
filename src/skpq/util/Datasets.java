@@ -1005,10 +1005,6 @@ public class Datasets {
 	// Examples of usage
 	public static void main(String[] args) throws IOException {
 
-//		double z;
-		
-//		z = (3 * 0.85 * Math.sqrt(12*(12-1)))/ Math.sqrt(2*(2*(12)+5));
-//		System.out.println(z);
 //		Datasets o = new Datasets();
 //		
 //		o.isolatePOI("./DatasetsOutput/check-ins/San Francisco.txt");

@@ -17,6 +17,7 @@ import java.util.List;
 import java.util.Locale;
 import java.util.Map;
 import java.util.TreeSet;
+import java.util.regex.PatternSyntaxException;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.math3.distribution.ParetoDistribution;
@@ -370,9 +371,9 @@ public abstract class SpatialQueryLD implements Experiment {
 			} else if (queryName.equals("InfluenceSearch")) {
 				evaluator.storeSKPQResult("skpq", k, numKey, queryKeyword, radius, city, "recsys20", metrics[a][0],
 						metrics[a][1], matchMethod, "inf");
-			} else if (queryName.equals("ParetoSearch")) {
-				evaluator.storeParetoSearch(queryName.toLowerCase(), k, numKey, queryKeyword, radius, city, "recsys20",
-						alpha, metrics[a][0], metrics[a][1], matchMethod);
+			} else if (queryName.equals("PSM")) {
+//				evaluator.storeParetoSearch(queryName.toLowerCase(), k, numKey, queryKeyword, radius, city, "recsys20",
+//						alpha, metrics[a][0], metrics[a][1], matchMethod);
 			} else {
 				System.err.print("Query not implemented in database yet!");
 			}
@@ -1662,6 +1663,24 @@ public abstract class SpatialQueryLD implements Experiment {
 			}
 		}
 		return abs;
+	}
+	
+	protected int countKeywords(String keywords) {
+		
+		int count = 0;
+		try {
+			String vector[] = keywords.split(" ");
+			
+			for(int a = 0; a < vector.length;a++) {
+				if(!vector[a].equals("")) {
+					count++;
+				}
+			}
+		}catch(PatternSyntaxException e) {
+			System.err.println("Use blank spaces to separet the keywords!");
+		}
+		
+		return count;
 	}
 	
 	protected void printResults(Iterator<SpatialObject> iterator){
