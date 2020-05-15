@@ -3,12 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="15a95df4-0510-404f-a2a3-b64a27caccf5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Kendaltau.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/Kendaltau.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/Dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/Dataset.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../framework.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../framework.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../googleDescriptions.ch" beforeDir="false" afterPath="$PROJECT_DIR$/../../googleDescriptions.ch" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ratings.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ratings.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/skpq/util/QueryEvaluation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/skpq/util/QueryEvaluation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/skpq/util/RatingExtractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/skpq/util/RatingExtractor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/skpq/SKPQSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/skpq/SKPQSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/skpq/SpatialQueryLD.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/skpq/SpatialQueryLD.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,14 +61,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Spearman">
+  <component name="RunManager" selected="Python.Dataset">
     <configuration name="Dataset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="distribution" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -132,9 +129,6 @@
       <module name="distribution" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -154,6 +148,9 @@
       <module name="distribution" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -193,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Dataset" />
+        <item itemvalue="Python.PlotPOI" />
         <item itemvalue="Python.Spearman" />
         <item itemvalue="Python.Kendaltau" />
         <item itemvalue="Python.PlotGraph" />
-        <item itemvalue="Python.Dataset" />
-        <item itemvalue="Python.PlotPOI" />
       </list>
     </recent_temporary>
   </component>
@@ -271,6 +268,7 @@
       <workItem from="1587784332384" duration="1158000" />
       <workItem from="1587789166071" duration="2842000" />
       <workItem from="1587800987738" duration="278000" />
+      <workItem from="1589478201919" duration="3124000" />
     </task>
     <servers />
   </component>
@@ -330,10 +328,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="303" y="76" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1586444919742" />
-    <state x="508" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1587801051127">
+    <state x="508" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1589478203782">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="508" y="259" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1587801051127" />
+    <state x="508" y="259" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1589478203782" />
     <state x="611" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586662657887">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

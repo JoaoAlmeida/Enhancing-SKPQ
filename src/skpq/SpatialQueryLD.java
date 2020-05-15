@@ -330,7 +330,7 @@ public abstract class SpatialQueryLD implements Experiment {
 		System.out.println("========== KEY: " + queryKeyword.toUpperCase() + " ==========\n");
 
 		while (k <= k_max) {
-			String fileName = queryName + "-LD [k=" + k + ", kw=" + queryKeyword + "].txt";
+			String fileName = queryName + "[k=" + k + ", kw=" + queryKeyword + "].txt";
 
 			Writer output = new OutputStreamWriter(
 					new FileOutputStream("./thrash/" + fileName.split("\\.txt")[0] + " --- ratings.txt"), "ISO-8859-1");
@@ -362,18 +362,21 @@ public abstract class SpatialQueryLD implements Experiment {
 
 			metrics[a] = evaluator.execute();
 
-			if (queryName.equals("SKPQ")) {
-				evaluator.storeSKPQResult(queryName.toLowerCase(), k, numKey, queryKeyword, radius, city, "recsys20",
+			if (queryName.equals("SKPQ-RNG")) {
+				evaluator.storeSKPQResult("skpq", k, numKey, queryKeyword, radius, city, "recsys20",
 						metrics[a][0], metrics[a][1], matchMethod, "range");
 			} else if (queryName.equals("Pareto")) {
 				evaluator.storeSKPQResult("skpq", k, numKey, queryKeyword, radius, city, "recsys20", metrics[a][0],
 						metrics[a][1], matchMethod, "paretorank");
-			} else if (queryName.equals("InfluenceSearch")) {
+			} else if (queryName.equals("SKPQ-INF")) {
 				evaluator.storeSKPQResult("skpq", k, numKey, queryKeyword, radius, city, "recsys20", metrics[a][0],
 						metrics[a][1], matchMethod, "inf");
 			} else if (queryName.equals("PSM")) {
-//				evaluator.storeParetoSearch(queryName.toLowerCase(), k, numKey, queryKeyword, radius, city, "recsys20",
-//						alpha, metrics[a][0], metrics[a][1], matchMethod);
+				evaluator.storeParetoSearch("paretosearch", k, numKey, queryKeyword, radius, city, "recsys20",
+						alpha, metrics[a][0], metrics[a][1], matchMethod);
+			} else if(queryName.equals("SKPQ-NN")) {
+				evaluator.storeSKPQResult("skpq", k, numKey, queryKeyword, radius, city, "recsys20",
+						metrics[a][0], metrics[a][1], matchMethod, "nn");
 			} else {
 				System.err.print("Query not implemented in database yet!");
 			}
@@ -1046,6 +1049,110 @@ public abstract class SpatialQueryLD implements Experiment {
 			featureSet.clear();
 		}
 		
+		return topK;
+	}
+	
+	public TreeSet<SpatialObject> nearestNeighbor(List<SpatialObject> interestSet, String keywords, double radius,
+			String match, String city) throws IOException {
+
+		TreeSet<SpatialObject> topK = new TreeSet<>();
+
+		for (int a = 0; a < interestSet.size(); a++) {
+
+			SpatialObject poi = interestSet.get(a);
+
+			WebContentArrayCache featuresCache = new WebContentArrayCache("./" + city + "/pois/POI[" + a + "].cache",
+					radius);
+
+			try {
+				featuresCache.load();
+			} catch (IOException e1) {
+				e1.printStackTrace();
+			}
+
+			if (debug) {
+				System.out.println("::::::::::::::::::::::::::::::::::::::::::::::::::::::::");
+				System.out.println("POI #" + a + " - " + interestSet.get(a).getURI());
+			}
+
+			ArrayList<SpatialObject> featureSet = featuresCache.getArray(interestSet.get(a).getURI());
+
+			double maxScore = 0, minDistance = Double.MAX_VALUE;
+			SpatialObject bestFeature = null;
+
+			// compute the textual score for each feature
+			for (int b = 0; b < featureSet.size(); b++) {
+
+				SpatialObject feature = featureSet.get(b);
+				
+				double featureDistance = distFrom(Double.parseDouble(poi.getLat()), Double.parseDouble(poi.getLgt()),
+						Double.parseDouble(feature.getLat()), Double.parseDouble(feature.getLgt()));
+				
+				
+				
+				if (minDistance >= featureDistance) {
+										
+					String abs;
+
+					if (searchCache.containsKey(featureSet.get(b).getURI())) {
+						abs = searchCache.getDescription(featureSet.get(b).getURI());
+
+					} else {
+						abs = getTextDescriptionLGD(featureSet.get(b).getURI());
+						searchCache.putDescription(featureSet.get(b).getURI(), abs);
+
+						try {
+							searchCache.store();
+						} catch (IOException e) {
+							// TODO Auto-generated catch block
+							e.printStackTrace();
+						}
+					}
+
+					double score = 0;
+
+					if (match.equals("default")) {
+						score = LuceneCosineSimilarity.getCosineSimilarity(abs, keywords);
+					} else if (match.equals("fuzzy")) {
+						FuzzyScore f = new FuzzyScore(Locale.ENGLISH);
+						score = f.fuzzyScore(abs, keywords);
+					} else if (match.equals("jw")) {
+						JaroWinklerDistance jw = new JaroWinklerDistance();
+						score = jw.apply(abs, keywords);
+					} else {
+						System.out.println("WARN -- Unknown similarity measure! Default measure used instead. ");
+						score = LuceneCosineSimilarity.getCosineSimilarity(abs, keywords);
+					}
+
+					if (score > maxScore) {
+						maxScore = score;
+						bestFeature = featureSet.get(b);
+					}
+				minDistance = featureDistance;						
+				}
+			}
+			if (maxScore != 0) {
+				interestSet.get(a).setScore(maxScore);
+				interestSet.get(a).setBestNeighbor(bestFeature);
+			} else {
+				interestSet.get(a).setScore(0);
+				SpatialObject nb = new SpatialObject(0, "empty", "empty", "0", "0");
+				nb.setScore(0);
+				interestSet.get(a).setBestNeighbor(nb);
+			}
+
+			if (topK.size() < k) {
+				topK.add(interestSet.get(a));
+				// keeps the best objects, if they have the same scores, keeps
+				// the objects with smaller ids
+			} else if (interestSet.get(a).getScore() > topK.first().getScore()
+					|| (interestSet.get(a).getScore() == topK.first().getScore()
+							&& interestSet.get(a).getId() > topK.first().getId())) {
+				topK.pollFirst();
+				topK.add(interestSet.get(a));
+			}
+			featureSet.clear();
+		}
 		return topK;
 	}
 	

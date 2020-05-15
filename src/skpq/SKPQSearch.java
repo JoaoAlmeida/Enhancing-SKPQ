@@ -51,25 +51,32 @@ public class SKPQSearch extends SpatialQueryLD {
 			printQueryName();
 		}
 
-	 if(neighborhood.equals("1")) {
+		if(neighborhood.equals("0")) {
+//			NN			
+			topK = nearestNeighbor(interestObjectSet, keywords, radius, match, city.toLowerCase());
+
+			saveGroupResultsBN(topK, "SKPQ-NN");
+			
+			evaluateQueryGroup("SKPQ-NN", keywords, k, city, numkey, radius, match);	
+			
+		} else if(neighborhood.equals("1")) {
 //			range
 			
 //			topK = findFeaturesLGDBN(interestObjectSet, keywords, radius, match, city.toLowerCase());
 			topK = findFeaturesLGDFast(interestObjectSet, keywords, radius, match, city.toLowerCase());
 
-//			saveResults(topK);
-			saveGroupResultsBN(topK);				
+			saveGroupResultsBN(topK, "SKPQ-RNG");			
 			
-			evaluateQueryGroup("SKPQ", keywords, k, city, numkey, radius, match);
+			evaluateQueryGroup("SKPQ-RNG", keywords, k, city, numkey, radius, match);
 			
-		}else if(neighborhood.equals("2")) {
+		} else if(neighborhood.equals("2")) {
 //			influence
 			
 			topK = findFeaturesInfluence(interestObjectSet, keywords, radius, match, city.toLowerCase());
 			
-			saveGroupResultsBNInfluence(topK);
+			saveGroupResultsBN(topK, "SKPQ-INF");
 			
-			evaluateQueryGroup("InfluenceSearch", keywords, k, city, numkey, radius, match);
+			evaluateQueryGroup("SKPQ-INF", keywords, k, city, numkey, radius, match);
 		}			
 		
 		return topK;
@@ -142,6 +149,66 @@ protected void saveGroupResults(TreeSet<SpatialObject> topK) throws IOException{
 		
 		outputFile.close();
 	}
+
+//Safe to use. K must be 20.
+protected void saveGroupResultsBN(TreeSet<SpatialObject> topK, String queryName) throws IOException{
+	
+	/* Imprime 5 */
+	Writer outputFile = new OutputStreamWriter(new FileOutputStream("skpq/"+queryName+"[" + "k=" + "5" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
+	
+	Iterator<SpatialObject> it = topK.descendingIterator();
+	
+	for(int a = 1; a <= 5; a++){
+		SpatialObject obj = it.next();
+		outputFile.write("-->[" + a + "]  " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt=" + obj.getLgt() + ", score=" + obj.getScore() + "]\n");
+		outputFile.write("[BN]  " + "[OSMlabel=" + obj.getBestNeighbor().getName() + ", lat=" + obj.getBestNeighbor().getLat() + ", lgt="
+				+ obj.getBestNeighbor().getLgt() + ", score=" + obj.getBestNeighbor().getScore() + "]\n");
+	}
+	
+	outputFile.close();
+	
+	/* Imprime 10 */
+	outputFile = new OutputStreamWriter(new FileOutputStream("skpq/"+queryName+"[" + "k=" + "10" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
+	
+	it = topK.descendingIterator();
+	
+	for(int a = 1; a <= 10; a++){
+		SpatialObject obj = it.next();
+		outputFile.write("-->[" + a + "]  " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt=" + obj.getLgt() + ", score=" + obj.getScore() + "]\n");
+		outputFile.write("[BN]  " + "[OSMlabel=" + obj.getBestNeighbor().getName() + ", lat=" + obj.getBestNeighbor().getLat() + ", lgt="
+				+ obj.getBestNeighbor().getLgt() + ", score=" + obj.getBestNeighbor().getScore() + "]\n");
+	}
+	
+	outputFile.close();
+	
+	/* Imprime 15 */
+	outputFile = new OutputStreamWriter(new FileOutputStream("skpq/"+queryName+"[" + "k=" + "15" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
+	
+	it = topK.descendingIterator();
+	
+	for(int a = 1; a <= 15; a++){
+		SpatialObject obj = it.next();
+		outputFile.write("-->[" + a + "]  " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt=" + obj.getLgt() + ", score=" + obj.getScore() + "]\n");
+		outputFile.write("[BN]  " + "[OSMlabel=" + obj.getBestNeighbor().getName() + ", lat=" + obj.getBestNeighbor().getLat() + ", lgt="
+				+ obj.getBestNeighbor().getLgt() + ", score=" + obj.getBestNeighbor().getScore() + "]\n");
+	}
+	
+	outputFile.close();
+	
+	/* Imprime 20 */
+	outputFile = new OutputStreamWriter(new FileOutputStream("skpq/"+queryName+"[" + "k=" + "20" + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
+	
+	it = topK.descendingIterator();
+	
+	for(int a = 1; a <= 20; a++){
+		SpatialObject obj = it.next();
+		outputFile.write("-->[" + a + "]  " + "[OSMlabel=" + obj.getName() + ", lat=" + obj.getLat() + ", lgt=" + obj.getLgt() + ", score=" + obj.getScore() + "]\n");
+		outputFile.write("[BN]  " + "[OSMlabel=" + obj.getBestNeighbor().getName() + ", lat=" + obj.getBestNeighbor().getLat() + ", lgt="
+				+ obj.getBestNeighbor().getLgt() + ", score=" + obj.getBestNeighbor().getScore() + "]\n");
+	}
+	
+	outputFile.close();
+}
 
 //Safe to use. K must be 20.
 protected void saveGroupResultsBN(TreeSet<SpatialObject> topK) throws IOException{

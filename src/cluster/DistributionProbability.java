@@ -3,12 +3,10 @@ package cluster;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
-import java.io.UnsupportedEncodingException;
 import java.io.Writer;
 import java.util.ArrayList;
 
@@ -52,15 +50,16 @@ public class DistributionProbability {
 		return objectsInterest;
 	}
 
-	public void getDistribution() throws IOException {
-		Writer writer = new OutputStreamWriter(new FileOutputStream("./datasetsOutput/distancesLA.txt", true),
+	public static void getDistribution() throws IOException {
+		
+		Writer writer = new OutputStreamWriter(new FileOutputStream("./datasetsOutput/distancesNewYork.txt", true),
 				"ISO-8859-1");
 
-		ArrayList<SpatialObject> pois = loadObjectsInterest("./losangeles/LosAngelesLGD.txt");
+		ArrayList<SpatialObject> pois = loadObjectsInterest("./newyork/NewYorkLGD.txt");
 
 		for (int a = 0; a < pois.size(); a++) {
 
-			WebContentArrayCache featuresCache = new WebContentArrayCache("./losangeles/pois/POI[" + a + "].cache", 0.01);
+			WebContentArrayCache featuresCache = new WebContentArrayCache("./newyork/pois/POI[" + a + "].cache", 0.01);
 			featuresCache.load();
 
 			ArrayList<SpatialObject> featureSet = featuresCache.getArray(pois.get(a).getURI());
@@ -82,15 +81,15 @@ public class DistributionProbability {
 					writer.append(line + "\n");
 					writer.flush();
 				}
-			}			
+			}		
 		}
-
+		
 		writer.close();
 	}
 	
 	public static void main(String[] args) throws IOException {
 
-		normalizedDistribution();
+		getDistribution();
 	}
 	
 	public static void normalizedDistribution() throws IOException {
