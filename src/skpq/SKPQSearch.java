@@ -24,7 +24,7 @@ public class SKPQSearch extends SpatialQueryLD {
 	private String match;
 	private String neighborhood;
 	private String city;
-	private int numkey = 1;
+	private int numKey;
 	
 	public SKPQSearch(int k, String keywords, String neighborhood, double radius, StarRTree objectsOfInterest, boolean debug, String match, String city) throws IOException {
 		super(k, keywords, objectsOfInterest, debug);
@@ -32,6 +32,8 @@ public class SKPQSearch extends SpatialQueryLD {
 		this.match = match;
 		this.neighborhood = neighborhood;
 		this.city = city;
+		
+		this.numKey = countKeywords(keywords);
 	}
 	
 	public TreeSet<SpatialObject> execute(String queryKeywords, int k) throws IOException, ClassNotFoundException, InstantiationException, IllegalAccessException, SQLException {
@@ -57,7 +59,7 @@ public class SKPQSearch extends SpatialQueryLD {
 
 			saveGroupResultsBN(topK, "SKPQ-NN");
 			
-			evaluateQueryGroup("SKPQ-NN", keywords, k, city, numkey, radius, match);	
+			evaluateQueryGroup("SKPQ-NN", keywords, k, city, numKey, radius, match);	
 			
 		} else if(neighborhood.equals("1")) {
 //			range
@@ -67,7 +69,7 @@ public class SKPQSearch extends SpatialQueryLD {
 
 			saveGroupResultsBN(topK, "SKPQ-RNG");			
 			
-			evaluateQueryGroup("SKPQ-RNG", keywords, k, city, numkey, radius, match);
+			evaluateQueryGroup("SKPQ-RNG", keywords, k, city, numKey, radius, match);
 			
 		} else if(neighborhood.equals("2")) {
 //			influence
@@ -76,7 +78,7 @@ public class SKPQSearch extends SpatialQueryLD {
 			
 			saveGroupResultsBN(topK, "SKPQ-INF");
 			
-			evaluateQueryGroup("SKPQ-INF", keywords, k, city, numkey, radius, match);
+			evaluateQueryGroup("SKPQ-INF", keywords, k, city, numKey, radius, match);
 		}			
 		
 		return topK;

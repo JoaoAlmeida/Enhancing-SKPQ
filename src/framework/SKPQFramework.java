@@ -43,7 +43,7 @@ public class SKPQFramework extends DefaultExperimentManager {
 		return getProperties().getProperty("experiment.name") + "_" + getProperties().getProperty("query.name") + "_"
 				+ getProperties().getProperty("query.keywords") + "_"
 				+ getNeighborhood(Integer.parseInt(getProperties().getProperty("query.neighborhood"))) + "_"		
-				+ getProperties().getProperty("query.numResults") + "_" + getProperties().getProperty("query.radius");
+				+ getProperties().getProperty("query.numResults") + "_" + getProperties().getProperty("query.radius") + " - " + getProperties().getProperty("query.alpha");
 	}
 
 	private String getNeighborhood(int value) {
@@ -84,12 +84,13 @@ public class SKPQFramework extends DefaultExperimentManager {
 						Double.parseDouble(getProperties().getProperty("query.radius")), objectsOfInterest,
 						Boolean.parseBoolean(getProperties().getProperty("experiment.debug")));
 			
-			} else if(getProperties().getProperty("query.name").equals("Pareto-LD")) {
+			} else if(getProperties().getProperty("query.name").equals("PRR-LD")) {
 				
 				StarRTree objectsOfInterest = createRtree();
 				
 				experiment = new SKPQPareto(Integer.parseInt(getProperties().getProperty("query.numResults")),
 						getProperties().getProperty("query.keywords"),
+						Double.parseDouble(getProperties().getProperty("query.alpha")),//acrescentado aqui para o teste da equação igual ao do PSM
 						getProperties().getProperty("query.neighborhood"),
 						Double.parseDouble(getProperties().getProperty("query.radius")), objectsOfInterest,
 						Boolean.parseBoolean(getProperties().getProperty("experiment.debug")),getProperties().getProperty("query.city"));

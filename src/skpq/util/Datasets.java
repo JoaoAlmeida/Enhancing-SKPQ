@@ -51,7 +51,7 @@ public class Datasets {
 	BufferedReader reader;
 	public static char quotes = '"';
 	public static boolean USING_GRAPH = false;
-	private static boolean debug = false;
+	private static boolean debug = true;
 	static Model model = getTestModel();
 	static String arquivoOSMLinkado = "features_linked.txt";
 	// private static org.apache.log4j.Logger log = Logger.getLogger(); //create log
@@ -171,7 +171,7 @@ public class Datasets {
 		while (line != null) {
 
 			String[] lineVec = line.split(" ");
-
+			
 			String rawLat = lineVec[1];
 			String rawlgt = lineVec[2];
 
@@ -198,7 +198,7 @@ public class Datasets {
 				/// "http://linkedgeodata.org/vsparql";
 				String link = getOSMObject("http://linkedgeodata.org/sparql", line, label, lat, lgt);
 
-				fileWrt.append(rawLat + " " + rawlgt + " " + label + " " + link + "\n");
+				fileWrt.append(rawLat + "\t" + rawlgt + "\t" + label + "\t" + link + "\n");
 
 				fileWrt.close();
 
@@ -208,6 +208,12 @@ public class Datasets {
 			line = reader.readLine();
 		}
 		System.out.println("\nFile created!");
+		
+		System.out.println("\nFile created!");
+
+		fileHeallthCheck("./DatasetsOutput/"+nomeArquivo);
+		
+		System.out.println("\nFile checked!");
 	}
 
 	// usando tab para separar os valores
@@ -921,7 +927,7 @@ public class Datasets {
 		writer.close();
 	}
 
-	// Create a file with LGD links to Foursquare check-ins
+	// Create a file with LGD links to Foursquare check-ins. Ready?
 	public void interestObjectCreateFoursquare(String foursquareData, String osmData) throws IOException {
 
 		HashMap<String, SpatialObject> foursquare = isolatePOI(foursquareData);
@@ -958,50 +964,40 @@ public class Datasets {
 				System.out.println("Não achou: " + name);
 			}
 		}
-
-//			System.out.println("Creating the POIs File...");
-//
-//			Writer fileWrt = new OutputStreamWriter(new FileOutputStream("./DatasetsOutput/LGD" + nomeArquivo, true),
-//					"ISO-8859-1");
-//			BufferedReader aux = new BufferedReader((new InputStreamReader(new FileInputStream(new File("./DatasetsOutput/LGDSan Francisco")), "ISO-8859-1")));
-//
-//			String line = reader.readLine();
-//			String auxLine = aux.readLine();
-//			
-//			while (line != null) {
-//
-//				String[] lineVec = line.split("\\t");
-//				
-//				String label = lineVec[3].split("\\{|\\}")[1];
-//				
-//				String[] venueLocationVec = lineVec[4].split(",");							
-//			
-//				String lat = venueLocationVec[0].split("\\{")[1];
-//				String lgt = venueLocationVec[1];				
-//				
-//					/// "http://linkedgeodata.org/vsparql";
-//				if(auxLine == null) {
-//					System.out.println(label);
-//					String link = getOSMObject("http://linkedgeodata.org/sparql", line, label, lat, lgt);
-//					fileWrt.append(lat + " " + lgt + " " + label + " " + link + "\n");
-//
-//					fileWrt.flush();
-//				}
-//				else {
-//					auxLine = aux.readLine();
-//				}
-//								
-////					fileWrt.close();
-////
-////					fileWrt = new OutputStreamWriter(new FileOutputStream("DatasetsOutput\\" + nomeArquivo, true),
-////							"ISO-8859-1");
-//
-//				line = reader.readLine();
-//			}
-//			System.out.println("\nFile created!");
-//			fileWrt.close();
 	}
 
+	//Change the delimiter from cityLGD file from " " to "\t"
+	public void changeDelimiter(String nameFile) throws IOException {
+
+		Writer fileWrt = new OutputStreamWriter(new FileOutputStream("DatasetsOutput\\" + nameFile + ".txt", true),
+				"ISO-8859-1");
+
+		String line = reader.readLine();
+
+		while (line != null) {
+			String[] lineVec = line.split(" ");
+
+			String id = lineVec[0];
+			String rawLat = lineVec[1];
+			String rawlgt = lineVec[2];
+
+			String category = lineVec[3] + " " + lineVec[4];
+			String description = lineVec[5];
+
+			for (int a = 6; a < lineVec.length; a++) {
+				description = description + " " + lineVec[a];
+			}
+
+			fileWrt.append(id + "\t" + rawLat + "\t" + rawlgt + "\t" + category  + "\t" + description + "\n");
+			line = reader.readLine();
+		}
+		fileWrt.flush();
+		fileWrt.close();
+		reader.close();
+		
+		System.out.println("File created successfully!");
+	}
+	
 	// Examples of usage
 	public static void main(String[] args) throws IOException {
 
@@ -1011,8 +1007,9 @@ public class Datasets {
 
 //		o.loadPOIs("./DatasetsOutput/osm/New York.txt");
 
-//		Datasets obj = new Datasets("./DatasetsOutput/osm/San Francisco hotel.txt");
-//		obj.interestObjectCreateFileTAB("SfLGD.txt");
+		Datasets obj = new Datasets("./DatasetsOutput/osm/London hotel.txt");
+		obj.changeDelimiter("London hotel Tab");
+//		obj.interestObjectCreateFile("LondonGrandeLGD.txt");
 //		o.cleanDataset("./DatasetsOutput/osm/San Francisco hotels.txt");
 //		o.interestObjectCreateFoursquare("./DatasetsOutput/check-ins/San Francisco.txt", "./DatasetsOutput/osm/San Francisco.txt");
 

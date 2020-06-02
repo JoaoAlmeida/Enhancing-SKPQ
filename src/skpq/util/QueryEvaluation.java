@@ -99,6 +99,23 @@ public class QueryEvaluation {
 
 	      result.execute();
 	  }
+	  
+	  public void storePRRresult(String query, int k, int numKey, String key, double radius, String city, String experimentName, double alpha, double tau, double ndcg, String matchMethod) throws SQLException {
+		  
+		  PreparedStatement result;
+
+		  if(tau != tau) {			  
+			  result = conn.prepareStatement("INSERT INTO `acm_recsys20`.`"+query+"` (`k`, `numKey`, `keyword`, `radius`, `city`, `experimentName`, `alpha`,"
+				  		+ "`ndcg`, `textSimilarity_methodName`) VALUES ('"+k+"', '"+numKey+"', '"+key+"', '"+radius+"', '"+city+"', '"+experimentName+"', '"+alpha+"', "
+				  				+ "'"+ndcg+"', '"+matchMethod+"');");
+		  }else {
+			  result = conn.prepareStatement("INSERT INTO `acm_recsys20`.`"+query+"` (`k`, `numKey`, `keyword`, `radius`, `city`, `experimentName`, `alpha`,`tau`,"
+				  		+ "`ndcg`, `textSimilarity_methodName`) VALUES ('"+k+"', '"+numKey+"', '"+key+"', '"+radius+"', '"+city+"', '"+experimentName+"', '"+alpha+"', '"+tau+"', "
+				  				+ "'"+ndcg+"', '"+matchMethod+"');"); 
+		  }		  
+
+	      result.execute();
+	  }
 
 	// Consider removing the methos without Best Neighbor included
 	private void readResultSet() throws IOException {

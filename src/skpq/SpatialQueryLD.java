@@ -289,11 +289,11 @@ public abstract class SpatialQueryLD implements Experiment {
 //				evaluator.connect();
 
 			metrics = evaluator.execute();
-
+			
 			if (queryName.equals("SKPQ")) {
 				evaluator.storeSKPQResult(queryName.toLowerCase(), k, numKey, queryKeyword, radius, city, "recsys20",metrics[0], metrics[1], matchMethod, "range");
-			} else if (queryName.equals("Pareto")) {
-				evaluator.storeSKPQResult("skpq", k, numKey, queryKeyword, radius, city, "recsys20", metrics[0],metrics[1], matchMethod, "paretorank");
+			} else if (queryName.equals("PRR")) {
+				evaluator.storePRRresult(queryName.toLowerCase(), k, numKey, queryKeyword, radius, city, "recsys20", alpha, metrics[0],metrics[1], matchMethod);
 			} else if (queryName.equals("InfluenceSearch")) {
 				evaluator.storeSKPQResult("skpq", k, numKey, queryKeyword, radius, city, "recsys20", metrics[0],metrics[1], matchMethod, "inf");
 			} else if (queryName.equals("ParetoSearch")) {

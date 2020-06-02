@@ -31,16 +31,20 @@ import xxl.util.StarRTree;
 public class SKPQPareto extends SpatialQueryLD {
 
 	private double radius;
-	String city;
-	int numKey = 2;
+	private String city;	
+	private double alpha;
+	private int numKey;
 	// GooglePlaces googleAPI;
 	// private WebContentCache reviewCache;
 
-	public SKPQPareto(int k, String keywords, String neighborhood, double radius, StarRTree objectsOfInterest,
+	public SKPQPareto(int k, String keywords, double alpha, String neighborhood, double radius, StarRTree objectsOfInterest,
 			boolean debug, String city) throws IOException {
 		super(k, keywords, objectsOfInterest, debug);
 		this.radius = radius;
 		this.city = city;
+		this.alpha = alpha;
+		
+		this.numKey = countKeywords(keywords);
 		// reviewCache = new WebContentCache("reviews.ch");
 		// reviewCache.load();
 
@@ -112,7 +116,7 @@ public class SKPQPareto extends SpatialQueryLD {
 		if (!(obj.getScore() == 0)) {
 
 			// Cria coordenadas do POI presente no rank
-			double[] coords = { Double.parseDouble(obj.getLat()), Double.parseDouble(obj.getLgt()) };
+			double[] coords = {Double.parseDouble(obj.getLat()), Double.parseDouble(obj.getLgt()) };
 
 			// encontra o check-in mais próximo do POI
 			// double dist = u.findClosest(coords);
@@ -191,8 +195,14 @@ public class SKPQPareto extends SpatialQueryLD {
 					
 					double normProb = (probability - minProb) / (maxProb - minProb);
 					
-					obj.setScore((normProb + obj.getScore())/2);
-
+					//Acrescentado para teste com função igual ao PSM
+					
+					double textScore = obj.getScore();					
+					double score = (alpha * textScore) + ((1 - alpha) * normProb);
+					
+					obj.setScore(score);
+					//================================
+//					obj.setScore((normProb + obj.getScore())/2);
 					
 					pTopK.add(obj);
 				}
@@ -203,7 +213,7 @@ public class SKPQPareto extends SpatialQueryLD {
 					// saveGroupResults(pTopK);
 					saveResultsBN(pTopK);
 				}				
-				 evaluateQuery("Pareto", keywords, city, numKey, radius, "default");
+				 evaluateQuery("PRR", keywords, city, numKey, radius, "default", alpha);
 			} catch (IOException e) {
 				e.printStackTrace();
 			}
@@ -223,7 +233,7 @@ public class SKPQPareto extends SpatialQueryLD {
 				pTopK.add(obj);
 			}
 			saveResultsBN(pTopK);
-			 evaluateQuery("Pareto", keywords, city, numKey, radius, "default");
+			 evaluateQuery("PRR", keywords, city, numKey, radius, "default",alpha);
 			reader.close();
 			return pTopK;
 		}
@@ -232,7 +242,7 @@ public class SKPQPareto extends SpatialQueryLD {
 	protected void saveResults(TreeSet<SpatialObject> topK) throws IOException {
 
 		Writer outputFile = new OutputStreamWriter(
-				new FileOutputStream("skpq/Pareto-LD [" + "k=" + k + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
+				new FileOutputStream("skpq/PRR-LD [" + "k=" + k + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
 
 		Iterator<SpatialObject> it = topK.descendingIterator();
 
@@ -255,7 +265,7 @@ public class SKPQPareto extends SpatialQueryLD {
 	protected void saveResultsBN(TreeSet<SpatialObject> topK) throws IOException {
 
 		Writer outputFile = new OutputStreamWriter(
-				new FileOutputStream("skpq/Pareto-LD [" + "k=" + k + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
+				new FileOutputStream("skpq/PRR-LD [" + "k=" + k + ", kw=" + getKeywords() + "].txt"), "ISO-8859-1");
 
 		Iterator<SpatialObject> it = topK.descendingIterator();
 
