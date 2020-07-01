@@ -90,7 +90,7 @@ public class SKPQFramework extends DefaultExperimentManager {
 				
 				experiment = new SKPQPareto(Integer.parseInt(getProperties().getProperty("query.numResults")),
 						getProperties().getProperty("query.keywords"),
-						Double.parseDouble(getProperties().getProperty("query.alpha")),//acrescentado aqui para o teste da equação igual ao do PSM
+						Double.parseDouble(getProperties().getProperty("query.alpha")),//acrescentado aqui para o teste da equacao igual ao do PSM
 						getProperties().getProperty("query.neighborhood"),
 						Double.parseDouble(getProperties().getProperty("query.radius")), objectsOfInterest,
 						Boolean.parseBoolean(getProperties().getProperty("experiment.debug")),getProperties().getProperty("query.city"));

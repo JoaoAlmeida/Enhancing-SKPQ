@@ -292,8 +292,8 @@ public class RatingExtractor {
 		return result;
 	}	
 
-	//profiles sao obtidos da tabela dubai.txt, comeca na coluna 11 (contagem iniciando de 0 dentro do método). O número no profile comeca de zero.
-	//Caso nao use para personalização, utilize a coluna 17 - profile number 6 (overall_ratingsource)
+	//profiles sao obtidos da tabela dubai.txt, comeca na coluna 11 (contagem iniciando de 0 dentro do metodo). O numero no profile comeca de zero.
+	//Caso nao use para personalizacao, utilize a coluna 17 - profile number 6 (overall_ratingsource)
 	private String ratePersonalizedQuery(String osmLabel, String score, int profile) throws IOException{
 		
 		String result = "";		

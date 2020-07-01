@@ -20,7 +20,7 @@ import xxl.util.StarRTree;
  * The top-k RQ retrieves ranked objects based on their text relevance and the
  * query region.
  * 
- * @author João Paulo
+ * @author Joao Paulo
  */
 
 public class RQSearch extends SpatialQueryLD {
@@ -92,7 +92,7 @@ public class RQSearch extends SpatialQueryLD {
 			try {
 				saveResults(topK);
 				if(evaluate){
-					evaluateQuery(keywords, String.valueOf(radius), k, false);	
+//					evaluateQuery(keywords, String.valueOf(radius), k, false);	
 				}							
 			} catch (IOException e) {
 				System.out.println("We can't save the results on your disk!");

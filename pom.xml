@@ -8,7 +8,59 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
-	<dependencies>
+	<dependencies>	
+	
+	<dependency>
+	    <groupId>libsvm</groupId>
+	    <artifactId>example-libsvm</artifactId>
+	    <version>1.0</version>
+	    <scope>system</scope>
+	    <systemPath>${basedir}/lib/libsvm.jar</systemPath>
+	</dependency>
+	
+	<dependency>
+	    <groupId>org.apache.commons.text</groupId>
+	    <artifactId>example-text</artifactId>
+	    <version>1.0</version>
+	    <scope>system</scope>
+	    <systemPath>${basedir}/lib/commons-text-1.6.jar</systemPath>
+	</dependency>
+	
+	<dependency>
+	    <groupId>se.walkercrou.places</groupId>
+	    <artifactId>example-places</artifactId>
+	    <version>1.0</version>
+	    <scope>system</scope>
+	    <systemPath>${basedir}/google_places_api.jar</systemPath>
+	</dependency>
+	
+	<dependency>
+	    <groupId>xxl</groupId>
+	    <artifactId>example-xxl</artifactId>
+	    <version>1.0</version>
+	    <scope>system</scope>
+	    <systemPath>${basedir}/lib/XXL.jar</systemPath>
+	</dependency>
+	
+	<dependency>
+	    <groupId>util</groupId>
+	    <artifactId>example-util</artifactId>
+	    <version>1.0</version>
+	    <scope>system</scope>
+	    <systemPath>${basedir}/lib/Util.jar</systemPath>
+	</dependency>
+
+	<dependency>
+ 		<groupId>com.google.maps</groupId>
+  		<artifactId>google-maps-services</artifactId>
+  		<version>0.14.0</version>
+	</dependency>
+
+	<dependency>
+  		<groupId>org.slf4j</groupId>
+  		<artifactId>slf4j-simple</artifactId>
+  		<version>1.7.25</version>
+	</dependency>
 		
 		<!-- https://mvnrepository.com/artifact/log4j/log4j -->
 		<dependency>

@@ -26,7 +26,7 @@ import xxl.util.StarRTree;
  * Process a Spatial Preference Keyword Query using LOD and Pareto distribution.
  * Rank rank-order
  * 
- * @author Jo„o Paulo
+ * @author Joao Paulo
  */
 public class SKPQPareto extends SpatialQueryLD {
 
@@ -118,7 +118,7 @@ public class SKPQPareto extends SpatialQueryLD {
 			// Cria coordenadas do POI presente no rank
 			double[] coords = {Double.parseDouble(obj.getLat()), Double.parseDouble(obj.getLgt()) };
 
-			// encontra o check-in mais prÛximo do POI
+			// encontra o check-in mais pr√≥ximo do POI
 			// double dist = u.findClosest(coords);
 			double dist;
 
@@ -131,7 +131,7 @@ public class SKPQPareto extends SpatialQueryLD {
 			double minProb = probability;
 			int id = 1;
 
-			// Define o maior e menor valor de probability para normalizaÁ„o
+			// Define o maior e menor valor de probability para normaliza√ß√£o
 			while (it.hasNext()) {
 				
 				obj = it.next();
@@ -140,7 +140,7 @@ public class SKPQPareto extends SpatialQueryLD {
 				// double[] coords = {Double.parseDouble(obj.getLat()),
 				// Double.parseDouble(obj.getLgt())};
 
-				// encontra o check-in mais prÛximo do POI
+				// encontra o check-in mais pr√≥ximo do POI
 				// double dist = u.findClosest(coords);
 				
 				if (obj.getBestNeighbor().getName().equals("empty")) {
@@ -184,7 +184,7 @@ public class SKPQPareto extends SpatialQueryLD {
 							Double.parseDouble(obj.getBestNeighbor().getLgt()), Double.parseDouble(obj.getLat()),
 							Double.parseDouble(obj.getLgt()));
 
-					// probability È somado ao score para re-ordenar o rank
+					// probability √© somado ao score para re-ordenar o rank
 					probability = par.logDensity(dist);
 
 					// Sometimes the probability will be negative infinite. Here we deal with this
@@ -195,7 +195,7 @@ public class SKPQPareto extends SpatialQueryLD {
 					
 					double normProb = (probability - minProb) / (maxProb - minProb);
 					
-					//Acrescentado para teste com funÁ„o igual ao PSM
+					//Acrescentado para teste com fun√ß√£o igual ao PSM
 					
 					double textScore = obj.getScore();					
 					double score = (alpha * textScore) + ((1 - alpha) * normProb);
@@ -293,7 +293,7 @@ public class SKPQPareto extends SpatialQueryLD {
 	 * Don't use saveGroupResults in personalized queries! Passando os top-20 vai
 	 * colocar valores que nao deveria estar no top-5 mas que estao no top 20 Quando
 	 * personaliza, o elemento que estava no rank 20 pode subir para top-5, o que
-	 * n„o È desejado. Rank-reorder os top-5 devem ser mantidos apos personalizaÁ„o
+	 * n√£o √© desejado. Rank-reorder os top-5 devem ser mantidos apos personaliza√ß√£o
 	 */
 
 	@Override

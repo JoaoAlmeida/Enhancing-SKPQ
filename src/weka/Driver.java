@@ -58,7 +58,7 @@ public class Driver {
          Evaluation eTest = new Evaluation(isTrainingSet);
          eTest.evaluateModel(cModel, isTrainingSet);
           
-         // Print the result à la Weka explorer:
+         // Print the result Weka explorer:
          String strSummary = eTest.toSummaryString();
          System.out.println(strSummary);
           

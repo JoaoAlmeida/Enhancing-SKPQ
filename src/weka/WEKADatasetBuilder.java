@@ -17,7 +17,7 @@ import weka.core.converters.ConverterUtils.DataSource;
  * Generates a little ARFF file with different attribute types.
  *
  * @author FracPete
- * @author João Paulo
+ * @author Joao Paulo
  */
 public class WEKADatasetBuilder {
 
@@ -74,7 +74,7 @@ public class WEKADatasetBuilder {
 				boolean contain = false;
 				
 //				System.out.println(lineVec[1]);
-				//Precisa pegar o label de forma mais adequada, contains é fraco
+				//Precisa pegar o label de forma mais adequada, contains eh fraco
 				while (labelStr != null) {					
 					if (lineVec[1].trim().contains(labelStr.split("\\[")[0].trim())) {												
 						contain = true;
@@ -142,7 +142,7 @@ public class WEKADatasetBuilder {
 		// int i;
 		//
 		// // 1. set up attributes
-		// //Atributos são colocados em FastVector
+		// //Atributos sao colocados em FastVector
 		// atts = new FastVector();
 		// // - numeric
 		// atts.addElement(new Attribute("att1"));

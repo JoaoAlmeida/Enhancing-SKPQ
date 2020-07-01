@@ -31,7 +31,7 @@ public class QueryEvaluation {
 	private boolean debug = false;
 	private static double alpha;
 	
-	//conn armazena a conexão com o SGBD
+	//conn armazena a conexao com o SGBD
     Connection conn = null;
 
 	public QueryEvaluation(String fileName) throws IOException, ClassNotFoundException, InstantiationException, IllegalAccessException {
