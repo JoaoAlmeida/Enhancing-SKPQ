@@ -3,14 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="15a95df4-0510-404f-a2a3-b64a27caccf5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../datasetsOutput/features_linked.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../datasetsOutput/features_linked.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../framework.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../framework.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/framework/SKPQFramework.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/framework/SKPQFramework.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/skpq/SKPQPareto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/skpq/SKPQPareto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/skpq/SKPQSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/skpq/SKPQSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/skpq/SpatialQueryLD.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/skpq/SpatialQueryLD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/skpq/util/Datasets.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/skpq/util/Datasets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/skpq/util/QueryEvaluation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/skpq/util/QueryEvaluation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/Tuning.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dataFinal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripts/.Rhistory" beforeDir="false" afterPath="$PROJECT_DIR$/../../scripts/.Rhistory" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripts/dataset.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../scripts/dataset.R" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,11 +59,14 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Dataset">
+  <component name="RunManager" selected="Python.Tuning">
     <configuration name="Dataset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="distribution" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -97,28 +96,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/Kendaltau.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="PlotGraph" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="distribution" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/PlotGraph.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,6 +148,25 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Tuning" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="distribution" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/Tuning.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="distribution" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -195,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Tuning" />
         <item itemvalue="Python.Dataset" />
         <item itemvalue="Python.PlotPOI" />
         <item itemvalue="Python.Spearman" />
         <item itemvalue="Python.Kendaltau" />
-        <item itemvalue="Python.PlotGraph" />
       </list>
     </recent_temporary>
   </component>
@@ -276,6 +272,7 @@
       <workItem from="1589478201919" duration="3124000" />
       <workItem from="1589754365717" duration="133000" />
       <workItem from="1590686076365" duration="1802000" />
+      <workItem from="1594991378164" duration="3339000" />
     </task>
     <servers />
   </component>
@@ -283,14 +280,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="480" y="170" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583365815414">
+    <state x="579" y="175" key="FileChooserDialogImpl" timestamp="1594993989090">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="480" y="170" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1600.860@0.0.1600.860" timestamp="1583365815414" />
-    <state x="580" y="189" key="FileChooserDialogImpl" timestamp="1583766057009">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="580" y="189" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1583766057009" />
+    <state x="579" y="175" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1594993989090" />
     <state width="1557" height="276" key="GridCell.Tab.0.bottom" timestamp="1586924195748">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -327,10 +320,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="303" y="76" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1586444919742" />
-    <state x="508" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1590686747878">
+    <state x="508" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1594991387726">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="508" y="259" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1590686747878" />
+    <state x="508" y="259" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1594991387726" />
     <state x="611" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586662657887">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

@@ -5,7 +5,6 @@
 	<classpathentry kind="lib" path="google_places_api.jar"/>
 	<classpathentry kind="lib" path="lib/Dataset.jar"/>
 	<classpathentry kind="lib" path="lib/XXL.jar"/>
-	<classpathentry kind="lib" path="D:/aplicativos/MySQL/Connector J 8.0/mysql-connector-java-8.0.19.jar"/>
 	<classpathentry kind="src" path="/LODWEB"/>
 	<classpathentry kind="lib" path="lib/Util.jar" sourcepath="lib/Util.jar"/>
 	<classpathentry kind="lib" path="lib/jython-2.5.3.jar"/>

@@ -9,4 +9,4 @@ plot(internAmbos, legend=FALSE)
 legend("right", clusterMethods(internAmbos), col=1:9, lty=1:9, pch=paste(1:9))
 par(op)
 
-#clvalid não foi capaz de lidar com a quantidade de POIs
+#clvalid nao foi capaz de lidar com a quantidade de POIs

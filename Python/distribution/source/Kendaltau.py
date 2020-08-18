@@ -7,8 +7,10 @@ kw_vec = ["amenity","natural","shop","bench","tourism","bicycle","information","
 query = 'ParetoSearch-LD'
 #query = 'SKPQ-LD'
 
-k_vec=[5,10,15,20]
-#k_vec=[5]
+#k_vec=[5,10,15,20]
+k_vec=[20]
+
+sum = 0
 
 for kw in kw_vec:
       print("\n========== KEY:"+ kw.upper() +" ==========\n")
@@ -21,7 +23,10 @@ for kw in kw_vec:
                               usecols=1, dtype=str)
 
             tau, p_value = stats.kendalltau(score, rate)
-            if(p_value < 0.05):
+
+            if(p_value > -1):
                   print(k)
                   print("Tau:", tau.__abs__())
                   print("P_value:", p_value)
+                  sum = sum + p_value
+                  print("Média: ", sum/20)
