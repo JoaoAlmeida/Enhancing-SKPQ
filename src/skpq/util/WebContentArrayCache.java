@@ -153,6 +153,42 @@ public class WebContentArrayCache {
 		}
 	}
 	
+	public void exportCacheSet(int size, String city) throws IOException {
+		
+		Writer fileWrt = new OutputStreamWriter(new FileOutputStream("./"+city+"/"+city+".exported", true), "ISO-8859-1");
+		
+		for(int a = 0; a <= size; a++) {
+			System.out.println("Exporting cache " + a+"/"+size);
+			
+			cacheFileName = "./berlin/pois/POI["+a+"].cache";
+			
+			load();
+			
+			if (!cache.isEmpty()) {
+
+				@SuppressWarnings("rawtypes")
+				Set set = cache.entrySet();
+				@SuppressWarnings("rawtypes")
+				Iterator iterator = set.iterator();
+
+				int i = 0;
+
+				while (iterator.hasNext()) {
+					i++;
+					@SuppressWarnings("rawtypes")
+					Map.Entry mentry = (Map.Entry) iterator.next();
+					
+					String line = "Object " + i + " -- key: " + mentry.getKey() + " | Value: " + mentry.getValue() + "\n";	
+					
+					fileWrt.write(line);				
+				}				
+			} else {
+				System.out.println("WARNING: Cache is empty! There is nothing to export.");
+			}
+		}	
+		fileWrt.close();
+	}
+	
 	public boolean containsKey(String uri) {
 		return cache.containsKey(uri);
 	}
@@ -167,8 +203,7 @@ public class WebContentArrayCache {
 		
 	}
 	
-	public static void main(String[] args) throws IOException {
-		
+	public static void main(String[] args) throws IOException {		
 		
 //		BufferedReader reader = new BufferedReader((new InputStreamReader(new FileInputStream(new File("hotelLondon_LGD.txt")), "UTF-8")));
 //		
@@ -202,11 +237,14 @@ public class WebContentArrayCache {
 //		}
 //		
 //		reader.close();
-		
-		WebContentArrayCache cache = new WebContentArrayCache("./pois/POI[0].cache", 0.2);
+			
+		WebContentArrayCache cache = new WebContentArrayCache("./berlin/pois/POI[0].cache", 0.01);
+//		cache.exportCacheSet(776, "berlin");
+		cache.load();
+		cache.exportCache();
 //		System.out.println(cache.containsKey("null"));
 		
-		cache.load();
+//		cache.load();
 		
 		//cache.putDescription("Test", "Description");
 		 
@@ -217,28 +255,28 @@ public class WebContentArrayCache {
 //		cache.printCache();
 		
 		//print Array
-		ArrayList<SpatialObject> set = cache.getArray("http://linkedgeodata.org/triplify/node262778");
-		
-		Iterator<SpatialObject> it = set.iterator();
-		
-		while(it.hasNext()) {
-			SpatialObject obj = it.next();
-			System.out.println(obj.getCompleteDescription());
-			
-			double dist = SpatialQueryLD.distFrom(Double.parseDouble("50.9905"),
-					Double.parseDouble("-0.825627"), Double.parseDouble(obj.getLat()),Double.parseDouble(obj.getLgt()));
-			
-			System.out.println(dist);
-			
-			if(obj.getLat().contains(")")){
-				System.out.println("problema encontrado!!");
-								
-//				System.out.println("Feature: " + obj.getCompleteDescription());
-				System.exit(0);
-				break;
-			}
-
-		}
+//		ArrayList<SpatialObject> set = cache.getArray("http://linkedgeodata.org/triplify/node262778");
+//		
+//		Iterator<SpatialObject> it = set.iterator();
+//		
+//		while(it.hasNext()) {
+//			SpatialObject obj = it.next();
+//			System.out.println(obj.getCompleteDescription());
+//			
+//			double dist = SpatialQueryLD.distFrom(Double.parseDouble("50.9905"),
+//					Double.parseDouble("-0.825627"), Double.parseDouble(obj.getLat()),Double.parseDouble(obj.getLgt()));
+//			
+//			System.out.println(dist);
+//			
+//			if(obj.getLat().contains(")")){
+//				System.out.println("problema encontrado!!");
+//								
+////				System.out.println("Feature: " + obj.getCompleteDescription());
+//				System.exit(0);
+//				break;
+//			}
+//
+//		}
 	
 		
 	}

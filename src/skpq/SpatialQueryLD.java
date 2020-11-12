@@ -67,7 +67,6 @@ public abstract class SpatialQueryLD implements Experiment {
 	protected StarRTree objectsOfInterest;
 	protected boolean debug;
 
-
 	public SpatialQueryLD(int k, String keywords, StarRTree objectsOfInterest, boolean debug) throws IOException {
 		this.k = k;
 		this.keywords = keywords;
@@ -223,7 +222,7 @@ public abstract class SpatialQueryLD implements Experiment {
 			searchCache.store();			
 
 			if (debug) {
-				printResults(topK.iterator());
+				printResults(topK.descendingIterator());
 			}
 
 		} catch (Exception e) {
@@ -264,9 +263,10 @@ public abstract class SpatialQueryLD implements Experiment {
 					new FileOutputStream("./thrash/" + fileName.split("\\.txt")[0] + " --- ratings.txt"), "ISO-8859-1");
 
 			/*
-			 * Evaluation methods: default --> using only Google Maps rate cosine (default)
-			 * --> considers cosine similarity score and Google Maps rate tripAdvisor -->
-			 * using an opinRank query, it searches for user's judgment related to the
+			 * Evaluation methods: 
+			 * default --> using only Google Maps rate 
+			 * cosine (default)* --> considers cosine similarity score and Google Maps rate 
+			 * tripAdvisor -->* using an opinRank query, it searches for user's judgment related to the
 			 * query. It is necessary to set the rate file manually. personalized -->
 			 * searches for the rate related to the the user preference. Each user
 			 * preference is represented by a profile. The user preference must be described
@@ -291,13 +291,13 @@ public abstract class SpatialQueryLD implements Experiment {
 			metrics = evaluator.execute();
 			
 			if (queryName.equals("SKPQ")) {
-				evaluator.storeSKPQResult(queryName.toLowerCase(), k, numKey, queryKeyword, radius, city, "recsys20",metrics[0], metrics[1], matchMethod, "range");
+				evaluator.storeSKPQResult(queryName.toLowerCase(), k, numKey, queryKeyword, radius, city, "jis2020",metrics[0], metrics[1], matchMethod, "range");
 			} else if (queryName.equals("PRR")) {
-				evaluator.storePRRresult(queryName.toLowerCase(), k, numKey, queryKeyword, radius, city, "recsys20", alpha, metrics[0],metrics[1], matchMethod);
+				evaluator.storePRRresult(queryName.toLowerCase(), k, numKey, queryKeyword, radius, city, "jis2020", alpha, metrics[0],metrics[1], matchMethod);
 			} else if (queryName.equals("InfluenceSearch")) {
-				evaluator.storeSKPQResult("skpq", k, numKey, queryKeyword, radius, city, "recsys20", metrics[0],metrics[1], matchMethod, "inf");
-			} else if (queryName.equals("ParetoSearch")) {
-				evaluator.storeParetoSearch(queryName.toLowerCase(), k, numKey, queryKeyword, radius, city, "recsys20",alpha, metrics[0], metrics[1], matchMethod);
+				evaluator.storeSKPQResult("skpq", k, numKey, queryKeyword, radius, city, "jis2020", metrics[0],metrics[1], matchMethod, "inf");
+			} else if (queryName.equals("PSM")) {
+				evaluator.storeParetoSearch("paretosearch", k, numKey, queryKeyword, radius, city, "jis2020",alpha, metrics[0], metrics[1], matchMethod);
 			} else {
 				System.err.print("Query not implemented in database yet!");
 			}
@@ -320,9 +320,6 @@ public abstract class SpatialQueryLD implements Experiment {
 			System.out.println("=========================");
 		}
 
-//		FileUtils.cleanDirectory(new File("./thrash"));
-//		FileUtils.cleanDirectory(new File("./evaluations"));
-
 		int inc = 5, k = 5, a = 0;
 
 		double[][] metrics = new double[4][4];
@@ -330,8 +327,8 @@ public abstract class SpatialQueryLD implements Experiment {
 		System.out.println("========== KEY: " + queryKeyword.toUpperCase() + " ==========\n");
 
 		while (k <= k_max) {
-			String fileName = queryName + "[k=" + k + ", kw=" + queryKeyword + "].txt";
-
+			String fileName = queryName + "-LD [k=" + k + ", kw=" + queryKeyword + "].txt";
+			
 			Writer output = new OutputStreamWriter(
 					new FileOutputStream("./thrash/" + fileName.split("\\.txt")[0] + " --- ratings.txt"), "ISO-8859-1");
 
@@ -363,19 +360,19 @@ public abstract class SpatialQueryLD implements Experiment {
 			metrics[a] = evaluator.execute();
 
 			if (queryName.equals("SKPQ-RNG")) {
-				evaluator.storeSKPQResult("skpq", k, numKey, queryKeyword, radius, city, "recsys20",
+				evaluator.storeSKPQResult("skpq", k, numKey, queryKeyword, radius, city, "jis2020",
 						metrics[a][0], metrics[a][1], matchMethod, "range");
 			} else if (queryName.equals("Pareto")) {
-				evaluator.storeSKPQResult("skpq", k, numKey, queryKeyword, radius, city, "recsys20", metrics[a][0],
+				evaluator.storeSKPQResult("skpq", k, numKey, queryKeyword, radius, city, "jis2020", metrics[a][0],
 						metrics[a][1], matchMethod, "paretorank");
 			} else if (queryName.equals("SKPQ-INF")) {
-				evaluator.storeSKPQResult("skpq", k, numKey, queryKeyword, radius, city, "recsys20", metrics[a][0],
+				evaluator.storeSKPQResult("skpq", k, numKey, queryKeyword, radius, city, "jis2020", metrics[a][0],
 						metrics[a][1], matchMethod, "inf");
 			} else if (queryName.equals("PSM")) {
-				evaluator.storeParetoSearch("paretosearch", k, numKey, queryKeyword, radius, city, "recsys20",
+				evaluator.storeParetoSearch("paretosearch", k, numKey, queryKeyword, radius, city, "jis2020",
 						alpha, metrics[a][0], metrics[a][1], matchMethod);
 			} else if(queryName.equals("SKPQ-NN")) {
-				evaluator.storeSKPQResult("skpq", k, numKey, queryKeyword, radius, city, "recsys20",
+				evaluator.storeSKPQResult("skpq", k, numKey, queryKeyword, radius, city, "jis2020",
 						metrics[a][0], metrics[a][1], matchMethod, "nn");
 			} else {
 				System.err.print("Query not implemented in database yet!");
@@ -785,6 +782,7 @@ public abstract class SpatialQueryLD implements Experiment {
 				if (score > maxScore) {
 					maxScore = score;	
 					bestFeature = featureSet.get(b);
+					bestFeature.setScore(score);
 				}
 			}			
 			
@@ -817,13 +815,19 @@ public abstract class SpatialQueryLD implements Experiment {
 	
 	/* findfeaturesLGDFast using pareto in score equation. 25/03/2020
 	 * cache must be created first executing the findFeaturesLGDBN(List<SpatialObject> interestSet, String keywords, double radius, String match)
+	 * 
+	 * WARN: Consider only the features with textual relevance to the max and min probabilities.
 	 */
 	public TreeSet<SpatialObject> findFeaturesPareto(List<SpatialObject> interestSet, String keywords, double radius, String match, String city, double alpha){
 		 
 		TreeSet<SpatialObject> topK = new TreeSet<>();
+		ParetoDistribution par = new ParetoDistribution();
+			
+		double maxProb = Double.MIN_VALUE;
+		double minProb = Double.MAX_VALUE;
 		
 		for (int a = 0; a < interestSet.size(); a++) {
-				
+
 			WebContentArrayCache featuresCache = new WebContentArrayCache("./"+city +"/pois/POI["+ a +"].cache", radius);
 
 			try {
@@ -831,46 +835,26 @@ public abstract class SpatialQueryLD implements Experiment {
 			} catch (IOException e1) {
 				e1.printStackTrace();
 			}
-						
-			if (debug) {
-				System.out.println("::::::::::::::::::::::::::::::::::::::::::::::::::::::::");
-				System.out.println("POI #" + a + " - " + interestSet.get(a).getURI());
-			}
-			
-			ArrayList<SpatialObject> featureSet = featuresCache.getArray(interestSet.get(a).getURI());											
-
-			double maxProb = -Double.MAX_VALUE;
-			double minProb = Double.MAX_VALUE;
-			
-			for (int b = 0; b < featureSet.size(); b++) {
-				
-				double dist = SpatialQueryLD.distFrom(Double.parseDouble(featureSet.get(b).getLat()),
-						Double.parseDouble(featureSet.get(b).getLgt()), Double.parseDouble(interestSet.get(a).getLat()),
-						Double.parseDouble(interestSet.get(a).getLgt()));
-
-				ParetoDistribution par = new ParetoDistribution();
-				
-				double probability = par.logDensity(dist);
-
-				//acontece quando feature == POI
-				if (probability == Double.NEGATIVE_INFINITY) {
-					featureSet.get(b).setParetoProbability(Double.NEGATIVE_INFINITY);					
-				}else {					
-					featureSet.get(b).setParetoProbability(probability);
 					
-					if(probability < minProb) {
-						minProb = probability;
-					}
-					if(probability > maxProb) {
-						maxProb = probability;
-					}
-				}												
-			}			
+			ArrayList<SpatialObject> featureSet = featuresCache.getArray(interestSet.get(a).getURI());																
+			
+//			if(a == 0) {
+//			double[] coords = {Double.parseDouble(interestSet.get(a).getLat()), Double.parseDouble(interestSet.get(a).getLgt())};
+//			
+//			double dist = SpatialQueryLD.distFrom(Double.parseDouble(featureSet.get(0).getLat()),
+//								Double.parseDouble(featureSet.get(0).getLgt()), coords[0], coords[1]);
+//
+//			double probability = par.logDensity(dist);
+//			featureSet.get(0).setParetoProbability(probability);
+//						
+//			double maxProb = probability;
+//			 double minProb = probability;
+//			}
 			
 			double maxScore = 0;
 			SpatialObject bestFeature = null;
 						
-			// compute the textual score for each feature
+			// compute the textual score for each feature and max and min prob			
 			for (int b = 0; b < featureSet.size(); b++) {					
 				
 				String abs;				
@@ -903,33 +887,84 @@ public abstract class SpatialQueryLD implements Experiment {
 					System.out.println("WARN -- Unknown similarity measure! Default measure used instead. ");
 					score = LuceneCosineSimilarity.getCosineSimilarity(abs, keywords);
 				}
-								
-				// Sometimes the probability will be negative infinite. Here we deal with this
-				// ignoring it.
-				if (!(featureSet.get(b).getParetoProbability() == Double.NEGATIVE_INFINITY) && score != 0) {
-
-					double normProb = (featureSet.get(b).getParetoProbability() - minProb) / (maxProb - minProb);					
-//					double alpha = 0.25;
-					score = (alpha * score) + ((1 - alpha) * normProb);	
-				}
-											
-				if (score > maxScore) {					
+																			
+				if (score > maxScore) {						
 					maxScore = score;	
+					featureSet.get(b).setScore(maxScore);
 					bestFeature = featureSet.get(b);
-				}
-			}			
+				}	
+				
+				/* Initialize the maxProb and minProb - the normalization parameters. We initialize they with the probability based on the distance of the POI to its first feature
+				 * 				 * 
+				 * */
+				if(score != 0) {												
+				
+					double dist = SpatialQueryLD.distFrom(Double.parseDouble(featureSet.get(b).getLat()),
+							Double.parseDouble(featureSet.get(b).getLgt()), Double.parseDouble(interestSet.get(a).getLat()),
+							Double.parseDouble(interestSet.get(a).getLgt()));			
+					
+					double probability = par.logDensity(dist);
+					featureSet.get(b).setParetoProbability(probability);
+					
+					//detailed explanation in SKPQPareto
+					if (!(probability == Double.NEGATIVE_INFINITY || probability == Double.POSITIVE_INFINITY)) {
 
+						if (probability > maxProb) {
+							maxProb = probability;
+						}
+
+						if (probability < minProb) {
+							minProb = probability;
+						}
+					}	
+				
+				}
+				}//End loop of features
+						
 			// set the highest score from one feature in the interest object
-			if(maxScore != 0) {
-				interestSet.get(a).setScore(maxScore);	
-				interestSet.get(a).setBestNeighbor(bestFeature);
-			//in case no feature with textual relevance is found
-			}else {
-				interestSet.get(a).setScore(0);
-				SpatialObject nb = new SpatialObject(0, "empty", "empty", "0", "0");
-				nb.setScore(0);
-				interestSet.get(a).setBestNeighbor(nb);
-			}
+						if(maxScore != 0) {						
+							interestSet.get(a).setScore(maxScore);								
+							interestSet.get(a).setBestNeighbor(bestFeature);
+						//in case no feature with textual relevance is found
+						}else {
+							interestSet.get(a).setScore(0);
+							SpatialObject nb = new SpatialObject(0, "empty", "empty", "0", "0");
+							nb.setScore(0);
+							nb.setParetoProbability(0);
+							interestSet.get(a).setBestNeighbor(nb);
+						}
+						
+						featureSet.clear();
+				}//End loop for POIs							
+		
+		/*--------- End initialization process ------------------*/
+		
+		for (int a = 0; a < interestSet.size(); a++) {
+				
+			double poiTextScore = interestSet.get(a).getScore();
+			double probability = interestSet.get(a).getBestNeighbor().getParetoProbability();
+			
+				if (poiTextScore != 0) {									
+					
+					if (probability == Double.NEGATIVE_INFINITY) {
+						probability = minProb;
+					}else if(probability == Double.POSITIVE_INFINITY) {
+						probability = maxProb;
+					}
+					
+					double normProb = (probability - minProb) / (maxProb - minProb);										
+					
+					interestSet.get(a).setScore((alpha * poiTextScore) + ((1 - alpha) * normProb));
+					
+//					if(score == 0.5878930374341155) {
+//						System.out.println("Prob: " + probability);
+//						System.out.println("Max prob: " + maxProb);
+//						System.out.println();
+//						
+//						System.out.println("Text score: " + poiTextScore);
+//						System.out.println("Pareto score: " + normProb);
+//					}
+				}																			
 
 			if (topK.size() < k) {
 				topK.add(interestSet.get(a));
@@ -940,10 +975,9 @@ public abstract class SpatialQueryLD implements Experiment {
 					&& interestSet.get(a).getId() > topK.first().getId())) {
 				topK.pollFirst();
 				topK.add(interestSet.get(a));
-			}
-			featureSet.clear();
+			}			
 		}
-		
+
 		return topK;
 	}
 	
@@ -1500,7 +1534,7 @@ public abstract class SpatialQueryLD implements Experiment {
 		return obj;
 	}
 
-	//Finds resources that belongs to an ontology. It is possibly do this task using lgdo prefix too (more easy).	
+	//Finds resources that belongs to an ontology. It is possibly to do this task using lgdo prefix too (more easy).	
 	public List<Resource> searchObjectofInterest(String object) {
 
 		List<Resource> resources = new ArrayList<Resource>();
@@ -1788,7 +1822,7 @@ public abstract class SpatialQueryLD implements Experiment {
 		}
 		
 		return count;
-	}
+	}	
 	
 	protected void printResults(Iterator<SpatialObject> iterator){
 

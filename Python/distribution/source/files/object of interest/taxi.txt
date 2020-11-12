@@ -1,0 +1,560 @@
+78	-23.5384451	-46.56387	(amenity) (taxi)
+271	-23.4953284	-46.8493715	(amenity) (taxi)
+284	-23.5167488	-46.7261442	(amenity) (taxi)
+287	-23.5267975	-46.674758	(amenity) (taxi)
+290	-23.5388412	-46.56258	(amenity) (taxi)
+311	-23.5428623	-46.6576469	(amenity) (taxi)
+338	-23.5456714	-46.6516841	(amenity) (taxi)	Ponto de Táxi Maria Antônia
+343	-23.5413859	-46.571133	(amenity) (taxi)
+351	-23.5530765	-46.5619745	(amenity) (taxi)
+380	-23.5240512	-46.6647032	(amenity) (taxi)	Borges
+397	-23.5097606	-46.6639926	(amenity) (taxi)	Matão
+442	-23.552544	-46.638704	(amenity) (taxi)
+444	-23.5523849	-46.6387585	(amenity) (taxi)
+469	-23.5554433	-46.6400528	(amenity) (taxi)
+472	-23.55481	-46.6401731	(amenity) (taxi)	Ponto de táxi Francisca Miquelina 1224
+594	-23.5420846	-46.5897811	(amenity) (taxi)	Ponto de Táxi Metrô Belem
+724	-23.5417574	-46.6510516	(amenity) (taxi)	Ponto de Táxi Jaguaribe
+847	-23.5418746	-46.6767835	(amenity) (taxi)
+848	-23.5403992	-46.6823336	(amenity) (taxi)
+855	-23.5463183	-46.6910329	(amenity) (taxi)
+856	-23.5461154	-46.6910007	(amenity) (taxi)
+869	-23.5576357	-46.7551882	(amenity) (taxi)	Taxi Colina
+971	-23.5290179	-46.5170168	(amenity) (taxi)	Guilhermina
+999	-23.5568822	-46.6306038	(amenity) (taxi)	Galvão Bueno
+1177	-23.6206559	-46.692144	(amenity) (taxi)
+1208	-23.5561477	-46.6912037	(amenity) (taxi)	Ponto de Táxi Wirzad
+1210	-23.5542247	-46.6915877	(amenity) (taxi)	Ponto de Taxi Purpurina
+1264	-23.5934874	-46.6246856	(amenity) (taxi)
+1305	-23.5907923	-46.668492	(amenity) (taxi)	Ponto Livre
+1369	-23.5499592	-46.5341764	(amenity) (taxi)
+1373	-23.5898669	-46.6808091	(amenity) (taxi)
+1485	-23.6021972	-46.6922655	(amenity) (taxi)	Coopertaxi
+1513	-23.589136	-46.6335824	(amenity) (taxi)	Ponto de Taxi Lins
+1514	-23.5896459	-46.6345094	(amenity) (taxi)
+1602	-23.1987643	-45.9049182	(amenity) (taxi)	Táxi Esplanada
+1729	-23.5279432	-46.7037161	(amenity) (taxi)	Ponto de Táxi Praça Civica
+1743	-23.5371626	-46.706193	(amenity) (taxi)	Maracanã
+1744	-23.5361395	-46.7022208	(amenity) (taxi)	Mota Pais
+1745	-23.5403834	-46.7039606	(amenity) (taxi)	Pedro de Souza
+1746	-23.5400747	-46.7053493	(amenity) (taxi)	Putumuju
+1920	-23.6356353	-46.6413237	(amenity) (taxi)
+1921	-23.6464024	-46.6424181	(amenity) (taxi)
+1922	-23.6466776	-46.6411199	(amenity) (taxi)
+1928	-23.5852775	-46.7242563	(amenity) (taxi)
+1940	-23.6137049	-46.5716343	(amenity) (taxi)
+1943	-23.6102736	-46.5717797	(amenity) (taxi)
+1951	-23.4719477	-46.705914	(amenity) (taxi)	Ponto de Táxi - Morro Grande
+2028	-23.8882402	-46.4293171	(amenity) (taxi)
+2190	-23.5721311	-46.7603772	(amenity) (taxi)
+2275	-23.1936589	-45.8786594	(amenity) (taxi)
+2367	-23.2004747	-45.8923294	(amenity) (taxi)
+2423	-23.5314573	-46.6799492	(amenity) (taxi)	Ponto 2360
+2425	-23.5329441	-46.6775384	(amenity) (taxi)	Ponto 3010
+2429	-23.5331194	-46.6745847	(amenity) (taxi)	Ponto 2729
+2441	-23.534989	-46.6718448	(amenity) (taxi)
+2677	-23.1872752	-45.8846453	(amenity) (taxi)
+2680	-23.1844937	-45.8867566	(amenity) (taxi)
+2681	-23.1861802	-45.8865018	(amenity) (taxi)
+2682	-23.1910933	-45.888037	(amenity) (taxi)
+2683	-23.1830334	-45.8868794	(amenity) (taxi)
+2684	-23.1806079	-45.887454	(amenity) (taxi)
+2780	-23.9756738	-46.3136643	(amenity) (taxi)
+2802	-23.977925	-46.3120136	(amenity) (taxi)
+2933	-23.9743178	-46.3084777	(amenity) (taxi)
+3113	-23.9693827	-46.3120984	(amenity) (taxi)
+3292	-23.2010524	-45.8807113	(amenity) (taxi)	Ponto Center Vale
+3295	-23.1887746	-45.8730643	(amenity) (taxi)
+3330	-23.1823574	-45.8830901	(amenity) (taxi)
+3331	-23.2051108	-45.9076382	(amenity) (taxi)	Shopping Colinas
+3333	-23.1952582	-45.8907371	(amenity) (taxi)	Ponto Jardim
+3355	-23.1597275	-45.8967803	(amenity) (taxi)	Taxi Santana
+3378	-23.2213634	-45.8894034	(amenity) (taxi)
+3380	-23.216919	-45.8945748	(amenity) (taxi)
+3654	-23.5449137	-46.6825528	(amenity) (taxi)	Alfonso Bovero
+3685	-23.5394219	-46.5649066	(amenity) (taxi)
+3982	-23.4563215	-46.766288	(amenity) (taxi)
+4106	-23.5627861	-46.6866379	(amenity) (taxi)	Ponto de Táxi Fradique Coutinho
+4241	-23.717631	-46.5735624	(amenity) (taxi)	Ponto 65
+4246	-23.6922032	-46.5818403	(amenity) (taxi)	Ponto 3
+4254	-23.7073045	-46.5670327	(amenity) (taxi)	Ponto 65 - Extensão
+4287	-23.5294993	-46.6210156	(amenity) (taxi)	Ponto Conselheiro
+4288	-23.5325539	-46.6185958	(amenity) (taxi)	Ponto Santo Antônio do Pari
+4297	-23.6958363	-46.5682387	(amenity) (taxi)	Ponto 38
+4476	-23.7254338	-46.5746322	(amenity) (taxi)	Ponto 53
+4495	-23.6898389	-46.5628794	(amenity) (taxi)
+4496	-23.6929631	-46.5548784	(amenity) (taxi)	Extensão dos Pontos 19 e 41
+4590	-23.6918483	-46.5822963	(amenity) (taxi)	Ponto 16
+4626	-23.9745701	-46.3164541	(amenity) (taxi)	Ponto de Táxi
+4646	-23.538721	-46.6837814	(amenity) (taxi)	Parque de Táxis
+4663	-23.5015343	-46.5650879	(amenity) (taxi)	Ponto de Taxi Pivativo
+4888	-23.7215487	-46.5493481	(amenity) (taxi)	Ponto 20
+4891	-23.7205561	-46.5504211	(amenity) (taxi)	Extensão dos pontos 04 e 20
+4900	-23.6920728	-46.5566081	(amenity) (taxi)	Ponto 41
+4944	-23.5638135	-46.6872753	(amenity) (taxi)	Ponto de Táxi Pão de Açucar
+5017	-23.5700485	-46.6517184	(amenity) (taxi)	Ponto de Táxi Fernão Cardim
+5110	-23.7112845	-46.5505845	(amenity) (taxi)	Ponto 60
+5145	-23.6792208	-46.5988153	(amenity) (taxi)
+5163	-23.5224885	-46.6246581	(amenity) (taxi)	Ponto de Táxi Shopping D
+5189	-23.5266064	-46.6115582	(amenity) (taxi)
+5190	-23.5289662	-46.6141737	(amenity) (taxi)	Ponto de Táxi Livre
+5215	-23.7157409	-46.562639	(amenity) (taxi)	Ponto 35 - Extensão
+5221	-23.7207479	-46.5637154	(amenity) (taxi)	Ponto 12
+5274	-23.708308	-46.5509213	(amenity) (taxi)	Ponto 01
+5302	-23.577254	-46.7306796	(amenity) (taxi)	Praça Elis Regina
+5305	-23.5021425	-46.6261119	(amenity) (taxi)	Taxi Igreja Santana
+5337	-23.5802441	-46.6431954	(amenity) (taxi)	Ponto de Táxi Jose Antônio
+5338	-23.5814556	-46.6437635	(amenity) (taxi)
+5487	-23.9720575	-46.3201696	(amenity) (taxi)
+5497	-23.9648443	-46.3217467	(amenity) (taxi)
+5499	-23.9621398	-46.3235464	(amenity) (taxi)
+5548	-23.6995928	-46.5515707	(amenity) (taxi)	Ponto 62
+5549	-23.6969395	-46.5533691	(amenity) (taxi)
+5550	-23.6986349	-46.5525658	(amenity) (taxi)	Ponto 29
+5559	-23.685956	-46.617162	(amenity) (taxi)
+5626	-23.579414	-46.6444719	(amenity) (taxi)
+5656	-23.5531807	-46.6895455	(amenity) (taxi)	Ponto de Táxi da Vila
+5730	-23.5437148	-46.6455986	(amenity) (taxi)
+5731	-23.5432113	-46.6439954	(amenity) (taxi)	Ponto de Taxi Republica
+5732	-23.7040674	-46.5540573	(amenity) (taxi)
+5749	-23.5421405	-46.6437438	(amenity) (taxi)	Ponto de Taxi Bourbom
+5819	-23.5326867	-46.6466122	(amenity) (taxi)
+5824	-23.5323225	-46.6494091	(amenity) (taxi)
+5830	-23.2032232	-45.8846427	(amenity) (taxi)
+5910	-23.7092647	-46.5507552	(amenity) (taxi)
+6001	-23.5953457	-46.6689638	(amenity) (taxi)	Afonso Brás
+6054	-23.6771355	-46.5568247	(amenity) (taxi)	37
+6153	-23.7020067	-46.5765401	(amenity) (taxi)	Ponto 70
+6204	-23.2062587	-45.8879854	(amenity) (taxi)
+6213	-23.534314	-46.6554651	(amenity) (taxi)
+6292	-23.6459344	-46.6402784	(amenity) (taxi)
+6304	-23.718067	-46.5514409	(amenity) (taxi)	Ponto 2221
+6461	-23.7789559	-46.5292134	(amenity) (taxi)	Ponto 22
+6719	-23.6918111	-46.5496498	(amenity) (taxi)
+6803	-23.7037274	-46.5513814	(amenity) (taxi)	Ponto 08
+6817	-23.7209236	-46.5812583	(amenity) (taxi)	Ponto de Táxi n39
+6966	-23.4704162	-46.5311335	(amenity) (taxi)
+6969	-23.4729588	-46.5266644	(amenity) (taxi)
+6973	-23.4698734	-46.5236927	(amenity) (taxi)
+7225	-23.1811428	-46.8912629	(amenity) (taxi)
+7241	-23.2072155	-46.8955907	(amenity) (taxi)
+7348	-23.5097029	-46.7044296	(amenity) (taxi)
+7394	-23.1676134	-46.9149654	(amenity) (taxi)
+7473	-23.6168559	-46.6490914	(amenity) (taxi)
+8005	-23.4928203	-46.6487742	(amenity) (taxi)	Ponto 1645
+8064	-23.5535947	-46.4927024	(amenity) (taxi)
+8373	-23.5759598	-46.6352255	(amenity) (taxi)
+8504	-23.6677663	-46.5327129	(amenity) (taxi)
+9082	-23.6934216	-46.5487013	(amenity) (taxi)
+9149	-23.6869955	-46.5594623	(amenity) (taxi)
+9241	-23.2282468	-45.8843354	(amenity) (taxi)
+9544	-23.5476971	-46.5392959	(amenity) (taxi)
+9724	-23.7159159	-46.5487696	(amenity) (taxi)	João Ramalho
+9730	-23.7160317	-46.5519967	(amenity) (taxi)
+9736	-23.5580981	-46.6035688	(amenity) (taxi)
+10006	-23.6350355	-46.5640851	(amenity) (taxi)	Ponto de Táxi
+10012	-23.596805	-46.6478755	(amenity) (taxi)
+10156	-23.6268937	-46.6593862	(amenity) (taxi)
+10420	-23.5557974	-46.6562011	(amenity) (taxi)	Ponto de Táxi San Gabriel
+10445	-23.6907137	-46.5667278	(amenity) (taxi)	Ponto 14
+10446	-23.6916131	-46.5603507	(amenity) (taxi)
+10460	-23.7054077	-46.5512823	(amenity) (taxi)	Prestes Maia
+10630	-23.4860161	-46.6923775	(amenity) (taxi)
+10784	-23.5379046	-46.6155223	(amenity) (taxi)
+10787	-23.5379889	-46.6178406	(amenity) (taxi)
+11053	-23.5590541	-46.7275078	(amenity) (taxi)	Praça dos Bancos
+11054	-23.5613007	-46.7209534	(amenity) (taxi)
+11090	-23.4677554	-46.5843014	(amenity) (taxi)	Sem Sono
+11170	-23.5634628	-46.7418273	(amenity) (taxi)	Hospital Universitário
+11346	-24.0124895	-46.420403	(amenity) (taxi)	Mangueira
+11361	-24.0100578	-46.4141102	(amenity) (taxi)
+11363	-24.0128356	-46.4145557	(amenity) (taxi)
+11523	-23.562131	-46.685949	(amenity) (taxi)	Ponto Táxi Mateus Grou
+11619	-23.5863978	-46.6042791	(amenity) (taxi)	São José
+12622	-23.9772578	-46.3003331	(amenity) (taxi)
+12664	-23.5283151	-46.6337527	(amenity) (taxi)
+12666	-23.5296337	-46.6359045	(amenity) (taxi)
+12779	-23.4917012	-46.5746218	(amenity) (taxi)	Ponto de Taxi Sabrina
+13370	-23.6393133	-46.5644547	(amenity) (taxi)	Ponto de Táxi
+13475	-23.6426433	-46.5616612	(amenity) (taxi)	Ponto de Táxi
+13485	-23.6244483	-46.5577022	(amenity) (taxi)	Ponto de Táxi
+13486	-23.6284348	-46.5567843	(amenity) (taxi)	Ponto de Táxi
+13791	-23.6323821	-46.5649134	(amenity) (taxi)	Ponto de Táxi
+14518	-23.7089086	-46.5488279	(amenity) (taxi)
+14592	-23.2473968	-45.8852269	(amenity) (taxi)
+14633	-23.5163927	-46.6232427	(amenity) (taxi)
+14665	-23.5156697	-46.622914	(amenity) (taxi)
+14677	-23.5243994	-46.6669317	(amenity) (taxi)
+14704	-23.6537772	-46.694278	(amenity) (taxi)
+15061	-23.546432	-46.6333795	(amenity) (taxi)	Nova Boa Vista
+15065	-23.5516137	-46.6486311	(amenity) (taxi)	Ponto de Táxi Pergamon
+15115	-23.5339115	-46.6874036	(amenity) (taxi)	Ponto de Táxi Pompéia
+15454	-23.6534528	-46.5334429	(amenity) (taxi)
+15514	-23.5661275	-46.6845096	(amenity) (taxi)	Ponto de Táxi Metro Fradique Coutinho
+15558	-23.5998964	-46.6368333	(amenity) (taxi)	Ponto de Táxi Sagres
+15647	-23.7372213	-46.5537856	(amenity) (taxi)	Ponto 24
+18920	-23.4854143	-46.6290874	(amenity) (taxi)	Ponto de Táxi Madaqui
+20782	-23.712084	-46.5531061	(amenity) (taxi)
+20833	-23.5618971	-46.6431906	(amenity) (taxi)
+20922	-23.5550589	-46.6934085	(amenity) (taxi)	Ponto de Táxi Casa Bonita
+21235	-23.9732464	-46.3188593	(amenity) (taxi)
+21276	-23.9510336	-46.3418081	(amenity) (taxi)
+21285	-23.9443816	-46.3353792	(amenity) (taxi)	Ponto de Táxi
+21394	-23.8827416	-46.4215249	(amenity) (taxi)	Ponto de Taxi
+21421	-23.5631434	-46.682331	(amenity) (taxi)	Ponto de Táxi Joaquim Antunes
+21444	-23.940934	-46.3179741	(amenity) (taxi)
+21616	-23.5676887	-46.6961284	(amenity) (taxi)	Ponto de Táxi Largo de Pinheiros
+21690	-23.4390806	-46.7861701	(amenity) (taxi)
+22136	-23.6319036	-46.7080295	(amenity) (taxi)
+22337	-23.5455108	-46.6488775	(amenity) (taxi)	Ponto de Taxi 1541 Vila Buarque
+22399	-23.5415658	-46.6165765	(amenity) (taxi)
+22440	-23.5634549	-46.6902683	(amenity) (taxi)	Ponto de Taxi Golden Tower
+22455	-23.9714392	-46.3095335	(amenity) (taxi)
+22461	-23.5591521	-46.6798861	(amenity) (taxi)	Lisboa Speed Taxi
+22490	-23.5428478	-46.6479984	(amenity) (taxi)	Ponto de Taxi Santa Isabel
+22539	-23.5536123	-46.5997265	(amenity) (taxi)	Ponto de Taxi Armarinhos Fernando
+22606	-23.5944192	-46.6771221	(amenity) (taxi)
+22661	-23.3269561	-46.7254819	(amenity) (taxi)	Ponto de Taxi Pça.Dom Bosco
+22800	-23.5581646	-46.6618234	(amenity) (taxi)	Ponto de Táxi São Paulo
+22869	-23.5537133	-46.6395761	(amenity) (taxi)	Ponto de táxi 1296
+23132	-23.4636315	-46.875833	(amenity) (taxi)	Cooperville Cooperativa de Rádio Táxi
+23162	-23.9581403	-46.4018502	(amenity) (taxi)
+23288	-23.5619435	-46.6545635	(amenity) (taxi)
+23295	-23.5645348	-46.6546747	(amenity) (taxi)
+23382	-23.5619808	-46.6541968	(amenity) (taxi)
+23394	-23.5575934	-46.6575884	(amenity) (taxi)
+23486	-23.5647017	-46.6518548	(amenity) (taxi)	Ponte de Taxi Paulista
+23487	-23.56425	-46.6514466	(amenity) (taxi)	Ponto de Taxi Luxo
+23509	-23.5532927	-46.6620041	(amenity) (taxi)	Ponto de Táxi Novo Horizonte
+23596	-23.5681194	-46.6489035	(amenity) (taxi)
+23610	-23.5344211	-46.6809334	(amenity) (taxi)
+23614	-23.5710337	-46.6464914	(amenity) (taxi)	Ponto de Táxi Alameda Santos
+23693	-23.5691699	-46.646	(amenity) (taxi)	Ponto de Táxi 230
+23833	-23.5553656	-46.6630189	(amenity) (taxi)	Ponto de Táxi Paulista
+23880	-23.5568087	-46.6590206	(amenity) (taxi)
+23883	-23.5562162	-46.6584146	(amenity) (taxi)	Ponto de Táxi 24H
+23999	-23.5432107	-46.6417785	(amenity) (taxi)	Ponto de Táxi República
+24017	-23.9537437	-46.3375779	(amenity) (taxi)
+24081	-23.5552121	-46.6588865	(amenity) (taxi)
+24349	-23.5544176	-46.6628423	(amenity) (taxi)	Ponto de Táxi Angélica
+24372	-23.5217713	-46.5996394	(amenity) (taxi)	Ponto de Táxi Carrefour
+24402	-23.553188	-46.6575591	(amenity) (taxi)	Ponto de Taxi 24 hs
+24504	-23.5116841	-46.6263763	(amenity) (taxi)	Ponto de Táxi Pronto Socorro de Santana
+24523	-23.5598949	-46.661938	(amenity) (taxi)	Ponto de Táxi Jaú
+24554	-23.5544558	-46.5932892	(amenity) (taxi)
+24605	-23.5610706	-46.6814671	(amenity) (taxi)	Ponto de Táxi Execultive Tower
+24680	-23.5588542	-46.6625859	(amenity) (taxi)
+24715	-23.537939	-46.6163927	(amenity) (taxi)	Ponto de Táxi Oriente/Marcolina
+24716	-23.5380451	-46.619206	(amenity) (taxi)
+24717	-23.5381649	-46.6204105	(amenity) (taxi)	Ponto de Táxi Dariana
+24846	-23.5647909	-46.6653941	(amenity) (taxi)	Ponto de Táxi Santa Luzia
+24871	-23.5659412	-46.6640269	(amenity) (taxi)	Ponto de Táxi L Entrecôte de Paris
+24878	-23.5646169	-46.6673892	(amenity) (taxi)
+24883	-23.5657444	-46.6697392	(amenity) (taxi)	Ponto de Táxi Figueira
+24887	-23.5613616	-46.6710629	(amenity) (taxi)
+24889	-23.5641355	-46.6680787	(amenity) (taxi)
+24895	-23.56218	-46.6677043	(amenity) (taxi)	Ponto de Táxi Bela Lorena
+24901	-23.6601708	-46.5663322	(amenity) (taxi)
+24918	-23.5584663	-46.6676372	(amenity) (taxi)	Ponto de Táxi Livre
+24922	-23.5626653	-46.6704258	(amenity) (taxi)	Ponto de Táxi Consolação
+24925	-23.5902019	-46.6731843	(amenity) (taxi)	Ponto de Táxi São Luis
+24927	-23.5898362	-46.6731859	(amenity) (taxi)	Ponto de Táxi 2362
+24964	-23.5620966	-46.6702429	(amenity) (taxi)
+24965	-23.5625071	-46.6788847	(amenity) (taxi)
+24973	-23.5638583	-46.6682525	(amenity) (taxi)
+24974	-23.5475851	-46.658864	(amenity) (taxi)	Ponto de Táxi Sergipe
+24996	-23.5515729	-46.6353049	(amenity) (taxi)	Ponto de Táxi João Mendes
+24999	-23.55037	-46.6353199	(amenity) (taxi)	Ponto de Táxi Quintino
+25135	-23.5479077	-46.6372616	(amenity) (taxi)
+25137	-23.5484607	-46.6374728	(amenity) (taxi)
+25144	-23.5471189	-46.6367118	(amenity) (taxi)	Ponto de Táxi 1783
+25148	-23.5459287	-46.6360612	(amenity) (taxi)	Prolongamento
+25218	-23.5513785	-46.6307086	(amenity) (taxi)	Ponto de Táxi Popa Tempo
+25219	-23.5444377	-46.6424367	(amenity) (taxi)	Ponto de Táxi 7 de Abril
+25220	-23.5529635	-46.6348576	(amenity) (taxi)	Ponto de Táxi Forum Central
+25304	-23.5021155	-46.6243673	(amenity) (taxi)
+25305	-23.5031817	-46.6235315	(amenity) (taxi)	Prolongamento
+25306	-23.5919393	-46.5886189	(amenity) (taxi)	Ponto de Táxi Tamanduatei
+25307	-23.6575484	-46.6537672	(amenity) (taxi)	Ponto de Táxi Santa Marina
+25327	-23.5667072	-46.7012251	(amenity) (taxi)	Ponto de Táxi Metrô Pinheiros
+25332	-23.5217062	-46.7014184	(amenity) (taxi)
+25372	-23.5400065	-46.5768945	(amenity) (taxi)
+25400	-23.5432152	-46.6307773	(amenity) (taxi)
+25411	-23.5582713	-46.6659318	(amenity) (taxi)
+25416	-23.5480446	-46.6607893	(amenity) (taxi)
+25437	-23.6522284	-46.6685022	(amenity) (taxi)	Ponto Táxi Pão Açúcar João Luca
+25481	-23.6484858	-46.6685558	(amenity) (taxi)	Táxi Mascote
+25503	-23.541195	-46.6308695	(amenity) (taxi)	Ponto de Táxi Barão Duprat
+25512	-23.5731093	-46.5629634	(amenity) (taxi)	Santa Clara
+25528	-23.5422623	-46.6270353	(amenity) (taxi)	Ponto de Táxi Mercurio
+25530	-23.5256419	-46.7081481	(amenity) (taxi)
+25543	-23.535487	-46.6166092	(amenity) (taxi)
+25544	-23.6184084	-46.6389228	(amenity) (taxi)	Ponto de Táxi Metrô Saúde
+25546	-23.5677238	-46.6549382	(amenity) (taxi)
+25548	-23.5673835	-46.6570664	(amenity) (taxi)	Ponto de Táxi Jardins
+25618	-23.5241789	-46.7059939	(amenity) (taxi)	Ponto de Táxi Barão
+25621	-23.5361613	-46.6331496	(amenity) (taxi)	Ponto de Táxi Florencio de Abreu
+25673	-23.5663526	-46.6925233	(amenity) (taxi)
+25675	-23.5169623	-46.624638	(amenity) (taxi)	Ponto de Táxi Rodoviaria do Tiete
+25713	-23.646005	-46.6641577	(amenity) (taxi)	Ponto de Táxi Piriquito
+25802	-23.2291553	-45.8842083	(amenity) (taxi)
+25837	-23.5223075	-46.7054008	(amenity) (taxi)	Ponto de Táxi Afonso Sardinha
+25841	-23.5679279	-46.6932451	(amenity) (taxi)	Ponto de Táxi Claudio Soares
+25846	-23.5400061	-46.6321738	(amenity) (taxi)	Ponto de Táxi Nº 2188
+25863	-23.5395888	-46.6306367	(amenity) (taxi)	Ponto de Táxi Barão Duprat
+25864	-23.5308856	-46.6115524	(amenity) (taxi)
+25865	-23.48592	-46.6170317	(amenity) (taxi)	Ponto de Táxi Altinopolis
+25874	-23.545209	-46.6205854	(amenity) (taxi)	Ponto de Táxi Bom Jesus do Brás
+25912	-23.5401447	-46.6173298	(amenity) (taxi)	Ponto de Táxi Conselheiro Belizário
+25984	-23.5418256	-46.6349504	(amenity) (taxi)
+26014	-23.5429363	-46.6372975	(amenity) (taxi)	Ponto de Táxi Salomão
+26055	-23.5221601	-46.7041199	(amenity) (taxi)	Ponto de Táxi Campos Salles
+26058	-23.5209305	-46.7033212	(amenity) (taxi)
+26098	-23.4801762	-46.6564803	(amenity) (taxi)
+26111	-23.5467315	-46.6502751	(amenity) (taxi)	Ponto de Táxi Ipanema
+26139	-23.5447954	-46.6518737	(amenity) (taxi)	Ponto de Táxi Ville
+26146	-23.5451988	-46.6502258	(amenity) (taxi)	Ponto de Táxi Vila Nova
+26519	-23.5333637	-46.5658308	(amenity) (taxi)	Ponto Táxi Hospital Tatuapé
+26589	-23.5434169	-46.6729138	(amenity) (taxi)	Ponto de Táxi Prof. João Arruda
+26705	-23.5162527	-46.6259278	(amenity) (taxi)
+26726	-23.549519	-46.6502523	(amenity) (taxi)
+26781	-23.5509604	-46.649705	(amenity) (taxi)
+26784	-23.6173687	-46.6388138	(amenity) (taxi)	Ponto de Táxi Besni
+26797	-23.534292	-46.5436272	(amenity) (taxi)	Ponto de Táxi
+26844	-23.5634328	-46.620416	(amenity) (taxi)	Ponto de Táxi Cambuci
+26931	-23.5821355	-46.6264105	(amenity) (taxi)	Ponto de Táxi 378 Santa Margarida Maria
+26994	-23.5381418	-46.6219596	(amenity) (taxi)	Ponto de Táxi 2730
+27022	-23.5368936	-46.5934494	(amenity) (taxi)	Ponto de Táxi Projeto Viver
+27073	-23.5447826	-46.6073105	(amenity) (taxi)
+27075	-23.5470223	-46.6074266	(amenity) (taxi)
+27132	-23.5420326	-46.6147044	(amenity) (taxi)	Ponto de Táxi Gomes Cardim
+27509	-23.5548578	-46.6355634	(amenity) (taxi)	Ponto de Táxi - Praça da Liberdade
+27519	-23.5601404	-46.6811284	(amenity) (taxi)	Ponto de Táxi Henrique Schaumann ll
+27559	-23.5643682	-46.6793508	(amenity) (taxi)	Ponto de Táxi Pinheiros
+27574	-23.5529464	-46.6520589	(amenity) (taxi)
+27579	-23.551866	-46.6494115	(amenity) (taxi)
+27580	-23.5559028	-46.6628295	(amenity) (taxi)	Ponto de Táxi Paulista
+27582	-23.523994	-46.6440053	(amenity) (taxi)	Ponto de Táxi Tibagi
+27775	-23.567839	-46.6920301	(amenity) (taxi)
+27809	-23.515545	-46.5872589	(amenity) (taxi)	Ponto de Táxi Santo Eduardo
+27832	-23.56879	-46.6900534	(amenity) (taxi)	Ponto de Táxi Gradiente
+27948	-23.568978	-46.6987347	(amenity) (taxi)	Ponto de Táxi Preto
+28000	-23.474439	-46.5898511	(amenity) (taxi)	Ponto de Táxi Guapira
+28011	-23.5222962	-46.5617161	(amenity) (taxi)	Ponto de Táxi Hospital Vermelhinho
+28032	-23.4707942	-46.3458628	(amenity) (taxi)	Praça da Bíblia
+28074	-23.5041355	-46.6394953	(amenity) (taxi)	Ponto Livre
+28099	-23.5994619	-46.6368268	(amenity) (taxi)	Ponto de Táxi Shopping Santa Cruz
+28100	-23.5963398	-46.6369105	(amenity) (taxi)	Ponto de Táxi Liceu
+28111	-23.5606906	-46.6829825	(amenity) (taxi)
+28216	-23.52264	-46.6612006	(amenity) (taxi)	Ponto de Táxi Forum Trabalhista
+28793	-23.5650551	-46.6838832	(amenity) (taxi)	Ponto de Táxi Mateus Grou
+28839	-23.56693	-46.6864558	(amenity) (taxi)	Ponto Livre
+28885	-23.5675291	-46.6876565	(amenity) (taxi)	Ponto de Táxi dos Pinheiros
+28910	-23.6042657	-46.6301904	(amenity) (taxi)	Ponto de Táxi Jureia
+28938	-23.5699925	-46.691056	(amenity) (taxi)	Ponto de Táxi 874
+28961	-23.5102624	-46.6887146	(amenity) (taxi)	Ponto de Táxi Freguesia do Ó
+28984	-23.6240063	-46.5655907	(amenity) (taxi)	Ponto de Táxi Beneficência Portuguesa
+29134	-23.5882338	-46.6071068	(amenity) (taxi)
+29626	-23.535533	-46.6875293	(amenity) (taxi)	Ponto de Táxi Cotoxó
+29741	-23.551419	-46.6541865	(amenity) (taxi)	Ponto de Táxi Bela Cintra
+29777	-23.5631887	-46.656488	(amenity) (taxi)	Ponto de Táxi Casa Branca
+29908	-23.6558359	-46.5250625	(amenity) (taxi)
+29920	-23.6560934	-46.5270082	(amenity) (taxi)
+29966	-23.5544564	-46.6573409	(amenity) (taxi)	Ponto de Táxi Heritege
+29967	-23.553743	-46.6581495	(amenity) (taxi)	Ponto de Táxi Amigão
+29971	-23.554806	-46.6554872	(amenity) (taxi)	Ponto de Táxi La Guardia
+30005	-23.5521391	-46.6524534	(amenity) (taxi)	Ponto de Táxi Dona Antônia
+30006	-23.5578584	-46.6581154	(amenity) (taxi)
+30010	-23.5591285	-46.6649651	(amenity) (taxi)	Ponto de Táxi Alamedas
+30022	-23.5306642	-46.5993305	(amenity) (taxi)	Ponto de Táxi Maria Zelia
+30041	-23.5599162	-46.6636724	(amenity) (taxi)	Ponto Livre
+30045	-23.5591651	-46.6627216	(amenity) (taxi)
+30061	-23.5625992	-46.6627371	(amenity) (taxi)	Ponto de Táxi Franca
+30065	-23.5616979	-46.6637551	(amenity) (taxi)	Ponto de Táxi Alameda Franca
+30066	-23.5607233	-46.6631559	(amenity) (taxi)	Ponto de Táxi Mercure
+30073	-23.5608203	-46.6646294	(amenity) (taxi)
+30093	-23.5618417	-46.6656591	(amenity) (taxi)	Ponto de Táxi Haddock Lobo
+30094	-23.562555	-46.6650431	(amenity) (taxi)	Ponto de Táxi Especial
+30117	-23.5629026	-46.6667976	(amenity) (taxi)	Ponto de Táxi Gramado
+30142	-23.563796	-46.6658848	(amenity) (taxi)	Ponto de Táxi Lorena / Augusta
+30148	-23.5639603	-46.6643145	(amenity) (taxi)	Ponto de Táxi Padre João manuel
+30181	-23.5165189	-46.7881615	(amenity) (taxi)
+30217	-23.6184052	-46.6394239	(amenity) (taxi)	Ponto de Táxi Ultrafarma
+30220	-23.5595051	-46.695955	(amenity) (taxi)	Ponto de Taxi 3000
+30237	-23.5268349	-46.7970244	(amenity) (taxi)	Ponto de Taxi 12
+30255	-23.5577304	-46.6816024	(amenity) (taxi)	Ponto Livre
+30256	-23.6632603	-46.6198563	(amenity) (taxi)
+30257	-23.5587893	-46.6803578	(amenity) (taxi)	Ponto de Táxi Livre Especial
+30272	-23.5553473	-46.6740447	(amenity) (taxi)	Ponto Arruda Alvim
+30280	-23.5554367	-46.6753874	(amenity) (taxi)	Ponto de Táxi Hotel Comfort
+30297	-23.4903874	-46.6753642	(amenity) (taxi)
+30302	-23.5641494	-46.6489527	(amenity) (taxi)
+30319	-23.5560156	-46.6751639	(amenity) (taxi)
+30327	-23.6264782	-46.7018668	(amenity) (taxi)
+30427	-23.6479367	-46.7012683	(amenity) (taxi)	Ponto Conde Táxi
+30437	-23.5577887	-46.6739092	(amenity) (taxi)
+30451	-23.5573282	-46.6756469	(amenity) (taxi)	Ponto de Táxi 24 H
+30474	-23.4914777	-46.6185472	(amenity) (taxi)	Ponto Livre
+30481	-23.5551871	-46.6773303	(amenity) (taxi)	Ponto de Táxi Capote Valente
+30498	-23.5574228	-46.6769628	(amenity) (taxi)
+30507	-23.4836568	-46.614364	(amenity) (taxi)	Ponto de Táxi Casa Forte
+30512	-23.5089773	-46.6613909	(amenity) (taxi)	Ponto de Táxi Reliquia
+30576	-23.5615566	-46.6742221	(amenity) (taxi)	Ponto de Táxi Rebouças
+30577	-23.5617571	-46.6752703	(amenity) (taxi)	Ponto de Táxi 2075
+30580	-23.5579901	-46.677936	(amenity) (taxi)
+30590	-23.5586098	-46.6747329	(amenity) (taxi)	Ponto de Táxi Capote Valente
+30705	-23.5632577	-46.6757764	(amenity) (taxi)
+30708	-23.5631674	-46.6770296	(amenity) (taxi)
+30733	-23.5192952	-46.6804476	(amenity) (taxi)	Ponto de Táxi Jardim das Predizes
+30802	-23.5603383	-46.6776669	(amenity) (taxi)
+30832	-23.6094999	-46.6680782	(amenity) (taxi)
+30892	-23.6122851	-46.6559247	(amenity) (taxi)	Ponto De Táxi 3043
+30895	-23.6484787	-46.6650526	(amenity) (taxi)	Ponto de Táxi
+30898	-23.5639878	-46.6793984	(amenity) (taxi)
+30923	-23.4961727	-46.6257853	(amenity) (taxi)	Ponto de Táxi Largo de Santana
+30931	-23.5427251	-46.6512306	(amenity) (taxi)	Ponto de Táxi Hospital Santa Isabel
+30932	-23.5426414	-46.648932	(amenity) (taxi)	Ponto de Táxi Santa Casa
+30952	-23.6138431	-46.659102	(amenity) (taxi)	Ponto de Táxi
+30967	-23.6107748	-46.6373988	(amenity) (taxi)	Praça da Árvore
+31125	-23.5963836	-46.6096561	(amenity) (taxi)
+31177	-23.5458679	-46.7504166	(amenity) (taxi)	Ponto Livre
+31190	-23.564798	-46.6893351	(amenity) (taxi)	Ponto de Táxi Comum
+31192	-23.5655335	-46.6866986	(amenity) (taxi)	Ponto de Táxi Arthu's
+31218	-23.5611679	-46.6877998	(amenity) (taxi)	Ponto Táxi Comum
+31254	-23.6660772	-46.4547058	(amenity) (taxi)	Praça da Biblia
+31278	-23.563574	-46.6835639	(amenity) (taxi)
+31301	-23.5326973	-46.6644175	(amenity) (taxi)
+31360	-23.5669557	-46.679398	(amenity) (taxi)	Ponto de Táxi Joaquim Antunes
+31426	-23.5668045	-46.6775262	(amenity) (taxi)
+31456	-23.5652187	-46.69193	(amenity) (taxi)	Ponto de Táxi Pedro Cristi
+31484	-23.5670228	-46.689306	(amenity) (taxi)	Ponto de Táxi Monte Carlo
+31485	-23.5656493	-46.6902685	(amenity) (taxi)	Ponto de Taxi Pedroso de Moraes
+31572	-23.57871	-46.6529568	(amenity) (taxi)
+31751	-23.9897074	-46.2898006	(amenity) (taxi)	Ponto de Taxi Terminal
+31764	-23.5241187	-46.1948019	(amenity) (taxi)
+31768	-23.5212063	-46.1965319	(amenity) (taxi)
+31888	-23.5836744	-46.6111815	(amenity) (taxi)
+32060	-23.5683952	-46.7078751	(amenity) (taxi)
+32499	-23.544275	-46.5645012	(amenity) (taxi)
+32736	-23.7327544	-46.5788891	(amenity) (taxi)
+32776	-23.5416428	-46.5659612	(amenity) (taxi)
+32804	-23.5439647	-46.5892214	(amenity) (taxi)	Ponto de Táxi Metro Belem
+33115	-23.5285023	-46.635435	(amenity) (taxi)	Ponto de Táxi Guarani
+33156	-23.5152293	-46.5877515	(amenity) (taxi)	Ponto de Táxi Rossio
+33191	-23.5432275	-46.6409868	(amenity) (taxi)
+33363	-23.5597982	-46.696864	(amenity) (taxi)	Ponto de Táxi Amigão
+33492	-23.4822865	-46.6128631	(amenity) (taxi)
+33506	-23.4868456	-46.6090369	(amenity) (taxi)	Ponto de Táxi Metro Parada Inglesa
+33700	-23.3399891	-46.7436213	(amenity) (taxi)	5 - Jardim dos Eucaliptos
+33749	-23.5039222	-46.6267031	(amenity) (taxi)	Ponto Bráz Leme
+33800	-23.4071046	-46.855874	(amenity) (taxi)	Taxi Portais
+33861	-23.3297303	-46.7257244	(amenity) (taxi)	Ponto de Taxi 01
+33942	-23.6665632	-46.4602461	(amenity) (taxi)	Ponto de Taxi - Nº 01
+33973	-23.5094871	-46.6247591	(amenity) (taxi)	Ponto Táxi Metro Carandiru
+33977	-23.50404	-46.64056	(amenity) (taxi)	Ponto de Táxi Heliadora
+34025	-23.5611684	-46.6669793	(amenity) (taxi)	Ponto de Táxi Lellis
+34080	-23.5546541	-46.6354558	(amenity) (taxi)	Ponto Táxi Praça da Liberdade
+34416	-23.6310904	-46.702479	(amenity) (taxi)	Ponto 117
+34423	-23.4764734	-46.6633825	(amenity) (taxi)	ponto Livre
+34579	-23.5415458	-46.3649952	(amenity) (taxi)
+34580	-23.5415919	-46.3679817	(amenity) (taxi)
+34581	-23.542086	-46.369113	(amenity) (taxi)
+34582	-23.5409187	-46.3688494	(amenity) (taxi)
+34583	-23.5423652	-46.366753	(amenity) (taxi)
+34584	-23.541472	-46.3664666	(amenity) (taxi)
+34625	-23.2036102	-45.8958685	(amenity) (taxi)
+34844	-23.5407138	-46.3679279	(amenity) (taxi)
+35045	-23.9425602	-46.3717547	(amenity) (taxi)
+35072	-23.5639075	-46.6753611	(amenity) (taxi)
+35090	-23.5719304	-46.6906127	(amenity) (taxi)	Ponto de Táxi Manduri
+35143	-23.5707681	-46.64745	(amenity) (taxi)
+35204	-23.6026554	-46.9132956	(amenity) (taxi)
+35206	-23.6979704	-46.5475703	(amenity) (taxi)	ABC Rádio Taxi
+35214	-23.6043912	-46.9220029	(amenity) (taxi)
+35378	-23.720646	-46.5496598	(amenity) (taxi)	Ponto 06
+35415	-23.5748055	-46.6432113	(amenity) (taxi)	Ponto de Táxi Comum
+35800	-23.6025397	-46.6946043	(amenity) (taxi)	Nações unidas
+35876	-23.5521426	-46.6250283	(amenity) (taxi)	Ponto de Táxi Figueira
+35969	-23.5611936	-46.6507669	(amenity) (taxi)
+35977	-23.571661	-46.7029357	(amenity) (taxi)	Ponto de Táxi Odebrecht
+36090	-23.5696288	-46.6924061	(amenity) (taxi)	Ponto de Táxi Diogo Moreira
+36094	-23.5379617	-46.2245756	(amenity) (taxi)	Ponto de Táxi
+36125	-23.5702192	-46.691682	(amenity) (taxi)
+36156	-23.5726952	-46.6976275	(amenity) (taxi)	Ponto de Táxi Eldorado
+36248	-23.4947926	-46.6924866	(amenity) (taxi)
+36496	-23.5875343	-46.6206789	(amenity) (taxi)	Ponto de Táxi
+36503	-23.5801669	-46.6866906	(amenity) (taxi)	Ponto de Táxi Tucumã
+36644	-23.5515105	-46.6907256	(amenity) (taxi)	Ponto de Táxi Harmonia
+36873	-23.5609971	-46.690706	(amenity) (taxi)
+36944	-23.5578103	-46.6901282	(amenity) (taxi)
+36964	-23.5525605	-46.6884561	(amenity) (taxi)	Ponto de Táxi Forum de Pinheiros
+37062	-23.55847	-46.6350807	(amenity) (taxi)
+37290	-23.5498767	-46.6948173	(amenity) (taxi)	Ponto de Táxi Natingui
+37301	-23.5753628	-46.6887803	(amenity) (taxi)
+37318	-23.5726387	-46.6901503	(amenity) (taxi)
+37325	-23.5725374	-46.689333	(amenity) (taxi)
+37327	-23.5715945	-46.6894719	(amenity) (taxi)	Ponto de Táxi Sampaio Vidal
+37704	-23.556624	-46.6804681	(amenity) (taxi)	Ponto de Táxi João Moura
+37764	-23.5331776	-46.5431932	(amenity) (taxi)	Ponto De Táxi Metrô Penha
+37768	-23.5313863	-46.5299375	(amenity) (taxi)	Ponto De Táxi Metrô Vila Matilde
+37793	-23.5510451	-46.6783806	(amenity) (taxi)
+37795	-23.5523984	-46.6775024	(amenity) (taxi)
+37899	-23.2053419	-46.7877583	(amenity) (taxi)
+37952	-23.5317325	-46.6212911	(amenity) (taxi)	Ponto de Táxi Nossa Senhora do Pari
+38030	-23.5740573	-46.6883891	(amenity) (taxi)
+38051	-23.5496988	-46.6114931	(amenity) (taxi)	Ponto de Táxi Ipanema
+38180	-23.5602018	-46.6679295	(amenity) (taxi)
+38181	-23.5610125	-46.6687039	(amenity) (taxi)	Ponto de Táxi Qualyta
+38184	-23.56041	-46.669705	(amenity) (taxi)
+38202	-23.5592371	-46.6665362	(amenity) (taxi)	Ponto de Táxi Alameda Franca
+38225	-23.5399602	-46.6452763	(amenity) (taxi)	Ponto de taxi
+38370	-23.5930277	-46.6751032	(amenity) (taxi)	Comendador
+38392	-23.2195751	-45.9065863	(amenity) (taxi)	Táxi do Fórum
+38571	-23.4023585	-46.4478665	(amenity) (taxi)
+38651	-23.6646102	-46.5229522	(amenity) (taxi)
+38723	-23.5536749	-46.6333523	(amenity) (taxi)
+38746	-23.5640112	-46.6927895	(amenity) (taxi)
+38808	-23.6712239	-46.5053007	(amenity) (taxi)
+38831	-23.6500707	-46.6610667	(amenity) (taxi)	Ponto de Táxi
+38870	-23.5447375	-46.5690854	(amenity) (taxi)	Ponto de táxi Pão de Açucar Serra do japi
+39000	-23.5491312	-46.5579481	(amenity) (taxi)	Ponto de Táxi Hospital São Luís
+39021	-23.5508059	-46.5593847	(amenity) (taxi)	Ponto de Táxi Pedreira
+39089	-23.5541842	-46.5563847	(amenity) (taxi)	Ponto de Táxi DRTC
+39097	-23.6529617	-46.5280178	(amenity) (taxi)
+39439	-23.5430017	-46.6394072	(amenity) (taxi)	Ponto de Táxi Terra da Garoa
+39441	-23.5403207	-46.6392155	(amenity) (taxi)
+39458	-23.539705	-46.644533	(amenity) (taxi)	Ponto Ibis São João
+39460	-23.5394311	-46.644915	(amenity) (taxi)
+39556	-23.5474727	-46.6898233	(amenity) (taxi)	Taxi
+39829	-23.6599732	-46.531984	(amenity) (taxi)
+39880	-23.6691674	-46.5205368	(amenity) (taxi)
+39900	-23.6606838	-46.5257634	(amenity) (taxi)
+39911	-23.6383837	-46.5191303	(amenity) (taxi)
+39923	-23.6606821	-46.5279293	(amenity) (taxi)
+40022	-23.6653397	-46.5422016	(amenity) (taxi)	Ponto Táxi Atlântica
+40213	-23.6547996	-46.5715929	(amenity) (taxi)
+40268	-23.6025942	-46.612693	(amenity) (taxi)	Ponto de táxi 2895
+40296	-23.5244053	-46.700637	(amenity) (taxi)	Ponto de Táxi Sorocabano
+40300	-23.5328005	-46.7041797	(amenity) (taxi)	Ponto de Táxi D'Angola
+40386	-23.5505487	-46.6779362	(amenity) (taxi)	Taxi
+40566	-23.6931306	-46.5058384	(amenity) (taxi)
+40637	-23.6142914	-46.6376315	(amenity) (taxi)
+41071	-23.1890545	-45.8733929	(amenity) (taxi)
+41372	-23.4715556	-46.651677	(amenity) (taxi)
+41391	-23.5378193	-46.6360885	(amenity) (taxi)	Ponto de Táxi Casper Libero
+41459	-23.5358136	-46.6370235	(amenity) (taxi)	Ponto de Táxi Hotel Monteneve & Hotel New Comercial Palace
+41922	-23.4907728	-46.5888163	(amenity) (taxi)	Ponto de Táxi Crispim Duarte
+42550	-23.5629175	-46.6981095	(amenity) (taxi)	Ponto Táxi Ferreira Araujo
+42619	-23.5553889	-46.6827058	(amenity) (taxi)	Ponto de Táxi Lisboa
+42637	-23.5613332	-46.6941534	(amenity) (taxi)	Ponto de Táxi Ohtake Cultural
+42675	-23.5644635	-46.6979958	(amenity) (taxi)	Ponto de Táxi Ferreira Araújo
+42683	-23.5650654	-46.696431	(amenity) (taxi)	Ponto de Táxi Padre Carvalho
+42700	-23.5598063	-46.6977834	(amenity) (taxi)	Ponto de Táxi Vupabussu
+42702	-23.5596815	-46.6999863	(amenity) (taxi)	Ponto de Táxi igreja da Cruz Torta
+42704	-23.5613718	-46.7019813	(amenity) (taxi)	Ponto de Táxi Sabesp
+43033	-23.5540815	-46.6808839	(amenity) (taxi)	Ponto de Táxi Bandeiras
+43057	-23.5522255	-46.6806283	(amenity) (taxi)
+43148	-23.5656428	-46.6490817	(amenity) (taxi)
+43196	-23.5527535	-46.6821559	(amenity) (taxi)	Ponto de Táxi Amália
+168514	-23.68656285	-46.62135485	(amenity) (taxi)	02
+168515	-23.68657855	-46.62434015	(amenity) (taxi)	01

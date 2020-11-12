@@ -1,0 +1,664 @@
+156	-23.5816153	-46.579612	(shop) (car_repair)	Ninim
+566	-23.5522074	-46.628603	(shop) (car_repair)	Oficina Mecânica
+572	-23.5522012	-46.6279702	(shop) (car_repair)	Oficina Mecanica
+704	-23.5550366	-46.6290206	(shop) (car_repair)	Borracharia
+715	-23.5550906	-46.6286281	(shop) (car_repair)	Mercedes-Benz Servicos
+2155	-23.5781978	-46.587538	(shop) (car_repair)	Mecânica Giovanni's
+2156	-23.5772858	-46.5916579	(shop) (car_repair)
+2181	-23.5797713	-46.5874885	(shop) (car_repair)
+2291	-23.2247046	-45.8859756	(shop) (car_repair)
+2845	-23.9690535	-46.3062141	(shop) (car_repair)
+2976	-23.9652742	-46.31911	(shop) (car_repair)
+2984	-23.9643663	-46.311097	(shop) (car_repair)
+3098	-23.9699698	-46.3103614	(shop) (car_repair)
+3110	-23.9606318	-46.3136117	(shop) (car_repair)
+3114	-23.9606026	-46.3138536	(shop) (car_repair)
+3119	-23.942939	-46.3253541	(shop) (car_repair)
+3249	-23.5482541	-46.776357	(shop) (car_repair)
+3416	-23.6327495	-46.6213846	(shop) (car_repair)	Controlar
+3532	-23.7388064	-46.6869023	(shop) (car_repair)	Cout Car
+3609	-23.5976932	-46.6866109	(shop) (car_repair)	Ravenna Auto Center
+3879	-23.6049148	-46.6587832	(shop) (car_repair)	ELF Moema
+3886	-23.6048134	-46.6586835	(shop) (car_repair)	Ibirasom
+3925	-23.4406037	-46.7200201	(shop) (car_repair)
+3927	-23.4414504	-46.7204509	(shop) (car_repair)
+4137	-23.6284161	-46.5994048	(shop) (car_repair)
+4169	-23.7044037	-46.5759327	(shop) (car_repair)	Carol Cris Pneus
+4205	-23.701798	-46.5771555	(shop) (car_repair)	Equip Kar
+4290	-23.5302778	-46.6229964	(shop) (car_repair)	Mecanica de Automoveis Niki
+4465	-23.7252092	-46.5728667	(shop) (car_repair)	ABC Espelhos Retrovisores
+4502	-23.6027322	-46.5159756	(shop) (car_repair)	King Motors
+4514	-23.4918436	-46.5871308	(shop) (car_repair)	Auto Eletrico Loreto
+4562	-23.5248081	-46.6157247	(shop) (car_repair)	Alerikar Diesel Mecanica de Caminhões
+4638	-23.5245114	-46.6157737	(shop) (car_repair)
+4710	-23.5284492	-46.6119626	(shop) (car_repair)	Mecanica João
+4714	-23.5005105	-46.6004648	(shop) (car_repair)	Aquarius Auto serve
+4775	-23.4950611	-46.5800439	(shop) (car_repair)	Mecanica do Ze Pedro
+4780	-23.5957602	-46.6171697	(shop) (car_repair)	Posto de Amortecedores Vergueiro PAV
+4802	-23.5815428	-46.5647581	(shop) (car_repair)	Jóia Escapamentos
+5069	-23.5286508	-46.6092581	(shop) (car_repair)	UAI UAI Funilaria
+5315	-23.4839531	-46.5794828	(shop) (car_repair)	Oficina Jardim Japão
+5319	-23.4791974	-46.5797188	(shop) (car_repair)	Oficina Pedroso
+5351	-23.4919951	-46.5716575	(shop) (car_repair)	Oficina Mecanica Rafhael
+5352	-23.4919287	-46.5717353	(shop) (car_repair)	Posto de Molas Sabrina
+5429	-23.9899988	-46.2539593	(shop) (car_repair)
+5772	-23.5192973	-46.6122955	(shop) (car_repair)	Oficina Diesel
+5832	-23.5186142	-46.6136549	(shop) (car_repair)
+5867	-23.5266822	-46.6069623	(shop) (car_repair)	Mini Buggy Consertos
+5882	-23.503146	-46.6201828	(shop) (car_repair)	Hidrautec Direções Hidráulicas
+5884	-23.5029821	-46.620005	(shop) (car_repair)	Mecanica e Borracharia
+5931	-23.5351745	-46.6001343	(shop) (car_repair)	Funileiro
+5934	-23.5359413	-46.5997898	(shop) (car_repair)
+5981	-23.4955653	-46.5864949	(shop) (car_repair)	Lessan Special Scape
+5988	-23.4963869	-46.5862617	(shop) (car_repair)	Radiadores Conceição
+6065	-23.6685238	-46.5605372	(shop) (car_repair)	Ecotrend
+6090	-23.4988214	-46.5888938	(shop) (car_repair)	Dé Pneus
+6159	-23.7008412	-46.5682359	(shop) (car_repair)	Cruel Motos
+6181	-23.7201566	-46.5739416	(shop) (car_repair)	Auto Elétrico Mizuno II
+6255	-23.7045152	-46.5883446	(shop) (car_repair)	Auto Eletrico Blackout
+6256	-23.704417	-46.5883231	(shop) (car_repair)
+6270	-23.6888008	-46.5910511	(shop) (car_repair)	Neguinho Motos
+6271	-23.6888524	-46.5910323	(shop) (car_repair)	Top Motos
+6344	-23.7170582	-46.5541144	(shop) (car_repair)	Spancar
+6753	-23.6627291	-46.5388041	(shop) (car_repair)	Tamanaka & Tamanaka
+6871	-23.6631358	-46.5249764	(shop) (car_repair)	Rodbem
+6875	-23.6623724	-46.5265725	(shop) (car_repair)	Varga
+7201	-23.9671583	-46.3014525	(shop) (car_repair)	Borracheiro de caminhões
+7213	-23.9763019	-46.2996947	(shop) (car_repair)	Borracheiro
+7224	-23.7021723	-46.5726867	(shop) (car_repair)	Maca's Car
+7252	-23.7999786	-46.5431565	(shop) (car_repair)
+7319	-23.5325901	-46.680943	(shop) (car_repair)
+7321	-23.5320678	-46.6807073	(shop) (car_repair)	Mecânica Classe A
+7376	-23.6641012	-46.4461044	(shop) (car_repair)	So radiadores
+7403	-23.5618965	-46.5742557	(shop) (car_repair)	Zapt
+7416	-23.5592478	-46.5767193	(shop) (car_repair)
+7446	-23.4988298	-46.5984491	(shop) (car_repair)	ADS troca de oleo
+7447	-23.4982337	-46.5963311	(shop) (car_repair)
+7569	-23.5312819	-46.625903	(shop) (car_repair)	Rei do Oleo
+7617	-23.5244101	-46.608986	(shop) (car_repair)
+7627	-23.5223884	-46.5930657	(shop) (car_repair)	S.P Velocimetros
+7657	-23.515767	-46.6041276	(shop) (car_repair)
+7660	-23.5144654	-46.5948768	(shop) (car_repair)
+7662	-23.5188092	-46.5902145	(shop) (car_repair)	Oficina Brasil
+7919	-23.4969158	-46.5856935	(shop) (car_repair)	Virtude Auto Center
+7927	-23.5033307	-46.5915796	(shop) (car_repair)
+7956	-23.5992718	-46.5294113	(shop) (car_repair)	Centro Automotivo
+7980	-23.5255248	-46.6184622	(shop) (car_repair)	Mimado
+8128	-23.5001411	-46.5933348	(shop) (car_repair)
+8165	-23.4899976	-46.5777443	(shop) (car_repair)	Mecanica Esmerilho
+8174	-23.4877325	-46.5769464	(shop) (car_repair)
+8225	-23.5121602	-46.5890059	(shop) (car_repair)
+8254	-23.5315356	-46.6253711	(shop) (car_repair)	Troca de Òleo Campeão
+8307	-23.5278007	-46.6067911	(shop) (car_repair)	Mvr Automoveis
+8317	-23.5100941	-46.606296	(shop) (car_repair)
+8318	-23.5138688	-46.6083711	(shop) (car_repair)
+8430	-23.5355607	-46.6295234	(shop) (car_repair)
+8527	-23.4937123	-46.5853563	(shop) (car_repair)	Tchaca
+8545	-23.3247893	-46.5687866	(shop) (car_repair)	Volk Carimbos
+8593	-23.4970605	-46.5939143	(shop) (car_repair)	LGC Funilaria
+8601	-23.5158295	-46.6095999	(shop) (car_repair)	Mecânica Nelkar
+8602	-23.5149195	-46.6112522	(shop) (car_repair)
+8603	-23.5152343	-46.6108874	(shop) (car_repair)
+8675	-23.5987534	-46.5888722	(shop) (car_repair)
+8679	-23.5237228	-46.5936077	(shop) (car_repair)
+8680	-23.5265903	-46.5893054	(shop) (car_repair)
+8690	-23.508241	-46.6000566	(shop) (car_repair)	Escapamentos
+8691	-23.5183872	-46.5949539	(shop) (car_repair)	Mecanica Torte
+8697	-23.5242996	-46.5899517	(shop) (car_repair)	J.S.S Oficina Mecânica
+8698	-23.5237184	-46.5909265	(shop) (car_repair)	Sancar Auto Center
+8750	-23.4879749	-46.5770202	(shop) (car_repair)	Mecânica Jipão
+8812	-23.5352209	-46.6034158	(shop) (car_repair)
+8819	-23.5351076	-46.5195428	(shop) (car_repair)
+8830	-23.4929669	-46.5797185	(shop) (car_repair)
+8832	-23.4919007	-46.5783848	(shop) (car_repair)
+8838	-23.4923232	-46.5846834	(shop) (car_repair)	Rubão Reparo em Veiculos
+8899	-23.5047769	-46.5979167	(shop) (car_repair)	Funilaria Vevecar
+8973	-23.5199524	-46.5883337	(shop) (car_repair)	Sabacar
+8985	-23.4836273	-46.572299	(shop) (car_repair)	Faisca Auto Eletrico
+9007	-23.6979893	-46.578119	(shop) (car_repair)
+9032	-23.5247633	-46.4777543	(shop) (car_repair)
+9035	-23.5248209	-46.4779162	(shop) (car_repair)	Moto Oficina
+9037	-23.524811	-46.4783879	(shop) (car_repair)
+9085	-23.7150611	-46.5506033	(shop) (car_repair)	Auto-Elétrico Arapongas
+9182	-23.5391404	-46.4266864	(shop) (car_repair)
+9265	-23.5210796	-46.643386	(shop) (car_repair)	Javaés Auto Serviços (Troca de Óleo)
+9373	-23.5215107	-46.4964186	(shop) (car_repair)
+9437	-23.7877587	-46.5362895	(shop) (car_repair)
+9534	-23.5483922	-46.5367479	(shop) (car_repair)	Takamine Acessórios
+9742	-23.25515	-45.889049	(shop) (car_repair)	rota 40 motos
+9784	-23.5144058	-46.6556179	(shop) (car_repair)
+9933	-23.4800414	-46.5522523	(shop) (car_repair)	Martelinho Dourado
+10014	-23.7078481	-46.5535982	(shop) (car_repair)	Rodtec
+10015	-23.707438	-46.5536251	(shop) (car_repair)	Demarque Steres Car
+10224	-23.5072267	-46.7093103	(shop) (car_repair)	Oficina de caminhões
+10429	-23.7198386	-46.5516379	(shop) (car_repair)	Formiga
+10437	-23.7086813	-46.5520829	(shop) (car_repair)	3° Visão Perícias e Vistorias Automotivas
+10562	-23.47846	-46.5829345	(shop) (car_repair)	Auto Eletrico
+10568	-23.4793709	-46.5844535	(shop) (car_repair)
+10576	-23.4927694	-46.5977052	(shop) (car_repair)
+10618	-23.4809297	-46.5750564	(shop) (car_repair)
+10619	-23.4826124	-46.5741391	(shop) (car_repair)
+10667	-23.487664	-46.5856525	(shop) (car_repair)
+10670	-23.489015	-46.5786536	(shop) (car_repair)
+10671	-23.4868399	-46.5813045	(shop) (car_repair)	Gordinho
+10725	-23.4890913	-46.5922977	(shop) (car_repair)
+10754	-23.5005408	-46.5891254	(shop) (car_repair)
+10873	-23.5158412	-46.5953531	(shop) (car_repair)
+10880	-23.5135532	-46.6091918	(shop) (car_repair)
+10882	-23.514341	-46.6077294	(shop) (car_repair)
+10943	-23.5098106	-46.6252651	(shop) (car_repair)	Rei do Oleo
+10958	-23.4971795	-46.5890566	(shop) (car_repair)
+10977	-23.4929625	-46.5773437	(shop) (car_repair)
+10991	-23.4920819	-46.5876229	(shop) (car_repair)	JM Auto Center
+11045	-23.5737785	-46.5803468	(shop) (car_repair)
+11253	-23.5400666	-46.1900878	(shop) (car_repair)
+11416	-23.5543477	-46.6132958	(shop) (car_repair)	Borracharia
+11418	-23.5537108	-46.6204814	(shop) (car_repair)
+11655	-23.4794242	-46.6218126	(shop) (car_repair)
+11758	-23.4609846	-46.6154597	(shop) (car_repair)
+11761	-23.5854979	-46.7601998	(shop) (car_repair)	Kill
+11762	-23.5855324	-46.7597315	(shop) (car_repair)
+11796	-23.4618331	-46.5290099	(shop) (car_repair)
+11840	-23.6039411	-46.6458752	(shop) (car_repair)	mecânica
+12188	-23.5555923	-46.6171971	(shop) (car_repair)
+12268	-23.5747446	-46.7302838	(shop) (car_repair)
+12291	-23.4813951	-46.6409179	(shop) (car_repair)	Peru Glass
+12482	-23.4486246	-46.5367306	(shop) (car_repair)	Autoparts Autopecas
+12618	-23.4589513	-46.4730732	(shop) (car_repair)	Logitrac GRU
+12757	-23.5209162	-46.7251417	(shop) (car_repair)
+12759	-23.5214209	-46.723497	(shop) (car_repair)
+12768	-23.5106507	-46.5416153	(shop) (car_repair)
+12776	-23.4962958	-46.5539684	(shop) (car_repair)	Auto Eletrico Casa de Bateria
+12792	-23.5321746	-46.6079746	(shop) (car_repair)
+12812	-23.5705269	-46.7407128	(shop) (car_repair)	Funilaria e Pintura
+12813	-23.5703305	-46.7408156	(shop) (car_repair)	Tapeçaria
+12826	-23.5194569	-46.605906	(shop) (car_repair)	Fino Trato Funilaria
+12827	-23.5181032	-46.5989319	(shop) (car_repair)
+12877	-23.4928847	-46.6145179	(shop) (car_repair)	Auto Eletrico
+12878	-23.4913151	-46.6158768	(shop) (car_repair)	Jordan Eletrico
+12970	-23.5463566	-46.5874608	(shop) (car_repair)
+12971	-23.546209	-46.5867281	(shop) (car_repair)
+13092	-23.5282569	-46.6838288	(shop) (car_repair)	DPaschoal
+13113	-23.778276	-46.5300797	(shop) (car_repair)	Auto Mecânica Procópio
+13513	-23.618026	-46.6373112	(shop) (car_repair)
+13880	-23.5914708	-46.6079403	(shop) (car_repair)
+13961	-23.5423325	-46.6066486	(shop) (car_repair)	21 Auto Center
+14162	-23.5172009	-46.7451125	(shop) (car_repair)	Molas Cacique
+14214	-23.4948187	-46.5660561	(shop) (car_repair)	Platopeças
+14290	-23.5438869	-46.6475402	(shop) (car_repair)
+14297	-23.559672	-46.6330098	(shop) (car_repair)
+14359	-23.5014892	-46.6131063	(shop) (car_repair)	Korko Car
+14366	-23.5021117	-46.6117061	(shop) (car_repair)
+14368	-23.5007068	-46.6115191	(shop) (car_repair)
+14371	-23.5005416	-46.6111293	(shop) (car_repair)	Mecânica Vila Real
+14373	-23.5100861	-46.5957896	(shop) (car_repair)
+14413	-23.5135813	-46.6029295	(shop) (car_repair)	Mecanica Diesel
+14414	-23.5136745	-46.6029447	(shop) (car_repair)	Mecanica Carros
+14415	-23.5138545	-46.603089	(shop) (car_repair)
+14420	-23.5144141	-46.6033628	(shop) (car_repair)
+14422	-23.5145323	-46.6034296	(shop) (car_repair)	Auto Eletrico
+14505	-23.5271711	-46.6219464	(shop) (car_repair)	Rialto Comercio de Peças de Veiculos ltda
+14560	-23.5628298	-46.6942227	(shop) (car_repair)
+14574	-23.9597942	-46.3980215	(shop) (car_repair)	Guaraní Motos (Anderson)
+14593	-23.6565345	-46.694899	(shop) (car_repair)	Autoban
+14610	-23.6572943	-46.6963948	(shop) (car_repair)	Bel-Air Ar Condicionado
+14615	-23.6580123	-46.697995	(shop) (car_repair)	Mecânica Arini
+14712	-23.51873	-46.6058368	(shop) (car_repair)	Auto Eletrico
+14713	-23.5192672	-46.6061441	(shop) (car_repair)
+14714	-23.5190965	-46.6049849	(shop) (car_repair)
+14745	-23.5002479	-46.5923151	(shop) (car_repair)	Nova Scap
+14746	-23.4952791	-46.5851049	(shop) (car_repair)	2R Centro Automotivo
+14750	-23.4947908	-46.5840654	(shop) (car_repair)
+14753	-23.4946794	-46.583132	(shop) (car_repair)
+14754	-23.4947189	-46.5826176	(shop) (car_repair)	Tapeçaria Guança
+14757	-23.4948029	-46.582045	(shop) (car_repair)	AP Direções Hidralicas
+14761	-23.4959832	-46.5862424	(shop) (car_repair)	Auto Eletrico Paulinho
+14779	-23.4930022	-46.5797562	(shop) (car_repair)
+14792	-23.490873	-46.5859202	(shop) (car_repair)	Oficina de Motos
+14858	-23.4923715	-46.5842315	(shop) (car_repair)
+14862	-23.5060511	-46.6036145	(shop) (car_repair)	Campeão Auto Service
+14865	-23.4943864	-46.5870939	(shop) (car_repair)	Cilony Car
+14866	-23.4945466	-46.5872611	(shop) (car_repair)	Funilaria e Pintura
+14867	-23.4946127	-46.58733	(shop) (car_repair)	Mecânica Malibu
+14921	-23.7004014	-46.781513	(shop) (car_repair)
+14959	-23.5734807	-46.7320882	(shop) (car_repair)	Vidros e Tapeçaria
+14962	-23.5735973	-46.7335579	(shop) (car_repair)	Highway Goodyear
+15029	-23.5770628	-46.6569381	(shop) (car_repair)	Jet Oil
+15239	-23.4979201	-46.5878718	(shop) (car_repair)
+15266	-23.5053626	-46.6068105	(shop) (car_repair)
+15268	-23.5103523	-46.605988	(shop) (car_repair)	Mecanica Martelo
+15273	-23.5072591	-46.6051215	(shop) (car_repair)	Troca de Oleo
+15380	-23.4949938	-46.5843305	(shop) (car_repair)	AP Auto Center
+15381	-23.494947	-46.5840537	(shop) (car_repair)	Ilário Reformas de Auto
+15406	-23.7512121	-46.5978844	(shop) (car_repair)
+15413	-23.7182164	-46.5505186	(shop) (car_repair)	Val Reparação Automotiva
+15433	-23.497758	-46.5874918	(shop) (car_repair)
+15441	-23.4931009	-46.584709	(shop) (car_repair)
+15468	-23.4950162	-46.5813352	(shop) (car_repair)
+15478	-23.495069	-46.5786908	(shop) (car_repair)	VVT Auto Mecânica
+15634	-23.5688964	-46.5664089	(shop) (car_repair)	Auto Elétrico e Mecânica
+15991	-23.5742123	-46.5497362	(shop) (car_repair)	Mecânica Sandroni
+20667	-23.6007748	-46.6096455	(shop) (car_repair)	Dekra
+20788	-23.5264465	-46.6252165	(shop) (car_repair)
+20941	-23.6938909	-46.5708967	(shop) (car_repair)	Personal Service Car
+21116	-23.6949141	-46.5687636	(shop) (car_repair)	JB Auto Center
+21117	-23.695045	-46.5690629	(shop) (car_repair)	Tapeçaria Chile Car
+21118	-23.6950038	-46.5693217	(shop) (car_repair)	Radiadores F. A.
+21286	-23.6959629	-46.5688373	(shop) (car_repair)	Auto Elétrico
+21581	-23.6033093	-46.6675462	(shop) (car_repair)	Navega Mecânica
+21777	-23.7190083	-46.5511476	(shop) (car_repair)
+21812	-23.6953077	-46.5683123	(shop) (car_repair)	LJ Baterias
+21957	-23.6710122	-46.6791493	(shop) (car_repair)	Júlio Simões
+21959	-23.4817642	-46.5713137	(shop) (car_repair)	Centro Automotivo Andrade
+21960	-23.48232	-46.5710083	(shop) (car_repair)	Retifica de Motores P.C
+22328	-23.5443052	-46.6479757	(shop) (car_repair)
+22366	-23.5035963	-46.5927248	(shop) (car_repair)	Alekareka Chaveiro 24 Horas
+22396	-23.5269108	-46.6116444	(shop) (car_repair)
+22397	-23.5269231	-46.6115937	(shop) (car_repair)
+22403	-23.5250431	-46.6428305	(shop) (car_repair)	SOLONCAR
+22420	-23.532125	-46.6176035	(shop) (car_repair)	Oficina Orlando
+22471	-23.4989443	-46.5896559	(shop) (car_repair)
+22634	-23.3277504	-46.7277842	(shop) (car_repair)	MaxCar
+22635	-23.3282873	-46.7282268	(shop) (car_repair)	Universo das Baterias
+22648	-23.722765	-46.5506119	(shop) (car_repair)	Wilcar Injeção Eletrônica
+22740	-23.5051334	-46.566114	(shop) (car_repair)
+22809	-23.7228412	-46.5506136	(shop) (car_repair)	Auto Elétrico Wilcar
+22863	-23.5407822	-46.6024136	(shop) (car_repair)
+23039	-23.7170869	-46.5820636	(shop) (car_repair)	Maurício Auto Estufa
+23541	-23.5118165	-46.8346977	(shop) (car_repair)	Posto de Recuperação de Carros de Carapicuíba
+24396	-23.5531988	-46.6585541	(shop) (car_repair)	Audio Cell
+24408	-23.5519854	-46.657424	(shop) (car_repair)
+24411	-23.5525999	-46.6585903	(shop) (car_repair)
+24645	-23.5683338	-46.6355896	(shop) (car_repair)	Piovesan
+24902	-23.6599374	-46.5661123	(shop) (car_repair)
+25010	-23.5440951	-46.6571043	(shop) (car_repair)
+25112	-23.5357427	-46.7320331	(shop) (car_repair)	Oficina de Caminhões
+25246	-23.7009636	-46.5638617	(shop) (car_repair)	Auto Elétrico Luís
+25247	-23.7009685	-46.5632106	(shop) (car_repair)
+25248	-23.7010691	-46.5670865	(shop) (car_repair)	M&G Oficina Mecânica
+25250	-23.7034103	-46.5761521	(shop) (car_repair)
+25251	-23.7045394	-46.5759308	(shop) (car_repair)	Auto Elétrica Mizuho 3
+25266	-23.1931568	-45.8654212	(shop) (car_repair)	Martelinho de Ouro
+25278	-23.7228031	-46.5506128	(shop) (car_repair)	Baterias Rainha
+25284	-23.6911197	-46.566932	(shop) (car_repair)	Pratika Vistoria Veicular
+25285	-23.690871	-46.566843	(shop) (car_repair)	Custom Aúdio
+25317	-23.5747539	-46.5657831	(shop) (car_repair)	Auto Mecânica Funilaria e Pintura
+25356	-23.5376343	-46.6304275	(shop) (car_repair)
+25417	-23.5522662	-46.622709	(shop) (car_repair)
+25516	-23.5710479	-46.5666052	(shop) (car_repair)	Mecânica e Elétrica Baroca
+25540	-23.5292227	-46.6136313	(shop) (car_repair)	Centro Mecânico Alincar
+25626	-23.6700079	-46.5396608	(shop) (car_repair)	Thor Funilaria Express
+25694	-23.7262477	-46.5608492	(shop) (car_repair)	Oficina Mecanica Pereira
+25695	-23.7262502	-46.5607632	(shop) (car_repair)	Pé di Neve
+25780	-23.5061506	-46.3068721	(shop) (car_repair)	Auto Elétrica Albino
+26097	-23.4801226	-46.6578507	(shop) (car_repair)
+26416	-23.5402699	-46.5981179	(shop) (car_repair)
+26472	-23.5770054	-46.656987	(shop) (car_repair)	Jet Oil
+26534	-23.6047159	-46.6511439	(shop) (car_repair)
+26557	-23.7866278	-46.5334241	(shop) (car_repair)	Centro Automotivo Rio Acima
+26653	-23.5151217	-46.5366956	(shop) (car_repair)
+26678	-23.7018203	-46.5689057	(shop) (car_repair)	Biro's Auto Car
+26991	-23.7209551	-46.5636989	(shop) (car_repair)	Keep Car
+27259	-23.7025521	-46.5757804	(shop) (car_repair)	Mecânica G.S. Planalto
+27331	-23.5238141	-46.6159614	(shop) (car_repair)	Dalmar
+27566	-24.0014786	-46.4128859	(shop) (car_repair)
+27716	-24.2869017	-46.9573176	(shop) (car_repair)	Auto Elétrico Thiaguinho
+27933	-23.7775561	-46.5299663	(shop) (car_repair)
+27934	-23.7774628	-46.5299904	(shop) (car_repair)	Roni Auto Elétrico
+28034	-23.4937123	-46.5978967	(shop) (car_repair)
+28042	-23.5256763	-46.6090405	(shop) (car_repair)	Mecanica Diesel
+28083	-23.5254525	-46.6097994	(shop) (car_repair)
+28084	-23.5257789	-46.6094551	(shop) (car_repair)	BG Automotivo
+28106	-23.5247076	-46.6051666	(shop) (car_repair)	Oficina do Hage
+28207	-23.5251018	-46.6570504	(shop) (car_repair)	Oficina Martha
+28220	-23.7047595	-46.5763782	(shop) (car_repair)	Oficina Popular
+28364	-23.5276597	-46.6080601	(shop) (car_repair)	G M mecanica e auto eletrico
+28704	-23.7419954	-46.5736657	(shop) (car_repair)	Auto Estufa
+28716	-23.7381459	-46.5693512	(shop) (car_repair)	DJ Escapamentos
+28717	-23.7384994	-46.5670579	(shop) (car_repair)
+28739	-23.7445507	-46.6117981	(shop) (car_repair)	Martins Retifica de Motores
+28860	-23.4898657	-46.585326	(shop) (car_repair)	Auto Eletrico Tomaz & Marcos
+28959	-23.7019493	-46.5432225	(shop) (car_repair)	Zapth
+28991	-23.6656985	-46.5406086	(shop) (car_repair)	Pellegrini
+29055	-23.6623758	-46.5385406	(shop) (car_repair)	G. G. Car
+29088	-23.6633094	-46.5454996	(shop) (car_repair)	Tchovel
+29135	-23.5850309	-46.6074501	(shop) (car_repair)	Centro Automotivo Porto Seguro - Sucursal Ipiranga
+29175	-23.6460291	-46.5257384	(shop) (car_repair)	Koptian
+29180	-23.6468141	-46.5254326	(shop) (car_repair)	M. R. Mecânica
+29182	-23.6470426	-46.525269	(shop) (car_repair)	Unidas Centro Automotivo
+29186	-23.656654	-46.5352495	(shop) (car_repair)	Novo D' Novo
+29187	-23.6567688	-46.5355714	(shop) (car_repair)	Empório do Óleo
+29188	-23.6567978	-46.5356652	(shop) (car_repair)	WA Martelinho
+29241	-23.6416199	-46.5221295	(shop) (car_repair)	Auto Socorro Tyrrell
+29258	-23.6770551	-46.5436609	(shop) (car_repair)	Sanvel
+29295	-23.6731296	-46.548273	(shop) (car_repair)	Gear Box
+29301	-23.6735951	-46.5472363	(shop) (car_repair)	Luiz Car
+29317	-23.641615	-46.5085508	(shop) (car_repair)	AGP Centro Automotivo
+29318	-23.6417133	-46.5084341	(shop) (car_repair)	Atelier Automotivo Comfort Couros
+29319	-23.6440426	-46.5083858	(shop) (car_repair)	Total Car
+29330	-23.626444	-46.499725	(shop) (car_repair)	Mecânica Estilo
+29341	-23.6269417	-46.5032159	(shop) (car_repair)	Toticar
+29353	-23.6299408	-46.5035257	(shop) (car_repair)	S.O.S. Manduri
+29355	-23.6304237	-46.5034586	(shop) (car_repair)	Nova Nações
+29358	-23.6312211	-46.5031582	(shop) (car_repair)	Evolution Car
+29375	-23.6349389	-46.5027371	(shop) (car_repair)	J.M. Mecânica e Hidráulica
+29388	-23.6365263	-46.5028766	(shop) (car_repair)	Motorpan
+29393	-23.6391186	-46.5044779	(shop) (car_repair)	Xis Autocenter
+29395	-23.6406899	-46.5069321	(shop) (car_repair)	Viavel
+29417	-23.630796	-46.5086219	(shop) (car_repair)	Centro Automotivo Araucária
+29418	-23.630769	-46.5081994	(shop) (car_repair)	Nato's Car Injeção Eletrônica
+29420	-23.6308353	-46.5077448	(shop) (car_repair)	Pirâmide Carburadores
+29463	-23.6343136	-46.5138173	(shop) (car_repair)	Labat's Car's
+29469	-23.6359016	-46.7895395	(shop) (car_repair)	Oficina Brasil
+29474	-23.6666185	-46.5455465	(shop) (car_repair)	Auto Funilaria Carlinhos
+29475	-23.6665853	-46.5454566	(shop) (car_repair)	Malibu Motors
+29484	-23.6658115	-46.5427302	(shop) (car_repair)	Ziepcar Funilaria Express
+29539	-23.6581146	-46.5391146	(shop) (car_repair)	Beraldi Mecânica
+29543	-23.6472183	-46.5148915	(shop) (car_repair)	CSM
+29570	-23.6422305	-46.5108441	(shop) (car_repair)
+29584	-23.625998	-46.5020075	(shop) (car_repair)	Seu Jorge Retífica
+29585	-23.6286421	-46.5039414	(shop) (car_repair)	Kairos
+29587	-23.6294887	-46.5039615	(shop) (car_repair)	Auto Center Nações
+29588	-23.6294002	-46.5039763	(shop) (car_repair)	Oficina Mecânica Cardoso
+29590	-23.631618	-46.503417	(shop) (car_repair)	Empório do Óleo
+29599	-23.6379428	-46.5033567	(shop) (car_repair)	Riferi
+29603	-23.6384711	-46.5038449	(shop) (car_repair)	Rei Car
+29644	-23.6480512	-46.5197691	(shop) (car_repair)	Regional Centro Automotivo
+29758	-23.6085506	-46.59942	(shop) (car_repair)	Auto Express
+29760	-23.6113733	-46.6000289	(shop) (car_repair)	GNV Anchieta
+29762	-23.6142807	-46.6008282	(shop) (car_repair)	Koch Auto Center
+29763	-23.6145522	-46.6008845	(shop) (car_repair)	Monobloco
+29785	-23.596318	-46.5975948	(shop) (car_repair)	Rachid Imports
+29789	-23.6753515	-46.5576352	(shop) (car_repair)	Auto Centerei Magno
+29790	-23.6752582	-46.5576097	(shop) (car_repair)	Look Car
+29791	-23.6750813	-46.5577023	(shop) (car_repair)	Rovicar
+29796	-23.6743652	-46.5580295	(shop) (car_repair)	Auto Elétrico Solycar
+29798	-23.6742351	-46.5580791	(shop) (car_repair)	Studio Art
+29811	-23.6687914	-46.5604837	(shop) (car_repair)	Roger Scap Mecânica Geral
+29818	-23.6664539	-46.5608069	(shop) (car_repair)	NPC Performance
+29825	-23.6653509	-46.5616693	(shop) (car_repair)	Joker's As
+29837	-23.6686526	-46.5792136	(shop) (car_repair)
+29842	-23.6709986	-46.5811233	(shop) (car_repair)	Auto Mecânica FL
+29851	-23.6688786	-46.5517008	(shop) (car_repair)	Turboh Garage
+29879	-23.6161435	-46.6660179	(shop) (car_repair)	Autoglass
+29889	-23.6224888	-46.6529998	(shop) (car_repair)	Frotex Centro Automotivo
+30252	-23.5587006	-46.6813917	(shop) (car_repair)	Borracharia
+30308	-23.5544346	-46.6744975	(shop) (car_repair)	Motocar
+30328	-23.6274881	-46.7038614	(shop) (car_repair)
+30329	-23.6279746	-46.7042155	(shop) (car_repair)	Saint Paul
+30414	-23.483001	-46.5682046	(shop) (car_repair)
+30502	-23.5429933	-46.266797	(shop) (car_repair)	Jetoil
+30505	-23.5005147	-46.1817397	(shop) (car_repair)	Auto Posto AMF
+30530	-23.5083643	-46.1979572	(shop) (car_repair)
+30534	-23.5094942	-46.2055508	(shop) (car_repair)
+30537	-23.54092	-46.2325129	(shop) (car_repair)
+30550	-23.4968634	-46.5728542	(shop) (car_repair)	Sagres Funilaria e Pintura
+30751	-23.467968	-46.2496026	(shop) (car_repair)
+30933	-23.4618513	-46.5710235	(shop) (car_repair)	Automecânica Thiago
+31009	-23.6680476	-46.7318514	(shop) (car_repair)	Martelinho de Ouro
+31226	-23.5614587	-46.6878034	(shop) (car_repair)	Cardeal
+31293	-23.5642692	-46.6924158	(shop) (car_repair)	Auto Eletrico
+31433	-23.5112268	-46.3001125	(shop) (car_repair)	Auto Posto Santo Ângelo II
+31538	-23.6911828	-46.5669615	(shop) (car_repair)	Baterias Líder
+31547	-23.7163019	-46.5557144	(shop) (car_repair)
+31919	-23.7030839	-46.5741846	(shop) (car_repair)	Lava Rápido Embaré
+32209	-24.2871203	-47.1807429	(shop) (car_repair)	Oficina
+32237	-23.5251195	-46.8189766	(shop) (car_repair)	Jetoil
+32257	-23.7232744	-46.5447113	(shop) (car_repair)	Ituran
+32575	-23.6272191	-46.705745	(shop) (car_repair)	Vilcar Funilaria e Pintura
+32695	-23.5530447	-46.7780599	(shop) (car_repair)
+33549	-23.6857803	-46.5546944	(shop) (car_repair)	Vergueiro
+33652	-23.6994415	-46.554641	(shop) (car_repair)	Maximus Vistorias
+33654	-23.6955632	-46.5592241	(shop) (car_repair)	Chaguri Car
+33698	-23.3417196	-46.7431529	(shop) (car_repair)	General do Óleo
+33727	-23.4419786	-46.9211061	(shop) (car_repair)	Auto Remark Vistoria
+33734	-23.4530583	-46.8972612	(shop) (car_repair)
+33763	-23.7110597	-46.5529567	(shop) (car_repair)	Laudoteck Vistoria Veicular
+33826	-23.7004602	-46.5513447	(shop) (car_repair)	Gasoline
+33958	-23.432935	-46.416307	(shop) (car_repair)
+34019	-23.4887383	-46.5495642	(shop) (car_repair)	Plena Visão Vistoria Veicular
+34097	-23.4740875	-46.5743491	(shop) (car_repair)
+34214	-23.6008684	-46.4841363	(shop) (car_repair)
+34420	-23.6318817	-46.7010253	(shop) (car_repair)	Centro Automotivo SPNA
+34569	-23.6322748	-46.5138336	(shop) (car_repair)	Tomé
+34742	-23.5911689	-46.6158584	(shop) (car_repair)	ARTECAR Serviços Automotivos
+34847	-23.5077491	-46.8935403	(shop) (car_repair)	Caliari
+35096	-23.6882538	-46.6365172	(shop) (car_repair)	PORTUGA
+35207	-23.698143	-46.5492418	(shop) (car_repair)	Lutum Motors
+35519	-23.5886619	-46.5836876	(shop) (car_repair)	Speed Box
+35647	-23.6411821	-46.5332907	(shop) (car_repair)	Top Cars
+35689	-23.6577994	-46.522371	(shop) (car_repair)	Styllus
+35707	-23.6621917	-46.5261136	(shop) (car_repair)	Benigno
+35758	-23.6327669	-46.5459091	(shop) (car_repair)	Car Club
+35794	-23.6033496	-46.691934	(shop) (car_repair)	Pirelli
+35795	-23.60355	-46.6916565	(shop) (car_repair)	Autotron
+35867	-23.6664231	-46.5689155	(shop) (car_repair)	SeaGlass Vidros Automotivos
+35984	-23.5118977	-46.7887862	(shop) (car_repair)
+36001	-23.939662	-46.2824565	(shop) (car_repair)
+36014	-23.5701158	-46.6979838	(shop) (car_repair)
+36147	-23.4432738	-46.7147557	(shop) (car_repair)
+36162	-23.5654271	-46.6975603	(shop) (car_repair)	Mont Serrat
+36232	-23.4875743	-46.5453967	(shop) (car_repair)
+36306	-23.4875352	-46.5828019	(shop) (car_repair)	FG Audio Automotivo
+36452	-23.489957	-46.5649454	(shop) (car_repair)
+36488	-23.5071063	-46.5995227	(shop) (car_repair)	Jet Oil
+36505	-23.5794269	-46.6826608	(shop) (car_repair)
+36518	-23.5219627	-46.5930483	(shop) (car_repair)
+36566	-23.4862564	-46.5819663	(shop) (car_repair)	Magrini
+36592	-23.5440052	-46.6046966	(shop) (car_repair)
+36622	-23.5592793	-46.688131	(shop) (car_repair)
+36631	-23.5607285	-46.6879014	(shop) (car_repair)
+36642	-23.2052701	-45.9053771	(shop) (car_repair)
+36755	-23.5599831	-46.6705937	(shop) (car_repair)	Jet Oil
+36801	-23.5607364	-46.6869753	(shop) (car_repair)
+36834	-23.5543087	-46.2135069	(shop) (car_repair)	Auto elétrica Nilson Mota
+36878	-23.5506143	-46.2086388	(shop) (car_repair)	DUCA AUTO ELÉTRICA
+36898	-23.5476657	-46.6886838	(shop) (car_repair)	Euro Par
+36906	-23.5576989	-46.2233442	(shop) (car_repair)	Auto Elétrica Carrera
+36952	-23.5573525	-46.6893023	(shop) (car_repair)	Center Lub
+36968	-23.556419	-46.6909306	(shop) (car_repair)
+36974	-23.5551787	-46.6920088	(shop) (car_repair)	Irmãos Facina
+36985	-23.7171943	-46.5502207	(shop) (car_repair)	Auto Elétrico Ariki
+37018	-23.5573178	-46.6906856	(shop) (car_repair)	Carneirinho
+37073	-23.5552091	-46.6930266	(shop) (car_repair)
+37082	-23.5548471	-46.6910947	(shop) (car_repair)	Mecânica Iorillo
+37374	-23.5394085	-46.5960516	(shop) (car_repair)
+37745	-23.5135068	-46.6031483	(shop) (car_repair)
+37997	-23.6293282	-46.7007369	(shop) (car_repair)	Flash Moto
+38057	-23.5491253	-46.596061	(shop) (car_repair)
+38063	-23.5503198	-46.6794906	(shop) (car_repair)
+38241	-23.6981258	-46.5782547	(shop) (car_repair)	Cardelot's Car
+38261	-23.5086497	-46.6053468	(shop) (car_repair)
+38308	-23.5784558	-46.9232924	(shop) (car_repair)
+38356	-23.5167577	-46.7881129	(shop) (car_repair)	Auto Elétrico Piratininga
+38402	-23.7025862	-46.5761758	(shop) (car_repair)
+38435	-23.5698109	-46.3674683	(shop) (car_repair)
+38573	-23.7170644	-46.5562813	(shop) (car_repair)
+38738	-23.4900152	-46.5835713	(shop) (car_repair)	Troca de Oleo Ataliba
+38841	-23.7183497	-46.5729216	(shop) (car_repair)	R.F.C. Funilaria e Pintura
+38863	-23.674743	-46.7393176	(shop) (car_repair)
+38902	-23.7169191	-46.5559502	(shop) (car_repair)	SBC Baterias
+38903	-23.7175538	-46.5575923	(shop) (car_repair)	Fast Car
+38904	-23.717527	-46.5575212	(shop) (car_repair)	GNV10
+38999	-23.7162134	-46.5630478	(shop) (car_repair)	Trevoauto
+39202	-23.6227195	-46.576476	(shop) (car_repair)	Autofix Cambio Automático
+39316	-23.7220355	-46.5654608	(shop) (car_repair)	Breda Auto Mecânica
+39412	-23.4018114	-45.8893526	(shop) (car_repair)	Tande Tratores
+39449	-23.5394113	-46.6398514	(shop) (car_repair)
+39490	-23.7020527	-46.571202	(shop) (car_repair)	AutoluxX
+39513	-23.6186964	-46.6351479	(shop) (car_repair)
+39516	-23.6181567	-46.635851	(shop) (car_repair)
+39519	-23.6180496	-46.6347977	(shop) (car_repair)	Auto Mecanica Nova Saúde
+39529	-23.5817649	-46.5629961	(shop) (car_repair)	AutOne
+39606	-23.5452607	-46.592085	(shop) (car_repair)	Amortecedores Maia
+39608	-23.5445867	-46.592163	(shop) (car_repair)	Fast Oil
+39610	-23.5445495	-46.5926483	(shop) (car_repair)
+39612	-23.5444543	-46.5920728	(shop) (car_repair)	Castrol Auto Service
+39624	-23.5125903	-46.6062219	(shop) (car_repair)
+39786	-23.7016223	-46.576248	(shop) (car_repair)	Jehovah Jireh
+39796	-23.5896521	-46.5444918	(shop) (car_repair)
+39892	-23.6643321	-46.5302803	(shop) (car_repair)	Dynamic Car Auto Center
+39893	-23.6649352	-46.5305263	(shop) (car_repair)	Mecânica Moretti
+39976	-23.5148656	-46.60815	(shop) (car_repair)
+39989	-23.7422474	-46.6011442	(shop) (car_repair)	Clécio Auto Elétrico
+40002	-23.7351922	-46.5795768	(shop) (car_repair)
+40051	-23.6971104	-46.5816206	(shop) (car_repair)	Paraopeba Auto Elétrico
+40079	-23.4245822	-46.4077869	(shop) (car_repair)	Rei do Oleo
+40108	-23.5039602	-46.6210781	(shop) (car_repair)
+40176	-23.4552227	-46.6936068	(shop) (car_repair)
+40193	-23.483142	-46.6312771	(shop) (car_repair)
+40228	-23.5004013	-46.5723452	(shop) (car_repair)
+40235	-23.4597775	-46.6727891	(shop) (car_repair)	Mami Motos
+40312	-23.5338878	-46.7023578	(shop) (car_repair)	Mecânica União
+40336	-23.5276929	-46.7037743	(shop) (car_repair)	Polygon Mecanica
+40355	-23.6954817	-46.5683808	(shop) (car_repair)	Iwan Auto Estufa e Elétrica
+40358	-23.5365417	-46.7060806	(shop) (car_repair)	HJ Center Car
+40369	-23.521543	-46.5304661	(shop) (car_repair)
+40628	-23.6142735	-46.6372406	(shop) (car_repair)
+40641	-23.6145467	-46.6377587	(shop) (car_repair)
+40657	-23.6204474	-46.6367003	(shop) (car_repair)	Auto Mecânica Mido's
+40658	-23.7037174	-46.57611	(shop) (car_repair)	Kyoto Car
+40720	-23.6209674	-46.6325897	(shop) (car_repair)
+41027	-23.1902148	-45.8777083	(shop) (car_repair)	Auto Mecânica Caçula
+41132	-23.1914564	-45.8747553	(shop) (car_repair)	2000 Car Funilaria
+41402	-23.7044963	-46.5376635	(shop) (car_repair)	Automec
+41568	-23.4470957	-46.7219078	(shop) (car_repair)
+41729	-23.5144228	-46.4954709	(shop) (car_repair)
+41737	-23.4956521	-46.5867035	(shop) (car_repair)	FR Sousa
+41743	-23.6508738	-46.5710388	(shop) (car_repair)	Oficina Mecânica Armando
+41748	-23.2039359	-46.8720202	(shop) (car_repair)	Progresso Vistoria
+41873	-23.7405182	-46.7033736	(shop) (car_repair)	Auto Câmbios Maninho
+41924	-23.4958401	-46.5858856	(shop) (car_repair)
+41931	-23.7065342	-46.5759115	(shop) (car_repair)	Top Motors
+41932	-23.4922981	-46.5840424	(shop) (car_repair)	Milenium Retifica de Motores
+41933	-23.4925521	-46.5840408	(shop) (car_repair)
+41971	-23.4991324	-46.5957542	(shop) (car_repair)
+42056	-23.4991687	-46.5965758	(shop) (car_repair)	Vulcam Restauradora
+42071	-23.5006662	-46.6045339	(shop) (car_repair)	Cesar's Auto Center
+42085	-23.4996418	-46.6075821	(shop) (car_repair)	New Car
+42086	-23.4996534	-46.6076264	(shop) (car_repair)	Martini Taximetro
+42087	-23.4998015	-46.6102622	(shop) (car_repair)	Retifica de Motores
+42107	-23.50003	-46.6097161	(shop) (car_repair)	Oliveira Suspensão e Freio
+42112	-23.5004788	-46.6110672	(shop) (car_repair)	Gelocar Ar Condicionado
+42203	-23.4615751	-46.5247814	(shop) (car_repair)
+42517	-23.4924347	-46.5906203	(shop) (car_repair)	Renno Oleos Lubrificantes
+42548	-23.560705	-46.6981379	(shop) (car_repair)	J. Costa mecanica
+42742	-23.5653343	-46.6994979	(shop) (car_repair)	DBL
+42762	-23.5662055	-46.6982899	(shop) (car_repair)	Auto Eletrico Akaike
+42926	-23.2420166	-45.9060984	(shop) (car_repair)
+42978	-23.1879329	-45.8732398	(shop) (car_repair)	São José Baterias
+122688	-23.7101828	-46.55201445	(shop) (car_repair)	AroPneu
+158594	-23.502841099999998	-46.828573399999996	(shop) (car_repair)	Falcar Serviços Automotivos
+160880	-23.691147100000002	-46.584812	(shop) (car_repair)	Oficina Brasil
+163637	-23.69058855	-46.567111350000005	(shop) (car_repair)	RA Auto Mecanica Escapamentos
+165326	-23.7148196	-46.550749499999995	(shop) (car_repair)	Dekra
+166774	-23.7017837	-46.5662547	(shop) (car_repair)	HP Serviços
+166905	-23.706968	-46.57585265	(shop) (car_repair)	Rei do Óleo
+167136	-23.780632699999998	-46.5319674	(shop) (car_repair)	Dakar Auto Elétrico
+167685	-23.69186585	-46.58801645	(shop) (car_repair)	Impacto Prime
+167686	-23.6917302	-46.58849465	(shop) (car_repair)	Brasicar
+167887	-23.697683849999997	-46.566841600000004	(shop) (car_repair)	R2 Centro Automotivo
+168573	-23.7152061	-46.5514412	(shop) (car_repair)	Centro Automotivo Roroma Pneus
+172047	-23.7070458	-46.55307055	(shop) (car_repair)	Pilkington Vidros Automotivos
+172478	-23.663804749999997	-46.7092163	(shop) (car_repair)	Mercado Car
+173844	-23.7186701	-46.55125485	(shop) (car_repair)	Vordelli Sound Center
+173869	-23.77873965	-46.529089049999996	(shop) (car_repair)	Auto Peças e Serviços Riacho Grande
+174744	-23.715650750000002	-46.5526004	(shop) (car_repair)	VeloGrafo
+177334	-23.70398425	-46.57596545	(shop) (car_repair)	Omegatron
+182726	-23.7071319	-46.569471199999995	(shop) (car_repair)	Brasicar
+183219	-23.2246488	-45.91234235	(shop) (car_repair)	Not available yet - Update
+186715	-23.718435149999998	-46.55169454999999	(shop) (car_repair)	Checkmat Vistorias
+191936	-23.4951636	-46.58430725	(shop) (car_repair)	Boch
+192768	-23.77858925	-46.5289297	(shop) (car_repair)	Lobão
+195172	-23.56082065	-46.7473401	(shop) (car_repair)	Auto-Elétrico
+195173	-23.56078205	-46.7473491	(shop) (car_repair)	Mecânica e Borracharia Suyama
+200095	-23.51974825	-46.612394	(shop) (car_repair)	Mecânica Diesel
+202539	-23.7783454	-46.528459850000004	(shop) (car_repair)	Top Vistorias
+203230	-23.7027078	-46.5524375	(shop) (car_repair)	Evydhence Perícia Automotivas
+203242	-23.689648050000002	-46.5543084	(shop) (car_repair)	Centro Automotivo Porto Seguro
+203479	-23.68180675	-47.0273142	(shop) (car_repair)	Oficina Mecânica
+203542	-23.68254605	-47.026190400000004	(shop) (car_repair)	G3 Oficina Mecânica
+205400	-23.6207545	-46.6342292	(shop) (car_repair)	Mack Auto Service
+207539	-23.71217605	-46.5531061	(shop) (car_repair)	Carglass
+207670	-23.555218	-46.68361055	(shop) (car_repair)	Auto Vila
+207771	-23.563427	-46.6928748	(shop) (car_repair)	Auto Mario
+207804	-23.56401245	-46.69837685	(shop) (car_repair)	Motor Lodge
+209452	-23.5148562	-46.170320000000004	(shop) (car_repair)	Retificadora Motobrás
+211991	-23.7077867	-46.57556735	(shop) (car_repair)	Rei do Óleo Grande ABC
+213245	-23.59823385	-46.596103549999995	(shop) (car_repair)	Condé Auto Repair
+214423	-23.69829165	-46.549992	(shop) (car_repair)	Mais Centro Automotivo
+215606	-23.71776615	-46.55763535	(shop) (car_repair)	AutoGlass
+217254	-23.7222754	-46.5509062	(shop) (car_repair)	Max Car Martelinho
+219279	-23.501064	-46.5710093	(shop) (car_repair)	Líder Diesel
+220007	-23.5563321	-46.743805550000005	(shop) (car_repair)	Rei do Óleo
+220009	-23.55578825	-46.7434777	(shop) (car_repair)	Pattola Auto Center
+221076	-23.720266700000003	-46.58045845	(shop) (car_repair)	Martelinho de Ouro
+225692	-23.482501749999997	-46.54683155	(shop) (car_repair)	Roda+
+227707	-23.731515899999998	-46.55315615	(shop) (car_repair)	Milvel Autoestufa
+228780	-23.690746949999998	-46.5678053	(shop) (car_repair)	Auto Lins
+228821	-23.514139999999998	-46.70341205	(shop) (car_repair)	Centro Automotivo Moraes
+229012	-23.527982	-46.74052615	(shop) (car_repair)	Tonimek Mecânica Funilaria e Pintura
+235555	-23.690278300000003	-46.56734385	(shop) (car_repair)	Estufa da Porteira
+237112	-23.66980955	-46.5892755	(shop) (car_repair)	Auto Peças Michelini Ltda Epp.
+237307	-23.61892135	-46.55412775	(shop) (car_repair)	Silva Car
+239119	-23.66807	-46.7310337	(shop) (car_repair)	Real Visão Vistoria Veícular
+239123	-23.6683981	-46.73256795	(shop) (car_repair)	WCP Oficina
+240243	-23.12883515	-46.55425685	(shop) (car_repair)	Almeida Pneus
+240384	-23.6672425	-46.54274155	(shop) (car_repair)	Cristal Car
+240452	-23.63554955	-46.50354445	(shop) (car_repair)	Velcar
+240474	-23.64708625	-46.5220557	(shop) (car_repair)	Personal Car
+241643	-23.6802368	-46.68753615	(shop) (car_repair)	Auto Center Zona Sul
+241648	-23.681161	-46.6888663	(shop) (car_repair)	Intersul AutoGas
+243032	-23.6903802	-46.59002035	(shop) (car_repair)	Dinho's Escapamentos
+244142	-23.4810179	-46.627935949999994	(shop) (car_repair)	Stilo Motors
+244275	-23.55408435	-46.7424173	(shop) (car_repair)	BSS Blindagens
+244277	-23.5549221	-46.74393605	(shop) (car_repair)	Shopping da Blindagem
+245189	-23.5000383	-46.5924105	(shop) (car_repair)	Jaragua Auto Center
+246806	-23.49774485	-46.88147735	(shop) (car_repair)	Tonhão BORRACHARIA
+247177	-23.6509064	-46.5695944	(shop) (car_repair)	Dikar
+247187	-23.6218771	-46.5695027	(shop) (car_repair)	Centro Automotivo Tonin
+248619	-23.9857339	-46.2664281	(shop) (car_repair)	Casa do Óleo
+250316	-23.20361405	-45.8950042	(shop) (car_repair)	Emilio auto center
+251224	-23.716321649999998	-46.55229305	(shop) (car_repair)	Antares Funilaria e Pinturas Express
+251225	-23.716233950000003	-46.552358600000005	(shop) (car_repair)	High Torque Car Service
+251949	-23.34141795	-46.743140749999995	(shop) (car_repair)	Auto Peças e Auto Center Trevo
+252441	-23.18453995	-45.870837	(shop) (car_repair)	Eco Ar Centro Automotivo
+252446	-23.19292805	-45.8758016	(shop) (car_repair)	Jota
+254107	-23.459748150000003	-46.50920325	(shop) (car_repair)	Buia
+254151	-23.3613674	-46.158637049999996	(shop) (car_repair)	Infinity
+254536	-23.5128908	-46.90239485	(shop) (car_repair)	Voltrac & Voltec Mecanica e Elétrica Diesel
+254783	-23.5418211	-46.84401835	(shop) (car_repair)	Bela Visata Auto Center e Mecânica
+255584	-23.6917449	-46.5877998	(shop) (car_repair)	Piraporinha Automotivo
+255585	-23.6918112	-46.58825305	(shop) (car_repair)	Rei do Óleo
+255784	-23.5378099	-46.9392959	(shop) (car_repair)	Brenha Auto Center
+256175	-23.498350600000002	-46.69690105	(shop) (car_repair)	Mecânica Bravo
+256262	-23.665542549999998	-46.79892475	(shop) (car_repair)	Safety Car
+256840	-23.48679295	-46.30679105	(shop) (car_repair)	Indio
+256841	-23.48666525	-46.3068773	(shop) (car_repair)	3DS
+257068	-23.554304799999997	-46.21350745	(shop) (car_repair)	Auto Elétrica Nilson Mota
+257234	-23.720261700000002	-46.54964075	(shop) (car_repair)	Napa's Auto Center
+257244	-23.550653	-46.20866905	(shop) (car_repair)	DUCA AUTO ELÉTRICA
+257315	-23.55198945	-46.756832599999996	(shop) (car_repair)	Auto mecânica SS
+257335	-23.5577736	-46.22328245	(shop) (car_repair)	AUTO ELÉTRICA CARRERA
+259127	-23.50126675	-46.6120572	(shop) (car_repair)	SP Mecânica e Ar
+259925	-23.53982555	-46.795270450000004	(shop) (car_repair)	Gil Auto Center
+260041	-23.4447296	-46.4629288	(shop) (car_repair)	Super Giro
+260758	-23.4341706	-46.42569675	(shop) (car_repair)	Top5Motors
+260897	-23.2252075	-45.91212225	(shop) (car_repair)	Decibel
+261039	-23.6697128	-46.583189149999995	(shop) (car_repair)	Pantera Car
+261498	-23.73675535	-46.530115550000005	(shop) (car_repair)	SBCTrans
+261500	-23.73625925	-46.53501095	(shop) (car_repair)	Jeepson
+261640	-23.712291649999997	-46.553159449999995	(shop) (car_repair)	Chega Chora Suspensões
+262698	-23.7069611	-46.5685213	(shop) (car_repair)	Dom Jaime Estética Automotiva
+263108	-23.692835199999998	-46.5830931	(shop) (car_repair)	Duda Centro Automotivo
+263298	-23.954309549999998	-46.3398143	(shop) (car_repair)	Auto Center Carvalho
+265463	-23.19263485	-45.875220049999996	(shop) (car_repair)	Auto Elétrica Melo
+265464	-23.192679599999998	-45.87500045	(shop) (car_repair)	USIPEL
+266247	-23.4727302	-46.68309435	(shop) (car_repair)	Rei do Óleo
+266267	-23.704328750000002	-46.53778025	(shop) (car_repair)	Jet Cars Reparação Automotiva
+268594	-23.719658250000002	-46.5610767	(shop) (car_repair)	Mirex
+268910	-23.742750100000002	-46.587749099999996	(shop) (car_repair)	ABC LOGISTICA- PATIO SCANIA
+269058	-23.461976800000002	-46.524354900000006	(shop) (car_repair)	Master Clean Funilaria e Pintura
+269073	-23.2049283	-45.8886021	(shop) (car_repair)	Rei do Óleo
+269533	-23.487007849999998	-46.6161147	(shop) (car_repair)	Auto Mêcanica Pit Stop
+270881	-23.1824687	-45.8710078	(shop) (car_repair)	Vaux Auto Vitrais

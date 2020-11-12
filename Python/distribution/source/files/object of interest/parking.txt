@@ -1,0 +1,1224 @@
+30	-23.5432117	-46.5601396	(amenity) (parking)
+122	-23.5945066	-46.6805529	(amenity) (parking)
+153	-23.5712573	-46.5739068	(amenity) (parking)	Campo do Misto
+281	-23.4947398	-46.8492619	(amenity) (parking)
+296	-23.4852753	-46.8561842	(amenity) (parking)
+304	-23.4982612	-46.8479378	(amenity) (parking)
+319	-23.5468186	-46.5635543	(amenity) (parking)
+328	-23.5438176	-46.5630126	(amenity) (parking)
+340	-23.5489936	-46.648398	(amenity) (parking)
+345	-23.5398515	-46.5620178	(amenity) (parking)
+362	-23.538731	-46.5623225	(amenity) (parking)
+428	-23.5900045	-46.6307368	(amenity) (parking)
+440	-23.5518567	-46.6389089	(amenity) (parking)
+441	-23.5516403	-46.639263	(amenity) (parking)
+443	-23.5526337	-46.6386729	(amenity) (parking)
+445	-23.5535582	-46.6391128	(amenity) (parking)
+453	-23.552796	-46.6428454	(amenity) (parking)
+454	-23.5527861	-46.6426844	(amenity) (parking)
+457	-23.5516207	-46.6435116	(amenity) (parking)
+458	-23.5517584	-46.6432005	(amenity) (parking)
+459	-23.5537499	-46.6433346	(amenity) (parking)
+460	-23.5537647	-46.644606	(amenity) (parking)
+464	-23.5548265	-46.6391638	(amenity) (parking)
+473	-23.5551828	-46.6407984	(amenity) (parking)
+474	-23.5530961	-46.6379154	(amenity) (parking)
+476	-23.5550332	-46.6352404	(amenity) (parking)	Trevo
+482	-23.554057	-46.6357879	(amenity) (parking)
+485	-23.5510786	-46.6346868	(amenity) (parking)
+486	-23.5508105	-46.6354567	(amenity) (parking)
+495	-23.5425359	-46.6377936	(amenity) (parking)
+533	-24.0981419	-46.6274673	(amenity) (parking)
+552	-23.5520278	-46.6298885	(amenity) (parking)
+553	-23.5520999	-46.6291102	(amenity) (parking)
+554	-23.5523071	-46.628936	(amenity) (parking)
+558	-23.5514408	-46.6304339	(amenity) (parking)
+559	-23.5524458	-46.6316673	(amenity) (parking)
+562	-23.5525001	-46.6293832	(amenity) (parking)
+564	-23.55221	-46.6286632	(amenity) (parking)
+569	-23.5522166	-46.6281139	(amenity) (parking)
+585	-23.5532297	-46.6277126	(amenity) (parking)
+654	-23.5938376	-46.6780057	(amenity) (parking)
+664	-23.537818	-46.6524537	(amenity) (parking)
+665	-23.5388902	-46.6510267	(amenity) (parking)
+666	-23.5410134	-46.64834	(amenity) (parking)	Scala Park
+694	-23.5611721	-46.6382169	(amenity) (parking)
+696	-23.5614252	-46.6383248	(amenity) (parking)
+701	-23.5597966	-46.6379204	(amenity) (parking)
+702	-23.5605361	-46.6380273	(amenity) (parking)
+705	-23.554014	-46.6279598	(amenity) (parking)
+722	-23.5400141	-46.6504116	(amenity) (parking)
+723	-23.5431677	-46.6514737	(amenity) (parking)
+727	-23.5425358	-46.6513011	(amenity) (parking)
+730	-23.5413675	-46.6508873	(amenity) (parking)
+743	-23.5355906	-46.5729489	(amenity) (parking)	Dia Supermarcado
+747	-23.5332385	-46.5597606	(amenity) (parking)
+753	-23.543988	-46.5579837	(amenity) (parking)
+754	-23.5342797	-46.5595169	(amenity) (parking)
+757	-23.5347954	-46.5691396	(amenity) (parking)
+759	-23.5538789	-46.5968542	(amenity) (parking)
+763	-23.5354692	-46.5705772	(amenity) (parking)
+768	-23.5352085	-46.5750887	(amenity) (parking)
+773	-23.5889516	-46.6037661	(amenity) (parking)
+794	-23.4562565	-46.7663695	(amenity) (parking)
+817	-23.5989269	-46.6426346	(amenity) (parking)
+827	-23.6351775	-46.5007792	(amenity) (parking)
+832	-23.5680741	-46.6490241	(amenity) (parking)	Bolsão para motos
+906	-23.4955828	-46.5190541	(amenity) (parking)	Parque Ecológico do Tiete
+986	-23.5542828	-46.6627072	(amenity) (parking)
+990	-23.5581147	-46.6371467	(amenity) (parking)
+994	-23.5583213	-46.6356614	(amenity) (parking)	MJ-1
+1005	-23.5988697	-46.7059283	(amenity) (parking)	Estacionamento do Clube Paineiras
+1083	-23.5703102	-46.6532595	(amenity) (parking)	Esacionamento
+1109	-23.5693416	-46.6503634	(amenity) (parking)
+1111	-23.5704043	-46.6519288	(amenity) (parking)
+1116	-23.5686822	-46.6492094	(amenity) (parking)	Estacionamento Fac Park
+1119	-23.5708992	-46.6498934	(amenity) (parking)	Estacionamento Trevo
+1136	-23.5695271	-46.6524838	(amenity) (parking)
+1218	-23.5707189	-46.6461329	(amenity) (parking)	Vaz
+1225	-23.5315909	-46.6356258	(amenity) (parking)
+1227	-23.4709331	-46.5308709	(amenity) (parking)
+1262	-23.4714646	-46.5295456	(amenity) (parking)
+1299	-23.6340766	-46.6407202	(amenity) (parking)
+1363	-23.5992557	-46.7037582	(amenity) (parking)
+1781	-23.5451288	-46.6927955	(amenity) (parking)	Brasil Park
+1782	-23.5453648	-46.6911434	(amenity) (parking)
+2002	-23.5888306	-46.6827217	(amenity) (parking)
+2022	-23.6134891	-46.6811408	(amenity) (parking)
+2128	-23.5996911	-46.5761007	(amenity) (parking)
+2144	-23.5806807	-46.5864893	(amenity) (parking)
+2169	-23.5766524	-46.5873395	(amenity) (parking)
+2369	-23.1971121	-45.8874687	(amenity) (parking)
+2375	-23.457235	-46.5650407	(amenity) (parking)	Estacionamento Treze de Maio
+2497	-23.5377518	-46.6539574	(amenity) (parking)
+2817	-23.9765572	-46.3103186	(amenity) (parking)	Estacionamento Praiamar Shopping
+2820	-23.9783813	-46.3080815	(amenity) (parking)	Carrefour
+2839	-23.9698255	-46.304286	(amenity) (parking)	Estilo do Corpo
+3177	-23.5545514	-46.6390118	(amenity) (parking)
+3184	-23.5531305	-46.6382272	(amenity) (parking)
+3255	-23.5007059	-46.6252362	(amenity) (parking)
+3256	-23.5006996	-46.6254273	(amenity) (parking)
+3717	-23.1785148	-45.8679417	(amenity) (parking)	Empresa de Ônibus Pássaro Marron / Transportes Coletivos Litorânea
+3762	-23.6586266	-47.2165458	(amenity) (parking)
+3833	-23.5406561	-46.6488295	(amenity) (parking)
+3964	-23.439551	-46.7218396	(amenity) (parking)
+3965	-23.4366077	-46.7185699	(amenity) (parking)
+3970	-23.4627747	-46.7538651	(amenity) (parking)
+4018	-23.5171814	-46.6859547	(amenity) (parking)
+4059	-23.9678364	-46.3341376	(amenity) (parking)
+4060	-23.9680839	-46.3342181	(amenity) (parking)
+4064	-23.9677751	-46.3341081	(amenity) (parking)
+4119	-23.3217902	-46.5859735	(amenity) (parking)
+4167	-23.6219714	-46.6467095	(amenity) (parking)
+4247	-23.6926765	-46.5818689	(amenity) (parking)	Bruxas
+4277	-23.5302626	-46.6126178	(amenity) (parking)	Abril Park
+4278	-23.5299768	-46.6230694	(amenity) (parking)	Tenente Bil Park
+4280	-23.5308278	-46.6231582	(amenity) (parking)	Loto Park
+4281	-23.5293973	-46.6228953	(amenity) (parking)	Nilton Park
+4282	-23.5287	-46.6216261	(amenity) (parking)	Paper Park
+4283	-23.5288402	-46.6216665	(amenity) (parking)	Zuza Park
+4284	-23.5283915	-46.6213106	(amenity) (parking)	Poeta Park
+4285	-23.5284624	-46.6204566	(amenity) (parking)	Jurua Park
+4286	-23.5326194	-46.6205746	(amenity) (parking)	São Francisco Park
+4417	-23.7161899	-46.5740201	(amenity) (parking)
+4423	-23.7113107	-46.5735928	(amenity) (parking)
+4439	-23.9442776	-46.3293791	(amenity) (parking)	LPark
+4470	-23.5075613	-46.5967471	(amenity) (parking)	Fechado
+4481	-23.6927657	-46.5812678	(amenity) (parking)
+4539	-23.5292251	-46.6221024	(amenity) (parking)	Flor do Pari Park
+4561	-23.5290449	-46.6217256	(amenity) (parking)	Hotel Canindé
+4695	-23.5403346	-46.605901	(amenity) (parking)	Soneca park
+4697	-23.5396266	-46.6168836	(amenity) (parking)	Area Park
+4919	-23.5244882	-46.6068061	(amenity) (parking)	McDonald's
+5267	-23.6929948	-46.5675492	(amenity) (parking)	Planalto
+5278	-23.7069991	-46.5525463	(amenity) (parking)
+5362	-23.7127081	-46.5481309	(amenity) (parking)
+5455	-23.5408704	-46.6293085	(amenity) (parking)	Zona Azul Mercadão
+5456	-23.5413819	-46.6278065	(amenity) (parking)
+5577	-23.5348848	-46.6232543	(amenity) (parking)
+5695	-23.5210167	-46.6071275	(amenity) (parking)
+5707	-23.5307067	-46.6130315	(amenity) (parking)	ACN Park
+5709	-23.5318901	-46.6224195	(amenity) (parking)	Azulão Park
+5710	-23.5293764	-46.6227252	(amenity) (parking)	Caninpar
+5718	-23.5327234	-46.6237347	(amenity) (parking)
+5759	-23.5606822	-46.5755408	(amenity) (parking)	Lava rapido park
+5961	-23.5374695	-46.5992676	(amenity) (parking)
+5999	-23.5316251	-46.6120218	(amenity) (parking)
+6190	-23.1915668	-45.8893749	(amenity) (parking)
+6191	-23.1913435	-45.8885111	(amenity) (parking)
+6469	-23.5700212	-46.6509606	(amenity) (parking)	Bolsão para motos
+6470	-23.570048	-46.6485214	(amenity) (parking)	Bolsão para motos
+6477	-23.9487618	-46.7276412	(amenity) (parking)
+6507	-23.9337313	-46.3310362	(amenity) (parking)
+6857	-23.6638112	-46.5223107	(amenity) (parking)
+6879	-23.7118761	-46.5484505	(amenity) (parking)
+7006	-23.5811003	-46.7642547	(amenity) (parking)
+7214	-23.9772317	-46.3009162	(amenity) (parking)
+7383	-23.5277188	-46.6222268	(amenity) (parking)
+7510	-23.5091398	-46.6263149	(amenity) (parking)
+7577	-23.5112362	-46.5940329	(amenity) (parking)
+7584	-23.5081273	-46.5971761	(amenity) (parking)
+7725	-23.5415092	-46.6370276	(amenity) (parking)
+7742	-23.5344428	-46.6138431	(amenity) (parking)
+7875	-23.5285612	-46.2224413	(amenity) (parking)	Leon Feffer
+7913	-23.2016956	-46.8830899	(amenity) (parking)
+7969	-23.5175044	-46.5905948	(amenity) (parking)
+8017	-23.5399644	-46.6079093	(amenity) (parking)
+8062	-23.5520035	-46.4938852	(amenity) (parking)	Extra
+8117	-23.5326991	-46.631982	(amenity) (parking)
+8154	-23.5399052	-46.6291968	(amenity) (parking)
+8156	-23.5337179	-46.6229273	(amenity) (parking)
+8261	-23.5312184	-46.6232778	(amenity) (parking)
+8264	-23.5300275	-46.6195681	(amenity) (parking)	Estacionamento de Onibus e Veiculos
+8281	-23.5343198	-46.6075538	(amenity) (parking)
+8319	-23.5141338	-46.6084034	(amenity) (parking)
+8321	-23.5339307	-46.6047773	(amenity) (parking)	Templo de Salomão Park
+8361	-23.5050266	-46.6083011	(amenity) (parking)	Estacionamento chico pontes
+8393	-23.7675928	-46.6834447	(amenity) (parking)	Ricoy
+8416	-23.5252762	-46.6347392	(amenity) (parking)
+8455	-23.5156069	-46.5892821	(amenity) (parking)
+8456	-23.5137385	-46.5921422	(amenity) (parking)
+8509	-23.5253944	-46.6149227	(amenity) (parking)
+8583	-23.5133484	-46.610481	(amenity) (parking)
+8621	-23.5172098	-46.5894106	(amenity) (parking)	Estacionamento Bradesco
+8684	-23.5012142	-46.6137551	(amenity) (parking)
+8785	-23.4837246	-46.5797408	(amenity) (parking)
+8815	-23.5151936	-46.5942205	(amenity) (parking)
+8916	-23.5067357	-46.6025814	(amenity) (parking)
+8966	-23.6947451	-46.554177	(amenity) (parking)	Max Estacionamento
+9004	-23.4940548	-46.5073415	(amenity) (parking)
+9066	-23.549023	-46.651868	(amenity) (parking)
+9137	-23.5685143	-46.5851255	(amenity) (parking)
+9178	-23.5627097	-46.4894134	(amenity) (parking)
+9207	-23.5432001	-46.4133648	(amenity) (parking)
+9211	-23.5631588	-46.67628	(amenity) (parking)	Bovinu's Park
+9249	-23.5128346	-47.1430422	(amenity) (parking)
+9569	-23.5362973	-46.5585864	(amenity) (parking)
+9763	-23.4630426	-46.5539603	(amenity) (parking)
+9797	-23.519771	-46.5936169	(amenity) (parking)	Branco Park
+9800	-23.5358412	-46.6250602	(amenity) (parking)
+9848	-23.6088705	-46.6371067	(amenity) (parking)
+9881	-23.5996066	-46.6337551	(amenity) (parking)
+9883	-23.599692	-46.6294762	(amenity) (parking)
+9922	-23.5332791	-46.6198078	(amenity) (parking)
+9931	-23.4780713	-46.5518022	(amenity) (parking)
+10044	-23.5635016	-46.712096	(amenity) (parking)
+10048	-23.5030393	-46.7524909	(amenity) (parking)	Apoio a Caminhoneiros
+10188	-23.9859594	-46.7428168	(amenity) (parking)	Núcleo Curucutu
+10303	-23.5286673	-46.6150799	(amenity) (parking)	Estacionamento União
+10577	-23.4938793	-46.5978876	(amenity) (parking)
+10585	-23.4768304	-46.580583	(amenity) (parking)
+10605	-23.4813996	-46.5760508	(amenity) (parking)
+10624	-23.5114924	-46.6084539	(amenity) (parking)	Empresa de Onibus 1001
+10669	-23.4822221	-46.5897292	(amenity) (parking)
+10836	-23.5357987	-46.5722456	(amenity) (parking)
+10914	-23.5617774	-46.6446996	(amenity) (parking)
+11048	-23.5767228	-46.5773067	(amenity) (parking)
+11105	-23.4707993	-46.5795764	(amenity) (parking)
+11132	-23.4815254	-46.572002	(amenity) (parking)	7 Volta
+11305	-23.4992938	-46.6224467	(amenity) (parking)
+11337	-23.6570445	-46.7169809	(amenity) (parking)
+11413	-23.5532804	-46.6250755	(amenity) (parking)
+11422	-23.4809734	-46.6006437	(amenity) (parking)
+11444	-23.5315765	-46.5281359	(amenity) (parking)
+11445	-23.5278643	-46.5158478	(amenity) (parking)
+11446	-23.5286755	-46.517674	(amenity) (parking)
+11606	-23.5411697	-46.6075868	(amenity) (parking)	Progess Park
+11725	-23.4849541	-46.6158193	(amenity) (parking)
+11836	-23.5709606	-46.7073291	(amenity) (parking)
+12047	-23.5573765	-46.6607168	(amenity) (parking)	Estapar
+12088	-23.5707961	-46.6444356	(amenity) (parking)
+12098	-23.5664052	-46.6501673	(amenity) (parking)	Estacione Amira Park
+12346	-23.5724411	-46.7391735	(amenity) (parking)
+12384	-23.5571709	-46.665945	(amenity) (parking)
+12413	-23.5293768	-46.7846093	(amenity) (parking)	RN
+12473	-23.5335122	-46.6195207	(amenity) (parking)	Estacionamento de Onibus
+12477	-23.539724	-46.6205674	(amenity) (parking)	Estacionamento de Onibus
+12527	-23.5754466	-46.7411812	(amenity) (parking)
+12528	-23.5757667	-46.7413032	(amenity) (parking)
+12628	-23.6715708	-46.7428494	(amenity) (parking)
+12658	-23.5278457	-46.6365024	(amenity) (parking)
+12663	-23.5282698	-46.6336263	(amenity) (parking)
+12669	-23.5585518	-46.6659186	(amenity) (parking)
+12730	-23.5544123	-46.6344034	(amenity) (parking)
+12810	-23.5336105	-46.6179813	(amenity) (parking)
+13016	-23.7132662	-46.5506258	(amenity) (parking)
+13024	-23.6937393	-46.5574033	(amenity) (parking)
+13042	-23.7077037	-46.5519166	(amenity) (parking)
+13065	-23.5416652	-46.6490588	(amenity) (parking)	"Lajão"
+13085	-23.5419872	-46.6373333	(amenity) (parking)
+13104	-23.7061513	-46.5508469	(amenity) (parking)	Riachulo
+13105	-23.7069758	-46.5500806	(amenity) (parking)
+13106	-23.7039361	-46.5512975	(amenity) (parking)	Multipark
+13178	-23.5653616	-46.5904412	(amenity) (parking)
+13542	-23.6384998	-46.5656569	(amenity) (parking)	Slab Park
+13682	-23.5656595	-46.6326923	(amenity) (parking)	Estacionamento supermercado
+13720	-23.5390311	-46.6114085	(amenity) (parking)
+13721	-23.5388933	-46.6104455	(amenity) (parking)
+13723	-23.538928	-46.6116728	(amenity) (parking)
+13846	-23.5392685	-46.6131318	(amenity) (parking)
+13892	-23.5345711	-46.6129397	(amenity) (parking)
+13994	-23.4991986	-46.6256844	(amenity) (parking)
+14158	-23.5035969	-46.6265009	(amenity) (parking)	Bradesco
+14216	-23.5144821	-46.6529215	(amenity) (parking)
+14242	-23.9341118	-46.3260612	(amenity) (parking)	Estacionamento Bandeirantes
+14243	-23.5137863	-46.6525776	(amenity) (parking)
+14247	-23.7125778	-46.5473731	(amenity) (parking)
+14248	-23.7127227	-46.5468728	(amenity) (parking)
+14249	-23.7129154	-46.5497656	(amenity) (parking)
+14276	-23.5043291	-46.614934	(amenity) (parking)
+14294	-23.7134212	-46.5451563	(amenity) (parking)
+14301	-23.7147384	-46.5447703	(amenity) (parking)	Estacionamento Andrade
+14358	-23.5015448	-46.6129751	(amenity) (parking)
+14382	-23.6930162	-46.5531809	(amenity) (parking)	GDO Estacionamentos
+14383	-23.692611	-46.5535457	(amenity) (parking)
+14384	-23.6923285	-46.554058	(amenity) (parking)
+14386	-23.6918717	-46.5556646	(amenity) (parking)
+14388	-23.6929253	-46.55637	(amenity) (parking)
+14410	-23.7081026	-46.551556	(amenity) (parking)
+14514	-23.7124818	-46.5481761	(amenity) (parking)
+14523	-23.5245962	-46.6175874	(amenity) (parking)
+14678	-23.526317	-46.6659857	(amenity) (parking)
+14680	-23.5275024	-46.6643952	(amenity) (parking)
+14800	-23.7211578	-46.5493694	(amenity) (parking)	Droga Estação
+14836	-23.6399506	-46.5438201	(amenity) (parking)
+14870	-23.714595	-46.5430818	(amenity) (parking)
+14873	-23.7137383	-46.5436925	(amenity) (parking)
+14874	-23.713591	-46.5438025	(amenity) (parking)
+14896	-23.5087286	-46.1720954	(amenity) (parking)
+15059	-23.5460243	-46.6334424	(amenity) (parking)
+15444	-23.5291619	-46.6217594	(amenity) (parking)	Hotel Canindé
+15531	-23.5856537	-46.568802	(amenity) (parking)
+15542	-23.5579094	-46.6413433	(amenity) (parking)
+15543	-23.5579618	-46.6413883	(amenity) (parking)
+15544	-23.558002	-46.6414228	(amenity) (parking)
+15545	-23.558049	-46.6414632	(amenity) (parking)
+15553	-23.3066557	-45.9683678	(amenity) (parking)	Ícone Park Estacionamentos - Unidade 1
+15554	-23.5645703	-46.6485561	(amenity) (parking)	Ícone Park Estacionamentos Unidade 2
+15556	-23.5406723	-46.564881	(amenity) (parking)	Ícone Park
+15573	-23.5588892	-46.641903	(amenity) (parking)
+15588	-23.5671818	-46.6375992	(amenity) (parking)
+15994	-23.5603911	-46.6831996	(amenity) (parking)
+18238	-23.5369111	-46.6072142	(amenity) (parking)	IURD
+19074	-23.5318274	-46.6495835	(amenity) (parking)
+19808	-23.5313801	-46.6131487	(amenity) (parking)
+20015	-23.5356708	-46.6127464	(amenity) (parking)
+20020	-23.5353072	-46.6133134	(amenity) (parking)	Jeans Sawary ( Carga e Descarga)
+20021	-23.5353958	-46.6131752	(amenity) (parking)	Jeans Sawary
+20261	-23.5294387	-46.6229077	(amenity) (parking)
+20263	-23.5298434	-46.6230294	(amenity) (parking)
+20264	-23.5298857	-46.623042	(amenity) (parking)
+20341	-23.5428387	-46.6483481	(amenity) (parking)
+20483	-23.5370533	-46.6085915	(amenity) (parking)
+20572	-23.5371722	-46.6072979	(amenity) (parking)	IURD
+20573	-23.5367394	-46.6074305	(amenity) (parking)
+20759	-23.5338161	-46.6100869	(amenity) (parking)
+20787	-23.536861	-46.6153164	(amenity) (parking)
+20798	-23.5870681	-46.7245553	(amenity) (parking)	Estacionamento Habib's
+20801	-23.5479486	-46.6413083	(amenity) (parking)	G.A.T.X
+20802	-23.5479711	-46.6414575	(amenity) (parking)	Rede Park
+20808	-23.5642448	-46.679751	(amenity) (parking)
+20824	-23.5598431	-46.6429693	(amenity) (parking)
+20835	-23.5605597	-46.6432541	(amenity) (parking)
+20837	-23.5615366	-46.6428864	(amenity) (parking)
+20852	-23.9325141	-46.3344017	(amenity) (parking)	Pare Aqui
+20856	-23.9326191	-46.3316536	(amenity) (parking)
+20857	-23.932716	-46.3315166	(amenity) (parking)	Estacionamento 60
+20858	-23.932922	-46.3315608	(amenity) (parking)
+20859	-23.9336259	-46.3316262	(amenity) (parking)	SanPark
+20927	-23.5375113	-46.6205493	(amenity) (parking)
+20933	-23.5314541	-46.6235148	(amenity) (parking)
+20935	-23.5315786	-46.6235525	(amenity) (parking)
+20997	-23.5359726	-46.6234431	(amenity) (parking)
+20998	-23.535993	-46.623312	(amenity) (parking)
+20999	-23.5360232	-46.623118	(amenity) (parking)
+21000	-23.536053	-46.6229267	(amenity) (parking)
+21003	-23.5356096	-46.6246185	(amenity) (parking)
+21009	-23.5345207	-46.6139265	(amenity) (parking)
+21032	-23.5497061	-46.6449478	(amenity) (parking)
+21033	-23.5504117	-46.6443383	(amenity) (parking)
+21034	-23.5501426	-46.6435024	(amenity) (parking)
+21039	-23.5483975	-46.6454876	(amenity) (parking)
+21075	-23.5690552	-46.6504501	(amenity) (parking)	Progress Park
+21093	-23.542262	-46.6417372	(amenity) (parking)
+21095	-23.5461748	-46.6460732	(amenity) (parking)
+21096	-23.5463341	-46.6461103	(amenity) (parking)
+21101	-23.6881325	-46.9018337	(amenity) (parking)
+21232	-23.97441	-46.3167917	(amenity) (parking)	Aston Park Estaciomento
+21234	-23.9737897	-46.3182385	(amenity) (parking)	Estacionamento e Lava-Rápido
+21266	-23.5415626	-46.6396139	(amenity) (parking)
+21288	-23.5457974	-46.6454932	(amenity) (parking)
+21289	-23.5460444	-46.6454164	(amenity) (parking)
+21304	-23.5448266	-46.6461486	(amenity) (parking)
+21314	-23.5425369	-46.6441279	(amenity) (parking)
+21315	-23.5423221	-46.6383243	(amenity) (parking)
+21316	-23.5424367	-46.6385725	(amenity) (parking)
+21320	-23.9479332	-46.3435451	(amenity) (parking)	Estacionamento do Memorial Necrópole Ecumênica
+21354	-23.5414497	-46.6358781	(amenity) (parking)
+21356	-23.5430059	-46.6450808	(amenity) (parking)
+21357	-23.5429423	-46.6449823	(amenity) (parking)
+21364	-23.5455402	-46.6457046	(amenity) (parking)	Trevo
+21366	-23.5457074	-46.6456568	(amenity) (parking)
+21368	-23.5431664	-46.6464803	(amenity) (parking)
+21376	-23.5515256	-46.644683	(amenity) (parking)
+21398	-23.9763081	-46.3113104	(amenity) (parking)	Estacionamento do SESC
+21429	-23.5261491	-46.6182441	(amenity) (parking)
+21454	-23.5398292	-46.6197189	(amenity) (parking)
+21472	-23.5258507	-46.6382542	(amenity) (parking)
+21474	-23.5247812	-46.6386115	(amenity) (parking)
+21484	-23.5397391	-46.6050469	(amenity) (parking)	Rosa Park
+21501	-24.1814916	-46.7838554	(amenity) (parking)
+21502	-24.1027315	-46.6336598	(amenity) (parking)
+21527	-23.5424292	-46.6115596	(amenity) (parking)
+21564	-23.5380647	-46.6075631	(amenity) (parking)
+21570	-23.5391643	-46.6087737	(amenity) (parking)	Bradesco Park
+21578	-23.538488	-46.6092376	(amenity) (parking)	Bradesco Park
+21599	-23.6251386	-46.6831633	(amenity) (parking)
+21601	-23.5387489	-46.608258	(amenity) (parking)	Padaria Garoto
+21612	-23.611525	-46.7448434	(amenity) (parking)
+21615	-23.539626	-46.6395716	(amenity) (parking)
+21623	-23.5417529	-46.6182176	(amenity) (parking)
+21626	-23.5401553	-46.6204334	(amenity) (parking)
+21671	-23.5331957	-46.6185566	(amenity) (parking)
+21694	-23.5344567	-46.6179332	(amenity) (parking)
+21703	-23.5026067	-46.6235068	(amenity) (parking)	Terminal Park
+21750	-23.4786462	-46.6823174	(amenity) (parking)
+21761	-23.541787	-46.6133482	(amenity) (parking)
+21764	-23.541728	-46.6136168	(amenity) (parking)
+21783	-23.4715134	-46.5279938	(amenity) (parking)	Líder Parking
+21908	-23.5659897	-46.6839807	(amenity) (parking)
+21920	-23.5443724	-46.6465175	(amenity) (parking)	Trevo Estacionamentos
+21921	-23.5446347	-46.6470325	(amenity) (parking)	Trevo Estacionamentos
+21926	-23.5447364	-46.6486255	(amenity) (parking)	BC Park
+21928	-23.543729	-46.6481833	(amenity) (parking)
+21979	-23.5342509	-46.6199559	(amenity) (parking)
+22002	-23.5431177	-46.6137394	(amenity) (parking)	Correios
+22003	-23.5433527	-46.6135713	(amenity) (parking)
+22006	-23.5425589	-46.6129687	(amenity) (parking)
+22218	-23.5423659	-46.6466129	(amenity) (parking)
+22240	-23.5377344	-46.6126848	(amenity) (parking)
+22241	-23.5412601	-46.6457587	(amenity) (parking)
+22304	-23.5409245	-46.6443507	(amenity) (parking)
+22305	-23.5407907	-46.6445722	(amenity) (parking)
+22307	-23.5408684	-46.6440169	(amenity) (parking)
+22310	-23.5450993	-46.6467012	(amenity) (parking)
+22323	-23.5446067	-46.648238	(amenity) (parking)
+22327	-23.5438713	-46.6482409	(amenity) (parking)
+22338	-23.5461414	-46.648446	(amenity) (parking)	SBP Park
+22339	-23.5672482	-46.6869447	(amenity) (parking)
+22340	-23.5673101	-46.6870997	(amenity) (parking)
+22343	-23.5668831	-46.6878472	(amenity) (parking)
+22353	-23.5437471	-46.6475287	(amenity) (parking)
+22354	-23.543496	-46.6476221	(amenity) (parking)
+22359	-23.5704091	-46.6890854	(amenity) (parking)
+22385	-23.5423116	-46.6440066	(amenity) (parking)
+22409	-23.5401587	-46.6493534	(amenity) (parking)
+22430	-23.5715893	-46.6897715	(amenity) (parking)
+22435	-23.5637391	-46.6888939	(amenity) (parking)
+22517	-23.5418033	-46.6483238	(amenity) (parking)
+22521	-23.5426887	-46.6487167	(amenity) (parking)
+22535	-23.5533593	-46.6026952	(amenity) (parking)
+22545	-23.5378531	-46.5780263	(amenity) (parking)
+22560	-23.5407472	-46.6114814	(amenity) (parking)
+22562	-23.5409714	-46.612596	(amenity) (parking)	Itaú
+22564	-23.5419095	-46.6118095	(amenity) (parking)
+22579	-23.5487553	-46.6305533	(amenity) (parking)
+22580	-23.549257	-46.6303057	(amenity) (parking)	TCE
+22596	-23.5176589	-46.1793174	(amenity) (parking)	D'Avó Supermercado
+22597	-23.5303098	-46.6218952	(amenity) (parking)	Rede Park
+22610	-23.3335824	-46.7257513	(amenity) (parking)
+22613	-23.5753697	-46.6404314	(amenity) (parking)	Trevo Estacionamento
+22646	-23.5386773	-46.6037638	(amenity) (parking)
+22683	-23.5578306	-46.6623552	(amenity) (parking)
+22686	-23.5576502	-46.6615241	(amenity) (parking)	Bandeira Park
+22702	-23.539256	-46.6018301	(amenity) (parking)
+22735	-23.5414623	-46.6073244	(amenity) (parking)
+22742	-23.5377702	-46.6129026	(amenity) (parking)	Lu Park
+22805	-23.5586285	-46.6608599	(amenity) (parking)
+22806	-23.5585277	-46.6607513	(amenity) (parking)
+22807	-23.5584625	-46.6606811	(amenity) (parking)
+22879	-23.567436	-46.6512221	(amenity) (parking)
+22904	-23.7071882	-46.553631	(amenity) (parking)	ParCarol
+22910	-23.548825	-46.6321962	(amenity) (parking)
+22911	-23.5488979	-46.6321761	(amenity) (parking)
+22912	-23.5489355	-46.6321657	(amenity) (parking)
+22913	-23.5492089	-46.6320902	(amenity) (parking)
+22924	-23.5467684	-46.6489138	(amenity) (parking)
+22931	-23.5400616	-46.6475545	(amenity) (parking)
+22938	-23.5799936	-46.6846443	(amenity) (parking)
+22992	-23.5544188	-46.6611141	(amenity) (parking)
+23023	-23.5574753	-46.6596275	(amenity) (parking)
+23034	-23.5557268	-46.6605303	(amenity) (parking)	Estapar
+23040	-23.9323487	-46.3323189	(amenity) (parking)
+23053	-23.5522952	-46.5962609	(amenity) (parking)
+23061	-23.5522669	-46.5986763	(amenity) (parking)
+23098	-23.5513155	-46.597673	(amenity) (parking)	Estapar
+23166	-23.5556571	-46.5979866	(amenity) (parking)
+23245	-23.5605	-46.6561807	(amenity) (parking)
+23285	-23.5620951	-46.6553557	(amenity) (parking)
+23313	-23.5638479	-46.6555276	(amenity) (parking)
+23324	-23.562622	-46.656318	(amenity) (parking)	Car Park
+23328	-23.5630398	-46.6549145	(amenity) (parking)
+23381	-23.56213	-46.6543846	(amenity) (parking)	Estapar
+23388	-23.5587526	-46.6584812	(amenity) (parking)
+23392	-23.5581327	-46.6580048	(amenity) (parking)
+23396	-23.5577312	-46.6564343	(amenity) (parking)	Prime Parking
+23410	-23.5643993	-46.6519135	(amenity) (parking)	Globo Park
+23412	-23.5644584	-46.6525313	(amenity) (parking)	Estapar
+23421	-23.5654962	-46.6520896	(amenity) (parking)
+23427	-23.5665536	-46.6513893	(amenity) (parking)	Brasil Park
+23434	-23.5662957	-46.6524557	(amenity) (parking)	Netpark
+23443	-23.5654738	-46.6526875	(amenity) (parking)
+23488	-23.5641889	-46.6512282	(amenity) (parking)	Edifício Paulista Mil
+23499	-23.5529229	-46.6624942	(amenity) (parking)
+23507	-23.5533214	-46.6620329	(amenity) (parking)
+23585	-23.5700541	-46.6471331	(amenity) (parking)	Garageinn
+23593	-23.5685079	-46.6490058	(amenity) (parking)
+23622	-23.5717051	-46.645663	(amenity) (parking)	Pakimetro
+23625	-23.5709742	-46.6461244	(amenity) (parking)	Multi Park
+23676	-23.5684002	-46.6461926	(amenity) (parking)	Sistema Impark
+23690	-23.5683816	-46.646788	(amenity) (parking)
+23726	-23.5655908	-46.6501125	(amenity) (parking)
+23764	-23.5397406	-46.5155666	(amenity) (parking)	Pátio
+23773	-23.6922108	-46.5555037	(amenity) (parking)
+23775	-23.7790248	-46.5299188	(amenity) (parking)
+23824	-23.5681782	-46.646879	(amenity) (parking)	Trevo
+23831	-23.5678355	-46.6482855	(amenity) (parking)
+23896	-23.5572127	-46.6585577	(amenity) (parking)	Massis
+23899	-23.5568216	-46.6577288	(amenity) (parking)
+24027	-23.5309189	-46.6564141	(amenity) (parking)	Scala Park
+24063	-23.5542799	-46.6596099	(amenity) (parking)	Net Park
+24167	-23.5538033	-46.6589548	(amenity) (parking)	BC Park
+24196	-23.5445451	-46.5728612	(amenity) (parking)
+24234	-23.5547815	-46.6620952	(amenity) (parking)
+24291	-23.5637255	-46.6338013	(amenity) (parking)
+24326	-23.6286987	-46.5676774	(amenity) (parking)
+24348	-23.5545531	-46.662975	(amenity) (parking)
+24354	-23.553312	-46.6617607	(amenity) (parking)
+24407	-23.5519999	-46.6569309	(amenity) (parking)
+24410	-23.5526729	-46.6586918	(amenity) (parking)
+24413	-23.5523782	-46.6581757	(amenity) (parking)
+24455	-23.7136805	-46.5448385	(amenity) (parking)
+24456	-23.7138897	-46.5442081	(amenity) (parking)
+24457	-23.5303848	-46.6150316	(amenity) (parking)
+24479	-23.559669	-46.6598379	(amenity) (parking)
+24533	-23.5622322	-46.6778956	(amenity) (parking)
+24587	-23.5547138	-46.5988253	(amenity) (parking)	Armarinhos Fernandes
+24638	-23.5503431	-46.6361372	(amenity) (parking)
+24676	-23.5497236	-46.6319144	(amenity) (parking)
+24685	-23.5597208	-46.6640672	(amenity) (parking)	Netware Flex Offices
+24816	-23.5670983	-46.6682155	(amenity) (parking)	Sany Park
+24842	-23.564296	-46.6665601	(amenity) (parking)
+24880	-23.5654367	-46.6679681	(amenity) (parking)
+24882	-23.5660313	-46.6695679	(amenity) (parking)
+24955	-23.5620432	-46.6695539	(amenity) (parking)
+24958	-23.5610642	-46.6725829	(amenity) (parking)
+24967	-23.5625359	-46.6719719	(amenity) (parking)
+25053	-23.6928779	-46.5543138	(amenity) (parking)
+25082	-23.5509972	-46.6370366	(amenity) (parking)
+25151	-23.5483037	-46.6371817	(amenity) (parking)
+25175	-23.5470851	-46.6334393	(amenity) (parking)
+25204	-23.5492149	-46.6301509	(amenity) (parking)
+25233	-23.5408895	-46.6331818	(amenity) (parking)	Caverna's Park
+25235	-23.5425955	-46.6346251	(amenity) (parking)
+25236	-23.5423394	-46.6344742	(amenity) (parking)
+25237	-23.542216	-46.6344014	(amenity) (parking)
+25260	-23.5434943	-46.6310773	(amenity) (parking)
+25328	-23.5661695	-46.7012394	(amenity) (parking)
+25358	-23.5380363	-46.6305998	(amenity) (parking)
+25385	-23.5649094	-46.6788283	(amenity) (parking)
+25401	-23.6926941	-46.5500251	(amenity) (parking)
+25408	-23.5581202	-46.6673171	(amenity) (parking)
+25409	-23.5579762	-46.6671298	(amenity) (parking)
+25414	-23.5366612	-46.5887113	(amenity) (parking)
+25571	-23.5600129	-46.6794687	(amenity) (parking)
+25585	-23.5397327	-46.6336172	(amenity) (parking)
+25586	-23.5402938	-46.6336832	(amenity) (parking)
+25599	-23.5370026	-46.6334234	(amenity) (parking)
+25601	-23.5376309	-46.6330736	(amenity) (parking)
+25619	-23.5239382	-46.7051431	(amenity) (parking)
+25654	-23.5664875	-46.7010642	(amenity) (parking)
+25777	-23.5378087	-46.6353201	(amenity) (parking)
+25786	-23.5391576	-46.6341892	(amenity) (parking)
+25787	-23.5386452	-46.6347091	(amenity) (parking)
+25831	-23.5212076	-46.7067198	(amenity) (parking)
+25834	-23.5223206	-46.7068198	(amenity) (parking)
+25850	-23.5381582	-46.6347883	(amenity) (parking)
+25855	-23.5387849	-46.6356247	(amenity) (parking)
+25860	-23.5379365	-46.6354121	(amenity) (parking)
+25870	-23.5362473	-46.6340218	(amenity) (parking)
+25886	-23.5255599	-46.7047652	(amenity) (parking)
+25940	-23.6980953	-46.5535927	(amenity) (parking)
+25952	-23.5378426	-46.6303488	(amenity) (parking)
+25966	-23.5417466	-46.6358113	(amenity) (parking)
+25970	-23.5421005	-46.6350144	(amenity) (parking)
+25988	-23.5395343	-46.6352013	(amenity) (parking)
+25989	-23.5397771	-46.6358919	(amenity) (parking)
+26021	-23.6736345	-46.6762778	(amenity) (parking)
+26039	-23.617231	-46.6755894	(amenity) (parking)
+26106	-23.4820727	-46.6547927	(amenity) (parking)
+26116	-23.5454304	-46.6498131	(amenity) (parking)
+26121	-23.5462163	-46.6490542	(amenity) (parking)
+26123	-23.5459873	-46.6490479	(amenity) (parking)
+26136	-23.5452605	-46.6507514	(amenity) (parking)
+26137	-23.5446705	-46.6511397	(amenity) (parking)
+26142	-23.5452632	-46.6506411	(amenity) (parking)
+26143	-23.545251	-46.6511449	(amenity) (parking)
+26224	-23.5445714	-46.6494763	(amenity) (parking)
+26234	-23.543831	-46.6498518	(amenity) (parking)
+26237	-23.5244097	-46.6265461	(amenity) (parking)
+26243	-23.5454116	-46.6505611	(amenity) (parking)
+26245	-23.545723	-46.6504014	(amenity) (parking)
+26394	-23.5401362	-46.597306	(amenity) (parking)
+26439	-23.5426491	-46.6517674	(amenity) (parking)
+26445	-23.5417191	-46.6518572	(amenity) (parking)
+26449	-23.5416924	-46.6528176	(amenity) (parking)
+26452	-23.5417079	-46.652257	(amenity) (parking)
+26590	-23.5433395	-46.673001	(amenity) (parking)
+26708	-23.5313606	-46.6277002	(amenity) (parking)
+26729	-23.5486924	-46.6508628	(amenity) (parking)
+26779	-23.5511624	-46.6500516	(amenity) (parking)
+26783	-23.5504767	-46.6498876	(amenity) (parking)
+26794	-23.6269724	-46.6856919	(amenity) (parking)
+26924	-23.5796144	-46.6590354	(amenity) (parking)	estacionamente da Assembleia Legislativa do Estado de São Paulo
+26925	-23.5270558	-46.8844246	(amenity) (parking)
+27004	-23.7201499	-46.5645224	(amenity) (parking)
+27115	-23.533995	-46.6053561	(amenity) (parking)	Templo do Salomão Park
+27136	-23.4177508	-46.4694744	(amenity) (parking)
+27189	-23.6908316	-46.5587135	(amenity) (parking)
+27190	-23.6915937	-46.5573559	(amenity) (parking)
+27216	-23.4156837	-46.4728169	(amenity) (parking)
+27310	-23.6977284	-46.547746	(amenity) (parking)
+27328	-23.5401669	-46.6259272	(amenity) (parking)
+27367	-23.5344768	-46.6220999	(amenity) (parking)
+27518	-23.5638027	-46.67934	(amenity) (parking)
+27558	-23.5508781	-46.6487102	(amenity) (parking)
+27561	-23.5643654	-46.6794447	(amenity) (parking)
+27570	-23.5515881	-46.650911	(amenity) (parking)
+27576	-23.5522633	-46.6505456	(amenity) (parking)
+27631	-23.5602475	-46.6751442	(amenity) (parking)
+27633	-23.5594881	-46.6763184	(amenity) (parking)
+27635	-23.5619947	-46.674709	(amenity) (parking)
+27760	-23.5666968	-46.6908875	(amenity) (parking)
+27761	-23.5666154	-46.6915712	(amenity) (parking)
+27764	-23.5677231	-46.6925875	(amenity) (parking)
+27773	-23.5679611	-46.6913794	(amenity) (parking)
+27785	-23.5314001	-46.6185656	(amenity) (parking)
+27797	-23.5296931	-46.6155179	(amenity) (parking)
+27810	-23.5293151	-46.6156723	(amenity) (parking)
+27830	-23.5679414	-46.6898173	(amenity) (parking)	Trevo
+27939	-23.6950886	-46.5532683	(amenity) (parking)
+28043	-23.5254418	-46.6081255	(amenity) (parking)	Alvorada Park
+28097	-23.5270402	-46.6081248	(amenity) (parking)	LK Estacionamentos
+28098	-23.5265535	-46.6076182	(amenity) (parking)
+28105	-23.5283687	-46.6095188	(amenity) (parking)
+28519	-23.5293854	-46.6131825	(amenity) (parking)
+28651	-23.5307902	-46.6136084	(amenity) (parking)
+28660	-23.5321244	-46.6120525	(amenity) (parking)
+28663	-23.5320398	-46.6108835	(amenity) (parking)
+28665	-23.5327113	-46.6102348	(amenity) (parking)
+28666	-23.532629	-46.6099364	(amenity) (parking)
+28680	-23.5291743	-46.6094769	(amenity) (parking)
+28684	-23.68935	-46.6177373	(amenity) (parking)
+28690	-23.5328354	-46.6114572	(amenity) (parking)	Parkmarc
+28691	-23.5337556	-46.611288	(amenity) (parking)
+28759	-23.5240753	-46.6032228	(amenity) (parking)
+28843	-23.5659205	-46.6860009	(amenity) (parking)
+28863	-23.5651064	-46.6838483	(amenity) (parking)
+28865	-23.5164909	-46.6256986	(amenity) (parking)
+28886	-23.5671104	-46.6878715	(amenity) (parking)
+28934	-23.5693774	-46.6915303	(amenity) (parking)
+28962	-23.569489	-46.6897981	(amenity) (parking)
+28963	-23.5701287	-46.6892982	(amenity) (parking)
+28995	-23.6658078	-46.5414441	(amenity) (parking)
+29016	-23.6650843	-46.5414011	(amenity) (parking)	Ki-Jóia
+29050	-23.6612556	-46.5378861	(amenity) (parking)
+29056	-23.6622334	-46.5384735	(amenity) (parking)
+29145	-23.6383328	-46.5198913	(amenity) (parking)
+29191	-23.668811	-46.5384506	(amenity) (parking)
+29203	-23.6646335	-46.5337515	(amenity) (parking)
+29222	-23.6544447	-46.5292789	(amenity) (parking)
+29227	-23.6553716	-46.5331225	(amenity) (parking)
+29240	-23.6415167	-46.5220919	(amenity) (parking)
+29263	-23.6757985	-46.538035	(amenity) (parking)
+29378	-23.6347952	-46.5027398	(amenity) (parking)	Santo Car
+29512	-23.6516665	-46.535762	(amenity) (parking)	Local Park
+29527	-23.6544129	-46.5357533	(amenity) (parking)
+29529	-23.6546634	-46.5357049	(amenity) (parking)
+29628	-23.6554066	-46.5349813	(amenity) (parking)	Cabelo's Parking
+29662	-23.6671368	-46.5408124	(amenity) (parking)
+29670	-23.6683234	-46.5393922	(amenity) (parking)
+29734	-23.5516176	-46.6567149	(amenity) (parking)
+29737	-23.5525286	-46.6556671	(amenity) (parking)
+29745	-23.9474998	-46.3362985	(amenity) (parking)
+29844	-23.5518617	-46.6527638	(amenity) (parking)
+29852	-23.6689351	-46.5519959	(amenity) (parking)
+29902	-23.5536859	-46.6556011	(amenity) (parking)	Junto Park
+29903	-23.5539447	-46.6558764	(amenity) (parking)
+29906	-23.5543019	-46.6562563	(amenity) (parking)
+29947	-23.657393	-46.5303619	(amenity) (parking)
+29958	-23.5546207	-46.6569279	(amenity) (parking)	Redemax
+29959	-23.5544328	-46.6571413	(amenity) (parking)
+29980	-23.5549412	-46.6567157	(amenity) (parking)
+29986	-23.5538667	-46.6555744	(amenity) (parking)
+29987	-23.5523194	-46.653047	(amenity) (parking)
+29988	-23.5525707	-46.653518	(amenity) (parking)
+29991	-23.5532421	-46.6547641	(amenity) (parking)
+29992	-23.5535492	-46.6552366	(amenity) (parking)	Marine Park
+29998	-23.554226	-46.6542562	(amenity) (parking)
+30063	-23.5613657	-46.6635046	(amenity) (parking)
+30064	-23.5611729	-46.6633021	(amenity) (parking)
+30080	-23.5619751	-46.6643362	(amenity) (parking)
+30104	-23.5630417	-46.6654666	(amenity) (parking)
+30120	-23.5626682	-46.66655	(amenity) (parking)
+30139	-23.5632924	-46.6655146	(amenity) (parking)
+30149	-23.561987	-46.6641543	(amenity) (parking)
+30170	-23.534448	-46.6104418	(amenity) (parking)
+30198	-23.5400272	-46.6054248	(amenity) (parking)
+30199	-23.597026	-46.6754083	(amenity) (parking)
+30243	-23.5601734	-46.6964937	(amenity) (parking)
+30271	-23.5545298	-46.674619	(amenity) (parking)	Best Park
+30283	-23.5069832	-46.6736681	(amenity) (parking)
+30307	-23.5547711	-46.6742613	(amenity) (parking)
+30338	-23.5549115	-46.6769984	(amenity) (parking)
+30339	-23.554739	-46.6767124	(amenity) (parking)
+30341	-23.5556612	-46.6741864	(amenity) (parking)
+30343	-23.5559552	-46.6746773	(amenity) (parking)	Estapar
+30347	-23.5582047	-46.6734272	(amenity) (parking)	WillPark
+30354	-23.5409693	-46.6557842	(amenity) (parking)
+30364	-23.5575087	-46.6739212	(amenity) (parking)
+30434	-23.5564527	-46.6748583	(amenity) (parking)	Luzi Park
+30548	-23.5026004	-46.5708573	(amenity) (parking)	Vip's Car
+30579	-23.5585029	-46.6775803	(amenity) (parking)
+30595	-23.560763	-46.67459	(amenity) (parking)
+30607	-23.5604269	-46.6736357	(amenity) (parking)
+30609	-23.5595272	-46.6742726	(amenity) (parking)
+30615	-23.5565645	-46.6797536	(amenity) (parking)	NetPark
+30697	-23.560807	-46.6775198	(amenity) (parking)
+30713	-23.7018115	-46.5527381	(amenity) (parking)
+30722	-23.5141411	-46.5856683	(amenity) (parking)
+30736	-23.523339	-46.174769	(amenity) (parking)
+30758	-23.5605346	-46.6826039	(amenity) (parking)
+30798	-23.4667109	-46.4663304	(amenity) (parking)
+30806	-23.5610462	-46.6759628	(amenity) (parking)	Jaguaribe Park
+30816	-23.5621856	-46.6831977	(amenity) (parking)
+30821	-23.5219686	-46.6298865	(amenity) (parking)
+30822	-23.5220995	-46.629483	(amenity) (parking)
+30824	-23.5227275	-46.6293563	(amenity) (parking)
+30836	-23.5344963	-46.6032285	(amenity) (parking)
+30837	-23.5338825	-46.6046261	(amenity) (parking)
+30844	-23.3066811	-45.9672364	(amenity) (parking)	Estacionamento do Chinês
+30882	-24.0210373	-46.4505164	(amenity) (parking)
+30890	-23.5731504	-46.7014807	(amenity) (parking)
+30899	-23.5070074	-46.1678305	(amenity) (parking)
+30959	-23.7017114	-46.5517974	(amenity) (parking)
+31023	-23.6384473	-46.6976084	(amenity) (parking)
+31180	-23.5350951	-46.6297052	(amenity) (parking)	Vitali
+31193	-23.5655605	-46.6867435	(amenity) (parking)	Estapar
+31220	-23.5610837	-46.6872691	(amenity) (parking)	Netpark
+31228	-23.562384	-46.6870876	(amenity) (parking)
+31244	-23.5628241	-46.6879633	(amenity) (parking)
+31282	-23.5639587	-46.6920842	(amenity) (parking)
+31290	-23.5647314	-46.6920876	(amenity) (parking)	Santandrer
+31294	-23.5645872	-46.691015	(amenity) (parking)	Imperial Park
+31407	-23.5735149	-46.7272836	(amenity) (parking)
+31443	-23.5398403	-46.6077741	(amenity) (parking)
+31578	-23.6187195	-46.7713236	(amenity) (parking)
+31625	-23.5355306	-46.6075791	(amenity) (parking)
+31626	-23.5353397	-46.6073852	(amenity) (parking)
+31627	-23.5351307	-46.6071735	(amenity) (parking)
+31629	-23.5360838	-46.6070101	(amenity) (parking)
+31680	-23.5089732	-46.6682625	(amenity) (parking)
+31690	-23.6942939	-46.568534	(amenity) (parking)
+31750	-23.9900504	-46.2901493	(amenity) (parking)	Estacionamento do Terminal
+32285	-23.5294922	-46.778336	(amenity) (parking)	Shopping Osasco Plaza
+32653	-23.7157092	-46.5564845	(amenity) (parking)
+32723	-23.6398386	-46.6780193	(amenity) (parking)
+32735	-23.5027772	-46.6213531	(amenity) (parking)
+32979	-23.7320379	-46.5790135	(amenity) (parking)
+33130	-23.5311106	-46.6316046	(amenity) (parking)	Museu
+33286	-23.7096164	-46.5534813	(amenity) (parking)
+33418	-23.9888242	-46.3015414	(amenity) (parking)
+33466	-23.568771	-46.6970477	(amenity) (parking)
+33468	-23.5692788	-46.6971738	(amenity) (parking)
+33472	-23.5713809	-46.6956431	(amenity) (parking)
+33653	-23.6995061	-46.5547602	(amenity) (parking)
+33664	-23.7001912	-46.5528483	(amenity) (parking)
+33877	-23.4653359	-46.6792713	(amenity) (parking)
+34024	-23.5624582	-46.6673971	(amenity) (parking)
+34038	-23.6111037	-46.4767753	(amenity) (parking)
+34044	-23.5116455	-46.8992363	(amenity) (parking)
+34045	-23.511756	-46.8992389	(amenity) (parking)
+34046	-23.512232	-46.9013767	(amenity) (parking)
+34047	-23.5120792	-46.9014148	(amenity) (parking)
+34203	-23.5801806	-46.5054189	(amenity) (parking)
+34229	-23.5540407	-46.6344259	(amenity) (parking)
+34235	-23.5541709	-46.6351782	(amenity) (parking)
+34239	-23.4751457	-46.5747938	(amenity) (parking)
+34676	-23.5538049	-46.6312291	(amenity) (parking)
+34724	-23.4430834	-46.7154018	(amenity) (parking)
+35061	-23.5597158	-46.6692364	(amenity) (parking)
+35074	-23.5634669	-46.676215	(amenity) (parking)
+35076	-23.5638531	-46.6768499	(amenity) (parking)
+35208	-23.6980467	-46.5492044	(amenity) (parking)
+35229	-23.4334857	-46.5761214	(amenity) (parking)
+35246	-23.5553782	-46.6558674	(amenity) (parking)
+35258	-23.5564057	-46.6556372	(amenity) (parking)
+35263	-23.5579679	-46.6557926	(amenity) (parking)
+35335	-23.6674899	-46.5353288	(amenity) (parking)
+35410	-23.5756235	-46.6438968	(amenity) (parking)
+35414	-23.5748419	-46.6433031	(amenity) (parking)
+35419	-23.4741931	-46.5745679	(amenity) (parking)
+35476	-23.6583278	-46.5359003	(amenity) (parking)
+35502	-23.6145945	-46.5693904	(amenity) (parking)
+35509	-23.6157712	-46.5694001	(amenity) (parking)
+35514	-23.6140459	-46.5693951	(amenity) (parking)
+35525	-23.5145875	-46.6253684	(amenity) (parking)
+35662	-23.6575498	-46.5387908	(amenity) (parking)	Fenix Park
+35666	-23.655239	-46.5370761	(amenity) (parking)
+35672	-23.653464	-46.53724	(amenity) (parking)
+35678	-23.6533882	-46.537071	(amenity) (parking)
+36021	-23.5707575	-46.6983926	(amenity) (parking)
+36022	-23.5706154	-46.6982385	(amenity) (parking)
+36028	-23.5684276	-46.7004304	(amenity) (parking)
+36029	-23.5699908	-46.7002743	(amenity) (parking)
+36043	-23.5670324	-46.7001659	(amenity) (parking)
+36046	-23.5664156	-46.7001209	(amenity) (parking)
+36052	-23.5670855	-46.6993719	(amenity) (parking)
+36060	-23.556577	-46.6879253	(amenity) (parking)
+36087	-23.5696614	-46.692465	(amenity) (parking)
+36088	-23.5704057	-46.6934131	(amenity) (parking)
+36089	-23.5700453	-46.693046	(amenity) (parking)
+36113	-23.5683686	-46.6927204	(amenity) (parking)
+36122	-23.5698279	-46.6925189	(amenity) (parking)
+36126	-23.5702595	-46.6919673	(amenity) (parking)
+36129	-23.570384	-46.6920303	(amenity) (parking)
+36131	-23.570557	-46.6933188	(amenity) (parking)
+36141	-23.5653656	-46.6954156	(amenity) (parking)
+36146	-23.4489751	-46.497093	(amenity) (parking)	Terminal Rodoviário de Guarulhos
+36173	-23.5656432	-46.6965845	(amenity) (parking)
+36179	-23.5659267	-46.6956078	(amenity) (parking)
+36184	-23.5730849	-46.7029496	(amenity) (parking)
+36190	-23.5687301	-46.6900921	(amenity) (parking)
+36191	-23.56893	-46.6918133	(amenity) (parking)
+36325	-23.5517954	-46.6891777	(amenity) (parking)
+36326	-23.5513196	-46.6895079	(amenity) (parking)
+36381	-23.5531869	-46.6546616	(amenity) (parking)
+36382	-23.5527755	-46.6542089	(amenity) (parking)
+36583	-23.5522314	-46.629698	(amenity) (parking)
+36593	-23.5398984	-46.5965557	(amenity) (parking)
+36597	-23.5409523	-46.596701	(amenity) (parking)
+36609	-23.5401434	-46.5955585	(amenity) (parking)
+36613	-23.5580389	-46.687462	(amenity) (parking)
+36614	-23.5577858	-46.6876465	(amenity) (parking)
+36617	-23.558268	-46.6884687	(amenity) (parking)
+36684	-23.558479	-46.6896773	(amenity) (parking)
+36687	-23.5593094	-46.6884649	(amenity) (parking)
+36688	-23.5583968	-46.6885661	(amenity) (parking)
+36695	-23.557748	-46.6895929	(amenity) (parking)
+36716	-23.5438804	-46.6264137	(amenity) (parking)
+36739	-23.5467274	-46.6239562	(amenity) (parking)
+36748	-23.5589648	-46.6682461	(amenity) (parking)
+36763	-23.5588113	-46.6896343	(amenity) (parking)
+36768	-23.5582541	-46.6904339	(amenity) (parking)
+36812	-23.5610302	-46.6892509	(amenity) (parking)
+36815	-23.5600755	-46.6871794	(amenity) (parking)
+36816	-23.5593587	-46.6878284	(amenity) (parking)
+36835	-23.5552702	-46.6897555	(amenity) (parking)
+36836	-23.5554042	-46.6899739	(amenity) (parking)
+36900	-23.5508873	-46.6911627	(amenity) (parking)
+36920	-23.5570212	-46.6868296	(amenity) (parking)
+36946	-23.5575848	-46.6903071	(amenity) (parking)
+36963	-23.5525518	-46.6886489	(amenity) (parking)
+36973	-23.555502	-46.6917784	(amenity) (parking)
+37021	-23.5616441	-46.6921124	(amenity) (parking)
+37023	-23.5571444	-46.6888733	(amenity) (parking)
+37025	-23.5560891	-46.6900149	(amenity) (parking)
+37030	-23.5623034	-46.691908	(amenity) (parking)
+37031	-23.5620444	-46.6920909	(amenity) (parking)
+37067	-23.5542604	-46.6928439	(amenity) (parking)
+37079	-23.5550051	-46.6909656	(amenity) (parking)
+37080	-23.5547122	-46.691174	(amenity) (parking)
+37226	-24.0161225	-46.4012022	(amenity) (parking)
+37235	-23.5182231	-46.5478009	(amenity) (parking)
+37236	-23.6212539	-46.6999868	(amenity) (parking)
+37321	-23.5733315	-46.6890881	(amenity) (parking)
+37326	-23.5725266	-46.6895961	(amenity) (parking)
+37339	-23.5499358	-46.6599123	(amenity) (parking)
+37340	-23.5488971	-46.6544709	(amenity) (parking)
+37346	-23.549211	-46.6551917	(amenity) (parking)
+37602	-23.6026058	-46.6653563	(amenity) (parking)
+37660	-23.5430511	-46.5730705	(amenity) (parking)
+37703	-23.5570932	-46.6809142	(amenity) (parking)
+37773	-23.5532352	-46.6769472	(amenity) (parking)
+37780	-23.5524638	-46.2242528	(amenity) (parking)
+37798	-23.5859162	-46.6521072	(amenity) (parking)
+37799	-23.5874568	-46.6520047	(amenity) (parking)
+37900	-23.2042329	-46.7836813	(amenity) (parking)
+37967	-23.559522	-46.6669245	(amenity) (parking)
+38064	-23.5505304	-46.679495	(amenity) (parking)
+38066	-23.5504194	-46.679121	(amenity) (parking)
+38068	-23.5479895	-46.649789	(amenity) (parking)
+38069	-23.5465998	-46.650763	(amenity) (parking)
+38071	-23.5468325	-46.6504718	(amenity) (parking)
+38103	-23.5491962	-46.6529891	(amenity) (parking)
+38195	-23.5580781	-46.6654217	(amenity) (parking)
+38196	-23.5580237	-46.6653645	(amenity) (parking)
+38278	-23.5512154	-46.6793189	(amenity) (parking)
+38279	-23.5511288	-46.6791778	(amenity) (parking)
+38311	-23.6230896	-46.7008991	(amenity) (parking)
+38451	-23.5616619	-46.6927336	(amenity) (parking)
+38576	-23.5491981	-46.6440252	(amenity) (parking)
+38719	-23.553931	-46.6342821	(amenity) (parking)
+38721	-23.5541597	-46.6342665	(amenity) (parking)
+38722	-23.5535508	-46.6333601	(amenity) (parking)
+38770	-23.5543886	-46.6594291	(amenity) (parking)	Estacionamentos Ico
+38842	-23.5888685	-46.700695	(amenity) (parking)
+39117	-23.5569109	-46.6497131	(amenity) (parking)	Estacionamento
+39124	-23.6242591	-46.7335837	(amenity) (parking)
+39142	-23.7000483	-46.5422785	(amenity) (parking)
+39256	-23.7223784	-46.5681602	(amenity) (parking)
+39457	-23.5400458	-46.6440791	(amenity) (parking)
+39459	-23.5390599	-46.6452164	(amenity) (parking)
+39492	-23.9683929	-46.3502978	(amenity) (parking)
+39584	-23.7062223	-46.5523955	(amenity) (parking)
+39588	-23.704552	-46.5546203	(amenity) (parking)
+39615	-23.5448204	-46.5884568	(amenity) (parking)
+39703	-23.5953217	-46.6850629	(amenity) (parking)
+39704	-23.5952482	-46.6848133	(amenity) (parking)
+39705	-23.5952228	-46.6847055	(amenity) (parking)
+39706	-23.5956859	-46.6847455	(amenity) (parking)
+39717	-23.5949394	-46.6852716	(amenity) (parking)
+39718	-23.5948686	-46.685044	(amenity) (parking)
+39719	-23.5948351	-46.6848569	(amenity) (parking)
+39743	-23.5397157	-46.645299	(amenity) (parking)
+39744	-23.5398003	-46.645167	(amenity) (parking)
+39745	-23.5399726	-46.6453515	(amenity) (parking)
+39746	-23.540009	-46.6453749	(amenity) (parking)
+39747	-23.5401086	-46.6454216	(amenity) (parking)
+39761	-23.5801065	-46.7295558	(amenity) (parking)
+39819	-23.6578719	-46.5353098	(amenity) (parking)
+39997	-23.7353797	-46.586008	(amenity) (parking)
+40191	-23.4832395	-46.631419	(amenity) (parking)
+40197	-23.3864003	-47.3414703	(amenity) (parking)
+40266	-23.6025429	-46.6119129	(amenity) (parking)	Paremi Estacionamento
+40269	-23.6022417	-46.6119546	(amenity) (parking)	Pátio 3
+40401	-23.5334388	-46.6878702	(amenity) (parking)	Brasil Park
+40402	-23.5331032	-46.6890383	(amenity) (parking)	MF
+40431	-23.6178238	-46.6380922	(amenity) (parking)
+40474	-23.6919245	-46.5068921	(amenity) (parking)
+40605	-23.4683071	-46.9055707	(amenity) (parking)
+40627	-23.61436	-46.6374271	(amenity) (parking)
+41153	-23.6023298	-46.6118199	(amenity) (parking)	Estacionamentos 277
+41362	-23.684605	-46.6231976	(amenity) (parking)
+41438	-23.5364255	-46.636888	(amenity) (parking)
+41779	-23.5853644	-46.6383544	(amenity) (parking)
+42222	-23.7305597	-46.714719	(amenity) (parking)
+42223	-23.7306216	-46.7145867	(amenity) (parking)
+42288	-23.264037	-47.2999055	(amenity) (parking)
+42536	-23.5644508	-46.6947843	(amenity) (parking)
+42699	-23.5595232	-46.697858	(amenity) (parking)
+42766	-23.5663334	-46.696621	(amenity) (parking)
+42927	-23.2596413	-45.9113605	(amenity) (parking)
+43155	-23.4690085	-46.6463654	(amenity) (parking)
+51900	-23.566748949999997	-46.50046165	(amenity) (parking)	DETRAN Aricanduva
+52850	-23.555526200000003	-46.559229099999996	(amenity) (parking)	Parque Esportivo dos Trabalhadores
+56571	-23.9672117	-46.3697996	(amenity) (parking)	Carrefour
+67573	-23.517300900000002	-46.626544550000006	(amenity) (parking)	Unipare
+68056	-23.3314788	-46.72713985	(amenity) (parking)	Estacionamento Russi
+70944	-23.4235691	-46.4819555	(amenity) (parking)	Standard Terminal 2
+72403	-23.6410866	-46.7234097	(amenity) (parking)	Estacionamento Esttima Park
+72987	-23.63120955	-46.69630855	(amenity) (parking)	Biga Estacionamento
+73137	-23.63913025	-46.62817215	(amenity) (parking)	Jardim Botânico de São Paulo
+75123	-23.63695185	-46.694544949999994	(amenity) (parking)	Centro Comercial Adolfo Pinheiro
+75139	-23.63708855	-46.69545695	(amenity) (parking)	Rede Park
+78520	-23.5053718	-46.691316799999996	(amenity) (parking)	Estacionamento Extra
+79159	-23.6526336	-46.728502750000004	(amenity) (parking)	Estacionamento Número 18 - Centro Empresarial de São Paulo
+82684	-23.5125118	-46.61355995	(amenity) (parking)	Estacionamento Expo Center Norte
+83212	-23.48056235	-46.500897699999996	(amenity) (parking)	E2
+91160	-23.559210399999998	-46.7330704	(amenity) (parking)	Bolsão do IAG
+91641	-23.671341249999998	-46.5304973	(amenity) (parking)	Parque Central
+91642	-23.67102735	-46.5332329	(amenity) (parking)	Hospital Estadual Mario Covas
+92142	-23.66253625	-46.5307939	(amenity) (parking)	Estacionamento Parati
+100173	-23.64970035	-46.5304351	(amenity) (parking)	Grand Plaza Shopping
+102135	-23.5304419	-46.744870399999996	(amenity) (parking)	Leopoldina Park
+102792	-23.50150585	-46.8511304	(amenity) (parking)	Flexparking
+103201	-23.629241649999997	-46.712205600000004	(amenity) (parking)	BrasilPark
+110945	-23.6142227	-46.6169782	(amenity) (parking)	Planet Sport
+122095	-23.532124250000003	-47.136281350000004	(amenity) (parking)	Estacionamento Supermercado São Roque Marginal
+122582	-23.70685615	-46.53481635	(amenity) (parking)	D'Avó
+122766	-23.66387135	-46.52290975	(amenity) (parking)	Estacionamento da Coop
+125195	-23.6034094	-46.626571600000005	(amenity) (parking)	Esfiha Imigrantes
+131900	-23.5069091	-46.643671049999995	(amenity) (parking)	Estacionamento TOTVS
+146503	-23.51684765	-46.61863305	(amenity) (parking)	Vallet Parking
+147733	-23.42487455	-46.482385	(amenity) (parking)	Premium Terminal 2
+147870	-23.9585466	-46.33263275	(amenity) (parking)	Hipermercado Extra
+149398	-23.48238565	-46.5025506	(amenity) (parking)	E5
+149829	-23.446894399999998	-46.489374299999994	(amenity) (parking)	Localiza
+150318	-23.1905924	-45.87691985	(amenity) (parking)	Estacionamento Piratininga
+155449	-23.2232105	-45.90528945	(amenity) (parking)	Estacionamento Carrefour Hipermercado
+157932	-23.690552699999998	-46.58033675	(amenity) (parking)	Extra
+157963	-23.6841851	-46.55872285	(amenity) (parking)	ITAU
+157970	-23.6856473	-46.56002465	(amenity) (parking)	C&C
+157971	-23.68606955	-46.5598598	(amenity) (parking)	C&C
+158746	-23.63274445	-46.5818407	(amenity) (parking)	BM&FBOVESPA
+159640	-23.67802025	-46.555458200000004	(amenity) (parking)	Carrefour
+159641	-23.67737415	-46.555389899999994	(amenity) (parking)	Carrefour
+159642	-23.6781481	-46.5552791	(amenity) (parking)	Carrefour
+159643	-23.67740925	-46.554277150000004	(amenity) (parking)	Carrefour
+159644	-23.678098499999997	-46.5545421	(amenity) (parking)	Carrefour
+159872	-23.6924673	-46.5548282	(amenity) (parking)	GDO Estacionamentos
+160439	-23.70506355	-46.550480449999995	(amenity) (parking)	Pão de Açúcar
+160665	-23.4762225	-46.571536	(amenity) (parking)	Bergamini
+160837	-23.680331000000002	-46.5953655	(amenity) (parking)	Inylbra
+160862	-23.5210224	-46.62288625	(amenity) (parking)	Shopping D park
+160914	-23.5059479	-46.59578955	(amenity) (parking)	Zoologico Parking
+161727	-23.54929895	-46.58809960000001	(amenity) (parking)	Bradesco Parking
+161734	-23.547445099999997	-46.5801299	(amenity) (parking)	Velorio Quarta Parada (Ultima)
+161924	-23.7122566	-46.55139225	(amenity) (parking)	Parkimetro Estacionamento
+162317	-23.516663899999998	-47.127605200000005	(amenity) (parking)	Estacionamento Cemitério Cambará
+162506	-23.62763255	-46.59789415	(amenity) (parking)	1° BPRv
+162572	-23.71887195	-46.5611054	(amenity) (parking)	Assunção
+162574	-23.718908749999997	-46.560756350000005	(amenity) (parking)	ABC Park
+162678	-23.70070595	-46.55152285	(amenity) (parking)	Novo Marechal
+162924	-23.4803779	-46.4997822	(amenity) (parking)	E4
+162925	-23.4814079	-46.499170050000004	(amenity) (parking)	E4
+162926	-23.48171125	-46.498999	(amenity) (parking)	E4
+162946	-23.48269055	-46.49927115	(amenity) (parking)	E7
+163168	-23.58233845	-46.601356949999996	(amenity) (parking)	Bradesco
+163308	-23.59778115	-46.66759535	(amenity) (parking)	CARPARK
+163419	-23.70214035	-46.55249325	(amenity) (parking)	Santander
+163837	-23.70668155	-46.5250809	(amenity) (parking)	Jardim da Colina Cemitério-Parque
+163995	-23.684968650000002	-46.546179550000005	(amenity) (parking)	Sonda
+164037	-23.683818199999997	-46.55873385	(amenity) (parking)	Don Quixote
+164479	-23.699409449999997	-46.580724950000004	(amenity) (parking)	Mercado Fujikawa
+164480	-23.699626549999998	-46.5806781	(amenity) (parking)	Fujikawa
+164686	-23.7100267	-46.55176565	(amenity) (parking)	Parkimetro Estacionamentos
+164784	-23.7061463	-46.5520149	(amenity) (parking)	Galeria do Coração
+164793	-23.718250849999997	-46.54897095	(amenity) (parking)	Good Park
+165091	-23.6963072	-46.56734285	(amenity) (parking)	Padaria Tranza
+165250	-23.72316585	-46.5748807	(amenity) (parking)	Estacionamento Fox
+165329	-23.70656015	-46.5524225	(amenity) (parking)	Shopping do Coração
+166069	-23.7210343	-46.5492428	(amenity) (parking)	Droga Estação
+166070	-23.721062	-46.54984495	(amenity) (parking)	Droga Estação
+166100	-23.7123736	-46.5464585	(amenity) (parking)	Lumen
+166347	-23.686521550000002	-46.56409045	(amenity) (parking)	Estacionamento Ideal Serv
+166523	-23.68741605	-46.560811799999996	(amenity) (parking)	Artico's Park
+166580	-23.6456038	-46.6399365	(amenity) (parking)	Bradesco
+166737	-23.64833945	-46.8510361	(amenity) (parking)	Estacionamento Vai Vai
+166739	-23.65107485	-46.85276535	(amenity) (parking)	Estacionamento Orni Park
+166912	-23.5342399	-46.6390389	(amenity) (parking)	Estacionamento Sala São Paulo
+167163	-23.584732799999998	-46.61083875	(amenity) (parking)	Parque da Independência
+167938	-23.654396849999998	-46.6142244	(amenity) (parking)	Zoo Safári
+168183	-23.487027400000002	-46.54742725	(amenity) (parking)	Shopping Internacional
+168273	-23.7715875	-46.520863399999996	(amenity) (parking)	Associação
+168401	-23.542511949999998	-46.6297917	(amenity) (parking)	Zona Azul
+168405	-23.702454250000002	-46.5523487	(amenity) (parking)	Maxi Park
+168579	-23.69132045	-46.560001799999995	(amenity) (parking)	Estacinamento Pampas Palace Hotel
+168582	-23.6904521	-46.56301705	(amenity) (parking)	Estacionamento Palmleaf Grand Premium Hotel
+168788	-23.7372127	-46.55060605	(amenity) (parking)	Volkswagen do Brasil
+168982	-23.73670805	-46.554490799999996	(amenity) (parking)	Brazul
+169512	-23.19396175	-45.8934797	(amenity) (parking)	Estacionamento McDonalds
+169518	-23.70467905	-46.550937	(amenity) (parking)	Nipon Estacionamento
+169519	-23.7039255	-46.55049025	(amenity) (parking)	SBC Park Estacionamentos
+169521	-23.701313499999998	-46.551521199999996	(amenity) (parking)	Estacionamento DNG
+170256	-23.67663665	-46.55941835	(amenity) (parking)	OAB SBC
+170257	-23.67679875	-46.55899185	(amenity) (parking)	Fórum
+170303	-23.66365715	-46.55464005	(amenity) (parking)	Estacionamento Centro Universitário FSA
+170381	-23.7066139	-46.56842175	(amenity) (parking)	Max Estacionamento
+170791	-23.69530215	-46.55326505	(amenity) (parking)	GDO
+170796	-23.4826102	-46.4993661	(amenity) (parking)	E7
+171012	-23.1924112	-45.87781095	(amenity) (parking)	Estacionamento da Rodoviária
+171215	-23.67024655	-46.55900015	(amenity) (parking)	Estacionamento Picanha de Ouro
+171356	-23.94464385	-46.3354406	(amenity) (parking)	Estacionamento da Santa Casa de Misericórdia de Santos
+171847	-23.65539715	-46.57933325	(amenity) (parking)	Estacionamento Carros
+172050	-23.692267549999997	-46.5553213	(amenity) (parking)	Hospital Next
+172114	-23.47117765	-46.528675050000004	(amenity) (parking)	Líder Parking
+172115	-23.47104105	-46.52896925	(amenity) (parking)	Líder Parking
+172433	-23.712618300000003	-46.5514676	(amenity) (parking)	Giba's Park
+172572	-23.7093165	-46.55207875	(amenity) (parking)	Rei Park
+172864	-23.1861013	-45.881257399999996	(amenity) (parking)	Estacionamento do Coronel
+173555	-23.189388899999997	-45.887261550000005	(amenity) (parking)	File Park
+173773	-23.6984009	-46.5542002	(amenity) (parking)	Golden Park
+173774	-23.6986551	-46.55410895	(amenity) (parking)	Estacionamento Poupatempo
+173846	-23.7197636	-46.5505585	(amenity) (parking)	Correios
+174173	-23.77816185	-46.5311777	(amenity) (parking)	Iazul
+175967	-23.8371868	-46.130294649999996	(amenity) (parking)	Rede Krill Supermercado
+178070	-23.699633300000002	-46.54977215	(amenity) (parking)	Sacolão Saúde
+178993	-23.4876994	-46.5933985	(amenity) (parking)	Supermercado Mota
+179461	-23.5424452	-46.634187	(amenity) (parking)	Garagem Automática Da Luz
+179688	-23.660899	-46.529365	(amenity) (parking)	PH
+180250	-23.48455295	-46.5004353	(amenity) (parking)	E6
+180858	-23.6514473	-46.589228	(amenity) (parking)	Ford Estacionamento 2
+180859	-23.6508529	-46.5889125	(amenity) (parking)	Ford Estacionamento 3
+180863	-23.65019435	-46.588845199999994	(amenity) (parking)	Ford Estacionamento 4
+181657	-23.1902405	-46.8872093	(amenity) (parking)	Leopardi
+182030	-23.5478623	-46.9430679	(amenity) (parking)	Estac. Roldão
+182037	-23.6021719	-46.91750255	(amenity) (parking)	Atacadão
+182195	-23.49724285	-46.525961	(amenity) (parking)	Estacionamento Parque Ecológico
+182232	-23.7394064	-46.52664685	(amenity) (parking)	Sherwin-Willians
+182272	-23.9700571	-46.3023565	(amenity) (parking)	Estilo do Corpo
+182728	-23.7070474	-46.5675282	(amenity) (parking)	Fornaria dos Pães
+183209	-23.957652000000003	-46.2907267	(amenity) (parking)	Estacionamento Santos Brasil
+183211	-23.9605074	-46.291261399999996	(amenity) (parking)	Estacionamento DTA
+183212	-23.95777805	-46.292573399999995	(amenity) (parking)	Área de espera TRA
+183447	-23.97529	-46.2940514	(amenity) (parking)	Estacionamento de Motos Libra
+183628	-23.671900899999997	-46.742443	(amenity) (parking)	My Park
+185172	-23.169148399999997	-46.947126999999995	(amenity) (parking)	Delta Park
+186347	-23.5554906	-46.666743350000004	(amenity) (parking)	Estafácil
+186658	-23.56361105	-46.72242385	(amenity) (parking)	Estacionamento Geografia Historia
+186728	-23.42201225	-46.4765354	(amenity) (parking)	Edifício Garagem Terminal 3
+186737	-23.515683250000002	-46.6276323	(amenity) (parking)	Big Park
+191781	-23.53568135	-46.57265195	(amenity) (parking)	Dia Supermercado
+191876	-23.5312967	-46.62016405	(amenity) (parking)	Somente Onibus
+191926	-23.521785299999998	-46.61054255	(amenity) (parking)	Papelaria Kalunga
+191928	-23.523405949999997	-46.6132245	(amenity) (parking)	PetZ
+191952	-23.5680975	-46.58937475	(amenity) (parking)	Super mercado Yamauchi
+194036	-23.57038285	-46.71019365	(amenity) (parking)	Estacionamento Supermercado Padrão
+194037	-23.5698011	-46.71109605	(amenity) (parking)	Estacionamento Supermercado Padrão
+194287	-23.203850199999998	-45.89864215	(amenity) (parking)	Estacionamento do Vilareal
+194752	-23.71376915	-46.551178199999995	(amenity) (parking)	Bem Barato
+195497	-23.56082525	-46.65648975	(amenity) (parking)	Progress Park
+195774	-23.5533423	-46.64403815	(amenity) (parking)	Sinal Park Service Estacionamento LTDA
+195775	-23.55485795	-46.64170705	(amenity) (parking)	Paulipark
+197582	-23.53405515	-46.34001125	(amenity) (parking)	Supermercado Nagumo
+198046	-23.57022205	-46.7108082	(amenity) (parking)	Estacionamento Supermercado Padrão
+198414	-23.5978672	-46.600151600000004	(amenity) (parking)	Centro Odontológico Sacomã
+199349	-23.25811705	-47.2987854	(amenity) (parking)	Estacionamento Carrefour
+199777	-23.5315302	-47.24436	(amenity) (parking)	Patio de Espera de Caminhões com Excesso
+201467	-23.600355399999998	-46.85847355	(amenity) (parking)	Assaí
+202436	-23.711943050000002	-46.549868849999996	(amenity) (parking)	Estacionamento Ponto H Park
+202861	-23.64974085	-46.5483134	(amenity) (parking)	McDonald's Estacionamento
+203658	-23.711003650000002	-46.5625066	(amenity) (parking)	Carga & Descarga
+203659	-23.7109996	-46.562113800000006	(amenity) (parking)	Visitantes
+204725	-23.52027065	-46.70112745	(amenity) (parking)	Praça Malvin Jones
+204726	-23.520034250000002	-46.70148795	(amenity) (parking)	Praça Malvin Jones
+205094	-23.59610165	-46.650044300000005	(amenity) (parking)	Autovagas
+205623	-23.690472149999998	-46.575025350000004	(amenity) (parking)	Estacionamento Atacadão
+207540	-23.707862900000002	-46.5491988	(amenity) (parking)	Estacionamento Parati
+208487	-23.507830900000002	-46.599046599999994	(amenity) (parking)	McDonalds
+208621	-23.4920844	-46.58482615	(amenity) (parking)	embragado
+209251	-23.60809875	-46.6135472	(amenity) (parking)	Estacionamento e Lava rápido Okuyama
+209603	-23.5068568	-46.1680586	(amenity) (parking)	Vacaloca Multshow
+209686	-24.12463475	-46.7058174	(amenity) (parking)	Jaf Serviços de Guinchamento
+210546	-23.4951937	-46.58097255	(amenity) (parking)	Supermercado Dias
+212169	-23.53651365	-46.60601815	(amenity) (parking)	Estacionamento do Templo
+212170	-23.5466191	-46.58792745	(amenity) (parking)	WR Parking
+212373	-23.7894857	-46.032180249999996	(amenity) (parking)	Pão de Açúcar
+212786	-23.5802939	-46.589567599999995	(amenity) (parking)	Condomínio Piazza Dello Sport
+213229	-23.5789526	-46.60276555	(amenity) (parking)	Estacionamento Malharia Marabá
+213495	-23.5732571	-46.561449499999995	(amenity) (parking)	Drogasil
+214196	-23.1908341	-45.87422625	(amenity) (parking)	Supermercado Sonda
+214198	-23.19477585	-45.8803776	(amenity) (parking)	Estacionamento da Imagem
+215212	-23.63854595	-46.5418416	(amenity) (parking)	SM Estacionamento
+216319	-23.65357015	-46.6014569	(amenity) (parking)	Estacionamento e Lava Rapido
+216329	-23.5147877	-46.8545783	(amenity) (parking)	Estacionamento - Parque Shopping Barueri
+216330	-23.5174036	-46.85627475	(amenity) (parking)	Estacionamento - Parque Shopping Barueri
+216590	-23.7018077	-46.55028355	(amenity) (parking)	Estacionamento Petrópolis
+217750	-23.171503100000002	-46.912342800000005	(amenity) (parking)	Piccolotur Transportes Turísticos Garagem
+218060	-23.9796032	-46.369040600000005	(amenity) (parking)	Mirante Niemeyer - Terraço
+220010	-23.554997	-46.74318965	(amenity) (parking)	Estacionamento Colgate Palmolive
+220434	-23.54404445	-46.6486209	(amenity) (parking)	Itaú Park
+220619	-23.488587350000003	-46.55058465	(amenity) (parking)	Shopping Internacional
+221325	-23.57405005	-46.637493	(amenity) (parking)	Pronto Park
+221586	-23.43307845	-46.4042731	(amenity) (parking)	Shopping Bonsucesso
+221665	-23.9353118	-46.3333892	(amenity) (parking)	Terminal Rodoviário de Santos
+221692	-23.5746877	-46.63523695	(amenity) (parking)	Estacionamento Hortifruti Sabor da Roça
+221693	-23.574758799999998	-46.63499095	(amenity) (parking)	Estacionamento Hortifruti Sabor da Roça
+221694	-23.572939249999997	-46.632869400000004	(amenity) (parking)	Estacionamento Drogaria São Paulo
+221697	-23.5712453	-46.6350765	(amenity) (parking)	Estacionamento da Padaria Orquídea Pérola
+221860	-23.9598844	-46.3357472	(amenity) (parking)	Mendes Convention Center
+222817	-23.9734623	-46.3699702	(amenity) (parking)	Praia do Itararé
+223934	-23.980567100000002	-46.31126825	(amenity) (parking)	McDonald's
+224028	-23.9614784	-46.3811076	(amenity) (parking)	Extra C&A
+224194	-23.973565649999998	-46.3162199	(amenity) (parking)	Farma Conde
+224376	-23.94702625	-46.3352769	(amenity) (parking)	Extra
+224377	-23.9422144	-46.338653	(amenity) (parking)	Centro de Treinamento Rei Pelé
+224378	-23.94277055	-46.33905525	(amenity) (parking)	Centro de Treinamento Rei Pelé
+224492	-23.983171	-46.307961	(amenity) (parking)	Canal 6
+224782	-23.69269565	-46.582745450000004	(amenity) (parking)	Mundo Rural
+225385	-23.26258515	-45.912169	(amenity) (parking)	Churraskilo
+227427	-23.533826050000002	-47.25688045	(amenity) (parking)	Estacionamento de Cargas da CBA.
+227462	-23.56365575	-46.6778699	(amenity) (parking)	McDonald's
+227892	-23.4479986	-46.508247999999995	(amenity) (parking)	Barbosa Supermercados
+227894	-23.44876205	-46.50882465	(amenity) (parking)	Barbosa Supermercados
+230252	-23.4636256	-46.5302313	(amenity) (parking)	Estacionamento
+234685	-23.5414512	-46.7759329	(amenity) (parking)	WorldPark
+235421	-23.541514900000003	-46.774721150000005	(amenity) (parking)	Belapark Estacionamento
+235815	-23.406108949999997	-46.88123515	(amenity) (parking)	Bracel
+236316	-23.20371745	-47.29149305	(amenity) (parking)	Estacionamento Privado
+238061	-23.51525925	-46.614627	(amenity) (parking)	Estacionamento Lar Center
+238128	-23.572464150000002	-46.710098900000006	(amenity) (parking)	Central Park
+238275	-23.732244700000003	-46.577126899999996	(amenity) (parking)	Moretti Estacionamento
+238563	-23.42478175	-46.4784135	(amenity) (parking)	VIP Terminal 3
+238604	-23.4870914	-46.34822435	(amenity) (parking)	Supermercado Takahashi
+238724	-23.504147850000003	-46.639340149999995	(amenity) (parking)	McDonald's
+238753	-23.53182435	-47.13695755	(amenity) (parking)	Estacionamento Supermercado Leve
+239937	-23.1360018	-46.555051250000005	(amenity) (parking)	Estacionamento Seo Dito
+240035	-23.6337416	-46.56428305	(amenity) (parking)	Du Park
+240380	-23.6547407	-46.53000015	(amenity) (parking)	West Park
+240382	-23.6617821	-46.53315795	(amenity) (parking)	Quality Park
+240423	-23.666105700000003	-46.543138549999995	(amenity) (parking)	Olimpark
+240473	-23.6546967	-46.5318005	(amenity) (parking)	XV de Novembro
+240477	-23.66436695	-46.5332053	(amenity) (parking)	Mamuth Park
+240509	-23.6291836	-46.79691185	(amenity) (parking)	Estacionamento Santa Fé Supermercado
+240773	-24.1273372	-46.689626950000005	(amenity) (parking)	Rede Krill
+240793	-24.12396095	-46.705669400000005	(amenity) (parking)	Jaf Serviços de Guinchamento
+240953	-23.592982550000002	-46.6140877	(amenity) (parking)	Estacionamento do Aquário de São Paulo
+241445	-23.55889785	-46.6809616	(amenity) (parking)	Bradesco
+241766	-23.1945167	-47.29459465	(amenity) (parking)	Galpão da Nardelli
+241871	-23.64903135	-46.70272495	(amenity) (parking)	Estacionamento GS
+242135	-23.67027815	-46.46511615	(amenity) (parking)	Estacionamento Faculdade Fama
+242448	-23.406876750000002	-46.4028118	(amenity) (parking)	Supermercados Nagumo
+242904	-23.44474825	-46.521445	(amenity) (parking)	Extra Hiper
+243480	-23.56946255	-46.7068927	(amenity) (parking)	Ecocar
+244021	-23.488947	-46.6268781	(amenity) (parking)	Condomínio Alexandria e Macedônia
+244063	-23.48577325	-46.617527100000004	(amenity) (parking)	Residencial Amazonas
+244097	-23.48870935	-46.56096115	(amenity) (parking)	Estacionamento Rilk Park
+244496	-23.6132378	-46.6333833	(amenity) (parking)	Luigi
+246905	-23.54161235	-46.64117215	(amenity) (parking)	Estacionamento
+247196	-23.50334075	-46.85097115	(amenity) (parking)	Zpark Estacionamentos
+247198	-23.5044121	-46.85209145	(amenity) (parking)	BrasilPark
+247279	-23.626010649999998	-46.743512800000005	(amenity) (parking)	Estacionamento Feel Jardim Sul
+247966	-23.50404575	-46.8552799	(amenity) (parking)	Adalpha Park
+248215	-23.50067165	-46.8562693	(amenity) (parking)	Super Park
+248221	-23.503234300000003	-46.84766595	(amenity) (parking)	Pátio Guarda Civil
+248332	-23.4854244	-46.86003505	(amenity) (parking)	Circuit Park
+248333	-23.4870908	-46.8600445	(amenity) (parking)	Estacionamento Bradesco
+248336	-23.48524995	-46.8628123	(amenity) (parking)	Multipark
+248337	-23.484673049999998	-46.86361695	(amenity) (parking)	Estacionamento
+248827	-23.509529550000003	-46.191746699999996	(amenity) (parking)	Burger King
+248828	-23.513125000000002	-46.1885676	(amenity) (parking)	HIper Extra
+248884	-23.5247144	-46.19567205	(amenity) (parking)	Bradesco
+249030	-23.52412495	-46.77213285	(amenity) (parking)	Estacionamento José Liberatti
+249199	-23.53898475	-46.7828368	(amenity) (parking)	Estacionamento Catedral De Santo Antônio
+249424	-23.66498825	-46.4576976	(amenity) (parking)	Ferruci Estacionamento
+250410	-23.2006152	-45.888666	(amenity) (parking)	Classe A
+250570	-23.332730400000003	-46.7078947	(amenity) (parking)	Berton Supermercados
+250572	-23.33301245	-46.70797845	(amenity) (parking)	Berton Supermercados
+254004	-23.443142	-46.437516200000005	(amenity) (parking)	Estcionamento NGM
+255110	-23.537020300000002	-46.66520195	(amenity) (parking)	estacionamento
+255960	-23.4489156	-46.496787499999996	(amenity) (parking)	Terminal Rodoviário de Guarulhos
+260228	-23.3108559	-46.8288662	(amenity) (parking)	Pátio de regulação
+260229	-23.23655135	-46.8704602	(amenity) (parking)	Pátio de regulação
+260230	-23.19287765	-46.93108205	(amenity) (parking)	Pátio de regulação
+260238	-23.353955	-46.84702025	(amenity) (parking)	Pátio de regulação
+260820	-23.484256600000002	-46.50218865	(amenity) (parking)	E3
+260821	-23.481691050000002	-46.502047399999995	(amenity) (parking)	E1
+261543	-23.70819025	-46.55429745	(amenity) (parking)	Estacionamento Rio Branco Park
+262318	-23.69154395	-46.55786345	(amenity) (parking)	Java Parl
+262365	-23.708030450000003	-46.55462755	(amenity) (parking)	Estacionamento Ale Park
+264875	-23.4529699	-46.466633200000004	(amenity) (parking)	Estacionamento Mypark
+265844	-23.42435595	-46.48633005	(amenity) (parking)	Standard Terminal de Cargas
+265845	-23.43127865	-46.4912762	(amenity) (parking)	Standard Terminal 1
+265871	-23.421209949999998	-46.47545435	(amenity) (parking)	Standard Terminal 3
+265878	-23.4554377	-46.5430094	(amenity) (parking)	Estacionamento da Congregação Cristã no Brasil
+266240	-23.42963195	-46.4910773	(amenity) (parking)	Standard Terminal 1 Longa Duração
+266241	-23.4251644	-46.49036945	(amenity) (parking)	TECA Caminhões
+266242	-23.426205449999998	-46.4906645	(amenity) (parking)	Economy Terminal de Cargas
+266243	-23.424512	-46.477657050000005	(amenity) (parking)	Premium Desembarque Terminal 3
+266245	-23.440651799999998	-46.482204	(amenity) (parking)	GATGRU
+266288	-23.4238311	-46.4855405	(amenity) (parking)	Standard Terminal de Cargas
+266335	-23.42478665	-46.4876618	(amenity) (parking)	Estacionamento TECA III
+268441	-23.2060201	-45.90153255	(amenity) (parking)	Vila Park
+269318	-23.518152100000002	-46.67485895	(amenity) (parking)	Estacionamento Uniao Park 171

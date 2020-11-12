@@ -41,6 +41,7 @@ import org.apache.jena.rdf.model.Model;
 import org.apache.jena.rdf.model.ModelFactory;
 import org.apache.jena.rdf.model.RDFNode;
 import org.apache.jena.rdf.model.Resource;
+import org.apache.jena.sparql.function.library.leviathan.e;
 
 import node.Sparql;
 import skpq.SpatialObject;
@@ -1001,14 +1002,36 @@ public class Datasets {
 	// Examples of usage
 	public static void main(String[] args) throws IOException {
 
+		TreeSet<SpatialObject> t = new TreeSet<>();
+		
+		SpatialObject ob1 = new SpatialObject(1, "vazio");
+		ob1.setScore(1);
+		t.add(ob1);
+		
+		SpatialObject ob2 = new SpatialObject(2, "vazio1");
+		ob2.setScore(2);
+		t.add(ob2);
+		
+		SpatialObject ob3 = new SpatialObject(3, "vazio2");
+		ob3.setScore(3);
+		t.add(ob3);
+		
+		t.pollFirst();
+		
+		Iterator<SpatialObject> it = t.iterator();		
+		
+		while(it.hasNext()) {		
+			System.out.println(it.next().getScore());
+		}
+		
 //		Datasets o = new Datasets();
 //		
 //		o.isolatePOI("./DatasetsOutput/check-ins/San Francisco.txt");
 
 //		o.loadPOIs("./DatasetsOutput/osm/New York.txt");
 
-		Datasets obj = new Datasets("./DatasetsOutput/osm/London hotel.txt");
-		obj.changeDelimiter("London hotel Tab");
+//		Datasets obj = new Datasets("./DatasetsOutput/osm/London hotel.txt");
+//		obj.changeDelimiter("London hotel Tab");
 //		obj.interestObjectCreateFile("LondonGrandeLGD.txt");
 //		o.cleanDataset("./DatasetsOutput/osm/San Francisco hotels.txt");
 //		o.interestObjectCreateFoursquare("./DatasetsOutput/check-ins/San Francisco.txt", "./DatasetsOutput/osm/San Francisco.txt");

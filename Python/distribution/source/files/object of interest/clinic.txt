@@ -1,0 +1,571 @@
+171	-23.1825087	-46.8911729	(amenity) (clinic)	Oto.com Otorrinolaringologia
+1310	-23.4908788	-46.5915816	(amenity) (clinic)	Unidade Básica de Saúde Vila Ede
+1956	-23.4767648	-46.7034088	(amenity) (clinic)	UBS Vila Progresso
+2192	-23.4636108	-46.5604239	(amenity) (clinic)	UBS Jardim Vila Galvão
+3237	-23.7298146	-46.4841818	(amenity) (clinic)
+3269	-23.7836216	-46.710742	(amenity) (clinic)	UBS Jardim Iporã
+3667	-23.4822427	-46.4931264	(amenity) (clinic)	UBS Jardim Keralux
+3745	-23.5727933	-46.7610931	(amenity) (clinic)	Unidade Básica de Saúde Doutor José Marcilio Malta Cardoso
+3810	-23.2065625	-46.1550614	(amenity) (clinic)	Posto de Saúde Municipal
+4083	-23.7120647	-46.3933293	(amenity) (clinic)	Unidade Básica de Saúde Jardim Luso
+4087	-23.4775689	-46.5686595	(amenity) (clinic)	Unidade Básica de Saúde Parque Edu Chaves
+4088	-23.4747861	-46.5805599	(amenity) (clinic)	UBS Jaçanã - Doutor Sebastiao Gabriel Sayago de Laet
+4089	-23.4706534	-46.5783026	(amenity) (clinic)	CAPS Adulto Jaçanã/Tremembé - Dr. Leonildo Galvão dos Santos
+4420	-23.5174564	-46.5773035	(amenity) (clinic)	Assistência Médica Ambulatorial
+4616	-23.5306816	-46.5995671	(amenity) (clinic)	Assistência Médica Ambulatorial Maria Zélia
+4896	-23.1960062	-46.8897467	(amenity) (clinic)	Renova Pele
+4939	-23.5923241	-46.8366708	(amenity) (clinic)	Delboni
+5235	-23.5254059	-46.4458003	(amenity) (clinic)	UBS Vila Santana
+5271	-23.503142	-46.4839706	(amenity) (clinic)	Posto de Saúde - Ubs Pedro de Souza Campos
+5382	-23.6335131	-46.6125958	(amenity) (clinic)	Unidade Básica de Saúde
+5474	-23.9831978	-46.2675032	(amenity) (clinic)	Unidade de Pronto Atendimento Vicente de Carvalho
+6010	-23.9341863	-46.7457214	(amenity) (clinic)	UBS Dom Luciano Bergamin
+6820	-23.7186048	-46.5608777	(amenity) (clinic)	Centro de Diálise e Transplantes do ABC
+6902	-23.6666607	-46.7365588	(amenity) (clinic)	Unidade Básica de Saúde Jardim Ibirapuera
+6903	-23.6608106	-46.7438187	(amenity) (clinic)	AMA Jardim São Luís
+6913	-23.6063961	-46.5727415	(amenity) (clinic)	Centro de Atenção Integral à Saúde da Mulher
+7235	-23.7234604	-46.5446972	(amenity) (clinic)	Dr. Consulta
+7358	-23.6931783	-46.5546158	(amenity) (clinic)	Dr.Consulta
+7582	-23.5078919	-46.5982411	(amenity) (clinic)	Ortomed Clinica de Fraturas
+7668	-23.4971293	-46.4408566	(amenity) (clinic)	Assistência Médica Ambulatorial
+8186	-23.5375238	-46.5853394	(amenity) (clinic)	Climesp Fisioterapia
+8192	-23.1940396	-46.8849691	(amenity) (clinic)
+9656	-23.8855412	-46.1903497	(amenity) (clinic)
+9679	-23.5795827	-46.6456582	(amenity) (clinic)	Homa Espaço médico
+9712	-23.5750313	-46.6683695	(amenity) (clinic)	Modus Vivendi Clínica Medica
+10218	-23.4036328	-46.7383983	(amenity) (clinic)	Pronto Socorro Perus
+10368	-23.5635852	-46.7441624	(amenity) (clinic)	Unidade Básica de Saúde São Remo
+10373	-23.4452082	-46.7114474	(amenity) (clinic)	Posto de Saúde Cohab Brasilândia
+10546	-23.5512699	-46.6440596	(amenity) (clinic)	Instituto de Saúde
+10547	-23.5514333	-46.6444585	(amenity) (clinic)	Ambulatório da Mulher Hospital Pérola Byington
+10634	-23.5569948	-46.6419859	(amenity) (clinic)	UBS Humaitá - Dr. João de Azevedo Lage
+10931	-23.6909861	-46.6405756	(amenity) (clinic)	Posto de Saúde Cidade Júlia
+11082	-23.4704137	-46.5728043	(amenity) (clinic)
+11168	-23.5660927	-46.4089763	(amenity) (clinic)	Unidade Básica de Saúde Prestes Maia
+11258	-23.5157697	-46.5874872	(amenity) (clinic)	Ame vila maria
+11267	-23.5635954	-46.7650717	(amenity) (clinic)	UBS - Vila Dalva
+11268	-23.6847725	-46.6616055	(amenity) (clinic)	Unidade Básica de Saúde São Jorge
+11271	-23.7131965	-46.627856	(amenity) (clinic)	Unidade Básica de Saúde Mata Virgem
+11272	-23.7715542	-46.7125519	(amenity) (clinic)	Unidade Básica de Saúde Integrada Jardim Campinas
+11435	-23.5946094	-46.642518	(amenity) (clinic)
+11724	-23.4858571	-46.6168455	(amenity) (clinic)	Estetica
+11736	-23.4815708	-46.6125295	(amenity) (clinic)
+11846	-23.6993589	-46.7729924	(amenity) (clinic)	UBS Jardim Nakamura
+12124	-23.6996155	-46.7673824	(amenity) (clinic)	UBS Alto da Rivieira
+12130	-23.671664	-46.7470484	(amenity) (clinic)	UBS Chácara Santana
+12131	-23.6922994	-46.7878422	(amenity) (clinic)	UBS Jardim Guarujá
+12152	-23.6793271	-46.7492408	(amenity) (clinic)	AMA/UBS Integrada
+12362	-23.5274915	-46.5279894	(amenity) (clinic)	UBS Vila Esperança
+12535	-23.5367323	-46.5277206	(amenity) (clinic)	UBS Vila Matilde
+12783	-23.5163914	-46.4266201	(amenity) (clinic)	Unidade Básica de Saúde Vila Nova Curuça
+12843	-23.3050883	-45.972576	(amenity) (clinic)	Bonanomi
+12892	-23.4992638	-46.8501945	(amenity) (clinic)	Mater Prime Cliníca de Reprodução Humana
+12897	-23.5852293	-46.6753677	(amenity) (clinic)	Clínica de Cirurgia Plástica Doutor Mário Farinazzo
+12914	-23.6033639	-46.6718628	(amenity) (clinic)	Clínica Bed Med
+12952	-23.576643	-46.6422248	(amenity) (clinic)	Clínica Ortopédica Paraíso
+12958	-23.5258859	-46.7138335	(amenity) (clinic)	Cimerman Análises Clínicas
+12959	-23.5645376	-46.6617614	(amenity) (clinic)	Cimerman Medicina Diagnóstica
+13202	-23.4673111	-46.5287554	(amenity) (clinic)	Ambulatório da Criança
+13222	-23.4616638	-46.4050244	(amenity) (clinic)	USB Marcos Freire
+13335	-23.5770245	-46.6430217	(amenity) (clinic)	Clinic Care
+13426	-23.6636382	-46.5262332	(amenity) (clinic)	UPA Santo André
+13727	-23.6099301	-46.7055713	(amenity) (clinic)	UBS Real Parque
+14254	-23.5394491	-46.4551811	(amenity) (clinic)	Unidade Básica de Saúde Itaquera
+14331	-23.6719923	-46.7459506	(amenity) (clinic)	Zumbi dos Palmares UBS
+14542	-23.5530446	-46.7482032	(amenity) (clinic)	Allongé Pilates & Terapia Manual
+14812	-23.7138016	-46.5454637	(amenity) (clinic)	Clínica Bys
+14838	-23.6401131	-46.5439528	(amenity) (clinic)
+15509	-23.5299797	-46.7117751	(amenity) (clinic)	Ortodiagnose
+15534	-23.5653177	-46.7415768	(amenity) (clinic)	Serviço Especializado em Engenharia de Segurança e Medicina do Trabalho
+16021	-23.5464941	-46.5319927	(amenity) (clinic)	UBS Vila Nova Manchester
+17540	-23.5276741	-46.6128725	(amenity) (clinic)	São Francisco Centro Médico Diagnóstico
+17735	-23.7721718	-46.7233022	(amenity) (clinic)	Pronto Socorro Balneário São José
+17737	-23.8806135	-46.7422123	(amenity) (clinic)	UBS Embura
+18237	-23.5398638	-46.6079927	(amenity) (clinic)	Grupo de Saúde Bresser
+20831	-23.8564227	-46.7046803	(amenity) (clinic)	Unidade Básica de Saúde Vargem Grande
+20832	-23.8319474	-46.711222	(amenity) (clinic)	Unidade Básica de Saúde Jardim Santa Fé
+20995	-23.5205252	-46.463897	(amenity) (clinic)	UBS Vila Ramos
+21445	-23.5159304	-46.5876016	(amenity) (clinic)	Medicina Diagnostica Lavoisier
+21511	-23.5791161	-46.6459053	(amenity) (clinic)	Meckel Radiologia Odontológica
+21669	-23.2505534	-45.8869967	(amenity) (clinic)	U.B.S do Bosque
+21814	-23.2640611	-46.7444607	(amenity) (clinic)
+21981	-23.5746175	-46.6457121	(amenity) (clinic)	Hospital dos Olhos
+22186	-23.643248	-46.7413515	(amenity) (clinic)	UBS Vila das Belezas
+22238	-23.5381898	-46.6120344	(amenity) (clinic)	UBS Manoel Saldiva Neto
+22318	-23.4524735	-46.5856689	(amenity) (clinic)	Unidade Básica de Saúde Jardim Apuanã
+22326	-23.543875	-46.6480719	(amenity) (clinic)	Santa Casa
+22755	-23.5218945	-46.1867368	(amenity) (clinic)	Mãe Mogiana
+22804	-23.5587215	-46.6609575	(amenity) (clinic)	Delboni
+22814	-23.5284102	-46.2013888	(amenity) (clinic)	Ambulatório Médico de Especialidades
+22843	-23.6124366	-46.6505527	(amenity) (clinic)	Medicina Diagnóstica
+22844	-23.6093137	-46.6545759	(amenity) (clinic)	Salomão Zoppi Diagnóstico
+22916	-23.5424189	-46.6767477	(amenity) (clinic)	Megaunidade Delboni Auriemo
+23054	-23.3576495	-46.1579491	(amenity) (clinic)	Unidade de Saúde da Família - Chácara Guanabara
+23122	-23.6114199	-46.2530399	(amenity) (clinic)	Unidade de Saúde da Família - Jardim Nove de Julho
+23123	-23.6976711	-46.2419408	(amenity) (clinic)	Unidade Básica de Saúde - Quatinga
+24148	-23.5546792	-46.658089	(amenity) (clinic)	IOOSP Oftalmologista
+24202	-23.599522	-46.6402225	(amenity) (clinic)	Ortopedia Pedro de Toledo
+24233	-23.5548309	-46.6621553	(amenity) (clinic)	Doutor Consulta
+24337	-23.5302249	-46.6541684	(amenity) (clinic)	Pronto Socorro Municipal Álvaro Dino de Almeida - Barra Funda
+24879	-23.5528743	-46.5590506	(amenity) (clinic)	Sense
+25128	-23.6736174	-46.6665127	(amenity) (clinic)	UBS Vila Constância - Dr Vicente Octavio Guida
+25129	-23.6715401	-46.6823487	(amenity) (clinic)	Ambulatório Médico de Especialidades Jardim dos Prados
+25138	-23.5488093	-46.6385886	(amenity) (clinic)	UBS - República
+25389	-23.9262903	-46.401949	(amenity) (clinic)	USF Vila dos Pescadores
+25430	-23.6619512	-46.6619657	(amenity) (clinic)	Centro Médico Cupecê
+25539	-23.529416	-46.6141147	(amenity) (clinic)	Associação Benificente São Pedro
+25575	-23.495134	-46.7128736	(amenity) (clinic)	Unidade Básica de Saúde Moinho Velho I
+25640	-23.5968612	-46.6413266	(amenity) (clinic)	Instituto do Sono
+25821	-23.9442957	-46.3297728	(amenity) (clinic)	Medisocial
+26353	-23.1332175	-46.5647832	(amenity) (clinic)	UBS Ana Cecília
+26434	-23.5418718	-46.6510883	(amenity) (clinic)	Uddo Unidade de Diagnóstico e Densitometria Óssea
+26570	-23.4946118	-46.5754939	(amenity) (clinic)	Medial Labor
+26921	-23.6780836	-46.5525301	(amenity) (clinic)	Unidade Básica de Saúde Jardim BomPastor
+27287	-23.6288157	-46.6463431	(amenity) (clinic)	Unidade Básica de Saúde Milton Santos
+27290	-23.7176195	-46.5622576	(amenity) (clinic)	A+ Medicina Diagnóstica
+27588	-23.5445679	-46.3126181	(amenity) (clinic)	Clínica Santa Catarina
+27735	-23.5609283	-46.6815734	(amenity) (clinic)	Consultório Alexandra Bezerra
+27808	-23.5376309	-46.6343987	(amenity) (clinic)	Doutor Consulta
+27840	-23.537321	-46.5954757	(amenity) (clinic)	UBS Professor Marcus Wolosker
+27938	-23.6950313	-46.5533566	(amenity) (clinic)	Cerpo Oftalmologia
+28202	-23.6067871	-46.6354589	(amenity) (clinic)
+28580	-23.5828989	-46.6403979	(amenity) (clinic)	Instituto Superior de Medicina
+28811	-23.678955	-46.6400775	(amenity) (clinic)	UBS Jardim Miriam II
+28812	-23.6785537	-46.644516	(amenity) (clinic)	UBS MANOEL SOARES DE OLIVEIRA (JARDIM MÍRIAM)
+28813	-23.6765016	-46.6508122	(amenity) (clinic)	UBS VILA IMPÉRIO II
+28814	-23.5235405	-46.5087016	(amenity) (clinic)	UBS Vila Granada
+28819	-23.672276	-46.6374986	(amenity) (clinic)	UBS AMA Vila Clara
+28820	-23.6649836	-46.64408	(amenity) (clinic)	UBS Americanopolis
+28834	-23.6729044	-46.6493636	(amenity) (clinic)	UBS VILA Império
+28851	-23.6601317	-46.63705	(amenity) (clinic)	UBS Jardim Lourdes
+28852	-23.6602483	-46.6503873	(amenity) (clinic)	Unidade Básica de Saúde Vila Campestre
+28853	-23.6533692	-46.6524085	(amenity) (clinic)	UBS Vila Santa Catarina
+28854	-23.6544732	-46.6640578	(amenity) (clinic)	UBS Vila Canaã
+29076	-23.6541542	-46.5414065	(amenity) (clinic)	Spacci
+29197	-23.6686606	-46.5382154	(amenity) (clinic)	Clínica Portugal
+29205	-23.664453	-46.5336938	(amenity) (clinic)	Clínica de Otorrinos
+29230	-23.6553138	-46.5327658	(amenity) (clinic)	Imedi Diagnósticos
+29249	-23.6630465	-46.5332432	(amenity) (clinic)	Laser Ocular ABC
+29446	-23.6312395	-46.5258524	(amenity) (clinic)	Clínica Bem Estar
+29473	-23.6666775	-46.545631	(amenity) (clinic)	Nefrolog
+29483	-23.6660437	-46.543327	(amenity) (clinic)	Prevent Senior
+29513	-23.6517483	-46.5357129	(amenity) (clinic)	Lyège
+29526	-23.6543521	-46.5356393	(amenity) (clinic)	Endo Serv
+29616	-23.6596857	-46.5388249	(amenity) (clinic)	AMI Assistência Materno Infantil
+29631	-23.654922	-46.5334444	(amenity) (clinic)	Grupo Ana Rosa
+29632	-23.6552991	-46.5332633	(amenity) (clinic)	Clínica Médica de Especialidades Jardins
+29702	-23.6653914	-46.5336683	(amenity) (clinic)	CNH
+29941	-23.6557634	-46.5293272	(amenity) (clinic)	Centro Clínica
+30360	-23.5695791	-46.6235372	(amenity) (clinic)	UBS Cambuci
+30746	-23.4432528	-46.5212795	(amenity) (clinic)	Unidade Básica de Saúde Jovaia
+30934	-23.8301272	-46.7270596	(amenity) (clinic)	Unidade Básica de Saúde Parelheiros
+30935	-23.8175798	-46.7053197	(amenity) (clinic)	Unidade Básica de Saúde Jardim São Norberto
+31233	-23.5438296	-46.3144304	(amenity) (clinic)	IMOT
+31234	-23.5441541	-46.3145526	(amenity) (clinic)	CDB
+31327	-23.5230296	-46.361892	(amenity) (clinic)	Unidade Básica de Saúde Maria Eduarda Ribeiro Domingues
+31689	-23.6943897	-46.5685554	(amenity) (clinic)
+31715	-23.5344772	-46.8036709	(amenity) (clinic)
+32981	-23.5279597	-46.1991055	(amenity) (clinic)	CTCor
+32982	-23.5278611	-46.1985315	(amenity) (clinic)	IOFEM - Instituto Oftalmológico Edson Miyake
+32983	-23.5281808	-46.1989014	(amenity) (clinic)	Instituto Dra. Kelly Lemos
+32985	-23.5281986	-46.1991031	(amenity) (clinic)	Flama
+32987	-23.5282524	-46.1995755	(amenity) (clinic)	Spazio
+32990	-23.5282401	-46.2003238	(amenity) (clinic)	IOMC - Instituto de Olhos
+32991	-23.5284294	-46.2002487	(amenity) (clinic)	UROS - Instituto de Urologia
+32992	-23.528272	-46.2005035	(amenity) (clinic)	Estética Santé
+32993	-23.5283138	-46.200592	(amenity) (clinic)	Fonçatti Oftalmologia
+32994	-23.5286704	-46.2010319	(amenity) (clinic)	Vessato
+32997	-23.5252863	-46.1988641	(amenity) (clinic)	Anhembi
+33001	-23.5264134	-46.1989349	(amenity) (clinic)	CTCor Diagnóstica
+33003	-23.527275	-46.1987192	(amenity) (clinic)	Anhembi
+33005	-23.527429	-46.1986854	(amenity) (clinic)	CEMEAP
+33015	-23.5241726	-46.201019	(amenity) (clinic)	Bonelli
+33029	-23.5246938	-46.1976108	(amenity) (clinic)	Vida + Vida
+33109	-23.4458952	-46.9128236	(amenity) (clinic)	UBS Álvaro Ribeiro
+33242	-23.4065847	-45.887317	(amenity) (clinic)	UBS João Galante
+33446	-23.6535273	-46.5716143	(amenity) (clinic)	Partmed
+33459	-23.5422542	-46.3119891	(amenity) (clinic)	Inácio Fisioterapia
+33794	-23.4103741	-46.8469443	(amenity) (clinic)	Unidade Básica de Saúde do Polvilho
+34014	-23.4874708	-46.5498742	(amenity) (clinic)	Dr.Consulta
+34015	-23.4888729	-46.5484514	(amenity) (clinic)	CEMA
+34036	-23.5107438	-46.8831777	(amenity) (clinic)	Ambulatório de Especialidades
+34085	-23.6035789	-46.4818417	(amenity) (clinic)
+35068	-23.557253	-46.6651599	(amenity) (clinic)
+35250	-23.5567008	-46.6556241	(amenity) (clinic)	Instituto Sirio Libanes
+35267	-23.5566046	-46.6568304	(amenity) (clinic)	Diagnostika
+35291	-23.7004847	-46.7910858	(amenity) (clinic)	UBS - Chacará Santa Maria
+35292	-23.7304405	-46.7887565	(amenity) (clinic)	AMA/ UBS Integrada Jardim Capela
+35293	-23.6947612	-46.7862992	(amenity) (clinic)	UBS Jardim Guarujá
+35296	-23.7332736	-46.7834207	(amenity) (clinic)	UBS Integral Jardim Vera Cruz
+35298	-23.6934185	-46.7805846	(amenity) (clinic)	UBS Jardim Paranapanema
+35299	-23.7468546	-46.7778416	(amenity) (clinic)	UBS Horizonte Azul
+35300	-23.6835426	-46.7754702	(amenity) (clinic)	UBS Jardim Caicara
+35301	-23.6986037	-46.7716253	(amenity) (clinic)	UBS Jardim Nakamura
+35302	-23.7189156	-46.7700766	(amenity) (clinic)	UBS Jardim Aracati
+35303	-23.689083	-46.7661204	(amenity) (clinic)	UBS Santa Lucia
+35304	-23.7171847	-46.7654799	(amenity) (clinic)	UBS Cidade Ipava
+35305	-23.678555	-46.7627216	(amenity) (clinic)	UBS Jardim Coimbra
+35306	-23.6941538	-46.7623154	(amenity) (clinic)	UBS Parque do Lago
+35307	-23.6980461	-46.7604023	(amenity) (clinic)	UBS Alto Riviera
+35308	-23.6923592	-46.7574821	(amenity) (clinic)	UBS Jardim Herculano
+35309	-23.6785871	-46.7555143	(amenity) (clinic)	UBS Jardim Santa Margarida
+35310	-23.6738144	-46.7561044	(amenity) (clinic)	UBS Jardim Thomas
+35311	-23.6484402	-46.7541952	(amenity) (clinic)	AMA / UBS Integrada Vila Prel
+35312	-23.6883376	-46.7479894	(amenity) (clinic)	UBS Jardim Souza
+35313	-23.653851	-46.7450212	(amenity) (clinic)	UBS M'Boi - Brasília
+35314	-23.6566713	-46.7414382	(amenity) (clinic)	UBS Jardim Celeste
+35315	-23.6812942	-46.7383218	(amenity) (clinic)	AMA / UBS Integrada Jardim Alfredo
+35316	-23.6654145	-46.7357544	(amenity) (clinic)	UBS Novo Jardim I
+35317	-23.6561688	-46.735608	(amenity) (clinic)	UBS Novo Caminho
+35421	-23.5611057	-46.6685808	(amenity) (clinic)
+35510	-23.5853727	-46.5827754	(amenity) (clinic)	Dediq
+35667	-23.6549173	-46.53671	(amenity) (clinic)	Clínica Fênix
+35683	-23.6499811	-46.5387879	(amenity) (clinic)	Clínica de Olhos Nações
+35927	-23.5025803	-46.3802245	(amenity) (clinic)	Unidade Básica de Saúde Encosta Norte
+35933	-23.185876	-45.8810985	(amenity) (clinic)	MedNet
+36394	-23.6196295	-46.7696078	(amenity) (clinic)	Unidade Básica de Saúde de Jardim Helena
+36824	-23.1952695	-45.8902015	(amenity) (clinic)	NeuroVitta
+36893	-23.5476075	-46.6900774	(amenity) (clinic)	Claritas
+36915	-23.5581336	-46.68698	(amenity) (clinic)	Clinica Madá
+37360	-23.4932399	-46.600965	(amenity) (clinic)	UBS Izolina Mazzei
+37661	-23.5423782	-46.5736089	(amenity) (clinic)	Mediclin
+37790	-23.5289106	-46.6953367	(amenity) (clinic)	UBS Vila Romana
+37970	-23.5405065	-46.8810775	(amenity) (clinic)	Unidade Básica de Saúde Hélio Berzaghi
+38010	-23.5354965	-46.5741288	(amenity) (clinic)	clínica s.o.s são Paulo
+38011	-23.5371995	-46.5723058	(amenity) (clinic)	labore clinica
+38325	-23.66835	-46.5906712	(amenity) (clinic)	Clínica de Psicologia Miragaia
+38397	-23.2592587	-45.888025	(amenity) (clinic)	Caps Sul
+38798	-23.5823767	-46.6403705	(amenity) (clinic)	Clube Vida de Saúde
+38799	-23.5824596	-46.640471	(amenity) (clinic)	CEDIG
+38802	-23.5835382	-46.6413176	(amenity) (clinic)	Dimen
+39585	-23.5421887	-46.5688107	(amenity) (clinic)	Prisma Clinica
+39775	-23.5044258	-46.6106612	(amenity) (clinic)	AMA Carandiru
+39834	-23.6610962	-46.5325134	(amenity) (clinic)	Radioterapia ABC
+39835	-23.6622426	-46.533083	(amenity) (clinic)	Clinicor
+39849	-23.6679737	-46.5383993	(amenity) (clinic)	Eucor
+39896	-23.659925	-46.5266748	(amenity) (clinic)	Dr. Consulta
+40056	-23.6542558	-46.5316801	(amenity) (clinic)
+40099	-23.4925629	-46.617906	(amenity) (clinic)	Centro Medico Jardim São Paulo
+40239	-23.4723739	-46.6667855	(amenity) (clinic)	Clínica Fares
+40271	-23.6025558	-46.6118095	(amenity) (clinic)	Medselect Cnsultas e Exames
+40295	-23.5232859	-46.7043658	(amenity) (clinic)	Labi Exames
+40612	-23.4852392	-46.6330289	(amenity) (clinic)	Centro de Referência do Idoso (CRI - Zona Norte)
+40649	-23.4080971	-46.8917406	(amenity) (clinic)	SPX Clínica
+41361	-23.6847132	-46.6215607	(amenity) (clinic)	Centro Médico Sana
+41367	-23.6851705	-46.6234423	(amenity) (clinic)	Cliníca de Olhos São José
+41376	-23.6228852	-46.7273227	(amenity) (clinic)	Polo Saúde
+41570	-23.4897251	-46.7166069	(amenity) (clinic)	Docs
+42075	-23.4313421	-46.4378823	(amenity) (clinic)	Unidade Básica de Saúde Jardim Presidente Dutra
+42255	-23.464144	-46.5265568	(amenity) (clinic)	Unimed
+43149	-23.5628052	-46.6491895	(amenity) (clinic)	Posto de Saúde Bela Vista e Jardins - UBS Nossa Senhora do Brasil
+70315	-23.6917957	-46.5077383	(amenity) (clinic)	Ambulatório Médico de Especialidades Santo André
+75795	-23.7157335	-46.59451945	(amenity) (clinic)	Unidade Básica de Saúde Jardim Nazareth
+85343	-23.598023650000002	-46.73464875	(amenity) (clinic)	Unidade Básica de Saúde Vila Sônia
+86396	-23.58719855	-46.77051315	(amenity) (clinic)	UBS Vila Borges
+92214	-23.66317025	-46.5261881	(amenity) (clinic)	UPA Perimetral
+103970	-23.58657945	-46.732247150000006	(amenity) (clinic)	Assistência Médica Ambulatorial Jardim Peri-Peri
+123814	-23.7075627	-46.521377099999995	(amenity) (clinic)	Unidade Básica de Saúde Parque São Bernardo
+124594	-23.320360649999998	-46.59130945	(amenity) (clinic)	Posto de Saúde Mairiporã
+131495	-23.46140005	-46.7090057	(amenity) (clinic)	Assistência Médica Ambulatorial e Unidade Básica de Saúde Integrada Jardim Paulistano
+133989	-23.5964502	-46.56751645	(amenity) (clinic)	Posto de Saúde Vila Alpina
+134400	-23.14353155	-47.00464015	(amenity) (clinic)	UPA 24H
+135438	-23.65396165	-46.7575874	(amenity) (clinic)	UBS Jardim Germania
+144883	-23.3980349	-46.422274	(amenity) (clinic)	UBS Ponte Alta
+147442	-24.31365135	-47.002388249999996	(amenity) (clinic)	AME Pereuíbe
+147923	-23.50446195	-46.65972625	(amenity) (clinic)	Unidade Básica de Saúde Casa Verde
+153013	-23.6956992	-46.56782855	(amenity) (clinic)	Unidade Básica de Saúde Planalto
+155258	-23.661079299999997	-46.56385655	(amenity) (clinic)	Centro de Atenção Integral a Saúde da Mulher
+156166	-23.7131674	-46.54590895	(amenity) (clinic)	Centro Nefrológico ABC
+156303	-23.692940200000002	-46.5551992	(amenity) (clinic)	Santa Helena Saúde
+157730	-23.78900675	-46.53474185	(amenity) (clinic)	Unidade Básica de Saúde Primo Finco
+157768	-23.677675100000002	-46.5841104	(amenity) (clinic)	Unidade Básica de Saúde Edgard Della Pascoa
+158402	-23.67408305	-46.659282950000005	(amenity) (clinic)	Assistência Médica Ambulatorial João Tunes
+160358	-23.779700300000002	-46.529710800000004	(amenity) (clinic)	Unidade Básica de Saúde Riacho Grande
+160629	-23.5374341	-46.40491795	(amenity) (clinic)	Unidade Básica de Saúde Chabilândia
+160881	-23.690876000000003	-46.58334585	(amenity) (clinic)	Unidade Básica de Saúde Antônio Pedro da Silva Neto
+161632	-23.4957575	-46.526929949999996	(amenity) (clinic)	Enfermaria
+163458	-23.713510550000002	-46.5444916	(amenity) (clinic)	Ambulatório Hospital Anchieta
+164029	-23.6819797	-46.55797295	(amenity) (clinic)	Unidade Básica de Saúde Vila Dayse
+165131	-23.69117705	-46.58501085	(amenity) (clinic)	Clinica de Ólhos Takara
+165770	-23.70144075	-46.58313135	(amenity) (clinic)	Unidade Básica de Saúde Olímpia Gomes de Almeida
+166113	-23.745667750000003	-46.52819685	(amenity) (clinic)	Unidade Básica de Saúde Doutor Hugo Heitgen
+166293	-23.6666825	-46.608755900000006	(amenity) (clinic)	Unidade Básica de Saúde Magnólia Francisca de Oliveira
+167430	-23.46073015	-46.4965433	(amenity) (clinic)	Unidade Básica de Saúde Parque Cecap
+167947	-23.65223035	-46.63793395	(amenity) (clinic)	Assistência Médica Ambulatorial Doutor Geraldo da Silva Ferreira
+168248	-23.714670849999997	-46.5522191	(amenity) (clinic)	Central Clinic
+168882	-23.7441861	-46.6056487	(amenity) (clinic)	Unidade Básica de Saúde União
+169254	-23.539152950000002	-46.220058050000006	(amenity) (clinic)	Unidade Básica de Saúde Brás Cubas
+169767	-23.4830167	-46.4993154	(amenity) (clinic)	M5
+169840	-23.8434641	-46.596926499999995	(amenity) (clinic)	Unidade Básica de Saúde Santa Cruz
+172005	-23.69366865	-46.554103850000004	(amenity) (clinic)	Docctor Med
+172049	-23.69341825	-46.5544858	(amenity) (clinic)	DaVita Serviços Médicos
+172069	-23.7756531	-46.59931	(amenity) (clinic)	Unidade Básica de Saúde Doutor Jésus do Rosário Domingos
+172327	-23.49526985	-46.38057435	(amenity) (clinic)	Unidade Básica de Saúde Jardim das Oliveiras
+172815	-23.698459	-46.625700499999994	(amenity) (clinic)	APAE Diadema
+172893	-23.6827705	-46.58899375	(amenity) (clinic)	Unidade Básica de Saúde Nova Conquista
+175265	-23.20857555	-45.8904426	(amenity) (clinic)	OrthoService
+175975	-23.671067700000002	-46.592245	(amenity) (clinic)	Unidade Básica  de Saúde Paulicéia
+177347	-23.2100509	-47.271477950000005	(amenity) (clinic)	Posto de Saúde CECAP
+177814	-23.180093	-47.11029845	(amenity) (clinic)	Unidade Básica de Saúde Santa Elisa
+178001	-23.132978100000003	-47.07941415	(amenity) (clinic)	Posto de Saúde UBS Rio das Pedras
+179402	-23.69932585	-46.5071454	(amenity) (clinic)	Pronto Atendimento Luzita
+180096	-23.6954389	-46.55392085	(amenity) (clinic)	Center Clinica Santa Luzia
+180337	-23.69397955	-46.55414035	(amenity) (clinic)	Clínica Chinesa de Acupuntura
+182459	-23.737722249999997	-46.5360654	(amenity) (clinic)	Unidade Básica de Saúde Nerci Jorge da Costa
+182811	-23.141883	-46.92400945	(amenity) (clinic)	Unidade Básica de Saúde Morada das Vinhas
+182880	-23.691187900000003	-46.55839245	(amenity) (clinic)	Emagrecentro
+183468	-23.6187337	-46.5744012	(amenity) (clinic)	Centro Médico Santamália
+183632	-23.6869668	-46.62199755	(amenity) (clinic)	Diamed
+183908	-23.716759250000003	-46.5487602	(amenity) (clinic)	Clínica de Olhos São Bernardo
+184290	-23.6770198	-46.6267364	(amenity) (clinic)	UBS Reid
+184962	-23.190331649999997	-45.8702852	(amenity) (clinic)	Unidade Básica de Saúde do Jardim Paulista
+184979	-23.5215682	-46.659288849999996	(amenity) (clinic)	CSE da Barra Funda Alexandre Vranjac
+191869	-23.1408572	-47.08473334999999	(amenity) (clinic)	UBS Bairro Monte Serrat
+191942	-23.492297100000002	-46.5852453	(amenity) (clinic)	UBS + AMA Vila Medeiros
+192095	-23.5677029	-46.739624199999994	(amenity) (clinic)	Clínica Odontológica
+192112	-23.1715224	-46.96659985	(amenity) (clinic)	UBS Fazenda Grande
+192168	-23.568284650000003	-46.7165605	(amenity) (clinic)	Centro de Saúde Escola Samuel Barnsley Pessoa
+193544	-23.548045950000002	-46.4301221	(amenity) (clinic)	Unidade Básica de Saúde Jardim São Pedro
+194799	-23.627073199999998	-46.809931500000005	(amenity) (clinic)	Unidade Básica de Saúde Jardim das Margaridas
+195163	-23.5411344	-46.86698115	(amenity) (clinic)	Unidade Básica de Saúde Maria Francisca de Melo
+197339	-23.54895775	-46.644466699999995	(amenity) (clinic)	Ambulatório Médico de Especialidades Doutor Geraldo Bourroul
+197852	-23.97823245	-46.300807500000005	(amenity) (clinic)	Policlínica da Ponta da Praia
+200353	-23.6268444	-46.56757275	(amenity) (clinic)	UBS Nair Spina Benedictis
+200590	-23.74257255	-46.6863801	(amenity) (clinic)	AMA Jardim Castro Alves
+201396	-23.663115400000002	-47.07329435	(amenity) (clinic)	Unidade Básica de Saúde Jardim Japão
+201486	-23.66893185	-47.0216216	(amenity) (clinic)	UBS Jardim dos Oliveiras
+202066	-23.670711949999998	-46.4621025	(amenity) (clinic)	Samany Clinica Medica Ltda
+202172	-23.6361822	-46.952502	(amenity) (clinic)	UBS Jardim Sandra
+202240	-23.7412592	-46.5769978	(amenity) (clinic)	Unidade Básica de Saúde Jardim Ipê
+203204	-23.4976702	-46.65486865	(amenity) (clinic)	Unidade Básica de Saúde Parque Peruche
+203290	-23.67223085	-46.565238750000006	(amenity) (clinic)	Centro Especializado de Reabilitação (CER)
+203313	-23.638536449999997	-46.6060689	(amenity) (clinic)	UBS Eduardo Romano Reschilian
+205665	-23.71449655	-46.54482045	(amenity) (clinic)	QualiRad Centro de Radioterapia
+205785	-23.698365850000002	-46.5473634	(amenity) (clinic)	Policlínica Centro Rita Ângela Zincaglia
+206099	-23.4405298	-46.5365698	(amenity) (clinic)	UBS Vila Rio de Janeiro
+207217	-23.6915732	-46.5538528	(amenity) (clinic)	Hospital São Bernardo
+207219	-23.6931148	-46.5554689	(amenity) (clinic)	Santa Helena Saúde
+207625	-23.21474855	-46.88917764999999	(amenity) (clinic)	Clínica da Saúde
+207707	-23.5536333	-46.691122	(amenity) (clinic)	UBS Doutor Manoel Joaquim Pera
+208322	-23.5259761	-46.621023550000004	(amenity) (clinic)	Assistência Médica Ambulatorial Pari
+208382	-23.5236458	-46.3491242	(amenity) (clinic)	Unidade Básica de Saúde Vila Júlia
+208889	-23.5247065	-46.4179672	(amenity) (clinic)	UBS Jardim Robru I
+208890	-23.53046075	-46.42163585	(amenity) (clinic)	AMA/UBS Jardim Etelvina
+209025	-23.654740099999998	-46.78460465	(amenity) (clinic)	SUS
+209027	-23.657777250000002	-46.7752074	(amenity) (clinic)	UBS Jardim Valquiria
+209037	-23.5034865	-46.15882645	(amenity) (clinic)	UBS Vila Suissa
+209092	-23.5207512	-46.14578684999999	(amenity) (clinic)	Unidade Básica de Saúde Vila Nova Aparecida
+210494	-23.65320675	-46.534426749999994	(amenity) (clinic)	Clínica Suport Fisiatria e Ortopedia
+210495	-23.65349725	-46.53476435	(amenity) (clinic)	Biomed
+210499	-23.6536577	-46.53283275	(amenity) (clinic)	Labhormon
+210510	-23.6525312	-46.5346081	(amenity) (clinic)	Alergo
+211228	-23.7377356	-46.5525404	(amenity) (clinic)	Unidade Básica de Saúde Demarchi
+211422	-23.4158805	-46.4706645	(amenity) (clinic)	UBS Haroldo Veloso
+211515	-23.48378695	-46.7031597	(amenity) (clinic)	Unidade Básica de Saúde Cruz das Almas
+211518	-23.466814	-46.6807211	(amenity) (clinic)	Unidade Básica de Saúde Vila Penteado
+211539	-23.453733800000002	-46.69943945	(amenity) (clinic)	Unidade Básica de Saúde Silmarya Rejane Marcolino de Souza
+213214	-23.5877166	-46.60864435	(amenity) (clinic)	Assistência Médica Ambulatorial Doutor Flávio Giannotti
+213487	-23.4732754	-46.68405905	(amenity) (clinic)	UBS Maria Cecília Ferreira Donnangelo
+213488	-23.2041361	-45.8936113	(amenity) (clinic)	Medvale
+214450	-23.7049898	-46.535482349999995	(amenity) (clinic)	Unidade Básica de Saúde Farina
+214597	-23.6137703	-47.0432911	(amenity) (clinic)	UBS Jardim Margarida
+215219	-23.637854949999998	-46.5429149	(amenity) (clinic)	Notre Dame Intermédica Centro Clínico Santo André II
+215583	-23.7200543	-46.5817877	(amenity) (clinic)	Unidade Básica de Saúde Alves Dias
+216589	-23.7005465	-46.551529599999995	(amenity) (clinic)	Acesso Saúde
+217621	-23.95593205	-46.3236153	(amenity) (clinic)	Bolsan Clínica e Microcicurgia de Olhos
+217746	-23.7151617	-46.540615	(amenity) (clinic)	Unidade Básica de Saúde Santa Terezinha
+218065	-23.9885923	-46.26323295	(amenity) (clinic)	Clínica Rumos
+218384	-23.9651365	-46.3108231	(amenity) (clinic)	Policlínica do Embaré
+218711	-23.39990375	-46.7510896	(amenity) (clinic)	Unidade Básica de Saúde Vila Caiúba
+219221	-23.545177600000002	-46.89183335	(amenity) (clinic)	Unidade Básica de Saúde Vale do Sol
+219750	-23.71213245	-46.39334905	(amenity) (clinic)	UBS Jardim Luso
+219783	-23.73472435	-46.5792796	(amenity) (clinic)	Policlínica Alvarenga
+220645	-23.4982324	-46.27818645	(amenity) (clinic)	Unidade Básica Saúde da Família Jardim São José
+221497	-23.9058687	-46.42362465	(amenity) (clinic)	UBS - Vila São José - Posto de Assistência Médica
+222099	-23.32728285	-46.72893865	(amenity) (clinic)	Clinifran
+222629	-23.63882995	-46.121536000000006	(amenity) (clinic)	Unidade Básica de Saúde - Biritiba Ussu
+222653	-23.5557561	-46.22097425	(amenity) (clinic)	Unidade Básica de Saúde - Santa Tereza
+222708	-23.544423350000002	-46.2366538	(amenity) (clinic)	Unidade Básica de Saúde - Vila Jundiaí
+222715	-23.4800781	-46.0873333	(amenity) (clinic)	Unidade Básica de Saúde - Sabaúna
+223002	-23.5205171	-46.207104	(amenity) (clinic)	Unidade Básica de Saúde Mineração
+223003	-23.5283384	-46.2012756	(amenity) (clinic)	Ambulatório Médico de Especialidades
+223004	-23.515840949999998	-46.1887171	(amenity) (clinic)	Pró-Criança
+223024	-23.5559946	-46.18328175	(amenity) (clinic)	Unidade Básica de Saúde - Vila da Prata
+223082	-23.51102835	-46.20450485	(amenity) (clinic)	Unidade Básica de Saúde - Ponte Grande
+223160	-23.509141749999998	-46.193860900000004	(amenity) (clinic)	Pró-Mulher
+223596	-23.7298087	-46.703540450000006	(amenity) (clinic)	UBS Jardim Presidente
+223719	-23.68013545	-46.18331695	(amenity) (clinic)	Unidade Básica de Saúde - Taiaçupeba
+223906	-23.5658321	-46.21943305	(amenity) (clinic)	Unidade de Saúde da Família - Jardim Layr
+224289	-23.584368599999998	-46.23114255	(amenity) (clinic)	Unidade Básica de Saúde Santo Ângelo
+224292	-23.54729105	-46.24617895	(amenity) (clinic)	Programa de Agentes Comunitários de Saúde
+224297	-23.547070249999997	-46.2461629	(amenity) (clinic)	Unidade Básica de Saúde - Vila Nova Jundiapeba
+225120	-23.13743125	-46.4647684	(amenity) (clinic)	Posto de Saúde
+225968	-23.57693295	-46.038295149999996	(amenity) (clinic)	Farmácia e posto de saúde de Biritiba mirim
+226181	-23.691987949999998	-46.5571482	(amenity) (clinic)	Notre-Dame Intermédica Centro Clínico São Bernardo 2
+228331	-23.6603195	-46.566447600000004	(amenity) (clinic)	Clinica Takata
+228422	-23.28475225	-47.2902083	(amenity) (clinic)	Posto de Saude
+230114	-23.409885000000003	-46.458430199999995	(amenity) (clinic)	Centro de Especialidades Médicas de Guarulhos São João
+230271	-23.55241885	-46.4876341	(amenity) (clinic)	Unidade Básica de Saúde Padre José de Anchieta
+230275	-23.4802542	-46.553485499999994	(amenity) (clinic)	Gamédica
+232303	-23.657070400000002	-46.7561215	(amenity) (clinic)	Unidade Básica de Saúde e Assistência Médica Ambulatorial Parque Santo Antônio
+232305	-23.700177250000003	-46.7823044	(amenity) (clinic)	Unidade Básica de Saúde e Assistência Médica Ambulatorial Parque Novo Santo Amaro
+232574	-23.596747450000002	-46.9044953	(amenity) (clinic)	Unidade Básica de Saúde Portão
+232604	-23.13323145	-46.564794449999994	(amenity) (clinic)	UBS Ana cecília
+233907	-23.6089164	-46.452666300000004	(amenity) (clinic)	AMA
+233921	-23.97615385	-46.222523949999996	(amenity) (clinic)	Unidade de Pronto Atendimento -UPA Guarujá
+233983	-23.647586949999997	-46.70171975	(amenity) (clinic)	UBS
+234247	-23.47132165	-46.542624	(amenity) (clinic)	Centro de Especialidades Médicas de Guarulhos - CEMEG
+234371	-23.2808525	-47.0589092	(amenity) (clinic)	UBS Milena Ciola
+235816	-23.4063407	-46.889355800000004	(amenity) (clinic)	USA Fazendinha
+236328	-23.211156799999998	-47.3037318	(amenity) (clinic)	Área do Futuro Posto de Sáude
+236614	-23.40472685	-46.90064945	(amenity) (clinic)	Unidade Básica de Saúde do Bairro 120
+236758	-23.530811149999998	-47.132819749999996	(amenity) (clinic)	Posto de Saúde 2
+236759	-23.5323334	-47.13733915	(amenity) (clinic)	Posto de Saúde Central
+236928	-24.00210925	-46.41315135	(amenity) (clinic)	Angiocor
+236942	-23.4350173	-46.383651349999994	(amenity) (clinic)	Estratégia Saúde da Familia
+237047	-23.513845	-46.5320366	(amenity) (clinic)	AMA Chacara Cruzeiro do Sul
+237693	-23.13287605	-47.24235575	(amenity) (clinic)	UBS Parque Corolla
+238202	-23.44639255	-46.7144142	(amenity) (clinic)	Unidade Básica de Saúde Elísio Teixeira Leite
+238341	-23.964073900000002	-46.25127165	(amenity) (clinic)	UBS Morrinhos
+238799	-23.4871083	-46.367832899999996	(amenity) (clinic)	Unidade Básica de Saúde Jardim do Carmo
+239161	-24.007934249999998	-47.157314299999996	(amenity) (clinic)	Posto de Saúde
+239236	-23.5363284	-46.305707749999996	(amenity) (clinic)	Bonelli Suzano
+239644	-23.451910599999998	-46.3357489	(amenity) (clinic)	Unidade Básica de Saúde Jardim Maragogipe
+240023	-23.71751225	-46.52675045	(amenity) (clinic)	Unidade Básica de Saúde São Pedro
+240141	-23.70428165	-46.55062765	(amenity) (clinic)	Clínica de Ólhos do ABC
+240144	-23.54141705	-46.56623385	(amenity) (clinic)	CDB Medicina Diagnóstica
+240162	-23.7177661	-46.62405510000001	(amenity) (clinic)	Unidade Básica de Saúde Eldorado
+240424	-23.6532774	-46.545989750000004	(amenity) (clinic)	Unidade de Saúde/USF Vila Guiomar
+240470	-23.6571755	-46.535077400000006	(amenity) (clinic)	Unidade de Pronto Atendimento Central
+240909	-23.54023495	-46.9099458	(amenity) (clinic)	Centro de Reabilitação Humana
+241303	-23.584041300000003	-46.79124975	(amenity) (clinic)	Unidade Básica de Saúde Jardim Boa Vista
+241326	-23.542742099999998	-46.431229650000006	(amenity) (clinic)	Unidade Básica de Saúde José Bonifácio I
+241693	-23.52998455	-46.82769435	(amenity) (clinic)	Unidade Básica de Saúde COHAB II
+242137	-23.5482128	-46.2561877	(amenity) (clinic)	Unidade Clinica Ambulatorial Doutor Arthur Domingos Fais
+242356	-23.58148575	-46.1794243	(amenity) (clinic)	Unidade Básica de Saúde Vila Moraes
+242639	-23.3987041	-46.3935072	(amenity) (clinic)	Unidade Básica de Saúde Vila Carmela
+242654	-23.417108550000002	-46.457546	(amenity) (clinic)	Unidade Básica de Saúde Cidade Seródio
+242736	-23.33594375	-46.8440009	(amenity) (clinic)	Unidade Básica de Saúde Jordanésia
+242858	-23.5214075	-46.18379405	(amenity) (clinic)	Ambulatório Municipal de Saúde Mental
+242993	-23.578143500000003	-46.8008255	(amenity) (clinic)	Unidade Básica de Saúde Irmã Águeda Maria Jaime
+244087	-23.49358065	-46.6172211	(amenity) (clinic)	Prevent Senior
+244111	-23.485560049999997	-46.13222795	(amenity) (clinic)	Unidade Básica de Saúde - Botujuru
+244197	-23.850384050000002	-46.6970752	(amenity) (clinic)	UBS Colônia
+244222	-23.77163115	-46.712519549999996	(amenity) (clinic)	UBS Jardim Campinas
+244555	-23.5370676	-46.2059962	(amenity) (clinic)	Unidade Básica de Saúde Alto do Ipiranga
+244577	-23.5286506	-46.198813349999995	(amenity) (clinic)	Unidade Avançada Hospital Ipiranga
+245324	-23.435629849999998	-46.718086650000004	(amenity) (clinic)	Unidade Básica de Saúde
+245418	-23.62986195	-46.735673750000004	(amenity) (clinic)	Delboni
+245534	-23.477942900000002	-46.897668749999994	(amenity) (clinic)	Unidade de Saúde Avançada Parque Santana
+245583	-23.71186495	-46.8493572	(amenity) (clinic)	Unidade Básica de Saúde Salvador de Leone
+245929	-23.4312229	-46.575075749999996	(amenity) (clinic)	Unidade Básica de Saúde Flor de Maio
+246040	-23.675113099999997	-46.432599	(amenity) (clinic)	Unidade Básica de Saúde Jardim Kennedy
+246198	-23.1802895	-46.9244408	(amenity) (clinic)	UBS Jardim Guanabara
+246541	-23.498688	-46.8795565	(amenity) (clinic)	UBS João Siqueira
+246635	-23.57032345	-46.330567900000005	(amenity) (clinic)	Unidade Básica de Saúde Professor João Olimpio Neto
+246636	-23.55313675	-46.32036245	(amenity) (clinic)	Ambulatório de Especialidades Doutor Joracy Cruz
+246792	-23.5020254	-46.2996203	(amenity) (clinic)	Unidade Básica de Saúde  Doutor André Cano Garcia
+247464	-23.20314655	-45.9036295	(amenity) (clinic)	Vale Infusões
+247469	-23.203638249999997	-45.904150200000004	(amenity) (clinic)	Maria Cristina Cavalheiro
+247508	-23.20498195	-45.90060265	(amenity) (clinic)	CMP Saúde
+247749	-23.62960615	-46.5219004	(amenity) (clinic)	Clinica CRS
+248712	-23.534582399999998	-46.8038622	(amenity) (clinic)	UBS Anunciata de Lúcia
+248889	-23.522267550000002	-46.1846088	(amenity) (clinic)	IMOT
+249197	-23.53868415	-46.783693650000004	(amenity) (clinic)	Policlínica Zona Sul
+249217	-23.6658716	-46.60272175	(amenity) (clinic)	Unidade Básica de Saúde Jardim ABC
+249715	-23.538811000000003	-46.821944900000005	(amenity) (clinic)	Ambulatório Médico de Especialidades de Carapicuíba
+250163	-23.1865269	-45.887835100000004	(amenity) (clinic)	Unidade de Especialidade de Saúde (UES)
+250243	-23.19831825	-45.892151049999995	(amenity) (clinic)	Clínica Fortes
+250269	-23.203971199999998	-45.900957500000004	(amenity) (clinic)	Felicitá
+250271	-23.204283250000003	-45.9027614	(amenity) (clinic)	Cínica Menezes
+250273	-23.20358005	-45.9037012	(amenity) (clinic)	Clínica Louvain
+250325	-23.199246199999997	-45.89408055	(amenity) (clinic)	Embryolife
+250334	-23.2013406	-45.895840500000006	(amenity) (clinic)	Clínica Dr. Otávio Macedo
+250361	-23.73438195	-46.57905575	(amenity) (clinic)	Unidade Básica de Saúde Alvarenga
+250408	-23.2011421	-45.88846985	(amenity) (clinic)	AME
+250409	-23.2007245	-45.8886294	(amenity) (clinic)	Unimed CEM
+250457	-23.19971465	-45.9005211	(amenity) (clinic)	Margen
+250832	-23.493912	-46.7984845	(amenity) (clinic)	Unidade Básica de Saúde Francisca Lima de Lira
+251565	-23.28511735	-46.71015825	(amenity) (clinic)	Unidade da Saúde da Família Doutor Wilfrido Tiburcio
+251666	-23.492454600000002	-46.87932145	(amenity) (clinic)	Unidade Básica de Saúde Pedro Izzo
+251669	-23.48939435	-46.893678550000004	(amenity) (clinic)	Nova UBS
+251734	-23.5823544	-46.582678599999994	(amenity) (clinic)	Unidade Básica de Saúde Vila Prudente
+251764	-23.29584055	-46.74172995	(amenity) (clinic)	Unidade Saúde da Família Casa Grande
+252020	-23.72643925	-46.543870850000005	(amenity) (clinic)	Unidade Básica de Saúde Ferrazópolis
+252050	-23.392826	-46.71324995	(amenity) (clinic)	Policlínica de Laranjeiras
+252077	-23.33319645	-46.82923365	(amenity) (clinic)	Unidade Básica de Saúde Enfermeira Leontina Martins França
+252141	-23.410277450000002	-46.8470107	(amenity) (clinic)	Clinica de Especialidades de Polvilho
+252220	-23.3595309	-46.87555795	(amenity) (clinic)	Unidade de Saúde da Família de Cajamar
+253196	-23.57644355	-46.39206455	(amenity) (clinic)	Unidade Básica de Saúde Inácio Monteiro
+253199	-23.6296016	-46.60492405	(amenity) (clinic)	Assistência Médica Ambulatorial Especialidade Vila das Mercês
+253603	-23.50436445	-46.8119191	(amenity) (clinic)	Unidade Básica de Saúde Amaro José de Souza
+253801	-23.6481174	-46.66208335	(amenity) (clinic)	AMA/UBS Integrada Doutor Waldomiro Pregnolato
+253813	-23.662004850000002	-46.6696632	(amenity) (clinic)	Unidade Básica de Saúde Jardim Umuarama
+253853	-23.594815949999997	-46.7518164	(amenity) (clinic)	Unidade Básica de Saúde Jardim Jaqueline
+253917	-23.488779649999998	-46.813636849999995	(amenity) (clinic)	Unidade Básica de Saúde Armando Gonçalves de Freitas
+253982	-23.5734141	-46.515857249999996	(amenity) (clinic)	Assistência Médica Ambulatorial Vila Antonieta
+254013	-23.5035508	-46.8732354	(amenity) (clinic)	Unidade Básica de Saúde Benedito de Oliveira Crudo
+254164	-23.204177100000003	-45.893101650000006	(amenity) (clinic)	Cliovale
+254170	-23.204142599999997	-45.89341585	(amenity) (clinic)	Villa Lobos
+254259	-23.20288635	-45.8924623	(amenity) (clinic)	IPOL
+254413	-23.69888445	-46.610082399999996	(amenity) (clinic)	UBS Emília Acelina Torres
+254429	-23.52882105	-46.86661935	(amenity) (clinic)	Unidade Básica de Saúde Raquel Sandrini Ruela
+254580	-23.4490864	-46.596203700000004	(amenity) (clinic)	Assistência Médica Ambulatorial Jardim Joamar
+254704	-23.42232045	-46.859733950000006	(amenity) (clinic)	Unidade de Saúde Avançada São Pedro
+254974	-23.18255215	-46.9188073	(amenity) (clinic)	Pronto Atendimento
+255023	-23.202263950000003	-45.903607199999996	(amenity) (clinic)	OphthalmoCare
+255158	-23.3277955	-45.995633	(amenity) (clinic)	UBS Bandeira Branca
+256422	-23.4790325	-46.41816905	(amenity) (clinic)	Unidade Básica de Saúde Jardim Helena
+259051	-23.67157185	-46.503330500000004	(amenity) (clinic)	UBS Vila Humaitá
+259109	-23.516229250000002	-46.605372599999995	(amenity) (clinic)	Hospital Hora Certa
+259133	-23.49869095	-46.596699900000004	(amenity) (clinic)	UBS Vila Leonor
+259323	-23.5421421	-46.56950755	(amenity) (clinic)	Edifício Prevent Senior Tatuape
+259514	-23.3882753	-46.301906450000004	(amenity) (clinic)	Unidade Básica de Saúde Mirante
+259572	-23.52212145	-46.5313512	(amenity) (clinic)	Ortopen Clinica de Ortopedia
+259699	-23.48228555	-46.6133119	(amenity) (clinic)	Ambulatório Especializado Professor Armando de Aguiar Pupo
+259705	-23.4876886	-46.6070593	(amenity) (clinic)	CeneNorte Centro de Nefrologia
+259768	-23.44905315	-46.6101696	(amenity) (clinic)	Unidade Básica de Saúde Vila Albertina Doutor Osvaldo Marçal
+259780	-23.4357786	-46.580599649999996	(amenity) (clinic)	Unidade Básica de Saúde Jardim Fontális
+260053	-23.59669475	-46.592475449999995	(amenity) (clinic)	Unidade Básica de Saúde Doutor Joaquim Rossini
+260135	-23.57704815	-46.7339958	(amenity) (clinic)	Unidade Básica de Saúde Butantã
+260161	-23.57246095	-46.7391258	(amenity) (clinic)	Policlínica Bonfiglioli
+260249	-23.53206275	-46.6523811	(amenity) (clinic)	Unidade Básica de Saúde Doutor Humberto Pascale
+260329	-23.5559867	-46.6039921	(amenity) (clinic)	Ambulatório de Especialidades Doutor Ítalo Domingos Le Vocci
+260583	-23.2728765	-45.86486505	(amenity) (clinic)	Angela Maria Ribeiro de Camargo Zogbi
+261031	-23.69522455	-46.55579055	(amenity) (clinic)	Clínica Mediterrâneo
+261033	-23.6933191	-46.55735215	(amenity) (clinic)	Ghelfond Medicina Diagnóstica
+261034	-23.6931914	-46.55726695	(amenity) (clinic)	Clinica de Reabilitação Corpus
+261230	-23.55383785	-46.4446824	(amenity) (clinic)	Unidade Básica de Saúde José Bonifácio II
+261293	-23.4007095	-46.438677350000006	(amenity) (clinic)	Unidade Básica de Saúde Soberana
+261542	-23.7066425	-46.55452235	(amenity) (clinic)	Provacin
+261557	-23.6928902	-46.5539159	(amenity) (clinic)	NotreLabs
+261944	-23.803958899999998	-46.4505396	(amenity) (clinic)	Unidade Básica de Saúde Santa Cruz
+262075	-23.5492515	-46.5610219	(amenity) (clinic)	UBS Doutor Woady Jorge Kalil
+262252	-23.69953745	-46.5431781	(amenity) (clinic)	Body Solutions
+262914	-23.603150300000003	-46.4035138	(amenity) (clinic)	Unidade Básica de Saúde Profeta Jeremias
+265637	-23.6300549	-46.479857550000006	(amenity) (clinic)	Unidade Básica de Saúde Jardim Sônia Maria
+266075	-23.348214149999997	-46.82577055	(amenity) (clinic)	Unidade Básica de Saúda Maria Luiza
+266325	-23.67863705	-46.41607325	(amenity) (clinic)	Unidade Básica de Saúde Paulo Ferreira
+266334	-23.69984375	-46.4567981	(amenity) (clinic)	Unidade Básica de Saúde Jardim Primavera
+266344	-23.650542	-46.440289050000004	(amenity) (clinic)	Unidade Básica de Saúde Luiz Carlos Daniel
+266373	-23.6616468	-46.4595228	(amenity) (clinic)	Unidade Básica de Saúde Mangini
+266376	-23.202742049999998	-45.895735099999996	(amenity) (clinic)	Angioskope
+266381	-23.661193400000002	-46.459465	(amenity) (clinic)	Centro Especializado em Reabilitação IV
+266383	-23.66521365	-46.4611651	(amenity) (clinic)	AME Mauá
+266410	-23.6850579	-46.441314000000006	(amenity) (clinic)	Unidade Básica de Saúde Jardim Flórida
+268242	-23.76891905	-46.64918055	(amenity) (clinic)	UBS Alcina Pimentel Piza
+268898	-23.420497599999997	-46.429124	(amenity) (clinic)	Unidade Básica de Saúde Marinópolis
+269460	-23.68845205	-46.5956334	(amenity) (clinic)	Unidade Básica de Saúde Vila Nogueira
+269664	-23.699335249999997	-46.59177425	(amenity) (clinic)	Unidade Básica de Saúde Casa Grande
+269716	-23.710776350000003	-46.60001215	(amenity) (clinic)	Unidade Básica de Saúde Jardim Ruyce
+269771	-23.68648735	-46.617976049999996	(amenity) (clinic)	Centro de Especialidades Médicas
+269859	-23.56461315	-46.7023856	(amenity) (clinic)	Coordenadoria Regional De Saúde Oeste (Uvis Lapa Pinheiros Vigilãncia Ambiental)
+270058	-23.28014855	-46.728360699999996	(amenity) (clinic)	Usf - Jardim Nova Esperança
+270114	-23.57459845	-46.22094495	(amenity) (clinic)	Unidade de Saúde Jardim Aeroporto II / Santos Dumont
+270347	-23.5665938	-46.95288095	(amenity) (clinic)	Unidade Básica de Saúde Doutor Flávio Piovesan
+270597	-23.2633504	-45.96284835	(amenity) (clinic)	Posto de Saúde Parque Meia Lua
+271049	-23.3123017	-45.99477975	(amenity) (clinic)	Unidade Básica de Saúde Santa Cruz dos Lázaros
+271073	-23.3051935	-45.9573866	(amenity) (clinic)	Unidade Básica de Saúde Parque Santo Antônio
+271441	-23.29125425	-45.95104355	(amenity) (clinic)	Unidade Saúde da Família
+271493	-23.3631867	-46.016223600000004	(amenity) (clinic)	Unidade Municipal de Saúde da Família São Silvetre
+271598	-23.980264599999998	-46.45231575	(amenity) (clinic)	Unidade de Saúde da Mulher - David Capistrano

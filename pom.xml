@@ -116,11 +116,13 @@
 			<groupId>org.prefuse</groupId>
 			<artifactId>prefuse</artifactId>
 			<version>beta-20071021</version>
-		</dependency>		<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+		</dependency>		
+		<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
-			<version>8.0.19</version>
+			<version>8.0.21</version>
+			<scope>runtime</scope>
 		</dependency>
 				<!-- https://mvnrepository.com/artifact/com.github.mpkorstanje/simmetrics-core -->
 		<dependency>

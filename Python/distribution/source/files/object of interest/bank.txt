@@ -1,0 +1,1415 @@
+61	-23.5430916	-46.5562078	(amenity) (bank)
+62	-23.5429657	-46.557358	(amenity) (bank)
+314	-23.5452018	-46.6503888	(amenity) (bank)	Bradesco
+327	-23.5440772	-46.5632701	(amenity) (bank)	Caixa
+353	-23.5536036	-46.563571	(amenity) (bank)	Bradesco
+378	-23.4982609	-46.8544976	(amenity) (bank)	Itau
+462	-23.5532558	-46.6433657	(amenity) (bank)
+463	-23.5553698	-46.6394638	(amenity) (bank)	Caixa Econômica Federal
+465	-23.5551981	-46.6391498	(amenity) (bank)	Banco do Brasil
+466	-23.5550456	-46.6390626	(amenity) (bank)	HSBC
+483	-23.5530529	-46.6349356	(amenity) (bank)	Unibanco
+491	-23.5432822	-46.6411823	(amenity) (bank)	Santander
+502	-23.5449999	-46.6336217	(amenity) (bank)	Caixa Econômica Federal
+548	-23.5514209	-46.6336889	(amenity) (bank)	Santander
+555	-23.5525755	-46.6296646	(amenity) (bank)	Bradesco
+587	-23.5504539	-46.5882931	(amenity) (bank)
+669	-23.5371689	-46.6515712	(amenity) (bank)	Banco do Brasil
+670	-23.5362221	-46.6528453	(amenity) (bank)
+671	-23.5386762	-46.6497178	(amenity) (bank)
+672	-23.5394139	-46.6502864	(amenity) (bank)
+673	-23.5396093	-46.6490418	(amenity) (bank)	Bradesco
+695	-23.5632326	-46.6386984	(amenity) (bank)	Bradesco
+703	-23.5640406	-46.6351679	(amenity) (bank)	Santander
+734	-23.5392066	-46.6089687	(amenity) (bank)	Bradesco
+736	-23.541411	-46.6139299	(amenity) (bank)	Santander
+738	-23.5392254	-46.6074724	(amenity) (bank)	Banco do Brasil
+739	-23.5420699	-46.6149165	(amenity) (bank)	Banco do Brasil
+740	-23.5394416	-46.6095996	(amenity) (bank)	Banco do Brasil
+741	-23.534962	-46.5791115	(amenity) (bank)	Banco do Brasil
+746	-23.5353462	-46.5748728	(amenity) (bank)	Santander
+762	-23.5334331	-46.5596935	(amenity) (bank)	Bradesco
+764	-23.5349773	-46.5767088	(amenity) (bank)	Itaú
+766	-23.5347019	-46.5689572	(amenity) (bank)	Itaú
+769	-23.5323268	-46.5600734	(amenity) (bank)	Itaú
+840	-23.5480436	-46.6340931	(amenity) (bank)	Banco do Brasil (Agência 000-1)
+952	-23.4838436	-46.7420197	(amenity) (bank)	Caixa Econômica Federal
+953	-23.4879514	-46.7478927	(amenity) (bank)	Bradesco
+954	-23.4874475	-46.7480679	(amenity) (bank)	Santander
+955	-23.48896	-46.7488695	(amenity) (bank)	Itaú
+956	-23.4859444	-46.7466599	(amenity) (bank)	Banco do Brasil
+957	-23.487461	-46.7580161	(amenity) (bank)	Bradesco
+958	-23.4874546	-46.7212934	(amenity) (bank)	Caixa Econômica Federal
+959	-23.4887135	-46.7199931	(amenity) (bank)	Banco do Brasil
+962	-23.4882823	-46.7206172	(amenity) (bank)	Itaú
+963	-23.4879295	-46.7197204	(amenity) (bank)	HSBC
+964	-23.4882321	-46.7191279	(amenity) (bank)	Bradesco
+965	-23.4880486	-46.7178191	(amenity) (bank)	Santander
+980	-23.6239577	-46.683976	(amenity) (bank)	Santander
+1130	-23.5668781	-46.6521933	(amenity) (bank)	Itaú
+1164	-23.5746835	-46.6566224	(amenity) (bank)	Banco do Brasil
+1165	-23.5747651	-46.6566427	(amenity) (bank)	Caixa
+1166	-23.5748691	-46.6568237	(amenity) (bank)	Bradesco
+1186	-23.6192179	-46.698409	(amenity) (bank)
+1194	-23.6214578	-46.6898432	(amenity) (bank)
+1196	-23.6185956	-46.6970624	(amenity) (bank)
+1201	-23.6211936	-46.6894192	(amenity) (bank)	Itaú
+1224	-23.5316268	-46.6355278	(amenity) (bank)	HSBC
+1234	-23.329305	-46.7243798	(amenity) (bank)
+1242	-23.571351	-46.6446144	(amenity) (bank)	Itau
+1314	-23.4785879	-46.5827948	(amenity) (bank)	Itaú
+1315	-23.4825163	-46.5890912	(amenity) (bank)	Itaú
+1316	-23.4827525	-46.5883295	(amenity) (bank)	Bradesco
+1354	-23.6164958	-46.638925	(amenity) (bank)	Itaú
+1355	-23.6160734	-46.6388716	(amenity) (bank)	Santander
+1372	-23.5511099	-46.53239	(amenity) (bank)
+1480	-23.5808385	-46.6501864	(amenity) (bank)	Itaú
+1499	-23.6067499	-46.7539082	(amenity) (bank)	Santander
+1505	-23.6085982	-46.7563756	(amenity) (bank)	Itaú
+1506	-23.6085048	-46.7555334	(amenity) (bank)	Caixa Econômica Federal
+1528	-23.5073045	-46.4892133	(amenity) (bank)
+1532	-23.5075683	-46.4914718	(amenity) (bank)
+1534	-23.5075604	-46.4887977	(amenity) (bank)
+1544	-23.5080258	-46.4933815	(amenity) (bank)
+1604	-23.2036602	-45.9091266	(amenity) (bank)	Colinas
+1607	-23.1967614	-45.8982497	(amenity) (bank)	Santander
+1612	-23.1928657	-45.894178	(amenity) (bank)	Itaú Personalité
+1613	-23.1990887	-45.9004599	(amenity) (bank)	Citibank
+1614	-23.1985612	-45.899918	(amenity) (bank)	Banco do Brasil
+1626	-23.2051086	-45.9052099	(amenity) (bank)	Bradesco
+1627	-23.2067902	-45.9064734	(amenity) (bank)	Itaú
+1661	-23.2294253	-45.901264	(amenity) (bank)	Banco Itaú
+1769	-23.4978256	-46.8551552	(amenity) (bank)	Santander
+1779	-23.5510526	-46.6497133	(amenity) (bank)	Santander
+1830	-23.5387748	-46.6546384	(amenity) (bank)	Banco do Brasil
+1871	-23.5727151	-46.5609843	(amenity) (bank)	Caixa Econômica Federal
+1872	-23.5727958	-46.5607103	(amenity) (bank)	Banco Itaú
+1873	-23.5730149	-46.5603628	(amenity) (bank)	Banco do Brasil
+1874	-23.5730561	-46.5611896	(amenity) (bank)	Banco Bradesco
+1890	-23.5704167	-46.5876675	(amenity) (bank)	Itaú
+1919	-23.6345787	-46.641726	(amenity) (bank)	Itaú
+1938	-23.6140289	-46.5719567	(amenity) (bank)	Banco do Brasil
+2012	-23.6101582	-46.6868889	(amenity) (bank)
+2145	-23.5809118	-46.585242	(amenity) (bank)	Caixa Econômica Federal
+2146	-23.5777037	-46.5868004	(amenity) (bank)	Caixa
+2148	-23.5827889	-46.5852552	(amenity) (bank)	Banco do Brasil
+2149	-23.5826645	-46.585293	(amenity) (bank)	Banco Bradesco
+2151	-23.5812141	-46.5869426	(amenity) (bank)	Santander
+2152	-23.5809413	-46.5869077	(amenity) (bank)	Santander
+2153	-23.5806905	-46.5869211	(amenity) (bank)	Banco Itaú
+2160	-23.5750203	-46.5871189	(amenity) (bank)	Itaú
+2163	-23.5701229	-46.5873496	(amenity) (bank)	Banco Itaú
+2167	-23.5809631	-46.5843191	(amenity) (bank)	Itaú
+2183	-23.5662123	-46.5990802	(amenity) (bank)	Itaú
+2206	-23.5539206	-46.7097154	(amenity) (bank)	Santander
+2281	-23.2221719	-45.8885528	(amenity) (bank)	Banco do Brasil
+2298	-23.5416484	-46.6369244	(amenity) (bank)	Itaú
+2301	-23.6230845	-46.5391018	(amenity) (bank)	Itaú
+2345	-23.6185163	-46.6766274	(amenity) (bank)	Banco do Brasil
+2428	-23.5324193	-46.6750967	(amenity) (bank)	Itaú
+2435	-23.5368667	-46.6686109	(amenity) (bank)	Itaú
+2489	-23.9672689	-46.3827537	(amenity) (bank)	Banco do Brasil
+2491	-23.9670586	-46.3840755	(amenity) (bank)	Banco do Brasil
+2666	-23.6143536	-46.7406231	(amenity) (bank)	Itaú
+2673	-23.1923741	-45.8886169	(amenity) (bank)	Banco do Brasil
+2695	-23.5925151	-46.6374031	(amenity) (bank)	Itaú
+2812	-23.9657156	-46.3328744	(amenity) (bank)	Banco do Brasil
+2814	-23.9690101	-46.3344516	(amenity) (bank)	Caixa Econômica Federal
+2816	-23.976979	-46.3106721	(amenity) (bank)	Caixa
+2827	-23.976494	-46.3015126	(amenity) (bank)	Bradesco
+2850	-23.9733424	-46.306021	(amenity) (bank)	Caixa
+2909	-23.5431202	-46.3191857	(amenity) (bank)
+2923	-23.5668363	-46.5113735	(amenity) (bank)	Itaú
+2926	-23.974938	-46.3036503	(amenity) (bank)	Itaú
+2935	-23.9719159	-46.3076304	(amenity) (bank)	Bradesco
+3102	-23.9706117	-46.3101682	(amenity) (bank)	Itaú
+3105	-23.9700627	-46.3109514	(amenity) (bank)	Itaú
+3175	-23.5532442	-46.6382955	(amenity) (bank)	Itaú
+3178	-23.5564034	-46.6400689	(amenity) (bank)	Banco do Brasil
+3180	-23.5544448	-46.6389529	(amenity) (bank)	Santander
+3182	-23.5546878	-46.6390871	(amenity) (bank)	Bradesco
+3183	-23.5585305	-46.641922	(amenity) (bank)	Itaú
+3277	-23.5810406	-46.499238	(amenity) (bank)	Banco Bradesco
+3278	-23.5809029	-46.4994794	(amenity) (bank)	Santander
+3303	-23.6027134	-46.6740524	(amenity) (bank)	Itaú
+3342	-23.1833598	-45.8871087	(amenity) (bank)	Banco do Brasil
+3344	-23.1792603	-45.88657	(amenity) (bank)	Santander
+3350	-23.1827925	-45.8870464	(amenity) (bank)	Itaú
+3351	-23.1823426	-45.8868305	(amenity) (bank)	Itaú
+3386	-23.4677368	-46.5222473	(amenity) (bank)	Bradesco
+3387	-23.4598119	-46.5288121	(amenity) (bank)	Citibank
+3496	-23.7410401	-46.6913088	(amenity) (bank)	Banco Itaú
+3497	-23.7407529	-46.6913168	(amenity) (bank)	Banco Bradesco
+3498	-23.7422887	-46.6920721	(amenity) (bank)	Banco do Brasil
+3499	-23.739842	-46.6914911	(amenity) (bank)	Caixa Econômica Federal
+3503	-23.7013661	-46.7148855	(amenity) (bank)	Itaú
+3504	-23.6964026	-46.7147733	(amenity) (bank)	Bradesco
+3506	-23.3626975	-46.7470444	(amenity) (bank)	Caixa Economica Federal
+3508	-23.3634263	-46.7478732	(amenity) (bank)	Banco Itaú
+3509	-23.3608608	-46.7457493	(amenity) (bank)	Banco Bradesco
+3512	-23.3621853	-46.7468432	(amenity) (bank)	HSBC
+3516	-23.7352827	-46.6954067	(amenity) (bank)	Bradesco
+3524	-23.7338352	-46.699162	(amenity) (bank)	Caixa Economica Federal
+3537	-23.2238415	-45.8868465	(amenity) (bank)	Santander
+3580	-23.7135888	-46.6988047	(amenity) (bank)	Banco Itaú
+3581	-23.7121473	-46.6985919	(amenity) (bank)	Unibanco
+3582	-23.7117249	-46.6987507	(amenity) (bank)	Banco Bradesco
+3583	-23.7112107	-46.6989342	(amenity) (bank)	Caixa Econômica Federal
+3603	-23.5968993	-46.6864795	(amenity) (bank)	Banco do Brasil
+3604	-23.5957957	-46.6849721	(amenity) (bank)	Caixa Econômica Federal
+3605	-23.5967616	-46.6864178	(amenity) (bank)	Santander
+3606	-23.5970566	-46.6865734	(amenity) (bank)	Bradesco
+3608	-23.5978112	-46.6873029	(amenity) (bank)	HSBC
+3617	-23.5982057	-46.6099048	(amenity) (bank)	Itaú
+3652	-23.5433481	-46.6566748	(amenity) (bank)
+3653	-23.5466341	-46.658249	(amenity) (bank)
+3692	-23.5531744	-46.5619637	(amenity) (bank)	Banco do Brasil
+3693	-23.5536833	-46.5633509	(amenity) (bank)	Banco do Brasil Estilo
+3694	-23.5531234	-46.5647933	(amenity) (bank)	Banco do Brasil
+3730	-23.5034539	-46.6265058	(amenity) (bank)	Bradesco
+3734	-23.5038905	-46.6268225	(amenity) (bank)	Itaú
+3735	-23.5048872	-46.6264651	(amenity) (bank)	Banco do Brasil
+3738	-23.503708	-46.6285542	(amenity) (bank)	Itaú Personalité
+3764	-23.658764	-47.2170393	(amenity) (bank)	Bradesco
+3765	-23.6571425	-47.2192763	(amenity) (bank)	Itaú
+3766	-23.6571179	-47.2194587	(amenity) (bank)	Santander
+3767	-23.6569265	-47.2195338	(amenity) (bank)	BB
+3768	-23.6563489	-47.2237304	(amenity) (bank)	Banco do Brasil
+3769	-23.6563809	-47.2234222	(amenity) (bank)	Caixa Econômica Federal
+3770	-23.6560028	-47.2233363	(amenity) (bank)	Bradesco
+3809	-23.2065995	-46.1548656	(amenity) (bank)	Banco do Brasil
+3811	-23.2055277	-46.1544069	(amenity) (bank)	Santander
+3835	-23.5916672	-46.5498584	(amenity) (bank)	Bradesco
+3838	-23.9873724	-46.2954073	(amenity) (bank)	Banco do Brasil
+3871	-23.577818	-46.608546	(amenity) (bank)	Banco do Brasil
+3872	-23.608374	-46.6472494	(amenity) (bank)	Bradesco
+3917	-23.9896765	-46.2997407	(amenity) (bank)	Itaú
+3924	-23.4394227	-46.7215452	(amenity) (bank)	Bradesco
+3926	-23.4344907	-46.7202339	(amenity) (bank)	Itaú
+3930	-23.4336593	-46.7203101	(amenity) (bank)	Caixa Econômica Federal
+3941	-23.4496956	-46.735287	(amenity) (bank)	Bradesco
+3942	-23.4500234	-46.735282	(amenity) (bank)	Itau
+3957	-23.4839897	-46.8594845	(amenity) (bank)	ITAU
+3987	-23.5118217	-46.6595767	(amenity) (bank)
+3988	-23.5113175	-46.6594345	(amenity) (bank)
+3989	-23.5116348	-46.6593004	(amenity) (bank)
+3990	-23.512439	-46.6595016	(amenity) (bank)
+4072	-23.7471323	-46.6878763	(amenity) (bank)	Santander
+4073	-23.5539447	-46.7076976	(amenity) (bank)	Santander
+4112	-23.542371	-46.6720106	(amenity) (bank)	Agência Itaú
+4121	-23.4850652	-46.6914601	(amenity) (bank)	Santander
+4138	-23.1849438	-46.894773	(amenity) (bank)	Santander
+4155	-23.6167376	-46.6488561	(amenity) (bank)	Caixa Econômica Federal
+4163	-23.6147294	-46.6386611	(amenity) (bank)
+4166	-23.6218732	-46.6401534	(amenity) (bank)
+4214	-23.1873201	-46.8849038	(amenity) (bank)	Santander
+4215	-23.1870382	-46.8837767	(amenity) (bank)	Santander
+4266	-23.5288013	-46.6091362	(amenity) (bank)	Banco Itaú
+4267	-23.5270284	-46.6109683	(amenity) (bank)	Banco do Brasil
+4269	-23.5255311	-46.6257932	(amenity) (bank)
+4273	-23.5365916	-46.6163053	(amenity) (bank)	Banco do Brasil
+4316	-23.6646183	-46.5623779	(amenity) (bank)	Caixa Econômica Federal
+4410	-23.5005113	-46.5888464	(amenity) (bank)	Banco Bradesco
+4430	-23.5159003	-46.5694102	(amenity) (bank)	Banco Itaú
+4436	-23.9437887	-46.3253672	(amenity) (bank)	Itaú
+4491	-23.9961334	-46.2590496	(amenity) (bank)	Caixa Econômica Federal
+4629	-23.9706675	-46.3236613	(amenity) (bank)	Banco do Brasil
+4728	-23.1906864	-46.8947228	(amenity) (bank)	Santander
+4789	-23.5288075	-46.7019895	(amenity) (bank)	Bradesco
+4804	-23.596957	-46.6877598	(amenity) (bank)	Itaú
+4805	-23.5955751	-46.6855649	(amenity) (bank)	Itaú
+4806	-23.5949171	-46.6901325	(amenity) (bank)	Caixa Econômica Federal
+4808	-23.6314184	-46.604675	(amenity) (bank)	Santander
+4810	-23.6287978	-46.6054463	(amenity) (bank)	Caixa Econômica Federal
+4828	-23.5248043	-46.6913416	(amenity) (bank)	Santander
+4829	-23.5248179	-46.6902556	(amenity) (bank)	Santander
+4832	-23.5248618	-46.6972919	(amenity) (bank)	Itaú
+4836	-23.5247767	-46.6991097	(amenity) (bank)	Bradesco
+4837	-23.5249654	-46.700185	(amenity) (bank)	Banco do Brasil
+4838	-23.5249689	-46.7000142	(amenity) (bank)	Santander
+4839	-23.5228298	-46.7020056	(amenity) (bank)	Santander
+4859	-23.5810482	-46.6394312	(amenity) (bank)	Itaú
+4936	-23.6098879	-46.6944158	(amenity) (bank)	Banco Itaú
+4938	-23.5923585	-46.8364911	(amenity) (bank)	Itaú
+4979	-23.6425293	-46.7188665	(amenity) (bank)
+5076	-23.5356513	-46.4025714	(amenity) (bank)	Bradesco
+5084	-23.5971405	-46.6100569	(amenity) (bank)	Itaú
+5193	-23.213004	-46.8384062	(amenity) (bank)
+5201	-23.7778188	-46.5308483	(amenity) (bank)	Santander
+5246	-23.5360376	-46.6869005	(amenity) (bank)	Banco do Brasil
+5247	-23.5360942	-46.6867691	(amenity) (bank)	Itaú
+5248	-23.5358164	-46.6873296	(amenity) (bank)	Bradesco
+5276	-23.7084444	-46.5508093	(amenity) (bank)	Itaú
+5320	-23.4797394	-46.5797311	(amenity) (bank)	Santo Andre
+5366	-23.5158092	-46.5878996	(amenity) (bank)	Banco Itaú
+5402	-23.9837294	-46.2369058	(amenity) (bank)	Itaú
+5403	-23.9835346	-46.2382323	(amenity) (bank)	Bradesco
+5448	-23.5492963	-46.587721	(amenity) (bank)	Banco Bradesco
+5457	-23.5599991	-46.6806696	(amenity) (bank)	Santander
+5458	-23.5598813	-46.6807529	(amenity) (bank)	Caixa Econômica Federal
+5460	-23.5599929	-46.6814118	(amenity) (bank)	Itaú
+5504	-23.9581666	-46.3227445	(amenity) (bank)
+5557	-23.2156699	-45.8925026	(amenity) (bank)	Banco Itaú
+5574	-23.2022639	-45.8853444	(amenity) (bank)	Itaú
+5644	-23.5586749	-46.6606868	(amenity) (bank)	Bradesco
+5645	-23.5581552	-46.6605151	(amenity) (bank)	Banco do Brasil
+5648	-23.557713	-46.6599643	(amenity) (bank)	Bradesco Prime
+5791	-23.9690313	-46.3328714	(amenity) (bank)	Bradesco
+5818	-23.5371156	-46.6409728	(amenity) (bank)	Banco do Brasil
+5821	-23.532077	-46.6459823	(amenity) (bank)	Banco do Brasil
+5911	-23.7094411	-46.550937	(amenity) (bank)	Santander
+5969	-23.7213461	-46.5497017	(amenity) (bank)	Bradesco
+6012	-23.7235144	-46.5448474	(amenity) (bank)	Caixa Econômica Federal
+6024	-23.6930209	-46.5512944	(amenity) (bank)	Itaú
+6025	-23.6929988	-46.5508035	(amenity) (bank)	Bradesco
+6107	-23.6816571	-46.5574214	(amenity) (bank)	Banco do Brasil
+6141	-23.2004674	-45.880606	(amenity) (bank)	Banco do Brasil
+6142	-23.1996489	-45.8816413	(amenity) (bank)	Caixa Econômica Federal
+6150	-23.6505981	-46.8528063	(amenity) (bank)	Banco do Brasil
+6230	-23.5947401	-46.6232028	(amenity) (bank)	Santander
+6231	-23.5939834	-46.6225558	(amenity) (bank)	Bradesco
+6246	-23.1853325	-46.8850811	(amenity) (bank)	Itaú
+6247	-23.1859145	-46.8849645	(amenity) (bank)	Bradesco
+6267	-23.5612898	-46.6325127	(amenity) (bank)	Banco Itaú
+6277	-23.6869637	-46.6220812	(amenity) (bank)	Banco do Brasil
+6320	-23.5590588	-46.6594691	(amenity) (bank)	Itaú
+6352	-23.5704724	-46.6440015	(amenity) (bank)	Caixa
+6353	-23.5715768	-46.6445566	(amenity) (bank)	Itaú Personnalité
+6354	-23.5720526	-46.6447455	(amenity) (bank)	Santander
+6403	-23.5137157	-46.5862582	(amenity) (bank)	Banco Bradesco
+6462	-23.5808073	-46.6395869	(amenity) (bank)	Banco do Brasil
+6463	-23.5736085	-46.6515014	(amenity) (bank)	Itaú
+6464	-23.5732026	-46.652338	(amenity) (bank)	Bradesco
+6467	-23.5735092	-46.6426794	(amenity) (bank)	Banco do Brasil
+6488	-23.6536686	-46.6803429	(amenity) (bank)	Bradesco
+6509	-23.983456	-46.3090924	(amenity) (bank)	Banco Bradesco
+6560	-23.9872594	-46.2970936	(amenity) (bank)	Banco Bradesco
+6607	-23.1939423	-45.8929628	(amenity) (bank)	Banco Safra
+6717	-23.204335	-45.876843	(amenity) (bank)	Banco do Brasil
+6720	-23.481975	-46.499893	(amenity) (bank)	Banco do Brasil
+6721	-23.5306811	-46.6547727	(amenity) (bank)	Bradesco
+6723	-23.711695	-46.5503595	(amenity) (bank)	Itaú
+6724	-23.2049015	-45.8709695	(amenity) (bank)	Banco Bradesco
+6728	-23.6720623	-46.5395461	(amenity) (bank)	Bradesco
+6729	-23.675057	-46.5388258	(amenity) (bank)	Itaú
+6731	-23.6661296	-46.5344126	(amenity) (bank)	Bradesco
+6732	-23.6665865	-46.5344582	(amenity) (bank)	Banco do Brasil
+6744	-23.649353	-46.5474445	(amenity) (bank)	Bradesco
+6761	-23.6469473	-46.5146273	(amenity) (bank)	Bradesco
+6762	-23.6470172	-46.514691	(amenity) (bank)	Caixa
+6785	-23.6723486	-46.5132618	(amenity) (bank)	Banco do Brasil
+6786	-23.6852776	-46.5218152	(amenity) (bank)	Banco do Brasil
+6787	-23.6379177	-46.5182898	(amenity) (bank)	Bradesco
+6788	-23.6554703	-46.5289458	(amenity) (bank)	Bradesco
+6789	-23.6597669	-46.5266074	(amenity) (bank)	Bradesco
+6790	-23.6699216	-46.5056964	(amenity) (bank)	Bradesco
+6791	-23.6814547	-46.5215743	(amenity) (bank)	Bradesco
+6792	-23.6888399	-46.5221083	(amenity) (bank)	Bradesco
+6793	-23.6480235	-46.5366793	(amenity) (bank)	Caixa
+6795	-23.6380448	-46.5181174	(amenity) (bank)	Santander
+6796	-23.6616884	-46.5243582	(amenity) (bank)	Santander Select
+6816	-23.5342963	-46.3989228	(amenity) (bank)	Caixa Econômica Federal
+6884	-23.5565923	-46.662283	(amenity) (bank)	Banco do Brasil
+6906	-23.5631921	-46.6540145	(amenity) (bank)	Itaú Personalite
+6923	-23.6494233	-46.8520388	(amenity) (bank)	Bradesco
+6924	-23.6493214	-46.8521878	(amenity) (bank)	Itaú
+6927	-23.67054	-46.7384115	(amenity) (bank)	Banco Bradesco
+6928	-23.6719447	-46.7412828	(amenity) (bank)	Caixa Econômica Federal
+6982	-23.7016849	-46.5515929	(amenity) (bank)	Banco Mercantil do Brasil
+7175	-23.2113243	-45.8763477	(amenity) (bank)	Caixa Econômica Federal
+7176	-23.2115041	-45.8761104	(amenity) (bank)	Santander
+7177	-23.973106	-46.3063795	(amenity) (bank)	Banco do Brasil
+7209	-23.9743195	-46.3015375	(amenity) (bank)	Santander
+7339	-23.1902745	-46.8947094	(amenity) (bank)	Banco do Brasil
+7345	-23.6245931	-46.696559	(amenity) (bank)	Banco do Brasil
+7346	-23.6194113	-46.6964474	(amenity) (bank)	Banco Itaú
+7457	-23.5016387	-46.5870646	(amenity) (bank)	Banco Itaú
+7458	-23.5007213	-46.5889133	(amenity) (bank)	Banco do Brasil
+7461	-23.5171569	-46.5889597	(amenity) (bank)	Banco Bradesco
+7476	-23.8400676	-46.1339714	(amenity) (bank)	HSBC
+7499	-23.4991958	-46.6254857	(amenity) (bank)	Banco Itaú
+7505	-23.5061858	-46.6261835	(amenity) (bank)	Itaú
+7506	-23.5070467	-46.626162	(amenity) (bank)	Caixa Econômica Federal
+7508	-23.507637	-46.626154	(amenity) (bank)	Banco do Brasil
+7509	-23.5080293	-46.6262953	(amenity) (bank)	Banco Safra
+7533	-23.5295153	-46.6146017	(amenity) (bank)	Banco do Brasil
+7536	-23.5303267	-46.6149766	(amenity) (bank)	Banco Itaú
+7537	-23.5302144	-46.6148704	(amenity) (bank)	Caixa
+7661	-23.5189322	-46.5900288	(amenity) (bank)	Caixa Econômica Federal
+7870	-23.1902652	-46.8951602	(amenity) (bank)	Bradesco
+7871	-23.1902942	-46.8954783	(amenity) (bank)	HSBC
+7887	-23.1538005	-47.0574082	(amenity) (bank)	Banco Itau
+7901	-23.1517356	-47.0573467	(amenity) (bank)	Bradesco
+7902	-23.1513183	-47.0578294	(amenity) (bank)	Banco CEF
+7903	-23.1554205	-47.0570999	(amenity) (bank)	Banco Sicredi
+7912	-23.201662	-46.8824609	(amenity) (bank)	Caixa Econômica Federal
+7935	-23.5139547	-46.5865041	(amenity) (bank)	Banco do Brasil
+8011	-23.1557434	-47.0565697	(amenity) (bank)	Banco do Brasil
+8114	-23.5352777	-46.6275258	(amenity) (bank)	Bradesco
+8197	-23.1965514	-46.8766868	(amenity) (bank)	Banco Itaú
+8198	-23.1964386	-46.87689	(amenity) (bank)	Cef
+8208	-23.1840938	-46.8963442	(amenity) (bank)	Banco do Brasil
+8274	-23.5320891	-46.6185145	(amenity) (bank)	Banco Itaú
+8310	-23.1906095	-46.9002241	(amenity) (bank)	Caixa Econômica Federal
+8472	-23.5577486	-46.6412028	(amenity) (bank)	Caixa Economica Federal
+8495	-23.551695	-46.6512376	(amenity) (bank)	Caixa Economica Federal
+8496	-23.5526374	-46.6536416	(amenity) (bank)	Bradesco
+8497	-23.5524425	-46.6535905	(amenity) (bank)	Itaú
+8498	-23.5531768	-46.6549517	(amenity) (bank)	Bradesco
+8499	-23.5534815	-46.6528386	(amenity) (bank)	Santander
+8618	-23.5129039	-46.5845065	(amenity) (bank)	Santander
+8644	-23.5701156	-46.6238561	(amenity) (bank)	Bradesco
+8673	-23.5933582	-46.5934856	(amenity) (bank)	Banco Bradesco
+8685	-23.5034078	-46.6092968	(amenity) (bank)	Bradesco
+8733	-23.5057635	-46.6042587	(amenity) (bank)	Santander
+8808	-23.5571738	-46.6001526	(amenity) (bank)	Santander
+8856	-23.5502884	-46.6419612	(amenity) (bank)	Bradesco
+8857	-23.5746136	-46.6421621	(amenity) (bank)	Caixa Econômica Federal
+8858	-23.5723175	-46.6433944	(amenity) (bank)	Itaú
+8860	-23.5691422	-46.6466948	(amenity) (bank)	Caixa Econômica Federal
+8861	-23.5687218	-46.6479807	(amenity) (bank)	Santander
+8862	-23.5686493	-46.648073	(amenity) (bank)	Itaú
+8863	-23.5683722	-46.6477087	(amenity) (bank)	Santander
+8864	-23.5681512	-46.6478309	(amenity) (bank)	Banco do Brasil
+8865	-23.5668932	-46.6495838	(amenity) (bank)	Itaú
+8867	-23.5655627	-46.6520045	(amenity) (bank)	Bradesco
+8869	-23.5643244	-46.6532951	(amenity) (bank)	Itaú
+8872	-23.562578	-46.6547644	(amenity) (bank)	Santander
+8873	-23.5627548	-46.6552616	(amenity) (bank)	Bradesco
+8874	-23.5622367	-46.6550988	(amenity) (bank)	Bradesco Prime
+8875	-23.5620546	-46.6554004	(amenity) (bank)	Banco do Brasil Estilo
+8876	-23.5605324	-46.6570221	(amenity) (bank)	Bradesco
+8878	-23.5602519	-46.6574316	(amenity) (bank)	Citibank
+8879	-23.5597157	-46.6579375	(amenity) (bank)	Caixa Econômica Federal
+8880	-23.559125	-46.6587339	(amenity) (bank)	Itaú
+8881	-23.5582684	-46.6597068	(amenity) (bank)	Santander
+8882	-23.5568087	-46.6620748	(amenity) (bank)	Banrisul
+8884	-23.556582	-46.6614723	(amenity) (bank)	Caixa Econômica Federal
+8885	-23.557417	-46.6606729	(amenity) (bank)	Santander
+8886	-23.5574577	-46.6606269	(amenity) (bank)	Itaú
+8937	-23.5451844	-46.3122169	(amenity) (bank)	Banco do Brasil
+8938	-23.5428861	-46.3113391	(amenity) (bank)	Caixa Econômica Federal
+8939	-23.5429731	-46.3113628	(amenity) (bank)	Banco do Brasil
+8940	-23.5491709	-46.3140733	(amenity) (bank)	Caixa Econômica Federal
+8943	-23.5385757	-46.309706	(amenity) (bank)	Itaú
+8944	-23.5386917	-46.3097613	(amenity) (bank)	Banco do Brasil
+8945	-23.5387244	-46.3096506	(amenity) (bank)	Santander
+8957	-23.5403127	-46.3105225	(amenity) (bank)	Bradesco
+8958	-23.5395602	-46.3111663	(amenity) (bank)	Itaú
+9053	-23.5065949	-46.4778031	(amenity) (bank)	Caixa Econômica Federal
+9118	-23.5480236	-46.642125	(amenity) (bank)	Caixa Econômica Federal
+9119	-23.5480149	-46.6420519	(amenity) (bank)	Banco do Brasil
+9129	-23.5575245	-46.6004597	(amenity) (bank)	Banco Safra
+9183	-23.5389276	-46.4267792	(amenity) (bank)	Caixa
+9206	-23.5432977	-46.413036	(amenity) (bank)	HSBC
+9242	-23.2280053	-45.884094	(amenity) (bank)	Banco do Brasil
+9243	-23.2288113	-45.8840055	(amenity) (bank)	Santander
+9255	-23.7783309	-46.5302528	(amenity) (bank)	Bradesco
+9408	-23.542603	-46.6415889	(amenity) (bank)	Bradesco
+9409	-23.5423418	-46.6419268	(amenity) (bank)	Santander
+9410	-23.543374	-46.6440935	(amenity) (bank)	Caixa Econômica Federal
+9411	-23.5435625	-46.644318	(amenity) (bank)	Santander
+9471	-23.5558243	-46.6351898	(amenity) (bank)	Santander
+9484	-23.5568258	-46.6452907	(amenity) (bank)	Caixa
+9485	-23.5569828	-46.6452672	(amenity) (bank)	Santander
+9487	-23.5579101	-46.645178	(amenity) (bank)	Itaú
+9488	-23.5587116	-46.6450949	(amenity) (bank)	Bradesco
+9498	-23.5414107	-46.6170014	(amenity) (bank)	Caixa Econômica Federal
+9499	-23.5429473	-46.6565418	(amenity) (bank)	Itaú
+9512	-23.5465774	-46.6393892	(amenity) (bank)	Banco do Brasil
+9513	-23.5457187	-46.6433534	(amenity) (bank)	Banco do Brasil
+9524	-23.5454902	-46.633794	(amenity) (bank)	Santander
+9536	-23.548211	-46.5382377	(amenity) (bank)	Banco do Brasil
+9604	-23.5647535	-46.5705596	(amenity) (bank)	Banco Bradesco
+9609	-23.545244	-46.6346882	(amenity) (bank)	Banco do Brasil
+9621	-23.5693418	-46.6471717	(amenity) (bank)	Bradesco Prime
+9772	-23.5511325	-46.6357191	(amenity) (bank)	Itaú
+9776	-23.5467574	-46.6431269	(amenity) (bank)	Santander
+9873	-23.5882073	-46.6324227	(amenity) (bank)	Santander
+9916	-23.608576	-46.6772206	(amenity) (bank)	Banco Bradesco
+9927	-23.5973781	-46.6868579	(amenity) (bank)	Santander
+9987	-23.5430185	-46.6650924	(amenity) (bank)	Itaú
+10011	-23.5964056	-46.6474906	(amenity) (bank)	Banco Bradesco
+10244	-23.5791707	-46.6618508	(amenity) (bank)	BicBanco
+10361	-23.5226972	-46.5217515	(amenity) (bank)	Banco 24 horas
+10365	-23.4783752	-46.6070004	(amenity) (bank)	Banco Itaú
+10367	-23.4747113	-46.6023358	(amenity) (bank)	Caixa Econômica Federal
+10376	-23.5246039	-46.5068541	(amenity) (bank)	Santander
+10377	-23.525133	-46.5052337	(amenity) (bank)	Itaú
+10378	-23.5254167	-46.5048745	(amenity) (bank)	Caixa Econômica Federal
+10448	-23.5639675	-46.6530132	(amenity) (bank)	Itaú
+10494	-23.5559948	-46.4786341	(amenity) (bank)	Itaú
+10614	-23.4891561	-46.5741109	(amenity) (bank)	Banco Itaú
+10615	-23.5712419	-46.6996233	(amenity) (bank)	Santander
+10628	-23.4917483	-46.6953212	(amenity) (bank)	Itaú
+10629	-23.4915586	-46.6957163	(amenity) (bank)	Santander
+10632	-23.4868038	-46.6929501	(amenity) (bank)	Bradesco
+10718	-23.6703497	-46.5396205	(amenity) (bank)	Itaú
+10793	-23.5401456	-46.6122494	(amenity) (bank)	Banco Bradesco
+10813	-23.5242629	-46.5083474	(amenity) (bank)	Banco do Brasil
+11033	-23.5774244	-46.5767508	(amenity) (bank)	Banco Itaú
+11382	-23.5589755	-46.6517619	(amenity) (bank)	Banco Itaú
+11419	-23.5648977	-46.7412801	(amenity) (bank)	Santander
+11526	-23.1872028	-46.8841559	(amenity) (bank)	Banco do Brasil
+11527	-23.1902265	-46.8943563	(amenity) (bank)	Banco do Brasil
+11528	-23.190716	-46.8956999	(amenity) (bank)	Bradesco Prime
+11529	-23.1862594	-46.8843664	(amenity) (bank)	Caixa Econômica Federal
+11657	-23.4790671	-46.6219691	(amenity) (bank)	Caixa Econômica Federal
+11664	-23.4725024	-46.617859	(amenity) (bank)	Itaú
+11665	-23.4723181	-46.6178038	(amenity) (bank)	Bradesco
+11718	-23.4868273	-46.6200089	(amenity) (bank)	Banco Bradesco
+11722	-23.4860294	-46.6170056	(amenity) (bank)	Banco Santander
+11723	-23.486296	-46.6173477	(amenity) (bank)	Banco Itaú
+11741	-23.4756117	-46.612735	(amenity) (bank)	Caixa Econômica Federal
+11776	-23.5459785	-46.6336427	(amenity) (bank)	Banco do Brasil
+11811	-23.4939552	-46.6319219	(amenity) (bank)	Santander
+11817	-23.5297866	-47.1364227	(amenity) (bank)
+11818	-23.5310776	-47.136066	(amenity) (bank)	Itaú
+12030	-23.5585882	-46.6600003	(amenity) (bank)	Caixa Econômica Federal
+12035	-23.5587195	-46.6591941	(amenity) (bank)	Bradesco
+12038	-23.5583573	-46.6602594	(amenity) (bank)	Bradesco Prime
+12045	-23.5570182	-46.6610016	(amenity) (bank)	Banco do Brasil Estilo
+12056	-23.5570811	-46.6617381	(amenity) (bank)	Banco de la Nacion Argentina
+12066	-23.5604943	-46.6578235	(amenity) (bank)	Banco Daycoval
+12073	-23.56468	-46.6532144	(amenity) (bank)	Citibank
+12081	-23.5647754	-46.6518832	(amenity) (bank)	Banco Itaú Personalite
+12090	-23.5663282	-46.6502612	(amenity) (bank)	Bradesco Prime
+12100	-23.5676474	-46.6485783	(amenity) (bank)	Banco do Brasil
+12341	-23.5955503	-46.6685117	(amenity) (bank)	Santander
+12352	-23.6091601	-46.6685501	(amenity) (bank)	Itaú
+12483	-23.4493045	-46.5205876	(amenity) (bank)	Banco do Brasil
+12489	-23.4515577	-46.5205948	(amenity) (bank)	Itau
+12540	-23.4919642	-46.4460241	(amenity) (bank)	Santander
+12654	-23.4921817	-46.4458895	(amenity) (bank)	Banco do Brasil
+12735	-23.18944	-46.884504	(amenity) (bank)	Bradesco
+12736	-23.1863975	-46.8846019	(amenity) (bank)	Citibank
+12737	-23.1861325	-46.884453	(amenity) (bank)	Itaú
+12738	-23.1891897	-46.8846716	(amenity) (bank)	Itaú
+12739	-23.1864025	-46.8842653	(amenity) (bank)	Santander
+12769	-23.5106828	-46.5409269	(amenity) (bank)	Caixa Econômica Federal
+12771	-23.5083288	-46.5369468	(amenity) (bank)
+12834	-23.5980455	-46.7408798	(amenity) (bank)	Banco Bradesco
+12848	-23.5414008	-46.638529	(amenity) (bank)	Banco Santander
+12849	-23.5415477	-46.63843	(amenity) (bank)	Bradesco
+12974	-23.5457159	-46.5853424	(amenity) (bank)	HSBC
+12991	-23.5454691	-46.6372612	(amenity) (bank)	Agência do Banco do Brasil
+13014	-23.4523414	-46.7360428	(amenity) (bank)	Caixa Econômica
+13041	-23.70763	-46.5506425	(amenity) (bank)	Banco Pan
+13146	-23.5726393	-46.7051467	(amenity) (bank)	Itaú
+13157	-23.5936003	-46.6891895	(amenity) (bank)	Citibank
+13198	-23.4450105	-46.4099159	(amenity) (bank)	Banco do Brasil
+13199	-23.4450969	-46.4079282	(amenity) (bank)	Bradesco
+13209	-23.5936012	-46.6891899	(amenity) (bank)	Citibank
+13211	-23.5856333	-46.6825492	(amenity) (bank)	Citibank
+13249	-23.4667044	-46.5302098	(amenity) (bank)	Banco do Brasil
+13252	-23.4665209	-46.5301998	(amenity) (bank)	Banco Santander
+13253	-23.4666806	-46.5300231	(amenity) (bank)	Bradesco
+13256	-23.4656561	-46.5314661	(amenity) (bank)	Itau
+13260	-23.4665389	-46.5306747	(amenity) (bank)	Caixa Econômica Federal
+13261	-23.4691459	-46.5305778	(amenity) (bank)	Banco Itau
+13262	-23.4689809	-46.5266645	(amenity) (bank)	Banco do Brasil
+13267	-23.4695668	-46.5309642	(amenity) (bank)	Bradesco
+13293	-23.9655145	-46.3328489	(amenity) (bank)	Bradesco
+13321	-23.4672736	-46.5306929	(amenity) (bank)	HSBC
+13405	-23.5694248	-46.715092	(amenity) (bank)	Bradesco
+13439	-23.5632118	-46.619612	(amenity) (bank)	Banco do Brasil
+13440	-23.5649311	-46.6214439	(amenity) (bank)	Banco do Brasil
+13442	-23.5629338	-46.6201421	(amenity) (bank)	Bradesco
+13449	-23.5627578	-46.6203498	(amenity) (bank)	Itaú
+13450	-23.5641821	-46.6213674	(amenity) (bank)	Santander
+13490	-23.6038107	-46.637806	(amenity) (bank)	Banco Itaú
+13491	-23.6223736	-46.6287388	(amenity) (bank)	Banco Itaú
+13492	-23.6043854	-46.6379646	(amenity) (bank)	Bradesco
+13710	-23.56777	-46.6336857	(amenity) (bank)	Caixa Econômica Federal
+13765	-23.5707858	-46.7094559	(amenity) (bank)	Itaú
+14035	-23.5006229	-46.6260153	(amenity) (bank)	Banco Santander
+14206	-23.5650536	-46.6323673	(amenity) (bank)	Bradesco
+14223	-23.5732101	-46.6310398	(amenity) (bank)	Santander
+14224	-23.5723298	-46.6327901	(amenity) (bank)	Banco do Brasil
+14225	-23.5720995	-46.6329158	(amenity) (bank)	Itaú
+14229	-23.5729356	-46.6322917	(amenity) (bank)	Caixa Econômica Federal
+14230	-23.5724029	-46.6333146	(amenity) (bank)	Bradesco
+14231	-23.5724956	-46.6332209	(amenity) (bank)	Bradesco Prime
+14241	-23.5458537	-46.6442274	(amenity) (bank)	Bradesco
+14255	-23.5387445	-46.4552951	(amenity) (bank)	Bradesco
+14256	-23.5404798	-46.4558677	(amenity) (bank)	Banco do Brasil
+14551	-23.5766214	-46.6870549	(amenity) (bank)	Itaú
+14692	-23.4913471	-46.6760382	(amenity) (bank)	Banco Bradesco
+14913	-23.5560556	-46.6707631	(amenity) (bank)	Banco Santander
+14995	-23.5968323	-46.6480219	(amenity) (bank)	Caixa Econômica Federal
+15012	-23.6278138	-46.6446652	(amenity) (bank)	Itaú
+15015	-23.6187965	-46.6483716	(amenity) (bank)	Itaú
+15023	-23.5457745	-46.6412802	(amenity) (bank)	Itaú
+15056	-23.6923567	-46.5500548	(amenity) (bank)	Banco do Brasil
+15060	-23.5461552	-46.6334222	(amenity) (bank)	Itaú
+15102	-23.5446722	-46.6421728	(amenity) (bank)	Banco do Brasil
+15103	-23.5445302	-46.6423335	(amenity) (bank)	Santander
+15134	-23.584104	-46.6699077	(amenity) (bank)	Itaú
+15140	-23.6290202	-46.6458317	(amenity) (bank)	Caixa Econômica Federal
+15141	-23.6119718	-46.6568954	(amenity) (bank)	Banco do Brasil
+15144	-23.6280583	-46.6434202	(amenity) (bank)	Bradesco
+15370	-23.574626	-46.7284006	(amenity) (bank)	Caixa Econômica Federal
+15550	-23.603669	-46.6365081	(amenity) (bank)	Banco Santander
+16023	-23.5457137	-46.5434856	(amenity) (bank)	Santander
+16046	-23.5356912	-46.6161071	(amenity) (bank)	Caixa
+16294	-23.5366216	-46.6163015	(amenity) (bank)	Banco do Brasil
+18694	-23.254079	-45.9045051	(amenity) (bank)	Santander
+18710	-23.6184046	-46.6758119	(amenity) (bank)	Itaú
+18732	-23.5286733	-46.6138474	(amenity) (bank)	Banco Bradesco
+19032	-23.5334485	-46.6476999	(amenity) (bank)	Banco Itaú
+19034	-23.5331203	-46.6486177	(amenity) (bank)	Banco Bradesco
+20316	-23.5330238	-46.6151709	(amenity) (bank)	Banco Bradesco
+20317	-23.5330738	-46.6151543	(amenity) (bank)	Banco Bradesco
+20336	-23.9758073	-46.3142661	(amenity) (bank)	Banco do Brasil
+20402	-23.6959544	-46.5520346	(amenity) (bank)	Caixa Econômica Federal
+20403	-23.6959937	-46.5514525	(amenity) (bank)	Santander
+20434	-23.9522046	-46.3312484	(amenity) (bank)	Caixa
+20648	-23.5984892	-46.60998	(amenity) (bank)	Santander
+20649	-23.5912728	-46.6011664	(amenity) (bank)	Santander
+20650	-23.5949997	-46.6012088	(amenity) (bank)	Santander
+20654	-23.5895702	-46.6017347	(amenity) (bank)	Bradesco
+20655	-23.582425	-46.601816	(amenity) (bank)	Bradesco
+20656	-23.5961673	-46.6005279	(amenity) (bank)	Banco Itaú
+20658	-23.5949113	-46.6007085	(amenity) (bank)	Banco do Brasil
+20664	-23.5888172	-46.6075108	(amenity) (bank)	Banco Itaú
+20681	-23.5976598	-46.6004887	(amenity) (bank)	Santander
+20683	-23.5985857	-46.6004568	(amenity) (bank)	Bradesco
+20811	-23.7216744	-46.5656779	(amenity) (bank)	Itaú
+20820	-23.5463856	-46.6409785	(amenity) (bank)	Banco Itaú
+20867	-23.9337539	-46.3298554	(amenity) (bank)	Itaú
+20868	-23.9337599	-46.3296633	(amenity) (bank)	Caixa Econômica Federal
+20910	-23.546111	-46.6445029	(amenity) (bank)	Bradesco Agência Nova Central
+20987	-23.545036	-46.6419777	(amenity) (bank)	Caixa Econômica Federal
+21007	-23.621034	-46.6733203	(amenity) (bank)	Itaú
+21025	-23.5443904	-46.6410821	(amenity) (bank)	Banco Safra
+21049	-23.5448449	-46.6405138	(amenity) (bank)	Banco Itaú
+21089	-23.5421403	-46.6409407	(amenity) (bank)	Caixa Econômica Federal
+21090	-23.5421138	-46.6409883	(amenity) (bank)	Caixa Econômica Federal
+21102	-23.6326316	-46.7030445	(amenity) (bank)	Caixa Econômica Federal
+21107	-23.59824	-46.6424239	(amenity) (bank)	Banco do Brasil
+21122	-23.5442136	-46.6395593	(amenity) (bank)	Bradesco
+21185	-23.5409169	-46.6367921	(amenity) (bank)	Caixa Econômica Federal
+21241	-23.5438299	-46.6415499	(amenity) (bank)	Itaú Personnalite
+21264	-23.5420177	-46.6401728	(amenity) (bank)	Banco Itaú
+21275	-23.5360316	-46.686641	(amenity) (bank)	Banco Santander
+21518	-23.6507189	-46.7049185	(amenity) (bank)	Itaú
+21519	-23.5387427	-46.6123648	(amenity) (bank)	Banco Santander
+21532	-23.6519444	-46.7081765	(amenity) (bank)	Bradesco
+21630	-23.6513657	-46.7080605	(amenity) (bank)	Itaú
+21649	-23.53476	-46.6171301	(amenity) (bank)
+21766	-23.541443	-46.6138264	(amenity) (bank)	Banco Santander
+21853	-23.5584944	-46.6594509	(amenity) (bank)	Itaú
+21892	-23.5458718	-46.6344812	(amenity) (bank)	Banco de São Paulo
+21893	-23.5652911	-46.6536988	(amenity) (bank)	Citibank
+21913	-23.567676	-46.6950169	(amenity) (bank)	Bradesco
+21984	-23.5378365	-46.6323862	(amenity) (bank)	Santander
+21985	-23.5378727	-46.6322448	(amenity) (bank)	Bradesco
+21995	-23.6712481	-46.513437	(amenity) (bank)	Banco Itaú
+22035	-23.5247832	-46.692904	(amenity) (bank)	Itau Personalite
+22140	-23.5450762	-46.6344707	(amenity) (bank)	Bradesco
+22176	-23.5457637	-46.6349851	(amenity) (bank)	Caixa Econômica Federal
+22179	-23.5457769	-46.6334806	(amenity) (bank)	Bradesco
+22184	-23.5430791	-46.6323242	(amenity) (bank)	Bradesco
+22229	-23.5418779	-46.64567	(amenity) (bank)	Bradesco
+22233	-23.6318328	-46.7074846	(amenity) (bank)	Banco Santander
+22290	-23.5397814	-46.6462105	(amenity) (bank)	Banco Santander
+22334	-23.5454586	-46.6487446	(amenity) (bank)	Banco Santander
+22335	-23.5455865	-46.6488795	(amenity) (bank)	Banco Santander
+22515	-23.5645693	-46.6668415	(amenity) (bank)	Santander
+22561	-23.5407692	-46.6127666	(amenity) (bank)	Itaú
+22605	-23.5941689	-46.6771945	(amenity) (bank)	Itaú
+22639	-23.3224825	-46.7246131	(amenity) (bank)	Caixa Econômica Federal
+22833	-23.5706235	-46.6446864	(amenity) (bank)	Bradesco
+22839	-23.6199517	-46.639325	(amenity) (bank)	Caixa
+22842	-23.6159529	-46.6495463	(amenity) (bank)	Bradesco
+22851	-23.6256449	-46.6607065	(amenity) (bank)	BB Turismo
+22857	-23.6256682	-46.6607216	(amenity) (bank)	Santander
+22906	-23.5683707	-46.7558478	(amenity) (bank)	Bradesco
+22940	-23.5777602	-46.6863331	(amenity) (bank)	Banco do Brasil
+22942	-23.5784158	-46.6858652	(amenity) (bank)	Santander
+22944	-23.5787994	-46.6856666	(amenity) (bank)	Banco Daycoval
+22945	-23.579194	-46.6853984	(amenity) (bank)	Caixa Econômica Federal
+22946	-23.5803072	-46.6854835	(amenity) (bank)	Safra
+22947	-23.5805195	-46.6853677	(amenity) (bank)	Santander
+22948	-23.5808712	-46.6843638	(amenity) (bank)	Bradesco Prime
+22965	-23.7145931	-46.5534809	(amenity) (bank)	Bradesco
+22995	-23.5547225	-46.6614552	(amenity) (bank)	Itaú
+23247	-23.5239849	-46.3440952	(amenity) (bank)	Bradesco
+23287	-23.5620417	-46.6546103	(amenity) (bank)	Bradesco
+23315	-23.5634745	-46.6558542	(amenity) (bank)	Bradesco
+23321	-23.5631532	-46.656295	(amenity) (bank)	Banco Sofisa
+23327	-23.5626613	-46.6554154	(amenity) (bank)	Banco Santander
+23330	-23.5632794	-46.654627	(amenity) (bank)	Itaú
+23423	-23.5656544	-46.6517664	(amenity) (bank)	Bradesco Prime
+23471	-23.5671368	-46.6499954	(amenity) (bank)	Santander Select
+23506	-23.5531328	-46.6618943	(amenity) (bank)	Bradesco Prime
+23554	-23.5497243	-46.9398503	(amenity) (bank)	Banco 24 Horas - Itapevi Center
+23677	-23.5684376	-46.646145	(amenity) (bank)	Caixa Econômica Federal
+23702	-23.5708367	-46.6442593	(amenity) (bank)	Santander Select
+23721	-23.5669478	-46.6495188	(amenity) (bank)	Itaú
+23727	-23.5667022	-46.6497651	(amenity) (bank)	Santander
+23944	-23.585222	-46.6831514	(amenity) (bank)	Bradesco Prime
+23945	-23.5849837	-46.6828324	(amenity) (bank)	Santander
+23946	-23.5852684	-46.6827403	(amenity) (bank)	Citibank
+23950	-23.5861576	-46.6957644	(amenity) (bank)	Citibank
+23962	-23.56556	-46.66788	(amenity) (bank)	Itaú
+24032	-23.5288151	-46.6574383	(amenity) (bank)	Banco do Brasil
+24118	-23.5831348	-46.6861856	(amenity) (bank)	Banco Itaú
+24120	-23.5801334	-46.6828776	(amenity) (bank)	Bradesco
+24121	-23.5636873	-46.6659187	(amenity) (bank)	Banco Itaú
+24122	-23.5663537	-46.6687088	(amenity) (bank)	Banco do Brasil
+24224	-23.5785864	-46.681348	(amenity) (bank)	Citibank
+24231	-23.5550493	-46.6624212	(amenity) (bank)	Caixa
+24249	-23.5802983	-46.6808358	(amenity) (bank)	Caixa Federal
+24264	-23.5863859	-46.697322	(amenity) (bank)	Bradesco Prime
+24265	-23.586404	-46.6971235	(amenity) (bank)	Banco Bradesco
+24269	-23.5856544	-46.6882794	(amenity) (bank)	Santander Select
+24271	-23.565799	-46.6683444	(amenity) (bank)	Bradesco Prime
+24301	-23.6737741	-46.6642473	(amenity) (bank)	Banco Itaú
+24303	-23.6490926	-46.6619889	(amenity) (bank)	Itaú
+24305	-23.6531179	-46.6576794	(amenity) (bank)	Santander
+24306	-23.6528771	-46.6579047	(amenity) (bank)	Banco do Brasil
+24307	-23.6505221	-46.6605306	(amenity) (bank)	Caixa Econômica Federal
+24308	-23.6503452	-46.6607291	(amenity) (bank)	Banco do Brasil
+24309	-23.6502224	-46.6603751	(amenity) (bank)	Bradesco
+24439	-23.5863957	-46.6969139	(amenity) (bank)	Caixa Econômica Federal
+24440	-23.5866977	-46.6944812	(amenity) (bank)	Banco Santander
+24446	-23.5790746	-46.6818119	(amenity) (bank)	Itaú Personnalité
+24447	-23.5794176	-46.6821564	(amenity) (bank)	Bradesco
+24459	-23.5314446	-46.6155406	(amenity) (bank)	Santander
+24498	-23.5863165	-46.6950739	(amenity) (bank)	Banco Itaú
+24620	-23.5548896	-46.605976	(amenity) (bank)	Caixa Econômica Federal
+24634	-23.5556166	-46.6903472	(amenity) (bank)	Bradesco
+24817	-23.5661143	-46.6684582	(amenity) (bank)	Santader
+24818	-23.5658672	-46.6682002	(amenity) (bank)	Santander Select
+24850	-23.5658514	-46.6657679	(amenity) (bank)	Bradesco Prime
+24867	-23.565141	-46.6646087	(amenity) (bank)	Santander
+24921	-23.5644307	-46.6716498	(amenity) (bank)	Caixa Econômica Federal
+24923	-23.5610545	-46.6714309	(amenity) (bank)	Caixa
+25008	-23.5506139	-46.6344573	(amenity) (bank)	Bradesco
+25017	-23.7162155	-46.8499433	(amenity) (bank)	Bradesco
+25034	-23.5526833	-46.7094114	(amenity) (bank)	Itaú
+25040	-23.5529897	-46.7080413	(amenity) (bank)	Bradesco
+25076	-23.5510882	-46.6358199	(amenity) (bank)	Bradesco
+25096	-23.5140779	-46.7217102	(amenity) (bank)	Banco Itaú
+25105	-23.6359267	-46.6409995	(amenity) (bank)	Santander
+25141	-23.5462858	-46.6362913	(amenity) (bank)	Bradesco
+25146	-23.5452405	-46.6356769	(amenity) (bank)	Caixa
+25147	-23.5455213	-46.6358327	(amenity) (bank)	Itaú
+25163	-23.5802913	-46.6507364	(amenity) (bank)	Caixa Econômica Federal
+25165	-23.6025247	-46.6553611	(amenity) (bank)	Itaú
+25170	-23.5471213	-46.6341985	(amenity) (bank)	Safra
+25171	-23.5472005	-46.6341853	(amenity) (bank)	Itaú Personalité
+25172	-23.5474538	-46.6341215	(amenity) (bank)	Banco Itaú
+25178	-23.5485983	-46.634965	(amenity) (bank)	Itaú
+25201	-23.5469603	-46.6343618	(amenity) (bank)	Bradesco
+25291	-23.6242765	-46.6282606	(amenity) (bank)	Santander
+25335	-23.5227486	-46.7036096	(amenity) (bank)	Banco Safra
+25336	-23.5227442	-46.7037819	(amenity) (bank)	Itaú
+25339	-23.5237994	-46.7047101	(amenity) (bank)	Bradesco
+25346	-23.5228899	-46.6295929	(amenity) (bank)	Santander
+25360	-23.5382255	-46.6308695	(amenity) (bank)	Itaú
+25378	-23.6670212	-46.6537712	(amenity) (bank)	Caixa Econômica Federal
+25379	-23.6669597	-46.6539187	(amenity) (bank)	Banco do Brasil
+25420	-23.6810176	-46.6389443	(amenity) (bank)	Banco Itaú
+25424	-23.6650786	-46.6580228	(amenity) (bank)	Itaú
+25428	-23.6600988	-46.6629635	(amenity) (bank)	Banco do Brasil
+25432	-23.6514656	-46.6697333	(amenity) (bank)	Caixa Econômica Federal
+25434	-23.6451954	-46.671576	(amenity) (bank)	Itaú
+25440	-23.644097	-46.6733597	(amenity) (bank)	Bradesco
+25443	-23.666173	-46.6567924	(amenity) (bank)	Bradesco
+25444	-23.6652518	-46.6586727	(amenity) (bank)	Santander
+25494	-23.6720511	-46.6457522	(amenity) (bank)	Bradesco
+25534	-23.5409847	-46.629838	(amenity) (bank)	Itaú
+25578	-23.4871266	-46.7214369	(amenity) (bank)	Banco do Brasil
+25598	-23.5368435	-46.6334114	(amenity) (bank)	Banco do Brasil
+25697	-23.4690196	-46.5285431	(amenity) (bank)	Banco do Brasil
+25698	-23.4642547	-46.5301196	(amenity) (bank)	Caixa Econômica Federal
+25715	-23.5890079	-46.7283618	(amenity) (bank)	Itaú
+25856	-23.5389332	-46.6351068	(amenity) (bank)	Caixa Econômica Federal
+25857	-23.5386979	-46.6359133	(amenity) (bank)	Itaú
+25924	-23.5399254	-46.6296225	(amenity) (bank)	Bradesco
+26035	-23.5709986	-46.7099887	(amenity) (bank)	Banco do Brasil
+26083	-23.483791	-46.6534596	(amenity) (bank)	Itau
+26086	-23.4824171	-46.6549147	(amenity) (bank)	Bradesco
+26110	-23.5471918	-46.6497723	(amenity) (bank)	Santander
+26128	-23.4957534	-46.9654143	(amenity) (bank)	Banco Santander
+26131	-23.4898015	-46.9549792	(amenity) (bank)	Bradesco
+26132	-23.4904011	-46.9549792	(amenity) (bank)	Banco Itaú
+26251	-23.5457832	-46.6515446	(amenity) (bank)	Itaú
+26254	-23.6131937	-46.7412526	(amenity) (bank)	Santander
+26370	-23.6469453	-46.6450078	(amenity) (bank)	Santander
+26371	-23.6467831	-46.6449917	(amenity) (bank)	Bradesco
+26372	-23.6465248	-46.6424482	(amenity) (bank)	Banco do Brasil
+26375	-23.644517	-46.6418739	(amenity) (bank)	Caixa Econômica Federal
+26376	-23.6377051	-46.641889	(amenity) (bank)	Caixa Econômica Federal
+26378	-23.6423638	-46.6415376	(amenity) (bank)	Banco do Brasil
+26380	-23.6484155	-46.645518	(amenity) (bank)	Itaú
+26506	-23.5582811	-46.6623155	(amenity) (bank)	Santander
+26535	-23.578916	-46.6614725	(amenity) (bank)	Santander
+26536	-23.5764795	-46.6640919	(amenity) (bank)	Santander
+26549	-23.5789817	-46.6816815	(amenity) (bank)	Caixa Econômica Federal
+26582	-23.538168	-46.7763339	(amenity) (bank)	Caixa Econômica Federal
+26612	-23.5247855	-46.5061564	(amenity) (bank)	Bradesco
+26622	-23.6732975	-46.6651723	(amenity) (bank)	Bradesco
+26695	-23.5414885	-46.594182	(amenity) (bank)	Caixa Econômica Federal
+26757	-23.5418498	-46.5935734	(amenity) (bank)	Itaú
+26758	-23.541994	-46.5935134	(amenity) (bank)	Banco do Brasil
+26815	-23.5715005	-46.6221956	(amenity) (bank)	Itaú
+26846	-23.5618743	-46.6222115	(amenity) (bank)	Santander
+26860	-23.5791291	-46.6243866	(amenity) (bank)	Itaú
+26862	-23.5649281	-46.6210365	(amenity) (bank)	Bradesco
+26867	-23.5828328	-46.6278691	(amenity) (bank)	Bradesco
+26875	-23.588865	-46.6333917	(amenity) (bank)	Itaú
+26892	-23.5719766	-46.705807	(amenity) (bank)	Banco Santander
+26895	-23.5715935	-46.7066039	(amenity) (bank)	Banco Bradesco
+27000	-23.600738	-46.6369095	(amenity) (bank)	Itaú
+27171	-23.5902788	-46.6354054	(amenity) (bank)	Santander
+27172	-23.5877433	-46.635736	(amenity) (bank)	Caixa Econômica Federal
+27173	-23.5866789	-46.6361544	(amenity) (bank)	Bradesco
+27174	-23.5783072	-46.6400752	(amenity) (bank)	Santander
+27175	-23.5785223	-46.6399073	(amenity) (bank)	Bradesco
+27176	-23.5837027	-46.6374041	(amenity) (bank)	Santander
+27177	-23.5845926	-46.6370742	(amenity) (bank)	Bradesco
+27178	-23.5846971	-46.6369911	(amenity) (bank)	Itaú
+27207	-23.6210587	-46.6394643	(amenity) (bank)	Bradesco
+27314	-23.5528792	-46.6193868	(amenity) (bank)	Bradesco
+27315	-23.5525564	-46.6212897	(amenity) (bank)	Itaú
+27327	-23.5332043	-47.1367709	(amenity) (bank)	Itaú
+27362	-23.6358554	-46.6576549	(amenity) (bank)	Caixa Econômica Federal
+27364	-23.6373605	-46.658139	(amenity) (bank)	Itaú
+27394	-23.5637614	-46.6193156	(amenity) (bank)	Caixa Econômica Federal
+27453	-23.5631129	-46.6391497	(amenity) (bank)	Caixa Econômica Federal
+27560	-23.5643732	-46.679285	(amenity) (bank)	Banco Itaú
+27603	-23.5652221	-46.6804033	(amenity) (bank)	Banco Santander
+27770	-23.5235701	-46.6600535	(amenity) (bank)	Banco Bradesco
+27772	-23.567851	-46.6919708	(amenity) (bank)	Banco do Brasil
+27802	-23.5466938	-46.6571534	(amenity) (bank)	Bradesco
+27892	-23.5727103	-46.6624881	(amenity) (bank)	Itaú Personnalité
+27896	-23.5709832	-46.6606767	(amenity) (bank)	Santander
+27936	-23.5455416	-46.5743718	(amenity) (bank)	Banco do Brasil
+27937	-23.5456876	-46.5743346	(amenity) (bank)	Citibank
+27963	-23.5271736	-46.5666302	(amenity) (bank)	Caixa
+28005	-23.5649979	-46.6900552	(amenity) (bank)	Banco Santander
+28061	-23.6236188	-46.6831128	(amenity) (bank)	Caixa Econômica Federal
+28069	-23.623417	-46.6828755	(amenity) (bank)	Banco do Brasil
+28070	-23.6235229	-46.6830039	(amenity) (bank)	Bradesco
+28072	-23.6233716	-46.6843415	(amenity) (bank)	Banco Itaú
+28564	-23.5229288	-46.514147	(amenity) (bank)	Itaú
+28570	-23.4912884	-46.4464855	(amenity) (bank)	Caixa Econômica Federal
+28571	-23.4923893	-46.4450735	(amenity) (bank)	Bradesco
+28572	-23.4925529	-46.4442421	(amenity) (bank)	Itaú
+28655	-23.4282652	-46.5372592	(amenity) (bank)	Bradesco
+29251	-23.6619926	-46.5330407	(amenity) (bank)	Itaú
+29259	-23.6763267	-46.5373188	(amenity) (bank)	Sicredi
+29699	-23.6640267	-46.5332365	(amenity) (bank)	Itaú
+29730	-23.6683209	-46.5602008	(amenity) (bank)	Bradesco
+29773	-23.6152686	-46.601425	(amenity) (bank)	Caixa
+29774	-23.6144453	-46.6012439	(amenity) (bank)	Banco do Brasil
+30060	-23.5623165	-46.6628135	(amenity) (bank)	Banco Itaú Personalite
+30087	-23.5612106	-46.6645284	(amenity) (bank)	Itaú
+30088	-23.5611406	-46.6646075	(amenity) (bank)	Bradesco
+30144	-23.5642895	-46.6648723	(amenity) (bank)	Bradesco
+30152	-23.5624198	-46.6631609	(amenity) (bank)	Santander
+30222	-23.5599016	-46.6957873	(amenity) (bank)	Citibank
+30285	-23.5058379	-46.6728962	(amenity) (bank)	Banco Santander
+30292	-23.4911988	-46.6762044	(amenity) (bank)	Banco do Brasil
+30293	-23.4910353	-46.6760563	(amenity) (bank)	Banco Santander
+30311	-23.6343995	-46.6428274	(amenity) (bank)	Santander
+30344	-23.5560936	-46.6748865	(amenity) (bank)	Caixa Econômica Federal
+30346	-23.5590936	-46.6727966	(amenity) (bank)	Banco Santander
+30357	-23.4922053	-46.6769922	(amenity) (bank)	Itaú
+30371	-23.5063036	-46.6028809	(amenity) (bank)	Caixa Econômica Federal
+30372	-23.6261889	-46.6453473	(amenity) (bank)	Santander
+30373	-23.5922595	-46.8324143	(amenity) (bank)	Santander
+30384	-23.628703	-46.644278	(amenity) (bank)	Banco do Brasil
+30465	-23.5236625	-46.1964733	(amenity) (bank)	Bradesco
+30495	-23.5571335	-46.6766446	(amenity) (bank)	Bradesco
+30503	-23.5575992	-46.6777081	(amenity) (bank)	Santander
+30560	-23.5878868	-46.7512845	(amenity) (bank)	Bradesco
+30561	-23.5883441	-46.7505469	(amenity) (bank)	Banco Itaú
+30562	-23.5884866	-46.7505067	(amenity) (bank)	Caixa Econômica Federal
+30582	-23.557606	-46.6774324	(amenity) (bank)	Itaú
+30583	-23.6116843	-46.6514039	(amenity) (bank)	Santander
+30584	-23.6197891	-46.6480079	(amenity) (bank)	Banco do Brasil
+30596	-23.6154966	-46.6177206	(amenity) (bank)	Itaú
+30597	-23.615989	-46.6178049	(amenity) (bank)	Santander
+30602	-23.6159768	-46.6174189	(amenity) (bank)	Bradesco
+30604	-23.6130555	-46.6177897	(amenity) (bank)	Banco do Brasil
+30605	-23.6143617	-46.6174162	(amenity) (bank)	Caixa Econômica Federal
+30606	-23.6144169	-46.6169984	(amenity) (bank)	Santander
+30617	-23.5580789	-46.6785093	(amenity) (bank)	Banco do Brasil
+30695	-23.6021895	-46.6946634	(amenity) (bank)	Itau
+30727	-23.3351441	-46.8360371	(amenity) (bank)	Caixa Econômica Federal
+30807	-23.4280557	-46.4338472	(amenity) (bank)	Bradesco
+30833	-23.3088002	-45.9767583	(amenity) (bank)	Caixa Econômica Federal
+30842	-23.3099374	-45.9790989	(amenity) (bank)	Bradesco
+30846	-23.3054477	-45.9702146	(amenity) (bank)	Banco do Brasil
+30849	-23.3054543	-45.974902	(amenity) (bank)	Santander
+30850	-23.4568614	-46.5660426	(amenity) (bank)	Caixa
+31041	-23.1972983	-45.8871369	(amenity) (bank)	Bradesco
+31071	-23.5449682	-46.4096631	(amenity) (bank)	Itaú
+31075	-23.5451189	-46.4100467	(amenity) (bank)	Bradesco
+31122	-23.4937522	-46.440937	(amenity) (bank)	Banco Itaú
+31134	-23.5208172	-46.7038142	(amenity) (bank)	Itaú
+31189	-23.5654841	-46.6900697	(amenity) (bank)	Bradesco
+31209	-23.5624767	-46.6858502	(amenity) (bank)	Itaú
+31267	-23.563435	-46.6863727	(amenity) (bank)	Bradesco
+31288	-23.5651061	-46.6918219	(amenity) (bank)	Itaú
+31289	-23.5648525	-46.6920016	(amenity) (bank)	Santander
+31311	-23.5280704	-46.4996911	(amenity) (bank)	Banco do Brasil
+31313	-23.6331142	-46.705508	(amenity) (bank)	Itaú Personnalité
+31372	-23.5469073	-46.6460716	(amenity) (bank)	Banco Santander
+31662	-23.4924668	-46.610913	(amenity) (bank)	Caixa Econômica Federal
+31711	-23.4971121	-46.848995	(amenity) (bank)	Santander
+31779	-23.634143	-46.7372209	(amenity) (bank)	Caixa Econômica Federal
+31780	-23.6345312	-46.737237	(amenity) (bank)	banco bradesco
+31783	-23.633622	-46.7372129	(amenity) (bank)	Crefisa
+31784	-23.633423	-46.7372102	(amenity) (bank)	Itau
+31920	-23.571332	-46.6630575	(amenity) (bank)	Santander
+31921	-23.565252	-46.6704149	(amenity) (bank)	Bradesco
+33010	-23.5247011	-46.199584	(amenity) (bank)	Caixa Econômica Federal
+33011	-23.5246955	-46.1994275	(amenity) (bank)	Banco Mercantil
+33012	-23.5246526	-46.199149	(amenity) (bank)	Itaú
+33013	-23.5246228	-46.1988522	(amenity) (bank)	Banco do Brasil
+33014	-23.5253554	-46.2008414	(amenity) (bank)	Banco Santander
+33016	-23.524313	-46.1954186	(amenity) (bank)	Banco Santander
+33025	-23.5244985	-46.1963311	(amenity) (bank)	Banco Santander
+33026	-23.5243274	-46.1971938	(amenity) (bank)	Itaú
+33027	-23.5246741	-46.197084	(amenity) (bank)	Safra
+33053	-23.5236006	-46.3437102	(amenity) (bank)	Itaú
+33067	-23.5215369	-46.3436871	(amenity) (bank)	Banco do Brasil
+33070	-23.5204676	-46.3428938	(amenity) (bank)	Santander
+33132	-23.5313664	-46.6327623	(amenity) (bank)	Banco do Brasil
+33188	-23.5495328	-46.9399999	(amenity) (bank)	Bradesco
+33211	-23.4786692	-46.5827475	(amenity) (bank)	Caixa Econômica Federal
+33248	-23.5730902	-46.0400262	(amenity) (bank)	Banco do Brasil
+33249	-23.5726509	-46.0403324	(amenity) (bank)	Bradesco
+33251	-23.5721184	-46.0401241	(amenity) (bank)	Caixa Econômica Federal
+33267	-23.4729853	-46.6669234	(amenity) (bank)	Itaú
+33449	-23.4767787	-46.5734873	(amenity) (bank)	Caixa Econômica Federal
+33467	-23.5689448	-46.6970901	(amenity) (bank)	Itaú
+33469	-23.5691786	-46.6971472	(amenity) (bank)	Bradesco
+33502	-23.6334081	-46.6916102	(amenity) (bank)	Itaú
+33579	-23.1805536	-45.8876696	(amenity) (bank)	Caixa Econômica Federal
+33859	-23.3286393	-46.7252658	(amenity) (bank)	Banco do Brasil
+33868	-23.4855744	-46.6285089	(amenity) (bank)	Banco Santander
+33914	-23.4454359	-46.5476111	(amenity) (bank)	Bradesco
+33982	-23.6264561	-46.6063563	(amenity) (bank)	Bradesco
+33983	-23.626611	-46.6063563	(amenity) (bank)	Banco do Brasil
+33994	-23.5036878	-46.6381284	(amenity) (bank)	Citibank
+34001	-23.5936484	-46.4885196	(amenity) (bank)	Itaú
+34007	-23.598365	-46.4859575	(amenity) (bank)	Bradesco
+34042	-23.6103474	-46.4770124	(amenity) (bank)	Santander
+34075	-23.5551023	-46.6352324	(amenity) (bank)	Bradesco
+34107	-23.4766106	-46.5728079	(amenity) (bank)	Itaú
+34233	-23.553171	-46.6346863	(amenity) (bank)	Caixa Econômica Federal
+34234	-23.55369	-46.6349425	(amenity) (bank)	Itaú
+34236	-23.5543031	-46.635235	(amenity) (bank)	Santander
+34417	-23.6306358	-46.7031013	(amenity) (bank)	Santander
+34552	-23.6349765	-46.5139126	(amenity) (bank)	Caixa Econômica Federal
+34808	-23.699433	-46.6111145	(amenity) (bank)	Santander
+35075	-23.5636475	-46.6765004	(amenity) (bank)	Banco do Brasil
+35078	-23.5710743	-46.6902494	(amenity) (bank)	Itaú
+35079	-23.5712871	-46.6902685	(amenity) (bank)	Banco Safra
+35087	-23.5720959	-46.6904863	(amenity) (bank)	Itaú
+35088	-23.572236	-46.6903995	(amenity) (bank)	Bradesco
+35091	-23.5686195	-46.6858406	(amenity) (bank)	Bradesco
+35251	-23.5570795	-46.6555931	(amenity) (bank)	Itaú
+35517	-23.590779	-46.581321	(amenity) (bank)
+35586	-23.5645779	-46.671864	(amenity) (bank)	Banco do Brasil Estilo
+35611	-23.5649837	-46.6712892	(amenity) (bank)	Santander
+35686	-23.6506838	-46.5389696	(amenity) (bank)
+35714	-23.6344576	-46.5319422	(amenity) (bank)
+35752	-23.6472414	-46.537227	(amenity) (bank)	Bradesco
+35793	-23.6035815	-46.6918393	(amenity) (bank)	Itaú
+35866	-23.665628	-46.5691437	(amenity) (bank)	Caixa Econômica Federal
+35881	-23.5907158	-46.6809974	(amenity) (bank)	Banco Santander
+36244	-23.4856122	-46.691692	(amenity) (bank)	Itaú
+36245	-23.484448	-46.6915512	(amenity) (bank)	Banco do Brasil
+36298	-23.61538	-46.7405957	(amenity) (bank)	Itaú
+37178	-23.5731542	-46.6896402	(amenity) (bank)	Citibank
+37302	-23.5748427	-46.6886438	(amenity) (bank)	Santander
+37303	-23.5749364	-46.6885875	(amenity) (bank)	Bradesco
+37337	-23.549246	-46.659569	(amenity) (bank)	Bradesco
+37351	-23.505884	-46.6042808	(amenity) (bank)	Santander
+37352	-23.5052958	-46.6046054	(amenity) (bank)	Banco Itaú
+37362	-23.5142232	-46.6075134	(amenity) (bank)	Banco Itaú
+37622	-23.5335881	-46.5654925	(amenity) (bank)	Banco Itaú
+37721	-23.6649342	-46.460471	(amenity) (bank)	Bradesco
+37936	-23.5439736	-46.64855	(amenity) (bank)	Itaú
+38034	-23.5738628	-46.6886944	(amenity) (bank)	Santander
+38116	-23.6225509	-46.7015136	(amenity) (bank)	Bradesco
+38257	-23.6813508	-46.6826654	(amenity) (bank)	3160
+38324	-23.6698052	-46.5888764	(amenity) (bank)	Caixa Econômica Federal
+38346	-23.6688412	-46.5884368	(amenity) (bank)	Santander
+38406	-23.5539458	-46.6623786	(amenity) (bank)	Bradesco
+38590	-23.5860553	-46.7376078	(amenity) (bank)	Bradesco
+38600	-23.5836712	-46.6046049	(amenity) (bank)	Caixa Econômica Federal
+38643	-23.6582754	-46.5256639	(amenity) (bank)	Santander
+38644	-23.6583473	-46.5261506	(amenity) (bank)	Caixa Econômica Federal
+38645	-23.6704222	-46.5136621	(amenity) (bank)	Caixa Econômica Federal
+38646	-23.6695628	-46.5140948	(amenity) (bank)	Santander
+39090	-23.5457339	-46.5581433	(amenity) (bank)	Bradesco
+39116	-23.5602179	-46.6519426	(amenity) (bank)	Itau
+39152	-23.6922067	-46.5851212	(amenity) (bank)	Sicredi
+39294	-23.7049595	-46.7028063	(amenity) (bank)	Banco do Brasil
+39465	-23.5473623	-46.5723776	(amenity) (bank)	Banco Safra
+39545	-23.5235475	-46.6601478	(amenity) (bank)	Bradesco
+39563	-23.521385	-46.6687276	(amenity) (bank)	Itau
+39830	-23.6605212	-46.5319748	(amenity) (bank)	BB Estilo
+39899	-23.660497	-46.5257925	(amenity) (bank)	Banco do Brasil
+39902	-23.6608291	-46.5255765	(amenity) (bank)	Itaú
+40307	-24.2627592	-46.9586325	(amenity) (bank)
+40536	-23.8401546	-46.1334075	(amenity) (bank)	Banco do Brasil
+41324	-23.4945584	-46.6455337	(amenity) (bank)	Banco itau
+41330	-23.5736637	-46.5872787	(amenity) (bank)	Banco do Brasil
+41460	-23.5891105	-46.6102398	(amenity) (bank)	Banco do Brasil
+41885	-23.5927337	-46.8376284	(amenity) (bank)	Bradesco
+41989	-23.5513834	-46.5306723	(amenity) (bank)	CAIXA
+42072	-23.4320069	-46.4383569	(amenity) (bank)	Santander
+42697	-23.5593302	-46.697502	(amenity) (bank)	Banco do Brasil
+42698	-23.5592121	-46.6977941	(amenity) (bank)	Bradesco
+42925	-23.23157	-45.9007631	(amenity) (bank)	Bradesco
+42943	-23.222675	-45.888109	(amenity) (bank)	Itaú
+43018	-23.6479619	-46.5961695	(amenity) (bank)	Caixa Econômica Federal
+43152	-23.3057441	-45.9694896	(amenity) (bank)	Itaú
+51166	-23.4631923	-46.5275891	(amenity) (bank)	Santander
+70441	-23.55982955	-46.6574272	(amenity) (bank)	Banco Central do Brasil
+73042	-23.491049250000003	-46.608345150000005	(amenity) (bank)	Banco Bradesco
+73055	-23.63793515	-46.6952067	(amenity) (bank)	Itaú Personnalité Alto da Boa Vista
+74790	-23.6404581	-46.69725195	(amenity) (bank)	Estilo
+75120	-23.63687695	-46.69530115	(amenity) (bank)	BB Borba Gato
+75121	-23.6367352	-46.695671250000004	(amenity) (bank)	BB Estilo Alto da Boa Vista
+75122	-23.63666835	-46.695425150000005	(amenity) (bank)	Caixa Borba Gato
+75131	-23.636242799999998	-46.69423845	(amenity) (bank)	Itaú Nova Adolfo Pinheiro
+75142	-23.636573300000002	-46.6950965	(amenity) (bank)	Santander Adolfo Pinheiro
+75143	-23.635988249999997	-46.694665650000005	(amenity) (bank)	Santander Américo Brasiliense
+75146	-23.63616775	-46.6947978	(amenity) (bank)	Bradesco
+86901	-23.590401800000002	-46.76839455	(amenity) (bank)	Caixa Econômica Federal
+87347	-23.5594672	-46.72722975	(amenity) (bank)	Santander
+87348	-23.56003715	-46.726888200000005	(amenity) (bank)	Banco do Brasil Agência Estilo
+87349	-23.56019315	-46.726518	(amenity) (bank)	Banco Santander Agência Select
+87350	-23.5597648	-46.727383450000005	(amenity) (bank)	Itaú
+87351	-23.5596892	-46.7275586	(amenity) (bank)	Santander
+87352	-23.559985	-46.7262386	(amenity) (bank)	Banco do Brasil
+87353	-23.55965375	-46.72676595	(amenity) (bank)	Banco do Brasil
+122649	-23.7019335	-46.552034	(amenity) (bank)	Bradesco
+122667	-23.7097786	-46.5511068	(amenity) (bank)	Bradesco
+122767	-23.6610995	-46.52473535	(amenity) (bank)	Santander
+122775	-23.661391350000002	-46.52520235	(amenity) (bank)	Itaú
+122794	-23.662046750000002	-46.5244776	(amenity) (bank)	Bradesco
+123605	-23.632517399999998	-46.5312106	(amenity) (bank)	Banco do Brasil
+123606	-23.63316855	-46.5311712	(amenity) (bank)	Bradesco
+124196	-23.4771699	-46.60997855	(amenity) (bank)	Santander
+124211	-23.4800036	-46.60696514999999	(amenity) (bank)	Bradesco
+124332	-23.515992349999998	-46.567723650000005	(amenity) (bank)	Bradesco
+124494	-23.6082733	-46.6616829	(amenity) (bank)	Bradesco
+124496	-23.6053712	-46.6596094	(amenity) (bank)	HSBC Premier
+124497	-23.60235995	-46.615849100000005	(amenity) (bank)	Bradesco
+124510	-23.6228284	-46.66202855	(amenity) (bank)	Caixa
+124511	-23.60816565	-46.66226025	(amenity) (bank)	Santander
+124515	-23.62469295	-46.66202135	(amenity) (bank)	Bradesco
+124518	-23.60624755	-46.660369	(amenity) (bank)	Itaú
+124533	-23.612407949999998	-46.66567505	(amenity) (bank)	Bradesco
+124622	-23.5966665	-46.6502962	(amenity) (bank)	Itaú
+124628	-23.5971203	-46.6440839	(amenity) (bank)	Santander
+124630	-23.620986350000003	-46.680912899999996	(amenity) (bank)	Bradesco
+124633	-23.6241667	-46.68613565	(amenity) (bank)	Itaú
+124637	-23.6231967	-46.68546655	(amenity) (bank)	Bradesco
+124703	-23.541989549999997	-46.640382900000006	(amenity) (bank)	Citibank
+124829	-23.5845016	-46.63758945	(amenity) (bank)	Banco do Brasil
+124833	-23.5829757	-46.638385650000004	(amenity) (bank)	Bradesco
+124838	-23.572014850000002	-46.6428996	(amenity) (bank)	HSBC
+124844	-23.5763806	-46.65779135	(amenity) (bank)	Itaú
+124871	-23.5835606	-46.6714884	(amenity) (bank)	Santander
+124874	-23.584611	-46.6759137	(amenity) (bank)	Banco do Brasil
+124876	-23.584178700000002	-46.674489300000005	(amenity) (bank)	Caixa Econômica Federal
+124877	-23.585549649999997	-46.6771057	(amenity) (bank)	Santander
+124883	-23.5839959	-46.673814899999996	(amenity) (bank)	Itaú
+124886	-23.58510335	-46.67719735	(amenity) (bank)	Itaú
+141061	-23.4818034	-46.603617549999996	(amenity) (bank)	Caixa Econômica Federal
+147638	-23.31813515	-46.5866183	(amenity) (bank)	Banco do Brasil
+147640	-23.319457	-46.586254100000005	(amenity) (bank)	Santander
+147641	-23.318732599999997	-46.585312	(amenity) (bank)	Bradesco
+147642	-23.318011499999997	-46.586053050000004	(amenity) (bank)	Itaú
+147719	-24.1840647	-46.7873449	(amenity) (bank)	Caixa Econômica Federal - Agência 0742
+147727	-24.184375449999997	-46.7878465	(amenity) (bank)	Banco do Brasil - Agência 0932
+148034	-23.3179528	-46.58561285	(amenity) (bank)	Banco do Brasil
+148035	-23.3179819	-46.5857458	(amenity) (bank)	Caixa Econômica Federal
+149682	-23.182966450000002	-45.88720485	(amenity) (bank)	Bradesco
+150319	-23.188722300000002	-45.87540835	(amenity) (bank)	Itaú
+151923	-23.53348835	-46.66533565	(amenity) (bank)	Itaú
+153049	-23.542618349999998	-46.41829865	(amenity) (bank)	Caixa Econômica Federal
+154527	-23.661874	-46.692767200000006	(amenity) (bank)	Caixa Econômica Federal
+156186	-23.72383825	-46.5754521	(amenity) (bank)	Caixa Econômica Federal
+157661	-23.69166375	-46.5818196	(amenity) (bank)	Caixa Econômica Federal
+157752	-23.691575399999998	-46.583398450000004	(amenity) (bank)	Bradesco
+157956	-23.692383049999997	-46.581389200000004	(amenity) (bank)	Itaú
+157959	-23.6852233	-46.558896000000004	(amenity) (bank)	Banco do Brasil
+157960	-23.68513745	-46.55943165	(amenity) (bank)	Caixa Econômica Federal
+157964	-23.6841749	-46.55883805	(amenity) (bank)	Itaú
+159665	-23.5438794	-46.41436975	(amenity) (bank)	Santander
+160613	-23.49547095	-46.4968402	(amenity) (bank)	Banco Bradesco
+160845	-23.569517750000003	-46.6512332	(amenity) (bank)	Caixa Econômica Federal
+160850	-23.6922477	-46.58434195	(amenity) (bank)	Banco do Brasil
+160851	-23.6921732	-46.5841558	(amenity) (bank)	Santander
+160854	-23.7132292	-46.5504496	(amenity) (bank)	Itaú
+161092	-23.69238125	-46.581921300000005	(amenity) (bank)	Bradesco
+161204	-23.69138285	-46.581556750000004	(amenity) (bank)	Itaú
+161243	-23.707970449999998	-46.551213849999996	(amenity) (bank)	Santander
+161377	-23.6982512	-46.5538188	(amenity) (bank)	Banco do Brasil
+161685	-23.5718216	-46.70775075	(amenity) (bank)	Bradesco
+161932	-23.6947844	-46.56816515	(amenity) (bank)	Santander
+162660	-23.6867858	-46.61997445	(amenity) (bank)	Santander
+162673	-23.703173200000002	-46.551354849999996	(amenity) (bank)	Santander
+162674	-23.70208715	-46.551982499999994	(amenity) (bank)	Santander
+162676	-23.70760215	-46.55085385	(amenity) (bank)	Banco do Brasil
+162677	-23.7008051	-46.551574349999996	(amenity) (bank)	Bradesco
+162746	-23.693324349999997	-46.567582900000005	(amenity) (bank)	Caixa Econômica Federal
+162747	-23.6932166	-46.56755605	(amenity) (bank)	Bradesco
+162748	-23.6931079	-46.56753655	(amenity) (bank)	Itaú
+163268	-23.6028675	-46.61415715	(amenity) (bank)	Caixa Econômica Federal
+163269	-23.6028452	-46.6144612	(amenity) (bank)	Banco do Brasil
+163420	-23.70509605	-46.551536999999996	(amenity) (bank)	Santander
+163638	-23.6903221	-46.55863755	(amenity) (bank)	Santander
+163653	-23.69614255	-46.50567345	(amenity) (bank)	Caixa Econômica Federal
+164094	-23.1887007	-45.885493499999995	(amenity) (bank)	Santander
+164785	-23.7049434	-46.551194499999994	(amenity) (bank)	Banco do Brasil
+164792	-23.712193050000003	-46.5500718	(amenity) (bank)	Caixa Econômica Federal
+165016	-23.6095691	-46.6002603	(amenity) (bank)	Bradesco
+165021	-23.61936095	-46.60138595	(amenity) (bank)	Santander
+165073	-23.5951549	-46.6690725	(amenity) (bank)	Itaú
+165099	-23.6857334	-46.625369199999994	(amenity) (bank)	Itaú
+165248	-23.7234616	-46.573848049999995	(amenity) (bank)	Santander
+165249	-23.72308725	-46.57459375	(amenity) (bank)	Itaú
+165790	-23.52992115	-46.676356350000006	(amenity) (bank)	Banco do Brasil
+166079	-23.2219895	-45.8887206	(amenity) (bank)	Caixa Econômica Federal
+166103	-23.70042985	-46.55281575	(amenity) (bank)	Caixa Econômica Federal
+166104	-23.57499275	-46.70651825	(amenity) (bank)	Santander
+166124	-23.660900050000002	-46.5658977	(amenity) (bank)	Itaú
+166579	-23.6458393	-46.64006585	(amenity) (bank)	Bradesco
+166581	-23.6460912	-46.639534600000005	(amenity) (bank)	Itaú
+166587	-23.68628335	-46.62013585	(amenity) (bank)	Santander
+166735	-23.6478227	-46.851468	(amenity) (bank)	Caixa Econômica Federal
+166738	-23.65094815	-46.85272075	(amenity) (bank)	Bradesco
+166894	-23.68640155	-46.55969245	(amenity) (bank)	Bradesco
+166895	-23.68679185	-46.559875149999996	(amenity) (bank)	Itaú
+166933	-23.18840315	-45.8852094	(amenity) (bank)	HSBC
+166935	-23.187902899999997	-45.885781449999996	(amenity) (bank)	Itaú
+166936	-23.18761975	-45.8857449	(amenity) (bank)	Banco do Brasil
+166937	-23.1873317	-45.885772849999995	(amenity) (bank)	Banco do Brasil
+166939	-23.1866296	-45.88664125	(amenity) (bank)	Caixa Econômica Federal
+166940	-23.18330605	-45.887478900000005	(amenity) (bank)	Santander
+166959	-23.7216028	-46.56534485	(amenity) (bank)	Banco do Brasil
+167201	-23.69619135	-46.55302495	(amenity) (bank)	Santander
+167228	-23.4586253	-46.5301606	(amenity) (bank)	Banco do Brasil
+167558	-23.449393	-46.53704585	(amenity) (bank)	Caixa Econômica Federal
+167748	-23.68656835	-46.61909085	(amenity) (bank)	Caixa Econômica Federal
+167752	-23.686908600000002	-46.621447200000006	(amenity) (bank)	Itaú Personnalite
+168134	-23.55799025	-46.65969440000001	(amenity) (bank)	Banco Safra
+168404	-23.7024297	-46.551863299999994	(amenity) (bank)	Banco Safra
+168552	-23.1897715	-45.8860457	(amenity) (bank)	Itaú
+169503	-23.19928555	-45.89234345	(amenity) (bank)	Itaú
+169607	-23.19457035	-45.89363735	(amenity) (bank)	Caixa Econômica Federal
+169692	-23.7039751	-46.5511788	(amenity) (bank)	Bradesco
+170652	-23.511913749999998	-46.87611795	(amenity) (bank)	Santander
+170768	-23.51155115	-46.87614445	(amenity) (bank)	Bradesco
+170770	-23.51153175	-46.87784645	(amenity) (bank)	Itaú
+170797	-23.6712811	-46.53911965	(amenity) (bank)	Banco Santander
+171001	-23.64575535	-46.53815365	(amenity) (bank)	Banco do Brasil
+171002	-23.655762799999998	-46.52532995	(amenity) (bank)	Banco do Brasil
+171003	-23.649604850000003	-46.5358205	(amenity) (bank)	Banco do Brasil
+171004	-23.6608446	-46.5264816	(amenity) (bank)	Bradesco
+171005	-23.67062795	-46.514009099999996	(amenity) (bank)	Bradesco
+171006	-23.66504265	-46.49039305	(amenity) (bank)	Bradesco
+171007	-23.6482958	-46.53664515	(amenity) (bank)	Bradesco
+171008	-23.69334355	-46.5061477	(amenity) (bank)	Bradesco
+171009	-23.630569649999998	-46.51432455	(amenity) (bank)	Bradesco
+171010	-23.63985125	-46.5418184	(amenity) (bank)	Bradesco
+171023	-23.61648035	-46.67483835	(amenity) (bank)	Bradesco
+172066	-23.6966093	-46.5535222	(amenity) (bank)	Itaú
+172072	-23.65624845	-46.57111285	(amenity) (bank)	Santander
+172074	-23.65365395	-46.572857150000004	(amenity) (bank)	Bradesco
+173265	-23.6246679	-46.6833163	(amenity) (bank)	Banco do Brasil
+173318	-23.6721627	-46.74161895	(amenity) (bank)	Itaú
+173400	-23.695833399999998	-46.5531173	(amenity) (bank)	Bradesco
+173557	-23.18755245	-45.88431405	(amenity) (bank)	Bradesco
+173945	-23.520252900000003	-46.6745945	(amenity) (bank)	Banco Itaú
+174606	-23.68610375	-46.6226835	(amenity) (bank)	Itaú
+175978	-23.6693131	-46.589030449999996	(amenity) (bank)	Bradesco
+177427	-23.624831450000002	-46.619897449999996	(amenity) (bank)	Banco Bradesco
+177522	-23.53551355	-46.6286912	(amenity) (bank)	Banco Itaú
+179393	-23.6923412	-46.50634595	(amenity) (bank)	Banco do Brasil
+179587	-23.776997549999997	-46.5313094	(amenity) (bank)	Caixa Econômica Federal
+179811	-23.2039796	-46.8926065	(amenity) (bank)	Cef
+181746	-23.6856032	-46.55900265	(amenity) (bank)	Itaú
+181865	-23.60671285	-46.66083895	(amenity) (bank)	Banco Itaú
+182516	-23.611381700000003	-46.600590800000006	(amenity) (bank)	Itaú
+182798	-23.58432715	-46.716824599999995	(amenity) (bank)	Banco do Brasil
+183176	-23.1938727	-45.8946876	(amenity) (bank)	Caixa Econômica Federal
+184464	-23.4666596	-46.584186700000004	(amenity) (bank)	Banco Itaú
+184491	-23.65596735	-46.694551950000005	(amenity) (bank)	Banco Itaú
+185198	-23.4954628	-46.43272655	(amenity) (bank)	Banco Itaú
+186342	-23.549325449999998	-46.65988145	(amenity) (bank)	Itaú
+186409	-23.54165	-46.65638685	(amenity) (bank)	Caixa Econômica Federal
+186632	-23.686251849999998	-46.6222133	(amenity) (bank)	Bradesco
+188139	-23.65192175	-46.68146385	(amenity) (bank)	Bradesco
+188140	-23.6521392	-46.68098235	(amenity) (bank)	Caixa Econômica Federal
+188141	-23.6522645	-46.680859	(amenity) (bank)	Banco do Brasil
+188142	-23.652443849999997	-46.6806337	(amenity) (bank)	Itaú
+188143	-23.652626849999997	-46.6812935	(amenity) (bank)	Banco do Brasil
+189587	-23.6675057	-46.731628549999996	(amenity) (bank)	Caixa Econômica Federal
+191068	-23.4914649	-46.69574825	(amenity) (bank)	Banco Santander
+191069	-23.491886700000002	-46.6955654	(amenity) (bank)	Itaú
+191090	-23.664861100000003	-46.679293	(amenity) (bank)	Bradesco
+191946	-23.48820675	-46.58301785	(amenity) (bank)	Banco Bradesco
+191973	-23.5598805	-46.72715775	(amenity) (bank)	Caixa Econômica Federal
+192361	-23.56011895	-46.72672335	(amenity) (bank)	Banco Bradesco Agência Prime
+192582	-23.573705699999998	-46.73482065	(amenity) (bank)	Banco Bradesco
+192770	-23.706916800000002	-46.55025765	(amenity) (bank)	Itaú
+193629	-23.19095565	-46.89746655	(amenity) (bank)	Itaú
+193785	-23.6079886	-46.75446995	(amenity) (bank)	Bradesco
+193786	-23.608179399999997	-46.754831499999995	(amenity) (bank)	Itaú
+193787	-23.6082826	-46.7550474	(amenity) (bank)	Banco Santander
+193793	-23.57302755	-46.725047399999994	(amenity) (bank)	Itau
+193881	-23.2016887	-46.89177545	(amenity) (bank)	Itaú
+194767	-23.56929535	-46.64861355	(amenity) (bank)	Banco Alfa
+195023	-23.5713737	-46.7090832	(amenity) (bank)	Caixa Econômica Federal
+195113	-23.1546597	-47.057606199999995	(amenity) (bank)	Santander
+195825	-23.55928875	-46.6670006	(amenity) (bank)	Banco Santander
+195932	-23.56822475	-46.66667305	(amenity) (bank)	Bradesco Prime
+195951	-23.561685500000003	-46.66788105	(amenity) (bank)	Itaú
+196433	-23.57557345	-46.74123835	(amenity) (bank)	Banco Itaú - Agência Jardim Bonfiglioli
+196610	-23.5590838	-46.6806809	(amenity) (bank)	Bradesco
+196899	-23.54868965	-46.65484515	(amenity) (bank)	Itaú
+196983	-23.548046749999997	-46.65924665	(amenity) (bank)	Santander
+197189	-23.674643850000002	-46.74730865	(amenity) (bank)	Banco do Brasil
+197289	-23.54200675	-46.6421395	(amenity) (bank)	Itaú
+197356	-23.53912555	-46.63989275	(amenity) (bank)	Santander
+197382	-23.5375204	-46.636116650000005	(amenity) (bank)	Bradesco
+197401	-23.54226755	-46.63970515	(amenity) (bank)	Santander
+197526	-23.52872385	-46.65688885	(amenity) (bank)	Caixa Econômica Federal
+197530	-23.533339599999998	-46.65561155	(amenity) (bank)	Bradesco
+197542	-23.529122049999998	-46.65792315	(amenity) (bank)	Banco Itaú
+197593	-23.5410198	-46.6504981	(amenity) (bank)	Santander
+198205	-23.5710546	-46.643541150000004	(amenity) (bank)	Safra
+199459	-23.52702605	-46.794358	(amenity) (bank)	Banco Itaú
+199460	-23.52693155	-46.79637525	(amenity) (bank)	Banco Bradesco
+199461	-23.526112599999998	-46.7991789	(amenity) (bank)	Banco Itaú
+199462	-23.5260398	-46.798832149999996	(amenity) (bank)	Caixa Econômica Federal
+199463	-23.5265513	-46.799323099999995	(amenity) (bank)	Banco Santander
+199464	-23.52992515	-46.777012	(amenity) (bank)	Banco Bradesco
+199465	-23.5301318	-46.7768437	(amenity) (bank)	Banco do Brasil
+201102	-23.58188605	-46.626777	(amenity) (bank)	Caixa Econômica Federal
+201976	-23.6931383	-46.56822845	(amenity) (bank)	Banco do Brasil
+202434	-23.71139565	-46.54990875	(amenity) (bank)	Banco do Brasil
+202526	-23.7074968	-46.55051645	(amenity) (bank)	Itaú Personalitte
+203232	-23.70489945	-46.5516711	(amenity) (bank)	Itaú
+204056	-23.46756305	-46.530509800000004	(amenity) (bank)	Santander
+204404	-23.6378063	-46.565007300000005	(amenity) (bank)	Santander
+205007	-23.5436744	-46.6250923	(amenity) (bank)	Bradesco
+205054	-23.5363518	-46.61672525	(amenity) (bank)	Bradesco
+205059	-23.53674005	-46.6165884	(amenity) (bank)	Itaú
+205228	-23.63599245	-46.564180750000006	(amenity) (bank)	HSBC
+205231	-23.6356376	-46.56458615	(amenity) (bank)	Bradesco
+205301	-23.60771525	-46.63808505	(amenity) (bank)	Banco do Brasil
+205341	-23.60787705	-46.638247050000004	(amenity) (bank)	Caixa
+205351	-23.61359005	-46.63765205	(amenity) (bank)	Banco Safra
+205359	-23.601728350000002	-46.64471915	(amenity) (bank)	Bradesco
+205386	-23.61461165	-46.63805265	(amenity) (bank)	Caixa Econômica Federal
+205388	-23.6149905	-46.6380452	(amenity) (bank)	Santander
+205411	-23.60787605	-46.637489200000005	(amenity) (bank)	Bradesco
+205424	-23.61153675	-46.63751395	(amenity) (bank)	Itaú
+205432	-23.61506085	-46.63880535	(amenity) (bank)	Banco do Brasil
+206032	-23.62975925	-46.56643315	(amenity) (bank)	Caixa Econômica Federal
+206033	-23.63375515	-46.5647404	(amenity) (bank)	Itaú
+206079	-23.6334953	-46.564439300000004	(amenity) (bank)	Itaú
+207613	-23.58933815	-46.67603615	(amenity) (bank)	Itaú
+207704	-23.559491700000002	-46.69740805	(amenity) (bank)	Itaú
+207734	-23.5575878	-46.690596400000004	(amenity) (bank)	Banco Santander
+207910	-23.564408800000002	-46.6906649	(amenity) (bank)	Caixa Econômica Federal
+207988	-23.5595719	-46.69711245	(amenity) (bank)	Bradesco
+207994	-23.55932045	-46.688928250000004	(amenity) (bank)	Itaú
+208014	-23.5797825	-46.68313265	(amenity) (bank)	Itaú
+208015	-23.56830385	-46.691751800000006	(amenity) (bank)	Bradesco
+208024	-23.5650046	-46.6909085	(amenity) (bank)	Santander
+208065	-23.5689674	-46.6916478	(amenity) (bank)	Itaú
+208100	-23.5561589	-46.69176455	(amenity) (bank)	Caixa Econômica Federal
+208102	-23.567997849999998	-46.6932018	(amenity) (bank)	Banco Santander
+208172	-23.555359950000003	-46.691609549999995	(amenity) (bank)	Itaú
+209127	-23.50275895	-46.1592044	(amenity) (bank)	Banco do Brasil
+209159	-23.50253025	-46.159965549999995	(amenity) (bank)	Caixa Econômica Federal
+209422	-23.58549765	-46.6768704	(amenity) (bank)	Itaú
+210503	-23.65201025	-46.53381315	(amenity) (bank)	Banco Itaú
+210504	-23.6521381	-46.53372205	(amenity) (bank)	Banco Itaú Personalitte
+210505	-23.6524345	-46.53363685	(amenity) (bank)	Banco Santander
+210518	-23.678083	-46.5381859	(amenity) (bank)	Caixa Econômica Federal
+211223	-23.7385636	-46.5532894	(amenity) (bank)	Banco Santander
+211224	-23.738502850000003	-46.55382385	(amenity) (bank)	Itaú
+211235	-23.7390303	-46.5532544	(amenity) (bank)	Bradesco
+211376	-23.56855935	-46.5090101	(amenity) (bank)	Banco do Brasil
+211377	-23.5698918	-46.508281249999996	(amenity) (bank)	Bradesco
+211378	-23.569720750000002	-46.50765165	(amenity) (bank)	Santander
+211379	-23.5699428	-46.50747115	(amenity) (bank)	Caixa Econômica Federal
+211483	-23.186977149999997	-46.8850132	(amenity) (bank)	Bradesco
+211484	-23.187321150000002	-46.88528265	(amenity) (bank)	Itaú
+211486	-23.18634495	-46.8847846	(amenity) (bank)	Banco Safra
+211933	-23.458810800000002	-46.41132455	(amenity) (bank)	Itaú
+212131	-23.5335838	-46.615278599999996	(amenity) (bank)	Banco Safra
+212134	-23.5284796	-46.61305965	(amenity) (bank)	Banco Santander
+212154	-23.5333146	-46.61479455	(amenity) (bank)	Itaú
+212196	-23.5405917	-46.5958225	(amenity) (bank)	Santander
+212201	-23.54107405	-46.5964565	(amenity) (bank)	Bradesco
+212222	-23.5390504	-46.6047085	(amenity) (bank)	Itaú
+212771	-23.57326055	-46.58728665	(amenity) (bank)	Bradesco
+214299	-23.495018	-46.4135345	(amenity) (bank)	Itaú
+214675	-23.46350235	-46.87278205	(amenity) (bank)	Banco Itaú
+215217	-23.63854015	-46.54251885	(amenity) (bank)	Itaú
+217057	-23.47731065	-46.68072995	(amenity) (bank)	Bradesco
+217076	-23.40965875	-46.83928515	(amenity) (bank)	Bradesco
+217077	-23.4101338	-46.84	(amenity) (bank)	Itaú
+217666	-23.96953265	-46.37460945	(amenity) (bank)	Banco Santander
+218153	-23.93294135	-46.329249149999995	(amenity) (bank)	Banco Santander
+218154	-23.9329276	-46.329429899999994	(amenity) (bank)	Bradesco
+221045	-23.72045525	-46.56291005	(amenity) (bank)	Bradesco
+222096	-23.329472799999998	-46.7276115	(amenity) (bank)	Bradesco
+222097	-23.3273544	-46.72632625	(amenity) (bank)	Banco do Brasil
+225184	-23.1340386	-46.46565085	(amenity) (bank)	Bradesco
+225191	-23.13591935	-46.466021	(amenity) (bank)	Caixa Econômica Federal
+225197	-23.13634975	-46.46384705	(amenity) (bank)	Santander
+226138	-23.602038399999998	-46.61522495	(amenity) (bank)	HSBC Bank Brasil SA
+228564	-23.3280053	-46.72494545	(amenity) (bank)	Banco do Brasil
+229160	-23.604609949999997	-46.67033405	(amenity) (bank)	Banco Santander
+229163	-23.5952146	-46.66874715	(amenity) (bank)	Bradesco Prime
+229166	-23.595515550000002	-46.6704188	(amenity) (bank)	Bradesco
+230314	-23.660492050000002	-46.52634825	(amenity) (bank)	Banco do Brasil
+233039	-23.5380878	-46.2247992	(amenity) (bank)	Bradesco
+233701	-23.6438408	-46.70066705	(amenity) (bank)	Caixa Econômica Federal
+233720	-23.64426975	-46.6998095	(amenity) (bank)	Santander
+233722	-23.6440278	-46.69964745	(amenity) (bank)	Itaú
+234935	-23.62755915	-46.618839550000004	(amenity) (bank)	Caixa Econômica Federal
+235075	-23.4151223	-46.45469355	(amenity) (bank)	Bradesco
+236303	-23.6156904	-46.7405608	(amenity) (bank)	Caixa Econômica Federal
+236735	-23.64526095	-46.70040465	(amenity) (bank)	Banco do Brasil
+237657	-23.63758775	-46.5649956	(amenity) (bank)	Banco do Brasil
+238609	-23.485168100000003	-46.352183749999995	(amenity) (bank)	Banco do Brasil
+239623	-23.688451399999998	-46.62575435	(amenity) (bank)	Itaú
+239880	-23.13305765	-46.5541077	(amenity) (bank)	Santander
+239881	-23.13319815	-46.5539019	(amenity) (bank)	Caixa Econômica Federal
+239882	-23.13332455	-46.5541325	(amenity) (bank)	Bradesco
+239884	-23.134045399999998	-46.5541587	(amenity) (bank)	Itaú
+240036	-23.6340918	-46.56428175	(amenity) (bank)	Santander
+240377	-23.66699775	-46.53589255	(amenity) (bank)	Banco do Brasil
+240378	-23.66689485	-46.5355503	(amenity) (bank)	Caixa
+241269	-23.5283034	-47.136489499999996	(amenity) (bank)	Nossa Caixa
+241644	-23.68071185	-46.688345049999995	(amenity) (bank)	Caixa Econômica Federal
+241883	-23.648749950000003	-46.702917400000004	(amenity) (bank)	Bradesco
+241884	-23.6489129	-46.702998	(amenity) (bank)	Itaú
+242146	-23.549342850000002	-46.2040247	(amenity) (bank)	Caixa Econômica Federal
+242452	-24.18275535	-46.78778775	(amenity) (bank)	Santander - Agencia 0346
+242857	-23.5212001	-46.182452	(amenity) (bank)	Banco do Brasil
+243191	-23.4658264	-46.466755500000005	(amenity) (bank)	Bradesco
+243193	-23.4651892	-46.4671659	(amenity) (bank)	Caixa Econômica Federal
+243198	-23.4618393	-46.46933045	(amenity) (bank)	Santander
+243199	-23.462982150000002	-46.46860085	(amenity) (bank)	Itaú
+243576	-23.3046576	-45.96677665	(amenity) (bank)	Santander
+243577	-23.30378415	-45.96740755	(amenity) (bank)	Banco do Brasil
+243578	-23.303085250000002	-45.96761145	(amenity) (bank)	Santander
+244010	-23.5000674	-46.624284200000005	(amenity) (bank)	Bradesco
+244039	-23.48350905	-46.631103949999996	(amenity) (bank)	Banco do Brasil
+244472	-23.70132615	-46.7147381	(amenity) (bank)	Itaú
+245115	-23.6429698	-46.69959835	(amenity) (bank)	Banco Safra
+245122	-23.6436782	-46.700035099999994	(amenity) (bank)	Bradesco Adolfo Pinheiro
+245211	-23.49796975	-46.5737124	(amenity) (bank)	Banco do Brasil
+245213	-23.49244505	-46.575226900000004	(amenity) (bank)	Bradesco
+245217	-23.49199955	-46.57507955	(amenity) (bank)	Caixa Econômica Federal
+245226	-23.4886957	-46.58344005	(amenity) (bank)	Banco Itau
+246737	-23.583397650000002	-46.5347534	(amenity) (bank)	Bradesco
+247182	-23.98374795	-46.238769899999994	(amenity) (bank)	Santander
+247737	-23.623812800000003	-46.54032455	(amenity) (bank)	Banco do Brasil
+247738	-23.6231209	-46.5371969	(amenity) (bank)	Bradesco
+247739	-23.62272155	-46.536808	(amenity) (bank)	Caixa Econômica Federal
+247956	-23.5036268	-46.8481443	(amenity) (bank)	Banco Daycoval
+248575	-23.23385485	-45.9029884	(amenity) (bank)	Caixa Econômica Federal
+248708	-23.4977276	-46.84792435	(amenity) (bank)	Bradesco
+248709	-23.49558455	-46.8482062	(amenity) (bank)	Itaú
+248883	-23.52443735	-46.195769850000005	(amenity) (bank)	Bradesco
+249917	-23.18550015	-45.88613875	(amenity) (bank)	Santander
+250007	-23.1984159	-45.8945597	(amenity) (bank)	Itaú Personalité
+252850	-23.493276899999998	-46.8496495	(amenity) (bank)	Itaú Personnalite
+253025	-23.4304572	-46.437674599999994	(amenity) (bank)	Itaú
+253027	-23.43012535	-46.4359419	(amenity) (bank)	Caixa Econômica Federal
+253761	-23.638257199999998	-46.6724198	(amenity) (bank)	Itaú
+253907	-23.4687774	-46.66303095	(amenity) (bank)	Bradesco
+254138	-23.3043863	-45.96739455	(amenity) (bank)	Banco Mercantil do Brasil
+254224	-23.542006200000003	-46.36902185	(amenity) (bank)	Banco do Brasil
+254225	-23.5417633	-46.36880845	(amenity) (bank)	Bradesco
+254226	-23.5421534	-46.367858	(amenity) (bank)	Banco do Brasil
+254227	-23.54191685	-46.368355550000004	(amenity) (bank)	Itaú
+254228	-23.541556399999997	-46.3674716	(amenity) (bank)	Itaú
+254234	-23.54307155	-46.364294650000005	(amenity) (bank)	Caixa Econômica Federal
+254235	-23.53771435	-46.36594975	(amenity) (bank)	Caixa Econômica Federal
+254250	-23.689462050000003	-46.521864	(amenity) (bank)	Itaú
+254314	-23.71352115	-46.586638300000004	(amenity) (bank)	Caixa Econômica Federal
+254407	-23.69921955	-46.611184050000006	(amenity) (bank)	Itaú
+254409	-23.69887935	-46.6097082	(amenity) (bank)	Caixa Econômica Federal
+254410	-23.698846500000002	-46.60941665	(amenity) (bank)	Bradesco
+254412	-23.6993558	-46.6099763	(amenity) (bank)	Itaú
+254673	-23.54122665	-46.3669281	(amenity) (bank)	Banco Santander
+254686	-23.685481250000002	-46.626832750000005	(amenity) (bank)	Caixa Econômica Federal
+254788	-23.6130749	-46.5714656	(amenity) (bank)	Bradesco
+254789	-23.613866950000002	-46.5712247	(amenity) (bank)	Itaú
+254790	-23.614144500000002	-46.57082305	(amenity) (bank)	Santander
+254791	-23.614082	-46.5705435	(amenity) (bank)	Santander
+254792	-23.614069100000002	-46.57035875	(amenity) (bank)	Banco do Brasil
+254813	-23.6162287	-46.5606924	(amenity) (bank)	Bradesco
+255027	-23.20189365	-45.90357845	(amenity) (bank)	Banco do Brasil
+256202	-23.491153349999998	-46.69438465	(amenity) (bank)	Caixa Econômica Federal
+256285	-23.54738635	-46.9353702	(amenity) (bank)	Santander
+256288	-23.54742915	-46.93598085	(amenity) (bank)	Itaú
+256289	-23.545152	-46.9332859	(amenity) (bank)	Bradesco
+256290	-23.5427752	-46.9359567	(amenity) (bank)	Bradesco
+256291	-23.54824425	-46.9361217	(amenity) (bank)	Bradesco
+256377	-23.96850905	-46.3751653	(amenity) (bank)	Banco do Brasil
+256378	-23.9689098	-46.3744564	(amenity) (bank)	Bradesco
+256379	-23.9692841	-46.3737359	(amenity) (bank)	Itaú
+257487	-23.6528571	-46.57320005	(amenity) (bank)	Itaú
+259156	-23.44514205	-46.91447665	(amenity) (bank)	Banco Santander
+259166	-23.50647795	-46.576981599999996	(amenity) (bank)	Bradesco
+259167	-23.506341900000002	-46.576834000000005	(amenity) (bank)	Itaú
+259169	-23.50598765	-46.57749175	(amenity) (bank)	Santander
+259173	-23.5010021	-46.58830715	(amenity) (bank)	Itaú
+259174	-23.501303999999998	-46.587064350000006	(amenity) (bank)	Caixa Econômica Federal
+259175	-23.501145299999997	-46.5872618	(amenity) (bank)	Santander
+259198	-23.592671199999998	-46.54634635	(amenity) (bank)	Banco do Brasil
+259200	-23.592255549999997	-46.54767145	(amenity) (bank)	Itaú
+259201	-23.59376495	-46.5470301	(amenity) (bank)	Santander
+259296	-23.5474008	-46.55758035	(amenity) (bank)	Santander
+259332	-23.535933200000002	-46.573519649999994	(amenity) (bank)	Banco do Brasil
+259333	-23.54494425	-46.573733950000005	(amenity) (bank)	Santander
+259345	-23.54474605	-46.5731325	(amenity) (bank)	Santander
+259354	-23.5448838	-46.574722699999995	(amenity) (bank)	Bradesco
+259367	-23.543566050000003	-46.570218100000005	(amenity) (bank)	Bradesco
+259381	-23.544997	-46.5723435	(amenity) (bank)	Itaú
+259417	-23.5532957	-46.5646165	(amenity) (bank)	Itaú
+259569	-23.52256585	-46.5308988	(amenity) (bank)	Banco do Brasil
+260256	-23.54408845	-46.2586973	(amenity) (bank)	Caixa Econômica Federal
+260616	-23.617330600000003	-46.70403035	(amenity) (bank)	Santander
+260617	-23.617355	-46.703812400000004	(amenity) (bank)	Itaú
+261070	-23.5021247	-46.55151975	(amenity) (bank)	Bradesco
+261072	-23.500601	-46.551231349999995	(amenity) (bank)	Santander
+261075	-23.49917125	-46.5510265	(amenity) (bank)	Itaú
+262718	-23.302273749999998	-45.96714665	(amenity) (bank)	Itaú
+263187	-23.96764165	-46.376812349999994	(amenity) (bank)	Sicredi
+264257	-23.678302600000002	-46.65777215	(amenity) (bank)	Caixa Econômica Federal
+264478	-23.7122642	-46.4146152	(amenity) (bank)	Bradesco
+265643	-23.71055545	-46.41438275	(amenity) (bank)	Banco do Brasil
+265644	-23.71094055	-46.4138792	(amenity) (bank)	Caixa Econômica Federal
+268913	-23.501434250000003	-46.6123982	(amenity) (bank)	Caixa Econômica Federal
+269002	-23.49694245	-46.57589335	(amenity) (bank)	Bradesco
+269128	-23.61382225	-46.74082585	(amenity) (bank)	Bradesco
+269130	-23.46425465	-46.526456350000004	(amenity) (bank)	Santander
+270907	-23.507294299999998	-46.57767255	(amenity) (bank)	Caixa Econômica Federal
+271075	-23.6479767	-46.596147349999995	(amenity) (bank)	Caixa Econômica Federal
+271216	-23.303128	-45.967065700000006	(amenity) (bank)	Banco Mercantil do Brasil

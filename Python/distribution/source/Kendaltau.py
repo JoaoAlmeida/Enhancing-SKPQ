@@ -30,3 +30,4 @@ for kw in kw_vec:
                   print("P_value:", p_value)
                   sum = sum + p_value
                   print("Média: ", sum/20)
+      break

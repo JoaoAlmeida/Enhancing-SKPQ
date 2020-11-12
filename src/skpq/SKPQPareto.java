@@ -24,7 +24,7 @@ import xxl.util.StarRTree;
 
 /**
  * Process a Spatial Preference Keyword Query using LOD and Pareto distribution.
- * Rank rank-order
+ * Rank re-order
  * 
  * @author Joao Paulo
  */
@@ -193,16 +193,23 @@ public class SKPQPareto extends SpatialQueryLD {
 						probability = maxProb;
 					}
 					
+					
 					double normProb = (probability - minProb) / (maxProb - minProb);
 					
 					//Acrescentado para teste com função igual ao PSM
 					
-					double textScore = obj.getScore();					
+					double textScore = obj.getScore();										
 					double score = (alpha * textScore) + ((1 - alpha) * normProb);
 					
-					obj.setScore(score);
+					//Score definido para o JIS2020	
+//					System.out.println("theta: " + textScore);
+//					System.out.println("Prob: "+ probability);
+//					System.out.println("PR: " + normProb);
+//					double score = (textScore) / (alpha * normProb);
+//					System.out.println("score: " + score +"\n\n");
 					//================================
-//					obj.setScore((normProb + obj.getScore())/2);
+				
+					obj.setScore(score);				
 					
 					pTopK.add(obj);
 				}
@@ -233,7 +240,7 @@ public class SKPQPareto extends SpatialQueryLD {
 				pTopK.add(obj);
 			}
 			saveResultsBN(pTopK);
-			 evaluateQuery("PRR", keywords, city, numKey, radius, "default",alpha);
+			evaluateQuery("PRR", keywords, city, numKey, radius, "default",alpha);
 			reader.close();
 			return pTopK;
 		}

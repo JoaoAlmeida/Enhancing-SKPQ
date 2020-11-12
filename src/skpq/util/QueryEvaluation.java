@@ -19,6 +19,7 @@ import java.sql.SQLException;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.math3.distribution.ParetoDistribution;
+import org.apache.commons.math3.stat.inference.TTest;
 import org.apache.tika.mime.ProbabilisticMimeDetectionSelector;
 
 import skpq.SpatialObject;
@@ -53,8 +54,8 @@ public class QueryEvaluation {
 	        try {
 //	            System.out.println("----------- Conectando ao SGBD -----------");
 	            
-//	            Class.forName("com.mysql.cj.jdbc.Driver");
-	            conn = DriverManager.getConnection("jdbc:mysql://localhost/acm_recsys20?user=root&password=572069ce&serverTimezone=UTC");          
+	            Class.forName("com.mysql.cj.jdbc.Driver");
+	            conn = DriverManager.getConnection("jdbc:mysql://localhost/acm_recsys20?user=root&password=572069ce&serverTimezone=UTC&useSSL=FALSE");          
 
 //	            System.out.println("----------- Conectado! -----------");
 	            
@@ -104,6 +105,7 @@ public class QueryEvaluation {
 		  
 		  PreparedStatement result;
 
+//		  System.out.println(query + " " + k + " " + numKey + " " + key + " " +  radius+ " " +  city+ " " +  experimentName+ " " +  alpha+ " " +  tau+ " " +  ndcg+ " " +  matchMethod);
 		  if(tau != tau) {			  
 			  result = conn.prepareStatement("INSERT INTO `acm_recsys20`.`"+query+"` (`k`, `numKey`, `keyword`, `radius`, `city`, `experimentName`, `alpha`,"
 				  		+ "`ndcg`, `textSimilarity_methodName`) VALUES ('"+k+"', '"+numKey+"', '"+key+"', '"+radius+"', '"+city+"', '"+experimentName+"', '"+alpha+"', "
@@ -206,7 +208,7 @@ public class QueryEvaluation {
 
 		for (int a = 0; a <= n; a++) {
 			// if the object's rate is higher than 3, it is considered a relevant object
-			if (results.get(a).getScore() > 3) {
+			if (results.get(a).getRate() > 3) {
 				relevants++;
 			}
 		}
@@ -220,19 +222,14 @@ public class QueryEvaluation {
 		int relevants = 0;
 
 		for (int a = 0; a < results.size(); a++) {
-			if (results.get(a).getScore() > 3) {
+			if (results.get(a).getRate() > 3) {
 				r = 1;
+				relevants++;
 			}
 			ap = ap + (precisionN(a) * r);
 			r = 0;
 		}
 
-		for (int a = 0; a < results.size(); a++) {
-			// if the object's rate is higher than 3, it is considered a relevant object
-			if (results.get(a).getScore() > 3) {
-				relevants++;
-			}
-		}
 		return (double) ap / relevants;
 	}
 
@@ -584,15 +581,129 @@ public class QueryEvaluation {
 			System.out.println("\nAverage NDCG: " + soma / 4 + "\n\n");
 			a = 0;
 			k = 5;
-		}
+		}				
 	}
 
+//	validated using the calculator: https://www.socscistatistics.com/tests/ttestdependent/default2.aspx
+	public void pairedT_Test(int numberRanks, String baselineRank, String targetRank, int[] rankSize, 
+			int[] numKey, String[] datasetNames, double radius, double[] alpha, String experimentName) throws SQLException, ClassNotFoundException, InstantiationException, IllegalAccessException {
+
+		connect();
+
+		for(int d = 0; d < datasetNames.length; d++) {
+			
+			System.out.println(experimentName+": " + datasetNames[d] + "\n");
+
+			for (int a=0; a < alpha.length; a++) {
+			for(int k = 0; k < rankSize.length; k++) {									
+
+				for(int n = 0; n < numKey.length; n++) {					
+
+					String targetQuery = " ";
+					String baselineQuery = " ";
+
+					/* Verify if the baseline algorithm is correct */
+					if(baselineRank.equals("skpq")) {
+						baselineQuery = "SELECT keyword,ndcg,tau FROM `acm_recsys20`.`"+baselineRank+"` WHERE numKey="+ numKey[n] 
+								+ " and k="+rankSize[k]+" and city ='"+datasetNames[d]+"' and radius="+radius+" and neighborhood_name ='range' and experimentName ='"+experimentName+"' order by keyword;";
+					} else if (baselineRank.equals("inf")) {
+						baselineQuery = "SELECT keyword,ndcg,tau FROM `acm_recsys20`.`"+"skpq"+"` WHERE numKey="+ numKey[n] 
+								+ " and k="+rankSize[k]+" and city ='"+datasetNames[d]+"'and radius="+radius+" and neighborhood_name ='inf' and experimentName ='"+experimentName+"' order by keyword;";
+					} else {
+						System.out.println("Inexistent baseline rank: " + baselineRank);
+						System.exit(0);
+					}
+
+					/* Verify if the target algorithm is correct */
+					if(targetRank.equals("paretosearch")) {
+						targetQuery = "SELECT keyword,ndcg,tau FROM `acm_recsys20`.`"+targetRank+"` where numKey="+numKey[n]+" and k="+rankSize[k]+
+								" and city='"+datasetNames[d]+"' and textSimilarity_methodName='default' and radius="+radius+" and alpha="+alpha[a]
+								+ " and experimentName ='"+experimentName+"' order by keyword;";
+					}else if(targetRank.equals("skpq")) {
+						targetQuery = "SELECT keyword,ndcg,tau FROM `acm_recsys20`.`"+targetRank+"` where numKey="+numKey[n]+" and k="+rankSize[k]+
+								" and city='"+datasetNames[d]+"' and radius="+radius+" and neighborhood_name='paretorank' and experimentName ='"+experimentName+"' order by keyword;";
+					}else if(targetRank.equals("prr")) {
+						targetQuery = "SELECT keyword,ndcg,tau FROM `acm_recsys20`.`"+targetRank+"` where numKey="+numKey[n]+" and k="+rankSize[k]+
+								" and city='"+datasetNames[d]+"' and textSimilarity_methodName='default' and radius="+radius+" and alpha="+alpha[a]
+								+ " and experimentName ='"+experimentName+"' order by keyword;";
+					}else {
+						System.out.println("Inexistent target rank: " + targetRank);
+						System.exit(0);
+					}
+
+//					System.out.println("Baseline: " + baselineQuery);
+//					System.out.println("Target: " + targetQuery);
+//					System.out.println();
+					
+					PreparedStatement sqlBaseline = conn.prepareStatement(baselineQuery);
+					PreparedStatement sqlTarget = conn.prepareStatement(targetQuery);		
+
+					double[] ndcgB = new double[numberRanks];
+					double[] ndcgTarget = new double[numberRanks];
+
+					double[] tauB = new double[numberRanks];
+					double[] tauTarget = new double[numberRanks];
+
+					ResultSet baselineResult = sqlBaseline.executeQuery();
+					ResultSet targetResult = sqlTarget.executeQuery();
+
+					for(int i = 0; baselineResult.next();i++) {
+						ndcgB[i] = baselineResult.getDouble("ndcg");
+
+						targetResult.next();
+						ndcgTarget[i] = targetResult.getDouble("ndcg");
+
+						tauB[i] = baselineResult.getDouble("tau");							
+						tauTarget[i] = targetResult.getDouble("tau");
+					}
+
+					TTest t = new TTest();
+
+					double p_value_ndcg = t.pairedTTest(ndcgB, ndcgTarget);						
+
+					double p_value_tau = t.pairedTTest(tauB, tauTarget);
+
+					if(numKey.length>1) {
+						System.out.println("NDCG --> #keys="+numKey[n]+ " --  p="+p_value_ndcg);
+
+						System.out.println("TAU --> #keys="+numKey[n]+ " --  p="+p_value_tau);
+						System.out.println();
+					}
+					else {
+						System.out.println("NDCG --> k="+rankSize[k]+ " --  p="+p_value_ndcg);
+
+						System.out.println("TAU --> k="+rankSize[k]+ " --  p="+p_value_tau);
+						System.out.println();
+					}
+					sqlBaseline.close();
+					sqlTarget.close();
+				}
+			}
+		}
+		}		
+	}
+	
 	public static void main(String[] args) throws IOException, ClassNotFoundException, InstantiationException, IllegalAccessException, SQLException {
 		
 		QueryEvaluation q = new QueryEvaluation();
 		
-		int numKey = 5;
-		double radius = 0.01;		
+		String[] datasetNames = {"berlin", "london", "losangeles", "newyork"};
+		double radius = 0.01;
+		
+		double[] alpha = {0.5};
+//		double[] alpha = {0.05,0.25,0.5,0.75,0.95};
+		
+		int[] num_keys = {1};
+//		int[] num_keys = {2,3,4,5};
+		
+//		int[] k = {10};
+		int[] k = {5,10,15,20};
+		
+		/*Baseline: skpq or inf | Targets: skpq (Pareto re-order), or paretosearch (PSM)*/
+		q.pairedT_Test(20, "skpq", "skpq", k, num_keys, datasetNames, radius, alpha,"recsys20");
+		
+//		int numKey = 5;
+//		double radius = 0.01;		
 		
 		//Berlin
 //		String keys[] = { "wheat", "software", "wedding", "herb", "door", "pen", "pension", "development", "resource", "eagle" };
@@ -610,7 +721,7 @@ public class QueryEvaluation {
 //		String keys[] = {"amenity avenue","road north","east west","south boulevard","place natural","architect colony","publication family","movie photography","green pension","nail week","amenity road","avenue north","east south","boulevard natural","architect publication","family photography","green nail","pension week","nail photography","week movie"};
 //		String keys[] = {"amenity avenue road","road north boulevard","east west north","south boulevard natural","place natural amenity","architect colony avenue","publication family east","movie photography south","green pension architect","nail week colony","amenity road publication","avenue north family","east south movie","boulevard natural photography","architect publication green","family photography pension","green nail amenity","pension week nail","nail photography week","week movie amenity"};
 //		String keys[] = {"amenity avenue road north","road north boulevard east","east west north amenity","south boulevard natural west","place natural amenity avenue","architect colony avenue road","publication family east south","movie photography south boulevard","green pension architect place","nail week colony natural","amenity road publication architect","avenue north family colony","east south movie publication","boulevard natural photography family","architect publication green movie","family photography pension green","green nail amenity photography","pension week nail amenity","nail photography week pension","week movie amenity nail"};
-		String keys[] = {"amenity avenue road north east","road north boulevard east west","east west north amenity south","south boulevard natural west amenity","place natural amenity avenue boulevard","architect colony avenue road place","publication family east south natural","movie photography south boulevard architect","green pension architect place colony","nail week colony natural publication","amenity road publication architect family","avenue north family colony movie","east south movie publication photography","boulevard natural photography family green","architect publication green movie pension","family photography pension green nail","green nail amenity photography week","pension week nail amenity avenue","nail photography week pension road","week movie amenity nail north"};
+//		String keys[] = {"amenity avenue road north east","road north boulevard east west","east west north amenity south","south boulevard natural west amenity","place natural amenity avenue boulevard","architect colony avenue road place","publication family east south natural","movie photography south boulevard architect","green pension architect place colony","nail week colony natural publication","amenity road publication architect family","avenue north family colony movie","east south movie publication photography","boulevard natural photography family green","architect publication green movie pension","family photography pension green nail","green nail amenity photography week","pension week nail amenity avenue","nail photography week pension road","week movie amenity nail north"};
 		
 		//Madrid
 //		String keys[] = { "route", "performance", "thought", "interface", "lose", "stop", "treatment", "city", "weight", "birthday" };
@@ -638,13 +749,13 @@ public class QueryEvaluation {
 //		String keys[] = { "agency", "phone", "nike", "aquarium", "crash", "secretary", "field", "medicine", "father", "tennis","amenity","shop","restaurant","close","street","road","avenue","drive","lane","pub"};
 //		
 		
-		String city = "LosAngeles";
-		
-		alpha=0.5;
-		q.evaluateQueriesGroup("ParetoSearch", keys, 20, city, numKey,radius,"");
-		q.evaluateQueriesGroup("InfluenceSearch", keys, 20, city, numKey,radius,"inf");
-		q.evaluateQueriesGroup("Pareto", keys, 20, city, numKey,radius,"paretoRank");		
-		q.evaluateQueriesGroup("SKPQ", keys, 20,city, numKey,radius,"range");		
+//		String city = "LosAngeles";
+//		
+//		alpha=0.5;
+//		q.evaluateQueriesGroup("ParetoSearch", keys, 20, city, numKey,radius,"");
+//		q.evaluateQueriesGroup("InfluenceSearch", keys, 20, city, numKey,radius,"inf");
+//		q.evaluateQueriesGroup("Pareto", keys, 20, city, numKey,radius,"paretoRank");		
+//		q.evaluateQueriesGroup("SKPQ", keys, 20,city, numKey,radius,"range");		
 	}
 
 }

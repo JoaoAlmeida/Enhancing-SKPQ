@@ -1,0 +1,71 @@
+3847	-23.5548873	-46.6576605	(amenity) (parking_space)
+18759	-23.534137	-46.6034426	(amenity) (parking_space)
+24835	-23.5532445	-46.5871236	(amenity) (parking_space)
+24847	-23.5652315	-46.6658497	(amenity) (parking_space)
+25523	-23.5599837	-46.6813959	(amenity) (parking_space)
+26047	-23.5215719	-46.6299387	(amenity) (parking_space)
+26048	-23.5209004	-46.6294499	(amenity) (parking_space)
+27605	-23.5647502	-46.6804966	(amenity) (parking_space)
+27720	-23.5420269	-46.5959787	(amenity) (parking_space)
+27771	-23.5235282	-46.66004	(amenity) (parking_space)
+27779	-23.5693337	-46.688362	(amenity) (parking_space)
+27781	-23.5670837	-46.6923616	(amenity) (parking_space)	Vaga Idoso / Deficiente
+27788	-23.5306779	-46.6200011	(amenity) (parking_space)
+28085	-23.5278163	-46.6084388	(amenity) (parking_space)
+28206	-23.5245708	-46.6586504	(amenity) (parking_space)
+28363	-23.5282896	-46.6073996	(amenity) (parking_space)
+28469	-23.5294635	-46.61285	(amenity) (parking_space)
+28548	-23.5303853	-46.6121743	(amenity) (parking_space)
+28549	-23.5307817	-46.6116843	(amenity) (parking_space)
+30036	-23.5606155	-46.669764	(amenity) (parking_space)
+30164	-23.5669854	-46.6676692	(amenity) (parking_space)
+31849	-23.5439478	-46.7809942	(amenity) (parking_space)
+202884	-23.7637206	-46.9068901	(amenity) (parking_space)	Posto 41
+206135	-23.53305935	-46.605757999999994	(amenity) (parking_space)	Estacionamento de onibus templo de salamão
+239778	-23.60014825	-46.65938645	(amenity) (parking_space)	Exclusive Pão de Açucar
+240733	-23.561981	-46.66509485	(amenity) (parking_space)	Estacionamento Cobasi
+266268	-23.42308105	-46.48159325	(amenity) (parking_space)	D21
+266269	-23.42309245	-46.48174605	(amenity) (parking_space)	D22
+266270	-23.42309015	-46.48190655	(amenity) (parking_space)	D23
+266271	-23.4237312	-46.48409445	(amenity) (parking_space)	B19
+266272	-23.4234047	-46.483913099999995	(amenity) (parking_space)	B18
+266273	-23.42327485	-46.483782500000004	(amenity) (parking_space)	B17
+266274	-23.422885899999997	-46.4838405	(amenity) (parking_space)	B20
+266275	-23.423872350000003	-46.4837594	(amenity) (parking_space)	B11
+266276	-23.424018150000002	-46.48375525	(amenity) (parking_space)	B10
+266277	-23.424168	-46.4837665	(amenity) (parking_space)	B9
+266278	-23.4243131	-46.4837514	(amenity) (parking_space)	B8
+266279	-23.42446635	-46.48377735	(amenity) (parking_space)	B7
+266280	-23.423643249999998	-46.4824112	(amenity) (parking_space)	C11
+266281	-23.423806900000002	-46.4830468	(amenity) (parking_space)	C11
+266282	-23.42378735	-46.482387	(amenity) (parking_space)	C10
+266283	-23.4239543	-46.48301855	(amenity) (parking_space)	C10
+266284	-23.42392855	-46.4823572	(amenity) (parking_space)	C9
+266285	-23.4240926	-46.482967900000006	(amenity) (parking_space)	C9
+266286	-23.4241793	-46.4826494	(amenity) (parking_space)	C8
+266287	-23.424327249999997	-46.4826385	(amenity) (parking_space)	C7
+266290	-23.42521975	-46.4810952	(amenity) (parking_space)	D2
+266291	-23.42528995	-46.482388549999996	(amenity) (parking_space)	C2
+266292	-23.4254811	-46.4838189	(amenity) (parking_space)	B2
+266293	-23.42537035	-46.48376975	(amenity) (parking_space)	B3
+266294	-23.4252178	-46.4837822	(amenity) (parking_space)	B4
+266295	-23.42507365	-46.48377355	(amenity) (parking_space)	B5
+266296	-23.42494475	-46.482578950000004	(amenity) (parking_space)	C5
+266297	-23.42509245	-46.48255615	(amenity) (parking_space)	C4
+266298	-23.42524195	-46.4825515	(amenity) (parking_space)	C3
+266299	-23.425121949999998	-46.4811212	(amenity) (parking_space)	D3
+266300	-23.4249688	-46.4811453	(amenity) (parking_space)	D4
+266301	-23.42482415	-46.4811507	(amenity) (parking_space)	D5
+266302	-23.424127300000002	-46.48006384999999	(amenity) (parking_space)	E7
+266303	-23.424000999999997	-46.4801103	(amenity) (parking_space)	E8
+266304	-23.4238483	-46.4801266	(amenity) (parking_space)	E9
+266305	-23.423710749999998	-46.4801798	(amenity) (parking_space)	E10
+266306	-23.423565250000003	-46.480206249999995	(amenity) (parking_space)	E11
+266307	-23.42420625	-46.48122445	(amenity) (parking_space)	D7
+266308	-23.42405995	-46.48123115	(amenity) (parking_space)	D8
+266309	-23.42390675	-46.4812419	(amenity) (parking_space)	D9
+266310	-23.423761550000002	-46.481253949999996	(amenity) (parking_space)	D10
+266311	-23.4236139	-46.481260649999996	(amenity) (parking_space)	D11
+266584	-23.424937149999998	-46.48377655	(amenity) (parking_space)	B6
+266585	-23.4248131	-46.48259625	(amenity) (parking_space)	C6
+266586	-23.42467525	-46.481152699999996	(amenity) (parking_space)	D6

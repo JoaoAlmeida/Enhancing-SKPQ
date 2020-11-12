@@ -241,7 +241,7 @@ public class WebContentCache {
 //		System.out.println(lat2);
 //		System.out.println(lgt2);
 
-		WebContentCache cache = new WebContentCache("./newyork/ratings.ch");
+		WebContentCache cache = new WebContentCache("descriptions.ch");
 
 //		try {
 //			cache.mergecache("descriptionsBerlin.ch");
@@ -259,8 +259,8 @@ public class WebContentCache {
 
 		// cache.store();
 
-//		cache.exportCache();
+		cache.exportCache();
 
-		cache.printCache();		
+//		cache.printCache();		
 	}
 }
