@@ -39,6 +39,10 @@ public class WebContentArrayCache {
 	private boolean debug = false;
 	private final double radius = 0.01;
 
+	public WebContentArrayCache() {
+		
+	}
+	
 	public WebContentArrayCache(String cacheFileName, double radius) {
 		this.cacheFileName = cacheFileName;
 		
@@ -153,14 +157,22 @@ public class WebContentArrayCache {
 		}
 	}
 	
+	/* Export the features in the vicinity of each POI in a city. The feature description include only OSM data
+	 * 
+	 * param: <size> is the number of POIs in the city
+	 * param: <city> the city containing the POIs
+	 *  */
+	
 	public void exportCacheSet(int size, String city) throws IOException {
 		
 		Writer fileWrt = new OutputStreamWriter(new FileOutputStream("./"+city+"/"+city+".exported", true), "ISO-8859-1");
 		
-		for(int a = 0; a <= size; a++) {
+		int featuresCount = 0;
+		
+		for(int a = 0; a < size; a++) {
 			System.out.println("Exporting cache " + a+"/"+size);
 			
-			cacheFileName = "./berlin/pois/POI["+a+"].cache";
+			cacheFileName = "./"+city+"/pois/POI["+a+"].cache";
 			
 			load();
 			
@@ -169,16 +181,26 @@ public class WebContentArrayCache {
 				@SuppressWarnings("rawtypes")
 				Set set = cache.entrySet();
 				@SuppressWarnings("rawtypes")
-				Iterator iterator = set.iterator();
+				Iterator iterator = set.iterator();			
 
-				int i = 0;
-
-				while (iterator.hasNext()) {
-					i++;
+				while (iterator.hasNext()) {					
 					@SuppressWarnings("rawtypes")
 					Map.Entry mentry = (Map.Entry) iterator.next();
 					
-					String line = "Object " + i + " -- key: " + mentry.getKey() + " | Value: " + mentry.getValue() + "\n";	
+					ArrayList<SpatialObject> featureSet = (ArrayList<SpatialObject>) mentry.getValue();
+					
+					featuresCount = featuresCount + featureSet.size();
+					
+					String line = "POI " + (a+1) + " -- key: " + mentry.getKey() + " | Features: \n";	
+					
+					Iterator<SpatialObject> fIt = featureSet.iterator();
+					
+					while(fIt.hasNext()) {
+						SpatialObject feature = (SpatialObject) fIt.next();
+						line = line + "\t" + feature.getLat() + "\t" + feature.getLgt() + "\t" + feature.getName() + "\n";
+					}
+					
+					line += "\n\n";
 					
 					fileWrt.write(line);				
 				}				
@@ -186,6 +208,7 @@ public class WebContentArrayCache {
 				System.out.println("WARNING: Cache is empty! There is nothing to export.");
 			}
 		}	
+		System.out.println("#Features processed in this city: " + featuresCount);
 		fileWrt.close();
 	}
 	
@@ -204,6 +227,10 @@ public class WebContentArrayCache {
 	}
 	
 	public static void main(String[] args) throws IOException {		
+		/* Counting the number of features processed by the query in a city */
+		WebContentArrayCache fSet = new WebContentArrayCache();
+		
+		fSet.exportCacheSet(243, "losangeles");
 		
 //		BufferedReader reader = new BufferedReader((new InputStreamReader(new FileInputStream(new File("hotelLondon_LGD.txt")), "UTF-8")));
 //		
@@ -238,10 +265,10 @@ public class WebContentArrayCache {
 //		
 //		reader.close();
 			
-		WebContentArrayCache cache = new WebContentArrayCache("./berlin/pois/POI[0].cache", 0.01);
+//		WebContentArrayCache cache = new WebContentArrayCache("./berlin/pois/POI[0].cache", 0.01);
 //		cache.exportCacheSet(776, "berlin");
-		cache.load();
-		cache.exportCache();
+//		cache.load();
+//		cache.exportCache();
 //		System.out.println(cache.containsKey("null"));
 		
 //		cache.load();
