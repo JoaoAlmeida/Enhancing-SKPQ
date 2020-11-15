@@ -7,11 +7,8 @@ nppBackup/
 
 # Framework output folder
 output/
-indexDubai/
 index*/
-pskpq/
 evaluations/
-skpq/
 datasetsOutput/
 key.info
 
