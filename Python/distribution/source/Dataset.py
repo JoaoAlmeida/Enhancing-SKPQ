@@ -17,15 +17,15 @@ x = arr.array('f', [0, 10, 100, 1000])
 data['distance'] = data['distance'] / 1000
 #data['probability'] = data['probability'] / 1000
 #possiveis pontos , ou .
-plt.rcParams.update({'font.size': 20, "axes.labelsize": "large"})
+plt.rcParams.update({'font.size': 50, "axes.labelsize": "x-large"})
 f = plt.plot(data['distance'], data['probability'], 'b.')
 plt.axis([0.0, 25, np.amin(data['probability']), np.amax(data['probability'])])
 #plt.xscale("log")
 #plt.yscale("symlog")
 
-plt.xlabel("Distance (Km)")
+plt.xlabel("Distance (Km)",  fontsize=50)
 #plt.xlabel("Distance between POI location and features (km) in its spatial neighborhood")
-plt.ylabel("Probability")
+plt.ylabel("Probability", fontsize=50)
 
 
 

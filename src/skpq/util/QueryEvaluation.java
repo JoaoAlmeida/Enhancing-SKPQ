@@ -84,6 +84,23 @@ public class QueryEvaluation {
 	      result.execute();
 	  }
 	  
+	  public void storeHdResult(String query, int k, int numKey, String key, double radius, String city, String experimentName, double alpha, double tau, double ndcg) throws SQLException {
+		  
+		  PreparedStatement result;
+
+		  if(tau != tau) {			  
+			  result = conn.prepareStatement("INSERT INTO `acm_recsys20`.`"+query+"` (`k`, `numKey`, `keyword`, `radius`, `city`, `experimentName`, `gamma`,"
+				  		+ "`ndcg`) VALUES ('"+k+"', '"+numKey+"', '"+key+"', '"+radius+"', '"+city+"', '"+experimentName+"', '"+alpha+"', "
+				  				+ "'"+ndcg+"');");
+		  }else {
+			  result = conn.prepareStatement("INSERT INTO `acm_recsys20`.`"+query+"` (`k`, `numKey`, `keyword`, `radius`, `city`, `experimentName`, `gamma`,`tau`,"
+				  		+ "`ndcg`) VALUES ('"+k+"', '"+numKey+"', '"+key+"', '"+radius+"', '"+city+"', '"+experimentName+"', '"+alpha+"', '"+tau+"', "
+				  				+ "'"+ndcg+"');"); 
+		  }		  
+
+	      result.execute();
+	  }
+
 	  public void storeParetoSearch(String query, int k, int numKey, String key, double radius, String city, String experimentName, double alpha, double tau, double ndcg, String matchMethod) throws SQLException {
 		  
 		  PreparedStatement result;
@@ -605,10 +622,14 @@ public class QueryEvaluation {
 					/* Verify if the baseline algorithm is correct */
 					if(baselineRank.equals("skpq")) {
 						baselineQuery = "SELECT keyword,ndcg,tau FROM `acm_recsys20`.`"+baselineRank+"` WHERE numKey="+ numKey[n] 
-								+ " and k="+rankSize[k]+" and city ='"+datasetNames[d]+"' and radius="+radius+" and neighborhood_name ='range' and experimentName ='"+experimentName+"' order by keyword;";
+								+ " and k="+rankSize[k]+" and city ='"+datasetNames[d]+"' and radius="+radius+" and neighborhood_name ='range' and experimentName ='recsys20' order by keyword;";
 					} else if (baselineRank.equals("inf")) {
 						baselineQuery = "SELECT keyword,ndcg,tau FROM `acm_recsys20`.`"+"skpq"+"` WHERE numKey="+ numKey[n] 
-								+ " and k="+rankSize[k]+" and city ='"+datasetNames[d]+"'and radius="+radius+" and neighborhood_name ='inf' and experimentName ='"+experimentName+"' order by keyword;";
+								+ " and k="+rankSize[k]+" and city ='"+datasetNames[d]+"'and radius="+radius+" and neighborhood_name ='inf' and experimentName ='recsys20' order by keyword;";
+					} else if (baselineRank.equals("hd")) {
+						//gamma not included
+						baselineQuery = "SELECT keyword,ndcg,tau FROM `acm_recsys20`.`"+"hdskpq"+"` WHERE numKey="+ numKey[n] 
+								+ " and k="+rankSize[k]+" and city ='"+datasetNames[d]+"'and radius="+radius+" and experimentName ='eswa21' order by keyword;";
 					} else {
 						System.out.println("Inexistent baseline rank: " + baselineRank);
 						System.exit(0);
@@ -621,8 +642,14 @@ public class QueryEvaluation {
 								+ " and experimentName ='"+experimentName+"' order by keyword;";
 					}else if(targetRank.equals("skpq")) {
 						targetQuery = "SELECT keyword,ndcg,tau FROM `acm_recsys20`.`"+targetRank+"` where numKey="+numKey[n]+" and k="+rankSize[k]+
-								" and city='"+datasetNames[d]+"' and radius="+radius+" and neighborhood_name='paretorank' and experimentName ='"+experimentName+"' order by keyword;";
-					}else if(targetRank.equals("prr")) {
+						" and city='"+datasetNames[d]+"' and radius="+radius+" and neighborhood_name='paretorank' and experimentName ='recsys20' order by keyword;";
+			} 
+					else if(targetRank.equals("prr")) {						
+						if(numKey.length == 1) {
+							experimentName="recsys20";
+						}else {
+							experimentName="jis2020";
+						}
 						targetQuery = "SELECT keyword,ndcg,tau FROM `acm_recsys20`.`"+targetRank+"` where numKey="+numKey[n]+" and k="+rankSize[k]+
 								" and city='"+datasetNames[d]+"' and textSimilarity_methodName='default' and radius="+radius+" and alpha="+alpha[a]
 								+ " and experimentName ='"+experimentName+"' order by keyword;";
@@ -683,24 +710,135 @@ public class QueryEvaluation {
 		}		
 	}
 	
+	public void averageImprovement(String baseline, String proposal, int[] rankSize, int[] numKey) 
+			throws ClassNotFoundException, InstantiationException, IllegalAccessException, SQLException {
+	
+		connect();
+
+		String[] datasetNames = {"Berlin", "London", "LosAngeles", "NewYork"};
+		double radius = 0.01;
+		double alpha = 0.5;
+				
+		double ndcgSum = 0;
+		double tauSum = 0;
+		
+		for(int d = 0; d < datasetNames.length; d++) {								
+			for(int k = 0; k < rankSize.length; k++) {									
+				for(int n = 0; n < numKey.length; n++) {					
+
+					String targetQuery = " ";
+					String baselineQuery = " ";
+
+					/* Verify if the baseline algorithm is correct */
+					if(baseline.equals("skpq")) {
+						String experimentName="recsys20";
+						baselineQuery = "SELECT ROUND(avg(tau),2), ROUND(avg(ndcg),2) FROM `acm_recsys20`.`"+baseline+"` WHERE numKey="+ numKey[n] 
+								+ " and k="+rankSize[k]+" and city ='"+datasetNames[d]+"' and radius="+radius+" and neighborhood_name ='range' and experimentName ='"+experimentName+"' order by keyword;";
+					} else if (baseline.equals("inf")) {
+						String experimentName="recsys20";
+						baselineQuery = "SELECT ROUND(avg(tau),2), ROUND(avg(ndcg),2) FROM `acm_recsys20`.`"+"skpq"+"` WHERE numKey="+ numKey[n] 
+								+ " and k="+rankSize[k]+" and city ='"+datasetNames[d]+"'and radius="+radius+" and neighborhood_name ='inf' and experimentName ='"+experimentName+"' order by keyword;";
+					} else if (baseline.equals("hd")) {
+						String experimentName="eswa21";
+						baselineQuery = "SELECT ROUND(avg(tau),2), ROUND(avg(ndcg),2) FROM `acm_recsys20`.`"+"hdskpq"+"` WHERE numKey="+ numKey[n] 
+								+ " and k="+rankSize[k]+" and city ='"+datasetNames[d]+"'and radius="+radius+" and experimentName ='"+experimentName+"' order by keyword;";
+					} else {
+						System.out.println("Inexistent baseline rank: " + baseline);
+						System.exit(0);
+					}
+
+					/* Verify if the target algorithm is correct */
+					if(proposal.equals("paretosearch")) {
+						String experimentName="jis2020";
+						targetQuery = "SELECT ROUND(avg(tau),2), ROUND(avg(ndcg),2) FROM `acm_recsys20`.`"+proposal+"` where numKey="+numKey[n]+" and k="+rankSize[k]+
+								" and city='"+datasetNames[d]+"' and textSimilarity_methodName='default' and radius="+radius+" and alpha="+alpha
+								+ " and experimentName ='"+experimentName+"' order by keyword;";											
+					}else if(proposal.equals("skpq")) {
+						targetQuery = "SELECT ROUND(avg(tau),2), ROUND(avg(ndcg),2) FROM `acm_recsys20`.`"+proposal+"` where numKey="+numKey[n]+" and k="+rankSize[k]+
+								" and city='"+datasetNames[d]+"' and radius="+radius+" and neighborhood_name='paretorank' and experimentName ='recsys20' order by keyword;";
+					}else if(proposal.equals("prr")) {
+						
+						String experimentName=" ";
+						
+						if(numKey.length == 1) {
+							experimentName="recsys20";
+						}else {
+							experimentName="jis2020";
+						}
+						
+						targetQuery = "SELECT ROUND(avg(tau),2), ROUND(avg(ndcg),2) FROM `acm_recsys20`.`"+proposal+"` where numKey="+numKey[n]+" and k="+rankSize[k]+
+								" and city='"+datasetNames[d]+"' and textSimilarity_methodName='default' and radius="+radius+" and alpha="+alpha
+								+ " and experimentName ='"+experimentName+"' order by keyword;";
+					}else {
+						System.out.println("Inexistent target rank: " + proposal);
+						System.exit(0);
+					}
+					
+//					System.out.println("Baseline: " + baselineQuery);
+//					System.out.println("Target: " + targetQuery);
+//					System.out.println();
+					
+					PreparedStatement sqlBaseline = conn.prepareStatement(baselineQuery);
+					PreparedStatement sqlTarget = conn.prepareStatement(targetQuery);		
+
+					ResultSet baselineResult = sqlBaseline.executeQuery();
+					ResultSet targetResult = sqlTarget.executeQuery();				
+					
+					for(int i = 0; baselineResult.next();i++) {
+						
+						//0 --> NDCG || 1 --> Tau
+						double[] base = new double[2];
+						double[] pro = new double[2];
+						
+						targetResult.next();
+						pro[0] = targetResult.getDouble("ROUND(avg(ndcg),2)");
+						pro[1] = targetResult.getDouble("ROUND(avg(tau),2)");
+						
+//						System.out.println(pro[0]);
+//						System.out.println("1 --- " + pro[1]);
+						
+						base[0] = baselineResult.getDouble("ROUND(avg(ndcg),2)");
+						base[1] = baselineResult.getDouble("ROUND(avg(tau),2)");
+						
+//						System.out.println("\n B: " + pro[0]);
+//						System.out.println("1 --- " + pro[1] + "\n");
+						
+						ndcgSum += ((pro[0] - base[0])/base[0])*100;					
+						tauSum += ((pro[1] - base[1])/base[1])*100;						
+					}
+					
+					sqlBaseline.close();
+					sqlTarget.close();
+				}
+			}
+		
+		}
+		
+		System.out.println("Tau: " + tauSum/16);
+		System.out.println("NDCG: " + ndcgSum/16);
+	}
+	
 	public static void main(String[] args) throws IOException, ClassNotFoundException, InstantiationException, IllegalAccessException, SQLException {
 		
 		QueryEvaluation q = new QueryEvaluation();
 		
-		String[] datasetNames = {"berlin", "london", "losangeles", "newyork"};
+		String[] datasetNames = {"Berlin", "London", "LosAngeles", "NewYork"};
 		double radius = 0.01;
 		
 		double[] alpha = {0.5};
 //		double[] alpha = {0.05,0.25,0.5,0.75,0.95};
 		
-		int[] num_keys = {1};
-//		int[] num_keys = {2,3,4,5};
+//		int[] num_keys = {1};
+		int[] num_keys = {2,3,4,5};
 		
-//		int[] k = {10};
-		int[] k = {5,10,15,20};
+		int[] k = {10};
+//		int[] k = {5,10,15,20};
 		
-		/*Baseline: skpq or inf | Targets: skpq (Pareto re-order), or paretosearch (PSM)*/
-		q.pairedT_Test(20, "skpq", "skpq", k, num_keys, datasetNames, radius, alpha,"recsys20");
+		/*Baseline: skpq or inf or hd | Targets: skpq (Pareto re-order | a=0.5), or paretosearch (PSM), or PRR (numKey>1 and a=0.05)*/
+//		q.pairedT_Test(20, "hd", "skpq", k, num_keys, datasetNames, radius, alpha,"jis2020");
+		
+		/* prr variando key é 'skpq', variando k é 'prr' (testado comparando com inf) */
+		q.averageImprovement("inf", "skpq", k, num_keys);
 		
 //		int numKey = 5;
 //		double radius = 0.01;		

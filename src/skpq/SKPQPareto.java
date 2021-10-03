@@ -1,11 +1,7 @@
 package skpq;
 
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
-import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.io.Writer;
 import java.sql.SQLException;
@@ -15,15 +11,12 @@ import java.util.List;
 import java.util.TreeSet;
 
 import org.apache.commons.math3.distribution.ParetoDistribution;
-import org.apache.jena.sparql.function.library.min;
 
 import skpq.util.Datasets;
-import weka.clusterers.SimpleKMeans;
-import weka.core.Instances;
 import xxl.util.StarRTree;
 
 /**
- * Process a Spatial Preference Keyword Query using LOD and Pareto distribution.
+ * Process a Spatial Preference Keyword Query (PRR) using LOD and Pareto distribution.
  * Rank re-order
  * 
  * @author Joao Paulo
@@ -78,7 +71,7 @@ public class SKPQPareto extends SpatialQueryLD {
 		Datasets data = new Datasets();
 
 		try {
-			topK = data.loadResultstoPersonalizeBN("SKPQ", keywords, k);		
+			topK = data.loadResultstoReOrderBN("SKPQ", keywords, k);		
 		} catch (IOException e2) {
 			e2.printStackTrace();
 		}
@@ -199,15 +192,7 @@ public class SKPQPareto extends SpatialQueryLD {
 					//Acrescentado para teste com função igual ao PSM
 					
 					double textScore = obj.getScore();										
-					double score = (alpha * textScore) + ((1 - alpha) * normProb);
-					
-					//Score definido para o JIS2020	
-//					System.out.println("theta: " + textScore);
-//					System.out.println("Prob: "+ probability);
-//					System.out.println("PR: " + normProb);
-//					double score = (textScore) / (alpha * normProb);
-//					System.out.println("score: " + score +"\n\n");
-					//================================
+					double score = (alpha * textScore) + ((1 - alpha) * normProb);					
 				
 					obj.setScore(score);				
 					

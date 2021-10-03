@@ -8,6 +8,7 @@ import java.util.Properties;
 
 import org.apache.commons.io.FileUtils;
 
+import skpq.HolisticDiversityQuery;
 import skpq.PSMSearch;
 import skpq.PersonalizedSKPQSearch;
 import skpq.RQSearch;
@@ -74,6 +75,17 @@ public class SKPQFramework extends DefaultExperimentManager {
 						Boolean.parseBoolean(getProperties().getProperty("experiment.debug", "false")),
 						getProperties().getProperty("query.match", "default"), getProperties().getProperty("query.city"));
 		
+			} else if (getProperties().getProperty("query.name").equals("HDSKPQ-LD")) {
+				
+				StarRTree objectsOfInterest = createRtree();
+				
+				experiment = new HolisticDiversityQuery(Integer.parseInt(getProperties().getProperty("query.numResults")),
+						getProperties().getProperty("query.keywords"),
+						Double.parseDouble(getProperties().getProperty("query.alpha")),
+						getProperties().getProperty("query.neighborhood"),
+						Double.parseDouble(getProperties().getProperty("query.radius")), objectsOfInterest,
+						Boolean.parseBoolean(getProperties().getProperty("experiment.debug")),getProperties().getProperty("query.city"));
+				
 			} else if (getProperties().getProperty("query.name").equals("PSKPQ-LD")) {		
 
 				StarRTree objectsOfInterest = createRtree();
@@ -117,8 +129,8 @@ public class SKPQFramework extends DefaultExperimentManager {
 							Boolean.parseBoolean(getProperties().getProperty("experiment.debug")));
 					
 			} else if (getProperties().getProperty("query.name").equals("BRQ-LD")) {
-
-
+				
+				
 			} else {
 				throw new RuntimeException(
 						"Experiment: '" + getProperties().getProperty("query.name") + "' was not developed yet!");

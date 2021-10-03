@@ -110,7 +110,7 @@ public class Datasets {
 	}
 
 	// Load results with POIs containing the best neighbor
-	public TreeSet<SpatialObject> loadResultstoPersonalizeBN(String queryName, String keyword, int k)
+	public TreeSet<SpatialObject> loadResultstoReOrderBN(String queryName, String keyword, int k)
 			throws IOException {
 
 		System.out.println("Loading Results...");
