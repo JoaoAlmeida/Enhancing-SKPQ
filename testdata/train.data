@@ -1,0 +1,14 @@
+@relation evaluation
+
+@attribute PIC numeric
+@attribute P2 numeric
+@attribute P3 numeric
+@attribute P4 numeric
+@attribute E {like, dislike}
+
+@data
+2, 2, 2, 2, 2,like
+3, 3, 3, 3, 3,like
+9, 9, 9, 9, 9,dislike
+8, 8, 8, 8, 8,dislike
+7, 7, 7, 7, 7,dislike

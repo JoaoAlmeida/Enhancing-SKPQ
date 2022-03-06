@@ -1,0 +1,913 @@
+272	-23.4948185	-46.8492533	(amenity) (pharmacy)
+279	-23.4934489	-46.8492619	(amenity) (pharmacy)	Farma Life
+282	-23.4956214	-46.8489958	(amenity) (pharmacy)	Droga Rani
+291	-23.5434916	-46.5615758	(amenity) (pharmacy)	Farma & Cia
+292	-23.5469898	-46.5631021	(amenity) (pharmacy)	Drogaria São Paulo
+330	-23.5237204	-46.7335881	(amenity) (pharmacy)	Farmácia Sigma
+331	-23.5234135	-46.7365315	(amenity) (pharmacy)	Droga Verde
+333	-23.5350483	-46.6881189	(amenity) (pharmacy)	Droga Raia
+356	-23.9675923	-46.3332133	(amenity) (pharmacy)	Poupa Farma
+385	-23.6524688	-46.7341461	(amenity) (pharmacy)	Drogaria São Paulo
+388	-23.6576603	-46.7363042	(amenity) (pharmacy)	Drogaria Nova São Luiz
+452	-23.5528451	-46.6430063	(amenity) (pharmacy)
+593	-23.540734	-46.5891715	(amenity) (pharmacy)
+805	-23.5984324	-46.6442291	(amenity) (pharmacy)	Drogaria São Paulo
+826	-23.6339956	-46.5026742	(amenity) (pharmacy)	Drogaria América do Sul
+846	-23.5407785	-46.6822928	(amenity) (pharmacy)	Drogasil
+857	-23.5461898	-46.6909733	(amenity) (pharmacy)
+858	-23.545663	-46.691593	(amenity) (pharmacy)
+865	-23.5392935	-46.6752459	(amenity) (pharmacy)	Drogasil
+900	-23.5365854	-46.6860878	(amenity) (pharmacy)	Drogasil
+909	-23.5435637	-46.6942795	(amenity) (pharmacy)	Droga Raia
+942	-23.5549484	-46.6883581	(amenity) (pharmacy)	Drogasil
+967	-23.9619689	-46.4058673	(amenity) (pharmacy)	Sta. Margarida
+1141	-23.5704075	-46.6554145	(amenity) (pharmacy)	Drogaria Tio Luiz
+1143	-23.5718417	-46.6539957	(amenity) (pharmacy)	Farmácio Orthomolecular
+1209	-23.5522828	-46.6969098	(amenity) (pharmacy)	Drogaria São Paulo
+1229	-23.568882	-46.7149157	(amenity) (pharmacy)	Drogaria São Paulo
+1337	-23.5382325	-46.8352109	(amenity) (pharmacy)
+1487	-23.5867124	-46.7254916	(amenity) (pharmacy)	Droga Raia
+1490	-23.6092787	-46.7769095	(amenity) (pharmacy)
+1508	-23.6085933	-46.7566009	(amenity) (pharmacy)	Drogaria São Paulo
+1518	-23.5031624	-46.4881465	(amenity) (pharmacy)
+1521	-23.5073208	-46.4894581	(amenity) (pharmacy)
+1535	-23.5075733	-46.489208	(amenity) (pharmacy)
+1541	-23.5073347	-46.4901752	(amenity) (pharmacy)
+1542	-23.49311	-46.4808985	(amenity) (pharmacy)
+1546	-23.4902759	-46.4792567	(amenity) (pharmacy)
+1576	-23.1947028	-45.9063902	(amenity) (pharmacy)	Drogaria Esplanada
+1628	-23.2050031	-45.9051507	(amenity) (pharmacy)	Drogaria Chaparral
+1644	-23.6057531	-46.6694274	(amenity) (pharmacy)	Droga Raia
+1674	-23.6869811	-46.5351092	(amenity) (pharmacy)
+1682	-23.6765718	-46.5437674	(amenity) (pharmacy)	Farmácia Nova Scarpelli
+1684	-23.5903205	-46.630429	(amenity) (pharmacy)	Drogasil
+1685	-23.6023833	-46.6149995	(amenity) (pharmacy)	Drogaria São Paulo
+1695	-23.6616861	-46.779632	(amenity) (pharmacy)
+1735	-23.5406124	-46.701797	(amenity) (pharmacy)	Drogaverde
+1768	-23.615233	-46.6171682	(amenity) (pharmacy)	Drogaria São Paulo
+1794	-23.6781409	-46.5342228	(amenity) (pharmacy)	Drogaria Paraíso
+1796	-23.6838345	-46.5398235	(amenity) (pharmacy)	Drogaria Stella
+1878	-23.5590459	-46.5680088	(amenity) (pharmacy)	Drogaria São Paulo
+1897	-23.5866399	-46.7369447	(amenity) (pharmacy)	Drogaria São Paulo
+1898	-23.5870578	-46.7370841	(amenity) (pharmacy)
+1910	-23.569839	-46.5878566	(amenity) (pharmacy)
+1999	-23.5395867	-46.6693066	(amenity) (pharmacy)	Drogasil
+2009	-23.6135792	-46.6805696	(amenity) (pharmacy)	Pague Menos
+2010	-23.612429	-46.6791427	(amenity) (pharmacy)
+2011	-23.611504	-46.6787135	(amenity) (pharmacy)
+2075	-23.8978191	-46.4338984	(amenity) (pharmacy)	Drogaria Natal
+2094	-23.895867	-46.4247064	(amenity) (pharmacy)
+2132	-23.5814431	-46.585966	(amenity) (pharmacy)	Drogaria São Paulo
+2147	-23.5814687	-46.5849923	(amenity) (pharmacy)	Droga Raia
+2158	-23.5749507	-46.5871327	(amenity) (pharmacy)	Drogasil
+2173	-23.2189019	-45.9093461	(amenity) (pharmacy)	Drogaria São Paulo
+2178	-23.5715039	-46.5898328	(amenity) (pharmacy)	Droga Verde
+2194	-23.6265855	-46.7364112	(amenity) (pharmacy)
+2279	-23.2070329	-45.9060787	(amenity) (pharmacy)
+2280	-23.2240909	-45.8866005	(amenity) (pharmacy)	Farma Conde
+2283	-23.2242486	-45.886402	(amenity) (pharmacy)	Drogaria São Paulo
+2302	-23.6229813	-46.5371545	(amenity) (pharmacy)	Drogaria Marco's
+2303	-23.623227	-46.5367602	(amenity) (pharmacy)	Drogalar
+2373	-23.1983115	-45.8917616	(amenity) (pharmacy)	Droga Quinze
+2513	-23.6176551	-46.6053629	(amenity) (pharmacy)	Droga Raia
+2662	-23.6157325	-46.7401348	(amenity) (pharmacy)	Droga Raia
+2670	-23.1964119	-45.8910106	(amenity) (pharmacy)	Drogaria São Paulo
+2676	-23.1873735	-45.8863677	(amenity) (pharmacy)	Drogasil
+2687	-23.1712084	-45.8918555	(amenity) (pharmacy)
+2690	-23.5814781	-46.6390419	(amenity) (pharmacy)	Droga Raia
+2693	-23.5878276	-46.6429526	(amenity) (pharmacy)
+2732	-23.9721757	-46.3244533	(amenity) (pharmacy)	Drogaria São Paulo
+2777	-23.9774782	-46.3121095	(amenity) (pharmacy)	Drogasil
+2778	-23.9779123	-46.311892	(amenity) (pharmacy)	Poupafarma
+2794	-23.9774332	-46.312181	(amenity) (pharmacy)	Rosa Gálica
+2831	-23.9767953	-46.3009252	(amenity) (pharmacy)
+2840	-23.9713008	-46.3085798	(amenity) (pharmacy)
+2844	-23.9684897	-46.3064019	(amenity) (pharmacy)	Drogasil
+2862	-23.9735582	-46.3052431	(amenity) (pharmacy)
+2896	-23.9834733	-46.3072708	(amenity) (pharmacy)
+2906	-23.5429726	-46.3189979	(amenity) (pharmacy)
+2918	-23.5692407	-46.5083479	(amenity) (pharmacy)
+2921	-23.5718111	-46.5105882	(amenity) (pharmacy)	Farmais
+2928	-23.9750432	-46.3035055	(amenity) (pharmacy)	Farmaconde
+3103	-23.9659701	-46.3165296	(amenity) (pharmacy)	Poupafarma
+3179	-23.554841	-46.6403827	(amenity) (pharmacy)	Drogaria Milani
+3207	-23.5522323	-46.650001	(amenity) (pharmacy)	Droga Raia
+3248	-23.5479934	-46.7763302	(amenity) (pharmacy)
+3338	-23.1913751	-45.8892807	(amenity) (pharmacy)
+3529	-23.7384746	-46.6862765	(amenity) (pharmacy)	Droga Mix
+3530	-23.7370014	-46.693497	(amenity) (pharmacy)	Droga Mix
+3584	-23.7108929	-46.6992052	(amenity) (pharmacy)	Drogaria São Paulo
+3666	-23.4828841	-46.4898072	(amenity) (pharmacy)
+3705	-23.5490215	-46.5679858	(amenity) (pharmacy)
+3706	-23.5456056	-46.5724572	(amenity) (pharmacy)	Drogaria SP
+3731	-23.5030231	-46.6263145	(amenity) (pharmacy)	Drogasil
+3732	-23.5031907	-46.6265149	(amenity) (pharmacy)	Drogaria São Paulo
+3816	-23.2058849	-46.154878	(amenity) (pharmacy)
+3876	-23.6055514	-46.6577024	(amenity) (pharmacy)	Droga Raia
+3877	-23.605001	-46.6576824	(amenity) (pharmacy)	Drogaria São Paulo
+3878	-23.6092716	-46.6382359	(amenity) (pharmacy)	Drogasil
+3932	-23.4368487	-46.7189448	(amenity) (pharmacy)
+3949	-23.4495946	-46.7351232	(amenity) (pharmacy)
+3952	-23.4838322	-46.8592055	(amenity) (pharmacy)
+4028	-23.9885741	-46.3005306	(amenity) (pharmacy)	Drogaria São Paulo
+4067	-23.1884773	-45.8753795	(amenity) (pharmacy)	Farma Conde
+4091	-23.3196389	-46.5864776	(amenity) (pharmacy)	Farmácia Popular
+4156	-23.6176164	-46.6392034	(amenity) (pharmacy)	Farma Conde
+4160	-23.6178991	-46.6392656	(amenity) (pharmacy)	Ultrafitness
+4161	-23.6175359	-46.6391858	(amenity) (pharmacy)	Ultrafarma
+4162	-23.617701	-46.6392219	(amenity) (pharmacy)	Ultrafarma
+4164	-23.616751	-46.6390573	(amenity) (pharmacy)
+4204	-23.6946557	-46.5681706	(amenity) (pharmacy)	Drogaria SP
+4318	-23.5240354	-46.6063944	(amenity) (pharmacy)	Droga Mais
+4322	-23.5268525	-46.6072545	(amenity) (pharmacy)	Farmacia Silva Teles
+4407	-23.6861548	-46.559168	(amenity) (pharmacy)	Droga Raia
+4446	-23.6179043	-46.6388973	(amenity) (pharmacy)	Farma Conde
+4462	-23.6966605	-46.5678511	(amenity) (pharmacy)	Droga Sammer
+4501	-23.600181	-46.5133578	(amenity) (pharmacy)	Drogaria Massao
+4503	-23.7008285	-46.580472	(amenity) (pharmacy)	DriFarma
+4507	-23.6968472	-46.5816939	(amenity) (pharmacy)	Drogaria Farmais
+4777	-23.4867366	-46.6056169	(amenity) (pharmacy)	FarMais
+4791	-23.5284207	-46.7020815	(amenity) (pharmacy)
+4799	-23.5277954	-46.7039368	(amenity) (pharmacy)	Farma Civica
+4833	-23.5250364	-46.6979223	(amenity) (pharmacy)	Drogasil
+4835	-23.5249974	-46.6991408	(amenity) (pharmacy)
+4840	-23.5228372	-46.7006075	(amenity) (pharmacy)	Farmácia do Povo
+4940	-23.5925028	-46.8367198	(amenity) (pharmacy)	Droga Raia
+5079	-23.7019488	-46.5708027	(amenity) (pharmacy)	Droga Calux
+5101	-23.2319766	-45.8974232	(amenity) (pharmacy)	Farma-Saúde
+5199	-23.7781471	-46.5301241	(amenity) (pharmacy)	Paris Pharma Drogaria
+5340	-23.5810268	-46.6430726	(amenity) (pharmacy)
+5341	-23.5787605	-46.6408867	(amenity) (pharmacy)	Drogasil
+5400	-23.9836011	-46.2361334	(amenity) (pharmacy)	Drogaria São Paulo
+5424	-23.9891755	-46.2431554	(amenity) (pharmacy)	Farmácia
+5428	-23.9898812	-46.2532888	(amenity) (pharmacy)	Poupa Farma
+5446	-23.9834517	-46.2356319	(amenity) (pharmacy)	Farmácia
+5484	-23.9751244	-46.3155542	(amenity) (pharmacy)	Poupa Farma
+5540	-23.538142	-46.4064776	(amenity) (pharmacy)	Droga Leste
+5649	-23.6978496	-46.5782236	(amenity) (pharmacy)	Drogaria Deville
+5788	-23.9672494	-46.3336359	(amenity) (pharmacy)	Droga Raia
+5792	-23.9686874	-46.3332118	(amenity) (pharmacy)	Drogasil
+6206	-23.7222571	-46.567694	(amenity) (pharmacy)	Vick Fórmulas
+6238	-23.787721	-46.5361436	(amenity) (pharmacy)	Drogaria São Vicente
+6319	-23.5566214	-46.6604206	(amenity) (pharmacy)	Droga Raia
+6348	-23.7794119	-46.5305867	(amenity) (pharmacy)	Drogaria Riacho Grande
+6384	-23.1880928	-45.8862635	(amenity) (pharmacy)	Droga 15
+6385	-23.1878151	-45.8863275	(amenity) (pharmacy)	Drogaria Milenio
+6388	-23.1841109	-45.8866014	(amenity) (pharmacy)	Droga 15
+6408	-23.487087	-46.6065678	(amenity) (pharmacy)	Drogasil
+6521	-23.9827714	-46.3010157	(amenity) (pharmacy)	Poupafarma
+6771	-23.6612532	-46.532673	(amenity) (pharmacy)	Drogaria São Paulo
+6818	-23.7211449	-46.5812097	(amenity) (pharmacy)	Drogaria São Paulo
+6916	-23.6051648	-46.5744462	(amenity) (pharmacy)	Drogaria Selma
+6977	-23.1933394	-45.8778883	(amenity) (pharmacy)
+7170	-23.1902646	-45.8874262	(amenity) (pharmacy)	Nostra Fórmula
+7293	-23.7792755	-46.5311373	(amenity) (pharmacy)	Rede Riospharma
+7300	-23.6258381	-46.7220279	(amenity) (pharmacy)	Drogaria São Paulo
+7310	-23.7236003	-46.5492952	(amenity) (pharmacy)
+7324	-23.5356372	-46.6787678	(amenity) (pharmacy)	Droga Raia
+7325	-23.5354454	-46.6790682	(amenity) (pharmacy)
+7328	-23.1806722	-46.9858291	(amenity) (pharmacy)	Drogaria Japi
+7334	-23.5409501	-46.6824833	(amenity) (pharmacy)	Droga Raia
+7349	-23.707185	-46.5675278	(amenity) (pharmacy)	Drogaria Dom Jaime
+7414	-23.5627181	-46.5731035	(amenity) (pharmacy)
+7417	-23.5600209	-46.5761026	(amenity) (pharmacy)	Drogaria Moretti
+7632	-23.5273176	-46.6189783	(amenity) (pharmacy)	Drogaria Saúde & Vida
+7738	-23.1855667	-46.9602209	(amenity) (pharmacy)
+7890	-23.1521853	-47.0575485	(amenity) (pharmacy)	Farmácia Paraná
+7893	-23.1550382	-47.0530745	(amenity) (pharmacy)	Farmácia America
+7896	-23.1560625	-47.0565444	(amenity) (pharmacy)	Drogasil
+7928	-23.5069882	-46.5896544	(amenity) (pharmacy)	Droga Verde
+7939	-23.51617	-46.5881842	(amenity) (pharmacy)
+8019	-23.5551859	-46.6029345	(amenity) (pharmacy)	Sinete 24Horas
+8034	-23.4919476	-46.625903	(amenity) (pharmacy)	Droga Raia
+8039	-23.4819543	-46.6473949	(amenity) (pharmacy)	Drogaria São Paulo
+8057	-23.5591986	-46.4888623	(amenity) (pharmacy)	Ultra Leste Drogarias
+8088	-23.9340447	-46.3288787	(amenity) (pharmacy)	Drogasil
+8135	-23.1517217	-47.0577249	(amenity) (pharmacy)	Drogaria Itupeva
+8151	-23.5355206	-46.627328	(amenity) (pharmacy)	Espéria
+8202	-23.6329439	-46.6378788	(amenity) (pharmacy)	Drogaria Decyr
+8244	-23.156381	-47.0567801	(amenity) (pharmacy)	Fármacia
+8311	-23.1905748	-46.8996521	(amenity) (pharmacy)	Droga Raia
+8401	-23.529358	-46.6359652	(amenity) (pharmacy)	Farmácia Três Rios
+8539	-23.5660156	-46.6481273	(amenity) (pharmacy)
+8540	-23.5628025	-46.6455526	(amenity) (pharmacy)
+8541	-23.5517587	-46.6342229	(amenity) (pharmacy)	Drogaria SP
+8542	-23.5502535	-46.6342829	(amenity) (pharmacy)	Droga Raia
+8543	-23.5471397	-46.6367987	(amenity) (pharmacy)	Drogasil
+8544	-23.5507665	-46.6419063	(amenity) (pharmacy)
+8579	-23.2297187	-45.880338	(amenity) (pharmacy)	Drograria São Paulo
+8585	-23.494809	-46.5924936	(amenity) (pharmacy)	União Farma
+8649	-23.5797708	-46.6257122	(amenity) (pharmacy)
+8659	-23.5808293	-46.6156377	(amenity) (pharmacy)	Rede Bem Drogarias
+8706	-23.6127117	-46.4754491	(amenity) (pharmacy)	Bifarma
+8776	-23.4768678	-46.5736805	(amenity) (pharmacy)	Drogaria São Paulo
+8859	-23.5717324	-46.6440354	(amenity) (pharmacy)
+8868	-23.5654273	-46.6520986	(amenity) (pharmacy)	Drogasil
+8870	-23.563772	-46.6540412	(amenity) (pharmacy)	Onofre
+8871	-23.5639291	-46.6538393	(amenity) (pharmacy)	Drogaria São Paulo
+8883	-23.5563052	-46.6619012	(amenity) (pharmacy)	Drogasil
+8893	-23.5179969	-46.7927494	(amenity) (pharmacy)	Drogaria Nova Scala
+8914	-23.6013532	-46.6369612	(amenity) (pharmacy)	Drogasil
+8953	-23.5384389	-46.3094979	(amenity) (pharmacy)	Drogaria São Paulo
+8959	-23.5431711	-46.3116966	(amenity) (pharmacy)	Droga Raia
+8981	-23.5326173	-46.6117194	(amenity) (pharmacy)	Farmacia São Miguel
+9036	-23.5249577	-46.4783041	(amenity) (pharmacy)	Drogaria Nova Vida
+9128	-23.5565265	-46.6003554	(amenity) (pharmacy)
+9179	-23.5424749	-46.425177	(amenity) (pharmacy)	Bifarma
+9284	-23.6933982	-46.5542848	(amenity) (pharmacy)	ABC Pharma
+9291	-23.541373	-46.7166054	(amenity) (pharmacy)
+9358	-23.7396034	-46.5258612	(amenity) (pharmacy)	´Drogaria Montanhão
+9360	-23.7375852	-46.5336128	(amenity) (pharmacy)
+9420	-23.7107465	-46.5535207	(amenity) (pharmacy)	Drogaria São Paulo
+9428	-23.6121813	-46.6006799	(amenity) (pharmacy)	SOS Farma Ponte
+9527	-23.531174	-46.4782443	(amenity) (pharmacy)	Mille Drogaria
+9529	-23.5484741	-46.5382364	(amenity) (pharmacy)	Drogasil
+9533	-23.5490334	-46.5361403	(amenity) (pharmacy)	Droganetto
+9539	-23.5477708	-46.5398001	(amenity) (pharmacy)	Poupafarma
+9543	-23.549315	-46.5362543	(amenity) (pharmacy)	Drogaria Mais Formosa
+9663	-24.0098492	-46.2712274	(amenity) (pharmacy)
+9778	-23.738135	-46.5742407	(amenity) (pharmacy)
+9884	-23.5997969	-46.6292511	(amenity) (pharmacy)	Drogasil
+9887	-23.5827843	-46.6862992	(amenity) (pharmacy)	Drogasil
+9892	-23.4691607	-46.6038764	(amenity) (pharmacy)	Drogasil
+9905	-23.5673543	-46.4943603	(amenity) (pharmacy)
+9909	-23.5467308	-46.5414037	(amenity) (pharmacy)
+9913	-23.6411522	-46.6986448	(amenity) (pharmacy)	Drogasil
+9917	-23.5808438	-46.6708188	(amenity) (pharmacy)	Droga Raia
+9949	-23.69175	-46.582884	(amenity) (pharmacy)	Paris Pharma Drogaria
+10022	-23.6931037	-46.549408	(amenity) (pharmacy)	Drogaria São Paulo
+10220	-23.5096776	-46.7287899	(amenity) (pharmacy)	Bifarma
+10265	-23.63367	-46.7347908	(amenity) (pharmacy)
+10383	-23.6182338	-46.6389587	(amenity) (pharmacy)	Ultrafarma
+10384	-23.6186007	-46.6390471	(amenity) (pharmacy)	Ultrafarma
+10441	-23.6863483	-46.618614	(amenity) (pharmacy)	Drogaria Quarteirão da Saúde
+10452	-23.6632578	-46.691375	(amenity) (pharmacy)	Drogasil
+10476	-23.7128178	-46.5503902	(amenity) (pharmacy)	Farma Conde
+10512	-23.2119253	-46.8317131	(amenity) (pharmacy)	BIFARMA
+10533	-23.5185206	-46.7886185	(amenity) (pharmacy)
+10542	-23.5029952	-46.6250176	(amenity) (pharmacy)	Metro Farma
+10720	-23.6686781	-46.5377284	(amenity) (pharmacy)	Extrafarma
+10831	-23.5351307	-46.5754402	(amenity) (pharmacy)
+10832	-23.5353726	-46.5753849	(amenity) (pharmacy)
+10843	-23.5341462	-46.5678414	(amenity) (pharmacy)
+10854	-23.5338373	-46.5668345	(amenity) (pharmacy)	Farto Drogarias
+10865	-23.5064157	-46.604688	(amenity) (pharmacy)	Drogaria São Paulo
+10866	-23.5056885	-46.604645	(amenity) (pharmacy)	Droga Raia
+10905	-23.6301382	-46.4802515	(amenity) (pharmacy)
+10964	-23.4886135	-46.5836817	(amenity) (pharmacy)	Loreto Drogaria
+11032	-23.5662403	-46.5931399	(amenity) (pharmacy)
+11039	-23.5708053	-46.5811613	(amenity) (pharmacy)
+11087	-23.4686342	-46.5796322	(amenity) (pharmacy)
+11106	-23.4680962	-46.5841178	(amenity) (pharmacy)	Poupa Farma
+11166	-23.5547928	-46.4807755	(amenity) (pharmacy)	Farmais
+11185	-23.5740914	-46.7264099	(amenity) (pharmacy)	Droga Star
+11212	-23.5046656	-46.6406562	(amenity) (pharmacy)	Drogaria São Paulo
+11220	-23.7059025	-46.5507512	(amenity) (pharmacy)	Medicare
+11248	-23.5693473	-46.5661778	(amenity) (pharmacy)
+11290	-23.6209556	-46.6025345	(amenity) (pharmacy)	Drogaria São Paulo
+11379	-23.5427098	-46.4303189	(amenity) (pharmacy)
+11406	-23.5583083	-46.4754267	(amenity) (pharmacy)	Farmais
+11410	-23.5599851	-46.5868289	(amenity) (pharmacy)
+11457	-23.6041209	-46.6351941	(amenity) (pharmacy)
+11622	-23.5865131	-46.6043024	(amenity) (pharmacy)	Drogaria São José do Ipiranga
+11638	-23.4929993	-46.6327422	(amenity) (pharmacy)	Drogaria São Paulo
+11639	-23.4961391	-46.6365846	(amenity) (pharmacy)	Drogasil
+11640	-23.4916713	-46.6276315	(amenity) (pharmacy)	Drogasil
+11644	-23.4863914	-46.6231704	(amenity) (pharmacy)
+11656	-23.479216	-46.6217248	(amenity) (pharmacy)
+11662	-23.474634	-46.618873	(amenity) (pharmacy)
+11674	-23.6038858	-46.6365096	(amenity) (pharmacy)	Droga Raia
+11710	-23.4872728	-46.6205132	(amenity) (pharmacy)	Drogaria São Paulo
+11727	-23.4857148	-46.6163358	(amenity) (pharmacy)	Droga Raia
+11746	-23.4722388	-46.6175483	(amenity) (pharmacy)	Droga Raia
+11771	-23.582431	-46.7605536	(amenity) (pharmacy)
+11806	-23.4599781	-46.528661	(amenity) (pharmacy)	onofre
+11815	-23.5604766	-46.4742982	(amenity) (pharmacy)
+12034	-23.5584981	-46.6601014	(amenity) (pharmacy)	Drogaria São Paulo
+12043	-23.5587553	-46.6598129	(amenity) (pharmacy)	Droga Raia
+12095	-23.5664017	-46.6508148	(amenity) (pharmacy)	Droga Raia
+12099	-23.5672936	-46.6486957	(amenity) (pharmacy)	Drogaria São Paulo
+12205	-23.6858966	-46.7907431	(amenity) (pharmacy)
+12223	-23.5603851	-46.6573121	(amenity) (pharmacy)	Drogaria São Paulo
+12427	-23.4306473	-46.489802	(amenity) (pharmacy)
+12478	-23.5323206	-46.6185333	(amenity) (pharmacy)	Poupa Mais
+12486	-23.4346236	-46.5358485	(amenity) (pharmacy)	Drogaria Salgado Filho
+12488	-23.4489455	-46.5210371	(amenity) (pharmacy)	Farmais
+12496	-23.4325561	-46.5219021	(amenity) (pharmacy)
+12574	-23.5538005	-46.6963468	(amenity) (pharmacy)	Drogasil
+12616	-23.1958008	-46.881627	(amenity) (pharmacy)
+12815	-23.722472	-46.5475486	(amenity) (pharmacy)	Walmart
+12824	-23.5281898	-46.7769377	(amenity) (pharmacy)	Drogaria São Paulo
+12937	-23.5366749	-46.7760943	(amenity) (pharmacy)	Drogaria São Paulo
+13026	-23.6962937	-46.5532486	(amenity) (pharmacy)	Rede de Drogarias Nova Scarpelli
+13038	-23.6991342	-46.552678	(amenity) (pharmacy)	Droga Sandri
+13052	-23.5725779	-46.7236676	(amenity) (pharmacy)	Droga Raia
+13091	-23.5278786	-46.6835244	(amenity) (pharmacy)	Drogaria São Paulo
+13147	-23.572226	-46.7049256	(amenity) (pharmacy)	Center Fórmula
+13148	-23.5712891	-46.7077007	(amenity) (pharmacy)	Drogasil
+13174	-23.5627322	-46.5884348	(amenity) (pharmacy)
+13299	-23.4741905	-46.5490228	(amenity) (pharmacy)	FURP
+13320	-23.5689287	-46.6503116	(amenity) (pharmacy)	Drogaria São Paulo
+13344	-23.5698494	-46.7413166	(amenity) (pharmacy)	Drogasil
+13515	-23.6219584	-46.6284369	(amenity) (pharmacy)
+13535	-23.6111979	-46.7047693	(amenity) (pharmacy)	Pense Farma
+13549	-23.6253259	-46.5571762	(amenity) (pharmacy)	Drogaria São Paulo
+13663	-23.5652935	-46.6905504	(amenity) (pharmacy)	Droga Raia
+13718	-23.6770436	-46.7598517	(amenity) (pharmacy)	Farmácia Vila Remo
+13728	-23.6077647	-46.7059665	(amenity) (pharmacy)	Droga Express
+14090	-23.502504	-46.6261919	(amenity) (pharmacy)	Farma Conde
+14118	-23.5652915	-46.4681439	(amenity) (pharmacy)
+14122	-23.5693372	-46.4771167	(amenity) (pharmacy)
+14141	-23.6339367	-46.7005526	(amenity) (pharmacy)	Drogasil
+14146	-23.5005948	-46.6257695	(amenity) (pharmacy)	Drogaria São Paulo
+14236	-23.5689154	-46.6330757	(amenity) (pharmacy)
+14237	-23.573206	-46.6319486	(amenity) (pharmacy)
+14238	-23.5724359	-46.6327506	(amenity) (pharmacy)
+14322	-23.7141431	-46.5493217	(amenity) (pharmacy)	Drogaria Anchieta
+14327	-23.7139223	-46.5494803	(amenity) (pharmacy)	Farmácia Popular
+14547	-23.5562427	-46.6911838	(amenity) (pharmacy)	Farmácia da Vila
+14591	-23.2457206	-45.8836516	(amenity) (pharmacy)
+14600	-23.6577639	-46.6917127	(amenity) (pharmacy)	Drogaria São Paulo
+14648	-23.5165634	-46.6243879	(amenity) (pharmacy)
+14725	-23.5066622	-46.6016838	(amenity) (pharmacy)	Droga Lis
+14773	-23.7124429	-46.5435227	(amenity) (pharmacy)	Drogasil
+14825	-23.7018162	-46.5516221	(amenity) (pharmacy)	Drugstore Pague Menos
+14872	-23.7135615	-46.5427591	(amenity) (pharmacy)
+14920	-23.6627419	-46.5333036	(amenity) (pharmacy)	Drogasil
+14934	-23.700891	-46.789542	(amenity) (pharmacy)	Farmácia
+15090	-23.5455019	-46.6414806	(amenity) (pharmacy)	Drogasil
+15142	-23.6120617	-46.6570025	(amenity) (pharmacy)	Drogaria São Paulo
+15155	-23.5874743	-46.6771017	(amenity) (pharmacy)	Drogasil
+15164	-23.5815724	-46.6391978	(amenity) (pharmacy)	Onofre
+15285	-23.5079936	-46.5975594	(amenity) (pharmacy)	Euro Formulas
+15343	-23.4895061	-46.5848826	(amenity) (pharmacy)	Droga Fênix
+15527	-23.5677744	-46.6657416	(amenity) (pharmacy)	Droga Raia
+15528	-23.5667354	-46.6647342	(amenity) (pharmacy)	Onofre Mega Store
+15529	-23.5581461	-46.6415464	(amenity) (pharmacy)	Rede Farma Mil
+15548	-23.5634904	-46.6642075	(amenity) (pharmacy)	Plena Jardins
+15571	-23.7225059	-46.5476336	(amenity) (pharmacy)
+15968	-23.5753123	-46.5148021	(amenity) (pharmacy)	Drogaria Nova Mille
+17542	-23.5384713	-46.616743	(amenity) (pharmacy)
+18921	-23.4855973	-46.6289501	(amenity) (pharmacy)	Droga Raia
+19033	-23.5336688	-46.6481742	(amenity) (pharmacy)	FarmaFacil
+19811	-23.1285003	-46.5538327	(amenity) (pharmacy)	Drogaria São Paulo
+20260	-23.5568367	-46.6404224	(amenity) (pharmacy)
+20292	-23.5683302	-46.5891741	(amenity) (pharmacy)	Drogaria Itamonte
+20680	-23.5977666	-46.6005464	(amenity) (pharmacy)	Drogaria São Paulo
+20874	-23.5147992	-46.4541889	(amenity) (pharmacy)
+20882	-23.693171	-46.554655	(amenity) (pharmacy)	Bifarma
+21113	-23.7058594	-46.5338178	(amenity) (pharmacy)
+21253	-23.5433204	-46.6408719	(amenity) (pharmacy)	Droga Knox
+21329	-23.7018292	-46.5123588	(amenity) (pharmacy)	Hexafarmácia Drogaras
+21342	-23.637996	-46.5430564	(amenity) (pharmacy)	Orfarma
+21358	-23.5420124	-46.6453457	(amenity) (pharmacy)	Farma Ponte
+21439	-23.7214135	-46.5808005	(amenity) (pharmacy)	Droga Neide
+21471	-23.555481	-46.6738855	(amenity) (pharmacy)	Farma Ponte
+21478	-23.6997053	-46.7875246	(amenity) (pharmacy)
+21482	-23.5214117	-46.7224147	(amenity) (pharmacy)	Drogasil
+21490	-23.5837837	-46.6721534	(amenity) (pharmacy)	Droga Raia
+21491	-23.5951418	-46.6696855	(amenity) (pharmacy)	Droga Raia
+21492	-23.5700126	-46.7118464	(amenity) (pharmacy)	Droga Raia
+21493	-23.6016827	-46.6686986	(amenity) (pharmacy)	Drogaria São Paulo
+21494	-23.5680705	-46.6581749	(amenity) (pharmacy)	Droga Raia
+21495	-23.6034157	-46.6258345	(amenity) (pharmacy)	Drogaria São Paulo
+21496	-23.5344238	-46.7824948	(amenity) (pharmacy)	Drogaria São Paulo
+21497	-23.6522319	-46.6797139	(amenity) (pharmacy)	Drogaria São Paulo
+21498	-23.517568	-46.5888605	(amenity) (pharmacy)	Drogaria São paulo
+21529	-23.532551	-46.6183993	(amenity) (pharmacy)
+21636	-23.5076701	-46.6658566	(amenity) (pharmacy)	Droga Raia
+21660	-23.5427816	-46.6159883	(amenity) (pharmacy)	Farmasil
+21702	-23.5024764	-46.6235095	(amenity) (pharmacy)	Drogaria São Paulo
+21743	-23.4904937	-46.5857184	(amenity) (pharmacy)	Drogaria Universal
+21804	-23.9705332	-46.3239082	(amenity) (pharmacy)	Drogasil
+21805	-23.9673094	-46.3349243	(amenity) (pharmacy)	Drogaria São Paulo
+21860	-23.19936	-45.8810256	(amenity) (pharmacy)
+21861	-23.1911539	-45.8772491	(amenity) (pharmacy)
+21862	-23.2032318	-45.8840458	(amenity) (pharmacy)
+21914	-23.5676884	-46.6954602	(amenity) (pharmacy)	Drogasil
+22170	-23.6228072	-46.4156198	(amenity) (pharmacy)
+22172	-23.5444523	-46.6339881	(amenity) (pharmacy)	Drogaria São Paulo
+22245	-23.5632595	-46.6871472	(amenity) (pharmacy)	Drogasil
+22356	-23.5434494	-46.6466415	(amenity) (pharmacy)	FarMais
+22408	-23.5397633	-46.6499156	(amenity) (pharmacy)	Drogaria Batisnogue
+22463	-23.5637778	-46.6880242	(amenity) (pharmacy)	Drogaria São Paulo
+22498	-23.5313789	-46.6160863	(amenity) (pharmacy)	Drogaria Cruz Azul
+22516	-23.5645109	-46.6667812	(amenity) (pharmacy)	Drogaria São Paulo
+22549	-23.4929656	-46.6296023	(amenity) (pharmacy)	Droga Raia
+22604	-23.5939399	-46.6772331	(amenity) (pharmacy)	PagueMenos
+22622	-23.327658	-46.7260228	(amenity) (pharmacy)	Bifarma
+22623	-23.3275261	-46.7259407	(amenity) (pharmacy)	Drogasil
+22716	-23.5547707	-46.6343767	(amenity) (pharmacy)	Farmais
+22723	-23.5513229	-46.6340026	(amenity) (pharmacy)	Farma Ponte
+22841	-23.625656	-46.6455159	(amenity) (pharmacy)	Drogasil
+22905	-23.568831	-46.7560872	(amenity) (pharmacy)
+22962	-23.715266	-46.5537035	(amenity) (pharmacy)	Droga Coop
+22977	-23.5731442	-46.5614764	(amenity) (pharmacy)	Drogasil
+23013	-23.5563638	-46.6598319	(amenity) (pharmacy)	Drug And Drug
+23135	-23.4698832	-46.8712647	(amenity) (pharmacy)	Drogaria São Paulo
+23137	-23.4678116	-46.5840492	(amenity) (pharmacy)
+23432	-23.5667767	-46.6520021	(amenity) (pharmacy)	Pronto Formula Manipulação
+23582	-23.6542277	-46.707642	(amenity) (pharmacy)	Drogaria Campeã
+23697	-23.5705593	-46.6439957	(amenity) (pharmacy)	Drogasil
+23789	-23.5670167	-46.6485425	(amenity) (pharmacy)	Onofre
+23885	-23.479724	-46.6435484	(amenity) (pharmacy)
+23932	-23.562804	-46.6652178	(amenity) (pharmacy)	Drogaria Onofre
+24197	-23.5451383	-46.5743249	(amenity) (pharmacy)	Onofre
+24206	-23.568156	-46.6350597	(amenity) (pharmacy)	Drogasil
+24253	-23.586304	-46.6952844	(amenity) (pharmacy)	Drogasil 24 Hs
+24290	-23.5635249	-46.6326733	(amenity) (pharmacy)	Drogasil
+24451	-23.5658084	-46.6681388	(amenity) (pharmacy)	Drogasil
+24559	-23.5587729	-46.6615665	(amenity) (pharmacy)	Mundo Verde
+24567	-23.5588793	-46.6350995	(amenity) (pharmacy)
+24570	-23.5629305	-46.6668257	(amenity) (pharmacy)	Granado Pharmacias
+24582	-23.5584322	-46.6349685	(amenity) (pharmacy)
+24619	-23.5503134	-46.595508	(amenity) (pharmacy)	Droga Raia
+24644	-23.5690982	-46.6366948	(amenity) (pharmacy)	Drogasian
+24649	-23.5661358	-46.6322967	(amenity) (pharmacy)	Extrafarma
+24668	-23.5740029	-46.6446819	(amenity) (pharmacy)
+24671	-23.576925	-46.6455168	(amenity) (pharmacy)
+24674	-23.5498492	-46.6340895	(amenity) (pharmacy)	Onofre
+24743	-23.5692785	-46.6338112	(amenity) (pharmacy)
+24877	-23.5640927	-46.6679861	(amenity) (pharmacy)	Droga Raia
+25032	-23.535548	-46.7141136	(amenity) (pharmacy)	Drograia São Paulo
+25035	-23.5548685	-46.7091125	(amenity) (pharmacy)	Droga Raia
+25290	-23.6244842	-46.628231	(amenity) (pharmacy)	Drogaria São Paulo
+25333	-23.5234406	-46.7044853	(amenity) (pharmacy)	Farmacia Carrefour
+25413	-23.53733	-46.5934883	(amenity) (pharmacy)	Drogaria São Paulo
+25421	-23.6811159	-46.6388128	(amenity) (pharmacy)	Drogaria São Paulo
+25429	-23.6657984	-46.6575561	(amenity) (pharmacy)	Drogaria São Paulo
+25435	-23.6457298	-46.6728957	(amenity) (pharmacy)	Droga Raia
+25436	-23.6480676	-46.6702537	(amenity) (pharmacy)	Drogasil
+25439	-23.6442298	-46.6731612	(amenity) (pharmacy)	Drogaria São Paulo
+25682	-23.5400794	-46.6904662	(amenity) (pharmacy)	Weleda Farmácia
+25712	-23.6461745	-46.6636722	(amenity) (pharmacy)	Drogasil
+25883	-23.5406736	-46.7947411	(amenity) (pharmacy)	Drogaria Rio Branco
+26080	-23.480619	-46.6564071	(amenity) (pharmacy)	Drogaria Sao paulo
+26256	-23.6136009	-46.741219	(amenity) (pharmacy)	Drogasil
+26259	-23.6114447	-46.7415861	(amenity) (pharmacy)	Drogaria São Paulo
+26374	-23.6465592	-46.6421022	(amenity) (pharmacy)	Drogaria São Paulo
+26377	-23.6431845	-46.6415671	(amenity) (pharmacy)	Drogasil
+26379	-23.6363217	-46.6410682	(amenity) (pharmacy)	Drogaria São Paulo
+26381	-23.648515	-46.6620578	(amenity) (pharmacy)	Drogaria São Paulo
+26525	-23.6150185	-46.6591796	(amenity) (pharmacy)	Drogaria São Paulo
+26591	-23.5401411	-46.7181073	(amenity) (pharmacy)	Drogaria São Paulo
+26606	-23.523086	-46.5132576	(amenity) (pharmacy)	Drogasil
+26611	-23.5245482	-46.5071636	(amenity) (pharmacy)	Drogaria São Paulo
+26654	-23.5151475	-46.5364111	(amenity) (pharmacy)	Bifarma
+26663	-23.5668963	-46.6649159	(amenity) (pharmacy)	Pague Menos
+26825	-23.5784848	-46.6241587	(amenity) (pharmacy)	Drogaria São Paulo
+26859	-23.5767065	-46.6234277	(amenity) (pharmacy)	Drogaria São Paulo
+26861	-23.5795409	-46.6239883	(amenity) (pharmacy)	Drogasil
+26877	-23.5892385	-46.6295598	(amenity) (pharmacy)	Drogaria São Paulo
+26930	-23.5926064	-46.62126	(amenity) (pharmacy)	Droga Raia
+26960	-23.5742044	-46.6508653	(amenity) (pharmacy)	Drogasil
+27006	-23.546967	-46.5555173	(amenity) (pharmacy)	Farmelhor
+27007	-23.5500563	-46.5546806	(amenity) (pharmacy)	Farmatrix
+27067	-23.6265692	-46.6192799	(amenity) (pharmacy)	Styllus Farma
+27148	-23.5418812	-46.7739698	(amenity) (pharmacy)	Droga Forte
+27208	-23.6221154	-46.6402207	(amenity) (pharmacy)	Farma Conde
+27396	-23.5625113	-46.6210564	(amenity) (pharmacy)	Farto Drogarias
+27403	-23.5629621	-46.6211679	(amenity) (pharmacy)	Drogarias Ultra Popular
+27409	-23.5634884	-46.620328	(amenity) (pharmacy)	Drogasil
+27575	-23.5530016	-46.6519898	(amenity) (pharmacy)	Droga Raia
+27596	-24.2352661	-46.9014439	(amenity) (pharmacy)
+27601	-23.5651211	-46.6802215	(amenity) (pharmacy)	Drogaria São Paulo
+27670	-23.2149617	-45.9092168	(amenity) (pharmacy)	Droga Raia
+27673	-23.2150074	-45.9088366	(amenity) (pharmacy)	Pague Menos
+27889	-23.5700452	-46.6574586	(amenity) (pharmacy)	Drogasil
+27895	-23.5695671	-46.6593219	(amenity) (pharmacy)	Pague Menos
+27897	-23.5715135	-46.6614483	(amenity) (pharmacy)	Drogasil
+27901	-23.5797009	-46.6420815	(amenity) (pharmacy)	Extrafarma
+27932	-23.7777966	-46.5300897	(amenity) (pharmacy)	Droga Nova Riacho
+28060	-23.6243491	-46.6831276	(amenity) (pharmacy)	Drogasil
+28062	-23.623656	-46.6843882	(amenity) (pharmacy)	Droga Raia
+28175	-23.6717783	-46.7420474	(amenity) (pharmacy)	Pense Farma
+28201	-23.6090497	-46.7069672	(amenity) (pharmacy)	Droga Raia
+28217	-23.6380395	-46.564991	(amenity) (pharmacy)	FazfarmaNet
+28709	-23.7396074	-46.5697975	(amenity) (pharmacy)	Drogaria Parque das Flôres
+28729	-23.6961545	-46.5535233	(amenity) (pharmacy)	Eficaz Fórmulas Farmácia de Manipulação
+28763	-23.7422906	-46.6034095	(amenity) (pharmacy)	Drogaria Eduardo
+28774	-23.6465769	-46.5764243	(amenity) (pharmacy)	Drogasil
+28855	-23.6568896	-46.6541291	(amenity) (pharmacy)	Drogaria São Paulo
+29198	-23.6685556	-46.5380511	(amenity) (pharmacy)	Própharmacos
+29282	-23.6726236	-46.5396926	(amenity) (pharmacy)	Drogasil
+29292	-23.6698588	-46.5394713	(amenity) (pharmacy)	Manipule
+29332	-23.6262524	-46.5014148	(amenity) (pharmacy)	Nova Farma Julio
+29416	-23.6308341	-46.5088083	(amenity) (pharmacy)	Drogaria São Vicente
+29465	-23.6359826	-46.7891989	(amenity) (pharmacy)
+29478	-23.6662795	-46.5443945	(amenity) (pharmacy)	Drogaria Coop
+29499	-23.6482748	-46.5378405	(amenity) (pharmacy)	Pro Vitae
+29531	-23.6547395	-46.5358575	(amenity) (pharmacy)	Pharmácia Essencial
+29548	-23.6461127	-46.5139394	(amenity) (pharmacy)	Drogaria Farmais
+29596	-23.6345396	-46.5031743	(amenity) (pharmacy)	Drogaria São Paulo
+29627	-23.6553827	-46.534929	(amenity) (pharmacy)	Milletec
+29669	-23.6679242	-46.5395987	(amenity) (pharmacy)	Active Farma
+29704	-23.6656187	-46.5337247	(amenity) (pharmacy)	Fórmula Magistral
+29778	-23.5520275	-46.6527301	(amenity) (pharmacy)
+29792	-23.6750002	-46.5577371	(amenity) (pharmacy)	Droga Mater
+29805	-23.6731382	-46.5586142	(amenity) (pharmacy)	Botica Verde
+30012	-23.3186153	-46.5876123	(amenity) (pharmacy)	Farma
+30031	-23.5611082	-46.662498	(amenity) (pharmacy)	Farmácia DrugsStore
+30140	-23.5640257	-46.6656251	(amenity) (pharmacy)	Drogasil
+30221	-23.5599536	-46.6956557	(amenity) (pharmacy)	Onofre
+30225	-23.5177727	-46.3418599	(amenity) (pharmacy)	Drogasil
+30227	-23.5181727	-46.3420892	(amenity) (pharmacy)	Farma Luz
+30239	-23.2062634	-46.886166	(amenity) (pharmacy)
+30247	-23.5582938	-46.6810369	(amenity) (pharmacy)	Almeida Prado Farmacia e laboratorio
+30251	-23.5595032	-46.680885	(amenity) (pharmacy)	Drogasil
+30282	-23.5071571	-46.6734955	(amenity) (pharmacy)	Drogaria São Paulo
+30286	-23.5004645	-46.6738958	(amenity) (pharmacy)	Promofarma
+30295	-23.4915262	-46.6762341	(amenity) (pharmacy)	Droga Mina
+30321	-23.673208	-46.5401614	(amenity) (pharmacy)
+30334	-23.5565513	-46.6759567	(amenity) (pharmacy)	Droga Raia
+30404	-23.5873717	-46.7369308	(amenity) (pharmacy)	Droga Raia
+30477	-23.5568752	-46.6764989	(amenity) (pharmacy)	Onofre
+30538	-23.5391962	-46.2240976	(amenity) (pharmacy)	Drogaria Mais Vida
+30759	-23.5603996	-46.6823779	(amenity) (pharmacy)	Phitofarma Manipulação
+30785	-23.6916343	-46.5816605	(amenity) (pharmacy)	Farmácia Super Popular
+30786	-23.6793381	-46.5992076	(amenity) (pharmacy)	RiosPharma
+30800	-23.4640069	-46.4680684	(amenity) (pharmacy)	Drogaria Século XXI
+30830	-23.5706042	-46.7099284	(amenity) (pharmacy)	Pague Menos
+30887	-23.636799	-46.6965555	(amenity) (pharmacy)	Drogaria São Paulo
+30972	-23.6110513	-46.6370501	(amenity) (pharmacy)	Farma Lima
+30980	-23.5273807	-46.2041105	(amenity) (pharmacy)	Drogaria São Paulo
+31001	-23.6727876	-46.7433386	(amenity) (pharmacy)	Poupafarma
+31043	-23.2158292	-45.8922799	(amenity) (pharmacy)
+31114	-23.5985455	-46.5187553	(amenity) (pharmacy)	Drogaria São Paulo
+31161	-23.541671	-46.6556204	(amenity) (pharmacy)	Drogaria São Paulo
+31168	-23.5422849	-46.6563972	(amenity) (pharmacy)	Droga Raia
+31230	-23.5634267	-46.687415	(amenity) (pharmacy)	Pague Menos
+31241	-23.563291	-46.6876382	(amenity) (pharmacy)	Drogaria São Paulo
+31393	-23.589295	-46.5099151	(amenity) (pharmacy)	Droga Leste
+31439	-23.5863346	-46.6344267	(amenity) (pharmacy)	Drogasil
+31442	-23.5392513	-46.6076528	(amenity) (pharmacy)
+31477	-23.5659217	-46.6915933	(amenity) (pharmacy)	Farmais
+31544	-23.7024802	-46.5538565	(amenity) (pharmacy)	Extrafarma
+31546	-23.7162774	-46.555752	(amenity) (pharmacy)	Central Pharmacos
+31577	-23.6184386	-46.7708071	(amenity) (pharmacy)	Farmacia&Cia
+31614	-23.3290267	-46.7254749	(amenity) (pharmacy)	Bifarma
+31615	-23.3288912	-46.7253489	(amenity) (pharmacy)	Bifarma
+31617	-23.3304684	-46.7260282	(amenity) (pharmacy)	Bifarma
+31640	-23.4984766	-46.8766698	(amenity) (pharmacy)	Drogaria São Paulo
+31663	-23.4919002	-46.6086705	(amenity) (pharmacy)	Drogaria São Paulo
+31712	-23.4974697	-46.8488777	(amenity) (pharmacy)
+31714	-23.4981897	-46.8488393	(amenity) (pharmacy)
+31781	-23.6294491	-46.7403391	(amenity) (pharmacy)	drogaria São Paulo
+31814	-23.6952003	-46.7000798	(amenity) (pharmacy)	Drogaria São Paulo
+31815	-23.6230579	-46.6362384	(amenity) (pharmacy)	Droga Raia
+31860	-23.5603059	-46.6776751	(amenity) (pharmacy)	Droga João Moura
+32180	-23.5656117	-46.6533489	(amenity) (pharmacy)	Drogaria São Paulo
+32212	-23.7115269	-46.5491055	(amenity) (pharmacy)	BioPharma
+32268	-23.567754	-46.6786628	(amenity) (pharmacy)	Drogasil
+32643	-23.7375331	-46.5534274	(amenity) (pharmacy)	FarmaExtra
+32649	-23.6565744	-46.8516815	(amenity) (pharmacy)	Drogaria São Paulo
+32729	-23.5413724	-46.593748	(amenity) (pharmacy)	Drogaria São Paulo
+32800	-23.4824468	-46.6408624	(amenity) (pharmacy)	Drogaria São Paulo
+32984	-23.528184	-46.1989969	(amenity) (pharmacy)	Manifarma
+32996	-23.525001	-46.1989811	(amenity) (pharmacy)	Droga Raia
+33002	-23.5265264	-46.1988702	(amenity) (pharmacy)	Byo Farma
+33017	-23.5242422	-46.1951699	(amenity) (pharmacy)	Drogalis
+33018	-23.5242487	-46.1952513	(amenity) (pharmacy)	Onofre
+33019	-23.5239907	-46.1951079	(amenity) (pharmacy)	Droga Quinze
+33021	-23.5240524	-46.1954141	(amenity) (pharmacy)	Drogaria São Paulo
+33023	-23.5239501	-46.1959583	(amenity) (pharmacy)	Bifarma
+33035	-23.5213292	-46.1830034	(amenity) (pharmacy)	Drogaria São Paulo
+33037	-23.5217332	-46.1826753	(amenity) (pharmacy)	Fazfarma
+33044	-23.5213433	-46.1804061	(amenity) (pharmacy)	Drogasil
+33049	-23.5242489	-46.3440307	(amenity) (pharmacy)	Drogalis
+33051	-23.5237517	-46.3437133	(amenity) (pharmacy)	Extra
+33052	-23.5236373	-46.3440091	(amenity) (pharmacy)	Campeã
+33061	-23.5231811	-46.3436962	(amenity) (pharmacy)	Bifarma
+33062	-23.5226245	-46.3438628	(amenity) (pharmacy)	San Thiago
+33153	-23.9650093	-46.32368	(amenity) (pharmacy)	Drogaria São Paulo
+33240	-23.3981583	-45.8866394	(amenity) (pharmacy)	Farma Vida
+33246	-23.5730534	-46.0391265	(amenity) (pharmacy)	Kobayashi
+33281	-23.4733544	-46.6670428	(amenity) (pharmacy)	Drogaria São Paulo
+33282	-23.4704321	-46.6654013	(amenity) (pharmacy)	Bi Farma
+33290	-23.4829566	-46.6459701	(amenity) (pharmacy)	Leda Farma
+33291	-23.502335	-46.6659502	(amenity) (pharmacy)	Bifarma
+33401	-23.468433	-46.5212745	(amenity) (pharmacy)	Drogaria São Paulo
+33452	-23.4789134	-46.5777616	(amenity) (pharmacy)	Farmais
+33457	-23.6704704	-46.5601681	(amenity) (pharmacy)	Drogaria São Paulo
+33493	-23.7788156	-46.5311067	(amenity) (pharmacy)	RR Pharma
+33543	-23.5336654	-46.6554332	(amenity) (pharmacy)	Drogarias Ultra Popular
+33580	-23.7070837	-46.5303849	(amenity) (pharmacy)	Vencedor Farma
+33736	-23.6999791	-46.5516731	(amenity) (pharmacy)	Central Phamarcos
+33745	-23.1807958	-45.8873895	(amenity) (pharmacy)	Drogaquinze
+33795	-23.4099408	-46.8462127	(amenity) (pharmacy)
+33801	-23.4771302	-46.7040621	(amenity) (pharmacy)	FarmaClick
+33855	-23.6172654	-46.6783708	(amenity) (pharmacy)	Drogasil
+33880	-23.465056	-46.6793176	(amenity) (pharmacy)
+34000	-23.5935315	-46.4885637	(amenity) (pharmacy)	Farma & Cia
+34021	-23.5622695	-46.6676123	(amenity) (pharmacy)	Drogaria Lorena
+34037	-23.5106591	-46.8833625	(amenity) (pharmacy)	Farmácia Municipal
+34066	-23.4713124	-46.6659463	(amenity) (pharmacy)	Drogasil
+34099	-23.476069	-46.5720216	(amenity) (pharmacy)	Drogasil
+34418	-23.6305965	-46.7032005	(amenity) (pharmacy)	Drogaria São Paulo
+34558	-23.6333249	-46.5135972	(amenity) (pharmacy)	Feliz Farma
+34656	-23.5215672	-46.412628	(amenity) (pharmacy)	Perfumaria Novo Estilo
+34801	-23.5294473	-46.8633654	(amenity) (pharmacy)	Drogaria Ipanema
+34957	-23.3189761	-46.5855778	(amenity) (pharmacy)	Droga Sol
+34959	-23.6818007	-46.6384149	(amenity) (pharmacy)	Farmais
+35041	-23.5731756	-46.6944665	(amenity) (pharmacy)	Drogaria São Paulo
+35082	-23.5715806	-46.6907618	(amenity) (pharmacy)	Drogaria do Farto
+35140	-23.5693117	-46.6464723	(amenity) (pharmacy)	Drogaria São Paulo
+35157	-23.5930211	-46.6772227	(amenity) (pharmacy)	Droga Raia
+35393	-23.6201848	-46.5534596	(amenity) (pharmacy)	Farmais
+35435	-23.6666062	-46.5326067	(amenity) (pharmacy)	Droga Raia
+35443	-23.652179	-46.5298858	(amenity) (pharmacy)	Poupa Centro
+35464	-23.662259	-46.5387156	(amenity) (pharmacy)	Renova
+35493	-23.6658365	-46.5409897	(amenity) (pharmacy)	Selenium Farmácia
+35618	-23.546525	-46.6341776	(amenity) (pharmacy)	Droga Raia
+35653	-23.6422795	-46.5252953	(amenity) (pharmacy)	Drogaria Santa Catarina
+35700	-23.6617033	-46.524967	(amenity) (pharmacy)	Alquimia Manipulação
+35713	-23.6352282	-46.5326346	(amenity) (pharmacy)	Feliz Farma
+35733	-23.6491331	-46.5395242	(amenity) (pharmacy)	Droga Raia
+35921	-23.6180068	-46.7952156	(amenity) (pharmacy)
+36003	-23.4868179	-46.5817914	(amenity) (pharmacy)	Drogaria Hirosato
+36105	-23.5679248	-46.6930751	(amenity) (pharmacy)	Pague Menos
+36178	-23.5661038	-46.6964069	(amenity) (pharmacy)	Farmacia Ubiratan
+36296	-23.5508369	-46.6224406	(amenity) (pharmacy)	Poupa Mais
+36454	-23.4945044	-46.4131618	(amenity) (pharmacy)	Farmácia D'avó
+36483	-23.5068106	-46.6000773	(amenity) (pharmacy)
+36516	-23.5221283	-46.5929292	(amenity) (pharmacy)	Droga Vida
+36550	-23.2037785	-45.8974903	(amenity) (pharmacy)	Farma Conde
+36726	-23.7359487	-46.5361153	(amenity) (pharmacy)	Drogaria Juruna
+36750	-23.5597442	-46.6673783	(amenity) (pharmacy)	Droga Raia
+36802	-23.5799123	-46.6507285	(amenity) (pharmacy)	Droga Raia
+36807	-23.55486	-46.6859026	(amenity) (pharmacy)
+36897	-23.547743	-46.6880543	(amenity) (pharmacy)	Drogasil
+36933	-23.655994	-46.5715915	(amenity) (pharmacy)	Farma 100
+36934	-23.6557628	-46.571581	(amenity) (pharmacy)	Farmácia Miravo
+37304	-23.5760538	-46.6879303	(amenity) (pharmacy)	Drogaria São Paulo
+37332	-23.5724727	-46.6896307	(amenity) (pharmacy)	Droga Raia
+37338	-23.5498861	-46.6598875	(amenity) (pharmacy)	Unipharmus
+37423	-23.5897938	-46.5777625	(amenity) (pharmacy)	Droga Leste
+37426	-23.5899714	-46.5767024	(amenity) (pharmacy)	Droga Raia
+37601	-23.5426105	-46.4168754	(amenity) (pharmacy)	Drogalis
+37765	-23.4698819	-46.6302748	(amenity) (pharmacy)	Droga Verde
+37791	-23.7104695	-46.553258	(amenity) (pharmacy)	Bifarma
+37879	-23.5683227	-46.7501333	(amenity) (pharmacy)	Farmácia Ananda
+37903	-23.2052617	-46.7881316	(amenity) (pharmacy)
+37937	-23.5458315	-46.2580012	(amenity) (pharmacy)	Drogaria San Thiago
+38033	-23.5740013	-46.6886092	(amenity) (pharmacy)	Carrefour
+38074	-23.5463622	-46.651087	(amenity) (pharmacy)	Droga Raia
+38119	-23.6172624	-46.7054991	(amenity) (pharmacy)	Drogasil
+38230	-23.9758016	-46.3133713	(amenity) (pharmacy)	Raia
+38281	-23.5634053	-46.9299259	(amenity) (pharmacy)
+38319	-23.9823421	-46.3075529	(amenity) (pharmacy)	Alkimista
+38347	-23.6688586	-46.5884454	(amenity) (pharmacy)	HMS Drogaria
+38354	-23.516754	-46.7870648	(amenity) (pharmacy)	Drogaria e Perfumaria Genesis
+38359	-23.5167551	-46.7873574	(amenity) (pharmacy)
+38599	-23.5834729	-46.6046176	(amenity) (pharmacy)	Drogaria São Paulo
+38712	-23.6700387	-46.5058968	(amenity) (pharmacy)	Drogaria Coop
+38804	-23.5840854	-46.6427152	(amenity) (pharmacy)	Drogaria São Paulo
+38805	-23.5856224	-46.6460045	(amenity) (pharmacy)	Droga Raia
+38832	-23.6498741	-46.6607043	(amenity) (pharmacy)	Poupa Farma
+38834	-23.6493811	-46.6612678	(amenity) (pharmacy)	Farmácia Ândira
+38899	-23.4942139	-46.4198677	(amenity) (pharmacy)	Drogaria São Paulo
+38916	-23.6882757	-46.562752	(amenity) (pharmacy)	Remédio Fácil Drogaria
+39453	-23.5389072	-46.6403741	(amenity) (pharmacy)	DrogaRadium
+39564	-23.5356685	-46.6625143	(amenity) (pharmacy)	Drogasil
+39574	-23.5482158	-46.5655732	(amenity) (pharmacy)	Neo Farma Manipulação
+39656	-23.5930958	-46.5463676	(amenity) (pharmacy)	Drogaria Poupa Mais
+39657	-23.5928484	-46.5464496	(amenity) (pharmacy)	Drogaria São Paulo
+39907	-23.6316416	-46.5300925	(amenity) (pharmacy)	Alto Astral
+39982	-23.4957908	-46.6257566	(amenity) (pharmacy)	PromoFarma
+39986	-23.7351872	-46.5829373	(amenity) (pharmacy)	drograria Master Farma
+40031	-23.6548238	-46.528779	(amenity) (pharmacy)	Feliz Farma
+40036	-23.6544533	-46.5279656	(amenity) (pharmacy)	Feliz Farma
+40044	-23.6548048	-46.5282085	(amenity) (pharmacy)	Drogasil
+40078	-23.4936915	-46.6167685	(amenity) (pharmacy)	Pharma
+40090	-23.4925027	-46.6176872	(amenity) (pharmacy)	Droga Raia
+40133	-23.7445626	-46.7072744	(amenity) (pharmacy)	Drogaria São Paulo
+40175	-23.4553047	-46.6936812	(amenity) (pharmacy)	Droga Lema
+40226	-23.5258207	-46.7068999	(amenity) (pharmacy)	Pharmasol
+40237	-23.4821949	-46.6547441	(amenity) (pharmacy)	Maqui Popular
+40246	-23.4602722	-46.6758333	(amenity) (pharmacy)	Promofarma
+40247	-23.486794	-46.6525351	(amenity) (pharmacy)	Droga Raia
+40321	-23.6201675	-46.730129	(amenity) (pharmacy)
+40337	-23.6615323	-46.6635187	(amenity) (pharmacy)	Bifarma
+40418	-23.4691754	-46.6770165	(amenity) (pharmacy)	Drogasil
+40662	-23.5483668	-46.5630848	(amenity) (pharmacy)
+40699	-23.1884575	-45.8751651	(amenity) (pharmacy)	Drogaria Venus
+40709	-23.1886365	-45.8747769	(amenity) (pharmacy)	Drogaquinze
+41051	-23.1889889	-45.8740538	(amenity) (pharmacy)	Farma Viver
+41263	-23.6025159	-46.612255	(amenity) (pharmacy)
+41371	-23.5379943	-46.6361145	(amenity) (pharmacy)	Drogaria Campeã
+41393	-23.5372011	-46.635961	(amenity) (pharmacy)	Ecomofarma
+41751	-23.2574137	-47.2986521	(amenity) (pharmacy)	Carrefour Drogaria Super Itu
+41819	-23.5680508	-46.6262717	(amenity) (pharmacy)	Droga Raia
+41884	-23.5927348	-46.8375086	(amenity) (pharmacy)	Drogasil
+42015	-23.7205632	-46.5632774	(amenity) (pharmacy)	Drogaria Economed
+42032	-23.2046483	-45.8975892	(amenity) (pharmacy)	Phitofarma
+42159	-23.5942428	-46.6835277	(amenity) (pharmacy)	Drogaria São Paulo
+42519	-23.2263973	-46.8482597	(amenity) (pharmacy)	Drogaria América
+42551	-23.563959	-46.6981761	(amenity) (pharmacy)	Drogaria e Perfumaria Akyali
+42633	-23.5616833	-46.6930816	(amenity) (pharmacy)	Formularium
+42654	-23.2777658	-47.2900945	(amenity) (pharmacy)	Super Drogão
+42787	-23.6477366	-46.6634559	(amenity) (pharmacy)	Drogaria São Paulo
+42833	-23.7117732	-46.5929892	(amenity) (pharmacy)
+42855	-23.6200203	-46.6942844	(amenity) (pharmacy)	Drogasil
+42865	-23.2954976	-45.9581124	(amenity) (pharmacy)	DorogaQuinze
+42920	-23.4818315	-46.621917	(amenity) (pharmacy)	Pague Menos
+42951	-23.2927567	-45.9563171	(amenity) (pharmacy)	Droga Raia
+42977	-23.1879845	-45.8733064	(amenity) (pharmacy)	´DrogaBello
+42988	-23.5061011	-46.5775086	(amenity) (pharmacy)	Promofarma
+43017	-23.648774	-46.5968736	(amenity) (pharmacy)
+43024	-23.5434593	-46.2368997	(amenity) (pharmacy)
+43167	-23.2722408	-45.9364547	(amenity) (pharmacy)	FarMais
+74762	-23.63947785	-46.69747135	(amenity) (pharmacy)	Drogaria LW
+74763	-23.63887285	-46.696516450000004	(amenity) (pharmacy)	Drogavista
+74764	-23.63879575	-46.69654745	(amenity) (pharmacy)	Drogavista
+74768	-23.639389350000002	-46.69705195	(amenity) (pharmacy)	Folha Pharma Manipulação
+75126	-23.63659495	-46.693627649999996	(amenity) (pharmacy)	Droga Raia Alto da Boa Vista
+75144	-23.63576355	-46.69497225	(amenity) (pharmacy)	Unipharmas
+82151	-23.559978100000002	-46.68982245	(amenity) (pharmacy)	Droga Raia
+122674	-23.712042150000002	-46.55024745	(amenity) (pharmacy)	Droga Raia
+124650	-23.31903825	-46.583632	(amenity) (pharmacy)	Droga Sol
+124653	-23.3182569	-46.58470045	(amenity) (pharmacy)	Farma Fácil
+124856	-23.62194485	-46.620821500000005	(amenity) (pharmacy)	Droga Raia
+129669	-23.622510849999998	-46.53876285	(amenity) (pharmacy)	Drogaria Vinicius II
+146960	-23.1615859	-46.57286095	(amenity) (pharmacy)	Droga Vita
+147958	-23.3186483	-46.5843214	(amenity) (pharmacy)	Farmanossa
+159873	-23.69282395	-46.55539685	(amenity) (pharmacy)	Herva's Pharmacia
+161205	-23.691487199999997	-46.58158765	(amenity) (pharmacy)	Drogaria São Paulo
+163399	-23.72119085	-46.54924135	(amenity) (pharmacy)	Droga Estação
+163421	-23.7052434	-46.5511937	(amenity) (pharmacy)	Drogasil
+163422	-23.71321475	-46.54985145	(amenity) (pharmacy)	Drogaria São Paulo
+163451	-23.70404535	-46.5538783	(amenity) (pharmacy)	Drogaria Coop
+164202	-23.1887368	-45.8862453	(amenity) (pharmacy)	Drogaria São Paulo
+164397	-23.69467255	-46.5686556	(amenity) (pharmacy)	Drogasil
+165677	-23.6855248	-46.5542178	(amenity) (pharmacy)	Drogasil
+166909	-23.7179643	-46.57385845	(amenity) (pharmacy)	Drogaria Poupareal
+168050	-23.6924201	-46.55601935	(amenity) (pharmacy)	Drogaria São Paulo
+168270	-23.69205915	-46.5811882	(amenity) (pharmacy)	Bifarma
+172007	-23.695645300000002	-46.55323165	(amenity) (pharmacy)	Própharmacos
+172048	-23.69357055	-46.5541907	(amenity) (pharmacy)	Manipule
+173334	-23.19749335	-45.8947822	(amenity) (pharmacy)	Byofórmula
+173983	-23.7027098	-46.5443226	(amenity) (pharmacy)	Drogaria São Paulo
+173986	-23.49564245	-46.6610935	(amenity) (pharmacy)	BiFarma
+173987	-23.49506565	-46.6612226	(amenity) (pharmacy)	Promofarma
+174493	-23.69182905	-46.580927700000004	(amenity) (pharmacy)	Farmais
+175766	-23.65572495	-46.5711832	(amenity) (pharmacy)	BIfarna
+181869	-23.72166415	-46.5673261	(amenity) (pharmacy)	Drogaria São Paulo
+182181	-23.7175175	-46.54885165	(amenity) (pharmacy)	Drogasil
+183204	-23.5390035	-46.56757565	(amenity) (pharmacy)	Fra
+184244	-23.73818385	-46.574302349999996	(amenity) (pharmacy)	Drogaria Detroit
+186393	-23.5239172	-46.70319155	(amenity) (pharmacy)	FarMais
+186407	-23.52813785	-46.7046143	(amenity) (pharmacy)	Farma&Cia
+186714	-23.6918373	-46.556114	(amenity) (pharmacy)	Bifarma
+191947	-23.4883005	-46.58310025	(amenity) (pharmacy)	Drogasil
+195518	-23.5608039	-46.66076455	(amenity) (pharmacy)	Droga Raia
+196976	-23.548752049999997	-46.65945375	(amenity) (pharmacy)	Drogaria Onofre
+196985	-23.547910299999998	-46.659200299999995	(amenity) (pharmacy)	Pague Menos
+197592	-23.5415159	-46.650660200000004	(amenity) (pharmacy)	Drogasil
+197853	-23.97594785	-46.2994027	(amenity) (pharmacy)	Droga Raia
+201615	-23.535510600000002	-46.780564350000006	(amenity) (pharmacy)	Droga Raia
+202511	-23.7057254	-46.5498783	(amenity) (pharmacy)	Drogaria São Paulo
+202528	-23.7096782	-46.55049495	(amenity) (pharmacy)	Drogaria São Paulo
+202543	-23.5729131	-46.63300395	(amenity) (pharmacy)	Drogaria São Paulo Aclimação
+202858	-23.602331200000002	-46.62054955	(amenity) (pharmacy)	Droga Raia
+204046	-23.69102795	-46.58101015	(amenity) (pharmacy)	Drugstore Pague Menos
+205234	-23.5898762	-46.71539985	(amenity) (pharmacy)	Drogaria São Paulo
+205296	-23.60686185	-46.6353547	(amenity) (pharmacy)	Drogaria São Paulo
+205302	-23.61201965	-46.63355895	(amenity) (pharmacy)	Droga Raia
+205318	-23.60167345	-46.64120405	(amenity) (pharmacy)	Drogaria São Paulo
+205363	-23.6029615	-46.63976395	(amenity) (pharmacy)	Drogaria São Paulo
+205381	-23.6220344	-46.64033225	(amenity) (pharmacy)	Farma Conde
+205445	-23.61860725	-46.638657699999996	(amenity) (pharmacy)	Farma Conde
+206759	-23.9455302	-46.37685655	(amenity) (pharmacy)	Drogaria Reis
+208049	-23.5625389	-46.6813717	(amenity) (pharmacy)	Droga Raia
+208503	-23.717185399999998	-46.5468173	(amenity) (pharmacy)	Drogaria São Paulo
+208626	-23.7085455	-46.5458213	(amenity) (pharmacy)	Droga Raia
+208827	-23.712986299999997	-46.5504299	(amenity) (pharmacy)	Drogaria Economed
+209255	-23.693766150000002	-46.567767450000005	(amenity) (pharmacy)	Feliz Farma
+210487	-23.6533395	-46.5353319	(amenity) (pharmacy)	New Farma Farmácia de Manipulação
+210498	-23.6538836	-46.53412265	(amenity) (pharmacy)	Milícia
+211225	-23.738376549999998	-46.55327465	(amenity) (pharmacy)	Drogaria Coop
+211227	-23.73736915	-46.5538319	(amenity) (pharmacy)	Drogasil
+212186	-23.54074095	-46.5918145	(amenity) (pharmacy)	Drogasil
+214674	-23.4635836	-46.872386399999996	(amenity) (pharmacy)	Droga Apoio
+216903	-23.592120100000002	-46.83547505	(amenity) (pharmacy)	Droga Onofre
+217618	-23.97068315	-46.32343035	(amenity) (pharmacy)	Drogaria São Paulo
+217916	-23.976999550000002	-46.3116834	(amenity) (pharmacy)	Farma Conde
+218485	-23.95803085	-46.32262995	(amenity) (pharmacy)	Droga Raia
+218496	-23.9669987	-46.3200142	(amenity) (pharmacy)	Drogasil
+219872	-23.9567185	-46.35124315	(amenity) (pharmacy)	Farma Conde
+220482	-23.7236664	-46.5738165	(amenity) (pharmacy)	Drogasil
+220485	-23.7071608	-46.5680711	(amenity) (pharmacy)	Drogaria São Paulo
+224193	-23.9736919	-46.31602745	(amenity) (pharmacy)	Farma Conde
+225170	-23.12963085	-46.467163600000006	(amenity) (pharmacy)	Farmácia
+225193	-23.136725849999998	-46.4651882	(amenity) (pharmacy)	Drogaria Pazinatos
+225415	-23.4864916	-46.34873535	(amenity) (pharmacy)	Drogaria SP
+226473	-23.672184950000002	-46.742902799999996	(amenity) (pharmacy)	Drogasil
+226474	-23.67277455	-46.74332595	(amenity) (pharmacy)	Poupafarma
+229139	-23.60351375	-46.6717895	(amenity) (pharmacy)	Drogasil
+230367	-23.6648107	-46.52255785	(amenity) (pharmacy)	Drogaria São Paulo
+230615	-23.66751465	-46.568053649999996	(amenity) (pharmacy)	Drogasil
+231907	-23.5955455	-46.6666051	(amenity) (pharmacy)	Drogasil
+231908	-23.59554185	-46.6666042	(amenity) (pharmacy)	Drogasil
+233511	-23.642172000000002	-46.69773525	(amenity) (pharmacy)	Farmácia Weleda Santo Amaro
+233615	-23.6196795	-46.55472865	(amenity) (pharmacy)	Posto médico
+233700	-23.64412515	-46.70108375	(amenity) (pharmacy)	Droga Raia
+234227	-23.5332689	-46.197915249999994	(amenity) (pharmacy)	Drogasil
+234229	-23.538591150000002	-46.20145585	(amenity) (pharmacy)	Drogaria Kobayashi
+234275	-23.6254839	-46.74126685	(amenity) (pharmacy)	Drogasil
+236305	-23.6157262	-46.7402406	(amenity) (pharmacy)	Droga Raia
+236424	-23.6741945	-46.64265025	(amenity) (pharmacy)	Drogaria São Paulo
+236598	-23.7066047	-46.54924495	(amenity) (pharmacy)	Drogaria Americana
+237115	-23.6714546	-46.589742400000006	(amenity) (pharmacy)	Drogaria Vip Farma
+237117	-23.66586795	-46.5930411	(amenity) (pharmacy)	Mais Saúde
+237236	-23.62631695	-46.55721525	(amenity) (pharmacy)	Drogasil
+238760	-23.5910095	-46.5806424	(amenity) (pharmacy)	Drogasil
+238761	-23.59088055	-46.58159195	(amenity) (pharmacy)	Drogaria São Paulo
+239127	-23.6721327	-46.7428246	(amenity) (pharmacy)	Muyu Farma
+240408	-23.5187039	-46.3409719	(amenity) (pharmacy)	Drograria São Paulo
+240450	-23.647066600000002	-46.5148959	(amenity) (pharmacy)	Drogaria São Paulo
+241872	-23.649504399999998	-46.702321	(amenity) (pharmacy)	Farmácia Preço Popular
+242177	-23.20037495	-47.2894943	(amenity) (pharmacy)	Carrefour Drogaria Salto
+242689	-23.522813900000003	-46.1768772	(amenity) (pharmacy)	Drogaria Kobayashi
+242911	-23.9653932	-46.254699099999996	(amenity) (pharmacy)	Drogaria Kativa
+243228	-23.6202461	-46.55350935	(amenity) (pharmacy)	Farmais Drogarias
+243664	-23.45822955	-46.5678506	(amenity) (pharmacy)	Promofarma
+244051	-23.4823275	-46.62198135	(amenity) (pharmacy)	Promofarma
+244084	-23.49308825	-46.6171731	(amenity) (pharmacy)	Drogaria São Paulo
+244524	-23.460530900000002	-46.53535085	(amenity) (pharmacy)	Droga Raia
+244904	-23.638931550000002	-46.658144699999994	(amenity) (pharmacy)	Drogasil
+245188	-23.49858385	-46.59500495	(amenity) (pharmacy)	Drogaria São Paulo
+245598	-23.61505985	-46.50137135	(amenity) (pharmacy)	Drogasil
+246358	-23.55631385	-46.560577249999994	(amenity) (pharmacy)	Droga Raia
+246475	-23.5278657	-46.34485195	(amenity) (pharmacy)	Farmacia Veran
+247181	-23.9836491	-46.2385905	(amenity) (pharmacy)	Poupa Farma
+247612	-23.20377655	-45.893463499999996	(amenity) (pharmacy)	Drogaria São Paulo
+248283	-23.3260531	-46.725386	(amenity) (pharmacy)	Bifarma
+248335	-23.484944499999997	-46.8628128	(amenity) (pharmacy)	Drogaria São Paulo
+249002	-23.541798	-46.778363850000005	(amenity) (pharmacy)	Drogaria Brandão
+249798	-23.53082355	-46.79383165	(amenity) (pharmacy)	Drogasil
+250026	-23.65895565	-46.8518521	(amenity) (pharmacy)	Drogasil
+250148	-23.18593465	-45.8853551	(amenity) (pharmacy)	Vivace
+250180	-23.18674305	-45.88328785	(amenity) (pharmacy)	Drogaquinze
+250244	-23.197777549999998	-45.894260849999995	(amenity) (pharmacy)	Drogasil
+250265	-23.20548745	-45.90227555	(amenity) (pharmacy)	Farmácia Comunitária Petiti
+250315	-23.19886865	-45.89199585	(amenity) (pharmacy)	Droga Raia
+250412	-23.20035645	-45.888708699999995	(amenity) (pharmacy)	Droga 15
+250458	-23.2034557	-45.8977637	(amenity) (pharmacy)	Droga Raia
+251197	-23.6210618	-46.73814295	(amenity) (pharmacy)	Drogasil
+251256	-23.6540629	-46.57230025	(amenity) (pharmacy)	Droga Raia
+252378	-23.583259849999997	-46.810967950000006	(amenity) (pharmacy)	Drogaria Bem Estar
+254137	-23.3042248	-45.9673039	(amenity) (pharmacy)	Droga Raia
+254162	-23.20386065	-45.892505	(amenity) (pharmacy)	Aquamarine
+254182	-23.552059149999998	-46.529067049999995	(amenity) (pharmacy)	Drogasil
+254315	-23.7131525	-46.586763149999996	(amenity) (pharmacy)	Droga Coop
+254379	-23.4462463	-46.716915549999996	(amenity) (pharmacy)	Drogaria
+254406	-23.6992759	-46.6119001	(amenity) (pharmacy)	Drogaria São Paulo
+254489	-23.71415205	-46.53220915	(amenity) (pharmacy)	Extrafarma
+254520	-23.71801355	-46.52795295	(amenity) (pharmacy)	Drogaria Portal Farma
+254557	-23.71146525	-46.5436021	(amenity) (pharmacy)	Drogaria Onofre
+254675	-23.54161525	-46.36840935	(amenity) (pharmacy)	Esquina da Fé
+254676	-23.54042655	-46.3683848	(amenity) (pharmacy)	Santa Suzana
+254752	-23.497024500000002	-46.7261379	(amenity) (pharmacy)	Drogasil
+254755	-23.1963623	-45.8914175	(amenity) (pharmacy)	Farma Conde
+254971	-23.18163325	-46.923156399999996	(amenity) (pharmacy)	Farmacity
+255787	-23.5396265	-46.9387568	(amenity) (pharmacy)	Drogaria São Paulo
+256005	-23.198410699999997	-45.8933562	(amenity) (pharmacy)	Drogaria São Lucas
+256095	-23.486496449999997	-46.692847549999996	(amenity) (pharmacy)	Droga Raia
+256096	-23.48549705	-46.692102500000004	(amenity) (pharmacy)	Drogaria São Paulo
+256286	-23.54665595	-46.935302199999995	(amenity) (pharmacy)	Drogasil
+257630	-23.556111100000003	-46.2184065	(amenity) (pharmacy)	SANO
+259132	-23.49830425	-46.59674055	(amenity) (pharmacy)	Drogasil
+259272	-23.548894500000003	-46.56036245	(amenity) (pharmacy)	Drogasil
+259317	-23.5479336	-46.5552862	(amenity) (pharmacy)	Extrafarma
+259353	-23.54777325	-46.5723138	(amenity) (pharmacy)	Drogasil
+259420	-23.5359386	-46.57297025	(amenity) (pharmacy)	Drogasil
+260004	-23.557381200000002	-46.220030050000005	(amenity) (pharmacy)	Acessofarma
+260007	-23.551404599999998	-46.226380649999996	(amenity) (pharmacy)	Drogaria Nova Cintra
+260607	-23.617267650000002	-46.7050135	(amenity) (pharmacy)	Drogaria São Paulo
+260631	-23.58923465	-46.73460585	(amenity) (pharmacy)	Drogasil
+262159	-23.5512253	-46.554017	(amenity) (pharmacy)	Drogaria São Paulo
+262425	-23.61378455	-46.63783665	(amenity) (pharmacy)	Drogaria São Paulo
+262789	-23.48103905	-46.69168445	(amenity) (pharmacy)	Drogaria São Paulo
+263005	-23.51986695	-46.172349800000006	(amenity) (pharmacy)	Drogaria Socorro
+263167	-23.96842145	-46.37539715	(amenity) (pharmacy)	Pague Menos
+263171	-23.95325095	-46.33686735	(amenity) (pharmacy)	PoupaMed
+263172	-23.96571255	-46.3384861	(amenity) (pharmacy)	Droga Raia
+263179	-23.96924545	-46.3738834	(amenity) (pharmacy)	Farma Conde
+263181	-23.966821	-46.37962675	(amenity) (pharmacy)	Droga Raia
+263276	-23.72755605	-46.5752105	(amenity) (pharmacy)	FarmaFeliz
+263384	-23.484120349999998	-46.542439	(amenity) (pharmacy)	Drogaria São Paulo
+263619	-23.5626476	-46.8472966	(amenity) (pharmacy)	Drogaria Scorsi
+264211	-23.52816985	-46.70427635	(amenity) (pharmacy)	Droga Raia
+264370	-23.6962585	-46.5819067	(amenity) (pharmacy)	Feliz Farma
+264697	-23.6161552	-46.636536500000005	(amenity) (pharmacy)	Drogasil
+265119	-23.2891864	-45.95292785	(amenity) (pharmacy)	Drogaria São Paulo
+266186	-23.4714296	-46.65203415	(amenity) (pharmacy)	Bifarma
+266594	-23.48159515	-46.7172213	(amenity) (pharmacy)	Farmais
+267715	-23.64356965	-46.605113599999996	(amenity) (pharmacy)	Drogaria São Paulo
+268287	-23.649503000000003	-46.70420675	(amenity) (pharmacy)	Drogaria São Paulo
+268517	-23.1985536	-45.904516799999996	(amenity) (pharmacy)	Droga Raia
+269770	-23.6873954	-46.619728800000004	(amenity) (pharmacy)	Farmácia PopuDiadema
+270414	-23.68315055	-46.54613465	(amenity) (pharmacy)	Drogaria São Paulo
+270495	-23.3010703	-45.9616647	(amenity) (pharmacy)	Drogaria São Paulo
+270989	-23.30921095	-45.9796348	(amenity) (pharmacy)	Drogaria São Paulo
+271053	-23.3110674	-45.9818626	(amenity) (pharmacy)	Droga Raia

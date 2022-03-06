@@ -1,0 +1,9 @@
+@prefix e: <http://learningsparql.com/ns/expenses#> .
+@prefix d: <http://learningsparql.com/ns/data#> .
+
+e:r1     e:l2 	e:r3.
+e:r1     e:l3 	e:r4.
+e:r1     e:l2 	e:r2.
+e:r1     e:l1 	e:r2.
+e:r2     e:l3 	e:r4.
+e:r2     e:l1 	e:r1.

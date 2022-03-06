@@ -1,0 +1,617 @@
+60	40.3983888	-3.7882156	(tourism) (hotel)	NH Ciudad de la Imagen
+138	40.4188562	-3.7093262	(tourism) (hotel)	Room Mate Mario Hotel
+379	40.4098332	-3.6928352	(tourism) (hotel)	NH Nacional
+402	40.4114334	-3.6943236	(tourism) (hotel)	Hotel México
+424	40.4154544	-3.6958024	(tourism) (hotel)	The Westin Palace
+427	40.4157301	-3.6970821	(tourism) (hotel)	Hotel Villa Real
+432	40.4168278	-3.6969322	(tourism) (hotel)	Hostal Olga
+554	40.4196853	-3.7074213	(tourism) (hotel)	Hotel Preciados
+558	40.4186548	-3.7066997	(tourism) (hotel)	Palacio San Martín
+563	40.4181423	-3.7043155	(tourism) (hotel)	Hotel Petit Palace Londres
+564	40.4175269	-3.7035489	(tourism) (hotel)	Hotel Europa
+569	40.4187423	-3.7039628	(tourism) (hotel)	Hotel Liabeny
+571	40.4189577	-3.7028511	(tourism) (hotel)	Hotel Petit Palace Plaza del Carmen
+574	40.4192843	-3.7030373	(tourism) (hotel)	Anaco
+576	40.4197757	-3.7031077	(tourism) (hotel)	Hotel Arosa
+584	40.4192335	-3.7043567	(tourism) (hotel)	Hotel II Castillas
+587	40.420392	-3.7045921	(tourism) (hotel)	Hotel Atlántico
+612	40.4365552	-3.6213074	(tourism) (hotel)	Alcalá Norte
+694	40.4698335	-3.5807416	(tourism) (hotel)	Hotel Ibis Barajas
+727	40.4709687	-3.5799099	(tourism) (hotel)	Hotel Clement Barajas
+898	40.0392136	-3.6056125	(tourism) (hotel)	Hotel Mercedes
+1008	40.512699	-3.6761237	(tourism) (hotel)	Holiday Inn Madrid - Las Tablas
+1013	40.4895942	-3.6881339	(tourism) (hotel)	Hotel VillaMadrid
+2672	40.4071596	-3.8999804	(tourism) (hotel)	Tintinabulum
+3396	40.4383553	-3.7007985	(tourism) (hotel)	TRYP Chamberí
+3458	40.438666	-3.6930029	(tourism) (hotel)	NH Zurbano
+3492	40.3170276	-3.7346292	(tourism) (hotel)	AC Getafe
+3493	40.3163133	-3.7352178	(tourism) (hotel)	Ibis Madrid Getafe
+3576	40.4660284	-3.6959033	(tourism) (hotel)	Caballero Errante
+3657	40.5994432	-3.7155594	(tourism) (hotel)	Exe Tres Cantos
+3829	40.4217426	-3.6724982	(tourism) (hotel)	Novotel Madrid Center
+4126	40.9211248	-3.8448087	(tourism) (hotel)	La Posada de Alameda
+4676	40.4730337	-3.5853769	(tourism) (hotel)	Hotel Tach
+4684	40.7343456	-4.0195958	(tourism) (hotel)	Arcipreste de Hita
+4837	40.4817023	-3.3949571	(tourism) (hotel)	Campanile Madrid - Alcalá de Henares
+4838	40.4848406	-3.3967934	(tourism) (hotel)	Metropol Rooms Alcalá
+5000	40.4156823	-3.7060457	(tourism) (hotel)	Posada del Peine
+5069	40.4136556	-3.7034629	(tourism) (hotel)	Hotel Cortezo
+5086	40.4014111	-3.6869801	(tourism) (hotel)	Rafael Atocha
+5106	40.5465632	-3.657221	(tourism) (hotel)
+5130	40.4253805	-3.6843535	(tourism) (hotel)	Hotel Adler
+5171	40.5909392	-4.1438861	(tourism) (hotel)
+5172	40.5910958	-4.1436211	(tourism) (hotel)	Hotel Los Lanceros
+5173	40.5907136	-4.1463882	(tourism) (hotel)	Florida
+5177	40.3941023	-3.7077566	(tourism) (hotel)	Hotel Praga
+5215	40.4728241	-3.576856	(tourism) (hotel)	Hotel Barajas Plaza
+5230	40.9637046	-4.0990387	(tourism) (hotel)	Hotel Puerta de Segovia
+5231	40.9647691	-4.0985679	(tourism) (hotel)	Apartamentos Veladiez
+5264	40.4051563	-3.6936762	(tourism) (hotel)	Hotel Carlton
+5333	40.5331832	-3.4795002	(tourism) (hotel)	Villa de Ajalvir
+5396	40.4126365	-3.7041269	(tourism) (hotel)
+5439	40.4210869	-3.7213244	(tourism) (hotel)	Florida Norte
+5544	40.4078147	-3.6894036	(tourism) (hotel)	NH Atocha
+5571	40.7267358	-3.8643303	(tourism) (hotel)	Hotel Parque Real
+5708	40.6350358	-3.1728022	(tourism) (hotel)	AC Hoteles
+5814	40.65225	-3.1853145	(tourism) (hotel)	Hotel Puerta Guadalajara
+5880	40.4164306	-3.6986845	(tourism) (hotel)	Urban
+6172	40.4179496	-3.6998271	(tourism) (hotel)	Hotel Regina
+6176	40.2792212	-3.7707402	(tourism) (hotel)
+6369	40.4220833	-3.7095924	(tourism) (hotel)	Hotel Mayorazgo
+6371	40.42038	-3.7064736	(tourism) (hotel)	Vincci Capitol
+6377	40.3570606	-3.822853	(tourism) (hotel)	Ibis Alcorcón Tresaguas
+6517	40.5907829	-4.1468603	(tourism) (hotel)	Miranda & Suizo
+6529	40.8796195	-4.0182134	(tourism) (hotel)	Hostal El Torreón
+6587	40.4556788	-3.4792871	(tourism) (hotel)	Asset Torrejón
+7046	40.4224232	-3.7088852	(tourism) (hotel)	Vincci Vía 66
+7049	40.7288587	-3.9540045	(tourism) (hotel)	Hotel Matalpino
+7113	40.8756909	-3.6034365	(tourism) (hotel)	El Cancho del Águila
+7291	40.8559848	-3.6127726	(tourism) (hotel)	Hotel Mavi
+7391	39.8321877	-3.9696597	(tourism) (hotel)	Apartahotel Las Nieves
+7425	40.4222346	-3.7116559	(tourism) (hotel)	Casón del Tormes
+7590	40.46764	-3.800594	(tourism) (hotel)	Aparthotel NH La Florida
+7620	40.4286482	-3.6944023	(tourism) (hotel)	apartahotel Andrómeda
+9477	40.5555869	-3.2780501	(tourism) (hotel)	Miralcampo
+9478	40.5744894	-3.2606426	(tourism) (hotel)	Azuqueca
+9501	40.457862	-3.5833584	(tourism) (hotel)	Sercotel Madrid Aeropuerto
+9522	40.4219032	-3.7065439	(tourism) (hotel)	Best Western Los Condes
+26899	40.442793	-3.6480569	(tourism) (hotel)	Artiem Madrid
+26917	39.861635	-4.023311	(tourism) (hotel)	Hostal Sol
+27364	40.9615608	-4.1005731	(tourism) (hotel)	Venta Magullo
+27452	40.4147214	-3.6946717	(tourism) (hotel)	NH Paseo del Prado
+27528	40.4163519	-3.6996012	(tourism) (hotel)	Casual Madrid del Teatro
+27529	40.4148869	-3.6983592	(tourism) (hotel)	Vincci Soho
+27533	40.415934	-3.6997593	(tourism) (hotel)	Inglés
+27642	40.3872721	-3.7450585	(tourism) (hotel)
+27643	40.3867621	-3.7449782	(tourism) (hotel)	Hostal Granado Madrid
+32221	40.4567156	-3.4721754	(tourism) (hotel)	Torrehogar
+33292	40.3342661	-3.8539565	(tourism) (hotel)	Hotel Ibis
+33335	40.4085554	-3.6930056	(tourism) (hotel)	Hotel Mediodía
+33411	40.4205001	-3.7039558	(tourism) (hotel)	Tryp Cibeles
+33699	40.402552	-3.711533	(tourism) (hotel)	Holiday Inn Madrid Pirámides
+34157	40.2725818	-3.6925123	(tourism) (hotel)	Holiday Inn Express
+34176	39.8555016	-4.0250186	(tourism) (hotel)	Hotel Santa Isabel
+34201	39.8610714	-4.0245602	(tourism) (hotel)	Hotel Abad
+34375	40.1429199	-3.4219983	(tourism) (hotel)	Hostal La Balquina
+34435	40.4230343	-3.7076364	(tourism) (hotel)	Hotel Sterling
+34666	40.4388682	-3.6915519	(tourism) (hotel)	Hotel Hesperia Madrid
+34667	40.4375984	-3.6914542	(tourism) (hotel)	Hotel Miguel Angel
+34872	40.4573113	-3.4801469	(tourism) (hotel)	Hostal Plaza Mayor
+34873	40.4559186	-3.4792469	(tourism) (hotel)	Hotel Madrid Torrejón Plaza
+34953	40.7431246	-3.6070471	(tourism) (hotel)	Residencia Tercera Edad Gerontos
+35015	40.4939024	-3.3894155	(tourism) (hotel)	Zouk
+35057	40.4170497	-3.7000096	(tourism) (hotel)	Hotel Quatro Puerta del Sol
+35307	40.4362864	-3.6901999	(tourism) (hotel)	Hotel Intercontinental
+35310	40.7315706	-3.9545372	(tourism) (hotel)	Hotel y Balneario BLUESENSE Sierra de Madrid
+35339	40.437702	-3.8179316	(tourism) (hotel)	Hotel Pozuelo
+35350	40.9474177	-4.1161191	(tourism) (hotel)	Hostal  Don Jaime 
+35351	40.954031	-4.1321699	(tourism) (hotel)	Hotel Alcázar
+35404	40.9346463	-4.1107953	(tourism) (hotel)	Hostal  El Cerro 
+35490	40.411278	-3.693184	(tourism) (hotel)	Hotel Mora
+35491	39.8663164	-4.0231034	(tourism) (hotel)	Hotel Maria Cristina
+35575	40.2850381	-3.7922953	(tourism) (hotel)	Hostal Castilla
+36185	40.3381315	-3.3836017	(tourism) (hotel)	Hostal Campo Real
+36594	40.2124683	-3.8500541	(tourism) (hotel)	Hotel Vivar
+36887	40.4250662	-3.6780541	(tourism) (hotel)	Hotel Vincci SOMA
+36931	40.4198819	-3.7021748	(tourism) (hotel)	Hotel Tryp Gran Vía
+37033	40.4342064	-3.6327301	(tourism) (hotel)	Hotel Julia
+37156	40.437309	-3.7085526	(tourism) (hotel)	Leonardo Boutique Hotel Madrid
+37490	40.4296471	-3.7187994	(tourism) (hotel)	Apartahotel Rosales
+38538	40.4611157	-3.482931	(tourism) (hotel)	La Casa Grande
+38549	40.4099286	-3.7132001	(tourism) (hotel)	Hotel Reyes Católicos
+38581	40.4735819	-3.5756698	(tourism) (hotel)	Hostal Viky
+38715	40.6549708	-4.0224886	(tourism) (hotel)	Aparthotel Feijoo
+41434	40.6021143	-3.7165139	(tourism) (hotel)	Holiday Inn Tres Cantos
+41436	40.6017387	-3.7140103	(tourism) (hotel)	Jardín Tres Cantos
+41519	40.096316	-3.8682305	(tourism) (hotel)	Hotel Carlos I
+41752	40.4595753	-3.4651231	(tourism) (hotel)	Hotel Aida
+41833	40.3918785	-3.6958266	(tourism) (hotel)	Gran Legazpi
+43183	40.4305735	-3.6642811	(tourism) (hotel)	ibis
+44166	40.4091457	-3.6930506	(tourism) (hotel)	Hostal Buelta
+44175	40.4477965	-3.6689879	(tourism) (hotel)	Confortel Suites Madrid
+44273	40.4842331	-3.8564801	(tourism) (hotel)	TH Aparthotel Las Rozas
+44305	40.4727052	-3.578643	(tourism) (hotel)	Hotel Don Luis
+45832	40.2911443	-3.5144444	(tourism) (hotel)	Complejo La Cigüeña
+45968	40.9223015	-3.099854	(tourism) (hotel)	La Casa Grande de Fuencemillán
+46597	40.4001257	-3.6942132	(tourism) (hotel)	Hotel Sancho
+46598	40.4286872	-3.7029919	(tourism) (hotel)	Hotel Ibis Madrid Centro
+46629	40.5044234	-3.5306779	(tourism) (hotel)
+46633	40.5044386	-3.5303395	(tourism) (hotel)	Hostal Paracuellos
+46656	40.4063141	-3.7122502	(tourism) (hotel)	Puerta De Toledo
+46848	40.3218331	-3.870095	(tourism) (hotel)	Hostal Juanito
+46944	40.4130567	-3.6991919	(tourism) (hotel)	Estudio Buhardilla Private Apartment
+47079	40.4669664	-3.6743262	(tourism) (hotel)	El Chaflan
+47249	40.4252646	-3.6821179	(tourism) (hotel)	Hotel Catalonia Goya
+47303	40.4588114	-3.6946848	(tourism) (hotel)	Hotel Sercotel Eurobuilding 2
+47490	40.4102125	-3.6943146	(tourism) (hotel)	Chic & Basic
+47515	40.4319221	-3.6992409	(tourism) (hotel)	Juan de Austria
+47582	40.4125483	-3.6941561	(tourism) (hotel)	Radisson
+47597	39.8596082	-4.0428477	(tourism) (hotel)	Hotel Cigarral del Bosque
+47710	39.9597042	-3.8829262	(tourism) (hotel)
+47756	40.4238274	-3.7059039	(tourism) (hotel)	Albalú
+48229	39.8721466	-4.0208127	(tourism) (hotel)	Hotel Restaurante Don Pedro
+48277	40.1245795	-3.8494066	(tourism) (hotel)	Hotel Real
+48292	40.0435479	-3.9015269	(tourism) (hotel)	La Casa Grande
+48522	39.857341	-4.027053	(tourism) (hotel)	Hostal Alfonso XII
+48529	39.8679967	-4.0222503	(tourism) (hotel)	Hostal Madrid
+48530	39.8678883	-4.0223376	(tourism) (hotel)	Hostal Esperanza
+48531	39.8679527	-4.0225726	(tourism) (hotel)	Hostal Boxes
+48532	39.8672398	-4.0222382	(tourism) (hotel)	Hostal Gavilanes II
+48548	40.4206176	-3.7084668	(tourism) (hotel)	Hotel Santo Domingo
+48549	40.4214124	-3.7081031	(tourism) (hotel)	Hotel Emperador
+48567	40.4186044	-3.7073053	(tourism) (hotel)	Room Mate Laura Hotel
+48568	40.4209011	-3.7083317	(tourism) (hotel)	Petit Palace San Bernardo
+48597	39.8613224	-4.0249283	(tourism) (hotel)	Hotel Real de Toledo
+48599	39.861042	-4.0248972	(tourism) (hotel)	Apartamentos Turísticos Abad
+48631	40.7288871	-4.23527	(tourism) (hotel)	Hotel El Espinar
+48763	40.5582826	-3.613622	(tourism) (hotel)	NH Hoteles
+48769	39.863929	-4.0225422	(tourism) (hotel)	Hospedería de los Reyes
+48816	40.4197789	-3.7019599	(tourism) (hotel)	Hotel Praktik Metropol
+48853	40.9975794	-3.6380456	(tourism) (hotel)	El Andarrío
+48888	40.4264897	-3.6854696	(tourism) (hotel)	Tótem Hotel Madrid
+49261	39.8601457	-4.0211357	(tourism) (hotel)	Hotel Domus Plaza Zocodover
+49340	40.4212694	-3.701932	(tourism) (hotel)	Siete Islas
+49355	40.4301958	-3.7084963	(tourism) (hotel)	Leonardo Hotel Madrid City Center
+49443	40.430931	-3.7077583	(tourism) (hotel)	Gran Hotel Conde Duque
+49540	40.1729109	-3.8302658	(tourism) (hotel)	Hostal El Rocío
+49726	40.5554967	-3.6101061	(tourism) (hotel)	Holiday Inn
+49839	40.4224216	-3.7120835	(tourism) (hotel)	Espahotel Plaza de España
+49840	40.4210274	-3.7149539	(tourism) (hotel)	Jardines de Sabatini
+49841	40.421476	-3.7217761	(tourism) (hotel)	Madfor
+49945	40.4184766	-3.7053497	(tourism) (hotel)	Hotel Carlos V
+49967	40.419412	-3.699049	(tourism) (hotel)	Hotel Catalonia Gran Vía
+49968	40.4195045	-3.6994402	(tourism) (hotel)	Hotel de las Letras
+49970	40.418353	-3.6993456	(tourism) (hotel)	Hotel Petit Palace Alcalá Torre
+49980	40.4144703	-3.7000819	(tourism) (hotel)	Room Mate Alicia Hotel
+49981	40.4145963	-3.6993892	(tourism) (hotel)	Hotel Catalonia Las Cortes
+49987	40.7530886	-3.16517	(tourism) (hotel)	Hostal Taracena
+50010	40.4206798	-3.7073921	(tourism) (hotel)	Hotel Indigo
+50021	40.4172778	-3.7064049	(tourism) (hotel)	Petit Palace Arenal
+50030	40.7535015	-3.1655571	(tourism) (hotel)	Hostal La Granja
+50055	40.4212196	-3.7099242	(tourism) (hotel)	Hotel El Coloso
+50108	39.8594904	-4.0238748	(tourism) (hotel)	Casa de los Mozárabes Apartamentos Turísticos
+50151	40.4196993	-3.704275	(tourism) (hotel)	Hotel Regente
+50152	40.4197225	-3.704125	(tourism) (hotel)	Hotel Avenida Gran Vía
+50153	40.4196133	-3.7041942	(tourism) (hotel)	Hotel Aquaria Negresco
+50411	40.4225737	-3.7108404	(tourism) (hotel)	Hotel Señorial
+50412	40.4221367	-3.7105695	(tourism) (hotel)	Hotel Exe Suites 33
+50461	40.4197256	-3.7089117	(tourism) (hotel)	JC Rooms
+50464	40.4195937	-3.709667	(tourism) (hotel)	Gran Meliá Palacio de los Duques
+50738	40.4183155	-3.7079015	(tourism) (hotel)	JC Rooms Puerta del Sol
+50751	40.4263756	-3.6893687	(tourism) (hotel)	Gran Meliá Fénix
+50752	40.4261357	-3.6889564	(tourism) (hotel)	NH Colón
+50755	40.4264491	-3.6963237	(tourism) (hotel)	Petit Palace Santa Bárbara
+50858	40.4232055	-3.7057026	(tourism) (hotel)	Hotel Life
+51805	40.4189221	-3.7100475	(tourism) (hotel)	Hotel Ópera
+52798	40.4202571	-3.8034415	(tourism) (hotel)	AC La Finca
+52856	40.3388182	-3.7338904	(tourism) (hotel)	AR Parquesur
+54084	40.4767699	-3.6878884	(tourism) (hotel)	Eurostars Madrid Tower
+54173	40.5394776	-4.1631651	(tourism) (hotel)	El Duque
+54672	40.4210283	-3.6916864	(tourism) (hotel)	Hotel One Shot Recoletos
+54778	40.1200218	-3.1520522	(tourism) (hotel)	La Atalaya
+55283	40.4226646	-3.7093602	(tourism) (hotel)	Hotel Senator España
+55284	40.4228728	-3.7097001	(tourism) (hotel)	TRYP Madrid Centro Hotel
+55288	40.4226116	-3.7099777	(tourism) (hotel)	Espahotel
+56101	40.5434239	-3.6288666	(tourism) (hotel)	Arba
+58103	40.6344315	-4.0101429	(tourism) (hotel)	Hotel Galaico
+58170	40.6476863	-3.5954082	(tourism) (hotel)	Hotel Juaneca
+58447	40.4090931	-3.6925852	(tourism) (hotel)	60 Balconies urban stay
+58688	40.4268547	-3.6982788	(tourism) (hotel)	Hotel Urso
+59381	40.4689912	-3.5808289	(tourism) (hotel)	Hostal Aeropuerto
+59837	40.4214913	-3.7047443	(tourism) (hotel)
+59944	40.4234884	-3.7006062	(tourism) (hotel)	B&B
+60026	40.4229776	-3.7098618	(tourism) (hotel)	TRYP Madrid Plaza España Hotel
+60145	40.4585994	-3.6952388	(tourism) (hotel)	Amaral
+61048	40.9521205	-4.1230952	(tourism) (hotel)	Hotel Eurostars Convento Capuchinos
+61201	40.4203798	-3.7011723	(tourism) (hotel)	Petit Palace Chueca
+61331	40.4205155	-3.703033	(tourism) (hotel)	Petit Palace Italia
+61332	40.4196435	-3.7036474	(tourism) (hotel)	Petit Palace Clíper Gran Vía
+61344	40.4144059	-3.7003265	(tourism) (hotel)	Miau
+61362	40.5544711	-3.900202	(tourism) (hotel)	Hotel Almenar
+61938	40.4643197	-3.7860836	(tourism) (hotel)	Hotel Aravaca Village
+62124	40.4239804	-3.7004496	(tourism) (hotel)	Hostal Domínguez
+62298	40.6782112	-3.9636241	(tourism) (hotel)	El Cenador de Salvador
+62328	40.4396526	-3.6982473	(tourism) (hotel)	NH Bretón
+62698	40.7293242	-4.0136126	(tourism) (hotel)	Nava Real
+62940	40.419378	-3.7028045	(tourism) (hotel)	Petit Palace Tres Cruces
+62976	40.4205866	-3.689287	(tourism) (hotel)	Hotel Hospes Madrid
+63089	40.1937432	-3.839632	(tourism) (hotel)	La Era Hotel Rural
+63356	40.3661358	-3.6543407	(tourism) (hotel)	Hotel Diana Plus
+63759	40.4724161	-3.6832469	(tourism) (hotel)	Hotel Weare Chamartín
+63921	40.4303408	-3.7000607	(tourism) (hotel)	Innside Madrid Luchana
+64188	40.8659625	-3.4931408	(tourism) (hotel)	Hotel Rural El Tiempo Perdido
+64190	40.8661477	-3.4934616	(tourism) (hotel)	Hotel Rural La Fuente
+64197	40.8665604	-3.4922678	(tourism) (hotel)	Alojamientos Rurales El Baile
+64427	40.4166232	-3.7025309	(tourism) (hotel)	Apartamentos del Sol
+64459	40.9526042	-3.5246821	(tourism) (hotel)	Alojamientos turísticos Calle Balcón
+64474	40.9532424	-3.5256617	(tourism) (hotel)	Alojamientos turísticos Calle Travesía
+64495	40.9209898	-3.5278352	(tourism) (hotel)	Alojamientos El Egío
+64496	40.9216045	-3.5316784	(tourism) (hotel)	Alojamientos El Lavadero
+64497	40.9197557	-3.5306281	(tourism) (hotel)	Alojamientos Los Camarotes
+64625	40.416204	-3.7017486	(tourism) (hotel)	Hotel Victoria 4
+65071	40.1916059	-3.6813516	(tourism) (hotel)	Hotel Valdemoro
+65072	40.1912237	-3.6801948	(tourism) (hotel)	Hotel Victoria
+65073	40.1913435	-3.6787701	(tourism) (hotel)	Hotel Rus
+65074	40.1886547	-3.6778986	(tourism) (hotel)	Hostal Cervantes
+65414	40.388674	-3.7003145	(tourism) (hotel)	Hotel Madrid Río
+66189	40.4664782	-3.4463257	(tourism) (hotel)	Hotel LOOB
+66354	40.1303964	-3.8456486	(tourism) (hotel)	Complejo París
+66401	40.4133754	-3.7016971	(tourism) (hotel)	Hostal Horizonte
+66501	40.7127568	-4.1850695	(tourism) (hotel)	Hotel Rural Las Farolas
+66606	40.4234134	-3.7105229	(tourism) (hotel)	Dear Hotel
+66692	40.4200938	-3.6970746	(tourism) (hotel)	Lusso Infantas
+66693	40.4193652	-3.6971316	(tourism) (hotel)	The Principal Madrid
+66723	40.427061	-3.698529	(tourism) (hotel)	Eurostars Central
+67094	40.0355564	-3.6009423	(tourism) (hotel)	Hotel Jardín de Aranjuez
+67690	40.4192019	-3.7028367	(tourism) (hotel)	La Casa del Madrileño
+67807	40.6273866	-4.0135855	(tourism) (hotel)	Hostal Lady Ana
+68074	40.9496674	-4.1238939	(tourism) (hotel)	Hotel-Spa La Casa Mudéjar
+68075	40.9492542	-4.1219627	(tourism) (hotel)	Hotel Condes de Castilla
+68411	40.2109896	-3.5765365	(tourism) (hotel)	Hostal San Marcos
+68735	40.4158867	-3.6956205	(tourism) (hotel)	La pepachic
+68848	40.4273342	-3.701088	(tourism) (hotel)	Madrid Central Suites
+69219	40.4845302	-3.3469754	(tourism) (hotel)	Hostal El Val
+69404	40.626746	-3.1898595	(tourism) (hotel)	hotel Iris
+69454	40.5675925	-3.0686559	(tourism) (hotel)	Hotel La Cañada
+70005	40.4833044	-3.3635211	(tourism) (hotel)	Hostel Complutum
+71338	39.9030753	-3.6224542	(tourism) (hotel)	Restaurante Hostal Los Galgos
+72356	40.4384393	-3.6951832	(tourism) (hotel)	NH Collection Abascal
+72481	40.417562	-3.698575	(tourism) (hotel)	Hotel Vincci Centrum
+72912	40.4170156	-3.7048802	(tourism) (hotel)	Hotel Moderno
+72913	40.4170018	-3.7051607	(tourism) (hotel)	Petit Palace Puerta del Sol
+73008	40.9499784	-4.1239225	(tourism) (hotel)	Hotel Infanta Isabel
+73108	40.4082574	-3.7107133	(tourism) (hotel)	Hotel Ganivet
+73292	40.4119257	-3.6977945	(tourism) (hotel)	Hotel Catalonia Atocha
+73296	40.035011	-3.6031537	(tourism) (hotel)	Hostal Real
+73375	40.9637876	-3.1155589	(tourism) (hotel)	Casa Rural La Tahona
+73404	39.8562043	-4.0305895	(tourism) (hotel)	Sercotel San Juan de los Reyes
+73455	40.964966	-3.1143684	(tourism) (hotel)	Apartamentos Rurales   Señora Clara 
+73457	40.9645393	-3.1138562	(tourism) (hotel)	Hostal  El Balcón de Arbancón 
+73458	40.9641095	-3.1160902	(tourism) (hotel)	Casa rural  Las Albertas 
+73459	40.9653804	-3.114888	(tourism) (hotel)	Apartamentos Rurales  Fuente Vieja 
+74691	40.7133956	-4.1879838	(tourism) (hotel)
+75667	40.5967139	-3.4949219	(tourism) (hotel)	Hotel Asador Algete
+75784	40.4135592	-3.7017307	(tourism) (hotel)
+76022	40.4200551	-3.6980658	(tourism) (hotel)	Gran Vía Suites
+77073	39.8777568	-4.0352471	(tourism) (hotel)	hotel sercotel Pintor El Greco
+77074	39.8422087	-3.948071	(tourism) (hotel)	Pintor el Greco
+77181	39.855983	-4.0277538	(tourism) (hotel)	sercotel pintor el greco
+78488	40.4559069	-3.6896795	(tourism) (hotel)	AC Aitana
+78678	40.4339625	-3.7017425	(tourism) (hotel)	Trafalgar
+79915	40.4282012	-3.683682	(tourism) (hotel)	Bless
+81060	40.473524	-3.6587543	(tourism) (hotel)	residencia militar navio
+81156	40.4728446	-3.5821523	(tourism) (hotel)	Hotel Villa de Barajas
+81224	40.4607293	-3.6906923	(tourism) (hotel)	Castellana Suite
+82372	40.2852294	-3.7926124	(tourism) (hotel)	castilla
+86912	40.4196873	-3.6985333	(tourism) (hotel)	The Mint
+87201	40.9486563	-4.1219372	(tourism) (hotel)	Las Sirenas
+87480	40.4622527	-3.6154294	(tourism) (hotel)	Pullman Madrid Airport & Feria
+87998	40.4196014	-3.6998129	(tourism) (hotel)	Centro Cultural de los Ejércitos y la Marina
+88062	40.4647507	-3.7862748	(tourism) (hotel)	Aravaca Village
+88224	40.4135449	-3.7119244	(tourism) (hotel)	depto LUIGI
+88434	40.2065241	-3.5747701	(tourism) (hotel)	Hostal San martín
+88741	40.4158529	-3.7011764	(tourism) (hotel)	Madrisol
+88742	40.4160877	-3.7012084	(tourism) (hotel)	JC Rooms Santa Ana
+88946	40.4203176	-3.6985479	(tourism) (hotel)	casa Abraham
+90881	40.3003285	-3.7312319	(tourism) (hotel)	Sara
+90882	40.4080569	-3.693107	(tourism) (hotel)	atocha
+91675	40.3797723	-3.9274198	(tourism) (hotel)	The crib
+92406	40.2135091	-3.581658	(tourism) (hotel)	Ferrón Suittes
+92407	40.2102608	-3.5799314	(tourism) (hotel)	Apartamentos BASI
+94014	40.4119277	-3.7030318	(tourism) (hotel)	Hotel Teste
+94531	40.4392715	-3.6270399	(tourism) (hotel)	Hotel Ibis budget
+97096	40.3901024	-3.7074457	(tourism) (hotel)	apartamento de antonio
+97412	40.4253079	-3.7032547	(tourism) (hotel)	Hostal CC Malasaña
+97604	40.4155323	-3.7018872	(tourism) (hotel)	Hostal Prieto
+97830	40.4748541	-3.6343805	(tourism) (hotel)	AC Madrid Feria
+97836	40.424191	-3.7123333	(tourism) (hotel)	Barceló Torre de Madrid
+97978	40.9587714	-4.1044658	(tourism) (hotel)	Hotel Ruta de Castilla
+99443	40.4139318	-3.6944449	(tourism) (hotel)	Mercure Madrid Centro
+100791	40.1397881	-3.4223953	(tourism) (hotel)	Plaza Mayor
+100807	40.1394474	-3.4226702	(tourism) (hotel)	La Casa del Convento
+100836	40.420778	-3.6982925	(tourism) (hotel)	Hostal río miño
+101248	40.4214997	-3.6894369	(tourism) (hotel)	AC Hotel Recoletos
+101491	40.4171166	-3.6966018	(tourism) (hotel)	Loft Cortes
+102844	39.8187751	-3.4799567	(tourism) (hotel)	Hotel Real Castillo
+102858	39.9560847	-3.5032995	(tourism) (hotel)	Avila
+102859	39.9557717	-3.5041047	(tourism) (hotel)	Los Hermanos
+102861	39.9556064	-3.5037286	(tourism) (hotel)	Emperatriz
+102868	40.4144252	-3.7003442	(tourism) (hotel)	MIAU
+103299	40.1006551	-3.48993	(tourism) (hotel)
+103401	40.9958529	-3.6348767	(tourism) (hotel)	Los Canchos
+103684	40.4247787	-3.7150945	(tourism) (hotel)	sV
+103719	40.4349713	-3.707241	(tourism) (hotel)	JJ Carvajal
+104204	40.4688531	-3.6736202	(tourism) (hotel)
+107590	40.4825989	-3.3673939	(tourism) (hotel)	Hostal Miguel de Cervantes
+108310	40.4300537	-3.7090102	(tourism) (hotel)	OUR HOTEL
+109114	40.0329811	-3.3655901	(tourism) (hotel)	Hacienda Castellar
+109627	40.429898	-3.7146156	(tourism) (hotel)	hotel courtyard princessa
+109651	40.2363664	-3.3218529	(tourism) (hotel)	Hotel Foxa Molino de Cantarranas
+110394	39.8579673	-4.0216851	(tourism) (hotel)	Hotel Las Conchas
+110879	40.4738979	-3.5780615	(tourism) (hotel)	El Príncipe Horno de Leña
+110881	40.4164948	-3.7060201	(tourism) (hotel)	Hostal Patria
+113547	40.4124143	-3.701217	(tourism) (hotel)	La Vera
+115236	40.4209849	-3.7003783	(tourism) (hotel)	JC Chueca
+116045	40.6233504	-3.8849638	(tourism) (hotel)	La Finca de San Antonio
+118033	40.4178642	-3.7080699	(tourism) (hotel)	Los Amigos Vip Rooms
+120693	40.8273223	-3.15695	(tourism) (hotel)	Hotel Rural Victoria
+121375	40.4176966	-3.7027096	(tourism) (hotel)	B&B Puerta del Sol
+123444	40.4199905	-3.7037343	(tourism) (hotel)	Hyatt Centric
+123725	40.4226734	-3.7117077	(tourism) (hotel)	VP Plaza España Design
+124227	40.8786767	-4.0269259	(tourism) (hotel)	Hospedaje La Chata
+124242	40.4173926	-3.7073825	(tourism) (hotel)	Hotel Francisco I
+124364	40.1395246	-3.4234014	(tourism) (hotel)	Parador Nacional de Chinchón
+125041	40.4187081	-3.7040116	(tourism) (hotel)	Liabeny hotel
+125431	40.3489251	-3.7243512	(tourism) (hotel)	Solimpar
+125565	39.8643681	-4.0225544	(tourism) (hotel)	Martín
+125674	40.4214873	-3.7147985	(tourism) (hotel)	Príncipe pío
+125675	40.4211824	-3.7146049	(tourism) (hotel)	Príncipe pio
+127182	40.9626637	-3.5808154	(tourism) (hotel)	Saikaural
+127469	40.4587978	-3.5824805	(tourism) (hotel)	Hotel Senator Barajas
+127548	41.0069566	-3.6709609	(tourism) (hotel)	Hospederia El Arco
+127558	40.9497829	-4.1239451	(tourism) (hotel)	La Casa Mudéjar
+127610	39.8610251	-4.0248602	(tourism) (hotel)	Abad
+128713	40.9496896	-4.1226919	(tourism) (hotel)	Hostal Fornos
+129246	40.4160406	-3.695755	(tourism) (hotel)	Emperador
+129550	40.3820819	-3.1432786	(tourism) (hotel)	Châteauform La Finca El Bosque
+130211	40.664979	-3.7709472	(tourism) (hotel)	Gran Hostal El Chiscón
+131021	39.846238	-4.0256685	(tourism) (hotel)	Hotel Cigarral del Alba-Doménico
+131475	40.1110259	-3.6306293	(tourism) (hotel)	Casa Rural Mirador de Aranjuez
+131793	40.4460667	-3.5430571	(tourism) (hotel)	Tryp
+133131	40.4345613	-3.6304858	(tourism) (hotel)	Hotel Occidental  Madrid Este
+133894	40.4078194	-3.7007527	(tourism) (hotel)	Ibis budget madrid centro Lavapies
+134291	40.5684291	-3.5032907	(tourism) (hotel)	El Rey de Oros
+134958	40.5025119	-4.0665953	(tourism) (hotel)	Hostal Almais
+135608	40.394003	-3.7077674	(tourism) (hotel)	Praga
+135827	40.4226409	-3.7008422	(tourism) (hotel)	Hostal Meyra
+136134	40.4381973	-3.6253018	(tourism) (hotel)	Golden 21
+136161	40.2431413	-3.6959705	(tourism) (hotel)	Egido Villa de Pinto Hotel
+136780	40.636989	-3.1533787	(tourism) (hotel)	Hotel Can-Vic
+136782	40.6296452	-3.1616137	(tourism) (hotel)	Hostal San Roque
+138054	40.4454475	-3.4881343	(tourism) (hotel)	Hotel Avant Aeropuerto
+138055	40.4450983	-3.4876565	(tourism) (hotel)	Hotel Avant Torrejón
+138846	40.417866	-3.696216	(tourism) (hotel)	Hotel NH Collection Madrid Suecia
+138942	40.946394	-4.1207809	(tourism) (hotel)	Palacio Ayala Berganza
+138949	40.9525244	-4.1252442	(tourism) (hotel)	Exe Casa de los Linajes
+139017	40.4171967	-3.6891605	(tourism) (hotel)	Petit Palace Savoy Alfonso XII
+139018	40.417819	-3.6891112	(tourism) (hotel)	AC Hotel Palacio del Retiro
+139056	40.4208143	-3.7088133	(tourism) (hotel)	Hotel Santo Domingo
+139060	40.4287821	-3.6911914	(tourism) (hotel)	Hotel One Shot Fortuny 07
+139070	40.5347485	-3.6210783	(tourism) (hotel)	EuroStars Madrid Congress
+139579	40.900064	-4.008999	(tourism) (hotel)	Hotel Roma
+139580	40.9011269	-4.0069434	(tourism) (hotel)	Hotel San Luis
+140724	39.8597545	-4.0279559	(tourism) (hotel)	Hotel Entre dos aguas
+141570	40.417272	-3.7003917	(tourism) (hotel)	Hotel Four Seasons
+141611	40.422909	-3.7077214	(tourism) (hotel)	hotel
+142673	40.4649907	-3.7864262	(tourism) (hotel)
+142725	40.4150128	-3.7073011	(tourism) (hotel)	Hotel Pestana Plaza Mayor
+142763	40.3511093	-3.8462969	(tourism) (hotel)	nh Alcorcón
+143244	40.4752104	-3.7429623	(tourism) (hotel)	Eurostars Monte Real
+143426	40.4693291	-3.6854133	(tourism) (hotel)	Oceany
+144913	40.4299404	-3.6973715	(tourism) (hotel)	Dormitoria
+145508	40.9912725	-4.0230259	(tourism) (hotel)	Hotel Las Fuentes
+158619	40.6409599	-4.1598219499999995	(tourism) (hotel)	Hospedería Santa Cruz
+161529	40.46952465	-3.5824967	(tourism) (hotel)	Hotel Meliá Barajas
+175856	40.44792215	-3.6552764	(tourism) (hotel)	Ilunion Atrium
+178474	40.4731285	-3.58560795	(tourism) (hotel)	täCH
+181254	40.82069285	-3.78507035	(tourism) (hotel)	La Cristalera
+181999	40.792082949999994	-4.01016455	(tourism) (hotel)	Residencia Militar de Acción Social de Descanso (RMD)  Los Cogorros 
+182210	40.3169731	-3.74125335	(tourism) (hotel)	Hesperia
+182320	40.4596334	-3.4638318000000003	(tourism) (hotel)	Hostal Torrejón
+189396	40.46142895	-3.69245765	(tourism) (hotel)	Meliá Castilla
+191328	40.6785879	-3.96177665	(tourism) (hotel)	La Cañada
+192258	40.44075075	-3.6701430999999998	(tourism) (hotel)	Hotel Silken Puerta de América
+194745	40.4356088	-3.6638032	(tourism) (hotel)	NH Parque de las Avenidas
+198778	40.3541428	-3.8306288	(tourism) (hotel)	Holiday Inn Express - Madrid Alcorcón
+200396	39.877525649999995	-4.0413991	(tourism) (hotel)	Hotel Beatriz
+200589	40.78836095	-4.00287065	(tourism) (hotel)	Pasadoiro
+200591	40.7841815	-4.0019033	(tourism) (hotel)	Restaurante Hotel El Corzo
+200600	40.7857446	-4.00236475	(tourism) (hotel)	Residencia Militar de Acción Social de Descanso (RMASD) Navacerrada
+201454	39.87250815	-4.0241369	(tourism) (hotel)	Eurostars Toledo
+202116	40.5306082	-3.4809389	(tourism) (hotel)	Siglo XXI
+202164	40.425358200000005	-3.7012172999999997	(tourism) (hotel)	Aparthotel Tribunal
+202384	40.40706145	-3.6830949	(tourism) (hotel)	Hotel Agumar
+202557	39.8769373	-4.043435949999999	(tourism) (hotel)	Eurostars Palacio Buenavista
+202598	39.855841749999996	-4.0282122000000005	(tourism) (hotel)	Hotel El Greco
+202795	39.8572475	-4.0210422	(tourism) (hotel)	Hotel Alfonso VI
+202882	40.4488772	-3.5768044999999997	(tourism) (hotel)	Nuevo Boston
+202886	40.4492893	-3.5692213500000003	(tourism) (hotel)	Hotel Los 5 Pinos
+202900	40.40631075	-3.7215937	(tourism) (hotel)	NH Ribera del Manzanares
+203179	40.42909295	-3.6884366	(tourism) (hotel)	Petit Palace President Castellana
+203183	40.42993675	-3.68815945	(tourism) (hotel)	Hotel Villamagna
+206390	40.4150605	-3.699068	(tourism) (hotel)	Apart-Hotel Suite Prado
+206391	40.41489955	-3.698998	(tourism) (hotel)	Hotel ibis Styles Madrid Prado
+208423	39.8488331	-4.023012400000001	(tourism) (hotel)	Parador de Toledo
+208651	40.45593725	-3.6819809	(tourism) (hotel)	NH La Habana
+208653	40.45146525	-3.6935436	(tourism) (hotel)	Holiday Inn Plaza Carlos Trias
+209941	40.4062888	-3.66936395	(tourism) (hotel)	Hotel Claridge
+210850	40.55112975	-3.8954519000000003	(tourism) (hotel)	Tryp Las Matas
+210851	40.5267616	-3.88590095	(tourism) (hotel)	Hotel Madrid Las Rozas
+210991	40.464363750000004	-3.7853842	(tourism) (hotel)	AC Hotel
+210995	40.571357250000005	-3.9256628	(tourism) (hotel)	Hotel Pax Torrelodones
+210999	40.54512195	-3.8955354	(tourism) (hotel)	Gran Hotel Las Rozas
+212447	40.46914475	-3.5802562	(tourism) (hotel)	Hotel TRYP Alameda
+212890	40.4146609	-3.70160605	(tourism) (hotel)	Hotel ME Reina Victoria
+212894	40.42979715	-3.71467585	(tourism) (hotel)	Hotel Courtyard by Marriott Madrid Princesa
+212924	40.1836722	-3.6812974499999997	(tourism) (hotel)	Hotel Restón
+213654	40.458587800000004	-3.87282845	(tourism) (hotel)	Hotel Majadahonda
+214023	40.44928315	-3.54837495	(tourism) (hotel)	Hotel SHS Aeropuerto
+214235	40.4413039	-3.65755715	(tourism) (hotel)	Novotel
+214376	40.4213522	-3.7149983	(tourism) (hotel)	Hotel Príncipe Pío
+214981	40.44829665	-3.5587144	(tourism) (hotel)	Madrid Marriott Auditorium Hotel & Conference Center
+216295	40.427299899999994	-3.7144174	(tourism) (hotel)	Meliá Madrid Princesa
+222830	40.433816300000004	-3.717421	(tourism) (hotel)	Hotel Exe Moncloa
+222984	40.4677042	-3.6898941499999998	(tourism) (hotel)	Exe Plaza
+225531	39.97933715	-4.2900041	(tourism) (hotel)	Hotel La Salve
+225800	40.48655565	-3.7034450999999997	(tourism) (hotel)	Eurostars Suites Mirasierra
+227016	40.530164	-3.651208	(tourism) (hotel)	Hotel Ibis Madrid Alcobendas
+227703	40.723735250000004	-4.0208467500000005	(tourism) (hotel)	Hacienda Los Robles
+227735	40.730484399999995	-4.014066700000001	(tourism) (hotel)	Casa Rural El patio de Valentina
+227997	40.48806385	-3.6684249500000004	(tourism) (hotel)	Hotel Occidental Castellana Norte
+228480	40.75231305	-3.9942585	(tourism) (hotel)	La Barranca
+228694	40.7213208	-4.0199849	(tourism) (hotel)	Hotel Las Postas
+229669	40.29426755	-3.7943428	(tourism) (hotel)	Hotel Egido Las Provincias
+230171	40.2838864	-3.7849835499999998	(tourism) (hotel)	Hotel Gema Fuenlabrada
+230598	40.4730707	-3.67195725	(tourism) (hotel)	Foxa M-30 Suites & Resort
+230807	40.4913148	-3.6703817499999998	(tourism) (hotel)	Hotel Exe Madrid Norte
+231646	40.45313415	-3.6125931	(tourism) (hotel)	Hotel Osuna
+231984	40.43893525	-3.63139825	(tourism) (hotel)	Holiday Inn Madrid Calle Alcalá
+232135	40.59721625	-3.7162801500000002	(tourism) (hotel)	Eurostars Madrid Foro
+232761	40.53712205	-3.6351838499999998	(tourism) (hotel)	Hotel UVE Alcobendas
+233415	40.41004115	-3.6936612	(tourism) (hotel)	Husa Paseo del Arte
+234172	40.480913400000006	-3.3614215	(tourism) (hotel)	Parador de Alcalá de Henares
+234174	40.481436349999996	-3.3765208	(tourism) (hotel)	Rafaelhoteles Forum Alcalá
+234177	40.4479398	-3.58325695	(tourism) (hotel)	Axor Barajas
+234178	40.44745985	-3.58330735	(tourism) (hotel)	Hotel Axor Feria
+235257	40.4713848	-3.3666399	(tourism) (hotel)	Hotel Cisneros
+235501	40.3918833	-3.8565675500000003	(tourism) (hotel)	Hotel - Residencia
+235837	40.450292149999996	-3.6129309000000003	(tourism) (hotel)	Globales Acis y Galatea
+235955	40.33482875	-3.8875194000000004	(tourism) (hotel)	Hotel Ciudad de Móstoles
+236193	40.423994300000004	-3.6852785	(tourism) (hotel)	Hotel Petit Palace Art Gallery
+236717	40.46255725	-3.6151054	(tourism) (hotel)	Novotel Campo de las Naciones
+237770	40.784913599999996	-4.004468599999999	(tourism) (hotel)	Residencia Militar de Acción Social de Descanso (RMD) Navacerrada
+238064	40.3990811	-3.66993595	(tourism) (hotel)	Hotel NH Madrid Sur
+239488	40.468927550000004	-3.6740933	(tourism) (hotel)	Ilunion Pío XII
+240301	40.414603400000004	-3.7055083499999997	(tourism) (hotel)	Hotel Plaza Mayor
+240578	40.53577355	-3.6409043	(tourism) (hotel)	Hotel Amura
+240899	40.45821785	-3.6859844500000003	(tourism) (hotel)	NH Eurobuilding
+241302	40.4132592	-3.6692802	(tourism) (hotel)	Ayre Gran Hotel Colón
+241820	40.4828208	-3.6706971	(tourism) (hotel)	El Mirador de Chamartín
+242001	39.866769500000004	-4.0223298	(tourism) (hotel)	Hesperia Toledo
+242063	39.86517345	-4.02085515	(tourism) (hotel)	Mayoral
+242110	39.86172545	-4.02189045	(tourism) (hotel)	Hotel Medina de Toledo
+242116	39.861751999999996	-4.026725900000001	(tourism) (hotel)	Hotel Hacienda del Cardenal
+242390	40.41745485	-3.7026687000000003	(tourism) (hotel)	El Mirador
+242490	40.40435015	-3.5914979999999996	(tourism) (hotel)	Aparthotel Encasa
+242565	40.418198450000006	-3.7023352999999997	(tourism) (hotel)	Ateneo
+242959	40.464933900000005	-3.6931564	(tourism) (hotel)	Hotel 4C Puerta de Europa
+244239	40.4521752	-3.5855655000000004	(tourism) (hotel)	Hilton Madrid Airport
+244615	40.4478467	-3.63600605	(tourism) (hotel)	Hotel Puerta de Madrid
+244616	40.447301949999996	-3.62812725	(tourism) (hotel)	Meliá Avenida América
+244875	40.75088315	-3.16459035	(tourism) (hotel)	Hostal Los Robles
+244892	40.42207675	-3.6810891	(tourism) (hotel)	H10 Puerta de Alcalá
+245119	40.422007050000005	-3.6838966500000003	(tourism) (hotel)	Hotel Wellington
+245120	40.42186855	-3.68375045	(tourism) (hotel)	Hotel Wellington
+245142	40.420665299999996	-3.69894475	(tourism) (hotel)	Room Mate Oscar Hotel
+245347	40.2737516	-3.7544536	(tourism) (hotel)	Ibis Hotel
+245574	40.43550075	-3.68568315	(tourism) (hotel)	Hotel Meliá Serrano
+246408	40.2467187	-3.7656897000000003	(tourism) (hotel)	Hotel de Parla
+246790	40.458800499999995	-3.6911856	(tourism) (hotel)	AC Cuzco
+247123	40.3244603	-3.84620175	(tourism) (hotel)	Hotel Sercotel SPA La Princesa
+247149	40.3646249	-3.48466255	(tourism) (hotel)	Velilla
+247386	40.432497	-3.6560533	(tourism) (hotel)	Ibis budget Madrid Centro las Ventas
+247411	40.253117450000005	-4.0524108000000005	(tourism) (hotel)	Hotel Labrador
+247435	40.110741700000005	-3.64565065	(tourism) (hotel)	Apartahotel Los Olivos
+247448	40.447294850000006	-3.7057411	(tourism) (hotel)	Hotel Jardín Metropolitano
+247458	40.2921098	-3.7982217499999997	(tourism) (hotel)	Avenida de España
+247791	40.42065275	-3.70712125	(tourism) (hotel)	Hotel Rex
+247923	40.41411775	-3.70278875	(tourism) (hotel)	Catalonia Puerta del Sol
+247924	40.413892950000005	-3.7017439999999997	(tourism) (hotel)	NH Palacio de Tepa
+248075	40.40330845	-3.6903466500000004	(tourism) (hotel)	Hotel AC Atocha
+248076	40.40376215	-3.6900195	(tourism) (hotel)	Hotel AC Atocha
+249162	40.48297719999999	-3.3636051	(tourism) (hotel)	Hotel El Bedel
+249700	40.2266154	-3.7784746	(tourism) (hotel)	NH Parla
+249838	40.480840799999996	-3.3709243	(tourism) (hotel)	Hotel Evenia
+249984	39.890094950000005	-3.47334685	(tourism) (hotel)	Los Arcos
+249985	39.86860255	-3.4766277	(tourism) (hotel)	El Zorzal
+250516	40.42802915	-3.5610526	(tourism) (hotel)	NH Villa de Coslada
+251214	40.3762358	-3.6324940999999997	(tourism) (hotel)	Aparthotel Be Smart Madrid Albufera
+251691	40.4240545	-3.71108255	(tourism) (hotel)	Riu Plaza de España
+251817	40.43879785	-3.67270835	(tourism) (hotel)	Abba Madrid Hotel
+251875	40.73748035	-4.0674598	(tourism) (hotel)	Casa Rural Peña Pintada
+251900	40.2744009	-3.7608422	(tourism) (hotel)	Hotel Ciudad de Fuenlabrada
+252099	40.27382505	-3.75508025	(tourism) (hotel)	H2 Fuenlabrada
+252172	40.30437585	-3.90228685	(tourism) (hotel)	Motel Venus
+252920	40.71088575	-3.9939198	(tourism) (hotel)	Hotel Rural Las Gacelas
+252979	40.49999195	-3.3355106	(tourism) (hotel)	Alcalá Plaza
+252985	40.5001722	-3.33691245	(tourism) (hotel)	Ibis Budget Alcalá de Henares
+253188	40.41522515	-3.69811735	(tourism) (hotel)	One Shot
+253261	40.415066100000004	-3.69666205	(tourism) (hotel)	DoubleTree by Hilton Madrid - Prado
+253321	39.85006715	-4.035278699999999	(tourism) (hotel)	AC
+254199	40.4184883	-3.7012779	(tourism) (hotel)	Eurostars Casa de la Lírica
+254578	40.4131403	-3.7087168999999998	(tourism) (hotel)	La Posada del Dragón
+254649	40.43801245	-3.67269005	(tourism) (hotel)	AC Hoteles Marriott
+254671	40.455301	-3.6943593	(tourism) (hotel)	H10 Tribeca
+254675	40.406219750000005	-3.6692373	(tourism) (hotel)	Hotel Claridge
+254676	40.413309749999996	-3.66864945	(tourism) (hotel)	Ayre Gran Hotel Colón
+254677	40.4130816	-3.66923325	(tourism) (hotel)	Ayre Gran Hotel Colón
+254678	40.41342005	-3.6679836999999997	(tourism) (hotel)	Ayre Gran Hotel Colón
+254680	40.4363403	-3.6884089500000004	(tourism) (hotel)	Hesperia Emperatriz
+254958	40.41935345	-3.62542475	(tourism) (hotel)	Hotel Silken Torre Garden
+255331	40.62019445	-3.1618016	(tourism) (hotel)	Tryp Guadalajara
+255382	40.42563635	-3.7139124	(tourism) (hotel)	Mercure Plaza de España
+255460	40.4306999	-3.7169640499999996	(tourism) (hotel)	Hotel T3 Tirol
+255548	40.5455909	-3.8959727500000003	(tourism) (hotel)	Hotel B & B Las Rozas
+255579	40.46749845	-3.6882097	(tourism) (hotel)	Vía Castellana
+255743	40.5030091	-3.366043	(tourism) (hotel)	AC Alcalá
+256002	40.486113200000005	-3.40150235	(tourism) (hotel)	Isla de la Garena
+256611	40.422253	-3.6959355	(tourism) (hotel)	Only You Hotel & Lounge
+257229	40.25979665	-3.76247235	(tourism) (hotel)	Hotel La Cantueña
+257280	40.427491	-3.68492875	(tourism) (hotel)	NH Lagasca
+257377	40.44891165	-3.71156975	(tourism) (hotel)	AC Los Vascos
+257489	40.47191525	-3.6848325500000003	(tourism) (hotel)	Tryp Madrid Chamartín
+257930	40.9580992	-3.6123114999999997	(tourism) (hotel)	Alojamientos El Pinar
+258278	40.41697085	-3.6974934	(tourism) (hotel)	Soho Boutique Congreso
+258405	40.901286400000004	-4.00779575	(tourism) (hotel)	Paradores de La Granja
+258412	40.4395448	-3.6386038000000003	(tourism) (hotel)	Hotel High Tech
+258420	40.534444050000005	-3.6214151	(tourism) (hotel)	Madrid Norte
+258568	40.4285855	-3.6963286	(tourism) (hotel)	NH Alonso Martínez
+258569	40.4284596	-3.6969996	(tourism) (hotel)	Gran Versalles
+258570	40.4566911	-3.6475883500000004	(tourism) (hotel)	Zenit Conde Orgaz
+258576	40.428260699999996	-3.69618235	(tourism) (hotel)	INNSIDE Madrid Génova
+258592	40.431896	-3.6737789000000003	(tourism) (hotel)	Zenit Abeba
+258747	40.42701325	-3.6980482500000003	(tourism) (hotel)	URSO Hotel & Spa
+258858	40.41603035	-3.7091281	(tourism) (hotel)	Petit Palace Mayor Plaza
+258946	40.431022549999994	-3.6929864500000003	(tourism) (hotel)	AC Santo Mauro
+259052	40.46568725	-3.80646505	(tourism) (hotel)	Hotel Concordy
+259323	40.42910365	-3.7167413	(tourism) (hotel)	Muralto
+259708	40.439336049999994	-3.6263335	(tourism) (hotel)	Hotel Ibis Valentín Beato
+259709	40.43930225	-3.62689205	(tourism) (hotel)	Hotel Ibis Budget Valentín Beato
+260179	40.94343575	-4.11036665	(tourism) (hotel)	San Antonio el Real
+260991	40.48390945	-3.36006015	(tourism) (hotel)	Hostal Cuatro Caños
+261163	40.48795495	-3.3652715	(tourism) (hotel)	Ciudad de Alcalá
+261184	40.517210500000004	-3.6552712	(tourism) (hotel)	Hotel La Moraleja Apartamentos
+261306	40.4129351	-3.7008503	(tourism) (hotel)	Catalonia Plaza Mayor
+261307	40.41330895	-3.70047455	(tourism) (hotel)	Hotel Axel
+261339	40.4118198	-3.6975261	(tourism) (hotel)	Hotel Tryp Atocha
+261458	40.41916675	-3.7094448	(tourism) (hotel)	Hotel Meninas
+261466	39.86035595	-4.0216639	(tourism) (hotel)	Antidoto Rooms
+261709	39.8989385	-4.0149211000000005	(tourism) (hotel)	HOSTAL LOS GAVILANES
+261710	39.8989385	-4.0149211000000005	(tourism) (hotel)	Hostal Los Gavilanes
+261874	40.42120775	-3.7030678999999997	(tourism) (hotel)	The Walt Madrid
+261908	40.45102775	-3.59489725	(tourism) (hotel)	NH Barajas Airport
+261910	40.424761000000004	-3.7150428499999997	(tourism) (hotel)	Suites Viena
+261911	40.4516852	-3.59291395	(tourism) (hotel)	Hotel Maydrit
+262045	40.6316938	-3.1505364499999997	(tourism) (hotel)	Hotel Pax
+262119	40.47025255	-3.68485025	(tourism) (hotel)	Barceló Imagine
+262328	40.4541594	-3.7024944499999997	(tourism) (hotel)	4C Bravo Murillo
+262573	40.458071649999994	-3.69850995	(tourism) (hotel)	Hotel Infanta Mercedes
+262575	40.45033515	-3.6979601	(tourism) (hotel)	Gran Atlanta
+262580	40.44988495	-3.6985074	(tourism) (hotel)	Apartamentos Plaza Basílica
+262649	40.24834355	-3.8319313	(tourism) (hotel)	Hotel Pizarro
+263057	40.462912450000005	-3.69673275	(tourism) (hotel)	Érase un hotel
+263129	40.4984266	-3.66488615	(tourism) (hotel)	NH Las Tablas
+263372	40.2717112	-3.81922795	(tourism) (hotel)	Hotel La Unión II
+263390	40.0569928	-3.6043772499999998	(tourism) (hotel)	Hotel Occidental Aranjuez
+263736	40.3961708	-3.67057405	(tourism) (hotel)	Ibis Budget - Madrid Calle 30
+264336	40.68893455	-4.1179922	(tourism) (hotel)	

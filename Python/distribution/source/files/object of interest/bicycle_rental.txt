@@ -1,0 +1,151 @@
+1775	-23.5642105	-46.7132329	(amenity) (bicycle_rental)	Pedalusp
+4058	-23.9688829	-46.3332176	(amenity) (bicycle_rental)	Bike Santos
+4061	-23.9710274	-46.3289985	(amenity) (bicycle_rental)	Bike Santos
+4062	-23.9685324	-46.3393418	(amenity) (bicycle_rental)	Bike Santos (Estação 2)
+4063	-23.9696451	-46.3332766	(amenity) (bicycle_rental)	Bike Santos
+4065	-23.9609664	-46.3379072	(amenity) (bicycle_rental)	Bike Santos (Estação 14)
+5654	-23.5478945	-46.6905984	(amenity) (bicycle_rental)	Metrô Vila Madalena
+6399	-23.9615652	-46.3456543	(amenity) (bicycle_rental)	Bike Santos (Estação 15)
+6400	-23.9432103	-46.3284864	(amenity) (bicycle_rental)	Bike Santos (Estação 19)
+6401	-23.9749185	-46.320157	(amenity) (bicycle_rental)	Bike Santos (Estação 10)
+6402	-23.9861022	-46.3085296	(amenity) (bicycle_rental)	Estação 04 - Aquário
+7046	-23.5667061	-46.7013166	(amenity) (bicycle_rental)	CPTM Pinheiros
+7056	-23.5612844	-46.6904896	(amenity) (bicycle_rental)	Simão Álvares
+7057	-23.5643042	-46.6569173	(amenity) (bicycle_rental)	Praça Alexandre de Gusmão
+7084	-23.5915608	-46.6790041	(amenity) (bicycle_rental)	Jesuino Cardoso
+7085	-23.5945861	-46.6737219	(amenity) (bicycle_rental)	Santa Justina
+7087	-23.5941795	-46.6692484	(amenity) (bicycle_rental)	124 - Praça Pereira Coutinho
+7092	-23.5657769	-46.6660491	(amenity) (bicycle_rental)	Oscar Freire
+7093	-23.5680361	-46.6621215	(amenity) (bicycle_rental)	Alameda Casa Branca
+7094	-23.5703411	-46.6648714	(amenity) (bicycle_rental)	Praça Nicolau Scarpa
+7095	-23.5651727	-46.6731964	(amenity) (bicycle_rental)	Rua Guadalupe
+7099	-23.5785514	-46.6661127	(amenity) (bicycle_rental)	Antonio Bento
+7101	-23.5795986	-46.6710694	(amenity) (bicycle_rental)	Avenida Sao Gabriel
+7102	-23.5834777	-46.6719759	(amenity) (bicycle_rental)	Brasília
+7103	-23.5861401	-46.6774145	(amenity) (bicycle_rental)	Joao Cachoeira
+9684	-23.9709371	-46.3089641	(amenity) (bicycle_rental)	Estação 18 - Pedro Lessa
+9685	-23.9733563	-46.3027384	(amenity) (bicycle_rental)	Estação 16 - Aparecida
+9686	-23.9767321	-46.3118794	(amenity) (bicycle_rental)	Estação 09 - Sesc
+9687	-23.9806057	-46.299977	(amenity) (bicycle_rental)	Estação 08 - Rebouças
+9688	-23.9880105	-46.2958102	(amenity) (bicycle_rental)	Estação 05 - Ferry Boat
+9689	-23.9909759	-46.305122	(amenity) (bicycle_rental)	Estação 07 - Internacional
+9690	-23.980245	-46.3131479	(amenity) (bicycle_rental)	Estação 06 - Fonte do Sapo
+11850	-23.6116918	-46.6948828	(amenity) (bicycle_rental)	James Watt
+11861	-23.5957961	-46.6879773	(amenity) (bicycle_rental)	Shopping Vila Olímpia
+11862	-23.5893803	-46.6884725	(amenity) (bicycle_rental)	Parque do Povo portão 1
+11863	-23.5865882	-46.6837471	(amenity) (bicycle_rental)	Itaú Faria Lima
+11865	-23.5805174	-46.6875186	(amenity) (bicycle_rental)	Esporte Clube Pinheiros
+11866	-23.5772075	-46.6918319	(amenity) (bicycle_rental)	Clube Hebraica
+11867	-23.5738722	-46.6955429	(amenity) (bicycle_rental)	Shopping Eldorado
+11868	-23.5757852	-46.6863692	(amenity) (bicycle_rental)	Shopping Iguatemi
+11869	-23.5725261	-46.6819588	(amenity) (bicycle_rental)	Madre Alix
+11870	-23.5700288	-46.6866142	(amenity) (bicycle_rental)	Rua Mariano Correia (230)
+11871	-23.5661305	-46.6876893	(amenity) (bicycle_rental)	Artur de Azevedo (229)
+11872	-23.5654814	-46.6835926	(amenity) (bicycle_rental)	Metrô Fradique
+11873	-23.5635351	-46.6795284	(amenity) (bicycle_rental)	284 - Francisco Leitão
+11874	-23.5611906	-46.6783568	(amenity) (bicycle_rental)	Lisboa
+11875	-23.5600042	-46.6739191	(amenity) (bicycle_rental)	Capote Valente (211)
+11876	-23.5551188	-46.6742086	(amenity) (bicycle_rental)	Arruda Alvim (202)
+11877	-23.5570995	-46.6800975	(amenity) (bicycle_rental)	João Moura (214)
+11878	-23.5593896	-46.6838587	(amenity) (bicycle_rental)	112. Cônego Eugênio Leite
+11880	-23.5614103	-46.6953793	(amenity) (bicycle_rental)	Instituto Tomie Ohtake (105)
+11881	-23.558787	-46.6995764	(amenity) (bicycle_rental)	Praça Roquete Pinto (234)
+11882	-23.556702	-46.7021446	(amenity) (bicycle_rental)	Praça Ernami Braga (236)
+11883	-23.5544616	-46.6962094	(amenity) (bicycle_rental)	279. Natingui
+11884	-23.5544848	-46.6913359	(amenity) (bicycle_rental)
+11885	-23.5571223	-46.6888361	(amenity) (bicycle_rental)	283. Aspicuelta
+11887	-23.5515608	-46.6784956	(amenity) (bicycle_rental)	Metrô Sumaré (201)
+11889	-23.5448424	-46.6823567	(amenity) (bicycle_rental)	275;MTV
+11893	-23.5362586	-46.6813501	(amenity) (bicycle_rental)	269;Valparaíso
+11894	-23.5350762	-46.6823988	(amenity) (bicycle_rental)	270;Diana
+11898	-23.5322593	-46.6806577	(amenity) (bicycle_rental)	265;Xerentes
+11904	-23.5324229	-46.6728767	(amenity) (bicycle_rental)	246. Itapicuru
+11906	-23.5355714	-46.6702831	(amenity) (bicycle_rental)	256;Doutor Homem de Melo
+11917	-23.5453788	-46.6518392	(amenity) (bicycle_rental)	143. Mackenzie
+11918	-23.5461428	-46.6528688	(amenity) (bicycle_rental)	260. Maranhão
+11937	-23.5429828	-46.6394407	(amenity) (bicycle_rental)	167. Largo do Paissandú
+11973	-23.5463097	-46.564625	(amenity) (bicycle_rental)	215. Jaúna
+11979	-23.5427944	-46.5653578	(amenity) (bicycle_rental)	213. Tijuco Preto
+11980	-23.5449111	-46.5684097	(amenity) (bicycle_rental)	214. Praça Karnicks Avedis Nahas
+12005	-23.573712	-46.6514416	(amenity) (bicycle_rental)	13. Rua Tutóia
+12011	-23.5703741	-46.6551332	(amenity) (bicycle_rental)	Joaquim Eugênio de Lima (77)
+12017	-23.5944555	-46.683434	(amenity) (bicycle_rental)	66. Chilon
+14179	-23.5440047	-46.3703467	(amenity) (bicycle_rental)
+27247	-23.5719966	-46.6444031	(amenity) (bicycle_rental)
+27949	-23.5697728	-46.6981333	(amenity) (bicycle_rental)	Rua Butantã
+30037	-23.5621108	-46.6698481	(amenity) (bicycle_rental)	Estação Oscar Freire
+30276	-23.5726751	-46.6585546	(amenity) (bicycle_rental)	Queluz (72)
+30277	-23.5684507	-46.6691947	(amenity) (bicycle_rental)	Club Athletico Paulistano
+30485	-23.5666783	-46.6939318	(amenity) (bicycle_rental)	Largo da Batata
+30486	-23.5660759	-46.6941222	(amenity) (bicycle_rental)	Largo de Batata II
+30487	-23.5655547	-46.6942403	(amenity) (bicycle_rental)	Praça Faria Lima
+30488	-23.5688406	-46.6921849	(amenity) (bicycle_rental)	Rua Diogo Moreira
+30489	-23.5722267	-46.6903351	(amenity) (bicycle_rental)	Rua Manduri
+30490	-23.57261	-46.6937686	(amenity) (bicycle_rental)	Praça Joaquim Roberto
+30491	-23.5755567	-46.6907723	(amenity) (bicycle_rental)	Rua Campo Verde
+30492	-23.5795102	-46.6906918	(amenity) (bicycle_rental)	Esporte Clube Pinheiros Funcionários
+30493	-23.6089832	-46.69146	(amenity) (bicycle_rental)	Rua Florida
+30516	-23.599297	-46.6871899	(amenity) (bicycle_rental)	Praça Dr. Francisco Patti
+30517	-23.6001548	-46.6895208	(amenity) (bicycle_rental)	Praça Procopio Ferreira
+30518	-23.6023398	-46.6924417	(amenity) (bicycle_rental)	Praça João Duram Alonso
+30519	-23.6054293	-46.694625	(amenity) (bicycle_rental)	Estação Berrini
+30520	-23.6047927	-46.695081	(amenity) (bicycle_rental)	Praça Gen. Gentil Falcão
+30521	-23.6075061	-46.6882575	(amenity) (bicycle_rental)	Rua Indiana
+30522	-23.6087055	-46.6949093	(amenity) (bicycle_rental)	Rua Hans Oerted
+30523	-23.5977395	-46.6777736	(amenity) (bicycle_rental)	121 - Insper
+30524	-23.5977239	-46.6841161	(amenity) (bicycle_rental)	Rua Júlio Diniz
+30525	-23.5994371	-46.6798809	(amenity) (bicycle_rental)	Rua Gomes de Carvalho
+30526	-23.6012289	-46.6816002	(amenity) (bicycle_rental)	Rua Alvorada
+30527	-23.6037605	-46.67696	(amenity) (bicycle_rental)	Rua Andrade Pertence
+30642	-23.5621323	-46.6764158	(amenity) (bicycle_rental)	João Moura, 328 (216)
+30646	-23.5698462	-46.6805802	(amenity) (bicycle_rental)	Jacupiranga
+30647	-23.572754	-46.6815358	(amenity) (bicycle_rental)	Colégio Madre Alix
+30648	-23.5722943	-46.6846338	(amenity) (bicycle_rental)	Professor Roberto Hörtinger
+30649	-23.5769701	-46.6801706	(amenity) (bicycle_rental)	Praça Luiz Delben Junior
+30650	-23.5835852	-46.6802323	(amenity) (bicycle_rental)	Rua Professor Carlos de Carvalho
+30651	-23.5813827	-46.6779095	(amenity) (bicycle_rental)	Itacema
+30652	-23.5794357	-46.6731727	(amenity) (bicycle_rental)	Itacema
+30653	-23.5785901	-46.6707051	(amenity) (bicycle_rental)	Suzano
+30654	-23.5792391	-46.6666281	(amenity) (bicycle_rental)	Rua General Fonseca Telles
+30655	-23.578772	-46.6635275	(amenity) (bicycle_rental)	Marechal Bitencourt
+30656	-23.5822283	-46.6671538	(amenity) (bicycle_rental)	Hotel Unique
+30657	-23.5817268	-46.6695464	(amenity) (bicycle_rental)	Paróquia São Gabriel
+30658	-23.5851879	-46.6807687	(amenity) (bicycle_rental)	Viradouro
+30659	-23.586653	-46.6762519	(amenity) (bicycle_rental)	E.E. Aristides de Castro
+30660	-23.58712	-46.672824	(amenity) (bicycle_rental)	Rua Benedito Lapin
+30661	-23.5903288	-46.6738168	(amenity) (bicycle_rental)	30 - Bandeira Paulista
+30662	-23.5902811	-46.678336	(amenity) (bicycle_rental)	Rua Comendador Miguel Calfat
+30663	-23.5924491	-46.681332	(amenity) (bicycle_rental)	Rua Min. Jesuíno Cardoso
+30664	-23.5955093	-46.6832498	(amenity) (bicycle_rental)	Praça Pierre Germayel
+30665	-23.5927736	-46.6843146	(amenity) (bicycle_rental)	Rua Helena
+30666	-23.5926605	-46.6884399	(amenity) (bicycle_rental)	Rua Funchal
+30667	-23.5850737	-46.6904099	(amenity) (bicycle_rental)	CPTM Cidade Jardim
+30668	-23.5892586	-46.6840196	(amenity) (bicycle_rental)	Rua Leopoldo Couto
+30669	-23.5753427	-46.6616285	(amenity) (bicycle_rental)	Praça Domingos Delascio
+30670	-23.593688	-46.6912991	(amenity) (bicycle_rental)	CPTM Vila Olímpia
+30671	-23.5956617	-46.6906527	(amenity) (bicycle_rental)	Av. Dr. Cardoso de Melo
+30672	-23.5842956	-46.6828206	(amenity) (bicycle_rental)	Rua José Gonçalves de Oliveira
+30673	-23.5824938	-46.6913152	(amenity) (bicycle_rental)	Esporte Clube Pinheiros Boliche
+30674	-23.5824938	-46.6868413	(amenity) (bicycle_rental)	Rua Prof. Artur Ramos
+30675	-23.5803355	-46.6851407	(amenity) (bicycle_rental)	Casa Brasileira
+30680	-23.5713577	-46.6703095	(amenity) (bicycle_rental)	Equador
+30681	-23.567745	-46.6736542	(amenity) (bicycle_rental)	Venezuela
+30682	-23.5738443	-46.669423	(amenity) (bicycle_rental)	Clube Harmonia
+30683	-23.5736095	-46.6770391	(amenity) (bicycle_rental)	Mube
+30684	-23.5706373	-46.6759971	(amenity) (bicycle_rental)	Groelândia
+30685	-23.568606	-46.6778538	(amenity) (bicycle_rental)	Atlântica
+30790	-23.5681887	-46.6489829	(amenity) (bicycle_rental)	Rua Manoeel de Nobrega (95)
+31752	-23.9896486	-46.2891569	(amenity) (bicycle_rental)
+33200	-23.5455826	-46.7324597	(amenity) (bicycle_rental)	CPTM Vila Lobos Jaguaré (267)
+33504	-23.6013957	-46.6712473	(amenity) (bicycle_rental)	Graúna (126)
+33883	-23.5950445	-46.6374783	(amenity) (bicycle_rental)	Cunha (308)
+34975	-23.5643707	-46.6799225	(amenity) (bicycle_rental)	Rua dos Pinheiros (220)
+35020	-23.5751309	-46.6414815	(amenity) (bicycle_rental)
+36563	-23.5106771	-46.5953557	(amenity) (bicycle_rental)
+37069	-23.5548965	-46.6933256	(amenity) (bicycle_rental)	Estação Delfina
+38367	-23.6002663	-46.6751465	(amenity) (bicycle_rental)	122 - Rua Baluarte
+38368	-23.5933856	-46.6770807	(amenity) (bicycle_rental)	28 - Rua Comendador Miguel Calfat
+38771	-23.5681715	-46.6486063	(amenity) (bicycle_rental)	Estação 92 Brigadeiro
+42561	-23.5642264	-46.6990322	(amenity) (bicycle_rental)
+168904	-23.5898727	-46.65311845	(amenity) (bicycle_rental)	Flávio Bikes
+226204	-23.5765137	-46.629039750000004	(amenity) (bicycle_rental)	138. Parque da Aclimação

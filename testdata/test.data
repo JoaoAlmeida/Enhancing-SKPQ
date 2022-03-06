@@ -1,0 +1,9 @@
+@attribute PIC numeric
+@attribute P2 numeric
+@attribute P3 numeric
+@attribute P4 numeric
+@attribute E {like, dislike}
+
+@data
+4, 4, 4, 4, 4,like
+7, 7, 7, 7, 7,dislike

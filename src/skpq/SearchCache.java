@@ -46,6 +46,7 @@ public class SearchCache {
 		}
 	}
 
+	@SuppressWarnings("unchecked")
 	public void load() throws IOException {
 		
 		try {
@@ -71,6 +72,7 @@ public class SearchCache {
 		}
 	}
 
+	@SuppressWarnings("rawtypes")
 	public void printCache() {
 
 		if (!cache.isEmpty()) {

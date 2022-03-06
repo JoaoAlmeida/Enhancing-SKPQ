@@ -1,3 +1,38 @@
+# =========================
+# Project Ignored Files
+# =========================
+
+# Notepad++ backup folder
+nppBackup/
+
+# Framework output folder
+output/
+index*/
+evaluations/
+#datasetsOutput/
+key.info
+
+
+#Research datasets
+Doutorado/terceiro journal/Datasets
+Doutorado/Datasets.zip
+profiles/check-ins
+
+#Cache folders
+london/
+losangeles/
+newyork/
+berlin/
+madrid/
+
+#Temporary ignored files
+src/log4j.properties
+thrash/
+
+# =========================
+# Windows Files
+# =========================
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db

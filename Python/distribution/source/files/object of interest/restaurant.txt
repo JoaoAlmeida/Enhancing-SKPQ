@@ -1,0 +1,2459 @@
+82	-23.5454466	-46.56614	(amenity) (restaurant)	Artesanal
+87	-23.5273007	-46.5769501	(amenity) (restaurant)	Gauchão
+116	-23.3094451	-46.9121195	(amenity) (restaurant)
+254	-23.5569597	-46.750093	(amenity) (restaurant)	Restaurante Ches
+273	-23.4949506	-46.8492427	(amenity) (restaurant)	Alpha Point
+276	-23.49289	-46.8515879	(amenity) (restaurant)	America
+277	-23.49289	-46.8512532	(amenity) (restaurant)	Novilho de Prata
+280	-23.4940563	-46.8484188	(amenity) (restaurant)	La Ville
+283	-23.4957237	-46.8489786	(amenity) (restaurant)	Kyoto Temakeria
+289	-23.5373131	-46.6843487	(amenity) (restaurant)	choperia siri bar
+293	-23.4965037	-46.8516	(amenity) (restaurant)	Malagueta
+294	-23.4858263	-46.856579	(amenity) (restaurant)	Galeteria Gaucha
+298	-23.4855114	-46.8563215	(amenity) (restaurant)	Kyoto
+307	-23.4905471	-46.8437063	(amenity) (restaurant)	Tenis Club
+309	-23.4926551	-46.8480326	(amenity) (restaurant)	Alpha Grill
+334	-23.535308	-46.6882476	(amenity) (restaurant)
+350	-23.5528955	-46.5647469	(amenity) (restaurant)	Santa Panela espetinhos
+369	-23.5508642	-46.6967618	(amenity) (restaurant)	Sachinha
+370	-23.5657001	-46.6834399	(amenity) (restaurant)	El Kabong Grill
+438	-23.5520829	-46.6383065	(amenity) (restaurant)	Maria Paula Bar e Restaurante
+477	-23.555258	-46.6351745	(amenity) (restaurant)
+498	-23.4657397	-46.5255591	(amenity) (restaurant)
+504	-23.591843	-46.5796718	(amenity) (restaurant)
+546	-23.5630465	-46.6708263	(amenity) (restaurant)	Mori Sushi
+653	-23.5937983	-46.6778126	(amenity) (restaurant)	Pobre Juan
+655	-23.7773423	-46.300927	(amenity) (restaurant)
+679	-23.6241305	-46.679635	(amenity) (restaurant)	Pizzaria Leonna
+680	-23.4960285	-46.8503211	(amenity) (restaurant)	La Rocca
+683	-23.4965163	-46.851764	(amenity) (restaurant)	Giorgio
+684	-23.6098726	-46.6655492	(amenity) (restaurant)	Outback Steakhouse Moema
+688	-23.5579761	-46.6633192	(amenity) (restaurant)	Juanita
+775	-23.5784761	-46.640457	(amenity) (restaurant)	TemakiYa
+779	-23.5031267	-46.8240322	(amenity) (restaurant)	Grillarica
+782	-23.5012754	-46.8357859	(amenity) (restaurant)	Sushi
+784	-23.5566344	-46.6760952	(amenity) (restaurant)	Degas Restaurante e Churascaria
+814	-23.5967934	-46.6423796	(amenity) (restaurant)	Dinos
+815	-23.5970589	-46.6445254	(amenity) (restaurant)
+828	-23.597645	-46.6424628	(amenity) (restaurant)	Veneza
+851	-23.1883257	-46.0160259	(amenity) (restaurant)	Bar das Meninas
+867	-23.5503074	-46.6896958	(amenity) (restaurant)	Merceira São Pedro
+870	-23.5315776	-46.6635766	(amenity) (restaurant)	Ponto Chic
+875	-23.5479136	-46.6306427	(amenity) (restaurant)	Restaurante Bom Prato
+880	-23.5571585	-46.6755567	(amenity) (restaurant)	Excellence Bar e Restaurante
+891	-23.4885123	-46.749261	(amenity) (restaurant)	Obsessão
+901	-23.5543387	-46.6763723	(amenity) (restaurant)	Shopia
+910	-23.5534694	-46.6857999	(amenity) (restaurant)	Canto Madalena
+941	-23.5530479	-46.6883078	(amenity) (restaurant)	Morro da Villa Bar e Restaurante?
+943	-23.5553763	-46.6880427	(amenity) (restaurant)	Jacaré Grill?
+944	-23.5581626	-46.6885148	(amenity) (restaurant)	Matterello Pau de Macarrão?
+945	-23.5533916	-46.6884007	(amenity) (restaurant)	Pizzaria Pizzabella?
+951	-23.6217104	-46.6396684	(amenity) (restaurant)	Flor da Capital
+975	-23.2820114	-47.2294789	(amenity) (restaurant)	Fazenda da Serra
+978	-23.6256776	-46.6851401	(amenity) (restaurant)	Restaurante Donatela
+981	-23.4299863	-46.6567175	(amenity) (restaurant)	As Véia
+991	-23.5583138	-46.6362838	(amenity) (restaurant)	Restaurante Katsuzen Katian
+1090	-23.5703294	-46.6548216	(amenity) (restaurant)	Pizzaria Prestíssimo
+1091	-23.571976	-46.6567874	(amenity) (restaurant)	Restaurante Estación Sur
+1092	-23.5720041	-46.656532	(amenity) (restaurant)	Restaurante Sinha'na
+1094	-23.5731694	-46.6577096	(amenity) (restaurant)	Bom Jesus 2 Lanches
+1097	-23.5743125	-46.6587299	(amenity) (restaurant)	Restaurante Trattoria do Pietro
+1100	-23.5691746	-46.6493579	(amenity) (restaurant)	Calçadão de Ouro
+1104	-23.5686122	-46.649197	(amenity) (restaurant)	Washoi
+1105	-23.5689928	-46.6491029	(amenity) (restaurant)	Restaurante Diner´s
+1107	-23.5689306	-46.6500107	(amenity) (restaurant)	Le Marmiton
+1108	-23.5691219	-46.6501763	(amenity) (restaurant)	Restaurante Aroma
+1121	-23.5703788	-46.6484915	(amenity) (restaurant)	Restaurante Natural
+1124	-23.5682526	-46.6502366	(amenity) (restaurant)	Restaurante Comida Chinesa
+1127	-23.5670349	-46.651964	(amenity) (restaurant)	Loreto
+1132	-23.5662197	-46.6537748	(amenity) (restaurant)	Shintori
+1133	-23.565964	-46.6534851	(amenity) (restaurant)	La Cabaleriza
+1142	-23.570211	-46.6546896	(amenity) (restaurant)	Rotisserie Santa Gema
+1150	-23.57033	-46.656999	(amenity) (restaurant)	Restaurante Orange
+1152	-23.5710717	-46.6564156	(amenity) (restaurant)	Pizzaria Delluccio
+1156	-23.5722315	-46.6539682	(amenity) (restaurant)	Restaurante China in Box
+1157	-23.5709572	-46.6525697	(amenity) (restaurant)	Restaurante Minas Tutu e Prosa
+1167	-23.5723849	-46.6618107	(amenity) (restaurant)	Pizzaria Camelo
+1168	-23.5686596	-46.6587146	(amenity) (restaurant)	Trattoria do Sargento
+1197	-23.6336574	-46.6908932	(amenity) (restaurant)	Santa Marcelina
+1216	-23.4835507	-46.5423053	(amenity) (restaurant)	Cantina D'elia
+1220	-23.4688951	-46.5214389	(amenity) (restaurant)	Dallas Churrascaria
+1241	-23.577869	-46.642828	(amenity) (restaurant)	Pizzaria Babbo Giovanni
+1255	-23.5246911	-46.732905	(amenity) (restaurant)	Barello Burguer
+1322	-23.6079194	-46.7562283	(amenity) (restaurant)	Cantinho do Meio Dia
+1364	-23.634987	-46.7118861	(amenity) (restaurant)	B. Burguer
+1377	-23.5522062	-46.6448165	(amenity) (restaurant)	Prueba
+1382	-23.6451385	-46.5751014	(amenity) (restaurant)	Sete Mares
+1475	-23.4817222	-46.5011301	(amenity) (restaurant)	Bandejão EACH
+1483	-23.5506396	-46.6239852	(amenity) (restaurant)	Café e Arte
+1492	-23.6076052	-46.7546109	(amenity) (restaurant)	China da Serra
+1493	-23.6077122	-46.7547678	(amenity) (restaurant)	Gaúchos Bar & Restaurante
+1503	-23.6040711	-46.7505981	(amenity) (restaurant)	Restaurante Komilão
+1512	-23.5895476	-46.629629	(amenity) (restaurant)	Mascarino
+1525	-23.5057039	-46.4883229	(amenity) (restaurant)
+1531	-23.5073523	-46.4904087	(amenity) (restaurant)
+1533	-23.5070239	-46.4871724	(amenity) (restaurant)	Chico
+1550	-23.4930706	-46.4807	(amenity) (restaurant)
+1574	-23.1949666	-45.9069159	(amenity) (restaurant)	San Genaro
+1595	-23.1951368	-45.9072593	(amenity) (restaurant)	Bella Pizza
+1640	-23.9238401	-46.2131105	(amenity) (restaurant)	Restaurante - Residencial Marina Guarujá
+1651	-23.5836145	-46.5789904	(amenity) (restaurant)	Garage Burger
+1662	-23.2291813	-45.9022591	(amenity) (restaurant)	Restaurante Barril
+1666	-23.4963498	-46.8496835	(amenity) (restaurant)	Midori
+1672	-23.6838668	-46.5366431	(amenity) (restaurant)
+1673	-23.6752191	-46.5253776	(amenity) (restaurant)
+1678	-23.6665871	-46.5236126	(amenity) (restaurant)
+1716	-23.5390446	-46.7739818	(amenity) (restaurant)	Estância Churrascaria
+1717	-23.540097	-46.7707846	(amenity) (restaurant)	Rincão Gaúcho Grill
+1724	-23.6019727	-46.6624822	(amenity) (restaurant)	Koban
+1727	-23.5390042	-46.7060105	(amenity) (restaurant)	Snack Point Burger
+1759	-23.608311	-46.6027307	(amenity) (restaurant)	Na Moral Restaurante
+1760	-23.5971832	-46.6404927	(amenity) (restaurant)	Lagoa Tropical
+1762	-23.5871151	-46.6409433	(amenity) (restaurant)	Casa Anro
+1772	-23.6903768	-46.5662451	(amenity) (restaurant)	Caravana Grill
+1776	-23.5509934	-46.6490656	(amenity) (restaurant)	Cantina D'Amico Piolin
+1780	-23.5451017	-46.6929352	(amenity) (restaurant)	Lanchonete Chivito
+1785	-23.6058938	-46.618681	(amenity) (restaurant)	Famiglia Moretti
+1791	-23.9568308	-46.3379409	(amenity) (restaurant)	Fish Maria
+1792	-23.4969008	-46.849705	(amenity) (restaurant)	Conquista
+1832	-23.4966622	-46.8517596	(amenity) (restaurant)	Villa di Firenze
+1882	-23.6244732	-46.6627979	(amenity) (restaurant)	Aerobeer
+1886	-23.5697743	-46.5874652	(amenity) (restaurant)	No Carvão
+1891	-23.6329118	-46.6917801	(amenity) (restaurant)	Makis Temakeria
+1893	-23.6446596	-46.7032002	(amenity) (restaurant)	O Mourisco Pizzaria
+1899	-23.5871955	-46.7370359	(amenity) (restaurant)	Muralhas Grill
+1900	-23.5873184	-46.7369554	(amenity) (restaurant)	Padaria Maria da Fonte
+1903	-23.5947018	-46.6522327	(amenity) (restaurant)	Bar da Piscina
+1909	-23.5672472	-46.5881842	(amenity) (restaurant)
+1914	-23.5686408	-46.5885151	(amenity) (restaurant)	Sushi da Moka
+1925	-23.6243754	-46.6625207	(amenity) (restaurant)	Bom Sabor
+1926	-23.6243068	-46.6619786	(amenity) (restaurant)	Churrascaria Savana
+1929	-23.5560353	-46.6586169	(amenity) (restaurant)	Gopala Mãdahva
+1944	-23.6151402	-46.5718811	(amenity) (restaurant)	Dedo de Moça
+1945	-23.6131004	-46.5718167	(amenity) (restaurant)	Restaurante Formosa
+1946	-23.6142849	-46.5713393	(amenity) (restaurant)	Paralelo 19
+2016	-23.6132499	-46.6827636	(amenity) (restaurant)	Fritos e Assados
+2018	-23.6140806	-46.6819643	(amenity) (restaurant)	Uffizi
+2019	-23.6147933	-46.6817766	(amenity) (restaurant)	Apriori Cuccina
+2059	-23.8972207	-46.4331983	(amenity) (restaurant)
+2061	-23.898106	-46.4342739	(amenity) (restaurant)
+2110	-23.6149991	-46.5705719	(amenity) (restaurant)	Origami Sushi
+2142	-23.5782691	-46.5862801	(amenity) (restaurant)	Pizzaria San Carlo
+2154	-23.5782729	-46.5872695	(amenity) (restaurant)	Pizzaria O Glutão
+2157	-23.5773625	-46.5916788	(amenity) (restaurant)	Juventos
+2170	-23.574306	-46.5861645	(amenity) (restaurant)	Garage Burger
+2185	-23.5541192	-46.6027853	(amenity) (restaurant)	Pizzaria São Pedro
+2195	-23.6265494	-46.7368655	(amenity) (restaurant)	Poncho Verde
+2208	-23.5439211	-46.4440081	(amenity) (restaurant)	Bom Apetite
+2209	-23.5705398	-46.6984329	(amenity) (restaurant)	Terra Roxa
+2215	-23.5568208	-46.6590068	(amenity) (restaurant)	Hamburgueria 162
+2223	-23.6341603	-46.7094064	(amenity) (restaurant)	Indiano
+2368	-23.1975041	-45.8881929	(amenity) (restaurant)	Creperia do Kadu
+2406	-23.5367639	-46.6544916	(amenity) (restaurant)	Angélica Grill
+2424	-23.5325754	-46.678175	(amenity) (restaurant)	Princesinha de Perdizes
+2426	-23.5331194	-46.6773515	(amenity) (restaurant)	Nahamalho
+2431	-23.5339183	-46.6729498	(amenity) (restaurant)	Olivo Espetu's bar
+2434	-23.5368997	-46.6684851	(amenity) (restaurant)	Airin
+2436	-23.5367844	-46.6687367	(amenity) (restaurant)	Sushibol
+2437	-23.5363891	-46.6692936	(amenity) (restaurant)	Arabesco
+2447	-23.5830802	-46.6813934	(amenity) (restaurant)	Le Pain Quotidien
+2651	-23.1847855	-45.8743791	(amenity) (restaurant)	Pizzaria Augustos
+2671	-23.1990104	-45.8890284	(amenity) (restaurant)
+2698	-23.9768124	-46.3100637	(amenity) (restaurant)	Praiamar Shopping
+2719	-23.9876567	-46.2969233	(amenity) (restaurant)	Restaurante Estrela de Ouro
+2720	-23.9892354	-46.2995095	(amenity) (restaurant)	Maurício
+2722	-23.9882645	-46.2968322	(amenity) (restaurant)	Gotissô
+2724	-23.9747784	-46.3039081	(amenity) (restaurant)
+2727	-23.9752002	-46.3028615	(amenity) (restaurant)	Pizzaria Bella Roma
+2754	-23.9802527	-46.304244	(amenity) (restaurant)
+2762	-23.9685976	-46.3053083	(amenity) (restaurant)
+2774	-23.9715192	-46.30881	(amenity) (restaurant)	Forno de Ouro
+2782	-23.9746265	-46.3093475	(amenity) (restaurant)	Restaurante Giani
+2788	-23.9775247	-46.3120375	(amenity) (restaurant)	Sunset
+2821	-23.972287	-46.3239952	(amenity) (restaurant)
+2824	-23.9720492	-46.3239791	(amenity) (restaurant)
+2830	-23.9763517	-46.3011129	(amenity) (restaurant)
+2843	-23.9692078	-46.3064448	(amenity) (restaurant)
+2847	-23.9714132	-46.3084245	(amenity) (restaurant)
+2851	-23.9724112	-46.3069946	(amenity) (restaurant)
+2855	-23.9720487	-46.3065842	(amenity) (restaurant)
+2865	-23.9868651	-46.3035228	(amenity) (restaurant)	Kokimbos Pizzas & Picanha
+2869	-23.9879199	-46.3015025	(amenity) (restaurant)	La Tratoria Trianon
+2910	-23.5431251	-46.3190086	(amenity) (restaurant)
+2927	-23.9740286	-46.3050232	(amenity) (restaurant)
+2930	-23.9824551	-46.3103815	(amenity) (restaurant)	Santa Felicidade Restaurante & Chopperia
+2941	-23.9822241	-46.3101571	(amenity) (restaurant)	Baraçai - Sushi
+2963	-23.9858902	-46.3078052	(amenity) (restaurant)
+2972	-23.9878306	-46.3077106	(amenity) (restaurant)	Restaurante Estuário
+2980	-23.9649825	-46.319055	(amenity) (restaurant)	A Rainha - Pizza & Grill
+3097	-23.9673233	-46.3142237	(amenity) (restaurant)
+3101	-23.9683772	-46.3129631	(amenity) (restaurant)	D' Boa
+3107	-23.9700678	-46.3104472	(amenity) (restaurant)
+3108	-23.9678037	-46.3142771	(amenity) (restaurant)
+3136	-23.9649162	-46.3209386	(amenity) (restaurant)
+3215	-23.5961654	-46.5722729	(amenity) (restaurant)	Nakato Sushi Restaurante
+3216	-23.5990804	-46.5748723	(amenity) (restaurant)
+3223	-23.9775437	-46.3158671	(amenity) (restaurant)	Restaurante Vista ao Mar
+3229	-23.5446099	-46.6612448	(amenity) (restaurant)	Restaurante Si Senor
+3235	-23.6443243	-46.6966973	(amenity) (restaurant)	Mercearia do Alto
+3259	-23.6091954	-46.6946087	(amenity) (restaurant)	Maria Berrini
+3270	-23.6074323	-46.6950648	(amenity) (restaurant)	Pimenta Verde
+3276	-23.6064819	-46.6919521	(amenity) (restaurant)	Tutta Gula
+3296	-23.6042045	-46.6662238	(amenity) (restaurant)	Los 3 Amigos
+3300	-23.2121629	-46.1127379	(amenity) (restaurant)	Restaurante das Águas
+3306	-23.5943447	-46.6829915	(amenity) (restaurant)	Tantra
+3316	-23.6895225	-46.5222566	(amenity) (restaurant)	Gregóis Restaurante
+3345	-23.1861679	-45.8872449	(amenity) (restaurant)	BOA
+3359	-23.6048846	-46.6936599	(amenity) (restaurant)	Master
+3360	-23.6094226	-46.6946409	(amenity) (restaurant)	Garfus
+3364	-23.5849678	-46.4017466	(amenity) (restaurant)	Toque de Arte
+3421	-23.534768	-46.687028	(amenity) (restaurant)	1900 - Perdizes
+3423	-23.5369675	-46.6855096	(amenity) (restaurant)	Dib Especialidades Árabes
+3442	-23.607119	-46.693815	(amenity) (restaurant)	Pratus
+3443	-23.607553	-46.693256	(amenity) (restaurant)	Yoi! Rolls & Temakis
+3459	-23.6070881	-46.6932918	(amenity) (restaurant)	Ponto Gourmet
+3460	-23.6065235	-46.6916047	(amenity) (restaurant)	La Mexicana
+3482	-23.6102054	-46.6951179	(amenity) (restaurant)	Tomate Cereja
+3593	-23.2329924	-45.8848137	(amenity) (restaurant)
+3595	-23.6063555	-46.6925517	(amenity) (restaurant)	Trem de Minas
+3607	-23.5976268	-46.6868041	(amenity) (restaurant)	Gandara das Olimpíadas
+3610	-23.5981602	-46.6855729	(amenity) (restaurant)	Desfrutti
+3612	-23.5985731	-46.6843659	(amenity) (restaurant)	Lanchonete Dois Irmãos
+3640	-23.6334281	-46.6254581	(amenity) (restaurant)	Presto Pizzaria
+3644	-23.5376629	-46.650621	(amenity) (restaurant)	Esfiha Chic (Delivery)
+3645	-23.5382912	-46.6515073	(amenity) (restaurant)	Toshiro Sushi
+3646	-23.5415619	-46.6585951	(amenity) (restaurant)	Flying Sushi
+3648	-23.5390741	-46.6580667	(amenity) (restaurant)	Baronesa
+3649	-23.5404375	-46.6515966	(amenity) (restaurant)	Frango com Tudo Dentro
+3650	-23.5404843	-46.651402	(amenity) (restaurant)	Siga la Vaca
+3658	-23.5422847	-46.6716229	(amenity) (restaurant)	Hobby Hamburger
+3663	-23.4824265	-46.4939152	(amenity) (restaurant)	Padaria Nova USP
+3678	-23.5502338	-46.6605078	(amenity) (restaurant)	Black Pepper
+3700	-23.5415368	-46.5708241	(amenity) (restaurant)	La Tivoli
+3701	-23.5439277	-46.5642189	(amenity) (restaurant)
+3729	-23.5029231	-46.6265241	(amenity) (restaurant)	Padaria Estrela Polar
+3733	-23.5031829	-46.6254428	(amenity) (restaurant)	Esfiha Chic
+3736	-23.5022827	-46.6305363	(amenity) (restaurant)	Lig Lig
+3741	-23.5561062	-46.6581768	(amenity) (restaurant)	Madhu
+3784	-23.5740017	-46.7269669	(amenity) (restaurant)	Casa do Norte
+3862	-23.557468	-46.647419	(amenity) (restaurant)	Pizzaria Ruberto's
+3869	-24.2968668	-46.9690986	(amenity) (restaurant)	Eka Restaurante e Pizzaria
+3874	-23.6040659	-46.6593843	(amenity) (restaurant)	Consulado de Moema
+3881	-23.6038937	-46.6592412	(amenity) (restaurant)	Euro Lanches
+3884	-23.6045376	-46.6571388	(amenity) (restaurant)	Galeteria Moema
+3888	-23.6046011	-46.6586969	(amenity) (restaurant)	La Cabaña
+3890	-23.6046793	-46.6587721	(amenity) (restaurant)	Os Gaúchos
+3894	-23.6037504	-46.6593743	(amenity) (restaurant)	Princesa de Moema
+3897	-23.6047153	-46.658493	(amenity) (restaurant)	Vitória Régia
+3904	-23.6062085	-46.6583994	(amenity) (restaurant)
+3906	-23.6048594	-46.6570942	(amenity) (restaurant)	1900 Pizzeria
+3913	-23.5787238	-46.6084539	(amenity) (restaurant)
+3954	-23.4837732	-46.8590124	(amenity) (restaurant)
+4014	-23.525739	-46.6832179	(amenity) (restaurant)	SESC Pompeia
+4029	-23.5574421	-46.6553731	(amenity) (restaurant)	Casella
+4066	-23.1844634	-45.8753768	(amenity) (restaurant)	Giga Pizza
+4075	-23.3209951	-46.5952052	(amenity) (restaurant)	Bartheu
+4084	-23.6295979	-46.6669438	(amenity) (restaurant)	Picanha Grill Churrascaria
+4086	-23.6263026	-46.6697338	(amenity) (restaurant)	Bar do Peixe
+4095	-23.6906333	-46.708622	(amenity) (restaurant)	Frangaria
+4107	-23.6084184	-46.669167	(amenity) (restaurant)	Bar do Ceará
+4110	-23.5434518	-46.6726409	(amenity) (restaurant)	Habib's
+4122	-23.5568061	-46.6589269	(amenity) (restaurant)	Pastel da Augusta
+4134	-23.1793933	-46.9067852	(amenity) (restaurant)	Pizzaria Vesúvio
+4135	-23.1803871	-46.9051674	(amenity) (restaurant)	La Farina Forneria
+4136	-23.1513352	-46.824523	(amenity) (restaurant)	Família Brunholi Restaurante
+4146	-23.6069887	-46.6591651	(amenity) (restaurant)	DIB
+4158	-23.6108983	-46.6342709	(amenity) (restaurant)	Kusuki
+4181	-23.5368304	-46.685749	(amenity) (restaurant)	Kafegala
+4182	-23.5426946	-46.6824589	(amenity) (restaurant)	Matsuya
+4235	-23.6934646	-46.567764	(amenity) (restaurant)	Restaurante Capitão
+4275	-23.5260215	-46.6030986	(amenity) (restaurant)	Barão Lanches e Almoço
+4323	-23.5241345	-46.6030871	(amenity) (restaurant)	Boizão Grill
+4324	-23.5307118	-46.6019879	(amenity) (restaurant)	Restaurante Princesa Catumbi
+4524	-23.5303921	-46.6221553	(amenity) (restaurant)	Bar do Zuza
+4533	-23.5260853	-46.6030684	(amenity) (restaurant)	Restaurante Self Service
+4540	-23.52929	-46.6218074	(amenity) (restaurant)	Restaurante Flor do Pari
+4587	-23.5788647	-46.6292693	(amenity) (restaurant)	Carrieri Pizza Pub
+4615	-23.5305373	-46.6002778	(amenity) (restaurant)
+4630	-23.5531862	-46.6587997	(amenity) (restaurant)	Mestiço
+4631	-23.5532729	-46.6586963	(amenity) (restaurant)	La Tartine
+4649	-23.6092519	-46.6940811	(amenity) (restaurant)	Lanchonete Berrini
+4726	-23.540221	-46.5903787	(amenity) (restaurant)	Eskritorio
+4788	-23.5287534	-46.7023194	(amenity) (restaurant)	Subway
+4794	-23.5280034	-46.6980842	(amenity) (restaurant)	Estrela da Tito
+4795	-23.5281178	-46.7032071	(amenity) (restaurant)	Restaurante Sabor e Prazer
+4797	-23.5279162	-46.7040253	(amenity) (restaurant)	Pizzaria Didios
+4800	-23.5277644	-46.7039042	(amenity) (restaurant)	Harumi
+4830	-23.5248692	-46.6976755	(amenity) (restaurant)	Habib's
+4841	-23.6352051	-46.6581106	(amenity) (restaurant)	Flor do Aeroporto
+4850	-23.5806123	-46.6416403	(amenity) (restaurant)	Bar e Restaurante 1010
+4852	-23.5814633	-46.6412231	(amenity) (restaurant)	Chapadão
+4853	-23.5780264	-46.6411375	(amenity) (restaurant)	Restaurante Kyodai
+4854	-23.5781213	-46.6411638	(amenity) (restaurant)	Bar e Restaurante Chaplin
+4855	-23.5779356	-46.6411241	(amenity) (restaurant)	Jaber
+4856	-23.5801984	-46.6417918	(amenity) (restaurant)	Restaurante Volentieri
+4860	-23.5831663	-46.6413424	(amenity) (restaurant)	Save-Planet Café
+4862	-23.5825731	-46.6405538	(amenity) (restaurant)	Lanches 204
+4863	-23.5772887	-46.6405354	(amenity) (restaurant)	Esfiha Chic
+4864	-23.566354	-46.6508719	(amenity) (restaurant)	Café Creme
+4867	-23.5567596	-46.658877	(amenity) (restaurant)	Tollocos
+4878	-23.5642418	-46.6219069	(amenity) (restaurant)	Restaurante Casa da Biza
+4879	-23.5983314	-46.682728	(amenity) (restaurant)	Frangaria
+4887	-23.5734282	-46.7318019	(amenity) (restaurant)	Manequinho Butantan
+4929	-23.5657964	-46.6829178	(amenity) (restaurant)	Meat Chopper
+4933	-23.5665258	-46.6847182	(amenity) (restaurant)	Subway
+4934	-23.5648805	-46.6813098	(amenity) (restaurant)	Meats
+4935	-23.5669063	-46.6880392	(amenity) (restaurant)	Nello's
+4937	-23.5665717	-46.6848279	(amenity) (restaurant)	China in Box
+4948	-23.5664222	-46.6844737	(amenity) (restaurant)	Twin Burger
+4976	-23.5722401	-46.6441306	(amenity) (restaurant)	Sabor Real Restaurante & Grill
+4978	-23.5716948	-46.643503	(amenity) (restaurant)	Kyoto Oriental Fast Food
+4999	-23.5524627	-46.6777042	(amenity) (restaurant)	Esfiharia Hayek
+5003	-23.5070621	-47.2814282	(amenity) (restaurant)
+5014	-23.5620631	-46.6658029	(amenity) (restaurant)	Margherita Pizzeria
+5044	-23.7796812	-46.5304971	(amenity) (restaurant)	Restaurante Murilo's
+5062	-23.6979161	-46.5666468	(amenity) (restaurant)	Amarildo
+5071	-23.5274152	-46.6080293	(amenity) (restaurant)	Bar e Restaurante Santa Rita
+5072	-23.526845	-46.6074871	(amenity) (restaurant)	Skina Bar
+5080	-23.5343496	-46.4001414	(amenity) (restaurant)	Habib's
+5094	-23.515465	-46.5876281	(amenity) (restaurant)	Pizzaria e Restaurante Rossio
+5096	-23.5055506	-46.5982388	(amenity) (restaurant)	Shinjiru Sushi Bar
+5159	-23.7124983	-46.5461366	(amenity) (restaurant)	Pizzaria Sala Vip
+5174	-23.5469505	-46.65368	(amenity) (restaurant)	Panificadora Boulevard
+5181	-23.5286833	-46.61239	(amenity) (restaurant)	Bar e lanches Jofa
+5198	-23.6660068	-46.5386171	(amenity) (restaurant)	Bella Cozinha
+5218	-23.7797435	-46.5306418	(amenity) (restaurant)	Restaurante Lirio
+5323	-23.5834375	-46.6418609	(amenity) (restaurant)	Ajissai
+5324	-23.5834486	-46.6419239	(amenity) (restaurant)	Huang
+5325	-23.5832647	-46.6415657	(amenity) (restaurant)	New Daruma
+5332	-23.5783443	-46.6411901	(amenity) (restaurant)	Catedral Especialidades Árabes
+5333	-23.5825443	-46.6429446	(amenity) (restaurant)	Villa di Marianna
+5335	-23.5804038	-46.6438205	(amenity) (restaurant)	Pizzaria San Michelli
+5339	-23.5790936	-46.6421497	(amenity) (restaurant)	Sauroditalia
+5346	-23.5785902	-46.6419407	(amenity) (restaurant)	Primavera Gourmet
+5354	-23.5964985	-46.6482547	(amenity) (restaurant)	São Paulo Tokyo
+5374	-23.7025328	-46.5756179	(amenity) (restaurant)	Pizzaria Marques
+5393	-23.5825377	-46.6481033	(amenity) (restaurant)	Il Sogno Di Anarelo
+5404	-23.983583	-46.2399012	(amenity) (restaurant)	Bar da Costela
+5408	-23.9820772	-46.2323041	(amenity) (restaurant)
+5413	-23.9799416	-46.2264452	(amenity) (restaurant)
+5421	-23.989325	-46.2428979	(amenity) (restaurant)
+5422	-23.9898053	-46.2429649	(amenity) (restaurant)
+5423	-23.9897097	-46.2430052	(amenity) (restaurant)
+5427	-23.9897832	-46.2530366	(amenity) (restaurant)
+5459	-23.5594457	-46.6804974	(amenity) (restaurant)	Loucura Demais
+5463	-23.5889776	-46.6455294	(amenity) (restaurant)	As Mineiras
+5478	-23.9918477	-46.2590267	(amenity) (restaurant)
+5483	-23.9908729	-46.2546465	(amenity) (restaurant)
+5486	-23.9733124	-46.3189115	(amenity) (restaurant)	Passarela Pizzaria
+5490	-23.9707996	-46.320286	(amenity) (restaurant)	Restaurante Canal 4
+5500	-23.9626091	-46.3185871	(amenity) (restaurant)	Graminha Pizzaria
+5507	-23.9613812	-46.3231101	(amenity) (restaurant)
+5509	-23.9615858	-46.3217038	(amenity) (restaurant)
+5510	-23.9616741	-46.3217172	(amenity) (restaurant)
+5527	-23.5571957	-46.6894165	(amenity) (restaurant)	Genésio
+5538	-23.6990825	-46.5697371	(amenity) (restaurant)	Maxy Pizzaria
+5556	-23.1942388	-45.8922446	(amenity) (restaurant)	Oishii
+5561	-23.5621725	-46.6600461	(amenity) (restaurant)	Capim Santo
+5565	-23.1989449	-45.887357	(amenity) (restaurant)
+5566	-23.1985696	-45.8874773	(amenity) (restaurant)	Água Doce
+5567	-23.1989658	-45.8886644	(amenity) (restaurant)	Toca da Traíra
+5629	-23.5792285	-46.6438494	(amenity) (restaurant)	Deli Shop
+5639	-23.5780296	-46.6426384	(amenity) (restaurant)	Nur El Chams
+5646	-23.5567682	-46.6586691	(amenity) (restaurant)	Bovinus
+5647	-23.5568564	-46.6587637	(amenity) (restaurant)	Maoz Vegetarian
+5652	-23.5147465	-46.7161156	(amenity) (restaurant)
+5653	-23.5500752	-46.6460297	(amenity) (restaurant)	Planeta's
+5660	-23.5548993	-46.6887802	(amenity) (restaurant)	Pira Grill
+5714	-23.5242943	-46.6036357	(amenity) (restaurant)	Fogão Gaucho
+5729	-23.5424337	-46.644194	(amenity) (restaurant)	Dom Gourmet
+5737	-23.5429187	-46.4950024	(amenity) (restaurant)	Pizzaria Fellice
+5784	-23.9740603	-46.3154338	(amenity) (restaurant)	Florença
+5804	-23.6457618	-46.5376306	(amenity) (restaurant)	Pilao Mineiro
+5805	-23.6456444	-46.5416486	(amenity) (restaurant)	Seu Figa Bar, Restaurante e Forneria
+5806	-23.6508551	-46.5345902	(amenity) (restaurant)	Tendall Grill
+5807	-23.651489	-46.534204	(amenity) (restaurant)	Churrascaria D'Brescia
+5809	-23.6450505	-46.5380407	(amenity) (restaurant)	Mandacaru
+5810	-23.644299	-46.5403622	(amenity) (restaurant)	Churrascaria Costela Dourada
+5811	-23.6454073	-46.5418066	(amenity) (restaurant)	K Deck Bar
+5812	-23.6456057	-46.5420774	(amenity) (restaurant)	Confraria Jardim
+5813	-23.6475696	-46.540514	(amenity) (restaurant)	Si Senhor
+5814	-23.6478083	-46.5407696	(amenity) (restaurant)	Kensei Sushi Bar
+5815	-23.6459557	-46.5418188	(amenity) (restaurant)	Sherlock Dog
+5816	-23.646054	-46.541741	(amenity) (restaurant)	Rancho
+5817	-23.6461425	-46.541682	(amenity) (restaurant)	Europa Bar
+5843	-23.532264	-46.6491781	(amenity) (restaurant)	Restaurante BBJ
+5868	-23.5266604	-46.607218	(amenity) (restaurant)	Pizzaria Dom Lau
+5873	-23.4920101	-46.6563924	(amenity) (restaurant)	Churrasquinho Mú
+5888	-23.4962016	-46.5858618	(amenity) (restaurant)	Recanto do Mocoto
+5891	-23.4173027	-46.3565442	(amenity) (restaurant)	Cantinho Jóia
+5915	-23.5314157	-46.6222745	(amenity) (restaurant)	Restaurante Sete Portas
+5917	-23.5294261	-46.6218938	(amenity) (restaurant)	Casa Santos
+5932	-23.5351221	-46.6001581	(amenity) (restaurant)	Pizzaria Casterelli
+5937	-23.5362689	-46.5996458	(amenity) (restaurant)
+5989	-23.6687501	-46.5755531	(amenity) (restaurant)	Anchieta Grill Churrascaria
+6035	-23.5823377	-46.680428	(amenity) (restaurant)	Serafina
+6036	-23.5826168	-46.6812622	(amenity) (restaurant)	Carcamano
+6042	-23.5576837	-46.6356457	(amenity) (restaurant)	Porque Sim
+6043	-23.5576858	-46.6355505	(amenity) (restaurant)	Jardim Meio Hectare
+6047	-23.5301705	-46.6751064	(amenity) (restaurant)	Duo Trattoria & Pizzeria
+6048	-23.5316804	-46.6737517	(amenity) (restaurant)	Lanchonete Palheta
+6058	-23.1485174	-46.8224556	(amenity) (restaurant)	Restaurante Spiandorelo
+6060	-23.1442556	-46.8047933	(amenity) (restaurant)	Restaurante Beraldo Di Calle
+6070	-23.5653467	-46.6513527	(amenity) (restaurant)	Bistro Reserva
+6076	-23.701817	-46.5773254	(amenity) (restaurant)	Giuli Pizzaria
+6091	-23.4987663	-46.588678	(amenity) (restaurant)	Pizza Quero Mais
+6101	-23.6853058	-46.5620172	(amenity) (restaurant)	Mag Pizzas
+6104	-23.6872964	-46.5603218	(amenity) (restaurant)	Sr. Temaki
+6171	-23.6838615	-46.5636711	(amenity) (restaurant)	Bar e Restauranche do Bosco
+6172	-23.6829764	-46.561979	(amenity) (restaurant)
+6183	-23.6429865	-46.6655288	(amenity) (restaurant)	Pizzaria Margutcho
+6184	-23.6455791	-46.6642361	(amenity) (restaurant)	Dona Linda
+6201	-23.7177835	-46.5738066	(amenity) (restaurant)	Restaurante e Lanchonete do Kafú
+6212	-23.5394125	-46.6566313	(amenity) (restaurant)	Flôr do Mor Pará
+6233	-23.4871071	-46.6048629	(amenity) (restaurant)	Pizzaria Jenagio
+6248	-23.4581704	-46.5305225	(amenity) (restaurant)	Churrascaria do Bosque
+6249	-23.6907572	-46.5668178	(amenity) (restaurant)	Pier 18
+6260	-23.6916112	-46.5866333	(amenity) (restaurant)	Sousas Grill
+6263	-23.9683006	-46.326265	(amenity) (restaurant)	Picolla Forneria
+6264	-23.9702985	-46.3277997	(amenity) (restaurant)	Okumura Temakeria
+6265	-23.968232	-46.3267163	(amenity) (restaurant)	Kokimbos Pizzas & Picanha
+6268	-23.6462939	-46.5410888	(amenity) (restaurant)	Burger Map
+6314	-23.5651641	-46.7009351	(amenity) (restaurant)	Velmont Grill
+6340	-23.7171423	-46.5683917	(amenity) (restaurant)	Padrão Pizzaria
+6343	-23.7170263	-46.5544255	(amenity) (restaurant)	Requinte Caseiro
+6386	-23.1869586	-45.8864432	(amenity) (restaurant)	Biss
+6441	-23.7450696	-46.5455469	(amenity) (restaurant)
+6447	-23.5472554	-46.6489334	(amenity) (restaurant)	Tabuleiro do Acarajé
+6453	-23.5850869	-46.6798124	(amenity) (restaurant)	Kanpei
+6492	-23.7054624	-46.5532824	(amenity) (restaurant)	Cantina do Zelão
+6494	-23.9907804	-46.3014409	(amenity) (restaurant)	J. Garcia Restaurante
+6496	-23.9893728	-46.2994947	(amenity) (restaurant)	Oishi Gastronomia
+6498	-23.9857122	-46.2999267	(amenity) (restaurant)	Yê Simplesmente Saudável
+6499	-23.9852748	-46.2999563	(amenity) (restaurant)	7ª Avenida Forneria
+6501	-23.9648984	-46.329976	(amenity) (restaurant)	Yow Sushi Lounge
+6503	-23.9684699	-46.3200272	(amenity) (restaurant)	Restaurante Nagoya
+6514	-23.9664263	-46.3317597	(amenity) (restaurant)	Sushi Garden
+6520	-23.9771076	-46.3034355	(amenity) (restaurant)	Dois Irmãos Bar & Restaurante
+6523	-23.9897173	-46.3033843	(amenity) (restaurant)	Okumura Restaurante
+6526	-23.9862895	-46.2965513	(amenity) (restaurant)	Kenzo Sushi Lounge
+6575	-23.6015151	-46.6673344	(amenity) (restaurant)	Kanji Sushi Lounge
+6596	-23.5661315	-46.6559716	(amenity) (restaurant)	Osteria Generale
+6679	-23.5600439	-46.6926205	(amenity) (restaurant)	Migusta Pizza Vila Madalena
+6692	-23.5037869	-46.7397334	(amenity) (restaurant)	Migusta Pizza Unidade Park São Domingos
+6711	-23.9647606	-46.3312941	(amenity) (restaurant)	Aiko Sushi
+6712	-23.9647441	-46.3314205	(amenity) (restaurant)	Guadalupe
+6748	-23.6630741	-46.5392599	(amenity) (restaurant)	Bistrô Toque de Sabor
+6752	-23.6653265	-46.5405971	(amenity) (restaurant)	Pizzaria Tripoli
+6766	-23.6466835	-46.5140732	(amenity) (restaurant)	Ragazzo
+6774	-23.5532258	-46.6601218	(amenity) (restaurant)	Sujinho
+6806	-23.5565628	-46.692614	(amenity) (restaurant)	L'aperô
+6823	-23.4637597	-46.528243	(amenity) (restaurant)	Yo!
+6825	-23.6225199	-46.5564543	(amenity) (restaurant)	O Pirata
+6840	-23.19358	-45.8907238	(amenity) (restaurant)	Lotus
+6849	-23.6630418	-46.523054	(amenity) (restaurant)	Espaço Natural
+6853	-23.662876	-46.5232502	(amenity) (restaurant)	Novilho na Brasa
+6865	-23.6630417	-46.5244119	(amenity) (restaurant)	Los Mariachis
+6888	-23.9911467	-46.3039725	(amenity) (restaurant)	Capitães Gastronomia
+6917	-23.6053358	-46.5764847	(amenity) (restaurant)	Festa Italiana
+6920	-23.5631649	-46.6931328	(amenity) (restaurant)	Casa Portuguesa
+6921	-23.6492341	-46.8517969	(amenity) (restaurant)	Per Quilo
+6946	-23.4934192	-46.4440289	(amenity) (restaurant)	Restaurante Piassi
+6993	-23.7014273	-46.5642416	(amenity) (restaurant)	Pizzaria Nicolas
+6995	-23.5563886	-46.6820371	(amenity) (restaurant)	Sabores de Mi Tierra
+7005	-23.5823817	-46.7631884	(amenity) (restaurant)	Yatta Sushi
+7018	-23.558675	-46.6746873	(amenity) (restaurant)	Lasagneria
+7042	-23.5606941	-46.7353664	(amenity) (restaurant)	Lanchonete da Física
+7126	-23.5891892	-46.7719661	(amenity) (restaurant)
+7182	-23.9718452	-46.3082866	(amenity) (restaurant)
+7188	-23.9715719	-46.3078505	(amenity) (restaurant)
+7195	-23.9713716	-46.3060226	(amenity) (restaurant)
+7198	-23.9722956	-46.3046573	(amenity) (restaurant)
+7221	-23.6531573	-46.5761647	(amenity) (restaurant)	Sr. Temaki Express
+7226	-23.636108	-46.6447351	(amenity) (restaurant)	Temakeria
+7281	-23.9802462	-46.3070906	(amenity) (restaurant)	Pitangas
+7289	-23.7025381	-46.5731972	(amenity) (restaurant)	Pizza Box
+7290	-23.6981188	-46.5811462	(amenity) (restaurant)	Central Pizza
+7296	-23.5315085	-46.6816988	(amenity) (restaurant)	Jardim Secreto Bistrô
+7303	-23.5277983	-46.7044953	(amenity) (restaurant)	Tutti Pizza
+7305	-23.5272137	-46.7034864	(amenity) (restaurant)	China in Box
+7323	-23.5341816	-46.6838086	(amenity) (restaurant)	Restaurante de Massas
+7326	-23.1813298	-46.9858637	(amenity) (restaurant)	Cantinho do Sabor
+7336	-23.5363812	-46.6764856	(amenity) (restaurant)	Sushi Shima
+7363	-23.559903	-46.7299929	(amenity) (restaurant)	Cantina da FAU
+7370	-23.6913444	-46.5594299	(amenity) (restaurant)	Nakoo Sushi
+7375	-23.561541	-46.6706392	(amenity) (restaurant)	Chez Oscar
+7388	-23.5590534	-46.4891169	(amenity) (restaurant)	Casa do Norte SavoY
+7418	-23.5588352	-46.6747615	(amenity) (restaurant)	Casa Jaya
+7423	-23.5664015	-46.5695196	(amenity) (restaurant)	G de João
+7448	-23.4982536	-46.5958652	(amenity) (restaurant)
+7467	-23.5318961	-46.6203235	(amenity) (restaurant)	Charme's de Paris
+7518	-23.5304136	-46.6154472	(amenity) (restaurant)
+7538	-23.5311471	-46.6157676	(amenity) (restaurant)	Renascer do Sol
+7655	-23.5581082	-46.6638099	(amenity) (restaurant)	Japatche
+7703	-23.5329353	-46.6135624	(amenity) (restaurant)	Portal da Bresser
+7714	-23.5621432	-46.6389122	(amenity) (restaurant)	Liberdade Grill
+7727	-23.5276733	-46.6102688	(amenity) (restaurant)
+7729	-23.5393625	-46.6094176	(amenity) (restaurant)	Churrascaria Nova trilha
+7739	-23.1850933	-46.9598668	(amenity) (restaurant)
+7745	-23.5302075	-46.618139	(amenity) (restaurant)	Bar do Jô
+7756	-23.5150175	-46.7165956	(amenity) (restaurant)	Restaurante Baiana
+7806	-23.6274183	-46.5985068	(amenity) (restaurant)	Pizza Express
+7879	-23.18923	-46.8955048	(amenity) (restaurant)	Smoked Burgers
+7884	-23.5927673	-46.6841622	(amenity) (restaurant)	Leiteria Santa Clara
+7914	-23.1983222	-46.8800871	(amenity) (restaurant)	Pizzaria 1000
+7923	-23.1714754	-47.0425127	(amenity) (restaurant)	Restaurante Menegon
+7941	-23.5176789	-46.5890441	(amenity) (restaurant)	Peter's Bar e Restaurante
+7949	-23.1990995	-45.9153535	(amenity) (restaurant)	Refúgio
+7953	-23.6243955	-46.7341508	(amenity) (restaurant)	Casa da Pizza
+7968	-23.5169352	-46.5901441	(amenity) (restaurant)	Restaurante Estação
+7973	-23.5210316	-46.5920399	(amenity) (restaurant)	Nova Barao Restaurante
+7977	-23.5236092	-46.6170193	(amenity) (restaurant)	Restaurante Minuano
+8071	-23.1738385	-46.9146605	(amenity) (restaurant)	Churrascaria da Fazenda
+8106	-23.56649	-46.6891261	(amenity) (restaurant)	Na Garagem
+8127	-23.1553623	-47.0522058	(amenity) (restaurant)	Restaurante Rancho 75
+8132	-23.5142831	-46.6105195	(amenity) (restaurant)
+8133	-23.5141141	-46.6108644	(amenity) (restaurant)
+8142	-23.5331927	-46.6472727	(amenity) (restaurant)	A Senhorita
+8143	-23.5338942	-46.6480155	(amenity) (restaurant)	Padaria Campos Elíseos
+8144	-23.5977751	-46.6654267	(amenity) (restaurant)	Pé no Parque
+8157	-23.5479991	-46.6189458	(amenity) (restaurant)
+8194	-23.1990108	-46.8792586	(amenity) (restaurant)	Restaurante o Bom da Picanha
+8195	-23.1997404	-46.8796009	(amenity) (restaurant)
+8196	-23.1998945	-46.8786496	(amenity) (restaurant)
+8217	-23.4987983	-46.5882461	(amenity) (restaurant)	Neiguinho Mocoto
+8248	-23.1737515	-47.1105658	(amenity) (restaurant)	Pizzaria Cafezal
+8253	-23.5310282	-46.6250038	(amenity) (restaurant)
+8259	-23.533752	-46.622083	(amenity) (restaurant)	Mac Cam Restaurante E Lanchonete
+8275	-23.5304743	-46.6181612	(amenity) (restaurant)	Carlinhos Restaurante
+8276	-23.5306153	-46.6182589	(amenity) (restaurant)	Lanchonete Rio Bonito
+8279	-23.5289742	-46.614132	(amenity) (restaurant)	Novo Azul
+8305	-23.5313988	-46.6104434	(amenity) (restaurant)
+8309	-23.1849726	-47.0434179	(amenity) (restaurant)	Sítio Sassafraz
+8332	-23.5187376	-46.6110389	(amenity) (restaurant)	Vítor Mogo
+8358	-23.509826	-46.5953453	(amenity) (restaurant)	Churrasquinho Beira Rio
+8395	-23.5874365	-46.6818162	(amenity) (restaurant)
+8397	-23.5880274	-46.6840231	(amenity) (restaurant)	Manish Culinária Árabe
+8400	-23.529667	-46.6360978	(amenity) (restaurant)	Churrascaria Perfil Gaúcho
+8408	-23.5335244	-46.6374268	(amenity) (restaurant)	Bar Tupam
+8440	-23.5445906	-46.6237242	(amenity) (restaurant)	Cantina Gigio
+8441	-23.1978769	-45.8877207	(amenity) (restaurant)	Dona Bella
+8442	-23.1980913	-45.8876696	(amenity) (restaurant)	Filé Miau
+8465	-23.5364601	-46.613286	(amenity) (restaurant)
+8475	-23.5644988	-46.6803676	(amenity) (restaurant)
+8476	-23.5665739	-46.6853309	(amenity) (restaurant)
+8477	-23.5675075	-46.6876068	(amenity) (restaurant)	Encounter
+8479	-24.082934	-46.802737	(amenity) (restaurant)	Bar do Zé Pretinho
+8481	-23.5620996	-46.6805409	(amenity) (restaurant)	Pita bar e kebab
+8482	-23.5617423	-46.6807993	(amenity) (restaurant)
+8508	-23.5283021	-46.6179312	(amenity) (restaurant)	Restaurante Choperia Canindé
+8550	-23.4820671	-46.573459	(amenity) (restaurant)	Cumbuca´s Casa do Norte
+8578	-23.5599929	-46.6775239	(amenity) (restaurant)	Arturito
+8584	-23.4933128	-46.5914512	(amenity) (restaurant)	Pizzaria 2 Arcos
+8591	-23.4867682	-46.5904282	(amenity) (restaurant)	Novo Mileniun
+8600	-23.5154815	-46.6104821	(amenity) (restaurant)
+8610	-23.5219144	-46.5911186	(amenity) (restaurant)	Villa Santa Maria
+8626	-23.5843266	-46.5991129	(amenity) (restaurant)	Churrascaria Novilho de Prata
+8672	-23.5934787	-46.5935983	(amenity) (restaurant)	Peso D`Ouro
+8699	-23.5237741	-46.5909709	(amenity) (restaurant)	Nova Grill Delivery
+8705	-23.6120236	-46.473416	(amenity) (restaurant)	Grill 2000
+8735	-23.589598	-46.681476	(amenity) (restaurant)
+8737	-23.5791039	-46.6114815	(amenity) (restaurant)	Sushi Nodawa
+8749	-23.4937732	-46.5832649	(amenity) (restaurant)	Cantinho do Churrasco
+8763	-23.4827598	-46.5881397	(amenity) (restaurant)
+8804	-23.5287635	-46.6717915	(amenity) (restaurant)	Lig Esfiha
+8807	-23.5578795	-46.6001928	(amenity) (restaurant)	Habib's
+8811	-23.536252	-46.6032647	(amenity) (restaurant)	Lanchonete Alento
+8851	-23.2024878	-45.8936452	(amenity) (restaurant)	EDO Zushi
+8852	-23.2068008	-45.8985555	(amenity) (restaurant)	Armazém da Pizza
+8936	-23.5423278	-46.311608	(amenity) (restaurant)	Tempero Maneiro
+8947	-23.542211	-46.3127059	(amenity) (restaurant)	Tomodaty
+8948	-23.5420634	-46.3125986	(amenity) (restaurant)	Colonial II
+8949	-23.5415372	-46.3115042	(amenity) (restaurant)	Casinha Grill
+8968	-23.5174957	-46.5920128	(amenity) (restaurant)
+8980	-23.5325882	-46.6117465	(amenity) (restaurant)
+9011	-23.498548	-46.519454	(amenity) (restaurant)	Costelaria
+9023	-23.5078788	-46.5426216	(amenity) (restaurant)
+9039	-23.5251645	-46.4788805	(amenity) (restaurant)
+9051	-23.5071722	-46.4777971	(amenity) (restaurant)	Pizzaria 14Bis
+9052	-23.5090773	-46.4775045	(amenity) (restaurant)	Churrascaria Boi Gaúcho
+9059	-23.5534119	-46.6597758	(amenity) (restaurant)	Sujinho
+9061	-23.5528509	-46.658938	(amenity) (restaurant)	Don Cazuza
+9098	-23.5664762	-46.6854368	(amenity) (restaurant)	Fast Berlin
+9099	-23.5665086	-46.6855952	(amenity) (restaurant)	Casa Café
+9165	-23.5585033	-46.5804931	(amenity) (restaurant)
+9166	-23.5595844	-46.5830607	(amenity) (restaurant)
+9167	-23.5582652	-46.5833669	(amenity) (restaurant)	Rota 298
+9200	-23.5503717	-46.5084698	(amenity) (restaurant)	Portal D' Gastronomia
+9231	-23.5300848	-46.6627303	(amenity) (restaurant)	Quem Quer Pão
+9232	-23.5295003	-46.6633132	(amenity) (restaurant)
+9246	-23.4202794	-47.1790439	(amenity) (restaurant)
+9247	-23.2052002	-47.3219393	(amenity) (restaurant)
+9250	-23.4092505	-47.2863636	(amenity) (restaurant)
+9286	-23.722511	-46.5506568	(amenity) (restaurant)	Nova Ferrazópolis
+9287	-23.7220837	-46.5507507	(amenity) (restaurant)	Varandão
+9289	-23.6306396	-46.6392606	(amenity) (restaurant)	Pizzaria Don Nicoli
+9309	-23.5263168	-46.6417048	(amenity) (restaurant)	Flor do Sertão
+9315	-23.5601285	-46.6429489	(amenity) (restaurant)	Nosso Ranchinho
+9317	-23.6161453	-46.5699836	(amenity) (restaurant)	Restaurante Di Neto's
+9328	-23.5231977	-46.6446514	(amenity) (restaurant)	Meninos da Vila de Ibepetum
+9368	-23.9312592	-46.333416	(amenity) (restaurant)	Estação Bistrô
+9369	-23.9330939	-46.330314	(amenity) (restaurant)	Fogão de Ouro
+9370	-23.9328998	-46.3275722	(amenity) (restaurant)	Prato
+9452	-23.5498817	-46.6451798	(amenity) (restaurant)	Famiglia Mancini
+9453	-23.5503688	-46.6451046	(amenity) (restaurant)	Famiglia Mancini
+9454	-23.5504533	-46.6453592	(amenity) (restaurant)	Walter Mancini
+9459	-23.5499739	-46.6452837	(amenity) (restaurant)	Migalhas na Boca da Rua
+9460	-23.5500135	-46.6452273	(amenity) (restaurant)	Madreperola
+9480	-23.5606945	-46.646332	(amenity) (restaurant)	Villa Tavola
+9481	-23.5621293	-46.6461858	(amenity) (restaurant)	Pizzaria Speranza
+9483	-23.5571061	-46.645685	(amenity) (restaurant)	Cantina C...Que Sabe!
+9489	-23.5592248	-46.6465156	(amenity) (restaurant)	Gigetto
+9490	-23.5588093	-46.646529	(amenity) (restaurant)	Cantina Roperto
+9491	-23.558738	-46.6465531	(amenity) (restaurant)	Mexilhão
+9492	-23.5582883	-46.6463456	(amenity) (restaurant)	Lazarella
+9493	-23.5580927	-46.6466012	(amenity) (restaurant)	Conchetta
+9494	-23.5568553	-46.6467266	(amenity) (restaurant)	Cantina L'italiano
+9496	-23.5590083	-46.6466551	(amenity) (restaurant)	Templo da Carne Marcos Bassi
+9530	-23.5485675	-46.5383464	(amenity) (restaurant)	Pergolleta
+9564	-23.5611158	-46.7167171	(amenity) (restaurant)
+9593	-23.5285311	-46.6747897	(amenity) (restaurant)	Mori
+9610	-23.6910141	-46.5668915	(amenity) (restaurant)	Pizzaria Bons Amigos
+9617	-23.5734556	-46.6439064	(amenity) (restaurant)	Spoleto
+9654	-23.881286	-46.192722	(amenity) (restaurant)	Dalmo Barbaro
+9661	-24.0018348	-46.2649015	(amenity) (restaurant)	Avelinos
+9665	-23.5572882	-46.6629785	(amenity) (restaurant)	Bela Santos
+9678	-23.5783228	-46.6427218	(amenity) (restaurant)	Quartiere della Pasta
+9680	-23.577939	-46.642715	(amenity) (restaurant)	Lig Lig
+9716	-23.5673758	-46.6590783	(amenity) (restaurant)
+9723	-23.6992974	-46.5522511	(amenity) (restaurant)	Expresso SBC
+9829	-23.5630503	-46.6825837	(amenity) (restaurant)	Bar do Mário
+9830	-23.5394089	-46.6842393	(amenity) (restaurant)	Tiquim
+9833	-23.620592	-46.6363552	(amenity) (restaurant)	Restaurante Libanes
+9850	-23.610954	-46.63695	(amenity) (restaurant)	Restaurante Miape
+9886	-23.5823521	-46.6866036	(amenity) (restaurant)	Gourmet Tea
+9923	-23.5351235	-46.6202833	(amenity) (restaurant)
+9930	-23.4778855	-46.5517558	(amenity) (restaurant)
+9939	-23.2274437	-45.9235588	(amenity) (restaurant)	Familia Verde Delivery
+9989	-23.5823723	-46.6761683	(amenity) (restaurant)	Frutaria São Paulo
+9993	-23.6070037	-46.7492272	(amenity) (restaurant)
+9994	-23.6639632	-46.8531026	(amenity) (restaurant)
+10047	-23.5035235	-46.7523653	(amenity) (restaurant)
+10189	-23.9488092	-46.7273389	(amenity) (restaurant)
+10305	-23.5079958	-46.4292372	(amenity) (restaurant)	Beco do Mocotó
+10354	-23.522778	-46.520984	(amenity) (restaurant)	Giraffas
+10357	-23.5231295	-46.5325042	(amenity) (restaurant)	Pizzaria Requinte
+10358	-23.525785	-46.5206823	(amenity) (restaurant)	Pizzaria Baggio
+10375	-23.5917732	-46.6901055	(amenity) (restaurant)	Rascal
+10415	-23.5538686	-46.6532148	(amenity) (restaurant)	Tirrenos Restaurante
+10418	-23.5554257	-46.6558957	(amenity) (restaurant)	Luk Restaurante
+10459	-23.7103667	-46.550916	(amenity) (restaurant)	Restaurante Billy
+10474	-23.5415597	-46.6508106	(amenity) (restaurant)	Chapadão
+10475	-23.5415706	-46.6502293	(amenity) (restaurant)	Subway
+10488	-23.5926857	-46.6815694	(amenity) (restaurant)	Allegrini
+10528	-23.5426222	-46.6597466	(amenity) (restaurant)	Bio Alternativa
+10530	-23.5466424	-46.6504728	(amenity) (restaurant)
+10579	-23.4961767	-46.5982746	(amenity) (restaurant)
+10640	-23.4298437	-47.1375392	(amenity) (restaurant)	Restaurante Português
+10641	-23.4297984	-47.1373855	(amenity) (restaurant)
+10645	-23.4298701	-47.1372438	(amenity) (restaurant)
+10748	-23.4933825	-46.5831123	(amenity) (restaurant)	PizzaExpress
+10777	-23.5680376	-46.6886448	(amenity) (restaurant)	Sushibol
+10778	-23.5565657	-46.6638449	(amenity) (restaurant)	Coffe Corner
+10781	-23.5381497	-46.6214835	(amenity) (restaurant)
+10795	-23.5392868	-46.6078988	(amenity) (restaurant)	Garota Lanchonete e Restaurante
+10799	-23.5356053	-46.6388779	(amenity) (restaurant)	Zebrinha
+10807	-23.5524212	-46.6346355	(amenity) (restaurant)
+10810	-23.523448	-46.5129401	(amenity) (restaurant)	Ki Veneza
+10837	-23.5353368	-46.5702686	(amenity) (restaurant)
+10847	-23.5317198	-46.5602807	(amenity) (restaurant)	Favorito
+10935	-23.5130864	-46.6248424	(amenity) (restaurant)
+10940	-23.5061527	-46.6246229	(amenity) (restaurant)	Feijão de Corda
+10981	-23.4951482	-46.5758533	(amenity) (restaurant)
+11007	-23.9989851	-46.4061032	(amenity) (restaurant)	Divino Fogão
+11011	-23.9988265	-46.405814	(amenity) (restaurant)	Jin Jin Wok
+11016	-23.9989815	-46.4058785	(amenity) (restaurant)	Michelangelo
+11018	-23.9989897	-46.4059765	(amenity) (restaurant)	Oka Sushi
+11020	-23.9985903	-46.405926	(amenity) (restaurant)	Plaza Express Grill
+11021	-23.9988826	-46.4058484	(amenity) (restaurant)	Raízes da Terra
+11024	-23.9989507	-46.4061491	(amenity) (restaurant)	Sabores do Mar Express
+11026	-23.9989122	-46.406198	(amenity) (restaurant)	Sushi Garden
+11027	-23.9986004	-46.4057648	(amenity) (restaurant)	Vivenda do Camarão
+11137	-23.4864891	-46.5814501	(amenity) (restaurant)	Acaraje Inez
+11171	-23.6633227	-46.7081403	(amenity) (restaurant)
+11214	-23.553244	-46.6550789	(amenity) (restaurant)	Chicano
+11219	-23.7070727	-46.5503247	(amenity) (restaurant)	Restaurante Formosa
+11221	-23.5236915	-46.5212112	(amenity) (restaurant)	Agua Pura
+11225	-23.5402157	-46.6431134	(amenity) (restaurant)	Biyou'Z
+11227	-23.5232186	-46.5202322	(amenity) (restaurant)	Kampai
+11242	-23.5691597	-46.5660864	(amenity) (restaurant)	Restaurante da Villa
+11254	-23.7104778	-46.5520279	(amenity) (restaurant)	Restaurante Das Paraíbas
+11261	-23.5552154	-46.6410839	(amenity) (restaurant)	Restaurante Gerações
+11269	-23.6767559	-46.6514131	(amenity) (restaurant)	Cantinho Caseiro
+11301	-23.1726976	-46.9310904	(amenity) (restaurant)
+11328	-23.5663568	-46.743407	(amenity) (restaurant)	K2 Temakeria
+11385	-23.5722653	-46.6619163	(amenity) (restaurant)	Camelo
+11411	-23.5554671	-46.5998661	(amenity) (restaurant)	Kilo grill
+11412	-23.5554074	-46.6003112	(amenity) (restaurant)
+11439	-23.5309449	-46.6629599	(amenity) (restaurant)	Bar do Zé
+11442	-23.5619875	-46.7162721	(amenity) (restaurant)	Restaurante e Lanchonete Theodora USP
+11448	-23.5231266	-46.5222396	(amenity) (restaurant)	Big Esfiha
+11654	-23.4795377	-46.6221146	(amenity) (restaurant)
+11661	-23.475457	-46.6193965	(amenity) (restaurant)
+11713	-23.4876632	-46.6213712	(amenity) (restaurant)
+11719	-23.4864501	-46.6195008	(amenity) (restaurant)	Sushi
+11732	-23.4836271	-46.6137948	(amenity) (restaurant)	China Din
+11733	-23.4823106	-46.6129545	(amenity) (restaurant)
+11748	-23.4715303	-46.6178755	(amenity) (restaurant)	Arcos
+11759	-23.4605793	-46.6156144	(amenity) (restaurant)
+11775	-23.5203142	-46.6130935	(amenity) (restaurant)	O Caipira Grill&Churrasco
+11777	-24.0099309	-46.2711211	(amenity) (restaurant)	Monte Carlo
+11779	-24.0001741	-46.2626762	(amenity) (restaurant)	Chopp Halle
+11781	-23.9967728	-46.2608796	(amenity) (restaurant)	Boca e Sabor
+11782	-23.9878689	-46.2047605	(amenity) (restaurant)	Rufino's
+11783	-24.0138466	-46.2766632	(amenity) (restaurant)	Bucefalus Restaurante Grill
+11805	-23.4605442	-46.5283008	(amenity) (restaurant)	ponto Ka
+12020	-23.5413785	-46.6446625	(amenity) (restaurant)	O Gato Que Ri
+12023	-24.0093062	-46.4099802	(amenity) (restaurant)	Agaru
+12024	-23.9988768	-46.4058257	(amenity) (restaurant)	All Beefs
+12031	-23.5586973	-46.659878	(amenity) (restaurant)	YogoSub Subito
+12041	-23.558438	-46.6601689	(amenity) (restaurant)	Tenda Coffe Paulista
+12053	-23.5572686	-46.661524	(amenity) (restaurant)	America
+12097	-23.5670011	-46.650147	(amenity) (restaurant)	Bovinu's Fast Grill
+12113	-23.5622731	-46.6594877	(amenity) (restaurant)	Salmon & Co.
+12118	-23.5662205	-46.6674763	(amenity) (restaurant)	D.O.M.
+12206	-23.6860166	-46.7906896	(amenity) (restaurant)
+12210	-23.5543062	-46.6357908	(amenity) (restaurant)	Restaurant Chi Fu
+12211	-23.5578473	-46.6357825	(amenity) (restaurant)	Restaurante Yamaga
+12215	-23.5743758	-46.7269524	(amenity) (restaurant)
+12217	-23.5733932	-46.7364454	(amenity) (restaurant)
+12222	-23.5746592	-46.7298536	(amenity) (restaurant)	Gloria & Maria
+12227	-23.5718235	-46.7219179	(amenity) (restaurant)	Pizzaria
+12262	-23.5739994	-46.7271157	(amenity) (restaurant)
+12286	-23.4824308	-46.6411157	(amenity) (restaurant)
+12295	-23.4843447	-46.6418496	(amenity) (restaurant)
+12301	-23.4809984	-46.6388225	(amenity) (restaurant)	Planeta Pizza
+12348	-23.6083847	-46.6693161	(amenity) (restaurant)	Véu de Seda
+12351	-23.603168	-46.6671273	(amenity) (restaurant)	Lanchonete da Cidade
+12353	-23.6087579	-46.6692385	(amenity) (restaurant)	Windhuk
+12354	-23.60861	-46.6689702	(amenity) (restaurant)	Burdega
+12359	-23.4633818	-46.8769514	(amenity) (restaurant)	Soggiorno
+12396	-23.629236	-46.7008869	(amenity) (restaurant)	Bom Bocchini
+12506	-23.7053186	-46.567218	(amenity) (restaurant)	Restaurante Cecylia
+12560	-23.5534874	-46.65539	(amenity) (restaurant)	Bela Augusta
+12571	-23.5540746	-46.6938731	(amenity) (restaurant)	Zeni Sushi
+12572	-23.5530799	-46.6958815	(amenity) (restaurant)	Ydaygoro Sushi Bar
+12573	-23.5534103	-46.69708	(amenity) (restaurant)	O Engenheiro
+12575	-23.5510523	-46.6996363	(amenity) (restaurant)	Vito
+12604	-23.5388104	-46.6520047	(amenity) (restaurant)
+12606	-23.5900008	-46.6803884	(amenity) (restaurant)	Bar do Juarez
+12635	-23.5673667	-46.6677687	(amenity) (restaurant)	World Wine
+12636	-23.5672421	-46.6679402	(amenity) (restaurant)	Cuca Legal
+12641	-23.5636038	-46.6641535	(amenity) (restaurant)	Cebola Brava
+12648	-23.5937025	-46.684796	(amenity) (restaurant)	Rock Fella Burgers & Beers
+12659	-23.5275504	-46.6354773	(amenity) (restaurant)
+12676	-23.6457985	-46.5395755	(amenity) (restaurant)	Grazie Napoli
+12679	-23.5531027	-46.6739976	(amenity) (restaurant)
+12682	-23.5549375	-46.6773215	(amenity) (restaurant)
+12683	-23.5549741	-46.6771019	(amenity) (restaurant)
+12690	-23.5069915	-46.6015313	(amenity) (restaurant)
+12728	-23.5515608	-46.6312349	(amenity) (restaurant)
+12732	-23.5554635	-46.6343283	(amenity) (restaurant)	Bar e Lanches Chibana
+12745	-23.567042	-46.7434389	(amenity) (restaurant)
+12750	-23.5232554	-46.736321	(amenity) (restaurant)
+12786	-23.5715502	-46.7398083	(amenity) (restaurant)
+12799	-23.5331183	-46.6182622	(amenity) (restaurant)
+12841	-23.5559475	-46.6587636	(amenity) (restaurant)	Gopala Hari
+12846	-23.5412679	-46.63862	(amenity) (restaurant)	Sujinho
+12852	-23.5799367	-46.6328556	(amenity) (restaurant)	Rancho da Traira
+12865	-23.6246536	-46.6836561	(amenity) (restaurant)	Villa Mille
+12874	-23.4592023	-46.6234776	(amenity) (restaurant)	Coreto Bar e Restaurante
+12915	-23.5598359	-46.6890638	(amenity) (restaurant)	Galinheiro Grill
+12946	-23.5427021	-46.6414635	(amenity) (restaurant)	Lancheteria Happy House
+12964	-23.5544347	-46.602751	(amenity) (restaurant)	Esfiha Juventus
+12972	-23.5461761	-46.5865648	(amenity) (restaurant)	Bocainas Restaurante
+12989	-23.5442492	-46.6356184	(amenity) (restaurant)	Gourmet - Kilo
+12997	-23.542276	-46.635299	(amenity) (restaurant)	Delícias Café
+13000	-23.5446837	-46.635862	(amenity) (restaurant)	Bar Guanabara
+13018	-23.2283554	-45.8845973	(amenity) (restaurant)	Sallute
+13022	-23.7013833	-46.5642001	(amenity) (restaurant)	Restaurante do Bolinha
+13030	-24.290899	-47.1752316	(amenity) (restaurant)	Àgua na Boca e o Komilão
+13035	-23.5369275	-46.6798833	(amenity) (restaurant)	Khadije Comida Árabe
+13036	-23.5464681	-46.6418431	(amenity) (restaurant)	Paribar
+13050	-23.5544407	-46.6352714	(amenity) (restaurant)	Sukiya Restaurante
+13063	-23.5426917	-46.6459799	(amenity) (restaurant)	Espaço Gourmet
+13107	-23.5413539	-46.5752448	(amenity) (restaurant)	Casa do Pastel
+13108	-23.5433425	-46.5745669	(amenity) (restaurant)	Espetinho
+13111	-23.5446224	-46.641057	(amenity) (restaurant)	Apfel
+13114	-23.5511061	-46.5317268	(amenity) (restaurant)	Noborisushi
+13131	-23.56757	-46.7006184	(amenity) (restaurant)	Café e Restaurante Estação Pinheiros
+13192	-23.470099	-46.5311664	(amenity) (restaurant)	Subway
+13193	-23.4697892	-46.5315509	(amenity) (restaurant)	Kame Sushi
+13194	-23.4745064	-46.5308428	(amenity) (restaurant)	Subway
+13196	-23.4700767	-46.5308062	(amenity) (restaurant)	Restaurante Greguinho
+13219	-23.4687646	-46.5269113	(amenity) (restaurant)	Restaurante Fazendinha
+13226	-23.4640006	-46.3972675	(amenity) (restaurant)	Pizzaria Giovanni
+13243	-23.583393	-46.681454	(amenity) (restaurant)	Davvero Gelato Tradizionale
+13245	-23.4675757	-46.5313078	(amenity) (restaurant)	Mc Donalds
+13292	-23.9660512	-46.3328566	(amenity) (restaurant)	Ao Chopp do Gonzaga
+13331	-23.4831976	-46.5799088	(amenity) (restaurant)
+13341	-23.5964478	-46.6684388	(amenity) (restaurant)	La Quottidiana Trattoria
+13455	-23.5664426	-46.669017	(amenity) (restaurant)	Tatu Bola
+13464	-23.5630497	-46.6671569	(amenity) (restaurant)	Z Deli Sandwich Shop
+13465	-23.5972615	-46.6680171	(amenity) (restaurant)	Empório Frutaria
+13467	-23.5641085	-46.6791223	(amenity) (restaurant)	Z Deli Sandwich Shop
+13469	-23.5663802	-46.6797289	(amenity) (restaurant)	Maní
+13470	-23.5812091	-46.6798449	(amenity) (restaurant)	Due Cuochi Cucina
+13471	-23.5681553	-46.6648782	(amenity) (restaurant)	MYK
+13472	-23.5675427	-46.6640947	(amenity) (restaurant)	Frutaria São Paulo
+13483	-23.6415655	-46.5679017	(amenity) (restaurant)	Casa da Pizza Ganso
+13494	-23.6109524	-46.6322586	(amenity) (restaurant)	Korte
+13518	-23.6115261	-46.7063839	(amenity) (restaurant)	A Pizzaria Gourmet
+13519	-23.6114839	-46.7062895	(amenity) (restaurant)	The Burguest
+13523	-24.187021	-46.7937778	(amenity) (restaurant)	A Pizza
+13525	-24.1958171	-46.8092893	(amenity) (restaurant)	Frango Atropelado
+13528	-23.5402633	-46.6405619	(amenity) (restaurant)	Rinconcito Peruano
+13530	-23.5990049	-46.705249	(amenity) (restaurant)	Rofer
+13541	-23.5821166	-46.6836476	(amenity) (restaurant)	Fresto
+13595	-23.4955371	-46.6774905	(amenity) (restaurant)	churrascaria
+13626	-23.5826659	-46.6407823	(amenity) (restaurant)	Padaria Nova Karol
+13660	-23.5956811	-46.6674068	(amenity) (restaurant)	Yoi rolls & temaki
+13669	-23.5392853	-46.6145296	(amenity) (restaurant)
+13676	-23.5390306	-46.614323	(amenity) (restaurant)
+13697	-23.538965	-46.6154283	(amenity) (restaurant)
+13703	-23.5402738	-46.6175255	(amenity) (restaurant)
+13724	-24.3166563	-46.9926441	(amenity) (restaurant)	O Portugues
+13725	-24.3168059	-46.9925767	(amenity) (restaurant)	Affamare
+13783	-23.54061	-46.6147902	(amenity) (restaurant)
+13876	-23.5379136	-46.61387	(amenity) (restaurant)
+13901	-23.5342961	-46.6127353	(amenity) (restaurant)	Restaurante Pardal
+13945	-23.5552879	-46.6403238	(amenity) (restaurant)	Feijão de Corda
+13954	-23.6179796	-46.637624	(amenity) (restaurant)	Saborear
+13955	-23.618281	-46.6353471	(amenity) (restaurant)	Lanchonete Saúde
+13956	-23.6181111	-46.6354312	(amenity) (restaurant)	Ki Sabor
+13970	-23.5304655	-46.7754562	(amenity) (restaurant)	Osasco Chic
+14014	-23.5555862	-46.6337082	(amenity) (restaurant)	Sushi Lika
+14015	-23.55768	-46.635899	(amenity) (restaurant)	Lamen Kazu
+14016	-23.5578539	-46.6355684	(amenity) (restaurant)	Izakaya Kazu
+14017	-23.5578544	-46.6355054	(amenity) (restaurant)	Meu Udon
+14029	-23.5630015	-46.5853311	(amenity) (restaurant)
+14061	-23.5129712	-46.6724311	(amenity) (restaurant)	Pizza Hut
+14105	-23.5423226	-46.6835736	(amenity) (restaurant)	Manihi Sushi
+14111	-23.5510054	-46.6897219	(amenity) (restaurant)	Tanuki Sushi
+14112	-23.5397688	-46.6810072	(amenity) (restaurant)	Bráz
+14114	-23.5679059	-46.4714742	(amenity) (restaurant)	Amore Mio Pizzeria
+14123	-23.5685211	-46.4749645	(amenity) (restaurant)
+14143	-23.5007796	-46.6258104	(amenity) (restaurant)	Restaurante Nova Voluntarios
+14168	-23.5940322	-46.685749	(amenity) (restaurant)	Not Guilty
+14192	-23.5574416	-46.6442371	(amenity) (restaurant)	luncheonette
+14198	-23.5636925	-46.6326856	(amenity) (restaurant)	Multibar
+14204	-23.5418734	-46.6368517	(amenity) (restaurant)	Anchieta
+14226	-23.5722943	-46.6333135	(amenity) (restaurant)
+14227	-23.5698722	-46.6324167	(amenity) (restaurant)
+14228	-23.5691192	-46.6324787	(amenity) (restaurant)
+14232	-23.5722138	-46.6333544	(amenity) (restaurant)
+14233	-23.5689663	-46.6325955	(amenity) (restaurant)
+14234	-23.5670412	-46.6334863	(amenity) (restaurant)
+14235	-23.5735676	-46.6314799	(amenity) (restaurant)	Restaurante Flor & Sabor
+14291	-23.5439508	-46.6454307	(amenity) (restaurant)	Minas Chic
+14328	-23.7143206	-46.5481177	(amenity) (restaurant)
+14340	-23.5047885	-46.6149793	(amenity) (restaurant)	O Pescador
+14374	-23.5419424	-46.6434649	(amenity) (restaurant)	Rinconcito Peruano
+14394	-23.5079241	-46.5981457	(amenity) (restaurant)	Espaço China
+14399	-23.5077504	-46.5986441	(amenity) (restaurant)	China in Box
+14407	-23.5583299	-46.6330561	(amenity) (restaurant)	Udon Nakamura
+14418	-23.5142952	-46.6032956	(amenity) (restaurant)
+14425	-23.5153651	-46.6039004	(amenity) (restaurant)	Churrasquaria Ki Sabor
+14426	-23.62533	-46.6912728	(amenity) (restaurant)	Restaurante e Espetinho Segredo Caseiro
+14469	-23.5611464	-46.5842464	(amenity) (restaurant)	Mik Esfihas
+14472	-23.5599814	-46.5871159	(amenity) (restaurant)
+14475	-23.560671	-46.5853574	(amenity) (restaurant)
+14480	-23.531506	-46.6842912	(amenity) (restaurant)	Ecully
+14517	-23.7088816	-46.5481922	(amenity) (restaurant)	Restaurante Yamaguchi Sushi
+14546	-23.5656852	-46.6832463	(amenity) (restaurant)	Consulado da Bahia
+14548	-23.5578676	-46.6876054	(amenity) (restaurant)	Grazie a Dio
+14552	-23.5663731	-46.6843633	(amenity) (restaurant)	Si Señor
+14553	-23.5511889	-46.6909489	(amenity) (restaurant)	Pizzaria Milano
+14556	-23.5565173	-46.6915387	(amenity) (restaurant)	Empanadas Bar
+14662	-23.5163342	-46.6231792	(amenity) (restaurant)
+14688	-23.501126	-46.6212915	(amenity) (restaurant)
+14700	-23.5175653	-46.6051573	(amenity) (restaurant)	Costelão do Rubão
+14701	-23.5177875	-46.6052818	(amenity) (restaurant)
+14718	-23.5136507	-46.6090628	(amenity) (restaurant)
+14730	-23.5589045	-46.6915257	(amenity) (restaurant)	Martin Fierro
+14733	-23.552903	-46.6982985	(amenity) (restaurant)	La Galega
+14737	-23.5490322	-46.6453841	(amenity) (restaurant)	Drosophyla
+14809	-23.7133063	-46.5484447	(amenity) (restaurant)	Koneria
+14813	-23.7150733	-46.5448536	(amenity) (restaurant)	Pizzaria Santo Disco
+14844	-23.4936869	-46.5861502	(amenity) (restaurant)	Lese di Pernambuco
+14850	-23.4926582	-46.5850783	(amenity) (restaurant)	Restaurante Panela Veia
+14879	-23.3178783	-46.5843073	(amenity) (restaurant)	Sushi Garden
+14923	-23.5534128	-46.6940585	(amenity) (restaurant)	Pe de Manga
+14958	-23.5734504	-46.7319041	(amenity) (restaurant)	Só Riso
+14964	-23.4897881	-46.5851802	(amenity) (restaurant)	Pizzaria & Esfhira Loreto
+14965	-23.4946011	-46.5844334	(amenity) (restaurant)	Esfiha & Cia
+14997	-23.5683185	-46.662926	(amenity) (restaurant)	Cabana Burguer
+15024	-23.2254132	-45.9030722	(amenity) (restaurant)
+15027	-23.5677843	-46.6613625	(amenity) (restaurant)	Maracujá
+15036	-23.5549796	-46.6928481	(amenity) (restaurant)	Oficina de Pizzas
+15042	-23.5474825	-46.6406482	(amenity) (restaurant)
+15045	-23.5474216	-46.6404096	(amenity) (restaurant)
+15049	-23.547351	-46.6400858	(amenity) (restaurant)
+15053	-23.4239027	-46.4763418	(amenity) (restaurant)	Living Heineken
+15054	-23.5934008	-46.6378655	(amenity) (restaurant)
+15058	-23.5466432	-46.6335151	(amenity) (restaurant)	O Bonde
+15073	-23.5470337	-46.6401714	(amenity) (restaurant)
+15074	-23.5470065	-46.6402063	(amenity) (restaurant)
+15079	-23.5465155	-46.6407264	(amenity) (restaurant)	Cascais
+15080	-23.5464798	-46.6407531	(amenity) (restaurant)	Fazenda Grill
+15083	-23.5462653	-46.6409132	(amenity) (restaurant)
+15089	-23.5455721	-46.6414289	(amenity) (restaurant)
+15093	-23.5453393	-46.6416005	(amenity) (restaurant)	Restaurante Finisteri
+15097	-23.5449255	-46.6419109	(amenity) (restaurant)	Churrascaria
+15107	-23.5806397	-46.6372554	(amenity) (restaurant)	Esquina da Vila
+15109	-23.5812425	-46.6382171	(amenity) (restaurant)	Duas Rosas
+15111	-23.5808981	-46.638467	(amenity) (restaurant)	BBQ Premium Chicken
+15129	-23.5887056	-46.6755707	(amenity) (restaurant)	PF Changs
+15132	-23.5842586	-46.6755306	(amenity) (restaurant)	Galeto's
+15143	-23.6141508	-46.6588683	(amenity) (restaurant)	Fogo de Chão
+15156	-23.595162	-46.6662716	(amenity) (restaurant)	Attimo
+15157	-23.5671534	-46.6790108	(amenity) (restaurant)	Salvatore Loi
+15158	-23.6093674	-46.7469107	(amenity) (restaurant)	Sainte Marie Gastronomia
+15159	-23.55968	-46.6692005	(amenity) (restaurant)	Tête à Tête Restaurante
+15160	-23.5567961	-46.6575305	(amenity) (restaurant)	Jiquitaia
+15162	-23.5833547	-46.6738954	(amenity) (restaurant)	Pomodori Restaurante
+15163	-23.6096077	-46.6590073	(amenity) (restaurant)	Huto
+15171	-23.5808247	-46.6792194	(amenity) (restaurant)	Nino Cucina
+15264	-23.5053155	-46.6069572	(amenity) (restaurant)
+15281	-23.5460802	-46.6452358	(amenity) (restaurant)
+15310	-23.5368195	-46.6164584	(amenity) (restaurant)
+15330	-23.5577478	-46.6627409	(amenity) (restaurant)	Bovinu's
+15331	-23.5467652	-46.6342513	(amenity) (restaurant)	Bovinu's Fast Grill
+15333	-23.5817883	-46.6519658	(amenity) (restaurant)	Laco de Ouro II
+15352	-23.581166	-46.6513036	(amenity) (restaurant)	Taicum Sushi Bar
+15358	-23.4887188	-46.5840438	(amenity) (restaurant)	Casa Da Esfira
+15362	-23.4881367	-46.5834204	(amenity) (restaurant)	Nova Bella
+15375	-23.5667888	-46.6495262	(amenity) (restaurant)	laranjinha
+15393	-23.5518454	-46.5647594	(amenity) (restaurant)	Família
+15420	-23.4967125	-46.5862282	(amenity) (restaurant)	Disk Frango
+15421	-23.6933854	-46.5484727	(amenity) (restaurant)	Zensei Sushi
+15489	-23.5402298	-46.6184754	(amenity) (restaurant)
+15505	-23.5411035	-46.6178617	(amenity) (restaurant)
+15506	-23.541146	-46.6178299	(amenity) (restaurant)
+15515	-23.5563591	-46.6927625	(amenity) (restaurant)	Umai Sushi
+15530	-23.5644815	-46.6651166	(amenity) (restaurant)	Beach Burger
+15569	-23.7228006	-46.5476872	(amenity) (restaurant)
+15576	-23.5612611	-46.6441887	(amenity) (restaurant)
+15586	-23.5683573	-46.662871	(amenity) (restaurant)	Le Botteghe di Leonardo
+15587	-23.5487487	-46.6322173	(amenity) (restaurant)	Piero Pasta e Café
+15597	-23.5631875	-46.6673016	(amenity) (restaurant)	Pão de Queijo
+15601	-23.5580681	-46.6635217	(amenity) (restaurant)	Apfel Restaurante Vegetariano
+15604	-23.5657934	-46.6954651	(amenity) (restaurant)	Yashiro
+15623	-23.455706	-46.5338678	(amenity) (restaurant)	Super Pizza Pan
+15970	-23.5426042	-46.6574301	(amenity) (restaurant)	Rascal
+15971	-23.5423328	-46.6573864	(amenity) (restaurant)	America
+15972	-23.542113	-46.6572863	(amenity) (restaurant)	Galeto's
+15973	-23.5420136	-46.6575532	(amenity) (restaurant)	Braugarten
+17217	-23.535959	-46.6176438	(amenity) (restaurant)
+17541	-23.6106208	-46.6925765	(amenity) (restaurant)	Officina
+18212	-23.1435335	-46.5535736	(amenity) (restaurant)	Freemont Pizzaria
+18213	-23.5380987	-46.6191284	(amenity) (restaurant)	Pastelaria Oishii
+18762	-23.5665442	-46.6630827	(amenity) (restaurant)	Kouzina
+18763	-23.4838052	-46.7536286	(amenity) (restaurant)	Pizzaria Nunes
+19252	-23.5255089	-46.6015215	(amenity) (restaurant)	Boi Preto
+19254	-23.5244411	-46.6024638	(amenity) (restaurant)	Churascaria KM18
+19782	-23.7078095	-46.5520194	(amenity) (restaurant)	Restaurante Danielle
+19812	-23.1312263	-46.5543357	(amenity) (restaurant)	Haru Natsu
+20338	-23.54012	-46.652805	(amenity) (restaurant)	Jhony's Bar e Restaurante
+20348	-23.9661375	-46.3141131	(amenity) (restaurant)	Simpatia do Embaré
+20382	-23.5337615	-46.6125622	(amenity) (restaurant)
+20433	-23.1322635	-46.5545925	(amenity) (restaurant)	Gel Lanches
+20438	-23.5645518	-46.6804966	(amenity) (restaurant)	Brigadeiro
+20666	-23.5943296	-46.6144029	(amenity) (restaurant)	Fevereiro
+20762	-23.5791808	-46.67498	(amenity) (restaurant)	Barbacoa
+20763	-23.5843016	-46.6734983	(amenity) (restaurant)	Ouro Preto
+20773	-23.5695961	-46.6334231	(amenity) (restaurant)	Macro Bella
+20792	-23.5460885	-46.6457625	(amenity) (restaurant)	Carlino Restaurante
+20809	-23.5643603	-46.6800158	(amenity) (restaurant)	Cozinha 212
+20821	-23.4973773	-46.6122259	(amenity) (restaurant)	O Costellone
+20825	-23.5794966	-46.6397609	(amenity) (restaurant)	Al Hoda
+20844	-23.5468555	-46.649712	(amenity) (restaurant)	Soho's Place
+20851	-23.9326138	-46.3341467	(amenity) (restaurant)	Boteco Valongo
+20854	-23.9319892	-46.3337367	(amenity) (restaurant)	Paulista
+20860	-23.9334025	-46.3312118	(amenity) (restaurant)	Bodegaia
+20861	-23.9336347	-46.3314018	(amenity) (restaurant)	Porto Brasil
+20862	-23.9332814	-46.3308075	(amenity) (restaurant)	Alvorada
+20863	-23.9334288	-46.3306308	(amenity) (restaurant)	Berillos II
+20864	-23.93356	-46.3304342	(amenity) (restaurant)	Cumbuco
+20865	-23.9336617	-46.3304532	(amenity) (restaurant)	Café Paulista
+20869	-23.9333036	-46.3303043	(amenity) (restaurant)	Fino Paladar
+20870	-23.9328675	-46.330319	(amenity) (restaurant)	Dumaria
+20883	-23.6963805	-46.5534326	(amenity) (restaurant)	Restaurante Charme do Índico
+20962	-23.5403771	-46.643248	(amenity) (restaurant)	Rei do Filét
+20965	-23.5413149	-46.6444452	(amenity) (restaurant)	Vovô Ali
+20983	-23.7523581	-46.5742244	(amenity) (restaurant)	Bosque dos Morassi
+20986	-23.5449825	-46.5735269	(amenity) (restaurant)	Ragazzo
+20990	-23.5850061	-46.6853364	(amenity) (restaurant)	Loup Restaurante
+21019	-23.6187108	-46.6783679	(amenity) (restaurant)	Meisterstube
+21072	-23.5692802	-46.6503613	(amenity) (restaurant)	Restaurante Caldeirão Mineiro
+21078	-23.5385382	-46.6170722	(amenity) (restaurant)	Dundess Restaurante
+21079	-23.5385331	-46.6169607	(amenity) (restaurant)	Churrascaria Espeto Paulista
+21082	-23.5678922	-46.6978363	(amenity) (restaurant)
+21123	-23.5437135	-46.6381516	(amenity) (restaurant)
+21135	-23.6235292	-46.8156227	(amenity) (restaurant)	Habib's
+21156	-23.5419322	-46.6369462	(amenity) (restaurant)	Minas Chic
+21186	-23.5407584	-46.63678	(amenity) (restaurant)	Churrascaria Nova Ideal
+21190	-23.5970673	-46.6678673	(amenity) (restaurant)	Bullger
+21256	-23.5439349	-46.6456676	(amenity) (restaurant)	Boi na Brasa
+21295	-23.6482448	-46.5401232	(amenity) (restaurant)	Fonte Leone
+21299	-23.544674	-46.6454348	(amenity) (restaurant)	Lanchonete e Restaurante Bar da Cidade
+21345	-23.5405941	-46.6382875	(amenity) (restaurant)	Bar e Restaurante Cometa
+21371	-23.54378	-46.6461657	(amenity) (restaurant)	Boi na Brasa
+21410	-23.5392749	-46.6159194	(amenity) (restaurant)
+21457	-23.9915959	-46.3029262	(amenity) (restaurant)	Trapiche Frutos do Mar
+21464	-23.9744552	-46.315237	(amenity) (restaurant)	Mahaoo Deck Bar
+21469	-23.5577703	-46.6734651	(amenity) (restaurant)	Orquídea Restaurante
+21470	-23.5302325	-46.7281477	(amenity) (restaurant)	Barello burguer
+21510	-23.6004005	-46.6660546	(amenity) (restaurant)	La Vera Pasta
+21533	-23.5337317	-46.6174349	(amenity) (restaurant)	Naboulsi
+21536	-23.5336433	-46.617359	(amenity) (restaurant)	Brás Grill
+21563	-23.5547983	-46.6648783	(amenity) (restaurant)	Sal Gastronomia
+21565	-23.5379573	-46.6070518	(amenity) (restaurant)	Restaurante e Cafeteria Skina do Templo
+21580	-23.6032161	-46.6674283	(amenity) (restaurant)	DIB Especialidades Árabes
+21582	-23.6032664	-46.667473	(amenity) (restaurant)	VPI Pizza
+21585	-23.6021333	-46.6664621	(amenity) (restaurant)	Abruzzo Trattoria
+21586	-23.6023363	-46.6664154	(amenity) (restaurant)	La Nonna di Lucca
+21589	-23.6015468	-46.6658738	(amenity) (restaurant)	Adesso Pizza
+21590	-23.6015125	-46.6655749	(amenity) (restaurant)	Giardino
+21625	-23.5620656	-46.6662014	(amenity) (restaurant)	Paris 6 Classique
+21714	-24.0116957	-46.420864	(amenity) (restaurant)	Esquina Brasil
+21717	-24.0113294	-46.4205173	(amenity) (restaurant)	Restaurante Praiano Sul
+21719	-23.5662733	-46.6528977	(amenity) (restaurant)	The Fifties
+21787	-23.657358	-46.6945931	(amenity) (restaurant)	Quintana
+21791	-23.5582855	-46.6359355	(amenity) (restaurant)	Izakaya Issa
+21803	-23.6951787	-46.5687366	(amenity) (restaurant)	Bar e Lanchonete Rei da Bahia
+21811	-23.1933763	-45.877925	(amenity) (restaurant)
+21863	-23.1976205	-45.8881846	(amenity) (restaurant)	Yamabuki
+21864	-23.1976587	-45.8882555	(amenity) (restaurant)	Japansei
+21886	-23.5639073	-46.6874614	(amenity) (restaurant)	Escondidinho da Amada
+21888	-23.5649497	-46.6809869	(amenity) (restaurant)
+21891	-23.5522961	-46.6349249	(amenity) (restaurant)	Santa Tereza
+21931	-23.544444	-46.6488488	(amenity) (restaurant)	Baião Brasil
+21932	-23.5445955	-46.648745	(amenity) (restaurant)	Sushi Bar
+21938	-23.5827553	-46.6741293	(amenity) (restaurant)
+21951	-23.56493	-46.6853397	(amenity) (restaurant)	Rendez Vous
+21952	-23.5798938	-46.6145381	(amenity) (restaurant)	los molinos
+21953	-23.5802872	-46.6150638	(amenity) (restaurant)
+21956	-24.0003067	-46.4167778	(amenity) (restaurant)	Churrascaria O leitão
+21973	-23.571585	-46.6436216	(amenity) (restaurant)	Ponto Chic
+21999	-23.543307	-46.6137877	(amenity) (restaurant)
+22032	-23.4652524	-45.9812136	(amenity) (restaurant)	Restaurante e Alambique do Décio
+22133	-23.7043495	-46.5397101	(amenity) (restaurant)	Pizzaria Dom Pedro
+22173	-23.5866491	-46.6750749	(amenity) (restaurant)	Taberna da esquina
+22185	-23.4812544	-46.5875607	(amenity) (restaurant)	Império e Cia.
+22190	-23.5571562	-46.6357991	(amenity) (restaurant)	Nandemoyá
+22200	-23.5854671	-46.8828543	(amenity) (restaurant)
+22216	-23.7313494	-46.5783226	(amenity) (restaurant)
+22217	-23.5315115	-46.6105809	(amenity) (restaurant)
+22221	-23.5418541	-46.6466074	(amenity) (restaurant)
+22286	-23.4812569	-46.3121281	(amenity) (restaurant)	Chácara dos Carneiros
+22315	-23.5634111	-47.1355905	(amenity) (restaurant)	Villa Don Patto
+22325	-23.5438563	-46.6487134	(amenity) (restaurant)	Cordeiro`s Grill
+22347	-23.5564753	-46.6585719	(amenity) (restaurant)	Hot Dog Company
+22351	-23.5541073	-46.6342445	(amenity) (restaurant)	Mugui Cozinha Oriental
+22352	-23.5437604	-46.6468132	(amenity) (restaurant)	Restaurante Chopp Escuro
+22387	-23.5423744	-46.6447554	(amenity) (restaurant)	Sucesso Mineiro
+22404	-23.5439462	-46.6456217	(amenity) (restaurant)	Boi na Brasa I
+22425	-23.4816308	-46.5879688	(amenity) (restaurant)	Restaurante La Serra
+22431	-23.5717066	-46.6899949	(amenity) (restaurant)
+22446	-23.6091086	-46.6651509	(amenity) (restaurant)	Time's Burger
+22450	-23.6026209	-46.6628932	(amenity) (restaurant)	Stop Dog
+22464	-23.5621929	-46.6891306	(amenity) (restaurant)
+22465	-23.5619827	-46.6887355	(amenity) (restaurant)
+22467	-23.5048075	-46.474019	(amenity) (restaurant)	Nova Grill Delivery
+22468	-23.5283547	-46.5269951	(amenity) (restaurant)	Nova Grill Delivery
+22488	-23.5428357	-46.6487975	(amenity) (restaurant)	JAMB Bar e Restaurante
+22499	-23.5314693	-46.6159916	(amenity) (restaurant)	Veneza Rotisserie
+22536	-23.5541415	-46.6025682	(amenity) (restaurant)	Grill da Mooca
+22612	-23.3292117	-46.7271177	(amenity) (restaurant)
+22649	-23.7228793	-46.5506145	(amenity) (restaurant)	Duo Japan Food
+22650	-23.5612387	-46.6706235	(amenity) (restaurant)	Town Sandwich Co.
+22669	-23.5595437	-46.6599279	(amenity) (restaurant)	Grill Hall Paulista
+22719	-23.5553007	-46.6343593	(amenity) (restaurant)	Gloria Cafe e Restaurante
+22720	-23.554503	-46.6343965	(amenity) (restaurant)	Sendai
+22724	-23.5555797	-46.635564	(amenity) (restaurant)	Bento House
+22725	-23.555577	-46.6356386	(amenity) (restaurant)	Kareya
+22760	-23.7154413	-46.5558932	(amenity) (restaurant)	Gran RF Padaria
+22765	-23.7154238	-46.5531519	(amenity) (restaurant)	Galeteria Brazeiro
+22785	-23.5572592	-46.662949	(amenity) (restaurant)	Barões do Café
+22786	-23.557263	-46.663007	(amenity) (restaurant)	Bar e Cozinha Bela Santos
+22787	-23.5571602	-46.663123	(amenity) (restaurant)	Beach Beer
+22790	-23.556698	-46.663701	(amenity) (restaurant)	Mr. Pastello
+22798	-23.5578988	-46.6615558	(amenity) (restaurant)
+22799	-23.557965	-46.6616225	(amenity) (restaurant)
+22829	-23.5800073	-46.6843202	(amenity) (restaurant)	Santinho
+22834	-23.6101662	-46.6380783	(amenity) (restaurant)
+22835	-23.6104587	-46.6373434	(amenity) (restaurant)	Gauchão
+22849	-23.6255663	-46.6606873	(amenity) (restaurant)	Arakan
+22871	-23.4492073	-46.8961174	(amenity) (restaurant)	Restaurante e Pesqueiro Âncora
+22880	-23.5672126	-46.6514863	(amenity) (restaurant)
+22881	-23.5671378	-46.6515762	(amenity) (restaurant)	Rascal
+22891	-23.5359433	-46.6126159	(amenity) (restaurant)	Canários Lanches
+22921	-23.5657049	-46.6637357	(amenity) (restaurant)	Lanchonete Ministro
+22943	-23.5789173	-46.685577	(amenity) (restaurant)	Red Lobster
+22951	-23.6175073	-46.7525147	(amenity) (restaurant)	Pizzaria Bella Fyore
+22966	-23.7136277	-46.5522326	(amenity) (restaurant)	Franko's Restaurante
+22981	-23.5850315	-46.6788411	(amenity) (restaurant)	Limonn
+23008	-23.5555251	-46.6610675	(amenity) (restaurant)	Restajurante Jabuticaba
+23046	-23.7036935	-46.5519244	(amenity) (restaurant)
+23048	-23.544912	-46.6426944	(amenity) (restaurant)	Califórnia Burguer
+23082	-23.5446214	-46.6426234	(amenity) (restaurant)	Esther Rooftop
+23087	-23.6613663	-46.7495516	(amenity) (restaurant)	Pizzaria Piazza
+23147	-23.787734	-46.5343547	(amenity) (restaurant)	Pizzaria Veneza
+23151	-23.7792577	-46.5310676	(amenity) (restaurant)	Pizzaria Viena
+23163	-23.5810592	-46.6768856	(amenity) (restaurant)	Butcher's Market
+23206	-23.5406338	-46.639651	(amenity) (restaurant)
+23208	-23.5414974	-46.6404884	(amenity) (restaurant)
+23222	-23.5420384	-46.6411803	(amenity) (restaurant)
+23242	-23.5603694	-46.6563246	(amenity) (restaurant)
+23244	-23.560432	-46.6562556	(amenity) (restaurant)	SP Bar e Restaurante
+23249	-23.8168191	-46.0427579	(amenity) (restaurant)	La Torre
+23292	-23.5599549	-46.6562576	(amenity) (restaurant)	Kilolove Grill
+23304	-23.5641087	-46.654263	(amenity) (restaurant)	Arabek
+23318	-23.5633146	-46.6561158	(amenity) (restaurant)	Gardens Restaurante
+23319	-23.56329	-46.6561453	(amenity) (restaurant)	Le Monde
+23323	-23.5629512	-46.6565977	(amenity) (restaurant)	Booz Restaurante
+23333	-23.581613	-46.6521738	(amenity) (restaurant)	Original da Granja
+23334	-23.5816523	-46.6522543	(amenity) (restaurant)	Otaviano
+23377	-23.5477587	-46.635289	(amenity) (restaurant)	Alcachofra
+23389	-23.5586849	-46.6584297	(amenity) (restaurant)
+23390	-23.5586446	-46.6583993	(amenity) (restaurant)	Espetão Grill
+23399	-23.5467618	-46.6449309	(amenity) (restaurant)	Pizzaria Copan
+23404	-23.5638214	-46.6516347	(amenity) (restaurant)	Casinha Mineira
+23405	-23.5640446	-46.6515502	(amenity) (restaurant)	Kare House
+23406	-23.5640915	-46.651565	(amenity) (restaurant)	Restaurante Recanto 2
+23408	-23.5641483	-46.6516194	(amenity) (restaurant)	Restaurante Vila Campinas
+23439	-23.5667243	-46.6516414	(amenity) (restaurant)	Hooters
+23449	-23.5449427	-46.6412532	(amenity) (restaurant)	Frigideira Grill
+23542	-23.5185475	-46.8378287	(amenity) (restaurant)	Ragazzo
+23549	-23.5422506	-46.9240177	(amenity) (restaurant)	Pizzaria Piantella III
+23551	-23.5480364	-46.934727	(amenity) (restaurant)	Tchê Churrascaria
+23576	-23.5245475	-46.7331815	(amenity) (restaurant)	Pizza Prima
+23588	-23.5692097	-46.6490287	(amenity) (restaurant)	Deck 484
+23589	-23.5689394	-46.6490888	(amenity) (restaurant)	Restaurante Sensação
+23590	-23.56902	-46.6491307	(amenity) (restaurant)
+23591	-23.5690723	-46.6491229	(amenity) (restaurant)	Restaurante Oliveira
+23604	-23.5682785	-46.6485455	(amenity) (restaurant)	Domínio Lanches e Restaurante
+23616	-23.5708369	-46.6469127	(amenity) (restaurant)	Carmel Espaço Gurmet
+23620	-23.5718649	-46.6455663	(amenity) (restaurant)	Il Pastio
+23621	-23.5718282	-46.6456143	(amenity) (restaurant)	Alameda Restaurante
+23623	-23.5714657	-46.6460879	(amenity) (restaurant)	Rubaiyat
+23635	-23.5719006	-46.6448121	(amenity) (restaurant)	O Vegetariano Gourmet
+23638	-23.5719669	-46.6449807	(amenity) (restaurant)	Halin
+23641	-23.5720646	-46.645229	(amenity) (restaurant)	Lanchonete e Restaurante Monte Carlo
+23661	-23.5310166	-46.6362588	(amenity) (restaurant)	New Shin-La Kwan
+23671	-23.556697	-46.6585928	(amenity) (restaurant)	Paulista Burger
+23682	-23.5689176	-46.6469897	(amenity) (restaurant)	Restaurante Aspargus
+23734	-23.566549	-46.6484972	(amenity) (restaurant)	Adoun
+23744	-23.5672108	-46.6488897	(amenity) (restaurant)	Veneza Grill & Lanches
+23777	-23.5466602	-46.6449126	(amenity) (restaurant)	Varanda Copan
+23778	-23.590544	-46.6707126	(amenity) (restaurant)	Josephine
+23785	-23.5671556	-46.6486193	(amenity) (restaurant)	Melk Restaurante
+23790	-23.5669314	-46.6484949	(amenity) (restaurant)	Via Palazzo
+23792	-23.5668236	-46.6484322	(amenity) (restaurant)	Raful
+23799	-23.551339	-46.6478394	(amenity) (restaurant)	Madri
+23800	-23.5507319	-46.6432455	(amenity) (restaurant)	La Franttine
+23801	-23.5506719	-46.6434418	(amenity) (restaurant)	Pizzaria Famiglia
+23871	-23.5559126	-46.6585354	(amenity) (restaurant)	K-Pop Chicken
+23874	-23.5569738	-46.6573191	(amenity) (restaurant)	Restaurante Coqueiro VI
+23900	-23.5567044	-46.6578689	(amenity) (restaurant)	Athenas Restaurante
+23902	-23.5563842	-46.6582426	(amenity) (restaurant)	Athenas Café e Restaurante
+23904	-23.5564562	-46.6583339	(amenity) (restaurant)
+23909	-23.5540462	-46.6590132	(amenity) (restaurant)	Nakrô
+23915	-23.7793617	-46.5297285	(amenity) (restaurant)	Versatti Pizzaria
+23917	-23.69357	-46.5676153	(amenity) (restaurant)
+23918	-23.6907805	-46.5666175	(amenity) (restaurant)	Restaurante Guru
+23922	-23.5551588	-46.6557046	(amenity) (restaurant)	Nona d'Amore
+23926	-23.5557251	-46.6574883	(amenity) (restaurant)	Violeta Bar e Restaurante
+23939	-23.129789	-46.5541927	(amenity) (restaurant)
+23940	-23.1310557	-46.5543269	(amenity) (restaurant)	Romano Restaurante
+23941	-23.1316247	-46.5543713	(amenity) (restaurant)	Moranga Flor
+23942	-23.1384371	-46.55488	(amenity) (restaurant)	San Costilla
+23951	-23.5854094	-46.6847333	(amenity) (restaurant)	Brexó Bar e Cozinha
+23965	-23.5616294	-46.6637816	(amenity) (restaurant)	Ragazzo
+24020	-23.6010162	-46.6683727	(amenity) (restaurant)	Hitô
+24025	-23.5362632	-46.6503289	(amenity) (restaurant)	Restaurante Bom Prato
+24057	-23.5543076	-46.6603649	(amenity) (restaurant)	Estação Consolação
+24060	-23.5545223	-46.6597951	(amenity) (restaurant)	Recanto Paulista
+24066	-23.5540852	-46.6593006	(amenity) (restaurant)	AJ M&M
+24071	-23.5537625	-46.6596486	(amenity) (restaurant)	Restaurante Villagio
+24076	-23.5544667	-46.6588527	(amenity) (restaurant)	Forneria Maia
+24086	-23.5152143	-46.6211661	(amenity) (restaurant)	Restaurante do Gordo
+24100	-23.1321893	-46.5545854	(amenity) (restaurant)	Baggu's
+24101	-23.1321362	-46.5545847	(amenity) (restaurant)	La Pasta
+24116	-23.5574692	-46.6593345	(amenity) (restaurant)	Manai Gastronomia
+24124	-23.578701	-46.6815116	(amenity) (restaurant)	Bolinha
+24133	-23.5545535	-46.6572306	(amenity) (restaurant)	Dona Teresa
+24137	-23.5549406	-46.6569362	(amenity) (restaurant)
+24142	-23.5551967	-46.6572048	(amenity) (restaurant)	Recanto Transmontano
+24146	-23.5548551	-46.6581914	(amenity) (restaurant)
+24165	-23.5539549	-46.6589065	(amenity) (restaurant)	Fogão Paulista
+24170	-23.5534435	-46.6585443	(amenity) (restaurant)	Bella Sauipe
+24177	-23.5843633	-46.7464827	(amenity) (restaurant)	Churrascaria Solo Sul
+24194	-23.1278071	-46.5683874	(amenity) (restaurant)	Tico's Pizzaria
+24199	-23.5997758	-46.6421124	(amenity) (restaurant)
+24204	-23.5995366	-46.6385212	(amenity) (restaurant)	Soneto
+24212	-23.5596996	-46.6617647	(amenity) (restaurant)	Loving Hut
+24229	-23.5551953	-46.6625989	(amenity) (restaurant)	Dona Julia
+24241	-23.5695164	-46.4872467	(amenity) (restaurant)	Ápice Pizza
+24266	-23.5856386	-46.6885943	(amenity) (restaurant)	Milk & Mellow Burguers
+24267	-23.5854344	-46.6839408	(amenity) (restaurant)	Balada Mix
+24286	-23.5603625	-46.6883603	(amenity) (restaurant)	Maha Mantra Culinária Orgânica
+24292	-23.5642246	-46.6353082	(amenity) (restaurant)	Real Tamandaré
+24344	-23.6109456	-46.637552	(amenity) (restaurant)	Limão com mel
+24346	-23.5547499	-46.6631679	(amenity) (restaurant)	Lisboa Grill
+24350	-23.5543638	-46.6627895	(amenity) (restaurant)	Estilo Restaurante
+24390	-23.5529293	-46.658872	(amenity) (restaurant)	Igrejinha
+24391	-23.5530011	-46.6587938	(amenity) (restaurant)	Leni Shushi
+24392	-23.5530369	-46.6587246	(amenity) (restaurant)	Pacífico Pescados
+24444	-23.5822683	-46.6835886	(amenity) (restaurant)	Pizaa
+24450	-23.582486	-46.6834585	(amenity) (restaurant)	Sushi Massao
+24515	-23.5557593	-46.6347397	(amenity) (restaurant)	Sweet Heart
+24518	-23.5597729	-46.6618408	(amenity) (restaurant)
+24520	-23.5602995	-46.6607091	(amenity) (restaurant)	Da Franco
+24522	-23.5599862	-46.6618336	(amenity) (restaurant)
+24528	-23.5482356	-46.6373451	(amenity) (restaurant)	Panda Express Vegano
+24560	-23.5590462	-46.6612983	(amenity) (restaurant)	Galeto's
+24565	-23.5598233	-46.6347856	(amenity) (restaurant)	Restaurant New Mimatsu
+24566	-23.5596356	-46.6350587	(amenity) (restaurant)
+24571	-23.5644349	-46.6701518	(amenity) (restaurant)	A Bela Sintra
+24574	-23.55922	-46.6349016	(amenity) (restaurant)
+24575	-23.5590569	-46.6348666	(amenity) (restaurant)	Go Go Bento
+24579	-23.5632541	-46.6673716	(amenity) (restaurant)	Zucco
+24580	-23.5599988	-46.6428154	(amenity) (restaurant)	Lanchonete Rosa Baiana
+24586	-23.5539894	-46.5947193	(amenity) (restaurant)	Trattoria Carasi
+24606	-23.5617952	-46.6820211	(amenity) (restaurant)	Purana.co
+24611	-23.5593164	-46.6890955	(amenity) (restaurant)	Alternativa Casa do Natural
+24613	-23.5594728	-46.6889874	(amenity) (restaurant)	Sushi Mac
+24615	-23.5587938	-46.6627307	(amenity) (restaurant)	Cantina de Piero
+24616	-23.5590136	-46.6624208	(amenity) (restaurant)	Terraço Jardins
+24617	-23.5591093	-46.6625337	(amenity) (restaurant)	Living Lounge Bar & Sushi
+24628	-23.6379101	-46.6979237	(amenity) (restaurant)	Mono Restaurante
+24636	-23.625669	-46.6611248	(amenity) (restaurant)	Noar
+24662	-23.5643985	-46.6700443	(amenity) (restaurant)	Corrientes 348
+24665	-23.57418	-46.6443674	(amenity) (restaurant)	Cubatao
+24666	-23.5752037	-46.6441439	(amenity) (restaurant)	Camila
+24688	-23.5421402	-46.6343561	(amenity) (restaurant)	Joana de Prestas
+24696	-23.5326613	-46.6323415	(amenity) (restaurant)
+24723	-23.5555965	-46.6878892	(amenity) (restaurant)	Che Barbaro
+24741	-23.5707006	-46.6350092	(amenity) (restaurant)	Saia VIP delivery
+24745	-23.5690136	-46.6325643	(amenity) (restaurant)	China in Box
+24746	-23.667996	-46.5880466	(amenity) (restaurant)	Rima Pizza Bar
+24851	-23.5658218	-46.6658017	(amenity) (restaurant)	Italy
+24860	-23.5432242	-46.631936	(amenity) (restaurant)	Raful
+24892	-23.5624255	-46.6676536	(amenity) (restaurant)	Piola
+24894	-23.5628731	-46.6671442	(amenity) (restaurant)	Z Grill
+24896	-23.5629783	-46.6670824	(amenity) (restaurant)
+24897	-23.5632145	-46.66733	(amenity) (restaurant)	Geiko San
+24898	-23.5637211	-46.6678596	(amenity) (restaurant)	Rodeio
+24938	-23.5780641	-46.629247	(amenity) (restaurant)	Babbo Giovanni
+24943	-23.572136	-46.6306094	(amenity) (restaurant)	Cho Ga Gip
+24944	-23.5718182	-46.6304556	(amenity) (restaurant)	Bi Col
+24948	-23.5697381	-46.6320436	(amenity) (restaurant)	China Garden
+24951	-23.5690069	-46.6325674	(amenity) (restaurant)	China in Box
+24980	-23.5600072	-46.6703878	(amenity) (restaurant)	Pettirosso
+24983	-23.5685103	-46.6494564	(amenity) (restaurant)	Yakitori Mizusaka
+25001	-23.5685499	-46.6494058	(amenity) (restaurant)	Sushi Guen
+25021	-23.5291847	-46.6789981	(amenity) (restaurant)	Leggera Pizza Napoletana
+25052	-23.6883361	-46.5630667	(amenity) (restaurant)	Restaurante Esquina 315
+25167	-23.6029574	-46.6602941	(amenity) (restaurant)	Spoleto
+25197	-23.5548644	-46.7087187	(amenity) (restaurant)	Senzala Restaurante
+25228	-23.56814	-46.6948781	(amenity) (restaurant)	Fitó
+25242	-23.1483391	-46.9387347	(amenity) (restaurant)	Churrascaria passo fundo
+25277	-23.7088646	-46.546219	(amenity) (restaurant)	Soberano Gourmet
+25289	-23.5653705	-46.6695678	(amenity) (restaurant)	A Figueira Rubaiyat
+25347	-23.5363983	-46.6319473	(amenity) (restaurant)	Buffet da Vila
+25555	-23.634651	-46.7332549	(amenity) (restaurant)	Le Champ
+25556	-23.6352355	-46.7339464	(amenity) (restaurant)	Sushi Naoto
+25584	-23.5394885	-46.6334482	(amenity) (restaurant)	Restaurante São Benedito
+25642	-23.4263996	-46.4844599	(amenity) (restaurant)	Viena
+25645	-23.5477436	-46.6903582	(amenity) (restaurant)	Vitaminado Sucos
+25646	-23.547567	-46.6899809	(amenity) (restaurant)	Lanchoete Vila Madalena
+25653	-23.5661417	-46.7010425	(amenity) (restaurant)
+25680	-23.5406616	-46.6903894	(amenity) (restaurant)	Pizza 10
+25693	-23.7262625	-46.5609215	(amenity) (restaurant)	Restaurante Chabocão
+25707	-23.5595451	-46.6618206	(amenity) (restaurant)	Sukya
+25710	-23.6462866	-46.6632981	(amenity) (restaurant)	Pizzaria Ideal
+25711	-23.6595747	-46.6630232	(amenity) (restaurant)	Pizzaria Fettuccine
+25758	-23.5317702	-46.6176108	(amenity) (restaurant)
+25771	-23.5259004	-46.6991371	(amenity) (restaurant)	Bar Alvará
+25801	-23.3675599	-45.8997846	(amenity) (restaurant)	River's Restaurante
+25809	-23.5393925	-46.6104337	(amenity) (restaurant)	Restaurante Girassol
+25819	-23.5612098	-46.6604353	(amenity) (restaurant)	Aconchego Carioca
+25839	-23.4850804	-46.8520722	(amenity) (restaurant)	Benditahora
+25852	-23.5379637	-46.6347296	(amenity) (restaurant)	Esfiha do Gordo
+25867	-23.55651	-46.6554373	(amenity) (restaurant)	DNA Restaurante
+25868	-23.5663116	-46.6686247	(amenity) (restaurant)	Estoril Pasta & Grill
+25875	-23.539364	-46.6349749	(amenity) (restaurant)	Lótus
+25885	-23.5600181	-46.6464247	(amenity) (restaurant)	Catzo
+25889	-23.5726318	-46.6467611	(amenity) (restaurant)	Jojo Ramen
+25890	-23.5294796	-46.6386525	(amenity) (restaurant)	Acropoles
+25907	-23.4982835	-46.5860276	(amenity) (restaurant)	Duda'S
+25933	-23.560673	-46.6584596	(amenity) (restaurant)	Hakka Sushi
+25949	-23.5570489	-46.6527025	(amenity) (restaurant)	Sálvia & Pimenta
+25975	-23.7210287	-46.5734574	(amenity) (restaurant)	Novara Pizzas e Esfihas
+25976	-23.7104099	-46.5532772	(amenity) (restaurant)	Novara Pizzas e Esfihas
+25987	-23.5394252	-46.6351694	(amenity) (restaurant)
+26004	-23.6997146	-46.5527001	(amenity) (restaurant)	Lanchonete e Restaurante Praça Central
+26009	-23.5794402	-46.5808692	(amenity) (restaurant)	Gêmeos Esfihas
+26010	-23.5793791	-46.5807823	(amenity) (restaurant)	Kilão
+26024	-23.5572554	-46.6346601	(amenity) (restaurant)	Mi-Gá Korean Grill
+26030	-23.5488423	-46.6423018	(amenity) (restaurant)	Nutrisom Centro
+26031	-23.5571324	-46.6530804	(amenity) (restaurant)	Solarium
+26037	-23.5564004	-46.6523639	(amenity) (restaurant)	Da Franco
+26059	-23.546307	-46.6440172	(amenity) (restaurant)	Pizzaria Prosperitá
+26082	-23.4800239	-46.6570752	(amenity) (restaurant)	Labodeguita pizzaria
+26108	-23.7194014	-46.5504329	(amenity) (restaurant)	Restaurante Nova Bahamas
+26114	-23.5458695	-46.6502497	(amenity) (restaurant)
+26125	-23.5466102	-46.6490657	(amenity) (restaurant)
+26133	-23.4903882	-46.9550913	(amenity) (restaurant)	1600 Beef & Pizza
+26163	-23.4649767	-46.5253837	(amenity) (restaurant)	Mizu Sushi
+26172	-23.5375649	-46.644297	(amenity) (restaurant)	Restaurante Grill e Café
+26178	-23.6068636	-46.7455189	(amenity) (restaurant)	Costelaria Rancho do Vinho
+26212	-23.5439372	-46.6515604	(amenity) (restaurant)
+26220	-23.5445507	-46.6503952	(amenity) (restaurant)
+26426	-23.5401548	-46.6377613	(amenity) (restaurant)	Elliot
+26427	-23.5401481	-46.637617	(amenity) (restaurant)	Churrascaria Garrote
+26429	-23.5400149	-46.6367345	(amenity) (restaurant)	Lanchonete Kinger Refeições
+26446	-23.5416864	-46.6530344	(amenity) (restaurant)
+26459	-23.5699353	-46.6596163	(amenity) (restaurant)	Zurich
+26462	-23.5728437	-46.6562718	(amenity) (restaurant)	Kiichi
+26463	-23.5746191	-46.6565574	(amenity) (restaurant)	Violeta
+26469	-23.5712607	-46.6582694	(amenity) (restaurant)	Sushi Mar
+26475	-23.5740537	-46.6538899	(amenity) (restaurant)	Prato do Dia
+26477	-23.5622238	-46.6596104	(amenity) (restaurant)	Adro Cuisine
+26478	-23.5598256	-46.6622404	(amenity) (restaurant)	Flying Sushi
+26479	-23.5761101	-46.6559265	(amenity) (restaurant)	Uokatsu Sushi Bar
+26485	-23.5734751	-46.653336	(amenity) (restaurant)	Yakisba
+26487	-23.5731746	-46.652716	(amenity) (restaurant)	Restaurante Hong Re
+26491	-23.5704893	-46.6502179	(amenity) (restaurant)	Porto Caires
+26494	-23.5624255	-46.6590701	(amenity) (restaurant)	Via Stella
+26498	-23.5599925	-46.6620367	(amenity) (restaurant)
+26499	-23.5595477	-46.6626428	(amenity) (restaurant)
+26500	-23.559336	-46.6627978	(amenity) (restaurant)	Samosa & Company
+26504	-23.5690466	-46.6494908	(amenity) (restaurant)	Ali Baba
+26508	-23.5623005	-46.6595385	(amenity) (restaurant)	Via Roma
+26523	-23.6213387	-46.6621243	(amenity) (restaurant)
+26546	-23.558427	-46.6638822	(amenity) (restaurant)
+26595	-23.615062	-46.6675152	(amenity) (restaurant)	Pizza Hut
+26596	-23.5640985	-46.6795447	(amenity) (restaurant)	Pizza Hut
+26597	-23.614771	-46.6589395	(amenity) (restaurant)	Temali Fry
+26641	-23.653714	-46.6571714	(amenity) (restaurant)	Bom Brás
+26645	-23.7131748	-46.6087743	(amenity) (restaurant)	Garajão
+26650	-23.5148776	-46.5390401	(amenity) (restaurant)	Panelão do Norte
+26651	-23.5149776	-46.5387322	(amenity) (restaurant)
+26656	-23.5174288	-46.5393798	(amenity) (restaurant)	Pizzaria
+26659	-23.5658866	-46.663917	(amenity) (restaurant)	L. Estrante de Paris
+26660	-23.5626369	-46.6601828	(amenity) (restaurant)	Restaurante Panaramico
+26664	-23.5662797	-46.6643082	(amenity) (restaurant)
+26665	-23.5659672	-46.6639933	(amenity) (restaurant)	K Pop Chicken
+26669	-23.5584371	-46.663856	(amenity) (restaurant)
+26671	-23.5628109	-46.667215	(amenity) (restaurant)	Senafina
+26675	-23.5619146	-46.6660325	(amenity) (restaurant)
+26692	-23.5513985	-47.1011814	(amenity) (restaurant)	Stefano hotel e restaurante
+26696	-23.5419945	-46.5898059	(amenity) (restaurant)
+26704	-23.5454386	-46.6435572	(amenity) (restaurant)	Terraço Itália
+26714	-23.72085	-46.5636065	(amenity) (restaurant)	Pizzaria Zanini
+26723	-23.7799876	-46.5308841	(amenity) (restaurant)	Restaurante Gama
+26755	-23.4867418	-46.6078511	(amenity) (restaurant)	Panquecaria
+26827	-23.5313613	-46.650264	(amenity) (restaurant)	Kony Sushi Bar
+26870	-23.5576061	-46.6893611	(amenity) (restaurant)	Feijoada da Lana
+26873	-23.5649589	-46.6851406	(amenity) (restaurant)	HõKõ asian food
+26876	-23.5555385	-46.686022	(amenity) (restaurant)	A Queijaria
+26886	-23.5944453	-46.6421472	(amenity) (restaurant)	Pizzaria 1900
+26899	-23.4869073	-46.608941	(amenity) (restaurant)	Siriya
+26912	-24.0193163	-46.4845236	(amenity) (restaurant)	Vila Sushi
+26939	-23.4508635	-46.5979259	(amenity) (restaurant)	Pizzaria Calamares
+26956	-23.5036453	-46.639637	(amenity) (restaurant)	Pizzeria Marco Luccio
+26976	-23.5697813	-46.6918423	(amenity) (restaurant)	Zé da Prata
+26985	-23.5677372	-46.6639201	(amenity) (restaurant)	Tartuferia San Paulo
+26998	-23.5499124	-46.6808313	(amenity) (restaurant)	Firin Salonu
+27029	-23.7190776	-46.5739301	(amenity) (restaurant)	Ô Frango
+27030	-23.7245618	-46.573426	(amenity) (restaurant)
+27102	-23.5821163	-46.6763129	(amenity) (restaurant)	Sanok
+27103	-23.582935	-46.6760464	(amenity) (restaurant)	Rodizio Arabe
+27104	-23.5825894	-46.6742612	(amenity) (restaurant)	Estacao Itaim
+27142	-23.9871834	-46.2328097	(amenity) (restaurant)	Hanger
+27143	-23.5555768	-46.6348621	(amenity) (restaurant)	Mono
+27150	-23.985898	-46.2251994	(amenity) (restaurant)	Boa Vida
+27158	-23.9868505	-46.2314531	(amenity) (restaurant)	Dona Dolores
+27167	-23.674477	-46.5172365	(amenity) (restaurant)	Pizzaria Manaus
+27184	-23.6278877	-46.6648157	(amenity) (restaurant)	Jucalemão
+27191	-23.7019533	-46.5689763	(amenity) (restaurant)	Joaninha Marmitex
+27217	-24.0504066	-47.2082984	(amenity) (restaurant)	Restaurante do Japonês
+27244	-23.5720794	-46.6442001	(amenity) (restaurant)	Mangá
+27245	-23.5719845	-46.644464	(amenity) (restaurant)	Ragazzo Express
+27293	-23.5347234	-46.6232744	(amenity) (restaurant)	Grill do Estado
+27301	-23.5916469	-46.6436403	(amenity) (restaurant)	Taverna Medieval
+27302	-23.5849541	-46.6757294	(amenity) (restaurant)	Pao com carne
+27318	-23.7084348	-46.5518114	(amenity) (restaurant)	Akary Tamakaria
+27333	-23.7060841	-46.5505143	(amenity) (restaurant)	Restaurante Cantinho da Manu
+27334	-23.70613	-46.5500767	(amenity) (restaurant)	Dona Mira Restaurante
+27341	-23.733244	-46.5793191	(amenity) (restaurant)	Bons Amigos Pizza e Bar
+27397	-23.5621818	-46.6214131	(amenity) (restaurant)	Cambuci Restaurante e Pizzaria
+27405	-23.6060145	-46.6262869	(amenity) (restaurant)	Churrascaria Picanha de Ouro
+27406	-23.6064667	-46.6264934	(amenity) (restaurant)	Farol de Sardenha
+27407	-23.563385	-46.620205	(amenity) (restaurant)	Nova Cambuci
+27512	-23.5737341	-46.6496693	(amenity) (restaurant)	Pramigos
+27523	-23.5426623	-46.6555547	(amenity) (restaurant)	Restaurante Jardim de Napoli
+27545	-23.6458792	-46.8422074	(amenity) (restaurant)	Churrascaria prato cheio sp e posto BR
+27563	-23.5645481	-46.68001	(amenity) (restaurant)
+27637	-23.4833625	-46.5906632	(amenity) (restaurant)	La Kombi espetinhos
+27674	-23.215243	-45.9075743	(amenity) (restaurant)	Mr. Moo
+27679	-23.1953442	-45.9200004	(amenity) (restaurant)	Rei do Peixe
+27680	-23.1963397	-45.9297403	(amenity) (restaurant)	Sitio Serimbura
+27685	-23.4989676	-46.5949986	(amenity) (restaurant)	Restaurante Sucesso
+27724	-23.4969188	-46.5861866	(amenity) (restaurant)	Maranhão Bar & Lanches
+27755	-23.5417477	-46.6579201	(amenity) (restaurant)	P.F. Chang's
+27776	-23.5651957	-46.6816003	(amenity) (restaurant)	Cantina Gigio
+27783	-23.5137107	-46.6193775	(amenity) (restaurant)	Outback Steakhouse
+27791	-23.5319545	-46.6181089	(amenity) (restaurant)	Al Soltan
+27833	-23.5682504	-46.6901808	(amenity) (restaurant)	Restaurante & lanchonete Pinheiros Grill
+27872	-23.5377416	-46.5754771	(amenity) (restaurant)	Lanchonete Morango e Açaí
+27890	-23.5703117	-46.6572261	(amenity) (restaurant)	Pilar
+27928	-23.7246225	-46.5734501	(amenity) (restaurant)	Restaurante Bom Sabor
+27942	-23.5521841	-46.5621579	(amenity) (restaurant)	Bráz Pizzaria
+27951	-23.5777772	-46.6292463	(amenity) (restaurant)	Okyama
+27953	-23.5802253	-46.6332259	(amenity) (restaurant)	Braccia
+27955	-23.5773154	-46.6288402	(amenity) (restaurant)	Aclimação
+27959	-23.581007	-46.6351541	(amenity) (restaurant)	Santa Vila Grill
+27967	-23.5121984	-46.5553333	(amenity) (restaurant)	Grill Hall
+27970	-23.3238324	-46.1223352	(amenity) (restaurant)	Paradouro Batistella
+27980	-23.723381	-46.5436659	(amenity) (restaurant)	Divino Fogão
+28078	-23.5552773	-46.6343622	(amenity) (restaurant)	Restaurant Suzuran
+28082	-23.5253072	-46.6099565	(amenity) (restaurant)
+28199	-23.6990592	-46.5522725	(amenity) (restaurant)
+28219	-23.7076823	-46.5756902	(amenity) (restaurant)	Konkai Sushi
+28298	-23.5270614	-46.6060416	(amenity) (restaurant)
+28555	-23.5285155	-46.6089129	(amenity) (restaurant)	Lanchonete Alem Mar
+28675	-23.530787	-46.6096129	(amenity) (restaurant)	Churrascaria Novo Horizonte
+28679	-23.5318473	-46.6102011	(amenity) (restaurant)	Restajurante Fox
+28700	-23.7687421	-46.3427474	(amenity) (restaurant)	Sujinho
+28701	-23.5270471	-46.6057614	(amenity) (restaurant)	Lanchonete e Restaurante Serenata
+28711	-23.7396294	-46.5694422	(amenity) (restaurant)	Pizzaria e Restaurante Nova Ipê
+28718	-23.4288062	-46.4830305	(amenity) (restaurant)	Mr Baker
+28727	-23.6961987	-46.5532631	(amenity) (restaurant)	Restaurante Princesa do Indico
+28734	-23.571239	-46.7071335	(amenity) (restaurant)	Casa do Mestiço
+28740	-23.7437581	-46.6117163	(amenity) (restaurant)	Restaurante Parada Obrigatória
+28760	-23.5245913	-46.6023126	(amenity) (restaurant)	Boi Gaucho Grill
+28785	-23.5320117	-47.0881277	(amenity) (restaurant)	Restaurante Cascudo
+28788	-23.5649297	-46.6814277	(amenity) (restaurant)	Kilter's
+28844	-23.5668074	-46.6858972	(amenity) (restaurant)	Rinconcito Peruano
+28849	-23.5229277	-46.6005175	(amenity) (restaurant)
+28866	-23.56648	-46.6846106	(amenity) (restaurant)
+28875	-23.7229803	-46.5441736	(amenity) (restaurant)	Sky Ásia
+28879	-23.5301849	-46.6359072	(amenity) (restaurant)	????
+28881	-23.5661855	-46.6839379	(amenity) (restaurant)	Estação Vegana
+28882	-23.5669557	-46.6888069	(amenity) (restaurant)	Al Árabe
+28930	-23.5682015	-46.6908628	(amenity) (restaurant)	Lanchonete & Restaurante Nova Pinheiros
+28931	-23.5697839	-46.690661	(amenity) (restaurant)	Seu Vito
+28933	-23.5685392	-46.6920613	(amenity) (restaurant)	Lanchonete do Barão
+28935	-23.5682183	-46.6906362	(amenity) (restaurant)	Restaurante Quinta Natural
+28936	-23.5682305	-46.6903637	(amenity) (restaurant)	Flor de Pinhão
+28937	-23.5687517	-46.6909344	(amenity) (restaurant)	Minas mania
+28942	-23.5205493	-46.1866423	(amenity) (restaurant)	MixBox
+28955	-23.7082798	-46.5496147	(amenity) (restaurant)	Restaurante Bacalhau e Vino Verde
+28958	-23.70441	-46.5506806	(amenity) (restaurant)
+28976	-23.6623285	-46.5233653	(amenity) (restaurant)	Ervilha de Cheiro
+28990	-23.6652784	-46.5403162	(amenity) (restaurant)	Villare
+28999	-23.5483867	-46.648779	(amenity) (restaurant)
+29004	-23.6601365	-46.5391374	(amenity) (restaurant)	Fratelli Pizzaria
+29014	-23.6659675	-46.5438762	(amenity) (restaurant)	Casa da Pizza Noval
+29045	-23.6603245	-46.5367918	(amenity) (restaurant)	Pizzaria Jóia
+29049	-23.6607384	-46.5370882	(amenity) (restaurant)	Dídio Pizza
+29081	-23.6542365	-46.543339	(amenity) (restaurant)	Toninha Comida Caseira
+29183	-23.6471814	-46.5251784	(amenity) (restaurant)	Churrascaria Vavá
+29278	-23.6729675	-46.5398267	(amenity) (restaurant)	Água na Boca
+29287	-23.670815	-46.5391883	(amenity) (restaurant)	Gilda Esfiharia Pizzaria
+29300	-23.6736381	-46.5473034	(amenity) (restaurant)	Nova Geração
+29308	-23.6408128	-46.5072969	(amenity) (restaurant)	Buona Via Pizza
+29323	-23.6474665	-46.5101118	(amenity) (restaurant)	G & G
+29328	-23.6503718	-46.5105329	(amenity) (restaurant)	Feijão com Arroz
+29356	-23.630721	-46.503405	(amenity) (restaurant)	Pizzaria Brasitália
+29360	-23.631715	-46.5029222	(amenity) (restaurant)	Pizzeria Buon Gusto
+29405	-23.6327114	-46.511343	(amenity) (restaurant)	La Quadrata
+29408	-23.6332803	-46.5115964	(amenity) (restaurant)	Novo Sabor
+29421	-23.63085	-46.5074551	(amenity) (restaurant)	Pizzaria Capriolli
+29441	-23.6294715	-46.4987688	(amenity) (restaurant)	Bagdá Pizzaria & Esfiharia
+29445	-23.6299765	-46.5259731	(amenity) (restaurant)	Maguila
+29460	-23.6346539	-46.5150592	(amenity) (restaurant)	Jabá do Ribamar
+29498	-23.6471458	-46.5384977	(amenity) (restaurant)	Yamato
+29500	-23.6484677	-46.537701	(amenity) (restaurant)	Dom Giardino
+29521	-23.6540381	-46.5350055	(amenity) (restaurant)	Mazza Ristoranti
+29530	-23.6546955	-46.5357692	(amenity) (restaurant)	Yukui Sushi
+29533	-23.6548424	-46.5360639	(amenity) (restaurant)	Questo Pasta
+29549	-23.6460875	-46.5139132	(amenity) (restaurant)	Pacparela
+29558	-23.6451028	-46.5129912	(amenity) (restaurant)	Asterix
+29571	-23.642217	-46.5107824	(amenity) (restaurant)	Espaço Mix
+29580	-23.6346539	-46.5031207	(amenity) (restaurant)	Tropical
+29608	-23.6397083	-46.5066102	(amenity) (restaurant)	Cella
+29618	-23.6470279	-46.5395303	(amenity) (restaurant)	Gema
+29645	-23.6477711	-46.5193802	(amenity) (restaurant)	Moinho Pizzaria
+29663	-23.6674439	-46.5398669	(amenity) (restaurant)	Rojin Sushi
+29709	-23.6697875	-46.5581341	(amenity) (restaurant)	Pizzaria Babbo
+29715	-23.6692532	-46.5547384	(amenity) (restaurant)
+29718	-23.6294875	-46.6466859	(amenity) (restaurant)	Barraca do Zé
+29742	-23.550241	-46.653609	(amenity) (restaurant)	Ragonezi Restaurante
+29833	-23.6642687	-46.5626805	(amenity) (restaurant)	Bar e Restaurante Vergueiro
+29861	-23.6177631	-46.6056977	(amenity) (restaurant)	Estrada do Mar
+29874	-23.771777	-46.5992527	(amenity) (restaurant)	Pizzaria Represa
+29917	-23.6565814	-46.5264184	(amenity) (restaurant)	A Praça
+29946	-23.6574683	-46.5303821	(amenity) (restaurant)	Villa Rosa Bistrô
+29953	-23.6576869	-46.5305125	(amenity) (restaurant)	Shabab's
+29962	-23.5543053	-46.6572859	(amenity) (restaurant)	Cenário Restaurante
+29965	-23.5539244	-46.6577192	(amenity) (restaurant)	Pop Vegan Food
+29978	-23.5558009	-46.6571232	(amenity) (restaurant)	O Mineiro
+29979	-23.5557103	-46.6572253	(amenity) (restaurant)	Buteco de Minas
+30026	-23.560522	-46.6626204	(amenity) (restaurant)	Fogo no Chão
+30032	-23.9315939	-46.334682	(amenity) (restaurant)	Casa Valongo
+30035	-23.9328592	-46.3279412	(amenity) (restaurant)	Azulão
+30053	-23.5597403	-46.6623351	(amenity) (restaurant)	Vegacy
+30091	-23.5616918	-46.6655279	(amenity) (restaurant)	Parisó
+30123	-23.6121754	-46.4941116	(amenity) (restaurant)	HABIB'S
+30158	-23.5628827	-46.6646724	(amenity) (restaurant)	Lanchonete Da Cidade
+30191	-23.5131019	-46.3442412	(amenity) (restaurant)	Don Gonçalves
+30202	-23.2316376	-45.8974232	(amenity) (restaurant)	Buona Pizzaria
+30210	-23.6091661	-46.6424287	(amenity) (restaurant)	Monte Grill Galeteria
+30211	-23.626141	-46.644821	(amenity) (restaurant)	Turmalina
+30212	-23.6084385	-46.6467749	(amenity) (restaurant)	Yasuke
+30230	-23.6151565	-46.6374472	(amenity) (restaurant)	Sabores do Sul
+30242	-23.5602668	-46.6961473	(amenity) (restaurant)	NB Steak
+30244	-23.9345232	-46.3303806	(amenity) (restaurant)	Super Vegetariano
+30245	-23.5201523	-46.6288301	(amenity) (restaurant)	Master churrascaria
+30246	-23.5578428	-46.6813532	(amenity) (restaurant)	Baiano de Dois
+30273	-23.5554761	-46.6741648	(amenity) (restaurant)	Caverna do Burge
+30281	-23.5539361	-46.6753803	(amenity) (restaurant)	Semente da Terra
+30322	-23.6692107	-46.5385937	(amenity) (restaurant)	Madero
+30330	-23.6271579	-46.6994476	(amenity) (restaurant)	Charme do Morumbi
+30331	-23.6249594	-46.7004473	(amenity) (restaurant)	Caires
+30368	-23.5578186	-46.6735446	(amenity) (restaurant)	Med Maria
+30369	-23.5578807	-46.6736345	(amenity) (restaurant)	Dom José Café
+30374	-23.5921931	-46.8325565	(amenity) (restaurant)	Outback Steakhouse
+30376	-23.6072354	-46.6593257	(amenity) (restaurant)	Hidden 2nd Floor
+30401	-23.6103659	-46.8821681	(amenity) (restaurant)	Pizzaria Belizário
+30406	-23.6276104	-46.6455862	(amenity) (restaurant)	Maria Pitanga
+30500	-23.5587411	-46.6753611	(amenity) (restaurant)	A Casa da Vovó
+30528	-23.7960642	-46.5470232	(amenity) (restaurant)	La Família PIzzaria
+30539	-23.6024534	-46.6632703	(amenity) (restaurant)	Applebee's
+30571	-23.5259277	-46.2041256	(amenity) (restaurant)
+30592	-23.5594839	-46.674118	(amenity) (restaurant)	Bamboa
+30610	-23.5594366	-46.6743361	(amenity) (restaurant)
+30611	-23.5590576	-46.6746026	(amenity) (restaurant)	Mario Galluzzi Cozinha de Afeto
+30616	-23.5572297	-46.6798663	(amenity) (restaurant)	Buttina
+30621	-23.702718	-46.5502686	(amenity) (restaurant)	Emporio Arabe
+30644	-23.136981	-46.5069509	(amenity) (restaurant)	Parada Obrigatória Recanto das Pedras
+30709	-23.5685031	-46.6494886	(amenity) (restaurant)	Kan Suke
+30753	-23.4878603	-46.2721385	(amenity) (restaurant)	Pesqueiro Fish Dance
+30783	-23.5614206	-46.6670323	(amenity) (restaurant)	Lellis Trattoria
+30799	-23.4639184	-46.4681596	(amenity) (restaurant)	Lua Branca Restaurante e Lanchonete
+30855	-23.5589316	-46.6462439	(amenity) (restaurant)	Moscatel
+30961	-23.6816473	-46.717985	(amenity) (restaurant)
+30963	-23.6660694	-46.7135695	(amenity) (restaurant)	Churrascaria Brasão
+30971	-23.6111122	-46.6369609	(amenity) (restaurant)
+30994	-23.6041906	-46.6357613	(amenity) (restaurant)	O Brazeiro
+31018	-23.6932305	-46.5952717	(amenity) (restaurant)	Padaria Nova Leão
+31077	-23.1976484	-45.8883202	(amenity) (restaurant)	Caldinho da Joana
+31079	-23.1968773	-45.8875374	(amenity) (restaurant)	Restaurante Comida Brasileira
+31116	-23.7120675	-46.8492995	(amenity) (restaurant)	Good Chicken
+31129	-23.4458408	-46.9148903	(amenity) (restaurant)	Restaurante São Paulo Antigo
+31131	-23.5622655	-46.6389511	(amenity) (restaurant)	Sukiya Tokyo Bowls & Noodles
+31139	-23.5212522	-46.7008624	(amenity) (restaurant)	Fogão Divino
+31141	-23.5213885	-46.7009072	(amenity) (restaurant)	Giraffas
+31174	-23.5920489	-47.1394856	(amenity) (restaurant)	Bomsucesso
+31175	-23.5922546	-47.141422	(amenity) (restaurant)	Quintal das Alcachofras
+31208	-23.9705013	-46.3294713	(amenity) (restaurant)	Esquina do Chopp
+31231	-23.5633857	-46.687344	(amenity) (restaurant)	Comendador
+31314	-23.6333227	-46.7049093	(amenity) (restaurant)	Domino's Pizza
+31315	-23.6441954	-46.702994	(amenity) (restaurant)	Ma-Q-Pizza
+31328	-23.2066391	-45.8754752	(amenity) (restaurant)	Rancho dos alunos
+31347	-23.6273349	-46.6692518	(amenity) (restaurant)	Calçadâo do peixe
+31366	-23.2163392	-45.8919862	(amenity) (restaurant)	Dom Vegano
+31379	-23.621843	-46.687493	(amenity) (restaurant)	Fratelli Basilico
+31380	-23.5421042	-46.681686	(amenity) (restaurant)	Congolinária
+31381	-23.5720452	-46.7038148	(amenity) (restaurant)	Açougue Vegano
+31383	-23.5367682	-46.6729246	(amenity) (restaurant)	Casa RAW
+31385	-23.5480525	-46.5836227	(amenity) (restaurant)	Bella Mooca
+31422	-23.5638286	-46.6881097	(amenity) (restaurant)	Big Big
+31481	-23.5663637	-46.6897745	(amenity) (restaurant)	Izakaya Matsu
+31519	-23.5422348	-46.6408294	(amenity) (restaurant)	Salada Record
+31548	-23.5386472	-46.306447	(amenity) (restaurant)	Toca do Peixe
+31549	-23.6547849	-46.5704012	(amenity) (restaurant)
+31609	-23.3283657	-46.7269333	(amenity) (restaurant)	Maravilhas do Milho Verde
+31611	-23.3283731	-46.7268582	(amenity) (restaurant)	Parmeggio
+31623	-23.5675695	-46.6939389	(amenity) (restaurant)	Sukiya Faria Lima
+31634	-23.4988301	-46.8769802	(amenity) (restaurant)	Forneira La Fratterna Pizzaria & Ristorante
+31637	-23.4995328	-46.8787141	(amenity) (restaurant)	Restaurante do Tião
+31639	-23.4990458	-46.8780221	(amenity) (restaurant)	Oliveira Grill
+31701	-23.6578063	-46.536545	(amenity) (restaurant)	Don Cappone
+31719	-23.4905858	-46.8785759	(amenity) (restaurant)	Restaurante
+31834	-23.6256562	-46.7427106	(amenity) (restaurant)	Temaki
+31835	-23.6255808	-46.7426133	(amenity) (restaurant)	Penélope Food Truck & Pizzaria
+31894	-23.5650334	-46.6850727	(amenity) (restaurant)	Da Mooca
+31908	-23.5771035	-46.5877357	(amenity) (restaurant)	Chalé Pizza bar
+31913	-23.571219	-46.6582374	(amenity) (restaurant)	Sushimar Vegano
+32056	-23.4619492	-46.5571569	(amenity) (restaurant)	Pizzaria Massa Nobre
+32192	-24.2924454	-47.1712532	(amenity) (restaurant)	Churrascaria e Restaurante Sarandi
+32215	-23.7115975	-46.5494511	(amenity) (restaurant)	Pátio Municipal Restaurante
+32216	-23.7114467	-46.5496168	(amenity) (restaurant)	Restaurante Dona Malagueta
+32220	-23.5959821	-46.4050006	(amenity) (restaurant)	Restaurante Bom Paladar - Self Service
+32222	-23.5993163	-46.4014011	(amenity) (restaurant)	Restaurante Trancoso
+32225	-23.7114987	-46.550165	(amenity) (restaurant)	Top Boi Grill
+32248	-23.9652133	-46.32886	(amenity) (restaurant)	Nagasaki Ya
+32529	-23.526445	-46.3536595	(amenity) (restaurant)
+32573	-23.9505009	-46.407213	(amenity) (restaurant)	Balu Restaurante
+32751	-23.5943987	-46.6839499	(amenity) (restaurant)	Garam Massala
+32765	-23.5590132	-46.6631703	(amenity) (restaurant)
+32774	-23.5417682	-46.5657234	(amenity) (restaurant)
+32803	-23.5449514	-46.5891386	(amenity) (restaurant)	Lanchonete Passarela
+32939	-23.556526	-46.6592826	(amenity) (restaurant)	Laut
+32986	-23.5279747	-46.1995384	(amenity) (restaurant)	Vegê
+33034	-23.5214111	-46.1836412	(amenity) (restaurant)	Bottega 3
+33036	-23.5213433	-46.1826861	(amenity) (restaurant)	Porto Pirata
+33039	-23.5213278	-46.1825767	(amenity) (restaurant)	Mirai
+33047	-23.5218377	-46.1796828	(amenity) (restaurant)	Viva
+33155	-23.9785346	-46.3088147	(amenity) (restaurant)	Outback Steakhouse
+33170	-23.5224314	-46.1917913	(amenity) (restaurant)	Filé da Filó
+33172	-23.9689445	-46.380133	(amenity) (restaurant)	Gaudio
+33173	-23.9688493	-46.3785361	(amenity) (restaurant)	Marrocos
+33183	-23.7169827	-46.5845247	(amenity) (restaurant)	Restaurante Três Marias
+33224	-23.5967449	-46.6343513	(amenity) (restaurant)	Porque
+33245	-23.5342211	-45.9040214	(amenity) (restaurant)	Restaurnte da Fazenda
+33255	-23.6424612	-46.1209508	(amenity) (restaurant)	Caminho do Mar
+33256	-23.6439656	-46.119284	(amenity) (restaurant)	Cardoso
+33278	-23.4688873	-46.6636338	(amenity) (restaurant)
+33296	-23.8159189	-46.0494964	(amenity) (restaurant)	Jolly Roger
+33394	-23.9911279	-46.3027014	(amenity) (restaurant)	Hiná Fish & Lounge
+33400	-23.9596953	-46.3321077	(amenity) (restaurant)	Caiçara Restaurante
+33402	-23.4241098	-46.4769423	(amenity) (restaurant)	Baked Potato
+33416	-23.482968	-46.1422491	(amenity) (restaurant)	Casa dos Assados
+33421	-23.5555991	-46.6077343	(amenity) (restaurant)	Hospedaria
+33454	-23.4507545	-46.4617073	(amenity) (restaurant)	Churrascaria Gaucho
+33507	-23.5296372	-46.6001293	(amenity) (restaurant)
+33509	-23.2172289	-46.6180844	(amenity) (restaurant)	Fazenda Paraíso
+33679	-23.4312483	-46.079505	(amenity) (restaurant)	Sabor da Terra
+33689	-23.5621568	-46.669596	(amenity) (restaurant)
+33690	-23.5619157	-46.6675535	(amenity) (restaurant)	Jam Restaurante
+33699	-23.3416039	-46.743177	(amenity) (restaurant)	Restaurante e Lanchonete JD
+33706	-23.5822157	-46.6798708	(amenity) (restaurant)	Modern Mamma Osteria
+33707	-23.5821055	-46.6796406	(amenity) (restaurant)	Vaca Veia
+33735	-23.4507997	-46.90077	(amenity) (restaurant)	Detroit SteakHouse
+33759	-23.4087604	-46.8563814	(amenity) (restaurant)	Patroni Pizza
+33765	-23.7120519	-46.5528019	(amenity) (restaurant)	Restaurante Maria Rita
+33783	-23.1851031	-45.8852591	(amenity) (restaurant)	Sol
+33807	-23.6348578	-46.6992666	(amenity) (restaurant)	Restaurante Navegantes
+33814	-23.4647141	-46.5251419	(amenity) (restaurant)	Boizihnos
+33822	-23.7083967	-46.5517764	(amenity) (restaurant)	Matriz Restaurante e Lanchonete
+33830	-23.1813702	-45.8866362	(amenity) (restaurant)	Capri
+33858	-23.5447421	-46.6618526	(amenity) (restaurant)	Ka Temakeria
+33904	-23.4671225	-46.5238611	(amenity) (restaurant)	City Bread
+33921	-23.4935888	-46.8428104	(amenity) (restaurant)	Box 57 Pizza Delevery
+33940	-23.4594597	-46.5292198	(amenity) (restaurant)	Madeli
+33945	-23.4590309	-46.5249932	(amenity) (restaurant)	Dimas
+33946	-23.4575872	-46.530947	(amenity) (restaurant)	Filho & Fogao
+33964	-23.6294837	-46.6044694	(amenity) (restaurant)	Pizzaria e Restaurante Nova Mercês
+34027	-23.5609167	-46.6665097	(amenity) (restaurant)	Etto
+34078	-23.5553415	-46.6352046	(amenity) (restaurant)	Itiriki
+34094	-23.5387438	-46.6517132	(amenity) (restaurant)	Esfiha Chic
+34109	-23.4764079	-46.572916	(amenity) (restaurant)	Nova Casa Nostra
+34110	-23.210202	-47.2824334	(amenity) (restaurant)	Acopiara Lanchonete e Restaurante
+34224	-23.5551969	-46.6343477	(amenity) (restaurant)	Tampopo
+34226	-23.554162	-46.6344185	(amenity) (restaurant)	Heros
+34228	-23.5542736	-46.6344118	(amenity) (restaurant)	Champion
+34232	-23.553818	-46.6344398	(amenity) (restaurant)
+34419	-23.6305621	-46.7032515	(amenity) (restaurant)	Dona Dondoca
+34509	-23.5492122	-46.6976553	(amenity) (restaurant)	Bar do João
+34544	-23.7432582	-46.5260406	(amenity) (restaurant)	Pizzaria Mister Boy
+34562	-23.6331286	-46.5136105	(amenity) (restaurant)	La Conquista pizzaria
+34568	-23.6327589	-46.5139089	(amenity) (restaurant)	X-Jabá
+34640	-23.523603	-46.3624093	(amenity) (restaurant)	Pizzaria Labina
+34659	-23.5216721	-46.4122173	(amenity) (restaurant)	Pede Bis II
+34735	-23.5890585	-46.6189192	(amenity) (restaurant)	Sushi Gushi
+34761	-23.712262	-46.7022606	(amenity) (restaurant)	Restaurante Flor de Lis
+34766	-23.5850379	-46.6186432	(amenity) (restaurant)	Mansão da Pizza
+34770	-23.5924631	-46.6211905	(amenity) (restaurant)	San Maki Temakeria
+34772	-23.5892081	-46.618884	(amenity) (restaurant)	O Rei da Tapioca
+34840	-23.479817	-46.6483197	(amenity) (restaurant)	Lanchonete Irmãos 3 "K"
+34843	-23.4803105	-46.6480398	(amenity) (restaurant)	Food Truck Dog's
+34970	-23.5384	-46.3657319	(amenity) (restaurant)	Bom Prato
+34973	-23.5412888	-46.3675317	(amenity) (restaurant)	Ragazzo
+35028	-23.5789579	-46.6412774	(amenity) (restaurant)	Capricho Mineiro
+35057	-23.5585289	-46.6680066	(amenity) (restaurant)	Bar e Restaurante Chave de Ouro
+35083	-23.5717881	-46.6906468	(amenity) (restaurant)	Marach
+35135	-23.5929968	-46.6753626	(amenity) (restaurant)	Brodo
+35165	-23.5318106	-46.6773905	(amenity) (restaurant)	That Vegan Brand
+35166	-23.5964095	-46.6897974	(amenity) (restaurant)	Taste and See
+35170	-23.1980998	-45.8890552	(amenity) (restaurant)	Com-Sciência
+35197	-23.6549348	-46.5736069	(amenity) (restaurant)	Raízes
+35200	-23.5296516	-46.6724195	(amenity) (restaurant)	Urbã
+35223	-23.5396953	-46.6693368	(amenity) (restaurant)	Makis Temakeria
+35226	-23.5397162	-46.6693708	(amenity) (restaurant)	Pasta Laveti
+35252	-23.5574429	-46.6555393	(amenity) (restaurant)
+35253	-23.5576172	-46.6555124	(amenity) (restaurant)	Sinhá Gomide
+35268	-23.5568273	-46.6570071	(amenity) (restaurant)	Quintal
+35269	-23.4994898	-46.8660006	(amenity) (restaurant)	Padaria e Restaurante Empório Bethaville
+35271	-23.6196966	-46.5526658	(amenity) (restaurant)	Sumake Sushi
+35272	-23.6198947	-46.5529756	(amenity) (restaurant)	Pianella
+35337	-23.5874518	-46.6452411	(amenity) (restaurant)	Amazônia Soul
+35341	-23.587788	-46.6453771	(amenity) (restaurant)	Pasta Nostra
+35344	-23.6670006	-46.5356875	(amenity) (restaurant)	Coco Bambu
+35376	-23.4276016	-46.4736002	(amenity) (restaurant)	On The Rocks
+35377	-23.426303	-46.4738826	(amenity) (restaurant)	Fit Food
+35382	-23.6194721	-46.5526229	(amenity) (restaurant)	Flor de Romã
+35386	-23.6187628	-46.5529063	(amenity) (restaurant)	Amor e Sabor Restaurante
+35394	-23.6204891	-46.5542736	(amenity) (restaurant)	Nova Barcelona Pizzaria
+35439	-23.6679119	-46.5259213	(amenity) (restaurant)	Churrascaria São João
+35457	-23.6633438	-46.5393542	(amenity) (restaurant)	Asami Sushi
+35465	-23.6609764	-46.5378645	(amenity) (restaurant)	La Carbonara
+35471	-23.6610221	-46.5379021	(amenity) (restaurant)	El Londrino
+35475	-23.6610709	-46.5379211	(amenity) (restaurant)	Zensei Sushi
+35477	-23.6581681	-46.5357177	(amenity) (restaurant)	O Parceiro
+35483	-23.6610172	-46.5324742	(amenity) (restaurant)	Kizuna Sushi Lounge
+35487	-23.6607569	-46.5349913	(amenity) (restaurant)	Simbad
+35516	-23.593826	-46.579002	(amenity) (restaurant)	Poly
+35518	-23.5886075	-46.5834359	(amenity) (restaurant)	Loqus Grill
+35542	-23.5601729	-46.6709659	(amenity) (restaurant)	Restaurante 955
+35555	-23.5599847	-46.667962	(amenity) (restaurant)	Rock Dreams Bar e Restaurant
+35558	-23.5614998	-46.6693091	(amenity) (restaurant)	poru.
+35561	-23.5644061	-46.6682839	(amenity) (restaurant)	Nobu Sao Paulo Jardins
+35563	-23.5647809	-46.6686563	(amenity) (restaurant)	Gero Restaurant
+35566	-23.5648633	-46.6696041	(amenity) (restaurant)	Le Manjue Jardins
+35569	-23.563682	-46.6693622	(amenity) (restaurant)	ICI Brasserie
+35570	-23.563629	-46.6698194	(amenity) (restaurant)	Chef Rouge
+35580	-23.5615157	-46.6711448	(amenity) (restaurant)	Vinho & Pasta Ravin
+35589	-23.5605783	-46.6680026	(amenity) (restaurant)	Restaurante Kayomix
+35590	-23.5586488	-46.6681798	(amenity) (restaurant)	Fuentes
+35591	-23.5584899	-46.6680112	(amenity) (restaurant)	Restaurante Caldo da Roca
+35593	-23.5611581	-46.6691454	(amenity) (restaurant)	Nattu Restaurante Jardins
+35595	-23.5617938	-46.6692195	(amenity) (restaurant)	Nagayama
+35597	-23.5645872	-46.6683546	(amenity) (restaurant)	La Macca
+35598	-23.564534	-46.6694481	(amenity) (restaurant)	Nonno Ruggero
+35600	-23.568808	-46.6400863	(amenity) (restaurant)	Espacio Vergueiro
+35602	-23.5653878	-46.6662235	(amenity) (restaurant)	Toro Sushi
+35610	-23.5603809	-46.6713758	(amenity) (restaurant)	Churrascaria Vento Haragano
+35620	-23.5606384	-46.6694292	(amenity) (restaurant)	Minato
+35621	-23.5603282	-46.6701257	(amenity) (restaurant)	911 Restaurante
+35629	-23.5606152	-46.6699423	(amenity) (restaurant)	Kazaki Sushi Bar
+35634	-23.5620765	-46.6681463	(amenity) (restaurant)	Oliver
+35635	-23.5621182	-46.6676928	(amenity) (restaurant)	Lima
+35636	-23.559983	-46.6637044	(amenity) (restaurant)	Sushimasa
+35637	-23.5599949	-46.664012	(amenity) (restaurant)	Kaisho
+35639	-23.5572203	-46.6348948	(amenity) (restaurant)	Restaurante Yamamoto
+35663	-23.6569174	-46.5377334	(amenity) (restaurant)	Sushi ABC
+35685	-23.6502583	-46.538851	(amenity) (restaurant)	All In Burger
+35717	-23.6615593	-46.5248378	(amenity) (restaurant)	O Senador
+35721	-23.6616296	-46.5244192	(amenity) (restaurant)	Requinte do Sabor
+35729	-23.6527574	-46.5348497	(amenity) (restaurant)	Enio's
+35736	-23.654269	-46.5341433	(amenity) (restaurant)	Tratoria Bellusconi
+35754	-23.6410066	-46.5404358	(amenity) (restaurant)	Feijão de Corda
+35785	-23.5453194	-46.6384353	(amenity) (restaurant)	Bar dos Arcos
+35786	-23.6032707	-46.6910757	(amenity) (restaurant)	Estrela de Minas
+35788	-23.6034844	-46.690903	(amenity) (restaurant)	Mexicaníssimo
+35791	-23.6036353	-46.6915167	(amenity) (restaurant)	Seringueira
+35804	-23.5663518	-46.6799814	(amenity) (restaurant)	Mercearia do Conde
+35806	-23.2064992	-45.8950341	(amenity) (restaurant)
+35813	-23.4266634	-46.4834043	(amenity) (restaurant)	Cortes
+35817	-23.4324836	-46.520692	(amenity) (restaurant)	Pizzaria Teco
+35818	-23.4803936	-46.54012	(amenity) (restaurant)	Bimi Sushi
+35819	-23.4801217	-46.5356555	(amenity) (restaurant)	Potiguar Bar & Restaurante
+35859	-23.5390223	-46.2237459	(amenity) (restaurant)	Jolie Grill
+35873	-23.6913691	-46.5878829	(amenity) (restaurant)	Restaurante Feijão de Corda
+35922	-23.6181566	-46.7953009	(amenity) (restaurant)	Hamana Sushi
+35958	-23.5662162	-46.6958768	(amenity) (restaurant)	MICA
+35959	-23.5683256	-46.6629347	(amenity) (restaurant)	cabana
+35960	-23.5703075	-46.6979147	(amenity) (restaurant)	Butantã Grill
+36013	-23.5703611	-46.6982453	(amenity) (restaurant)	Bar e Restaurante Recando da Terra
+36042	-23.5672114	-46.7001793	(amenity) (restaurant)
+36045	-23.566478	-46.7001252	(amenity) (restaurant)	Eugenio
+36048	-23.5663019	-46.7001132	(amenity) (restaurant)	A Muqueca
+36058	-23.556383	-46.6875833	(amenity) (restaurant)	O Chá
+36059	-23.5564061	-46.687623	(amenity) (restaurant)	Cozinha
+36061	-23.5567187	-46.6881565	(amenity) (restaurant)	Van Der Ale
+36085	-23.6979112	-46.5540357	(amenity) (restaurant)	Bom Prato Dia e Noite de São Bernardo
+36128	-23.5704044	-46.6917963	(amenity) (restaurant)
+36138	-23.5665306	-46.6946969	(amenity) (restaurant)	Villa Coqueiro III
+36148	-23.5669078	-46.6964274	(amenity) (restaurant)	Trajano Grill
+36152	-23.56716	-46.6956886	(amenity) (restaurant)	Lanchonete Confrei
+36253	-23.8505582	-46.6683322	(amenity) (restaurant)	Bar do Bernadinho
+36260	-23.555414	-46.660552	(amenity) (restaurant)	Segredo de Minas
+36261	-23.5597844	-46.6350703	(amenity) (restaurant)	Lamen ASKA
+36285	-23.5513078	-46.6223169	(amenity) (restaurant)	Restaurante Edna
+36295	-23.5508361	-46.6224811	(amenity) (restaurant)	Sê Tu e Uma Benção
+36398	-23.50741	-46.59927	(amenity) (restaurant)	Pizzaria do Dudu
+36467	-23.558965	-46.6663254	(amenity) (restaurant)	Tappo Trattoria
+36482	-23.5067369	-46.6003142	(amenity) (restaurant)
+36500	-23.5408558	-46.5746041	(amenity) (restaurant)	Vegan Point
+36501	-23.54472	-46.6608075	(amenity) (restaurant)	PlantMade São Paulo
+36599	-23.5407089	-46.5953916	(amenity) (restaurant)	Roberto's
+36610	-23.5403771	-46.5952426	(amenity) (restaurant)	Décio
+36615	-23.5574391	-46.687892	(amenity) (restaurant)	Soho Restaurante
+36618	-23.5588081	-46.6880846	(amenity) (restaurant)	Dedo
+36685	-23.5590983	-46.6881081	(amenity) (restaurant)	Peixaria e Bar
+36690	-23.5575499	-46.6891678	(amenity) (restaurant)	Seu Domingos
+36696	-23.557797	-46.6896734	(amenity) (restaurant)	Mississipi Bar
+36697	-23.5578625	-46.6897813	(amenity) (restaurant)	Espaço Picuelta
+36747	-23.5626535	-46.6723202	(amenity) (restaurant)	Ristorantino
+36767	-23.5581534	-46.6902669	(amenity) (restaurant)
+36794	-23.5607319	-46.6908542	(amenity) (restaurant)	Riobaldo
+36804	-23.5964224	-46.6492975	(amenity) (restaurant)	Zapata
+36806	-23.5556254	-46.6467997	(amenity) (restaurant)	Portal da Fazenda
+36844	-23.5549249	-46.6896632	(amenity) (restaurant)	El Santissimo
+36865	-23.8476309	-46.6990265	(amenity) (restaurant)	Leishe
+36894	-23.6451241	-46.8419297	(amenity) (restaurant)
+36907	-23.5547366	-46.2135251	(amenity) (restaurant)	Sabor Caseiro
+36918	-23.5563788	-46.6872887	(amenity) (restaurant)
+36950	-23.5575276	-46.6895191	(amenity) (restaurant)	Seu Temaki
+36966	-23.5567804	-46.690875	(amenity) (restaurant)	Hirá Ramen Izakaya
+36972	-23.5561872	-46.6912987	(amenity) (restaurant)	Bar e Restaurante Cadeira da Vila
+36975	-23.5560673	-46.6913838	(amenity) (restaurant)	Papila Cozinha
+36976	-23.5550973	-46.6920633	(amenity) (restaurant)	Aldina
+36977	-23.9596943	-46.374292	(amenity) (restaurant)	Pizzaria Big
+36979	-23.9602573	-46.3748656	(amenity) (restaurant)	Premium Bar e Restaurante
+37015	-23.9527376	-46.3724254	(amenity) (restaurant)
+37026	-23.5560418	-46.6900481	(amenity) (restaurant)
+37028	-23.561962	-46.6922855	(amenity) (restaurant)	Gardênia Restô
+37043	-23.5536679	-46.6909686	(amenity) (restaurant)	Bambu Bar e Restaurante
+37060	-23.5595672	-46.6347333	(amenity) (restaurant)	Nikkey Restaurante
+37078	-23.5543032	-46.6914651	(amenity) (restaurant)	Cibo Cozinha
+37083	-23.5549688	-46.6909965	(amenity) (restaurant)
+37232	-23.5531335	-46.6879689	(amenity) (restaurant)	Originale Tratoria
+37295	-23.5243286	-46.3249329	(amenity) (restaurant)	Recanto Mineiro
+37311	-23.5827497	-46.8366404	(amenity) (restaurant)	Nori Yuki Sushi Bar
+37312	-23.5830653	-46.8367608	(amenity) (restaurant)	Vendinha
+37313	-23.5873771	-46.832632	(amenity) (restaurant)	Ser A Fim
+37314	-23.5870694	-46.8323889	(amenity) (restaurant)	João do Grão
+37345	-23.549301	-46.655126	(amenity) (restaurant)	Bye Jack Restaurante
+37591	-23.514521	-46.5882388	(amenity) (restaurant)	Bar e Restaurante Curuça
+37603	-23.6538311	-46.6895221	(amenity) (restaurant)	Ragazzo!
+37636	-23.5376636	-46.5729122	(amenity) (restaurant)
+37679	-23.5176322	-46.5450215	(amenity) (restaurant)	Pizzaria Quero Mais
+37684	-23.5444341	-46.5734743	(amenity) (restaurant)	Amigos Da Costela
+37685	-23.4969223	-46.5148848	(amenity) (restaurant)	Pizzaria Boa Noite
+37690	-23.582176	-46.6795451	(amenity) (restaurant)	Vaca Veijã
+37707	-23.6650088	-46.460669	(amenity) (restaurant)	All Parmegiana
+37709	-23.6654829	-46.4605162	(amenity) (restaurant)	Divino Fogão
+37712	-23.6651906	-46.4605081	(amenity) (restaurant)	Hashi
+37715	-23.6652962	-46.460551	(amenity) (restaurant)	Patroni
+37716	-23.6652815	-46.460256	(amenity) (restaurant)	Ragazzo
+37718	-23.6654362	-46.4601997	(amenity) (restaurant)	Frango Frito Classe A
+37723	-23.6653814	-46.460471	(amenity) (restaurant)	Spoleto
+37794	-23.5524247	-46.6777381	(amenity) (restaurant)	Du Chefe
+37821	-23.4455682	-46.9133793	(amenity) (restaurant)	Restaurante Um Bom Lugar
+37846	-23.552128	-46.6761511	(amenity) (restaurant)	Elba Grill
+37968	-23.5593631	-46.6666488	(amenity) (restaurant)	Losteria do Piero
+37996	-23.6294331	-46.7006682	(amenity) (restaurant)	Kalifa
+37998	-23.630053	-46.7002647	(amenity) (restaurant)
+38036	-23.5737016	-46.6887994	(amenity) (restaurant)	Carimã
+38054	-23.6976817	-46.5670435	(amenity) (restaurant)	O Alquimista
+38075	-23.5457161	-46.6516068	(amenity) (restaurant)	Villa Imperial
+38112	-23.6248505	-46.7015124	(amenity) (restaurant)	Mawari
+38113	-23.6249778	-46.7015119	(amenity) (restaurant)	Due Cuochi
+38114	-23.6249592	-46.7016793	(amenity) (restaurant)	Santo Grão
+38150	-23.4813957	-46.8882456	(amenity) (restaurant)	Pedra Branca
+38179	-23.5594959	-46.6687538	(amenity) (restaurant)
+38213	-23.19637	-45.8895291	(amenity) (restaurant)	Bravo Casa de Massas
+38218	-23.5576954	-46.6644005	(amenity) (restaurant)	All Day
+38219	-23.557646	-46.66446	(amenity) (restaurant)	Tux Panan
+38220	-23.5580148	-46.6640397	(amenity) (restaurant)	Tendai
+38223	-23.5398677	-46.6452206	(amenity) (restaurant)	Tasca do Arouche
+38224	-23.5398966	-46.6452556	(amenity) (restaurant)	Prazeres do Sul - Churrascaria
+38256	-23.6814897	-46.6527406	(amenity) (restaurant)	Bom Prato Missionaria, 3101
+38350	-23.5167568	-46.787851	(amenity) (restaurant)
+38353	-23.5167544	-46.7871804	(amenity) (restaurant)	Pastelaria Natale
+38355	-23.5167542	-46.7871038	(amenity) (restaurant)	Pizza Peg Leve
+38371	-23.5929845	-46.6750701	(amenity) (restaurant)	Piazza Di Martini
+38379	-23.4883501	-46.5498132	(amenity) (restaurant)	Pizza Hut
+38382	-23.4883728	-46.5494634	(amenity) (restaurant)	Spoleto
+38394	-23.2011341	-45.895817	(amenity) (restaurant)	Pizza Hut
+38404	-23.6998623	-46.5776212	(amenity) (restaurant)	Restaurante Clarita
+38445	-23.1881676	-45.8862321	(amenity) (restaurant)	Bocattino Box - SJC/Centro
+38452	-23.5616185	-46.6927889	(amenity) (restaurant)	Rancho do Serjão
+38585	-23.5877154	-46.7372994	(amenity) (restaurant)	Yazu
+38603	-23.4380534	-47.06403	(amenity) (restaurant)	Pedra Branca
+38653	-23.7869151	-46.5354134	(amenity) (restaurant)	Sharlon Pizzaria
+38669	-23.5329163	-46.6132942	(amenity) (restaurant)	Nova Telles
+38678	-23.5705462	-46.6550511	(amenity) (restaurant)	Micaela
+38720	-23.5540511	-46.6342468	(amenity) (restaurant)	Restaurante Gloria
+38754	-23.568964	-46.7146644	(amenity) (restaurant)	Sukiya
+38772	-23.5425521	-46.5705951	(amenity) (restaurant)	Rancho do Sul
+38811	-23.5960791	-46.8636406	(amenity) (restaurant)	Gramado Grill
+38838	-23.7189383	-46.5732161	(amenity) (restaurant)	Danilo's Restaurante
+38839	-23.7187757	-46.5732161	(amenity) (restaurant)	Restaurante e Costelaria Parrilla
+38860	-23.6763179	-46.7343796	(amenity) (restaurant)	Tchê Gaucho
+38918	-23.549429	-46.6834635	(amenity) (restaurant)	Vila Heitor O Costelone
+38940	-23.6379386	-46.6709958	(amenity) (restaurant)	Shinsei
+38954	-23.6206411	-46.6374917	(amenity) (restaurant)	Ramen K
+39032	-23.5437794	-46.5588419	(amenity) (restaurant)	Deia's Bar
+39039	-23.5293251	-46.6978136	(amenity) (restaurant)	Torta Urbana
+39046	-23.6419558	-46.6661873	(amenity) (restaurant)	Ponto da Esfiha
+39067	-23.7052895	-46.5528556	(amenity) (restaurant)	Pizza São Bernardo
+39082	-23.554419	-46.5561401	(amenity) (restaurant)	Florença
+39086	-23.7233945	-46.5745432	(amenity) (restaurant)	Recanto da Margarete & Marco Reis
+39203	-23.7095471	-46.5520937	(amenity) (restaurant)	Bar e Restaurante Arca de Noé
+39227	-23.7070028	-46.5682239	(amenity) (restaurant)	Pizzerie & Ristorante
+39275	-23.7177202	-46.5738017	(amenity) (restaurant)	Pizzaria Rafaello
+39281	-23.4918964	-46.5753352	(amenity) (restaurant)	Pare Bar
+39321	-23.6711868	-46.5046087	(amenity) (restaurant)	Tia Paula
+39322	-23.6736961	-46.5037769	(amenity) (restaurant)	Washi Sushi
+39323	-23.6696776	-46.5035298	(amenity) (restaurant)	Mineiro Delivery
+39384	-23.6688392	-46.5043029	(amenity) (restaurant)	Restaurante Brasileirinho
+39386	-23.6707531	-46.503798	(amenity) (restaurant)	Charles
+39387	-23.6689457	-46.5039074	(amenity) (restaurant)	Rocha
+39388	-23.6705316	-46.5015611	(amenity) (restaurant)	Tuchê
+39401	-23.4831343	-46.8832706	(amenity) (restaurant)	Casa do Norte
+39469	-23.54718	-46.5735205	(amenity) (restaurant)	Lounge Novelli Bar&
+39521	-23.6167619	-46.6317844	(amenity) (restaurant)	Pepperoni
+39531	-23.6263134	-46.6922227	(amenity) (restaurant)	Luzinete
+39536	-23.5635433	-46.6917973	(amenity) (restaurant)	Hashiro
+39546	-23.55822	-46.6733183	(amenity) (restaurant)	Clementina
+39549	-23.5383792	-46.6914416	(amenity) (restaurant)	Kanto Eclético
+39569	-23.5537063	-46.6353385	(amenity) (restaurant)	Casa de Massas Ponto China
+39570	-23.5557906	-46.6351321	(amenity) (restaurant)	Wok'n Roll
+39611	-23.5443986	-46.5918736	(amenity) (restaurant)
+39640	-23.5594885	-46.6684258	(amenity) (restaurant)	Carrito Organic Food
+39654	-23.5931525	-46.5466094	(amenity) (restaurant)	Lanchonete e Restaurante Larica's
+39659	-23.6714812	-46.5039919	(amenity) (restaurant)	Figueiredos
+39660	-23.6783789	-46.5007223	(amenity) (restaurant)	Restaurante Santo André
+39665	-23.5942526	-46.6748376	(amenity) (restaurant)	Zaatar Azeite
+39755	-23.5928064	-46.7893456	(amenity) (restaurant)	Águia de Ouro
+39768	-23.1587243	-47.2720994	(amenity) (restaurant)	Restaurante Na Fazenda
+39782	-23.5177992	-46.3478022	(amenity) (restaurant)	Califórnia
+39789	-23.7204104	-46.5723066	(amenity) (restaurant)	Grife da Pizza
+39795	-23.6680604	-46.537283	(amenity) (restaurant)	Domino's
+39810	-23.66247	-46.5386197	(amenity) (restaurant)	Babbo Raffaele
+39813	-23.6604197	-46.5379016	(amenity) (restaurant)	Mr. Hoppy
+39817	-23.6596364	-46.5369097	(amenity) (restaurant)	Smash
+39828	-23.6578703	-46.5346909	(amenity) (restaurant)	Chef da Vila
+39832	-23.6608976	-46.5324087	(amenity) (restaurant)	Temperati
+39858	-23.6682764	-46.538054	(amenity) (restaurant)	Kandai
+39909	-23.6378418	-46.522286	(amenity) (restaurant)	Espeto
+39991	-23.7418015	-46.6005901	(amenity) (restaurant)	Estrada da Pizza
+39996	-23.7396966	-46.5953567	(amenity) (restaurant)	Bia
+39999	-23.7353221	-46.5796144	(amenity) (restaurant)	Restaurante e Lanchonete Oliveiras
+40000	-23.7352639	-46.5796029	(amenity) (restaurant)	Bruno's Pizzaria
+40023	-23.7776244	-45.9701141	(amenity) (restaurant)	Villa das Ostras
+40024	-23.7772079	-45.9704276	(amenity) (restaurant)	Índia das Ostras
+40068	-23.6681654	-46.5088502	(amenity) (restaurant)	Giolly Gastronomia
+40069	-23.6679685	-46.5068865	(amenity) (restaurant)	Pizzaria Mamma Mia
+40076	-23.4929508	-46.6173865	(amenity) (restaurant)
+40122	-23.5580264	-46.6912976	(amenity) (restaurant)	Quincho
+40185	-23.4466514	-46.9138417	(amenity) (restaurant)	Taberna Conde de Monsanto
+40190	-23.5892968	-46.677381	(amenity) (restaurant)	NB Steak
+40218	-23.4462303	-46.9148951	(amenity) (restaurant)	Barto Pizza
+40219	-23.446035	-46.9150001	(amenity) (restaurant)	Restaurante Bartolomeu
+40224	-23.5267251	-46.7083758	(amenity) (restaurant)
+40250	-23.5032742	-46.6250363	(amenity) (restaurant)	Restaurante Bolinho de Bacalhau
+40267	-23.6023756	-46.6131062	(amenity) (restaurant)	Linha Verde Campeâo
+40278	-23.7146751	-46.551355	(amenity) (restaurant)	Restaurante Conecta Gourmet
+40314	-23.5043727	-46.6223752	(amenity) (restaurant)
+40329	-23.6191992	-46.7264973	(amenity) (restaurant)	Tião
+40352	-23.5339627	-46.704326	(amenity) (restaurant)	Yato Sushi
+40390	-23.5738497	-46.6512889	(amenity) (restaurant)	Rong He
+40393	-23.5284521	-46.6389485	(amenity) (restaurant)	Casa Búlgara
+40396	-23.528321	-46.6388932	(amenity) (restaurant)	Pho.366
+40409	-23.5334155	-46.6879926	(amenity) (restaurant)	Vó Landinha
+40468	-23.7016696	-46.5037337	(amenity) (restaurant)	Bar e Restaurante Isaias
+40473	-23.6921625	-46.5061058	(amenity) (restaurant)	Recanto Nordestino Bar e Restauirante
+40595	-23.6182196	-46.6359725	(amenity) (restaurant)	Acaizeiro
+40714	-23.1887759	-45.8746529	(amenity) (restaurant)	Irmãos Monteiro
+40903	-23.1888965	-45.8755647	(amenity) (restaurant)	Restaurante Vitória
+40916	-23.1884451	-45.8747151	(amenity) (restaurant)	Restaurante Paulista
+41026	-23.1900105	-45.8776113	(amenity) (restaurant)	M & G Cantina Paulista
+41036	-23.1897556	-45.8745251	(amenity) (restaurant)	Pizza Pré-Assada
+41155	-23.1902986	-45.87512	(amenity) (restaurant)
+41249	-23.1877798	-45.8750278	(amenity) (restaurant)	Gardênia
+41337	-23.5829656	-46.6501618	(amenity) (restaurant)	Academia de Gula
+41344	-23.5489375	-46.6437418	(amenity) (restaurant)	Restaurante Marajá
+41385	-23.5369962	-46.6191084	(amenity) (restaurant)
+41390	-23.5378133	-46.6364491	(amenity) (restaurant)	Jarras  Kop
+41392	-23.5378055	-46.6360708	(amenity) (restaurant)
+41403	-23.7034749	-46.5395307	(amenity) (restaurant)	Point do Espeto
+41420	-23.2171515	-45.9029868	(amenity) (restaurant)	Trattoria Mezzanino
+41421	-23.582866	-46.6076066	(amenity) (restaurant)	Zabeu
+41435	-23.5369278	-46.6355357	(amenity) (restaurant)	A Saloia Churrascaria
+41456	-23.5733326	-46.6448836	(amenity) (restaurant)	izakaya kokoro
+41513	-23.570721	-46.7097075	(amenity) (restaurant)	Vital Bar e Restaurante
+41524	-23.2017318	-45.8948517	(amenity) (restaurant)	A Margarida
+41526	-23.5540314	-46.5941667	(amenity) (restaurant)	Street Digital Burger
+41541	-23.3355839	-46.8386153	(amenity) (restaurant)	InfinityWeb
+41542	-23.2154116	-45.9066953	(amenity) (restaurant)	Pasq Cucina
+41556	-23.4999763	-46.6241608	(amenity) (restaurant)	Villa do kilo
+41744	-23.6229174	-46.569286	(amenity) (restaurant)	Bar e Restaurante Carrapateiros
+41760	-23.5471133	-46.3658206	(amenity) (restaurant)	Cozinha Piloto
+41928	-23.4879891	-46.81018	(amenity) (restaurant)
+41929	-23.1276904	-46.5539527	(amenity) (restaurant)	Tico's Pizzaria
+42033	-23.2048974	-45.8976471	(amenity) (restaurant)	Caseiríssimo
+42051	-23.5007848	-46.6009346	(amenity) (restaurant)	Dom Michello
+42077	-23.5006516	-46.6051271	(amenity) (restaurant)	Romanni Pizzaria
+42100	-23.5140836	-46.3403108	(amenity) (restaurant)	Rotisserie aop
+42154	-23.5780452	-46.6401812	(amenity) (restaurant)	Lanchonete Metrolândia
+42257	-23.4633827	-46.5268806	(amenity) (restaurant)	Pezzo di Pizza
+42262	-23.6591459	-46.5338234	(amenity) (restaurant)	Marie Refeições
+42547	-23.5604258	-46.6980741	(amenity) (restaurant)	Piu Restaurante
+42549	-23.5620522	-46.6981259	(amenity) (restaurant)	Kiloliba
+42574	-23.5622963	-46.6990414	(amenity) (restaurant)	Ymanashi
+42601	-23.5598	-46.6992044	(amenity) (restaurant)	Pecorino Bae e Restaurante
+42608	-23.5627066	-46.6923577	(amenity) (restaurant)	O Rigoletto Pizza Bar
+42635	-23.5617968	-46.692998	(amenity) (restaurant)
+42636	-23.561631	-46.6931296	(amenity) (restaurant)	La Manduca
+42645	-23.5632535	-46.6928925	(amenity) (restaurant)	Light And Joy
+42646	-23.5630455	-46.6925522	(amenity) (restaurant)	Bona
+42686	-23.5618764	-46.6966589	(amenity) (restaurant)	Dô
+42690	-23.5613621	-46.6978861	(amenity) (restaurant)	NOU
+42694	-23.5612716	-46.697729	(amenity) (restaurant)	Graxa
+42705	-23.5647063	-46.6991316	(amenity) (restaurant)	Det's
+42706	-23.5649023	-46.6991355	(amenity) (restaurant)	Restaurante Aconchego
+42715	-23.5606218	-46.7001445	(amenity) (restaurant)	Republica Gastronômica
+42728	-23.561697	-46.7001762	(amenity) (restaurant)	Dona Maria
+42729	-23.56	-46.6999299	(amenity) (restaurant)	Entrosa Bar e Restautante
+42730	-23.5607958	-46.6992189	(amenity) (restaurant)	Pitangueira
+42731	-23.5611338	-46.699225	(amenity) (restaurant)	Vi
+42743	-23.565333	-46.6995658	(amenity) (restaurant)	Restaurante de Gosto
+42754	-23.566107	-46.700075	(amenity) (restaurant)	Well'S
+42769	-23.5679874	-46.7002036	(amenity) (restaurant)	Restaurante Paes Leme
+42857	-23.645748	-46.5910107	(amenity) (restaurant)	Restaurante da Cicera
+42979	-23.187833	-45.8731591	(amenity) (restaurant)	JK Pizzaria
+42990	-23.7171862	-46.5790911	(amenity) (restaurant)	Bad Pizzaria
+43009	-23.557483	-46.6919625	(amenity) (restaurant)	Easy
+43010	-23.5556549	-46.6932592	(amenity) (restaurant)	Paladar da Vila
+43141	-23.96739	-46.3460036	(amenity) (restaurant)	country bar
+43168	-23.2719023	-45.936062	(amenity) (restaurant)	Pizza 1
+58060	-23.48442025	-46.864204349999994	(amenity) (restaurant)	Cachaçaria Água Doce
+68065	-23.32622275	-46.7510608	(amenity) (restaurant)	Churrascaria O Espetão
+72405	-23.64018445	-46.69864685	(amenity) (restaurant)	Fogo de Chão
+73056	-23.637610600000002	-46.6952339	(amenity) (restaurant)	Lanchonete Nova Adolfo
+73060	-23.63868815	-46.6959849	(amenity) (restaurant)	Restaurante Rico Sabor
+74771	-23.6394449	-46.697085	(amenity) (restaurant)	Lanchonete Adolpho Chic
+74772	-23.640154000000003	-46.697585149999995	(amenity) (restaurant)	Lanchonete Chave de Prata
+75145	-23.6366332	-46.69625465	(amenity) (restaurant)	Regis e Freitas
+76637	-23.7075121	-46.569648900000004	(amenity) (restaurant)	Pizzaria Ponto Com
+76645	-23.7075144	-46.5697646	(amenity) (restaurant)	Restaurante Alquimista
+86772	-23.5598279	-46.721148549999995	(amenity) (restaurant)	Restaurante Universitário Central
+87046	-23.5633979	-46.72562205	(amenity) (restaurant)	Restaurante Universitário da Química
+87356	-23.5606556	-46.7356137	(amenity) (restaurant)	Restaurante universitário Física
+90754	-23.55816955	-46.726305499999995	(amenity) (restaurant)	Restaurante da ECA
+90917	-23.5589756	-46.73971315	(amenity) (restaurant)	Restaurante universitário COCESP
+99196	-23.55719105	-46.7287955	(amenity) (restaurant)	Sweden's
+102144	-23.6659666	-46.780052749999996	(amenity) (restaurant)	Restaurante UNASP
+103966	-23.58108305	-46.73136465	(amenity) (restaurant)	Jeca Vila Gastronômica
+124173	-23.2649007	-47.281686300000004	(amenity) (restaurant)	Plaza Grill
+124616	-23.59815535	-46.650261650000004	(amenity) (restaurant)	Grill Hall
+124859	-23.616659650000003	-46.617535000000004	(amenity) (restaurant)	Choperia dos Compadres
+129591	-23.617855	-46.53848175	(amenity) (restaurant)	Hello Pizzaria
+130019	-23.19969615	-46.11866045	(amenity) (restaurant)	Restaurante
+138865	-23.5984459	-46.67919805	(amenity) (restaurant)	Praça São Lourenço
+146508	-23.1394898	-46.5760802	(amenity) (restaurant)	Agena Pastel
+146962	-23.161865149999997	-46.5724457	(amenity) (restaurant)	Frango Assado
+146963	-23.1326634	-46.57698575	(amenity) (restaurant)	Ultramarino
+147728	-24.185460499999998	-46.7884299	(amenity) (restaurant)	Restaurante Piano Mar
+148007	-23.98977045	-46.306820450000004	(amenity) (restaurant)	Churascaria Tertúria
+148501	-23.318187950000002	-46.58347755	(amenity) (restaurant)	Frigideira Paulista
+151115	-23.55890355	-46.6571984	(amenity) (restaurant)	Spot Paulista
+155895	-23.775872749999998	-46.53188230000001	(amenity) (restaurant)	Restaurante Flutuante
+155902	-23.2194274	-45.9102343	(amenity) (restaurant)	Golden
+157967	-23.68499445	-46.55880234999999	(amenity) (restaurant)	Berlin Costelaria
+158372	-23.6843645	-46.55912135	(amenity) (restaurant)	Tamagochi Sushi Garden
+158590	-23.3009908	-46.0159796	(amenity) (restaurant)	Frango Assado
+159120	-23.575322649999997	-46.6392911	(amenity) (restaurant)	Miradouro
+159499	-23.6018015	-46.662312099999994	(amenity) (restaurant)	Ibotirama 2007 Bar
+159874	-23.69258705	-46.55577315	(amenity) (restaurant)	Restaurante Kirin
+160595	-23.77609275	-46.53238005	(amenity) (restaurant)	Caravelas Restaurante Flutuante
+162654	-23.694435	-46.58188815	(amenity) (restaurant)	Na fazenda
+162658	-23.686156099999998	-46.6142719	(amenity) (restaurant)	Restaurante Vaz Gomes
+162670	-23.66987795	-46.559133450000004	(amenity) (restaurant)	Churrascaria Picanha de Ouro
+163270	-23.6028581	-46.614624750000004	(amenity) (restaurant)	Ragazzo
+163290	-23.696100350000002	-46.5678705	(amenity) (restaurant)	Espaço dos Sabores
+163309	-23.59728835	-46.6671282	(amenity) (restaurant)	Frutaria São Paulo
+163434	-23.72084155	-46.54984735	(amenity) (restaurant)	Tapera
+163640	-23.6905803	-46.558361649999995	(amenity) (restaurant)	Itoshii Sushi
+163696	-23.594752749999998	-46.64201215	(amenity) (restaurant)	Quiche & Cia
+164038	-23.68406285	-46.55882135	(amenity) (restaurant)	Pizzaria Bar Don Quixote
+165138	-23.68550645	-46.6158817	(amenity) (restaurant)	Restaurante Feijão de Corda V
+165648	-23.56965905	-46.7147403	(amenity) (restaurant)	Clube do Churrasco
+165809	-23.74397905	-46.5595364	(amenity) (restaurant)	Churrascaria Para Pedro
+166096	-23.57221905	-46.7122332	(amenity) (restaurant)	SP Diversoes
+166259	-23.661916499999997	-46.56493855	(amenity) (restaurant)	T.B. Victória
+166269	-23.6908541	-46.5672985	(amenity) (restaurant)	Paulo's Bar
+166331	-23.64241505	-46.5285121	(amenity) (restaurant)	Pizzaria Dom Castroni
+166500	-23.6812851	-46.59595645	(amenity) (restaurant)	Churrascaria Boiadeiro
+166627	-23.58643485	-47.17584255	(amenity) (restaurant)	Restaurante Fazenda Angolana
+166701	-23.18003965	-45.883747650000004	(amenity) (restaurant)	Bom Ambiente
+166922	-23.6500998	-46.61848115	(amenity) (restaurant)	Restaurante
+166930	-23.19182005	-45.889117850000005	(amenity) (restaurant)	Vila Velha
+167007	-23.57181795	-46.703733150000005	(amenity) (restaurant)	Butantan Food Park
+167143	-23.69188605	-46.555981599999996	(amenity) (restaurant)	São Bento Gastronomia & Cia
+167200	-23.69562285	-46.5531163	(amenity) (restaurant)	Barbatanas Peixe Bar
+167473	-23.46842455	-46.512324050000004	(amenity) (restaurant)	Churrascaria Carreteiro
+168240	-23.7179601	-46.5732413	(amenity) (restaurant)	Restaurante Sereia do Mar
+168387	-23.6852275	-46.558591	(amenity) (restaurant)	Yukusue
+168758	-23.61093175	-46.6955654	(amenity) (restaurant)	Rango's
+168979	-23.74103715	-46.554917	(amenity) (restaurant)	Restaurante São Francisco
+170170	-23.2027453	-45.880026400000006	(amenity) (restaurant)	Restaurante do COCTA
+170471	-23.21679075	-45.869835699999996	(amenity) (restaurant)	Cantina do IFI
+170792	-23.77828805	-46.5299904	(amenity) (restaurant)	Restaurante Raices
+171073	-23.642833600000003	-46.54011695	(amenity) (restaurant)	Garoupa
+171165	-23.6750236	-46.5403271	(amenity) (restaurant)	Pompéia Restaurante e Pizzaria
+171734	-23.15084355	-46.96104295	(amenity) (restaurant)	Lago Azul
+171735	-23.20511115	-46.92748555	(amenity) (restaurant)	Restaurante Graal
+171753	-23.2909851	-46.847852849999995	(amenity) (restaurant)	Frango Assado
+171755	-23.3354132	-46.8234643	(amenity) (restaurant)	Campeau
+171801	-23.3961382	-46.767488650000004	(amenity) (restaurant)	Campeão
+171802	-23.3507247	-46.79714095	(amenity) (restaurant)	Frango Assado
+172444	-23.703334050000002	-46.5513434	(amenity) (restaurant)	Sukuya Tókio Bowls & Noodles
+173769	-23.708762450000002	-46.55302895	(amenity) (restaurant)	China in Box
+174182	-23.5350851	-46.6827313	(amenity) (restaurant)	Pizzaria Turim Bella
+174307	-23.5419871	-46.629369499999996	(amenity) (restaurant)	Elidio Bar
+174309	-23.542061750000002	-46.629491849999994	(amenity) (restaurant)	Japa Loko
+174313	-23.5419286	-46.629343950000006	(amenity) (restaurant)	O Brasileirinho
+174316	-23.54149235	-46.62924145	(amenity) (restaurant)	Raffoul Filho Restaurante
+174339	-23.54169095	-46.629239150000004	(amenity) (restaurant)	Sala Vip
+174340	-23.5416247	-46.6292101	(amenity) (restaurant)	Terra Mar Restaurante
+174548	-23.7235168	-46.549268299999994	(amenity) (restaurant)	Quero +
+174608	-23.68589145	-46.6187428	(amenity) (restaurant)	Pérola Negra Pub e Restaurante
+175588	-23.179260149999998	-46.90744375	(amenity) (restaurant)	Gauchão Churrascaria e Pizzaria
+176068	-23.22239075	-45.86467075	(amenity) (restaurant)	Cantina X10
+179411	-23.17396425	-46.9144527	(amenity) (restaurant)	Churrascaria da Fazenda
+179544	-23.54460555	-46.64572165	(amenity) (restaurant)	Zdeli
+180797	-23.1294117	-46.9502313	(amenity) (restaurant)	Graal
+181816	-24.3164111	-46.991765799999996	(amenity) (restaurant)	Tarang
+181830	-23.56284805	-46.6761787	(amenity) (restaurant)	Bovinu?s Rebouças
+182138	-23.440674950000002	-46.449879249999995	(amenity) (restaurant)	Refeitorio
+182361	-23.1878929	-46.93072435	(amenity) (restaurant)	Lago Azul Restaurantes
+182658	-23.690355150000002	-46.5670578	(amenity) (restaurant)	Pizzaria Mangia Bene
+182727	-23.7071315	-46.569339150000005	(amenity) (restaurant)	Restaurante Armazém Dom Jaime
+182836	-23.2187837	-45.87996115	(amenity) (restaurant)	Restaurante Vaca Preta
+182897	-23.5324004	-46.68958805	(amenity) (restaurant)	Bodega do Farias
+183280	-23.2265761	-45.912360899999996	(amenity) (restaurant)	Fonseca's restaurante e lanchonete
+183420	-23.99655635	-46.27375925	(amenity) (restaurant)	Chapão Gaúco
+183429	-23.5219345	-46.6082301	(amenity) (restaurant)	Churrascaria Villas
+183467	-23.5920694	-46.620058900000004	(amenity) (restaurant)	Novilho de Prata
+184453	-23.1646218	-46.912898	(amenity) (restaurant)	Churrascaria Rei do Sul
+184497	-23.6781134	-46.6187264	(amenity) (restaurant)	Rede Frango Assado
+186681	-23.7765446	-46.530839400000005	(amenity) (restaurant)	Restaurante Estrela do Mar
+190037	-23.16850325	-47.00480975	(amenity) (restaurant)	Restaurante São Judas Tadeu Demarchi Jundiaí
+191130	-23.843018800000003	-46.577629599999995	(amenity) (restaurant)	Borsatto
+191143	-23.435982000000003	-47.0971545	(amenity) (restaurant)	Rancho 53
+192772	-23.706610400000002	-46.5502177	(amenity) (restaurant)	Restaurante Caramboré
+192775	-23.7109242	-46.5525483	(amenity) (restaurant)	Restaurante Nova Praça
+192788	-23.6011405	-46.681577950000005	(amenity) (restaurant)	Empório
+193211	-23.56494815	-46.741475449999996	(amenity) (restaurant)	Marellas
+194049	-23.572969450000002	-46.7206529	(amenity) (restaurant)	Jararacas
+194107	-23.4741269	-46.5299977	(amenity) (restaurant)	Guaru Center
+194951	-23.79058655	-46.53993749999999	(amenity) (restaurant)	Primu's Bar e Pizzaria
+195361	-24.02914195	-46.488926	(amenity) (restaurant)	Habibs
+195509	-23.55689405	-46.66412005	(amenity) (restaurant)	Tuela Grill
+196537	-23.69070945	-46.5592274	(amenity) (restaurant)	Santo Deus Rodízio Mexicano
+196839	-23.562256849999997	-46.73126355	(amenity) (restaurant)	Clube dos Professores
+196957	-23.549361249999997	-46.6579639	(amenity) (restaurant)	Mercearia do Francês
+197220	-23.21883675	-46.8788995	(amenity) (restaurant)	Churrascaria O Gaucho
+197480	-23.555110550000002	-46.6404507	(amenity) (restaurant)	H?mu
+197534	-23.531078200000003	-46.65477275000001	(amenity) (restaurant)	Casa do Norte
+197536	-23.53406615	-46.65447845	(amenity) (restaurant)	Oliveiras
+197944	-23.5939427	-46.68918545	(amenity) (restaurant)	The Fifties
+198204	-23.5711142	-46.6414784	(amenity) (restaurant)	Churrascaria Novilho de Prta
+200578	-23.6264685	-46.5759108	(amenity) (restaurant)	Restaurante Valderi
+200817	-23.574269299999997	-46.6503213	(amenity) (restaurant)	Sol do Paraíso
+201112	-23.58373195	-46.62745735	(amenity) (restaurant)	Elis
+201126	-23.57447865	-46.6377985	(amenity) (restaurant)	Pizzaria Bella Mama
+201617	-23.5951369	-46.6491971	(amenity) (restaurant)	Iceberg
+201651	-23.5988976	-46.63779935	(amenity) (restaurant)	Santa Cruz Lanchonete e Restaurante
+202502	-23.5588416	-46.6341744	(amenity) (restaurant)	Rong He
+202530	-23.5737258	-46.6329743	(amenity) (restaurant)	Lua Palace
+202545	-23.57129235	-46.6327431	(amenity) (restaurant)	Família Presto
+202949	-23.703289599999998	-46.55082005	(amenity) (restaurant)	Pague Menos
+203233	-23.7171077	-46.55036225	(amenity) (restaurant)	Lanconhete e Restaurante Nova Brasil
+203454	-23.55609645	-46.6566701	(amenity) (restaurant)	Coqueiro VII
+203556	-23.61466685	-47.040823450000005	(amenity) (restaurant)	Restaurante La Donne
+203846	-23.5816535	-46.47298565	(amenity) (restaurant)	Cozinha São Matheus
+203912	-23.66468485	-47.039608	(amenity) (restaurant)	Pizzaria Silva
+204793	-23.132932500000003	-46.85464375	(amenity) (restaurant)	Bar do Celso
+205325	-23.609562099999998	-46.637268250000005	(amenity) (restaurant)	Iroha
+205331	-23.6100378	-46.63678285	(amenity) (restaurant)	Cultura de Minas
+205336	-23.6099042	-46.63719045	(amenity) (restaurant)	Taiyoo
+205382	-23.61312445	-46.62935765	(amenity) (restaurant)	Pizzaría Clara Rafaela
+205405	-23.6016725	-46.6400115	(amenity) (restaurant)	Rittorna
+205417	-23.60958485	-46.6382032	(amenity) (restaurant)	Skualo's
+205423	-23.6139519	-46.633079699999996	(amenity) (restaurant)	Rotsserie Lysa
+205427	-23.62302615	-46.65226765	(amenity) (restaurant)	Graal
+205446	-23.60169595	-46.641131099999996	(amenity) (restaurant)	Rodízio de Hamburguer
+205950	-23.6156629	-46.7040457	(amenity) (restaurant)	Chef Benon
+205951	-23.6154128	-46.7045628	(amenity) (restaurant)	Golden Plaza
+206553	-23.531370600000002	-46.445593849999995	(amenity) (restaurant)	Espetinho Churoot´s
+207030	-23.49284485	-46.848633050000004	(amenity) (restaurant)	Restaurante Almanara
+207144	-23.71365805	-46.5453034	(amenity) (restaurant)	Big John Restaurante
+207183	-23.71375085	-46.54989065	(amenity) (restaurant)	Da Vince Café e Restaurante
+207488	-23.49669645	-46.70702665	(amenity) (restaurant)	Subway Lanches
+207489	-23.505497300000002	-46.705736	(amenity) (restaurant)	Ragazzo
+207672	-23.559565999999997	-46.6892218	(amenity) (restaurant)	Pizzaria Integrale
+207691	-23.5621679	-46.6937266	(amenity) (restaurant)	É José
+207699	-23.56597105	-46.69998885	(amenity) (restaurant)	Restaurante Villa Coqueiro II
+207769	-23.56688405	-46.69807555	(amenity) (restaurant)	Caxiri
+208044	-23.568052549999997	-46.700294150000005	(amenity) (restaurant)	Erva Doçe Bar e Restaurante
+208625	-23.7083036	-46.546119000000004	(amenity) (restaurant)	Bendita Esfihas e Kibes
+208727	-23.7171606	-46.549509549999996	(amenity) (restaurant)	Panda Restaurante
+208828	-23.711539799999997	-46.54856035	(amenity) (restaurant)	Pizzaria do Gino
+208848	-23.52932055	-46.6351842	(amenity) (restaurant)	Espetus BR
+209030	-23.717546650000003	-46.5483561	(amenity) (restaurant)	Nagar e Boshi Sushi
+209088	-23.4895664	-46.14464355	(amenity) (restaurant)	Restaurante Caipirado
+209163	-23.503793100000003	-46.1501849	(amenity) (restaurant)	Rancho da Traíra
+209729	-23.36046855	-46.075661600000004	(amenity) (restaurant)	Graal Market Guararema
+210080	-23.588515200000003	-46.6807103	(amenity) (restaurant)	Ráscal
+210285	-23.432200350000002	-46.41619715	(amenity) (restaurant)	Restaurante Sakamoto
+210488	-23.65315	-46.5350156	(amenity) (restaurant)	Restaurante Cappeletto D'Oro
+210491	-23.6529684	-46.534690600000005	(amenity) (restaurant)	Restaurante Aquario's
+210493	-23.6533895	-46.53478415	(amenity) (restaurant)	Vovó Nair Brisk
+211489	-23.7793917	-46.52992055	(amenity) (restaurant)	Fogão Divino
+211506	-23.53673985	-46.3012784	(amenity) (restaurant)	Habib's
+212195	-23.5489458	-46.58534205	(amenity) (restaurant)	Edu Pizza II
+212377	-23.803945499999998	-46.49289665	(amenity) (restaurant)	Restaurante Flutuante Netuno
+212495	-23.1475785	-46.5547209	(amenity) (restaurant)	Peixe Frito
+212534	-23.80226295	-46.0209002	(amenity) (restaurant)	Maremonti Riviera
+212733	-23.4588319	-46.05890615	(amenity) (restaurant)	Bistrô Luz
+212752	-23.45927795	-46.0592019	(amenity) (restaurant)	Al Mahata
+212797	-23.5527307	-46.599125799999996	(amenity) (restaurant)	Black Dog
+212798	-23.56100185	-46.60279595	(amenity) (restaurant)	da praça
+212811	-23.4511912	-46.06607365	(amenity) (restaurant)	Recanto do Convento
+212818	-23.626755199999998	-46.59685265	(amenity) (restaurant)	Nova SJC Reis
+213075	-23.386310549999997	-46.0542057	(amenity) (restaurant)	Mirante do Paraíba
+213209	-23.385363849999997	-46.057009199999996	(amenity) (restaurant)	Quinta da Freguesia
+213210	-23.38466585	-46.05740555	(amenity) (restaurant)	Maricota
+213226	-23.591180950000002	-46.61873345	(amenity) (restaurant)	Pastel Comilão
+213240	-23.60360795	-46.60429465	(amenity) (restaurant)	Churrascaria Esteio
+213455	-23.499626050000003	-46.74667705	(amenity) (restaurant)	Grill
+214376	-23.7414578	-46.55609265	(amenity) (restaurant)	Pingus
+214378	-23.74565595	-46.563800549999996	(amenity) (restaurant)	Restaurante Florestal
+214397	-23.6031827	-46.9087291	(amenity) (restaurant)	Restaurante Estrela do Sul
+214838	-23.705558099999998	-46.87477895	(amenity) (restaurant)	Churrascaria Caminho do Sul
+216300	-23.811360450000002	-46.48469135	(amenity) (restaurant)	Império do Peixe
+216592	-23.715002	-46.5527455	(amenity) (restaurant)	Restaurante e Lanchonete Rondhella
+216754	-23.96333815	-46.3436947	(amenity) (restaurant)	Restaurante Sideral Pizzaria
+217695	-23.94040085	-46.318443	(amenity) (restaurant)	Restaurante Bom Prato
+218059	-23.9791345	-46.3687503	(amenity) (restaurant)	Terraço Chopp Restaurante e Choperia
+218113	-23.78254045	-46.5067971	(amenity) (restaurant)	Rancho Recanto Mineiro
+218288	-23.94258615	-46.37569535	(amenity) (restaurant)	Restaurante Norte Sul
+218487	-23.96140305	-46.3217762	(amenity) (restaurant)	Sabor em Dobro
+218492	-23.96291075	-46.3235817	(amenity) (restaurant)	Maxim's Restaurante e Pizzaria
+218497	-23.96674	-46.3199364	(amenity) (restaurant)	Pitzaz Pizzas & Saladas
+219459	-23.14025635	-46.4570813	(amenity) (restaurant)	Vip Kids
+219461	-23.609755200000002	-47.1591199	(amenity) (restaurant)	Espaço Giullians / Boteco do Batata
+219508	-23.504074250000002	-47.11583225	(amenity) (restaurant)	Churrascaria
+220348	-23.5766943	-47.13925895	(amenity) (restaurant)	Quinta do Olivardo
+221610	-23.40979145	-46.316900849999996	(amenity) (restaurant)	Yakoi
+223892	-23.35077855	-46.1784962	(amenity) (restaurant)	Restaurante Aliança
+224310	-23.97057525	-46.3290012	(amenity) (restaurant)	Gotissô
+224407	-23.77999585	-46.53222705	(amenity) (restaurant)	Pizzaria Tchelo's
+225180	-23.13247485	-46.465679	(amenity) (restaurant)	Churrascaria do Gaúcho
+225226	-23.133507	-46.46954074999999	(amenity) (restaurant)	Cantinho da Pizza
+225386	-23.26235625	-45.9123064	(amenity) (restaurant)	Churraskilo Eldorado
+226390	-23.364787550000003	-46.22437755	(amenity) (restaurant)	Rancho da Pamonha
+228724	-23.5312439	-46.680382949999995	(amenity) (restaurant)	Perdizes Pizzaria
+228761	-23.54114685	-46.70014285	(amenity) (restaurant)	Habib's
+228941	-23.51327285	-46.68686365	(amenity) (restaurant)	Restaurante Dona JuJu
+229141	-23.60228585	-46.67057605	(amenity) (restaurant)	Bles Dor
+229142	-23.60183875	-46.66914765	(amenity) (restaurant)	Brooks
+229143	-23.6027335	-46.6710664	(amenity) (restaurant)	Gauleses
+229150	-23.60163655	-46.6689387	(amenity) (restaurant)	Boxixo Carioca
+229154	-23.60439065	-46.67112765	(amenity) (restaurant)	Ladrillo
+229156	-23.6083668	-46.6707646	(amenity) (restaurant)	Fifties
+229161	-23.603759349999997	-46.6721031	(amenity) (restaurant)	Issho
+229164	-23.5951797	-46.66888885	(amenity) (restaurant)	Zingapura
+229168	-23.59602755	-46.67063965	(amenity) (restaurant)	Restaurante Dona Maria
+229176	-23.5731981	-46.652674950000005	(amenity) (restaurant)	EKEKO - Salteñas e empanadas
+229352	-23.75512905	-46.5747173	(amenity) (restaurant)	Restaurante e Pizzaria Imigrantes
+230258	-23.4795577	-46.6730912	(amenity) (restaurant)	Esfiha Inajar
+230277	-23.48062265	-46.553341200000006	(amenity) (restaurant)	Kome Kieto
+231150	-23.7221543	-46.5439079	(amenity) (restaurant)	Restaurante Moqueca Capixaba e Petiscaria
+231875	-23.64479705	-46.5268486	(amenity) (restaurant)	Restaurante Universitário
+231944	-23.72911345	-46.57001605	(amenity) (restaurant)	Novara Pizzas e Esfihas
+232484	-23.23511765	-45.923332099999996	(amenity) (restaurant)	Restaurante
+233022	-23.5587436	-46.6358709	(amenity) (restaurant)	Break externo da Atento
+233136	-23.6124906	-47.155693150000005	(amenity) (restaurant)	Cantina da Tia Lina
+233153	-23.541763500000002	-46.7763781	(amenity) (restaurant)	Império da Costela
+233256	-23.5145998	-46.5426087	(amenity) (restaurant)	Ragazzo
+234283	-23.450802850000002	-46.59798255	(amenity) (restaurant)	Pizzaria Calamares
+234672	-23.5412028	-46.77693845	(amenity) (restaurant)	Kital Sushi Osasco
+234749	-23.450920449999998	-46.33380535	(amenity) (restaurant)	Bakery & Gourmet
+235793	-23.2164468	-45.90295025	(amenity) (restaurant)	Churraskilo Aquárius
+236304	-23.6165732	-46.74054195	(amenity) (restaurant)	Restaurante Sí Senõr
+236716	-23.75540675	-46.577832900000004	(amenity) (restaurant)	Restaurante Santo Antônio
+236737	-23.64443225	-46.6998989	(amenity) (restaurant)	Ventannas Restaurante
+236889	-23.6562979	-46.599937100000005	(amenity) (restaurant)	Restaurante China Buffet
+237088	-23.20046515	-45.9043147	(amenity) (restaurant)	Dom da Carne
+237154	-23.161178	-45.9076888	(amenity) (restaurant)	Restaurante do Laércio
+237234	-23.6167324	-46.55792045	(amenity) (restaurant)	Bico Fino
+237345	-23.6195934	-46.5559365	(amenity) (restaurant)	Mr. Hoppy
+237347	-23.61995225	-46.55593795	(amenity) (restaurant)	Naturê Gourmet
+237392	-23.9649432	-46.32220965	(amenity) (restaurant)	Seven Kings Burgers n Beers
+237734	-23.61995805	-46.552928699999995	(amenity) (restaurant)	Pianella Restaurante
+237736	-23.61977325	-46.5525875	(amenity) (restaurant)	Sumake Sushi
+238267	-23.6660803	-46.591623150000004	(amenity) (restaurant)	Lenine Bistro & Rotisserie
+239194	-23.6169351	-46.60194665	(amenity) (restaurant)	Restaurante Al Amirat
+239890	-23.15012555	-46.5560451	(amenity) (restaurant)	Veraci Pizzaria
+239901	-23.1335577	-46.5546719	(amenity) (restaurant)	Old Burger
+239904	-23.1342174	-46.55472975	(amenity) (restaurant)	Himawari
+239934	-23.13333325	-46.5546644	(amenity) (restaurant)	Iwata
+239936	-23.13595985	-46.554781399999996	(amenity) (restaurant)	Seo Dito Bar Gastronômico
+239939	-23.13668465	-46.5549186	(amenity) (restaurant)	Pizzaria Sinhá
+239954	-23.125419100000002	-46.5538574	(amenity) (restaurant)	Skina da Picanha
+239955	-23.137579000000002	-46.555213800000004	(amenity) (restaurant)	Sakamura
+240037	-23.6340187	-46.5642978	(amenity) (restaurant)	Mundo dos Sabores
+240244	-23.128819	-46.553667000000004	(amenity) (restaurant)	Villa's Restaurante
+240247	-23.1303412	-46.553529749999996	(amenity) (restaurant)	Viva Zapata
+240248	-23.130199349999998	-46.55396575	(amenity) (restaurant)	Gularejo
+240249	-23.130017600000002	-46.5539184	(amenity) (restaurant)	China in Box
+240251	-23.129843100000002	-46.55388895	(amenity) (restaurant)	Ferruccio Ristorante
+240362	-23.58551615	-46.61122655	(amenity) (restaurant)	Foodpark
+240367	-23.145702749999998	-46.5533887	(amenity) (restaurant)	Compostella Grill
+240544	-23.668081700000002	-46.582288750000004	(amenity) (restaurant)	Star Grill
+240686	-23.56880675	-46.64951515	(amenity) (restaurant)	Pizzaria Urca
+241272	-23.52569655	-47.13338215	(amenity) (restaurant)	Botequim Santo Divino
+241439	-23.40374405	-46.90292205	(amenity) (restaurant)	Restaurante Tereza
+241440	-23.60357165	-46.679433450000005	(amenity) (restaurant)	Restaurante Vegano Vaca Verde
+241650	-23.67928535	-46.6867477	(amenity) (restaurant)	Nonnas Paola
+241728	-23.60036195	-46.886058649999995	(amenity) (restaurant)	Churrascaria do 30
+241868	-23.682024900000002	-46.689919849999995	(amenity) (restaurant)	Buffet Piatto
+242163	-23.517032999999998	-46.1744288	(amenity) (restaurant)	Kirin Lamen
+242168	-23.70848515	-46.545629500000004	(amenity) (restaurant)	Padaria Nova Royal
+242307	-23.1325621	-46.55457925	(amenity) (restaurant)	Sushi
+243147	-23.65352805	-46.53210035	(amenity) (restaurant)	Madero Container
+243148	-23.62020125	-46.5556797	(amenity) (restaurant)	Madero Container
+243149	-23.62257925	-46.55650815	(amenity) (restaurant)	O Pirata
+243173	-23.616298	-46.554660999999996	(amenity) (restaurant)	Polly
+243190	-23.4664169	-46.466325	(amenity) (restaurant)	Restaurante e Lanchonete Cumbicenter
+243209	-23.7118324	-46.5638381	(amenity) (restaurant)	P17
+243210	-23.711814	-46.56334459999999	(amenity) (restaurant)	P17
+243229	-23.208956399999998	-46.8655324	(amenity) (restaurant)	Joy Pastelaria
+243256	-23.1455682	-46.92946475	(amenity) (restaurant)	Restaurante Mirante
+243258	-23.14667845	-46.92970225	(amenity) (restaurant)	Pizzaria Macerata
+243405	-23.2257988	-46.59840815	(amenity) (restaurant)	Gruta da Pamonha
+243406	-23.21414575	-46.5944244	(amenity) (restaurant)	Recanto da Pamonha
+243420	-23.1872801	-46.583858500000005	(amenity) (restaurant)	Rei da Linguiça
+243429	-23.236311399999998	-46.60145325	(amenity) (restaurant)	Restaurante Novo Horizonte
+243440	-23.20900975	-46.591402900000006	(amenity) (restaurant)	A Empadinha Buffet e Churrascaria
+243521	-23.283195	-46.587551250000004	(amenity) (restaurant)	Restaurante Ponto Certo
+243527	-23.292079100000002	-46.574189849999996	(amenity) (restaurant)	Graal
+243989	-23.5148187	-46.6320318	(amenity) (restaurant)	Churrascaria Anhembi
+244133	-23.47983635	-46.6483361	(amenity) (restaurant)	Lanchonete Irmãos 3 "K"
+244135	-23.4803268	-46.6480797	(amenity) (restaurant)	Food Truck Dog's
+244351	-23.721609649999998	-46.67116485	(amenity) (restaurant)	Vik Pizza
+244754	-23.2044277	-46.16273270000001	(amenity) (restaurant)	Restaurante Chaparral
+245009	-23.674148449999997	-46.74352005	(amenity) (restaurant)	espetinho por 2,00$
+245014	-23.653487300000002	-46.73661805	(amenity) (restaurant)	Feijão de corda
+245097	-23.6187294	-46.5528216	(amenity) (restaurant)	Amor e Sabor Restaurante
+245118	-23.64336295	-46.69971405	(amenity) (restaurant)	Bom de Gosto
+245193	-23.486708450000002	-46.5815793	(amenity) (restaurant)	Mocoto
+245438	-23.19761525	-45.88851785	(amenity) (restaurant)	Caldinho e Pizzaria São Dimas
+245815	-23.211235350000003	-45.963377449999996	(amenity) (restaurant)	Cantina FEAU
+246028	-23.753590600000003	-46.57447845	(amenity) (restaurant)	Capassi
+246922	-23.49544375	-46.887250550000005	(amenity) (restaurant)	Restaurante Venancio
+247186	-23.6228913	-46.56961325	(amenity) (restaurant)	Portuense
+247454	-23.20245025	-45.90050735	(amenity) (restaurant)	Auá Gastronomia
+247529	-23.2040139	-45.8939391	(amenity) (restaurant)	Casarão
+247535	-23.20543065	-45.8991149	(amenity) (restaurant)	Família Gaúcha
+247537	-23.20507215	-45.89746195	(amenity) (restaurant)	Due Bar e Bistô
+247604	-23.2024906	-45.892956999999996	(amenity) (restaurant)	Itali Genils
+247606	-23.204240499999997	-45.8927878	(amenity) (restaurant)	China in Box
+248574	-23.2316399	-45.9138947	(amenity) (restaurant)	Bar e Restaurante São Cristovam
+248880	-23.53718995	-46.2202093	(amenity) (restaurant)	Pizza House
+249000	-23.542032900000002	-46.7775783	(amenity) (restaurant)	São Martinho Pizzas
+249822	-24.01345585	-46.41053285	(amenity) (restaurant)	Paraiso
+249823	-24.0134671	-46.410283250000006	(amenity) (restaurant)	Terraço Paris
+250001	-23.195135450000002	-45.8901635	(amenity) (restaurant)	Carvalhos & Cia
+250003	-23.195400499999998	-45.89198025	(amenity) (restaurant)	Marbelle
+250094	-23.549347599999997	-46.7760284	(amenity) (restaurant)	Água Boa Restaurante e Churrascaria
+250159	-23.1908086	-45.891455300000004	(amenity) (restaurant)	Sukiya
+250241	-23.1977968	-45.891700400000005	(amenity) (restaurant)	Wa!
+250263	-23.203384999999997	-45.89909985	(amenity) (restaurant)	Bacco
+250308	-23.1996975	-45.8928152	(amenity) (restaurant)	Churraskilo
+250322	-23.200891650000003	-45.89565785	(amenity) (restaurant)	Yotsuia Sushi
+250326	-23.2000991	-45.894118649999996	(amenity) (restaurant)	Adissai
+250358	-23.22925215	-47.132057849999995	(amenity) (restaurant)	Armazém da Concórdia
+250399	-23.20611345	-45.888327849999996	(amenity) (restaurant)	Bahamas
+250496	-23.652007400000002	-46.57550165	(amenity) (restaurant)	Tendall Grill
+250508	-23.19714775	-45.89118005	(amenity) (restaurant)	Clara Grill
+252002	-23.18049175	-45.88353055	(amenity) (restaurant)	Harmony
+252427	-23.583036200000002	-46.810642099999995	(amenity) (restaurant)	Restaurante Bom Sabor
+252432	-23.3855319	-46.7334075	(amenity) (restaurant)	Casa Caieiras Pizza Bar
+252488	-23.44238095	-47.1109361	(amenity) (restaurant)	Casarão 54
+252652	-23.49790965	-46.81625845	(amenity) (restaurant)	Restaurante Chaplin
+252818	-23.4980941	-46.847029449999994	(amenity) (restaurant)	Outback Steakhouse
+253895	-23.6501828	-47.218187	(amenity) (restaurant)	Restaurante Quintal
+254112	-23.448301800000003	-46.43831335	(amenity) (restaurant)	Kombo
+254141	-23.30565465	-45.96803105	(amenity) (restaurant)	Hei Feng
+254408	-23.6985526	-46.6113069	(amenity) (restaurant)	Cantinho Nordestino
+254423	-23.53261925	-46.88029005	(amenity) (restaurant)	Restaurante e lanchonete Tunel da Ducha
+254449	-23.7000369	-46.61210685	(amenity) (restaurant)	Restaurante Farrancho
+254473	-23.20365215	-45.896891499999995	(amenity) (restaurant)	Al Badah
+254523	-23.71974325	-46.5255053	(amenity) (restaurant)	Amarelinho
+254524	-23.714179950000002	-46.53159585	(amenity) (restaurant)	Restaurante Esquina do Espetinho
+254525	-23.7143053	-46.53171245	(amenity) (restaurant)	Pizzaria Venezza
+254535	-23.513284749999997	-46.9041304	(amenity) (restaurant)	Grillarica Restaurante
+254581	-23.668423349999998	-46.5800158	(amenity) (restaurant)	Churrascaria Varandão
+254747	-23.204270299999997	-45.90176185	(amenity) (restaurant)	Krsna
+254814	-23.616125349999997	-46.5651121	(amenity) (restaurant)	Vivano Steak
+254818	-23.6166215	-46.56490785	(amenity) (restaurant)	Ragazzo
+254829	-23.2692435	-47.29597685	(amenity) (restaurant)	Vila Vegana
+254917	-23.59346705	-46.6747977	(amenity) (restaurant)	Ruella Bistrô
+254972	-23.1820807	-46.922504	(amenity) (restaurant)	Mauad Restaurante
+255064	-23.5374313	-46.668185699999995	(amenity) (restaurant)	Krystal Chopps
+255079	-23.19978505	-45.90451255	(amenity) (restaurant)	Frango & Rango
+255226	-23.6164337	-46.54782935	(amenity) (restaurant)	Restaurante Perdigão
+255474	-23.20567785	-45.88769725	(amenity) (restaurant)	Churraskilo
+255846	-23.5661706	-46.6993641	(amenity) (restaurant)	Nova Cavalheiro
+255852	-23.56849425	-46.69368815	(amenity) (restaurant)	Tembuí Restaurante
+256210	-23.48857045	-46.69341695	(amenity) (restaurant)	Lig Lig
+256258	-23.6647507	-46.7989549	(amenity) (restaurant)	Good Chicken
+256381	-23.215673549999998	-45.8946433	(amenity) (restaurant)	Nova Brescia
+256583	-23.18888875	-46.8921388	(amenity) (restaurant)	430 Gradi
+257314	-23.55172385	-46.75717985	(amenity) (restaurant)	Habbib's
+257316	-23.552411650000003	-46.7569971	(amenity) (restaurant)	Bella Napoli
+259112	-23.5184204	-46.6071943	(amenity) (restaurant)	Churrascaria Chimarrão
+259137	-23.6006213	-46.6830703	(amenity) (restaurant)	Jardineira Grill
+259153	-23.583643199999997	-46.57488705	(amenity) (restaurant)	Gojira Sushi Bar
+260024	-23.54622735	-46.231577200000004	(amenity) (restaurant)	Watanabe Pizzaria e Esfiharia
+260122	-23.197903850000003	-45.9045065	(amenity) (restaurant)	Mauá
+260389	-23.6291355	-46.70059835	(amenity) (restaurant)	Bar do Modesto
+261056	-23.5917513	-46.67798965	(amenity) (restaurant)	Boston House
+261057	-23.59390175	-46.6784741	(amenity) (restaurant)	Torta no Quintal
+261162	-23.18818715	-45.8863726	(amenity) (restaurant)	Bocattino Box - SJC/Centro
+261501	-23.73616505	-46.53513235	(amenity) (restaurant)	Pizzaria 360º
+261534	-23.47313345	-46.5543294	(amenity) (restaurant)	Restaurante & Cachaçaria Pé De Fava
+261839	-23.6763298	-46.734386349999994	(amenity) (restaurant)	Tchê Gaúcho
+261843	-23.680347400000002	-46.74299705	(amenity) (restaurant)	Sabor em pedaços
+261930	-23.7017895	-46.74595375	(amenity) (restaurant)	Dani cakes
+262053	-23.52499675	-46.3630432	(amenity) (restaurant)	Rei das Pizzas
+262080	-23.67764735	-46.5566065	(amenity) (restaurant)	Macaxeira Restaurante e Cachaçaria
+262086	-23.964852200000003	-46.2824555	(amenity) (restaurant)	Panela Velha
+262786	-23.6404991	-46.69626595	(amenity) (restaurant)	China Lake Restaurante
+263477	-23.350045700000003	-46.55651265	(amenity) (restaurant)	Graal
+264169	-23.21954005	-45.88644775	(amenity) (restaurant)	Demoiselle Pizzaria e Choperia
+265591	-23.7086459	-46.4077982	(amenity) (restaurant)	Rittorno
+265982	-23.39229425	-46.2850965	(amenity) (restaurant)	Rancho da Pamonha
+266006	-23.26702795	-45.9605784	(amenity) (restaurant)	Dragão
+266009	-23.265997499999997	-45.96176105	(amenity) (restaurant)	Dutra Grill Restaurante e Churrascaria
+266011	-23.262686799999997	-45.95616725	(amenity) (restaurant)	Parada Grill
+266014	-23.2635858	-45.9576532	(amenity) (restaurant)	Churrascaria Gramado
+268121	-23.5367863	-46.365848400000004	(amenity) (restaurant)	Skina da Pizza
+268460	-23.69361445	-46.61471225	(amenity) (restaurant)	Rei Do Churrasco
+268461	-23.6937736	-46.61470225	(amenity) (restaurant)	Heleno Pizzas
+269037	-23.552539	-46.598876950000005	(amenity) (restaurant)	Choró's
+269323	-23.19416555	-45.894841650000004	(amenity) (restaurant)	Restaurante Chinese House
+269340	-23.5472057	-46.2943237	(amenity) (restaurant)	Tempero da Roça
+269913	-23.52120545	-46.338937349999995	(amenity) (restaurant)	Container Beer
+269914	-23.521404099999998	-46.338887099999994	(amenity) (restaurant)	Pastéis Miyashiro
+269952	-23.56541365	-46.7000171	(amenity) (restaurant)	Bendito Seja
+270286	-23.66567775	-46.62016145	(amenity) (restaurant)	Restaurante Popular Campanário
+270291	-23.2332609	-45.9161431	(amenity) (restaurant)	Churrascaria São Jodas Tadeu
+270297	-23.2225438	-45.91165275	(amenity) (restaurant)	Prime Meat Grill
+270754	-23.23363295	-45.902045650000005	(amenity) (restaurant)	Restaurante e Pizzaria Artezanal
+270769	-23.231386399999998	-45.8701564	(amenity) (restaurant)	São Bento Churrascaria e Eventos
+271382	-23.27280335	-45.94578425	(amenity) (restaurant)	The Mano's Pizza

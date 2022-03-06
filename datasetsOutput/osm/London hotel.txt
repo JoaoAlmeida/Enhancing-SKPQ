@@ -1,0 +1,1341 @@
+198	50.9905	-0.825627	(tourism) (hotel)	Southdowns Hotel
+669	51.5284634	-0.6906026	(tourism) (hotel)	Taplow House Hotel
+1283	51.8864652	-0.2077666	(tourism) (hotel)	Novotel
+1390	51.75337	-0.3495819	(tourism) (hotel)	St Michael's Manor
+1442	51.0642206	-0.8360458	(tourism) (hotel)	Champneys Health Spa
+1627	51.4975442	-0.4558534	(tourism) (hotel)	Novotel
+1650	51.3429505	0.5082146	(tourism) (hotel)	Bridgewood Manor Hotel
+1690	51.4994407	-0.4542096	(tourism) (hotel)	Crowne Plaza
+1693	51.4943325	-0.4304935	(tourism) (hotel)	Comfort Hotel Heathrow
+1991	51.1572466	0.8807886	(tourism) (hotel)	Holiday Inn Ashford Central
+1997	51.1609342	0.8707769	(tourism) (hotel)	Travelodge, Ashford
+2052	51.4988226	-0.1376005	(tourism) (hotel)	Crowne Plaza London - St. James
+2053	51.5065936	-0.0734841	(tourism) (hotel)	The Tower - Guoman Hotels
+2511	51.2264726	-0.7227514	(tourism) (hotel)	Ramada Farnham
+2583	51.3687847	-0.6885973	(tourism) (hotel)	Premier Inn
+2825	51.2741221	-0.755926	(tourism) (hotel)	Holiday Inn Farnborough
+2847	51.4170299	0.0372264	(tourism) (hotel)	Sundridge Park hotel and conference Ctr
+2856	51.2357996	-0.1425052	(tourism) (hotel)	Nutfield Priory
+3043	51.4998993	0.3130894	(tourism) (hotel)	Park Inn
+3204	51.5868749	-0.5635593	(tourism) (hotel)	The Bull Hotel
+3248	51.5146111	-0.1566998	(tourism) (hotel)	DoubleTree by Hilton Hotel London - Marble Arch
+3405	51.566987	-0.7727951	(tourism) (hotel)	Compleat Angler
+3406	51.5710816	-0.7523723	(tourism) (hotel)	Crowne Plaza
+3417	51.4427184	-0.7133368	(tourism) (hotel)	Stirrups Country Hotel
+3418	51.4123543	-0.7064687	(tourism) (hotel)	The Royal Foresters Hotel
+3676	51.4238643	-1.0383662	(tourism) (hotel)	Travelodge Reading Westbound
+3782	51.525688	-0.077428	(tourism) (hotel)	Ace Hotel London Shoreditch
+3822	51.2418966	-0.2028082	(tourism) (hotel)	The Prince of Wales
+4017	51.0029908	-1.0025849	(tourism) (hotel)	Langrish House
+4038	51.4919364	-0.1419446	(tourism) (hotel)	easyHotel Victoria
+4126	51.478214	-0.3733906	(tourism) (hotel)	The Master Robert
+4292	51.8154073	-0.0348487	(tourism) (hotel)	The Roebuck Hotel
+4344	51.247416	-0.5834497	(tourism) (hotel)	Travelodge Guildford
+4389	51.4872647	-0.3832483	(tourism) (hotel)	Thorncliffe Hotel
+4454	51.7960716	-0.0778967	(tourism) (hotel)	Hertford House Hotel
+4462	51.7960145	-0.0775493	(tourism) (hotel)	Salisbury Arms Hotel
+4595	51.4177105	-0.1790682	(tourism) (hotel)	Holiday Inn Express
+4612	51.4139796	-0.1801989	(tourism) (hotel)	Premier Inn
+4717	51.734671	-0.3270801	(tourism) (hotel)	Sopwell House
+4812	51.389873	0.5035418	(tourism) (hotel)	The Kings Head Hotel
+4813	51.3891901	0.5043264	(tourism) (hotel)	The Gordon Hotel
+4838	51.1396999	-0.1843705	(tourism) (hotel)	Gatwick Manor
+4870	51.4988893	-0.1343829	(tourism) (hotel)	Jolly Hotel St. Ermins
+4943	51.2545184	-0.3217979	(tourism) (hotel)	Burford Bridge Hotel
+5152	51.1666639	-0.2410602	(tourism) (hotel)	Stanhill Court Hotel
+5179	51.181952	-0.1641614	(tourism) (hotel)	Chequers
+5183	51.1464793	-0.2456496	(tourism) (hotel)	Russ Hill Hotel
+5187	51.4191196	-0.7859381	(tourism) (hotel)	Travelodge Bracknell
+5350	51.186368	-0.1630307	(tourism) (hotel)	Days Hotel
+5394	51.1090307	-0.1982581	(tourism) (hotel)	Premier Inn
+5400	51.4685928	0.0095655	(tourism) (hotel)	The Clarendon
+5464	51.4877587	0.0314783	(tourism) (hotel)	The Antigallican
+5506	51.8126935	-0.3521935	(tourism) (hotel)	Harpenden House Hotel
+5582	51.4015924	-0.3008193	(tourism) (hotel)	The Antoinette
+5944	51.7570228	0.5239453	(tourism) (hotel)	The Grange
+6104	51.4030969	0.406551	(tourism) (hotel)	Inn on the Lake
+6190	51.2385087	-0.5545891	(tourism) (hotel)	Quinns Hotel
+6266	51.6812478	0.028221	(tourism) (hotel)	Marriot Waltham Abbey
+6304	51.7818004	0.0483957	(tourism) (hotel)	Briggens House Hotel
+6371	51.3735476	-0.4153419	(tourism) (hotel)	Ashley Park Hotel
+6429	51.5297557	-0.1224147	(tourism) (hotel)	Crestfield Hotel
+6430	51.5302618	-0.1229357	(tourism) (hotel)	Kings Cross Inn Hotel
+6698	51.2715769	0.5247389	(tourism) (hotel)	Stone Court Hotel
+6835	51.4944034	-0.1417547	(tourism) (hotel)	Victoria Park Plaza
+6996	51.3127223	0.859816	(tourism) (hotel)	Syndale Park Motel
+7325	51.2371432	-0.5035905	(tourism) (hotel)	Manor House Hotel
+7856	51.3617505	-0.1966293	(tourism) (hotel)	Holiday Inn
+7870	51.8576372	-1.1149228	(tourism) (hotel)	Tally Ho
+7922	51.5462376	-0.8097652	(tourism) (hotel)	The Olde Bell
+7936	51.9626168	-0.2299013	(tourism) (hotel)	Letchworth Hall Hotel
+7939	51.9246314	-0.2449757	(tourism) (hotel)	Redcoats Farmhouse Hotel
+7961	51.2792299	-1.102103	(tourism) (hotel)	Apollo Hotel
+8019	51.7691338	-0.6281345	(tourism) (hotel)	Champneys Tring
+8023	51.492744	-0.2508727	(tourism) (hotel)	Chiswick Hotel
+8042	51.185269	0.8176243	(tourism) (hotel)	Premier Inn
+8045	51.1877401	0.8126946	(tourism) (hotel)	Holiday Inn
+8072	51.5588574	0.042432	(tourism) (hotel)	Courtney Hotel
+8166	51.32398	-0.2677041	(tourism) (hotel)	Chalk Lane Hotel
+8178	51.486375	-0.0843308	(tourism) (hotel)	The Hour Glass
+8340	51.3647626	-0.2350237	(tourism) (hotel)	Nonsuch Park Hotel
+8473	51.3219285	-0.5497315	(tourism) (hotel)	The Maybury Lodge Hotel
+8702	51.5361775	0.0075822	(tourism) (hotel)	The King's Head (now a hotel)
+8706	51.3568421	-0.1832416	(tourism) (hotel)	Albion Hotel
+8838	51.4509183	-0.2995425	(tourism) (hotel)	The Petersham Hotel
+8850	51.7554693	-0.428322	(tourism) (hotel)	Holiday Inn
+8866	51.5044583	-0.0331578	(tourism) (hotel)	Hilton London Docklands Riverside
+8889	51.742006	-0.4969755	(tourism) (hotel)	Boxmoor Lodge Hotel
+8918	51.2953629	-0.329158	(tourism) (hotel)	Travelodge
+8949	51.5321106	-0.1094659	(tourism) (hotel)	DoubleTree by Hilton Hotel London - Islington
+8950	51.5198739	-0.1432064	(tourism) (hotel)	Astor Court
+9035	51.490333	-0.138557	(tourism) (hotel)	Sidney Hotel
+9090	51.5118489	-0.0111672	(tourism) (hotel)	George IV
+9136	51.49055	-0.138318	(tourism) (hotel)	Huttons Hotel
+9154	51.490678	-0.138529	(tourism) (hotel)	Victor Hotel
+9155	51.490747	-0.138673	(tourism) (hotel)	Luna Simone Hotel
+9156	51.490787	-0.138809	(tourism) (hotel)	Lidos Hotel
+9157	51.4908254	-0.1388947	(tourism) (hotel)	Pimlico Inn
+9175	51.6032893	0.0108502	(tourism) (hotel)	The County Hotel
+9214	51.4925292	-0.1453529	(tourism) (hotel)	Ivy House Hotel
+9215	51.4924811	-0.145413	(tourism) (hotel)	Holly House Hotel
+9217	51.492246	-0.1457306	(tourism) (hotel)	Cedar Guest House
+9218	51.4921926	-0.1457907	(tourism) (hotel)	Alexandar House Hotel
+9219	51.4919628	-0.146031	(tourism) (hotel)	Comfort Inn
+9220	51.4930476	-0.1443144	(tourism) (hotel)	Comfort Inn Victoria
+9221	51.4921231	-0.145825	(tourism) (hotel)	Annexe Hotel
+9222	51.491831	-0.1417585	(tourism) (hotel)	Dover Hotel
+9223	51.4918652	-0.1418351	(tourism) (hotel)	Calvados Hotel
+9224	51.4908678	-0.1389894	(tourism) (hotel)	Central House Hotel
+9244	51.490223	-0.138658	(tourism) (hotel)	Romanos Hotel
+9245	51.4901228	-0.1387816	(tourism) (hotel)	Melita Hotel
+9327	51.8163108	0.6674911	(tourism) (hotel)	Rivenhall Hotel
+9632	51.2355447	-0.5737884	(tourism) (hotel)	Angel Posting House & Livery
+9775	51.2852328	0.5309317	(tourism) (hotel)	Russell Hotel
+9980	51.1873901	-0.1642409	(tourism) (hotel)	Cambridge
+10188	51.2691263	-1.0884401	(tourism) (hotel)	Great Western Hotel
+10742	51.5291745	-0.1369244	(tourism) (hotel)	Thistle Euston
+10743	51.5278716	-0.1354309	(tourism) (hotel)	IBIS Euston
+10937	51.3038306	-0.7214244	(tourism) (hotel)	Lakeside Country Club
+10940	51.551377	-0.8703599	(tourism) (hotel)	Flower Pot Hotel
+10962	51.2763045	-0.3874781	(tourism) (hotel)	Preston Cross Hotel
+10994	51.3130158	-0.2594057	(tourism) (hotel)	Holiday Inn Express
+11003	51.4412369	-0.3327409	(tourism) (hotel)	The Pope's Grotto
+11047	51.8565718	-0.4797103	(tourism) (hotel)	Premier Inn
+11052	51.8290116	-0.4446783	(tourism) (hotel)	Holiday Inn
+11085	51.4984689	-0.1433358	(tourism) (hotel)	Rubens Hotel
+11088	51.515473	-0.1570192	(tourism) (hotel)	The Churchill
+11092	51.5221338	-0.1640667	(tourism) (hotel)	Travelodge - London Marylebone
+11093	51.5241093	-0.1608709	(tourism) (hotel)	Four Seasons Hotel
+11103	51.2391672	-0.5645113	(tourism) (hotel)	Mandolay Hotel
+11135	50.9611084	-0.7740392	(tourism) (hotel)	Park House Hotel
+11199	51.5243225	-0.1283055	(tourism) (hotel)	Hotel Tavistock
+11200	51.5207075	-0.1235907	(tourism) (hotel)	Bedford Hotel
+11202	51.520684	-0.1228137	(tourism) (hotel)	Bloomsbury Park Hotel
+11234	51.2136246	-0.8028484	(tourism) (hotel)	Bishops Table
+11262	51.2152546	-0.7974981	(tourism) (hotel)	The Bush Hotel
+11281	51.8435172	0.7322559	(tourism) (hotel)	Prested Hall
+11304	51.2896588	-0.3900996	(tourism) (hotel)	Bookham Grange Hotel
+11308	51.4956531	-0.1893187	(tourism) (hotel)	The Park City Kensington
+11564	51.0910187	0.689634	(tourism) (hotel)	Little Silver Country Hotel
+11565	51.0906601	0.6890162	(tourism) (hotel)	Best Western
+11577	51.526395	-0.129567	(tourism) (hotel)	County Hotel
+11578	51.5276532	-0.1273678	(tourism) (hotel)	Mabeldon Court Hotel
+11579	51.5260651	-0.1261571	(tourism) (hotel)	Harlingford Hotel
+11839	51.4924554	-0.1785604	(tourism) (hotel)	Regency Hotel
+11863	51.5403595	-0.146078	(tourism) (hotel)	Holiday Inn
+11892	51.5128624	-0.1837817	(tourism) (hotel)	The Blakemore
+11893	51.5139304	-0.1841172	(tourism) (hotel)	Holiday House Hotel
+12230	51.451654	-0.2971637	(tourism) (hotel)	Richmond Hill Hotel
+12231	51.4512154	-0.2966916	(tourism) (hotel)	Richmond Gate Hotel
+12397	51.6699396	-0.1572604	(tourism) (hotel)	West Lodge Hotel
+12546	51.5001038	-0.1614634	(tourism) (hotel)	Capital Hotel
+12547	51.5000884	-0.1601195	(tourism) (hotel)	Millenium Hotel
+12659	51.5225673	-0.0868331	(tourism) (hotel)	Travelodge
+12781	51.2618016	-0.4304857	(tourism) (hotel)	Ramada
+12787	51.1969895	0.2755591	(tourism) (hotel)	The Rose and Crown
+12816	51.2688304	0.5061247	(tourism) (hotel)	Grange Park Hotel
+12855	51.3066394	0.4240479	(tourism) (hotel)	Castle Lake
+12865	51.2870871	0.49083	(tourism) (hotel)	Premier Inn
+12965	51.5201101	-0.12213	(tourism) (hotel)	DoubleTree by Hilton Hotel London - West End
+13381	51.812363	0.1157671	(tourism) (hotel)	Manor Of Groves
+13389	51.3464726	-0.315857	(tourism) (hotel)	Premier Inn
+13399	51.3288299	-0.2715472	(tourism) (hotel)	Premier Inn
+13425	51.264772	-0.4301921	(tourism) (hotel)	Horsley Park
+13475	51.4489051	-0.9927474	(tourism) (hotel)	Bath Hotel
+13488	51.4736543	-1.034586	(tourism) (hotel)	The Roebuck Hotel
+13507	51.4547336	-0.9702105	(tourism) (hotel)	The George Hotel
+13516	51.4527231	-0.9951985	(tourism) (hotel)	Abbey House Hotel
+13803	51.1494806	0.8721089	(tourism) (hotel)	The George Hotel
+14060	51.6647888	-0.3985432	(tourism) (hotel)	Holiday Inn Express
+14170	51.5244294	-0.076243	(tourism) (hotel)	Boundary
+14521	51.5894793	-0.5520055	(tourism) (hotel)	Ethorpe Hotel
+14555	51.5053239	-0.0990338	(tourism) (hotel)	Mercure London Bridge
+14556	51.4945761	-0.1183966	(tourism) (hotel)	Novotel Waterloo
+14573	51.2544833	-1.0861422	(tourism) (hotel)	The Copper Beeches Hotel
+14762	51.4242639	-0.2292406	(tourism) (hotel)	Cannizaro Park Hotel
+14765	51.359454	-0.2074197	(tourism) (hotel)	Thatched House Hotel
+14905	51.5083078	-0.124767	(tourism) (hotel)	Thistle Hotel Charing Cross
+14931	51.5013601	-0.1160331	(tourism) (hotel)	Park Plaza
+15135	51.4321197	0.7981914	(tourism) (hotel)	The Abbey Hotel
+15248	51.4934236	-0.2058463	(tourism) (hotel)	Olympia Rooms
+15481	51.491409	-0.200338	(tourism) (hotel)	Beaver Hotel
+15485	51.49026	-0.1989118	(tourism) (hotel)	York House Hotel
+15487	51.4934282	-0.1961452	(tourism) (hotel)	James Hotel
+15513	51.7916983	-0.1066177	(tourism) (hotel)	White Horse Hotel
+15710	51.6603702	-0.0981505	(tourism) (hotel)	Comfort Hotel (closed)
+15771	51.7285353	-0.526826	(tourism) (hotel)	Bobsleigh Hotel and Restaurant
+16078	51.5851527	-0.1155848	(tourism) (hotel)	White Lodge Hotel
+16298	51.5976997	-0.5104398	(tourism) (hotel)	Denham Grove
+16314	51.5156254	-0.1759924	(tourism) (hotel)	Hilton London Paddington Hotel
+16598	51.2793048	-0.7548874	(tourism) (hotel)	Aviator
+16599	51.281761	-0.752737	(tourism) (hotel)	Falcon Hotel
+16717	51.7161396	-1.0917203	(tourism) (hotel)	Le Manoir aux Quat'Saisons
+16746	51.3936864	-0.3033492	(tourism) (hotel)	Bosco Hotel & Lounge
+16761	51.5183364	-0.1280954	(tourism) (hotel)	Gresham Hotel
+16762	51.5180631	-0.1276682	(tourism) (hotel)	Morgan Hotel
+16908	51.3022757	0.1604147	(tourism) (hotel)	Donington Manor Hotel
+16972	51.5202132	-0.1303257	(tourism) (hotel)	Staunton Hotel
+17155	51.565907	-0.102124	(tourism) (hotel)	Queens Hotel
+17156	51.5660169	-0.1019716	(tourism) (hotel)	Pembury Hotel
+17157	51.5655921	-0.1014279	(tourism) (hotel)	Gloucester Hotel
+17160	51.5636052	-0.0982132	(tourism) (hotel)	Brownswood Guest House
+17363	51.546004	-0.2189896	(tourism) (hotel)	Brondesbury Park Hotel
+17405	51.2661803	0.1934839	(tourism) (hotel)	The Royal Oak Hotel
+17427	51.1631602	0.8701241	(tourism) (hotel)	Premier Inn
+17441	51.2780401	0.1835084	(tourism) (hotel)	The Moorings Hotel
+17577	51.5528972	-0.8235857	(tourism) (hotel)	Danesfield House Hotel and Spa
+17637	51.5517211	-0.2096644	(tourism) (hotel)	Seafield Lodge
+17642	51.8110961	-0.1650973	(tourism) (hotel)	Tewin Bury Farm Hotel
+17729	51.6408163	-0.4737035	(tourism) (hotel)	Long Island Exchange
+17734	51.5142404	-0.3192305	(tourism) (hotel)	The Drayton Court Hotel
+17759	51.7087947	-0.3359986	(tourism) (hotel)	Moor Mill
+17842	51.2377213	-0.5547409	(tourism) (hotel)	Danes Court Hotel
+17853	51.5174483	-0.1304949	(tourism) (hotel)	St Giles Hotel
+17867	51.7211963	-0.3650383	(tourism) (hotel)	Thistle St Albans
+18069	51.5179303	-0.1424688	(tourism) (hotel)	Saint Georges Hotel
+18119	51.4069852	0.0267737	(tourism) (hotel)	Tamasha
+18425	51.1228525	0.2253686	(tourism) (hotel)	High Rocks
+18431	51.5297301	-0.1239797	(tourism) (hotel)	Megaro Hotel
+18517	51.5376776	-0.9057434	(tourism) (hotel)	Milsoms Hotel
+18538	51.539023	-0.9018503	(tourism) (hotel)	Hotel du Vin & Bistro
+18543	51.5378103	-0.901195	(tourism) (hotel)	The Red Lion Hotel
+18570	51.5263468	-0.1134575	(tourism) (hotel)	Holiday Inn
+18608	51.3968319	0.0591447	(tourism) (hotel)	Bickley Manor Hotel and Restaurant
+18706	51.5293476	-0.1219027	(tourism) (hotel)	Howard Winchester
+18707	51.5292504	-0.1218055	(tourism) (hotel)	European Hotel
+18708	51.5290388	-0.1215913	(tourism) (hotel)	Hotel Montana
+18709	51.5289068	-0.1214553	(tourism) (hotel)	Elmwood Hotel
+18710	51.1346632	0.2586545	(tourism) (hotel)	The Royal Wells Hotel
+18743	51.4907907	-0.1450015	(tourism) (hotel)	The Grapevine
+18744	51.4908271	-0.1448761	(tourism) (hotel)	Olympic House Hotel
+18765	51.5300868	-0.1203379	(tourism) (hotel)	Travelodge
+18837	51.530409	-0.1222049	(tourism) (hotel)	Carlton Hotel
+18839	51.5303289	-0.1221277	(tourism) (hotel)	Rough Laxe
+18840	51.5300565	-0.1218616	(tourism) (hotel)	Carlisle Hotel
+18841	51.529907	-0.1216299	(tourism) (hotel)	Clifton Hotel
+18849	51.4908436	-0.1441643	(tourism) (hotel)	Elizabeth House
+18850	51.4906898	-0.1446095	(tourism) (hotel)	Bankers Hotel
+18852	51.4908062	-0.1440098	(tourism) (hotel)	Airways Hotel
+18886	51.5231059	-0.1269058	(tourism) (hotel)	Hotel Royal National
+18975	51.1306599	0.2465053	(tourism) (hotel)	The Spa Hotel
+18981	51.503262	-0.6834217	(tourism) (hotel)	Monkey Island Hotel
+19020	51.523486	-0.7031431	(tourism) (hotel)	Thames Riviera Hotel
+19535	51.5202064	-0.1240489	(tourism) (hotel)	Lonsdale Hotel
+19536	51.5199748	-0.1237817	(tourism) (hotel)	The Lancaster
+19543	51.51743	-0.1295515	(tourism) (hotel)	Cheshire
+19566	51.447154	0.218461	(tourism) (hotel)	The Railway Hotel
+19692	51.444297	0.217012	(tourism) (hotel)	The Royal Victoria & Bull Hotel
+19715	51.4973611	-0.1562075	(tourism) (hotel)	Sheraton Belgravia
+20006	51.5152781	-0.1593618	(tourism) (hotel)	The Montcalm Hotel Nikko
+20008	51.5155213	-0.1605355	(tourism) (hotel)	Berkeley Court Hotel
+20009	51.5154778	-0.160789	(tourism) (hotel)	The Hadleigh Hotel
+20010	51.515442	-0.1610345	(tourism) (hotel)	Boston Court Hotel
+20013	51.51516	-0.161579	(tourism) (hotel)	Marble Arch Inn
+20015	51.5157145	-0.1602317	(tourism) (hotel)	Glynne Court Hotel
+20036	51.5113029	-0.1426186	(tourism) (hotel)	The Westbury
+20190	51.180548	-0.1483456	(tourism) (hotel)	Langshott Manor Hotel
+20343	51.57297	-0.0706834	(tourism) (hotel)	Kadimah
+20350	51.241802	-0.7662919	(tourism) (hotel)	Heavenly Lodge Hotel
+20351	51.2420907	-0.7696679	(tourism) (hotel)	Redwood Hotel
+20466	51.4106695	0.3788875	(tourism) (hotel)	Best Western
+20467	51.4108628	0.3776228	(tourism) (hotel)	Premier Inn
+20489	51.51258	-0.1508695	(tourism) (hotel)	Marriott
+20518	51.1919904	-0.447165	(tourism) (hotel)	Hurtwood Inn Hotel
+20607	51.7257334	0.4616982	(tourism) (hotel)	South Lodge Hotel
+20627	51.5700523	-0.0963959	(tourism) (hotel)	Cloudesley House
+20628	51.569996	-0.0964787	(tourism) (hotel)	Redland Hotel
+20630	51.5698537	-0.0966468	(tourism) (hotel)	Kent Hall
+20631	51.5669314	-0.1005194	(tourism) (hotel)	Lanark Hotel
+40217	51.4919243	-0.1684868	(tourism) (hotel)	MyHotel
+40267	51.2624739	-1.0850023	(tourism) (hotel)	Red Lion
+40316	51.7269195	0.4804873	(tourism) (hotel)	Travelodge
+40472	51.7164887	-1.0917744	(tourism) (hotel)	Le Manoir Aux Quat'Saisons
+40476	51.2990608	0.4390168	(tourism) (hotel)	Larkfield Priory Hotel
+40486	51.2528415	0.632884	(tourism) (hotel)	Park Gate Inn
+40489	51.2666225	0.5873122	(tourism) (hotel)	Tudor Park Hotel
+40529	51.2809895	-0.9616578	(tourism) (hotel)	The Raven
+40532	51.3014477	-0.8796285	(tourism) (hotel)	The Elvetham
+46144	51.1135889	-0.730646	(tourism) (hotel)	Devil's Punchbowl Hotel
+46195	51.4837715	-0.5795376	(tourism) (hotel)	The Manor Hotel
+46209	51.2451514	-1.0827034	(tourism) (hotel)	Audleys Wood
+46372	51.2496414	-0.7663833	(tourism) (hotel)	The Trafalgar Hotel
+46384	51.2498603	-0.7677011	(tourism) (hotel)	The Queen Hotel
+46409	51.501709	-0.1188586	(tourism) (hotel)	London Marriott Hotel County Hall
+46513	51.2542733	-0.9397711	(tourism) (hotel)	The George Hotel
+46609	51.3978611	0.5009347	(tourism) (hotel)	South Eastern Hotel (Closed)
+46643	51.7467265	-0.9775839	(tourism) (hotel)	The Spread Eagle
+46658	51.0333405	0.8157909	(tourism) (hotel)	The Railway Hotel
+46667	51.5059548	-0.1491165	(tourism) (hotel)	Park Lane Mews Hotel
+46689	51.2742975	-0.9825589	(tourism) (hotel)	Barcelo Basingstoke Country Hotel
+46782	51.3114364	-0.6564777	(tourism) (hotel)	Bisley Pavillion Hotel
+47348	51.512657	-0.1476217	(tourism) (hotel)	Claridges
+47476	51.4950123	-0.1413006	(tourism) (hotel)	Station Hotel
+58697	51.5064449	-0.1456241	(tourism) (hotel)	Hilton London Green Park Hotel
+58698	51.506367	-0.145224	(tourism) (hotel)	Flemings Mayfair
+58699	51.5071829	-0.1460304	(tourism) (hotel)	The Washington
+58700	51.5019767	-0.1561265	(tourism) (hotel)	The Berkeley
+59070	51.5803328	0.4968233	(tourism) (hotel)	Premier Inn
+59077	51.5844909	0.4424909	(tourism) (hotel)	Campanile
+59162	51.1517236	-0.9699992	(tourism) (hotel)	Alton House Hotel
+59193	51.5951373	-0.5973971	(tourism) (hotel)	Bellhouse
+59566	51.2842891	-0.8457368	(tourism) (hotel)	Lismoyne Hotel
+59624	51.4551209	-0.3400294	(tourism) (hotel)	London Marriott Hotel Twickenham
+60152	51.7004057	0.1138696	(tourism) (hotel)	The Thatcher House Hotel
+60334	51.5134188	-0.1922516	(tourism) (hotel)	Pembridge Palace
+60416	50.9856145	0.1145226	(tourism) (hotel)	Buxted Park Hotel
+60499	51.5011089	-0.0936329	(tourism) (hotel)	London City Hotel
+60582	51.4568888	-0.9725163	(tourism) (hotel)	Ibis
+60589	51.720651	-0.032198	(tourism) (hotel)	Mariott Cheshunt
+60760	51.7735067	0.0311764	(tourism) (hotel)	Roydon Mill Estate
+60762	51.5360898	-0.1464514	(tourism) (hotel)	York & Albany
+69029	51.4476034	-0.9992978	(tourism) (hotel)	Parkside International Hotel
+69032	51.4482278	-0.9967637	(tourism) (hotel)	Beech House
+69131	51.419268	-0.195162	(tourism) (hotel)	Antoinette Hotel
+69381	51.5133527	-0.1910678	(tourism) (hotel)	Grand Plaza
+69382	51.512831	-0.1922981	(tourism) (hotel)	Bayswater Inn Hotel
+69383	51.5127927	-0.1928096	(tourism) (hotel)	Kensington Court Hotel
+69386	51.5133793	-0.1927948	(tourism) (hotel)	Bayswater Hotel
+69387	51.5133264	-0.1931661	(tourism) (hotel)	Palace Court Hotel
+69392	51.5134478	-0.1919679	(tourism) (hotel)	Reem Hotel
+69393	51.513478	-0.1916724	(tourism) (hotel)	Palace Hotel
+69394	51.5132025	-0.1906088	(tourism) (hotel)	Somerset Kensington Gardens
+69395	51.5135904	-0.1894538	(tourism) (hotel)	Phoenix Hotel
+69404	51.5341846	-0.4713535	(tourism) (hotel)	Lancaster Lodge
+69572	51.502517	-0.118403	(tourism) (hotel)	Premier Inn
+69612	51.8407164	-0.1619153	(tourism) (hotel)	Coltsfoot Country Retreat
+69793	51.5084625	-0.7321297	(tourism) (hotel)	Holiday Inn
+69881	51.522336	-0.7311535	(tourism) (hotel)	Elva Court Hotel
+70021	51.238945	-0.213078	(tourism) (hotel)	Cranleigh Hotel
+70061	51.492934	-0.143082	(tourism) (hotel)	Premier Inn London Victoria
+70074	51.514283	-0.127063	(tourism) (hotel)	Radisson Edwardian
+70078	51.514594	-0.127048	(tourism) (hotel)	Coventry Garden Hotel
+70079	51.51481	-0.126725	(tourism) (hotel)	Seven Dials Hotel
+70103	51.510908	-0.120598	(tourism) (hotel)	Strand Palace Hotel
+70114	50.9787272	0.6768892	(tourism) (hotel)	Flackley Ash
+70125	50.9510188	0.7334992	(tourism) (hotel)	Hotel George
+70150	51.2692958	0.5052552	(tourism) (hotel)	Grange Moor Hotel
+70303	51.8726285	0.3622618	(tourism) (hotel)	Saracen's Head
+70392	51.5256232	-0.7262799	(tourism) (hotel)	Walton Cottage Hotel
+70542	51.5267755	-0.7026867	(tourism) (hotel)	Thames Hotel
+70591	51.5146626	-0.1746174	(tourism) (hotel)	Rose Court Hotel
+70609	51.5120561	-0.7275949	(tourism) (hotel)	Fredrick's
+70781	51.2060484	0.2620238	(tourism) (hotel)	Premier Inn Tonbridge
+70825	51.848491	-0.644166	(tourism) (hotel)	The Brownlow
+70888	51.1243216	-0.2791522	(tourism) (hotel)	Ghyll Manor Hotel
+70889	51.1319069	-0.2193099	(tourism) (hotel)	Ifield Court Hotel
+70939	51.0535355	-1.0412868	(tourism) (hotel)	The Angel
+70989	51.2512555	-0.776802	(tourism) (hotel)	Premier Inn
+71070	51.509647	-0.130148	(tourism) (hotel)	Leicester Square Hotel
+71187	51.7622411	-0.241193	(tourism) (hotel)	Beales Hotel
+71217	51.5147591	-0.1648277	(tourism) (hotel)	Griffin House Hotel
+71275	51.4902022	-0.0806461	(tourism) (hotel)	Premier by Eurotraveller
+71317	51.513797	-0.1589806	(tourism) (hotel)	The Cumberland
+71483	51.7038443	-0.4913888	(tourism) (hotel)	The Two Brewers
+71521	51.7478264	-0.4743189	(tourism) (hotel)	Premier Inn
+71543	51.5534912	-0.0749772	(tourism) (hotel)	The Rose Hotel
+71696	51.517479	-0.137138	(tourism) (hotel)	Sanderson Hotel
+71713	51.5112174	-0.0695488	(tourism) (hotel)	Travelodge
+71730	51.7462857	-0.521391	(tourism) (hotel)	Watermill Hotel -  Best Western
+71731	51.7876168	-0.4136291	(tourism) (hotel)	Ramada Jarvis
+71740	51.880892	-0.4163298	(tourism) (hotel)	Strathmore Hotel
+71795	51.7685204	-0.2334703	(tourism) (hotel)	Premier Inn Hatfield
+71815	51.5203735	-0.1248357	(tourism) (hotel)	The Beauchamp
+71841	51.679838	-0.555651	(tourism) (hotel)	Latimer Place
+71902	51.5185366	-0.6041776	(tourism) (hotel)	Baylis House
+71947	51.5196094	-0.1239586	(tourism) (hotel)	The Buckingham
+71948	51.5202734	-0.1241296	(tourism) (hotel)	The Portland
+71950	51.5200069	-0.124404	(tourism) (hotel)	The Portland
+71951	51.5206073	-0.1250999	(tourism) (hotel)	The Penn Club
+71960	51.5111809	-0.1853481	(tourism) (hotel)	Central Park Hotel
+71961	51.5112255	-0.1848885	(tourism) (hotel)	The Apollo
+71966	51.5114692	-0.1849904	(tourism) (hotel)	Kings Hotel
+71967	51.5109672	-0.185273	(tourism) (hotel)	Park Lodge Hotel
+71968	51.5110524	-0.184907	(tourism) (hotel)	Troy Hotel
+72044	51.4995182	-0.0791295	(tourism) (hotel)	Premier Inn
+72358	51.5120645	-0.0757	(tourism) (hotel)	The Chamberlain
+72519	51.493308	-0.1499891	(tourism) (hotel)	Lime Tree Hotel
+72528	51.4925642	-0.1450921	(tourism) (hotel)	Cherry Court Hotel
+72772	51.876573	-0.380328	(tourism) (hotel)	Holiday Inn Express
+73067	51.5127507	-0.0846424	(tourism) (hotel)	Club Quarters
+73129	51.497708	-0.18365	(tourism) (hotel)	Citadines
+73236	51.5220169	-0.1382046	(tourism) (hotel)	Carr-Saunders Hall
+73446	51.5231629	0.5921863	(tourism) (hotel)	The Oysterfleet
+73447	51.2404493	-0.1000686	(tourism) (hotel)	The Whyte Harte Hotel
+73503	51.5142703	-0.1727364	(tourism) (hotel)	Barry House
+73897	51.7862715	0.8043015	(tourism) (hotel)	Five Lakes
+73927	51.6605595	-0.9021481	(tourism) (hotel)	The Kings Hotel
+74078	51.5110466	-0.198184	(tourism) (hotel)	Gate Hotel
+74157	51.5179616	-0.15302	(tourism) (hotel)	Durrants
+74184	51.6596512	-0.0878588	(tourism) (hotel)	Holtwhites Hotel
+74342	51.7301328	-0.661865	(tourism) (hotel)	Chartridge Conference Centre
+74394	51.4546813	-0.1454482	(tourism) (hotel)	Euro Lodge Clapham
+74395	51.1258676	0.2571784	(tourism) (hotel)	The Swan Hotel
+74573	51.4351794	-0.5898213	(tourism) (hotel)	Savill Court Hotel & Spa
+74577	51.0843178	-0.818929	(tourism) (hotel)	Travelodge Liphook
+74637	51.3330727	0.7738862	(tourism) (hotel)	Hempstead House Hotel
+74786	51.2343952	-0.5876071	(tourism) (hotel)	Asperion Hotel
+74847	51.3458651	-0.7854598	(tourism) (hotel)	Premier Inn
+74878	51.3256792	-0.7338357	(tourism) (hotel)	Travelodge
+74897	51.1327529	-0.1245778	(tourism) (hotel)	Copthorne Hotel Gatwick
+74972	51.4883729	-0.3878939	(tourism) (hotel)	Travelodge
+74973	51.4881324	-0.3972279	(tourism) (hotel)	Travelodge
+74989	51.5105583	-0.0793762	(tourism) (hotel)	Apex City of London
+75040	51.5143154	-0.1394202	(tourism) (hotel)	Courthouse
+75080	51.9294233	-0.3357509	(tourism) (hotel)	Offley Place
+75081	51.9065656	-0.2063972	(tourism) (hotel)	The Gate
+75307	51.3865451	-1.0333554	(tourism) (hotel)	Wokefield Park
+75553	51.4986958	-0.0837471	(tourism) (hotel)	Think London Bridge
+75634	51.7162952	-0.4512042	(tourism) (hotel)	The Young Pretender
+75987	51.2581078	-0.8963291	(tourism) (hotel)	Four Seasons
+76043	51.1528682	-0.7979689	(tourism) (hotel)	Frensham Pond Hotel
+76088	51.4931612	-0.1902713	(tourism) (hotel)	The Nadler Kensington
+76159	51.9449519	-0.2768933	(tourism) (hotel)	The Lord Lister Hotel
+76213	51.5209547	-0.1560079	(tourism) (hotel)	Park Plaza Sherlock Holmes
+76323	51.4852395	-0.6079171	(tourism) (hotel)	Sir Christopher Wren's House Hotel & Spa
+76384	51.4946331	-0.186603	(tourism) (hotel)	Park International Hotel
+76447	51.5515116	-0.2188343	(tourism) (hotel)	Mapesbury Hotel
+76527	51.6148915	0.2990756	(tourism) (hotel)	Premier Inn Brentwood
+76594	51.520131	-0.125669	(tourism) (hotel)	The Montague on the Gardens
+76595	51.520142	-0.126145	(tourism) (hotel)	Blooms Town House Hotel
+76600	51.519735	-0.125177	(tourism) (hotel)	Ruskin Hotel
+76704	51.4818834	-0.4681394	(tourism) (hotel)	Arora Hotel
+76856	51.3084103	0.3117246	(tourism) (hotel)	The Bull Hotel
+77053	51.4576568	-0.9719051	(tourism) (hotel)	Malmaison
+77064	51.4635278	-0.97599	(tourism) (hotel)	Thameside Hotel
+77312	51.5300637	-0.1212142	(tourism) (hotel)	Comfort Inn Kings Cross
+77488	51.2595582	-0.7706555	(tourism) (hotel)	Potters International Hotel
+77833	51.506096	-0.102055	(tourism) (hotel)	Holiday Inn Express
+77948	51.5261461	-0.1268075	(tourism) (hotel)	Mentone Hotel
+78026	51.5212819	-0.1215235	(tourism) (hotel)	Paul O'Gorman Patient Hotel
+78031	51.5241248	-0.1164783	(tourism) (hotel)	Greenville Hotel
+78032	51.5241041	-0.1165553	(tourism) (hotel)	Guildford
+78076	50.9854214	-0.7380335	(tourism) (hotel)	Spread Eagle Hotel
+78127	51.3332425	-0.758404	(tourism) (hotel)	Meadowcroft Guest House
+78206	51.3371952	-0.9996495	(tourism) (hotel)	The Wellington Arms Hotel
+78332	51.5172624	-0.1578274	(tourism) (hotel)	Wigmore Court Hotel
+78334	51.5161	-0.1576643	(tourism) (hotel)	Radisson Blu Portman
+78529	50.9513187	-0.1509959	(tourism) (hotel)	Premier Inn Burgess Hill
+78570	51.5480926	-0.1305281	(tourism) (hotel)	Corner House Hotel
+78585	51.2917841	-0.9832949	(tourism) (hotel)	Tylney Hall
+78640	51.5143395	-0.1724188	(tourism) (hotel)	Hyde Park Radnor Hotel
+78752	51.9217173	-0.57286	(tourism) (hotel)	Travelodge
+78768	51.7253484	-0.4534409	(tourism) (hotel)	Eagle B&B
+78885	51.4800737	-0.4109577	(tourism) (hotel)	Ramada Jarvis
+79044	51.5198344	-0.1242027	(tourism) (hotel)	The Clarendon
+79076	51.7997898	-0.7239952	(tourism) (hotel)	West Lodge Hotel
+79140	51.6663869	-0.6166139	(tourism) (hotel)	Crown Hotel
+79146	51.6666064	-0.6180193	(tourism) (hotel)	Kings Arms Hotel
+79359	51.5139693	-0.0860502	(tourism) (hotel)	Threadneedle
+79372	51.5267324	-0.1297521	(tourism) (hotel)	Ambassadors Bloomsbury
+79373	51.7485114	-0.4769503	(tourism) (hotel)	Southville Private Hotel
+79595	51.5091254	-0.5788853	(tourism) (hotel)	Premier Inn
+79708	51.0066888	-0.144193	(tourism) (hotel)	Ockenden Manor
+79732	51.5389323	-0.2083252	(tourism) (hotel)	Igar Hotel
+79814	51.6351333	-0.1756612	(tourism) (hotel)	Travelodge London Whetstone
+80156	51.51131	-0.197105	(tourism) (hotel)	Notting Hill Hotel
+80157	51.510805	-0.196909	(tourism) (hotel)	Hilltop Hotel
+80158	51.509844	-0.196707	(tourism) (hotel)	The Abbey Court
+80184	51.4577709	-0.1442608	(tourism) (hotel)	The Windmill
+80275	51.5292897	-0.1167506	(tourism) (hotel)	Swinton Hotel
+80276	51.5287473	-0.1183234	(tourism) (hotel)	Arriva Hotel
+80632	51.4889591	-0.5360185	(tourism) (hotel)	Holiday Inn Express T5
+80791	51.518751	-0.1319861	(tourism) (hotel)	MyHotel
+80962	51.5772755	0.6005663	(tourism) (hotel)	Premier Inn
+81088	51.8811134	-0.4148088	(tourism) (hotel)	Easy Hotel Luton
+81158	51.3803761	0.4762904	(tourism) (hotel)	Premier Inn
+81201	51.258311	0.617052	(tourism) (hotel)	Mercure Hotel
+81466	51.5363424	-0.0044616	(tourism) (hotel)	Holiday Inn Express - Stratford
+81610	51.8089384	-0.7685258	(tourism) (hotel)	Holiday Inn Aylesbury
+81730	51.4946337	-0.1749691	(tourism) (hotel)	Pelham Hotel
+81763	51.4929221	-0.1597612	(tourism) (hotel)	Draycott Hotel
+81859	51.4935024	-0.1993708	(tourism) (hotel)	West Cromwell Hotel
+82040	51.4940148	-0.188439	(tourism) (hotel)	Ambassadors Hotel
+82062	51.4937113	-0.1436206	(tourism) (hotel)	Hespera London Victoria
+82070	51.495687	-0.1419175	(tourism) (hotel)	Russell Hotel
+82162	51.4950962	-0.1837631	(tourism) (hotel)	Crowne Plaza Kensington
+82324	51.5290348	-0.1229874	(tourism) (hotel)	Mcdonald Hotel
+82366	51.4553637	-0.1446562	(tourism) (hotel)	Euro Hotel Clapham
+82399	51.420406	-0.8385736	(tourism) (hotel)	Cantley House Hotel
+82631	51.4969518	-0.1591526	(tourism) (hotel)	Cadogan Hotel
+82677	51.5082751	-0.5948867	(tourism) (hotel)	Travelodge
+82902	51.4800323	-0.4916423	(tourism) (hotel)	Heathrow Lodge
+82988	51.5137798	-0.1861522	(tourism) (hotel)	Baron's Hotel
+83042	51.513948	-0.1895392	(tourism) (hotel)	London House Hotel
+83073	51.4948046	-0.1952048	(tourism) (hotel)	Hotel NH-Kensington
+83312	51.5115541	-0.1193427	(tourism) (hotel)	One Aldwych
+83326	51.4265324	-1.0356567	(tourism) (hotel)	Travelodge Reading Eastbound
+83383	51.5143266	-0.1555712	(tourism) (hotel)	Radisson Edwardian Sussex
+83430	51.5045315	-0.5019834	(tourism) (hotel)	The Tower Arms
+83563	51.7567116	-0.3256417	(tourism) (hotel)	Ardmore House Hotel
+83879	51.4192044	-0.4224831	(tourism) (hotel)	Premier Inn
+83985	51.644636	0.6192697	(tourism) (hotel)	Oakland Hotel
+84096	51.770652	-1.0656481	(tourism) (hotel)	Lower Brook Farm Bed & Breakfast
+84366	51.9589995	-0.8428578	(tourism) (hotel)	Horwood House
+84396	51.4568453	-0.5910113	(tourism) (hotel)	The Union Inn
+84541	51.7634597	-0.2399385	(tourism) (hotel)	Travelodge Hatfield Central
+84564	51.5817549	-0.3321528	(tourism) (hotel)	Cumberland Hotel
+84734	51.4568873	-0.9726533	(tourism) (hotel)	Novotel
+84951	51.4991079	-0.1125451	(tourism) (hotel)	Tune Hotel
+84968	51.6934281	0.4115865	(tourism) (hotel)	Ivy Hill
+85027	51.5762277	-0.0297785	(tourism) (hotel)	The Commongate Hotel
+85192	51.2975789	0.3430027	(tourism) (hotel)	Premier Inn
+85214	51.488999	-0.1939101	(tourism) (hotel)	Wembar Hotel
+85284	51.6752531	-0.0196457	(tourism) (hotel)	Premier Inn
+85548	51.4567062	0.2391351	(tourism) (hotel)	The Beacon
+85549	51.5367486	-0.0038569	(tourism) (hotel)	Travelodge - Stratford
+85788	51.5295045	-0.123438	(tourism) (hotel)	California Hotel
+86667	51.5138888	-0.1799695	(tourism) (hotel)	Glendale Hyde Park Hotel
+86675	51.5132285	-0.1806004	(tourism) (hotel)	The Hyde Park Premier
+86853	51.3777941	-0.192105	(tourism) (hotel)	Ashling Tara Hotel
+86863	51.5116762	-0.1850173	(tourism) (hotel)	The Queen's Park Hotel
+87040	51.5124074	-0.1835595	(tourism) (hotel)	The Henry VIII Hotel
+87278	51.1149573	-0.1905804	(tourism) (hotel)	Ramada George
+87441	51.0842311	-0.6817631	(tourism) (hotel)	Lythe Hill Hotel
+87479	51.493421	-0.1838467	(tourism) (hotel)	Millennium Hotel
+87480	51.4928781	-0.1836034	(tourism) (hotel)	NH Hoteles
+87488	51.5012334	-0.1862722	(tourism) (hotel)	Clearlake Hotel
+87494	51.665249	-0.360741	(tourism) (hotel)	Watford Hilton Hotel
+87519	51.4788346	-0.409371	(tourism) (hotel)	Travelodge
+87645	51.3805078	-0.2807418	(tourism) (hotel)	Travelodge
+87865	51.2087885	-0.7961055	(tourism) (hotel)	Hotel de Vie
+87879	51.5131406	-0.1908564	(tourism) (hotel)	Vancouver Studios
+88001	51.6062041	0.0585945	(tourism) (hotel)	Menzies Prince Regent
+88025	51.4924028	0.2720071	(tourism) (hotel)	Travelodge Thurrock M25
+88095	51.514898	-0.1940631	(tourism) (hotel)	Vancouver Studios Apartments
+88252	50.9877437	-0.7382723	(tourism) (hotel)	The Angel Hotel
+88270	51.5151886	-0.1600185	(tourism) (hotel)	The Rose Court Hotel
+88309	51.4518951	-0.9704091	(tourism) (hotel)	Premier Inn
+88423	51.5144222	-0.1729452	(tourism) (hotel)	Hotel Linden House
+88437	51.7969721	-0.6347195	(tourism) (hotel)	Pendley Manor
+88601	51.7550653	-0.3294491	(tourism) (hotel)	St Albans Hotel
+88732	51.2496907	-0.2026247	(tourism) (hotel)	Reigate Manor Hotel
+88819	51.5705737	-0.1934461	(tourism) (hotel)	Anchor House Hotel
+88850	51.505102	-0.0983091	(tourism) (hotel)	citizenM hotel London Bankside
+88861	51.1859025	-0.6110737	(tourism) (hotel)	King's Arms
+89337	51.5243296	-0.0946693	(tourism) (hotel)	easyHotel Old Street / Barbican
+89357	50.9756627	0.2738897	(tourism) (hotel)	Westerns Farm
+89495	51.3393242	-0.7250799	(tourism) (hotel)	Frimley Hall Hotel
+89539	51.8924112	0.8244194	(tourism) (hotel)	Holiday Inn Colchester
+89723	51.7541764	-0.4371881	(tourism) (hotel)	Travelodge
+89738	51.5276204	0.225658	(tourism) (hotel)	The Manor Hotel & Restaurant
+89885	51.4995386	-0.1328649	(tourism) (hotel)	InterContinental London Westminster
+90126	51.5138565	-0.1830766	(tourism) (hotel)	The Cleveland Square Hotel
+90205	51.3912517	-0.4246284	(tourism) (hotel)	Holiday Inn
+90621	51.5110723	-0.1302533	(tourism) (hotel)	Premier Inn
+90799	51.4941753	-0.2053028	(tourism) (hotel)	Avonmore Hotel
+90805	51.5079393	0.0226533	(tourism) (hotel)	Hotel Ibis London Excel Docklands
+90987	51.5079331	0.023301	(tourism) (hotel)	Novotel London ExCeL
+91431	51.4943183	-0.1791261	(tourism) (hotel)	Regency hotel London
+91511	51.4278973	-0.3187165	(tourism) (hotel)	The Lensbury
+91627	51.5160759	-0.1600623	(tourism) (hotel)	The Arch
+91729	51.5128761	-0.1054012	(tourism) (hotel)	Premier Inn
+91819	51.4809916	-0.4307337	(tourism) (hotel)	Ibis Heathrow Airport Hotel
+91852	51.5015554	-0.1623833	(tourism) (hotel)	THe Knightsbridge Green Hotel
+91908	51.6658747	0.4468346	(tourism) (hotel)	Greenwoods Hotel Spa and Retreat
+92055	51.7807607	0.1501773	(tourism) (hotel)	The Churchgate Street Hotel
+92173	51.4740725	-0.0212125	(tourism) (hotel)	Travelodge Greenwich
+92193	51.4949376	-0.2551069	(tourism) (hotel)	Chiswick Hotel Lodge
+92208	51.6922046	0.0960747	(tourism) (hotel)	The Bell Hotel
+92340	51.4759116	-0.2867226	(tourism) (hotel)	Kew Gardens Hotel
+92462	51.1186782	-0.1352456	(tourism) (hotel)	Holiday Inn
+92587	51.3344414	-0.267888	(tourism) (hotel)	Travelodge
+93033	51.5138157	-0.1089001	(tourism) (hotel)	Temple Court
+93225	51.4764201	-0.6061847	(tourism) (hotel)	Royal Adelaide Hotel
+93315	51.5207376	-0.1002415	(tourism) (hotel)	Malmaison Hotel
+93327	51.6575482	-0.3486053	(tourism) (hotel)	Mercure London Watford
+93534	51.5157289	-0.1801907	(tourism) (hotel)	Park Grand London Hyde Park
+93610	51.5870231	-0.147118	(tourism) (hotel)	The Muswell Hill Hotel
+93621	51.755753	0.1266859	(tourism) (hotel)	Park Inn Hotel
+93725	51.8454561	-0.9254593	(tourism) (hotel)	The Five Arrows Hotel
+93745	51.8869055	-0.5175112	(tourism) (hotel)	The Old Palace Lodge Hotel
+93857	51.5117349	-0.177577	(tourism) (hotel)	Corus Hyde Park
+93937	51.4251339	0.1056547	(tourism) (hotel)	Travelodge - London Sidcup
+93949	51.4971533	-0.0902618	(tourism) (hotel)	Accomodation London Bridge
+94392	51.527426	-0.087469	(tourism) (hotel)	Premier Inn
+94759	51.5374747	-0.002357	(tourism) (hotel)	The Westbridge Hotel
+94814	51.4443492	0.3726595	(tourism) (hotel)	Clarendon Royal Hotel
+95078	51.5049077	-0.1047268	(tourism) (hotel)	Ibis
+95079	51.5050746	-0.1047162	(tourism) (hotel)	Novotel
+95256	51.4913274	-0.1434489	(tourism) (hotel)	Colliers Hôtel
+95447	51.5123977	-0.1861753	(tourism) (hotel)	Shaftesbury Hyde Park International
+95599	51.5308655	-0.5850599	(tourism) (hotel)	Stoke Place
+95643	51.546863	-0.4782521	(tourism) (hotel)	Travelodge
+95680	51.1486758	-0.9756018	(tourism) (hotel)	The Swan Hotel
+96010	51.4500319	0.0513212	(tourism) (hotel)	Yardley Court Hotel
+96068	51.4546854	-0.9690556	(tourism) (hotel)	Quality Hotel
+96079	51.5128057	-0.1926658	(tourism) (hotel)	The Shatesbury London Premier Notting Hill
+96089	51.5422672	0.004509	(tourism) (hotel)	ibis
+96162	51.5166659	-0.172144	(tourism) (hotel)	easyHotel.com
+96180	51.4920965	-0.1422738	(tourism) (hotel)	Belgrave House Hotel
+96283	51.4923082	-0.1945744	(tourism) (hotel)	Amsterdam Hotel London
+96300	51.5295188	-0.1238685	(tourism) (hotel)	Julian House Hotel
+96388	51.1501494	-0.9738755	(tourism) (hotel)	The Crown Hotel
+96559	50.9492222	0.7318618	(tourism) (hotel)	Hope Anchor Hotel
+96636	51.5148128	-0.1767684	(tourism) (hotel)	Ascot
+96668	50.9496681	0.7307229	(tourism) (hotel)	The Old Borough Arms
+96718	50.9499903	0.73142	(tourism) (hotel)	The Mermaid Inn
+96774	51.3882786	-0.4541749	(tourism) (hotel)	The Anchor
+96775	51.3879304	-0.4536614	(tourism) (hotel)	Warren Lodge
+96811	51.7246072	0.1905206	(tourism) (hotel)	Travelodge
+96826	50.9519448	0.7325404	(tourism) (hotel)	Rye Retreat
+96982	51.5135478	-0.1779223	(tourism) (hotel)	The Paddington Hotel London
+96985	51.4939494	-0.1498768	(tourism) (hotel)	Astors Hotel Victoria London
+96988	51.7422317	-0.3224414	(tourism) (hotel)	Quality Hotel St. Albans
+96989	51.512593	-0.1802574	(tourism) (hotel)	London Guards Hotel
+96997	51.5209443	-0.2629326	(tourism) (hotel)	Holiday Inn London West
+97282	51.5024239	-0.1538473	(tourism) (hotel)	The Wellesley
+97857	51.5293177	-0.1236512	(tourism) (hotel)	Alhambra Hotel
+97858	51.5292186	-0.1239919	(tourism) (hotel)	Central Hotel
+97859	51.5294779	-0.1238336	(tourism) (hotel)	Florence Hotel
+97860	51.5293995	-0.1237425	(tourism) (hotel)	Fairway Hotel
+97885	51.5406779	-0.2538187	(tourism) (hotel)	Hollingbury Hotel
+98162	51.7692955	0.0967175	(tourism) (hotel)	Holiday Inn Express- Harlow
+98401	51.3398005	-0.7453535	(tourism) (hotel)	RSVP
+98555	51.3920905	-0.5029463	(tourism) (hotel)	The Crown
+98696	51.3391734	-0.7482455	(tourism) (hotel)	Premier Inn
+98781	51.5263642	-0.1272431	(tourism) (hotel)	Judd Hotel
+98848	51.5232213	-0.1601197	(tourism) (hotel)	Somerset Hotel
+99077	51.4939963	-0.1825322	(tourism) (hotel)	Millennium Bailey's Hotel
+99098	51.5103647	-0.1873077	(tourism) (hotel)	Hilton London Hyde Park Hotel
+99111	51.5288183	-0.1155876	(tourism) (hotel)	Clink78
+99146	51.5441193	-0.1522386	(tourism) (hotel)	Camden Lock Hotel
+99416	51.1399828	-0.0390076	(tourism) (hotel)	Premier Inn
+99421	51.51258	-0.1782241	(tourism) (hotel)	Elysee Hotel
+99475	51.5056673	-0.1242772	(tourism) (hotel)	Royal Horseguards Hotel
+99510	51.5008242	-0.1080153	(tourism) (hotel)	Hampton by Hilton London Waterloo
+99607	51.5130169	-0.1752278	(tourism) (hotel)	Andrews House Hotel
+99632	51.5142337	-0.1726756	(tourism) (hotel)	Piccolino Hotel
+99718	51.5141985	-0.1750747	(tourism) (hotel)	Edward Hotel
+99794	51.5045203	-0.2192391	(tourism) (hotel)	W12 Rooms
+99898	51.493346	-0.1909341	(tourism) (hotel)	Earl's Court Garden Hotel
+99965	51.4919173	-0.1918457	(tourism) (hotel)	Hotel Indigo Kensington Earl's Court
+100063	51.5042952	-0.086648	(tourism) (hotel)	Shangri-La Hotel
+100118	51.8050753	-0.8468194	(tourism) (hotel)	Hartwell House
+100230	51.156774	-0.1577653	(tourism) (hotel)	Hilton London Gatwick Airport
+100403	51.3167798	-0.3626016	(tourism) (hotel)	Woodlands Park
+100530	51.492265	-0.141182	(tourism) (hotel)	Romany House Hotel
+100531	51.492389	-0.140855	(tourism) (hotel)	The Chester Hotel
+100532	51.492453	-0.140664	(tourism) (hotel)	St Leonards Hotel
+100545	51.490488	-0.138854	(tourism) (hotel)	The Park Hotel
+100584	51.511163	-0.134909	(tourism) (hotel)	Ham Yard Hotel
+100681	51.4741227	-0.1840077	(tourism) (hotel)	DoubleTree by Hilton Hotel London - Chelsea
+100693	51.8763666	-0.3834871	(tourism) (hotel)	Ramada Encore
+100878	51.5289201	-0.1228238	(tourism) (hotel)	Excelsior Hotel
+101038	51.3205257	-0.5557681	(tourism) (hotel)	Woking Hotel
+101040	51.3205257	-0.5557681	(tourism) (hotel)	Woking Hotel
+101096	51.3195159	-0.5554826	(tourism) (hotel)	Inn on the Broadway
+101273	51.5095129	-0.0836298	(tourism) (hotel)	Premier Inn London Bank (Tower)
+101384	51.4927255	0.0617961	(tourism) (hotel)	Travelodge Hotel
+102088	51.1699103	-0.1729195	(tourism) (hotel)	The Corner House Hotel
+102556	51.519583	-0.1585277	(tourism) (hotel)	Hotel 82 London
+102558	51.5197457	-0.1586212	(tourism) (hotel)	London Continental Hotel
+102574	51.4615782	-0.1130331	(tourism) (hotel)	London Hotel
+102746	51.5303727	-0.0559783	(tourism) (hotel)	Town Hall Hotel
+102792	51.5611124	-0.2790191	(tourism) (hotel)	Novotel London Wembley
+102929	51.4642184	-0.3015086	(tourism) (hotel)	The Orange Tree
+103028	51.6569313	-0.2012363	(tourism) (hotel)	Savoro Restaurant with Rooms
+103144	51.511565	-0.138332	(tourism) (hotel)	Sanctum Soho Hotel
+103221	51.526072	-0.126369	(tourism) (hotel)	The George
+103311	51.5245354	-0.0368949	(tourism) (hotel)	New Globe Hotel
+103359	51.7343751	0.4733813	(tourism) (hotel)	Saracens
+104649	51.526208	-0.126995	(tourism) (hotel)	Euro Hotel
+104650	51.526096	-0.1265675	(tourism) (hotel)	Avonmore Hotel
+104651	51.526277	-0.127135	(tourism) (hotel)	Crescent Hotel
+104652	51.5266481	-0.1275035	(tourism) (hotel)	Jenkins Hotel
+104886	51.490553	-0.1448993	(tourism) (hotel)	Artist Residence
+104887	51.4916453	-0.1415018	(tourism) (hotel)	Best Western Victoria Palace
+104889	51.491172	-0.1449454	(tourism) (hotel)	Eccleston Square Hotel
+104892	51.4908631	-0.1447903	(tourism) (hotel)	Sheriff Hotel
+104893	51.4914874	-0.1420448	(tourism) (hotel)	The Blair Victoria & Tudor Inn Hotel
+104953	51.5288076	-0.1227249	(tourism) (hotel)	The Melville Hotel
+104958	51.4264038	-0.3332728	(tourism) (hotel)	Travelodge
+105111	51.5309713	-0.1208364	(tourism) (hotel)	Keystone Hostel
+105207	51.4757123	-0.0195764	(tourism) (hotel)	Premier Inn London Greenwich
+105210	51.5120259	-0.1866141	(tourism) (hotel)	Berjaya eden Park Hotel
+105599	51.5811585	-0.3428417	(tourism) (hotel)	Harrow Hotel
+105646	51.5177029	-0.0649313	(tourism) (hotel)	Ibis Budget
+105786	51.3225905	0.2920025	(tourism) (hotel)	Hilltop Hotel
+106021	51.5743015	-0.0977912	(tourism) (hotel)	united lodge hotel
+106173	51.4552856	-0.4826869	(tourism) (hotel)	The Stanwell Hotel
+106273	51.1175663	-0.189889	(tourism) (hotel)	Travelodge
+106707	51.4548639	-0.1924694	(tourism) (hotel)	Travelodge
+107088	51.4952842	-0.1816667	(tourism) (hotel)	Radisson Blu Edwardian Vanderbilt Hotel
+107299	51.5178529	-0.1185245	(tourism) (hotel)	Citadines
+107353	51.0855136	-0.9943336	(tourism) (hotel)	Flossie's B&B
+107649	51.518195	-0.149711	(tourism) (hotel)	Marylebone Hotel
+107653	51.5135487	-0.1933951	(tourism) (hotel)	New Linden Hotel
+107759	51.493543	-0.215281	(tourism) (hotel)	St James's Hotel
+107875	51.528606	-0.1268228	(tourism) (hotel)	Premier Inn
+109294	51.4643533	-0.2136615	(tourism) (hotel)	mk london
+109477	51.0995528	0.0331931	(tourism) (hotel)	Brambletye Hotel
+116120	51.55844785	-0.68844485	(tourism) (hotel)	Cliveden
+122547	51.5237916	-0.12495975	(tourism) (hotel)	Holiday Inn, Bloomsbury
+176459	51.686939	-0.2211106	(tourism) (hotel)	Days Inn
+180522	51.667434	-0.11221415000000001	(tourism) (hotel)	Royal Chace Hotel
+181719	51.529851	-0.1255292	(tourism) (hotel)	St Pancras Renaissance London Hotel
+188077	51.105385850000005	-0.14433055	(tourism) (hotel)	Europa Hotel
+194946	51.45868845	-0.4416181	(tourism) (hotel)	Hilton London Heathrow Airport
+196428	51.449464649999996	-0.40684195	(tourism) (hotel)	St Giles Hotel
+199937	51.4893577	-0.43092305	(tourism) (hotel)	Easyhotel.com
+199949	51.481222	-0.4336396	(tourism) (hotel)	Holiday Inn
+199969	51.48158415	-0.43824114999999997	(tourism) (hotel)	Marriott Hotel
+199970	51.481528850000004	-0.43656755	(tourism) (hotel)	Sheraton Skyline
+202554	51.4943902	-0.45587785000000003	(tourism) (hotel)	Holiday Inn
+203204	51.48288975	-0.45104635000000004	(tourism) (hotel)	Park Inn Heathrow
+203205	51.481421850000004	-0.45769395	(tourism) (hotel)	Holiday Inn
+203211	51.76014335	-0.24448795	(tourism) (hotel)	Ramada Jarvis
+204205	51.48016835	-0.42451265	(tourism) (hotel)	Premier Inn
+204237	51.4836101	-0.48107915	(tourism) (hotel)	The Sheraton Heathrow Hotel
+206983	51.13673015	-0.1853474	(tourism) (hotel)	Ibis
+207886	51.74159225	-0.52967125	(tourism) (hotel)	Travelodge
+209067	51.4849304	-0.30117689999999997	(tourism) (hotel)	Premier Inn
+209738	51.8187473	-0.3590645	(tourism) (hotel)	Glen Eagle Manor
+222192	51.51021475	0.026538600000000002	(tourism) (hotel)	Hotel ibis Styles London Excel
+227136	51.50698185	-0.14156145	(tourism) (hotel)	The Ritz
+227137	51.507390900000004	-0.15246525	(tourism) (hotel)	The Dorchester
+227138	51.51018635	-0.14980125	(tourism) (hotel)	The Connaught
+227183	51.5251443	-0.1436382	(tourism) (hotel)	White House Hotel
+228364	51.52179495	-0.16285670000000002	(tourism) (hotel)	The Landmark
+230113	51.125503249999994	-0.18975124999999998	(tourism) (hotel)	Crowne Plaza Gatwick-Crawley
+231785	51.537915999999996	-0.2831995	(tourism) (hotel)	Travelodge Wembley
+231974	51.43189945	0.3631527	(tourism) (hotel)	Premier Inn Gravesend Central
+233369	51.45681415	0.25682735	(tourism) (hotel)	Campanile Hotel
+233374	51.452940600000005	0.2453447	(tourism) (hotel)	Hilton Dartford Bridge Hotel
+233375	51.4539388	0.2395605	(tourism) (hotel)	Holiday Inn Express London - Dartford
+233507	51.5193501	-0.12108615	(tourism) (hotel)	The Grange Holborn Hotel
+235146	51.5178881	-0.12811045	(tourism) (hotel)	Radisson Edwardian Kenilworth
+235147	51.51738535	-0.12783034999999998	(tourism) (hotel)	Radisson Edwardian Bloomsbury Street Hotel
+239048	51.126469150000005	-0.1675092	(tourism) (hotel)	Ramada Jarvis Hotel
+241279	51.51221115	-0.10465564999999999	(tourism) (hotel)	Crowne Plaza : The City
+241355	51.52962145	-0.2943101	(tourism) (hotel)	Crowne Plaza
+242267	51.828984750000004	-0.04072965	(tourism) (hotel)	Hanbury Manor
+243654	51.492349000000004	-0.1978585	(tourism) (hotel)	The Paramount
+243972	51.4913418	-0.18305305	(tourism) (hotel)	The Cranley
+244006	51.51737695	-0.08158605	(tourism) (hotel)	Andaz Liverpool Street
+244104	51.45755045	-0.20586159999999998	(tourism) (hotel)	The Lodge Hotel
+245830	51.500904649999995	-0.11654575	(tourism) (hotel)	Park Plaza Westminster Bridge
+246492	51.9001317	-0.20203225000000002	(tourism) (hotel)	Express by Holiday Inn
+248250	51.9467007	-0.27828189999999997	(tourism) (hotel)	The Sun
+248635	51.415215950000004	-0.08354734999999999	(tourism) (hotel)	Queens Hotel
+248904	51.51073255	-0.07646825	(tourism) (hotel)	Grange City Hotel
+250860	51.50909625	-0.13017575	(tourism) (hotel)	Royal Trafalgar Hotel
+251751	51.498434149999994	-0.1917563	(tourism) (hotel)	Kensington Close
+251752	51.498683650000004	-0.19093295	(tourism) (hotel)	The Copthorne Tara Hotel
+254593	51.5047303	-0.2141359	(tourism) (hotel)	Hilton Kensington
+258151	51.7212602	-0.36512734999999996	(tourism) (hotel)	Thistle
+258945	51.48607305	0.26378815	(tourism) (hotel)	Premier Inn Thurrock West
+259357	51.87663005	0.21153385	(tourism) (hotel)	Hilton
+260624	51.531887299999994	-0.12191035	(tourism) (hotel)	Premier Inn
+260716	51.8721146	0.19391855000000002	(tourism) (hotel)	Days Hotel
+264599	51.979003	-0.2301875	(tourism) (hotel)	Broadway Hotel
+265470	51.45178385	0.265002	(tourism) (hotel)	Travelodge Dartford
+265556	51.498595449999996	-0.1585773	(tourism) (hotel)	Jumeirah Hotel
+265793	51.60307265	-0.019503350000000003	(tourism) (hotel)	Holiday Inn Express
+266314	51.51462615	-0.15778055000000002	(tourism) (hotel)	The Leonard Hotel
+266323	51.5023597	-0.15268959999999998	(tourism) (hotel)	The Lanesborough
+266324	51.5038362	-0.1504628	(tourism) (hotel)	Intercontinental London Park Lane
+266329	51.5105711	-0.15097855	(tourism) (hotel)	Millennium Hotel
+266360	51.507137400000005	-0.12465115	(tourism) (hotel)	Citadines
+266662	51.50768385000001	-0.1423653	(tourism) (hotel)	Holiday Inn Mayfair
+266664	51.50830355	-0.14406069999999999	(tourism) (hotel)	May Fair Hotel
+267804	51.502263600000006	0.0414504	(tourism) (hotel)	Ibis Budget
+267805	51.503983500000004	0.04063155	(tourism) (hotel)	Travelodge
+268158	51.52745635	-0.09590850000000001	(tourism) (hotel)	Thistle City Barbican Hotel
+268294	51.7214075	0.46092295	(tourism) (hotel)	Miami Hotel
+269145	51.51311305	-0.15776235	(tourism) (hotel)	Marriott
+269155	51.48072665	-0.0067795	(tourism) (hotel)	Devonport House
+270657	51.3006821	-0.4888882	(tourism) (hotel)	Talbot Inn
+271330	51.446231299999994	0.15388285000000002	(tourism) (hotel)	Holiday Inn
+271686	51.5156836	-0.12419345	(tourism) (hotel)	Travelodge London Covent Garden
+271711	51.5221768	-0.12406045	(tourism) (hotel)	President Hotel
+271712	51.5217536	-0.12395395000000001	(tourism) (hotel)	Imperial
+272379	51.5191478	-0.14128605	(tourism) (hotel)	The Langham Court Hotel
+273104	51.4546154	-0.9780753499999999	(tourism) (hotel)	Pentahotel
+275131	51.5190324	-0.1829557	(tourism) (hotel)	Novotel London Paddington
+275269	51.5215396	-0.1319076	(tourism) (hotel)	Gower House
+275270	51.52170575	-0.1320921	(tourism) (hotel)	Jesmond
+275271	51.52178875	-0.13218439999999998	(tourism) (hotel)	Ridgemount
+275272	51.52187185	-0.13227665	(tourism) (hotel)	The Garth
+275273	51.52192725	-0.13233815	(tourism) (hotel)	Regency House
+275274	51.522010249999994	-0.1324304	(tourism) (hotel)	Cavendish
+275275	51.52209335	-0.13252265000000002	(tourism) (hotel)	Arran
+275276	51.52225945	-0.1327072	(tourism) (hotel)	Arosfa
+275277	51.52051195	-0.13070995	(tourism) (hotel)	The Academy
+275545	51.51457405	-0.17278705	(tourism) (hotel)	Alexandra Hotel
+275546	51.514680049999996	-0.1727528	(tourism) (hotel)	Balmoral House Hotel
+275547	51.51471935	-0.1726828	(tourism) (hotel)	Albro House
+275548	51.514758650000005	-0.17261275	(tourism) (hotel)	Adare Hotel
+275549	51.51479795	-0.1725427	(tourism) (hotel)	Europa House Hotel
+275550	51.5148372	-0.1724727	(tourism) (hotel)	Queensway Hotel
+275551	51.514955099999995	-0.1722627	(tourism) (hotel)	Admiral Hotel
+275552	51.5149944	-0.1721927	(tourism) (hotel)	Hotel Columbus
+275553	51.515033700000004	-0.1721227	(tourism) (hotel)	Kingsway Park Hotel
+275554	51.51509265	-0.17201765	(tourism) (hotel)	Bluedaws Hotel
+275555	51.5151712	-0.17187760000000002	(tourism) (hotel)	Gower Hotel
+275556	51.5153873	-0.1714926	(tourism) (hotel)	ABC Hyde Park Hotel
+275557	51.5154266	-0.1714226	(tourism) (hotel)	London Central Hotel
+275558	51.51552485	-0.17124755	(tourism) (hotel)	The Darlington Hyde Park
+275559	51.5156231	-0.1710725	(tourism) (hotel)	Brynteg Hotel
+275560	51.5162076	-0.17146065	(tourism) (hotel)	Seymour Hotel
+275561	51.51623015	-0.17137724999999998	(tourism) (hotel)	Belmont Hotel
+275562	51.51626355	-0.17131615	(tourism) (hotel)	White House Hotel
+275563	51.5162969	-0.17125415	(tourism) (hotel)	Astoria Hotel
+275564	51.51633055	-0.17119545	(tourism) (hotel)	Monopole Hotel
+275565	51.516368299999996	-0.1711404	(tourism) (hotel)	Normandie Hotel
+275566	51.5164033	-0.171073	(tourism) (hotel)	Berkeley Court Hotel
+275567	51.5164388	-0.17100975	(tourism) (hotel)	Classic Hotel
+275568	51.5165114	-0.17088365	(tourism) (hotel)	Orchard Hotel
+275569	51.5166253	-0.17066510000000001	(tourism) (hotel)	Shaftesbury Metropolis
+275570	51.515131049999994	-0.17341835	(tourism) (hotel)	Castleton Hotel
+275571	51.515183300000004	-0.173325	(tourism) (hotel)	Stylotel
+275572	51.51527055	-0.1731694	(tourism) (hotel)	Balmoral Hotel
+275573	51.515305350000006	-0.1731072	(tourism) (hotel)	Springfield Hotel
+275574	51.51537515	-0.17298275000000002	(tourism) (hotel)	Days Inn
+275575	51.51551465	-0.1727338	(tourism) (hotel)	Beverley City Hotel
+275576	51.51554955	-0.17267155	(tourism) (hotel)	Olympic House Hotel
+275577	51.51561925	-0.1725471	(tourism) (hotel)	The Omega Hotel
+275578	51.515671600000005	-0.17245375000000002	(tourism) (hotel)	Nayland Hotel
+275579	51.5157239	-0.1723604	(tourism) (hotel)	The Delmere Hotel
+275580	51.5158285	-0.17217369999999999	(tourism) (hotel)	Royal Cambridge Hotel
+275581	51.5158634	-0.17211145	(tourism) (hotel)	Picton House Hotel
+275582	51.515968	-0.17192475	(tourism) (hotel)	The Gresham Hotel
+275583	51.516037749999995	-0.17180085	(tourism) (hotel)	Athena Hotel
+275584	51.5161081	-0.1717059	(tourism) (hotel)	Pacific Hotel
+275585	51.51486685	-0.1738696	(tourism) (hotel)	Abbeycourt Westpoint
+275586	51.5144023	-0.174707	(tourism) (hotel)	Fairways Hotel
+275587	51.51448805	-0.17455075	(tourism) (hotel)	Mitre House
+275588	51.51392175	-0.17556055	(tourism) (hotel)	Lancaster Court Hotel
+275589	51.5136293	-0.17479695	(tourism) (hotel)	Eagle Lodge
+275590	51.513928050000004	-0.1742515	(tourism) (hotel)	Rhodes Hotel
+276339	51.5047337	-0.0820832	(tourism) (hotel)	Hilton Hotel
+279420	51.52981165	-0.0988685	(tourism) (hotel)	St Mark's Apartments
+279738	51.4924482	-0.27843085	(tourism) (hotel)	Chiswick Moran Hotel
+282432	51.531053150000005	-0.12461865	(tourism) (hotel)	Great Northern Hotel
+284627	51.51956695	-0.7213349	(tourism) (hotel)	Travelodge
+284768	51.519273549999994	-0.0862751	(tourism) (hotel)	South Place Hotel
+286894	51.526302799999996	-0.1137794	(tourism) (hotel)	Holiday Inn Kings Cross
+287753	51.34265455	0.72194545	(tourism) (hotel)	Coniston
+288411	51.5630376	-0.8799942999999999	(tourism) (hotel)	Paddock House
+288413	51.5633008	-0.88424605	(tourism) (hotel)	Thames Court
+290104	51.4797683	-0.31539744999999997	(tourism) (hotel)	Hilton London Syon Park
+290255	51.52654945	-0.13028885	(tourism) (hotel)	Hilton London Euston Hotel
+291705	51.5117409	-0.0715942	(tourism) (hotel)	Grange Tower Bridge Hotel
+293761	51.39465575	-0.7429418999999999	(tourism) (hotel)	Hilton Bracknell Hotel
+296270	51.68857745	-0.04467075	(tourism) (hotel)	Travelodge Cheshunt
+297357	51.799896700000005	0.6404728	(tourism) (hotel)	White Hart Hotel
+297896	51.15814625	0.8650638	(tourism) (hotel)	Ashford International Hotel
+301613	51.1666996	-0.17822690000000002	(tourism) (hotel)	Gatwick Moat House
+301615	51.16093725	-0.1739879	(tourism) (hotel)	Arora - Sofitel
+301635	51.1638985	-0.1737614	(tourism) (hotel)	Premier Inn Gatwick
+301637	51.16581085	-0.17827559999999998	(tourism) (hotel)	Travelodge
+302351	51.4272702	-0.8976474	(tourism) (hotel)	Reading Moat House
+302356	51.6776462	-0.43806395	(tourism) (hotel)	The Grove
+302629	51.48668055	0.016863799999999998	(tourism) (hotel)	Greenwich Hotel
+302636	51.1681828	-0.1804903	(tourism) (hotel)	Holiday Inn
+303251	51.27504165	-0.6077958	(tourism) (hotel)	Premier Inn, Worplesdon
+303255	51.2772851	-0.6092436999999999	(tourism) (hotel)	Asperion Hillside
+304589	51.2666067	0.6137125	(tourism) (hotel)	Days Inn
+305604	51.2482288	-0.57026545	(tourism) (hotel)	Premier Inn, Guildford
+307094	51.49216105	-0.1952898	(tourism) (hotel)	K+K Hotel George
+307141	51.53290575	-0.3223311	(tourism) (hotel)	Premier Inn
+307496	51.4570883	-0.06896925	(tourism) (hotel)	East Dulwich Hotel
+308748	51.4562041	-0.9673421	(tourism) (hotel)	Forbury Hotel
+308750	51.455715	-0.9678260000000001	(tourism) (hotel)	Forbury Hotel Apartments
+309443	51.534256150000004	-0.18785845	(tourism) (hotel)	The London Carlton Hotel
+309762	51.629156800000004	-0.2637629	(tourism) (hotel)	Ramada London North M1
+309940	51.536508100000006	-0.34540649999999995	(tourism) (hotel)	Bridge Hotel
+310205	51.82165435	-0.42303369999999996	(tourism) (hotel)	Innkeeper's Lodge
+311207	51.3242162	-0.8222197	(tourism) (hotel)	The Ely
+311284	51.29470825	-0.85570125	(tourism) (hotel)	Days Inn
+311322	51.44199155	-1.04843675	(tourism) (hotel)	Calcot Hotel
+311548	51.455439150000004	-0.97820175	(tourism) (hotel)	Travelodge Reading
+311668	51.5121661	-0.5899706499999999	(tourism) (hotel)	Holiday Inn Express
+311949	51.293455300000005	-0.8037819500000001	(tourism) (hotel)	Travelodge
+312111	51.1566239	-0.15293445	(tourism) (hotel)	Marriott Courtyard Hotel
+313514	51.37425925	-0.1018883	(tourism) (hotel)	Holiday Inn Express London-Croydon
+315236	51.4738926	-0.07546035000000001	(tourism) (hotel)	Peckham Lodge
+315984	51.580489549999996	-0.23780025	(tourism) (hotel)	Midland Hotel
+316749	51.54430395	-0.1622484	(tourism) (hotel)	Hampstead Britannia Hotel
+316752	51.5444732	-0.1726398	(tourism) (hotel)	Hotel Swiss Cottage
+316947	51.46532585	-0.978192	(tourism) (hotel)	Crowne Plaza
+316963	51.46503985	-0.9808763	(tourism) (hotel)	Premier Inn
+317099	51.50501525	-0.10512465	(tourism) (hotel)	Ibis and Novotel
+317127	51.503843	-0.10256014999999999	(tourism) (hotel)	Travelodge
+318421	51.5139164	-0.1219794	(tourism) (hotel)	Fielding
+319246	51.4599046	-1.0068641500000002	(tourism) (hotel)	Travelodge
+319550	51.3750012	-0.42806115	(tourism) (hotel)	Oaklands Chaser Hotel
+319960	51.51558675	-0.0774061	(tourism) (hotel)	Travelodge London Liverpool Street
+319991	51.5053566	-0.09481155	(tourism) (hotel)	Novotel
+320009	51.50570615	-0.09490685	(tourism) (hotel)	The Southwark Rose Hotel
+320015	51.5069079	-0.0931093	(tourism) (hotel)	Premier Inn
+320279	51.5171324	-0.1289793	(tourism) (hotel)	Bloomsbury Hotel
+320313	51.488746649999996	0.26551765	(tourism) (hotel)	Thurrock Hotel
+321218	51.50053835	-0.87054765	(tourism) (hotel)	The Bull
+321379	51.44430025	-0.92952985	(tourism) (hotel)	Elmhurst Hotel
+321636	51.450876050000005	-0.94137165	(tourism) (hotel)	Tower House Hotel
+321698	51.4520428	-0.9525060000000001	(tourism) (hotel)	Donnington House Hotel
+321825	51.51143895	-0.1794432	(tourism) (hotel)	Columbia Hotel
+322031	51.49154165	-0.19705005	(tourism) (hotel)	Garden View Hotel
+322631	51.4941783	-0.13639774999999998	(tourism) (hotel)	The Grange Rochester Hotel
+322632	51.4944613	-0.13620775000000002	(tourism) (hotel)	The Wellington
+322767	51.692991649999996	-0.4253017	(tourism) (hotel)	Hunton Park Hotel
+322842	51.20433635	-0.83626165	(tourism) (hotel)	Farnham House Hotel
+323238	51.498843949999994	-0.10636124999999999	(tourism) (hotel)	H10 London Waterloo
+323244	51.500382099999996	-0.10743785	(tourism) (hotel)	Travelodge
+323395	51.50516705	-0.0881372	(tourism) (hotel)	London Bridge Hotel
+323944	51.51185165	-0.3109621	(tourism) (hotel)	Travelodge
+323984	51.69048025	-0.22394545	(tourism) (hotel)	PREMIER INN
+323985	51.690422850000004	-0.22345255	(tourism) (hotel)	PREMIER INN
+324574	51.39079735	0.53720945	(tourism) (hotel)	King Charles Hotel
+324642	51.34873655	0.50711065	(tourism) (hotel)	Premier Inn Rochester
+324763	51.499090499999994	-0.1019189	(tourism) (hotel)	The Bridge Hotel
+325549	51.52778945	-0.19712815	(tourism) (hotel)	Chippenham Hotel - Closed
+325675	51.5114643	-0.0413964	(tourism) (hotel)	The Royal Foundation of St. Katharine
+325859	51.421369150000004	-0.9705434	(tourism) (hotel)	Holiday Inn
+325934	51.477851	-0.013784649999999999	(tourism) (hotel)	Greenwich Novotel
+326175	51.4293074	-0.9679953	(tourism) (hotel)	Travelodge
+326525	51.5259233	-0.13605075	(tourism) (hotel)	Euston Square Hotel
+326544	51.892324	0.2650253	(tourism) (hotel)	Radisson Blu
+326585	51.5100891	-0.12040585000000001	(tourism) (hotel)	Savoy Hotel
+326767	51.5128068	-0.18318420000000002	(tourism) (hotel)	Caring Hotel
+326768	51.51305345	-0.18326725	(tourism) (hotel)	Duke of Leinster Hotel
+326770	51.51170425	-0.1829244	(tourism) (hotel)	Craven Gardens Hotel
+326772	51.5134448	-0.17997475000000002	(tourism) (hotel)	Best Western Shaftesbury Paddington Court
+326773	51.51133565000001	-0.18286950000000002	(tourism) (hotel)	Leinster House Hotel
+326774	51.51238535	-0.18363785	(tourism) (hotel)	The Henry VIII Hotel
+326776	51.51116555	-0.18087435000000002	(tourism) (hotel)	Thistle Hyde Park
+326777	51.5128459	-0.18378339999999999	(tourism) (hotel)	The Blakemore
+326778	51.5113889	-0.1822349	(tourism) (hotel)	Lancaster Gate Hotel
+326870	51.4942559	-0.1851302	(tourism) (hotel)	Holiday Inn Kensington Forum
+326873	51.4948895	-0.1899313	(tourism) (hotel)	Hotel Majestic
+326874	51.4949487	-0.1905695	(tourism) (hotel)	Mercure
+326968	51.6391189	-0.29000985	(tourism) (hotel)	Edgwarebury Hotel and Restaurant
+327031	51.44443195	-0.96162445	(tourism) (hotel)	Hillingdon Prince
+327122	51.7493	-0.4706412	(tourism) (hotel)	Travel Lodge
+327547	51.49656265	-0.11236985	(tourism) (hotel)	Days Hotel
+327570	51.72779615	-0.4698643	(tourism) (hotel)	Shandish Manor Hotel
+327720	51.5145798	-0.12727275	(tourism) (hotel)	Covent Garden Hotel
+327930	51.14124275	-0.08980075	(tourism) (hotel)	Copthorne Hotel Effingham Park
+328014	51.54460335	-0.20656035	(tourism) (hotel)	Bishop's Lodge Hotel
+328328	51.5572645	-0.39802665	(tourism) (hotel)	Ramada South Ruislip
+328698	51.44944005	-0.9830931999999999	(tourism) (hotel)	Crescent Hotel
+328700	51.70379755	-0.4911594	(tourism) (hotel)	The Two Brewers
+328871	51.7280969	-1.0152819499999999	(tourism) (hotel)	Oxfordshire Golf Club
+328873	51.7271145	-1.05904875	(tourism) (hotel)	Oxford Belfry Hotel
+329197	51.731331850000004	0.6800343	(tourism) (hotel)	The Swan
+329224	51.45219605	-0.9843219000000001	(tourism) (hotel)	Belle Vue House Hotel
+329377	51.48053975	-0.48385164999999997	(tourism) (hotel)	Thistle Hotel
+330082	51.6305103	-0.7537927	(tourism) (hotel)	High Wycombe Central Travelodge
+330094	51.535722899999996	-0.19025029999999998	(tourism) (hotel)	London Marriott Hotel Maida Vale
+330345	51.731993	0.6760956499999999	(tourism) (hotel)	The Blue Boar
+330490	50.9670342	-0.1918431	(tourism) (hotel)	Travelodge
+330865	51.507806349999996	-0.6112936	(tourism) (hotel)	Holiday Inn
+331563	51.52707695	-0.11417189999999999	(tourism) (hotel)	Travelodge London Farringdon
+331818	51.49764475	-0.08136135	(tourism) (hotel)	Bermondsey Square Hotel
+332377	51.548579950000004	-0.17145280000000002	(tourism) (hotel)	Dillons Hotel
+332991	51.5360733	-0.10481979999999999	(tourism) (hotel)	Hilton Islington
+333298	51.43535115	-0.1245498	(tourism) (hotel)	Leigham Court Hotel
+334405	50.963709	-0.62030025	(tourism) (hotel)	The Old Railway Station
+334514	51.54216085	-0.1702621	(tourism) (hotel)	Marriott Hotel Regent's Park
+334971	50.9862148	-0.6073361	(tourism) (hotel)	The Angel Inn
+335091	50.95894715	-0.5092666	(tourism) (hotel)	Chequers
+336558	51.512114049999994	-0.17517749999999999	(tourism) (hotel)	Lancaster London
+337713	51.50160595	-0.11660780000000001	(tourism) (hotel)	Premier Inn Waterloo
+337906	51.50174335	-0.15883715	(tourism) (hotel)	The Park Tower, Knightsbridge
+338328	51.5226196	-0.12499335	(tourism) (hotel)	Hotel Russell
+338331	51.5107347	-0.1841829	(tourism) (hotel)	Thistle Kensington Gardens
+338551	51.497493399999996	-0.14561364999999998	(tourism) (hotel)	The Goring
+338644	51.5514622	-0.16712475	(tourism) (hotel)	Premier Inn
+338652	51.5112079	-0.07158175	(tourism) (hotel)	Premier Inn
+338691	51.50935295	-0.2723768	(tourism) (hotel)	Blue Star Hotel
+338945	51.25823675	0.6168232499999999	(tourism) (hotel)	Mercure Maidstone Great Danes
+339308	51.5829544	0.0211475	(tourism) (hotel)	Travelodge
+339317	51.49150005	-0.19631885	(tourism) (hotel)	Twenty Nevern Square Hotel
+339319	51.4925695	-0.19621385000000002	(tourism) (hotel)	Kensington Court Hotel
+339321	51.492797949999996	-0.1955014	(tourism) (hotel)	Manor Hotel
+339346	51.285853450000005	-0.7206166	(tourism) (hotel)	Potter's Inn
+339387	51.4734319	-0.4916543	(tourism) (hotel)	Arora / Sofitel
+339603	51.52253	-0.1427404	(tourism) (hotel)	Holiday Inn London Regents Park
+339712	51.490331999999995	-0.1376908	(tourism) (hotel)	The Victoria Inn London
+339995	51.5143149	-0.26894565000000004	(tourism) (hotel)	A to Z
+340180	51.4692388	-0.1791101	(tourism) (hotel)	Hotel Verta
+340262	51.60767575	-0.69402955	(tourism) (hotel)	Premier Inn High Wycombe
+340357	51.53650415	-0.1920252	(tourism) (hotel)	Quality Maîtrise Hotel
+340449	51.87303045	-0.40279305	(tourism) (hotel)	Premier Inn
+340450	51.87673985	-0.38249299999999997	(tourism) (hotel)	Ibis
+340785	51.54844625	-0.18061454999999998	(tourism) (hotel)	Holiday Inn Express Swiss Cottage
+341544	51.5175815	-0.14384795	(tourism) (hotel)	The Langham
+341865	51.51389365	-0.1623426	(tourism) (hotel)	Victory Services Club
+342032	51.5266965	-0.13583	(tourism) (hotel)	The Wesley
+342192	51.493218049999996	-0.1269766	(tourism) (hotel)	DoubleTree by Hilton Hotel London - Westminster
+342384	51.339259150000004	-0.06156955	(tourism) (hotel)	Selsdon Park Hotel
+342473	51.496152949999995	-0.4482658	(tourism) (hotel)	Premier Inn
+343068	51.4803179	-0.19120700000000002	(tourism) (hotel)	La Reserve
+343161	51.4858588	-0.19928065	(tourism) (hotel)	Hotel Ibis London Earls Court
+343216	51.49414025	-0.1899923	(tourism) (hotel)	Mariott Hotel Kensington
+343699	51.57580005	-0.19730195	(tourism) (hotel)	Central Hotel
+343711	51.56118225	-0.20355679999999998	(tourism) (hotel)	MB Hotel
+343881	51.523028	-0.25944520000000004	(tourism) (hotel)	Express by Holiday Inn
+344508	51.50023935	-0.1796673	(tourism) (hotel)	The Gore Hotel
+346284	51.48642975	-0.19784965	(tourism) (hotel)	Hotel Lily
+346332	51.51425895	-0.1809415	(tourism) (hotel)	Park Grand London Paddington
+346370	51.53369685	0.71615625	(tourism) (hotel)	Palace Hotel
+346371	51.53946645	0.7134318	(tourism) (hotel)	Travelodge
+346459	51.5800253	0.35462205	(tourism) (hotel)	Travelodge
+346952	51.50755695	0.0384178	(tourism) (hotel)	Ramada
+346956	51.508378500000006	0.0387545	(tourism) (hotel)	Premier Inn
+347097	51.58511485	0.4646325	(tourism) (hotel)	Travelodge
+347120	51.5833255	0.46047804999999997	(tourism) (hotel)	Holiday Inn
+347121	51.58779425	0.46102920000000003	(tourism) (hotel)	Premier Inn
+347413	51.6127357	0.2787487	(tourism) (hotel)	The Marygreen Manor Hotel
+347962	51.53421195	0.71399905	(tourism) (hotel)	The Royal
+348296	51.43656695	-1.08236995	(tourism) (hotel)	Old Lamb Hotel
+348316	51.436391400000005	-1.0821785	(tourism) (hotel)	Old Lamb Hotel
+348495	51.527632800000006	-0.12898035	(tourism) (hotel)	Premier Inn London Euston
+349379	51.50116695	-0.18600165000000002	(tourism) (hotel)	Kensington House Hotel
+349381	51.50190725	-0.1866853	(tourism) (hotel)	Milestone Hotel
+349440	51.5027137	-0.18817089999999997	(tourism) (hotel)	Royal Garden Hotel
+349442	51.512984	-0.31002569999999996	(tourism) (hotel)	Premier Inn Ealing
+349537	51.481181899999996	-0.18914755	(tourism) (hotel)	Millennium Hotel
+350210	51.5022208	-0.1600162	(tourism) (hotel)	Mandarin Oriental Hyde Park
+350348	51.1617073	-0.17431950000000002	(tourism) (hotel)	Premier Inn Gatwick North Terminal
+350473	51.5423976	-0.00727995	(tourism) (hotel)	Holiday Inn Stratford
+351233	51.52848405	-0.1283307	(tourism) (hotel)	Pullman London St Pancras
+351454	51.54407625	-0.00912235	(tourism) (hotel)	Premier Inn
+352065	51.40598945	0.15854715	(tourism) (hotel)	Premier Inn
+352186	51.5168479	-0.14954794999999999	(tourism) (hotel)	Holiday Inn
+352203	51.009376	-0.952402	(tourism) (hotel)	Premier Inn
+352404	51.4097887	-0.8415161	(tourism) (hotel)	Cantley Lodge
+352736	51.40145575	-0.654019	(tourism) (hotel)	Highclere Hotel
+352902	51.5687982	-0.3480998	(tourism) (hotel)	Eurotraveller Premier Hotel @ Harrow
+353241	51.51743595	-0.2909233	(tourism) (hotel)	Hotel 55
+353531	51.01511975	-0.26393315	(tourism) (hotel)	South Lodge Hotel
+353950	51.08913725	-0.7091187000000001	(tourism) (hotel)	Georgian House Hotel
+355075	51.3569058	-0.11343195	(tourism) (hotel)	Premier Inn Croydon West
+355076	51.35758955	-0.11554110000000001	(tourism) (hotel)	Hilton London Croydon
+355077	51.3573158	-0.11722325	(tourism) (hotel)	Hallmark Hotel
+355238	51.3021641	-0.07493085	(tourism) (hotel)	Travelodge Whyteleafe Caterham
+355240	51.3761364	-0.09760995	(tourism) (hotel)	Jurys Inn
+355241	51.3730306	-0.09103895000000001	(tourism) (hotel)	Croydon Park Hotel
+355279	51.1424793	0.32178365	(tourism) (hotel)	The Camden Arms Hotel
+355789	51.916036649999995	-0.66185255	(tourism) (hotel)	Swan Hotel
+356508	51.49558545	-0.14521305	(tourism) (hotel)	The Grosvenor
+356704	51.876372149999995	0.2472704	(tourism) (hotel)	Holiday Inn Express
+357224	51.51094875	-0.0783423	(tourism) (hotel)	DoubleTree by Hilton Hotel London - Tower of London
+357320	51.07457875	-0.8319116	(tourism) (hotel)	Old Thorns Manor Hotel
+357719	51.5017129	-0.023415949999999998	(tourism) (hotel)	International Hotel
+357729	51.56876785	-0.0979898	(tourism) (hotel)	Majestic Hotel
+358206	51.55841515	-0.2170502	(tourism) (hotel)	Travelodge London Cricklewood
+358341	51.51272095	-0.07590335000000001	(tourism) (hotel)	Hotel Indigo
+358407	51.52092955	-0.2629129	(tourism) (hotel)	Ramada Encore West London
+358733	51.48265525	-0.6079971	(tourism) (hotel)	The Harte And Garter
+358772	51.4820774	-0.6074096	(tourism) (hotel)	Macdonald Windsor Hotel
+358776	51.48184345	-0.6071933	(tourism) (hotel)	The Castle Hotel
+358859	51.54389475	0.0152589	(tourism) (hotel)	Viking Hotel
+359637	51.502353	-0.2163599	(tourism) (hotel)	K West Hotel and Spa
+360058	51.41522965	-0.78982695	(tourism) (hotel)	Coppid Beech Hotel
+360489	51.4967195	-0.20673065000000002	(tourism) (hotel)	Hilton Olympia
+360955	51.51622245	-0.06721545000000001	(tourism) (hotel)	Qbic London City
+362433	51.61116175	0.26899355	(tourism) (hotel)	Holiday Inn
+363122	51.491969999999995	-0.220391	(tourism) (hotel)	Novotel
+363135	51.49163525	-0.2105544	(tourism) (hotel)	The W14 Hotel and Bar
+363171	51.4942815	-0.1972176	(tourism) (hotel)	Premier Inn London Kensington (Olympia)
+363172	51.4940117	-0.19788945000000002	(tourism) (hotel)	easyHotel.com
+363227	51.5214665	-0.15341585000000002	(tourism) (hotel)	Hotel La Place
+363229	51.52208335	-0.15349995	(tourism) (hotel)	La Suite
+363232	51.521525800000006	-0.15342375	(tourism) (hotel)	Regency Hotel
+363417	51.5208685	-0.1566649	(tourism) (hotel)	Park Plaza Sherlock Holmes
+363878	51.51138655	-0.11839749999999999	(tourism) (hotel)	Hotel Strand Continental
+364175	51.501865949999996	-0.212587	(tourism) (hotel)	Kensington Suite Hotel
+367504	51.483140649999996	-0.20119265	(tourism) (hotel)	Travelodge
+367986	51.5101103	-0.131737	(tourism) (hotel)	Piccadilly Thistle
+367987	51.50981	-0.1297767	(tourism) (hotel)	Radisson Edwardian Hampshire Hotel
+368216	51.510220700000005	-0.19061335000000001	(tourism) (hotel)	DoubleTree by Hilton Hotel London - Hyde Park
+368219	51.5101749	-0.19092930000000002	(tourism) (hotel)	Westland Hotel
+368855	51.4737206	-0.0636912	(tourism) (hotel)	Marbella Hotel
+368895	51.65899505	-0.25321720000000003	(tourism) (hotel)	Travelodge
+368995	51.486264250000005	-0.202548	(tourism) (hotel)	Holiday Inn Express
+369060	51.528099	-0.1309691	(tourism) (hotel)	London Euston Travelodge
+370379	51.2956958	0.5112393	(tourism) (hotel)	The Village Maidstone
+370380	51.29623335	0.50769425	(tourism) (hotel)	Premier Inn
+371052	51.8754638	0.24507289999999998	(tourism) (hotel)	Premier Inn
+371851	51.4958606	-0.17033255	(tourism) (hotel)	The Rembrandt
+372210	51.513901000000004	-0.17894705	(tourism) (hotel)	The Brunel Hotel
+372625	51.512043750000004	-0.1783825	(tourism) (hotel)	Best Western Mornington
+373015	51.5119749	-0.17616074999999998	(tourism) (hotel)	London Elizabeth Hotel
+373693	51.5254978	-0.08290905000000001	(tourism) (hotel)	The Hoxton
+373939	51.515207950000004	-0.1741716	(tourism) (hotel)	Hotel Indigo
+373940	51.515649100000005	-0.17484329999999998	(tourism) (hotel)	Hotel Sophia
+374321	51.13164235	0.26548534999999995	(tourism) (hotel)	Hotel du Vin
+376250	51.526717149999996	-0.0828856	(tourism) (hotel)	Holiday Inn Express
+377175	51.5135704	-0.12971575000000002	(tourism) (hotel)	Z Hotels
+378711	51.4695851	-0.51032345	(tourism) (hotel)	Travelodge
+378781	51.50319845	-0.22258080000000002	(tourism) (hotel)	Grantly Hotel
+378782	51.50321755	-0.22249065	(tourism) (hotel)	Her Majesty Hotel
+379637	51.6678963	0.7264036	(tourism) (hotel)	Crouch Valley Lodge
+379832	51.515999949999994	-0.08818300000000001	(tourism) (hotel)	Apex London Wall Hotel
+381070	51.47963715	-0.00921615	(tourism) (hotel)	Hotel Ibis
+381078	51.46439735	-0.16774165000000002	(tourism) (hotel)	Travelodge
+381353	51.28678755	-0.75976245	(tourism) (hotel)	De Vere Village Hotel, Farnborough
+381770	51.663257200000004	0.83092645	(tourism) (hotel)	The White Horse
+382105	51.3505437	-0.3159328	(tourism) (hotel)	Holiday Inn
+382883	51.6249276	0.8179148	(tourism) (hotel)	Ye Olde White Harte Hotel
+383228	51.51559575	-0.07274655	(tourism) (hotel)	Hotel Ibis
+383445	51.4202841	-0.41549315	(tourism) (hotel)	Travelodge (Sunbury M3)
+384124	51.43584155	-0.5144823000000001	(tourism) (hotel)	Travelodge
+384453	51.39182325	-0.4244812	(tourism) (hotel)	Holiday Inn
+384888	51.126404300000004	0.25956705	(tourism) (hotel)	Brew House Hotel
+385081	51.5230997	-0.1038914	(tourism) (hotel)	The Zetter Townhouse
+385234	51.505009	-0.1925308	(tourism) (hotel)	Vicarage Private Hotel
+385408	51.61301165	-0.7707861	(tourism) (hotel)	Holiday Inn
+385806	51.74980665	-0.3401311	(tourism) (hotel)	The White Hart
+386062	51.14607475	0.31228685	(tourism) (hotel)	Mercure, Tunbridge Wells
+386533	51.7802368	0.0966263	(tourism) (hotel)	Travelodge- Harlow
+387405	51.37671635	-0.09771175	(tourism) (hotel)	The Lansdowne Hotel
+387659	51.4923152	0.01002635	(tourism) (hotel)	Holiday Inn Express
+389132	51.495276700000005	-0.18941439999999998	(tourism) (hotel)	EasyHotel
+389660	51.7374163	0.46356805	(tourism) (hotel)	The County Hotel
+389733	51.756009500000005	0.51821155	(tourism) (hotel)	Travel Inn
+389913	51.51266985	-0.0752245	(tourism) (hotel)	Motel One
+390521	51.3621792	-0.0712221	(tourism) (hotel)	Premier Inn Croydon South
+391602	51.3546104	-0.7071471	(tourism) (hotel)	Pennyhill Park
+391744	51.516331449999996	-0.16362595	(tourism) (hotel)	Marriott
+391801	51.49137065	-0.121398	(tourism) (hotel)	Park Plaza Riverbank
+391924	51.57448395	0.08544545	(tourism) (hotel)	Holiday Inn Express
+391931	51.574407050000005	0.08578705	(tourism) (hotel)	Holiday Inn Express
+392661	51.37528765	-0.44236325	(tourism) (hotel)	Oatlands Park
+392756	51.37410575	-0.45626795	(tourism) (hotel)	The Ship Hotel
+392872	51.5524249	-0.2106986	(tourism) (hotel)	The Cricklewood Lodge
+392874	51.55616565	-0.2141799	(tourism) (hotel)	The Crown Moran Hotel
+393201	51.5126807	-0.09972015000000001	(tourism) (hotel)	The Grange, St Paul's
+394115	51.5766519	0.01147315	(tourism) (hotel)	Sir Alfred Hitchcock
+394365	51.48286325	-0.31233999999999995	(tourism) (hotel)	Holiday Inn Brentford
+394677	51.854658400000005	-0.3977095	(tourism) (hotel)	Luton Hoo
+394769	51.506687400000004	-0.02805225	(tourism) (hotel)	Four Seasons Hotel
+394827	51.11149815	-0.1842201	(tourism) (hotel)	Arora Hotel
+394981	51.0893099	-0.056942	(tourism) (hotel)	Gravetye Manor
+395000	51.1915463	0.8847546	(tourism) (hotel)	Eastwell Manor Hotel
+395787	51.530296750000005	0.7480217499999999	(tourism) (hotel)	Roslin Beach Hotel
+395816	51.49000825	-0.6721822500000001	(tourism) (hotel)	Oakley Court Hotel
+395894	51.8987875	0.1911369	(tourism) (hotel)	The Old Bell
+396682	51.5159855	-0.11861920000000001	(tourism) (hotel)	Club Quarters
+396956	51.466551100000004	-0.2910828	(tourism) (hotel)	Premier Inn
+396991	51.4819495	-0.4817843	(tourism) (hotel)	Premier Inn Heathrow Terminal 5
+397926	51.5073225	-0.1294268	(tourism) (hotel)	The Trafalgar Hilton Hotel
+398232	51.513487600000005	-0.13262335	(tourism) (hotel)	Dean Street Townhouse
+398233	51.5140308	-0.13376365	(tourism) (hotel)	The Soho Hotel
+398544	51.342915649999995	0.7219558	(tourism) (hotel)	Coniston
+399648	51.25365095	-1.08008815	(tourism) (hotel)	Holiday Inn
+399868	51.1463066	-0.7554814000000001	(tourism) (hotel)	Bel & The Dragon
+399873	51.4683702	-0.4189433	(tourism) (hotel)	Hilton Garden Inn London Heathrow Airport
+400466	51.5063461	-0.15160410000000002	(tourism) (hotel)	45 Park Lane
+400788	51.020315	0.26146935	(tourism) (hotel)	The Middle House
+401082	51.903614250000004	-0.20320955000000002	(tourism) (hotel)	Ibis Stevenage
+401444	51.526683750000004	-0.5565385	(tourism) (hotel)	Pinewood
+401583	51.480371	-0.44578905	(tourism) (hotel)	Renaissance London Heathrow Hotel
+401598	51.911762249999995	-0.3858262	(tourism) (hotel)	Hilton Garden Inn Luton North Hotel
+401823	51.3015612	-0.5975495	(tourism) (hotel)	Gorse Hill Hotel
+401824	51.301570850000004	-0.5970976	(tourism) (hotel)	Gorse Hill Hotel
+401825	51.30171675	-0.5974615999999999	(tourism) (hotel)	Gorse Hill Hotel
+402040	51.5903843	-0.19944415	(tourism) (hotel)	Holiday Inn Express Golders Green
+402145	51.50474615	-0.1475651	(tourism) (hotel)	The Athenaeum Hotel
+402555	51.2493975	-0.76883205	(tourism) (hotel)	Travelodge
+402825	51.65445245	-0.3875834	(tourism) (hotel)	Premier Inn Watford Central
+403621	51.437764099999995	-0.53770245	(tourism) (hotel)	Runnymede Hotel
+403710	51.41699255	-0.5447484499999999	(tourism) (hotel)	Great Fosters
+403712	51.4168985	-0.54542795	(tourism) (hotel)	Great Fosters
+403791	51.5107759	-0.04364305	(tourism) (hotel)	Holiday Inn Express
+403852	51.50686255	-0.0041677	(tourism) (hotel)	Radisson Blue Edwardian
+404325	51.5084485	0.0354103	(tourism) (hotel)	Aloft
+404497	51.4304101	-0.97751475	(tourism) (hotel)	Hilton Reading
+404628	51.30036465	0.3386443	(tourism) (hotel)	Holiday Inn Maidstone
+404635	51.508387299999995	0.020299499999999998	(tourism) (hotel)	Crowne Plaza London - Docklands
+404778	51.33345415	-0.4380133	(tourism) (hotel)	Hilton Cobham
+405131	51.511875450000005	-0.00341485	(tourism) (hotel)	Travelodge London Docklands
+405625	51.54445585	-0.08889505	(tourism) (hotel)	Tommy Miah's Raj Hotel
+406869	51.6587926	-0.2549934	(tourism) (hotel)	Premier Inn
+407024	51.37488065	-0.09668170000000001	(tourism) (hotel)	Travelodge Croydon Central
+407432	51.35309415	-0.47051449999999995	(tourism) (hotel)	Brooklands Hotel
+407953	51.86083295	0.37441935	(tourism) (hotel)	Travelodge
+408012	51.507055949999994	-0.006992699999999999	(tourism) (hotel)	Hotel Ibis London Docklands
+408511	51.5153483	-0.1601533	(tourism) (hotel)	The Rose Court Hotel
+408517	51.519500550000004	-0.17087825	(tourism) (hotel)	Hilton London Metropole
+409393	51.474964	-0.88994485	(tourism) (hotel)	The Wee Waif
+409844	51.90707915	0.25221255	(tourism) (hotel)	Desalis Hotel Stansted
+410044	51.501356799999996	-0.16273315	(tourism) (hotel)	Bulgari Hotel
+410783	51.656947650000006	-0.25032785	(tourism) (hotel)	Holiday Inn
+410906	51.4930797	-0.23846764999999998	(tourism) (hotel)	Premier Inn
+411064	51.5813318	0.23746879999999998	(tourism) (hotel)	Palms Hotel
+411210	51.50506265	-0.1009371	(tourism) (hotel)	Premier Inn
+411740	51.51664545	-0.17266955	(tourism) (hotel)	Belvedere Hotel
+411742	51.51659135	-0.17277475	(tourism) (hotel)	Avon Hotel
+411767	51.516375749999995	-0.17315985	(tourism) (hotel)	Continental Hotel
+411768	51.5164715	-0.172985	(tourism) (hotel)	Dolphin Inn
+411769	51.516256850000005	-0.17336849999999998	(tourism) (hotel)	Hotel Dolphin
+411770	51.516553599999995	-0.172844	(tourism) (hotel)	Hyde Park Court Hotel
+411771	51.51594605	-0.17389739999999998	(tourism) (hotel)	Saint David's Hotels
+411772	51.51651135	-0.17291345	(tourism) (hotel)	Saint George Hotel
+411773	51.516099249999996	-0.1736355	(tourism) (hotel)	Shakespeare Hotel
+411774	51.51577115	-0.1742093	(tourism) (hotel)	So Paddington
+411775	51.51619475	-0.17347015	(tourism) (hotel)	Tony's House Hotel
+411776	51.51584685	-0.17409760000000002	(tourism) (hotel)	Tudor Court Hotel
+411885	51.3493647	-0.09987145	(tourism) (hotel)	Travelodge
+412160	51.5140703	-0.14685455	(tourism) (hotel)	Mermaid Hotel
+412928	51.437544450000004	-0.88935225	(tourism) (hotel)	Holiday Inn Reading M4 Jct 10
+413276	51.69341045	-0.4338031	(tourism) (hotel)	The Kings Lodge
+413667	51.134294350000005	-0.18173155	(tourism) (hotel)	Premier Inn
+414317	51.3777851	-0.0960525	(tourism) (hotel)	Hampton by Hilton
+414638	51.42398525	-1.0057713499999998	(tourism) (hotel)	Reading Lake Hotel
+414644	51.407154399999996	-1.04309635	(tourism) (hotel)	Roselawn Hotel
+414929	51.57719885	0.0444324	(tourism) (hotel)	Premier Inn
+415242	51.39910435	-1.0185471000000001	(tourism) (hotel)	Premier Inn Reading South
+416942	51.2709684	0.038903850000000004	(tourism) (hotel)	Premier Inn Westerham (Clacket Lane)
+417043	51.540835200000004	-0.6723412	(tourism) (hotel)	Grovefield Hotel
+417372	51.389284	-0.48802375	(tourism) (hotel)	The Bridge Hotel
+417400	51.532089150000004	-0.06168	(tourism) (hotel)	The RE Hotel London Shoreditch
+417428	51.639129999999994	-0.309021	(tourism) (hotel)	Village
+418179	51.5144119	-0.15906779999999998	(tourism) (hotel)	The Cumberland
+418253	51.54866455	-0.36652625	(tourism) (hotel)	Travelodge
+418987	51.7557494	0.12687765	(tourism) (hotel)	Park Inn Hotel
+419035	51.549964849999995	-0.18091089999999999	(tourism) (hotel)	Quality Hotel Hampstead
+419113	51.52894105	-0.29090645	(tourism) (hotel)	Premier Inn
+419312	51.2854697	0.54641815	(tourism) (hotel)	Hilton Maidstone
+419452	51.51102265	-0.0735352	(tourism) (hotel)	Travelodge
+419805	51.5331369	-0.13807485	(tourism) (hotel)	Happy Vale Hotel
+420528	51.518375500000005	-0.1350064	(tourism) (hotel)	Charlotte Street Hotel
+420534	51.5186671	-0.13541324999999999	(tourism) (hotel)	Rathbone Hotel
+420590	51.0423567	-0.2668083	(tourism) (hotel)	Mannings Heath Hotel
+420609	51.51155955	-0.29058735	(tourism) (hotel)	DoubleTree by Hilton Hotel London - Ealing
+421275	51.53294375	-0.2964161	(tourism) (hotel)	The Fox and Goose
+421887	51.33970335	0.606417	(tourism) (hotel)	Medway M2 Travelodge
+422117	51.53714375	0.0799218	(tourism) (hotel)	Travelodge
+422124	51.504981650000005	-0.14734925	(tourism) (hotel)	Park Lane Hotel
+424383	51.46728315	-0.36682614999999996	(tourism) (hotel)	Hotel IBIS London Hounslow
+425046	51.508586199999996	0.042097499999999996	(tourism) (hotel)	Travelodge
+425450	51.9168791	-0.21188585	(tourism) (hotel)	Abbington
+426137	51.562771850000004	-0.28100674999999997	(tourism) (hotel)	Premier Inn
+426345	51.4647602	-0.64581435	(tourism) (hotel)	Legoland Windsor Resort Hotel
+427975	51.51627525	-0.17194125	(tourism) (hotel)	Norfolk Towers Hotel
+428156	51.33621555	-0.7454073	(tourism) (hotel)	Travelodge
+428318	51.48079585	-0.1242795	(tourism) (hotel)	Comfort Inn Hotel
+428321	51.49207065	-0.14133095	(tourism) (hotel)	St. George's Inn Victoria
+428322	51.49210885	-0.1413893	(tourism) (hotel)	Victoria
+428325	51.4921517	-0.14145945	(tourism) (hotel)	Stanley House
+428326	51.49219385	-0.14152815	(tourism) (hotel)	Best Western Victoria Place
+428327	51.492315399999995	-0.1417165	(tourism) (hotel)	Alexander Hotel
+429332	51.583004599999995	-0.31747155	(tourism) (hotel)	Premier Inn
+429534	51.58186375	-0.317899	(tourism) (hotel)	St Nicholas Hotel
+430241	51.39073445	-0.1130105	(tourism) (hotel)	Croydon Court Hotel
+430243	51.3910203	-0.11315095	(tourism) (hotel)	Dunheved Hotel
+430244	51.39043155	-0.11283005	(tourism) (hotel)	Gilroy Court Hotel
+430245	51.3899379	-0.11259705	(tourism) (hotel)	Ibis Styles London Croydon Hotel
+430513	51.397707800000006	0.53315855	(tourism) (hotel)	Ramada Encore
+430654	51.4835589	-1.08793395	(tourism) (hotel)	The Elephant Hotel
+431362	51.55172385	-0.29455529999999996	(tourism) (hotel)	Wembley Hotel
+431568	51.873470749999996	0.18264785	(tourism) (hotel)	Pearse House
+431720	51.8763426	-0.50562925	(tourism) (hotel)	the highwayman
+431758	51.55391455	-0.29644705000000005	(tourism) (hotel)	Euro Hotel Wembley
+432056	51.376538749999995	-0.09601035	(tourism) (hotel)	Premier Inn
+432717	51.44695765	-0.4114661	(tourism) (hotel)	Travellodge
+433546	51.3728734	-0.55332925	(tourism) (hotel)	Foxhills
+433989	51.42244795	-0.9842924	(tourism) (hotel)	Millennium Madejski Hotel
+434091	51.541335849999996	-0.26165225000000003	(tourism) (hotel)	Bridge Park Hotel
+435350	51.55727225	-0.28254165	(tourism) (hotel)	Hilton London Wembley
+436152	51.50093305	-0.0197554	(tourism) (hotel)	Hilton London Canary Wharf Hotel
+436482	51.360423749999995	0.27104700000000004	(tourism) (hotel)	Brandshatch Place Hotel
+436834	51.59389525	0.0179909	(tourism) (hotel)	Grove Hill Hotel
+437013	51.5166805	-0.06980449999999999	(tourism) (hotel)	City Hotel London
+437100	51.51779500000001	-0.07113610000000001	(tourism) (hotel)	Brick Lane Hotel
+437422	51.5096003	-0.15493675	(tourism) (hotel)	Grosvenor House Hotel
+437569	51.481657600000005	-0.44153244999999997	(tourism) (hotel)	Radisson Blu Edwardian Heathrow Hotel
+437868	51.5269833	-0.1352146	(tourism) (hotel)	Cottage Hotel
+438032	51.47447565	-0.019569549999999998	(tourism) (hotel)	Mercure London Greenwich Hotel
+438423	51.5150824	-0.17437495	(tourism) (hotel)	Quality Hotel Paddington
+438429	51.51392	-0.1761877	(tourism) (hotel)	Royal Park Hotel
+438451	51.8810611	0.7902992499999999	(tourism) (hotel)	Best Western Marks Tey Hotel
+438718	51.4739593	-0.0890854	(tourism) (hotel)	The New Dome Hotel
+438723	51.47406345	-0.0901242	(tourism) (hotel)	Church Street Hotel
+439667	51.516393750000006	-0.12510654999999998	(tourism) (hotel)	Travelodge
+441616	51.4887345	-0.19589155	(tourism) (hotel)	Boka
+441619	51.490808650000005	-0.19312954999999998	(tourism) (hotel)	City Continental Kensington London
+441627	51.489626	-0.1943669	(tourism) (hotel)	Hotel Olympia
+441630	51.49073955	-0.19323315	(tourism) (hotel)	London Town Hotel
+441631	51.49055975	-0.19363355	(tourism) (hotel)	Lord Jim Hotel
+441633	51.491008750000006	-0.19370710000000002	(tourism) (hotel)	Mowbray Court Annexe
+441634	51.49079385	-0.19397535	(tourism) (hotel)	Mowbray Court Hotel
+441636	51.491159800000005	-0.19349095	(tourism) (hotel)	Oxford Hotel
+441639	51.4912071	-0.1934175	(tourism) (hotel)	Regency Court Hotel
+441646	51.490650349999996	-0.19345184999999998	(tourism) (hotel)	The Boltons Hotel by Best Western
+442117	51.623117	-0.35217165	(tourism) (hotel)	Grim's Dyke Hotel
+442339	51.52402825	-0.13797005	(tourism) (hotel)	Radisson Edwardian Grafton Hotel
+442440	51.513186399999995	-0.17898865	(tourism) (hotel)	Lancaster Hall Hotel
+442442	51.515235	-0.1780964	(tourism) (hotel)	Shaftesbury Premier London Paddington
+442774	51.3180419	-0.5618157500000001	(tourism) (hotel)	Premier Inn
+443123	51.5093985	-0.13659965000000002	(tourism) (hotel)	Le Méridien Piccadilly
+443347	51.4756931	-0.1819362	(tourism) (hotel)	Chelsea Harbour Hotel
+443568	51.5101961	-0.13573115	(tourism) (hotel)	Hotel Café Royal
+443620	51.52619885	-0.12567635	(tourism) (hotel)	Leigh Hotel
+444424	51.567846849999995	-0.09922745	(tourism) (hotel)	Best Western Highbury
+445536	51.3691112	-0.8042503000000001	(tourism) (hotel)	The Waterloo Hotel
+445786	51.452064050000004	-0.3295006	(tourism) (hotel)	Cole Court
+445787	51.45163465	-0.33036385	(tourism) (hotel)	London Road Guest House
+446800	51.48049735	-0.11345549999999999	(tourism) (hotel)	Belgrave Hotel
+446842	51.5816941	0.7045067	(tourism) (hotel)	The Rochford Hotel
+448467	51.425603800000005	-0.33417405	(tourism) (hotel)	The Park Hotel
+448536	51.498176349999994	-0.1800791	(tourism) (hotel)	Queen's Gate Hotel
+449040	51.417579450000005	0.1883302	(tourism) (hotel)	Rowhill Grange
+449386	51.205799150000004	-0.1663847	(tourism) (hotel)	Premier Inn Redhill
+449755	51.108014749999995	-0.06792535	(tourism) (hotel)	Alexander House Hotel
+449962	51.91279625	-0.20779484999999998	(tourism) (hotel)	The Cromwell
+450685	51.43217464999999	-0.5161746	(tourism) (hotel)	Boleyn Hotel
+450686	51.43250415	-0.51619535	(tourism) (hotel)	The Swan
+451652	51.4091636	-0.59258285	(tourism) (hotel)	Wheatsheaf Hotel
+451710	51.48284915	0.2310684	(tourism) (hotel)	The Royal Hotel
+451888	51.2626288	-1.0716386999999998	(tourism) (hotel)	Hilton Basingstoke
+452326	51.06680115	-0.3192719	(tourism) (hotel)	Premier Travel Inn
+452376	51.5073644	-0.021066500000000002	(tourism) (hotel)	London Marriott Hotel West India Quay
+452440	51.789648150000005	-0.1891059	(tourism) (hotel)	Homestead Court Hotel
+452454	51.5044241	-0.14976855	(tourism) (hotel)	Four Seasons Hotel, Park Lane
+453083	51.477856200000005	-0.51740105	(tourism) (hotel)	Hilton London Heathrow Airport Terminal 5
+453283	51.404519500000006	-0.34260179999999996	(tourism) (hotel)	Mitre Hotel
+453740	51.79224025	-0.20937925000000002	(tourism) (hotel)	Premier Inn
+453916	51.53848835	0.08065875	(tourism) (hotel)	Barking Hotel
+454300	51.50555705	-0.15019464999999999	(tourism) (hotel)	London Hilton on Park Lane
+454333	51.10672785	-1.0611285	(tourism) (hotel)	Travelodge
+455528	51.4854009	-0.1238262	(tourism) (hotel)	Travelodge
+455811	51.5378653	-0.9041140000000001	(tourism) (hotel)	The Catherine Wheel
+457581	51.0642051	-0.8353568499999999	(tourism) (hotel)	Champneys Health Spa
+459152	51.05789205	-0.92292405	(tourism) (hotel)	Scotland Farm
+459379	51.75447475	-0.3372017	(tourism) (hotel)	Premier Inn
+460200	51.4901297	-0.1381067	(tourism) (hotel)	The Belgrave
+460486	51.4658003	-0.18032445000000002	(tourism) (hotel)	Travelodge London Battersea
+461152	51.69190395	-0.386765	(tourism) (hotel)	Premier Inn Watford North
+461329	51.555661799999996	-0.2849907	(tourism) (hotel)	Wembley Plaza Hotel
+461450	51.4930251	-0.2314099	(tourism) (hotel)	Holiday Inn Express
+461889	51.49361535	-0.20216945	(tourism) (hotel)	Go Native Earl's Court
+463061	51.541239950000005	-0.64798705	(tourism) (hotel)	Burnham Beeches Hotel
+463217	51.507679350000004	-0.146953	(tourism) (hotel)	The Chesterfield Hotel
+464082	51.51423935	-0.17832320000000002	(tourism) (hotel)	Royal Eagle Hotel
+464097	51.51618685	-0.17488665	(tourism) (hotel)	Mercure London Paddington
+464103	51.29339935	-0.756309	(tourism) (hotel)	Travelodge
+464308	51.51950655	-0.14292765000000002	(tourism) (hotel)	Hallam Hotel

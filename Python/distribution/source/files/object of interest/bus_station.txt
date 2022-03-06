@@ -1,0 +1,238 @@
+288	-23.5583977	-46.5227261	(amenity) (bus_station)	Terminal Vila Carrao
+599	-23.6595888	-46.7674601	(amenity) (bus_station)	Terminal Metropolitano de Capão Redondo
+940	-23.4747698	-46.6697475	(amenity) (bus_station)	Terminal Cachoeirinha
+1175	-23.6488711	-46.6221088	(amenity) (bus_station)	Ponte Orca Zoo - Terminal Jabaquara
+1324	-23.6100078	-46.5716509	(amenity) (bus_station)	Terminal Rodoviário Nicolau Delic Módulo II
+1510	-23.5025884	-46.6238751	(amenity) (bus_station)	Terminal de Ônibus Santana
+1754	-23.5470896	-46.6902635	(amenity) (bus_station)	Terminal Vila Madalena
+1995	-23.5146428	-46.1836897	(amenity) (bus_station)	Terminal Rodoviário Geraldo Scavone
+2027	-23.8880243	-46.4290811	(amenity) (bus_station)	Rodoviária de Cubatão
+2467	-23.5244649	-46.5074202	(amenity) (bus_station)
+2468	-23.5242114	-46.5079674	(amenity) (bus_station)
+2469	-23.5239704	-46.5100838	(amenity) (bus_station)
+2470	-23.523786	-46.5102098	(amenity) (bus_station)
+2718	-23.9868431	-46.2957873	(amenity) (bus_station)
+2728	-23.979979	-46.295846	(amenity) (bus_station)
+3233	-23.7674156	-46.7164376	(amenity) (bus_station)	Terminal Varginha
+3250	-23.5285547	-46.5545572	(amenity) (bus_station)	Terminal Aricanduva
+3274	-23.5426987	-46.6358123	(amenity) (bus_station)	Terminal Correio
+3511	-23.3661447	-46.7509926	(amenity) (bus_station)	Terminal Rodoviário Aliío Marinho
+3523	-23.7419905	-46.6817919	(amenity) (bus_station)	R. Jequirituba 2740
+3754	-23.6513866	-47.2230062	(amenity) (bus_station)	Terminal Rodoviário de Ibiuna
+3823	-23.2039832	-46.155746	(amenity) (bus_station)	Rodoviária Municipal de Igaratá
+3934	-23.4362086	-46.7169882	(amenity) (bus_station)
+4002	-23.5243512	-46.7055753	(amenity) (bus_station)
+4003	-23.5186258	-46.7046848	(amenity) (bus_station)
+4004	-23.5188423	-46.7051676	(amenity) (bus_station)
+4005	-23.5216379	-46.700853	(amenity) (bus_station)
+4133	-23.5838781	-46.5840647	(amenity) (bus_station)	Terminal Vila Prudente
+6978	-23.6931074	-46.7785801	(amenity) (bus_station)	Baía de Apoio do Terminal Jardim Ângela
+8094	-23.5981285	-46.597231	(amenity) (bus_station)	Estação Rua do Grito
+9124	-23.4907733	-46.6892402	(amenity) (bus_station)
+12529	-23.550497	-46.6269804	(amenity) (bus_station)	Estação Metrô Pedro II
+12530	-23.5590003	-46.6146816	(amenity) (bus_station)	Estação Ana Neri
+12531	-23.564181	-46.611304	(amenity) (bus_station)	Estação Alberto Lion
+12532	-23.5745783	-46.6031101	(amenity) (bus_station)	Estação Clube Atlético Ypiranga
+12533	-23.5345188	-46.6444767	(amenity) (bus_station)
+12775	-23.7184653	-46.6988672	(amenity) (bus_station)	Estação de Transferência Rio Bonito
+13033	-24.2896244	-47.1750224	(amenity) (bus_station)	Rodoviária de Itariri
+13164	-23.5847047	-46.8127825	(amenity) (bus_station)	Terminal Rodoviário Santa Maria
+13360	-23.4481743	-46.4971918	(amenity) (bus_station)	Terminal Urbano Guarulhos
+13424	-23.6244494	-46.480813	(amenity) (bus_station)	Terminal Metropolitano Sônia Maria
+13712	-23.7083006	-46.7920332	(amenity) (bus_station)	Final de Ônibus Jardim dos Reis
+14486	-23.3283046	-46.7254125	(amenity) (bus_station)	Terminal Central Leste
+14922	-23.7003361	-46.7886464	(amenity) (bus_station)
+14926	-23.692808	-46.7838502	(amenity) (bus_station)
+14927	-23.7037009	-46.791331	(amenity) (bus_station)	Parada São Lourenço
+14928	-23.693458	-46.7850956	(amenity) (bus_station)
+14930	-23.6961358	-46.7851069	(amenity) (bus_station)
+14931	-23.6942731	-46.7825421	(amenity) (bus_station)
+14932	-23.6996124	-46.7873612	(amenity) (bus_station)
+14935	-23.6984446	-46.7857236	(amenity) (bus_station)
+14936	-23.7010887	-46.7896678	(amenity) (bus_station)
+14940	-23.7068455	-46.7915837	(amenity) (bus_station)	Parada
+14941	-23.7018367	-46.7908526	(amenity) (bus_station)
+14942	-23.7050284	-46.7912197	(amenity) (bus_station)	Parada Estância Mirim
+15337	-23.9873401	-46.2951499	(amenity) (bus_station)
+18701	-23.5248959	-46.6674133	(amenity) (bus_station)	Rodoviária de São Paulo Barra Funda
+21754	-23.5192455	-46.8355457	(amenity) (bus_station)	Estação Rodoviária de Carapicuíba
+23371	-23.494781	-46.4691418	(amenity) (bus_station)	Linha 2719/10 Ermelino Matarazzo X Metrô Vila Matilde
+23372	-23.4935913	-46.4705405	(amenity) (bus_station)	Linha 2720/10 Jd. Belém X Metrô Guilhermina
+23373	-23.501705	-46.5126271	(amenity) (bus_station)	Linha 2728/10 Jd. do Castelo X Metrô Penha
+25074	-23.5161736	-46.6246062	(amenity) (bus_station)	Rodoviária de São Paulo
+25075	-23.6463766	-46.6423324	(amenity) (bus_station)	Rodoviária de São Paulo Jabaquara
+25078	-23.4150902	-46.0445889	(amenity) (bus_station)	Rodoviária de Guararema
+25732	-23.5321827	-47.1319122	(amenity) (bus_station)	Terminal Intermunicipal "Alcides de Souza"
+27094	-23.5914546	-46.5978534	(amenity) (bus_station)	Estação Nossa Senhora Aparecida
+28669	-23.4867933	-46.6082841	(amenity) (bus_station)	Terminal Urbano Parada Inglesa
+30444	-23.5978929	-46.9072532	(amenity) (bus_station)
+30593	-23.6612576	-46.816041	(amenity) (bus_station)
+30787	-23.216723	-46.5941433	(amenity) (bus_station)	Terminal Portão
+30788	-23.1421487	-46.5810254	(amenity) (bus_station)	Terminal Jardim Imperial
+31748	-23.9898446	-46.2901225	(amenity) (bus_station)	Terminal de Onibus do Guarujá
+33660	-23.4383836	-46.746871	(amenity) (bus_station)	8017-10
+34193	-23.4325852	-46.4922626	(amenity) (bus_station)	Transfer CPTM-GRU
+34522	-23.5237589	-46.4105865	(amenity) (bus_station)	Ponto final do Pq Dom Pedro
+34639	-23.524278	-46.364067	(amenity) (bus_station)
+35066	-23.4860941	-46.7260496	(amenity) (bus_station)
+36144	-23.4485273	-46.4969178	(amenity) (bus_station)	Terminal Rodoviário de Guarulhos
+39126	-23.6558973	-46.852701	(amenity) (bus_station)	Rodoviária
+41755	-23.7631796	-46.6973487	(amenity) (bus_station)	6056-10/41
+41811	-23.754558	-46.6799514	(amenity) (bus_station)
+42156	-23.8622664	-46.7125396	(amenity) (bus_station)	Terminal Vargem Grande
+42211	-23.7306725	-46.7146779	(amenity) (bus_station)
+42212	-23.7307602	-46.7144117	(amenity) (bus_station)
+42689	-23.7581906	-46.7066125	(amenity) (bus_station)
+43211	-23.1834417	-46.4016655	(amenity) (bus_station)	Rodoviária
+43212	-24.0997173	-46.6374705	(amenity) (bus_station)	Rodoviária de Mongaguá
+43213	-23.3051868	-47.1320669	(amenity) (bus_station)	Rodoviária
+43215	-23.748921	-46.6158839	(amenity) (bus_station)	Ponto Final - Linha 409BI
+44889	-23.643722750000002	-46.7339338	(amenity) (bus_station)	Terminal João Dias
+45967	-23.651813	-46.5269045	(amenity) (bus_station)	Terminal Metropolitano Santo André Leste
+45995	-23.6133398	-46.47626845	(amenity) (bus_station)	Terminal Metropolitano São Mateus
+52823	-23.53856425	-46.563642599999994	(amenity) (bus_station)	Terminal Rodoviário Sul
+52824	-23.5371071	-46.563939700000006	(amenity) (bus_station)	Terminal Rodoviario Norte
+57093	-23.5424375	-46.59009975	(amenity) (bus_station)	Terminal Belém Lado Norte
+57094	-23.54302255	-46.588829950000004	(amenity) (bus_station)	Terminal Belém Lado Sul
+57495	-23.5201526	-46.7000186	(amenity) (bus_station)	Terminal Lapa
+57498	-23.6527558	-46.52889245	(amenity) (bus_station)	Terminal Metropolitano Santo André Oeste
+66322	-23.6467834	-46.6396267	(amenity) (bus_station)	Terminal Metropolitano Jabaquara
+67141	-23.5470313	-46.630076349999996	(amenity) (bus_station)	Terminal Parque Dom Pedro II
+73159	-23.53968105	-46.576938049999995	(amenity) (bus_station)	Terminal de onibus Tatuape Norte
+85521	-23.54729255	-46.760834599999995	(amenity) (bus_station)	Terminal Urbano Amador Aguiar
+88664	-23.5269884	-46.77616135	(amenity) (bus_station)	Estação Rodoviária de Osasco
+98925	-23.55248355	-46.73208245	(amenity) (bus_station)	Terminal de ônibus da Cidade Universitária
+100176	-23.6844531	-46.6264282	(amenity) (bus_station)	Terminal Metropolitano Diadema
+100178	-23.6916993	-46.5848954	(amenity) (bus_station)	Terminal Metropolitano Piraporinha
+100179	-23.72069575	-46.5511461	(amenity) (bus_station)	Terminal Metropolitano Ferrazópolis
+102132	-23.525482099999998	-46.6673566	(amenity) (bus_station)	Terminal Intermodal da Barra Funda
+104053	-23.5246712	-46.893513	(amenity) (bus_station)	Terminal Rodoviário Vereador Geraldo Correia
+104789	-23.5819993	-46.63836725	(amenity) (bus_station)	Terminal Ana Rosa
+111085	-23.667650549999998	-46.4602713	(amenity) (bus_station)	Terminal Municipal de Mauá
+111250	-23.61047865	-46.570315550000004	(amenity) (bus_station)	Terminal Rodoviário Nicolau Delic - Modulo I
+111252	-23.6099986	-46.57164995	(amenity) (bus_station)	Terminal Rodoviário Nicolau Delic - Modulo II
+111288	-23.54699935	-46.629111300000005	(amenity) (bus_station)	Terminal Mercado
+111295	-23.60310185	-46.60261835	(amenity) (bus_station)	Terminal Sacomã
+122179	-23.5319076	-47.1327958	(amenity) (bus_station)	Terminal Rodoviário de São Roque
+122538	-23.6043445	-46.92237735	(amenity) (bus_station)	Terminal Rodoviário de Cotia
+122636	-23.6987465	-46.5531448	(amenity) (bus_station)	Terminal Rodoviário João Setti
+124596	-23.316749549999997	-46.5839966	(amenity) (bus_station)	Terminal Rodoviário Siguemi Aiacyda
+126987	-23.95821445	-46.402181	(amenity) (bus_station)	Rodoviária de São Vicente
+128206	-23.64605325	-46.64204875	(amenity) (bus_station)	Terminal Rodoviário do Jabaquara
+130990	-23.46173455	-46.49728605	(amenity) (bus_station)	Terminal Metropolitano CECAP
+134680	-23.93508445	-46.3339749	(amenity) (bus_station)	Terminal Urbano do Valongo
+134682	-23.935352899999998	-46.33302985	(amenity) (bus_station)	Rodoviária de Santos
+135182	-23.193265150000002	-45.87817235	(amenity) (bus_station)	Terminal Rodoviário Frederico Ozanan
+142110	-23.491701650000003	-46.43481275	(amenity) (bus_station)	Terminal São Miguel
+146169	-23.534449000000002	-46.644579300000004	(amenity) (bus_station)	Terminal Princesa Isabel
+149052	-23.5839725	-46.58532155	(amenity) (bus_station)	Terminal Vila Prudente - Norte
+149310	-23.540020650000002	-46.647995249999994	(amenity) (bus_station)	Terminal Amaral Gurgel
+150320	-23.5665795	-46.7019318	(amenity) (bus_station)	Terminal Pinheiros
+151679	-23.58938785	-46.63396985	(amenity) (bus_station)	Terminal Metrô Vila Mariana
+152492	-23.63109935	-46.773036399999995	(amenity) (bus_station)	Terminal Campo Limpo
+152493	-23.6543012	-46.76224139999999	(amenity) (bus_station)	Terminal Capelinha
+153608	-23.66820075	-46.7353667	(amenity) (bus_station)	Terminal Guarapiranga
+154744	-23.47831065	-46.805283349999996	(amenity) (bus_station)	Terminal Rodoviário Gumercindo Modesto de Faria
+167239	-23.2074512	-46.895615	(amenity) (bus_station)	Terminal Rodoviário José Alves
+167829	-23.699673750000002	-46.505538900000005	(amenity) (bus_station)	Terminal Vila Luzita
+167966	-23.5152727	-46.68977665	(amenity) (bus_station)	Estação de Transferência Pedro Corazza
+168372	-23.778624550000004	-46.5286821	(amenity) (bus_station)	Terminal Tereza Suster
+168385	-23.698138200000002	-46.55255325	(amenity) (bus_station)	Terminal Metropolitano São Bernardo
+169410	-23.737416000000003	-46.5714677	(amenity) (bus_station)	P.C.O. Terminal Detroit
+170651	-23.512079399999998	-46.87544965	(amenity) (bus_station)	Terminal Rodoferroviário Gualberto Tolaine
+171492	-23.7422863	-46.8003986	(amenity) (bus_station)	Terminal Rodoviário Jardim Jacira
+171860	-23.6555469	-46.7225228	(amenity) (bus_station)	Terminal Guido Caloi
+172606	-23.69054495	-46.77402195	(amenity) (bus_station)	Terminal Jardim Ângela
+173272	-23.516722700000003	-46.18560145	(amenity) (bus_station)	Terminal Estudantes
+173274	-23.5146767	-46.1835554	(amenity) (bus_station)	Terminal Rodoviário Geraldo Scavone
+173977	-23.189382000000002	-46.8879091	(amenity) (bus_station)	Terminal Central
+173988	-23.4962235	-46.662535000000005	(amenity) (bus_station)	Terminal Casa Verde
+176541	-23.1935507	-46.87388155	(amenity) (bus_station)	TERMINAL VILA ARENS
+177373	-23.638846649999998	-46.53775705	(amenity) (bus_station)	Terminal Rodoviário de Santo André
+177694	-23.184138150000003	-46.854874249999995	(amenity) (bus_station)	Terminal Colônia
+177759	-23.16564465	-46.906454	(amenity) (bus_station)	Terminal Hortolândia
+178424	-23.1441042	-46.915159450000004	(amenity) (bus_station)	Terminal CECAP
+179301	-23.99879945	-46.41444405	(amenity) (bus_station)	Terminal Rodoviário Tude Bastos
+179854	-23.4319732	-46.7870457	(amenity) (bus_station)	Terminal Jardim Britânia
+180713	-23.51805445	-46.475830099999996	(amenity) (bus_station)	Terminal A.E.Carvalho
+183621	-23.4348415	-46.49514055	(amenity) (bus_station)	Terminal Metropolitano do Taboão
+183622	-23.457616549999997	-46.5696478	(amenity) (bus_station)	Terminal Metropolitano Vila Galvão
+186520	-23.5312319	-46.529499200000004	(amenity) (bus_station)	Terminal Urbano Vila Matilde
+186521	-23.533023399999998	-46.54390265	(amenity) (bus_station)	Terminal Urbano Metrô Penha
+186523	-23.51888005	-46.54691555	(amenity) (bus_station)	Terminal Penha
+191094	-24.02890695	-46.496114000000006	(amenity) (bus_station)	Terminal Rodoviário e Urbano Tatico
+192742	-23.2776511	-45.95434505	(amenity) (bus_station)	Rodoviária de Jacareí
+193403	-23.6492538	-46.758718099999996	(amenity) (bus_station)	Terminal Metrô Campo Limpo
+193409	-23.635586699999998	-46.641560299999995	(amenity) (bus_station)	Terminal Metrô Conceição
+194156	-23.6381233	-46.5363899	(amenity) (bus_station)	Terminal Urbano Professor Saladino
+195068	-23.4979974	-46.8010652	(amenity) (bus_station)	Terminal Rodoviário  Vila Helena Maria
+195162	-23.541674450000002	-46.8685298	(amenity) (bus_station)	Terminal Rodoviário Arnaldo Milan
+197258	-23.5118519	-46.3660352	(amenity) (bus_station)	Terminal Rodoviário Pedro Fava
+197567	-23.494165799999998	-46.401376549999995	(amenity) (bus_station)	Estação CPTM Itaim Paulista
+197905	-23.5289839	-46.77476395	(amenity) (bus_station)	Terminal Largo de Osasco Sul
+197908	-23.52791725	-46.775030799999996	(amenity) (bus_station)	Terminal Rodoviário Alfredo Tomaz
+197909	-23.527847350000002	-46.7749302	(amenity) (bus_station)	Terminal Rodoviário Alfredo Tomaz
+197910	-23.52788535	-46.775014150000004	(amenity) (bus_station)	Terminal Rodoviário Alfredo Tomaz
+197937	-23.687290349999998	-47.0205352	(amenity) (bus_station)	Terminal Municipal Vereador Benedito Lopes
+198214	-23.52559265	-46.630260449999994	(amenity) (bus_station)	Terminal Metrô Armênia
+198978	-23.206843499999998	-46.7846755	(amenity) (bus_station)	Terminal Municipal de Campo Limpo Paulista
+199922	-23.549633649999997	-46.63954065	(amenity) (bus_station)	Terminal Bandeira
+204366	-23.447532600000002	-46.4947676	(amenity) (bus_station)	Parada Rodoviária
+205729	-23.5175776	-46.626116749999994	(amenity) (bus_station)	Estacionamento Buser
+205968	-23.571930000000002	-46.708961450000004	(amenity) (bus_station)	Terminal Interurbano Butantã
+206250	-23.528821100000002	-46.90278085	(amenity) (bus_station)	Terminal Municipal de Jandira
+207482	-23.3285661	-46.72552	(amenity) (bus_station)	Terminal Metropolitano Leste de Franco da Rocha
+208187	-23.39442915	-46.32405645	(amenity) (bus_station)	Rodoviária de Arujá
+208721	-23.43941605	-46.40682725	(amenity) (bus_station)	Terminal Pimentas
+208762	-23.5546232	-46.9056201	(amenity) (bus_station)	Nossa Senhora de Fátima
+208823	-23.542959	-46.41603445	(amenity) (bus_station)	Terminal Guainazes
+211171	-23.64761735	-46.79844775	(amenity) (bus_station)	Terminal Casa Branca
+212688	-23.4148192	-46.0446424	(amenity) (bus_station)	Terminal Rodoviário
+213530	-23.6764197	-46.4155376	(amenity) (bus_station)	Terminal Rodoviário Jardim Itapeva
+216476	-23.613706399999998	-46.69512845	(amenity) (bus_station)	Terminal Água Espraiada
+220334	-23.93237175	-47.072214450000004	(amenity) (bus_station)	Terminal Rodoviário Metropolitano
+220521	-23.3660655	-46.7509158	(amenity) (bus_station)	Terminal Rodoviário Alipío Marinho
+220721	-23.5338396	-46.306810549999994	(amenity) (bus_station)	Terminal de Transportes Urbanos Vereador Diniz José dos Santos Faria
+222519	-23.52290315	-46.198477249999996	(amenity) (bus_station)	Terminal Central
+224880	-23.712255050000003	-46.415824650000005	(amenity) (bus_station)	Terminal Rodoviário Turistico
+225172	-23.13079755	-46.4667747	(amenity) (bus_station)	Rodoviária
+226762	-23.7225107	-46.59193845	(amenity) (bus_station)	P.C.O. Três Marias
+227875	-23.442226150000003	-46.49598225	(amenity) (bus_station)	Parada Alberto Leimer
+227876	-23.44117345	-46.49594075	(amenity) (bus_station)	Parada Albert Leimer
+227926	-23.45507345	-46.491415149999995	(amenity) (bus_station)	Parada Fórum
+229198	-23.4798824	-46.36798205	(amenity) (bus_station)	Terminal Urbano Engenheiro Manoel Feio
+231469	-23.28240375	-46.7416649	(amenity) (bus_station)	Terminal Leste
+231471	-23.28418675	-46.74239205000001	(amenity) (bus_station)	Terminal Oeste
+231987	-23.832330849999998	-46.817763799999994	(amenity) (bus_station)	Terminal Rodoviário de Embu Guaçu
+237715	-23.52417715	-46.8158234	(amenity) (bus_station)	Terminal Metropolitano Luiz Bortolosso
+238274	-23.72759955	-46.57441475	(amenity) (bus_station)	Terminal Grande Alvarenga
+239176	-23.6957843	-46.446065950000005	(amenity) (bus_station)	Terminal Rodoviário José Stella
+239558	-23.51926255	-46.83586625	(amenity) (bus_station)	Terminal Rodoviário Municipal José Ribeiro
+239631	-23.54476	-46.933220500000004	(amenity) (bus_station)	Terminal Rodoviário de Itapevi
+240109	-23.57036075	-46.04261045	(amenity) (bus_station)	Terminal Rodoviário de Biritiba Mirim
+241078	-23.57020835	-46.7929471	(amenity) (bus_station)	Terminal Novo Osasco
+242317	-23.6612686	-46.81603295	(amenity) (bus_station)	Terminal Intermunicipal São Marcos
+247991	-23.44437915	-46.91756365	(amenity) (bus_station)	Terminal Municipal de Santana de Parnaíba
+250842	-23.7372522	-46.697338900000005	(amenity) (bus_station)	Terminal Grajaú
+250847	-23.76779865	-46.7159266	(amenity) (bus_station)	Terminal Varginha
+251420	-23.6544343	-46.71307685	(amenity) (bus_station)	Terminal Santo Amaro
+253770	-24.02002155	-46.477681	(amenity) (bus_station)	Ponto de Parada PS Quietude
+254527	-23.2169641	-46.8800776	(amenity) (bus_station)	Terminal Vila Rami
+254955	-23.18533005	-46.96676465	(amenity) (bus_station)	Terminal Eloy Chaves
+255394	-23.58502445	-46.5835612	(amenity) (bus_station)	Terminal Vila Prudente - Sul
+255596	-23.718647949999998	-46.69878625	(amenity) (bus_station)	Estação de Transferência Rio Bonito
+255976	-23.61424565	-46.5010013	(amenity) (bus_station)	Terminal Sapopemba - Teotônio Vilela
+260341	-23.5857474	-46.72387275	(amenity) (bus_station)	Terminal Morumbi
+261296	-23.4182334	-46.456690449999996	(amenity) (bus_station)	Terminal Urbano São João
+262882	-23.98646165	-46.29468225	(amenity) (bus_station)	Terminal de ônibus (em construção)
+263026	-23.1796959	-45.88807155	(amenity) (bus_station)	Terminal Central
+263267	-23.33086875	-46.727286199999995	(amenity) (bus_station)	Terminal Central Oeste de Franco da Rocha
+265908	-23.6674567	-46.608042100000006	(amenity) (bus_station)	Terminal
+266244	-23.4248178	-46.4798849	(amenity) (bus_station)	Terminal de Ônibus GRU
+267350	-23.6625564	-46.706835549999994	(amenity) (bus_station)	Estação de Transferência Vitor Manzini
+267363	-23.8282904	-46.727034599999996	(amenity) (bus_station)	Terminal Parelheiros
+267939	-23.2601862	-47.296039699999994	(amenity) (bus_station)	Rodoviária de Itu
+269232	-23.197180250000002	-47.3018882	(amenity) (bus_station)	Rodoviária de Salto
+269406	-23.4099461	-46.8921284	(amenity) (bus_station)	Terminal de Ônibus da Fazendinha
+270999	-23.203975800000002	-46.155738850000006	(amenity) (bus_station)	Rodoviária Municipal de Igaratá
+271147	-23.659543749999997	-46.7674665	(amenity) (bus_station)	Terminal Metropolitano Capão Redondo

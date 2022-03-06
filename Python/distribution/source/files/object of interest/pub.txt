@@ -1,0 +1,615 @@
+79	-23.5455333	-46.5663888	(amenity) (pub)
+80	-23.5457536	-46.5663459	(amenity) (pub)
+81	-23.5456671	-46.566097	(amenity) (pub)
+297	-23.485354	-46.8563559	(amenity) (pub)	Black Horse
+352	-23.552211	-46.5645495	(amenity) (pub)
+429	-23.5706151	-46.7059711	(amenity) (pub)	Rei das Batidas
+677	-23.6026846	-46.6937609	(amenity) (pub)	Bom Rini
+690	-23.5618296	-46.6462079	(amenity) (pub)	Ludus Luderia
+728	-23.5406756	-46.6507816	(amenity) (pub)	Biroska
+748	-23.5529569	-46.599425	(amenity) (pub)	Cerveja Azul
+904	-23.5327518	-46.7274374	(amenity) (pub)	Fabrica do Chopp
+1003	-23.5578592	-46.6339305	(amenity) (pub)	Choperia Liberdade
+1012	-23.5631067	-46.6502772	(amenity) (pub)	The Blue Pub
+1171	-23.776624	-46.2980161	(amenity) (pub)
+1529	-23.506063	-46.4884087	(amenity) (pub)
+1600	-23.1921668	-45.8929502	(amenity) (pub)	Dunluce Irish Pub
+1773	-23.5615009	-46.6550971	(amenity) (pub)	Choperia Opção
+1786	-23.5332759	-46.6828222	(amenity) (pub)	Botequim
+1787	-23.5330041	-46.6826516	(amenity) (pub)	Velho Rabo
+1930	-23.5599755	-46.6964002	(amenity) (pub)	Pirajá
+2080	-23.8954428	-46.4258034	(amenity) (pub)
+2443	-23.5343877	-46.6723838	(amenity) (pub)	Boteco D'água Benta
+2946	-23.9823578	-46.3103035	(amenity) (pub)	Baraçai - Drinks 'n' fruits
+3362	-23.596665	-46.3978612	(amenity) (pub)	Bar do João
+4612	-23.5014047	-46.5577375	(amenity) (pub)
+4693	-23.5406709	-46.6077125	(amenity) (pub)
+4785	-23.6746673	-46.5097866	(amenity) (pub)	FuskaBar
+4905	-23.531925	-46.681915	(amenity) (pub)	O Catarina
+5542	-23.4947914	-46.6113053	(amenity) (pub)
+5658	-23.5550206	-46.6882884	(amenity) (pub)	Tanger
+5681	-23.7185653	-46.5738678	(amenity) (pub)
+5839	-23.6041838	-46.6372059	(amenity) (pub)	Confraria
+5874	-23.4905431	-46.5798687	(amenity) (pub)
+6473	-23.6021186	-46.6832563	(amenity) (pub)	Bar do Celso
+6500	-23.9648036	-46.330971	(amenity) (pub)	La Bell Music & Bar
+6505	-23.9332424	-46.3301813	(amenity) (pub)	Café Central
+6807	-23.5567295	-46.6925818	(amenity) (pub)	Galpão
+7229	-23.6469144	-46.658639	(amenity) (pub)	Bar da Madalena
+7231	-23.6469402	-46.6583708	(amenity) (pub)	Bar do Albino
+7422	-23.5659073	-46.5696604	(amenity) (pub)
+7445	-23.4989554	-46.59832	(amenity) (pub)
+7464	-23.5278546	-46.6191538	(amenity) (pub)
+7501	-23.4973411	-46.6259528	(amenity) (pub)
+7515	-23.530651	-46.6156717	(amenity) (pub)
+7544	-23.5262651	-46.6120996	(amenity) (pub)
+7547	-23.5255186	-46.6140076	(amenity) (pub)
+7551	-23.5295084	-46.6290414	(amenity) (pub)	Bar Du Carlão
+7564	-23.5311848	-46.6249813	(amenity) (pub)
+7565	-23.5299574	-46.6249823	(amenity) (pub)
+7566	-23.531098	-46.6247996	(amenity) (pub)
+7567	-23.5320201	-46.6246927	(amenity) (pub)
+7570	-23.5282447	-46.6274762	(amenity) (pub)
+7575	-23.5115535	-46.5941893	(amenity) (pub)
+7576	-23.5119405	-46.5944912	(amenity) (pub)	Empório da Vila
+7613	-23.5268874	-46.611747	(amenity) (pub)
+7626	-23.5180977	-46.5936258	(amenity) (pub)
+7629	-23.522247	-46.5929787	(amenity) (pub)
+7631	-23.5266567	-46.6188468	(amenity) (pub)
+7688	-23.499652	-46.6123468	(amenity) (pub)
+7689	-23.4999221	-46.6062194	(amenity) (pub)
+7695	-23.5450674	-46.6123017	(amenity) (pub)
+7699	-23.5415926	-46.6044989	(amenity) (pub)
+7700	-23.5265066	-46.6061071	(amenity) (pub)
+7701	-23.5264099	-46.6064272	(amenity) (pub)	Bar do Chico
+7732	-23.5398128	-46.6102968	(amenity) (pub)
+7753	-23.5141956	-46.7211394	(amenity) (pub)
+7767	-23.5095077	-46.5928433	(amenity) (pub)	Boteco Valedus
+7768	-23.5064975	-46.5962585	(amenity) (pub)
+7930	-23.5107439	-46.5867976	(amenity) (pub)
+7962	-23.5126688	-46.5907668	(amenity) (pub)	Bar Speers
+7963	-23.513159	-46.5900091	(amenity) (pub)
+7974	-23.5199741	-46.5912353	(amenity) (pub)	Bar Jinjeh
+7976	-23.5234835	-46.6169889	(amenity) (pub)
+7993	-23.534348	-46.6116486	(amenity) (pub)
+8016	-23.5383131	-46.608382	(amenity) (pub)
+8021	-23.5539406	-46.6172207	(amenity) (pub)
+8049	-23.5345371	-46.6026904	(amenity) (pub)
+8083	-23.5326691	-46.6215408	(amenity) (pub)	Bar Videirinha
+8108	-23.5336936	-46.6278639	(amenity) (pub)
+8119	-23.5334426	-46.6295824	(amenity) (pub)	Nosso Bar
+8129	-23.5152455	-46.6083673	(amenity) (pub)
+8134	-23.5178118	-46.6102971	(amenity) (pub)
+8176	-23.4854807	-46.5761261	(amenity) (pub)
+8178	-23.4838478	-46.572473	(amenity) (pub)
+8188	-23.5295231	-46.6207891	(amenity) (pub)	Mancha Beer
+8190	-23.5305469	-46.6208933	(amenity) (pub)
+8224	-23.5145139	-46.5937825	(amenity) (pub)
+8228	-23.5383497	-46.6014356	(amenity) (pub)
+8229	-23.5387233	-46.6040144	(amenity) (pub)
+8232	-23.5354801	-46.616705	(amenity) (pub)
+8249	-23.5307178	-46.6243232	(amenity) (pub)	Bar do Neno
+8250	-23.5294582	-46.6239481	(amenity) (pub)
+8252	-23.5308833	-46.6242993	(amenity) (pub)
+8265	-23.5311739	-46.6232641	(amenity) (pub)
+8269	-23.5275709	-46.6190037	(amenity) (pub)
+8271	-23.5339718	-46.6219419	(amenity) (pub)
+8282	-23.5316106	-46.6107068	(amenity) (pub)
+8288	-23.5319413	-46.617633	(amenity) (pub)	Bar e Lanches Vem Pra Cá
+8315	-23.5129269	-46.6079242	(amenity) (pub)
+8322	-23.5344389	-46.6047572	(amenity) (pub)
+8330	-23.5121162	-46.607328	(amenity) (pub)
+8337	-23.5420302	-46.606079	(amenity) (pub)
+8385	-23.5069151	-46.6040506	(amenity) (pub)
+8418	-23.5287118	-46.6391166	(amenity) (pub)
+8420	-23.5256113	-46.6408023	(amenity) (pub)
+8421	-23.5236622	-46.6406312	(amenity) (pub)
+8427	-23.5348614	-46.6302528	(amenity) (pub)
+8432	-23.5333034	-46.6295304	(amenity) (pub)
+8433	-23.5331774	-46.6299901	(amenity) (pub)
+8434	-23.5328458	-46.6312638	(amenity) (pub)
+8436	-23.5337508	-46.6276271	(amenity) (pub)
+8437	-23.5339331	-46.6269105	(amenity) (pub)
+8439	-23.5403833	-46.6221073	(amenity) (pub)
+8447	-23.5409838	-46.6179193	(amenity) (pub)
+8467	-23.5318356	-46.6155591	(amenity) (pub)
+8505	-23.5251573	-46.6282856	(amenity) (pub)
+8515	-23.5248537	-46.6083945	(amenity) (pub)
+8516	-23.5256789	-46.6080246	(amenity) (pub)
+8518	-23.536428	-46.6049809	(amenity) (pub)
+8520	-23.5373067	-46.6052545	(amenity) (pub)
+8529	-23.4949159	-46.587631	(amenity) (pub)	Bar do Ceara
+8534	-23.5257722	-46.6133459	(amenity) (pub)	Bar do Aurelio
+8568	-24.0079104	-46.4228027	(amenity) (pub)	Santa Cerva Botequim
+8592	-23.4951481	-46.5779271	(amenity) (pub)
+8597	-23.4917705	-46.5901407	(amenity) (pub)
+8606	-23.5054831	-46.5988406	(amenity) (pub)
+8612	-23.5224329	-46.5899734	(amenity) (pub)	Baro do Zé Rico
+8623	-23.4976904	-46.5943793	(amenity) (pub)
+8624	-23.4978171	-46.594478	(amenity) (pub)
+8627	-23.4977643	-46.5898865	(amenity) (pub)
+8629	-23.498522	-46.5898772	(amenity) (pub)
+8641	-23.6312938	-46.4769441	(amenity) (pub)
+8647	-23.575844	-46.625065	(amenity) (pub)
+8648	-23.5795405	-46.6257186	(amenity) (pub)
+8656	-23.5781924	-46.6226915	(amenity) (pub)	Coronel 555
+8674	-23.5969714	-46.5903877	(amenity) (pub)
+8682	-23.5847177	-46.5338573	(amenity) (pub)
+8688	-23.5052372	-46.6054374	(amenity) (pub)	Bar do Alemão
+8695	-23.524257	-46.5902375	(amenity) (pub)	Bar da Vila
+8696	-23.5243813	-46.5900988	(amenity) (pub)	Bar Ivone
+8712	-23.5317763	-46.6349073	(amenity) (pub)
+8715	-23.5310951	-46.638008	(amenity) (pub)
+8730	-23.5144126	-46.6076423	(amenity) (pub)
+8751	-23.4857051	-46.5723994	(amenity) (pub)	Boteco Pingaiada
+8753	-23.4849184	-46.5708023	(amenity) (pub)	Bar Galego
+8754	-23.4838913	-46.5686007	(amenity) (pub)	Boteco do João
+8755	-23.483569	-46.5679355	(amenity) (pub)	Lanchonete Feju
+8759	-23.482727	-46.5663993	(amenity) (pub)	Bar Genesio
+8814	-23.534675	-46.6024244	(amenity) (pub)
+8833	-23.4916257	-46.5781279	(amenity) (pub)	Cantinho do pão
+8836	-23.494818	-46.5873224	(amenity) (pub)
+8847	-23.4920397	-46.5733025	(amenity) (pub)	Bar Cris
+8961	-23.544334	-46.3149391	(amenity) (pub)	Boteco Helena
+8969	-23.5182724	-46.590907	(amenity) (pub)
+8971	-23.5193549	-46.5892104	(amenity) (pub)
+8972	-23.5194644	-46.5889132	(amenity) (pub)	Bar do Zinho
+8975	-23.5205887	-46.5873882	(amenity) (pub)	Bar da Vila
+9024	-23.5079636	-46.5426894	(amenity) (pub)
+9033	-23.5246702	-46.4777923	(amenity) (pub)
+9041	-23.524866	-46.4785384	(amenity) (pub)
+9054	-23.5198655	-46.5939003	(amenity) (pub)
+9063	-23.5517098	-46.6568919	(amenity) (pub)
+9065	-23.5500371	-46.6537694	(amenity) (pub)	Fasely
+9072	-23.5460014	-46.9409518	(amenity) (pub)
+9076	-23.5182631	-46.5910974	(amenity) (pub)
+9115	-23.5120025	-46.5863221	(amenity) (pub)
+9126	-23.5362353	-46.6094786	(amenity) (pub)
+9136	-23.5674654	-46.5884198	(amenity) (pub)
+9139	-23.5681726	-46.5859785	(amenity) (pub)
+9141	-23.5642064	-46.5901289	(amenity) (pub)
+9158	-23.557767	-46.5807788	(amenity) (pub)
+9159	-23.5584345	-46.5802477	(amenity) (pub)
+9163	-23.5590762	-46.5821668	(amenity) (pub)	Bar do Acre
+9173	-23.546026	-46.5920024	(amenity) (pub)
+9174	-23.5461588	-46.5921151	(amenity) (pub)
+9205	-23.5432637	-46.41316	(amenity) (pub)
+9208	-23.5422319	-46.41955	(amenity) (pub)
+9212	-23.5158553	-46.5834266	(amenity) (pub)
+9310	-23.5266882	-46.6425445	(amenity) (pub)
+9325	-23.5266185	-46.6427947	(amenity) (pub)
+9384	-23.5224102	-46.5927298	(amenity) (pub)	Casa do Norte Chic Chic
+9401	-23.5230046	-46.5918745	(amenity) (pub)
+9415	-23.4697022	-46.7477907	(amenity) (pub)
+9435	-23.7891024	-46.5359059	(amenity) (pub)	Bar do Bigode
+9436	-23.7878053	-46.536197	(amenity) (pub)	Bar do Isaias
+9448	-23.5495323	-46.6027922	(amenity) (pub)
+9575	-23.5389331	-46.6878439	(amenity) (pub)	Bar do Vandeco
+9777	-23.5236691	-46.5936756	(amenity) (pub)	Casa do Norte Chic Chic
+9781	-23.5135982	-46.6633376	(amenity) (pub)
+9783	-23.5139691	-46.6607573	(amenity) (pub)
+9785	-23.5145386	-46.6555884	(amenity) (pub)
+9790	-23.5126876	-46.5881952	(amenity) (pub)
+9813	-23.6212327	-46.6344853	(amenity) (pub)
+9836	-23.6211311	-46.6331141	(amenity) (pub)
+9844	-23.6047538	-46.6364557	(amenity) (pub)
+9845	-23.606211	-46.6365625	(amenity) (pub)
+9847	-23.6089268	-46.6369856	(amenity) (pub)
+9885	-23.5997469	-46.6260339	(amenity) (pub)
+9910	-23.54693	-46.5414986	(amenity) (pub)
+9932	-23.478658	-46.5519377	(amenity) (pub)
+9935	-23.4822024	-46.5527433	(amenity) (pub)
+9936	-23.4823873	-46.5526504	(amenity) (pub)
+10226	-23.5071477	-46.7096306	(amenity) (pub)
+10392	-23.5241567	-46.6416321	(amenity) (pub)
+10393	-23.5247733	-46.6411221	(amenity) (pub)
+10394	-23.5308614	-46.6381604	(amenity) (pub)
+10519	-23.5411371	-46.6062416	(amenity) (pub)
+10564	-23.4745136	-46.577567	(amenity) (pub)
+10575	-23.4912764	-46.5965958	(amenity) (pub)	Beto Boys
+10584	-23.4771529	-46.580459	(amenity) (pub)
+10586	-23.4764788	-46.5793893	(amenity) (pub)
+10588	-23.4766101	-46.5795211	(amenity) (pub)
+10621	-23.4825509	-46.5741606	(amenity) (pub)
+10622	-23.4824315	-46.5742245	(amenity) (pub)
+10623	-23.5186248	-46.6110419	(amenity) (pub)
+10625	-23.5172546	-46.6112957	(amenity) (pub)
+10672	-23.4878845	-46.5799398	(amenity) (pub)
+10675	-23.4814253	-46.5939522	(amenity) (pub)
+10722	-23.4912732	-46.5911595	(amenity) (pub)	Rosa & Cravos
+10746	-23.4939302	-46.5918558	(amenity) (pub)	Boteco da Tia
+10747	-23.492967	-46.5935862	(amenity) (pub)	Boteco Picafumo
+10749	-23.4920249	-46.5843547	(amenity) (pub)
+10753	-23.5007326	-46.5890288	(amenity) (pub)
+10779	-23.5566942	-46.6639534	(amenity) (pub)	Orange Point
+10792	-23.5365137	-46.5881312	(amenity) (pub)
+10796	-23.5382581	-46.6021365	(amenity) (pub)
+10797	-23.5383075	-46.6012572	(amenity) (pub)
+10798	-23.5370989	-46.5923771	(amenity) (pub)
+10825	-23.5379982	-46.5988471	(amenity) (pub)
+10826	-23.5359991	-46.5859345	(amenity) (pub)
+10828	-23.5350837	-46.5789756	(amenity) (pub)
+10829	-23.5351576	-46.5770426	(amenity) (pub)
+10839	-23.5351018	-46.5693153	(amenity) (pub)
+10840	-23.5350292	-46.5691645	(amenity) (pub)
+10849	-23.5304944	-46.5560939	(amenity) (pub)
+10851	-23.5309597	-46.5577732	(amenity) (pub)
+10874	-23.5122683	-46.6060789	(amenity) (pub)
+10881	-23.5136919	-46.6089707	(amenity) (pub)
+10883	-23.5148057	-46.6067578	(amenity) (pub)
+10886	-23.5134557	-46.6093043	(amenity) (pub)
+10889	-23.524028	-46.61507	(amenity) (pub)
+10915	-23.5623041	-46.6451277	(amenity) (pub)
+10939	-23.5094502	-46.6247592	(amenity) (pub)
+10941	-23.5053308	-46.6245968	(amenity) (pub)
+10953	-23.4974233	-46.5898432	(amenity) (pub)
+10976	-23.4905036	-46.583024	(amenity) (pub)
+10990	-23.4920881	-46.5873505	(amenity) (pub)	Bar do Beto
+10996	-23.9986746	-46.405656	(amenity) (pub)	Belmiro da Vila Botequim
+11035	-23.568593	-46.5839579	(amenity) (pub)
+11036	-23.5686538	-46.5830506	(amenity) (pub)
+11046	-23.5739113	-46.5802432	(amenity) (pub)
+11051	-23.5574381	-46.5970652	(amenity) (pub)
+11098	-23.4780023	-46.5858803	(amenity) (pub)
+11099	-23.4746606	-46.5846816	(amenity) (pub)
+11100	-23.4745917	-46.5848477	(amenity) (pub)	Bar do Rafa
+11131	-23.4807666	-46.5707016	(amenity) (pub)	Bato Muche
+11147	-23.560103	-46.5916559	(amenity) (pub)	Cantinho do Pica
+11414	-23.5551337	-46.6043016	(amenity) (pub)
+11417	-23.5536311	-46.6202714	(amenity) (pub)
+11427	-23.5563274	-46.5953052	(amenity) (pub)
+11436	-23.5946417	-46.6421512	(amenity) (pub)
+11450	-23.720018	-46.5477246	(amenity) (pub)
+11455	-23.6040381	-46.6275998	(amenity) (pub)
+11458	-23.6039934	-46.6364228	(amenity) (pub)
+11465	-23.6039178	-46.6445308	(amenity) (pub)
+11466	-23.6039954	-46.6448211	(amenity) (pub)
+11467	-23.6038648	-46.649254	(amenity) (pub)
+11609	-23.5433241	-46.6067256	(amenity) (pub)
+11610	-23.5437702	-46.6064372	(amenity) (pub)
+11612	-23.5308032	-46.6022138	(amenity) (pub)
+11613	-23.5339375	-46.6008212	(amenity) (pub)
+11614	-23.5352539	-46.600288	(amenity) (pub)
+11643	-23.4873884	-46.6239998	(amenity) (pub)
+11653	-23.4801217	-46.6218672	(amenity) (pub)
+11663	-23.4743318	-46.6188723	(amenity) (pub)
+11716	-23.4869996	-46.6207365	(amenity) (pub)
+11735	-23.4816922	-46.6126164	(amenity) (pub)
+11738	-23.4775939	-46.6105819	(amenity) (pub)
+11823	-23.5241031	-46.6496469	(amenity) (pub)
+12157	-24.0159662	-46.4010986	(amenity) (pub)	Dolf's
+12189	-23.5555702	-46.6157423	(amenity) (pub)
+12190	-23.5556264	-46.6145078	(amenity) (pub)
+12191	-23.5548639	-46.6143048	(amenity) (pub)
+12219	-23.5707353	-46.7405328	(amenity) (pub)	Bar do Léo
+12225	-23.571972	-46.7223074	(amenity) (pub)
+12228	-23.5242677	-47.1298124	(amenity) (pub)	Cia do Espeto
+12259	-23.5752542	-46.7301217	(amenity) (pub)	Butekona Elis
+12392	-23.5748755	-46.7289941	(amenity) (pub)
+12415	-23.5280891	-46.7767334	(amenity) (pub)
+12649	-23.5293851	-46.629241	(amenity) (pub)
+12651	-23.5921061	-46.6794751	(amenity) (pub)	Rey Castro
+12657	-23.5253191	-46.63619	(amenity) (pub)
+12749	-23.5237172	-46.7372957	(amenity) (pub)
+12754	-23.5211312	-46.7268156	(amenity) (pub)
+12777	-23.4982907	-46.5541562	(amenity) (pub)
+12778	-23.4991356	-46.5544164	(amenity) (pub)
+12845	-23.4831877	-46.5964241	(amenity) (pub)
+13116	-23.9662404	-46.3988028	(amenity) (pub)	Bar do Huck
+13118	-23.9640582	-46.3976418	(amenity) (pub)	Bar do Inácio
+13119	-23.9660798	-46.3991621	(amenity) (pub)	Bar do Tito
+13133	-23.6145377	-46.5702284	(amenity) (pub)	Good Fellas
+13176	-23.5663396	-46.5904923	(amenity) (pub)	Bar do Didi
+13179	-23.5635638	-46.5938636	(amenity) (pub)
+13238	-23.7995751	-46.5430105	(amenity) (pub)	Recanto do Peixe
+13241	-23.7884097	-46.536196	(amenity) (pub)	Bar do Eraldo
+13301	-23.4719835	-46.5331458	(amenity) (pub)	Lord Black
+13441	-23.5768315	-46.6235035	(amenity) (pub)	Bar do Filé
+13758	-23.5692892	-46.7159817	(amenity) (pub)
+13760	-23.5704169	-46.7106967	(amenity) (pub)	Bar e Restaurante Universidade
+13763	-23.5703215	-46.7109977	(amenity) (pub)
+14144	-23.5007089	-46.6257948	(amenity) (pub)
+14218	-23.5144647	-46.6521005	(amenity) (pub)
+14219	-23.5144583	-46.6517949	(amenity) (pub)
+14244	-23.5137781	-46.6521716	(amenity) (pub)
+14310	-23.5137575	-46.6512701	(amenity) (pub)
+14314	-23.4949286	-46.5806531	(amenity) (pub)
+14315	-23.494932	-46.5805194	(amenity) (pub)
+14317	-23.4949369	-46.5803248	(amenity) (pub)
+14318	-23.4949235	-46.5799732	(amenity) (pub)
+14329	-23.7136428	-46.5452906	(amenity) (pub)	Big John Bar
+14354	-23.5016367	-46.6127585	(amenity) (pub)
+14396	-23.5078065	-46.5984826	(amenity) (pub)
+14416	-23.5139429	-46.603139	(amenity) (pub)
+14417	-23.514133	-46.6032469	(amenity) (pub)
+14423	-23.5150306	-46.6037113	(amenity) (pub)
+14522	-23.5256284	-46.6184882	(amenity) (pub)
+14626	-23.4815341	-46.5995489	(amenity) (pub)	Bar dos Caras
+14711	-23.5186157	-46.605771	(amenity) (pub)
+14796	-23.4918531	-46.5845914	(amenity) (pub)
+14845	-23.4935353	-46.5859823	(amenity) (pub)	Os Parças
+14877	-23.7142243	-46.5434277	(amenity) (pub)	Casa Via
+14890	-23.5047055	-46.6064101	(amenity) (pub)
+14893	-23.5041641	-46.6076649	(amenity) (pub)
+15030	-23.5491537	-46.6463834	(amenity) (pub)	Bar Amigos do Zé
+15032	-23.4979643	-46.5857541	(amenity) (pub)
+15033	-23.4978507	-46.5858311	(amenity) (pub)
+15039	-23.5475113	-46.6408375	(amenity) (pub)
+15041	-23.5474837	-46.6406971	(amenity) (pub)
+15104	-23.5443536	-46.6424914	(amenity) (pub)
+15220	-23.5411154	-46.6371637	(amenity) (pub)	Churrasquinho Grego
+15349	-23.4913978	-46.5820362	(amenity) (pub)
+15363	-23.4882384	-46.5835436	(amenity) (pub)
+15463	-23.4949215	-46.5820707	(amenity) (pub)
+15465	-23.4949571	-46.5818437	(amenity) (pub)
+15479	-23.4951006	-46.5785146	(amenity) (pub)
+15617	-23.5134619	-46.6344179	(amenity) (pub)	Bar Brahma Aeroclube
+15630	-23.5694667	-46.566197	(amenity) (pub)	Bar e Lanches Trintanense
+17064	-23.5382896	-46.6197575	(amenity) (pub)
+17506	-23.537355	-46.6201619	(amenity) (pub)
+17510	-23.5376871	-46.6203964	(amenity) (pub)
+18719	-23.5285496	-46.6122805	(amenity) (pub)	Boteco do Carlão
+18743	-23.53587	-46.6196397	(amenity) (pub)
+20023	-23.5574274	-46.6890311	(amenity) (pub)
+20282	-23.530878	-46.6237239	(amenity) (pub)
+20285	-23.5293453	-46.6237051	(amenity) (pub)	Bar do Porfilho
+20574	-23.5363518	-46.6075493	(amenity) (pub)
+20576	-23.5360884	-46.606468	(amenity) (pub)
+20761	-23.5339322	-46.6099516	(amenity) (pub)
+20799	-23.5323624	-46.6098696	(amenity) (pub)
+20839	-23.5396913	-46.6132848	(amenity) (pub)
+20926	-23.5367365	-46.6209357	(amenity) (pub)
+20934	-23.5318524	-46.6236342	(amenity) (pub)	Soteros Bar
+20951	-23.5390447	-46.6049995	(amenity) (pub)	Buteco Bora Bora
+20972	-23.2845728	-47.2792673	(amenity) (pub)	Bar dos amigos
+21233	-23.9743274	-46.3169152	(amenity) (pub)	Bar do Bigode
+21317	-23.571906	-46.7051467	(amenity) (pub)	O Beco da USP
+21974	-23.5351667	-46.6205058	(amenity) (pub)	Vanessa Sucos
+22004	-23.543444	-46.6123438	(amenity) (pub)
+22168	-23.6227607	-46.4152106	(amenity) (pub)	Bar do Lúcio
+22225	-23.5426829	-46.6475923	(amenity) (pub)
+22336	-23.546093	-46.6488933	(amenity) (pub)
+22341	-23.5674494	-46.6874039	(amenity) (pub)
+22342	-23.5670909	-46.6865626	(amenity) (pub)
+22395	-23.7237225	-46.5800139	(amenity) (pub)	Bar e Lanches Castelinho
+22411	-23.5403209	-46.6491077	(amenity) (pub)
+22418	-23.5327414	-46.6166094	(amenity) (pub)
+22462	-23.5635508	-46.6876488	(amenity) (pub)
+22500	-23.5318749	-46.6159646	(amenity) (pub)
+22527	-23.5188201	-46.587135	(amenity) (pub)
+22531	-23.5529563	-46.6027196	(amenity) (pub)	Bar Juventos
+22546	-23.5655443	-46.5977475	(amenity) (pub)	Bar da Dani
+22703	-23.5404094	-46.6017078	(amenity) (pub)
+22788	-23.5570083	-46.6633557	(amenity) (pub)
+22791	-23.5566742	-46.6637286	(amenity) (pub)
+22886	-23.5149977	-46.5842953	(amenity) (pub)
+22925	-23.5470654	-46.6489157	(amenity) (pub)	Deskolado
+22928	-23.5416537	-46.6480667	(amenity) (pub)
+22930	-23.5402331	-46.6494495	(amenity) (pub)
+22968	-23.706243	-46.5534508	(amenity) (pub)	Nova Vega
+22978	-23.5478397	-46.555073	(amenity) (pub)	Rock Bar
+22989	-23.5541799	-46.6608217	(amenity) (pub)
+22990	-23.5541624	-46.6608004	(amenity) (pub)
+23164	-23.5557244	-46.5968224	(amenity) (pub)	Parada 66
+23756	-23.5683474	-46.6494908	(amenity) (pub)
+23758	-23.568295	-46.6494464	(amenity) (pub)
+23954	-23.5842419	-46.6830825	(amenity) (pub)	Boteco Boa Praça
+24190	-23.5546591	-46.6580206	(amenity) (pub)	Bar e Espetinho
+24543	-23.5538456	-46.5940991	(amenity) (pub)
+24633	-23.5557131	-46.6904891	(amenity) (pub)
+25092	-23.5237634	-46.6896019	(amenity) (pub)	Atlanta Snooker Bar
+25515	-23.5711192	-46.5666468	(amenity) (pub)
+25520	-23.5695126	-46.5667527	(amenity) (pub)
+25638	-23.5355411	-46.6351665	(amenity) (pub)	Bar e Restaurante Facalisa
+25678	-23.6470703	-46.4235416	(amenity) (pub)	Boteco do Sorriso
+25679	-23.5416453	-46.6901842	(amenity) (pub)	Boteco São Paulo
+25681	-23.5337768	-46.6873338	(amenity) (pub)	Lanchonete Esquina Pompeia
+25729	-23.4989173	-46.5894924	(amenity) (pub)
+25773	-23.5379603	-46.6329033	(amenity) (pub)
+25861	-23.5379331	-46.6351384	(amenity) (pub)
+26316	-23.4801708	-46.6559324	(amenity) (pub)
+26341	-23.4338089	-46.5840082	(amenity) (pub)	Botiquim Bora Tomar Uma
+26711	-23.503165	-46.6426794	(amenity) (pub)	Ikedaya Japanese bar
+26713	-23.7135541	-46.5212283	(amenity) (pub)	Bar e Mercearia JJ
+26979	-23.4765492	-46.1270614	(amenity) (pub)	Bar da Eliana
+27080	-23.4192884	-46.4678081	(amenity) (pub)
+27138	-23.4196339	-46.4686773	(amenity) (pub)
+27465	-23.5900785	-46.395142	(amenity) (pub)
+27658	-23.5877924	-46.3994834	(amenity) (pub)	Bar do Mineiro
+27958	-23.5806092	-46.6337268	(amenity) (pub)	Boteco do Machado
+28107	-23.4655551	-46.3917054	(amenity) (pub)	Bar do França
+28554	-23.5288314	-46.6078361	(amenity) (pub)
+28713	-23.7385461	-46.5694343	(amenity) (pub)	Bar do Balão
+28944	-23.4991659	-46.6040099	(amenity) (pub)	Reino Encantado
+28952	-23.6308756	-46.6686714	(amenity) (pub)	Tchê Café
+29023	-23.6667094	-46.5427449	(amenity) (pub)	Casinha Bar II
+29058	-23.6629175	-46.5389027	(amenity) (pub)	Cachaçaria Central
+29174	-23.6457404	-46.525847	(amenity) (pub)
+29253	-23.4774985	-46.39117	(amenity) (pub)	Bar da Bia
+29280	-23.6728717	-46.5397932	(amenity) (pub)	Fulla's Brew Pub
+29320	-23.6439726	-46.5083724	(amenity) (pub)	Bar Avenida
+29352	-23.6296828	-46.5035699	(amenity) (pub)	Ice Junk's Bar
+29379	-23.6347485	-46.5027398	(amenity) (pub)	Santo Car Bar e Açaí
+29444	-23.6301927	-46.4985918	(amenity) (pub)
+29487	-23.6643387	-46.5439479	(amenity) (pub)	Rogério Bar e Lanchonete
+29768	-23.6684106	-46.5817805	(amenity) (pub)	Stylu's Bar
+29957	-23.5546819	-46.6568583	(amenity) (pub)
+29983	-23.5549071	-46.6566797	(amenity) (pub)	Vitrini Bar
+30118	-23.5627215	-46.6666063	(amenity) (pub)	Miolo
+30323	-23.6604986	-46.5380501	(amenity) (pub)	Meio Natural
+30324	-23.6607016	-46.5380298	(amenity) (pub)	Arena
+30326	-23.6646772	-46.5227307	(amenity) (pub)
+30567	-23.6047494	-46.2343955	(amenity) (pub)	Cantinho do Céu
+30620	-23.5579991	-46.6783741	(amenity) (pub)	Bar & Lanches Pitameida
+30689	-23.7418992	-46.6597485	(amenity) (pub)
+30737	-23.5231152	-46.174651	(amenity) (pub)	Panaché Gastrobar
+30794	-23.5346317	-46.3166844	(amenity) (pub)	Cachaças Rock Bar
+31073	-23.5594547	-46.417292	(amenity) (pub)
+31074	-23.5588671	-46.4177429	(amenity) (pub)
+31292	-23.5641977	-46.6924636	(amenity) (pub)
+31358	-23.5665549	-46.6948359	(amenity) (pub)	Void General Store
+31399	-23.9628866	-46.3333851	(amenity) (pub)	HP Geek Bar n Burguer
+31517	-23.1802162	-46.9856746	(amenity) (pub)
+31948	-23.5569515	-46.6655027	(amenity) (pub)
+32200	-24.2857286	-47.1735165	(amenity) (pub)	Seô Boteco
+33043	-23.5212162	-46.1810331	(amenity) (pub)	Coronel Boteco
+33045	-23.5217561	-46.1823212	(amenity) (pub)	Norival
+33108	-23.1989901	-45.8888023	(amenity) (pub)	Raycel Bar
+33150	-23.9726261	-46.3203358	(amenity) (pub)	Tiki
+33177	-23.556899	-46.6921311	(amenity) (pub)	Favela da Vila
+33367	-23.9890513	-46.2995195	(amenity) (pub)	Burgman
+33369	-23.9896854	-46.3036791	(amenity) (pub)	Mucha Breja Beer Store
+33393	-23.9653248	-46.3140211	(amenity) (pub)	Mr. Dantas Music Bar
+33395	-23.9843089	-46.300019	(amenity) (pub)	Aloha Poke Beer
+33396	-23.9680281	-46.3268047	(amenity) (pub)	Adega Santista
+33397	-23.9650159	-46.3288379	(amenity) (pub)	472 Lounge & Food
+33398	-23.964734	-46.3297284	(amenity) (pub)	Goat Dining Club
+33626	-23.6754444	-46.6297195	(amenity) (pub)	Bar do Monks
+33677	-23.2813758	-46.7454107	(amenity) (pub)	Choperia Coral
+33834	-23.3469774	-46.7491408	(amenity) (pub)
+33905	-23.4666814	-46.5233823	(amenity) (pub)	Amarelinho's bar
+33933	-23.5058934	-46.4753843	(amenity) (pub)
+34100	-23.4764751	-46.5728534	(amenity) (pub)
+34505	-23.6221885	-46.4893977	(amenity) (pub)	Sede AEC Juta III
+34560	-23.6331513	-46.513824	(amenity) (pub)	Bar do Pica Pau
+34566	-23.632464	-46.5140308	(amenity) (pub)	Boteco da Karlinha
+34635	-23.5259514	-46.3634088	(amenity) (pub)	Bar do Gilberto
+34637	-23.5249001	-46.363827	(amenity) (pub)	Anônio Leite da Silva Bar e Mercearia
+34641	-23.5265415	-46.3630785	(amenity) (pub)	Boteco do Palmeirense
+34812	-23.599014	-46.6497845	(amenity) (pub)	Lady Fina Bistrô
+35039	-23.7350188	-46.593338	(amenity) (pub)	Boteco do Seu Zé
+35380	-23.720783	-46.549419	(amenity) (pub)
+35473	-23.6608076	-46.5377948	(amenity) (pub)	M5
+35482	-23.6577906	-46.5352167	(amenity) (pub)	Espaço Garten
+35505	-23.5843968	-46.5767967	(amenity) (pub)	Galo Jack Mix Bar
+35565	-23.5648894	-46.6694744	(amenity) (pub)	Periquita & Gin Club
+35579	-23.5606925	-46.6715507	(amenity) (pub)	Drink & Coffee 1262
+35588	-23.5602371	-46.6679038	(amenity) (pub)	Bar Brejinho
+35592	-23.5584129	-46.667908	(amenity) (pub)	Chavede Ouro Bar
+35626	-23.5592416	-46.6687645	(amenity) (pub)	Bar Balcao
+35808	-23.5028149	-46.3134067	(amenity) (pub)	Bar do Nô
+35809	-23.5026612	-46.3134374	(amenity) (pub)	Bar do Chico
+36135	-23.566596	-46.6953731	(amenity) (pub)
+36153	-23.5670247	-46.6956351	(amenity) (pub)
+36159	-23.2033618	-45.8973052	(amenity) (pub)	SAVEMA
+36165	-23.565449	-46.6978481	(amenity) (pub)	Bar do Arthur
+36172	-23.5658791	-46.6966047	(amenity) (pub)	Ednald's Bar
+36207	-23.4431487	-46.7159932	(amenity) (pub)
+36208	-23.4431709	-46.7158818	(amenity) (pub)
+36209	-23.4429777	-46.7162211	(amenity) (pub)
+36210	-23.4429088	-46.7167281	(amenity) (pub)
+36211	-23.4441429	-46.7166369	(amenity) (pub)
+36513	-23.5495514	-46.6139883	(amenity) (pub)
+36643	-23.205203	-45.9053244	(amenity) (pub)	Chaparral
+36683	-23.558015	-46.6900016	(amenity) (pub)	Boteco Coutinho
+36805	-23.5802841	-46.6518567	(amenity) (pub)	Assambleia
+36827	-23.558684	-46.6911018	(amenity) (pub)	Cervejaria Patriaca
+36951	-23.5577001	-46.6898006	(amenity) (pub)	Boteco Pimenta
+37061	-23.5584522	-46.635143	(amenity) (pub)	Big Fran's
+37673	-23.5455608	-46.5717369	(amenity) (pub)
+37772	-23.539192	-46.7978933	(amenity) (pub)
+37938	-23.5540263	-46.6469669	(amenity) (pub)	Aurora Club
+38274	-23.9325051	-46.3318175	(amenity) (pub)	Balacobaco
+38287	-23.5798258	-46.9282438	(amenity) (pub)	Petiscaria Estrela da Manhã
+38393	-23.9618173	-46.3168985	(amenity) (pub)	Everbrew Cervejaria
+38432	-23.5687562	-46.3654356	(amenity) (pub)	Bar do Bahia
+38434	-23.5698159	-46.3672027	(amenity) (pub)	Bar do Cícero
+38689	-23.6709102	-46.5051158	(amenity) (pub)	Bar do Kafú Pozinho
+38822	-23.6456966	-46.6637828	(amenity) (pub)	Bar e Lanches da Sorte
+38998	-23.7158662	-46.562554	(amenity) (pub)	Bar do Batata
+39277	-23.717508	-46.573278	(amenity) (pub)
+39377	-23.554071	-46.6942315	(amenity) (pub)	Bar Astor
+39383	-23.670218	-46.5055396	(amenity) (pub)	Bar Queiróz
+39404	-23.6713271	-46.5044895	(amenity) (pub)	Padeirinho
+39413	-23.3976734	-45.8866557	(amenity) (pub)	Bar do Alcides
+39473	-23.9685931	-46.3268652	(amenity) (pub)	Casa Cinza
+39475	-23.9684557	-46.3318367	(amenity) (pub)	Cinza General Store
+39476	-23.9696103	-46.328386	(amenity) (pub)	Bar Birura
+39477	-23.9695294	-46.3283471	(amenity) (pub)	Bar Maresia
+39906	-23.6309035	-46.5300156	(amenity) (pub)
+39908	-23.6378444	-46.524312	(amenity) (pub)	Kafofo Bar
+39993	-23.7427221	-46.6012369	(amenity) (pub)	Boteco Alvarenga
+40074	-23.4721248	-45.9862181	(amenity) (pub)	Tia do Torresmo
+40091	-23.6703549	-46.5057052	(amenity) (pub)	Bar do Chico
+40209	-23.5707029	-46.6386038	(amenity) (pub)	Sena's Bar
+40220	-23.4462183	-46.9141984	(amenity) (pub)	Bar do Detó
+40221	-23.4458697	-46.9150221	(amenity) (pub)	Hamburgueria do Portuga
+40238	-23.4766996	-46.6628863	(amenity) (pub)	Bar Do Jaiminho
+40241	-23.469079	-46.6672815	(amenity) (pub)
+40319	-23.6207867	-46.7294638	(amenity) (pub)	Bar da Senhora
+40654	-23.6185468	-46.6354303	(amenity) (pub)	Bar do Zé
+40717	-23.1889194	-45.8748756	(amenity) (pub)	Buteco do Bigode
+40887	-23.1898705	-45.8762058	(amenity) (pub)
+40898	-23.1898265	-45.8760197	(amenity) (pub)	Nivaldo e Monica's Bar
+41030	-23.1902418	-45.8746384	(amenity) (pub)	Bar do Dil
+41058	-23.1885659	-45.8741919	(amenity) (pub)
+41169	-23.1885072	-45.8758547	(amenity) (pub)	Bar e Lanchonete Shaowu
+41171	-23.1884937	-45.8760162	(amenity) (pub)
+41255	-23.1899282	-45.8759119	(amenity) (pub)
+41727	-23.5140004	-46.4954708	(amenity) (pub)	Toca da Onça
+41876	-23.6013162	-46.6508215	(amenity) (pub)	Bar da Onze
+41912	-23.4909548	-46.5918049	(amenity) (pub)	Andre's Bar
+41934	-23.4925945	-46.5840026	(amenity) (pub)
+41967	-23.4998298	-46.5914579	(amenity) (pub)	Bar da Lelê
+42076	-23.5008447	-46.6044851	(amenity) (pub)
+42153	-23.5792524	-46.6401339	(amenity) (pub)	Bar Birô
+42649	-23.5636587	-46.6927264	(amenity) (pub)
+42662	-23.3667901	-46.6023314	(amenity) (pub)	Bar do João
+43029	-23.5433641	-46.2365721	(amenity) (pub)
+43031	-23.5430742	-46.2350227	(amenity) (pub)
+124442	-23.61874125	-46.5385621	(amenity) (pub)	Bar e Lanches Utinga
+169514	-23.1950827	-45.8933777	(amenity) (pub)	O Caneco Bar
+174303	-23.541202650000002	-46.62929575	(amenity) (pub)	A Casa das Ostras
+174308	-23.541869249999998	-46.629317799999995	(amenity) (pub)	Hocca Bar
+183277	-23.22634145	-45.912540199999995	(amenity) (pub)	Bar do Xuxu
+184245	-23.73825665	-46.5744187	(amenity) (pub)	Bar das Cores
+184247	-23.738639550000002	-46.57410055	(amenity) (pub)	Bar São Jorge
+186682	-23.77654625	-46.53097075	(amenity) (pub)	Cantinho do Luiz
+191031	-23.73699945	-46.57315215	(amenity) (pub)	Boteco de Leandros
+192767	-23.77830815	-46.528396	(amenity) (pub)	Karaoke Neblina
+193675	-23.57263725	-46.44710395	(amenity) (pub)	Aquarius Rock Bar
+194054	-23.57295795	-46.720491949999996	(amenity) (pub)	Bartantã
+195527	-23.5742898	-46.73010575	(amenity) (pub)	Bar restaurante do Waldir
+199177	-23.19260985	-46.8855393	(amenity) (pub)	Bar Baridade
+205385	-23.611989100000002	-46.6341799	(amenity) (pub)	Lanchonete Lírio do Bosque
+208063	-23.565875050000002	-46.7009321	(amenity) (pub)	Villa Coqueiro I
+209499	-23.76967585	-46.648983900000005	(amenity) (pub)	Bar do Edinho
+210497	-23.65361765	-46.5342554	(amenity) (pub)	Boteco Maria
+213216	-23.5816346	-46.6059919	(amenity) (pub)	Quina Bar
+213225	-23.577959800000002	-46.60347715	(amenity) (pub)	Bar Moby Dick
+213239	-23.6026089	-46.612867550000004	(amenity) (pub)	Relicario Bar
+216301	-23.813045199999998	-46.4811829	(amenity) (pub)	Bar da Lú
+217918	-23.98771665	-46.2970842	(amenity) (pub)	Saveiros Bar
+225177	-23.132568550000002	-46.4641542	(amenity) (pub)	Bar do Jair
+234090	-23.5665902	-46.7963478	(amenity) (pub)	Bar do Nenê
+234194	-23.515264700000003	-46.54495085	(amenity) (pub)	Sombreiro
+234905	-23.41929305	-46.46780325	(amenity) (pub)	Bar do Zé Lagoa
+239157	-24.00703595	-47.158230950000004	(amenity) (pub)	Bar do Miguel
+239167	-24.00850885	-47.1577646	(amenity) (pub)	Bar do Moisés
+239420	-23.7114637	-46.41929075	(amenity) (pub)	8 Bits
+239695	-23.77906365	-46.3020852	(amenity) (pub)	Bar da Zilda
+244214	-23.822769049999998	-46.703902400000004	(amenity) (pub)	Bar da Conceição
+244636	-23.6819385	-46.7608017	(amenity) (pub)	bar do zé neto
+244656	-23.63891585	-46.74729205	(amenity) (pub)	bar lucilio
+245021	-23.680591200000002	-46.7419081	(amenity) (pub)	Bar do Mauricio
+245024	-23.6747344	-46.7411502	(amenity) (pub)	bar
+245038	-23.6754344	-46.7408789	(amenity) (pub)	bar
+245042	-23.68057635	-46.7420779	(amenity) (pub)	Bar do zé bolinha
+245069	-23.6809828	-46.74213375	(amenity) (pub)	Bar do João
+247534	-23.205610749999998	-45.899248799999995	(amenity) (pub)	Espetinho da Ema
+247536	-23.2048999	-45.8986714	(amenity) (pub)	RudNick Bar
+247614	-23.2033527	-45.8937161	(amenity) (pub)	Barismo
+249977	-23.4882136	-46.6075209	(amenity) (pub)	Bar do Zé
+250324	-23.199262150000003	-45.89383885	(amenity) (pub)	O Turco Gordo
+250332	-23.2025601	-45.8934321	(amenity) (pub)	Gogó da Ema
+252238	-23.5839406	-46.809912	(amenity) (pub)	Bar Chapéu de Couro
+254024	-23.62859505	-46.5951977	(amenity) (pub)	Loucos por Churrasco
+254048	-23.647410999999998	-46.5680947	(amenity) (pub)	Bar do Ceara
+254748	-23.2037885	-45.8979573	(amenity) (pub)	Villa Ema Bar & Chopperia
+255113	-23.197104449999998	-45.9045378	(amenity) (pub)	Outside The Box
+255126	-23.5259764	-46.36351065	(amenity) (pub)	Bar do Gilberto
+256061	-23.67491365	-46.7400613	(amenity) (pub)	bar
+260935	-23.206731050000002	-45.894636750000004	(amenity) (pub)	Fucking Crazy Boss
+261848	-23.67972035	-46.73942045	(amenity) (pub)	BAR DO PIAUI
+264609	-23.713303	-46.41492935	(amenity) (pub)	Antigo Bar da Estação
+265877	-23.4553461	-46.5430105	(amenity) (pub)	Esquina dos Magalhães

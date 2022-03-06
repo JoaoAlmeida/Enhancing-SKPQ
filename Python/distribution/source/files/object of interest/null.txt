@@ -1,0 +1,370 @@
+158	-23.526324	-46.6669239	(amenity) (null)	Metro Barra Funda
+159	-23.5342672	-46.6554111	(amenity) (null)
+358	-23.9671453	-46.3344149	(shop) (null)	Espaço Unibanco - shopping Miramar
+368	-23.5389513	-46.5648631	(amenity) (null)
+500	-23.5472396	-46.5738229	(shop) (null)	Lanchonete Acácio
+658	-23.5592263	-46.6891582	(shop) (null)	Ekoa Café
+1131	-23.5659178	-46.6530161	(shop) (null)	Starbucks
+1566	-23.5643953	-46.6652134	(shop) (null)	Suplicy Cafés Especiais
+1599	-23.1928464	-45.8953368	(shop) (null)	Fran's Café
+1615	-23.1969291	-45.8984214	(shop) (null)	Haruf
+1635	-23.1971362	-45.9050035	(shop) (null)	Provence
+2143	-23.5788223	-46.5866206	(shop) (null)	Fran's Cafe
+2214	-23.5560155	-46.6584189	(shop) (null)	Urbe Café
+2220	-23.5521679	-46.6530923	(shop) (null)	Augusta Bakery St.
+3328	-23.6650781	-46.5217191	(shop) (null)
+3614	-23.6000233	-46.6809273	(amenity) (null)
+3803	-23.5560369	-46.691405	(shop) (null)	Coffee Lab
+3883	-23.604446	-46.6589192	(shop) (null)	Fran's Café
+4244	-23.562291	-46.6557866	(shop) (null)	Starbucks
+4851	-23.5815293	-46.6410446	(shop) (null)	Fran's Café
+4882	-23.5598553	-46.6365048	(amenity) (null)
+4977	-23.5733557	-46.6439473	(shop) (null)	Starbucks
+5171	-23.546653	-46.6520949	(shop) (null)	Starbucks
+5627	-23.5788106	-46.6427872	(amenity) (null)	Eça de Queiroz
+5636	-23.5579426	-46.6618157	(shop) (null)	Starbucks
+5637	-23.5578737	-46.6617462	(shop) (null)	Fran's Café
+5638	-23.5593998	-46.6631311	(amenity) (null)	Teatro Renaissance
+6278	-23.6865843	-46.6223002	(shop) (null)	Tropical Sorvetes
+6322	-23.5598291	-46.6618969	(shop) (null)	Starbucks
+6474	-23.6082435	-46.6923887	(amenity) (null)	Bike Sampa Estação 97 - Lions Monções
+6475	-23.6018604	-46.6832269	(amenity) (null)	Bike Sampa Estação 94 - Bandeirantes
+7045	-23.5297979	-46.5762144	(amenity) (null)	Parque do Piqueri
+7052	-23.5330977	-46.575423	(amenity) (null)	Tuiuti
+7053	-23.53889	-46.5756056	(amenity) (null)	Metrô Boulevard Tatuapé
+7055	-23.5938333	-46.6604957	(amenity) (null)	Parque Ibirapuera - Portao 06
+7058	-23.5616906	-46.6598437	(amenity) (null)	Alliance Francaise
+7059	-23.592197	-46.6468286	(amenity) (null)	Cinemateca
+7060	-23.5871658	-46.6479617	(amenity) (null)	Instituto Biológico
+7061	-23.5929796	-46.6428314	(amenity) (null)	Capitão Macedo
+7062	-23.5895735	-46.6403766	(amenity) (null)	Belas Artes
+7063	-23.5869898	-46.6431851	(amenity) (null)	Bikesampa
+7064	-23.6006684	-46.6650779	(amenity) (null)	Avenida Sabia
+7065	-23.5863283	-46.6412354	(amenity) (null)	Rua Humberto I
+7066	-23.5576208	-46.6651657	(amenity) (null)
+7067	-23.5817826	-46.6442057	(amenity) (null)	Sesc Vila Mariana
+7068	-23.5812797	-46.641288	(amenity) (null)	Metrô Ana Rosa
+7069	-23.5744363	-46.6611417	(amenity) (null)	Rua Estados Unidos
+7070	-23.5750262	-46.644244	(amenity) (null)	Rua Cubatão
+7071	-23.5792397	-46.650102	(amenity) (null)	Viaduto Tutóia
+7072	-23.562256	-46.6681224	(amenity) (null)	Bela Cintra
+7073	-23.6075091	-46.6743151	(amenity) (null)	Fernandes de Lima
+7074	-23.604041	-46.6696807	(amenity) (null)	Rouxinol
+7075	-23.6087537	-46.6688949	(amenity) (null)	Estação 56 Shopping Ibirapuera
+7076	-23.6151726	-46.6639862	(amenity) (null)	Avenida Carinas
+7077	-23.6108583	-46.6628545	(amenity) (null)	Universidade Ibirapuera
+7078	-23.6126631	-46.6585477	(amenity) (null)	Avenida Aratãs
+7079	-23.6066248	-46.6575309	(amenity) (null)	Alameda dos Anapurus
+7080	-23.6034622	-46.6544241	(amenity) (null)	Avenida Indianopolis
+7081	-23.6011618	-46.6713634	(amenity) (null)	Avenida Grauna
+7082	-23.5913909	-46.6713296	(amenity) (null)	Jacques Felix
+7083	-23.5898421	-46.6742644	(amenity) (null)	Bandeira Paulista
+7086	-23.5962928	-46.6698963	(amenity) (null)	Diogo Jacome
+7088	-23.5921001	-46.6555875	(amenity) (null)	Parque Ibirapuera - Portao 05
+7089	-23.5944023	-46.6548665	(amenity) (null)	Avenida Ibirapuera
+7090	-23.6008016	-46.6598882	(amenity) (null)	Parque das Bicicletas
+7091	-23.6041644	-46.6608536	(amenity) (null)	Nossa Senhora Aparecida
+7096	-23.5673363	-46.6737194	(amenity) (null)	Avenida Brasil
+7100	-23.5813096	-46.6674323	(amenity) (null)	Henrique Martins
+7104	-23.5538222	-46.7101022	(amenity) (null)	Sampa Bike
+7106	-23.5361397	-46.5782124	(amenity) (null)	André Vidal
+7127	-23.5986225	-46.6440856	(amenity) (null)	BikeSampa
+7172	-23.5738887	-46.677175	(amenity) (null)	Bike Sampa
+7173	-23.577249	-46.6797016	(amenity) (null)	Bike Sampa
+7232	-23.7233818	-46.5447884	(shop) (null)	Smart Fit
+7236	-23.7230331	-46.5431117	(shop) (null)	Starbucks
+8372	-23.5748486	-46.6349412	(amenity) (null)
+8588	-23.6227667	-46.7010979	(shop) (null)	Starbucks
+8667	-23.5661172	-46.665665	(shop) (null)	Santo Grão Oscar Freire
+8761	-23.4814646	-46.5993793	(shop) (null)	Pet shop Parking
+9292	-23.5493679	-46.7170231	(amenity) (null)	Sampa Bike
+9372	-23.9324842	-46.3300089	(shop) (null)	Cafeteria do Museu
+9612	-23.5688171	-46.6471224	(shop) (null)	Fran's Café
+9637	-23.5494685	-46.6367679	(amenity) (null)	Largo São Francisco
+9638	-23.5754051	-46.6393784	(amenity) (null)	Metrô Paraíso
+9990	-23.5824215	-46.676517	(shop) (null)	Starbucks
+10806	-23.5556416	-46.6351825	(shop) (null)	Sol Café
+10995	-23.9989209	-46.4058861	(shop) (null)	All Beef's
+11012	-23.9975814	-46.4072176	(shop) (null)	McCafé
+11288	-23.5464156	-46.6578367	(shop) (null)	Casa do Pão de Queijo
+11842	-23.5953663	-46.6488842	(amenity) (null)	Secretaria da educação
+11843	-23.6025875	-46.6483137	(amenity) (null)	UNIP
+11847	-23.6203041	-46.6790628	(amenity) (null)	Gabrielle DAnnunzio
+11848	-23.6168321	-46.6814306	(amenity) (null)	Flórida
+11849	-23.6150391	-46.6872507	(amenity) (null)	Arizona
+11851	-23.610368	-46.6864207	(amenity) (null)	Açaí Clube
+11852	-23.6101817	-46.6797915	(amenity) (null)	Luisiânia
+11853	-23.6134094	-46.6776273	(amenity) (null)	Demóstenes
+11854	-23.6162467	-46.678809	(amenity) (null)	Gil Eanes
+11855	-23.6150741	-46.673547	(amenity) (null)	Estação 85 :Morais de Barros
+11856	-23.6051654	-46.6809903	(amenity) (null)	Ribeiro do Vale
+11857	-23.6001378	-46.6893838	(amenity) (null)	Estação 95 Procópio Ferreira
+11858	-23.6023388	-46.6948394	(amenity) (null)	Estação 100 Guararapes
+11859	-23.6045132	-46.6961216	(amenity) (null)	Estação 99 Berrini
+11860	-23.5989864	-46.683461	(amenity) (null)	Cardoso de Melo
+11864	-23.5847933	-46.6893644	(amenity) (null)	Cidade Jardim
+11879	-23.55698	-46.6929804	(amenity) (null)	109. Morás
+11886	-23.5514059	-46.6847816	(amenity) (null)	281. Praça Horácio Sabino
+11888	-23.5541306	-46.7014801	(amenity) (null)	277. Praça Pôr do Sol
+11890	-23.5420799	-46.6862755	(amenity) (null)	274. Cayowaá
+11891	-23.5402691	-46.6826801	(amenity) (null)	273. Cajaíba
+11892	-23.5372917	-46.6845547	(amenity) (null)	272. Alfonso Bovero
+11895	-23.5339416	-46.686372	(amenity) (null)	271. Cotoxó
+11896	-23.5363004	-46.6778761	(amenity) (null)	267. Caiubi
+11897	-23.5338836	-46.6761308	(amenity) (null)	261. Apiacás
+11899	-23.5319607	-46.6849696	(amenity) (null)	264. Desembargador do Vale
+11900	-23.5290143	-46.680116	(amenity) (null)	262. Bourbon
+11901	-23.5282495	-46.685154	(amenity) (null)	263. Barão do Bananal
+11902	-23.5299917	-46.6751739	(amenity) (null)	244. Airosa Galvão
+11903	-23.528726	-46.6719319	(amenity) (null)	245. Parque da Água Branca
+11905	-23.5335172	-46.6693434	(amenity) (null)	247. Lacerda de Almeida
+11907	-23.5387548	-46.6712432	(amenity) (null)	254. Teatro Tuca
+11908	-23.5379256	-46.6739042	(amenity) (null)	258. Doutor Franco da Rocha
+11909	-23.5361665	-46.6668642	(amenity) (null)	250. Cardoso de Almeida
+11910	-23.5355907	-46.6641811	(amenity) (null)	249. Paraguaçu
+11911	-23.5395279	-46.6634282	(amenity) (null)	253. Itaguaba
+11912	-23.5391063	-46.6608575	(amenity) (null)	252. Hospital Samaritano
+11913	-23.5388615	-46.6580046	(amenity) (null)	251. Doutor Albuquerque Lins
+11914	-23.5439084	-46.6646259	(amenity) (null)	146. Estádio do Pacaembu
+11915	-23.5453787	-46.6574178	(amenity) (null)	145. Parque Buenos Aires
+11916	-23.5381863	-46.6537562	(amenity) (null)	156. Barão de Tatuí
+11919	-23.5438982	-46.6489858	(amenity) (null)	151 Estação Santa Casa
+11920	-23.5397988	-46.6498944	(amenity) (null)	150. Metrô Santa Cecília
+11921	-23.5401885	-46.6477245	(amenity) (null)	152. Terminal Amaral Gurgel
+11922	-23.5482153	-46.6464816	(amenity) (null)	133. Praça Roosevelt
+11923	-23.5499074	-46.6501061	(amenity) (null)	166. Marquês de Paranaguà
+11924	-23.5340557	-46.6451319	(amenity) (null)	154. Terminal Princesa Isabel
+11925	-23.5298535	-46.6348122	(amenity) (null)	163. Metrô Tiradentes
+11926	-23.5268146	-46.6296489	(amenity) (null)	162. Metrô Armênia
+11930	-23.5410971	-46.6765104	(amenity) (null)	259. Praça Irmãos Karmam
+11931	-23.5432921	-46.6728281	(amenity) (null)	255. Professor João Arruda
+11932	-23.5544213	-46.6580254	(amenity) (null)	119. Haddock Lobo
+11933	-23.5570706	-46.6587199	(amenity) (null)	118. Augusta
+11934	-23.5548207	-46.6516619	(amenity) (null)	120. Shopping Frei Caneca
+11935	-23.5612246	-46.6550721	(amenity) (null)	122. MASP
+11938	-23.5478354	-46.6300617	(amenity) (null)	172. Terminal Dom Pedro ll
+11939	-23.5658634	-46.6190053	(amenity) (null)
+11940	-23.5694881	-46.6221305	(amenity) (null)	142. Lins de Vasconcelos
+11941	-23.5718367	-46.6288167	(amenity) (null)	157. Paes de Andrade
+11942	-23.5756571	-46.6210609	(amenity) (null)	159. Mesquita
+11943	-23.5752319	-46.6232611	(amenity) (null)	155. Heitor Peixoto
+11944	-23.5781866	-46.6146922	(amenity) (null)	101. Mariano Procópio
+11945	-23.5740446	-46.6123067	(amenity) (null)	130. Frederico Von Martius
+11946	-23.5757918	-46.6060875	(amenity) (null)	276. Fico
+11947	-23.5845656	-46.6077644	(amenity) (null)	131. Parque da Independência
+11948	-23.5916745	-46.6101327	(amenity) (null)	132. Moreira de Godói
+11949	-23.5727696	-46.588505	(amenity) (null)	187. Clube Juventus
+11950	-23.5626304	-46.5906113	(amenity) (null)	186. Hospital CEMA
+11951	-23.5626414	-46.5994099	(amenity) (null)	185. Camé
+11952	-23.5605701	-46.5850541	(amenity) (null)	188. Pereira Jácome
+11953	-23.5536772	-46.5899889	(amenity) (null)	189. Sapucaia
+11954	-23.5490745	-46.5853163	(amenity) (null)	190. Serra de Jairé
+11955	-23.5522794	-46.5794252	(amenity) (null)	191. Largo do Arroz
+11956	-23.5439249	-46.583912	(amenity) (null)	179. SESC Belenzinho
+11957	-23.5418367	-46.5891227	(amenity) (null)	178. Metrô Belém
+11958	-23.5385047	-46.5849879	(amenity) (null)	177. Agostiniano
+11959	-23.5383469	-46.5934688	(amenity) (null)	176. Passos
+11960	-23.5398493	-46.6050267	(amenity) (null)	175. Celso Garcia
+11962	-23.5420599	-46.6118697	(amenity) (null)	174. Hipódromo
+11963	-23.5597715	-46.5587737	(amenity) (null)	222. Shopping Anália Franco
+11964	-23.5565043	-46.5607151	(amenity) (null)	220. CERET
+11965	-23.5550195	-46.5664268	(amenity) (null)	219. Francisco Zicardi
+11967	-23.555758	-46.5716054	(amenity) (null)	221. Barão Serro Largo
+11968	-23.5524269	-46.5728203	(amenity) (null)	192. Demétrio Ribeiro
+11969	-23.5515566	-46.5518419	(amenity) (null)	223. Nova Jerusalém
+11970	-23.5473451	-46.553406	(amenity) (null)	224. Santa Gertrudes
+11971	-23.5484534	-46.5603079	(amenity) (null)	217. Antonio Camardo
+11972	-23.5482625	-46.5682626	(amenity) (null)	193. Nossa Senhora do Bom Parto
+11974	-23.5448768	-46.558534	(amenity) (null)	216. Emílio Mallet
+11975	-23.5436559	-46.5558413	(amenity) (null)	225. Praça Nicola Antônio Camargo
+11976	-23.5437379	-46.5483736	(amenity) (null)	226. Coronel Marques
+11977	-23.5461826	-46.542377	(amenity) (null)	227. Conselheiro Carrão
+11978	-23.5407021	-46.5580709	(amenity) (null)	210. Diamante Preto
+11981	-23.5454427	-46.5742209	(amenity) (null)	194. Praça Sílvio Romero
+11982	-23.5408459	-46.570618	(amenity) (null)	212. Praça Santa Terezinha
+11983	-23.5267935	-46.549814	(amenity) (null)	Nossa Senhora da Penha
+11984	-23.5262687	-46.5405085	(amenity) (null)	234. Senac
+11985	-23.5261886	-46.5363604	(amenity) (null)	235. Mirandinha
+11986	-23.5347574	-46.5434743	(amenity) (null)	231. Júlio Colaço
+11987	-23.5378637	-46.5429496	(amenity) (null)
+11988	-23.536688	-46.5375023	(amenity) (null)	229. Vicente Pallotti
+11989	-23.5358007	-46.5346277	(amenity) (null)	230. Coronel Pedro Dias de Campos
+11990	-23.5326715	-46.5308799	(amenity) (null)	239. Gil de Oliveira
+11991	-23.5365854	-46.5271281	(amenity) (null)	240. Praça da Conquista
+11992	-23.5278884	-46.5271468	(amenity) (null)	237. Padres Olivetanos
+11993	-23.524044	-46.5221727	(amenity) (null)	205. Batalhão
+11994	-23.5278022	-46.5646055	(amenity) (null)	203. UNIP
+11995	-23.5306383	-46.5666246	(amenity) (null)	202. Síria
+11996	-23.5315925	-46.5659696	(amenity) (null)	201. Santa Maria
+11997	-23.5335741	-46.5667119	(amenity) (null)	204. Hospital Municipal do Tatuapé
+11998	-23.5339934	-46.5607924	(amenity) (null)	209. Icaraí
+12000	-23.5576724	-46.6451402	(amenity) (null)	124. Conselheiro Ramalho
+12001	-23.5604074	-46.6489366	(amenity) (null)	123. Almirante Marques de Leão
+12002	-23.5640162	-46.6489148	(amenity) (null)	126. Ribeirão Preto
+12003	-23.5627485	-46.6442054	(amenity) (null)	125. Santa Madalena
+12004	-23.570443	-46.6458828	(amenity) (null)	14. Itaú Cultural
+12006	-23.5874781	-46.6660348	(amenity) (null)	37. Parque Ibirapuera - Portão 08
+12010	-23.5762344	-46.6560676	(amenity) (null)	18. Ginásio do Ibirapuera
+12012	-23.5659702	-46.6548942	(amenity) (null)	17. Alameda Jaú
+12013	-23.5821943	-46.6802047	(amenity) (null)	36. Pedroso Alvarenga
+12014	-23.534663	-46.6601665	(amenity) (null)	148. Alameda Barros
+12016	-23.5683507	-46.677744	(amenity) (null)	69. Atlântica
+12018	-23.5963912	-46.6675072	(amenity) (null)	44. Diogo Jácome
+12019	-23.6037478	-46.69021	(amenity) (null)	96. Hípica Paulista
+12044	-23.5588018	-46.6591008	(shop) (null)	Starbucks
+12504	-23.7007114	-46.4531952	(shop) (null)	Chocobelha
+12584	-23.6106162	-46.6968414	(shop) (null)	Starbucks
+13132	-23.6140007	-46.5701743	(shop) (null)	China's
+13188	-23.5544228	-46.6900223	(shop) (null)	Saj Libanais
+13506	-23.6092757	-46.6375988	(amenity) (null)
+13508	-23.6160446	-46.660057	(amenity) (null)
+13962	-23.5291403	-46.635898	(shop) (null)	Sorbing Korean Dessert Cafe
+14571	-23.5597087	-46.6654883	(shop) (null)	Pão
+14623	-23.6937159	-46.5505728	(shop) (null)	Starbucks
+14998	-23.5704482	-46.6574171	(shop) (null)	Lox deli
+15130	-23.5840626	-46.6753551	(shop) (null)	Starbucks
+15154	-23.5679649	-46.6480845	(shop) (null)	Starbucks
+15166	-23.6258269	-46.6608525	(shop) (null)	Starbucks
+15169	-23.5681911	-46.6489224	(shop) (null)	Starbucks
+15237	-23.5567973	-46.6590336	(shop) (null)	Soul cafe
+15249	-23.6163263	-46.6179071	(shop) (null)	Café Donuts
+15480	-23.6493315	-46.7576206	(shop) (null)	Multiplex Campo Limpo
+15533	-23.5880026	-46.6452266	(shop) (null)	Luz da Villa
+15969	-23.5426232	-46.6577352	(shop) (null)	Starbucks
+20850	-23.5438648	-46.650194	(shop) (null)	Godere Restaurante
+20866	-23.9337115	-46.330326	(shop) (null)	Rei do Mate
+20893	-23.5641683	-46.6883936	(shop) (null)	Kopenhagen
+21211	-23.6246462	-46.6997252	(shop) (null)	Starbucks
+21279	-23.5963012	-46.6397354	(shop) (null)	Clemente Café
+21326	-23.5395515	-46.6378708	(shop) (null)	Lanchonete Rainha da Santa Ifigenia
+21420	-23.5834	-46.676095	(shop) (null)	La Guapa
+21424	-23.5588628	-46.6909718	(shop) (null)	Pão
+21428	-23.5546496	-46.6887071	(shop) (null)	Le Pain Quotidien
+21509	-23.6003602	-46.6660155	(shop) (null)	Cheesecakeria
+21516	-23.6055151	-46.6692902	(shop) (null)	Starbucks
+21895	-23.5440759	-46.6488346	(natural) (null)	NaturAll da Fazenda
+21896	-23.5542141	-46.6573896	(natural) (null)	NaturAll da Fazenda
+22543	-23.5527348	-46.5990527	(amenity) (null)	Universidade São Judas
+22651	-23.5613612	-46.6686254	(shop) (null)	Le Pain Quotidien
+23096	-23.548019	-46.6903663	(shop) (null)	Stuzzi Gelato
+23119	-23.583944	-46.6424793	(shop) (null)	Original American Cofee Cake
+23289	-23.5616795	-46.6548862	(amenity) (null)	122. Estação Masp
+23407	-23.5641188	-46.6515912	(natural) (null)	Vita Natural
+23502	-23.5540664	-46.6628167	(shop) (null)	Fran's Café
+23651	-23.5562058	-46.6525377	(shop) (null)	Café Bistrô Paraná
+23725	-23.5659557	-46.6504623	(shop) (null)	McCafé
+24016	-23.6025222	-46.6647669	(shop) (null)	Starbucks
+24500	-23.5438805	-46.6345346	(amenity) (null)	141 .Largo São Bento
+24768	-23.6289538	-46.6602093	(shop) (null)	Grao Espresso
+24821	-23.6680247	-46.0644927	(shop) (null)	Bar da Dona Maria
+25617	-23.5453773	-46.6354859	(shop) (null)	Café Martinelli Midi
+25798	-23.5258822	-46.6994882	(shop) (null)	Honey Café
+26025	-23.5572463	-46.6347519	(shop) (null)	Café Liberté
+26739	-23.6447335	-46.7000252	(shop) (null)	Café do Ponto
+27322	-23.5351168	-46.6222476	(shop) (null)	Restaurante e Lanchonete Lopes II
+27522	-23.5296029	-46.6372936	(shop) (null)	Shoshi Delishop
+27669	-23.2156971	-45.9094501	(shop) (null)	Fika Cafés Especiais
+27803	-23.5988553	-46.6373098	(shop) (null)	Starbucks
+28678	-23.531687	-46.6103848	(shop) (null)	Café Fox
+28791	-23.5620311	-46.681843	(shop) (null)	Futuro Refeitório
+28997	-23.6656322	-46.5419537	(amenity) (null)
+29042	-23.6588467	-46.5360314	(amenity) (null)	Burger'n'Games
+29625	-23.535501	-46.6872611	(amenity) (null)	Estação 271 cotoxó
+29999	-23.5535633	-46.6529942	(shop) (null)	Fran's Café
+30340	-23.555555	-46.6740089	(shop) (null)	Café Plato
+31136	-23.5208477	-46.7009238	(natural) (null)	Beleza Natural
+31142	-23.6531046	-46.7105565	(natural) (null)	Beleza Natural
+31146	-23.5387821	-46.5758204	(natural) (null)	Beleza Natural
+31147	-23.5391776	-46.5769868	(natural) (null)	Beleza Natural
+31167	-23.5414396	-46.6558462	(shop) (null)	Restaurante New York
+31316	-23.2016386	-45.8921614	(shop) (null)	Dona Fê Café Bistrô
+31655	-23.5572261	-46.6541245	(shop) (null)	Arabia Express
+31903	-23.5605956	-46.6781267	(shop) (null)	Ant coffee shop
+33160	-23.5465145	-46.6441343	(shop) (null)	Magg Café
+33473	-23.5716568	-46.6964913	(shop) (null)	shopping Eldorado
+33542	-23.5447812	-46.6429989	(shop) (null)	Starbucks
+33608	-23.5813846	-46.6807075	(shop) (null)	Santo Grão Itaim
+33609	-23.6243257	-46.6996885	(shop) (null)	Santo Grão Morumbi
+33659	-23.5593242	-46.6893823	(shop) (null)	Santo Grão Vila Madalena
+33980	-23.5611007	-46.6878458	(shop) (null)	Bar Zingo & Ringo
+34073	-23.5554187	-46.6351967	(shop) (null)	89C Coffee Station
+35042	-23.9421859	-46.3724857	(shop) (null)	Padaria Nossa Sra. das Graças
+35124	-23.1822736	-46.8915907	(shop) (null)	V² Café & Restaurante
+35224	-23.5396546	-46.6693228	(shop) (null)	Amores aos Pedaços
+35445	-23.5902201	-46.5738275	(shop) (null)	Rock Burger
+35638	-23.5463416	-46.638905	(shop) (null)	Starbucks
+35810	-23.4272286	-46.4801151	(shop) (null)	Starbucks
+36027	-23.5680859	-46.7006945	(shop) (null)
+36032	-23.5676546	-46.6994381	(shop) (null)	Lanchonete Estrela de Pinheiros
+36039	-23.5676225	-46.7002183	(shop) (null)	Grão Expresso
+36041	-23.5672832	-46.7001847	(shop) (null)	Restaurante Mercado Natural
+36320	-23.5515285	-46.6912363	(natural) (null)	Restaurante Cereal Brasil
+36385	-23.9653008	-46.3360114	(natural) (null)	Takê Restaurante Natural
+36492	-23.5065237	-46.5966557	(shop) (null)
+36817	-23.5451255	-46.6370084	(amenity) (null)
+36921	-23.5564435	-46.6872425	(shop) (null)	Lá da Venda
+37029	-23.5623931	-46.6919503	(shop) (null)	Cyber Café
+37051	-23.552238	-46.6915761	(shop) (null)	Mon Petit Pet Shop
+37177	-23.5734389	-46.6894936	(shop) (null)	Florida
+37323	-23.5728006	-46.6894126	(shop) (null)	Center
+37342	-23.5484084	-46.6548188	(shop) (null)	Lanchonete 593
+37344	-23.5497401	-46.6539338	(shop) (null)	Solar da Consolação
+37682	-23.5449364	-46.573363	(shop) (null)	Coffee J.A
+37964	-23.5601116	-47.1630141	(shop) (null)	Hotel Pet Village
+38197	-23.5576341	-46.6651796	(amenity) (null)
+38374	-23.7025583	-46.5759246	(shop) (null)	Adoro Doces e Salgados
+38859	-23.5427049	-46.5654675	(shop) (null)	Cantinho da Edite
+39022	-23.5491932	-46.5575591	(shop) (null)	Lanchonete Nova São Luiz
+39033	-23.5438714	-46.5588182	(shop) (null)
+39083	-23.5664068	-46.6388115	(shop) (null)	Dolce Caffé
+39348	-23.5288228	-46.6186534	(shop) (null)	Panela de Barro
+39431	-23.5418724	-46.6394031	(shop) (null)	Bob lanches
+39931	-23.5362298	-46.6464379	(shop) (null)	Bio Barista Cafés Especiais
+40181	-23.6026438	-46.6782311	(shop) (null)	jamie olliver and shops
+40199	-23.4851373	-46.629168	(shop) (null)	Lanchonete Mandaqui
+41736	-23.5657504	-46.6508308	(shop) (null)	Starbucks
+42149	-23.6036194	-46.6920356	(shop) (null)	Starbucks
+42576	-23.5612501	-46.699036	(shop) (null)	Restaurante Mercado
+42717	-23.5611258	-46.7001555	(shop) (null)	Restaurante Mercado
+42837	-23.5954847	-46.6702505	(shop) (null)	Le Pain Quotidien
+74779	-23.6383734	-46.69749565	(natural) (null)	Natural da Terra Hortifruti Alto da Boa Vista
+122795	-23.6604967	-46.526681350000004	(amenity) (null)	Cine-Teatro Carlos Gomes
+141259	-23.745497800000003	-46.75137655	(shop) (null)	Rua Elisabete Bishop
+165430	-23.692435250000003	-46.5565768	(amenity) (null)	Paróquia da Santíssima Virgem
+178380	-23.777590099999998	-46.30020135	(shop) (null)	Antigo Mercado
+189271	-23.7024017	-46.4709907	(shop) (null)	Rua Frederich Bishop
+196953	-23.54952385	-46.657605000000004	(shop) (null)	Dulca
+196954	-23.549220650000002	-46.6579469	(shop) (null)	Fabrique Pão e Café
+201664	-23.596477200000002	-46.63692655	(shop) (null)	Fly Sensual Sexshop
+205399	-23.6055532	-46.6349145	(amenity) (null)	Kojiro Kous
+207870	-23.5612984	-46.693760850000004	(shop) (null)	Ofner
+212156	-23.52782505	-46.6132034	(shop) (null)	Cachoeira Bar e Restaurante
+212184	-23.53893195	-46.603164	(shop) (null)	Mega Brás
+213813	-23.44214855	-47.05978385	(natural) (null)	Córrego
+216166	-23.9204235	-46.3163998	(shop) (null)	Workshop
+218680	-23.64080895	-46.67902135	(natural) (null)	Parque Municipal do Cordeiro - Oeste
+227937	-23.27456315	-47.29171145	(shop) (null)	Unishop
+237114	-23.6689582	-46.58838755	(natural) (null)	HMS Natural
+240453	-23.65969025	-46.54011615	(shop) (null)	Café da Vila
+245052	-23.67519115	-46.740641600000004	(shop) (null)	petshop
+245393	-23.48696725	-46.42185805	(natural) (null)	praça don Ercilio
+245792	-23.62420985	-46.57997515	(shop) (null)	Parque Tom Jobim - Espaço Cerâmica
+246283	-23.57158345	-46.32509585	(natural) (null)	Área de preservação natural M.Rocha
+247336	-23.2677257	-45.9417398	(shop) (null)	Padaria Villa Branca
+250215	-23.19349425	-45.8933899	(shop) (null)	Fika Cafés Especiais
+250261	-23.204890849999998	-45.90111285	(shop) (null)	Floresteria
+251346	-23.20324105	-45.90032755	(shop) (null)	Origem Cultural Café
+254531	-23.4759016	-46.650044449999996	(shop) (null)	Pães e Doces Arouquense
+254743	-23.2041083	-45.8970773	(shop) (null)	Abstrato Café e Bar
+254924	-23.19521115	-45.893881699999994	(shop) (null)	BARISTA'S
+260196	-23.534580849999998	-46.6574648	(natural) (null)	Natural da Terra
+260992	-23.19648605	-45.9126264	(natural) (null)	Escola Natural Vivência
+261929	-23.78119265	-46.3033107	(amenity) (null)	Antigo Hospital do Alto da Serra
+264273	-23.7126131	-46.4123765	(natural) (null)	Córrego da Pastoril
+264275	-23.710125849999997	-46.41326715	(natural) (null)	Ribeirão Grande
+264276	-23.70900035	-46.4166446	(natural) (null)	Ribeirão Grande
+264412	-23.71037725	-46.4152572	(natural) (null)	Ribeirão Grande
+264413	-23.71383575	-46.4140972	(natural) (null)	Córrego da Escada
+268029	-23.709505200000002	-46.4144318	(natural) (null)	Ribeirão Grande
+269577	-23.6530019	-46.535655500000004	(natural) (null)	Natural Jardim Restaurante
+269951	-23.56575885	-46.70005585	(shop) (null)	Buffet & Restaurante Mercado
